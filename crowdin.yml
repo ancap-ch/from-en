@@ -1,0 +1,6 @@
+files:
+  - source: /*/*
+    ignore:
+      - tmp
+      - out
+    translation: '%original_path%/%original_file_name%'
