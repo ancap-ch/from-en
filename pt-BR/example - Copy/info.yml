@@ -1,34 +1,34 @@
 ---
-language: en
+language: pt-BR
 translation: false
 titles:
-  - Text title
-  - '~~Centered~~'
-  - '~~~~ the right'
+  - Título do texto
+  - '~ ~ Centrado ~ ~'
+  - à direita
 authors:
-  - Author name
-  - Another author name
-  - Someone else
+  - Nome do autor
+  - Outro nome de autor
+  - Outra pessoa
 collaborators:
-  - Collaborator name
-  - Another person
-  - Yet someone else
+  - Nome do colaborador
+  - Outra pessoa
+  - Ainda outra pessoa
 thanks:
-  - Someone helpful
-  - Some company
-  - Yet someone else
+  - Alguém útil
+  - Alguma empresa
+  - Ainda outra pessoa
 translators:
-  - Translator name
-  - Another translator name
-  - Third translator
+  - Nome do Tradutor
+  - Outro nome de Tradutor
+  - Terceiro tradutor
 reviwers:
-  - Reviwer name
-  - Another reviwer name
-  - Third reviwer name
+  - Nome do revisor
+  - Outro nome de revisor
+  - Terceiro nome de revisor
 tags:
-  - Some Tag
-  - Another Tag
-  - And so on
+  - Alguma Tag
+  - Outra Tag
+  - E assim por diante
 mds:
   - content.md
 discussions:
