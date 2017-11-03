@@ -1,0 +1,15 @@
+persons_by_id:
+  - person_by_id:
+    identifier: "template_person"
+    name: Person name
+    titles: 
+      - Person title
+      - Another title
+    websites: 
+      - "https://person-website.com"
+    phones: 
+      - Person phone
+    emails: 
+      - person@email.com
+    description: |
+      Person description.
