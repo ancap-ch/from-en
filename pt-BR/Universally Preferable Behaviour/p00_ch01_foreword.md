@@ -42,17 +42,17 @@ Portanto a moralidade permanece, relativa à ciência moderna, assim como a "ast
 
 Essa "besta" de relativismo ético espreita sobre nós, se alimenta de nós, justificando impostos, prisões, censura e guerras. Ele escraviza jovens em escolas estatais e dominicais; ele seduz os pobres nas gulags suaves do Estado de bem-estar social; ele escraviza até mesmo os não nascidos em poços sem fundo de dívidas nacionais.
 
-Como escrevi no meu livro anterior, “Da Verdade: A Tirania da Ilusão”, a mentira mais fundamental no centro de teorias éticas não-provadas é que tais teorias são sempre apresentadas para crianças como objetivas e como fatos incontornáveis, quando na verdade tais teorias são meros dogmas culturais. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+Como escrevi no meu livro anterior, “Da Verdade: A Tirania da Ilusão”, a mentira mais fundamental no centro de teorias éticas não-provadas é que tais teorias são sempre apresentadas para crianças como objetivas e como fatos incontornáveis, quando na verdade tais teorias são meros dogmas culturais. A razão pela qual cientistas não precisam de um governo ou de um Vaticano é que cientistas utilizam uma metodologia objetiva para resolver disputas: o método científico. A razão pela qual linguagem não precisa de uma autoridade central para guiar sua evolução é que a mesma conta com um “mercado livre” de preferências individuais acumuladas para estilo e utilidade.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+A razão pela qual a moralidade moderna – e a moralidade por toda a história – sempre teve que depender primeiramente no "bullying" de crianças e depois na ameaça à adultos, é que a mesma é uma mentira manipulativa mascarando-se como verdade virtuosa.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+A verdade é que precisamos de moralidade; a mentira é que deuses e governos podem defini-la racionalmente ou forçá-la de forma justa.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Meu objetivo neste livro é definir uma metodologia para validar teorias à respeito da moralidade que é objetiva, consistente, clara, racional, empírica – e *verdadeira*.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+Estou perfeitamente consciente que, neste momento, você provavelmente deve estar sentido crescer uma onda de ceticismo. Eu entendo completamente que a probabilidade que um cara, internet à fora – a terra dos malucos – de alguma forma resolveu o problema filosófico das eras não são particularmente altas – na verdade, elas seriam tão perto de zero que seriam virtualmente indistinguíveis de tal valor.
 
-Still, not *quite* zero.
+Ainda assim – não zero, *exatamente*.
 
 ### Ground Rules
 
