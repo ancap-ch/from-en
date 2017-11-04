@@ -2,13 +2,13 @@
 
 Em vários contos de fadas, vive uma fera terrível de poder estupendo, um dragão ou um basilisco, que tiraniza as terras próximas. Os habitantes dos vilarejos próximos tremem perante o som desse monstro; eles sacrificam seus animais, pagam seus tributos, pagam dinheiro e sangue na esperança de acalmar os impulsos assassinos do monstro.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+A maioria se acovarda sob a sombra dessa fera, autoproclamando seu medo de “prudência”, mas alguns – bêbados talvez, em coragem ou estupidez – decidem enfrentar o monstro. Ano após ano, década após década, onda após onda de campeões esperançosos tentam equiparar a sua força, virtude e astúcia à do terrível tirano.
 
-Try – and fail.
+Tentam - e falham.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+A fera é sempre imortal, então os aldeões não podem esperar que o tempo os livre do seu déspota. O monstro jamais é racional e não tem o menor desejo de proceder em trocas mútuas, portanto nenhuma negociação é possível.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+A única esperança dos aldeões desesperados é que um homem capaz de derrotar o monstro apareça.
 
 Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
 
@@ -73,6 +73,20 @@ Having spent the last few years of my life preparing, training, and then combati
 I studied the history of philosophy in graduate school, and hold a Masters degree, but I do not have a PhD in philosophy. I am far from a publicly recognised intellectual. While I may not be the *most* unlikely champion, I am also far from the most likely. Whether I have succeeded or not is not up to you, and it is not up to me.
 
 If the reasoning holds, the greatest beast is down.
+
+## A Modest Suggestion
+
+It is the height of audacity to suggest to readers how to read a book, but given the challenges of the task before us, I would like to make one small suggestion before we embark.
+
+If we lived in the fifteenth century, and I were trying to convince you that the world were round, I would put forward reams of mathematical and physical proofs. If you held a contrary opinion, you would naturally react with scepticism, and be inclined to quibble with every line of proof. However, if you and I could in fact sail around the world, and arrive back where we started without retracing our steps, you would be far more willing to accept the conceptual proofs for what you had already *experienced* to be true. You might find fault with a particular logical step or metaphor, but you would already agree with the conclusion, and thus would be more prone to help correct the details rather than reject the theory as a whole.
+
+If my task were to respond to every possible objection to every linguistic, logical and empirical step, this book would remain forever unfinished – and unread. Perfectionism is, in essence, procrastination, and I consider the task of this book to be too important – and the dangers of false morality too grave and imminent – to spend so long trying to achieve heaven that we all end up in hell.
+
+Thus I humbly suggest that you wait to see how effective the ethical framework I propose is at proving the most commonly accepted moral maxims of mankind before passing final judgement on the theory.
+
+I truly believe that the definition of a rational ethical framework is the most essential task that faces mankind. I truly appreciate your interest in this crucial matter – and would like as always to thank the wonderfully kind donators who have made this work possible.
+
+I ride into battle well armed by others.
 
 [^1]: Most of these will be discussed in more detail throughout the course of this book.
 
