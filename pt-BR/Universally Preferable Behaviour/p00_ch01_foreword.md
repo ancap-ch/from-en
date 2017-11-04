@@ -26,11 +26,11 @@ Desde que o que chamamos de ética segue subjetivo e meramente *cultural*, nós 
 
 Nós não podemos viver sem moralidade, mas não conseguimos definir moralidade objetivamente – portanto permanecemos nessa eterna condenação para vidas vazias, preenchidas apenas por hipocrisia pomposa, dominância cínica e escravidão pífia.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Intelectualmente, não há nada mais importante e decisivo no mundo. Nossa falha em definir regras morais objetivas e racionais custou milhões de vidas humanas, em guerras religiosas e entre Estados.
 
-In many ways, the stakes are getting even higher.
+Em muitos aspectos, a importância está ficando cada vez maior.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+O aumento de fluxo de informações causado pela internet trouxe suspeita de uma geração que considera que o que chamamos de “virtude” é nada mais - ou menos - que contos de fadas prontos de seus anciãos hipócritas. As mentiras pífias contadas por aqueles em posições de autoridade – e a cumplicidade daqueles que os louvam – são, hoje, mais claras do que nunca.
 
 “Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
 
