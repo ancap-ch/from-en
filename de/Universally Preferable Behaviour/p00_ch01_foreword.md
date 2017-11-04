@@ -74,7 +74,7 @@ I studied the history of philosophy in graduate school, and hold a Masters degre
 
 If the reasoning holds, the greatest beast is down.
 
-## A Modest Suggestion
+### A Modest Suggestion
 
 It is the height of audacity to suggest to readers how to read a book, but given the challenges of the task before us, I would like to make one small suggestion before we embark.
 
