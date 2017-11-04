@@ -11,4 +11,4 @@ My largest debt is to Ludwig von Mises and Murray N. Rothbard, the twentieth cen
 
 Hans-Hermann Hoppe
 
-_Las Vegas, Nevada, 1993_
+*Las Vegas, Nevada, 1993*
