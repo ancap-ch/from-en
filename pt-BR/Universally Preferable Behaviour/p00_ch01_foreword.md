@@ -14,17 +14,17 @@ Inevitavelmente, um homem aparece que parece, na vista de todos, ser completamen
 
 Esse livro é a história de meu ataque pessoal em uma fera do tipo.
 
-Essa "fera" é a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Essa "fera" é a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. É a ilusão de que a moralidade deve para sempre ficar perdida entre os pântanos irracionais de deuses e Estados, "imposta" meramente por razões pragmáticas, porém pra sempre sem uma justificação lógica e definições claras. Ela é a fantasia que a virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares e deixada à poeira para ser explorada e apalpada por políticos e padres – e pais. Tal fera é a superstição que, sem as amarras dos pais, o "bullying" de deuses ou as armas do governos, não podemos ser racionais e bons.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Esse monstro derrubou muitos grandes heróis, de Sócrates à Platão, Santo Agostinho à Hume, Kant à Rand.
 
-The cost to mankind has been enormous.
+O custo para a humanidade tem sido enorme.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Desde que havíamos permanecidos incapazes de definir um sistema racional de moralidade universal, nós fomos forçados a infligir histórias religiosas de horror em nossas crianças, ou dar armas, prisões e exércitos para um monopólio de controladores sem alma que se autodenominam “Estado."
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Desde que o que chamamos de ética segue subjetivo e meramente *cultural*, nós inevitavelmente terminamos dependendo de "bullying", medo e violência para enforcar regras sociais. Já que a ética é carente de uma base racional como o método científico, “moralidade” permanece presa à uma guerra tribal de mitologias sangrentas, cada gangue lutando piamente pelo controle pela fidelidade das pessoas à “virtude."
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Nós não podemos viver sem moralidade, mas não conseguimos definir moralidade objetivamente – portanto permanecemos nessa eterna condenação para vidas vazias, preenchidas apenas por hipocrisia pomposa, dominância cínica e escravidão pífia.
 
 Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
 
@@ -74,7 +74,7 @@ I studied the history of philosophy in graduate school, and hold a Masters degre
 
 If the reasoning holds, the greatest beast is down.
 
-## A Modest Suggestion
+### A Modest Suggestion
 
 It is the height of audacity to suggest to readers how to read a book, but given the challenges of the task before us, I would like to make one small suggestion before we embark.
 
