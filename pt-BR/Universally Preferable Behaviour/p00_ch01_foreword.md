@@ -10,11 +10,11 @@ A fera é sempre imortal, então os aldeões não podem esperar que o tempo os l
 
 A única esperança dos aldeões desesperados é que um homem capaz de derrotar o monstro apareça.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Inevitavelmente, um homem aparece que parece, na vista de todos, ser completamente atemporal. Ele é um garoto do estábulo, um filho de um sapateiro, um aprendiz de padeiro – as vezes, é só um passante.
 
-This book is the story of my personal assault on just such a beast.
+Esse livro é a história de meu ataque pessoal em uma fera do tipo.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Essa "fera" é a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
 
 This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
 
