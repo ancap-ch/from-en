@@ -5,8 +5,8 @@ Below there's an enumerated list of styled pangrams, that shows every character,
 1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
 2. numbers: 0123456789. 
 3. symbols: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
-4. ênfase: *The quick, brown fox jumps over a lazy dog.* 
-    1. ênfase forte: **a raposa rápida e marrom pula sobre o cão preguiçoso.**
+4. emphasys: *The quick, brown fox jumps over a lazy dog.* 
+    1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
     2. inner emphasys: **The *The quick, brown fox jumps over a lazy dog* dog.** 
         1. en: The quick, brown *fox* **jumps *over* a** lazy dog.
         2. pt-BR: À noite, vovô *Kowalsky* **vê o ímã *cair no pé* do pingüim queixoso** e vovó põe açúcar no chá de tâmaras do jabuti feliz.
