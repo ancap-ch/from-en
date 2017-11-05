@@ -1,10 +1,10 @@
 ## Primeiro Teste: Estupro
 
-Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
+Embora esse seja um tema desagradável para discutir, estupro é sem dúvidas a ação *menos* ambígua que qualquer teoria moral deve abranger. Assassinato pode ser complicado por legítima defesa; roubo pelo problema de fome ou "roubar de volta" - mas ninguém pode nunca estuprar por legítima defesa; estupro é pelo seu verdadeiro significado iniciação de agressão.
 
-Let us then use the UPB framework to examine the logical consistency of ethical propositions regarding rape, with reference to these seven moral categories.
+Então usaremos o quadro de UPB para examinar a consistência lógica de proposições éticas sobre estupro, com referência a essas sete categorias morais.
 
-### The Good
+### O Bem
 
 To take an absurd example, let’s imagine that we are reviewing an ethical theory that proclaims that rape is a moral good.
 
