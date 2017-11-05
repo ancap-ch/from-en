@@ -6,11 +6,11 @@ Então usaremos o quadro de UPB para examinar a consistência lógica de proposi
 
 ### O Bem
 
-To take an absurd example, let’s imagine that we are reviewing an ethical theory that proclaims that rape is a moral good.
+Para dar um exemplo absurdo, vamos imaginar que estamos revisando uma teoria ética que proclame que estupro é um bem moral.
 
-Clearly, if I proclaim that “X” is “the good,” then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+Claramente, se eu proclamo que "X" é "o bem," então o oposto de "X" tem que ser o mal. Se *não estuprar* é bom, então *estuprar* tem que ser mal. Inversamente, se *estuprar* é bom, então *não estuprar* tem que ser mal.
 
-Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
+Estuprar alguém é uma ação positiva que tem que ser iniciada, executada, e então completada. Se "estupro" é um bem moral, então "não estuprar" tem que ser um mal moral - assim é impossível para dois homens em uma única sala *serem ambos morais ao mesmo tempo*, uma vez que apenas um deles pode ser um estuprador em um dado momento - e ele só pode ser um estuprador se o outro homem virar sua vítima.
 
 That which enables virtue cannot be evil. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
 
