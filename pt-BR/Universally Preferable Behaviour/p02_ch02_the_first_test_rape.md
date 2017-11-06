@@ -44,11 +44,11 @@ Com isso em mente, vamos continuar a nossa examinação do estupro.
 
 ### Esteticamente Positivo
 
-Aesthetically positive actions (APAs) are universally preferable, but not enforceable through violence, since aesthetically negative actions do not initiate the use of force. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
+Ações esteticamente positivas (APAs) são universalmente preferíveis, mas não executáveis atravéz de violência, uma vez que ações esteticamente negativas não iniciam o uso da força. Como discutimos acima, se eu estou atrasado para te encontrar, eu não iniciei o uso da força contra você, e eu não removi a sua capacidade de escolha, ou evitei a situação.
 
-If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
+Se nós dissermos que APAs podem ser aplicadas por meio de violência, então nós estamos dizendo que a iniciação da violência é moralmente boa.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+Se nós propomos uma regra moral de que a iniciação da violência é moralmente boa, então essa regra enfrenta todas as mesmas impossibilidades lógicas da regra "estupro é bom moralmente."
 
 Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
 
