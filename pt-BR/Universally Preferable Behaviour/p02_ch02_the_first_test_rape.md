@@ -20,9 +20,9 @@ Problemas lógicos insuperáveis assim resultam da proposição: "estupro é mor
 
 Da mesma forma, dois homens em um quarto devem ser considerados estar na mesma situação. Se só um deles pode ser bom, porque bondade é definido como estupro, é só um deles pode estuprar ao mesmo tempo, então nós temos uma contradição lógica que não pode ser resolvida.
 
-Além disso, se nós concordamos que Comportamentos Universalmente Preferíveis tem que ser independentes do tempo, então nós também enfrentamos um problema lógico que, não importa qual é sua virilidade física, em um algum ponto o estuprador vai simplesmente ser incapaz de estuprar mais, porque ele vai ser fisicamente impedido de ter uma ereção. Nesse ponto, sua agilidade de executar a "boa ação" torna-se impossível. Since “avoidability” is a key criterion for morality, but he is physically unable to be good – in other words, he is unable to avoid being evil – then he cannot be responsible for not raping the other man.
+Além disso, se nós concordamos que Comportamentos Universalmente Preferíveis tem que ser independentes do tempo, então nós também enfrentamos um problema lógico que, não importa qual é sua virilidade física, em um algum ponto o estuprador vai simplesmente ser incapaz de estuprar mais, porque ele vai ser fisicamente impedido de ter uma ereção. Nesse ponto, sua agilidade de executar a "boa ação" torna-se impossível. Desde que "inevitabilidade" é um critério fundamental para a moralidade, mas ele é fisicamente incapaz de evitar ser mal - então ele não pode ser responsável por não estuprar o outro homem.
 
-If a man hanging from a tree over a canyon lets go because he lacks the strength to continue holding on, we would not call that a suicide, since the choice to hang on was no longer available to him. If he lets go although he has the strength to continue holding on, the case would not be quite so clear.
+Se um homem pendurado numa árvore sobre um canyon solta ela porque ele não tem mais força para segurar, nós não chamaríamos isso de suicídio, desde que a escolha de segurar a árvore já não estava disponível pra ele. Se ele a solta embora que ele tenha a força para continuar segurando, o caso não seria tão claro.
 
 #### The Coma Test
 
