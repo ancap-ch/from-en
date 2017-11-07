@@ -106,7 +106,7 @@ Ações pessoalmente negativas (PNAs) por definição não podem ser forçadas s
 
 ### Esteticamente Negativo
 
-Perhaps rape is an aesthetically *negative* action, like “being late” – the flip-side of number two above. However, aesthetically negative actions (ANAs) cannot logically be violently enforced *because by definition they can be avoided*. Since I can freely choose to stop associating with a man who continually shows up late, I cannot shoot him for being late.
+Talvez o estupro seja uma ação esteticamente *negativa*, como "estar atrasado" - o outro lado do número dois acima. No entanto, ações esteticamente negativas (ANAs) não podem logicamente serem impostas violentamente *porque por definição podem ser evitadas*. Uma vez que eu posso livremente escolher parar de me associar com um homem que continuamente aparece tarde, eu não posso atirar nele por estar atrasado.
 
 However, rape by definition cannot be avoided, since it is a sexual attack enforced through violence.[^4] Also, if I choose to stop being friends with the tardy man mentioned above, he cannot justly force me to be his friend by threatening me with violence, since that would rely on the principle that merely personal preferences can be enforced on others, which would run fruitlessly up against my ability to enforce *my* desire to drop his friendship. This kind of “Tarantino morality” always ends up with everyone in a state of mute paralysis, pointing guns at each other’s faces like frozen statues.
 
