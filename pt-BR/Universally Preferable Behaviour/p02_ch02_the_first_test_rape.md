@@ -82,7 +82,7 @@ Assim, estupro não pode cair na categoria de APAs.
 
 Talvez o estupro seja meramente uma preferência pessoal.[^2]
 
-The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
+Surge então a pergunta: pode a classificação de estupro como uma mera preferência pessoal ficar de pé ao escrutínio lógico?
 
 If we propose the moral rule: “personal preferences must be violently inflicted upon other people,” how does that stand up to the framework of UPB?[^3]
 
