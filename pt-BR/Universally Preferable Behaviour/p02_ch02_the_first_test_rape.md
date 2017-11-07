@@ -66,11 +66,11 @@ Uma APA é uma *regra não coercitiva que pode ser racionalmente aplicada por am
 
 Por exemplo, se minha APA é: "ser pontual," então isso pode ser um padrão universal que pode ser totalmente evitado. Eu não posso forçar está APA em você porque você não precisa ser meu amigo, você não precisa ser pontual, você nãos precisa respeitar ou seguir minhas preferências em qualquer aspecto. [^1]
 
-If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
+Se "ser pontual" é uma APA, então é possível para duas pessoas alcança-la simultaneamente - se eles chegam ambos na hora certa.
 
-With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
+Com estupro, como nós vimos acima, é impossível para duas pessoas executá-lo ao mesmo tempo. Um deve sempre ser o estuprador, e o outro sempre a vítima.
 
-On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
+Por outro lado, se eu falo que "gostar de jazz" é uma APA, então eu imediatamente esbarro em uma impossibilidade lógica. Lembre-se, APAs são regras nãos coercitivas que podem ser racionalmente aplicadas para ambas as partes simultaneamente - a formulação correta para "gostar de jazz" é: "preferências subjetivas são universalmente preferíveis."
 
 Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
 
