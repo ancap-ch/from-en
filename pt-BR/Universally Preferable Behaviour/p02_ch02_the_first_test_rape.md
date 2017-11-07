@@ -50,15 +50,15 @@ Se nós dissermos que APAs podem ser aplicadas por meio de violência, então n�
 
 Se nós propomos uma regra moral de que a iniciação da violência é moralmente boa, então essa regra enfrenta todas as mesmas impossibilidades lógicas da regra "estupro é bom moralmente."
 
-Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+Dois homens em um quarto não podem ser moralmente bons ao mesmo tempo, uma vez que um deles tem que iniciar violência contra o outro, e o outro deve estar resistindo - desde que se ele não está resistindo, isso por definição não é violência, como no exemplo do cirurgião que discutimos acima. Assim a virtude só pode ser habilitada resistindo à virtude, e dois homens na mesma circunstância não podem ser ambos morais ao mesmo tempo é assim por diante - que são violações do UPB.
 
-Thus we know that rape cannot be an APA.
+Assim nós sabemos que estupro não pode ser uma APA.
 
-We can confirm this by reviewing the reasons why “being on time” *is* an APA.
+Nós podemos confirmar isso examinando as razões porque "estar na hora certa" *é* uma APA.
 
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
+Primeiro de tudo, nós instintivamente entendemos que é mais justo rejeitar um amigo por estar perpetuamente atrasado do que rejeitar um amigo por não gostar de sorvete.
 
-Why is that?
+Por que isso?
 
 Once again, the UPB framework comes to the rescue.
 
