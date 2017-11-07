@@ -96,9 +96,9 @@ Finalmente, como preferências pessoais não podem ser impostas sobre os outros,
 
 ### Moralmente Neutro
 
-As discussed above, rape cannot be a morally neutral action, since it is a preference that is enforced upon another.
+Como discutido acima, estupro não pode ser uma ação moralmente neutra, uma vez que é uma preferência imposta sobre alguém.
 
-### Personally Negative
+### Pessoalmente Negativo
 
 Perhaps rape is a *personally negative* action, the opposite of number three. As an example, a criminal on the run would consider capture a personally negative action (PNA).
 
