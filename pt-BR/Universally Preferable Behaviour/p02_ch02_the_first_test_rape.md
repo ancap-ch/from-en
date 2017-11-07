@@ -88,13 +88,13 @@ Se nós propomos a regra moral: "preferências pessoais devem ser violentamente 
 
 Preferências pessoais não podem ser justamente impostas sobre outras pessoas, porque isso iria criar um intransponível paradoxo lógico.
 
-Se eu digo que gostar da banda Queen sobre todas as outras é um comportamento universalmente preferível, por que razão eu poderia justificar essa afirmação? Só por dizer que todas as preferências pessoais devem ser impostas sobre as outras pessoas. No entanto, se minhas preferências pessoais podem ser impostas sobre você à vontade, então pela própria definição de UPB, suas preferências pessoais podem também ser impostas à *mim* à vontade. Assim nós não podemos ser ambos morais ao mesmo tempo, pois isso requereria que nós dois preferissemos nossas próprias bandas e ao mesmo tempo dando preferência para a banda preferida do outro. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
+Se eu digo que gostar da banda Queen sobre todas as outras é um comportamento universalmente preferível, por que razão eu poderia justificar essa afirmação? Só por dizer que todas as preferências pessoais devem ser impostas sobre as outras pessoas. No entanto, se minhas preferências pessoais podem ser impostas sobre você à vontade, então pela própria definição de UPB, suas preferências pessoais podem também ser impostas à *mim* à vontade. Assim nós não podemos ser ambos morais ao mesmo tempo, pois isso requereria que nós dois preferissemos nossas próprias bandas e ao mesmo tempo dando preferência para a banda preferida do outro. Em outras palavras, Eu teria que simultaneamente pensar que Queen é a melhor banda, e que The Police é a melhor banda. Isso é uma impossibilidade lógica, que é a razão central do porque meras preferências pessoais não podem ser universalmente aplicáveis.
 
-Thus if rape is considered to be a merely personal preference, then it cannot logically be enforced upon anybody else. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
+Assim, se estupro é considerada ser uma mera preferência pessoal, então ela não pode ser logicamente aplicada em ninguém mais. Novamente, pensando nos dois homens em um quarto, seria necessário que ambos os homens preferissem estuprar o outro, mas permanecem totalmente incapazes de executar essa decisão, que não é só ilógica, mas também felizmente completamente impraticável.
 
-Finally, since personal preferences cannot be enforced on others, but rape is by definition the enforcement of a “preference” upon another, rape cannot be in the moral category of merely personal preferences.
+Finalmente, como preferências pessoais não podem ser impostas sobre os outros, mas estupro é por definição a imposição de uma "preferência" sobre o outro, estupro não pode estar na categoria moral de uma mera preferência pessoal.
 
-### Morally Neutral
+### Moralmente Neutro
 
 As discussed above, rape cannot be a morally neutral action, since it is a preference that is enforced upon another.
 
