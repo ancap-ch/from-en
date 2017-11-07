@@ -78,9 +78,9 @@ Desde que APAs não são executáveis atravéz de violência - você não pode a
 
 Assim, estupro não pode cair na categoria de APAs.
 
-### Personally Positive
+### Pessoalmente Positivo
 
-Perhaps rape is akin to a merely personal preference.[^2]
+Talvez o estupro seja meramente uma preferência pessoal.[^2]
 
 The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
 
