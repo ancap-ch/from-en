@@ -102,9 +102,9 @@ Como discutido acima, estupro não pode ser uma ação moralmente neutra, uma ve
 
 Talvez estupro seja uma ação *pessoalmente negativa*, o oposto do número três. Por exemplo, um criminoso em fuga consideraria ser capturado uma ação pessoalmente negativa (PNA).
 
-Ações pessoalmente negativas (PNAs) por definição não podem ser forçadas sobre outras pessoas. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
+Ações pessoalmente negativas (PNAs) por definição não podem ser forçadas sobre outras pessoas. Assim, um homem sendo estuprado não poderia "impor" sua preferência de *não ser estuprado* no seu estuprador, como forma de auto defesa. Desta forma, a iniciação da violência - a imposição de uma preferência pessoal - é *moral*, quando legítima defesa - também a imposição de uma preferência pessoal - é imoral. Assim, temos as mesmas ações (a imposição de uma preferência pessoal) classificadas como ambas moral e imoral, o que não pode ser suportado.
 
-### Aesthetically Negative
+### Esteticamente Negativo
 
 Perhaps rape is an aesthetically *negative* action, like “being late” – the flip-side of number two above. However, aesthetically negative actions (ANAs) cannot logically be violently enforced *because by definition they can be avoided*. Since I can freely choose to stop associating with a man who continually shows up late, I cannot shoot him for being late.
 
