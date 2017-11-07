@@ -76,7 +76,7 @@ Não só isto é uma contradição de classificação em termos de sintaxe, mas 
 
 Desde que APAs não são executáveis atravéz de violência - você não pode atirar em alguém por estar atrasado - então estupro *não pode* ser uma APA, já que estupro por definição é um ataque sexual imposto por violência.
 
-Thus rape cannot fall into the category of APAs.
+Assim, estupro não pode cair na categoria de APAs.
 
 ### Personally Positive
 
