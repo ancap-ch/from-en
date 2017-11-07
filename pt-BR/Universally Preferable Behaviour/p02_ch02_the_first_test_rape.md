@@ -60,11 +60,11 @@ Primeiro de tudo, nós instintivamente entendemos que é mais justo rejeitar um 
 
 Por que isso?
 
-Once again, the UPB framework comes to the rescue.
+Mais uma vez, o quadro do UPB vem para o resgate.
 
-An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
+Uma APA é uma *regra não coercitiva que pode ser racionalmente aplicada por ambas as partes simultaneamente*.
 
-For instance, if my APA is: “be on time,” then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+Por exemplo, se minha APA é: "ser pontual," então isso pode ser um padrão universal que pode ser totalmente evitado. Eu não posso forçar está APA em você porque você não precisa ser meu amigo, você não precisa ser pontual, você nãos precisa respeitar ou seguir minhas preferências em qualquer aspecto. [^1]
 
 If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
 
