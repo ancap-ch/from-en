@@ -142,7 +142,7 @@ Assim, parece que a única possibilidade lógica para o estupro é de que *não*
 
 O fato de que o quadro de UPB tenha logicamente e efetivamente validado a proposição moral de que estupro é mal - não "bom", nem "esteticamente preferível" ou "pessoalmente preferível" ou até "moralmente neutro" - é um sinal muito bom. Isso não prova sem sombra de dúvidas que o UPB vai logicamente validar todas as proposições morais de "senso comum", mas o primeiro obstáculo foi passado, e isso nos dá uma grande causa para celebrar. Se eu fosse um físico propondo uma Teoria de Campo Unificado, e a aplicação da minha teoria previu corretamente onde uma bola de baseball jogada iria cair, eu seria justamente enormemente satisfeito.
 
-A teoria da relatividade de Einstein previu que a luz iria curvar em um círculo de gravidade - quando isso foi confirmado, isso não provou a sua teoria sem sombra de dúvidas, mas isso provou que sua teoria *poderia* ser verdadeira, o que foi um grande salto para frente. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
+A teoria da relatividade de Einstein previu que a luz iria curvar em um círculo de gravidade - quando isso foi confirmado, isso não provou a sua teoria sem sombra de dúvidas, mas isso provou que sua teoria *poderia* ser verdadeira, o que foi um grande salto para frente. A primeira validação é sempre a mais difícil, porque é muito fácil dar errado, e o erro é sempre maior que a precisão.
 
 The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
 
