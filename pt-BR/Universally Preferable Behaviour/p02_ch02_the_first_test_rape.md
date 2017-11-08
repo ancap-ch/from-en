@@ -130,7 +130,7 @@ O estuprador pode justificar suas ações evitando a proposição "estupro é bo
 
 Essa proposição também falha no teste lógico mais baixo do UPB. Se Bob acha que ele deveria atingir o próprio prazer estuprando o Doug - independentemente do desprazer de Doug - então Bob não pode racionalmente elevar sua preferência para o UPB.
 
-Se todo mundo deveria atingir o próprio prazer desconsiderando o *des*prazer de sua vítima, então Bob não tem direito de estuprar Doug, uma vez que Bob *prefere* estuprar Doug, Doug é que certamente *não* prefere ser estuprado. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
+Se todo mundo deveria atingir o próprio prazer desconsiderando o *des*prazer de sua vítima, então Bob não tem direito de estuprar Doug, uma vez que Bob *prefere* estuprar Doug, Doug é que certamente *não* prefere ser estuprado. Se todos tivessem que atingir seu prazer não importando o desprazer dos outros, então não teria razão racional do porque a preferência do Bob de estuprar o Doug deveria ter precedência sobre a preferência do Doug de não ser estuprado, desconsiderando o desprazer que recusar ser estuprado causaria no Bob.
 
 Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
 
