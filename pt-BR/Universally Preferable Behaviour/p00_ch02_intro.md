@@ -12,7 +12,7 @@ Entre as pequenas e as grandes verdades, no entanto, são as ilusões que nos ce
 
 Em física, as grandes verdades não podem contradizer as pequenas. Nenhuma "teoria do campo unificado" pode contradizer válidamente nossa sentido-experiência direta de uma pedra caindo ou uma chama em ascensão. A maior teoria matemática não pode ser válida se aplicando-a ela retornar uma alteração incorreta no check-out counter.
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
+Historicamente, no entanto, entre as nossas próprias pequenas verdades e grandes verdades encontra-se o que chamarei de "zona nula".
 
 ### The "Null Zone"
 
