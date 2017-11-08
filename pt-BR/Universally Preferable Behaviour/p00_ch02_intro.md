@@ -18,9 +18,9 @@ Historicamente, no entanto, entre as nossas próprias pequenas verdades e grande
 
 Dizemos a nossos filhos para não bater nos outros, e nós acreditamos que a violência é abstratamente errada, como regra geral de moral. A "pequena verdade" é: "não dê um soco". A "grande verdade" é: "violência é errado".
 
-No entanto, existe e nossas mentes uma entidade imaginária chamada "Deus", e esta entidade é considerada moralmente perfeita. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+No entanto, existe e nossas mentes uma entidade imaginária chamada "Deus", e esta entidade é considerada moralmente perfeita. Infelizmente, esta entidade viola contínua e grosseiramente a regra de que "violência é errado", consignando almas para o inferno, apesar de uma perfeita conhecimento prévio de suas "decisões".
 
-Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
+Assim, temos uma pequena verdade"não dê um soco"e uma grande verdade "violência é errado", mas no meio, temos esta "zona nula" onde o oposto completo de nossas pequenas verdades e nossas grandes verdades é considerado perfeitamente verdadeiro.
 
 Historically, we can see the same inconsistency in physics. There are no perfect circles in our direct experience, but because of a belief in God, all planetary motion had to be a “perfect circle” – a premise that retarded astronomy for centuries. Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth,” but as a *great truth*, or universal principle. Yet for most of human history, it was believed that the stars and planets rotated around the Earth, rather than that the Earth rotated. Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
 
