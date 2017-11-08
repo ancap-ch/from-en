@@ -18,7 +18,7 @@ Historicamente, no entanto, entre as nossas próprias pequenas verdades e grande
 
 Dizemos a nossos filhos para não bater nos outros, e nós acreditamos que a violência é abstratamente errada, como regra geral de moral. A "pequena verdade" é: "não dê um soco". A "grande verdade" é: "violência é errado".
 
-However, there exists in our minds an imaginary entity called “God,” and this entity is considered perfectly moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+No entanto, existe e nossas mentes uma entidade imaginária chamada "Deus", e esta entidade é considerada moralmente perfeita. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
 
 Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
 
