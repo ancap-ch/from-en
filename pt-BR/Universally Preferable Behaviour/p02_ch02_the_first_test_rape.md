@@ -144,7 +144,7 @@ O fato de que o quadro de UPB tenha logicamente e efetivamente validado a propos
 
 A teoria da relatividade de Einstein previu que a luz iria curvar em um círculo de gravidade - quando isso foi confirmado, isso não provou a sua teoria sem sombra de dúvidas, mas isso provou que sua teoria *poderia* ser verdadeira, o que foi um grande salto para frente. A primeira validação é sempre a mais difícil, porque é muito fácil dar errado, e o erro é sempre maior que a precisão.
 
-The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+O quadro de UPB corretamente validou nossa premissa moral de que estupro é mau. Isso é um critério necessário - mas não suficiente - de prova, e totalmente apoia uma investigação adicional. Thus, let us continue…
 
 [^1]: This is very different from a physical assault, which destroys your capacity for free choice.
 
