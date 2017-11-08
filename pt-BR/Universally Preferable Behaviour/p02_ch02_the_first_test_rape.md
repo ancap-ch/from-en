@@ -144,11 +144,11 @@ O fato de que o quadro de UPB tenha logicamente e efetivamente validado a propos
 
 A teoria da relatividade de Einstein previu que a luz iria curvar em um círculo de gravidade - quando isso foi confirmado, isso não provou a sua teoria sem sombra de dúvidas, mas isso provou que sua teoria *poderia* ser verdadeira, o que foi um grande salto para frente. A primeira validação é sempre a mais difícil, porque é muito fácil dar errado, e o erro é sempre maior que a precisão.
 
-O quadro de UPB corretamente validou nossa premissa moral de que estupro é mau. Isso é um critério necessário - mas não suficiente - de prova, e totalmente apoia uma investigação adicional. Thus, let us continue…
+O quadro de UPB corretamente validou nossa premissa moral de que estupro é mau. Isso é um critério necessário - mas não suficiente - de prova, e totalmente apoia uma investigação adicional. Assim, vamos continuar…
 
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
+[^1]: Isto é muito diferente de uma agressão física, que destrói sua capacidade de livre escolha.
 
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
+[^2]: Não se pode alegar que estupro não envolve uma preferência, já que estupro é um comportamento e, como discutimos acima, todos os comportamentos envolvem preferências.
 
 [^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
 
