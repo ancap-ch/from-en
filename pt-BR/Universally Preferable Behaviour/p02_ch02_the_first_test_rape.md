@@ -124,11 +124,11 @@ Além disso, se estupro é mau, então *não* estuprar tem que ser bom - desta f
 
 Desde que evitabilidade é uma das chaves diferenciadoras entre "desagradável" e "imoral," e estupro é claramente um comportamento inevitável, a definição de "estupro é mau" também está de acordo com essa distinção.
 
-Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
+Também, uma vez que existem tempos quando é fisicamente impossível estuprar alguém - por exemplo, quando uma ereção não pode ser atingida - a definição de "estupro é mau" resolve o problema das pessoas serem involuntariamente imorais, o que é por definição impossível, devido ao critério de evitabilidade.
 
-The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+O estuprador pode justificar suas ações evitando a proposição "estupro é bom," e invez disso substituir por outra proposição que suporte seu desejo de estuprar, como: "é moral atingir o próprio prazer, independente do descontentamento dos outros."
 
-This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+Essa proposição também falha no teste lógico mais baixo do UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
 
 If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
 
