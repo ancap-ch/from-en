@@ -150,6 +150,6 @@ O quadro de UPB corretamente validou nossa premissa moral de que estupro é mau.
 
 [^2]: Não se pode alegar que estupro não envolve uma preferência, já que estupro é um comportamento e, como discutimos acima, todos os comportamentos envolvem preferências.
 
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
+[^3]: Note que eu não posso propor que preferências pessoais *podem* ser violentamente impostas em outras pessoas, uma vez que é uma violação do UPB, que afirma que regras morais tem que ser absolutas e universais - se elas não são, elas caem no território APA, e então não podem ser impostas nos outros.
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]: Nós podemos evitar situações que aumentam a probabilidade de estupro, mas nós não podemos evitar um estupro em progresso.
