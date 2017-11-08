@@ -8,9 +8,9 @@ O mundo parece plano; Ele não é. O sol e a lua pareçam ter o mesmo tamanho; E
 
 Estas são as pequenas verdades do dia a dia; que pedras caem, fumaça sobe, o fogo é quente e o sol e a lua, os dois, são redondos. Se continuamos firme e rigorosamente comprometidos com estas "pequenas verdades", podemos derivar a tempo as grandes verdades da física, que nos fornece tais incríveis conhecimentos e poderes.
 
-In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
+Entre as pequenas e as grandes verdades, no entanto, são as ilusões que nos cegam – tanto na física quanto na ética.
 
-In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+Em física, as grandes verdades não podem contradizer as pequenas. Nenhuma "teoria do campo unificado" pode contradizer válidamente nossa sentido-experiência direta de uma pedra caindo ou uma chama em ascensão. A maior teoria matemática não pode ser válida se aplicando-a ela retornar uma alteração incorreta no check-out counter.
 
 Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
 
