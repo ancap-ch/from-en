@@ -134,7 +134,7 @@ Se todo mundo deveria atingir o próprio prazer desconsiderando o *des*prazer de
 
 Assim, Doug pode falar para Bob: "é moralmente bom para mim te estuprar, porque preferências pessoais podem ser violentamente impostas." Bob, é claro, pode responder: "então é moralmente bom para mim resistir violentamente ao seu ataque, já que minha preferência pessoal de não ser estuprado pode também ser violentamente imposta."
 
-Claro, alguns estupradores são filósofos, mas como mencionado acima, o principal perigo para os seres humanos não é o criminoso individual, mas teorias morais irracionais e exploradoras. For instance, incarceration is inevitably justified through an appeal to a moral theory – and incarceration causes far more people to be raped than private criminals could ever dream of. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
+Claro, alguns estupradores são filósofos, mas como mencionado acima, o principal perigo para os seres humanos não é o criminoso individual, mas teorias morais irracionais e exploradoras. Por exemplo, encarceramento inevitavelmente justifica-se atravéz de um apelo à uma teoria moral - e encarceramento faz com que muito mais pessoas sejam estupradas do que criminosos privados poderiam sonhar. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
 
 Thus it would seem that the only logical possibility for rape is that *not* raping is universally preferable behaviour – or that rape is universally banned behaviour.
 
