@@ -6,7 +6,7 @@ Afastando-se destas entranhas narcisistas de interpretação subjetiva do trabal
 
 O mundo parece plano; Ele não é. O sol e a lua pareçam ter o mesmo tamanho; Eles não têm. As estrelas parecem se mover ao redor da terra; Elas não se movem. Aprender a verdade exige que nós vejamos o mundo de fora de nossos sentidos – isso não significa uma rejeição de nossos sentidos, mas um cumprimento hermético da evidência "real" dos sentidos, que não é que o mundo é plano, mas essa matéria, energia e leis físicas são consistentes. Quando soltamos uma pedra de nossa mão, ela cai - esta é a "verdadeira" prova dos sentidos, não que a terra é fixa e irremovível. A ideia de que o mundo é imóvel é uma suposição incorreta que contradiz a evidência direta de nossos sentidos, que é que tudo cai. Se tudo cai, o mundo não pode ser fixo e imóvel.
 
-Estas são as pequenas verdades do dia a dia; que pedras caem, fumaça sobe, o fogo é quente e o sol e a lua, os dois, são redondos. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
+Estas são as pequenas verdades do dia a dia; que pedras caem, fumaça sobe, o fogo é quente e o sol e a lua, os dois, são redondos. Se continuamos firme e rigorosamente comprometidos com estas "pequenas verdades", podemos derivar a tempo as grandes verdades da física, que nos fornece tais incríveis conhecimentos e poderes.
 
 In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
 
