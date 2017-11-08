@@ -1,4 +1,4 @@
-## Introduction
+## Introdução
 
 Por muitas gerações, a humanidade viveu numa espécie de ventre egocêntrico de ignorância auto-imposta: o mundo era plano, o sol, lua e estrelas que giravam em torno dele, antepassados acenaram para ele além das brumas da morte, e o trovão foi a ira dos deuses.
 
@@ -14,9 +14,9 @@ Em física, as grandes verdades não podem contradizer as pequenas. Nenhuma "teo
 
 Historicamente, no entanto, entre as nossas próprias pequenas verdades e grandes verdades encontra-se o que chamarei de "zona nula".
 
-### The "Null Zone"
+### A zona "Nula"
 
-We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+Dizemos a nossos filhos para não bater nos outros, e nós acreditamos que a violência é abstratamente errada, como regra geral de moral. A "pequena verdade" é: "não dê um soco". A "grande verdade" é: "violência é errado".
 
 However, there exists in our minds an imaginary entity called “God,” and this entity is considered perfectly moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
 
