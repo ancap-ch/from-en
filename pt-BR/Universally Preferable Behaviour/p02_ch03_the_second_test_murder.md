@@ -16,7 +16,7 @@ E assim nós podemos ver que a proposição de que "assassinato é bom" não é 
 
 As outras objeções aplicadas para "estupro é bom" também se aplicam aqui. Assassinato não pode ser moralmente neutro, já que juízos moralmente neutros ou ações não podem ser forçadamente impostas nos outros, e assassinato por definição é forçadamente imposto.
 
-There is also a basic contradiction involved in any universal justification for the act of murder, just as there was in the act of rape. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
+Existe também uma contradição básica envolvida em qualquer justificação moral para o ato do assassinato, do mesmo jeito que tinha no ato do estupro. Se Bob tentar estrangular Doug, mas Doug resistir, como Bob poderia racionalmente justificar suas ações de acordo com o UPB?
 
 Well, he could say something like: “a man’s life can be taken any time you want to” – but of course, since UPB is the only valid test of moral propositions, this justifies Doug killing Bob as much as it does Bob killing Doug. Thus Bob can only justify strangling Doug if Doug does not resist in any way – but of course if Doug does not resist, then can it really be considered murder?
 
