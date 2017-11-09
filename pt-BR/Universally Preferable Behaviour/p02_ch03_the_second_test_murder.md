@@ -14,7 +14,7 @@ Se assassinato fosse moralmente bom, então isso também seria o caso de que um 
 
 E assim nós podemos ver que a proposição de que "assassinato é bom" não é só instintivamente bizarra, mas também logicamente impossível.
 
-The other objections that applied to the proposition “rape is good” also apply here. Murder cannot be morally neutral, since morally neutral judgements or actions cannot be forcibly inflicted upon another, and murder by definition is forcibly inflicted upon another.
+As outras objeções aplicadas para "estupro é bom" também se aplicam aqui. Assassinato não pode ser moralmente neutro, já que juízos moralmente neutros ou ações não podem ser forçadamente impostas nos outros, e assassinato por definição é forçadamente imposto.
 
 There is also a basic contradiction involved in any universal justification for the act of murder, just as there was in the act of rape. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
 
