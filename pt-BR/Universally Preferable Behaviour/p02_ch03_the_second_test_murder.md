@@ -24,7 +24,7 @@ Digamos que Bob então ajuste sua premissa dizendo: "eu posso atirar em um homem
 
 Uma vez que um homem continua a ser um homem quando ele dorme, não pode ser o caso de regras morais opostas se aplicarem nele nesse estado. Assim, dizer que é imoral matar um homem quando ele está acordado, mas é moral matar ele quando está dormindo, é criar uma contradição lógica não suportada por qualquer fato biológico objetivo. Um físico poderia dizer que uma rocha cai no chão, mas um balão de hélio sobe - mas isso é porque uma rocha é um balão de hélio tem propriedades fundamentalmente diferentes. Nenhum físico crível pode dizer que uma rocha cai no chão, mas outra rocha com as exatas mesmas qualidades sobem. O mesmo é verdade para teorias morais - nenhum filósofo crível pode dizer que a moralidade se inverte quando um homem está dormindo, já que a natureza humana não se altera fundamentalmente quando ele dorme.
 
-In this way, if we cannot justly shoot a man when he is awake, we also cannot shoot him when he is asleep, since he is still a man.
+Desta forma, se nós não podemos justamente atirar em um homem quando ele está acordado, nós também não podemos mata-lo enquanto está dormindo, já que ele ainda é um homem.
 
 Thus, since the statement “I can shoot a man in his sleep any time I want” cannot be validated according to UPB, it cannot be a true moral proposition.
 
