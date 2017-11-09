@@ -12,7 +12,7 @@ Intuitivamente, nós reconhecemos plenamente a insanidade de uma proposição mo
 
 Se assassinato fosse moralmente bom, então isso também seria o caso de que um homem preso em uma ilha deserta seria moralmente mal por enquanto vivesse lá, já que não teria vítimas para matar. Um homem em coma também seria mau, do mesmo jeito um homem dormindo, ou um homem na mesa de operação. Um torturador seria um homem mal enquanto ele continuasse a torturar - mas ele viraria um homem bom no momento em que sua vítima morresse em suas mãos.
 
-We can thus see that the proposition that “murder is good” is not only instinctively bizarre, but also logically impossible.
+E assim nós podemos ver que a proposição de que "assassinato é bom" não é só instintivamente bizarra, mas também logicamente impossível.
 
 The other objections that applied to the proposition “rape is good” also apply here. Murder cannot be morally neutral, since morally neutral judgements or actions cannot be forcibly inflicted upon another, and murder by definition is forcibly inflicted upon another.
 
