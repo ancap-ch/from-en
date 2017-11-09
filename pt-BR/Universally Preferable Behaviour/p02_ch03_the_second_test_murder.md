@@ -18,7 +18,7 @@ As outras objeções aplicadas para "estupro é bom" também se aplicam aqui. As
 
 Existe também uma contradição básica envolvida em qualquer justificação moral para o ato do assassinato, do mesmo jeito que tinha no ato do estupro. Se Bob tentar estrangular Doug, mas Doug resistir, como Bob poderia racionalmente justificar suas ações de acordo com o UPB?
 
-Bem, ele poderia dizer alguma coisa tipo: "a vida de um homem pode ser tirada a qualquer hora que você quiser" - mas é claro, já que UPB é o único teste válido de proposições morais, isso justifica Doug matar Bob tanto quanto Bob matar Doug. Thus Bob can only justify strangling Doug if Doug does not resist in any way – but of course if Doug does not resist, then can it really be considered murder?
+Bem, ele poderia dizer alguma coisa tipo: "a vida de um homem pode ser tirada a qualquer hora que você quiser" - mas é claro, já que UPB é o único teste válido de proposições morais, isso justifica Doug matar Bob tanto quanto Bob matar Doug. Assim Bob só pode justificar estrangular o Doug se Doug não resistir de qualquer maneira - mas claro, se Doug não resistir, então isso poderia realmente ser considerado assassinato?
 
 Let us say that Bob then adjusts his premise to say: “I can shoot a man in his sleep any time I want.” The problem here is not only the sleep that Bob will lose based on his universal premise, but also the logical impossibility of reversing moral propositions based on the differences in the states of sleeping and waking. Biologically speaking, a man does not become the *opposite* of a man when he falls asleep, any more than gravity reverses when he blinks.
 
