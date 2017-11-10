@@ -26,7 +26,7 @@ Uma vez que um homem continua a ser um homem quando ele dorme, não pode ser o c
 
 Desta forma, se nós não podemos justamente atirar em um homem quando ele está acordado, nós também não podemos mata-lo enquanto está dormindo, já que ele ainda é um homem.
 
-Thus, since the statement “I can shoot a man in his sleep any time I want” cannot be validated according to UPB, it cannot be a true moral proposition.
+Assim, como a declaração: "eu posso atirar em um homem em quanto ele está dormindo quando eu quiser" não pode ser validado de acordo com o UPB, ela não pode ser uma proposição moral verdadeira.
 
 Here again we find that the UPB framework holds true in terms of murder. The only possible valid moral theory regarding murder is that it is evil, or universally banned.
 
