@@ -32,8 +32,8 @@ Aqui encontramos novamente que o quadro de UPB continua verdadeiro em termos de 
 
 Nós poderíamos tomar a mesma abordagem para a questão do assalto, mas os argumentos seriam idênticos aos de estupro e assassinato, então em nome da brevidade, nós devemos continuar.
 
-Passemos agora à questão do roubo. Se este quadro se aplicar aqui também, então nós teremos atingido a trifecta perfeita do nosso entendimento moral instintivo, e achado uma confirmação racional para nossas crenças existentes. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
+Passemos agora à questão do roubo. Se este quadro se aplicar aqui também, então nós teremos atingido a trifecta perfeita do nosso entendimento moral instintivo, e achado uma confirmação racional para nossas crenças existentes. Nós descobrimos a matemática que explica como nós somos capazes de instintivamente pegar uma bola, e isso é um começo necessário.
 
-### Self-Defence?
+### Legítima Defesa?
 
-We have skirted over the issue of self-defence with regards to murder, though it is scarcely necessary to examine it in the case of rape. This is not because the issue of self-defence is either self-evident or uncomplicated, but rather because the complications that exist can be dealt with more comprehensively after we look at the question of theft.
+Nós confirmamos a questão da legítima defesa no que diz respeito ao assassinato, apesar de ser um mal necessário examinar ele no caso de estupro. Isto não é por que o problema da legítima defesa é auto evidente ou sem complicações, mas sim porque as complicações que existem podem ser tratadas mais compreensivamente depois de nós olharmos para a questão do roubo.
