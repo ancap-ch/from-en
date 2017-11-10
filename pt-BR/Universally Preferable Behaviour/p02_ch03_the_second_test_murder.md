@@ -32,7 +32,7 @@ Aqui encontramos novamente que o quadro de UPB continua verdadeiro em termos de 
 
 Nós poderíamos tomar a mesma abordagem para a questão do assalto, mas os argumentos seriam idênticos aos de estupro e assassinato, então em nome da brevidade, nós devemos continuar.
 
-Let us now turn to the question of theft. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
+Passemos agora à questão do roubo. Se este quadro se aplicar aqui também, então nós teremos atingido a trifecta perfeita do nosso entendimento moral instintivo, e achado uma confirmação racional para nossas crenças existentes. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
 
 ### Self-Defence?
 
