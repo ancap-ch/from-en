@@ -26,7 +26,7 @@ Historicamente, vemos esta mesma inconsistência na Física. Não existem círcu
 
 Nenhum homem em sã consciência conhece Deus diretamente. No seu dia a dia, ele aceita totalmente "que o que não pode ser percebido não existe". Nenhum homem sensato hesita toda vez que dá um passo, temendo que uma parede invisível esteja impedindo seu caminho. As maiores abstrações da ciência apoiam sua abordagem.
 
-Por outro lado, na "zona nula" da religião, acredita-se que o exato oposto de ambas as verdades, pequenas e grandes, seja verdade. Particularmente, um homem acredita que "o que não pode ser percebido não existe" - intelectualmente, a ciência provou isso repetidamente. However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
+Por outro lado, na "zona nula" da religião, acredita-se que o exato oposto de ambas as verdades, pequenas e grandes, seja verdade. Particularmente, um homem acredita que "o que não pode ser percebido não existe" - intelectualmente, a ciência provou isso repetidamente. No entanto, na "zona nula" da teologia, o oposto exato desta proposição é verdadeiro - o axioma é "que o que não pode ser percebido" deve existir.
 
 Our belief in the virtue of the military also lies in this “null zone.” If a private man is paid to murder another man, we call him a “gun for hire,” and condemn him as a hit man. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
 
