@@ -28,9 +28,9 @@ Desta forma, se nós não podemos justamente atirar em um homem quando ele está
 
 Assim, como a declaração: "eu posso atirar em um homem em quanto ele está dormindo quando eu quiser" não pode ser validado de acordo com o UPB, ela não pode ser uma proposição moral verdadeira.
 
-Here again we find that the UPB framework holds true in terms of murder. The only possible valid moral theory regarding murder is that it is evil, or universally banned.
+Aqui encontramos novamente que o quadro de UPB continua verdadeiro em termos de assassinato. A única teoria moral valida possível falando de assassinato é que ele é mal, ou universalmente banido.
 
-We could take the same approach to the question of assault, but the arguments would be identical to those of rape and murder, so for the sake of brevity, we shall continue.
+Nós poderíamos tomar a mesma abordagem para a questão do assalto, mas os argumentos seriam idênticos aos de estupro e assassinato, então em nome da brevidade, nós devemos continuar.
 
 Let us now turn to the question of theft. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
 
