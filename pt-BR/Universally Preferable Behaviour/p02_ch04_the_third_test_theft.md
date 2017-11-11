@@ -1,8 +1,8 @@
 ## Terceiro Teste: Roubo
 
-We will have to spend a little bit more time on theft, since it inevitably brings into the picture the question of property rights, which is highly contentious for some.
+Nós teremos que gastar um pouco mais de tempo em roubo, já que ele inevitavelmente traz a em cena a questão dos direitos de propriedade, que é altamente controverso para alguns.
 
-There are many ways of approaching the question of property rights, from “homesteading” to legal definitions to practical considerations etc. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+Existem várias formas de abordar a questão dos direitos de propriedade, desde "homesteading" até definições legais para considerações práticas etc. Não vou abordar nenhum desses aqui, porque a questão dos direitos de propriedade tem que cair no quadro de UPB, se o UPB é para ser uma metodologia racional para avaliar proposições morais.
 
 Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
 
