@@ -8,7 +8,7 @@ Claramente, a proposição moral no que diz respeito ao direito de propriedade �
 
 Agora a primeira "propriedade" de que deve ser tratada é o corpo. "Posse" deve primeiramente e antes de tudo consistir em controle sobre o próprio corpo, porque se esse controle não existe, ou não é considerado válido, então toda a questão da moralidade - muito menos propriedade - vai pra fora da janela.
 
-UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
+UPB é um quadro para avaliar proposições morais, ou argumentos sobre comportamentos universalmente preferíveis para toda a humanidade. Primeiro e acima de tudo, um homem tem que ser responsável pelas próprias ações se eles vão ser julgados moralmente, já que como argumentamos acima, a capacidade de escolher ações é fundamental para qualquer avaliação ética.
 
 If a man has no control over his body, then clearly he has no responsibility for his actions – they are not in fact “his” actions, but rather the actions of his body. Now, no one would rationally argue that if a man strangles another man, it is the murderous fingers that should be put on trial and punished. Clearly, the body cannot entirely control itself, but rather must be to some degree under the direction of the conscious mind.
 
