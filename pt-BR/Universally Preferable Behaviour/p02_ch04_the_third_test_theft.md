@@ -4,9 +4,9 @@ Nós teremos que gastar um pouco mais de tempo em roubo, já que ele inevitavelm
 
 Existem várias formas de abordar a questão dos direitos de propriedade, desde "homesteading" até definições legais para considerações práticas etc. Não vou abordar nenhum desses aqui, porque a questão dos direitos de propriedade tem que cair no quadro de UPB, se o UPB é para ser uma metodologia racional para avaliar proposições morais.
 
-Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
+Claramente, a proposição moral no que diz respeito ao direito de propriedade é esse: ou os seres humanos têm direito de possuir propriedade, ou eles não tem.
 
-Now the first “property” that must be dealt with is the body. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+Agora a primeira "propriedade" de que deve ser tratada é o corpo. "Posse" deve primeiramente e antes de tudo consistir em controle sobre o próprio corpo, porque se esse controle não existe, ou não é considerado válido, então toda a questão da moralidade - muito menos propriedade - vai pra fora da janela.
 
 UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
 
