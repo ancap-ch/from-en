@@ -1,6 +1,6 @@
 ## Terceiro Teste: Roubo
 
-Nós vamos ter que gastar um pouco mais de tempo no roubo, visto que inevitavelmente trás a tona a questão dos direitos de propriedade, que é altamente controverso para alguns.
+Nós temos de gastar um pouco mais de tempo no roubo, visto que inevitavelmente trás a tona a questão dos direitos de propriedade, que é altamente controverso para alguns.
 
 Existem várias formas de abordar a questão dos direitos de propriedade, desde "homesteading" até definições legais para considerações práticas etc. Não vou abordar nenhum desses aqui, porque a questão dos direitos de propriedade tem que cair no quadro de UPB, se o UPB é para ser uma metodologia racional para avaliar proposições morais.
 
