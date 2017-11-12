@@ -2,7 +2,7 @@
 
 Nós temos de gastar um pouco mais de tempo no roubo, visto que inevitavelmente trás a tona a questão dos direitos de propriedade, que é altamente controverso para alguns.
 
-Há várias formas de abordar a questão dos direitos de propriedade, desde "homesteading" até definições legais para considerações práticas etc. Não vou abordar nenhum desses aqui, porque a questão dos direitos de propriedade tem que cair no quadro de UPB, se o UPB é para ser uma metodologia racional para avaliar proposições morais.
+Há várias formas de abordar a questão dos direitos de propriedade, desde "homesteading" até definições legais para considerações práticas etc. Eu não abordarei nenhum desses aqui, porque a questão dos direitos de propriedade tem que cair na organização do UPB, se o UPB deve ser uma metodologia racional para avaliar proposições morais.
 
 Claramente, a proposição moral no que diz respeito ao direito de propriedade é esse: ou os seres humanos têm direito de possuir propriedade, ou eles não tem.
 
