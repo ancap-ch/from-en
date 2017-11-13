@@ -42,9 +42,9 @@ Como mencionado acima, ou seres humanos têm direito de propriedade, ou eles nã
 
 Se um homem não tem direito de usar propriedade, então ele não tem o direito de usar o próprio corpo. Ele não tem o direito de usar os próprios pulmões, e então tem que parar de respirar. Embora isso soa novo, isso é um imediato é inevitável resultado da premissa de que seres humanos não tem direito de propriedade.
 
-It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
+É razoavelmente seguro assumir que alguém com quem você está debatendo sobre direito de propriedade está suspirando, e assim concorda com você que ele tem o direito de usar o próprio corpo, pelo menos.
 
-The question then comes up whether or not human beings have the right to *exclusive* property use. For instance, property could be defined as a sort of time-share principle of ownership, insofar as everyone should have the right to own everything, on some schedule or another.
+A questão então surge se seres humanos têm ou não o direito de uso *exclusivo* da propriedade. For instance, property could be defined as a sort of time-share principle of ownership, insofar as everyone should have the right to own everything, on some schedule or another.
 
 This means of course that a man with lung cancer has a right to at least one lung of a healthy person. Since all ownership starts with the body, if we do not have the right to exclusive ownership over our own body, then we must share our body with other people, or be immoral. The sick man has a right to one of our lungs, and if we withhold it from him, that is exactly the same as stealing it. Similarly, both you and I have the right to use Celine Dion’s singing voice, since it is wholly selfish of her to pretend that she has exclusive ownership of it.
 
