@@ -14,20 +14,20 @@ Encontre abaixo um resumo do argumento principal para a moralidade.
 8. Assim, o ato de debater contém uma aceitação do comportamento universalmente preferível (UPB).
 9. Teorias sobre a UPB devem passar nos testes de consistência lógica e verificação empírica.
 10. O subconjunto de UPB que examina o comportamento executório é chamado "moralidade".
-11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
-12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
+11. Como um subconjunto da UPB, nenhuma teoria moral pode ser considerada verdade se for ilógica ou não suportada pela evidência empírica.
+12. Teorias morais que são suportadas pela lógica e evidências são verdadeiras. Todas as outras teorias morais são falsas.
 
-## Appendix B: Moral Categories
+## Apêndice B: Categorias Morais
 
-Below is a sample table that lists some of the most common categories of actions/rules, and their key differentiators.
+Abaixo está uma tabela de exemplos que lista algumas das categorias mais comuns de ações/regras e seus principais diferenças.
 
-| Action/Rule                       | Preference? | Universal? | Enforceable? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                |
-| --------------------------------- | ----------- | ---------- | ------------ | ----------------------------------------------------- | ------------------------- | ----------------------------- |
-| **Running for the bus**           | No          | No         | n/a          | n/a                                                   | n/a                       | Neutral                       |
-| **You should not like ice cream** | Yes         | No         | No           | n/a                                                   | n/a                       | Neutral (personal preference) |
-| **You should not be late**        | Yes         | Yes        | No           | No                                                    | Yes                       | APA                           |
-| **You should not commit fraud**   | Yes         | Yes        | Yes          | Yes                                                   | Yes                       | Good                          |
-| **You should not rape**           | Yes         | Yes        | Yes          | No                                                    | No                        | Good                          |
+| Ação/Regra                        | Preferível? | Universal? | Executável? | Necessita ação inicial por parte da vítima? | Os infratores podem ser evitados? | Categoria moral               |
+| --------------------------------- | ----------- | ---------- | ----------- | ------------------------------------------- | --------------------------------- | ----------------------------- |
+| **Running for the bus**           | No          | No         | n/a         | n/a                                         | n/a                               | Neutral                       |
+| **You should not like ice cream** | Yes         | No         | No          | n/a                                         | n/a                               | Neutral (personal preference) |
+| **You should not be late**        | Yes         | Yes        | No          | No                                          | Yes                               | APA                           |
+| **You should not commit fraud**   | Yes         | Yes        | Yes         | Yes                                         | Yes                               | Good                          |
+| **You should not rape**           | Yes         | Yes        | Yes         | No                                          | No                                | Good                          |
 
 ## Appendix C: UPB Podcasts
 
