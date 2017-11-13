@@ -40,7 +40,7 @@ Mesmo se rejeitarmos o que foi dito acima, nós ainda podemos usar o UPB para de
 
 Como mencionado acima, ou seres humanos têm direito de propriedade, ou eles não tem. Exceto para algumas áreas cinzas, que vamos descobrir em breve, isso continua a ser uma proposta universal.
 
-If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
+Se um homem não tem direito de usar propriedade, então ele não tem o direito de usar o próprio corpo. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
 
 It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
 
