@@ -26,16 +26,16 @@ Abaixo está uma tabela de exemplos que lista algumas das categorias mais comuns
 | **Correr para pegar o ônibus**     | Não         | Não        | n/a         | n/a                                         | n/a                               | Neutro                       |
 | **Você não deve gosta de sorvete** | Sim         | Não        | Não         | n/a                                         | n/a                               | Neutro (preferência pessoal) |
 | **Você não deve se atrasar**       | Sim         | Sim        | Não         | Não                                         | Sim                               | APA                          |
-| **Você não deve cometer fraude**   | Sim         | Sim        | Sim         | Yes                                         | Yes                               | Good                         |
-| **You should not rape**            | Yes         | Yes        | Yes         | No                                          | No                                | Good                         |
+| **Você não deve cometer fraude**   | Sim         | Sim        | Sim         | Sim                                         | Sim                               | Bom                          |
+| **Você não deve estuprar**         | Sim         | Sim        | Sim         | Não                                         | Não                               | Bom                          |
 
-## Appendix C: UPB Podcasts
+## Apêndice C: Podcasts do UPB
 
-If you would like to further your understanding of UPB and its ramifications, you might find the following podcasts (available [here](www.freedomainradio.com)) helpful. You may also wish to watch the “Introduction to Philosophy” videos, available on [Youtube](www.youtube.com/freedomainradio).
+Se você gostaria aprofundar sua compreensão da UPB e suas ramificações, os seguintes podcasts podem ser úteis. Você também poderia gostar de assistir os vídeos "Introduction of Philosophy", disponível no Youtube.
 
-| Track | Title                                                         | Description                                                                                                                                                                                                        |
+| Faixa | Título                                                        | Descrição                                                                                                                                                                                                          |
 | -----:|:------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|     8 | Proving Libertarian Morality                                  | One of the central challenges faced by libertarians is the need to prove that libertarian moral theory is universally correct, while statist and collectivistic moral theories are incorrect. Here's how to do it! |
+|     8 | Provando a moralidade libertária                              | One of the central challenges faced by libertarians is the need to prove that libertarian moral theory is universally correct, while statist and collectivistic moral theories are incorrect. Here's how to do it! |
 |   560 | Call In Show Dec 17 2006                                      | Universally preferable behaviour and rating dating.                                                                                                                                                                |
 |   562 | Universally Preferable Behaviour for Children                 | The ABCs of UPB.                                                                                                                                                                                                   |
 |   872 | Debating and UPB                                              | Can you debate without using UPB?                                                                                                                                                                                  |
