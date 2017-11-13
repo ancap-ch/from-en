@@ -52,9 +52,9 @@ Se você gostaria aprofundar sua compreensão da UPB e suas ramificações, os s
 |   588 | Positive Obligations - An Example                             | Uma excelente crítica de um dos meus artigos.                                                                                                                                                                                           |
 |   816 | Tennis Anyone?                                                | Uma metáfora para a ação moral.                                                                                                                                                                                                         |
 
-Finally, if you would like to debate these ideas with other interested philosophers, feel free drop by the [Freedomain Radio Message Board](www.freedomainradio.com/board).
+Finalmente, se você gostaria de debater essas ideias com outros filósofos interessados, sinta-se livre para faze-lo no Board de Mensagens da Rádio Freedomain.
 
-## Appendix D: Every UPB Debate I've Ever Had...
+## Apêndice D: Todos os debates do UPB que eu já tive...
 
 **UPB Sceptic**: UPB is invalid. **Me**: How do you know? **UPB Sceptic**: It's not proven! **Me**: So “proof” is UPB? **UPB Sceptic**: No, nothing is UPB. **Me**: Isn't the statement "nothing is UPB" UPB? **UPB Sceptic**: No, that's not what I'm saying at all! I'm saying that UPB is invalid! **Me**: Why? **UPB Sceptic**: Because it's false! **Me**: So presenting true arguments is UPB? **UPB Sceptic**: No! **Me**: So there's nothing wrong with false arguments? **UPB Sceptic**: No. **Me**: Then why are you opposing a false argument? **UPB Sceptic**: Oh, it's just my personal preference. I just dislike falsehood. **Me**: So you're arguing for a merely personal preference? **UPB Sceptic**: Sure! **Me**: So why should your personal preference take precedence over mine? I like UPB, you don't – and why bother debating personal preferences at all? **UPB Sceptic**: Oh - because UPB is invalid! **Me**: Why is it invalid? **UPB Sceptic**: Because it's self-contradictory! **Me**: So consistency is UPB? **UPB Sceptic**: No! And stop repeating the same points over and over! And go read Kant / Hegel / Hume etc.
 
