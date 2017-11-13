@@ -28,11 +28,11 @@ Agora, se uma possessão demoníaca fosse uma ocorrência valida, e uma garota p
 
 Assim, para rejeitar a posse to próprio corpo é rejeitar toda a moralidade, que, como vimos acima, é completamente impossível. Logicamente, uma vez que moralidade é definida como um subconjunto forçavel do UPB, rejeitar a moralidade é dizer que é universalmente preferível acreditar que não existem coisas como preferências universais.
 
-Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
+Finalmente, usar a posse de alguém do próprio corpo na forma de fala para rejeitar a noção de que alguém pode controlar o próprio corpo, é uma auto contradição flagrante e intransponível.
 
-It is in this way that any rejection of self-ownership can be utterly discarded.
+É desta forma que qualquer rejeição da posse de si mesmo pode ser totalmente descartada.
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+Desde que nós possuímos nossos próprios corpos, nós também inevitavelmente possuímos os *efeitos* das nossas ações, sendo elas boas ou más. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
 
 ### Property And UPB
 
