@@ -6,7 +6,7 @@ Há várias formas de abordar a questão dos direitos de propriedade, desde "hom
 
 Claramente, a proposição moral no que diz respeito ao direito de propriedade é esse: ou os seres humanos têm direito de possuir propriedade, ou eles não tem.
 
-Agora a primeira "propriedade" que deve ser resolvida é o corpo. "Posse" deve primeiramente e antes de tudo consistir em controle sobre o próprio corpo, porque se esse controle não existe, ou não é considerado válido, então toda a questão da moralidade - muito menos propriedade - vai pra fora da janela.
+Agora a primeira "propriedade" de que deve ser tratada é o corpo. "Posse" deve primeiramente e antes de tudo consistir em controle sobre o próprio corpo, porque se esse controle não existe, ou não é considerado válido, então toda a questão da moralidade - muito menos propriedade - vai pra fora da janela.
 
 UPB é um quadro para avaliar proposições morais, ou argumentos sobre comportamentos universalmente preferíveis para toda a humanidade. Primeiro e acima de tudo, um homem tem que ser responsável pelas próprias ações se eles vão ser julgados moralmente, já que como argumentamos acima, a capacidade de escolher ações é fundamental para qualquer avaliação ética.
 
