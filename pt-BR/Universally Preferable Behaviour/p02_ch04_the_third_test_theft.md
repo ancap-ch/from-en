@@ -32,9 +32,9 @@ Finalmente, usar a posse de alguém do próprio corpo na forma de fala para reje
 
 É desta forma que qualquer rejeição da posse de si mesmo pode ser totalmente descartada.
 
-Desde que nós possuímos nossos próprios corpos, nós também inevitavelmente possuímos os *efeitos* das nossas ações, sendo elas boas ou más. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+Desde que nós possuímos nossos próprios corpos, nós também inevitavelmente possuímos os *efeitos* das nossas ações, sendo elas boas ou más. Se nós possuímos os efeitos das nossas ações, então claramente nós possuímos aquilo que nós produzimos, sendo o que nós produzimos um arco, ou um livro - ou um assassinato.
 
-### Property And UPB
+### Propriedade e UPB
 
 Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
 
