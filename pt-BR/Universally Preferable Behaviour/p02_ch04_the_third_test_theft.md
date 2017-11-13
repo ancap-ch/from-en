@@ -26,7 +26,7 @@ Assim, o verdadeiro ato de controlar meu corpo para produzir fala exige a aceita
 
 Agora, se uma possessão demoníaca fosse uma ocorrência valida, e uma garota possuída por um demônio cuspisse em um padre, nós não chamaríamos a *garota* rude, mas teríamos pena dela por ser habitada por um demônio tão indelicado. Quem seja que tem controle sobre o corpo da garota é culpado pelos efeitos das suas ações - por isso não chamaríamos um homem que roubou vinho sonâmbulo "mau," já que ele não tinha controle total sobre seu corpo (embora nós podemos contê-lo de outras formas). Isso é também a base da defesa moral de "não culpa-lo por insanidade," que é o que supomos que um homem que é insano não tem total controle sobre suas ações.
 
-Assim, para rejeitar a posse to próprio corpo é rejeitar toda a moralidade, que, como vimos acima, é completamente impossível. Logically, since morality is defined as an enforceable subset of UPB, to reject morality is to say that it is universally preferable to believe that there is no such thing as universal preferences.
+Assim, para rejeitar a posse to próprio corpo é rejeitar toda a moralidade, que, como vimos acima, é completamente impossível. Logicamente, uma vez que moralidade é definida como um subconjunto forçavel do UPB, rejeitar a moralidade é dizer que é universalmente preferível acreditar que não existem coisas como preferências universais.
 
 Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
 
