@@ -58,7 +58,7 @@ Assim nós podemos razoavelmente dizer que auto posse exclusiva é uma realidade
 
 Naturalmente, qualquer afirmação como as acima trazem os inevitáveis uivos de "complexidade," que eu concordo completamente.
 
-Let us say that I mean to give you five dollars as a gift, but by mistake I hand you a ten dollar bill, saying, “This is for you.” Few people would consider it theft if I said, the moment after I handed it to you: “Sorry, I meant to give you five dollars, not ten,” and took the larger note back, even though I am taking back property that I have voluntarily relinquished.
+Digamos que eu queira te presentear cinco dólares, mas por engano eu te entrego uma nota de dez dólares, dizendo, "isso é para você." Poucas pessoas considerariam roubo se eu dissesse, logo depois de te entregar a nota: "desculpa, eu queria te dar cinco dólares, não dez," e então pegasse a nota maior de volta, mesmo se eu tivesse pegando de volta propriedade que eu tivesse voluntariamente renunciado.
 
 On the other extreme, if you are one of my sons, and I pay for your university education, and explicitly tell you that you never need to pay me back, my generosity will doubtless affect your spending habits. It would scarcely seem reasonable for me to clap my forehead after your graduation ceremony and cry, “Oh, I thought you were one of my *other* sons!” and demand repayment.
 
