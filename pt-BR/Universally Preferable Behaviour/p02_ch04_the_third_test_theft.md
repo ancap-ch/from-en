@@ -52,9 +52,9 @@ Se seres humanos não possuem posse exclusiva sobre os próprios corpos, então 
 
 Não é crime cometer suicídio, nem botar fogo na própria casa, já que a destruição da própria propriedade é um exercício válido de propriedade. No entanto se auto posse exclusiva é inválido, então não se pode distinguir entre assassinato e suicídio. Se me fígado está falhando, e eu tenho o direito de pegar o seu, então eu posso "reaver" ele em perfeita conformidade com a moralidade e com o comportamento honorável. Se esse procedimento te matar, qual o problema? Sem auto posse exclusiva, não existe "você" para começar…
 
-Thus we can reasonably say that exclusive self-ownership is a basic reality – that all human beings at all times and in all places have exclusive ownership over their own bodies, and thus have exclusive ownership over the effects of their own bodies, both in terms of moral behaviour and property creation or acquisition.
+Assim nós podemos razoavelmente dizer que auto posse exclusiva é uma realidade básica - que todo ser humano em todos os tempos e lugares tem auto posse exclusiva sobre o próprio corpo, e assim tem posse exclusiva sobre os efeitos dos próprios corpos, em termos de comportamento moral e criação e aquisição de propriedade.
 
-### The Grey Areas
+### As Áreas Cinzas
 
 Naturally, any statement such as the above brings the inevitable howls of “complexity,” which I fully agree with.
 
