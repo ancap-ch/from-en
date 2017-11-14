@@ -1,6 +1,6 @@
 ## Introdução
 
-Por muitas gerações, a humanidade viveu numa espécie de ventre egocêntrico de ignorância auto-imposta: o mundo era plano, o sol, lua e estrelas que giravam em torno dele, antepassados acenaram para ele além das brumas da morte, e o trovão foi a ira dos deuses.
+Por incontáveis gerações, a humanidade viveu numa espécie de ventre egocêntrico da ignorância auto-imposta: o mundo era plano, o sol, lua e estrelas giravam em torno dele, antepassados acenaram para ele além das brumas-da morte, e o trovão era a ira dos deuses.
 
 Afastando-se destas entranhas narcisistas de interpretação subjetiva do trabalho exigido há milênios - e ao custo de milhões de vidas. O esforço necessário para abrir nossa perspectiva de "experiência perceptiva" para "lógica conceitual" foi assustador, emocionante, altamente desorientador e extremamente perigoso. Compreender que o mundo não era o que "parecia" ser, era - e continua sendo - a maior façanha de nossa inteligência. A "verdade" da realidade acabou tornando-se os olhos da mente, não da carne.
 
