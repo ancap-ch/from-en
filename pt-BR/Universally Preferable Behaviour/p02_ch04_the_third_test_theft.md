@@ -56,7 +56,7 @@ Assim nós podemos razoavelmente dizer que auto posse exclusiva é uma realidade
 
 ### As Áreas Cinzas
 
-Naturally, any statement such as the above brings the inevitable howls of “complexity,” which I fully agree with.
+Naturalmente, qualquer afirmação como as acima trazem os inevitáveis uivos de "complexidade," que eu concordo completamente.
 
 Let us say that I mean to give you five dollars as a gift, but by mistake I hand you a ten dollar bill, saying, “This is for you.” Few people would consider it theft if I said, the moment after I handed it to you: “Sorry, I meant to give you five dollars, not ten,” and took the larger note back, even though I am taking back property that I have voluntarily relinquished.
 
