@@ -44,9 +44,9 @@ Se um homem não tem direito de usar propriedade, então ele não tem o direito 
 
 É razoavelmente seguro assumir que alguém com quem você está debatendo sobre direito de propriedade está suspirando, e assim concorda com você que ele tem o direito de usar o próprio corpo, pelo menos.
 
-A questão então surge se seres humanos têm ou não o direito de uso *exclusivo* da propriedade. For instance, property could be defined as a sort of time-share principle of ownership, insofar as everyone should have the right to own everything, on some schedule or another.
+A questão então surge se seres humanos têm ou não o direito de uso *exclusivo* da propriedade. Por exemplo, propriedade poderia ser definida como uma espécie de princípio de posse de tempo contínuo, na medida em que todos deveriam ter o direito de ter tudo, em algum horário ou outro.
 
-This means of course that a man with lung cancer has a right to at least one lung of a healthy person. Since all ownership starts with the body, if we do not have the right to exclusive ownership over our own body, then we must share our body with other people, or be immoral. The sick man has a right to one of our lungs, and if we withhold it from him, that is exactly the same as stealing it. Similarly, both you and I have the right to use Celine Dion’s singing voice, since it is wholly selfish of her to pretend that she has exclusive ownership of it.
+Isto significa, claro, que um homem com câncer de pulmão tem o direito de pelo menos um pulmão de uma pessoa saudável. Como toda posse começa com o corpo, se nós não tivermos o direito exclusivo de posse sobre o nosso corpo, então nós teríamos que compartilhar o nosso corpo com as outras pessoas, ou ser imoral. O homem doente tem o direito de um dos nossos pulmões, e se nós os retemos dele, isso seria a exata mesma coisa de roubar dele. Similarly, both you and I have the right to use Celine Dion’s singing voice, since it is wholly selfish of her to pretend that she has exclusive ownership of it.
 
 If human beings do not possess exclusive ownership over their own bodies, then the crime of rape becomes meaningless, since a woman clearly does not exclusively own her vagina, and neither does a man own his own various orifices. If exclusive self-ownership is not an axiom, then even the crime of murder becomes meaningless.
 
