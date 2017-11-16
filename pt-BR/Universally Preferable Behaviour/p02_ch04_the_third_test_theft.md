@@ -84,7 +84,7 @@ Digamos que nós podemos magicamente ignorar o problema de "cinquenta por cento 
 
 Como isso funciona na prática?
 
-Well, if I have two lawnmowers and you have none, then clearly it would be logical for you to have the right to take one of my lawnmowers, since I can only ever own half of my lawnmower collection.
+Bem, se eu tenho dois cortadores de grama e você não tem nenhum, então claramente seria lógico para você ter o direito de pegar um dos meus cortadores de grama, já que eu sempre só possuo metade da minha coleção de cortadores de grama.
 
 However, when you take possession of one of my lawnmowers, unfortunately you are only ever allowed to own *half* of that lawnmower, since we only have the right to fifty percent ownership over external objects. Thus you must immediately find somebody with whom you can share the lawnmower. This brings your “just” ownership down to twenty-five percent. However, your new co-owner cannot have the right to twenty-five percent of the lawnmower, because he only has fifty percent rights for whatever ownership he possesses – thus he must find somebody to take fifty percent of the twenty-five percent that he has – and so on and so on and so on.
 
