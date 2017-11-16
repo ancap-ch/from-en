@@ -2,7 +2,7 @@
 
 ## Apêndice A: UPB em poucas palavras
 
-Encontre abaixo um resumo do argumento principal para a moralidade.
+Abaixo, temos um resumo do argumento principal para a moralidade.
 
 1. A realidade é objetiva e consistente.
 2. "Lógica" é o conjunto de objetivos e regras coerentes derivadas da consistência da realidade.
