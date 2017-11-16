@@ -68,11 +68,11 @@ Por razões de eficiência, se não perfeita moralidade, transições arbitrári
 
 Da mesma forma, um homem que é um grande deficiente mental pode ser considerado muito menos responsável pelas próprias ações. Um homem com um QI de sessenta e cinco é mentalmente pior do que uma criança pequena - um homem com um QI de cem é um adulto médio. Se nós dissermos que um homem com um QI de oitenta vira responsável, então nós estamos por definição dizendo que um homem com um QI de setenta e nove não é responsável - isso é uma demarcação clara, justa e totalmente objetiva? Certamente não, o critério de "bom o suficiente" e uma análise de custo/benefício razoável tem que deve ser posta em prática. Como mencionado acima, nenhuma água é perfeitamente pura, mas esperar uma pureza perfeita iria simplesmente fazer um homem morrer de sede.
 
-Given that the question of moral responsibility and intellectual capacity only applies to a very small percentage of people right on the border, and that creating objective and perfect tests is very likely to prove impossible, there will inevitably be some “rules of thumb” that win the day. We can only assume that, since biologists live with this kind of occasional subjectivism every day, moral philosophers can somehow survive as well.
+Dado que a questão de responsabilidade moral e capacidade intelectual somente se aplica sobre uma pequena porcentagem de pessoas na fronteira, e criar testes perfeitos e objetivos é impossível, iriam inevitavelmente existir algumas "regras de polegar" que vão ganhar o dia. Nós só podemos assumir que, como os biólogos vivem com esse tipo de subjetivismo todo dia, filósofos morais podem de alguma forma sobreviver também.
 
-### Property As Universality
+### Propriedade Como Universalidade
 
-UPB thus gives us clear options with regards to property rights. It cannot be the case that some men have property rights, while other men do not. It cannot be the case that men in Washington have property rights, while women in Baltimore do not. It cannot be the case that men have property rights today, but not tomorrow, and so on.
+Assim o UPB nos dá opções claras no que diz respeito a direitos de propriedade. Não pode ser o caso que alguns homens tenham direitos de propriedade, enquanto outros homens não. It cannot be the case that men in Washington have property rights, while women in Baltimore do not. It cannot be the case that men have property rights today, but not tomorrow, and so on.
 
 It also cannot be the case that men have only fifty percent property rights.
 
