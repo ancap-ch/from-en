@@ -80,9 +80,9 @@ Se eu argumento: "homens só tem cinquenta por cento de direitos de propriedade,
 
 Isto pode parecer esotérico, mas é uma questão muito séria, por razões que nós vamos descobrir em breve.
 
-Let us say that we can somehow magically bypass the “fifty percent ownership of the body” problem, and say that human beings only have fifty percent property rights when it comes to *external* objects.
+Digamos que nós podemos magicamente ignorar o problema de "cinquenta por cento de posse do corpo", e dizer que seres humanos só tem cinquenta por cento de direitos de propriedade quando isso vai para objetos *externos*.
 
-How does that work in practice?
+Como isso funciona na prática?
 
 Well, if I have two lawnmowers and you have none, then clearly it would be logical for you to have the right to take one of my lawnmowers, since I can only ever own half of my lawnmower collection.
 
