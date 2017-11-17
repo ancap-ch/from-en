@@ -104,7 +104,7 @@ Assim, se roubar é bom, então a bondade se torna um estado conquistável só n
 
 Claro, parece-me aparentemente ridículo imaginar que o estado moral ideal é para homem que continua dando para outro homem a propriedade que ele roubou, e então imediatamente roubando de novo. Assim a lógica aparenta validar nossa compreensão instintiva da loucura disso como uma ideia moral - mas vamos ir um pouco mais longe, para ver se isso ainda se mantém.
 
-Remember, we are not particularly concerned with individual criminals, but rather with moral theories that justify violations of property rights. For instance, if Doug steals Bob’s lighter because Doug believes that “No property rights are valid,” then Doug’s moral theory instantly self-detonates.
+Lembre-se, nós não estamos particularmente preocupados com criminosos individuais, mas sim com teorias morais que justificam violações do direito de propriedade. Por exemplo, se Doug roubar o isqueiro de Bob porque Doug acha que "direitos de propriedade não são válidos" então a teoria moral de Doug se auto destrói instantaneamente.
 
 If no property rights are valid, then stealing is a completely illogical action, since stealing is an assertion of the just desire to control property.
 
