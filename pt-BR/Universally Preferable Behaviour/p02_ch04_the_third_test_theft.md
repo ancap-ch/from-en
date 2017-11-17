@@ -102,7 +102,7 @@ Se roubo é moralmente bom, então mais uma vez nós enfrentamos o problema da i
 
 Assim, se roubar é bom, então a bondade se torna um estado conquistável só no instante em que Doug roubar o isqueiro de Bob. Nesse instante, só Doug pode ser moral, e Bob não pode ser. Depois disso, bondade se torna impossível de se alcançar por ambas as partes, a menos que Doug continue dando o isqueiro de Bob de volta e então arrebatando de volta novamente.
 
-Claro, parece-me aparentemente ridículo imaginar que o estado moral ideal é para homem que continua dando para outro homem a propriedade que ele roubou, e então imediatamente roubando de novo. Thus logic seems to validate our instinctual understanding of the foolishness of this as a moral ideal – but let’s go a little further, to see if it still holds.
+Claro, parece-me aparentemente ridículo imaginar que o estado moral ideal é para homem que continua dando para outro homem a propriedade que ele roubou, e então imediatamente roubando de novo. Assim a lógica aparenta validar nossa compreensão instintiva da loucura disso como uma ideia moral - mas vamos ir um pouco mais longe, para ver se isso ainda se mantém.
 
 Remember, we are not particularly concerned with individual criminals, but rather with moral theories that justify violations of property rights. For instance, if Doug steals Bob’s lighter because Doug believes that “No property rights are valid,” then Doug’s moral theory instantly self-detonates.
 
