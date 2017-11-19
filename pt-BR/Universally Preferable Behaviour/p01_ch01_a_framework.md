@@ -18,7 +18,7 @@ A central challenge in understanding the nature of truth is the realisation that
 
 O conceito de "verdade" é necessariamente um termo relativo. Porém isso não significa um termo subjetivo ou arbitrário. O conceito de "saúde" também é um termo relativo - nós comparamos "saúde" a doença, e também a padrões relativos de saúde. O que é considerado "boa saúde" para alguém com noventa anos dificilmente é considerado boa saúde para alguém com doze anos. A definição de vida longa é muito diferente agora do que era há quinhentos anos.
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
+No entanto, isso não significa que o conceito de "saúde" é inteiramente relativo e subjetivo. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
 
 As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
 
