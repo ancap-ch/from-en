@@ -2,7 +2,7 @@
 
 Preposições éticas são diferentes de outros tipos de afirmações de conhecimento. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. Entretanto, se eu disser "vegetais são saudáveis" eu terei mudado de uma afirmação de preferência pessoal para a afirmação de um fato. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
 
 The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
 
