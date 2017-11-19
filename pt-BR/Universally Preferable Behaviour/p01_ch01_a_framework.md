@@ -1,6 +1,6 @@
-## A Framework For Ethics
+## Uma estrutura/base para a ética
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Preposições éticas são diferentes de outros tipos de afirmações de conhecimento. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
 
 Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
 
