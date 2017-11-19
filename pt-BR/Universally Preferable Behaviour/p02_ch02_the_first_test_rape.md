@@ -1,8 +1,8 @@
 ## O Primeiro Teste: Estupro
 
-Embora esse seja um tema desagradável para discutir, estupro é sem dúvidas a ação *menos* ambígua que qualquer teoria moral deve abranger. Assassinato pode ser complicado por legítima defesa; roubo pelo problema de fome ou "roubar de volta" - mas ninguém pode nunca estuprar por legítima defesa; estupro é pelo seu verdadeiro significado iniciação de agressão.
+Embora esse seja um tema desagradável para discutir, estupro é sem dúvidas a ação *menos* ambígua que qualquer teoria moral deve abranger. Assassinato pode ser complicado por legítima defesa; roubo pelo problema de fome ou "roubar de volta" - mas jamais alguém pode estuprar por legítima defesa; estupro é por sua própria definição, iniciação de agressão.
 
-Então usaremos o quadro de UPB para examinar a consistência lógica de proposições éticas sobre estupro, com referência a essas sete categorias morais.
+Então usaremos a estrutura do UPB para examinar a consistência lógica de proposições éticas sobre estupro, com referência a essas sete categorias morais.
 
 ### O Bem
 
@@ -16,7 +16,7 @@ O que permite a virtude não pode ser mau. "liberdade," por exemplo, é um pré 
 
 Se é moralmente bom ser um estuprador, e alguém só pode ser um estuprador por sexualmente agredir a vitima, então claramente a vitima tem que ser moralmente boa por resistir à agressão sexual - desde que se ele não resiste, é por definição não estupro, e portanto, não é virtuoso. Em outras palavras, *atacar* a virtude por definição *permite* a virtude. Assim, nós temos um paradoxo insuperável, no qual a vitima necessita atacar a virtude a fim de permitir a virtude - ele deve resistir à agressão sexual a fim de permitir a "virtude" do estuprador. Assim, não só a vitima de estupro *não* pode ser virtuosa, mas ele precisa resistir e atacar a "virtude" a fim de permitir a mesma.
 
-Problemas lógicos insuperáveis assim resultam da proposição: "estupro é moral." Lembre-se, nós concordamos que uma teoria racional não pode propor estados diferentes para a mesma situação. Todas as outras coisa sendo iguais, uma rocha não pode cair para cima e para baixo ao mesmo tempo, é uma teoria válida não pode prever que uma rocha vai cair para cima, enquanto outra rocha vai cair para baixo.
+Problemas lógicos insuperáveis assim resultam da proposição: "estupro é moral." Lembre-se, nós concordamos que uma teoria racional não pode propor estados diferentes para a mesma situação. Com todas as outras coisa sendo iguais, uma rocha não pode cair para cima e para baixo ao mesmo tempo, e uma teoria válida não pode prever que uma rocha vai cair para cima, enquanto outra rocha vai cair para baixo.
 
 Da mesma forma, dois homens em um quarto devem ser considerados estar na mesma situação. Se só um deles pode ser bom, porque bondade é definido como estupro, é só um deles pode estuprar ao mesmo tempo, então nós temos uma contradição lógica que não pode ser resolvida.
 
