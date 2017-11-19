@@ -16,7 +16,7 @@ O método científico, a racionalidade em si, e as leis matemáticas são todos 
 
 A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+O conceito de "verdade" é necessariamente um termo relativo. Porém isso não significa um termo subjetivo ou arbitrário. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
 
 This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
 
