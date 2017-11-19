@@ -12,7 +12,7 @@ Se eu aceito a validade das leis da matemática, eu não posso arbitrariamente r
 
 O método científico, a racionalidade em si, e as leis matemáticas são todos exemplos de critérios *objetivos* para estabelecer a verdade de uma preposição. Não é minha opinião que dois mais dois são quatro - se você também concorda que dois mais dois são quatro, você não está se sujeitando a minha opinião, mas sim a uma verdade racional.
 
-### Objective Truth
+### Verdade objetiva
 
 A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
 
