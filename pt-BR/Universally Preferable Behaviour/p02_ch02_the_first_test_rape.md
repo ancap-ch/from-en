@@ -18,7 +18,7 @@ Se é moralmente bom ser um estuprador, e alguém só pode ser um estuprador por
 
 Problemas lógicos insuperáveis assim resultam da proposição: "estupro é moral." Lembre-se, nós concordamos que uma teoria racional não pode propor estados diferentes para a mesma situação. Com todas as outras coisa sendo iguais, uma rocha não pode cair para cima e para baixo ao mesmo tempo, e uma teoria válida não pode prever que uma rocha vai cair para cima, enquanto outra rocha vai cair para baixo.
 
-Da mesma forma, dois homens em um quarto devem ser considerados estar na mesma situação. Se só um deles pode ser bom, porque bondade é definido como estupro, é só um deles pode estuprar ao mesmo tempo, então nós temos uma contradição lógica que não pode ser resolvida.
+Da mesma forma, dois homens em um quarto devem ser considerados estar na mesma situação. Se só um deles pode ser bom, porque bondade é definido como estupro, e só um deles pode estuprar ao mesmo tempo, então nós temos uma contradição lógica que não pode ser resolvida.
 
 Além disso, se nós concordamos que Comportamentos Universalmente Preferíveis tem que ser independentes do tempo, então nós também enfrentamos um problema lógico que, não importa qual é sua virilidade física, em um algum ponto o estuprador vai simplesmente ser incapaz de estuprar mais, porque ele vai ser fisicamente impedido de ter uma ereção. Nesse ponto, sua agilidade de executar a "boa ação" torna-se impossível. Desde que "inevitabilidade" é um critério fundamental para a moralidade, mas ele é fisicamente incapaz de evitar ser mal - então ele não pode ser responsável por não estuprar o outro homem.
 
