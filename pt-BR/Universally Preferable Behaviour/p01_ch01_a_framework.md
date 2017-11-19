@@ -4,7 +4,7 @@ Preposições éticas são diferentes de outros tipos de afirmações de conheci
 
 Similar, se eu disser "eu gosto de vegetais" também é apenas uma afirmação de preferência pessoal. Entretanto, se eu disser "vegetais são saudáveis" eu terei mudado de uma afirmação de preferência pessoal para a afirmação de um fato. É a diferença entre "eu gosto de sorvete" e "sorvete contém leite"
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+A diferença fundamental entre as afirmações de preferência e as afirmações de fatos é que os fatos são objetivos, testáveis, e obrigatórios. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
 
 If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
 
