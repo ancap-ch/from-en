@@ -14,7 +14,7 @@ O método científico, a racionalidade em si, e as leis matemáticas são todos 
 
 ### Verdade objetiva
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+O principal desafio em entender a natureza da verdade é a compreensão de que "verdade" não existe no mundo do mesmo jeito que uma pedra ou uma árvore.
 
 O conceito de "verdade" é necessariamente um termo relativo. Porém isso não significa um termo subjetivo ou arbitrário. O conceito de "saúde" também é um termo relativo - nós comparamos "saúde" a doença, e também a padrões relativos de saúde. O que é considerado "boa saúde" para alguém com noventa anos dificilmente é considerado boa saúde para alguém com doze anos. A definição de vida longa é muito diferente agora do que era há quinhentos anos.
 
