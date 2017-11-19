@@ -4,9 +4,9 @@ Preposições éticas são diferentes de outros tipos de afirmações de conheci
 
 Similar, se eu disser "eu gosto de vegetais" também é apenas uma afirmação de preferência pessoal. Entretanto, se eu disser "vegetais são saudáveis" eu terei mudado de uma afirmação de preferência pessoal para a afirmação de um fato. É a diferença entre "eu gosto de sorvete" e "sorvete contém leite"
 
-A diferença fundamental entre as afirmações de preferência e as afirmações de fatos é que os fatos são objetivos, testáveis, e obrigatórios. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+A diferença fundamental entre as afirmações de *preferências* e as afirmações de *fatos* é que os fatos são objetivos, testáveis, e incontestáveis. Se você dá valor a verdade, você tende a aceitar o fato de que sorvete contém leite, uma vez provado. [^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Se eu disser que a Terra é redonda e proporciona uma ampla prova para essa afirmação, não cabe a você determinar do seu próprio jeito se a afirmação é verdadeira. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
 
 If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
 
