@@ -24,9 +24,9 @@ Conforme nossa definição de "saúde" expande, definições antigas não são i
 
 A verdade também tem valor relativo a necessidade. A física Newtoniana foi superada pela física Einsteiniana, a qual se provou mais precisa em situações extremas como alta gravidade ou velocidade. Entretanto, marinheiros que queriam calcular o caminho certo no oceano achavam a física Newtoniana precisa o suficiente. Você não iria querer mandar uma nave espacial da Terra para Alpha Centauri usando a física Newtoniana, porém, está tudo certo se for um barco de Lisboa para Nova Iorque. Por tanto, para um marinheiro, aprender e implementar a física Einsteiniana é algo negativo.
 
-As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+Como resultado, a frase "A física Newtoniana é menos precisa que a Física Einsteiniana, porém é a melhor forma de calcular o caminho de um barco" pode ser considerada uma preposição valida. A física Newtoniana é, portanto, *menos precisa* e *mais apropriada*.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+Se nós quiséssemos beber a água mais pura possível, nós provavelmente pagaríamos milhares de dólares por garrafa. A menos que nós fossemos muito ricos e altamente frívolos, nunca pagaríamos tanto para matar a sede. É verdade que aguá pura é melhor para nós, mas esse preço que a pureza da água requer, atinge um limite decrescente de retorno. Thus “purer is better” gives way to “purer is worse.”
 
 Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
 
