@@ -36,9 +36,9 @@ O conceito de *verdade* necessariamente envolve o conceito de *precisão*. Se eu
 
 Então o que é o "alvo" da verdade?
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+A *verdade* de uma afirmação é relativamente mensurável a sua conformidade com a realidade objetiva.
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+Colocando de lado os desafios de linguagem nesse momento, se eu apontar para uma gaivota e dizer, "Isso é uma bigorna", estou claramente errado, porque bigornas são inorgânicas e não podem voar. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
 
 Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
 
