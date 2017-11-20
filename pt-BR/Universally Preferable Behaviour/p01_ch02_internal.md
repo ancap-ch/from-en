@@ -8,17 +8,17 @@ Seria ilógico - sem mencionar totalmente não-produtivo - construir uma ponte a
 
 Tem duas maneiras de determinar a viabilidade de uma ponte antes de construí-la. O primeiro é procurar inconsistências internas dentro das premissas e cálculos que alegam suporte à viabilidade da ponte. Se houverem erros significativos nos cálculos que justificam o peso que a ponte pode suportar, então a ponte provavelmente será feita além do ideal ou abaixo do ideal. Se cálculos matemáticos errôneos resultarem em uma força de menos cinquenta toneladas por pé quadrado em qualquer parte da ponte, então certamente não se sustentará – ou, se ela se sustentar, sua viabilidade será apenas acidental e não capaz de ser reproduzida.
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+Os cálculos matemáticos apoiando a viabilidade da ponte, portanto, devem ser internamente consistentes antes de quaisquer outras considerações possam ser tomadas em conta.
 
-In computer terms, code that does not compile cannot be tested.
+Em termos de informática, código que não compila não pode ser testado.
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Isso se aplica ao mundo científico também. Teorias são sempre verificadas por consistência interna antes de serem submetidas à testes empíricos. A razão que consistência interna é tão essencial é que já que as teorias afirmam ter valor em relação à realidade, e a realidade é internamente consistente, qualquer teoria que *não* seja internamente consistente não pode ter valor em relação à realidade.
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+Somente *depois* que a consistência interna dos cálculos for estabelecida é que o grau no qual a ponte atende as especificações pode ser analisado. É possível escrever especificações internamente consistentes para uma pequena ponte construída inteiramente de madeira balsa, mas a menos que o engenheiro esteja escrevendo um artigo para uma revista de modelos de trilhos para transporte ferroviário, suas especificações, embora consistente, falharão em atender qualquer requerimento industrial.
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+Uma vez que determinemos que a ponte se sustentará, então podemos determinar se ela atende nossas necessidades específicas, tais como suportar o peso de pedestres e trens.
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+No campo da economia, aplica-se o mesmo critério. Se minha teoria econômica exige que os preços subam e desçam simultaneamente, então ela não pode ser válida, já que isto é impossível. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
 
 Thus, we can see that any theory, to be valid, requires the following:
 
