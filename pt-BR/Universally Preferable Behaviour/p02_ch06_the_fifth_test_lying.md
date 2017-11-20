@@ -2,29 +2,29 @@
 
 A questão de *mentir* é interessante porque falar a verdade é geralmente considerado sendo universalmente preferível, mas não executória através de violência.
 
-It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
+É geralmente considerado *mais* estritamente requerido do que "ser pontual," mas *menos* estrito que "roubar." O que o quadro de UPB tem a dizer sobre isso?
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+Naturalmente, qualquer teoria moral propondo "mentir é bom" se auto detona imediatamente, uma vez que o homem propondo isso *está* mentindo - o que é bom - então mentir é mau, porque ele disse a verdade de que mentir é mau.
 
-For instance:
+Por exemplo:
 
-**Bob:** Lying is always good.
+**Bob:** Mentir é sempre bom.
 
-**Doug:** Are you lying?
+**Doug:** Você está mentindo?
 
-**Bob:** Yes.
+**Bob:** Sim.
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**Doug:** então mentir tem que ser mau, já que você está mentindo sobre ele ser bom.
 
-Or:
+Ou:
 
-**Bob:** Lying is always good.
+**Bob:** Mentir é sempre bom.
 
-**Doug:** Are you lying?
+**Doug:** Você está mentindo?
 
-**Bob:** No.
+**Bob:** Não.
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**Doug:** Assim, mentir não é sempre bom, já que você está me falando a verdade sobre mentir ser bom.
 
 Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
 
