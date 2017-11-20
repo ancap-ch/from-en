@@ -18,11 +18,11 @@ Somente *depois* que a consistência interna dos cálculos for estabelecida é q
 
 Uma vez que determinemos que a ponte se sustentará, então podemos determinar se ela atende nossas necessidades específicas, tais como suportar o peso de pedestres e trens.
 
-No campo da economia, aplica-se o mesmo critério. Se minha teoria econômica exige que os preços subam e desçam simultaneamente, então ela não pode ser válida, já que isto é impossível. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+No campo da economia, aplica-se o mesmo critério. Se minha teoria econômica exige que os preços subam e desçam simultaneamente, então ela não pode ser válida, já que isto é impossível. Uma vez que minha teoria seja verificada para sua consistência interna, eu então posso começar a procurar evidências e/ou começar a usar a minha teoria para fazer previsões proativas.
 
-Thus, we can see that any theory, to be valid, requires the following:
+Assim, podemos ver que qualquer teoria, para ser válida, requer o seguinte:
 
-1. Internal consistency (logic).
-2. External consistency (testability).
+1. Consistência Interna (lógica).
+2. Consistência externa (capacidade de teste).
 
-With this in mind, we can now turn to the core subject of this book.
+Com isto em mente, agora podemos voltar ao assunto principal deste livro.
