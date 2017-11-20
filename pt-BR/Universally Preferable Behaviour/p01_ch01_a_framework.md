@@ -32,9 +32,9 @@ Novamente, isso não significa que a pureza da água é absolutamente subjetiva.
 
 #### Verdade e Realidade Objetiva
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+O conceito de *verdade* necessariamente envolve o conceito de *precisão*. Se eu estou tentado acertar uma flecha em um alvo, a precisão do meu disparo é determinada por quão longe minha flecha atingiu do centro.
 
-What, then, is the “bull’s-eye” of truth?
+Então o que é o "alvo" da verdade?
 
 Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
 
