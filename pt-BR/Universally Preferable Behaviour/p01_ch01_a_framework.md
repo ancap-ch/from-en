@@ -6,7 +6,7 @@ Similar, se eu disser "eu gosto de vegetais" também é apenas uma afirmação d
 
 A diferença fundamental entre as afirmações de *preferências* e as afirmações de *fatos* é que os fatos são objetivos, testáveis, e incontestáveis. Se você dá valor a verdade, você tende a aceitar o fato de que sorvete contém leite, uma vez provado. [^1]
 
-Se eu disser que a Terra é redonda e proporciona uma ampla prova para essa afirmação, não cabe a você determinar do seu próprio jeito se a afirmação é verdadeira. Se eu posso provar que a terra é redonda, então você está a um passo de aceitar que é uma verdade, a menos que você esteja disposto a rejeitar a razão e as evidências como um critério para a verdade.
+Se eu disser que a Terra é redonda e proporcionar uma ampla prova para essa afirmação, não cabe a você determinar do seu próprio jeito se a afirmação é verdadeira. Se eu posso provar que a terra é redonda, então você está a um passo de aceitar que é uma verdade, a menos que você esteja disposto a rejeitar a razão e as evidências como um critério para a verdade.
 
 Se eu aceito a validade das leis da matemática, eu não posso arbitrariamente rejeitar uma prova matemática que concorda com essas leis. Se eu *rejeitar* tal prova, eu não posso mais declarar aceitação à validade das leis da matemática. Minha aceitação a essas leis significam que eu estou *a um passo* de aceitar como valida essas provas que concordam com essas leis. A rejeição de uma prova que concorda com padrões racionais é a rejeição de padrões racionais como um todo.
 
@@ -26,11 +26,11 @@ A verdade também tem valor relativo a necessidade. A física Newtoniana foi sup
 
 Como resultado, a frase "A física Newtoniana é menos precisa que a Física Einsteiniana, porém é a melhor forma de calcular o caminho de um barco" pode ser considerada uma preposição valida. A física Newtoniana é, portanto, *menos precisa* e *mais apropriada*.
 
-Se nós quiséssemos beber a água mais pura possível, nós provavelmente pagaríamos milhares de dólares por garrafa. A menos que nós fossemos muito ricos e altamente frívolos, nunca pagaríamos tanto para matar a sede. É verdade que aguá pura é melhor para nós, mas esse preço que a pureza da água requer, atinge um limite decrescente de retorno. Thus “purer is better” gives way to “purer is worse.”
+Se nós quiséssemos beber a água mais pura possível, nós provavelmente pagaríamos milhares de dólares por garrafa. A menos que nós fossemos muito ricos e altamente frívolos, nunca pagaríamos tanto para matar a sede. É verdade que aguá pura é melhor para nós, mas esse preço que a pureza da água requer, atinge um limite decrescente de retorno. Portanto, "mais puro, melhor", se torna "mais puro, pior"
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+Novamente, isso não significa que a pureza da água é absolutamente subjetiva. Água filtrada é sempre mais potável que água do mar.
 
-#### Truth And Objective Reality
+#### Verdade e Realidade Objetiva
 
 The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
 
