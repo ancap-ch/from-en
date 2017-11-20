@@ -54,7 +54,7 @@ Se eu passar uma hora tentando desenhar uma nuvem e perguntar a você se meu des
 
 Em outras palavras, onde não há estabilidade, não há como ter precisão.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Quando nós sonhamos, sentimos que as leis de "matéria" e "energia" estão sempre mudando - Nós somos imunes a gravidade, podemos voar montados em um elefante, podemos atravessar paredes. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
 
 Logic, science and truth, then, are impossible in the absence of *consistency*.
 
