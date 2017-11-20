@@ -1,12 +1,12 @@
-## Internal Consistency
+## Consistência Interna
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+Se eu sou um arquiteto e apresento um plano para construir uma casa, o primeiro obstáculo que eu devo superar é se há ao menos possibilidade da casa ser construída. Se eu apresento um plano maravilhoso para uma casa que será construída inteiramente de bolhas de sabão, eu jamais conseguirei executar tal plano, já que tal "casa" sequer poderia ser erguida.
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+Similarmente, se um engenheiro submeter um plano para uma ponte, o primeiro critério que deve ser satisfeito é se a ponte é capaz ou não de sustentar-se. Outras considerações como a duração, a estética, etc irão apenas ser aplicáveis se a ponte for fisicamente viável para início de conversa.
 
-It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
+Seria ilógico - sem mencionar totalmente não-produtivo - construir uma ponte a partir de materiais aleatórios, usando cálculos dispersos, para descobrir se a mesma irá ou não se sustentar. Já que leis físicas são consistentes e universais, é relativamente fácil descobrir se uma ponte irá se sustentar *antes* de construí-la.
 
-There are two ways to determine the viability of the bridge before building it. The first is to look for internal inconsistencies within the premises and calculations that claim to support the viability of the bridge. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+Tem duas maneiras de determinar a viabilidade de uma ponte antes de construí-la. O primeiro é procurar inconsistências internas dentro das premissas e cálculos que alegam suporte à viabilidade da ponte. Se houverem erros significativos nos cálculos que justificam o peso que a ponte pode suportar, então a ponte provavelmente será feita além do ideal ou abaixo do ideal. Se cálculos matemáticos errôneos resultarem em uma força de menos cinquenta toneladas por pé quadrado em qualquer parte da ponte, então certamente não se sustentará – ou, se ela se sustentar, sua viabilidade será apenas acidental e não capaz de ser reproduzida.
 
 The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
 
