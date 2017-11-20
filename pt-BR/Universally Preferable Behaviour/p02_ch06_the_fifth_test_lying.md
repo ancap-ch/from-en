@@ -1,6 +1,6 @@
-## The Fifth Test: Lying
+## O Quinto Teste: Mentir
 
-The question of *lying* is interesting because telling the truth is generally considered to be universally preferable, but not enforceable through violence.
+A questão de *mentir* é interessante porque falar a verdade é geralmente considerado sendo universalmente preferível, mas não executória através de violência.
 
 It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
 
