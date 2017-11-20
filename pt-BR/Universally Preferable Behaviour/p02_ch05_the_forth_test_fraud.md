@@ -8,13 +8,13 @@ Deixe-nos colocar o problema de fraude através do moedor do UPB, e ver se valeu
 
 Claramente, fraude requer que uma pessoa *não* esteja envolvida em fraude. Na potencial transação acima, se eu estou esperando roubar de você duzentos dólares, e você está esperando roubar meu iPod, nada vai vir disso. Você vai exigir o iPod antes de fornecer o pagamento, e eu vou exigir o pagamento antes de prover o iPod. Nós estaremos em um beco sem saída, totalmente incapazes de enganar o outro.
 
-Claramente, para uma fraude ocorrer, uma das partes tem que agir de boa fé. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
+Claramente, para uma fraude ocorrer, uma das partes tem que agir de boa fé. Assim a pessoa que deseja cometer fraude baseia-se no fato de que a outra pessoa *não* deseja cometer fraude, a fim de saqueá-lo.
 
-To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
+Para retornar aos nossos infelizes cobaias morais, o que aconteceria se nós pedimos para Bob e Doug agir na proposição moral de que "fraude é boa"? Se Doug tiver vinte dólares, e Bob um isqueiro, e Doug oferecer vinte dólares para Bob em troca do isqueiro, e então pegar o isqueiro mas não dar os vinte dólares para Bob, então Doug está agindo na premissa de que fraude é boa.
 
-What happens then?
+O que acontece então?
 
-Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
+Claramente, o princípio de que "fraude é bom" não pode ser performando por ambos Doug e Bob ao mesmo tempo - já que para cometer fraude, Doug deve agir desonestamente, e Bob deve agir honestamente. Assim, para permitir a ação "moral" de Doug, Bob tem que agir "imoralmente."
 
 UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
 
