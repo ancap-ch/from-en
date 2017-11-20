@@ -48,7 +48,7 @@ Supondo que você consiga dizer a diferença entre as duas fontes acima, nós po
 
 #### Precisão e consistência
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+É humanamente impossível pintar precisamente uma nuvem, já que no tempo que leva para pintar, a nuvem já teria mudado. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
 
 If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
 
