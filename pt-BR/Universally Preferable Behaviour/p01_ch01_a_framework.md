@@ -1,12 +1,12 @@
 ## Uma estrutura/base para a ética
 
-Preposições éticas são diferentes de outros tipos de afirmações de conhecimento. Vamos supor que eu diga "eu gosto de jazz," pode ser verdade ou não, porém, geralmente não serão consideradas ligações com você, para dizer isso. Minha preferência por jazz é uma mera afirmação de gosto pessoal; baseada na minha afirmação, você não deve se inclinar a gostar ou a não gostar de jazz.
+Preposições éticas são diferentes de outros tipos de afirmações de conhecimento. Vamos supor que eu diga "eu gosto de jazz," pode ser verdade ou não, porém, geralmente não serão consideradas ligações com você, para dizer isso. Minha preferência por jazz é uma mera afirmação de gosto pessoal; baseada na minha afirmação, você não deve ter uma tendencia a gostar ou não de jazz.
 
 Similar, se eu disser "eu gosto de vegetais" também é apenas uma afirmação de preferência pessoal. Entretanto, se eu disser "vegetais são saudáveis" eu terei mudado de uma afirmação de preferência pessoal para a afirmação de um fato. É a diferença entre "eu gosto de sorvete" e "sorvete contém leite"
 
 A diferença fundamental entre as afirmações de *preferências* e as afirmações de *fatos* é que os fatos são objetivos, testáveis, e incontestáveis. Se você dá valor a verdade, você tende a aceitar o fato de que sorvete contém leite, uma vez provado. [^1]
 
-Se eu disser que a Terra é redonda e proporcionar uma ampla prova para essa afirmação, não cabe a você determinar do seu próprio jeito se a afirmação é verdadeira. Se eu posso provar que a terra é redonda, então você está a um passo de aceitar que é uma verdade, a menos que você esteja disposto a rejeitar a razão e as evidências como um critério para a verdade.
+Se eu disser que a Terra é redonda e proporcionar uma prova para essa afirmação, não cabe a você determinar no seu próprio luxo se a afirmação é verdadeira. Se eu posso provar que a terra é redonda, então você está a um passo de aceitar que é uma verdade, a menos que você esteja disposto a rejeitar a razão e as evidências como um critério para a verdade.
 
 Se eu aceito a validade das leis da matemática, eu não posso arbitrariamente rejeitar uma prova matemática que concorda com essas leis. Se eu *rejeitar* tal prova, eu não posso mais declarar aceitação à validade das leis da matemática. Minha aceitação a essas leis significam que eu estou *a um passo* de aceitar como valida essas provas que concordam com essas leis. A rejeição de uma prova que concorda com padrões racionais é a rejeição de padrões racionais como um todo.
 
@@ -48,11 +48,11 @@ Supondo que você consiga dizer a diferença entre as duas fontes acima, nós po
 
 #### Precisão e consistência
 
-É humanamente impossível pintar precisamente uma nuvem, já que no tempo que leva para pintar, a nuvem já teria mudado. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+É humanamente impossível desenhar exatamente uma nuvem, já que no tempo que se levaria para desenhar, a nuvem já teria mudado. Eu posso copiar exatamente uma *foto* de uma nuvem, já que na foto ela não irá mudar.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+Se eu passar uma hora tentando desenhar uma nuvem e perguntar a você se meu desenho é uma representação exata da nuvem ou não, você necessariamente deve responder que não.
 
-In other words, where there is no consistency, there can be no accuracy.
+Em outras palavras, onde não há estabilidade, não há como ter precisão.
 
 When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
 
