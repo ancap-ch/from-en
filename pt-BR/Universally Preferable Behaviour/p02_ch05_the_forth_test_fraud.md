@@ -16,9 +16,9 @@ O que acontece então?
 
 Claramente, o princípio de que "fraude é bom" não pode ser performando por ambos Doug e Bob ao mesmo tempo - já que para cometer fraude, Doug deve agir desonestamente, e Bob deve agir honestamente. Assim, para permitir a ação "moral" de Doug, Bob tem que agir "imoralmente."
 
-UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
+UPB destrói essa possibilidade, um vez que nenhuma teoria moral valida pode exigir ações opostas nas mesmas circunstâncias.
 
-If Doug commits fraud on Bob with the justification that “it is good to lie to get what you want,” then clearly it must also be good to be honest as well, since it is impossible to get what you want by lying unless other people are willing to assume your honesty. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
+Se Doug cometer fraude no Bob com a justificação de que "é bom mentir para ganhar o que você quer," então claramente também tem que ser bom ser honesto, uma vez que é impossível pegar o que você quer mentindo a menos que outras pessoas estejam dispostas a assumir a sua honestidade. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
 
 This is how we know that fraud is wrong.
 
