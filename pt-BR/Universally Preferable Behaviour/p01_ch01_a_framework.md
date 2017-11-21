@@ -83,7 +83,7 @@ O primeiro critério é uma medida da consistência das ideias com elas mesmas -
 
 Empirismo pode ser considerado como a capacidade de instintivamente pegar uma bola lançada ou medir seu movimento; racionalidade é a capacidade de prever e compreender o caminho que a bola vai fazer com base em princípios universais. Claramente, se bolas fossem aleatoriamente lançadas em toda e qualquer direção - e magicamente transformadas em rebanhos de pombas - nós não seriamos capazes de prever seu comportamento.
 
-Portanto, já que a matéria obedece as leis imutáveis, nossas teorias *sobre* matéria devem também obedecer as leis imutáveis. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Portanto, já que a matéria obedece as leis imutáveis, nossas teorias *sobre* matéria devem também obedecer as leis imutáveis. Se eu não soubesse nada sobre basebol, mas ainda assim assistisse a uma partida onde os jogadores sempre obedecem as regras, seria irracional para mim formular uma teoria sobre as regras do basebol que diretamente contradigam o comportamento dos jogadores que eu estava assistindo. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
 
 This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
 
