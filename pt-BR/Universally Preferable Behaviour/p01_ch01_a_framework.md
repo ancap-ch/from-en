@@ -62,9 +62,9 @@ Fundamentalmente, as leis da logica são derivadas do estudo da matéria e energ
 
 A realidade perceptual é estável e objetiva, e é dessa estabilidade e objetividade que derivamos as leis da lógica. Nossas afirmações sobre a realidade só podem *representar* com precisão a realidade como um resultado direto da estabilidade e objetividade.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+O fato que gaivotas não se transformam em bigornas quando querem - ou vice versa - é a base da nossa capacidade de declarar com exatidão a afirmação: "Isso é uma gaivota." Se gaivotas regularmente mudassem sua natureza espontaneamente, nós não seriamos capazes de fazer afirmações sejam falsas ou verdadeiras sobre elas - ou qualquer coisa nesse assunto.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+This is the root of a key criterion of the scientific method – reproducibility. Se eu fizer uma afirmação universal sobre a natureza da gravidade, você deve ser capaz de reproduzir essa afirmação no seu próprio meio. Se a realidade *não* for estável, então a reprodutibilidade seria um critério irracional para estabelecer a verdade.
 
 If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
 
