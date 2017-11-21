@@ -64,11 +64,11 @@ A realidade perceptual é estável e objetiva, e é dessa estabilidade e objetiv
 
 O fato que gaivotas não se transformam em bigornas quando querem - ou vice versa - é a base da nossa capacidade de declarar com exatidão a afirmação: "Isso é uma gaivota." Se gaivotas regularmente mudassem sua natureza espontaneamente, nós não seriamos capazes de fazer afirmações sejam falsas ou verdadeiras sobre elas - ou qualquer coisa nesse assunto.
 
-This is the root of a key criterion of the scientific method – reproducibility. Se eu fizer uma afirmação universal sobre a natureza da gravidade, você deve ser capaz de reproduzir essa afirmação no seu próprio meio. Se a realidade *não* for estável, então a reprodutibilidade seria um critério irracional para estabelecer a verdade.
+Esta é a base de um critério chave do método cientifico - reprodutibilidade. Se eu fizer uma afirmação universal sobre a natureza da gravidade, você deve ser capaz de reproduzir essa afirmação no seu próprio meio. Se a realidade *não* for estável, então a reprodutibilidade seria um critério irracional para estabelecer a verdade.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+Se você fosse um professor de matemática, você provavelmente não iria aceitar uma resposta errada de um aluno, mesmo se esse aluno afirmasse que a reposta dele estava "certa" quando ele escreveu, mas de algum jeito naquele momento ela mudou.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Portanto, nós podemos assumir que devemos medir a validade de uma afirmação relativa a realidade objetiva. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
 
 ### The Existence Of "Truth"
 
