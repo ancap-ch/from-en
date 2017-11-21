@@ -1,5 +1,5 @@
-## Ethics
+## Ética
 
-### The Discipline Of Theoretical Ethics
+### A disciplina da ética teórica
 
-### Self-Defeating Arguments
+### Argumentos Auto-destrutivos
