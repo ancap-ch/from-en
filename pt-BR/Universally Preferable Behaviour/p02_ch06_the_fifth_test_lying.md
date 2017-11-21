@@ -36,4 +36,4 @@ A diferença é que "estar atrasado" não é tão ativamente destrutivo quanto m
 
 Atacando a sua confiança em sua própria mente [^5] é muito mais notório do que simplesmente fazê-lo esperar, uma vez que é o ato de usar a confiança do outro em você para detonar a confiança em si mesmo, o que é altamente corrupto, já que está *usando* um valor para destruir um valor, como falsificação. Isso é como UPB valida a proposição lógica de "mentir é bom," e confirma que o ato de mentir para alguem é pior que "estar atrasado," mas melhor que "assaltar."
 
-[^5]: Sometimes called “gas-lighting,” after the old movie.
+[^5]: As vezes chamado de "gás de iluminação," depois do filme velho.
