@@ -68,14 +68,14 @@ Esta é a base de um critério chave do método cientifico - reprodutibilidade. 
 
 Se você fosse um professor de matemática, você provavelmente não iria aceitar uma resposta errada de um aluno, mesmo se esse aluno afirmasse que a reposta dele estava "certa" quando ele escreveu, mas de algum jeito naquele momento ela mudou.
 
-Portanto, nós podemos assumir que devemos medir a validade de uma afirmação relativa a realidade objetiva. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Portanto, nós podemos assumir que devemos medir a validade de uma afirmação relativa a realidade objetiva - empiricamente e logicamente. Logica como um estudo apenas surge como resultado da estabilidade da realidade; observações empíricas também são validas ou invalidas apenas se resultarem da estável natureza da realidade.
 
-### The Existence Of "Truth"
+### A existência de "Verdade"
 
-Truth, then, can be measured according to two central criteria:
+A verdade, então, pode ser medida de acordo com dois critérios principais:
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+1. A verdade é uma medida da correlação entre as ideias na nossa mente e a consistência da racionalidade, que por si é derivada diretamente do comportamento estável da matéria e energia no mundo real. [^2]
+2. A verdade é também uma medida da correlação entre as ideias na nossa mente e da natureza e comportamento da matéria e energia no mundo real.[^3]
 
 The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
 
