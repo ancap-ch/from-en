@@ -77,13 +77,13 @@ A verdade, então, pode ser medida de acordo com dois critérios principais:
 1. A verdade é uma medida da correlação entre as ideias na nossa mente e a consistência da racionalidade, que por si é derivada diretamente do comportamento estável da matéria e energia no mundo real. [^2]
 2. A verdade é também uma medida da correlação entre as ideias na nossa mente e da natureza e comportamento da matéria e energia no mundo real.[^3]
 
-O primeiro critério é uma medida da estabilidade das ideias em si - e tal estabilidade é requisitada porque a realidade é estável em si. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+O primeiro critério é uma medida da consistência das ideias com elas mesmas - e tal consistência é requisitada porque a realidade é consistente consigo mesma. Se eu disser, "eu não existo," é um exemplo de ideia que não é consistente com consigo mesma, já que eu preciso existir para dizer essa frase. O segundo critério é uma medida da precisão de ideias relativas a observações empíricas da realidade objetiva.
 
-#### Empiricism Versus Rationality
+#### Empirismo Versus Racionalidade
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+Empirismo pode ser considerado como a capacidade de instintivamente pegar uma bola lançada ou medir seu movimento; racionalidade é a capacidade de prever e compreender o caminho que a bola vai fazer com base em princípios universais. Claramente, se bolas fossem aleatoriamente lançadas em toda e qualquer direção - e magicamente transformadas em rebanhos de pombas - nós não seriamos capazes de prever seu comportamento.
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Portanto, já que a matéria obedece as leis imutáveis, nossas teorias *sobre* matéria devem também obedecer as leis imutáveis. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
 
 This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
 
