@@ -83,14 +83,14 @@ O primeiro critério é uma medida da consistência das ideias com elas mesmas -
 
 Empirismo pode ser considerado como a capacidade de instintivamente pegar uma bola lançada ou medir seu movimento; racionalidade é a capacidade de prever e compreender o caminho que a bola vai fazer com base em princípios universais. Claramente, se bolas fossem aleatoriamente lançadas em toda e qualquer direção - e magicamente transformadas em rebanhos de pombas - nós não seriamos capazes de prever seu comportamento.
 
-Portanto, já que a matéria obedece as leis imutáveis, nossas teorias *sobre* matéria devem também obedecer as leis imutáveis. Se eu não soubesse nada sobre basebol, mas ainda assim assistisse a uma partida onde os jogadores sempre obedecem as regras, seria irracional para mim formular uma teoria sobre as regras do basebol que diretamente contradigam o comportamento dos jogadores que eu estava assistindo. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Portanto, já que a matéria obedece as leis imutáveis, nossas teorias *sobre* matéria devem também obedecer as leis imutáveis. Se eu não soubesse nada sobre basebol, mas ainda assim assistisse a uma partida onde os jogadores sempre obedecem as regras, seria irracional para mim formular uma teoria sobre as regras do basebol que diretamente contradigam o comportamento dos jogadores que eu estava assistindo. Já que as ações dos jogadores são consistentes, *qualquer teoria que eu desenvolva sobre as regras que guiam essas ações, também deve ser consistente*.
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+Esse requisito para a consistência é um dos mais básicos requisitos para a verdade. Já que a realidade é consistente, teorias sobre a realidade também devem ser consistentes.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+Na verdade, o primeiro obstáculo que qualquer teoria deve superar é o de *consistência interna*.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^1]: Se você não dá valor a verdade, você não deveria estar nessa discussão – ou em qualquer outra discussão – em primeiro lugar!
 
-[^2]: Rational consistency, or internal logic.
+[^2]: Estabilidade racional ou logica interna.
 
-[^3]: Empirical evidence, or empiricism.
+[^3]: Evidencia empírica ou empirismo.
