@@ -58,9 +58,9 @@ Quando nós sonhamos, sentimos que as leis de "matéria" e "energia" estão semp
 
 Lógica, ciência e verdade são, portanto, impossíveis na ausência de *estabilidade*.
 
-Fundamentalmente, as leis da logica são derivadas do estudo da matéria e energia, pelo menos no nível perceptual. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+Fundamentalmente, as leis da logica são derivadas do estudo da matéria e energia, pelo menos no nível perceptual. Vamos supor que eu diga para você jogar uma bola para cima e para baixo ao mesmo tempo, estou pedindo por algo impossível, o qual você pode facilmente testar ao tentar tentar fazer o que pedi. Se eu pedir para você arar ao mesmo tempo um campo ao norte e um campo ao sul, você não irá conseguir. Se eu ordenar que você transforme uma rosa em um burro. minha ordem nunca será cumprida.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+A realidade perceptual é estável e objetiva, e é dessa estabilidade e objetividade que derivamos as leis da lógica. Nossas afirmações sobre a realidade só podem *representar* com precisão a realidade como um resultado direto da estabilidade e objetividade.
 
 The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
 
