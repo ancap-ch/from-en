@@ -54,11 +54,11 @@ Se eu passar uma hora tentando desenhar uma nuvem e perguntar a você se meu des
 
 Em outras palavras, onde não há estabilidade, não há como ter precisão.
 
-Quando nós sonhamos, sentimos que as leis de "matéria" e "energia" estão sempre mudando - Nós somos imunes a gravidade, podemos voar montados em um elefante, podemos atravessar paredes. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Quando nós sonhamos, sentimos que as leis de "matéria" e "energia" estão sempre mudando - Nós somos imunes a gravidade, podemos voar montados em um elefante, podemos atravessar paredes. A ideia de desenvolver uma "física cientifica dos sonhos" não é tão mais impossível que pintar com exatidão uma nuvem.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+Lógica, ciência e verdade são, portanto, impossíveis na ausência de *estabilidade*.
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+Fundamentalmente, as leis da logica são derivadas do estudo da matéria e energia, pelo menos no nível perceptual. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
 
 Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
 
