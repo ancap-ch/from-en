@@ -1,10 +1,10 @@
-## Ethical Categories
+## Categorias Éticas
 
-With the UPB framework in place, we can now turn to an examination of how UPB validates or invalidates our most common moral propositions. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
+Com o quadro de UPB no lugar, nós podemos agora voltar a um exame de como o UPB valida ou invalida nossas proposições morais mais comuns. Se nossa "teoria da física" pode explicar como um homem pode pegar uma bola de baseball, nós ao menos passamos o primeiro - e mais importante - obstáculo, e nosso primeiro e mais profundo golpe contra a besta.
 
-### The Seven Categories
+### As Sete Categorias
 
-As mentioned above, propositions regarding universally preferable behaviour fall into three general categories – positive, negative and neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
+Como mencionado acima, proposições sobre comportamentos universalmente preferíveis caem entre três categorias gerais - positiva, negativa e neutra. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
 
 1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
 2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
