@@ -4,9 +4,9 @@ Com o quadro de UPB no lugar, nós podemos agora voltar a um exame de como o UPB
 
 ### As Sete Categorias
 
-Como mencionado acima, proposições sobre comportamentos universalmente preferíveis caem entre três categorias gerais - positiva, negativa e neutra. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
+Como mencionado acima, proposições sobre comportamentos universalmente preferíveis caem entre três categorias gerais - positiva, negativa e neutra. Para nós ajudar a separa estética de ética, comecemos por alargar essas categorias para abranger *qualquer* comportamento que pode ser jeito à uma análise ética. As sete categorias são:
 
-1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
+1. É bom (universalmente preferível e executável através de violência, assim como "não matar").
 2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
 3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
 4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
