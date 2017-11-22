@@ -4,7 +4,7 @@ Uma vez que a ética é um assunto que todos nós já temos opiniões formadas, 
 
 Um jogador de basebol pode pegar uma bola no ar mesmo que ele não saiba nada sobre física. Da mesma maneira, nós podemos dizer sem problemas que uma ação é imoral mesmo que não saibamos nada sobre teorias éticas.
 
-If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
+Se eu posso pegar uma bola no ar, então eu instintivamente *sinto* o comportamento do vôo dessa bola. Porém meu conhecimento instintivo, não me dá a capacidade de lançar um foguete para a órbita se Jupiter com exatidão. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
 
 In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
 
