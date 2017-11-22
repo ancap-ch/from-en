@@ -7,12 +7,12 @@ Com o quadro de UPB no lugar, nós podemos agora voltar a um exame de como o UPB
 Como mencionado acima, proposições sobre comportamentos universalmente preferíveis caem entre três categorias gerais - positiva, negativa e neutra. Para nós ajudar a separa estética de ética, comecemos por alargar essas categorias para abranger *qualquer* comportamento que pode ser jeito à uma análise ética. As sete categorias são:
 
 1. É bom (universalmente preferível e executável através de violência, assim como "não matar").
-2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
-3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
-4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
-5. It is personally negative (predilection for not eating ice cream).
-6. It is aesthetically negative (“rudeness” and “being late”).
-7. It is evil (universally proscribed) (“rape”).
+2. É esteticamente positivo (universalmente preferível porém não executável através de violência, como"cortesia" e "ser pontual").
+3. É pessoalmente positivo (nem universalmente preferível nem executável com violência, como uma preferência por comer sorvete).
+4. É neutro, ou não tem conteúdo ético ou estético, como correr para o ônibus.
+5. É pessoalmente negativo (predileção por não comer sorvete).
+6. É esteticamente negativo ("rudeza" e "atraso").
+7. É mau (universalmente proscrito) ("estupro").
 
 Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
 
