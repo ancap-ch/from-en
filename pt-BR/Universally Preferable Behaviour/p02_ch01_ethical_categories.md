@@ -20,9 +20,9 @@ Por exemplo, o princípio de não agressão (NAP) afirma que a iniciação do us
 
 Além disso, como filósofos morais, nós precisamos priorizar nossa examinação de éticas racionais focando nas violações mais flagrantes. Claramente as ações mais imorais devem ser as de execução violenta de preferências injustas sobre os outros. Se ações como "roubo" ou "assassinato" forem definidas como UPB, a examinação dessas definições tem que ser nossa prioridade mais alta.
 
-Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
+Assim, nós devemos focar nossos esforços primariamente em ações universalmente preferíveis e executáveis por meio de violência.
 
-### Virtue And Its Opposite
+### Virtude e Seu Oposto
 
 The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil.” If I propose the moral rule, “thou shalt not steal,” then stealing must be evil, and *not* stealing must be good. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
 
