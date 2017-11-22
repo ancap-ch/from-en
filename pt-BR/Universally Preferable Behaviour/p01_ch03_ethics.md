@@ -6,9 +6,9 @@ Um jogador de basebol pode pegar uma bola no ar mesmo que ele não saiba nada so
 
 Se eu posso pegar uma bola no ar, então eu instintivamente *sinto* o comportamento do vôo dessa bola. Porém meu conhecimento instintivo, não me dá a capacidade de lançar um foguete para a órbita se Jupiter com exatidão. Eu tenho uma "pequena verdade" imediata – de como a bola irá se mover, mas isso não me dá uma "grande verdade" universal - de como a matéria se comporta.
 
-In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
+Da mesma maneira, nossa comum repulsa moral contra ações como estupro ou assassinato não são necessariamente erradas, mas elas não nos dão a capacidade de criar ou validar teorias morais consistentes e empíricas.
 
-If I propose a scientific theory that completely invalidates a baseball player’s ability to catch a fly ball, then I have the insurmountable challenge of explaining how the baseball player actually *does* catch the ball. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
+Se eu apresentar uma teoria científica que inválida completamente a habilidade de um jogador de basebol de pegar uma bola no ar, então eu tenho o desafio insuperável de explicar como o jogador consegue, na verdade, *pegar* a bola. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
 
 In other words, the senses give rise to logic – therefore logic cannot contradict the evidence of the senses. Evidence always trumps explanation.
 
