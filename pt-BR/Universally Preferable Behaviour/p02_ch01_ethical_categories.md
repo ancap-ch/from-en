@@ -14,11 +14,11 @@ Como mencionado acima, proposições sobre comportamentos universalmente prefer�
 6. É esteticamente negativo ("rudeza" e "atraso").
 7. É mau (universalmente proscrito) ("estupro").
 
-Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
+Idealmente, nós deveríamos ser capazes de cortar essas em só duas categorias - universalmente preferível e esteticamente positivo - definindo nossas proposições éticas para que o que é universalmente banido é simplesmente uma imagem espelhada do que é universalmente preferível, e ignorando meras preferências pessoais e ações neutras por não serem relevantes para a discussão sobre ética.
 
-For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
+Por exemplo, o princípio de não agressão (NAP) afirma que a iniciação do uso da força é imoral - assim a não iniciação do uso da força é universalmente preferível, enquanto a iniciação do uso da força é universalmente banido. Se o que é banido é simplesmente o oposto do que é preferível, não existe necessidade para uma categoria adicional.
 
-Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+Além disso, como filósofos morais, nós precisamos priorizar nossa examinação de éticas racionais focando nas violações mais flagrantes. Claramente as ações mais imorais devem ser as de execução violenta de preferências injustas sobre os outros. Se ações como "roubo" ou "assassinato" forem definidas como UPB, a examinação dessas definições tem que ser nossa prioridade mais alta.
 
 Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
 
