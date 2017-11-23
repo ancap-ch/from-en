@@ -28,9 +28,9 @@ O oposto de "virtude" tem que ser "vício" - o oposto de "bom" tem que ser "mal.
 
 Toda ação moral preferível deve ser sua verdadeira natureza e ter uma ação oposta - porque se não tem, então não existe capacidade de escolha, nenhuma possibilidade de evitabilidade, e então nenhuma capacidade de virtude ou vício. Se eu proponho a regra moral: "você deve desafiar a gravidade," então claramente moralidade se torna impossível, imoralidade não pode ser evitada, e então a rega moral deve ser invalida.
 
-If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
+Se eu proponho a regra moral: "você não pode ir para São Francisco," isso pode ser logicamente refraseado para: "você tem que ir para qualquer lugar menos São Francisco." Deste jeito a regra moral "você não deve roubar" pode ser igualmente proposta na forma positiva - "você deve respeitar direitos de propriedade." Uma vez que respeitar direitos de propriedade é uma virtude, violar propriedade tem que ser um vício.
 
-### What Is Missing
+### O Que Está Faltando
 
 Conspicuously absent from the above list are traditional virtues such as courage, honesty, integrity and so on – as well as their opposites: cowardice, falsehood and corruption.
 
