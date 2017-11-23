@@ -38,9 +38,9 @@ O mesmo é verdadeiro no campo da moralidade.
 
 ### As Baixas
 
-Cruzar esta "zona nula" é carregado de perigo. O caminho das pequenas às grandes verdades é pavimentado com ossos de milhões. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+Cruzar esta "zona nula" é carregado de perigo. O caminho das pequenas às grandes verdades é pavimentado com ossos de milhões. Desde a morte de Sócrates indo à tortura dos primeiros cientistas feita por fanáticos religiosos, para os milhões que assassinaram e morreram pelas fantasias negras do fascismo e do comunismo, qualquer avanço no conhecimento humano para com a "zona nula" é consideravelmente carregado de perigo.
 
-Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
+Dever "atravessar a zona nula" - ou unir as pequenas com as grandes verdades - inevitavelmente será difícil e perigoso? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
 
 If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
 
