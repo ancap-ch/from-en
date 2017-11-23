@@ -24,9 +24,9 @@ Assim, nós devemos focar nossos esforços primariamente em ações universalmen
 
 ### Virtude e Seu Oposto
 
-The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil.” If I propose the moral rule, “thou shalt not steal,” then stealing must be evil, and *not* stealing must be good. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
+O oposto de "virtude" tem que ser "vício" - o oposto de "bom" tem que ser "mal." Se eu proponho a regra moral, "você não deve roubar," então roubar tem que ser mal, e *não* roubar tem que ser bom. Isso não significa que "abster-se do roubo" é a única definição de excelência moral, é claro, já que um homem pode ser um assassino, mas não um ladrão. Nós podemos pensar disso como um "necessário porém não suficiente" requerimento para a virtude.
 
-Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
+Toda ação moral preferível deve ser sua verdadeira natureza e ter uma ação oposta - porque se não tem, então não existe capacidade de escolha, nenhuma possibilidade de evitabilidade, e então nenhuma capacidade de virtude ou vício. Se eu proponho a regra moral: "você deve desafiar a gravidade," então claramente moralidade se torna impossível, imoralidade não pode ser evitada, e então a rega moral deve ser invalida.
 
 If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
 
