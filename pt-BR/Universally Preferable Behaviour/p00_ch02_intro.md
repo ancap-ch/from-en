@@ -30,11 +30,11 @@ Por outro lado, na "zona nula" da religião, acredita-se que o exato oposto de a
 
 Nossas crenças nas virtudes dos militares encontram-se também nesta "zona nula". Se um homem é pago para matar um outro, chamamos este primeiro de "assassino de aluguel", e o condenamos por ser i, homem de sucesso. Se, no entanto, este homem veste uma roupa verde com algumas fitas, e comete o mesmo ato, nós o saudamos como um herói e o recompensamos com uma pensão. A pequena verdade (eu não devo matar) é perfeitamente consistente com a grande verdade (assassinato é errado) – ainda neste meio existe uma "zona nula," onde assassinato magicamente torna-se "virtuoso".
 
-Se esta "zona nula" é válida, então nenhuma proposição lógica poderá se manter. Se uma proposição é verdadeira – e o exato oposto dessa proposição também é verdadeiro – então o raciocínio lógico torna-se impossível. O crescimento da ciência racional tem sido o ataque constante sobre esta "zona nula" e a incursão de consistência objetiva para estes bolsos loucos dos caprichos subjetivos.
+Se esta "zona nula" é válida, então nenhuma proposição lógica poderá se manter. Se uma proposição é verdadeira – e o exato oposto dessa proposição também é verdadeiro – então o raciocínio lógico torna-se impossível. O crescimento da ciência racional tem sido o ataque constante sobre esta "zona nula" e a incursão de consistência objetiva nestes pequenos e loucos bolsos de subjetividade.
 
-In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
+Em mapas antigos, antes dos cartógrafos terem terminado suas explorações, os desenhos das terras conhecidas desaparecerão em papel branco. O crescimento do conhecimento requer primeiro uma delimitação do que não é conhecido e em seguida uma expansão dos princípios conhecidos em áreas desconhecidas.
 
-The same is true in the realm of morality.
+O mesmo é verdadeiro no campo da moralidade.
 
 ### The Casualties
 
