@@ -12,9 +12,9 @@ Se eu apresentar uma teoria científica que inválida completamente a habilidade
 
 Em outras palavras, os sentidos fazem surgir a lógica – assim sendo, a lógica não pode contradizer as evidências dos sentidos.
 
-De uma maneira similar, qualquer teoria ética válida deve ser capaz de explicar e justificar nossa comum repulsa contra crimes como assassinato e estupro. It cannot reasonably contradict the universal prohibitions of mankind, but must accurately incorporate and explain them.
+De uma maneira similar, qualquer teoria ética válida deve ser capaz de explicar e justificar nossa comum repulsa contra crimes como assassinato e estupro. Ela não pode contradizer as proibições universais da humanidade, mas deve precisamente incorporar e explicar elas.
 
-However, just as Einsteinian physics provided surprising truths – in fact, it would have been of little value if those truths were *not* surprising – ethical theories provide the most value when they also reveal surprising truths – shocking, even. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
+Entretanto, assim como a física Einsteiniana forneceu verdades surpreendentes – Na verdade, seria de pequeno valor se essas verdades *não* fossem surpreendentes - teorias éticas são de mais valor quando elas também revelam verdades surpreendentes - chocantes, até. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
 
 ### A disciplina da ética teórica
 
