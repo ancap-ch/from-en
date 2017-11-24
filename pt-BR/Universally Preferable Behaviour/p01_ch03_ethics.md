@@ -8,11 +8,11 @@ Se eu posso pegar uma bola no ar, então eu instintivamente *sinto* o comportame
 
 Da mesma maneira, nossa comum repulsa moral contra ações como estupro ou assassinato não são necessariamente erradas, mas elas não nos dão a capacidade de criar ou validar teorias morais consistentes e empíricas.
 
-Se eu apresentar uma teoria científica que inválida completamente a habilidade de um jogador de basebol de pegar uma bola no ar, então eu tenho o desafio impossível de explicar como o jogador consegue, realmente, *pegar* a bola. Do mesmo jeito, se minha teoria não consegue precisamente prever o arco de uma bola no ar, então, eu tenho uma "grande verdade" que diretamente contradiz uma "pequena verdade," que não pode ser válida. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
+Se eu apresentar uma teoria científica que inválida completamente a habilidade de um jogador de basebol de pegar uma bola no ar, então eu tenho o desafio impossível de explicar como o jogador consegue, realmente, *pegar* a bola. Do mesmo jeito, se minha teoria não consegue precisamente prever o arco de uma bola no ar, então, eu tenho uma "grande verdade" que diretamente contradiz uma "pequena verdade," que não pode ser válida. Uma vez que a necessidade de consistência lógica surge diretamente de "pequenas verdades" da experiência perceptual, qualquer teoria que diretamente contradiz tal experiência não pode ser válida.
 
-In other words, the senses give rise to logic – therefore logic cannot contradict the evidence of the senses. Evidence always trumps explanation.
+Em outras palavras, os sentidos fazem surgir a lógica – assim sendo, a lógica não pode contradizer as evidências dos sentidos.
 
-In a similar manner, any valid ethical theory should be able to explain and justify our common revulsion towards crimes such as murder and rape. It cannot reasonably contradict the universal prohibitions of mankind, but must accurately incorporate and explain them.
+De uma maneira similar, qualquer teoria ética válida deve ser capaz de explicar e justificar nossa comum repulsa contra crimes como assassinato e estupro. It cannot reasonably contradict the universal prohibitions of mankind, but must accurately incorporate and explain them.
 
 However, just as Einsteinian physics provided surprising truths – in fact, it would have been of little value if those truths were *not* surprising – ethical theories provide the most value when they also reveal surprising truths – shocking, even. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
 
