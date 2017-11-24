@@ -44,9 +44,9 @@ Dever "atravessar a zona nula" - ou unir as pequenas com as grandes verdades - i
 
 Se olharmos para o progresso econômico e social da humanidade, vemos mais ou menos uma linha reta por incontáveis milênios, seguido de picos massivos e assintóticos nos últimos anos. É inconcebível que alguma mutação genética generalizada possa explicar essa súbita e enorme aceleração de consistência intelectual e sucesso material. Teorias alegam que um certo efeito "bola de neve" surgiu, misteriosamente, impulsionado por um acúmulo de todos os pequenos aumentos de conhecimento que ocorreram desde os primórdios da civilização, geralmente podem ser descartados integralmente como explicações "ex post facto", desde que não tenham nenhum valor profético.
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+Se compreendemos que nosso surpreendente potencial está à nossa disposição há pelo menos dezenas de milhares de anos - e que existe um grande prazer e um grande lucro em exercê-lo - então fica claro que nós realmente "queremos" utilizar nossas mentes extraordinárias.
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+Assim, deve haver uma força descendente que historicamente tem agido para esmagar e escravizar a liberdade natural da humanidade.
 
 In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
 
