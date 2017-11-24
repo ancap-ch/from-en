@@ -14,13 +14,13 @@ Em outras palavras, os sentidos fazem surgir a lógica – assim sendo, a lógic
 
 De uma maneira similar, qualquer teoria ética válida deve ser capaz de explicar e justificar nossa comum repulsa contra crimes como assassinato e estupro. Ela não pode contradizer as proibições universais da humanidade, mas deve precisamente incorporar e explicar elas.
 
-Entretanto, assim como a física Einsteiniana forneceu verdades surpreendentes – Na verdade, seria de pequeno valor se essas verdades *não* fossem surpreendentes - teorias éticas são de mais valor quando elas também revelam verdades surpreendentes - chocantes, até. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
+Entretanto, assim como a física Einsteiniana forneceu verdades surpreendentes – Na verdade, seria de pequeno valor se essas verdades *não* fossem surpreendentes - teorias éticas são de mais valor quando elas também revelam verdades surpreendentes - chocantes, até. Na verdade, teorias éticas que não fornecem verdades surpreendentes seriam uma mera confirmação da existência de preferências instintivas, e portanto de pouco valor.
 
 ### A disciplina da ética teórica
 
-If I say that something is “morally good” – in other words, if I propose an ethical theory – then clearly I am arguing that human beings *should* act in a particular manner, or *avoid* acting in a particular manner.
+Se eu digo que algo é "moralmente bom" - em outras palavras, se eu propor uma teoria ética - então claramente eu estou argumentando que seres humanos *deveriam* agir de uma maneira específica, ou *evitar* agir de uma maneira específica.
 
-If I tell my son that he *should* become a baseball player just because I want him to, I am not stating a universal moral premise, but rather a personal preference. He is not *moral* if he becomes a baseball player, and neither is he *immoral* if he does not.
+Se eu falar para meu filho que ele *deveria* se tornar um jogador de basebol só porque eu quero que ele seja, eu não estou afirmando uma premissa moral universal, mas sim uma preferência pessoal. Ele não é *moral* se ele se tornar um jogador de basebol, e também ele não é *imoral* se ele não se tornar.
 
 However, if I tell him that it is *moral* for sons to obey their fathers, and *immoral* for them to disobey their fathers, then I am proposing a preference that is universal, rather than merely personal – I am trying to turn a “little truth” (*I want you to become a baseball player*) into a “great truth” (*It is immoral for sons to disobey fathers*). *If* he wishes to be moral, he *must* become a baseball player – not because becoming a baseball player is moral, but rather because obeying his father is moral.
 
