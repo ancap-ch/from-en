@@ -8,19 +8,19 @@ No Reino da física, uma barreira central para a extrapolação lógica das verd
 
 Por exemplo, nenhum homem alguma vez experienciou um círculo perfeito – tal entidade existe como ideal e na matemática, mas não pode ser visualizado na mente, nem sensualmente experimente no mundo real. Em lugar nenhum na natureza, ou no nosso conhecimento, um círculo perfeito existe, nem nas "pequenas verdades" da experiência pessoal, ou nas "grandes verdades" da física.
 
-However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
+No entanto, há milhares de anos, a ciência da astronomia era aleijada pela busca desse "círculo perfeito". Órbitas planetárias tinham que ser círculos perfeitos, porque Deus nunca permitiria algo tão "imperfeito" como uma elipse em sua criação.
 
-The problem with this approach – well, one problem anyway – was the retrograde motion of Mars. From our planet, Mars at times appears to be moving “backwards,” as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
+O problema com esta abordagem – bem, um problema de qualquer jeito – foi o movimento retrógrado de Marte. Do nosso planeta, Marte, às vezes, parece mover-se "para trás", conforme a terra "ultrapassa" marte em torno do sol. A falsa crença de que a terra era o centro do sistema solar, combinado com a mania de círculos "perfeitos", produziu o sistema ptolomaico de astronomia, que multiplicou todos esses círculos perfeitos ao ponto do absurdo, para ter em conta órbitas elípticas e o movimento retrógrado de Marte.
 
-Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
+Por que essa ilusão de perfeição era considerada como um requisito para corpos celestes? Certamente as provas da lua, com sua superfície de crateras, parecem apoiar a imperfeição dos céus, mas fixações religiosas ignoraram a evidência direta e sensual de imperfeições imediatas e interplanetárias. Descobertas de Galileu das montanhas, manchas solares e luas de Júpiter foram atacadas como heréticas.
 
-We can also turn this analysis to the question of the existence of God as well.
+Podemos também usar esta análise para a questão da existência de Deus.
 
-We have no direct, empirical or rational evidence for the existence of God. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+Nós não temos nenhuma evidência direta, empírica ou racional para a existência de Deus. As medições científicas mais abstratas não fornecem nenhuma evidência para a existência de Deus também – ainda, entre a verdade de nossa própria experiência, que é que há nenhum Deus e as medições científicas mais abstratas, que também confirmam que não há nenhum Deus – uma espécie de "zona nula" insiste na existência de Deus, *algo que inverte completamente quaisquer normas racionais de verdade*.
 
-### Bigotry
+### Intolerância
 
-Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+Crenças podem ser verdadeiras, falsas ou *não-verdadeiras*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
 
 We can say:
 
