@@ -21,13 +21,13 @@ Abaixo, temos um resumo do argumento principal para a moralidade.
 
 Abaixo está uma tabela de exemplos que lista algumas das categorias mais comuns de ações/regras e seus principais diferenças.
 
-| Ação/Regra                         | Preferível? | Universal? | Executável? | Necessita ação inicial por parte da vítima? | Os infratores podem ser evitados? | Categoria moral              |
-| ---------------------------------- | ----------- | ---------- | ----------- | ------------------------------------------- | --------------------------------- | ---------------------------- |
-| **Correr para pegar o ônibus**     | Não         | Não        | n/a         | n/a                                         | n/a                               | Neutro                       |
-| **Você não deve gosta de sorvete** | Sim         | Não        | Não         | n/a                                         | n/a                               | Neutro (preferência pessoal) |
-| **Você não deve se atrasar**       | Sim         | Sim        | Não         | Não                                         | Sim                               | APA                          |
-| **Você não deve cometer fraude**   | Sim         | Sim        | Sim         | Sim                                         | Sim                               | Bom                          |
-| **Você não deve estuprar**         | Sim         | Sim        | Sim         | Não                                         | Não                               | Bom                          |
+| Ação/Regra                         | Preferível? | Universal? | Enforceable? | Necessita ação inicial por parte da vítima? | Os infratores podem ser evitados? | Categoria moral              |
+| ---------------------------------- | ----------- | ---------- | ------------ | ------------------------------------------- | --------------------------------- | ---------------------------- |
+| **Correr para pegar o ônibus**     | Não         | Não        | n/a          | n/a                                         | n/a                               | Neutro                       |
+| **Você não deve gosta de sorvete** | Sim         | Não        | Não          | n/a                                         | n/a                               | Neutro (preferência pessoal) |
+| **Você não deve se atrasar**       | Sim         | Sim        | Não          | Não                                         | Sim                               | Esteticamente positivo       |
+| **Você não deve cometer fraude**   | Sim         | Sim        | Sim          | Sim                                         | Sim                               | Bom                          |
+| **Você não deve estuprar**         | Sim         | Sim        | Sim          | Não                                         | Não                               | Bom                          |
 
 ## Apêndice C: Podcasts do UPB
 
