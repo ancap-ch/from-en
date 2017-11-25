@@ -1,6 +1,6 @@
 ## Segundo Teste: Assassinato
 
-Deixe-nos testar o quadro UPB contra proposições morais sobre o *assassinato*, que aqui é definido como matar intencionalmente e com premeditação, não em legítima defesa.
+Deixe-nos testar a estrutura do UPB contra proposições morais sobre o *assassinato*, que aqui é definido como matar intencionalmente e com premeditação, não em legítima defesa.
 
 Uma vez que passamos tempo demais dissertando a questão do estupro - e já que vários dos mesmos argumentos vão ser aplicados aqui - essa análise pode ser muito mais breve.
 
@@ -8,7 +8,7 @@ Voltemos para nossas duas cobaias morais sentados em um quarto - nós os chamare
 
 Se assassinato é moralmente bom, então claramente *abster-se* de assassinar é imoral. Assim, a única chance que Bob e Doug tem de ser moral é no instante em que eles simultaneamente assassinarem um ao outro. Fisicamente, claro que isso é impossível - se os dois estão de pé e ambos segurarem o pescoço um do outro, eles nunca vão morrer de estrangulamento ao mesmo tempo. Se Bob morrer primeiro, seu aperto na garganta de Doug vai ser perdido, assim condenando Doug ao status de *imoralidade*, até que encontre outra vítima. Porque Bob morre primeiro - e assim não pode continuar matando Doug - a morte do Bob o rende mais imoral do que o assassinato de Doug.
 
-Intuitivamente, nós reconhecemos plenamente a insanidade de uma proposição moral de que assassinato é bom. Logicamente, nós sabemos que essa proposição é incorreta porque se fosse verdade, seria impossível para dois homens em uma sala serem ambos morais ao mesmo tempo. Moralidade, como a saúde, não podem ser consideradas meramente "instantâneas," mas precisam ser um processo, ou um continuum. O quadro UPB confirma que Bob não pode ser "mau" *enquanto* ele está estrangulando Doug, e então alcançar o ápice da virtude moral no momento em que ele mata Doug - e então reverter imediatamente para o estado de mau. Proposições morais tem que ser universais, e independentes de tempo e lugar. A proposição de que assassinato é moral falha nesse requerimentos em todos os níveis, e então não é válida.
+Intuitivamente, nós reconhecemos plenamente a insanidade de uma proposição moral de que assassinato é bom. Logicamente, nós sabemos que essa proposição é incorreta porque se fosse verdade, seria impossível para dois homens em uma sala serem ambos morais ao mesmo tempo. Moralidade, como a saúde, não podem ser consideradas meramente "instantâneas," mas precisam ser um processo, ou um continuum. A estrutura do UPB confirma que Bob não pode ser "mau" *enquanto* ele está estrangulando Doug, e então alcançar o ápice da virtude moral no momento em que ele mata Doug - e então reverter imediatamente para o estado de mau. Proposições morais tem que ser universais, e independentes de tempo e lugar. A proposição de que assassinato é moral falha nesse requerimentos em todos os níveis, e então não é válida.
 
 Se assassinato fosse moralmente bom, então isso também seria o caso de que um homem preso em uma ilha deserta seria moralmente mal por enquanto vivesse lá, já que não teria vítimas para matar. Um homem em coma também seria mau, do mesmo jeito um homem dormindo, ou um homem na mesa de operação. Um torturador seria um homem mal enquanto ele continuasse a torturar - mas ele viraria um homem bom no momento em que sua vítima morresse em suas mãos.
 
@@ -28,7 +28,7 @@ Desta forma, se nós não podemos justamente atirar em um homem quando ele está
 
 Assim, como a declaração: "eu posso atirar em um homem em quanto ele está dormindo quando eu quiser" não pode ser validado de acordo com o UPB, ela não pode ser uma proposição moral verdadeira.
 
-Aqui encontramos novamente que o quadro de UPB continua verdadeiro em termos de assassinato. A única teoria moral valida possível falando de assassinato é que ele é mal, ou universalmente banido.
+Aqui encontramos novamente que a estrutura do UPB continua verdadeiro em termos de assassinato. A única teoria moral valida possível falando de assassinato é que ele é mal, ou universalmente banido.
 
 Nós poderíamos tomar a mesma abordagem para a questão do assalto, mas os argumentos seriam idênticos aos de estupro e assassinato, então em nome da brevidade, nós devemos continuar.
 
