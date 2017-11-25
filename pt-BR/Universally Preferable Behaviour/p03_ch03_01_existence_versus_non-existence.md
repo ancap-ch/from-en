@@ -1,14 +1,14 @@
-## Existence Versus Non-Existence
+## Existência, contra a não-existência
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+Definimos "inexistência" como aquilo que não possui massa ou energia, ou exibe os efeitos de massa ou de energia, tais como relacionamentos detectáveis, como a gravidade.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+Deus não possui massa ou energia, ou exibe os efeitos de massa ou energia – Deus de fato não é detectável ou verificável em qualquer maneira, forma ou formato, ou através dos sentidos, ou através da racionalidade.
 
-Thus if I say, “God exists,” what I am really saying is:
+Assim, se eu digo, "Deus existe," o que eu quero realmente dizer é:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+"*Que o que existe deve ser detectável; Deus não pode ser detectável, mas Deus existe –, portanto, o que não existe, existe.* "
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+Em outras palavras, dizendo "Deus existe", eu criei uma contradição insuperável. Eu defini a "existência" como "não-existência," que faz tanto sentido como a definição de "vida" como "matéria inanimada", ou uma rocha como "o oposto de uma rocha", ou um "quadrado" como um "círculo".
 
 Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
 
