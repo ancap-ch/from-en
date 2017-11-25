@@ -34,19 +34,19 @@ Declarações dintolerantes - ou "fé" - por definição, não podem ser testada
 
 Podemos acreditar em coisas não comprovadas que se tornam verdade – sem dúvida acharam que o mundo era redondo antes de ser provado – mas a "zona nula" é o reino onde nos apegamos a uma crença em coisas que *possivelmente não poderiam vir a ser verdade*.
 
-Se eu dizer que dois mais dois é igual a cinco, eu estou cometendo um erro que pode ser corrigido com referência à lógica. Se eu digo que acredito que existe um círculo quadrado, então estou fazendo uma declaração explicitamente contraditória, que desmente ela mesma. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+Se eu dizer que dois mais dois é igual a cinco, eu estou cometendo um erro que pode ser corrigido com referência à lógica. Se eu digo que acredito que existe um círculo quadrado, então estou fazendo uma declaração explicitamente contraditória, que desmente ela mesma. Se eu for mais longe, e enfaticamente afirmar que "foo mais tury é igual a vanete" – e me recusar a definir qualquer uma das minhas condições – estou fazendo uma declaração a qual lógica e provas *não podem ser aplicadas*.
 
-### Next Stop: The "Alternative Universe"
+### Próxima parada: O "universo alternativo"
 
-In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
+Em geral, a maneira que as pessoas usam para tentar "salvar" suas crenças antiempíricas e antilógicas é criar um "Reino alternativo" ou "universo alternativo" onde suas declarações contraditórias de alguma forma podem ser verdadeiras.
 
-If I say: “A square circle exists,” I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
+Se eu disser: "existe um círculo quadrado," Eu estou afirmando o que é claramente impossível dentro deste universo. Assim, se quero manter a minha crença, eu devo inventar algum outro universo, ou Reino "fora" deste universo onde pode existir um círculo quadrado.
 
-If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
+Se eu inventar um reino onde auto-contradição é igual a verdade, então posso afirmar que aqueles que dizem que um círculo quadrado *não* existe são intolerantes e prejudiciais, porque eles estão eliminando possibilidades do que *poderia* ser verdade.
 
-With regards to this “null zone,” only two possibilities really exist. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
+No que diz respeito a esta "zona nula", existem apenas duas possibilidades. Esta *zona nula* existe de forma completamente independente de nosso universo e nunca será mensurável, detectável ou descobrível de qualquer maneira, forma ou formato – ou, em algum momento, seremos capazes de detectar e interagir com esta terra mágica onde auto-contradição é igual a verdade.
 
-If, at some point, it turns out that we *are* able to interact with this *null zone*, then we shall have direct sensual or rational evidence of its existence. In other words, it must “protrude” into our universe in some manner. However, the moment that it becomes detectable in our universe, it must have rational and empirical existence, like everything else we can detect. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
+Se, em algum momento, nós *formos* capazes de interagir com esta *zona nula*, então teremos a evidência direta sensível ou racional de sua existência. Em outras palavras, isso deve "projetar-se" em nosso universo de alguma maneira. No entanto, no momento em que se torna detectável em nosso universo, ele deve ter existência racional e empírica, como tudo o que podemos detectar. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
 
 We can thus be certain that if we *are* ever able to detect this other universe, the evidence we gather will in no way support the existence of self-contradictory statements. Square circles, gods and other self-contradictory concepts cannot hide there, any more than they can hide in the wet dreams of leprechauns.
 
