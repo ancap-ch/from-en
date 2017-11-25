@@ -4,7 +4,7 @@ No início deste livro, apresentei uma maneira de olhar como processamos a verda
 
 O mesmo se aplica a moralidade. Das pequenas verdades de "Eu não devo matar" nós podemos conseguir as grandes verdades como "a iniciação do uso da força é moralmente errada."
 
-In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
+No Reino da física, uma barreira central para a extrapolação lógica das verdades da experiência pessoal à teoria universal foi a religião.
 
 For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
 
