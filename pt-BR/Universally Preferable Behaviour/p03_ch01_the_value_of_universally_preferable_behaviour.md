@@ -4,6 +4,6 @@ Uma nova teoria é de pouco valor se apenas salienta o óbvio. Se a física só 
 
 Da mesma forma, a estrutura do UPB e as regras morais que ela valida ou rejeita, devem idealmente nos fornecer alguns insights surpreendentes sobre o mundo em que vivemos e as nossas relações com o outro.
 
-If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
+Se tudo o que UPB fizesse fosse provar que estupro, assassinato e roubo são moralmente errados, não acrescentaria muito valor, já que quase ninguém acredita que essas coisas são moralmente certas para começar.
 
-Thus let us begin applying this framework to the world that we live in, and see what value comes out of it.
+Assim, deixe-nos começar aplicando esta estrutura para o mundo que nós vivemos e ver qual o valor que vem de fora.
