@@ -20,21 +20,21 @@ Nós não temos nenhuma evidência direta, empírica ou racional para a existên
 
 ### Intolerância
 
-Crenças podem ser verdadeiras, falsas ou *não-verdadeiras*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+Crenças podem ser verdadeiras, falsas ou *não-verdadeiras*. É uma crença verdadeira que o deserto do Saara é no norte da África; é uma falsa crença de que o Saara é na Escócia; é uma *anticrença verdadeiro* que a Saaara é o que eu quiser que seja e existe onde quer que eu quero que existe. A primeira crença é verdadeira; a segunda é falsa – o terceiro é uma afirmação de intolerante que detona o próprio conceito de prova.
 
-We can say:
+Podemos dizer:
 
-1. Proposition X is true because it is rational.
-2. Proposition Y is false because it is irrational.
-3. Proposition Z is true because I *want* it to be true.
+1. Proposição X é verdadeira porque é racional.
+2. Proposição Y é falsa porque é irracional.
+3. Proposição Z é verdadeira porque eu *quero* que ela seja verdade.
 
-The third assertion is a complete self-contradiction. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
+A terceira afirmação é uma auto-contradição completa. "Verdade" é independente do desejo, uma vez que o desejo é por definição uma preferência subjetiva, e a verdade é, por definição, a conformidade de ideias com as normas objectivas da lógica e da realidade empírica. Dizer que algo é verdade, porque você *quer* que seja verdade é equiparar a subjetividade com a objetividade, que é uma afirmação auto-contraditória.
 
-Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
+Declarações dintolerantes - ou "fé" - por definição, não podem ser testadas, uma vez que não são a crença na *ausência* de provas, mas a crença em *desafio* da razão e/ou de provas.
 
-We can believe unproven things that turn out to be true – someone doubtless thought that the world was round before it was proven – but the “null zone” is the realm wherein we cling to a belief in things that *could not possibly turn out to be true*.
+Podemos acreditar em coisas não comprovadas que se tornam verdade – sem dúvida acharam que o mundo era redondo antes de ser provado – mas a "zona nula" é o reino onde nos apegamos a uma crença em coisas que *possivelmente não poderiam vir a ser verdade*.
 
-If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. If I say that I believe that a square circle exists, then I am making an explicitly self-contradictory statement, which disproves itself. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+Se eu dizer que dois mais dois é igual a cinco, eu estou cometendo um erro que pode ser corrigido com referência à lógica. If I say that I believe that a square circle exists, then I am making an explicitly self-contradictory statement, which disproves itself. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
 
 ### Next Stop: The "Alternative Universe"
 
