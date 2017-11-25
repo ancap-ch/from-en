@@ -1,6 +1,6 @@
 ## Categorias Éticas
 
-Com o quadro de UPB no lugar, nós podemos agora voltar a um exame de como o UPB valida ou invalida nossas proposições morais mais comuns. Se nossa "teoria da física" pode explicar como um homem pode pegar uma bola de baseball, nós ao menos passamos o primeiro - e mais importante - obstáculo, e nosso primeiro e mais profundo golpe contra a besta.
+Com a estrutura do UPB no lugar, nós podemos agora voltar a um exame de como o UPB valida ou invalida nossas proposições morais mais comuns. Se nossa "teoria da física" pode explicar como um homem pode pegar uma bola de baseball, nós ao menos passamos o primeiro - e mais importante - obstáculo, e nosso primeiro e mais profundo golpe contra a besta.
 
 ### As Sete Categorias
 
@@ -34,6 +34,6 @@ Se eu proponho a regra moral: "você não pode ir para São Francisco," isso pod
 
 Visivelmente ausente da lista acima estão as virtudes tradicionais como coragem, honestidade, integridade e assim por diante - assim como seus opostos: covardia, falsidade e corrupção.
 
-Pode parecer que essas virtudes deveriam cair no campo de comportamentos esteticamente positivos, assim como ser pontual, mas eu de longe tenho muito respeito pelas virtudes tradicionais para botar elas na mesma categoria de etiquetas sociais. A razão pela qual eles não podem ser colocados na categoria de universalmente preferíveis é que, como mencionado acima, o quadro de UPB só lida com *comportamentos*, não com atitudes, pensamentos, estados mentais ou emocionais. O método científico pode processar uma proposição lógica; mas não pode processar "raiva" ou "temeridade." Esses estados de mente não são sem importância, é claro - na verdade são essenciais - mas não podem ser parte de qualquer sistema objetivo para avaliar proposições éticas, uma vez que são essencialmente subjetivas - e, portanto, improvável - estado do ser.
+Pode parecer que essas virtudes deveriam cair no campo de comportamentos esteticamente positivos, assim como ser pontual, mas eu de longe tenho muito respeito pelas virtudes tradicionais para botar elas na mesma categoria de etiquetas sociais. A razão pela qual eles não podem ser colocados na categoria de universalmente preferíveis é que, como mencionado acima, a estrutura do UPB só lida com *comportamentos*, não com atitudes, pensamentos, estados mentais ou emocionais. O método científico pode processar uma proposição lógica; mas não pode processar "raiva" ou "temeridade." Esses estados de mente não são sem importância, é claro - na verdade são essenciais - mas não podem ser parte de qualquer sistema objetivo para avaliar proposições éticas, uma vez que são essencialmente subjetivas - e, portanto, improvável - estado do ser.
 
 Assim o UPB só pode lidar com ações objetivamente verificáveis assim como assassinato, assalto e assim por diante.
