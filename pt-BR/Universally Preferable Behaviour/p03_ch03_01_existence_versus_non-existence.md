@@ -26,27 +26,27 @@ A razão por termos passado tanto tempo lidando com esta teoria do "universo alt
 
 Em nossa própria experiência pessoal, sabemos que o assassinato é errado. Ao trabalhar com a proposição de que o assassinato é moralmente errado nos exemplos acima, duvido que alguém estava chocado por ter seus instintos morais confirmados através do raciocínio abstrato estrito da UPB. Nesta seção, no entanto, é oficialmente admissível para você começar a ficar verdadeiramente chocado.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Os maiores saltos para a frente na compreensão científica são as chamadas "teorias unificadoras". Einstein passou décadas a tentar elaborar uma teoria do campo unificado; e teorias da física que unem forças fortes e fracas, eletromagnetismo, gravidade, que por enquanto permanecem ilusórias.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+UPB como uma estrutura, no entanto, não só justifica nossos instintos morais a nível pessoal, filosófico e universal – mas também tem implicações profundas e chocantes para a sociedade humana.
 
-#### UPB In Action
+#### UPB em ação
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+O quadro da UPB valida proposições morais, exigindo que sejam internamente consistente e universais em termos de tempo, lugar e indivíduos.
 
-If we accept UPB, we must also accept the following corollary:
+Se aceitarmos a UPB, nós também deve aceitar o seguinte corolário:
 
-- Moral propositions are independent of costume.
+- As proposições morais são independentes do traje.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+O que isto significa é que um homem não pode mudar a sua natureza moral junto com suas roupas. O ato de mudar o traje não altera a natureza fundamental. Assim, regras morais opostas não podem ser válidas com base nas roupas que alguém usa.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Soldados, claro, usam trajes que são diferentes do cidadão médio. O cidadão comum é proibido de matar; soldados, no entanto, não tem só *permissão* de assassinar, mas são moralmente *elogiados* por assassinar.
 
-Let’s take another example.
+Vamos dar outro exemplo.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Roubo é moralmente errado, como já vimos acima. É moralmente errado para todas as pessoas em todas as situações em todos os momentos e em todas as circunstâncias. Desde que o roubo é a remoção forçada da propriedade alheia, sem consentimento, então tributação é sempre, para sempre e universalmente um mal moral. Tributação é por definição a remoção forçada da propriedade alheia, sem o seu consentimento, desde que a tributação baseia-se sobre o início do uso da força para tirar de um homem sua propriedade.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+O que chamamos de "governo" é apenas mais um exemplo desta *zona nula* em que cima é baixo, preto é branco, a verdade é mentira e o mal é bom.
 
 Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
 
