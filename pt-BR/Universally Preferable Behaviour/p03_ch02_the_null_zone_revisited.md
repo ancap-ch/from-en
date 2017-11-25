@@ -34,7 +34,7 @@ Declarações dintolerantes - ou "fé" - por definição, não podem ser testada
 
 Podemos acreditar em coisas não comprovadas que se tornam verdade – sem dúvida acharam que o mundo era redondo antes de ser provado – mas a "zona nula" é o reino onde nos apegamos a uma crença em coisas que *possivelmente não poderiam vir a ser verdade*.
 
-Se eu dizer que dois mais dois é igual a cinco, eu estou cometendo um erro que pode ser corrigido com referência à lógica. If I say that I believe that a square circle exists, then I am making an explicitly self-contradictory statement, which disproves itself. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+Se eu dizer que dois mais dois é igual a cinco, eu estou cometendo um erro que pode ser corrigido com referência à lógica. Se eu digo que acredito que existe um círculo quadrado, então estou fazendo uma declaração explicitamente contraditória, que desmente ela mesma. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
 
 ### Next Stop: The "Alternative Universe"
 
