@@ -6,7 +6,7 @@ O mesmo se aplica a moralidade. Das pequenas verdades de "Eu não devo matar" n�
 
 No Reino da física, uma barreira central para a extrapolação lógica das verdades da experiência pessoal à teoria universal foi a religião.
 
-For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
+Por exemplo, nenhum homem alguma vez experienciou um círculo perfeito – tal entidade existe como ideal e na matemática, mas não pode ser visualizado na mente, nem sensualmente experimente no mundo real. Em lugar nenhum na natureza, ou no nosso conhecimento, um círculo perfeito existe, nem nas "pequenas verdades" da experiência pessoal, ou nas "grandes verdades" da física.
 
 However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
 
