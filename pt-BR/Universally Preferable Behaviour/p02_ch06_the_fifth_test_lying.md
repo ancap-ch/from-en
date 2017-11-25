@@ -2,7 +2,7 @@
 
 A questão de *mentir* é interessante porque falar a verdade é geralmente considerado sendo universalmente preferível, mas não executória através de violência.
 
-É geralmente considerado *mais* estritamente requerido do que "ser pontual," mas *menos* estrito que "roubar." O que o quadro de UPB tem a dizer sobre isso?
+É geralmente considerado *mais* estritamente requerido do que "ser pontual," mas *menos* estrito que "roubar." O que a estrutura do UPB tem a dizer sobre isso?
 
 Naturalmente, qualquer teoria moral propondo "mentir é bom" se auto detona imediatamente, uma vez que o homem propondo isso *está* mentindo - o que é bom - então mentir é mau, porque ele disse a verdade de que mentir é mau.
 
@@ -34,6 +34,6 @@ Assim, podemos justamente mentir para um mentiroso, como nós podemos justamente
 
 A diferença é que "estar atrasado" não é tão ativamente destrutivo quanto mentir. Uma pessoa atrasada é chata, mas não prejudica fundamentalmente sua capacidade de processar a realidade. É uma coisa para mim aparecer uma hora atrasado para uma reunião às 07: 00 da manhã - é completamente outra tentar convencer você de que na verdade agendamos a reunião para oito horas da manhã, quando eu sei que esse não foi o caso.
 
-Atacando a sua confiança em sua própria mente [^5] é muito mais notório do que simplesmente fazê-lo esperar, uma vez que é o ato de usar a confiança do outro em você para detonar a confiança em si mesmo, o que é altamente corrupto, já que está *usando* um valor para destruir um valor, como falsificação. Isso é como UPB valida a proposição lógica de "mentir é bom," e confirma que o ato de mentir para alguem é pior que "estar atrasado," mas melhor que "assaltar."
+Atacar a sua confiança em sua própria mente [^5] é muito mais notório do que simplesmente fazê-lo esperar, uma vez que é o ato de usar a confiança do outro em você para detonar a confiança em si mesmo, o que é altamente corrupto, já que está *usando* um valor para destruir um valor, como falsificação. Isso é como UPB valida a proposição lógica de "mentir é bom," e confirma que o ato de mentir para alguem é pior que "estar atrasado," mas melhor que "assaltar."
 
-[^5]: As vezes chamado de "gás de iluminação," depois do filme velho.
+[^5]: As vezes chamado de "gás de iluminação," depois do filme antigo.
