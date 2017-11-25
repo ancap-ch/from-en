@@ -60,7 +60,7 @@ Primeiro de tudo, nós instintivamente entendemos que é mais justo rejeitar um 
 
 Por que isso?
 
-Mais uma vez, o quadro do UPB vem para o resgate.
+Mais uma vez, a estrutura do UPB vem para o resgate.
 
 Uma APA é uma *regra não coercitiva que pode ser racionalmente aplicada por ambas as partes simultaneamente*.
 
@@ -84,7 +84,7 @@ Talvez o estupro seja meramente uma preferência pessoal.[^2]
 
 Surge então a pergunta: pode a classificação de estupro como uma mera preferência pessoal ficar de pé ao escrutínio lógico?
 
-Se nós propomos a regra moral: "preferências pessoais devem ser violentamente impostas em outras pessoas," como isso fica de pé no quadro do UPB?[^3]
+Se nós propomos a regra moral: "preferências pessoais devem ser violentamente impostas em outras pessoas," como isso fica de pé na estrutura do UPB?[^3]
 
 Preferências pessoais não podem ser justamente impostas sobre outras pessoas, porque isso iria criar um intransponível paradoxo lógico.
 
@@ -140,11 +140,11 @@ Assim, parece que a única possibilidade lógica para o estupro é de que *não*
 
 ### Ufa!
 
-O fato de que o quadro de UPB tenha logicamente e efetivamente validado a proposição moral de que estupro é mal - não "bom", nem "esteticamente preferível" ou "pessoalmente preferível" ou até "moralmente neutro" - é um sinal muito bom. Isso não prova sem sombra de dúvidas que o UPB vai logicamente validar todas as proposições morais de "senso comum", mas o primeiro obstáculo foi passado, e isso nos dá uma grande causa para celebrar. Se eu fosse um físico propondo uma Teoria de Campo Unificado, e a aplicação da minha teoria previu corretamente onde uma bola de baseball jogada iria cair, eu seria justamente enormemente satisfeito.
+O fato de que a estrutura do UPB tenha logicamente e efetivamente validado a proposição moral de que estupro é mal - não "bom", nem "esteticamente preferível" ou "pessoalmente preferível" ou até "moralmente neutro" - é um sinal muito bom. Isso não prova sem sombra de dúvidas que o UPB vai logicamente validar todas as proposições morais de "senso comum", mas o primeiro obstáculo foi passado, e isso nos dá uma grande causa para celebrar. Se eu fosse um físico propondo uma Teoria de Campo Unificado, e a aplicação da minha teoria previu corretamente onde uma bola de baseball jogada iria cair, eu seria justamente enormemente satisfeito.
 
 A teoria da relatividade de Einstein previu que a luz iria curvar em um círculo de gravidade - quando isso foi confirmado, isso não provou a sua teoria sem sombra de dúvidas, mas isso provou que sua teoria *poderia* ser verdadeira, o que foi um grande salto para frente. A primeira validação é sempre a mais difícil, porque é muito fácil dar errado, e o erro é sempre maior que a precisão.
 
-O quadro de UPB corretamente validou nossa premissa moral de que estupro é mau. Isso é um critério necessário - mas não suficiente - de prova, e totalmente apoia uma investigação adicional. Assim, vamos continuar…
+A estrutura do UPB corretamente validou nossa premissa moral de que estupro é mau. Isso é um critério necessário - mas não suficiente - de prova, e totalmente apoia uma investigação adicional. Assim, vamos continuar…
 
 [^1]: Isto é muito diferente de uma agressão física, que destrói sua capacidade de livre escolha.
 
