@@ -134,31 +134,31 @@ Nos dizem que "queremos" que Bob npegue dinheiro – o que contradiz completamen
 
 "Mas então por que estavam ameaçando matá-los se eles não lhe dessem o dinheiro?"
 
-“Because they *owe* me their money!”
+"Porque eles me *devem* o dinheiro!"
 
-“I thought you said that they want to give you their money.”
+"Eu pensei que você disse que eles queriam dar-lhe o dinheiro."
 
-“No, no – they owe me. It’s really *my* money!”
+"Não, não – eles me devem. É realmente *meu* dinheiro!"
 
-“On what grounds do they owe you this money?”
+"Por que razão eles te devem este dinheiro?"
 
-“We have a contract!”
+"Temos um contrato!"
 
-“Can you show me this contract? Have they signed this contract of their own free will?”
+"Mostre este contrato? Assinaram este contrato por livre arbítrio?"
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+"Não é esse tipo de contrato! É um – contrato *social*... E também – de acordo com o contrato social, tenho toda a rua de qualquer jeito – o bairro inteiro na verdade! Quem se recusa a pagar-me o meu dinheiro pode mudar para outro lugar – não estou forçando ninguém!"
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
+"E como você sabe que você possui toda a vizinhança? Tem papéis de posse?"
 
-“Yes, of course – have a look here!”
+"Sim, claro – dê uma olhada aqui!"
 
-“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+"Bem, isso é apenas uma nota manuscrita dizendo que você possui toda a vizinhança – e é a mesma caligrafia de sua assinatura. Temo que nós vamos ter que prender-lhe este é apenas um contrato confeccionado por ti, o qual você está infligindo sobre outras pessoas apontando uma arma."
 
-This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+Isso é completamente insano e corrupto como quando eu continuo a dizer a uma mulher que estou estuprando-a e ela *quer* fazer sexo comigo. Imagine se fosse julgado por estupro, houvesse um vídeo da mulher implorando-me para parar, e eu tinha uma faca na garganta dela, como minha defesa seria recebida se eu continuasse a insistir que ela *queria* fazer sexo comigo?
 
-In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
+No tribunal, eu seria vilipendiado e jogado na cadeia por minha hipocrisia óbvia, louca, corrupta e egoísta.
 
-Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
+Ah, mas na "zona nula" de governo, o estupro é fazer amor, sequestro é convite, rejeitar o roubo é egoísmo e coerção é bondade.
 
 This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
 
