@@ -120,13 +120,13 @@ Claramente, quando Bob acorda pela manhã, antes do seu turno, ele não pode ir 
 
 Quando Bob toma o café da manhã, ele também não pode atacar seu vizinho e pegar seu dinheiro. A caminho do trabalho – mesmo que ele tenha colocado o uniforme – ele não bateu ponto ainda e, portanto, não tem mais direitos do que qualquer outro cidadão. Quando ele bate ponto, no entanto, é como se ele descendesse de um pilar amoral de fogo vindo do céu, ele ganha a incrível capacidade de moralmente atacar seus vizinhos e tirar o dinheiro deles.
 
-Estranhamente, esta é a única característica dele que foi totalmente revertida em si. Ele não pode voar, ele não pode mudar sua forma, ele não pode digerir rolamentos com êxito ou viver no inferno; ele não pode correr mil quilômetros por hora e nem consegue atravessar uma parede de tijolos. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
+Estranhamente, esta é a única característica dele que foi totalmente revertida em si. Ele não pode voar, ele não pode mudar sua forma, ele não pode digerir rolamentos com êxito ou viver no inferno; ele não pode correr mil quilômetros por hora e nem consegue atravessar uma parede de tijolos. Ele é absolutamente, totalmente, e completamente *o mesmo homem que ele era **antes de** bater o ponto* – mas agora, ele está sujeito a regras morais totalmente opostas.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Ainda mais estranhamente, se eu não sou um "policial", mas se eu seguir Bob para trabalhar e fizer exatamente o que ele faz – se eu vestir uma fantasia, entrar na delegacia de polícia e colocar um pedaço de papelão em um relógio de bater ponto – porque, então se fiz exatamente o que Bob faz, Eu sou completamente e totalmente imoral, embora as ações idênticas Bob são totalmente *morais*.
 
-What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
+Que tipo de sentido isso faz? Como nós podemos concebivelmente desvendar este mistério impenetrável?
 
-The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+O simples fato é que ele *não pode* ser desvendado, porque ele é completamente louco. O fato é que essa loucura moral do "mundo oposto" é completamente irracional – para não mencionar violentamente explorativa - é óbvio que ela deve ser enterrado em um desfile interminável de "voluntarismo" mitológico
 
 We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
 
