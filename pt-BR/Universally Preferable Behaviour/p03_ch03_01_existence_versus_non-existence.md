@@ -108,17 +108,17 @@ Sem a "zona nula", essas ficções corruptas não podem ser sustentadas.
 
 A "zona nula" é o covil da besta que caçamos.
 
-As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
+Como podemos ver, sabemos, pessoalmente, que é errado roubar; Temos muito poucos problemas com a proibição abstrata e lógica de roubo, tal como temos trabalhamos acima –, no entanto, existe ainda, esta "zona nula" ou universo alternativo onde tais oposições podem ser aceitas sem qualquer pergunta ou preocupação.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+De acordo com a UPB, é errado para mim e para você roubar. Ainda de alguma forma, nesta "zona nula", não é apenas permitido, mas também perfeitamente *moral*, para que outros possam roubar. Nós *não devemos* roubar – eles *devem* roubar. É insanidade moral!
 
-### Policemen
+### Policiais
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+Deixe-nos tirar nosso amigo Bob do seu quartinho de teste da teoria moral e restaurá-lo para seu trabalho original como um policial.
 
-Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
+Claramente, quando Bob acorda pela manhã, antes do seu turno, ele não pode ir para casa do seu vizinho e cobrar dinheiro apontando uma arma, não importa quem lhe disser que está tudo bem.
 
-When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+Quando Bob toma o café da manhã, ele também não pode atacar seu vizinho e pegar seu dinheiro. A caminho do trabalho – mesmo que ele tenha colocado o uniforme – ele não bateu ponto ainda e, portanto, não tem mais direitos do que qualquer outro cidadão. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
 
 Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
 
