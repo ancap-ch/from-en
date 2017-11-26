@@ -160,8 +160,8 @@ No tribunal, eu seria vilipendiado e jogado na cadeia por minha hipocrisia óbvi
 
 Ah, mas na "zona nula" de governo, o estupro é fazer amor, sequestro é convite, rejeitar o roubo é egoísmo e coerção é bondade.
 
-This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
+Isso é o que eu quero dizer quando digo que essa *zona nula* do "mundo oposto" é a barreira mais fundamental da felicidade humana em todo o mundo. Roubar é errado para nós; roubar é errado em essência – mas roubar é de alguma forma "certo" neste universo alternativo insano chamado "governo"?
 
-[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
+[^2]: Não vamos nem comentar sobre o pesadelo lógico do valor de verdade contido na afirmação "erro é igual a verdade".
 
-[^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.
+[^3]: Esse argumento tende também a não funcionar muito bem com os professores de matemática – nunca vi um aluno com argumentar com sucesso que uma resposta incorreta pode ser correta em outro universo, e por isso é injusto, marcá-la como errada.
