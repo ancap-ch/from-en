@@ -42,7 +42,7 @@ Para começar nossa discussão sobre ética, é essencial que entendamos a natur
 
 Na economia, uma teoria não pode ser válida se requer que os preços subam e desçam ao mesmo tempo. Na física, uma teoria não pode ser valida se requer dos gases se expandir e contrair ao mesmo tempo. Na matemática, uma teoria não pode ser valida se requer que dois mais dois seja igual a cinco, já que "cinco" é só uma outra forma de escrever dois mais três, não dois mais dois. então dizer que dois mais dois é igual a cinco é dizer que cinco é igual a quatro, o qual é contraditório em si.
 
-In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+Em geral, qualquer teoria que se contradiz no enunciado não pode ser valida. Não exige uma refutação externa, já que ela já se refuta em si. Não precisamos examinar cada canto e recanto do universo para determinar que um "círculo quadrado" não existe. O próprio conceito é contraditório e assim, refuta-se no enunciado.
 
 If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
 
