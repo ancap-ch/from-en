@@ -76,11 +76,11 @@ Claramente, entendemos que eu não posso te livrar das restrições da gravidade
 
 "Opiniões" são essas crenças que não tem nenhuma evidência clara na realidade ou para que nenhuma evidência clara pode ser fornecida, ou que são expressões de preferências meramente pessoais. A minha opinião pessoal é que eu prefiro sorvete de chocolate ao de baunilha - Eu também tenho uma "opinião" de que a Islândia é um paraíso tropical, ou que Deus existe, ou que a chuva cai para cima. Opiniões pessoais claramente não têm nada a ver com a moralidade; opiniões que pretendem descrever com precisão a realidade, mas que não são meramente preconceitos incorretos. Acreditar que a chuva cai para cima não inverte o seu curso; vestir uma camisa havaiana para a Islândia não faz Reykjavik ficar mais quente.
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+Assim, acreditar que o assassinato é moralmente bom não faz assassinato moralmente bom. Desde que minhas crenças sobre um ser humano não mudam a sua natureza moral, minha crença de que seus crimes são virtuosos não altera a virtude de suas ações. Se eu fechar os olhos e imaginar que você é um lagarto, você não perde de repente sua capacidade de regular sua própria temperatura corporal. Imaginar que você é um peixe não permite que você ignore a sua necessidade de equipamento de mergulho.
 
-Opinions do not change reality.
+Opiniões não mudam a realidade.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Porque opiniões não mudam a realidade, eu não posso conceder-lhe qualquer exceção ou inversão no que diz respeito a uma regra moral universal. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
 
 ### Government As Voluntarism
 
