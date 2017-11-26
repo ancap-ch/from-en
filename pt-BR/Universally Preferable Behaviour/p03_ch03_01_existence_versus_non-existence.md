@@ -88,17 +88,17 @@ A força aberta envolvida na instituição do governo – o invólucro conceitua
 
 No entanto, isso é pura bobagem.
 
-Se um homem mantém uma faca na garganta de uma mulher ao ter relações sexuais com ela, isso é por definição um ato de estupro. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Se um homem mantém uma faca na garganta de uma mulher ao ter relações sexuais com ela, isso é por definição um ato de estupro. Ele não pode dizer que o sexo é consensual, enquanto ao mesmo tempo ameaça-a com ferimentos ou morte, se ela se recusa a fazer sexo com ele. Se o sexo é voluntário, a faca é completamente desnecessária. Se o homem sente a necessidade de uma faca, então o sexo é claramente *não* voluntário.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+Da mesma forma, as pessoas dizem que a tributação é parte do contrato social que eles voluntariamente concordaram.
 
-This is both logically and empirically false.
+Isto é logicamente e empiricamente falso.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Sabemos que é empiricamente falsa porque *nenhum há contrato social existe*. Nem você nem eu *alguma vez* assinou um documento voluntariamente consentindo com o imposto de renda – simplesmente nascemos em um sistema que leva o nosso dinheiro de nós apontando uma arma.
 
-### The Gun In The Room
+### A arma no quarto
 
-Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+Muitas pessoas argumentam neste ponto que a tributação não é aplicada no apontando uma arma, e sim que as pessoas pagam voluntariamente. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
 
 This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
 
