@@ -34,13 +34,13 @@ Do mesmo jeito, não existe tal coisa de uma direção universal "melhor" - tudo
 
 É verdade que poucas pessoas realmente *dirigem* para dentro do oceano, isso porém não significa que é universalmente verdade que ninguém *deve* dirigir para dentro do oceano. Princípios não são democráticos - ou, se são, nós devemos enfrentar o problema da classificação do subjetivismo, e também defenestrar todo o conceito de ética.
 
-"Comportamento" existe na realidade objetiva, fora de nossas mentes - os conceitos de "deveria," "deve," e "preferência," não existem fora de nossas mentes. No entanto, o fato que "deveria" não existe na realidade objetiva não significa que "deveria" é completamente subjetivo. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
+"Comportamento" existe na realidade objetiva, fora de nossas mentes - os conceitos de "deveria," "deve," e "preferência," não existem fora de nossas mentes. No entanto, o fato que "deveria" não existe na realidade objetiva não significa que "deveria" é completamente subjetivo. Nem o método cientifico nem os números em si existem na realidade, no entanto, ciência e matemática permanecem disciplinas objetivas.
 
 ### Argumentos Auto-destrutivos
 
-In order to begin our discussion of ethics, it is essential that we understand the nature of *self-defeating arguments*.
+Para começar nossa discussão sobre ética, é essencial que entendamos a natureza dos *argumentos auto-destrutivos*.
 
-In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
+Na economia, uma teoria não pode ser válida se requer que os preços subam e desçam ao mesmo tempo. Na física, uma teoria não pode ser valida se requer dos gases se expandir e contrair ao mesmo tempo. Na matemática, uma teoria não pode ser valida se requer que dois mais dois seja igual a cinco, já que "cinco" é só uma outra forma de escrever dois mais três, não dois mais dois. então dizer que dois mais dois é igual a cinco é dizer que cinco é igual a quatro, o qual é contraditório em si.
 
 In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
 
