@@ -128,11 +128,11 @@ Que tipo de sentido isso faz? Como nós podemos concebivelmente desvendar este m
 
 O simples fato é que ele *não pode* ser desvendado, porque ele é completamente louco. O fato é que essa loucura moral do "mundo oposto" é completamente irracional – para não mencionar violentamente explorativa - é óbvio que ela deve ser enterrado em um desfile interminável de "voluntarismo" mitológico
 
-We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
+Nos dizem que "queremos" que Bob npegue dinheiro – o que contradiz completamente o fato de que Bob aparece na nossa porta apontando uma arma carregada na nossa cara. Por esta lógica, posso também ir subindo e descendo a rua roubando dinheiro de meus vizinhos e então afirmar que estou absolutamente chocado quando eu for preso:
 
-“They *want* me to take their money!”
+"Eles *querem* que eu leve o dinheiro!"
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+"Mas então por que estavam ameaçando matá-los se eles não lhe dessem o dinheiro?"
 
 “Because they *owe* me their money!”
 
