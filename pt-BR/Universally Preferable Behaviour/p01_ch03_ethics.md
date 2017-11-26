@@ -44,12 +44,12 @@ Na economia, uma teoria não pode ser válida se requer que os preços subam e d
 
 Em geral, qualquer teoria que se contradiz no enunciado não pode ser valida. Não exige uma refutação externa, já que ela já se refuta em si. Não precisamos examinar cada canto e recanto do universo para determinar que um "círculo quadrado" não existe. O próprio conceito é contraditório e assim, refuta-se no enunciado.
 
-If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
+Se eu apresentar uma prova matemática complexa para você, e você notar que, no início, eu afirmo que minha prova depende do fato de que dois mais dois fazem quatro e cinco ao mesmo tempo, você não precisa ler mais nada para saber que a minha prova é inválida.
 
-Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
+Da mesma forma, como mencionado anteriormente, se eu chegar até você e dizer: "Eu não existo", minha tese auto-destroi-se automaticamente. Se eu posso falar para você que eu não existo, então claramente eu existo.
 
-If I come up to you and say: “There is no such thing as truth,” then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
+Se eu vir até você e dizer: "Nada é verdade", então estou fazendo uma declaração que eu considero ser verdade, alegando que não existe verdade. Novamente, o meu argumento se auto-destrói.
 
-If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
+Se eu disser que "a linguagem não tem significado", então eu também me contradisse. Para que eu possa verbalmente dizer que a linguagem não tem significado, a linguagem deve ter pelo menos algum significado.
 
-If I tell you that “Your senses are invalid,” then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
+Se eu disser que "seus sentidos não funcionam", então, meu argumento também se auto-destrói, já que eu estou usando o seu sentido da audição para te dizer que seu sentido da audição não funciona. Se eu posso com sucesso dizer minha tese para você, então seus sentido de audição deve funcionar. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
