@@ -4,11 +4,11 @@ Uma vez que a violência do governo é intelectualmente exposta – e o suposto 
 
 Eu tenho escrito dezenas de artigos expondo a falsidade desta posição, então eu não me incomodo em reiterar os argumentos aqui, mesmo que eles não sejam essenciais para um livro sobre moral, e seriam mais apropriados para um livro explicando os princípios e aspectos práticos de uma sociedade voluntária. [^4]
 
-O "argumento da praticidade" em nenhuma maneira resolve o problema da violência. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
+O "argumento da praticidade" em nenhuma maneira resolve o problema da violência. Se eu ver você comendo hambúrgueres todos os dias, posso dizer-te que é impraticável para você fazê-lo, se você quiser manter um peso saudável. Não posso dizer que é *mal* para você comer cheeseburgers, por razões que nós já exploramos. Eu não posso compelir você de maneira justa através da força para aumentar a "praticidade" de suas ações.
 
-Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
+Assim, dizer que o governo é justificado por nos forçar a sermos mais "utilitários" é completamente falso, algo que é verificável pela estrutura do UPB - mesmo se nós assumirmos que as soluções do governo são mais "praticas", e na verdade elas não são.
 
-Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
+Além disso, se os representantes do governo afirmam que um contrato social que lhes permite forçar uma população "que não é pratíca" comportar-se mais "praticamente", uma contradição insuperável é criada.
 
 If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
 
