@@ -2,9 +2,9 @@
 
 Uma vez que a violência do governo é intelectualmente exposta – e o suposto "voluntarismo" dos cidadãos é revelado como uma fraude viciosa – o argumento sempre se volta para o fato de que nós *precisamos* do governo para nos fornecer bens públicos tais como a proteção, defesa regional, estradas etc.
 
-I have written dozens of articles exposing the falsehood of this position, so I will not bother to reiterate those arguments here, since they are not essential to a book on morality, but rather would be more appropriate to a book explaining the principles and practicalities of a voluntary society.[^4]
+Eu tenho escrito dezenas de artigos expondo a falsidade desta posição, então eu não me incomodo em reiterar os argumentos aqui, mesmo que eles não sejam essenciais para um livro sobre moral, e seriam mais apropriados para um livro explicando os princípios e aspectos práticos de uma sociedade voluntária. [^4]
 
-The “argument from practicality” in no way solves the problem of violence. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
+O "argumento da praticidade" em nenhuma maneira resolve o problema da violência. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
 
 Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
 
