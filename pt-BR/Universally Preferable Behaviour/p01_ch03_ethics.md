@@ -52,4 +52,4 @@ Se eu vir até você e dizer: "Nada é verdade", então estou fazendo uma declar
 
 Se eu disser que "a linguagem não tem significado", então eu também me contradisse. Para que eu possa verbalmente dizer que a linguagem não tem significado, a linguagem deve ter pelo menos algum significado.
 
-Se eu disser que "seus sentidos não funcionam", então, meu argumento também se auto-destrói, já que eu estou usando o seu sentido da audição para te dizer que seu sentido da audição não funciona. Se eu posso com sucesso dizer minha tese para você, então seus sentido de audição deve funcionar. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
+Se eu disser que "seus sentidos não funcionam", então, meu argumento também se auto-destrói, já que eu estou usando o seu sentido da audição para te dizer que seu sentido da audição não funciona. Se eu posso com sucesso dizer minha tese para você, então seus sentido de audição deve funcionar. Portanto eu tenho que presumir que seus sentidos funcionam para te convencer que seus sentidos não funcionam, o que é insuportável.
