@@ -80,15 +80,15 @@ Assim, acreditar que o assassinato é moralmente bom não faz assassinato moralm
 
 Opiniões não mudam a realidade.
 
-Porque opiniões não mudam a realidade, eu não posso conceder-lhe qualquer exceção ou inversão no que diz respeito a uma regra moral universal. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Porque opiniões não mudam a realidade, eu não posso conceder-lhe qualquer exceção ou inversão no que diz respeito a uma regra moral universal. Visto que as regras morais são baseadas na lógica universal, bem como a natureza física e a realidade de um ser humano, não posso conceder-te o "direito de matar," mais do que eu posso conceder-lhe a habilidade de levitar, andar sobre a água ou com precisão dizer que dois mais dois são cinco.
 
-### Government As Voluntarism
+### Governo como voluntarismo
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+A força aberta envolvida na instituição do governo – o invólucro conceitual que inverte as regras morais para um determinado grupo de indivíduos – é algo que é sempre mantido fora da mesa em debates. Quando falamos sobre o governo, nunca é considerado positivo salientar "a arma no quarto." Quase por definição, os governos são considerados para serem escolhidos pelo e para o povo e para operar com sua aprovação expressa ou implícita.
 
-However, this is pure nonsense.
+No entanto, isso é pura bobagem.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Se um homem mantém uma faca na garganta de uma mulher ao ter relações sexuais com ela, isso é por definição um ato de estupro. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
 
 In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
 
