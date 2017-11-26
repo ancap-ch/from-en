@@ -54,23 +54,23 @@ A sociedade progride exatamente no grau em que razão e evidência dão o grande
 
 Dizer que o governo opera sob regras de morais opostas do resto da sociedade é exatamente o mesmo como dizendo, "duendes são imunes a gravidade". Em primeiro lugar, não existem duendes – e uma das maneiras em que sabemos que eles não existem é que se afirma que são imunes à gravidade. Tudo o que tem massa está sujeito a gravidade – o que é imune a gravidade por definição não tem massa e, portanto, não existe. A afirmação "duendes são imunes a gravidade" é uma tautologia, que apenas confirma a não-existência de duendes – é o semântico equivalente a "aquilo que não existe, não existe." "A é A", a primeira lei de Aristóteles da lógica, faz um pouco precioso para confirmar a existência daquilo que é definida como a não-existência.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+Da mesma maneira, quando dizemos que é moralmente bom para soldados representantes de assassinato e governo para roubar, nós sabemos que "soldados" e "representantes do governo" como categorias morais é algo *completamente inválido*.
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+Se eu disser que um círculo quadrado tem o direito de roubar, eu apenas estou dizendo que aquilo que não pode existir tem o direito de fazer isso que é contraditório – uma declaração puramente absurda, mas que permanece estranhamente atraente na "zona nula" da política.
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+Se eu comprar a fantasia de um soldado em uma loja de segunda mão, e colocá-lo, claramente eu não criei um universo alternativo onde em regras morais opostas podem ser válidas. No momento antes de eu colocar o traje, era errado para mim assassinar – quando é que se torna *certo* eu matar? Quando colocar as calças? E se eu tiver as calças, mas não o colete? E se eu tiver apenas uma bota? E se ambas as botas são, mas só uma esta amarrada? E se meu chapéu estiver ao contrário? E se eu tiver vestido um uniforme que não é reconhecido pela primeira pessoa que me deparo? Os Beatles, de repente, possuem o direito de matar quando lançaram o cover de "Sargento pimenta"? Eles perderam esse direito quando eles tiraram seus casacos?
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Eu pergunto essas perguntas retóricas porque elas são de fato muito sérios. Claramente, um traje militar não altera a natureza do ser humano, mais do que um corte de cabelo transforma-o em um pato, um conceito ou um Deus.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+"Ah", você pode dizer, "mas o traje é inválido porque você tem isso em uma loja de segunda mão – colocar o uniforme de um soldado não mais faz um soldado do que as fotocópias de um doutorado te garantem um pH.d."
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+A analogia é incorreta, porque tendo um pH.d. ou fotocopiar um doutorado não altera nenhuma das regras morais a que você é submetidos como um ser humano.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+"Bem", você pode responder, "mas a diferença é que o soldado possui direitos morais que são fornecidos a ele pelo cidadão comum, por uma questão de legítima defesa coletiva, e assim por diante."
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Isto levanta um ponto muito interessante, que é a questão de se opiniões podem mudar a realidade.
 
-### Opinions And Reality
+### Opiniões e realidade
 
 Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
 
