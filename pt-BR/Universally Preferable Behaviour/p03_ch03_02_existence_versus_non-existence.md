@@ -8,11 +8,11 @@ O "argumento da praticidade" em nenhuma maneira resolve o problema da violência
 
 Assim, dizer que o governo é justificado por nos forçar a sermos mais "utilitários" é completamente falso, algo que é verificável pela estrutura do UPB - mesmo se nós assumirmos que as soluções do governo são mais "praticas", e na verdade elas não são.
 
-Além disso, se os representantes do governo afirmam que um contrato social que lhes permite forçar uma população "que não é pratíca" comportar-se mais "praticamente", uma contradição insuperável é criada.
+Além disso, se os representantes do governo afirmam que um contrato social que lhes permite forçar uma população "que não é prática" comportar-se mais "praticamente", uma contradição insuperável é criada.
 
-If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
+Se eu forçar uma mulher a se casar com um homem que eu escolhi para ela, claramente eu acredito que eu tenho infinitamente melhor julgamento sobre a adequação de um marido para ela do que ela mesma. Na verdade, não acredito que ela pode pensar por si mesma, ou tem alguma pista sobre o seu próprio interesse, porque eu não estou tomando *nenhuma* consideração de suas preferências, mas estou forçando-à casar com um homem de minha escolha.
 
-When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
+Quando eu forçar esta mulher a se casar, apenas posso justificar o uso da força – até mesmo por motivos pragmáticos, imediatamente – alegando que ela é mentalmente incapaz de fazer suas próprias escolhas com relação ao casamento.
 
 If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. If she has no idea what constitutes a good or suitable husband, then how can she evaluate me as fit to decide who will be a good or suitable husband for her?
 
