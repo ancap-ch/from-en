@@ -14,9 +14,9 @@ Se fosse universalmente preferível usar a força, então nenhum ser humano jama
 
 Além disso, se é sempre preferível usar a força, então crimes assim como estupro e assassinato se tornam irrelevantes, porque se é sempre preferível usar a força, então fazer amor se torna imoral, e estupro se torna moral - mas só para o estuprador, enquanto *se submeter* à violência, ao invés de violência em si, se torna moral para sua vítima, o que é uma contradição.
 
-If, on the other hand, we say that violence is bad, then we open up the possibility of self-defence If it is a UPB-compliant statement to say that violence is evil, then we know that, since that which is evil can be prevented through the use of violence, the use of violence to *oppose* violence is morally valid.
+Se, por outro lado, nós dizemos que violência é má, então nós abrimos a possibilidade para legítima defesa. Se é uma afirmação compatível com o UPB dizer que violência é má, então nós sabemos que, uma vez que o que é não pode ser prevenido através do uso da violência, o uso da violência para *opor* violência é moralmente válido.
 
-Thus, since we know that violence is evil, we know that we may use force to oppose it. If we define an action as evil, but also prevent anybody from acting against it, then we are no longer moral philosophers, but merely judgemental archaeologists. This would be akin to a medical theory that said that illness is bad, but that it is evil to attempt to prevent or cure it – which would make no sense whatsoever.
+Assim, já que sabemos que violência é má, nós sabemos que nós podemos usar força para opor ela. If we define an action as evil, but also prevent anybody from acting against it, then we are no longer moral philosophers, but merely judgemental archaeologists. This would be akin to a medical theory that said that illness is bad, but that it is evil to attempt to prevent or cure it – which would make no sense whatsoever.
 
 Also, if human beings cannot validly act to prevent harm to themselves, then actions such as inoculations, wearing gloves in the cold, putting on sunscreen or insect repellent, building a wall to prevent a landslide, brushing one’s teeth, wearing shoes and so on are all immoral actions. If we return to Bob and Doug, and we give them the moral argument that self-defence is always wrong, what results?
 
