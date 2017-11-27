@@ -2,13 +2,13 @@
 
 Nós já testamos teorias morais específicas relativas às estrutura do UPB, e encontramos que o UPB valida nossas crenças morais mais comumente realizadas, como proibições contra estupro, assassinato e roubo. Trazendo o critério de *evitabilidade* nas nossas análises, nós também ajudamos a diferenciar crimes que não podem ser evitados, e crimes que precisam ser habilitados através de uma ação positiva, como fraude. Finalmente, nós dividimos "comportamentos preferíveis" em três categorias principais - universal, estética, e neutra (e seus opostos relevantes). Ações universalmente proibidas incluem estupro, assassinato e roubo, que a força pode ser usada para evitar. Ações esteticamente preferíveis incluem polidez, pontualidade e assim por diante, que não podem ser executadas através de violência. Ações neutras incluem preferências puramente subjetivas, ou ações que não tem conteúdo moral, como correr para o ônibus.
 
-However, there remain many challenging moral tests that fall outside the examples we have dealt with above. We will only deal with a few of those here, to have a look at the framework of UPB, and see how it deals with these more challenging moral questions.
+No entanto, restam diversos desafiadores testes morais que não se enquadram nos exemplos que abordamos acima. Só trataremos com alguns deles aqui, para dar uma olhada na estrutura do UPB, e ver como ele lida com essas questões morais mais desafiadoras.
 
-### Self-Defence
+### Legítima Defesa
 
-The concept of self-defence should not be taken for granted. If we assume that there is no such thing as self-defence, or that self-defence is never a valid action, then the framework of UPB undoes that assumption very quickly.
+O conceito de legítima defesa não deveria ser tomado como garantido. Se eu assumo que não existe algo como legítima defesa, ou que legitima defesa nunca é uma ação valida, então a estrutura do UPB desfaz essa suposição bem rápido.
 
-If there is no such thing as self-defence, then we are not talking about the initiation or the retaliation of the use of force, but rather just the use of force in any context. In other words, if we get rid of the concept of self-defence, the only question that we need to ask ourselves is: *is it universally preferable to use force, or not?*
+Se não existe algo como legítima defesa, então nós não estamos falando sobre iniciação ou a retaliação do uso da força, mas só o uso da força em qualquer contexto. Em outras palavras, se nos livrarmos do conceito de legítima defesa, a única questão que temos que fazer para nós mesmos é: *é universalmente preferível usar a força, ou não?*
 
 If it were universally preferable to use force, then no human being should ever advance a moral argument, but should rather use force to achieve his ends. However, just as in the rape, theft and murder examples cited above, the claim that it is universally preferable to use force immediately invalidates itself. To be able to use force upon another person requires that that person submit to force – in other words, in order for one person to be moral, the other person must be immoral, which cannot stand. Also, if the other person *submits* to force, it is not force – thus he must *resist*, which requires that he resist virtue in order to enable virtue, which is self-contradictory.
 
