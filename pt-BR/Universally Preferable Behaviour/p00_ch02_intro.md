@@ -50,9 +50,9 @@ Assim, deve haver uma força descendente que historicamente tem agido para esmag
 
 No campo da ciência, não é muito difícil de ver forças opressivas que continuamente mantiveram nossas mentes na ignorância quase primitiva. A combinação de superstições sob forma de religião, e violência sob a forma de aristocracia, ameaçava pensadores racionais com intimidação, prisão, tortura e assassinato. Assim como um agricultor ganhar com a baixa inteligência de suas vacas, e um dono de escravos lucra com o medo de seus escravos, sacerdotes e cavaleiros mantém seus privilégios ameaçando de morte quem quer que se atrevesse a pensar.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+A simples verdade é que "sacerdotes" e "cavaleiros" foram - e são - meramente homens. A verdade simples é que deuses e demônios que deveriam justificar seu governo nunca existiram.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+Fizemos grandes avanços na compreensão da natureza e realidade da simples igualdade humana, mas o triste fato deste assunto é que o domínio da "moralidade" continua perdido na "zona nula" - nas ilusões destrutivas das "verdades do meio".
 
 ### "Middle Truths"
 
