@@ -48,7 +48,7 @@ Se compreendemos que nosso surpreendente potencial está à nossa disposição h
 
 Assim, deve haver uma força descendente que historicamente tem agido para esmagar e escravizar a liberdade natural da humanidade.
 
-No campo da ciência, não é muito difícil de ver forças opressivas que continuamente mantiveram nossas mentes na ignorância quase primitiva. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+No campo da ciência, não é muito difícil de ver forças opressivas que continuamente mantiveram nossas mentes na ignorância quase primitiva. A combinação de superstições sob forma de religião, e violência sob a forma de aristocracia, ameaçava pensadores racionais com intimidação, prisão, tortura e assassinato. Assim como um agricultor ganhar com a baixa inteligência de suas vacas, e um dono de escravos lucra com o medo de seus escravos, sacerdotes e cavaleiros mantém seus privilégios ameaçando de morte quem quer que se atrevesse a pensar.
 
 The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
 
