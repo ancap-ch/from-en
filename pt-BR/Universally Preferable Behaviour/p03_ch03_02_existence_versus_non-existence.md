@@ -36,18 +36,18 @@ Em primeiro lugar, a "vontade" é um aspecto do indivíduo, enquanto a "maioria"
 
 Duas objeções adicionais a serem constantemente repetidas sempre que surge a questão da necessidade de um governo. A primeira é que uma sociedade livre só é possível se as pessoas estão perfeitamente boas ou racionais – em outras palavras, que os cidadãos *precisa de* um governo centralizado porque há gente má no mundo.
 
-O primeiro e mais óbvio problema com esta posição é que se existem pessoas más na sociedade, também existem dentro do governo – sendo muito mais perigosas desse modo. Os cidadãos podem proteger-se contra os indivíduos maus, mas não tem nenhuma chance contra um governo agressivo, armado até aos dentes e com policiais e militares. Assim, o argumento de que precisamos do governo, porque existem pessoas más é falso. Se existem pessoas más, o governo *deve* ser desmontado, pois pessoas más serão levadas a usar seu poder para seus próprios fins – e, ao contrário de bandidos privados, pessoas más no governo tem a polícia e os militares para infligir aos seus caprichos uma indefesa (e relativamente desarmada) população. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
+O primeiro e mais óbvio problema com esta posição é que se existem pessoas más na sociedade, também existem dentro do governo – sendo muito mais perigosas desse modo. Os cidadãos podem proteger-se contra os indivíduos maus, mas não tem nenhuma chance contra um governo agressivo, armado até aos dentes e com policiais e militares. Assim, o argumento de que precisamos do governo, porque existem pessoas más é falso. Se existem pessoas más, o governo *deve* ser desmontado, pois pessoas más serão levadas a usar seu poder para seus próprios fins – e, ao contrário de bandidos privados, pessoas más no governo tem a polícia e os militares para infligir aos seus caprichos uma indefesa (e relativamente desarmada) população. Assim, o argumento é parecido com a ideia de que "os falsificadores são muito perigosos, portanto nós devemos fornecer um monopólio exclusivo sobre falsificação a um pequeno grupo de indivíduos." Onde na terra as pessoas acham que os falsificadores vão primeiro? [^5]
 
-Logically, there are four possibilities as to the mixture of good and evil people in the world:
+Logicamente, existem quatro possibilidades quanto a mistura de pessoas boas e más no mundo:
 
-1. All men are moral.
-2. All men are immoral.
-3. The majority of men are immoral, and a minority moral.
-4. The majority of men are moral, and a minority immoral.[^6]
+1. Todos os homens são morais.
+2. Todos os homens são imorais.
+3. A maioria dos homens é imorais e uma minoria é moral.
+4. A maioria dos homens são morais e uma minoria imoral. [^6]
 
-In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
+No primeiro caso (de *todos os homens são morais*), o governo obviamente não é necessário, já que o mal não existe.
 
-In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+No segundo caso (*todos os homens são imorais*), o governo não pode ser autorizado a existir por uma razão simples. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
 
 However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
 
