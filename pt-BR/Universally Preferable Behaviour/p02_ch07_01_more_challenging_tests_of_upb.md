@@ -26,19 +26,19 @@ Legítima defesa não pode ser "má," já que mau por definição pode ser preve
 
 Legítima defesa também não pode ser um comportamento *exigido*, uma vez que comportamentos exigidos ("não estuprar") podem ser aplicados através de violência, o que significaria que qualquer um falhando em violentamente se defender poderia ser legitimamente agredido de volta. No entanto, alguém falhando em se defender *já* está sendo agredido, e então nós terminamos em uma situação circular onde todos mundo pode legitimamente agir violentamente contra uma pessoa que não está se defendendo, o que não é só ilógico, mas moralmente horrendo.
 
-If Bob attacks Doug, but it is completely wrong for Doug to use violence to defend himself, then violence ends up being placed into two moral categories – the initiation of force is morally good, but self-defence is morally evil, which cannot stand according to UPB.
+Se Bob atacar Doug, mas é completamente errado para Doug usar violência para se defender, então violência termina sendo colocada em duas categorias morais diferentes - a iniciação da força é moralmente boa, mas legítima defesa é moralmente má, o que não pode prosseguir de acordo com o UPB.
 
-However, you might argue, does not the proposition that self-defence is good also make violence both good and bad at the same time – the violence that is used to attack is bad, but the violence that is used for self-defence is good?
+No entanto, você poderia argumentar, a proposição de que legitima defesa é boa também não faz violência ambos bom é mau ao mesmo tempo - a violência que é usada para atacar é má, mas a violência usada para legítima defesa é boa?
 
-This is an interesting objection – however, if the initiation of force is evil, then it can be prohibited by using force, since that is one of the very definitions of evil that we worked out above.
+Isso é uma objeção interessante - no entanto, se a iniciação da força é má, então ela pode ser proibida usando a força, já que é uma das definições de mau que nós trabalhamos acima.
 
-Thus it is impossible for any logical moral theory to reject the moral validity of self-defence.
+Assim é impossível para qualquer teoria moral lógica rejeitar a validade moral de legítima defesa.
 
-### Child Raising
+### Educar Crianças
 
-Instinctively, we generally understand that there is something quite wrong with parents who do not feed their babies. To conceive a child, carry a child to term, give birth to the child, and then leave it lying in its crib to starve to death, severely offends our sensibilities.
+Instintivamente nós geralmente entendemos que existe algo errado com pais que não alimentam suas crianças. Para conceber uma criança, carregar a criança para o parto, dar à luz o filho, e então deixar ele deitado em seu berço para ele morrer de fome, severamente ofende nossa sensibilidade.
 
-Of course, our offence is in no way a moral argument, but it is an excellent starting place to test a moral theory.
+É claro, nossa ofensa não é um argumento moral, mas é um excelente ponto de partida para começar uma teoria moral.
 
 Before, when we were talking about UPB, we noted that, where there are exceptions in UPB, there must be objective differences in biology. Or, to put it more accurately, where there are objective differences in biology, there may be rational exceptions or differences in UPB. A child of five has a biologically immature brain and nervous system, and thus cannot rationally process the long-term consequences of his actions. It is the immature brain that is the key here, insofar as if an adult male is retarded to the point where his brain is the equivalent to that of a five year old, he would also have a reduced responsibility for his actions.
 
