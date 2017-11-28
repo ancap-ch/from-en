@@ -24,17 +24,17 @@ Se eu não acho que sou competente para tomar minhas próprias decisões, então
 
 Ou sou capaz de tomar decisões competentes, ou não sou. Se eu *sou* capaz de tomar decisões competentes, então submeter-me a força para o resto da minha vida é inválido. Se eu *não* sou capaz de tomar decisões competentes, então minha decisão de submeter-me a força para o resto da minha vida também é inválida.
 
-Mesmo se as considerações acima forem de alguma forma ignoradas, no entanto, ainda é impossível justamente fazer cumprir um contrato social através de um governo. Claramente, eu não posso assinar um contrato em *seu* nome ou em nome dos meus filhos, que será vinculativo sobre você ou eles para todo o sempre. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+Mesmo se as considerações acima forem de alguma forma ignoradas, no entanto, ainda é impossível justamente fazer cumprir um contrato social através de um governo. Claramente, eu não posso assinar um contrato em *seu* nome ou em nome dos meus filhos, que será vinculativo sobre você ou eles para todo o sempre. Não posso comprar um carro, mandar a conta e justamente exigir que você pague-o. Se eu reivindico o poder de impor contratos unilaterais, UPB também concede-*lhe* o seu poder, e assim você só irá voltar atrás com o contrato em meu nome.
 
-In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
+Da mesma forma, mesmo se eu optar por pagar meus impostos voluntariamente, eu justamente não posso impor essa escolha em você, uma vez que um contrato voluntário é uma preferência pessoal apenas e assim não pode ser aplicada universalmente através da violência.
 
-### The Necessity Of The State?
+### O Estado é necessário?
 
-This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
+Toda esta questão se torna ainda mais ridícula quando olhamos para a "justificação" moral mais comum para o poder de governos democráticos, que baseiam-se na "vontade da maioria"
 
-First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
+Em primeiro lugar, a "vontade" é um aspecto do indivíduo, enquanto a "maioria" é uma marca conceitual para um grupo. A "maioria" não pode ter "vontade" assim como um "chorus line" pode "dar à luz." Se você duvida disso, tente construir uma casa na árvore com o conceito de "floresta", e não com quaisquer partes individuais de madeira.
 
-Two additional objections constantly recur whenever the question of the necessity of a government arises. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
+Duas objeções adicionais a serem constantemente repetidas sempre que surge a questão da necessidade de um governo. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
 
 The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Citizens can protect themselves against evil individuals, but stand no chance against an aggressive government armed to the teeth with police and military might. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
 
