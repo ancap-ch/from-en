@@ -1,4 +1,4 @@
-## Preferences
+## Preferências
 
 Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
 
