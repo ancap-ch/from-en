@@ -58,7 +58,7 @@ Assim, presume-se que os pais irão alimentar e cuidar de seu bebê recém-nasci
 
 Tudo isto se baseia no princípio da legítima defesa de terceiros, que é totalmente suportado pela estrutura da UPB, desde que o direito de auto-defesa é um direito universal. Se eu vejo um homem numa cadeira de rodas sendo atacado por uma mulher, eu tenho o direito de defendê-lo – e isso é ainda mais legitimo, se ele não possuir a capacidade de se defender.
 
-Since children cannot feed themselves, earn a living or live independently, they are the moral equivalent of kidnap victims, or the wife we talked about before whose husband locked her in the basement. Children also lack the capacity for effective self-defence, due to their small stature and near-complete dependence upon their parents.
+Uma vez que as crianças não podem se alimentar, ganhar a vida ou viver de forma independente, elas são o equivalente moral de vítimas de sequestro, ou da esposa que falamos antes, cujo marido a trancou no porão. Children also lack the capacity for effective self-defence, due to their small stature and near-complete dependence upon their parents.
 
 Thus since it is certainly the case that we have the right to act in self-defence for someone else – and that right becomes even stronger if that person cannot act in his own self-defence, it is perfectly valid to use force against parents who do not feed their children, just as it is perfectly valid to use force against the husband who is starving his wife to death by locking her in the basement.
 
