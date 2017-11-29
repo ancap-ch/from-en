@@ -99,13 +99,13 @@ This is an instructive lesson on why such men require disarmed and dependent pop
 
 Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
 
-[^4]: See [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
+[^4]: Ver [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
 
-[^5]: See *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
+[^5]: Ver *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
 
-[^6]: A perfect balance of good and evil is practically impossible.
+[^6]: Um equilíbrio perfeito entre o bem e o mal é praticamente impossível.
 
-[^7]: This is the current situation in democracies, of course.
+[^7]: Esta é a situação atual em democracias, com certeza...
 
 [^8]: See Plato’s *Republic*.
 
