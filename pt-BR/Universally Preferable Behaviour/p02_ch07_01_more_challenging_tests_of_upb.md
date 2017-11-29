@@ -60,7 +60,7 @@ Tudo isto se baseia no princípio da legítima defesa de terceiros, que é total
 
 Uma vez que as crianças não podem se alimentar, ganhar a vida ou viver de forma independente, elas são o equivalente moral de vítimas de sequestro, ou da esposa que falamos antes, cujo marido a trancou no porão. As crianças também carecem da capacidade de autodefesa eficaz, devido à sua pequena estatura e quase completa dependência dos pais.
 
-Thus since it is certainly the case that we have the right to act in self-defence for someone else – and that right becomes even stronger if that person cannot act in his own self-defence, it is perfectly valid to use force against parents who do not feed their children, just as it is perfectly valid to use force against the husband who is starving his wife to death by locking her in the basement.
+Assim, uma vez que é certamente o caso de que temos o direito de agir sobre legítima defesa para alguém - e esse direito se torna mais forte se essa pessoa não pode agir para sua própria legítima defesa, é perfeitamente valido usar a força contra pais que não alimentam suas crianças, do mesmo jeito que é perfeitamente valido usar a força contra o marido que está matando de fome sua mulher prendendo ela no porão.
 
 Como também mencionado acima, o menos capaz que a vítima for de evitar a situação, pior é o crime. Até mesmo a esposa que acaba trancada no porão tem pelo menos *alguma* propriedade no assunto, porque ela escolheu se casar com este maldoso lunático para começo de conversa. Uma vez que ela está trancada no porão, a situação é inevitável, mas sem dúvida houve muitas pistas, insinuando a natureza abusiva do marido, a partir do primeiro dia que ela o conheceu.
 
