@@ -14,11 +14,11 @@ Assim, na ética, assim como na ciência, matemática, engenharia e todas as out
 
 Se eu digo "Eu gosto de sorvete", apenas uma palavra é ambígua nessa frase. Claramente "Eu" existe, já que estou expressando uma preferência pessoal. Igualmente, "de sorvete" também existe na realidade. No entanto, a palavra "gosto" é mais problemática.
 
-Preferências não existem objetivamente na realidade. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Preferências não existem objetivamente na realidade. Se você estivesse realmente muito curioso, você poderia me seguir e anotar todas as vezes que eu tomasse sorvete, isso provavelmente forneceria uma boa base empírica para estabelecer minha preferencia por sorvete. Porém pode existir a possibilidade de que, na verdade, eu sou masoquista e odeio sorvete, e prefiro me torturar com seu sabor desagradável - e então confundi-lo, afirmando ter gostado.
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+Nós podemos encontrar *provas* para preferências; Não podemos encontrar preferência *em si* na realidade. Preferência existe como uma *relação* entre consciência e matéria, tal como a gravidade existe como uma relação entre corpos de massa.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Pondo de lado as questões desafiadoras do livre-arbítrio versus determinismo, há razões para supor que tudo o que uma pessoa está fazendo no presente é o que ele ou ela "prefere" fazer. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
 
 Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
 
