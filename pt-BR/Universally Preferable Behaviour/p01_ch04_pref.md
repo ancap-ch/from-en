@@ -2,7 +2,7 @@
 
 Agora que entendemos a natureza dos argumentos auto-destrutivos, nós podemos voltar as questões de preferencia.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Preferências são fundamentais para qualquer metodologia que querem definir o valor da verdade de proposições. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
 
 In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
 
