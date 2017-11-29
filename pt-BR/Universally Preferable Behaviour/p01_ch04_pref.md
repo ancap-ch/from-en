@@ -8,11 +8,11 @@ Neste sentido, "preferível" não significa "melhor", mas sim "necessário". *Se
 
 Da mesma forma, se teorias éticas podem ser válidas em absoluto, então elas devem *pelo menos* ser ambas consistentes internamente e externamente. Em outras palavras, uma teoria ética que se contradiz, não pode ser válida – e também uma teoria ética que contradiz a evidência empírica e preferências quase universais não pode ser válida.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Assim, na ética, assim como na ciência, matemática, engenharia e todas as outras disciplinas que comparar teorias à realidade, *teorias válidas devem ser logicamente consistente e empiricamente verificável*.
 
-### Preferences And Existence
+### Preferências e existência
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+Se eu digo "Eu gosto de sorvete", apenas uma palavra permanece ambígua nessa frase. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
 
 Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
 
