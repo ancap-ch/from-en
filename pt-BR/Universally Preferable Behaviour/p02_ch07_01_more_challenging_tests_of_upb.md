@@ -44,9 +44,9 @@ Antes, quando nós estávamos falando sobre UPB, nós notamos que, onde existiss
 
 Assim, quando nós apontamos situações de responsabilidade reduzida, nós não estamos *jogando fora* responsabilidades que existem, mas reconhecendo a situação onde a responsabilidade não existe, pelo menos em algum degrau. Se eu digo que um homem em uma cadeira de rodas não pode usar a escada rolante, eu não estou tirando seus direitos de usar a escada rolante, nas meramente apontando que ele não pode, de fato, usá-la. Quando eu digo que o UPB na se aplica às ações de uma criança de cinco anos, eu não estou dizendo que o UPB é subjetivo, ainda mais de que o requisito de altura de uma montanha russa de algum jeito faz o conceito de "alto" subjetiva.
 
-If I voluntarily enter into a contract with you wherein I promise to pay your bills for a year, I have not signed myself into slavery, but I certainly have taken on a positive obligation that I am now responsible for.
+Se eu voluntariamente entrar em um contrato com você no qual eu prometo pagar suas contas por um ano, eu não assinei minha escravidão, mas eu certamente assumi uma obrigação positiva que agora eu sou responsável por.
 
-If I run a nursing home, and I take in patients who are unable to feed themselves, then if I do not feed those patients, I am responsible for their resulting deaths. No one is *forcing* me to take in these patients, but once I have expressed a desire and a willingness to take care of them, then I am responsible for their continued well-being.
+Se eu tenho uma casa de repouso, e recebo pacientes que são incapazes de se alimentar, então se eu não alimentar esses pacientes eu serei responsável pelas suas mortes. Ninguém está me *forçando* à cuidar desses pacientes, mas uma vez que eu expressei um desejo é uma vontade de cuidar deles, então eu tenho a responsabilidade por seu bem-estar continuo.
 
 In the same way, if I borrow your lawnmower, I am obligated to bring it back in more or less the same state that it was when I borrowed it. Similarly, if I go to a pet store and buy a dog, I have taken on a voluntary obligation to take care of that dog. This does not mean that I am now the dog’s slave until the day it dies, but it does mean that as long as the dog is in my possession, I have a responsibility to try to keep it healthy.
 
