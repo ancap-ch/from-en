@@ -14,9 +14,9 @@ Parece bobo argumentar que eu poderia - mas porque?
 
 Existem alguns limites objetivos para a universalidade desta doutrina. Por exemplo, algumas pessoas poderiam não ter acesso à peixe - eles podem viver em um deserto, dizendo - enquanto outros moram em um lago repleto de peixes, e achar difícil ou impossível sobreviver sem comer eles. No entanto, isto não pode ser suficiente, uma vez que nós já aceitamos o fato de que a incapacidade de um eunuco de estuprar não invalida a proposição "estuprar é mau."
 
-No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
+Não, o engano na proposição moral "é mau comer peixe" é a palavra "*peixe*."
 
-A scientist cannot validly say that his theory of gravity only applies to pink rocks. Since his theory involves gravity, it must apply to *all* entities that have mass.
+Um cientista não pode validamente dizer que sua teoria da gravidade só se aplica a pedras rosas. Já que sua teoria envolve gravidade, ela deve se aplicar para *todas* as entidades que tem massa.
 
 Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
 
