@@ -1,8 +1,8 @@
-### "Don't Eat Fish"
+### "Não Coma Peixe"
 
-What would be the status of the moral proposition: “It is evil to eat fish”?
+Qual seria o status da proposição moral: "é mau comer peixe"?
 
-Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
+Claramente, essa proposição parece satisfazer pelo menos alguns dos requisitos do UPB - aparenta ser universal, independente de tempo e lugar, e relativamente objetiva.
 
 Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
 
