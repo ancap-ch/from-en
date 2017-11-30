@@ -4,15 +4,15 @@ Qual seria o status da proposição moral: "é mau comer peixe"?
 
 Claramente, essa proposição parece satisfazer pelo menos alguns dos requisitos do UPB - aparenta ser universal, independente de tempo e lugar, e relativamente objetiva.
 
-Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
+No entanto, parece difícil para nós razoavelmente chamar isso de uma verdadeira teoria *moral* - porque?
 
-First of all, “evil” encompasses actions that can be prevented through the use of force. Rape is “evil,” and so I can use force to defend myself against someone attempting to rape me.
+Primeiramente, o "mau" engloba ações que podem ser prevenidas através do uso da força. Estupro é "mau," e então eu posso usar força para me defender de alguém tentando me estuprar.
 
-Can I justly shoot someone who eats a piece of fish?
+Poderia eu justamente atirar em alguém que comesse um pedaço de peixe?
 
-It would seem silly to argue that I can – but why?
+Parece bobo argumentar que eu poderia - mas porque?
 
-There are some objective limits to the universality of this doctrine. For instance, some people may have no access to fish – they may live in a desert, say – while others live by a lake teeming with fish, and find it hard or impossible to survive without eating them. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
+Existem alguns limites objetivos para a universalidade desta doutrina. Por exemplo, algumas pessoas poderiam não ter acesso à peixe - eles podem viver em um deserto, dizendo - enquanto outros moram em um lago repleto de peixes, e achar difícil ou impossível sobreviver sem comer eles. No entanto, isto não pode ser suficiente, uma vez que nós já aceitamos o fato de que a incapacidade de um eunuco de estuprar não invalida a proposição "estuprar é mau."
 
 No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
 
