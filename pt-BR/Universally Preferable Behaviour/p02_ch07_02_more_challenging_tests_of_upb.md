@@ -18,9 +18,9 @@ Não, o engano na proposição moral "é mau comer peixe" é a palavra "*peixe*.
 
 Um cientista não pode validamente dizer que sua teoria da gravidade só se aplica a pedras rosas. Já que sua teoria envolve gravidade, ela deve se aplicar para *todas* as entidades que tem massa.
 
-Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
+Da mesma forma, no exemplo acima, o UPB só aceita o *ato* de comer, e rejeita *o que* está sendo comido, uma vez que o que está sendo comido não é uma *ação*, mas o que está sendo posto em prática.
 
-In the same way, an ethicist cannot validly put forward the moral proposition: “It is evil to rape the *elderly*.” “Rape” is the behaviour; whether the victim is elderly or not is irrelevant to the moral proposition, since as long as the victim is human, the requirement for universality remains constant. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
+Da mesma forma, um esteticista não pode validamente apresentar a proposição moral: "é mau estuprar *velhos*." "Estupro" é o comportamento; se a vitima é idosa ou não é irrelevante para a proposição moral, desde que a vítima seja humana, a exigência para a universalidade continua constante. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
 
 The moral proposition “eating fish is evil” thus fails the test of universality because it is too specific to be generalised – it is like saying “my theory of gravity applies only to pink rocks.” If it is a theory of gravity, then it must apply to everything; if it only applies to pink rocks, then it is not a theory of gravity.
 
