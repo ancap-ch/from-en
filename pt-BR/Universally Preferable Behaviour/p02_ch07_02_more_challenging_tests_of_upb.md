@@ -28,9 +28,9 @@ O UPB também rejeita como invalida qualquer teoria que resulte em julgamentos m
 
 Ou "comer" é moral, imoral, ou moralmente neutro. Se comer é imoral, em seguida surgem uma série de problemas lógicos, que eu tenho certeza que estamos um tanto familiares agora.
 
-If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
+Se, por outro lado, comer é *moral*, entoa não pode ser moral comer um repolho, e imoral comer um peixe, já que é uma violação da universalidade, na medida em que a mesma ação - comer - é julgado tanto bom quanto mal.
 
-It is in this way that we understand that the proposition “eating *fish* is evil” fails the test of UPB, and is not valid as a moral theory.
+Desta forma nós entendemos que a proposição "comer *peixe* é mau" falha no teste do UPB, e não é válido como uma teoria moral.
 
 ### Animal Rights
 
