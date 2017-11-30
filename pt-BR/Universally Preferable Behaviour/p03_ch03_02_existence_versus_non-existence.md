@@ -47,9 +47,9 @@ Logicamente, existem quatro possibilidades quanto a mistura de pessoas boas e m�
 
 No primeiro caso (de *todos os homens são morais*), o governo obviamente não é necessário, já que o mal não existe.
 
-No segundo caso (*todos os homens são imorais*), o governo não pode ser autorizado a existir por uma razão simples. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+No segundo caso (*todos os homens são imorais*), o governo não pode ser autorizado a existir por uma razão simples. O governo, geralmente é argumentado, deve existir porque há gente má no mundo que deseja infligir danos, e que só pode ser contida pelo medo de retaliação do governo (polícia, prisões, *et al*). Um corolário desse argumento é que quanto menor a retribuição essas pessoas receiam que vão receber, mais mal elas vão fazer.
 
-However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
+No entanto, o governo *em si* não está sujeito a qualquer força ou retribuição, mas é uma lei em si. Mesmo em democracias ocidentais, quantos policiais e políticos vão para a cadeia?
 
 Thus if evil people wish to do harm, but are only restrained by force, then society can *never* permit a government to exist, because evil people will work feverishly to grab control of that government, in order to do evil and avoid retribution. In a society of pure evil, then, the only hope for stability would be a state of nature, where a general arming and fear of retribution would blunt the evil intents of disparate groups. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
 
