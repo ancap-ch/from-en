@@ -20,13 +20,13 @@ Um cientista não pode validamente dizer que sua teoria da gravidade só se apli
 
 Da mesma forma, no exemplo acima, o UPB só aceita o *ato* de comer, e rejeita *o que* está sendo comido, uma vez que o que está sendo comido não é uma *ação*, mas o que está sendo posto em prática.
 
-Da mesma forma, um esteticista não pode validamente apresentar a proposição moral: "é mau estuprar *velhos*." "Estupro" é o comportamento; se a vitima é idosa ou não é irrelevante para a proposição moral, desde que a vítima seja humana, a exigência para a universalidade continua constante. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
+Da mesma forma, um esteticista não pode validamente apresentar a proposição moral: "é mau estuprar *velhos*." "Estupro" é o comportamento; se a vitima é idosa ou não é irrelevante para a proposição moral, desde que a vítima seja humana, a exigência para a universalidade continua constante. "Não roubarás" é uma proposição moral valida de acordo com o UPB - "não roubarás *nabos*" não o é, pela simples razão de que roubo está relacionado com o direito de propriedade - e nabos, como um subconjunto de propriedade, não pode ser racionalmente delineado de todas as outras formas de propriedade e atribuído a sua própria regra moral.
 
-The moral proposition “eating fish is evil” thus fails the test of universality because it is too specific to be generalised – it is like saying “my theory of gravity applies only to pink rocks.” If it is a theory of gravity, then it must apply to everything; if it only applies to pink rocks, then it is not a theory of gravity.
+Assim, a proposição moral "comer peixe é mau" falha no teste de universalidade porque é muito específico para ser generalizado - é como dizer "a minha teoria da gravidade só se aplica à pedras rosas." Se é uma teoria a gravidade, então te que se aplicar à tudo; se só se aplica à pedras rosas, então não é uma teoria da gravidade.
 
-UPB also rejects as invalid any theory that results in opposing moral judgements for identical actions. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
+O UPB também rejeita como invalida qualquer teoria que resulte em julgamentos morais opostos para ações idênticas. "Assalto" não pode ser moral um dia, e imoral no outro. Assim nós sabemos que "comer" não pode ser moral um dia, e imoral no outro.
 
-Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
+Ou "comer" é moral, imoral, ou moralmente neutro. Se comer é imoral, em seguida surgem uma série de problemas lógicos, que eu tenho certeza que estamos um tanto familiares agora.
 
 If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
 
