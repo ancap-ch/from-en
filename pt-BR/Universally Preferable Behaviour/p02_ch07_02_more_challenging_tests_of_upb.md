@@ -38,13 +38,13 @@ Nós não temos o tempo aqui para entrar em uma discussão completa sobre os dir
 
 Se é mau matar um peixe, então o UPB diz que qualquer um ou qualquer coisa que mate um animal é má. Isso iria incluir não só os pescadores, mas também os tubarões - uma vez que matar um peixe é mau, nós temos que expandir nossa definição de "atores" éticos para incluir vida não-humana.
 
-It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
+É claro que tubarões não tem a capacidade de abster-se de matar peixes, uma vez que eles são basicamente máquinas de comer com barbatanas.
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
+Assim nós terminamos com o problema lógico de "mau inevitável." Se é mau matar peixes, mas tubarões não podem evitar de comer peixes, então tubarões são um "mau inevitável." No entanto, como discutimos acima, onde não existe escolha - onde *evitabilidade* é impossível - não pode existir moralidade. Assim a proposição "é mau matar um peixe" tenta definir uma moralidade universal que inclui situações não-morais, que não podem se suportar logicamente.
 
-Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
+Também, a palavra "peixe" continua a ser problemática na formulação, já que é muito específica para ser universal. A reformulação apropriada do UPB é: "é mau para pessoas matarem outros organismos viventes."
 
-If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+Se, no entanto, é mau matar, nós novamente aprontamos o problema de "mau inevitável." Nenhum ser humano pode existir sem matar outros organismos como vírus, plantas ou talvez animais. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
 
 What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
 
