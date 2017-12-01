@@ -34,9 +34,9 @@ Desta forma nós entendemos que a proposição "comer *peixe* é mau" falha no t
 
 ### Direitos Dos Animais
 
-We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
+Nós não temos o tempo aqui para entrar em uma discussão completa sobre os direitos dos animais, mas nós podemos ao menos lidar com a proposição moral: "é mau matar um peixe."
 
-If it is evil to kill fish, then UPB says that anyone or anything that kills the fish is evil. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
+Se é mau matar um peixe, então o UPB diz que qualquer um ou qualquer coisa que mate um animal é má. Isso iria incluir não só os pescadores, mas também os tubarões - uma vez que matar um peixe é mau, nós temos que expandir nossa definição de "atores" éticos para incluir vida não-humana.
 
 It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
 
