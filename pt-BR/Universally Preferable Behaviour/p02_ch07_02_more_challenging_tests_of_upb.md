@@ -52,8 +52,8 @@ Não - novamente, uma vez que tubarões não tem capacidade de evitar matar pess
 
 O UPB permite exceções baseadas em diferenças objetivas e universais, matérias ou biológicas, assim como outras ciências fazem. A teoria científica de que gases expandem quando aquecidos se aplica, é claro, só para gases. Eu não posso invalidar a teoria provando que ela não se aplica para, por exemplo, plástico.
 
-Da mesma forma, moralidade só se aplica para consciências racionais, devido à exigência de evitabilidade. Se eu tentar aplicar uma teoria moral para um caracol, uma árvore, uma pedra, ou o conceito de "números," eu estou tentando igualar a consciência racional com entidade que não podem ser nem racionais, nem conscientes, o que é uma contradição lógica. Tambem posso dizer que o teorema dos ângulos opostos na geometria é inválido porque não se aplica à círculos, ou à uma nuvem. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+Da mesma forma, moralidade só se aplica para consciências racionais, devido à exigência de evitabilidade. Se eu tentar aplicar uma teoria moral para um caracol, uma árvore, uma pedra, ou o conceito de "números," eu estou tentando igualar a consciência racional com entidade que não podem ser nem racionais, nem conscientes, o que é uma contradição lógica. Tambem posso dizer que o teorema dos ângulos opostos na geometria é inválido porque não se aplica à círculos, ou à uma nuvem. OAT só se aplica para linhas que se intersectam - tentar aplica-lo para outras situações é conceitualmente equivalente a tentar pintar o ar.
 
-In other words, misapplication is not disproof.
+Em outras palavras, aplicação errada não é refutação.
 
-There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
+Existem várias outras "áreas cinzas" as quais nós podemos trabalhar, de aborto para direito de propriedade intelectual para restituição e assim por diante, mas eu acho que é muito mais importante levar o UPB para fora do domínio da abstração, e começar a aplica-lo nos problemas do mundo real que enfrentamos hoje em dia.
