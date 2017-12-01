@@ -44,15 +44,15 @@ Assim nós terminamos com o problema lógico de "mau inevitável." Se é mau mat
 
 Também, a palavra "peixe" continua a ser problemática na formulação, já que é muito específica para ser universal. A reformulação apropriada do UPB é: "é mau para pessoas matarem outros organismos viventes."
 
-Se, no entanto, é mau matar, nós novamente aprontamos o problema de "mau inevitável." Nenhum ser humano pode existir sem matar outros organismos como vírus, plantas ou talvez animais. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+Se, no entanto, é mau matar, nós novamente aprontamos o problema de "mau inevitável." Nenhum ser humano pode existir sem matar outros organismos como vírus, plantas ou talvez animais. Assim, "vida humana" é definida como "mau." Mas se vida humana é definida como mau, então ela na pode *ser* má, já que evitabilidade se torna impossível.
 
-What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
+E se nós dissermos: "é mau matar pessoas" - isso faria um tubarão comedor de pessoas mau?
 
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
+Não - novamente, uma vez que tubarões não tem capacidade de evitar matar pessoas, eles não podem ser responsabilizados pelas suas ações, nada mais do que um deslizamento de terra poderia ser levado ao tribunal por matar alguém.
 
-UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
+O UPB permite exceções baseadas em diferenças objetivas e universais, matérias ou biológicas, assim como outras ciências fazem. A teoria científica de que gases expandem quando aquecidos se aplica, é claro, só para gases. Eu não posso invalidar a teoria provando que ela não se aplica para, por exemplo, plástico.
 
-In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+Da mesma forma, moralidade só se aplica para consciências racionais, devido à exigência de evitabilidade. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
 
 In other words, misapplication is not disproof.
 
