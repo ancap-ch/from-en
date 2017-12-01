@@ -52,7 +52,7 @@ Não - novamente, uma vez que tubarões não tem capacidade de evitar matar pess
 
 O UPB permite exceções baseadas em diferenças objetivas e universais, matérias ou biológicas, assim como outras ciências fazem. A teoria científica de que gases expandem quando aquecidos se aplica, é claro, só para gases. Eu não posso invalidar a teoria provando que ela não se aplica para, por exemplo, plástico.
 
-Da mesma forma, moralidade só se aplica para consciências racionais, devido à exigência de evitabilidade. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+Da mesma forma, moralidade só se aplica para consciências racionais, devido à exigência de evitabilidade. Se eu tentar aplicar uma teoria moral para um caracol, uma árvore, uma pedra, ou o conceito de "números," eu estou tentando igualar a consciência racional com entidade que não podem ser nem racionais, nem conscientes, o que é uma contradição lógica. Tambem posso dizer que o teorema dos ângulos opostos na geometria é inválido porque não se aplica à círculos, ou à uma nuvem. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
 
 In other words, misapplication is not disproof.
 
