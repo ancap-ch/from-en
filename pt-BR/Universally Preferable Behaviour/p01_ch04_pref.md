@@ -32,13 +32,13 @@ Uma vez que é impossível fazer qualquer ação sem expressar uma preferência 
 
 ### Preferências e universalidade
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+A próxima pergunta portanto vira: as preferências são totalmente subjetivas ou elas podem ser universais?
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+Claramente, algumas preferências são subjetivas. Gostos musicais, hobbies pessoais, literatura favorita e assim por diante são todas as preferências pessoais e subjetivas.
 
-The challenge arises when we try to define some preferences as *objective*.
+O desafio surge quando tentamos definir algumas preferências como *objectivas*.
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+A proposta ante a nós é portanto: *podem algumas preferências ser objetivas, ou seja, universais?*
 
 When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
 
