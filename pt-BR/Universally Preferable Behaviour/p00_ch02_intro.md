@@ -54,7 +54,7 @@ A simples verdade é que "sacerdotes" e "cavaleiros" foram - e são - meramente 
 
 Fizemos grandes avanços na compreensão da natureza e realidade da simples igualdade humana, mas o triste fato deste assunto é que o domínio da "moralidade" continua perdido na "zona nula" - nas ilusões destrutivas das "verdades do meio".
 
-### "Middle Truths"
+### "Meias verdades"
 
 Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
 
