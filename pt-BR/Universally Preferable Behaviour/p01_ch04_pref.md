@@ -26,11 +26,11 @@ Quando aplicamos este simples fato a argumentos éticos, chegamos a alguns resul
 
 ### Preferências e argumentos
 
-Lembrando nossa análise anterior sobre os argumentos auto-destrutivos, nós podemos com facilidade entender a natureza contraditória da afirmação "preferências não existem". Dado que toda ação humana - incluindo fazer afirmações filosóficas - é escolhida em preferencia por qualquer outra ação, argumentar que preferencias não existem requer uma *preferência* por argumentar que preferências não existem, que é uma afirmação auto-contraditória. Argumentar que não existem preferências é exatamente o mesmo que argumentar que a linguagem não existe. It is an utterly self-defeating argument.
+Lembrando nossa análise anterior sobre os argumentos auto-destrutivos, nós podemos com facilidade entender a natureza contraditória da afirmação "preferências não existem". Dado que toda ação humana - incluindo fazer afirmações filosóficas - é escolhida em preferencia por qualquer outra ação, argumentar que preferencias não existem requer uma *preferência* por argumentar que preferências não existem, que é uma afirmação auto-contraditória. Argumentar que não existem preferências é exatamente o mesmo que argumentar que a linguagem não existe. É um argumento completamente auto-destrutivo.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+Uma vez que é impossível fazer qualquer ação sem expressar uma preferência — implicitamente ou explicitamente – qualquer pessoa que aja aceita a premissa de que as preferências existem. Portanto, é impossível debater a existência de preferências sem aceitar a existência de preferências.
 
-### Preferences And Universality
+### Preferências e universalidade
 
 The next question thus becomes: are preferences purely subjective, or can they be universal?
 
