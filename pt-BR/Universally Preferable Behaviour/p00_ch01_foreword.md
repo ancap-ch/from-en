@@ -76,9 +76,9 @@ Se o raciocínio se sustenta, a fera maior foi derrotada.
 
 ### Uma Sugestão Modesta
 
-It is the height of audacity to suggest to readers how to read a book, but given the challenges of the task before us, I would like to make one small suggestion before we embark.
+É da mais alta audácia sugerir aos leitores ler um livro, mas dado os desafios da tarefa diante de nós, eu gostaria de fazer uma pequena sugestão antes de embarcamos.
 
-If we lived in the fifteenth century, and I were trying to convince you that the world were round, I would put forward reams of mathematical and physical proofs. If you held a contrary opinion, you would naturally react with scepticism, and be inclined to quibble with every line of proof. However, if you and I could in fact sail around the world, and arrive back where we started without retracing our steps, you would be far more willing to accept the conceptual proofs for what you had already *experienced* to be true. You might find fault with a particular logical step or metaphor, but you would already agree with the conclusion, and thus would be more prone to help correct the details rather than reject the theory as a whole.
+Se vivêssemos no século XV, e eu estivesse tentando convence-los de que o mundo é redondo, eu teria apresentando resmas de provas matemáticas e físicas. Se você levantasse uma opinião contrária, você naturalmente reagiria com ceticismo, e estaria inclinado a questionar cada linha da prova. However, if you and I could in fact sail around the world, and arrive back where we started without retracing our steps, you would be far more willing to accept the conceptual proofs for what you had already *experienced* to be true. You might find fault with a particular logical step or metaphor, but you would already agree with the conclusion, and thus would be more prone to help correct the details rather than reject the theory as a whole.
 
 If my task were to respond to every possible objection to every linguistic, logical and empirical step, this book would remain forever unfinished – and unread. Perfectionism is, in essence, procrastination, and I consider the task of this book to be too important – and the dangers of false morality too grave and imminent – to spend so long trying to achieve heaven that we all end up in hell.
 
