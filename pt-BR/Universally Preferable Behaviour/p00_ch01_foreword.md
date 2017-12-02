@@ -80,11 +80,11 @@ Se o raciocínio se sustenta, a fera maior foi derrotada.
 
 Se vivêssemos no século XV, e eu estivesse tentando convence-los de que o mundo é redondo, eu teria apresentando resmas de provas matemáticas e físicas. Se você levantasse uma opinião contrária, você naturalmente reagiria com ceticismo, e estaria inclinado a questionar cada linha da prova. No entanto, se você e eu pudéssemos, de fato, velejar ao redor do mundo, e voltar aonde começamos sem retroceder os passos, você estaria muito mais disposto a aceitar provas conceituais para o que já tinha *experimentado* ser verdadeiro. Você pode achar uma falta com um salto lógico particular ou metáfora, mas você já estaria de acordo com a conclusão, e então estaria mais propenso a ajudar a corrigir os detalhes ao invés de rejeitar a teoria como um todo.
 
-If my task were to respond to every possible objection to every linguistic, logical and empirical step, this book would remain forever unfinished – and unread. Perfectionism is, in essence, procrastination, and I consider the task of this book to be too important – and the dangers of false morality too grave and imminent – to spend so long trying to achieve heaven that we all end up in hell.
+Se minha tarefa fosse responder a cada objeção linguística, lógica e empírica possível, esse livro permaneceria pra sempre inacabado - e não lido. Perfeccionismo é, em essência, procrastinação, e considero a tarefa deste livro como muito importante - e os perigos da falsa moralidade graves e iminentes demais - de passar tanto tempo tentando atingir os céus, e acabar no inferno.
 
-Thus I humbly suggest that you wait to see how effective the ethical framework I propose is at proving the most commonly accepted moral maxims of mankind before passing final judgement on the theory.
+Assim, eu humildemente sugiro que você espere para ver o quão efetivo é a estrutura ética que proponho em provar as mais comumente aceitas máximas morais da humanidade antes de passar seu julgamento final na teoria.
 
-I truly believe that the definition of a rational ethical framework is the most essential task that faces mankind. I truly appreciate your interest in this crucial matter – and would like as always to thank the wonderfully kind donators who have made this work possible.
+Eu acredito piamente que a definição de uma estrutura ética racional é a tarefa mais essencial pela humanidade enfrentada. I truly appreciate your interest in this crucial matter – and would like as always to thank the wonderfully kind donators who have made this work possible.
 
 I ride into battle well armed by others.
 
