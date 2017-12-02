@@ -74,7 +74,7 @@ Estudei a história da filosofia na faculdade e tenho um mestrado, mas eu não t
 
 Se o raciocínio se sustenta, a fera maior foi derrotada.
 
-### A Modest Suggestion
+### Uma Sugestão Modesta
 
 It is the height of audacity to suggest to readers how to read a book, but given the challenges of the task before us, I would like to make one small suggestion before we embark.
 
