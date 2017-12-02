@@ -54,19 +54,19 @@ Se eu escolho debater, aceitei implicitamente uma ampla variedade de premissas c
 
 #### Premissa 1: Nós dois existimos
 
-Se eu optar por debater com você, então eu necessariamente deve aceitar que nós dois existimos. Se eu acredita que eu existo, mas acredito que você não, então não faz sentido debater e só um louco faria isso. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+Se eu optar por debater com você, então eu necessariamente deve aceitar que nós dois existimos. Se eu acredita que eu existo, mas acredito que você não, então não faz sentido debater e só um louco faria isso. Se eu começar a argumentar com meu reflexo no espelho, eu deveria ser sedado, ao invés de começar a debater.
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+#### Premissa 2: Os sentidos têm a capacidade de precisão
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Já que os seres humanos não podem se comunicar psiquicamente, todos os debates envolvem necessariamente a evidência dos sentidos. Escrita pressupõe a vista; falar requer ouvir; Braille requer tocar. Assim, qualquer proposição que depende da nulidade dos sentidos automaticamente auto-destroi-se.
 
-#### Premise 3: Language Has The Capacity For Meaning
+#### Premissa 3: Língua tem a capacidade de significar
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+Semelhante a premissa 2, já que todos os argumentos requerem linguagem, qualquer proposição que repousa sobre a premissa de que a linguagem é sem sentido imediatamente é refutada. Usar a língua para argumentar que a língua não tem sentido é como usar um mensageiro para enviar uma mensagem, argumentando que mensageiros nunca entregam mensagens.
 
-#### Premise 4: Correction Requires Universal Preferences
+#### Premissa 4: Correção requer preferências universais
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+Se você me corrigir sobre um erro que eu cometi, você está implicitamente a aceitando o fato de que seria *melhor* para mim corrigir meu erro. Sua preferência por eu corrigir meu erro não é subjetiva, mas objetiva e universal.
 
 You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
 
