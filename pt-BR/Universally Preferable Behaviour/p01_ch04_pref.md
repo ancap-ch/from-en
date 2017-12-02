@@ -68,17 +68,17 @@ Semelhante a premissa 2, já que todos os argumentos requerem linguagem, qualque
 
 Se você me corrigir sobre um erro que eu cometi, você está implicitamente a aceitando o fato de que seria *melhor* para mim corrigir meu erro. Sua preferência por eu corrigir meu erro não é subjetiva, mas objetiva e universal.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+Você não diz para mim: "Você deveria mudar sua opinião para a minha porque eu prefiro", mas sim: "Você deveria mudar sua opinião porque ela está objetivamente errada". Meu erro não surge de meramente discordar de você, mas de um resultado do meu desvio de uma norma objetiva da realidade. Seu argumento de que eu deveria corrigir minha opinião falsa baseia-se no valor objetivo da verdade – ou seja, que a verdade é *universalmente preferível* ao erro, e essa verdade é *universalmente objetiva*.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### Premissa 5: Uma metodologia objetiva existe para separar a verdade da falsidade
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Se você discorda de mim, mas te digo que você deve concordar comigo porque eu estou sempre certo, é improvável que você fique satisfeito com a inflexibilidade do meu argumento. Se você forneceu boas razões de porque é que eu estava errado, mas eu continuei repetindo que eu estava certo, porque estou *sempre* certo, nossa interação dificilmente poderia ser categorizada como um debate.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+No momento em que eu forneço algum tipo de critério objectivo para diferenciar a verdade da falsidade, estou aceitando que a verdade é mais do que uma questão de opinião.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+Isto não significa necessariamente que meus critérios objetivos são *lógicos* – eu poderia referir um texto religioso, por exemplo. No entanto, mesmo se eu fizer isso, eu ainda estou aceitando que a verdade é algo sucedido independentemente de mera afirmação pessoal – que uma metodologia objetiva existe para separar a verdade da falsidade.
 
-#### Premise 6: Truth Is Better Than Falsehood
+#### Premissa 6: Verdade é melhor do que a falsidade
 
 If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
 
