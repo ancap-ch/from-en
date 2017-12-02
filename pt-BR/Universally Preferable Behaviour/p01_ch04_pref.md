@@ -44,17 +44,17 @@ Quando eu digo que algumas preferências podem ser objectivas, não quer dizer q
 
 Assim, quando falo sobre preferências universais, estou falando sobre o que as pessoas *deveriam* preferir, não o que eles sempre *preferem*. Usando uma analogia científica, para realmente entender o universo, as pessoas *deveriam* usar o método científico – isto não significa que sempre usam, já que claramente bilhões de pessoas consultam contos de fadas antigos ao invés da ciência moderna por "respostas". Não há nenhuma maneira de alcançar a verdade sobre o universo sem ciência, mas as pessoas são perfeitamente livres para redefinir "verdade" como "erro", e contentar-se com bobagem mística.
 
-Da mesma forma, se um homem quer curar uma infecção, ele *deveria* tomar antibióticos ao invés de fazer uma dança da chuva asteca. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+Da mesma forma, se um homem quer curar uma infecção, ele *deveria* tomar antibióticos ao invés de fazer uma dança da chuva asteca. A preferência por tomar antibióticos, em vez de fazer a dança da chuva é universal, já que dançar não cura infecções. Assim, embora ocasionalmente haja um louco que vá tentar curar-se através da dança, ainda é *universalmente preferível* que, se um homem quer se curar, ele tome antibióticos.
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+Em outras palavras, se você quiser chegar ao topo de uma montanha, apenas desejar por isso nunca funcionará. Se você quer saber as origens do universo, oração nunca dará uma resposta. As pessoas ainda desejam e rezam, mas isso não faz desejar ou rezar mais eficaz. Com isso em mente, passemos à pergunta de se preferências universais podem ser válidas ou não.
 
-### Arguments And Universality
+### Argumentos e universalidade
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+Se eu escolho debater, aceitei implicitamente uma ampla variedade de premissas compactadas que vale a pena gastar algum tempo para descompactar aqui.
 
-#### Premise 1: We Both Exist
+#### Premissa 1: Nós dois existimos
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+Se eu optar por debater com você, então eu necessariamente deve aceitar que nós dois existimos. Se eu acredita que eu existo, mas acredito que você não, então não faz sentido debater e só um louco faria isso. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
 
 #### Premise 2: The Senses Have The Capacity For Accuracy
 
