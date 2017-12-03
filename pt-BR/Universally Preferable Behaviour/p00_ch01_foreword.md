@@ -84,10 +84,10 @@ Se minha tarefa fosse responder a cada objeção linguística, lógica e empíri
 
 Assim, eu humildemente sugiro que você espere para ver o quão efetivo é a estrutura ética que proponho em provar as mais comumente aceitas máximas morais da humanidade antes de passar seu julgamento final na teoria.
 
-Eu acredito piamente que a definição de uma estrutura ética racional é a tarefa mais essencial pela humanidade enfrentada. I truly appreciate your interest in this crucial matter – and would like as always to thank the wonderfully kind donators who have made this work possible.
+Eu acredito piamente que a definição de uma estrutura ética racional é a tarefa mais essencial pela humanidade enfrentada. Eu realmente aprecio seu interesse por esta questão crucial - e gostaria, como sempre, de agradecer os doadores incrivelmente gentis que tornaram esse trabalho possível.
 
-I ride into battle well armed by others.
+Eu adentro a batalha bem armado por outros.
 
-[^1]: Most of these will be discussed in more detail throughout the course of this book.
+[^1]: A maioria disto será discutido em mais detalhe no decorrer deste livro
 
-[^2]: Of course, if I have failed, I have at least failed spectacularly, which itself can be both edifying and entertaining!
+[^2]: É claro que, se eu falhei, pelo menos falhei de forma espetacular, que por si só pode ser tanto edificante quanto divertido
