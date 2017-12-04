@@ -71,13 +71,13 @@ The logical error always made in the defence of the government is to imagine tha
 
 Se não há nenhum mal, os governos são desnecessários. Se existe o mal, os governos são demasiado perigosos para serem autorizados a existir.
 
-Why is this error so prevalent?
+Por que é esse erro tão prevalente?
 
-There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+Há uma série de razões, que só pode ser tocadas aqui. A primeira é que o governo se apresenta às crianças sob a forma de professores de escolas públicas que são considerados autoridades morais. Assim, *moral* e *autoridade* são primeiramente associados com o governo – uma associação que em seguida é reforçada através de anos de repetição.
 
-The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
+A segunda é que o governo nunca ensina as crianças sobre a raiz do seu poder – violência – mas em vez disso, finge que é apenas mais uma instituição social, como um negócio ou uma igreja ou uma instituição de caridade, mas mais moral.
 
-The third is that the prevalence of religion and propaganda has always blinded men to the evils of the government – which is why rulers have always been so interested in furthering the interests of churches and state “education.” In the religious world-view, absolute power is synonymous with perfect virtue, in the form of a deity. In the real political world of men, however, increasing power always means increasing evil. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. There are many more reasons, of course, but these are among the deepest.[^10]
+A terceira é que a prevalência da religião e propaganda sempre cegou os homens dos maus do governo - é por isso que os legisladores sempre estiveram tão interessados em promover os interesses das igrejas e da educação estatal. Nessa visão religiosa de mundo, poder absoluto é sinônimo de virtude perfeita, em forma de uma deidade. In the real political world of men, however, increasing power always means increasing evil. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. There are many more reasons, of course, but these are among the deepest.[^10]
 
 At the beginning of this section, I mentioned that people generally make *two* errors when confronted with the idea of dissolving the government. The first is the belief that governments are necessary because evil people exist. The second is the belief that, in the absence of governments, any social institutions that arise will inevitably take the place of governments. Thus, Dispute Resolution Organisations (DROs), insurance companies and private security forces are all considered potential cancers that will swell and overwhelm the body politic.
 
