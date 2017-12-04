@@ -81,13 +81,13 @@ A terceira é que a prevalência da religião e propaganda sempre cegou os homen
 
 No início desta seção, eu mencionei que as pessoas geralmente cometem *dois* erros quando confrontadas com a ideia de dissolver o governo. A primeira é a crença de que os governos são necessários porque existem pessoas más. O segundo é a crença de que, na ausência de governos, qualquer instituições sociais que surgem inevitavelmente terão o lugar dos governos. Assim, as organizações de resolução de litígios (DROs), companhias de seguros e as forças de segurança privada são todas considerados potenciais cancros que vão inchar e sobrecarregar o corpo político.
 
-Esta visão surge do mesmo erro descrito acima. Se *todas* as instituições sociais estão constantemente a tentar crescer em poder e impor suas vontades sobre os outros, então por esse mesmo argumento um governo centralizado não pode existir. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
+Esta visão surge do mesmo erro descrito acima. Se *todas* as instituições sociais estão constantemente a tentar crescer em poder e impor suas vontades sobre os outros, então por esse mesmo argumento um governo centralizado não pode existir. Se é uma lei de ferro que grupos sempre tentam ganhar poder sobre outros grupos e indivíduos, então essa sede por poder *não vai acabar se um deles ganha, mas continuará a se espalhar pela sociedade praticamente sem oposição, até que a escravidão vire a norma*.
 
-The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Governments grow endlessly because they can pay tax collectors with a portion of the taxes they collect. The slaves are thus forced to pay for the costs of their enslavement.
+A única maneira que instituições sociais podem se transformar em monopólios violentos é *para aliviar os custos de coerção em direção a suas vítimas*. Os governos crescem infinitamente, porque eles podem pagar os cobradores de impostos com uma parte dos impostos que recolhem. Os escravos, portanto, são obrigados a pagar os custos de sua escravização.
 
-In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
+Em uma sociedade voluntária, não haveria nenhuma tributação, e, assim, qualquer grupo que desejam ganhar poder monopolista teria de financiar o seu exército em si, que nunca seria economicamente viável ou rentável. [^11]
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
+É muito difícil de entender a lógica e a inteligência do argumento que, a fim de proteger-nos de um grupo que *pode* nos dominar, devemos apoiar um grupo que *já* nos dominou. É semelhante ao argumento estatista sobre monopólios privados – que os cidadãos devem criar um monopólio governamental, porque eles têm medo de monopólios privados. Não é preciso uma visão perspicaz para ver através de tal absurdo.
 
 What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
 
@@ -107,10 +107,10 @@ Fleeing from imaginary devils into the protective prisons of governments only en
 
 [^7]: Esta é a situação atual em democracias, com certeza...
 
-[^8]: See Plato’s *Republic*.
+[^8]: Ver Platão *A República*.
 
-[^9]: Probably more, since evil people are always drawn to power.
+[^9]: Provavelmente mais, desde que pessoas más sempre são atraídas para o poder...
 
-[^10]: For a more detailed discussion of the role that *parents* play in inculcating the fantasy that “power equals virtue,” see [On Truth](http://wiki.mises.org/wiki/On_Truth).
+[^10]: Para uma discussão mais detalhada sobre o papel que *os pais* desempenham em inculcar a fantasia de que "o poder é igual a virtude", ver [On Truth](http://wiki.mises.org/wiki/On_Truth).
 
-[^11]: See [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
+[^11]: Ver [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2).
