@@ -1,10 +1,10 @@
 ### Governos e religião
 
-The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
+A ideia de que nascer cria um contrato com uma agência fictícia, que, em termos práticos, faz de você um quase escravo de indivíduos específicos, é comum à religião e ao estado – e de uma outra agência muito mais pessoal, da qual eu falo sobre no meu primeiro livro, "On Truth:The Tyranny Of Illuson. "
 
-Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Sempre que um padre diz: "Obedeça a Deus," o que ele está realmente dizendo é: "Obedeça-*me*." Já que Deus não existe, qualquer mandamento que o padre afirmar vir de Deus, está vindo do padre. "Deus" é apenas uma entidade fictícia usada para intimidar você conceitualmente a fim de obter sua muito prática subserviência no mundo real, para os indivíduos reais, em termos de voluntariamente entregar o dinheiro, tempo e recursos.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+É muito mais eficiente para exploradores que seus escravos considerem escravidão uma virtude, visto que isso reduz enormemente os custos de controlá-los. Se eu posso convencer você que é mau deixar de me servir, e é virtuoso ser meu escravo, então eu não preciso contratar tantos bandidos para intimidar, controlar e roubar de você.
 
 Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
 
