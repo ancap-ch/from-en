@@ -59,7 +59,7 @@ Pessoas boas não agem moralmente porque têm medo de retaliação, mas porque e
 
 A quarta opção é que a maioria das pessoas são boas, e apenas algumas são más. Esta possibilidade está sujeita aos mesmos problemas descritos acima, já que pessoas más sempre vão querer ganhar o controle sobre o governo, a fim de proteger-se da retaliação pelos seus crimes. Esta opção só muda a *aparência* da democracia: porque a maioria das pessoas são boas, sedentos por poder maldosos devem mentir para eles, a fim de ganhar o poder e então, depois de atingir o cargo público, vão imediatamente quebrar a confiança e vão perseguir suas próprias agendas corruptas, impondo suas vontades através da polícia e dos militares. [^7] Assim o governo continua a ser o maior prêmio para os homens mais malvados, que rapidamente vão ganhar controle sobre seu incrível poder – em detrimento de todas as almas boas – e assim o governo não pode vir a existir neste cenário também.
 
-It is clear, then, that there is no situation under which a government can logically or morally be allowed to exist. The only possible justification for the existence of a government would be if the majority of men are evil, but all the power of the government is always controlled by a minority of good men.[^8]
+Então, é claro, que não existe situação em que um governo pode logicamente ou moralmente ser autorizado a existir. A única justificativa possível para a existência de um governo seria se a maioria dos homens fossem maus, mas todo o poder do governo sempre fosse controlado por uma minoria de homens bons. [^8]
 
 This situation, while interesting theoretically, breaks down logically because:
 
