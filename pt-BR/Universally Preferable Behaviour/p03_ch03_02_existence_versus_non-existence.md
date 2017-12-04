@@ -61,15 +61,15 @@ A quarta opção é que a maioria das pessoas são boas, e apenas algumas são m
 
 Então, é claro, que não existe situação em que um governo pode logicamente ou moralmente ser autorizado a existir. A única justificativa possível para a existência de um governo seria se a maioria dos homens fossem maus, mas todo o poder do governo sempre fosse controlado por uma minoria de homens bons. [^8]
 
-This situation, while interesting theoretically, breaks down logically because:
+Essa situação, mesmo que interessante teoricamente, decompõe logicamente porque:
 
-1. The evil majority would quickly outvote the minority or overpower them through a coup;
-2. There is no way to ensure that only good people would always run the government; and,
+1. A maioria má rapidamente iria ter mais votos que a minoria ou dominá-la através de um golpe de estado;
+2. Não há nenhuma maneira de garantir que somente pessoas boas sempre conduziriam governo; e,
 3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
 
-The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
+The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. Se cinquenta por cento das pessoas são más, então *pelo menos* cinquenta por cento de pessoas governando sobre eles também são do mal. [^9] Assim, a existência do mal nunca pode justificar a existência de um governo.
 
-If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
+Se não há nenhum mal, os governos são desnecessários. Se existe o mal, os governos são demasiado perigosos para serem autorizados a existir.
 
 Why is this error so prevalent?
 
