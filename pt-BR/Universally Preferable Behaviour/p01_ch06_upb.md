@@ -17,7 +17,7 @@ Deixe-nos olhar para três ações, para nos ajudar a distinguir entre ética e 
 
 ### Irracionalidade
 
-Digamos que você e eu estamos tendo um debate sobre a existência de Deus. Depois que eu apresentei meus argumentos, você tampa suas orelhas com suas mãos, cantando que Deus está dizendo para você que ele existe, e portanto todos meus argumentos não significam nada. Claramente, sua resposta para a minha proposição é irracional. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Digamos que você e eu estamos tendo um debate sobre a existência de Deus. Depois que eu apresentei meus argumentos, você tampa suas orelhas com suas mãos, cantando que Deus está dizendo para você que ele existe, e portanto todos meus argumentos não significam nada. Claramente, sua resposta para a minha proposição é irracional. O quão irritante que eu poderia achar seu comportamento, no entanto, dificilmente pareceria razoável para mim desabafar minha frustração puxando uma arma e atirando em você. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
 
 ### Lying
 
