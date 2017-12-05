@@ -1,6 +1,6 @@
-## UPB: Ethics Or Aesthetics?
+## UPB: Ética Ou Estética?
 
-In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. A rapist, on the other hand, is violently inflicting his preferences upon his victim.
+No geral, nós usamos o termo *estética* para se referir a preferências não executáveis com violência - universais ou pessoais - enquanto *ética* ou *moralidade* se referem a preferências executáveis através de violência. É *universalmente preferível* (ou seja, obrigatório) usar método científico para validar teorias físicas, mas não podemos usar força para *impor* o método científico para aqueles que não o usam, uma vez que *não usar o método científico não é uma ação violenta*. Non-violent actions by their very nature are *avoidable*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. A rapist, on the other hand, is violently inflicting his preferences upon his victim.
 
 Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
 
