@@ -11,13 +11,13 @@ Embora nós primeiramente focamos o UPB no campo da ética, o UPB agora pode ser
 - Linguagem
 - Ética
 
-Ética é o subconjunto do UPB que lida com comportamentos *impostos*, ou o uso da violência. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+Ética é o subconjunto do UPB que lida com comportamentos *impostos*, ou o uso da violência. Qualquer teoria que justifique ou negue o uso da violência é uma teoria *moral*, e está sujeita aos requisitos de consistência lógica e evidência empírica.
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+Deixe-nos olhar para três ações, para nos ajudar a distinguir entre ética e estética. A primeira ação é *irracionalidade*; a segunda é *mentir*; a terceira é *assassinar*.[^9]
 
-### Irrationality
+### Irracionalidade
 
-Let’s say that you and I are having a debate about the existence of God. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Digamos que você e eu estamos tendo um debate sobre a existência de Deus. Depois que eu apresentei meus argumentos, você tampa suas orelhas com suas mãos, cantando que Deus está dizendo para você que ele existe, e portanto todos meus argumentos não significam nada. Claramente, sua resposta para a minha proposição é irracional. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
 
 ### Lying
 
