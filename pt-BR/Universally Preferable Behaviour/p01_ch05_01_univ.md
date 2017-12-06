@@ -2,9 +2,9 @@
 
 Como resultado dos argumentos acima, podemos ver que é impossível entrar em qualquer debate sem aceitar a premissa que certos comportamentos são *universalmente preferíveis*.
 
-I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
+Eu uso a palavra “comportamento” aqui em vez de “pensamento” porque é importante diferenciar entre estados puramente internos e não verificáveis como “pensando” de estados objetivos e verificáveis como “agindo”,”escrevendo” e “falando.”
 
-It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant,” which is why I use the word “behaviour” rather than “thought.”
+É impossível provar que eu sonhei com um elefante noite passada. É impossível probar que eu tinha escrito a palavra “elefante,” e é por isso que eu uso a palavra “comportamento” em vez de “pensamento.”
 
 Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
 
