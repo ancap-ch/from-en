@@ -10,9 +10,9 @@ Acquiescing to superior logic in an argument is an *action*. Se, o tempo todo eu
 
 Portanto pode-se observar que, inerente ao próprio ato de argumentar existem algumas premissas que não podem ser concebivelmente derrubadas.
 
-If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+Se eu te pedir para me encontrar na quadra de tênis e aparecer com um rifle de caça, podemos acabar jogando quanquer tipo de jogo, mas com certeza não vai ser tênis. Quando eu te peço para jogarmos tênis, implicitamente neste pedido está a aceitação das regras do tênis.
 
-Historically, those engaged in ethical debating have often failed to maintain this basic reality.
+Historicamente, aqueles que entraram em debates éticos costumavam falhar em manter essa realidade básica.
 
 I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
 
