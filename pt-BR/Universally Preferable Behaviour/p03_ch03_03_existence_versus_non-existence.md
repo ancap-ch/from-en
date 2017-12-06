@@ -6,11 +6,11 @@ Sempre que um padre diz: "Obedeça a Deus," o que ele está realmente dizendo é
 
 É muito mais eficiente para exploradores que seus escravos considerem escravidão uma virtude, visto que isso reduz enormemente os custos de controlá-los. Se eu posso convencer você que é mau deixar de me servir, e é virtuoso ser meu escravo, então eu não preciso contratar tantos bandidos para intimidar, controlar e roubar de você.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+Mitologias religiosas e estaduais, então, são ficções que vastamente reduzem os custos de controlar as populações; Elas são o lubrificante e o combustível para o maquinario medonho da violência institucionalizada.
 
-Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Em todo o mundo, governantes são uma porcentagem muito pequena da população. Como pode ser possível que um ou dois por cento das pessoas controlam todas as outros? Há um certo monopólio do armamento, para se ter certeza, mas esse monopólio é relativamente fácil de combater, uma vez que a maioria dos governos fazem uma fortuna vendendo armas em todo o mundo.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+A triste realidade é que as pessoas como um todo são escravizadas para entidades fictícias como nações, deuses, culturas e governos.
 
 Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
 
