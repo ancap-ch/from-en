@@ -62,7 +62,7 @@ Estas "verdades do meio" são as ilusões mais perigosas de todas, porque elas c
 
 Ao fornecer a ilusão de que encontramos a verdade, as "verdades do meio" realmente nos impedem de ganhar a verdade. Elas são a última linha de defesa para a fantasia, a predação e a exploração.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Uma vez que eles não são apenas irracionais, mas "anti"racionais, "verdades do meio" permanecem infinitamente flexíveis – enquanto servirem aqueles que estão no poder. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
 
 “Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
 
