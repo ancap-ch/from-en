@@ -56,7 +56,7 @@ Fizemos grandes avanços na compreensão da natureza e realidade da simples igua
 
 ### "Meias verdades"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+Vamos chamar os princípios de oposição que residem na "zona nula" – entre a percepção sensorial e consistência conceitual – de "verdades do meio".
 
 These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
 
