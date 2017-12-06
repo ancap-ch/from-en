@@ -14,9 +14,9 @@ Se eu te pedir para me encontrar na quadra de tênis e aparecer com um rifle de 
 
 Historicamente, aqueles que entraram em debates éticos costumavam falhar em manter essa realidade básica.
 
-I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
+Eu não posso publicar um artigo científico escrito na minha lingua pessoal, baseado no meu peixinho dourado psíquico e esperar que me levem a sério. Da mesma forma, eu não posso começar um debate filosófico sobre ética baseado nos meus valores pessoais e dizer que todos os meus argumentos foram validados por Trixie o duende invisível e onisciente e esperar que me levem a sério.
 
-The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
+O próprio ato de debater requer a aceitação de um comportamento universalmente preferível (CUP). Não existe nenhuma forma de racionalmente responder a um argumento êtico *sem* exibir o CUP.
 
 Let us now turn to a series of positive proofs for UPB.
 
