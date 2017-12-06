@@ -12,13 +12,13 @@ Em todo o mundo, governantes são uma porcentagem muito pequena da população. 
 
 A triste realidade é que as pessoas como um todo são escravizadas para entidades fictícias como nações, deuses, culturas e governos.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+Nosso orgulho pessoal instintivamente se rebelaria contra uma imediata e forçada a escravidão à outro ser humano – no entanto, parece que quase se deleitam com escravidão à *mitologia*.
 
 Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
 
-One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+Uma razão central para nós sabermos que os governos e os deuses são desnecessários é que eles não são tão eficazes. *Sabemos que a maioria das pessoas querem desesperadamente ser boas porque são facilmente controladas por teorias de morais*.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+A lógica da obediência à mitologia é patentemente tola. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
 Of course not.
 
