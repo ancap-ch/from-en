@@ -8,7 +8,7 @@ Eu uso a palavra “comportamento” aqui em vez de “pensamento” porque é i
 
 Acquiescing to superior logic in an argument is an *action*. Se, o tempo todo eu concedesse um ponto a você, eu não dissesse nada, mas apenas ficasse parado inexpressivo te olhando, você acharia um pouco irritante debater comigo. To concede a point, I must perform the action of verbal acquiescence.
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+Portanto pode-se observar que, inerente ao próprio ato de argumentar existem algumas premissas que não podem ser concebivelmente derrubadas.
 
 If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
 
