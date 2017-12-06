@@ -6,7 +6,7 @@ Eu uso a palavra “comportamento” aqui em vez de “pensamento” porque é i
 
 É impossível provar que eu sonhei com um elefante noite passada. É impossível probar que eu tinha escrito a palavra “elefante,” e é por isso que eu uso a palavra “comportamento” em vez de “pensamento.”
 
-Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+Acquiescing to superior logic in an argument is an *action*. Se, o tempo todo eu concedesse um ponto a você, eu não dissesse nada, mas apenas ficasse parado inexpressivo te olhando, você acharia um pouco irritante debater comigo. To concede a point, I must perform the action of verbal acquiescence.
 
 Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
 
