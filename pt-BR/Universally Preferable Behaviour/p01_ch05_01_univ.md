@@ -18,9 +18,9 @@ Eu não posso publicar um artigo científico escrito na minha lingua pessoal, ba
 
 O próprio ato de debater requer a aceitação de um comportamento universalmente preferível (CUP). Não existe nenhuma forma de racionalmente responder a um argumento êtico *sem* exibir o CUP.
 
-Let us now turn to a series of positive proofs for UPB.
+Agora vamos ver um conjunto de provas favoráveis ao CUP.
 
-### UPB And Validity
+### CUP E Validade
 
 One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
 
