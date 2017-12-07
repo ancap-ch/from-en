@@ -72,7 +72,7 @@ Podemos personalizar isto um pouco mais com um exemplo que será familiar a qual
 
 "O governo britânico é uma tirania!" choraram os revolucionários Americanos no século XVIII – e, depois de expulsar as tropas britânicas, eles então montaram seu próprio governo e começaram a atacar seus próprios cidadãos.
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+"Aristocracia é uma abominação injusta!", gritaram outros revolucionários, que em seguida, montaram a tirania da maioria sob a forma de democracia.
 
 “Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
 
