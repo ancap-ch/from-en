@@ -64,13 +64,13 @@ Ao fornecer a ilusão de que encontramos a verdade, as "verdades do meio" realme
 
 Uma vez que eles não são apenas irracionais, mas "anti"racionais, "middle truths" permanecem infinitamente flexíveis – enquanto servirem aqueles que estão no poder. Por exemplo, o Cristianismo surgiu do tardio crescimento do fascismo do Império Romano, em parte atacando as superstições "primitivas" das teologias existentes. "Esqueçam seus velhos deuses, nós temos um novo Deus que é muito melhor!"
 
-"middle truths" sempre têm a forma de uma verdade, seguida de uma mentira. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+"middle truths" sempre têm a forma de uma verdade, seguida de uma mentira. "Zeus é uma superstição pagã" é uma afirmação verdadeira, que foi abertamente feita por prosélitos Cristãos. A mentira que se seguiu foi: "Yahweh não é uma superstição pagã, mas um Deus real e vivo".
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+Podemos personalizar isto um pouco mais com um exemplo que será familiar a qualquer um que já tenha aconselhado um amigo disfuncional. "Meu último namorado foi um tremendo babaca", ela dirá e você fevrosamente irá concordar. "Meu novo namorado é incrível, porém" ela adicionará, e você tentará não revirar seus olhos.
 
-It is very hard not to replace one illusion with another.
+É muito difícil não substituir uma ilusão por outra.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+"O governo britânico é uma tirania!" choraram os revolucionários Americanos no século XVIII – e, depois de expulsar as tropas britânicas, eles então montaram seu próprio governo e começaram a atacar seus próprios cidadãos.
 
 “Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
 
