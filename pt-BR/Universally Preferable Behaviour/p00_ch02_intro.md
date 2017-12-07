@@ -52,17 +52,17 @@ No campo da ciência, não é muito difícil de ver forças opressivas que conti
 
 A simples verdade é que "sacerdotes" e "cavaleiros" foram - e são - meramente homens. A verdade simples é que deuses e demônios que deveriam justificar seu governo nunca existiram.
 
-Fizemos grandes avanços na compreensão da natureza e realidade da simples igualdade humana, mas o triste fato deste assunto é que o domínio da "moralidade" continua perdido na "zona nula" - nas ilusões destrutivas das "verdades do meio".
+Fizemos grandes avanços na compreensão da natureza e realidade da simples igualdade humana, mas o triste fato deste assunto é que o domínio da "moralidade" continua perdido na "zona nula" - nas ilusões destrutivas das "middle truths".
 
 ### "Meias verdades"
 
-Vamos chamar os princípios de oposição que residem na "zona nula" – entre a percepção sensorial e consistência conceitual – de "verdades do meio".
+Vamos chamar os princípios de oposição que residem na "zona nula" – entre a percepção sensorial e consistência conceitual – de "middle truths".
 
-Estas "verdades do meio" são as ilusões mais perigosas de todas, porque elas concedem a "aparência" da verdade, enquanto na verdade estão "atacando" a verdade.
+Estas "middle truths" são as ilusões mais perigosas de todas, porque elas concedem a "aparência" da verdade, enquanto na verdade estão "atacando" a verdade.
 
 Ao fornecer a ilusão de que encontramos a verdade, as "verdades do meio" realmente nos impedem de ganhar a verdade. Elas são a última linha de defesa para a fantasia, a predação e a exploração.
 
-Uma vez que eles não são apenas irracionais, mas "anti"racionais, "verdades do meio" permanecem infinitamente flexíveis – enquanto servirem aqueles que estão no poder. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Uma vez que eles não são apenas irracionais, mas "anti"racionais, "middle truths" permanecem infinitamente flexíveis – enquanto servirem aqueles que estão no poder. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
 
 “Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
 
