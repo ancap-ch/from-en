@@ -78,7 +78,7 @@ Podemos personalizar isto um pouco mais com um exemplo que será familiar a qual
 
 A religião também é outra "middle truth" – uma das mais perigosas. É verdade que nós somos uma espécie única no universo, até onde sabemos. Uma girafa é o quadrúpede mais alto, mas o homem não é apenas o primata "mais inteligente", mas algo completamente diferente. A natureza desta diferença permanece amplamente desconhecida - a explicação religiosa de "não somos o mesmo que os animais porque temos uma alma e fomos criados por um Deus" é apenas mais um exemplo de uma "middle truth". É verdade que somos muito diferentes dos animais. Não é verdade que fomos criados por um Deus e temos uma alma.
 
-Assim como alguns parasitas não podem enraizar-se até que eles desalojem os parasitas prévios, "middle truths" somente atacam ilusões anteriores - para que possam ocupar os seus lugares. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Assim, o Cristianismo substitui o paganismo, o Marxismo substitui o Cristianismo, o pós-modernismo substitui o Marxismo, democracia substitui a aristocracia, e assim por diante.
+Assim como alguns parasitas não podem enraizar-se até que eles desalojem os parasitas prévios, "middle truths" somente atacam ilusões anteriores - para que possam ocupar os seus lugares. Aqueles que são céticos sobre as fantasias anteriores são atraídos para a nova fantasia. Assim, o Cristianismo substitui o paganismo, o Marxismo substitui o Cristianismo, o pós-modernismo substitui o Marxismo, democracia substitui a aristocracia, e assim por diante.
 
 Até que as grandes verdades sejam alcançadas, e unidas com as pequenas verdades, "middle truths" são apenas uma falange rotativa de falsidades exploradoras e destrutivas -especificamente concebidas para prevenir a realização das grandes verdades.
 
@@ -88,7 +88,7 @@ O mundo cai porque uma pedra cai.
 
 ### "Middle truths" e exploração
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+Biologicamente, o parasitismo é uma estratégia de sobrevivência totalmente viável para muitas criaturas. Na ausência de normas éticas, roubar energia e recursos de outras criaturas é perfeitamente sensível. Em geral, a forma mais sustentável e estável de parasitismo é "simbiose", ou coexistência mutualmente benéfica. Assim, as bactérias que habitam nossos intestinos ajudam na sua própria sobrevivência, ajudando-nos a digerir nossos alimentos.
 
 However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
 
