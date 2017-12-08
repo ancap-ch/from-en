@@ -92,9 +92,9 @@ Biologicamente, o parasitismo é uma estratégia de sobrevivência totalmente vi
 
 No entanto, um vírus que nos esgota continuamente, e quase não podemos nos manter vivos, dificilmente podem ser chamados de "mutuamente benéficos". Se pensarmos em nossa longa e sombria história de desastre, fome, guerra, doenças e pobreza - e comparar isto com os surpreendentes sucessos materiais da modernidade - é claro que uma forma de parasitismo tiranizou nossas mentes e capacidades por milênios. Agora que as últimas centenas de anos mostraram o poder e a criatividade do espírito humano, podemos ver nossa espécie como um organismo que tem sacudido um terrível parasita e surgiu a partir de um leito de morte ofegante interminável para realizar os feitos mais surpreendentes da ginástica.
 
-When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
+Quando curamos a nós mesmos de uma doença, nos sentimos melhor, mas a doença não. Do ponto de vista do vírus da varíola, da vacina contra a varíola é genocida.
 
-In the same way, the parasites that strangle mankind view the liberty of the majority with horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+Da mesma forma, os parasitas que estrangulam a humanidade vêem a liberdade da maioria com horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
 
 Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
 
