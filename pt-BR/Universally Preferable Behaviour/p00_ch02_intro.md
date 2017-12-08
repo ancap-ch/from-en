@@ -108,7 +108,7 @@ Uma analogia mais moderna seria a relação entre o estado, os lobistas e os con
 
 Parasitas irão competir agressivamente com um outro pelos recursos limitados do hospedeiro – mas é do seu melhor interesse se unir para juntos para atacar qualquer coisa que ameace a eliminar o hospedeiro.
 
-In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
+Desta forma, em qualquer sociedade onde o estado e a igreja estejam nominalmente separados, cada entidade tende a competir pelos adeptos. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
 
 However, the philosophers who oppose *all* intellectual error are the sworn enemies of all the parasites that feed off illusions. The “great truths” of physics eliminate the need for supernatural agents, and render miracles impossible. The explanatory power of science wholly outshines the religious fictions that masquerade as knowledge about the physical world.
 
