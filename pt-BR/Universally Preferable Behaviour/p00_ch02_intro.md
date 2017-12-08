@@ -78,7 +78,7 @@ Podemos personalizar isto um pouco mais com um exemplo que será familiar a qual
 
 A religião também é outra "middle truth" – uma das mais perigosas. É verdade que nós somos uma espécie única no universo, até onde sabemos. Uma girafa é o quadrúpede mais alto, mas o homem não é apenas o primata "mais inteligente", mas algo completamente diferente. A natureza desta diferença permanece amplamente desconhecida - a explicação religiosa de "não somos o mesmo que os animais porque temos uma alma e fomos criados por um Deus" é apenas mais um exemplo de uma "middle truth". É verdade que somos muito diferentes dos animais. Não é verdade que fomos criados por um Deus e temos uma alma.
 
-Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+Assim como alguns parasitas não podem enraizar-se até que eles desalojem os parasitas prévios, "middle truths" somente atacam ilusões anteriores - para que possam ocupar os seus lugares. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
 
 Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
 
