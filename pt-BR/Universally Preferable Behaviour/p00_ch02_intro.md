@@ -96,15 +96,15 @@ Quando curamos a nós mesmos de uma doença, nos sentimos melhor, mas a doença 
 
 Da mesma forma, os parasitas que estrangulam a humanidade vêem a liberdade da maioria com horror. Uma vez que seu parasitismo os liberta das exigências da realidade - para ganhar seu pão de cada dia - inevitavelmente eles verão a liberdade das massas como uma forma de escravidão para sí. Assim, um fazendeiro veria a "libertação" do seu gado como um desastre absoluto...
 
-Estabelecer a verdade necessariamente limita a fantasia. Limitar a fantasia necessariamente limita a exploração. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+Estabelecer a verdade necessariamente limita a fantasia. Limitar a fantasia necessariamente limita a exploração. Se eu posso lhe convencer que eu sou um homem-Deus vivo, e que o Deus que me fez nascer quer que você me dê dez porcento da sua renda, ou você será punido por toda a eternidade, então eu posso tornar-me extremamente rico. Eu sou um parasita das ilusões e dependo dessas ilusões para meu sustento, tão certo como o fungo depende de calor, da umidade – e da escuridão.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+Aqueles que usam fantasias morais para explorar a humanidade sempre lutaram com unhas e dentes contra aqueles que ameaçam sua subsistência por descobrir e espalhar a verdade.
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+Estamos familiarizados com o exemplo da máfia, que ameaça potenciais rivais com mutilação e morte, ou o espetáculo das seitas religiosas, atacando uns aos outros, ou um governo atacando outro.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+Quando os filósofos expõem as falsidades necessárias para a continuação da exploração, no entanto, eles não estão mirando o objetivo de se estabelecerem como concorrentes. Eles não desejam "substituir" a máfia, ou a igreja - eles querem eliminá-las completamente.
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+Uma analogia mais moderna seria a relação entre o estado, os lobistas e os contribuintes. Lobistas atacarão ferozmente outros lobistas que competem pelo mesmo dinheiro de impostos. No entanto, imagine como "todos" os lobistas se uniriam para atacar qualquer um que propusesse eliminar o estado como instituição.
 
 Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
 
