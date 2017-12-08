@@ -118,11 +118,11 @@ Assim, o estabelecimento de uma verdade consistente e universal necessariamente 
 
 ### Parasitismo Eficaz
 
-Os parasitas mais eficazes – ou vírus – são aqueles que enganam o corpo com indiferença. Nosso sistema imunológico é projetado para atacar substâncias estranhas dentro do corpo, isolando e matando-os. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+Os parasitas mais eficazes – ou vírus – são aqueles que enganam o corpo com indiferença. Nosso sistema imunológico é projetado para atacar substâncias estranhas dentro do corpo, isolando e matando-os. Nós tememos o HIV e o câncer em particular porque eles são capazes de ignorar o nosso sistema imunológico. A mesma técnica é usada por parasitas intelectuais para desativar os sistemas de defesa daqueles que eles se aproveitam.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+Se um estranho te ataca em um beco e exige o seu dinheiro, você ficará consternado e horrorizado. Você pode lutar contra, você pode correr, ou você pode dar-lhe a carteira, mas você ficaria chocado, irritado e amedrontado pela interação. Quando você repete a história, você irá dizer de uma forma que reforça a base e violação dos seus direitos pessoais e de propriedade. Outros sentirão compaixão pela sua situação e evitariam o beco no futuro.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+Este é um exemplo de uma "pequena verdade", a qual é: "roubar de mim é errado".
 
 However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
 
