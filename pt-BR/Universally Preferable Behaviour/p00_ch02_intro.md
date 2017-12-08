@@ -106,7 +106,7 @@ Quando os filósofos expõem as falsidades necessárias para a continuação da 
 
 Uma analogia mais moderna seria a relação entre o estado, os lobistas e os contribuintes. Lobistas atacarão ferozmente outros lobistas que competem pelo mesmo dinheiro de impostos. No entanto, imagine como "todos" os lobistas se uniriam para atacar qualquer um que propusesse eliminar o estado como instituição.
 
-Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
+Parasitas irão competir agressivamente com um outro pelos recursos limitados do hospedeiro – mas é do seu melhor interesse se unir para juntos para atacar qualquer coisa que ameace a eliminar o hospedeiro.
 
 In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
 
