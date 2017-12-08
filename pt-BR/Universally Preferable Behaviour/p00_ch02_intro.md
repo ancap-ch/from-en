@@ -78,15 +78,15 @@ Podemos personalizar isto um pouco mais com um exemplo que será familiar a qual
 
 A religião também é outra "middle truth" – uma das mais perigosas. É verdade que nós somos uma espécie única no universo, até onde sabemos. Uma girafa é o quadrúpede mais alto, mas o homem não é apenas o primata "mais inteligente", mas algo completamente diferente. A natureza desta diferença permanece amplamente desconhecida - a explicação religiosa de "não somos o mesmo que os animais porque temos uma alma e fomos criados por um Deus" é apenas mais um exemplo de uma "middle truth". É verdade que somos muito diferentes dos animais. Não é verdade que fomos criados por um Deus e temos uma alma.
 
-Assim como alguns parasitas não podem enraizar-se até que eles desalojem os parasitas prévios, "middle truths" somente atacam ilusões anteriores - para que possam ocupar os seus lugares. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+Assim como alguns parasitas não podem enraizar-se até que eles desalojem os parasitas prévios, "middle truths" somente atacam ilusões anteriores - para que possam ocupar os seus lugares. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Assim, o Cristianismo substitui o paganismo, o Marxismo substitui o Cristianismo, o pós-modernismo substitui o Marxismo, democracia substitui a aristocracia, e assim por diante.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+Até que as grandes verdades sejam alcançadas, e unidas com as pequenas verdades, "middle truths" são apenas uma falange rotativa de falsidades exploradoras e destrutivas -especificamente concebidas para prevenir a realização das grandes verdades.
 
-And the great truths are always achieved from the little truths.
+E as grandes verdades sempre são alcançadas a partir das poucas verdades.
 
-The world falls because a rock falls.
+O mundo cai porque uma pedra cai.
 
-### "Middle Truths" And Exploitation
+### "Middle truths" e exploração
 
 Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
 
