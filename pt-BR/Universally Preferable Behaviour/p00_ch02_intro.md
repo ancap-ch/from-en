@@ -130,4 +130,4 @@ Este é um exemplo de uma "middle truth", que obscurece uma "grande verdade", de
 
 Este livro se concentrará em expor e destruir essas falsas "middle truth". Eu acredito que a humanidade sofre eternamente sob a tirania de falsas éticas "middle truths", que justificam as visões de mundo destrutivas da superstição religiosa, despotismo secular e o culto da família.
 
-Minha tese neste livro é que, na ética, assim como em todas as outras disciplina intelectual, as grandes verdades surgem diretamente das pequenas verdades. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+Minha tese neste livro é que, na ética, assim como em todas as outras disciplina intelectual, as grandes verdades surgem diretamente das pequenas verdades. A névoa desorientadora das "middle truths" é um caminho infernal para se navegar, mas vale a pena lutar, porque a única alternativa fundamental à verdade é a exploração, destruição – e, inevitavelmente, a morte prematura de milhões.
