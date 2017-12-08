@@ -124,10 +124,10 @@ Se um estranho te ataca em um beco e exige o seu dinheiro, você ficará conster
 
 Este é um exemplo de uma "pequena verdade", a qual é: "roubar de mim é errado".
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+No entanto, quando um agente do governo envia uma carta exigindo que você pague dinheiro, você pode sentir certa indignidade, mas você não contará a história com o mesmo horror e indignação aos seus amigos.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+Este é um exemplo de uma "middle truth", que obscurece uma "grande verdade", de que "roubar é errado."
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+Este livro se concentrará em expor e destruir essas falsas "middle truth". Eu acredito que a humanidade sofre eternamente sob a tirania de falsas éticas "middle truths", que justificam as visões de mundo destrutivas da superstição religiosa, despotismo secular e o culto da família.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+Minha tese neste livro é que, na ética, assim como em todas as outras disciplina intelectual, as grandes verdades surgem diretamente das pequenas verdades. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
