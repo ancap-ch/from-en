@@ -94,9 +94,9 @@ No entanto, um vírus que nos esgota continuamente, e quase não podemos nos man
 
 Quando curamos a nós mesmos de uma doença, nos sentimos melhor, mas a doença não. Do ponto de vista do vírus da varíola, da vacina contra a varíola é genocida.
 
-Da mesma forma, os parasitas que estrangulam a humanidade vêem a liberdade da maioria com horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+Da mesma forma, os parasitas que estrangulam a humanidade vêem a liberdade da maioria com horror. Uma vez que seu parasitismo os liberta das exigências da realidade - para ganhar seu pão de cada dia - inevitavelmente eles verão a liberdade das massas como uma forma de escravidão para sí. Assim, um fazendeiro veria a "libertação" do seu gado como um desastre absoluto...
 
-Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+Estabelecer a verdade necessariamente limita a fantasia. Limitar a fantasia necessariamente limita a exploração. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
 
 Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
 
