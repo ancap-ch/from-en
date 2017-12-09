@@ -1,6 +1,6 @@
-### UPB: Five Proofs
+### UPB: Cinco provas
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+Como discutimos acima, a proposição de que "não há comportamento preferível" contém um número insuperável de problemas lógicos e empíricos. "Comportamento Universalmente Preferível" - deve -ser um conceito válido, por cinco razões principais.
 
 The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
 
