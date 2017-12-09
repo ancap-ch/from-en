@@ -10,9 +10,9 @@ Silogisticamente, isto é:
 2. Argumentando contra a validade do comportamento universalmente preferível demonstra comportamento universalmente preferível.
 3. Portanto, nenhum argumento contra a validade do comportamento universalmente preferível pode ser válido.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+Todos sabemos que existem preferências subjetivas, como gostar de sorvete ou jazz, que não são consideradas vinculativas para outras pessoas. Por outro lado, existem outras preferências, tais como estupro e assassinato, que claramente "são" infligidos a outros. Há também preferências por lógica, verdade e evidência, que também estão ligadas a outros (embora eles não são sejam violentamente infligidos) na medida em que todos nós aceitamos que uma proposição lógica deve ser falsa ou inválida.
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+Essas preferências que podem ser consideradas vinculativas para outros podem ser chamadas de "preferências universais" ou "regras morais".
 
 How else can we know that the concept of “moral rules” is valid?
 
