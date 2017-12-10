@@ -102,8 +102,8 @@ Se eu argumentar que os seres humanos não são responsáveis por suas ações, 
 
 Se meu argumento de que os seres humanos *não* são responsáveis por seus atos é verdade, então eu não sou responsável pelo meu argumento, e você não é responsável pela sua resposta. No entanto, se eu acredito que você não é responsável pela sua resposta, teria pouquíssimo sentido continuar a argumentar – seria exatamente o mesmo que discutindo com um aparelho de televisão. [^5]
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+Assim, fundamentalmente, se eu disser que você não é responsável por suas ações, estou dizendo que é universalmente preferível para acreditar que a preferência é impossível, já que se você não tem controle sobre suas ações, você não pode escolher um estado de preferencia, ou seja, a verdade sobre a falsidade. Assim, este argumento, como os argumentos mais acima, auto-destrói-se.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^4]: Será útil lembrar dessa premissa em particular, uma vez que será muito importante mais tarde.
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]: A questão da responsabilidade é, claramente, estreitamente relacionada com a questão do livre-arbítrio versus Determinismo, o qual será o tema de outro livro.
