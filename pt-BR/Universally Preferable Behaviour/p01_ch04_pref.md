@@ -90,17 +90,17 @@ Se eu te disser que o mundo é plano, e você sacar uma arma e atirar em mim, is
 
 Se você me dissesse com antecedência caso discordássemos você resolveria isso atirando em mim, em provavelmente não aceitaria iniciar um debate com você. Assim, é evidente que qualquer debate se baseia na premissa implícita que evidência, razão, verdade e objetividade são os métodos *universalmente preferíveis* de resolução de disputas entre indivíduos. Seria completamente ilógico argumentar que as diferenças de opinião deveriam ser resolvidas com o uso de violência – o único argumento consistente para o *valor* de violência é o uso da violência. [^4]
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+Em essência, então, debater requer uma metodologia objetiva, através da linguagem significativa, na busca da verdade universal, a qual é objetivamente preferível que o erro pessoal.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+Esta preferência pela verdade universal não é uma preferência de *grau*, mas de *tipo*. Um atalho que corta o tempo de uma viagem pela metade é duas vezes melhor que o caminho mais longo - mas ambos são *infinitamente preferíveis* que um caminho que vá completamente na direção oposta.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+Da mesma forma, a verdade não é "melhor" do que de erro – é *infinitamente preferível*, ou requisitada.
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### Premissa 8: Os indivíduos são responsáveis por seus atos
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+Se eu argumentar que os seres humanos não são responsáveis por suas ações, estou preso em um paradoxo, que é a pergunta de *se sou ou não sou responsável pelo meu argumento, e também se você é ou não é responsável por sua resposta*.
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+Se meu argumento de que os seres humanos *não* são responsáveis por seus atos é verdade, então eu não sou responsável pelo meu argumento, e você não é responsável pela sua resposta. No entanto, se eu acredito que você não é responsável pela sua resposta, teria pouquíssimo sentido continuar a argumentar – seria exatamente o mesmo que discutindo com um aparelho de televisão. [^5]
 
 Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
 
