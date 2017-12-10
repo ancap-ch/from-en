@@ -80,9 +80,9 @@ Isto não significa necessariamente que meus critérios objetivos são *lógicos
 
 #### Premissa 6: Verdade é melhor do que a falsidade
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+Se eu te disser que o mundo é plano, e você discordar e falar que ele é redondo, você está aceitando implicitamente o axioma de que a verdade e a falsidade existem objetivamente, e essa verdade é melhor do que a falsidade.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Se eu te disser que eu gosto de sorvete de chocolate, e você me disser que gosta de sorvete de baunilha, é impossível "provar" que a baunilha é objetivamente melhor que chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
 
 #### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
 
