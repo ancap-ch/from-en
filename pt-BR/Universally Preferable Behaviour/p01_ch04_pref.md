@@ -82,11 +82,11 @@ Isto não significa necessariamente que meus critérios objetivos são *lógicos
 
 Se eu te disser que o mundo é plano, e você discordar e falar que ele é redondo, você está aceitando implicitamente o axioma de que a verdade e a falsidade existem objetivamente, e essa verdade é melhor do que a falsidade.
 
-Se eu te disser que eu gosto de sorvete de chocolate, e você me disser que gosta de sorvete de baunilha, é impossível "provar" que a baunilha é objetivamente melhor que chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Se eu te disser que eu gosto de sorvete de chocolate, e você me disser que gosta de sorvete de baunilha, é impossível "provar" que a baunilha é objetivamente melhor que chocolate. No momento que você me corrige com referencia a *fatos* objetivos, você está aceitando que fatos objetivos existem, e que a verdade objetiva é *universalmente preferível* que o erro subjetivo.
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### Premissa 7: Debater pacificamente é a melhor maneira de resolver disputas
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+Se eu te disser que o mundo é plano, e você sacar uma arma e atirar em mim, isso não seria um exemplo de um debate produtivo. É verdade que nossa discordância teria sido "resolvida" - mas isso porque no final só sobrou um de nós dois de pé.
 
 If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
 
