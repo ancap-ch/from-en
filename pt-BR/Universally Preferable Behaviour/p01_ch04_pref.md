@@ -88,7 +88,7 @@ Se eu te disser que eu gosto de sorvete de chocolate, e você me disser que gost
 
 Se eu te disser que o mundo é plano, e você sacar uma arma e atirar em mim, isso não seria um exemplo de um debate produtivo. É verdade que nossa discordância teria sido "resolvida" - mas isso porque no final só sobrou um de nós dois de pé.
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Se você me dissesse com antecedência caso discordássemos você resolveria isso atirando em mim, em provavelmente não aceitaria iniciar um debate com você. Assim, é evidente que qualquer debate se baseia na premissa implícita que evidência, razão, verdade e objetividade são os métodos *universalmente preferíveis* de resolução de disputas entre indivíduos. Seria completamente ilógico argumentar que as diferenças de opinião deveriam ser resolvidas com o uso de violência – o único argumento consistente para o *valor* de violência é o uso da violência. [^4]
 
 In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
 
