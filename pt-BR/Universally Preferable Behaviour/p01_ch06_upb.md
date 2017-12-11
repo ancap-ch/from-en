@@ -43,9 +43,9 @@ Todos nós temos preferências - desde meramente pessoais ("eu gosto de sorvete"
 
 Existe poucos motivos para escrever um livro sobre preferência pessoais - e nós podemos nos voltar para Ann Landers para uma discussão sobre comportamentos socialmente preferíveis - aqui, então, focaremos na possibilidade de *Comportamentos Universalmente Preferíveis*.
 
-### Choice
+### Escolha
 
-If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+Se eu aceito seu convite para um jantar, mas eu acho a conversação altamente ofensiva, eu posso decidir me levantar e sair - e eu também posso escolher nunca mais aceitar outro convite seu. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
 
 If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
 
