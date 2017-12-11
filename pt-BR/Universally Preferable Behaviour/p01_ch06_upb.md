@@ -37,11 +37,11 @@ Se você correr em minha direção com uma faca levantada, poucas pessoas iriam 
 
 Determinadas condições tem que existir, ou serem aceitas, em ordem de julgamentos éticos ou teorias terem validade ou aplicabilidade. Claramente, escolha e responsabilidade pessoal tem que ser ambas aceitas como axiomas. Se uma rocha vem quicando por uma colina e quebra seu carro, nós não tomamos a rocha como moralmente responsável, já que ela não tem consciência, não pode escolher e, portanto, não pode possuir responsabilidade pessoal. Se a rocha deslocou-se simplesmente como resultado do tempo e da geológica via, então ninguém é responsável pelos danos resultantes do seu carro. Se, no entanto, você me viu empurrar a rocha para fora da sua posição, você não culparia a rocha, e sim eu. Para adicionar uma outra complicação, se fosse o caso de eu empurrar a rocha porque outro homem me forçou através de uma arma, você iria culpar quem estava com a arma, e não eu.
 
-Como discutimos acima, entrar em qualquer debate requer uma aceitação da realidade de escolha, valores e responsabilidade pessoal. No entanto, estes fatores também estão presentes na escolha da cor da tinta de um quarto, e dificilmente diríamos que selecionar uma matriz elétrica uma escolha *moral*. Thus there must be other criteria which must be present in order for a choice or proposition to be moral.
+Como discutimos acima, entrar em qualquer debate requer uma aceitação da realidade de escolha, valores e responsabilidade pessoal. No entanto, estes fatores também estão presentes na escolha da cor da tinta de um quarto, e dificilmente diríamos que selecionar uma matriz elétrica uma escolha *moral*. Assim, deve haver outros critérios que tem que estar presentes para que a escolha ou proposição seja moral.
 
-We all have preferences – from the merely personal (“I like ice cream”) to the socially preferable (“It is good to be on time”) to universal morality (“Thou shalt not murder”).
+Todos nós temos preferências - desde meramente pessoais ("eu gosto de sorvete") até socialmente preferíveis ("é bom ser pontual") até universalmente morais ("não matarás").
 
-There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
+Existe poucos motivos para escrever um livro sobre preferência pessoais - e nós podemos nos voltar para Ann Landers para uma discussão sobre comportamentos socialmente preferíveis - aqui, então, focaremos na possibilidade de *Comportamentos Universalmente Preferíveis*.
 
 ### Choice
 
