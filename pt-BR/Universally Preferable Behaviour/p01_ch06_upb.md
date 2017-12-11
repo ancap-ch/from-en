@@ -45,11 +45,11 @@ Existe poucos motivos para escrever um livro sobre preferência pessoais - e nó
 
 ### Escolha
 
-Se eu aceito seu convite para um jantar, mas eu acho a conversação altamente ofensiva, eu posso decidir me levantar e sair - e eu também posso escolher nunca mais aceitar outro convite seu. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+Se eu aceito seu convite para um jantar, mas eu acho a conversação altamente ofensiva, eu posso decidir me levantar e sair - e eu também posso escolher nunca mais aceitar outro convite seu. A capacidade de escapar e/ou evitar é uma característica essencial, diferenciando *estética* de *ética*.
 
-If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
+Se, no entanto, quando eu decidi deixar seu jantar, você salta e me acorrenta na cadeira, claramente e não tenho mais a liberdade de escolha de sair. Esse é o momento em que sua rudeza se torna uma evidente agressão, e cruza a linha de estética para ética.
 
-If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I have certainly done her wrong, but the wrong that I have done by cheating would be very different from the wrong I would do if I lock her in the basement to prevent her from leaving. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does.
+Se, após prometendo monogamia, eu trair minha esposa, e ela decidir me deixar, eu certamente fiz mal pra ela, mas o errado que eu fiz traindo ela seria bem diferente do errado que eu faria se eu trancá-la no porão para prevenir ela de me deixar. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does.
 
 ### Avoidance
 
