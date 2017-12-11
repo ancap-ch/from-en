@@ -17,13 +17,13 @@ Deixe-nos olhar para três ações, para nos ajudar a distinguir entre ética e 
 
 ### Irracionalidade
 
-Digamos que você e eu estamos tendo um debate sobre a existência de Deus. Depois que eu apresentei meus argumentos, você tampa suas orelhas com suas mãos, cantando que Deus está dizendo para você que ele existe, e portanto todos meus argumentos não significam nada. Claramente, sua resposta para a minha proposição é irracional. O quão irritante que eu poderia achar seu comportamento, no entanto, dificilmente pareceria razoável para mim desabafar minha frustração puxando uma arma e atirando em você. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Digamos que você e eu estamos tendo um debate sobre a existência de Deus. Depois que eu apresentei meus argumentos, você tampa suas orelhas com suas mãos, cantando que Deus está dizendo para você que ele existe, e portanto todos meus argumentos não significam nada. Claramente, sua resposta para a minha proposição é irracional. O quão irritante que eu poderia achar seu comportamento, no entanto, dificilmente pareceria razoável para mim desabafar minha frustração puxando uma arma e atirando em você. Eu acredito que é *universalmente preferível* usar lógica e evidência, ao invés de depender de vozes em nossas cabeças, mas essa preferência universal mãe é racionalmente forçavel no sentido *físico*, através de violência ou ameaça de prejuízo.
 
-### Lying
+### Mentir
 
-Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
+Digamos que você e eu definimos as regras para um debate, e ambos concordamos julgar a questão sobre a existência de Deus de acordo com a razão e a evidência. Se, enquanto o debate continua, você recuar para uma posição de fé cega, e rejeitar meus argumentos *apesar da* racionalidade e evidência, você não está mantendo sua palavra. Em outras palavras, você estava mentindo quando disse que a questão seria decidida pela razão e evidência.
 
-The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+A diferença entre essas duas situações (irracionalidade versus mentir) é a diferença entre um arranjo contratual e um não-contratual. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
 
 In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
 
