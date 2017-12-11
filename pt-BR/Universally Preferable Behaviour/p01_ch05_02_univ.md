@@ -20,15 +20,15 @@ Podemos examinar a questão biológica, bem como a silogística.
 
 Por exemplo, toda a matéria está sujeita a leis da física – e tudo o que vive é, além disso sujeito a certos requisitos e assim, se estiver vivo, deve ter seguido comportamentos universalmente preferidos. A vida, por exemplo, necessita de combustível e oxigênio. Qualquer mente viva, claro, é uma parte orgânica do mundo físico, e por isso está sujeito as leis físicas e deve ter seguido comportamentos universalmente preferíveis - argumentar de outra forma exigiria provas de que a consciência não é composta de matéria, e não é orgânica - uma impossibilidade, uma vez que tem massa, energia e vida. Argumentar que a consciência não está sujeita nem as leis físicas nem aos comportamentos universalmente preferidos seria como argumentar que humanos são imunes a gravidade, e podem florescer sem comer.
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+Assim, é impossível que alguém possa argumentar logicamente contra um comportamento universalmente preferível, desde que esteja vivo para argumentar, deve ter seguido um comportamento universalmente preferível tal como respirar, comer e beber.
 
-Syllogistically, this is:
+Silogisticamente, isto é:
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+1. Todos os organismos requerem um comportamento universalmente preferível para viver.
+2. O homem é um organismo vivo.
+3. Portanto, todos os homens vivos estão vivos devido à prática de um comportamento universalmente preferível.
+4. Portanto, qualquer argumento contra um comportamento universalmente preferível requer uma aceitação e prática de comportamento universalmente preferível.
+5. Portanto, nenhum argumento contra a validade do comportamento universalmente preferível pode ser válido.
 
 Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
 
