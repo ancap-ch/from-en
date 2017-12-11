@@ -25,17 +25,17 @@ Digamos que você e eu definimos as regras para um debate, e ambos concordamos j
 
 A diferença entre essas duas situações (irracionalidade versus mentir) é a diferença entre um arranjo contratual e um não-contratual. Se eu te entregar cem dólares e então ir embora, eu não posso justamente ir até você depois de um ano e dizer que agora você me deve cem dólares, porque foi um empréstimo. Se, por outro lado, você concordar em me pagar o dinheiro em um ano, e então falhar nisso, é uma situação bem diferente.
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+No exemplo de "mentir," embora você tenha claramente quebrado sua palavra, e desperdiçado meu tempo, não pareceria ser nem moral nem razoável para mim sacar uma arma e atirar em você.
 
-A reasonable moral theory should be able to explain why this is the case.
+Uma teoria moral razoável seria capaz de explicar porque esse é o caso.
 
-### Murder
+### Assassinato
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+Se você correr em minha direção com uma faca levantada, poucas pessoas iriam argumentar contra meu direito de me defender. Se atirar em você fosse o único jeito que eu poderia razoavelmente garantir minha segurança, isso seria geralmente considerado uma necessidade lamentável.
 
-### Requirements For Ethics
+### Requisitos Para a Ética
 
-Certain preconditions must exist, or be accepted, in order for ethical judgements or theories to have any validity or applicability. Clearly, choice and personal responsibility must both be accepted as axioms. If a rock comes bouncing down a hill and crashes into your car, we do not hold the rock morally responsible, since it has no consciousness, cannot choose, and therefore cannot possess personal responsibility. If the rock dislodged simply as a result of time and geology, then no one is responsible for the resulting harm to your car. If, however, you saw me push the rock out of its position, you would not blame the rock, but rather me. To add a further complication, if it turns out that I dislodged the rock because another man forced me to at gunpoint, you would be far more likely to blame the gun-toting initiator of the situation rather than me.
+Determinadas condições tem que existir, ou serem aceitas, em ordem de julgamentos éticos ou teorias terem validade ou aplicabilidade. Claramente, escolha e responsabilidade pessoal tem que ser ambas aceitas como axiomas. If a rock comes bouncing down a hill and crashes into your car, we do not hold the rock morally responsible, since it has no consciousness, cannot choose, and therefore cannot possess personal responsibility. If the rock dislodged simply as a result of time and geology, then no one is responsible for the resulting harm to your car. If, however, you saw me push the rock out of its position, you would not blame the rock, but rather me. To add a further complication, if it turns out that I dislodged the rock because another man forced me to at gunpoint, you would be far more likely to blame the gun-toting initiator of the situation rather than me.
 
 As we have discussed above, entering into any debate requires an acceptance of the realities of choice, values and personal responsibility. However, these factors are also present in the choice of the colour of paint for a room, yet we would scarcely say that selecting a hue is a *moral* choice. Thus there must be other criteria which must be present in order for a choice or proposition to be moral.
 
