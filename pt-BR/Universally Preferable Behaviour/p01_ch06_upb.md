@@ -23,7 +23,7 @@ Digamos que você e eu estamos tendo um debate sobre a existência de Deus. Depo
 
 Digamos que você e eu definimos as regras para um debate, e ambos concordamos julgar a questão sobre a existência de Deus de acordo com a razão e a evidência. Se, enquanto o debate continua, você recuar para uma posição de fé cega, e rejeitar meus argumentos *apesar da* racionalidade e evidência, você não está mantendo sua palavra. Em outras palavras, você estava mentindo quando disse que a questão seria decidida pela razão e evidência.
 
-A diferença entre essas duas situações (irracionalidade versus mentir) é a diferença entre um arranjo contratual e um não-contratual. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+A diferença entre essas duas situações (irracionalidade versus mentir) é a diferença entre um arranjo contratual e um não-contratual. Se eu te entregar cem dólares e então ir embora, eu não posso justamente ir até você depois de um ano e dizer que agora você me deve cem dólares, porque foi um empréstimo. Se, por outro lado, você concordar em me pagar o dinheiro em um ano, e então falhar nisso, é uma situação bem diferente.
 
 In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
 
