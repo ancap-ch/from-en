@@ -55,13 +55,13 @@ Se, após prometendo monogamia, eu trair minha esposa, e ela decidir me deixar, 
 
 Se você e eu estamos de pé no top de um penhasco, e eu me viro para você e digo, "fique na minha frente, assim eu posso te empurrar do penhasco," qual seria sua resposta? Se você voluntariamente ficar na minha frente, e então eu te empurrar, isso seria considerado mais uma forma de suicídio da sua parte, do que um assassinato da minha parte. A razão para isso é que você pode facilmente *evitar* ser empurrado do penhasco, simplesmente recusando ficar na minha frente.
 
-Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death,” if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
+Da mesma forma, se eu te encontrar em um bar, e disser: "eu quero que você vá para minha casa, assim eu posso te amarrar na cama e fazer você morrer de fome," se você de fato vier para minha casa, é com o conhecimento racional que sua longevidade não será reforçada pela sua decisão. Por outro lado, se eu colocar uma Boa-noite Cinderela na sua bebida, e você acordar amarrado na minha cama, é claro que há pouco que você poderia ter feito para evitar a situação.
 
-This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose.
+A questão da *evasão* é a chave para diferenciar estética de ética. Estética de aplica a situações que podem ser desagradáveis, mas não elimina sua capacidade de escolha.
 
-#### Avoidance And Initiation
+#### Evasão e Iniciação
 
-There is a particular issue with avoidance that will come up later in this book, which is worth clearing up here beforehand.
+Tem um problema particular com evasão que vai vir mais tarde neste livro, que vale a pena esclarecer aqui, de antemão.
 
 If I live on a high mountaintop five thousand kilometres away from you, and send you an e-mail telling you that if you ever walk in front of my house, I am going to shoot you, it is relatively easy for you to avoid this situation. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
 
