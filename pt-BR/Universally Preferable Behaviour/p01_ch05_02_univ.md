@@ -30,7 +30,7 @@ Silogisticamente, isto é:
 4. Portanto, qualquer argumento contra um comportamento universalmente preferível requer uma aceitação e prática de comportamento universalmente preferível.
 5. Portanto, nenhum argumento contra a validade do comportamento universalmente preferível pode ser válido.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+Uma vez que o método científico exige corroboração empírica, devemos também olhar para a realidade para confirmar nossas hipóteses - e aqui a validade do comportamento universalmente preferível é totalmente sustentada.
 
 Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
 
