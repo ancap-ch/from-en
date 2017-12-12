@@ -32,7 +32,7 @@ Silogisticamente, isto é:
 
 Uma vez que o método científico exige corroboração empírica, devemos também olhar para a realidade para confirmar nossas hipóteses - e aqui a validade do comportamento universalmente preferível é totalmente sustentada.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Todo ser humano saudável acredita em regras morais de algum tipo. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
 
 Or:
 
