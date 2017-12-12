@@ -32,11 +32,11 @@ Silogisticamente, isto é:
 
 Uma vez que o método científico exige corroboração empírica, devemos também olhar para a realidade para confirmar nossas hipóteses - e aqui a validade do comportamento universalmente preferível é totalmente sustentada.
 
-Todo ser humano saudável acredita em regras morais de algum tipo. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Todo ser humano saudável acredita em regras morais de algum tipo. Existem alguns desacordo sobre o que "constitui" as regras morais, mas todos estão certos de que as regras morais são válidas - assim como muitos cientistas discordam, mas todos os cientistas aceitam a validade do método científico em si. Pode-se argumentar que a Terra é redonda e não plana - o que é análogo a mudar a definição de moralidade - mas não se pode argumentar que a Terra não existe - que é como argumentar que não há tal coisa como comportamento universalmente preferível.
 
-Or:
+Ou:
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
+1. Para que uma teoria científica seja válida, ela deve ser apoiada por observações empíricas.
 2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
 3. All men believe in universally preferable behaviour.
 4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
