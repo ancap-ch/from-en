@@ -53,7 +53,7 @@ Se, após prometendo monogamia, eu trair minha esposa, e ela decidir me deixar, 
 
 ### Evasão
 
-Se você e eu estamos de pé no top de um penhasco, e eu me viro para você e digo, "fique na minha frente, assim eu posso te empurrar do penhasco," qual seria sua resposta? If you do voluntarily stand in front of me, and I then push you off the cliff, this would more likely be considered a form of suicide on your part, rather than murder on my part. The reason for this is that you can very easily *avoid* being pushed off the cliff, simply by refusing to stand in front of me.
+Se você e eu estamos de pé no top de um penhasco, e eu me viro para você e digo, "fique na minha frente, assim eu posso te empurrar do penhasco," qual seria sua resposta? Se você voluntariamente ficar na minha frente, e então eu te empurrar, isso seria considerado mais uma forma de suicídio da sua parte, do que um assassinato da minha parte. A razão para isso é que você pode facilmente *evitar* ser empurrado do penhasco, simplesmente recusando ficar na minha frente.
 
 Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death,” if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
 
