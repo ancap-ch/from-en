@@ -37,13 +37,13 @@ Todo ser humano saudável acredita em regras morais de algum tipo. Existem algun
 Ou:
 
 1. Para que uma teoria científica seja válida, ela deve ser apoiada por observações empíricas.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+2. Se o conceito de "comportamento universalmente preferível" é válido, então a humanidade deveria acreditar em comportamento universalmente preferíveis.
+3. Todos os homens acreditam em comportamento universalmente preferível.
+4. Portanto, evidência empírica existe para apoiar a validade do comportamento universalmente preferível - e a existência de tais provas "opostas" a proposição de que o comportamento universalmente preferível não é válido.
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+O quarto argumento para a validade do comportamento universalmente preferível é também empírico. Desde que os seres humanos têm um número quase infinito de escolhas a serem feitas na vida, para dizer que não há nenhum princípio de comportamento universalmente preferível seria dizer que todas as escolhas são iguais (isto é, subjetiva). No entanto, todas as escolhas "não" são iguais, quer logicamente ou através de observação empírica.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+Por exemplo, se o alimento está disponível, quase todos os seres humanos preferem comer todos os dias. Quando faz frio, quase todos os seres humanos buscam calor. Quase todos os pais escolhem alimentar, abrigar e educar seus filhos. Há muitos exemplos de escolhas comuns entre a humanidade, que indica que o comportamento universalmente preferível abunda e faz parte da natureza humana.
 
 As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
 
