@@ -45,16 +45,16 @@ O quarto argumento para a validade do comportamento universalmente preferível �
 
 Por exemplo, se o alimento está disponível, quase todos os seres humanos preferem comer todos os dias. Quando faz frio, quase todos os seres humanos buscam calor. Quase todos os pais escolhem alimentar, abrigar e educar seus filhos. Há muitos exemplos de escolhas comuns entre a humanidade, que indica que o comportamento universalmente preferível abunda e faz parte da natureza humana.
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+Como mencionada acima, nenhuma teoria válida da física pode repudiar o simples fato de que crianças podem pegar "fly-balls" – da mesma forma, nenhuma teoria válida de ética pode rejeitar as infinitas evidências para a aceitação do UPB.
 
-Or:
+Ou:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1. As escolhas são quase infinitas.
+2. A maioria dos seres humanos fazem escolhas muito semelhantes.
+3. Portanto, nem todas as escolhas podem ser iguais.
+4. Portanto, escolhas universalmente preferíveis devem ser válidas.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+O quinto argumento para a validade do comportamento universalmente preferível é evolutivo.
 
 Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
 
