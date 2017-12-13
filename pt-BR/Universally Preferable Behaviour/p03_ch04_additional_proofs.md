@@ -4,11 +4,11 @@ Existem outras provas que podemos trazer à tona sobre a questão do comportamen
 
 ### A economia de livre mercado
 
-Uma economia de livre mercado é, sem dúvida, o método mais eficiente e produtivo de organizar a produção e o consumo de bens dentro da sociedade. Its material success is without equal in human history, or across the world.
+Uma economia de livre mercado é, sem dúvida, o método mais eficiente e produtivo de organizar a produção e o consumo de bens dentro da sociedade. Seu sucesso material é sem igual na história humana, ou ao redor do mundo.
 
-The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
+A estrutura do UPB antecipa, valida e explica as razões para o sucesso material de uma economia de livre mercado.
 
-In theory, a free-market economy is based on the application of a universal theory of property rights. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+Em teoria, uma economia de livre mercado baseia-se na aplicação universal da teoria dos direitos de propriedade. Em contraste, o comunismo é baseado na explícita rejeição da teoria universal dos direitos de propriedade. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
 
 Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
 
