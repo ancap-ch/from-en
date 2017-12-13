@@ -73,7 +73,7 @@ Poderíamos trazer muito mais argumentos para apoiar a existência e a validade 
 
 #### UPB: Opcional e objetivo
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Uma vez que provamos a validade do comportamento universalmente preferível, a questão da moralidade agora muda. Desde que a moralidade "é" válida, que teorias podem quantificar, classificar, explicar e prever isso?
 
 First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
 
