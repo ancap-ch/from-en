@@ -8,7 +8,7 @@ Uma economia de livre mercado é, sem dúvida, o método mais eficiente e produt
 
 A estrutura do UPB antecipa, valida e explica as razões para o sucesso material de uma economia de livre mercado.
 
-Em teoria, uma economia de livre mercado baseia-se na aplicação universal da teoria dos direitos de propriedade. Em contraste, o comunismo é baseado na explícita rejeição da teoria universal dos direitos de propriedade. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+Em teoria, uma economia de livre mercado baseia-se na aplicação universal da teoria dos direitos de propriedade. Em contraste, o comunismo é baseado na explícita rejeição da teoria universal dos direitos de propriedade. Já que provamos acima que os direitos universais de propriedade é a única teoria moral válida, isto explica no nível mais fundamental porque o comunismo é um desastre, enquanto economias de livre mercado são tão materialmente produtivas.
 
 Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
 
