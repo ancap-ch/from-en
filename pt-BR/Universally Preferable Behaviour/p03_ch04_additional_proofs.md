@@ -14,7 +14,7 @@ Já que os seres humanos *, de fato*, tem direitos igual de propriedade, qualque
 
 ### O Método Científico
 
-Logic and science are in fact methodologies which exist – along with morality – under the umbrella of UPB. In other words, logic and science are both validated by the framework of UPB.
+Lógica e ciência são, na verdade, metodologias que existem - juntamente com a moralidade - sobre a coberta da UPB. Em outras palavras, lógica e ciência são ambas validadas pela estrutura da UPB.
 
 A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
 
