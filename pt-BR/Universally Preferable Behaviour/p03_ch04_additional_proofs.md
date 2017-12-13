@@ -10,9 +10,9 @@ A estrutura do UPB antecipa, valida e explica as razões para o sucesso material
 
 Em teoria, uma economia de livre mercado baseia-se na aplicação universal da teoria dos direitos de propriedade. Em contraste, o comunismo é baseado na explícita rejeição da teoria universal dos direitos de propriedade. Já que provamos acima que os direitos universais de propriedade é a única teoria moral válida, isto explica no nível mais fundamental porque o comunismo é um desastre, enquanto economias de livre mercado são tão materialmente produtivas.
 
-Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
+Já que os seres humanos *, de fato*, tem direitos igual de propriedade, qualquer sistema social que rejeite esse direito está fadado ao fracasso - assim como qualquer engenheiro de pontes que rejeita a gravidade nunca será capaz de construir uma ponte que fique fique em pé.
 
-### The Scientific Method
+### O Método Científico
 
 Logic and science are in fact methodologies which exist – along with morality – under the umbrella of UPB. In other words, logic and science are both validated by the framework of UPB.
 
