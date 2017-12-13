@@ -1,10 +1,10 @@
-## Additional Proofs
+## Provas adicionais
 
-There are other additional proofs that we can bring to bear on the question of universally preferable behaviour.
+Existem outras provas que podemos trazer à tona sobre a questão do comportamento universalmente preferível.
 
-### The Free-Market Economy
+### A economia de livre mercado
 
-A free-market economy is without a doubt the most efficient and wealth-producing method of organising the production and consumption of goods and resources within society. Its material success is without equal in human history, or across the world.
+Uma economia de livre mercado é, sem dúvida, o método mais eficiente e produtivo de organizar a produção e o consumo de bens dentro da sociedade. Its material success is without equal in human history, or across the world.
 
 The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
 
