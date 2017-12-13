@@ -63,15 +63,15 @@ Desde que o homem é a espécie mais bem sucedida, e o órgão mais distintivo d
 Ou:
 
 1. Organismos obtiveram sucesso agindo de acordo com os comportamentos universalmente preferíveis.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+2. O homem é o mais bem-sucedido organismo.
+3. Portanto, homem deve ter agido com mais êxito com base no comportamento universalmente preferível.
+4. A mente do homem é seu órgão mais distintivo.
+5. Portanto, a mente do homem deve ter agido com mais êxito com base no comportamento universalmente preferível.
+6. Portanto, comportamento universalmente preferível deve ser válido.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+Poderíamos trazer muito mais argumentos para apoiar a existência e a validade do UPB, mas devemos descansar nosso caso com o acima exposto e mover-se para um exame da natureza do UPB.
 
-#### UPB: Optional And Objective
+#### UPB: Opcional e objetivo
 
 Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
 
