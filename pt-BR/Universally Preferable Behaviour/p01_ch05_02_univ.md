@@ -75,7 +75,7 @@ Poderíamos trazer muito mais argumentos para apoiar a existência e a validade 
 
 Uma vez que provamos a validade do comportamento universalmente preferível, a questão da moralidade agora muda. Desde que a moralidade "é" válida, que teorias podem quantificar, classificar, explicar e prever isso?
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+Em primeiro lugar, devemos lembrar que a moral é claramente opcional. Todo homem está sujeito à gravidade e exige comida para viver, mas nenhum homem tem que agir moralmente. Se eu estuprar, roubar ou matar, nenhum raio me derruba. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
 
 The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
 
