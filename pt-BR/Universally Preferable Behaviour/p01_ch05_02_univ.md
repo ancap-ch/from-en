@@ -81,7 +81,7 @@ O fato de que o cumprimento das regras morais é "opcional", no entanto, confund
 
 Organismos vivos são parte da realidade material, e realidade material é racional e objetiva. Aplicar teorias morais é opcional, mas isso não significa que todas as teorias morais são subjetivas. O método científico também é opcional, mas não é subjetivo. Aplicar classificações biológicas é opcional, mas biologia não é subjetiva. Escolhas são opcionais: consequências não. Posso escolher não comer, mas não posso escolher viver sem comer. Posso escolher decapitar alguém, mas não posso escolher se eles podem ou não viver sem cabeça. Moralidade é, portanto, opcional, mas os "efeitos" das escolhas morais são mensuráveis e objetivos.
 
-Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
+Agora, uma vez que a moralidade é um conceito válido, a pergunta seguinte é: até que ponto ou extensão a moralidade é válida?
 
 As mentioned above, the first test of any scientific theory is *universality*. Just as a theory of physics must apply to *all* matter, a moral theory that claims to describe the preferable actions of mankind *must apply to **all** mankind*. No moral theory can be valid if it argues that a certain action is *right* in Syria, but *wrong* in San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. If it does, it is false and must be refined or discarded.
 
