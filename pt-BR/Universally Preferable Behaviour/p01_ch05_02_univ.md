@@ -58,11 +58,11 @@ O quinto argumento para a validade do comportamento universalmente preferível �
 
 Uma vez que toda a vida orgânica requer comportamento universalmente preferível para sobreviver, podemos assumir que os organismos que fazem as escolhas mais bem sucedidas são os mais frequentemente selecionados para a sobrevivência.
 
-Desde que o homem é a espécie mais bem sucedida, e o órgão mais distintivo do homem é sua mente, deve ser a "mente" do homem que o ajudou mais a fazer escolhas bem-sucedidas. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+Desde que o homem é a espécie mais bem sucedida, e o órgão mais distintivo do homem é sua mente, deve ser a "mente" do homem que o ajudou mais a fazer escolhas bem-sucedidas. A mente em si, então, foi selecionada como bem-sucedida por sua própria capacidade de fazer escolhas bem-sucedidas. Desde que a mente humana só existe como "resultado" da escolha de um comportamento universalmente preferível, o comportamento universalmente preferível deve ser um conceito válido.
 
-Or:
+Ou:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
+1. Organismos obtiveram sucesso agindo de acordo com os comportamentos universalmente preferíveis.
 2. Man is the most successful organism.
 3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
 4. Man’s mind is his most distinctive organ.
