@@ -1,8 +1,8 @@
 ## Paralelos
 
-Antes da Revolução científica, considerava-se inconcebível que o mundo natural pudesse se sustentar sem uma entidade "moral" e consciente em seu centro. O sol nasceu arrastando as correntes de uma carruagem supernatural; a lua era um frio e solitário irmão do sol. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Antes da Revolução científica, considerava-se inconcebível que o mundo natural pudesse se sustentar sem uma entidade "moral" e consciente em seu centro. O sol nasceu arrastando as correntes de uma carruagem supernatural; a lua era um frio e solitário irmão do sol. Constelações delineavam os contos e sepulturas dos deuses, e tempestades vinham da fúria dos deus.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+A ideia de que a natureza era um sistema auto-sustentável e auto-gerado era quase inimaginável. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
 
 Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
 
