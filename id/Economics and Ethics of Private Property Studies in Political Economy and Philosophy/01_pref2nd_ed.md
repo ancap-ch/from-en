@@ -4,7 +4,7 @@ Edisi pertama *Ekonomi dan Etika Harta Persendirian*, yang diterbitkan pada tahu
 
 *Ekonomi dan Etika pada Milik pribadi* didedikasikan untuk guru saya dan penasehat pribadi, Murray N. Rothbard, dengan siapa saya telah rapat berkaitan itu ketika sepuluh tahun terakhir dalam hidupnya, dulu sebagai sebuah kunjungan sarjana dilembaga Politeknik Brooklyn di kota new york dan setelah 1986 sebagai rekan di sebuah Universitas di Nevada, Las Vegas. Tahun 2005 menandai ulang kesepuluh kematian Rothbard. Dengan demikian, rasanya waktu yang paling tepat untuk menghormati Murray sekali lagi dengan edisi kedua ini.
 
-Menyajikan edisi dari*ekonomi dan etika dari milik pribadi* diperbesar. Ini menambahkan empat artikel tertulis setelah publikasi buku asli akan tetapi berhubungan secara teratur pada pusat pokok Masalah Dasar ekonomi dan etika lembaga milik pribadi-bab 6, 7, 8, dan 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+Menyajikan edisi dari*ekonomi dan etika dari milik pribadi* diperbesar. Ini menambahkan empat artikel tertulis setelah publikasi buku asli akan tetapi berhubungan secara teratur pada pusat pokok Masalah Dasar ekonomi dan etika lembaga milik pribadi-bab 6, 7, 8, dan 15. Kesempatan untuk edisi baru juga telah digunakan untuk membuat perbaikan dan revisi editorial yang penting.
 
 Hans Hermann Hoppe
 
