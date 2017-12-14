@@ -1,6 +1,6 @@
 ## Paralelos
 
-Antes da Revolução científica, considerava-se inconcebível que o mundo natural pudesse se sustentar sem uma entidade "moral" e consciente em seu centro. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Antes da Revolução científica, considerava-se inconcebível que o mundo natural pudesse se sustentar sem uma entidade "moral" e consciente em seu centro. O sol nasceu arrastando as correntes de uma carruagem supernatural; a lua era um frio e solitário irmão do sol. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
 
 The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
 
