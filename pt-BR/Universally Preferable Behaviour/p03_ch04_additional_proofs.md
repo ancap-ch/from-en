@@ -16,13 +16,13 @@ Já que os seres humanos *, de fato*, tem direitos igual de propriedade, qualque
 
 Lógica e ciência são, na verdade, metodologias que existem - juntamente com a moralidade - sobre a coberta da UPB. Em outras palavras, lógica e ciência são ambas validadas pela estrutura da UPB.
 
-A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
+Uma questão central que precisa ser respondida é: *por que o método científico é infinitamente superior à outras "metodologias" de aquisição de conhecimento, como o misticismo? *
 
-UPB answers this question.
+O UPB responda a esta pergunta.
 
-Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
+Uma vez que qualquer metodologia para a aquisição de conhecimento deve ser universal, consistente e independente de tempo e lugar, o método científico atende a esses requisitos, enquanto o irracional e subjetivo misticismo é o exato oposto desses requisitos.
 
-### Public Education
+### Educação pública
 
 One central principle of free market economics is that quality only really results from *voluntarism*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
 
