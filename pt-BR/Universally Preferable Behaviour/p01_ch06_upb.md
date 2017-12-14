@@ -63,9 +63,9 @@ A questão da *evasão* é a chave para diferenciar estética de ética. Estéti
 
 Tem um problema particular com evasão que vai vir mais tarde neste livro, que vale a pena esclarecer aqui, de antemão.
 
-If I live on a high mountaintop five thousand kilometres away from you, and send you an e-mail telling you that if you ever walk in front of my house, I am going to shoot you, it is relatively easy for you to avoid this situation. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
+Se eu moro no topo de uma montanha bem alta à cinco mil quilômetros de distância de você, e eu te mando um e-mail falando que se você é andar na frente da minha casa, eu vou atirar em você, é relativamente fácil para você evitar essa situação. Meu uso da força é certamente imoral, mas questões seriam certamente levantadas se vi e imediatamente entrasse em um avião, escalasse minha montanha e lentamente andasse na frente da minha casa.
 
-On the other hand, if you live on a dead-end street, and I tell you that if you take that street to get home, I will shoot you, your capacity to avoid this situation becomes significantly limited. You could certainly tunnel into your house, or jump over a bunch of backyard fences, but all of this would be considerably inconvenient.
+Por outro lado, se você vivesse em uma rua sem saída, e eu te falasse que se você pegar essa rua para chegar em casa, eu iria te atirar, sua capacidade de evitar a situação se torna significantemente limitada. You could certainly tunnel into your house, or jump over a bunch of backyard fences, but all of this would be considerably inconvenient.
 
 In a similar manner, if a representative of organised crime comes to my house and threatens to burn it down if I do not pay regular protection money, I can avoid that specific threat by moving to another continent, but that would seem like a rather unjust way to deal with the situation, since I must now initiate action in order to avoid the threat.
 
