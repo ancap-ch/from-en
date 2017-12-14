@@ -28,46 +28,46 @@ tag_prefix: "https://en.ancap.ch/tags/"
 persons:
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "author"
+    identifier: "template_pribadi"
+    rule: "pencipta"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "collaborator"
+    identifier: "template_pribadi"
+    rule: "kerja sama"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "thanked"
+    identifier: "template_pribadi"
+    rule: "menyatakan terima kasih"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "translator"
+    identifier: "template_pribadi"
+    rule: "penterjemah"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "reviwer"
+    identifier: "template_pribadi"
+    rule: "komentator"
   - 
     person_: [ ]
-    identifier: "template_person"
-    rule: "cover_artist"
+    identifier: "template_pribadi"
+    rule: "sampul_seniman"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "artist"
+    identifier: "template_pribadi"
+    rule: "seniman"
 resources:
   - 
     resource: [ ]
-    rule: "front_cover"
-    content: "cover.png"
+    rule: "depan_sampul"
+    content: "sampul.png"
     websites:
-      - Resource website
-    description: Resource description
+      - Sumber situs web
+    description: Sumber keterangan
     persons:
-      - template_person
+      - template_pribadi
 targets:
   - 
     target: [ ]
-    name: article
+    name: artikel
     reset_footer_active: false
     reset_footer_depth: 0
     clear_page_active: true
