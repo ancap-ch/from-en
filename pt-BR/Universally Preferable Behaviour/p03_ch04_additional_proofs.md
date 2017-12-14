@@ -28,8 +28,8 @@ Um princípio central do livre mercado é o de que qualidade só resulta de * vo
 
 A iniciação do uso de força é sempre contrária a qualquer teoria moral racional - é uma específica e explícita violação do UPB. Uma vez que escolas públicas são financiadas através da iniciação do uso da força, elas são uma forma de *associação forçada*, que é uma clara violação da *liberdade de associação* validada pela UPB.
 
-Since force violates the moral requirement of *avoidability* – and a lack of avoidability always breeds poor quality – UPB would help us easily predict that public schools would provide education of low quality.
+Já que a força viola a exigência moral de *evitabilidade* - e uma falta de evitabilidade sempre gera má qualidade - UPB ajudaria-nos facilmente prever que as escolas públicas proporcionam educação de baixa qualidade.
 
-Furthermore, UPB would also have helped us predict that, as more and more force was used in the realm of public education – as taxes, union compulsions and so on escalated – the quality of the education provided would get worse and worse.
+Ademais, UPB também nos teria ajudado em prever isso, enquanto mais e mais força foi usada no campo da educação pública - á medida em que os impostos, uniões compulsórias escalaram - a qualidade da educação provida ficaria pior e pior.
 
-This, of course, was – and is – exactly the case.
+Isto, claro, era - e é - exatamente o caso.
