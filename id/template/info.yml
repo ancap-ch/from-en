@@ -2,23 +2,23 @@
 content_files:
   - content.md
 translation:
-  language: en
+  language: nut
   is_translation: false
   this_project_url: ""
   fetch_translators: true
   fetch_reviwers: true
   fetch_progress: true
 titles:
-  - Text title
-  - '~~Centered~~'
-  - '~~~~~the right'
+  - Judul teks
+  - '~~terpusat~~'
+  - '~~~~~yang benar'
 discussions:
   - 
-    - 'https://en.ancap.ch/t/17'
+    - https://en.ancap.ch/t/17
     - Ancap Channel
 more_infos:
   - 
-    - 'https://www.google.com'
+    - https://www.google.com
     - Website name
 tags:
   - Some Tag
