@@ -2,7 +2,7 @@
 
 Antes da Revolução científica, considerava-se inconcebível que o mundo natural pudesse se sustentar sem uma entidade "moral" e consciente em seu centro. O sol nasceu arrastando as correntes de uma carruagem supernatural; a lua era um frio e solitário irmão do sol. Constelações delineavam os contos e sepulturas dos deuses, e tempestades vinham da fúria dos deus.
 
-A ideia de que a natureza era um sistema auto-sustentável e auto-gerado era quase inimaginável. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+A ideia de que a natureza era um sistema auto-sustentável e auto-gerado era quase inimaginável. A revolução Darwiniana, a ideia de que a vida não foi criada, mas evoluiu, trouxe essa ideia do mundo material para o biológico.
 
 Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
 
