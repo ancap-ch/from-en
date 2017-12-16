@@ -93,7 +93,7 @@ O teste final que qualquer teoria moral deve passar é o critério de observaç�
 
 #### UPB: A prática
 
-Como é que isso tudo funciona na prática? Let’s look at how the requirement for *universality* affects moral theories. We shall touch here on proofs and disproofs for specific moral propositions, which we shall examine in more detail in Part Two.
+Como é que isso tudo funciona na prática? Vamos ver como a exigência de "universalidade" afeta as teorias morais. Veremos aqui as provas e refutações para proposições morais especificas, que devemos examinar mais detalhadamente na Parte Dois.
 
 If I say that gravity affects matter, it must affect *all* matter. If even one pebble proves immune to gravity, my theory is in trouble. If I propose a moral theory that argues that people should not murder, it must be applicable to *all* people. If certain people (such as soldiers) are exempt from that rule, then I have to either prove that soldiers are *not* people, or accept that my moral theory is false. There is no other possibility. On the other hand, if I propose a moral theory that argues that all people *should* murder, then I have saved certain soldiers, but condemned to evil all those *not* currently murdering someone (including those being murdered!) – which is surely incorrect.
 
