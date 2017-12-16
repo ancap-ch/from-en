@@ -91,9 +91,9 @@ No entanto, desde que as teorias morais se aplicam a humanidade, e a humanidade 
 
 O teste final que qualquer teoria moral deve passar é o critério de observação empírica. Por exemplo, uma teoria moral deve explicar a prevalência universal de crenças morais entre a humanidade, bem como os resultados divergentes de "experimentos" morais humanos como fascismo, comunismo ou capitalismo. Deve também explicar alguns fatos básicos da sociedade humana, assim como o fato do poder do estado sempre aumentar, ou aquele propaganda tendem a aumentar conforme o poder do estado aumenta. Se não conseguir explicar o passado, compreender o presente ou predizer o futuro, então deve ser rejeitado como inválido.
 
-#### UPB: The Practice
+#### UPB: A prática
 
-How does all this look in practice? Let’s look at how the requirement for *universality* affects moral theories. We shall touch here on proofs and disproofs for specific moral propositions, which we shall examine in more detail in Part Two.
+Como é que isso tudo funciona na prática? Let’s look at how the requirement for *universality* affects moral theories. We shall touch here on proofs and disproofs for specific moral propositions, which we shall examine in more detail in Part Two.
 
 If I say that gravity affects matter, it must affect *all* matter. If even one pebble proves immune to gravity, my theory is in trouble. If I propose a moral theory that argues that people should not murder, it must be applicable to *all* people. If certain people (such as soldiers) are exempt from that rule, then I have to either prove that soldiers are *not* people, or accept that my moral theory is false. There is no other possibility. On the other hand, if I propose a moral theory that argues that all people *should* murder, then I have saved certain soldiers, but condemned to evil all those *not* currently murdering someone (including those being murdered!) – which is surely incorrect.
 
