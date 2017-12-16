@@ -22,7 +22,7 @@ Agora vamos ver um conjunto de provas favoráveis ao CUP.
 
 ### CUP E Validade
 
-Um dos desafios centrais enfrentados pelos filósofos modernos é a necessidade de provar que as regras morais são possíveis e universais. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
+Um dos desafios centrais enfrentados pelos filósofos modernos é a necessidade de provar que as regras morais são possíveis e universais. Até que as regras morais podem ser submetidas ao mesmo rigor e lógica como qualquer outra preposição, nós nos frustaremos sempre pelo subjetivismo, pelos preconceitos políticos e pelo pragmático "argumento de efeito".
 
 The closest historical analogy to our present situation occurred in the fifteenth and sixteenth centuries, during the rise of the scientific method. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
 
