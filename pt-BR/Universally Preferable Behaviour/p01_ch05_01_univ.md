@@ -4,13 +4,13 @@ Como resultado dos argumentos acima, podemos ver que é impossível entrar em qu
 
 Eu uso a palavra “comportamento” aqui em vez de “pensamento” porque é importante diferenciar entre estados puramente internos e não verificáveis como “pensando” de estados objetivos e verificáveis como “agindo”,”escrevendo” e “falando.”
 
-É impossível provar que eu sonhei com um elefante noite passada. É impossível probar que eu tinha escrito a palavra “elefante,” e é por isso que eu uso a palavra “comportamento” em vez de “pensamento.”
+É impossível provar que eu sonhei com um elefante noite passada. É impossível provar que eu tinha escrito a palavra “elefante,” e é por isso que eu uso a palavra “comportamento” em vez de “pensamento.”
 
 Permitir que a lógica superior seja um argumento é uma "ação". Se, o tempo todo eu concedesse um ponto a você, eu não dissesse nada, mas apenas ficasse parado inexpressivo te olhando, você acharia um pouco irritante debater comigo. Para conceder um ponto, eu devo executar a ação da acquiescência verbal.
 
 Portanto pode-se observar que, inerente ao próprio ato de argumentar existem algumas premissas que não podem ser concebivelmente derrubadas.
 
-Se eu te pedir para me encontrar na quadra de tênis e aparecer com um rifle de caça, podemos acabar jogando quanquer tipo de jogo, mas com certeza não vai ser tênis. Quando eu te peço para jogarmos tênis, implicitamente neste pedido está a aceitação das regras do tênis.
+Se eu te pedir para me encontrar na quadra de tênis e aparecer com um rifle de caça, podemos acabar jogando qualquer tipo de jogo, mas com certeza não vai ser tênis. Quando eu te peço para jogarmos tênis, implicitamente neste pedido está a aceitação das regras do tênis.
 
 Historicamente, aqueles que entraram em debates éticos costumavam falhar em manter essa realidade básica.
 
