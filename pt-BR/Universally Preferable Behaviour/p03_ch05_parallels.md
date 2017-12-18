@@ -4,25 +4,25 @@ Antes da Revolução científica, considerava-se inconcebível que o mundo natur
 
 A ideia de que a natureza era um sistema auto-sustentável e auto-gerado era quase inimaginável. A revolução Darwiniana, a ideia de que a vida não foi criada, mas evoluiu, trouxe essa ideia do mundo material para o biológico.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Antes da ciência, no centro de todo sistema complexo jazia uma consciência virtuosa - sem a qual esse sistema adentraria o caos, e deixaria de ser.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Infelizmente, essa "consciência virtuosa" era somente uma ilusão, para colocar de maneira mais suave. Nenhum desses deuses existiam - tudo que *haviam* era o pronunciamento de padres. Assim, o que realmente jazia no centro era o viés de indivíduos racionais, que não tinham ideia de quão louco realmente eram.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+Nós ainda temos de aplicar essa mesma iluminação às nossas concepções de sociedade - mas é tão *essencial* agora, que fazemos.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+Nós consideramos essencial que, no centro da sociedade, coloquemos um entidade chamado "o governo". Na ausência dessa entidade, nós consideramos axiomático que nossa sociedade irá imergir em caso, e deixar de ser - assim como nossos antepassados consideravam que, na ausência de deuses, o universo em si entraria em colapso, e deixaria de existir.
 
-However, “the government” no more exists than “god” exists.
+No entanto, "o governo" não mais existe do que "Deus" existe.
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+Quando falamos em "deuses", nós estamos falando realmente das "opiniões dos padres"
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+Quando falamos do "governo", queremos*realmente* dizer "a violência de uma pequena minoria".
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+A ideia de "ordem espontânea", que está muito bem estabelecida nos campos da física e da biologia, permanece em grande medida, inconcebível para nós no reino da sociedade.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+No entanto, "governos" não mais são necessários para a organização da sociedade do que "deuses" são necessários para a organização e continuidade do universo.
 
-In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+Na verdade, assim como as religiões impediram o progresso da ciência, governos também impedem o progresso da sociedade. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
 
 Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
 
