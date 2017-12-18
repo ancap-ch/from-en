@@ -22,19 +22,19 @@ A ideia de "ordem espontânea", que está muito bem estabelecida nos campos da f
 
 No entanto, "governos" não mais são necessários para a organização da sociedade do que "deuses" são necessários para a organização e continuidade do universo.
 
-Na verdade, assim como as religiões impediram o progresso da ciência, governos também impedem o progresso da sociedade. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+Na verdade, assim como as religiões impediram o progresso da ciência, governos também impedem o progresso da sociedade. Assim como as ilusões de*religião* causou a morte de centenas de milhões de pessoas ao longo da história, as ilusões de um *governo* também.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+Assim como a falsa ética de religiões "justifica" todas as formas de abuso, corrupção e violência, assim faz a falsa ética de governos. Quando escolhemos viver sob fantasia, nós inevitavelmente escolhes destruição, de uma forma ou de outra.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+Quando escolhemos reger a sociedade de acordo com mitologias morais religiosas, nós acabamos em guerras, violência, repressão, abuso, corrupção e hipocrisia sem fim.
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+Quando escolhemos reger a sociedade de acordo com mitologias morais *estatistas*, os resultados não são diferentes.
 
-We can either choose virtue or compulsion.
+Nós só podemos escolher entre virtude ou compulsão.
 
-We cannot have both.
+Não podemos ter os dois.
 
-### Solutions
+### Soluções
 
 We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
 
