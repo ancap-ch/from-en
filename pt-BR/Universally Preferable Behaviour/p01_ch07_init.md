@@ -4,15 +4,15 @@ Uma teoria moral razoável deve ser capaz de explicar todos os padrões universa
 
 Se a estrutura do UPB pode explicar as coisas acima, então ele terá certamente passado pelo menos o teste de "senso comum".
 
-This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
+Isso não significa que algumas conclusões surpreendentes – até mesmo chocantes – não podem resultar da nossa teoria moral, mas pelo menos nós devemos ter passado o primeiro obstáculo de explicar o óbvio, antes de analisar isso que está longe de ser óbvio.
 
-With that in mind, let us turn to the question of *initiation*.
+Com isso em mente, passemos à questão da *iniciação*.
 
-A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
+Um cirurgião pode "cortar" com um bisturi, mas é fácil compreender que a ação dele é muito diferente de um assaltante que te corta com uma faca.
 
-This difference can be understood through a further analysis of *initiation*.
+Esta diferença pode ser compreendida através de uma análise mais profunda da *iniciação*.
 
-If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+Se você pegar câncer, você pode pedir a um cirurgião para que ele te opere. A razão pela qual o ato de "cortar" do cirurgião não é imoral é porque o câncer "iniciou" um ataque à sua vida e saúde. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
 
 The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
 
