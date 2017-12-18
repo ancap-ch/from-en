@@ -1,8 +1,8 @@
 ## Inicialização
 
-A reasonable moral theory should be able to explain all of the above universal standards, just as a reasonable theory of physics should be able to explain how a man can unconsciously calculate the arc of a thrown baseball, and catch it.
+Uma teoria moral razoável deve ser capaz de explicar todos os padrões universais acima, assim como uma teoria razoável da física deve ser capaz de explicar como um homem pode inconscientemente calcular o arco de uma bola lançada e pegá-la.
 
-If the framework of UPB can explain the above, then it will certainly have passed at least the “common sense” test.
+Se a estrutura do UPB pode explicar as coisas acima, então ele terá certamente passado pelo menos o teste de "senso comum".
 
 This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
 
