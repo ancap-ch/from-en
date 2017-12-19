@@ -129,7 +129,7 @@ Em conclusão, é seguro dizer que (a) regras morais são válidas, e (b) teoria
 
 #### UPB: O Framework
 
-UPB can thus be seen as a framework for validating ethical theories or propositions – just as the scientific method is a framework that is used to validate scientific theories or propositions.
+O UPB pode portanto, ser visto como um framework para validar teorias éticas ou proposições - assim como o método científico é um framework que é usado para validar teorias científicas ou proposições.
 
 An example of a moral proposition is: “the initiation of the use of force is wrong.” UPB is the methodology that tests that proposition against both internal consistency and empirical observation. UPB thus first asks: *is the proposition logical and consistent?* UPB then asks: *what evidence exists for the truth of the proposition?*
 
