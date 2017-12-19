@@ -24,16 +24,16 @@ Por outro lado, se eu ficar em casa todas as noites, eu não estou exatamente ch
 
 ### O princípio de não-agressão (PNA)
 
-Uma regra moral é geralmente proposta ser chamada de o *princípio de não-agressão*, ou PNA. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+Uma regra moral é geralmente proposta ser chamada de o *princípio de não-agressão*, ou PNA. É também chamado de ser um "pacifista porco-espinho", na medida em que um porco espinho só usa "força" em legítima defesa. o NAP é basicamente a proposição de que "a iniciação do uso da força é moralmente errada." Ou, para colocar em termos da nossa conversa: "a não-iniciação da força é preferível universalmente".
 
-When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
+Quando analisamos um princípio como o NAP, na verdade existem apenas sete possibilidades: três negativas, três positivas e uma neutra:
 
-- The initiation of the use of force is always morally wrong.
-- The initiation of the use of force is sometimes morally wrong.
-- The initiation of the use of force is never morally wrong.
-- The initiation of the use of force has no moral content.
-- The initiation of the use of force is never morally right.
-- The initiation of the use of force is sometimes morally right.
+- A iniciação do uso da força é sempre moralmente errada.
+- A iniciação do uso da força, às vezes é moralmente errada.
+- A iniciação do uso da força nunca é moralmente errada.
+- A iniciação do uso da força não tem a ver com moral.
+- A iniciação do uso da força nunca é moralmente correto.
+- A iniciação do uso da força as vezes é moralmente correto.
 - The initiation of the use of force is always morally right.
 
 As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
