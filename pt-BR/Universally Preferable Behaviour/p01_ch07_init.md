@@ -38,12 +38,12 @@ Quando analisamos um princípio como o NAP, na verdade existem apenas sete possi
 
 Como já vimos acima, no entanto, o UPB é uma estrutura "tudo ou nada". Se uma ação é *universalmente preferível*, então ela não pode ser limitada pelo indivíduo, geografia, tempo etc. Se é errado matar em Argel, então também é errado matar na Bélgica, Estados Unidos, no Polo Norte e na lua. Se é errado matar ontem, então não é certo matar amanhã. Se é errado o João assassinar alguém, então deve também ser errado a Maria assassinar.
 
-Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
+Unindo o PNA com o UPB, assim, podemos diminuir aquelas afirmações de sete para três:
 
-1. It is universally preferable to initiate the use of force.
-2. It is universally preferable to not initiate the use of force.
-3. The initiation of the use of force is not subject to universal preferences.
+1. É universalmente preferível iniciar o uso da força.
+2. É universalmente preferível não iniciar o uso da força.
+3. A iniciação do uso de força não está sujeita a preferências universais.
 
-This is the natural result of applying the requirement of rational consistency to ethical propositions. A rational theory cannot validly propose that opposite results can occur from the same circumstances. A scientific theory cannot argue that one rock must fall down, but another rock must fall up. Einstein did not argue that E=MC^2^ on a Thursday, but that E=MC^3^ on a Friday, or on Mars, or during a blue moon. The law of conservation – that matter can be neither created nor destroyed – does not hold true only when you really, really want it to, or if you pay a guy to make it so, or when a black cat crosses your path. The laws of physics are not subject to time, geography, opinion or acts of Congress. This consistency must also be required for systems of ethics, or UPB, and we will subject generally accepted moral theories to this rigour in Part Two, in a few pages.
+Este é o resultado natural de aplicar a exigência de coerência racional a proposições éticas. Uma teoria racional não pode validamente propor que resultados opostos podem ocorrer nas mesmas circunstâncias. Uma teoria científica não pode argumentar que uma pedra deve cair, mas outra pedra deve subir. Einstein não argumentou que E=MC² acontece na quinta-feira, que E=MC³ acontece numa sexta-feira, ou em Marte ou durante uma lua azul. The law of conservation – that matter can be neither created nor destroyed – does not hold true only when you really, really want it to, or if you pay a guy to make it so, or when a black cat crosses your path. The laws of physics are not subject to time, geography, opinion or acts of Congress. This consistency must also be required for systems of ethics, or UPB, and we will subject generally accepted moral theories to this rigour in Part Two, in a few pages.
 
 However, since we are dealing with the question of *consistency*, it is well worth taking the time to deal with our capacity for *inconsistency*.
