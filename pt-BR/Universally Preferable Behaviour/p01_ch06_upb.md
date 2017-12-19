@@ -85,4 +85,4 @@ Há um fenómeno conhecido como "morto pela polícia," no qual pessoas suicidas 
 
 Poderia a estrutura do UPB nós ajudar a entender, classificar e estender esses padrões morais?
 
-[^9]: Por favor note que esses exemplos acima não são provas, mas situações que uma teoria ética valida deveria ser capaz de abranger e explicar. We will get to the actual proofs shortly.
+[^9]: Por favor note que esses exemplos acima não são provas, mas situações que uma teoria ética valida deveria ser capaz de abranger e explicar. Chegaremos em breve às provas reais.
