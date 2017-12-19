@@ -133,10 +133,10 @@ O UPB pode portanto, ser visto como um framework para validar teorias éticas ou
 
 Um exemplo de proposição moral é: "a iniciação do uso da força é errado". UPB é a metodologia que testa essa proposta contra consistência interna e observação empírica. UPB portanto, primeiro pergunta: "é a proposição lógica e consistente?" UPB então pergunta: "que evidência existe para a verdade da proposição?"
 
-Para manter este livro com um tamanho razoável, lidaremos em geral com o primeiro critério de consistência lógica. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+Para manter este livro com um tamanho razoável, lidaremos em geral com o primeiro critério de consistência lógica. Para o segundo critério, devemos confiar em evidências sobre as proibições universais através de todas as culturas contra determinadas ações, tais como estupro, roubo, assalto e assassinato. Muito mais poderia ser escrito sobre a evidência histórica que ajuda a apoiar ou rejeitar várias proposições morais, mas vamos deixar isso para um outro momento. Se estabelecermos a validade do UPB, teremos alcançado uma quantidade enorme. Se não o fizermos, a evidência mal irá nos ajudar.
 
-Let us now turn to the question of whether the UPB framework deals with matters of *ethics*, or *aesthetics*, or both.
+Passemos agora à questão de saber se o framework do UPB trata de questões de "ética" ou "estética", ou ambos.
 
-[^7]: The same goes, of course, for murder and assault. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
+[^7]: O mesmo se aplica, naturalmente, a assassinato e assalto. Vamos voltar a estas provas - bem como uma examinação adicional de direitos de propriedade - mais detalhadamente na Parte Dois deste livro.
 
 [^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
