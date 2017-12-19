@@ -12,7 +12,7 @@ Um cirurgião pode "cortar" com um bisturi, mas é fácil compreender que a aç�
 
 Esta diferença pode ser compreendida através de uma análise mais profunda da *iniciação*.
 
-Se você pegar câncer, você pode pedir a um cirurgião para que ele te opere. A razão pela qual o ato de "cortar" do cirurgião não é imoral é porque o câncer "iniciou" um ataque à sua vida e saúde. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+Se você pegar câncer, você pode pedir a um cirurgião para que ele te opere. A razão pela qual o ato de "cortar" do cirurgião não é imoral é porque o câncer "iniciou" um ataque à sua vida e saúde. O cirurgião está atuando como um "agente de auto-defesa substituto", assim como um homem que atira em um assaltante que está atacando você. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
 
 The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
 
