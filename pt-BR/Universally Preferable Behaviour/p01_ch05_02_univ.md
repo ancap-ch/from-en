@@ -125,9 +125,9 @@ Para ajudar a engolir essa pílula conceitual bastante grande, abaixo tem uma me
 
 Tabela: Teorias da física e da biologia e do UPB
 
-In conclusion, it is safe to say that (a) moral rules are valid, and (b) moral theories must be subjected to the rigours of logic and evidence, just as theories of physics and biology are. Any moral theory based on non-universal or self-contradictory principles is demonstrably false.
+Em conclusão, é seguro dizer que (a) regras morais são válidas, e (b) teorias morais devem estar sujeitas aos rigores da lógica e de evidência, assim como são as teorias da física e da biologia. Qualquer teoria moral baseada em princípios não-universais ou contraditórios é demonstravelmente falsa.
 
-#### UPB: The Framework
+#### UPB: O Framework
 
 UPB can thus be seen as a framework for validating ethical theories or propositions – just as the scientific method is a framework that is used to validate scientific theories or propositions.
 
