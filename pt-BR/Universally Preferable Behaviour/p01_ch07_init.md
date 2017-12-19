@@ -34,9 +34,9 @@ Quando analisamos um princípio como o NAP, na verdade existem apenas sete possi
 - A iniciação do uso da força não tem a ver com moral.
 - A iniciação do uso da força nunca é moralmente correto.
 - A iniciação do uso da força as vezes é moralmente correto.
-- The initiation of the use of force is always morally right.
+- A iniciação do uso da força é sempre moralmente correto.
 
-As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
+Como já vimos acima, no entanto, o UPB é uma estrutura "tudo ou nada". Se uma ação é *universalmente preferível*, então ela não pode ser limitada pelo indivíduo, geografia, tempo etc. Se é errado matar em Argel, então também é errado matar na Bélgica, Estados Unidos, no Polo Norte e na lua. Se é errado matar ontem, então não é certo matar amanhã. Se é errado o João assassinar alguém, então deve também ser errado a Maria assassinar.
 
 Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
 
