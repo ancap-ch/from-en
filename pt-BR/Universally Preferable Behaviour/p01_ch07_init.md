@@ -12,11 +12,11 @@ Um cirurgião pode "cortar" com um bisturi, mas é fácil compreender que a aç�
 
 Esta diferença pode ser compreendida através de uma análise mais profunda da *iniciação*.
 
-Se você pegar câncer, você pode pedir a um cirurgião para que ele te opere. A razão pela qual o ato de "cortar" do cirurgião não é imoral é porque o câncer "iniciou" um ataque à sua vida e saúde. O cirurgião está atuando como um "agente de auto-defesa substituto", assim como um homem que atira em um assaltante que está atacando você. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+Se você pegar câncer, você pode pedir a um cirurgião para que ele te opere. A razão pela qual o ato de "cortar" do cirurgião não é imoral é porque o câncer "iniciou" um ataque à sua vida e saúde. O cirurgião está atuando como um "agente de auto-defesa substituto", assim como um homem que atira em um assaltante que está atacando você. Você também deu o seu consentimento ao cirurgião e limitou seu comportamento por um contrato específico.
 
-The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
+O assaltante que te corta, no entanto, está iniciando um ataque à sua vida e saúde, e é por isso que o ataque dele é a moral *oposta* dos esforços do cirurgião.
 
-If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Se eu sou um fumante crônico e de longa data, eu participei da cadeia de eventos que levam ao meu câncer no pulmão. Ao iniciar e manter o hábito de fumar, eu pus em movimento uma cadeia de causalidade que pode resultar em uma doença fatal. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
 
 Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
 
