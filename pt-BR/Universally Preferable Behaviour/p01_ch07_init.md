@@ -16,7 +16,7 @@ Se você pegar câncer, você pode pedir a um cirurgião para que ele te opere. 
 
 O assaltante que te corta, no entanto, está iniciando um ataque à sua vida e saúde, e é por isso que o ataque dele é a moral *oposta* dos esforços do cirurgião.
 
-Se eu sou um fumante crônico e de longa data, eu participei da cadeia de eventos que levam ao meu câncer no pulmão. Ao iniciar e manter o hábito de fumar, eu pus em movimento uma cadeia de causalidade que pode resultar em uma doença fatal. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Se eu sou um fumante crônico e de longa data, eu participei da cadeia de eventos que levam ao meu câncer no pulmão. Ao iniciar e manter o hábito de fumar, eu pus em movimento uma cadeia de causalidade que pode resultar em uma doença fatal. É claramente possível para mim ter um câncer de pulmão sem fumar – ou fumar sem contrair câncer de pulmão – mas eu claramente afetei as probabilidades.
 
 Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
 
