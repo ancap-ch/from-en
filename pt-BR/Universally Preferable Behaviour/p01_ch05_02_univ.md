@@ -139,4 +139,4 @@ Passemos agora à questão de saber se o framework do UPB trata de questões de 
 
 [^7]: O mesmo se aplica, naturalmente, a assassinato e assalto. Vamos voltar a estas provas - bem como uma examinação adicional de direitos de propriedade - mais detalhadamente na Parte Dois deste livro.
 
-[^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
+[^8]: Regras morais universais e positivas podem também ser provadas - i.e. a validação universal de direito de propriedade e não-violência - mas vamos discutir isso na Parte Dois.
