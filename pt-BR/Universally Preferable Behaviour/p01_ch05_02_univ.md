@@ -107,7 +107,7 @@ Desde que teorias válidas exigem "consistência lógica", uma teoria moral não
 
 Da mesma forma, qualquer teoria moral que defenda o estupro enfrenta uma contradição semelhante. Estupro "nunca" pode ser moral, pois qualquer principio que o aprove automaticamente se contradiz. Se estupro se justifica com o princípio de que "ter prazer é sempre bom", então esse princípio imediatamente falha no teste de consistência lógica, já que o estuprador pode "estar curtindo" porém sua vítima certamente "não".
 
-Thus subjecting moral theories to the scientific method produces results that conform to rationality, empirical observations and plain common sense. Murder, theft, arson, rape and assault are all proven immoral.[^8]
+Assim, submeter as teorias morais ao método científico produz resultados que estão de acordo com a racionalidade, observações empíricas e senso comum. Assassinato, roubo, incêndio, estupro e assalto são todos provados imorais.
 
 To aid in swallowing this rather large conceptual pill, below is a table that helps equate theories of physics and biology with scientific theories of universally preferable (or moral) behaviour:
 
