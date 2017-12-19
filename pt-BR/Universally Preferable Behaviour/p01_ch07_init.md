@@ -18,7 +18,7 @@ O assaltante que te corta, no entanto, está iniciando um ataque à sua vida e s
 
 Se eu sou um fumante crônico e de longa data, eu participei da cadeia de eventos que levam ao meu câncer no pulmão. Ao iniciar e manter o hábito de fumar, eu pus em movimento uma cadeia de causalidade que pode resultar em uma doença fatal. É claramente possível para mim ter um câncer de pulmão sem fumar – ou fumar sem contrair câncer de pulmão – mas eu claramente afetei as probabilidades.
 
-Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
+Da mesma forma, é também possível eu deixar minha carteira em um banco em uma praça, voltar depois de uma semana e ela ainda estar lá. Mas ao deixar ela lá por tanto tempo, eu com certeza afetei as chances de ela não estar mais lá.
 
 On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
 
