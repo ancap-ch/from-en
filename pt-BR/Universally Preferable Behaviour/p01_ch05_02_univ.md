@@ -131,9 +131,9 @@ Em conclusão, é seguro dizer que (a) regras morais são válidas, e (b) teoria
 
 O UPB pode portanto, ser visto como um framework para validar teorias éticas ou proposições - assim como o método científico é um framework que é usado para validar teorias científicas ou proposições.
 
-An example of a moral proposition is: “the initiation of the use of force is wrong.” UPB is the methodology that tests that proposition against both internal consistency and empirical observation. UPB thus first asks: *is the proposition logical and consistent?* UPB then asks: *what evidence exists for the truth of the proposition?*
+Um exemplo de proposição moral é: "a iniciação do uso da força é errado". UPB é a metodologia que testa essa proposta contra consistência interna e observação empírica. UPB portanto, primeiro pergunta: "é a proposição lógica e consistente?" UPB então pergunta: "que evidência existe para a verdade da proposição?"
 
-To keep this book at a reasonable length, we will in general deal mostly with the first criterion of logical consistency. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+Para manter este livro com um tamanho razoável, lidaremos em geral com o primeiro critério de consistência lógica. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
 
 Let us now turn to the question of whether the UPB framework deals with matters of *ethics*, or *aesthetics*, or both.
 
