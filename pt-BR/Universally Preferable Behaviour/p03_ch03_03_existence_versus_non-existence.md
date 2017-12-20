@@ -50,13 +50,13 @@ Se eu não pagar o homem que vem para pegar meu dinheiro, ele pode sacar uma arm
 
 Curiosamente, se um homem legitimamente deve-me dinheiro, não posso para sequestrá-lo e submeter ele á tortura e violação ano após ano. Assim, tributação viola totalmente o framework do UPB, uma vez que isto é uma transferência de propriedade de maneira violenta usando a iniciação da força.
 
-Stealing, as we have proven, is evil.
+Roubar, como provamos, é mau.
 
-Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
+Einstein revolucionou a física alegando – e provando – que a velocidade da luz era constante.
 
-We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
+Nós podemos revolucionar o mundo ao aceitar a afirmação – e a prova – de que roubar é sempre mau.
 
-### Government, Religion, And UPB
+### Governo, religião e UPB
 
 When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
 
