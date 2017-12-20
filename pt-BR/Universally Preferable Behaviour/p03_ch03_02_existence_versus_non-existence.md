@@ -65,9 +65,9 @@ Essa situação, mesmo que interessante teoricamente, decompõe logicamente porq
 
 1. A maioria má rapidamente iria ter mais votos que a minoria ou dominá-la através de um golpe de estado;
 2. Não há nenhuma maneira de garantir que somente pessoas boas sempre conduziriam governo; e,
-3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
+3. Não há absolutamente nenhum exemplo disto acontecer em qualquer um dos anais brutais da história do Estado.
 
-The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. Se cinquenta por cento das pessoas são más, então *pelo menos* cinquenta por cento de pessoas governando sobre eles também são do mal. [^9] Assim, a existência do mal nunca pode justificar a existência de um governo.
+O erro lógico sempre feito em defesa do governo é imaginar que qualquer julgamento moral coletivo sendo aplicado para qualquer grupo de pessoas *também não está sendo aplicado para o grupo que reina sobre eles*. Se cinquenta por cento das pessoas são más, então *pelo menos* cinquenta por cento de pessoas governando sobre eles também são do mal. [^9] Assim, a existência do mal nunca pode justificar a existência de um governo.
 
 Se não há nenhum mal, os governos são desnecessários. Se existe o mal, os governos são demasiado perigosos para serem autorizados a existir.
 
@@ -77,7 +77,7 @@ Há uma série de razões, que só pode ser tocadas aqui. A primeira é que o go
 
 A segunda é que o governo nunca ensina as crianças sobre a raiz do seu poder – violência – mas em vez disso, finge que é apenas mais uma instituição social, como um negócio ou uma igreja ou uma instituição de caridade, mas mais moral.
 
-A terceira é que a prevalência da religião e propaganda sempre cegou os homens dos maus do governo - é por isso que os legisladores sempre estiveram tão interessados em promover os interesses das igrejas e da educação estatal. Nessa visão religiosa de mundo, poder absoluto é sinônimo de virtude perfeita, em forma de uma deidade. No mundo político real dos homens, no entanto, aumentar o poder sempre significa aumentar o mau. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. Há muitas mais razões, é claro, mas estas estão entre as mais profundas. [^10]
+A terceira é que a prevalência da religião e propaganda sempre cegou os homens dos maus do governo - é por isso que os legisladores sempre estiveram tão interessados em promover os interesses das igrejas e da educação estatal. Nessa visão religiosa de mundo, poder absoluto é sinônimo de virtude perfeita, em forma de uma deidade. No mundo político real dos homens, no entanto, aumentar o poder sempre significa aumentar o mau. Com a religião, também, tudo que acontece tem que ser para o bem - assim, lutar contra a invasão de poder político é lutar contra a vontade da deidade. Há muitas mais razões, é claro, mas estas estão entre as mais profundas. [^10]
 
 No início desta seção, eu mencionei que as pessoas geralmente cometem *dois* erros quando confrontadas com a ideia de dissolver o governo. A primeira é a crença de que os governos são necessários porque existem pessoas más. O segundo é a crença de que, na ausência de governos, qualquer instituições sociais que surgem inevitavelmente terão o lugar dos governos. Assim, as organizações de resolução de litígios (DROs), companhias de seguros e as forças de segurança privada são todas considerados potenciais cancros que vão inchar e sobrecarregar o corpo político.
 
@@ -89,7 +89,7 @@ Em uma sociedade voluntária, não haveria nenhuma tributação, e, assim, qualq
 
 É muito difícil de entender a lógica e a inteligência do argumento que, a fim de proteger-nos de um grupo que *pode* nos dominar, devemos apoiar um grupo que *já* nos dominou. É semelhante ao argumento estatista sobre monopólios privados – que os cidadãos devem criar um monopólio governamental, porque eles têm medo de monopólios privados. Não é preciso uma visão perspicaz para ver através de tal absurdo.
 
-What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+Qual é a evidência para a visão de que poderes descentralizados e competitivos promovem a paz? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
 
 Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
 
