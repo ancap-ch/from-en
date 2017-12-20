@@ -22,19 +22,19 @@ A lógica da obediência à mitologia é patentemente tola. Se um padre me disse
 
 Claro que não.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+Quando nós tiramos a mitologia e ficção de nossas "interações" com nossos governantes, o que emerge é uma realidade cruel, austera e mortalmente exploradora.
 
-Let’s take as an example a very real and present danger: taxation.
+Vamos tomar como exemplo um perigo muito real e imediato: tributação.
 
-#### Taxation
+#### Tributação
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Me disseram que, em virtude de escolher viver no Canadá, eu devo ao "governo" mais de 50% da minha renda.
 
-Stripped of mythology, what does this really translate to?
+Tirando a mitologia, no que isso realmente se traduz?
 
-In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+Na realidade, vou esperar até o fim dos tempos para que o "governo" venha pegar seu dinheiro. Esperar o "governo" aparecer é como querer sair com o conceito de "feminilidade". Eu também posso tentar pagar meu jantar com a palavra "dinheiro"
 
-In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+Na realidade, quando me disseram que devo pagar meus impostos ao "governo", o que isso realmente significa é que eu devo escrever um cheque para transferir meu dinheiro para uma determinada conta bancária, que é então acessada por indivíduos particulares. Estes indivíduos então tem o direito de pegar esse dinheiro e gastá-lo como acharem melhor – esses indivíduos em particular, portanto, tem controle total sobre meu dinheiro.
 
 At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
 
