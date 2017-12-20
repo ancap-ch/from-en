@@ -12,7 +12,7 @@ Classes dominantes inevitavelmente usam teorias éticas para justificar o seu po
 
 ### Propaganda
 
-Quanto mais falsa é a teoria moral, mais cedo que deve ser infligida nas crianças. Não vemos os filhos de pessoas de mentalidade científica serem enviadas para a "escola de lógica" na idade entre três ou quatro anos em diante. We do not see the children of free market advocates being sent to “Capitalism Camp” when they are five years old. We do not see the children of philosophers being sent to a Rational Empiricism Theme Park in order to be indoctrinated into the value of trusting their own senses and using their own minds.
+Quanto mais falsa é a teoria moral, mais cedo que deve ser infligida nas crianças. Não vemos os filhos de pessoas de mentalidade científica serem enviadas para a "escola de lógica" na idade entre três ou quatro anos em diante. Não vemos os filhos de defensores do livre mercado serem enviados ao "acampamento capitalista" quando eles têm cinco anos. Não vemos filhos de filósofos serem enviados a um Parque Temático de Empirismo Racional a fim de serem doutrinados no valor de confiar em seus próprios sentidos e usar suas próprias mentes.
 
 No, wherever ethical theories are corrupt, self-contradictory and destructive, they must be inflicted upon the helpless minds of dependent children. The Jesuits are credited with the proverb: “Give me a child until he is nine and he will be mine for life,” but that is only because the Jesuits were teaching superstitious and destructive lies. You could never imagine a modern scientist hungering to imprint his falsehoods on a newborn consciousness. Picture somebody like Richard Dawkins saying the above, just to see how ridiculous it would be.
 
