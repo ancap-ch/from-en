@@ -95,9 +95,9 @@ Crimes organizados não oferecem bons exemplos, uma vez que gangues regularmente
 
 Um exemplo mais útil é o fato de que nenhum líder nunca declarou guerra ao outro líder que possuísse armas nucleares. No passado, quando líderes se sentiam imunes de retaliações pessoais, eles estavam mais do que dispostos a matar sua própria população iniciando uma guerra. Agora que eles mesmos estão sujeitos à aniquilação, eles só estão dispostos a atacar os países que não podem revidar.
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+Essa é uma aula instrutiva sobre porque tais homens exigem populações desarmadas e dependentes - e um bom exemplo de como o medo de represálias inerentes à um sistema balanceado poderes descentralizados e competitivos *é o único método comprovado de fixação e manutenção de liberdades pessoais*.
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+Fugir de demônios imaginários em prisões protetoras dos governos apenas garante a destruição das várias liberdades que fazem a vida valer a pena.
 
 [^4]: Ver [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
 
