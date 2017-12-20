@@ -1,18 +1,18 @@
-## Inicialização
+## Iniciação
 
 Uma teoria moral razoável deve ser capaz de explicar todos os padrões universais acima, assim como uma teoria razoável da física deve ser capaz de explicar como um homem pode inconscientemente calcular o arco de uma bola lançada e pegá-la.
 
-Se a estrutura do UPB pode explicar as coisas acima, então ele terá certamente passado pelo menos o teste de "senso comum".
+Se a estrutura do UPB pode explicar as coisas acima, então ele terá certamente passado pelo menos do teste de "senso comum".
 
-Isso não significa que algumas conclusões surpreendentes – até mesmo chocantes – não podem resultar da nossa teoria moral, mas pelo menos nós devemos ter passado o primeiro obstáculo de explicar o óbvio, antes de analisar isso que está longe de ser óbvio.
+Isso não significa que algumas conclusões surpreendentes – até mesmo chocantes – não podem resultar da nossa teoria moral, mas pelo menos nós devemos ter passado o primeiro obstáculo de explicar o óbvio, antes de analisar aquilo que está longe de ser óbvio.
 
 Com isso em mente, passemos à questão da *iniciação*.
 
-Um cirurgião pode "cortar" com um bisturi, mas é fácil compreender que a ação dele é muito diferente de um assaltante que te corta com uma faca.
+Um cirurgião pode te "apunhalar" com um bisturi, mas é fácil compreender que a ação dele é muito diferente de um assaltante que te apunhala com uma faca.
 
 Esta diferença pode ser compreendida através de uma análise mais profunda da *iniciação*.
 
-Se você pegar câncer, você pode pedir a um cirurgião para que ele te opere. A razão pela qual o ato de "cortar" do cirurgião não é imoral é porque o câncer "iniciou" um ataque à sua vida e saúde. O cirurgião está atuando como um "agente de auto-defesa substituto", assim como um homem que atira em um assaltante que está atacando você. Você também deu o seu consentimento ao cirurgião e limitou seu comportamento por um contrato específico.
+Se você tiver câncer, você pode pedir a um cirurgião para que ele te opere. A razão pela qual o ato de "apunhalar" do cirurgião não é imoral é porque o câncer "iniciou" um ataque à sua vida e saúde. O cirurgião está atuando como um "agente de auto-defesa substituto", assim como um homem que atira em um assaltante que está atacando você. Você também deu o seu consentimento ao cirurgião e limitou seu comportamento por um contrato específico.
 
 O assaltante que te corta, no entanto, está iniciando um ataque à sua vida e saúde, e é por isso que o ataque dele é a moral *oposta* dos esforços do cirurgião.
 
