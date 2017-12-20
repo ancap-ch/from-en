@@ -36,19 +36,19 @@ Na realidade, vou esperar até o fim dos tempos para que o "governo" venha pegar
 
 Na realidade, quando me disseram que devo pagar meus impostos ao "governo", o que isso realmente significa é que eu devo escrever um cheque para transferir meu dinheiro para uma determinada conta bancária, que é então acessada por indivíduos particulares. Estes indivíduos então tem o direito de pegar esse dinheiro e gastá-lo como acharem melhor – esses indivíduos em particular, portanto, tem controle total sobre meu dinheiro.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+Em nenhum momento, seja qual for, uma entidade como "o governo" levanta o dedo, se mexe, abre uma conta bancária ou gasta um centavo. Imaginar que um conceito chamado "o governo" tem a capacidade de tomar ou gastar seu dinheiro é exatamente igual à esperar que "Deus" venha buscá-lo e levá-lo à igreja.
 
-Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+Assim, a interação real é que um cara me envia uma carta me dizendo que lhe devo dinheiro. Eu não tenho nenhum contrato com esse cara, e ele na verdade não possui parte de minha propriedade, apesar de alguns outros caras terem escrito um suposto "contrato", que afirma que ele tem.
 
-If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
+Se eu não pagar esse cara, ele enviará outro cara sobre a minha casa para recolher o dinheiro – além de "juros" e "encargos"
 
-Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Normalmente, quando um homem com uma arma vem para minha casa e exige o meu dinheiro, eu tenho o direito de usar a força para me defender. Neste caso, no entanto, porque ele está em uma fantasia e diz representar uma entidade fictícia, não posso usar a força para me defender.
 
-Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
+Agora, se eu vir a sua casa esta noite vestido como um "high elf de Nárnia" e exigir o dinheiro que você deve para a "Rainha das dores", supondo que não seja Halloween, podes olhar para mim com espanto e me mandar para fora de sua propriedade.
 
-If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
+Se eu não pagar o homem que vem para pegar meu dinheiro, ele pode sacar uma arma, apontar para meu peito e me sequestrar – ou atirar em mim se eu resistir. Ele pode segurar-me numa cela minúscula ano após ano, onde eu serei submetido à brutalidade mais violenta e contínua violação, até que ele decida me deixar ir.
 
-Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+Curiosamente, se um homem legitimamente deve-me dinheiro, não posso para sequestrá-lo e submeter ele á tortura e violação ano após ano. Assim, tributação viola totalmente o framework do UPB, uma vez que isto é uma transferência de propriedade de maneira violenta usando a iniciação da força.
 
 Stealing, as we have proven, is evil.
 
