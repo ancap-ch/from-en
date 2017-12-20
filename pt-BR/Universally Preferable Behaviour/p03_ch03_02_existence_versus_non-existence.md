@@ -89,11 +89,11 @@ Em uma sociedade voluntária, não haveria nenhuma tributação, e, assim, qualq
 
 É muito difícil de entender a lógica e a inteligência do argumento que, a fim de proteger-nos de um grupo que *pode* nos dominar, devemos apoiar um grupo que *já* nos dominou. É semelhante ao argumento estatista sobre monopólios privados – que os cidadãos devem criar um monopólio governamental, porque eles têm medo de monopólios privados. Não é preciso uma visão perspicaz para ver através de tal absurdo.
 
-Qual é a evidência para a visão de que poderes descentralizados e competitivos promovem a paz? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+Qual é a evidência para a visão de que poderes descentralizados e competitivos promovem a paz? Em outras palavras, existe qualquer fato que podemos utilizar para suportar a ideia de que um balanço de poder é a única chance que o indivíduo tem para a liberdade?
 
-Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
+Crimes organizados não oferecem bons exemplos, uma vez que gangues regularmente corrompidas, manipulam e usam o poder da polícia do governo para forçar suas leis, e então essas gangues não podem serem ditas operando em um estado de natureza. Também, gangues criminosas lucram enormemente fornecendo substâncias ou serviços ilegais, e também florescem em grande parte devido às políticas do Estado.
 
-A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+Um exemplo mais útil é o fato de que nenhum líder nunca declarou guerra ao outro líder que possuísse armas nucleares. No passado, quando líderes se sentiam imunes de retaliações pessoais, eles estavam mais do que dispostos a matar sua própria população iniciando uma guerra. Agora que eles mesmos estão sujeitos à aniquilação, eles só estão dispostos a atacar os países que não podem revidar.
 
 This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
 
