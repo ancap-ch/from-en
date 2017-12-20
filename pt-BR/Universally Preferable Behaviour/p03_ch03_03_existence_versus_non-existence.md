@@ -18,9 +18,9 @@ Our desire to be good – combined with the thrill of virtue that we get by obey
 
 Uma razão central para nós sabermos que os governos e os deuses são desnecessários é que eles não são tão eficazes. *Sabemos que a maioria das pessoas querem desesperadamente ser boas porque são facilmente controladas por teorias de morais*.
 
-A lógica da obediência à mitologia é patentemente tola. Se um padre me disser que eu tenho que obedecer a "Deus", isto é exatamente o mesmo que ele me dizendo que tenho que obedecer a uma entidade chamada "Nog." Mesmo se eu aceitar que esta entidade ficcional é digna de eterna obediência, isto de jeito nenhum iria me obrigar a obedecer *o padre*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+A lógica da obediência à mitologia é patentemente tola. Se um padre me disser que eu tenho que obedecer a "Deus", isto é exatamente o mesmo que ele me dizendo que tenho que obedecer a uma entidade chamada "Nog." Mesmo se eu aceitar que esta entidade ficcional é digna de eterna obediência, isto de jeito nenhum iria me obrigar a obedecer *o padre*. Se eu te disser "obedeça seu coração", posso então razoavelmente dizer: "e *só eu* falo pelo seu coração"?
 
-Of course not.
+Claro que não.
 
 When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
 
