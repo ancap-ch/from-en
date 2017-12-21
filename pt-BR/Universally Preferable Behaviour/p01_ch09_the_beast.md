@@ -32,10 +32,10 @@ Certamente, no conhecimento de um envenenamento universal e evitável, eu não d
 
 Assim, como um filósofo preocupado com a violência e a moralidade, devo eu me concentrar em criminosos privados ou criminosos públicos?
 
-The violations that I experienced at the hands of private criminals fade to insignificance relative to even *one day* under the tender mercies of my “virtuous and good masters.”
+As violações que eu experimentei nas mãos de criminosos privados desaparecem em insignificância em relação a "um único dia" sob as ternuras dos meus "mestres bons e virtuosos".
 
-If, then, the greatest dangers to mankind are false ethical theories, then our highest prioritisation should be the discovery, communication and refinement of a valid, rational, empirical and consistent ethical theory. If we discover that most plague victims are dying from impure water, then surely telling them to purify their water should be our first and highest priority.
+Se, então, o maior perigo para a humanidade são as falsas teorias éticas, então a prioridade máxima deveria ser a descoberta, a comunicação e o refinamento de uma teoria ética válida, racional, empírica e consistente. Se descobrimos que a maioria das vítimas da praga estão morrendo pela água não potável, então certamente dizer-lhes para purificar sua água deveria ser nossa primeira e mais alta prioridade.
 
-Let us now turn to that task.
+Passemos agora a essa tarefa.
 
-[^12]: Or, rather: “*forced* education is a virtue” – my parents were compelled to pay through taxes, and I was compelled to attend.
+[^12]: Ou melhor: educação "forçada" é uma virtude - meus pais foram obrigados a pagar através de impostos e eu fui obrigado a participar.
