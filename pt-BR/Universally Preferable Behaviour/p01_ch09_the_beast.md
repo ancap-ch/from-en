@@ -24,9 +24,9 @@ Por outro lado, tive centenas de milhares de dólares roubados de mim à força 
 
 O menino (e o homem) que roubaram meu dinheiro, sem dúvida, o usaram para algum prazer pessoal ou necessidade. O governo que rouba meu dinheiro, por outro lado, usa ele para oprimir os pobres, para financiar guerras, para pedir dinheiro emprestados e então empobrecer meus filhos - e para pagar os salários daqueles que roubam de mim.
 
-If I were a doctor in the middle of a great city struck down by a terrible plague, and I discovered that that plague was being transmitted through the water pipes, what should my rational response be – if I claimed to truly care about the health of my fellow citizens?
+Se eu fosse um médico no meio de uma grande cidade, atingido por uma terrível praga, e descobrisse que essa praga estava sendo transmitidas através da tubulação de água, qual deveria ser minha resposta racional - se eu realmente me preocupasse com a saúde dos meus concidadãos?
 
-Surely I should cry from the very rooftops that their drinking water was causing the plague. Surely I should take every measure possible to get people to understand the true source of the illness that struck them down.
+Certamente eu deveria chorar de cima dos telhados que sua água potável está causando esta praga. Certamente eu deveria tomar todas as medidas possíveis para que as pessoas entendessem a verdadeira origem dessa doença que os derrubou.
 
 Surely, in the knowledge of such universal and preventable poisoning, I should not waste my time arguing that the true danger you faced was the tiny possibility that some random individual might decide to poison you at some point in the future.
 
