@@ -20,9 +20,9 @@ Qualquer especialista em ética, então, que se concentra na mera criminalidade,
 
 Criminosos privados existem, sem dúvida, "mas quase não têm impacto em nossas vidas comparados aqueles que nos governam com base em falsas teorias morais". Uma vez, quando eu tinha onze anos, um outro menino roubou alguns dólares de mim. Outra vez, quando eu tinha vinte e seis anos, deixei meu cartão ATM em um caixa eletrônico, e alguém roubou algumas centenas de dólares da minha conta.
 
-On the other hand, I have had hundreds of thousands of dollars taken from me by force through the moral theory of “taxation is good.” I was forced to sit in the grim and brain-destroying mental gulags of public schools for fourteen years, based on the moral theory that “state education is a virtue.”[^12]
+Por outro lado, tive centenas de milhares de dólares roubados de mim à força através da teoria moral de de "imposto é bom". Fui forçado a sentar nas "gulags" sombrias e destruidoras de mente das escolas públicas por quatorze anos, baseado na teoria moral de que "educação estatal é uma virtude".
 
-The boy (and the man) who stole my money doubtless used it for some personal pleasure or need. The government that steals my money, on the other hand, uses it to oppress the poor, to fund wars, to pay the rich, to borrow money and so impoverish my children – and to pay the salaries of those who steal from me.
+O menino (e o homem) que roubaram meu dinheiro, sem dúvida, o usaram para algum prazer pessoal ou necessidade. O governo que rouba meu dinheiro, por outro lado, usa ele para oprimir os pobres, para financiar guerras, para pedir dinheiro emprestados e então empobrecer meus filhos - e para pagar os salários daqueles que roubam de mim.
 
 If I were a doctor in the middle of a great city struck down by a terrible plague, and I discovered that that plague was being transmitted through the water pipes, what should my rational response be – if I claimed to truly care about the health of my fellow citizens?
 
