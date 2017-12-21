@@ -72,15 +72,15 @@ Qual será a reação de Doug? Lembre-se, de acordo com a UPB, tudo o que é vá
 
 Como você pode ver, se *Bob* tem o direito de inventar obrigações imaginárias e impô-las sobre Doug, então, *Doug* tem o direito de inventar obrigações imaginárias e e impô-las sobre o Bob. Claramente, nós imediatamente acabamos em um impasse perfeito. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. A única maneira que Bob pode impor sua obrigação inventado sobre Doug é se Doug se recusar a impor sua obrigação inventado sobre Bob - assim, nós temos uma situação onde o que é moral pra uma pessoa só pode ser atingida se outra pessoa agir de maneira imoral. A virtude, portanto, só pode ser possível por imoralidade, o que é impossível - e nós temos regras morais opostas para dois seres humanos na mesma circunstância, o que o UPB imediatamente rejeita como inválido.
 
-In other words, every imaginary abstract justification for the use of force can be countered by another imaginary abstract justification for the use of force. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Thus neither of us can possess the ability to impose our imaginary obligations on others.
+Em outras palavras, cada justificativa abstrata imaginária para o uso da força pode ser anulada por outra por outra justificativa abstrata para o uso da força. Se eu tenho um amigo imaginário que pode justificar tudo o que faço, então *você* também pode ter um amigo imaginário que pode justificar tudo o que faz. Assim, nenhum de nós pode possuir a capacidade de impor as nossas obrigações imaginárias sobre os outros.
 
-#### Religion And UPB
+#### Religião e UPB
 
-The same holds true for religion.
+O mesmo vale para a religião.
 
-The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
+A declaração: "Você deve obedecer-me porque Deus o ordena," devem ser especificadas de novo como: "uma entidade que já inventei ordena que você me obedeça " O princípio que a UPB requer, então, é: "os seres humanos devem impor obrigações positivas não escolhidas sobre os outros e justificar essas obrigações de acordo com entidades imaginárias."
 
-Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+Aqui vemos os mesmos problemas presentes acima. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
 
 In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
 
