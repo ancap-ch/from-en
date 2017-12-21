@@ -28,9 +28,9 @@ Se eu fosse um médico no meio de uma grande cidade, atingido por uma terrível 
 
 Certamente eu deveria chorar de cima dos telhados que sua água potável está causando esta praga. Certamente eu deveria tomar todas as medidas possíveis para que as pessoas entendessem a verdadeira origem dessa doença que os derrubou.
 
-Surely, in the knowledge of such universal and preventable poisoning, I should not waste my time arguing that the true danger you faced was the tiny possibility that some random individual might decide to poison you at some point in the future.
+Certamente, no conhecimento de um envenenamento universal e evitável, eu não deveria perder meu tempo argumentando que o verdadeiro perigo que você enfrentava era a pequena possibilidade que algum indivíduo aleatório pudesse decidir lhe envenenar em algum momento no futuro.
 
-Thus, as a philosopher concerned with violence and immorality, should I focus on private criminals, or public criminals?
+Assim, como um filósofo preocupado com a violência e a moralidade, devo eu me concentrar em criminosos privados ou criminosos públicos?
 
 The violations that I experienced at the hands of private criminals fade to insignificance relative to even *one day* under the tender mercies of my “virtuous and good masters.”
 
