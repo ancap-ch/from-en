@@ -40,13 +40,13 @@ Podemos escolher acreditar que o governo é uma instituição necessária e mora
 
 Superstições similares, é claro, tem retardado o progresso da humanidade ao longo da história. O precursor mais significativo para o que o UPB revela acerca do governo é o que a ciência revelou sobre a religião.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+Conforme a ciência começou a postular de forma prática um universo que pudesse funcionar sem um deus, todos os tipos de histéricos clamavam que o fim do mundo estava próximo, que a sociedade colapsaria em "anarquia", e que a civilização iria dissolver-se em uma guerra de todos contra todos.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+Sempre que um sistema que justifica poder puder ser concebido funcionando na *ausência* desse poder, todos aqueles que lucram com a manipulação de tal poder clamam que sem eles, tudo estará perdido.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+Os padres fizeram isso durante o início da revolução científica. Sem Deus, a vida não tem sentido. Sem Deus, o homem não possui qualquer moralidade. Sem Deus, nossas almas não podem ser salvas. Sem Deus, o mundo irá mergulhar em caos e maldade.
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Nenhum deles acabou por ser verdade, obviamente. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
 
 The fall of God was the rise of mankind.
 
