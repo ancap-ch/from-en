@@ -50,13 +50,13 @@ Nenhum deles acabou por ser verdade, obviamente. Na verdade, o quase que *revers
 
 A queda de Deus foi a ascensão da humanidade.
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+Da mesma forma, quando começamos a olhar para a sociedade como os primeiros cientistas viam o universo - como um sistema auto-sustentável, sem a necessidade de uma autoridade central imaginária - então podemos começar a perceber as possibilidades de liberdade para a humanidade.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+O estabelecimento de um monopólio coercitivo e central na sociedade retarda perpetuamente o progresso do conhecimento, da sabedoria, da virtude, da saúde física e mental - assim como o estabelecimento de um monopólio central e coercitivo no *universo* retardou perpetuamente o progresso do conhecimento, da sabedoria e da ciência.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+A maneira de se opor entidades imaginárias é com verdade implacável. A maneira de se opor a Deus é com razão, evidência e ciência.
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
+O jeito de opor-se ao estado - a mais perigosa das entidades imaginárias - é com razão, evidência e ciência.
 
 ### The Future
 
