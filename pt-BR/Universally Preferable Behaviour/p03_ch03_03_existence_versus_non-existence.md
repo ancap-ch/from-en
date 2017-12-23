@@ -80,7 +80,7 @@ O mesmo vale para a religião.
 
 A declaração: "Você deve obedecer-me porque Deus o ordena," devem ser especificadas de novo como: "uma entidade que já inventei ordena que você me obedeça " O princípio que a UPB requer, então, é: "os seres humanos devem impor obrigações positivas não escolhidas sobre os outros e justificar essas obrigações de acordo com entidades imaginárias."
 
-Aqui vemos os mesmos problemas presentes acima. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+Aqui vemos os mesmos problemas presentes acima. Bob fala para Doug: "Você deve me dar seu isqueiro, porque meu amigo imaginário disse que você deve faze-lo." Naturalmente, Doug responde: "Você não deve me pedir o isqueiro, porque *meu* amigo imáginario te proíbe de faze-lo." Se os "mandamentos" de Bob são verdadeiros, então os "mandamentos" de Doug são igualmente válidos, e então eles se cancelam.
 
 In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
 
