@@ -58,18 +58,18 @@ A maneira de se opor entidades imaginárias é com verdade implacável. A maneir
 
 O jeito de opor-se ao estado - a mais perigosa das entidades imaginárias - é com razão, evidência e ciência.
 
-### The Future
+### O Futuro
 
-Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Quer gostemos ou não, o UPB aplica-se a tudo o que fazemos. Seres humanos tem uma tendência natural para a consistência, uma vez que somos seres com uma consciência racional, habitando um universo consistente e racional. Assim, qualquer premissa que aceitamos em nossas vidas tende a obrigar mais e mais comportamento consistente ao longo de nossas vidas - e ao longo da "vida" de nossa cultura ou nação também.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+Logo, um homem que acredita que o bullying é uma boa maneira de obter o que quer tende a praticá-lo mais e mais ao longo de sua vida. Um homem que acredita que a violência é boa tende a tornar-se cada mais violento.
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+Em outras palavras, a UPB demanda consistência até na inconsistência. A UPB exige uniformidade mesmo na imoralidade.
 
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+As premissas morais fundamentais de uma cultura, portanto, ditam seu inevitável futuro. Uma cultura construída sobre justificações para a coerção sempre se tornará mais coercitiva. Uma cultura construída sobre a liberdade racional sempre se tornará menos coercitiva.
 
-That is why the delineation of a rational framework for ethics is so essential.
+É por isto que a delineação de uma estrutura racional para a ética é tão essencial.
 
-What we believe is what we become.
+Aquilo que acreditamos é o que nos tornamos.
 
-If we believe lies, we shall become slaves.
+Se acreditarmos em mentiras, nos tornaremos escravos.
