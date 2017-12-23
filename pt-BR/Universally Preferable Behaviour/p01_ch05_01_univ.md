@@ -36,9 +36,9 @@ Como isso se parece na prática? Tudo o que precisamos fazer é estabelecer os s
 - Regras de morais devem ser consistentes para toda a humanidade.
 - A validade de uma teoria moral é julgada por sua consistência.
 
-To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
+Para começar do início... São as regras morais - ou os comportamentos humanos universalmente preferíveis - válidos em tudo?
 
-There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
+Existem apenas duas possibilidades quando se trata de regras morais, assim como existem em qualquer ciência lógica. Either universal moral rules are valid, or they are not.[^6]
 
 A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
 
