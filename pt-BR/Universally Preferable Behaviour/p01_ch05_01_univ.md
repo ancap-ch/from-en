@@ -38,7 +38,7 @@ Como isso se parece na prática? Tudo o que precisamos fazer é estabelecer os s
 
 Para começar do início... São as regras morais - ou os comportamentos humanos universalmente preferíveis - válidos em tudo?
 
-Existem apenas duas possibilidades quando se trata de regras morais, assim como existem em qualquer ciência lógica. Either universal moral rules are valid, or they are not.[^6]
+Existem apenas duas possibilidades quando se trata de regras morais, assim como existem em qualquer ciência lógica. Regras morais universais são válidas ou não são.
 
 A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
 
