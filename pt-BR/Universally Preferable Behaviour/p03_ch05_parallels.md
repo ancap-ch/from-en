@@ -46,9 +46,9 @@ Sempre que um sistema que justifica poder puder ser concebido funcionando na *au
 
 Os padres fizeram isso durante o início da revolução científica. Sem Deus, a vida não tem sentido. Sem Deus, o homem não possui qualquer moralidade. Sem Deus, nossas almas não podem ser salvas. Sem Deus, o mundo irá mergulhar em caos e maldade.
 
-Nenhum deles acabou por ser verdade, obviamente. Na verdade, o quase que *reverso* que acabou por ser verdade. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Nenhum deles acabou por ser verdade, obviamente. Na verdade, o quase que *reverso* que acabou por ser verdade. O fim da religião como visão de mundo dominante pavimentou o caminho para a separação de igreja e estado, o fim da aristocracia, o surgimento do livre mercado, o estabelecimento de muitas liberdades humanas em áreas significativas do mundo.
 
-The fall of God was the rise of mankind.
+A queda de Deus foi a ascensão da humanidade.
 
 In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
 
