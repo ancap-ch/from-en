@@ -30,7 +30,7 @@ Para atacar falsas moralidades, devemos começar do início, assim como fizeram 
 
 Devemos ter a mesma abordagem na definição e comunicação de "moralidade". Temos que começar a usar o poder e a legitimidade do método científico para provar a validade e universalidade das leis morais. Devemos começar do início, construir logicamente e rejeitar "qualquer" substituto irracional e não-empírico para a verdade.
 
-What does this look like in practice? All we have to do is establish the following axioms:
+Como isso se parece na prática? Tudo o que precisamos fazer é estabelecer os seguintes axiomas:
 
 - Morality is a valid concept.
 - Moral rules must be consistent for all mankind.
