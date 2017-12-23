@@ -98,7 +98,7 @@ Se Bob, Doug e Jane fizerem uma "votação" sobre a moralidade do estupro Jane, 
 
 Por que não?
 
-Bem, a UPB não reconhece a realidade de agregações, desde que a "maioria" é uma mera marca conceitual; Isso não existe na realidade, não mais do que "deuses" ou "governos" existem também. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
+Bem, a UPB não reconhece a realidade de agregações, desde que a "maioria" é uma mera marca conceitual; Isso não existe na realidade, não mais do que "deuses" ou "governos" existem também. Assim, afirmar que o conceito da "maioria" tem qualquer tipo de posição moral é totalmente inválido – é como dizer que "a pátria" pode engravidar uma mulher, ou que alguém pode sentar-se na palavra "cadeira".
 
 To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
 
