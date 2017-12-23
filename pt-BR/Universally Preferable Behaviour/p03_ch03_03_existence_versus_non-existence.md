@@ -100,13 +100,13 @@ Por que não?
 
 Bem, a UPB não reconhece a realidade de agregações, desde que a "maioria" é uma mera marca conceitual; Isso não existe na realidade, não mais do que "deuses" ou "governos" existem também. Assim, afirmar que o conceito da "maioria" tem qualquer tipo de posição moral é totalmente inválido – é como dizer que "a pátria" pode engravidar uma mulher, ou que alguém pode sentar-se na palavra "cadeira".
 
-To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
+Dizer que "a maioria" tem direitos ou atributos que contradizem diretamente os atributos de qualquer indivíduo ou direitos também contradiz a princípios racionais, já que qualquer agrupamento conceitual só é validado pela identificação exata de características individuais. Se eu disser que "mamíferos" são criaturas de sangue quente, eu logicamente posso incluir três flamingos de plástico na categoria de "mamífero"?
 
-Of course not.
+Claro que não.
 
-Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
+Assim, se é mal para os seres humanos estuprar, posso logicamente criar uma categoria chamada "a maioria" e depois afirmar que, para *esses* seres humanos, estupro agora é moralmente bom?
 
-Of *course* not.
+*Claro* que não.
 
 ### Majority Rule
 
