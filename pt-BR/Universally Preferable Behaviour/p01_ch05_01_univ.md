@@ -32,9 +32,9 @@ Devemos ter a mesma abordagem na definição e comunicação de "moralidade". Te
 
 Como isso se parece na prática? Tudo o que precisamos fazer é estabelecer os seguintes axiomas:
 
-- Morality is a valid concept.
-- Moral rules must be consistent for all mankind.
-- The validity of a moral theory is judged by its consistency.
+- A moralidade é um conceito válido.
+- Regras de morais devem ser consistentes para toda a humanidade.
+- A validade de uma teoria moral é julgada por sua consistência.
 
 To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
 
