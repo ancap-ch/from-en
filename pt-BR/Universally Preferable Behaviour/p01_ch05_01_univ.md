@@ -36,13 +36,13 @@ Como isso se parece na prática? Tudo o que precisamos fazer é estabelecer os s
 - Regras de morais devem ser consistentes para toda a humanidade.
 - A validade de uma teoria moral é julgada por sua consistência.
 
-Para começar do início... São as regras morais - ou os comportamentos humanos universalmente preferíveis - válidos em tudo?
+Para começar do início... São as regras morais - ou os comportamentos humanos universalmente preferíveis - válidas?
 
 Existem apenas duas possibilidades quando se trata de regras morais, assim como existem em qualquer ciência lógica. Regras morais universais são válidas ou não são.
 
-A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
+Uma regra pode ser válida se ela "existe empiricamente", como a gravidade, ou porque é "verdade", como a equação de dois mais dois é igual a quatro.
 
-We must then first ask: do moral rules exist at all?
+Devemos então primeiro perguntar: será mesmo que existem regras morais?
 
 Certainly not in material reality, which does not contain or obey a single moral rule. Moral rules are different from the rules of physics, just as the scientific method is different from gravity. Matter innately obeys gravity or the second law of thermodynamics, but “thou shalt not murder” is nowhere inscribed in the nature of things. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. A theory of gravity proves that if you push a man off a cliff, he will fall. It will not tell you whether you *should* push him or not.
 
