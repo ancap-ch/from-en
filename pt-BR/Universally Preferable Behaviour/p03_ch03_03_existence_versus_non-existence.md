@@ -14,7 +14,7 @@ A triste realidade é que as pessoas como um todo são escravizadas para entidad
 
 Nosso orgulho pessoal instintivamente se rebelaria contra uma imediata e forçada a escravidão à outro ser humano – no entanto, parece que quase se deleitam com escravidão à *mitologia*.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+Nosso desejo de sermos bons – combinado com a emoção da virtude que obtemos por obedecer mitologias morais – até nos faz dispostos a entregar voluntariamente os nossos recursos para aqueles que pretendem representar essas mitologias.
 
 Uma razão central para nós sabermos que os governos e os deuses são desnecessários é que eles não são tão eficazes. *Sabemos que a maioria das pessoas querem desesperadamente ser boas porque são facilmente controladas por teorias de morais*.
 
@@ -114,14 +114,14 @@ Posso criar uma regra moral que diz: "a maioria deve ser capaz de fazer o que qu
 
 Claro que posso, mas isso nunca será válido ou verdadeiro.
 
-Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
+Apenas *indivíduos* agem – a "maioria" nunca o faz. Se as regras morais podem mudar quando um certo número de pessoas se juntam, o UPB é continuamente é violado.
 
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
+Se é moral para Bob e Doug estuprar Jane, porque eles têm "a votação dela", o que acontece quando dois amigos de Jane aparecerem e votarem contra Bob e Doug desejos infernais?
 
-Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
+Bem, de repente Bob e Doug estão em minoria, e estupro torna-se "mal" para eles novamente.
 
-Nothing substantial has changed in these “outvoting” scenarios, but we have a series of opposing moral rules for the same men – a violation of UPB, and thus invalid.
+Nada de substancial mudou nestes cenários de "derrota na votação", mas nós temos uma série de regras morais opostas para os mesmos homens – uma violação da UPB e, portanto, inválido.
 
-Rape cannot be good, then evil, then good again, just because a few hands are raised or lowered.
+Estupro não pode ser bom, em seguida, mal, então bom novamente, só porque algumas mãos são levantadas ou abaixadas.
 
-Thus if you think that “majority rule” sounds like a reasonable moral proposition, and a perfectly valid moral theory, then I am afraid you’re going to have to go back to the beginning of this book and start again!☺
+Assim, se você acha que a "regra da maioria" se parece com uma proposta moral razoável e uma teoria moral perfeitamente válida, então temo que você vai ter que voltar ao início deste livro e começar de novo! ☺
