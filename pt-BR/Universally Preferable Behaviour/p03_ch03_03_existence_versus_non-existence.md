@@ -70,7 +70,7 @@ Se Bob diz a Doug: "agora represento o conceito ideal 'FUBAR,' que justifica ple
 
 Qual será a reação de Doug? Lembre-se, de acordo com a UPB, tudo o que é válido para o Bob também deve ser válido para Doug. Inevitavelmente, Doug responderá: "Ah é"? Bem *eu* agora represento o conceito ideal 'ANTI-FUBAR,' que justifica plenamente que eu retenha a posse de meu isqueiro. Já que agora você não tem o direito de tomar o meu isqueiro, se você tentar levá-lo, eu irei defender-me com força."
 
-Como você pode ver, se *Bob* tem o direito de inventar obrigações imaginárias e impô-las sobre Doug, então, *Doug* tem o direito de inventar obrigações imaginárias e e impô-las sobre o Bob. Claramente, nós imediatamente acabamos em um impasse perfeito. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. A única maneira que Bob pode impor sua obrigação inventado sobre Doug é se Doug se recusar a impor sua obrigação inventado sobre Bob - assim, nós temos uma situação onde o que é moral pra uma pessoa só pode ser atingida se outra pessoa agir de maneira imoral. A virtude, portanto, só pode ser possível por imoralidade, o que é impossível - e nós temos regras morais opostas para dois seres humanos na mesma circunstância, o que o UPB imediatamente rejeita como inválido.
+Como você pode ver, se *Bob* tem o direito de inventar obrigações imaginárias e impô-las sobre Doug, então, *Doug* tem o direito de inventar obrigações imaginárias e e impô-las sobre o Bob. Claramente, nós imediatamente acabamos em um impasse perfeito. Se é moralmente bom impor obrigações inventadas sobre outras pessoas, mas é impossível fazê-lo se *todos* possuem essa habilidade, então a moralidade torna-se impossível. A única maneira que Bob pode impor sua obrigação inventado sobre Doug é se Doug se recusar a impor sua obrigação inventado sobre Bob - assim, nós temos uma situação onde o que é moral pra uma pessoa só pode ser atingida se outra pessoa agir de maneira imoral. A virtude, portanto, só pode ser possível por imoralidade, o que é impossível - e nós temos regras morais opostas para dois seres humanos na mesma circunstância, o que o UPB imediatamente rejeita como inválido.
 
 Em outras palavras, cada justificativa abstrata imaginária para o uso da força pode ser anulada por outra por outra justificativa abstrata para o uso da força. Se eu tenho um amigo imaginário que pode justificar tudo o que faço, então *você* também pode ter um amigo imaginário que pode justificar tudo o que faz. Assim, nenhum de nós pode possuir a capacidade de impor as nossas obrigações imaginárias sobre os outros.
 
@@ -108,11 +108,11 @@ Assim, se é mal para os seres humanos estuprar, posso logicamente criar uma cat
 
 *Claro* que não.
 
-### Majority Rule
+### Regra da maioria
 
-Can I create a moral rule that says: “the majority should be able to do whatever it wants”?
+Posso criar uma regra moral que diz: "a maioria deve ser capaz de fazer o que quiser"?
 
-Of course I can, but it will never be valid or true.
+Claro que posso, mas isso nunca será válido ou verdadeiro.
 
 Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
 
