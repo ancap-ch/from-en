@@ -82,17 +82,17 @@ A declaração: "Você deve obedecer-me porque Deus o ordena," devem ser especif
 
 Aqui vemos os mesmos problemas presentes acima. Bob fala para Doug: "Você deve me dar seu isqueiro, porque meu amigo imaginário disse que você deve faze-lo." Naturalmente, Doug responde: "Você não deve me pedir o isqueiro, porque *meu* amigo imáginario te proíbe de faze-lo." Se os "mandamentos" de Bob são verdadeiros, então os "mandamentos" de Doug são igualmente válidos, e então eles se cancelam.
 
-In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
+Da mesma forma, se um homem afirma que seu conceito chamado "o governo" justifica seu roubo da minha propriedade, então eu posso afirmar que meu conceito chamado "o anti-governo" justifica minha *retenção* da minha propriedade, e nós estamos ambos igualmente "válidos" nas nossas justificativas.
 
-If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
+Se este cobrador de impostos, em seguida, afirma que seu conceito chamado "o governo" só justifica seu roubo de *minha* propriedade, não minha retenção, então nós não estamos mais adiante(?). Ele pode levar meus milhares de dólares, mas então eu posso invocar meu conceito para "roubar" o dinheiro de volta, e sua teoria moral nos faz gastar o resto da eternidade passando de um lado para o outro os milhares de dólares.
 
-#### UPB And "The Majority"
+#### O UPB e "A maioria"
 
-UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
+A UPB não permite o acúmulo de indivíduos para substituir ou reverter as propriedades de cada indivíduo. Dez leões não fazem um elefante, um governo ou um Deus. Dez mil soldados podem fazer um "exército", mas não pode inverter a gravidade, ou fazer o assassinato ser moral.
 
-Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
+Retornando uma última vez para a sala de Bob e Doug, vamos apresentar "Jane". 
 
-Now that there are three people in the room, we can look at the “majority rule” principle.
+Agora que há três pessoas na sala, podemos ver o princípio da "regra da maioria".
 
 If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
 
