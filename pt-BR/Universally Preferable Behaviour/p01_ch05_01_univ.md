@@ -46,7 +46,7 @@ Devemos então primeiro perguntar: será mesmo que existem regras morais?
 
 Certamente não na realidade material, que não contém ou obedece uma única regra moral. Regras morais são diferentes de leis da física, assim como o método científico é diferente da gravidade. A matéria obedece naturalmente à gravidade ou à segunda lei da termodinâmica, mas "não matarás" não é inscrito na natureza das coisas. Leis da física "descrevem" o comportamento da matéria, mas não contém uma simples "receita". A ciência diz que a matéria "é que" deve se comportar de certa forma - nunca que "deveria" se comportar de certa maneira. Uma teoria da gravidade comprova que se você empurrar um homem de um penhasco, ele vai cair. Não lhe dirá se você "deve" ou não empurrá-lo.
 
-Assim, não se pode dizer que regras morais existem na realidade material, e nem que elas são automaticamente obedecidas como as leis da física - o que "não" significa que as regras morais são falsas, subjetivas ou irrelevantes. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
+Assim, não se pode dizer que regras morais existem na realidade material, e nem que elas são automaticamente obedecidas como as leis da física - o que "não" significa que as regras morais são falsas, subjetivas ou irrelevantes. O método científico por si não existe na realidade também - e também é opcional - mas não é de todo falso, subjetivo ou irrelevante.
 
 If we can prove that moral theories can be objective, rational and verifiable, this will provide the same benefits to ethics that subjecting *physical* theories to the scientific method did.
 
