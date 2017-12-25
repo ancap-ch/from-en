@@ -6,11 +6,11 @@ Por exemplo, se aceitarmos a validade universal dos direitos de propriedade, que
 
 No mundo real, seria preciso uma pessoa incrivelmente insensível para prestar uma queixa contra uma homem que destruiu uma janela para salvar sua vida - assim como seria preciso um homem incrivelmente irresponsável para recusar a pagar a restituição dessa janela. O princípio da "evitabilidade" é central aqui - um homem pendurado num poste tem poucas chances de conseguir chutar a janela. Um homem arrombando sua casa claramente tem a capacidade de evitar invadir sua propriedade - ele não está encurralado, mas é o *iniciador* da agressão. Isso é semelhante à diferença entre a mulher cujo marido a trai, em contraposto à mulher cujo marido a tranca no porão.
 
-Isso não é dizer que quebrar a janela para salvar a sua vida não está errado. É, mas é algo errado que quase todos nós escolheríamos ao invés de morrer. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
+Isso não é dizer que quebrar a janela para salvar a sua vida não está errado. É, mas é algo errado que quase todos nós escolheríamos ao invés de morrer. Se eu estivesse à beira de morrer de fome, eu roubaria uma maçã. Isso não significa que é </em>certo* roubar a maçã - só quer dizer que eu iria fazê-lo - e devo, justamente, aceitar as consequências do meu roubo.[^10]</p> 
 
-### Grey Areas
+### Zonas Neutras
 
-The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+O fato de que existem certas "zonas neutras" no domínio da ética tem muitas vezes sido usado como justificativa para classificar relativismo. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
 
 This is false.
 
