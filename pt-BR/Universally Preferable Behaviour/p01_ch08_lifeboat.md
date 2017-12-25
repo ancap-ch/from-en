@@ -1,6 +1,6 @@
 ## Cenários de salva-vidas
 
-The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
+O fato da UPB apenas validar logicamente teorias morais consistentes não significa que não há situações concebíveis sob as quais nós podemos escolher agir *contra* os princípios de tal teoria.
 
 For instance, if we accept the universal validity of property rights, smashing a window and jumping into someone’s apartment without permission would be a violation of his property rights. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
 
