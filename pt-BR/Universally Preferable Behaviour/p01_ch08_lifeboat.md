@@ -20,7 +20,7 @@ Por alguma perversa razão; intelectuais, em particular, ficam contentes com a d
 
 ### Tons de neutralidade
 
-In the realm of “grey areas,” there are really only three possibilities.
+No domínio das "zonas neutras", só existem realmente três opções.
 
 1. There are no such things as grey areas.
 2. Certain grey areas do exist.
