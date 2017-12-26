@@ -22,8 +22,8 @@ Por alguma perversa razão; intelectuais, em particular, ficam contentes com a d
 
 No domínio das "zonas neutras", só existem realmente três opções.
 
-1. There are no such things as grey areas.
-2. Certain grey areas do exist.
+1. Não existem zonas neutras.
+2. Algumas zonas neutras existem.
 3. All knowledge is a grey area.
 
 Clearly, option one can be easily discarded. Option three is also fairly easy to discard. The statement “all knowledge is a grey area” is a self-detonating proposition, as we have seen above, in the same way that “all statements are lies” also self-detonates.
