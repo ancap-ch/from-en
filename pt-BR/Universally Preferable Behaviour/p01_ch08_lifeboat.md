@@ -10,9 +10,9 @@ Isso não é dizer que quebrar a janela para salvar a sua vida não está errado
 
 ### Zonas Neutras
 
-O fato de que existem certas "zonas neutras" no domínio da ética tem muitas vezes sido usado como justificativa para classificar relativismo. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+O fato de que existem certas "zonas neutras" no domínio da ética tem muitas vezes sido usado como justificativa para classificar relativismo. Já que em alguns casos algumas coisas permanecem pouco claras (por exemplo, quem iniciou o uso de violência), e uma vez que é impossível definir regras exatas e objetivas para cada situação concebível, a conclusão frequentemente obtida é a de que *nunca* nada pode sabido com certeza, e que não há regra objetiva alguma para *nenhuma* situação.
 
-This is false.
+Isso é falso.
 
 All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
 
