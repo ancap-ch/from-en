@@ -16,9 +16,9 @@ Isso é falso.
 
 Todas as pessoas sensatas reconhecem que a biologia é uma ciência válida, apesar do fato de que alguns animais nascem com mutações "pontuais". O fato de que um cachorro pode nascer com cinco patas não significa que "canino" se torna uma categoria subjetiva. O fato de que certas espécies de insetos são desafiadoras para diferenciar não significa que não há nenhuma diferença entre um besouro e uma baleia.
 
-Por alguma perversa razão; intelectuais, em particular, ficam contentes com a destruição desenfreada de padrões éticos, normativos e racionais. Isso poderia ser porque intelectuais tantas vezes foram pagos por classes corruptas de indivíduos tais como políticos, sacerdotes e reis - ou poderia ser que um homem frequentemente se torna um intelectual a fim de criar justificativas para seu próprio comportamento imoral. Seja qual for a razão, a maioria dos pensadores modernos tornaram-se uma espécie de "anti-pensador", o que é muito estranho. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
+Por alguma perversa razão; intelectuais, em particular, ficam contentes com a destruição desenfreada de padrões éticos, normativos e racionais. Isso poderia ser porque intelectuais tantas vezes foram pagos por classes corruptas de indivíduos tais como políticos, sacerdotes e reis - ou poderia ser que um homem frequentemente se torna um intelectual a fim de criar justificativas para seu próprio comportamento imoral. Seja qual for a razão, a maioria dos pensadores modernos tornaram-se uma espécie de "anti-pensador", o que é muito estranho. Isso seria equivalente a haver uma enorme classe de "biólogos" que passaram sua vida inteira argumentando que a ciência da biologia era impossível. Se a ciência da biologia é impossível, faz pouquíssimo sentido tornar-se um biólogo, nada menos do que um ateu deveria lutar com unhas e dentes para se tornar um padre.
 
-### Shades Of Grey
+### Tons de neutralidade
 
 In the realm of “grey areas,” there are really only three possibilities.
 
