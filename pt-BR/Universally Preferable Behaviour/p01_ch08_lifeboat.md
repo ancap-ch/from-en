@@ -28,9 +28,9 @@ No domínio das "zonas neutras", só existem realmente três opções.
 
 Claramente, a opção um pode ser facilmente descartada. Opção três também é bem fácil de descartar. A sentença "todo conhecimento é uma área neutra" é uma proposição auto-destrutiva, como vimos acima, do mesmo jeito que "todas as declarações são mentiras" também é auto-destrutiva.
 
-Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
+Assim, temos de ir com a opção dois, que é a de que certas áreas neutras existem, e sabe-se que elas são neutras em relação as áreas que não são. Há oxigênio no espaço e também debaixo d'água, mas não de uma forma de uma forma ou quantidade que os humanos podem consumir. O *grau* de oxigenação é uma zona neutra, ou seja, "menos contra mais"; a pergunta de se humanos conseguem ou não respirar água é certamente "preto no branco".
 
-A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
+Um cientista capturado por canibais pode fingir ser um feiticeiro para escapar - isso não significa que deve descartar o método científico como inteiramente válido.
 
 Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
 
