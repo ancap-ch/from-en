@@ -24,9 +24,9 @@ No domínio das "zonas neutras", só existem realmente três opções.
 
 1. Não existem zonas neutras.
 2. Algumas zonas neutras existem.
-3. All knowledge is a grey area.
+3. Todo o conhecimento é uma zona neutra.
 
-Clearly, option one can be easily discarded. Option three is also fairly easy to discard. The statement “all knowledge is a grey area” is a self-detonating proposition, as we have seen above, in the same way that “all statements are lies” also self-detonates.
+Claramente, a opção um pode ser facilmente descartada. Opção três também é bem fácil de descartar. A sentença "todo conhecimento é uma área neutra" é uma proposição auto-destrutiva, como vimos acima, do mesmo jeito que "todas as declarações são mentiras" também é auto-destrutiva.
 
 Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
 
