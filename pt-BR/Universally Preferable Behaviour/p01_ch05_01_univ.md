@@ -56,9 +56,9 @@ Como mencionado acima, o método científico é essencialmente uma metodologia p
 
 Um outro aspecto do método científico é a crença de que, uma vez que a matéria é composta por combinações de átomos com propriedades comuns, estáveis e previsíveis, o comportamento da matéria também deve ser da mesma maneira. Portanto, experiências devem ser *reproduzíveis* em diferentes locais e diferentes tempos. Eu não posso dizer que minha teoria da "rocha flutuante" está correta para apenas uma pedra em particular, ou no primeiro dia que eu testei, ou em um único local. Minhas teorias devem descrever o comportamento da *matéria*, que é universal, comum, estável e previsível.
 
-Finalmente, há uma regra geralmente aceita - as vezes chamada Navalha de Occam - que afirma que, de duas teorias com o mesmo poder preditivo, a mais simples das duas é preferível. Antes da Revolução Copernicana, quando a Terra era considerada o centro do universo, o movimento retrógrado de Marte quando a Terra passou em órbita em torno do Sol causou enormes problemas para o sitema Ptolomaico de cálculos astronômicos. “Circles within circles” multiplied enormously, which were all cleared away by simply placing the sun at the centre of the solar system and accepting the elliptical nature of planetary orbits.
+Finalmente, há uma regra geralmente aceita - as vezes chamada Navalha de Occam - que afirma que, de duas teorias com o mesmo poder preditivo, a mais simples das duas é preferível. Antes da Revolução Copernicana, quando a Terra era considerada o centro do universo, o movimento retrógrado de Marte quando a Terra passou em órbita em torno do Sol causou enormes problemas para o sitema Ptolomaico de cálculos astronômicos. "Círculos em círculos" se multiplicaram enormemente, todos eliminados simplesmente colocando o Sol no centro do Sistema Solar e aceitando a natureza elíptica das órbitas planetárias.
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+Assim, qualquer teoria científica válida deve ser (a) universal (b) lógica (c) verificável empiricamente (d) reproduzível e (e) o mais simples possível.
 
 The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
 
