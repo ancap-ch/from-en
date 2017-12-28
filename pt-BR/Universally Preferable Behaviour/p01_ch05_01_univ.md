@@ -68,6 +68,6 @@ A primeira questão sobre regras morais é: *o que* elas são?
 
 Simplesmente, *moral* é um conjunto de regras que afirmam precisamente e consistentemente identificar comportamentos humanos universalmente preferíveis, assim como *física* é um conjunto de regras que afirmam precisamente e consistentemente identificar o comportamento universal da matéria.
 
-The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+A segunda questão a ser feita é: existe algum tipo de "comportamento universalmente preferível" em tudo? Se houver, podemos começar a explorar o que esse comportamento pode ser. Se não, então nosso exame deve parar aqui - assim como o exame da astronomia Ptolomaica cessou após ser comumente aceito que o Sol era de fato o centro do sistema solar.
 
 [^6]: In physics, the question is: either universal physical rules are valid, or they are not.
