@@ -40,17 +40,17 @@ Antes de começarmos a usar nossa estrutura de Comportamento Universalmente Pref
 
 Usando os "cenários de salva-vidas" acima, a conclusão frequentemente tomada é a de que "o bom" é simplesmente *aquilo que é "bom" para a vida individual de um homem"*.
 
-In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
+Em termos éticos, se me perguntarem se eu roubaria uma maçã ao invés de morrer de forme - e eu dissesse "sim" - o seguinte argumento é inevitavelmente feito:
 
-1. Everyone would rather steal an apple than starve to death.
-2. Thus everyone universally prefers stealing apples to death by starvation.
-3. Thus it is *universally preferable* to steal apples rather than starve to death.
-4. Thus survival is universally preferable to property rights.
-5. Thus what is good for the individual is the ultimate moral standard.
+1. Todos prefeririam roubar uma maça do que morrer de fome.
+2. Logo, todos preferem universalmente roubar maçãs à morrer de fome.
+3. Logo, é *universalmente preferível* roubar maçãs do que morrer de fome.
+4. Dessa forma, a sobrevivência é universalmente preferível aos direitos de propriedade.
+5. Portanto o que é bom para o indivíduo é o padrão moral final.
 
-This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
+Isso tem sido usado como base para diversas teorias éticas e abordagens, de Nietzsche a Rand. A preferência de cada indivíduo pela sobrevivência é traduzida em teorias éticas que colocam a sobrevivência desse indivíduo em seu centro.[^11]
 
-This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
+Esse tipo de "hedonismo biológico" pode ser uma descrição da "luta pela sobrevivência", mas só é correto na medida em que descreve o que as pessoas *fazem* de fato, e não o que elas *deveriam* fazer.
 
 It also introduces a completely unscientific subjectivism to the question of morality. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
 
