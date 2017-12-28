@@ -60,11 +60,11 @@ Finalmente, há uma regra geralmente aceita - as vezes chamada Navalha de Occam 
 
 Assim, qualquer teoria científica válida deve ser (a) universal (b) lógica (c) verificável empiricamente (d) reproduzível e (e) o mais simples possível.
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+A metodologia para julgar e provar uma teoria *moral* é exatamente a mesma metologia para julgar e provar qualquer outra teoria.
 
-#### Moral Rules: A Definition
+#### Regras Morais: Uma Definição
 
-The first question regarding moral rules is: *what* are they?
+A primeira questão sobre regras morais é: *o que* elas são?
 
 Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
 
