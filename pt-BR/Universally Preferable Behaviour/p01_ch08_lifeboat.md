@@ -52,9 +52,9 @@ Isso tem sido usado como base para diversas teorias éticas e abordagens, de Nie
 
 Esse tipo de "hedonismo biológico" pode ser uma descrição da "luta pela sobrevivência", mas só é correto na medida em que descreve o que as pessoas *fazem* de fato, e não o que elas *deveriam* fazer.
 
-It also introduces a completely unscientific subjectivism to the question of morality. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
+Ele também introduz um subjetivismo completamente não-científico para a questão da moralidade. Por exemplo, se é moralmente aceitável roubar comida quando se está faminto, quanto comida se pode roubar? Quão faminto você tem de estar? Você pode roubar comidas não-nutritivas? Quão nutritiva tem de ser a comida para que você possa justificar roubá-la? Quanto tempo após roubar uma refeição é permitido roubar outra refeição? Você pode roubar refeições ao invés de procurar trabalho ou apelar para a caridade?
 
-Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
+Além disso, se eu puder ganhar mais dinheiro como um assassino do que como um lojista, eu deveria não perseguir a violência como uma carreira? Isso certamente aumenta *minha* sobrevivência... e assim por diante.
 
 As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
 
