@@ -70,4 +70,4 @@ Simplesmente, *moral* é um conjunto de regras que afirmam precisamente e consis
 
 A segunda questão a ser feita é: existe algum tipo de "comportamento universalmente preferível" em tudo? Se houver, podemos começar a explorar o que esse comportamento pode ser. Se não, então nosso exame deve parar aqui - assim como o exame da astronomia Ptolomaica cessou após ser comumente aceito que o Sol era de fato o centro do sistema solar.
 
-[^6]: In physics, the question is: either universal physical rules are valid, or they are not.
+[^6]: Na física, a questão é: ou regras físicas universais são válidas, ou não são.
