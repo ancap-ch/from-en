@@ -64,7 +64,7 @@ Com sua indulgente paciência, uma última questão precisa ser tratada antes de
 
 Em outras palavras, antes de mergulharmos, vale a pergunta: "Por que se preocupar?"
 
-Por que se preocupar em definir teorias éticas? Certamente boas pessoas não as precisam, e más pessoas não as consultam. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+Por que se preocupar em definir teorias éticas? Certamente boas pessoas não as precisam, e más pessoas não as consultam. As pessoas farão o que eles preferem, e inventarão justificações conforme necessário após o fato - por que se *importar* em ensinar sobre moralidade?
 
 Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
 
