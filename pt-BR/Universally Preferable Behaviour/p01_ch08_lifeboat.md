@@ -66,8 +66,8 @@ Em outras palavras, antes de mergulharmos, vale a pergunta: "Por que se preocupa
 
 Por que se preocupar em definir teorias éticas? Certamente boas pessoas não as precisam, e más pessoas não as consultam. As pessoas farão o que eles preferem, e inventarão justificações conforme necessário após o fato - por que se *importar* em ensinar sobre moralidade?
 
-Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
+Claro, o perigo sempre existe de uma pessoa imoral atacá-lo para seus próprios propósitos hedonistas. Também poderia ser o caro que, apesar de viver limpo e saudável, você pode ser atingido por um câncer antes do tempo - o antigo não faz a ciência da moralidade irrelevante, nada mais do que a carta torna as ciências da medicina, nutrição e exercícios irrelevante. Um efeito demonstrável de um ciência racional da moralidade deve ser o de reduzir as suas chances de *sofrer* ações imorais tais como roubo, assassinato e estupro - e é por esse critério que nós iremos julgar, também, as regras morais propostas na Parte III deste livro.
 
-[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
+[^10]: É claro que, se eu fosse um homem tão incompetente ou confuso que eu acabasse à beira da morte de fome, encarceramento talvez pudesse ser uma melhoria para a minha situação...
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+[^11]: A "vontade do poder" de Nietzsche e "aquilo que serve a vida do homem é bom"
