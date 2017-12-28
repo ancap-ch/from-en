@@ -32,13 +32,13 @@ Assim, temos de ir com a opção dois, que é a de que certas áreas neutras exi
 
 Um cientista capturado por canibais pode fingir ser um feiticeiro para escapar - isso não significa que deve descartar o método científico como inteiramente válido.
 
-Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
+Da mesma forma, podem haver situações extremas onde possamos escolher cometer ações imorais, mas tais situações não invalidam a ciência da moralidade, tanto quanto quanto mutações ocasionais invalidam a ciência da biologia. Na verdade, a ciência da biologia é extremamente avançada no que se refere à aceitação e a análise das mutações - e similarmente, a ciência da ética só é reforçada através de um exame de "cenários de salva-vidas", desde que tal exame não seja perseguido obsessivamente.
 
-### Universality And Exceptions
+### Universalidade e Exceções
 
-Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
+Antes de começarmos a usar nossa estrutura de Comportamento Universalmente Preferível para examinar algum convicções éticas comuns, nós temos que lidar com a questão das "exceções".
 
-Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
+Usando os "cenários de salva-vidas" acima, a conclusão frequentemente tomada é a de que "o bom" é simplesmente *aquilo que é "bom" para a vida individual de um homem"*.
 
 In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
 
