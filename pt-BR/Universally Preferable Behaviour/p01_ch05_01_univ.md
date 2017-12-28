@@ -66,7 +66,7 @@ A metodologia para julgar e provar uma teoria *moral* é exatamente a mesma meto
 
 A primeira questão sobre regras morais é: *o que* elas são?
 
-Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
+Simplesmente, *moral* é um conjunto de regras que afirmam precisamente e consistentemente identificar comportamentos humanos universalmente preferíveis, assim como *física* é um conjunto de regras que afirmam precisamente e consistentemente identificar o comportamento universal da matéria.
 
 The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
 
