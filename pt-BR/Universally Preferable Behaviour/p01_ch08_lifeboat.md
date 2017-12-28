@@ -56,15 +56,15 @@ Ele também introduz um subjetivismo completamente não-científico para a quest
 
 Além disso, se eu puder ganhar mais dinheiro como um assassino do que como um lojista, eu deveria não perseguir a violência como uma carreira? Isso certamente aumenta *minha* sobrevivência... e assim por diante.
 
-As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
+Como podemos ver, a introdução de "o que é bom para o homem em abstrato - ou o que a maioria das pessoas fazem - é aquilo que é universalmente preferível" destrói o próprio conceito de moralidade como uma teoria logicamente consistente, e substitui meros motores biológicos em justificativas para um comportamento. É uma explicação do comportamento, não uma teoria moral proposta.
 
-### The Purpose And The Dangers
+### O Propósito e os Perigos
 
-With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+Com sua indulgente paciência, uma última questão precisa ser tratada antes de mergulharmos numa definição e testarmos como várias proposições morais se encaixam dentro da estrutura do UPB. Já que o mais árduo trabalho está por vir, devemos fazer uma pausa e nos lembrar o porquê de estarmos nos colocando sob todo esse rigor e dificuldade.
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+Em outras palavras, antes de mergulharmos, vale a pergunta: "Por que se preocupar?"
 
-Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+Por que se preocupar em definir teorias éticas? Certamente boas pessoas não as precisam, e más pessoas não as consultam. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
 
 Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
 
