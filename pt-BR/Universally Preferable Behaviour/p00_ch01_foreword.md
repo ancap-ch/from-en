@@ -56,7 +56,7 @@ Ainda assim – não zero, *exatamente*.
 
 ### Regras Básicas
 
-Afirmações extraordinárias exigem provas extraordinárias. Em assumir essa gigantesca tarefa - especialmente em um livro tão pequeno - eu me coloquei algumas regras base, que vale a pena mencionar aqui
+Afirmações extraordinárias exigem provas extraordinárias. Ao assumir essa gigantesca tarefa - especialmente em um livro tão pequeno - eu me coloquei algumas regras base, que vale a pena mencionar aqui[^1]
 
 1. Eu aceito inteiramente a distinção Humeana entre "é" e "dever ser". Regras morais válidas não podem ser diretamente derivadas da existência de algo na realidade. O fato de que seres humanos em geral *preferem* viver, e devem interagir com a realidade com êxito para faze-lo, não pode servir de base para qualquer teoria ética válida. Algumas pessoas claramente não preferem viver, e rápida e firmemente rejeitam a realidade, então essa definição de ética permanece subjetiva e condicional.
 2. Ética não pode ser definida objetivamente como "aquilo que é bom para o sobrevivência do homem". Certos indivíduos podem sobreviver muito bem apenas atormentando outros, então essa definição de ética não supera o problema do subjetivismo. Em termos biológicos, isso seria análogo a descrever tendências evolutivas como "aquilo que é bom para a sobrevivência da *vida* - isso não faria nenhum sentido. A sociedade humana é um ecossistema de interesses concorrentes, assim como a floresta tropical, e aquilo que é "bom" para um homem frequentemente vem em detrimento de outro.
