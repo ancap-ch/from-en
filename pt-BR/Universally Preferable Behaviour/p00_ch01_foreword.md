@@ -20,9 +20,9 @@ Esse monstro derrubou muitos grandes heróis, de Sócrates à Platão, Santo Ago
 
 O custo para a humanidade tem sido enorme.
 
-Desde que havíamos permanecidos incapazes de definir um sistema racional de moralidade universal, nós fomos forçados a infligir histórias religiosas de horror em nossas crianças, ou dar armas, prisões e exércitos para um monopólio de controladores sem alma que se autodenominam “Estado."
+Já que nós temos permanecido incapazes de definir um sistema racional de moralidade universal, nós fomos forçados a infligir histórias religiosas de horror em nossas crianças, ou dar armas, prisões e exércitos para um monopólio de controladores sem alma que se autodenominam “Estado."
 
-Desde que o que chamamos de ética segue subjetivo e meramente *cultural*, nós inevitavelmente terminamos dependendo de "bullying", medo e violência para enforcar regras sociais. Já que a ética é carente de uma base racional como o método científico, “moralidade” permanece presa à uma guerra tribal de mitologias sangrentas, cada gangue lutando piamente pelo controle pela fidelidade das pessoas à “virtude."
+Visto que o que chamamos de ética segue subjetivo e meramente *cultural*, nós inevitavelmente terminamos dependendo de "bullying", medo e violência para fazer cumprir as regras sociais. Já que a ética é carente de uma base racional como o método científico, “moralidade” permanece presa à uma guerra tribal de mitologias sangrentas, cada gangue lutando piamente pelo controle pela fidelidade das pessoas à “virtude."
 
 Nós não podemos viver sem moralidade, mas não conseguimos definir moralidade objetivamente – portanto permanecemos nessa eterna condenação para vidas vazias, preenchidas apenas por hipocrisia pomposa, dominância cínica e escravidão pífia.
 
