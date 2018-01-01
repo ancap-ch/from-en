@@ -18,22 +18,22 @@ Idealnya, kita harus bisa mengurangi hanya dua kategori - yang secara keseluruha
 
 Misalnya, Prinsip Non-Agresi (NAP) menyatakan bahwa inisiasi penggunaan kekerasan tidak bermoral - sehingga non-inisiasi penggunaan kekuatan secara universal lebih disukai, sementara inisiasi penggunaan kekerasan dilarang secara universal. Jika apa yang dilarang justru kebalikan dari apa yang lebih baik, sebenarnya tidak ada kebutuhan untuk kategori tambahan.
 
-Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+Lebih jauh lagi, sebagai filsuf moral, kita harus memprioritaskan penilaian etika rasional kita dengan memusatkan perhatian pada pelanggaran yang paling mengerikan. Jelas, tindakan yang paling tidak bermoral harus menjadi penegakan kekerasan terhadap preferensi yang tidak adil terhadap orang lain. Jika tindakan seperti "pencurian" atau "pembunuhan" didefinisikan sebagai UPB, pemeriksaan definisi tersebut harus menjadi prioritas tertinggi kami.
 
-Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
+Dengan demikian, kita akan memfokuskan usaha kita terutama pada tindakan yang lebih baik secara universal dan dapat dilaksanakan.
 
-### Virtue And Its Opposite
+### Kebajikan Dan Kebalikannya
 
-The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil.” If I propose the moral rule, “thou shalt not steal,” then stealing must be evil, and *not* stealing must be good. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
+Kebalikan dari "kebajikan" pastilah "wakil" - kebalikan dari "kebaikan" pastilah "jahat." Jika saya mengajukan peraturan moral, "jangan mencuri," maka mencuri itu pasti jahat, dan *bukan* mencuri harus bagus. Ini tidak berarti bahwa "menahan diri dari pencurian" adalah satu-satunya definisi keunggulan moral, tentu saja, karena seorang pria mungkin seorang pembunuh, tapi bukan pencuri. Kita dapat menganggapnya sebagai persyaratan "perlu tapi tidak memadai" untuk kebajikan.
 
-Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
+Setiap tindakan yang lebih baik secara moral harus oleh sifatnya memiliki tindakan yang berlawanan - karena jika tidak, maka tidak ada kapasitas untuk pilihan, tidak ada kemungkinan penghindaran, dan karena itu tidak memiliki kapasitas untuk kebajikan atau ketidakberuntungan. Jika saya mengusulkan peraturan moral: "Anda harus melawan gravitasi," maka moralitas yang jelas menjadi tidak mungkin, amoralitas tidak dapat dihindari, dan oleh karena itu peraturan moral harus tidak berlaku.
 
 If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
 
-### What Is Missing
+### Apa yang hilang
 
-Conspicuously absent from the above list are traditional virtues such as courage, honesty, integrity and so on – as well as their opposites: cowardice, falsehood and corruption.
+Yang mencolok dari daftar di atas adalah kebajikan tradisional seperti keberanian, kejujuran, integritas dan sebagainya - dan juga kebalikannya: kepengecutan, kepalsuan dan korupsi.
 
-It may seem that these virtues should fall into the realm of aesthetically positive behaviour, such as being on time, but I for one have far too much respect for the traditional virtues to place them in the same category as social niceties. The reason that they cannot be placed into the category of universally preferable is that, as we mentioned above, the framework of UPB only deals with *behaviours*, not with attitudes, thoughts, states of mind or emotions. The scientific method can process a logical proposition; it cannot process “anger” or “foolhardiness.” These states of mind are not unimportant, of course – in fact, they are essential – but they cannot be part of any objective system for evaluating ethical propositions, since they are essentially subjective – and therefore unprovable – states of being.
+Kelihatannya, kebajikan ini harus masuk dalam ranah perilaku positif secara estetika, seperti tepat waktu, tapi saya sangat menghargai kebajikan tradisional untuk menempatkan mereka dalam kategori yang sama dengan basa-basi sosial. Alasan mengapa mereka tidak dapat ditempatkan dalam kategori yang lebih disukai secara universal adalah, seperti yang telah disebutkan di atas, kerangka UPB hanya menangani *perilaku*, bukan dengan sikap, pikiran, keadaan pikiran atau emosi. Metode ilmiah dapat memproses sebuah proposisi logis; itu tidak bisa memproses "kemarahan" atau "kebodohan." Keadaan pikiran ini tidak penting, tentu saja - sebenarnya sangat penting - namun teori tersebut tidak dapat menjadi bagian dari sistem obyektif untuk mengevaluasi proposisi etis, karena pada dasarnya bersifat subyektif - dan oleh karena itu tidak dapat dibuktikan - keadaan keberadaan.
 
-Thus UPB can only deal with objectively verifiable actions such as murder, assault and so on.
+Dengan demikian UPB hanya bisa menangani tindakan yang bisa diverifikasi secara obyektif seperti pembunuhan, penyerangan dan sebagainya.
