@@ -1,22 +1,22 @@
-## Ethical Categories
+## Kategori Etika
 
-With the UPB framework in place, we can now turn to an examination of how UPB validates or invalidates our most common moral propositions. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
+Dengan kerangka UPB di tempat, sekarang kita dapat beralih ke pemeriksaan tentang bagaimana UPB memvalidasi atau membatalkan proposisi moral kita yang paling umum. Jika "teori fisika" kita bisa menjelaskan bagaimana seseorang bisa menangkap bola bisbol, setidaknya kita telah melewati rintangan pertama dan paling penting, dan memukul pukulan pertama dan terdalam kita melawan binatang itu.
 
-### The Seven Categories
+### Tujuh Kategori
 
-As mentioned above, propositions regarding universally preferable behaviour fall into three general categories – positive, negative and neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
+Seperti disebutkan di atas, proposisi mengenai perilaku yang lebih disukai secara universal terbagi dalam tiga kategori umum-positif, negatif dan netral. Untuk membantu memisahkan estetika dari etika, mari kita mulai dengan memperluas kategori ini untuk mencakup perilaku *setiap* yang dapat dikenai analisis etis. Ketujuh kategori ini adalah:
 
-1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
-2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
-3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
-4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
-5. It is personally negative (predilection for not eating ice cream).
-6. It is aesthetically negative (“rudeness” and “being late”).
-7. It is evil (universally proscribed) (“rape”).
+1. Ini bagus (lebih baik secara universal dan dapat dilaksanakan melalui kekerasan, seperti "jangan membunuh").
+2. Ini bagus (lebih baik secara universal dan dapat dilaksanakan melalui kekerasan, seperti "jangan membunuh").
+3. Ini positif secara pribadi (tidak secara universal disukai atau tidak dapat dilaksanakan, seperti predileksi untuk makan es krim).
+4. Ini netral, atau tidak memiliki konten etis atau estetis, seperti berlari ke bus.
+5. Secara pribadi negatif (predileksi karena tidak makan es krim).
+6. Ini secara estetis negatif ("kekasaran"dan"terlambat").
+7. Ini jahat (dilarang secara universal) ("pemerkosaan").
 
-Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
+Idealnya, kita harus bisa mengurangi hanya dua kategori - yang secara keseluruhan lebih disukai dan positif secara estetik - dengan mendefinisikan proposisi etis kita sehingga apa yang dilarang secara universal hanyalah bayangan cermin dari apa yang secara universal disukai, dan hanya membuang preferensi pribadi dan netral. tindakan tidak relevan dengan pembahasan etika.
 
-For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
+Misalnya, Prinsip Non-Agresi (NAP) menyatakan bahwa inisiasi penggunaan kekerasan tidak bermoral - sehingga non-inisiasi penggunaan kekuatan secara universal lebih disukai, sementara inisiasi penggunaan kekerasan dilarang secara universal. Jika apa yang dilarang justru kebalikan dari apa yang lebih baik, sebenarnya tidak ada kebutuhan untuk kategori tambahan.
 
 Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
 
