@@ -2,23 +2,23 @@
 
 As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Mengatakan bahwa tidak ada hal seperti perilaku yang lebih baik secara universal seperti berteriak di telinga seseorang bahwa suara tidak ada - secara bawaan bertentangan dengan diri sendiri. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. Namun, jika seseorang "seharusnya" melakukan sesuatu, maka orang baru saja menciptakan perilaku yang lebih baik secara universal. Thus universally preferable behaviour – or moral rules – must be valid.
+The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Mengatakan bahwa tidak ada hal seperti perilaku yang lebih baik secara universal seperti berteriak di telinga seseorang bahwa suara tidak ada - secara bawaan bertentangan dengan diri sendiri. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. Namun, jika seseorang "seharusnya" melakukan sesuatu, maka orang baru saja menciptakan perilaku yang lebih baik secara universal. Jadi, perilaku yang lebih baik secara universal - atau peraturan moral - harus valid.
 
 Syllogistically, this is:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1. Proposisi adalah: konsep "perilaku yang lebih baik secara universal" harus valid.
+2. Berdebat melawan validitas perilaku yang lebih baik secara universal menunjukkan perilaku yang lebih baik secara universal.
+3. Oleh karena itu tidak ada argumen yang bertentangan dengan validitas perilaku yang lebih baik secara universal dapat berlaku.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. Ada juga preferensi untuk logika, kebenaran dan bukti, yang juga mengikat orang lain (walaupun biasanya tidak ditimbulkan dengan kejam) sepanjang kita semua menerima bahwa proposisi tidak logis harus salah atau tidak valid.
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+Preferensi yang dapat dianggap mengikat orang lain dapat disebut "preferensi universal," atau "peraturan moral"
 
-How else can we know that the concept of “moral rules” is valid?
+Bagaimana lagi kita bisa tahu bahwa konsep "peraturan moral" itu sah?
 
-We can examine the question biologically as well as syllogistically.
+Kita bisa memeriksa pertanyaan secara biologis maupun syllogistically.
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+Misalnya, semua materi tunduk pada peraturan fisik - dan segala sesuatu yang hidup adalah tambahan yang tunduk pada persyaratan tertentu, dan dengan demikian, jika masih hidup, harus mengikuti perilaku yang disukai secara keseluruhan. Hidup, misalnya, membutuhkan bahan bakar dan oksigen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
 
 Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
 
