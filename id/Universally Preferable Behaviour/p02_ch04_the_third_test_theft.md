@@ -1,14 +1,14 @@
-## The Third Test: Theft
+## Uji Ketiga: Pencurian
 
-We will have to spend a little bit more time on theft, since it inevitably brings into the picture the question of property rights, which is highly contentious for some.
+Kita harus meluangkan sedikit waktu untuk pencurian, karena hal itu pasti membawa gambaran tentang hak kepemilikan, yang sangat diperdebatkan beberapa orang.
 
-There are many ways of approaching the question of property rights, from “homesteading” to legal definitions to practical considerations etc. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+Ada banyak cara untuk mendekati pertanyaan tentang hak kepemilikan, mulai dari "homesteading" hingga definisi hukum hingga pertimbangan praktis dsb. Saya tidak akan membahas siapa pun di sini, karena masalah hak kepemilikan harus jatuh ke dalam kerangka UPB, jika UPB berdiri sebagai metodologi rasional untuk mengevaluasi proposisi moral.
 
-Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
+Jelas, proposisi moral berkenaan dengan hak kepemilikan adalah ini: baik manusia memiliki hak untuk memiliki properti, atau tidak.
 
-Now the first “property” that must be dealt with is the body. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+Sekarang "properti" pertama yang harus ditangani adalah tubuh. "Kepemilikan" harus terlebih dahulu dan terutama terdiri dari kontrol atas tubuh sendiri, karena jika kontrol itu tidak ada, atau tidak dianggap valid, maka keseluruhan pertanyaan tentang moralitas - apalagi properti - keluar dari jendela.
 
-UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
+UPB adalah kerangka kerja untuk mengevaluasi proposisi moral, atau argumen tentang perilaku yang lebih baik secara universal untuk semua umat manusia. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
 
 If a man has no control over his body, then clearly he has no responsibility for his actions – they are not in fact “his” actions, but rather the actions of his body. Now, no one would rationally argue that if a man strangles another man, it is the murderous fingers that should be put on trial and punished. Clearly, the body cannot entirely control itself, but rather must be to some degree under the direction of the conscious mind.
 
