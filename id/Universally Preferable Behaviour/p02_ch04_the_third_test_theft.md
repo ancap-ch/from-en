@@ -24,29 +24,29 @@ Jadi jika saya katakan kepada Anda bahwa saya tidak memiliki kendali atas pidato
 
 Jadi tindakan mengendalikan tubuh saya untuk menghasilkan ucapan menuntut penerimaan kemampuan saya mengendalikan pidato saya - penegasan implisit atas kepemilikan saya atas tubuh saya sendiri.
 
-Sekarang, jika kepemilikan setan adalah kejadian yang benar, dan seorang gadis yang dikuasai iblis meludahi seorang imam, kita tidak akan menyebut *gadis* itu kasar, tapi lebih baik mengasihani dia karena dihuni oleh setan yang tidak sopan. Siapa pun yang memiliki kendali atas tubuh gadis itu bersalah atas efek tindakannya - inilah mengapa kita tidak akan memanggil orang yang mencuri sambil berjalan dalam tidur "jahat," karena ia tidak memiliki kendali penuh atas tubuhnya sendiri (walaupun kita dapat menahannya dengan cara lain). This is also the basis for the legal defence of “not guilty by reason of insanity,” which is that we assume that a man who is insane does not have full control over his actions.
+Sekarang, jika kepemilikan setan adalah kejadian yang benar, dan seorang gadis yang dikuasai iblis meludahi seorang imam, kita tidak akan menyebut *gadis* itu kasar, tapi lebih baik mengasihani dia karena dihuni oleh setan yang tidak sopan. Siapa pun yang memiliki kendali atas tubuh gadis itu bersalah atas efek tindakannya - inilah mengapa kita tidak akan memanggil orang yang mencuri sambil berjalan dalam tidur "jahat," karena ia tidak memiliki kendali penuh atas tubuhnya sendiri (walaupun kita dapat menahannya dengan cara lain). Ini juga merupakan dasar untuk pembelaan hukum "tidak bersalah karena alasan kegilaan," yaitu bahwa kita menganggap bahwa orang yang gila tidak memiliki kendali penuh atas tindakannya.
 
-Thus to reject the ownership of the body is to reject all morality, which, as we have seen above, is utterly impossible. Logically, since morality is defined as an enforceable subset of UPB, to reject morality is to say that it is universally preferable to believe that there is no such thing as universal preferences.
+Dengan demikian menolak kepemilikan tubuh adalah menolak semua moralitas, yang, seperti yang telah kita lihat di atas, sama sekali tidak mungkin. Logikanya, karena moralitas didefinisikan sebagai subset UPB, yang dapat dilaksanakan untuk menolak moralitas adalah mengatakan bahwa secara umum lebih baik untuk percaya bahwa tidak ada preferensi universal.
 
-Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
+Akhirnya, untuk menggunakan kepemilikan seseorang terhadap tubuh seseorang dalam bentuk pidato untuk menolak gagasan bahwa seseorang dapat mengendalikan tubuh sendiri, adalah kontradiksi diri yang terang-terangan dan tidak dapat diatasi.
 
-It is in this way that any rejection of self-ownership can be utterly discarded.
+Dengan cara inilah penolakan kepemilikan diri dapat benar-benar dibuang.
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+Karena kita memiliki tubuh kita, kita pasti juga memiliki *efek* dari tindakan kita, baik itu baik atau buruk. Jika kita memiliki efek dari tindakan kita, maka jelaslah kita memiliki apa yang kita hasilkan, apakah yang kita hasilkan adalah busur, atau buku - atau pembunuhan.
 
-### Property And UPB
+### Properti Dan UPB
 
-Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
+Sekalipun kita tolak di atas, kita masih bisa menggunakan UPB untuk secara definitif menegaskan adanya hak kekayaan universal.
 
-As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
+Seperti disebutkan di atas, baik manusia memiliki hak kepemilikan, atau tidak. Kecuali beberapa area abu-abu, yang akan segera kita dapatkan, ini tetap merupakan proposisi universal.
 
-If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
+Jika seorang pria tidak memiliki hak untuk menggunakan properti, maka dia tidak memiliki hak untuk menggunakan tubuhnya sendiri. Dia tidak punya hak untuk menggunakan paru-parunya sendiri, dan karena itu harus berhenti bernapas. Meskipun ini terdengar konyol, ini adalah hasil langsung dan tak terelakkan dari premis bahwa manusia tidak memiliki hak kepemilikan.
 
-It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
+Cukup aman untuk berasumsi bahwa siapa pun yang memperdebatkan hak kepemilikan Anda dengan menarik napas, dan karenanya setuju dengan Anda bahwa dia berhak menggunakan tubuhnya sendiri setidaknya.
 
-The question then comes up whether or not human beings have the right to *exclusive* property use. For instance, property could be defined as a sort of time-share principle of ownership, insofar as everyone should have the right to own everything, on some schedule or another.
+Pertanyaannya kemudian muncul apakah manusia memiliki hak untuk menggunakan properti *eksklusif*. Misalnya, properti dapat didefinisikan sebagai semacam prinsip kepemilikan saham waktu, sepanjang setiap orang berhak memiliki segalanya, dalam beberapa jadwal atau lainnya.
 
-This means of course that a man with lung cancer has a right to at least one lung of a healthy person. Since all ownership starts with the body, if we do not have the right to exclusive ownership over our own body, then we must share our body with other people, or be immoral. The sick man has a right to one of our lungs, and if we withhold it from him, that is exactly the same as stealing it. Similarly, both you and I have the right to use Celine Dion’s singing voice, since it is wholly selfish of her to pretend that she has exclusive ownership of it.
+Ini tentu saja berarti bahwa seorang pria dengan kanker paru-paru memiliki hak untuk setidaknya satu paru-paru dari orang yang sehat. Karena semua kepemilikan dimulai dengan tubuh, jika kita tidak memiliki hak atas kepemilikan eksklusif atas tubuh kita sendiri, maka kita harus berbagi tubuh kita dengan orang lain, atau menjadi tidak bermoral. Orang sakit memiliki hak untuk salah satu dari paru-paru kita, dan jika kita menahannya darinya, itu sama persis dengan mencurinya. Demikian pula, Anda dan saya berhak menggunakan suara nyanyian Celine Dion, karena sepenuhnya mementingkan dirinya sendiri untuk berpura-pura memiliki kepemilikan eksklusif atas dirinya.
 
 If human beings do not possess exclusive ownership over their own bodies, then the crime of rape becomes meaningless, since a woman clearly does not exclusively own her vagina, and neither does a man own his own various orifices. If exclusive self-ownership is not an axiom, then even the crime of murder becomes meaningless.
 
