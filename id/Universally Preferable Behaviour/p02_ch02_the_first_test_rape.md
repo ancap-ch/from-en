@@ -1,28 +1,28 @@
 ## Tes Pertama: Pemerkosaan
 
-Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
+Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Pembunuhan bisa dipersulit dengan pembelaan diri; pencurian oleh masalah kelaparan atau "mencuri kembali" - tapi orang tidak pernah bisa memperkosa pembelaan diri; Dengan definisi yang sangat berarti inisiasi agresi.
 
-Let us then use the UPB framework to examine the logical consistency of ethical propositions regarding rape, with reference to these seven moral categories.
+Mari kita gunakan kerangka UPB untuk memeriksa konsistensi logis dari proposisi etis mengenai pemerkosaan, dengan mengacu pada tujuh kategori moral ini.
 
-### The Good
+### Yang baik
 
-To take an absurd example, let’s imagine that we are reviewing an ethical theory that proclaims that rape is a moral good.
+Sebagai contoh yang masuk akal, mari kita bayangkan bahwa kita sedang mengkaji sebuah teori etis yang menyatakan bahwa pemerkosaan adalah kebaikan moral.
 
-Clearly, if I proclaim that “X” is “the good,” then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+Jelas, jika saya menyatakan bahwa "X" adalah "barang bagus", maka kebalikan dari "X" pasti jahat. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
 
 Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
 
-That which enables virtue cannot be evil. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
+Yang memungkinkan kebajikan tidak bisa menjadi jahat. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
 
-If it is morally good to be a rapist, and one can only be a rapist by sexually assaulting a victim, then clearly the victim must be morally good by resisting the sexual assault – since if he does not resist, it is by definition not rape, and therefore not virtuous. In other words, *attacking* virtue by definition *enables* virtue. Thus we have an insurmountable paradox, in which the victim must attack virtue in order to enable virtue – he must resist sexual assault in order to enable the “virtue” of the rapist. Thus not only can the rape victim *not* be virtuous, but he must resist and attack “virtue” in order to allow it.
+Jika secara moral baik menjadi pemerkosa, dan seseorang hanya bisa menjadi pemerkosa dengan melakukan penganiayaan seksual terhadap korban, maka jelas korban harus secara moral baik dengan melawan kekerasan seksual - karena jika dia tidak menolak, maka menurut definisi bukan pemerkosaan., dan karena itu tidak berbudi luhur. In other words, *attacking* virtue by definition *enables* virtue. Dengan demikian, kita memiliki paradoks yang tidak dapat diatasi, di mana korban harus menyerang kebajikan untuk memungkinkan kebajikan - ia harus menolak serangan seksual untuk memungkinkan "kebajikan" pemerkosa. Thus not only can the rape victim *not* be virtuous, but he must resist and attack “virtue” in order to allow it.
 
-Insurmountable logical problems thus result from the proposition: “rape is moral.” Remember, we agreed that a rational theory cannot propose opposite states for the same situation. All other things being equal, a rock cannot fall both up and down at the same time, and a valid theory cannot predict that one rock will fall up, while another rock will fall down.
+Masalah logis yang tidak dapat diatasi karenanya dihasilkan dari proposisi: "pemerkosaan itu bermoral." Ingat, kita sepakat bahwa teori rasional tidak dapat mengusulkan keadaan yang berlawanan untuk situasi yang sama. Semua hal lainnya sama, batu tidak bisa jatuh ke atas dan ke bawah pada saat bersamaan, dan teori yang benar tidak dapat memprediksi bahwa satu batu akan jatuh, sementara batu lain akan jatuh.
 
-In the same way, two men in a room must be considered to be in the same situation. If only one of them can be good, because goodness is defined as rape, and only one of them can rape at any time, then we have a logical contradiction that cannot be resolved.
+Dengan cara yang sama, dua pria di ruangan harus dipertimbangkan dalam situasi yang sama. Jika hanya satu dari mereka bisa menjadi baik, karena kebaikan didefinisikan sebagai pemerkosaan, dan hanya satu di antaranya yang bisa memperkosa kapan saja, maka kita memiliki kontradiksi logis yang tidak dapat dipecahkan.
 
-Also, if we recall that Universally Preferable Behaviour must be independent of time, then we also face a logical problem that, no matter what his physical virility, at some point the rapist will simply be unable to rape any more, because he will be physically unable to get an erection. At that point, his ability to perform the “good action” becomes impossible. Since “avoidability” is a key criterion for morality, but he is physically unable to be good – in other words, he is unable to avoid being evil – then he cannot be responsible for not raping the other man.
+Juga, jika kita ingat bahwa Perilaku yang Diutamakan Secara Universal harus bebas dari waktu, maka kita juga menghadapi masalah logis bahwa, tidak peduli seberapa kejam fisiknya, pada suatu saat pemerkosa tidak akan dapat memperkosa lagi, karena dia akan secara fisik tidak bisa ereksi. Pada saat itu, kemampuannya untuk melakukan "tindakan baik" menjadi tidak mungkin. Karena "penghindaran" adalah kriteria kunci untuk moralitas, namun secara fisik dia tidak mampu menjadi baik - dengan kata lain, dia tidak dapat menghindari kejahatan - maka dia tidak dapat bertanggung jawab untuk tidak memperkosa orang lain.
 
-If a man hanging from a tree over a canyon lets go because he lacks the strength to continue holding on, we would not call that a suicide, since the choice to hang on was no longer available to him. If he lets go although he has the strength to continue holding on, the case would not be quite so clear.
+Jika seorang pria yang menggantung dari pohon di atas ngarai membiarkannya pergi karena dia tidak memiliki kekuatan untuk terus berpegangan, kami tidak akan menyebutnya sebagai bunuh diri, karena pilihan untuk bertahan tidak lagi tersedia baginya. If he lets go although he has the strength to continue holding on, the case would not be quite so clear.
 
 #### The Coma Test
 
