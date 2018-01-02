@@ -18,27 +18,27 @@ Bagaimana lagi kita bisa tahu bahwa konsep "peraturan moral" itu sah?
 
 Kita bisa memeriksa pertanyaan secara biologis maupun syllogistically.
 
-Misalnya, semua materi tunduk pada peraturan fisik - dan segala sesuatu yang hidup adalah tambahan yang tunduk pada persyaratan tertentu, dan dengan demikian, jika masih hidup, harus mengikuti perilaku yang disukai secara keseluruhan. Hidup, misalnya, membutuhkan bahan bakar dan oksigen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+Misalnya, semua materi tunduk pada peraturan fisik - dan segala sesuatu yang hidup adalah tambahan yang tunduk pada persyaratan tertentu, dan dengan demikian, jika masih hidup, harus mengikuti perilaku yang disukai secara keseluruhan. Hidup, misalnya, membutuhkan bahan bakar dan oksigen. Setiap pikiran yang hidup, tentu saja, adalah bagian organik dari dunia fisik, dan karenanya tunduk pada hukum fisika dan harus mengikuti perilaku yang disukai secara keseluruhan - untuk berpendapat sebaliknya akan memerlukan bukti bahwa kesadaran tidak terdiri dari materi, dan bukan organik - sebuah kemustahilan, karena memiliki massa, energi, dan kehidupan. Dengan berdebat bahwa kesadaran tidak tunduk pada aturan fisik atau perilaku yang disukai secara umum akan seperti mengatakan bahwa manusia kebal terhadap gravitasi, dan dapat berkembang tanpa makan.
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+Dengan demikian, tidak mungkin seseorang secara logis berdebat melawan perilaku yang lebih baik secara universal, karena jika dia masih hidup untuk diperdebatkan, dia pasti telah mengikuti perilaku yang disukai secara umum seperti bernapas, makan dan minum.
 
-Syllogistically, this is:
+Secara sinis, ini adalah:
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+1. Semua organisme membutuhkan perilaku yang disukai secara keseluruhan untuk hidup.
+2. Manusia adalah makhluk hidup.
+3. Oleh karena itu semua makhluk hidup masih hidup karena praktik perilaku yang disukai secara universal.
+4. Oleh karena itu, setiap argumen melawan perilaku yang lebih baik secara universal memerlukan penerimaan dan praktik perilaku yang disukai secara universal.
+5. Oleh karena itu tidak ada argumen yang menentang adanya perilaku yang lebih baik secara universal dapat berlaku.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+Karena metode ilmiah memerlukan pembuktian empiris, kita juga harus melihat kenyataan untuk mengkonfirmasi hipotesis kita - dan di sini validitas perilaku yang lebih baik secara keseluruhan didukung sepenuhnya.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Setiap manusia waras percaya pada aturan moral.   Konteks | Permintaan Konteks. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. Orang dapat berpendapat bahwa Bumi itu bulat dan tidak datar - yang sama dengan mengubah definisi moralitas - namun orang tidak dapat membantah bahwa Bumi tidak ada sama sekali - yang seperti berpendapat bahwa tidak ada perilaku universal yang lebih baik.
 
-Or:
+Atau:
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
+1. Agar teori ilmiah menjadi valid, maka harus didukung oleh pengamatan empiris.   Konteks | Permintaan Konteks.
+2. Jika konsep "perilaku yang lebih disukai secara universal" berlaku, maka umat manusia harus percaya pada perilaku yang lebih baik secara universal.
+3. Semua pria percaya pada perilaku yang lebih baik secara universal.   Konteks | Permintaan Konteks.
 4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
 
 The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
