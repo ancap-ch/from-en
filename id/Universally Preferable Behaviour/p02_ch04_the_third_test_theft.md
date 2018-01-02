@@ -48,13 +48,13 @@ Pertanyaannya kemudian muncul apakah manusia memiliki hak untuk menggunakan prop
 
 Ini tentu saja berarti bahwa seorang pria dengan kanker paru-paru memiliki hak untuk setidaknya satu paru-paru dari orang yang sehat. Karena semua kepemilikan dimulai dengan tubuh, jika kita tidak memiliki hak atas kepemilikan eksklusif atas tubuh kita sendiri, maka kita harus berbagi tubuh kita dengan orang lain, atau menjadi tidak bermoral. Orang sakit memiliki hak untuk salah satu dari paru-paru kita, dan jika kita menahannya darinya, itu sama persis dengan mencurinya. Demikian pula, Anda dan saya berhak menggunakan suara nyanyian Celine Dion, karena sepenuhnya mementingkan dirinya sendiri untuk berpura-pura memiliki kepemilikan eksklusif atas dirinya.
 
-If human beings do not possess exclusive ownership over their own bodies, then the crime of rape becomes meaningless, since a woman clearly does not exclusively own her vagina, and neither does a man own his own various orifices. If exclusive self-ownership is not an axiom, then even the crime of murder becomes meaningless.
+Jika manusia tidak memiliki kepemilikan eksklusif atas tubuh mereka sendiri, maka kejahatan pemerkosaan menjadi tidak berarti, karena seorang wanita jelas tidak secara eksklusif memiliki vaginanya, dan juga tidak ada seorang pria memiliki berbagai lubangnya sendiri. If exclusive self-ownership is not an axiom, then even the crime of murder becomes meaningless.
 
-It is no crime to commit suicide, any more than it is to set fire to your own house, since the destruction of one’s own property is a valid exercise of ownership. However, if exclusive self-ownership is invalid, then there can be no distinction between murder and suicide. If my liver is failing, and I have a right to take yours, then I can “repossess” it in perfect accordance with morality and honourable behaviour. If this procedure kills you, so what? Without exclusive self-ownership, there is no “you” to begin with…
+It is no crime to commit suicide, any more than it is to set fire to your own house, since the destruction of one’s own property is a valid exercise of ownership. Namun, jika kepemilikan diri eksklusif tidak benar, maka tidak ada perbedaan antara pembunuhan dan bunuh diri. If my liver is failing, and I have a right to take yours, then I can “repossess” it in perfect accordance with morality and honourable behaviour. If this procedure kills you, so what? Without exclusive self-ownership, there is no “you” to begin with…
 
 Thus we can reasonably say that exclusive self-ownership is a basic reality – that all human beings at all times and in all places have exclusive ownership over their own bodies, and thus have exclusive ownership over the effects of their own bodies, both in terms of moral behaviour and property creation or acquisition.
 
-### The Grey Areas
+### Daerah abu-abu
 
 Naturally, any statement such as the above brings the inevitable howls of “complexity,” which I fully agree with.
 
