@@ -38,19 +38,19 @@ Pada titik ini, keberatan cukup dapat diangkat bahwa jika seseorang yang koma ti
 
 Konsep "avoidability" bekerja secara positif maupun negatif. Jika saya kehilangan alat kelamin saya dalam kecelakaan yang mengerikan, apakah saya bermoral karena menahan diri dari pemerkosaan? Kelihatannya sulit untuk membantah bahwa saya dapat melakukannya, karena perkosaan genital setidaknya tidak mungkin bagi saya. Demikian pula, kita bisa memanggil seorang pria "murah hati" jika dia memberi seratus dolar kepada seorang pengemis - bagaimanapun, kita pasti akan merevisi perkiraan kita jika ternyata ia menyerahkan uangnya saat berjalan dalam tidur, dan dengan malang menyesali tindakannya saat bangun tidur.
 
-Dengan demikian kita dapat dengan mudah mengatakan bahwa di mana pilihan tidak hadir, atau tidak dapat diterapkan, moralitas juga tidak ada, atau tidak dapat diterapkan. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
+Dengan demikian kita dapat dengan mudah mengatakan bahwa di mana pilihan tidak hadir, atau tidak dapat diterapkan, moralitas juga tidak ada, atau tidak dapat diterapkan. Dengan demikian pria dalam keadaan koma, sementara tindakannya tidak bisa dianggap jahat, juga tidak bisa dianggap baik. Dia ada di negara bagian tanpa pilihan, seperti bayi, atau binatang - sehingga ia dapat secara wajar dikecualikan dari peraturan moral, karena ada keadaan fisik yang secara obyektif membedakannya dari orang yang dapat memilih, yang diijinkan di bawah UPB.
 
-With that in mind, let us continue our examination of rape.
+Dengan pemikiran itu, mari kita lanjutkan pemeriksaan pemerkosaan.
 
-### Aesthetically Positive
+### Secara estetis Positif
 
-Aesthetically positive actions (APAs) are universally preferable, but not enforceable through violence, since aesthetically negative actions do not initiate the use of force. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
+Tindakan positif secara estetis (APAs) lebih disukai secara universal, namun tidak dapat dilaksanakan melalui kekerasan, karena tindakan negatif secara estetis tidak memulai penggunaan kekerasan. Seperti yang telah kita bahas di atas, jika saya terlambat bertemu dengan Anda, saya belum memulai penggunaan kekuatan melawan Anda, dan saya belum menyingkirkan kemampuan Anda untuk memilih, atau menghindari situasi ini.
 
-If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
+Jika kita mengatakan bahwa APA dapat ditegakkan melalui kekerasan, maka kita mengatakan bahwa inisiasi kekerasan itu baik secara moral.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+Jika kita mengusulkan sebuah peraturan moral bahwa inisiasi kekerasan itu baik secara moral, maka peraturan ini menghadapi semua kemustahilan logis yang sama seperti peraturan bahwa "perkosaan itu baik secara moral."
 
-Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+Dua pria di sebuah ruangan tidak bisa secara moral baik pada saat yang sama, karena salah satu dari mereka harus melakukan kekerasan terhadap yang lain, dan yang lainnya harus menolaknya - karena jika dia tidak menolaknya, maka definisi tersebut bukan kekerasan, seperti dalam kasus ahli bedah yang telah kita bahas di atas. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
 
 Thus we know that rape cannot be an APA.
 
