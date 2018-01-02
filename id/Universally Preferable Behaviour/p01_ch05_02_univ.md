@@ -41,13 +41,13 @@ Atau:
 3. Semua pria percaya pada perilaku yang lebih baik secara universal.   Konteks | Permintaan Konteks.
 4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+Argumen keempat untuk validitas perilaku yang lebih baik secara universal juga bersifat empiris. Karena manusia memiliki jumlah pilihan yang hampir tak terbatas untuk dibuat dalam kehidupan, untuk mengatakan bahwa tidak ada prinsip perilaku yang lebih baik secara universal adalah mengatakan bahwa semua pilihan sama (yaitu subjektif). However, all choices are *not* equal, either logically or through empirical observation.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+Misalnya, jika makanan tersedia, hampir semua manusia lebih suka makan setiap hari. Saat dingin, hampir semua manusia mencari kehangatan. Hampir semua orang tua memilih untuk memberi makan, berlindung dan mendidik anak-anak mereka.   Konteks | Permintaan Konteks. Ada banyak contoh pilihan umum di antara manusia, yang menunjukkan bahwa perilaku yang lebih baik secara keseluruhan melebihi dan merupakan bagian dari sifat manusia.
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+Seperti disebutkan di atas, tidak ada teori fisika yang valid yang bisa menyangkal fakta sederhana bahwa anak-anak dapat menangkap bola terbang - dengan cara yang sama, tidak ada teori etika yang valid yang dapat menolak bukti tak berujung untuk penerimaan UPB.
 
-Or:
+Atau:
 
 1. Choices are almost infinite.
 2. Most human beings make very similar choices.
