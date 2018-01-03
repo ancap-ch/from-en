@@ -32,7 +32,7 @@ Berbohong juga lebih sesuai dengan kategori *kekerasan*, sejauh moral itu untuk 
 
 Dengan demikian kita mungkin berbohong kepada pembohong, sama seperti kita membela diri dengan diri kita sendiri dari pukulan dengan pukulan, tapi kita tidak akan benar-benar menghormati kepicikan yang semakin meningkat "membalas" orang yang terlambat dengan kembali lagi nanti.
 
-The difference is that “being late” is not as actively destructive as lying. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
+Perbedaannya adalah bahwa "terlambat" tidak secara aktif merusak seperti berbohong. Orang yang terlambat menjengkelkan, tapi pada dasarnya tidak merusak kemampuan kamu untuk memproses yang sebenarnya. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
 
 Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
 
