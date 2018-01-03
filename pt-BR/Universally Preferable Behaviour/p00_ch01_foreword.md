@@ -10,7 +10,7 @@ A fera é sempre imortal, então os aldeões não podem esperar que o tempo os l
 
 A única esperança dos aldeões desesperados é que um homem capaz de derrotar o monstro apareça.
 
-Inevitavelmente, um homem aparece que parece, na vista de todos, ser completamente atemporal. Ele é um garoto do estábulo, um filho de um sapateiro, um aprendiz de padeiro – as vezes, é só um passante.
+Inevitavelmente, um homem avança na vista de todos, ser completamente atemporal. Ele é um garoto do estábulo, um filho de um sapateiro, um aprendiz de padeiro – as vezes, é só um andarilho.
 
 Esse livro é a história de meu ataque pessoal em uma fera do tipo.
 
