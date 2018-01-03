@@ -36,31 +36,31 @@ Kita tidak bisa memiliki keduanya.
 
 ### Solutions
 
-Kita dapat memilih untuk percaya bahwa pemerintah adalah institusi yang perlu dan moral. Kita dapat memilih untuk percaya bahwa, tanpa pemerintah, masyarakat akan runtuh menjadi "anarki," dan dunia akan larut dalam perang melawan semua orang. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Kita dapat memilih untuk percaya bahwa pemerintah adalah institusi yang perlu dan moral. Kita dapat memilih untuk percaya bahwa, tanpa pemerintah, masyarakat akan runtuh menjadi "anarki," dan dunia akan larut dalam perang melawan semua orang. Kita dapat memilih untuk percaya bahwa tanpa pemerintah, tidak akan ada jalan, tidak ada pendidikan, tidak ada perawatan kesehatan, tidak ada pensiun hari tua, tidak ada perpustakaan, tidak ada perlindungan properti dan sebagainya.
 
-Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+Takhayul serupa, tentu saja, telah memperlambat kemajuan umat manusia sepanjang sejarah. Prediktor yang paling signifikan terhadap apa yang diungkapkan UPB tentang pemerintah adalah apa yang diungkap sains tentang agama.
 
 As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
 
 Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+Para pendeta melakukan ini saat permulaan revolusi ilmiah. Tanpa Tuhan, hidup tidak memiliki arti. Tanpa Tuhan, manusia tidak memiliki moralitas. Tanpa Tuhan, jiwa kita tidak bisa diselamatkan. Tanpa Tuhan, dunia akan turun ke dalam kekacauan dan kejahatan.
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Tidak ada yang ternyata benar, tentu saja. In fact, quite the *reverse* turned out to be true. Akhir dari agama sebagai pandangan dunia yang dominan membuka jalan bagi pemisahan gereja dan negara, akhir aristokrasi, bangkitnya pasar bebas, pembentukan banyak kebebasan manusia di wilayah dunia yang signifikan.
 
-The fall of God was the rise of mankind.
+Jatuhnya Tuhan adalah bangkitnya umat manusia.
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+Dengan cara yang sama, ketika kita mulai melihat masyarakat saat ilmuwan awal melihat alam semesta - sebagai sistem mandiri tanpa kebutuhan akan otoritas pusat imajiner - maka kita dapat benar-benar mulai merasakan kemungkinan kebebasan bagi umat manusia.
 
 The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+Cara untuk menentang entitas imajiner adalah dengan kebenaran tanpa henti. Cara menentang Tuhan adalah dengan alasan, bukti dan sains.
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
+Cara untuk menentang negara - entitas imajiner yang paling berbahaya - adalah dengan alasan, bukti dan sains.
 
 ### The Future
 
-Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Whether we like it or not, UPB applies to everything that we do. Manusia memiliki kecenderungan alami menuju konsistensi, karena kita adalah makhluk dengan kesadaran rasional, menghuni alam semesta yang konsisten dan rasional. Jadi, apa pun premis yang kita terima dalam hidup kita cenderung memaksakan perilaku yang lebih konsisten dalam hidup kita - dan sepanjang "kehidupan" budaya atau bangsa kita juga.
 
 Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
 
