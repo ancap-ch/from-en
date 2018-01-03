@@ -1,12 +1,12 @@
 ## Internal Consistency
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+Jika saya seorang arsitek, dan serahkan rencana untuk membangun rumah, rintangan pertama yang harus saya atasi adalah apakah rumah saya bisa dibangun sama sekali atau tidak. Jika saya mengajukan rencana bagus untuk rumah yang seluruhnya terbuat dari gelembung sabun, saya tidak akan pernah mendapatkan komisi, karena "rumah" semacam itu tidak akan pernah bisa bertahan.
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+Demikian pula, jika seorang insinyur mengajukan rencana untuk sebuah jembatan, kriteria pertama yang harus dipuaskan adalah apakah jembatan akan berdiri atau tidak. Pertimbangan lain seperti umur panjang, estetika dan sebagainya hanya akan berlaku jika jembatan ini layak untuk dimulainya secara fisik.
 
-It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
+Ini tidak masuk akal - belum lagi sangat tidak produktif - untuk membangun jembatan dari bahan acak, menggunakan "perhitungan," acak, untuk mengetahui apakah akan berdiri atau tidak. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
 
-There are two ways to determine the viability of the bridge before building it. The first is to look for internal inconsistencies within the premises and calculations that claim to support the viability of the bridge. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+Ada dua cara untuk menentukan viabilitas jembatan sebelum membangunnya. Yang pertama adalah mencari inkonsistensi internal di dalam tempat dan perhitungan yang mengklaim mendukung kelangsungan hidup jembatan. Jika ada kesalahan yang signifikan dalam perhitungan yang membenarkan bobot yang dapat didukung oleh jembatan, maka jembatan tersebut kemungkinan akan dirancang terlalu banyak, atau kurang dirancang. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
 
 The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
 
