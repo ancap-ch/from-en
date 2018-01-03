@@ -66,7 +66,7 @@ A metodologia para julgar e provar uma teoria *moral* é exatamente a mesma meto
 
 A primeira questão sobre regras morais é: *o que* elas são?
 
-Simplesmente, *moral* é um conjunto de regras que afirmam precisamente e consistentemente identificar comportamentos humanos universalmente preferíveis, assim como *física* é um conjunto de regras que afirmam precisamente e consistentemente identificar o comportamento universal da matéria.
+Simplesmente, *moral* é um conjunto de regras que afirmam precisa e consistentemente identificar comportamentos humanos universalmente preferíveis, assim como *física* é um conjunto de regras que afirmam precisa e consistentemente identificar o comportamento universal da matéria.
 
 A segunda questão a ser feita é: existe algum tipo de "comportamento universalmente preferível" em tudo? Se houver, podemos começar a explorar o que esse comportamento pode ser. Se não, então nosso exame deve parar aqui - assim como o exame da astronomia Ptolomaica cessou após ser comumente aceito que o Sol era de fato o centro do sistema solar.
 
