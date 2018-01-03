@@ -14,7 +14,7 @@ Inevitavelmente, um homem aparece que parece, na vista de todos, ser completamen
 
 Esse livro é a história de meu ataque pessoal em uma fera do tipo.
 
-Essa "fera" é a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. É a ilusão de que a moralidade deve para sempre ficar perdida entre os pântanos irracionais de deuses e Estados, "imposta" meramente por razões pragmáticas, porém pra sempre sem uma justificação lógica e definições claras. Ela é a fantasia que a virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares e deixada à poeira para ser explorada e apalpada por políticos e padres – e pais. Tal fera é a superstição que, sem as amarras dos pais, o "bullying" de deuses ou as armas do governos, não podemos ser racionais e bons.
+Essa "fera" é a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. É a ilusão de que a moralidade deve para sempre ficar perdida entre os pântanos irracionais de deuses e "estados", impostos meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Ela é a fantasia que a virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares e deixada à poeira para ser explorada e apalpada por políticos e padres – e pais. Tal fera é a superstição que, sem as amarras dos pais, o "bullying" de deuses ou as armas do governos, não podemos ser racionais e bons.
 
 Esse monstro derrubou muitos grandes heróis, de Sócrates à Platão, Santo Agostinho à Hume, Kant à Rand.
 
