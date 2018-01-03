@@ -1,14 +1,14 @@
-## Foreword
+## Kata pengantar
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+Dalam banyak dongeng, di sana hidup seekor binatang buas yang luar biasa dengan kekuatan luar biasa, naga atau basilisk, yang menghias tanah di sekitarnya. Penduduk desa setempat gemetar sebelum monster ini; mereka mengorbankan hewan mereka, membayar uang dan darah dengan harapan bisa memenuhi impuls pembunuhnya.
 
 Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
 
 Try – and fail.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Binatang itu selalu abadi, sehingga penduduk desa tidak bisa berharap waktu untuk membebaskan mereka dari lalim mereka. Binatang itu tidak pernah rasional, dan tidak memiliki keinginan untuk berdagang, jadi tidak ada negosiasi yang mungkin dilakukan.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Harapan hanya penduduk desa yang putus asa adalah agar seorang pria muncul yang bisa mengalahkan binatang itu.
 
 Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
 
@@ -24,11 +24,11 @@ Since we have remained unable to define a rational system of universal morality,
 
 Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Kita tidak bisa hidup tanpa moralitas, tapi kita tidak dapat mendefinisikan moralitas secara obyektif - oleh karena itu kita tetap dikutuk selamanya untuk mengosongkan kehidupan kemunafikan sombong, dominasi sinis atau perbudakan saleh.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Secara intelektual, tidak ada taruhan yang lebih tinggi di dunia. Kegagalan kita untuk mendefinisikan peraturan moral objektif dan rasional telah menghabiskan ratusan juta nyawa manusia, dalam perang agama dan negara.
 
-In many ways, the stakes are getting even higher.
+Dalam banyak hal, taruhannya semakin tinggi.
 
 The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
 
@@ -44,7 +44,7 @@ This “beast” of relativistic ethics looms above us, preying on us, justifyin
 
 As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+Alasan moralitas modern - dan moralitas sepanjang sejarah - selalu bergantung pada intimidasi anak-anak, dan kemudian mengancam orang dewasa, adalah bahwa kebohongan manipulatif menyamar sebagai sebuah kebenaran yang baik.
 
 The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
 
