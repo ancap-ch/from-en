@@ -2,7 +2,7 @@
 
 Em vários contos de fadas, vive uma terrível fera de poder estupendo, um dragão ou um basilisco, que em terras próximas tiranizava. Os aldeões locais tremem perante o som desse monstro; eles sacrificam seus animais, pagam seus tributos – dinheiro e sangue –na esperança de acalmar os impulsos assassinos do monstro.
 
-A maioria acovardava-se sob a sombra dessa fera, autoproclamando seu medo de “prudência”, mas alguns – bêbados talvez, em coragem ou estupidez – decidiriam lutar. Ano após ano, década após década, onda após onda de promitentes campeões tentam por à prova suas forças, virtudes e astúcias à do terrível tirano.
+A maioria acovardava-se sob a sombra dessa fera, autoproclamando seu medo de “prudência”, mas alguns — bêbados talvez, em coragem ou estupidez — decidiriam lutar. Ano após ano, década após década, onda após onda de promitentes campeões tentam por à prova suas forças, virtudes e astúcias à do terrível tirano.
 
 Tentam - e falham.
 
@@ -24,13 +24,13 @@ Havíamos sendo desde então permanecidos incapazes de definir um sistema univer
 
 Assim quando denominamos "ética" sendo subjetiva e meramente *cultural*, nos resultaria inevitavelmente no "bullying", medo e violência a coagir às regras sociais. Sendo a ética, carente de uma base racional como o método científico, “moralidade” permanece presa numa guerra tribal de mitologias sangrentas; cada gangue lutando com unhas e dentes pelo controle individual da “virtude".
 
-Somos incapazes de viver sem moralidade, mas também incapazes de definir moralidade objetivamente – portanto permanecemos eternamente nessa sentença de vidas vazias, preenchidas apenas de hipocrisia egocêntrica, supremacia cínica ou devota servidão.
+Somos incapazes de viver sem moralidade, mas também incapazes de definir moralidade objetivamente — portanto permanecemos eternamente nessa sentença de vidas vazias, preenchidas apenas de hipocrisia egocêntrica, supremacia cínica ou devota servidão.
 
 Intelectualmente, não há maior aposta no mundo. Nossa falha a definir regras morais objetivas e racionais custou centenas de milhões de vidas humanas, em guerras de religiões e estados.
 
 Em muitos aspectos, a aposta está ficando cada vez maior.
 
-O aumento de fluxo de informações pela internet obteve elevadas suspeitas de uma nova geração que considera o que chamamos de “virtude” nada mais é - ou menos é - que contos–de–fada prontos de seus anciães hipócritas. As mentiras pífias contadas por aqueles em posições de autoridade – e a cumplicidade daqueles que os louvam – são, hoje, mais claras do que nunca.
+O aumento de fluxo de informações pela internet obteve elevadas suspeitas de uma nova geração que considera o que chamamos de “virtude” nada mais é - ou menos é - que contos–de–fada prontos de seus anciães hipócritas. As pífias mentiras contadas por aqueles em posições de autoridade — e a cumplicidade daqueles que os louvam — são mais claras do que nunca foram.
 
 “Verdades” foram expostas como manipulação; “virtudes” como controle; “lealdade” como escravidão, e o que chamamos de moralidade foi revelado como um ridículo show de marionetes projetado para enganar pessoas fracas e tementes e convence-las à se oferecerem como escravos.
 
