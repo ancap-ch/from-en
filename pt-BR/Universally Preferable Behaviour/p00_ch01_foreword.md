@@ -1,6 +1,6 @@
 ## Prefácio
 
-Em vários contos de fadas, vive uma fera terrível de poder estupendo, um dragão ou um basilisco, que tiraniza as terras próximas. Os habitantes dos vilarejos próximos tremem perante o som desse monstro; eles sacrificam seus animais, pagam seus tributos, pagam dinheiro e sangue na esperança de acalmar os impulsos assassinos do monstro.
+Em vários contos de fadas, vive uma fera terrível de poder estupendo, um dragão ou um basilisco, que em terras próximas tiranizava. Os habitantes dos vilarejos próximos tremem perante o som desse monstro; eles sacrificam seus animais, pagam seus tributos, pagam dinheiro e sangue na esperança de acalmar os impulsos assassinos do monstro.
 
 A maioria se acovarda sob a sombra dessa fera, autoproclamando seu medo de “prudência”, mas alguns – bêbados talvez, em coragem ou estupidez – decidem enfrentar o monstro. Ano após ano, década após década, onda após onda de campeões esperançosos tentam equiparar a sua força, virtude e astúcia à do terrível tirano.
 
