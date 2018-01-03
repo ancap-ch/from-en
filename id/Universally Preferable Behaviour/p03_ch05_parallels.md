@@ -1,16 +1,16 @@
 ## Parallels
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Sebelum Revolusi Ilmiah, dianggap tidak terbayangkan bahwa alam dapat mempertahankan dirinya tanpa entitas sadar dan "moral" di pusatnya. Matahari terbit mengikuti rantai kereta supranatural; Bulan adalah saudara matahari yang dingin dan kesepian. Konstelasi menggambarkan dongeng dan makam para dewa, dan badai berasal dari kemarahan setan.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+Gagasan bahwa alam adalah sistem self-generating dan self-sustaining hampir tak terbayangkan. Revolusi Darwin, gagasan bahwa hidup tidak diciptakan, melainkan berevolusi, membawa gagasan ini dari materi ke dunia biologis.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Sebelum sains, di pusat setiap sistem yang kompleks terdapat kesadaran yang saleh - tanpa sistem ini akan terbang ke dalam kekacauan, dan berhenti menjadi.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Sayangnya, "kesadaran berbudi luhur" ini hanyalah sebuah ilusi, untuk membuatnya lebih mulia. No such gods existed – all that *did* exist were the pronouncements of priests. Jadi yang benar-benar terbaring di tengah adalah bias individu irasional, yang tidak tahu betapa marahnya mereka sebenarnya.
 
 We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+Kami menganggap penting bahwa, di tengah masyarakat, kami menempatkan entitas saleh yang disebut "pemerintah." Dengan tidak adanya entitas ini, kami menganggapnya sebagai aksiomatis bahwa masyarakat akan terbang ke dalam kekacauan, dan berhenti menjadi - sama seperti nenek moyang kita menganggap bahwa, dengan tidak adanya tuhan, alam semesta itu sendiri akan terbang ke dalam kekacauan, dan berhenti menjadi.
 
 However, “the government” no more exists than “god” exists.
 
@@ -18,25 +18,25 @@ When we speak of “gods,” we are really talking about “the opinions of prie
 
 When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+Gagasan "tatanan spontan", yang terbukti dengan baik di bidang fisika dan biologi, sebagian besar tidak dapat terbayangkan oleh kita di ranah masyarakat.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+Namun, "pemerintah" tidak dibutuhkan lagi untuk organisasi dan kelanjutan masyarakat daripada "tuhan" yang dibutuhkan untuk organisasi dan kelanjutan alam semesta.
 
-In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+Sebenarnya, sama seperti agama menghambat kemajuan sains, begitu juga pemerintah menghambat kemajuan masyarakat. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+Sama seperti etika agama palsu "membenarkan" semua perilaku pelecehan, korupsi dan kekerasan, demikian juga etika palsu pemerintah. Bila kita memilih hidup dengan fantasi, kita pasti memilih kehancuran, dalam satu bentuk atau bentuk lain.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+Bila kita memilih menjalankan masyarakat menurut mitologi moral keagamaan, kita berakhir dengan perang, kekerasan, represi, pelecehan, korupsi dan kemunafikan tanpa dasar.
 
 When we choose to run society according to *statist* moral mythologies, the results are no different.
 
-We can either choose virtue or compulsion.
+Kita bisa memilih kebajikan atau paksaan.
 
-We cannot have both.
+Kita tidak bisa memiliki keduanya.
 
 ### Solutions
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Kita dapat memilih untuk percaya bahwa pemerintah adalah institusi yang perlu dan moral. Kita dapat memilih untuk percaya bahwa, tanpa pemerintah, masyarakat akan runtuh menjadi "anarki," dan dunia akan larut dalam perang melawan semua orang. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
 
 Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
 
