@@ -2,9 +2,9 @@
 
 La primera edición de * La Economía y la Ética de la Propiedad Privada *, publicada en 1993, ha estado fuera de impresión desde hace varios años. Durante algun tiempo y desde muchos lados he sido exhortado a preparar una nueva edicion, y Llewellyn Rockwell ofreció el instituto Ludwig Von Mises para servir como su editorial.
 
-*The Economics and Ethics of Private Property* was dedicated to my teacher and mentor, Murray N. Rothbard, with whom I had been closely associated during the last ten years of his life, first as a visiting scholar at the Brooklyn Polytechnic Institute in New York City and after 1986 as a colleague at the University of Nevada, Las Vegas. The year 2005 marks the tenth anniversary of Rothbard’s death. Thus, it seemed a most appropriate time to honor Murray anew with this second edition.
+*La economía y ética de la propiedad privada* fue dedicado a mi profesor y mentor, Munrray N. Rothbard, con quien he sido estrechamente asociado durante los últimos diez años de su vida, primero como un académico visitante en el instituto Politécnico de Brooklyn en la ciudad de Nueva York y después del año 1986 como un colega en la Universidad de Nevada, Las Vegas. El año 2005 marca el décimo aniversario de la muerte de Rothbard. Asi, este parecia el momento mas apropiado para honrar a Murray nuevamente con esta segunda edicion.
 
-The present edition of *The Economics and Ethics of Private Property* is enlarged. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+La presente edición de *La Economía y ética de la propiedad privada* está extendida. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
 
 Hans Hermann Hoppe
 
