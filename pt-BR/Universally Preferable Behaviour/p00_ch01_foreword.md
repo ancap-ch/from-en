@@ -18,7 +18,7 @@ Essa "fera" é a crença de que é impossível definir um sistema ético objetiv
 
 Esse monstro derrubou muitos heróis formidáveis, de Sócrates à Platão, Santo Agostinho à Hume, Kant à Rand.
 
-O custo para a humanidade tem sido enorme.
+O custo à humanidade foi enorme.
 
 Já que nós temos permanecido incapazes de definir um sistema racional de moralidade universal, nós fomos forçados a infligir histórias religiosas de horror em nossas crianças, ou dar armas, prisões e exércitos para um monopólio de controladores sem alma que se autodenominam “Estado."
 
