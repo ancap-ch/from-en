@@ -2,10 +2,10 @@
 
 Di bawah ini ada daftar pangram bergaya yang disebutkan, yang menunjukkan setiap karakter, baik dalam bahasa Inggris maupun bahasa lainnya.
 
-1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
+1. huruf besar: JIKA CEPAT, BROWN FOX JUMPS OVER A LAZY DOG. 
 2. numbers: 0123456789. 
 3. symbols: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
-4. emphasys: *The quick, brown fox jumps over a lazy dog.* 
+4. emphasys: *Seekor rubah cokelat cepat melompat di atas seekor anjing malas.* 
     1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
     2. inner emphasys: **The *The quick, brown fox jumps over a lazy dog* dog.** 
         1. en: The quick, brown *fox* **jumps *over* a** lazy dog.
@@ -27,13 +27,13 @@ Sekarang daftar yang tidak disebutkan:
     * Second level
 * First level
 
-Some quotation. First line is large; second line is small; third line is empty; fourth line is not. 5th line is not a quotation; 6th line is:
+Beberapa kutipan. Baris pertama sangat besar; garis kedua kecil; baris ketiga kosong; Baris keempat tidak. Baris kelima bukanlah sebuah kutipan; Baris ke 6 adalah:
 
-> 1th line is large: The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. 2th line is small: The quick, brown fox jumps over a lazy dog.
+> Garis 1 besar: Rubah cepat dan coklat melompati seekor anjing malas. Seekor rubah cokelat cepat melompat di atas seekor anjing malas. Seekor rubah cokelat cepat melompat di atas seekor anjing malas. Seekor rubah cokelat cepat melompat di atas seekor anjing malas. Seekor rubah cokelat cepat melompat di atas seekor anjing malas. Seekor rubah cokelat cepat melompat di atas seekor anjing malas. Seekor rubah cokelat cepat melompat di atas seekor anjing malas. Seekor rubah cokelat cepat melompat di atas seekor anjing malas. Seekor rubah cokelat cepat melompat di atas seekor anjing malas. Seekor rubah cokelat cepat melompat di atas seekor anjing malas. Garis 2 adalah kecil: Rubah cepat dan coklat melompati seekor anjing malas.
 > 
-> 4th line is not empty: The quick, brown fox jumps over a lazy dog.
+> Baris ke 4 tidak kosong: Rubah cepat dan coklat melompati seekor anjing malas.
 > 
-> 6th line is a quotation: The quick, brown fox jumps over a lazy dog.
+> Baris ke 6 adalah sebuah kutipan: Rubah coklat cepat dan cepat melompati seekor anjing malas.
 
 # Headings
 
