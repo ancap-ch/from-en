@@ -59,19 +59,19 @@ a. ***License grant.***
     
     1. **Downstream recipients.**
         
-        A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+        A. **Penawaran dari Pemberi Lisensi - Materi Berlisensi.** Setiap penerima Bahan Berizin secara otomatis menerima tawaran dari Pemberi Lisensi untuk menggunakan Hak Izin berdasarkan persyaratan dan ketentuan dari Lisensi Publik ini.
         
-        B. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+        B. **Tidak ada batasan di bagian hilir.** Anda mungkin tidak menawarkan atau menerapkan persyaratan atau ketentuan tambahan atau berbeda, atau menerapkan Measurement Technology yang Efektif ke, Bahan Berlisensi jika melakukan hal tersebut membatasi pelaksanaan Hak Izin oleh setiap penerima Bahan Berlisensi.
     
-    2. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+    2. **Tidak ada pengesahan.** Tidak ada dalam Lisensi Publik ini yang merupakan atau dapat dianggap sebagai izin untuk menegaskan atau menyiratkan bahwa Anda, atau penggunaan Anda dari Materi yang Berlisensi, berhubungan dengan, atau disponsori, disetujui, atau diberikan status resmi oleh, Pemberi Lisensi atau pihak lain yang ditunjuk untuk menerima atribusi sebagaimana diatur dalam Bagian 3(a)(1)(A)(i).
 
-b. ***Other rights.***
+b. ***Hak lainnya.***
 
-1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+1. Hak moral, seperti hak integritas, tidak dilisensikan dengan Lisensi Publik ini, juga bukan publisitas, privasi, dan / atau hak kepribadian serupa lainnya; Namun, sejauh mungkin, Pemberi Lisensi melepaskan dan / atau setuju untuk tidak menyatakan hak-hak semacam itu yang dimiliki oleh Pemberi Lisensi sampai batas tertentu yang diperlukan untuk memungkinkan Anda menjalankan Hak Izin, namun tidak sebaliknya.
 
-2. Patent and trademark rights are not licensed under this Public License.
+2. Paten dan hak merek dagang tidak dilisensikan dengan Lisensi Publik ini.
 
-3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
+3. Sejauh mungkin, Pemberi Lisensi melepaskan hak untuk mengumpulkan royalti dari Anda untuk pelaksanaan Hak Izin, baik secara langsung atau melalui masyarakat yang mengumpulkan berdasarkan skema perizinan wajib atau sukarela atau sukarela. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
 
 ### Section 3 – License Conditions.
 
