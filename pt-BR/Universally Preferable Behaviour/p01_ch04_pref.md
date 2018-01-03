@@ -6,9 +6,9 @@ Preferências são fundamentais para qualquer metodologia que queiram definir o 
 
 Neste sentido, "preferível" não significa "melhor", mas sim "necessário". *Se* que você quer viver, é *universalmente preferível* que você não beba veneno. *Se* você deseja determinar verdades válidas sobre a realidade, é *universalmente preferível* que suas teorias sejam internamente consistentes e empiricamente verificáveis. "Universalmente preferível", então, se traduz em "objetivamente necessário," mas nós reteremos a palavra "preferível" para diferenciar entre absolutos humanos opcionais e absolutos físicos não opcionais tais como a gravidade.
 
-Da mesma forma, se teorias éticas podem ser válidas em absoluto, então elas devem *pelo menos* ser ambas consistentes internamente e externamente. Em outras palavras, uma teoria ética que se contradiz, não pode ser válida – e também uma teoria ética que contradiz a evidência empírica e preferências quase universais não pode ser válida.
+Da mesma forma, se teorias éticas puderem sequer serem válidas, então elas devem ser, *pelo menos*, consistentes internamente e externamente. Em outras palavras, uma teoria ética que se contradiz, não pode ser válida – e também uma teoria ética que contradiz a evidência empírica e preferências quase universais não pode ser válida.
 
-Assim, na ética, assim como na ciência, matemática, engenharia e todas as outras disciplinas que comparar teorias à realidade, *teorias válidas devem ser logicamente consistente e empiricamente verificável*.
+Assim, na ética, assim como na ciência, matemática, engenharia e todas as outras disciplinas que comparem teorias à realidade, *teorias válidas devem ser logicamente consistentes e empiricamente verificáveis*.
 
 ### Preferências e existência
 
