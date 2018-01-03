@@ -2,7 +2,7 @@
 
 Pertanyaan tentang *berbohong* menarik karena membahas kebenaran umumnya dianggap lebih disukai secara universal, tetapi tidak bisa di lakukan dengan kekerasan.
 
-Hal ini umumnya dipertimbangkan *lagi* dari persyaratan yang ketat dari pada "tepat waktu," kerena *kurang* lebih tepat dari pada "mencuri." Apa kerangka UPB harus mengatakan tentang ini?
+Hal ini umumnya dipertimbangkan *lagi* dari persyaratan yang ketat dari pada "tepat waktu," kerena *kurang* lebih baik dari pada "mencuri." Apa kerangka UPB harus mengatakan tentang ini?
 
 Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
 
