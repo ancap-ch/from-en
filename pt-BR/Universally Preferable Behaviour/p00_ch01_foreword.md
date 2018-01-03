@@ -30,7 +30,7 @@ Intelectualmente, não há maior aposta no mundo. Nossa falha a definir regras m
 
 Em muitos aspectos, a aposta está ficando cada vez maior.
 
-O aumento de fluxo de informações causado pela internet trouxe suspeita de uma geração que considera que o que chamamos de “virtude” é nada mais - ou menos - que contos de fadas prontos de seus anciãos hipócritas. As mentiras pífias contadas por aqueles em posições de autoridade – e a cumplicidade daqueles que os louvam – são, hoje, mais claras do que nunca.
+O aumento de fluxo de informações pela internet obteve elevadas suspeitas de uma nova geração que considera o que chamamos de “virtude” nada mais é - ou menos é - que contos–de–fada prontos de seus anciães hipócritas. As mentiras pífias contadas por aqueles em posições de autoridade – e a cumplicidade daqueles que os louvam – são, hoje, mais claras do que nunca.
 
 “Verdades” foram expostas como manipulação; “virtudes” como controle; “lealdade” como escravidão, e o que chamamos de moralidade foi revelado como um ridículo show de marionetes projetado para enganar pessoas fracas e tementes e convence-las à se oferecerem como escravos.
 
