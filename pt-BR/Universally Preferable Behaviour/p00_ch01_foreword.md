@@ -26,7 +26,7 @@ Assim quando denominamos "ética" sendo subjetiva e meramente *cultural*, nos re
 
 Somos incapazes de viver sem moralidade, mas também incapazes de definir moralidade objetivamente – portanto permanecemos eternamente nessa sentença de vidas vazias, preenchidas apenas de hipocrisia egocêntrica, supremacia cínica ou devota servidão.
 
-Intelectualmente, não há nada mais importante e decisivo no mundo. Nossa falha em definir regras morais objetivas e racionais custou milhões de vidas humanas, em guerras religiosas e entre Estados.
+Intelectualmente, não há maior aposta no mundo. Nossa falha a definir regras morais objetivas e racionais custou centenas de milhões de vidas humanas, em guerras de religiões e estados.
 
 Em muitos aspectos, a importância está ficando cada vez maior.
 
