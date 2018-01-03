@@ -4,7 +4,7 @@ Pertanyaan tentang *berbohong* menarik karena membahas kebenaran umumnya diangga
 
 Hal ini umumnya dipertimbangkan *lagi* dari persyaratan yang ketat dari pada "tepat waktu," kerena *kurang* lebih baik dari pada "mencuri." Apa kerangka UPB harus mengatakan tentang ini?
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+Tentu, teori moral apapun yang mengusulkan "berbohong itu baik" akan memperburuk diri sendiri, karena jika pria itu mengusulkannya *adalah* berbohong - yang baik - maka berbohong yang buruk, karena dia mengatakan kebenaran itu menghancurkan yang buruk.
 
 Contohnya:
 
@@ -20,11 +20,11 @@ Atau:
 
 **Bob:** Berbohong salalu baik.
 
-**Doug:** Are you lying?
+**Doug:** Apa kamu berbohong?
 
-**Bob:** No.
+**Bob:** Tidak.
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**Doug:** Jadi berbohong itu tidak selalu baik, karena kamu mengatakan kebenaran tentang bersikap baik.
 
 Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
 
