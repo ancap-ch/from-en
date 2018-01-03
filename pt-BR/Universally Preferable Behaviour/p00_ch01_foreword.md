@@ -16,13 +16,13 @@ Esse livro é a história da minha *investida</> pessoal desta fera.</p>
 
 Desta "fera" vem a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. Desta "fera" vem a ilusão de que a moralidade deve sempre ficar perdida entre os pântanos irracionais de deuses e governos, coercivos meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Desta "besta" vem a fantasia da virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares, e esquecida para ser emboscada aqui, sendo explorada por políticos e padres – e pais. Desta "besta" é que a superstição, sem a repressão dos pais, do "bullying" de deuses ou armas dos governos, somos incapazes de sermos bons e racionais.
 
-Esse monstro derrubou muitos heróis formidáveis, de Sócrates à Platão, Santo Agostinho à Hume, Kant à Rand.
+Este monstro derrubou muitos heróis formidáveis, de Sócrates à Platão, Santo Agostinho à Hume, Kant à Rand.
 
 O custo à humanidade foi enorme.
 
-Havíamos sendo desde então permanecidos incapazes de definir um sistema universal de moralidade, nos forçaram a submeter histórias de terror religiosos aos nossos filhos, ou dar armas, prisões e exércitos para um monopólio de controladores desalmados autodenominados "o estado".
+Decorria desde então permanecidos incapazes de definir um sistema universal de moralidade, nos forçaram a submeter histórias de terror religiosos aos nossos filhos, ou dar armas, prisões e exércitos para um monopólio de controladores desalmados autodenominados " estado".
 
-Assim quando denominamos "ética" sendo subjetiva e meramente *cultural*, nos resultaria inevitavelmente no "bullying", medo e violência a coagir às regras sociais. Sendo a ética, carente de uma base racional como o método científico, “moralidade” permanece presa numa guerra tribal de mitologias sangrentas; cada gangue lutando com unhas e dentes pelo controle individual da “virtude".
+Logo quando denominamos "ética" sendo subjetiva e meramente *cultural*, nos resultaria inevitavelmente no "bullying", medo e violência a coagir às regras sociais. Sendo a ética, carente de uma base racional como o método científico, “moralidade” permanece presa numa guerra tribal de mitologias sangrentas; cada gangue lutando com unhas e dentes pelo controle individual da “virtude".
 
 Somos incapazes de viver sem moralidade, mas também incapazes de definir moralidade objetivamente — portanto permanecemos eternamente nessa sentença de vidas vazias, preenchidas apenas de hipocrisia egocêntrica, supremacia cínica ou devota servidão.
 
@@ -34,7 +34,7 @@ O aumento de fluxo de informações pela internet obteve elevadas suspeitas de u
 
 “Verdades” foram expostas como manipulação; “virtudes” como controle; “lealdade” como servidão, e o que é chamado de "moralidade" foi revelado como um ridículo show–de–marionetes projetado a enganar pessoas fracas e tementes e convence-las à se oferecerem como servos.
 
-Essa descoberta deu nascimento à uma nova geração de niilistas, assim como ocorreu na Alemanha do século XIX. Esses relativistas extremos reservam seus ataques mais ferozes para aqueles que afirmam qualquer tipo de convicção. Essa geração pós–moderna superou preconceitos culturais de suas histórias coletivas, mas agora veem *toda* a verdade como uma mera afirmação categórica opressora. Como crianças de olhos espantados que foram coagidas à uma esperteza cínica, eles veem todas as comunicações como propaganda, todas as proposições como interesse e todas as urgências morais como roubo hipócrita.
+Essa descoberta deu nascimento à uma nova geração de niilistas, assim como ocorreu na Alemanha do século XIX. Esses relativistas extremos reservam seus ataques mais ferozes para aqueles que afirmam qualquer tipo de convicção. Essa geração pós–moderna superou preconceitos culturais de suas histórias coletivas, mas agora veem *toda* a verdade como uma mera afirmação categórica opressora. Como arregalaram-se olhos de crianças que foram traumatizadas numa debochante astúcia, eles veem todas as comunicações como propaganda, todas as proposições como interesse e todas as urgências morais como dissimulações problemáticas.
 
 Uma vez que não temos nenhum acordo em uma estrutura de proposições morais que seja coesa, racional e objetiva, a moralidade permanece fincada em misticismo e em seu inevitável corolário de violência. Assim como na época prévia do Iluminismo, setores religiosos brigaram constantemente pelas lâminas da aristocracia, agora mitologias morais brigam pelo controle do Estado e todo seu maquinário de coerção.
 
