@@ -55,7 +55,7 @@ a. ***License grant.***
 
 3. **Term.** The term of this Public License is specified in Section 6(a).
 
-4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. Anda melakukan modifikasi teknis yang diperlukan untuk menerapkan Hak Izin, termasuk modifikasi teknis yang diperlukan untuk menghindari tindakan Teknologi yang Efektif. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
     
     1. **Downstream recipients.**
         
