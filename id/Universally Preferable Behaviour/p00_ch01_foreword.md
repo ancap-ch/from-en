@@ -76,7 +76,7 @@ If the reasoning holds, the greatest beast is down.
 
 ### A Modest Suggestion
 
-It is the height of audacity to suggest to readers how to read a book, but given the challenges of the task before us, I would like to make one small suggestion before we embark.
+Ini adalah ketinggian keberanian untuk menyarankan kepada pembaca bagaimana membaca sebuah buku, namun mengingat tantangan dari tugas di depan kita, saya ingin membuat satu saran kecil sebelum kita memulai.
 
 If we lived in the fifteenth century, and I were trying to convince you that the world were round, I would put forward reams of mathematical and physical proofs. If you held a contrary opinion, you would naturally react with scepticism, and be inclined to quibble with every line of proof. However, if you and I could in fact sail around the world, and arrive back where we started without retracing our steps, you would be far more willing to accept the conceptual proofs for what you had already *experienced* to be true. You might find fault with a particular logical step or metaphor, but you would already agree with the conclusion, and thus would be more prone to help correct the details rather than reject the theory as a whole.
 
