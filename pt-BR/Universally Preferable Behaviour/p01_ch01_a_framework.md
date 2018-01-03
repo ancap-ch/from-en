@@ -1,6 +1,6 @@
 ## Uma estrutura para a ética
 
-Preposições éticas são diferentes de outros tipos de afirmações de conhecimento. Vamos supor que eu diga "eu gosto de jazz," pode ser verdade ou não, porém, geralmente não serão consideradas ligações com você, para dizer isso. Minha preferência por jazz é uma mera afirmação de gosto pessoal; baseada na minha afirmação, você não deve ter uma tendencia a gostar ou não de jazz.
+Proposições éticas são diferentes de outros tipos de afirmações de conhecimento. Vamos supor que eu diga "eu gosto de jazz," pode ser verdade ou não, porém, geralmente não serão consideradas ligações com você, para dizer isso. Minha preferência por jazz é uma mera afirmação de gosto pessoal; baseada na minha afirmação, você não deve ter uma tendencia a gostar ou não de jazz.
 
 Similar, se eu disser "eu gosto de vegetais" também é apenas uma afirmação de preferência pessoal. Entretanto, se eu disser "vegetais são saudáveis" eu terei mudado de uma afirmação de preferência pessoal para a afirmação de um fato. É a diferença entre "eu gosto de sorvete" e "sorvete contém leite"
 
