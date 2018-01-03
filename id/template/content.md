@@ -1,6 +1,6 @@
 # First root heading
 
-Below there's an enumerated list of styled pangrams, that shows every character, both in english and also in other languages.
+Di bawah ini ada daftar pangram bergaya yang disebutkan, yang menunjukkan setiap karakter, baik dalam bahasa Inggris maupun bahasa lainnya.
 
 1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
 2. numbers: 0123456789. 
@@ -16,7 +16,7 @@ Below there's an enumerated list of styled pangrams, that shows every character,
     3. This phrase has two footnotes.[^1][^2]
 5. This phrase has [this](https://example-this.com) link, and also [this again](https://example-this-again.com).
 
-Now a non-enumerated list:
+Sekarang daftar yang tidak disebutkan:
 
 * First level
 * First level 
