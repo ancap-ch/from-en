@@ -67,11 +67,11 @@ a. ***License grant.***
 
 b. ***Hak lainnya.***
 
-1. Hak moral, seperti hak integritas, tidak dilisensikan dengan Lisensi Publik ini, juga bukan publisitas, privasi, dan / atau hak kepribadian serupa lainnya; Namun, sejauh mungkin, Pemberi Lisensi melepaskan dan / atau setuju untuk tidak menyatakan hak-hak semacam itu yang dimiliki oleh Pemberi Lisensi sampai batas tertentu yang diperlukan untuk memungkinkan Anda menjalankan Hak Izin, namun tidak sebaliknya.
+1. Hak moral, seperti hak integritas, tidak dilisensikan dengan Lisensi Publik ini, juga bukan publisitas, privasi, dan/atau hak kepribadian serupa lainnya; Namun, sejauh mungkin, Pemberi Lisensi melepaskan dan/atau setuju untuk tidak menyatakan hak-hak semacam itu yang dimiliki oleh Pemberi Lisensi sampai batas tertentu yang diperlukan untuk memungkinkan Anda menjalankan Hak Izin, namun tidak sebaliknya.
 
 2. Paten dan hak merek dagang tidak dilisensikan dengan Lisensi Publik ini.
 
-3. Sejauh mungkin, Pemberi Lisensi melepaskan hak untuk mengumpulkan royalti dari Anda untuk pelaksanaan Hak Izin, baik secara langsung atau melalui masyarakat yang mengumpulkan berdasarkan skema perizinan wajib atau sukarela atau sukarela. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
+3. Sejauh mungkin, Pemberi Lisensi melepaskan hak untuk mengumpulkan royalti dari Anda untuk pelaksanaan Hak Izin, baik secara langsung atau melalui masyarakat yang mengumpulkan berdasarkan skema perizinan wajib atau sukarela atau sukarela. Dalam semua kasus lain, Pemberi Lisensi secara tegas berhak untuk mengumpulkan royalti tersebut, termasuk bila Bahan Berlisensi digunakan selain untuk tujuan Nonkomersial.
 
 ### Section 3 – License Conditions.
 
