@@ -12,7 +12,7 @@ A única esperança dos aldeões desesperados é que um homem capaz de derrotar 
 
 Inevitavelmente, um homem avança na vista de todos, ser completamente atemporal. Ele é um garoto do estábulo, um filho de um sapateiro, um aprendiz de padeiro – as vezes, é só um andarilho.
 
-Esse livro é a história da minha investida pessoal nessa fera.
+Esse livro é a história da minha *investida</> pessoal desta fera.</p> 
 
 Essa "fera" é a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. É a ilusão de que a moralidade deve para sempre ficar perdida entre os pântanos irracionais de deuses e "estados", imposto meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Ela é a fantasia que a virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares e deixada à poeira para ser explorada e apalpada por políticos e padres – e pais. Tal fera é a superstição que, sem as amarras dos pais, o "bullying" de deuses ou as armas do governos, não podemos ser racionais e bons.
 
