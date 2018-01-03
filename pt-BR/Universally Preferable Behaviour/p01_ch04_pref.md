@@ -1,10 +1,10 @@
 ## Preferências
 
-Agora que entendemos a natureza dos argumentos auto-destrutivos, nós podemos voltar as questões de preferencia.
+Agora que entendemos a natureza dos argumentos auto-destrutivos, nós podemos voltar às questões de preferências.
 
-Preferências são fundamentais para qualquer metodologia que querem definir o valor da verdade de proposições. O método científico, por exemplo, em grande parte é definido por preferências inatas de consistência lógica e verificação empírica. Para a ciência, a premissa é: *se* você quiser determinar uma verdade válida sobre o comportamento da matéria e da energia, é *preferível* usar o método científico.
+Preferências são fundamentais para qualquer metodologia que queiram definir o valor verdade de proposições. O método científico, por exemplo, em grande parte é definido por preferências inatas de consistência lógica e verificação empírica. Para a ciência, a premissa é: *se* você quiser determinar uma verdade válida sobre o comportamento da matéria e da energia, é *preferível* usar o método científico.
 
-Neste sentido, "preferível" não significa "melhor", mas sim "necessário". *Se* que você quer viver, é *universalmente preferível* que você não beba veneno. *Se* você deseja determinar verdades válidas sobre a realidade, é *preferível universalmente* que suas teorias sejam internamente consistentes e empiricamente verificáveis. "Universalmente preferível", então, se traduz em "objetivamente necessário," mas nós reteremos a palavra "preferível" para diferenciar entre absolutos humanos opcionais e absolutos físicos não opcionais tais como a gravidade.
+Neste sentido, "preferível" não significa "melhor", mas sim "necessário". *Se* que você quer viver, é *universalmente preferível* que você não beba veneno. *Se* você deseja determinar verdades válidas sobre a realidade, é *universalmente preferível* que suas teorias sejam internamente consistentes e empiricamente verificáveis. "Universalmente preferível", então, se traduz em "objetivamente necessário," mas nós reteremos a palavra "preferível" para diferenciar entre absolutos humanos opcionais e absolutos físicos não opcionais tais como a gravidade.
 
 Da mesma forma, se teorias éticas podem ser válidas em absoluto, então elas devem *pelo menos* ser ambas consistentes internamente e externamente. Em outras palavras, uma teoria ética que se contradiz, não pode ser válida – e também uma teoria ética que contradiz a evidência empírica e preferências quase universais não pode ser válida.
 
