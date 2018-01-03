@@ -28,7 +28,7 @@ Somos incapazes de viver sem moralidade, mas também incapazes de definir morali
 
 Intelectualmente, não há maior aposta no mundo. Nossa falha a definir regras morais objetivas e racionais custou centenas de milhões de vidas humanas, em guerras de religiões e estados.
 
-Em muitos aspectos, a importância está ficando cada vez maior.
+Em muitos aspectos, a aposta está ficando cada vez maior.
 
 O aumento de fluxo de informações causado pela internet trouxe suspeita de uma geração que considera que o que chamamos de “virtude” é nada mais - ou menos - que contos de fadas prontos de seus anciãos hipócritas. As mentiras pífias contadas por aqueles em posições de autoridade – e a cumplicidade daqueles que os louvam – são, hoje, mais claras do que nunca.
 
