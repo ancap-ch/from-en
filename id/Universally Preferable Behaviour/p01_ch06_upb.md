@@ -1,19 +1,19 @@
-## UPB: Ethics Or Aesthetics?
+## UPB: Etika atau Estetika?
 
-In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. A rapist, on the other hand, is violently inflicting his preferences upon his victim.
+In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. Jika seorang fisikawan berhenti menggunakan metode ilmiah, tapi malah mulai berkonsultasi dengan kartu tarot, dia tidak memaksakan pilihannya pada saya, dan saya dapat menghindarinya. Seorang pemerkosa, di sisi lain, secara kasar menimbulkan kesukaannya pada korbannya.
 
-Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
+Meskipun kami pertama kali berfokus pada UPB dalam bidang etika, UPB sekarang dapat dilihat sebagai "istilah umum", yang mencakup disiplin semacam itu seperti:
 
-- The scientific method
-- Logic
-- Empiricism
-- Debating
-- Language
-- Ethics
+- Metode ilmiahnya
+- Logika
+- Empirisme
+- Debat
+- Bahasa
+- Etika
 
 Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+Mari kita lihat tiga tindakan, untuk membantu kita membedakan lebih jauh antara etika dan estetika. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
 
 ### Irrationality
 
