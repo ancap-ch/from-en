@@ -20,7 +20,7 @@ Jika saya seorang perokok kronis dan lama, saya telah berpartisipasi dalam rangk
 
 Demikian pula, mungkin bagi saya untuk meninggalkan dompet di bangku taman selama seminggu, dan kembali menemukannya masih ada di sana, tapi dengan meninggalkannya di sana untuk waktu yang lama, saya pasti telah mempengaruhi kemungkinan hal itu hilang.
 
-On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
+Di sisi lain, jika saya tinggal di rumah setiap malam, saya tidak tahu persis tentang kejahatan, dan jadi jika seorang maniak menyerang rumah saya dan merampok saya buta, saya tidak dapat disalahkan karena peran hubungan yang saya mainkan dalam kejadian tersebut.
 
 ### The Non-Aggression Principle (NAP)
 
