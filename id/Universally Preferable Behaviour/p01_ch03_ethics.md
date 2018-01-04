@@ -1,24 +1,24 @@
-## Ethics
+## Etika
 
-Since ethics is a subject that we all have opinions about already, it is important to outline the relationship between *instinctual* ethics and *rational* ethics.
+Since ethics is important to outline the relationship between *instinctual* ethics and *rational* ethics.
 
-A baseball player can catch a fly ball even if he knows nothing about physics. Similarly, we can correctly perceive an action as immoral even if we know nothing about ethical theories.
+Seorang pemain bisbol bisa menangkap bola terbang bahkan jika dia tidak tahu apa-apa tentang fisika. Demikian pula, kita dapat dengan benar menganggap tindakan itu tidak bermoral bahkan jika kita tidak tahu apa-apa tentang teori etika.
 
-If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
+Jika saya bisa menangkap bola terbang, maka saya memiliki naluri *merasakan* untuk perilaku bola bisbol yang sedang terbang. Pemahaman instingtual saya, bagaimanapun, tidak memberi saya kemampuan untuk secara akurat meluncurkan pesawat ruang angkasa untuk mengorbit Jupiter. Saya memiliki "kebenaran kecil" langsung - bagaimana bola akan bergerak - tapi itu tidak memberi saya "kebenaran besar" universal - bagaimana materi berperilaku.
 
-In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
+Dengan cara yang sama, kebencian moral kita terhadap tindakan seperti pemerkosaan dan pembunuhan tidak selalu tidak akurat, namun tidak memberi kita kapasitas untuk membuat atau memvalidasi teori moral yang konsisten dan empiris.
 
-If I propose a scientific theory that completely invalidates a baseball player’s ability to catch a fly ball, then I have the insurmountable challenge of explaining how the baseball player actually *does* catch the ball. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
+Jika saya mengajukan teori ilmiah yang benar-benar membuat pemain bisbol gagal menangkap bola terbang, maka saya memiliki tantangan yang tidak dapat diatasi untuk menjelaskan bagaimana sebenarnya pemain bisbol tersebut *apakah* menangkap bola. Juga, jika teori agung saya tidak dapat secara akurat memprediksi busur bola terbang, maka saya memiliki "kebenaran besar" yang secara langsung bertentangan dengan "kebenaran kecil", yang tidak dapat berlaku. Karena kebutuhan konsistensi logis langsung muncul dari "kebenaran kecil" pengalaman perseptual, teori apa pun yang secara langsung bertentangan dengan pengalaman semacam itu tidak dapat berlaku.
 
-In other words, the senses give rise to logic – therefore logic cannot contradict the evidence of the senses. Evidence always trumps explanation.
+Dengan kata lain, indera menimbulkan logika - oleh karena itu logika tidak dapat bertentangan dengan bukti indera. Bukti selalu mengalahkan penjelasan.
 
-In a similar manner, any valid ethical theory should be able to explain and justify our common revulsion towards crimes such as murder and rape. It cannot reasonably contradict the universal prohibitions of mankind, but must accurately incorporate and explain them.
+Dengan cara yang sama, teori etis yang valid harus dapat menjelaskan dan membenarkan kejijikan umum kita terhadap kejahatan seperti pembunuhan dan pemerkosaan. Ini tidak dapat secara wajar bertentangan dengan larangan universal umat manusia, namun harus secara akurat menggabungkan dan menjelaskannya.
 
-However, just as Einsteinian physics provided surprising truths – in fact, it would have been of little value if those truths were *not* surprising – ethical theories provide the most value when they also reveal surprising truths – shocking, even. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
+Namun, sama seperti fisika Einstein memberikan kebenaran yang mengejutkan - sebenarnya, nilainya tidak akan bernilai jika kebenaran itu *tidak* mengejutkan - teori etika memberi nilai tertinggi saat mereka juga mengungkapkan kebenaran yang mengejutkan - mengejutkan, bahkan. Kenyataannya, teori etis yang tidak memberikan kebenaran yang mengejutkan akan menjadi konfirmasi bela diri dari naluri naluri yang ada, dan dengan demikian nilainya kecil.
 
-### The Discipline Of Theoretical Ethics
+### Disiplin Etika Teoritis
 
-If I say that something is “morally good” – in other words, if I propose an ethical theory – then clearly I am arguing that human beings *should* act in a particular manner, or *avoid* acting in a particular manner.
+Jika saya mengatakan bahwa ada sesuatu yang "baik secara moral" - dengan kata lain, jika saya mengajukan teori etis - maka dengan jelas saya berpendapat bahwa manusia *seharusnya* bertindak dengan cara tertentu, atau *menghindari* bertindak dengan cara tertentu.
 
 If I tell my son that he *should* become a baseball player just because I want him to, I am not stating a universal moral premise, but rather a personal preference. He is not *moral* if he becomes a baseball player, and neither is he *immoral* if he does not.
 
