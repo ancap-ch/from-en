@@ -18,7 +18,7 @@ Dengan melaksanakan hak berlisensi (didefinisikan di bawah ini), Anda menerima d
 
 ### Bagian 1 - definisi.
 
-a. **Materi diadaptasi** berarti materi tunduk pada hak Cipta dan hak-hak serupa yang berasal dari ataupun berdasarkan materi lisensi dan di mana materi berlisensi diterjemahkan, diubah, diatur, mengubah, atau dimodifikasi dengan cara yang memerlukan izin di bawah hak Cipta dan hak serupa yang diselenggarakan oleh pemberi lisensi. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
+a. **Materi diadaptasi** berarti materi tunduk pada hak Cipta dan hak-hak serupa yang berasal dari ataupun berdasarkan materi lisensi dan di mana materi berlisensi diterjemahkan, diubah, diatur, mengubah, atau dimodifikasi dengan cara yang memerlukan izin di bawah hak Cipta dan hak serupa yang diselenggarakan oleh pemberi lisensi. Untuk keperluan Lisensi Publik ini, di mana Bahan Berlisensi adalah pertunjukan musik, pertunjukan, atau rekaman suara, Bahan Adaptasi selalu diproduksi dimana Bahan Berlisensi disinkronkan dalam hubungan berjangka waktu dengan gambar bergerak.
 
 b. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
 
@@ -32,7 +32,7 @@ i. **Licensed Rights** means the rights granted to You subject to the terms and 
 
 h. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
 
-i. **NonCommercial** means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this Public License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
+i. **NonCommercial** means not primarily intended for or directed towards commercial advantage or monetary compensation. Untuk keperluan Lisensi Publik ini, pertukaran Bahan Berlisensi untuk materi lain yang tunduk pada Hak Cipta dan Hak-hak yang Mirip dengan pembagian berkas secara digital atau cara yang serupa adalah NonCommercial asalkan tidak ada pembayaran kompensasi moneter sehubungan dengan pertukaran tersebut.
 
 j. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
 
