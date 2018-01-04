@@ -8,9 +8,9 @@ Saya telah menulis lusinan artikel yang memaparkan kepalsuan posisi ini, jadi sa
 
 Demikian mengatakan bahwa pemerintah dibenarkan dalam mamaksa kita untuk menjadi lebih "praktis" adalah kesalahan yang fatal, yang diverivikasi dengan kerangka UPB - walaupun jika kita mengasumsi itu adalah solusi pemerintah adalah lebih "praktis", yang faktanya tidak demikian.
 
-Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
+Begitu juga, jika perwakilan pemerintahan mengklaim bahwa sebuah kontrak sosial membolehkan mereka untuk memaksa masyarakat "tidak praktis" untuk berperilaku lebih "praktis," sebuah kontradiksi yang tidak dapat diatasi telah tercipta.
 
-If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
+Jika saya memaksa seorang wanita untuk menikahi seorang pria yang telah saya pilih untuk dia, maka jelaslah saya percaya bahwa saya mempunyai penilaian yang jauh lebih baik tentang kesesuaian suami untuknya daripada yang dia lakukan. Faktanya, saya tidak percaya bahwa dia terbuka untuk semua alasan, atau memiliki petunjuk tentang kepentingan dirinya sendiri, karena saya *tidak* perhitungan untuk preferensinya, tetapi saya memaksa dia untuk menikahi pria pilihan saya.
 
 When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
 
