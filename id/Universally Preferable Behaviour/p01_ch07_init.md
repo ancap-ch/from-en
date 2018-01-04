@@ -22,19 +22,19 @@ Demikian pula, mungkin bagi saya untuk meninggalkan dompet di bangku taman selam
 
 Di sisi lain, jika saya tinggal di rumah setiap malam, saya tidak tahu persis tentang kejahatan, dan jadi jika seorang maniak menyerang rumah saya dan merampok saya buta, saya tidak dapat disalahkan karena peran hubungan yang saya mainkan dalam kejadian tersebut.
 
-### Prinsip Non-Agresi (PNA)
+### The Non-Aggression Principle (NAP)
 
-Aturan moral sering diusulkan disebut *prinsip non-agresi* atau PNA. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
 
 When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
 
-- The initiation of the use of force is always morally wrong.
-- The initiation of the use of force is sometimes morally wrong.
-- The initiation of the use of force is never morally wrong.
-- The initiation of the use of force has no moral content.
-- The initiation of the use of force is never morally right.
-- The initiation of the use of force is sometimes morally right.
-- The initiation of the use of force is always morally right.
+- Inisiasi penggunaan kekerasan selalu salah secara moral.
+- Inisiasi penggunaan kekerasan terkadang salah secara moral.
+- Inisiasi penggunaan kekerasan tidak pernah salah secara moral.
+- Inisiasi penggunaan kekuatan tidak memiliki kandungan moral.
+- Inisiasi penggunaan kekuatan tidak pernah benar secara moral.
+- Inisiasi penggunaan kekuatan terkadang secara moral benar.
+- Inisiasi penggunaan kekuatan selalu benar secara moral.
 
 As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
 
