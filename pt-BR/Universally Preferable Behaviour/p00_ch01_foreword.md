@@ -2,11 +2,11 @@
 
 Em vários contos de fadas, vive uma terrível fera de poder estupendo, um dragão ou um basilisco, a qual terras próximas tiranizava. Os aldeões locais tremem perante o som desse monstro; eles sacrificam seus animais, pagam seus tributos – dinheiro e sangue – na esperança de acalmar os impulsos assassinos do monstro.
 
-A maioria acovardava-se sob a sombra dessa fera, autoproclamando seu medo de “prudência”, mas alguns — bêbados talvez, em coragem ou estupidez — decidiriam lutar. Ano após ano, década após década, onda após onda de promitentes campeões tentam por à prova suas forças, virtudes e astúcias à do terrível tirano.
+A maioria acovardava-se sob a sombra dessa fera, autoproclamando seu medo de “prudência”, mas alguns — bêbados talvez, em coragem ou estupidez — decidem lutar. Ano após ano, década após década, onda após onda de promitentes campeões tentam por à prova suas forças, virtudes e astúcias à do terrível tirano.
 
 Tentam - e falham.
 
-A fera é sempre imortal, então os aldeões não podem esperar que o tempo os livre do seu déspota. O monstro jamais é racional e não tem o menor desejo de proceder em trocas mútuas, portanto nenhuma negociação é possível.
+A fera é sempre imortal, então os aldeões não podem esperar que o tempo os livre do seu déspota. O monstro nunca é racional e não tem o menor desejo de proceder com trocas mútuas, e portanto nenhuma negociação é possível.
 
 A única esperança dos aldeões desesperados é que um homem capaz de derrotar o monstro apareça.
 
@@ -14,7 +14,7 @@ Inevitavelmente, um homem avança na vista de todos, ser completamente atemporal
 
 Esse livro é a história da minha *investida</> pessoal desta fera.</p> 
 
-Desta "fera" vem a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. Desta "criatura" vem a ilusão de que a moralidade deve sempre ficar perdida entre pântanos irracionais de deuses e governos, coercivos meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Desta "besta" vem a fantasia da virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares, e esquecida para ser emboscada aqui, sendo explorada por políticos e padres – e pais. Deste "animal" é que a superstição, sem a repressão dos pais, do "bullying" de deuses ou armas dos governos, somos incapazes de sermos bons e racionais.
+Desta "fera" vem a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. Esta "criatura" é a ilusão de que a moralidade deve para sempre ficar perdida entre pântanos irracionais de deuses e governos, imposta meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Desta "besta" vem a fantasia da virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares, e esquecida para ser emboscada aqui, sendo explorada por políticos e padres – e pais. Deste "animal" é que a superstição, sem a repressão dos pais, do "bullying" de deuses ou armas dos governos, somos incapazes de sermos bons e racionais.
 
 Esse monstro derrubou muitos heróis formidáveis, de Sócrates à Platão, Santo Agostinho à Hume, Kant à Rand.
 
