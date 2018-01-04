@@ -42,11 +42,11 @@ Portanto permanece a moralidade, relativa à ciência moderna, assim como a "ast
 
 Então a "besta" do relativismo ético espreita sobre nós, se alimenta de nós, justificando impostos, prisões, censura e guerras. Ela submete jovens em escolas estatais e dominicais; ela seduz os pobres em deleitosas gulags do bem-estar social; ela submete até mesmo os não–nascidos em poços–sem–fundo de dívidas nacionais.
 
-Como escrevi no meu livro anterior, “Da Verdade: A Tirania da Ilusão”, a mentira mais fundamental no centro de teorias éticas não–provadas é que tais teorias são sempre apresentadas para crianças como objetivas e como fatos incontornáveis, quando na verdade tais teorias são meros dogmas culturais. A razão pela qual cientistas não precisam de um governo ou de um Vaticano é que cientistas utilizam uma metodologia objetiva para resolver disputas: o método científico. A razão pela qual a linguagem não precisa de uma autoridade central para guiar sua evolução é que a mesma conta com um "livre mercado" de preferências individuais acumuladas para estilo e utilidade.
+Como escrevi no meu livro anterior, “Da Verdade: A Tirania da Ilusão”, a mentira mais fundamental no centro de teorias éticas não–provadas é que tais teorias são sempre apresentadas para crianças como objetivas e como fatos incontornáveis, quando na verdade tais teorias são meros dogmas culturais. A razão pela qual cientistas não precisam de um governo ou de um Vaticano é que cientistas utilizam uma metodologia objetiva para resolver debates: o método científico. A razão pela qual a linguagem não precisa de uma autoridade central para guiar sua evolução é que a mesma conta com um "livre mercado" de preferências individuais acumuladas para estilo e utilidade.
 
-A razão pela qual a moralidade moderna – e a moralidade por toda a história – sempre teve que depender primeiramente do "bullying" de crianças e depois da ameaça à adultos, é que a mesma é uma mentira manipulativa mascarando-se como verdade virtuosa.
+A razão pela qual a moralidade moderna — e a moralidade por toda a história — sempre teve que depender primeiramente do "bullying" de crianças e depois da ameaça aos adultos, é que a mesma é uma mentira manipulativa mascarando-se como uma virtuosa verdade.
 
-A verdade é que precisamos de moralidade; a mentira é que deuses e governos podem defini-la racionalmente ou forçá-la de forma justa.
+A verdade é que precisamos de moralidade; a mentira é que deuses e governos podem racionalmente defini-la ou justamente forçá-la.
 
 Meu objetivo neste livro é definir uma metodologia para validar teorias à respeito da moralidade que é objetiva, consistente, clara, racional, empírica – e *verdadeira*.
 
