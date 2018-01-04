@@ -6,7 +6,7 @@ Saya telah menulis lusinan artikel yang memaparkan kepalsuan posisi ini, jadi sa
 
 "Argumen Praktis" sama sekali tidak akan memecahkan masalah kekerasan. Jika saya melihat anda makan burger keju setiap hari, saya dapat memberitahukan anda bahwa itu tidak praktis untuk anda lakukan, jika anda mau mempertahankan berat badan yang sehat. Saya tidak bisa mengklaim itu adalah *kejahatan* bagi anda untuk makan burger keju, karena alasan itu sudah kita hadapi. Saya tidak bisa memerintahkan anda secara paksa untuk meningkatkan "kepraktisan" dari tindakan anda.
 
-Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
+Demikian mengatakan bahwa pemerintah dibenarkan dalam mamaksa kita untuk menjadi lebih "praktis" adalah kesalahan yang fatal, yang diverivikasi dengan kerangka UPB - walaupun jika kita mengasumsi itu adalah solusi pemerintah adalah lebih "praktis", yang faktanya tidak demikian.
 
 Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
 
