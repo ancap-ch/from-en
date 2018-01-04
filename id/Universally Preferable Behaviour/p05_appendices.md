@@ -6,51 +6,51 @@ Di bawah ini, harap menemukan suatu ringkasan inti untuk moralitas.
 
 1. Kenyataan objektif dan konsisten.
 2. "Logika" adalah tujuan dan peraturan konsisten berasal dari konsistensi dari kenyataan.
-3. Those theories that conform to logic are called “valid.”
+3. Orang-orang yang sesuai teori atau logika yang disebut "sah."
 4. Those theories that are confirmed by empirical testing are called “accurate.”
 5. Those theories that are both valid and accurate are called “true.”
-6. “Preferences” are required for life, thought, language and debating.
+6. "Preferensi" yang diperlukan untuk hidup, berpikir, bahasa dan memperdebatkan.
 7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
 8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
-9. Theories regarding UPB must pass the tests of logical consistency and empirical verification.
-10. The subset of UPB that examines enforceable behaviour is called “morality.”
-11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
-12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
+9. Teori-teori mengenai UPB harus melewati tes konsistensi logis dan verifikasi empiris.
+10. Dalam subset dari UPB yang mengkaji perilaku dapat dikuatkuasakan disebut moralitas."
+11. Sebagai sebuah subset dari UPB, tidak ada teori moral dapat dianggap benar jika ia tak masuk akal atau tidak didukung oleh bukti empiris.
+12. Teori-teori moral yang didukung oleh logika dan bukti yang benar. Semua teori moral lain adalah palsu.
 
 ## Appendix B: Moral Categories
 
-Below is a sample table that lists some of the most common categories of actions/rules, and their key differentiators.
+Di bawah ini adalah contoh tabel yang mencantumkan beberapa kategori yang paling umum dari aturan/tindakan, dan pembeda utama mereka.
 
-| Action/Rule                       | Preference? | Universal? | Enforceable? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                |
-| --------------------------------- | ----------- | ---------- | ------------ | ----------------------------------------------------- | ------------------------- | ----------------------------- |
-| **Running for the bus**           | No          | No         | n/a          | n/a                                                   | n/a                       | Neutral                       |
-| **You should not like ice cream** | Yes         | No         | No           | n/a                                                   | n/a                       | Neutral (personal preference) |
-| **You should not be late**        | Yes         | Yes        | No           | No                                                    | Yes                       | APA                           |
-| **You should not commit fraud**   | Yes         | Yes        | Yes          | Yes                                                   | Yes                       | Good                          |
-| **You should not rape**           | Yes         | Yes        | Yes          | No                                                    | No                        | Good                          |
+| Action/Rule                       | Preference? | Universal? | Enforceable? | Memerlukan tindakan pemrakarsa pada bagian dari korban? | Can violators be avoided? | Moral Category                |
+| --------------------------------- | ----------- | ---------- | ------------ | ------------------------------------------------------- | ------------------------- | ----------------------------- |
+| **Running for the bus**           | No          | No         | n/a          | n/a                                                     | n/a                       | Neutral                       |
+| **You should not like ice cream** | Yes         | No         | No           | n/a                                                     | n/a                       | Neutral (personal preference) |
+| **You should not be late**        | Yes         | Yes        | No           | No                                                      | Yes                       | APA                           |
+| **You should not commit fraud**   | Yes         | Yes        | Yes          | Yes                                                     | Yes                       | Good                          |
+| **You should not rape**           | Yes         | Yes        | Yes          | No                                                      | No                        | Good                          |
 
 ## Appendix C: UPB Podcasts
 
 If you would like to further your understanding of UPB and its ramifications, you might find the following podcasts (available [here](www.freedomainradio.com)) helpful. You may also wish to watch the “Introduction to Philosophy” videos, available on [Youtube](www.youtube.com/freedomainradio).
 
-| Track | Title                                                         | Description                                                                                                                                                                                                        |
-| -----:|:------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|     8 | Proving Libertarian Morality                                  | One of the central challenges faced by libertarians is the need to prove that libertarian moral theory is universally correct, while statist and collectivistic moral theories are incorrect. Here's how to do it! |
-|   560 | Call In Show Dec 17 2006                                      | Universally preferable behaviour and rating dating.                                                                                                                                                                |
-|   562 | Universally Preferable Behaviour for Children                 | The ABCs of UPB.                                                                                                                                                                                                   |
-|   872 | Debating and UPB                                              | Can you debate without using UPB?                                                                                                                                                                                  |
-|     7 | The Argument From Morality (or, how we will win!)             | The most powerful argument for freedom.                                                                                                                                                                            |
-|   148 | The “Ought To” Challenge - Morality does not exist in reality | The journey from the “ought” to the “is.”                                                                                                                                                                          |
-|   260 | Moral Objectivity                                             | Using the scientific method to define morality.                                                                                                                                                                    |
-|   261 | Is And Ought and Ethics                                       | Anyone who argues ethics agrees with ethics.                                                                                                                                                                       |
-|   318 | Moral Experimentation                                         | Empirical proofs of abstract ethics.                                                                                                                                                                               |
-|   412 | Nit Picky City                                                | Get out of the lifeboat! Detonating the 'gray areas' of morality.                                                                                                                                                  |
-|   540 | Testing Morality                                              | Can you judge a moral theory by its effects?                                                                                                                                                                       |
-|   555 | Scientific Morality                                           | Excellent ethical questions from a poster.                                                                                                                                                                         |
-|   557 | Testing Ethics                                                | Reasonable standards for ethical theories.                                                                                                                                                                         |
-|   567 | Morals Ethics & Aesthetics                                    | Right and wrong from murder to manners...                                                                                                                                                                          |
-|   588 | Positive Obligations - An Example                             | An excellent critique of one of my articles.                                                                                                                                                                       |
-|   816 | Tennis Anyone?                                                | A metaphor for moral action.                                                                                                                                                                                       |
+| Track | Title                                                         | Description                                                                                                                                                                                                                              |
+| -----:|:------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     8 | Proving Libertarian Morality                                  | Salah satu tantangan utama yang dihadapi oleh libertarians adalah perlu untuk membuktikan bahwa tugas cendekiawan tentang teori moral secara umumnya, sementara statis benar, dan collectivistic teori moral salah. Here's how to do it! |
+|   560 | Call In Show Dec 17 2006                                      | Universally preferable behaviour and rating dating.                                                                                                                                                                                      |
+|   562 | Universally Preferable Behaviour for Children                 | The ABCs of UPB.                                                                                                                                                                                                                         |
+|   872 | Debating and UPB                                              | Can you debate without using UPB?                                                                                                                                                                                                        |
+|     7 | The Argument From Morality (or, how we will win!)             | The most powerful argument for freedom.                                                                                                                                                                                                  |
+|   148 | The “Ought To” Challenge - Morality does not exist in reality | The journey from the “ought” to the “is.”                                                                                                                                                                                                |
+|   260 | Moral Objectivity                                             | Using the scientific method to define morality.                                                                                                                                                                                          |
+|   261 | Is And Ought and Ethics                                       | Anyone who argues ethics agrees with ethics.                                                                                                                                                                                             |
+|   318 | Moral Experimentation                                         | Empirical proofs of abstract ethics.                                                                                                                                                                                                     |
+|   412 | Nit Picky City                                                | Get out of the lifeboat! Detonating the 'gray areas' of morality.                                                                                                                                                                        |
+|   540 | Testing Morality                                              | Can you judge a moral theory by its effects?                                                                                                                                                                                             |
+|   555 | Scientific Morality                                           | Excellent ethical questions from a poster.                                                                                                                                                                                               |
+|   557 | Testing Ethics                                                | Reasonable standards for ethical theories.                                                                                                                                                                                               |
+|   567 | Morals Ethics & Aesthetics                                    | Right and wrong from murder to manners...                                                                                                                                                                                                |
+|   588 | Positive Obligations - An Example                             | An excellent critique of one of my articles.                                                                                                                                                                                             |
+|   816 | Tennis Anyone?                                                | A metaphor for moral action.                                                                                                                                                                                                             |
 
 Finally, if you would like to debate these ideas with other interested philosophers, feel free drop by the [Freedomain Radio Message Board](www.freedomainradio.com/board).
 
