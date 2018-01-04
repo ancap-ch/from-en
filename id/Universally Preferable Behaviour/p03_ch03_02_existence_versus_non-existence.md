@@ -1,10 +1,10 @@
-### Praktis
+### Kepraktisan
 
 Begitu kekerasan dari pemerintah terpapar secara intelektual - dan seharusnya "voluntarisme" masyarakat terungkap sebagai penipuan yang kejam - argumen ini selalu datang kembali bahwa kita *membutuhkan* pemerintah untuk memenuhi kebutuhan publik seperti perlindungan, pertahanan regional, jalan dll.
 
 Saya telah menulis lusinan artikel yang memaparkan kepalsuan posisi ini, jadi saya tidak perlu repot untuk mengulangi argumen ini, sejak mereka tidak penting untuk sebuah buku moralitas, namun lebih tepat untuk sebuah buku yang menjelaskan prinsip dan praktisnya masyarakat sukarela.[^4]
 
-"Argumen Praktis" sama sekali tidak akan memecahkan masalah kekerasan. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
+"Argumen Praktis" sama sekali tidak akan memecahkan masalah kekerasan. Jika saya melihat anda makan burger keju setiap hari, saya dapat memberitahukan anda bahwa itu tidak praktis untuk anda lakukan, jika anda mau mempertahankan berat badan yang sehat. Saya tidak bisa mengklaim itu adalah *kejahatan* bagi anda untuk makan burger keju, karena alasan itu sudah kita hadapi. Saya tidak bisa memerintahkan anda secara paksa untuk meningkatkan "kepraktisan" dari tindakan anda.
 
 Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
 
