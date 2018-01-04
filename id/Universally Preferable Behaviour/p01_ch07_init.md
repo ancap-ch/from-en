@@ -2,11 +2,11 @@
 
 Teori moral yang masuk akal harus bisa menjelaskan semua di atas standar universal, seperti teori fisika yang masuk akal harus dapat menjelaskan bagaimana seseorang secara tak sadar menghitung Lengkungan bola basket yang dilemparkan, dan menangkapnya.
 
-If the framework of UPB can explain the above, then it will certainly have passed at least the “common sense” test.
+Jika kerangka UPB dapat menjelaskan hal di atas, maka akan dipastikan telah lulus setidaknya tes “akal sehat”.
 
-This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
+Ini tidak berarti bahwa beberapa kesimpulan mengejutkan - bahkan mengejutkan - kesimpulan mungkin tidak dihasilkan dari teori moral kita, tapi setidaknya kita harus melewati rintangan pertama untuk menjelaskan yang sudah jelas, sebelum menganalisis hal yang jauh dari jelas.
 
-With that in mind, let us turn to the question of *initiation*.
+Dengan pemikiran itu, mari kita beralih ke pertanyaan*inisiasi*.
 
 A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
 
