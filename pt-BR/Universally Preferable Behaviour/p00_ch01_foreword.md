@@ -38,7 +38,7 @@ Essa descoberta deu nascimento à uma nova geração de niilistas, assim como oc
 
 Consequentemente não temos nenhum acordo duma estrutura de proposições morais que seja coesa, racional e objetiva,"moralidade" permanece fincada no misticismo e é inevitavelmente seu desfecho de violência. Mesmo assim, no ápice do Iluminismo, seitas religiosas brigaram constantemente pelo domínio das lâminas da aristocracia, então agora guerras morais mitológicas lutam pelo controle do estado e todo seu maquinário de coerção.
 
-Portanto a moralidade permanece, relativa à ciência moderna, assim como a "astronomia" medieval ficou relativa à astronomia moderna – um reino de mitologias imaginárias, forçadas por meio de estórias, ameaças, compulsão e exploração – o que ativamente barra qualquer progresso em direção à verdade.
+Portanto permanece a moralidade, relativa à ciência moderna, assim como a "astronomia" medieval ficou relativa à astronomia moderna — um reino de mitologias imaginárias, aprisionados por meio de estórias, ameaças, compulsão e exploração — o que ativamente barra qualquer progresso em direção à verdade.
 
 Essa "besta" de relativismo ético espreita sobre nós, se alimenta de nós, justificando impostos, prisões, censura e guerras. Ele escraviza jovens em escolas estatais e dominicais; ele seduz os pobres nas gulags suaves do Estado de bem-estar social; ele escraviza até mesmo os não nascidos em poços sem fundo de dívidas nacionais.
 
