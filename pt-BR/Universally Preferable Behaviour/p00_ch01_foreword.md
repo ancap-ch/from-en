@@ -22,7 +22,7 @@ O custo à humanidade foi enorme.
 
 Decorria desde então permanecidos incapazes de definir um sistema universal de moralidade, nos forçaram a submeter histórias de terror religiosos aos nossos filhos, ou dar armas, prisões e exércitos para um monopólio de controladores desalmados autodenominados " estado".
 
-Logo quando denominamos "ética" sendo subjetiva e meramente *cultural*, nos resultaria inevitavelmente no "bullying", medo e violência a coagir às regras sociais. Sendo a ética, carente de uma base racional como o método científico, “moralidade” permanece presa numa guerra tribal de mitologias sangrentas; cada gangue lutando com unhas e dentes pelo controle individual da “virtude".
+Visto que o que denominamos "ética" segue subjetiva e meramente *cultural*, nós inevitavelmente terminamos por depender do "bullying", medo e violência para impor às regras sociais. Sendo a ética, carente de uma base racional como o método científico, “moralidade” permanece presa numa guerra tribal de mitologias sangrentas; cada gangue lutando com unhas e dentes pelo controle individual da “virtude".
 
 Somos incapazes de viver sem moralidade, mas também incapazes de definir moralidade objetivamente — portanto permanecemos eternamente nessa sentença de vidas vazias, preenchidas apenas de hipocrisia egocêntrica, supremacia cínica ou devota servidão.
 
