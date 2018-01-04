@@ -2,10 +2,10 @@
 
 ## Appendix A: UPB In A Nutshell
 
-Below, please find a summation of the core argument for morality.
+Di bawah ini, harap menemukan suatu ringkasan inti untuk moralitas.
 
-1. Reality is objective and consistent.
-2. “Logic” is the set of objective and consistent rules derived from the consistency of reality.
+1. Kenyataan objektif dan konsisten.
+2. "Logika" adalah tujuan dan peraturan konsisten berasal dari konsistensi dari kenyataan.
 3. Those theories that conform to logic are called “valid.”
 4. Those theories that are confirmed by empirical testing are called “accurate.”
 5. Those theories that are both valid and accurate are called “true.”
