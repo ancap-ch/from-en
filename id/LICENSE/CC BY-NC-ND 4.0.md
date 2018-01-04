@@ -18,7 +18,7 @@ Dengan melaksanakan hak berlisensi (didefinisikan di bawah ini), Anda menerima d
 
 ### Bagian 1 - definisi.
 
-a. **Materi diadaptasi** berarti materi tunduk pada hak Cipta dan hak-hak serupa yang berasal dari ataupun berdasarkan materi lisensi dan di mana materi berlisensi diterjemahkan, diubah, diatur, mengubah, atau dimodifikasi dengan cara yang memerlukan izin di bawah hak Cipta dan hak serupa yang diselenggarakan oleh pemberi lisensi. Untuk keperluan Lisensi Publik ini, di mana Bahan Berlisensi adalah pertunjukan musik, pertunjukan, atau rekaman suara, Bahan Adaptasi selalu diproduksi dimana Bahan Berlisensi disinkronkan dalam hubungan berjangka waktu dengan gambar bergerak.
+a. **Materi diadaptasi** berarti materi tunduk pada hak Cipta dan hak-hak serupa yang berasal dari ataupun berdasarkan materi lisensi dan di mana materi berlisensi diterjemahkan, diubah, diatur, mengubah, atau dimodifikasi dengan cara yang memerlukan izin di bawah hak Cipta dan hak serupa yang diselenggarakan oleh pemberi lisensi. Untuk keperluan lisensi umum, di mana materi berlisensi adalah karya musik, kinerja, atau rekaman suara, dimana materi adaptasi selalu di produksi materi berlisensi disinkronkan dalam hubungan berjangka panjang dengan gambar gerak.
 
 b. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
 
@@ -44,7 +44,7 @@ l. **You** means the individual or entity exercising the Licensed Rights under t
 
 a. ***License grant.***
 
-1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+1. Dengan tunduk pada syarat dan ketentuan dari Lisensi Publik ini, maka Pemberi Lisensi dengan ini memberi Anda lisensi di seluruh dunia, bebas royalti, tidak dapat disahkan, non-eksklusif, tidak dapat dibatalkan, untuk menerapkan Hak Izin dalam Materi Izin untuk:
     
         A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
         
@@ -55,7 +55,7 @@ a. ***License grant.***
 
 3. **Term.** The term of this Public License is specified in Section 6(a).
 
-4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. Anda melakukan modifikasi teknis yang diperlukan untuk menerapkan Hak Izin, termasuk modifikasi teknis yang diperlukan untuk menghindari tindakan Teknologi yang Efektif. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. Anda melakukan modifikasi teknis yang diperlukan untuk menerapkan Hak Izin, termasuk modifikasi teknis yang diperlukan untuk menghindari tindakan Teknologi yang Efektif. Untuk keperluan Lisensi Publik ini, hanya melakukan modifikasi yang disahkan oleh Bagian 2 (a) (4) tidak pernah menghasilkan Bahan yang Diadaptasi.
     
     1. **Downstream recipients.**
         
@@ -75,7 +75,7 @@ b. ***Hak lainnya.***
 
 ### Section 3 – License Conditions.
 
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+Penerapan Hak Izin Anda secara tegas dibuat sesuai dengan kondisi berikut.
 
 a. ***Attribution.***
 
