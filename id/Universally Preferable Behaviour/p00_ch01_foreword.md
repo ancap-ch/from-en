@@ -16,11 +16,11 @@ This book is the story of my personal assault on just such a beast.
 
 This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Binatang ini telah menurunkan banyak pahlawan hebat, mulai dari Socrates sampai Plato sampai Agustinus sampai Hume sampai Kant sampai Rand.
 
-The cost to mankind has been enormous.
+Biaya untuk manusia sangat besar.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Karena kita tetap tidak dapat mendefinisikan sistem moral universal yang rasional, kita terpaksa menimbulkan cerita horor religius mengenai anak-anak kita, atau memberi senjata, penjara dan tentara kepada monopoli kecil pengendali tanpa jiwa yang menyebut diri mereka "negara."
 
 Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
 
@@ -34,7 +34,7 @@ The increased information flow of the Internet has raised the suspicions of a ne
 
 “Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. Relativis ekstrem ini menyimpan serangan paling keras bagi siapa pun yang mengklaim suatu bentuk kepastian. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
 
 Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
 
@@ -78,11 +78,11 @@ If the reasoning holds, the greatest beast is down.
 
 Ini adalah ketinggian keberanian untuk menyarankan kepada pembaca bagaimana membaca sebuah buku, namun mengingat tantangan dari tugas di depan kita, saya ingin membuat satu saran kecil sebelum kita memulai.
 
-If we lived in the fifteenth century, and I were trying to convince you that the world were round, I would put forward reams of mathematical and physical proofs. If you held a contrary opinion, you would naturally react with scepticism, and be inclined to quibble with every line of proof. However, if you and I could in fact sail around the world, and arrive back where we started without retracing our steps, you would be far more willing to accept the conceptual proofs for what you had already *experienced* to be true. Anda mungkin menemukan kesalahan dengan langkah logis atau metafora tertentu, tapi Anda pasti sudah setuju dengan kesimpulan, dan dengan demikian akan lebih mudah untuk membantu memperbaiki rincian daripada menolak teori secara keseluruhan.
+Jika kita hidup di abad kelima belas, dan saya mencoba meyakinkan Anda bahwa dunia ini bulat, saya akan mengemukakan berbagai bukti matematika dan fisik. Jika Anda memiliki pendapat yang bertentangan, Anda tentu akan bereaksi dengan skeptisisme, dan cenderung berdalih dengan setiap garis bukti. However, if you and I could in fact sail around the world, and arrive back where we started without retracing our steps, you would be far more willing to accept the conceptual proofs for what you had already *experienced* to be true. Anda mungkin menemukan kesalahan dengan langkah logis atau metafora tertentu, tapi Anda pasti sudah setuju dengan kesimpulan, dan dengan demikian akan lebih mudah untuk membantu memperbaiki rincian daripada menolak teori secara keseluruhan.
 
 Jika tugas saya merespons setiap keberatan yang mungkin terjadi pada setiap langkah linguistik, logis dan empiris, buku ini akan tetap selamanya belum selesai - dan belum dibaca. Perfectionism is, in essence, procrastination, and I consider the task of this book to be too important – and the dangers of false morality too grave and imminent – to spend so long trying to achieve heaven that we all end up in hell.
 
-Thus I humbly suggest that you wait to see how effective the ethical framework I propose is at proving the most commonly accepted moral maxims of mankind before passing final judgement on the theory.
+Jadi saya dengan rendah hati menyarankan agar Anda menunggu untuk melihat seberapa efektif kerangka etis yang saya ajukan adalah membuktikan maksim moral manusia yang paling sering diterima sebelum memberikan penghakiman terakhir atas teori tersebut.
 
 I truly believe that the definition of a rational ethical framework is the most essential task that faces mankind. I truly appreciate your interest in this crucial matter – and would like as always to thank the wonderfully kind donators who have made this work possible.
 
