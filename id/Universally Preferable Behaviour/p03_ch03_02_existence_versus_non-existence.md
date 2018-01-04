@@ -24,9 +24,9 @@ Jika saya tidak berpikir bahwa saya kompeten untuk membuat keputusan saya sendir
 
 Entah saya mampu untuk membuat keputusan yang kompeten, atau saya tidak. Jika saya *adalah* mampu untuk membuat keputusan yang kompeten, maka membiarkan diri saya untuk memaksakan sisa hidup itu tidak benar. Jika saya *tidak* mampu untuk membuat keputusan yang kompeten, maka keputusan saya membiarkan diri saya untuk memaksakan sisa hidup saya juga tidak benar.
 
-Bahkan jika pertimbangan di atas masih bisa dilewati, namun, itu masih tidak mungkin untuk menegakkan keadilan sebuah kontrak sosial melalui pemerintahan. Jelas, saya tidak bisa menandatangani sebuah kontrak atas nama*anda*, atau atas nama anak saya, yang akan mengikat anda atau mereka untuk sisa waktu. Saya tidak bisa membeli sebuah mobil, mengirim anda bayaran, dan membiarkan anda membayar itu. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+Bahkan jika pertimbangan di atas masih bisa dilewati, namun, itu masih tidak mungkin untuk menegakkan keadilan sebuah kontrak sosial melalui pemerintahan. Jelas, saya tidak bisa menandatangani sebuah kontrak atas nama*anda*, atau atas nama anak saya, yang akan mengikat anda atau mereka untuk sisa waktu. Saya tidak bisa membeli sebuah mobil, mengirim anda bayaran, dan membiarkan anda membayar itu. Jika saya mengklaim kekuatan untuk memaksakan kontrak sepihak atas anda, UPB juga memberikan *anda* kekuatan ini, sehingga anda hanya ingin kembali kontrak saya dalam nama saya.
 
-In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
+Di jalan yang sama, bahkan jika saya memilih untuk membayar pada saya secara sukarela, saya tidak bisa memaksakan pilihan itu kepada anda, karena sebuah kontrak sukarela adalah berasal dari pribadi, dan juga tidak bisa universal ditegakkan melalui kekerasan.
 
 ### The Necessity Of The State?
 
