@@ -15,27 +15,27 @@ Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use o
 
 Mari kita lihat tiga tindakan, untuk membantu kita membedakan lebih jauh antara etika dan estetika. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
 
-### Irrationality
+### Irasionalitas
 
-Let’s say that you and I are having a debate about the existence of God. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Katakanlah bahwa Anda dan saya sedang berdebat tentang keberadaan Tuhan. Setelah saya mengajukan argumen saya, Anda bertepuk tangan di telinga Anda, bernyanyi bahwa Tuhan mengatakan kepada Anda bahwa Dia ada, dan karena itu semua argumen saya tidak berarti apa-apa. Jelas, tanggapan Anda terhadap posisi saya tidak masuk akal. Namun, menyebalkan mungkin aku akan menemukan perilaku Anda, walaupun, sepertinya tidak masuk akal bagiku untuk melampiaskan rasa frustanku dengan menarik pistol dan menembakmu. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
 
-### Lying
+### Bohong
 
-Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
+Katakanlah bahwa Anda dan saya menetapkan peraturan untuk sebuah perdebatan, dan kami berdua setuju untuk menilai pertanyaan tentang keberadaan Tuhan sesuai dengan akal dan bukti. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. Dengan kata lain, Anda berbohong saat mengatakan bahwa pertanyaan akan diputuskan oleh akal dan bukti.
 
-The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+Perbedaan antara dua situasi ini (irasionalitas versus berbohong) adalah perbedaan antara kesepakatan kontrak dan non-kontrak. Jika saya menyerahkan seratus dolar dan kemudian pergi, saya tidak dapat dengan adil mendatangi Anda dalam setahun dan mengatakan bahwa Anda sekarang berutang seratus dolar, karena itu adalah pinjaman. Jika, di sisi lain, Anda setuju untuk membayar uang kembali saya dalam setahun, dan kemudian gagal melakukannya, itu adalah situasi yang sangat berbeda.
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+Dalam contoh "berbohong," meskipun Anda telah benar-benar menghancurkan kata-kata Anda, dan menyia-nyiakan waktuku, tidak akan menjadi moral atau masuk akal bagiku untuk mencabut pistol dan menembakmu.
 
-A reasonable moral theory should be able to explain why this is the case.
+Sebuah teori moral yang masuk akal harus bisa menjelaskan mengapa hal ini terjadi.
 
-### Murder
+### Pembunuhan
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+Jika Anda menertawakan saya dengan membawa pisau, beberapa orang akan membantah hak saya untuk membela diri. Jika memotret Anda adalah satu-satunya cara agar saya bisa memastikan keselamatan saya sendiri, biasanya akan dianggap sebagai kebutuhan yang disesalkan.
 
-### Requirements For Ethics
+### Persyaratan untuk Etika
 
-Certain preconditions must exist, or be accepted, in order for ethical judgements or theories to have any validity or applicability. Clearly, choice and personal responsibility must both be accepted as axioms. If a rock comes bouncing down a hill and crashes into your car, we do not hold the rock morally responsible, since it has no consciousness, cannot choose, and therefore cannot possess personal responsibility. If the rock dislodged simply as a result of time and geology, then no one is responsible for the resulting harm to your car. If, however, you saw me push the rock out of its position, you would not blame the rock, but rather me. To add a further complication, if it turns out that I dislodged the rock because another man forced me to at gunpoint, you would be far more likely to blame the gun-toting initiator of the situation rather than me.
+Prasyarat tertentu harus ada, atau diterima, agar penilaian etis atau teori memiliki validitas atau penerapan. Jelas, pilihan dan tanggung jawab pribadi harus keduanya diterima sebagai aksioma. Jika sebuah batu meluncur turun menuruni bukit dan menabrak mobil Anda, kita tidak menahan batu yang bertanggung jawab secara moral, karena tidak memiliki kesadaran, tidak dapat memilih, dan karena itu tidak dapat memiliki tanggung jawab pribadi. If the rock dislodged simply as a result of time and geology, then no one is responsible for the resulting harm to your car. If, however, you saw me push the rock out of its position, you would not blame the rock, but rather me. To add a further complication, if it turns out that I dislodged the rock because another man forced me to at gunpoint, you would be far more likely to blame the gun-toting initiator of the situation rather than me.
 
 As we have discussed above, entering into any debate requires an acceptance of the realities of choice, values and personal responsibility. However, these factors are also present in the choice of the colour of paint for a room, yet we would scarcely say that selecting a hue is a *moral* choice. Thus there must be other criteria which must be present in order for a choice or proposition to be moral.
 
