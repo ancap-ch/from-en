@@ -22,9 +22,9 @@ Jika saya tidak bisa memutuskan warna untuk mengecat rumah saya, dan solusi saya
 
 Jika saya tidak berpikir bahwa saya kompeten untuk membuat keputusan saya sendiri, maka jelas keputusan saya menganggap diri saya membuat kekerasan *untuk sisa hidup saya* adalah keputusan yang tidak kompeten.
 
-Entah saya mampu untuk membuat keputusan yang kompeten, atau saya tidak. Jika saya *adalah* mampu untuk membuat keputusan yang kompeten, maka membiarkan diri saya untuk memaksakan sisa hidup itu tidak benar. If I am *not* capable of making competent decisions, then my decision to subject myself to force for the rest of my life is also invalid.
+Entah saya mampu untuk membuat keputusan yang kompeten, atau saya tidak. Jika saya *adalah* mampu untuk membuat keputusan yang kompeten, maka membiarkan diri saya untuk memaksakan sisa hidup itu tidak benar. Jika saya *tidak* mampu untuk membuat keputusan yang kompeten, maka keputusan saya membiarkan diri saya untuk memaksakan sisa hidup saya juga tidak benar.
 
-Even if the above considerations are somehow bypassed, however, it is still impossible to justly enforce a social contract through a government. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+Bahkan jika pertimbangan di atas masih bisa dilewati, namun, itu masih tidak mungkin untuk menegakkan keadilan sebuah kontrak sosial melalui pemerintahan. Jelas, saya tidak bisa menandatangani sebuah kontrak atas nama*anda*, atau atas nama anak saya, yang akan mengikat anda atau mereka untuk sisa waktu. Saya tidak bisa membeli sebuah mobil, mengirim anda bayaran, dan membiarkan anda membayar itu. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
 
 In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
 
