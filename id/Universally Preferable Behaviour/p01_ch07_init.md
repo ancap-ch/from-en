@@ -36,12 +36,12 @@ When we analyse a principle such as the NAP, there are really only seven possibi
 - Inisiasi penggunaan kekuatan terkadang secara moral benar.
 - Inisiasi penggunaan kekuatan selalu benar secara moral.
 
-As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
+As we have seen above, however, UPB is an “all or nothing” framework. Jika sebuah tindakan dilakukan *secara universal lebih baik*, maka tidak bisa dibatasi oleh individu, geografi, waktu dll. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
 
 Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
 
-1. It is universally preferable to initiate the use of force.
-2. It is universally preferable to not initiate the use of force.
+1. Hal ini secara umum lebih baik memulai penggunaan kekuatan.
+2. Hal in secara umum tidak baik memulai penggunaan kekuatan.
 3. The initiation of the use of force is not subject to universal preferences.
 
 This is the natural result of applying the requirement of rational consistency to ethical propositions. A rational theory cannot validly propose that opposite results can occur from the same circumstances. A scientific theory cannot argue that one rock must fall down, but another rock must fall up. Einstein did not argue that E=MC^2^ on a Thursday, but that E=MC^3^ on a Friday, or on Mars, or during a blue moon. The law of conservation – that matter can be neither created nor destroyed – does not hold true only when you really, really want it to, or if you pay a guy to make it so, or when a black cat crosses your path. The laws of physics are not subject to time, geography, opinion or acts of Congress. This consistency must also be required for systems of ethics, or UPB, and we will subject generally accepted moral theories to this rigour in Part Two, in a few pages.
