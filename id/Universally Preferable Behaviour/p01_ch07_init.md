@@ -22,7 +22,7 @@ Demikian pula, mungkin bagi saya untuk meninggalkan dompet di bangku taman selam
 
 Di sisi lain, jika saya tinggal di rumah setiap malam, saya tidak tahu persis tentang kejahatan, dan jadi jika seorang maniak menyerang rumah saya dan merampok saya buta, saya tidak dapat disalahkan karena peran hubungan yang saya mainkan dalam kejadian tersebut.
 
-### The Non-Aggression Principle (NAP)
+### Prinsip Non-Agresi (PNA)
 
 A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
 
