@@ -12,11 +12,11 @@ Seorang ahli bedah bisa "menusuk" Anda dengan pisau bedah, tapi kita dapat denga
 
 Perbedaan ini dapat dipahami melalui analisis lebih lanjut *inisiasi*.
 
-Jika Anda terkena kanker, Anda mungkin meminta dokter bedah untuk mengoperasikan Anda. Alasan mengapa "tusukan" dokter bedah itu tidak bermoral adalah bahwa kanker "memulai" serangan terhadap hidup dan kesehatan Anda. Dokter bedah bertindak sebagai "Pengganti agen pertahanan diri", sama seperti pria yang menembakkan seorang perampok yang menyerang Anda. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+Jika Anda terkena kanker, Anda mungkin meminta dokter bedah untuk mengoperasikan Anda. Alasan mengapa "tusukan" dokter bedah itu tidak bermoral adalah bahwa kanker "memulai" serangan terhadap hidup dan kesehatan Anda. Dokter bedah bertindak sebagai "Pengganti agen pertahanan diri", sama seperti pria yang menembakkan seorang perampok yang menyerang Anda. Anda juga telah memberikan persetujuan Anda kepada dokter bedah, dan perilakunya terkait dengan kontrak tertentu.
 
-The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
+Perampok yang menusuk Anda, bagaimanapun, ialah memulai serangan terhadap hidup dan kesehatan Anda, oleh karena itu serangannya adalah tindakan *yang berlawanan* dengan upaya dokter bedah.
 
-If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Jika saya seorang perokok kronis dan lama, saya telah berpartisipasi dalam rangkaian kejadian yang menyebabkan kanker paru-paru saya. Dengan memulai dan mempertahankan kebiasaan merokok, saya telah menggerakkan rantai kausalitas yang dapat menyebabkan penderitaan yang mengancam jiwa. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
 
 Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
 
