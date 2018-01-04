@@ -14,7 +14,7 @@ Inevitavelmente, um homem avança na vista de todos, ser completamente atemporal
 
 Esse livro é a história da minha *investida</> pessoal desta fera.</p> 
 
-Desta "fera" vem a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. Esta "criatura" é a ilusão de que a moralidade deve para sempre ficar perdida entre pântanos irracionais de deuses e governos, imposta meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Desta "besta" vem a fantasia da virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares, e esquecida para ser emboscada aqui, sendo explorada por políticos e padres – e pais. Deste "animal" é que a superstição, sem a repressão dos pais, do "bullying" de deuses ou armas dos governos, somos incapazes de sermos bons e racionais.
+Desta "fera" vem a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. Esta "criatura" é a ilusão de que a moralidade deve para sempre ficar perdida entre pântanos irracionais de deuses e governos, imposta meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Desta "besta" vem a fantasia da virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares, e esquecida para ser emboscada aqui, sendo explorada por políticos e padres – e pais. Essa "fera" é a superstição que, sem a repressão dos pais, o "bullying" de deuses ou as armas dos governos, somos incapazes de ser bons e racionais.
 
 Esse monstro derrubou muitos heróis formidáveis, de Sócrates à Platão, Santo Agostinho à Hume, Kant à Rand.
 
@@ -22,7 +22,7 @@ O custo à humanidade tem sido enorme.
 
 Decorria desde então permanecidos incapazes de definir um sistema universal de moralidade, nos forçaram a submeter histórias de terror religiosos aos nossos filhos, ou dar armas, prisões e exércitos para um monopólio de controladores desalmados autodenominados " estado".
 
-Visto que o que denominamos "ética" segue subjetiva e meramente *cultural*, nós inevitavelmente terminamos por depender do "bullying", medo e violência para impor às regras sociais. Sendo a ética, carente de uma base racional como o método científico, “moralidade” permanece presa numa guerra tribal de mitologias sangrentas; cada gangue lutando com unhas e dentes pelo controle individual da “virtude".
+Visto que o que denominamos "ética" segue subjetivo e meramente *cultural*, nós inevitavelmente terminamos por depender do "bullying", medo e violência para impor as regras sociais. Sendo a ética, carente de uma base racional como o método científico, “moralidade” permanece presa numa guerra tribal de mitologias sangrentas; cada gangue lutando com unhas e dentes pelo controle individual da “virtude".
 
 Somos incapazes de viver sem moralidade, mas também incapazes de definir moralidade objetivamente — portanto permanecemos eternamente nessa sentença de vidas vazias, preenchidas apenas de hipocrisia egocêntrica, supremacia cínica ou devota servidão.
 
