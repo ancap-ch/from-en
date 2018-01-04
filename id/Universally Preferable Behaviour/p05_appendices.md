@@ -21,17 +21,17 @@ Di bawah ini, harap menemukan suatu ringkasan inti untuk moralitas.
 
 Di bawah ini adalah contoh tabel yang mencantumkan beberapa kategori yang paling umum dari aturan/tindakan, dan pembeda utama mereka.
 
-| Tindakan / Aturan                 | Pilihan? | Universal? | Terangkat? | Memerlukan tindakan pemrakarsa pada bagian dari korban? | Dapatkah pelanggar dihindari? | Kategori Moral                |
-| --------------------------------- | -------- | ---------- | ---------- | ------------------------------------------------------- | ----------------------------- | ----------------------------- |
-| **Mengejar bus**                  | Tidak    | Tidak      | n/a        | n/a                                                     | n/a                           | Neutral                       |
-| **You should not like ice cream** | Yes      | No         | No         | n/a                                                     | n/a                           | Neutral (personal preference) |
-| **You should not be late**        | Yes      | Yes        | No         | No                                                      | Yes                           | APA                           |
-| **You should not commit fraud**   | Yes      | Yes        | Yes        | Yes                                                     | Yes                           | Good                          |
-| **You should not rape**           | Yes      | Yes        | Yes        | No                                                      | No                            | Good                          |
+| Tindakan / Aturan                               | Pilihan? | Universal? | Terangkat? | Memerlukan tindakan pemrakarsa pada bagian dari korban? | Dapatkah pelanggar dihindari? | Kategori Moral           |
+| ----------------------------------------------- | -------- | ---------- | ---------- | ------------------------------------------------------- | ----------------------------- | ------------------------ |
+| **Mengejar bus**                                | Tidak    | Tidak      | n/a        | n/a                                                     | n/a                           | Netral                   |
+| **Kamu seharusnya tidak menyukai es krim**      | Ya       | Tidak      | Tidak      | n/a                                                     | n/a                           | Netral (pilihan pribadi) |
+| **Kamu tidak boleh terlambat**                  | Ya       | Ya         | Tidak      | Tidak                                                   | Ya                            | APA                      |
+| **Anda seharusnya tidak melakukan kecurangan**  | Ya       | Ya         | Ya         | Ya                                                      | Ya                            | Baik                     |
+| **Anda seharusnya tidak melakukan pemerkosaan** | Ya       | Ya         | Ya         | Tidak                                                   | Tidak                         | Baik                     |
 
-## Appendix C: UPB Podcasts
+## Lampiran C: Podcast UPB
 
-If you would like to further your understanding of UPB and its ramifications, you might find the following podcasts (available [here](www.freedomainradio.com)) helpful. You may also wish to watch the “Introduction to Philosophy” videos, available on [Youtube](www.youtube.com/freedomainradio).
+Jika Anda ingin memahami lebih lanjut tentang UPB dan akibatnya, mungkin Anda menemukan podcast berikut (tersedia [di sini](www.freedomainradio.com)) bermanfaat. You may also wish to watch the “Introduction to Philosophy” videos, available on [Youtube](www.youtube.com/freedomainradio).
 
 | Track | Title                                                         | Description                                                                                                                                                                                                                              |
 | -----:|:------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,7 +50,7 @@ If you would like to further your understanding of UPB and its ramifications, yo
 |   557 | Testing Ethics                                                | Reasonable standards for ethical theories.                                                                                                                                                                                               |
 |   567 | Morals Ethics & Aesthetics                                    | Right and wrong from murder to manners...                                                                                                                                                                                                |
 |   588 | Positive Obligations - An Example                             | An excellent critique of one of my articles.                                                                                                                                                                                             |
-|   816 | Tennis Anyone?                                                | A metaphor for moral action.                                                                                                                                                                                                             |
+|   816 | Tenis Siapapun?                                               | Sebuah metafora untuk tindakan moral.                                                                                                                                                                                                    |
 
 Finally, if you would like to debate these ideas with other interested philosophers, feel free drop by the [Freedomain Radio Message Board](www.freedomainradio.com/board).
 
