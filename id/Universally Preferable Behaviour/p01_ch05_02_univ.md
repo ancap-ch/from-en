@@ -51,31 +51,31 @@ Atau:
 
 1. Pilihannya hampir tak terbatas.
 2. Kebanyakan manusia membuat pilihan yang sangat mirip.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+3. Karena itu tidak semua pilihan bisa sama.
+4. Oleh karena itu pilihan yang lebih baik secara universal harus valid.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+Argumen kelima untuk validitas perilaku yang lebih baik secara universal adalah evolusioner.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+Karena semua kehidupan organik memerlukan perilaku preferensial untuk bertahan hidup, kita dapat mengasumsikan bahwa organisme yang membuat pilihan paling sukses adalah yang paling sering dipilih untuk bertahan hidup.
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+Karena manusia adalah spesies yang paling sukses, dan organ manusia yang paling khas adalah pikirannya, itu pasti milik manusia *pikiran* yang telah membantunya paling banyak dalam membuat pilihan yang sukses. Pikiran itu sendiri, kemudian, telah dipilih sesukses dengan kemampuannya untuk membuat pilihan yang sukses. Karena pikiran manusia hanya ada sebagai *hasil* memilih perilaku yang lebih baik secara universal, perilaku yang lebih baik secara universal harus merupakan konsep yang valid.
 
 Or:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+1. Organisme berhasil dengan melakukan perilaku universal yang lebih baik.
+2. Manusia adalah organisme yang paling sukses.
+3. Oleh karena itu manusia pasti telah bertindak paling sukses atas dasar perilaku yang lebih baik secara universal.
+4. Pikiran manusia adalah organ yang paling khas.
+5. Oleh karena itu, pikiran manusia pasti telah bertindak paling berhasil atas dasar perilaku yang lebih baik secara universal.
+6. Oleh karena itu perilaku yang lebih baik secara universal harus valid.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+Kita bisa membawa lebih banyak argumen untuk mendukung keberadaan dan validitas UPB, namun kita harus menyelesaikan kasus kita dengan hal di atas, dan beralih ke pemeriksaan tentang sifat UPB.
 
-#### UPB: Optional And Objective
+#### UPB: Opsional Dan Tujuan
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Karena kita telah membuktikan keabsahan perilaku yang lebih baik secara universal, pertanyaan tentang moralitas sekarang bergeser. Karena moralitas *adalah* berlaku, teori apa yang bisa mengukur, mengklasifikasikan, menjelaskan dan memprediksinya?
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+Pertama-tama, kita harus ingat bahwa moralitas jelas-jelas bersifat opsional. Setiap orang tunduk pada gravitasi dan membutuhkan makanan untuk hidup, tapi tidak ada pria yang harus bertindak secara moral. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
 
 The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
 
