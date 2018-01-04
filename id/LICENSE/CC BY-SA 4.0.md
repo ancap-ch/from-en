@@ -115,7 +115,7 @@ In addition to the conditions in Section 3(a), if You Share Adapted Material You
 
 2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
 
-3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
+3. Anda mungkin tidak menawarkan atau menerapkan persyaratan atau ketentuan tambahan atau berbeda, atau menerapkan Langkah Teknologi yang Efektif untuk Materi yang Diadaptasi yang membatasi pelaksanaan hak yang diberikan berdasarkan Lisensi Adapter yang Anda terapkan.
 
 ### Section 4 – Sui Generis Database Rights.
 
@@ -157,18 +157,18 @@ d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
 
 a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
 
-b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.t stated herein are separate from and independent of the terms and conditions of this Public License.
+b. Setiap pengaturan, pemahaman, atau kesepakatan mengenai Bahan Berlisensi yang tidak disebutkan di sini terpisah dari dan terlepas dari syarat dan ketentuan dari Lisensi Publik ini. Dinyatakan di sini terpisah dari dan terlepas dari syarat dan ketentuan dari Lisensi Publik ini.
 
 ### Section 8 – Interpretation.
 
-a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
+a. Untuk menghindari keraguan, Lisensi Publik ini tidak, dan tidak boleh ditafsirkan untuk, mengurangi, membatasi, membatasi, atau mengenakan ketentuan tentang penggunaan Materi Berlisensi yang dapat dilakukan secara sah tanpa izin berdasarkan Lisensi Publik ini.
 
-b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+b. Sedapat mungkin, jika ada ketentuan dari Lisensi Publik ini yang dianggap tidak dapat dilaksanakan, maka secara otomatis harus direformasi sejauh yang diperlukan untuk membuatnya dapat dilaksanakan. Jika ketentuan tersebut tidak dapat direformasi, maka hal tersebut akan diputus dari Lisensi Publik ini tanpa mempengaruhi persyaratan dan ketentuan yang berlaku.
 
-c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
+c. Tidak ada syarat atau ketentuan dari Lisensi Publik ini yang akan dihapuskan dan tidak ada kegagalan untuk mematuhi persetujuan kecuali jika disetujui secara tegas oleh Pemberi Lisensi.
 
-d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
+d. Tidak ada Lisensi Publik ini yang merupakan atau dapat dianggap sebagai pembatasan atas, atau pengabaian, hak istimewa dan kekebalan apapun yang berlaku bagi Pemberi Lisensi atau Anda, termasuk dari proses hukum dari yurisdiksi atau otoritas manapun.
 
-> Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
+> Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. Untuk menghindari keraguan, paragraf ini tidak menjadi bagian dari lisensi publik.
 > 
 > Creative Commons may be contacted at creativecommons.org
