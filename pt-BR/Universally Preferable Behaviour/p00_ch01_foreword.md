@@ -16,7 +16,7 @@ Esse livro é a história da minha *investida</> pessoal desta fera.</p>
 
 Desta "fera" vem a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. Desta "fera" vem a ilusão de que a moralidade deve sempre ficar perdida entre os pântanos irracionais de deuses e governos, coercivos meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Desta "besta" vem a fantasia da virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares, e esquecida para ser emboscada aqui, sendo explorada por políticos e padres – e pais. Desta "besta" é que a superstição, sem a repressão dos pais, do "bullying" de deuses ou armas dos governos, somos incapazes de sermos bons e racionais.
 
-Este monstro derrubou muitos heróis formidáveis, de Sócrates à Platão, Santo Agostinho à Hume, Kant à Rand.
+Esse monstro derrubou muitos heróis formidáveis, de Sócrates à Platão, Santo Agostinho à Hume, Kant à Rand.
 
 O custo à humanidade foi enorme.
 
