@@ -16,9 +16,9 @@ Jika Anda terkena kanker, Anda mungkin meminta dokter bedah untuk mengoperasikan
 
 Perampok yang menusuk Anda, bagaimanapun, ialah memulai serangan terhadap hidup dan kesehatan Anda, oleh karena itu serangannya adalah tindakan *yang berlawanan* dengan upaya dokter bedah.
 
-Jika saya seorang perokok kronis dan lama, saya telah berpartisipasi dalam rangkaian kejadian yang menyebabkan kanker paru-paru saya. Dengan memulai dan mempertahankan kebiasaan merokok, saya telah menggerakkan rantai kausalitas yang dapat menyebabkan penderitaan yang mengancam jiwa. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Jika saya seorang perokok kronis dan lama, saya telah berpartisipasi dalam rangkaian kejadian yang menyebabkan kanker paru-paru saya. Dengan memulai dan mempertahankan kebiasaan merokok, saya telah menggerakkan rantai kausalitas yang dapat menyebabkan penderitaan yang mengancam jiwa. Tentunya mungkin bagi saya untuk terkena kanker paru-paru tanpa merokok - atau merokok tanpa terkena kanker paru-paru - tapi saya pasti telah mempengaruhi kemungkinan tersebut.
 
-Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
+Demikian pula, mungkin bagi saya untuk meninggalkan dompet di bangku taman selama seminggu, dan kembali menemukannya masih ada di sana, tapi dengan meninggalkannya di sana untuk waktu yang lama, saya pasti telah mempengaruhi kemungkinan hal itu hilang.
 
 On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
 
