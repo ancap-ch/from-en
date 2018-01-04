@@ -48,11 +48,11 @@ A razão pela qual a moralidade moderna — e a moralidade por toda a história 
 
 A verdade é que precisamos de moralidade; a mentira é que deuses e governos podem racionalmente defini-la ou justamente forçá-la.
 
-Meu objetivo neste livro é definir uma metodologia para validar teorias à respeito da moralidade que é objetiva, consistente, clara, racional, empírica – e *verdadeira*.
+Meu objetivo neste livro é definir uma metodologia para validar teorias à respeito da moralidade que é objetiva, consistente, clara, racional, empírica — e *verdadeira*.
 
-Estou perfeitamente consciente que, neste momento, você provavelmente deve estar sentido crescer uma onda de ceticismo. Eu entendo completamente que a probabilidade que um cara, internet à fora – a terra dos malucos – de alguma forma resolveu o problema filosófico das eras não são particularmente altas – na verdade, elas seriam tão perto de zero que seriam virtualmente indistinguíveis de tal valor.
+Estou perfeitamente consciente que, neste momento, você provavelmente deve estar sentido crescer uma onda de ceticismo. Eu entendo completamente que a probabilidade que algum fulano, internet à fora — a terra dos malucos — de alguma jeito resolveu o problema filosófico de eras não são particularmente altas — na verdade, elas seriam tão perto de zero que seriam virtualmente indistinguíveis de tal valor.
 
-Ainda assim – não zero, *exatamente*.
+Ainda assim, não zerei — *exatamente*.
 
 ### Regras Básicas
 
