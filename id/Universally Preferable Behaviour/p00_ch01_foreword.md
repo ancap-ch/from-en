@@ -34,7 +34,7 @@ The increased information flow of the Internet has raised the suspicions of a ne
 
 “Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. Relativis ekstrem ini menyimpan serangan paling keras bagi siapa pun yang mengklaim suatu bentuk kepastian. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+Kesadaran ini telah melahirkan generasi baru nihilis, sama seperti di Jerman abad kesembilan belas. Relativis ekstrem ini menyimpan serangan paling keras bagi siapa pun yang mengklaim suatu bentuk kepastian. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
 
 Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
 
@@ -70,7 +70,7 @@ Klaim luar biasa membutuhkan bukti yang luar biasa. In taking on this mammoth ta
 
 Having spent the last few years of my life preparing, training, and then combating this beast, I hope that I have acquitted myself with some measure of honour. I believe that I have emerged victorious – though not entirely unscathed – and I look forward to seeing who shares this view.[^2]
 
-Saya mempelajari sejarah filsafat di sekolah pascasarjana, dan meraih gelar Master, tapi saya tidak memiliki gelar PhD dalam bidang filsafat. Saya jauh dari intelektual publik. While I may not be the *most* unlikely champion, I am also far from the most likely. Whether I have succeeded or not is not up to you, and it is not up to me.
+Saya mempelajari sejarah filsafat di sekolah pascasarjana, dan meraih gelar Master, tapi saya tidak memiliki gelar PhD dalam bidang filsafat. Saya jauh dari intelektual publik. While I may not be the *most* unlikely champion, I am also far from the most likely. Apakah saya telah berhasil atau tidak tidak terserah Anda, dan itu tidak terserah saya.
 
 Jika alasannya berlaku, binatang terhebat itu sedang down.
 
@@ -84,7 +84,7 @@ Jika tugas saya merespons setiap keberatan yang mungkin terjadi pada setiap lang
 
 Jadi saya dengan rendah hati menyarankan agar Anda menunggu untuk melihat seberapa efektif kerangka etis yang saya ajukan adalah membuktikan maksim moral manusia yang paling sering diterima sebelum memberikan penghakiman terakhir atas teori tersebut.
 
-I truly believe that the definition of a rational ethical framework is the most essential task that faces mankind. I truly appreciate your interest in this crucial matter – and would like as always to thank the wonderfully kind donators who have made this work possible.
+I truly believe that the definition of a rational ethical framework is the most essential task that faces mankind. Saya sangat menghargai ketertarikan Anda pada masalah krusial ini - dan sangat ingin mengucapkan terima kasih kepada para donatur hebat yang telah membuat pekerjaan ini menjadi mungkin.
 
 Saya naik ke medan perang yang dipersenjatai dengan baik oleh orang lain.
 
