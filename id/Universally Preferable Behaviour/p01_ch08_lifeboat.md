@@ -4,7 +4,7 @@ The fact that UPB only validates logically consistent moral theories does not me
 
 Misalnya, jika kita menerima keabsahan hak properti secara universal, menghancurkan jendela dan melompat ke apartemen seseorang tanpa izin akan menjadi pelanggaran hak kepemilikannya. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
 
-Di dunia nyata, akan membawa orang yang sangat berperasaan untuk mengajukan tuntutan kepada seseorang yang menghancurkan sebuah jendela untuk menyelamatkan hidupnya - seperti halnya orang yang tidak bertanggung jawab untuk menolak membayar restitusi untuk jendela tersebut. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
+Di dunia nyata, akan membawa orang yang sangat berperasaan untuk mengajukan tuntutan kepada seseorang yang menghancurkan sebuah jendela untuk menyelamatkan hidupnya - seperti halnya orang yang tidak bertanggung jawab untuk menolak membayar restitusi untuk jendela tersebut. Prinsip "penghindaran" adalah pusat di sini - seorang pria yang menggantung tiang bendera memiliki sedikit pilihan untuk menendang di jendela. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. Hal ini mirip dengan perbedaan antara wanita yang menipu pria itu, dibandingkan wanita yang prianya menguncinya di ruang bawah tanah.
 
 This is not to say that breaking the window to save your life is not wrong. It is, but it is a wrong that almost all of us would choose to commit rather than die. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
 
@@ -14,15 +14,15 @@ The fact that certain “grey areas” exist in the realm of ethics has often be
 
 This is false.
 
-All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
+All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. Fakta bahwa spesies serangga tertentu menantang untuk dibedakan tidak berarti bahwa tidak ada perbedaan antara kumbang dan ikan paus.
 
-For some perverse reason, intellectuals in particular take great joy in the wanton destruction of ethical, normative and rational standards. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
+Untuk alasan yang aneh, para intelektual khususnya sangat bersukacita dalam penghancuran standar etis, normatif dan rasional. Ini bisa terjadi karena para intelektual begitu sering dibayar oleh kelas individu yang korup seperti politisi, imam dan raja - atau bisa juga seorang pria sering menjadi intelektual untuk menciptakan pembenaran atas perilaku asusila sendiri. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. Jika ilmu biologi itu tidak mungkin, tidak masuk akal bila menjadi ahli biologi, lebih dari sekedar ateis harus melawan gigi dan kuku untuk menjadi imam.
 
 ### Shades Of Grey
 
 In the realm of “grey areas,” there are really only three possibilities.
 
-1. There are no such things as grey areas.
+1. Tidak ada yang namanya daerah abu-abu.
 2. Certain grey areas do exist.
 3. All knowledge is a grey area.
 
@@ -30,29 +30,29 @@ Clearly, option one can be easily discarded. Option three is also fairly easy to
 
 Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
 
-A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
+Seorang ilmuwan yang ditangkap oleh kanibal mungkin berpura-pura menjadi dukun-dokter untuk melarikan diri - ini tidak berarti bahwa kita harus menolak metode ilmiah sama sekali tidak sah.
 
-Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
+Demikian pula, ada situasi ekstrem dimana kita dapat memilih untuk melakukan tindakan tidak bermoral, namun situasinya tidak menyangkal sains moralitas, lebih dari mutasi sesekali mematahkan ilmu biologi. Sebenarnya, ilmu biologi sangat maju melalui penerimaan dan pemeriksaan mutasi - dan sama, ilmu etika hanya diperkuat melalui pemeriksaan "skenario sekoci," selama pemeriksaan semacam itu tidak dilakukan secara obsesif.
 
 ### Universality And Exceptions
 
-Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
+Sebelum kita mulai menggunakan kerangka Perilaku Universal untuk meneliti beberapa kepercayaan etis yang umum, kita harus menghadapi pertanyaan tentang "pengecualian."
 
 Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
 
 In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
 
-1. Everyone would rather steal an apple than starve to death.
+1. Semua orang lebih suka mencuri apel daripada mati kelaparan.
 2. Thus everyone universally prefers stealing apples to death by starvation.
 3. Thus it is *universally preferable* to steal apples rather than starve to death.
 4. Thus survival is universally preferable to property rights.
-5. Thus what is good for the individual is the ultimate moral standard.
+5. Jadi apa yang baik bagi individu adalah standar moral tertinggi.
 
-This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
+Ini telah digunakan sebagai dasar untuk sejumlah teori dan pendekatan etis, dari Nietzsche sampai Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
 
 This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
 
-It also introduces a completely unscientific subjectivism to the question of morality. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
+Ini juga memperkenalkan subjektivisme yang benar-benar tidak ilmiah terhadap masalah moralitas. Misalnya, jika secara moral diperbolehkan mencuri makanan saat Anda kelaparan, berapa banyak makanan yang bisa Anda curi? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
 
 Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
 
