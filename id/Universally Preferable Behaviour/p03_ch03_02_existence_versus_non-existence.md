@@ -20,9 +20,9 @@ Jika seorang pria dengan kecerdasan yang luar biasa rendah tidak mengerti konsep
 
 Jika saya tidak bisa memutuskan warna untuk mengecat rumah saya, dan solusi saya adalah untuk menandatangani sebuah kontrak dengan seorang pelukis yang membolehkan dia untuk memilih warna untuk saya - dan dalam kontrak tersebut saya menandatangani semua kebebasan masa depan saya untuk menolak keputusannya, dan memberi dia hak untuk menculik dan memperbudak saya jika saya tidak setuju dengan keputusannya, atau menolak membayar mereka - maka jelaslah saya bukan orang baik hati. Jika saya memberikan seseorang kekuatan untuk memaksa say *selama sisa hidup saya*, maka jelas saya tidak percaya bahwa saya kompeten untuk membuat keputusan saya sendiri.
 
-If I do not think that I am competent to make my own decisions, then clearly my decision to subject myself to violence *for the rest of my life* is an incompetent decision.
+Jika saya tidak berpikir bahwa saya kompeten untuk membuat keputusan saya sendiri, maka jelas keputusan saya menganggap diri saya membuat kekerasan *untuk sisa hidup saya* adalah keputusan yang tidak kompeten.
 
-Either I am capable of making competent decisions, or I am not. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. If I am *not* capable of making competent decisions, then my decision to subject myself to force for the rest of my life is also invalid.
+Entah saya mampu untuk membuat keputusan yang kompeten, atau saya tidak. Jika saya *adalah* mampu untuk membuat keputusan yang kompeten, maka membiarkan diri saya untuk memaksakan sisa hidup itu tidak benar. If I am *not* capable of making competent decisions, then my decision to subject myself to force for the rest of my life is also invalid.
 
 Even if the above considerations are somehow bypassed, however, it is still impossible to justly enforce a social contract through a government. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
 
