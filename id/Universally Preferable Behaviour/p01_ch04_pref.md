@@ -1,6 +1,6 @@
 ## Preferences
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Sekarang setelah kita memahami sifat argumen yang mengalahkan diri sendiri, kita dapat beralih ke pertanyaan tentang preferensi.
 
 Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
 
