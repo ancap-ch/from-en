@@ -43,7 +43,7 @@ Using the above “lifeboat scenarios,” the conclusion is often drawn that “
 In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
 
 1. Semua orang lebih suka mencuri apel daripada mati kelaparan.
-2. Thus everyone universally prefers stealing apples to death by starvation.
+2. Jadi setiap orang secara universal lebih suka mencuri apel sampai mati karena kelaparan.
 3. Thus it is *universally preferable* to steal apples rather than starve to death.
 4. Thus survival is universally preferable to property rights.
 5. Jadi apa yang baik bagi individu adalah standar moral tertinggi.
