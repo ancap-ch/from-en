@@ -2,7 +2,7 @@
 
 Dalam banyak dongeng, di sana hidup seekor binatang buas yang luar biasa dengan kekuatan luar biasa, naga atau basilisk, yang menghias tanah di sekitarnya. Penduduk desa setempat gemetar sebelum monster ini; mereka mengorbankan hewan mereka, membayar uang dan darah dengan harapan bisa memenuhi impuls pembunuhnya.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Dari tahun ke tahun, dekade demi dekade, gelombang demi gelombang juara penuh harapan berusaha mencocokkan kekuatan, kebajikan dan kecerdikan mereka terhadap tiran mengerikan ini.
+Kebanyakan orang meringkuk di bawah bayang-bayang binatang ini, menyebut ketakutan mereka "kehati-hatian," tapi sedikit - mungkin mabuk karena keberanian atau kebodohan - memutuskan untuk bertarung. Dari tahun ke tahun, dekade demi dekade, gelombang demi gelombang juara penuh harapan berusaha mencocokkan kekuatan, kebajikan dan kecerdikan mereka terhadap tiran mengerikan ini.
 
 Cobalah - dan gagal.
 
@@ -14,7 +14,7 @@ Tak pelak lagi, seorang pria melangkah maju yang menyerang semua orang sama seka
 
 Buku ini adalah kisah tentang serangan pribadi saya terhadap binatang seperti itu.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+"Binatang" ini adalah keyakinan bahwa tidak mungkin untuk mendefinisikan sistem etika obyektif, rasional, sekuler dan ilmiah. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
 
 Binatang ini telah menurunkan banyak pahlawan hebat, mulai dari Socrates sampai Plato sampai Agustinus sampai Hume sampai Kant sampai Rand.
 
@@ -36,7 +36,7 @@ Aliran informasi yang meningkat di Internet telah meningkatkan kecurigaan genera
 
 Kesadaran ini telah melahirkan generasi baru nihilis, sama seperti di Jerman abad kesembilan belas. Relativis ekstrem ini menyimpan serangan paling keras bagi siapa pun yang mengklaim suatu bentuk kepastian. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+Karena kita tidak memiliki kesepakatan mengenai kerangka kerja yang kohesif, obyektif dan rasional untuk mengevaluasi proposisi moral, "moralitas" tetap terperosok dalam mistisisme, dan konsekuensi wajar kekerasan yang tak terelakkan. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
 
 Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
 
@@ -65,8 +65,8 @@ Klaim luar biasa membutuhkan bukti yang luar biasa. In taking on this mammoth ta
 5. I also refuse to define ethics as a “positive law doctrine.” Although it is generally accepted that legal systems are founded upon systems of ethics, no one could argue that every law within every legal system is a perfect reflection of an ideal morality. Laws cannot directly mirror *any* objective theory of ethics, since laws are in a continual state of flux, constantly being overturned, abandoned and invented – and legal systems the world over are often in direct opposition to one another, even at the theoretical level. Sharia law is often directly opposed to Anglo-Saxon common-law, and the modern democratic “mob rule” process often seems more akin to a Mafia shoot-out than a sober implementation of ethical ideals.
 6. I am fully open to the proposition that there is no such thing as ethics at all, and that all systems of “morality” are mere instruments of control, as Nietzsche argued so insistently. Dalam buku ini, saya mulai dari anggapan bahwa tidak ada yang namanya etika, dan membangun kerangka kerja dari sana.
 7. I do have great respect for the ethical *instincts* of mankind. The near-universal social prohibitions on murder, rape, assault and theft are facts that any rational ethicist discards at his peril. Aristoteles berpendapat bahwa setiap teori etis yang dapat digunakan untuk membuktikan bahwa pemerkosaan adalah moral pasti ada yang salah dengannya, untuk sedikitnya. Jadi, setelah saya mengembangkan kerangka kerja untuk memvalidasi teori etika, saya menjalankan premis moral yang diterima secara umum ini melalui kerangka itu, untuk melihat apakah mereka benar atau tidak.
-8. I respect your intelligence enough to refrain from defining words like “reality,” “reason,” “integrity” and so on. We have enough work to do without having to reinvent the wheel.
-9. Akhirnya, saya percaya bahwa teori apa pun - terutama yang fundamental seperti teori etika - tidak banyak gunanya jika hanya menegaskan apa yang semua orang sudah tahu secara naluriah. Saya tidak menghabiskan bertahun-tahun hidup saya untuk mengerjakan sebuah teori etika agar bisa berjalan-jalan membuktikan bahwa "pembunuhan itu salah." Menurut pandangan saya, teori terbaik adalah teori yang memverifikasi kebenaran yang secara intuitif kita pahami - dan kemudian menggunakannya. prinsip untuk mengungkapkan kebenaran baru yang mungkin benar-benar kontra-intuitif.
+8. Saya menghargai kecerdasan Anda cukup untuk menahan diri untuk tidak mendefinisikan kata-kata seperti "kenyataan," "akal," "integritas" dan sebagainya. Kami memiliki cukup banyak pekerjaan yang harus dilakukan tanpa harus menemukan kembali kemudi.
+9. Akhirnya, saya percaya bahwa teori apa pun - terutama yang fundamental seperti teori etika - tidak banyak gunanya jika hanya menegaskan apa yang semua orang sudah tahu secara naluriah. Saya tidak menghabiskan bertahun-tahun hidup saya untuk mengerjakan sebuah teori etika agar bisa berjalan-jalan membuktikan bahwa "pembunuhan itu salah." Menurut pandangan saya, teori terbaik adalah teori yang memverifikasi kebenaran yang secara intuitif kita pahami - dan kemudian menggunakannya. prinsip untuk mengungkapkan kebenaran baru yang mungkin benar kontra-intuitif.
 
 Setelah menghabiskan beberapa tahun terakhir dalam hidup saya untuk mempersiapkan, melatih, dan kemudian melawan binatang buas ini, saya harap saya telah membebaskan diri saya dengan beberapa ukuran kehormatan. I believe that I have emerged victorious – though not entirely unscathed – and I look forward to seeing who shares this view.[^2]
 
@@ -84,7 +84,7 @@ Jika tugas saya merespons setiap keberatan yang mungkin terjadi pada setiap lang
 
 Jadi saya dengan rendah hati menyarankan agar Anda menunggu untuk melihat seberapa efektif kerangka etis yang saya ajukan adalah membuktikan maksim moral manusia yang paling sering diterima sebelum memberikan penghakiman terakhir atas teori tersebut.
 
-I truly believe that the definition of a rational ethical framework is the most essential task that faces mankind. Saya sangat menghargai ketertarikan Anda pada masalah krusial ini - dan sangat ingin mengucapkan terima kasih kepada para donatur hebat yang telah membuat pekerjaan ini menjadi mungkin.
+Saya benar-benar percaya bahwa definisi kerangka etis yang rasional adalah tugas yang paling esensial yang dihadapi umat manusia. Saya sangat menghargai ketertarikan Anda pada masalah krusial ini - dan sangat ingin mengucapkan terima kasih kepada para donatur hebat yang telah membuat pekerjaan ini menjadi mungkin.
 
 Saya naik ke medan perang yang dipersenjatai dengan baik oleh orang lain.
 
