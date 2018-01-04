@@ -14,11 +14,11 @@ Lisensi publik Creative Commons menyediakan seperangkat syarat dan ketentuan sta
 
 ## Lisensi umum internasional Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
 
-Dengan melaksanakan hak berlisensi (didefinisikan di bawah ini), Anda menerima dan setuju untuk terikat oleh persyaratan dan ketentuan lisensi Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public ("lisensi umum"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+Dengan melaksanakan hak berlisensi (didefinisikan di bawah ini), Anda menerima dan setuju untuk terikat oleh persyaratan dan ketentuan lisensi Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public ("lisensi umum"). Saat ini lisensi umum dapat di definisikan sebagai kontrak, Anda diberi hak berlisensi mengingat bahwa Anda menerima syarat dan ketentuan, dan pemberi lisensi memberi anda hak-hak tersebut dengan di mempertimbangkan mamfaat yang di terima pemberi lisensi dari pembuatan materi yang tersedia berdasarkan syarat dan ketentuan yang berlaku.
 
-### Section 1 – Definitions.
+### Bagian 1 - definisi.
 
-a. **Adapted Material** means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
+a. **Materi diadaptasi** berarti materi tunduk pada hak Cipta dan hak-hak serupa yang berasal dari ataupun berdasarkan materi lisensi dan di mana materi berlisensi diterjemahkan, diubah, diatur, mengubah, atau dimodifikasi dengan cara yang memerlukan izin di bawah hak Cipta dan hak serupa yang diselenggarakan oleh pemberi lisensi. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
 
 b. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
 
