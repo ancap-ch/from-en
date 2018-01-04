@@ -1,33 +1,33 @@
-# Appendices
+# Lampiran
 
-## Appendix A: UPB In A Nutshell
+## Lampiran A: UPB Singkatnya
 
 Di bawah ini, harap menemukan suatu ringkasan inti untuk moralitas.
 
 1. Kenyataan objektif dan konsisten.
 2. "Logika" adalah tujuan dan peraturan konsisten berasal dari konsistensi dari kenyataan.
 3. Orang-orang yang sesuai teori atau logika yang disebut "sah."
-4. Those theories that are confirmed by empirical testing are called “accurate.”
-5. Those theories that are both valid and accurate are called “true.”
+4. Teori-teori yang dikonfirmasi dengan pengujian empiris disebut "akurat."
+5. Teori-teori yang valid dan akurat disebut "benar"
 6. "Preferensi" yang diperlukan untuk hidup, berpikir, bahasa dan memperdebatkan.
-7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
-8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
+7. Perdebatan mengharuskan kedua belah pihak memegang "kebenaran" agar menjadi objektif dan lebih disukai secara universal.
+8. Dengan demikian, tindakan berdebat mengandung penerimaan perilaku yang lebih baik secara universal (UPB).
 9. Teori-teori mengenai UPB harus melewati tes konsistensi logis dan verifikasi empiris.
 10. Dalam subset dari UPB yang mengkaji perilaku dapat dikuatkuasakan disebut moralitas."
 11. Sebagai sebuah subset dari UPB, tidak ada teori moral dapat dianggap benar jika ia tak masuk akal atau tidak didukung oleh bukti empiris.
 12. Teori-teori moral yang didukung oleh logika dan bukti yang benar. Semua teori moral lain adalah palsu.
 
-## Appendix B: Moral Categories
+## Lampiran B: Kategori Moral
 
 Di bawah ini adalah contoh tabel yang mencantumkan beberapa kategori yang paling umum dari aturan/tindakan, dan pembeda utama mereka.
 
-| Action/Rule                       | Preference? | Universal? | Enforceable? | Memerlukan tindakan pemrakarsa pada bagian dari korban? | Can violators be avoided? | Moral Category                |
-| --------------------------------- | ----------- | ---------- | ------------ | ------------------------------------------------------- | ------------------------- | ----------------------------- |
-| **Running for the bus**           | No          | No         | n/a          | n/a                                                     | n/a                       | Neutral                       |
-| **You should not like ice cream** | Yes         | No         | No           | n/a                                                     | n/a                       | Neutral (personal preference) |
-| **You should not be late**        | Yes         | Yes        | No           | No                                                      | Yes                       | APA                           |
-| **You should not commit fraud**   | Yes         | Yes        | Yes          | Yes                                                     | Yes                       | Good                          |
-| **You should not rape**           | Yes         | Yes        | Yes          | No                                                      | No                        | Good                          |
+| Tindakan / Aturan                 | Pilihan? | Universal? | Terangkat? | Memerlukan tindakan pemrakarsa pada bagian dari korban? | Dapatkah pelanggar dihindari? | Kategori Moral                |
+| --------------------------------- | -------- | ---------- | ---------- | ------------------------------------------------------- | ----------------------------- | ----------------------------- |
+| **Mengejar bus**                  | Tidak    | Tidak      | n/a        | n/a                                                     | n/a                           | Neutral                       |
+| **You should not like ice cream** | Yes      | No         | No         | n/a                                                     | n/a                           | Neutral (personal preference) |
+| **You should not be late**        | Yes      | Yes        | No         | No                                                      | Yes                           | APA                           |
+| **You should not commit fraud**   | Yes      | Yes        | Yes        | Yes                                                     | Yes                           | Good                          |
+| **You should not rape**           | Yes      | Yes        | Yes        | No                                                      | No                            | Good                          |
 
 ## Appendix C: UPB Podcasts
 
