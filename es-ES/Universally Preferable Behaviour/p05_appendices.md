@@ -1,14 +1,14 @@
-# Appendices
+# Apéndices
 
-## Appendix A: UPB In A Nutshell
+## Apéndice A: UPB en pocas palabras
 
-Below, please find a summation of the core argument for morality.
+A continuación, por favor encuentre un resumen e los argumentos centrales para la moralidad.
 
-1. Reality is objective and consistent.
-2. “Logic” is the set of objective and consistent rules derived from the consistency of reality.
-3. Those theories that conform to logic are called “valid.”
-4. Those theories that are confirmed by empirical testing are called “accurate.”
-5. Those theories that are both valid and accurate are called “true.”
+1. La realidad es objetiva y consistente.
+2. La "Lógica" es el conjunto de reglas objetivas y consistentes derivadas de la consistencia de la realidad.
+3. Las teorías que se ajustan a la lógica son llamadas "válidas."
+4. Las teorías que son confirmadas por pruebas empíricas son llamadas "precisas."
+5. Las teorías que son tanto válidas como precisas son llamadas "verdaderas."
 6. “Preferences” are required for life, thought, language and debating.
 7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
 8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
