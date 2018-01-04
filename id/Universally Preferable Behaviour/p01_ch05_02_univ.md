@@ -1,16 +1,16 @@
-### UPB: Five Proofs
+### UPB: Lima Bukti
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+Seperti yang telah kita bahas di atas, proposisi bahwa *tidak ada yang namanya perilaku yang lebih baik* mengandung sejumlah masalah logis dan empiris yang tidak dapat diatasi. "Perilaku yang lebih baik secara universal" *harus* jadilah konsep yang valid, untuk lima alasan utama.
 
 The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Mengatakan bahwa tidak ada hal seperti perilaku yang lebih baik secara universal seperti berteriak di telinga seseorang bahwa suara tidak ada - secara bawaan bertentangan dengan diri sendiri. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. Namun, jika seseorang "seharusnya" melakukan sesuatu, maka orang baru saja menciptakan perilaku yang lebih baik secara universal. Jadi, perilaku yang lebih baik secara universal - atau peraturan moral - harus valid.
 
-Syllogistically, this is:
+Secara sinis, ini adalah:
 
 1. Proposisi adalah: konsep "perilaku yang lebih baik secara universal" harus valid.
 2. Berdebat melawan validitas perilaku yang lebih baik secara universal menunjukkan perilaku yang lebih baik secara universal.
 3. Oleh karena itu tidak ada argumen yang bertentangan dengan validitas perilaku yang lebih baik secara universal dapat berlaku.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. Ada juga preferensi untuk logika, kebenaran dan bukti, yang juga mengikat orang lain (walaupun biasanya tidak ditimbulkan dengan kejam) sepanjang kita semua menerima bahwa proposisi tidak logis harus salah atau tidak valid.
+Kita semua tahu bahwa ada preferensi subyektif, seperti menyukai es krim atau jazz, yang tidak dianggap mengikat orang lain. Di sisi lain, ada preferensi lain, seperti pemerkosaan dan pembunuhan, yang jelas*adalah* ditimbulkan pada orang lain. Ada juga preferensi untuk logika, kebenaran dan bukti, yang juga mengikat orang lain (walaupun biasanya tidak ditimbulkan dengan kejam) sepanjang kita semua menerima bahwa proposisi tidak logis harus salah atau tidak valid.
 
 Preferensi yang dapat dianggap mengikat orang lain dapat disebut "preferensi universal," atau "peraturan moral"
 
@@ -41,7 +41,7 @@ Atau:
 3. Semua pria percaya pada perilaku yang lebih baik secara universal.   Konteks | Permintaan Konteks.
 4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
 
-Argumen keempat untuk validitas perilaku yang lebih baik secara universal juga bersifat empiris. Karena manusia memiliki jumlah pilihan yang hampir tak terbatas untuk dibuat dalam kehidupan, untuk mengatakan bahwa tidak ada prinsip perilaku yang lebih baik secara universal adalah mengatakan bahwa semua pilihan sama (yaitu subjektif). However, all choices are *not* equal, either logically or through empirical observation.
+Argumen keempat untuk validitas perilaku yang lebih baik secara universal juga bersifat empiris. Karena manusia memiliki jumlah pilihan yang hampir tak terbatas untuk dibuat dalam kehidupan, untuk mengatakan bahwa tidak ada prinsip perilaku yang lebih baik secara universal adalah mengatakan bahwa semua pilihan sama (yaitu subjektif). Namun, semua pilihan sama dengan *bukan*, baik secara logika maupun melalui observasi empiris.
 
 Misalnya, jika makanan tersedia, hampir semua manusia lebih suka makan setiap hari. Saat dingin, hampir semua manusia mencari kehangatan. Hampir semua orang tua memilih untuk memberi makan, berlindung dan mendidik anak-anak mereka.   Konteks | Permintaan Konteks. Ada banyak contoh pilihan umum di antara manusia, yang menunjukkan bahwa perilaku yang lebih baik secara keseluruhan melebihi dan merupakan bagian dari sifat manusia.
 
@@ -49,8 +49,8 @@ Seperti disebutkan di atas, tidak ada teori fisika yang valid yang bisa menyangk
 
 Atau:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
+1. Pilihannya hampir tak terbatas.
+2. Kebanyakan manusia membuat pilihan yang sangat mirip.
 3. Therefore not all choices can be equal.
 4. Therefore universally preferable choices must be valid.
 
