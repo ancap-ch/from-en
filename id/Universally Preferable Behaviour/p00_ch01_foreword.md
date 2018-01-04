@@ -2,7 +2,7 @@
 
 Dalam banyak dongeng, di sana hidup seekor binatang buas yang luar biasa dengan kekuatan luar biasa, naga atau basilisk, yang menghias tanah di sekitarnya. Penduduk desa setempat gemetar sebelum monster ini; mereka mengorbankan hewan mereka, membayar uang dan darah dengan harapan bisa memenuhi impuls pembunuhnya.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Dari tahun ke tahun, dekade demi dekade, gelombang demi gelombang juara penuh harapan berusaha mencocokkan kekuatan, kebajikan dan kecerdikan mereka terhadap tiran mengerikan ini.
 
 Cobalah - dan gagal.
 
@@ -22,7 +22,7 @@ Biaya untuk manusia sangat besar.
 
 Karena kita tetap tidak dapat mendefinisikan sistem moral universal yang rasional, kita terpaksa menimbulkan cerita horor religius mengenai anak-anak kita, atau memberi senjata, penjara dan tentara kepada monopoli kecil pengendali tanpa jiwa yang menyebut diri mereka "negara."
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Karena etika tidak memiliki dasar rasional metode ilmiah, "moralitas" tetap terperosok dalam perang kesukuan dengan mitologi berdarah, setiap geng yang melawan gigi dan kuku untuk mengendalikan kesetiaan orang terhadap "kebajikan."
 
 Kita tidak bisa hidup tanpa moralitas, tapi kita tidak dapat mendefinisikan moralitas secara obyektif - oleh karena itu kita tetap dikutuk selamanya untuk mengosongkan kehidupan kemunafikan sombong, dominasi sinis atau perbudakan saleh.
 
@@ -30,7 +30,7 @@ Secara intelektual, tidak ada taruhan yang lebih tinggi di dunia. Kegagalan kita
 
 Dalam banyak hal, taruhannya semakin tinggi.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+Aliran informasi yang meningkat di Internet telah meningkatkan kecurigaan generasi baru bahwa apa yang disebut "kebajikan" tidak lebih - atau kurang - daripada dongeng yang melayani diri sendiri dari orang tua munafik mereka. Kebohongan saleh diceritakan oleh orang-orang yang berwenang - dan keterlibatan orang-orang yang menyembah mereka - sekarang lebih jelas daripada sebelumnya.
 
 “Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
 
@@ -66,9 +66,9 @@ Klaim luar biasa membutuhkan bukti yang luar biasa. In taking on this mammoth ta
 6. I am fully open to the proposition that there is no such thing as ethics at all, and that all systems of “morality” are mere instruments of control, as Nietzsche argued so insistently. Dalam buku ini, saya mulai dari anggapan bahwa tidak ada yang namanya etika, dan membangun kerangka kerja dari sana.
 7. I do have great respect for the ethical *instincts* of mankind. The near-universal social prohibitions on murder, rape, assault and theft are facts that any rational ethicist discards at his peril. Aristoteles berpendapat bahwa setiap teori etis yang dapat digunakan untuk membuktikan bahwa pemerkosaan adalah moral pasti ada yang salah dengannya, untuk sedikitnya. Jadi, setelah saya mengembangkan kerangka kerja untuk memvalidasi teori etika, saya menjalankan premis moral yang diterima secara umum ini melalui kerangka itu, untuk melihat apakah mereka benar atau tidak.
 8. I respect your intelligence enough to refrain from defining words like “reality,” “reason,” “integrity” and so on. We have enough work to do without having to reinvent the wheel.
-9. Akhirnya, saya percaya bahwa teori apa pun - terutama yang fundamental seperti teori etika - tidak banyak gunanya jika hanya menegaskan apa yang semua orang sudah tahu secara naluriah. I have not spent years of my life working on a theory of ethics in order to run around proving that “murder is wrong.” In my view, the best theories are those which verify the truths that we all intuitively understand – and then use those principles to reveal new truths that may be completely counter-intuitive.
+9. Akhirnya, saya percaya bahwa teori apa pun - terutama yang fundamental seperti teori etika - tidak banyak gunanya jika hanya menegaskan apa yang semua orang sudah tahu secara naluriah. Saya tidak menghabiskan bertahun-tahun hidup saya untuk mengerjakan sebuah teori etika agar bisa berjalan-jalan membuktikan bahwa "pembunuhan itu salah." Menurut pandangan saya, teori terbaik adalah teori yang memverifikasi kebenaran yang secara intuitif kita pahami - dan kemudian menggunakannya. prinsip untuk mengungkapkan kebenaran baru yang mungkin benar-benar kontra-intuitif.
 
-Having spent the last few years of my life preparing, training, and then combating this beast, I hope that I have acquitted myself with some measure of honour. I believe that I have emerged victorious – though not entirely unscathed – and I look forward to seeing who shares this view.[^2]
+Setelah menghabiskan beberapa tahun terakhir dalam hidup saya untuk mempersiapkan, melatih, dan kemudian melawan binatang buas ini, saya harap saya telah membebaskan diri saya dengan beberapa ukuran kehormatan. I believe that I have emerged victorious – though not entirely unscathed – and I look forward to seeing who shares this view.[^2]
 
 Saya mempelajari sejarah filsafat di sekolah pascasarjana, dan meraih gelar Master, tapi saya tidak memiliki gelar PhD dalam bidang filsafat. Saya jauh dari intelektual publik. While I may not be the *most* unlikely champion, I am also far from the most likely. Apakah saya telah berhasil atau tidak tidak terserah Anda, dan itu tidak terserah saya.
 
