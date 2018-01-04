@@ -1,6 +1,6 @@
 ## Permulaan
 
-A reasonable moral theory should be able to explain all of the above universal standards, just as a reasonable theory of physics should be able to explain how a man can unconsciously calculate the arc of a thrown baseball, and catch it.
+Teori moral yang masuk akal harus bisa menjelaskan semua di atas standar universal, seperti teori fisika yang masuk akal harus dapat menjelaskan bagaimana seseorang secara tak sadar menghitung Lengkungan bola basket yang dilemparkan, dan menangkapnya.
 
 If the framework of UPB can explain the above, then it will certainly have passed at least the “common sense” test.
 
