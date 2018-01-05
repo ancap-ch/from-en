@@ -1,4 +1,4 @@
-# Introduction
+# Giriş
 
 In the American Declaration of Independence, Thomas Jefferson affirmed
 
