@@ -6,7 +6,7 @@ Di bawah ini ada daftar pangram bergaya yang disebutkan, yang menunjukkan setiap
 2. angka: 0123456789. 
 3. symbols: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
 4. emphasys: *Seekor rubah cokelat cepat melompat di atas seekor anjing malas.* 
-    1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
+    1. emphasys kuat: **Rubah, coklat cepat melompati seekor anjing malas.**
     2. inner emphasys: **The *The quick, brown fox jumps over a lazy dog* dog.** 
         1. en: The quick, brown *fox* **jumps *over* a** lazy dog.
         2. pt-BR: À noite, vovô *Kowalsky* **vê o ímã *cair no pé* do pingüim queixoso** e vovó põe açúcar no chá de tâmaras do jabuti feliz.
