@@ -40,7 +40,7 @@ Jika kita menerima UPB, kita juga harus menerima akibat wajar berikut:
 
 Apakah ini berarti seseorang tidak bisa mengubah sifat moralnya bersama dengan pakaiannya. Tindakan mengubah kebiasaan seseorang tidak mengubah sifat dasar seseorang. Dengan demikian aturan moral yang berlawanan tidak bisa berlaku berdasarkan pakaian yang dikenakan seseorang.
 
-Prajurit tentu saja mengenakan kostum yang berbeda dengan warganegara biasa. Warga biasa dilarang melakukan pembunuhan; tentara, bagaimanapun, tidak hanya * diizinkan * untuk membunuh, namun secara moral * dipuji * karena membunuh.
+Prajurit tentu saja mengenakan kostum yang berbeda dengan warganegara biasa. Warga biasa dilarang melakukan pembunuhan; tentara, bagaimanapun, tidak hanya *diizinkan* untuk membunuh, namun secara moral *dipuji* karena membunuh.
 
 Mari ambil contoh lain.
 
@@ -56,7 +56,7 @@ Mengatakan bahwa pemerintah beroperasi di bawah peraturan moral yang berlawanan 
 
 In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
 
-Jika saya mengatakan bahwa lingkaran persegi memiliki hak untuk mencuri, saya hanya mengatakan bahwa apa yang tidak dapat ada memiliki hak untuk melakukan hal yang bertentangan dengan diri sendiri - sebuah pernyataan yang murni tidak masuk akal, tapi yang tetap menarik secara aneh di "zona nol "Politik.
+Jika saya mengatakan bahwa lingkaran persegi memiliki hak untuk mencuri, saya hanya mengatakan bahwa apa yang tidak dapat ada memiliki hak untuk melakukan hal yang bertentangan dengan diri sendiri - sebuah pernyataan yang murni tidak masuk akal, tapi yang tetap menarik secara aneh di "zona nol" politik.
 
 Jika saya membeli pakaian prajurit di toko barang bekas, dan menaruhnya di atas, jelas saya belum menciptakan alam semesta alternatif dimana peraturan moral yang berlawanan dapat berlaku. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? Bagaimana jika saya memakai celana panjangnya, tapi bukan rompinya? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
 
