@@ -4,6 +4,6 @@ Sebuah teori baru bernilai sangat berharga jika hanya menunjukkan yang sudah jel
 
 Dengan cara yang sama, kerangka UPB, dan peraturan moral yang dipaksanya atau tolak, idealnya memberi kita beberapa wawasan mengejutkan tentang dunia tempat kita tinggal, dan hubungan kita satu sama lain.
 
-If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
+Jika semua yang dilakukan UPB adalah untuk membuktikan bahwa pemerkosaan, pembunuhan dan pencurian secara moral salah, itu tidak akan menambah banyak nilai, karena hampir tidak ada yang percaya bahwa hal-hal tersebut secara moral benar untuk dimulai.
 
-Thus let us begin applying this framework to the world that we live in, and see what value comes out of it.
+Jadi, mari kita mulai menerapkan kerangka ini ke dunia tempat kita tinggal, dan melihat nilai apa yang keluar darinya.
