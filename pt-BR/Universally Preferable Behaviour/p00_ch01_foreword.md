@@ -26,11 +26,11 @@ Visto que o que chamamos de ética segue subjetivo e meramente *cultural*, nós 
 
 Somos incapazes de viver sem moralidade, porém também incapazes de definir moralidade objetivamente — sendo assim, permanecemos eternamente condenados à vidas vazias de hipocrisia egocêntrica, dominação cínica ou servidão cínica.
 
-Intelectualmente, não há maior aposta no mundo. Nossa falha em definir regras morais objetivas e racionais custou centenas de milhões de vidas humanas, nas guerras de religiões e estados.
+Intelectualmente, não há nada mais importante e decisivo no mundo. Nossa falha em definir regras morais objetivas e racionais custou centenas de milhões de vidas humanas, nas guerras de religiões e estados.
 
 Em muitos aspectos, a aposta está ficando cada vez maior.
 
-O aumento de fluxo de informações pela internet obteve elevadas suspeitas de uma nova geração que considera o que chamamos de “virtude” nada mais é - ou menos é - que contos–de–fada prontos de seus anciães hipócritas. As pífias mentiras contadas por aqueles em posições de autoridade — e a cumplicidade daqueles que os louvam — são mais claras do que nunca foram.
+O aumento de fluxo de informações pela internet obteve elevadas suspeitas de uma nova geração que considera que o que chamamos de “virtude” nada mais é - ou menos é - que contos–de–fada prontos de seus anciães hipócritas. As pífias mentiras contadas por aqueles em posições de autoridade — e a cumplicidade daqueles que os louvam — são mais claras do que nunca foram.
 
 “Verdades” foram expostas como manipulação; “virtudes” como controle; “lealdade” como servidão, e o que é chamado de "moralidade" foi revelado como um ridículo show–de–marionetes projetado a enganar pessoas fracas e tementes e convence-las à se oferecerem como servos.
 
