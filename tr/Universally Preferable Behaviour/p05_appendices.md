@@ -4,9 +4,9 @@
 
 Below, please find a summation of the core argument for morality.
 
-1. Reality is objective and consistent.
-2. “Logic” is the set of objective and consistent rules derived from the consistency of reality.
-3. Those theories that conform to logic are called “valid.”
+1. Gerçeklik nesnel ve tutarlıdır.
+2. "Mantık", gerçekliğin tutarlılığından türetilmiş objektif ve tutarlı kurallar dizisidir.
+3. Mantığa uyan teorilere ''geçerli'' teori denir
 4. Those theories that are confirmed by empirical testing are called “accurate.”
 5. Those theories that are both valid and accurate are called “true.”
 6. “Preferences” are required for life, thought, language and debating.
