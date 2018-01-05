@@ -12,17 +12,17 @@ Dengan demikian dapat dilihat bahwa, yang melekat dalam tindakan berdebat adalah
 
 Jika saya meminta Anda untuk menemuiku di lapangan tenis, dan menampakkan diri dengan senapan berburu, kita mungkin akan bermain olah raga, tapi pastinya tidak akan tenis. Ketika saya meminta Anda untuk menemuiku di lapangan tenis untuk sebuah pertandingan, tersirat dalam permintaan itu adalah penerimaan peraturan tenis.
 
-Historically, those engaged in ethical debating have often failed to maintain this basic reality.
+Secara historis, mereka yang terlibat dalam perdebatan etis sering gagal mempertahankan kenyataan dasar ini.
 
-I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
+Saya tidak bisa mengirimkan sebuah makalah ilmiah yang ditulis dalam bahasa saya sendiri, mengklaim bahwa itu telah disahkan oleh ikan mas batiniah saya, dan diharapkan dapat dianggap serius. Demikian pula, saya tidak bisa memulai debat filosofis tentang etika dengan mengacu pada nilai pribadi saya sendiri, dan mengklaim bahwa argumen saya semua telah disahkan oleh Trixie si leprechaun yang maha tahu dan tak terlihat, dan berharap dapat dianggap serius.
 
-The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
+Tindakan perdebatan mengharuskan penerimaan perilaku yang lebih baik secara universal (UPB). Tidak ada cara untuk secara rasional menanggapi argumen etis *tanpa* yang menunjukkan UPB.
 
-Let us now turn to a series of positive proofs for UPB.
+Sekarang mari kita beralih ke serangkaian bukti positif untuk UPB.
 
-### UPB And Validity
+### UPB Dan Validitas
 
-One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
+Salah satu tantangan utama yang dihadapi oleh para filsuf moderen adalah kebutuhan untuk membuktikan bahwa peraturan moral keduanya mungkin dan universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
 
 The closest historical analogy to our present situation occurred in the fifteenth and sixteenth centuries, during the rise of the scientific method. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
 
