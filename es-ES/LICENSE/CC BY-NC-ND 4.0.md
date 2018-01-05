@@ -44,18 +44,18 @@ l. **Tú** significa el individuo o entidad ejerciendo los Derechos Licenciados 
 
 a. ***Concesión de la Licencia.***
 
-1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+1. Sujeto a los términos y condiciones de esta Licencia Pública, el Licenciante por la presente le concede una licencia mundial, libre de realeza, no sublicenciable, no exclusiva, irrevocable para el ejercer los Derechos Licenciados en el Material Licenciado para:
     
-        A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
+        A. reproducir y Compartir el Material Licenciado, por completo o en partes, sólo para propósitos No Comerciales; y
         
-        B. produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.
+        B. producir y reproducir, pero no Compartir, Material Adaptado, sólo para propósitos No Comerciales.
         
 
-2. **Exceptions and Limitations.** For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+2. **Excepciones y Limitaciones.** Para evitar dudas, donde las Excepciones y Limitaciones aplican para su uso, esta Licencia Pública no aplica, y no necesita cumplir con sus términos y condiciones.
 
-3. **Term.** The term of this Public License is specified in Section 6(a).
+3. **Término.** El término d esta Licencia Pública se especifica en la Sección 6(a).
 
-4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+4. **Los Medios y formatos; modificaciones técnicas permitidas.** Los Licenciantes le autorizan para ejercer los Derechos Licenciados en todos los medios y formatos ahora conocidos o posteriormente creados, y para hacer modificaciones técnicas necesarias. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
     
     1. **Downstream recipients.**
         
