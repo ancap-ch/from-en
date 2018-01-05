@@ -20,13 +20,13 @@ Mediante el ejercicio de los derechos de licencia (definidos a continuación), u
 
 a. **Material Adaptado** significa material sujeto a derechos de autor y derechos similares que se deriva o se basa el Material Licenciado y en el que el Material Licenciado es traducido, alterado, arreglado, transformado, o de otra manera modificado de una manera que requiera permiso bajo los derechos de autor y derechos similares en poder del Licenciante. Para propósitos de esta Licencia Pública, donde el Material Licenciado es un trabajo musical, rendimiento, o grabación de sonido, el Material Adaptado es producido siempre donde el Material Licenciado está sincronizado con una imagen en movimiento, en una relación temporal.
 
-b. **Derechos de Autor y Derechos Similares** significa derechos de autor y/o derechos similares estrechamente relacionados con derechos de autor incluyendo, sin limitaciones, rendimiento, transmisión, grabación de sonido, y Sui Generir derechos de base de datos, sin tener en cuenta cómo los derechos están etiquetados o categorizados. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+b. **Derechos de Autor y Derechos Similares** significa derechos de autor y/o derechos similares estrechamente relacionados con derechos de autor incluyendo, sin limitaciones, rendimiento, transmisión, grabación de sonido, y Sui Generir derechos de base de datos, sin tener en cuenta cómo los derechos están etiquetados o categorizados. Para los propósitos de esta Licencia Pública, los derechos especificados en la Sección 2(b) (1)-(2) no son Derechos de autor y Derechos Similares.
 
-e. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+e. **Medidas Tecnológicas Efectivas** significa aquellas medidas que, en la ausencia de una autoridad adecuada, no puede ser eludido por las leyes que cumplen las obligaciones bajo el artículo 11 del Tratado de Derechos de Autor WIPO adoptado el 20 de diciembre de 1996, y/o acuerdos internacionales similares.
 
-f. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+f. **Excepciones y Limitaciones** significa el uso justo, trato justo, y/o alguna otra excepción o limitación de Derechos de Autor y Derechos Similares que aplique a su uso del Material Licenciado.
 
-h. **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+h. **Material Licenciado** significa el trabajo artístico o literario, la base de datos, u otro material al que el licenciante le aplique esta Licencia Pública.
 
 i. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
 
