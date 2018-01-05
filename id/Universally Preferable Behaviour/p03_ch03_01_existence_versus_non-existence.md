@@ -44,11 +44,11 @@ Prajurit tentu saja mengenakan kostum yang berbeda dengan warganegara biasa. War
 
 Mari ambil contoh lain.
 
-Pencurian secara moral salah, seperti yang telah kita lihat di atas. Hal tersebut salah secara moral bagi semua orang di segala situasi setiap saat dan dalam semua kondisi. Karena pencurian adalah pengambilan paksa atas harta orang lain tanpa persetujuan, maka perpajakan selalu, semua dan selamanya merupakan kejahatan moral. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Pencurian secara moral salah, seperti yang telah kita lihat di atas. Hal tersebut salah secara moral bagi semua orang di segala situasi setiap saat dan dalam semua kondisi. Karena pencurian adalah pengambilan paksa atas harta orang lain tanpa persetujuan, maka perpajakan selalu, semua dan selamanya merupakan kejahatan moral. Perpajakan adalah definisi pemindahan harta milik seseorang secara paksa tanpa persetujuan mereka, karena perpajakan bergantung pada inisiasi penggunaan kekuatan untuk melepaskan seseorang dari miliknya.
 
 What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Ilmu pengetahuan berkembang persis sejauh ia menolak irasionalitas Tuhan dan subjektif "absolut." Pengobatan berkembang dengan tepat sampai pada tingkat tertentu sehingga ia menolak khasiat doa dan ritual kosong, dan sebaliknya bergantung pada akal dan bukti. Begitu juga Filsafat - dan masyarakat pada umumnya - akan maju persis sampai pada tingkat yang menolak moralitas lingkaran-lingkaran tidak rasional "dari teori etika statistik dan agama.
 
 ### Government
 
