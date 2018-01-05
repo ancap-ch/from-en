@@ -46,11 +46,11 @@ Biasanya, ketika seorang pria dengan pistol datang ke rumah saya dan menuntut ua
 
 Sekarang, jika saya datang ke rumah Anda malam ini berpakaian seperti "elf Narnia yang tinggi" dan meminta uang yang Anda berutang kepada "Ratu Kesengsaraan", dengan asumsi itu bukan Halloween, Anda diperbolehkan untuk menatap saya dengan takjub, dan pesan saya dari milikmu.
 
-If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. Dia bisa menahanku di sel mungil selama bertahun-tahun, di mana aku akan mengalami kebrutalan yang paling kejam dan pemerkosaan terus-menerus, sampai dia memilih untuk membiarkanku pergi.
+Jika saya tidak membayar orang yang datang untuk mengambil uang saya, Dia diijinkan untuk mengeluarkan pistol, arahkan ke dadaku, dan menculik saya – atau tembak aku jika aku menolak. Dia bisa menahanku di sel mungil selama bertahun-tahun, di mana aku akan mengalami kebrutalan yang paling kejam dan pemerkosaan terus-menerus, sampai dia memilih untuk membiarkanku pergi.
 
-Menariknya, jika seseorang secara sah berhutang padaku, aku tidak diizinkan untuk menculiknya dan membuatnya disiksa dan diperkosa selama bertahun-tahun. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+Menariknya, jika seseorang secara sah berhutang padaku, aku tidak diizinkan untuk menculiknya dan membuatnya disiksa dan diperkosa selama bertahun-tahun. TPajak suami benar-benar melanggar kerangka kerja UPB, karena itu adalah perpindahan harta secara paksa dengan menggunakan inisiasi kekuatan.
 
-Stealing, as we have proven, is evil.
+Mencuri, seperti yang telah kita buktikan, adalah kejahatan.
 
 Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
 
