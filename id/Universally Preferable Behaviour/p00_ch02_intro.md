@@ -10,19 +10,19 @@ Inilah kebenaran kecil sehari-hari; Batu karang jatuh, asap naik, api panas dan 
 
 Di antara kebenaran kecil dan kebenaran besar, bagaimanapun, adalah ilusi yang membutakan kita - baik dalam fisika maupun etika.
 
-In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+Dalam fisika, kebenaran besar tidak bisa bertentangan dengan kebenaran kecil. Tidak ada "teori medan terpadu" yang secara sah dapat bertentangan dengan pengalaman langsung kita tentang batu yang jatuh atau nyala api yang meningkat. Teori matematika terbesar tidak dapat berlaku jika menerapkannya mengembalikan perubahan yang salah di meja kasir.
 
 Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
 
 ### The "Null Zone"
 
-We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+Kami menyuruh anak-anak kita untuk tidak saling memukul, dan kami percaya bahwa kekerasan salah dalam abstrak, sebagai aturan moral umum. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
 
-However, there exists in our minds an imaginary entity called “God,” and this entity is considered perfectly moral. Sayangnya, entitas ini terus-menerus dan secara kasar melanggar dekrit bahwa "kekerasan itu salah" dengan menenggelamkan dunia, menyerahkan jiwa ke neraka meskipun memiliki pengetahuan awal yang tepat tentang "keputusan mereka," yang menyetujui pemerkosaan, pembunuhan, pencurian, penyerangan dan tindakan lain yang akan kita kutuk. sama jahatnya dengan individu manapun.
+Namun, ada dalam pikiran kita entitas imajiner yang disebut "Tuhan," dan entitas ini dianggap sangat bermoral. Sayangnya, entitas ini terus-menerus dan secara kasar melanggar dekrit bahwa "kekerasan itu salah" dengan menenggelamkan dunia, menyerahkan jiwa ke neraka meskipun memiliki pengetahuan awal yang tepat tentang "keputusan mereka," yang menyetujui pemerkosaan, pembunuhan, pencurian, penyerangan dan tindakan lain yang akan kita kutuk. sama jahatnya dengan individu manapun.
 
 Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
 
-Secara historis, kita bisa melihat inkonsistensi yang sama dalam fisika. There are no perfect circles in our direct experience, but because of a belief in God, all planetary motion had to be a “perfect circle” – a premise that retarded astronomy for centuries. Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth,” but as a *great truth*, or universal principle. Yet for most of human history, it was believed that the stars and planets rotated around the Earth, rather than that the Earth rotated. Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
+Secara historis, kita bisa melihat inkonsistensi yang sama dalam fisika. Tidak ada lingkaran sempurna dalam pengalaman langsung kita, namun karena kepercayaan kepada Tuhan, semua gerak planet harus menjadi "lingkaran sempurna" - sebuah premis yang memperlambat astronomi selama berabad-abad. Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth,” but as a *great truth*, or universal principle. Yet for most of human history, it was believed that the stars and planets rotated around the Earth, rather than that the Earth rotated. Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
 
 Tidak ada orang waras yang mengalami Tuhan secara langsung. In his daily life, he fully accepts that *that which cannot be perceived does not exist*. Tidak ada orang yang masuk akal tersentak setiap kali dia mengambil langkah, takut akan dinding tak terlihat yang mungkin menghalangi jalannya. Abstraksi terbesar sains mendukung pendekatannya.
 
@@ -34,7 +34,7 @@ Jika "zona nol" ini benar, maka tidak ada proposisi logis yang bisa dipegang. Ji
 
 Di peta lama, sebelum para pembuat peta telah menyelesaikan penjelajahan mereka, gambar tanah yang diketahui akan pudar menjadi kertas kosong. Pertumbuhan pengetahuan pertama-tama memerlukan penggambaran dari apa yang tidak diketahui, dan kemudian perluasan prinsip-prinsip yang dikenal ke dalam area yang tidak diketahui.
 
-The same is true in the realm of morality.
+Hal yang sama juga terjadi di ranah moralitas.
 
 ### The Casualties
 
