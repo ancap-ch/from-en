@@ -1,26 +1,26 @@
 ### "Don't Eat Fish"
 
-What would be the status of the moral proposition: “It is evil to eat fish”?
+Apa status proposisi moral: "Adalah jahat untuk makan ikan"?
 
-Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
+Jelas, proposisi ini tampaknya memenuhi setidaknya beberapa persyaratan UPB - tampaknya bersifat universal, tidak tergantung pada waktu dan tempat, dan relatif objektif.
 
-Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
+Namun, sulit bagi kita untuk secara wajar menyebutnya sebagai *moral* teori - mengapa?
 
-First of all, “evil” encompasses actions that can be prevented through the use of force. Rape is “evil,” and so I can use force to defend myself against someone attempting to rape me.
+Pertama-tama, "kejahatan" mencakup tindakan yang dapat dicegah melalui penggunaan kekerasan. Pemerkosaan adalah "jahat," dan karena itu saya dapat menggunakan kekuatan untuk membela diri terhadap seseorang yang mencoba memperkosa saya.
 
-Can I justly shoot someone who eats a piece of fish?
+Bisakah saya menembak orang yang makan sepotong ikan dengan adil?
 
-It would seem silly to argue that I can – but why?
+Kelihatannya konyol untuk membantah bahwa saya bisa - tapi mengapa?
 
-There are some objective limits to the universality of this doctrine. For instance, some people may have no access to fish – they may live in a desert, say – while others live by a lake teeming with fish, and find it hard or impossible to survive without eating them. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
+Ada beberapa batasan objektif untuk universalitas doktrin ini. Misalnya, beberapa orang mungkin tidak memiliki akses terhadap ikan - mereka mungkin tinggal di padang pasir, katakan - sementara yang lain hidup di tepi danau yang dipenuhi ikan, dan merasa sulit atau tidak mungkin bertahan hidup tanpa memakannya. Namun, itu tidak bisa cukup, karena kita telah menerima kenyataan bahwa ketidakmampuan seorang kasim untuk memperkosa tidak membuat keputusan moral yang tidak benar "adalah jahat untuk diperkosa."
 
 No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
 
-A scientist cannot validly say that his theory of gravity only applies to pink rocks. Since his theory involves gravity, it must apply to *all* entities that have mass.
+Seorang ilmuwan tidak dapat secara sah mengatakan bahwa teorinya tentang gravitasi hanya berlaku untuk bebatuan merah muda. Karena teorinya melibatkan gravitasi, ia harus berlaku untuk *semua* entitas yang memiliki massa.
 
 Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
 
-In the same way, an ethicist cannot validly put forward the moral proposition: “It is evil to rape the *elderly*.” “Rape” is the behaviour; whether the victim is elderly or not is irrelevant to the moral proposition, since as long as the victim is human, the requirement for universality remains constant. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
+Dengan cara yang sama, seorang ahli etika tidak dapat secara sah mengemukakan proposisi moral: "Adalah jahat untuk memperkosa *orang tua*." "Perkosaan" adalah tingkah lakunya; apakah korban sudah tua atau tidak tidak relevan dengan proposisi moral, karena selama korbannya manusia, persyaratan untuk universalitas tetap konstan. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
 
 The moral proposition “eating fish is evil” thus fails the test of universality because it is too specific to be generalised – it is like saying “my theory of gravity applies only to pink rocks.” If it is a theory of gravity, then it must apply to everything; if it only applies to pink rocks, then it is not a theory of gravity.
 
