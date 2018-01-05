@@ -1,6 +1,6 @@
-## A Framework For Ethics
+## Sebuah Kerangka pekerjaan untuk etika
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Proposisi yang etis ialah berbeda dari tipe yang lain pada pernyataan pengetahuan. Jika saya katakan, "saya suka jazz," itu mungkin menjadi sebuah pernyataan yang benar atau salah, tetapi itu secara umumnya tidak dianggap mengikat anda dalam cara apapun. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
 
 Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
 
