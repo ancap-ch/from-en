@@ -28,13 +28,13 @@ Somos incapazes de viver sem moralidade, porém também incapazes de definir mor
 
 Intelectualmente, não há nada mais importante e decisivo no mundo. Nossa falha em definir regras morais objetivas e racionais custou centenas de milhões de vidas humanas, nas guerras de religiões e estados.
 
-Em muitos aspectos, a aposta está ficando cada vez maior.
+Em muitos aspectos, a importância está ficando cada vez maior.
 
-O aumento de fluxo de informações pela internet obteve elevadas suspeitas de uma nova geração que considera que o que chamamos de “virtude” nada mais é - ou menos é - que contos–de–fada prontos de seus anciães hipócritas. As pífias mentiras contadas por aqueles em posições de autoridade — e a cumplicidade daqueles que os louvam — são mais claras do que nunca foram.
+O aumento de fluxo de informações pela internet elvantou suspeitas de uma nova geração que considera que o que chamamos de “virtude” nada mais é - ou menos é - que contos–de–fada prontos de seus anciães hipócritas. As pífias mentiras contadas por aqueles em posições de autoridade — e a cumplicidade daqueles que os louvam — são, hoje, mais claras do que nunca.
 
 “Verdades” foram expostas como manipulação; “virtudes” como controle; “lealdade” como servidão, e o que é chamado de "moralidade" foi revelado como um ridículo show–de–marionetes projetado para enganar pessoas fracas e tementes e convence-las à se oferecerem como servos.
 
-Essa descoberta deu nascimento à uma nova geração de niilistas, assim como ocorreu na Alemanha do século XIX. Esses relativistas extremos reservam seus ataques mais ferozes para aqueles que afirmam ter qualquer tipo de convicção. Essa geração pós–moderna superou preconceitos culturais de suas histórias coletivas, mas agora veem *toda* a verdade como uma mera afirmação categórica opressora. Como crianças de olhos arregalados que foram coagidas à uma esperteza cínica, eles veem todas as comunicações como propaganda, todas as proposições como interesse e todas as urgências morais como uma ladroagem hipócrita.
+Essa descoberta deu luz à uma nova geração de niilistas, assim como ocorreu na Alemanha do século XIX. Esses relativistas extremos reservam seus ataques mais ferozes para aqueles que afirmam possuir qualquer tipo de convicção. Essa geração pós–moderna superou preconceitos culturais de suas histórias coletivas, mas agora veem *toda* a verdade como uma mera asserção opressora. Como crianças de olhos arregalados que foram coagidas à uma esperteza cínica, eles veem todas as comunicações como propaganda, todas as proposições como interesse e todas as urgências morais como ladroagem hipócrita.
 
 Visto que não temos nenhum acordo sobre uma estrutura de proposições morais que seja coesa, racional e objetiva, "a moralidade" permanece fincada em misticismo e em seu inevitável corolário de violência. Mesmo assim, no ápice do Iluminismo, seitas religiosas brigaram constantemente pelo domínio das lâminas da aristocracia, então agora guerras morais mitológicas lutam pelo controle do estado e todo seu maquinário de coerção.
 
