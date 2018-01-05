@@ -26,11 +26,11 @@ Kebenaran juga memiliki nilai relatif terhadap kebutuhan juga. Fisika Newton tel
 
 Akibatnya, kalimat "Fisika Newton kurang akurat daripada fisika Einstein, tapi fisika Newton adalah cara terbaik untuk menghitung jalur kapal" dapat dianggap sebagai proposisi yang valid. Newtonian physics is thus both *less accurate*, and *more appropriate*.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Kecuali kita sangat kaya dan sangat sembrono, kita tidak akan pernah membayar sebanyak itu untuk memuaskan dahaga kita. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Kecuali kita sangat kaya dan sangat sembrono, kita tidak akan pernah membayar sebanyak itu untuk memuaskan dahaga kita. Memang benar bahwa air murni lebih baik untuk kita, tapi harga kemurnian itu membutuhkan ambang batas hasil yang semakin berkurang. Jadi "lebih murni lebih baik" memberi jalan untuk "lebih murni lebih buruk."
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+Sekali lagi, ini tidak berarti bahwa kemurnian air benar-benar subjektif. Air suling selalu lebih bisa diminum daripada air laut.
 
-#### Truth And Objective Reality
+#### Realitas Kebenaran Dan Obyektif
 
 The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
 
@@ -38,21 +38,21 @@ What, then, is the “bull’s-eye” of truth?
 
 Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. Nilai kebenaran pernyataan saya diukur relatif terhadap fakta kenyataan objektif. Karena burung camar sebenarnya bukan sebuah landasan, pernyataan saya tidak benar.
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+Tentu, persamaan antara kebenaran dan kenyataan ini mengharuskan bahasa dan indra kita dianggap relatif objektif. Ada banyak alasan bagus untuk percaya bahwa kedua bahasa dan bukti indra sebenarnya objektif; kita bisa masuk ke dalam diskusi yang rumit tentang ini, tapi cukuplah untuk mengatakan bahwa karena Anda menggunakan mata Anda untuk membaca buku yang ditulis dalam bahasa manusia, paling tidak kita bisa setuju bahwa matamu, dan bahasa yang kita bagi, ada di Paling tidak cukup objektif bagi Anda untuk secara akurat memproses apa yang saya tulis. Jika tidak, tidak ada yang perlu kita bicarakan, dan Anda belum mengerti apa pun yang telah saya tulis, jadi kalimat ini sama-sama tidak berarti, dan mungkin juga diterjemahkan ke dalam "Wingdings".
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+Dengan asumsi Anda bisa membedakan antara dua huruf di atas, kita dapat melanjutkannya.
 
-#### Accuracy And Consistency
+#### Akurasi dan Konsistensi
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+Tidak mungkin bagi saya untuk secara akurat melukis awan, karena pada saat dibutuhkan untuk melukisnya, awan terus berubah. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+Jika saya menghabiskan satu jam mencoba melukis awan, dan kemudian saya bertanya kepada Anda apakah lukisan saya adalah representasi yang akurat dari awan itu, Anda harus selalu menjawab bahwa bukan.
 
-In other words, where there is no consistency, there can be no accuracy.
+Dengan kata lain, bila tidak ada konsistensi, tidak ada akurasi.
 
 When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
 
