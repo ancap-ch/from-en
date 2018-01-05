@@ -31,11 +31,11 @@ Aşağıda en yaygın eylem/kural kategorilerini ve onların temel farklılıkla
 
 ## Ek C: ETC Podcastler
 
-If you would like to further your understanding of UPB and its ramifications, you might find the following podcasts (available [here](www.freedomainradio.com)) helpful. You may also wish to watch the “Introduction to Philosophy” videos, available on [Youtube](www.youtube.com/freedomainradio).
+ETD ve onun etkileri hakkındaki düşüncelerinizi geliştirmek istiyorsanız, şu podcastleri ([burada](www.freedomainradio.com) mevcut) faydalı bulabilirsiniz. Aynı zamanda [YouTube](www.youtube.com/freedomainradio) üzerindeki''Felsefeye Giriş'' videosunu da izleyebilirsiniz.
 
-| Track | Title                                                         | Description                                                                                                                                                                                                        |
+| Parça | Başlık                                                        | Açıklama                                                                                                                                                                                                           |
 | -----:|:------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|     8 | Proving Libertarian Morality                                  | One of the central challenges faced by libertarians is the need to prove that libertarian moral theory is universally correct, while statist and collectivistic moral theories are incorrect. Here's how to do it! |
+|     8 | Özgürlükçü Ahlakın Kanıtlanması                               | One of the central challenges faced by libertarians is the need to prove that libertarian moral theory is universally correct, while statist and collectivistic moral theories are incorrect. Here's how to do it! |
 |   560 | Call In Show Dec 17 2006                                      | Universally preferable behaviour and rating dating.                                                                                                                                                                |
 |   562 | Universally Preferable Behaviour for Children                 | The ABCs of UPB.                                                                                                                                                                                                   |
 |   872 | Debating and UPB                                              | Can you debate without using UPB?                                                                                                                                                                                  |
