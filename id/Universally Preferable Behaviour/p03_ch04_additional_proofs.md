@@ -1,4 +1,4 @@
-## Additional Proofs
+## Bukti Tambahan
 
 There are other additional proofs that we can bring to bear on the question of universally preferable behaviour.
 
