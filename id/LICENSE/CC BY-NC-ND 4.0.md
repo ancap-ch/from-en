@@ -20,7 +20,7 @@ Dengan melaksanakan hak berlisensi (didefinisikan di bawah ini), Anda menerima d
 
 a. **Materi diadaptasi** berarti materi tunduk pada hak Cipta dan hak-hak serupa yang berasal dari ataupun berdasarkan materi lisensi dan di mana materi berlisensi diterjemahkan, diubah, diatur, mengubah, atau dimodifikasi dengan cara yang memerlukan izin di bawah hak Cipta dan hak serupa yang diselenggarakan oleh pemberi lisensi. Untuk keperluan lisensi umum, di mana materi berlisensi adalah karya musik, kinerja, atau rekaman suara, dimana materi adaptasi selalu di produksi materi berlisensi disinkronkan dalam hubungan berjangka panjang dengan gambar gerak.
 
-b. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+b. **Hak Cipta dan Hak Cipta** berarti hak cipta dan / atau hak serupa yang terkait erat dengan hak cipta termasuk, namun tidak terbatas pada, kinerja, penyiaran, rekaman suara, dan Hak Basis Data Sui Generis, tanpa memperhatikan bagaimana hak diberi label atau dikategorikan. Untuk tujuan Lisensi Publik ini, hak yang ditentukan dalam Bagian 2(b)(1)-(2) bukan Hak Cipta dan Hak-hak Sejenis.
 
 e. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
 
