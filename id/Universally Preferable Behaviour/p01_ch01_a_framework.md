@@ -4,7 +4,7 @@ Proposisi yang etis ialah berbeda dari tipe yang lain pada pernyataan pengetahua
 
 Begitu juga, jika saya katakan "saya suka sayuran," itu juga sebuah pernyataan belaka dari pilihan pribadi. Namun, Bila saya, "sayuran adalah makanan menyehatkan," kemudia saya telah beralih dari pernyataan dari pilihan pribadi menjadi pernyataan yang fakta. Itu adalah perbedaan antara "saya suka es krim," dan,"eskrim yang mengandung susu."
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+Perbedaan yang mendasar antara pernyataan*preferensi*dan pernyataan fakta bahwa pernyataan*fakta*adalah pernyataan yang objektif, dapat diuji dan mengikat. Jika kamu menilai kebenaran, maka anda wajib menerima fakta bahwa es krim mengandung susu, setelah itu terbukti.[^1]
 
 If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
 
