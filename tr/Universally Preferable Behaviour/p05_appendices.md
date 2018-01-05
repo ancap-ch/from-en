@@ -7,10 +7,10 @@ Below, please find a summation of the core argument for morality.
 1. Gerçeklik nesnel ve tutarlıdır.
 2. "Mantık", gerçekliğin tutarlılığından türetilmiş objektif ve tutarlı kurallar dizisidir.
 3. Mantığa uyan teorilere ''geçerli'' teori denir
-4. Those theories that are confirmed by empirical testing are called “accurate.”
-5. Those theories that are both valid and accurate are called “true.”
-6. “Preferences” are required for life, thought, language and debating.
-7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
+4. Deneysel teste uyan teorilere ''kesin'' teori denir
+5. Hem geçerli hem de kesin olan teorilere ''gerçek'' denir
+6. ''Tercihler'' yaşam, düşünce, dil ve tartışma için gereklidir.
+7. Tartışmak, her iki tarafın hem nesnel hem de evrensel ''doğruyu'' ele almasını gerektirir.
 8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
 9. Theories regarding UPB must pass the tests of logical consistency and empirical verification.
 10. The subset of UPB that examines enforceable behaviour is called “morality.”
