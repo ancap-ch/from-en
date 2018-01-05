@@ -14,7 +14,7 @@ Inevitavelmente, um homem dá um passo a frente que atinge todos de maneira comp
 
 Esse livro é a história da minha investida pessoal nesta fera.
 
-Esta "fera" é a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. Esta "fera" é a ilusão de que a moralidade deve para sempre ficar perdida entre pântanos irracionais de deuses e governos, impostos meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Desta "besta" vem a fantasia da virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares, e esquecida para ser emboscada aqui, sendo explorada por políticos e padres – e pais. Essa "fera" é a superstição que, sem a repressão dos pais, o "bullying" de deuses ou as armas dos governos, somos incapazes de ser bons e racionais.
+Esta "fera" é a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. Esta "fera" é a ilusão de que a moralidade deve para sempre ficar perdida entre pântanos irracionais de deuses e governos, impostos meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Esta "fera" é a fantasia de que a virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares e deixada ao pó para ser manipulada, explorada e ostentada por políticos e padres – e pais. Esta "fera" é a superstição de que, sem a repressão dos pais, o "bullying" dos deuses ou as armas dos governos, somos incapazes de sermos tanto bons quanto racionais.
 
 Esse monstro derrubou muitos heróis formidáveis, de Sócrates à Platão, Santo Agostinho à Hume, Kant à Rand.
 
