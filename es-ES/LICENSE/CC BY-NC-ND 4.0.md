@@ -34,15 +34,15 @@ h. **Licenciante** significa el individuo(s) o entidad(es) que otorgan los derec
 
 i. **NoComercial** significa que no está destinados a, o dirigidos principalmente hacia la ventaja comercial o compensación monetaria. Para los propósitos de esta Licencia Pública, el intercambio del Material Licenciado por otro material sujeto a los Derechos de Autor y Derechos Similares por intercambio de material digital o similares significa distribución NoComercial siempre que no haya pago de compensación monetaria en relación con el intercambio.
 
-j. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+j. **Compartir** significa proveer material al público por cualquier medio o procedimiento que requiera permiso bajo los Derechos Licenciados, como la reproducción, exhibición pública, representación pública, distribución, difusión, comunicación, o importación, y hacer el material disponible al público incluyendo formas en que los miembros del público puedan acceder al material desde un lugar y en un momento elegido individualmente por ellos.
 
-k. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+k. **erechos de la base de datos Sui Generis** significa derechos distintos del derecho de autor derivados de la Directiva 96/9/EC del Parlamento Europeo y del Concejo del 11 de marzo de 1996 de la protección legal de las bases de datos, como enmendado y/o exitoso, así como otros derechos esencialmente equivalentes en cualquier parte del mundo.
 
-l. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+l. **Tú** significa el individuo o entidad ejerciendo los Derechos Licenciados bajo esta Licencia Pública. Su, tiene un significado correspondiente.
 
-### Section 2 – Scope.
+### Sección 2 – Alcance.
 
-a. ***License grant.***
+a. ***Concesión de la Licencia.***
 
 1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
     
