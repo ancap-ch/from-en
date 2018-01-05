@@ -1,6 +1,6 @@
 # Apéndices
 
-## Apéndice A: UPB en pocas palabras
+## Apéndice A: CUP en pocas palabras
 
 A continuación, por favor encuentre un resumen e los argumentos centrales para la moralidad.
 
@@ -9,25 +9,25 @@ A continuación, por favor encuentre un resumen e los argumentos centrales para 
 3. Las teorías que se ajustan a la lógica son llamadas "válidas."
 4. Las teorías que son confirmadas por pruebas empíricas son llamadas "precisas."
 5. Las teorías que son tanto válidas como precisas son llamadas "verdaderas."
-6. “Preferences” are required for life, thought, language and debating.
-7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
-8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
-9. Theories regarding UPB must pass the tests of logical consistency and empirical verification.
-10. The subset of UPB that examines enforceable behaviour is called “morality.”
-11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
-12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
+6. Las "Preferencias" son necesarias para la vida, el pensamiento, el lenguaje y el debate.
+7. El debate requiere que ambas partes tengan "la verdad" para ser ambas objetivas y universalmente preferibles.
+8. Por lo tanto el acto mismo de debatir contiene una aceptación de conductas universalmente preferibles (CUP).
+9. Las teorías sobre la CUP deben pasar las pruebas de consistencia lógica y verificación empírica.
+10. El subconjunto de CUP que examina el comportamiento exigible es llamado "moralidad."
+11. Como un subconjunto de CUP, ninguna teoría moral puede ser considerada verdadera si es ilogica o no está apoyada en evidencia empírica.
+12. Las teorías morales que están basadas en la lógica y evidencia son verdaderas. Todas las otras teorías morales son falsas.
 
-## Appendix B: Moral Categories
+## Apéndice B: Categorías Morales
 
-Below is a sample table that lists some of the most common categories of actions/rules, and their key differentiators.
+A continuación se encuentra una tabla ejemplo que enumero algunas de las categorías más comunes de acciones/reglas, y sus diferenciadores clave.
 
-| Action/Rule                       | Preference? | Universal? | Enforceable? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                |
-| --------------------------------- | ----------- | ---------- | ------------ | ----------------------------------------------------- | ------------------------- | ----------------------------- |
-| **Running for the bus**           | No          | No         | n/a          | n/a                                                   | n/a                       | Neutral                       |
-| **You should not like ice cream** | Yes         | No         | No           | n/a                                                   | n/a                       | Neutral (personal preference) |
-| **You should not be late**        | Yes         | Yes        | No           | No                                                    | Yes                       | APA                           |
-| **You should not commit fraud**   | Yes         | Yes        | Yes          | Yes                                                   | Yes                       | Good                          |
-| **You should not rape**           | Yes         | Yes        | Yes          | No                                                    | No                        | Good                          |
+| Acción/Regla                      | ¿Preferencia? | ¿Universal? | ¿Exigible? | ¿Requiere iniciar una acción por parte de la víctima? | ¿Pueden ser evitados los violadores? | Categoría Moral                |
+| --------------------------------- | ------------- | ----------- | ---------- | ----------------------------------------------------- | ------------------------------------ | ------------------------------ |
+| **Correr para alcanzar el bus**   | No            | No          | n/a        | n/a                                                   | n/a                                  | Neutral                        |
+| **No debería gustarte el helado** | Sí            | No          | No         | n/a                                                   | n/a                                  | Neutral (preferencia personal) |
+| **You should not be late**        | Yes           | Yes         | No         | No                                                    | Yes                                  | APA                            |
+| **You should not commit fraud**   | Yes           | Yes         | Yes        | Yes                                                   | Yes                                  | Good                           |
+| **You should not rape**           | Yes           | Yes         | Yes        | No                                                    | No                                   | Good                           |
 
 ## Appendix C: UPB Podcasts
 
