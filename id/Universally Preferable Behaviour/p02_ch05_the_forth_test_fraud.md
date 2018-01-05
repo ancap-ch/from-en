@@ -1,12 +1,12 @@
 ## Tes Keempat: Penipuan
 
-Right at the edge of what is generally considered ethical sits the challenge of *fraud*.
+Tepat di ujung apa yang umumnya dianggap etis adalah tantangan *penipuan*.
 
-Fraud is the obtaining of value through false representation. If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
+Penipuan adalah perolehan nilai melalui representasi palsu. Jika saya memberitahu Anda bahwa saya akan mengirimi Anda iPod jika Anda memberi saya dua ratus dolar, dan kemudian mengambil uang Anda tanpa mengirimkan iPod Anda, Secara naluriah kami memahami bahwa itu adalah bentuk pencurian.
 
-Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
+Mari kita letakkan masalah penipuan melalui penggiling UPB, dan lihat apakah itu bertahan.
 
-Clearly, fraud requires that one person *not* be engaged in fraud. In the above potential transaction, if I am hoping to steal your two hundred dollars, and you are hoping to steal my iPod, nothing will come of it. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
+Jelas, penipuan mensyaratkan bahwa satu orang *tidak* terlibat dalam penipuan. In the above potential transaction, if I am hoping to steal your two hundred dollars, and you are hoping to steal my iPod, nothing will come of it. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
 
 Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
 
