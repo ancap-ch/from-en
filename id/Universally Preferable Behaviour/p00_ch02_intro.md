@@ -8,7 +8,7 @@ The world looks flat; it is not. The sun and the moon look the same size; they a
 
 These are the little truths of the everyday; that rocks fall, smoke rises, fire is hot and the sun and the moon are both round. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
 
-In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
+Di antara kebenaran kecil dan kebenaran besar, bagaimanapun, adalah ilusi yang membutakan kita - baik dalam fisika maupun etika.
 
 In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
 
@@ -124,7 +124,7 @@ If a stranger attacks you in an alley and demands your money, you will be horrif
 
 This is an example of a “little truth,” which is: “Stealing from me is wrong.”
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+Namun, ketika agen pemerintah mengirimi Anda sebuah surat yang meminta Anda membayar uang kepadanya, Anda mungkin akan merasakan penghinaan tertentu, namun Anda tidak akan menghubungkan cerita tersebut dengan ngeri dan kemarahan yang sama terhadap teman Anda.
 
 This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
 
