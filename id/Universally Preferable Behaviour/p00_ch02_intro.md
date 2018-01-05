@@ -1,4 +1,4 @@
-## Introduction
+## Pengantar
 
 Untuk generasi yang tak terhitung jumlahnya, umat manusia hidup dalam semacam rahim egosentris dari ketidaktahuan yang dipaksakan sendiri: dunia datar, matahari, bulan dan bintang berputar di sekelilingnya, nenek moyang memberi isyarat kepadanya dari balik kabut kematian, dan guntur adalah kemarahan dari dewa-dewa.
 
@@ -36,7 +36,7 @@ Di peta lama, sebelum para pembuat peta telah menyelesaikan penjelajahan mereka,
 
 Hal yang sama juga terjadi di ranah moralitas.
 
-### The Casualties
+### Korbannya
 
 Crossing this “null zone” is fraught with peril. Jalan dari kebenaran kecil menuju kebenaran besar diaspal dengan tulang jutaan orang. Dari kematian Sokrates hingga penyiksaan ilmuwan awal oleh para fanatik religius, kepada jutaan orang yang telah membunuh dan meninggal karena fantasi hitam fasisme dan komunisme, dorongan pengetahuan manusia ke dalam "zona nol" penuh dengan bahaya yang cukup besar.
 
@@ -62,9 +62,9 @@ These “middle truths” are the most dangerous illusions of all, because they 
 
 By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. Misalnya, kekristenan muncul dari fasisme yang berkembang di kekaisaran Romawi akhir sebagian dengan menyerang takhayul "primitif" dari teologi yang ada. "Lupakan tuhan-tuhan lama Anda, kita memiliki Tuhan yang baru yang jauh lebih baik!"
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+"Kebenaran tengah" selalu berbentuk kebenaran, diikuti dengan sebuah kebohongan. "Zeus adalah takhayul pagan" adalah pernyataan yang benar, yang secara terbuka dibuat oleh penganut penganut agama Kristen. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
 
 We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
 
@@ -74,9 +74,9 @@ It is very hard not to replace one illusion with another.
 
 “Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
 
-“Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
+“Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. Tentu saja ini tidak pernah diamati, namun sesuai dengan tulisan kuno baik filosofis maupun religius, dan karenanya diterima sebagai fakta. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
 
-Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+Religion is also another “middle truth” – one of the most dangerous ones. Memang benar bahwa kita adalah spesies unik di alam semesta, sejauh yang kita tahu. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
 
 Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
 
