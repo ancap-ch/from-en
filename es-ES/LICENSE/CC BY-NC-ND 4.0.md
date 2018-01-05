@@ -22,17 +22,17 @@ a. **Material Adaptado** significa material sujeto a derechos de autor y derecho
 
 b. **Derechos de Autor y Derechos Similares** significa derechos de autor y/o derechos similares estrechamente relacionados con derechos de autor incluyendo, sin limitaciones, rendimiento, transmisión, grabación de sonido, y Sui Generir derechos de base de datos, sin tener en cuenta cómo los derechos están etiquetados o categorizados. Para los propósitos de esta Licencia Pública, los derechos especificados en la Sección 2(b) (1)-(2) no son Derechos de autor y Derechos Similares.
 
-e. **Medidas Tecnológicas Efectivas** significa aquellas medidas que, en la ausencia de una autoridad adecuada, no puede ser eludido por las leyes que cumplen las obligaciones bajo el artículo 11 del Tratado de Derechos de Autor WIPO adoptado el 20 de diciembre de 1996, y/o acuerdos internacionales similares.
+c. **Medidas Tecnológicas Efectivas** significa aquellas medidas que, en la ausencia de una autoridad adecuada, no puede ser eludido por las leyes que cumplen las obligaciones bajo el artículo 11 del Tratado de Derechos de Autor WIPO adoptado el 20 de diciembre de 1996, y/o acuerdos internacionales similares.
 
 f. **Excepciones y Limitaciones** significa el uso justo, trato justo, y/o alguna otra excepción o limitación de Derechos de Autor y Derechos Similares que aplique a su uso del Material Licenciado.
 
 h. **Material Licenciado** significa el trabajo artístico o literario, la base de datos, u otro material al que el licenciante le aplique esta Licencia Pública.
 
-i. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+i. **Derechos Licenciados** significa los derechos otorgados a usted, sujetos a los términos y condiciones de esta Licencia Pública, que están limitados a todos los Derechos de autor y Derechos Similares que aplica a su uso del Material Licenciado y que el Licenciante tiene la autoridad para licenciar.
 
-h. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
+h. **Licenciante** significa el individuo(s) o entidad(es) que otorgan los derechos bajo esta Licencia Pública.
 
-i. **NonCommercial** means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this Public License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
+i. **NoComercial** significa que no está destinados a, o dirigidos principalmente hacia la ventaja comercial o compensación monetaria. Para los propósitos de esta Licencia Pública, el intercambio del Material Licenciado por otro material sujeto a los Derechos de Autor y Derechos Similares por intercambio de material digital o similares significa distribución NoComercial siempre que no haya pago de compensación monetaria en relación con el intercambio.
 
 j. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
 
