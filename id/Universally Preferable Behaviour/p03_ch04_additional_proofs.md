@@ -22,14 +22,14 @@ UPB menjawab pertanyaan ini.
 
 Karena setiap metodologi untuk perolehan pengetahuan harus universal, konsisten, dan independen terhadap waktu dan tempat, metode ilmiah memenuhi persyaratan ini, sementara mistisisme irasional dan subjektif adalah kebalikan dari persyaratan ini.
 
-### Public Education
+### Edukasi publik
 
-One central principle of free market economics is that quality only really results from *voluntarism*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
+Salah satu prinsip utama ekonomi pasar bebas adalah bahwa kualitas hanya benar-benar hasil dari * voluntarisme </ 0>. Pemaksaan, pada dasarnya, tidak efisien - kekerasan selalu menghasilkan kualitas yang buruk. Toko roti Soviet bergaya lama tidak pernah membawa roti yang enak; Seorang pria yang mengalahkan istrinya tidak akan pernah memiliki pernikahan yang bahagia.</p> 
 
-The initiation of the use of force is always counter to any rational moral theory – it is a specific and explicit violation of UPB. Since public schools are funded through the initiation of the use of force, they are a form of *forced association*, which is a clear violation of the *freedom of association* validated by UPB.
+Inisiasi penggunaan kekuatan selalu berlawanan dengan teori moral rasional - ini adalah pelanggaran UPB yang spesifik dan eksplisit. Karena sekolah negeri didanai melalui inisiasi penggunaan kekerasan, maka itu adalah bentuk asosiasi kepentingan <0 0, yang merupakan pelanggaran yang jelas terhadap kebebasan berserikat </ 0> yang divalidasi oleh UPB.
 
-Since force violates the moral requirement of *avoidability* – and a lack of avoidability always breeds poor quality – UPB would help us easily predict that public schools would provide education of low quality.
+Karena kekerasan melanggar persyaratan moral dari bahaya * - dan kurangnya penghindaran selalu menghasilkan kualitas yang buruk - UPB akan membantu kita memprediksi dengan mudah bahwa sekolah negeri akan memberikan pendidikan berkualitas rendah.</p> 
 
-Furthermore, UPB would also have helped us predict that, as more and more force was used in the realm of public education – as taxes, union compulsions and so on escalated – the quality of the education provided would get worse and worse.
+Lebih jauh lagi, UPB juga akan membantu kami memprediksi bahwa, karena semakin banyak kekuatan yang digunakan di ranah pendidikan publik - karena pajak, dorongan serikat pekerja dan sebagainya meningkat - kualitas pendidikan yang diberikan akan menjadi lebih buruk dan lebih buruk lagi.
 
-This, of course, was – and is – exactly the case.
+Ini, tentu saja - dan - persis seperti kasusnya.
