@@ -55,11 +55,11 @@ a. ***Concesión de la Licencia.***
 
 3. **Término.** El término d esta Licencia Pública se especifica en la Sección 6(a).
 
-4. **Los Medios y formatos; modificaciones técnicas permitidas.** Los Licenciantes le autorizan para ejercer los Derechos Licenciados en todos los medios y formatos ahora conocidos o posteriormente creados, y para hacer modificaciones técnicas necesarias. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+4. **Los Medios y formatos; modificaciones técnicas permitidas.** Los Licenciantes le autorizan para ejercer los Derechos Licenciados en todos los medios y formatos ahora conocidos o posteriormente creados, y para hacer modificaciones técnicas necesarias. El Licenciante renuncia y/o acepta no hacer valer ningún derecho o autoridad para prohibirle hacer modificaciones técnicas necesarias para el ejercicio de los Derechos Licenciados, incluyendo modificaciones técnicas para eludir las Medidas Tecnológicas Efectivas. Para los propósitos de esta Licencia Pública, simplemente haciendo modificaciones autorizadas por esta Sección 2(a)(4) nunca produce Material Adaptado.
     
-    1. **Downstream recipients.**
+    1. **Destinatarios en sentido descendente.**
         
-        A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+        A. **Oferta del Licenciante – Material Licenciado.** Cada destinatario del Material Licenciado recibe automáticamente una oferta del Licenciante para ejercer los Derechos Licenciados bajo los términos y condiciones de esta Licencia Pública.
         
         B. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
     
