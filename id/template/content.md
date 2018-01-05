@@ -1,9 +1,9 @@
-# First root heading
+# Judul akar pertama
 
 Di bawah ini ada daftar pangram bergaya yang disebutkan, yang menunjukkan setiap karakter, baik dalam bahasa Inggris maupun bahasa lainnya.
 
 1. huruf besar: JIKA CEPAT, BROWN FOX JUMPS OVER A LAZY DOG. 
-2. numbers: 0123456789. 
+2. angka: 0123456789. 
 3. symbols: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
 4. emphasys: *Seekor rubah cokelat cepat melompat di atas seekor anjing malas.* 
     1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
