@@ -2,7 +2,7 @@
 
 Em vários contos de fadas, vive uma fera terrível de poder estupendo, um dragão ou um basilisco, que tiraniza as terras próximas. Os aldeões locais tremem perante o som desse monstro; eles sacrificam seus animais, pagam seus tributos – dinheiro e sangue – na esperança de acalmar os impulsos assassinos do monstro.
 
-A maioria acovardava-se sob a sombra dessa fera, autoproclamando seu medo de “prudência”, mas alguns — talvez bêbados em coragem ou estupidez — decidem lutar. Ano após ano, década após década, onda após onda de promitentes campeões tentam por à prova suas forças, virtudes e astúcias à do terrível tirano.
+A maioria acovardava-se sob a sombra dessa fera, autoproclamando seu medo de “prudência”, mas alguns — talvez bêbados em coragem ou estupidez — decidem lutar. Ano após ano, década após década, onda após onda de campeões esperançosos tentam equiparar a sua força, virtude e astúcia à do terrível tirano.
 
 Tentam - e falham.
 
@@ -14,7 +14,7 @@ Inevitavelmente, um homem dá um passo a frente que atinge todos de maneira comp
 
 Esse livro é a história da minha investida pessoal nesta fera.
 
-Esta "fera" é a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. Esta "fera" é a ilusão de que a moralidade deve para sempre ficar perdida entre pântanos irracionais de deuses e governos, imposta meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Desta "besta" vem a fantasia da virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares, e esquecida para ser emboscada aqui, sendo explorada por políticos e padres – e pais. Essa "fera" é a superstição que, sem a repressão dos pais, o "bullying" de deuses ou as armas dos governos, somos incapazes de ser bons e racionais.
+Esta "fera" é a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. Esta "fera" é a ilusão de que a moralidade deve para sempre ficar perdida entre pântanos irracionais de deuses e governos, impostos meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Desta "besta" vem a fantasia da virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares, e esquecida para ser emboscada aqui, sendo explorada por políticos e padres – e pais. Essa "fera" é a superstição que, sem a repressão dos pais, o "bullying" de deuses ou as armas dos governos, somos incapazes de ser bons e racionais.
 
 Esse monstro derrubou muitos heróis formidáveis, de Sócrates à Platão, Santo Agostinho à Hume, Kant à Rand.
 
