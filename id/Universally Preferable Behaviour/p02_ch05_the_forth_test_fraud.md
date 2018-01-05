@@ -8,7 +8,7 @@ Mari kita letakkan masalah penipuan melalui penggiling UPB, dan lihat apakah itu
 
 Jelas, penipuan mensyaratkan bahwa satu orang *tidak* terlibat dalam penipuan. Dalam transaksi potensial di atas, jika saya berharap bisa mencuri dua ratus dolar Anda, dan Anda berharap bisa mencuri iPod saya, tidak akan ada yang datang darinya. Anda akan menuntut iPod sebelum memberikan pembayaran, dan saya akan menuntut pembayaran sebelum memberikan iPod. Kita akan menemui jalan buntu, sama sekali tidak bisa saling menipu.
 
-Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
+Jelas, karena penipuan terjadi, satu pihak harus bertindak dengan itikad baik. Jadi orang yang ingin melakukan penipuan bergantung pada fakta bahwa orang lain *tidak* ingin melakukan penipuan, untuk memangsa dia.
 
 To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
 
