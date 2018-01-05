@@ -21,15 +21,15 @@ Below, please find a summation of the core argument for morality.
 
 Aşağıda en yaygın eylem/kural kategorilerini ve onların temel farklılıklarını listeyen örnek bir tablo bulunmaktadır.
 
-| Eylem/Kural                       | Tercih? | Evrensel? | Uygulanabilirlik? | Eylemin başlatılması mağdur tarafından gerekli mi? | İhlal eden kimseler önlenebilir mi? | Ahlak Kategorisi              |
-| --------------------------------- | ------- | --------- | ----------------- | -------------------------------------------------- | ----------------------------------- | ----------------------------- |
-| **Running for the bus**           | Hayır   | Hayır     | bilgi yok         | bilgi yok                                          | bilgi yok                           | Tarafsız                      |
-| **You should not like ice cream** | Evet    | Hayır     | Hayır             | bilgi yok                                          | bilgi yok                           | Neutral (personal preference) |
-| **You should not be late**        | Evet    | Evet      | Hayır             | Hayır                                              | Evet                                | APA                           |
-| **You should not commit fraud**   | Evet    | Evet      | Evet              | Evet                                               | Evet                                | İyi                           |
-| **You should not rape**           | Evet    | Evet      | Evet              | Hayır                                              | Hayır                               | İyi                           |
+| Eylem/Kural                 | Tercih? | Evrensel? | Uygulanabilirlik? | Eylemin başlatılması mağdur tarafından gerekli mi? | İhlal eden kimseler önlenebilir mi? | Ahlak Kategorisi          |
+| --------------------------- | ------- | --------- | ----------------- | -------------------------------------------------- | ----------------------------------- | ------------------------- |
+| **Running for the bus**     | Hayır   | Hayır     | bilgi yok         | bilgi yok                                          | bilgi yok                           | Tarafsız                  |
+| **Dondurmayı sevmemelisin** | Evet    | Hayır     | Hayır             | bilgi yok                                          | bilgi yok                           | Tarafsız (kişisel tercih) |
+| **Geç kalmamalısın**        | Evet    | Evet      | Hayır             | Hayır                                              | Evet                                | APA                       |
+| **Sahtecilik yapmamalısın** | Evet    | Evet      | Evet              | Evet                                               | Evet                                | İyi                       |
+| **Tecavüz etmemelisin**     | Evet    | Evet      | Evet              | Hayır                                              | Hayır                               | İyi                       |
 
-## Appendix C: UPB Podcasts
+## Ek C: ETC Podcastler
 
 If you would like to further your understanding of UPB and its ramifications, you might find the following podcasts (available [here](www.freedomainradio.com)) helpful. You may also wish to watch the “Introduction to Philosophy” videos, available on [Youtube](www.youtube.com/freedomainradio).
 
