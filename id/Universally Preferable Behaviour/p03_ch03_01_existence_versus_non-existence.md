@@ -38,9 +38,9 @@ Jika kita menerima UPB, kita juga harus menerima akibat wajar berikut:
 
 - Persoalan moral tidak tergantung pada pakaian.
 
-Apakah ini berarti seseorang tidak bisa mengubah sifat moralnya bersama dengan pakaiannya. Tindakan mengubah kebiasaan seseorang tidak mengubah sifat dasar seseorang. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Apakah ini berarti seseorang tidak bisa mengubah sifat moralnya bersama dengan pakaiannya. Tindakan mengubah kebiasaan seseorang tidak mengubah sifat dasar seseorang. Dengan demikian aturan moral yang berlawanan tidak bisa berlaku berdasarkan pakaian yang dikenakan seseorang.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Prajurit tentu saja mengenakan kostum yang berbeda dengan warganegara biasa. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
 
 Let’s take another example.
 
