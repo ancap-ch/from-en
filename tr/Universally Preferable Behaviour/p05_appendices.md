@@ -11,8 +11,8 @@ Below, please find a summation of the core argument for morality.
 5. Hem geçerli hem de kesin olan teorilere ''gerçek'' denir
 6. ''Tercihler'' yaşam, düşünce, dil ve tartışma için gereklidir.
 7. Tartışmak, her iki tarafın hem nesnel hem de evrensel ''doğruyu'' ele almasını gerektirir.
-8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
-9. Theories regarding UPB must pass the tests of logical consistency and empirical verification.
+8. Böylece çok ağır tartışmalarda evrensel olarak tercih edilen davranışlar (ETD) kullanılır.
+9. ETD teorilerinin, mantıksal tutarlılık ve deneysel doğrulama testlerini geçmesi gerekir.
 10. The subset of UPB that examines enforceable behaviour is called “morality.”
 11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
 12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
