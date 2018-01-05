@@ -7,7 +7,7 @@ Di bawah ini ada daftar pangram bergaya yang disebutkan, yang menunjukkan setiap
 3. simbol: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
 4. emphasys: *Seekor rubah cokelat cepat melompat di atas seekor anjing malas.* 
     1. emphasys kuat: **Rubah, coklat cepat melompati seekor anjing malas.**
-    2. inner emphasys: **The *The quick, brown fox jumps over a lazy dog* dog.** 
+    2. penekanan batin: **The *The quick, brown fox jumps over a lazy dog* dog.** 
         1. en: The quick, brown *fox* **jumps *over* a** lazy dog.
         2. pt-BR: À noite, vovô *Kowalsky* **vê o ímã *cair no pé* do pingüim queixoso** e vovó põe açúcar no chá de tâmaras do jabuti feliz.
         3. jp: [色は匂へど]{いろはにほへど} [散りぬるを]{ちりぬるを} *[我が世誰ぞ]{わかよたれぞ}* **[常ならむ]{つねならむ} *[有為の奥山]{うゐのおくやま}* [今日越えて]{けふこえて}** [浅き夢見じ]{あさきゆめみじ} [酔ひもせず]{ゑひもせず}（ん）
