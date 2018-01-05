@@ -12,13 +12,13 @@ Di seluruh dunia, penguasa adalah persentase populasi yang sangat kecil. Bagaima
 
 Kenyataan yang menyedihkan adalah bahwa orang secara keseluruhan diperbudak entitas fiktif seperti negara, tuhan, budaya – dan pemerintah.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+Kebanggaan pribadi kita secara naluriah memberontak melawan perbudakan segera dan diberlakukan terhadap manusia lain – Namun, kita tampaknya hampir menyukai perbudakan *mitologi*.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+Keinginan kita untuk menjadi baik – dikombinasikan dengan sensasi kebajikan yang kita dapatkan dengan mematuhi mitologi moral - membuat kita mengantre dengan rela menyerahkan sumber daya kita kepada orang-orang yang mengaku mewakili mitologi ini.
 
 Salah satu alasan utama mengapa kita tahu bahwa pemerintah dan tuhan tidak perlu adalah mereka sangat efektif. *Kita tahu bahwa kebanyakan orang sangat ingin menjadi baik karena mereka begitu mudah dikendalikan oleh teori moral*.
 
-Logika ketaatan pada mitologi sangat bodoh. Jika seorang pastor mengatakan kepada saya bahwa saya harus mematuhi "Tuhan," ini sama persis dengan dia yang mengatakan bahwa saya harus mematuhi sebuah entitas yang disebut "Nog." Sekalipun saya menerima bahwa entitas fiktif ini layak untuk menjalani ketaatan abadi, ini masih sama sekali tidak akan memaksa saya untuk taat *pendeta*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+Logika ketaatan pada mitologi sangat bodoh. Jika seorang pastor mengatakan kepada saya bahwa saya harus mematuhi "Tuhan," ini sama persis dengan dia yang mengatakan bahwa saya harus mematuhi sebuah entitas yang disebut "Nog." Sekalipun saya menerima bahwa entitas fiktif ini layak untuk menjalani ketaatan abadi, ini masih sama sekali tidak akan memaksa saya untuk taat *pendeta*. Jika saya memberitahu Anda “taatilah hatimu,” dapatkah saya cukup mengatakannya: “dan *I sendiri* berbicara untuk hatimu”?
 
 Tentu saja tidak.
 
