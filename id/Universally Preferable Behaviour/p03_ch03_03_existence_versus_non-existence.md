@@ -2,7 +2,7 @@
 
 Gagasan bahwa terlahir menciptakan sebuah kontrak dengan agensi fiktif, yang secara praktis membuat Anda menjadi budak kuasi bagi individu tertentu, adalah hal yang umum bagi agama dan negara – dan satu agen lain yang jauh lebih pribadi, yang saya bicarakan di buku pertamaku "On Truth: The Tyranny Of Illusion."
 
-Kapan pun seorang imam mengatakan: “Taatilah tuhan,” apa yang sebenarnya dia katakan adalah: “Taatilah *saya*.” Karena Tuhan tidak ada, Setiap perintah yang diklaim imam berasal dari Tuhan, sebenarnya berasal dari pendeta. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Kapan pun seorang imam mengatakan: “Taatilah tuhan,” apa yang sebenarnya dia katakan adalah: “Taatilah *saya*.” Karena Tuhan tidak ada, Setiap perintah yang diklaim imam berasal dari Tuhan, sebenarnya berasal dari pendeta. “Tuhan” hanyalah entitas fiksi yang digunakan untuk menggertak Anda secara konseptual untuk mendapatkan sikap tunduk Anda yang sangat praktis di dunia nyata, kepada individu sejati, dalam hal sukarela menyerahkan uang, waktu dan sumber daya.
 
 Ini jauh lebih efisien bagi para penghisap agar budak mereka menganggap perbudakan sebagai kebajikan, karena ia mengurangi biaya untuk mengendalikannya. Jika saya dapat meyakinkan Anda bahwa adalah jahat untuk menghindari melayani saya, dan berbudi luhur untuk menjadi budak saya, maka saya tidak perlu mempekerjakan hampir sebanyak preman untuk menggertak, mengendalikan dan mencuri dari Anda.
 
@@ -10,7 +10,7 @@ Mitologi agama dan negara, kemudian, adalah fiksi yang sangat mengurangi biaya u
 
 Di seluruh dunia, penguasa adalah persentase populasi yang sangat kecil. Bagaimana mungkin satu sampai dua persen orang bisa mengendalikan orang lain? Ada monopoli tertentu tentang persenjataan, tentu saja, tapi monopoli itu relatif mudah untuk dikonversikan, karena kebanyakan pemerintah menghasilkan banyak uang untuk menjual senjata ke seluruh dunia.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+Kenyataan yang menyedihkan adalah bahwa orang secara keseluruhan diperbudak entitas fiktif seperti negara, tuhan, budaya – dan pemerintah.
 
 Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
 
