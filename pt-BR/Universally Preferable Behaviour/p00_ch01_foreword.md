@@ -14,7 +14,7 @@ Inevitavelmente, um homem dá um passo a frente que atinge todos de maneira comp
 
 Esse livro é a história da minha investida pessoal nesta fera.
 
-Esta "fera" é a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. Esta "fera" é a ilusão de que a moralidade deve para sempre ficar perdida entre pântanos irracionais de deuses e governos, impostos meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Esta "fera" é a fantasia de que a virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares e deixada ao pó para ser manipulada, explorada e ostentada por políticos e padres – e pais. Esta "fera" é a superstição de que, sem a repressão dos pais, o "bullying" dos deuses ou as armas dos governos, somos incapazes de sermos tanto bons quanto racionais.
+Esta "fera" é a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. Esta "fera" é a ilusão de que a moralidade deve para sempre ficar perdida entre pântanos irracionais de deuses e governos, impostos meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Esta "fera" é a fantasia de que a virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares e deixada ao pó para ser manipulada, explorada e ostentada por políticos e padres – e pais. Esta "fera" é a superstição de que, sem a repressão dos pais, o "bullying" de deuses ou as armas dos governos, somos incapazes de sermos tanto bons quanto racionais.
 
 Esse monstro derrubou muitos heróis formidáveis, de Sócrates à Platão, Santo Agostinho à Hume, Kant à Rand.
 
@@ -24,7 +24,7 @@ Já que nós temos permanecido incapazes de definir um sistema racional de moral
 
 Visto que o que chamamos de ética segue subjetivo e meramente *cultural*, nós inevitavelmente acabamos dependendo de "bullying", medo e violência para impormos as regras sociais. Uma vez que a ética carece de uma base racional como o método científico, a “moralidade” permanece presa numa guerra tribal de mitologias sangrentas; cada gangue lutando com unhas e dentes pela lealdade do povo à “virtude".
 
-Somos incapazes de viver sem moralidade, porém também incapazes de definir moralidade objetivamente — sendo assim, permanecemos eternamente condenados à vidas vazias de hipocrisia egocêntrica, dominação cínica ou servidão cínica.
+Somos incapazes de viver sem moralidade, porém também incapazes de definir moralidade objetivamente — sendo assim, permanecemos eternamente condenados à vidas vazias de hipocrisia egocêntrica, dominação cínica ou pífia servidão.
 
 Intelectualmente, não há nada mais importante e decisivo no mundo. Nossa falha em definir regras morais objetivas e racionais custou centenas de milhões de vidas humanas, nas guerras de religiões e estados.
 
