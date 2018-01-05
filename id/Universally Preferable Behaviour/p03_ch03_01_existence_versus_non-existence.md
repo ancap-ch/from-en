@@ -40,11 +40,11 @@ Jika kita menerima UPB, kita juga harus menerima akibat wajar berikut:
 
 Apakah ini berarti seseorang tidak bisa mengubah sifat moralnya bersama dengan pakaiannya. Tindakan mengubah kebiasaan seseorang tidak mengubah sifat dasar seseorang. Dengan demikian aturan moral yang berlawanan tidak bisa berlaku berdasarkan pakaian yang dikenakan seseorang.
 
-Prajurit tentu saja mengenakan kostum yang berbeda dengan warganegara biasa. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Prajurit tentu saja mengenakan kostum yang berbeda dengan warganegara biasa. Warga biasa dilarang melakukan pembunuhan; tentara, bagaimanapun, tidak hanya * diizinkan * untuk membunuh, namun secara moral * dipuji * karena membunuh.
 
-Let’s take another example.
+Mari ambil contoh lain.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Pencurian secara moral salah, seperti yang telah kita lihat di atas. Hal tersebut salah secara moral bagi semua orang di segala situasi setiap saat dan dalam semua kondisi. Karena pencurian adalah pengambilan paksa atas harta orang lain tanpa persetujuan, maka perpajakan selalu, semua dan selamanya merupakan kejahatan moral. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
 
 What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
 
