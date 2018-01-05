@@ -26,7 +26,7 @@ c. **BY-SA Compatible License** means a license listed at [creativecommons.org/c
 
 d. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. Untuk tujuan Lisensi Publik ini, hak yang ditentukan dalam Bagian 2 (b) (1) - (2) bukan Hak Cipta dan Hak-hak Sejenis.
 
-e. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+e. **Tindakan Teknologi yang Efektif** berarti tindakan yang, jika tidak ada otoritas yang tepat, mungkin tidak dielakkan berdasarkan undang-undang yang memenuhi kewajiban berdasarkan Pasal 11 dari Perjanjian Hak Cipta WIPO yang diadopsi pada tanggal 20 Desember 1996, dan/atau yang serupa secara internasional perjanjian.
 
 f. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
 
@@ -111,15 +111,15 @@ b. ***ShareAlike.***
 
 In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.
 
-1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.
+1. Lisensi Adapter yang Anda terapkan harus merupakan lisensi Creative Commons dengan Unsur Lisensi yang sama, versi ini atau yang lebih baru, atau Lisensi Kompatibel BY-SA.
 
-2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
+2. Anda harus menyertakan teks, atau URI atau hyperlink ke, Lisensi Adaptor yang Anda terapkan. Anda dapat memenuhi kondisi ini dengan cara yang wajar berdasarkan media, sarana, dan konteks di mana Anda Mengadaptasi Materi yang Diadaptasi.
 
 3. Anda mungkin tidak menawarkan atau menerapkan persyaratan atau ketentuan tambahan atau berbeda, atau menerapkan Langkah Teknologi yang Efektif untuk Materi yang Diadaptasi yang membatasi pelaksanaan hak yang diberikan berdasarkan Lisensi Adapter yang Anda terapkan.
 
 ### Section 4 – Sui Generis Database Rights.
 
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+Dimana Hak Izin termasuk Hak Basis Data Sui Generis yang berlaku untuk penggunaan Anda terhadap Bahan Berlisensi:
 
 a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
 
