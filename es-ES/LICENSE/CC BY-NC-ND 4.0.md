@@ -18,7 +18,7 @@ Mediante el ejercicio de los derechos de licencia (definidos a continuación), u
 
 ### Sección 1 – Definiciones.
 
-a. **Material Adaptado** significa material sujeto a derechos de autor y derechos similares que se deriva o se basa el Material Licenciado y en el que el Material Licenciado es traducido, alterado, arreglado, transformado, o de otra manera modificado de una manera que requiera permiso bajo los derechos de autor y derechos similares en poder del Licenciante. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
+a. **Material Adaptado** significa material sujeto a derechos de autor y derechos similares que se deriva o se basa el Material Licenciado y en el que el Material Licenciado es traducido, alterado, arreglado, transformado, o de otra manera modificado de una manera que requiera permiso bajo los derechos de autor y derechos similares en poder del Licenciante. Para propósitos de esta Licencia Pública, donde el Material Licenciado es un trabajo musical, rendimiento, o grabación de sonido, el Material Adaptado es producido siempre donde el Material Licenciado está sincronizado con una imagen en movimiento, en una relación temporal.
 
 b. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
 
