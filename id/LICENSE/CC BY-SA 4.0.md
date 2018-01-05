@@ -139,11 +139,11 @@ c. Penafian jaminan dan pembatasan tanggung jawab yang diberikan di atas harus d
 
 ### Section 6 – Term and Termination.
 
-a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+a. a. Lisensi Publik ini berlaku untuk jangka waktu Hak Cipta dan Hak-hak Hak yang dilisensikan di sini. Namun, jika Anda gagal mematuhi Lisensi Publik ini, maka hak Anda berdasarkan Lisensi Publik ini akan berakhir secara otomatis.
 
 b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
 
-1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+1. secara otomatis pada tanggal pelanggaran tersebut disembuhkan, asalkan sudah sembuh dalam waktu 30 hari sejak ditemukannya pelanggaran; atau
 
 2. upon express reinstatement by the Licensor.
     
@@ -169,6 +169,6 @@ c. Tidak ada syarat atau ketentuan dari Lisensi Publik ini yang akan dihapuskan 
 
 d. Tidak ada Lisensi Publik ini yang merupakan atau dapat dianggap sebagai pembatasan atas, atau pengabaian, hak istimewa dan kekebalan apapun yang berlaku bagi Pemberi Lisensi atau Anda, termasuk dari proses hukum dari yurisdiksi atau otoritas manapun.
 
-> Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. Untuk menghindari keraguan, paragraf ini tidak menjadi bagian dari lisensi publik.
+> Creative Commons bukan merupakan pihak yang memiliki lisensi publik. Meskipun demikian, Creative Commons dapat memilih untuk menerapkan salah satu lisensi publiknya ke materi yang diterbitkannya dan dalam hal itu akan dianggap sebagai "Pemberi Lisensi." Kecuali untuk tujuan terbatas yang menunjukkan bahwa materi tersebut dibagikan di bawah lisensi publik Creative Commons atau yang diizinkan oleh Creative Commons policies yang diterbitkan di [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons tidak mengizinkan penggunaan merek dagang "Creative Commons" atau merek dagang atau logo Creative Commons lainnya tanpa persetujuan tertulis sebelumnya termasuk, tanpa batasan, sehubungan dengan modifikasi yang tidak sah terhadap lisensi publik atau pengaturan, pemahaman, atau kesepakatan lainnya mengenai penggunaan bahan berlisensi. Untuk menghindari keraguan, paragraf ini tidak menjadi bagian dari lisensi publik.
 > 
-> Creative Commons may be contacted at creativecommons.org
+> Creative Commons dapat dihubungi di creativecommons.org
