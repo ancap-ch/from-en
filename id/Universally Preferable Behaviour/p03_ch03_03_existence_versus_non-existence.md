@@ -6,7 +6,7 @@ Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me
 
 Ini jauh lebih efisien bagi para penghisap agar budak mereka menganggap perbudakan sebagai kebajikan, karena ia mengurangi biaya untuk mengendalikannya. Jika saya dapat meyakinkan Anda bahwa adalah jahat untuk menghindari melayani saya, dan berbudi luhur untuk menjadi budak saya, maka saya tidak perlu mempekerjakan hampir sebanyak preman untuk menggertak, mengendalikan dan mencuri dari Anda.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+Mitologi agama dan negara, kemudian, adalah fiksi yang sangat mengurangi biaya untuk mengendalikan populasi; Mereka adalah pelumas dan bahan bakar untuk mesin mengerikan dari kekerasan yang dilembagakan.
 
 Di seluruh dunia, penguasa adalah persentase populasi yang sangat kecil. Bagaimana mungkin satu sampai dua persen orang bisa mengendalikan orang lain? Ada monopoli tertentu tentang persenjataan, tentu saja, tapi monopoli itu relatif mudah untuk dikonversikan, karena kebanyakan pemerintah menghasilkan banyak uang untuk menjual senjata ke seluruh dunia.
 
@@ -18,7 +18,7 @@ Our desire to be good – combined with the thrill of virtue that we get by obey
 
 Salah satu alasan utama mengapa kita tahu bahwa pemerintah dan tuhan tidak perlu adalah mereka sangat efektif. *Kita tahu bahwa kebanyakan orang sangat ingin menjadi baik karena mereka begitu mudah dikendalikan oleh teori moral*.
 
-Logika ketaatan pada mitologi sangat bodoh. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+Logika ketaatan pada mitologi sangat bodoh. Jika seorang pastor mengatakan kepada saya bahwa saya harus mematuhi "Tuhan," ini sama persis dengan dia yang mengatakan bahwa saya harus mematuhi sebuah entitas yang disebut "Nog." Sekalipun saya menerima bahwa entitas fiktif ini layak untuk menjalani ketaatan abadi, ini masih sama sekali tidak akan memaksa saya untuk taat *pendeta*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
 Tentu saja tidak.
 
