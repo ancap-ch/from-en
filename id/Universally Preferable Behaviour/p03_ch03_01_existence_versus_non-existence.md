@@ -26,15 +26,15 @@ Alasan bahwa kita telah menghabiskan begitu banyak waktu untuk berurusan dengan 
 
 Dalam pengalaman pribadi kita sendiri, kita tahu bahwa pembunuhan itu salah. Dalam mengerjakan proposisi bahwa pembunuhan salah secara moral dalam contoh di atas, saya sangat meragukan bahwa ada orang yang terkejut memiliki insting moral mereka yang dikonfirmasi melalui penalaran abstrak UPB yang ketat. Namun, di bagian ini, secara resmi Anda diperbolehkan untuk mulai betul-betul terkejut.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Lompatan terbesar ke depan dalam pemahaman ilmiah adalah apa yang disebut "teori pemersatu." Einstein menghabiskan beberapa dekade untuk mencoba menyelesaikan teori medan terpadu; dan teori fisika yang menyatukan kekuatan kuat dan lemah, elektromagnetisme, gravitasi dan sebagainya tetap sulit dipahami.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+UPB sebagai kerangka kerja, bagaimanapun, tidak hanya membenarkan naluri moral kita di tingkat pribadi, filosofis dan universal - namun juga memiliki implikasi yang mendalam dan mengejutkan bagi masyarakat.
 
-#### UPB In Action
+#### UPB dalam aksi
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+Kerangka UPB memvalidasi proposisi moral dengan menuntut agar konsisten secara internal, dan universal dalam hal waktu, tempat dan individu.
 
-If we accept UPB, we must also accept the following corollary:
+Jika kita menerima UPB, kita juga harus menerima akibat wajar berikut:
 
 - Moral propositions are independent of costume.
 
