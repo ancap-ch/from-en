@@ -32,25 +32,25 @@ Since it is impossible to act without expressing a preference – either implici
 
 ### Preferensi Dan Universalitas
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+Pertanyaan selanjutnya jadi: adalah preferensi yang murni subjektif, atau bisakah mereka universal?
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+Jelas, beberapa preferensi subjektif. Selera musik, hobi pribadi, sastra favorit dan sebagainya adalah preferensi subjektif dan pribadi.
 
 The challenge arises when we try to define some preferences as *objective*.
 
 The proposition before us is thus: *can some preferences be objective, i.e. universal?*
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. Jika saya berpendapat bahwa makan adalah pilihan yang obyektif, argumen saya bisa dibantah dengan contoh mogok makan dan anoreksia.
 
 Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
 
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. Preferensi untuk minum antibiotik daripada melakukan tarian hujan bersifat universal, karena menari tidak bisa menyembuhkan infeksi. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+Dengan kata lain, jika Anda ingin mencapai puncak gunung, berharap tidak akan berhasil. Jika Anda ingin mengetahui asal mula alam semesta, doa tidak akan pernah memberikan jawaban. Orang masih berharap, dan berdoa, tapi itu tidak membuat berharap atau berdoa lebih efektif lagi. Dengan pemikiran tersebut, mari kita beralih ke pertanyaan apakah preferensi universal dapat valid atau tidak.
 
-### Arguments And Universality
+### Argumen Dan Universalitas
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+Jika saya memilih untuk berdebat, secara implisit saya menerima berbagai macam premis yang layak meluangkan waktu untuk membongkar di sini.
 
 #### Premise 1: We Both Exist
 
