@@ -20,13 +20,13 @@ Seorang ilmuwan tidak dapat secara sah mengatakan bahwa teorinya tentang gravita
 
 Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
 
-Dengan cara yang sama, seorang ahli etika tidak dapat secara sah mengemukakan proposisi moral: "Adalah jahat untuk memperkosa *orang tua*." "Perkosaan" adalah tingkah lakunya; apakah korban sudah tua atau tidak tidak relevan dengan proposisi moral, karena selama korbannya manusia, persyaratan untuk universalitas tetap konstan. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
+Dengan cara yang sama, seorang ahli etika tidak dapat secara sah mengemukakan proposisi moral: "Adalah jahat untuk memperkosa *orang tua*." "Perkosaan" adalah tingkah lakunya; apakah korban sudah tua atau tidak tidak relevan dengan proposisi moral, karena selama korbannya manusia, persyaratan untuk universalitas tetap konstan. "Jangan mencuri" adalah proposisi moral yang sah menurut UPB - "Jangan mencuri *lobak*" bukan karena alasan sederhana pencurian terkait dengan konsep properti - dan lobak, seperti sebagian properti, tidak dapat digambarkan secara rasional dari semua bentuk properti lainnya dan diberi aturan moral mereka sendiri.
 
-The moral proposition “eating fish is evil” thus fails the test of universality because it is too specific to be generalised – it is like saying “my theory of gravity applies only to pink rocks.” If it is a theory of gravity, then it must apply to everything; if it only applies to pink rocks, then it is not a theory of gravity.
+Proposisi moral "memakan ikan adalah jahat" sehingga gagal dalam uji universalitas karena terlalu spesifik untuk digeneralisasikan - ini seperti mengatakan "teori gravitasi saya hanya berlaku untuk bebatuan merah muda." Jika ini adalah teori gravitasi, maka itu harus berlaku untuk segala hal; Jika hanya berlaku untuk batu merah muda, maka itu bukan teori gravitasi.
 
-UPB also rejects as invalid any theory that results in opposing moral judgements for identical actions. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
+UPB juga menolak teori yang tidak sah yang menghasilkan pertimbangan moral yang berlawanan untuk tindakan yang sama. "Serangan" tidak bisa bermoral suatu hari, dan tidak bermoral berikutnya. Jadi kita tahu bahwa "makan" tidak bisa bermoral suatu hari, dan tidak bermoral berikutnya.
 
-Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
+Salah satu "makan" adalah moral, tidak bermoral, atau tidak secara moral. Jika makan itu tidak bermoral, maka seluruh masalah logis muncul, yang saya yakin sudah kita kenal sekarang.
 
 If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
 
