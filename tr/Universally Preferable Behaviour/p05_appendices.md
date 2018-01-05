@@ -1,6 +1,6 @@
 # Ek Bölüm
 
-## Appendix A: UPB In A Nutshell
+## Ek A: Özetle ETD
 
 Below, please find a summation of the core argument for morality.
 
@@ -13,7 +13,7 @@ Below, please find a summation of the core argument for morality.
 7. Tartışmak, her iki tarafın hem nesnel hem de evrensel ''doğruyu'' ele almasını gerektirir.
 8. Böylece çok ağır tartışmalarda evrensel olarak tercih edilen davranışlar (ETD) kullanılır.
 9. ETD teorilerinin, mantıksal tutarlılık ve deneysel doğrulama testlerini geçmesi gerekir.
-10. The subset of UPB that examines enforceable behaviour is called “morality.”
+10. ETD'nin alt kümesi olan hiçbir ''ahlak'' teorisi mantıksız veya deneysel kanıtlarla desteklenmiyorsa gerçek olarak kabul edilemez
 11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
 12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
 
@@ -23,11 +23,11 @@ Below is a sample table that lists some of the most common categories of actions
 
 | Action/Rule                       | Preference? | Universal? | Enforceable? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                |
 | --------------------------------- | ----------- | ---------- | ------------ | ----------------------------------------------------- | ------------------------- | ----------------------------- |
-| **Running for the bus**           | No          | No         | n/a          | n/a                                                   | n/a                       | Neutral                       |
-| **You should not like ice cream** | Yes         | No         | No           | n/a                                                   | n/a                       | Neutral (personal preference) |
-| **You should not be late**        | Yes         | Yes        | No           | No                                                    | Yes                       | APA                           |
-| **You should not commit fraud**   | Yes         | Yes        | Yes          | Yes                                                   | Yes                       | Good                          |
-| **You should not rape**           | Yes         | Yes        | Yes          | No                                                    | No                        | Good                          |
+| **Running for the bus**           | Hayır       | Hayır      | bilgi yok    | bilgi yok                                             | bilgi yok                 | Tarafsız                      |
+| **You should not like ice cream** | Evet        | Hayır      | Hayır        | bilgi yok                                             | bilgi yok                 | Neutral (personal preference) |
+| **You should not be late**        | Evet        | Evet       | Hayır        | Hayır                                                 | Evet                      | APA                           |
+| **You should not commit fraud**   | Evet        | Evet       | Evet         | Evet                                                  | Evet                      | İyi                           |
+| **You should not rape**           | Evet        | Evet       | Evet         | Hayır                                                 | Hayır                     | İyi                           |
 
 ## Appendix C: UPB Podcasts
 
