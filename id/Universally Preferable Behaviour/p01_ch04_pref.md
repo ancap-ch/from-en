@@ -14,23 +14,23 @@ Thus in ethics, just as in science, mathematics, engineering and all other disci
 
 If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Preferensi tidak ada secara objektif dalam kenyataan. Jika Anda penasaran dengan obsesif, Anda mungkin bisa mengikuti saya dan mencatat setiap kali saya makan es krim, yang mungkin akan memberikan dasar empiris yang baik untuk menetapkan preferensi saya untuk itu. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
 
 We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Mengesampingkan pertanyaan menantang tentang kehendak bebas versus determinisme, masuk akal untuk mengasumsikan bahwa apa pun yang dilakukan seseorang pada saat ini adalah apa yang dia "lebih suka" lakukan. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+Mengingat bahwa manusia dapat melakukan berbagai tindakan yang hampir tak terbatas, apapun yang dilakukan seseorang pada saat ini dipilih dari semua pilihan lain yang mungkin dilakukan. Saya memilih untuk menulis buku ini daripada, katakanlah, belajar bagaimana cara tango.
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+Ketika kita menerapkan fakta sederhana ini untuk argumen etis, kita mendapatkan beberapa hasil yang sangat menarik.
 
 ### Preferences And Arguments
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Dengan berdebat bahwa preferensi tidak ada sama persis dengan mengatakan bahwa bahasa tidak ada. It is an utterly self-defeating argument.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Dengan demikian tidak mungkin untuk memperdebatkan adanya preferensi tanpa menerima adanya preferensi.
 
-### Preferences And Universality
+### Preferensi Dan Universalitas
 
 The next question thus becomes: are preferences purely subjective, or can they be universal?
 
