@@ -2,7 +2,7 @@
 
 Gagasan bahwa terlahir menciptakan sebuah kontrak dengan agensi fiktif, yang secara praktis membuat Anda menjadi budak kuasi bagi individu tertentu, adalah hal yang umum bagi agama dan negara – dan satu agen lain yang jauh lebih pribadi, yang saya bicarakan di buku pertamaku "On Truth: The Tyranny Of Illusion."
 
-Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Kapan pun seorang imam mengatakan: “Taatilah tuhan,” apa yang sebenarnya dia katakan adalah: “Taatilah *saya*.” Karena Tuhan tidak ada, Setiap perintah yang diklaim imam berasal dari Tuhan, sebenarnya berasal dari pendeta. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
 
 Ini jauh lebih efisien bagi para penghisap agar budak mereka menganggap perbudakan sebagai kebajikan, karena ia mengurangi biaya untuk mengendalikannya. Jika saya dapat meyakinkan Anda bahwa adalah jahat untuk menghindari melayani saya, dan berbudi luhur untuk menjadi budak saya, maka saya tidak perlu mempekerjakan hampir sebanyak preman untuk menggertak, mengendalikan dan mencuri dari Anda.
 
