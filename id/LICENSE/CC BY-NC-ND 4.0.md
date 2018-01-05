@@ -51,11 +51,11 @@ a. ***License grant.***
         B. memproduksi dan mereproduksi, namun tidak Share, Adapted Material for NonCommercial purpose only.
         
 
-2. **Exceptions and Limitations.** For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+2. **Pengecualian dan Keterbatasan.** Untuk menghindari keraguan, di mana Pengecualian dan Keterbatasan berlaku untuk penggunaan Anda, Lisensi Publik ini tidak berlaku, dan Anda tidak perlu mematuhi persyaratan dan ketentuannya.
 
 3. **Term.** The term of this Public License is specified in Section 6(a).
 
-4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. Anda melakukan modifikasi teknis yang diperlukan untuk menerapkan Hak Izin, termasuk modifikasi teknis yang diperlukan untuk menghindari tindakan Teknologi yang Efektif. Untuk keperluan Lisensi Publik ini, hanya melakukan modifikasi yang disahkan oleh Bagian 2 (a) (4) tidak pernah menghasilkan Bahan yang Diadaptasi.
+4. **Media dan format; modifikasi teknis yang diperbolehkan.** Pemberi Lisensi memberi wewenang kepada Anda untuk menerapkan Hak Izin di semua media dan format apakah sekarang diketahui atau selanjutnya dibuat, dan untuk melakukan modifikasi teknis yang diperlukan untuk melakukannya. Anda melakukan modifikasi teknis yang diperlukan untuk menerapkan Hak Izin, termasuk modifikasi teknis yang diperlukan untuk menghindari tindakan Teknologi yang Efektif. Untuk keperluan Lisensi Publik ini, hanya melakukan modifikasi yang disahkan oleh Bagian 2 (a) (4) tidak pernah menghasilkan Bahan yang Diadaptasi.
     
     1. **Downstream recipients.**
         
