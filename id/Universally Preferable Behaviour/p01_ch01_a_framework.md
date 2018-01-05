@@ -2,7 +2,7 @@
 
 Proposisi yang etis ialah berbeda dari tipe yang lain pada pernyataan pengetahuan. Jika saya katakan, "saya suka jazz," itu mungkin menjadi sebuah pernyataan yang benar atau salah, tetapi itu secara umumnya tidak dianggap mengikat anda dalam cara apapun. Pilihan saya untuk jazz adalah pernyataan belaka dari kegemaran pribadi; berdasarkan dari pernyataan saya, itu bukan berarti anda wajib menyukai atau tidak menyukai jazz.
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+Begitu juga, jika saya katakan "saya suka sayuran," itu juga sebuah pernyataan belaka dari pilihan pribadi. Namun, Bila saya, "sayuran adalah makanan menyehatkan," kemudia saya telah beralih dari pernyataan dari pilihan pribadi menjadi pernyataan yang fakta. Itu adalah perbedaan antara "saya suka es krim," dan,"eskrim yang mengandung susu."
 
 The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
 
