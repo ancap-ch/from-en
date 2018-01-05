@@ -1,14 +1,14 @@
 ### Pemerintah dan Agama
 
-The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
+Gagasan bahwa terlahir menciptakan sebuah kontrak dengan agensi fiktif, yang secara praktis membuat Anda menjadi budak kuasi bagi individu tertentu, adalah hal yang umum bagi agama dan negara – dan satu agen lain yang jauh lebih pribadi, yang saya bicarakan di buku pertamaku "On Truth: The Tyranny Of Illusion."
 
 Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+Ini jauh lebih efisien bagi para penghisap agar budak mereka menganggap perbudakan sebagai kebajikan, karena ia mengurangi biaya untuk mengendalikannya. Jika saya dapat meyakinkan Anda bahwa adalah jahat untuk menghindari melayani saya, dan berbudi luhur untuk menjadi budak saya, maka saya tidak perlu mempekerjakan hampir sebanyak preman untuk menggertak, mengendalikan dan mencuri dari Anda.
 
 Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
 
-Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Di seluruh dunia, penguasa adalah persentase populasi yang sangat kecil. Bagaimana mungkin satu sampai dua persen orang bisa mengendalikan orang lain? Ada monopoli tertentu tentang persenjataan, tentu saja, tapi monopoli itu relatif mudah untuk dikonversikan, karena kebanyakan pemerintah menghasilkan banyak uang untuk menjual senjata ke seluruh dunia.
 
 The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
 
@@ -16,11 +16,11 @@ Our personal pride would instinctively rebel against a immediate and enforced sl
 
 Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
 
-One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+Salah satu alasan utama mengapa kita tahu bahwa pemerintah dan tuhan tidak perlu adalah mereka sangat efektif. *Kita tahu bahwa kebanyakan orang sangat ingin menjadi baik karena mereka begitu mudah dikendalikan oleh teori moral*.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+Logika ketaatan pada mitologi sangat bodoh. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
-Of course not.
+Tentu saja tidak.
 
 When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
 
@@ -28,27 +28,27 @@ Let’s take as an example a very real and present danger: taxation.
 
 #### Taxation
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Saya diberitahu bahwa, berdasarkan memilih untuk tinggal di Kanada, saya berhutang "pemerintah" lebih dari lima puluh persen dari penghasilan saya.
 
-Stripped of mythology, what does this really translate to?
+Stripped mitologi, apa ini benar-benar diterjemahkan?
 
-In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+Pada kenyataannya, saya akan menunggu sampai akhir zaman untuk "pemerintah" datang dan mengambil uangnya. Menunggu "pemerintah" untuk mampir adalah seperti ingin berkencan dengan konsep "feminitas." Saya mungkin juga mencoba untuk membayar makan malam saya dengan kata "uang."
 
-In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+Kenyataannya, ketika saya diberi tahu bahwa saya harus membayar pajak saya kepada "pemerintah," sebenarnya ini berarti saya harus menulis cek untuk mentransfer uang saya ke rekening bank tertentu, yang kemudian diakses oleh individu tertentu. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+Sama sekali tidak ada entitas seperti "pemerintah" yang mengangkat jari, bergerak, membuka rekening bank, atau menghabiskan satu sen. Membayangkan bahwa sebuah konsep yang disebut "pemerintah" memiliki kapasitas untuk mengambil atau menghabiskan uang Anda sama persis dengan menunggu "Tuhan" datang dan menjemput Anda dan membawa Anda ke gereja.
 
-Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+Dengan demikian, interaksi sebenarnya adalah bahwa satu orang mengirimkan sebuah surat kepada saya bahwa saya berhutang kepadanya. Saya tidak memiliki kontrak dengan orang ini, dan dia sebenarnya bukan pemilik properti saya, walaupun beberapa orang lain menulis "kontrak" yang seharusnya mengklaim bahwa dia melakukannya.
 
 If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
 
-Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Biasanya, ketika seorang pria dengan pistol datang ke rumah saya dan menuntut uang saya, saya memiliki hak untuk menggunakan kekuatan untuk membela diri. Namun, dalam kasus ini, karena dia mengenakan kostum dan klaim untuk mewakili entitas fiktif, saya tidak diizinkan menggunakan kekuatan untuk membela diri.
 
-Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
+Sekarang, jika saya datang ke rumah Anda malam ini berpakaian seperti "elf Narnia yang tinggi" dan meminta uang yang Anda berutang kepada "Ratu Kesengsaraan", dengan asumsi itu bukan Halloween, Anda diperbolehkan untuk menatap saya dengan takjub, dan pesan saya dari milikmu.
 
-If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
+If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. Dia bisa menahanku di sel mungil selama bertahun-tahun, di mana aku akan mengalami kebrutalan yang paling kejam dan pemerkosaan terus-menerus, sampai dia memilih untuk membiarkanku pergi.
 
-Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+Menariknya, jika seseorang secara sah berhutang padaku, aku tidak diizinkan untuk menculiknya dan membuatnya disiksa dan diperkosa selama bertahun-tahun. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
 
 Stealing, as we have proven, is evil.
 
