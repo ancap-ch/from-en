@@ -25,17 +25,17 @@ A continuación se encuentra una tabla ejemplo que enumero algunas de las catego
 | --------------------------------- | ------------- | ----------- | ---------- | ----------------------------------------------------- | ------------------------------------ | ------------------------------ |
 | **Correr para alcanzar el bus**   | No            | No          | n/a        | n/a                                                   | n/a                                  | Neutral                        |
 | **No debería gustarte el helado** | Sí            | No          | No         | n/a                                                   | n/a                                  | Neutral (preferencia personal) |
-| **You should not be late**        | Yes           | Yes         | No         | No                                                    | Yes                                  | APA                            |
-| **You should not commit fraud**   | Yes           | Yes         | Yes        | Yes                                                   | Yes                                  | Good                           |
-| **You should not rape**           | Yes           | Yes         | Yes        | No                                                    | No                                   | Good                           |
+| **No deberías ir tarde**          | Sí            | Sí          | No         | No                                                    | Sí                                   | APA                            |
+| **No deberías cometer fraude**    | Sí            | Sí          | Sí         | Sí                                                    | Sí                                   | Buena                          |
+| **No deberías violar**            | Sí            | Sí          | Sí         | No                                                    | No                                   | Buena                          |
 
-## Appendix C: UPB Podcasts
+## Apéndice C: Podcasts de CUP
 
-If you would like to further your understanding of UPB and its ramifications, you might find the following podcasts (available [here](www.freedomainradio.com)) helpful. You may also wish to watch the “Introduction to Philosophy” videos, available on [Youtube](www.youtube.com/freedomainradio).
+Si desea mejorar su comprensión de la CUP y sus ramificaciones, podrá encontrar útiles los siguientes podcasts (disponibles [aquí](www.freedomainradio.com)). También puede que desee ver los vídeos de "Introducción a la Filosofía", disponibles en [Youtube](www.youtube.com/freedomainradio).
 
-| Track | Title                                                         | Description                                                                                                                                                                                                        |
+| Pista | Título                                                        | Descripción                                                                                                                                                                                                        |
 | -----:|:------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|     8 | Proving Libertarian Morality                                  | One of the central challenges faced by libertarians is the need to prove that libertarian moral theory is universally correct, while statist and collectivistic moral theories are incorrect. Here's how to do it! |
+|     8 | Demostrando la Moralidad Libertaria                           | One of the central challenges faced by libertarians is the need to prove that libertarian moral theory is universally correct, while statist and collectivistic moral theories are incorrect. Here's how to do it! |
 |   560 | Call In Show Dec 17 2006                                      | Universally preferable behaviour and rating dating.                                                                                                                                                                |
 |   562 | Universally Preferable Behaviour for Children                 | The ABCs of UPB.                                                                                                                                                                                                   |
 |   872 | Debating and UPB                                              | Can you debate without using UPB?                                                                                                                                                                                  |
