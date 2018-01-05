@@ -28,29 +28,29 @@ UPB juga menolak teori yang tidak sah yang menghasilkan pertimbangan moral yang 
 
 Salah satu "makan" adalah moral, tidak bermoral, atau tidak secara moral. Jika makan itu tidak bermoral, maka seluruh masalah logis muncul, yang saya yakin sudah kita kenal sekarang.
 
-If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
+Jika, di sisi lain, makan adalah *moral*, maka tidak mungkin bermoral untuk makan kubis, dan tidak bermoral untuk makan ikan, karena itu adalah pelanggaran universalitas, sepanjang tindakan yang sama - makan - dinilai baik dan buruk.
 
 It is in this way that we understand that the proposition “eating *fish* is evil” fails the test of UPB, and is not valid as a moral theory.
 
-### Animal Rights
+### Hak binatang
 
-We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
+Kita tidak punya waktu di sini untuk membahas diskusi hak-hak binatang secara keseluruhan, tapi setidaknya kita bisa menangani proposisi moral: "Adalah jahat untuk membunuh ikan."
 
-If it is evil to kill fish, then UPB says that anyone or anything that kills the fish is evil. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
+Jika memang jahat membunuh ikan, maka UPB mengatakan bahwa siapapun atau apapun yang membunuh ikan itu jahat. Ini termasuk bukan hanya nelayan, tapi hiu juga - karena jika membunuh ikan itu jahat, kita telah memperluas definisi kita tentang "pelaku" etis untuk memasukkan kehidupan non-manusia.
 
-It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
+Jelas bahwa hiu tidak memiliki kapasitas untuk menahan diri dari membunuh ikan, karena pada dasarnya mereka memakan mesin dengan sirip.
 
 Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
 
-Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
+Juga, kata "ikan" tetap bermasalah dalam perumusannya, karena terlalu spesifik untuk bersifat universal. Perumusan UPB yang tepat adalah: "Adalah jahat bagi orang untuk membunuh organisme hidup."
 
-If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+Jika, bagaimanapun, adalah jahat untuk dibunuh, kita lagi menghadapi masalah "kejahatan yang tak terelakkan." Tidak ada manusia yang bisa ada tanpa membunuh organisme lain seperti virus, tumbuhan, atau binatang. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
 
-What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
+Bagaimana jika kita mengatakan: "Adalah jahat membunuh orang" - apakah itu akan membuat hiu pemakan manusia jahat?
 
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
+Tidak - sekali lagi, karena ikan hiu tidak memiliki kapasitas untuk menghindari pembunuhan orang, mereka tidak bertanggung jawab atas tindakan semacam itu, lebih dari sekedar tanah longsor dapat dibawa ke pengadilan jika membunuh seorang pria.
 
-UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
+UPB memungkinkan pengecualian berdasarkan pada materi objektif dan universal atau perbedaan biologis, seperti ilmu pengetahuan lainnya. Teori ilmiah bahwa gas berkembang saat dipanaskan berlaku, tentu saja, hanya untuk gas. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
 
 In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
 
