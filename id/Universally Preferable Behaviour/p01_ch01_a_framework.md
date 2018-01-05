@@ -10,13 +10,13 @@ Jika saya katakan bumi itu bulat, dan saya memberikan banyak bukti untuk pernyat
 
 Jika saya menerima validitas hukum-hukum matematika, Saya tidak bisa seenaknya menolak bukti matematika yang sudah sesui dengan hukum tersebut. Jika saya*memang*menolak semacam bukti, saya tidak bisa lagi klaim untuk menerima validitas dari hukum matematika. Penerimaan saya atas hukum ini bermaksud bahwa saya*pasti*menerima sebagai bukti valid yang sesuai dengan hukum ini. Penolakan dari sebuah bukti yang sesuai standar rasio adalah sebuah penolakan dengan standar rasio secara keseluruhan.
 
-Metode ilmiah, rasionalitas itu sendiri, dan hukum matematis ialah semua contoh dari*objektif*kriteria untuk membangun kebenaran dari sebuah proposisi. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+Metode ilmiah, rasionalitas itu sendiri, dan hukum matematis ialah semua contoh dari*objektif*kriteria untuk membangun kebenaran dari sebuah proposisi. Ini bukanlah pendapat saya bahwa dua dan dua menghasilkan empat - jika anda juga menerima bahwa dua dan dua menghasilkan empat, anda tidak hanya tunduk pada pendapat saya, tapi juga pada kebenaran yang rasional.
 
-### Objective Truth
+### Kebenaran yang objektif
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+Sebuah tantangan utama dalam memahami kebenaran yang alami adalah kesadaran bahwa "kebenaran" itu tidak ada di dunia sama halnya seperti batu atau pohon yang mempunyainya.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+Konsep "kebenaran" membutuhkan sebuah istilah yang relatif - pemikiran bahwa itu tidak bermaksud sebuah subjektif atau istilah wewenang. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
 
 This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
 
