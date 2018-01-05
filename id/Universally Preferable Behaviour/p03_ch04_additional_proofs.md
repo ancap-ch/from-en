@@ -1,24 +1,24 @@
 ## Bukti Tambahan
 
-There are other additional proofs that we can bring to bear on the question of universally preferable behaviour.
+Ada bukti tambahan lain yang dapat kita bawa pada pertanyaan tentang perilaku yang lebih baik secara universal.
 
-### The Free-Market Economy
+### Ekonomi Pasar Bebas
 
-A free-market economy is without a doubt the most efficient and wealth-producing method of organising the production and consumption of goods and resources within society. Its material success is without equal in human history, or across the world.
+Ekonomi pasar bebas tidak diragukan lagi merupakan metode produksi dan konsumsi barang dan sumber daya yang paling efisien dan paling efisien dalam produksi masyarakat. Keberhasilan materialnya tidak sama dengan sejarah manusia, atau di seluruh dunia.
 
-The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
+Kerangka kerja UPB mengantisipasi, memvalidasi dan menjelaskan alasan keberhasilan material dari ekonomi pasar bebas.
 
-In theory, a free-market economy is based on the application of a universal theory of property rights. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+Secara teori, ekonomi pasar bebas didasarkan pada penerapan teori hak properti universal. Sebaliknya, komunisme didasarkan pada penolakan eksplisit terhadap teori hak properti universal. Karena kita telah membuktikan bahwa hak kepemilikan universal adalah satu-satunya teori moral yang valid, ini menjelaskan pada tingkat paling mendasar mengapa komunisme adalah sebuah bencana, sementara ekonomi pasar bebas sangat produktif.
 
-Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
+Karena manusia sebenarnya memiliki hak kepemilikan yang sama, sistem sosial mana pun yang menolak hak ini pasti gagal total - sama seperti setiap perencana jembatan yang menolak kenyataan gravitasi tidak akan pernah bisa membangun jembatan yang berdiri.
 
-### The Scientific Method
+### Metode Ilmiah
 
-Logic and science are in fact methodologies which exist – along with morality – under the umbrella of UPB. In other words, logic and science are both validated by the framework of UPB.
+Logika dan sains sebenarnya adalah metodologi yang ada - bersamaan dengan moralitas - di bawah payung UPB. Dengan kata lain, logika dan sains keduanya divalidasi oleh kerangka UPB.
 
-A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
+Pertanyaan utama yang perlu dijawab adalah: Mengapa metode ilmiah jauh lebih unggul dari "metodologi" pengetahuan akuisisi pengetahuan lainnya, seperti mistisisme? </ 0>
 
-UPB answers this question.
+UPB menjawab pertanyaan ini.
 
 Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
 
