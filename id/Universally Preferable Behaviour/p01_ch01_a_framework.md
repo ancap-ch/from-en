@@ -6,7 +6,7 @@ Begitu juga, jika saya katakan "saya suka sayuran," itu juga sebuah pernyataan b
 
 Perbedaan yang mendasar antara pernyataan*preferensi*dan pernyataan fakta bahwa pernyataan*fakta*adalah pernyataan yang objektif, dapat diuji dan mengikat. Jika kamu menilai kebenaran, maka anda wajib menerima fakta bahwa es krim mengandung susu, setelah itu terbukti.[^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Jika saya katakan bumi itu bulat, dan saya memberikan banyak bukti untuk pernyataan ini, itu adalah anda tidak bisa lagi menentukan sendiri apakah pernyataan itu benar. Jika saya dapat bukti bahwa bumi itu bulat, kemudian kamu pasti menerima bahwa itu benar, kecuali kamu bersedia menolak alasan dan bukti sebagai kriteria untuk kebenaran.
 
 If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
 
