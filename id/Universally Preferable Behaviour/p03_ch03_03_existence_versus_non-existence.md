@@ -22,11 +22,11 @@ Logika ketaatan pada mitologi sangat bodoh. Jika seorang pastor mengatakan kepad
 
 Tentu saja tidak.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+Saat kita menanggalkan mitologi dan fiksi dari kita “interaksi” dengan para penguasa kita, Apa yang muncul adalah realitas yang suram, kejam, dan membunuh.
 
-Let’s take as an example a very real and present danger: taxation.
+Mari kita ambil sebagai contoh bahaya yang sangat nyata dan sekarang: perpajakan.
 
-#### Taxation
+#### Perpajakan
 
 Saya diberitahu bahwa, berdasarkan memilih untuk tinggal di Kanada, saya berhutang "pemerintah" lebih dari lima puluh persen dari penghasilan saya.
 
@@ -34,13 +34,13 @@ Stripped mitologi, apa ini benar-benar diterjemahkan?
 
 Pada kenyataannya, saya akan menunggu sampai akhir zaman untuk "pemerintah" datang dan mengambil uangnya. Menunggu "pemerintah" untuk mampir adalah seperti ingin berkencan dengan konsep "feminitas." Saya mungkin juga mencoba untuk membayar makan malam saya dengan kata "uang."
 
-Kenyataannya, ketika saya diberi tahu bahwa saya harus membayar pajak saya kepada "pemerintah," sebenarnya ini berarti saya harus menulis cek untuk mentransfer uang saya ke rekening bank tertentu, yang kemudian diakses oleh individu tertentu. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+Kenyataannya, ketika saya diberi tahu bahwa saya harus membayar pajak saya kepada "pemerintah," sebenarnya ini berarti saya harus menulis cek untuk mentransfer uang saya ke rekening bank tertentu, yang kemudian diakses oleh individu tertentu. Orang-orang ini kemudian memiliki hak untuk mengambil uang itu, dan menghabiskannya sesuai yang mereka inginkan – tIndividu-individu tertentu yang memiliki kendali penuh atas uang saya.
 
 Sama sekali tidak ada entitas seperti "pemerintah" yang mengangkat jari, bergerak, membuka rekening bank, atau menghabiskan satu sen. Membayangkan bahwa sebuah konsep yang disebut "pemerintah" memiliki kapasitas untuk mengambil atau menghabiskan uang Anda sama persis dengan menunggu "Tuhan" datang dan menjemput Anda dan membawa Anda ke gereja.
 
 Dengan demikian, interaksi sebenarnya adalah bahwa satu orang mengirimkan sebuah surat kepada saya bahwa saya berhutang kepadanya. Saya tidak memiliki kontrak dengan orang ini, dan dia sebenarnya bukan pemilik properti saya, walaupun beberapa orang lain menulis "kontrak" yang seharusnya mengklaim bahwa dia melakukannya.
 
-If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
+Jika saya tidak membayar orang ini, dia akan mengirim orang lain ke rumah saya untuk mengumpulkan uangnya – plus “bunga” dan “mengisi.”
 
 Biasanya, ketika seorang pria dengan pistol datang ke rumah saya dan menuntut uang saya, saya memiliki hak untuk menggunakan kekuatan untuk membela diri. Namun, dalam kasus ini, karena dia mengenakan kostum dan klaim untuk mewakili entitas fiktif, saya tidak diizinkan menggunakan kekuatan untuk membela diri.
 
