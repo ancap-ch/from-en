@@ -8,26 +8,26 @@ Below, please find a summation of the core argument for morality.
 2. "Mantık", gerçekliğin tutarlılığından türetilmiş objektif ve tutarlı kurallar dizisidir.
 3. Mantığa uyan teorilere ''geçerli'' teori denir
 4. Deneysel teste uyan teorilere ''kesin'' teori denir
-5. Hem geçerli hem de kesin olan teorilere ''gerçek'' denir
+5. Hem geçerli hem de kesin olan teorilere ''doğru'' denir
 6. ''Tercihler'' yaşam, düşünce, dil ve tartışma için gereklidir.
 7. Tartışmak, her iki tarafın hem nesnel hem de evrensel ''doğruyu'' ele almasını gerektirir.
 8. Böylece çok ağır tartışmalarda evrensel olarak tercih edilen davranışlar (ETD) kullanılır.
 9. ETD teorilerinin, mantıksal tutarlılık ve deneysel doğrulama testlerini geçmesi gerekir.
-10. ETD'nin alt kümesi olan hiçbir ''ahlak'' teorisi mantıksız veya deneysel kanıtlarla desteklenmiyorsa gerçek olarak kabul edilemez
-11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
-12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
+10. Uygulanabilir davranışı inceleyen ETD'nin alt kümesine "ahlak" denir
+11. ETD'nin alt kümesi olan hiçbir ''ahlak'' teorisi mantıksız veya deneysel kanıtlarla desteklenmiyorsa gerçek olarak kabul edilemez.
+12. Mantık ve kanıtla desteklenen ahlak teorileri doğrudur. Diğer ahlak teorileri yanlıştır.
 
-## Appendix B: Moral Categories
+## Ek B: Ahlak Kategorileri
 
-Below is a sample table that lists some of the most common categories of actions/rules, and their key differentiators.
+Aşağıda en yaygın eylem/kural kategorilerini ve onların temel farklılıklarını listeyen örnek bir tablo bulunmaktadır.
 
-| Action/Rule                       | Preference? | Universal? | Enforceable? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                |
-| --------------------------------- | ----------- | ---------- | ------------ | ----------------------------------------------------- | ------------------------- | ----------------------------- |
-| **Running for the bus**           | Hayır       | Hayır      | bilgi yok    | bilgi yok                                             | bilgi yok                 | Tarafsız                      |
-| **You should not like ice cream** | Evet        | Hayır      | Hayır        | bilgi yok                                             | bilgi yok                 | Neutral (personal preference) |
-| **You should not be late**        | Evet        | Evet       | Hayır        | Hayır                                                 | Evet                      | APA                           |
-| **You should not commit fraud**   | Evet        | Evet       | Evet         | Evet                                                  | Evet                      | İyi                           |
-| **You should not rape**           | Evet        | Evet       | Evet         | Hayır                                                 | Hayır                     | İyi                           |
+| Eylem/Kural                       | Tercih? | Evrensel? | Uygulanabilirlik? | Eylemin başlatılması mağdur tarafından gerekli mi? | İhlal eden kimseler önlenebilir mi? | Ahlak Kategorisi              |
+| --------------------------------- | ------- | --------- | ----------------- | -------------------------------------------------- | ----------------------------------- | ----------------------------- |
+| **Running for the bus**           | Hayır   | Hayır     | bilgi yok         | bilgi yok                                          | bilgi yok                           | Tarafsız                      |
+| **You should not like ice cream** | Evet    | Hayır     | Hayır             | bilgi yok                                          | bilgi yok                           | Neutral (personal preference) |
+| **You should not be late**        | Evet    | Evet      | Hayır             | Hayır                                              | Evet                                | APA                           |
+| **You should not commit fraud**   | Evet    | Evet      | Evet              | Evet                                               | Evet                                | İyi                           |
+| **You should not rape**           | Evet    | Evet      | Evet              | Hayır                                              | Hayır                               | İyi                           |
 
 ## Appendix C: UPB Podcasts
 
