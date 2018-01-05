@@ -2,15 +2,15 @@
 
 Sebagai hasil dari argumen di atas, kita dapat melihat bahwa tidak mungkin untuk masuk ke dalam perdebatan apapun tanpa menerima tempat bahwa perilaku tertentu *lebih disukai secara universal*.
 
-I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
+Saya menggunakan kata"perilaku" di sini dari pada "berpikir" karena penting untuk membedakan antara keadaan internal dan tidak dapat disahkan murni seperti "pemikiran" dari negara-negara yang obyektif dan dapat disahkan seperti "akting," "menulis" dan"berbicara".
 
-It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant,” which is why I use the word “behaviour” rather than “thought.”
+Tidak mungkin membuktikan bahwa saya mengimpikan seekor gajah tadi malam. Ada kemungkinan untuk membuktikan bahwa saya telah menulis kata "gajah," oleh karena itu saya menggunakan kata "tingkah laku" daripada "pikiran".
 
-Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+Mengakuisisi ke logika unggul dalam sebuah argumen adalah * action </ 0>. Jika, setiap kali saya memberikan satu poin kepada Anda, saya tidak mengatakan apa-apa, tapi hanya menatap Anda dengan kosong, Anda akan merasa agak sulit untuk memperdebatkan saya. Untuk mengakui satu poin, saya harus melakukan tindakan persetujuan lisan.</p> 
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+Dengan demikian dapat dilihat bahwa, yang melekat dalam tindakan berdebat adalah sejumlah tempat tertanam yang tidak dapat dibalikkan dapat dibalikkan.
 
-If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+Jika saya meminta Anda untuk menemuiku di lapangan tenis, dan menampakkan diri dengan senapan berburu, kita mungkin akan bermain olah raga, tapi pastinya tidak akan tenis. Ketika saya meminta Anda untuk menemuiku di lapangan tenis untuk sebuah pertandingan, tersirat dalam permintaan itu adalah penerimaan peraturan tenis.
 
 Historically, those engaged in ethical debating have often failed to maintain this basic reality.
 
