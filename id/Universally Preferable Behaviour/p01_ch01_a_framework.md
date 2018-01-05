@@ -60,15 +60,15 @@ Logic, science and truth, then, are impossible in the absence of *consistency*.
 
 Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+Persepsi realitas konsisten dan objektif - dan dari konsistensi dan objektivitas inilah kita memperoleh hukum logika. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
 
 The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Ini adalah akar dari kriteria kunci dari metode ilmiah - reproduktifitas. Jika saya membuat klaim universal tentang sifat gravitasi, maka Anda harus bisa mereproduksi klaim itu di lingkungan Anda sendiri. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
 
 If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Dengan demikian kita dapat menerima bahwa kita harus mengukur validitas sebuah pernyataan yang berkaitan dengan realitas obyektif - secara empiris, dan logis. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
 
 ### The Existence Of "Truth"
 
