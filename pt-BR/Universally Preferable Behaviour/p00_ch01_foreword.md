@@ -24,7 +24,7 @@ Já que nós temos permanecido incapazes de definir um sistema racional de moral
 
 Visto que o que chamamos de ética segue subjetivo e meramente *cultural*, nós inevitavelmente acabamos dependendo de "bullying", medo e violência para impormos as regras sociais. Uma vez que a ética carece de uma base racional como o método científico, a “moralidade” permanece presa numa guerra tribal de mitologias sangrentas; cada gangue lutando com unhas e dentes pela lealdade do povo à “virtude".
 
-Somos incapazes de viver sem moralidade, porém também incapazes de definir moralidade objetivamente — sendo assim, permanecemos eternamente condenados à vidas vazias de hipocrisia egocêntrica, dominação cínica ou devota servidão.
+Somos incapazes de viver sem moralidade, porém também incapazes de definir moralidade objetivamente — sendo assim, permanecemos eternamente condenados à vidas vazias de hipocrisia egocêntrica, dominação cínica ou servidão cínica.
 
 Intelectualmente, não há maior aposta no mundo. Nossa falha em definir regras morais objetivas e racionais custou centenas de milhões de vidas humanas, nas guerras de religiões e estados.
 
