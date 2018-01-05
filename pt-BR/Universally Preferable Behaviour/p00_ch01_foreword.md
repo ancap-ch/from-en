@@ -10,9 +10,9 @@ A fera é sempre imortal, então os aldeões não podem esperar que o tempo os l
 
 A única esperança dos aldeões desesperados é que um homem capaz de derrotar o monstro apareça.
 
-Inevitavelmente, um homem avança na vista de todos, ser completamente atemporal. Ele é um garoto do estábulo, um filho de um sapateiro, um aprendiz de padeiro – as vezes, é só um andarilho.
+Inevitavelmente, um homem dá um passo a frente que atinge todos de maneira completamente incongruente. Ele é um garoto do estábulo, um filho de um sapateiro, um aprendiz de padeiro – as vezes, é só um andarilho.
 
-Esse livro é a história da minha *investida</> pessoal desta fera.</p> 
+Esse livro é a história da minha investida pessoal nesta fera.
 
 Desta "fera" vem a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. Esta "criatura" é a ilusão de que a moralidade deve para sempre ficar perdida entre pântanos irracionais de deuses e governos, imposta meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Desta "besta" vem a fantasia da virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares, e esquecida para ser emboscada aqui, sendo explorada por políticos e padres – e pais. Essa "fera" é a superstição que, sem a repressão dos pais, o "bullying" de deuses ou as armas dos governos, somos incapazes de ser bons e racionais.
 
