@@ -10,11 +10,11 @@ Jelas, penipuan mensyaratkan bahwa satu orang *tidak* terlibat dalam penipuan. D
 
 Jelas, karena penipuan terjadi, satu pihak harus bertindak dengan itikad baik. Jadi orang yang ingin melakukan penipuan bergantung pada fakta bahwa orang lain *tidak* ingin melakukan penipuan, untuk memangsa dia.
 
-To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
+Untuk kembali ke kelinci percobaan moral kita yang malang, apa yang akan terjadi jika kita meminta Bob dan Doug untuk bertindak berdasarkan prinsip moral bahwa "penipuan itu baik"? Jika Doug memiliki dua puluh dolar, dan Bob memiliki korek api, dan Doug menawarkan Bob dua puluh dolar untuk korek api itu, dan kemudian mengambil korek apinya tapi tidak memberi Bob dua puluh dolar itu, maka Doug telah bertindak berdasarkan dugaan bahwa penipuan itu baik.
 
-What happens then?
+Apa yang terjadi kemudian?
 
-Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
+Jelas, prinsip bahwa "penipuan itu baik" tidak dapat ditindaklanjuti oleh Doug dan Bob secara bersamaan - karena untuk melakukan penipuan, Doug harus bertindak tidak jujur, dan Bob harus bertindak jujur. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
 
 UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
 
