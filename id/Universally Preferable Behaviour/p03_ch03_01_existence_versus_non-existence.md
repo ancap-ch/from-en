@@ -24,7 +24,7 @@ Realitas sebenarnya dari pernyataan "kesalahan sama dengan kebenaran" adalah keg
 
 Alasan bahwa kita telah menghabiskan begitu banyak waktu untuk berurusan dengan teori "alam semesta alternatif" ini adalah bahwa ia memiliki relevansi langsung dengan masyarakat manusia, dan digunakan untuk "membenarkan" kejahatan terbesar yang dilakukan di antara kita.
 
-Dalam pengalaman pribadi kita sendiri, kita tahu bahwa pembunuhan itu salah. Dalam mengerjakan proposisi bahwa pembunuhan salah secara moral dalam contoh di atas, saya sangat meragukan bahwa ada orang yang terkejut memiliki insting moral mereka yang dikonfirmasi melalui penalaran abstrak UPB yang ketat. In this section, however, it is officially permissible for you to begin to be truly shocked.
+Dalam pengalaman pribadi kita sendiri, kita tahu bahwa pembunuhan itu salah. Dalam mengerjakan proposisi bahwa pembunuhan salah secara moral dalam contoh di atas, saya sangat meragukan bahwa ada orang yang terkejut memiliki insting moral mereka yang dikonfirmasi melalui penalaran abstrak UPB yang ketat. Namun, di bagian ini, secara resmi Anda diperbolehkan untuk mulai betul-betul terkejut.
 
 The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
 
