@@ -8,7 +8,7 @@ Perbedaan yang mendasar antara pernyataan*preferensi*dan pernyataan fakta bahwa 
 
 Jika saya katakan bumi itu bulat, dan saya memberikan banyak bukti untuk pernyataan ini, itu adalah anda tidak bisa lagi menentukan sendiri apakah pernyataan itu benar. Jika saya dapat bukti bahwa bumi itu bulat, kemudian kamu pasti menerima bahwa itu benar, kecuali kamu bersedia menolak alasan dan bukti sebagai kriteria untuk kebenaran.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+Jika saya menerima validitas hukum-hukum matematika, Saya tidak bisa seenaknya menolak bukti matematika yang sudah sesui dengan hukum tersebut. Jika saya*memang*menolak semacam bukti, saya tidak bisa lagi klaim untuk menerima validitas dari hukum matematika. Penerimaan saya atas hukum ini bermaksud bahwa saya*pasti*menerima sebagai bukti valid yang sesuai dengan hukum ini. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
 
 The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
 
