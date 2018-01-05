@@ -1,12 +1,12 @@
 ## creative commons
 
-# Attribution-NonCommercial-NoDerivatives 4.0 International
+# Atribución-NoComercial-NoDerivativas 4.0 internacional
 
-Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+La corporación Creative Commons ("Creative Commons") no es una firma de abogados y no proporciona servicios legales o asesoramiento legal. La distribución pública de las licencias Creative Commons no crea una relación abogado-cliente u otro tipo de relación. Creative Commons hace sus licencias e información relacionada, disponible en la base "as-is". Creative Commons no proporciona garantías con respecto a sus licencias, de ningún material licenciado bajo sus términos y condiciones. o cualquier información relacionada. Creative Commons se exime de toda responsabilidad por daños resultante de su uso en la mayor medida posible.
 
-### Using Creative Commons Public Licenses
+### Utilizando Licencias Públicas de Creative Commons
 
-Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
+Las licencias públicas de Creative Commons proporcionan un conjunto estándar de términos y condiciones que creadores y otros titulares de derechos pueden usar para compartir autorías de trabajos originales y otro material sujeto a derechos de autor y algunos otros derechos especificados en la licencia pública a continuación. Las siguientes consideraciones son sólo para propósitos informales, no son exhaustivas, y no forman parte de nuestras licencias.
 
 * **Considerations for licensors:** Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. [More considerations for licensors](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors).
 
