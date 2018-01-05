@@ -38,7 +38,7 @@ The same is true in the realm of morality.
 
 ### The Casualties
 
-Crossing this “null zone” is fraught with peril. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+Crossing this “null zone” is fraught with peril. Jalan dari kebenaran kecil menuju kebenaran besar diaspal dengan tulang jutaan orang. Dari kematian Sokrates hingga penyiksaan ilmuwan awal oleh para fanatik religius, kepada jutaan orang yang telah membunuh dan meninggal karena fantasi hitam fasisme dan komunisme, dorongan pengetahuan manusia ke dalam "zona nol" penuh dengan bahaya yang cukup besar.
 
 Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
 
@@ -48,7 +48,7 @@ If we understand that our staggering potential has been available to us for at l
 
 Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Sama seperti keuntungan petani dari rendahnya kecerdasan sapi, dan pemilik budak memperoleh keuntungan dari ketakutan para budaknya, para imam dan raja mempertahankan hak istimewa mereka dengan mengancam siapa pun yang berani berpikir.
 
 The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
 
