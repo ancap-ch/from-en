@@ -24,15 +24,15 @@ Sekarang mari kita beralih ke serangkaian bukti positif untuk UPB.
 
 Salah satu tantangan utama yang dihadapi oleh para filsuf moderen adalah kebutuhan untuk membuktikan bahwa peraturan moral keduanya mungkin dan universal. Sampai peraturan moral dapat dikenai ketelitian dan logika yang sama seperti proposisi lainnya, kita akan terhalang oleh subjektivisme, prasangka politik dan argumen "pragmatis" dari efek.
 
-Analogi historis terdekat dengan situasi kita saat ini terjadi pada abad kelima belas dan keenambelas, pada saat kebangkitan metode ilmiah. Perintis awal yang menganjurkan pendekatan rasional dan empiris terhadap pengetahuan menghadapi prasangka yang sama dengan yang kita hadapi saat ini - semua irasionalitas yang sama, kekuatan gereja dan negara yang tertanam, mistis dan subyektif "benar" dan hambatan pendidikan awal. Mereka yang menganjurkan keutamaan rasionalitas dan pengamatan empiris mengenai fundamentalisme Alkitabiah dan tirani sekuler menghadapi oposisi yang ditentukan dari mereka yang menggunakan salib dan pedang. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
+Analogi historis terdekat dengan situasi kita saat ini terjadi pada abad kelima belas dan keenambelas, pada saat kebangkitan metode ilmiah. Perintis awal yang menganjurkan pendekatan rasional dan empiris terhadap pengetahuan menghadapi prasangka yang sama dengan yang kita hadapi saat ini - semua irasionalitas yang sama, kekuatan gereja dan negara yang tertanam, mistis dan subyektif "benar" dan hambatan pendidikan awal. Mereka yang menganjurkan keutamaan rasionalitas dan pengamatan empiris mengenai fundamentalisme Alkitabiah dan tirani sekuler menghadapi oposisi yang ditentukan dari mereka yang menggunakan salib dan pedang. Banyak yang disiksa sampai mati karena kejujuran intelektual mereka - yang kita hadapi risiko jauh lebih sedikit, dan harus jauh lebih berani dalam advokasi apa yang *benar* atas apa yang *percaya*.
 
-In order to attack false moralities, we must start from the beginning, just as the first scientists did. Francis Bacon did not argue that the scientific method was more “efficient” than prayer, Bible texts or starvation-induced visions. He simply said that if we want to understand nature, we must observe nature and theorise logically – and that there is *no other* route to knowledge.
+Untuk menyerang moralitas palsu, kita harus mulai dari awal, sama seperti ilmuwan pertama. Francis Bacon tidak membantah bahwa metode ilmiahnya lebih "efisien" dari pada doa, teks Alkitab atau penglihatan yang disebabkan kelaparan. Dia hanya mengatakan bahwa jika kita ingin memahami alam, kita harus mengamati alam dan berteori logis - dan bahwa ada *tidak lain* rute pengetahuan.
 
-We must take the same approach in defining and communicating *morality*. We must begin using the power and legitimacy of the scientific method to prove the validity and universality of moral laws. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
+Kita harus mengambil pendekatan yang sama dalam mendefinisikan dan mengkomunikasikan *moralitas*. Kita harus mulai menggunakan kekuatan dan legitimasi metode ilmiah untuk membuktikan validitas dan universalitas hukum moral. Kita harus mulai dari awal, membangun logis dan menolak *setiap* pengganti irasional atau non-empiris untuk kebenaran.
 
-What does this look like in practice? All we have to do is establish the following axioms:
+Seperti apa ini? Yang harus kita lakukan adalah membangun aksioma berikut ini:
 
-- Morality is a valid concept.
+- Moralitas adalah konsep yang sah.
 - Moral rules must be consistent for all mankind.
 - The validity of a moral theory is judged by its consistency.
 
