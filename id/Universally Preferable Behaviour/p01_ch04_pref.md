@@ -8,13 +8,13 @@ Dalam pengertian ini, "lebih baik" tidak berarti "agak lebih baik," tapi lebih "
 
 Demikian pula, jika teori etis bisa sama sekali valid, maka mereka harus* setidaknya* baik secara internal maupun eksternal. Dengan kata lain, sebuah teori etis yang bertentangan dengan dirinya sendiri tidak dapat berlaku - dan teori etis yang bertentangan dengan bukti empiris dan preferensi universal hampir tidak berlaku.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Jadi, dalam etika, sama seperti dalam sains, matematika, teknik dan semua disiplin lain yang membandingkan teori dengan kenyataan,*teori yang valid harus konsisten secara logis dan dapat diverifikasi secara empiris*.
 
 ### Preferences And Existence
 
 If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
 
-Preferensi tidak ada secara objektif dalam kenyataan. Jika Anda penasaran dengan obsesif, Anda mungkin bisa mengikuti saya dan mencatat setiap kali saya makan es krim, yang mungkin akan memberikan dasar empiris yang baik untuk menetapkan preferensi saya untuk itu. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Preferensi tidak ada secara objektif dalam kenyataan. Jika Anda penasaran dengan obsesif, Anda mungkin bisa mengikuti saya dan mencatat setiap kali saya makan es krim, yang mungkin akan memberikan dasar empiris yang baik untuk menetapkan preferensi saya untuk itu. Kemungkinan itu bisa ada, bagaimanapun, bahwa saya sebenarnya seorang masokis, dan sangat menyukai es krim, dan lebih suka menyiksa diri dengan rasa tidak enak - dan kemudian membuat Anda bingung karena mengaku menyukainya.
 
 We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
 
