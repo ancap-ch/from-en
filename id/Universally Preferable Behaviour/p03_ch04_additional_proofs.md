@@ -20,7 +20,7 @@ Pertanyaan utama yang perlu dijawab adalah: Mengapa metode ilmiah jauh lebih ung
 
 UPB menjawab pertanyaan ini.
 
-Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
+Karena setiap metodologi untuk perolehan pengetahuan harus universal, konsisten, dan independen terhadap waktu dan tempat, metode ilmiah memenuhi persyaratan ini, sementara mistisisme irasional dan subjektif adalah kebalikan dari persyaratan ini.
 
 ### Public Education
 
