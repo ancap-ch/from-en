@@ -16,9 +16,9 @@ Benzer bir tutumla, geçerli herhangi bir etik teorisi cinayet ve tecavüz gibi 
 
 Ayrıca, Einstein fiziğinin şaşırtıcı gerçekler sunması gibi - aslında, bu gerçekler şaşırtıcı *olmasaydı* daha az değerli olabilirdi - ahlaki teoriler şaşırtıcı hatta şok edici gerçekler açığa çıkarınca en büyük değer sağlarlar. Aslında, şaşırtıcı gerçekler sağlamayan ahlak teorileri, var olan içgüdüsel tercihlerin sade bir onayı olurdu, ki dolayısıyla daha az değerde olurdu.
 
-### The Discipline Of Theoretical Ethics
+### Kuramsal Etik Disiplini
 
-If I say that something is “morally good” – in other words, if I propose an ethical theory – then clearly I am arguing that human beings *should* act in a particular manner, or *avoid* acting in a particular manner.
+Eğer bir şeyin ''ahlaki olarak iyi'' olduğunu söylersem - diğer bir deyişle, bir ahlak teorisi önerirsem - açıkca insanoğlunun belirli bir tutumda davranması *gerektiğini*, veya belirli bir tutumdan *kaçınmasını* tartışıyorum.
 
 If I tell my son that he *should* become a baseball player just because I want him to, I am not stating a universal moral premise, but rather a personal preference. He is not *moral* if he becomes a baseball player, and neither is he *immoral* if he does not.
 
