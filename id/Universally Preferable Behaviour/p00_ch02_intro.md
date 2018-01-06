@@ -42,15 +42,15 @@ Melintasi "zona nol" ini penuh dengan bahaya. Jalan dari kebenaran kecil menuju 
 
 Harus "melintasi zona nol" - atau dengan mulus menyatukan kebenaran kecil dengan kebenaran besar - mau tidak mau sangat sulit dan berbahaya? Ini adalah tantangan besar untuk menyatukan perseptual dengan konseptual dalam garis lurus logis penalaran - tapi *harus* kemajuan ini memakan waktu ribuan tahun dan lautan darah?
 
-Jika kita melihat kemajuan teknologi dan ekonomi umat manusia, kita melihat lebih banyak garis datar untuk ribuan tahun yang tak terhitung jumlahnya, diikuti oleh lonjakan besar dan asimtotik dalam beberapa ratus tahun terakhir. Tidak dapat dibayangkan bahwa beberapa mutasi genetik yang meluas dapat menyebabkan percepatan konsistensi intelektual dan kesuksesan material yang tiba-tiba dan luar biasa ini. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
+Jika kita melihat kemajuan teknologi dan ekonomi umat manusia, kita melihat lebih banyak garis datar untuk ribuan tahun yang tak terhitung jumlahnya, diikuti oleh lonjakan besar dan asimtotik dalam beberapa ratus tahun terakhir. Tidak dapat dibayangkan bahwa beberapa mutasi genetik yang meluas dapat menyebabkan percepatan konsistensi intelektual dan kesuksesan material yang tiba-tiba dan luar biasa ini. Teori mengklaim bahwa tertentu "efek bola salju" datang ke keberadaan, misterius didorong oleh akumulasi semua sedikit kenaikan pengetahuan yang telah terjadi sejak awal peradaban, biasanya dapat diberhentikan segera sebagai sepenuhnya *ex Post facto* penjelasan, karena mereka tidak memiliki nilai prediksi.
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+Jika kita memahami bahwa kami mengejutkan potensi telah tersedia bagi kami untuk setidaknya puluhan ribu tahun - dan bahwa ada baik besar keuntungan dan senang di berolahraga itu - maka sekaligus menjadi jelas bahwa kami benar-benar *apakah* ingin menggunakan pikiran kami yang menakjubkan.
 
 Jadi harus ada kekuatan ke bawah yang secara historis bertindak untuk menghancurkan dan memperbudak kebebasan alam umat manusia.
 
 Dalam dunia sains, tidaklah sulit untuk melihat kekuatan penindas yang terus-menerus membuat pikiran kita nyaris tak dikenal. Kombinasi takhayul dalam bentuk agama, dan kekerasan dalam bentuk aristokrasi, mengancam pemikir rasional dengan intimidasi, pemenjaraan, penyiksaan, dan pembunuhan. Sama seperti keuntungan petani dari rendahnya kecerdasan sapi, dan pemilik budak memperoleh keuntungan dari ketakutan para budaknya, para imam dan raja mempertahankan hak istimewa mereka dengan mengancam siapa pun yang berani berpikir.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+Kebenaran yang sederhana adalah bahwa "imam" dan "raja" - hanyalah - hanya manusia biasa saja. Kebenaran yang sederhana adalah bahwa para dewa dan setan yang seharusnya membenarkan peraturan mereka tidak pernah ada.
 
 We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
 
@@ -60,7 +60,7 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+Dengan memberikan ilusi bahwa kita telah menemukan kebenaran, "kebenaran tengah" sebenarnya mencegah kita untuk mendapatkan kebenaran. Mereka adalah garis terakhir pertahanan untuk fantasi, predasi dan eksploitasi.
 
 Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. Misalnya, kekristenan muncul dari fasisme yang berkembang di kekaisaran Romawi akhir sebagian dengan menyerang takhayul "primitif" dari teologi yang ada. "Lupakan tuhan-tuhan lama Anda, kita memiliki Tuhan yang baru yang jauh lebih baik!"
 
