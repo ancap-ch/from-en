@@ -98,9 +98,9 @@ Di jalan yang sama, parasit yang mencekik manusia melihat kebebasan mayoritas de
 
 Membentuk kebenaran tentu membatasi fantasi. Membatasi fantasi tentu membatasi eksploitasi. Jika saya bisa meyakinkan Anda bahwa saya adalah orang yang hidup-Tuhan, dan bahwa Tuhan yang melahirkan saya ingin Anda memberi saya sepuluh persen dari penghasilan Anda, atau Anda akan dihukum untuk selamanya, maka saya bisa menjadi sangat kaya. Saya adalah parasit ilusi, dan tergantung pada ilusi untuk rezeki yang sama pastinya seperti jamur yang bergantung pada kehangatan, kelembaban – dan kegelapan.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+Mereka yang menggunakan fantasi moral untuk mengeksploitasi umat manusia selalu melawan gigi dan kuku terhadap orang-orang yang mengancam penghidupan mereka dengan menemukan dan menyebarkan kebenaran.
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+Kita kenal dengan contoh Mafia, yang mengancam saingan potensial dengan cacat dan kematian, atau tontonan sekte agama saling menyerang, atau satu pemerintah menyerang yang lain.
 
 When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
 
