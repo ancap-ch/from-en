@@ -126,8 +126,8 @@ This is an example of a “little truth,” which is: “Stealing from me is wro
 
 Namun, ketika agen pemerintah mengirimi Anda sebuah surat yang meminta Anda membayar uang kepadanya, Anda mungkin akan merasakan penghinaan tertentu, namun Anda tidak akan menghubungkan cerita tersebut dengan ngeri dan kemarahan yang sama terhadap teman Anda.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+Ini adalah contoh "kebenaran tengah", yang mengaburkan "kebenaran besar," yaitu bahwa "mencuri itu salah."
 
 This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+Tesis saya dalam buku ini adalah bahwa dalam etika, seperti dalam setiap disiplin intelektual lainnya, kebenaran besar muncul secara langsung dari kebenaran kecil. Kabut yang membingungkan dari "kebenaran tengah" adalah jalan yang mengerikan untuk dinavigasi, tapi perlu dijalani, karena satu-satunya alternatif mendasar untuk kebenaran adalah eksploitasi, penghancuran - dan, yang pasti, kematian jutaan waktu yang terlalu dini.
