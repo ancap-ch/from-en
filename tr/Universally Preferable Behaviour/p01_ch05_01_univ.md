@@ -1,4 +1,4 @@
-## Universally Preferable Behaviour
+## Evrensel Olarak Tercih Edilen Davranış
 
 As a result of the above arguments, we can see that it is impossible to enter into any debate without accepting the premise that certain behaviours are *universally preferable*.
 
