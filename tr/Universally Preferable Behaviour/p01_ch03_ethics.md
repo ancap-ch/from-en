@@ -12,7 +12,7 @@ Eğer bir beysbol oyuncusunun havadaki bir topu yakalama yeterliliğini tamamen 
 
 Diğer bir deyişle, duyular mantığı ortaya çıkarır - bu yüzden mantık duyusal kanıtlara ters düşemez. Kanıt her zaman açıklamayı gölgede bırakır.
 
-In a similar manner, any valid ethical theory should be able to explain and justify our common revulsion towards crimes such as murder and rape. It cannot reasonably contradict the universal prohibitions of mankind, but must accurately incorporate and explain them.
+Benzer bir tutumla, geçerli herhangi bir etik teorisi cinayet ve tecavüz gibi suçlara karşı ortak tepkimizi açıklayıp haklı çıkarabilmelidir. İnsanlığın evrensel yasaklarına mantıklı bir şekilde ters düşemez, ama onları doğru bir şekilde dahil edip onları açıklayabilmelidir.
 
 However, just as Einsteinian physics provided surprising truths – in fact, it would have been of little value if those truths were *not* surprising – ethical theories provide the most value when they also reveal surprising truths – shocking, even. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
 
