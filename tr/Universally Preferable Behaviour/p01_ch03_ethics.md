@@ -10,7 +10,7 @@ Aynı şekilde, tecavüz ve cinayet gibi davranışlara karşı ortak ahlaki tep
 
 Eğer bir beysbol oyuncusunun havadaki bir topu yakalama yeterliliğini tamamen geçersiz kılacak bilimsel bir teori önerirsem, beysbol oyuncusunun topu aslında *nasıl* yakaladığını açıklamakla ilgili üstesinden gelemeyeceğim bir meydan okuma olur. Ayrıca, büyük teorim uçan bir topun yaptığı kavisi doğru bir şekilde öngörmezse, elimde ''küçük bir hakikat''le ters düşen ''büyük bir hakikat'' olur, ki bu da geçerli sayılmaz. Mantıksal tutarlılığın zorunluluğu direkt olarak "küçük gerçekleri"in algısal deneyimlerinden kaynaklandığı için, bu deneyimle doğrudan çelişen herhangi bir teori geçerli olamaz.
 
-In other words, the senses give rise to logic – therefore logic cannot contradict the evidence of the senses. Evidence always trumps explanation.
+Diğer bir deyişle, duyular mantığı ortaya çıkarır - bu yüzden mantık duyusal kanıtlara ters düşemez. Kanıt her zaman açıklamayı gölgede bırakır.
 
 In a similar manner, any valid ethical theory should be able to explain and justify our common revulsion towards crimes such as murder and rape. It cannot reasonably contradict the universal prohibitions of mankind, but must accurately incorporate and explain them.
 
