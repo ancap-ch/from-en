@@ -88,13 +88,13 @@ Kekuatan terbuka yang terlibat dalam institusi pemerintahan - pembungkus konsept
 
 Namun, ini omong kosong belaka.
 
-Jika seorang pria memegang pisau ke tenggorokan wanita saat berhubungan seks dengannya, itu adalah definisi dari setiap tindakan pemerkosaan. Dia tidak bisa mengatakan bahwa seks itu bersifat konsensual, sementara pada saat yang sama mengancamnya dengan luka atau kematian jika dia menolak berhubungan seks dengannya. Jika seks itu sukarela, maka pisau itu sama sekali tidak perlu. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Jika seorang pria memegang pisau ke tenggorokan wanita saat berhubungan seks dengannya, itu adalah definisi dari setiap tindakan pemerkosaan. Dia tidak bisa mengatakan bahwa seks itu bersifat konsensual, sementara pada saat yang sama mengancamnya dengan luka atau kematian jika dia menolak berhubungan seks dengannya. Jika seks itu sukarela, maka pisau itu sama sekali tidak perlu. Jika pria merasakan kebutuhan sebuah pisau, maka jelas jenis kelaminnya adalah *bukan* sukarela.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+Dengan cara yang sama, orang mengatakan bahwa perpajakan adalah bagian dari kontrak sosial yang telah mereka setujui secara sukarela.
 
-This is both logically and empirically false.
+Ini secara logika dan empiris salah.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Kita tahu bahwa secara empiris salah karena *tidak ada kontrak sosial *. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
 
 ### The Gun In The Room
 
