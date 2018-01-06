@@ -162,6 +162,6 @@ Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is 
 
 This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
 
-[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
+[^2]: Mari kita bahkan tidak mendapatkan *mulai* pada mimpi buruk logis dari nilai kebenaran yang terkandung dalam pernyataan "kesalahan sama dengan kebenaran."
 
-[^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.
+[^3]: Argumen ini cenderung juga tidak bekerja dengan baik dengan guru matematika - saya belum pernah melihat seorang siswa berhasil berpendapat bahwa jawaban yang salah mungkin benar di alam semesta lain, dan karena itu tidak adil untuk menandainya sebagai salah.
