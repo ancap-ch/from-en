@@ -16,47 +16,47 @@ Itu palsu.
 
 Semua orang yang masuk akal mengakui bahwa biologi ilmu berlaku, meskipun fakta bahwa beberapa hewan dilahirkan dengan mutasi-mutasi "off". Fakta bahwa anjing dapat lahir dengan lima kaki tidak berarti bahwa "anjing" menjadi kategori benar-benar subjektif. Fakta bahwa spesies serangga tertentu menantang untuk dibedakan tidak berarti bahwa tidak ada perbedaan antara kumbang dan ikan paus itu.
 
-Untuk alasan yang aneh, para intelektual khususnya sangat bersukacita dalam penghancuran standar etis, normatif dan rasional itu. Ini bisa terjadi karena para intelektual begitu sering dibayar oleh kelas individu yang korup seperti politisi, imam dan raja - atau bisa juga seorang pria sering menjadi intelektual untuk menciptakan pembenaran atas perilaku asusila sendiri itu. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. Jika ilmu biologi itu tidak mungkin, tidak masuk akal bila menjadi ahli biologi, lebih dari sekedar ateis harus melawan gigi dan kuku untuk menjadi imam.
+Untuk alasan yang aneh, para intelektual khususnya sangat bersukacita dalam penghancuran standar etis, normatif dan rasional itu. Ini bisa terjadi karena para intelektual begitu sering dibayar oleh kelas individu yang korup seperti politisi, imam dan raja - atau bisa juga seorang pria sering menjadi intelektual untuk menciptakan pembenaran atas perilaku asusila sendiri itu. Apapun alasannya, pemikir paling modern telah menjadi spesies "anti-pemikir," yang sangat aneh. Ini akan menjadi setara dengan kelas besar "ahli biologi" yang menghabiskan seluruh hidup mereka berdebat bahwa ilmu biologi adalah mustahil. Jika ilmu biologi itu tidak mungkin, tidak masuk akal bila menjadi ahli biologi, lebih dari sekedar ateis harus melawan gigi dan kuku untuk menjadi imam itu.
 
-### Shades Of Grey
+### Warna abu-abu
 
-In the realm of “grey areas,” there are really only three possibilities.
+Dalam bidang "daerah abu-abu", ada benar-benar hanya tiga kemungkinan.
 
-1. Tidak ada yang namanya daerah abu-abu.
-2. Certain grey areas do exist.
-3. All knowledge is a grey area.
+1. Tidak ada yang namanya daerah abu-abu itu.
+2. Ada daerah abu-abu tertentu.
+3. Segala pengetahuan adalah wilayah abu-abu.
 
-Clearly, option one can be easily discarded. Option three is also fairly easy to discard. The statement “all knowledge is a grey area” is a self-detonating proposition, as we have seen above, in the same way that “all statements are lies” also self-detonates.
+Jelas, pilihan satu dapat dengan mudah dibuang. Pilihan ketiga juga cukup mudah untuk membuang. Pernyataan "semua pengetahuan adalah wilayah abu-abu" adalah proposisi meledakkan diri, seperti yang kita lihat di atas, dengan cara yang sama bahwa "semua pernyataan adalah kebohongan" juga diri meledakan.
 
-Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
+Dengan demikian kita harus pergi dengan pilihan dua, yang adalah bahwa abu-abu tertentu yang daerah ada, dan kita tahu bahwa mereka adalah abu-abu dibandingkan daerah yang tidak abu-abu oksigen yang ada di ruang angkasa, dan juga di bawah air, tetapi tidak dalam bentuk atau kuantitas yang manusia dapat mengkonsumsi. *Tingkat* oksigenasi adalah wilayah abu-abu, yaitu "kurang versus lebih"; pertanyaan tentang apakah atau tidak manusia bisa bernapas air pasti hitam dan putih.
 
-Seorang ilmuwan yang ditangkap oleh kanibal mungkin berpura-pura menjadi dukun-dokter untuk melarikan diri - ini tidak berarti bahwa kita harus menolak metode ilmiah sama sekali tidak sah.
+Seorang ilmuwan yang ditangkap oleh kanibal mungkin berpura-pura menjadi dukun-dokter untuk melarikan diri - ini tidak berarti bahwa kita harus menolak metode ilmiah sama sekali tidak sah itu.
 
-Demikian pula, ada situasi ekstrem dimana kita dapat memilih untuk melakukan tindakan tidak bermoral, namun situasinya tidak menyangkal sains moralitas, lebih dari mutasi sesekali mematahkan ilmu biologi. Sebenarnya, ilmu biologi sangat maju melalui penerimaan dan pemeriksaan mutasi - dan sama, ilmu etika hanya diperkuat melalui pemeriksaan "skenario sekoci," selama pemeriksaan semacam itu tidak dilakukan secara obsesif.
+Demikian pula, ada situasi ekstrem dimana kita dapat memilih untuk melakukan tindakan tidak bermoral, namun situasinya tidak menyangkal sains moralitas, lebih dari mutasi sesekali mematahkan ilmu biologi itu. Sebenarnya, ilmu biologi sangat maju melalui penerimaan dan pemeriksaan mutasi - dan sama, ilmu etika hanya diperkuat melalui pemeriksaan "skenario sekoci," selama pemeriksaan semacam itu tidak dilakukan secara obsesif itu.
 
-### Universality And Exceptions
+### Universalitas dan pengecualian
 
-Sebelum kita mulai menggunakan kerangka Perilaku Universal untuk meneliti beberapa kepercayaan etis yang umum, kita harus menghadapi pertanyaan tentang "pengecualian."
+Sebelum kita mulai menggunakan kerangka Perilaku Universal untuk meneliti beberapa kepercayaan etis yang umum, kita harus menghadapi pertanyaan tentang "pengecualian itu."
 
-Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
+Menggunakan di atas "sekoci skenario", kesimpulan sering diambil bahwa "yang baik" adalah hanya *apa yang "baik" untuk kehidupan seorang individu*.
 
-In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
+Dalam etika argumen, jika saya bertanya apakah aku akan mencuri sebuah apel daripada kelaparan sampai mati- dan saya mengatakan "ya"-argumen berikut adalah pasti membuat:
 
-1. Semua orang lebih suka mencuri apel daripada mati kelaparan.
-2. Jadi setiap orang secara universal lebih suka mencuri apel sampai mati karena kelaparan.
-3. Thus it is *universally preferable* to steal apples rather than starve to death.
-4. Thus survival is universally preferable to property rights.
-5. Jadi apa yang baik bagi individu adalah standar moral tertinggi.
+1. Semua orang lebih suka mencuri apel daripada mati kelaparan itu.
+2. Jadi setiap orang secara universal lebih suka mencuri apel sampai mati karena kelaparan itu.
+3. Dengan demikian lebih *Universal lebih disukai* untuk mencuri apel daripada mati kelaparan.
+4. Dengan demikian kelangsungan hidup lebih universal disukai untuk hak milik.
+5. Jadi apa yang baik bagi individu yang adalah standar moral tertinggi.
 
-Ini telah digunakan sebagai dasar untuk sejumlah teori dan pendekatan etis, dari Nietzsche sampai Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
+Ini telah digunakan mana sebagai dasar untuk sejumlah teori dan pendekatan etis, dari Nietzsche sampai Rand. Preferensi setiap individu untuk bertahan hidup ini diterjemahkan ke dalam teori-teori etika yang menempatkan kelangsungan hidup individu di pusat mereka. [^11]
 
-This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
+"Biologis hedonisme" semacam ini bisa menjadi gambaran tentang "drive untuk bertahan hidup", tapi itu hanya benar sejauh ini menggambarkan apa yang orang benar-benar *lakukan*, bukan apa yang mereka *harus* lakukan.
 
-Ini juga memperkenalkan subjektivisme yang benar-benar tidak ilmiah terhadap masalah moralitas. Misalnya, jika secara moral diperbolehkan mencuri makanan saat Anda kelaparan, berapa banyak makanan yang bisa Anda curi? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
+Ini juga memperkenalkan itu subjektivisme yang benar-benar tidak ilmiah terhadap masalah moralitas. Misalnya, jika secara moral yang diperbolehkan mencuri makanan saat Anda kelaparan, berapa banyak makanan yang bisa Anda curi? Seberapa lapar Anda harus menjadi? Dapat Anda mencuri makanan yang tidak bergizi? Bagaimana bergizi makanan Apakah perlu untuk membenarkan mencurinya? Berapa lama setelah mencuri satu makanan Anda diperbolehkan untuk mencuri makanan lain? Anda diperbolehkan untuk mencuri makanan daripada mencari pekerjaan atau menarik untuk amal?
 
-Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
+Juga, jika saya dapat membuat lebih banyak uang sebagai seorang hit dari penjaga toko, seharusnya aku tidak mengejar kekerasan sebagai karier? Itu tentu saja meningkatkan kelangsungan hidup *saya*... dan seterusnya dan seterusnya.
 
-As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
+Seperti yang kita lihat, pengenalan "apa baik bagi laki-laki abstrak- atau apa yang kebanyakan orang lakukan-adalah apa Universal lebih baik" menghancurkan konsep moralitas sebagai teori sejalan, dan pengganti hanya biologis drive sebagai pembenaran untuk perilaku. It is an explanation of behaviour, not a proposed moral theory.
 
 ### The Purpose And The Dangers
 
