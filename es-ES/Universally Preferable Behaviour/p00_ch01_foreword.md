@@ -14,17 +14,17 @@ Inevitablemente, un hombre da un paso al frente que impacta a todos como algo to
 
 Este libro es la historia de mi asalto personal a tal bestia.
 
-Esta "bestia" es la creencia de que es imposible definir un sistema ético científico, objetivo, racional y secular. Esta "bestia" es la ilusión de que la moralidad debe siempre estar perdida en los pantanos irracionales de dioses y gobiernos, exigida por razones meramente pragmáticas, pero siempre sin justificación lógica o una definición clara. Esta "bestia" es la fantasía de que la virtud, nuestra mayor alegría, nuestra más profunda felicidad, debe ser siempre dejada de lado por adultos seculares, y dejada en el polvo para ser barrida, desfilada y explotada por políticos y curas – y padres. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Esta "bestia" es la creencia de que es imposible definir un sistema ético científico, objetivo, racional y secular. Esta "bestia" es la ilusión de que la moralidad debe siempre estar perdida en los pantanos irracionales de dioses y gobiernos, exigida por razones meramente pragmáticas, pero siempre sin justificación lógica o una definición clara. Esta "bestia" es la fantasía de que la virtud, nuestra mayor alegría, nuestra más profunda felicidad, debe ser siempre dejada de lado por adultos seculares, y dejada en el polvo para ser barrida, desfilada y explotada por políticos y curas – y padres. Esta "bestia" es la superstición de que, sin las diatribas de los padres, el acoso de los dioses o las armas de los gobiernos, no podemos ser tanto racionales como buenos.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Esta bestia ha sido estudiada por muchos héroes, de Sócrates a Platón, a Augustine, a Hume, a Kant, a Rand.
 
-The cost to mankind has been enormous.
+El costo a la humanidad ha sido enorme.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Desde que permanecemos incapaces de definir un sistema racional de moralidad universal, nosotros hemos sido forzados a infligir horribles historias religiosas a nuestros niños, o dar armas prisiones y ejércitos a un pequeño monopolio de controladores sin alma que se llaman a sí mismos "el estado."
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Desde que lo que llamamos "ética" permanece subjetiva y meramente *cultural*, nosotros inevitablemente terminamos dependiendo del acoso, el miedo y la violencia para imponer normas sociales. Ya que la ética carece de base racional en el método científico, la "moralidad" permanece atascada en una guerra tribal de mitologías sangrientas, con cada pandilla luchando con dientes y uñas por el control sobre la lealtad de la gente a la "virtud."
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+No podemos vivir sin moralidad, pero no podemos definir la moralidad objetivamente – así que permanecemos eternamente condenados a vidas vacías de hipocresía pomposa, dominación cínica o esclavitud piadosa.
 
 Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
 
