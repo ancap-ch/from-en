@@ -36,11 +36,11 @@ Kita dapat mempercayai hal-hal yang tidak terbukti yang ternyata benar - seseora
 
 Jika saya mengatakan bahwa dua ditambah dua sama dengan lima, saya membuat kesalahan yang bisa diperbaiki dengan referensi pada logika. Jika saya mengatakan bahwa saya percaya bahwa ada lingkaran persegi, maka saya membuat pernyataan yang bertentangan secara eksplisit, yang menyangkal dirinya sendiri. Jika saya melangkah lebih jauh, bagaimanapun, dan dengan tegas mengklaim bahwa "foo plus tury sama dengan desty" - dan menolak untuk menentukan persyaratan apa pun - saya membuat sebuah pernyataan yang logika dan bukti *tidak dapat diterapkan*.
 
-### Next Stop: The "Alternative Universe"
+### Pemberhentian selanjutnya: "Dunia Alternatif"
 
-In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
+Secara umum, cara orang mencoba untuk "menyelamatkan" keyakinan anti-empiris dan anti-logika mereka adalah menciptakan "dunia alternatif" atau "alam semesta alternatif" di mana pernyataan kontradiktif mereka sendiri dapat menjadi kenyataan.
 
-If I say: “A square circle exists,” I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
+Jika saya katakan: "Lingkaran persegi ada," saya menegaskan apa yang jelas tidak mungkin dilakukan di alam semesta ini. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
 
 If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
 
