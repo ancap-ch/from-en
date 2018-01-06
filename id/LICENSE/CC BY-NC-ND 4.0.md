@@ -91,7 +91,7 @@ a. ***Atribusi.***
         
          iv. pemberitahuan yang mengacu pada disclaimer jaminan;
         
-         v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+         v. uRI atau hyperlink untuk bahan berlisensi sejauh cukup praktis;
         
     
     B. menunjukkan jika Anda memodifikasi Bahan Berlisensi dan menyimpan indikasi adanya modifikasi sebelumnya; dan
@@ -101,15 +101,15 @@ a. ***Atribusi.***
         Untuk menghindari keraguan, Anda tidak memiliki izin berdasarkan Lisensi Publik untuk Berbagi Materi yang Diadaptasi.
         
     
-    1. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. Misalnya, mungkin masuk akal untuk memenuhi persyaratan dengan menyediakan URI atau hyperlink ke sumber daya yang mencakup informasi yang diperlukan.
+    1. Anda dapat memnuhi persyaratan dalam bagian 3 (A) (1) dengan cara yang wajar berdasarkan media, sarana, dan konteks di mana Anda membagikan materi lisensi. Misalnya, mungkin masuk akal untuk memenuhi persyaratan dengan menyediakan URI atau hyperlink ke sumber daya yang mencakup informasi yang diperlukan.
     
-    2. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
+    2. Jika diminta oleh pemberi lisensi, Anda harus menghapus salah satu dari informasi yang dibutuhkan oleh bagian 3 (A) (1) (A) untuk sejauh cukup praktis.
 
-### Section 4 – Sui Generis Database Rights.
+### Bagian 4 - hak database Sui generis.
 
 Dimana Hak Izin termasuk Hak Basis Data Sui Generis yang berlaku untuk penggunaan Anda terhadap Bahan Berlisensi:
 
-a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only and provided You do not Share Adapted Material;
+a. untuk menghindari keraguan, bagian 2 (A) (1) memberikan Anda hak lisensi untuk ekstrak, penggunaan kembali, mereproduksi, dan berbagi semua atau sebagian besar isi database untuk non-komersial yang tujuan hanya disediakan untuk Anda tidak berbagi diadaptasi material;
 
 b. jika Anda menyertakan semua atau sebagian besar isi database dalam database di mana Anda memiliki Hak Database Sui Generis, maka database di mana Anda memiliki Hak Basis Data Sui Generis (tapi bukan isi masing-masing) adalah Bahan yang Diadaptasi; dan
 
