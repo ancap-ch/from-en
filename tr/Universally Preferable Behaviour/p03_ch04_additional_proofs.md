@@ -2,13 +2,13 @@
 
 There are other additional proofs that we can bring to bear on the question of universally preferable behaviour.
 
-### The Free-Market Economy
+### Serbest Piyasa Ekonomisi
 
-A free-market economy is without a doubt the most efficient and wealth-producing method of organising the production and consumption of goods and resources within society. Its material success is without equal in human history, or across the world.
+Serbest piyasa ekonomisi kuşkusuz toplumdaki malların ve kaynakların üretimini ve tüketimini organize etmenin en verimli ve servet üreten yöntemidir. Onun maddi başarısı insanlık tarihinde ya da dünya çapında eşit değildir.
 
 The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
 
-In theory, a free-market economy is based on the application of a universal theory of property rights. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+Teoride serbest piyasa ekonomisi, evrensel mülkiyet hakkı teorisinin uygulanmasına dayalıdır. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
 
 Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
 
