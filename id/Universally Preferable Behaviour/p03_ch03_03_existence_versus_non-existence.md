@@ -80,48 +80,48 @@ Hal yang sama berlaku untuk agama.
 
 Pernyataan: "Anda harus mendengarkan aku karena perintah-perintah Allah," harus dinyatakan semula lebih tepat seperti: "kepada entiti yang saya telah membuat perintah yang anda untuk taatlah kepadaku." prinsip bahwa UPB memerlukan, kemudian, adalah: "Manusia harus memaksakan unchosen kewajiban positif pada orang lain, dan membenarkan orang-orang kewajiban menurut entiti khayalan."
 
-Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+Di sini kita lihat masalah yang sama seperti di atas. Bob memberitahu Doug: "Anda harus memberikan aku lebih ringan anda, karena teman khayalan saya memberitahu anda untuk." Secara alamiah, Doug balasan: "Anda harus tidak meminta saya untuk lebih ringan, karena Anda *My* teman khayalan melarang anda untuk." Jika "perintah Bob" adalah sah, kemudian Doug yang "perintah" sama-sama sah, dan agar membatalkan satu sama lain.
 
-In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
+Dalam cara yang sama, jika seseorang mendakwa bahawa konsep-nya yang disebut "pemerintah" menghalalkan pencurian-nya dari properti-Ku, maka aku dapat menyatakan bahwa konsep-Ku disebut "anti-pemerintah" menghalalkan *Saya* penahan dari properti-Ku, dan kita kedua sama "sah" dalam justifikasi kita.
 
-If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
+Jika pemungut cukai ini kemudian menyatakan bahwa konsep-nya yang disebut "pemerintah" hanya membenarkan pencurian-nya dari *My* milik, saya tidak pengekalan, maka kita tidak lebih jauh ke depan. Ia dapat mengambil ribu dolar-Ku, tetapi kemudian saya dapat memanggil konsep-Ku untuk "mencuri" yang kembali uang, dan teori moral-Nya memerintahkan kita untuk menghabiskan seluruh keabadian menyerahkan kembali dan mengeluarkan ribu dolar.
 
-#### UPB And "The Majority"
+#### UPB dan "Sebagian besar"
 
-UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
+UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. Sepuluh singa tidak membuat gajah, sebuah pemerintah, atau Tuhan. Sepuluh ribu prajurit mungkin membuat sebuah "pasukan," tetapi mereka tidak dapat gravitasi terbalik, atau membuat pembunuhan moral.
 
-Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
+Kembali satu kali terakhir untuk ruang Bob dan Doug, mari kita memperkenalkan "Jane."
 
-Now that there are three people in the room, we can look at the “majority rule” principle.
+Sekarang yang ada tiga orang di dalam ruangan, kita dapat melihat "peraturan mayoritas prinsip".
 
-If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
+Jika Bob, Doug dan Jane mengambil sebuah "suara" pada apakah atau tidak, yang merupakan nilai moral untuk perkosaan Jane, kita akan Rekoil isi semua pada sebuah tidak adil dan premis cabul. Jelas, bahkan jika Jane telah "outvoted," kita tidak akan menganggap perkosaan yang dihasilkan untuk akan berubah menjadi sebuah baik secara moral bertindak.
 
-Why not?
+Mengapa tidak?
 
-Well, UPB does not recognise the reality of aggregations, since the “majority” is a mere conceptual tag; it does not exist in reality, any more than “gods” or “governments” do. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
+Dan juga, UPB tidak mengakui kenyataan pengumpulan, sejak "sebagian besar" adalah sekadar tag konseptual; ia tidak ada dalam kenyataan, ada lebih dari "tuhan-tuhan" atau "pemerintah". Justru untuk menyatakan bahwa konsep "sebagian besar" telah kedudukan moral apapun yang sama sekali tidak sah - ia adalah seperti mengatakan bahwa "Tanah Air" dapat impregnate seorang perempuan, atau yang satu dapat duduk dalam kata "kursi."
 
-To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
+Untuk mengatakan bahwa "sebagian besar" telah hak atau attributes yang secara langsung menyangkal hak-hak atau sifat-sifat sebarang individu juga bertentangan dengan prinsip-prinsip rasional, karena pengelompokan konseptual hanya divalidasi oleh identifikasi akurat karakteristik masing-masing. Jika aku berkata bahwa "mamalia" adalah makhluk-makhluk berdarah panas, saya dapat secara logiknya termasuk tiga flamingos plastik dalam kategori "" mamalia?
 
-Of course not.
+Tentu saja tidak.
 
-Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
+Oleh karena itu, jika hal itu jahat untuk manusia untuk perkosaan, saya dapat secara logiknya membuat kategori yang disebut "sebagian besar" dan kemudian menyatakan bahwa untuk *-* manusia, perkosaan sekarang baik secara moral?
 
-Of *course* not.
+*Kursus* tidak.
 
-### Majority Rule
+### Peraturan mayoritas
 
-Can I create a moral rule that says: “the majority should be able to do whatever it wants”?
+Saya dapat membuat aturan moral yang mengatakan: "mayoritas harus dapat melakukan apapun menginginkan"?
 
-Of course I can, but it will never be valid or true.
+Tentu saja aku dapat, tetapi ia tidak akan pernah akan sah atau benar.
 
-Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
+Hanya *individu* bertindak - "sebagian besar" tidak pernah. Jika aturan moral dapat berubah bila beberapa orang-orang berkumpul, kemudian UPB adalah terus-menerus dilanggar.
 
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
+Jika ia adalah untuk moral Bob dan Doug untuk perkosaan Jane karena mereka memiliki "outvoted dia," apa yang terjadi ketika Jane dua teman-teman menunjukkan naik dan suara melawan Bob dan Doug, keinginan yang penuh gejolak?
 
-Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
+Dan juga, tiba-tiba Bob dan Doug orang-orang outvoted, dan pemerkosaan menjadi "jahat" untuk mereka lagi.
 
-Nothing substantial has changed in these “outvoting” scenarios, but we have a series of opposing moral rules for the same men – a violation of UPB, and thus invalid.
+Tidak ada yang berubah dalam substansial "outvoting ini", tetapi kami telah skenario serangkaian menentang aturan moral bagi orang-orang yang sama - sebuah pelanggaran terhadap UPB, dan dengan itu tidak sah.
 
-Rape cannot be good, then evil, then good again, just because a few hands are raised or lowered.
+Perkosaan tidak dapat baik, maka kejahatan, maka lagi baik, hanya karena beberapa tangan dibangkitkan atau diturunkan.
 
-Thus if you think that “majority rule” sounds like a reasonable moral proposition, and a perfectly valid moral theory, then I am afraid you’re going to have to go back to the beginning of this book and start again!☺
+Oleh karena itu, jika anda berpikir bahwa "peraturan mayoritas" seperti suara yang masuk akal proposisi moral, dan yang sempurna dan teori moral yang sah, maka saya takut anda akan memiliki untuk kembali ke awal buku ini dan mulai lagi!☺
