@@ -131,12 +131,12 @@ Sebagai kesimpulan, adalah aman untuk mengatakan bahwa (a) peraturan moral itu b
 
 UPB boleh dilihat sebagai sebuah kerangka kerja untuk memvalidasi teori etis atau cadangan - Seperti metode ilmiah adalah sebuah kerangka yang digunakan untuk memvalidasi teori ilmiah atau usul saran.
 
-Contoh proposisi moral adalah: "initiation penggunaan kekuatan adalah salah." UPB adalah metodologi yang tes yang baik terhadap konsistensi internal proposisi dan observasi empiris. UPB thus first asks: *is the proposition logical and consistent?* UPB then asks: *what evidence exists for the truth of the proposition?*
+Contoh proposisi moral adalah: "initiation penggunaan kekuatan adalah salah." UPB adalah metodologi yang tes yang baik terhadap konsistensi internal proposisi dan observasi empiris. UPB jadi bertanya: * apakah proposisi itu logis dan konsisten? * UPB kemudian bertanya: * bukti apa yang ada untuk kebenaran proposisi? *
 
-To keep this book at a reasonable length, we will in general deal mostly with the first criterion of logical consistency. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+Agar buku ini tetap panjang, umumnya kita akan membahas kriteria konsistensi logis yang pertama. Untuk kriteria kedua, kita harus mengandalkan bukti tentang larangan universal di semua budaya terhadap tindakan tertentu seperti pemerkosaan, pencurian, penyerangan dan pembunuhan. Untuk menjaga buku ini pada panjang yang wajar, kita akan dalam kesepakatan umum sebagian besar dengan kriteria yang pertama dari konsistensi logis. Jika kita menetapkan validitas UPB, kita telah mencapai jumlah yang sangat besar. Jika tidak, bukti hampir tidak akan membantu kita.
 
-Let us now turn to the question of whether the UPB framework deals with matters of *ethics*, or *aesthetics*, or both.
+Sekarang ayo kita untuk pertanyaan tentang apakah kerangka kerja UPB terakhir dengan masalah-masalah *etika*, atau *estetika*, atau keduanya.
 
-[^7]: The same goes, of course, for murder and assault. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
+[^7]: Hal yang sama juga terjadi, tentu saja, untuk membunuh dan serangan tersebut. Kami akan kembali ke bukti ini - dan juga pemeriksaan lebih lanjut atas hak kepemilikan - secara lebih rinci di Bagian Dua buku ini.
 
-[^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
+[^8]: Aturan moral universal dan positif juga dapat dibuktikan - yaitu validitas universal hak properti dan non-kekerasan - namun kita akan membahasnya di Bagian Dua.
