@@ -40,11 +40,11 @@ Jika saya mengatakan bahwa dua ditambah dua sama dengan lima, saya membuat kesal
 
 Secara umum, cara orang mencoba untuk "menyelamatkan" keyakinan anti-empiris dan anti-logika mereka adalah menciptakan "dunia alternatif" atau "alam semesta alternatif" di mana pernyataan kontradiktif mereka sendiri dapat menjadi kenyataan.
 
-Jika saya katakan: "Lingkaran persegi ada," saya menegaskan apa yang jelas tidak mungkin dilakukan di alam semesta ini. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
+Jika saya katakan: "Lingkaran persegi ada," saya menegaskan apa yang jelas tidak mungkin dilakukan di alam semesta ini. Jadi, jika saya ingin mempertahankan keyakinan saya, saya harus menciptakan alam semesta lainnya, atau alam "di luar" alam semesta ini dimana lingkaran persegi bisa ada.
 
-If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
+Jika saya membuat sebuah dunia di mana kontradiksi-diri sama dengan kebenaran, kemudian saya dapat mengklaim bahwa mereka yang mengatakan lingkaran persegi *tidak* memiliki kekejaman dan prasangka, karena mereka menghilangkan kemungkinan itu *bisa*menjadi benar.[^1]
 
-With regards to this “null zone,” only two possibilities really exist. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
+Sehubungan dengan ini "zona nol", hanya ada dua kemungkinan yang benar-benar ada. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
 
 If, at some point, it turns out that we *are* able to interact with this *null zone*, then we shall have direct sensual or rational evidence of its existence. In other words, it must “protrude” into our universe in some manner. However, the moment that it becomes detectable in our universe, it must have rational and empirical existence, like everything else we can detect. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
 
