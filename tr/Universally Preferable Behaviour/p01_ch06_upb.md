@@ -13,13 +13,13 @@ Although we first focused on UPB in the realm of ethics, UPB can now be seen as 
 
 Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+Etik ve estetik arasında daha fazla ayrım yapabilmek için şu üç eyleme bakalım. İlk eylem *mantıksızlık*; ikincisi, *yalan söylemek*; üçüncüsü ise *cinayet*.[^9]
 
 ### Mantıksızlık
 
 Diyelim ki, sen ve ben Tanrının varlığı hakkında tartışıyoruz. Ben argümanlarımı ileri sunduktan sonra sen kulaklarını ellerinle kapatıp Tanrı sana var olduğunu söylüyor dersen, sunduğum bütün argümanlar anlamını kaybeder. Açıkçası, verdiğin yanıt benim pozisyonuma karşı mantıksız. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
 
-### Lying
+### Yalan Söylemek
 
 Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
 
