@@ -24,15 +24,15 @@ b. **Licencia de Adaptador** hace referencia a la licencia que usted aplica a su
 
 c. **Licencia compatible con BY-SA** hace referencia a una licencia incluida en [creativecommons.org/compatiblelicenses](http://creativecommons.org/compatiblelicenses), aprobada por Creative Commons como esencialmente el equivalente de esta Licencia pública.
 
-d. **Derechos de autor y derechos similares** significa derechos de autor y / o similares estrechamente relacionados con los derechos de autor, incluidos, entre otros, rendimientos, difusión, grabación de sonido y Derechos de la base de datos Sui Generis, independientemente de cómo se etiqueten o clasifiquen los derechos. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+d. **Derechos de autor y derechos similares** significa derechos de autor y / o similares estrechamente relacionados con los derechos de autor, incluidos, entre otros, rendimientos, difusión, grabación de sonido y Derechos de la base de datos Sui Generis, independientemente de cómo se etiqueten o clasifiquen los derechos. A los efectos de esta Licencia Pública, los derechos especificados en la Sección 2 (b) (1)-(2) no son Derechos de Autor y Derechos Similares.
 
-e. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+e. **Medidas tecnológicas efectivas** significa aquellas medidas que, en ausencia de la autoridad apropiada, no pueden eludirse en virtud de las leyes que cumplen las obligaciones establecidas en el articulo 11 del Tratado de la OMPI sobre Derecho de Autor adoptado el 20 de diciembre de 1996 o acuerdos similares.
 
-f. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+f. **Excepciones y limitaciones** significa uso leal, trato justo y / o cualquier otra excepción o limitación a los derechos de autor y derechos similares que se apliquen a su uso del material bajo licencia.
 
-g. **License Elements** means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.
+g. **Elementos de licencia** hace referencia a los atributos de licencia enumerados en el nombre de una licencia pública Creative Commons. Los elementos de licencia de esta Licencia Pública son atribución y ShareAlike.
 
-h. **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+h. **Material bajo licencia** hace referencia al trabajo artístico o literario, a la base de datos u otro material al que el Licenciador haya aplicado esta Licencia pública.
 
 i. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
 
