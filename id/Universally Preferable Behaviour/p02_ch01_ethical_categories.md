@@ -16,11 +16,11 @@ Seperti disebutkan di atas, proposisi mengenai perilaku yang lebih disukai secar
 
 Idealnya, kita harus bisa mengurangi hanya dua kategori - yang secara keseluruhan lebih disukai dan positif secara estetik - dengan mendefinisikan proposisi etis kita sehingga apa yang dilarang secara universal hanyalah bayangan cermin dari apa yang secara universal disukai, dan hanya membuang preferensi pribadi dan netral. tindakan tidak relevan dengan pembahasan etikanya.
 
-Misalnya, Prinsip Non-Agresi (NAP) menyatakan bahwa inisiasi penggunaan kekerasan tidak bermoral - sehingga non-inisiasi penggunaan kekuatan secara universal lebih disukai, sementara inisiasi penggunaan kekerasan dilarang secara universal. Jika apa yang dilarang justru kebalikan dari apa yang lebih baik, sebenarnya tidak ada kebutuhan untuk kategori tambahan.
+Misalnya, Prinsip Non-Agresi (NAP) menyatakan bahwa inisiasi penggunaan kekerasan tidak bermoral - sehingga non-inisiasi penggunaan kekuatan secara universal lebih disukainya, sementara inisiasi penggunaan kekerasan dilarang secara universal. Jika apa yang dilarang justru kebalikan dari apa yang lebih baik itu, sebenarnya tidak ada kebutuhan untuk kategori tambahan.
 
-Lebih jauh lagi, sebagai filsuf moral, kita harus memprioritaskan penilaian etika rasional kita dengan memusatkan perhatian pada pelanggaran yang paling mengerikan. Jelas, tindakan yang paling tidak bermoral harus menjadi penegakan kekerasan terhadap preferensi yang tidak adil terhadap orang lain. Jika tindakan seperti "pencurian" atau "pembunuhan" didefinisikan sebagai UPB, pemeriksaan definisi tersebut harus menjadi prioritas tertinggi kami.
+Lebih jauh lagi, sebagai filsuf moral, kita harus memprioritaskan penilaian etika rasional kita dengan memusatkan perhatian pada pelanggaran yang paling mengerikan itu. Jelas, tindakan yang paling tidak bermoral harus menjadi penegakan kekerasan terhadap preferensinya yang tidak adil terhadap orang lain. Jika tindakan seperti "pencurian" atau "pembunuhan" didefinisikan sebagai UPB, pemeriksaannya definisi tersebut harus menjadi prioritas tertinggi kami.
 
-Dengan demikian, kita akan memfokuskan usaha kita terutama pada tindakan yang lebih baik secara universal dan dapat dilaksanakan.
+Dengan demikian, kita akan memfokuskan usaha kita terutama pada tindakan yang lebih baik dan secara universal dan dapat dilaksanakan.
 
 ### Kebajikan Dan Kebalikannya
 
