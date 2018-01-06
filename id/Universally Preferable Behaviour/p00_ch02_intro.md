@@ -62,9 +62,9 @@ Ini “tengah kebenaran” adalah ilusi yang paling berbahaya dari semuanya, kar
 
 Dengan memberikan ilusi bahwa kita telah menemukan kebenaran, "kebenaran tengah" sebenarnya mencegah kita untuk mendapatkan kebenaran. Mereka adalah garis terakhir pertahanan untuk fantasi, predasi dan eksploitasi.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. Misalnya, kekristenan muncul dari fasisme yang berkembang di kekaisaran Romawi akhir sebagian dengan menyerang takhayul "primitif" dari teologi yang ada. "Lupakan tuhan-tuhan lama Anda, kita memiliki Tuhan yang baru yang jauh lebih baik!"
+Karena mereka tidak hanya irasional, tapi *anti*-rasional, "tengah kebenaran" tetap tanpa henti fleksibel – selama mereka melayani yang berkuasa. Misalnya, kekristenan muncul dari fasisme yang berkembang di kekaisaran Romawi akhir sebagian dengan menyerang takhayul "primitif" dari teologi yang ada. "Lupakan tuhan-tuhan lama Anda, kita memiliki Tuhan yang baru yang jauh lebih baik!"
 
-"Kebenaran tengah" selalu berbentuk kebenaran, diikuti dengan sebuah kebohongan. "Zeus adalah takhayul pagan" adalah pernyataan yang benar, yang secara terbuka dibuat oleh penganut penganut agama Kristen. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+"Kebenaran tengah" selalu berbentuk kebenaran, diikuti dengan sebuah kebohongan. "Zeus adalah takhayul pagan" adalah pernyataan yang benar, yang secara terbuka dibuat oleh penganut penganut agama Kristen. Kebohongan itulah yang terjadi: “Yahweh bukan seorang penyembah berhala tahayul, tapi Tuhan yang nyata dan hidup"
 
 We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
 
