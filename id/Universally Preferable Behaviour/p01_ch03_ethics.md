@@ -42,7 +42,7 @@ In order to begin our discussion of ethics, it is essential that we understand t
 
 Di bidang ekonomi, sebuah teori tidak dapat berlaku jika mensyaratkan harga naik dan turun pada waktu yang bersamaan. Dalam fisika, sebuah teori tidak dapat berlaku jika mensyaratkan bahwa gas berkembang dan berkontraksi secara bersamaan. Dalam matematika, sebuah teori tidak dapat berlaku jika mensyaratkan dua di tambah dua sama dengan lima, karena "lima" hanyalah cara lain untuk menggambarkan dua di tambah tiga bukan dua di tambah dua, dan untu mengatakan dua di tambah dua sama dengan lima adalah mengatakan lima Samad engkau empat, yang kontradiktif sendiri.
 
-In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+In general, any theory that contradicts itself in the utterance cannot be valid. Ini tidak memerlukan disprolueksi eksternal, karena menyangkal dirinya sendiri. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
 
 If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
 
