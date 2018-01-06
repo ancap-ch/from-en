@@ -28,25 +28,25 @@ d. **hak Cipta dan hak serupa** berarti hak Cipta dan / atau hak serupa erat ter
 
 e. **Tindakan Teknologi yang Efektif** berarti tindakan yang, jika tidak ada otoritas yang tepat, mungkin tidak dielakkan berdasarkan undang-undang yang memenuhi kewajiban berdasarkan Pasal 11 dari Perjanjian Hak Cipta WIPO yang diadopsi pada tanggal 20 Desember 1996, dan/atau yang serupa secara internasional perjanjian.
 
-f. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+f. **Pengecualian dan Keterbatasan ** berarti penggunaan wajar, transaksi wajar, dan/atau pengecualian atau pembatasan lainnya terhadap Hak Cipta dan Hak serupa yang berlaku untuk penggunaan Anda dari Bahan Berlisensi.
 
-g. **License Elements** means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.
+g. **Lisensi Elemen** berarti atribut lisensi yang tercantum dalam nama Creative Commons Lisensi Publik. Unsur Lisensi dari Lisensi Publik ini adalah Atribusi dan ShareAlike.
 
-h. **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+h. **Bahan Berlisensi** berarti karya seni atau karya sastra, database, atau materi lain yang digunakan Pemberi Lisensi untuk Lisensi Publik ini.
 
-i. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+i. **Hak Berlisensi** adalah hak yang diberikan kepada Anda yang tunduk pada syarat dan ketentuan dari Lisensi Publik ini, yang dibatasi untuk semua Hak Cipta dan Hak serupa yang berlaku untuk penggunaan Anda atas Materi Lisensi dan bahwa Pemberi Lisensi mempunyai kewenangan untuk melisensikan.
 
-j. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
+j. **pemberi lisensi** berarti individu (S) atau entitas (Ies) pemberian hak di bawah lisensi publik.
 
-k. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+k. **Bagi** berarti memberikan materi kepada publik dengan cara atau proses yang memerlukan izin berdasarkan Hak Izin, seperti reproduksi, tampilan publik, kinerja publik, distribusi, diseminasi, komunikasi, atau impor, dan untuk membuat materi yang tersedia untuk umum termasuk dengan cara agar anggota masyarakat dapat mengakses materi dari suatu tempat dan pada waktu yang dipilih oleh mereka secara individual.
 
-l. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+l. **Hak Basis Data Sui Generis** berarti hak selain hak cipta yang dihasilkan dari Petunjuk 96/9/EC Parlemen Eropa dan Dewan 11 Maret 1996 tentang perlindungan hukum database, sebagaimana telah diubah dan / atau berhasil, serta hak dasarnya lainnya yang setara di manapun di dunia ini.
 
-m. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+m. **Anda** berarti individu atau entitas yang menjalankan Hak Izin berdasarkan Lisensi Publik ini. Anda memiliki arti yang sesuai.
 
-### Section 2 – Scope.
+### Bagian 2 - Ruang Lingkup.
 
-a. ***License grant.***
+a. *** pemberian lisensi. ***
 
 1. Dengan tunduk pada syarat dan ketentuan dari Lisensi Publik ini, maka Pemberi Lisensi dengan ini memberi Anda lisensi di seluruh dunia, bebas royalti, tidak dapat disahkan, non-eksklusif, tidak dapat dibatalkan, untuk menerapkan Hak Izin dalam Materi Izin untuk:
     
