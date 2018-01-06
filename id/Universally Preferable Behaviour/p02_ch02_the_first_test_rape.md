@@ -8,7 +8,7 @@ Mari kita gunakan kerangkanya UPB untuk memeriksa konsistensi logis dari proposi
 
 Sebagai contoh yang masuk akal, mari kita bayangkan bahwa kita sedang mengkaji sebuah teori yang etis yang menyatakan bahwa pemerkosaan adalah kebaikan moral.
 
-Jelas, jika saya menyatakan bahwa "X" adalah "barang bagus", maka kebalikan dari "X" pasti jahatnya. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+Jelas, jika saya menyatakan bahwa "X" adalah "barang bagus", maka kebalikan dari "X" pasti jahatnya. If *not raping* is good, then *raping* must be evil. If *not raping* is good, then *raping* must be evil.
 
 Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
 
