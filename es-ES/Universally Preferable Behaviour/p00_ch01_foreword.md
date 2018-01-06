@@ -14,7 +14,7 @@ Inevitablemente, un hombre da un paso al frente que impacta a todos como algo to
 
 Este libro es la historia de mi asalto personal a tal bestia.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Esta "bestia" es la creencia de que es imposible definir un sistema ético científico, objetivo, racional y secular. Esta "bestia" es la ilusión de que la moralidad debe siempre estar perdida en los pantanos irracionales de dioses y gobiernos, exigida por razones meramente pragmáticas, pero siempre sin justificación lógica o una definición clara. Esta "bestia" es la fantasía de que la virtud, nuestra mayor alegría, nuestra más profunda felicidad, debe ser siempre dejada de lado por adultos seculares, y dejada en el polvo para ser barrida, desfilada y explotada por políticos y curas – y padres. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
 
 This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
 
