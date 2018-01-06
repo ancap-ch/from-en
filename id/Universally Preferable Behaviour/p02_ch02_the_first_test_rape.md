@@ -64,11 +64,11 @@ Sekali lagi, rangka UPB muncul untuk menyelamatkan.
 
 An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
 
-Umpamanya, jika APA saya: "tepat waktu," lalu itu akan menjadi standar dunia yang benar-benar dapat dihindari. Saya tidak bisa dengan paksa menimbulkan APA ini pada anda karena anda tidak harus menjadi teman saya, anda tidak harus tepat waktu, bagaimanapun juga anda tidak harus menghormati atau mengikuti kehadiran saya. [^1]
+Umpamanya, jika APA saya: ”tepat waktu,” lalu itu akan menjadi standar dunia yang benar-benar dapat dihindari. Saya tidak bisa dengan paksa menimbulkan APA ini pada anda karena anda tidak harus menjadi teman saya, anda tidak harus tepat waktu, bagaimanapun juga anda tidak harus menghormati atau mengikuti kehadiran saya. [^1]
 
 If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
 
-With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
+Dengan pikiran cabul, seperti kita lihat diatas, hal itu tidak mungkin bagi dua orang untuk melakukanya dalam waktu yang sama. Yang satu harus selalu menjadi pemerkosa, dan yang lain selalu menjadi korban.
 
 On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
 
