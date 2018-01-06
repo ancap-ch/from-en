@@ -26,7 +26,7 @@ Rasyonel bir ahlak sistemi tanımlayamadığımızdan, çocuklarımıza dini kor
 
 Ahlak olmadan yaşayamayız, ancak ahlakı objektif olarak da tanımlayamıyoruz – bu nedenle de ebediyen iki yüzlülüğün boş hayatlarına, alaycılığın hakimiyetine yada dindar köleliğe mahkum kalıyoruz.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Entelektüel açıdan, dünyada riskli ve sonucu ağır olabilecek bir şey yoktur. Nesnel ve rasyonel ahlaki kuralları tanımlama konusundaki başarısızlığımız, dinler ve devletler arasındaki savaşta milyonlarca insan hayatına mal olmuştur.
 
 In many ways, the stakes are getting even higher.
 
