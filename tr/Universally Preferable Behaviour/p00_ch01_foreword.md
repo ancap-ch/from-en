@@ -2,9 +2,9 @@
 
 Bir çok peri masalında, muazzam gücü olan, çevredeki topraklara zulüm yapan, bir ejderha yada bir basilisk yaşar. Köylüler bu canavarın önünde tir tir titrerler; canavarın cani dürtülerini azaltmak umuduyla, hayvanlarını kurban ederler, para ve kan ile öderler.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Çoğu insan bu canavarın gölgesi altına saklanır, korkularını “ihtiyatlılık“ olarak adlandırır, ancak birkaç – sarhoş belki de cesaret ya da ahmaklıkla – savaşmaya karar verir. Yıllar, on yıllar umut dolu şampiyonların güçlerini, erdemlerini ve marifetlerini bu tirana karşı uydurmaya çalışmasıyla geçer.
 
-Try – and fail.
+Denerler – ve başarısız olurlar.
 
 The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
 
