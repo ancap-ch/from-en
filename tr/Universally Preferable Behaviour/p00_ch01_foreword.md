@@ -28,7 +28,7 @@ Ahlak olmadan yaşayamayız, ancak ahlakı objektif olarak da tanımlayamıyoruz
 
 Entelektüel açıdan, dünyada riskli ve sonucu ağır olabilecek bir şey yoktur. Nesnel ve rasyonel ahlaki kuralları tanımlama konusundaki başarısızlığımız, dinler ve devletler arasındaki savaşta milyonlarca insan hayatına mal olmuştur.
 
-In many ways, the stakes are getting even higher.
+Bir çok yönden, riskler daha da yükseliyor.
 
 The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
 
