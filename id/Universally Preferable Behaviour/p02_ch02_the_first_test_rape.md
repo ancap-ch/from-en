@@ -36,27 +36,27 @@ Pada titik ini, keberatan cukup dapat diangkat bahwa jika seseorang yang koma ti
 
 #### Kapasitas
 
-Konsep "avoidability" bekerja secara positif maupun negatif saja. Jika saya kehilangan alat kelamin saya dalam kecelakaan yang mengerikan, apakah saya bermoral karena menahannya diri dari pemerkosaan? Kelihatannya sulit untuk membantah bahwa saya dapat melakukannya, karena perkosaannya genital setidaknya tidak mungkin bagi saya. Demikian pula, kita bisa memanggil seorang pria "murah hati" jika dia memberi seratus dolar kepada seorang pengemis - bagaimanapun, kita pasti akan merevisi perkiraan kita jika ternyata ia menyerahkan uangnya saat berjalan dalam tidur, dan dengan malang menyesali tindakannya saat bangun tidur.
+Konsep "avoidability" bekerja secara positif maupun negatif saja. Jika saya kehilangan alat kelamin saya dalam kecelakaan yang mengerikan, apakah saya bermoral karena menahannya diri dari pemerkosaan? Kelihatannya sulit untuk membantah bahwa saya dapat melakukannya, karena perkosaannya genital setidaknya tidak mungkin bagi saya. Demikian pula, kita bisa memanggil seorang pria "murah hati" jika dia memberi seratus dolar kepada seorang pengemis - bagaimanapun, kita pasti akan merevisi perkiraannya kita jika ternyata ia menyerahkan uangnya saat berjalan dalam tidur, dan dengan malang menyesali tindakannya saat bangun tidur.
 
-Dengan demikian kita dapat dengan mudah mengatakan bahwa di mana pilihan tidak hadir, atau tidak dapat diterapkan, moralitas juga tidak ada, atau tidak dapat diterapkan. Dengan demikian pria dalam keadaan koma, sementara tindakannya tidak bisa dianggap jahat, juga tidak bisa dianggap baik. Dia ada di negara bagian tanpa pilihan, seperti bayi, atau binatang - sehingga ia dapat secara wajar dikecualikan dari peraturan moral, karena ada keadaan fisik yang secara obyektif membedakannya dari orang yang dapat memilih, yang diijinkan di bawah UPB.
+Dengan demikian kita dapat dengan mudah mengatakan bahwa di mana pilihan tidak hadir, atau tidak dapat diterapkannya, moralitas juga tidak ada, atau tidak dapat diterapkan. Dengan demikian pria dalam keadaan koma, sementara tindakannya tidak bisa dianggap jahat, juga tidak bisa dianggap lebih baik. Dia ada di negara bagian tanpa pilihan, seperti bayi, atau binatang - sehingga ia dapat secara wajarnya dikecualikan dari peraturan moral, karena ada keadaan fisik yang secara obyektif membedakannya dari orang yang dapat memilih, yang diijinkan di bawah UPB.
 
-Dengan pemikiran itu, mari kita lanjutkan pemeriksaan pemerkosaan.
+Dengan pemikiran itu, mari kita lanjutkannya pemeriksaan pemerkosaan.
 
-### Secara estetis Positif
+### Secara estetisnya Positif
 
-Tindakan positif secara estetis (APAs) lebih disukai secara universal, namun tidak dapat dilaksanakan melalui kekerasan, karena tindakan negatif secara estetis tidak memulai penggunaan kekerasan. Seperti yang telah kita bahas di atas, jika saya terlambat bertemu dengan Anda, saya belum memulai penggunaan kekuatan melawan Anda, dan saya belum menyingkirkan kemampuan Anda untuk memilih, atau menghindari situasi ini.
+Tindakan positif secara estetis (APAs) lebih disukai secara universal, namun tidak dapat dilaksanakannya melalui kekerasan, karena tindakan negatif secara estetis tidak memulai penggunaan kekerasan. Seperti yang telah kita bahas di atas, jika saya terlambat bertemu dengan Anda, saya belum memulai penggunaan kekuatan melawan Anda, dan saya belum menyingkirkannya kemampuan Anda untuk memilih, atau menghindari situasi ini.
 
-Jika kita mengatakan bahwa APA dapat ditegakkan melalui kekerasan, maka kita mengatakan bahwa inisiasi kekerasan itu baik secara moral.
+Jika kita mengatakan bahwa APA dapat ditegakkan melalui kekerasan, maka kita mengatakannya bahwa inisiasi kekerasan itu baik secara moral.
 
-Jika kita mengusulkan sebuah peraturan moral bahwa inisiasi kekerasan itu baik secara moral, maka peraturan ini menghadapi semua kemustahilan logis yang sama seperti peraturan bahwa "perkosaan itu baik secara moral."
+Jika kita mengusulkan sebuah peraturan moral bahwa inisiasi kekerasan itu baik secara moralnya, maka peraturan ini menghadapi semua kemustahilan logis yang sama seperti peraturan bahwa "perkosaan itu baik secara moral."
 
-Dua pria di sebuah ruangan tidak bisa secara moral baik pada saat yang sama, karena salah satu dari mereka harus melakukan kekerasan terhadap yang lain, dan yang lainnya harus menolaknya - karena jika dia tidak menolaknya, maka definisi tersebut bukan kekerasan, seperti dalam kasus ahli bedah yang telah kita bahas di atas. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+Dua pria di sebuah ruangan tidak bisa secara moral baik pada saat yang sama, karena salah satunya dari mereka harus melakukan kekerasan terhadap yang lain, dan yang lainnya harus menolaknya - karena jika dia tidak menolaknya, maka definisi tersebut bukan kekerasan, seperti dalam kasus ahli bedah yang telah kita bahas di atas. Dengan demikian kebajikan dapat hanya diaktifkan oleh menolak kebajikan, dan dua orang dalam situasi yang sama tidak baik dapat moral pada saat yang sama, dan seterusnya-yang semuanya pelanggaran UPB.
 
-Thus we know that rape cannot be an APA.
+Jadi kita tahu bahwa pemerkosaan tidak bisa APA.
 
-We can confirm this by reviewing the reasons why “being on time” *is* an APA.
+Kami bisa mengkonfirmasi ini dengan meninjau alasan mengapa "menjadi tepat waktu" *adalah* APA.
 
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
+Pertama-tama kita secara naluriah memahami bahwa itu lebih hanya untuk menolak teman karena terus-menerus terlambat daripada untuk menolak teman untuk tidak menyukai es krim.
 
 Why is that?
 
@@ -72,7 +72,7 @@ With rape though, as we have seen above, it is impossible for two people to perf
 
 On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
 
-Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
+Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. Jika saya suka jazz semua bentuk-bentuk lain dari musik, tapi Anda lebih suka musik klasik semua bentuk-bentuk lain, dan jika preferensi pribadi Universal lebih baik, maka Anda harus memilih jazz karena saya lakukan, dan saya harus memilih klasik karena Anda lakukan. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
 
 Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
 
@@ -88,21 +88,21 @@ If we propose the moral rule: “personal preferences must be violently inflicte
 
 Personal preferences cannot be justly inflicted upon other people, because that would create an insurmountable logical paradox.
 
-If I say that liking the band Queen above all others is universally preferable behaviour, on what grounds could I justify that statement? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
+If I say that liking the band Queen above all others is universally preferable behaviour, on what grounds could I justify that statement? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. Ini adalah kemustahilan, yang merupakan alasan utama mengapa hanya preferensi pribadi tidak dapat dilaksanakan secara universal.
 
-Thus if rape is considered to be a merely personal preference, then it cannot logically be enforced upon anybody else. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
+Dengan demikian jika perkosaan dianggap preferensi pribadi hanya, maka itu tidak logis akan diberlakukan pada orang lain. Sekali lagi, berpikir dua laki-laki di Kamar, ini akan memerlukan bahwa kedua orang lebih suka untuk memperkosa satu sama lain, namun tetap benar-benar mampu untuk menegakkan keputusan itu, yang tidak hanya tidak logis, tapi juga Untungnya benar-benar tidak praktis.
 
 Finally, since personal preferences cannot be enforced on others, but rape is by definition the enforcement of a “preference” upon another, rape cannot be in the moral category of merely personal preferences.
 
-### Morally Neutral
+### Moral netral
 
-As discussed above, rape cannot be a morally neutral action, since it is a preference that is enforced upon another.
+Seperti yang dibahas diatas, pemerkosaan tidak bisa tindakan yang secara moral netral, karena itu adalah preferensi yang diberlakukan atas yang lain.
 
-### Personally Negative
+### Pribadi negatif
 
-Perhaps rape is a *personally negative* action, the opposite of number three. As an example, a criminal on the run would consider capture a personally negative action (PNA).
+Mungkin perkosaan adalah tindakan *pribadi negatif*, kebalikan dari nomor tiga. Sebagai contoh, seorang penjahat di jalankan akan mempertimbangkan mengambil tindakan pribadi negatif (PNA).
 
-Personally negative actions (PNAs) by definition cannot be enforced upon another. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
+Pribadi tindakan negatif (PNAs) oleh definisi tidak bisa ditegakkan atas yang lain. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
 
 ### Aesthetically Negative
 
