@@ -52,15 +52,15 @@ Menariknya, jika seseorang secara sah berhutang padaku, aku tidak diizinkan untu
 
 Mencuri, seperti yang telah kita buktikan, adalah kejahatan.
 
-Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
+Fisika revolutionised Einstein oleh menyatakan - dan membuktikan - bahwa kecepatan terang itu tetap.
 
-We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
+Kita dapat revolutionise dunia dengan menerima pernyataan - dan bukti - yang mencuri selalu kejahatan.
 
-### Government, Religion, And UPB
+### Pemerintah, agama, dan UPB
 
-When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
+Apabila kita mengambil kerangka kerja UPB dan menerapkannya ke proposisi moral mengenai pemerintah dan agama, beberapa hasil sangat menarik terjadi.
 
-The proposition that is most often used to justify government power is: “the government has the right to take your money.” This, however, is an utterly imprecise and false statement. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+Usul yang paling sering digunakan untuk membenarkan daya pemerintah adalah: "pemerintah yang mempunyai hak untuk mengambil uang anda." Namun, ini adalah sebuah agak tidak tepat dan pernyataan palsu sama sekali. "Pemerintah" tidak memiliki hak untuk mengambil uang Anda, karena "pemerintah" hanyalah sebuah konsep abstrak, keterangan untuk sebuah grup yang ditetapkan oleh diri orang. UPB memerlukan lebih konsisten dan pernyataan tujuan. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
 
 “*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
 
