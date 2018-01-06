@@ -52,13 +52,13 @@ Dalam dunia sains, tidaklah sulit untuk melihat kekuatan penindas yang terus-men
 
 Kebenaran yang sederhana adalah bahwa "imam" dan "raja" - hanyalah - hanya manusia biasa saja. Kebenaran yang sederhana adalah bahwa para dewa dan setan yang seharusnya membenarkan peraturan mereka tidak pernah ada.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+Kami telah membuat langkah besar dalam memahami sifat dan realitas sederhana manusia kesetaraan, tapi sedih faktanya adalah bahwa alam *moralitas* masih hilang dalam "null zona" - ini merusak ilusi dari "tengah kebenaran."
 
-### "Middle Truths"
+### "tengah kebenaran"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+Mari kita memanggil oposisi prinsip-prinsip yang tinggal di "null zona" - antara tanggapan pancaindera dan konseptual konsistensi - ulasan yang "tengah kebenaran."
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+Ini "tengah kebenaran" adalah paling berbahaya ilusi-Tama, karena mereka mengabulkan *penampilan* kebenaran Sementara sebenarnya*menyerang* kebenaran.
 
 Dengan memberikan ilusi bahwa kita telah menemukan kebenaran, "kebenaran tengah" sebenarnya mencegah kita untuk mendapatkan kebenaran. Mereka adalah garis terakhir pertahanan untuk fantasi, predasi dan eksploitasi.
 
