@@ -54,11 +54,11 @@ Jika saya memilih untuk berdebat, secara implisit saya menerima berbagai macam p
 
 #### Premise 1: We Both Exist
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+Jika saya memilih untuk berdebat dengan Anda, maka saya harus selalu menerima bahwa kita berdua ada. Jika percaya bahwa saya ada, tapi tidak, maka berdebat tidak masuk akal, dan akan menjadi tindakan orang gila. Jika saya mulai berdebat dengan bayangan saya di cermin, saya harus diberi obat penenang, tidak diperdebatkan.
 
 #### Premise 2: The Senses Have The Capacity For Accuracy
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Karena manusia tidak bisa berkomunikasi secara psikis, semua perdebatan harus melibatkan bukti indra. Menulis mengandaikan penglihatan; berbicara membutuhkan pendengaran; Braille membutuhkan sentuhan. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
 
 #### Premise 3: Language Has The Capacity For Meaning
 
@@ -66,31 +66,31 @@ Similar to Premise Two, since all arguments require language, any proposition th
 
 #### Premise 4: Correction Requires Universal Preferences
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Preferensi Anda bagi saya untuk memperbaiki kesalahan saya tidak subjektif, tapi objektif, dan universal.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+Anda tidak mengatakan kepada saya: "Anda harus mengubah pendapat Anda menjadi milik saya karena saya lebih memilihnya," melainkan: "Anda harus memperbaiki pendapat Anda karena ini salah secara obyektif." Kesalahan saya tidak timbul dari ketidaksetujuan dengan Anda, tetapi sebagai hasil penyimpangan saya dari standar kebenaran yang obyektif. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
 
 #### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Jika Anda tidak setuju dengan saya, tapi saya katakan bahwa Anda harus setuju dengan saya karena saya selalu benar, tidak mungkin Anda akan puas dengan ketegaran argumen saya. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+Pada saat saya memberikan semacam kriteria obyektif untuk menentukan kebenaran dari kepalsuan, saya menerima bahwa kebenaran itu lebih dari sekedar opini.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. Namun, kalaupun saya melakukannya, saya masih menerima bahwa kebenaran adalah sesuatu yang tidak bergantung pada pernyataan pribadi semata - bahwa metodologi objektif ada untuk memisahkan kebenaran dari kepalsuan.
 
 #### Premise 6: Truth Is Better Than Falsehood
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+Jika saya mengatakan kepada Anda bahwa dunia ini datar, dan Anda menjawab bahwa dunia tidak datar, tapi berputar, maka Anda secara implisit menerima aksioma bahwa kebenaran dan kepalsuan keduanya ada secara obyektif, dan kebenaran itu lebih baik daripada kepalsuan.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Jika saya katakan bahwa saya menyukai es krim cokelat, dan Anda mengatakan bahwa Anda menyukai vanila, tidak mungkin untuk "membuktikan" bahwa vanili itu lebih baik daripada coklat. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
 
 #### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+Jika saya katakan bahwa dunia ini datar, dan Anda mencabut pistol dan menembak saya, ini hampir tidak menjadi contoh perdebatan yang produktif. Benar, ketidaksetujuan kita akan "diselesaikan" - tapi karena hanya satu dari kita yang dibiarkan berdiri di akhir.
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Jika Anda mengatakan kepada saya sebelumnya bahwa Anda akan menghadapi pertengkaran dengan menembak saya, saya tidak mungkin terlibat dalam debat dengan Anda. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+Intinya, kemudian, berdebat membutuhkan metodologi yang obyektif, melalui bahasa yang bermakna, dalam mengejar kebenaran universal, yang secara obyektif lebih baik daripada kesalahan pribadi.
 
 This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
 
