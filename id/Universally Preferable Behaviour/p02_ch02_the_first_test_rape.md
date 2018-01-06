@@ -1,14 +1,14 @@
 ## Tes Pertama: Pemerkosaan
 
-Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Pembunuhan bisa dipersulit dengan pembelaan diri; pencurian oleh masalah kelaparan atau "mencuri kembali" - tapi orang tidak pernah bisa memperkosa pembelaan diri; Dengan definisi yang sangat berarti inisiasi agresi.
+Meskipun topik yang tidak menyenangkan untuk mendiskusikan, perkosaan adalah tanpa diragukan lagi *paling tidak* ambigu tindakan yang teori moral harus mencakup. Pembunuhan bisa dipersulit dengannya pembelaan diri; pencurian oleh masalah kelaparan atau "mencuri kembali" - tapi orang tidak pernah bisa memperkosa pembelaan diri; Dengan definisi yang sangat berarti inisiasi agresi.
 
-Mari kita gunakan kerangka UPB untuk memeriksa konsistensi logis dari proposisi etis mengenai pemerkosaan, dengan mengacu pada tujuh kategori moral ini.
+Mari kita gunakan kerangkanya UPB untuk memeriksa konsistensi logis dari proposisi etis mengenai pemerkosaan, dengan mengacu pada tujuh kategori moral ini.
 
-### Yang baik
+### Tuhan baik
 
-Sebagai contoh yang masuk akal, mari kita bayangkan bahwa kita sedang mengkaji sebuah teori etis yang menyatakan bahwa pemerkosaan adalah kebaikan moral.
+Sebagai contoh yang masuk akal, mari kita bayangkan bahwa kita sedang mengkaji sebuah teori yang etis yang menyatakan bahwa pemerkosaan adalah kebaikan moral.
 
-Jelas, jika saya menyatakan bahwa "X" adalah "barang bagus", maka kebalikan dari "X" pasti jahat. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+Jelas, jika saya menyatakan bahwa "X" adalah "barang bagus", maka kebalikan dari "X" pasti jahatnya. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
 
 Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
 
