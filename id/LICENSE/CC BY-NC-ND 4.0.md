@@ -129,15 +129,15 @@ c. Penafian jaminan dan pembatasan tanggung jawab yang diberikan di atas harus d
 
 a. Lisensi Publik ini berlaku untuk jangka waktu Hak Cipta dan Hak-hak Hak yang dilisensikan di sini. Namun, jika Anda gagal mematuhi Lisensi Publik ini, maka hak Anda berdasarkan Lisensi Publik ini akan berakhir secara otomatis.
 
-b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+b. Di mana hak Anda untuk menggunakan Bahan Izin telah diakhiri berdasarkan Bagian 6 (a), ia akan mengembalikan:
 
 1. secara otomatis pada tanggal pelanggaran tersebut disembuhkan, asalkan sudah sembuh dalam waktu 30 hari sejak ditemukannya pelanggaran; atau
 
 2. pada saat menyatakan kembali oleh Pemberi Lisensi.
     
-    For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+    Untuk menghindari keraguan, Bagian 6 (b) ini tidak mempengaruhi hak manapun Pemberi Lisensi mungkin harus mencari ganti rugi atas pelanggaran Anda atas Lisensi Publik ini.
 
-c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
+c. Untuk menghindari keraguan, Pemberi Lisensi juga dapat menawarkan Materi Izin dengan syarat atau ketentuan yang terpisah atau menghentikan penyalaan Bahan Berlisensi setiap saat; Namun, hal itu tidak akan menghentikan Lisensi Publik ini.
 
 d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
 
@@ -149,7 +149,7 @@ b. Setiap pengaturan, pemahaman, atau kesepakatan mengenai Bahan Berlisensi yang
 
 ### Section 8 – Interpretation.
 
-a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
+a. Untuk menghindari keraguan, Lisensi Publik ini tidak, dan tidak boleh ditafsirkan untuk, mengurangi, membatasi, membatasi, atau mengenakan ketentuan tentang penggunaan Materi Berlisensi yang dapat dilakukan secara sah tanpa izin berdasarkan Lisensi Publik ini.
 
 b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
 
