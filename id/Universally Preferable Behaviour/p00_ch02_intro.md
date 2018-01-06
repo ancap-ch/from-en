@@ -28,7 +28,7 @@ Tidak ada orang waras yang mengalami Tuhan secara langsung. Dalam kesehariannya,
 
 Sebaliknya, di dalam "zona kosong" agama, *lawan yang pasti* dari kedua kebenaran kecil dan kebenaran besar adalah dipercaya bahwa itu benar. Secara pribadi, seseorang percaya bahwa *yang tidak bisa dirasakan itu tidak ada* – secara intelektual, sains telah membuktikan ini berulang kali. Bagaimanapun, di dalam "zona kosong" dari teologi, proposisi berlawanan berlaku – aksioma *yang tidak dapat dirasakan**pasti** ada*.
 
-Keyakinan kita akan kebajikan militer juga terletak pada "zona nol" ini. Jika seorang pria pribadi dibayar untuk membunuh orang lain, kita memanggilnya "senjata untuk dipekerjakan," dan mengutuknya sebagai orang yang paling tidak beruntung. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
+Keyakinan kita akan kebajikan militer juga terletak pada "zona nol" ini. Jika seorang pria pribadi dibayar untuk membunuh orang lain, kita memanggilnya "senjata untuk dipekerjakan," dan mengutuknya sebagai orang yang paling tidak beruntung. Jika, bagaimanapun, seseorang ini mengenakan kostum hijau dengan pita *dan bertingkah laku sama*, kita panggil dia sebagai pahlawan dan memberikan dia penghargaan dengan pensiunan. Kebenaran kecil (*I seharusnya tidak membunuh*) benar-benar konsisten dengan kebenaran besar (*membunuh itu salah*) – tetapi di tengah-tengah ada "zona kosong,” dimana membunuh secara ajaib menjadi “bajik.”
 
 Jika "zona nol" ini benar, maka tidak ada proposisi logis yang bisa dipegang. Jika proposisi benar - dan kebalikan dari proposisi itu juga benar - maka penalaran logis menjadi tidak mungkin. Pertumbuhan ilmu pengetahuan rasional telah menjadi serangan mantap atas "zona nol" ini, dan penyerapan konsistensi objektif ke dalam kantong kecil gila ini.
 
@@ -38,7 +38,7 @@ Hal yang sama juga terjadi di ranah moralitas.
 
 ### Korbannya
 
-Crossing this “null zone” is fraught with peril. Jalan dari kebenaran kecil menuju kebenaran besar diaspal dengan tulang jutaan orang. Dari kematian Sokrates hingga penyiksaan ilmuwan awal oleh para fanatik religius, kepada jutaan orang yang telah membunuh dan meninggal karena fantasi hitam fasisme dan komunisme, dorongan pengetahuan manusia ke dalam "zona nol" penuh dengan bahaya yang cukup besar.
+Melintasi "zona kosong" ini penuh dengan risiko. Jalan dari kebenaran kecil menuju kebenaran besar diaspal dengan tulang jutaan orang. Dari kematian Sokrates hingga penyiksaan ilmuwan awal oleh para fanatik religius, kepada jutaan orang yang telah membunuh dan meninggal karena fantasi hitam fasisme dan komunisme, dorongan pengetahuan manusia ke dalam "zona nol" penuh dengan bahaya yang cukup besar.
 
 Harus "melintasi zona nol" - atau dengan mulus menyatukan kebenaran kecil dengan kebenaran besar - mau tidak mau sangat sulit dan berbahaya? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
 
