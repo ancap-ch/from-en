@@ -125,7 +125,7 @@ a. untuk menghindari diragukan lagi, bagian 2 (A) (1) memberikan Anda lisensi ha
 
 b. jika Anda mencakup semua atau besar porsi database isi database di mana Anda memiliki hak database Sui generis, maka database di mana Anda memiliki hak database Sui generis (tetapi tidak yang isi individu) disesuaikan bahan, termasuk untuk tujuan bagian 3 (B); dan
 
-c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
+c. Anda harus mematuhi persyaratan di Bagian 3 (a) jika Anda Membagikan semua atau sebagian besar isi database.
 
 For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 
