@@ -33,24 +33,24 @@ Kita harus mengambil pendekatan yang sama dalam mendefinisikan dan mengkomunikas
 Seperti apa ini? Yang harus kita lakukan adalah membangun aksioma berikut ini:
 
 - Moralitas adalah konsep yang sah.
-- Moral rules must be consistent for all mankind.
-- The validity of a moral theory is judged by its consistency.
+- Aturan moral harus konsisten untuk semua umat manusia.
+- Validitas teori moral dinilai dari konsistensinya.
 
 To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
 
-There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
+Hanya ada dua kemungkinan dalam hal peraturan moral, sama seperti ada dalam ilmu pengetahuan logis manapun. Either universal moral rules are valid, or they are not.[^6]
 
 A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
 
 We must then first ask: do moral rules exist at all?
 
-Certainly not in material reality, which does not contain or obey a single moral rule. Moral rules are different from the rules of physics, just as the scientific method is different from gravity. Matter innately obeys gravity or the second law of thermodynamics, but “thou shalt not murder” is nowhere inscribed in the nature of things. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. A theory of gravity proves that if you push a man off a cliff, he will fall. It will not tell you whether you *should* push him or not.
+Tentunya tidak dalam kenyataan material, yang tidak mengandung atau mematuhi satu peraturan moral. Aturan moral berbeda dengan aturan fisika, sama seperti metode ilmiahnya berbeda dengan gravitasi. Masalahnya secara bawaan mematuhi gravitasi atau hukum kedua termodinamika, tapi "jangan membunuh" tidak ada yang tertulis dalam sifat sesuatu. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. Sebuah teori gravitasi membuktikan bahwa jika Anda mendorong seorang pria dari tebing, dia akan jatuh. It will not tell you whether you *should* push him or not.
 
 Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
 
 If we can prove that moral theories can be objective, rational and verifiable, this will provide the same benefits to ethics that subjecting *physical* theories to the scientific method did.
 
-Before the rise of the scientific method, people believed that matter obeyed the subjective whims of gods and devils – and people believe the same of morality now. Volcanoes erupted because the mountain-god was angry; good harvests resulted from human or animal sacrifices. No one believed that absolute physical laws could limit the will of the gods – and so science could never develop. Those who historically profited from defining physical reality as subjective – mostly priests and aristocrats – fought the subjugation of physical theories to the scientific method, just as those who currently profit from defining morality as subjective – mostly priests and politicians – currently fight the subjugation of *moral* theories to objective and universal principles.
+Sebelum bangkitnya metode ilmiah, orang percaya bahwa materi mematuhi keinginan subjektif dewa dan setan - dan orang-orang percaya sama dengan moralitas sekarang. Volcanoes erupted because the mountain-god was angry; good harvests resulted from human or animal sacrifices. No one believed that absolute physical laws could limit the will of the gods – and so science could never develop. Those who historically profited from defining physical reality as subjective – mostly priests and aristocrats – fought the subjugation of physical theories to the scientific method, just as those who currently profit from defining morality as subjective – mostly priests and politicians – currently fight the subjugation of *moral* theories to objective and universal principles.
 
 As mentioned above, the scientific method is essentially a methodology for separating accurate from inaccurate theories by subjecting them to two central tests: logical consistency and empirical observation – and by always subjugating logical consistency to empirical observation. If I propose a perfectly consistent and logical theory that says that a rock will float *up* when thrown off a cliff, any empirical test proves my theory incorrect, since observation always trumps hypothesis.
 
