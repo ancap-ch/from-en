@@ -2,7 +2,7 @@
 
 Etik, hakkında zaten hepimizin fikir sahibi olduğu bir konu olsa da *içgüdüsel* etik ve *rasyonel* etik arasındaki ilişkinin ana hatlarını çizmek önemlidir.
 
-Bir beyzbol oyuncusu fizik hakkında hiçbir şey bilmese bile uçan bir topu yakalayabilir. Benzer bir şekilde, etik teorileri hakkında hiçbir şey bilmesek bile bir hareketin ahlak dışı olduğunu doğru bir şekilde algılayabiliriz.
+Bir beysbol oyuncusu fizik hakkında hiçbir şey bilmese bile uçan bir topu yakalayabilir. Benzer bir şekilde, etik teorileri hakkında hiçbir şey bilmesek bile bir hareketin ahlak dışı olduğunu doğru bir şekilde algılayabiliriz.
 
 Uçan bir topu yakalayabiliyorsam uçan bir beysbol topu hareketi hakkında içgüdüsel bir *duygum* var. Ama içgüdüsel kavrayışım, bana Jupiter'in uydusuna bir uzay aracını doğru bir şekilde gönderme yeterliliği vermez. -Top nasıl hareket eder- ile ilgili hemen ''küçük hakikat'' verir ama bu bana -Madde nasıl davranır- ile ilgili evrensel bir ''büyük hakikat'' vermez.
 
