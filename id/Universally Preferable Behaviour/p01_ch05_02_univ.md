@@ -49,16 +49,16 @@ Seperti disebutkan di atas, tidak ada teori fisika yang valid yang bisa menyangk
 
 Atau:
 
-1. Pilihannya hampir tak terbatas.
-2. Kebanyakan manusia membuat pilihan yang sangat mirip.
-3. Karena itu tidak semua pilihan bisa sama.
-4. Oleh karena itu pilihan yang lebih baik secara universal harus valid.
+1. Pilihannya hampir tak terhingga.
+2. Kebanyakan manusia memjadikan pilihan yang sangat mirip.
+3. Sebab itu tidak semua pilihan bisa sama.
+4. Oleh karena itu pilihan yang lebih baik secara universal harus benar.
 
-Argumen kelima untuk validitas perilaku yang lebih baik secara universal adalah evolusioner.
+Argumen kelima untuk keabsahan perilaku yang lebih baik secara universal adalah evolusioner.
 
-Karena semua kehidupan organik memerlukan perilaku preferensial untuk bertahan hidup, kita dapat mengasumsikan bahwa organisme yang membuat pilihan paling sukses adalah yang paling sering dipilih untuk bertahan hidup.
+Sebab semua kehidupan organik memerlukan perilaku preferensial untuk bertahan hidup, kita dapat mengasumsikan bahwa organisme yang membuat pilihan paling sukses adalah yang paling kerap dipilih untuk bertahan hidup.
 
-Karena manusia adalah spesies yang paling sukses, dan organ manusia yang paling khas adalah pikirannya, itu pasti milik manusia *pikiran* yang telah membantunya paling banyak dalam membuat pilihan yang sukses. Pikiran itu sendiri, kemudian, telah dipilih sesukses dengan kemampuannya untuk membuat pilihan yang sukses. Karena pikiran manusia hanya ada sebagai *hasil* memilih perilaku yang lebih baik secara universal, perilaku yang lebih baik secara universal harus merupakan konsep yang benar.
+Karena manusia adalah spesies yang paling sukses, dan organ manusia yang paling khas adalah pikirannya, itu pasti milik manusia *pikiran* yang telah membantunya paling banyak dalam penyusunan pilihan yang sukses. Pikiran itu sendiri, kemudian, telah dipilih sesukses dengan kemampuannya untuk menjadikan pilihan yang sukses. Karena pikiran manusia hanya ada sebagai *hasil* memilih perilaku yang lebih baik secara universal, perilaku yang lebih baik secara universal harus merupakan konsep yang benar.
 
 Or:
 
