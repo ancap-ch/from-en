@@ -26,9 +26,9 @@ Ketika kita menerapkan fakta sederhana ini untuk argumen etis, kita mendapatkan 
 
 ### Preferensi Dan Argumen
 
-Mengingat analisis di atas tentang argumen yang mengalahkan diri sendiri, kita dapat dengan mudah memahami sifat kontradiktif dari pernyataan tersebut: "pilihan tidak ada." Mengingat bahwa setiap tindakan manusia - termasuk membuat pernyataan filosofis - dipilih dalam pilihan setiap tindakan lain yang mungkin dilakukan, berdebat preferensi itu tidak ada memerlukan preferensi * * karena berpendapat bahwa preferensi tidak ada, yang merupakan pernyataan kontradiktif sendiri. Dengan berdebat bahwa preferensi tidak ada sama persis dengan mengatakan bahwa bahasa tidak ada. It is an utterly self-defeating argument.
+Mengingat analisis di atas tentang argumen yang mengalahkan diri sendiri, kita dapat dengan mudah memahami sifat kontradiktif dari pernyataan tersebut: "pilihan tidak ada." Mengingat bahwa setiap tindakan manusia - termasuk membuat pernyataan filosofis - dipilih dalam pilihan setiap tindakan lain yang mungkin dilakukan, berdebat preferensi itu tidak ada memerlukan preferensi * * karena berpendapat bahwa preferensi tidak ada, yang merupakan pernyataan kontradiktif sendiri. Dengan berdebat bahwa preferensi tidak ada sama persis dengan mengatakan bahwa bahasa tidak ada. Ini adalah benar-benar argumen yang mengalahkan diri sendiri.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Dengan demikian tidak mungkin untuk memperdebatkan adanya preferensi tanpa menerima adanya preferensi.
+Karena tidak mungkin bertindak tanpa mengungkapkan pilihan - baik secara implisit maupun eksplisit - siapa pun yang bertindak menerima premis bahwa ada pilihan. Dengan demikian tidak mungkin untuk memperdebatkan adanya preferensi tanpa menerima adanya preferensi.
 
 ### Preferensi Dan Universalitas
 
