@@ -66,23 +66,23 @@ a. ***pemberian lisensi.***
     
     B. __additional menawarkan dari pemberi lisensi - diadaptasi bahan. Setiap penerima Adapted Material from You secara otomatis menerima tawaran dari Pemberi Lisensi untuk menerapkan Hak Berlisensi dalam Bahan yang Diadaptasi sesuai ketentuan Lisensi Adaptor yang Anda terapkan.
     
-    C. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+    C. **Tidak ada batasan di bagian hilir.** Anda mungkin tidak menawarkan atau menerapkan persyaratan atau ketentuan tambahan atau berbeda, atau menerapkan Measurement Technology yang Efektif ke, Bahan Berlisensi jika melakukan hal tersebut membatasi pelaksanaan Hak Izin oleh setiap penerima Bahan Berlisensi.
 
-6. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+6. **Tidak ada pengesahan.** Tidak ada dalam Lisensi Publik ini yang merupakan atau dapat dianggap sebagai izin untuk menegaskan atau menyiratkan bahwa Anda, atau penggunaan Anda dari Materi yang Berlisensi, berhubungan dengan, atau disponsori, disetujui, atau diberikan status resmi oleh, Pemberi Lisensi atau pihak lain yang ditunjuk untuk menerima atribusi sebagaimana diatur dalam Bagian 3(a)(1)(A)(i).
 
-b. ***Other rights.***
+b. ***Hak lainnya.***
 
 1. Hak moral, seperti hak integritas, tidak dilisensikan dengan Lisensi Publik ini, juga bukan publisitas, privasi, dan / atau hak kepribadian serupa lainnya; Namun, sejauh mungkin, Pemberi Lisensi melepaskan dan / atau setuju untuk tidak menyatakan hak-hak semacam itu yang dimiliki oleh Pemberi Lisensi sampai batas tertentu yang diperlukan untuk memungkinkan Anda menjalankan Hak Izin, namun tidak sebaliknya.
 
-2. Patent and trademark rights are not licensed under this Public License.
+2. Paten dan hak merek dagang tidak dilisensikan di bawah ini lisensi publik.
 
-3. Sejauh mungkin, Pemberi Lisensi melepaskan hak untuk mengumpulkan royalti dari Anda untuk pelaksanaan Hak Izin, baik secara langsung atau melalui masyarakat yang mengumpulkan berdasarkan skema perizinan wajib atau sukarela atau sukarela. In all other cases the Licensor expressly reserves any right to collect such royalties.
+3. Sejauh mungkin, Pemberi Lisensi melepaskan hak untuk mengumpulkan royalti dari Anda untuk pelaksanaan Hak Izin, baik secara langsung atau melalui masyarakat yang mengumpulkan berdasarkan skema perizinan wajib atau sukarela atau sukarela. Dalam hal lainnya yang pemberi hak lisensi tegas cadangan untuk mengumpulkan seperti royalti.
 
-### Section 3 – License Conditions.
+### Bagian 3 - lisensi kondisi.
 
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+Penerapan Hak Izin Anda secara tegas dibuat sesuai dengan kondisi berikut.
 
-a. ***Attribution.***
+a. ***atribusi.***
 
 1. If You Share the Licensed Material (including in modified form), You must:
     
