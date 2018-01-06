@@ -70,11 +70,11 @@ Analoginya salah, karena memiliki gelar Ph.D. atau memfotokopi doktor tidak meng
 
 Hal ini menimbulkan poin yang sangat menarik, yaitu pertanyaan apakah opini bisa mengubah realitas.
 
-### Opinions And Reality
+### Pendapat dan realitas
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Jelas, kita mengerti bahwa saya tidak dapat melalui pendapat saya membebaskan Anda dari rintangan gravitasi, lebih dari pendapat saya bahwa "dua ditambah dua sama dengan lima" menjadikannya benar.
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+"Pendapat" adalah keyakinan yang tidak memiliki bukti nyata, atau tidak ada bukti yang jelas, atau yang merupakan ungkapan preferensi pribadi semata. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
 
 Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
 
