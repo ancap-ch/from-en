@@ -60,15 +60,15 @@ Jika saya mengatakan bahwa lingkaran persegi memiliki hak untuk mencuri, saya ha
 
 Jika saya membeli pakaian prajurit di toko barang bekas, dan menaruhnya di atas, jelas saya belum menciptakan alam semesta alternatif dimana peraturan moral yang berlawanan dapat berlaku. Sesaat sebelum saya mengenakan kostum itu, salahkah saya untuk membunuh - kapan benar *benar* bagi saya untuk membunuh? Kapan saya memakai celana? Bagaimana jika saya memakai celana panjangnya, tapi bukan rompinya? Bagaimana jika saya hanya memiliki satu boot saja? Bagaimana jika kedua sepatu bot menyala, tapi hanya satu yang dicampur? Bagaimana jika topi saya terbalik? Bagaimana jika saya mengunakan seragam yang tidak dikenali orang pertama kali yang saya temui? Apakah Beatles secara tiba-tiba memiliki hak untuk membunuh saat mereka menembak sampul "Sersan Peppers"? Apakah mereka kehilangan hak itu saat melepas jaket mereka?
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Saya mengajukan pertanyaan retoris ini karena sebenarnya sangat serius. Jelas, kostum militer tidak mengubah sifat manusia, lebih dari sekedar potongan rambut mengubahnya menjadi bebek, konsep, atau tuhan.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+"Ah," anda mungkin berkata, "tapi kostumnya tidak benar karena Anda mendapatkannya di toko barang bekas - mengenakan seragam tentara tidak lagi membuat Anda menjadi tentara daripada memfotokopi gelar doktor memberi Anda gelar Ph.D."
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+Analoginya salah, karena memiliki gelar Ph.D. atau memfotokopi doktor tidak mengubah peraturan moral apa pun yang menjadi sasaran Anda sebagai manusia.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+"Nah," Anda mungkin menjawab, "tapi bedanya adalah bahwa prajurit tersebut memiliki hak moral yang diberikan kepadanya oleh warga biasa, demi pembelaan secara kolektif dan sebagainya."
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Hal ini menimbulkan poin yang sangat menarik, yaitu pertanyaan apakah opini bisa mengubah realitas.
 
 ### Opinions And Reality
 
