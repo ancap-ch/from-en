@@ -64,7 +64,7 @@ Sekali lagi, rangka UPB muncul untuk menyelamatkan.
 
 An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
 
-Umpamanya, jika APA saya: ”tepat waktu,” lalu itu akan menjadi standar dunia yang benar-benar dapat dihindari. Saya tidak bisa dengan paksa menimbulkan APA ini pada anda karena anda tidak harus menjadi teman saya, anda tidak harus tepat waktu, bagaimanapun juga anda tidak harus menghormati atau mengikuti kehadiran saya. [^1]
+Umpamanya, jika APA saya: ”tepat waktu,” lalu itu akan menjadi standar dunia yang benar-benar dapat dihindari. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
 
 If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
 
@@ -134,7 +134,7 @@ If everyone should take their own pleasure regardless of their victim’s *dis*p
 
 Jadi Doug bisa mengatakan kepada Bob: ”hal ini secara moral baik untuk saya memperkosa anda, karena pilihan pribadi bisa ditegakkan dengan keras.”Bob, tentu, bisa menjawab: ”secara moral itu lebih baik untuk saya untuk melawan dengan keras serangan anda, karena pilihan pribadi saya untuk tidak diperkosa juga bisa ditegakkan dengan keras.”
 
-Tentu saja, beberapa pemerkosa adalah filsuf, tapi sebagaimana kami sebutkan diatas, bahaya utama untuk manusia bukanlah kriminal individu, tapi irasional dan eksploitatif teori moral. For instance, incarceration is inevitably justified through an appeal to a moral theory – and incarceration causes far more people to be raped than private criminals could ever dream of. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
+Tentu saja, beberapa pemerkosa adalah filsuf, tapi sebagaimana kami sebutkan diatas, bahaya utama untuk manusia bukanlah kriminal individu, tapi irasional dan eksploitatif teori moral. Misalnya, penahanan akan dibenarkan melalui seruan untuk teori moral – dan penahanan menyebabkan lebih banyak orang akan diperkosa ketimbang kriminal pribadi yang bisa difikirkan. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
 
 Thus it would seem that the only logical possibility for rape is that *not* raping is universally preferable behaviour – or that rape is universally banned behaviour.
 
