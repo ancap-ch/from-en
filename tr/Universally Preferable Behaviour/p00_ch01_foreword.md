@@ -20,7 +20,7 @@ Bu canavar Sokrates'ten Platona, Augustine'den Hume'a, Kant'dan Rand'a birçok b
 
 İnsanoğluna maliyeti çok büyüktür.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Rasyonel bir ahlak sistemi tanımlayamadığımızdan, çocuklarımıza dini korku hikayeleri dayatmak zorunda kaldık, yada kendilerine “devlet“ diyen ruhsuz denetçilerin küçük bir tekeline silahlar, hapishaneler ve ordular verdik
 
 Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
 
