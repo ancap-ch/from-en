@@ -30,7 +30,7 @@ Ancak, yalan söylemek baskının kabul edilmesini gerektirmez ve bu nedenle *ge
 
 Yalan söylemek *şiddet* kategorisine daha çok uyuyor, kendini savunmak için yalan söylemek ahlaksal olduğu kadar, tıpkı kendini koruma alanında şiddeti kullanmak ahlaklı olduğu gibi birinin kendini savunma konusunda da ''geç davranması'' veya "kaba davranması" gereken bir durumu düşünmek zor olur. Ancak, eğer bir adam evinize girip sevgili karınızın nerede olduğunu öğrenmek ve onu tokatlamak isterse, ona yalan söylemek bütünlüğün bir parodisi gibi gözükebilir. Bu durumda yalan söylemek, bir çeşit üçüncü taraf olarak kendini savunmanın ve savunmada şiddetin kullanılması ahlaki açıdan kabul edilebilir bir şey olacaktır. Benzer şekilde, bir adam yalan söyleyerek bizden yüz dolar alırsa, bizde sadece yalan söyleyerek paramızı geri alabilir.
 
-Thus we may justly lie to a liar, just as we may justly defend ourselves from a punch with a punch, but we would not exactly respect the escalating pettiness of “repaying” a tardy person by showing up even later.
+Tıpkı kendimizi, bir yumruğa, karşı bir yumrukla savunabileceğimiz gibi yalancıya da yalan söyleyerek karşı koyabiliriz ancak fakat daha da gecikmiş bir insanın "geri ödemesinin" artan küçüklüğüne tam olarak saygı gösteremeyiz.
 
 The difference is that “being late” is not as actively destructive as lying. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
 
