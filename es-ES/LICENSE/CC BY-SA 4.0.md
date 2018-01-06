@@ -34,13 +34,13 @@ g. **Elementos de licencia** hace referencia a los atributos de licencia enumera
 
 h. **Material bajo licencia** hace referencia al trabajo artístico o literario, a la base de datos u otro material al que el Licenciador haya aplicado esta Licencia pública.
 
-i. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+i. **Derechos de licencia** hace referencia a los derechos que se le otorgan sujetos a los términos y condiciones de esta Licencia pública, que está limitados a todos los derechos de autor y similares que se aplican a su uso del material licenciado y que el licenciante tiene autoridad para licenciar.
 
-j. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
+j. **Licenciante** significa la(s) persona(s) o entidad(es) que otorga(n) los derechos bajo esta Licencia Pública.
 
-k. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+k. **Compartir** significa proporcionar material al público por cualquier medio o proceso que requiera permiso bajo los Derechos de Licencia, como reproducción, exhibición pública, ejecución pública, distribución, diseminación, comunicación o importación, y para hacer material disponible para el público, incluso de manera que los miembros del público puedan acceder al material desde un lugar y en el momento que ellos elijan individualmente.
 
-l. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+l. **Derechos de la base de datos Sui Generis** derechos distintos del derecho de autor derivados de la Directiva 96/9 / CE del Parlamento Europeo y del Consejo, de 11 de marzo de 1996, sobre la protección jurídica de las bases de datos, modificada y / o aprobada, así como otros derechos esencialmente equivalentes en cualquier parte del mundo.
 
 m. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
 
