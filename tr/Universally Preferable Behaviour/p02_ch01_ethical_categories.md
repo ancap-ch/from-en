@@ -6,13 +6,13 @@ With the UPB framework in place, we can now turn to an examination of how UPB va
 
 As mentioned above, propositions regarding universally preferable behaviour fall into three general categories – positive, negative and neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
 
-1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
+1. Bu iyi (evrensel olarak tercih edilebilir ve şiddet yoluyla uygulanabilir, örneğin "cinayet işlemeyin").
 2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
 3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
 4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
 5. It is personally negative (predilection for not eating ice cream).
-6. It is aesthetically negative (“rudeness” and “being late”).
-7. It is evil (universally proscribed) (“rape”).
+6. Estetik olarak negatif ("edepsizlik" ve "geç kalmak").
+7. Bu kötü (evrensel olarak yasaklanmış) ("tecavüz").
 
 Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
 
@@ -20,7 +20,7 @@ For instance, the Non-Aggression Principle (NAP) states that the initiation of t
 
 Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
 
-Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
+Böylece, çabalarımızı öncelikle evrensel olarak tercih edilen ve uygulanabilir eylemler üzerinde yoğunlaştıracağız.
 
 ### Virtue And Its Opposite
 
