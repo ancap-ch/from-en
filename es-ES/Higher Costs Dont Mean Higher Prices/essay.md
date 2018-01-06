@@ -30,4 +30,4 @@ Esto es fácil de ver si adoptamos la visión austriaca de que el precio de los 
 
 Esto no quiere decir que los precios dentro de la cadena de suministros de cocaína no sean alguna forma de precios de equilibrio. La suposición de equilibrio parcial no es lo que hace que el análisis tenga fallas. El error radica en no reconocer que el costo (es decir, la existencia y la forma del suministro) es una función del precio anticipado (demanda) del bien final.
 
-From this follows that changes in factor prices are not necessarily reflected in prices of consumer goods, especially in the short term. Rather, they will be reflected in the profit margins of producers, and can thus cause them to change their behavior.
+De estos se desprende que los cambios en los precios de los factores no se reflejan necesariamente en los precios de los bienes de consumo, especialmente en el corto plazo. Por el contrario, se reflejarán en los márgenes de beneficio de los productores y, por lo tanto, pueden hacer que cambien su comportamiento.
