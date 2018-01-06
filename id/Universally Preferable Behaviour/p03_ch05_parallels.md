@@ -62,14 +62,14 @@ Cara untuk menentang negara - entitas imajiner yang paling berbahaya - adalah de
 
 Apakah kita suka atau tidak, UPB berlaku untuk segala sesuatu yang kita lakukan. Manusia memiliki kecenderungan alami menuju konsistensi, karena kita adalah makhluk dengan kesadaran rasional, menghuni alam semesta yang konsisten dan rasional. Jadi, apa pun premis yang kita terima dalam hidup kita cenderung memaksakan perilaku yang lebih konsisten dalam hidup kita - dan sepanjang "kehidupan" budaya atau bangsa kita juga.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+Dengan demikian orang yang percaya bahwa bullying adalah cara yang baik untuk mendapatkan apa yang dia inginkan cenderung bully lebih dan lebih selama hidupnya. Seorang pria yang percaya bahwa kekerasan adalah baik cenderung untuk menjadi lebih dan lebih ganas.
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+Dengan kata lain, UPB tuntutan konsistensi bahkan dalam inkonsistensi. UPB menuntut keseragaman bahkan di amoralitas.
 
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+Akar moral lokal budaya sehingga mendikte masa depan yang tak terelakkan. Budaya yang dibangun pada pembenaran atas paksaan akan selalu menjadi lebih koersif. Budaya yang dibangun pada rasional liberty akan selalu menjadi kurang koersif.
 
-That is why the delineation of a rational framework for ethics is so essential.
+Itulah mengapa penggambaran kerangka kerja yang rasional untuk etika adalah sangat penting.
 
-What we believe is what we become.
+Apa yang kita percaya adalah apa yang kita menjadi.
 
-If we believe lies, we shall become slaves.
+Jika kita percaya kebohongan, kita akan menjadi budak.
