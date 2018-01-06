@@ -40,7 +40,7 @@ Memang benar bahwa sangat sedikit orang *melakukan* pergi ke laut, tapi itu tida
 
 In order to begin our discussion of ethics, it is essential that we understand the nature of *self-defeating arguments*.
 
-Di bidang ekonomi, sebuah teori tidak dapat berlaku jika mensyaratkan harga naik dan turun pada waktu yang bersamaan. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
+Di bidang ekonomi, sebuah teori tidak dapat berlaku jika mensyaratkan harga naik dan turun pada waktu yang bersamaan. Dalam fisika, sebuah teori tidak dapat berlaku jika mensyaratkan bahwa gas berkembang dan berkontraksi secara bersamaan. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
 
 In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
 
