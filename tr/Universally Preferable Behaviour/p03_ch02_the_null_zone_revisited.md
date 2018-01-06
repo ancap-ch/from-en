@@ -24,9 +24,9 @@ Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara
 
 We can say:
 
-1. Proposition X is true because it is rational.
-2. Proposition Y is false because it is irrational.
-3. Proposition Z is true because I *want* it to be true.
+1. X önermesi doğru çünkü akılcı.
+2. Y önermesi yanlış çünkü akıl mantıksız.
+3. Z önermesi doğru çünkü ben doğru olmasını *istiyorum*.
 
 The third assertion is a complete self-contradiction. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
 
