@@ -36,7 +36,7 @@ Seperti apa ini? Yang harus kita lakukan adalah membangun aksioma berikut ini:
 - Aturan moral harus konsisten untuk semua umat manusia.
 - Validitas teori moral dinilai dari konsistensinya.
 
-To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
+Mulai dari awal... adalah peraturan moral - atau perilaku manusia yang lebih baik secara universal - berlaku sama sekali?
 
 Hanya ada dua kemungkinan dalam hal peraturan moral, sama seperti ada dalam ilmu pengetahuan logis manapun. Either universal moral rules are valid, or they are not.[^6]
 
