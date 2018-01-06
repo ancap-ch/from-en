@@ -102,25 +102,25 @@ Seperti yang dibahas diatas, pemerkosaan tidak bisa tindakan yang secara moral n
 
 Mungkin perkosaan adalah tindakan *pribadi negatif*, kebalikan dari nomor tiga. Sebagai contoh, seorang penjahat di jalankan akan mempertimbangkan mengambil tindakan pribadi negatif (PNA).
 
-Pribadi tindakan negatif (PNAs) oleh definisi tidak bisa ditegakkan atas yang lain. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
+Pribadi tindakan negatif (PNAs) oleh definisi tidak bisa ditegakkan atas yang lain. Dengan demikian seorang diperkosa akan salah untuk "menimbulkan" preferensi-nya untuk *tidak diperkosa* saat pemerkosa nya, dalam bentuk pertahanan diri. Dengan cara ini, inisiasi kekerasan-pelaksanaan preferensi pribadi – adalah *moral*, sementara pertahanan diri-juga penegakan preferensi pribadi-tidak bermoral. Dengan demikian kita akan memiliki tindakan yang sama (penegakan preferensi pribadi) diklasifikasikan sebagai moral dan tidak bermoral, yang tidak dapat berdiri.
 
-### Aesthetically Negative
+### Secara estetisnya Positif
 
-Perhaps rape is an aesthetically *negative* action, like “being late” – the flip-side of number two above. However, aesthetically negative actions (ANAs) cannot logically be violently enforced *because by definition they can be avoided*. Since I can freely choose to stop associating with a man who continually shows up late, I cannot shoot him for being late.
+Mungkin pemerkosaan adalah estetis tindakan *negatif*, seperti "terlambat"-sisi lain dari nomor dua di atas. Indonesian English Korean Namun, tindakan estetis negatif (ANAs) tidak logis dapat ditegakkan keras *karena menurut definisi mereka dapat dihindari*. Karena saya dapat dengan bebas memilih untuk berhenti bergaul dengan seorang pria yang terus-menerus muncul terlambat, aku tidak bisa menembak dia karena terlambat.
 
-However, rape by definition cannot be avoided, since it is a sexual attack enforced through violence.[^4] Also, if I choose to stop being friends with the tardy man mentioned above, he cannot justly force me to be his friend by threatening me with violence, since that would rely on the principle that merely personal preferences can be enforced on others, which would run fruitlessly up against my ability to enforce *my* desire to drop his friendship. This kind of “Tarantino morality” always ends up with everyone in a state of mute paralysis, pointing guns at each other’s faces like frozen statues.
+Namun, perkosaan oleh definisi tidak dapat dihindari, karena serangan seksual yang ditegakkan melalui kekerasan. [^4] Juga, jika saya memilih untuk berhenti menjadi teman dengan laki-laki terlambat yang disebutkan di atas, ia tidak bisa adil memaksa saya untuk menjadi temannya oleh mengancam saya dengan kekerasan, karena itu akan mengandalkan prinsip bahwa preferensi pribadi hanya dapat dilaksanakan pada orang lain, yang akan dijalankan kita terhadap kemampuan saya untuk menegakkan keinginan *saya* untuk menjatuhkan persahabatannya. "Tarantino moralitas" semacam ini selalu berakhir dengan semua orang dalam keadaan bisu kelumpuhan, menunjuk senjata pada masing-masing wajah seperti patung beku.
 
-As we have already established, any universally preferable behaviour must be universal to all people in all places at all times – if ANAs allow for violent enforceability (i.e. I can shoot you for being late) – then if rape is defined as an ANA which can be enforced, then the rape victim who finds rape an aesthetically negative action has the right to shoot his rapist, which effectively affirms the principle of self-defence, but at the expense of also allowing gun play in the opposition of, say, rudeness.
+Seperti kita sudah mapan, setiap perilaku Universal disukai harus universal untuk semua orang di segala tempat setiap saat-jika ANAs memungkinkan kekerasan keberlakuan (yaitu saya bisa menembak Anda karena terlambat) – kemudian jika perkosaan didefinisikan sebagai ANA yang dapat dilaksanakan, maka korban pemerkosaan yang menemukan perkosaan estetis negatif tindakan memiliki hak untuk menembak pemerkosa nya, yang secara efektif menegaskan prinsip pertahanan diri, tetapi dengan mengorbankan juga memungkinkan senapan bermain dalam oposisi dari, katakanlah, kekasaran.
 
-Thus rape cannot be an ANA.
+Maka pemerkosaan tidak mungkin ANA.
 
-Which leaves only…
+Yang meninggalkan hanya…
 
-### Evil
+### Jahat
 
-If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil,” passes the “coma test,” insofar as it is impossible for a man in a coma to rape someone.
+Jika perkosaan didefinisikan sebagai kejahatan, maka itu harus melibatkan *inisiasi* penggunaan kekuatan, yang jelas tidak. Juga, proposisi: "perkosaan jahat," melewati "ujian koma," sejauh tidak mungkin bagi seorang pria dalam keadaan koma untuk memperkosa seseorang.
 
-In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
+Selain itu, jika perkosaan jahat, maka *bukan* memperkosa harus baik-dengan cara ini, dua laki-laki di kamar keduanya dapat moral pada saat yang sama, cukup dengan tidak memperkosa satu sama lain.
 
 Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
 
