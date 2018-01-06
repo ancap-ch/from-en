@@ -46,25 +46,25 @@ m. **Anda** berarti individu atau entitas yang menjalankan Hak Izin berdasarkan 
 
 ### Bagian 2 - Ruang Lingkup.
 
-a. *** pemberian lisensi. ***
+a. ***pemberian lisensi.***
 
 1. Dengan tunduk pada syarat dan ketentuan dari Lisensi Publik ini, maka Pemberi Lisensi dengan ini memberi Anda lisensi di seluruh dunia, bebas royalti, tidak dapat disahkan, non-eksklusif, tidak dapat dibatalkan, untuk menerapkan Hak Izin dalam Materi Izin untuk:
     
-    A. reproduce and Share the Licensed Material, in whole or in part; and
+    A. mereproduksi dan Bagikan Materi Berlisensi, seluruhnya atau sebagian; dan
     
-    B. produce, reproduce, and Share Adapted Material.
+    B. memproduksi, mereproduksi, dan Berbagi Bahan Beradaptasi.
 
-2. **Exceptions and Limitations.** For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+2. **Pengecualian dan Keterbatasan.** Untuk menghindari keraguan, di mana Pengecualian dan Keterbatasan berlaku untuk penggunaan Anda, Lisensi Publik ini tidak berlaku, dan Anda tidak perlu mematuhi persyaratan dan ketentuannya.
 
-3. **Term.** The term of this Public License is specified in Section 6(a).
+3. **Istilah.** Istilah Lisensi Publik ini ditentukan dalam 6 Bagian (a).
 
-4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. Pemberi Lisensi melepaskan dan / atau setuju untuk tidak menyatakan hak atau wewenang untuk melarang Anda melakukan modifikasi teknis yang diperlukan untuk menerapkan Hak Izin, termasuk modifikasi teknis yang diperlukan untuk menghindari Tindakan Teknologi yang Efektif. Untuk keperluan Lisensi Publik ini, hanya melakukan modifikasi yang disahkan oleh Bagian 2 (a) (4) tidak pernah menghasilkan Bahan yang Diadaptasi.
+4. **Media dan format; modifikasi teknis yang diperbolehkan.** Pemberi Lisensi memberi wewenang kepada Anda untuk menerapkan Hak Izin di semua media dan format apakah sekarang diketahui atau selanjutnya dibuat, dan untuk melakukan modifikasi teknis yang diperlukan untuk melakukannya. Pemberi Lisensi melepaskan dan / atau setuju untuk tidak menyatakan hak atau wewenang untuk melarang Anda melakukan modifikasi teknis yang diperlukan untuk menerapkan Hak Izin, termasuk modifikasi teknis yang diperlukan untuk menghindari Tindakan Teknologi yang Efektif. Untuk keperluan Lisensi Publik ini, hanya melakukan modifikasi yang disahkan oleh Bagian 2 (a) (4) tidak pernah menghasilkan Bahan yang Diadaptasi.
 
-5. **Downstream recipients.**
+5. **Penerima di hilir.**
     
-    A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+    A. **Penawaran dari Pemberi Lisensi - Materi Berlisensi.** Setiap penerima Bahan Berizin secara otomatis menerima tawaran dari Pemberi Lisensi untuk menggunakan Hak Izin berdasarkan persyaratan dan ketentuan dari Lisensi Publik ini.
     
-    B. __Additional offer from the Licensor – Adapted Material. Setiap penerima Adapted Material from You secara otomatis menerima tawaran dari Pemberi Lisensi untuk menerapkan Hak Berlisensi dalam Bahan yang Diadaptasi sesuai ketentuan Lisensi Adaptor yang Anda terapkan.
+    B. __additional menawarkan dari pemberi lisensi - diadaptasi bahan. Setiap penerima Adapted Material from You secara otomatis menerima tawaran dari Pemberi Lisensi untuk menerapkan Hak Berlisensi dalam Bahan yang Diadaptasi sesuai ketentuan Lisensi Adaptor yang Anda terapkan.
     
     C. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
 
