@@ -32,7 +32,7 @@ As Hume famously pointed out, it is impossible to derive an “ought” from an 
 
 Demikian pula tidak ada yang namanya "lebih baik" secara universal - semuanya tergantung pada tujuan yang diinginkannya. Jika saya ingin pergi ke New York dari San Francisco, saya "harus" menyetir ke timur. Jika saya ingin pergi ke laut dari San Francisco, saya "harus" menyetir ke barat. Baik "timur" maupun "barat" dapat dianggap secara universal "lebih baik."
 
-It is true that very few people *do* drive into the ocean, but that does not mean that it is universally true that nobody *ought* to drive into the ocean. Principles are not democratic – or, if they are, we once more face the problem of rank subjectivism, and must throw the entire concept of ethics out the window.
+Memang benar bahwa sangat sedikit orang *melakukan* pergi ke laut, tapi itu tidak berarti bahwa secara universal memang tidak ada siapa-siapa *harus* untuk pergi ke laut. Prinsip tidak demokratis - atau, jika memang demikian, kita sekali lagi menghadapi masalah subjectivism, dan harus membuang keseluruhan konsep etika ke luar jendela.
 
 “Behaviour” exists in objective reality, outside our minds – the concepts “ought,” “should,” and “preference,” do not exist outside our minds. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
 
