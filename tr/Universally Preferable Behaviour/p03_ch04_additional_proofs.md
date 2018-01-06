@@ -8,17 +8,17 @@ Serbest piyasa ekonomisi kuşkusuz toplumdaki malların ve kaynakların üretimi
 
 The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
 
-Teoride serbest piyasa ekonomisi, evrensel mülkiyet hakkı teorisinin uygulanmasına dayalıdır. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+Teoride serbest piyasa ekonomisi, evrensel mülkiyet hakkı teorisinin uygulanmasına dayalıdır. Buna karşılık komünizm, mülkiyet hakları evrensel teorisinin açıkça reddedilmesine dayanır. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
 
 Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
 
-### The Scientific Method
+### Bilimsel Yöntem
 
 Logic and science are in fact methodologies which exist – along with morality – under the umbrella of UPB. In other words, logic and science are both validated by the framework of UPB.
 
 A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
 
-UPB answers this question.
+ETD bu soruyu cevaplar.
 
 Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
 
