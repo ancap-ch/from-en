@@ -32,10 +32,10 @@ Tapi, dalam pengetahuan seperti universal dan dapat dicegah keracunan, saya haru
 
 Dengan demikian, sebagai seorang filsuf yang prihatin dengan kekerasan dan kebejatan moral, Haruskah aku fokus pribadi penjahat, atau umum penjahat?
 
-The violations that I experienced at the hands of private criminals fade to insignificance relative to even *one day* under the tender mercies of my “virtuous and good masters.”
+Pelanggaran yang saya mengalami tangan pribadi penjahat memudar untuk tidak penting dibandingkan bahkan *satu hari* di bawah kenakanlah "Saleh dan baik master saya."
 
-If, then, the greatest dangers to mankind are false ethical theories, then our highest prioritisation should be the discovery, communication and refinement of a valid, rational, empirical and consistent ethical theory. If we discover that most plague victims are dying from impure water, then surely telling them to purify their water should be our first and highest priority.
+Jika, kemudian, bahaya terbesar bagi umat manusia adalah teori etika yang salah, maka prioritisation tertinggi kami harus penemuan, komunikasi dan penyempurnaan dari teori etika yang berlaku, rasional, empiris dan konsisten. Jika kami menemukan bahwa kebanyakan korban wabah yang mati dari murni air, maka pasti memberitahu mereka untuk memurnikan air mereka harus menjadi prioritas pertama dan tertinggi.
 
-Let us now turn to that task.
+Sekarang mari kita beralih ke tugas itu.
 
-[^12]: Or, rather: “*forced* education is a virtue” – my parents were compelled to pay through taxes, and I was compelled to attend.
+[^12]: Atau, tepatnya: *"dipaksa* pendidikan adalah suatu kebajikan"-orang tua saya dipaksa untuk membayar melalui pajak, dan saya dipaksa untuk menghadiri.
