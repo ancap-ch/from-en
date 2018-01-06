@@ -1,13 +1,13 @@
 ## Kategori Etika
 
-Dengan kerangka UPB di tempat, sekarang kita dapat beralih ke pemeriksaan tentang bagaimana UPB memvalidasi atau membatalkan proposisi moral kita yang paling umum. Jika "teori fisika" kita bisa menjelaskan bagaimana seseorang bisa menangkap bola bisbol, setidaknya kita telah melewati rintangan pertama dan paling penting, dan memukul pukulan pertama dan terdalam kita melawan binatang itu.
+Dengan kerangka UPB di tempatnya, sekarang kita dapat beralih ke pemeriksaan tentang bagaimana UPB memvalidasi atau membatalkan proposisi moral kita yang paling umum. Jika "teori fisika" kita bisa menjelaskan bagaimana seseorang bisa menangkap bola bisbolnya, setidaknya kita telah melewati rintangan pertama dan paling penting, dan memukul pukulan pertama dan terdalam kita melawan binatang itu.
 
 ### Tujuh Kategori
 
-Seperti disebutkan di atas, proposisi mengenai perilaku yang lebih disukai secara universal terbagi dalam tiga kategori umum-positif, negatif dan netral. Untuk membantu memisahkan estetika dari etika, mari kita mulai dengan memperluas kategori ini untuk mencakup perilaku *setiap* yang dapat dikenai analisis etis. Ketujuh kategori ini adalah:
+Seperti disebutkan di atas, proposisi mengenai perilaku yang lebih disukai secara universal terbagi dalam tiga kategori seperti umum-positif, negatif dan netral. Untuk membantu memisahkan estetika dari etika, mari kita mulai dengan memperluas kategori sudah mencakup perilaku *setiap* yang dapat dikenai analisis etis. Tujuh Kategori:
 
-1. Ini bagus (lebih baik secara universal dan dapat dilaksanakan melalui kekerasan, seperti "jangan membunuh").
-2. Ini bagus (lebih baik secara universal dan dapat dilaksanakan melalui kekerasan, seperti "jangan membunuh").
+1. Ini bagus (lebih baik secara universal dan akan dapat dilaksanakan melalui kekerasan, seperti "jangan membunuh").
+2. Ini bagus (lebih baik secara universal dan dapat dilaksanakan melalui kekerasan, seperti "jangan membunuh saya").
 3. Ini positif secara pribadi (tidak secara universal disukai atau tidak dapat dilaksanakan, seperti predileksi untuk makan es krim).
 4. Ini netral, atau tidak memiliki konten etis atau estetis, seperti berlari ke bus.
 5. Secara pribadi negatif (predileksi karena tidak makan es krim).
