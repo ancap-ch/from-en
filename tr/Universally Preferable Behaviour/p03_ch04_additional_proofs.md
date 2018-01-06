@@ -22,7 +22,7 @@ ETD bu soruyu cevaplar.
 
 Bilgi edinimi için herhangi bir metodolojinin evrensel, tutarlı ve zaman-mekan kavramından bağımsız olması gerektiği için bilimsel yöntem bu gereklilikleri karşılarken, mantıksız ve özel mistisizm bunları karşılamaz ve tam tersidir.
 
-### Public Education
+### Halk Eğitimi
 
 One central principle of free market economics is that quality only really results from *voluntarism*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
 
