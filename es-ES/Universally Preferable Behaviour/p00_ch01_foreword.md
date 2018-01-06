@@ -30,9 +30,9 @@ Intelectualmente, no hay apuestas más altas en el mundo. Nuestro fracaso para d
 
 En muchas formas, las apuestas se están volviendo más elevadas.
 
-El creciente flujo de información del Internet ha elevado las sospechas a las nuevas generaciones de que aquello que llamamos "virtud" no es nada más – o menos – que cuentos de hadas autocomplacientes de sus ancestros hipócritas. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+El creciente flujo de información del Internet ha elevado las sospechas a las nuevas generaciones de que aquello que llamamos "virtud" no es nada más – o menos – que cuentos de hadas autocomplacientes de sus ancestros hipócritas. Las mentiras piadosas dichas por aquellos con autoridad – y la complicidad de aquellos que los veneran – son más claras ahora que nunca antes.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+La "verdad" ha sido expuesta como manipulación; la "virtud" como control; la "lealtad" como esclavitud, y lo que es llamado "moralidad" ha sido revelado como una ridículo espectáculo de marionetas diseñado para engañar a la gente débil y temerosa para esclavizarse a sí mismos.
 
 This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
 
