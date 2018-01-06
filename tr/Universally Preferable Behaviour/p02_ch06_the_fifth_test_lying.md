@@ -6,25 +6,25 @@ It is generally considered *more* of a strict requirement than “being on time,
 
 Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
 
-For instance:
+Örneğin:
 
-**Bob:** Lying is always good.
+**Bob:** Yalan söylemek her zaman iyidir.
 
-**Doug:** Are you lying?
+**Doug:** Yalan mı söylüyorsun?
 
-**Bob:** Yes.
+**Bob:** Evet.
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**Doug:** Bu yüzden yalan söylemek kötü olmalı çünkü yalanın iyi olduğuna dair yalan söylüyorsun.
 
-Or:
+Veya:
 
-**Bob:** Lying is always good.
+**Bob:** Yalan söylemek her zaman iyidir.
 
-**Doug:** Are you lying?
+**Doug:** Yalan mı söylüyorsun?
 
-**Bob:** No.
+**Bob:** Hayır.
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**Doug:** Bu nedenle yalan söylemek her zaman iyi değildir çünkü yalan söylemenin iyi olduğu hakkında doğruyu söylüyorsun.
 
 Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
 
