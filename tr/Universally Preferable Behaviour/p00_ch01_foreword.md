@@ -14,7 +14,7 @@ Kaçınılmaz olarak, herkese tamamen uyumsuz gelen bir adam öne çıkar. O kar
 
 Bu kitap böyle bir canavar üzerine benim kişisel saldırı hikayemdir.
 
-Bu “canavar“ inancını objektif, rasyonel, seküler ve bilimsel bir etik sistemle tanımlamak imkansızdır. Bu “canavar“ sadece pragmatik nedenlerden ötürü Ahlakın tanrıların ve hükümetlerin irrasyonel bataklıklarında kaybolması gerektiğini dayatan yanılsamadır, ancak sonsuza dek mantıksal gerekçelerden ve açık tanımlardan yoksundur. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Bu “canavar“ inancını objektif, rasyonel, seküler ve bilimsel bir etik sistemle tanımlamak imkansızdır. Bu “canavar“ sadece pragmatik nedenlerden ötürü Ahlakın tanrıların ve hükümetlerin irrasyonel bataklıklarında kaybolması gerektiğini dayatan yanılsamadır, ancak sonsuza dek mantıksal gerekçelerden ve açık tanımlardan yoksundur. Bu “canavar“ erdemin, en büyük sevincimizin, en derin mutluluğumuzun, seküler yetişkinler tarafından bir kenara atılıp çıkartılmayı beklediği, politikacılar ve rahipler – ve aileler tarafından kullanılıp sömürüldüğü fantezidir. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
 
 Bu canavar Sokrates'ten Platona, Augustine'den Hume'a, Kant'dan Rand'a birçok büyük kahramanı dize getirdi.
 
