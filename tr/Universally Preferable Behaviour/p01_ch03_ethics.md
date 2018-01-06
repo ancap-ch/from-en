@@ -14,7 +14,7 @@ Diğer bir deyişle, duyular mantığı ortaya çıkarır - bu yüzden mantık d
 
 Benzer bir tutumla, geçerli herhangi bir etik teorisi cinayet ve tecavüz gibi suçlara karşı ortak tepkimizi açıklayıp haklı çıkarabilmelidir. İnsanlığın evrensel yasaklarına mantıklı bir şekilde ters düşemez, ama onları doğru bir şekilde dahil edip onları açıklayabilmelidir.
 
-Ayrıca, Einstein fiziğinin şaşırtıcı gerçekler sunması gibi - aslında, bu gerçekler şaşırtıcı *olmasaydı* daha az değerli olabilirdi - ahlaki teoriler şaşırtıcı hatta şok edici gerçekler açığa çıkarınca en büyük değer sağlarlar. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
+Ayrıca, Einstein fiziğinin şaşırtıcı gerçekler sunması gibi - aslında, bu gerçekler şaşırtıcı *olmasaydı* daha az değerli olabilirdi - ahlaki teoriler şaşırtıcı hatta şok edici gerçekler açığa çıkarınca en büyük değer sağlarlar. Aslında, şaşırtıcı gerçekler sağlamayan ahlak teorileri, var olan içgüdüsel tercihlerin sade bir onayı olurdu, ki dolayısıyla daha az değerde olurdu.
 
 ### The Discipline Of Theoretical Ethics
 
