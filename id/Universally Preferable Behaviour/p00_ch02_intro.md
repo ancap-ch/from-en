@@ -96,7 +96,7 @@ Saat kita menyembuhkan penyakit kita sendiri, kita merasa lebih baik, Tapi penya
 
 Di jalan yang sama, parasit yang mencekik manusia melihat kebebasan mayoritas dengan ngeri. Karena parasitisme mereka membebaskan mereka dari tuntutan realitas – untuk mendapatkan roti sehari-hari mereka – Mereka pasti melihat kebebasan massa sebagai bentuk perbudakan bagi diri mereka sendiri. Dengan demikian akan terlihat seorang petani “pembebasan” ternaknya sebagai bencana…
 
-Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+Membentuk kebenaran tentu membatasi fantasi. Membatasi fantasi tentu membatasi eksploitasi. Jika saya bisa meyakinkan Anda bahwa saya adalah orang yang hidup-Tuhan, dan bahwa Tuhan yang melahirkan saya ingin Anda memberi saya sepuluh persen dari penghasilan Anda, atau Anda akan dihukum untuk selamanya, maka saya bisa menjadi sangat kaya. Saya adalah parasit ilusi, dan tergantung pada ilusi untuk rezeki yang sama pastinya seperti jamur yang bergantung pada kehangatan, kelembaban – dan kegelapan.
 
 Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
 
