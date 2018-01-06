@@ -58,18 +58,18 @@ Argumen kelima untuk validitas perilaku yang lebih baik secara universal adalah 
 
 Karena semua kehidupan organik memerlukan perilaku preferensial untuk bertahan hidup, kita dapat mengasumsikan bahwa organisme yang membuat pilihan paling sukses adalah yang paling sering dipilih untuk bertahan hidup.
 
-Karena manusia adalah spesies yang paling sukses, dan organ manusia yang paling khas adalah pikirannya, itu pasti milik manusia *pikiran* yang telah membantunya paling banyak dalam membuat pilihan yang sukses. Pikiran itu sendiri, kemudian, telah dipilih sesukses dengan kemampuannya untuk membuat pilihan yang sukses. Karena pikiran manusia hanya ada sebagai *hasil* memilih perilaku yang lebih baik secara universal, perilaku yang lebih baik secara universal harus merupakan konsep yang valid.
+Karena manusia adalah spesies yang paling sukses, dan organ manusia yang paling khas adalah pikirannya, itu pasti milik manusia *pikiran* yang telah membantunya paling banyak dalam membuat pilihan yang sukses. Pikiran itu sendiri, kemudian, telah dipilih sesukses dengan kemampuannya untuk membuat pilihan yang sukses. Karena pikiran manusia hanya ada sebagai *hasil* memilih perilaku yang lebih baik secara universal, perilaku yang lebih baik secara universal harus merupakan konsep yang benar.
 
 Or:
 
-1. Organisme berhasil dengan melakukan perilaku universal yang lebih baik.
-2. Manusia adalah organisme yang paling sukses.
-3. Oleh karena itu manusia pasti telah bertindak paling sukses atas dasar perilaku yang lebih baik secara universal.
-4. Pikiran manusia adalah organ yang paling khas.
-5. Oleh karena itu, pikiran manusia pasti telah bertindak paling berhasil atas dasar perilaku yang lebih baik secara universal.
-6. Oleh karena itu perilaku yang lebih baik secara universal harus valid.
+1. Organisme berhasil dengan melakukan tingkah laku universal yang lebih baik.
+2. Manusia adalah organisme yang sangat sukses.
+3. Oleh sebab itu manusia pasti telah bertindak paling sukses atas dasar perilaku yang lebih baik secara universal.
+4. Pikiran manusia adalah organ yang paling khusus.
+5. Oleh sebab itu, pikiran manusia pasti telah bertindak paling berhasil atas dasar perilaku yang lebih baik secara universal.
+6. Oleh sebab itu perilaku yang lebih baik secara universal harus benar.
 
-Kita bisa membawa lebih banyak argumen untuk mendukung keberadaan dan validitas UPB, namun kita harus menyelesaikan kasus kita dengan hal di atas, dan beralih ke pemeriksaan tentang sifat UPB.
+Kita bisa membawa lebih banyak argumen untuk mendukung keberadaan dan validitas UPB, tetapi kita harus menyelesaikan kasus kita dengan hal di atas, dan beralih ke pemeriksaan tentang sifat UPB.
 
 #### UPB: Opsional Dan Tujuan
 
