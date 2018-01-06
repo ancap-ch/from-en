@@ -14,7 +14,7 @@ Dalam fisika, kebenaran besar tidak bisa bertentangan dengan kebenaran kecil. Ti
 
 Secara historis, bagaimanapun, di antara kebenaran kecil kita sendiri dan kebenaran besar terletak apa yang akan saya sebut "zona nol."
 
-### The "Null Zone"
+### Itu "Zona Null"
 
 Kami menyuruh anak-anak kita untuk tidak saling memukul, dan kami percaya bahwa kekerasan salah dalam abstrak, sebagai aturan moral umum. "Kebenaran kecil" ialah: *dilarang memukul*. “Kebenaran terbesar” ialah: *kekerasan itu salah*.
 
