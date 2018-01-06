@@ -24,7 +24,7 @@ Bilgi edinimi için herhangi bir metodolojinin evrensel, tutarlı ve zaman-mekan
 
 ### Halk Eğitimi
 
-One central principle of free market economics is that quality only really results from *voluntarism*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
+Serbest piyasa ekonomisinin temel ilkelerinden birisi ise kalitenin gerçekten *gönüllülükten* kaynaklandığıdır. Zorlamak esasen verimsizdir, yetersizdir - şiddet her zaman kalitesizlikle sonuçlanır. Eski tarz Sovyet fırınları hiçbir zaman iyi ekmek satmazlardı; karısını döven bir erkek hiçbir zaman mutlu bir evliliğe sahip olamaz.
 
 The initiation of the use of force is always counter to any rational moral theory – it is a specific and explicit violation of UPB. Since public schools are funded through the initiation of the use of force, they are a form of *forced association*, which is a clear violation of the *freedom of association* validated by UPB.
 
