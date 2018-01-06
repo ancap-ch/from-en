@@ -31,7 +31,7 @@ A reasonable moral theory should be able to explain why this is the case.
 
 ### Cinayet
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+Eğer bana doğru bıçağını doğrultup koşarsan, çok az insan kendimi koruma hakkıma itiraz eder. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
 
 ### Requirements For Ethics
 
@@ -71,9 +71,9 @@ In a similar manner, if a representative of organised crime comes to my house an
 
 For the moment, we can assume that *any* threat of the initiation of violence is immoral, but the question of avoidance – particularly the *degree* of avoidance required – is also important. In general, the more that a threat interferes with the normal course of daily actions, the more egregious it is. If I have to fly to another continent in order to walk in front of your house, that is scarcely an everyday activity. If I am threatened with violence for walking down the only road towards my own home, that is a far worse intrusion upon my liberties. If I have to take specific and unprecedented action to trigger a threat, that is one thing – if I trigger the threat through normal everyday activities, that is quite another. Telling you I will slap you if you stand on your head on the dark side of the moon is scarcely a threat – telling you I will slap you if you *breathe* is.
 
-### Ethics, Aesthetics, And Avoidability
+### Etik, Estetik ve Önlenebilirlik
 
-Let’s say that you and I agree to meet at a certain location at six o’clock sharp – but then I show up half an hour late. What would your reaction be? At first, you may be a little annoyed. If I tell you that I was delayed because I stopped to give a dying man CPR and saved his life, your annoyance would likely be replaced with admiration. On the other hand, if I tell you that I am late because I was playing a video game, your annoyance would probably increase. A dying man’s need for CPR is unexpected, and therefore pretty much unavoidable – continuing to play a video game is easily avoidable, and clearly shows a lack of consideration for you.
+Diyelim ki sen ve ben belki bir yerde saat altıda buluşmak için anlaştık fakat ben yarım yarım saat geciktim. Tepkiniz ne olurdu? İlk başta biraz rahatsız olabilirsin. If I tell you that I was delayed because I stopped to give a dying man CPR and saved his life, your annoyance would likely be replaced with admiration. On the other hand, if I tell you that I am late because I was playing a video game, your annoyance would probably increase. A dying man’s need for CPR is unexpected, and therefore pretty much unavoidable – continuing to play a video game is easily avoidable, and clearly shows a lack of consideration for you.
 
 It is this capacity to *avoid* situations that forms a central root of ethical judgements A woman raped by a random intruder in her own home is undoubtedly the complete victim of a terrible crime. A woman who gets raped after getting blind drunk at a frat party and dancing naked on a tabletop presents a more complicated case. Clearly the rape, once under way, cannot be avoided, since it is being violently inflicted – however, situations which increase the likelihood of rape can be avoided.
 
