@@ -30,7 +30,7 @@ h. **Bahan Berlisensi ** berarti karya seni atau karya sastra, database, atau ma
 
 i. **Hak Berlisensi** adalah hak yang diberikan kepada Anda yang tunduk pada syarat dan ketentuan dari Lisensi Publik ini, yang dibatasi untuk semua Hak Cipta dan Hak serupa yang berlaku untuk penggunaan Anda atas Materi Lisensi dan bahwa Pemberi Lisensi mempunyai kewenangan untuk melisensikan.
 
-h. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
+h. **Pemberi Lisensi** berarti individu(s) atau entitas(ies) yang mengizinkan hak berdasarkan Lisensi Publik ini.
 
 i. **Nonkomersial** berarti tidak terutama ditujukan untuk atau diarahkan pada keuntungan komersial atau kompensasi moneter. Untuk keperluan Lisensi Publik ini, pertukaran Bahan Berlisensi untuk materi lain yang tunduk pada Hak Cipta dan Hak-hak yang Mirip dengan pembagian berkas secara digital atau cara yang serupa adalah NonCommercial asalkan tidak ada pembayaran kompensasi moneter sehubungan dengan pertukaran tersebut.
 
@@ -38,11 +38,11 @@ j. **Bagi** berarti memberikan materi kepada publik dengan cara atau proses yang
 
 k. **Hak Basis Data Sui Generis** berarti hak selain hak cipta yang dihasilkan dari Petunjuk 96/9/EC Parlemen Eropa dan Dewan 11 Maret 1996 tentang perlindungan hukum database, sebagaimana telah diubah dan / atau berhasil, serta hak dasarnya lainnya yang setara di manapun di dunia ini.
 
-l. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+l. **Anda** berarti individu atau entitas yang menjalankan Hak Izin berdasarkan Lisensi Publik ini. Anda memiliki arti yang sesuai.
 
-### Section 2 – Scope.
+### Bagian 2 - Ruang Lingkup.
 
-a. ***License grant.***
+a. ***pemberian lisensi.***
 
 1. Dengan tunduk pada syarat dan ketentuan dari Lisensi Publik ini, maka Pemberi Lisensi dengan ini memberi Anda lisensi di seluruh dunia, bebas royalti, tidak dapat disahkan, non-eksklusif, tidak dapat dibatalkan, untuk menerapkan Hak Izin dalam Materi Izin untuk:
     
