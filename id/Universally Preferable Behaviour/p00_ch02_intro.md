@@ -50,7 +50,7 @@ Jadi harus ada kekuatan ke bawah yang secara historis bertindak untuk menghancur
 
 Dalam dunia sains, tidaklah sulit untuk melihat kekuatan penindas yang terus-menerus membuat pikiran kita nyaris tak dikenal. Kombinasi takhayul dalam bentuk agama, dan kekerasan dalam bentuk aristokrasi, mengancam pemikir rasional dengan intimidasi, pemenjaraan, penyiksaan, dan pembunuhan. Sama seperti keuntungan petani dari rendahnya kecerdasan sapi, dan pemilik budak memperoleh keuntungan dari ketakutan para budaknya, para imam dan raja mempertahankan hak istimewa mereka dengan mengancam siapa pun yang berani berpikir.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+Kebenaran yang sederhana itu adalah "Imam" dan "Raja" dan – adalah – hanya laki-laki. Kebenaran yang sederhana adalah bahwa para dewa dan setan itulah yang seharusnya untuk membenarkan aturan mereka tidak pernah ada.
 
 We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
 
