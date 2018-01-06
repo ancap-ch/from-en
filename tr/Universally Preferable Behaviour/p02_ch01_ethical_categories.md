@@ -16,9 +16,9 @@ As mentioned above, propositions regarding universally preferable behaviour fall
 
 Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
 
-For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
+For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. Eğer yasaklanan şey tercih edilen şeyin tam tersi ise, bunun için fazladan bir kategoriye gerek yoktur.
 
-Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+Ayrıca ahlaki filozoflar olarak, en acımasız ihlallere odaklanarak rasyonel etiğin incelemesine öncelik vermeliyiz. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
 
 Böylece, çabalarımızı öncelikle evrensel olarak tercih edilen ve uygulanabilir eylemler üzerinde yoğunlaştıracağız.
 
