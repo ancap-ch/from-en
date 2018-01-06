@@ -121,9 +121,9 @@ Selain kondisi di bagian 3 (A), jika Anda berbagi bahan diadaptasi Anda menghasi
 
 Dimana Hak Izin termasuk Hak Basis Data Sui Generis yang berlaku untuk penggunaan Anda terhadap Bahan Berlisensi:
 
-a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
+a. untuk menghindari diragukan lagi, bagian 2 (A) (1) memberikan Anda lisensi hak untuk ekstrak, penggunaan kembali, mereproduksi, dan berbagi semua atau besar sebagian isi database;
 
-b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and
+b. jika Anda mencakup semua atau besar porsi database isi database di mana Anda memiliki hak database Sui generis, maka database di mana Anda memiliki hak database Sui generis (tetapi tidak yang isi individu) disesuaikan bahan, termasuk untuk tujuan bagian 3 (B); dan
 
 c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
 
