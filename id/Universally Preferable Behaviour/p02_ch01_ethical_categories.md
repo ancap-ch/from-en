@@ -8,13 +8,13 @@ Seperti disebutkan di atas, proposisi mengenai perilaku yang lebih disukai secar
 
 1. Ini bagus (lebih baik secara universal dan akan dapat dilaksanakan melalui kekerasan, seperti "jangan membunuh").
 2. Ini bagus (lebih baik secara universal dan dapat dilaksanakan melalui kekerasan, seperti "jangan membunuh saya").
-3. Ini positif secara pribadi (tidak secara universal disukai atau tidak dapat dilaksanakan, seperti predileksi untuk makan es krim).
-4. Ini netral, atau tidak memiliki konten etis atau estetis, seperti berlari ke bus.
-5. Secara pribadi negatif (predileksi karena tidak makan es krim).
-6. Ini secara estetis negatif ("kekasaran"dan"terlambat").
-7. Ini jahat (dilarang secara universal) ("pemerkosaan").
+3. Ini positif secara pribadi (tidak secara universal disukai atau tidak dapat dilaksanakan, seperti predileksi untuk makan es krim dingin).
+4. Ini netral, atau tidak memiliki konten etis atau estetis, seperti berlari ke bus sekolah.
+5. Secara pribadi negatif (predileksi karena tidak makan es krim dingin).
+6. Ini secara estetis negatifnya ("kekasaran"dan"terlambat").
+7. Ini jahatnya (dilarang secara universal) ("pemerkosaan").
 
-Idealnya, kita harus bisa mengurangi hanya dua kategori - yang secara keseluruhan lebih disukai dan positif secara estetik - dengan mendefinisikan proposisi etis kita sehingga apa yang dilarang secara universal hanyalah bayangan cermin dari apa yang secara universal disukai, dan hanya membuang preferensi pribadi dan netral. tindakan tidak relevan dengan pembahasan etika.
+Idealnya, kita harus bisa mengurangi hanya dua kategori - yang secara keseluruhan lebih disukai dan positif secara estetik - dengan mendefinisikan proposisi etis kita sehingga apa yang dilarang secara universal hanyalah bayangan cermin dari apa yang secara universal disukai, dan hanya membuang preferensi pribadi dan netral. tindakan tidak relevan dengan pembahasan etikanya.
 
 Misalnya, Prinsip Non-Agresi (NAP) menyatakan bahwa inisiasi penggunaan kekerasan tidak bermoral - sehingga non-inisiasi penggunaan kekuatan secara universal lebih disukai, sementara inisiasi penggunaan kekerasan dilarang secara universal. Jika apa yang dilarang justru kebalikan dari apa yang lebih baik, sebenarnya tidak ada kebutuhan untuk kategori tambahan.
 
