@@ -134,7 +134,7 @@ If everyone should take their own pleasure regardless of their victim’s *dis*p
 
 Jadi Doug bisa mengatakan kepada Bob: ”hal ini secara moral baik untuk saya memperkosa anda, karena pilihan pribadi bisa ditegakkan dengan keras.”Bob, tentu, bisa menjawab: ”secara moral itu lebih baik untuk saya untuk melawan dengan keras serangan anda, karena pilihan pribadi saya untuk tidak diperkosa juga bisa ditegakkan dengan keras.”
 
-Of course, few rapists are philosophers, but as we mentioned above, the primary danger to human beings is not the individual criminal, but irrational and exploitive moral theories. For instance, incarceration is inevitably justified through an appeal to a moral theory – and incarceration causes far more people to be raped than private criminals could ever dream of. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
+Tentu saja, beberapa pemerkosa adalah filsuf, tapi sebagaimana kami sebutkan diatas, bahaya utama untuk manusia bukanlah kriminal individu, tapi irasional dan eksploitatif teori moral. For instance, incarceration is inevitably justified through an appeal to a moral theory – and incarceration causes far more people to be raped than private criminals could ever dream of. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
 
 Thus it would seem that the only logical possibility for rape is that *not* raping is universally preferable behaviour – or that rape is universally banned behaviour.
 
