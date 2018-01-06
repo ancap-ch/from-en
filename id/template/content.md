@@ -14,18 +14,18 @@ Di bawah ini ada daftar pangram bergaya yang disebutkan, yang menunjukkan setiap
         4. th: เป็นมนุษย์สุดประเสริฐเลิศคุณค่า *กว่าบรรดาฝูงสัตว์เดรัจฉาน* **จงฝ่าฟันพัฒนาวิชาการ *อย่าล้างผลาญฤๅเข่นฆ่าบีฑาใคร* ไม่ถือโทษโกรธแช่งซัดฮึดฮัดด่า** หัดอภัยเหมือนกีฬาอัชฌาสัย ปฏิบัติประพฤติกฎกำหนดใจ พูดจาให้จ๊ะๆ จ๋าๆ น่าฟังเอยฯ (ฦ)
         5. ...
     3. Frasa ini memiliki dua catatan kaki.[^1][^2]
-5. This phrase has [this](https://example-this.com) link, and also [this again](https://example-this-again.com).
+5. Frasa ini memiliki [this](https://example-this.com)link, dan juga [ ini lagi ](https://example-this-again.com).
 
 Sekarang daftar yang tidak disebutkan:
 
-* First level
-* First level 
-    * Second level
-    * Second level 
-        * Third level
-        * Third level
-    * Second level
-* First level
+* Level pertama
+* Level pertama 
+    * Level kedua
+    * Level kedua 
+        * Level ketiga
+        * Level ketiga
+    * Level kedua
+* Level pertama
 
 Beberapa kutipan. Baris pertama sangat besar; garis kedua kecil; baris ketiga kosong; Baris keempat tidak. Baris kelima bukanlah sebuah kutipan; Baris ke 6 adalah:
 
