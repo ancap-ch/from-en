@@ -53,11 +53,11 @@ a. ***pemberian lisensi.***
 
 2. **Pengecualian dan Keterbatasan.** Untuk menghindari keraguan, di mana Pengecualian dan Keterbatasan berlaku untuk penggunaan Anda, Lisensi Publik ini tidak berlaku, dan Anda tidak perlu mematuhi persyaratan dan ketentuannya.
 
-3. **Term.** The term of this Public License is specified in Section 6(a).
+3. **Istilah.** Istilah Lisensi Publik ini ditentukan dalam Bagian 6 (a).
 
 4. **Media dan format; modifikasi teknis yang diperbolehkan.** Pemberi Lisensi memberi wewenang kepada Anda untuk menerapkan Hak Izin di semua media dan format apakah sekarang diketahui atau selanjutnya dibuat, dan untuk melakukan modifikasi teknis yang diperlukan untuk melakukannya. Anda melakukan modifikasi teknis yang diperlukan untuk menerapkan Hak Izin, termasuk modifikasi teknis yang diperlukan untuk menghindari tindakan Teknologi yang Efektif. Untuk keperluan Lisensi Publik ini, hanya melakukan modifikasi yang disahkan oleh Bagian 2 (a) (4) tidak pernah menghasilkan Bahan yang Diadaptasi.
     
-    1. **Downstream recipients.**
+    1. **Penerima di hilir.**
         
         A. **Penawaran dari Pemberi Lisensi - Materi Berlisensi.** Setiap penerima Bahan Berizin secara otomatis menerima tawaran dari Pemberi Lisensi untuk menggunakan Hak Izin berdasarkan persyaratan dan ketentuan dari Lisensi Publik ini.
         
@@ -73,23 +73,23 @@ b. ***Hak lainnya.***
 
 3. Sejauh mungkin, Pemberi Lisensi melepaskan hak untuk mengumpulkan royalti dari Anda untuk pelaksanaan Hak Izin, baik secara langsung atau melalui masyarakat yang mengumpulkan berdasarkan skema perizinan wajib atau sukarela atau sukarela. Dalam semua kasus lain, Pemberi Lisensi secara tegas berhak untuk mengumpulkan royalti tersebut, termasuk bila Bahan Berlisensi digunakan selain untuk tujuan Nonkomersial.
 
-### Section 3 – License Conditions.
+### Bagian 3 - Ketentuan Lisensi.
 
 Penerapan Hak Izin Anda secara tegas dibuat sesuai dengan kondisi berikut.
 
-a. ***Attribution.***
+a. ***Atribusi.***
 
 1. Jika Anda Berbagi Materi Berlisensi, Anda harus:
     
     A. mempertahankan hal berikut jika diberikan oleh Pemberi Lisensi dengan Materi Izin:
     
-         i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+         i. identifikasi pencipta(s) Bahan Berlisensi dan yang lainnya ditunjuk untuk menerima atribusi, dengan cara apapun yang diminta oleh Pemberi Lisensi (termasuk dengan nama samaran jika ditunjuk);
         
-         ii. a copyright notice;
+        ii. pemberitahuan hak cipta;
         
-         iii. a notice that refers to this Public License;
+         iii. ini pemberitahuan yang mengacu lisensi publik;
         
-         iv. a notice that refers to the disclaimer of warranties;
+         iv. pemberitahuan yang mengacu pada disclaimer jaminan;
         
          v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
         
