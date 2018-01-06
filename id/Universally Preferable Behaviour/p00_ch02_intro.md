@@ -56,9 +56,9 @@ Kami telah membuat langkah besar dalam memahami sifat dan realitas kesetaraan ma
 
 ### "tengah kebenaran"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+Mari kita sebut prinsip-prinsip oposisi yang berada di dalamnya itu "Zona nol" – antara persepsi indra dan konsistensi konseptual – itu “tengah kebenaran”
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+Ini “tengah kebenaran” adalah ilusi yang paling berbahaya dari semuanya, karena mereka memberikan*penampilan* kebenaran sebenarnya*menyerang* kebenaran.
 
 Dengan memberikan ilusi bahwa kita telah menemukan kebenaran, "kebenaran tengah" sebenarnya mencegah kita untuk mendapatkan kebenaran. Mereka adalah garis terakhir pertahanan untuk fantasi, predasi dan eksploitasi.
 
