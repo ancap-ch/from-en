@@ -42,11 +42,11 @@ Así la moralidad permanece, relativa a la ciencia moderna, como lo hizo la "ast
 
 Esta "bestia" de ética relativista se cierne sobre nosotros, acechándonos, justificando los impuestos, el encarcelamiento, la censura y las guerras. Esclaviza a los jóvenes en escuelas estatales y misas de domingo; atrapa a los pobres en los suaves gulags del bienestar, esclaviza incluso a los no nacidos en los pozos sin fondo de la deuda nacional.
 
-Como escribí en mi libro anterior, "Sobre la Verdad: La Tiranía de la Ilusión," la mentira más fundamental en el centro de las teorías éticas no comprobadas es que tales teorías son siempre presentadas a los niños como hechos objetivos e incontrovertibles, cuando en verdad son meras intolerancias culturales. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+Como escribí en mi libro anterior, "Sobre la Verdad: La Tiranía de la Ilusión," la mentira más fundamental en el centro de las teorías éticas no comprobadas es que tales teorías son siempre presentadas a los niños como hechos objetivos e incontrovertibles, cuando en verdad son meras intolerancias culturales. La razón por la cual los científicos no necesitan un gobierno o un Vaticano es que los científicos tienen una metodología objetiva para resolver disputas: el método científico. La razón por la que el lenguaje no necesita una autoridad central para guiar su evolución es que se basa en el "libre mercado" de preferencias individuales acumuladas para estilos y utilidades.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+La razón por la que la moralidad moderna – y la moralidad a través de la historia – siempre ha tenido que depender en la intimidación a los niños, y luego en la amenaza a los adultas, es que es una mentira manipuladora enmascarada como una verdad virtuosa.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+La verdad es que necesitamos moralidad; la mentira es que los dioses y gobiernos pueden definirla racionalmente o imponerla justamente.
 
 My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
 
