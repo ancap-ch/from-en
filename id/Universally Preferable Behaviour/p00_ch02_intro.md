@@ -78,9 +78,9 @@ Sangat sulit untuk tidak mengganti satu ilusi dengan yang lain.
 
 Agama juga merupakan "kebenaran tengah" lainnya - salah satu yang paling berbahaya. Memang benar bahwa kita adalah spesies unik di alam semesta, sejauh yang kita tahu. Seekor jerapah adalah binatang berkaki empat yang lebih tinggi, tapi manusia bukan hanya primata "pintar", tapi juga berbeda. Sifat dari perbedaan itu tetap tidak diketahui - penjelasan tentang religius "kita tidak sama dengan hewan karena kita memiliki jiwa dan diciptakan oleh Tuhan" hanyalah contoh lain dari"tengah kebenaran ". Memang benar bahwa kita adalah sangat berbeda dengan hewan. Tidak benar bahwa kita diciptakan oleh tuhan dan memiliki jiwa.
 
-Sama seperti beberapa parasit tidak dapat berakar sampai mereka mengusir parasit sebelumnya, "tengah kebenaran " hanya menyerang ilusi sebelumnya * sehingga mereka dapat mengambil tempat mereka *. Mereka yang skeptis terhadap fantasi sebelumnya tertarik pada fantasi baru. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+Sama seperti beberapa parasit tidak dapat berakar sampai mereka mengusir parasit sebelumnya, "tengah kebenaran " hanya menyerang ilusi sebelumnya * sehingga mereka dapat mengambil tempat mereka *. Mereka yang skeptis terhadap fantasi sebelumnya tertarik pada fantasi baru. Dengan demikian agama Kristen menggantikan paganisme, Marxisme menggantikan agama Kristen, pos-modernisme menggantikan Marxisme, demokrasi menggantikan aristokrasi, dan begitu seterusnya.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+Sampai kebenaran besar tercapai, dan bersatu dengan kebenaran kecil, "tengah kebenaran" hanyalah sebuah phalanx berputar dari kebohongan eksploitatif dan destruktif – dirancang khusus untuk mencegah tercapainya kebenaran besar.
 
 And the great truths are always achieved from the little truths.
 
