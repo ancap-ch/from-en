@@ -6,7 +6,7 @@ Bir beyzbol oyuncusu fizik hakkında hiçbir şey bilmese bile uçan bir topu ya
 
 Uçan bir topu yakalayabiliyorsam uçan bir beysbol topu hareketi hakkında içgüdüsel bir *duygum* var. Ama içgüdüsel kavrayışım, bana Jupiter'in uydusuna bir uzay aracını doğru bir şekilde gönderme yeterliliği vermez. -Top nasıl hareket eder- ile ilgili hemen ''küçük hakikat'' verir ama bu bana -Madde nasıl davranır- ile ilgili evrensel bir ''büyük hakikat'' vermez.
 
-In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
+Aynı şekilde, tecavüz ve cinayet gibi davranışlara karşı ortak ahlaki tepkilerimiz kesin bir şekilde yanlış değildir, ama bunlar bize tutarlı ve ampirik ahlak teorileri yaratma veya geçerliliklerini onaylama yetisi vermez.
 
 If I propose a scientific theory that completely invalidates a baseball player’s ability to catch a fly ball, then I have the insurmountable challenge of explaining how the baseball player actually *does* catch the ball. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
 
