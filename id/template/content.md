@@ -39,17 +39,17 @@ Beberapa kutipan. Baris pertama sangat besar; garis kedua kecil; baris ketiga ko
 
 ## Sub heading
 
-### Heading at the third level
+### Menuju pada tingkat ketiga
 
-#### Heading at the fourth level
+#### Menuju pada tingkat keempat
 
-Some text at 4th level.
+Beberapa teks di tingkat 4.
 
-##### Heading at the fifth level
+##### Menuju pada tingkat kelima
 
-###### Heading at the 6th level
+###### Menuju pada tingkat 6
 
-Some text at 6th level.
+Beberapa teks pada 6 tingkat.
 
 [^1]: Footnote example. But this will point to yet another footnote.[^3]
 
