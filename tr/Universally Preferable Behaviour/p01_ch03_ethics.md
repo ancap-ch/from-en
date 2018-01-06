@@ -20,7 +20,7 @@ Ayrıca, Einstein fiziğinin şaşırtıcı gerçekler sunması gibi - aslında,
 
 Eğer bir şeyin ''ahlaki olarak iyi'' olduğunu söylersem - diğer bir deyişle, bir ahlak teorisi önerirsem - açıkca insanoğlunun belirli bir tutumda davranması *gerektiğini*, veya belirli bir tutumdan *kaçınmasını* tartışıyorum.
 
-If I tell my son that he *should* become a baseball player just because I want him to, I am not stating a universal moral premise, but rather a personal preference. He is not *moral* if he becomes a baseball player, and neither is he *immoral* if he does not.
+Eğer oğluma sırf ben istiyorum diye beysbol oyuncusu olması *gerektiğini* söylersem kişisel bir tercihin aksine evrensel bir ahlaki önerme belirtmiyorum. Beysbol oyuncusu olursa *ahlaki davranmış* yada beysbol oyuncusu olmazsa *ahlak dışı davranmış* olmaz.
 
 However, if I tell him that it is *moral* for sons to obey their fathers, and *immoral* for them to disobey their fathers, then I am proposing a preference that is universal, rather than merely personal – I am trying to turn a “little truth” (*I want you to become a baseball player*) into a “great truth” (*It is immoral for sons to disobey fathers*). *If* he wishes to be moral, he *must* become a baseball player – not because becoming a baseball player is moral, but rather because obeying his father is moral.
 
