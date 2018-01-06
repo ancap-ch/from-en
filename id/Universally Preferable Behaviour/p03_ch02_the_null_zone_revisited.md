@@ -32,9 +32,9 @@ Pernyataan ketiga adalah kontradiksi diri yang lengkap. "Kebenaran" tidak tergan
 
 Pernyataan yang terlalu besar - atau "iman" - menurut definisi tidak dapat diuji, karena mereka tidak percaya pada *ketidakhadiran* bukti, tapi percaya pada *tantangan* alasan dan/atau bukti.
 
-We can believe unproven things that turn out to be true – someone doubtless thought that the world was round before it was proven – but the “null zone” is the realm wherein we cling to a belief in things that *could not possibly turn out to be true*.
+Kita dapat mempercayai hal-hal yang tidak terbukti yang ternyata benar - seseorang pasti berpikir bahwa dunia ini bulat sebelum terbukti - namun "zona nol" adalah wilayah dimana kita berpegang teguh pada keyakinan akan hal-hal yang *tidak mungkin dapat kita ubah. tidak mungkin ternyata itu benar*.
 
-If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. If I say that I believe that a square circle exists, then I am making an explicitly self-contradictory statement, which disproves itself. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+Jika saya mengatakan bahwa dua ditambah dua sama dengan lima, saya membuat kesalahan yang bisa diperbaiki dengan referensi pada logika. Jika saya mengatakan bahwa saya percaya bahwa ada lingkaran persegi, maka saya membuat pernyataan yang bertentangan secara eksplisit, yang menyangkal dirinya sendiri. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
 
 ### Next Stop: The "Alternative Universe"
 
