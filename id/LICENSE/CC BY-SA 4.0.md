@@ -18,13 +18,13 @@ Dengan menerapkan Hak Izin (didefinisikan di bawah), Anda menerima dan menyetuju
 
 ### Bagian 1 - Definisi.
 
-a. **Adapted Material** means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. Untuk keperluan Lisensi Publik ini, di mana Bahan Berlisensi adalah pertunjukan musik, pertunjukan, atau rekaman suara, Bahan Adaptasi selalu diproduksi dimana Bahan Berlisensi disinkronkan dalam hubungan berjangka waktu dengan gambar bergerak.
+a. ** Materi yang Diadaptasi ** berarti materi yang tunduk pada Hak Cipta dan Hak serupa yang berasal dari atau berdasarkan Bahan Berlisensi dan di mana Bahan Berlisensi diterjemahkan, diubah, diatur, diubah, atau dimodifikasi dengan cara yang memerlukan izin di bawah Hak Cipta dan Hak-hak Sejenis yang dimiliki oleh Pemberi Lisensi. Untuk keperluan Lisensi Publik ini, di mana Bahan Berlisensi adalah pertunjukan musik, pertunjukan, atau rekaman suara, Bahan Adaptasi selalu diproduksi dimana Bahan Berlisensi disinkronkan dalam hubungan berjangka waktu dengan gambar bergerak.
 
-b. **Adapter's License** means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
+b. ** Lisensi Adapter ** berarti lisensi yang Anda terapkan pada Hak Cipta dan Hak-hak Anda dalam kontribusi Anda terhadap Bahan yang Diadaptasi sesuai dengan syarat dan ketentuan dari Lisensi Publik ini.
 
-c. **BY-SA Compatible License** means a license listed at [creativecommons.org/compatiblelicenses](http://creativecommons.org/compatiblelicenses), approved by Creative Commons as essentially the equivalent of this Public License.
+c. **oleh-sa kompatibel lisensi** berarti lisensi yang tercantum di[ creativecommons.org/kompatibellisensi](http://creativecommons.org/compatiblelicenses), disetujui oleh Creative Commons sebagai dasarnya setara ini lisensi publik.
 
-d. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. Untuk tujuan Lisensi Publik ini, hak yang ditentukan dalam Bagian 2 (b) (1) - (2) bukan Hak Cipta dan Hak-hak Sejenis.
+d. **hak Cipta dan hak serupa** berarti hak Cipta dan / atau hak serupa erat terkait dengan hak Cipta termasuk, tanpa batasan, kinerja, menyiarkan, rekaman suara, dan hak basis data Data Sui Generis, tanpa memperhatikan bagaimana hak berlabel atau kategori. Untuk tujuan Lisensi Publik ini, hak yang ditentukan dalam Bagian 2 (b) (1) - (2) bukan Hak Cipta dan Hak-hak Sejenis.
 
 e. **Tindakan Teknologi yang Efektif** berarti tindakan yang, jika tidak ada otoritas yang tepat, mungkin tidak dielakkan berdasarkan undang-undang yang memenuhi kewajiban berdasarkan Pasal 11 dari Perjanjian Hak Cipta WIPO yang diadopsi pada tanggal 20 Desember 1996, dan/atau yang serupa secara internasional perjanjian.
 
