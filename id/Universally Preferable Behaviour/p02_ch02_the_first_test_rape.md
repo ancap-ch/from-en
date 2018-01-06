@@ -144,7 +144,7 @@ The fact that the UPB framework has logically and effectively validated the mora
 
 Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. Validasi pertama selalu sulit, karena sangat mudah untuk mendapatkan hal yang salah, dan kesalahan selalu melewati ketepatan.
 
-The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+Kerangka UPB telah secara benar memvalidasi premis moral kita bahwa pemerkosaan adalah kejahatan. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
 
 [^1]: This is very different from a physical assault, which destroys your capacity for free choice.
 
