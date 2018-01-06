@@ -6,9 +6,9 @@ Bir çok peri masalında, muazzam gücü olan, çevredeki topraklara zulüm yapa
 
 Denerler – ve başarısız olurlar.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Canavar daima ölümsüzdür, bu yüzden köylüler onun tiranlığından kurtulacak zamanı hayal edemezler. Canavar hiç rasyonel değildir, ve ticaret yapma arzusu da yoktur, bu yüzden hiçbir görüşme mümkün değildir.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Çaresiz köylülerin tek umudu bu canavarı yenebilecek bir adamın çıkmasıdır.
 
 Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
 
