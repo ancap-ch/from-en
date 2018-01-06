@@ -1,6 +1,6 @@
 ### UPB: Lima Bukti
 
-Seperti yang telah kita bahas di atas, proposisi bahwa *tidak ada yang namanya perilaku yang lebih baik* mengandung sejumlah masalah logis dan empiris yang tidak dapat diatasi. "Perilaku yang lebih baik secara universal" *harus* jadilah konsep yang valid, untuk lima alasan utama.
+Seperti yang telah kita bahas di atas, dalil bahwa *tidak ada yang namanya perilaku yang lebih baik* mengandung sejumlah masalah logis dan empiris yang tidak dapat diatasi. "Perilaku yang lebih baik secara universal" *harus* jadilah konsep yang benar, untuk lima alasan utama.
 
 The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Mengatakan bahwa tidak ada hal seperti perilaku yang lebih baik secara universal seperti berteriak di telinga seseorang bahwa suara tidak ada - secara bawaan bertentangan dengan diri sendiri. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. Namun, jika seseorang "seharusnya" melakukan sesuatu, maka orang baru saja menciptakan perilaku yang lebih baik secara universal. Jadi, perilaku yang lebih baik secara universal - atau peraturan moral - harus valid.
 
@@ -10,7 +10,7 @@ Secara sinis, ini adalah:
 2. Berdebat melawan validitas perilaku yang lebih baik secara universal menunjukkan perilaku yang lebih baik secara universal.
 3. Oleh karena itu tidak ada argumen yang bertentangan dengan validitas perilaku yang lebih baik secara universal dapat berlaku.
 
-Kita semua tahu bahwa ada preferensi subyektif, seperti menyukai es krim atau jazz, yang tidak dianggap mengikat orang lain. Di sisi lain, ada preferensi lain, seperti pemerkosaan dan pembunuhan, yang jelas*adalah* ditimbulkan pada orang lain. Ada juga preferensi untuk logika, kebenaran dan bukti, yang juga mengikat orang lain (walaupun biasanya tidak ditimbulkan dengan kejam) sepanjang kita semua menerima bahwa proposisi tidak logis harus salah atau tidak valid.
+Kita semua tahu bahwa ada pilihan subyektif, seperti menyukai es krim atau jazz, yang tidak dianggap mengikat orang lain. Di sisi lain, ada preferensi lain, seperti pemerkosaan dan pembunuhan, yang jelas*adalah* mengakibatkan pada orang lain. Ada juga preferensi untuk logika, kebenaran dan bukti, yang juga mengikat orang lain (walaupun biasanya tidak ditimbulkan dengan kejam) sepanjang kita semua menerima bahwa proposisi tidak logis harus salah atau tidak valid.
 
 Preferensi yang dapat dianggap mengikat orang lain dapat disebut "preferensi universal," atau "peraturan moral"
 
@@ -41,7 +41,7 @@ Atau:
 3. Semua pria percaya pada perilaku yang lebih baik secara universal.   Konteks | Permintaan Konteks.
 4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
 
-Argumen keempat untuk validitas perilaku yang lebih baik secara universal juga bersifat empiris. Karena manusia memiliki jumlah pilihan yang hampir tak terbatas untuk dibuat dalam kehidupan, untuk mengatakan bahwa tidak ada prinsip perilaku yang lebih baik secara universal adalah mengatakan bahwa semua pilihan sama (yaitu subjektif). Namun, semua pilihan sama dengan *bukan*, baik secara logika maupun melalui observasi empiris.
+Argumen keempat untuk validitas perilaku yang lebih baik secara universal juga bersifat empiris. Karena manusia memiliki jumlah pilihan yang hampir tak terbatas untuk dibuat dalam kehidupan, untuk mengatakan bahwa tidak ada prinsip perilaku yang lebih baik secara universal adalah mengatakan bahwa semua pilihan sama (yaitu subjektif). Namun, semua pilihan sama dengan *bukan*, baik secara logika maupun melalui pengamatan empiris.
 
 Misalnya, jika makanan tersedia, hampir semua manusia lebih suka makan setiap hari. Saat dingin, hampir semua manusia mencari kehangatan. Hampir semua orang tua memilih untuk memberi makan, berlindung dan mendidik anak-anak mereka.   Konteks | Permintaan Konteks. Ada banyak contoh pilihan umum di antara manusia, yang menunjukkan bahwa perilaku yang lebih baik secara keseluruhan melebihi dan merupakan bagian dari sifat manusia.
 
