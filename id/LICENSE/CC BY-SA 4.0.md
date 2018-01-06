@@ -1,4 +1,4 @@
-## creative commons
+## sumber daya kreatif
 
 # Attribution-ShareAlike 4.0 International
 
