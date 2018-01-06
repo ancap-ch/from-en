@@ -122,7 +122,7 @@ Jika perkosaan didefinisikan sebagai kejahatan, maka itu harus melibatkan *inisi
 
 Selain itu, jika perkosaan jahat, maka *bukan* memperkosa harus baik-dengan cara ini, dua laki-laki di kamar keduanya dapat moral pada saat yang sama, cukup dengan tidak memperkosa satu sama lain.
 
-Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
+Karena penghindaran adalah salah satu pembeda utama antara ”tidak menyenangkan” dan ”tidak bermoral,” dan pemerkosaan jelas merupakan perilaku yang tidak dapat dihindari, definisi "pemerkosaan sebagai kejahatan" juga sesuai dengan perbedaan ini.
 
 Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
 
