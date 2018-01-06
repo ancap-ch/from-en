@@ -24,7 +24,7 @@ Rasyonel bir ahlak sistemi tanımlayamadığımızdan, çocuklarımıza dini kor
 
 "Etik" dediğimiz kavram öznel ve sadece *kültürel* olarak kaldığından, sosyal kuralları uygulamak için kaçınılmaz olarak zorbalığa, korkuya ve şiddete bağlı kaldık. Etikler bilimsel yöntemin rasyonel temelinden yoksun oldukları için, “ahlak“ kanlı mitolojilerin kabile savaşlarının içinde batmış durumda kaldı, her grup insanların “erdem“e bağlılıklarını kontrol edebilmek için şiddetle kavga ediyorlardı
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Ahlak olmadan yaşayamayız, ancak ahlakı objektif olarak da tanımlayamıyoruz – bu nedenle de ebediyen iki yüzlülüğün boş hayatlarına, alaycılığın hakimiyetine yada dindar köleliğe mahkum kalıyoruz.
 
 Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
 
