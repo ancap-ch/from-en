@@ -58,7 +58,7 @@ When we dream at night, our perceptions are that the rules of “matter” and �
 
 Logic, science and truth, then, are impossible in the absence of *consistency*.
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+Pada dasarnya, hukum logika berasal dari perilaku materi dan energi, setidaknya pada tingkat perseptual. Jika saya menyuruh Anda melempar bola naik turun sama sekali, saya meminta hal yang tidak mungkin, yang dapat Anda uji dengan mudah dengan mencoba memenuhi permintaan saya. Jika saya memberitahu Anda untuk membajak lapangan utara dan lapangan selatan secara bersamaan, Anda tidak akan dapat mematuhi. Jika saya menuntut agar Anda mengubah mawar menjadi keledai, permintaan saya tidak akan pernah terpenuhi.
 
 Persepsi realitas konsisten dan objektif - dan dari konsistensi dan objektivitas inilah kita memperoleh hukum logika. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
 
@@ -66,9 +66,9 @@ The fact that seagulls do not arbitrarily turn into anvils – or vice versa –
 
 Ini adalah akar dari kriteria kunci dari metode ilmiah - reproduktifitas. Jika saya membuat klaim universal tentang sifat gravitasi, maka Anda harus bisa mereproduksi klaim itu di lingkungan Anda sendiri. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+Jika Anda adalah seorang guru matematika, Anda akan sangat tidak mungkin menerima jawaban yang salah dari seorang siswa, bahkan jika siswa tersebut mengklaim bahwa jawabannya benar "saat dia menuliskannya, tapi entah bagaimana berubah untuk sementara.
 
-Dengan demikian kita dapat menerima bahwa kita harus mengukur validitas sebuah pernyataan yang berkaitan dengan realitas obyektif - secara empiris, dan logis. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Dengan demikian kita dapat menerima bahwa kita harus mengukur validitas sebuah pernyataan yang berkaitan dengan realitas obyektif - secara empiris, dan logis. Logika sebagai sebuah disiplin muncul hanya sebagai hasil konsistensi realitas; Pengamatan empiris juga valid atau tidak benar hanya sebagai konsekuensi dari sifat realitas yang konsisten.
 
 ### The Existence Of "Truth"
 
