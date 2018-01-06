@@ -52,7 +52,7 @@ Tidak - sekali lagi, karena ikan hiu tidak memiliki kapasitas untuk menghindari 
 
 UPB memungkinkan pengecualian berdasarkan pada materi objektif dan universal atau perbedaan biologis, seperti ilmu pengetahuan lainnya. Teori ilmiah bahwa gas berkembang saat dipanaskan berlaku, tentu saja, hanya untuk gas. Saya tidak bisa membatalkan teori ini dengan membuktikan bahwa itu tidak berlaku untuk, katakanlah, plastik.
 
-Dengan cara yang sama, moralitas hanya berlaku untuk kesadaran rasional, karena persyaratan untuk dapat dihindari. Jika saya mencoba menerapkan teori moral ke siput, pohon, batu, atau konsep "angka," saya berusaha menyamakan kesadaran rasional dengan entitas yang mungkin tidak rasional dan tidak sadar, yang merupakan kontradiksi logis. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+Dengan cara yang sama, moralitas hanya berlaku untuk kesadaran rasional, karena persyaratan untuk dapat dihindari. Jika saya mencoba menerapkan teori moral ke siput, pohon, batu, atau konsep "angka," saya berusaha menyamakan kesadaran rasional dengan entitas yang mungkin tidak rasional dan tidak sadar, yang merupakan kontradiksi logis. Saya mungkin juga mengatakan bahwa Teorema Sudut Oposisi dalam geometri tidak valid karena tidak berlaku untuk lingkaran, atau awan. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
 
 In other words, misapplication is not disproof.
 
