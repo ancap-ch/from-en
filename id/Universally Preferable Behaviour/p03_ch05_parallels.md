@@ -14,7 +14,7 @@ Kami menganggap penting bahwa, di tengah masyarakat, kami menempatkan entitas sa
 
 However, “the government” no more exists than “god” exists.
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+Ketika kita berbicara tentang "tuhan" kita benar-benar berbicara tentang"pendapat para imam."
 
 When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
 
@@ -34,7 +34,7 @@ Kita bisa memilih kebajikan atau paksaan.
 
 Kita tidak bisa memiliki keduanya.
 
-### Solutions
+### Solusi
 
 Kita dapat memilih untuk percaya bahwa pemerintah adalah institusi yang perlu dan moral. Kita dapat memilih untuk percaya bahwa, tanpa pemerintah, masyarakat akan runtuh menjadi "anarki," dan dunia akan larut dalam perang melawan semua orang. Kita dapat memilih untuk percaya bahwa tanpa pemerintah, tidak akan ada jalan, tidak ada pendidikan, tidak ada perawatan kesehatan, tidak ada pensiun hari tua, tidak ada perpustakaan, tidak ada perlindungan properti dan sebagainya.
 
