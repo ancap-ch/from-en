@@ -1,18 +1,18 @@
-## Foreword
+## Prefacio
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+En muchos cuentos de hadas, vive una terrible bestia de poder estupendo, un dragón o un basilisco, que tiraniza las tierras a su alrededor. Los aldeanos locales tiemblan ante este monstruo; sacrifican animales, pagan dinero y sangre en la esperanza de apaciguar sus impulsos asesinos.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+La mayoría de las personas se encogen bajo la sombra de esta bestia, llamando a su miedo "prudencia," pero algunos pocos – quizás borrachos en valentía o temeridad – deciden pelear. Año tras año, década tras década, ola tras hola de campeones esperanzados intentan igualar su fuerza, virtud y astucia ante este tirano terrible.
 
-Try – and fail.
+Prueban – y fallan.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+La bestia siempre es inmortal, así que los aldeanos no pueden esperar para que llegue el momento de librarse de su déspota. La bestia nunca es racional, y no tiene deseo de negociar, así que no hay negociación posible.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+La única esperanza de los desesperados aldeanos es que aparezca un hombre que pueda derrotar a la bestia.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Inevitablemente, un hombre da un paso al frente que impacta a todos como algo totalmente incongruente. Él es un chico estable, el hijo de un zapatero, un aprendiz de panadero – o a veces, sólo un vagabundo.
 
-This book is the story of my personal assault on just such a beast.
+Este libro es la historia de mi asalto personal a tal bestia.
 
 This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
 
