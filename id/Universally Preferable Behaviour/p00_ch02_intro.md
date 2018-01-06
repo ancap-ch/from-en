@@ -1,6 +1,6 @@
 ## Pengantar
 
-Untuk generasi yang tak terhitung jumlahnya, umat manusia hidup dalam semacam rahim egosentris dari ketidaktahuan yang dipaksakan sendiri: dunia datar, matahari, bulan dan bintang berputar di sekelilingnya, nenek moyang memberi isyarat kepadanya dari balik kabut kematian, dan guntur adalah kemarahan dari dewa-dewa.
+Untuk generasi yang tak terhitung, manusia hidup dalam semacam egosentris rahim diri dikenakan ketidaktahuan: dunia ini datar, matahari, bulan dan bintang-bintang yang berputar di sekitar dia, nenek moyang yang memberi isyarat kepadanya dari luar kabut kematian, dan thunder adalah kemarahan para dewa.
 
 Beranjak keluar dari rahim nistik interpretasi subyektif ini membutuhkan tenaga kerja ribuan tahun - dan menghabiskan jutaan nyawa. The effort required to wrench our perspective from *perceptual experience* to *conceptual logic* was terrifying, exhilarating, highly disorienting and extremely dangerous. Understanding that the world was not what it *felt like*, or *seemed like*, was – and remains – the greatest feat of our intelligence. The *truth* of reality turned out to be in the eyes of the mind, not of the flesh.
 
