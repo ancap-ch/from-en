@@ -38,13 +38,13 @@ Seperti apa ini? Yang harus kita lakukan adalah membangun aksioma berikut ini:
 
 Mulai dari awal... adalah peraturan moral - atau perilaku manusia yang lebih baik secara universal - berlaku sama sekali?
 
-Hanya ada dua kemungkinan dalam hal peraturan moral, sama seperti ada dalam ilmu pengetahuan logis manapun. Either universal moral rules are valid, or they are not.[^6]
+Hanya ada dua kemungkinan dalam hal peraturan moral, sama seperti ada dalam ilmu pengetahuan logis manapun. Aturan moral universal berlaku, atau tidak.[^6]
 
-A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
+Aturan dapat valid jika*ada secara empiris*, secara grafitasi, atau karena*benar*, seperti persamaan dua ditambah dua sama dengan empat.
 
-We must then first ask: do moral rules exist at all?
+Kita kemudian harus bertanya dulu: apakah aturan moral itu ada?
 
-Tentunya tidak dalam kenyataan material, yang tidak mengandung atau mematuhi satu peraturan moral. Aturan moral berbeda dengan aturan fisika, sama seperti metode ilmiahnya berbeda dengan gravitasi. Masalahnya secara bawaan mematuhi gravitasi atau hukum kedua termodinamika, tapi "jangan membunuh" tidak ada yang tertulis dalam sifat sesuatu. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. Sebuah teori gravitasi membuktikan bahwa jika Anda mendorong seorang pria dari tebing, dia akan jatuh. It will not tell you whether you *should* push him or not.
+Tentunya tidak dalam kenyataan material, yang tidak mengandung atau mematuhi satu peraturan moral. Aturan moral berbeda dengan aturan fisika, sama seperti metode ilmiahnya berbeda dengan gravitasi. Masalahnya secara bawaan mematuhi gravitasi atau hukum kedua termodinamika, tapi "jangan membunuh" tidak ada yang tertulis dalam sifat sesuatu. Hukum fisik*menjelaskan*perilaku materi, namun tidak mengandung*persepsi*. Ilmu mengatakan bahwa materi*melakukan*berperilaku dengan cara tertentu - tidak pernah*harus*berperilaku dengan cara tertentu. Sebuah teori gravitasi membuktikan bahwa jika Anda mendorong seorang pria dari tebing, dia akan jatuh. Ini tidak akan memberitahu anda apakah anda*seharusnya*mendorong atau tidak.
 
 Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
 
