@@ -68,6 +68,6 @@ Pertanyan pertama mengenai peraturan moral adalah*apa*mereka?
 
 Sederhananya,*moral* adalah seperangkat aturan yang mengklaim secara akurat dan konsisten mengidentifikasi perilaku manusia yang lebih baik secara universal, sama seperti*fisika* adalah seperangkat aturan yang mengklaim secara akurat dan konsisten mengidentifikasi universal perilaku materi.
 
-Pertanyaan kedua yang harus ditanyakan adalah: adakah hal seperti itu''perilaku yang lebih baik secara universal'' a? Jika ada, kita bisa mengekpolarasi perilaku seperti itu. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+Pertanyaan kedua yang harus ditanyakan adalah: adakah hal seperti itu''perilaku yang lebih baik secara universal'' a? Jika ada, kita bisa mengekpolarasi perilaku seperti itu. Jika tidak, maka pemeriksaan kita harus berhenti disini - sama seperti pemeriksaan astronomi plolemeos berhenti setelah diterima secara umum bahwa materi sebenarnya adalah pusat taata surya.
 
-[^6]: In physics, the question is: either universal physical rules are valid, or they are not.
+[^6]: Dalam fisika, pertanyaannya adalah: apakah aturan fisik universal itu benar, atau tidak.
