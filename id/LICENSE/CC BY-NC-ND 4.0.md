@@ -81,7 +81,7 @@ a. ***Attribution.***
 
 1. If You Share the Licensed Material, You must:
     
-    A. retain the following if it is supplied by the Licensor with the Licensed Material:
+    A. mempertahankan hal berikut jika diberikan oleh Pemberi Lisensi dengan Materi Izin:
     
          i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
         
@@ -94,14 +94,14 @@ a. ***Attribution.***
          v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
         
     
-    B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+    B. menunjukkan jika Anda memodifikasi Bahan Berlisensi dan menyimpan indikasi adanya modifikasi sebelumnya; dan
     
-    C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+    C. menunjukkan bahwa Bahan Berlisensi dilisensikan dengan Lisensi Publik ini, dan menyertakan teks, atau URI atau hyperlink ke, Lisensi Publik ini.
     
-        For the avoidance of doubt, You do not have permission under this Public License to Share Adapted Material.
+        Untuk menghindari keraguan, Anda tidak memiliki izin berdasarkan Lisensi Publik untuk Berbagi Materi yang Diadaptasi.
         
     
-    1. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+    1. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. Misalnya, mungkin masuk akal untuk memenuhi persyaratan dengan menyediakan URI atau hyperlink ke sumber daya yang mencakup informasi yang diperlukan.
     
     2. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
 
@@ -113,9 +113,9 @@ a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, 
 
 b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
 
-c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
+c. Anda harus mematuhi persyaratan di Bagian 3 (a) jika Anda Membagikan semua atau sebagian besar isi database.
 
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+Untuk menghindari keraguan, suplemen Bagian 4 ini dan tidak menggantikan kewajiban Anda berdasarkan Lisensi Publik ini dimana Hak Izin mencakup Hak Cipta dan Hak Lain.
 
 ### Section 5 – Disclaimer of Warranties and Limitation of Liability.
 
@@ -123,11 +123,11 @@ a. **Unless otherwise separately undertaken by the Licensor, to the extent possi
 
 b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
 
-c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+c. Penafian jaminan dan pembatasan tanggung jawab yang diberikan di atas harus ditafsirkan dengan cara yang, sejauh mungkin, paling mendekati dugaan disclaimer dan pembebasan semua kewajiban.
 
 ### Section 6 – Term and Termination.
 
-a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+a. Lisensi Publik ini berlaku untuk jangka waktu Hak Cipta dan Hak-hak Hak yang dilisensikan di sini. Namun, jika Anda gagal mematuhi Lisensi Publik ini, maka hak Anda berdasarkan Lisensi Publik ini akan berakhir secara otomatis.
 
 b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
 
