@@ -46,7 +46,7 @@ Mari ambil contoh lain.
 
 Pencurian secara moral salah, seperti yang telah kita lihat di atas. Hal tersebut salah secara moral bagi semua orang di segala situasi setiap saat dan dalam semua kondisi. Karena pencurian adalah pengambilan paksa atas harta orang lain tanpa persetujuan, maka perpajakan selalu, semua dan selamanya merupakan kejahatan moral. Perpajakan adalah definisi pemindahan harta milik seseorang secara paksa tanpa persetujuan mereka, karena perpajakan bergantung pada inisiasi penggunaan kekuatan untuk melepaskan seseorang dari miliknya.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+Apa yang kita sebut "pemerintah" hanyalah contoh lain dari *zona nol ini* dimana keadaan turun, hitam putih, kebenaran adalah kepalsuan dan kejahatan itu baik.
 
 Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Ilmu pengetahuan berkembang persis sejauh ia menolak irasionalitas Tuhan dan subjektif "absolut." Pengobatan berkembang dengan tepat sampai pada tingkat tertentu sehingga ia menolak khasiat doa dan ritual kosong, dan sebaliknya bergantung pada akal dan bukti. Begitu juga Filsafat - dan masyarakat pada umumnya - akan maju persis sampai pada tingkat yang menolak moralitas lingkaran-lingkaran tidak rasional "dari teori etika statistik dan agama.
 
