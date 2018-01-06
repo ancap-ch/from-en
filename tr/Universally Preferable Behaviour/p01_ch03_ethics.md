@@ -4,7 +4,7 @@ Etik, hakkında zaten hepimizin fikir sahibi olduğu bir konu olsa da *içgüdü
 
 Bir beyzbol oyuncusu fizik hakkında hiçbir şey bilmese bile uçan bir topu yakalayabilir. Benzer bir şekilde, etik teorileri hakkında hiçbir şey bilmesek bile bir hareketin ahlak dışı olduğunu doğru bir şekilde algılayabiliriz.
 
-Uçan bir topu yakalayabiliyorsam uçan bir beysbol topu hareketi hakkında içgüdüsel bir *duygum* var. Ama içgüdüsel kavrayışım, bana Jupiter'in uydusuna bir uzay aracını doğru bir şekilde gönderme yeterliliği vermez. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
+Uçan bir topu yakalayabiliyorsam uçan bir beysbol topu hareketi hakkında içgüdüsel bir *duygum* var. Ama içgüdüsel kavrayışım, bana Jupiter'in uydusuna bir uzay aracını doğru bir şekilde gönderme yeterliliği vermez. -Top nasıl hareket eder- ile ilgili hemen ''küçük hakikat'' verir ama bu bana -Madde nasıl davranır- ile ilgili evrensel bir ''büyük hakikat'' vermez.
 
 In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
 
