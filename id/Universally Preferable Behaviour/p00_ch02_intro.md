@@ -6,7 +6,7 @@ Beranjak keluar dari rahim nistik interpretasi subyektif ini membutuhkan tenaga 
 
 Dunia terlihat datar; bukan itu. Matahari dan bulan terlihat sama ukurannya; mereka tidak. Bintang-bintang nampaknya bergerak mengelilingi bumi; mereka tidak. Learning the truth requires that we see the world from outside our senses – this does not mean a rejection of our senses, but an airtight compliance with the *real* evidence of the senses, which is not that the world is flat, but that matter, energy and physical laws are consistent. When we let go of a rock in our hand, it falls – this is the *real* evidence of the senses, not that the Earth is fixed and immovable. Gagasan bahwa dunia tidak bergerak adalah anggapan salah yang bertentangan dengan bukti langsung indra kita, yaitu bahwa segala sesuatu akan jatuh. Jika semuanya jatuh, dunia tidak dapat diperbaiki dan tidak tergoyahkan.
 
-Inilah kebenaran kecil sehari-hari; Batu karang jatuh, asap naik, api panas dan matahari dan bulan keduanya bulat. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
+Inilah kebenaran kecil sehari-hari; Batu karang jatuh, asap naik, api panas dan matahari dan bulan keduanya bulat. Jika kita tetap tabah dan rigorously berkomitmen untuk ini “sedikit kebenaran,” kita bisa dalam waktu berasal dari fisika kebenaran yang besar, yang menyediakan kita seperti mengagumkan pengetahuan dan kekuasaan.
 
 Di antara kebenaran kecil dan kebenaran besar, bagaimanapun, adalah ilusi yang membutakan kita - baik dalam fisika maupun etika.
 
