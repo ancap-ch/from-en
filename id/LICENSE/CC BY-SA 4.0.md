@@ -99,17 +99,17 @@ a. ***atribusi.***
          v. uRI atau hyperlink ke Material Berlisensi sejauh praktis;
         
     
-    B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+    B. menunjukkan jika Anda memodifikasi bahan berlisensi dan mempertahankan indikasi modifikasi sebelumnya; dan
     
-    C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+    C. menunjukkan bahan berlisensi dilisensikan di bawah ini lisensi publik, dan termasuk teks, atau uri atau hyperlink ke, ini lisensi publik.
 
-2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+2. Anda dapat memenuhi persyaratan dalam Bagian 3 (a) (1) dengan cara yang wajar berdasarkan media, sarana, dan konteks di mana Anda Membagikan Materi Lisensi. Misalnya, mungkin masuk akal untuk memenuhi persyaratan dengan menyediakan URI atau hyperlink ke sumber daya yang mencakup informasi yang diperlukan.
 
-3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
+3. Jika diminta oleh pemberi lisensi, Anda harus menghapus salah satu dari informasi yang dibutuhkan oleh bagian 3 (A) (1) (A) untuk sejauh cukup praktis.
 
-b. ***ShareAlike.***
+b. ***sharealike.***
 
-In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.
+Selain kondisi di bagian 3 (A), jika Anda berbagi bahan diadaptasi Anda menghasilkan, kondisi berikut juga berlaku.
 
 1. Lisensi Adapter yang Anda terapkan harus merupakan lisensi Creative Commons dengan Unsur Lisensi yang sama, versi ini atau yang lebih baru, atau Lisensi Kompatibel BY-SA.
 
@@ -117,7 +117,7 @@ In addition to the conditions in Section 3(a), if You Share Adapted Material You
 
 3. Anda mungkin tidak menawarkan atau menerapkan persyaratan atau ketentuan tambahan atau berbeda, atau menerapkan Langkah Teknologi yang Efektif untuk Materi yang Diadaptasi yang membatasi pelaksanaan hak yang diberikan berdasarkan Lisensi Adapter yang Anda terapkan.
 
-### Section 4 – Sui Generis Database Rights.
+### Bagian 4 - Hak database Sui Generis.
 
 Dimana Hak Izin termasuk Hak Basis Data Sui Generis yang berlaku untuk penggunaan Anda terhadap Bahan Berlisensi:
 
