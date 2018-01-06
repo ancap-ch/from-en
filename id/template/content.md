@@ -51,6 +51,6 @@ Beberapa teks di tingkat 4.
 
 Beberapa teks pada 6 tingkat.
 
-[^1]: Footnote example. But this will point to yet another footnote.[^3]
+[^1]: Contoh catatan kaki. Tapi ini akan mengarah ke satu lagi catatan kaki.[^3]
 
-[^2]: Second footnote. Will have [another website](https://example-another-website.com).
+[^2]: Catatan kaki kedua. Akan [website lain](https://example-another-website.com).
