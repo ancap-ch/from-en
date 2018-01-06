@@ -1,6 +1,6 @@
 ## UPB: Etika atau Estetika?
 
-In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. Jika seorang fisikawan berhenti menggunakan metode ilmiah, tapi malah mulai berkonsultasi dengan kartu tarot, dia tidak memaksakan pilihannya pada saya, dan saya dapat menghindarinya. Seorang pemerkosa, di sisi lain, secara kasar menimbulkan kesukaannya pada korbannya.
+In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. Hal ini*universal disukai* (yaitu wajib) untuk menggunakan metode ilmiah untuk memvalidasi teori fisik, tapi kita tidak bisa menggunakan kekuatan untuk *menimbulkan* metode ilmiah pada mereka yang tidak menggunakannya, Karena *tidak menggunakan metode ilmiah bukan tindakan kekerasan*. Non-violent actions by their very nature are *avoidable*. Jika seorang fisikawan berhenti menggunakan metode ilmiah, tapi malah mulai berkonsultasi dengan kartu tarot, dia tidak memaksakan pilihannya pada saya, dan saya dapat menghindarinya. Seorang pemerkosa, di sisi lain, secara kasar menimbulkan kesukaannya pada korbannya.
 
 Meskipun kami pertama kali berfokus pada UPB dalam bidang etika, UPB sekarang dapat dilihat sebagai "istilah umum", yang mencakup disiplin semacam itu seperti:
 
@@ -11,17 +11,17 @@ Meskipun kami pertama kali berfokus pada UPB dalam bidang etika, UPB sekarang da
 - Bahasa
 - Etika
 
-Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+Etika adalah bagian dari UPB yang menangani perilaku *yang ditimbulkan*, atau penggunaan kekerasan. Setiap teori yang membenarkan atau menyangkal penggunaan kekerasan adalah teori *moral*, dan tunduk pada persyaratan konsistensi logis dan bukti empiris.
 
 Mari kita lihat tiga tindakan, untuk membantu kita membedakan lebih jauh antara etika dan estetika. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
 
 ### Irasionalitas
 
-Katakanlah bahwa Anda dan saya sedang berdebat tentang keberadaan Tuhan. Setelah saya mengajukan argumen saya, Anda bertepuk tangan di telinga Anda, bernyanyi bahwa Tuhan mengatakan kepada Anda bahwa Dia ada, dan karena itu semua argumen saya tidak berarti apa-apa. Jelas, tanggapan Anda terhadap posisi saya tidak masuk akal. Namun, menyebalkan mungkin aku akan menemukan perilaku Anda, walaupun, sepertinya tidak masuk akal bagiku untuk melampiaskan rasa frustanku dengan menarik pistol dan menembakmu. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Katakanlah bahwa Anda dan saya sedang berdebat tentang keberadaan Tuhan. Setelah saya mengajukan argumen saya, Anda bertepuk tangan di telinga Anda, bernyanyi bahwa Tuhan mengatakan kepada Anda bahwa Dia ada, dan karena itu semua argumen saya tidak berarti apa-apa. Jelas, tanggapan Anda terhadap posisi saya tidak masuk akal. Namun, menyebalkan mungkin aku akan menemukan perilaku Anda, walaupun, sepertinya tidak masuk akal bagiku untuk melampiaskan rasa frustanku dengan menarik pistol dan menembakmu. Saya percaya bahwa *lebih disukai secara universal* untuk menggunakan logika dan bukti daripada mengandalkan suara di kepala kita, namun preferensi universal ini tidak dapat diterapkan secara wajar dalam pengertian *fisik* guru, melalui kekerasan atau ancamannya.
 
 ### Bohong
 
-Katakanlah bahwa Anda dan saya menetapkan peraturan untuk sebuah perdebatan, dan kami berdua setuju untuk menilai pertanyaan tentang keberadaan Tuhan sesuai dengan akal dan bukti. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. Dengan kata lain, Anda berbohong saat mengatakan bahwa pertanyaan akan diputuskan oleh akal dan bukti.
+Katakanlah bahwa Anda dan saya menetapkan peraturan untuk sebuah perdebatan, dan kami berdua setuju untuk menilai pertanyaan tentang keberadaan Tuhan sesuai dengan akal dan bukti. Jika, seperti perdebatan terus berlanjut, Anda jatuh kembali ke posisi iman buta, dan menolak argumen saya *meskipun* rasionalitas dan bukti mereka, Anda tidak menjaga kata Anda. Dengan kata lain, Anda berbohong saat mengatakan bahwa pertanyaan akan diputuskan oleh akal dan bukti.
 
 Perbedaan antara dua situasi ini (irasionalitas versus berbohong) adalah perbedaan antara kesepakatan kontrak dan non-kontrak. Jika saya menyerahkan seratus dolar dan kemudian pergi, saya tidak dapat dengan adil mendatangi Anda dalam setahun dan mengatakan bahwa Anda sekarang berutang seratus dolar, karena itu adalah pinjaman. Jika, di sisi lain, Anda setuju untuk membayar uang kembali saya dalam setahun, dan kemudian gagal melakukannya, itu adalah situasi yang sangat berbeda.
 
@@ -37,15 +37,15 @@ Jika Anda menertawakan saya dengan membawa pisau, beberapa orang akan membantah 
 
 Prasyarat tertentu harus ada, atau diterima, agar penilaian etis atau teori memiliki validitas atau penerapan. Jelas, pilihan dan tanggung jawab pribadi harus keduanya diterima sebagai aksioma. Jika sebuah batu meluncur turun menuruni bukit dan menabrak mobil Anda, kita tidak menahan batu yang bertanggung jawab secara moral, karena tidak memiliki kesadaran, tidak dapat memilih, dan karena itu tidak dapat memiliki tanggung jawab pribadi. Jika batu itu copot hanya sebagai akibat waktu dan geologi, maka tidak ada yang bertanggung jawab atas kerugian yang diakibatkan mobil Anda. Jika, bagaimanapun, Anda melihat saya mendorong batu keluar dari posisinya, Anda tidak akan menyalahkan batu itu, melainkan saya. Untuk menambahkan komplikasi lebih lanjut, jika ternyata saya copot batu itu karena orang lain memaksa saya untuk mengambil alih senjata, Anda akan jauh lebih mungkin untuk menyalahkan pemrakarsa pemicu senjata daripada situasi saya.
 
-Seperti yang telah kita bahas di atas, memasuki perdebatan membutuhkan penerimaan realitas pilihan, nilai dan tanggung jawab pribadi. However, these factors are also present in the choice of the colour of paint for a room, yet we would scarcely say that selecting a hue is a *moral* choice. Jadi harus ada kriteria lain yang harus ada agar pilihan atau proposisi menjadi moral.
+Seperti yang telah kita bahas di atas, memasuki perdebatan membutuhkan penerimaan realitas pilihan, nilai dan tanggung jawab pribadi. Namun, faktor-faktor ini juga hadir dalam pilihan warna cat untuk ruangan, namun kita hampir tidak akan mengatakan bahwa memilih rona adalah pilihan *moral*. Jadi harus ada kriteria lain yang harus ada agar pilihan atau proposisi menjadi moral.
 
 Kita semua memiliki preferensi - dari yang hanya pribadi ("Saya suka es krim") secara sosial lebih baik ("Senang berada tepat waktu") terhadap moralitas universal ("Jangan membunuh").
 
-There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
+Ada sedikit gunanya menulis buku tentang preferensi pribadi - dan kita dapat beralih ke Ann Landers untuk diskusi tentang perilaku yang lebih baik secara sosial - maka, di sini, kita akan berfokus pada kemungkinan *Perilaku yang Layak Secara Universal*.
 
 ### Pilihan
 
-Jika saya menerima undangan Anda ke pesta makan malam, tapi cari pembicaraan dengan sangat menyinggung, saya dapat memutuskan untuk bangun dan pergi - dan saya juga dapat memilih untuk tidak pernah menerima undangan dari Anda lagi. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+Jika saya menerima undangan Anda ke pesta makan malam, tapi cari pembicaraan dengan sangat menyinggung, saya dapat memutuskan untuk bangun dan pergi - dan saya juga dapat memilih untuk tidak pernah menerima undangan dari Anda lagi. Kapasitas untuk melarikan diri dan/atau penghindaran adalah karakteristik penting yang membedakan *estetika* dari *etika*.
 
 Jika, ketika saya memutuskan untuk meninggalkan pesta makan malam Anda, Anda melompat dan mengantarkan saya ke kursi saya, jelas saya tidak lagi memiliki pilihan bebas untuk pergi. Inilah saat dimana kekasaran Anda menjadi agresi yang nyata, dan menyilangkan garis dari estetika ke etika.
 
