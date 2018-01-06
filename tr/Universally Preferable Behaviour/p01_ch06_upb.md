@@ -1,6 +1,6 @@
 ## ETD: Etik veya Estetik?
 
-In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. Öte yandan bir tecavüzcü, kurbanına tercihlerini şiddetle uyguluyor.
+In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. Eğer bir fizikçi bilimsel metodu bırakıp onun yerine tarot kartlarına danışmaya başlarsa, tercihlerini şiddet kullanmadan bana yansıtıyorsa, onu görmezden gelebilirim. Öte yandan bir tecavüzcü, kurbanına tercihlerini şiddetle uyguluyor.
 
 Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
 
@@ -31,7 +31,7 @@ A reasonable moral theory should be able to explain why this is the case.
 
 ### Cinayet
 
-Eğer bana doğru bıçağını doğrultup koşarsan, çok az insan kendimi koruma hakkıma itiraz eder. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+Eğer bana doğru bıçağını doğrultup koşarsan, çok az insan kendimi koruma hakkıma itiraz eder. Eğer seni vurmak kendi güvenliğimi sağlamak için tek yolsa, bu genel olarak üzücü bir gereklilik olarak kabul edilir.
 
 ### Requirements For Ethics
 
