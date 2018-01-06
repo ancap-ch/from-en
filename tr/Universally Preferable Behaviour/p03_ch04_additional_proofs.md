@@ -14,7 +14,7 @@ Since human beings *do in fact* have equal rights of property, any social system
 
 ### Bilimsel Yöntem
 
-Logic and science are in fact methodologies which exist – along with morality – under the umbrella of UPB. In other words, logic and science are both validated by the framework of UPB.
+Aslında mantık ve bilim, ETD şemsiyesi altında ahlak ile birlikte var olan metodolojilerdir. Başka bir deyişle mantık ve bilim, ETD çerçevesinde doğrulanır.
 
 A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
 
