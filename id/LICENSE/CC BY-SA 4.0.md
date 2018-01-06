@@ -84,11 +84,11 @@ Penerapan Hak Izin Anda secara tegas dibuat sesuai dengan kondisi berikut.
 
 a. ***atribusi.***
 
-1. If You Share the Licensed Material (including in modified form), You must:
+1. Jika Anda berbagi bahan berlisensi (termasuk dalam bentuk modifikasi), Anda harus:
     
-    A. retain the following if it is supplied by the Licensor with the Licensed Material:
+    A. mempertahankan hal berikut jika sudah disediakan oleh pemberi lisensi dengan lisensi bahan:
     
-         i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+         i. identifikasi pencipta (S) yang berlisensi bahan dan orang lain yang ditunjuk untuk menerima atribusi, jadi wajar cara yang diminta oleh pemberi lisensi (termasuk oleh nama samaran jika ditunjuk);
         
          ii. a copyright notice;
         
