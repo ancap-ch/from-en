@@ -68,42 +68,42 @@ Mirip dengan Premis Dua, karena semua argumen yang memerlukan bahasa, setiap pro
 
 Jika anda benar saya pada kesalahan yang telah saya buat, anda secara implisit menerima kenyataan bahwa itu akan menjadi *yang lebih baik* bagi saya untuk memperbaiki kesalahan saya. Preferensi Anda bagi saya untuk memperbaiki kesalahan saya tidak subjektif, tapi objektif, dan universal.
 
-Anda tidak mengatakan kepada saya: "Anda harus mengubah pendapat Anda menjadi milik saya karena saya lebih memilihnya," melainkan: "Anda harus memperbaiki pendapat Anda karena ini salah secara obyektif." Kesalahan saya tidak timbul dari ketidaksetujuan dengan Anda, tetapi sebagai hasil penyimpangan saya dari standar kebenaran yang obyektif. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+Anda tidak mengatakan kepada saya: "Anda harus mengubah pendapat Anda menjadi milik saya karena saya lebih memilihnya," melainkan: "Anda harus memperbaiki pendapat Anda karena ini salah secara obyektif." Kesalahan saya tidak timbul dari ketidaksetujuan dengan Anda, tetapi sebagai hasil penyimpangan saya dari standar kebenaran yang obyektif. Argumen anda bahwa saya harus benar saya pendapat palsu bertumpu pada tujuan nilai kebenaran, yaitu bahwa kebenaran adalah *universal lebih baik* untuk kesalahan, dan bahwa kebenaran adalah *universal tujuan*.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### Premis 5: Tujuan Metodologi Yang Ada Untuk Memisahkan Kebenaran Dari Kebatilan
 
-Jika Anda tidak setuju dengan saya, tapi saya katakan bahwa Anda harus setuju dengan saya karena saya selalu benar, tidak mungkin Anda akan puas dengan ketegaran argumen saya. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Jika Anda tidak setuju dengan saya, tapi saya katakan bahwa Anda harus setuju dengan saya karena saya selalu benar, tidak mungkin Anda akan puas dengan ketegaran argumen saya. Jika anda memberikan alasan yang baik mengapa aku salah, tapi aku hanya terus mengulangi bahwa saya benar karena aku *selalu*, interaksi kita hampir tidak bisa dikategorikan sebagai sebuah perdebatan.
 
 Pada saat saya memberikan semacam kriteria obyektif untuk menentukan kebenaran dari kepalsuan, saya menerima bahwa kebenaran itu lebih dari sekedar opini.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. Namun, kalaupun saya melakukannya, saya masih menerima bahwa kebenaran adalah sesuatu yang tidak bergantung pada pernyataan pribadi semata - bahwa metodologi objektif ada untuk memisahkan kebenaran dari kepalsuan.
+Ini tidak berarti bahwa saya kriteria objektif adalah *logika* – aku bisa merujuk anda ke teks agama, misalnya. Namun, kalaupun saya melakukannya, saya masih menerima bahwa kebenaran adalah sesuatu yang tidak bergantung pada pernyataan pribadi semata - bahwa metodologi objektif ada untuk memisahkan kebenaran dari kepalsuan.
 
-#### Premise 6: Truth Is Better Than Falsehood
+#### Premis 6: Kebenaran Lebih Baik Dari Kebohongan
 
 Jika saya mengatakan kepada Anda bahwa dunia ini datar, dan Anda menjawab bahwa dunia tidak datar, tapi berputar, maka Anda secara implisit menerima aksioma bahwa kebenaran dan kepalsuan keduanya ada secara obyektif, dan kebenaran itu lebih baik daripada kepalsuan.
 
-Jika saya katakan bahwa saya menyukai es krim cokelat, dan Anda mengatakan bahwa Anda menyukai vanila, tidak mungkin untuk "membuktikan" bahwa vanili itu lebih baik daripada coklat. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Jika saya katakan bahwa saya menyukai es krim cokelat, dan Anda mengatakan bahwa Anda menyukai vanila, tidak mungkin untuk "membuktikan" bahwa vanili itu lebih baik daripada coklat. Saat itu anda benar saya dengan referensi untuk tujuan *facts*, anda menerima bahwa fakta-fakta obyektif yang ada, dan bahwa kebenaran obyektif adalah *universal lebih baik* subjektif kesalahan.
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### Premis 7: Damai Debat Adalah Cara Terbaik Untuk Menyelesaikan Sengketa
 
 Jika saya katakan bahwa dunia ini datar, dan Anda mencabut pistol dan menembak saya, ini hampir tidak menjadi contoh perdebatan yang produktif. Benar, ketidaksetujuan kita akan "diselesaikan" - tapi karena hanya satu dari kita yang dibiarkan berdiri di akhir.
 
-Jika Anda mengatakan kepada saya sebelumnya bahwa Anda akan menghadapi pertengkaran dengan menembak saya, saya tidak mungkin terlibat dalam debat dengan Anda. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Jika Anda mengatakan kepada saya sebelumnya bahwa Anda akan menghadapi pertengkaran dengan menembak saya, saya tidak mungkin terlibat dalam debat dengan Anda. Dengan demikian jelas bahwa setiap perdebatan bergantung pada tersirat premis bahwa bukti-bukti, alasan, kebenaran dan objektivitas adalah *universal lebih baik* metode untuk menyelesaikan sengketa antara individu-individu. Itu akan benar-benar tidak masuk akal untuk berpendapat bahwa perbedaan pendapat harus diselesaikan melalui penggunaan kekerasan – satunya yang konsisten argumen untuk *nilai* kekerasan adalah penggunaan kekerasan.[^4]
 
 Intinya, kemudian, berdebat membutuhkan metodologi yang obyektif, melalui bahasa yang bermakna, dalam mengejar kebenaran universal, yang secara obyektif lebih baik daripada kesalahan pribadi.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+Preferensi ini untuk universal kebenaran tidak ada preferensi dari *jurusan*, tetapi *jenis*. Shortcut yang mengurangi waktu berkendara dengan setengah dua kali lebih baik lagi rute – tetapi keduanya adalah *jauh lebih baik* untuk mengemudi di benar-benar salah arah.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+Dengan cara yang sama, kebenaran bukan hanya "baik" dari kesalahan – ini adalah *jauh lebih baik*, atau diperlukan.
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### Premis 8: Individu Yang Bertanggung Jawab Untuk Tindakan Mereka
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+Jika saya berpendapat bahwa manusia tidak bertanggung jawab atas tindakan mereka, saya terjebak dalam paradoks, yang merupakan pertanyaan dari *apakah atau tidak saya bertanggung jawab untuk argumen saya, dan juga apakah atau tidak anda bertanggung jawab untuk respon*.
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+Jika argumen saya bahwa manusia adalah *tidak* bertanggung jawab atas tindakan mereka benar, maka saya tidak bertanggung jawab atas argumen saya, dan anda tidak bertanggung jawab untuk balasan anda. Namun, jika saya percaya bahwa anda tidak bertanggung jawab untuk balasan anda, itu akan membuat sedikit berharga akal untuk memajukan argumen – itu akan persis sama seperti berdebat dengan televisi.[^5]
 
 Jadi, secara fundamental, jika saya mengatakan bahwa Anda tidak bertanggung jawab atas tindakan Anda, saya mengatakan kepada Anda bahwa secara umum lebih baik bagi Anda untuk percaya bahwa preferensi itu tidak mungkin, karena jika Anda tidak memiliki kendali atas tindakan Anda, Anda tidak dapat memilih yang lebih disukai. negara, yaitu kebenaran atas kepalsuan. Jadi argumen ini, seperti argumen di atas, menghancurkan diri sendiri.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^4]: Ini akan berguna untuk menjaga premis tertentu dalam pikiran, karena itu akan sangat penting nantinya.
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]: Pertanyaan tanggung jawab adalah, tentu saja, berkaitan erat dengan pertanyaan dari versus determinisme, yang akan menjadi subjek dari buku lain.
