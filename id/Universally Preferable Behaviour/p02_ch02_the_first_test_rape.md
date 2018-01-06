@@ -124,7 +124,7 @@ Selain itu, jika perkosaan jahat, maka *bukan* memperkosa harus baik-dengan cara
 
 Karena penghindaran adalah salah satu pembeda utama antara ”tidak menyenangkan” dan ”tidak bermoral,” dan pemerkosaan jelas merupakan perilaku yang tidak dapat dihindari, definisi "pemerkosaan sebagai kejahatan" juga sesuai dengan perbedaan ini.
 
-Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
+Juga, karena ada kalanya secara fisik tidak mungkin untuk memperkosa seseorang –misalnya, ketika ereksi tidak dapat dicapai –definisi ”pemerkosaan sebagai kejahatan” memecahkan masalah orang-orang yang secara tidak sadar tidak bermoral, yang menurut definisi tidak mungkin, karena kriteria penghindaran.
 
 The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
 
