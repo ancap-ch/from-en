@@ -20,15 +20,15 @@ Kita tidak memiliki bukti langsung, empiris atau rasional untuk keberadaan Tuhan
 
 ### Kefanatikan
 
-Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. Keyakinan pertama adalah benar; Yang kedua salah - yang ketiga adalah pernyataan fanatik yang meledakkan konsep pembuktian.
+Keyakinan mungkin benar, salah, atau *anti-kebenaran*. Ini adalah keyakinan yang benar bahwa Gurun Sahara ada di Afrika Utara; Ini adalah keyakinan yang salah bahwa Sahara ada di Skotlandia; itu adalah keyakinan *anti-benar* bahwa Sahara adalah apapun yang saya inginkan, dan ada dimanapun saya menginginkannya itu ada. Keyakinan pertama adalah benar; Yang kedua salah - yang ketiga adalah pernyataan fanatik yang meledakkan konsep pembuktian.
 
 Kita bisa bilang:
 
 1. Proposisi X itu benar karena bersifat rasional.
 2. Proposisi Y salah karena tidak masuk akal.
-3. Proposition Z is true because I *want* it to be true.
+3. Proposisi Z benar karena saya *ingin* itu benar.
 
-Pernyataan ketiga adalah kontradiksi diri yang lengkap. "Kebenaran" tidak tergantung pada keinginan, karena keinginan didefinisikan secara subjektif, dan kebenaran adalah dengan definisi kesesuaian gagasan dengan standar objektif logika dan realitas empiris. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
+Pernyataan ketiga adalah kontradiksi diri yang lengkap. "Kebenaran" tidak tergantung pada keinginan, karena keinginan didefinisikan secara subjektif, dan kebenaran adalah dengan definisi kesesuaian gagasan dengan standar objektif logika dan realitas empiris. Mengatakan bahwa ada sesuatu yang benar karena Anda *ingin* memang benar adalah menyamakan subjektivitas dengan objektivitas, yang merupakan pernyataan kontradiktif itu sendiri.
 
 Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
 
