@@ -10,9 +10,9 @@ Demikian pula, jika teori etis bisa sama sekali valid, maka mereka harus* setida
 
 Jadi, dalam etika, sama seperti dalam sains, matematika, teknik dan semua disiplin lain yang membandingkan teori dengan kenyataan,*teori yang valid harus konsisten secara logis dan dapat diverifikasi secara empiris*.
 
-### Preferences And Existence
+### Preferensi dan Keberadaan
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Sama jelasnya, "es krim" juga ada dalam kenyataan. However, the word “like” is more problematic.
 
 Preferensi tidak ada secara objektif dalam kenyataan. Jika Anda penasaran dengan obsesif, Anda mungkin bisa mengikuti saya dan mencatat setiap kali saya makan es krim, yang mungkin akan memberikan dasar empiris yang baik untuk menetapkan preferensi saya untuk itu. Kemungkinan itu bisa ada, bagaimanapun, bahwa saya sebenarnya seorang masokis, dan sangat menyukai es krim, dan lebih suka menyiksa diri dengan rasa tidak enak - dan kemudian membuat Anda bingung karena mengaku menyukainya.
 
