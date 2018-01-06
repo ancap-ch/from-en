@@ -64,7 +64,7 @@ Sekali lagi, rangka UPB muncul untuk menyelamatkan.
 
 An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
 
-Umpamanya, jika APA saya: "tepat waktu," lalu itu akan menjadi standar dunia yang benar-benar dapat dihindari. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+Umpamanya, jika APA saya: "tepat waktu," lalu itu akan menjadi standar dunia yang benar-benar dapat dihindari. Saya tidak bisa dengan paksa menimbulkan APA ini pada anda karena anda tidak harus menjadi teman saya, anda tidak harus tepat waktu, bagaimanapun juga anda tidak harus menghormati atau mengikuti kehadiran saya. [^1]
 
 If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
 
