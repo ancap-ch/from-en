@@ -102,9 +102,9 @@ Mereka yang menggunakan fantasi moral untuk mengeksploitasi umat manusia selalu 
 
 Kita kenal dengan contoh Mafia, yang mengancam saingan potensial dengan cacat dan kematian, atau tontonan sekte agama saling menyerang, atau satu pemerintah menyerang yang lain.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+Ketika filsuf mengekspos kepalsuan yang diperlukan untuk eksploitasi lanjutan, namun, Mereka idealnya tidak bertujuan untuk menempatkan dirinya sebagai pesaing. Mereka tidak mau *menggantikan* itu mafia, atau itu church – mereka ingin menghilangkannya sepenuhnya.
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+Analogi yang lebih modern akan menjadi hubungan antara negara, pelobi dan pembayar pajak. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
 
 Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
 
