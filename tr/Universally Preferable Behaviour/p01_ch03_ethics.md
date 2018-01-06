@@ -1,6 +1,6 @@
-## Ethics
+## Etik
 
-Since ethics is a subject that we all have opinions about already, it is important to outline the relationship between *instinctual* ethics and *rational* ethics.
+Etik, hakkında zaten hepimizin fikir sahibi olduğu bir konu olsa da *içgüdüsel* etik ve *rasyonel* etik arasındaki ilişkinin ana hatlarını çizmek önemlidir.
 
 A baseball player can catch a fly ball even if he knows nothing about physics. Similarly, we can correctly perceive an action as immoral even if we know nothing about ethical theories.
 
