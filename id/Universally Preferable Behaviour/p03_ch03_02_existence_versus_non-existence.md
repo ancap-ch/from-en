@@ -38,11 +38,11 @@ Dua tambahan keberatan ini terus-menerus kambuh setiap kali pertanyaan tentang p
 
 Masalah pertama dan paling jelas dengan posisi ini adalah bahwa jika orang-orang jahat yang ada dalam masyarakat, mereka juga akan ada dalam pemerintah – dan menjadi jauh lebih berbahaya sehingga. Warga dapat melindungi diri terhadap orang-orang jahat, tetapi mungkin berdiri kesempatan terhadap pemerintah agresif bersenjata dengan polisi dan militer. Dengan demikian argumen bahwa kita perlu pemerintah karena ada orang-orang jahat palsu. Jika ada orang-orang jahat, pemerintah *harus* dibongkar, karena orang-orang jahat akan ditarik untuk menggunakan kekuatannya untuk tujuan mereka sendiri- dan, tidak seperti preman pribadi, orang-orang jahat dalam pemerintahan memiliki polisi dan militer untuk menimbulkan keinginan mereka tak berdaya (dan relatif populasi dilucuti). Dengan demikian argumen adalah sama dengan gagasan bahwa "pemalsu sangat berbahaya, sehingga kita harus memberikan monopoli eksklusif atas pemalsuan untuk sekelompok kecil orang." Mana di bumi orang berpikir para pemalsu akan pergi pertama? [^5]
 
-Logically, there are four possibilities as to the mixture of good and evil people in the world:
+Logikanya, ada empat kemungkinan untuk campuran orang-orang yang baik dan jahat di dunia:
 
-1. All men are moral.
-2. All men are immoral.
-3. The majority of men are immoral, and a minority moral.
+1. Semua manusia moral.
+2. Semua manusia moral.
+3. Sebagian besar orang tidak bermoral, dan minoritas moral.
 4. The majority of men are moral, and a minority immoral.[^6]
 
 In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
