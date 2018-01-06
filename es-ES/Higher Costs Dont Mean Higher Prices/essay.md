@@ -10,7 +10,7 @@ El ejemplo ilustra la paradoja de lo que está sucediendo en el ¨negocio¨de la
 
 El problema con el argumento es que se basa en el análisis de equilibrio simple en los modelos de demanda y oferta utilizados en los cursos. Econ 101 para estudiantes universitarios de primer año. Y en realidad no se aplica aquí. Si las pinturas o los mercados de drogas ilegales hubieran estado en equilibrio, podría haber una paradoja. Pero esto no es el caso, *especialmente* en estos mercados.
 
-Also, in a state of equilibrium costs perfectly reflect social opportunity costs, and “perfect” competition brings price and cost together so that no one is able to make economic profits. In other words, there is no difference between price and cost. There is, consequently, no reason to in this theory distinguish between them temporally or causally — they appear to be determined instantaneously and accurately. This is also how they are treated in various economics models that students learn to “maximize.”
+Además, en un estado de equilibrio, los costos reflejan perfectamente los costos de oportunidad social, y la competencia ¨perfecta¨ combina el precio y el costo para que nadie pueda obtener ganancias económicas. En otras palabras, no hay diferencia entre precio y costo. En consecuencia, no hay razón para distinguir en esta teoría temporal, o casualmente parecen estar determinados de manera instantánea y precisa. Esta es también la forma en que son tratados en varios modelos de economía que los estudiantes aprenden a ¨maximizar.¨
 
 # Price Drives Cost  — Not the Other Way Around
 
