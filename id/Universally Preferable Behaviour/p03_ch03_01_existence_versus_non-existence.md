@@ -74,21 +74,21 @@ Hal ini menimbulkan poin yang sangat menarik, yaitu pertanyaan apakah opini bisa
 
 Jelas, kita mengerti bahwa saya tidak dapat melalui pendapat saya membebaskan Anda dari rintangan gravitasi, lebih dari pendapat saya bahwa "dua ditambah dua sama dengan lima" menjadikannya benar.
 
-"Pendapat" adalah keyakinan yang tidak memiliki bukti nyata, atau tidak ada bukti yang jelas, atau yang merupakan ungkapan preferensi pribadi semata. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+"Pendapat" adalah keyakinan yang tidak memiliki bukti nyata, atau tidak ada bukti yang jelas, atau yang merupakan ungkapan preferensi pribadi semata. Pendapat pribadi saya adalah bahwa saya lebih memilih es krim cokelat untuk vanili - saya mungkin juga memiliki "pendapat" bahwa Islandia adalah surga tropis, atau bahwa Tuhan itu ada, atau hujan turun ke atas. Pendapat pribadi jelas tidak ada hubungannya dengan moralitas; Pendapat yang mengklaim secara akurat menggambarkan realitas, tapi yang tidak, hanyalah prasangka yang salah. Percaya bahwa hujan turun ke atas tidak membalikkan arahnya; mengenakan kemeja Hawaii ke Islandia tidak membuat Reykjavik lebih hangat.
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+Dengan demikian percaya bahwa pembunuhan itu secara moral baik tidak membuat pembunuhan secara moral baik. Karena keyakinan saya tentang manusia tidak mengubah sifat moralnya, keyakinan saya bahwa pembunuhannya itu bajik tidak mengubah kebajikan tindakannya. Jika saya memejamkan mata dan membayangkan bahwa Anda adalah kadal, Anda tidak tiba-tiba kehilangan kemampuan mengatur suhu tubuh sendiri. Membayangkan bahwa Anda adalah ikan tidak memotong kebutuhan Anda untuk peralatan selam.
 
-Opinions do not change reality.
+Pendapat tidak mengubah kenyataan.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Karena pendapat tidak mengubah kenyataan, saya tidak dapat memberikan pengecualian atau pembalikan apapun sehubungan dengan peraturan moral universal. Karena peraturan moral didasarkan pada logika universal, juga sifat fisik dan realitas manusia, saya tidak dapat memberi Anda "hak untuk membunuh," lebih dari saya dapat memberi Anda kemampuan untuk melayang, berjalan di atas air atau secara akurat. katakan bahwa dua dan dua membuat lima.
 
-### Government As Voluntarism
+### Pemerintah Sebagai Sukarela
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+Kekuatan terbuka yang terlibat dalam institusi pemerintahan - pembungkus konseptual yang membalikkan peraturan moral untuk sekelompok individu tertentu - adalah sesuatu yang selalu dijauhi dalam perdebatan. Ketika berbicara tentang pemerintah, tidak pernah dianggap hal positif untuk menunjukkan "pistol di ruangan itu." Hampir secara definisi, pemerintah dianggap dipilih oleh dan untuk rakyat, dan beroperasi dengan persetujuan yang diungkapkan atau implisit mereka.
 
-However, this is pure nonsense.
+Namun, ini omong kosong belaka.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Jika seorang pria memegang pisau ke tenggorokan wanita saat berhubungan seks dengannya, itu adalah definisi dari setiap tindakan pemerkosaan. Dia tidak bisa mengatakan bahwa seks itu bersifat konsensual, sementara pada saat yang sama mengancamnya dengan luka atau kematian jika dia menolak berhubungan seks dengannya. Jika seks itu sukarela, maka pisau itu sama sekali tidak perlu. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
 
 In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
 
