@@ -10,9 +10,9 @@ Canavar daima ölümsüzdür, bu yüzden köylüler onun tiranlığından kurtul
 
 Çaresiz köylülerin tek umudu bu canavarı yenebilecek bir adamın çıkmasıdır.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Kaçınılmaz olarak, herkese tamamen uyumsuz gelen bir adam öne çıkar. O kararlı bir çocuk, bir ayakkabıcı oğlu, bir fırıncı çırağıdır – bazende başıboş serseri biridir.
 
-This book is the story of my personal assault on just such a beast.
+Bu kitap böyle bir canavar üzerine benim kişisel saldırı hikayemdir.
 
 This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
 
