@@ -82,13 +82,13 @@ Sama seperti beberapa parasit tidak dapat berakar sampai mereka mengusir parasit
 
 Sampai kebenaran besar tercapai, dan bersatu dengan kebenaran kecil, "tengah kebenaran" hanyalah sebuah phalanx berputar dari kebohongan eksploitatif dan destruktif – dirancang khusus untuk mencegah tercapainya kebenaran besar.
 
-And the great truths are always achieved from the little truths.
+Dan kebenaran besar selalu dicapai dari kebenaran kecil.
 
-The world falls because a rock falls.
+Dunia jatuh karena batu jatuh.
 
-### "Middle Truths" And Exploitation
+### "tengah kebenaran" dan Eksploitasi
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+Secara biologis, parasitisme adalah strategi kelangsungan hidup sepenuhnya untuk banyak makhluk. Dengan tidak adanya norma etika, mencuri energi dan sumber daya dari makhluk lain sangat masuk akal. Secara umum, Bentuk parasitisme yang paling lestari dan stabil adalah *simbiosis*, atau koeksistensi yang saling menguntungkan. Dengan demikian bakteri yang menghuni usus kita membantu kelangsungan hidup mereka sendiri dengan membantu kita mencerna makanan kita.
 
 However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
 
