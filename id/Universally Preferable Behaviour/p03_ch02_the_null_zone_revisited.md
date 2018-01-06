@@ -18,7 +18,7 @@ Kita juga bisa mengubah analisis ini menjadi pertanyaan tentang keberadaan Tuhan
 
 Kita tidak memiliki bukti langsung, empiris atau rasional untuk keberadaan Tuhan. Pengukuran ilmiah yang paling abstrak tidak memberikan bukti adanya Tuhan - namun di antara kebenaran pengalaman kita sendiri, yaitu bahwa tidak ada Tuhan, dan pengukuran dan teori ilmiah yang paling abstrak - yang juga menegaskan bahwa tidak ada Tuhan - semacam "zona nol" akan ada,*yang benar-benar membalikkan standar kebenaran rasional*.
 
-### Bigotry
+### Kefanatikan
 
 Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. Keyakinan pertama adalah benar; Yang kedua salah - yang ketiga adalah pernyataan fanatik yang meledakkan konsep pembuktian.
 
