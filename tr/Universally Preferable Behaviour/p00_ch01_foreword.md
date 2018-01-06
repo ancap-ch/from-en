@@ -22,7 +22,7 @@ Bu canavar Sokrates'ten Platona, Augustine'den Hume'a, Kant'dan Rand'a birçok b
 
 Rasyonel bir ahlak sistemi tanımlayamadığımızdan, çocuklarımıza dini korku hikayeleri dayatmak zorunda kaldık, yada kendilerine “devlet“ diyen ruhsuz denetçilerin küçük bir tekeline silahlar, hapishaneler ve ordular verdik
 
-"Etik" dediğimiz kavram öznel ve sadece *kültürel* olarak kaldığından, sosyal kuralları uygulamak için kaçınılmaz olarak zorbalığa, korkuya ve şiddete bağlı kaldık. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+"Etik" dediğimiz kavram öznel ve sadece *kültürel* olarak kaldığından, sosyal kuralları uygulamak için kaçınılmaz olarak zorbalığa, korkuya ve şiddete bağlı kaldık. Etikler bilimsel yöntemin rasyonel temelinden yoksun oldukları için, “ahlak“ kanlı mitolojilerin kabile savaşlarının içinde batmış durumda kaldı, her grup insanların “erdem“e bağlılıklarını kontrol edebilmek için şiddetle kavga ediyorlardı
 
 We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
 
