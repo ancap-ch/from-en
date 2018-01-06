@@ -44,7 +44,7 @@ Harus "melintasi zona nol" - atau dengan mulus menyatukan kebenaran kecil dengan
 
 Jika kita melihat kemajuan teknologi dan ekonomi umat manusia, kita melihat lebih banyak garis datar untuk ribuan tahun yang tak terhitung jumlahnya, diikuti oleh lonjakan besar dan asimtotik dalam beberapa ratus tahun terakhir. Tidak dapat dibayangkan bahwa beberapa mutasi genetik yang meluas dapat menyebabkan percepatan konsistensi intelektual dan kesuksesan material yang tiba-tiba dan luar biasa ini. Teori-teori yang mengklaim bahwa "efek bola salju" ada, secara misterius didorong oleh akumulasi dari semua peningkatan ilmu pengetahuan yang terjadi sejak awal peradaban, biasanya dapat ditolak sebagai penjelasan lengkap *ex post facto*, karena tidak memiliki nilai prediktif.
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+Jika kita memahami bahwa potensi kita yang mengejutkan telah tersedia bagi kita setidaknya sepuluh tahun dari ribuan tahun – maka ada dua hal keuntungan besar dan kenikmatan besar dalam menjalankannya – sekaligus menjadi jelas bahwa kita benar-benar *ingin* menggunakan pikiran menakjubkan kita.
 
 Jadi harus ada kekuatan ke bawah yang secara historis bertindak untuk menghancurkan dan memperbudak kebebasan alam umat manusia.
 
