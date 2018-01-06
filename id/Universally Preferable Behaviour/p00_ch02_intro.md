@@ -68,13 +68,13 @@ Karena mereka tidak hanya irasional, tapi *anti*-rasional, "tengah kebenaran" te
 
 Kita dapat mempersonalisasikan ini sedikit lebih dengan sebuah contoh yang akan akrab bagi siapa saja yang pernah menasihati teman disfungsional. "Pacarku yang terakhir benar-benar menyebalkan" dia akan berkata, dan Anda akan sangat setuju. "Pacarku yang baru benar-benar *besar* meskipun" dia akan menambahkan, dan Anda akan mencoba untuk tidak memutar mata Anda.
 
-It is very hard not to replace one illusion with another.
+Sangat sulit untuk tidak mengganti satu ilusi dengan yang lain.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+"Pemerintah Inggris adalah tirani!” teriak para revolusioner Amerika di abad kedelapan belas dan, Setelah mengusir tentara Inggris, mereka kemudian mendirikan pemerintahan mereka sendiri dan mulai menyerang warganya sendiri.
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+"Aristokrasi adalah kekejian yang tidak adil!” seru revolusioner lainnya, yang kemudian mendirikan tirani mayoritas dalam bentuk demokrasi.
 
-“Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. Tentu saja ini tidak pernah diamati, namun sesuai dengan tulisan kuno baik filosofis maupun religius, dan karenanya diterima sebagai fakta. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. Tidak ada ilmuwan yang percaya teori ini memiliki bukti empiris untuk "eter" ini baik secara pribadi maupun ilmiah - namun dianggap perlu untuk menyesuaikan diri dengan karakteristik lain yang dapat diamati.
+"tengah kebenaran" Bisa juga ada di sains, dan Demikian juga mencegah kemajuan alami dari kebenaran kecil hingga kebenaran besar. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. Tentu saja ini tidak pernah diamati, namun sesuai dengan tulisan kuno baik filosofis maupun religius, dan karenanya diterima sebagai fakta. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. Tidak ada ilmuwan yang percaya teori ini memiliki bukti empiris untuk "eter" ini baik secara pribadi maupun ilmiah - namun dianggap perlu untuk menyesuaikan diri dengan karakteristik lain yang dapat diamati.
 
 Agama juga merupakan "kebenaran tengah" lainnya - salah satu yang paling berbahaya. Memang benar bahwa kita adalah spesies unik di alam semesta, sejauh yang kita tahu. Seekor jerapah adalah binatang berkaki empat yang lebih tinggi, tapi manusia bukan hanya primata "pintar", tapi juga berbeda. Sifat dari perbedaan itu tetap tidak diketahui - penjelasan tentang religius "kita tidak sama dengan hewan karena kita memiliki jiwa dan diciptakan oleh Tuhan" hanyalah contoh lain dari"tengah kebenaran ". Memang benar bahwa kita adalah sangat berbeda dengan hewan. It is not true that we were created by a god and have a soul.
 
