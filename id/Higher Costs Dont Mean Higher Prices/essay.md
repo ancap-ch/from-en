@@ -30,4 +30,4 @@ Hal ini mudah untuk melihat jika kita mengadopsi pandangan Austria bahwa harga b
 
 Hal ini bukan untuk mengatakan bahwa harga dalam rantai pasokan kokain tidak beberapa bentuk keseimbangan harga. Asumsi ekuilibrium parsial bukanlah yang membuat analisis menjadi cacat. Kesalahannya terletak pada kegagalan untuk menyadari bahwa biaya (yaitu, keberadaan dan bentuk penawaran) merupakan fungsi dari harga yang diantisipasi (permintaan) dan barang akhir.
 
-From this follows that changes in factor prices are not necessarily reflected in prices of consumer goods, especially in the short term. Rather, they will be reflected in the profit margins of producers, and can thus cause them to change their behavior.
+Dari berikut ini perubahan faktor tidak harus tercermin pada harga barang konsumer, terutama dalam jangka pendek. Sebaliknya, mereka akan tercermin dalam margin keuntungan produsen, dan dengan demikian dapat menyebabkan mereka mengubah perilaku mereka.
