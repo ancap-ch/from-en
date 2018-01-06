@@ -66,7 +66,7 @@ Karena mereka tidak hanya irasional, tapi *anti*-rasional, "tengah kebenaran" te
 
 "Kebenaran tengah" selalu berbentuk kebenaran, diikuti dengan sebuah kebohongan. "Zeus adalah takhayul pagan" adalah pernyataan yang benar, yang secara terbuka dibuat oleh penganut penganut agama Kristen. Kebohongan itulah yang terjadi: “Yahweh bukan seorang penyembah berhala tahayul, tapi Tuhan yang nyata dan hidup"
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+Kita dapat mempersonalisasikan ini sedikit lebih dengan sebuah contoh yang akan akrab bagi siapa saja yang pernah menasihati teman disfungsional. "Pacarku yang terakhir benar-benar menyebalkan" dia akan berkata, dan Anda akan sangat setuju. "Pacarku yang baru benar-benar *besar* meskipun" dia akan menambahkan, dan Anda akan mencoba untuk tidak memutar mata Anda.
 
 It is very hard not to replace one illusion with another.
 
