@@ -1,8 +1,8 @@
-## Ethical Categories
+## Etik Kategoriler
 
 With the UPB framework in place, we can now turn to an examination of how UPB validates or invalidates our most common moral propositions. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
 
-### The Seven Categories
+### Yedi Kategori
 
 As mentioned above, propositions regarding universally preferable behaviour fall into three general categories – positive, negative and neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
 
