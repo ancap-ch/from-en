@@ -29,7 +29,7 @@ persons:
   - 
     person: [ ]
     identifier: "template_person"
-    rule: "author"
+    rule: "yazar"
   - 
     person: [ ]
     identifier: "template_person"
@@ -41,7 +41,7 @@ persons:
   - 
     person: [ ]
     identifier: "template_person"
-    rule: "translator"
+    rule: "çevirmen"
   - 
     person: [ ]
     identifier: "template_person"
@@ -53,7 +53,7 @@ persons:
   - 
     person: [ ]
     identifier: "template_person"
-    rule: "artist"
+    rule: "sanatçı"
 resources:
   - 
     resource: [ ]
@@ -67,7 +67,7 @@ resources:
 targets:
   - 
     target: [ ]
-    name: article
+    name: makale
     reset_footer_active: false
     reset_footer_depth: 0
     clear_page_active: true
