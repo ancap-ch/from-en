@@ -73,13 +73,13 @@ Kita bisa membawa lebih banyak argumen untuk mendukung keberadaan dan validitas 
 
 #### UPB: Opsional Dan Tujuan
 
-Karena kita telah membuktikan keabsahan perilaku yang lebih baik secara universal, pertanyaan tentang moralitas sekarang bergeser. Karena moralitas *adalah* berlaku, teori apa yang bisa mengukur, mengklasifikasikan, menjelaskan dan memprediksinya?
+Karena kita telah membuktikan keabsahan perilaku yang lebih baik secara universal, pertanyaan tentang moralitas sekarang bergeser. Karena moralitas *adalah* berlaku, teori apa yang bisa mengukur, mengklasifikasikan, menerangkan dan memprediksinya?
 
-Pertama-tama, kita harus ingat bahwa moralitas jelas-jelas bersifat opsional. Setiap orang tunduk pada gravitasi dan membutuhkan makanan untuk hidup, tapi tidak ada pria yang harus bertindak secara moral. Jika saya memperkosa, mencuri atau membunuh, tidak ada petir yang menyerang saya. Aturan moral, seperti metode ilmiah atau klasifikasi biologis, hanyalah cara mengatur fakta dan prinsip rasional yang relatif terhadap realitas obyektif.
+Pertama-tama, kita harus ingat bahwa moral jelas-jelas bersifat ikhtiar. Setiap orang tunduk pada gaya berat dan membutuhkan makanan untuk hidup, tapi tidak ada pria yang harus bertindak secara moral. Jika saya memperkosa, mencuri atau membunuh, tidak ada petir yang menyerang saya. Aturan moral, seperti metode ilmiah atau klasifikasi biologis, hanyalah cara mengatur fakta dan dasar rasional yang relatif terhadap realitas obyektif.
 
 Kenyataan bahwa kepatuhan terhadap peraturan moral adalah *pilihan*, bagaimanapun, telah membingungkan banyak pemikir untuk percaya bahwa moralitas itu sendiri adalah *subjektif*. Tidak ada yang bisa lebih jauh dari kebenaran.
 
-Organisme hidup adalah bagian dari kenyataan material, dan kenyataan material bersifat rasional dan obyektif. Menerapkan teori moral adalah pilihan, tapi itu tidak berarti bahwa semua teori moral bersifat subjektif. Metode ilmiahnya juga bersifat opsional, namun tidak subjektif. Menerapkan klasifikasi biologis bersifat opsional, namun biologi tidak subjektif. Pilihan bersifat opsional; konsekuensi tidak. Saya bisa memilih untuk tidak makan, tapi saya tidak bisa memilih untuk hidup tanpa makan. Saya bisa memilih untuk memenggal seseorang, tapi saya tidak bisa memilih apakah mereka bisa hidup tanpa kepala atau tidak. Moral bersifat opsional, namun *efek* pilihan moral dapat diukur dan obyektif.
+Organisme hidup adalah bagian dari kenyataan material, dan kenyataan material bersifat rasional dan obyektif. Menerapkan teori moral adalah pilihan, tapi itu tidak berarti bahwa semua teori moral bersifat pokok. Metode ilmiahnya juga bersifat memilih, namun tidak subjektif. Menerapkan klasifikasi biologis bersifat memilih, namun biologi tidak subjektif. Pilihan bersifat memilih; konsekuensi tidak. Saya bisa memilih untuk tidak makan, tapi saya tidak bisa memilih untuk hidup tanpa makan. Saya bisa memilih untuk memenggal seseorang, tapi saya tidak bisa memilih apakah mereka bisa hidup tanpa kepala atau tidak. Moral bersifat opsional, namun *efek* pilihan moral dapat diukur dan obyektif.
 
 Nah, karena moralitas adalah konsep yang benar, pertanyaan selanjutnya adalah: sampai tingkat atau tingkat apakah moralitas itu berlaku?
 
