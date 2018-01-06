@@ -42,15 +42,15 @@ k. **Compartir** significa proporcionar material al público por cualquier medio
 
 l. **Derechos de la base de datos Sui Generis** derechos distintos del derecho de autor derivados de la Directiva 96/9 / CE del Parlamento Europeo y del Consejo, de 11 de marzo de 1996, sobre la protección jurídica de las bases de datos, modificada y / o aprobada, así como otros derechos esencialmente equivalentes en cualquier parte del mundo.
 
-m. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+m. **Usted** hace referencia a la persona o entidad que ejerce los Derechos bajo esta Licencia Pública. Tu tiene un significado correspondiente.
 
-### Section 2 – Scope.
+### Sección 2 -Alcance.
 
-a. ***License grant.***
+a. ***Concesión de licencia.***
 
-1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+1. Sujeto a los términos y condiciones de esta Licencia Pública, el Licenciante le otorga a usted una licencia irrevocable, no exclusiva, irrevocable y no sujeta a derechos de autor, a nivel mundial, para ejercer los Derechos Licenciados en el Material Autorizado para:
     
-    A. reproduce and Share the Licensed Material, in whole or in part; and
+    A. reproduce y compartir el material licenciado, en todo o en parte; y
     
     B. produce, reproduce, and Share Adapted Material.
 
