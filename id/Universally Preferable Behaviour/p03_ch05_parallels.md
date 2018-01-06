@@ -6,29 +6,29 @@ Gagasan bahwa alam adalah sistem self-generating dan self-sustaining hampir tak 
 
 Sebelum sains, di pusat setiap sistem yang kompleks terdapat kesadaran yang saleh - tanpa sistem ini akan terbang ke dalam kekacauan, dan berhenti menjadi.
 
-Sayangnya, "kesadaran berbudi luhur" ini hanyalah sebuah ilusi, untuk membuatnya lebih mulia. No such gods existed – all that *did* exist were the pronouncements of priests. Jadi yang benar-benar terbaring di tengah adalah bias individu irasional, yang tidak tahu betapa marahnya mereka sebenarnya.
+Sayangnya, "kesadaran berbudi luhur" ini hanyalah sebuah ilusi, untuk membuatnya lebih mulia. Tidak seperti dewa-dewa ada – semua itu *tidak* ada ada pernyataan dari imam-imam. Jadi yang benar-benar terbaring di tengah adalah bias individu irasional, yang tidak tahu betapa marahnya mereka sebenarnya.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+Kami belum menerapkan pencahayaan sama untuk kami konsepsi masyarakat – tetapi sekarang *penting* yang kami melakukannya.
 
 Kami menganggap penting bahwa, di tengah masyarakat, kami menempatkan entitas saleh yang disebut "pemerintah." Dengan tidak adanya entitas ini, kami menganggapnya sebagai aksiomatis bahwa masyarakat akan terbang ke dalam kekacauan, dan berhenti menjadi - sama seperti nenek moyang kita menganggap bahwa, dengan tidak adanya tuhan, alam semesta itu sendiri akan terbang ke dalam kekacauan, dan berhenti menjadi.
 
-However, “the government” no more exists than “god” exists.
+Namun, "pemerintah" tidak lebih dari ada "allah" yang ada.
 
 Ketika kita berbicara tentang "tuhan" kita benar-benar berbicara tentang"pendapat para imam."
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+Ketika kita berbicara tentang "pemerintah," kita *benar-benar* berarti "kekerasan minoritas kecil."
 
 Gagasan "tatanan spontan", yang terbukti dengan baik di bidang fisika dan biologi, sebagian besar tidak dapat terbayangkan oleh kita di ranah masyarakat.
 
 Namun, "pemerintah" tidak dibutuhkan lagi untuk organisasi dan kelanjutan masyarakat daripada "tuhan" yang dibutuhkan untuk organisasi dan kelanjutan alam semesta.
 
-Sebenarnya, sama seperti agama menghambat kemajuan sains, begitu juga pemerintah menghambat kemajuan masyarakat. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+Sebenarnya, sama seperti agama menghambat kemajuan sains, begitu juga pemerintah menghambat kemajuan masyarakat. Hanya sebagai ilusi *agama* menyebabkan kematian ratusan dari jutaan orang sepanjang sejarah, sehingga memiliki ilusi *pemerintah*.
 
 Sama seperti etika agama palsu "membenarkan" semua perilaku pelecehan, korupsi dan kekerasan, demikian juga etika palsu pemerintah. Bila kita memilih hidup dengan fantasi, kita pasti memilih kehancuran, dalam satu bentuk atau bentuk lain.
 
 Bila kita memilih menjalankan masyarakat menurut mitologi moral keagamaan, kita berakhir dengan perang, kekerasan, represi, pelecehan, korupsi dan kemunafikan tanpa dasar.
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+Ketika kita memilih untuk menjalankan masyarakat menurut *statis* moral mitologi, hasilnya tidak berbeda.
 
 Kita bisa memilih kebajikan atau paksaan.
 
@@ -40,19 +40,19 @@ Kita dapat memilih untuk percaya bahwa pemerintah adalah institusi yang perlu da
 
 Takhayul serupa, tentu saja, telah memperlambat kemajuan umat manusia sepanjang sejarah. Prediktor yang paling signifikan terhadap apa yang diungkapkan UPB tentang pemerintah adalah apa yang diungkap sains tentang agama.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+Sebagai ilmu mulai praktis postulat alam semesta yang bisa berjalan tanpa allah, semua cara histeris berteriak-teriak bahwa akhir dunia sudah dekat, bahwa masyarakat akan runtuh ke "anarki", dan bahwa peradaban akan larut ke dalam perang semua melawan semua.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+Setiap kali sebuah sistem yang membenarkan kekuasaan dapat dipahami berjalan *tanpa* yang kuasa, semua orang-orang yang mendapatkan keuntungan dari manipulasi kekuasaan yang berseru bahwa tanpa mereka, semua hilang.
 
 Para pendeta melakukan ini saat permulaan revolusi ilmiah. Tanpa Tuhan, hidup tidak memiliki arti. Tanpa Tuhan, manusia tidak memiliki moralitas. Tanpa Tuhan, jiwa kita tidak bisa diselamatkan. Tanpa Tuhan, dunia akan turun ke dalam kekacauan dan kejahatan.
 
-Tidak ada yang ternyata benar, tentu saja. In fact, quite the *reverse* turned out to be true. Akhir dari agama sebagai pandangan dunia yang dominan membuka jalan bagi pemisahan gereja dan negara, akhir aristokrasi, bangkitnya pasar bebas, pembentukan banyak kebebasan manusia di wilayah dunia yang signifikan.
+Tidak ada yang ternyata benar, tentu saja. Pada kenyataannya, cukup *reverse* ternyata benar. Akhir dari agama sebagai pandangan dunia yang dominan membuka jalan bagi pemisahan gereja dan negara, akhir aristokrasi, bangkitnya pasar bebas, pembentukan banyak kebebasan manusia di wilayah dunia yang signifikan.
 
 Jatuhnya Tuhan adalah bangkitnya umat manusia.
 
 Dengan cara yang sama, ketika kita mulai melihat masyarakat saat ilmuwan awal melihat alam semesta - sebagai sistem mandiri tanpa kebutuhan akan otoritas pusat imajiner - maka kita dapat benar-benar mulai merasakan kemungkinan kebebasan bagi umat manusia.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+Pembentukan pusat dan koersif monopoli dalam masyarakat terus-menerus menghambat kemajuan pengetahuan, kebijaksanaan, kebajikan, kesehatan fisik dan mental – seperti pembentukan pusat dan koersif monopoli dalam *semesta alam* terus-menerus terbelakang kemajuan pengetahuan, kebijaksanaan, dan pengetahuan.
 
 Cara untuk menentang entitas imajiner adalah dengan kebenaran tanpa henti. Cara menentang Tuhan adalah dengan alasan, bukti dan sains.
 
@@ -60,7 +60,7 @@ Cara untuk menentang negara - entitas imajiner yang paling berbahaya - adalah de
 
 ### The Future
 
-Whether we like it or not, UPB applies to everything that we do. Manusia memiliki kecenderungan alami menuju konsistensi, karena kita adalah makhluk dengan kesadaran rasional, menghuni alam semesta yang konsisten dan rasional. Jadi, apa pun premis yang kita terima dalam hidup kita cenderung memaksakan perilaku yang lebih konsisten dalam hidup kita - dan sepanjang "kehidupan" budaya atau bangsa kita juga.
+Apakah kita suka atau tidak, UPB berlaku untuk segala sesuatu yang kita lakukan. Manusia memiliki kecenderungan alami menuju konsistensi, karena kita adalah makhluk dengan kesadaran rasional, menghuni alam semesta yang konsisten dan rasional. Jadi, apa pun premis yang kita terima dalam hidup kita cenderung memaksakan perilaku yang lebih konsisten dalam hidup kita - dan sepanjang "kehidupan" budaya atau bangsa kita juga.
 
 Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
 
