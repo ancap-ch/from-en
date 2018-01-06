@@ -75,9 +75,9 @@ Dengan demikian kita dapat menerima bahwa kita harus mengukur validitas sebuah p
 Kebenaran, maka, dapat diukur menurut dua central kriteria:
 
 1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Kebenaran ini juga mengukur korelasi antara ide-ide dalam pikiran kita dan sifat dasar dan perilaku materi dan energi di dunia nyata.[^3]
+2. Kebenaran ini juga mengukur korelasi antara ide dalam pikiran kita dan sifat dasar dan perilaku materi dan energi di dunia nyata.[^3]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+Kriteria pertama adalah ukuran konsistensi ide dengan diri mereka sendiri – dan konsistensi seperti ini persyaratan karena kenyataannya konsisten dengan dirinya sendiri. Jika saya mengatakan, "saya tidak ada," yang adalah sebuah contoh dari sebuah ide yang tidak konsisten dengan dirinya sendiri, karena aku harus ada dalam rangka untuk mengucapkan kalimat. Kriteria yang kedua adalah ukuran akurasi dari ide-ide relatif terhadap pengamatan empiris dari realitas objektif.
 
 #### Empiricism Versus Rationality
 
