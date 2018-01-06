@@ -16,11 +16,11 @@ Secara historis, bagaimanapun, di antara kebenaran kecil kita sendiri dan kebena
 
 ### The "Null Zone"
 
-Kami menyuruh anak-anak kita untuk tidak saling memukul, dan kami percaya bahwa kekerasan salah dalam abstrak, sebagai aturan moral umum. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+Kami menyuruh anak-anak kita untuk tidak saling memukul, dan kami percaya bahwa kekerasan salah dalam abstrak, sebagai aturan moral umum. "Kebenaran kecil" ialah: *dilarang memukul*. “Kebenaran terbesar” ialah: *kekerasan itu salah*.
 
 Namun, ada dalam pikiran kita entitas imajiner yang disebut "Tuhan," dan entitas ini dianggap sangat bermoral. Sayangnya, entitas ini terus-menerus dan secara kasar melanggar dekrit bahwa "kekerasan itu salah" dengan menenggelamkan dunia, menyerahkan jiwa ke neraka meskipun memiliki pengetahuan awal yang tepat tentang "keputusan mereka," yang menyetujui pemerkosaan, pembunuhan, pencurian, penyerangan dan tindakan lain yang akan kita kutuk. sama jahatnya dengan individu manapun.
 
-Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
+Jadi kita memiliki kebenaran kecil (*dilarang memukul*) dan kebenaran besar (*kekerasan itu salah*) tetapi di tengah-tengah, kita memiliki "zona kosong" *dimana benar-benar berlawanan dari kebenaran kecil dan kebenaran besar kita yang dianggap paling benar*.
 
 Secara historis, kita bisa melihat inkonsistensi yang sama dalam fisika. Tidak ada lingkaran sempurna dalam pengalaman langsung kita, namun karena kepercayaan kepada Tuhan, semua gerak planet harus menjadi "lingkaran sempurna" - sebuah premis yang memperlambat astronomi selama berabad-abad. Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth,” but as a *great truth*, or universal principle. Namun untuk sebagian besar sejarah manusia, diyakini bahwa bintang dan planet berputar mengelilingi Bumi, dan bukan yang diputar di Bumi. Di sini sekali lagi kita bisa melihat "zona nol" antara pengalaman langsung dan prinsip universal, dimana prinsip-prinsip yang berlawanan sama-sama dianggap benar.
 
