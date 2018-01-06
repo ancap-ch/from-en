@@ -126,11 +126,11 @@ Karena penghindaran adalah salah satu pembeda utama antara ”tidak menyenangkan
 
 Juga, karena ada kalanya secara fisik tidak mungkin untuk memperkosa seseorang –misalnya, ketika ereksi tidak dapat dicapai –definisi ”pemerkosaan sebagai kejahatan” memecahkan masalah orang-orang yang secara tidak sadar tidak bermoral, yang menurut definisi tidak mungkin, karena kriteria penghindaran.
 
-The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+Pemerkosa dapat membenarkan tindakannya dengan menghindari proposisi. ”perkosaan itu baik,” dan sebaliknya mengganti proposisi lain yang mendukung keinginannya untuk memperkosa, seperti: ”hal itu bermoral untuk mengambil kesenangan sendiri, terlepas dari Kesenangan orang lain.”
 
 This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
 
-If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
+If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. Jika setiap orang harus mengambil kesenangannya terlepas dari ketidaksenangan orang lain, maka tidak ada alasan yang rasional kenapa pilihan Bob untuk memperkosa Dough harus diutamakan dari pada pilihan Doug untuk tidak diperkosa, terlepas dari ketidaksenangan yang menolak untuk diperkosa akan menyebabkan Bob.
 
 Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
 
