@@ -42,14 +42,14 @@ In order to begin our discussion of ethics, it is essential that we understand t
 
 Di bidang ekonomi, sebuah teori tidak dapat berlaku jika mensyaratkan harga naik dan turun pada waktu yang bersamaan. Dalam fisika, sebuah teori tidak dapat berlaku jika mensyaratkan bahwa gas berkembang dan berkontraksi secara bersamaan. Dalam matematika, sebuah teori tidak dapat berlaku jika mensyaratkan dua di tambah dua sama dengan lima, karena "lima" hanyalah cara lain untuk menggambarkan dua di tambah tiga bukan dua di tambah dua, dan untu mengatakan dua di tambah dua sama dengan lima adalah mengatakan lima Samad engkau empat, yang kontradiktif sendiri.
 
-In general, any theory that contradicts itself in the utterance cannot be valid. Ini tidak memerlukan disprolueksi eksternal, karena menyangkal dirinya sendiri. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+Secara umum, teori apapun yang bertentangan dengan ucapannya tidak bisa berlaku. Ini tidak memerlukan disprolueksi eksternal, karena menyangkal dirinya sendiri. Kita tidak perlu memeriksa setiap sudut dan celah di alam semesta untuk menentukan bahwa "lingkaran persegi" tidak ada. Konsepnya sangat kontradiktif, dan dengan demikian menyangkal dirinya dalam ucapannya.
 
-If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
+Jika saya mengirimkan bukti matematis yang rumit kepada Anda, dan Anda memperhatikan bahwa, pada awalnya, saya menyatakan bahwa bukti saya bergantung pada fakta bahwa dua ditambah dua sama-sama membuat keduanya empat dan lima pada saat bersamaan, Anda tidak perlu membaca apapun. Selanjutnya untuk mengetahui bahwa bukti saya tidak valid.
 
-Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
+Demikian pula, seperti yang telah disebutkan sebelumnya, jika saya mendatangi Anda dan berkata: "Saya tidak ada," tesis saya secara otomatis menghancurkan diri sendiri. Jika saya bisa berkomunikasi dengan Anda bahwa saya tidak ada, maka jelas saya ada.
 
-If I come up to you and say: “There is no such thing as truth,” then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
+Jika saya mendatangi Anda dan berkata: "Tidak ada yang namanya kebenaran," maka saya membuat pernyataan bahwa saya menganggap benar bahwa kebenaran itu tidak ada. Sekali lagi, argumen saya menghancurkan diri sendiri.
 
-If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
+Jika saya mengatakan kepada Anda bahwa "Bahasa tidak berarti," maka saya juga bertentangan dengan diri saya sendiri. Agar saya bisa lisan secara mengkomunikasikan bahasa itu tidak ada artinya, bahasa harus memiliki setidaknya beberapa makna.
 
-If I tell you that “Your senses are invalid,” then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
+Jika saya mengatakan kepada Anda bahwa "indra Anda tidak benar," maka argumen saya juga menghancurkan diri sendiri, karena saya menggunakan perasaan mendengar untuk menyampaikan kepada Anda bahwa indra pendengaran Anda tidak benar. Jika saya berhasil mengkomunikasikan tesis saya kepada Anda, maka indra pendengaran Anda harus benar. Jadi saya harus berasumsi bahwa indra Anda benar untuk meyakinkan Anda bahwa indra Anda tidak benar, yang tidak dapat bertahan.
