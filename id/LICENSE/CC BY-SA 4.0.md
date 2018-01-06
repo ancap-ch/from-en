@@ -1,8 +1,8 @@
 ## sumber daya kreatif
 
-# Attribution-ShareAlike 4.0 International
+# Atribusi-berbagimirip 4.0 International
 
-Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribusi lisensi publik Creative Commons tidak menciptakan pengacara-klien atau hubungan lainnya. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons tidak memberikan jaminan mengenai lisensi, materi yang dilisensikan berdasarkan persyaratan dan ketentuannya, atau informasi terkait lainnya. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+Kreatif Perusahaan Umum ("Kreatif Umum") bukan merupakan firma hukum dan tidak memberikan layanan hukum atau nasihat hukum. Distribusi lisensi publik Creative Commons tidak menciptakan pengacara-klien atau hubungan lainnya. Kreatif Umum membuat lisensinya dan informasi terkait tersedia berdasarkan "as-is". Creative Commons tidak memberikan jaminan mengenai lisensi, materi yang dilisensikan berdasarkan persyaratan dan ketentuannya, atau informasi terkait lainnya. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
 
 ### Menggunakan Lisensi Publik Creative Commons
 
