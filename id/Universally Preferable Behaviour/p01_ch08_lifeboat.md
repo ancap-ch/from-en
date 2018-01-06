@@ -2,11 +2,11 @@
 
 The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
 
-Misalnya, jika kita menerima keabsahan hak properti secara universal, menghancurkan jendela dan melompat ke apartemen seseorang tanpa izin akan menjadi pelanggaran hak kepemilikannya itu. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
+Misalnya, jika kita menerima keabsahan hak properti secara universal, menghancurkan jendela dan melompat ke apartemen seseorang tanpa izin akan menjadi pelanggaran hak kepemilikannya itu. Namun, jika kita menggantung tiang bendera di luar jendela apartemen, dan akan jatuh ke dalam kematian kita, hanya sedikit dari kita yang akan menolak menendang jendela dan melompat ke tempat yang aman untuk mematuhi prinsip abstrak.
 
 Di dunia nyata, akan membawa orang yang sangat berperasaan untuk mengajukan tuntutan kepada seseorang yang menghancurkan sebuah jendela untuk menyelamatkan hidupnya - seperti halnya orang yang tidak bertanggung jawab untuk menolak membayar restitusi untuk jendela tersebut itu. Prinsip "penghindaran" adalah pusat di sini - seorang pria yang menggantung tiang bendera memiliki sedikit pilihan untuk menendang di jendela itu. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. Hal ini mirip dengan perbedaan antara wanita yang menipu pria itu, dibandingkan wanita yang prianya menguncinya di ruang bawah tanah itu.
 
-This is not to say that breaking the window to save your life is not wrong. It is, but it is a wrong that almost all of us would choose to commit rather than die. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
+Ini bukan untuk mengatakan bahwa melanggar jendela untuk menyelamatkan hidup Anda tidak salah. Memang, tapi salah kalau hampir kita semua akan memilih untuk melakukan alih-alih mati. Saat aku hampir mati kelaparan, aku akan mencuri sebutir apel. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
 
 ### Daerah abu-abu
 
