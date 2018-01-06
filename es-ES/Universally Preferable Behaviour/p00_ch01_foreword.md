@@ -48,11 +48,11 @@ La razón por la que la moralidad moderna – y la moralidad a través de la his
 
 La verdad es que necesitamos moralidad; la mentira es que los dioses y gobiernos pueden definirla racionalmente o imponerla justamente.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Mi meta en este libro es definir una metodología para la validación de teorías morales que sea objetiva, consistente, clara, racional, empírica – y *verdadera*.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+Estoy totalmente consciente de que, en este momento, usted probablemente estará sintiendo una creciente ola de escepticismo. Entiendo completamente que las probabilidades de que un tipo afuera en el Internet – el planeta natal de los locos – haya resuelto el problema filosófico de las edades no son particularmente altas – de hecho, estarían tan cerca de cero que sería virtualmente indistinguible de él.
 
-Still, not *quite* zero.
+Aún así, no *son* cero.
 
 ### Ground Rules
 
