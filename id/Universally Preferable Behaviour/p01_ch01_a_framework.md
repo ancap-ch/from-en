@@ -26,19 +26,19 @@ Kebenaran juga memiliki nilai relatif terhadap kebutuhan juga. Fisika Newton tel
 
 Akibatnya, kalimat "Fisika Newton kurang akurat daripada fisika Einstein, tapi fisika Newton adalah cara terbaik untuk menghitung jalur kapal" dapat dianggap sebagai proposisi yang valid. Newtonian physics is thus both *less accurate*, and *more appropriate*.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Kecuali kita sangat kaya dan sangat sembrono, kita tidak akan pernah membayar sebanyak itu untuk memuaskan dahaga kita. Memang benar bahwa air murni lebih baik untuk kita, tapi harga kemurnian itu membutuhkan ambang batas hasil yang semakin berkurang. Jadi "lebih murni lebih baik" memberi jalan untuk "lebih murni lebih buruk."
+Jika kita ingin minum air murni mungkin, kita mungkin akan membayar ribuan dolar per botol. Kecuali kita sangat kaya dan sangat sembrono, kita tidak akan pernah membayar sebanyak itu untuk memuaskan dahaga kita. Memang benar bahwa air murni lebih baik untuk kita, tapi harga kemurnian itu membutuhkan ambang batas hasil yang semakin berkurang. Jadi "lebih murni lebih baik" memberi jalan untuk "lebih murni lebih buruk."
 
 Sekali lagi, ini tidak berarti bahwa kemurnian air benar-benar subjektif. Air suling selalu lebih bisa diminum daripada air laut.
 
 #### Realitas Kebenaran Dan Obyektif
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+The concept of *truth* necessarily involves the concept of *accuracy*. Jika saya mencoba untuk menembak panah di banteng-mata, akurasi tembakan ditentukan oleh seberapa jauh saya panah lahan dari pusat.
 
 What, then, is the “bull’s-eye” of truth?
 
 Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. Nilai kebenaran pernyataan saya diukur relatif terhadap fakta kenyataan objektif. Karena burung camar sebenarnya bukan sebuah landasan, pernyataan saya tidak benar.
+Mengesampingkan tantangan dari bahasa untuk saat ini, jika saya arahkan ke camar dan berkata, "Itu adalah sebuah landasan," saya dengan jelas keliru, karena landasan yang anorganik, dan tidak bisa terbang. Nilai kebenaran pernyataan saya diukur relatif terhadap fakta kenyataan objektif. Karena burung camar sebenarnya bukan sebuah landasan, pernyataan saya tidak benar.
 
 Tentu, persamaan antara kebenaran dan kenyataan ini mengharuskan bahasa dan indra kita dianggap relatif objektif. Ada banyak alasan bagus untuk percaya bahwa kedua bahasa dan bukti indra sebenarnya objektif; kita bisa masuk ke dalam diskusi yang rumit tentang ini, tapi cukuplah untuk mengatakan bahwa karena Anda menggunakan mata Anda untuk membaca buku yang ditulis dalam bahasa manusia, paling tidak kita bisa setuju bahwa matamu, dan bahasa yang kita bagi, ada di Paling tidak cukup objektif bagi Anda untuk secara akurat memproses apa yang saya tulis. Jika tidak, tidak ada yang perlu kita bicarakan, dan Anda belum mengerti apa pun yang telah saya tulis, jadi kalimat ini sama-sama tidak berarti, dan mungkin juga diterjemahkan ke dalam "Wingdings".
 
@@ -54,7 +54,7 @@ Jika saya menghabiskan satu jam mencoba melukis awan, dan kemudian saya bertanya
 
 Dengan kata lain, bila tidak ada konsistensi, tidak ada akurasi.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Ketika kita bermimpi pada malam hari, persepsi kita bahwa aturan "peduli" dan "energi" berada dalam keadaan terus-menerus berubah – kita yang kebal terhadap gravitasi, dan kemudian kami terbang di atas punggung gajah, dan kemudian kita dapat berjalan melalui dinding. Hal ini tidak lebih mungkin untuk mengembangkan "ilmiah fisika mimpi" dari itu untuk secara akurat melukis awan.
 
 Logic, science and truth, then, are impossible in the absence of *consistency*.
 
@@ -62,7 +62,7 @@ Pada dasarnya, hukum logika berasal dari perilaku materi dan energi, setidaknya 
 
 Persepsi realitas konsisten dan objektif - dan dari konsistensi dan objektivitas inilah kita memperoleh hukum logika. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+Fakta bahwa burung-burung camar tidak sewenang-wenang berubah menjadi landasan – atau sebaliknya – adalah akar dari kemampuan kita untuk secara akurat menilai pernyataan: "Itu adalah burung camar." Jika burung-burung camar secara spontan dan terus-menerus berubah sifatnya, kita akan mampu untuk membuat baik benar atau salah pernyataan-pernyataan mengenai mereka – atau apa-apa untuk hal itu.
 
 Ini adalah akar dari kriteria kunci dari metode ilmiah - reproduktifitas. Jika saya membuat klaim universal tentang sifat gravitasi, maka Anda harus bisa mereproduksi klaim itu di lingkungan Anda sendiri. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
 
@@ -72,10 +72,10 @@ Dengan demikian kita dapat menerima bahwa kita harus mengukur validitas sebuah p
 
 ### The Existence Of "Truth"
 
-Truth, then, can be measured according to two central criteria:
+Kebenaran, maka, dapat diukur menurut dua central kriteria:
 
 1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+2. Kebenaran ini juga mengukur korelasi antara ide-ide dalam pikiran kita dan sifat dasar dan perilaku materi dan energi di dunia nyata.[^3]
 
 The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
 
