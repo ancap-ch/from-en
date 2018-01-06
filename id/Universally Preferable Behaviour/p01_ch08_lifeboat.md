@@ -56,18 +56,18 @@ Ini juga memperkenalkan itu subjektivisme yang benar-benar tidak ilmiah terhadap
 
 Juga, jika saya dapat membuat lebih banyak uang sebagai seorang hit dari penjaga toko, seharusnya aku tidak mengejar kekerasan sebagai karier? Itu tentu saja meningkatkan kelangsungan hidup *saya*... dan seterusnya dan seterusnya.
 
-Seperti yang kita lihat, pengenalan "apa baik bagi laki-laki abstrak- atau apa yang kebanyakan orang lakukan-adalah apa Universal lebih baik" menghancurkan konsep moralitas sebagai teori sejalan, dan pengganti hanya biologis drive sebagai pembenaran untuk perilaku. It is an explanation of behaviour, not a proposed moral theory.
+Seperti yang kita lihat, pengenalan "apa baik bagi laki-laki abstrak- atau apa yang kebanyakan orang lakukan-adalah apa Universal lebih baik" menghancurkan konsep moralitas sebagai teori sejalan, dan pengganti hanya biologis drive sebagai pembenaran untuk perilaku. Ini adalah penjelasan tentang perilaku, bukan teori moral yang diusulkan.
 
-### The Purpose And The Dangers
+### Tujuan dan bahaya
 
-With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+Dengan kegemaran Anda pasien, satu pertanyaan akhir perlu ditangani sebelum kita selami definisi dan menguji bagaimana berbagai proposisi moral cocok ke dalam kerangka UPB. Karena pekerjaan tersulit yang ada di depan, kita harus berhenti sejenak dan mengingatkan diri kita mengapa kita menempatkan diri melalui semua ini kekakuan dan kesulitan.
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+Dengan kata lain, sebelum kita terjun di, itu sangat layak mengajukan pertanyaan: "mengapa repot-repot?"
 
-Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+Mengapa repot-repot dengan mendefinisikan teori etika? Orang-orang pasti baik tidak membutuhkan mereka, dan orang jahat tidak berkonsultasi dengan mereka. Orang akan melakukan apa yang mereka inginkan, dan hanya membuat pembenaran yang diperlukan setelah fakta-mengapa *repot-repot* mengajar orang mengenai moralitas?
 
-Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
+Tentu saja, bahaya selalu ada bahwa orang yang tidak bermoral akan menyerang Anda untuk tujuan hedonistik sendiri. Hal ini juga dapat terjadi bahwa, meskipun hidup bersih dan sehat, Anda mungkin bisa memukul oleh kanker sebelum waktu Anda-mantan tidak membuat ilmu moralitas tidak relevan, lebih daripada yang kedua membuat ilmu kedokteran, nutrisi, dan olahraga tidak relevan. Salah satu efek yang dapat dibuktikan dari ilmu rasional moral harus mengurangi kesempatan Anda untuk *menderita* tindakan asusila seperti pencurian, pembunuhan dan pemerkosaan- dan itu oleh kriteria ini bahwa kita juga akan menghakimi aturan moral diajukan dalam bagian ketiga dari buku ini.
 
-[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
+[^10]: Tentu saja, jika aku seperti kompeten atau bingung manusia yang berakhir di ambang kelaparan, penahanan mungkin peningkatan situasi saya.
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+[^11]: Nietzsche "akan kekuasaan" dan Rand's "bahwa yang menyajikan kehidupan manusia adalah yang baik."
