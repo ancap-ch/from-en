@@ -46,7 +46,7 @@ Kita kemudian harus bertanya dulu: apakah aturan moral itu ada?
 
 Tentunya tidak dalam kenyataan material, yang tidak mengandung atau mematuhi satu peraturan moral. Aturan moral berbeda dengan aturan fisika, sama seperti metode ilmiahnya berbeda dengan gravitasi. Masalahnya secara bawaan mematuhi gravitasi atau hukum kedua termodinamika, tapi "jangan membunuh" tidak ada yang tertulis dalam sifat sesuatu. Hukum fisik*menjelaskan*perilaku materi, namun tidak mengandung*persepsi*. Ilmu mengatakan bahwa materi*melakukan*berperilaku dengan cara tertentu - tidak pernah*harus*berperilaku dengan cara tertentu. Sebuah teori gravitasi membuktikan bahwa jika Anda mendorong seorang pria dari tebing, dia akan jatuh. Ini tidak akan memberitahu anda apakah anda*seharusnya*mendorong atau tidak.
 
-Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
+Dengan demikian tidak dapat dikatakan bahwaperaturan moral tidak ada dalam kenyataan material, dan kedua tidak dipatuhi secara otomatis seperti hukum fisika - berati yang*tidak*bahwa hukum moral salah, subjektif atau tidak relevan. Metode ilmiah itu sendiri tidak ada dalam kenyataan - dan juga bersifat opsional - namun sama seklai tidak salah, subjektif atau tidak relevan.
 
 If we can prove that moral theories can be objective, rational and verifiable, this will provide the same benefits to ethics that subjecting *physical* theories to the scientific method did.
 
