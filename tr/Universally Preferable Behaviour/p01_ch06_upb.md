@@ -2,7 +2,7 @@
 
 Genel olarak, *etik* veya *ahlak* uygulanabilir tercihleri nitelerken, *estetik* terimini uygulanamaz tercihlerden bahsederken kullanırız. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. Eğer bir fizikçi bilimsel metodu bırakıp onun yerine tarot kartlarına danışmaya başlarsa, tercihlerini şiddet kullanmadan bana yansıtıyorsa, onu görmezden gelebilirim. Öte yandan bir tecavüzcü, kurbanına tercihlerini şiddetle uyguluyor.
 
-Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
+İlk olarak ETD'nin etik alanına odaklanmamıza rağmen, ETD şuan "genel terim" olarak görülebilir ve şu dalları içerir:
 
 - Bilimsel metot
 - Mantık
