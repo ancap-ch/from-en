@@ -90,13 +90,13 @@ a. ***atribusi.***
     
          i. identifikasi pencipta (S) yang berlisensi bahan dan orang lain yang ditunjuk untuk menerima atribusi, jadi wajar cara yang diminta oleh pemberi lisensi (termasuk oleh nama samaran jika ditunjuk);
         
-         ii. a copyright notice;
+         ii. pemberitahuan hak cipta;
         
-         iii. a notice that refers to this Public License;
+         iii. ini pemberitahuan yang mengacu lisensi publik;
         
-         iv. a notice that refers to the disclaimer of warranties;
+         iv. pemberitahuan yang mengacu pada disclaimer jaminan;
         
-         v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+         v. uRI atau hyperlink ke Material Berlisensi sejauh praktis;
         
     
     B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
