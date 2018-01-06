@@ -29,7 +29,7 @@ In the example of “lying,” although you have clearly broken your word, and w
 
 A reasonable moral theory should be able to explain why this is the case.
 
-### Murder
+### Cinayet
 
 If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
 
