@@ -38,9 +38,9 @@ Este entendimiento ha dado a luz a una nueva generación de nihilistas, tal y co
 
 Dado que no hay acuerdo en un marco racional, objetivo y cohesivo para evaluar las proposiciones morales, la "moralidad" permanece atascada en el misticismo, y en su inevitable corolario de violencia. Así como, antes de la Ilustración, las sectas religiosas guerrearon sin parar por el control sobre las hojas de la aristocracia, ahora lo hacen las mitologías morales compitiendo por el control del estado, y toda su maquinaria de coerción.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+Así la moralidad permanece, relativa a la ciencia moderna, como lo hizo la "astronomía" medieval – un reino de la mitología imaginaria, impuesta a través de cuentos, amenazas, coacción y explotación – que activamente barre con cualquier progreso real hacia la verdad.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+Esta "bestia" de ética relativista se cierne sobre nosotros, acechándonos, justificando los impuestos, el encarcelamiento, la censura y las guerras. Esclaviza a los jóvenes en escuelas estatales y misas de domingo; atrapa a los pobres en los suaves gulags del bienestar, esclaviza incluso a los no nacidos en los pozos sin fondo de la deuda nacional.
 
 As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
 
