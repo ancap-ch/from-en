@@ -11,7 +11,7 @@ Genel olarak, *etik* veya *ahlak* uygulanabilir tercihleri nitelerken, *estetik*
 - Dil
 - Etik
 
-Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+Etik, ETD'nin *meydana getirilen* davranışla veya şiddetin uygulanmasıyla uğraşan bir alt kümesidir. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
 
 Etik ve estetik arasında daha fazla ayrım yapabilmek için şu üç eyleme bakalım. İlk eylem *mantıksızlık*; ikincisi, *yalan söylemek*; üçüncüsü ise *cinayet*.[^9]
 
@@ -43,9 +43,9 @@ We all have preferences – from the merely personal (“I like ice cream”) to
 
 There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
 
-### Choice
+### Seçenek
 
-If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+Eğer senin akşam yemeği partisi davetini kabul edersem fakat muhabbeti çok saldırgan bulursam, kalkıp gitmeye karar verebilirim ve bir daha senden gelen diğer davetleri kabul etmeyebilirim. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
 
 If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
 
