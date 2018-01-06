@@ -30,7 +30,7 @@ Kita bisa bilang:
 
 Pernyataan ketiga adalah kontradiksi diri yang lengkap. "Kebenaran" tidak tergantung pada keinginan, karena keinginan didefinisikan secara subjektif, dan kebenaran adalah dengan definisi kesesuaian gagasan dengan standar objektif logika dan realitas empiris. Mengatakan bahwa ada sesuatu yang benar karena Anda *ingin* memang benar adalah menyamakan subjektivitas dengan objektivitas, yang merupakan pernyataan kontradiktif itu sendiri.
 
-Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
+Pernyataan yang terlalu besar - atau "iman" - menurut definisi tidak dapat diuji, karena mereka tidak percaya pada *ketidakhadiran* bukti, tapi percaya pada *tantangan* alasan dan/atau bukti.
 
 We can believe unproven things that turn out to be true – someone doubtless thought that the world was round before it was proven – but the “null zone” is the realm wherein we cling to a belief in things that *could not possibly turn out to be true*.
 
