@@ -107,19 +107,19 @@ a. ***Attribution.***
 
 ### Section 4 – Sui Generis Database Rights.
 
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+Dimana Hak Izin termasuk Hak Basis Data Sui Generis yang berlaku untuk penggunaan Anda terhadap Bahan Berlisensi:
 
 a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only and provided You do not Share Adapted Material;
 
-b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
+b. jika Anda menyertakan semua atau sebagian besar isi database dalam database di mana Anda memiliki Hak Database Sui Generis, maka database di mana Anda memiliki Hak Basis Data Sui Generis (tapi bukan isi masing-masing) adalah Bahan yang Diadaptasi; dan
 
 c. Anda harus mematuhi persyaratan di Bagian 3 (a) jika Anda Membagikan semua atau sebagian besar isi database.
 
 Untuk menghindari keraguan, suplemen Bagian 4 ini dan tidak menggantikan kewajiban Anda berdasarkan Lisensi Publik ini dimana Hak Izin mencakup Hak Cipta dan Hak Lain.
 
-### Section 5 – Disclaimer of Warranties and Limitation of Liability.
+### Bagian 5 - Penafian Jaminan dan Batasan Tanggung Jawab.
 
-a. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
+a. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. Ini termasuk, namun tidak terbatas pada, jaminan judul, kelayakan jual, kesesuaian untuk tujuan tertentu, tidak melanggar, tidak adanya cacat laten atau cacat lainnya, keakuratan, atau ada tidaknya kesalahan, tidak diketahui atau dapat ditemukan. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
 
 b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
 
@@ -131,9 +131,9 @@ a. Lisensi Publik ini berlaku untuk jangka waktu Hak Cipta dan Hak-hak Hak yang 
 
 b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
 
-1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+1. secara otomatis pada tanggal pelanggaran tersebut disembuhkan, asalkan sudah sembuh dalam waktu 30 hari sejak ditemukannya pelanggaran; atau
 
-2. upon express reinstatement by the Licensor.
+2. pada saat menyatakan kembali oleh Pemberi Lisensi.
     
     For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
 
@@ -145,7 +145,7 @@ d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
 
 a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
 
-b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
+b. Setiap pengaturan, pemahaman, atau kesepakatan mengenai Bahan Berlisensi yang tidak disebutkan di sini terpisah dan terlepas dari syarat dan ketentuan dari Lisensi Publik ini.
 
 ### Section 8 – Interpretation.
 
@@ -155,8 +155,8 @@ b. To the extent possible, if any provision of this Public License is deemed une
 
 c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
 
-d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
+d. Tidak ada Lisensi Publik ini yang merupakan atau dapat dianggap sebagai pembatasan atas, atau pengabaian, hak istimewa dan kekebalan apapun yang berlaku bagi Pemberi Lisensi atau Anda, termasuk dari proses hukum dari yurisdiksi atau otoritas manapun.
 
-> Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
+> Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. Untuk menghindari keraguan, paragraf ini tidak menjadi bagian dari lisensi publik.
 > 
-> Creative Commons may be contacted at creativecommons.org
+> Creative Commons dapat dihubungi di creativecommons.org
