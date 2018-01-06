@@ -79,7 +79,7 @@ Penerapan Hak Izin Anda secara tegas dibuat sesuai dengan kondisi berikut.
 
 a. ***Attribution.***
 
-1. If You Share the Licensed Material, You must:
+1. Jika Anda Berbagi Materi Berlisensi, Anda harus:
     
     A. mempertahankan hal berikut jika diberikan oleh Pemberi Lisensi dengan Materi Izin:
     
