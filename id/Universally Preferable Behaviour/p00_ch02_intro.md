@@ -26,9 +26,9 @@ Secara historis, kita bisa melihat inkonsistensi yang sama dalam fisika. Tidak a
 
 Tidak ada orang waras yang mengalami Tuhan secara langsung. In his daily life, he fully accepts that *that which cannot be perceived does not exist*. Tidak ada orang yang masuk akal tersentak setiap kali dia mengambil langkah, takut akan dinding tak terlihat yang mungkin menghalangi jalannya. Abstraksi terbesar sains mendukung pendekatannya.
 
-Conversely, in the “null zone” of religion, the *exact opposite* of both the little truths and the great truths is believed to be true. Secara pribadi, seorang pria percaya bahwa *apa yang tidak dapat dirasakan tidak ada* - secara intelektual, sains telah membuktikannya berulang kali. Namun, dalam "zona nol" teologi, proposisi yang berlawanan sebenarnya berlaku - aksioma ada *yang tidak dapat dirasakan **harus** ada*.
+Conversely, in the “null zone” of religion, the *exact opposite* of both the little truths and the great truths is believed to be true. Personally, a man believes that *that which cannot be perceived does not exist* – intellectually, science has proven this repeatedly. However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
 
-Keyakinan kita akan kebajikan militer juga terletak pada "zona nol" ini. Jika seorang pria pribadi dibayar untuk membunuh orang lain, kita memanggilnya "senjata untuk dipekerjakan," dan mengutuknya sebagai orang yang paling tidak beruntung. Jika, bagaimanapun, orang ini memakai kostum hijau dengan pita tertentu *dan melakukan tindakan yang sama*, kita memanggilnya sebagai pahlawan dan menghadiahi dia dengan uang pensiun. Kebenaran kecil (*seharusnya saya tidak membunuh*) sangat sesuai dengan kebenaran agung (*pembunuhan itu salah*) - namun di tengahnya terdapat "zona nol", di mana pembunuhan secara ajaib menjadi "berbudi luhur."
+Keyakinan kita akan kebajikan militer juga terletak pada "zona nol" ini. Jika seorang pria pribadi dibayar untuk membunuh orang lain, kita memanggilnya "senjata untuk dipekerjakan," dan mengutuknya sebagai orang yang paling tidak beruntung. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
 
 Jika "zona nol" ini benar, maka tidak ada proposisi logis yang bisa dipegang. Jika proposisi benar - dan kebalikan dari proposisi itu juga benar - maka penalaran logis menjadi tidak mungkin. Pertumbuhan ilmu pengetahuan rasional telah menjadi serangan mantap atas "zona nol" ini, dan penyerapan konsistensi objektif ke dalam kantong kecil gila ini.
 
@@ -38,27 +38,27 @@ Hal yang sama juga terjadi di ranah moralitas.
 
 ### Korbannya
 
-Melintasi "zona nol" ini penuh dengan bahaya. Jalan dari kebenaran kecil menuju kebenaran besar diaspal dengan tulang jutaan orang. Dari kematian Sokrates hingga penyiksaan ilmuwan awal oleh para fanatik religius, kepada jutaan orang yang telah membunuh dan meninggal karena fantasi hitam fasisme dan komunisme, dorongan pengetahuan manusia ke dalam "zona nol" penuh dengan bahaya yang cukup besar.
+Crossing this “null zone” is fraught with peril. Jalan dari kebenaran kecil menuju kebenaran besar diaspal dengan tulang jutaan orang. Dari kematian Sokrates hingga penyiksaan ilmuwan awal oleh para fanatik religius, kepada jutaan orang yang telah membunuh dan meninggal karena fantasi hitam fasisme dan komunisme, dorongan pengetahuan manusia ke dalam "zona nol" penuh dengan bahaya yang cukup besar.
 
-Harus "melintasi zona nol" - atau dengan mulus menyatukan kebenaran kecil dengan kebenaran besar - mau tidak mau sangat sulit dan berbahaya? Ini adalah tantangan besar untuk menyatukan perseptual dengan konseptual dalam garis lurus logis penalaran - tapi *harus* kemajuan ini memakan waktu ribuan tahun dan lautan darah?
+Harus "melintasi zona nol" - atau dengan mulus menyatukan kebenaran kecil dengan kebenaran besar - mau tidak mau sangat sulit dan berbahaya? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
 
-Jika kita melihat kemajuan teknologi dan ekonomi umat manusia, kita melihat lebih banyak garis datar untuk ribuan tahun yang tak terhitung jumlahnya, diikuti oleh lonjakan besar dan asimtotik dalam beberapa ratus tahun terakhir. Tidak dapat dibayangkan bahwa beberapa mutasi genetik yang meluas dapat menyebabkan percepatan konsistensi intelektual dan kesuksesan material yang tiba-tiba dan luar biasa ini. Teori mengklaim bahwa tertentu "efek bola salju" datang ke keberadaan, misterius didorong oleh akumulasi semua sedikit kenaikan pengetahuan yang telah terjadi sejak awal peradaban, biasanya dapat diberhentikan segera sebagai sepenuhnya *ex Post facto* penjelasan, karena mereka tidak memiliki nilai prediksi.
+Jika kita melihat kemajuan teknologi dan ekonomi umat manusia, kita melihat lebih banyak garis datar untuk ribuan tahun yang tak terhitung jumlahnya, diikuti oleh lonjakan besar dan asimtotik dalam beberapa ratus tahun terakhir. Tidak dapat dibayangkan bahwa beberapa mutasi genetik yang meluas dapat menyebabkan percepatan konsistensi intelektual dan kesuksesan material yang tiba-tiba dan luar biasa ini. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
 
-Jika kita memahami bahwa kami mengejutkan potensi telah tersedia bagi kami untuk setidaknya puluhan ribu tahun - dan bahwa ada baik besar keuntungan dan senang di berolahraga itu - maka sekaligus menjadi jelas bahwa kami benar-benar *apakah* ingin menggunakan pikiran kami yang menakjubkan.
+If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
 
 Jadi harus ada kekuatan ke bawah yang secara historis bertindak untuk menghancurkan dan memperbudak kebebasan alam umat manusia.
 
 Dalam dunia sains, tidaklah sulit untuk melihat kekuatan penindas yang terus-menerus membuat pikiran kita nyaris tak dikenal. Kombinasi takhayul dalam bentuk agama, dan kekerasan dalam bentuk aristokrasi, mengancam pemikir rasional dengan intimidasi, pemenjaraan, penyiksaan, dan pembunuhan. Sama seperti keuntungan petani dari rendahnya kecerdasan sapi, dan pemilik budak memperoleh keuntungan dari ketakutan para budaknya, para imam dan raja mempertahankan hak istimewa mereka dengan mengancam siapa pun yang berani berpikir.
 
-Kebenaran yang sederhana adalah bahwa "imam" dan "raja" - hanyalah - hanya manusia biasa saja. Kebenaran yang sederhana adalah bahwa para dewa dan setan yang seharusnya membenarkan peraturan mereka tidak pernah ada.
+The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
 
-Kami telah membuat langkah besar dalam memahami sifat dan realitas sederhana manusia kesetaraan, tapi sedih faktanya adalah bahwa alam *moralitas* masih hilang dalam "null zona" - ini merusak ilusi dari "tengah kebenaran."
+We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
 
-### "tengah kebenaran"
+### "Middle Truths"
 
-Mari kita memanggil oposisi prinsip-prinsip yang tinggal di "null zona" - antara tanggapan pancaindera dan konseptual konsistensi - ulasan yang "tengah kebenaran."
+Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
 
-Ini "tengah kebenaran" adalah paling berbahaya ilusi-Tama, karena mereka mengabulkan *penampilan* kebenaran Sementara sebenarnya*menyerang* kebenaran.
+These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
 
 Dengan memberikan ilusi bahwa kita telah menemukan kebenaran, "kebenaran tengah" sebenarnya mencegah kita untuk mendapatkan kebenaran. Mereka adalah garis terakhir pertahanan untuk fantasi, predasi dan eksploitasi.
 
