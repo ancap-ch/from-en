@@ -1,8 +1,8 @@
-## Preferences
+## Preferensi
 
 Sekarang setelah kita memahami sifat argumen yang mengalahkan diri sendiri, kita dapat beralih ke pertanyaan tentang preferensi.
 
-Preferensi sangat penting bagi metodologi yang mengklaim untuk menentukan nilai kebenaran proposisi. Metode ilmiah, misalnya, sebagian besar didefinisikan oleh preferensi bawaan untuk konsistensi logis dan verifikasi empiris. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Preferensi sangat penting bagi metodologi yang mengklaim untuk menentukan nilai kebenaran proposisi. Metode ilmiah, misalnya, sebagian besar didefinisikan oleh preferensi bawaan untuk konsistensi logis dan verifikasi empiris. Untuk ilmu pengetahuan, premisnya adalah: * jika * Anda ingin menentukan kebenaran yang benar tentang perilaku materi dan energi, maka * lebih baik* untuk menggunakan metode ilmiah.
 
 Dalam pengertian ini, "lebih baik" tidak berarti "agak lebih baik," tapi lebih "dibutuhkan." *Jika* Anda ingin hidup, maka* lebih disukai secara universal* bahwa Anda menahan diri dari makan segenggam arsenik. *Jika* Anda ingin menentukan kebenaran yang benar tentang kenyataan, maka* lebih disukai secara universal* bahwa teori Anda dapat secara internal konsisten dan dapat diverifikasi secara empiris. "Secara universal lebih disukai," kemudian, diterjemahkan ke "yang secara objektif dibutuhkan," namun kami akan mempertahankan kata "lebih baik" untuk membedakan antara absolut opsional manusia dan absolut non-opsional fisik seperti gravitasi.
 
@@ -12,7 +12,7 @@ Jadi, dalam etika, sama seperti dalam sains, matematika, teknik dan semua disipl
 
 ### Preferensi dan Keberadaan
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Sama jelasnya, "es krim" juga ada dalam kenyataan. However, the word “like” is more problematic.
+Jika saya mengatakan "Saya suka es krim," hanya satu kata yang tetap ambigu dalam kalimat itu. Clearly “I” exist, since I am expressing a personal preference. Sama jelasnya, "es krim" juga ada dalam kenyataan. However, the word “like” is more problematic.
 
 Preferensi tidak ada secara objektif dalam kenyataan. Jika Anda penasaran dengan obsesif, Anda mungkin bisa mengikuti saya dan mencatat setiap kali saya makan es krim, yang mungkin akan memberikan dasar empiris yang baik untuk menetapkan preferensi saya untuk itu. Kemungkinan itu bisa ada, bagaimanapun, bahwa saya sebenarnya seorang masokis, dan sangat menyukai es krim, dan lebih suka menyiksa diri dengan rasa tidak enak - dan kemudian membuat Anda bingung karena mengaku menyukainya.
 
