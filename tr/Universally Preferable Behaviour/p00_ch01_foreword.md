@@ -16,9 +16,9 @@ Bu kitap böyle bir canavar üzerine benim kişisel saldırı hikayemdir.
 
 Bu “canavar“ inancını objektif, rasyonel, seküler ve bilimsel bir etik sistemle tanımlamak imkansızdır. Bu “canavar“ sadece pragmatik nedenlerden ötürü Ahlakın tanrıların ve hükümetlerin irrasyonel bataklıklarında kaybolması gerektiğini dayatan yanılsamadır, ancak sonsuza dek mantıksal gerekçelerden ve açık tanımlardan yoksundur. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Bu canavar Sokrates'ten Platona, Augustine'den Hume'a, Kant'dan Rand'a birçok büyük kahramanı dize getirdi.
 
-The cost to mankind has been enormous.
+İnsanoğluna maliyeti çok büyüktür.
 
 Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
 
