@@ -104,7 +104,7 @@ Kita kenal dengan contoh Mafia, yang mengancam saingan potensial dengan cacat da
 
 Ketika filsuf mengekspos kepalsuan yang diperlukan untuk eksploitasi lanjutan, namun, Mereka idealnya tidak bertujuan untuk menempatkan dirinya sebagai pesaing. Mereka tidak mau *menggantikan* itu mafia, atau itu church – mereka ingin menghilangkannya sepenuhnya.
 
-Analogi yang lebih modern akan menjadi hubungan antara negara, pelobi dan pembayar pajak. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+Analogi yang lebih modern akan menjadi hubungan antara negara, pelobi dan pembayar pajak. Pelobi akan dengan ganas menyerang pelobi lain yang bersaing memperebutkan dolar pajak yang sama. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
 
 Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
 
