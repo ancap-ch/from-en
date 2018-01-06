@@ -34,7 +34,7 @@ Pernyataan yang terlalu besar - atau "iman" - menurut definisi tidak dapat diuji
 
 Kita dapat mempercayai hal-hal yang tidak terbukti yang ternyata benar - seseorang pasti berpikir bahwa dunia ini bulat sebelum terbukti - namun "zona nol" adalah wilayah dimana kita berpegang teguh pada keyakinan akan hal-hal yang *tidak mungkin dapat kita ubah. tidak mungkin ternyata itu benar*.
 
-Jika saya mengatakan bahwa dua ditambah dua sama dengan lima, saya membuat kesalahan yang bisa diperbaiki dengan referensi pada logika. Jika saya mengatakan bahwa saya percaya bahwa ada lingkaran persegi, maka saya membuat pernyataan yang bertentangan secara eksplisit, yang menyangkal dirinya sendiri. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+Jika saya mengatakan bahwa dua ditambah dua sama dengan lima, saya membuat kesalahan yang bisa diperbaiki dengan referensi pada logika. Jika saya mengatakan bahwa saya percaya bahwa ada lingkaran persegi, maka saya membuat pernyataan yang bertentangan secara eksplisit, yang menyangkal dirinya sendiri. Jika saya melangkah lebih jauh, bagaimanapun, dan dengan tegas mengklaim bahwa "foo plus tury sama dengan desty" - dan menolak untuk menentukan persyaratan apa pun - saya membuat sebuah pernyataan yang logika dan bukti *tidak dapat diterapkan*.
 
 ### Next Stop: The "Alternative Universe"
 
