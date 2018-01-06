@@ -14,9 +14,9 @@ Dalam fisika, kebenaran besar tidak bisa bertentangan dengan kebenaran kecil. Ti
 
 Secara historis, bagaimanapun, di antara kebenaran kecil kita sendiri dan kebenaran besar terletak apa yang akan saya sebut "zona nol."
 
-### The "Null Zone"
+### Yang "null zona"
 
-Kami menyuruh anak-anak kita untuk tidak saling memukul, dan kami percaya bahwa kekerasan salah dalam abstrak, sebagai aturan moral umum. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+Kami menyuruh anak-anak kita untuk tidak saling memukul, dan kami percaya bahwa kekerasan salah dalam abstrak, sebagai aturan moral umum. Yang "sedikit kebenaran" adalah: *tidak Punch*. Yang " besar kebenaran" adalah: *kekerasan adalah salah*.
 
 Namun, ada dalam pikiran kita entitas imajiner yang disebut "Tuhan," dan entitas ini dianggap sangat bermoral. Sayangnya, entitas ini terus-menerus dan secara kasar melanggar dekrit bahwa "kekerasan itu salah" dengan menenggelamkan dunia, menyerahkan jiwa ke neraka meskipun memiliki pengetahuan awal yang tepat tentang "keputusan mereka," yang menyetujui pemerkosaan, pembunuhan, pencurian, penyerangan dan tindakan lain yang akan kita kutuk. sama jahatnya dengan individu manapun.
 
