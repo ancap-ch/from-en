@@ -60,13 +60,13 @@ Kita dapat revolutionise dunia dengan menerima pernyataan - dan bukti - yang men
 
 Apabila kita mengambil kerangka kerja UPB dan menerapkannya ke proposisi moral mengenai pemerintah dan agama, beberapa hasil sangat menarik terjadi.
 
-Usul yang paling sering digunakan untuk membenarkan daya pemerintah adalah: "pemerintah yang mempunyai hak untuk mengambil uang anda." Namun, ini adalah sebuah agak tidak tepat dan pernyataan palsu sama sekali. "Pemerintah" tidak memiliki hak untuk mengambil uang Anda, karena "pemerintah" hanyalah sebuah konsep abstrak, keterangan untuk sebuah grup yang ditetapkan oleh diri orang. UPB memerlukan lebih konsisten dan pernyataan tujuan. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+Usul yang paling sering digunakan untuk membenarkan daya pemerintah adalah: "pemerintah yang mempunyai hak untuk mengambil uang anda." Namun, ini adalah sebuah agak tidak tepat dan pernyataan palsu sama sekali. "Pemerintah" tidak memiliki hak untuk mengambil uang Anda, karena "pemerintah" hanyalah sebuah konsep abstrak, keterangan untuk sebuah grup yang ditetapkan oleh diri orang. UPB memerlukan lebih konsisten dan pernyataan tujuan. Setiap moral aturan semua itu sama Sejak aturan moral harus sama untuk semua orang di segala tempat, dan pada setiap waktu, kita harus rephrase aturan dalam cara ini:
 
-“*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
+"*manusia dapat mengambil uang secara moral dari manusia lain jika mereka membentuk sebuah badan konseptual yang membenarkan tindakan mereka.*"
 
-If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
+Jika kita kembali kepada Bob dan Doug di ruang kecil moral percobaan, sangat cepat kita dapat melihat bahwa ini menjadi proposisi yang mustahil.
 
-If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
+Jika Bob mengatakan kepada Doug: "Aku sekarang mewakili konsep ideal 'FUBAR,' yang menyungguhkan aku mengambil lebih ringan anda dari anda. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
 
 What will Doug’s reaction be? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
 
