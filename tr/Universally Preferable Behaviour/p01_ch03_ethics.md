@@ -8,7 +8,7 @@ Uçan bir topu yakalayabiliyorsam uçan bir beysbol topu hareketi hakkında içg
 
 Aynı şekilde, tecavüz ve cinayet gibi davranışlara karşı ortak ahlaki tepkilerimiz kesin bir şekilde yanlış değildir, ama bunlar bize tutarlı ve ampirik ahlak teorileri yaratma veya geçerliliklerini onaylama yetisi vermez.
 
-Eğer bir beysbol oyuncusunun havadaki bir topu yakalama yeterliliğini tamamen geçersiz kılacak bilimsel bir teori önerirsem, beysbol oyuncusunun topu aslında *nasıl* yakaladığını açıklamakla ilgili üstesinden gelemeyeceğim bir meydan okuma olur. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
+Eğer bir beysbol oyuncusunun havadaki bir topu yakalama yeterliliğini tamamen geçersiz kılacak bilimsel bir teori önerirsem, beysbol oyuncusunun topu aslında *nasıl* yakaladığını açıklamakla ilgili üstesinden gelemeyeceğim bir meydan okuma olur. Ayrıca, büyük teorim uçan bir topun yaptığı kavisi doğru bir şekilde öngörmezse, elimde ''küçük bir hakikat''le ters düşen ''büyük bir hakikat'' olur, ki bu da geçerli sayılmaz. Mantıksal tutarlılığın zorunluluğu direkt olarak "küçük gerçekleri"in algısal deneyimlerinden kaynaklandığı için, bu deneyimle doğrudan çelişen herhangi bir teori geçerli olamaz.
 
 In other words, the senses give rise to logic – therefore logic cannot contradict the evidence of the senses. Evidence always trumps explanation.
 
