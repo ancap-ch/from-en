@@ -16,11 +16,11 @@ Since human beings *do in fact* have equal rights of property, any social system
 
 Aslında mantık ve bilim, ETD şemsiyesi altında ahlak ile birlikte var olan metodolojilerdir. Başka bir deyişle mantık ve bilim, ETD çerçevesinde doğrulanır.
 
-A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
+Cevaplanması gereken asıl soru şudur: * Neden bilimsel yöntem mistisizm gibi diğer bilgi edinme metodolojilerinden daha üstündür?*
 
 ETD bu soruyu cevaplar.
 
-Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
+Bilgi edinimi için herhangi bir metodolojinin evrensel, tutarlı ve zaman-mekan kavramından bağımsız olması gerektiği için bilimsel yöntem bu gereklilikleri karşılarken, mantıksız ve özel mistisizm bunları karşılamaz ve tam tersidir.
 
 ### Public Education
 
