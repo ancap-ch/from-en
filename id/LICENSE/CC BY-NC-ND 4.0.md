@@ -121,11 +121,11 @@ Untuk menghindari keraguan, suplemen Bagian 4 ini dan tidak menggantikan kewajib
 
 a. **kecuali dinyatakan secara terpisah dilakukan oleh pemberi lisensi, untuk sejauh mungkin, para pemberi lisensi menawarkan bahan berlisensi seperti apa adanya dan As-tersedia, dan tidak menjamin atau jaminan apapun mengenai berlisensi material, Entah Express, tersirat, hukum, atau lainnya. Ini termasuk, namun tidak terbatas pada, jaminan judul, kelayakan jual, kesesuaian untuk tujuan tertentu, tidak melanggar, tidak adanya cacat laten atau cacat lainnya, keakuratan, atau ada tidaknya kesalahan, tidak diketahui atau dapat ditemukan. Di mana penyangkalan jaminan tidak diizinkan penuh atau sebagian, mungkin disclaimer ini tidak berlaku untuk Anda.**
 
-b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
+b. **Seandainya mungkin, Pemberi Lisensi bertanggung jawab kepada Anda atas setiap teori hukum (termasuk, namun tidak terbatas pada, kelalaian) atau sebaliknya atas tindakan langsung, khusus, tidak langsung, insidental, konsekuensial, hukuman, teladan, atau lainnya. kerugian, biaya, biaya, atau kerusakan yang timbul dari Lisensi Publik ini atau penggunaan Bahan Izin, bahkan jika Pemberi Lisensi diberitahu mengenai kemungkinan kerugian, biaya, biaya, atau kerusakan tersebut. Jika batasan tanggung jawab tidak diperbolehkan secara penuh atau sebagian, batasan ini mungkin tidak berlaku bagi Anda.**
 
 c. Penafian jaminan dan pembatasan tanggung jawab yang diberikan di atas harus ditafsirkan dengan cara yang, sejauh mungkin, paling mendekati dugaan disclaimer dan pembebasan semua kewajiban.
 
-### Section 6 – Term and Termination.
+### Bagian 6 - istilah dan penghentian.
 
 a. Lisensi Publik ini berlaku untuk jangka waktu Hak Cipta dan Hak-hak Hak yang dilisensikan di sini. Namun, jika Anda gagal mematuhi Lisensi Publik ini, maka hak Anda berdasarkan Lisensi Publik ini akan berakhir secara otomatis.
 
@@ -139,24 +139,24 @@ b. Di mana hak Anda untuk menggunakan Bahan Izin telah diakhiri berdasarkan Bagi
 
 c. Untuk menghindari keraguan, Pemberi Lisensi juga dapat menawarkan Materi Izin dengan syarat atau ketentuan yang terpisah atau menghentikan penyalaan Bahan Berlisensi setiap saat; Namun, hal itu tidak akan menghentikan Lisensi Publik ini.
 
-d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+d. Bagian 1, 5, 6, 7, dan 8 bertahan penghentian Lisensi Publik ini.
 
-### Section 7 – Other Terms and Conditions.
+### Bagian 7 - Persyaratan dan Ketentuan Lainnya.
 
-a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
+sebuah. Pemberi Lisensi tidak terikat oleh persyaratan atau ketentuan tambahan atau berbeda yang dikomunikasikan oleh Anda kecuali jika disetujui secara tertulis.
 
 b. Setiap pengaturan, pemahaman, atau kesepakatan mengenai Bahan Berlisensi yang tidak disebutkan di sini terpisah dan terlepas dari syarat dan ketentuan dari Lisensi Publik ini.
 
-### Section 8 – Interpretation.
+### Bagian 8 - Interpretasi.
 
 a. Untuk menghindari keraguan, Lisensi Publik ini tidak, dan tidak boleh ditafsirkan untuk, mengurangi, membatasi, membatasi, atau mengenakan ketentuan tentang penggunaan Materi Berlisensi yang dapat dilakukan secara sah tanpa izin berdasarkan Lisensi Publik ini.
 
-b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+b. Sedapat mungkin, jika ada ketentuan dari Lisensi Publik ini yang dianggap tidak dapat dilaksanakan, maka secara otomatis harus direformasi sejauh yang diperlukan untuk membuatnya dapat dilaksanakan. Jika ketentuan tersebut tidak dapat direformasi, maka hal tersebut akan diputus dari Lisensi Publik ini tanpa mempengaruhi persyaratan dan ketentuan yang berlaku.
 
-c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
+c. Tidak ada syarat atau ketentuan dari Lisensi Publik ini yang akan dihapuskan dan tidak ada kegagalan untuk mematuhi persetujuan kecuali jika disetujui secara tegas oleh Pemberi Lisensi.
 
 d. Tidak ada Lisensi Publik ini yang merupakan atau dapat dianggap sebagai pembatasan atas, atau pengabaian, hak istimewa dan kekebalan apapun yang berlaku bagi Pemberi Lisensi atau Anda, termasuk dari proses hukum dari yurisdiksi atau otoritas manapun.
 
-> Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. Untuk menghindari keraguan, paragraf ini tidak menjadi bagian dari lisensi publik.
+> Creative Commons bukan merupakan pihak yang memiliki lisensi publik. Meskipun demikian, Creative Commons dapat memilih untuk menerapkan satu dari publik lisensi untuk bahan ini menerbitkan dan contoh-contoh akan dianggap sebagai "pemberi lisensi." kecuali untuk terbatas tujuan mengindikasikan bahwa materi dibagi di bawah Creative Commons lisensi publik atau sebagai jika tidak diijinkan oleh Creative Commons kebijakan diterbitkan di[ creativecommons.org/policies ](http://creativecommons.org/policies), Creative Commons tidak mengizinkan penggunaan merek dagang "Creative Commons" atau lainnya merek dagang atau logo Creative Commons tanpa persetujuan tertulis termasuk, tanpa batasan, sehubungan dengan apa saja tidak sah modifikasi salah publik lisensi atau pengaturan lain, pemahaman, atau perjanjian tentang penggunaan bahan berlisensi. Untuk menghindari keraguan, paragraf ini tidak menjadi bagian dari lisensi publik.
 > 
 > Creative Commons dapat dihubungi di creativecommons.org
