@@ -8,7 +8,7 @@ Uçan bir topu yakalayabiliyorsam uçan bir beysbol topu hareketi hakkında içg
 
 Aynı şekilde, tecavüz ve cinayet gibi davranışlara karşı ortak ahlaki tepkilerimiz kesin bir şekilde yanlış değildir, ama bunlar bize tutarlı ve ampirik ahlak teorileri yaratma veya geçerliliklerini onaylama yetisi vermez.
 
-Eğer bir beysbol oyuncusunun havadaki bir topu yakalama yeterliliğini tamamen geçersiz kılacak bilimsel bir teori önerirsem, beysbol oyuncusunun topu aslında *nasıl* yakaladığını açıklamakla ilgili üstesinden gelemeyeceğim bir meydan okuma olur. Ayrıca, büyük teorim uçan bir topun yaptığı kavisi doğru bir şekilde öngörmezse, elimde ''küçük bir hakikat''le ters düşen ''büyük bir hakikat'' olur, ki bu da geçerli sayılmaz. Mantıksal tutarlılığın zorunluluğu direkt olarak "küçük gerçekleri"in algısal deneyimlerinden kaynaklandığı için, bu deneyimle doğrudan çelişen herhangi bir teori geçerli olamaz.
+Eğer bir beysbol oyuncusunun havadaki bir topu yakalama yeterliliğini tamamen geçersiz kılacak bilimsel bir teori önerirsem, beysbol oyuncusunun topu aslında *nasıl* yakaladığını açıklamakla ilgili üstesinden gelemeyeceğim bir meydan okuma olur. Ayrıca, büyük teorim uçan bir topun yaptığı kavisi doğru bir şekilde öngörmezse, elimde ''küçük bir hakikat''le ters düşen ''büyük bir hakikat'' olur, ki bu da geçerli sayılmaz. Mantıksal tutarlılığın zorunluluğu direkt olarak "küçük gerçekler"in algısal deneyimlerinden kaynaklandığı için, bu deneyimle doğrudan çelişen herhangi bir teori geçerli olamaz.
 
 Diğer bir deyişle, duyular mantığı ortaya çıkarır - bu yüzden mantık duyusal kanıtlara ters düşemez. Kanıt her zaman açıklamayı gölgede bırakır.
 
