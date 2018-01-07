@@ -43,9 +43,9 @@ Logikanya, ada empat kemungkinan untuk campuran orang-orang yang baik dan jahat 
 1. Semua manusia moral.
 2. Semua manusia moral.
 3. Sebagian besar orang tidak bermoral, dan minoritas moral.
-4. The majority of men are moral, and a minority immoral.[^6]
+4. Mayoritas laki-laki bermoral, dan minoritas tidak bermoral.[^6]
 
-In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
+Dalam kasus pertama (*semua orang moral*), pemerintah jelas tidak dibutuhkan, karena kejahatan tidak dapat ada.
 
 In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. Pemerintah, umumnya diperdebatkan, harus ada karena ada orang jahat di dunia yang ingin menimbulkan kerugian, dan siapa yang hanya bisa ditahan karena takut pembalasan pemerintah (polisi, penjara, *et al*). Konsekuensi dari argumen ini adalah bahwa semakin sedikit retribusi yang dikhawatirkan orang-orang ini, semakin jahat yang akan mereka lakukan.
 
@@ -67,23 +67,23 @@ Situasi ini, sementara menarik secara teoritis, memecah secara logis karena:
 2. Tidak ada cara untuk memastikan bahwa hanya orang baik yang selalu menjalankan pemerintahan; dan,
 3. Sama sekali tidak ada contoh tentang hal ini yang pernah terjadi dalam sejarah sejarah negara yang brutal manapun.
 
-The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Dengan demikian keberadaan kejahatan tidak pernah bisa membenarkan adanya pemerintahan.
+Kesalahan logis yang selalu dibuat dalam pembelaan pemerintah adalah membayangkan bahwa setiap penilaian moral kolektif yang diterapkan pada sekelompok orang juga adalah*tidak diterapkan pada kelompok yang memerintah mereka*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Dengan demikian keberadaan kejahatan tidak pernah bisa membenarkan adanya pemerintahan.
 
 Jika tidak ada kejahatan, pemerintah tidak perlu. Jika kejahatan ada, pemerintah terlalu berbahaya untuk diizinkan eksis.
 
 Mengapa kesalahan ini begitu lazim?
 
-Ada beberapa alasan, yang hanya bisa disentuh disini. Yang pertama adalah bahwa pemerintah mengenalkan dirinya pada anak-anak dalam bentuk guru sekolah umum yang dianggap otoritas moral. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+Ada beberapa alasan, yang hanya bisa disentuh disini. Yang pertama adalah bahwa pemerintah mengenalkan dirinya pada anak-anak dalam bentuk guru sekolah umum yang dianggap otoritas moral. Dengan demikian *moralitas* dan *otoritas* pertama kali dikaitkan dengan pemerintah - sebuah asosiasi yang kemudian diperkuat selama bertahun-tahun pengulangan penggilingan.
 
 Yang kedua adalah bahwa pemerintah tidak pernah mengajarkan anak-anak tentang akar kekuatannya - kekerasan - namun berpura-pura bahwa itu hanyalah institusi sosial lain, seperti bisnis atau gereja atau amal, tapi lebih bermoral.
 
-Yang ketiga adalah bahwa prevalensi agama dan propaganda selalu membutakan manusia terhadap kejahatan pemerintah - oleh karena itu para penguasa selalu tertarik untuk melanjutkan kepentingan gereja dan negara "pendidikan." Dalam pandangan dunia keagamaan, mutlak Kekuasaan itu identik dengan kebajikan sempurna, dalam bentuk keilahian. Dalam dunia politik sejati manusia, bagaimanapun, meningkatkan kekuatan selalu berarti meningkatkan kejahatan. Dengan agama, semua yang terjadi pasti demi kebaikan - dengan demikian, melawan kekuatan politik yang melanggar hukum adalah melawan kehendak dewa. There are many more reasons, of course, but these are among the deepest.[^10]
+Yang ketiga adalah bahwa prevalensi agama dan propaganda selalu membutakan manusia terhadap kejahatan pemerintah - oleh karena itu para penguasa selalu tertarik untuk melanjutkan kepentingan gereja dan negara "pendidikan." Dalam pandangan dunia keagamaan, mutlak Kekuasaan itu identik dengan kebajikan sempurna, dalam bentuk keilahian. Dalam dunia politik sejati manusia, bagaimanapun, meningkatkan kekuatan selalu berarti meningkatkan kejahatan. Dengan agama, semua yang terjadi pasti demi kebaikan - dengan demikian, melawan kekuatan politik yang melanggar hukum adalah melawan kehendak dewa. Masih banyak lagi alasan, tentu saja, tapi ini termasuk yang terdalam.[^10]
 
-At the beginning of this section, I mentioned that people generally make *two* errors when confronted with the idea of dissolving the government. Yang pertama adalah kepercayaan bahwa pemerintah diperlukan karena orang jahat ada. Yang kedua adalah keyakinan bahwa, dengan tidak adanya pemerintah, setiap institusi sosial yang muncul pasti akan menggantikan pemerintahan. Dengan demikian, Organisasi Penyelesaian Sengketa (DROs), perusahaan asuransi dan pasukan keamanan swasta semuanya dianggap sebagai kanker potensial yang akan membengkak dan membanjiri politik tubuh.
+Pada awal bagian ini, saya menyebutkan bahwa orang pada umumnya membuat kesalahan *dua* saat berhadapan dengan gagasan untuk melarutkan pemerintah. Yang pertama adalah kepercayaan bahwa pemerintah diperlukan karena orang jahat ada. Yang kedua adalah keyakinan bahwa, dengan tidak adanya pemerintah, setiap institusi sosial yang muncul pasti akan menggantikan pemerintahan. Dengan demikian, Organisasi Penyelesaian Sengketa (DROs), perusahaan asuransi dan pasukan keamanan swasta semuanya dianggap sebagai kanker potensial yang akan membengkak dan membanjiri politik tubuh.
 
-Pandangan ini muncul dari kesalahan yang sama yang diuraikan di atas. If *all* social institutions are constantly trying to grow in power and enforce their wills on others, then by that very argument a centralised government cannot be allowed to exist. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
+Pandangan ini muncul dari kesalahan yang sama yang diuraikan di atas. Jika *semua* institusi sosial terus berusaha untuk tumbuh dalam kekuasaan dan menegakkan kehendak mereka pada orang lain, maka dengan argumen itu, pemerintah terpusat tidak dapat diizinkan untuk eksis. Jika itu adalah undang-undang besi bahwa kelompok selalu mencoba untuk mendapatkan kekuasaan atas kelompok dan individu lain, maka daya-nafsu* itu tidak akan berakhir jika salah satu dari mereka menang, namun akan terus menyebar ke seluruh masyarakat yang hampir tidak dilawan sampai perbudakan adalah norma*.
 
-The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Pemerintah tumbuh tanpa henti karena mereka dapat membayar pemungut cukai dengan sebagian pajak yang mereka kumpulkan. Oleh karena itu para budak terpaksa membayar biaya perbudakan mereka.
+Satu-satunya cara agar institusi sosial dapat tumbuh menjadi monopoli kekerasan adalah *untuk menurunkan biaya penegakan hukum kepada korban mereka*. Pemerintah tumbuh tanpa henti karena mereka dapat membayar pemungut cukai dengan sebagian pajak yang mereka kumpulkan. Oleh karena itu para budak terpaksa membayar biaya perbudakan mereka.
 
 Dalam masyarakat sukarela, tidak akan ada perpajakan, dan dengan demikian setiap kelompok yang ingin memperoleh kekuasaan monopolistik harus mendanai tentaranya sendiri, yang tidak akan layak atau menguntungkan secara ekonomi. [^11]
 
