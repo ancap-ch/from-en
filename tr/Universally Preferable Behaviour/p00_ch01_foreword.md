@@ -38,7 +38,7 @@ Bu farkındalık, tıpkı on dokuzuncu yüzyılda Almanya'da olduğu gibi, yeni 
 
 Ahlaki önerileri değerlendirmek için tutarlı, objektif ve rasyonel bir çerçeve üzerinden anlaşmaya varmadığımız için, “ahlak“ mistisizme bağlı kalıyor, ve şiddetin sonucu kaçınılmaz oluyor. Tıpkı Aydınlanma öncesinde olduğu gibi, dini mezhepler aristokrasinin kılıçlarını kontrol etmek için sonsuza dek savaşmıştı, şimdi de ahlaki mitolojilerin devletin kontrolü için olan savaşlarını, ve onun tüm baskı mekanizmasını karşılaştırın.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+Böylece ahlak, tıpkı ortaçağ 'astronomisi' nin modern astronomiye yaptığı gibi modern bilime, hikaye anlatımıyla zorlanarak, tehditler, zorlama ve istismar yoluyla – gerçeğe yönelik herhangi bir gerçek ilerlemeyi hapseden, sanal bir mitoloji alanı olarak kalıyor.
 
 This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
 
