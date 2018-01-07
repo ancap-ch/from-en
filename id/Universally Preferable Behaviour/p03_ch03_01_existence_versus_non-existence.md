@@ -96,43 +96,43 @@ Ini secara logika dan empiris salah.
 
 Kita tahu bahwa secara empiris salah karena *tidak ada kontrak sosial *. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
 
-### The Gun In The Room
+### Pistol Di Kamar
 
 Banyak orang akan berpendapat pada saat ini bahwa perpajakan tidak diberlakukan pada titik pistol, melainkan orang membayarnya secara sukarela. Misalnya, saya tidak pernah memiliki pistol di wajahku oleh seorang pemungut cukai atau polisi, tapi saya telah membayar pajak selama beberapa dekade.
 
 Ini mungkin benar, tapi sama sekali tidak relevan. Jika saya memberi tahu seorang wanita bahwa saya akan membunuh anak-anaknya jika dia tidak berhubungan seks dengan saya, dan dia menyerahkan diri kepada saya, kami mengerti dengan jelas bahwa tindakan tidak bermoral telah terjadi - walaupun saya tidak menggunakan senjata apapun dalam pelanggaran saya. Jelas, jika wanita itu tunduk padaku, itu karena dia takut akan melakukan ancamanku. Jika saya mengatakan kepadanya bahwa hewan peliharaan saya akan membunuh anak-anaknya jika dia tidak berhubungan seks dengan saya, kemungkinan besar dia akan terganggu, tapi tidak akan takut akan ancaman saya dengan cara yang signifikan, karena tidak mungkin hewan peliharaan saya untuk membunuh dia. anak-anak. Atau, jika saya meninggal, dan surat wasiat saya menyatakan bahwa saya akan membunuh anak-anak perempuan ini jika dia tidak berhubungan seks dengan saya, jelas dia akan merasa lega daripada takut, karena saya tidak dapat membayangkan ancaman saya dari luar kuburan. Dengan demikian kita membayar pajak karena kita tahu bahwa jika kita tidak melakukannya, kemungkinan menjadi aggressed terhadap oleh perwakilan dari negara ini sangat tinggi. Jika saya tidak membayar pajak saya, saya akan mendapatkan sebuah surat, maka surat yang lain, maka panggilan telepon, maka surat panggilan ke pengadilan – dan jika aku tidak muncul di pengadilan, atau tidak membayar saya kembali pajak dan akumulasi denda dan bunga, polisi akan datang dengan senjata untuk membawa saya ke penjara. Jika aku melawan orang-orang polisi, mereka akan menembak saya turun.
 
-To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
+Untuk mengatakan bahwa gaya sama dengan voluntarisme adalah benar-benar tidak logis dan kontradiksi-diri. Untuk mengatakan bahwa inisiasi penggunaan kekuatan adalah benar-benar sama dengan non-inisiasi penggunaan kekuatan adalah untuk mengatakan bahwa naik turun, hitam putih, dan kebenaran adalah kebohongan.
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+Tanpa "zona null," korup ini fiksi tidak dapat dipertahankan.
 
 The “null zone” is the lair of the beast we hunt.
 
-As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
+Seperti yang kita lihat, kita tahu bahwa secara pribadi itu adalah salah untuk mencuri; kami memiliki sedikit masalah dengan abstrak dan logis larangan pencurian, seperti yang kita telah bekerja di atas – namun masih ada ini "zona null" atau alam semesta alternatif di mana oposisi seperti dapat diterima tanpa pertanyaan atau kekhawatiran.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+Menurut UPB, itu salah bagi saya dan anda untuk mencuri. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. Itu adalah moral kegilaan!
 
-### Policemen
+### Polisi
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+Mari kita ambil kami teman baik Bob jauh dari kamar kecilnya moral teori pengujian dan mengembalikan dia ke aslinya pekerjaan sebagai polisi.
 
-Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
+Jelas, ketika Bob bangun di pagi hari, sebelum shift-nya, dia tidak bisa pergi ke rumah tetangga dan permintaan uang pada titik pistol, tidak peduli siapa yang mengatakan kepadanya bahwa itu semua benar.
 
-When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+Ketika Bob memiliki sarapan, dia juga tidak menyerang tetangganya dan mengambil uangnya. Dalam perjalanannya ke tempat kerja – bahkan meskipun ia telah mengenakan seragam – dia tidak menekan lagi, dan dengan demikian tidak memiliki lebih banyak hak dari warga negara lain. Ketika dia pukulan di, namun, sekarang, seolah-olah tidak turun amoral tiang api dari langit, ia memperoleh kemampuan luar biasa untuk secara moral menyerang tetangganya dan mengambil uang mereka.
 
-Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
+Anehnya, ini adalah satu-satunya karakteristik yang telah benar-benar terbalik itu sendiri. Dia tidak bisa terbang, ia tidak dapat mengubah bentuk nya, ia tidak berhasil mencerna bantalan bola atau tinggal di neraka, ia tidak dapat menjalankan satu ribu kilometer per jam, dan dia tidak bisa berjalan melalui dinding bata. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
 
 Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
 
-What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
+Apa jenis rasa apakah ini? Bagaimana kita dapat dibayangkan mengungkap ini ditembus misteri?
 
 The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
 
-We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
+Kita diberitahu bahwa kita "ingin" Bob untuk mengambil uang kita yang benar-benar bertentangan dengan fakta bahwa Bob muncul di depan rumah kami menunjuk pistol di wajah kita. Dengan logika ini, saya juga bisa naik dan turun jalan mencuri uang dari tetangga saya, dan kemudian mengklaim untuk menjadi benar-benar terkejut ketika saya ditangkap:
 
 “They *want* me to take their money!”
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+"Tapi kenapa kau mengancam untuk menembak mereka jika mereka tidak memberikan mereka uang?"
 
 “Because they *owe* me their money!”
 
@@ -140,25 +140,25 @@ We are told that we “want” Bob to take our money – which completely contra
 
 “No, no – they owe me. It’s really *my* money!”
 
-“On what grounds do they owe you this money?”
+"Atas dasar apa mereka berutang uang ini?"
 
-“We have a contract!”
+"Kami memiliki kontrak!"
 
-“Can you show me this contract? Have they signed this contract of their own free will?”
+"Bisa kau tunjukkan kontrak ini? Mereka telah menandatangani kontrak ini dari kehendak bebas mereka sendiri?"
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Siapapun yang menolak untuk membayar uang saya bisa pindah ke tempat lain, aku tidak memaksa siapa pun!"
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
+"Dan bagaimana anda tahu bahwa anda memiliki seluruh lingkungan? Apakah anda memiliki surat-surat kepemilikan?"
 
 “Yes, of course – have a look here!”
 
-“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+"Yah, ini hanya sebuah catatan tulisan tangan yang mengatakan bahwa anda memiliki seluruh lingkungan – dan itu tulisan tangan yang sama seperti tanda tangan anda. Aku takut bahwa kita akan memiliki untuk buku anda – ini hanya dibuat-buat kontrak dengan diri sendiri, yang menimbulkan pada orang lain pada titik pistol."
 
-This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+Ini benar-benar gila dan korup seperti saya melanjutkan untuk memberitahu seorang wanita aku memperkosa bahwa ia *ingin* untuk berhubungan seks dengan saya. Dapat anda bayangkan jika saya berada pada percobaan pemerkosaan, dan ada rekaman video wanita mengemis saya untuk berhenti, dan aku punya pisau ke tenggorokan, cara pertahanan saya akan menerima jika aku terus bersikeras bahwa dia benar-benar *ingin* untuk berhubungan seks dengan saya?
 
-In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
+Di pengadilan, saya akan dicaci maki, dan dilemparkan ke dalam penjara untuk saya jelas, gila, korup dan mementingkan diri sendiri kemunafikan.
 
-Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
+Ah, tapi di "zona null" dari pemerintah, pemerkosaan bercinta, penculikan undangan, menolak pencurian adalah kejahatan keegoisan, dan pemaksaan adalah kebaikan.
 
 This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
 
