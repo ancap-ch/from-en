@@ -10,11 +10,11 @@ Estas son las pequeñas verdades de lo cotidiano; las piedras caen, el humo se e
 
 Entre las pequeñas verdades y las grandes verdades, sin embargo, están las ilusiones que nos ciegan - tanto en física como en ética.
 
-En física, las grandes verdades no pueden contradecir las pequeñas verdades. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+En física, las grandes verdades no pueden contradecir las pequeñas verdades. Ninguna "teoría del campo unificado" puede contradecir válidamente nuestra experiencia sensorial directa de una roca cayendo o una llama creciente. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
 
 Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
 
-### The "Null Zone"
+### La "Zona Nula"
 
 We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
 
