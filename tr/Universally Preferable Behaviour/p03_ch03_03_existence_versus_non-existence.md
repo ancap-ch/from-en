@@ -42,7 +42,7 @@ Thus the real interaction is that one guy sends me a letter telling me that I ow
 
 If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
 
-Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Normalde eğer bir adamla silahla evime gelir ve paramı isterse kendimi korumak için şiddete başvurma hakkım var. Fakat bu durumda onun giydiği kostüm ve kurgusal varlığı temsil etmesi yüzünden kendimi korumak için şiddete başvurmaya iznim yok.
 
 Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
 
@@ -56,7 +56,7 @@ Einstein revolutionised physics by claiming – and proving – that the speed o
 
 We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
 
-### Government, Religion, And UPB
+### Hükûmet, Din Ve ETD
 
 When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
 
