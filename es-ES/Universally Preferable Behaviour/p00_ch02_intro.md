@@ -18,7 +18,7 @@ Históricamente, sin embargo, entre nuestras propias pequeñas verdades y las gr
 
 Le decimos a nuestros niños que no se golpeen unos a otros, y creemos que la violencia está mal en abstracto, es una regla moral general. La "pequeña verdad" es: *no golpear*. La "gran verdad" es: *la violencia está mal*.
 
-Sin embargo, existe en nuestras mentes un entidad imaginaria llamada "Dios", y esta entidad es considerada perfectamente moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+Sin embargo, existe en nuestras mentes un entidad imaginaria llamada "Dios", y esta entidad es considerada perfectamente moral. Desafortunadamente, esta entidad continua y manifiestamente viola el edicto de que "la violencia está mal", al ahogar al mundo, enviando almas al infierno a pesar de un perfecto conocimiento de sus "decisiones", sancionando la violación, el asesinato, el robo, el asalto y otras acciones que condenaríamos como absolutamente malvadas en cualquier individuo.
 
 Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
 
