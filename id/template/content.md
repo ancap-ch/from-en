@@ -2,7 +2,7 @@
 
 Di bawah ini ada daftar pangram bergaya yang disebutkan, yang menunjukkan setiap karakter, baik dalam bahasa Inggris maupun bahasa lainnya.
 
-1. huruf besar: JIKA CEPAT, BROWN FOX JUMPS OVER A LAZY DOG. 
+1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
 2. angka: 0123456789. 
 3. simbol: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
 4. emphasys: *Seekor rubah cokelat cepat melompat di atas seekor anjing malas.* 
