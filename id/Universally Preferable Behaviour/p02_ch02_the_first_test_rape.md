@@ -72,13 +72,13 @@ Dengan pikiran cabul, seperti kita lihat diatas, hal itu tidak mungkin bagi dua 
 
 On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
 
-Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. Jika saya suka jazz semua bentuk-bentuk lain dari musik, tapi Anda lebih suka musik klasik semua bentuk-bentuk lain, dan jika preferensi pribadi Universal lebih baik, maka Anda harus memilih jazz karena saya lakukan, dan saya harus memilih klasik karena Anda lakukan. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
+Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. Jika saya suka jazz semua bentuk-bentuk lain dari musik, tapi Anda lebih suka musik klasik semua bentuk-bentuk lain, dan jika preferensi pribadi Universal lebih baik, maka Anda harus memilih jazz karena saya lakukan, dan saya harus memilih klasik karena Anda lakukan. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. Anda harus mengubah preferensi Anda menjadi jazz, karena preferensi saya - tapi pada saat yang sama saya mengalihkan preferensi saya ke klasik, karena preferensi Anda. Ini seperti mengatakan bahwa Anda harus melempar dan menangkap bola bisbol yang sama pada saat yang sama - kemustahilan logis dan fisik.
 
 Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
 
-Thus rape cannot fall into the category of APAs.
+Dengan demikian pemerkosaan tidak bisa masuk dalam kategori APAs.
 
-### Personally Positive
+### Positif secara pribadi
 
 Perhaps rape is akin to a merely personal preference.[^2]
 
