@@ -95,7 +95,7 @@ Kejahatan terorganisir tidak memberikan banyak contoh bagus, karena geng jadi se
 
 Contoh yang lebih berguna adalah fakta bahwa tidak ada pemimpin yang pernah mengumumkan perang terhadap pemimpin lain yang memiliki senjata nuklir. Di masa lalu, ketika para pemimpin merasakan diri mereka kebal dari pembalasan pribadi, mereka lebih dari bersedia membunuh penduduk mereka sendiri dengan melakukan perang. Sekarang mereka sendiri mengalami pemusnahan, mereka hanya mau menyerang negara-negara yang tidak bisa melawan.
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+Ini adalah pelajaran instruksional mengapa orang-orang semacam itu membutuhkan populasi -yang dilucuti dan tergantung - dan contoh bagus bagaimana rasa takut akan pembalasan yang melekat dalam sistem kekuatan desentralisasi dan persaingan yang seimbang adalah satu-satunya metode *yang terbukti untuk mengamankan dan mempertahankan kebebasan pribadi*.
 
 Melarikan diri dari setan imajiner ke dalam penjara pelindung pemerintah hanya memastikan kehancuran kebebasan yang membuat hidup layak dijalani.
 
