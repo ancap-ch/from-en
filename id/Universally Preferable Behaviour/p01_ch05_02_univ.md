@@ -137,6 +137,6 @@ Agar buku ini tetap panjang, umumnya kita akan membahas kriteria konsistensi log
 
 Sekarang ayo kita untuk pertanyaan tentang apakah kerangka kerja UPB terakhir dengan masalah-masalah *etika*, atau *estetika*, atau keduanya.
 
-[^7]: Hal yang sama juga terjadi, tentu saja, untuk membunuh dan serangan tersebut. Kami akan kembali ke bukti ini - dan juga pemeriksaan lebih lanjut atas hak kepemilikan - secara lebih rinci di Bagian Dua buku ini.
+[^7]: Hal yang sama juga tentu saja berlaku, untuk pembunuhan dan penyerangan. Kami akan kembali ke bukti ini - dan juga pemeriksaan lebih lanjut atas hak kepemilikan - secara lebih rinci di Bagian Dua buku ini.
 
 [^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
