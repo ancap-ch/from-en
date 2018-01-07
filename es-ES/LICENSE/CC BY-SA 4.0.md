@@ -52,11 +52,11 @@ a. ***Concesión de licencia.***
     
     A. reproduce y compartir el material licenciado, en todo o en parte; y
     
-    B. produce, reproduce, and Share Adapted Material.
+    B. producir, reproducir y compartir material adaptado.
 
-2. **Exceptions and Limitations.** For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+2. **Excepciones y limitaciones.** Para evitar dudas, donde las Excepciones y limitaciones se aplican a su uso, esta Licencia pública no se aplica, y no necesita cumplir con sus términos y condiciones.
 
-3. **Term.** The term of this Public License is specified in Section 6(a).
+3. **Término.** El término de esta Licencia pública se especifica en la Sección 6(a).
 
 4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
 
