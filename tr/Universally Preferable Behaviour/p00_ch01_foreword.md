@@ -40,7 +40,7 @@ Ahlaki önerileri değerlendirmek için tutarlı, objektif ve rasyonel bir çer�
 
 Böylece ahlak, tıpkı ortaçağ 'astronomisi' nin modern astronomiye yaptığı gibi modern bilime, hikaye anlatımıyla zorlanarak, tehditler, zorlama ve istismar yoluyla – gerçeğe yönelik herhangi bir gerçek ilerlemeyi hapseden, sanal bir mitoloji alanı olarak kalıyor.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+Rölativistik etiklerin bu ''canavarı'' üzerimize geliyor, üzerimizden besleniyor, vergilendirmeyi, hapis, sansür ve savaşları haklı çıkartıyor. Devlet okullarında ve Pazar günlerinin kilise sıralarından gençleri köleleştirir; yoksulları refahın tatlı Gulaglarında kapana kıstırır; doğmamış olanları bile ulusal borçların dipsiz kuyularında köleleştirir.
 
 As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
 
