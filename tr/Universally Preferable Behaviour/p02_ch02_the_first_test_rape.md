@@ -1,6 +1,6 @@
 ## İlk Test: Tecavüz
 
-Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
+Tartışmak için nahoş bir konu olsa da, tecavüz herhangi bir ahlaki teorinin şüphesiz kapsam altına alması gereken* en * muğlak eylemdir. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
 
 Let us then use the UPB framework to examine the logical consistency of ethical propositions regarding rape, with reference to these seven moral categories.
 
