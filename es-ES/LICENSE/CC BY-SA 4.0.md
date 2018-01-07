@@ -58,13 +58,13 @@ a. ***Concesión de licencia.***
 
 3. **Término.** El término de esta Licencia pública se especifica en la Sección 6(a).
 
-4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+4. **Medios y formatos; modificaciones técnicas permitidas.** El Otorgante de la licencia le autoriza a ejercer los Derechos con licencia en Todos los medios y formatos, ya sean conocidos o creados en el futuro, y para realizar las modificaciones técnicas necesarias para hacerlo. El licenciante renuncia y / o acepta no hacer valer ningún derecho o autoridad para prohibirle hacer las modificaciones técnicas necesarias para ejercer los Derechos Licenciados, incluidas las modificaciones técnicas necesarias para eludir las Medidas Tecnológicas Eficaces. A los efectos de esta Licencia Pública, simplemente realizar modificaciones autorizadas por esta Sección 2(a)(4) nunca produce Material Adaptado.
 
-5. **Downstream recipients.**
+5. **Destinatarios en sentido descendente.**
     
-    A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+    A. **Oferta del licenciante- Material bajo licencia.** Todos los destinatarios del material bajo licencia reciben automáticamente una oferta del licenciante para ejercer los derechos con licencia en los términos y condiciones de esta licencia pública.
     
-    B. __Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.
+    B. __Oferta adicional del licenciante - Material adaptado. Todo receptor de material adaptado de usted recibe automáticamente una oferta del licenciante para ejercer los derechos con licencia en el material adaptado bajo las condiciones de la licencia del adaptador que usted aplica.
     
     C. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
 
