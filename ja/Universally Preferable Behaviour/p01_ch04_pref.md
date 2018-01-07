@@ -4,13 +4,13 @@
 
 嗜好中央載の方法論が正確ではないことにご注意願を定義する真理値の提案を含んでいます。 の科学的方法インスタンスは、大きく定義された自然の好みのための論理的整合性のとれた実証的な検証します。 科学, の前提は、: *の場合* する有効な真実の挙動、物質とエネルギー, であ *好ましい* 利用の科学的な方法です.
 
-その意味で, “好ましい” りません “のようなより良い,” ではなく “必要.” *の場合* 居したい, であ *普遍的に好ましい* お控えいただきますの食一握りのヒ素. *の場合* ご希望の決定に有効な真実を現実について, であ *普遍的に好ましい* この理論が社内で一貫した実証的に検証可能な. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+その意味で, “好ましい” りません “のようなより良い,” ではなく “必要.” *の場合* 居したい, であ *普遍的に好ましい* お控えいただきますの食一握りのヒ素. *の場合* ご希望の決定に有効な真実を現実について, であ *普遍的に好ましい* この理論が社内で一貫した実証的に検証可能な. “普遍的に好ましい,” その, 変換する “客観的に必要,” が適切に管理され保存されましの言葉 “好ましい” を判別するためのオプション人に絶対は非オプション物理的に絶対はなどの重.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+同様に, 場合倫理的な理論で有効なすべての, その上で *少なくとも* る社内外一貫した. その他の言葉, 倫理の理論と矛盾すること自体は有効 – や倫理の理論と矛盾する実証的証拠の近くのユニバーサルの設定もできないときに有効になり.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+このように倫理, してい科学, 数学, 工学その他の分野との比較の理論と現実,*有効理論のことが必要で論理的に一貫した実証的に検証可能な*.
 
-### Preferences And Existence
+### 定に存在
 
 If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
 
