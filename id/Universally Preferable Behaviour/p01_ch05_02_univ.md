@@ -139,4 +139,4 @@ Sekarang ayo kita untuk pertanyaan tentang apakah kerangka kerja UPB terakhir de
 
 [^7]: Hal yang sama juga terjadi, tentu saja, untuk membunuh dan serangan tersebut. Kami akan kembali ke bukti ini - dan juga pemeriksaan lebih lanjut atas hak kepemilikan - secara lebih rinci di Bagian Dua buku ini.
 
-[^8]: Aturan moral universal dan positif juga dapat dibuktikan - yaitu validitas universal hak properti dan non-kekerasan - namun kita akan membahasnya di Bagian Dua.
+[^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
