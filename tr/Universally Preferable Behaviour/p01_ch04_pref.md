@@ -34,13 +34,13 @@ Since it is impossible to act without expressing a preference – either implici
 
 The next question thus becomes: are preferences purely subjective, or can they be universal?
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+Açıkça, bazı tercihler özneldir. Müzik zevki, kişisel hobiler, favori edebiyat türü ve bunun gibi diğer hepsi nesnel ve kişisel tercihlerdir.
 
 The challenge arises when we try to define some preferences as *objective*.
 
 The proposition before us is thus: *can some preferences be objective, i.e. universal?*
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+Bazı tercihlerin nesnel olabileceğini söylersem bütün insanların her zaman bu tercihleri takip ettiğini kastetmiş olmam. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
 
 Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
 
