@@ -6,7 +6,7 @@ La excavación de esta matriz narcisista de interpretación subjetiva requirió 
 
 El mundo parece plano; no lo es. El sol y la luna parecen del mismo tamaño; no lo son. Las estrellas parecen moverse alrededor de la Tierra; no lo hacen. Aprender la verdad requiere que veamos el mundo desde fuera de nuestros sentidos - esto no significa un rechazo a nuestros sentidos, sino una conformidad hermética con la evidencia *real* de los sentidos, que no es que el mundo sea plano, sino que la materia, la energía y las leyes psíquicas son consistentes. Cuando soltamos una piedra en nuestra mano, cae - esto es la evidencia *real* de los sentidos, no que la Tierra es fija e inamovible. La idea que el mundo es inamovible es una suposición incorrecta que contradice la evidencia directa de nuestros sentidos, la cual es que todo cae. Si todo cae, el mundo no puede estar fijo e inamovible.
 
-Estas son las pequeñas verdades de lo cotidiano; las piedras caen, el humo se eleva, el fuego es caliente y el sol y la luna son redondos. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
+Estas son las pequeñas verdades de lo cotidiano; las piedras caen, el humo se eleva, el fuego es caliente y el sol y la luna son redondos. Si nos mantenemos firme y rigurosamente comprometidos con estas "pequeñas verdades", podemos con el tiempo derivar en las grandes verdades de la física, que nos proporcionan conocimiento y poder extraordinarios.
 
 In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
 
