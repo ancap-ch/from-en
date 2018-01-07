@@ -40,7 +40,7 @@ Benzer şekilde, evrensel bir ''daha iyi'' yön diye bir şey yoktur - bu tamame
 
 Etik hakkındaki tartışmalara başlamak için, *kendi kendini yenen argümanlar*ın doğasını anlamamız önemlidir.
 
-Ekonomide, bir teori fiyatların aynı anda artıp azalmasını gerektiriyorsa geçerli olamaz. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
+Ekonomide, bir teori fiyatların aynı anda artıp azalmasını gerektiriyorsa geçerli olamaz. Fizikte, bir teori gazların aynı anda genişlemesi ve daralmasını gerektiriyorsa geçerli sayılamaz. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
 
 In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
 
