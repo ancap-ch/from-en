@@ -12,9 +12,9 @@ Thus in ethics, just as in science, mathematics, engineering and all other disci
 
 ### Tercihler Ve Varoluş
 
-Eğer ben "Dondurma seviyorum." dersem bu cümle içinde sadece bir kelime belirsiz kalır. Açıkça "ben" varım, çünkü kişisel tercihimi ifade ediyorum. Ve açıkça "dondurma" da gerçeklikte var. However, the word “like” is more problematic.
+Eğer ben "Dondurma seviyorum." dersem bu cümle içinde sadece bir kelime belirsiz kalır. Açıkça "ben" varım, çünkü kişisel tercihimi ifade ediyorum. Ve açıkça "dondurma" da gerçeklikte var. Ancak "seviyorum" kelimesi daha problemli.
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Tercihler gerçekte objektif olarak yoklar. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
 
 We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
 
@@ -30,7 +30,7 @@ Remembering our above analysis of self-defeating arguments, we can easily unders
 
 Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
 
-### Preferences And Universality
+### Tercihler ve Evrensellik
 
 The next question thus becomes: are preferences purely subjective, or can they be universal?
 
