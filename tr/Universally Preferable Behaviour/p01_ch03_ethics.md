@@ -48,7 +48,7 @@ If I submit a complex mathematical proof to you, and you notice that, at the ver
 
 Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
 
-If I come up to you and say: “There is no such thing as truth,” then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
+Eğer gelip size ''Doğru diye bir şey yoktur'' dersem, doğru olduğunu düşündüğüm doğrunun var olmadığını iddia eden bir ifadede bulunuyorum. Böylece, argümanım kendini yok eder.
 
 If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
 
