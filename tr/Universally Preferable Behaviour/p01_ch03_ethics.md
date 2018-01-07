@@ -42,7 +42,7 @@ Etik hakkındaki tartışmalara başlamak için, *kendi kendini yenen argümanla
 
 Ekonomide, bir teori fiyatların aynı anda artıp azalmasını gerektiriyorsa geçerli olamaz. Fizikte, bir teori gazların aynı anda genişlemesi ve daralmasını gerektiriyorsa geçerli sayılamaz. Matematikte bir teori iki ile ikinin toplamını beşe eşitlemeyi gerektiriyorsa geçerli olamaz. ''Beş'' iki artı ikinin değil üç ile ikinin toplamını tanımlamanın başka bir yolu olduğundan iki artı ikinin beşe eşit olduğunu söylemek beşin dörde eşit olduğunu söylemek olur, ki buda kendisiyle çelişir.
 
-Genel olarak, ifade edilirken kendisiyle çelişen hiç bir teori geçerli olamaz. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+Genel olarak, ifade edilirken kendisiyle çelişen hiç bir teori geçerli olamaz. Kendi kendini çürüttüğü için dışarıdan bir çürütme gerektirmez. ''Kare çember'' in var olmadığını saptamak için evrendeki tüm kuytu ve çatlağı yoklamamız gerekmiyor. The very concept is self-contradictory, and thus disproves itself in the utterance.
 
 If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
 
