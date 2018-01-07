@@ -1,6 +1,6 @@
 ## Önsöz
 
-Bir çok peri masalında, muazzam gücü olan, çevredeki topraklara zulüm yapan, bir ejderha yada bir basilisk yaşar. Köylüler bu canavarın önünde tir tir titrerler; canavarın cani dürtülerini azaltmak umuduyla, hayvanlarını kurban ederler, para ve kan ile öderler.
+Bir çok peri masalında, muazzam gücü olan, çevredeki topraklara zulüm eden, bir ejderha yada bir basilisk yaşar. Köylüler bu canavarın önünde tir tir titrerler; canavarın cani dürtülerini azaltmak umuduyla, hayvanlarını kurban ederler, para ve kan ile öderler.
 
 Çoğu insan bu canavarın gölgesi altına saklanır, korkularını “ihtiyatlılık“ olarak adlandırır, ancak birkaç – sarhoş belki de cesaret ya da ahmaklıkla – savaşmaya karar verir. Yıllar, on yıllar umut dolu şampiyonların güçlerini, erdemlerini ve marifetlerini bu tirana karşı uydurmaya çalışmasıyla geçer.
 
@@ -24,7 +24,7 @@ Rasyonel bir ahlak sistemi tanımlayamadığımızdan, çocuklarımıza dini kor
 
 "Etik" dediğimiz kavram öznel ve sadece *kültürel* olarak kaldığından, sosyal kuralları uygulamak için kaçınılmaz olarak zorbalığa, korkuya ve şiddete bağlı kaldık. Etikler bilimsel yöntemin rasyonel temelinden yoksun oldukları için, “ahlak“ kanlı mitolojilerin kabile savaşlarının içinde batmış durumda kaldı, her grup insanların “erdem“e bağlılıklarını kontrol edebilmek için şiddetle kavga ediyorlardı
 
-Ahlak olmadan yaşayamayız, ancak ahlakı objektif olarak da tanımlayamıyoruz – bu nedenle de ebediyen iki yüzlülüğün boş hayatlarına, alaycılığın hakimiyetine yada dindar köleliğe mahkum kalıyoruz.
+Ahlak olmadan yaşayamayız, ancak ahlakı objektif olarak da tanımlayamayız – bu nedenle de gururlu iki yüzlülüğün boş hayatlarına, alaycılığın hakimiyetine yada göstermelik köleliğe ebediyen mahkum kalıyoruz.
 
 Entelektüel açıdan, dünyada riskli ve sonucu ağır olabilecek bir şey yoktur. Nesnel ve rasyonel ahlaki kuralları tanımlama konusundaki başarısızlığımız, dinler ve devletler arasındaki savaşta milyonlarca insan hayatına mal olmuştur.
 
