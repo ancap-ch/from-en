@@ -66,17 +66,17 @@ a. ***Concesión de licencia.***
     
     B. __Oferta adicional del licenciante - Material adaptado. Todo receptor de material adaptado de usted recibe automáticamente una oferta del licenciante para ejercer los derechos con licencia en el material adaptado bajo las condiciones de la licencia del adaptador que usted aplica.
     
-    C. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+    C. **Sin restricciones aguas abajo.** No puede ofrecer ni imponer ningún término o condición adicional o diferente, ni aplicar ninguna medida tecnológica eficaz al material bajo licencia, si ello restringe el ejercicio de los derechos con licencia por parte de cualquier destinatario del material licenciado.
 
-6. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+6. **Sin respaldo.** Nada en esta Licencia Pública constituye o puede interpretarse como permiso para afirmar o implicar que usted es, o que su uso del material autorizado está relacionado, patrocinado, respaldado u otorgado por un estado oficial del Licenciante u otras personas designadas para recibir la atribución según lo dispuesto en la Sección 3(a)(1)(A)(i).
 
-b. ***Other rights.***
+b.***Otros derechos***
 
-1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+1. Los derechos morales, como el derecho a la integridad, no tienen licencia bajo esta Licencia Pública, ni son publicidad, privacidad u otros derechos de personalidad similares; sin embargo, en la medida de lo posible, el Licenciante renuncia y/o se compromete a no hacer valer ninguno de tales derechos en poder del Licenciante en la medida limitada necesaria para permitirle ejercer los Derechos con Licencia, pero no de otro modo.
 
-2. Patent and trademark rights are not licensed under this Public License.
+2. Los derechos de patente y marca comercial no tienen licencia bajo esta Licencia pública.
 
-3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
+3. En la medida de lo posible, el licenciante renuncia a cualquier derecho a cobrarle regalías por el ejercicio de los derechos con licencia, ya sea directamente o a través de una sociedad de gestión colectiva bajo cualquier esquema de licencia. En todos los demás casos, el Licenciante se reserva expresamente el derecho de cobrar dichas regalías.
 
 ### Section 3 – License Conditions.
 
