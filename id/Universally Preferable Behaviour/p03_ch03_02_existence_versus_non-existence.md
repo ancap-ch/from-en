@@ -97,7 +97,7 @@ Contoh yang lebih berguna adalah fakta bahwa tidak ada pemimpin yang pernah meng
 
 This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+Melarikan diri dari setan imajiner ke dalam penjara pelindung pemerintah hanya memastikan kehancuran kebebasan yang membuat hidup layak dijalani.
 
 [^4]: See [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
 
