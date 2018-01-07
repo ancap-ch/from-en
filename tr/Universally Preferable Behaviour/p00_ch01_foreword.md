@@ -50,9 +50,9 @@ Gerçek şudur ki ahlaka ihtiyacımız vardır; yalan ise tanrıların ya da hü
 
 Bu kitaptaki amacım, objektif, tutarlı, açık, rasyonel, deneysel, – ve *gerçek* olan ahlak teorilerini geçerli yapmak için bir metodoloji tanımlamaktır.
 
-Tamamen farkındayım ki, şu anda şüpheciliğinizin yükseldiğini hissetmeniz muhtemel. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+Tamamen farkındayım ki, şu anda şüpheciliğinizin yükseldiğini hissetmeniz muhtemel. -Delilerin evi- olan internetdeki bir adamın bir şekilde çağların felsefi problemini çözdüğü olasılığının yüksek olmadığının - aslında, buradan bile neredeyse ayırt edilemeyecek kadar sıfıra yakın olduğunun tamamen farkındayım.
 
-Still, not *quite* zero.
+Yine de, *tam olarak* sıfır değil.
 
 ### Ground Rules
 
