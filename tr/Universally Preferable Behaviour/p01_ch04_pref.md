@@ -46,15 +46,15 @@ Thus when I talk about universal preferences, I am talking about what people *sh
 
 Aynı şekilde, eğer bir insan bir hastalığı tedavi etmek istiyorsa, Aztek yağmur dansı yapmaktan ziyade antibiyotik *kullanmalıdır*. Yağmur dansı yerine antibiyotik kullanma tercihi evrenseldir çünkü dans etmek hastalıkları tedavi etmez. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+Başka bir deyişle, eğer dağın tepesine ulaşmak istiyorsanız bunu dilemek asla işe yaramayacaktır. Eğer evrenin kökenini öğrenmek istiyorsanız dua hiç bir zaman bir cevap vermeyecektir. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
 
-### Arguments And Universality
+### Argümanlar ve Evrensellik
 
 If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
 
-#### Premise 1: We Both Exist
+#### Öncül 1: İkimiz de Varız
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+Eğer senle tartışmayı seçersem ikimizin de var olduğunu mutlaka kabul etmeliyim. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
 
 #### Premise 2: The Senses Have The Capacity For Accuracy
 
