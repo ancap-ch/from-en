@@ -24,7 +24,7 @@ Seperti definisi kami pada "kesehatan" berkembang, itu bukan tidak membenarkan d
 
 Kebenaran juga memiliki nilai relatif terhadap kebutuhan juga. Fisika Newton telah digantikan oleh fisika Einstein, yang telah terbukti jauh lebih akurat dalam situasi ekstrim seperti gravitasi atau kecepatan yang luar biasa tinggi.   Namun, pelaut yang ingin menghitung jalur yang benar melintasi samudera menemukan bahwa fisika Newton lebih dari cukup akurat. Anda tidak ingin mengirim pesawat ruang angkasa ke Alpha Centauri menggunakan fisika Newton, tapi sangat baik untuk mendapatkan kapal dari Lisbon ke New York. Tenaga kerja yang terlibat dalam pembelajaran dan penerapan fisika Einstein adalah negatif bersih bagi seorang pelaut.
 
-Akibatnya, kalimat "Fisika Newton kurang akurat daripada fisika Einstein, tapi fisika Newton adalah cara terbaik untuk menghitung jalur kapal" dapat dianggap sebagai proposisi yang valid. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+Akibatnya, kalimat "Fisika Newton kurang akurat daripada fisika Einstein, tapi fisika Newton adalah cara terbaik untuk menghitung jalur kapal" dapat dianggap sebagai proposisi yang valid. Fisika Newtonian dengan demikian kedua *kurang akurat*, dan *lebih tepat*.
 
 Jika kita ingin minum air murni mungkin, kita mungkin akan membayar ribuan dolar per botol. Kecuali kita sangat kaya dan sangat sembrono, kita tidak akan pernah membayar sebanyak itu untuk memuaskan dahaga kita. Memang benar bahwa air murni lebih baik untuk kita, tapi harga kemurnian itu membutuhkan ambang batas hasil yang semakin berkurang. Jadi "lebih murni lebih baik" memberi jalan untuk "lebih murni lebih buruk."
 
@@ -74,7 +74,7 @@ Dengan demikian kita dapat menerima bahwa kita harus mengukur validitas sebuah p
 
 Kebenaran, maka, dapat diukur menurut dua central kriteria:
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
+1. Kebenaran adalah ukuran dari hubungan antara ide-ide dalam pikiran kita dan konsistensi dari rasionalitas, yang langsung berasal dari konsisten perilaku materi dan energi di dunia nyata.[^2]
 2. Kebenaran ini juga mengukur korelasi antara ide dalam pikiran kita dan sifat dasar dan perilaku materi dan energi di dunia nyata.[^3]
 
 Kriteria pertama adalah ukuran konsistensi ide dengan diri mereka sendiri – dan konsistensi seperti ini persyaratan karena kenyataannya konsisten dengan dirinya sendiri. Jika saya mengatakan, "saya tidak ada," yang adalah sebuah contoh dari sebuah ide yang tidak konsisten dengan dirinya sendiri, karena aku harus ada dalam rangka untuk mengucapkan kalimat. Kriteria yang kedua adalah ukuran akurasi dari ide-ide relatif terhadap pengamatan empiris dari realitas objektif.
@@ -83,13 +83,13 @@ Kriteria pertama adalah ukuran konsistensi ide dengan diri mereka sendiri – da
 
 Empirisme dapat dianggap sebagai kemampuan untuk secara naluriah menangkap bola yang dilempar, atau mengukur pergerakannya; Rasionalitas adalah kemampuan untuk memprediksi dan memahami jalur yang akan diambil bola berdasarkan prinsip universal. Jelas, Jika bola secara acak masuk ke mana saja - dan secara ajaib berubah menjadi sekumpulan merpati untuk boot - kita sama sekali tidak bisa memprediksi kelakuannya.
 
-Jadi, karena materi mematuhi hukum yang abadi, teori kita *tentang*Masalah juga harus mematuhi hukum yang tidak berubah. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Jadi, karena materi mematuhi hukum yang abadi, teori kita *tentang*Masalah juga harus mematuhi hukum yang tidak berubah. Jika aku tahu apa-apa tentang baseball, tapi menonton baseball permainan di mana para pemain selalu mematuhi aturan, itu akan menjadi tidak rasional bagi saya untuk merumuskan teori tentang aturan bisbol yang secara langsung bertentangan dengan perilaku para pemain saya sedang menonton. Karena tindakan pemain yang konsisten, *semua teori yang saya mengembangkan mengenai peraturan-peraturan yang membimbing tindakan-tindakan juga harus konsisten*.
 
 Syarat konsistensi ini adalah salah satu persyaratan dasar untuk kebenaran. Karena kenyataan konsisten, teori tentang realitas juga harus konsisten.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+Bahkan, rintangan pertama bahwa setiap teori harus mengatasi lebih dari *konsistensi internal*.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^1]: Jika anda tidak menghargai kebenaran, anda tidak akan pernah berada dalam perdebatan ini – atau perdebatan – di tempat pertama!
 
 [^2]: Rational consistency, or internal logic.
 
