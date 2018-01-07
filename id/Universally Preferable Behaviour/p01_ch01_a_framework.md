@@ -83,7 +83,7 @@ Kriteria pertama adalah ukuran konsistensi ide dengan diri mereka sendiri – da
 
 Empirisme dapat dianggap sebagai kemampuan untuk secara naluriah menangkap bola yang dilempar, atau mengukur pergerakannya; Rasionalitas adalah kemampuan untuk memprediksi dan memahami jalur yang akan diambil bola berdasarkan prinsip universal. Jelas, Jika bola secara acak masuk ke mana saja - dan secara ajaib berubah menjadi sekumpulan merpati untuk boot - kita sama sekali tidak bisa memprediksi kelakuannya.
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Jadi, karena materi mematuhi hukum yang abadi, teori kita *tentang*Masalah juga harus mematuhi hukum yang tidak berubah. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
 
 Syarat konsistensi ini adalah salah satu persyaratan dasar untuk kebenaran. Karena kenyataan konsisten, teori tentang realitas juga harus konsisten.
 
