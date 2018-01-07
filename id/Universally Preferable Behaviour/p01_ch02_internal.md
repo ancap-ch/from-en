@@ -4,7 +4,7 @@ Jika saya seorang arsitek, dan serahkan rencana untuk membangun rumah, rintangan
 
 Demikian pula, jika seorang insinyur mengajukan rencana untuk sebuah jembatan, kriteria pertama yang harus dipuaskan adalah apakah jembatan akan berdiri atau tidak. Pertimbangan lain seperti umur panjang, estetika dan sebagainya hanya akan berlaku jika jembatan ini layak untuk dimulainya secara fisik.
 
-Ini tidak masuk akal - belum lagi sangat tidak produktif - untuk membangun jembatan dari bahan acak, menggunakan "perhitungan," acak, untuk mengetahui apakah akan berdiri atau tidak. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
+Ini tidak masuk akal - belum lagi sangat tidak produktif - untuk membangun jembatan dari bahan acak, menggunakan "perhitungan," acak, untuk mengetahui apakah akan berdiri atau tidak. Karena hukum fisika konsisten dan universal, relatif mudah untuk mengetahui apakah sebuah jembatan akan berdiri *sebelum* bangunan itu.
 
 Ada dua cara untuk menentukan viabilitas jembatan sebelum membangunnya. Yang pertama adalah mencari inkonsistensi internal di dalam tempat dan perhitungan yang mengklaim mendukung kelangsungan hidup jembatan. Jika ada kesalahan yang signifikan dalam perhitungan yang membenarkan bobot yang dapat didukung oleh jembatan, maka jembatan tersebut kemungkinan akan dirancang terlalu banyak, atau kurang dirancang. Jika perhitungan matematis yang salah menghasilkan kekuatan minus lima puluh ton per kaki persegi di bagian jembatan mana pun, maka tentu tidak akan tahan - atau, jika memang demikian, viabilitasnya akan menjadi tidak disengaja, dan tidak dapat direproduksi.
 
