@@ -90,24 +90,24 @@ a. ***Atribución.***
     
          i. identificación del(de los) creador(es) del Material Autorizado y cualquier otro designado para recibir la atribución, de cualquier manera razonable solicitada por el Licenciante (incluso con seudónimo si se designa);
         
-         ii. a copyright notice;
+         ii. un aviso de copyright;
         
-         iii. a notice that refers to this Public License;
+        iii. un aviso que se refiere a esta Licencia Pública;
         
-         iv. a notice that refers to the disclaimer of warranties;
+        iv. un aviso que hace referencia al descargo de garantías;
         
-         v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+        v. un URI o hipervínculo al material autorizado en la medida en que sea razonablemente posible;
         
     
-    B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+    B. indicar si modificó el material bajo licencia y conservar una indicación de cualquier modificación previa; y
     
-    C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+    C. Indicar que el Material bajo licencia está licenciado bajo esta Licencia pública, e incluir el texto de, o el URI o hipervínculo a esta Licencia pública.
 
-2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+2. Puede cumplir las condiciones de la Sección 3(a)(1) de cualquier manera razonable, según el medio, los medios y el contexto en el que comparte el material bajo licencia. Por ejemplo, puede ser razonable satisfacer las condiciones proporcionando un URI o hipervínculo a un recurso que incluye la información requerida.
 
-3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
+3. Si el Licenciante lo solicita, debe eliminar la información requerida por la Sección 3(a)(1)(A) en la medida en que sea razonablemente posible.
 
-b. ***ShareAlike.***
+b.***ShareAlike.***
 
 In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.
 
