@@ -20,13 +20,13 @@
 
 は別として、アメリカの厳しい質問の自由に対し決定, 妥当であることによるものであって、現在は、彼または彼女 “好む” い. いち作業, そして明らかにし *好* いること, に対して他のすべての選択肢. 場合でもそんなの、そんな私の仕事, 私は明確に嫌で *以* 以上, 言, ているpenniless.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+この人間で行う無限に近い多彩なアクション, う者はこの瞬間であらかにし、その他のすべてのオプション. 私が書本書ではなく, 言, 学習方法丹後.
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+きのこの単純な事実に倫理的な議論, しかも興味深い結果.
 
 ### Preferences And Arguments
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+ふり、上記分析の自滅引数, することで矛盾する自然の声明: “設定が存在しない.” される人間行動 – とも含めて哲学的な諸表 – が選択された優先毎の他るものであること, と主張する設定が存在しないが必要で *優先* たと主張する設定が存在しない, 自己矛盾する声明. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
 
 Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
 
@@ -42,7 +42,7 @@ The proposition before us is thus: *can some preferences be objective, i.e. univ
 
 When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
+Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. 利用の科学的類推, を理解し、宇宙, 人 *すべ* 利用の科学的方法 – であるということではありませんとい, 以来、明確に数十億人もの人々が相談に古代の話ではなく現代の科学 “回答.” あめのように宇宙のない科学, ですが、人間はこれによって完全に自由に再定義 “真実” として “エラー,” -コンテンツに身を神秘的なナンセンス.
 
 Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
 
@@ -88,7 +88,7 @@ If I tell you that I like chocolate ice cream, and you tell me that you like van
 
 If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. このような議論に依存して暗黙の前提となる証拠, その理由, 真実性及び客観性の *普遍的に好ましい* の方法をめぐる紛争解決と個人. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
 
 In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
 
