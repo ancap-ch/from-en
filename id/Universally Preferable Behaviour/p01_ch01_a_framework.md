@@ -32,7 +32,7 @@ Sekali lagi, ini tidak berarti bahwa kemurnian air benar-benar subjektif. Air su
 
 #### Realitas Kebenaran Dan Obyektif
 
-The concept of *truth* necessarily involves the concept of *accuracy*. Jika saya mencoba untuk menembak panah di banteng-mata, akurasi tembakan ditentukan oleh seberapa jauh saya panah lahan dari pusat.
+Konsep dari *kebenaran* tentu melibatkan konsep dari *ketepatan*. Jika saya mencoba untuk menembak panah di banteng-mata, akurasi tembakan ditentukan oleh seberapa jauh saya panah lahan dari pusat.
 
 What, then, is the “bull’s-eye” of truth?
 
