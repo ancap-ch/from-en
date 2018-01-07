@@ -14,7 +14,7 @@ Kelihatannya konyol untuk membantah bahwa saya bisa - tapi mengapa?
 
 Ada beberapa batasan objektif untuk universalitas doktrin ini. Misalnya, beberapa orang mungkin tidak memiliki akses terhadap ikan - mereka mungkin tinggal di padang pasir, katakan - sementara yang lain hidup di tepi danau yang dipenuhi ikan, dan merasa sulit atau tidak mungkin bertahan hidup tanpa memakannya. Namun, itu tidak bisa cukup, karena kita telah menerima kenyataan bahwa ketidakmampuan seorang kasim untuk memperkosa tidak membuat keputusan moral yang tidak benar "adalah jahat untuk diperkosa."
 
-No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
+Tidak, "induk merah" dalam proposisi moral "Adalah jahat untuk makan ikan" adalah kata "*ikan*."
 
 Seorang ilmuwan tidak dapat secara sah mengatakan bahwa teorinya tentang gravitasi hanya berlaku untuk bebatuan merah muda. Karena teorinya melibatkan gravitasi, ia harus berlaku untuk *semua* entitas yang memiliki massa.
 
