@@ -1,4 +1,4 @@
-### Governments And Religion
+### Hükûmetler ve Din
 
 The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
 
