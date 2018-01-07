@@ -1,8 +1,8 @@
-## Preferences
+## 設定
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+この性質を理解するためには自滅を引数にとり、できるし、問題設定します。
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+嗜好中央載の方法論が正確ではないことにご注意願を定義する真理値の提案を含んでいます。 の科学的方法インスタンスは、大きく定義された自然の好みのための論理的整合性のとれた実証的な検証します。 科学の前提とがあります:**すための有効な真実の挙動、物質やエネルギーである*が好ましい*利用の科学的な方法です。
 
 In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
 
