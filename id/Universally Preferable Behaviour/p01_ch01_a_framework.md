@@ -36,7 +36,7 @@ Konsep dari *kebenaran* tentu melibatkan konsep dari *ketepatan*. Jika saya menc
 
 What, then, is the “bull’s-eye” of truth?
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+Baik, itu *kebenaran* dari sebuah pernyataan dapat diukur relatif terhadap penyesuaiannya dengan tujuannya.
 
 Mengesampingkan tantangan dari bahasa untuk saat ini, jika saya arahkan ke camar dan berkata, "Itu adalah sebuah landasan," saya dengan jelas keliru, karena landasan yang anorganik, dan tidak bisa terbang. Nilai kebenaran pernyataan saya diukur relatif terhadap fakta kenyataan objektif. Karena burung camar sebenarnya bukan sebuah landasan, pernyataan saya tidak benar.
 
@@ -48,7 +48,7 @@ Dengan asumsi Anda bisa membedakan antara dua huruf di atas, kita dapat melanjut
 
 #### Akurasi dan Konsistensi
 
-Tidak mungkin bagi saya untuk secara akurat melukis awan, karena pada saat dibutuhkan untuk melukisnya, awan terus berubah. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+Tidak mungkin bagi saya untuk secara akurat melukis awan, karena pada saat dibutuhkan untuk melukisnya, awan terus berubah. Saya dapat dengan akurat melukis *foto* dari awan, yang telah membeku pada saatnya.
 
 Jika saya menghabiskan satu jam mencoba melukis awan, dan kemudian saya bertanya kepada Anda apakah lukisan saya adalah representasi yang akurat dari awan itu, Anda harus selalu menjawab bahwa bukan.
 
