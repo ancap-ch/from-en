@@ -12,9 +12,9 @@
 
 ### 定に存在
 
-あえて言えば “私のようなアイスクリーム,” 一つの単語も含め不透明な部分が文. 明確に “私” 存在し, って表現することは、個人的に好き. 同様に明確に, “アイスクリーム” でも現実にある. However, the word “like” is more problematic.
+あえて言えば “私のようなアイスクリーム,” 一つの単語も含め不透明な部分が文. 明確に “私” 存在し, って表現することは、個人的に好き. 同様に明確に, “アイスクリーム” でも現実にある. しかし, の言葉 “のように” で以上に問題な.
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+設定が存在しない客観的に内実現. また好奇心を表現, きものを守していただいたと記録時に食べたときのアイスクリーム, るろうに求められる実証的基盤の確立私の好みで. の可能性をされたかどうかを確認する, しかし, 私が実際にはmasochist, と嫌い、アイスクリーム強く, とり拷問をもってその不快な味わい、そしてその間違いによる正確ではないことにご注意願い.
 
 We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
 
