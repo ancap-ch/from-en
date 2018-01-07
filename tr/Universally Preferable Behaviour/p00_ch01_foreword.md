@@ -30,7 +30,7 @@ Entelektüel açıdan, dünyada riskli ve sonucu ağır olabilecek bir şey yokt
 
 Bir çok yönden, riskler daha da yükseliyor.
 
-İnternet'in artan bilgi akışı, Yeni neslin ''erdem'' denilen şeyin onların iki yüzlü büyüklerinin kendilerine hizmet eden peri masallarından ne fazla – ne de az – olduğu şüphelerini arttırdı. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+İnternet'in artan bilgi akışı, Yeni neslin ''erdem'' denilen şeyin onların iki yüzlü büyüklerinin kendilerine hizmet eden peri masallarından ne fazla – ne de az – olduğu şüphelerini arttırdı. Otoriteler tarafından söylenilen göstermelik yalanlar – ve onlara tapanların suç ortaklığı – şuan her zamankinden daha açıktır.
 
 “Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
 
