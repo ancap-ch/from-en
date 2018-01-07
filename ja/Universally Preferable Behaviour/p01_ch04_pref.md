@@ -2,9 +2,9 @@
 
 この性質を理解するためには自滅を引数にとり、できるし、問題設定します。
 
-嗜好中央載の方法論が正確ではないことにご注意願を定義する真理値の提案を含んでいます。 の科学的方法インスタンスは、大きく定義された自然の好みのための論理的整合性のとれた実証的な検証します。 科学の前提とがあります:**すための有効な真実の挙動、物質やエネルギーである*が好ましい*利用の科学的な方法です。
+嗜好中央載の方法論が正確ではないことにご注意願を定義する真理値の提案を含んでいます。 の科学的方法インスタンスは、大きく定義された自然の好みのための論理的整合性のとれた実証的な検証します。 科学, の前提は、: *の場合* する有効な真実の挙動、物質とエネルギー, であ *好ましい* 利用の科学的な方法です.
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+その意味で, “好ましい” りません “のようなより良い,” ではなく “必要.” *の場合* 居したい, であ *普遍的に好ましい* お控えいただきますの食一握りのヒ素. *の場合* ご希望の決定に有効な真実を現実について, であ *普遍的に好ましい* この理論が社内で一貫した実証的に検証可能な. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
 
 Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
 
