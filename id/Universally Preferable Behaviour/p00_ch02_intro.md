@@ -104,11 +104,11 @@ Kita kenal dengan contoh Mafia, yang mengancam saingan potensial dengan cacat da
 
 Ketika filsuf mengekspos kepalsuan yang diperlukan untuk eksploitasi lanjutan, namun, Mereka idealnya tidak bertujuan untuk menempatkan dirinya sebagai pesaing. Mereka tidak mau *menggantikan* itu mafia, atau itu church – mereka ingin menghilangkannya sepenuhnya.
 
-Analogi yang lebih modern akan menjadi hubungan antara negara, pelobi dan pembayar pajak. Pelobi akan dengan ganas menyerang pelobi lain yang bersaing memperebutkan dolar pajak yang sama. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+Analogi yang lebih modern akan menjadi hubungan antara negara, pelobi dan pembayar pajak. Pelobi akan dengan ganas menyerang pelobi lain yang bersaing memperebutkan dolar pajak yang sama. Namun, bayangkan bagaimana caranya *semua* pelobi akan bersatu untuk menyerang siapa saja yang mengusulkan untuk menghapuskan negara sebagai institusi.
 
-Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
+Parasit akan secara agresif bersaing satu sama lain untuk sumber daya terbatas tuan rumah - namun demi kepentingan terbaik mereka untuk bersekutu untuk menyerang apapun yang mengancam untuk menghilangkan tuan rumah itu sendiri. 
 
-In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
+Dengan cara ini, dalam masyarakat dimana negara dan gereja dipisahkan secara nominal, masing-masing entitas cenderung bersaing untuk menjadi penganutnya. Dimana gereja mulai kehilangan tanah, negara akan secara agresif merekrut patriot - menghasilkan sosialisme sekuler Dimana negara mulai kehilangan tanah, gereja akan secara agresif merekrut pengikut - menghasilkan fundamentalisme religius, seringkali dengan tesis tentang libertarianisme.
 
 However, the philosophers who oppose *all* intellectual error are the sworn enemies of all the parasites that feed off illusions. The “great truths” of physics eliminate the need for supernatural agents, and render miracles impossible. The explanatory power of science wholly outshines the religious fictions that masquerade as knowledge about the physical world.
 
