@@ -42,11 +42,11 @@ Böylece ahlak, tıpkı ortaçağ 'astronomisi' nin modern astronomiye yaptığ�
 
 Rölativistik etiklerin bu ''canavarı'' üzerimize geliyor, üzerimizden besleniyor, vergilendirmeyi, hapis, sansür ve savaşları haklı çıkartıyor. Devlet okullarında ve Pazar günlerinin kilise sıralarından gençleri köleleştirir; yoksulları refahın tatlı Gulaglarında kapana kıstırır; doğmamış olanları bile ulusal borçların dipsiz kuyularında köleleştirir.
 
-Önceki kitabım ''Gerçek Üzerine: Yanılsama Tiranlığı'' nda yazdığım gibi, kanıtlanmamış etik teorilerinin merkezinde olan en temel yalan şudur ki, bu tür teoriler gerçekte yalnızca kültürel bağnazlıktan ibaret olsa da, çocuklara her zaman objektif ve inkar edilemez gerçekler olarak sunulmasıdır. Bilim insanlarının bir hükümete yada bir Vatikan'a ihtiyaç duymamasının sebebi; bilim insanlarının anlaşmazlıkları çözmek için objektif bir metodolojiye sahip olmalarıdır: bilimsel yöntem. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+Önceki kitabım ''Gerçek Üzerine: Yanılsama Tiranlığı'' nda yazdığım gibi, kanıtlanmamış etik teorilerinin merkezinde olan en temel yalan şudur ki, bu tür teoriler gerçekte yalnızca kültürel bağnazlıktan ibaret olsa da, çocuklara her zaman objektif ve inkar edilemez gerçekler olarak sunulmasıdır. Bilim insanlarının bir hükümete yada bir Vatikan'a ihtiyaç duymamasının sebebi; bilim insanlarının anlaşmazlıkları çözmek için objektif bir metodolojiye sahip olmalarıdır: bilimsel yöntem. Dilin evrimini yönlendirmek için merkezi bir otoriteye ihtiyaç duymamasının sebebi, biçim ve yarar için birikmiş bireysel tercihlerin ''serbest piyasasına'' dayandığı içindir.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+Modern ahlakın - ve tarih boyunca ahlakın - her zaman önce çocukların zorbalığına ve daha sonra yetişkinlerin tehdidine dayanması gerektiği nedeni, bunun erdemli bir gerçek olarak maskelenen manipülatif bir yalan olmasıdır.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+Gerçek şudur ki ahlaka ihtiyacımız vardır; yalan ise tanrıların ya da hükümetlerin rasyonal bir biçimde bunu tanımlayabileceği ya da adilce uygulayabileceğidir.
 
 My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
 
