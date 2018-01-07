@@ -128,7 +128,7 @@ Juga, karena ada kalanya secara fisik tidak mungkin untuk memperkosa seseorang �
 
 Pemerkosa dapat membenarkan tindakannya dengan menghindari proposisi. ”perkosaan itu baik,” dan sebaliknya mengganti proposisi lain yang mendukung keinginannya untuk memperkosa, seperti: ”hal itu bermoral untuk mengambil kesenangan sendiri, terlepas dari Kesenangan orang lain.”
 
-This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+Proposisi ini juga gagal dalam tes logis paling dasar UPB. Jika Bob percaya bahwa ia harus mengambil kesenangan sendiri dengan memperkosa Doug - terlepas dari ketidaksenangan Doug - maka Bob tidak dapat secara rasional meningkatkan preferensinya ke UPB.
 
 If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. Jika setiap orang harus mengambil kesenangannya terlepas dari ketidaksenangan orang lain, maka tidak ada alasan yang rasional kenapa pilihan Bob untuk memperkosa Dough harus diutamakan dari pada pilihan Doug untuk tidak diperkosa, terlepas dari ketidaksenangan yang menolak untuk diperkosa akan menyebabkan Bob.
 
@@ -140,11 +140,11 @@ Thus it would seem that the only logical possibility for rape is that *not* rapi
 
 ### Whew!
 
-The fact that the UPB framework has logically and effectively validated the moral proposition that rape is evil – not “good,” or “aesthetically preferable,” or “personally preferable,” or “morally neutral” – is a very good sign. Itu tidak membuktikan melewati bayangan keraguan bahwa UPB akan memvalidasi secara logis seluruh proposisi moral ”akal sehat”, tapi rintangan pertama sudah berlalu, dan hal itu akan memberikan kita alasan besar untuk merayakan. Jika saya adalah seorang fisikawan yang mengajukan Teori Lapangan Bersatu, dan penerapan teori saya benar memprediksi di mana bola api yang dilemparkan akan mendarat, saya bisa dengan adil merasa sangat senang.
+Kenyataan bahwa kerangka UPB telah secara logis dan efektif memvalidasi proposisi moral bahwa pemerkosaan itu jahat - tidak "baik," atau "lebih baik secara estetis," atau "lebih baik secara pribadi," atau "netral secara moral" - adalah pertanda yang sangat baik. Itu tidak membuktikan melewati bayangan keraguan bahwa UPB akan memvalidasi secara logis seluruh proposisi moral ”akal sehat”, tapi rintangan pertama sudah berlalu, dan hal itu akan memberikan kita alasan besar untuk merayakan. Jika saya adalah seorang fisikawan yang mengajukan Teori Lapangan Bersatu, dan penerapan teori saya benar memprediksi di mana bola api yang dilemparkan akan mendarat, saya bisa dengan adil merasa sangat senang.
 
 Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. Validasi pertama selalu sulit, karena sangat mudah untuk mendapatkan hal yang salah, dan kesalahan selalu melewati ketepatan.
 
-Kerangka UPB telah secara benar memvalidasi premis moral kita bahwa pemerkosaan adalah kejahatan. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+Kerangka UPB telah secara benar memvalidasi premis moral kita bahwa pemerkosaan adalah kejahatan. Ini adalah kriteria yang diperlukan - namun tidak memadai - untuk bukti, dan sepenuhnya mendukung penyelidikan tambahan. Thus, let us continue…
 
 [^1]: This is very different from a physical assault, which destroys your capacity for free choice.
 
