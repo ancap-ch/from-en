@@ -40,9 +40,9 @@ Benzer şekilde, evrensel bir ''daha iyi'' yön diye bir şey yoktur - bu tamame
 
 Etik hakkındaki tartışmalara başlamak için, *kendi kendini yenen argümanlar*ın doğasını anlamamız önemlidir.
 
-Ekonomide, bir teori fiyatların aynı anda artıp azalmasını gerektiriyorsa geçerli olamaz. Fizikte, bir teori gazların aynı anda genişlemesi ve daralmasını gerektiriyorsa geçerli sayılamaz. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
+Ekonomide, bir teori fiyatların aynı anda artıp azalmasını gerektiriyorsa geçerli olamaz. Fizikte, bir teori gazların aynı anda genişlemesi ve daralmasını gerektiriyorsa geçerli sayılamaz. Matematikte bir teori iki ile ikinin toplamını beşe eşitlemeyi gerektiriyorsa geçerli olamaz. ''Beş'' iki artı ikinin değil üç ile ikinin toplamını tanımlamanın başka bir yolu olduğundan iki artı ikinin beşe eşit olduğunu söylemek beşin dörde eşit olduğunu söylemek olur, ki buda kendisiyle çelişir.
 
-In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+Genel olarak, ifade edilirken kendisiyle çelişen hiç bir teori geçerli olamaz. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
 
 If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
 
