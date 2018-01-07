@@ -10,9 +10,9 @@ Similarly, if ethical theories can be at all valid, then they must *at least* be
 
 Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
 
-### Preferences And Existence
+### Tercihler Ve Varoluş
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+Eğer ben "Dondurma seviyorum." dersem bu cümle içinde sadece bir kelime belirsiz kalır. Açıkça "ben" varım, çünkü kişisel tercihimi ifade ediyorum. Ve açıkça "dondurma" da gerçeklikte var. However, the word “like” is more problematic.
 
 Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
 
