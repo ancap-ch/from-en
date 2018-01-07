@@ -93,7 +93,7 @@ Apa bukti pandangan bahwa kekuatan yang terdesentralisasi dan bersaing mendorong
 
 Kejahatan terorganisir tidak memberikan banyak contoh bagus, karena geng jadi sering melakukan korupsi, memanipulasi dan menggunakan kekuatan polisi pemerintah untuk memberlakukan peraturan mereka, sehingga gerombolan semacam itu tidak dapat dikatakan beroperasi dalam keadaan alami. Selain itu, gerombolan penjahat sangat menguntungkan dengan menyediakan zat atau layanan yang dilarang secara legal, dan juga berkembang terutama karena kebijakan negara.
 
-Contoh yang lebih berguna adalah fakta bahwa tidak ada pemimpin yang pernah mengumumkan perang terhadap pemimpin lain yang memiliki senjata nuklir. Di masa lalu, ketika para pemimpin merasakan diri mereka kebal dari pembalasan pribadi, mereka lebih dari bersedia membunuh penduduk mereka sendiri dengan melakukan perang. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+Contoh yang lebih berguna adalah fakta bahwa tidak ada pemimpin yang pernah mengumumkan perang terhadap pemimpin lain yang memiliki senjata nuklir. Di masa lalu, ketika para pemimpin merasakan diri mereka kebal dari pembalasan pribadi, mereka lebih dari bersedia membunuh penduduk mereka sendiri dengan melakukan perang. Sekarang mereka sendiri mengalami pemusnahan, mereka hanya mau menyerang negara-negara yang tidak bisa melawan.
 
 This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
 
