@@ -68,9 +68,9 @@ Klaim luar biasa membutuhkan bukti yang luar biasa. In taking on this mammoth ta
 8. Saya menghargai kecerdasan Anda cukup untuk menahan diri untuk tidak mendefinisikan kata-kata seperti "kenyataan," "akal," "integritas" dan sebagainya. Kami memiliki cukup banyak pekerjaan yang harus dilakukan tanpa harus menemukan kembali kemudi.
 9. Akhirnya, saya percaya bahwa teori apa pun - terutama yang fundamental seperti teori etika - tidak banyak gunanya jika hanya menegaskan apa yang semua orang sudah tahu secara naluriah. Saya tidak menghabiskan bertahun-tahun hidup saya untuk mengerjakan sebuah teori etika agar bisa berjalan-jalan membuktikan bahwa "pembunuhan itu salah." Menurut pandangan saya, teori terbaik adalah teori yang memverifikasi kebenaran yang secara intuitif kita pahami - dan kemudian menggunakannya. prinsip untuk mengungkapkan kebenaran baru yang mungkin benar kontra-intuitif.
 
-Setelah menghabiskan beberapa tahun terakhir dalam hidup saya untuk mempersiapkan, melatih, dan kemudian melawan binatang buas ini, saya harap saya telah membebaskan diri saya dengan beberapa ukuran kehormatan. I believe that I have emerged victorious – though not entirely unscathed – and I look forward to seeing who shares this view.[^2]
+Setelah menghabiskan beberapa tahun terakhir dalam hidup saya untuk mempersiapkan, melatih, dan kemudian melawan binatang buas ini, saya harap saya telah membebaskan diri saya dengan beberapa ukuran kehormatan. Saya percaya bahwa saya telah menang - meskipun tidak sepenuhnya tanpa cedera - dan saya berharap dapat melihat siapa yang memiliki pandangan ini.[^2]
 
-Saya mempelajari sejarah filsafat di sekolah pascasarjana, dan meraih gelar Master, tapi saya tidak memiliki gelar PhD dalam bidang filsafat. Saya jauh dari intelektual publik. While I may not be the *most* unlikely champion, I am also far from the most likely. Apakah saya telah berhasil atau tidak tidak terserah Anda, dan itu tidak terserah saya.
+Saya mempelajari sejarah filsafat di sekolah pascasarjana, dan meraih gelar Master, tapi saya tidak memiliki gelar PhD dalam bidang filsafat. Saya jauh dari intelektual publik. Sementara saya mungkin bukan juara paling tidak *sebagian*, saya juga jauh dari yang paling mungkin Apakah saya telah berhasil atau tidak tidak terserah Anda, dan itu tidak terserah saya.
 
 Jika alasannya berlaku, binatang terhebat itu sedang down.
 
@@ -78,7 +78,7 @@ Jika alasannya berlaku, binatang terhebat itu sedang down.
 
 Ini adalah ketinggian keberanian untuk menyarankan kepada pembaca bagaimana membaca sebuah buku, namun mengingat tantangan dari tugas di depan kita, saya ingin membuat satu saran kecil sebelum kita memulai.
 
-Jika kita hidup di abad kelima belas, dan saya mencoba meyakinkan Anda bahwa dunia ini bulat, saya akan mengemukakan berbagai bukti matematika dan fisik. Jika Anda memiliki pendapat yang bertentangan, Anda tentu akan bereaksi dengan skeptisisme, dan cenderung berdalih dengan setiap garis bukti. However, if you and I could in fact sail around the world, and arrive back where we started without retracing our steps, you would be far more willing to accept the conceptual proofs for what you had already *experienced* to be true. Anda mungkin menemukan kesalahan dengan langkah logis atau metafora tertentu, tapi Anda pasti sudah setuju dengan kesimpulan, dan dengan demikian akan lebih mudah untuk membantu memperbaiki rincian daripada menolak teori secara keseluruhan.
+Jika kita hidup di abad kelima belas, dan saya mencoba meyakinkan Anda bahwa dunia ini bulat, saya akan mengemukakan berbagai bukti matematika dan fisik. Jika Anda memiliki pendapat yang bertentangan, Anda tentu akan bereaksi dengan skeptisisme, dan cenderung berdalih dengan setiap garis bukti. Namun, jika Anda dan saya sebenarnya bisa berlayar keliling dunia, dan kembali ke tempat kami memulai tanpa menapak langkah kami, Anda akan jauh lebih bersedia menerima bukti konseptual untuk apa yang telah Anda alami *berpengalaman* sampai menjadi kebenaran. Anda mungkin menemukan kesalahan dengan langkah logis atau metafora tertentu, tapi Anda pasti sudah setuju dengan kesimpulan, dan dengan demikian akan lebih mudah untuk membantu memperbaiki rincian daripada menolak teori secara keseluruhan.
 
 Jika tugas saya merespons setiap keberatan yang mungkin terjadi pada setiap langkah linguistik, logis dan empiris, buku ini akan tetap selamanya belum selesai - dan belum dibaca. Perfeksionisme pada intinya adalah menunda-nunda, dan saya menganggap tugas buku ini terlalu penting - dan bahaya moralitas palsu juga sangat serius dan dalam waktu dekat - untuk menghabiskan waktu lama untuk mencapai surga sehingga kita semua berakhir di neraka.
 
@@ -88,6 +88,6 @@ Saya benar-benar percaya bahwa definisi kerangka etis yang rasional adalah tugas
 
 Saya naik ke medan perang yang dipersenjatai dengan baik oleh orang lain.
 
-[^1]: Most of these will be discussed in more detail throughout the course of this book.
+[^1]: Sebagian besar akan dibahas lebih rinci sepanjang perjalanan buku ini.
 
-[^2]: Of course, if I have failed, I have at least failed spectacularly, which itself can be both edifying and entertaining!
+[^2]: Tentu saja, jika saya gagal, saya setidaknya gagal secara spektakuler, yang bisa menjadi pembinaan dan penghiburan!
