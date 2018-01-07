@@ -12,9 +12,9 @@ Perhitungan matematis yang mendukung kelangsungan hidup jembatan harus konsisten
 
 In computer terms, code that does not compile cannot be tested.
 
-Hal ini juga berlaku di dunia ilmiah. Teori selalu diperiksa konsistensi internal sebelum diajukan ke tes empiris. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Hal ini juga berlaku di dunia ilmiah. Teori selalu diperiksa konsistensi internal sebelum diajukan ke tes empiris. Alasan konsistensi internal sangat penting adalah karena teori mengklaim memiliki nilai relatif terhadap kenyataan, dan kenyataan konsisten secara internal, teori apa pun yang tidak konsisten secara konsisten *tidak* dapat memiliki nilai relatif terhadap kenyataan.
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. Ada kemungkinan untuk menulis spesifikasi yang konsisten secara internal untuk jembatan kecil yang seluruhnya dibangun dari kayu balsa, namun jika insinyur tersebut tidak menulis artikel untuk majalah street-roading, spesifikasinya, meskipun konsisten, akan gagal memenuhi persyaratan industri apapun.
+Hanya *setelah* konsistensi internal perhitungan telah ditentukan, sejauh mana jembatan memenuhi spesifikasi ditinjau. Ada kemungkinan untuk menulis spesifikasi yang konsisten secara internal untuk jembatan kecil yang seluruhnya dibangun dari kayu balsa, namun jika insinyur tersebut tidak menulis artikel untuk majalah street-roading, spesifikasinya, meskipun konsisten, akan gagal memenuhi persyaratan industri apapun.
 
 Begitu kita telah menentukan bahwa jembatan akan berdiri, kita kemudian dapat menentukan apakah memenuhi kebutuhan spesifik kita, seperti mendukung bobot pejalan kaki versus kereta api.
 
