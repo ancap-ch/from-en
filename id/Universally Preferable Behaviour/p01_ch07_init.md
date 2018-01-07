@@ -36,7 +36,7 @@ When we analyse a principle such as the NAP, there are really only seven possibi
 - Inisiasi penggunaan kekuatan terkadang secara moral benar.
 - Inisiasi penggunaan kekuatan selalu benar secara moral.
 
-As we have seen above, however, UPB is an “all or nothing” framework. Jika sebuah tindakan dilakukan *secara universal lebih baik*, maka tidak bisa dibatasi oleh individu, geografi, waktu dll. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
+As we have seen above, however, UPB is an “all or nothing” framework. Jika sebuah tindakan dilakukan *secara universal lebih baik*, maka tidak bisa dibatasi oleh individu, geografi, waktu dll. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. Jika salah membunuh kemarin, maka tidak mungkin membunuh besok. Jika Bob salah membunuh, mungkin juga kesalahan Doug untuk membunuh.
 
 Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
 
