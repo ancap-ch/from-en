@@ -12,7 +12,7 @@ Açık bir biçimde, eğer ''X'' beyanı ''iyi'' ise aksi olan ''x'' çok kötü
 
 Birine tecavüz etmek başlatılması, yerine getirilmesi ve daha sonra tamamlanması gereken olumlu bir eylemdir. Eğer tecavüz ahlaki açıdan iyiyse bu durumda ''tecavüz etmemek'' çok kötü bir ahlaki tutum olmalıdır - dolayısıyla tek bir odada* iki erkeğin aynı anda ahlaki olması imkansızdır*, çünkü verilmiş olan sürede sadece bir tanesi tecavüzcü olabilir - ve o eğer sadece diğer adam kurbanı olursa tecavüzcü olabilir.
 
-Erdemli olmaya olanak sağlayan bu durum kötü olamaz. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
+Erdemli olmaya olanak sağlayan bu durum kötü olamaz. Örneğin ''özgürlük'' erdemin ön şartıdır. Özgürlük olmadan erdemli olamayız. Bu nedenle ''özgürlük'' iyilik için* gerekli* olduğu için kötü olamaz.
 
 If it is morally good to be a rapist, and one can only be a rapist by sexually assaulting a victim, then clearly the victim must be morally good by resisting the sexual assault – since if he does not resist, it is by definition not rape, and therefore not virtuous. In other words, *attacking* virtue by definition *enables* virtue. Thus we have an insurmountable paradox, in which the victim must attack virtue in order to enable virtue – he must resist sexual assault in order to enable the “virtue” of the rapist. Thus not only can the rape victim *not* be virtuous, but he must resist and attack “virtue” in order to allow it.
 
