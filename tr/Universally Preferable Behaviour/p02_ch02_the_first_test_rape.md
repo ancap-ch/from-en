@@ -8,7 +8,7 @@ Daha sonra, bu yedi ahlaki kategoriyi referans alarak tecavüzle ilgili ahlaki �
 
 Absürt bir örneği ele alalım, tecavüzün ahlaki açıdan iyi olduğunu beyan eden bir ahlaki teoriyi incelediğimizi hayal edelim.
 
-Clearly, if I proclaim that “X” is “the good,” then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+Açık bir biçimde, eğer ''X'' beyanı ''iyi'' ise aksi olan ''x'' çok kötü olmak zorunda. Eğer * tecavüz* etmemek iyiyse, * tecavüz etmek * çok kötü olmak zorunda. Diğer taraftan, eğer * tecavüz etmek* iyiyse o halde* tecavüz etmemek* çok kötü olmak zorunda.
 
 Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
 
