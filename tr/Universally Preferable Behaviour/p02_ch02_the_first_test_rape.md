@@ -4,9 +4,9 @@ Tartışmak için nahoş bir konu olsa da, tecavüz herhangi bir ahlaki teorinin
 
 Daha sonra, bu yedi ahlaki kategoriyi referans alarak tecavüzle ilgili ahlaki önermelerin mantıksal tutarlılığını incelemek için UPB (Evrensel Uygun Davranış) çerçevesini kullanalım.
 
-### The Good
+### İyi
 
-To take an absurd example, let’s imagine that we are reviewing an ethical theory that proclaims that rape is a moral good.
+Absürt bir örneği ele alalım, tecavüzün ahlaki açıdan iyi olduğunu beyan eden bir ahlaki teoriyi incelediğimizi hayal edelim.
 
 Clearly, if I proclaim that “X” is “the good,” then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
 
