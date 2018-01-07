@@ -46,9 +46,9 @@ Genel olarak, ifade edilirken kendisiyle çelişen hiç bir teori geçerli olama
 
 If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
 
-Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
+Aynı şekilde, daha önce söz edildiği gibi, eğer gelip size '' Ben yokum,'' dersem tezim otomatik olarak kendini yok eder. Size var olmadığımı söylersem açıkça var olurum.
 
-Eğer gelip size ''Doğru diye bir şey yoktur'' dersem, doğru olduğunu düşündüğüm doğrunun var olmadığını iddia eden bir ifadede bulunuyorum. Böylece, argümanım kendini yok eder.
+Eğer gelip size ''Doğru diye bir şey yoktur'' dersem, doğru olduğunu düşündüğüm doğrunun var olmadığını iddia eden bir ifade de bulunuyorum. Böylece, argümanım kendini yok eder.
 
 If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
 
