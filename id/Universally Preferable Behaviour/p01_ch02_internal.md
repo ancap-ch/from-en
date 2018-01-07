@@ -12,7 +12,7 @@ Perhitungan matematis yang mendukung kelangsungan hidup jembatan harus konsisten
 
 In computer terms, code that does not compile cannot be tested.
 
-This is true in the scientific world as well. Teori selalu diperiksa konsistensi internal sebelum diajukan ke tes empiris. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Hal ini juga berlaku di dunia ilmiah. Teori selalu diperiksa konsistensi internal sebelum diajukan ke tes empiris. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
 
 Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. Ada kemungkinan untuk menulis spesifikasi yang konsisten secara internal untuk jembatan kecil yang seluruhnya dibangun dari kayu balsa, namun jika insinyur tersebut tidak menulis artikel untuk majalah street-roading, spesifikasinya, meskipun konsisten, akan gagal memenuhi persyaratan industri apapun.
 
