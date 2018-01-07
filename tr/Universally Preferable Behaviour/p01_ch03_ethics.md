@@ -32,15 +32,15 @@ As Hume famously pointed out, it is impossible to derive an “ought” from an 
 
 Benzer şekilde, evrensel bir ''daha iyi'' yön diye bir şey yoktur - bu tamamen tercih edilmiş varış yerine bağlıdır. Eğer San Francisco 'dan New York 'a sürmek istiyorsam, doğu yönüne sürmem ''gerekir''. Eğer San Francisco 'dan okyanusa doğru sürmek istersem, batı yönüne sürmem ''gerekir''. Ne ''doğu'' ne de ''batı'' evrensel ''daha iyi'' olarak değerlendirilebilir.
 
-It is true that very few people *do* drive into the ocean, but that does not mean that it is universally true that nobody *ought* to drive into the ocean. Prensipler demokratik değildir - veya, öyleyseler, öznelcilik derecelendirme problemiyle bir kere daha yüzleşmeli, ve tüm etik kavramını pencereden dışarıya atmalıyız.
+Çok az insanın *gerçekten* okyanusun içine doğru sürdüğü doğrudur, ama bu birilerinin okyanusun içine doğru sürmesini *gerektiren* evrensel bir doğru olduğu anlamına gelmez. Prensipler demokratik değildir - veya, öyleyseler, öznelcilik derecelendirme problemiyle bir kere daha yüzleşmeli, ve tüm etik kavramını pencereden dışarıya atmalıyız.
 
 “Behaviour” exists in objective reality, outside our minds – the concepts “ought,” “should,” and “preference,” do not exist outside our minds. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
 
-### Self-Defeating Arguments
+### Kendini Yenen Argümanlar
 
-In order to begin our discussion of ethics, it is essential that we understand the nature of *self-defeating arguments*.
+Etik hakkındaki tartışmalara başlamak için, *kendi kendini yenen argümanlar*ın doğasını anlamamız önemlidir.
 
-In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
+Ekonomide, bir teori fiyatların aynı anda artıp azalmasını gerektiriyorsa geçerli olamaz. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
 
 In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
 
