@@ -36,7 +36,7 @@ Bir çok yönden, riskler daha da yükseliyor.
 
 Bu farkındalık, tıpkı on dokuzuncu yüzyılda Almanya'da olduğu gibi, yeni nesil nihilistlerini de meydana getirdi. Bu aşırı rölativistler, kesinliğin herhangi bir formunu iddia edenler için en acı saldırılarını ayırırlar. Bu post modern nesil, müşterek geçmişlerinin kültürel bağnazlıklarını aştı, fakat şimdi de *tüm* gerçeğe önyargılı bir iddia olarak bakıyor. Alaycı ''bilgelik' ile korkutulmuş masum çocuklar gibi, tüm iletişimi reklam olarak, tüm iddiaları propaganda olarak, tüm ahlaki tavsiyeleri ikiyüzlü hırsızlık olarak görürler.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+Ahlaki önerileri değerlendirmek için tutarlı, objektif ve rasyonel bir çerçeve üzerinden anlaşmaya varmadığımız için, “ahlak“ mistisizme bağlı kalıyor, ve şiddetin sonucu kaçınılmaz oluyor. Tıpkı Aydınlanma öncesinde olduğu gibi, dini mezhepler aristokrasinin kılıçlarını kontrol etmek için sonsuza dek savaşmıştı, şimdi de ahlaki mitolojilerin devletin kontrolü için olan savaşlarını, ve onun tüm baskı mekanizmasını karşılaştırın.
 
 Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
 
