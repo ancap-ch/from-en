@@ -109,15 +109,15 @@ a. ***Atribución.***
 
 b.***ShareAlike.***
 
-In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.
+Además de las condiciones en la Sección 3(a), si comparte material adaptado que produce, también se aplican las siguientes condiciones.
 
-1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.
+1. La licencia del adaptador que aplique debe ser una licencia Creative Commons con los mismos elementos de licencia compatible con BY-SA.
 
-2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
+2. Debe incluir el texto de, o el URI o hipervínculo a, la Licencia del Adaptador que aplica. Puede satisfacer esta condición de cualquier manera razonable en función del medio, los medios y el contexto en los que comparta el material adaptado.
 
-3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
+3. No puede ofrecer ni imponer ningún otro término o condición adicional o diferente sobre, ni aplicar ninguna medida tecnológica eficaz al material adaptado que restrinja el ejercicio de los derechos otorgados en virtud de la licencia del adaptador que usted aplica.
 
-### Section 4 – Sui Generis Database Rights.
+### Sección 4 -Derechos de la base de datos Sui Generis.
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 
