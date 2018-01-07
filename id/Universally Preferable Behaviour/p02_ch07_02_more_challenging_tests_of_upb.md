@@ -40,7 +40,7 @@ Jika memang jahat membunuh ikan, maka UPB mengatakan bahwa siapapun atau apapun 
 
 Jelas bahwa hiu tidak memiliki kapasitas untuk menahan diri dari membunuh ikan, karena pada dasarnya mereka memakan mesin dengan sirip.
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
+Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Jadi proposisi "itu adalah usaha jahat untuk membunuh ikan" untuk mendefinisikan moralitas universal yang mencakup situasi non-moral, yang tidak dapat berdiri secara logis.
 
 Juga, kata "ikan" tetap bermasalah dalam perumusannya, karena terlalu spesifik untuk bersifat universal. Perumusan UPB yang tepat adalah: "Adalah jahat bagi orang untuk membunuh organisme hidup."
 
