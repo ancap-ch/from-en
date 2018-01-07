@@ -78,17 +78,17 @@ b.***Otros derechos***
 
 3. En la medida de lo posible, el licenciante renuncia a cualquier derecho a cobrarle regalías por el ejercicio de los derechos con licencia, ya sea directamente o a través de una sociedad de gestión colectiva bajo cualquier esquema de licencia. En todos los demás casos, el Licenciante se reserva expresamente el derecho de cobrar dichas regalías.
 
-### Section 3 – License Conditions.
+### Sección 3 -Condiciones de licencia.
 
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+Su ejercicio de los Derechos de licencia está expresamente sujeto a las siguientes condiciones.
 
-a. ***Attribution.***
+a. ***Atribución.***
 
-1. If You Share the Licensed Material (including in modified form), You must:
+1. Si comparte el material licenciado (incluso en forma modificada), debe:
     
-    A. retain the following if it is supplied by the Licensor with the Licensed Material:
+    A. retenga lo siguiente si el licenciante lo proporciona con el material bajo licencia:
     
-         i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+         i. identificación del(de los) creador(es) del Material Autorizado y cualquier otro designado para recibir la atribución, de cualquier manera razonable solicitada por el Licenciante (incluso con seudónimo si se designa);
         
          ii. a copyright notice;
         
