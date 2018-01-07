@@ -1,4 +1,4 @@
-## Introduction
+## Introducción
 
 For countless generations, mankind lived in a kind of egocentric womb of self-imposed ignorance: the world was flat, the sun, moon and stars revolved around him, ancestors beckoned to him from beyond the mists of death, and thunder was the anger of the gods.
 
