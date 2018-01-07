@@ -10,13 +10,13 @@ Estas son las pequeñas verdades de lo cotidiano; las piedras caen, el humo se e
 
 Entre las pequeñas verdades y las grandes verdades, sin embargo, están las ilusiones que nos ciegan - tanto en física como en ética.
 
-En física, las grandes verdades no pueden contradecir las pequeñas verdades. Ninguna "teoría del campo unificado" puede contradecir válidamente nuestra experiencia sensorial directa de una roca cayendo o una llama creciente. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+En física, las grandes verdades no pueden contradecir las pequeñas verdades. Ninguna "teoría del campo unificado" puede contradecir válidamente nuestra experiencia sensorial directa de una roca cayendo o una llama creciente. La más grande teoría matemática no puede ser válida si al aplicarla devuelve un cambio incorrecto en el mostrador de una caja.
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
+Históricamente, sin embargo, entre nuestras propias pequeñas verdades y las grandes verdades se encuentra lo que llamaré la "zona nula".
 
 ### La "Zona Nula"
 
-We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+Le decimos a nuestros niños que no se golpeen unos a otros, y creemos que la violencia está mal en abstracto, es una regla moral general. La "pequeña verdad" es: *no golpear*. La "gran verdad" es: *la violencia está mal*.
 
 However, there exists in our minds an imaginary entity called “God,” and this entity is considered perfectly moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
 
