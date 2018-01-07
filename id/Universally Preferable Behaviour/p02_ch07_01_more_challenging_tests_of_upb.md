@@ -1,4 +1,4 @@
-## More Challenging Tests Of UPB
+## Lebih Menantang Tes UPB
 
 Kami sekarang telah menguji teori moral spesifik yang terkait dengan kerangka UPB, dan menemukan bahwa UPB memvalidasi keyakinan moral kami yang paling umum dipegang, seperti larangan melawan pemerkosaan, pembunuhan dan pencurian. Dengan membawa kriteria *avoidability* ke dalam analisis kami, kami juga membantu membedakan antara kejahatan yang tidak dapat dihindari, dan kejahatan yang harus dilakukan melalui tindakan positif, seperti kecurangan. Akhirnya, kita telah membagi "perilaku yang lebih baik" ke dalam tiga kategori utama - universal, estetika, dan netral (dan lawannya yang relevan). Tindakan yang dilarang secara universal termasuk pemerkosaan, pembunuhan dan pencurian, yang memaksa dapat digunakan untuk mencegahnya. Tindakan yang secara estetis lebih disukai termasuk kesopanan, tepat waktu dan seterusnya, yang tidak dapat ditegakkan melalui kekerasan. Tindakan netral mencakup preferensi subjektif semata, atau tindakan yang tidak memiliki konten moral, seperti berlari ke bus.
 
@@ -8,7 +8,7 @@ Namun, tetap ada banyak tes moral yang menantang yang berada di luar contoh yang
 
 Konsep pembelaan diri tidak boleh dianggap biasa. Jika kita berasumsi bahwa tidak ada yang namanya membela diri, atau bahwa pembelaan diri tidak pernah merupakan tindakan yang valid, maka kerangka UPB membuat asumsi itu sangat cepat.
 
-Jika tidak ada pembelaan diri, maka kita tidak membicarakan inisiasi atau pembalasan penggunaan kekuatan, melainkan hanya penggunaan kekuatan dalam konteks apapun. In other words, if we get rid of the concept of self-defence, the only question that we need to ask ourselves is: *is it universally preferable to use force, or not?*
+Jika tidak ada pembelaan diri, maka kita tidak membicarakan inisiasi atau pembalasan penggunaan kekuatan, melainkan hanya penggunaan kekuatan dalam konteks apapun. Dengan kata lain, jika kita menyingkirkan konsep pertahanan diri, satu-satunya pertanyaan yang perlu kita tanyakan pada diri sendiri adalah: *itu secara universal lebih baik untuk menggunakan kekuatan, atau tidak?*
 
 Jika secara universal lebih baik menggunakan kekuatan, maka tidak ada manusia yang seharusnya memajukan argumen moral, tapi lebih suka menggunakan kekuatan untuk mencapai tujuannya. Namun, seperti dalam contoh pemerkosaan, pencurian dan pembunuhan yang disebutkan di atas, klaim bahwa secara umum lebih baik menggunakan kekerasan segera membuat dirinya sendiri tidak berlaku. Untuk dapat menggunakan kekuatan pada orang lain mengharuskan orang tersebut untuk memaksakan diri - dengan kata lain, agar satu orang menjadi bermoral, orang lain pastilah tidak bermoral, yang tidak dapat bertahan. Also, if the other person *submits* to force, it is not force – thus he must *resist*, which requires that he resist virtue in order to enable virtue, which is self-contradictory.
 
