@@ -118,9 +118,9 @@ Thus the establishment of consistent and universal truth necessarily limits and 
 
 ### Effective Parasitism
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+Parasit yang paling efektif - atau virus - adalah orang-orang yang membodohi tubuh menjadi acuh tak acuh. Sistem kekebalan tubuh kita dibuat untuk membunuh zat asing yang ada di dalam tubuh kita, mengisolasi dan membunuh mereka. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. Anda mungkin melawan, anda mungkin lari, atau anda mungkin memberinya dompet anda, tapi anda akan terkejut, marah dan ketakutan dengan interaksi. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
 
 This is an example of a “little truth,” which is: “Stealing from me is wrong.”
 
