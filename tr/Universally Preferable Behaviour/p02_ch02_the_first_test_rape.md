@@ -18,7 +18,7 @@ Eğer tecavüzcü olmak ahlaki açıdan iyiyse sadece biri kurbanına cinsel sal
 
 Bu nedenle üstesinden gelinemez mantıksal problemler önermeden kaynaklanır: ''tecavüz ahlaktır.'' Hatırlayın, rasyonel bir teorinin aynı durum için zıt koşullar ileri süremeyeceği üzerine karar kıldık. Bir istisnna olmazsa, bir kaya hem yukarı hemde aşağı doğru aynı anda düşemez, ve mantıklı bir teori bir taş aşağı düşerken bir taş yukarı doğru düşecek diye öngörüde bulunamaz.
 
-In the same way, two men in a room must be considered to be in the same situation. If only one of them can be good, because goodness is defined as rape, and only one of them can rape at any time, then we have a logical contradiction that cannot be resolved.
+Aynı şekilde, bir odadaki iki adam aynı durumda kabul edilmelidir. If only one of them can be good, because goodness is defined as rape, and only one of them can rape at any time, then we have a logical contradiction that cannot be resolved.
 
 Also, if we recall that Universally Preferable Behaviour must be independent of time, then we also face a logical problem that, no matter what his physical virility, at some point the rapist will simply be unable to rape any more, because he will be physically unable to get an erection. At that point, his ability to perform the “good action” becomes impossible. Since “avoidability” is a key criterion for morality, but he is physically unable to be good – in other words, he is unable to avoid being evil – then he cannot be responsible for not raping the other man.
 
