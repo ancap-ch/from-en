@@ -16,9 +16,9 @@
 
 設定が存在しない客観的に内実現. また好奇心を表現, きものを守していただいたと記録時に食べたときのアイスクリーム, るろうに求められる実証的基盤の確立私の好みで. の可能性をされたかどうかを確認する, しかし, 私が実際にはmasochist, と嫌い、アイスクリーム強く, とり拷問をもってその不快な味わい、そしてその間違いによる正確ではないことにご注意願い.
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+しらべる *証拠* 設定しな優先 *そのもの* 実際には. 優先として存在し *との関係* 間意識と物質, うに重力の存在として関係団体の質量.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+は別として、アメリカの厳しい質問の自由に対し決定, 妥当であることによるものであって、現在は、彼または彼女 “好む” い. いち作業, そして明らかにし *好* いること, に対して他のすべての選択肢. 場合でもそんなの、そんな私の仕事, 私は明確に嫌で *以* 以上, 言, ているpenniless.
 
 Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
 
