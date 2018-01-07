@@ -16,7 +16,7 @@ Erdemli olmaya olanak sağlayan bu durum kötü olamaz. Örneğin ''özgürlük'
 
 Eğer tecavüzcü olmak ahlaki açıdan iyiyse sadece biri kurbanına cinsel saldırı gerçekleştirerek tecavüzcü olabilir, o halde açıkça kurban cinsel saldırıya direnerek ahlaki açıdan iyi olmak zorundadır - şayet direnmezse, tanım gereği bu tecavüz değildir, buna bağlı olarak erdemli değildir. Başka bir deyişle, tanım gereği erdeme* saldırmak* erdemi *mümkün* kılmaktadır. Böylece üstesinden gelinemez bir paradoksumuz var. Kurban, erdemi mümkün kılmak için erdeme saldırmalıdır - tecavüzcünün ''erdemini'' sağlamak için cinsel saldırıya direnmesi gerekir. Bu nedenle tecavüz mağduru sadece erdemli* olamaz*, aynı zamanda buna izin vermek için ''erdeme'' direnmek ve saldırmak mecburiyetindedir.
 
-Insurmountable logical problems thus result from the proposition: “rape is moral.” Remember, we agreed that a rational theory cannot propose opposite states for the same situation. All other things being equal, a rock cannot fall both up and down at the same time, and a valid theory cannot predict that one rock will fall up, while another rock will fall down.
+Bu nedenle üstesinden gelinemez mantıksal problemler önermeden kaynaklanır: ''tecavüz ahlaktır.'' Hatırlayın, rasyonel bir teorinin aynı durum için zıt koşullar ileri süremeyeceği üzerine karar kıldık. Bir istisnna olmazsa, bir kaya hem yukarı hemde aşağı doğru aynı anda düşemez, ve mantıklı bir teori bir taş aşağı düşerken bir taş yukarı doğru düşecek diye öngörüde bulunamaz.
 
 In the same way, two men in a room must be considered to be in the same situation. If only one of them can be good, because goodness is defined as rape, and only one of them can rape at any time, then we have a logical contradiction that cannot be resolved.
 
