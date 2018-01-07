@@ -56,11 +56,11 @@ Dengan kata lain, bila tidak ada konsistensi, tidak ada akurasi.
 
 Ketika kita bermimpi pada malam hari, persepsi kita bahwa aturan "peduli" dan "energi" berada dalam keadaan terus-menerus berubah – kita yang kebal terhadap gravitasi, dan kemudian kami terbang di atas punggung gajah, dan kemudian kita dapat berjalan melalui dinding. Hal ini tidak lebih mungkin untuk mengembangkan "ilmiah fisika mimpi" dari itu untuk secara akurat melukis awan.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+Logika, ilmu pengetahuan dan kebenaran, kemudian, tidak mungkin tidak *konsisten*.
 
 Pada dasarnya, hukum logika berasal dari perilaku materi dan energi, setidaknya pada tingkat perseptual. Jika saya menyuruh Anda melempar bola naik turun sama sekali, saya meminta hal yang tidak mungkin, yang dapat Anda uji dengan mudah dengan mencoba memenuhi permintaan saya. Jika saya memberitahu Anda untuk membajak lapangan utara dan lapangan selatan secara bersamaan, Anda tidak akan dapat mematuhi. Jika saya menuntut agar Anda mengubah mawar menjadi keledai, permintaan saya tidak akan pernah terpenuhi.
 
-Persepsi realitas konsisten dan objektif - dan dari konsistensi dan objektivitas inilah kita memperoleh hukum logika. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+Persepsi realitas konsisten dan objektif - dan dari konsistensi dan objektivitas inilah kita memperoleh hukum logika. Pernyataan kami tentang kenyataan hanya bisa akurat*mewakili* kenyataan sebagai akibat langsung dari konsisten dan objektivitas.
 
 Fakta bahwa burung-burung camar tidak sewenang-wenang berubah menjadi landasan – atau sebaliknya – adalah akar dari kemampuan kita untuk secara akurat menilai pernyataan: "Itu adalah burung camar." Jika burung-burung camar secara spontan dan terus-menerus berubah sifatnya, kita akan mampu untuk membuat baik benar atau salah pernyataan-pernyataan mengenai mereka – atau apa-apa untuk hal itu.
 
