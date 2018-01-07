@@ -48,9 +48,9 @@ Modern ahlakın - ve tarih boyunca ahlakın - her zaman önce çocukların zorba
 
 Gerçek şudur ki ahlaka ihtiyacımız vardır; yalan ise tanrıların ya da hükümetlerin rasyonal bir biçimde bunu tanımlayabileceği ya da adilce uygulayabileceğidir.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Bu kitaptaki amacım, objektif, tutarlı, açık, rasyonel, deneysel, – ve *gerçek* olan ahlak teorilerini geçerli yapmak için bir metodoloji tanımlamaktır.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+Tamamen farkındayım ki, şu anda şüpheciliğinizin yükseldiğini hissetmeniz muhtemel. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
 
 Still, not *quite* zero.
 
