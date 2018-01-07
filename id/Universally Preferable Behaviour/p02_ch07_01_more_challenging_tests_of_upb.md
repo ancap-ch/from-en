@@ -32,7 +32,7 @@ Namun, Anda boleh membantah, bukankah proposisi bahwa pembelaan diri itu baik ju
 
 Ini adalah keberatan yang menarik - namun, jika inisiasi kekerasan itu jahat, maka hal itu dapat dilarang dengan menggunakan kekerasan, karena ini adalah salah satu definisi kejahatan yang telah kami lakukan di atas.
 
-Thus it is impossible for any logical moral theory to reject the moral validity of self-defence.
+Dengan demikian tidak mungkin ada teori moral logis untuk menolak validitas moral pembelaan diri.
 
 ### Child Raising
 
