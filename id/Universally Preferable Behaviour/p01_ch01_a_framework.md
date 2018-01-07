@@ -64,13 +64,13 @@ Persepsi realitas konsisten dan objektif - dan dari konsistensi dan objektivitas
 
 Fakta bahwa burung-burung camar tidak sewenang-wenang berubah menjadi landasan – atau sebaliknya – adalah akar dari kemampuan kita untuk secara akurat menilai pernyataan: "Itu adalah burung camar." Jika burung-burung camar secara spontan dan terus-menerus berubah sifatnya, kita akan mampu untuk membuat baik benar atau salah pernyataan-pernyataan mengenai mereka – atau apa-apa untuk hal itu.
 
-Ini adalah akar dari kriteria kunci dari metode ilmiah - reproduktifitas. Jika saya membuat klaim universal tentang sifat gravitasi, maka Anda harus bisa mereproduksi klaim itu di lingkungan Anda sendiri. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Ini adalah akar dari kriteria kunci dari metode ilmiah - reproduktifitas. Jika saya membuat klaim universal tentang sifat gravitasi, maka Anda harus bisa mereproduksi klaim itu di lingkungan Anda sendiri. Jika kenyataan itu *tidak* konsisten, maka produktifitas akan menjadi kriteria rasional untuk membentuk kebenaran.
 
 Jika Anda adalah seorang guru matematika, Anda akan sangat tidak mungkin menerima jawaban yang salah dari seorang siswa, bahkan jika siswa tersebut mengklaim bahwa jawabannya benar "saat dia menuliskannya, tapi entah bagaimana berubah untuk sementara.
 
 Dengan demikian kita dapat menerima bahwa kita harus mengukur validitas sebuah pernyataan yang berkaitan dengan realitas obyektif - secara empiris, dan logis. Logika sebagai sebuah disiplin muncul hanya sebagai hasil konsistensi realitas; Pengamatan empiris juga valid atau tidak benar hanya sebagai konsekuensi dari sifat realitas yang konsisten.
 
-### The Existence Of "Truth"
+### Keberadaan dari "Kebenaran"
 
 Kebenaran, maka, dapat diukur menurut dua central kriteria:
 
@@ -79,9 +79,9 @@ Kebenaran, maka, dapat diukur menurut dua central kriteria:
 
 Kriteria pertama adalah ukuran konsistensi ide dengan diri mereka sendiri – dan konsistensi seperti ini persyaratan karena kenyataannya konsisten dengan dirinya sendiri. Jika saya mengatakan, "saya tidak ada," yang adalah sebuah contoh dari sebuah ide yang tidak konsisten dengan dirinya sendiri, karena aku harus ada dalam rangka untuk mengucapkan kalimat. Kriteria yang kedua adalah ukuran akurasi dari ide-ide relatif terhadap pengamatan empiris dari realitas objektif.
 
-#### Empiricism Versus Rationality
+#### Empirisme Melawan Rasionalitas
 
-Empirisme dapat dianggap sebagai kemampuan untuk secara naluriah menangkap bola yang dilempar, atau mengukur pergerakannya; Rasionalitas adalah kemampuan untuk memprediksi dan memahami jalur yang akan diambil bola berdasarkan prinsip universal. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+Empirisme dapat dianggap sebagai kemampuan untuk secara naluriah menangkap bola yang dilempar, atau mengukur pergerakannya; Rasionalitas adalah kemampuan untuk memprediksi dan memahami jalur yang akan diambil bola berdasarkan prinsip universal. Jelas, Jika bola secara acak masuk ke mana saja - dan secara ajaib berubah menjadi sekumpulan merpati untuk boot - kita sama sekali tidak bisa memprediksi kelakuannya.
 
 Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
 
