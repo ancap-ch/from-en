@@ -119,19 +119,19 @@ Además de las condiciones en la Sección 3(a), si comparte material adaptado qu
 
 ### Sección 4 -Derechos de la base de datos Sui Generis.
 
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+Donde los derechos con licencia incluyen los derechos de la base de datos de Sui Generis que se aplican a su uso del material bajo licencia:
 
-a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
+a. para evitar dudas, la Sección 2(a)(1) le otorga el derecho de extraer, reutilizar, reproducir y compartir todo o una parte sustancial de los contenidos de la base de datos;
 
-b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and
+b. si incluye todos o una parte sustancial del contenido de la base de datos en una base de datos en la que tiene derechos de base de datos Sui Generis, la base de datos en la que tiene derechos de base de datos Sui Generis (pero no sus contenidos individuales) es material adaptado, incluso para fines de Sección 3(b); y
 
-c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
+c. Debe cumplir con las condiciones de la Sección 3(a) si comparte todos o una parte sustancial de los contenidos de la base de datos.
 
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+Para evitar dudas, esta Sección 4 complementa y no reemplaza sus obligaciones bajo esta Licencia Pública donde los Derechos Licenciados incluyen otros Derechos de Autor y Derechos Similares.
 
-### Section 5 – Disclaimer of Warranties and Limitation of Liability.
+### Sección 5 -Descargo de garantías y limitación de responsabilidad.
 
-a. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
+a. **A menos que el Licenciante tome otras medidas por separado, en la medida de lo posible, el Licenciante ofrece el Material Autorizado tal como está y como está disponible, y no hace representaciones o garantías de ningún tipo con respecto al Material Autorizado, ya sea expreso, implícito o legal u otro. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
 
 b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
 
