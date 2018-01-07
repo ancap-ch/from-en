@@ -10,9 +10,9 @@ Absürt bir örneği ele alalım, tecavüzün ahlaki açıdan iyi olduğunu beya
 
 Açık bir biçimde, eğer ''X'' beyanı ''iyi'' ise aksi olan ''x'' çok kötü olmak zorunda. Eğer * tecavüz* etmemek iyiyse, * tecavüz etmek * çok kötü olmak zorunda. Diğer taraftan, eğer * tecavüz etmek* iyiyse o halde* tecavüz etmemek* çok kötü olmak zorunda.
 
-Birine tecavüz etmek başlatılması, yerine getirilmesi ve daha sonra tamamlanması gereken olumlu bir eylemdir. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
+Birine tecavüz etmek başlatılması, yerine getirilmesi ve daha sonra tamamlanması gereken olumlu bir eylemdir. Eğer tecavüz ahlaki açıdan iyiyse bu durumda ''tecavüz etmemek'' çok kötü bir ahlaki tutum olmalıdır - dolayısıyla tek bir odada* iki erkeğin aynı anda ahlaki olması imkansızdır*, çünkü verilmiş olan sürede sadece bir tanesi tecavüzcü olabilir - ve o eğer sadece diğer adam kurbanı olursa tecavüzcü olabilir.
 
-That which enables virtue cannot be evil. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
+Erdemli olmaya olanak sağlayan bu durum kötü olamaz. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
 
 If it is morally good to be a rapist, and one can only be a rapist by sexually assaulting a victim, then clearly the victim must be morally good by resisting the sexual assault – since if he does not resist, it is by definition not rape, and therefore not virtuous. In other words, *attacking* virtue by definition *enables* virtue. Thus we have an insurmountable paradox, in which the victim must attack virtue in order to enable virtue – he must resist sexual assault in order to enable the “virtue” of the rapist. Thus not only can the rape victim *not* be virtuous, but he must resist and attack “virtue” in order to allow it.
 
