@@ -81,7 +81,7 @@ Kriteria pertama adalah ukuran konsistensi ide dengan diri mereka sendiri – da
 
 #### Empiricism Versus Rationality
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+Empirisme dapat dianggap sebagai kemampuan untuk secara naluriah menangkap bola yang dilempar, atau mengukur pergerakannya; Rasionalitas adalah kemampuan untuk memprediksi dan memahami jalur yang akan diambil bola berdasarkan prinsip universal. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
 
 Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
 
