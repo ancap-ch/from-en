@@ -1,4 +1,4 @@
-## Preferences
+## Tercihler
 
 Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
 
@@ -36,7 +36,7 @@ The next question thus becomes: are preferences purely subjective, or can they b
 
 Açıkça, bazı tercihler özneldir. Müzik zevki, kişisel hobiler, favori edebiyat türü ve bunun gibi diğer hepsi öznel ve kişisel tercihlerdir.
 
-The challenge arises when we try to define some preferences as *objective*.
+Meydan okuma, bazı tercihleri *nesnel* olarak tanımlamaya çalıştığımızda ortaya çıkar.
 
 The proposition before us is thus: *can some preferences be objective, i.e. universal?*
 
@@ -54,7 +54,7 @@ If I choose to debate, I have implicitly accepted a wide variety of premises tha
 
 #### Öncül 1: İkimiz de Varız
 
-Eğer senle tartışmayı seçersem ikimizin de var olduğunu mutlaka kabul etmeliyim. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+Eğer senle tartışmayı seçersem ikimizin de var olduğunu mutlaka kabul etmeliyim. Eğer kendimin var olduğuna ama senin var olmadığına inanırsam tartışmanın bir anlamı olmaz ve bu deli bir adamın yapacağı şey olur. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
 
 #### Premise 2: The Senses Have The Capacity For Accuracy
 
