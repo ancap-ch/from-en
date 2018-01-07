@@ -30,7 +30,7 @@ Salah satu "makan" adalah moral, tidak bermoral, atau tidak secara moral. Jika m
 
 Jika, di sisi lain, makan adalah *moral*, maka tidak mungkin bermoral untuk makan kubis, dan tidak bermoral untuk makan ikan, karena itu adalah pelanggaran universalitas, sepanjang tindakan yang sama - makan - dinilai baik dan buruk.
 
-It is in this way that we understand that the proposition “eating *fish* is evil” fails the test of UPB, and is not valid as a moral theory.
+Dengan cara inilah kita mengerti bahwa proposisi "makan *ikan* itu jahat" gagal dalam ujian UPB, dan tidak berlaku sebagai teori moral.
 
 ### Hak binatang
 
@@ -52,7 +52,7 @@ Tidak - sekali lagi, karena ikan hiu tidak memiliki kapasitas untuk menghindari 
 
 UPB memungkinkan pengecualian berdasarkan pada materi objektif dan universal atau perbedaan biologis, seperti ilmu pengetahuan lainnya. Teori ilmiah bahwa gas berkembang saat dipanaskan berlaku, tentu saja, hanya untuk gas. Saya tidak bisa membatalkan teori ini dengan membuktikan bahwa itu tidak berlaku untuk, katakanlah, plastik.
 
-Dengan cara yang sama, moralitas hanya berlaku untuk kesadaran rasional, karena persyaratan untuk dapat dihindari. Jika saya mencoba menerapkan teori moral ke siput, pohon, batu, atau konsep "angka," saya berusaha menyamakan kesadaran rasional dengan entitas yang mungkin tidak rasional dan tidak sadar, yang merupakan kontradiksi logis. Saya mungkin juga mengatakan bahwa Teorema Sudut Oposisi dalam geometri tidak valid karena tidak berlaku untuk lingkaran, atau awan. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+Dengan cara yang sama, moralitas hanya berlaku untuk kesadaran rasional, karena persyaratan untuk dapat dihindari. Jika saya mencoba menerapkan teori moral ke siput, pohon, batu, atau konsep "angka," saya berusaha menyamakan kesadaran rasional dengan entitas yang mungkin tidak rasional dan tidak sadar, yang merupakan kontradiksi logis. Saya mungkin juga mengatakan bahwa Teorema Sudut Oposisi dalam geometri tidak valid karena tidak berlaku untuk lingkaran, atau awan. OAT hanya berlaku untuk garis berpotongan - mencoba menerapkannya pada situasi lain adalah ekuivalen konseptual untuk mencoba melukis udara.
 
 In other words, misapplication is not disproof.
 
