@@ -20,7 +20,7 @@ Bu nedenle üstesinden gelinemez mantıksal problemler önermeden kaynaklanır: 
 
 Aynı şekilde, bir odadaki iki adam aynı durumda kabul edilmelidir. Onlardan sadece biri iyi olabilir, çünkü iyilik tecavüz olarak tanımlandı, ve yalnızca biri her defasında tecavüz edebilir, o halde çözümlenemeyen mantıksal bir zıtlık ortaya çıkar.
 
-Ayrıca, eğer Evrensel Uygun Davranışın zamandan bağımsız olması gerektiğini hatırlarsak bu durumda mantıksal bir problemle karşı karşıyayız, belirli bir noktada basitçe tecavüzcünün tecavüz etmesi artık mümkün olmayacaktır, çünkü fiziksel olarak erekte olması mümkün olmayacaktır. Bir noktada, ''iyi iş çıkarma'' becerisi imkansız hale gelir. Since “avoidability” is a key criterion for morality, but he is physically unable to be good – in other words, he is unable to avoid being evil – then he cannot be responsible for not raping the other man.
+Ayrıca, eğer Evrensel Uygun Davranışın zamandan bağımsız olması gerektiğini hatırlarsak bu durumda mantıksal bir problemle karşı karşıyayız, belirli bir noktada basitçe tecavüzcünün tecavüz etmesi artık mümkün olmayacaktır, çünkü fiziksel olarak erekte olması mümkün olmayacaktır. Bir noktada, ''iyi iş çıkarma'' becerisi imkansız hale gelir. ''Kaçınılabilirlik'' ahlak için anahtar bir kriter olduğundan, ama fiziksel olarak iyi olmaya yetersiz olduğundan - başka bir deyişle kötü olmaktan kaçınması mümkün değildir. Bu durumda başka bir adama tecavüz etmemesinden sorumlu tutulamaz.
 
 If a man hanging from a tree over a canyon lets go because he lacks the strength to continue holding on, we would not call that a suicide, since the choice to hang on was no longer available to him. If he lets go although he has the strength to continue holding on, the case would not be quite so clear.
 
