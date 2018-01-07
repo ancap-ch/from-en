@@ -32,7 +32,7 @@ As Hume famously pointed out, it is impossible to derive an “ought” from an 
 
 Benzer şekilde, evrensel bir ''daha iyi'' yön diye bir şey yoktur - bu tamamen tercih edilmiş varış yerine bağlıdır. Eğer San Francisco 'dan New York 'a sürmek istiyorsam, doğu yönüne sürmem ''gerekir''. Eğer San Francisco 'dan okyanusa doğru sürmek istersem, batı yönüne sürmem ''gerekir''. Ne ''doğu'' ne de ''batı'' evrensel ''daha iyi'' olarak değerlendirilebilir.
 
-It is true that very few people *do* drive into the ocean, but that does not mean that it is universally true that nobody *ought* to drive into the ocean. Principles are not democratic – or, if they are, we once more face the problem of rank subjectivism, and must throw the entire concept of ethics out the window.
+It is true that very few people *do* drive into the ocean, but that does not mean that it is universally true that nobody *ought* to drive into the ocean. Prensipler demokratik değildir - veya, öyleyseler, öznelcilik derecelendirme problemiyle bir kere daha yüzleşmeli, ve tüm etik kavramını pencereden dışarıya atmalıyız.
 
 “Behaviour” exists in objective reality, outside our minds – the concepts “ought,” “should,” and “preference,” do not exist outside our minds. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
 
