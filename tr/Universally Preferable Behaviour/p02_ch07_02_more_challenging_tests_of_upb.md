@@ -32,7 +32,7 @@ If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabba
 
 It is in this way that we understand that the proposition “eating *fish* is evil” fails the test of UPB, and is not valid as a moral theory.
 
-### Animal Rights
+### Hayvan Hakları
 
 We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
 
@@ -46,7 +46,7 @@ Also, the word “fish” remains problematic in the formulation, since it is to
 
 If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
 
-What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
+Eğer "insanları öldürmek kötüdür" dersek insan yiyen köpek balığı kötü mü olur?
 
 No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
 
