@@ -35,9 +35,9 @@ Beberapa kutipan. Baris pertama sangat besar; garis kedua kecil; baris ketiga ko
 > 
 > Baris ke 6 adalah sebuah kutipan: Rubah coklat cepat dan cepat melompati seekor anjing malas.
 
-# Headings
+# Judul
 
-## Sub heading
+## Sub judul
 
 ### Menuju pada tingkat ketiga
 
