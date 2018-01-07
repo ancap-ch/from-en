@@ -14,7 +14,7 @@ Tak pelak lagi, seorang pria melangkah maju yang menyerang semua orang sama seka
 
 Buku ini adalah kisah tentang serangan pribadi saya terhadap binatang seperti itu.
 
-"Binatang" ini adalah keyakinan bahwa tidak mungkin untuk mendefinisikan sistem etika obyektif, rasional, sekuler dan ilmiah. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. "Binatang" ini adalah fantasi kebajikan, kegembiraan terbesar kita, kebahagiaan kita yang terdalam, harus dikesampingkan oleh orang dewasa sekuler, dan ditinggalkan di debu untuk dicakar, diarak dan dieksploitasi oleh politisi dan imam - dan orang tua. "Binatang" ini adalah takhayul bahwa, tanpa tiruan orang tua, berdoa ke tuhan atau senjata pemerintah, kita tidak bisa bersikap rasional dan baik.
+"Binatang" ini adalah keyakinan bahwa tidak mungkin untuk mendefinisikan sistem etika obyektif, rasional, sekuler dan ilmiah. Ini "Binatang" adalah ilusi bahwa moralitas selamanya harus hilang di rawa irasional dewa-dewa dan pemerintahan, yang dipaksakan untuk alasan pragmatis, namun selamanya tidak memiliki pembenaran logis dan definisi yang jelas. "Binatang" ini adalah fantasi kebajikan, kegembiraan terbesar kita, kebahagiaan kita yang terdalam, harus dikesampingkan oleh orang dewasa sekuler, dan ditinggalkan di debu untuk dicakar, diarak dan dieksploitasi oleh politisi dan imam - dan orang tua. "Binatang" ini adalah takhayul bahwa, tanpa tiruan orang tua, berdoa ke tuhan atau senjata pemerintah, kita tidak bisa bersikap rasional dan baik.
 
 Binatang ini telah menurunkan banyak pahlawan hebat, mulai dari Socrates sampai Plato sampai Agustinus sampai Hume sampai Kant sampai Rand.
 
@@ -46,7 +46,7 @@ Seperti yang saya tulis di buku saya sebelumnya, "On Truth: The Tyranny of ilusi
 
 Alasan moralitas modern - dan moralitas sepanjang sejarah - selalu bergantung pada intimidasi anak-anak, dan kemudian mengancam orang dewasa, adalah bahwa kebohongan manipulatif menyamar sebagai sebuah kebenaran yang baik.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+Yang benar adalah bahwa kita membutuhkan moralitas; Kebohongannya adalah bahwa tuhan atau pemerintah dapat secara rasional mendefinisikan atau menerapkannya dengan adil.
 
 My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
 
