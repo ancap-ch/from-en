@@ -1,4 +1,4 @@
-## Existence Versus Non-Existence
+## Varoluş, Varolmayışa Karşı
 
 We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
 
@@ -8,7 +8,7 @@ Bu nedenle "Tanrı var" dersem aslında demek istediğim şey:
 
 “*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+Başka bir deyişle "Tanrı var" derken aşılmaz bir çelişki yaratmış oluyorum. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
 
 Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
 
