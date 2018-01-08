@@ -34,7 +34,7 @@ Sekali lagi, ini tidak berarti bahwa kemurnian air benar-benar subjektif. Air su
 
 Konsep dari *kebenaran* tentu melibatkan konsep dari *ketepatan*. Jika saya mencoba untuk menembak panah di banteng-mata, akurasi tembakan ditentukan oleh seberapa jauh saya panah lahan dari pusat.
 
-What, then, is the “bull’s-eye” of truth?
+Lalu, apakah "kebenaran" kebenaran itu?
 
 Baik, itu *kebenaran* dari sebuah pernyataan dapat diukur relatif terhadap penyesuaiannya dengan tujuannya.
 
@@ -91,6 +91,6 @@ Bahkan, rintangan pertama bahwa setiap teori harus mengatasi lebih dari *konsist
 
 [^1]: Jika anda tidak menghargai kebenaran, anda tidak akan pernah berada dalam perdebatan ini – atau perdebatan – di tempat pertama!
 
-[^2]: Rational consistency, or internal logic.
+[^2]: Konsistensi rasional, atau logika internal.
 
 [^3]: Empirical evidence, or empiricism.
