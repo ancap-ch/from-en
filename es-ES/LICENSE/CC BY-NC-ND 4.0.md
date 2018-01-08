@@ -69,21 +69,21 @@ b. ***Otros derechos.***
 
 1. Los derechos morales, como el derecho a la integridad, no tienen licencia bajo esta Licencia Pública, ni son publicidad, privacidad u otros derechos de personalidad similares; son embargo, en la medida de lo posible, el Licenciante renuncia y/o se comprometa a no hacer vale ninguno e tales derechos en poder del Licenciante en la medida limitada necesaria para permitirle ejercer los Derechos con Licencia, pero no de otro modo.
 
-2. Patent and trademark rights are not licensed under this Public License.
+2. Los derechos de patente y marca no están licenciados bajo esta Licencia Pública.
 
-3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
+3. En la medida de lo posible, el licenciante renuncia a cualquier derecho a cobrarle por su ejercicio de los derechos Licenciados, ya sea directamente o a través de una sociedad gestión colectiva bajo cualquier esquema de licencia. En los demás casos, el licenciante se reserva expresamente cualquier derecho de cobrar tales derechos de autor, incluso cuando el Material Licenciado es utilizado para fines no comerciales.
 
-### Section 3 – License Conditions.
+### Sección 3 – Condiciones de licencia.
 
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+Su ejercicio de los Derechos Licenciados está expresamente sujeto a las siguientes condiciones.
 
-a. ***Attribution.***
+a. ***Atribución.***
 
-1. If You Share the Licensed Material, You must:
+1. Si comparte el Material Licenciado, usted debe:
     
-    A. retain the following if it is supplied by the Licensor with the Licensed Material:
+    A. retenga lo siguiente si es proporcionado por el Licenciante con el Material Licenciado:
     
-         i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+         i. identificación del (de los) creador(es) del Material Licenciado y cualquier otro designado para recibir la atribución, de cualquier manera razonable solicitada por los Licenciantes (incluso con seudónimo si se designa);
         
          ii. a copyright notice;
         
