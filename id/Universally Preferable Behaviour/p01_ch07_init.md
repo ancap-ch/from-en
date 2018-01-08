@@ -22,11 +22,11 @@ Demikian pula, mungkin bagi saya untuk meninggalkan dompet di bangku taman selam
 
 Di sisi lain, jika saya tinggal di rumah setiap malam, saya tidak tahu persis tentang kejahatan, dan jadi jika seorang maniak menyerang rumah saya dan merampok saya buta, saya tidak dapat disalahkan karena peran hubungan yang saya mainkan dalam kejadian tersebut.
 
-### The Non-Aggression Principle (NAP)
+### Prinsip tidak-Agresi (NAP)
 
-A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+Moral aturan ini sering diusulkan disebut *non-agresi prinsip*, atau tidur SIANG. Hal ini juga disebut sebagai "landak damai," sejauh landak hanya menggunakan "kekuatan" untuk membela diri tidur SIANG pada dasarnya adalah proposisi bahwa "inisiasi penggunaan kekuatan adalah salah secara moral." Atau, untuk menempatkan lebih dalam syarat-syarat percakapan kami: "non-inisiasi kekuatan yang lebih secara umum lebih baik".
 
-When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
+Ketika kita menganalisis prinsip seperti tidur SIANG, hanya ada tujuh kemungkinan: tiga di negatif, positif, dan satu netral:
 
 - Inisiasi penggunaan kekerasan selalu salah secara moral.
 - Inisiasi penggunaan kekerasan terkadang salah secara moral.
@@ -36,9 +36,9 @@ When we analyse a principle such as the NAP, there are really only seven possibi
 - Inisiasi penggunaan kekuatan terkadang secara moral benar.
 - Inisiasi penggunaan kekuatan selalu benar secara moral.
 
-As we have seen above, however, UPB is an “all or nothing” framework. Jika sebuah tindakan dilakukan *secara universal lebih baik*, maka tidak bisa dibatasi oleh individu, geografi, waktu dll. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. Jika salah membunuh kemarin, maka tidak mungkin membunuh besok. Jika Bob salah membunuh, mungkin juga kesalahan Doug untuk membunuh.
+Seperti yang telah kita lihat di atas, namun, UPB adalah aplikasi "semua atau tidak" framework. Jika sebuah tindakan dilakukan *secara universal lebih baik*, maka tidak bisa dibatasi oleh individu, geografi, waktu dll. Jika salah pembunuhan di Algiers, maka itu juga salah pembunuhan di Belgia, Amerika Serikat, di Kutub Utara dan di bulan. Jika salah membunuh kemarin, maka tidak mungkin membunuh besok. Jika Bob salah membunuh, mungkin juga kesalahan Doug untuk membunuh.
 
-Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
+Menyatukan TIDUR dengan UPB, dengan demikian memungkinkan kita untuk meraut ini tujuh pernyataan ke tiga:
 
 1. Hal ini secara umum lebih baik memulai penggunaan kekuatan.
 2. Hal in secara umum tidak baik memulai penggunaan kekuatan.
