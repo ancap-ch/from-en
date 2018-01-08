@@ -40,11 +40,11 @@ Jika memang jahat membunuh ikan, maka UPB mengatakan bahwa siapapun atau apapun 
 
 Jelas bahwa hiu tidak memiliki kapasitas untuk menahan diri dari membunuh ikan, karena pada dasarnya mereka memakan mesin dengan sirip.
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Jadi proposisi "itu adalah usaha jahat untuk membunuh ikan" untuk mendefinisikan moralitas universal yang mencakup situasi non-moral, yang tidak dapat berdiri secara logis.
+Jadi kita berakhir dengan masalah pikiran dari "kejahatan yang tak terelakkan." Jika membunuh ikan jahat, tapi hiu tidak bisa menghindari pembunuhan ikan, maka hiu "pasti jahat." Namun, seperti yang telah kita bahas di atas, di mana tidak ada pilihan lain - Dimana * menghindari * tidak mungkin - tidak ada moralitas. Jadi proposisi "itu adalah usaha jahat untuk membunuh ikan" untuk mendefinisikan moralitas universal yang mencakup situasi non-moral, yang tidak dapat berdiri secara logis.
 
 Juga, kata "ikan" tetap bermasalah dalam perumusannya, karena terlalu spesifik untuk bersifat universal. Perumusan UPB yang tepat adalah: "Adalah jahat bagi orang untuk membunuh organisme hidup."
 
-Jika, bagaimanapun, adalah jahat untuk dibunuh, kita lagi menghadapi masalah "kejahatan yang tak terelakkan." Tidak ada manusia yang bisa ada tanpa membunuh organisme lain seperti virus, tumbuhan, atau binatang. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+Jika, bagaimanapun, adalah jahat untuk dibunuh, kita lagi menghadapi masalah "kejahatan yang tak terelakkan." Tidak ada manusia yang bisa ada tanpa membunuh organisme lain seperti virus, tumbuhan, atau binatang. Jadi "kehidupan manusia" didefinisikan sebagai "kejahatan." Tapi jika kehidupan manusia didefinisikan sebagai kejahatan, maka tidak bisa* menjadi*jahat, karena penghindaran menjadi tidak mungkin.
 
 Bagaimana jika kita mengatakan: "Adalah jahat membunuh orang" - apakah itu akan membuat hiu pemakan manusia jahat?
 
@@ -54,6 +54,6 @@ UPB memungkinkan pengecualian berdasarkan pada materi objektif dan universal ata
 
 Dengan cara yang sama, moralitas hanya berlaku untuk kesadaran rasional, karena persyaratan untuk dapat dihindari. Jika saya mencoba menerapkan teori moral ke siput, pohon, batu, atau konsep "angka," saya berusaha menyamakan kesadaran rasional dengan entitas yang mungkin tidak rasional dan tidak sadar, yang merupakan kontradiksi logis. Saya mungkin juga mengatakan bahwa Teorema Sudut Oposisi dalam geometri tidak valid karena tidak berlaku untuk lingkaran, atau awan. OAT hanya berlaku untuk garis berpotongan - mencoba menerapkannya pada situasi lain adalah ekuivalen konseptual untuk mencoba melukis udara.
 
-In other words, misapplication is not disproof.
+Dengan kata lain, kesalahan penerapan tidak pemabantahan.
 
 Ada banyak "area abu-abu" lainnya yang bisa kita jalani, mulai dari aborsi hingga hak kekayaan intelektual hingga restitusi dan sebagainya, namun menurut saya jauh lebih penting untuk mengambil UPB dari ranah abstraksi, dan mulai menerapkannya pada masalah dunia nyata yang kita hadapi saat ini.
