@@ -12,9 +12,9 @@ Seorang ahli bedah bisa "menusuk" Anda dengan pisau bedah, tapi kita dapat denga
 
 Perbedaan ini dapat dipahami melalui analisis lebih lanjut *inisiasi*.
 
-Jika Anda terkena kanker, Anda mungkin meminta dokter bedah untuk mengoperasikan Anda. Alasan mengapa "tusukan" dokter bedah itu tidak bermoral adalah bahwa kanker "memulai" serangan terhadap hidup dan kesehatan Anda. Dokter bedah bertindak sebagai "Pengganti agen pertahanan diri", sama seperti pria yang menembakkan seorang perampok yang menyerang Anda. Anda juga telah memberikan persetujuan Anda kepada dokter bedah, dan perilakunya terkait dengan kontrak tertentu.
+Jika Anda terkena kanker, Anda mungkin meminta dokter bedah untuk mengoperasikan Anda. Alasan mengapa dokter bedah"menusuk" tidak bermoral adalah bahwa kanker "memulai" serangan terhadap kehidupan dan kesehatan Anda. Ahli bedah bertindak sebagai "pengganti agen pertahanan diri," seperti seorang pria yang menembak seorang perampok yang menyerang anda. Anda juga telah memberikan persetujuan Anda kepada ahli bedah, dan perilakunya terkait dengan kontrak tertentu.
 
-Perampok yang menusuk Anda, bagaimanapun, ialah memulai serangan terhadap hidup dan kesehatan Anda, oleh karena itu serangannya adalah tindakan *yang berlawanan* dengan upaya dokter bedah.
+Perampok yang menusuk Anda, bagaimanapun, ialah yang memulai serangan terhadap hidup dan kesehatan Anda, oleh karena itu serangannya adalah tindakan *yang berlawanan* dengan upaya ahli bedah.
 
 Jika saya seorang perokok kronis dan lama, saya telah berpartisipasi dalam rangkaian kejadian yang menyebabkan kanker paru-paru saya. Dengan memulai dan mempertahankan kebiasaan merokok, saya telah menggerakkan rantai kausalitas yang dapat menyebabkan penderitaan yang mengancam jiwa. Tentunya mungkin bagi saya untuk terkena kanker paru-paru tanpa merokok - atau merokok tanpa terkena kanker paru-paru - tapi saya pasti telah mempengaruhi kemungkinan tersebut.
 
