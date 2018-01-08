@@ -1,6 +1,6 @@
 ## Permulaan
 
-Teori moral yang masuk akal harus bisa menjelaskan semua di atas standar universal, seperti teori fisika yang masuk akal harus dapat menjelaskan bagaimana seseorang secara tak sadar menghitung Lengkungan bola basket yang dilemparkan, dan menangkapnya.
+Sebuah teori moral yang wajar harus bisa menjelaskan semua di atas standar universal, sama seperti teori fisika yang masuk akal harus dapat menjelaskan bagaimana seseorang secara tak sadar menghitung busur Lemparan bisbol, dan menangkapnya.
 
 Jika kerangka UPB dapat menjelaskan hal di atas, maka akan dipastikan telah lulus setidaknya tes “akal sehat”.
 
