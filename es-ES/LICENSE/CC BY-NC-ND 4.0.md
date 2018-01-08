@@ -101,21 +101,21 @@ a. ***Atribución.***
         Para evitar cualquier duda, no tiene permiso bajo esta licencia pública para compartir Material Adaptado.
         
     
-    1. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+    1. Puede cumplir las condiciones de la sección 3(a)(1) de cualquier manera razonable, basado en el medio, los medios y el contexto en el que comparte el Material Licenciado. Por ejemplo, puede ser razonable satisfacer las condiciones proporcionando un URI o hipervínculo a un recurso que incluya la información requerida.
     
-    2. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
+    2. Si el Licenciante lo solicita, debe remover cualquier información requerida por la sección 3(a)(1)(A) en la medida que sea razonablemente posible.
 
-### Section 4 – Sui Generis Database Rights.
+### Sección 4 - Derechos de la base de datos Sui Generis.
 
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+Donde los Derechos Licenciado incluyen los Derechos de base de datos Sui Generis que se aplican a su uso del Material Licenciado:
 
-a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only and provided You do not Share Adapted Material;
+a. para evitar cualquier duda, la sección 2(a)(1) le garantiza el derecho de extraer, reusar, reproducir y compartir todo o una porción sustancial del contenido de la base de datos sólo para propósitos no comerciales y siempre que no comparta el Material Adaptado;
 
-b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
+b. si incluye todo o una parte sustancial del contenido de la base de datos en una base de datos en la que tiene los Derechos de base de datos Sui Generis, entonces la base de datos en la que tiene los Derechos de base de datos Sui Generis (pero no su contenido individual) es material adaptado; y
 
-c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
+c. Debe cumplir con las condiciones de la sección 3(a) si comparte todo o una parte sustancial de los contenidos de la base de datos.
 
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+Para evitar dudas, esta Sección 4 complementa y no reemplaza sus obligaciones bajo esta Licencia Pública donde los Derechos Licenciados incluyen otros Derechos de autor y Derechos Similares.
 
 ### Section 5 – Disclaimer of Warranties and Limitation of Liability.
 
