@@ -112,22 +112,22 @@ Dengan cara ini, dalam masyarakat dimana negara dan gereja dipisahkan secara nom
 
 Namun, para filsuf yang menentang *semua* kesalahan intelektual adalah musuh sumpah dari semua parasit yang memakan ilusi. "Kebenaran besar" fisika menghilangkan kebutuhan akan agen supranatural, dan membuat keajaiban menjadi tidak mungkin. Kekuatan penjelasan dari ilmu pengetahuan sepenuhnya mengalahkan fiksi religius yang menyamar sebagai pengetahuan tentang dunia fisik.
 
-The scientific method requires that every thesis be supported by evidence and rationality. Since there is no evidence for gods – and the very *idea* of gods is innately self-contradictory – the thesis “gods exist” cannot stand. Inevitably, the religious parasites attempt to defend their thesis by trying to split reality into “two realms” – the scientific and the spiritual. However, there is no evidence for the existence of this “spiritual” realm in the present, any more than there was for the parallel universe of Platonic “Forms” two thousand five hundred years ago.
+Metode ilmiah mensyaratkan bahwa setiap tesis didukung oleh bukti-bukti dan rasionalitas. Karena tidak ada bukti untuk dewa – dan *ide* dewa bawaan kontradiksi-diri – tesis "dewa-dewa yang ada" tidak dapat berdiri. Tak pelak, agama parasit upaya untuk mempertahankan tesis mereka dengan mencoba untuk membagi realitas menjadi "dua alam" – ilmiah dan spiritual. Namun, tidak ada bukti adanya wilayah "spiritual" di masa sekarang ini, apalagi ada paralelitas Platonis "Bentuk" dua ribu lima ratus tahun yang lalu.
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. Kami mengenal dengan "kebenaran tengah" dari agama; Beberapa orang akan diperiksa dan diwahyukan di sini, beberapa di antaranya mungkin akan mengejutkan Anda.
+Dengan demikian pembentukan konsisten dan kebenaran universal tentu batas dan menghancurkan eksploitatif potensi ilusi. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. Kami mengenal dengan "kebenaran tengah" dari agama; Beberapa orang akan diperiksa dan diwahyukan di sini, beberapa di antaranya mungkin akan mengejutkan Anda.
 
-### Effective Parasitism
+### Parasitisme yang efektif
 
-Parasit yang paling efektif - atau virus - adalah orang-orang yang membodohi tubuh menjadi acuh tak acuh. Sistem kekebalan tubuh kita dibuat untuk membunuh zat asing yang ada di dalam tubuh kita, mengisolasi dan membunuh mereka. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+Parasit yang paling efektif - atau virus - adalah orang-orang yang membodohi tubuh menjadi acuh tak acuh. Sistem kekebalan tubuh kita dibuat untuk membunuh zat asing yang ada di dalam tubuh kita, mengisolasi dan membunuh mereka. Kita takut HIV dan kanker khususnya karena mereka mampu melewati sistem kekebalan tubuh kita. Teknik yang sama digunakan oleh intelektual parasit untuk menonaktifkan sistem pertahanan orang-orang yang mereka memangsa.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. Anda mungkin melawan, anda mungkin lari, atau anda mungkin memberinya dompet anda, tapi anda akan terkejut, marah dan ketakutan dengan interaksi. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Orang lain akan merasa simpati dengan keadaan anda yang sulit, dan akan menghindari kata lorong di masa depan.
+Jika orang asing menyerang anda di sebuah gang dan tuntutan uang anda, anda akan ngeri dan terkejut. Anda mungkin melawan, anda mungkin lari, atau anda mungkin memberinya dompet anda, tapi anda akan terkejut, marah dan ketakutan dengan interaksi. Ketika anda mengulangi cerita, kau akan menceritakan hal-hal yang diperkuat dasar dan keji pelanggaran hak pribadi dan hak milik. Orang lain akan merasa simpati dengan keadaan anda yang sulit, dan akan menghindari kata lorong di masa depan.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+Ini adalah contoh dari sebuah "kebenaran," yang ini: "Mencuri dari saya adalah salah."
 
 Namun, ketika agen pemerintah mengirimi Anda sebuah surat yang meminta Anda membayar uang kepadanya, Anda mungkin akan merasakan penghinaan tertentu, namun Anda tidak akan menghubungkan cerita tersebut dengan ngeri dan kemarahan yang sama terhadap teman Anda.
 
 Ini adalah contoh "kebenaran tengah", yang mengaburkan "kebenaran besar," yaitu bahwa "mencuri itu salah."
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+Buku ini akan berfokus pada pemaparan dan penghancuran "tengah kebenaran "Saya percaya bahwa umat manusia menderita tanpa henti di bawah tirani "tengah kebenaran" etis palsu yang membenarkan pandangan duniawi yang merusak tentang takhayul religius, despotisme sekuler dan kultus keluarga.
 
 Tesis saya dalam buku ini adalah bahwa dalam etika, seperti dalam setiap disiplin intelektual lainnya, kebenaran besar muncul secara langsung dari kebenaran kecil. Kabut yang membingungkan dari "kebenaran tengah" adalah jalan yang mengerikan untuk dinavigasi, tapi perlu dijalani, karena satu-satunya alternatif mendasar untuk kebenaran adalah eksploitasi, penghancuran - dan, yang pasti, kematian jutaan waktu yang terlalu dini.
