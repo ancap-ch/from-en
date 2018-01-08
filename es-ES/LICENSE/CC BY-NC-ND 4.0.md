@@ -61,11 +61,11 @@ a. ***Concesión de la Licencia.***
         
         A. **Oferta del Licenciante – Material Licenciado.** Cada destinatario del Material Licenciado recibe automáticamente una oferta del Licenciante para ejercer los Derechos Licenciados bajo los términos y condiciones de esta Licencia Pública.
         
-        B. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+        B. **Sin restricciones de bajada.** No puede ofrecer ni imponer términos y condiciones adicionales o diferentes en, o aplicar Medidas Tecnológicas Efectivas a, el material licenciado si esto restringe el ejercicio de los derechos licenciados para cualquier destinatario del Material Licenciado.
     
-    2. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+    2. **Sin respaldo.** Nada en esta licencia pública constituye o puede interpretarse como permiso para afirmar o implicar que usted es, o que su uso del Material Licenciado es, conectado con, o patrocinado, endosado u otorgado por un estado oficial, el Licenciante u otros designados para recibir la atribución según los dispuesto en la sección 3(a)(1)(A)(i).
 
-b. ***Other rights.***
+b. ***Otros derechos.***
 
 1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
 
