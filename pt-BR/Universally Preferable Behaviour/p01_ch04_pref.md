@@ -8,7 +8,7 @@ Neste sentido, "preferível" não significa "melhor", mas sim "necessário". *Se
 
 Da mesma forma, se teorias éticas puderem sequer serem válidas, então elas devem ser, *pelo menos*, consistentes internamente e externamente. Em outras palavras, uma teoria ética que se contradiz, não pode ser válida – e também uma teoria ética que contradiz a evidência empírica e preferências quase universais não pode ser válida.
 
-Assim, na ética, assim como na ciência, matemática, engenharia e todas as outras disciplinas que comparem teorias à realidade, *teorias válidas devem ser logicamente consistentes e empiricamente verificáveis*.
+Assim, na ética, assim como na ciência, matemática, engenharia e todas as outras disciplinas que comparam teorias à realidade, *teorias válidas devem ser logicamente consistentes e empiricamente verificáveis*.
 
 ### Preferências e existência
 
