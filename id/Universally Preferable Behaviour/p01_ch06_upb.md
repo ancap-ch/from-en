@@ -13,7 +13,7 @@ Meskipun kami pertama kali berfokus pada UPB dalam bidang etika, UPB sekarang da
 
 Etika adalah bagian dari UPB yang menangani perilaku *yang ditimbulkan*, atau penggunaan kekerasan. Setiap teori yang membenarkan atau menyangkal penggunaan kekerasan adalah teori *moral*, dan tunduk pada persyaratan konsistensi logis dan bukti empiris.
 
-Mari kita lihat tiga tindakan, untuk membantu kita membedakan lebih jauh antara etika dan estetika. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+Mari kita lihat tiga tindakan, untuk membantu kita membedakan lebih jauh antara etika dan estetika. Tindakan pertama adalah * irasionalitas *; Yang kedua * berbohong *; Yang ketiga adalah * mematikan*. [^9]
 
 ### Irasionalitas
 
@@ -85,4 +85,4 @@ Ada fenomena yang dikenal sebagai "kematian oleh polisi," dimana orang-orang yan
 
 Dapatkah kerangka UPB membantu kita memahami, mengklasifikasikan dan memperluas standar moral ini?
 
-[^9]: Harap dicatat bahwa contoh di bawah ini bukan bukti, melainkan situasi yang mungkin harus diartikan oleh teori etis yang valid untuk dapat dijelaskan dan dijelaskan. We will get to the actual proofs shortly.
+[^9]: Harap dicatat bahwa contoh di bawah ini bukan bukti, melainkan situasi yang mungkin harus diartikan oleh teori etis yang valid untuk dapat dijelaskan dan dijelaskan. Kita akan segera mendapatkan bukti yang sebenarnya.
