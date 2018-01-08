@@ -1,4 +1,4 @@
-### "Don't Eat Fish"
+### "Jangan Makan Ikan"
 
 Apa status proposisi moral: "Adalah jahat untuk makan ikan"?
 
@@ -18,7 +18,7 @@ Tidak, "induk merah" dalam proposisi moral "Adalah jahat untuk makan ikan" adala
 
 Seorang ilmuwan tidak dapat secara sah mengatakan bahwa teorinya tentang gravitasi hanya berlaku untuk bebatuan merah muda. Karena teorinya melibatkan gravitasi, ia harus berlaku untuk *semua* entitas yang memiliki massa.
 
-Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
+Demikian pula, pada contoh di atas, UPB hanya menerima*bertindak*, dan menolak makan *apa* yang dimakan, karena apa yang dimakan bukanlah *aksi *, melainkan apa yang sedang ditindak lanjuti.
 
 Dengan cara yang sama, seorang ahli etika tidak dapat secara sah mengemukakan proposisi moral: "Adalah jahat untuk memperkosa *orang tua*." "Perkosaan" adalah tingkah lakunya; apakah korban sudah tua atau tidak tidak relevan dengan proposisi moral, karena selama korbannya manusia, persyaratan untuk universalitas tetap konstan. "Jangan mencuri" adalah proposisi moral yang sah menurut UPB - "Jangan mencuri *lobak*" bukan karena alasan sederhana pencurian terkait dengan konsep properti - dan lobak, seperti sebagian properti, tidak dapat digambarkan secara rasional dari semua bentuk properti lainnya dan diberi aturan moral mereka sendiri.
 
