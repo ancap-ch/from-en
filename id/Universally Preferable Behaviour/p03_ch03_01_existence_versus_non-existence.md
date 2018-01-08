@@ -94,7 +94,7 @@ Dengan cara yang sama, orang mengatakan bahwa perpajakan adalah bagian dari kont
 
 Ini secara logika dan empiris salah.
 
-Kita tahu bahwa secara empiris salah karena *tidak ada kontrak sosial *. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Kita tahu bahwa secara empiris salah karena *tidak ada kontrak sosial *. Baik Anda maupun saya *pernah* menandatangani dokumen secara sukarela menyetujui pajak penghasilan - kami baru saja lahir dalam sistem yang mengambil uang dari kami di titik pistol.
 
 ### Pistol Di Kamar
 
@@ -106,7 +106,7 @@ Untuk mengatakan bahwa gaya sama dengan voluntarisme adalah benar-benar tidak lo
 
 Tanpa "zona null," korup ini fiksi tidak dapat dipertahankan.
 
-The “null zone” is the lair of the beast we hunt.
+"Zona nol" adalah sarang binatang yang kita cari.
 
 Seperti yang kita lihat, kita tahu bahwa secara pribadi itu adalah salah untuk mencuri; kami memiliki sedikit masalah dengan abstrak dan logis larangan pencurian, seperti yang kita telah bekerja di atas – namun masih ada ini "zona null" atau alam semesta alternatif di mana oposisi seperti dapat diterima tanpa pertanyaan atau kekhawatiran.
 
