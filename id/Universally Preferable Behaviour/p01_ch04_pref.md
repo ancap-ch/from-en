@@ -18,7 +18,7 @@ Preferensi tidak ada secara objektif dalam kenyataan. Jika Anda penasaran dengan
 
 Kita dapat menemukan *bukti* untuk pilihan; kita tidak dapat menemukan pilihan * sendiri * pada kenyataannya. Ada pilihan sebagai * hubungan * antara kesadaran dan materi, sama seperti gravitasi ada sebagai hubungan antara seluruh tubuh.
 
-Mengesampingkan pertanyaan menantang tentang kehendak bebas versus determinisme, masuk akal untuk mengasumsikan bahwa apa pun yang dilakukan seseorang pada saat ini adalah apa yang dia "lebih suka" lakukan. Jika saya bangun dan pergi bekerja, maka jelas saya * lebih suka * untuk melakukan itu, berlawanan dengan semua alternatif lainnya. Bahkan jika saya membenci pekerjaan saya, saya jelas membencinya * kurang * daripada, mengatakan, tidak punya uang sepeserpun.
+Mengesampingkan pertanyaan yang menantang tentang kehendak bebas versus determinisme, masuk akal untuk mengasumsikan bahwa apa pun yang dilakukan seseorang pada saat ini adalah apa yang dia "lebih suka" lakukan. Jika saya bangun dan pergi bekerja, maka jelas saya * lebih suka * untuk melakukan itu, berlawanan dengan semua alternatif lainnya. Bahkan jika saya membenci pekerjaan saya, saya jelas membencinya * kurang * daripada, mengatakan, tidak punya uang sepeserpun.
 
 Mengingat bahwa manusia dapat melakukan berbagai tindakan yang hampir tak terbatas, apapun yang dilakukan seseorang pada saat ini dipilih dari semua pilihan lain yang mungkin dilakukan. Saya memilih untuk menulis buku ini daripada, katakanlah, belajar bagaimana cara tango.
 
@@ -46,11 +46,11 @@ Jadi ketika saya berbicara tentang universal preferensi, saya berbicara tentang 
 
 Demikian juga, jika seorang pria ingin menyembuhkan infeksi, ia *harus* mengambil antibiotik daripada melakukan Aztec hujan menari. Preferensi untuk minum antibiotik daripada melakukan tarian hujan bersifat universal, karena menari tidak bisa menyembuhkan infeksi. Dengan demikian, meskipun ada kadang-kadang orang yang akan mencoba untuk menyembuhkan dirinya sendiri melalui menari, masih *universal lebih baik* bahwa jika seorang pria ingin menyembuhkan dirinya sendiri, ia harus mengambil antibiotik.
 
-Dengan kata lain, jika Anda ingin mencapai puncak gunung, berharap tidak akan berhasil. Jika Anda ingin mengetahui asal mula alam semesta, doa tidak akan pernah memberikan jawaban. Orang masih berharap, dan berdoa, tapi itu tidak membuat berharap atau berdoa lebih efektif lagi. Dengan pemikiran tersebut, mari kita beralih ke pertanyaan apakah preferensi universal dapat valid atau tidak.
+Dengan kata lain, jika Anda ingin mencapai puncak gunung, berharap tidak akan berhasil. Jika Anda ingin mengetahui asal mula alam semesta, doa tidak akan pernah memberikan jawaban. Orang masih berharap, dan berdoa, tapi itu tidak membuat berharap atau berdoa lebih efektif lagi. Dengan pemikiran tersebut, mari kita beralih ke pertanyaan apakah preferensi universal dapat benar atau tidak.
 
 ### Argumen Dan Universalitas
 
-Jika saya memilih untuk berdebat, secara implisit saya menerima berbagai macam premis yang layak meluangkan waktu untuk membongkar di sini.
+Jika saya memilih untuk berdebat, secara tidak langsung saya menerima berbagai macam tempat yang layak untuk meluangkan waktu membongkar di sini.
 
 #### Premis 1: Kita Berdua Ada
 
