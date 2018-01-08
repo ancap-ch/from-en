@@ -67,7 +67,7 @@ a. ***Concesión de la Licencia.***
 
 b. ***Otros derechos.***
 
-1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+1. Los derechos morales, como el derecho a la integridad, no tienen licencia bajo esta Licencia Pública, ni son publicidad, privacidad u otros derechos de personalidad similares; son embargo, en la medida de lo posible, el Licenciante renuncia y/o se comprometa a no hacer vale ninguno e tales derechos en poder del Licenciante en la medida limitada necesaria para permitirle ejercer los Derechos con Licencia, pero no de otro modo.
 
 2. Patent and trademark rights are not licensed under this Public License.
 
