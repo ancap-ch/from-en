@@ -93,4 +93,4 @@ Bahkan, rintangan pertama bahwa setiap teori harus mengatasi lebih dari *konsist
 
 [^2]: Konsistensi rasional, atau logika internal.
 
-[^3]: Empirical evidence, or empiricism.
+[^3]: Bukti empiris, atau empirisme.
