@@ -28,7 +28,7 @@ Kebalikan dari "kebajikan" pastilah "wakil" - kebalikan dari "kebaikan" pastilah
 
 Setiap tindakan yang lebih baik secara moral harus oleh sifatnya memiliki tindakan yang berlawanan - karena jika tidak, maka tidak ada kapasitas untuk pilihan, tidak ada kemungkinan penghindaran, dan karena itu tidak memiliki kapasitas untuk kebajikan atau ketidakberuntungan. Jika saya mengusulkan peraturan moral: "Anda harus melawan gravitasi," maka moralitas yang jelas menjadi tidak mungkin, amoralitas tidak dapat dihindari, dan oleh karena itu peraturan moral harus tidak berlaku.
 
-If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
+Jika saya mengusulkan aturan moral: "janganlah engkau pergi ke San Francisco," ini bisa menjadi logis diulang sebagai: "engkau akan pergi ke mana-mana tapi San Francisco." Dengan cara ini, moral aturan "jangan mencuri" bisa sama-sama diusulkan dalam bentuk positif – "engkau akan menghormati hak milik." Sejak menghormati hak milik adalah suatu kebajikan, melanggar hak milik harus menjadi wakil.
 
 ### Apa yang hilang
 
