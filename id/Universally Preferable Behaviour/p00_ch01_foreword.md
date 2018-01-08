@@ -48,7 +48,7 @@ Alasan moralitas modern - dan moralitas sepanjang sejarah - selalu bergantung pa
 
 Yang benar adalah bahwa kita membutuhkan moralitas; Kebohongannya adalah bahwa tuhan atau pemerintah dapat secara rasional mendefinisikan atau menerapkannya dengan adil.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Tujuan saya dalam buku ini adalah untuk menentukan metodologi untuk memvalidasi teori-teori moral yang objektif, konsisten, jelas, rasional, empiris – dan *yang benar*.
 
 Saya menyadari sepenuhnya bahwa, pada saat ini, Anda kemungkinan besar akan merasakan gelombang skeptisisme yang meningkat. Saya benar-benar mengerti bahwa kemungkinan orang di luar sana di Internet - dunia rumah orang gila - entah bagaimana memecahkan masalah filosofis zaman ini tidak terlalu tinggi - sebenarnya, mereka akan sangat dekat dengan nol karena hampir tidak dapat dibedakan dari itu.
 
@@ -56,7 +56,7 @@ Still, not *quite* zero.
 
 ### Aturan Dasar
 
-Klaim luar biasa membutuhkan bukti yang luar biasa. In taking on this mammoth task – particularly in such a short book – I have set myself some basic ground rules, which are worth going over here.[^1]
+Klaim luar biasa membutuhkan bukti yang luar biasa. Dalam mengambil pada tugas raksasa – terutama di sebuah buku singkat – saya telah menetapkan beberapa aturan dasar, yang layak akan di sini.[^1]
 
 1. Saya sepenuhnya menerima perbedaan Humean antara "adalah" dan "seharusnya." Aturan moral yang valid tidak dapat langsung diturunkan dari adanya sesuatu dalam kenyataan. The fact that human beings in general *prefer* to live, and must successfully interact with reality in order to do so, cannot be the basis for any valid theory of ethics. Beberapa orang jelas tidak memilih untuk hidup, dan dengan teguh menolak kenyataan, jadi definisi etika ini tetap subjektif dan bersyarat.
 2. Etika tidak dapat didefinisikan secara obyektif sebagai "apa yang baik untuk kelangsungan hidup manusia." Individu tertentu dapat bertahan dengan sangat baik dengan mengincar orang lain, jadi definisi etika ini tidak mengatasi masalah subjektivisme. In biological terms, this would be analogous to describing evolutionary tendencies as “that which is good for *life’s* survival” – this would make no sense. Masyarakat manusia adalah ekosistem yang memiliki kepentingan bersaing, sama seperti hutan hujan, dan apa yang "baik" untuk satu orang begitu sering datang dengan mengorbankan orang lain.
