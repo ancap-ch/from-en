@@ -1,4 +1,4 @@
-### Practicality
+### Pratiklik
 
 Once the violence of government is intellectually exposed – and the supposed “voluntarism” of citizens is revealed as a vicious fraud – the argument always comes back that we *need* government to supply us with public goods such as protection, regional defence, roads etc.
 
