@@ -31,7 +31,7 @@ Di bawah ini adalah contoh tabel yang mencantumkan beberapa kategori yang paling
 
 ## Lampiran C: Podcast UPB
 
-Jika Anda ingin memahami lebih lanjut tentang UPB dan akibatnya, mungkin Anda menemukan podcast berikut (tersedia [di sini](www.freedomainradio.com)) bermanfaat. You may also wish to watch the “Introduction to Philosophy” videos, available on [Youtube](www.youtube.com/freedomainradio).
+Jika Anda ingin memahami lebih lanjut tentang UPB dan akibatnya, mungkin Anda menemukan podcast berikut (tersedia [di sini](www.freedomainradio.com)) bermanfaat. Anda mungkin juga ingin menonton video "Pendahuluan untuk filsafat", tersedia di [Youtube](www.youtube.com/freedomainradio).
 
 | Track | Title                                                        | Description                                                                                                                                                                                                                              |
 | -----:|:------------------------------------------------------------ |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
