@@ -62,7 +62,7 @@ Kenapa begitu?
 
 Sekali lagi, rangka UPB muncul untuk menyelamatkan.
 
-An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
+APA adalah *aturan non-koersif yang dapat diterapkan secara rasional ke kedua belah pihak secara bersamaan *.
 
 Umpamanya, jika APA saya: ”tepat waktu,” lalu itu akan menjadi standar dunia yang benar-benar dapat dihindari. Saya tidak bisa memaksakan APA ini pada Anda karena Anda tidak harus menjadi teman saya, Anda tidak harus tepat waktu, Anda tidak perlu menghormati atau mengikuti preferensi saya dengan cara apa pun.[^1]
 
@@ -74,7 +74,7 @@ Di sisi lain, jika saya mengatakan bahwa "menyukai jazz" adalah APA, maka saya l
 
 Tidak hanya ini kontradiksi peringkat dalam hal sintaksis, tapi juga segera gagal dalam ujian UPB. Jika saya suka jazz semua bentuk-bentuk lain dari musik, tapi Anda lebih suka musik klasik semua bentuk-bentuk lain, dan jika preferensi pribadi Universal lebih baik, maka Anda harus memilih jazz karena saya lakukan, dan saya harus memilih klasik karena Anda lakukan. Ini tentu saja tidak mungkin, karena akan mengharuskan kita berdua memilih*jazz dan klasik di atas semua bentuk musik lainnya*. Anda harus mengubah preferensi Anda menjadi jazz, karena preferensi saya - tapi pada saat yang sama saya mengalihkan preferensi saya ke klasik, karena preferensi Anda. Ini seperti mengatakan bahwa Anda harus melempar dan menangkap bola bisbol yang sama pada saat yang sama - kemustahilan logis dan fisik.
 
-Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
+Karena APAs tidak dapat dilaksanakan melalui kekerasan - Anda tidak bisa menembak seorang pria karena terlambat - maka perkosaan tidak bisa menjadi APA, karena pemerkosaan menurut definisi adalah serangan seksual yang ditegakkan melalui kekerasan.
 
 Dengan demikian pemerkosaan tidak bisa masuk dalam kategori APAs.
 
