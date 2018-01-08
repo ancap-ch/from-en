@@ -10,7 +10,7 @@ Ada dua cara untuk menentukan viabilitas jembatan sebelum membangunnya. Yang per
 
 Perhitungan matematis yang mendukung kelangsungan hidup jembatan harus konsisten secara internal sebelum pertimbangan lain dapat dipertimbangkan.
 
-In computer terms, code that does not compile cannot be tested.
+Dalam istilah komputer, kode yang tidak mengkompilasi tidak dapat diuji.
 
 Hal ini juga berlaku di dunia ilmiah. Teori selalu diperiksa konsistensi internal sebelum diajukan ke tes empiris. Alasan konsistensi internal sangat penting adalah karena teori mengklaim memiliki nilai relatif terhadap kenyataan, dan kenyataan konsisten secara internal, teori apa pun yang tidak konsisten secara konsisten *tidak* dapat memiliki nilai relatif terhadap kenyataan.
 
