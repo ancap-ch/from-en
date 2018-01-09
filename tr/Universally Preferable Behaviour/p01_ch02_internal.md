@@ -2,7 +2,7 @@
 
 Eğer bir mimar isem ve ev inşa etmek için bir plan sunduysam, üstesinden gelmem gereken ilk engel evimin inşa edilip edilemeyeceğidir. Eğer tamamen sabun köpüklerinden oluşan bir evle ilgili harika bir plan sunsam, böyle bir ''ev''in ayakta durması mümkün olmayacağı için komisyonu asla geçmem.
 
-Benzer şekilde, eğer bir mühendis köprü için bir plan sunarsa, karşılanması gereken ilk kriter köprünün ayakta durup durmayacağıdır. Uzun ömürlülük, estetik gibi diğer etmenler sadece, köprüye başlamak fiziksel olarak mümkünse uygulanabilir.
+Benzer şekilde, eğer bir mühendis köprü için bir plan sunarsa, karşılanması gereken ilk kriter köprünün ayakta durup durmayacağıdır. Eğer köprüye başlamak fiziksel olarak mümkünse uzun ömürlülük, estetik gibi diğer etmenler uygulanabilir.
 
 Köprünün ayakta durup durmayacağını araştırmadan rastgele ''hesaplamalar'' ve rastgele malzemelerle köprü inşa etmek -aşırı verimsiz olacağından söz etmek gerekmez - mantıksız olur. Fizik yasaları tutarlı ve evrensel oldukları için, bir köprünün inşa edilmeden *önce* ayakta durup duramayacağını anlamak nispeten kolaydır.
 
