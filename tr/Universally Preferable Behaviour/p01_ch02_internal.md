@@ -2,9 +2,9 @@
 
 Eğer bir mimar isem ve ev inşa etmek için bir plan sunduysam, üstesinden gelmem gereken ilk engel evimin inşa edilip edilemeyeceğidir. Eğer tamamen sabun köpüklerinden oluşan bir evle ilgili harika bir plan sunsam, böyle bir ''ev''in ayakta durması mümkün olmayacağı için komisyonu asla geçmem.
 
-Benzer şekilde, eğer bir mühendis köprü için bir plan sunarsa, karşılanması gereken ilk kriter köprünün ayakta durup durmayacağıdır. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+Benzer şekilde, eğer bir mühendis köprü için bir plan sunarsa, karşılanması gereken ilk kriter köprünün ayakta durup durmayacağıdır. Uzun ömürlülük, estetik gibi diğer etmenler sadece, köprüye başlamak fiziksel olarak mümkünse uygulanabilir.
 
-It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
+Köprünün ayakta durup durmayacağını araştırmadan rastgele ''hesaplamalar'' ve rastgele malzemelerle köprü inşa etmek -aşırı verimsiz olacağından söz etmek gerekmez - mantıksız olur. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
 
 There are two ways to determine the viability of the bridge before building it. The first is to look for internal inconsistencies within the premises and calculations that claim to support the viability of the bridge. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
 
