@@ -6,7 +6,7 @@ Benzer şekilde, eğer bir mühendis köprü için bir plan sunarsa, karşılanm
 
 Köprünün ayakta durup durmayacağını araştırmadan rastgele ''hesaplamalar'' ve rastgele malzemelerle köprü inşa etmek -aşırı verimsiz olacağından söz etmek gerekmez - mantıksız olur. Fizik yasaları tutarlı ve evrensel oldukları için, bir köprünün inşa edilmeden *önce* ayakta durup duramayacağını anlamak nispeten kolaydır.
 
-İnşa etmeden önce köprünün uygulanabilirliğini belirlemenin iki yolu vardır. Birincisi köprünün uygulanabilirliğini desteklediği iddia edilen arazi ve hesaplamalar arasındaki iç tutarsızlıklar araştırılır. Eğer köprünün kaldırabileceği ağırlığı doğrulayan hesaplamalarda önemli hatalar varsa, köprü büyük ihtimalle ya aşırı tasarlanmış yada eksik tasarlanmıştır. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+İnşa etmeden önce köprünün uygulanabilirliğini belirlemenin iki yolu vardır. Birincisi köprünün uygulanabilirliğini desteklediği iddia edilen arazi ve hesaplamalar arasındaki iç tutarsızlıklar araştırılır. Eğer köprünün kaldırabileceği ağırlığı doğrulayan hesaplamalarda önemli hatalar varsa, köprü büyük ihtimalle ya aşırı tasarlanmış yada eksik tasarlanmıştır. Eğer yanlış matematiksel hesaplamalar köprünün herhangi bir bölümünde metrekareye eksi elli tonluk bir kuvvet uygularsa, şüphesiz ki ayakta kalmaz - veya, eğer ayakta kalırsa, sürdürülebilirliği sadece kazara olur, ve tekrar yapılamaz.
 
 The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
 
