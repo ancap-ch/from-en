@@ -10,7 +10,7 @@ Köprünün ayakta durup durmayacağını araştırmadan rastgele ''hesaplamalar
 
 Köprünün sürdürülebilirliğini destekleyen matematiksel hesaplamalar, diğer değerlendirmeler hesaba katılmadan önce kendi aralarında tutarlı olmalıdır.
 
-In computer terms, code that does not compile cannot be tested.
+Bilgisayar terminolojisinde, derleme yapamayan kod test edilemez.
 
 Bu bilimsel dünya içinde geçerlidir. Teoriler deneysel testlere sunulmadan önce daima iç tutarlılıkları kontrol edilir. İç tutarlılığın bu kadar zorunlu olmasının nedeni teorilerin gerçekliğe dayalı bir değere sahip olduklarını iddia etmeleridir, ve realite içsel olarak tutarlıdır. Kendi içinde tutarlı *olmayan *hiç bir teori gerçeğe dayalı bir değere sahip olamaz.
 
@@ -20,9 +20,9 @@ Köprünün ayakta duracağına karar verdikten sonra, trenlere karşı yayalar�
 
 Ekonomi alanında, benzer ölçütler geçerlidir. Eğer ekonomi teorim aynı anda artıp azalmayı gerektiriyorsa, bunun mümkün olmamasından dolayı teorim geçerli olamaz. Teorim iç tutarlık için kontrol edildikten sonra, kanıt aramaya başlayabilirim, ve /veya teorimi kullanarak proaktif öngörülere başlayabilirim.
 
-Thus, we can see that any theory, to be valid, requires the following:
+Böylelikle, bir teorinin geçerli olabilmesi için aşağıdakileri gerektirdiğini görebiliriz:
 
-1. Internal consistency (logic).
-2. External consistency (testability).
+1. İç tutarlılık (mantık).
+2. Dış Tutarlılık (test edilebilirlik).
 
-With this in mind, we can now turn to the core subject of this book.
+Bunu akılda tutarak, şimdi kitabın ana konusuna geçebiliriz.
