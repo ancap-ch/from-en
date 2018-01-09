@@ -6,11 +6,11 @@ UPB 'nin sahadaki yapısı ile, şimdi UPB 'nin en yaygın ahlaki savlarımızı
 
 Yukarıda söz edildiği gibi, evrensel tercih edilebilir davranışlara göre önermeler üç kategoriye ayrılır pozitif, negatif ve nötr. Estetiği etikten ayırmamıza yardım etmesi amacıyla, bu üç kategoriyi bir etik analizine tabi tutulabilecek *herhangi bir* davranışı kapsayacak şekilde genişletelim. Bu yedi kategori şöyledir:
 
-1. Bu iyi (evrensel olarak tercih edilebilir ve şiddet yoluyla uygulanabilir, örneğin "cinayet işlemeyin").
-2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
-3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
-4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
-5. It is personally negative (predilection for not eating ice cream).
+1. İyi ( evrensel olarak tercih edilir ve şiddet yoluyla uygulanabilir, ''öldürme'' gibi).
+2. Estetik olarak pozitif ( evrensel olarak kabul edilebilir ama şiddetle uygulanamaz, ''nezaket'' ve ''dakik olmak'' gibi).
+3. Kişisel olarak pozitif ( ne evrensel olarak tercih edilir ne de şiddetle uygulanabilir, dondurma yeme tercihi gibi).
+4. Nötr, veya ne etiksel ne de estetik içeriği yok, otobüs için koşmak gibi.
+5. Kişisel olarak negatif ( dondurma yememeyi tercih etmek gibi).
 6. Estetik olarak negatif ("edepsizlik" ve "geç kalmak").
 7. Bu kötü (evrensel olarak yasaklanmış) ("tecavüz").
 
