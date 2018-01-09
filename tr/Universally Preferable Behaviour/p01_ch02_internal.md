@@ -18,7 +18,7 @@ Sadece hesaplamaların iç tutarlılığı sabitlendikten *sonra* köprünün ş
 
 Köprünün ayakta duracağına karar verdikten sonra, trenlere karşı yayaların ağırlıklarını desteklemek gibi belirli ihtiyaçlarımızı karşılayıp karşılamadığını belirleyebiliriz.
 
-Ekonomi alanında, benzer ölçütler geçerlidir. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+Ekonomi alanında, benzer ölçütler geçerlidir. Eğer ekonomi teorim aynı anda artıp azalmayı gerektiriyorsa, bunun mümkün olmamasından dolayı teorim geçerli olamaz. Teorim iç tutarlık için kontrol edildikten sonra, kanıt aramaya başlayabilirim, ve /veya teorimi kullanarak proaktif öngörülere başlayabilirim.
 
 Thus, we can see that any theory, to be valid, requires the following:
 
