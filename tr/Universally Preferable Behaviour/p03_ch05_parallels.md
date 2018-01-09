@@ -1,6 +1,6 @@
 ## Parallels
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Bilim Devriminden önce, doğal dünyanın merkezindeki bilinçli ve "ahlaki" bir varlık olmaksızın kendini sürdüremeyeceği akla yatkın değildi. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
 
 The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
 
