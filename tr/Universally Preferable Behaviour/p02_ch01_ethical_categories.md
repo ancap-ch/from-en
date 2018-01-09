@@ -4,7 +4,7 @@ UPB 'nin sahadaki yapısı ile, şimdi UPB 'nin en yaygın ahlaki savlarımızı
 
 ### Yedi Kategori
 
-As mentioned above, propositions regarding universally preferable behaviour fall into three general categories – positive, negative and neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
+Yukarıda söz edildiği gibi, evrensel tercih edilebilir davranışlara göre önermeler üç kategoriye ayrılır pozitif, negatif ve nötr. Estetiği etikten ayırmamıza yardım etmesi amacıyla, bu üç kategoriyi bir etik analizine tabi tutulabilecek *herhangi bir* davranışı kapsayacak şekilde genişletelim. Bu yedi kategori şöyledir:
 
 1. Bu iyi (evrensel olarak tercih edilebilir ve şiddet yoluyla uygulanabilir, örneğin "cinayet işlemeyin").
 2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
