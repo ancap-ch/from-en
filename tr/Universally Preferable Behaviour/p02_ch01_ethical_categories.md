@@ -11,8 +11,8 @@ Yukarıda söz edildiği gibi, evrensel tercih edilebilir davranışlara göre �
 3. Kişisel olarak pozitif ( ne evrensel olarak tercih edilir ne de şiddetle uygulanabilir, dondurma yeme tercihi gibi).
 4. Nötr, veya ne etiksel ne de estetik içeriği yok, otobüs için koşmak gibi.
 5. Kişisel olarak negatif ( dondurma yememeyi tercih etmek gibi).
-6. Estetik olarak negatif ("edepsizlik" ve "geç kalmak").
-7. Bu kötü (evrensel olarak yasaklanmış) ("tecavüz").
+6. Estetik olarak negatif (''nezaketsizlik'' ve ''geç kalmak'').
+7. Kötü (evrensel olarak yasaklanmış) (''tecavüz'').
 
 Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
 
