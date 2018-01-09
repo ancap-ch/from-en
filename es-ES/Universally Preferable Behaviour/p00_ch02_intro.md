@@ -30,7 +30,7 @@ Por el contrario, en la "zona nula" de la religión, el *opuesto exacto* de las 
 
 Nuestra creencia en la virtud de los militares también se encuentra en esta "zona nula". Si un hombre particular se le paga para asesinar a otro hombre, lo llamamos un "asesino a sueldo", y lo condenamos un sicario. Sin embargo, si este hombre se coloca un traje verde con ciertas cintas *y comete el mismo acto*, lo saludamos como a un héroe y se le recompensa con una pensión. La pequeña verdad (*no debo asesinar*) es perfectamente consistente con la gran verdad (*el asesinato está mal*) - pero en el medio se encuentra una "zona nula", donde el asesinato mágicamente se convierte en "virtuoso".
 
-If this “null zone” is valid, then no logical proposition can ever hold. If a proposition is true – and the exact opposite of that proposition is also true – then logical reasoning becomes impossible. The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
+Si esta "zona nula" es válida, entonces ninguna proposición lógica jamás puede mantenerse. If a proposition is true – and the exact opposite of that proposition is also true – then logical reasoning becomes impossible. The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
 
 In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
 
