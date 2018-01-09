@@ -14,7 +14,7 @@ In computer terms, code that does not compile cannot be tested.
 
 Bu bilimsel dünya içinde geçerlidir. Teoriler deneysel testlere sunulmadan önce daima iç tutarlılıkları kontrol edilir. İç tutarlılığın bu kadar zorunlu olmasının nedeni teorilerin gerçekliğe dayalı bir değere sahip olduklarını iddia etmeleridir, ve realite içsel olarak tutarlıdır. Kendi içinde tutarlı *olmayan *hiç bir teori gerçeğe dayalı bir değere sahip olamaz.
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+Sadece hesaplamaların iç tutarlılığı sabitlendikten *sonra* köprünün şartnamelere uygunluk derecesi gözden geçirilebilir. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
 
 Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
 
