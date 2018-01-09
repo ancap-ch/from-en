@@ -14,11 +14,11 @@ In computer terms, code that does not compile cannot be tested.
 
 Bu bilimsel dünya içinde geçerlidir. Teoriler deneysel testlere sunulmadan önce daima iç tutarlılıkları kontrol edilir. İç tutarlılığın bu kadar zorunlu olmasının nedeni teorilerin gerçekliğe dayalı bir değere sahip olduklarını iddia etmeleridir, ve realite içsel olarak tutarlıdır. Kendi içinde tutarlı *olmayan *hiç bir teori gerçeğe dayalı bir değere sahip olamaz.
 
-Sadece hesaplamaların iç tutarlılığı sabitlendikten *sonra* köprünün şartnamelere uygunluk derecesi gözden geçirilebilir. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+Sadece hesaplamaların iç tutarlılığı sabitlendikten *sonra* köprünün şartnamelere uygunluk derecesi gözden geçirilebilir. Eğer ki mühendis model demir yolu dergisine bir makale yazıyorsa, tamamen balza ağacından yapılan küçük bir köprü için içsel tutarlılığı olan belirlemelerde bulunmak, belirlemeleri tutarlı olarak değerlendirmek mümkün, aksi takdirde herhangi bir endüstriyel gereksinimi karşılayamaz.
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+Köprünün ayakta duracağına karar verdikten sonra, trenlere karşı yayaların ağırlıklarını desteklemek gibi belirli ihtiyaçlarımızı karşılayıp karşılamadığını belirleyebiliriz.
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+Ekonomi alanında, benzer ölçütler geçerlidir. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
 
 Thus, we can see that any theory, to be valid, requires the following:
 
