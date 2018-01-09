@@ -30,9 +30,9 @@ Por el contrario, en la "zona nula" de la religión, el *opuesto exacto* de las 
 
 Nuestra creencia en la virtud de los militares también se encuentra en esta "zona nula". Si un hombre particular se le paga para asesinar a otro hombre, lo llamamos un "asesino a sueldo", y lo condenamos un sicario. Sin embargo, si este hombre se coloca un traje verde con ciertas cintas *y comete el mismo acto*, lo saludamos como a un héroe y se le recompensa con una pensión. La pequeña verdad (*no debo asesinar*) es perfectamente consistente con la gran verdad (*el asesinato está mal*) - pero en el medio se encuentra una "zona nula", donde el asesinato mágicamente se convierte en "virtuoso".
 
-Si esta "zona nula" es válida, entonces ninguna proposición lógica jamás puede mantenerse. Si una proposición es verdad - y el opuesto exacto de esa proposición también es verdad - entonces el razonamiento lógico resulta imposible. The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
+Si esta "zona nula" es válida, entonces ninguna proposición lógica jamás puede mantenerse. Si una proposición es verdad - y el opuesto exacto de esa proposición también es verdad - entonces el razonamiento lógico resulta imposible. El crecimiento de la ciencia racional ha sido el ataque constante sobre esta "zona nula", y la incursión de la consistencia objetiva dentro de estos pequeños paquetes de locura de capricho subjetivo.
 
-In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
+En los mapas antiguos, antes de que los cartógrafos hubieran terminado sus exploraciones, los dibujos de tierras conocidas se desvanecían en el papel en blanco. El crecimiento del conocimiento primero requiere una delineación de lo que se desconoce y luego una expansión de los principios conocidos sobre las áreas desconocidas.
 
 The same is true in the realm of morality.
 
