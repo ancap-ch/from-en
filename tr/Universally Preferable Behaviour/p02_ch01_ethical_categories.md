@@ -1,6 +1,6 @@
 ## Etik Kategoriler
 
-With the UPB framework in place, we can now turn to an examination of how UPB validates or invalidates our most common moral propositions. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
+UPB 'nin sahadaki yapısı ile, şimdi UPB 'nin en yaygın ahlaki savlarımızı nasıl doğruladığının veya geçersiz kıldığının bir incelemesine bakabiliriz. Eğer ''fizik teori''miz bir insanın beysbol topunu nasıl yakalayabildiğini açıklayabiliyorsa, canavara karşı en azından ilk -ve en önemli- engeli aşmış ve ilk en büyük darbemizi yapmışızdır.
 
 ### Yedi Kategori
 
