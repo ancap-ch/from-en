@@ -38,9 +38,9 @@ Lo mismo es verdad en el campo de la moralidad.
 
 ### The Casualties
 
-Cruzar esta "zona nula" está lleno de riegos. El camino de las pequeñas verdades a las grandes verdades está pavimentado con los huesos de millones. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+Cruzar esta "zona nula" está lleno de riegos. El camino de las pequeñas verdades a las grandes verdades está pavimentado con los huesos de millones. Desde la muerte de Sócrates a la tortura de los primeros científicos por fanáticos religiosos, a los millones que han asesinado y muerto por las fantasías negras del fascismo y comunismo, cualquier empuje hacia adelante del conocimiento humano dentro de la "zona nula" está lleno de un considerable peligro.
 
-Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
+¿Tener que "cruzar la zona nula" - o unir sin problemas las pequeñas con las grandes verdades - inevitablemente es muy difícil y peligroso? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
 
 If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
 
