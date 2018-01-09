@@ -8,11 +8,11 @@ Köprünün ayakta durup durmayacağını araştırmadan rastgele ''hesaplamalar
 
 İnşa etmeden önce köprünün uygulanabilirliğini belirlemenin iki yolu vardır. Birincisi köprünün uygulanabilirliğini desteklediği iddia edilen arazi ve hesaplamalar arasındaki iç tutarsızlıklar araştırılır. Eğer köprünün kaldırabileceği ağırlığı doğrulayan hesaplamalarda önemli hatalar varsa, köprü büyük ihtimalle ya aşırı tasarlanmış yada eksik tasarlanmıştır. Eğer yanlış matematiksel hesaplamalar köprünün herhangi bir bölümünde metrekareye eksi elli tonluk bir kuvvet uygularsa, şüphesiz ki ayakta kalmaz - veya, eğer ayakta kalırsa, sürdürülebilirliği sadece kazara olur, ve tekrar yapılamaz.
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+Köprünün sürdürülebilirliğini destekleyen matematiksel hesaplamalar, diğer değerlendirmeler hesaba katılmadan önce kendi aralarında tutarlı olmalıdır.
 
 In computer terms, code that does not compile cannot be tested.
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Bu bilimsel dünya içinde geçerlidir. Teoriler deneysel testlere sunulmadan önce daima iç tutarlılıkları kontrol edilir. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
 
 Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
 
