@@ -34,11 +34,11 @@ Si esta "zona nula" es válida, entonces ninguna proposición lógica jamás pue
 
 En los mapas antiguos, antes de que los cartógrafos hubieran terminado sus exploraciones, los dibujos de tierras conocidas se desvanecían en el papel en blanco. El crecimiento del conocimiento primero requiere una delineación de lo que se desconoce y luego una expansión de los principios conocidos sobre las áreas desconocidas.
 
-The same is true in the realm of morality.
+Lo mismo es verdad en el campo de la moralidad.
 
 ### The Casualties
 
-Crossing this “null zone” is fraught with peril. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+Cruzar esta "zona nula" está lleno de riegos. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
 
 Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
 
