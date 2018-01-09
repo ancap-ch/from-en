@@ -1,8 +1,8 @@
 ## İç Tutarlılık
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+Eğer bir mimar isem ve ev inşa etmek için bir plan sunduysam, üstesinden gelmem gereken ilk engel evimin inşa edilip edilemeyeceğidir. Eğer tamamen sabun köpüklerinden oluşan bir evle ilgili harika bir plan sunsam, böyle bir ''ev''in ayakta durması mümkün olmayacağı için komisyonu asla geçmem.
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+Benzer şekilde, eğer bir mühendis köprü için bir plan sunarsa, karşılanması gereken ilk kriter köprünün ayakta durup durmayacağıdır. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
 
 It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
 
