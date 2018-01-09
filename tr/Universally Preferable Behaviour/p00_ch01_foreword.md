@@ -50,7 +50,7 @@ Gerçek şudur ki ahlaka ihtiyacımız vardır; yalan ise tanrıların ya da hü
 
 Bu kitaptaki amacım, objektif, tutarlı, açık, rasyonel, deneysel, – ve *gerçek* olan ahlak teorilerini geçerli yapmak için bir metodoloji tanımlamaktır.
 
-Tamamen farkındayım ki, şu anda şüpheciliğinizin yükseldiğini hissetmeniz muhtemel. -Delilerin evi- olan internetdeki bir adamın bir şekilde çağların felsefi problemini çözdüğü olasılığının yüksek olmadığının - aslında, buradan bile neredeyse ayırt edilemeyecek kadar sıfıra yakın olduğunun tamamen farkındayım.
+Tamamen farkındayım ki, şu anda şüpheciliğinizin yükseldiğini hissetmeniz muhtemel. -Delilerin dünyası- olan internetdeki bir adamın bir şekilde çağların felsefi problemini çözdüğü olasılığının yüksek olmadığının - aslında, buradan bile neredeyse ayırt edilemeyecek kadar sıfıra yakın olduğunun tamamen farkındayım.
 
 Yine de, *tam olarak* sıfır değil.
 
