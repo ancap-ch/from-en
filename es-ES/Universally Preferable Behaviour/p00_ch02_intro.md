@@ -28,7 +28,7 @@ Ningún hombre cuerdo experimenta directamente a Dios. En su vida diaria, acepta
 
 Por el contrario, en la "zona nula" de la religión, el *opuesto exacto* de las pequeñas y grandes verdades es considerado como verdad. Personalmente, un hombre cree que *eso que no puede ser percibido no existe* - intelectualmente, la ciencia ha demostrado esto repetidas veces. Sin embargo, en la "zona nula" de la teología, la proposición exactamente opuesta es verdad - el axioma es que *eso que no puede ser percibido **debe** existir*.
 
-Nuestra creencia en la virtud de los militares también se encuentra en esta "zona nula". Si un hombre particular se le paga para asesinar a otro hombre, lo llamamos un "asesino a sueldo", y lo condenamos un sicario. Sin embargo, si este hombre se coloca un traje verde con ciertas cintas *y comete el mismo acto*, lo saludamos como a un héroe y se le recompensa con una pensión. La pequeña verdad (*no debo asesinar*) es perfectamente consistente con la gran verdad (*el asesinato está mal*) - pero en el medio se encuentra una "zona nula", donde el asesinato mágicamente se convierte en "virtuoso".
+Nuestra creencia en la virtud de los militares también se encuentra en esta "zona nula". Si a un hombre particular se le paga para asesinar a otro hombre, lo llamamos un "asesino a sueldo", y lo condenamos como un sicario. Sin embargo, si este hombre se coloca un traje verde con ciertas cintas *y comete el mismo acto*, lo saludamos como a un héroe y se le recompensa con una pensión. La pequeña verdad (*no debo asesinar*) es perfectamente consistente con la gran verdad (*el asesinato está mal*) - pero en el medio se encuentra una "zona nula", donde el asesinato mágicamente se convierte en "virtuoso".
 
 Si esta "zona nula" es válida, entonces ninguna proposición lógica jamás puede mantenerse. Si una proposición es verdad - y el opuesto exacto de esa proposición también es verdad - entonces el razonamiento lógico resulta imposible. El crecimiento de la ciencia racional ha sido el ataque constante sobre esta "zona nula", y la incursión de la consistencia objetiva dentro de estos pequeños paquetes de locura de capricho subjetivo.
 
@@ -38,7 +38,7 @@ Lo mismo es verdad en el campo de la moralidad.
 
 ### The Casualties
 
-Cruzar esta "zona nula" está lleno de riegos. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+Cruzar esta "zona nula" está lleno de riegos. El camino de las pequeñas verdades a las grandes verdades está pavimentado con los huesos de millones. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
 
 Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
 
