@@ -6,13 +6,13 @@ Benzer şekilde, eğer bir mühendis köprü için bir plan sunarsa, karşılanm
 
 Köprünün ayakta durup durmayacağını araştırmadan rastgele ''hesaplamalar'' ve rastgele malzemelerle köprü inşa etmek -aşırı verimsiz olacağından söz etmek gerekmez - mantıksız olur. Fizik yasaları tutarlı ve evrensel oldukları için, bir köprünün inşa edilmeden *önce* ayakta durup duramayacağını anlamak nispeten kolaydır.
 
-İnşa etmeden önce köprünün uygulanabilirliğini belirlemenin iki yolu vardır. Birincisi köprünün uygulanabilirliğini desteklediği iddia edilen arazi ve hesaplamalar arasındaki iç tutarsızlıklar araştırılır. Eğer köprünün kaldırabileceği ağırlığı doğrulayan hesaplamalarda önemli hatalar varsa, köprü büyük ihtimalle ya aşırı tasarlanmış yada eksik tasarlanmıştır. Eğer yanlış matematiksel hesaplamalar köprünün herhangi bir bölümünde metrekareye eksi elli tonluk bir kuvvet uygularsa, şüphesiz ki ayakta kalmaz - veya, eğer ayakta kalırsa, sürdürülebilirliği sadece kazara olur, ve tekrar yapılamaz.
+İnşa etmeden önce köprünün uygulanabilirliğini belirlemenin iki yolu vardır. Birincisi köprünün uygulanabilirliğini desteklediği iddia edilen arazi ve hesaplamalar arasındaki iç tutarsızlıklar araştırılır. Eğer köprünün kaldırabileceği ağırlığı doğrulayan hesaplamalarda önemli hatalar varsa, köprü büyük ihtimalle ya aşırı tasarlanmış yada eksik tasarlanmıştır. Eğer yanlış matematiksel hesaplamalar köprünün herhangi bir bölümünde metrekareye eksi elli tonluk bir kuvvet uygularsa, şüphesiz ki ayakta kalmaz - veya, eğer ayakta kalırsa, sürdürülebilirliği sadece kazara gerçekleşmiş olur, ve tekrarı yapılamaz.
 
 Köprünün sürdürülebilirliğini destekleyen matematiksel hesaplamalar, diğer değerlendirmeler hesaba katılmadan önce kendi aralarında tutarlı olmalıdır.
 
 In computer terms, code that does not compile cannot be tested.
 
-Bu bilimsel dünya içinde geçerlidir. Teoriler deneysel testlere sunulmadan önce daima iç tutarlılıkları kontrol edilir. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Bu bilimsel dünya içinde geçerlidir. Teoriler deneysel testlere sunulmadan önce daima iç tutarlılıkları kontrol edilir. İç tutarlılığın bu kadar zorunlu olmasının nedeni teorilerin gerçekliğe dayalı bir değere sahip olduklarını iddia etmeleridir, ve realite içsel olarak tutarlıdır. Kendi içinde tutarlı *olmayan *hiç bir teori gerçeğe dayalı bir değere sahip olamaz.
 
 Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
 
