@@ -18,11 +18,11 @@ Yukarıda söz edildiği gibi, evrensel tercih edilebilir davranışlara göre �
 
 For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. Eğer yasaklanan şey tercih edilen şeyin tam tersi ise, bunun için fazladan bir kategoriye gerek yoktur.
 
-Ayrıca ahlaki filozoflar olarak, en acımasız ihlallere odaklanarak rasyonel etiğin incelemesine öncelik vermeliyiz. Şüphesiz ki, en ahlak dışı davranış adaletsiz önceliklerin başkaları üzerine şiddetle uygulanması olmalı. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+Ayrıca ahlaki filozoflar olarak, en acımasız ihlallere odaklanarak rasyonel etiğin incelemesine öncelik vermeliyiz. Şüphesiz ki, en ahlak dışı davranış adaletsiz önceliklerin başkaları üzerine şiddetle uygulanması olmalı. Eğer ''hırsızlık'' ve ''cinayet'' gibi eylemler UPB olarak tanımlanırsa, bu tür tanımların incelenmesi en büyük önceliğimiz olmalıdır.
 
 Böylece, çabalarımızı öncelikle evrensel olarak tercih edilen ve uygulanabilir eylemler üzerinde yoğunlaştıracağız.
 
-### Virtue And Its Opposite
+### Erdem ve Karşıtı
 
 The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil.” If I propose the moral rule, “thou shalt not steal,” then stealing must be evil, and *not* stealing must be good. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
 
