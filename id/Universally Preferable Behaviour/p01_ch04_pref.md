@@ -28,23 +28,23 @@ Ketika kita menerapkan fakta sederhana ini untuk argumen etis, kita mendapatkan 
 
 Mengingat analisis di atas tentang argumen yang mengalahkan diri sendiri, kita dapat dengan mudah memahami sifat kontradiktif dari pernyataan tersebut: "pilihan tidak ada." Mengingat bahwa setiap tindakan manusia - termasuk membuat pernyataan filosofis - dipilih dalam pilihan setiap tindakan lain yang mungkin dilakukan, berdebat preferensi itu tidak ada memerlukan preferensi * * karena berpendapat bahwa preferensi tidak ada, yang merupakan pernyataan kontradiktif sendiri. Dengan berdebat bahwa preferensi tidak ada sama persis dengan mengatakan bahwa bahasa tidak ada. Ini adalah benar-benar argumen yang mengalahkan diri sendiri.
 
-Karena tidak mungkin bertindak tanpa mengungkapkan pilihan - baik secara implisit maupun eksplisit - siapa pun yang bertindak menerima premis bahwa ada pilihan. Dengan demikian tidak mungkin untuk memperdebatkan adanya preferensi tanpa menerima adanya preferensi.
+Karena tidak mungkin bertindak tanpa mengungkapkan pilihan - baik secara implisit maupun eksplisit - siapa pun yang bertindak menerima premis bahwa ada pilihan. Dengan demikian tidak akan mungkin untuk memperdebatkan adanya preferensi tanpa diterima preferensi tersebut.
 
 ### Preferensi Dan Universalitas
 
-Pertanyaan selanjutnya jadi: adalah preferensi yang murni subjektif, atau bisakah mereka universal?
+Jadi pertanyaan selanjutnya: adalah preferensi yang murni subjektif, atau bisakah dinyatakan universal?
 
-Jelas, beberapa preferensi subjektif. Selera musik, hobi pribadi, sastra favorit dan sebagainya adalah preferensi subjektif dan pribadi.
+Sangat jelas, beberapa preferensi yang subjektif. Selera musik, hobi pribadi, sastra favorit dan sebagainya adalah preferensi subjektif dan sangat pribadi.
 
 Tantangan muncul ketika kita mencoba untuk mendefinisikan beberapa preferensi seperti *tujuan*.
 
 Proposisi sebelum kita adalah demikian: *dapat beberapa preferensi bersikap objektif, yaitu universal?*
 
-Ketika saya mengatakan bahwa beberapa preferensi mungkin obyektif, saya tidak berarti bahwa semua orang mengikuti preferensi ini di semua waktu. Jika saya berpendapat bahwa *menghirup* adalah suatu tujuan preferensi, saya bisa dengan mudah dimentahkan oleh contoh dari orang-orang yang bunuh diri dengan menggantung diri. Jika saya berpendapat bahwa makan adalah pilihan yang obyektif, argumen saya bisa dibantah dengan contoh mogok makan dan anoreksia.
+Ketika saya mengatakan bahwa beberapa preferensi mungkin obyektif, saya tidak berarti bahwa semua orang mengikuti preferensi ini di semua waktu. Jika saya berpendapat bahwa *menghirup* adalah suatu tujuan preferensi, saya bisa dengan mudah dimentahkan oleh contoh dari orang-orang yang bunuh diri dengan menggantung diri. Saya berpendapat bahwa makan adalah pilihan yang obyektif, argumen saya bisa saja dibantah dengan contoh mogok makan dan anoreksia.
 
 Jadi ketika saya berbicara tentang universal preferensi, saya berbicara tentang apa yang orang-orang *harus* sukai, bukan apa yang selalu mereka *jangan* sukai. Untuk menggunakan analogi ilmiah, untuk benar-benar memahami alam semesta, orang-orang *harus* menggunakan metode ilmiah – ini tidak berarti bahwa mereka selalu melakukannya, karena jelas miliaran orang berkonsultasi kuno dongeng daripada ilmu pengetahuan modern untuk "jawaban." Tidak ada cara untuk mencapai kebenaran tentang alam semesta tanpa ilmu pengetahuan, tetapi orang-orang yang sangat bebas untuk mendefinisikan kembali "kebenaran" sebagai "kesalahan," dan isi diri dengan mistis omong kosong.
 
-Demikian juga, jika seorang pria ingin menyembuhkan infeksi, ia *harus* mengambil antibiotik daripada melakukan Aztec hujan menari. Preferensi untuk minum antibiotik daripada melakukan tarian hujan bersifat universal, karena menari tidak bisa menyembuhkan infeksi. Dengan demikian, meskipun ada kadang-kadang orang yang akan mencoba untuk menyembuhkan dirinya sendiri melalui menari, masih *universal lebih baik* bahwa jika seorang pria ingin menyembuhkan dirinya sendiri, ia harus mengambil antibiotik.
+Demikian juga, jika seorang pria ingin menyembuhkan infeksi, ia *harus* mengambil antibiotik daripada melakukan Aztec hujan menari. Preferensi untuk meminum antibiotik daripada melakukan tarian hujan bersifat universal, karena menari itu tidak bisa menyembuhkan infeksi. Dengan demikian, meskipun ada kadang-kadang orang yang akan mencoba untuk menyembuhkan dirinya sendiri melalui menari, masih *universal lebih baik* bahwa jika seorang pria ingin menyembuhkan dirinya sendiri, ia harus mengambil antibiotik.
 
 Dengan usaha lain, jika anda sangat ingin mencapai puncak gunung, berharap tidak akan pernah berhasil. Jika anda ingin mengetahui asal mula terjadinya alam semesta, doa tidak akan pernah memberikan jawabannya. Orang-orang tersebut masih terlalu berharap, dan berdoa, tapi itu tidak akan membuat mereka berharap atau berdoa lebih efektif lagi. Dengan pemikiran tersebut, mari kita alihkan ke pertanyaan apakah preferensi universal dapat dibenarkan atau tidak.
 
