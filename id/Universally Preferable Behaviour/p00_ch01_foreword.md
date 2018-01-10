@@ -52,7 +52,7 @@ Tujuan saya dalam buku ini adalah untuk menentukan metodologi untuk memvalidasi 
 
 Saya menyadari sepenuhnya bahwa, pada saat ini, Anda kemungkinan besar akan merasakan gelombang skeptisisme yang meningkat. Saya benar-benar mengerti bahwa kemungkinan orang di luar sana di Internet - dunia rumah orang gila - entah bagaimana memecahkan masalah filosofis zaman ini tidak terlalu tinggi - sebenarnya, mereka akan sangat dekat dengan nol karena hampir tidak dapat dibedakan dari itu.
 
-Still, not *quite* zero.
+Tetap, tidak *cukup* nol.
 
 ### Aturan Dasar
 
