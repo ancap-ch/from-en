@@ -80,7 +80,7 @@ Dengan demikian pemerkosaan tidak bisa masuk dalam kategori APAs.
 
 ### Positif secara pribadi
 
-Mungkin pemerkosaan mirip dengan preferensi pribadi saja.[^2]
+Mungkin mencabuli mirip dengan preferensi pribadi saja.[^2]
 
 Pertanyaannya kemudian muncul: dapatkah klasifikasi pemerkosaan sebagai preferensi pribadi hanya berdiri untuk pengamatan logis?
 
