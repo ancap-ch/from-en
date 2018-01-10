@@ -150,6 +150,6 @@ Kerangka UPB telah secara benar memvalidasi premis moral kita bahwa pemerkosaan 
 
 [^2]: Itu tidak dapat dikatakan bahwa pencabulan tidak melibatkan sebuah preferensi, sejak pencabulan adalah perilaku dan, seperti telah kita bahas di atas, semua perilaku melibatkan preferensi.
 
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
+[^3]: Perhatikan bahwa saya tidak dapat mengusulkan "preferensi pribadi *boleh* jadi kekerasan ditimpakan kepada orang lain, karena itu adalah kekerasan UPB, yang menyatakan bahwa peraturan moral harus mutlak dan universal - jika tidak, mereka jatuh ke wilayah APA, dan tidak dapat ditimpakan pada orang lain.
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]: Kita bisa menghindari situasi yang meningkatkan kemungkinan pencabulan, tapi kita tidak bisa menghindari pencabulan yang sedang berlangsung.
