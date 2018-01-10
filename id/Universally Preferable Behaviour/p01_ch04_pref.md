@@ -18,7 +18,7 @@ Preferensi tidak ada secara objektif dalam kenyataan. Jika anda terlalu penasara
 
 Kita dapat menemukan *bukti* untuk pilihan; kita tidak dapat menemukan pilihan * sendiri * pada kenyataannya. Ada pilihan sebagai * hubungan * antara kesadaran dan materi, sama seperti gravitasi ada sebagai hubungan antara seluruh tubuh.
 
-Dengan mengesampingkan pertanyaan yang menantang tentang kehendak bebas versus determinisme, tenyata masuk akal untuk mengasumsikan bahwa apa pun yang dilakukan oleh seseorang pada saat ini adalah apa yang dia "lebih suka" lakukan. Jika saya bangun dan pergi bekerja, maka jelas saya * lebih suka * untuk melakukan itu, berlawanan dengan semua alternatif lainnya. Bahkan jika saya membenci pekerjaan saya, saya jelas membencinya * kurang * daripada, mengatakan, tidak punya uang sepeserpun.
+Mengesampingkan pertanyaan yang menantang tersebut tentang kehendak bebas melawan determinisme, tenyata masuk akal untuk mengasumsikan bahwa apa pun yang akan dilakukan oleh seseorang pada saat ini adalah apa yang dia "lebih suka" lakukan. Jika saya bangun dan pergi bekerja, maka jelas saya * lebih suka * untuk melakukan itu, berlawanan dengan semua alternatif lainnya. Bahkan jika saya membenci pekerjaan saya, saya jelas membencinya * kurang * daripada, mengatakan, tidak punya uang sepeserpun.
 
 Kita ingat bahwa manusia dapat melakukan berbagai macam tindakan yang hampir tak terbatas, apapun yang dilakukan seseorang pada saat ini dipilih dari semua pilihan lain yang mungkin dilakukan. Saya tentu akan memilih untuk menulis buku ini daripada, berkata-kata, bagaimana belajar dengan cara tango.
 
