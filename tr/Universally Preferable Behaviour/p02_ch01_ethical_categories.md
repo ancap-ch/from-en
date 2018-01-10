@@ -28,9 +28,9 @@ Böylece, çabalarımızı öncelikle evrensel olarak tercih edilen ve uygulanab
 
 Ahlaki olarak tercih edilebilir her eylem, doğası gereği karşıt bir eyleme sahip olmalıdır - çünkü karşıtı yoksa eğer, seçmek için bir yeterlilik, kaçınma imkanı, ve dolayısıyla erdem veya ahlaksızlık için bir yeterlilik yoktur. Eğer ahlak kuralı olarak: ''yer çekimine meydan okumalısın'' diye ileri sürsem, açık bir şekilde ahlak imkansız olur, ahlak dışılık kaçınılmaz olur, ve böylelikle ahlak kuralı geçersiz olmalıdır.
 
-If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
+Eğer ahlak kuralı olarak: '' San Francisco'ya gitmemelisin'' diye ileri sürsem, bu mantıksal olarak ''San Francisco 'dan başka herhangi bir yere gitmelisin'' diye söylenebilir. Böylece, ahlak kuralı olan ''çalmayacaksın'' olumlu olarak -''mülkiyet haklarına saygı göstereceksin'' şekline eşit bir şekilde önerilebilir. Mülkiyet hakkına saygı göstermek erdem olduğu için, mülkiyet hakkı ihlali de ahlaksızlık olmalıdır.
 
-### What Is Missing
+### Eksik Olan Ne
 
 Conspicuously absent from the above list are traditional virtues such as courage, honesty, integrity and so on – as well as their opposites: cowardice, falsehood and corruption.
 
