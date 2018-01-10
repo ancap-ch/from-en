@@ -14,7 +14,7 @@ Yukarıda söz edildiği gibi, evrensel tercih edilebilir davranışlara göre �
 6. Estetik olarak negatif (''nezaketsizlik'' ve ''geç kalmak'').
 7. Kötü (evrensel olarak yasaklanmış) (''tecavüz'').
 
-Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
+İdeal olarak, evrensel olarak yasaklanmış olanın evrensel olarak tercih edilebilir olanla basit bir ayna görüntüsü olmalarından, ve sadece kişisel olan tercihler ile bir etik tartışmasıyla alakalı olmayan nötr davranışları bırakıp, ahlaksal önermelerimizi tanımlayarak bunları iki kategoriye - evrensel olarak tercih edilebilir ve estetik olarak pozitif - ayırabilmeliyiz.
 
 For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. Eğer yasaklanan şey tercih edilen şeyin tam tersi ise, bunun için fazladan bir kategoriye gerek yoktur.
 
