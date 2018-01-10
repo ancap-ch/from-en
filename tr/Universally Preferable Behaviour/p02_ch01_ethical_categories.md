@@ -24,7 +24,7 @@ Böylece, çabalarımızı öncelikle evrensel olarak tercih edilen ve uygulanab
 
 ### Erdem ve Karşıtı
 
-''Erdem''in karşıtı ''ahlaksızlık'' olmalı -''İyi''in karşıtı ''kötü'' olmalı. Ahlak kuralı olarak ''çalmayacaksın'' diye ileri sürersem, çalmak kötü olmalı, ve çal*ma*mak iyi olmalıdır. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. Bunu erdem için ''gerekli ama yetersiz'' gereklilik olarak düşünebiliriz.
+''Erdem''in karşıtı ''ahlaksızlık'' olmalı -''İyi''in karşıtı ''kötü'' olmalı. Ahlak kuralı olarak ''çalmayacaksın'' diye ileri sürersem, çalmak kötü olmalı, ve çal*ma*mak iyi olmalıdır. Elbette ''hırsızlıktan kaçınma''nın mükemmel ahlakın tek tanımı olduğu anlamına gelmez çünkü bir adam katil olabilir ama hırsız olmayabilir. Bunu erdem için ''gerekli ama yetersiz'' gereklilik olarak düşünebiliriz.
 
 Ahlaki olarak tercih edilebilir her eylem, doğası gereği karşıt bir eyleme sahip olmalıdır - çünkü karşıtı yoksa eğer, seçmek için bir yeterlilik, kaçınma imkanı, ve dolayısıyla erdem veya ahlaksızlık için bir yeterlilik yoktur. Eğer ahlak kuralı olarak: ''yer çekimine meydan okumalısın'' diye ileri sürsem, açık bir şekilde ahlak imkansız olur, ahlak dışılık kaçınılmaz olur, ve böylelikle ahlak kuralı geçersiz olmalıdır.
 
