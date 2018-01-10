@@ -18,7 +18,7 @@ Yukarıda söz edildiği gibi, evrensel tercih edilebilir davranışlara göre �
 
 For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. Eğer yasaklanan şey tercih edilen şeyin tam tersi ise, bunun için fazladan bir kategoriye gerek yoktur.
 
-Ayrıca ahlaki filozoflar olarak, en acımasız ihlallere odaklanarak rasyonel etiğin incelemesine öncelik vermeliyiz. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+Ayrıca ahlaki filozoflar olarak, en acımasız ihlallere odaklanarak rasyonel etiğin incelemesine öncelik vermeliyiz. Şüphesiz ki, en ahlak dışı davranış adaletsiz önceliklerin başkaları üzerine şiddetle uygulanması olmalı. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
 
 Böylece, çabalarımızı öncelikle evrensel olarak tercih edilen ve uygulanabilir eylemler üzerinde yoğunlaştıracağız.
 
