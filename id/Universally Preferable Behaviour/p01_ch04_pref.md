@@ -46,7 +46,7 @@ Jadi ketika saya berbicara tentang universal preferensi, saya berbicara tentang 
 
 Demikian juga, jika seorang pria ingin menyembuhkan infeksi, ia *harus* mengambil antibiotik daripada melakukan Aztec hujan menari. Preferensi untuk minum antibiotik daripada melakukan tarian hujan bersifat universal, karena menari tidak bisa menyembuhkan infeksi. Dengan demikian, meskipun ada kadang-kadang orang yang akan mencoba untuk menyembuhkan dirinya sendiri melalui menari, masih *universal lebih baik* bahwa jika seorang pria ingin menyembuhkan dirinya sendiri, ia harus mengambil antibiotik.
 
-Dengan kata lain, jika Anda ingin mencapai puncak gunung, berharap tidak akan berhasil. Jika Anda ingin mengetahui asal mula alam semesta, doa tidak akan pernah memberikan jawaban. Orang masih berharap, dan berdoa, tapi itu tidak membuat berharap atau berdoa lebih efektif lagi. Dengan pemikiran tersebut, mari kita alihkan ke pertanyaan apakah preferensi universal dapat dibenarkan atau tidak.
+Dengan usaha lain, jika anda sangat ingin mencapai puncak gunung, berharap tidak akan pernah berhasil. Jika anda ingin mengetahui asal mula terjadinya alam semesta, doa tidak akan pernah memberikan jawabannya. Orang-orang tersebut masih terlalu berharap, dan berdoa, tapi itu tidak akan membuat mereka berharap atau berdoa lebih efektif lagi. Dengan pemikiran tersebut, mari kita alihkan ke pertanyaan apakah preferensi universal dapat dibenarkan atau tidak.
 
 ### Argumen Dan Universalitas
 
