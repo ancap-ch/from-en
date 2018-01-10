@@ -32,7 +32,7 @@ Eğer ahlak kuralı olarak: '' San Francisco'ya gitmemelisin'' diye ileri sürse
 
 ### Eksik Olan Ne
 
-Conspicuously absent from the above list are traditional virtues such as courage, honesty, integrity and so on – as well as their opposites: cowardice, falsehood and corruption.
+Bariz bir şekilde; cesaret, dürüstlük, doğruluk ve benzerleri gibi geleneksel erdemler ve karşıtları olan korkaklık, yalancılık ve sahtekarlık yukarıdaki listede yoktur.
 
 It may seem that these virtues should fall into the realm of aesthetically positive behaviour, such as being on time, but I for one have far too much respect for the traditional virtues to place them in the same category as social niceties. The reason that they cannot be placed into the category of universally preferable is that, as we mentioned above, the framework of UPB only deals with *behaviours*, not with attitudes, thoughts, states of mind or emotions. The scientific method can process a logical proposition; it cannot process “anger” or “foolhardiness.” These states of mind are not unimportant, of course – in fact, they are essential – but they cannot be part of any objective system for evaluating ethical propositions, since they are essentially subjective – and therefore unprovable – states of being.
 
