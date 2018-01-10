@@ -142,13 +142,13 @@ Dengan demikian akan terlihat bahwa hanya kemungkinan logis untuk pencabulan ada
 
 Kenyataan bahwa kerangka UPB telah secara logis dan efektif memvalidasi proposisi moral bahwa pemerkosaan itu jahat - tidak "baik," atau "lebih baik secara estetis," atau "lebih baik secara pribadi," atau "netral secara moral" - adalah pertanda yang sangat baik. Itu tidak membuktikan melewati bayangan keraguan bahwa UPB akan memvalidasi secara logis seluruh proposisi moral ”akal sehat”, tapi rintangan pertama sudah berlalu, dan hal itu akan memberikan kita alasan besar untuk merayakan. Jika saya adalah seorang fisikawan yang mengajukan Teori Lapangan Bersatu, dan penerapan teori saya benar memprediksi di mana bola api yang dilemparkan akan mendarat, saya bisa dengan adil merasa sangat senang.
 
-Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. Validasi pertama selalu sulit, karena sangat mudah untuk mendapatkan hal yang salah, dan kesalahan selalu melewati ketepatan.
+Teori Einstein tentang relativitas meramalkan bahwa cahaya akan membengkokkan sebuah gravitasi dengan baik - ketika ini pertama kali dikonfirmasi, teori tersebut tidak membuktikan teorinya di balik bayang-banyangkeraguan, namun teori tersebut membuktikan bahwa teori tersebut *dapat* menjadi benar, yang merupakan lompatan besar ke depan. Validasi pertama selalu sulit, karena sangat mudah untuk mendapatkan hal yang salah, dan kesalahan selalu melewati ketepatan.
 
-Kerangka UPB telah secara benar memvalidasi premis moral kita bahwa pemerkosaan adalah kejahatan. Ini adalah kriteria yang diperlukan - namun tidak memadai - untuk bukti, dan sepenuhnya mendukung penyelidikan tambahan. Thus, let us continue…
+Kerangka UPB telah secara benar memvalidasi premis moral kita bahwa pemerkosaan adalah kejahatan. Ini adalah kriteria yang diperlukan - namun tidak memadai - untuk bukti, dan sepenuhnya mendukung penyelidikan tambahan. Jadi, mari kita lanjutkan…
 
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
+[^1]: Ini sangat berbeda dari serangan fisik, yang membinasakan kapasitas Anda untuk pilihan gratis.
 
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
+[^2]: Itu tidak dapat dikatakan bahwa pencabulan tidak melibatkan sebuah preferensi, sejak pencabulan adalah perilaku dan, seperti telah kita bahas di atas, semua perilaku melibatkan preferensi.
 
 [^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
 
