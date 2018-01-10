@@ -80,15 +80,15 @@ Dengan demikian pemerkosaan tidak bisa masuk dalam kategori APAs.
 
 ### Positif secara pribadi
 
-Perhaps rape is akin to a merely personal preference.[^2]
+Mungkin pemerkosaan mirip dengan preferensi pribadi saja.[^2]
 
 Pertanyaannya kemudian muncul: dapatkah klasifikasi pemerkosaan sebagai preferensi pribadi hanya berdiri untuk pengamatan logis?
 
-If we propose the moral rule: “personal preferences must be violently inflicted upon other people,” how does that stand up to the framework of UPB?[^3]
+Jika kita mengusulkan peraturan moral: "preferensi-preferensi pribadi harus ditimbulkan secara kejam pada orang lain," bagaimana hal itu sesuai dengan kerangka UPB?[^3]
 
 Pilihan pribadi tidak bisa dengan tepat dibebankan terhadap orang lain, karena itu akan menciptakan paradoks logis yang tidak dapat diatasi.
 
-Jika saya katakan bahwa menyukai grup band Queen diatas yang lainnya adalah perilaku yang lebih baik, atas dasar apa saya dapat membenarkan pernyataan itu? Hanya dengan mengatakan bahwa semua pilihan pribadi akan dibebankan terhadap orang lain. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Dengan demikian kita tidak bisa berdua menjadi moral pada waktu yang sama, karena hal itu menuntut kita berdua untuk memilih band masing-masing sementara dalam waktu yang sama menyerahkan pilihan pada band yang dipilih satu sama lain. Dengan kata lain, saya sekaligus harus berpikir bahwa Queen adalah band yang terbaik, dan bahwa polisi adalah band terbaik. Ini adalah kemustahilan, yang merupakan alasan utama mengapa hanya preferensi pribadi tidak dapat dilaksanakan secara universal.
+Jika saya katakan bahwa menyukai grup band Queen diatas yang lainnya adalah perilaku yang lebih baik, atas dasar apa saya dapat membenarkan pernyataan itu? Hanya dengan mengatakan bahwa semua pilihan pribadi akan dibebankan terhadap orang lain. Namun, jika preferensi pribadi saya dapat ditimpakan kepada Anda sesuka hati, maka dengan definisi UPB, preferensi pribadi Anda juga dapat ditimpakan terhadap *saya* sesukanya. Dengan demikian kita tidak bisa berdua menjadi moral pada waktu yang sama, karena hal itu menuntut kita berdua untuk memilih band masing-masing sementara dalam waktu yang sama menyerahkan pilihan pada band yang dipilih satu sama lain. Dengan kata lain, saya sekaligus harus berpikir bahwa Queen adalah band yang terbaik, dan bahwa polisi adalah band terbaik. Ini adalah kemustahilan, yang merupakan alasan utama mengapa hanya preferensi pribadi tidak dapat dilaksanakan secara universal.
 
 Dengan demikian jika perkosaan dianggap preferensi pribadi hanya, maka itu tidak logis akan diberlakukan pada orang lain. Sekali lagi, berpikir dua laki-laki di Kamar, ini akan memerlukan bahwa kedua orang lebih suka untuk memperkosa satu sama lain, namun tetap benar-benar mampu untuk menegakkan keputusan itu, yang tidak hanya tidak logis, tapi juga Untungnya benar-benar tidak praktis.
 
