@@ -20,13 +20,13 @@ Kita dapat menemukan *bukti* untuk pilihan; kita tidak dapat menemukan pilihan *
 
 Dengan mengesampingkan pertanyaan yang menantang tentang kehendak bebas versus determinisme, tenyata masuk akal untuk mengasumsikan bahwa apa pun yang dilakukan oleh seseorang pada saat ini adalah apa yang dia "lebih suka" lakukan. Jika saya bangun dan pergi bekerja, maka jelas saya * lebih suka * untuk melakukan itu, berlawanan dengan semua alternatif lainnya. Bahkan jika saya membenci pekerjaan saya, saya jelas membencinya * kurang * daripada, mengatakan, tidak punya uang sepeserpun.
 
-Mengingat bahwa manusia dapat melakukan berbagai tindakan yang hampir tak terbatas, apapun yang dilakukan seseorang pada saat ini dipilih dari semua pilihan lain yang mungkin dilakukan. Saya memilih untuk menulis buku ini daripada, katakanlah, belajar bagaimana cara tango.
+Kita ingat bahwa manusia dapat melakukan berbagai macam tindakan yang hampir tak terbatas, apapun yang dilakukan seseorang pada saat ini dipilih dari semua pilihan lain yang mungkin dilakukan. Saya tentu akan memilih untuk menulis buku ini daripada, berkata-kata, bagaimana belajar dengan cara tango.
 
-Ketika kita menerapkan fakta sederhana ini untuk argumen etis, kita mendapatkan beberapa hasil yang sangat menarik.
+Ketika kita akan menerapkan fakta sederhana untuk argumen etis, kita pasti akan mendapatkan beberapa hasil yang sangat menarik.
 
 ### Preferensi Dan Argumen
 
-Mengingat analisis di atas tentang argumen yang mengalahkan diri sendiri, kita dapat dengan mudah memahami sifat kontradiktif dari pernyataan tersebut: "pilihan tidak ada." Mengingat bahwa setiap tindakan manusia - termasuk membuat pernyataan filosofis - dipilih dalam pilihan setiap tindakan lain yang mungkin dilakukan, berdebat preferensi itu tidak ada memerlukan preferensi * * karena berpendapat bahwa preferensi tidak ada, yang merupakan pernyataan kontradiktif sendiri. Dengan berdebat bahwa preferensi tidak ada sama persis dengan mengatakan bahwa bahasa tidak ada. Ini adalah benar-benar argumen yang mengalahkan diri sendiri.
+Mengingat analisis di atas tentang argumen yang mengalahkan diri sendiri, kita dapat dengan mudah memahami sifat kontradiktif dari pernyataan tersebut: "pilihan tidak ada." Mengingat bahwa setiap tindakan manusia - termasuk membuat pernyataan filosofis - dipilih dalam pilihan setiap tindakan lain yang mungkin dilakukan, berdebat preferensi itu tidak ada memerlukan preferensi * * karena berpendapat bahwa preferensi tidak ada, yang merupakan pernyataan kontradiktif sendiri. Kalau berdebat bahwa preferensi tidak sama persis dengan mengatakan bahasa tersebut tidak ada. Ini adalah benar-benar argumen yang mengalahkan diri sendiri.
 
 Karena tidak mungkin bertindak tanpa mengungkapkan pilihan - baik secara implisit maupun eksplisit - siapa pun yang bertindak menerima premis bahwa ada pilihan. Dengan demikian tidak akan mungkin untuk memperdebatkan adanya preferensi tanpa diterima preferensi tersebut.
 
