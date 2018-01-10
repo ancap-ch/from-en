@@ -114,7 +114,7 @@ Namun, para filsuf yang menentang *semua* kesalahan intelektual adalah musuh sum
 
 Metode ilmiah mensyaratkan bahwa setiap tesis didukung oleh bukti-bukti dan rasionalitas. Karena tidak ada bukti untuk dewa – dan *ide* dewa bawaan kontradiksi-diri – tesis "dewa-dewa yang ada" tidak dapat berdiri. Tak pelak, agama parasit upaya untuk mempertahankan tesis mereka dengan mencoba untuk membagi realitas menjadi "dua alam" – ilmiah dan spiritual. Namun, tidak ada bukti adanya wilayah "spiritual" di masa sekarang ini, apalagi ada paralelitas Platonis "Bentuk" dua ribu lima ratus tahun yang lalu.
 
-Dengan demikian pembentukan konsisten dan kebenaran universal tentu batas dan menghancurkan eksploitatif potensi ilusi. Secara khusus, "kebenaran besar", yang universal dan konsisten, membuat berlebihan dan konyol "kebenaran tengah" - yang sebenarnya adalah fantasi eksploitatif. Kami mengenal dengan "kebenaran tengah" dari agama; Beberapa orang akan diperiksa dan diwahyukan di sini, beberapa di antaranya mungkin akan mengejutkan Anda.
+Dengan demikian pembentukan konsisten dan kebenaran universal tentu batas dan menghancurkan eksploitatif potensi ilusi. Secara khusus, "kebenaran besar", yang universal dan konsisten, membuat berlebihan dan konyol "kebenaran tengah" - yang sebenarnya adalah fantasi eksploitatif. Kami mengenal dengan "kebenaran tengah" dari agama; Beberapa orang akan diperiksa dan diwahyukan di sini, beberapa di antaranya mungkin akan mengejutkan anda.
 
 ### Parasitisme yang efektif
 
