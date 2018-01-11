@@ -5,7 +5,7 @@ Below there's an enumerated list of styled pangrams, that shows every character,
 1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
 2. numbers: 0123456789. 
 3. symbols: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
-4. emphasys: *The quick, brown fox jumps over a lazy dog.* 
+4. emphasys: *Hızlı, kahverengi tilki tembel bir köpeğin üzerinden atlar.* 
     1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
     2. inner emphasys: **The *The quick, brown fox jumps over a lazy dog* dog.** 
         1. en: The quick, brown *fox* **jumps *over* a** lazy dog.
@@ -18,14 +18,14 @@ Below there's an enumerated list of styled pangrams, that shows every character,
 
 Now a non-enumerated list:
 
-* First level
-* First level 
-    * Second level
-    * Second level 
-        * Third level
-        * Third level
-    * Second level
-* First level
+* İlk seviye
+* İlk seviye 
+    * İkinci seviye
+    * İkinci seviye 
+        * Üçüncü seviye
+        * Üçüncü seviye
+    * İkinci seviye
+* İlk seviye
 
 Some quotation. First line is large; second line is small; third line is empty; fourth line is not. 5th line is not a quotation; 6th line is:
 
