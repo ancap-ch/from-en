@@ -18,7 +18,7 @@ No, wherever ethical theories are corrupt, self-contradictory and destructive, t
 
 Any ethicist, then, who focuses on mere criminality, rather than the institutional crimes supported by ethical theories, is missing the picture almost entirely, and serving mankind up to the slaughterhouse. A doctor who, in the middle of a universal and deadly plague, focused his entire efforts on communicating about the possible health consequences of being slightly overweight, would be considered rather deranged, and scarcely a reliable guide in medical matters. If your house is on fire, mulling over the colours you might want to paint your walls might well be considered a sub-optimal prioritisation.
 
-Private criminals exist, of course, *but have almost no impact on our lives comparable to those who rule us on the basis of false moral theories*. Once, when I was eleven, another boy stole a few dollars from me. Another time, when I was twenty-six, I left my ATM card in a bank machine, and someone stole a few hundred dollars from my account.
+Private criminals exist, of course, *but have almost no impact on our lives comparable to those who rule us on the basis of false moral theories*. Bir keresinde, on bir yaşımdayken, başka bir çocuk benden bir kaç dolar çalmıştı. Başka bir zaman, ben yirmi altı yaşımdayken, ATM kartımı banka makinesinin içinde bırakmıştım, ve biri hesabımdan bir kaç yüz dolar çalmıştı.
 
 On the other hand, I have had hundreds of thousands of dollars taken from me by force through the moral theory of “taxation is good.” I was forced to sit in the grim and brain-destroying mental gulags of public schools for fourteen years, based on the moral theory that “state education is a virtue.”[^12]
 
@@ -34,8 +34,8 @@ Nitekim, şiddet ve ahlaksızlık ile ilgilenen bir filozof olarak, kişisel su�
 
 The violations that I experienced at the hands of private criminals fade to insignificance relative to even *one day* under the tender mercies of my “virtuous and good masters.”
 
-If, then, the greatest dangers to mankind are false ethical theories, then our highest prioritisation should be the discovery, communication and refinement of a valid, rational, empirical and consistent ethical theory. If we discover that most plague victims are dying from impure water, then surely telling them to purify their water should be our first and highest priority.
+If, then, the greatest dangers to mankind are false ethical theories, then our highest prioritisation should be the discovery, communication and refinement of a valid, rational, empirical and consistent ethical theory. Eğer salgın kurbanlarından çoğu saf olmayan su yüzünden ölüyorsa, o zaman kesinlikle, sularını arındırmalarını söylemek en büyük önceliğimiz olmalı.
 
-Let us now turn to that task.
+Şimdi bu göreve geçelim.
 
 [^12]: Or, rather: “*forced* education is a virtue” – my parents were compelled to pay through taxes, and I was compelled to attend.
