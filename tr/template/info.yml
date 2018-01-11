@@ -33,7 +33,7 @@ persons:
   - 
     person: [ ]
     identifier: "template_person"
-    rule: "collaborator"
+    rule: "işbirlikçi"
   - 
     person: [ ]
     identifier: "template_person"
@@ -45,7 +45,7 @@ persons:
   - 
     person: [ ]
     identifier: "template_person"
-    rule: "reviwer"
+    rule: "eleştirmen"
   - 
     person_: [ ]
     identifier: "template_person"
