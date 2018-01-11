@@ -1,4 +1,4 @@
-## The Second Test: Murder
+## İkinci Test: Cinayet
 
 Let us now test the UPB framework against moral propositions regarding *murder*, which here is defined as killing intentionally and with premeditation, not in self-defence.
 
