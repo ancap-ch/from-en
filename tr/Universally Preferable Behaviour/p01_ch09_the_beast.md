@@ -28,9 +28,9 @@ Eğer korkunç bir salgına maruz kalmış büyük bir şehirde bir doktor olsay
 
 Eminim ki çatılara çıkıp salgının içme sularından kaynaklandığını avazım çıktığınca bağırırdım. Eminim ki insanların yakalandığı bu hastalığın gerçek kaynağını anlaması için bütün önlemleri alırdım.
 
-Surely, in the knowledge of such universal and preventable poisoning, I should not waste my time arguing that the true danger you faced was the tiny possibility that some random individual might decide to poison you at some point in the future.
+Eminim ki, bu kadar evrensel ve önüne geçilebilir bir zehirlenmenin bilgisiyle, zamanımı yüzleştiğiniz gerçek tehlikenin rastgele bir bireyin gelecekte sizi zehirlemeye karar verebileceğiyle ilgili küçük bir ihtimali tartışmakla harcamazdım.
 
-Thus, as a philosopher concerned with violence and immorality, should I focus on private criminals, or public criminals?
+Nitekim, şiddet ve ahlaksızlık ile ilgilenen bir filozof olarak, kişisel suçlulara mı odaklanmalıyım, yoksa umumi olanlarla mı?
 
 The violations that I experienced at the hands of private criminals fade to insignificance relative to even *one day* under the tender mercies of my “virtuous and good masters.”
 
