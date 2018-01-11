@@ -1,4 +1,4 @@
-## The Beast
+## Canavar
 
 An objective review of human history would seem to point to the grim reality that by far the most dangerous thing in the world is *false ethical systems*.
 
@@ -22,7 +22,7 @@ Private criminals exist, of course, *but have almost no impact on our lives comp
 
 On the other hand, I have had hundreds of thousands of dollars taken from me by force through the moral theory of “taxation is good.” I was forced to sit in the grim and brain-destroying mental gulags of public schools for fourteen years, based on the moral theory that “state education is a virtue.”[^12]
 
-The boy (and the man) who stole my money doubtless used it for some personal pleasure or need. The government that steals my money, on the other hand, uses it to oppress the poor, to fund wars, to pay the rich, to borrow money and so impoverish my children – and to pay the salaries of those who steal from me.
+Paramı çalan çocuk (ve adam) şüphesiz ki o parayı kişisel zevk ve ihtiyaçları için kullandı. Diğer yandan, paramı çalan hükümet, fakire zulmetmek, savaşa ödenek sağlamak, zengini doyurmak, para borç almak ve böylece çocuklarımı fakirleştirmek - ve benden çalan kişilerin maaşlarını ödemek için kullanıyor.
 
 If I were a doctor in the middle of a great city struck down by a terrible plague, and I discovered that that plague was being transmitted through the water pipes, what should my rational response be – if I claimed to truly care about the health of my fellow citizens?
 
