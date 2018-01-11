@@ -24,9 +24,9 @@ On the other hand, I have had hundreds of thousands of dollars taken from me by 
 
 Paramı çalan çocuk (ve adam) şüphesiz ki o parayı kişisel zevk ve ihtiyaçları için kullandı. Diğer yandan, paramı çalan hükümet, fakire zulmetmek, savaşa ödenek sağlamak, zengini doyurmak, para borç almak ve böylece çocuklarımı fakirleştirmek - ve benden çalan kişilerin maaşlarını ödemek için kullanıyor.
 
-If I were a doctor in the middle of a great city struck down by a terrible plague, and I discovered that that plague was being transmitted through the water pipes, what should my rational response be – if I claimed to truly care about the health of my fellow citizens?
+Eğer korkunç bir salgına maruz kalmış büyük bir şehirde bir doktor olsaydım, ve bu salgının su boruları ile iletildiği keşfetseydim, eğer gerçekten vatandaşlarımın sağlığını düşünüyor olsaydım- mantıklı yanıtım ne olurdu?
 
-Surely I should cry from the very rooftops that their drinking water was causing the plague. Surely I should take every measure possible to get people to understand the true source of the illness that struck them down.
+Eminim ki çatılara çıkıp salgının içme sularından kaynaklandığını avazım çıktığınca bağırırdım. Eminim ki insanların yakalandığı bu hastalığın gerçek kaynağını anlaması için bütün önlemleri alırdım.
 
 Surely, in the knowledge of such universal and preventable poisoning, I should not waste my time arguing that the true danger you faced was the tiny possibility that some random individual might decide to poison you at some point in the future.
 
