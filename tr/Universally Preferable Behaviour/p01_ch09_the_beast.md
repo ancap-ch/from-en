@@ -2,7 +2,7 @@
 
 An objective review of human history would seem to point to the grim reality that by far the most dangerous thing in the world is *false ethical systems*.
 
-If we look at an ethical system like communism, which was responsible for the murders of one hundred seventy million people, we can clearly see that the real danger to individuals was not random criminals, but *false moral theories*. Similarly, the Spanish Inquisition relied not on thieves and pickpockets, but rather priests and torturers filled with the desire to save the souls of others. Nazism also relied on particular ethical theories regarding the relationship between the individual and the collective, and the moral imperative to serve those in power, as well as theories “proving” the innate virtues of the Aryan race.
+Yüz yetmiş milyon insanın ölümünden sorumlu olan, komünizm gibi etik bir sisteme bakacak olursak, net bir şekilde görebiliriz ki bireyler için gerçek tehlike rastgele suçlular değil,* yanlış ahlaki teorilerdir*. Benzer olarak, İspanyol Engizisyonu hırsızlara ve yankesicilere dayanmıyordu, aksine diğerlerinin ruhlarını kurtarma isteğiyle dolmuş papaz ve işkencecilere dayanıyordu. Nazism also relied on particular ethical theories regarding the relationship between the individual and the collective, and the moral imperative to serve those in power, as well as theories “proving” the innate virtues of the Aryan race.
 
 Over and over again, throughout human history, we see that the most dangerous instruments in the hands of men are not guns, or bombs, or knives, or poisons, but rather *moral theories*. From the “divine right of kings” to the endlessly legitimised mob rule of modern democracies, from the ancestor worship of certain Oriental cultures to the modern deference to the nation-state as personified by a political leader, to those who pledge their children to the service of particular religious ideologies, it is clear that by far the most dangerous tool that men possess is *morality*. Unlike science, which merely describes what is, and what is to be, moral theories exert a near-bottomless influence over the hearts and minds of men by telling them what *ought* to be.
 
@@ -30,7 +30,7 @@ Eminim ki çatılara çıkıp salgının içme sularından kaynaklandığını a
 
 Eminim ki, bu kadar evrensel ve önüne geçilebilir bir zehirlenmenin bilgisiyle, zamanımı yüzleştiğiniz gerçek tehlikenin rastgele bir bireyin gelecekte sizi zehirlemeye karar verebileceğiyle ilgili küçük bir ihtimali tartışmakla harcamazdım.
 
-Nitekim, şiddet ve ahlaksızlık ile ilgilenen bir filozof olarak, kişisel suçlulara mı odaklanmalıyım, yoksa umumi olanlarla mı?
+Nitekim, şiddet ve ahlaksızlık ile ilgilenen bir filozof olarak, kişisel suçlulara mı odaklanmalıyım, yoksa umumi olanlara mı?
 
 The violations that I experienced at the hands of private criminals fade to insignificance relative to even *one day* under the tender mercies of my “virtuous and good masters.”
 
