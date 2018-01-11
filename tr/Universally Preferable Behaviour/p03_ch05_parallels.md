@@ -72,4 +72,4 @@ That is why the delineation of a rational framework for ethics is so essential.
 
 What we believe is what we become.
 
-If we believe lies, we shall become slaves.
+Eğer yalanlara inanırsak, köle oluruz.
