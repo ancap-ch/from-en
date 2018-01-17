@@ -1,54 +1,54 @@
-## The Null Zone Revisited
+## Yeniden Gidilen Geçersiz Bölge
 
-At the beginning of this book, I put forward a way of looking at how we process truth, analogising it to physics. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
+Bu kitabın başında, gerçeği nasıl işlediğimize bakmanın bir şeklini fizik ile benzerlikler kurarak ileri sürdüm. Beyzbol topunu yakalama "küçük gerçeğinden" fiziğin büyük doğrusuna ulaştık – ve büyük doğrular küçük doğrularla çelişemezler.
 
-The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
+Aynı şey ahlak için de geçerli. "Öldürmemeliyim" küçük gerçeğinden "güç kullanmaya başlamak ahlaki olarak yanlıştır" büyük gerçeğini elde edebiliriz.
 
-In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
+Fizik alanında, kişisel deneyimlerin mantıksal ekstapolasyonundan evrensel kurama geçiş önünde esas engel din olmuştur.
 
-For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
+Örneğin, hiç kimse mükemmel bir daireyi direk deneyimlememiştir; bu tarz varlıklar soyutlamalarda ve matematikte var olur, zihinde canlandırılamaz ve gerçek dünyada deneyimlenemezler. Mükemmel bir daire bildiğimiz kadarıyla doğanın hiçbir yerinde yok, kişisel deneyimlerin "küçük gerçekleri" veya fiziğin "büyük gerçekleri" gibi.
 
-However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
+Ancak binlerce yıl astronomi bilimi "mükemmel daire" arayışı ile sakatlandı. Gezegenlerin yörüngeleri mükemmel daire olmak zorundaydı çünkü Tanrı kendi yarattığı bir elipsin kusurlu olmasına asla izin veremezdi.
 
-The problem with this approach – well, one problem anyway – was the retrograde motion of Mars. From our planet, Mars at times appears to be moving “backwards,” as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
+Bu yaklaşımın problemi - aslında problemlerinden yalnızca biri - Mars'ın geriye doğru hareket etmesiydi. Bizim gezegenimizden Mars zaman zaman geriye doğru hareket eder şekilde görünür çünkü Dünya Mars'ı Güneş'in etrafındaki yörüngesinde geçer. "Mükemmel" daire takıntısı ile birlikte Dünya'nın güneş sisteminin merkezi olduğu yanlış kanısı, eliptik yörüngeleri ve Mars'ın geriye doğru hareketini hesaba katmak için saçmalık olan bütün bu mükemmel daireleri türeten Batlamyusçu astronomi kuramını üretti.
 
-Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
+Neden bu mükemmellik illüzyonu gök cisimleri için bir gereklilik olarak görülüyordu? Şüphesiz, Ay çukurlaşmış ve kraterli yüzeyi ile gökyüzünün kusurlu oluşunu destekliyor olarak görünecektir fakat dini bağnazlık anlık gezegenler arası direk duyusal kusur kanıtlarını bypass etti. Galileo'nun ay dağlarını, güneş lekesini ve Jüpiter'in aylarını keşfi dini sapkınlık olarak saldırıya uğradı.
 
-We can also turn this analysis to the question of the existence of God as well.
+Ayrıca bu tahlili Tanrı'nın varlığı sorununa da dönüştürebiliriz.
 
-We have no direct, empirical or rational evidence for the existence of God. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+Tanrı'nın varlığı hakkında doğrudan empirik ya da rasyonel hiçbir kanıta sahip değiliz. En soyut bilimsel ölçümler de Tanrı'nın varlığı hakkında hiçbir kanıt sağlamıyor- bizim kendi deneyimlediğimiz Tanrı'nın olmayışı gerçeği ile en soyut bilimsel ölçümler ve kuramlar arasında- ki bu Tanrı'nın olmadığını doğrular, *gerçeğin tüm rasyonel standartlarını tamamen tersine çeviren* bir çeşit geçersiz alan varedilmek isteniyor.
 
-### Bigotry
+### Bağnazlık
 
-Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+İnanışlar doğru, yanlış ya da *gerçek karşıtı* olabilir. Sahra Çölü'nün Kuzey Afrika'da olması doğru bir inanıştır, Sahra'nın İskoçya'da olması ise yanlış bir inanıştır, Sahra ben ne istersem odur ve ben nerede istersem oradadır inanışı *gerçek karşıtı* bir inanıştır. İlk inanış doğrudur, ikincisi yanlıştır - üçüncüsü gerçek kanıt kavramını imha eden bağnaz bir iddiadır.
 
-We can say:
+Öyleyse:
 
-1. X önermesi doğru çünkü akılcı.
-2. Y önermesi yanlış çünkü akıl mantıksız.
-3. Z önermesi doğru çünkü ben doğru olmasını *istiyorum*.
+1. X önermesi doğrudur çünkü rasyoneldir.
+2. Y önermesi yanlıştır çünkü rasyonel değildir.
+3. Z önermesi doğrudur çünkü ben bunun doğru olmasını *istiyorum*.
 
-The third assertion is a complete self-contradiction. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
+Üçüncü iddia tamamen kendisi ile çelişir. "Gerçek" arzulardan bağımsızdır, çünkü arzu tanımı gereği öznel bir tercihtir ve gerçek tanımı gereği fikirlerin mantığın nesnel standartlarına ve empirik gerçekliğe uymasıdır. Bir şey doğrudur çünkü ben öyle *istiyorum* demek öznellik ve nesnelliği eş tutmak demektir ki bu ifade tamamen kendisi ile çelişir.
 
-Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
+Bağnazca savlar - ya da "inanç" - tanım gereği test edilemezler çünkü onlar kanıt *olmadığına* inanmazlar fakat akla ve/veya kanıta *meydan okumaya* inanırlar.
 
-We can believe unproven things that turn out to be true – someone doubtless thought that the world was round before it was proven – but the “null zone” is the realm wherein we cling to a belief in things that *could not possibly turn out to be true*.
+Gerçek haline gelmiş olan ispatlanmamış şeylere inanabiliriz - birileri dünyanın düz olduğunu kanıtlanmadan önce tereddütsüz düşünüyordu - fakat "geçersiz bölge" *muhtemelen gerçek olamayacak* şeylere inanmaya tutunduğumuz alandır.
 
-If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. If I say that I believe that a square circle exists, then I am making an explicitly self-contradictory statement, which disproves itself. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+Eğer iki artı iki beş eder dersem, mantık ile düzeltilebilecek bir hata yapıyorumdur. Eğer ben kare şeklinde bir çemberin olduğuna inandığımı söylersem çok açık bir şekilde kendisiyle çelişen bir ifade kullanıyorumdur ki bu kendisini çürütür. Bununla birlikte, "foo artı tury eşittir desty" olduğunu üstüne basa basa iddia etsem - ve kullandığım bu terimleri tanımlamayı reddetsem - mantık ve kanıta *başvurulamayacak* bir ifade kullanmış olurum.
 
-### Next Stop: The "Alternative Universe"
+### Bir sonraki durak: ''Alternatif Kainat'' 
 
-In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
+Genellikle insanlar kendi empirik ve mantıksal olmayan inanışlarını korumayabilmek için içerisinde her nasılsa kendisi ile çelişen ifadelerin doğru olabildiği bir "alternatif alan" veya "alternatif evren" yaratırlar.
 
-If I say: “A square circle exists,” I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
+Eğer "Kare şeklinde bir daire vardır." dersem, bu evrende açıkça imkansız olan bir şeyi ileri sürmüş olurum. Bu yüzden, eğer kendi inanışımı korumak istiyorsam kare şeklinde bir dairenin olabildiği, evrenimiz "dışında" başka bir evren veya alan icat etmeliyim.
 
-If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
+Eğer kendisi ile çelişenin gerçeğe eşit olduğu bir alan uydurursam, kare şeklinde bir dairenin *olmadığını* söyleyenlerin bağnaz ve önyargılı olduğunu iddia edebilirim çünkü onlar gerçek *olabilecek* ihtimalleri ortadan kaldırıyorlar.[^1]
 
-With regards to this “null zone,” only two possibilities really exist. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
+Bu "geçersiz bölge" açısından sadece ihtimal gerçekten vardır. Ya bu *geçersiz bölge* evrenimizden tamamen bağımsız bir şekilde vardır ve asla hiçbir şekilde şekli ya da formu ölçülemez, algılanamaz ve keşfedilemez ya da bazı noktalarda biz kendisi ile çelişenin gerçeğe eşit olduğu bu büyülü yeri algılayabilir ve onunla etkileşime geçebiliriz.
 
-If, at some point, it turns out that we *are* able to interact with this *null zone*, then we shall have direct sensual or rational evidence of its existence. In other words, it must “protrude” into our universe in some manner. However, the moment that it becomes detectable in our universe, it must have rational and empirical existence, like everything else we can detect. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
+Eğer bazı noktalarda *biz* bu *geçersiz bölge* ile etkileşime geçebiliyorsak, o zaman onun varlığına ilişkin direk duyusal veya rasyonel kanıtlar elde etmeliyiz. Başka bir deyişle, bir şekilde bizim evrenimize uzanmış olmalı. Ancak bizim evrenimizde algılanabilir hale geldiği zaman, rasyonel ve empirik varoluşa sahip olmalı tıpkı algılayabildiğimiz her şey gibi. Böylece bunlar başka bir ifade ile bizim evrenimize uzananlar, *bizim evrenimizde kare şeklinde bir dairenin varlığını destekleyecek bir alan yaratamazlar*.
 
-We can thus be certain that if we *are* ever able to detect this other universe, the evidence we gather will in no way support the existence of self-contradictory statements. Square circles, gods and other self-contradictory concepts cannot hide there, any more than they can hide in the wet dreams of leprechauns.
+Bu yüzden şundan emin olabiliriz, eğer *biz* bu diğer evreni şimdiye kadar algılayabilseydik, topladığımız kanıtlar hiçbir şekilde kendisiyle çelişen ifadelerin varlığını desteklemezdi. Square circles, gods and other self-contradictory concepts cannot hide there, any more than they can hide in the wet dreams of leprechauns.
 
 On the other hand, if it turns out that we are *never* able to detect this other universe, and it remains a completely theoretical entity, with no evidence or rationality to support it, then it is simply a conceptual bag in which it is “convenient” to place things that are obviously not true.
 
