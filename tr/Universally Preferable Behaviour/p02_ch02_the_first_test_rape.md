@@ -22,134 +22,134 @@ Aynı şekilde, bir odadaki iki adam aynı durumda kabul edilmelidir. Onlardan s
 
 Ayrıca, eğer Evrensel Uygun Davranışın zamandan bağımsız olması gerektiğini hatırlarsak bu durumda mantıksal bir problemle karşı karşıyayız, belirli bir noktada basitçe tecavüzcünün tecavüz etmesi artık mümkün olmayacaktır, çünkü fiziksel olarak erekte olması mümkün olmayacaktır. Bir noktada, ''iyi iş çıkarma'' becerisi imkansız hale gelir. ''Kaçınılabilirlik'' ahlak için anahtar bir kriter olduğundan, ama fiziksel olarak iyi olmaya yetersiz olduğundan - başka bir deyişle kötü olmaktan kaçınması mümkün değildir. Bu durumda başka bir adama tecavüz etmemesinden sorumlu tutulamaz.
 
-If a man hanging from a tree over a canyon lets go because he lacks the strength to continue holding on, we would not call that a suicide, since the choice to hang on was no longer available to him. If he lets go although he has the strength to continue holding on, the case would not be quite so clear.
+Bir adam kanyonun üstündeki bir ağaçtan sarkarken daha fazla tutabilecek gücü kalmadığında ellerini bırakırsa, tutunmak artık onun için bir seçenek olmadığından ötürü, biz bunu intihar olarak adlandırmazdık. Ancak tutmaya devam edebilecek gücü olduğu halde bırakırsa, durum oldukça açık olamazdı.
 
-#### The Coma Test
+#### Koma Testi
 
-Intuitively, it is hard to imagine that any theory ascribing immorality to a man in a coma could be valid. Any ethical theory that posits a positive action as universally preferable behaviour faces the challenge of “the coma test.” If I say that giving to charity is a moral absolute, then clearly not giving to charity would be immoral. However, a man in a coma is clearly unable to give to charity, and thus would, by my theory, be classified as immoral. Similarly, a man who is asleep, or has no money to give – or the man currently *receiving* charity – would all be immoral.
+Sezgisel olarak, komadaki birine ahlaksızlık yapmayı kabul edilebilir olarak açıklayan bir kuram hayal etmek zordur. Evresel olarak tercih edilebilir davranış gibi olumlu eylemleri ileri süren her teori "koma testi"nin meydan okumasıyla yüzleşir. Ancak, komadaki bir insan açıkça hayır işleri yapamıyordur ve bu yüzden benim kuramımca ahlak dışı olarak sınıflandırılacaktır. Benzer şekilde, uykudaki biri veya hiç parası olmayan biri - ya da şuan yardım *almakta* olan biri - ahlaksız olacaktır.
 
-This is another central problem with any theory that posits a positive action such as “rape” as moral. At any given time, there are any number of people who are unable to perform such positive actions, who must then be condemned as evil, even though they have no capacity to be “good.” However, if it is impossible to avoid being “evil,” then clearly evil as a concept makes no sense. In the example above of the rock crashing down a hill, the rock is not “evil” for hitting your car, since it has no capacity to avoid it of its own free will. If a man’s brakes fail right after they have been serviced, then it is not his responsibility for failing to come to a stop. If he has never once had his brakes serviced in ten years, then his irresponsibility is the proximate cause of his continued momentum, and he can be blamed.
+Bu "tecavüz" kadar ahlaki olan olumlu davranışları öneren her kuramın diğer bir esaslı sorunudur. Herhangi bir zamanda çok sayıda böyle olumlu davranışlar sergileyemeyen insanlar "iyi" olma kapasiteleri olmasa dahi kötü olmakla kınanmalıdırlar. Ancak, eğer kötü olmaktan kaçınmak imkansız ise açıktır ki kötü anlamsız bir kavram olur. Yukarıdaki bir tepeden aşağı düşmekte olan kaya örneğinde kaya senin arabana düştüğü için "kötü" değildir çünkü onun kendi hür iradesiyle bunu yapmaktan kaçınabilme kapasitesi yoktur. Eğer bir adamın frenleri servise gittikten hemen sonra tutmazsa, durmakta başarısız olma onun sorumluluğunda değildir. Eğer o frenlerini on yıldır bir kez bile servise göstermediyse o zaman onun bu sorumsuzluğu devam eden hız kusurunun sebebidir ve o suçlanabilir.
 
-In this way, the concept of “avoidability” retains its use. A man in a coma is unable to avoid lying in his bed, since he is in a state of quasi-unconsciousness. Since he is unable to avoid his actions – or inaction in this case – his immobility cannot be immoral.
+Bu şekilde "önlenilebilirlik" kavramı kullanımda kalır. Komadaki bir adam yatağına uzanmaktan kaçınmaya muktedir değildir çünkü o bilinçsizlik benzeri bir durumdadır. Bu eyleminden kaçınma konusunda muktedir olmadığı - bu meselede hareket edemediği - için onun hareketsizliği ahlak dışı olamaz.
 
-At this point, the objection can quite reasonably be raised that if a man in a coma cannot be immoral, then he also cannot be moral. However, earlier we said that the opposite of an immoral action must be moral. If we propose the moral rule, “thou shalt not rape,” then can we call the man in a coma *moral*, since he does not rape?
+Bu noktada, eğer komadaki bir adam ahlak dışı değilse ahlaklı da olamaz itirazı oldukça mantıklı olabilir. Ancak, ilk başta dediğimiz gibi ahlak dışı olanın karşıtı ahlaklı olmak zorundadır. Eğer biz "tecavüz etmemelisin" ahlaki kuralını önerirsek o zaman komadaki bir adam tecavüz etmediği için ona *ahlaklı* mı diyeceğiz?
 
-#### Capacity
+#### Kapasite
 
-The concept of “avoidability” works in the positive as well as in the negative. If I have lost my genitals in some ghastly accident, am I moral for refraining from rape? It would seem hard to argue that I could be, since genital rape at least is impossible for me. Similarly, we may call a man “generous” if he gives one hundred dollars to a beggar – however, we would doubtless revise our estimation if it turned out that he gave away his money while sleepwalking, and woefully regretted his action on waking.
+"Kaçınabilirlik" kavramı olumlu olarak çalıştığı gibi olumsuz yönde de çalışır. Bir korkunç kaza ile genital organımı kaybedersem, tecavüzden kaçındığım için ahlaklı mıyım? Ahlaklı olabileceğim tezini savunmak zor olacaktır çünkü en azından genital tecavüz benim için imkansızdır. Benzer şekilde, biz eğer bir adam bir dilenciye yüz dolar verirse ona cömert diyebiliriz ancak adam uyurgezer bir haldeyken bu işi yapmışsa ve bundan acı bir pişmanlık duyuyorsa görüşümüzü değiştiririz.
 
-Thus we can reasonably say that where choice is absent, or inapplicable, morality is also absent, or inapplicable. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
+Dolayısıyla, şunu mantıklıca söyleyebiliriz: nerede seçim yoksa veya uygulanamıyorsa orada ahlak da yoktur ve uygulanamıyordur. Bu yüzden komadaki adamın davranışları kötü olarak nitelenemeyeceği gibi iyi olarak da nitelenemez. O bu durumda tercih etmeden bulunuyordur tıpkı bir bebek veya hayvan gibi, bundan dolayı o ETD'ın izin verebileceği mantıklı bir şekilde ahlak kurallarından muaf tutulabilir, çünkü tercih edebilen birinden onu nesnel olarak ayıran fiziksel durumu söz konusudur.
 
-With that in mind, let us continue our examination of rape.
+Bunu akılda tutarak tecavüz üzerine açıklamamıza devam edelim.
 
-### Aesthetically Positive
+### Estetik olarak olumlu
 
-Aesthetically positive actions (APAs) are universally preferable, but not enforceable through violence, since aesthetically negative actions do not initiate the use of force. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
+Estetik olan pozitif eylemler (APA'lar) evrensel olarak tercih edilebilirler, estetik olarak olumsuz eylemler güç kullanımını başlatmadığından ötürü şiddet yoluyla dayatılamazlar. Yukarıda tartıştığımız gibi, sizinle görüşmeye geç kalırsam, size karşı güç kullanımını başlatmamış olurum, ve sizin seçim ve de durumdan sıyrılma kapasitenizi elinizden almamış olurum.
 
-If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
+APA'ların şiddet yoluyla dayatılabildiğini söylersek, o zaman şiddetin başlatılmasının ahlakça iyi olduğunu söylemiş oluruz.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+Eğer şiddet başlatımının ahlakça iyi olduğunu belirten bir ahlak kuralı önerdiğimizde bu kural, “tecavüz ahlaken iyidir” kuralı gibi bütün mantıksız olanaklarla yüzleşir.
 
-Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+Bir odadaki iki adam, birinin diğerine karşı şiddete başvurduğu ve diğerinin buna karşı koyduğu sırada aynı anda ahlaki olarak iyi olamaz - eğer o buna karşı koymuyorsa, yukarıda tartıştığımız cerrah örneğindeki gibi, bu durum şiddetin tanımı olamaz. Böylece erdem, sadece erdeme karşı direnilerek açığa çıkabilir, ve aynı şartlar altındaki iki adam, aynı anda ahlaklı olamaz, ve bunlar gibi - tümü UPB'nin ihlalleridir.
 
-Thus we know that rape cannot be an APA.
+Böylelikle biz tecavüzün APA olamaycağını biliyoruz.
 
-We can confirm this by reviewing the reasons why “being on time” *is* an APA.
+Bunu geç kalmamanın neden EOD olduğunun gerekçelerini gözden geçirerek doğrulayabiliriz.
 
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
+İlk olarak, sezgisel olarak biz şunu anlarız: sürekli geç kalan bir arkadaşını reddetmek, dondurmayı sevmediği için bir arkadaşını reddetmekten çok daha adildir.
 
-Why is that?
+Nedenmiş o?
 
-Once again, the UPB framework comes to the rescue.
+Bir kez daha, UPB yapısı kurtarmaya geliyor.
 
-An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
+Bir EOD *eş zamanlı olarak her iki tarafa da rasyonel olarak uygulanabilen zorlayıcı olmayan kuraldır*.
 
-For instance, if my APA is: “be on time,” then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+Örneğin, eğer benim EODum: geç kalmamak ise bu tamamen kaçınılabilir evrensel standart olabilir. Bu EODu sana güç kullanarak kabul ettiremem çünkü sen benim arkadaşım olmak zorunda değilsin, geç kalmamak zorunda değilsin hangi şekilde olursa olsun benim tercihlerime saygı duymak veya onlara uymak zorunda değilsin.[^1]
 
-If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
+Eğer geç kalmamak bir EOD ise o zaman bunu iki insanın aynı anda başarması mümkündür - eğer ikisi de zamanında gelirse.
 
-With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
+Yukarıda gördüğümüz üzere zorlama ile olsa da bunu iki insanın aynı anda gerçekleştirmesi imkansızdır. Biri her zaman saldırgan diğeri ise daima kurban olmak zorundadır.
 
-On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
+Diğer yandan, ben caz sevmek EODdır dersem o zaman hemen mantıksal bir imkansızlığa toslarım. Hatırlayın, EODlar iki tarafında eş zamanlı olarak uygulayabileceği zorlayıcı olmayan kurallardır - caz sevmenin doğru formülasyonu şudur: "öznel tercihler evrensel olarak tercih edilebilirler."
 
-Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
+Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. Eğer ben cazı müziğin diğer türlerine karşı tercih ediyorsam fakat sen klasik müziği müziğin diğer türlerine karşı tercih ediyorsan ve eğer kişisel tercihler evrensel olarak tercih edilebilirse o zaman ben caz müziği tercih ettiğim için sen de etmelisin, sen klasik müziği tercih ettiğin için ben de etmeliyim. Bu, tabiki de mümkün değildir, çünkü ikimizinde *diğer bütün müzik türlerinin üstünde aynı anda hem caz hem de klasik müzik tercih etmemizi* gerektirirdi. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
 
 Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
 
-Thus rape cannot fall into the category of APAs.
+Nitekim tecavüz APA kategorisine dahil edilemez.
 
-### Personally Positive
+### Kişilik olarak olumlu
 
-Perhaps rape is akin to a merely personal preference.[^2]
+Belki de tecavüz sadece kişisel tercihlere benzer.[^2]
 
-The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
+O zaman soru doğuyor: tecavüzün yalnızca kişisel tercih olarak sınıflandırılması mantıksal bir detaylı incelemeye dayanabilir mi?
 
-If we propose the moral rule: “personal preferences must be violently inflicted upon other people,” how does that stand up to the framework of UPB?[^3]
+Eğer "kişisel tercihler diğer insanlara şiddetle yüklenmeli" şeklinde bir ahlak kuralı önerecek olduğumuzda bu, UPB yapısına nasıl ayak uydurabilir?[^3]
 
-Personal preferences cannot be justly inflicted upon other people, because that would create an insurmountable logical paradox.
+Kişisel tercihler başka insanlar üzerinde adilce yapılamaz, çünkü bu aşılmaz mantıksal bir paradoks yaratır.
 
-If I say that liking the band Queen above all others is universally preferable behaviour, on what grounds could I justify that statement? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
+Eğer Queen grubunu diğerlerinden daha çok beğendiğimi söylersem bu, evrensel olarak tercih edilmiş bir davranış olur, hangi gerekçelerle bu ifadeyi haklı çıkarabilirim? Sadece, tüm kişisel tercihlerin başkalarına verilmesi gerektiğini söyleyerek. Ancak, kişisel tercihlerim size irademle verilebilirse, o zaman UPB'nin tam tanımıyla, sizin kişisel tercihleriniz de iradenizle *bana* verilebilir. Böylece ikimiz de aynı anda ahlaksız olamayız, çünkü aynı zamanda kendi gruplarımızı tercih etmemizi, hem de zamanda bu tercih edilen gruplarımızı tercih etmemizi gerektirecektir. Başka bir deyişle, hem The Police'in en iyi grup olduğunu, hem de aynı zamanda Queen'in en iyi grup olduğunu düşünmem gerekir. Sırf kişisel tercihlerin evrensel olarak uygulanamazlığı, bu mantıksal imkansızlığın ana sebebidir.
 
-Thus if rape is considered to be a merely personal preference, then it cannot logically be enforced upon anybody else. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
+Nitekim tecavüz sırf kişisel bir tercih olarak görülseydi, o zaman mantıklı olarak hiç kimsenin üzerinde zorlanamazdı. Yine, bir odadaki iki adama baktığımızda bu durum, iki adamın birbirlerine tecavüz etme tercihinde bulunmalarını gerektirirdi ama bu mantığa aykırı ve de neyse ki tümüyle pratik olmayan karar, tamamen uygulanamayacak haldedir.
 
 Finally, since personal preferences cannot be enforced on others, but rape is by definition the enforcement of a “preference” upon another, rape cannot be in the moral category of merely personal preferences.
 
-### Morally Neutral
+### Ahlaken Nötr
 
-As discussed above, rape cannot be a morally neutral action, since it is a preference that is enforced upon another.
+Yukarıda tartışıldığı üzere tecavüz ahlaken nötr bir davranış olamaz çünkü bu başkası üzerinde uygulanan bir tercihtir.
 
-### Personally Negative
+### Kişilik olarak olumsuz
 
-Perhaps rape is a *personally negative* action, the opposite of number three. As an example, a criminal on the run would consider capture a personally negative action (PNA).
+Belki tecavüz bir *kişisel olarak olumsuz* davranıştır, üç numaranın tersine. Örnek olarak, kaçak bir suçlu kişisel olarak olumsuz davranış(KOD) yapmayı düşünecektir.
 
-Personally negative actions (PNAs) by definition cannot be enforced upon another. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
+Kişisel olarak olumsuz davranışlar(KODlar) tanımı gereği başkaları üzerinde zorla uygulanamazlar. Bu yüzden, tecavüze uğrayan birinin kendini savunma tercihini tecavüzcüsüne *tecavüz etmeme* şeklinde zorlamak yanlış olacaktır. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
 
-### Aesthetically Negative
+### Estetik olarak olumsuz
 
-Perhaps rape is an aesthetically *negative* action, like “being late” – the flip-side of number two above. However, aesthetically negative actions (ANAs) cannot logically be violently enforced *because by definition they can be avoided*. Since I can freely choose to stop associating with a man who continually shows up late, I cannot shoot him for being late.
+Belki de tecavüz estetik olarak *olumsuz* bir davranıştır tıpkı geç kalmak gibi - yukarıdaki iki numaranın tam tersi. Ancak, estetik olarak olumsuz davranışlar(EODlar) mantıksal olarak şiddetle zorlanamazlar * çünkü tanım gereği kaçınılabilirler *. Ben özgürce sürekli geç gelen biri ile iletişimi kesmeyi tercih edebildiğim için ona geç kaldığından dolayı vuramam.
 
-However, rape by definition cannot be avoided, since it is a sexual attack enforced through violence.[^4] Also, if I choose to stop being friends with the tardy man mentioned above, he cannot justly force me to be his friend by threatening me with violence, since that would rely on the principle that merely personal preferences can be enforced on others, which would run fruitlessly up against my ability to enforce *my* desire to drop his friendship. This kind of “Tarantino morality” always ends up with everyone in a state of mute paralysis, pointing guns at each other’s faces like frozen statues.
+Ancak, tecavüz tanımı gereği kaçınılamazdır çünkü güç kullanarak gerçekleştirilen cinsel bir saldırıdır.[^4] Ayrıca, eğer ben yukarıda belirtilen sürekli geciken adamla arkadaşlığı kesersem o beni şiddet ile tehdit ederek arkadaşı olmaya zorlayamaz çünkü bu sadece kişisel tercihlerin başkalarına uygulanabileceği anlamına gelir ki arkadaşlığını bırakmayı *isteyebilme* yeteneğime karşı sonuçsuz kalacaktır. Bu çeşit "Tarantino ahlakı" herkesin donmuş bir heykel gibi birbirlerinin suratına silah doğrulturken sessizlik halinde felç olma durumu ile sona erer.
 
 As we have already established, any universally preferable behaviour must be universal to all people in all places at all times – if ANAs allow for violent enforceability (i.e. I can shoot you for being late) – then if rape is defined as an ANA which can be enforced, then the rape victim who finds rape an aesthetically negative action has the right to shoot his rapist, which effectively affirms the principle of self-defence, but at the expense of also allowing gun play in the opposition of, say, rudeness.
 
-Thus rape cannot be an ANA.
+Böylelikle tecavüz ANA olamaz.
 
-Which leaves only…
+sadece geriye kalan…
 
-### Evil
+### Kötülük
 
-If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil,” passes the “coma test,” insofar as it is impossible for a man in a coma to rape someone.
+Eğer tecavüz kötülük olarak tanımlanmışsa, o zaman bu, şiddet kullanım </em>başlatımını* da içermelidir ki açıkça öyledir. Ayrıca, "tecavüz kötüdür" önermesi, "koma testi"nden geçer, komadaki bir erkeğin başka birini tecavüz etmesi mümkün değildir.</p> 
 
-In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
+Buna ek olarak, eğer tecavüz kötü ise, o zaman tecavüz *etmemek* iyi olmalıdır - bu şekilde baktığımızda, bir odadaki iki adam, sırf birbirlerine tecavüz etmeden aynı anda ahlaklı olabilir.
 
-Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
+Kaçınılabilirlik, "nahoşluk" ve "ahlaksızlık" arasındaki anahtar farklılaştırıcıdan biri olduğundan, ve tecavüz açıkça kaçınılamayan bir davranış olduğundan, "kötü olarak tecavüz etmek" tanımı da bu ayrıma uymaktadır.
 
 Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
 
-The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+Tecavüzcü "tecavüz iyidir" önermesinden sıyrılarak eylemlerini haklı çıkarabilir, ve bunun yerine tecavüze olan arzusunu destekleyen başka bir önermenin yerine mesela şunu koyabilir: "Başkalarının hoşnutsuzluğundan ziyade, kendi zevkini almak ahlaklıdır."
 
-This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+Bu önerme, aynı zamanda UPB'nin en temel mantık testinde başarısız olur. Bob eğer ki Doug'a tecavüz ederek kendi zevkini tatmin etmesi gerektiğine inanırsa - Doug'ın hoşnutsuzluğuna aldırış etmeden - o zaman Bob mantıklı bir şekilde tercihini UPB'ye yükseltemez.
 
-If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
+Eğer herkes kendi zevkini kurbanlarının hoşnut*suz*luğuna aldırış etmeden almalıysa, o zaman Bob, Doug'a tecavüz etmeyi *tercih* etse de bunu yapmaya hakkı yoktur, Doug hiç şüphesiz tecavüz *edilmemeyi* tercih edecektir. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
 
 Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
 
-Of course, few rapists are philosophers, but as we mentioned above, the primary danger to human beings is not the individual criminal, but irrational and exploitive moral theories. For instance, incarceration is inevitably justified through an appeal to a moral theory – and incarceration causes far more people to be raped than private criminals could ever dream of. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
+Elbette, çok az tecavüzcü filozoftur, ancak yukarıda bahsettiğimiz gibi insanoğlu için birincil tehlike bireysel suçtan ziyade mantıksız ve sömürücü ahlak kuramlarıdır. Örneğin, hapis cezası kaçınılmaz olarak ahlaki bir teori için bir itiraz yoluyla haklı gösterilebilir - ve hapsetme, özel suçluların hayal edebileceğinden çok daha fazla kişiye tecavüz edilmesine sebep olur. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
 
 Thus it would seem that the only logical possibility for rape is that *not* raping is universally preferable behaviour – or that rape is universally banned behaviour.
 
-### Whew!
+### Vay canına!
 
-The fact that the UPB framework has logically and effectively validated the moral proposition that rape is evil – not “good,” or “aesthetically preferable,” or “personally preferable,” or “morally neutral” – is a very good sign. It does not prove beyond a shadow of a doubt that UPB will logically validate all “common sense” moral propositions, but the first hurdle has been passed, and that should give us great cause for celebration. If I were a physicist proposing a Unified Field Theory, and the application of my theory correctly predicted where a thrown baseball would land, I could justly be enormously pleased.
+The fact that the UPB framework has logically and effectively validated the moral proposition that rape is evil – not “good,” or “aesthetically preferable,” or “personally preferable,” or “morally neutral” – is a very good sign. It does not prove beyond a shadow of a doubt that UPB will logically validate all “common sense” moral propositions, but the first hurdle has been passed, and that should give us great cause for celebration. Eğer Birleşik Alan Kuramı öneren bir fizikçi olsaydım, ve teorimin uygulaması fırlatılan beyzbolun nereye gideceğini doğru bir şekilde tahmin etmek olsaydı, adil bir şekilde son derece memnun olurdum.
 
-Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
+Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. İlk doğrulama her zaman en zordur, çünkü işlerin yanlış anlaşılması kolaydır ve hata her zaman doğruluktan fazla olur.
 
-The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+The UPB framework has correctly validated our moral premise that rape is evil. Bu kanıtlar için gerekli bir ölçüt -ama yeterli değil- ve tamamıyla ek soruşturmayı destekler. Böylelikle, devam edelim…
 
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
+[^1]: Bu, özgür seçim kapasitenizi yok eden fiziksel saldırıdan çok daha farklıdır.
 
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
+[^2]: Tecavüz, bir davranıştır ve yukarıda tartıştığımız üzere bütün davranışlar tercih içerdiğinden, tecavüzün bir tercih içermediği iddia edilemez.
 
 [^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]: Tecavüz ihtimalini arttıracak durumları önleyebiliriz, ancak devam eden bir tecavüzü önleyemeyiz.
