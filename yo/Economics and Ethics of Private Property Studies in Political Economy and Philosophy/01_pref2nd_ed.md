@@ -4,8 +4,8 @@ Atilejade akoko ati Awon Isowo ati Eniye ti Alaadani Ikoko, ti a gbe ni odun 199
 
 Isowo ati Itele ti Ohun-ini ikoko ni a fi igbehin fun oluko mi ati olutojueni mi, Murry N. Rothbard, pelu eniti mo ti ni ibatan pekipeki ni odun mewa ti o gbehin, igbase gegebi ologbon ti o wa ni ilu Brookyln Polytechnic Instituti ni ilu New york ati lehin 1986 gegebi alabasisepo ni Universiti ti Nevada, ni Las Vegas. Odun 2005 je aami aseye kewa ti iku Rothbard. Bayi, ni asiko ti o ye ju lo lati gbowo dara fun Murray leekansi pelu iwe kiko keji yii.
 
-Atilejade akoko ati Awon Isowo ati Eniye ti Alaadani Ikoko ti tobi sii. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+Atilejade akoko ati Awon Isowo ati Eniye ti Alaadani Ikoko ti tobi sii. O se afikun awon ohun merin ti a ko lehin ti akoko atejade ti iwe sugbon ti o ni ibatan pelu awon iseduro oro pataki ti oro aje ati eya ti ile-ise ti ikoko-abala mefa, meje, ejo, medogun. Awon anfani ti a tun se atunse tuntun ni a tun lo lati se atunse ati atunyewo pataki.
 
 Hans Hermann Hoppe
 
-*Las Vegas, Nevada, 2005*
+*Las Vegas, Naveda, Odun 2005*
