@@ -1,8 +1,8 @@
-## Existence Versus Non-Existence
+## Existencia versus inexistencia
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+Definimos "inexistencia" como aquella que no posee masa o energía, ni muestra los efectos de la masa o la energía, como las relaciones detectables como lo es la gravedad.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+Dios no posee masa o energía, ni muestra los efectos de la masa o la energía: Dios, de hecho, no es detectable ni verificable de ninguna manera, figura o forma, ni a través de los sentidos ni a través de la racionalidad.
 
 Thus if I say, “God exists,” what I am really saying is:
 
