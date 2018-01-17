@@ -1,50 +1,50 @@
-### "Don't Eat Fish"
+### "Sakın Balık Yemeyin"
 
-What would be the status of the moral proposition: “It is evil to eat fish”?
+Ahlaki önermelerin durumu ne olur: ''Balık yemek kötü müdür''?
 
-Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
+Açıkçası, bu öneri en azından ETD'nin bazı şartlarını yerine getiriyor gibi görünüyor - zaman ve mekandan bağımsız, evrensel, nispeten tarafsız görünüyor.
 
-Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
+Yine de, bunu mantıklı bir şekilde gerçek *ahlak* teorisi olarak söylemek zor görünüyor - neden?
 
-First of all, “evil” encompasses actions that can be prevented through the use of force. Rape is “evil,” and so I can use force to defend myself against someone attempting to rape me.
+Her şeyden önce, "kötülük", kuvvet kullanımı ile engellenebilecek eylemleri içine alır. Tecavüz "kötülüktür" ve bu yüzden bana tecavüz etmeye çalışan birisine karşı kendimi savunmak için güç kullanabilirim.
 
-Can I justly shoot someone who eats a piece of fish?
+Bir parça balık yiyen bir kişiye vurabilir miyim?
 
-It would seem silly to argue that I can – but why?
+Yapabileceğimi söylemek aptalca görünüyor - ama neden?
 
-There are some objective limits to the universality of this doctrine. For instance, some people may have no access to fish – they may live in a desert, say – while others live by a lake teeming with fish, and find it hard or impossible to survive without eating them. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
+Bu doktrinin evrenselliği için bazı tarasız sınırlar vardır. Örnek olarak, bazı insanlar balıklara ulaşamayabilir – mesela bir çölde yaşabilirler – diğerleri ise balıklarla dolu bir gölün kenarında yaşayabilirler ve onları yemeden hayatta kalmayı zor veya imkansız bulurlar. Ancak, bu yeterli olamaz çünkü bir hadımın tecavüz eyleminde bulunamaması ''tecavüz etmek kötü'' ahlaki önermesini geçersiz kılmadığını zaten kabul ettik.
 
-No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
+Hayır, "kırmızı ringa" ahlaki önermesinde "Balık yemek kötüdür" kelimesi "*balık*" dır.
 
-A scientist cannot validly say that his theory of gravity only applies to pink rocks. Since his theory involves gravity, it must apply to *all* entities that have mass.
+Bir bilim adamı yerçekimi teorisinin sadece pembe kayalar için geçerli olduğunu söyleyemez. Çünkü yerçekimi teorisi, kütlesi olan *bütün* varlıklara uygulanmalıdır.
 
-Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
+Benzer şekilde, yukarıdaki örnekte, ETD yeme *eylemini* kabul eder ve yenilen *şeyi* reddeder, çünkü yenilen şey bir *eylem* değil, daha doğrusu neyin üzerinde davranıldığıdır.
 
-In the same way, an ethicist cannot validly put forward the moral proposition: “It is evil to rape the *elderly*.” “Rape” is the behaviour; whether the victim is elderly or not is irrelevant to the moral proposition, since as long as the victim is human, the requirement for universality remains constant. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
+Aynı şekilde, bir etik bilimci şu ahlaki önermeyi geçerli bir şekilde öne süremez: "*Yaşlılara* tecavüz etmek şeytanlıktır." Kurbanın yaşlı olup olmadığı manevi öneri ile alakasızdır çünkü mağdur insan olduğu sürece, evrensellik gereği sabit kalır ve bu bir ''tecavüz'' davranışıdır. ''Çalmayacaksın'' ETD'ye göre geçerli bir ahlaki önermedir – hırsızlığın mülkiyet kavramıyla ilişkili olduğu basit bir nedenden dolayı *cep saati* çalmayacaksın – ve cep saati, mülkiyetin bir alt kümesi olarak, mülkiyetin diğer tüm biçimlerinden rasyonel olarak tanımlanamaz ve kendi ahlaki kurallarınca atanamaz.
 
-The moral proposition “eating fish is evil” thus fails the test of universality because it is too specific to be generalised – it is like saying “my theory of gravity applies only to pink rocks.” If it is a theory of gravity, then it must apply to everything; if it only applies to pink rocks, then it is not a theory of gravity.
+Ahlaki önerilerden birisi de "balık yemek kötülükdür" bu nedenle evrensellik testi başarısız olur çünkü genelleştirilemeyecek kadar spesifiktir – "yer çekimi teorisi sadece pembe kayalar için geçerlidir." demek gibidir –. Eğer bu yerçekimi teorisi ise her şeye uygulanmalıdır; sadece pembe kayalar için geçerliyse, o zaman yerçekimi teorisi değildir.
 
-UPB also rejects as invalid any theory that results in opposing moral judgements for identical actions. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
+ETD, benzer eylemler için ahlaki yargılara ters düşen herhangi bir teoriyi geçersiz sayıyor. ''Saldırı'' hiçbir zaman ahlaklı ve ahlaka aykırı olamaz. Böylece, "yeme"nin bir gün ahlaki ve ahlak dışı olamayacağını biliyoruz.
 
-Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
+Ya ''yemek'' ahlaka aykırıdır ya da manevi olarak tarafsızdır. Eğer ahlaka aykırı davranıyorsam, bir sürü problem ortaya çıkıyor demektir ki bu da şu ana kadar oldukça tanıdık olduğumuzdan dolayıdır.
 
-If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
+Öte yandan yemek yemek *ahlaki* ise, lahana yemek ahlaki olamaz ve bir balık yemek ise ahlaka aykırı olamaz, çünkü bu, evrenselliği ihlal eder, aynı eylem yemek yemek - hem iyi hem de kötü olarak değerlendirilir.
 
-It is in this way that we understand that the proposition “eating *fish* is evil” fails the test of UPB, and is not valid as a moral theory.
+Bu şekilde, "*balık* yemek kötülüktür" önermesinin ETD testini geçemediğini ve ahlaki bir teori olarak geçerli olmadığını anlıyoruz.
 
 ### Hayvan Hakları
 
-We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
+Hayvan hakları sorunu hakkında tam bir tartışmaya girmek için pek vaktimiz yok, fakat en azından şu ahlaki öneri ile uğraşabiliriz: "balıkları öldürmek kötülüktür."
 
-If it is evil to kill fish, then UPB says that anyone or anything that kills the fish is evil. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
+Eğer balıkları öldürmek kötülükse, ETD balıkları öldüren herhangi birinin veya şeyin kötü olduğunu söyler. Bu sadece balıkçıları değil, köpekbalıklarını da içermelidir, çünkü balıkların öldürülmesi kötü olursa, etik "aktörler" tanımımızı insan olmayan yaşamı da kapsayacak şekilde genişletmemiz gerekir.
 
-It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
+Köpekbalıklarının balıkları öldürmekten kaçınma gibi bir eğilimleri olmadığı açıktır, çünkü temelde yüzgeçli bir makine gibi yiyorlar.
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
+Böylece "kaçınılmaz kötü" mantıksal problem ile sonuçlanıyor. Balıkları öldürmek kötüdür, ancak köpekbalıkları balıkları öldürmekten kaçınamazsa, köpekbalıkları "kaçınılmaz olarak kötüdür". Bununla birlikte, yukarıda tartıştığımız gibi - *kaçınılmaz* olanın imkansız olduğu - hiçbir seçenek bulunmadığı için ahlaki bir önerme olamaz. Dolayısıyla, "balıkları öldürmek kötülüktür" önermesi, mantıksal olarak ayakta duramayacak ahlaki olmayan durumları içeren bir evrensel ahlak tanımı uygulamaya çalışmaktadır.
 
-Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
+Ayrıca, "balık" sözcüğü, formülasyonda sorunlu kalır, çünkü evrensel olmak için çok spesifiktir. Doğru ETD reformasyonu şudur: "insanlar için canlı organizmaları öldürmek şeytanlıktır."
 
-If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+Eğer öldürmek kötülük ise, yine "kaçınılmaz kötülük" sorunuyla karşı karşıyayız. Virüsler, bitkiler veya belki hayvanlar gibi diğer organizmaları öldürmeden hiçbir insan var olamaz. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
 
 Eğer "insanları öldürmek kötüdür" dersek insan yiyen köpek balığı kötü mü olur?
 
