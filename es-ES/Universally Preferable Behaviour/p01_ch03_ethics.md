@@ -50,6 +50,6 @@ De manera similar, como mencioné antes, si voy a ti y digo: "Yo no existo," mi 
 
 Si voy a ti y digo: "No hay tal cosa como la verdad," entonces estoy haciendo una declaración que considero verdadera alegando que la verdad no existe. De nuevo, mi argumento se autodestruye.
 
-If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
+Si te digo que "El lenguaje no tiene significado," entonces también me contradigo a mí mismo. A fin de poder comunicarte verbalmente que el lenguaje no tiene significado, el lenguaje tiene que tener al menos algún significado.
 
-If I tell you that “Your senses are invalid,” then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
+Si te digo que "Tus sentidos son inválidos," entonces mi argumento se autodestruye, ya que estoy usando tu sentido del oído para comunicarte que tu sentido del oído es inválido. Si puedo comunicarte con éxito mi tesis, entonces tu sentido del oído debe ser válido. Por lo tanto debo asumir que tus sentidos son válidos para poder convencerte de que tus sentidos son inválidos, lo cual no puede sostenerse.
