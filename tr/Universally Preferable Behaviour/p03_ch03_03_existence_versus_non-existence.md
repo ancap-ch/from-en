@@ -72,7 +72,7 @@ Doug'un tepkisi ne olurdu? Unutmayın, ETD'ye göre Bob için geçerli olan şey
 
 Gördüğünüz üzere, eğer *Bob* hayali zorunluluklar uydurma ve bunları Doug'a dayatma hakkına sahip ise o zaman *Doug* da hayali zorunluluklar uydurma ve bunları Bob'a dayatma hakkına sahiptir. Açıkçası, derhal mükemmel bir çıkmaz içinde sonlandırmalıyız. Uydurma zorunlulukları diğer insanlara dayatmak ahlaki olarak doğru kabul edilirse *herkes*in bu yeteneğe sahip olması bunu imkansız kılar o zaman ahlak imkansız hale gelir. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Erdem, bu yüzden yalnızca - imkansız olan - ahlak bozukluğu ile geçerli kılınabilir, ve aynı durumda olan iki insanoğlu için ahlak kurallarına karşı çıkarız, ki UPB onu anında geçersiz olarak geri çevirir.
 
-Diğer bir deyişle, güç kullanımı için hayali soyut her gerekçeye güç kullanımı için hayali soyut bir diğer gerekçeyle karışılık verilebilir. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Bu yüzden bizim hiçbirimiz hayali zorunluluklarımızı diğerlerine zorla kabul ettirme yeteneğine sahip olamayız.
+Diğer bir deyişle, güç kullanımı için hayali soyut her gerekçeye güç kullanımı için hayali soyut bir diğer gerekçeyle karışılık verilebilir. Eğer ben yaptığım her şeyi meşrulaştırabilen hayali bir dosta sahipsem o zaman *sen* de senin yaptığın her şeyi meşrulaştırabilen bir hayali dosta sahip olabilirsin. Bu yüzden bizim hiçbirimiz hayali zorunluluklarımızı diğerlerine zorla kabul ettirme yeteneğine sahip olamayız.
 
 #### Din Ve ETD
 
@@ -82,7 +82,7 @@ Açıklama: "Bana itaat etmek zorundasınız çünkü Tanrı bunu emrediyor," da
 
 Burada yukarıdaki konuların aynılarını görüyoruz. Bob Doug'a şöyle der: "Bana çakmağını vermek zorundasıni çünkü hayali arkadaşım sana öyle söylüyor." Doğal olarak, Doug cevap verir: "Benden çakmağımı istememelisin, çünkü *benim* hayali arkadaşım sana bunu yasaklıyor." Eğer ki Bob'un "emirleri" geçerli ise, o zaman Doug'un "emirleri" de eşit derecede geçerli olur, ve böylece birbirlerini etkisiz hale getirirler.
 
-In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
+Aynı şekilde, eğer bir adam "hükümet" denilen bir tahayyülün benim mülkümü çalmasını meşrulaştırdığını iddia eder ise o zaman ben de benim "anti-hükümet" denilen tahayyülümün mülkümü *korumamı* meşrulaştırdığını iddia edebilirim ve ikimizin gerekçesi de eşit derecede geçerlidir.
 
 If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
 
@@ -94,13 +94,13 @@ Son bir kez Bob ve Doug'un odasına dönüyoruz, hadi "Jane" ile tanışalım.
 
 Şimdi odada "ahlak kuralı" prensibine bakabileceğimiz üç insan var.
 
-Eğer Bob, Doug ve Jane, Jane'e tecavüz etmenin ahlaki olup olmadığına dair bir "oy" alırlarsa, biz ahlaksız ve haksız bir öncülden tamamen geri çekilmiş oluruz. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
+Eğer Bob, Doug ve Jane, Jane'e tecavüz etmenin ahlaki olup olmadığına dair bir "oy" alırlarsa, biz ahlaksız ve haksız bir öncülden tamamen geri çekilmiş oluruz. Açık bir şekilde, eğer Jane için "oy üstünlüğü sağlanmış" olsa bile, biz, tecavüz etmenin ahlaki olarak iyi bir eyleme çevrilmiş olduğu sonucunu düşünmezdik.
 
 Neden olmasın?
 
-Well, UPB does not recognise the reality of aggregations, since the “majority” is a mere conceptual tag; it does not exist in reality, any more than “gods” or “governments” do. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
+Peki, UPB bir araya gelme gerçekliğini tanımaz, çünkü "çoğunluk" mutlak kavramsal bir etikettir; gerçekte, "tanrılar" ya da "hükümetler" ötesinde herhangi bir şey, mevcut değildir. Bu yüzden "çoğunluk" kavramının herhangi bir ahlaki duruş türüne sahip olduğunu iddia etmek kesinlikle geçerli değildir - bu "Memleket" 'in bir kadını hamile bırakabileceğini, ya da birisinin "sandalye" kelimesinde oturabileceğini söylemek gibi olur.
 
-To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
+To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. Eğer "memelilerin" sıcak kanlı canlı yaratıklar olduğunu söylersem, mantıksal olarak "memeliler" kategorisine plastik üç flamingoyu da dahil edebilir miyim?
 
 Tabi ki değil.
 
