@@ -34,7 +34,7 @@ Benzer şekilde, evrensel bir ''daha iyi'' yön diye bir şey yoktur - bu tamame
 
 Çok az insanın *gerçekten* okyanusun içine doğru sürdüğü doğrudur, ama bu birilerinin okyanusun içine doğru sürmesini *gerektiren* evrensel bir doğru olduğu anlamına gelmez. Prensipler demokratik değildir - veya, öyleyseler, öznelcilik derecelendirme problemiyle bir kere daha yüzleşmeli, ve tüm etik kavramını pencereden dışarıya atmalıyız.
 
-“Behaviour” exists in objective reality, outside our minds – the concepts “ought,” “should,” and “preference,” do not exist outside our minds. Ancak, objektif gerçeklik içinde “olması” nın varolmaması, “olması” nın tamamen öznel olduğu anlamına gelmemektedir. Gerçeklikte ne bilimsel metodlar nede sayılar vardır, yinede bilim ve matematik görüşe bağlı olarak varlıklarını sürdürür.
+"Davranış", zihinlerimizin dışında, objektif gerçeklikte vardır. - "olması gereken", "tavsiye" ve "tercih" kavramları - zihnimizin dışında bulunmazlar. Ancak, objektif gerçeklik içinde “olması” nın varolmaması, “olması” nın tamamen öznel olduğu anlamına gelmemektedir. Gerçeklikte ne bilimsel metodlar nede sayılar vardır, yinede bilim ve matematik görüşe bağlı olarak varlıklarını sürdürür.
 
 ### Kendini Yenen Argümanlar
 
