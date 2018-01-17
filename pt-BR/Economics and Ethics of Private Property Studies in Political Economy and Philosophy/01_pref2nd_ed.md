@@ -1,10 +1,10 @@
 ## Prefácio para a Segunda Edição
 
-A primeira edição de * A Economia e Ética de Propriedade Privada *, publicado em 1993, esteve fora de circulação por muitos anos. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.
+A primeira edição de * A Economia e Ética de Propriedade Privada *, publicado em 1993, esteve fora de circulação por muitos anos. Durante algum tempo e de vários ângulos tenho vindo a ser encorajado a preparar uma nova edição, e Llewellyn Rockwell graciosamente ofereceu-me o Instituto Ludwig von Mises para a publicar.
 
-*The Economics and Ethics of Private Property* was dedicated to my teacher and mentor, Murray N. Rothbard, with whom I had been closely associated during the last ten years of his life, first as a visiting scholar at the Brooklyn Polytechnic Institute in New York City and after 1986 as a colleague at the University of Nevada, Las Vegas. The year 2005 marks the tenth anniversary of Rothbard’s death. Thus, it seemed a most appropriate time to honor Murray anew with this second edition.
+*A Economia e Ética de Propriedade Privada* foi dedicada ao meu professor e mentor, Murray N. Rothbard, com quem eu me tinha associado proximamente durante os seus últimos dez anos de vida, primeiro como estudante visitante ao Instituto Politécnico de Brooklyn na cidade de Nova Iorque e depois de 1986 como colega na Universidade de Nevada, em Las Vegas. O ano 2005 marca o décimo aniversário da morte de Rothbard. Portanto, pareceu-me uma altura apropriada a honrar Murray de novo com esta segunda edição.
 
-The present edition of *The Economics and Ethics of Private Property* is enlarged. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+A atual edição de *A Economia e Ética de Propriedade Privada* está aumentada. Adiciona quatro artigos escritos após a publicação original do livro mas relacionada tematicamente ao assunto central da economia e ética lógica da instituição de propriedade privada - capítulos 6, 7, 8, e 15. A oportunidade de uma nova edição também foi usada para fazer melhorias e revisões editoriais significantes.
 
 Hans Hermann Hoppe
 
