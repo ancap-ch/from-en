@@ -52,7 +52,7 @@ Bu tabii ki de akciğer kanseri olan bir adamın sağlıklı bir insanın en az�
 
 İntihar etmek, kendi evini ateşe vermekten daha büyük bir suç değildir, çünkü birisinin kendi malının tahribatı sahipliğin geçerli bir mazeretidir. Ancak, münhasır mülkiyet hakkı geçersiz ise, cinayet ve intihar arasında hiçbir ayrım yoktur. Eğer karaciğerim zayıf olsaydı, seninkileri almaya hakkım vardı, o zaman şerefli ve ahlaki davranışla, mükemmel uyum içinde ona "yeniden sahip olabilirim." Bu prosedür sizi öldürürse ne olacak? Özel mülkiyet olmadan, ''sen'' le başlayan hiç bir şey olamaz…
 
-Thus we can reasonably say that exclusive self-ownership is a basic reality – that all human beings at all times and in all places have exclusive ownership over their own bodies, and thus have exclusive ownership over the effects of their own bodies, both in terms of moral behaviour and property creation or acquisition.
+Bu sayede, makul bir şekilde kendine münhasır mülkiyetin temel bir gerçeklik olduğunu - tüm zamanlarda ve tüm mekanlarda bütün insanoğlunun kendi bedenleri üzerinde özel mülkiyete sahip olduğunu, ve bu yüzden hem etik davranış hem de mülk oluşumu ya da kazanımı açısından, kendi bedenlerinin etkileri üzerindeki özel mülkiyete sahip olduğunu - söyleyebiliriz.
 
 ### Gri Bölgeler
 
