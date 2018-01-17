@@ -100,11 +100,11 @@ Gönüllü bir toplumda hiç vergi alınamayacak ve bu nedenle tekelci güç eld
 </p>
 
 <p>
-  Daha yararlı bir örnek ise, hiçbir liderin nükleer silahlara sahip başka bir lidere hiç savaş ilan etmediği gerçeğidir. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+  Daha yararlı bir örnek ise, hiçbir liderin nükleer silahlara sahip başka bir lidere hiç savaş ilan etmediği gerçeğidir. Geçmişte, liderler kendilerini aynen karşılık bulmadan azade hissettikleri zaman, onlar savaş açarak kendi halklarını öldürmekte daha istekliydiler. Artık liderler kendilerini yok edilebilir gördüklerinden, sadece karşı saldırıda bulunamayacak ülkelerle savaşlar istiyorlar.
 </p>
 
 <p>
-  This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers <em>is the only proven method of securing and maintaining personal liberty</em>.
+  Bu böyle adamların neden silahsızlandırılmış ve bağımlı hale getirilmiş bir nüfusa ihtiyaç duydukları hakkında öğretici bir derstir - rekabetçi ve merkezsizleştirilmiş denge sisteminde misillemeden bu kadar korkulmasının <em>kişisel özgürlükleri sürdürmek ve korumakta tek geçerli yol</em> olduğunun güzel bir örneğidir.
 </p>
 
 <p>
