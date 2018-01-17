@@ -6,7 +6,7 @@ Sahtekarlık, sahte temsil aracılığıyla değer sağlamaktır. Eğer bana iki
 
 Hadi dolandırıcılık problemini UPB'nin süzgecinden geçirelim ve bekleyip bırakmadığına birlikte bakalım.
 
-Clearly, fraud requires that one person *not* be engaged in fraud. Yukarıdaki olası işlemde, eğer iki yüz dolarınızı çalmayı düşünüyorsam ve siz de iPodumu çalmayı düşünüyorsanız, hiçbir şey onu ortaya çıkarmayacak. Ödeme yapmadan önce iPod talebinde bulunacaksınız, ve ben iPod vermeden önce ödeme talep edeceğim. Köşeye sıkıştırılacağız, birbirimize hile yapmaya tamamıyla gücümüz yetmeyecek.
+Açıkçası, dolandırıcılık, dolandırıcılıkla iç içe *olmayan* birini gerektirir. Yukarıdaki olası işlemde, eğer iki yüz dolarınızı çalmayı düşünüyorsam ve siz de iPodumu çalmayı düşünüyorsanız, hiçbir şey onu ortaya çıkarmayacak. Ödeme yapmadan önce iPod talebinde bulunacaksınız, ve ben iPod vermeden önce ödeme talep edeceğim. Köşeye sıkıştırılacağız, birbirimize hile yapmaya tamamıyla gücümüz yetmeyecek.
 
 Açıkçası, sahtekarlığı gerçekleşirmek için, bir taraf iyi niyetli davranmak zorunda. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
 
