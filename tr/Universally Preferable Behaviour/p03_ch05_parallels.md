@@ -60,9 +60,9 @@ The way to oppose the state – the most dangerous imaginary entity – is with 
 
 ### Gelecek
 
-Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Whether we like it or not, UPB applies to everything that we do. İnsanoğlu, tutarlı ve akılcı bir evrende yaşayan rasyonel bir bilince sahip varlıklar olduğumuz için, doğal bir süreklilik eğilimine sahiptir. Böylelikle, hayatımızda kabul ettiğimiz herhangi bir önerme, hayatlarımız boyunca - ve kültürümüzün ya da milletimizin "yaşamı" boyunca da - gittikçe daha tutarlı davranışlar göstermeye eğilimlidir.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. Şiddetin iyi olduğuna inanan biri gitgide hiddet dolu olmaya yatkındır.
+Böylece zorbalığın istediğini elde etmek için iyi bir yol olduğuna inanan bir adam hayatı boyunca daha çok zorbalık eğiliminde bulunur. Şiddetin iyi olduğuna inanan biri gitgide hiddet dolu olmaya yatkındır.
 
 Diğer bir deyişle, UPB tutarsızlık içinde bile tutarlılık ister. UPB ölümsüzlük içinde bile istikrar talep eder.
 
