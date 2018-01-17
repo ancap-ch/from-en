@@ -18,7 +18,7 @@ Eğer bir kadın evlilik açısından kendi kararlarını vermek için zihinsel 
 
 Eğer olağanüstü derecede düşük zekalı bir adam "sağlık" kavramını anlayamıyorsa, doktor seçiminde akıllıca davranacağını beklemek mantıklı mıdır? Yetkin bir doktor seçmek için, fayda, maliyet, profesyonellik ve benzeri kavramları anlamalıyız. In the same way, if I do not allow a woman to have any say in who she marries, then clearly I must believe that she has no understanding of what makes a good husband – but if she has no understanding of what makes a good husband, then she has no capacity to transfer that choice to me, since she will have no way of evaluating *my* criteria for what makes a good husband.
 
-If I cannot decide what colour to paint my house, and my solution is to sign a contract with a painter allowing him to choose the colour for me – and in that contract I sign away all my future freedoms to resist his decisions, and give him the right to kidnap and enslave me if I disagree with any of his decisions, or refuse to pay for them – then clearly I am not of sound mind. Birine beni *hayatımın geri kalanı boyunca* yönetecek gücü verirsem, o zaman açıkça kendi kararlarımı almaya yetkin olduğuma inanmıyorumdur.
+Eğer evimi hangi renge boyayacağıma karar veremezsem, ve çözümüm boyacıyla benim için boyanın rengini seçeceğine dair bir anlaşma imzalamaksa, ve bu anlaşmada onun kararlarına karşı benim gelecek özgürlüğümün gitmesini kabul ediyorsam ve ona eğer onunla aynı kararda olmazsam beni kaçırma ve esir etme hakkı veriyorsam, o zaman ruh sağlığım yerinde değildir. Birine beni *hayatımın geri kalanı boyunca* yönetecek gücü verirsem, o zaman açıkça kendi kararlarımı almaya yetkin olduğuma inanmıyorumdur.
 
 If I do not think that I am competent to make my own decisions, then clearly my decision to subject myself to violence *for the rest of my life* is an incompetent decision.
 
@@ -32,7 +32,7 @@ In the same way, even if I choose to pay my taxes voluntarily, I cannot justly i
 
 This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
 
-First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
+Öncelikle, "erginlik" bir grup için kavramsal bir etiketken, "irade" bireysel bir tavırdır. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
 
 Bu devletin gerekliliği sorusu ortaya çıktıkça iki ek itiraz sürekli olarak yinelenir. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
 
