@@ -4,17 +4,17 @@ As we discussed above, the proposition that *there is no such thing as preferabl
 
 The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
 
-Syllogistically, this is:
+Силлогистически, это:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
+1. Предложение шуд: концепция "общепринятого поведения" должна быть действительной.
 2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
 3. Therefore no argument against the validity of universally preferable behaviour can be valid.
 
 We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+Эти предпочтения можно назвать "универсальным выбором" или "этическими правилами"
 
-How else can we know that the concept of “moral rules” is valid?
+Как еще мы можем знать, что применяется понятие "моральных правил"?
 
 We can examine the question biologically as well as syllogistically.
 
@@ -24,11 +24,11 @@ Thus it is impossible that anyone can logically argue against universally prefer
 
 Syllogistically, this is:
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+1. Все организмы требуют поведения, которое предпочитают жить повсеместно.
+2. Человек - живой организм.
+3. Поэтому все живые люди живы из-за применения общепринятых форм поведения.
+4. По этой причине любой аргумент против общепринятого поведения требует принятия и применения общепринятого поведения.
+5. По этой причине аргументы против существования общепринятого поведения могут быть действительными.
 
 Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
 
@@ -47,14 +47,14 @@ For instance, if food is available, almost all human beings prefer to eat every 
 
 As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
 
-Or:
+Или:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1. Варианты почти бесконечны.
+2. Большинство людей делают очень похожие выборы.
+3. По этой причине не все выборы могут быть равными.
+4. По этой причине универсально предпочтительные варианты должны быть действительными.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+Пятым аргументом для обоснованности универсально-предпочтительного поведения является эволюция.
 
 Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
 
@@ -62,32 +62,32 @@ Since man is the most successful species, and man’s most distinctive organ is 
 
 Or:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
+1. Организации действуют в отношении общепринятого поведения.
+2. Человек - самый успешный организм.
+3. Поэтому человек должен был действовать больше всего на основе общепринятого поведения.
+4. Человеческий разум - самый очевидный орган.
 5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+6. Поэтому должно применяться общепринятое поведение.
 
 We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
 
 #### UPB: Optional And Objective
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Теперь, когда мы доказали справедливость общепринятого поведения, моральный вопрос теперь меняется. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
 
 First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
 
 The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
 
-Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
+Живые организмы являются частью материальной реальности, а материальная реальность является рациональной и объективной. Applying moral theories is optional, but that does not mean that all moral theories are subjective. Научный метод также является добровольным, но не субъективным. Applying biological classifications is optional, but biology is not subjective. Опции являются необязательными; результаты не являются. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
 
 Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
 
-As mentioned above, the first test of any scientific theory is *universality*. Just as a theory of physics must apply to *all* matter, a moral theory that claims to describe the preferable actions of mankind *must apply to **all** mankind*. No moral theory can be valid if it argues that a certain action is *right* in Syria, but *wrong* in San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. If it does, it is false and must be refined or discarded.
+As mentioned above, the first test of any scientific theory is *universality*. Just as a theory of physics must apply to *all* matter, a moral theory that claims to describe the preferable actions of mankind *must apply to **all** mankind*. No moral theory can be valid if it argues that a certain action is *right* in Syria, but *wrong* in San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. Если это так, он должен быть ошибочным, уточненным или отброшенным.
 
 To be valid, any moral theory must also pass the criterion of *logical consistency*. Since the behaviour of matter is logical, consistent and predictable, all theories involving matter – either organic or inorganic – must also be logical, consistent and predictable. The theory of relativity cannot argue that the speed of light is both constant and not constant at the same time, or that it is one hundred eighty-six thousand kilometres per second, five kilometres in depth, and also green in colour.
 
-However, since moral theories apply to mankind, and mankind is organic, the degree of *empirical* consistency required for moral theories is less than that required for *inorganic* theories. All rocks, for instance, must fall down, but not all horses have to be born with only one head. Biology includes three forms of “randomness,” which are environment, genetic mutation and free will. For example, poodles are generally friendly, but if beaten for years, will likely become aggressive. Horses are defined as having only one head, but occasionally, a two-headed mutant is born. Similarly, human beings generally prefer eating to starving – except anorexics. These exceptions do not bring down the entire science of biology. Thus, since moral theories describe mankind, they cannot be subjected to exactly the same requirements for consistency as theories describing inorganic matter.
+However, since moral theories apply to mankind, and mankind is organic, the degree of *empirical* consistency required for moral theories is less than that required for *inorganic* theories. Например, все камни должны падать, но не все лошади должны родиться с одной головой. Biology includes three forms of “randomness,” which are environment, genetic mutation and free will. For example, poodles are generally friendly, but if beaten for years, will likely become aggressive. Horses are defined as having only one head, but occasionally, a two-headed mutant is born. Similarly, human beings generally prefer eating to starving – except anorexics. Эти исключения не уменьшают полное знание биологии. Thus, since moral theories describe mankind, they cannot be subjected to exactly the same requirements for consistency as theories describing inorganic matter.
 
 The final test that any moral theory must pass is the criterion of empirical observation. For instance, a moral theory must explain the universal prevalence of moral beliefs among mankind, as well as the divergent results of human moral “experiments” such as fascism, communism, socialism or capitalism. It must also explain some basic facts about human society, such as the fact that state power always increases, or that propaganda tends to increase as state power increases. If it fails to explain the past, understand the present and predict the future, then it must be rejected as invalid.
 
