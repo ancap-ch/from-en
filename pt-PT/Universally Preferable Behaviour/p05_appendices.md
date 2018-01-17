@@ -1,8 +1,8 @@
-# Appendices
+# Apêndices
 
-## Appendix A: UPB In A Nutshell
+## Apêndice A: UPB resumidamente
 
-Below, please find a summation of the core argument for morality.
+Por favor, encontre abaixo um sumário do argumento principal para a moralidade.
 
 1. Reality is objective and consistent.
 2. “Logic” is the set of objective and consistent rules derived from the consistency of reality.
