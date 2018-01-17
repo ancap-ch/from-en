@@ -1,12 +1,12 @@
 ### Hükûmetler ve Din
 
-The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
+Uygulamada sizi belirli insanların yarı kölesi haline getiren, doğmuş olmanın kurgusal bir organla sözleşme yarattığı fikri hem din hem de devlet için ortaktır - ve "Gerçek Üzerine: İllüzyonun Tiranlığı" adlı ilk kitabımda bahsettiğim daha fazla kişisel organ olan bir diğeri.
 
-Ne zaman bir rahip "Tanrıya itaat et" derse, aslında dediği şey "*Bana* itaat et" demektir. Çünkü Tanrı yoktur ve rahibin Tanrıdan geldiğini iddia ettiği herhangi bir emir aslında rahipten geliyordur. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Ne zaman bir rahip "Tanrıya itaat et" derse, aslında dediği şey "*Bana* itaat et" demektir. Çünkü Tanrı yoktur ve rahibin Tanrıdan geldiğini iddia ettiği herhangi bir emir aslında rahipten geliyordur. "Tanrı" gerçek dünyada sizin pratik itaatinizi sağlamak için size zulmetmek için kullanılan yalnızca kurgusal bir varlıktır, gerçek bireylerin parasını, zamanını ve kaynaklarını gönüllü olarak almak için.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+Bu köleliği bir erdem olarak gören kölelerin sahipleri için çok daha etkilidir çünkü bu durum köleleri kontrol etmeleri için gereken maliyeti büyük ölçüde azaltır. Eğer ben seni bana hizmet etmekten kaçınmanın kötü olduğuna ve bana hizmet etmenin erdemlilik olduğuna ikna edebiliyorsam o zaman seni zorlaması, kontrol etmesi ve senden çalması için neredeyse hiç adam tutmama gerek kalmaz.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+Öyleyse din ve devlet mitolojileri nüfusu kontrol etme maliyetini önemli ölçüde azaltan kurgulardır, onlar kurumsallaşmış şiddetin korkunç makinesinin yağı ve yakıtıdır.
 
 Dünya çapında yöneticiler nüfusun çok ufak bir yüzdesinde bulunurlar. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
 
