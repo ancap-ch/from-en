@@ -1,109 +1,109 @@
 ## Tercihler
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Kendini yenerek argümanların doğasını kavradığımızdan, tercihler meselesine yönelebilmekteyiz.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Preferences are central to any methodology claiming to define the truth-value of propositions. Bilimsel yöntem, örnek verecek olursak, büyük bir ölçüde mantıksal tutarlılık ve deneysel doğrulama için doğuştan gelen tercihler aracılığıyla tanımlanır. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+Bu noktada, "tercih edilebilir", "iyinin çeşidi" anlamına gelmez, daha ziyade "gerekli" anlamına gelir. Eğer yaşamak istiyorsan, bir avuç dolusu arsenik yemekten çekinmek evrensel olarak tercih edilebilirdir. *If* Gerçek ile ilgili geçerli doğruları belirlemek istiyorsanız, kuramlarınızın hem iç tutarlı hem deneysel olarak doğrulanabilir olması *universally preferable*. O halde, "Evrensel olarak tercih edilir", "nesnel olarak gerekli" terimine çevrilir, ancak isteğe bağlı insan mutlaklarını ve yerçekimi gibi isteğe bağlı olmayan fiziksel mutlakları ayırt etmek için "tercih edilebilir" sözcüğünü elimizde tutacağız.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+Benzer bir şekilde, eğer etik teorilerin hepsi geçerli olabiliyorsa, *at least* hem dahili hem de harici olarak tutarlı olmalılar. Başka bir deyişle, kendisiyle çelişen bir etik teori geçerli olamaz - ve deneysel kanıtlara ve evrensel-çevre tercihlerine aykırı etik bir teori de geçerli olamaz.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Dolayısıyla, teorileri gerçekle karşılaştıran fen, matematik, mühendislik ve diğer disiplinlerde olduğu gibi etik de *geçerli teorilerin hem mantıksal olarak tutarlı hem deneysel olarak doğrulanabilir olması gerekir*.
 
 ### Tercihler Ve Varoluş
 
 Eğer ben "Dondurma seviyorum." dersem bu cümle içinde sadece bir kelime belirsiz kalır. Açıkça "ben" varım, çünkü kişisel tercihimi ifade ediyorum. Ve açıkça "dondurma" da gerçeklikte var. Ancak "seviyorum" kelimesi daha problemli.
 
-Tercihler gerçekte objektif olarak yoklar. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Tercihler gerçekte objektif olarak yoklar. Eğer saplantılı şekilde merak ediyorsanız, muhtemelen beni takip edebilir ve her dondurma yediğimde kayıt altına alabilirsiniz, bu da muhtemelen tercihimi oluşturmak için iyi bir deneysel temel oluşturacaktır. Bununla birlikte, gerçekte bir mazoşist olduğum ve dondurmayı sevmediğim ve hoşa gitmeyen tadıyla kendime işkence yapmayı tercih ettiğim ihtimali olabilir - ve daha sonra onu sevmeyi iddia ederek sizi şaşırtabilir.
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+Tercihler için*delil* bulabiliriz; Biz gerçekte * tercihin kendisi* olduğunu bulamıyoruz. Yerçekiminin, kütleler arasındaki bir ilişki olarak varolduğu gibi, tercihde bilinç ile madde arasında * ilişki olarak bulunur *.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Özgür irade ile determinizm arasındaki zorlu soruları bir kenara koyarsak, şu anda birinin yaptığı her şeyin "tercih" ettiği varsayımı mantıklıdır. Eğer kalkarsam ve işe gidersem, diğer tüm seçeneklerin aksine bunu yapmayı * tercih ettiğimdendir *. İşimden nefret etsem bile, şüphesiz meteliksiz olduğumu söylemekten daha az nefret ediyorum.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+İnsanoğlunun sonsuz çeşitli eylemlerde bulunabileceği göz önüne alındığında, bir insanın şu anda yaptığı her neyse mümkün olan tüm diğer seçeneklerden seçilir. Bu kitabı yazmak yerine tango öğrenmeyi tercih ediyorum.
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+Bu basit gerçeği etik iddialara uyguladığımızda, çok ilginç sonuçlarla karşılaşmaktayız.
 
-### Preferences And Arguments
+### Tercihler ve Parametreler
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Yukarıdaki kendi kendini yenilgiye uğratan argümanlarımız ile ilgili analizimizi hatırlayarak, kolaylıkla "tercihler mevcut değildir." ifadesinin çelişkili doğasını anlayabiliriz. Her insan eyleminin - felsefi ifadeler üretmeyi de içeren - olası diğer her eylemden önce seçildiğini düşünürsek, tercihlerin var olmadığını savunmak bir *tercih*i gerektirir ki bu da kendi kendini yenilgiye uğratan bir ifadedir. Tercihlerin var olmadığını savunmak, dilin var olmadığını savunmakla aynı şeydir. Bu tamamen kendi kendini engelleyen bir argümandır.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+Bir tercih belirtmeden hareket etmek imkansız olduğundan - üstü kapalı veya açık şekilde - harekete geçen herkes tercihlerin var olduğunu önceden kabul etmiş sayılır. Dolayısıyla, tercihlerin varlığını kabul etmeden tercihlerin var olduğunu tartışmak mümkün değildir.
 
 ### Tercihler ve Evrensellik
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+Bir sonraki soru şöyle gelir: Tamamen öznel olan tercihler mi yoksa nesnel olabilirler mi ?
 
 Açıkça, bazı tercihler özneldir. Müzik zevki, kişisel hobiler, favori edebiyat türü ve bunun gibi diğer hepsi öznel ve kişisel tercihlerdir.
 
 Meydan okuma, bazı tercihleri *nesnel* olarak tanımlamaya çalıştığımızda ortaya çıkar.
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+Dolayısıyla, bizden önceki önerme şu şekildedir: *bazı tercihler objektif yani evrensel olabilir mi?*
 
 Bazı tercihlerin nesnel olabileceğini söylersem bütün insanların her zaman bu tercihleri takip ettiğini kastetmiş olmam. Eğer *nefes almanın* nesnel bir tercih olduğunu iddia edersem, kendini asarak intihar eden kişiler örneğiyle bana kolaylıkla karşı çıkılabilir. Eğer yemek yemenin nesnel bir tercih olduğunu iddia edersem, açlık grevleri ve anoreksi örnekleriyle bana kolaylıkla karşı çıkılabilir.
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
+Bu nedenle, evrensel tercihlerden bahsederken, insanların * tercih ettikleri* şeylerden değil, her zaman tercihen *yaptıklarından* bahsediyorum. Bilimsel bir benzerliği kullanmak için, evreni gerçekten anlamak için, insanlar bilimsel metodu kullan*malı*dırlar - bu her zaman kullandıkları anlamına gelmez; zira açıkça milyarlarca insan "cevaplar" için modern bilim yerine antik peri masallarına başvurmaktadırlar. Evren hakkındaki hakikati bilim olmadan anlamanın bir yolu yoktur, ancak insanlar "hakikati" "hata" olarak yeniden tanımlamakta ve kendilerini mistik saçmalıklarla tatmin etmekte tamamen özgürdürler.
 
-Aynı şekilde, eğer bir insan bir hastalığı tedavi etmek istiyorsa, Aztek yağmur dansı yapmaktan ziyade antibiyotik *kullanmalıdır*. Yağmur dansı yerine antibiyotik kullanma tercihi evrenseldir çünkü dans etmek hastalıkları tedavi etmez. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+Aynı şekilde, eğer bir insan bir hastalığı tedavi etmek istiyorsa, Aztek yağmur dansı yapmaktan ziyade antibiyotik *kullanmalıdır*. Yağmur dansı yerine antibiyotik kullanma tercihi evrenseldir çünkü dans etmek hastalıkları tedavi etmez. Dolayısıyla, ara sıra kendisini dans ederek tedavi etmeye çalışan çılgın insanlar olsa da, eğer bir insan eğer kendi kendisini tedavi etmek istiyorsa, antibiyotik kullanması gerektiği *evrensel olarak tercih edilebilir*dir.
 
-Başka bir deyişle, eğer dağın tepesine ulaşmak istiyorsanız bunu dilemek asla işe yaramayacaktır. Eğer evrenin kökenini öğrenmek istiyorsanız dua hiç bir zaman bir cevap vermeyecektir. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+Başka bir deyişle, eğer dağın tepesine ulaşmak istiyorsanız bunu dilemek asla işe yaramayacaktır. Eğer evrenin kökenini öğrenmek istiyorsanız dua hiç bir zaman bir cevap vermeyecektir. İnsanlar hala dilek diler ve dua eder, ama bu bu metodları etkili olduğunu göstermez. Aklımızda bu varken evrensel tercihlerin hala geçerli olup olmadığını sorgulayabilriz.
 
 ### Argümanlar ve Evrensellik
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+Tartışmayı seçersem, geniş bir yelpazedeki konuların burda dökmeyi ve zaman harcamayı kabullenmiş olurum.
 
 #### Öncül 1: İkimiz de Varız
 
-Eğer senle tartışmayı seçersem ikimizin de var olduğunu mutlaka kabul etmeliyim. Eğer kendimin var olduğuna ama senin var olmadığına inanırsam tartışmanın bir anlamı olmaz ve bu deli bir adamın yapacağı şey olur. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+Eğer senle tartışmayı seçersem ikimizin de var olduğunu mutlaka kabul etmeliyim. Eğer kendimin var olduğuna ama senin var olmadığına inanırsam tartışmanın bir anlamı olmaz ve bu deli bir adamın yapacağı şey olur. Aynadaki yansımamla tartışmaya başlarsam, ciddiye alınmayıp uyutulmalıyım.
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+#### Önerme 2: Duyular Doğruluk için Gerekli Kapasiteye Sahiptir
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+İnsanlar psişik olarak iletişim kuramadığı için, tüm tartışmalar muhakkak duyu kanıtını içerir. Yazmak mantıken görmeyi gerektirir; konuşmak duymayı gerektirir; Braille(Görme Engelliler Alfabesi) dokunmayı gerektirir. Dolayısıyla, duyuların geçersizliğine bağlı olan herhangi bir öneri kendi kendini yok eder.
 
-#### Premise 3: Language Has The Capacity For Meaning
+#### Önerme 3: Dil Anlam için Gerekli Kapasiteye Sahiptir
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+İkinci Önermeye benzer şekilde; bütün argümanlar dil gerektirdiğinden, dilin anlamsız olduğuna dayanan herhangi bir önerinin anında tersi ispatlanmış olur. Dilin anlamsız olduğunu savunmak için dili kullanmak, kuryelerin asla mesajları iletmediğini savunan bir mesajı göndermek için kurye kullanmak gibidir.
 
-#### Premise 4: Correction Requires Universal Preferences
+#### Önerme 4: Düzeltme Evrensel Tercihler Gerektirir
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+Eğer yaptığım bir hatayı düzeltirsen, dolaylı olarak hatamı düzeltmemin benim için *daha iyi* olacağını kabul etmiş olursun. Benim hatamı düzeltmek için olan tercihin öznel değil, aksine nesnel, ve evrenseldir.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+Bana şunu söyleme: "Görüşünü benimkiyle değiştirmelisin çünkü ben bunu tercih ederdim," ama bunun yerine: "Görüşünü düzeltmelisin çünkü objektif olarak senin görüşün yanlış." Benim hatam sadece sizinle aynı görüşte olmamamdan dolayı değil benim objektif hakikat standardından sapmamın sonucu olarak oluşur. Sizin benim yanlış görüşümü düzeltmem gerektiği argümanı, hakikatin objektif değerine dayanır - yani bu hakikat bu hata için *evrensel olarak tercih edilebilir*dir, ve bu hakikat *evrensel olarak objektif*tir.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### Önerme 5: Hakikati Gerçek Dışılıktan Ayırmayı Sağlayan Bir Yöntem Bilim Mevcuttur
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Bana katılmıyorsanız, ama ben her zaman haklı olduğum için benimle aynı fikirde olmanız gerektiğini söylüyorum, benim tartışmamın titizliğinden tatmin olmanız mümkün değildir. Eğer neden yanlış olduğumu açıklayacak iyi nedenler sağlarsan, ama ben haklı olduğumu söylemeye devam edersem çünkü ben her zaman haklıyım, bizim ilişkimiz anca çekişme olarak kategorize edilir.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+Doğruluğu yalandan tanımlamak için bir tür objektif ölçüt sağladığım andan itibaren, bu gerçeğin fikirden daha öte olduğunu kabul ediyorum.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+Bu, nesnel ölçütlerin * mantıksal* - olduğu anlamına gelmez Örneğin sizi dini bir metne yönlendirebilirim. Bununla birlikte, bunu yapsam da, gerçeğin sadece kişisel iddialardan bağımsız olarak geldiğini kabul ediyorum - gerçeği yalandan ayırmak için nesnel bir metodoloji vardır.
 
-#### Premise 6: Truth Is Better Than Falsehood
+#### Önerme 6: Hakikat Gerçek Dışılıktan Daha İyidir
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+Eğer ben size dünyanın düz olduğunu söylüyorsam ve siz de dünya düz değil yuvarlaktır diye cevaplıyorsanız; o zaman siz üstü kapalı şekilde hakikatin ve gerçek dışılığın ikisinin de objektif şekilde var olabileceğini ve hakikatin gerçek dışılıktan daha iyi olduğunu kabul etmiş olursunuz.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Eğer sana çikolatalı dondurma sevdiğimi söylersem, ve sen bana vanilyalı sevdiğini söylersen, vanilyalı olanın çikolatalı olandan objektif olarak daha iyi olduğunu "kanıtlamak" imkansızdır. Beni objectif *unsurlar*ı referans alarak düzelttiğiniz anda, objektif unsurların var olduğunu ve objektif hakikatin sübjektif hatalar için *evrensel olarak tercih edilebilir* olduğunu kabul etmiş oluyorsunuz.
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### Önerme 7: Sakin Şekilde Tartışmak Anlaşmazlıkları Çözmenin En İyi Yoludur
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+Eğer size düz olduğunu söylersem, ve siz silah çekip bana ateş ederseniz, bu ancak güçlükle bir üretken tartışma örneği olabilirdi. Doğru, anlaşmazlığımız "çözülmüş" olurdu - ama bunun sebebi sonunda yalnızca birimizin ayakta kalmış olması.
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Eğer bana herhangi bir anlaşmazlık ile bana ateş ederek başa çıkacağınızı önceden söylemiş olsaydınız; sizinle bir tartışmaya girmek olasılıksız olurdu. Dolayısıyla, kanıt, sebep, hakikat, ve objektiflik bireylerin arasındaki anlaşmazlıkların *evrensel olarak tercih edilebilir* çözüm yöntemleridir, üstü kapalı önermesine dayanan herhangi bir tartışmaya ışık tutar. Görüş farklılıklarının şiddet kullanarak çözülmesi gerektiğini savunmak tamamen mantık dışı olacaktır - şiddetin *değer*i için tek tutarlı argüman şiddetin kullanılmasıdır.[^4]
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+Özünde, o zaman, tartışmak, objektif bir yöntem bilim kullanarak, anlamlı bir dil aracılığıyla, kişisel hatanın yerine objektif olarak tercih edilebilir evrensel hakikatin peşinde koşmayı gerektirir.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+Evrensel gerçeğe yönelik bu tercih *mevki* 'nin bir tercihi değil, *tür*' ün bir tercihidir. Sürüş sürenizi yarıya indiren bir kısayol daha uzun bir yoldan iki kat daha iyidir - ama ikisi de tamamen yanlış bir istikamete sürüşe göre *son derecede tercih edilebilir*dir.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+Aynı şekilde, hakikat hatadan sadece "iyi" değildir - *son derecede tercih edilebilir* veya mecburidir.
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### Önerme 8: Bireyler Eylemlerinden Sorumludurlar
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+Eğer insanların eylemlerinden sorumlu olmadığını iddia edersem, *argümanımdan sorumlu olup olmadığımı ve ayrıca sizin yanıtınızdan sorumlu olup olmadığınızı* sorgulayan bir paradoksa yakalanırım.
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+Eğer benim insanların eylemlerinden sorumlu ol*ma*dığını iddia eden argümanım doğru ise, o zaman ben argümanımdan siz de cevabınızdan sorumlu değilsiniz. Bununla birlikte, eğer sizin cevabınızdan sorumlu olmadığınıza inanıyorsam, bu argümanı ilerletmek çok az mantıklı olacaktır - bu bir televizyon setiyle tartışmak ile aynı şey olacaktır.[^5]
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+Dolayısıyla, esas olarak, eğer size eylemlerinizden sorumlu olmadığınızı söylersem,aynı zamanda size eylemleriniz üzerinde kontrolünüz olmadığından, istenilen bir durumu mesela hakikati gerçek dışılığa tercih edemezsiniz; tercih hakkı imkansızdır'a inanmak sizin için evrensel olarak tercih edilebilirdir diyorum. Dolayısıyla bu argüman, yukarıdaki argümanlar gibi, kendi kendini yok eder.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^4]: İleride çok önemli olacağından bu dikkate değer önermeyi akılda tutmak çok yararlı olacaktır.
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]: Sorumluluk meselesi, elbette, başka bir kitabın konusu olacak özgür irade karşısında determinizm meselesi ile yakından ilişkilidir.
