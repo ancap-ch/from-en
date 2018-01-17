@@ -30,15 +30,15 @@ La ética es una disciplina que puede ser definida por cualquier teoría respect
 
 Como Hume célebremente afirmó, es imposible derivar un "debe" de un "es". Lo que quiso decir con esto es que una *preferencia* no puede ser derivada axiomáticamente de una *existencia*. Es cierto que un hombre que nunca se ejercita y come mal será poco sano. ¿Eso significa que él "debe" ejercitarse y comer bien? No. El "debe" está condicionado a una *preferencia*. Si él quiere ser sano, él *debe* ejercitarse y comer bien. Es cierto que si un hombre no come, morirá – no podemos derivar lógicamente de este hecho un principio vinculante de que *debe* comer. *Si* él quiere vivir, entonces él *debe* comer. Sin embargo, la decisión de vivir o no sigue siendo suya.
 
-De manera similar, no hay tal cosa como una dirección universal "mejor" – todo depende del destino preferido. Si yo quiero conducir a Nueva York desde San Francisco, yo "debo" manejar al este. Si quiero conducir al océano desde San Francisco, yo "debo" manejar al oeste. Neither “east” nor “west” can be considered universally “better.”
+De manera similar, no hay tal cosa como una dirección universal "mejor" – todo depende del destino preferido. Si yo quiero conducir a Nueva York desde San Francisco, yo "debo" manejar al este. Si quiero conducir al océano desde San Francisco, yo "debo" manejar al oeste. Ni el "este ni el "oeste" pueden ser considerados universalmente "mejores."
 
-It is true that very few people *do* drive into the ocean, but that does not mean that it is universally true that nobody *ought* to drive into the ocean. Principles are not democratic – or, if they are, we once more face the problem of rank subjectivism, and must throw the entire concept of ethics out the window.
+Es cierto que muy pocas personas *sí* manejan hacia el océano, pero eso no significa que sea universalmente cierto que nadie *debe* manejar hacia el océano. Los principios no son democráticos – o, si lo son, entonces enfrentamos nuevamente el problema del subjetivismo, y debemos lanzar por la ventana todo el concepto de la ética.
 
-“Behaviour” exists in objective reality, outside our minds – the concepts “ought,” “should,” and “preference,” do not exist outside our minds. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
+El "comportamiento" existe en una realidad objetiva, fuera de nuestras mentes – los conceptos "debe", "debería" y "preferencia," no existen fuera de nuestras mentes. Sin embargo, el hecho de que "debe" no existe dentro de la realidad objetiva no significa que "debe" sea completamente subjetivo. Ni el método científico ni los números en sí mismos existen dentro de la realidad, y aún así la ciencia y las matemáticas siguen siendo disciplinas objetivas.
 
-### Self-Defeating Arguments
+### Argumentos Contraproducentes
 
-In order to begin our discussion of ethics, it is essential that we understand the nature of *self-defeating arguments*.
+Para empezar nuestra discusión de la ética, es esencial que entendamos la naturaleza de los *argumentos contraproducentes*.
 
 In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
 
