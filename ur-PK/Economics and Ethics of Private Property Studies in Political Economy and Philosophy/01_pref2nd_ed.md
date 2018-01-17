@@ -1,10 +1,10 @@
-## Preface to the Second Edition
+## دیباچہ کے دوسرے ایڈیشن کی طرف
 
-The first edition of *The Economics and Ethics of Private Property*, published in 1993, has been out of print for several years. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.
+نجی ملکیت کے اقتصادیات اور اخلاقیات کا پہلے ایڈیشن، جو 1993 میں شائع ھوا، کئی سال چھپائی کے باہر رہا. کچھ عرصہ تک اور بھت اطراف سے مجھ سے درخواست کی گئی ہے کہ میں ایک نیا ایڈیشن تیار کروں، اور Llwellyn Rockwell نے اس ایڈیشن کے لیے Ludwig von Mises انسٹیٹیوٹ کو اسکا پبلشر بننے کی کرپا پیشکش کی.
 
-*The Economics and Ethics of Private Property* was dedicated to my teacher and mentor, Murray N. Rothbard, with whom I had been closely associated during the last ten years of his life, first as a visiting scholar at the Brooklyn Polytechnic Institute in New York City and after 1986 as a colleague at the University of Nevada, Las Vegas. The year 2005 marks the tenth anniversary of Rothbard’s death. Thus, it seemed a most appropriate time to honor Murray anew with this second edition.
+نجی ملکیت کے اقتصادیات اور اخلاقیات میرے استاد اور میرے سرپرست، Murray N. Rothbard، کے لیے وقف تھا جن کے ساتھ مین انکی زندگی کے آخری دس سال کے دوران قریب سے منسلک رہا، پہلے Brooklyn Polytechnic Institute میں ایک زیارتی عالم کی حیثیت سے جو New York City میں واقع ہے اور اسکے بعد 1986 ميں University of Nevada، Las Vegas میں ایک ساتھی کی حیثیت سے. سال 2005 Rothbard کی موت کی بیسویں سالگرہ پرتیک کرتا ہے. اس وجہ سے یہ سب سے مناسب وقت تھا Murray کو نئے سرے سے ایک دوسرے ایڈیشن سے سراہنے کا.
 
-The present edition of *The Economics and Ethics of Private Property* is enlarged. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+نجی ملکیت کے اقتصادیات اور اخلاقیات کا موجودہ ایڈیشن توسیع ہے. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
 
 Hans Hermann Hoppe
 
