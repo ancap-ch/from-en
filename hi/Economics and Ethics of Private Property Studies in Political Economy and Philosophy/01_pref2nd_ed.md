@@ -1,11 +1,11 @@
-## Preface to the Second Edition
+## प्रस्तावना दूसरा प्रकाशन
 
-The first edition of *The Economics and Ethics of Private Property*, published in 1993, has been out of print for several years. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.
+पहला प्रकाशन जो है*अर्थशास्त्र व नीति निजी संपत्ति का<0> उसको जारी किया गया १९९३ में, जिसको कई वर्षों के लिए प्रिंट से बाहर किया गया। कुछ समय और कुछ पक्षों के लिए मुझे नया भाग बनाने के लिए आगरह किया और Llewellyn Rockwell विनय की पेशकश की लुडविग वॉन Mises संस्थान के रूप में सेवा करने के लिए अपने प्रकाशक है ।</p> 
 
-*The Economics and Ethics of Private Property* was dedicated to my teacher and mentor, Murray N. Rothbard, with whom I had been closely associated during the last ten years of his life, first as a visiting scholar at the Brooklyn Polytechnic Institute in New York City and after 1986 as a colleague at the University of Nevada, Las Vegas. The year 2005 marks the tenth anniversary of Rothbard’s death. Thus, it seemed a most appropriate time to honor Murray anew with this second edition.
+*अर्थशास्त्र और नैतिकता की निजी संपत्ति*समर्पित किया गया था मेरे शिक्षक और गुरु,मरे एन. Rothbard,जिनके साथ मैं बारीकी से जुड़ा हुआ था पिछले दस वर्षों से उनके जीवन में, पहली बार एक विजिटिंग स्कॉलर ब्रुकलिन पॉलिटेक्निक संस्थान में न्यूयॉर्क शहर और १९८६ के बाद एक सहयोगी के रूप में नेवादा विश्वविद्यालय, लास वेगास. वर्ष 2005 में Rothbard की मौत की दसवी सालगिरह हुई थी। इस प्रकार, यह सबसे ज़्यादा उचि समय लग रहा था मरे को सम्मान करने के लिए उसकी नई दूसरी प्रकाशन के लिए।
 
-The present edition of *The Economics and Ethics of Private Property* is enlarged. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+वर्तमान संस्करण जो है* अर्थशास्त्र और नैतिकता की निजी संपत्ति के लिए<0> वो बढ़ गया है। यह चार लेखो को इस में जोड़ता है जो लिखे गए है पुस्तक की मूल प्रकाशन के बाद परन्तु यह विषय-वस्तु संबंधित है इसके केंद्रीय विषय के आर्थिक और नैतिक औचित्य की निजी संपत्ति की संस्था—अध्याय ६, ७, ८, और १५. अवसर के एक नए संस्करण को भी इस्तेमाल किया गया है महत्वपूर्ण संपादकीय सुधार और संशोधन बनाने के लिए।</p> 
 
-Hans Hermann Hoppe
+हंस हरमन हॉपी
 
-*Las Vegas, Nevada, 2005*
+*लास वेगास, नेवादा, २००५।*
