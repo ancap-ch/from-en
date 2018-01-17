@@ -68,9 +68,9 @@ Bizim küçük ahlak deneyi odamızda bulunan Bob ve Doug'a dönersek, bunun imk
 
 Eğer Bob Doug'a şöyle derse: "Ben şimdi 'FUBAR' ideal kavramını temsil ediyorum ve bu benim senin çakmağını almamı tamamen meşrulaştırıyor. Çünkü artık sen bana çakmağını borçlusun, onu devretmelisin veya güç kullanarak ben onu senden alacağım."
 
-Doug'un tepkisi ne olurdu? Unutmayın, ETD'ye göre Bob için geçerli olan şeyler Doug için de geçerli olmalıdır. Kaçınılmaz olarak, Doug: "Öyle mi?" cevabını verirdi. Şey, *ben* de artık "ANTI-FUBAR" ideal kavramını temsil ediyorum, ve bu benim çakmağımın sahipliğini sürdürmemi meşrulaştırır. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
+Doug'un tepkisi ne olurdu? Unutmayın, ETD'ye göre Bob için geçerli olan şeyler Doug için de geçerli olmalıdır. Kaçınılmaz olarak, Doug: "Öyle mi?" cevabını verirdi. Şey, *ben* de artık "ANTI-FUBAR" ideal kavramını temsil ediyorum, ve bu benim çakmağımın sahipliğini sürdürmemi meşrulaştırır. Çünkü senin artık benim çakmağımı almak için hiçbir hakkın yok, eğer almayı denersen güç kullanarak kendimi koruyacağım."
 
-As you can see, if *Bob* has the right to make up imaginary obligations and impose them on Doug, then *Doug* has the right to make up imaginary obligations and impose them on Bob. Açıkçası, derhal mükemmel bir çıkmaz içinde sonlandırmalıyız. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Erdem, bu yüzden yalnızca - imkansız olan - ahlak bozukluğu ile geçerli kılınabilir, ve aynı durumda olan iki insanoğlu için ahlak kurallarına karşı çıkarız, ki UPB onu anında geçersiz olarak geri çevirir.
+Gördüğünüz üzere, eğer *Bob* hayali zorunluluklar uydurma ve bunları Doug'a dayatma hakkına sahip ise o zaman *Doug* da hayali zorunluluklar uydurma ve bunları Bob'a dayatma hakkına sahiptir. Açıkçası, derhal mükemmel bir çıkmaz içinde sonlandırmalıyız. Uydurma zorunlulukları diğer insanlara dayatmak ahlaki olarak doğru kabul edilirse *herkes*in bu yeteneğe sahip olması bunu imkansız kılar o zaman ahlak imkansız hale gelir. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Erdem, bu yüzden yalnızca - imkansız olan - ahlak bozukluğu ile geçerli kılınabilir, ve aynı durumda olan iki insanoğlu için ahlak kurallarına karşı çıkarız, ki UPB onu anında geçersiz olarak geri çevirir.
 
 Diğer bir deyişle, güç kullanımı için hayali soyut her gerekçeye güç kullanımı için hayali soyut bir diğer gerekçeyle karışılık verilebilir. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Bu yüzden bizim hiçbirimiz hayali zorunluluklarımızı diğerlerine zorla kabul ettirme yeteneğine sahip olamayız.
 
@@ -94,7 +94,7 @@ Son bir kez Bob ve Doug'un odasına dönüyoruz, hadi "Jane" ile tanışalım.
 
 Şimdi odada "ahlak kuralı" prensibine bakabileceğimiz üç insan var.
 
-If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
+Eğer Bob, Doug ve Jane, Jane'e tecavüz etmenin ahlaki olup olmadığına dair bir "oy" alırlarsa, biz ahlaksız ve haksız bir öncülden tamamen geri çekilmiş oluruz. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
 
 Neden olmasın?
 
