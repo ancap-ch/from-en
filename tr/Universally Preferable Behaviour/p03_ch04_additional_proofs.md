@@ -6,7 +6,7 @@ Evrensel olarak tercih edilen davranış sorununu üstlenebileceğimiz başka ka
 
 Serbest piyasa ekonomisi kuşkusuz toplumdaki malların ve kaynakların üretimini ve tüketimini organize etmenin en verimli ve servet üreten yöntemidir. Onun maddi başarısı insanlık tarihinde ya da dünya çapında eşit değildir.
 
-The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
+UPB çerçevesi, serbest piyasa ekonomisinin maddi başarılarının nedenlerini öngörüyor, doğruluyor ve açıklıyor.
 
 Teoride serbest piyasa ekonomisi, evrensel mülkiyet hakkı teorisinin uygulanmasına dayalıdır. Buna karşılık komünizm, mülkiyet hakları evrensel teorisinin açıkça reddedilmesine dayanır. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
 
