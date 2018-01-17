@@ -24,7 +24,7 @@ Bu yüzden eğer sana konuşmam üzerinde kontrolümün olmadığını söylerse
 
 Bu sayede konuşmayı gerçekleştirmek için kendi bedenimi kontrol etme eylemi, benim konuşmamı kontrol etme yeteneğimi kabul etmemi gerektirir - kendi bedenim üzerindeki sahipliğimin dolaylı yoldan belirtilen bir doğrulaması.
 
-Now, if demonic possession were a valid occurrence, and a girl possessed by a demon spat on a priest, we would not call the *girl* rude, but would rather pity her for being inhabited by such an impolite demon. Kızın bedeni üzerinde kontrole sahip olan her kimse, onun hareketlerinin etkileri için suçlu tutulabilir - bu, uykuda geziyorken hırsızlık yapan bir adamı "kötü" diye adlandırmamamızın nedenidir, çünkü o adam kendi bedeni üzerinde tam kontrole sahip değildi (başka biçimlerde onu kısıtlayabiliyor olsak bile). Bu aynı zamanda, deli bir adamın eylemleri üzerinde tam bir kontrole sahip olmadığını varsaydığımız "cinnet sebebi ile suçlu bulunmama" nın yasal savunması için esastır.
+Şimdi, şeytan girmesi doğruysa ve içine şeytan girmiş bir kızın rahibe tükürmesi halinde, * kızı </ 0> kaba olarak nitelendirmeyeceğiz, ancak böyle kaba bir şeytan tarafından ele geçirildiği için ona acıycağız. Kızın bedeni üzerinde kontrole sahip olan her kimse, onun hareketlerinin etkileri için suçlu tutulabilir - bu, uykuda geziyorken hırsızlık yapan bir adamı "kötü" diye adlandırmamamızın nedenidir, çünkü o adam kendi bedeni üzerinde tam kontrole sahip değildi (başka biçimlerde onu kısıtlayabiliyor olsak bile). Bu aynı zamanda, deli bir adamın eylemleri üzerinde tam bir kontrole sahip olmadığını varsaydığımız "cinnet sebebi ile suçlu bulunmama" nın yasal savunması için esastır.</p> 
 
 Bu yüzden bedenin sahibi olduğunu reddetmek tüm ahlakı kabul etmemektir, ki bu, yukarıda gördüğümüz gibi, kesinlikle mümkün değildir. Mantık açısından, ahlak UPB'nin yürürlüğe konulabilen bir alt kümesi olarak tanımlanmaktadır, ahlaka karşı çıkmak, evrensel tercihler diye bir şeyin var olmadığına inanmanın evrensel olarak tercih edilebilir olduğunu söylemek demektir.
 
@@ -32,7 +32,7 @@ Finally, to use one’s ownership of one’s own body in the form of speech to r
 
 Bu şekilde herhangi bir kişinin mülkiyetinin reddedilmesi tamamen atılabilir.
 
-Vücutlarımızın sahibi olduğumuz için, aynı zamanda kaçınılmaz bir şekilde hareketlerimize de sahibiz, iyi de olsalar, kötü de olsalar. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+Vücutlarımızın sahibi olduğumuz için, aynı zamanda kaçınılmaz bir şekilde hareketlerimize de sahibiz, iyi de olsalar, kötü de olsalar. Eğer kendi eylemlerimizin etkilerinin sahibiysek, o zaman açıkça ürettiğimiz şeylere sahibizdir, ürettiğimiz şey ya bir yay olur, ya bir kitap - ya da bir cinayet.
 
 ### Mülkiyet ve UPB
 
