@@ -8,7 +8,7 @@ Bu köleliği bir erdem olarak gören kölelerin sahipleri için çok daha etkil
 
 Öyleyse din ve devlet mitolojileri nüfusu kontrol etme maliyetini önemli ölçüde azaltan kurgulardır, onlar kurumsallaşmış şiddetin korkunç makinesinin yağı ve yakıtıdır.
 
-Dünya çapında yöneticiler nüfusun çok ufak bir yüzdesinde bulunurlar. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Dünyanın her yerinde, yöneticiler nüfusun çok küçük bir kesimini oluşturur. Nüfusun yüzde bir veya ikisinin herkes üzerinde kontrol kurması nasıl mümkün olabilmiştir? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
 
 The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
 
