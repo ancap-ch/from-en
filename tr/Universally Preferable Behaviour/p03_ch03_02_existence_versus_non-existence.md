@@ -2,13 +2,13 @@
 
 Bir kere devletin şiddeti entelektüel olarak açığa çıktı mı - ve vatandaşların sözde "gönüllülüğü"nün kısır bir dolandırıcılık olduğu ortaya çıktı mı - bize koruma, bölgesel savunma, yollar ve benzeri kamu malları sağladığı için hükümete *ihtiyac*ımız olduğu argümanı daima geri gelir.
 
-I have written dozens of articles exposing the falsehood of this position, so I will not bother to reiterate those arguments here, since they are not essential to a book on morality, but rather would be more appropriate to a book explaining the principles and practicalities of a voluntary society.[^4]
+Bu konumlanmanın yanlış olduğunu açığa vuran düzinelerce makale yazdım, bu nedenle oradaki argümanlarımı burada tekrar etmeye razı değilim çünkü onlar ahlak üzerine bir kitap için gerekli değiller fakat daha çok gönüllü bir toplumun ilkelerini ve pratikliğini açıklayan bir kitaba uygunlar.[^4]
 
-"Pratiklik Argümanı"nın şiddet sorununu çözmesinin imkanı yok. Eğer seni her gün çizburger yerken görürsem, sağlıklı bir kiloyu korumak istiyorsan, bunun pratik olmadığını söyleyebilirim. Çoktan incelediğimiz nedenler dolayısıyla, çizburger yemenin senin için *kötü* olduğunu iddia edemem. I cannot justly compel you through force to increase the “practicality” of your actions.
+"Pratiklik Argümanı"nın şiddet sorununu çözmesinin imkanı yok. Eğer seni her gün çizburger yerken görürsem, sağlıklı bir kiloyu korumak istiyorsan, bunun pratik olmadığını söyleyebilirim. Çoktan incelediğimiz nedenler dolayısıyla, çizburger yemenin senin için *kötü* olduğunu iddia edemem. Eylemlerinizin pratikliğini arttırmanız için sizi haklı olarak zorlayamam.
 
-Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
+Bu yüzden hükümetin bizi daha pratik olmamız için zorlamasının meşru olduğunu söylemek tamamen yanlıştır, ki bu ETD sistemi ile doğrulanabilir - hatta hükümetin çözümlerinin daha pratik olduğunu varsaysak dahi ki aslında değildir.
 
-Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
+Ayrıca, eğer hükümet temsilcileri toplum sözleşmesinin pratik olmayan bir toplumu daha pratik olması için zorlamalarına izin verdiğini iddia ederse giderilemez bir çelişkiye düşülmüş olur.
 
 Eğer bir kadını benim seçtiğim bir erkekle evlenmeye zorlarsam, o zaman açıkça ondan çok daha iyi koca bulma hükmü verdiğime inanıyorumdur. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
 
