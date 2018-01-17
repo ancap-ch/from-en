@@ -1,11 +1,11 @@
-# First root heading
+# 第一根标题
 
-Below there's an enumerated list of styled pangrams, that shows every character, both in english and also in other languages.
+下面是一个列举的样式表，它显示了每个字符，包括英语和其他语言。
 
-1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
-2. numbers: 0123456789. 
-3. symbols: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
-4. emphasys: *The quick, brown fox jumps over a lazy dog.* 
+1. 大写：那只敏捷的棕色狐狸跳过了一只懒惰的狗。 
+2. 数字：0123456789. 
+3. 符号：+ - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " '' ' ' # $ % & .
+4. 强调： *The quick, brown fox jumps over a lazy dog.* 
     1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
     2. inner emphasys: **The *The quick, brown fox jumps over a lazy dog* dog.** 
         1. en: The quick, brown *fox* **jumps *over* a** lazy dog.
@@ -35,13 +35,13 @@ Some quotation. First line is large; second line is small; third line is empty; 
 > 
 > 6th line is a quotation: The quick, brown fox jumps over a lazy dog.
 
-# Headings
+# 标题
 
-## Sub heading
+## 副标题
 
-### Heading at the third level
+### 第三级标题
 
-#### Heading at the fourth level
+#### 第四级标题
 
 Some text at 4th level.
 
