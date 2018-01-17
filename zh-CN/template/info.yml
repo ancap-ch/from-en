@@ -9,31 +9,31 @@ translation:
   fetch_reviwers: true
   fetch_progress: true
 titles:
-  - Text title
+  - 文本标题
   - '~~Centered~~'
   - '~~~~~the right'
 discussions:
   - 
-    - 'https://en.ancap.ch/t/17'
+    - https://en.ancap.ch/t/17
     - Ancap Channel
 more_infos:
   - 
-    - 'https://www.google.com'
-    - Website name
+    - https://www.google.com
+    - 网站名称
 tags:
-  - Some Tag
-  - Another Tag
-  - And so on
+  - 一些标签
+  - 另一个标签
+  - 等等
 tag_prefix: "https://en.ancap.ch/tags/"
 persons:
   - 
     person: [ ]
     identifier: "template_person"
-    rule: "author"
+    rule: "作者"
   - 
     person: [ ]
     identifier: "template_person"
-    rule: "collaborator"
+    rule: "合作者"
   - 
     person: [ ]
     identifier: "template_person"
