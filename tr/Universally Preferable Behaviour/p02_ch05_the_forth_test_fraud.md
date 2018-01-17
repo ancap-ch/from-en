@@ -8,7 +8,7 @@ Hadi dolandırıcılık problemini UPB'nin süzgecinden geçirelim ve bekleyip b
 
 Açıkçası, dolandırıcılık, dolandırıcılıkla iç içe *olmayan* birini gerektirir. Yukarıdaki olası işlemde, eğer iki yüz dolarınızı çalmayı düşünüyorsam ve siz de iPodumu çalmayı düşünüyorsanız, hiçbir şey onu ortaya çıkarmayacak. Ödeme yapmadan önce iPod talebinde bulunacaksınız, ve ben iPod vermeden önce ödeme talep edeceğim. Köşeye sıkıştırılacağız, birbirimize hile yapmaya tamamıyla gücümüz yetmeyecek.
 
-Açıkçası, sahtekarlığı gerçekleşirmek için, bir taraf iyi niyetli davranmak zorunda. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
+Açıkçası, sahtekarlığı gerçekleşirmek için, bir taraf iyi niyetli davranmak zorunda. Bu yüzden dolandırıcılık yapmayı düşünen kişi, diğer kişiyi dolandırabilmek için onun dolandırıcılık yapmak *istememesine* bel bağlar.
 
 Talihsiz ahlaki kobayımıza dönmek için, Bob ve Doug'a "sahtekarlığın iyi olduğu" ahlak kurallarına uymalarını istediğimizde ne olur? Eğer Doug yirmi dolara sahipse, ve Bob çakmağa sahipse, ve Doug çakmak için Bob'a yirmi dolar teklif ediyorsa, ve sonra çakmağı alır ama Bob'a yirmi dolar vermez, sonra Doug dolandırıcılığın iyi olduğuna öncülük ediyor.
 
