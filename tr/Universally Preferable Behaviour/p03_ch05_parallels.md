@@ -50,13 +50,13 @@ Tabii ki, hiç birisi gerçek olmamıştır. Aslında, oldukça *tersi* gerçek 
 
 Tanrının çöküşü insanoğlunun yükselişi oldu.
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+Aynı şekilde, ilk bilim adamlarının evreni hayali bir merkezi otoriteye ihtiyaç duymadan kendi kendini sürdüren bir sistem olarak gördüğü gibi toplumu görmeye başlarsak, insanlık için özgürlük imkânlarını gerçekten algılamaya başlayabiliriz.
 
 The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
 
 Hayali varlıklara karşı koymanın yolu, acımasız gerçeğe dayanmaktadır. Tanrı'ya karşı gelmenin yolu, mantık, delil ve bilimdedir.
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
+Devlete - en tehlikeli - karşı çıkmanın yolu - akıl, kanıt ve bilimdedir.
 
 ### Gelecek
 
@@ -66,7 +66,7 @@ Böylece zorbalığın istediğini elde etmek için iyi bir yol olduğuna inanan
 
 Diğer bir deyişle, UPB tutarsızlık içinde bile tutarlılık ister. UPB ölümsüzlük içinde bile istikrar talep eder.
 
-The root moral premises of a culture thus dictate its inevitable future. Baskı üzerine inşa edilmiş kültür her zaman daha zorlayıcı hale gelecektir. Özgürlük mantığı üzerine kurulmuş bir kültür her zaman daha az zorlayıcı hale gelecektir.
+Bir kültürün köklü ahlaki öncülleri kaçınılmaz geleceğini belirler. Baskı üzerine inşa edilmiş kültür her zaman daha zorlayıcı hale gelecektir. Özgürlük mantığı üzerine kurulmuş bir kültür her zaman daha az zorlayıcı hale gelecektir.
 
 Bu, ahlaki kurallar için bir mantık çerçevesini resmetmenin önemli olma sebebidir.
 
