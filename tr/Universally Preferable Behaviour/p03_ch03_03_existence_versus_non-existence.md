@@ -18,11 +18,11 @@ Dünyanın her yerinde, yöneticiler nüfusun çok küçük bir kesimini oluştu
 
 Hükümetlerin ve tanrıların gereksiz olmasının esaslı bir nedeni bu kadar etkili olmalarıdır. *İnsanların ahlak teorileri ile kolayca kontrol edildiklerinden dolayı çoğu insanın iyi biri olmayı çılgınca istediğini biliriz.*
 
-Mitolojiye itaat etmenin mantığı açıkça ahmaklıktır. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+Mitolojiye itaat etmenin mantığı açıkça ahmaklıktır. Eğer bir rahip bana "Tanrı"ya itaat etmem gerektiğini söylerse bu bana "Takoz"a itaat etmem gerektiğini söylemesi ile tamamen aynı şeydir. Hatta eğer ben bu kurgusal varlığın ebedi itaate layık olduğunu kabul etsem bile bu durum beni hiçbir şekilde *rahip*e itaat etmek zorunda kılmaz. Eğer sana "kalbine itaat et" dersem daha sonra mantıklı bir şekilde şunu söyleyebilir miyim: "ve *ben yalnız* senin kalbin adına konuşurum."?
 
-Tabii ki değil.
+Tabi ki söyleyemem.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+Mitoloji ve kurguyu yöneticilerimizle "ilişkilerimiz"de soyup çıkartırsak, geriye acımasız, karmaşık ve öldürücü derecede bir sömürü gerçeği kalır.
 
 Bir örnek olarak tümüyle gerçek ve sürmekte olan tehlikeyi alalım: vergilendirme.
 
