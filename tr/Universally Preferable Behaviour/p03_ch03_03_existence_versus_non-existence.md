@@ -14,11 +14,11 @@ Dünyanın her yerinde, yöneticiler nüfusun çok küçük bir kesimini oluştu
 
 İnsanlık onurumuz iç güdüsel olarak başka bir insanoğluna doğrudan ve zoraki köleliğe karşı isyan eder - ancak, biz *mitolojiye* köleliği neredeyse bir zevk olarak görürüz.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+İyi biri olma arzumuz - ahlak mitolojisine itaat ederek elde ettiğimiz erdem heyecanı ile birlikte - bizi, kaynaklarımızı kendilerini bu mitolojilerin temsilcileri olarak sunan kişilere gönüllüce vermeye hazırlar.
 
-One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+Hükümetlerin ve tanrıların gereksiz olmasının esaslı bir nedeni bu kadar etkili olmalarıdır. *İnsanların ahlak teorileri ile kolayca kontrol edildiklerinden dolayı çoğu insanın iyi biri olmayı çılgınca istediğini biliriz.*
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+Mitolojiye itaat etmenin mantığı açıkça ahmaklıktır. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
 Tabii ki değil.
 
