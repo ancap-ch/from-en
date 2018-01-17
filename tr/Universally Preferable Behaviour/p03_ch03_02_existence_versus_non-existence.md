@@ -10,7 +10,7 @@ Bu yüzden hükümetin bizi daha pratik olmamız için zorlamasının meşru old
 
 Ayrıca, eğer hükümet temsilcileri toplum sözleşmesinin pratik olmayan bir toplumu daha pratik olması için zorlamalarına izin verdiğini iddia ederse giderilemez bir çelişkiye düşülmüş olur.
 
-Eğer bir kadını benim seçtiğim bir erkekle evlenmeye zorlarsam, o zaman açıkça ondan çok daha iyi koca bulma hükmü verdiğime inanıyorumdur. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
+Eğer bir kadını benim seçtiğim bir erkekle evlenmeye zorlarsam, o zaman açıkça ondan çok daha iyi koca bulma hükmü verdiğime inanıyorumdur. Aslında, onun tamamen akıl almaya açık olmadığına inanıyorum ya da onun kişisel çıkarına ilişkin bir kanıta sahibim bu yüzden onun tercihlerini hesaba *katmıyorum* ve benim seçtiğim adamla evlenmeye zorluyorum.
 
 When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
 
