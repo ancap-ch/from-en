@@ -94,9 +94,9 @@ No entanto, um vírus que nos faz sentir esgotados continuamente, de tal forma q
 
 Quando nos curamos de uma doença, nos sentimos melhor, mas a doença não. Do ponto de vista do vírus da varíola, a vacina contra a varíola é genocida.
 
-In the same way, the parasites that strangle mankind view the liberty of the majority with horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+Do mesmo modo, os parasitas que estrangulam a humanidade vêem a liberdade da maioria com horror. Uma vez que o seu parasitismo os liberta das demandas da realidade - para ganhar o seu pão diário - inevitavelmente vêem a liberdade das massas como uma forma de escravidão para si próprios. Assim, um agricultor veria a "libertação" do seu gado como um desastre absoluto…
 
-Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+O estabelecimento da verdade limita, inevitavelmente, a fantasia. Limitar a fantasia é limitar, necessariamente, a exploração. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
 
 Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
 
