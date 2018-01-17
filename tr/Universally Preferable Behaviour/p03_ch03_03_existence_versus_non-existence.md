@@ -124,4 +124,4 @@ Var olan hiçbir şey bu "oy üstünlüğü sağlamak" senaryolarını değişti
 
 Sadece bir kaç el kalktığı veya indiği için, tecavüz iyi, sonra kötü, sonra tekrar iyi olamaz.
 
-Thus if you think that “majority rule” sounds like a reasonable moral proposition, and a perfectly valid moral theory, then I am afraid you’re going to have to go back to the beginning of this book and start again!☺
+Bu yüzden, eğer "çoğunluk kuralı" 'nın kulağa mantıklı olan ahlaki bir önerme ve mükemmel bir şekilde geçerli ahlaki bir kuram gibi geldiğini düşünüyorsanız, o zaman korkarım ki bu kitabın başlangıcına geri dönmeniz ve ona yeniden başlamanız gerekecek!☺
