@@ -60,7 +60,7 @@ We can revolutionise the world by accepting the claim – and the proof – that
 
 When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
 
-Devletin iktidarını haklı çıkarmak için en sık kullanılan öneri "hükümet paranızı almak hakkına" sahiptir. Ancak, bu tamamen ve kesin olmayan bir yanlış beyandır. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+Devletin iktidarını haklı çıkarmak için en sık kullanılan öneri "hükümet paranızı almak hakkına" sahiptir. Ancak, bu tamamen ve kesin olmayan bir yanlış beyandır. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB nesnel ifade ve daha fazla tutarlılık gerektirir. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
 
 “*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
 
