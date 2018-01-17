@@ -108,7 +108,7 @@ Gönüllü bir toplumda hiç vergi alınamayacak ve bu nedenle tekelci güç eld
 </p>
 
 <p>
-  Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+  Hayali şeytanlardan hükümetlerin koruyucu hapisanelerine kaçmak sadece yaşamı gerçekten yaşamaya değer kılan özgürlüklerin yok edilmesini sağlar.
 </p>
 
 <footnotes>
