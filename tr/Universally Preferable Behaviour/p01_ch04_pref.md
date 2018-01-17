@@ -2,7 +2,7 @@
 
 Kendini yenerek argümanların doğasını kavradığımızdan, tercihler meselesine yönelebilmekteyiz.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. Bilimsel yöntem, örnek verecek olursak, büyük bir ölçüde mantıksal tutarlılık ve deneysel doğrulama için doğuştan gelen tercihler aracılığıyla tanımlanır. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Tercihler, önermelerin gerçeklik değerini niteleme isteğinde bulunan herhangi bir metodolojinin merkezinde yer alırlar. Bilimsel yöntem, örnek verecek olursak, büyük bir ölçüde mantıksal tutarlılık ve deneysel doğrulama için doğuştan gelen tercihler aracılığıyla tanımlanır. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
 
 Bu noktada, "tercih edilebilir", "iyinin çeşidi" anlamına gelmez, daha ziyade "gerekli" anlamına gelir. Eğer yaşamak istiyorsan, bir avuç dolusu arsenik yemekten çekinmek evrensel olarak tercih edilebilirdir. *If* Gerçek ile ilgili geçerli doğruları belirlemek istiyorsanız, kuramlarınızın hem iç tutarlı hem deneysel olarak doğrulanabilir olması *universally preferable*. O halde, "Evrensel olarak tercih edilir", "nesnel olarak gerekli" terimine çevrilir, ancak isteğe bağlı insan mutlaklarını ve yerçekimi gibi isteğe bağlı olmayan fiziksel mutlakları ayırt etmek için "tercih edilebilir" sözcüğünü elimizde tutacağız.
 
