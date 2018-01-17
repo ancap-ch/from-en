@@ -92,7 +92,7 @@ Eğer Queen grubunu diğerlerinden daha çok beğendiğimi söylersem bu, evrens
 
 Nitekim tecavüz sırf kişisel bir tercih olarak görülseydi, o zaman mantıklı olarak hiç kimsenin üzerinde zorlanamazdı. Yine, bir odadaki iki adama baktığımızda bu durum, iki adamın birbirlerine tecavüz etme tercihinde bulunmalarını gerektirirdi ama bu mantığa aykırı ve de neyse ki tümüyle pratik olmayan karar, tamamen uygulanamayacak haldedir.
 
-Finally, since personal preferences cannot be enforced on others, but rape is by definition the enforcement of a “preference” upon another, rape cannot be in the moral category of merely personal preferences.
+Son olarak kişisel tercihler başkalarına zorla kabul ettirilemeyeceği gibi, tecavüz tanım olarak "tercihin" zorla kabul ettirilmesidir, tecavüz kesinlikle kişisel tercih kategorisine alınamaz.
 
 ### Ahlaken Nötr
 
