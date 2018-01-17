@@ -24,7 +24,7 @@ Eğer ben kendi tercihlerimi yapmak konusunda ehliyetsiz olduğumu düşünmüyo
 
 Ya yetkili karar verme yeteneğine sahibimdir, ya da değilimdir. Eğer *ben* yeterli kararları alabilecek kapasitedeysem o zaman kendimi hayatımın geri kalanında güce tabi kılmam geçersiz olur. Eğer *ben* yeterli kararları alabilecek kapasitede değilsem o zaman kendimi hayatımın geri kalanında güce tabi kılmam yine geçersiz olur.
 
-Even if the above considerations are somehow bypassed, however, it is still impossible to justly enforce a social contract through a government. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+Yukarıda yer alan bazı kabuller pypass edilse dahi adil bir şekilde hükümet yoluyla bir toplum sözleşmesi dayatmak mümkün değildir. Açıktır ki, ben *sizin* ya da kendi çocuklarım adına sizi ya da onları hayatlarının geri kalanında bağlayabilecek bir sözleşme imzalayamam. Bir araba alıp size faturayı gönderip adil bir şekilde sizden bunu ödemenizi talep edemem. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
 
 Aynı şekilde, vergilerimi gönüllü olarak ödemeyi seçsem bile, bu seçimi size empoze edemem çünkü gönüllü bir sözleşme sadece kişisel bir tercih ile olur ve bu sebeple şiddet yoluyla evrensel olarak uygulanamaz.
 
@@ -96,11 +96,11 @@ Gönüllü bir toplumda hiç vergi alınamayacak ve bu nedenle tekelci güç eld
 </p>
 
 <p>
-  Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
+  Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Ayrıca, çeteler, yasal olarak yasaklanmış maddeler veya hizmetler sağlayarak muazzam bir kazanç elde ederler ve devlet politikaları nedeniyle büyük oranda gelişirler.
 </p>
 
 <p>
-  A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+  Daha yararlı bir örnek ise, hiçbir liderin nükleer silahlara sahip başka bir lidere hiç savaş ilan etmediği gerçeğidir. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
 </p>
 
 <p>
