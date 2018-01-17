@@ -12,7 +12,7 @@ Ayrıca, eğer hükümet temsilcileri toplum sözleşmesinin pratik olmayan bir 
 
 Eğer bir kadını benim seçtiğim bir erkekle evlenmeye zorlarsam, o zaman açıkça ondan çok daha iyi koca bulma hükmü verdiğime inanıyorumdur. Aslında, onun tamamen akıl almaya açık olmadığına inanıyorum ya da onun kişisel çıkarına ilişkin bir kanıta sahibim bu yüzden onun tercihlerini hesaba *katmıyorum* ve benim seçtiğim adamla evlenmeye zorluyorum.
 
-When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
+Bu kadını evlenmeye zorladığım zaman, bu zor kullanmayı - hatta doğrudan, pragmatik gerekçelerle - sadece onun zihinsel gelişiminin evlilik konusunda kendi tercihini yapmaya uygun olmadığını iddia ederek meşrulaştırabilirim.
 
 Eğer bir kadın evlilik açısından kendi kararlarını vermek için zihinsel olarak yetersiz ise, açıkça aynı zamanda *onun için bu seçimi yapacak bir temsilci görevlendirmek için de zihinsel olarak yetersizdir*. Eğer iyi veya uygun bir kocayı neyin oluşturduğunu hakkında bir fikri yoksa, o zaman benim ona uygun veya iyi bir koca bulmak için uygun olduğumu nasıl değerlendirebilir?
 
