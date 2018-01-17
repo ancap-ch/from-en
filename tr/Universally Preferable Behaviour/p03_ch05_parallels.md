@@ -60,7 +60,7 @@ The way to oppose the state – the most dangerous imaginary entity – is with 
 
 ### Gelecek
 
-Whether we like it or not, UPB applies to everything that we do. İnsanoğlu, tutarlı ve akılcı bir evrende yaşayan rasyonel bir bilince sahip varlıklar olduğumuz için, doğal bir süreklilik eğilimine sahiptir. Böylelikle, hayatımızda kabul ettiğimiz herhangi bir önerme, hayatlarımız boyunca - ve kültürümüzün ya da milletimizin "yaşamı" boyunca da - gittikçe daha tutarlı davranışlar göstermeye eğilimlidir.
+Beğensek de beğenmesek de, UPB yaptığımız her şeyde etkili olur. İnsanoğlu, tutarlı ve akılcı bir evrende yaşayan rasyonel bir bilince sahip varlıklar olduğumuz için, doğal bir süreklilik eğilimine sahiptir. Böylelikle, hayatımızda kabul ettiğimiz herhangi bir önerme, hayatlarımız boyunca - ve kültürümüzün ya da milletimizin "yaşamı" boyunca da - gittikçe daha tutarlı davranışlar göstermeye eğilimlidir.
 
 Böylece zorbalığın istediğini elde etmek için iyi bir yol olduğuna inanan bir adam hayatı boyunca daha çok zorbalık eğiliminde bulunur. Şiddetin iyi olduğuna inanan biri gitgide hiddet dolu olmaya yatkındır.
 
