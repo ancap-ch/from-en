@@ -84,7 +84,7 @@ Accordingly, given the present constellation of affairs, then, any promising lib
 
 Now, taking our cues from the Buchanan-, the Paul- and the Trump-movement, on to the specifics of a populist strategy for libertarian change, in no specific order except for the very first one, which has currently assumed the greatest urgency in the public mind.
 
-#### Stop mass immigration
+#### Pare a imigração em massa
 
 The waves of immigrants currently flooding the Western world have burdened it with hordes of welfare parasites, brought in terrorists, increased crime, led to the proliferation of no-go areas and resulted in countless “bad neighbors” who, based on their alien upbringing, culture and traditions, lack any understanding and appreciation of liberty and are bound to become mindless future supporters of welfare-Statism.
 
