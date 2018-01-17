@@ -152,7 +152,7 @@ Bu tür bir sözleşme değil! It’s a – *social* contract… And besides –
 
 "Evet, tabii ki - hadi buraya bir bak!"
 
-“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+Pekala, bu sadece tüm mahallenin sana ait olduğunu gösteren bir el yazısı notu ve senin imzanla aynı el yazısı. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
 
 This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
 
