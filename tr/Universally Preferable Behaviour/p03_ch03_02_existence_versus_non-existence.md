@@ -16,13 +16,13 @@ Bu kadını evlenmeye zorladığım zaman, bu zor kullanmayı - hatta doğrudan,
 
 Eğer bir kadın evlilik açısından kendi kararlarını vermek için zihinsel olarak yetersiz ise, açıkça aynı zamanda *onun için bu seçimi yapacak bir temsilci görevlendirmek için de zihinsel olarak yetersizdir*. Eğer iyi veya uygun bir kocayı neyin oluşturduğunu hakkında bir fikri yoksa, o zaman benim ona uygun veya iyi bir koca bulmak için uygun olduğumu nasıl değerlendirebilir?
 
-Eğer olağanüstü derecede düşük zekalı bir adam "sağlık" kavramını anlayamıyorsa, doktor seçiminde akıllıca davranacağını beklemek mantıklı mıdır? Yetkin bir doktor seçmek için, fayda, maliyet, profesyonellik ve benzeri kavramları anlamalıyız. In the same way, if I do not allow a woman to have any say in who she marries, then clearly I must believe that she has no understanding of what makes a good husband – but if she has no understanding of what makes a good husband, then she has no capacity to transfer that choice to me, since she will have no way of evaluating *my* criteria for what makes a good husband.
+Eğer olağanüstü derecede düşük zekalı bir adam "sağlık" kavramını anlayamıyorsa, doktor seçiminde akıllıca davranacağını beklemek mantıklı mıdır? Yetkin bir doktor seçmek için, fayda, maliyet, profesyonellik ve benzeri kavramları anlamalıyız. Benzer şekilde, eğer bir kadına kiminle evliliği hakkında söz hakkı tanımazsam o zaman açıktır ki ben onun neyin birini iyi koca yaptığını hiç anlamadığına inanıyor olmalıyım - fakat eğer o neyin birini iyi koca yaptığını hiç anlamıyorsa o zaman bana seçme hakkını aktarma kapasitesine de sahip değildir çünkü o, *benim* birini neyin birini iyi koca yaptığına ilişkin kriterlerimi değerlendirme yetisine sahip değildir.
 
 Eğer evimi hangi renge boyayacağıma karar veremezsem, ve çözümüm boyacıyla benim için boyanın rengini seçeceğine dair bir anlaşma imzalamaksa, ve bu anlaşmada onun kararlarına karşı benim gelecek özgürlüğümün gitmesini kabul ediyorsam ve ona eğer onunla aynı kararda olmazsam beni kaçırma ve esir etme hakkı veriyorsam, o zaman ruh sağlığım yerinde değildir. Birine beni *hayatımın geri kalanı boyunca* yönetecek gücü verirsem, o zaman açıkça kendi kararlarımı almaya yetkin olduğuma inanmıyorumdur.
 
-If I do not think that I am competent to make my own decisions, then clearly my decision to subject myself to violence *for the rest of my life* is an incompetent decision.
+Eğer ben kendi tercihlerimi yapmak konusunda ehliyetsiz olduğumu düşünmüyorsam o zaman açıktır ki *hayatımın geri kalanında* kendimi şiddete maruz bırakma kararım ehliyetsizce verilmiş bir karardır.
 
-Ya yetkili karar verme yeteneğine sahibimdir, ya da değilimdir. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. If I am *not* capable of making competent decisions, then my decision to subject myself to force for the rest of my life is also invalid.
+Ya yetkili karar verme yeteneğine sahibimdir, ya da değilimdir. Eğer *ben* yeterli kararları alabilecek kapasitedeysem o zaman kendimi hayatımın geri kalanında güce tabi kılmam geçersiz olur. Eğer *ben* yeterli kararları alabilecek kapasitede değilsem o zaman kendimi hayatımın geri kalanında güce tabi kılmam yine geçersiz olur.
 
 Even if the above considerations are somehow bypassed, however, it is still impossible to justly enforce a social contract through a government. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
 
@@ -36,7 +36,7 @@ This whole question becomes even more ludicrous when we look at the most common 
 
 Bu devletin gerekliliği sorusu ortaya çıktıkça iki ek itiraz sürekli olarak yinelenir. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
 
-The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Vatandaşlar kendilerini kötü bireylere karşı savunabilir, ancak polise ve askeri güce sahip dişlerin silahlı saldırgan bir hükümetine karşı hiçbir şansı yoktur. Böylece kötü insanlar var olduğundan dolayı hükümete ihtiyacımız olduğu iddiası yanlıştır. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
+Bu konumdaki ilk ve en bariz sorun, toplumda kötü insanlar varsa, hükümet içinde de varolacakları ve bu nedenle çok daha tehlikeli olacağıdır. Vatandaşlar kendilerini kötü bireylere karşı savunabilir, ancak polise ve askeri güce sahip dişlerin silahlı saldırgan bir hükümetine karşı hiçbir şansı yoktur. Böylece kötü insanlar var olduğundan dolayı hükümete ihtiyacımız olduğu iddiası yanlıştır. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
 
 Mantıken, dünyadaki iyi ve kötü insanların karışımı için dört olasılık vardır:
 
@@ -83,7 +83,7 @@ Bu bölümün başlangıcında, hükumetin dağılma fikri ile karşı karşıya
 
 Bu görünüm, yukarıda özetlenen aynı hatadan doğmaktadır. If *all* social institutions are constantly trying to grow in power and enforce their wills on others, then by that very argument a centralised government cannot be allowed to exist. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
 
-The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Hükümetler, vergilerin bir bölümüyle vergi toplayıcılarına ödeme yaptıkları için sonsuz olarak büyüyebilirler. The slaves are thus forced to pay for the costs of their enslavement.
+The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Hükümetler, vergilerin bir bölümüyle vergi toplayıcılarına ödeme yaptıkları için sonsuz olarak büyüyebilirler. Köleler, böylece köleleştirme masraflarını ödemek zorunda kalır.
 
 In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
 
@@ -105,7 +105,7 @@ Fleeing from imaginary devils into the protective prisons of governments only en
 
 [^6]: İyi ve kötünün mükemmel dengesi neredeyse imkansızdır.
 
-[^7]: This is the current situation in democracies, of course.
+[^7]: Tabi ki de demokrasilerdeki mevcut durum budur.
 
 [^8]: See Plato’s *Republic*.
 
