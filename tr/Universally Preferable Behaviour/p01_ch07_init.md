@@ -24,7 +24,7 @@ Benzer bir şekilde, cüzdanımı bir hafta boyunca bir park bankında bırakıp
 
 ### Saldırmazlık Kuralı (SK)
 
-Genellikle * saldırgan olmayan ilke * veya NAP olarak adlandırılan bir ahlaki kural önerilir. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+Genellikle * saldırgan olmayan ilke * veya NAP olarak adlandırılan bir ahlaki kural önerilir. Ayrıca, bir kirpi, sadece kendini savunurken "güç" kullandığı için, "pasifist bir kirpi" şeklinde de adlandırılabilir. NAP temelde "güç kullanımının başlatılması ahlaki olarak yanlış olduğunu savunan" bir önermedir. Bizim konuşmamız açısından daha açık hale getirmek gerekirse: "Evrensel olarak, gücün başlatılmaması tercih edilir".
 
 NAP gibi bir kuralı analiz ederken, gerçekten sadece yedi olasılık vardır; negatifte üç, pozitifte üç ve bir tarafsız.
 
@@ -44,6 +44,6 @@ UEP'yi UPB ile birleştirmek, bu yedi ifadenin üçe bölünmesini sağlar:
 2. Güç kullanımını başlatmamak evrensel olarak tercih edilebilirdir.
 3. Güç kullanımının başlatılması evrensel tercihlere bağlı değildir.
 
-Bu, mantıklı tutarlılık gereksinimlerinin etik meselelere uygulanmasının doğal sonucudur. Rasyonel bir teori aynı koşullardan zıt bulguların meydana gelebileceğini geçerli biçimde önermez. Bilimsel bir teori, bir taşın aşağı düşmesi ve bir diğerinin yukarıya doğru gitmesi gerektiğini savunamaz. Einstein bir Perşembe günü E=MC^2^, ama Cuma günü, veya Marsta, veya kırk yılda bir E=MC^3^ olacağını iddia etmedi. The law of conservation – that matter can be neither created nor destroyed – does not hold true only when you really, really want it to, or if you pay a guy to make it so, or when a black cat crosses your path. Fizik kuralları, zamana, coğrafyaya, görüşlere veya Meclisin yasalarına bağlı değildir. Bu tutarlılık, etik sistemleri veya UPB için de gereklidir ve İkinci Bölümde genel kabul görmüş ahlaki teorileri bir kaç sayfa halinde bu zorlamaya tabi tutacağız.
+Bu, mantıklı tutarlılık gereksinimlerinin etik meselelere uygulanmasının doğal sonucudur. Rasyonel bir teori aynı koşullardan zıt bulguların meydana gelebileceğini geçerli biçimde önermez. Bilimsel bir teori, bir taşın aşağı düşmesi ve bir diğerinin yukarıya doğru gitmesi gerektiğini savunamaz. Einstein bir Perşembe günü E=MC^2^, ama Cuma günü, veya Marsta, veya kırk yılda bir E=MC^3^ olacağını iddia etmedi. Korumanın yasası - ne yaratılabilen ne de yok edilebilen - yalnızca sizin gerçekten, ama gerçekten istediğinizde veya bunu yapacak başka birine ödeme yapıyorsanız ya da siyah bir kedi yolunuzu keserse geçerli değildir. Fizik kuralları, zamana, coğrafyaya, görüşlere veya Meclisin yasalarına bağlı değildir. Bu tutarlılık, etik sistemleri veya UPB için de gereklidir ve İkinci Bölümde genel kabul görmüş ahlaki teorileri bir kaç sayfa halinde bu zorlamaya tabi tutacağız.
 
 Bununla birlikte, *tutarlılık* konusunu ele aldığımızdan, *tutarsızlık* kapasitemizi ele almak için zaman ayırmaya değer.
