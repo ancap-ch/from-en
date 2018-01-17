@@ -132,7 +132,7 @@ Bob'un paramızı almasını "istediğimizi" söyledik - ki bu Bob'un dolu bir s
 
 "Onların parasını almamı *istediler*!"
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+"Peki o zaman, eğer paralarını sana vermezlerse niçin onları vurmakla tehdit ediyorsun?"
 
 "Çünkü bana paralarını *borçlular*!"
 
@@ -140,15 +140,15 @@ Bob'un paramızı almasını "istediğimizi" söyledik - ki bu Bob'un dolu bir s
 
 ''Hayır, hayır-onlar bana borçlular. Gerçekten*benim*param!''
 
-“On what grounds do they owe you this money?”
+"Neye dayanarak bu parayı borç alıyorlar?"
 
 ''Biz bir sözleşmeye sahibiz!''
 
 "Bana sözleşmeyi gösterir misin? Sözleşmeyi kendi özgür iradeleriyle mi imzaladılar?"
 
-Bu tür bir sözleşme değil! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+Bu tür bir sözleşme değil! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Bana benim paramı vermeyi reddeden biri başka bir yere gidebilir - Ben kimseyi zorlamıyorum!
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
+"Üstelik tüm mahallenin sahibi olduğunu nereden biliyorsun? Tapuların var mı?"
 
 "Evet, tabii ki - hadi buraya bir bak!"
 
