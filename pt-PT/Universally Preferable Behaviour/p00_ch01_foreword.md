@@ -1,93 +1,95 @@
-## Prefácio
+## Introdução
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+Em muitos contos de fadas, existe um monstro terrível de imenso poder, um dragão ou um réptil, que tiraniza as terras ao redor. Os habitantes da região, tremem diante desse monstro; sacrificam os seus animais, pagam dinheiro e sangue na esperança de apaziguar os seus impulsos assassinos.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+A maioria das pessoas acobarda-se sob a sombra desta besta, designando o seu medo como "prudência", mas alguns - embriagados de coragem ou loucura - decidem lutar. Ano após ano, década após década, muitos grupos de campeões esperançosos, tentam combinar a sua força, virtude e astúcia contra esse terrível tirano.
 
-Try – and fail.
+Tentam - e falham.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+A besta é sempre imortal, então os aldeões não podem esperar para se livrar do seu déspota. O tirano nunca é racional, e não tem vontade de mudar, portanto não é possível nenhuma negociação.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+A única esperança dos aldeões desesperados é que apareça um homem que possa derrotar o monstro.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Inevitavelmente, surge um homem que chega e impressiona a todos de forma totalmente incongruente. Ele é um cavaleiro, um filho de sapateiro, um aprendiz de padeiro - ou às vezes, apenas um vagabundo.
 
-This book is the story of my personal assault on just such a beast.
+Este livro é a história pessoal do meu ataque a um desses déspotas.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Esta "besta" é a crença de que é impossível definir um sistema ético, objectivo, racional, secular e científico. Este "monstro" é a ilusão de que a moral deve ser perdida para sempre nos pântanos irracionais de deuses e governos, impostos por razões meramente pragmáticas, mas sempre sem justificativa lógica e uma definição clara. Esta "besta" é a fantasia de que a virtude, a nossa maior alegria, a nossa felicidade mais profunda, deve ser deixada de lado por adultos seculares, e posta no chão para ser pisada, exibida e explorada por políticos e sacerdotes - e até pelos pais. Este "tirano" é a superstição de que, sem a invectiva dos pais, o bullying dos deuses ou as armas dos governos, não podemos ser racionais e bons.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Este animal trouxe muitos heróis maravilhosos, desde Sócrates a Platão a Agostinho a Hume a Kant e a Rand.
 
-The cost to mankind has been enormous.
+O custo para a humanidade tem sido enorme.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Uma vez que permanecemos incapazes de definir um sistema racional de moralidade universal, fomos obrigados a infligir histórias de terror religioso aos nossos filhos ou a fabricar armas, prisões e exércitos para um pequeno monopólio de controladores sem alma, que se denomina a si próprio, "Estado."
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Uma vez que o que chamamos "ética" permanece subjectivo e meramente* cultural*, inevitavelmente acabamos confiando no assédio moral, no medo e na violência para que imponham as regras sociais. Já que a ética não tem uma base racional no método científico, a "moralidade" permanece atolada numa guerra tribal de mitologias sangrentas, com cada bando a lutar com unhas e dentes, pelo controlo da fidelidade das pessoas à "virtude."
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Não podemos viver sem moral, mas também não podemos definir a moral de forma objectiva - portanto, permanecemos eternamente condenados a vidas vazias, de hipocrisia arrogante, domínio cínico ou escravidão piedosa.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Intelectualmente, não há apostas maiores no mundo. O nosso fracasso ao definir regras morais objectivas e racionais, custou centenas de milhões de vidas humanas, nas guerras de religiões e estados.
 
-In many ways, the stakes are getting even higher.
+Em muitos aspectos, as apostas estão a ficar ainda maiores.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+O aumento do fluxo de informações da Internet levantou as suspeitas de uma nova geração de que o que é chamado de "virtude" não é nada mais - nem menos - do que os contos de fadas dos seus anciãos hipócritas. As mentiras piedosas ditas pelos que detêm a autoridade - e a cumplicidade daqueles que os veneram - agora são mais claras do que nunca.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+A "Verdade" foi exposta como manipulação; "Virtude" como controlo; "Lealdade" como escravidão, e o que é chamado de "moralidade" foi revelado como um espectáculo de marionetas ridículo, projectado para enganar e escravizar as pessoas fracas e medrosas.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+Esta realização deu origem a uma nova geração de niilistas, tal como aconteceu na Alemanha do século XIX. Estes relativistas extremos reservam os seus ataques mais virulentos para todo aquele que reivindique qualquer forma de certeza. Esta geração pós-moderna superou os fatos culturais das suas histórias colectivas, mas agora vê a verdade *toda * como uma mera afirmação prejudicial. Como crianças de olhos arregalados que foram marcadas na "sabedoria" cínica, vêem toda a comunicação como publicidade, todas as reivindicações como propaganda e todas as exortações morais como roubo hipócrita.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+Uma vez que não temos acordo sobre um quadro coeso, objectivo e racional para avaliar as proposições morais, a "moralidade" permanece atolada no misticismo e a sua sequela inevitável de violência. Assim como, antes do Iluminismo, as seitas religiosas lutavam infinitamente pelo controlo, com as espadas da aristocracia, agora, as mitologias morais concorrentes lutam pelo controlo do estado e de toda a sua maquinaria de coerção.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+Assim, a moralidade continua a ser, para a ciência moderna, como a "astronomia" medieval para a arte da astronomia moderna - um domínio da mitologia imaginária, aplicada através de narrativas, ameaças, compulsão e exploração - que bloqueia activamente qualquer progresso real em direcção à verdade.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+Esse "déspota" da ética relativista aproxima-se de nós, atacando-nos, justificando a tributação, a prisão, a censura e as guerras. Escraviza os jovens nas escolas estaduais e nas bancas dominicais; Aprisiona os pobres no bem estar do suave sistema de campos de trabalho; Até escraviza os ainda, não nascido, nos poços sem fundo das dívidas nacionais.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+Como escrevi no meu livro anterior, "Oh Verdade: A Tirania da Ilusão", a mentira mais fundamental no centro das teorias éticas não comprovadas, é que tais teorias são sempre apresentadas às crianças, como factos objectivos e incontestáveis, quando na verdade são simples dogmas culturais. A razão pela qual os cientistas não precisam de um governo ou de um Vaticano é que os cientistas possuem uma método objectivo para resolver disputas: o método científico. A razão pela qual a linguagem não precisa de uma autoridade central para orientar a sua evolução é que ela depende do "mercado livre" das preferências individuais, acumuladas pelo estilo e a utilidade.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+A razão pela qual a moral moderna - e a moralidade ao longo da história - sempre teve que confiar, primeiro, no maltrato de crianças e, em seguida, na ameaça dos adultos, é que é uma mentira manipuladora mascarada como uma verdade virtuosa.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+A verdade é que necessitamos da moralidade; A mentira é que deuses ou governos podem, racionalmente, definir ou aplicá-la com justiça.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+O meu objectivo neste livro é definir uma metodologia para validar teorias morais objectivas, consistentes, claras, racionais, empíricas e * verdadeiras *.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+Estou plenamente consciente de que, neste momento, provavelmente sentirá uma onda crescente de cepticismo. Eu entendo perfeitamente que as probabilidades de que alguém lá fora na Internet - o mundo doméstico dos loucos - de alguma forma tenha resolvido o problema filosófico de que as idades não são particularmente altas - de fato, elas seriam tão próximas de zero que são praticamente indistinguíveis a partir daí.
 
-Still, not *quite* zero.
+Ainda assim, não * inteiramente </ 0> zero.</p> 
 
-### Ground Rules
+### Regras básicas
 
-Extraordinary claims require extraordinary proof. In taking on this mammoth task – particularly in such a short book – I have set myself some basic ground rules, which are worth going over here.[^1]
+As reivindicações extraordinárias requerem provas extraordinárias. Ao assumir esta tarefa gigantesca - particularmente num livro tão pequeno - estabeleci algumas regras básicas para mim próprio, que vale a pena passar para aqui. [^1]
 
-1. I fully accept the Humean distinction between “is” and “ought.” Valid moral rules cannot be directly derived from the existence of anything in reality. The fact that human beings in general *prefer* to live, and must successfully interact with reality in order to do so, cannot be the basis for any valid theory of ethics. Some people clearly do not prefer to live, and steadfastly reject reality, so this definition of ethics remains subjective and conditional.
-2. Ethics cannot be objectively defined as “that which is good for man’s survival.” Certain individuals can survive very well by preying on others, so this definition of ethics does not overcome the problem of subjectivism. In biological terms, this would be analogous to describing evolutionary tendencies as “that which is good for *life’s* survival” – this would make no sense. Human society is an ecosystem of competing interests, just as the rainforest is, and what is “good” for one man so often comes at the expense of another.
-3. I do not believe in any “higher realm” of Ideal Forms. Morality cannot be conceived of as existing in any “other universe,” either material or immaterial. If morality exists in some “other realm,” it cannot then be subjected to a rigorous rational or empirical analysis – and, as Plato himself noted in “The Republic,” society would thus require an elite cadre of Philosopher-Kings to communicate – or, more accurately, *enforce* – the incomprehensible edicts of this “other realm” upon everyone else. This also does not solve the problem of subjectivism, since that which is inaccessible to reason and evidence is by definition subjective.
-4. I do not believe that morality can be defined or determined with reference to “arguments from effect,” or the predicted consequences of ethical propositions. Utilitarianism, or “the greatest good for the greatest number,” does not solve the problem of subjectivism, since the odds of any central planner knowing what is objectively good for everyone else are about the same as any central economic planner knowing how to efficiently allocate resources in the absence of price – effectively zero. Also, that which is considered “the greatest good for the greatest number” changes according to culture, knowledge, time and circumstances, which also fails to overcome the problem of subjectivism. We do not judge the value of scientific experiments according to some Platonic higher realm, or some utilitarian optimisation – they are judged in accordance with the scientific method. I will take the same approach in this book.
-5. I also refuse to define ethics as a “positive law doctrine.” Although it is generally accepted that legal systems are founded upon systems of ethics, no one could argue that every law within every legal system is a perfect reflection of an ideal morality. Laws cannot directly mirror *any* objective theory of ethics, since laws are in a continual state of flux, constantly being overturned, abandoned and invented – and legal systems the world over are often in direct opposition to one another, even at the theoretical level. Sharia law is often directly opposed to Anglo-Saxon common-law, and the modern democratic “mob rule” process often seems more akin to a Mafia shoot-out than a sober implementation of ethical ideals.
-6. I am fully open to the proposition that there is no such thing as ethics at all, and that all systems of “morality” are mere instruments of control, as Nietzsche argued so insistently. In this book, I start from the assumption that there is no such thing as ethics, and build a framework from there.
-7. I do have great respect for the ethical *instincts* of mankind. The near-universal social prohibitions on murder, rape, assault and theft are facts that any rational ethicist discards at his peril. Aristotle argued that any ethical theory that can be used to prove that rape is moral must have something wrong with it, to say the least. Thus, after I have developed a framework for validating ethical theories, I run these generally accepted moral premises through that framework, to see whether or not they hold true.
-8. I respect your intelligence enough to refrain from defining words like “reality,” “reason,” “integrity” and so on. We have enough work to do without having to reinvent the wheel.
-9. Finally, I believe that any theory – especially one as fundamental as a theory of ethics – does little good if it merely confirms what everybody already knows instinctively. I have not spent years of my life working on a theory of ethics in order to run around proving that “murder is wrong.” In my view, the best theories are those which verify the truths that we all intuitively understand – and then use those principles to reveal new truths that may be completely counter-intuitive.
-
-Having spent the last few years of my life preparing, training, and then combating this beast, I hope that I have acquitted myself with some measure of honour. I believe that I have emerged victorious – though not entirely unscathed – and I look forward to seeing who shares this view.[^2]
-
-I studied the history of philosophy in graduate school, and hold a Masters degree, but I do not have a PhD in philosophy. I am far from a publicly recognised intellectual. While I may not be the *most* unlikely champion, I am also far from the most likely. Whether I have succeeded or not is not up to you, and it is not up to me.
-
-If the reasoning holds, the greatest beast is down.
-
-### A Modest Suggestion
-
-It is the height of audacity to suggest to readers how to read a book, but given the challenges of the task before us, I would like to make one small suggestion before we embark.
-
-If we lived in the fifteenth century, and I were trying to convince you that the world were round, I would put forward reams of mathematical and physical proofs. If you held a contrary opinion, you would naturally react with scepticism, and be inclined to quibble with every line of proof. However, if you and I could in fact sail around the world, and arrive back where we started without retracing our steps, you would be far more willing to accept the conceptual proofs for what you had already *experienced* to be true. You might find fault with a particular logical step or metaphor, but you would already agree with the conclusion, and thus would be more prone to help correct the details rather than reject the theory as a whole.
-
-If my task were to respond to every possible objection to every linguistic, logical and empirical step, this book would remain forever unfinished – and unread. Perfectionism is, in essence, procrastination, and I consider the task of this book to be too important – and the dangers of false morality too grave and imminent – to spend so long trying to achieve heaven that we all end up in hell.
-
-Thus I humbly suggest that you wait to see how effective the ethical framework I propose is at proving the most commonly accepted moral maxims of mankind before passing final judgement on the theory.
-
-I truly believe that the definition of a rational ethical framework is the most essential task that faces mankind. I truly appreciate your interest in this crucial matter – and would like as always to thank the wonderfully kind donators who have made this work possible.
-
-I ride into battle well armed by others.
-
-[^1]: Most of these will be discussed in more detail throughout the course of this book.
-
-[^2]: Of course, if I have failed, I have at least failed spectacularly, which itself can be both edifying and entertaining!
+1. Aceito plenamente a distinção Humean entre "é" e "deveria". As regras morais válidas não podem ser directamente derivadas da existência de qualquer coisa na realidade. O facto de que os seres humanos em geral * preferem </ 0> viver, e na realidade devem interagir com sucesso para o fazer, não pode ser a base para qualquer teoria válida da ética. Algumas pessoas claramente não preferem viver e rejeitam firmemente a realidade, por isso, essa definição de ética permanece subjectiva e condicional.</li> 
+    
+    - A ética não pode ser definida objectivamente como "o que é bom para a sobrevivência do homem". Alguns indivíduos podem muito bem sobreviver, atacando os outros, por isso essa definição de ética não supera o problema do subjectivismo. Em termos biológicos, isso seria análogo à descrição de tendências evolutivas como "o que é bom para a * sobrevivência da vida *", isso não faz sentido. A sociedade humana é um ecossistema de interesses concorrentes, assim como o é a floresta e o que é "bom" para um homem, com frequência vem em detrimento de outro.
+    - Não acredito em nenhum "Reino superior" de formas ideais. A moral não pode ser concebida como existente em qualquer "outro universo", seja material ou imaterial. Se a moralidade existe nalgum "outro reino", não pode ser submetida a uma análise racional ou empírica rigorosa - e como o próprio Platão notou no "A República", a sociedade exigiria um quadro de elite de Reis Filósofos para se comunicarem - ou, com mais precisão, *aplicarem* - os edictos incompreensíveis desse "outro domínio" sobre todos os outros. Isso também não resolve o problema do subjectivismo, pois o que é inacessível à razão e à evidência é, por definição, subjectivo.
+    - Não acredito que a moralidade possa ser definida ou determinada com referência a "argumentos de efeito", ou a consequências previstas de proposições éticas. O utilitarismo, ou "o maior bem para o maior número", não resolve o problema do subjectivismo, uma vez que as probabilidades de qualquer organizador central saber o que é objectivamente bom para todos é aproximadamente igual a qualquer estratega económico central saber como destinar, eficientemente, recursos na ausência de preço - efectivamente zero. Além disso, o que é considerado "o maior bem para o maior número" muda de acordo com a cultura, conhecimento, tempo e circunstâncias, que também não consegue superar o problema do subjectivismo. Não julgamos o valor das experiências científicas de acordo com algum reino superior platónico, ou alguma optimização utilitária - são julgados de acordo com o método científico. Eu tomarei a mesma abordagem neste livro.
+    - Eu também me recuso a definir a ética como uma "doutrina de lei positiva". Embora seja geralmente aceite que os sistemas jurídicos são fundados em sistemas de ética, ninguém poderia argumentar que qualquer lei em todo o sistema legal é um reflexo perfeito de uma moral ideal. As leis não podem reflectir claramente * qualquer </ 0> teoria objectiva da ética, uma vez que as leis estão em contínuo estado de mudança, constantemente a ser derrubadas, abandonadas e inventadas - e os sistemas jurídicos em todo o mundo, geralmente se opõem uns aos outros, mesmo no nível teórico. A lei da Sharia é muitas vezes directamente contrária ao direito comum anglo-saxão, e o processo democrático moderno da "mafia" geralmente parece mais semelhante a um tiroteio da máfia do que a uma implementação sóbria de ideais éticos.</li> 
+        
+        - Estou totalmente aberto à proposição de que não existe tal coisa como ética e que todos os sistemas de "moralidade" são simples instrumentos de controlo, tal como Nietzsche argumentou com tanta insistência. Neste livro, eu parti do princípio de que não existe tal coisa como ética, e construí uma estrutura a partir daí.
+        - Tenho um grande respeito pelos instintos * éticos* da humanidade. As proibições sociais, quase universais, sobre assassinato, estupro, assalto e roubo, são factos que qualquer ético racional descarta por si próprio. Aristóteles argumentou que qualquer teoria ética que possa ser usada para provar que a violação é moral, deve ter algo de errado, para dizer o mínimo. Assim, depois de ter desenvolvido um quadro para validar teorias éticas, analiso essas premissas morais geralmente aceites, através dessa estrutura, para ver se são ou não verdadeiras.
+        - Respeito a vossa inteligência o suficiente para abster-me de definir palavras como "realidade", "razão", "integridade" e assim por diante. Temos suficiente trabalho a fazer, sem ter que reinventar a roda.
+        - Finalmente, acredito que qualquer teoria - especialmente uma tão fundamental como uma teoria da ética - faz muito pouco se apenas se limita a confirmar o que todos já sabem instintivamente. Não passei anos da minha vida a trabalhar numa teoria da ética para andar a tentar provar que "o assassinato é errado". Na minha opinião, as melhores teorias são aquelas que verificam as verdades que todos intuitivamente entendemos - e depois usarmos esses princípios para revelar novas verdades, que podem ser completamente contra-intuitivas.</ol> 
+        
+        Tendo passado os últimos anos da minha vida a preparar, treinar e depois combater essa besta, espero ter-me absolvido com algum grau de honra. Acredito que saí vitorioso - embora não totalmente ileso - e estou ansioso por ver quem compartilha este ponto de vista.[^2]
+        
+        Estudei a História da Filosofia na Faculdade e tenho mestrado, mas não tenho doutorado em filosofia. Estou longe de ser um intelectual reconhecido publicamente. Embora eu possa não ser o campeão *mais* improvável, também estou longe de ser o mais provável. Se eu o consegui ou não, não depende de você, nem de mim.
+        
+        Se o raciocínio é válido, o maior monstro está vencido.
+        
+        ### Uma modesta sugestão
+        
+        É o máximo da audácia sugerir aos leitores como ler um livro, mas diante dos desafios da tarefa que temos por diante, gostaria de fazer uma pequena sugestão antes de embarcar.
+        
+        Se estivéssemos a viver no século XV, e eu estivesse a tentar convencê-lo de que o mundo era redondo, teria de apresentar resmas de provas matemáticas e físicas. Se você mantivesse uma opinião contrária, naturalmente reagiria com cepticismo e inclinar-se-ia a discutir cada linha da prova. No entanto, se você e eu pudéssemos navegar ao redor do mundo e chegar ao ponto onde começamos sem rever os nossos passos, estaria muito mais disposto a aceitar as provas conceituais do que já experimentou *como * verdadeiro. Poderia encontrar falhas num determinado passo lógico ou metáfora, mas já estaria de acordo com a conclusão e, portanto, seria mais propenso a ajudar a corrigir os detalhes em vez de rejeitar a teoria como um todo.
+        
+        Se a minha tarefa fosse responder a todas as possíveis objecções a cada passo linguístico, lógico e empírico, este livro permaneceria para sempre inacabado - e não lido. O perfeccionismo é, em essência, a procrastinação e considero que a tarefa deste livro é muito importante - e os perigos da falsa moral muito graves e iminentes -para passar tanto tempo a tentar alcançar o céu quando todos acabamos no inferno.
+        
+        Assim, sugiro humildemente que espere para ver o quão eficaz é o quadro ético que proponho, para provar as máximas morais mais frequentemente aceites da humanidade, antes de passar ao juízo final sobre a teoria.
+        
+        Eu acredito, realmente, que a definição de um quadro ético racional é a tarefa mais essencial que a Humanidade enfrenta. Aprecio, realmente, o vosso interesse neste assunto crucial - e gostaria, como sempre, de agradecer aos dadores maravilhosamente gentis que tornaram possível este trabalho.
+        
+        Entro nesta batalha bem armado, por outros.
+        
+        [^1]: A maioria deles será discutida com mais detalhes ao longo deste livro.
+    
+    [^2]: Claro, se eu falhei, pelo menos falhei espectacularmente, o que por si só pode ser tanto edificante quanto divertido!
