@@ -138,13 +138,13 @@ Just as *academia* and the academic world cannot be expected to play any signifi
 
 [^6]: *Diğer adı ile* Mencius Moldbug.
 
-[^7]: *Aka* Soviet Poverty Lie Center.
+[^7]: *Diğer adı ile* Sovyet Düşkünü Yalan Merkezi.
 
-[^8]: *Aka* “non-discrimination”.
+[^8]: *Diğer adı ile* "ayrımcılık yapmayan".
 
-[^9]: Which I have termed the “Stupids for Liberty” and my young German friend Andre Lichtschlag as “Liberallala-Libertarians”.
+[^9]: "Aptallar Özgürlük için" ve genç Alman arkadaşım Andre Lichtschlag gibi “Liberallala-Libertarians” olarak adlandırdım.
 
-[^10]: Colin Robertson.
+[^10]: 
 
 [^11]: Which, of course, was the reason for having invited them here.
 
