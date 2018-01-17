@@ -54,7 +54,7 @@ A verdade é que "sacerdotes" e "reis" eram - e são - apenas homens. A verdade 
 
 Fizemos grandes progressos na compreensão da natureza e da realidade da igualdade humana simples, mas o triste é que o domínio da *moralidade* ainda está perdido na "zona nula" - nas ilusões destrutivas das "meias verdades."
 
-### "Middle Truths"
+### "Meias Verdades"
 
 Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
 
