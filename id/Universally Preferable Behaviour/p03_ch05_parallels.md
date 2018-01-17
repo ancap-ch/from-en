@@ -1,4 +1,4 @@
-## Parallels
+## Persamaan
 
 Sebelum Revolusi Ilmiah, dianggap tidak terbayangkan bahwa alam dapat mempertahankan dirinya tanpa entitas sadar dan "moral" di pusatnya. Matahari terbit mengikuti rantai kereta supranatural; Bulan adalah saudara matahari yang dingin dan kesepian. Konstelasi menggambarkan dongeng dan makam para dewa, dan badai berasal dari kemarahan setan.
 
@@ -58,7 +58,7 @@ Cara untuk menentang entitas imajiner adalah dengan kebenaran tanpa henti. Cara 
 
 Cara untuk menentang negara - entitas imajiner yang paling berbahaya - adalah dengan alasan, bukti dan sains.
 
-### The Future
+### Masa Depan
 
 Apakah kita suka atau tidak, UPB berlaku untuk segala sesuatu yang kita lakukan. Manusia memiliki kecenderungan alami menuju konsistensi, karena kita adalah makhluk dengan kesadaran rasional, menghuni alam semesta yang konsisten dan rasional. Jadi, apa pun premis yang kita terima dalam hidup kita cenderung memaksakan perilaku yang lebih konsisten dalam hidup kita - dan sepanjang "kehidupan" budaya atau bangsa kita juga.
 
