@@ -2,7 +2,7 @@
 
 Bilim Devriminden önce, doğal dünyanın merkezindeki bilinçli ve "ahlaki" bir varlık olmaksızın kendini sürdüremeyeceği akla yatkın değildi. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+The idea that nature was a self-generating and self-sustaining system was almost unimaginable. Darwinci devrim, yaşamın yaratılmadığı, ama daha çok geliştiği, materyalden biyolojik dünyaya olan bu fikri getirdi.
 
 Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
 
@@ -26,7 +26,7 @@ In fact, just as religions impeded the progress of science, so do governments im
 
 Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+Toplumu dini ahlaki mitolojilere uygun olarak yönetmeyi seçtiğimizde, savaşlar, zorbalık, bastırma, istismar, yolsuzluk ve anlaşılmaz ikiyüzlülükle sonuçlanmaktadır.
 
 When we choose to run society according to *statist* moral mythologies, the results are no different.
 
@@ -36,9 +36,9 @@ Biz her ikisini de yapamayız.
 
 ### Çözümler
 
-Devletin hem lüzumlu hem de ahlaki bir kurum olduğuna inanmayı seçebiliriz. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Devletin hem lüzumlu hem de ahlaki bir kurum olduğuna inanmayı seçebiliriz. Hükümet olmadan toplumun "anarşi" içine çökeceğine ve dünyanın herkese karşı olan bir savaşa dönüşeceğine inanmayı seçebiliriz. Hükümet olmadan herhangi bir yol, eğitim, sağlık hizmeti, emekli aylığı, kütüphaneler, mülkiyetin korunması vb. olmayacağına inanmayı seçebilmekteyiz.
 
-Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+Benzer olan batıl inançlar, şüphesiz insanlık tarihinin gelişmesini geciktirmiştir. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
 
 As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
 
