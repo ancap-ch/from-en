@@ -26,7 +26,7 @@ Ya yetkili karar verme yeteneğine sahibimdir, ya da değilimdir. If I *am* capa
 
 Even if the above considerations are somehow bypassed, however, it is still impossible to justly enforce a social contract through a government. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
 
-In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
+Aynı şekilde, vergilerimi gönüllü olarak ödemeyi seçsem bile, bu seçimi size empoze edemem çünkü gönüllü bir sözleşme sadece kişisel bir tercih ile olur ve bu sebeple şiddet yoluyla evrensel olarak uygulanamaz.
 
 ### Devletin Gerekliliği ?
 
@@ -36,7 +36,7 @@ This whole question becomes even more ludicrous when we look at the most common 
 
 Bu devletin gerekliliği sorusu ortaya çıktıkça iki ek itiraz sürekli olarak yinelenir. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
 
-The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Vatandaşlar kendilerini kötü bireylere karşı savunabilir, ancak polise ve askeri güce sahip dişlerin silahlı saldırgan bir hükümetine karşı hiçbir şansı yoktur. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
+The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Vatandaşlar kendilerini kötü bireylere karşı savunabilir, ancak polise ve askeri güce sahip dişlerin silahlı saldırgan bir hükümetine karşı hiçbir şansı yoktur. Böylece kötü insanlar var olduğundan dolayı hükümete ihtiyacımız olduğu iddiası yanlıştır. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
 
 Mantıken, dünyadaki iyi ve kötü insanların karışımı için dört olasılık vardır:
 
@@ -81,9 +81,9 @@ Burada üzerine bahsedilebilir birkaç nedeni vardır. Birincisi, hükumet kendi
 
 Bu bölümün başlangıcında, hükumetin dağılma fikri ile karşı karşıya kaldıklarında insanların genelde *iki* hata yaptığından bahsetmiştim. Birincisi, kötü insanlar var olduğu için hükumetler bir gerekliliktir. İkincisi de, hükumetlerin yokluğunda ortaya çıkan herhangi bir sosyal kurumun, kaçınılmaz olarak, hükumetlerin yerine geçeceğine olan inançtır. Thus, Dispute Resolution Organisations (DROs), insurance companies and private security forces are all considered potential cancers that will swell and overwhelm the body politic.
 
-This view arises from the same error outlined above. If *all* social institutions are constantly trying to grow in power and enforce their wills on others, then by that very argument a centralised government cannot be allowed to exist. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
+Bu görünüm, yukarıda özetlenen aynı hatadan doğmaktadır. If *all* social institutions are constantly trying to grow in power and enforce their wills on others, then by that very argument a centralised government cannot be allowed to exist. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
 
-The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Governments grow endlessly because they can pay tax collectors with a portion of the taxes they collect. The slaves are thus forced to pay for the costs of their enslavement.
+The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Hükümetler, vergilerin bir bölümüyle vergi toplayıcılarına ödeme yaptıkları için sonsuz olarak büyüyebilirler. The slaves are thus forced to pay for the costs of their enslavement.
 
 In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
 
