@@ -88,15 +88,15 @@ Toplumsal kurumların güç tekelleri olarak büyüyebilmesinin tek yolu *bunun 
 Gönüllü bir toplumda hiç vergi alınamayacak ve bu nedenle tekelci güç elde etmek isteyen herhangi bir grup, ekonomik açıdan uygulanabilir ya da kârlı olmadığı için asla orduya para yatırmak istemeyecek. <sup id="fnref:11"><a href="#fn:11" class="footnote-ref"> 8 </ 0></p> 
 
 <p>
-  It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that <em>might</em> overpower us, we should support a group that <em>already has</em> overpowered us. Özel tekelcilikde devletçi argümana benzemektedir; vatandaşlar, özel tekellerden korktuğu için bir hükümet tekeli yaratmalıdır. It does not take keen vision to see through such nonsense.
+  Bize boyun <em>eğdirebilecek</em> bir gruptan koruması için bize <em>zaten</em> boyun eğdiren bir gruba destek vermemizin gerekliliği argümanının akıl ve mantığını anlamak çok zordur. Özel tekelcilikde devletçi argümana benzemektedir; vatandaşlar, özel tekellerden korktuğu için bir hükümet tekeli yaratmalıdır. It does not take keen vision to see through such nonsense.
 </p>
 
 <p>
-  Ademi merkeziyetçi ve rekabet gücü olan güçlerin barışı sağladığı görüşünün kanıtı nedir? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+  Ademi merkeziyetçi ve rekabet gücü olan güçlerin barışı sağladığı görüşünün kanıtı nedir? Diğer bir deyişle, güçler ayrılığının bireysel özgürlük için tek şans olduğu düşüncesini desteklemeyi sürdürebileceğimiz tek bir kanıt var mı?
 </p>
 
 <p>
-  Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Ayrıca, çeteler, yasal olarak yasaklanmış maddeler veya hizmetler sağlayarak muazzam bir kazanç elde ederler ve devlet politikaları nedeniyle büyük oranda gelişirler.
+  Organize suç pek güzel örnekler sunmaz çünkü çeteler çok sıklıkla hükümet polisinin gücünü yozlaştırıp, manipüle edip kullanarak kendi kurallarını dikte ediyorlar ve bu yüzden bu tarz çetelerin doğa durumunda hareket ettikleri söylenemez. Ayrıca, çeteler, yasal olarak yasaklanmış maddeler veya hizmetler sağlayarak muazzam bir kazanç elde ederler ve devlet politikaları nedeniyle büyük oranda gelişirler.
 </p>
 
 <p>
