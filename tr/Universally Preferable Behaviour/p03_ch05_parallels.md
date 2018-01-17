@@ -4,7 +4,7 @@ Bilim Devriminden önce, doğal dünyanın merkezindeki bilinçli ve "ahlaki" bi
 
 The idea that nature was a self-generating and self-sustaining system was almost unimaginable. Darwinci devrim, yaşamın yaratılmadığı, ama daha çok geliştiği, materyalden biyolojik dünyaya olan bu fikri getirdi.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Önce bilim, her karmaşık bir sistemin özünde iyi bir bilinç var – bu olmadan bu sistem kaosa gider, ve sona ermez.
 
 Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
 
@@ -40,13 +40,13 @@ Devletin hem lüzumlu hem de ahlaki bir kurum olduğuna inanmayı seçebiliriz. 
 
 Benzer olan batıl inançlar, şüphesiz insanlık tarihinin gelişmesini geciktirmiştir. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+Bilim, tanrı olmadan sürebilecek bir evreni pratik olarak varsaymaya başladığı zaman, her türlü histeri, dünyanın sonunun yaklaştığı, toplumun “anarşiye” çöktüğü ve medeniyetlerin tüm karşı savaşlara dönüştüğü çıkarımına başladığında, tüm dünyaya karşı bir savaş haline gelirdi.
 
 Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
 
 Priests did this during the onset of the scientific revolution. Tanrı olmadan, hayatın bir anlamı yoktur. Tanrı olmadan, insanların ahlakı yoktur. Tanrı olmadan, ruhlarımız kurtulamaz. Tanrı olmadan, dünya kaos ve kötülüğe düşer.
 
-Tabii ki, hiç birisi gerçek olmamıştır. Aslında, oldukça *tersi* gerçek oldu. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Tabii ki, hiç birisi gerçek olmamıştır. Aslında, oldukça *tersi* gerçek oldu. Dinin hakim dünya görüşü olarak son bulması, kilisenin ve devletin ayrılması, aristokrasinin sona bulması, serbest piyasanın gelişmesi, dünyanın önemli bölgelerinde pek çok insan özgürlüğünün oluşması için önünü açmıştır.
 
 Tanrının çöküşü insanoğlunun yükselişi oldu.
 
@@ -54,7 +54,7 @@ In the same way, when we begin see society as the early scientists saw the unive
 
 The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+Hayali varlıklara karşı koymanın yolu, acımasız gerçeğe dayanmaktadır. Tanrı'ya karşı gelmenin yolu, mantık, delil ve bilimdedir.
 
 The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
 
