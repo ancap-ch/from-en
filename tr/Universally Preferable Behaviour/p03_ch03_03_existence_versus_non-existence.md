@@ -88,7 +88,7 @@ If this tax collector then claims that his concept called “the government” o
 
 #### UPB ve''Çoğunluk''
 
-UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. On aslan bir fil ,hükümet ya da tanrı yapmaz. On bin tane asker belki "ordu" oluşturabilir, ama yer çekimini ters çeviremez, veya cinayetini normalleştiremezler.
+UPB, bireylerin özelliklerini geçersiz kılmak veya tersine çevirmek için bireylerin toplanmasına izin vermez. On aslan bir fil ,hükümet ya da tanrı yapmaz. On bin tane asker belki "ordu" oluşturabilir, ama yer çekimini ters çeviremez, veya cinayetini normalleştiremezler.
 
 Son bir kez Bob ve Doug'un odasına dönüyoruz, hadi "Jane" ile tanışalım.
 
