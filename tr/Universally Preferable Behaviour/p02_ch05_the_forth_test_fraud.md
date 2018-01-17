@@ -1,6 +1,6 @@
 ## Dördüncü Test: Dolandırıcılık
 
-Right at the edge of what is generally considered ethical sits the challenge of *fraud*.
+Genellikle etik olarak kabul edilenin hemen eşiğinde, *dolandırıcılığın* meydan okuması vardır.
 
 Sahtekarlık, sahte temsil aracılığıyla değer sağlamaktır. Eğer bana iki yüz dolar verirsen sana iPod göndereceğimi söyleseydim, ve sana iPod'u göndermeden paranı alsaydım, doğal olarak bunun hırsızlığın bir formu olduğunu anlardır.
 
