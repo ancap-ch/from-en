@@ -1,16 +1,16 @@
 ## Parallels
 
-Bilim Devriminden önce, doğal dünyanın merkezindeki bilinçli ve "ahlaki" bir varlık olmaksızın kendini sürdüremeyeceği akla yatkın değildi. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Bilim Devriminden önce, doğal dünyanın merkezindeki bilinçli ve "ahlaki" bir varlık olmaksızın kendini sürdüremeyeceği akla yatkın değildi. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Takımyıldızları tanrıların hikayelerini ve mezarlarını özetledi ve iblislerin öfkeside fırtınaları.
 
 Doğanın kendi kendini üreten ve kendi kendini sürdürebilen bir sistem olduğu düşüncesi neredeyse akıl almazdı. Darwinci devrim, yaşamın yaratılmadığı, ama daha çok geliştiği, materyalden biyolojik dünyaya olan bu fikri getirdi.
 
 Önce bilim, her karmaşık bir sistemin özünde iyi bir bilinç var – bu olmadan bu sistem kaosa gider, ve sona ermez.
 
-Ne yazık ki, bu "erdemli bilinç" sadece cömertçe sonuçlanacak bir hayaldir. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Ne yazık ki, bu "erdemli bilinç" sadece cömertçe sonuçlanacak bir hayaldir. Hiç bir tarı varolmadı - var olanların hepsi rahiplerin beyanlarıydı. Böylece merkezde gerçekten yatan şey, gerçekte ne kadar çok delirmiş oldukları hakkında hiçbir fikri olmayan irrasyonel bireylerin önyargılarıydı.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+Aynı aydınlatmayı toplum görüşümüze uygulamamış bulunuyoruz - ancak şu an bunu yapmamız * esastır *.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+Toplumun merkezine "hükümet" olarak adlandırılan erdemli bir varlığı yerleştirmemizin önemli olduğunu düşünüyoruz. Bu varlığın yokluğunda toplumu, kaosta uçarak durmaya çalışacak bir aksiyomatik olarak düşünüyoruz tıpkı atalarımız Tanrı'nın yokluğunda evrenin kendisinin kargaşaya dönüşeceğini ve duracağını düşündüğü gibi.
 
 Bununla birlikte, "hükümet"in varlığı "tanrı"nın varlığından daha fazla değil.
 
