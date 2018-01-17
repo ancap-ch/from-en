@@ -8,7 +8,7 @@ Serbest piyasa ekonomisi kuşkusuz toplumdaki malların ve kaynakların üretimi
 
 UPB çerçevesi, serbest piyasa ekonomisinin maddi başarılarının nedenlerini öngörüyor, doğruluyor ve açıklıyor.
 
-Teoride serbest piyasa ekonomisi, evrensel mülkiyet hakkı teorisinin uygulanmasına dayalıdır. Buna karşılık komünizm, mülkiyet hakları evrensel teorisinin açıkça reddedilmesine dayanır. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+Teoride serbest piyasa ekonomisi, evrensel mülkiyet hakkı teorisinin uygulanmasına dayalıdır. Buna karşılık komünizm, mülkiyet hakları evrensel teorisinin açıkça reddedilmesine dayanır. Üstelik evrensel mülkiyet haklarının tek geçerli ahlaki teori olduğunu kanıtladığımızdan, bu komünizmin neden böyle bir olağan üstü durum olduğunu en temel düzeyde açıklarken, serbest pazar ekonomisi çok üretken oluyor.
 
 Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
 
