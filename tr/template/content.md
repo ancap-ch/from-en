@@ -1,56 +1,59 @@
-# First root heading
+# İlk kök başlığı
 
-Below there's an enumerated list of styled pangrams, that shows every character, both in english and also in other languages.
+Aşağıda her karakteri hem ingilizce olarak hem de diğer dillerde bulunduran, stil sahibi bir pangramın numaralandırılmış bir listesi bulunmaktadır.
 
-1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
-2. numbers: 0123456789. 
-3. symbols: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
-4. emphasys: *Hızlı, kahverengi tilki tembel bir köpeğin üzerinden atlar.* 
-    1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
-    2. inner emphasys: **The *The quick, brown fox jumps over a lazy dog* dog.** 
-        1. en: The quick, brown *fox* **jumps *over* a** lazy dog.
-        2. pt-BR: À noite, vovô *Kowalsky* **vê o ímã *cair no pé* do pingüim queixoso** e vovó põe açúcar no chá de tâmaras do jabuti feliz.
-        3. jp: [色は匂へど]{いろはにほへど} [散りぬるを]{ちりぬるを} *[我が世誰ぞ]{わかよたれぞ}* **[常ならむ]{つねならむ} *[有為の奥山]{うゐのおくやま}* [今日越えて]{けふこえて}** [浅き夢見じ]{あさきゆめみじ} [酔ひもせず]{ゑひもせず}（ん）
-        4. th: เป็นมนุษย์สุดประเสริฐเลิศคุณค่า *กว่าบรรดาฝูงสัตว์เดรัจฉาน* **จงฝ่าฟันพัฒนาวิชาการ *อย่าล้างผลาญฤๅเข่นฆ่าบีฑาใคร* ไม่ถือโทษโกรธแช่งซัดฮึดฮัดด่า** หัดอภัยเหมือนกีฬาอัชฌาสัย ปฏิบัติประพฤติกฎกำหนดใจ พูดจาให้จ๊ะๆ จ๋าๆ น่าฟังเอยฯ (ฦ)
-        5. ...
-    3. This phrase has two footnotes.[^1][^2]
-5. This phrase has [this](https://example-this.com) link, and also [this again](https://example-this-again.com).
-
-Now a non-enumerated list:
-
-* İlk seviye
-* İlk seviye 
-    * İkinci seviye
-    * İkinci seviye 
-        * Üçüncü seviye
-        * Üçüncü seviye
-    * İkinci seviye
-* İlk seviye
-
-Some quotation. First line is large; second line is small; third line is empty; fourth line is not. 5th line is not a quotation; 6th line is:
-
-> 1th line is large: The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. Kahverengi bir tilki, tembel bir köpeğin üstünden hızlı bir şekilde atlar. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. 2th line is small: The quick, brown fox jumps over a lazy dog.
-> 
-> 4th line is not empty: The quick, brown fox jumps over a lazy dog.
-> 
-> 6th line is a quotation: The quick, brown fox jumps over a lazy dog.
-
-# Headings
-
-## Sub heading
-
-### Heading at the third level
-
-#### Heading at the fourth level
-
-Some text at 4th level.
-
-##### Heading at the fifth level
-
-###### Heading at the 6th level
-
-Some text at 6th level.
-
-[^1]: Footnote example. But this will point to yet another footnote.[^3]
-
-[^2]: Second footnote. Will have [another website](https://example-another-website.com).
+1. büyük harf: HIZLI, KAHVERENGİ TİLKİ TEMBEL KÖPEĞİN ÜZERİNDEN ATLAR. 
+2. rakamlar: 0123456789. 
+3. semboller: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
+4. vurgu: *Hızlı, kahverengi tilki tembel bir köpeğin üzerinden atlar.* 
+    1. güçlü vurgulama:**Hızlı, kahverengi tilki tembel köpeğin üzerinden atlar.**
+    2. içten vurgulama: *** Hızlı, kahverengi tilki tembel bir köpeğin* üzerinden atlar.** 
+        1. en: Hızlı, kahverengi *tilki* </em>bir</strong> tembel köpeğin *üstünden</0>**atlar<0>.</li> 
+            
+            * pt-BR: À noite, vovô *Kowalsky* **vê o ímã *cair no pé* do pingüim queixoso** e vovó põe açúcar no chá de tâmaras do jabuti feliz.
+            * jp: [色は匂へど]{いろはにほへど} [散りぬるを]{ちりぬるを} *[我が世誰ぞ]{わかよたれぞ}* **[常ならむ]{つねならむ} *[有為の奥山]{うゐのおくやま}* [今日越えて]{けふこえて}** [浅き夢見じ]{あさきゆめみじ} [酔ひもせず]{ゑひもせず}（ん）
+            * th: เป็นมนุษย์สุดประเสริฐเลิศคุณค่า *กว่าบรรดาฝูงสัตว์เดรัจฉาน* **จงฝ่าฟันพัฒนาวิชาการ *อย่าล้างผลาญฤๅเข่นฆ่าบีฑาใคร* ไม่ถือโทษโกรธแช่งซัดฮึดฮัดด่า** หัดอภัยเหมือนกีฬาอัชฌาสัย ปฏิบัติประพฤติกฎกำหนดใจ พูดจาให้จ๊ะๆ จ๋าๆ น่าฟังเอยฯ (ฦ)
+            * ...</ol></li> 
+            
+            * Bu cümlede iki tane dipnot var [^1][^2]</ol></li> 
+            
+            * Bu cümlede [bu](https://example-this.com) link, ve [bi daha bundan](https://example-this-again.com) var.</ol> 
+            
+            Şimdi numaralandırılmamış bir liste:
+            
+            * İlk seviye
+            * İlk seviye 
+                * İkinci seviye
+                * İkinci seviye 
+                    * Üçüncü seviye
+                    * Üçüncü seviye
+                * İkinci seviye
+            * İlk seviye
+            
+            Bazıları tırnak içinde. İlk satır büyük; ikinci satır küçük; üçüncü satır boş; dördüncü satır değil. 5. satır tırnaklı değil; 6. satır:
+            
+            > İk satır büyük: Hızlı, kahverengi tilki tembel köpeğin üzerinden atlar. Hızlı, kahverengi tilki tembel bir köpeğin üzerinden atlar. Kahverengi bir tilki, tembel bir köpeğin üstünden hızlı bir şekilde atlar. Hızlı, kahverengi tilki tembel bir köpeğin üzerinden atlar. Hızlı, kahverengi tilki tembel bir köpeğin üzerinden atlar. Hızlı, kahverengi tilki tembel bir köpeğin üzerinden atlar. Hızlı, kahverengi tilki tembel bir köpeğin üzerinden atlar. Hızlı, kahverengi tilki tembel bir köpeğin üzerinden atlar. Hızlı, kahverengi tilki tembel bir köpeğin üzerinden atlar. Hızlı, kahverengi tilki tembel bir köpeğin üzerinden atlar. İkinci satır küçük: Hızlı, kahverengi tilki tembel köpeğin üzerinden atlar.
+            > 
+            > 4. satır boş değil: Hızlı, kahverengi tilki tembel köpeğin üzerinden atlar.
+            > 
+            > 6. satır bir alıntı: Hızlı, kahverengi tilki tembel bir köpeğin üstünden atlar.
+            
+            # Başlık
+            
+            ## Alt Başlık
+            
+            ### 3. seviyedeki başlık
+            
+            #### 4. seviyede ki başlık
+            
+            4. deki bazı metinler.
+            
+            ##### 5. seviyedeki Başlık
+            
+            ###### 6. seviyedeki başlık
+            
+            6. seviyedeki bazı metinler.
+            
+            [^1]: Dipnot örneği. Ama bu başka bir dipnotu işaret eder.[^3]
+        
+        [^2]: 2. dipnot. [Başka bir websitesi](https://example-another-website.com) olacak.</0>.
