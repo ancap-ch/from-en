@@ -96,9 +96,9 @@ Quando nos curamos de uma doença, nos sentimos melhor, mas a doença não. Do p
 
 Do mesmo modo, os parasitas que estrangulam a humanidade vêem a liberdade da maioria com horror. Uma vez que o seu parasitismo os liberta das demandas da realidade - para ganhar o seu pão diário - inevitavelmente vêem a liberdade das massas como uma forma de escravidão para si próprios. Assim, um agricultor veria a "libertação" do seu gado como um desastre absoluto…
 
-O estabelecimento da verdade limita, inevitavelmente, a fantasia. Limitar a fantasia é limitar, necessariamente, a exploração. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+O estabelecimento da verdade limita, inevitavelmente, a fantasia. Limitar a fantasia é limitar, necessariamente, a exploração. Se eu pudesse convencê-lo de que sou um homem-Deus vivo e que o Deus que me concebeu quer que você me dê dez por cento da sua renda, para evitar ser punido durante toda a eternidade, nesse caso eu poderia ficar extremamente rico. Eu sou um parasita das ilusões, e dependo dessas ilusões para o meu sustento, tão certo como que o fungo depende do calor, da humidade e da escuridão.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+Aqueles que usam fantasias morais para explorar a humanidade sempre lutaram contra vento e mareia, contra aqueles que ameaçam a sua subsistência ao descobrir e divulgar a verdade.
 
 We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
 
