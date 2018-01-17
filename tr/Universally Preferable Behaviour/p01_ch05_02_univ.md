@@ -1,142 +1,142 @@
-### UPB: Five Proofs
+### UPB: Beş Kanıt
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+Yukarıda tartıştığımız üzere, *tercih edilebilir davranış içermeyen* önermeler aşılması zor bir takım mantıksal ve deneysel problem barındırır. ''Evrensel olarak kabul edilebilir davranış'' beş temel sebepten dolayı geçerli bir kavram *olmalı*dır.
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+Birincisi mantıksal: Eğer evrensel olarak tercih edilebilir önermenin geçerli olmasına karşı çıkarsam, yanlış konuşanları düzeltmeyi tercih etmek gibi, yanlışlığa karşı hakikat tercihimi zaten göstermişimdir. Evrensel olarak tercih edilen bir davranış olmadığını söylemek birinin kulağına sesin var olmadığını bağırmaya benzer - bu durum doğal olarak kendisiyle çelişir. Diğer bir deyişle; evrensel olarak tercih edilebilir *diye bir şey yoksa* eğer, o zaman birileri evrensel olarak tercih edilebilir davranış diye bir şey var diyen herkese karşı *duruyordur*. Her halükarda, eğer bir şeyler yapmak ''gerekirse'', birileri evrensel olarak tercih edilebilir davranışları yaratır. Dolayısıyla evrensel olarak tercih edilen davranışlar - veya ahlak kuralları - geçerli olmalıdır.
 
-Syllogistically, this is:
+Kıyaslamalı olarak, bu:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1. Önerme: ''evrensel olarak tercih edilebilir davranış'' kavramı geçerli olmalıdır.
+2. Evrensel olarak tercih edilebilir davranışın geçerliliğine karşı çıkmak evrensel olarak tercih edilebilir davranışlara işaret eder.
+3. Bu yüzden evrensel olarak tercih edilebilir davranışların geçerliliğine karşı olan hiç bir argüman geçerli olamaz.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+Diğer insanlarca bağlayıcılığı olmayan dondurma yada caz sevmek gibi öznel tercihlerin olduğunu hepimiz biliyoruz. Diğer taraftan, açık bir şekilde diğer insanları ilgilendiren tecavüz ve cinayet gibi başka öncelikler *vardır*. Diğer insanlarca bağlayıcılığı olan ( ki genelde şiddetle uygulanmazlar) mantık, hakikat ve ispat gibi öncelikler de vardır ve mantıksız önermelerin yanlış veya geçersiz olması gerektiğini kabul ederiz.
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+Başkaları üzerinde bağlayıcı olduğu düşünülen tercihler, ''evrensel tercihler'' veya ''ahlak kurallar'' olarak adlandırılabilir
 
-How else can we know that the concept of “moral rules” is valid?
+''Ahlaki kurallar'' kavramının geçerliliğini başka nasıl bilebiliriz?
 
-We can examine the question biologically as well as syllogistically.
+Sorunu hem biyolojik olarak hemde çıkarım yaparak inceleyebiliriz.
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+Örneğin, bütün maddeler fizik kurallarına tabidir - yaşayan her şey belli zorunluluklara ilave olarak vardır, ve bu yüzden, eğer canlı ise evrensel olarak öncelikli davranışları izlemiştir. Örneğin; hayat, yakıt ve oksijene ihtiyaç duyar. Yaşayan her zihin, elbette fiziksel dünyanın organik bir parçasıdır, ki fizik yasalarına tabidir ve evrensel olarak kabul edilmiş davranışları takip etmiş olmalıdır. - Aksi durumunu savunmak bilincin maddeden oluşmadığının ve organik olmadığının deliline ihtiyaç duyar. - Kütlesi, enerjisi ve canlı olduğundan bu durum mümkün değildir. Bilincin ne fizik kurallarına ne de evrensel olarak öncelikli davranışlara bağlı olmadığını tartışmak, insanın yer çekimine karşı durabildiğini ve yemek yemeden gelişebildiğini tartışmaya benzer.
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+Bu yüzden; tartışacak şekilde hayattaysa; nefes almak, yemek ve içmek gibi evrensel olarak kabul gören davranışlara uyduğu için hayatta olduğundan evrensel olarak tercih edilen davranışlara karşı çıkan birinin mantıklı tartışması mümkün değildir.
 
-Syllogistically, this is:
+Çıkarımsal olarak, bu:
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+1. Bütün organizmalar yaşamak için evrensel olarak öncelikli davranışlara ihtiyaç duyarlar.
+2. İnsan yaşayan bir organizmadır.
+3. Bu yüzden, yaşayan tüm insanlar evrensel olarak öncelikli davranışların uygulanması nedeniyle yaşıyorlar.
+4. Bu yüzden; evrensel olarak öncelikli davranışlara karşı olan herhangi bir tartışma, evrensel olarak öncelikli davranışların kabulüne ve uygulanmasına ihtiyaç duyar.
+5. Bu yüzden; evrensel olarak öncelikli davranışların varlığına karşı olan hiçbir argüman geçerli olamaz.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+Bilimsel metot deneysel teyit gerektirdiği için, hipotezimizi doğrulamak için de gerçekliğe bakmamız gerekiyor - ve burada, evrensel olarak tercih edilebilir davranışların geçerliliği tamamen desteklenmektedir.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Her aklı başında insan bir çeşit ahlak kuralına inanır. Ahlak kurallarını neyin *oluşturduğu*yla ilgili bazı anlaşmazlıklar olsa da, herkes ahlak kurallarının geçerliliğinden emindir - bazı bilim adamları katılmasa da çoğu, bilimsel metodun geçerliliğini kabul eder. Dünyanın düz değil de yuvarlak olduğu tartışılabilir - ki ahlak tanımını değiştirmeye benzer - ama dünyanın hiç var olmadığı tartışılamaz - ki evrensel olarak öncelikli davranış diye bir şeyin var olmadığını tartışmaya benzer.
 
-Or:
+Yada:
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+1. Bilimsel bir teorinin geçerli olabilmesi için deneysel gözlemler tarafından desteklenmesi gerekir.
+2. Eğer ''evrensel olarak öncelikli davranışlar'' kavramı geçerli ise, insan oğlu evrensel olarak öncelikli davranışlara inanmalıdır.
+3. Tüm insanlar evrensel olarak öncelikli davranışlara inanır.
+4. Bu yüzden, evrensel olarak öncelikli davranışların geçerliliğini destekleyen deneysel kanıtlar vardır. - Ve böyle kanıtların varlığı, evrensel olarak öncelikli davranışların geçerli olmadığı önermesine *karşı çıkar*.
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+Evrensel öncelikli davranışların geçerliliği için olan dört argüman da deneyseldir. İnsanoğlu hayatı boyunca gerçekleştirmek için neredeyse sonsuz seçeneğe sahip olduğundan, evrensel öncelikli davranış ilkelerinin olmadığını söylemek tüm seçimlerin eşit (ör. öznel) olduğunu söylemek olur. Ayrıca, ne mantıksal ne de deneysel gözlem seçeneklerinden hiç biri eşit *değildir*.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+Örneğin, eğer besin ulaşılabilir olsaydı, neredeyse tüm insanlar her gün yemek yemeyi tercih eder. Hava soğuduğu zaman tüm insanlar sıcak bir yer arar. Neredeyse tüm ebeveynler çocuklarını beslemeyi, barınak sağlamayı ve eğitmeyi seçer. Evrensel öncelikli davranışların çokluğunu ve insan doğasının bir parçası olduğunu gösteren, insanlar arasında benzer tercihlerin pek çok örneği mevcuttur.
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+Yukarıda belirtildiği gibi, geçerli hiçbir fizik teorisi çocukların uçan bir topu yakalayabileceği gerçeğini reddedemez. Aynı şekilde, geçerli hiçbir etik teorisi EOÖD 'nin onaylanmasını sağlayacak sonsuz sayıda kanıtı reddedemez.
 
-Or:
+Yada:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1. Seçenekler hemen hemen sonsuzdur.
+2. Pek çok insan çok benzer seçimler yapar.
+3. Bu nedenle bütün seçimler denk olamaz.
+4. Bu sebeple evrensel olarak tercih edilen seçimler geçerli olmalıdır.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+Evrensel olarak tercih edilen davranışların geçerliliğini sağlayan beşinci argüman evrimseldir.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+Tüm organik hayatlar hayatta kalmak için öncelikli davranışlara ihtiyaç duyduğu için, en başarılı seçimleri yapan organizmaların hayatta kalmak için en fazla seçilen organizmalar olduğunu varsayabiliriz.
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+İnsan en başarılı tür olduğu ve insanın en belirgin organı aklı olduğu için, başarılı seçimler yapmasında en çok yardım eden insan *akıl* olmalıdır. Aklın kendisi başarılı seçimler yapma yeteneği sayesinde başarılı olarak seçilmiştir. İnsan aklı, sadece evrensel olarak öncelikli davranışları seçmenin bir *sonucu* olarak var olduğu için evrensel olarak öncelikli davranış geçerli bir kavram olmalıdır.
 
-Or:
+Yada:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+1. Organizmalar, evrensel olarak tercih edilen davranış üzerine hareket ederek başarılı olmaktadırlar.
+2. İnsan en başarılı organizmadır.
+3. Bu yüzden; evrensel olarak öncelikli davranış esasında en başarılı hareket eden insanoğlu olmalıdır.
+4. İnsan aklı en özgün organdır.
+5. Bu yüzden; evrensel olarak öncelikli davranış esasında en başarılı hareket eden insan aklı olmalıdır.
+6. Bu yüzden; evrensel olarak öncelikli davranış geçerli olmalıdır.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+EOÖD 'nin geçerliliği ve varlığını destekleyen bir çok argüman getirebiliriz, ama savımızı yukarıdaki gibi dinlemeli ve EOÖD 'ın doğasını incelemeye geçmeliyiz.
 
-#### UPB: Optional And Objective
+#### EOÖD: İsteğe bağlı Ve Nesnel
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Evrensel olarak öncelikli davranışın geçerliliğini kanıtladığımız için ahlak sorumuz artık değişir. Ahlak geçerli *olduğu* için; hangi teoriler onu ölçüp, sınıflandırıp, açıklayıp tahmin edebilir?
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+Öncelikle, ahlakın açık bir şekilde isteğe bağlı olduğunu hatırlamalıyız. Her insan yer çekimine tabi ve yaşamak için besine ihtiyaç duyar. Ama hiç kimse ahlak çerçevesinde hareket etmek zorunda değildir. Tecavüz etsem, çalsam yada öldürsem yıldırım çarpmaz bana. Ahlaki kurallar, bilimsel metot veya biyolojik sınıflandırma gibi, sadece gerçekleri rasyonel bir şekilde düzenleme yolu ve nesnel gerçekliğe bağlı ilkelerdir.
 
-The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
+Gerçek şu ki, ahlaki kurallara uymak *isteğe bağlıdır*, ama birçok düşünürün kafası ahlakın kendinin *nesnel* olduğuna inanarak karışmıştır. Hiçbir şey hakikatten uzaklaşamaz.
 
-Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
+Canlı organizmalar maddesel gerçekliğin bir parçasıdır, ve maddesel gerçeklik akla dayalı ve objektiftir. Ahlak teorilerini uygulamak isteğe bağlıdır, ama bu bütün ahlak teorilerinin öznel olduğu anlamına gelmez. Bilimsel metot da isteğe bağlıdır; ama öznel değildir. Biyolojik sınıflandırmaları uygulamak isteğe bağlıdır, ama biyoloji öznel değildir. Seçimler isteğe bağlıdır; sonuçlar değildir. Yememeyi seçebilirim, ama yemeden yaşamayı seçemem. Herhangi birinin kafasını koparmayı seçebilirim, ancak kafaları olmadan yaşamalarını seçemiyorum. Ahlak bu sebeple isteğe bağlıdır, ama ahlaki seçimlerin *etkileri* ölçülebilir ve objektiftir.
 
-Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
+Öyleyse, ahlak geçerli bir kavram olduğu için bir sonraki soru şudur: Ahlaklılık, ne derece veya ölçüde geçerlidir?
 
-As mentioned above, the first test of any scientific theory is *universality*. Just as a theory of physics must apply to *all* matter, a moral theory that claims to describe the preferable actions of mankind *must apply to **all** mankind*. No moral theory can be valid if it argues that a certain action is *right* in Syria, but *wrong* in San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. If it does, it is false and must be refined or discarded.
+Yukarıda değinildiği üzere, herhangi bir bilimsel teorinin ilk testi *evrensellik*tir. Bir fizik teorisinin *tüm* maddelere uyması gerektiği gibi, insanoğlunun tercih edilebilir hareketlerini tanımlamayı iddia eden bir ahlak teorisi de*** tüm** insanoğluna uymalıdır*. Belirli bir eylemin Suriye'de *doğru* ama San Francisco 'da *yanlış* olduğunu savunan hiçbir ahlak teorisi geçerli olamaz. A Kişisi 'nin X 'i yapmak zorunda *olduğu*nu, ama B Kişisi 'nin X 'i *asla* yapmaması gerektiği söylenemez. Dün *yanlış* olanın bugün *doğru* olduğu söylenemez - yada tam tersi. Eğer öyleyse, bu yanlış ve düzeltilmesi veya atılması gerekir.
 
-To be valid, any moral theory must also pass the criterion of *logical consistency*. Since the behaviour of matter is logical, consistent and predictable, all theories involving matter – either organic or inorganic – must also be logical, consistent and predictable. The theory of relativity cannot argue that the speed of light is both constant and not constant at the same time, or that it is one hundred eighty-six thousand kilometres per second, five kilometres in depth, and also green in colour.
+Herhangi bir ahlak teorisinin geçerli olması için *mantıksal tutarlılık* kriterini de geçmesi gerekir. Maddenin davranışı mantıklı, tutarlı ve öngörülebilir olduğundan, maddeyi içeren - organik yada inorganik - tüm teorilerin de mantıklı, tutarlı ve öngörülebilir olması gerekir. Görelilik teorisi, ışık hızının aynı anda hem sabit hem de sabit olmadığını tartışamaz veya saniyede yüz seksen altı bin kilometre hızda, beş kilometre derinlikte ve yeşil renkte olduğunu da tartışamaz.
 
-However, since moral theories apply to mankind, and mankind is organic, the degree of *empirical* consistency required for moral theories is less than that required for *inorganic* theories. All rocks, for instance, must fall down, but not all horses have to be born with only one head. Biology includes three forms of “randomness,” which are environment, genetic mutation and free will. For example, poodles are generally friendly, but if beaten for years, will likely become aggressive. Horses are defined as having only one head, but occasionally, a two-headed mutant is born. Similarly, human beings generally prefer eating to starving – except anorexics. These exceptions do not bring down the entire science of biology. Thus, since moral theories describe mankind, they cannot be subjected to exactly the same requirements for consistency as theories describing inorganic matter.
+Ayrıca, ahlaki teoriler insanoğluna uygulanır ve insanoğlu organik olduğundan ahlak teorilerinin ihtiyaç duryduğu *deneysel* tutarlılık derecesi *inorganik* teorilerin ihtiyaç duyduğundan azdır. Mesela, tüm kayalar yere düşmek zorunda, ama tüm atlar tek kafalı doğmak zorunda değildir. Biyoloji; çevre, genetik mutasyon ve özgür irade olmak üzere ''rastgelelik''in üç formunu içerir. Örneğin; kanişler genelde dost canlısıdır, ama yıllarca eziyet görürlerse saldırgan olabilirler. At'ların genelde bir kafası var olarak tabir edilir, ama arada sırada, iki kafalı mutant doğar. Benzer şekilde, insanoğlu genellikle yemeyi aç kalmaya tercih eder - anoreksiya olanları dışında bırakırsak. Bu istisnalar tüm biyoloji bilimini alt üst edemez. Bu nedenle; ahlak teorileri insanoğlunu betimlediğinden inorganik maddeleri betimleyen teorilere benzer şekilde, tutarlılıklar için aynı gerekliliklere tabi tutulamazlar.
 
-The final test that any moral theory must pass is the criterion of empirical observation. For instance, a moral theory must explain the universal prevalence of moral beliefs among mankind, as well as the divergent results of human moral “experiments” such as fascism, communism, socialism or capitalism. It must also explain some basic facts about human society, such as the fact that state power always increases, or that propaganda tends to increase as state power increases. If it fails to explain the past, understand the present and predict the future, then it must be rejected as invalid.
+Herhangi bir ahlak teorisinin geçmesi gereken son test deneysel gözlem kriteridir. Örneğin bir ahlak teorisi; faşizm, komünizm, sosyalizm veya kapitalizm gibi insan ahlakı ''denemeleri''nin farklı sonuçlarının yanı sıra insanlar arasındaki ahlaki inançların evrensel yaygınlığını açıklamak zorundadır. Genellikle insan çevresiyle ilgili bazı gerçekleride açıklar, mesela devletin gücünün sürekli yükselmesi, veya devlet gücünün yükselmesiyle propagandalarında yükselmesi. Eğer geçmişi açıklamada, şu anı anlamada ve geleceği tahmin etmede başarısız olursa geçersiz sayılmalıdır.
 
-#### UPB: The Practice
+#### EOÖD: Uygulama
 
-How does all this look in practice? Let’s look at how the requirement for *universality* affects moral theories. We shall touch here on proofs and disproofs for specific moral propositions, which we shall examine in more detail in Part Two.
+Tüm bunlar pratikte nasıl gözüküyor? *Evrensellik* için olan gerekliliklerin ahlaki teorileri nasıl etkilediğine bakalım. Burada Kısım İki 'de ayrıntılı bir şekilde inceleyeceğimiz, belirli ahlak önermeleri için kanıt ve çürütmelere değineceğiz.
 
-If I say that gravity affects matter, it must affect *all* matter. If even one pebble proves immune to gravity, my theory is in trouble. If I propose a moral theory that argues that people should not murder, it must be applicable to *all* people. If certain people (such as soldiers) are exempt from that rule, then I have to either prove that soldiers are *not* people, or accept that my moral theory is false. There is no other possibility. On the other hand, if I propose a moral theory that argues that all people *should* murder, then I have saved certain soldiers, but condemned to evil all those *not* currently murdering someone (including those being murdered!) – which is surely incorrect.
+Eğer ben yerçekimi maddeyi etkiler dersem, o *all* maddeyi etkilemelidir. Eğer bir çakıl taşı bile olsa yerçekimine karşı bağışıklık kazanırsa, teorim sıkıntılı demektir. İnsanların cinayet işlememesi gerektiğini savunan ahlaki bir teori önerirsem, *tüm* insanlar için geçerli olmalı. Belirli insanlar (askerler gibi) bu kuraldan muaf olduğundan, ne askerlerin insan *olmadığı*nı ispatlamak zorunda nede ahlak teorisinin yanlış olduğunu kabul etmek zorundayım. Başka bir olasılık yok. Diğer taraftan, tüm insanların ölmesini *gerektiren* bir ahlak teorisi önerirsem, belirli askerleri kurtarmış olurum. Ama halihazırda birilerini öldür*me*miş herkes (öldürülmüş kişilerde dahil!) kötü olarak değerlendirilir - ki bu da kesin bir şekilde yanlıştır.
 
-If, to save the virtue of soldiers, I alter my theory to argue that it is moral for people to murder if someone else tells them to (a political leader, say), then I must deal with the problem of universality. If Politician A can order a soldier to murder an Iraqi, then the Iraqi must also be able to order the soldier to murder Politician A, and the soldier can also order Politician A to murder the Iraqi. The application of this theory results in a general and amoral paralysis, and thus is proven invalid.
+Eğer, birileri askerlere (politika lideri) insan öldürmenin ahlaki olduğunu söylemişse, askerlerin namını korumak adına teorimi değiştirip evrensellik sorununu çözmeliyim. Eğer A Siyasetçisi bir askere Iraklı bir insanı öldürme emri verebilirse, o zaman Iraklı, askere A siyasetçisini öldürme ve ayrıca asker A siyasetçisine Iraklıyı öldürme emri verebilmelidir. Bu teorinin uygulanması, genel ve ahlaki olmayan bir felce neden olur ve dolayısıyla bu uygulmanın geçersiz olduğu kanıtlanmış olur.
 
-I also cannot logically argue that is wrong for *some* people to murder, but right for *other* people to murder. Since all human beings share common physical properties and requirements, proposing one rule for one person and the *opposite* rule for another is invalid – it is like proposing a physics theory that says that some rocks fall down, while others fall up. Not only is it illogical, it contradicts an observable fact of reality, which is that human beings as a species share common characteristics, and so cannot be subjected to opposing rules. Biologists have no problems classifying certain organisms as “human” because they share common and easily identifiable characteristics – it is only moralists who seem to find this level of consistency impossible.
+Ayrıca *bazı* insanların öldürülmesinin yanlış olduğunu, ama *diğer* insanların öldürülmesinin doğru olduğunu mantıksal olarak iddia edemiyorum. Tüm insanlar ortak fiziksel özellikleri ve gereklilikleri paylaştığından, bir kişi için bir kural önermek ve bir diğeri için kuralın *karşıtı*nı önermek geçersizdir - Bu bazı kayaların diğerleri yukarı doğru diğerlerinin aşağı doğru düştüğünü söyleyen bir fizik teorisi önermek gibidir. Sadece mantık dışı olmakla kalmaz, ortak karakterler taşıyan bir tür olan insanoğlu gibi gerçeklik açısından gözlemlenebilir bir olgu ile çelişir, ki dolayısıyla karşıt kurallara tabi tutulamaz. Biyologların mevcut organizmaları ''insan'' olarak sınıflandırmakla sorunu yok. Çünkü insanlar benzer ve kolayca tanınabilen karakterler paylaşır. -Sadece ahlakçılar tutarlılığın bu seviyede imkansızlığını bulur gibi duruyor.
 
-Furthermore, if my moral theory “proves” that the same man should not murder one day, but *should* murder the next day (say, when he steps out into the Iraqi desert), then my position is even more ludicrous. That would be equivalent to arguing that *one day a rock falls downward, and the next day it falls upward!* To call this any kind of consistent theory is to make madness sanity.
+Üstelik, eğer ahlak teorim bir adamın insan öldürmesi gerektiğini ama aynı adamın sonraki gün adam öldürmemesi *gerektiğini* ''ispatlıyor''sa ( mesela, Irak çöllerine adım attığı zaman) o zaman durumum daha da gülünç olur. Bu *bir taş bir gün aşağı doğru düşer, ve sonraki gün yukarı doğru çıkar!* diye tartışmakla aynı olmalıdır. Bunu herhangi bir tutarlılık teorisi olarak adlandırmak delice bir mantık olur.
 
-Since valid theories require *logical consistency*, a moral theory cannot be valid if it is both true and false at the same time. A moral theory that approves of stealing, for instance, faces an insurmountable logical problem. No moral theory should, if it is universally applied, directly eliminate behaviour it defines as moral while simultaneously creating behaviour it defines as *immoral*. If everyone *should* steal, then no one *will* steal – which means that the moral theory can never be practised. And *why* will no one steal? Well, because a man will only steal if he can *keep* the property he is stealing. He’s not going to bother stealing a wallet if someone else is going to immediately steal that wallet from him. Any moral theory proposing that “stealing is good” is also automatically invalid because it posits that property rights are both valid and invalid *at the same time*, and so fails the test of logical consistency. If I steal from you, I am saying that *your* property rights are invalid. However, I want to *keep* what I am stealing – and therefore I am saying that *my* property rights are valid. However, property rights cannot be both valid and invalid at the same time, and so this proposition itself must be invalid.
+Geçerli teoriler *mantıksal tutarlılığa* ihtiyaç duyduğundan, aynı anda hem doğru hem de yanlış olan bir ahlak teorisi geçerli olamaz. Örnek olarak, çalınmayı onaylayan ahlaki bir teori aşılmaz bir mantık sorunuyla karşı karşıya kalmıştır. Evrensel olarak uygulanıyorsa, hiç bir ahlak teorisi aynı anda hem *ahlak dışı* olarak tanımladığı davranışlar yaratıp hem de doğrudan ahlaki olarak tanımladığı davranışı yok edemez. Eğer herkes çal*malı*, bu sebeple kimse çal*maz* - bu da ahlaki teorinin hiçbir zaman uygulanamayacağı anlamına gelir. Ve *neden* kimse çalmayacak? Aslında, bir insan çaldığı şeyi *elinde tutabilirse* hırsızlık yapabilir. Birileri anında çaldığı cüzdanı ondan çalacaksa o cüzdan çalmaktan rahatsızlık duymaz. ''Çalmak iyidir'' diyen herhangi bir ahlak teorisi, otomatik olarak geçersizdir. Çünkü mülkiyet haklarını *aynı anda* hem geçerli hem de geçersiz farz etmekte ve haliyle mantıksal tutarlılık testinde başarısız olur. Eğer senden çalarsam, *senin* mülkiyet haklarının geçersiz olduğunu söylüyorum. Fakat, çaldığım şeyi *elimde tutmak* istiyorum - ve bu sebeple *benim* mülkiyet hakkımın geçerli olduğunu söylüyorum. Ama, mülkiyet hakları aynı anda hem geçerli hem de geçersiz olamayacağından, bu önermenin kendisi geçersiz olmalıdır.
 
-Similarly, any moral theory that advocates rape faces a similar contradiction. Rape can *never* be moral, since any principle that approves it automatically contradicts itself. If rape is justified on the principle that “taking pleasure is always good,” then such a principle immediately fails the test of logical consistency, since the rapist may be “taking pleasure,” but his victim certainly is *not*.[^7]
+Aynı şekilde, tecavüzü savunan herhangi bir ahlak teorisi de benzer çelişkiyle karşılaşır. Tecavüz *asla* ahlaki olamaz, çünkü bunu onaylayan herhangi bir ilke otomatik olarak kendisiyle çelişir. Eğer tecavüz kendisini ''haz almak her zaman iyidir'' ilkesi üzerinden haklı çıkarırsa, böyle bir ilke anında mantıksal tutarlılık testinden kalır. Çünkü tecavüzcü ''haz alıyor'' olabilir, ama kurban kesin bir surette al*mıyor*dur.[^7]
 
-Thus subjecting moral theories to the scientific method produces results that conform to rationality, empirical observations and plain common sense. Murder, theft, arson, rape and assault are all proven immoral.[^8]
+Dolayısıyla ahlaki teorileri bilimsel metoda tabi tutmak; rasyonellik, deneysel gözlemler ve sağduyuya uygun sonuçlar üretir. Cinayet, hırsızlık, kasıtlı yangın çıkarmak ve saldırı; bunların tümü ahlaka aykırıdır.[^8]
 
-To aid in swallowing this rather large conceptual pill, below is a table that helps equate theories of physics and biology with scientific theories of universally preferable (or moral) behaviour:
+Oldukça büyük bu kavramsal tableti yutmaya yardımcı olması için, aşağıda evrensel olarak kabul edilebilir( veya ahlaki) davranışı fizik ve biyoloji teorileriyle kıyaslayan bir tablo var:
 
-|                            | Physics                                                                                           | Biology                                                                                      | Morality                                                                                                                      |
-|:-------------------------- |:------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------- |
-| **Subject**                | Matter                                                                                            | Organic Matter                                                                               | Preferable behaviour for mankind                                                                                              |
-| **Instance**               | A rock                                                                                            | A horse                                                                                      | A man                                                                                                                         |
-| **Sample Rule**            | Gravity                                                                                           | Hayatta kalma arzusu                                                                         | Self-ownership                                                                                                                |
-| **Sample Theory**          | Entropy                                                                                           | Evolution                                                                                    | Property rights                                                                                                               |
-| **Sample Classification**  | Matter/Energy                                                                                     | Repitile/Mammal                                                                              | Good/Evil                                                                                                                     |
-| **Example**                | Matter cannot be created or destroyed, merely converted to energy and back                        | If it is alive and warm-blooded, it is a mammal                                              | Stealing is wrong                                                                                                             |
-| **Hypothesis**             | Atoms share common structures and properties, and so behave in predictable and consistent manners | Organic matter has rules – or requirements – that are common across classifications          | Universally preferable behaviour shares common rules and requirements                                                         |
-| **Proof**                  | Logical consistency, empirical verification                                                       | Logical consistency, empirical verification                                                  | Logical consistency, empirical verification                                                                                   |
-| **Negative Proof Example** | If mass does not attract mass, theories relying on gravity are incorrect                          | If organisms do not naturally self-select for survival, the theory of evolution is incorrect | If communism succeeds relative to its stated goals, theories based on the universal validity of property rights are incorrect |
+|                          | Fizik                                                                                                             | Biyoloji                                                                                 | Ahlaklılık                                                                                                                        |
+|:------------------------ |:----------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------------------------- |
+| **Konu**                 | Madde                                                                                                             | Organik madde                                                                            | İnsanlık için tercih edilen davranış                                                                                              |
+| **Örnek**                | Bir taş                                                                                                           | At                                                                                       | Bir adam                                                                                                                          |
+| **Örnek Kural**          | Yer Çekimi                                                                                                        | Hayatta kalma arzusu                                                                     | Mülkiyet                                                                                                                          |
+| **Örnek Teori**          | Entropi                                                                                                           | Evrim                                                                                    | Mülkiyet Hakları                                                                                                                  |
+| **Örnek Sınıflandırma**  | Madde/Enerji                                                                                                      | Sürüngen/Memeli                                                                          | İyi/Kötü                                                                                                                          |
+| **Örnek**                | Cisim yaratılamaz ve tahrip edilemez, yalnızca enerjiye dönüştürülür ve geri gönderilir                           | Eğer canlı ve sıcak kanlı ise o bir memelidir                                            | Hırsızlık yanlıştır                                                                                                               |
+| **Hipotez**              | Atomlar ortak yapıları ve özellikleri paylaşır ve bu nedenle öngörülebilir ve tutarlı tavırlar içinde davranırlar | Organik madde sınıflandırmalar arasında ortak kurallara - veya gereksinimlere - sahiptir | Evrensel olarak tercih edilen davranış ortak kuralları ve gereklilikleri paylaşmaktadır                                           |
+| **Kanıt**                | Mantıksal tutarlılık, deneysel doğrulama                                                                          | Mantıksal tutarlılık, deneysel doğrulama                                                 | Mantıksal tutarlılık, deneysel doğrulama                                                                                          |
+| **Negatif kanıt örneği** | Eğer kütle kütleyi çekmezse, yer çekimine dayalı teoriler yanlıştır                                               | Organizma hayatta kalmayı doğal bir şekilde kendisi seçmezse, evrim teorisi yanlış olur  | Eğer komünizm belirtilen amaçlarına göre başarılı olursa, mülkiyet haklarının evrensel geçerliliğine dayanan teoriler yanlış olur |
 
-Table: Theories of physics and biology and of UPB
+Tablo: Fizik, biyoloji ve EOÖD teorileri
 
-In conclusion, it is safe to say that (a) moral rules are valid, and (b) moral theories must be subjected to the rigours of logic and evidence, just as theories of physics and biology are. Any moral theory based on non-universal or self-contradictory principles is demonstrably false.
+Sonuç olarak, (a) ahlak kurallarının geçerli olduğunu söylemek doğrudur ve (b) ahlak teorileri; fizik ve biyoloji teorileriyle aynı mantık ve ispat zorluklarına tabi tutulmalıdır. Evrensel olmayan ve kendisiyle çelişen ilkelere dayanan tüm ahlak teorileri açıkça yanlıştır.
 
-#### UPB: The Framework
+#### UPB: Çerçeve
 
-UPB can thus be seen as a framework for validating ethical theories or propositions – just as the scientific method is a framework that is used to validate scientific theories or propositions.
+Bilimsel metotlar; bilimsel teori veya önermeleri değerlendirmek için kullanılan bir sistem olduğu gibi, EOÖD da etik teorileri veya önermelerini değerlendiren için bir sistem olarak görülebilir.
 
-An example of a moral proposition is: “the initiation of the use of force is wrong.” UPB is the methodology that tests that proposition against both internal consistency and empirical observation. UPB thus first asks: *is the proposition logical and consistent?* UPB then asks: *what evidence exists for the truth of the proposition?*
+Ahlaki önermenin bir örneği şudur: '' güç kullanımına öncülük etmek yanlıştır.'' EOÖD hem içsel tutarlılık hem de deneysel gözleme karşı olan önermeleri test etmenin metodolojisidir. Bu amaçla; EOÖD ilkin *önerme mantıklı ve tutarlı mıdır?* diye, sonra *önermenin doğruluğunu sağlayan hangi kanıtlar mevcut?* diye sorar
 
-To keep this book at a reasonable length, we will in general deal mostly with the first criterion of logical consistency. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+Bu kitabı makul bir uzunlukta tutmak için, genel olarak mantıksal tutarlılığın ilk kriteriyle ilgileneceğiz. İkinci kriter için, tüm kültürlerde tecavüz, hırsızlık, saldırı ve cinayet gibi belli eylemlere karşı olan evrensel yasakların delillerine dayanmalıyız. Çeşitli ahlak önermelerini red etmeye veya desteklemeye yardım eden tarihi kanıtlar üzerine daha fazlası yazılılabilir. Ama bunu değerlendirmeyi başka bir zamana bırakacağız. EOÖD 'ın geçerliliğini kanıtlarsak, büyük bir başarıya ulaşmış oluruz. Eğer başaramazsak, kanıt bize güçlükle yardım eder.
 
-Let us now turn to the question of whether the UPB framework deals with matters of *ethics*, or *aesthetics*, or both.
+Şimdi EOÖD sisteminin *etik*, *estetik* veya ikisiyle birden ilgilenip ilgilenmediği sorusuna dönelim.
 
-[^7]: The same goes, of course, for murder and assault. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
+[^7]: Aynı şey, elbette, öldürmek ve saldırı için de geçerli. Bu kitabın İkinci Kısım 'ında daha detaylı yer alan kanıtlara - mülkiyet haklarının kapsamlı incelemesine de - döneceğiz.
 
-[^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
+[^8]: Evrensel ve pozitif ahlak kuralları da ispatlanabilir. - ör. mülkiyet hakkının evrensel geçerliliği ve şiddete karşı olmak - Ama bunu İkinci Kısım 'da tartışacağız.
