@@ -44,7 +44,7 @@ Eğer bir adamın malını kullanma hakkı yoksa, o zaman kendi vücudunu kullan
 
 Mülkiyet haklarını tartıştığınız herkesin nefes alıp verdiğini, ve bu nedenle en azından kendi bedenini kullanma hakkına sahip olduğunu kabul etmek oldukça önemlidir.
 
-The question then comes up whether or not human beings have the right to *exclusive* property use. Mesela, mülkiyet zaman paylaşımında mülkiyetin ilkesi olarak tanımlanabilir herkes her şeyi kendi programına veya başka bir şeye ait olarak elde etme hakkına sahiptir.
+Böylece, isanların *exclusive* mal kullanma hakkına sahip olup olmadığı sorusu ortaya çıkıyor. Mesela, mülkiyet zaman paylaşımında mülkiyetin ilkesi olarak tanımlanabilir herkes her şeyi kendi programına veya başka bir şeye ait olarak elde etme hakkına sahiptir.
 
 Bu tabii ki de akciğer kanseri olan bir adamın sağlıklı bir insanın en azından tek bir ciğerinde bir hakka sahip olduğu anlamına gelir. Mülkiyetin tamamı bedenle başladığından, kendi bedenimiz üzerinde münhasır mülkiyet sahibi olma hakkımız yoksa, bedenimizi başkalarıyla paylaşmalı ya da ahlak dışı davranmalıyız. Hasta adam akciğerlerimizden birinin hakkına sahiptir, ve biz ondan alıkoyarsak, bu onu çalmakla tamamen aynı şey olur. Benzer şekilde, ikimizin de Celine Dion'un sesini kullanma hakkımız vardır, çünkü onun münhasır mülkiyetinin sahibi olduğu iddiasını yapmak tamamen bencildir.
 
