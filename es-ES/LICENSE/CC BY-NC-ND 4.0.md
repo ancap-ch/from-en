@@ -117,46 +117,46 @@ c. Debe cumplir con las condiciones de la sección 3(a) si comparte todo o una p
 
 Para evitar dudas, esta Sección 4 complementa y no reemplaza sus obligaciones bajo esta Licencia Pública donde los Derechos Licenciados incluyen otros Derechos de autor y Derechos Similares.
 
-### Section 5 – Disclaimer of Warranties and Limitation of Liability.
+### Sección 5 – Descargo d garantías y limitación de responsabilidad.
 
-a. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
+a. **A menos que el Licenciante tome otras medidas por separado, en la medida de lo posible, el Licenciante ofrece el Material Licenciado tal como está y cómo está disponible, y no hace representaciones o garantías de ningún tipo, concernientes al material Liecenciado, ya sea expreso, implícito, legal u otro. Esto incluye, sin limitaciones, garantías de título, comerciabilidad, idoneidad para un propósito particular, no infracción, ausencia de defectos, precisión, o la presencia o ausencia de errores, sean o no conocidos o detectables. Cuando renuncias de garantías, no se permiten en su totalidad o en parte, esta exclusión puede no aplicarse a usted.**
 
-b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
+b. **En la medida de lo posible, bajo ninguna circunstancia el Licenciante será responsable ante usted en cualquier teoría legal (incluyendo, sin limitación, negligencia) o de cualquier directo, especial, indirecto, incidente, consecuente, punitivo, ejemplar, o de otras pérdidas, costos, gastos o daños que surjan de esta Licencia Pública o del uso del Material Licenciado, incluso si el Licenciante ha sido advertido de la posibilidad de dichas pérdidas, costos, gastos o daños. Donde una limitación o responsabilidad no está permitida en su totalidad o en parte, esta limitación puede no aplicar a usted.**
 
-c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+c. La exclusión de garantías y limitación de responsabilidad anteriormente indicada, podrá ser interpretada de manera que, en la medida de lo posible, más se aproxima a una negación absoluta y renuncia a toda responsabilidad.
 
-### Section 6 – Term and Termination.
+### Sección 6 – Término y terminación.
 
-a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+a. Esta Licencia Pública aplica para el término de los derechos de autor y Derechos similares licenciados aquí. Sin embargo, si no cumple con esta Licencia Pública, entonces sus derechos bajo esta Licencia Pública terminan automáticamente.
 
-b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+b. Donde termina su derecho a uso del Material Licenciado bajo la Sección 6(a), se reintegra:
 
-1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+1. automáticamente a partir de la fecha en que se cura la violación, siempre que se cure dentro de los 30 días de su descubrimiento de la violación; o
 
-2. upon express reinstatement by the Licensor.
+2. tras la reinstalación expresa por parte del Licenciante.
     
-    For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+    Para evitar dudas, esta Sección 6(b) no no afecta ningún derecho que el Licenciante pueda tener para buscar soluciones a sus violaciones de esta Licencia Pública.
 
-c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
+c. Para evitar dudas, el Licenciante también puede ofrecer el Material Licenciado bajo términos y condiciones separados o detener la distribución del Material Licenciado en cualquier momento; sin embargo, hacerlo no terminará esta Licencia Pública.
 
-d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+d. Secciones 1, 5, 6, 7 y 8 sobreviven la terminación de esta Licencia Pública.
 
-### Section 7 – Other Terms and Conditions.
+### Sección 7 – Otros términos y condiciones.
 
-a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
+a. El licenciante no está obligado por términos y condiciones adicionales comunicados por usted, a menos que se acuerde expresamente.
 
-b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
+b. Cualquier acuerdo, entendimiento o acuerdo con respecto al Material Licenciado que no se especifique en este documento es independiente e independiente de los términos y condiciones de esta Licencia Pública.
 
-### Section 8 – Interpretation.
+### Sección 8 – Interpretación.
 
-a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
+a. Para evitar dudas, esta Licencia Pública no podrá ser interpretada para reducir, limitar, restringir o imponer condiciones a cualquier use del Material Licenciado que legalmente podría realizarse sin el permiso de esta Licencia Pública.
 
-b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+b. En la medida de lo posible, si alguna disposición de esta Licencia Pública se considera inaplicable, deberá ser reformada automáticamente a la mínima medida, para hacerla aplicable. Si la prestación no puede ser reformada, deberá ser separado de esta Licencia Pública sin afectar su aplicación de los términos y condiciones restantes.
 
-c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
+c. Ningún términos y condiciones de esta Licencia Pública se eximirá y no se aceptará ningún incumplimiento a menos que el Licenciante lo acuerde expresamente.
 
-d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
+d. Nada en esta Licencia Pública constituye o será interpretado como una limitación sobre, o eximida d cualquier privilegio e inmunidades que le aplique el Licenciante, incluyendo los procesos legales de cualquier jurisdicción o autoridad.
 
-> Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
+> Creative Commons no es parte de sus licencias públicas. A pesar de que, Creative Commons puede optar por aplicar una de sus licencias públicas al material que publica y en esos casos se considerará el "Licenciante". Excepto por el propósito limitado de indicar que el material se comparte bajo una licencia pública de Creative Commons o según lo permitido por las políticas de Creative Commons publicadas en [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons o cualquier otra marca o logo de Creative Commons sin su consentimiento previo por escrito, incluyendo, sin limitación, en conexión con cualquier modificación autorizada para cualquiera de sus Licencias Públicas o cualquier otro arreglo, entendimiento o acuerdo concerniente al uso del material licenciado. Para evitar dudas, este párrafo no forma parte de las licencias públicas.
 > 
-> Creative Commons may be contacted at creativecommons.org
+> Creative Commons puede ser contactado a través de creativecommons.org
