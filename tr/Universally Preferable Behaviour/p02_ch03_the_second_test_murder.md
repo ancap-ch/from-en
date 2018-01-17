@@ -28,7 +28,7 @@ Böylece, eğer uyanık bir kişiyi adilce vuramıyorsak, hala bir birey olduğu
 
 Böylelikle, UPB'ye göre "Ben uykusunda olan bir adamı istediğimde vurabilirim." ifadesi doğrulanamadığı için, gerçek ahlaki bir önerme olamaz.
 
-Here again we find that the UPB framework holds true in terms of murder. The only possible valid moral theory regarding murder is that it is evil, or universally banned.
+Burada yine UPB çerçevesinin cinayet açısından geçerli olduğunu görüyoruz. Cinayetle ilgili mümkün olan tek geçerli ahlaki teori, bunun kötülük ya da evrensel olarak yasak olmasıdır.
 
 Aynı yaklaşımla saldırı sorununa gidebiliriz, ama bu tartışmalar tecavüz ve cinayetlerle aynı olacaktır, bu sebeple vahşet uğruna devam edeceğiz.
 
