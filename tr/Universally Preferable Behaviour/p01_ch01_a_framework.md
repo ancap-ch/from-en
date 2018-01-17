@@ -68,7 +68,7 @@ Bu bilimsel metodun anahtarının kökleridir - üretkenlik. Eğer yer çekimi d
 
 Bir matematik öğretmeni olsaydınız, öğrencinin yazdıklarında cevabının "doğru" olduğunu iddia etse de, ancak geçici olarak bir şekilde değişmiş olsa dahi, bir öğrenciden yanlış bir cevap kabul etmeniz olası değildir.
 
-Böylelikle, objektif gerçeğe göre bir ifadenin geçerliliğini hem deneysel hem de mantıksal olarak ölçmemiz gerektiğini kabul edebiliriz. Bir disiplin olarak mantık, sadece gerçekliğin tutarlılığının bir sonucu olarak ortaya çıkmaktadır; ampirik gözlemlerde de aynı zamanda gerçekliğin tutarlı doğasının bir sonucu olarak da geçerlidir veya geçersizdir.
+Böylelikle, objektif gerçeğe göre bir ifadenin geçerliliğini hem deneysel hem de mantıksal olarak ölçmemiz gerektiğini kabul edebiliriz. Bir disiplin olarak mantık, sadece gerçekliğin tutarlılığının bir sonucu olarak ortaya çıkmaktadır; deneysel gözlemlerde de aynı zamanda gerçekliğin tutarlı doğasının bir sonucu olarak da geçerlidir veya geçersizdir.
 
 ### Doğrunun varlığı
 
@@ -77,7 +77,7 @@ Doğru o zaman iki merkez kriterle ölçülebilir:
 1. Doğruluğun ölçülmesi, zihnimizdeki düşüncelerin mantıkla, madde ve enerjinin gerçek dünyayla ilişkisiyle ölçülür. [^2]
 2. Gerçek, aynı zamanda zihnimizdeki fikirler, doğa, maddenin davranışı ve gerçek dünyadaki enerji arasındaki ilişkiyi ölçmektir
 
-İlk kriter fikirlerin sürekliliğinin bir ölçüsüdür - ve bu süreklilik, gerçeklik kendisi içinde sürekli olduğu için bir gerekliliktir. Eğer "varlığım aslında yoktur" dersem bu bir fikrin kendisiyle bağdaşmadığını gösterir, sonuçta varolduğum için bu cümleyi kurabiliyorum. İkinci kriter, nesnel gerçekliğin ampirik gözlemlerine göre fikirlerin doğruluğunun ölçüsüdür.
+İlk kriter fikirlerin sürekliliğinin bir ölçüsüdür - ve bu süreklilik, gerçeklik kendisi içinde sürekli olduğu için bir gerekliliktir. Eğer "varlığım aslında yoktur" dersem bu bir fikrin kendisiyle bağdaşmadığını gösterir, sonuçta varolduğum için bu cümleyi kurabiliyorum. İkinci kriter, nesnel gerçekliğin deneysel gözlemlerine göre fikirlerin doğruluğunun ölçüsüdür.
 
 #### Deneyciliğe karşı Rasyonalizm
 
