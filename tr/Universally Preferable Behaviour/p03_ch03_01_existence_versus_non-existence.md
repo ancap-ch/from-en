@@ -60,7 +60,7 @@ If I say that a square circle has the right to steal, I am merely saying that th
 
 İkinci el dükkânında bir askerin kıyafetini alıp giyersem, tersine ahlaki kuralların geçerli olduğu alternatif bir evren yarattığım anlamına gelmez. Kostümü giymeden hemen önce, cinayet işlemek benim için yanlıştı, ne zaman benim için *doğru* oldu? Pantolonu giydiğim zaman mı? Eğer pantolonları giymiş olsam, ama yeleği giymemiş olsaydım? Ya sadece botlardan tekini giymiş olsaydım? Ya iki botu da giymiş olsaydım, ama sadece biri bağlı olsaydı? Ya şapkamı ters takmış olsaydım? Ya karşılaştığım ilk insanın tanıyamayacağı bir üniforma giymiş olsaydım? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Onlar ceketlerini çıkardıkları sırada mı bunu kaybettiler?
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Sözbilime ait soruları sorarım çünkü onlar gerçekten ölümcül derecede ciddiler. Açıkça, askeri bir kostüm insan doğasını değiştirmez sadece bir saç kesimi onu bir ördeğe, bir konsepte ya da bir tanrıya dönüştürür.
 
 “Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
 
