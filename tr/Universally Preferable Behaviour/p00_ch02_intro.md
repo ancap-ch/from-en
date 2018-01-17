@@ -116,7 +116,7 @@ Bilimsel yaklaşım her kuramın mantık ve kanıtla desteklenmesini ister. Tanr
 
 Böylece, tutarlı ve evrensel gerçeğin oluşturulmasında, illüzyonun sömürücü potansiyelini mutlaka sınırlayıp yok etmektedir. Özellikle, evrensel ve tutarlı olan "büyük gerçekler", aslında sömürücü fanteziler olan "orta gerçekler"'i gereksiz ve saçma bir hale getiriyor. Dinin "orta gerçeği" ni biliyoruz; Birkaç kişi incelenecek ve ortaya çıkacak ve bazıları sizi şoke edebilecek.
 
-### Effective Parasitism
+### Etkili Asalaklık
 
 En etkili parazitler- yada virusler - vücüdu katıksız şekilde aptal yerine koyanlardır. Bizim bağışıklık sistemimiz dışardan gelen yabancı maddelere saldırmak, izole etme ve öldürmeye tasarlanmıştır. Biz HIV ve kanserden korkuyoruz çünkü onlar vücüdumuzun bağışıklık sistemini geçebiliyor. Aynı teknik entelektüel parazitler tarafından avlanmak için savunma sistemlerini devre dışı bırakmak için kullanılmaktadır.
 
