@@ -50,7 +50,7 @@ Eğer "insanları öldürmek kötüdür" dersek insan yiyen köpek balığı kö
 
 No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
 
-UPB nesnel ve evrensel maddeye dayalı istisnalara ya da biyolojik farklılıklara izin verir, tıpkı diğer bilimlerin yaptığı gibi. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
+UPB nesnel ve evrensel maddeye dayalı istisnalara ya da biyolojik farklılıklara izin verir, tıpkı diğer bilimlerin yaptığı gibi. Gazların ıstıldığında genişlediği olan bilimsel teori tabii ki yalnızca gazlara uygulanır. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
 
 In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
 
