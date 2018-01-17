@@ -102,7 +102,7 @@ Yukarıda tartışıldığı üzere tecavüz ahlaken nötr bir davranış olamaz
 
 Belki tecavüz bir *kişisel olarak olumsuz* davranıştır, üç numaranın tersine. Örnek olarak, kaçak bir suçlu kişisel olarak olumsuz davranış(KOD) yapmayı düşünecektir.
 
-Kişisel olarak olumsuz davranışlar(KODlar) tanımı gereği başkaları üzerinde zorla uygulanamazlar. Bu yüzden, tecavüze uğrayan birinin kendini savunma tercihini tecavüzcüsüne *tecavüz etmeme* şeklinde zorlamak yanlış olacaktır. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
+Kişisel olarak olumsuz davranışlar(KODlar) tanımı gereği başkaları üzerinde zorla uygulanamazlar. Bu yüzden, tecavüze uğrayan birinin kendini savunma tercihini tecavüzcüsüne *tecavüz etmeme* şeklinde zorlamak yanlış olacaktır. Bu yolla şiddete olan atılım - kişisel tercihin zorlanması - *moral*, savunmadır - aynı zamanda kişisel tercihin zorlanması - sağduyulu değildir. Bu yolla aynı hareketlerin ( kişisel tercihin zorla kabul ettirilmesi) hem moral hemde moralsiz olarak sınıflandırılabilir, bu da sürekli olamaz.
 
 ### Estetik olarak olumsuz
 
@@ -110,7 +110,7 @@ Belki de tecavüz estetik olarak *olumsuz* bir davranıştır tıpkı geç kalma
 
 Ancak, tecavüz tanımı gereği kaçınılamazdır çünkü güç kullanarak gerçekleştirilen cinsel bir saldırıdır.[^4] Ayrıca, eğer ben yukarıda belirtilen sürekli geciken adamla arkadaşlığı kesersem o beni şiddet ile tehdit ederek arkadaşı olmaya zorlayamaz çünkü bu sadece kişisel tercihlerin başkalarına uygulanabileceği anlamına gelir ki arkadaşlığını bırakmayı *isteyebilme* yeteneğime karşı sonuçsuz kalacaktır. Bu çeşit "Tarantino ahlakı" herkesin donmuş bir heykel gibi birbirlerinin suratına silah doğrulturken sessizlik halinde felç olma durumu ile sona erer.
 
-As we have already established, any universally preferable behaviour must be universal to all people in all places at all times – if ANAs allow for violent enforceability (i.e. I can shoot you for being late) – then if rape is defined as an ANA which can be enforced, then the rape victim who finds rape an aesthetically negative action has the right to shoot his rapist, which effectively affirms the principle of self-defence, but at the expense of also allowing gun play in the opposition of, say, rudeness.
+Daha önce kurdğumuz gibi, evrensel olarak kabul edilen bir davranış her zaman ve her yerde evrenselliğini korumalıdır - Eğer ANA'lar vahşi zorlamaya izin verirse (örn. geç kaldığın için snei vuraiblirim) - o zaman tecavüz bir ANA olarak adlandırılırsa zorla kabul ettirilebilir, o zaman bunu olumsuz bulan tecavüz kurbanı tecavüzcüyü vurma hakkına sahiptir, buda nefsi müdafa prensipini doğrular, bu aynı zamanda silah oyununu karşı tarafın kullanmasına da olanak sağlar, kabalıktır.
 
 Böylelikle tecavüz ANA olamaz.
 
@@ -124,7 +124,7 @@ Buna ek olarak, eğer tecavüz kötü ise, o zaman tecavüz *etmemek* iyi olmal�
 
 Kaçınılabilirlik, "nahoşluk" ve "ahlaksızlık" arasındaki anahtar farklılaştırıcıdan biri olduğundan, ve tecavüz açıkça kaçınılamayan bir davranış olduğundan, "kötü olarak tecavüz etmek" tanımı da bu ayrıma uymaktadır.
 
-Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
+Aynı zamanda fiziksel olarak birisine tecavüz etmenin imkansız olduğu zamanlar vardır - ereksiyonun gerçekleşemediği zamanlarda - "tecavüz şeytanidir" terimi insanların rızası olmamasını moralsiz kılar, ki bu tanım olarak imaknsızdır, çünkü bu kaçınılabilir bir durumdur.
 
 Tecavüzcü "tecavüz iyidir" önermesinden sıyrılarak eylemlerini haklı çıkarabilir, ve bunun yerine tecavüze olan arzusunu destekleyen başka bir önermenin yerine mesela şunu koyabilir: "Başkalarının hoşnutsuzluğundan ziyade, kendi zevkini almak ahlaklıdır."
 
