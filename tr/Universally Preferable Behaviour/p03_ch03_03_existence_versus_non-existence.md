@@ -28,13 +28,13 @@ Bir örnek olarak tümüyle gerçek ve sürmekte olan tehlikeyi alalım: vergile
 
 #### Vergi Sistemi
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Bana Kanada'da yaşamayı seçme erdemi gereğince "hükümet"e gelirimin yüzde ellisini borçlu olduğum söylendi.
 
-Stripped of mythology, what does this really translate to?
+Mitolojiden soyunca, bu gerçekten ne anlama gelir?
 
-In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+Gerçekte, sonsuza dek "hükümet"in gelip payını almasını bekleyeceğim anlamına gelir. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
 
-In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+Gerçekte, "hükümet"e vergimi ödemeliyim dediğim zaman bu aslında paramı yalnızca belirli bir grup insanın erişebildiği belirli bir banka hesabına aktarmak için çek yazmalıyım demektir. Böylece bu insanlar bu parayı alma hakkına sahip olur ve uygun gördükleri gibi harcarlar - bu belirli bir grup insan böylece benim paramın üzerinde mutlak bir kontrole sahip olur.
 
 At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. "Devlet" olarak adlandırılan bir konseptin paranızı alma veya kullanma kapasitesine sahip olduğunu düşünmek, "Tanrı" nın gelip sizi alıp kiliseye götürmesini beklemekle aynı şeydir.
 
