@@ -56,7 +56,7 @@ Eğer bir bakım evi işletirsem, özürlü insanlar onları beslemem için bana
 
 Bu yüzden ebeveynlerin yeni doğan bebeklerine bakacakları ve besleyecekleri varsayılır. If said parents decide against such care-giving, then they are obligated to give the child up to other people who *will* care for it, or face the charge of murder, just as the manager of a home for the disabled must either feed those who utterly depend on him, or give them up to someone who will. Eğer artık köpeğim ile ilgilenmek istemediğime karar verirsem, ona başka bir ev bulmak zorundayım, basitçe açlıktan ölmesine izin vermek değil.
 
-This all relies on the principle of third-party self-defence, which is fully supported by the framework of UPB, since the right of self-defence is universal. Eğer tekerlekli sandalyedeki bir adama bir kadın tarafından saldırılıyor olduğunu görürsem, onu savunma hakkına sahibim - ve bu, o adamın kendisini savunma yetersizliği var ise daha da doğrudur.
+Bunların tümü UPB çerçevesinde tam olarak desteklenen üçüncü taraf kendini savunma ilkesine dayanmaktadır, çünkü kendi kendini savunma hakkı evrensel bir haktır. Eğer tekerlekli sandalyedeki bir adama bir kadın tarafından saldırılıyor olduğunu görürsem, onu savunma hakkına sahibim - ve bu, o adamın kendisini savunma yetersizliği var ise daha da doğrudur.
 
 Çocuklar kendilerini besleyemez, bağımsız bir şekilde yaşayamaz ya da bir hayat kuramazlar, onlar çocuk kaçırma kurbanlarının ya da daha önce onu bodrum katına kilitleyen kocası hakkında konuştuğumuz kadının ahlaki donanımlarıdır. Çocuklar ayrıca onların küçük boyu posu ve ebeveynlerine neredeyse tam olarak bağlılıkları sebebiyle nefsi müdafaa için yeterlilikte noksandır.
 
