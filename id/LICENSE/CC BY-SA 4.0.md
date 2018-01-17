@@ -133,33 +133,33 @@ Untuk menghindari keraguan, suplemen Bagian 4 ini dan tidak menggantikan kewajib
 
 a. ** kecuali dinyatakan secara terpisah dilakukan oleh pemberi lisensi, untuk sejauh mungkin, para pemberi lisensi menawarkan bahan berlisensi seperti apa adanya dan As-tersedia, dan tidak menjamin atau jaminan apapun mengenai berlisensi material, Entah Express, tersirat, hukum, atau lainnya. Ini termasuk, namun tidak terbatas pada, jaminan judul, kelayakan jual, kesesuaian untuk tujuan tertentu, tidak melanggar, tidak adanya cacat laten atau cacat lainnya, keakuratan, atau ada tidaknya kesalahan, diketahui atau tidak dapat ditemukan. Jika penyangkalan terhadap garansi tidak diperbolehkan seluruhnya atau sebagian, penafian ini mungkin tidak berlaku untuk Anda. **
 
-b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
+b. **Sebisa mungkin, Pemberi lisensi dalam hal apapun bertanggung jawab kepada Anda atas teori hukum apapun (termasuk tanpa ada batasan, kelalaian) atau jika tidak untuk secara langsung ataupun tidak langsung, spesial, hal yang kebetulan, konsekuensi, hukuman, teladan, kehilangan, kerugian, biaya atau kerusakan yang ditimbulkan dari Lisensi Publik atau penggunaan material berlisensi bahkan jika pemberi lisensi telah memberitahukan dari kemungkinan seperti kehilangan, kerugian, biaya atau kerusakan. Jika batasan tanggung jawab tidak diperbolehkan secara penuh atau sebagian, batasan ini mungkin tidak berlaku untuk Anda.**
 
 c. Penafian jaminan dan pembatasan tanggung jawab yang diberikan di atas harus ditafsirkan dengan cara yang, sejauh mungkin, paling mendekati dugaan disclaimer dan pembebasan semua kewajiban.
 
-### Section 6 – Term and Termination.
+### Sesi 6 - Istilah dan Keputusan.
 
 a. a. Lisensi Publik ini berlaku untuk jangka waktu Hak Cipta dan Hak-hak Hak yang dilisensikan di sini. Namun, jika Anda gagal mematuhi Lisensi Publik ini, maka hak Anda berdasarkan Lisensi Publik ini akan berakhir secara otomatis.
 
-b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+b. Anda berhak menggunakan Material berlisensi yang sudah diputuskan pada sesi 6(a), menyatakan:
 
 1. secara otomatis pada tanggal pelanggaran tersebut disembuhkan, asalkan sudah sembuh dalam waktu 30 hari sejak ditemukannya pelanggaran; atau
 
-2. upon express reinstatement by the Licensor.
+2. pada saat menyatakan kembali oleh pemberi lisensi.
     
-    For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+    Untuk menghindari keraguan, Sesi 6(a) tidak memberikan efek apapun terhadap hak Pemberi Lisensi untuk mencari solusi atas pelanggaran Anda atas Lisensi Publik.
 
 c. Untuk menghindari keraguan, Pemberi Lisensi juga dapat menawarkan Materi Izin dengan syarat atau ketentuan yang terpisah atau menghentikan penyalaan Bahan Berlisensi setiap saat; Namun, hal itu tidak akan menghentikan Lisensi Publik ini.
 
-d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+d. Sesi 1, 5, 6, 7 dan 8 keputusannya tetap atas Lisensi Publik.
 
-### Section 7 – Other Terms and Conditions.
+### Sesi 7 - Istilah dan Keputusan Lainnya.
 
-a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
+a. Pemberi Lisensi tidak terikat atas kondisi komunikasi atau perbedaan istilah ataupun tambahan lainnya bagi Anda kecuali sudah disetujui.
 
 b. Setiap pengaturan, pemahaman, atau kesepakatan mengenai Bahan Berlisensi yang tidak disebutkan di sini terpisah dari dan terlepas dari syarat dan ketentuan dari Lisensi Publik ini. Dinyatakan di sini terpisah dari dan terlepas dari syarat dan ketentuan dari Lisensi Publik ini.
 
-### Section 8 – Interpretation.
+### Sesi 8 - Penafsiran.
 
 a. Untuk menghindari keraguan, Lisensi Publik ini tidak, dan tidak boleh ditafsirkan untuk, mengurangi, membatasi, membatasi, atau mengenakan ketentuan tentang penggunaan Materi Berlisensi yang dapat dilakukan secara sah tanpa izin berdasarkan Lisensi Publik ini.
 
