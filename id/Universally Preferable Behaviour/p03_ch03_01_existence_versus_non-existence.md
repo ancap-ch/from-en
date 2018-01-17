@@ -110,7 +110,7 @@ Tanpa "zona null," korup ini fiksi tidak dapat dipertahankan.
 
 Seperti yang kita lihat, kita tahu bahwa secara pribadi itu adalah salah untuk mencuri; kami memiliki sedikit masalah dengan abstrak dan logis larangan pencurian, seperti yang kita telah bekerja di atas – namun masih ada ini "zona null" atau alam semesta alternatif di mana oposisi seperti dapat diterima tanpa pertanyaan atau kekhawatiran.
 
-Menurut UPB, itu salah bagi saya dan anda untuk mencuri. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. Itu adalah moral kegilaan!
+Menurut UPB, itu salah bagi saya dan anda untuk mencuri. Belum lagi kadangkala di "zona nol" ini, tidak hanya diizinkan akan tetapi juga *moral* yang sempurna untuk dicuri oleh yang lain. Kita * tidak boleh* mencuri tapi mereka *boleh* mencuri. Itu adalah moral kegilaan!
 
 ### Polisi
 
@@ -120,25 +120,25 @@ Jelas, ketika Bob bangun di pagi hari, sebelum shift-nya, dia tidak bisa pergi k
 
 Ketika Bob memiliki sarapan, dia juga tidak menyerang tetangganya dan mengambil uangnya. Dalam perjalanannya ke tempat kerja – bahkan meskipun ia telah mengenakan seragam – dia tidak menekan lagi, dan dengan demikian tidak memiliki lebih banyak hak dari warga negara lain. Ketika dia pukulan di, namun, sekarang, seolah-olah tidak turun amoral tiang api dari langit, ia memperoleh kemampuan luar biasa untuk secara moral menyerang tetangganya dan mengambil uang mereka.
 
-Anehnya, ini adalah satu-satunya karakteristik yang telah benar-benar terbalik itu sendiri. Dia tidak bisa terbang, ia tidak dapat mengubah bentuk nya, ia tidak berhasil mencerna bantalan bola atau tinggal di neraka, ia tidak dapat menjalankan satu ribu kilometer per jam, dan dia tidak bisa berjalan melalui dinding bata. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
+Anehnya, ini adalah satu-satunya karakteristik yang telah benar-benar terbalik itu sendiri. Dia tidak bisa terbang, ia tidak dapat mengubah bentuk nya, ia tidak berhasil mencerna bantalan bola atau tinggal di neraka, ia tidak dapat menjalankan satu ribu kilometer per jam, dan dia tidak bisa berjalan melalui dinding bata. Dia sepenuhnya, sungguh-sungguh dan benar-benar *pemuda yang sama **dimana sebelumnya **dia melawan* akan tetapi sekarang dia tunduk sepenuhnya terhadap peraturan yang berlawan dengan moral.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Bahkan lebih aneh lagi, meskipun saya bukan seorang "polisi" tapi saya mengikuti Bob dalam bekerja dan melakukan apa yang dilakukannya, memakai seragam, masuk ke kantor polisi dan memasukkan kartu ke dalam jam absensi, Jika saya melakukan persis apa yang dilakukan oleh Bob, maka sepenuhnya saya benar-benar tidak bermoral meskipun tindakan identik yang dilakukan oleh Bob sepenuhnya *bermoral*.
 
 Apa jenis rasa apakah ini? Bagaimana kita dapat dibayangkan mengungkap ini ditembus misteri?
 
-The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+Fakta sederhanya ialah hal ini *tidak bisa* diuraikan karena hal tersebut benar-benar memalukan. Fakta nya ialah moral kegilaan "dunia yang berlawanan" yang benar-benar tidak masuk akal yang tidak menyebutkan eksploitasi kekerasan yang sangat jelas harus dikuburkan dalam sebuah iring-iringan yang tidak berujung dari mitologi "kesukarelaan"
 
 Kita diberitahu bahwa kita "ingin" Bob untuk mengambil uang kita yang benar-benar bertentangan dengan fakta bahwa Bob muncul di depan rumah kami menunjuk pistol di wajah kita. Dengan logika ini, saya juga bisa naik dan turun jalan mencuri uang dari tetangga saya, dan kemudian mengklaim untuk menjadi benar-benar terkejut ketika saya ditangkap:
 
-“They *want* me to take their money!”
+"Mereka *menginginkan* uangnya untuk saya ambil!"
 
 "Tapi kenapa kau mengancam untuk menembak mereka jika mereka tidak memberikan mereka uang?"
 
-“Because they *owe* me their money!”
+"Karena mereka *menghutangkan* uangnya kepasa saya!"
 
-“I thought you said that they want to give you their money.”
+"Saya pikir kamu mengatakan mereka mau memberikan uangnya kepada mu."
 
-“No, no – they owe me. It’s really *my* money!”
+"Tidak, tidak, mereka meminjamkannya. Ini benar-benar uang *saya*!"
 
 "Atas dasar apa mereka berutang uang ini?"
 
@@ -146,11 +146,11 @@ Kita diberitahu bahwa kita "ingin" Bob untuk mengambil uang kita yang benar-bena
 
 "Bisa kau tunjukkan kontrak ini? Mereka telah menandatangani kontrak ini dari kehendak bebas mereka sendiri?"
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Siapapun yang menolak untuk membayar uang saya bisa pindah ke tempat lain, aku tidak memaksa siapa pun!"
+"Ini bukan merupakan kontrak! Ini merupakan sebuah kontrak *sosial*… Selain itu, menurut kontrak sosial itu, Saya memiliki seluruh jalan, sebenarnya seluruh lingkungan! Siapapun yang menolak untuk membayar uang saya bisa pindah ke tempat lain, aku tidak memaksa siapa pun!"
 
 "Dan bagaimana anda tahu bahwa anda memiliki seluruh lingkungan? Apakah anda memiliki surat-surat kepemilikan?"
 
-“Yes, of course – have a look here!”
+"Ya, pasti, coba lihat kesini!"
 
 "Yah, ini hanya sebuah catatan tulisan tangan yang mengatakan bahwa anda memiliki seluruh lingkungan – dan itu tulisan tangan yang sama seperti tanda tangan anda. Aku takut bahwa kita akan memiliki untuk buku anda – ini hanya dibuat-buat kontrak dengan diri sendiri, yang menimbulkan pada orang lain pada titik pistol."
 
@@ -160,7 +160,7 @@ Di pengadilan, saya akan dicaci maki, dan dilemparkan ke dalam penjara untuk say
 
 Ah, tapi di "zona null" dari pemerintah, pemerkosaan bercinta, penculikan undangan, menolak pencurian adalah kejahatan keegoisan, dan pemaksaan adalah kebaikan.
 
-This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
+Inilah yang saya maksud ketika saya mengatakan bahwa "*zona* dunia yang berlawanan" adalah penghalang yang paling mendasar atas kebahagian manusia di seluruh dunia. Mencuri tidak kami benarkan; secara abstrak, mencuri tidak dibenarkan akan tetapi ada kalanya mencuri "dibolehkan" dalam alternatif semesta yang gila ini yand disebut "pemerintah"?
 
 [^2]: Mari kita bahkan tidak mendapatkan *mulai* pada mimpi buruk logis dari nilai kebenaran yang terkandung dalam pernyataan "kesalahan sama dengan kebenaran."
 
