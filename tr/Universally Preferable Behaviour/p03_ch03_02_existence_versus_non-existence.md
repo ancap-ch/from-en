@@ -24,15 +24,15 @@ Eğer ben kendi tercihlerimi yapmak konusunda ehliyetsiz olduğumu düşünmüyo
 
 Ya yetkili karar verme yeteneğine sahibimdir, ya da değilimdir. Eğer *ben* yeterli kararları alabilecek kapasitedeysem o zaman kendimi hayatımın geri kalanında güce tabi kılmam geçersiz olur. Eğer *ben* yeterli kararları alabilecek kapasitede değilsem o zaman kendimi hayatımın geri kalanında güce tabi kılmam yine geçersiz olur.
 
-Yukarıda yer alan bazı kabuller pypass edilse dahi adil bir şekilde hükümet yoluyla bir toplum sözleşmesi dayatmak mümkün değildir. Açıktır ki, ben *sizin* ya da kendi çocuklarım adına sizi ya da onları hayatlarının geri kalanında bağlayabilecek bir sözleşme imzalayamam. Bir araba alıp size faturayı gönderip adil bir şekilde sizden bunu ödemenizi talep edemem. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+Yukarıda yer alan bazı kabuller pypass edilse dahi adil bir şekilde hükümet yoluyla bir toplum sözleşmesi dayatmak mümkün değildir. Açıktır ki, ben *sizin* ya da kendi çocuklarım adına sizi ya da onları hayatlarının geri kalanında bağlayabilecek bir sözleşme imzalayamam. Bir araba alıp size faturayı gönderip adil bir şekilde sizden bunu ödemenizi talep edemem. Eğer ben size tek taraflı bir sözleşmeyi dayatma gücünü iddia edersem, ayrıca ETD de *size* bu imkanı veriyor, sonuç olarak siz sözleşmeyi benim adım yer alacak şekilde bana iade edeceksiniz.
 
 Aynı şekilde, vergilerimi gönüllü olarak ödemeyi seçsem bile, bu seçimi size empoze edemem çünkü gönüllü bir sözleşme sadece kişisel bir tercih ile olur ve bu sebeple şiddet yoluyla evrensel olarak uygulanamaz.
 
 ### Devletin Gerekliliği ?
 
-This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
+Bütün bu sorular çoğunluğun iradesine dayanan demokratik hükümetlerin gücü için ileri sürülen en yaygın ahlaki "gerekçeye" bakınca daha da gülünç hale geliyor.
 
-Öncelikle, "erginlik" bir grup için kavramsal bir etiketken, "irade" bireysel bir tavırdır. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
+Öncelikle, "erginlik" bir grup için kavramsal bir etiketken, "irade" bireysel bir tavırdır. "Çoğunluk" bir "korodaki bir sıra"nın doğurabilmesinden daha fazla "irade"ye sahip değildir. Eğer bundan şüpheniz varsa tek tek ahşap parçaları ile değil orman kavramıyla bir ağaç evi inşa etmeyi deneyin.
 
 Bu devletin gerekliliği sorusu ortaya çıktıkça iki ek itiraz sürekli olarak yinelenir. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
 
