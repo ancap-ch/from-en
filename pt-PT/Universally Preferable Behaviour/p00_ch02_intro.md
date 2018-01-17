@@ -64,11 +64,11 @@ Ao fornecer a ilusão de que encontramos a verdade, as "meias verdades" realment
 
 Dado que não são apenas irracionais, mas *anti*-racionais, "as verdades do meio" permanecem infinitamente flexíveis - sempre que sirvam aos que estão no poder. Por exemplo, o cristianismo surgiu do fascismo crescente do último império romano, em parte, atacando as superstições "primitivas" das teologias existentes. "Esqueça seus deuses antigos, nós temos um novo Deus que é muito melhor!"
 
-As "meias verdades" sempre assumem a forma de uma verdade, seguidas por uma mentira. "Zeus é uma superstição pagã" é uma afirmação verdadeira, que foi feita, abertamente, pelos proselitistas cristãos. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+As "meias verdades" sempre assumem a forma de uma verdade, seguidas por uma mentira. "Zeus é uma superstição pagã" é uma afirmação verdadeira, que foi feita, abertamente, pelos proselitistas cristãos. A mentira que se seguiu foi: "Jeová não é uma superstição pagã, mas um Deus vivo e real"
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+Podemos personalizar isto um pouco mais com um exemplo que será familiar para quem já tenha aconselhado um amigo perturbado. Ela dirá: "o meu último namorado foi um verdadeiro idiota" e você concordará fervorosamente. Porém ela irá acrescentar: "o meu novo namorado é realmente *óptimo* e você tentará não revirar os olhos.
 
-It is very hard not to replace one illusion with another.
+É muito difícil não substituir uma ilusão por outra.
 
 “The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
 
