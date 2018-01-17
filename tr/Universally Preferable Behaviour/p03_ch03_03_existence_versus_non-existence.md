@@ -24,9 +24,9 @@ Tabii ki değil.
 
 When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
 
-Let’s take as an example a very real and present danger: taxation.
+Bir örnek olarak tümüyle gerçek ve sürmekte olan tehlikeyi alalım: vergilendirme.
 
-#### Taxation
+#### Vergi Sistemi
 
 I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
 
@@ -36,23 +36,23 @@ In reality, I will wait until the end of time for “the government” to come a
 
 In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. "Devlet" olarak adlandırılan bir konseptin paranızı alma veya kullanma kapasitesine sahip olduğunu düşünmek, "Tanrı" nın gelip sizi alıp kiliseye götürmesini beklemekle aynı şeydir.
 
 Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
 
-If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
+Eğer bu adama parayı ödemezsem, parayı almak için evime başka bir adam gönderecek - artı "faiz" ve "vergi" ile.
 
 Normalde eğer bir adamla silahla evime gelir ve paramı isterse kendimi korumak için şiddete başvurma hakkım var. Fakat bu durumda onun giydiği kostüm ve kurgusal varlığı temsil etmesi yüzünden kendimi korumak için şiddete başvurmaya iznim yok.
 
 Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
 
-If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
+Eğer paramı almaya gelen adama parayı ödemezsem, bir silah çıkarıp, göğsüme doğrultmaya, ve beni kaçırmaya- eğer direnirsem vurmaya hakkı var. Beni şiddetle en sert ve vahşi işkencelere, ve sürekli tecavüze maruz kalacağım, küçük bir hücreye yıllarca kapatabilir, ta ki beni serbest bırakmaya karar verene kadar.
 
-Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+İlginçtir ki, eğer bir adamın kanunlara uygun bir şekilde bana borcu olsaydı, onu kaçırmaya ve yıllarca işkence ve tecavüze maruz bırakmaya hakkım olmazdı. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
 
-Stealing, as we have proven, is evil.
+Çalmak, kanıtladığımız gibi, kötüdür.
 
-Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
+Einstein fizikde ışığın hızının sabit olduğunu iddia ederek ve ispatlayarak köklü değişiklikler yaptı.
 
 We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
 
@@ -60,7 +60,7 @@ We can revolutionise the world by accepting the claim – and the proof – that
 
 When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
 
-The proposition that is most often used to justify government power is: “the government has the right to take your money.” This, however, is an utterly imprecise and false statement. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+Devletin iktidarını haklı çıkarmak için en sık kullanılan öneri "hükümet paranızı almak hakkına" sahiptir. Ancak, bu tamamen ve kesin olmayan bir yanlış beyandır. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
 
 “*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
 
@@ -68,7 +68,7 @@ If we return to Bob and Doug in our little room of moral experimentation, we can
 
 If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
 
-What will Doug’s reaction be? Unutmayın, ETD'ye göre Bob için geçerli olan şeyler Doug için de geçerli olmalıdır. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
+Doug'un tepkisi ne olurdu? Unutmayın, ETD'ye göre Bob için geçerli olan şeyler Doug için de geçerli olmalıdır. Kaçınılmaz olarak, Doug: "Öyle mi?" cevabını verirdi. Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
 
 As you can see, if *Bob* has the right to make up imaginary obligations and impose them on Doug, then *Doug* has the right to make up imaginary obligations and impose them on Bob. Clearly, we immediately end up in a perfect stalemate. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Virtue can thus only be enabled by vice, which is impossible – and we have opposing moral rules for two human beings in the same circumstance, which UPB instantly rejects as invalid.
 
@@ -76,23 +76,23 @@ In other words, every imaginary abstract justification for the use of force can 
 
 #### Din Ve ETD
 
-The same holds true for religion.
+Aynısı din için geçerlidir.
 
 The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
 
-Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+Burada yukarıdaki konuların aynılarını görüyoruz. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
 
 In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
 
 If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
 
-#### UPB And "The Majority"
+#### UPB ve''Çoğunluk''
 
-UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
+UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. On aslan bir fil ,hükümet ya da tanrı yapmaz. On bin tane asker belki "ordu" oluşturabilir, ama yer çekimini ters çeviremez, veya cinayetini normalleştiremezler.
 
-Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
+Son bir kez Bob ve Doug'un odasına dönüyoruz, hadi "Jane" ile tanışalım.
 
-Now that there are three people in the room, we can look at the “majority rule” principle.
+Şimdi odada "ahlak kuralı" prensibine bakabileceğimiz üç insan var.
 
 If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
 
@@ -102,7 +102,7 @@ Well, UPB does not recognise the reality of aggregations, since the “majority�
 
 To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
 
-Of course not.
+Tabi ki değil.
 
 Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
 
@@ -110,7 +110,7 @@ Of *course* not.
 
 ### Majority Rule
 
-Can I create a moral rule that says: “the majority should be able to do whatever it wants”?
+"Çoğunluk istediğini yapmakta özgür olmalı" diyen bir ahlakı kural yaratabilir miyim?
 
 Tabii ki yapabilirim fakat hiç bir zaman geçerli veya doğru olmaz.
 
@@ -118,10 +118,10 @@ Only *individuals* act – the “majority” never does. If moral rules can cha
 
 If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
 
-Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
+Yani, birden Bob ve Doug oy üstünlüğü sağlanmış kişiler olur, ve tecavüz onlar için tekrar "kötü" olur.
 
 Nothing substantial has changed in these “outvoting” scenarios, but we have a series of opposing moral rules for the same men – a violation of UPB, and thus invalid.
 
-Rape cannot be good, then evil, then good again, just because a few hands are raised or lowered.
+Sadece bir kaç el kalktığı veya indiği için, tecavüz iyi, sonra kötü, sonra tekrar iyi olamaz.
 
 Thus if you think that “majority rule” sounds like a reasonable moral proposition, and a perfectly valid moral theory, then I am afraid you’re going to have to go back to the beginning of this book and start again!☺
