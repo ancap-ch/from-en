@@ -10,7 +10,7 @@ UPB çerçevesi, serbest piyasa ekonomisinin maddi başarılarının nedenlerini
 
 Teoride serbest piyasa ekonomisi, evrensel mülkiyet hakkı teorisinin uygulanmasına dayalıdır. Buna karşılık komünizm, mülkiyet hakları evrensel teorisinin açıkça reddedilmesine dayanır. Üstelik evrensel mülkiyet haklarının tek geçerli ahlaki teori olduğunu kanıtladığımızdan, bu komünizmin neden böyle bir olağan üstü durum olduğunu en temel düzeyde açıklarken, serbest pazar ekonomisi çok üretken oluyor.
 
-Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
+İnsanlar *gerçekte* eşit mülkiyet haklarına sahip olduklarından, bu hakları reddeden herhangi bir toplumsal sistem başarısızlığa mahkumdur – yerçekimi gerçeğini reddeden köprü planlamacısı asla bir köprü inşa edemeyeceği gibi.
 
 ### Bilimsel Yöntem
 
