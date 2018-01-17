@@ -1,4 +1,4 @@
-## The Value Of Universally Preferable Behaviour
+## Evrensel olarak tercih edilen hareketin değeri
 
 A new theory is of precious little value if it only points out the obvious. If physics only provided an accurate description of how we catch a ball, then physics would not be a very worthwhile pursuit, because we already *can* catch a ball. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
 
