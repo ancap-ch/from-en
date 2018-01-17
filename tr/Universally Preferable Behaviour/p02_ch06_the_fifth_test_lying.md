@@ -4,7 +4,7 @@
 
 It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+Doğal olarak "yalan söylemek iyidir" önerisini sunan herhangi bir ahlaki teori anında kendi kendini yok eder, çünkü eğer bir insan bu öneri yalan*dır* önerisini sunarsa - ki bu iyidir - o zaman yalan söylemek kötüdür, çünkü o aslında yalan söylemek kötüdür diyerek doğruyu söylemiştir.
 
 Örneğin:
 
