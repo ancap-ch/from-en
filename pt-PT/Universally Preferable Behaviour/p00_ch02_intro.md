@@ -60,9 +60,9 @@ Vamos chamar os princípios de oposição que residem na "zona nula" - entre a p
 
 Estas "verdades do meio" são as ilusões mais perigosas de todas, porque dão uma *aparência</ 0> de verdade, quando, na realidade *atacam* a verdade.</p> 
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+Ao fornecer a ilusão de que encontramos a verdade, as "meias verdades" realmente impedem-nos de conseguir a verdade. São a última linha de defesa para a fantasia, a espoliação e a exploração.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Dado que não são apenas irracionais, mas *anti*-racionais, "as verdades do meio" permanecem infinitamente flexíveis - sempre que sirvam aos que estão no poder. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
 
 “Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
 
