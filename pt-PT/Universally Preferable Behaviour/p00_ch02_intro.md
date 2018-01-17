@@ -70,9 +70,9 @@ Podemos personalizar isto um pouco mais com um exemplo que será familiar para q
 
 É muito difícil não substituir uma ilusão por outra.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+"O governo britânico é um tirano!", Gritaram os revolucionários americanos no século XVIII - mas depois de expulsar as tropas britânicas, eles criaram o seu próprio governo e começaram a atacar os seus próprios cidadãos.
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+"A aristocracia é uma abominação injusta!", Exclamaram outros revolucionários, que depois criaram a tirania da maioria, na forma de democracia.
 
 “Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
 
