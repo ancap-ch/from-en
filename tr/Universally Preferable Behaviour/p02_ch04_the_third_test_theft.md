@@ -28,7 +28,7 @@ Bu sayede konuşmayı gerçekleştirmek için kendi bedenimi kontrol etme eylemi
 
 Bu yüzden bedenin sahibi olduğunu reddetmek tüm ahlakı kabul etmemektir, ki bu, yukarıda gördüğümüz gibi, kesinlikle mümkün değildir. Mantık açısından, ahlak UPB'nin yürürlüğe konulabilen bir alt kümesi olarak tanımlanmaktadır, ahlaka karşı çıkmak, evrensel tercihler diye bir şeyin var olmadığına inanmanın evrensel olarak tercih edilebilir olduğunu söylemek demektir.
 
-Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
+En sonunda, kişinin kendi bedenini, hakimiyetin konuşma biçiminde kullanmak, veya kişinin kendi bedenini yönetebileceği fikrini kabul etmemek, çok açık ve aşılması zor içsel bir çelişkidir.
 
 Bu şekilde herhangi bir kişinin mülkiyetinin reddedilmesi tamamen atılabilir.
 
