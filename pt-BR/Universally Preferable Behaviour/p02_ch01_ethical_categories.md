@@ -1,10 +1,10 @@
 ## Categorias Éticas
 
-Com a estrutura do UPB no lugar, nós podemos agora voltar a um exame de como o UPB valida ou invalida nossas proposições morais mais comuns. Se nossa "teoria da física" pode explicar como um homem pode pegar uma bola de baseball, nós ao menos passamos o primeiro - e mais importante - obstáculo, e nosso primeiro e mais profundo golpe contra a besta.
+Com a estrutura do UPB no lugar, podemos agora nos voltar a uma exame de como o UPB valida ou invalida nossas proposições morais mais comuns. Se nossa "teoria da física" consegue explicar como um homem pode pegar uma bola de baseball, nós ao menos passamos o primeiro - e mais importante - obstáculo, e nosso primeiro e mais profundo golpe contra a besta.
 
 ### As Sete Categorias
 
-Como mencionado acima, proposições sobre comportamentos universalmente preferíveis caem entre três categorias gerais - positiva, negativa e neutra. Para nós ajudar a separa estética de ética, comecemos por alargar essas categorias para abranger *qualquer* comportamento que pode ser jeito à uma análise ética. As sete categorias são:
+Como mencionado acima, proposições sobre comportamentos universalmente preferíveis caem entre três categorias gerais - positiva, negativa e neutra. Para nos ajudar a separar ética de estética, comecemos por ampliar essas categorias para abranger *qualquer* comportamento que pode ser sujeito à uma análise ética. As sete categorias são:
 
 1. É bom (universalmente preferível e executável através de violência, assim como "não matar").
 2. É esteticamente positivo (universalmente preferível porém não executável através de violência, como"cortesia" e "ser pontual").
