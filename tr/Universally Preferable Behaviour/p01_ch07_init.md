@@ -1,49 +1,49 @@
-## Initiation
+## Başlatma
 
-A reasonable moral theory should be able to explain all of the above universal standards, just as a reasonable theory of physics should be able to explain how a man can unconsciously calculate the arc of a thrown baseball, and catch it.
+Makul bir ahlak teorisi, tıpkı makul bir fizik teorisinin nasıl bir insanın atılan bir beyzbol topunun kavisini bilinçsizce hesaplayıp yakaladığını açıklayabildiği gibi, yukarıdaki evrensel standartların tümünü açıklayabilir olmalıdır.
 
-If the framework of UPB can explain the above, then it will certainly have passed at least the “common sense” test.
+UPB'nin çerçevesi yukarıdakileri açıklayabilirse, en azından "sağduyu" testini geçebilir.
 
-This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
+Bu bazı şaşırtıcı - hatta şok edici - sonuçların bizim ahlak teorimizden kaynaklanmadığı anlamına gelmez, ama en azından apaçık olandan uzaktakini analiz etmeden önce, en azından apaçık olanı açıklamak için ilk engeli geçtik.
 
-With that in mind, let us turn to the question of *initiation*.
+Bunu aklımızda tutarak, *başlatma* konusuna geçelim.
 
-A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
+Bir cerrah sizi neşterle "bıçakla"yabilir, ama onun eyleminin sizi bıçakla bıçaklayan bir soyguncudan çok farklı olduğunu kolaylıkla anlayabiliriz.
 
-This difference can be understood through a further analysis of *initiation*.
+Bu değişim, *başlatma*'nın daha ileri bir analizi ile anlaşılabilir.
 
-If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+Eğer kanser olursa, bir cerrahtan seni ameliyat etmesini isteyebilirsin. Cerrahın "bıçaklamasının" ahlaksız olmamasının nedeni, hayatına ve sağlığına karşı bir saldırı "başlatan" kanserdir. Cerrah tıpkı size saldıran bir soyguncuyu vuran bir insan gibi "vekil nefsi müdafaa temsilcisi" olarak hareket eder. Ayrıca cerraha rıza gösterdiniz, ve davranışlarını spesifik bir sözleşme ile sınırlandırdınız.
 
-The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
+Seni bıçaklayan bir soyguncu, bununla birlikte, hayatına ve sağlığına karşı bir saldırı başlatmış olur, işte bu yüzden onun ahlakı cerrahın eforlarına *terstir*.
 
-If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Uzun süredir kronik sigara içen biriysem, akciğer kanserine yol açan olay zincirine katılıyorum demektir. Sigara içme alışkanlığını başlatarak ve sürdürerek, yaşamı tehdit eden bir hastalıkla sonuçlanabilecek bir nedensellik ilişkisini harekete geçirdim. Kesinlikle sigara kullanmadan da akciğer kanseri olmam mümkün - veya akciğeri kanseri olmadan sigara içmem - ama kesinlikle ihtimalleri etkiledim.
 
-Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
+Benzer bir şekilde, cüzdanımı bir hafta boyunca bir park bankında bırakıp, döndüğümde hala orada bulmam mümkün, ama onu orada bu kadar uzun bir süre bırakarak, kesinlikle gitme ihtimalini etkiledim.
 
-On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
+Öte yandan, eğer her akşam evde kalırsam, tam olarak suç aranmıyorum, ve dahası eğer bir manyak evimi istila edip beni göz göre göre soyarsa, olayda oynadığım herhangi bir nedensel rolden ötürü makul bir şekilde suçlu tutulamam.
 
-### The Non-Aggression Principle (NAP)
+### Saldırmazlık Kuralı (SK)
 
-A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+Genellikle * saldırgan olmayan ilke * veya NAP olarak adlandırılan bir ahlaki kural önerilir. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
 
-When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
+NAP gibi bir kuralı analiz ederken, gerçekten sadece yedi olasılık vardır; negatifte üç, pozitifte üç ve bir tarafsız.
 
-- The initiation of the use of force is always morally wrong.
-- The initiation of the use of force is sometimes morally wrong.
-- The initiation of the use of force is never morally wrong.
-- The initiation of the use of force has no moral content.
-- The initiation of the use of force is never morally right.
-- The initiation of the use of force is sometimes morally right.
-- The initiation of the use of force is always morally right.
+- Güç kullanımının başlatılması her zaman ahlaki olarak yanlıştır.
+- Güç kullanımının başlatılması bazı zamanlarda ahlaki olarak yanlıştır.
+- Güç kullanımının başlatılması hiçbir zaman ahlaki olarak yanlış olmaz.
+- Zor kullanımının başlaması ahlaki içeriğe sahip değildir.
+- Kuvvet kullanımının başlatılması asla ahlaki olarak doğru olamaz.
+- Kuvvet kullanımın başlatılması bazen ahlaki açıdan doğru olabilir.
+- Güç kullanımının başlatılması ahlaki olarak her zaman doğrudur.
 
-As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
+Yukarıda gördüğümüz gibi, yine de, UPB bir "hep ya da hiç" sistemi. Bir eylem *evrensel olarak tercih edilebilir* ise, o zaman bireyler, coğrafya, zaman vb. ile sınırlandırılamaz. Eğer Cezayirin başkenti'nde cinayet işlemek yanlış ise, o zaman, ayrıca Belçika'da, Amerika Birleşik Devletleri'nde, Kuzey Kutbu'nda ve Ay'da da yanlıştır. Dün cinayet işlemek yanlış ise, o zaman yarın cinayet işlemek de doğru olamaz. Eğer Bob'un öldürülmesi yanlış ise, Doug'ın öldürülmesinin de yanlış olması gerekir.
 
-Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
+UEP'yi UPB ile birleştirmek, bu yedi ifadenin üçe bölünmesini sağlar:
 
-1. It is universally preferable to initiate the use of force.
-2. It is universally preferable to not initiate the use of force.
-3. The initiation of the use of force is not subject to universal preferences.
+1. Kuvvet kullanımını başlatmak evrensel olarak tercih edilebilir.
+2. Güç kullanımını başlatmamak evrensel olarak tercih edilebilirdir.
+3. Güç kullanımının başlatılması evrensel tercihlere bağlı değildir.
 
-This is the natural result of applying the requirement of rational consistency to ethical propositions. A rational theory cannot validly propose that opposite results can occur from the same circumstances. A scientific theory cannot argue that one rock must fall down, but another rock must fall up. Einstein did not argue that E=MC^2^ on a Thursday, but that E=MC^3^ on a Friday, or on Mars, or during a blue moon. The law of conservation – that matter can be neither created nor destroyed – does not hold true only when you really, really want it to, or if you pay a guy to make it so, or when a black cat crosses your path. The laws of physics are not subject to time, geography, opinion or acts of Congress. This consistency must also be required for systems of ethics, or UPB, and we will subject generally accepted moral theories to this rigour in Part Two, in a few pages.
+Bu, mantıklı tutarlılık gereksinimlerinin etik meselelere uygulanmasının doğal sonucudur. Rasyonel bir teori aynı koşullardan zıt bulguların meydana gelebileceğini geçerli biçimde önermez. Bilimsel bir teori, bir taşın aşağı düşmesi ve bir diğerinin yukarıya doğru gitmesi gerektiğini savunamaz. Einstein bir Perşembe günü E=MC^2^, ama Cuma günü, veya Marsta, veya kırk yılda bir E=MC^3^ olacağını iddia etmedi. The law of conservation – that matter can be neither created nor destroyed – does not hold true only when you really, really want it to, or if you pay a guy to make it so, or when a black cat crosses your path. Fizik kuralları, zamana, coğrafyaya, görüşlere veya Meclisin yasalarına bağlı değildir. Bu tutarlılık, etik sistemleri veya UPB için de gereklidir ve İkinci Bölümde genel kabul görmüş ahlaki teorileri bir kaç sayfa halinde bu zorlamaya tabi tutacağız.
 
-However, since we are dealing with the question of *consistency*, it is well worth taking the time to deal with our capacity for *inconsistency*.
+Bununla birlikte, *tutarlılık* konusunu ele aldığımızdan, *tutarsızlık* kapasitemizi ele almak için zaman ayırmaya değer.
