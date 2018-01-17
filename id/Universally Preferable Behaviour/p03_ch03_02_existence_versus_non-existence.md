@@ -47,13 +47,13 @@ Logikanya, ada empat kemungkinan untuk campuran orang-orang yang baik dan jahat 
 
 Dalam kasus pertama (*semua orang moral*), pemerintah jelas tidak dibutuhkan, karena kejahatan tidak dapat ada.
 
-In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. Pemerintah, umumnya diperdebatkan, harus ada karena ada orang jahat di dunia yang ingin menimbulkan kerugian, dan siapa yang hanya bisa ditahan karena takut pembalasan pemerintah (polisi, penjara, *et al*). Konsekuensi dari argumen ini adalah bahwa semakin sedikit retribusi yang dikhawatirkan orang-orang ini, semakin jahat yang akan mereka lakukan.
+Pada kasus kedua (* semua pria tidak bermoral*), pemerintah tidak boleh mengizinkan atas adanya satu alasan yang sederhana. Pemerintah, umumnya diperdebatkan, harus ada karena ada orang jahat di dunia yang ingin menimbulkan kerugian, dan siapa yang hanya bisa ditahan karena takut pembalasan pemerintah (polisi, penjara, *et al*). Konsekuensi dari argumen ini adalah bahwa semakin sedikit retribusi yang dikhawatirkan orang-orang ini, semakin jahat yang akan mereka lakukan.
 
 Namun, pemerintah *sendiri* tidak tunduk pada kekuatan atau pembalasan apapun, namun merupakan undang-undang tersendiri. Bahkan di negara-negara demokrasi Barat, berapa banyak polisi dan politisi dipenjara?
 
 Jadi jika orang jahat ingin menyakiti, tapi hanya terkendali dengan paksa, maka masyarakat bisa *tak pernah* Izinkan pemerintah ada, karena orang jahat akan bekerja dengan tergesa-gesa untuk menguasai pemerintahan tersebut, untuk melakukan kejahatan dan menghindari pembalasan. Dalam sebuah masyarakat yang murni jahat, harapan satu-satunya untuk stabilitas adalah keadaan alam, di mana perjuangan umum dan ketakutan akan retribusi akan menumpulkan maksud jahat kelompok-kelompok yang berbeda. Seperti halnya antara negara-negara bersenjata nuklir, "keseimbangan kekuasaan" melahirkan kedamaian.
 
-The third possibility is that *most* people are evil, and only a few are good. Jika demikian, maka pemerintah juga tidak dapat diijinkan untuk eksis, karena mayoritas dari mereka yang memegang kendali pemerintah akan jahat, dan akan memerintah secara lalim atas minoritas yang baik. Demokrasi pada khususnya tidak dapat diijinkan, karena minoritas orang baik akan ditaklukkan pada kontrol demokratis mayoritas yang jahat. Orang jahat, yang ingin menyakiti hati tanpa rasa takut akan pembalasan, mau tidak mau akan mengendalikan pemerintah, dan menggunakan kekuatannya untuk melakukan kejahatan yang bebas dari rasa takut akan konsekuensi.
+Kemungkinan yang ketiga adalah *kebanyakan* orang jahat dan hanya beberapa yang baik. Jika demikian, maka pemerintah juga tidak dapat diijinkan untuk eksis, karena mayoritas dari mereka yang memegang kendali pemerintah akan jahat, dan akan memerintah secara lalim atas minoritas yang baik. Demokrasi pada khususnya tidak dapat diijinkan, karena minoritas orang baik akan ditaklukkan pada kontrol demokratis mayoritas yang jahat. Orang jahat, yang ingin menyakiti hati tanpa rasa takut akan pembalasan, mau tidak mau akan mengendalikan pemerintah, dan menggunakan kekuatannya untuk melakukan kejahatan yang bebas dari rasa takut akan konsekuensi.
 
 Orang baik tidak bertindak secara moral karena takut pembalasan, tapi karena mereka mencintai kebajikan dan ketenangan pikiran - dan karena itu, tidak seperti orang jahat, mereka tidak banyak memperoleh keuntungan dengan mengendalikan pemerintah. Dalam skenario ini, pemerintah pasti akan dikendalikan oleh mayoritas orang jahat yang akan memerintah semua orang, sehingga merugikan semua orang moral.
 
@@ -67,7 +67,7 @@ Situasi ini, sementara menarik secara teoritis, memecah secara logis karena:
 2. Tidak ada cara untuk memastikan bahwa hanya orang baik yang selalu menjalankan pemerintahan; dan,
 3. Sama sekali tidak ada contoh tentang hal ini yang pernah terjadi dalam sejarah sejarah negara yang brutal manapun.
 
-Kesalahan logis yang selalu dibuat dalam pembelaan pemerintah adalah membayangkan bahwa setiap penilaian moral kolektif yang diterapkan pada sekelompok orang juga adalah*tidak diterapkan pada kelompok yang memerintah mereka*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Dengan demikian keberadaan kejahatan tidak pernah bisa membenarkan adanya pemerintahan.
+Kesalahan logis yang selalu dibuat dalam pembelaan pemerintah adalah membayangkan bahwa setiap penilaian moral kolektif yang diterapkan pada sekelompok orang juga adalah*tidak diterapkan pada kelompok yang memerintah mereka*. Jika lima puluh persen orang jahat, maka *setidaknya* lima puluh persen orang yang berkuasa diatara mereka juga jahat.[^9] Dengan demikian keberadaan kejahatan tidak pernah bisa membenarkan adanya pemerintahan.
 
 Jika tidak ada kejahatan, pemerintah tidak perlu. Jika kejahatan ada, pemerintah terlalu berbahaya untuk diizinkan eksis.
 
@@ -87,7 +87,7 @@ Satu-satunya cara agar institusi sosial dapat tumbuh menjadi monopoli kekerasan 
 
 Dalam masyarakat sukarela, tidak akan ada perpajakan, dan dengan demikian setiap kelompok yang ingin memperoleh kekuasaan monopolistik harus mendanai tentaranya sendiri, yang tidak akan layak atau menguntungkan secara ekonomi. [^11]
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. Ini mirip dengan argumen statistik tentang monopoli swasta - bahwa warga negara harus menciptakan monopoli pemerintah karena mereka takut terhadap monopoli pribadi. Tidak perlu melihat tajam untuk melihat melalui omong kosong semacam itu.
+Sangat susah untuk dimengerti bahwa logika dan kecerdasan dari argumen bahwa, untuk melindungi kita dari kelompok yang *mungkin* bisa mengalahkan kita, kita harus mendukung sebuah kelompok yang *sudah* mengalahkan kita. Ini mirip dengan argumen statistik tentang monopoli swasta - bahwa warga negara harus menciptakan monopoli pemerintah karena mereka takut terhadap monopoli pribadi. Tidak perlu melihat tajam untuk melihat melalui omong kosong semacam itu.
 
 Apa bukti pandangan bahwa kekuatan yang terdesentralisasi dan bersaing mendorong perdamaian? Dengan kata lain, adakah fakta yang dapat kita tarik untuk mendukung gagasan bahwa keseimbangan kekuatan adalah satu-satunya kesempatan individu memiliki kebebasan?
 
@@ -99,18 +99,18 @@ Ini adalah pelajaran instruksional mengapa orang-orang semacam itu membutuhkan p
 
 Melarikan diri dari setan imajiner ke dalam penjara pelindung pemerintah hanya memastikan kehancuran kebebasan yang membuat hidup layak dijalani.
 
-[^4]: See [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
+[^4]: Lihat [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
 
-[^5]: See *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
+[^5]: Lihat *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
 
-[^6]: A perfect balance of good and evil is practically impossible.
+[^6]: Sebuah keseimbangan yang sempurna dari yang baik dan jahat merupakan hal yang hampir mustahil.
 
 [^7]: This is the current situation in democracies, of course.
 
-[^8]: See Plato’s *Republic*.
+[^8]: Lihat Plato *Republic*.
 
-[^9]: Probably more, since evil people are always drawn to power.
+[^9]: Kemungkinan lebih, semenjak orang jahat selalu tertarik terhadap kekuasaan.
 
-[^10]: For a more detailed discussion of the role that *parents* play in inculcating the fantasy that “power equals virtue,” see [On Truth](http://wiki.mises.org/wiki/On_Truth).
+[^10]: Untuk detil pembahasan yang lebih rinci terhadap peran *orang tua* dalam menanamkan fantasi bahwa "kekuatan sama dengan kebajikan", lihat [On Truth](http://wiki.mises.org/wiki/On_Truth).
 
-[^11]: See [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
+[^11]: Lihat [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
