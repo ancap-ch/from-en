@@ -1,8 +1,8 @@
-## The Third Test: Theft
+## Der dritte Test: Diebstahl
 
-We will have to spend a little bit more time on theft, since it inevitably brings into the picture the question of property rights, which is highly contentious for some.
+Wir werden ein wenig mehr Zeit mit Diebstahl verbringen müssen, da dies unweigerlich die Frage der Eigentumsrechte ins Spiel bringt, was für einige sehr umstritten ist.
 
-There are many ways of approaching the question of property rights, from “homesteading” to legal definitions to practical considerations etc. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+Es gibt viele Möglichkeiten, sich mit der Frage der Eigentumsrechte zu befassen, vom "Homesteading" über rechtliche Definitionen bis zu praktischen Erwägungen usw. Ich werde hier keine ansprechen, denn die Frage der Eigentumsrechte muss in den Rahmen von UPB fallen, wenn UPB als eine rationale Methode zur Bewertung moralischer Vorschläge stehen soll.
 
 Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
 
