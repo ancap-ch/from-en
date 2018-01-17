@@ -85,32 +85,78 @@ Bu görünüm, yukarıda özetlenen aynı hatadan doğmaktadır. If *all* social
 
 The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Hükümetler, vergilerin bir bölümüyle vergi toplayıcılarına ödeme yaptıkları için sonsuz olarak büyüyebilirler. Köleler, böylece köleleştirme masraflarını ödemek zorunda kalır.
 
-In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
+Gönüllü bir toplumda hiç vergi alınamayacak ve bu nedenle tekelci güç elde etmek isteyen herhangi bir grup, ekonomik açıdan uygulanabilir ya da kârlı olmadığı için asla orduya para yatırmak istemeyecek. <sup id="fnref:11"><a href="#fn:11" class="footnote-ref"> 8 </ 0></p> 
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
+<p>
+  It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that <em>might</em> overpower us, we should support a group that <em>already has</em> overpowered us. Özel tekelcilikde devletçi argümana benzemektedir; vatandaşlar, özel tekellerden korktuğu için bir hükümet tekeli yaratmalıdır. It does not take keen vision to see through such nonsense.
+</p>
 
-What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+<p>
+  Ademi merkeziyetçi ve rekabet gücü olan güçlerin barışı sağladığı görüşünün kanıtı nedir? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+</p>
 
-Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
+<p>
+  Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
+</p>
 
-A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+<p>
+  A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+</p>
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+<p>
+  This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers <em>is the only proven method of securing and maintaining personal liberty</em>.
+</p>
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+<p>
+  Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+</p>
 
-[^4]: See [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
-
-[^5]: See *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
-
-[^6]: İyi ve kötünün mükemmel dengesi neredeyse imkansızdır.
-
-[^7]: Tabi ki de demokrasilerdeki mevcut durum budur.
-
-[^8]: See Plato’s *Republic*.
-
-[^9]: Probably more, since evil people are always drawn to power.
-
-[^10]: For a more detailed discussion of the role that *parents* play in inculcating the fantasy that “power equals virtue,” see [On Truth](http://wiki.mises.org/wiki/On_Truth).
-
-[^11]: See [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
+<footnotes>
+  <fn name="4">
+    <p>
+      See <a href="http://wiki.mises.org/wiki/Book:Practical_Anarchy">Practical Anarchy</a>.
+    </p>
+  </fn>
+  
+  <fn name="5">
+    <p>
+      See <em><a href="http://wiki.mises.org/wiki/Federal_Reserve_System">Federal Reserve</a></em>.
+    </p>
+  </fn>
+  
+  <fn name="6">
+    <p>
+      İyi ve kötünün mükemmel dengesi neredeyse imkansızdır.
+    </p>
+  </fn>
+  
+  <fn name="7">
+    <p>
+      Tabi ki de demokrasilerdeki mevcut durum budur.
+    </p>
+  </fn>
+  
+  <fn name="8">
+    <p>
+      See Plato’s <em>Republic</em>.
+    </p>
+  </fn>
+  
+  <fn name="9">
+    <p>
+      Probably more, since evil people are always drawn to power.
+    </p>
+  </fn>
+  
+  <fn name="10">
+    <p>
+      For a more detailed discussion of the role that <em>parents</em> play in inculcating the fantasy that “power equals virtue,” see <a href="http://wiki.mises.org/wiki/On_Truth">On Truth</a>.
+    </p>
+  </fn>
+  
+  <fn name="11">
+    <p>
+      See <a href="http://wiki.mises.org/wiki/Book:Practical_Anarchy/2">Practical Anarchy, Part 2</a>, Chapter 5: "War, profit, and the state".
+    </p>
+  </fn>
+</footnotes>
