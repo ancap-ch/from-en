@@ -10,11 +10,11 @@ Clearly, fraud requires that one person *not* be engaged in fraud. Yukarıdaki o
 
 Açıkçası, sahtekarlığı gerçekleşirmek için, bir taraf iyi niyetli davranmak zorunda. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
 
-To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
+Talihsiz ahlaki kobayımıza dönmek için, Bob ve Doug'a "sahtekarlığın iyi olduğu" ahlak kurallarına uymalarını istediğimizde ne olur? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
 
 O zaman ne olacak?
 
-Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
+Açık bir şekilde, “sahtekarlık iyidir” ilkesi hem Doug hem de Bob tarafından aynı anda uygulanamamaktadır, dolandırıcılık yapmak için Doug ahlaksızca davranmalı ve Bob dürüstçe davranmalıdır. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
 
 UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
 
