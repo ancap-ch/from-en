@@ -22,7 +22,7 @@ Bu gülünç portre bir anlamda doğru olsa da - başka bir varlık kızın ses 
 
 Bu yüzden eğer sana konuşmam üzerinde kontrolümün olmadığını söylersem, bana sorabilirsin: kimin kontrolü var? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
 
-Thus the very act of controlling my body to produce speech demands the acceptance of my ability to control my speech – an implicit affirmation of my ownership over my own body.
+Bu sayede konuşmayı gerçekleştirmek için kendi bedenimi kontrol etme eylemi, benim konuşmamı kontrol etme yeteneğimi kabul etmemi gerektirir - kendi bedenim üzerindeki sahipliğimin dolaylı yoldan belirtilen bir doğrulaması.
 
 Now, if demonic possession were a valid occurrence, and a girl possessed by a demon spat on a priest, we would not call the *girl* rude, but would rather pity her for being inhabited by such an impolite demon. Whoever has control over the girl’s body is culpable for the effects of her actions – this is why we would not call a man who stole while sleepwalking “evil,” since he did not have full control over his own body (although we may restrain him in other ways). Bu aynı zamanda, deli bir adamın eylemleri üzerinde tam bir kontrole sahip olmadığını varsaydığımız "cinnet sebebi ile suçlu bulunmama" nın yasal savunması için esastır.
 
