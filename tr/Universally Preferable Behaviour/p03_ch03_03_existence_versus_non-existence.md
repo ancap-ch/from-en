@@ -60,15 +60,15 @@ Einstein fizikde ışığın hızının sabit olduğunu iddia ederek ve ispatlay
 
 ETD sistemini ele alıp bunu hükümet ve din ile ilgili ahlaki önermelere uyguladığımız zaman bazı çok ilginç sonuçlar ortaya çıkar.
 
-Devletin iktidarını haklı çıkarmak için en sık kullanılan öneri "hükümet paranızı almak hakkına" sahiptir. Ancak, bu tamamen ve kesin olmayan bir yanlış beyandır. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB nesnel ifade ve daha fazla tutarlılık gerektirir. Ahlaki kurallar her zaman, her yerde ve herkes için aynı olmak zorunda olduğu için, bu kuralı şu şekilde yeniden ifade etmeliyiz:
+Devletin iktidarını haklı çıkarmak için en sık kullanılan öneri "hükümet paranızı almak hakkına" sahiptir. Ancak, bu tamamen ve kesin olmayan bir yanlış beyandır. "Hükümet"in senin paranı alma hakkı yoktur çünkü "hükümet" sadece bir tahayyül, kendini tanımlayan bir grup insan için bir soyut tasvirdir. UPB nesnel ifade ve daha fazla tutarlılık gerektirir. Ahlaki kurallar her zaman, her yerde ve herkes için aynı olmak zorunda olduğu için, bu kuralı şu şekilde yeniden ifade etmeliyiz:
 
-“*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
+"*İnsanoğlu eğer eylemlerini meşrulaştıracak bir kurum inşa ettilerse ahlaki olarak diğer insanoğullarının parasını alabilirler.*"
 
-If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
+Bizim küçük ahlak deneyi odamızda bulunan Bob ve Doug'a dönersek, bunun imkansız bir önerme olduğunu çok hızlı farkedebiliriz.
 
-If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
+Eğer Bob Doug'a şöyle derse: "Ben şimdi 'FUBAR' ideal kavramını temsil ediyorum ve bu benim senin çakmağını almamı tamamen meşrulaştırıyor. Çünkü artık sen bana çakmağını borçlusun, onu devretmelisin veya güç kullanarak ben onu senden alacağım."
 
-Doug'un tepkisi ne olurdu? Unutmayın, ETD'ye göre Bob için geçerli olan şeyler Doug için de geçerli olmalıdır. Kaçınılmaz olarak, Doug: "Öyle mi?" cevabını verirdi. Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
+Doug'un tepkisi ne olurdu? Unutmayın, ETD'ye göre Bob için geçerli olan şeyler Doug için de geçerli olmalıdır. Kaçınılmaz olarak, Doug: "Öyle mi?" cevabını verirdi. Şey, *ben* de artık "ANTI-FUBAR" ideal kavramını temsil ediyorum, ve bu benim çakmağımın sahipliğini sürdürmemi meşrulaştırır. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
 
 As you can see, if *Bob* has the right to make up imaginary obligations and impose them on Doug, then *Doug* has the right to make up imaginary obligations and impose them on Bob. Açıkçası, derhal mükemmel bir çıkmaz içinde sonlandırmalıyız. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Erdem, bu yüzden yalnızca - imkansız olan - ahlak bozukluğu ile geçerli kılınabilir, ve aynı durumda olan iki insanoğlu için ahlak kurallarına karşı çıkarız, ki UPB onu anında geçersiz olarak geri çevirir.
 
@@ -78,9 +78,9 @@ Diğer bir deyişle, güç kullanımı için hayali soyut her gerekçeye güç k
 
 Aynısı din için geçerlidir.
 
-The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
+Açıklama: "Bana itaat etmek zorundasınız çünkü Tanrı bunu emrediyor," daha doğru bir şekilde "oluşturduğum bir varlık, bana itaat etmeniz için size emrediyor" olarak yeniden özetlenir. O zaman, UPB nin gerektirdiği ilke, "İnsanoğlu diğerlerine seçilmemiş olumlu zorunlulukları zorla kabul ettirmeli, bu zorunlulukları hayali varlıklara göre temize çıkarmalıdır."
 
-Burada yukarıdaki konuların aynılarını görüyoruz. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+Burada yukarıdaki konuların aynılarını görüyoruz. Bob Doug'a şöyle der: "Bana çakmağını vermek zorundasıni çünkü hayali arkadaşım sana öyle söylüyor." Doğal olarak, Doug cevap verir: "Benden çakmağımı istememelisin, çünkü *benim* hayali arkadaşım sana bunu yasaklıyor." Eğer ki Bob'un "emirleri" geçerli ise, o zaman Doug'un "emirleri" de eşit derecede geçerli olur, ve böylece birbirlerini etkisiz hale getirirler.
 
 In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
 
