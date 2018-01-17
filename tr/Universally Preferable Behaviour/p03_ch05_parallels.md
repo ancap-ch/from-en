@@ -62,9 +62,9 @@ The way to oppose the state – the most dangerous imaginary entity – is with 
 
 Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. Şiddetin iyi olduğuna inanan biri gitgide hiddet dolu olmaya yatkındır.
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+Diğer bir deyişle, UPB tutarsızlık içinde bile tutarlılık ister. UPB ölümsüzlük içinde bile istikrar talep eder.
 
 The root moral premises of a culture thus dictate its inevitable future. Baskı üzerine inşa edilmiş kültür her zaman daha zorlayıcı hale gelecektir. A culture built on rational liberty will always become less coercive.
 
