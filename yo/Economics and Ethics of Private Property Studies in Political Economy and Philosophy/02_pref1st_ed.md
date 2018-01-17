@@ -6,8 +6,8 @@ Boya awon ijinle ti o tele yii n se abojuto awon oro aje gegebi ise, anfani, owo
 
 Ni kiko awon ijinle wonyi ti mo gba iranlowo lati opolopo awon egbe pupo. Ope pataki lo si iyawo mi Margret, eniti o run gba ise-sise ti de-Jamanizini ede oyinbo mi: si Llewellyn H. Rockwell, Jr., Aare ti Ludwig Von Mises instituti, ati si Burton S. Blumert, Aare ile-eko fun Agbora, fun igbaniduro igbadii ti ise mi; ati si ore mi David Gordon, fun awon imoran ati awon imoran ti o wulo pupo.
 
-Ipese ti o tobi julo ni fun Ludwig Von Mises ati Murray N. Rothbard, awon ti o tobi julo ti ogun odun-bi o tile je pe won ti gbabe won gidi-bi ekowo ati awon oludamoran imoran. Nigba ti mi ko pade Ludwig Von Mises ri, ati pe nitoto emi ko ti gbo oruko re titi di igba iku re, Mo niola lati ni ibatan pekipeki pelu Murray Rothbard fun odun mefa ti o ti koja, akoko ni ilu New York, ati niwon 1986 bi awon alabasisoro ni ile-eko giga ti Nevada. Las Vegas. Apart from the intellectual debt that I owe him, words cannot express my personal gratitude. His wisdom, insight, kindness, enthusiasm, and unflagging encouragement have been a continuous inspiration to me. It is, therefore, to him that this volume is dedicated.
+Ipese ti o tobi julo ni fun Ludwig Von Mises ati Murray N. Rothbard, awon ti o tobi julo ti ogun odun-bi o tile je pe won ti gbabe won gidi-bi ekowo ati awon oludamoran imoran. Nigba ti mi ko pade Ludwig Von Mises ri, ati pe nitoto emi ko ti gbo oruko re titi di igba iku re, Mo niola lati ni ibatan pekipeki pelu Murray Rothbard fun odun mefa ti o ti koja, akoko ni ilu New York, ati niwon 1986 bi awon alabasisoro ni ile-eko giga ti Nevada. Las Vegas. Yato si gbese ogbon ti mo je won, awon oro ko le se afihan imo-okan mi. Ogbon re, imoran, iwa-rere, igbaradi, ati igbiyanju ti ko ni igboya je igbesi-aye ti n tesiwaju si mi. O je, nitorina, afi ifisooto iwon didun yi fun.
 
 Hans-Hermann Hoppe
 
-*Las Vegas, Nevada, 1993*
+*Las Vegas, Naveda, Odun 1993*
