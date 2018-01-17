@@ -104,11 +104,11 @@ To say that “the majority” has rights or attributes which directly contradic
 
 Tabi ki değil.
 
-Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
+Bu yüzden, eğer insanlar için tecavüz etmek kötü olursa, mantıksal açıdan "çoğunluk" olarak adlandırılan bir kategori oluşturabilir, ve daha sonra *bu* insanlar için şu an tecavüz etmenin ahlaki açıdan iyi bir şey olduğunu iddia edebilir miyim?
 
 Of *course* not.
 
-### Majority Rule
+### Çoğunluk kuralı
 
 "Çoğunluk istediğini yapmakta özgür olmalı" diyen bir ahlakı kural yaratabilir miyim?
 
@@ -116,11 +116,11 @@ Tabii ki yapabilirim fakat hiç bir zaman geçerli veya doğru olmaz.
 
 Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
 
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
+Eğer Bob ve Doug için, onlar "onun üzerinde oy üztünlüğü sağladıkları" için Jane'e tecavüz etmek ahlaki ise, Jane'in iki arkadaşı gelip Bob ve Doug'un şeytani arzularına karşı oy verdikleri zaman ne olur?
 
 Yani, birden Bob ve Doug oy üstünlüğü sağlanmış kişiler olur, ve tecavüz onlar için tekrar "kötü" olur.
 
-Nothing substantial has changed in these “outvoting” scenarios, but we have a series of opposing moral rules for the same men – a violation of UPB, and thus invalid.
+Var olan hiçbir şey bu "oy üstünlüğü sağlamak" senaryolarını değiştirmezdi, ama aynı adamlar için ahlaki kurallara karşı bir serimiz olur - bir UPB ihlali, ve bu yüzden geçersiz.
 
 Sadece bir kaç el kalktığı veya indiği için, tecavüz iyi, sonra kötü, sonra tekrar iyi olamaz.
 
