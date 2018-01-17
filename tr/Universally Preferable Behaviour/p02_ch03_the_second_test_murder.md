@@ -16,7 +16,7 @@ Bu durumda görürüz ki "cinayet iyidir" önerisi gariptir, ve aynanda mantıks
 
 "Tecavüz iyidir" önermesinde uygulanan diğer itirazlar burada da geçerlidir. Nötr yargılar ve eylemler başka birine zorla acı veremeyeceğinden, ve cinayet tanımı gereği başka birine zorla acı vermek olduğundan, cinayet ahlaki açıdan nötr olamaz.
 
-There is also a basic contradiction involved in any universal justification for the act of murder, just as there was in the act of rape. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
+Tıpkı tecavüz eyleminde olduğu gibi, cinayet eyleminin herhangi bir evrensel gerekçelendirmesini alakadar eden temel bir çelişki var. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
 
 Evet, aslında "Bir erkeğin hayatı istediğiniz zaman alınabilir" gibi bir şey de söyleyebilrdi - ama elbette, UPB'nin ahlaki önermelerin tek geçerli testi olmasından dolayı, bu Doug'un Bob'u öldürmesini, Bob'un Doug'u öldürmesini kıldığı kadar haklı kılıyor. Bu nedenle, eğer Doug Bob'a karşı herhangi bir şekilde direnmezse, Bob onu boğarak öldürmeyi meşrulaştırabilir - ancak tabii, eğer Doug direnmezse, o zaman bu gerçekten cinayet olarak düşünülebilir mi?
 
