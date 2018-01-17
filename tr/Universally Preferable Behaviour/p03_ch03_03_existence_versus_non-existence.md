@@ -36,9 +36,9 @@ Gerçekte, sonsuza dek "hükümet"in gelip payını almasını bekleyeceğim anl
 
 Gerçekte, "hükümet"e vergimi ödemeliyim dediğim zaman bu aslında paramı yalnızca belirli bir grup insanın erişebildiği belirli bir banka hesabına aktarmak için çek yazmalıyım demektir. Böylece bu insanlar bu parayı alma hakkına sahip olur ve uygun gördükleri gibi harcarlar - bu belirli bir grup insan böylece benim paramın üzerinde mutlak bir kontrole sahip olur.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. "Devlet" olarak adlandırılan bir konseptin paranızı alma veya kullanma kapasitesine sahip olduğunu düşünmek, "Tanrı" nın gelip sizi alıp kiliseye götürmesini beklemekle aynı şeydir.
+"Hükümet" denilen varlığın parmağını kaldırdığını, hareket ettiğini, banka hesabı açtığını veya bir kuruş harcadığını her kim söylerse söylesin bunun bir anlamı yoktur. "Devlet" olarak adlandırılan bir konseptin paranızı alma veya kullanma kapasitesine sahip olduğunu düşünmek, "Tanrı" nın gelip sizi alıp kiliseye götürmesini beklemekle aynı şeydir.
 
-Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+Bu yüzden gerçek etkileşim bir adamın bana bir mektupla ona borçlu olduğumu söylemesidir. Bazı diğer adamlar varsayımsal bir sözleşme ile sahip olduğunu söylese de, benim bu adam ile bir sözleşmem yok ve aslında o benim mülkümün hiçbir kısmına sahip değil.
 
 Eğer bu adama parayı ödemezsem, parayı almak için evime başka bir adam gönderecek - artı "faiz" ve "vergi" ile.
 
