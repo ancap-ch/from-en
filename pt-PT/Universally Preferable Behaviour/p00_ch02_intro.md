@@ -88,7 +88,7 @@ O mundo cai porque uma pedra cai.
 
 ### "Meias verdades" e exploração
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+Biologicamente, o parasitismo é uma estratégia de sobrevivência totalmente viável para muitas criaturas. Na ausência de normas éticas, roubar energia e recursos de outras criaturas é perfeitamente razoável. Em geral, a forma mais sustentável e estável de parasitismo é a * simbiose *, ou a coexistência mutuamente benéfica. Assim, as bactérias que habitam nos nossos intestinos ajudam a sua própria sobrevivência, ajudando-nos a digerir os nossos alimentos.
 
 However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
 
