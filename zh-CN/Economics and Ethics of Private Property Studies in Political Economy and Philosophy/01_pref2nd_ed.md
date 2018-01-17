@@ -1,11 +1,11 @@
-## Preface to the Second Edition
+## 第二版前言
 
-The first edition of *The Economics and Ethics of Private Property*, published in 1993, has been out of print for several years. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.
+1993年出版的《私有财产的经济学和伦理学》第一版已经绝版了好几年。 有一段时间，从许多方面来看我一直被要求准备一个新版本，卢埃林罗克韦尔很有礼貌地邀请了路德维希冯米塞斯研究所作为他的出版商。
 
-*The Economics and Ethics of Private Property* was dedicated to my teacher and mentor, Murray N. Rothbard, with whom I had been closely associated during the last ten years of his life, first as a visiting scholar at the Brooklyn Polytechnic Institute in New York City and after 1986 as a colleague at the University of Nevada, Las Vegas. The year 2005 marks the tenth anniversary of Rothbard’s death. Thus, it seemed a most appropriate time to honor Murray anew with this second edition.
+《私有财产的经济学和伦理学》是献给我的良师益友，穆瑞. 罗斯巴德，我在他生命的最后十年里一直与他紧密联系在一起，第一次是在纽约布鲁克林理工学院我作为访问学者，1986年之后我在拉斯维加斯的内华达大学与他一起共事。 2005年是罗斯巴德逝世十周年纪念日。 因此，这似乎是一个最合适的时机，在第二版中再次向穆瑞致敬。
 
-The present edition of *The Economics and Ethics of Private Property* is enlarged. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+《私有财产的经济学和伦理学》的现行版本已经被推广了。 在原书出版后又增加了四篇文章，但是它的主题和文章中6,7,8和15章关于私有财产制度的经济和伦理的基本原理的核心主题是相关的。 新版本的机会也被用来进行重大的编辑改进和修正。
 
-Hans Hermann Hoppe
+汉斯. 赫尔曼. 霍普
 
-*Las Vegas, Nevada, 2005*
+*拉斯维加斯，内华达州，2005*
