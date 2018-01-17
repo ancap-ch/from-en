@@ -14,7 +14,7 @@ Eğer cinayet ahlaki açıdan iyi olsaydı, o zaman bir çöl adasında mahsur k
 
 Bu durumda görürüz ki "cinayet iyidir" önerisi gariptir, ve aynanda mantıksal olarak imkansızdır.
 
-"Tecavüz iyidir" önermesinde uygulanan diğer itirazlar burada da geçerlidir. Murder cannot be morally neutral, since morally neutral judgements or actions cannot be forcibly inflicted upon another, and murder by definition is forcibly inflicted upon another.
+"Tecavüz iyidir" önermesinde uygulanan diğer itirazlar burada da geçerlidir. Nötr yargılar ve eylemler başka birine zorla acı veremeyeceğinden, ve cinayet tanımı gereği başka birine zorla acı vermek olduğundan, cinayet ahlaki açıdan nötr olamaz.
 
 There is also a basic contradiction involved in any universal justification for the act of murder, just as there was in the act of rape. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
 
