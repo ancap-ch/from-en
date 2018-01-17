@@ -42,13 +42,13 @@ Para empezar nuestra discusión de la ética, es esencial que entendamos la natu
 
 En economía, una teoría no puede ser válida si requiere que el precio suba y baje al mismo tiempo. En física, una teoría no puede ser válida si requiere que los gases se expandan y contraigan al mismo tiempo. En matemáticas, una teoría no puede ser válida si requiere que dos más dos sea igual a cinco, ya que "cinco" es solo otra forma de describir dos más tres, no dos más dos, y decir que dos más dos es igual a cinco es decir que cinco es igual a cuatro, lo cual es contradictorio.
 
-En general, cualquier teoría que se contradice a sí misma en su enunciado no puede ser válida. No requiere refutación externa, ya que se refuta a sí misma. No necesitamos examinar cada rincón y grieta en el universo para determinar que un "círculo cuadrado" no existe. The very concept is self-contradictory, and thus disproves itself in the utterance.
+En general, cualquier teoría que se contradice a sí misma en su enunciado no puede ser válida. No requiere refutación externa, ya que se refuta a sí misma. No necesitamos examinar cada rincón y grieta en el universo para determinar que un "círculo cuadrado" no existe. El concepto mismo es contradictorio, y así se refuta a sí mismo en su enunciado.
 
-If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
+Si yo te presento una demostración matemática compleja, y te das cuenta de que, al inicio, enuncio que mi demostración se basa en el hecho de que dos más dos es igual tanto a cuatro como a cinco al mismo tiempo, no necesitas leer más para saber que mi demostración es inválida.
 
-Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
+De manera similar, como mencioné antes, si voy a ti y digo: "Yo no existo," mi tesis automáticamente se autodestruye. Si puedo comunicarte que no existo, entonces claramente existo.
 
-If I come up to you and say: “There is no such thing as truth,” then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
+Si voy a ti y digo: "No hay tal cosa como la verdad," entonces estoy haciendo una declaración que considero verdadera alegando que la verdad no existe. De nuevo, mi argumento se autodestruye.
 
 If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
 
