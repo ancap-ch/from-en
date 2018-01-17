@@ -1,6 +1,6 @@
 ### Pratiklik
 
-Once the violence of government is intellectually exposed – and the supposed “voluntarism” of citizens is revealed as a vicious fraud – the argument always comes back that we *need* government to supply us with public goods such as protection, regional defence, roads etc.
+Bir kere devletin şiddeti entelektüel olarak açığa çıktı mı - ve vatandaşların sözde "gönüllülüğü"nün kısır bir dolandırıcılık olduğu ortaya çıktı mı - bize koruma, bölgesel savunma, yollar ve benzeri kamu malları sağladığı için hükümete *ihtiyac*ımız olduğu argümanı daima geri gelir.
 
 I have written dozens of articles exposing the falsehood of this position, so I will not bother to reiterate those arguments here, since they are not essential to a book on morality, but rather would be more appropriate to a book explaining the principles and practicalities of a voluntary society.[^4]
 
