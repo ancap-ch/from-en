@@ -62,9 +62,9 @@ Estas "verdades do meio" são as ilusões mais perigosas de todas, porque dão u
 
 Ao fornecer a ilusão de que encontramos a verdade, as "meias verdades" realmente impedem-nos de conseguir a verdade. São a última linha de defesa para a fantasia, a espoliação e a exploração.
 
-Dado que não são apenas irracionais, mas *anti*-racionais, "as verdades do meio" permanecem infinitamente flexíveis - sempre que sirvam aos que estão no poder. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Dado que não são apenas irracionais, mas *anti*-racionais, "as verdades do meio" permanecem infinitamente flexíveis - sempre que sirvam aos que estão no poder. Por exemplo, o cristianismo surgiu do fascismo crescente do último império romano, em parte, atacando as superstições "primitivas" das teologias existentes. "Esqueça seus deuses antigos, nós temos um novo Deus que é muito melhor!"
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+As "meias verdades" sempre assumem a forma de uma verdade, seguidas por uma mentira. "Zeus é uma superstição pagã" é uma afirmação verdadeira, que foi feita, abertamente, pelos proselitistas cristãos. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
 
 We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
 
