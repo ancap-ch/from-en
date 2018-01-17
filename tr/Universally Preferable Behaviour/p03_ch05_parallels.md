@@ -2,11 +2,11 @@
 
 Bilim Devriminden önce, doğal dünyanın merkezindeki bilinçli ve "ahlaki" bir varlık olmaksızın kendini sürdüremeyeceği akla yatkın değildi. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. Darwinci devrim, yaşamın yaratılmadığı, ama daha çok geliştiği, materyalden biyolojik dünyaya olan bu fikri getirdi.
+Doğanın kendi kendini üreten ve kendi kendini sürdürebilen bir sistem olduğu düşüncesi neredeyse akıl almazdı. Darwinci devrim, yaşamın yaratılmadığı, ama daha çok geliştiği, materyalden biyolojik dünyaya olan bu fikri getirdi.
 
 Önce bilim, her karmaşık bir sistemin özünde iyi bir bilinç var – bu olmadan bu sistem kaosa gider, ve sona ermez.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Ne yazık ki, bu "erdemli bilinç" sadece cömertçe sonuçlanacak bir hayaldir. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
 
 We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
 
