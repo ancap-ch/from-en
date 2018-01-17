@@ -156,7 +156,7 @@ Pekala, bu sadece tüm mahallenin sana ait olduğunu gösteren bir el yazısı n
 
 This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
 
-In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
+Mahkemede, yozlaşmış, çılgın, belli ve kendi kendine hizmet eden riyakarlığım yüzünden hakaret edilip hapishaneye atılabilirim.
 
 Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
 
