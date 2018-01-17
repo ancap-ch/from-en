@@ -131,29 +131,29 @@ Para evitar dudas, esta Sección 4 complementa y no reemplaza sus obligaciones b
 
 ### Sección 5 -Descargo de garantías y limitación de responsabilidad.
 
-a. **A menos que el Licenciante tome otras medidas por separado, en la medida de lo posible, el Licenciante ofrece el Material Autorizado tal como está y como está disponible, y no hace representaciones o garantías de ningún tipo con respecto al Material Autorizado, ya sea expreso, implícito o legal u otro. Esto incluye, sin limitación, garantías de título, comerciabilidad, idoneidad para un propósito particular, no infracción, ausencia de defectos, precisión o la presencia o ausencia de errores, sean o no conocidos o detectables. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
+a. **A menos que el Licenciante tome otras medidas por separado, en la medida de lo posible, el Licenciante ofrece el Material Autorizado tal como está y como está disponible, y no hace representaciones o garantías de ningún tipo con respecto al Material Autorizado, ya sea expreso, implícito o legal u otro. Esto incluye, sin limitación, garantías de título, comerciabilidad, idoneidad para un propósito particular, no infracción, ausencia de defectos, precisión o la presencia o ausencia de errores, sean o no conocidos o detectables. Donde no se permite la renuncia de garantías en su totalidad o en parte, esta exclusión no le aplica.**
 
-b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
+b. **En la medida de lo posible, bajo ninguna circunstancia el Licenciante será responsable ante usted en ninguna teoría legal (incluyendo, sin limitación, negligencia) o de lo contrario, para cualquier directo, especial, indirecto, incidente, consecuente, punitivo, ejemplar, o cualquier pérdida, costo, gasto o daños que surjan de esta Licencia Pública o del uso del Material Licenciado, incluso si el Licenciante ha sido advertido de la posibilidad de dichas pérdidas, costos, gastos o daños. Donde no se permite una limitación de responsabilidad en su totalidad o en parte, esta limitación no se le aplica.**
 
-c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+c. La exclusión de garantías y limitación de responsabilidad anteriormente indicada, podrá ser interpretado de manera que, en la medida de lo posible, más se aproxima a una negación absoluta y renuncia de toda responsabilidad.
 
-### Section 6 – Term and Termination.
+### Sección 6 – Término y Terminación.
 
-a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+a. Esta Licencia Pública aplica para el término de los derechos de autor y derechos similares licenciados aquí. Sin embargo, si no cumple con esta Licencia Pública, entonces sus derechos bajo esta Licencia Pública terminan automáticamente.
 
-b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+b. Donde su derecho a uso del Material Licenciado ha terminado bajo la Sección 6(a), se reintegra:
 
-1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+1. automáticamente a partir de la fecha en que se cura la violación, siempre que se cure dentro de los 30 días de su descubrimiento; o
 
-2. upon express reinstatement by the Licensor.
+2. tras la reinstalación expresa por parte del Licenciante.
     
-    For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+    Para evitar dudas, esta Sección 6(b) no afecta ningún derecho que el Licenciante pueda tener para buscar soluciones a sus violaciones de esta Licencia Pública.
 
-c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
+c. Para evitar dudas, el Licenciante puede ofrecer el Material Licenciado bajo términos y condiciones separados o detener la distribución del Material Licenciado en cualquier momento; sin embargo, hacer esto no termina esta Licencia Pública.
 
-d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+d. Las Secciones 1, 5, 6, 7 y 8 sobreviven la terminación de esta Licencia Pública.
 
-### Section 7 – Other Terms and Conditions.
+### Sección 7 – Otros términos y condiciones.
 
 a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
 
