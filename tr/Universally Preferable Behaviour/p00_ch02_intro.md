@@ -1,133 +1,133 @@
-## Introduction
+## Giriş
 
-For countless generations, mankind lived in a kind of egocentric womb of self-imposed ignorance: the world was flat, the sun, moon and stars revolved around him, ancestors beckoned to him from beyond the mists of death, and thunder was the anger of the gods.
+Nesiller boyunca insanoğlu egoist ve kişisellikle birlikte cahilce yaşamıştır: dünya düzdü, yıldızlar, ay ve güneş kendi etrafında dönüyordu, ataları ona ölüm perdesinin ardından sesleniyordu ve şimşek tanrıların gazabıydı.
 
-Burrowing out from this narcissistic womb of subjective interpretation required the labour of millennia – and cost the lives of millions. The effort required to wrench our perspective from *perceptual experience* to *conceptual logic* was terrifying, exhilarating, highly disorienting and extremely dangerous. Understanding that the world was not what it *felt like*, or *seemed like*, was – and remains – the greatest feat of our intelligence. The *truth* of reality turned out to be in the eyes of the mind, not of the flesh.
+Bu narsistlik rahminden subjektif çıkarım binyılın işçiliğini istiyordu - ve milyonların hayatına mal olacaktı. Bakış açımızı tamir edecek olan efor *perceptual experience*, *conceptual logic* korkutucu, yorucu, kafa karıştırıcı ve oldukça tehlikelidir. Dünyanın aslında *felt like* gibi olmadığını anlamak ya da *seemed like*, - kalanlar - aklımızın en büyük sınavıdır. Ortaya çıktı ki gerçek *döğru* zihnin gözlerindeymişi etinde değil.
 
-The world looks flat; it is not. The sun and the moon look the same size; they are not. The stars seem to move around the earth; they do not. Learning the truth requires that we see the world from outside our senses – this does not mean a rejection of our senses, but an airtight compliance with the *real* evidence of the senses, which is not that the world is flat, but that matter, energy and physical laws are consistent. When we let go of a rock in our hand, it falls – this is the *real* evidence of the senses, not that the Earth is fixed and immovable. The idea that the world is immobile is an incorrect assumption that contradicts the direct evidence of our senses, which is that everything falls. If everything falls, the world cannot be fixed and immovable.
+Dünya düz gibi görünüyor; ama değil. Güneş ve ay aynı büyüklükte görünüyor; ama değiller. Yıldızlar dünyanın etrafında hareket ediyor gibi görünüyor; ama etmiyorlar. Gerçeği öğrenmek için dünyayı kendi duyularımızın dışında görmeliyiz - bu duyularımızı reddetmemiz anlamına gelmiyor, ama duyularımızla tam *gerçek* bir kanıt bulmak demek, dünya düzdür, neden önemlidir, enerji ve fizik kuralları geçerlidir demek değildir. Elimizden bir taşı bıraktığımızda, düşer - bu duyuların *gerçek* kanıtıdır, Dünyanın sabit ve oynamaz olamayacağının. Dünyanın hareketsiz olduğu yanlış bir önergedir bu bizim duyularımıza ters düştüğünün kanıtıdır, aslında herşey sonunda düşer. Herşey düşerse, dünya sabit ve hareketsiz olamaz.
 
-These are the little truths of the everyday; that rocks fall, smoke rises, fire is hot and the sun and the moon are both round. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
+Bunlar hergün gördüğümüz gerçeklerdir: taş düşer, duman yükselir, ateş sıcaktır ve dünya ve ay döner. Eğer bu ''küçük gerçeklere'' körü körüne bağlı olsak, büyük fizik doğruları için yanıp tutuşabiliriz, ki bunlar bize mükemmel bir bilgi ve güç sağlar.
 
-In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
+Küçük gerçekler ve büyük gerçekler arasındakiler bizi kör eden ilizyonlardır - ikiside fizik ve ethikde.
 
-In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+Fizikte, büyük doğrular kücük doğruları yalanlayamaz. Hiçbir "alansız alan teorisi" bizim duyularımızla duşen bir taşı ya da yükselen alevi algılamamızı doğrulayamaz. En büyük matematik teori uygulanırken, ödeme sayacında yanlış değişikliği döndürüldüğünde zaman geçerli olamamaktadır.
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
+Tarihe göre, nasılsa, bizim küçük doğrularımız ve büyük doğrularımız arasında ''null zone'' diye tabir ettiğimiz bir yer vardır
 
-### The "Null Zone"
+### ''Hükümsüz Kuşak''
 
-We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+Biz çocuklarımıza birbirlerine yumruk atmamalarını söylüyoruz, ve şiddetin yanlış olduğuna genel ahlak kuralıymışcasına inanıyoruz. Küçük doğru: *yumruk atmadır*. Büyük doğru ise: *şiddet yanlıştır*.
 
-However, there exists in our minds an imaginary entity called “God,” and this entity is considered perfectly moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+Bununla beraber, kafamızda var olan ''Tanrı'' fotoğrafı tamamen bir ahlaktan başka bir şey değil. Malesef, varlığımız sürekli ve geniş kapsamda "şiddet yalnıştır" görüşünü taciz eder ve dünyayı boğar, ruhları cehennem gazabına mahkum eder; onlarda farkındadır ki "kararlarının" önbilgisine sahiptirler, tecavüz, hırsızlık, cinayet, saldırı ve diğer davranışları onların benliğini kötülüğe teslim edecektir.
 
-Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
+Bu şekilde küçük doğrularımız var(*yumruk atma*) ve büyük doğrularımız var(*şiddet yanlıştır*) ama bunların ortasında birde ''null zone'' var*küçük doğrularımızın ve büyük doğrularımızın tamamen karşısında kabul edilen tamamıyla doğru*.
 
-Historically, we can see the same inconsistency in physics. There are no perfect circles in our direct experience, but because of a belief in God, all planetary motion had to be a “perfect circle” – a premise that retarded astronomy for centuries. Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth,” but as a *great truth*, or universal principle. Yet for most of human history, it was believed that the stars and planets rotated around the Earth, rather than that the Earth rotated. Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
+Tarihsel olarak, fizikte aynı uyumsuzluğu görebiliriz. Tecrübelerimzde mükemmel yuvarlak yoktur, Tanrıya olan inanç sayesinde bütün dünyevi hareket "mükemmel yuvarlak" olmalıdır - Astronominin yüzyıllar boyunca ilerlemesini engellemiştir. Benzer olarak, adam kafasını çevirirse, bütün dünyanın kendi etrafında döndüğüne inanmaz - ve mutlulukla kendi "küçğk doğrusu" olmadığını görür, *great truth* evrensel gerçekliği kabul eder. Şimdiye kadar olan insan tarihinde, tüm gezegenlerin ve yıldızların dünya etrafında toplandığına inanıldı, ama asıl dünya diğer gezegenler ve yıldızlar etrafında rotalandı. Burda bir daha ''null zone'' u direkt duyu tecrübelerinin ve uluslararası öğretilerin arasında görebiliyoruz, yani tamamen karşı öğretiler tamamıyla gerçek olarak sayılıyor.
 
-No sane man experiences God directly. In his daily life, he fully accepts that *that which cannot be perceived does not exist*. No reasonable man flinches every time he takes a step, fearing an invisible wall that might be barring his way. The greatest abstractions of science support his approach.
+Aklı başında kimse tanrıyı direk olarak deneyimleyemez. Normal yaşantısında, tamamen kabul ettiği*ikna olmadığı şeye inanmıyor*. Hiçbir aklı başı yerinde olan insan attığı her adımda tereddüte düşmez, görünmez bir duvardan korkmak yolunu tıkayabilir. Bilimin en büyük ayrılması yaklaşımıdır.
 
-Conversely, in the “null zone” of religion, the *exact opposite* of both the little truths and the great truths is believed to be true. Personally, a man believes that *that which cannot be perceived does not exist* – intellectually, science has proven this repeatedly. However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
+Karşısında dinin "sıfır noktası", *exact opposite* iki tarafın küçük doğrularını ve mutlak doğrunun herkes tarafından kabul edildiği görülür. Şahsen, insan genellikle *ikna edilemezse inanmaz*, - akılcı yaklaşırsak, bilim bunun böyle olmadığını defalarca kanıtlamıştır. Ama, ilahiyattaki "sıfır noktası" bu çıkarımın tam tersinin doğruluğunu kabul eder - * aksiyomunda öngörülemez ve **must** için * var olmalıdır.
 
-Our belief in the virtue of the military also lies in this “null zone.” If a private man is paid to murder another man, we call him a “gun for hire,” and condemn him as a hit man. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
+Askerinin erdemlerine olan inancımız "sıfır noktasında" yatar. "Bir adam başka birini öldürmek için para alıyorsa ona "kiralık silah" deriz" ve kiralık katil olarak betimelriz. Eğer bu adam kurdelalı yeşil kostüm giyerse * ve aynı hareketi * tekrarlarsa, biz onu kahraman olarak adlandırır ve ödüllendiririz. Küçük doğrı (*öldürmemeliyim*) büyük gerçekle (*cinayet yanlıştır*) tamamen örtüşür - ama bunların ortasındaki ''null zone'' da cinayet büyülü bir şekilde ''erdemli'' olur
 
-If this “null zone” is valid, then no logical proposition can ever hold. If a proposition is true – and the exact opposite of that proposition is also true – then logical reasoning becomes impossible. The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
+Eğer bu ''null zone'' gerçekse, hiç bir mantıklı açıklama getirilemez. Eğer önerge doğru ise - önergenin tam tersi de doğrudur - işte o zaman mantıklı açıklama yapmak imkansızlaşıyor. Mantıklı bilimin gelişmesi "sıfır noktası" için doğrusal bir saldırı olmuştur, ve hedefe sürekli olarak akın eden bu çılgın küçük cepçiler görüşe bağlıdır.
 
-In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
+Eski haritalarda, haritacılar keşiflerini bitirmeden önce, toprakların çizimi boş kağıtlara yapılırdı. Bilginin gelişimi önce bilinmeyen şeyin tanımlanmasını ve ardından bilinen ilkelerin bilinmeyen alanlara yayılmasını gerektirir.
 
-The same is true in the realm of morality.
+Aynısı ahlak dünyasında doğrudur.
 
-### The Casualties
+### Kayıplar
 
-Crossing this “null zone” is fraught with peril. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+''Null zone'' u geçmek hayli tehlikelidir. Küçük gerçeklerden büyük gerçeklere geçen yol milyonlarca kemikle döşenmiştir. Socrates'in ölümünden eski bilim adamlarının işkencelerinden sorumlu olan bu dini fanatikler bu uğurda ölen ve öldürülen faşizm ve komünizmin kara fantezilerine milyonlar telef olmuştur, "sıfır noktası" için bilgi içeren her ilerleme çok büyük tehlikelerle karşılaşmıştır.
 
-Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
+"sıfır noktasını geçmek" - yada ufak ve büyük doğruları birleştirmek - kaçınılmaz olarak bu kadar zor ve tehlikeli olacakmıydı? Algısal ile kavramsalı mantıksal çıkarımın düz çizgisinde birleştirmek devasa bir meydan okumadır -ama bu gelişim için binlerce yıl ve kandan okyanuslar mı gerek?
 
-If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
+Eğer insanoğlunun teknolojik ve ekonomik gelişmesine bakarsak, son yüzyıllarda yaşanan sıçramanın neredeyse sayısız milenyuma denk geldiğini görebiliriz. Bazı yaygın genetik mutasyonun, entelektüel tutarlılığın ve maddi başarının bu ani ve muazzam hızlandırılmadan sorumlu olduğunu düşünmek imkansız olmaktadır. Kesin bir "kartopu etkisi" nin gerçek olduğunu savunan teoriler, esrarengiz bir şekilde medeniyetin doğumundan beri oluşan tüm küçük bilgi artışlarının birikimi ile ortaya çıkarılmıştır ve hiçbir tahmin değerine sahip olmadıkları için, *ex post facto*açıklamalarında olduğu gibi genellikle tamamen gözden çıkarılabilirlerdir.
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+Bunu anlamamız için sarsıcı potansiyelimizin bizim hep elimizde binlerce yıldır elimizde olduğunu idrak etmemiz gerekir - ve bunun üzerine gitmemizde haz ve büyük kazanımlar vardır - Ve bu açıklığa çıktığında *do* zarafetli zihnimizi kullanmak istediğimizi görürüz.
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+Böylelikle, tarihsel olarak insanlığın doğal özgürlüğünü ezmek ve köleleştirmek için hareket eden aşağı yönlü bir kuvvet olmalıdır.
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+Bilim dünyasında, bizi baskı altına alan zihnimizi cehalete yakın tuttuğunu görmek zor değildir. Batıl inançları din formunda, şiddeti aristokrasi formunda, tehdit görmüş rasyonel düşünürleri ise hapiste, işkencede ve cinayetde. Bir çiftçinin sahip olduğu ineklerin aptallığından kar ettiği gibi bir köle taciri de kölelerinin korkusundan kar eder, rahip ve krallar üstünlüklerini onları sorgulayanları ölümle tehdit ederek korumuştur.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+Basit gerçek ise "rahip" ve "kralların" - eskiden - ve buguün - sadece insan olduklarıdır. Tanrılar ve şeytanların onların kendi hükümlerini sürdürmek için yaratıldığı ve aslında var olmadıkları basit bir gerçektir.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+İnsanın doğasını ve gerçeğini anlamak için büyük adımlar attık ama üzücü gerçek *morality* diyarı aslında "sıfır bölgeisnde" kaybolmuştur - "vasat" doğruların yıkıcı iluzyonlarında
 
-### "Middle Truths"
+### ''Orta Gerçekler''
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+"sıfır noktasında" karşıt prensipleri ele alalım - duyu algı ve süreklilik arasında - "vasat doğrular"
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+Bu ''orta gerçekler'' en tehlikeli ilizyonlardır, çünkü doğrunun *görünüşünü* bahşederken gerçekte doğruya *saldırır*.
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+Bu ilüzyonları geçerek biz gerçek doğruyu bulduk, ''orta doğrular'' aslında bizim gerceği elde etmemizi engelliyor. Onlar fantazinin, yağmalamanın ve sömürmenin son defans çizgisidir.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Onlar sadece mantıksız değil, hemde *anti* akılcıdır, ''orta gerçekler'' hep çok esnektir - bu güce hizmet ettikleri sürecede böyle olacaktır. Örneğin Hristiyanlık Roma İmparatorluğunun son dönemlerinde artan faşistliğin bağtıl inançları baltalamasıyla ortaya çıkmıştır. ''Eski tanrılarınızı unutun, artık yepyeni bir Tanrımız var ve eskilerden çok daha iyi!''
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+''Orta gerçekler'' hep gerçeğin görüntüsünü alır, bir yalanı takip eder. ''Zeus bir pagan batıl inancıdır'' doğru bir tezdir, hristiyanlar tarafından oluşturulan. Takip ettiği yalan ise: ''Yahweh bir pagan batıl inancı değildir, o gerçek ve yaşayan bir Tanrıdır.''
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+Bunu işlevsiz bir arkadaşına yardımcı olmaya çalışan bizlerden kişilelleştirip örnek olarak gösterebilriz. ''Son erkek arkadaşım tam bir pislikti'' dedi kiz, sende şevkle ona katıldın. ''Yeni erkek arkadaşım gerçekten *harika*'' diye ekledi kız, sende gözlerini devirmemeye çalıştın.
 
-It is very hard not to replace one illusion with another.
+Bir ilizyonu başka biriyle değiştirmemek çok zordur.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+''İngiliz devleti tam bir gaddar'' diye ağlıyordu 18. yüzyıldaki Amerikalı devrimciler - ve, sonra ingiliz askerlini tahliye ettikten sonra, kendi devletlerini ayarlayıp kendi vatandaşlarına saldırmaya başladılar.
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+''Aristokrasi haksız bir iğrençliktir'' diye ağladı diğer devrimciler, sonra kendi zalim ve büyük demokrasilerini kurdular.
 
-“Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
+''Orta gerçekler'' bilimdede var olabilir, ve küçük doğrular ve büyük doğruların doğal ilerlemesini önlerler. 18. yüzyıla kadar, biologlar ''kendiliğinden üretim'' veya yaşamayan maddelere inanıyordu. Bu hiç bir zaman incelenemedi, ama eski felsefi ve dini yazıtlarda çok görülebiliyordu, ve gerçek olarak kabul edildi. 1905 Einstein devriminden önce, ışığın "parlak ether" denen görünmez bir madde içinde gittiği sanılmıştır, aynı ses dalgalarının ışık içinde gitmesi gibi. Bu teoriye inanan bilim adamlarının hiçbiri "ether" hakkında somut bir kanıta sahip değildi, - ama diğer gözlemlenebilir özelliklerine bakmak gerekliydi.
 
-Religion is also another “middle truth” – one of the most dangerous ones. Bildiğimiz kadarıyla evrendeki eşsiz bir tür olduğumuz doğrudur. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+Din de başka bir ''orta gerçek''dir - hemde en tehlikelilerinden biri. Bildiğimiz kadarıyla evrendeki eşsiz bir tür olduğumuz doğrudur. Zürafa uzun bir dört ayaklıdır, ama insan sadece ''akıllı'' bir primat değildir, daha değişik birşeydir. Bu farklılığın doğası bilinmezdir - dini bir açıklama "hayvanlardan farklıyız çünkü hayvanların ruhu yoktur ve bizi tanrı yaratmıştır" der ve bu "vasat doğrunun" başka bir örneğidir. Hayvanlardan farklı olduğumuz ise bir gerçektir. Bizim bir tanrı tarafından yaratıldığımız ve bir ruha sahip olduğumuz doğru değil.
 
-Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+Bazı parazitlerin önceki parazitleri atana kadar kök salamamalarından dolayı, "orta gerçekler"; sadece daha önceki yanılsamalara saldırırlar ve *so that they can take their place*. Öncelikli hayallerinde kuşkucu olanlar yeni hayallerine doğru yönelir. Şöyle ki, hristiyanlık paganizmi elemine etti, marxism hristanlığı elemine ettii, post-modernism marxism i elemine etti, demokrasi aristokrasiyi elemine etti, ve böylece devam etti.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+Mutlak gerçeklere ulaşıp, bunu küçük doğrularla birleştirene kadar, "vasat doğrular" yıkıcı bir döngü içinde yalnışları savurur - özellikle mutlak doğrulara ulaşmamızı engellemek için tasarlanmışlardır.
 
-And the great truths are always achieved from the little truths.
+Ve büyük yalanlar her zaman küçük yalanlardan doğdu.
 
-The world falls because a rock falls.
+Dünya düşer çünkü taş düşer.
 
-### "Middle Truths" And Exploitation
+### ''Orta Gerçekler'' Ve İşletme
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+Biolojik olarak parazitlik çoğu canlı için geçerli bir hayatta kalma yöntemidir. Etik normların yokluğunda, başka canlılardan enerji ve kaynak çalmak anlaşılabilirdir. Genel olarak, parazitliğin sürdürülebilir ve dayanıklı formu *symbiosis* ya da mutualistik birlikteliktir. Bağırsaklarımızdaki bakteriler bizim yediklerimizi sindirmemize yardımcı olarak kendi varlıklarını sürdürürler.
 
-However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+Bununla birlikte, bizi sürekli olarak bitkin hale getiren ve kendimizi güçlükle canlı tutabilmemize sebep olan bir virüs, güçlükle "karşılıklı bir yarar" olarak nitelendirilebilir. Afet, açlık, savaş, hastalık ve yoksulluk hakkındaki uzun ve insafsız geçmişimizi düşünüp bunu karşılaştırdığımızda, modernitenin baş döndürücü ekonomik başarılarıyla - bir çeşit parazitmin -aklımızı ve kapasitelerini binlerce yıl boyunca baştan çıkardığı son derece açıktır. Son birkaç yüz yılda insan ruhunun gücünü ve yaratıcılığını göstermiş olduğumuza göre, türümüzü, korkunç bir parazitten sıyrılmış bir organizma olarak görebilir ve jimnastiğin en şaşırtıcı başarılarını gerçekleştirmek için nefes nefese sonsuz bir ölüm kuşağından geçmiş olarak görebiliriz.
 
-When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
+Kendimizi bir hastalıktan iyileştirdiğimizde daha iyi hissediyoruz, ancak hastalık yok. Çiçek hastalığı virüsü açısından bakıldığında, çiçek aşısı soykırımdan kaynaklanmaktadır.
 
-In the same way, the parasites that strangle mankind view the liberty of the majority with horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+Aynı şekilde, insanoğlunu boğan parazitler çoğunluğun özgürlüğünü korkuyla görmektedirler. Parazitlik onlarıgerçeğin arzından kurtarsada - günlük lokmalarına kavuşmak için - kaçınılmaz olarak çoğunluğun özgürlüğünü kendilerinin köleleştirilmesi olarak görürler. Böylece bir çiftçi hayvancılığının "kurtuluşu" nu tamamen felâket olarak görür…
 
-Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+Gerçeği kabul ettirmek muhakkak hayal gücünü sınırlar. Limetlenmiş fantezi gerekli olarak sömürmeyi sınırlar. Eğer seni benim yaşayan-Tanrı olduğuma ikna edersem, ve beni doğuran Tanrının tüm kazancının yüzde on'unu bana vermesini istediğini eğer bunu yapmazsan cezalandırılacağını söylersem, çok zengin olabilirim. Ben iluzyonlar karşısında bir parazitim ve bu iluzyonlara bir mantarın ısıya olan ihtiyacı gibi bağımlıyım, boşluk - ve karanlık.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+İnsanlar, moral fantezilerini kendi çıkarları için kullananlarla göze göz dişe diş şeklinde onların gerçeğini ortaya çıkararak savasmıştır.
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+Potansiyel rakiplerini yaralama yada ölümle tehdit eden, dini mezhepleri yada hükümetleri birbirlerine karşı kışkırtıp saldırtan Mafya örneklerine son derece aşinayız.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+Filozoflaryalnışları günyüzüne çıkarttığında kendilerini rakip olarak öne çıkarmak istemezler. Onlar mafyayı veya kiliseyi *değiştirmek* istemiyor - onlar bunları tamamen ortadan kaldırmak istiyor.
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+Modern bir analoji olarak lobicilerin vergi ödeyenlerin ve devletin bağlantısını öne çıkarabilriz. Lobiciler vahşice aynı vergiler için diğer lobicilere saldıracak. Ancak, düşünün *tüm* lobiciler birleşse ve devlete saldırmak isteyenlere saldırsa.
 
-Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
+Sunucu sonlu kaynakları için parazitler vahşice yarışırlar - ama aslında sunucuya saldıracak her hangi bişeyi birleşerek yok etmek onların çıkarınadır.
 
-In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
+Bu şekilde, herhangi bir toplumda devlet ve kilise sözde ayrıdır ama ikiside kendi taraftarlarının rekabeti için savaşmaya meğillidir. Kilise gücünü kaybetmeye başladığı yerde, devlet yerine vatanserverleri getirir - bu secular sosyalizmin sonucudur. Devletin toprak kaybetmeye başladığı yerde, kilise saldırganca taraftarları kabul edecek - çoğunlukla özgürlükçü düşünceyle dini köktencilikle sonuçlanacak.
 
-However, the philosophers who oppose *all* intellectual error are the sworn enemies of all the parasites that feed off illusions. The “great truths” of physics eliminate the need for supernatural agents, and render miracles impossible. The explanatory power of science wholly outshines the religious fictions that masquerade as knowledge about the physical world.
+Yine de, düşünsel hataya karşı çıkan filozoflar kuruntuları yararına kullanan tüm parazitlerin düşmanlarına yeminlidir. Fiziğin mutlak doğruları hayali varlıkların ihtiyacını ortadan kaldırır ve mucizeleri anlamsız kılar. Bilimin açıklayacı gücü dini hikayeleri sollar ve fiziksel dünyanın gerçeklerini öne çıkarır.
 
-The scientific method requires that every thesis be supported by evidence and rationality. Since there is no evidence for gods – and the very *idea* of gods is innately self-contradictory – the thesis “gods exist” cannot stand. Inevitably, the religious parasites attempt to defend their thesis by trying to split reality into “two realms” – the scientific and the spiritual. However, there is no evidence for the existence of this “spiritual” realm in the present, any more than there was for the parallel universe of Platonic “Forms” two thousand five hundred years ago.
+Bilimsel yaklaşım her kuramın mantık ve kanıtla desteklenmesini ister. Tanrılar için bir kanıt olmadığından -ve hatta tanrıların fikri doğal olarak kendisiyle çeliştiğinden- "tanrılar vardır" savı geçerli değildir. Kaçınılmaz bir şekilde, dini parazitler gerçekliği bilimsel ve manevi olmak üzere farklı "iki alem"'e bölmeye çalışarak tezlerini müdafaa etmek için uğraşırlar. Yinede, şu anda bu "manevi" alanın varlığıyla alakalı, 2500 yıl önceki Platonik "Formların" paralel evrenden daha fazla bir kanıtı ortada yoktur.
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+Böylece, tutarlı ve evrensel gerçeğin oluşturulmasında, illüzyonun sömürücü potansiyelini mutlaka sınırlayıp yok etmektedir. Özellikle, evrensel ve tutarlı olan "büyük gerçekler", aslında sömürücü fanteziler olan "orta gerçekler"'i gereksiz ve saçma bir hale getiriyor. Dinin "orta gerçeği" ni biliyoruz; Birkaç kişi incelenecek ve ortaya çıkacak ve bazıları sizi şoke edebilecek.
 
 ### Effective Parasitism
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+En etkili parazitler- yada virusler - vücüdu katıksız şekilde aptal yerine koyanlardır. Bizim bağışıklık sistemimiz dışardan gelen yabancı maddelere saldırmak, izole etme ve öldürmeye tasarlanmıştır. Biz HIV ve kanserden korkuyoruz çünkü onlar vücüdumuzun bağışıklık sistemini geçebiliyor. Aynı teknik entelektüel parazitler tarafından avlanmak için savunma sistemlerini devre dışı bırakmak için kullanılmaktadır.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+Eğer karanlık bir arka sokakta bir yabancı size saldırırsa ve paranızı isterse, korkarsınız ve dehşete düşersiniz. Geri kavga edebilir, kaçabilir yada cüzdanınızı verebilirsiniz ama olaydan dolayı şoke olmus, kızgın ve ürkek kalırsınız. Bu öyküyü tekrarladığınızda, siz sizin kişisel üs ve değersiz ihlalinizi ve mülkiyet haklarınızı kuvvetlendirecek şekilde söylerdiniz. Başkaları durumunuza sempati duyar ve gelecekte söz konusu olan ara sokaktan kaçınırdı.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+Bu bir ''kücük doğru'' örneğidir: ''Benden çalman yanlış''
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+Bununla birlikte, bir devlet görevlisi ona para ödemekle yükümlü bir mektup gönderildiğinde, belli bir öfke hissetmiş olabilirsiniz, ancak hikayeyi arkadaşlarınıza aynı korku ve öfke ile ilişkilendirmezsiniz.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+Bu bir “orta gerçek” örneğidir, bu da “büyük gerçeği” gizleyen “çalmanın yanlış olduğu " anlamına gelmektedir.”
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+Bu kitap, bu yanlış "orta doğruları" meydana çıkararak ortadan kaldırmaya odaklanacaktır. İnsanın, - dinsel batıl inançları, laik despotizm ve ailenin kültü - gibi yıkıcı dünya görüşlerini haklı gösteren yanlış "etik gerçekler" in işkence altında daima dek acı çektiklerine inanıyorum.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+Bu kitaptaki tezim, etik olarak, diğer tüm entelektüel disiplinlerde olduğu gibi, büyük gerçekler doğrudan doğruya küçük gerçeklerden kaynaklanmaktadır. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
