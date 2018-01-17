@@ -16,7 +16,7 @@ Bu durumda görürüz ki "cinayet iyidir" önerisi gariptir, ve aynanda mantıks
 
 "Tecavüz iyidir" önermesinde uygulanan diğer itirazlar burada da geçerlidir. Nötr yargılar ve eylemler başka birine zorla acı veremeyeceğinden, ve cinayet tanımı gereği başka birine zorla acı vermek olduğundan, cinayet ahlaki açıdan nötr olamaz.
 
-Tıpkı tecavüz eyleminde olduğu gibi, cinayet eyleminin herhangi bir evrensel gerekçelendirmesini alakadar eden temel bir çelişki var. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
+Tıpkı tecavüz eyleminde olduğu gibi, cinayet eyleminin herhangi bir evrensel gerekçelendirmesini alakadar eden temel bir çelişki var. Eğer Bob, Doug'un boğazını sıkmaya çalışırsa, fakat Doug ona karşı koyarsa, Bob, UPB'ye göre akla uygun bir şekilde kendi hareketlerinin doğruluğunu nasıl kanıtlayabilirdi?
 
 Evet, aslında "Bir erkeğin hayatı istediğiniz zaman alınabilir" gibi bir şey de söyleyebilrdi - ama elbette, UPB'nin ahlaki önermelerin tek geçerli testi olmasından dolayı, bu Doug'un Bob'u öldürmesini, Bob'un Doug'u öldürmesini kıldığı kadar haklı kılıyor. Bu nedenle, eğer Doug Bob'a karşı herhangi bir şekilde direnmezse, Bob onu boğarak öldürmeyi meşrulaştırabilir - ancak tabii, eğer Doug direnmezse, o zaman bu gerçekten cinayet olarak düşünülebilir mi?
 
@@ -36,4 +36,4 @@ Aynı yaklaşımla saldırı sorununa gidebiliriz, ama bu tartışmalar tecavüz
 
 ### Nefsi Müdafaa?
 
-We have skirted over the issue of self-defence with regards to murder, though it is scarcely necessary to examine it in the case of rape. Bunun sebebi, kendini savunma meselesinin kendinden emin veya karmaşık olmadığı bir konu değil, var olan komplikasyonların, hırsızlık problemine baktıktan sonra daha geniş bir şekilde ele alınabilmesidir.
+Tecavüz etme olayında onu açıklamaya hemen hemen hiç ihtiyaç olmamasına rağmen, cinayet işlemek açısından nefsi müdafaa konusundan uzak durduk. Bunun sebebi, kendini savunma meselesinin kendinden emin veya karmaşık olmadığı bir konu değil, var olan komplikasyonların, hırsızlık problemine baktıktan sonra daha geniş bir şekilde ele alınabilmesidir.
