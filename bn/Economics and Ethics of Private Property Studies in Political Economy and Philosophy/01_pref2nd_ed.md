@@ -1,4 +1,4 @@
-## Preface to the Second Edition
+## Kata Pengantar untuk Edisi Kedua
 
 The first edition of *The Economics and Ethics of Private Property*, published in 1993, has been out of print for several years. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.
 
