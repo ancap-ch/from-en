@@ -66,7 +66,7 @@ Thus a man who believes that bullying is a good way to get what he wants tends t
 
 Diğer bir deyişle, UPB tutarsızlık içinde bile tutarlılık ister. UPB ölümsüzlük içinde bile istikrar talep eder.
 
-The root moral premises of a culture thus dictate its inevitable future. Baskı üzerine inşa edilmiş kültür her zaman daha zorlayıcı hale gelecektir. A culture built on rational liberty will always become less coercive.
+The root moral premises of a culture thus dictate its inevitable future. Baskı üzerine inşa edilmiş kültür her zaman daha zorlayıcı hale gelecektir. Özgürlük mantığı üzerine kurulmuş bir kültür her zaman daha az zorlayıcı hale gelecektir.
 
 Bu, ahlaki kurallar için bir mantık çerçevesini resmetmenin önemli olma sebebidir.
 
