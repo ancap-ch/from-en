@@ -28,7 +28,7 @@ Serbest piyasa ekonomisinin temel ilkelerinden birisi ise kalitenin gerçekten *
 
 Güç kullanımının başlatılması her zaman herhangi bir akılcı ahlak teorisine karşıdır - UPB'nin kesin ve açık ihlalidir. Devlet okulları, kuvvet kullanımının başlatılması yoluyla finanse edildiğinden, bunlar bir *zorla birleştirme* şekli, UPB tarafından doğrulanan *örgütlenme özgürlüğü* 'nü ihlal ettiği açıktır.
 
-Since force violates the moral requirement of *avoidability* – and a lack of avoidability always breeds poor quality – UPB would help us easily predict that public schools would provide education of low quality.
+Güç *avoidability*'nın ahlaki gerekliliğini ihlal ettiğinden - ve kaçınılmazlığın eksikliği daima kötü kaliteye sahiptir - UPB, devlet okullarının düşük kaliteli eğitim sağlayacağını kolaylıkla tahmin etmemize yardımcı olur.
 
 Furthermore, UPB would also have helped us predict that, as more and more force was used in the realm of public education – as taxes, union compulsions and so on escalated – the quality of the education provided would get worse and worse.
 
