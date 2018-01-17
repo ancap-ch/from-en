@@ -1,6 +1,6 @@
 ---
 content_files:
-  - content.md
+  - içerik.md
 translation:
   language: tr
   is_translation: false
@@ -28,42 +28,42 @@ tag_prefix: "https://en.ancap.ch/tags/"
 persons:
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "model_kişi"
     rule: "yazar"
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "model_kişi"
     rule: "işbirlikçi"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "thanked"
+    identifier: "model_kişi"
+    rule: "minnettar olmak"
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "model_kişi"
     rule: "çevirmen"
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "model_kişi"
     rule: "eleştirmen"
   - 
     person_: [ ]
-    identifier: "template_person"
-    rule: "cover_artist"
+    identifier: "model_kişi"
+    rule: "kapak_sanatçı"
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "model_kişi"
     rule: "sanatçı"
 resources:
   - 
     resource: [ ]
-    rule: "front_cover"
-    content: "cover.png"
+    rule: "ön_kapak"
+    content: "kapak.png"
     websites:
-      - Resource website
-    description: Resource description
+      - Kaynak internet sitesi
+    description: Kaynak Tanımlaması
     persons:
-      - template_person
+      - model_kişi
 targets:
   - 
     target: [ ]
