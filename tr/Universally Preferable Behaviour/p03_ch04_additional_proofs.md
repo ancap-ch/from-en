@@ -26,7 +26,7 @@ Bilgi edinimi için herhangi bir metodolojinin evrensel, tutarlı ve zaman-mekan
 
 Serbest piyasa ekonomisinin temel ilkelerinden birisi ise kalitenin gerçekten *gönüllülükten* kaynaklandığıdır. Zorlamak esasen verimsizdir, yetersizdir - şiddet her zaman kalitesizlikle sonuçlanır. Eski tarz Sovyet fırınları hiçbir zaman iyi ekmek satmazlardı; karısını döven bir erkek hiçbir zaman mutlu bir evliliğe sahip olamaz.
 
-Güç kullanımının başlatılması her zaman herhangi bir akılcı ahlak teorisine karşıdır - UPB'nin kesin ve açık ihlalidir. Since public schools are funded through the initiation of the use of force, they are a form of *forced association*, which is a clear violation of the *freedom of association* validated by UPB.
+Güç kullanımının başlatılması her zaman herhangi bir akılcı ahlak teorisine karşıdır - UPB'nin kesin ve açık ihlalidir. Devlet okulları, kuvvet kullanımının başlatılması yoluyla finanse edildiğinden, bunlar bir *zorla birleştirme* şekli, UPB tarafından doğrulanan *örgütlenme özgürlüğü* 'nü ihlal ettiği açıktır.
 
 Since force violates the moral requirement of *avoidability* – and a lack of avoidability always breeds poor quality – UPB would help us easily predict that public schools would provide education of low quality.
 
