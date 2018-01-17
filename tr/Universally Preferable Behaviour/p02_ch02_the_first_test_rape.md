@@ -142,7 +142,7 @@ Bu durumda tecavüzün tek mantıklı olma şansı *not* evrensel olarak tecavü
 
 UPB kalıbının etkili ve mantıklı olarak tecavüzün kötü olduğunu doğruladığı gerçeği - "iyi" değildir yada "tercih edilebilir" ya da "kişisel olarak tercih edilebilir" ya da "moral olarak tarafsız" olması - iyiye işarettir. It does not prove beyond a shadow of a doubt that UPB will logically validate all “common sense” moral propositions, but the first hurdle has been passed, and that should give us great cause for celebration. Eğer Birleşik Alan Kuramı öneren bir fizikçi olsaydım, ve teorimin uygulaması fırlatılan beyzbolun nereye gideceğini doğru bir şekilde tahmin etmek olsaydı, adil bir şekilde son derece memnun olurdum.
 
-Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. İlk doğrulama her zaman en zordur, çünkü işlerin yanlış anlaşılması kolaydır ve hata her zaman doğruluktan fazla olur.
+Einstein'in rölativite teorisi ışığın yer çekimi etkisi altında kırıldıpını öngörmüştür - bu ilk doğrulandığında, teori hakkındaki şüphelerin gölgesinin ötesine geçememiştir, ama bu teori *could* doğru olabileceği anlaşılmıştı, bu da ileriye atılmış büyük bir adımdır. İlk doğrulama her zaman en zordur, çünkü işlerin yanlış anlaşılması kolaydır ve hata her zaman doğruluktan fazla olur.
 
 The UPB framework has correctly validated our moral premise that rape is evil. Bu kanıtlar için gerekli bir ölçüt -ama yeterli değil- ve tamamıyla ek soruşturmayı destekler. Böylelikle, devam edelim…
 
