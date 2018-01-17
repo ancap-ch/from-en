@@ -32,4 +32,4 @@ Since force violates the moral requirement of *avoidability* – and a lack of a
 
 Furthermore, UPB would also have helped us predict that, as more and more force was used in the realm of public education – as taxes, union compulsions and so on escalated – the quality of the education provided would get worse and worse.
 
-This, of course, was – and is – exactly the case.
+Tabiki de bu tam olarak öyleydi ve öyleydi.
