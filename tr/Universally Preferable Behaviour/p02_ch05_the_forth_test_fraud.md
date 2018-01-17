@@ -1,18 +1,18 @@
-## The Forth Test: Fraud
+## Dördüncü Test: Dolandırıcılık
 
 Right at the edge of what is generally considered ethical sits the challenge of *fraud*.
 
-Fraud is the obtaining of value through false representation. If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
+Sahtekarlık, sahte temsil aracılığıyla değer sağlamaktır. Eğer bana iki yüz dolar verirsen sana iPod göndereceğimi söyleseydim, ve sana iPod'u göndermeden paranı alsaydım, doğal olarak bunun hırsızlığın bir formu olduğunu anlardır.
 
 Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
 
-Clearly, fraud requires that one person *not* be engaged in fraud. In the above potential transaction, if I am hoping to steal your two hundred dollars, and you are hoping to steal my iPod, nothing will come of it. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
+Clearly, fraud requires that one person *not* be engaged in fraud. Yukarıdaki olası işlemde, eğer iki yüz dolarınızı çalmayı düşünüyorsam ve siz de iPodumu çalmayı düşünüyorsanız, hiçbir şey onu ortaya çıkarmayacak. Ödeme yapmadan önce iPod talebinde bulunacaksınız, ve ben iPod vermeden önce ödeme talep edeceğim. Köşeye sıkıştırılacağız, birbirimize hile yapmaya tamamıyla gücümüz yetmeyecek.
 
-Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
+Açıkçası, sahtekarlığı gerçekleşirmek için, bir taraf iyi niyetli davranmak zorunda. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
 
 To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
 
-What happens then?
+O zaman ne olacak?
 
 Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
 
@@ -20,12 +20,12 @@ UPB destroys this possibility, since no valid moral theory can require opposite 
 
 If Doug commits fraud on Bob with the justification that “it is good to lie to get what you want,” then clearly it must also be good to be honest as well, since it is impossible to get what you want by lying unless other people are willing to assume your honesty. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
 
-This is how we know that fraud is wrong.
+Dolandırıcılığın yanlış olduğunu bu yüzden biliyoruz.
 
-Again, knowing that fraud is “wrong” simply means that we know that any moral theory that justifies fraud is invalid, because it is self-contradictory. If we build a bridge, and the bridge falls down, we know that the bridge was “wrong” – but the most important thing that we can learn from this disaster is not that the bridge fell down, but to understand the flaws in the theory that caused us to build a bridge that fell down. Similarly, moral theories that cause disasters, such as communism, fascism and Nazism, are important to evaluate relative to UPB not only so we can understand how they went so wrong, but also how to fix our moral theories in the future. Since as a species, we will be forever building bridges, it is essential that we get our facts and theories right, or they will endlessly fall down around us.
+Again, knowing that fraud is “wrong” simply means that we know that any moral theory that justifies fraud is invalid, because it is self-contradictory. Eğer bir köprü inşa edersek ve bu köprü çökerse, biliriz ki köprü "hatalı" idi - fakat bu felaketten öğrenebildiğimiz en önemli şey köprünün çöküşü değil, çöken bir köprü inşa etmemize sebep olan kuramdaki kusurları anlamamızdır. Benzer biçimde, felaketlere neden olan ahlaki kuramlar, komünizm, faşizm ve narsizm gibi, yalnızca nasıl yanlış olduklarını anlayabilmemizi değil, aynı zamanda gelecekte ahlaki kuramlarımızı nasıl düzelteceğimizi de UPB ile alakalı olarak değerlendirmek için önemlidir. Since as a species, we will be forever building bridges, it is essential that we get our facts and theories right, or they will endlessly fall down around us.
 
 However, the question remains whether fraud is evil, or just an aesthetically negative action (ANA).
 
-Fraud is unusual compared to rape, theft and murder, insofar as it requires that the victim act positively to participate in the process. I can jump up behind you and strangle you without any participation on your part, but I cannot defraud you unless you participate to some degree. Thus fraud falls under the umbrella of “avoidability,” and so is in a fundamentally different category than rape, murder and theft. However, the degree of avoidability partly determines the degree of immorality involved. Sending your bank information to a Nigerian email spammer is certainly avoidable; being cheated by an eBay business with a perfect rating is far less avoidable.
+Dolandırıcılık, kurbanın sürece katılmak için olumlu bir şekilde davranması gerektiğiyle olduğu kadar, nadiren tecavüz etmek, hırsızlık yapmak ve cinayet işlemek ile kıyaslanır. I can jump up behind you and strangle you without any participation on your part, but I cannot defraud you unless you participate to some degree. Thus fraud falls under the umbrella of “avoidability,” and so is in a fundamentally different category than rape, murder and theft. However, the degree of avoidability partly determines the degree of immorality involved. Sending your bank information to a Nigerian email spammer is certainly avoidable; being cheated by an eBay business with a perfect rating is far less avoidable.
 
-There may be certain situations under which fraud is unavoidable, such as “bartering” for a life-saving medicine when no alternative exists, but that falls under the “grey area” that we have discussed above – these occurrences are so rare that they are to ethics as mutations are to biological species.
+Dolandırıcılığın kaçınılmaz olduğu belirli durumlar olabilir, başka bir yol olmadığında bir hayat kurtaran için ilaç "takas etmek" gibi, ama bu yukarıda tartıştığımız "ikilemde kalınan konu"ya dahil olur - bu olaylar o kadar nadirdir ki onlar biyolojik alanlara mutasyon olarak geçen ahlaki kurallardır.
