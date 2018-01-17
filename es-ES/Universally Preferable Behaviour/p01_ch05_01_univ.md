@@ -1,12 +1,12 @@
-## Universally Preferable Behaviour
+## Comportamiento Universalmente Preferible
 
-As a result of the above arguments, we can see that it is impossible to enter into any debate without accepting the premise that certain behaviours are *universally preferable*.
+Como resultado de los argumentos anteriores, podemos ver que es imposible entrar a ningún debate sin aceptar la premisa de que ciertos comportamientos son *universalmente preferibles*.
 
-I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
+Uso la palabra "comportamiento" aquí en lugar de "pensamiento" porque es importante diferenciar entre los estados puramente internos y no verificables como "pensar" de los estados objetivos y verificables como "actuar," "escribir" y "hablar."
 
-It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant,” which is why I use the word “behaviour” rather than “thought.”
+Es imposible demostrar que soñé un elefante anoche. Es posible demostrar que he escrito la palabra "elefante," que es la razón por la que uso la palabra "comportamiento" en lugar de "pensamiento."
 
-Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+Consentir a la lógica superior en una discusión es una *acción*. Si, cada vez que te concedo un punto, yo no digo nada, sino que solo me quedo viéndote de manera vacía, encontrarás bastante irritante debatir conmigo. Para conceder un punto, debo realizar la acción de concesión verbal.
 
 Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
 
