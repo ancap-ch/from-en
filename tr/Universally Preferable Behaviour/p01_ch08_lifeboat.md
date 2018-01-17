@@ -70,4 +70,4 @@ Tabii ki, ahlaksız bir insanın kendi kişisel çıkarları için size saldırm
 
 [^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+[^11]: Nietzsche'nin "iradeden güce" ve Rand'in "insanın hayatına hizmet eden iyidir."
