@@ -1,96 +1,96 @@
-## A Framework For Ethics
+## Ahlak için çerçeve
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Etiksel çıkarımlar diğer bilgi ifadelerinden farklıdır. Eğer cazı sevdiğimi söylersem bu doğru ya da yanlış olabilir ama genellikle bunun beni bir şekilde bağladığı söylenemez. Caz sadece kişisel tercihimin bir göstergesi; buna dayanarak, cazı beğenip beğenmeme konusunda sizi zorlayan bir şey yok.
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+Benzer şekişde, eğer ben ''sebze seviyorum'' dersem bu katkısız kişisel bir tercihdir. Ama, ben ''sebzeler sağlıklıdır'' dersem bu kişisel bir söylemden çıkar ve objektif bir doğru olur. "Ben dondurmayı severim" ve "Dondurma süt içeririr" arasındaki farka benzer
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+*Tercih ifadeleri* ile *gerçek ifadeler* arasındaki en temel fark, gerçek ifadelerin nesnel, test edilebilir ve bağlayıcı olmasıdır. Eğer gerçeğe değer veriyorsanız, dondurmanın içerisinde süt olduğu kanıtlandıktan sonra bunu kabul etmek size düşer.[^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Eğer dünyanın yuvarlak olduğunu söylüyorsam ve bu iddia için yeterli kanıt sağlıyorsam, iddianın sizin gözünüzden doğru olup olmadığı artık hiçbir şey ifade etmez. Eğer dünyanın yuvarlak olduğunu ispatlayabilirsem, nedenlerini ve kanıtlarını gerçeğin ölçütü olarak reddetmeye istekli olmadığınız sürece bunu kabullenmek zorundasınız.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+Eğer matematik yasalarının geçerliliğini kabul edersem, bu yasalara uyan matematiksel bir kanıtı isteğe bağlı olarak reddedemem. Eğer böyle bir kanıtı reddedersem, artık matematik yasalarının geçerliliğini kabul ettiğimi iddia edemem. Benim bu yasaları kabul etmem, bu yasalara uyan delilleri geçerli saymakla *yükümlü* olduğum anlamına gelir. Akılcı standartlara uygun bir kanıtın reddedilmesi, bütün rasyonel standartların reddedilmesidir.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+Bilimsel yöntem, rasyonelliğin kendisinin ve matematik kanunlarının önermelerini gerçeklikleriyle ortaya koymak için tüm *objektif* kriterlere örnektir. Bana göre iki ve iki, dört yapar – eğer iki ve iki, dört yapmasını kabul ederseniz yalnızca benim düşüncemin üzerine değil, rasyonel bir gerçeğe boyun eğmek demektir.
 
-### Objective Truth
+### Nesnel gerçek
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+Gerçeğin doğasını anlama konusundaki merkezi bir zorluk, "gerçeğin" dünyada bir kaya veya ağacın yaptığı gibi olmadığı gerçeğinin farkına varılmasıdır.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+"Gerçek" kavramı mutlaka göreceli bir terimdir – bu öznel veya keyfi bir terim anlamına gelmez. "Sağlık" ile hastalığa ve sağlıkla ilgili göreceli standartlara kıyasla – "Sağlık" kavramı da göreceli bir terimdir. Doksan yaşındaki bir kişinin "sağlığına zararlı" olduğu düşünülen şey, yirmi yaşında ki bir kişinin sağlığına etki etmeyeceği anlamına gelmez. Uzun bir yaşamın tanımı beş yüz yıl öncesine göre çok farklıdır.
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
+Bunun anlamı, "sağlık" kavramının tamamen göreli ve öznel olduğu değildir. On yaşındaki bir lösemi hastasının herhangi bir tanıma göre sağlıksız olduğu gibi yirmi yaşındaki bir maraton koşucusu da herhangi bir tanıma göre sağlıklıdır. Şu anda, doksan yaşında bir adamın istatistiksel olarak uzun bir ömrü vardır, tıbbi teknoloji anında uzun ömür tanımını iki yüzlü yaşlara getirseydi, bu durum değişirdi.
 
-As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
+"Sağlık" tanımımız genişledikçe, daha önceki tanımları geçersiz kılmaz, aksine onları genişletir. Eğer tıbbi teknoloji, doksan yaşındaki kişilerin maraton kazanmasına olanak sağlarsa, o zaman yaşlılar için sağlıklı olmanın tanımı değişecektir - fakat bu, yirmi yaşındaki maraton koşucusunun aniden sağlıksız olduğu anlamına da gelmeyecektir. Cebir öğrenmek, aritmetiği geçersiz kılmaz.
 
-Truth also has value relative to necessity as well. Newtonian physics has been supplanted by Einsteinian physics, which has proven far more accurate in extreme situations such as extraordinarily high gravity or speed. However, sailors wishing to calculate the correct path across an ocean find Newtonian physics more than accurate enough. You wouldn’t want to send a spaceship to Alpha Centauri using Newtonian physics, but it is totally fine for getting a ship from Lisbon to New York. The labour involved in learning and implementing Einsteinian physics is thus a net negative for a sailor.
+Gerçeğin aynı zamanda gerekliliğe göre de bir değeri vardır. Newton fiziği Einstein fiziği tarafından değiştirilmiştir, olağan dışı yüksek yer çekimi veya hız gibi aşırı durumlarda Einstein fiziğinin çok daha doğru olduğu kanıtlanmıştır. Ancak, bir okyanustaki doğru yolu hesaplamak isteyen denizciler Newton fiziğini daha doğru buluyorlar. Newton fiziğini kullanarak Alpha Centauri'ye bir uzay gemisi göndermek istemezsiniz ama Lizbon'dan New York'a bir gemi getirmek için oldukça iyidir. Einstein fiziğini öğrenmek ve uygulamak emekli bir denizci için net bir negatifliktir.
 
-As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+Sonuç olarak, "Newton fiziği Einstein fiziğinden daha az doğrudur, ancak Newton fiziği bir geminin yolunu hesaplamak için en iyi yoldur" cümlesi geçerli bir önerme olarak düşünülebilir. Böylece bu konu için Newton fiziği hem *daha az doğru* hem de *daha uygun* olur.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+Eğer en temiz suyu içmek istersek, muhtemelen şişe başına binlerce dolar ödemek zorunda kalacağız. Çok zengin olmadığımız sürece susuzluğumuzu gidermek için bu kadar para ödemeyiz. Saf su bizim için daha iyidir ancak saflık gerektiren fiyat, azalan getiri eşiğine ulaşır. Böylece "daha temiz daha iyidir", "daha saf olan daha kötüdür" algısını benimsememize yol açar
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+Yinede bu suyun saflığının öznel olduğunu göstermez. Arındırılmış su herzaman deniz suyundan daha saklanabilirdir.
 
-#### Truth And Objective Reality
+#### Doğru ve görüşe bağlı gerçeklik
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+*truth* konsepti doğal olarak *accuracy</0 barındırır. Bir oku tam isabetle atmaya çalışıyorsam, isabet oranımı hedeften ne kadar saptığım belirler.</p> 
 
-What, then, is the “bull’s-eye” of truth?
+O zaman doğrunun hedefi nedir?
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+*truth* ifadesinin ölçülebilirliği görüşe bağlı gerçeklikle olur.
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+Dilin zorluklarını bir kenara bırakırsak ve bir martıyı gösterip bu bir ocaktır dersem açık olarak yanılıyorumdur çünkü ocaklar organik değildir ve uçamazlar. İfademin gerçeklik değeri, gerçeğin somut kanıtlarıyla alakalıdır. Bir martı bir ocak olmadığına göre ifadem doğru değildir.
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+Doğal olarak doğru ve gerçeklik arasındaki ilişki duyularımız ve dilimizi ayrı tutarak ulaşabilriz. Dil ve duyu knaıtlarının görüşe bağlı olduğunu gösteren bir çok neden vardır; bu konu hakkında kapsamlı bir tartışma yapabiliriz, bilgiyi almak için gözlerimizi ve dilimizi kullandığımız için yazdığım konuları anladığını söyleyebilriz. Eğer öyle değilseler bizimde konuşacak bir şeyimiz yoktur ve sende hiç bişey anlamamışşındır yani bu cümlede bi o kadar anlamsızdır.
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+Yukarıdaki iki yazı tipi arasındaki farkı söyleyebildiğinizi farz edersek makul olarak devam edebiliriz.
 
-#### Accuracy And Consistency
+#### Doğruluk ve Tutarlılık
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+Bir bulutu doğru bir şekilde boyamam mümkün değil, çünkü onu boyamak için gereken sürede bulut sürekli şeil değiştiriyor. Zamanında donmuş olan bir bulutun *fotoğrafını* doğru bir şekilde boyayabilirim.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+Eğer bir bulut resmini yapmak için bir saatimi harcarsam ve o zaman sana resmin bulutun doğru bir gösterimi olup olmadığını sorarsam, mutlaka bulutun olmadığını söylemelisin.
 
-In other words, where there is no consistency, there can be no accuracy.
+Başka bir deyişle, tutarlılık olmadığında doğruluk olamaz.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Geceleri hayal kurduğumuzda, algımız "madde" ve "enerji" kuralları içinde sabit akış halindedir. Biz yerçekimine karşı duyarsızız ve ayrıca bir filin sırtında uçabiliriz ve sonra duvarlar boyunca yürüyebiliriz. Bir bulutu doğru boyamaktan başka "Rüyaların bilimsel fiziği" ni geliştirmek mümkün değildir.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+Mantık, bilim ve doğruluk, ayrıca, tutarlılığın yokluğunda imkansızdır.
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+Temel olarak, mantık yasaları madde ve enerjinin davranışından, en azından algısal düzeyde ortaya çıkmıştır. Aynı anda hem yukarı hem aşağı bir top atmanızı söylersem, isteğimi yerine getirmeye çalışarak kolaylıkla sınayabileceğiniz imkansızlığı istemiş olurum. Eğer size hem kuzey alanını hem güney alanını eş zamanlı olarak yarıp geçmenizi söylesem, siz uymakta zorluk çekerdiniz. Bir gülü eşek haline dönüştürmenizi istersem, talebim asla gerçekleşemez.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+Algılanan gerçeklik sürekli ve objektiftir - ve bu süreklilik ve objektiflikten mantığın kanunlarını çıkarırız. Gerçeklik hakkındaki ifadelerimiz *represent* gerçekliği süreklilik ve objektifliğin bir sonucu olarak doğurur.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+Martıların bir ocağa dönüşemeyeceği gibi - ya da tam tersi - lapasitemizin kökleri "bu bir martı" ifadesini yargılar. Eğer martılar kendiliğinden ve sürekli olarak doğasını değiştirirse, onlar hakkında doğru ya da yalnış ifadeler kuramayız - ya da her hangi bir konu hakkında.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Bu bilimsel metodun anahtarının kökleridir - üretkenlik. Eğer yer çekimi doğası hakkında evrensel bir iddia haline getirirsem, o zaman kendi ortamında bu iddiayı tekrar üretebilmelisin. Eğer gerçeklik tutarlı olmasaydı, o zaman çoğaltılabilirlik gerçeğin birliği için mantıksız bir kıstas olurdu.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+Bir matematik öğretmeni olsaydınız, öğrencinin yazdıklarında cevabının "doğru" olduğunu iddia etse de, ancak geçici olarak bir şekilde değişmiş olsa dahi, bir öğrenciden yanlış bir cevap kabul etmeniz olası değildir.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Böylelikle, objektif gerçeğe göre bir ifadenin geçerliliğini hem deneysel hem de mantıksal olarak ölçmemiz gerektiğini kabul edebiliriz. Bir disiplin olarak mantık, sadece gerçekliğin tutarlılığının bir sonucu olarak ortaya çıkmaktadır; ampirik gözlemlerde de aynı zamanda gerçekliğin tutarlı doğasının bir sonucu olarak da geçerlidir veya geçersizdir.
 
-### The Existence Of "Truth"
+### Doğrunun varlığı
 
-Truth, then, can be measured according to two central criteria:
+Doğru o zaman iki merkez kriterle ölçülebilir:
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+1. Doğruluğun ölçülmesi, zihnimizdeki düşüncelerin mantıkla, madde ve enerjinin gerçek dünyayla ilişkisiyle ölçülür. [^2]
+2. Gerçek, aynı zamanda zihnimizdeki fikirler, doğa, maddenin davranışı ve gerçek dünyadaki enerji arasındaki ilişkiyi ölçmektir
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+İlk kriter fikirlerin sürekliliğinin bir ölçüsüdür - ve bu süreklilik, gerçeklik kendisi içinde sürekli olduğu için bir gerekliliktir. Eğer "varlığım aslında yoktur" dersem bu bir fikrin kendisiyle bağdaşmadığını gösterir, sonuçta varolduğum için bu cümleyi kurabiliyorum. İkinci kriter, nesnel gerçekliğin ampirik gözlemlerine göre fikirlerin doğruluğunun ölçüsüdür.
 
-#### Empiricism Versus Rationality
+#### Deneyciliğe karşı Rasyonalizm
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+Deneyimcilik, içgüdüsel olarak atılan bir topu yakalamak veya hareketini ölçmek yeteneği olarak düşünülebilir; rasyonellik, topun evrensel ilkelere göre alacağı yolu tahmin etme ve anlama becerisidir. Açıkçası, toplar rastgele bir şekilde her yöne dağılırsa ve - sepetlemek için büyüleyici bir şekilde güvercin sürülerine dönüşmeleri halinde- davranışlarını daha önceden kestiremeyiz.
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Böylece, madde değişmez yasalara itaat ettiğinden, meselemiz *hakındaki* teorilerimizin de değişmez yasalara uyması gerekmektedir. Beyzbol hakkında bir şey biliyorsam ve oyuncuların kurallara uyduğu bir beyzbol oyunu izliyorsam, izlediğim oyuncuların oyundaki hareketlerinden farklı formüller çıkarırsam bu mantıksız olur. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+Tutarlılık için bu gereksinim, hakikat için en temel gerekliliklerden biridir. Gerçeklik tutarlı olduğu için, gerçeklik hakkında teoriler de tutarlı olmalıdır.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+Aslında, herhangi bir teorinin üstesinden gelmesi gereken ilk engel içsel tutarlılıktır.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^1]: Eğer gerçeğe değer vermiyorsanız bu tartışmada yeriniz yok - ya da herhangi bir tartışmada - ilk olarak
 
-[^2]: Rational consistency, or internal logic.
+[^2]: Mantıksal tutarlılık ya da içsel mantık.
 
-[^3]: Empirical evidence, or empiricism.
+[^3]: Deneysel bulgular, ya da deneycilik.
