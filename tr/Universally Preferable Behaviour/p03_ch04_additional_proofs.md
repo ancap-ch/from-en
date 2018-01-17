@@ -30,6 +30,6 @@ Güç kullanımının başlatılması her zaman herhangi bir akılcı ahlak teor
 
 Güç *avoidability*'nın ahlaki gerekliliğini ihlal ettiğinden - ve kaçınılmazlığın eksikliği daima kötü kaliteye sahiptir - UPB, devlet okullarının düşük kaliteli eğitim sağlayacağını kolaylıkla tahmin etmemize yardımcı olur.
 
-Furthermore, UPB would also have helped us predict that, as more and more force was used in the realm of public education – as taxes, union compulsions and so on escalated – the quality of the education provided would get worse and worse.
+Ayrıca UPB, halk eğitim alanına giderek daha fazla güç kullanıldığını tahmin etmemize yardımcı olurdu - vergi, sendika zorunlulukları vb şeyler arttıkça - verilen eğitimin kalitesi kötüleşti ve kötüye gitti.
 
 Tabiki de bu tam olarak öyleydi ve öyleydi.
