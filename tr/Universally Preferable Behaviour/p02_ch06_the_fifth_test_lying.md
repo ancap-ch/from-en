@@ -32,7 +32,7 @@ Yalan söylemek *şiddet* kategorisine daha çok uyuyor, kendini savunmak için 
 
 Tıpkı kendimizi, bir yumruğa, karşı bir yumrukla savunabileceğimiz gibi yalancıya da yalan söyleyerek karşı koyabiliriz ancak fakat daha da gecikmiş bir insanın "geri ödemesinin" artan küçüklüğüne tam olarak saygı gösteremeyiz.
 
-Bunun farkı, "geç kalmak" gibi yalan kadar aktif olarak yıkıcı değildir. Gecikmiş bir insan sinir bozucudur ancak gerçekliği yönlendirme kapasitenizi temelde zayıflatmaz. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
+Bunun farkı, "geç kalmak" gibi yalan kadar aktif olarak yıkıcı değildir. Gecikmiş bir insan sinir bozucudur ancak gerçekliği yönlendirme kapasitenizi temelde zayıflatmaz. Sabahın yedisindeki bir toplantıda bir saat geç ortaya çıkmam bir şeydir - konunun bu olmadığını bildiğim halde, sizi toplantıyı gerçekten sabah sekiz olarak planlamış olduğumuza ikna etmeye çalışmam tamamen ayrı bir şeydir.
 
 Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
 
