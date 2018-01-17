@@ -24,11 +24,11 @@ However, “governments” are no more needed for the organisation and continuan
 
 Aslında, dinlerin bilimin ilerlemesini engellediği gibi hükümetler de milletin ilerlemesini engellemektedir. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. Fantezi ile yaşamayı seçtiğimizde, bir şekilde, kaçınılmaz olarak yıkımı da seçmiş oluruz.
 
 Toplumu dini ahlaki mitolojilere uygun olarak yönetmeyi seçtiğimizde, savaşlar, zorbalık, bastırma, istismar, yolsuzluk ve anlaşılmaz ikiyüzlülükle sonuçlanmaktadır.
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+Toplumu * devletçi</ 0> ahlaki mitolojilere göre uygulamayı seçtiğimizde, sonuçlar farklı değildir.</p> 
 
 Ya fazileti ya da zorlamacılığı seçebiliriz.
 
@@ -38,13 +38,13 @@ Biz her ikisini de yapamayız.
 
 Devletin hem lüzumlu hem de ahlaki bir kurum olduğuna inanmayı seçebiliriz. Hükümet olmadan toplumun "anarşi" içine çökeceğine ve dünyanın herkese karşı olan bir savaşa dönüşeceğine inanmayı seçebiliriz. Hükümet olmadan herhangi bir yol, eğitim, sağlık hizmeti, emekli aylığı, kütüphaneler, mülkiyetin korunması vb. olmayacağına inanmayı seçebilmekteyiz.
 
-Benzer olan batıl inançlar, şüphesiz insanlık tarihinin gelişmesini geciktirmiştir. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+Benzer olan batıl inançlar, şüphesiz insanlık tarihinin gelişmesini geciktirmiştir. UPB'nin hükümet hakkında neyi ortaya çıkardığının en önemli işareti, bilim tarafından din hakkında açığa vurulan şeydir.
 
 Bilim, tanrı olmadan sürebilecek bir evreni pratik olarak varsaymaya başladığı zaman, her türlü histeri, dünyanın sonunun yaklaştığı, toplumun “anarşiye” çöktüğü ve medeniyetlerin tüm karşı savaşlara dönüştüğü çıkarımına başladığında, tüm dünyaya karşı bir savaş haline gelirdi.
 
 Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
 
-Priests did this during the onset of the scientific revolution. Tanrı olmadan, hayatın bir anlamı yoktur. Tanrı olmadan, insanların ahlakı yoktur. Tanrı olmadan, ruhlarımız kurtulamaz. Tanrı olmadan, dünya kaos ve kötülüğe düşer.
+Rahipler bilimsel devrimin başlangıcında bunu yaptılar. Tanrı olmadan, hayatın bir anlamı yoktur. Tanrı olmadan, insanların ahlakı yoktur. Tanrı olmadan, ruhlarımız kurtulamaz. Tanrı olmadan, dünya kaos ve kötülüğe düşer.
 
 Tabii ki, hiç birisi gerçek olmamıştır. Aslında, oldukça *tersi* gerçek oldu. Dinin hakim dünya görüşü olarak son bulması, kilisenin ve devletin ayrılması, aristokrasinin sona bulması, serbest piyasanın gelişmesi, dünyanın önemli bölgelerinde pek çok insan özgürlüğünün oluşması için önünü açmıştır.
 
