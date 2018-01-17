@@ -56,9 +56,9 @@ Fizemos grandes progressos na compreensão da natureza e da realidade da igualda
 
 ### "Meias Verdades"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+Vamos chamar os princípios de oposição que residem na "zona nula" - entre a percepção sensorial e a consistência teórica - as "verdades do meio"
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+Estas "verdades do meio" são as ilusões mais perigosas de todas, porque dão uma *aparência</ 0> de verdade, quando, na realidade *atacam* a verdade.</p> 
 
 By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
 
