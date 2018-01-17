@@ -4,82 +4,82 @@ Once the violence of government is intellectually exposed – and the supposed �
 
 I have written dozens of articles exposing the falsehood of this position, so I will not bother to reiterate those arguments here, since they are not essential to a book on morality, but rather would be more appropriate to a book explaining the principles and practicalities of a voluntary society.[^4]
 
-The “argument from practicality” in no way solves the problem of violence. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
+"Pratiklik Argümanı"nın şiddet sorununu çözmesinin imkanı yok. Eğer seni her gün çizburger yerken görürsem, sağlıklı bir kiloyu korumak istiyorsan, bunun pratik olmadığını söyleyebilirim. Çoktan incelediğimiz nedenler dolayısıyla, çizburger yemenin senin için *kötü* olduğunu iddia edemem. I cannot justly compel you through force to increase the “practicality” of your actions.
 
 Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
 
 Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
 
-If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
+Eğer bir kadını benim seçtiğim bir erkekle evlenmeye zorlarsam, o zaman açıkça ondan çok daha iyi koca bulma hükmü verdiğime inanıyorumdur. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
 
 When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
 
-If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. If she has no idea what constitutes a good or suitable husband, then how can she evaluate me as fit to decide who will be a good or suitable husband for her?
+Eğer bir kadın evlilik açısından kendi kararlarını vermek için zihinsel olarak yetersiz ise, açıkça aynı zamanda *onun için bu seçimi yapacak bir temsilci görevlendirmek için de zihinsel olarak yetersizdir*. Eğer iyi veya uygun bir kocayı neyin oluşturduğunu hakkında bir fikri yoksa, o zaman benim ona uygun veya iyi bir koca bulmak için uygun olduğumu nasıl değerlendirebilir?
 
-If a man of extraordinarily low intelligence does not understand the concept of “health,” would it be reasonable to expect him to be rational in his choice of a doctor? In order to competently choose a doctor, we must understand the concepts of health, efficacy, cost, professionalism and so on. In the same way, if I do not allow a woman to have any say in who she marries, then clearly I must believe that she has no understanding of what makes a good husband – but if she has no understanding of what makes a good husband, then she has no capacity to transfer that choice to me, since she will have no way of evaluating *my* criteria for what makes a good husband.
+Eğer olağanüstü derecede düşük zekalı bir adam "sağlık" kavramını anlayamıyorsa, doktor seçiminde akıllıca davranacağını beklemek mantıklı mıdır? Yetkin bir doktor seçmek için, fayda, maliyet, profesyonellik ve benzeri kavramları anlamalıyız. In the same way, if I do not allow a woman to have any say in who she marries, then clearly I must believe that she has no understanding of what makes a good husband – but if she has no understanding of what makes a good husband, then she has no capacity to transfer that choice to me, since she will have no way of evaluating *my* criteria for what makes a good husband.
 
-If I cannot decide what colour to paint my house, and my solution is to sign a contract with a painter allowing him to choose the colour for me – and in that contract I sign away all my future freedoms to resist his decisions, and give him the right to kidnap and enslave me if I disagree with any of his decisions, or refuse to pay for them – then clearly I am not of sound mind. If I give someone the power to compel me *for the rest of my life*, then clearly I do not believe that I am competent to make my own decisions.
+If I cannot decide what colour to paint my house, and my solution is to sign a contract with a painter allowing him to choose the colour for me – and in that contract I sign away all my future freedoms to resist his decisions, and give him the right to kidnap and enslave me if I disagree with any of his decisions, or refuse to pay for them – then clearly I am not of sound mind. Birine beni *hayatımın geri kalanı boyunca* yönetecek gücü verirsem, o zaman açıkça kendi kararlarımı almaya yetkin olduğuma inanmıyorumdur.
 
 If I do not think that I am competent to make my own decisions, then clearly my decision to subject myself to violence *for the rest of my life* is an incompetent decision.
 
-Either I am capable of making competent decisions, or I am not. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. If I am *not* capable of making competent decisions, then my decision to subject myself to force for the rest of my life is also invalid.
+Ya yetkili karar verme yeteneğine sahibimdir, ya da değilimdir. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. If I am *not* capable of making competent decisions, then my decision to subject myself to force for the rest of my life is also invalid.
 
 Even if the above considerations are somehow bypassed, however, it is still impossible to justly enforce a social contract through a government. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
 
 In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
 
-### The Necessity Of The State?
+### Devletin Gerekliliği ?
 
 This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
 
 First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
 
-Two additional objections constantly recur whenever the question of the necessity of a government arises. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
+Bu devletin gerekliliği sorusu ortaya çıktıkça iki ek itiraz sürekli olarak yinelenir. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
 
-The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Citizens can protect themselves against evil individuals, but stand no chance against an aggressive government armed to the teeth with police and military might. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
+The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Vatandaşlar kendilerini kötü bireylere karşı savunabilir, ancak polise ve askeri güce sahip dişlerin silahlı saldırgan bir hükümetine karşı hiçbir şansı yoktur. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
 
-Logically, there are four possibilities as to the mixture of good and evil people in the world:
+Mantıken, dünyadaki iyi ve kötü insanların karışımı için dört olasılık vardır:
 
-1. All men are moral.
-2. All men are immoral.
-3. The majority of men are immoral, and a minority moral.
-4. The majority of men are moral, and a minority immoral.[^6]
+1. Tüm insanlar ahlaklıdır.
+2. Tüm insanlar ahlaksızdır.
+3. İnsanların büyük çoğunluğu ahlaksızdır, azınlığı ise ahlaklıdır.
+4. İnsanların büyük çoğunluğu ahlaklıdır, azınlığı ise ahlaksızdır.[^6]
 
-In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
+İlk durumda (*Herkesin ahlaklı olduğu*), bariz şekilde hükumete gerek yoktur, çünkü kötülük var olamaz.
 
-In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+İkinci durumda (*Herkesin ahlaksız olduğu*), basit bir sebepten hükümetin varlığına izin verilemez. Hükumet, genel olarak tartışılır, olmalıdır çünkü dünyada zarar verme arzusu bulunan ve yalnızca hükumetin cezalandırması korkusu ile bastırılabilecek insanlar vardır (polis, hapishaneler*gibi*). Bu argümanın doğal sonucu olarak, bu insanları korkutacak daha az ceza olması, daha fazla kötülük yapmalarına neden olacaktır.
 
-However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
+Ancak, Hükumetin *kendisi* herhangi bir kuvvet veya cezaya maruz kalmaz, kendi başına bir yasadır. Hatta Batı demokrasilerinde dahi, kaç polis ve politikacı hapse girmiştir?
 
-Thus if evil people wish to do harm, but are only restrained by force, then society can *never* permit a government to exist, because evil people will work feverishly to grab control of that government, in order to do evil and avoid retribution. In a society of pure evil, then, the only hope for stability would be a state of nature, where a general arming and fear of retribution would blunt the evil intents of disparate groups. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
+Sonuç olarak eğer kötü insanlar kötülük yapmayı istiyor ve yalnızca bir kuvvet ile bastırılabiliyorlarsa, toplum bir hükumetin var olmasına *asla* izin veremez, çünkü kötü insanlar hükumetin kontrolünü ele geçirebilmek ve ceza almayı önlemek için hararetli bir uğraş içine gireceklerdir. Saf bir kötülük topluluğunda, istikrar için tek umut; genel silahlanma ve çileden korkmanın farklı grupların kötü niyetlerini körelttiği bir doğa devleti olurdu. Nükleer silahlanmış milletler arasında da görüldüğü gibi "güçlerin dengesi" barış doğurur.
 
-The third possibility is that *most* people are evil, and only a few are good. If that is the case, then the government also cannot be permitted to exist, since the majority of those in control of the government will be evil, and will rule despotically over the good minority. Democracy in particular cannot be permitted, since the minority of good people would be subjugated to the democratic control of the evil majority. Evil people, who wish to do harm without fear of retribution, would inevitably control the government, and use its power to do evil free of the fear of consequences.
+Üçüncü ihtimal ise *çoğu* insan kötü ve az insanın iyi olduğu durum. Eğer durum buysa, o zaman hükumetin olmasına yine izin verilemez, çünkü hükumetin kontrolünü elinde tutanların çoğunluğu kötü olacak ve iyi azınlık üzerinde despot bir yönetim uygulayacaktır. İyi insanlar azınlığının, kötü çoğunluğun demokratik kontrolü altına alınacakları gerekçesiyle özellikle demokrasiye izin verilemez. Cezalandırılma korkusu olmadan kötülük yapmak isteyen kötüler, kaçınılmaz şekilde hükumeti kontrol ederlerdi ve bu gücü ceza almadan kötülüklerini yapmak için kullanırlardı.
 
-Good people do not act morally because they fear retribution, but because they love virtue and peace of mind – and thus, unlike evil people, they have little to gain by controlling the government. In this scenario, then, the government will inevitably be controlled by a majority of evil people who will rule over all, to the detriment of all moral people.
+İyi insanlar cezalandırılmaktan korktukları için değil erdemi ve huzuru sevdikleri için ahlaka aykırı davranmıyorlar - ve bu sayede, kötü insanların aksine, hükumeti kontrol etmenin onlara kazandıracağı çok az şey var. Öyleyse, bu senaryoda, hükumet kaçınılmaz şekilde ahlaklı insanların zarar göreceği şekilde, kötü insanlar çoğunluğu tarafından yönetilecek.
 
-The fourth option is that most people are good, and only a few are evil. This possibility is subject to the same problems outlined above, notably that evil people will always want to gain control over the government, in order to shield themselves from just retaliation for their crimes. This option only changes the *appearance* of democracy: because the majority of people are good, evil power-seekers must lie to them in order to gain power, and then, after achieving public office, will immediately break faith and pursue their own corrupt agendas, enforcing their wills through the police and the military.[^7] Thus the government remains the greatest prize to the most evil men, who will quickly gain control over its awesome power – to the detriment of all good souls – and so the government cannot be permitted to exist in this scenario either.
+Dördüncü seçenek ise çoğunluğun iyi, azınlığın kötü olduğu durum. Bu olasılık da yukarıda özetlenen aynı sorunlara tabi olacaktır, özellikle kötü olanlar, suçlarına karşı hükumet olmanın gücünü kalkan olarak kullanmak amacıyla hükumetin kontrolünü ele geçirmeyi isteyecektir. Bu seçenek ise yalnızca demokrasinin *görünüşünü* değiştirecektir: Çünkü insanların çoğunluğu iyidir, iktidar arzulayan kötüler bu gücü almak için iyilere yalan söylemek zorundadırlar, istediklerini ele geçirince ise, hemen kabuklarını kıracaklar ve kendi yolsuzluk arzularını takip ederek iradelerini polis ve ordu aracılığıyla yerine getireceklerdir.[^7] Böylece hükumet, bu harika kuvveti hızlıca ele geçirecek en kötü adamlara en büyük ödül olarak kalır - tüm iyi ruhların zararına - ve bu sebeple hükumetin varlığına bu senaryoda da izin verilemez.
 
-It is clear, then, that there is no situation under which a government can logically or morally be allowed to exist. The only possible justification for the existence of a government would be if the majority of men are evil, but all the power of the government is always controlled by a minority of good men.[^8]
+Gayet açık ki, bahsedilen durumlarda, bir hükumetin var olmasına izin verilebilecek hiçbir mantıksal veya ahlaki durum yoktur. Bir hükumetin varlığının tek olası nedeni, insanların çoğunluğunun kötülük yapması; ancak hükumetin tüm gücünün, her zaman iyi adamların azınlığı tarafından kontrol edilmesidir.[^8]
 
-This situation, while interesting theoretically, breaks down logically because:
+Bu durum teorik olarak ilginç olsa da pratikte çalışmaz, çünkü:
 
-1. The evil majority would quickly outvote the minority or overpower them through a coup;
-2. There is no way to ensure that only good people would always run the government; and,
-3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
+1. Kötü çoğunluk başlarındaki azınlıktan uzaklaşacak ya da bir darbe ile onları yerinden indireceklerdi;
+2. Hükumetin her zaman sadece iyi olanların elinde olacağından emin olmanın bir yolu yoktur; ve,
+3. Ve bunun tüm devletler tarihinde karşılaşılmış tek bir örneği dahi yoktur.
 
-The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
+Bu noktadaki mantık hatası daima hükumeti savunma kısmında yapılır, hayali yaklaşım kolektif ahlak yargılarının her gruba uygulanıp * onları yöneten gruba uygulanmamasıdır*. Eğer insanların yarısı kötü niyetlilerden oluşuyor ise, öyleyse * en az * onları yönetenlerin yarısı da kötü niyetlidir.[^9] Bu yüzden, kötülüğün varlığı asla hükumetin var olmasını gerektirmez.
 
-If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
+Eğer kötülük yoksa, hükumetin olması gereksizdir. Eğer kötülük varsa da hükumet, var olmasına izin verilemeyecek kadar tehlikelidir.
 
-Why is this error so prevalent?
+Bu hata neden bu kadar yaygın?
 
-There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+Burada üzerine bahsedilebilir birkaç nedeni vardır. Birincisi, hükumet kendisini ahlaki otoriteler olarak kabul edilen resmi okul öğretmenleri şeklinde tanıtır. Böylece, *ahlak* ve *otorite* ilk olarak hükumet ile ilişkilendirilmiştir - sonrasında tekrar tekrar bilenerek güçlendirilen bir ilişkilendirme.
 
-The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
+İkinci olarak, hükumet asla çocuklara gücünün kökünü, kaynağını, öğretmez - şiddet - bunun yerine başka bir sosyal kurum gibi davranır, bir iş yeri ya da kilise ya da hayır kurumu gibi, ama daha ahlaki.
 
-The third is that the prevalence of religion and propaganda has always blinded men to the evils of the government – which is why rulers have always been so interested in furthering the interests of churches and state “education.” In the religious world-view, absolute power is synonymous with perfect virtue, in the form of a deity. In the real political world of men, however, increasing power always means increasing evil. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. There are many more reasons, of course, but these are among the deepest.[^10]
+Üçüncü olarak ise, din ve propagandanın yaygınlığı her zaman insanları hükumetin kötülüklerine kör etmiştir - Bu nedenle yöneticiler her zaman kiliselerin çıkarlarını geliştirmeye ve devlet ''eğitimine'' çok ilgi duyuyorlardı. İnsanların gerçek politika dünyasında ise, her nasılsa, artan güç artan kötülük anlamına gelir. İnanç ile birlikte, aynı zamanda, olanların hepsi iyi olmalı düşüncesi - böylelikle, siyasal iktidarı alt etme mücadelesi ilahi iradeyle savaşıyor. Elbette çok daha fazla sebep sayılabilir ancak bunlar en derin olanların arasında.[^10]
 
-At the beginning of this section, I mentioned that people generally make *two* errors when confronted with the idea of dissolving the government. The first is the belief that governments are necessary because evil people exist. The second is the belief that, in the absence of governments, any social institutions that arise will inevitably take the place of governments. Thus, Dispute Resolution Organisations (DROs), insurance companies and private security forces are all considered potential cancers that will swell and overwhelm the body politic.
+Bu bölümün başlangıcında, hükumetin dağılma fikri ile karşı karşıya kaldıklarında insanların genelde *iki* hata yaptığından bahsetmiştim. Birincisi, kötü insanlar var olduğu için hükumetler bir gerekliliktir. İkincisi de, hükumetlerin yokluğunda ortaya çıkan herhangi bir sosyal kurumun, kaçınılmaz olarak, hükumetlerin yerine geçeceğine olan inançtır. Thus, Dispute Resolution Organisations (DROs), insurance companies and private security forces are all considered potential cancers that will swell and overwhelm the body politic.
 
 This view arises from the same error outlined above. If *all* social institutions are constantly trying to grow in power and enforce their wills on others, then by that very argument a centralised government cannot be allowed to exist. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
 
@@ -103,7 +103,7 @@ Fleeing from imaginary devils into the protective prisons of governments only en
 
 [^5]: See *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
 
-[^6]: A perfect balance of good and evil is practically impossible.
+[^6]: İyi ve kötünün mükemmel dengesi neredeyse imkansızdır.
 
 [^7]: This is the current situation in democracies, of course.
 
