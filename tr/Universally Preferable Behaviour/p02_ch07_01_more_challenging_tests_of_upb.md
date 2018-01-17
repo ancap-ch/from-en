@@ -16,7 +16,7 @@ In addition, if it is always preferable to use force, then crimes such as rape a
 
 If, on the other hand, we say that violence is bad, then we open up the possibility of self-defence If it is a UPB-compliant statement to say that violence is evil, then we know that, since that which is evil can be prevented through the use of violence, the use of violence to *oppose* violence is morally valid.
 
-Bu nedenle, şiddetin kötülük olduğunu bildiğimiz için, karşı koymak için güç kullanabileceğimizi biliyoruz. Eğer bir olayı kötü olarak tanımlıyorsak, ama kişiyi bunu yapmaktan alıkoyamıyorsak, o zaman biz ahlak filozofu değil, sadece peşin hükümlü arkeologlarız. This would be akin to a medical theory that said that illness is bad, but that it is evil to attempt to prevent or cure it – which would make no sense whatsoever.
+Bu nedenle, şiddetin kötülük olduğunu bildiğimiz için, karşı koymak için güç kullanabileceğimizi biliyoruz. Eğer bir olayı kötü olarak tanımlıyorsak, ama kişiyi bunu yapmaktan alıkoyamıyorsak, o zaman biz ahlak filozofu değil, sadece peşin hükümlü arkeologlarız. Bu, hastalığın kötüye gittiğini, ancak bunun önlenmesi ya da iyileştirilmesi girişiminde bulunulmaktan kötüye gittiğini söyleyen tıbbi bir teori ile benzerlik gösterecektir - ki bu hiç de anlam ifade etmez.
 
 Also, if human beings cannot validly act to prevent harm to themselves, then actions such as inoculations, wearing gloves in the cold, putting on sunscreen or insect repellent, building a wall to prevent a landslide, brushing one’s teeth, wearing shoes and so on are all immoral actions. Bob ve Doug'a dönersek, kendilerine karşı savunmanın daima yanlış olduğuna dair ahlaki bir argüman verirlerse sonuç ne olur?
 
