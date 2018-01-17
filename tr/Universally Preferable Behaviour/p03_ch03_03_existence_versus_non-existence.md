@@ -44,21 +44,21 @@ Eğer bu adama parayı ödemezsem, parayı almak için evime başka bir adam gö
 
 Normalde eğer bir adamla silahla evime gelir ve paramı isterse kendimi korumak için şiddete başvurma hakkım var. Fakat bu durumda onun giydiği kostüm ve kurgusal varlığı temsil etmesi yüzünden kendimi korumak için şiddete başvurmaya iznim yok.
 
-Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
+Şimdi, ben bu gece evinize "yüksel elf Narnia" kıyafeti ile gelsem ve "Keder Kraliçesi"ne borçlu olduğunuz parayı talep etsem; cadılar bayramı olmadığını varsayalım, şaşkınlıkla bana bakmanıza ve mülkünüzden uzak durmamı söylemenize izin verilir.
 
 Eğer paramı almaya gelen adama parayı ödemezsem, bir silah çıkarıp, göğsüme doğrultmaya, ve beni kaçırmaya- eğer direnirsem vurmaya hakkı var. Beni şiddetle en sert ve vahşi işkencelere, ve sürekli tecavüze maruz kalacağım, küçük bir hücreye yıllarca kapatabilir, ta ki beni serbest bırakmaya karar verene kadar.
 
-İlginçtir ki, eğer bir adamın kanunlara uygun bir şekilde bana borcu olsaydı, onu kaçırmaya ve yıllarca işkence ve tecavüze maruz bırakmaya hakkım olmazdı. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+İlginçtir ki, eğer bir adamın kanunlara uygun bir şekilde bana borcu olsaydı, onu kaçırmaya ve yıllarca işkence ve tecavüze maruz bırakmaya hakkım olmazdı. Bu yüzden vergilendirme ETD sistemini tamamen ihlal eder çünkü bu güç kullanımını devreye sokarak zorla mülk aktarımıdır.
 
 Çalmak, kanıtladığımız gibi, kötüdür.
 
 Einstein fizikde ışığın hızının sabit olduğunu iddia ederek ve ispatlayarak köklü değişiklikler yaptı.
 
-We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
+Çalmanın daima kötü olduğu iddiasını - ve kanıtını - kabul ederek tüm dünyada devrimi gerçekleştirebiliriz.
 
 ### Hükûmet, Din Ve ETD
 
-When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
+ETD sistemini ele alıp bunu hükümet ve din ile ilgili ahlaki önermelere uyguladığımız zaman bazı çok ilginç sonuçlar ortaya çıkar.
 
 Devletin iktidarını haklı çıkarmak için en sık kullanılan öneri "hükümet paranızı almak hakkına" sahiptir. Ancak, bu tamamen ve kesin olmayan bir yanlış beyandır. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB nesnel ifade ve daha fazla tutarlılık gerektirir. Ahlaki kurallar her zaman, her yerde ve herkes için aynı olmak zorunda olduğu için, bu kuralı şu şekilde yeniden ifade etmeliyiz:
 
@@ -70,9 +70,9 @@ If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which ful
 
 Doug'un tepkisi ne olurdu? Unutmayın, ETD'ye göre Bob için geçerli olan şeyler Doug için de geçerli olmalıdır. Kaçınılmaz olarak, Doug: "Öyle mi?" cevabını verirdi. Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
 
-As you can see, if *Bob* has the right to make up imaginary obligations and impose them on Doug, then *Doug* has the right to make up imaginary obligations and impose them on Bob. Açıkçası, derhal mükemmel bir çıkmaz içinde sonlandırmalıyız. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Virtue can thus only be enabled by vice, which is impossible – and we have opposing moral rules for two human beings in the same circumstance, which UPB instantly rejects as invalid.
+As you can see, if *Bob* has the right to make up imaginary obligations and impose them on Doug, then *Doug* has the right to make up imaginary obligations and impose them on Bob. Açıkçası, derhal mükemmel bir çıkmaz içinde sonlandırmalıyız. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Erdem, bu yüzden yalnızca - imkansız olan - ahlak bozukluğu ile geçerli kılınabilir, ve aynı durumda olan iki insanoğlu için ahlak kurallarına karşı çıkarız, ki UPB onu anında geçersiz olarak geri çevirir.
 
-In other words, every imaginary abstract justification for the use of force can be countered by another imaginary abstract justification for the use of force. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Thus neither of us can possess the ability to impose our imaginary obligations on others.
+Diğer bir deyişle, güç kullanımı için hayali soyut her gerekçeye güç kullanımı için hayali soyut bir diğer gerekçeyle karışılık verilebilir. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Bu yüzden bizim hiçbirimiz hayali zorunluluklarımızı diğerlerine zorla kabul ettirme yeteneğine sahip olamayız.
 
 #### Din Ve ETD
 
