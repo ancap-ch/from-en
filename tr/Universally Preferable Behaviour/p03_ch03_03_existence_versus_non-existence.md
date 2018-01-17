@@ -8,11 +8,11 @@ Bu köleliği bir erdem olarak gören kölelerin sahipleri için çok daha etkil
 
 Öyleyse din ve devlet mitolojileri nüfusu kontrol etme maliyetini önemli ölçüde azaltan kurgulardır, onlar kurumsallaşmış şiddetin korkunç makinesinin yağı ve yakıtıdır.
 
-Dünyanın her yerinde, yöneticiler nüfusun çok küçük bir kesimini oluşturur. Nüfusun yüzde bir veya ikisinin herkes üzerinde kontrol kurması nasıl mümkün olabilmiştir? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Dünyanın her yerinde, yöneticiler nüfusun çok küçük bir kesimini oluşturur. Nüfusun yüzde bir veya ikisinin herkes üzerinde kontrol kurması nasıl mümkün olabilmiştir? Tabi silahlar üzerinde mutlak bir tekel vardır fakar bu tekele karşı koymak görece kolaydır çünkü çoğu hükümet servet kazanmak için dünyanın her yerine silah satışı yapar.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+Üzücü gerçek tüm insanların uluslar, tanrılar, kültürler ve hükümetler gibi kurgusal varlıklarca köleleştirilmesidir.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+İnsanlık onurumuz iç güdüsel olarak başka bir insanoğluna doğrudan ve zoraki köleliğe karşı isyan eder - ancak, biz *mitolojiye* köleliği neredeyse bir zevk olarak görürüz.
 
 Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
 
