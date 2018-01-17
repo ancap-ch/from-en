@@ -20,7 +20,7 @@ Bunun anlamı, girişimcilerin hayal ürünü ürünlerinin beklenen gelirlerine
 
 Ve bu da, kusursuz olmayan pazarlarda, girişimcilere çok yüksek miktarda kâr sağlayan yüksek artışlar olabileceği anlamına gelmektedir. Buda yatırımcıları özellikle belli bir piyasaya girmek için çeker, herhangi bir giriş koşulunun olmadığı yerde kar marjları da piyasa oranlarına ulaşana kadar sıkışır. Bu süreçte, maliyetler aşağı çekilir ancak tüketici fiyatları daha da artırılır, böylece tüketiciler bu süreçte nihai kazananlar haline getirilir.
 
-Dolayısıyla herhangi bir anlamda bir kutu piyasa fiyatının, resmin nihai değeriyle ilgisi çok az olduğu konusunda bir paradoks değildir. Boya kutusu, resimlerin tahmini değerinden kısmen türetilen bir fiyatla pazarda işlem görür. Similarly, the coca leaves that will eventually end up in a nostril on Wall Street *are valued because the end product is valued.*
+Dolayısıyla herhangi bir anlamda bir kutu piyasa fiyatının, resmin nihai değeriyle ilgisi çok az olduğu konusunda bir paradoks değildir. Boya kutusu, resimlerin tahmini değerinden kısmen türetilen bir fiyatla pazarda işlem görür. Benzer şekilde, en sonunda birinin burun deliğinde sonuçlanacak olan koka yaprakları, Wall Street'te *değerlidir çünkü son ürün kıymetlidir*
 
 Eğer devlet bu alanların yarısını yakarsa, bu, son ürünün fiyatını iki katına çıkarmayacaktır. Bunun yerine, üreticilerin tüketici pazarlarında nihai iyi niyet kazanması için gereken maliyeti arttıracaktır. Öncelikle hükümet baskısının bir sonucu olarak, illegal uyuşturucu üretimi ve dağıtımında paylar çok büyük olduğu için, üreticiler, fiyatlar değişmeden önce olduğu gibi devam etmeyi iki kere düşünmezler: bu yalnızca gelirlerinde küçük bir çöküşe neden olur.
 
