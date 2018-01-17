@@ -2,7 +2,7 @@
 
 ## Ek A: Özetle ETD
 
-Below, please find a summation of the core argument for morality.
+Aşağıda, lütfen ahlak için temel savının özetini bulunuz.
 
 1. Gerçeklik nesnel ve tutarlıdır.
 2. "Mantık", gerçekliğin tutarlılığından türetilmiş objektif ve tutarlı kurallar dizisidir.
