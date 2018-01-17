@@ -18,7 +18,7 @@ Bununla birlikte, "hükümet"in varlığı "tanrı"nın varlığından daha fazl
 
 "Hükümet" hakkında konuştuğumuz zaman, *aslında* konuştuğumuz şey "küçük bir azınlığın zorbalığıdır"
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+Fizik ve biyoloji alanlarında iyi kanıtlanan "kendiliğinden düzen" fikri, toplum dünyasında bizim için büyük ölçüde kavranılamaz kalmaya devam etmektedir.
 
 However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
 
