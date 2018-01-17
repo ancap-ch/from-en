@@ -66,7 +66,7 @@ Diğer bir deyişle, dalmadan önce, "Ne gerek var?" diye sormaya değer.
 
 Neden ahlaki teorileri tanımlamayı der ediyorsunuz? Elbette iyi insanlar onlara ihtiyaç duymaz ve kötü insanlar onlara danışmazlar. İnsanlar neyi tercih ediyorlarsa onu yaparlar ve gerçeklerden sonra gerektiği kadar bahane uydururlar -insanlara ahlak hakkında ders vermenin ne gereği var?
 
-Tabii ki, ahlaksız bir insanın kendi kişisel çıkarları için size saldırma tehlikesi her zaman vardır. Ayrıca, temiz ve sağlıklı bir yaşam sürmenize rağmen, zamanınızdan önce kansere yenik düşebilirsiniz - eski bilim, ahlak bilimini, tıp biliminin beslenme ve egzersiz bilimlerini yaptığından daha fazla geçersiz kılmaz. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
+Tabii ki, ahlaksız bir insanın kendi kişisel çıkarları için size saldırma tehlikesi her zaman vardır. Ayrıca, temiz ve sağlıklı bir yaşam sürmenize rağmen, zamanınızdan önce kansere yenik düşebilirsiniz - eski bilim, ahlak bilimini, tıp biliminin beslenme ve egzersiz bilimlerini yaptığından daha fazla geçersiz kılmaz. Akılcı bir ahlak biliminin kanıtlanabilir bir etkisi, hırsızlık, cinayet ve tecavüz gibi ahlak dışı fiiller için *suffering* ihtimalinizi düşürmek olmalıdır ve bu kritere göre düşünüldüğünde, bu kitabın üçüncü bölümünde bu bağlamda önerilen ahlâki kurallar da değerlendirilmiştir.
 
 [^10]: Elbette, eğer açlıktan ölmenin eğişinde ehil olmayan ve şaşkına dönmüş bir insan olsam, hapse atılma benim durumum için bir gelişme olabilirdi.
 
