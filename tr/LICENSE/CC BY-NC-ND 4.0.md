@@ -1,6 +1,6 @@
 ## creative commons
 
-# Atıf-Kar amacı gütmeyen-NoDerivatives 4.0 Uluslararası
+# Atıf-GayriTicari-Türetilemez 4.0 Uluslararası
 
 Creative Commons Corporation ("Creative Commons") bir hukuk firması değildir ve yasal hizmetler veya yasal tavsiyeler vermez. Creative Commons kamu lisanslarının dağıtımı, bir avukat-müvekkil ilişkisi veya başka bir ilişki oluşturmaz. Creative Commons lisanslarını ve ilgili bilgileri “olduğu gibi” temeline dayanarak sunar. Creative Commons kendi inisiyatifine dayanarak, herhangi bir şahıs veya coğrafi bölgeye herhangi bir özellik, ürün veya hizmetin tedarikini veya miktarını kısıtlama hakkını saklı tutar. Creative Commons, kullanımından kaynaklanan hasarlar için mümkün olan en geniş kapsamlı sorumluluğu reddetmektedir.
 
@@ -12,7 +12,7 @@ Creative Commons lisansları, içerik oluşturucuların ve diğer hak sahiplerin
 
 * **Halka yönelik hususlar:** Kamu lisanslarından birisini kullanarak bir lisans veren, lisanslı materyali belirtilen şartlar ve koşullar altında kullanmaya kamuoyu izni verir. Eğer lisans verenin izni herhangi bir nedenle gerekli değilse–örneğin, geçerli bir istisna veya telif hakkı kısıtlaması nedeniyle–o zaman bu kullanım lisans tarafından düzenlenmez. Lisanslarımız sadece telif hakkı ve lisans verenin verebileceği bazı diğer haklar altında izin verir. Lisanslı materyalin kullanımı, materyalde telif hakkı veya diğer haklara sahip olduğu için de dahil olmak üzere başka nedenlerle hala kısıtlanabilir. Bir lisans veren, tüm değişikliklerin işaretlenmesini veya açıklanmasını istemek gibi özel istekte bulunabilir. Lisanslarımız tarafından gerekli olmasa da, makul durumlarda bu isteklere saygı göstermeniz teşvik edilmektedir. [Kamu için diğer hususlar](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees).
 
-## Creative Commons Atıf-Kar amacı gütmeyen-NoDerivatives 4.0 Uluslararası Lisansı
+## Creative Commons Atıf-GayriTicari-Türetilemez 4.0 Uluslararası Kamu Lisansı
 
 Lisanslı hakları (aşağıda tanımlanan) kullanarak, bu Creative Commons Attribution-noncommerial-noderivativers 4.0 Uluslararası Kamu Lisansı ("Kamu Lisansı") şart ve koşullarına bağlı olmayı kabul etmektesiniz. Bu Kamu Lisansı bir sözleşme olarak yorumlanabilir ölçüde, bu hüküm ve koşulları kabul etmeniz açısından Lisans Hakları verilir ve lisans veren, bu Şartlar ve koşullar altında lisanslı malzeme kullanılabilir hale getirilmesinden aldığı yararları dikkate alarak bu hakları verir.
 
@@ -57,15 +57,15 @@ a. ***Lisans fonu.***
 
 4. **Medya ve formatlarda; teknik değişiklikler yapılabilir.** Lisans veren, lisanslı hakları tüm medya ve biçimlerde kullanmak için şu anda bilinen veya gelecekte yaratılmış olsun ve teknik değişiklikler yapmak için gerekli izni verir. Lisans veren, etkin teknolojik önlemleri aşmak için gerekli teknik değişiklikler de dahil olmak üzere, lisanslı haklarını kullanmak için gerekli teknik değişiklikleri yapmaktan sizi alıkoymak için herhangi bir hak veya yetki beyan etmemeyi kabul eder ve/veya feragat eder. Bu Genel Lisansın amaçları doğrultusunda, yalnızca bu Bölüm 2(a)(4) tarafından yetkilendirilmiş değişiklikleri yapmak, hiçbir zaman Uyarlanmış Malzeme üretmez.
     
-    1. **Downstream recipients.**
+    1. **Aşağı yönlü alıcılar.**
         
-        A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+        A. **Lisans Veren tarafından Teklif - Lisanslı Materyal.** Lisanslı Materyali alanlar, işbu Kamu Lisansı şart ve koşulları çerçevesinde Lisanslı Hakları kullanmak üzere Lisans Verenden otomatik olarak bir teklif almaktadır.
         
-        B. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+        B. **Aşağı yönlü sınırlamanın olmayışı.** Bunun herhangi bir Lisanslı Materyal alıcısının Lisansa Konu Hakları kullanımını sınırlaması hâlinde, Lisanslı Materyal üzerinde hiçbir ek veya farklı şart veya koşullar teklif edemez veya dayatamaz veya Lisanslı Materyale Etkin Teknolojik Önlemler uygulayamazsınız.
     
-    2. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+    2. **Onaylamama.** İşbu Kamu Lisansındaki hiçbir husus, Lisans Veren veya Bölüm 3(a)(1)(A)(i) de öngörüldüğü şekilde atıfta bulunacak diğer kişiler ile sizin veya kullanımınızın bağlantılı olduğu, size veya kullanımınıza onlar tarafından sponsor olunduğu, sizin veya kullanımınızın desteklendiği veya size veya kullanımınıza resmi bir statü verildiğini iddia ve ima etmeye ilişkin bir izin olarak yorumlanmayacaktır.
 
-b. ***Other rights.***
+b. ***Diğer haklar.***
 
 1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
 
