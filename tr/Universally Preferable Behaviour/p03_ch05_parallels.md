@@ -12,11 +12,11 @@ We have yet to apply this same illumination to our conceptions of society – bu
 
 We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
 
-However, “the government” no more exists than “god” exists.
+Bununla birlikte, "hükümet"in varlığı "tanrı"nın varlığından daha fazla değil.
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+"Tanrılar" hakkında konuştuğumuz zaman aslında konuştuğumuz şey "rahiplerin fikirleridir."
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+"Hükümet" hakkında konuştuğumuz zaman, *aslında* konuştuğumuz şey "küçük bir azınlığın zorbalığıdır"
 
 The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
 
@@ -32,11 +32,11 @@ When we choose to run society according to *statist* moral mythologies, the resu
 
 We can either choose virtue or compulsion.
 
-We cannot have both.
+Biz her ikisini de yapamayız.
 
-### Solutions
+### Çözümler
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Devletin hem lüzumlu hem de ahlaki bir kurum olduğuna inanmayı seçebiliriz. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
 
 Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
 
@@ -44,11 +44,11 @@ As science began to practically postulate a universe that could run without a go
 
 Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+Priests did this during the onset of the scientific revolution. Tanrı olmadan, hayatın bir anlamı yoktur. Tanrı olmadan, insanların ahlakı yoktur. Tanrı olmadan, ruhlarımız kurtulamaz. Tanrı olmadan, dünya kaos ve kötülüğe düşer.
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Tabii ki, hiç birisi gerçek olmamıştır. Aslında, oldukça *tersi* gerçek oldu. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
 
-The fall of God was the rise of mankind.
+Tanrının çöküşü insanoğlunun yükselişi oldu.
 
 In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
 
@@ -58,7 +58,7 @@ The way to oppose imaginary entities is with relentless truth. The way to oppose
 
 The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
 
-### The Future
+### Gelecek
 
 Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
 
@@ -66,10 +66,10 @@ Thus a man who believes that bullying is a good way to get what he wants tends t
 
 In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
 
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+The root moral premises of a culture thus dictate its inevitable future. Baskı üzerine inşa edilmiş kültür her zaman daha zorlayıcı hale gelecektir. A culture built on rational liberty will always become less coercive.
 
-That is why the delineation of a rational framework for ethics is so essential.
+Bu, ahlaki kurallar için bir mantık çerçevesini resmetmenin önemli olma sebebidir.
 
-What we believe is what we become.
+İnandığımız şey dönüştüğümüz şeydir.
 
 Eğer yalanlara inanırsak, köle oluruz.
