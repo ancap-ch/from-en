@@ -18,7 +18,7 @@ Açık bir şekilde, “sahtekarlık iyidir” ilkesi hem Doug hem de Bob taraf�
 
 UPB, bu olasılığı yok etmektedir, aks, i takdirde geçerli bir ahlaki teori aynı koşullar altında karşıt eylemler isteyemez.
 
-If Doug commits fraud on Bob with the justification that “it is good to lie to get what you want,” then clearly it must also be good to be honest as well, since it is impossible to get what you want by lying unless other people are willing to assume your honesty. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
+Doug, eğer "istediğini elde edebilmek için yalan söylemek normaldir" dayanağıyla Bob'u dolandırırsa, aynı zamanda dürüst gözükmenin de önemi ortaya çıkar çünkü diğer taraf sizin dürüst biri olduğunuzu düşünmeye istekli olmadığı sürece, yalan söyleyerek istediğinizi elde edemezsiniz. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
 
 Dolandırıcılığın yanlış olduğunu bu yüzden biliyoruz.
 
