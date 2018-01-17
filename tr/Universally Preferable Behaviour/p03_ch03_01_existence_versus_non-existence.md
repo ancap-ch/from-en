@@ -68,7 +68,7 @@ The analogy is incorrect, because having a Ph.D. or photocopying a doctorate doe
 
 “Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Bu çok ilginç bir noktayı açığa çıkarır, bu görüşlerin gerçekliği değiştirip değiştiremeyeceği sorusu.
 
 ### Düşünceler ve Gerçeklik
 
