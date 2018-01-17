@@ -1,6 +1,6 @@
-## Preface to the First Edition
+## 第一版前言
 
-The collapse of socialism across Eastern Europe—as manifested most dramatically by the events of the forever memorable November 9, 1989, when the Germans of East and West reunited, moved and overjoyed, on top of the Berlin Wall—has added more support and urgency to the central thesis of this volume than I had ever hoped for.
+东欧社会主义的解体，最引人注目的是1989年11月9日的事件，当时东德和西德在柏林墙的顶端重新团聚，激动万分，欣喜若狂，为这本书增加了比我所期望的更多支持和紧迫感。
 
 Whether the following studies deal with economic topics such as employment, interest, money, banking, business cycles, taxes, public goods, or growth; with philosophical problems as the foundations of knowledge, and of economics and ethics in particular; or the reconstruction and theoretical explanation of historical and sociological phenomena such as exploitation, the rise and fall of civilizations, international politics, war, imperialism, and the role of ideas and ideological movements in the course of social evolution—each ultimately contributes to but one conclusion: The right to private property is an indisputably valid, absolute principle of ethics and the basis for continuous “optimal” economic progress. To rise from the ruins of socialism and overcome the stagnation of the Western welfare states, nothing will suffice but the uncompromising privatization of all socialized, that is, government, property and the establishment of a contractual society based on the recognition of the absoluteness of private property rights.
 
