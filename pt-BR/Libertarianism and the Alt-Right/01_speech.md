@@ -6,7 +6,7 @@ O núcleo teórico e irrefutável da doutrina libertária é simples e claro e e
 
 Sem uma harmonia perfeita de todos os interesses, os conflitos em relação aos recursos escassos só podem ser evitados se todos os recursos escassos forem atribuídos como propriedade privada e exclusiva para algum indivíduo específico ou grupo de indivíduos. Only then can I act independently, with *my* own things, from you, with *your* own things, without you and me clashing.
 
-Mas quem possui o recurso escasso como sua propriedade privada e quem não? Primeiro: Cada pessoa é proprietária de seu corpo físico que somente ela e ninguém mais controla diretamente. And second, as for scarce resources that can be controlled *only* indirectly[^1]: Exclusive control[^2] is acquired by and assigned to that person, who appropriated the resource in question *first* or who acquired it through voluntary[^3] exchange from its *previous* owner. For only the *first* appropriator of a resource[^4] can possibly acquire and gain control over it without conflict, i.e., peacefully. Otherwise, if exclusive control is assigned instead to *latecomers*, conflict is not avoided but contrary to the very purpose of norms made unavoidable and permanent.
+Mas quem possui o recurso escasso como sua propriedade privada e quem não? Primeiro: Cada pessoa é proprietária de seu corpo físico que somente ela e ninguém mais controla diretamente. E em segundo, quanto aos recursos escassos que só podem ser controlados indiretamente: o controle exclusivo é adquirido e atribuído a essa pessoa, que se apropriou primeiro do recurso em questão ou que o adquiriu através de troca voluntária de seu proprietário anterior. Pois somente o primeiro apropriador de um recurso pode possivelmente adquirir e obter controle sobre ele sem conflito, ou seja, pacificamente. Otherwise, if exclusive control is assigned instead to *latecomers*, conflict is not avoided but contrary to the very purpose of norms made unavoidable and permanent.
 
 Before this audience I do not need to go into greater detail except to add this: If you want to live in peace with other people and avoid all physical clashes and, if such clashes do occur, seek to resolve them peacefully, then you must be an anarchist or more precisely a private property anarchist, an anarcho-capitalist or a proponent of a private law society.
 
@@ -57,7 +57,7 @@ The same egalitarian, or as the liberallala-libertarians themselves prefer call 
 2. não presuma o ódio à liberdade; 
 3. não presuma objetivos diferentes;
 4. não presuma ignorância;
-5. don’t regard anyone as an enemy.”
+5. não considere ninguém como inimigo."
 
 Now, quite apart from the fact that Tucker does not seem to follow his own advice in his belligerent condemnation of the entire Alt-Right as liberty-hating fascists, I find his exhortations truly astounding. They may be good advice vis-à-vis people just sprung up from nowhere, without any traceable history whatsoever, but vis-à-vis real people with a recorded history they strike me as hopelessly naïve, unrealistic, and outright counterproductive in the pursuit of libertarian ends. For I (and I assume everyone else here) know of and have met many people in my life who *are* ignorant, who *do* have different, un-libertarian goals, and who *do* hate liberty as understood by libertarians – and why in the world should I *not* regard such people as fools or enemies? And why should I *not* hate and *not* be belligerent vis-a-vis my enemies?
 
