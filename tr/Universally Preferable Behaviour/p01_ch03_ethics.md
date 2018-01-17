@@ -22,7 +22,7 @@ Eğer bir şeyin ''ahlaki olarak iyi'' olduğunu söylersem - diğer bir deyişl
 
 Eğer oğluma sırf ben istiyorum diye beysbol oyuncusu olması *gerektiğini* söylersem kişisel bir tercihin aksine evrensel bir ahlaki önerme belirtmiyorum. Beysbol oyuncusu olursa *ahlaki davranmış* yada beysbol oyuncusu olmazsa *ahlak dışı davranmış* olmaz.
 
-However, if I tell him that it is *moral* for sons to obey their fathers, and *immoral* for them to disobey their fathers, then I am proposing a preference that is universal, rather than merely personal – I am trying to turn a “little truth” (*I want you to become a baseball player*) into a “great truth” (*It is immoral for sons to disobey fathers*). *Eğer* ahlaklı davranmak istiyorsa bir beysbol oyuncusu *olmalı* - beysbol oyuncusu olmak ahlaki olduğu için değil daha doğrusu babasına itaat etmek ahlaklı bir davranış olduğu için.
+Fakat, eğer ona oğulların babalarını dinlemesi ahlaki ve babalarına karşı gelmelerinin onlar için edepsizlik olduğunu söylersem, o zaman ben sadece kişiselden daha ziyade evrensel bir öneri sunuyorum. Ben bir "küçük gerçeği" "Senin beyzbol oyuncusu olmanı istiyorum"u "büyük gerçeğe" çeviriyorum. Oğullar için babalarına karşı gelmeleri ahlaki değildir. *Eğer* ahlaklı davranmak istiyorsa bir beysbol oyuncusu *olmalı* - beysbol oyuncusu olmak ahlaki olduğu için değil daha doğrusu babasına itaat etmek ahlaklı bir davranış olduğu için.
 
 Evrensel bir tercihten söz ederken, gerçekten tanımladığım şey belirli bir amaç doğrultusunda neyin *nesnel olarak gerekli* veya *zorunlu* olduğudur. *Eğer* yaşamak istiyorsam, caz sevmek zorunda değilim, ama yemek *zorundayım*. ''Yemek'' bir tercih olarak kalır - Yerçekimine uyduğum şekilde yeme *zorunluluğum* yok- ama ''yemek'' istenmemesi mümkün olmayan biyolojik olgulara dayandığından evrensel, objektif ve hayatta kalmak için *bağlayıcı* bir zorunluluktur.
 
@@ -34,7 +34,7 @@ Benzer şekilde, evrensel bir ''daha iyi'' yön diye bir şey yoktur - bu tamame
 
 Çok az insanın *gerçekten* okyanusun içine doğru sürdüğü doğrudur, ama bu birilerinin okyanusun içine doğru sürmesini *gerektiren* evrensel bir doğru olduğu anlamına gelmez. Prensipler demokratik değildir - veya, öyleyseler, öznelcilik derecelendirme problemiyle bir kere daha yüzleşmeli, ve tüm etik kavramını pencereden dışarıya atmalıyız.
 
-“Behaviour” exists in objective reality, outside our minds – the concepts “ought,” “should,” and “preference,” do not exist outside our minds. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
+“Behaviour” exists in objective reality, outside our minds – the concepts “ought,” “should,” and “preference,” do not exist outside our minds. Ancak, objektif gerçeklik içinde “olması” nın varolmaması, “olması” nın tamamen öznel olduğu anlamına gelmemektedir. Gerçeklikte ne bilimsel metodlar nede sayılar vardır, yinede bilim ve matematik görüşe bağlı olarak varlıklarını sürdürür.
 
 ### Kendini Yenen Argümanlar
 
@@ -44,12 +44,12 @@ Ekonomide, bir teori fiyatların aynı anda artıp azalmasını gerektiriyorsa g
 
 Genel olarak, ifade edilirken kendisiyle çelişen hiç bir teori geçerli olamaz. Kendi kendini çürüttüğü için dışarıdan bir çürütme gerektirmez. ''Kare çember'' in var olmadığını saptamak için evrendeki tüm kuytu ve çatlakları yoklamamız gerekmiyor. İfade edilirken kendilerini çürüttükleri için çoğu kavram kendisiyle ters düşer.
 
-If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
+Eğer size karmaşık bir matematiksel kanıt sunarsam ve fark ederseniz, en başında, kanıt iki artı ikinin aynı anda dört ve beş yapması gerçeğine dayanıyorsa, benim kanıtımın geçersiz olduğunu bilmek için daha fazla okumak gerekmez.
 
 Aynı şekilde, daha önce söz edildiği gibi, eğer gelip size '' Ben yokum,'' dersem tezim otomatik olarak kendini yok eder. Size var olmadığımı söylersem açıkça var olurum.
 
 Eğer gelip size ''Doğru diye bir şey yoktur'' dersem, doğru olduğunu düşündüğüm doğrunun var olmadığını iddia eden bir ifade de bulunuyorum. Böylece, argümanım kendini yok eder.
 
-If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
+Eğer size “dil anlamsız” dersem, o zaman ben de kendimle çelişmiş olurum. Sözlü olarak bu dili iletişim amaçlı kurmam anlamsızdır, dil en azından bir anlam ifade etmelidir.
 
-If I tell you that “Your senses are invalid,” then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
+"Senin duyuların geçersiz olduğunu" söylersem, argümanım da kendini yok eder, çünkü işitme duyunu kullanarak işitme duyusunun geçersiz olduğunu söylemiş olurum. Tezimi başarıyla size illettiğimde, işitme duyunuz geçerli olmalıdır. Böylece duyularınızın geçerli olmadığına sizi ikna etmek için duyularınızın geçerli olduğunu varsaymış bulunmaktayım.
