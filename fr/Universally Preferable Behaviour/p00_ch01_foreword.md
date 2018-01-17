@@ -1,6 +1,6 @@
-## Foreword
+## Avant-propos
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+Dans beaucoup de contes de fées, il vit une bête terrible de puissance extraordinaire, un dragon ou un basilic, qui tyrannise les terres environnantes. Les villageois locaux tremblent devant ce monstre; Ils sacrifient leurs animaux, payent de l'argent et du sang dans l'espoir d'apaiser leurs pulsions meurtrières.
 
 Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
 
