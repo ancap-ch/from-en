@@ -68,6 +68,6 @@ Neden ahlaki teorileri tanımlamayı der ediyorsunuz? Elbette iyi insanlar onlar
 
 Tabii ki, ahlaksız bir insanın kendi kişisel çıkarları için size saldırma tehlikesi her zaman vardır. Ayrıca, temiz ve sağlıklı bir yaşam sürmenize rağmen, zamanınızdan önce kansere yenik düşebilirsiniz - eski bilim, ahlak bilimini, tıp biliminin beslenme ve egzersiz bilimlerini yaptığından daha fazla geçersiz kılmaz. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
 
-[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
+[^10]: Elbette, eğer açlıktan ölmenin eğişinde ehil olmayan ve şaşkına dönmüş bir insan olsam, hapse atılma benim durumum için bir gelişme olabilirdi.
 
 [^11]: Nietzsche'nin "iradeden güce" ve Rand'in "insanın hayatına hizmet eden iyidir."
