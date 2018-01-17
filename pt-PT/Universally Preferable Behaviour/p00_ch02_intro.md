@@ -100,7 +100,7 @@ O estabelecimento da verdade limita, inevitavelmente, a fantasia. Limitar a fant
 
 Aqueles que usam fantasias morais para explorar a humanidade sempre lutaram contra vento e mareia, contra aqueles que ameaçam a sua subsistência ao descobrir e divulgar a verdade.
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+Estamos familiarizados com o exemplo da Mafia, que ameaça os potenciais rivais com mutilação e morte, ou o espectáculo de seitas religiosas atacando-se umas às outras, ou um governo atacando a outro.
 
 When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
 
