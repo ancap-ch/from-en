@@ -30,7 +30,7 @@ When we choose to run society according to religious moral mythologies, we end u
 
 When we choose to run society according to *statist* moral mythologies, the results are no different.
 
-We can either choose virtue or compulsion.
+Ya fazileti ya da zorlamacılığı seçebiliriz.
 
 Biz her ikisini de yapamayız.
 
