@@ -1,6 +1,6 @@
 ## Ek Kanıtlar
 
-There are other additional proofs that we can bring to bear on the question of universally preferable behaviour.
+Evrensel olarak tercih edilen davranış sorununu üstlenebileceğimiz başka kanıtlar da bulunmaktadır.
 
 ### Serbest Piyasa Ekonomisi
 
