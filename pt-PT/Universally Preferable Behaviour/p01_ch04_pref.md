@@ -14,7 +14,7 @@ Assim, na ética, como na ciência, na matemática, na engenharia e em todas as 
 
 Se eu disser "eu gosto de sorvete", apenas uma palavra permanece ambígua nessa frase. Claramente, "eu" existe, já que estou expressando uma preferência pessoal. Igualmente claramente, o "sorvete" também existe na realidade. No entanto, a palavra "gosto" é mais problemática.
 
-As preferências não existem objectivamente dentro da realidade. Se você fosse obsessivamente curioso, talvez me pudesse acompanhar e gravar cada vez que eu comia sorvete, o que provavelmente forneceria uma boa base empírica para estabelecer a minha preferência por ele. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+As preferências não existem objectivamente dentro da realidade. Se você fosse obsessivamente curioso, talvez me pudesse acompanhar e gravar cada vez que eu comia sorvete, o que provavelmente forneceria uma boa base empírica para estabelecer a minha preferência por ele. Contudo, poderia existir a possibilidade de que eu fosse de facto um masoquista, e não gostasse mesmo nada, de sorvete e preferisse me torturar com o seu sabor desagradável - e depois confundi-lo, alegando gostar disso.
 
 We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
 
