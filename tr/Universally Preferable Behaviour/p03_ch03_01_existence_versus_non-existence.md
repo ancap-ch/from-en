@@ -56,15 +56,15 @@ Hükümetin, toplumun geri kalanına karşıt ahlaki kurallar çerçevesinde har
 
 Benzer şekilde, ben askerler için adam öldürmenin hükümet temsilcileri için ise hırsızlığın ahlaki olduğunu söylersem, "askerler" ve "hükümet temsilcileri" ahlaki kategoriler olarak *tamamen geçersizdirler*.
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+Eğer ben kare şeklinde bir dairenin çalma hakkı olduğunu söylersem, ben sadece olmayan bir şeyin kendisiyle çelişen bir şeyi yapmaya hakkı olduğunu söylemişimdir - tamamen anlamsız bir ifade, fakat birileri hala ilginç bir şekilde siyasetin "geçersiz bölge"sinde zorluyor.
 
-İkinci el dükkânında bir askerin kıyafetini alıp giyersem, tersine ahlaki kuralların geçerli olduğu alternatif bir evren yarattığım anlamına gelmez. Kostümü giymeden hemen önce, cinayet işlemek benim için yanlıştı, ne zaman benim için *doğru* oldu? Pantolonu giydiğim zaman mı? Eğer pantolonları giymiş olsam, ama yeleği giymemiş olsaydım? Ya sadece botlardan tekini giymiş olsaydım? Ya iki botu da giymiş olsaydım, ama sadece biri bağlı olsaydı? Ya şapkamı ters takmış olsaydım? Ya karşılaştığım ilk insanın tanıyamayacağı bir üniforma giymiş olsaydım? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Onlar ceketlerini çıkardıkları sırada mı bunu kaybettiler?
+İkinci el dükkânında bir askerin kıyafetini alıp giyersem, tersine ahlaki kuralların geçerli olduğu alternatif bir evren yarattığım anlamına gelmez. Kostümü giymeden hemen önce, cinayet işlemek benim için yanlıştı, ne zaman benim için *doğru* oldu? Pantolonu giydiğim zaman mı? Eğer pantolonları giymiş olsam, ama yeleği giymemiş olsaydım? Ya sadece botlardan tekini giymiş olsaydım? Ya iki botu da giymiş olsaydım, ama sadece biri bağlı olsaydı? Ya şapkamı ters takmış olsaydım? Ya karşılaştığım ilk insanın tanıyamayacağı bir üniforma giymiş olsaydım? Beatles grubu "Çavur Biberler" albümünün kapağını basmak için birden adam öldürme hakkına sahip mi oldu? Onlar ceketlerini çıkardıkları sırada mı bunu kaybettiler?
 
 Sözbilime ait soruları sorarım çünkü onlar gerçekten ölümcül derecede ciddiler. Açıkça, askeri bir kostüm insan doğasını değiştirmez sadece bir saç kesimi onu bir ördeğe, bir konsepte ya da bir tanrıya dönüştürür.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+"Aaa, fakat bu kostüm geçersiz çünkü sen bunu ikinci el satan bir dükkandan aldın." diyebilirsin - Askeri üniforma giymek seni doktora diplomasının fotokopisini almanın seni doktor yaptığı kadar bir asker yapar.
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+Benzetme yanlış, çünkü doktora yapmış olmanın ya da doktora diplomasının fotokopisini almış olmanın senin insan olmaklığın hasebiyle tabi olduğun ahlaki kurallardan hiçbirini değiştirme imkanı yoktur.
 
 “Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
 
