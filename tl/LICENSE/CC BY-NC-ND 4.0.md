@@ -83,22 +83,22 @@ a. ***Atribyusiyon.***
     
     A. I-retain ang mga sumusunod kung ito ay sinusuplayan ng Tagapagpapalisensya ng Materyal na Lisensyado:
     
-         i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+         i. identipikasyon ng (mga) gumagawa sa Materyal na Lisensyado at anumang ibang nakalaan para makatanggap ng atribyusiyon, sa anumang rasonableng pamamaraan na nai-rekwest ng Tagapagpapalisensya (kasama na ang pseudonym kung inilaan);
         
-         ii. a copyright notice;
+        ii. isang paalala sa kapyrayt;
         
-         iii. a notice that refers to this Public License;
+        iii. isang paalala na nagre-refer sa Lisensiyang Pampublikong na ito;
         
-         iv. a notice that refers to the disclaimer of warranties;
+        iv. isang paalala na nagre-refer sa disclaimer ng mga warrantiya;
         
-         v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+        v. isang URI o hyperlink sa Materyal na Lisensyado para sa ekstent ng rasonableng pagpa-prakris;
         
     
-    B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+    B. iindika kung Ikaw ay nakapag-modifika sa Materyal na Lisensyado at nag-retain ng indikasyon sa anumang mga nakaraang mga modipikasyon; at
     
-    C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+    C. i-indika ang Materyal na Lisensyado ay naka-lisensya na napapabilang sa Lisensyang Pampubliko, at isama na ang teksto ng, o ang URI o hyperlink sa, Lisensyang Pampubliko na ito.
     
-        For the avoidance of doubt, You do not have permission under this Public License to Share Adapted Material.
+        Para sa pag-iiwas ng pag-aalinlangan, Ikaw ay walang permisyon sa Lisensyang Pampublikong ito na makapag-Share sa Materyal na Kinupkop.
         
     
     1. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
