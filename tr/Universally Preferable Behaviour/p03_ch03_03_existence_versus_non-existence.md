@@ -84,7 +84,7 @@ Burada yukarıdaki konuların aynılarını görüyoruz. Bob Doug'a şöyle der:
 
 Aynı şekilde, eğer bir adam "hükümet" denilen bir tahayyülün benim mülkümü çalmasını meşrulaştırdığını iddia eder ise o zaman ben de benim "anti-hükümet" denilen tahayyülümün mülkümü *korumamı* meşrulaştırdığını iddia edebilirim ve ikimizin gerekçesi de eşit derecede geçerlidir.
 
-If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
+If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. Benim bin dolarımı alabilir, fakat o zaman parayı geri "çalmak" kavramından yararlanabilirim ve onun ahlaki kuramı bize geri verilen sonsuzluğun ve bin doların kalan kısmını harcamayı emreder.
 
 #### UPB ve''Çoğunluk''
 
