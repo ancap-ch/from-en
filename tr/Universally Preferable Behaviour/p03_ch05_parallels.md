@@ -1,4 +1,4 @@
-## Parallels
+## Paraleller
 
 Bilim Devriminden önce, doğal dünyanın merkezindeki bilinçli ve "ahlaki" bir varlık olmaksızın kendini sürdüremeyeceği akla yatkın değildi. Doğaüstü bir arabanın demirlerini izleyen güneş doğdu; ay onun soğuk ve yalnız kardeşiydi. Takımyıldızları tanrıların hikayelerini ve mezarlarını özetledi ve iblislerin öfkeside fırtınaları.
 
@@ -42,7 +42,7 @@ Benzer olan batıl inançlar, şüphesiz insanlık tarihinin gelişmesini gecikt
 
 Bilim, tanrı olmadan sürebilecek bir evreni pratik olarak varsaymaya başladığı zaman, her türlü histeri, dünyanın sonunun yaklaştığı, toplumun “anarşiye” çöktüğü ve medeniyetlerin tüm karşı savaşlara dönüştüğü çıkarımına başladığında, tüm dünyaya karşı bir savaş haline gelirdi.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+Her zaman, iktidarı meşrulaştıran bir sistemde iktidar *olmadan* da işlerliğini sürdürebiliyorsa, bu iktidarı manipüle etmekten fayda sağlayanlar onsuz her şeyin kaybedildiğini haykırır.
 
 Rahipler bilimsel devrimin başlangıcında bunu yaptılar. Tanrı olmadan, hayatın bir anlamı yoktur. Tanrı olmadan, insanların ahlakı yoktur. Tanrı olmadan, ruhlarımız kurtulamaz. Tanrı olmadan, dünya kaos ve kötülüğe düşer.
 
@@ -52,7 +52,7 @@ Tanrının çöküşü insanoğlunun yükselişi oldu.
 
 Aynı şekilde, ilk bilim adamlarının evreni hayali bir merkezi otoriteye ihtiyaç duymadan kendi kendini sürdüren bir sistem olarak gördüğü gibi toplumu görmeye başlarsak, insanlık için özgürlük imkânlarını gerçekten algılamaya başlayabiliriz.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+Toplumda merkezileşmiş ve zorlayıcı bir tekelin kurulması bilginin, hikmetin, erdemin, fiziksel ve zihinsel sağlığın ilerlemesini sürekli olarak frenler- tıpkı merkezileşmiş ve zorlayıcı bir tekelin tüm *evren*de kurulmasının bilginin, hikmetin ve bilimin ilerlemesini sürekli olarak frenlemesi gibi.
 
 Hayali varlıklara karşı koymanın yolu, acımasız gerçeğe dayanmaktadır. Tanrı'ya karşı gelmenin yolu, mantık, delil ve bilimdedir.
 
