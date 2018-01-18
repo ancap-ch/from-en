@@ -61,7 +61,7 @@ a. ***Paggawad ng lisensya.***
         
         A. **Alok mula sa Tagapagpapalisensiya - Materyal na Lisensiyado.** Bawat resipyent sa Materyal na Lisensiyado ay awtomatikong nakakatanggap ng isang alok mula sa Tagapagpapalisensiya para makagamit sa mga Karapatan sa Nakalisensiya na napapabilang sa mga termino at mga kondisyon ng Lisensiyang Pampubliko na ito.
         
-        B. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+        B. **Walang mga restriksyon na pang-downstream.** Ikaw ay maaaring hindi mag-offer o mag-lapat ng kahit anumang adisyonal o magkakaibang mga termino o mga kondisyon dito, o mag-aplay sa kahit anumang mga Hakbang na Pangteknolohikal na Epektibo, ang Materyal na Lisensiyado sa paggawa ng mga restrik na pagsasanay sa mga Karapatang Nakalisensiyado sa numang resipyent sa Materyal na Lisensiyado.
     
     2. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
