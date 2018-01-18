@@ -131,11 +131,11 @@ a. Ang Lisensiyang Pampublikong ito ay nag-a-aplay para sa termino ng Kapyrayt a
 
 b. Kung saan ang Iyong karapatan sa paggamit sa Materyal na Lisensyado ay nai-termineyt sa ilalim ng ika-6(a) na Seksyon, ito ay nagsasabing muli:
 
-1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+1. sa petsang ito ang paglapastangan ay awtomatikong nalunasan, ipagpalagay na sa loob ng 30 na mga araw ng Iyong pagkadiskubre sa pagkakalapastangan ito ay nalunasan; o
 
-2. upon express reinstatement by the Licensor.
+2. sa sandaling na-ekpres ang pagkakasabing muli ng Tagapagpapalisensya.
     
-    For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+    Para sa pag-iiwas sa pagdududa, ang ika-6(b) na Seksyon na ito ay hindi nakakaapekto sa anumang karapatan ng Tapagpapalisensya na maaring makahanap ng mga remediya para sa Iyong mga pagsuway sa Lisensiyang Pampublikong ito.
 
 c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
 
