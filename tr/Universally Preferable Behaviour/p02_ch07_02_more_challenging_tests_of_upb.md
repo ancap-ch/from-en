@@ -48,7 +48,7 @@ Eğer öldürmek kötülük ise, yine "kaçınılmaz kötülük" sorunuyla karş
 
 Eğer "insanları öldürmek kötüdür" dersek insan yiyen köpek balığı kötü mü olur?
 
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
+Hayır, son olarak, köpek balıkları insan öldürmeye karşı bir yeterliliğe sahip olmadıkları için, nasıl bir heyelan adamı öldürürse mahkemeye alınamadığı gibi, bu tür olaylardan sorumlu tutulamazlar.
 
 UPB nesnel ve evrensel maddeye dayalı istisnalara ya da biyolojik farklılıklara izin verir, tıpkı diğer bilimlerin yaptığı gibi. Gazların ıstıldığında genişlediği olan bilimsel teori tabii ki yalnızca gazlara uygulanır. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
 
