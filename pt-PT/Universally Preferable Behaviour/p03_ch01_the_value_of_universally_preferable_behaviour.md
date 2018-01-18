@@ -1,8 +1,8 @@
 ## The Value Of Universally Preferable Behaviour
 
-A new theory is of precious little value if it only points out the obvious. If physics only provided an accurate description of how we catch a ball, then physics would not be a very worthwhile pursuit, because we already *can* catch a ball. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
+Uma nova teoria tem pouco valor se aponta apenas o óbvio. Se a física nos desse apenas uma descrição precisa de como nós podemos pegar uma bola, então a física não valeria a pena, porque nós já *conseguimos* pegar uma bola. Descobrir que o mundo é redondo só ajuda em navegações de longa distância pelo mar - não nos ajuda a chegar ao centro da cidade. Mecânica quântica só é útil quando outras metodologias não podem prover a precisão necessária - não ajuda a construir um carro.
 
-In the same way, the UPB framework, and the moral rules that it validates or rejects, should ideally provide us with some startling insights about the world that we live in, and our relations to each other.
+Da mesma forma, o quadro do Comportamento Universal Preferível, e as regras morais que este valida ou rejeita, deve idealmente nos prover insights surpreendentes sobre o mundo em que vivemos, e entre nossas relações com o outro.
 
 If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
 
