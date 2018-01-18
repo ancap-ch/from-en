@@ -97,23 +97,23 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                           
                           <ol>
                             <li>
-                              don’t be belligerent;
+                              jangan suka berkelahi;
                             </li>
                             
                             <li>
-                              don’t presume hatred of liberty;
+                              jangan menganggap kebencian sebagai bentuk kebebasan;
                             </li>
                             
                             <li>
-                              don’t presume different goals;
+                              jangan menganggap tujuan yang berbeda;
                             </li>
                             
                             <li>
-                              don’t presume ignorance;
+                              jangan menganggap sebagai penolakan;
                             </li>
                             
                             <li>
-                              don’t regard anyone as an enemy.”
+                              jangan menganggap siapapun sebagai musuh
                             </li>
                           </ol>
                           
