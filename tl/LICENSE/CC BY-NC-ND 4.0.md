@@ -115,11 +115,11 @@ b. kung Ikaw ay nagsama sa lahat o mga porsyon na substansiyal sa mga nilalaman 
 
 c. Kailangan mong i-komplay ang mga kondisyon sa ika-3(a) na Seksyon kung Ikaw ay Nag-share sa lahat o porsyong substansiyal sa mga nilalaman ng database.
 
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+Para sa pag-iiwas ng pag-aalinlangan, ang ika-4 na Seksyon ay nagsusuplementa at hindi pumapalit sa Iyong mga obligasyon sa Lisensyang Pampublikong ito na kung saan kasama ang ibang Kapyrayt at Mga Karapatang Kapareha sa Mga Karapatan ng Nakalisensya.
 
-### Section 5 – Disclaimer of Warranties and Limitation of Liability.
+### Ika-5 na Seksyon - Disclaimer sa mga Warantiya at Limitasyon sa Layabilidad.
 
-a. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
+a. **Maliban nalang kung ina-undertake ng Tagapagpapalisensya ng magkahiwalay, sa posibleng ekstent, ang Tagapagpapalisensiya ay nag-aalok ng Materyal na Lisensyado bilang-ang at bilang-magagamit, at hindi gumagawa ng mga representasyon o mga warantiya sa anumang klase na nagkokonsern sa Materyal na Lisensiyado, kahit ekspres, naka-imolay, istatutorya, o iba pa. Kasama na dito ang, walang limitasyon, mga warantiya ng titulo, merkantabilidad, pagkaka-angkop para sa isang partikur na layinin, hindi-infringement, akyurasiya, o ang presensiya o absensiya ng mgakamalin, kahit o hindi kilala o nadidiskubre. Kung saan ang mga disklimer ng mga warantiya ay hindi pinapayagan sa buong o sa parteng, ang disklimer na ito ay maaaring hindi makaka-aplay sa Iyo.**
 
 b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
 
