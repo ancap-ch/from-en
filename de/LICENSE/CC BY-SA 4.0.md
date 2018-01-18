@@ -26,39 +26,39 @@ c. **BY-SA-kompatible Lizenz** bezeichnet eine unter [creativecommons.org/compat
 
 d. **Urheberrecht und ähnliche Rechte** bezeichnet das Urheberrecht und/oder ähnliche, dem Urheberrecht eng verwandte Rechte, einschließlich insbesondere des Rechts des ausübenden Künstlers, des Rechts zur Sendung, zur Tonaufnahme und des Sui-generis-Datenbankrechts, unabhängig davon, wie diese Rechte genannt oder kategorisiert werden. Im Sinne der vorliegenden Public License werden die in Abschnitt 2(b)(1)-(2) aufgeführten Rechte nicht als Urheberrecht und ähnliche Rechte angesehen.
 
-e. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+e. **Wirksame technische Schutzmaßnahmen** bezeichnet solche Maßnahmen, die gemäß gesetzlichen Regelungen auf der Basis des Artikels 11 des WIPO Copyright Treaty vom 20. Dezember 1996 und/oder ähnlicher internationaler Vereinbarungen ohne entsprechende Erlaubnis nicht umgangen werden dürfen.
 
-f. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+f. **Ausnahmen und Beschränkungen** bezeichnet Fair Use, Fair Dealing und/oder jegliche andere Ausnahme oder Beschränkung des Urheberrechts oder ähnlicher Rechte, die auf Ihre Nutzung des lizenzierten Materials Anwendung findet.
 
-g. **License Elements** means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.
+g. **Lizenzelemente** bezeichnet die Lizenzeigenschaften, die in der Bezeichnung einer Creative Commons Public License aufgeführt werden. Die Lizenzelemente der vorliegenden Public License sind Namensnennung und Share Alike.
 
-h. **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+h. **Lizenziertes Material** bezeichnet das Werk der Literatur oder Kunst, die Datenbank oder das sonstige Material, welches der Lizenzgeber unter die vorliegende Public License gestellt hat.
 
-i. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+i. **Lizenzierte Rechte** bezeichnet die Ihnen unter den Bedingungen der vorliegenden Public License gewährten Rechte, welche auf solche Urheberrechte und ähnlichen Rechte beschränkt sind, die Ihre Nutzung des lizenzierten Materials betreffen und die der Lizenzgeber zu lizenzieren berechtigt ist.
 
-j. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
+j. **Lizenzgeber** bezeichnet die natürliche(n) oder juristische(n) Person(en), die unter der vorliegenden Public License Rechte gewährt (oder gewähren).
 
-k. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+k. **Weitergabe** meint, Material der Öffentlichkeit bereitzustellen durch beliebige Mittel oder Verfahren, die gemäß der lizenzierten Rechte Zustimmung erfordern, wie zum Beispiel Vervielfältigung, öffentliche Vorführung, öffentliche Darbietung, Vertrieb, Verbreitung, Wiedergabe oder Übernahme und öffentliche Zugänglichmachung bzw. Verfügbarmachung in solcher Weise, dass Mitglieder der Öffentlichkeit auf das Material von Orten und zu Zeiten ihrer Wahl zugreifen können.
 
-l. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+l. **Sui-generis Datenbankrechte bezeichnet Rechte**, die keine Urheberrechte sind, sondern gegründet sind auf die Richtlinie 96/9/EG des Europäischen Parlaments und des Rates vom 11. März 1996 über den rechtlichen Schutz von Datenbanken in der jeweils gültigen Fassung bzw. deren Nachfolgeregelungen, sowie andere im Wesentlichen funktionsgleiche Rechte anderswo auf der Welt.
 
-m. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+m. **Sie** bezeichnet die natürliche oder juristische Person, die von lizenzierten Rechten unter der vorliegenden Public License Gebrauch macht. Ihr bzw. Ihre hat die entsprechende Bedeutung.
 
-### Section 2 – Scope.
+### Abschnitt 2 – Umfang.
 
-a. ***License grant.***
+a. ***Lizenzgewährung***
 
-1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+1. Unter den Bedingungen der vorliegenden Public License gewährt der Lizenzgeber Ihnen eine weltweite, vergütungsfreie, nicht unterlizenzierbare, nicht-ausschließliche, unwiderrufliche Lizenz zur Ausübung der lizenzierten Rechte am lizenzierten Material, um:
     
-    A. reproduce and Share the Licensed Material, in whole or in part; and
+    A. das lizenzierte Material ganz oder in Teilen zu vervielfältigen und weiterzugeben; und
     
-    B. produce, reproduce, and Share Adapted Material.
+    B. abgewandeltes Material zu erstellen, zu vervielfältigen und weiterzugeben.
 
-2. **Exceptions and Limitations.** For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+2. **Ausnahmen und Beschränkungen.** Es sei klargestellt, dass, wo immer gesetzliche Ausnahmen und Beschränkungen auf Ihre Nutzung Anwendung finden, die vorliegende Public License nicht anwendbar ist und Sie insoweit ihre Bedingungen nicht einhalten müssen.
 
-3. **Term.** The term of this Public License is specified in Section 6(a).
+3. **Laufzeit.** Die Laufzeit der vorliegenden Public License wird in Abschnitt 6(a) geregelt.
 
-4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+4. **Medien und Formate; Gestattung technischer Modifikationen.** Der Lizenzgeber erlaubt Ihnen, die lizenzierten Rechte in allen bekannten und zukünftig entstehenden Medien und Formaten auszuüben und die dafür notwendigen technischen Modifikationen vorzunehmen. Der Lizenzgeber verzichtet auf jegliche und/oder versichert die Nichtausübung jeglicher Rechte und Befugnisse, Ihnen zu verbieten, technische Modifikationen vorzunehmen, die notwendig sind, um die lizenzierten Rechte ausüben zu können, einschließlich solcher, die zur Umgehung wirksamer technischer Schutzmaßnahmen erforderlich sind. Im Sinne der vorliegenden Public License entsteht kein abgewandeltes Material, soweit lediglich Modifikationen vorgenommen werden, die nach diesem Abschnitt 2(a)(4) zulässig sind.
 
 5. **Downstream recipients.**
     
