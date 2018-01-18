@@ -81,7 +81,7 @@ a. ***Atribyusiyon.***
 
 1. Kung Ikaw ay Mag-Share sa Materyal na Lisensyado, kailangan Mong:
     
-    A. retain the following if it is supplied by the Licensor with the Licensed Material:
+    A. I-retain ang mga sumusunod kung ito ay sinusuplayan ng Tagapagpapalisensya ng Materyal na Lisensyado:
     
          i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
         
