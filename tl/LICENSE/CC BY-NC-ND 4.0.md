@@ -71,15 +71,15 @@ b. ***Iba pang mga karapatan.***
 
 2. Mga Karapatan sa patent at trademark ay hindi lisensiyado sa Lisensiyang Pampublikong ito.
 
-3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
+3. Sa ekstent na posible, ang Tagapagpapalisensya ay nagwi-waive sa anumang karapatan para maka-kolekta ng mga royaltiya mula sa Iyo para maka-eksersays sa mga Karapatan ng Lisensiyado, mapa-direkta o sa pamamagitan ng nangongolektang pamamamayan na nappabilang da ano mang boluntaryong o nawi-waive na istatutorya o pwersahang iskema sa paglilisensya. Sa lahat ng mga kaso ang Tagapagpapalisensya ay nagre-reserba ng ekpres sa anumang karapatan para maka-kolekta kagaya ng mga royaltiya, kasama na kung kailan ang Materyal na Losensiyado ay nagamit sa iba pang mga layunin na HindiKomersiyal.
 
-### Section 3 – License Conditions.
+### Ika-3 na Seksyon - Mga Kondisyon sa Lisensya.
 
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+Ikaw ay mag-eksersays sa mga Karapatan ng Lisensiyado ay ginawang subjek sa pag-ekspres para sa mga sumusunod na kondisyon.
 
-a. ***Attribution.***
+a. ***Atribyusiyon.***
 
-1. If You Share the Licensed Material, You must:
+1. Kung Ikaw ay Mag-Share sa Materyal na Lisensyado, kailangan Mong:
     
     A. retain the following if it is supplied by the Licensor with the Licensed Material:
     
