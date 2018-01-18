@@ -102,7 +102,7 @@ Aqueles que usam fantasias morais para explorar a humanidade sempre lutaram cont
 
 Estamos familiarizados com o exemplo da Mafia, que ameaça os potenciais rivais com mutilação e morte, ou o espectáculo de seitas religiosas atacando-se umas às outras, ou um governo atacando a outro.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+No entanto, quando os filósofos expõem as falsidades necessárias para a continuação da exploração, não têm como objectivo estabelecer-se como concorrentes. Não desejam *substituir* a Mafia, ou a igreja - desejam eliminá-la completamente.
 
 A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
 
