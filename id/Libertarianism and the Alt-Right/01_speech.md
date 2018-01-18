@@ -97,7 +97,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                           
                           <ol>
                             <li>
-                              jangan suka berkelahi;
+                              jangan suka menuduh;
                             </li>
                             
                             <li>
