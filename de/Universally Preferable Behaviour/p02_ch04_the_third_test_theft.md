@@ -26,11 +26,11 @@ So erfordert die bloße Handlung, meinen Körper zu kontrollieren, um Sprache zu
 
 Nun, wenn dämonische Besessenheit ein gültiges Ereignis wäre, und ein *Mädchen*, das von einem Dämon besessen ist, der auf einen Priester spuckt, würden wir das Mädchen nicht unhöflich nennen, aber wir würden sie eher bemitleiden, weil sie von solch einem unhöflichen Dämon bewohnt wurde. Wer den Körper des Mädchens kontrolliert, ist schuld an den Auswirkungen ihrer Handlungen - deshalb würden wir keinen Mann nennen, der während des Schlafwandelns "böse" gestohlen hat, da er nicht die volle Kontrolle über seinen eigenen Körper hatte (obwohl wir ihn auf andere Weise zurückhalten können). Dies ist auch der Grund für die Rechtliche Verteidigung von "Nicht schuldig durch den Wahnsinns", was bedeutet, dass wir einen guten Mann haben, der die Kontrolle über seine Hand hat.
 
-Thus to reject the ownership of the body is to reject all morality, which, as we have seen above, is utterly impossible. Logically, since morality is defined as an enforceable subset of UPB, to reject morality is to say that it is universally preferable to believe that there is no such thing as universal preferences.
+Die Ablehnung des Besitzes des Körpers bedeutet also, jede Moral abzulehnen, die, wie wir oben gesehen haben, absolut unmöglich ist. Logisch, da Moral als eine durchsetzbare Untergruppe von UPB ist definiert, Moral zu verwerfen, zu verstehen, dass es allgemein vorzuziehen ist, zu glauben, es gibt keine universellen Präferenzen.
 
-Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
+Schließlich ist es ein eklatanter und unüberwindlicher Selbstwiderspruch, den eigenen Besitz des eigenen Körpers in Form von Sprache zu gebrauchen, um die Vorstellung abzunehmen, dass man seinen eigenen Körper kontrollieren kann.
 
-It is in this way that any rejection of self-ownership can be utterly discarded.
+Auf diese Weise kann jegliche Ablehnung des Eigeneigentums vollständig verworfen werden.
 
 Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
 
