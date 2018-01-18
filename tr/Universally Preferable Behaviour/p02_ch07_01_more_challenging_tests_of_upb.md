@@ -60,7 +60,7 @@ Bunların tümü UPB çerçevesinde tam olarak desteklenen üçüncü taraf kend
 
 Çocuklar kendilerini besleyemez, bağımsız bir şekilde yaşayamaz ya da bir hayat kuramazlar, onlar çocuk kaçırma kurbanlarının ya da daha önce onu bodrum katına kilitleyen kocası hakkında konuştuğumuz kadının ahlaki donanımlarıdır. Çocuklar ayrıca onların küçük boyu posu ve ebeveynlerine neredeyse tam olarak bağlılıkları sebebiyle nefsi müdafaa için yeterlilikte noksandır.
 
-Thus since it is certainly the case that we have the right to act in self-defence for someone else – and that right becomes even stronger if that person cannot act in his own self-defence, it is perfectly valid to use force against parents who do not feed their children, just as it is perfectly valid to use force against the husband who is starving his wife to death by locking her in the basement.
+Bu nedenle, bir başkası için kendini savunma hakkına sahip olmamız kesinlikle söz konusudur ve bu hak, kendi savunma alanında hareket edemezse, daha da güçlenir; bu, ebeveynlerine karşı kuvvet kullanma boyutuna kadar varır. tıpkı karısını bodrumda kilitleyerek açlıktan ölmeye maruz bırakan kocasına karşı güç kullanmak için geçerli olduğu gibi.
 
 Yukarıda da bahsettiğimiz gibi, kurbanın bu durumdan kaçınması ne kadar az mümkün olursa, suç o kadar kötüleşir. Even the wife who ends up locked in the basement has at least *some* ownership in the matter, because she chose to marry this evil lunatic to begin with. Once she is locked in the basement, the situation is unavoidable, yet there were doubtless many clues hinting at her husband’s abusive nature, from the day she first met him.
 
