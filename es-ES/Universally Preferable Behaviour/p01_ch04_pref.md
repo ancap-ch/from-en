@@ -6,15 +6,15 @@ Las preferencias son fundamentales para cualquier metodología que pretenda defi
 
 En este sentido, "preferible" no significa "algo mejor," sino "requerido." *Si* quieres vivir, entonces es *universalmente preferible* que te abstengas de comer un puñado de arsénico. *Si* quieres determinar verdades válidas sobre la realidad, entonces es *universalmente preferible* que tus teorías sean tanto internamente consistentes como empíricamente verificables. "Universalmente preferible," entonces, se traduce como "objetivamente requerido," pero mantendremos la palabra "preferible" para diferenciar entre los absolutos humanos opcionales y los absolutos físicos no opcionales como la gravedad.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+De manera similar, si las teorías éticas pueden ser válidas en lo absoluto, entonces deben *al menos* ser consistentes tanto interna como externamente. En otras palabras, una teoría ética que se contradiga a sí misma no puede ser válida – y una teoría ética que contradiga evidencia empírica y preferencias casi-universales tampoco puede ser válida.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Así en la ética, tal como en la ciencia, matemáticas, ingeniería y todas las otras disciplinas que comparan teorías con la realidad, *las teorías válidas deben ser tanto lógicamente consistentes como empíricamente verificables*.
 
-### Preferences And Existence
+### Preferencias Y Existencia
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+Si yo digo "Me gusta el helado," solo una palabra permanece ambigua en esa frase. Claramente "Me" existe, ya que estoy expresando una preferencia personal. Igualmente claramente, "el helado" también existe en la realidad. Sin embargo, la palabra "gusta" es más problemática.
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Las preferencias no existen objetivamente dentro de la realidad. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
 
 We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
 
