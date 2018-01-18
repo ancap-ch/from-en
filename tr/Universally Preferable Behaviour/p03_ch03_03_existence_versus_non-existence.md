@@ -32,7 +32,7 @@ Bana Kanada'da yaşamayı seçme erdemi gereğince "hükümet"e gelirimin yüzde
 
 Mitolojiden soyunca, bu gerçekten ne anlama gelir?
 
-Gerçekte, sonsuza dek "hükümet"in gelip payını almasını bekleyeceğim anlamına gelir. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+Gerçekte, sonsuza dek "hükümet"in gelip payını almasını bekleyeceğim anlamına gelir. "Hükümet"in düşmesini beklemek tıpkı "kandınlık" kavramıyla buluşmayı beklemek gibidir. Ayrıca "para" sözcüğü ile akşam yemeğim için ödeme yapmayı da deneyebilirim.
 
 Gerçekte, "hükümet"e vergimi ödemeliyim dediğim zaman bu aslında paramı yalnızca belirli bir grup insanın erişebildiği belirli bir banka hesabına aktarmak için çek yazmalıyım demektir. Böylece bu insanlar bu parayı alma hakkına sahip olur ve uygun gördükleri gibi harcarlar - bu belirli bir grup insan böylece benim paramın üzerinde mutlak bir kontrole sahip olur.
 
@@ -114,7 +114,7 @@ Bu yüzden, eğer insanlar için tecavüz etmek kötü olursa, mantıksal açıd
 
 Tabii ki yapabilirim fakat hiç bir zaman geçerli veya doğru olmaz.
 
-Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
+Yalnızca *bireyler* hareket eder - çoğunluk asla edemez. Eğer ahlaki kurallar belirli bir sayıda insanın toplanmasıyla değişebilir ise o zaman ETD sürekli olarak ihlal edilir.
 
 Eğer Bob ve Doug için, onlar "onun üzerinde oy üztünlüğü sağladıkları" için Jane'e tecavüz etmek ahlaki ise, Jane'in iki arkadaşı gelip Bob ve Doug'un şeytani arzularına karşı oy verdikleri zaman ne olur?
 
