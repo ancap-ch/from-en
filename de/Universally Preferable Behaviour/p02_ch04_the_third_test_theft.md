@@ -8,7 +8,7 @@ Der moralische Vorschlag in Bezug auf Eigentumsrechte ist eindeutig Entweder hab
 
 Jetzt ist die erste "Eigenschaft", mit der umgegangen werden muss, der Körper. "Eigentümer" muss in erster Linie aus Kontrolle über den eigenen Körper bestehen, denn wenn diese Kontrolle nicht existiert oder nicht als gültig angesehen wird, dann ist die ganze Frage der Moral - geschweige denn Eigentum- geht aus dem Fenster.
 
-UPB ist ein Rahmenwerk zur Bewertung von moralischen Aussagen oder von Argumenten über allgemein bevorzugtes Verhalten für die gesamte Menschheit. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
+UPB ist ein Rahmenwerk zur Bewertung von moralischen Aussagen oder von Argumenten über allgemein bevorzugtes Verhalten für die gesamte Menschheit. In erster Linie muss ein Mensch für seine eigenen Handlungen verantwortlich sein, wenn er moralisch beurteilt werden soll, denn wie wir oben argumentiert haben, ist die Fähigkeit, Handlungen zu wählen, für jede ethische Bewertung grundlegend.
 
 If a man has no control over his body, then clearly he has no responsibility for his actions – they are not in fact “his” actions, but rather the actions of his body. Now, no one would rationally argue that if a man strangles another man, it is the murderous fingers that should be put on trial and punished. Clearly, the body cannot entirely control itself, but rather must be to some degree under the direction of the conscious mind.
 
