@@ -36,7 +36,7 @@ Dolayısıyla, herhangi bir mantıksal ahlak teorisinin, nefsi müdafaa'nın ahl
 
 ### Çocuk Yetiştirme
 
-İçgüdüsel olarak, genel olarak anne-babalar için bebeklerini beslememenin çok yanlış bir şey olduğunu anlıyoruz. To conceive a child, carry a child to term, give birth to the child, and then leave it lying in its crib to starve to death, severely offends our sensibilities.
+İçgüdüsel olarak, genel olarak anne-babalar için bebeklerini beslememenin çok yanlış bir şey olduğunu anlıyoruz. Bir çocuğu anlayabilmek için, önce onu bir kavram haline getirin, ardından doğurun ve açlıktan ölmek için yatağında yatılı halde bırakın, bu durum duyarlılıklarımızı ciddi derecede rahatsız eder.
 
 Tabii ki, suçumuz hiçbir şekilde ahlaki bir tartışma değil, ancak bu ahlaki bir teoriyi test etmek için mükemmel bir başlangıç noktasıdır.
 
