@@ -101,11 +101,11 @@ a. ***Atribyusiyon.***
         Para sa pag-iiwas ng pag-aalinlangan, Ikaw ay walang permisyon sa Lisensyang Pampublikong ito na makapag-Share sa Materyal na Kinupkop.
         
     
-    1. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+    1. Ikaw ay maaaring masisiyagan sa mga kondisyon sa ika-3(a)(1) na Seksyon sa anumang rasonableng pamamaraan basi sa medyum, mga pamamaraan, at konteksto na kung saan Ikaw ay Nag-Share sa Mayeryal na Lisensyado. Halimbawa, ito ay maaaring rasonable na makapagsisiya sa mga kondisyon sa pamamagitan ng pagpo-provide ng isang URL o hyperlink sa pinagkukunan na may kasamang impormasyong kinakailangan.
     
-    2. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
+    2. Kung ito ay nai-rekwest ng Tagapagpapalisensya, Ikaw ay dapat magtanggal ng anumang impormasyon na ni-rekwayr sa ika-3(a)(1)(A) na Seksyon sa ekstent ng pagpapapraktis na rasonable.
 
-### Section 4 – Sui Generis Database Rights.
+### Ika-4 na Seksyon - Mga Karapatan sa Database na Sui Generis.
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 
