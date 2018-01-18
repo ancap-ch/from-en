@@ -114,9 +114,9 @@ Contudo, os filósofos que se opõem ao erro intelectual são *todos* inimigos j
 
 O método científico exige que todas as teses sejam apoiadas por evidências e racionalidade. Dado que não existem evidências para os deuses - e a própria *ideia* dos deuses é intrinsecamente contraditória - a tese "deuses" não pode resistir. Inevitavelmente, os parasitas religiosos tentam defender a sua tese tentando dividir a realidade em "dois reinos" - o científico e o espiritual. Porém, não há evidências da existência desse reino "espiritual" no presente, mais do que havia para o universo paralelo das "Formas" platónicas, há dois mil e quinhentos anos.
 
-Assim, o estabelecimento de uma verdade consistente e universal necessariamente limita e destrói o potencial explorador da ilusão. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+Assim, o estabelecimento de uma verdade consistente e universal necessariamente limita e destrói o potencial explorador da ilusão. Em particular, as "grandes verdades", que são universais e consistentes, tornam as "meias verdades" - que são de facto fantasias exploradoras - redundantes e ridículas. Estamos familiarizados com as "meias verdades" da religião; umas quantas serão examinadas e reveladas aqui, algumas das quais vos podem chocar.
 
-### Effective Parasitism
+### Parasitismo efectivo
 
 The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
 
