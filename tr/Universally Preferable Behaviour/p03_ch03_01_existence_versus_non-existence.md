@@ -154,13 +154,13 @@ Bu tür bir sözleşme değil! Bu bir *toplum* sözleşmesidir…Ve yanı sıra 
 
 Pekala, bu sadece tüm mahallenin sana ait olduğunu gösteren bir el yazısı notu ve senin imzanla aynı el yazısı. Korkarım ki biz sana rezervasyon yaptırmak zorunda kalacağız - bu sadece kendi başına uydurduğun diğer insanlara silah zoruyla dayattığın bir sözleşme."
 
-This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+Bu tamamen bir çılgınlık ve yozluk tıpkı benim tecavüz etmekte olduğum bir kadına benimle seks yapmak *istediğini* söylemeye devam etmem gibi. Şunu hayal edebiliyor musunuz, eğer ben bir tecavüz davasına çıkmışsam ve ortada kadının bana durmam için yalvardığını gösteren bir video kaydı varsa ve kadının boğazına bıçak dayamışsam, aslında kadının benimle seks yapmak *istediği* ısrarıma devam edersem, savunmam nasıl kabul görür?
 
 Mahkemede, yozlaşmış, çılgın, belli ve kendi kendine hizmet eden riyakarlığım yüzünden hakaret edilip hapishaneye atılabilirim.
 
 Ama hükümete ait olmayan "boş bölgede", tecavüz sevgi kurmak, insan kaçırmak bir davet, hırsızlığı kabul etmemek kötülüğün bencilliği ve zorbalık ise kibarlık haline gelmiştir.
 
-This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Çalmak bizim için yanlıştır, aslında bu durum düşüncede böyledir ancak "hükümet" olarak adlandırılan bu deli alternatif evrende çalmak bir şekilde "doğru" olarak düşünülebilir mi?
+Ben "karşı dünya *geçersiz bölge*" insan mutluluğu önünde dünya üzerindeki en temel engel dediğim zaman bunu kastediyorum. Çalmak bizim için yanlıştır, aslında bu durum düşüncede böyledir ancak "hükümet" olarak adlandırılan bu deli alternatif evrende çalmak bir şekilde "doğru" olarak düşünülebilir mi?
 
 [^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
 
