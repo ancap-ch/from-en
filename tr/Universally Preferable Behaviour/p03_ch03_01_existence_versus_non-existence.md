@@ -66,13 +66,13 @@ Sözbilime ait soruları sorarım çünkü onlar gerçekten ölümcül derecede 
 
 Benzetme yanlış, çünkü doktora yapmış olmanın ya da doktora diplomasının fotokopisini almış olmanın senin insan olmaklığın hasebiyle tabi olduğun ahlaki kurallardan hiçbirini değiştirme imkanı yoktur.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+"Güzel, fakat fark şu ki asker kollektif kendini savunma ve benzeri şeyler adına ortalama yurttaşlar tarafından ona sağlanan ahlaki haklara sahiptir." şeklinde cevap verebilirsiniz.
 
 Bu çok ilginç bir noktayı açığa çıkarır, bu görüşlerin gerçekliği değiştirip değiştiremeyeceği sorusu.
 
 ### Düşünceler ve Gerçeklik
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Açıkça şunu anlıyoruz, düşüncem vasıtasıyla sizi yer çekiminin sınırlamalarından azade kılamam, tıpkı "iki artı iki eşittir beş" düşüncemin onu doğru yapmaması gibi.
 
 "Fikirler", normalde açık bir delil bulundurmayan veya açık bir delil sağlanamayan ya da sadece kişisel tercihlerin içsel yansımaları olan inançlardır. Vanilyayı, çikolatalı dondurmaya tercih edişim benim kişisel görüşümdür. Aynı şekilde, yağmurun yukarı yağdığı, tanrının var olduğu ya da İzlanda'nın tropikal bir cennet olduğu yine "görüşüm" olabilir. Kişisel görüşlerin açıkça ahlak ile hiçbir ilgisi yoktur; gerçekliği doğru bir şekilde tanımladığını iddia eden görüşler, ancak yanlış önyargılardır. Yağmurun tersine yağdığına inanmak onun yazgısını tersine çevirmez; yine, İzlandada, Hawai gömleği giymek Reykavik'i daha sıcak yapmaz.
 
@@ -146,13 +146,13 @@ Bob'un paramızı almasını "istediğimizi" söyledik - ki bu Bob'un dolu bir s
 
 "Bana sözleşmeyi gösterir misin? Sözleşmeyi kendi özgür iradeleriyle mi imzaladılar?"
 
-Bu tür bir sözleşme değil! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Bana benim paramı vermeyi reddeden biri başka bir yere gidebilir - Ben kimseyi zorlamıyorum!
+Bu tür bir sözleşme değil! Bu bir *toplum* sözleşmesidir…Ve yanı sıra - bu toplum sözleşmesine göre, ben yine de bütün sokağın sahibiyim - tüm lanet mahallenin aslında! Bana benim paramı vermeyi reddeden biri başka bir yere gidebilir - Ben kimseyi zorlamıyorum!
 
 "Üstelik tüm mahallenin sahibi olduğunu nereden biliyorsun? Tapuların var mı?"
 
 "Evet, tabii ki - hadi buraya bir bak!"
 
-Pekala, bu sadece tüm mahallenin sana ait olduğunu gösteren bir el yazısı notu ve senin imzanla aynı el yazısı. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+Pekala, bu sadece tüm mahallenin sana ait olduğunu gösteren bir el yazısı notu ve senin imzanla aynı el yazısı. Korkarım ki biz sana rezervasyon yaptırmak zorunda kalacağız - bu sadece kendi başına uydurduğun diğer insanlara silah zoruyla dayattığın bir sözleşme."
 
 This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
 
