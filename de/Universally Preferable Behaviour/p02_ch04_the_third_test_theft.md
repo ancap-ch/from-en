@@ -4,11 +4,11 @@ Wir werden ein wenig mehr Zeit mit Diebstahl verbringen müssen, da dies unweige
 
 Es gibt viele Möglichkeiten, sich mit der Frage der Eigentumsrechte zu befassen, vom "Homesteading" über rechtliche Definitionen bis zu praktischen Erwägungen usw. Ich werde hier keine ansprechen, denn die Frage der Eigentumsrechte muss in den Rahmen von UPB fallen, wenn UPB als eine rationale Methode zur Bewertung moralischer Vorschläge stehen soll.
 
-Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
+Der moralische Vorschlag in Bezug auf Eigentumsrechte ist eindeutig Entweder haben Menschen das Recht, Eigentum zu besitzen oder nicht.
 
-Now the first “property” that must be dealt with is the body. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+Jetzt ist die erste "Eigenschaft", mit der umgegangen werden muss, der Körper. "Eigentümer" muss in erster Linie aus Kontrolle über den eigenen Körper bestehen, denn wenn diese Kontrolle nicht existiert oder nicht als gültig angesehen wird, dann ist die ganze Frage der Moral - geschweige denn Eigentum- geht aus dem Fenster.
 
-UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
+UPB ist ein Rahmenwerk zur Bewertung von moralischen Aussagen oder von Argumenten über allgemein bevorzugtes Verhalten für die gesamte Menschheit. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
 
 If a man has no control over his body, then clearly he has no responsibility for his actions – they are not in fact “his” actions, but rather the actions of his body. Now, no one would rationally argue that if a man strangles another man, it is the murderous fingers that should be put on trial and punished. Clearly, the body cannot entirely control itself, but rather must be to some degree under the direction of the conscious mind.
 
