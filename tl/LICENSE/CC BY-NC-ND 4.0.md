@@ -123,11 +123,11 @@ a. **Maliban nalang kung ina-undertake ng Tagapagpapalisensya ng magkahiwalay, s
 
 b. **Sa ekstentong posible, sa walang pangyayari ang Tagapagpapalisensya ay maaaring maging layable sa Iyo sa anumang teoryang legal (kasama na ang, walang limitasyon, pagpapakabaya) o kaya ay para sa anumang direktang, espesyal, hindi direkta, insidental, konsekwensyal, punitibo, eksemplaryo, o ibang mga lugi, mga paggugol, mga gastos, o mga sira na lumitaw sa Lisensyang Pampublikong ito o ang paggamit sa Materyal na Lisensyado, kahit na kung ang Tagapagpapalisensya ay inabisuhan sa posibilidad kagaya ng mga pagkakalugi, mga pagugol, mga gastos o mga pagkasira. Kung saan ang isang limitasyon ng layabilidad ay pinapayagan ng buo o sa parte, ang limitasyong ito ay hindi mai-aplay sa Iyo.**
 
-c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+c. Sa disklimer ng mga warantiya at limitasyon ng layabilidad na naipamigay sa itaas ay nararapat na mai-interpreta sa pamamaraang na, sa ekstentong posible, sa pinakamalapit na tinatanyang isang ganap na disklimer at waiver sa lahat ng mga layabilidad.
 
-### Section 6 – Term and Termination.
+### Ika-6 na Seksyon - Termino at Terminasyon.
 
-a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+a. Ang Lisensiyang Pampublikong ito ay nag-a-aplay para sa termino ng Kapyrayt at Mga Karapatan sa Kapareha na lisensyado dito. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
 
 b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
 
