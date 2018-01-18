@@ -52,7 +52,7 @@ Hayır, son olarak, köpek balıkları insan öldürmeye karşı bir yeterliliğ
 
 UPB nesnel ve evrensel maddeye dayalı istisnalara ya da biyolojik farklılıklara izin verir, tıpkı diğer bilimlerin yaptığı gibi. Gazların ıstıldığında genişlediği olan bilimsel teori tabii ki yalnızca gazlara uygulanır. Plastik için uygun olmadığını kanıtlayarak teoriyi geçersiz kılamam.
 
-Aynı şekilde, ahlak, önlenebilirlik gereksiniminden dolayı, sadece mantık bilincine başvurur. Eğer bir salyangoz, ağaç, kaya ya da "sayılar" kavramına ahlaki bir teori uygulamaya çalışırsam, rasyonel bilincini, rasyonel veya bilinçli olmayan, mantıklı bir çelişki olan varlıklarla eşitlemeye çalışıyorum demektir. Size geometrinin Karşı Açı Teoremi'nin bir daire veya bulut için geçerli olmadığı için geçersiz olduğunu söyleyebilirim. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+Aynı şekilde, ahlak, önlenebilirlik gereksiniminden dolayı, sadece mantık bilincine başvurur. Eğer bir salyangoz, ağaç, kaya ya da "sayılar" kavramına ahlaki bir teori uygulamaya çalışırsam, rasyonel bilincini, rasyonel veya bilinçli olmayan, mantıklı bir çelişki olan varlıklarla eşitlemeye çalışıyorum demektir. Size geometrinin Karşı Açı Teoremi'nin bir daire veya bulut için geçerli olmadığı için geçersiz olduğunu söyleyebilirim. OAT yalnızca kesişen çizgiler için geçerli olur – diğer durumlarla kullanmaya çalışmak, havayı boyamaya çalışmanın kavramsal eşdeğeri sayılır.
 
 Başka bir söyleyiş ile, hatalı uygulama hatalı anlaşılamaz.
 
