@@ -84,7 +84,7 @@ Burada yukarıdaki konuların aynılarını görüyoruz. Bob Doug'a şöyle der:
 
 Aynı şekilde, eğer bir adam "hükümet" denilen bir tahayyülün benim mülkümü çalmasını meşrulaştırdığını iddia eder ise o zaman ben de benim "anti-hükümet" denilen tahayyülümün mülkümü *korumamı* meşrulaştırdığını iddia edebilirim ve ikimizin gerekçesi de eşit derecede geçerlidir.
 
-If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. Benim bin dolarımı alabilir, fakat o zaman parayı geri "çalmak" kavramından yararlanabilirim ve onun ahlaki kuramı bize geri verilen sonsuzluğun ve bin doların kalan kısmını harcamayı emreder.
+Eğer bu vergi tahsildarları o zaman "hükümet" denilen mevhumlarının sadece onların *benim* mülküm üzerindeki hırsızlıklarını meşrulaştırdığını ancak benim mülkümü korumamı meşrulaştırmadığını iddia ederlerse o zaman daha da ileriye gitmemiz mümkün değildir. Benim bin dolarımı alabilir, fakat o zaman parayı geri "çalmak" kavramından yararlanabilirim ve onun ahlaki kuramı bize geri verilen sonsuzluğun ve bin doların kalan kısmını harcamayı emreder.
 
 #### UPB ve''Çoğunluk''
 
@@ -100,13 +100,13 @@ Neden olmasın?
 
 Peki, UPB bir araya gelme gerçekliğini tanımaz, çünkü "çoğunluk" mutlak kavramsal bir etikettir; gerçekte, "tanrılar" ya da "hükümetler" ötesinde herhangi bir şey, mevcut değildir. Bu yüzden "çoğunluk" kavramının herhangi bir ahlaki duruş türüne sahip olduğunu iddia etmek kesinlikle geçerli değildir - bu "Memleket" 'in bir kadını hamile bırakabileceğini, ya da birisinin "sandalye" kelimesinde oturabileceğini söylemek gibi olur.
 
-To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. Eğer "memelilerin" sıcak kanlı canlı yaratıklar olduğunu söylersem, mantıksal olarak "memeliler" kategorisine plastik üç flamingoyu da dahil edebilir miyim?
+"Çoğunluğun" herhangi bir bireyin hakları ve özellikleri ile doğrudan çelişen haklara ve özelliklere sahip olduğunu söylemek rasyonal ilkeler ile de çelişir çünkü herhangi bir kavramsal gruplama yalnızca bireysel özelliklerin doğru bir şekilde tanımlanması ile geçerli olur. Eğer "memelilerin" sıcak kanlı canlı yaratıklar olduğunu söylersem, mantıksal olarak "memeliler" kategorisine plastik üç flamingoyu da dahil edebilir miyim?
 
 Tabi ki değil.
 
 Bu yüzden, eğer insanlar için tecavüz etmek kötü olursa, mantıksal açıdan "çoğunluk" olarak adlandırılan bir kategori oluşturabilir, ve daha sonra *bu* insanlar için şu an tecavüz etmenin ahlaki açıdan iyi bir şey olduğunu iddia edebilir miyim?
 
-Of *course* not.
+*Elbette* değil.
 
 ### Çoğunluk kuralı
 
