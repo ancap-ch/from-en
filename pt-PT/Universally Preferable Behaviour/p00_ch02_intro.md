@@ -128,6 +128,6 @@ No entanto, quando um agente do governo lhe envia uma carta a exigir-lhe algum p
 
 Este é um exemplo de uma "meia verdade", que obscurece uma "grande verdade", que é: "roubar é errado"
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+Este livro centrar-se-à em expor e destruir essas falsas "meias verdades". Creio que a Humanidade sofre, infinitamente, sob a tirania das falsas "meias verdades" éticas, que justificam a visão destrutiva do mundo da superstição religiosa, do despotismo secular e do culto da família.
 
 My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
