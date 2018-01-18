@@ -127,9 +127,9 @@ c. Sa disklimer ng mga warantiya at limitasyon ng layabilidad na naipamigay sa i
 
 ### Ika-6 na Seksyon - Termino at Terminasyon.
 
-a. Ang Lisensiyang Pampublikong ito ay nag-a-aplay para sa termino ng Kapyrayt at Mga Karapatan sa Kapareha na lisensyado dito. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+a. Ang Lisensiyang Pampublikong ito ay nag-a-aplay para sa termino ng Kapyrayt at Mga Karapatan sa Kapareha na lisensyado dito. Subalit, kung Ikaw ay nabigo sa pag-komplay sa Lisensyang Pampublikong ito, kung gayon ang Iyong mga karapatan ay awtomatikong mate-termina sa Lisensiyang Pampublikong ito.
 
-b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+b. Kung saan ang Iyong karapatan sa paggamit sa Materyal na Lisensyado ay nai-termineyt sa ilalim ng ika-6(a) na Seksyon, ito ay nagsasabing muli:
 
 1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
 
