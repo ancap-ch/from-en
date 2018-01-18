@@ -1,16 +1,16 @@
-## Preferences
+## Preferências
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Agora que entendemos a natureza dos argumentos auto-destrutivos, podemos passar à questão das preferências.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+As preferências são fundamentais para qualquer metodologia que pretenda definir o valor da verdade das proposições. O método científico, por exemplo, é amplamente definido por preferências inatas, para a consistência lógica e a verificação empírica. Para a ciência, a premissa é: *se* quiser determinar uma verdade válida sobre o comportamento da matéria e da energia, é *preferível* usar o método científico.
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+Neste sentido, "preferível" não significa "tipo de melhor", mas sim "obrigatório". *Se* quiser viver, é *universalmente preferível* que se abstenha de comer um punhado de arsénico. *Se* desejar determinar verdades válidas sobre a realidade, é * universalmente preferível* que as suas teorias sejam internamente consistentes e empiricamente verificáveis. "Universalmente preferível", então, traduz-se para "objectivamente necessário", mas manteremos a palavra "preferível" para diferenciar entre absolutos humanos opcionais e absolutos físicos não-opcionais, como a gravidade.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+De igual modo, se as teorias éticas puderem ser válidas, então elas devem ser *pelo menos* interna e externamente consistentes. Por outras palavras, uma teoria ética que se contradiga não pode ser válida - e uma teoria ética que contradiga evidências empíricas e preferências quase universais, também não pode ser válida.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Assim, na ética, como na ciência, na matemática, na engenharia e em todas as outras disciplinas que comparam as teorias com a realidade,* as teorias válidas devem ser logicamente consistentes e empiricamente verificáveis*.
 
-### Preferences And Existence
+### Preferências e Existência
 
 If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
 
