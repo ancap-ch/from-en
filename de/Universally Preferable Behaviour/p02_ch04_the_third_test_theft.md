@@ -32,13 +32,13 @@ Schließlich ist es ein eklatanter und unüberwindlicher Selbstwiderspruch, den 
 
 Auf diese Weise kann jegliche Ablehnung des Eigeneigentums vollständig verworfen werden.
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+Da wir unseren Körper besitzen, besitzen wir unweigerlich die *Auswirkungen* unserer Handlungen, seien sie gut oder schlecht. Wenn wir die Wirkungen unserer Handlungen besitzen, besitzen wir eindeutig das, was wir produzieren, ob das, was wir produzieren, ein Bogen ist oder ein Buch - oder ein Mord.
 
-### Property And UPB
+### Eigentum und UPB
 
-Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
+Selbst wenn wir die oben ablehnen, wir können UPB immer noch verwenden, um die Existenz von universellen Eigentumsrechten endgültig zu bestätigen.
 
-As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
+Wie oben erwähnt, entweder Menschen haben Eigentumsrechte, oder sie es nicht tun. Abgesehen von ein paar Grauzonen, auf die wir in Kürze eingehen werden, bleibt dies ein universeller Vorschlag.
 
 If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
 
