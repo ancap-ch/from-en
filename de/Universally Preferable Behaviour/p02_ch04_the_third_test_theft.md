@@ -40,7 +40,7 @@ Selbst wenn wir die oben ablehnen, wir können UPB immer noch verwenden, um die 
 
 Wie oben erwähnt, entweder Menschen haben Eigentumsrechte, oder sie es nicht tun. Abgesehen von ein paar Grauzonen, auf die wir in Kürze eingehen werden, bleibt dies ein universeller Vorschlag.
 
-If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
+Wenn ein Mann kein Eigentumsrecht hat, dann hat er nicht das Recht, seinen eigenen Körper zu benutzen. Er hat nicht das Recht, seine eigenen Lungen zu benutzen, und deshalb muss aufhören zu atmen. Obwohl das albern klingt, es ist ein unmittelbares und unvermeidliches Ergebnis der Prämisse, dass Menschen keine Eigentumsrechte haben.
 
 It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
 
