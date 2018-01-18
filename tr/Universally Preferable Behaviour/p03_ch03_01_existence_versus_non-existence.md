@@ -162,6 +162,6 @@ Ama hükümete ait olmayan "boş bölgede", tecavüz sevgi kurmak, insan kaçır
 
 Ben "karşı dünya *geçersiz bölge*" insan mutluluğu önünde dünya üzerindeki en temel engel dediğim zaman bunu kastediyorum. Çalmak bizim için yanlıştır, aslında bu durum düşüncede böyledir ancak "hükümet" olarak adlandırılan bu deli alternatif evrende çalmak bir şekilde "doğru" olarak düşünülebilir mi?
 
-[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
+[^2]: Hatta "yanlış doğruya eşittir" ifadesinin içerdiği gerçek değerin mantıksal kabusu üzerine hiç *başlamadım* bile.
 
-[^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.
+[^3]: Ayrıca bu argüman matematik öğretmenleri ile de çok iyi çalışmama eğilimindedir - Doğru olmayan cevabın belki diğer evrende doğru olabileceği ve böylece bu cevabı yanlış olarak işaretlemenin adilane olmayacağı argümanını başarılı bir şekilde tartışan bir öğrenci hiç görmedim.
