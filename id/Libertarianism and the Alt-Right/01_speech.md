@@ -58,7 +58,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
     
     <blockquote>
       <p>
-        Equality is bullshit. Hierarchy is essential. The races are different. The sexes are different. Morality matters and degeneracy is real. All cultures are not equal and we are not obligated to think they are. Man is a fallen creature and there is more to life than hollow materialism. Finally, the white race matters, and civilization is precious. This is the Alt-Right.
+        Kesetaraan adalah omong kosong. Hirarki sangat penting. Berbeda ras. Berbeda jenis kelamin. Masalah moral dan degenerasi itu nyata. Semua budaya tidak sama dan kita tidak berkewajiban untuk memikirkannya. Man is a fallen creature and there is more to life than hollow materialism. Finally, the white race matters, and civilization is precious. This is the Alt-Right.
       </p>
     </blockquote>
     
