@@ -52,7 +52,7 @@ Hayır, son olarak, köpek balıkları insan öldürmeye karşı bir yeterliliğ
 
 UPB nesnel ve evrensel maddeye dayalı istisnalara ya da biyolojik farklılıklara izin verir, tıpkı diğer bilimlerin yaptığı gibi. Gazların ıstıldığında genişlediği olan bilimsel teori tabii ki yalnızca gazlara uygulanır. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
 
-In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. Size geometrinin Karşı Açı Teoremi'nin bir daire veya bulut için geçerli olmadığı için geçersiz olduğunu söyleyebilirim. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+Aynı şekilde, ahlak, önlenebilirlik gereksiniminden dolayı, sadece mantık bilincine başvurur. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. Size geometrinin Karşı Açı Teoremi'nin bir daire veya bulut için geçerli olmadığı için geçersiz olduğunu söyleyebilirim. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
 
 Başka bir söyleyiş ile, hatalı uygulama hatalı anlaşılamaz.
 
