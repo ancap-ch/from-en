@@ -4,6 +4,6 @@ Bu yeni teori sadece belirgin olana işaret ederse eğer daha az değer taşır.
 
 Yine bunun gibi, UPB çerçevesi, ve doğru bulduğu veya doğru bulmadığı ahlaki kurallar, ideal olarak bize yaşam sürdüğümüz dünyayla ve birbirimizle olan ilişkilerimiz hakkında, şaşırtıcı bilgiler vermelidir.
 
-If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
+UPB'nin tüm yapabildiği, hırsızlığın, cinayetin ve tecavüzün ahlaki olarak yanlış olduğunu kanıtlamaksa, neredeyse kimse başlamak için bunun iyi olduğuna inanmadığından, bu çok bir fark yaratmaz.
 
 Bundan dolayı içinde yaşadığımız bu dünyaya bu çerçeveyi adapte edelim ve ondan ne değer çıkıyor görelim.
