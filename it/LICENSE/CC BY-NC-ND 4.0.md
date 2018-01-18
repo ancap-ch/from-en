@@ -20,13 +20,13 @@ Con l'esercizio di uno qualunque dei Diritti Concessi in Licenza (sotto definiti
 
 a. **Materiale Elaborato**significa materiale oggetto di Diritti d'Autore e Simili, che derivi o sia basato sul Materiale Concesso in Licenza nel quale il Materiale Concesso in Licenza sia tradotto, alterato, arrangiato, trasformato o altrimenti modificato, in una maniera che richieda il permesso ai sensi dei Diritti d'Autore e Simili detenuti dal Licenziante. Ai fini della presente Licenza Pubblica, laddove il Materiale Concesso in Licenza sia una composizione musicale, un'esecuzione musicale o una registrazione di suoni, la sincronizzazione del Materiale Concesso in Licenza con un'immagine in movimento costituisce sempre Materiale Elaborato.
 
-b. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+b. **Diritti d'Autore e Simili**significa diritti d'autore e/o diritti simili strettamente connessi al diritto d'autore, inclusi, fra gli altri, l'esecuzione, la diffusione, la registrazione di suoni e il Diritto Sui Generis sulle Banche Dati, comunque denominati o classificati. Ai fini della presente Licenza Pubblica, i diritti specificati all'interno degli Artt. 2(b)(1)-(2) non sono Diritti d'Autore e Simili.
 
-e. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+e. **Misure Tecnologiche Efficaci**significa quelle misure che, in assenza di una specifica autorizzazione, non possono essere aggirate secondo le norme che recepiscono gli obblighi previsti dall'art. 11 del Trattato OMPI sul diritto d'autore adottato il 20 dicembre 1996 e/o simili accordi internazionali.
 
-f. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+f.**Eccezioni e Limitazioni**significa qualunque eccezione e/o limitazione ai Diritti D'Autore e Simili, inclusi "fair use" e "fair dealing", che si applichi al Tuo utilizzo del Materiale Concesso in Licenza.
 
-h. **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+h.**Materiale Concesso in Licenza**significa qualsiasi opera artistica o letteraria, banca dati, o altro materiale al quale il Licenziante abbia applicato la presente Licenza Pubblica.
 
 i. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
 
