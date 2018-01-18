@@ -14,7 +14,7 @@ Eğer güç kullanmak evrensel olarak tercih edilebilir ise, o zaman hiç kimse 
 
 Ayrıca, güç kullanmak her zaman tercih edilebilirse, tecavüz ve cinayet gibi suçlar giderek önemsizleşir; eğer güç kullanmak her zaman tercih edilirse, aşk yaşamak ahlaka aykırı hale gelirken tecavüz ahlaki olur - ancak yalnızca tecavüzcünün, şiddetin kendisindense ona *teslim* olurken, kurbanı için ahlaka girer ki bu da başka bir çelişkidir.
 
-If, on the other hand, we say that violence is bad, then we open up the possibility of self-defence If it is a UPB-compliant statement to say that violence is evil, then we know that, since that which is evil can be prevented through the use of violence, the use of violence to *oppose* violence is morally valid.
+Fakat bir diğer yandan, eğer şiddetin kötü olduğunu söylersek, kendini savunma ihtimalini ortaya çıkarmış oluruz. Şiddetin kötüye gittiğini söyleyen bir UPB uyumlu deyimiyse, biliyoruz ki, kötü olan şey şiddet aracılığıyla önlenebileceği için şiddete *karşılık* şiddet kullanımı da ahlaki olarak geçerlidir.
 
 Bu nedenle, şiddetin kötülük olduğunu bildiğimiz için, karşı koymak için güç kullanabileceğimizi biliyoruz. Eğer bir olayı kötü olarak tanımlıyorsak, ama kişiyi bunu yapmaktan alıkoyamıyorsak, o zaman biz ahlak filozofu değil, sadece peşin hükümlü arkeologlarız. Bu, hastalığın kötüye gittiğini, ancak bunun önlenmesi ya da iyileştirilmesi girişiminde bulunulmaktan kötüye gittiğini söyleyen tıbbi bir teori ile benzerlik gösterecektir - ki bu hiç de anlam ifade etmez.
 
