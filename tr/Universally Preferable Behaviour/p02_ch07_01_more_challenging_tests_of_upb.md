@@ -24,9 +24,9 @@ Peki, başka bir paradoks yaratıyoruz. Nefsi müdafaa, şiddeti önlemek için 
 
 Nefsi müdafaa "kötülük" olamaz, çünkü kötülük tanımı gereği zorla engellenebilir. Ama yinede, kendini savunma, kuvvetin başlatılmasına karşı bir tepkidir ve güç kullanarak önlenemez tıpkı bir futbol topunun hareketini onu şiddetli bir şekilde tekmeleyerek durdurmayı denediğinizde bunu başaramayacağınız gibi.
 
-Self-defence also cannot be *required* behaviour, since required behaviour (“don’t rape”) can be enforced through violence, which would mean that anyone failing to violently defend himself could be legitimately aggressed against. Bununla birlikte, kendisini savunmayı başaramayan birisi karşı saldırıya maruz kalmaktadır ve dolayısıyla herkesin kendisini savunmayan birine yasal olarak şiddetle davranabileceği, yalnızca mantıksız değil, ahlaki açıdan da tiksindiricidir.
+Meşru müdafaa *gerekli* bir davranış olamaz çünkü kendini şiddetle savunmayı başaramayan insanın meşru olarak saldırıya geçilebileceği anlamına gelen gerekli davranış ("tecavüze maruz kalmamak") şiddet yoluyla zorlanabilir. Bununla birlikte, kendisini savunmayı başaramayan birisi karşı saldırıya maruz kalmaktadır ve dolayısıyla herkesin kendisini savunmayan birine yasal olarak şiddetle davranabileceği, yalnızca mantıksız değil, ahlaki açıdan da tiksindiricidir.
 
-If Bob attacks Doug, but it is completely wrong for Doug to use violence to defend himself, then violence ends up being placed into two moral categories – the initiation of force is morally good, but self-defence is morally evil, which cannot stand according to UPB.
+Eğer Bob Doug'a saldırırsa, ve aynı zamanda Doug'un kendini savunmak için şiddeti kullanması tamamen yanlışsa, bu durumda UPB'ye göre şiddet iki farklı ahlaki kategoriye girer - güç başlatmak ahlaki açıdan iyidir, ancak kendini savunma ahlaken kötü konumdadır.
 
 However, you might argue, does not the proposition that self-defence is good also make violence both good and bad at the same time – the violence that is used to attack is bad, but the violence that is used for self-defence is good?
 
