@@ -42,7 +42,7 @@ Wie oben erwähnt, entweder Menschen haben Eigentumsrechte, oder sie es nicht tu
 
 Wenn ein Mann kein Eigentumsrecht hat, dann hat er nicht das Recht, seinen eigenen Körper zu benutzen. Er hat nicht das Recht, seine eigenen Lungen zu benutzen, und deshalb muss aufhören zu atmen. Obwohl das albern klingt, es ist ein unmittelbares und unvermeidliches Ergebnis der Prämisse, dass Menschen keine Eigentumsrechte haben.
 
-It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
+Es ist ziemlich sicher anzunehmen, dass jeder, mit dem Sie Eigentumsrechte debattieren, ist zeichnung Atem und stimmt damit mit Ihnen überein, dass er das Recht hat, zumindest seinen eigenen Körper zu benutzen.
 
 The question then comes up whether or not human beings have the right to *exclusive* property use. For instance, property could be defined as a sort of time-share principle of ownership, insofar as everyone should have the right to own everything, on some schedule or another.
 
