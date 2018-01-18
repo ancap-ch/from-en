@@ -22,9 +22,9 @@ Fizik ve biyoloji alanlarında iyi kanıtlanan "kendiliğinden düzen" fikri, to
 
 Yinede, "hükümetlere", toplumun örgütlenmesi ve devamı için, "tanrılara" evreni örgütlemeleri ve devam ettirmeleri duyulandan daha fazla ihtiyaç duyulmuyor.
 
-Aslında, dinlerin bilimin ilerlemesini engellediği gibi hükümetler de milletin ilerlemesini engellemektedir. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+Aslında, dinlerin bilimin ilerlemesini engellediği gibi hükümetler de milletin ilerlemesini engellemektedir. Tıpkı *din*in illüzyonunun tarih boyunca yüz milyonlarca insanın ölümüne sebep olduğu gibi biz de *hükümet* illüzyonuna sahibiz.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. Fantezi ile yaşamayı seçtiğimizde, bir şekilde, kaçınılmaz olarak yıkımı da seçmiş oluruz.
+Tıpkı dinin yanlış ahlakının yolsuzluk, şiddet ve benzeri her türlü kötüye kullanmayı meşrulaştırdığı gibi hükümetlerin yanlış ahlakı da aynı şeyi yapıyor. Fantezi ile yaşamayı seçtiğimizde, bir şekilde, kaçınılmaz olarak yıkımı da seçmiş oluruz.
 
 Toplumu dini ahlaki mitolojilere uygun olarak yönetmeyi seçtiğimizde, savaşlar, zorbalık, bastırma, istismar, yolsuzluk ve anlaşılmaz ikiyüzlülükle sonuçlanmaktadır.
 
