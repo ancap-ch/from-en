@@ -158,9 +158,9 @@ This is as completely insane and corrupt as me continuing to tell a woman I am r
 
 Mahkemede, yozlaşmış, çılgın, belli ve kendi kendine hizmet eden riyakarlığım yüzünden hakaret edilip hapishaneye atılabilirim.
 
-Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
+Ama hükümete ait olmayan "boş bölgede", tecavüz sevgi kurmak, insan kaçırmak bir davet, hırsızlığı kabul etmemek kötülüğün bencilliği ve zorbalık ise kibarlık haline gelmiştir.
 
-This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
+This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Çalmak bizim için yanlıştır, aslında bu durum düşüncede böyledir ancak "hükümet" olarak adlandırılan bu deli alternatif evrende çalmak bir şekilde "doğru" olarak düşünülebilir mi?
 
 [^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
 
