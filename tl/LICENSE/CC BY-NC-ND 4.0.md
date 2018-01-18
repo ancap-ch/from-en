@@ -107,13 +107,13 @@ a. ***Atribyusiyon.***
 
 ### Ika-4 na Seksyon - Mga Karapatan sa Database na Sui Generis.
 
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+Kung saan ang mga Karapatan sa Lisensyado ay kasama ang mga Karapatan sa Database na Sui Generies na na-aplay sa Iyong paggamit sa Materyal na Lisensyado:
 
-a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only and provided You do not Share Adapted Material;
+a. para sa pag-iiwas ng pag-aalinlangan, ang ika-2(a)(1) na Seksyon ay nag-grant sa Iyo ng karapatang makapag-ekstrak, makagamit muli, makapag-reprodyus, at maka-Bahagi sa lahat o isang porsyon na substansyal sa mga nilalaman sa database para sa mga layuning HindiKomersyal lamang at sa pagpapalagay na hindi Mo nai-Share ang Materyal na Kinupkop;
 
-b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
+b. kung Ikaw ay nagsama sa lahat o mga porsyon na substansiyal sa mga nilalaman ng database sa database na kung saan Ikaw ay mayroong Mga Karapayan sa Database na Sui Generis, kung kayat ang database na kung saan Ikaw ay mayroong Mga Karapatan sa Database na Sui Generis (ngunit hindi aa mga indibidwal na mga kontento nito) ay isang Materyal na Kinupkop; at
 
-c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
+c. Kailangan mong i-komplay ang mga kondisyon sa ika-3(a) na Seksyon kung Ikaw ay Nag-share sa lahat o porsyong substansiyal sa mga nilalaman ng database.
 
 For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 
