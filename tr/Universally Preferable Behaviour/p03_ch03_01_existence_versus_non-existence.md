@@ -54,7 +54,7 @@ Toplum, tam olarak, gerekçenin ve kanıtların kişiden evrene doğru sıçraya
 
 Hükümetin, toplumun geri kalanına karşıt ahlaki kurallar çerçevesinde hareket ettiğini söylemek, "Leprechaunların yerçekimine karşı bağışıklıkları vardır." demekle tamamen aynı şeydir. Her şeyden önce, Leprechaunlar gerçek değildir – ve var olmadıklarına inanabileceğimiz yollardan bir tanesi de yerçekimine karşı bağışıklıklarının olduğunun iddia edilmesidir. Kütlesi olan her şey yer çekimine maruz kalır – genel olarak yer çekimine karşı koyabilen bir şeyin kütlesi yoktur ve bu nedenle gerçek değildir. "Leprechaunsların yer çekimine karşı bağışıklığı vardır" ifadesi, leprechaun'ların varlığını doğrulayan bir totolojidir – ''var olmayan şey yoktur'' cümlesi bunun sembolik karşılığıdır. A, A'dır, Aristo'nun mantık ilkesi yasası, var olmayan olarak tanımlanan varlığın varlığını doğrulamak pek kıymetli değildir.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+Benzer şekilde, ben askerler için adam öldürmenin hükümet temsilcileri için ise hırsızlığın ahlaki olduğunu söylersem, "askerler" ve "hükümet temsilcileri" ahlaki kategoriler olarak *tamamen geçersizdirler*.
 
 If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
 
