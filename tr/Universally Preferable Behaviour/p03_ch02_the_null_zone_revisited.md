@@ -48,7 +48,7 @@ Bu "geçersiz bölge" açısından sadece ihtimal gerçekten vardır. Ya bu *ge�
 
 Eğer bazı noktalarda *biz* bu *geçersiz bölge* ile etkileşime geçebiliyorsak, o zaman onun varlığına ilişkin direk duyusal veya rasyonel kanıtlar elde etmeliyiz. Başka bir deyişle, bir şekilde bizim evrenimize uzanmış olmalı. Ancak bizim evrenimizde algılanabilir hale geldiği zaman, rasyonel ve empirik varoluşa sahip olmalı tıpkı algılayabildiğimiz her şey gibi. Böylece bunlar başka bir ifade ile bizim evrenimize uzananlar, *bizim evrenimizde kare şeklinde bir dairenin varlığını destekleyecek bir alan yaratamazlar*.
 
-Bu yüzden şundan emin olabiliriz, eğer *biz* bu diğer evreni şimdiye kadar algılayabilseydik, topladığımız kanıtlar hiçbir şekilde kendisiyle çelişen ifadelerin varlığını desteklemezdi. Square circles, gods and other self-contradictory concepts cannot hide there, any more than they can hide in the wet dreams of leprechauns.
+Bu yüzden şundan emin olabiliriz, eğer *biz* bu diğer evreni şimdiye kadar algılayabilseydik, topladığımız kanıtlar hiçbir şekilde kendisiyle çelişen ifadelerin varlığını desteklemezdi. Kareli daireler, tanrılar ve çelişki içindeki diğer kavramlar leprechaun'ların ıslak rüyalarında gizleyebileceklerinden daha fazlasını gizleyemezler.
 
 On the other hand, if it turns out that we are *never* able to detect this other universe, and it remains a completely theoretical entity, with no evidence or rationality to support it, then it is simply a conceptual bag in which it is “convenient” to place things that are obviously not true.
 
