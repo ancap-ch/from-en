@@ -120,13 +120,13 @@ Assim, o estabelecimento de uma verdade consistente e universal necessariamente 
 
 Os parasitas mais eficazes - ou vírus - são aqueles que adoecem o corpo com a indiferença. Os nossos sistemas imunológicos são desenhados para atacar substâncias estranhas dentro do corpo, isolando-as e matando-as. Tememos o HIV e o cancro em particular, porque eles são capazes de ignorar o nosso sistema imunológico. A mesma técnica é usada pelos parasitas intelectuais, para desactivar os sistemas de defesa daqueles de quem se aproveitam.
 
-Se um estranho o atacar numa esquina e exigir o seu dinheiro, você ficará chocado e horrorizado. Pode lutar, correr, ou dar-lhe a sua carteira, mas ficará chocado, irritado e assustado com a interacção. Quando repetir a história, irá contá-la de forma a reforçar a base e a violação vil dos seus direitos pessoais e de propriedade. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+Se um estranho o atacar numa esquina e exigir o seu dinheiro, você ficará chocado e horrorizado. Pode lutar, correr, ou dar-lhe a sua carteira, mas ficará chocado, irritado e assustado com a interacção. Quando repetir a história, irá contá-la de forma a reforçar a base e a violação vil dos seus direitos pessoais e de propriedade. Os outros sentiram simpatia pela sua situação e evitaram a dita esquina no futuro.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+Este é um exemplo de "pequena verdade", que é: "Para mim, roubar é errado"
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+No entanto, quando um agente do governo lhe envia uma carta a exigir-lhe algum pagamento, pode sentir uma certa irritação, mas não irá relatar a história aos seus amigos, com o mesmo horror e indignação.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+Este é um exemplo de uma "meia verdade", que obscurece uma "grande verdade", que é: "roubar é errado"
 
 This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
 
