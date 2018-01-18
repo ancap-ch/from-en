@@ -130,4 +130,4 @@ Este é um exemplo de uma "meia verdade", que obscurece uma "grande verdade", qu
 
 Este livro centrar-se-à em expor e destruir essas falsas "meias verdades". Creio que a Humanidade sofre, infinitamente, sob a tirania das falsas "meias verdades" éticas, que justificam a visão destrutiva do mundo da superstição religiosa, do despotismo secular e do culto da família.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+A tese neste livro é que na ética, como em qualquer outra disciplina intelectual, as grandes verdades surgem directamente das pequenas verdades. A neblina desorientadora das "meias verdades" é um caminho infernal para navegar, mas vale a pena o esforço, porque a única alternativa fundamental à verdade é a exploração, a destruição e, inevitavelmente, a morte prematura de milhões.
