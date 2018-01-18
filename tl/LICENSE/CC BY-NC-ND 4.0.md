@@ -63,13 +63,13 @@ a. ***Paggawad ng lisensya.***
         
         B. **Walang mga restriksyon na pang-downstream.** Ikaw ay maaaring hindi mag-offer o mag-lapat ng kahit anumang adisyonal o magkakaibang mga termino o mga kondisyon dito, o mag-aplay sa kahit anumang mga Hakbang na Pangteknolohikal na Epektibo, ang Materyal na Lisensiyado sa paggawa ng mga restrik na pagsasanay sa mga Karapatang Nakalisensiyado sa numang resipyent sa Materyal na Lisensiyado.
     
-    2. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+    2. **Walang Pagkakaendorso.**Walang ni isang mga konstityut sa Lisensiyang Pampubliko o maaaring maka-construe bilang isang permisyon para maka-asert o maka-implay na Ikaw ay, o na Iyong paggamit sa Materyal na Lisensiyado, naka-konektado sa, o naka-sponsor, inendorso, gina-grant sa opisyal na istatus, ang Tagapagpapalisensya o iba pang mga nakalaan sa atribyusyong natanggap na naprovide sa ika-3(a)(1)(A)(i) na Seksyon.
 
-b. ***Other rights.***
+b. ***Iba pang mga karapatan.***
 
-1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+1. Mga karapatang moral, kagaya ng sa karapatan sa integridad, ay hindi lisensiyado na napapabilang aa Lisensiyang Pampubliko, o publisidad, pribasiya, at/o iba pang kaparehas na karapatang pang-personalidad; gayonpaman, sa ekstent na posible, ang Tagapagpapalisensya ay nagwi-waive at/o pumapayag na hindi i-asert ang anumang mga karapatan na hinhawak ng Tagapagpapalisensiya sa ekstent na limitado na kinakailangan para mapayagan Ikaw na maka-gamit sa mga Karapatan ng Lisensiyado, ngunit kung hindi ay.
 
-2. Patent and trademark rights are not licensed under this Public License.
+2. Mga Karapatan sa patent at trademark ay hindi lisensiyado sa Lisensiyang Pampublikong ito.
 
 3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
 
