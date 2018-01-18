@@ -1,6 +1,6 @@
 ## Parallels
 
-Bilim Devriminden önce, doğal dünyanın merkezindeki bilinçli ve "ahlaki" bir varlık olmaksızın kendini sürdüremeyeceği akla yatkın değildi. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Takımyıldızları tanrıların hikayelerini ve mezarlarını özetledi ve iblislerin öfkeside fırtınaları.
+Bilim Devriminden önce, doğal dünyanın merkezindeki bilinçli ve "ahlaki" bir varlık olmaksızın kendini sürdüremeyeceği akla yatkın değildi. Doğaüstü bir arabanın demirlerini izleyen güneş doğdu; ay onun soğuk ve yalnız kardeşiydi. Takımyıldızları tanrıların hikayelerini ve mezarlarını özetledi ve iblislerin öfkeside fırtınaları.
 
 Doğanın kendi kendini üreten ve kendi kendini sürdürebilen bir sistem olduğu düşüncesi neredeyse akıl almazdı. Darwinci devrim, yaşamın yaratılmadığı, ama daha çok geliştiği, materyalden biyolojik dünyaya olan bu fikri getirdi.
 
