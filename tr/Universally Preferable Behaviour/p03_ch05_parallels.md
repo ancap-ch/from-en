@@ -20,7 +20,7 @@ Bununla birlikte, "hükümet"in varlığı "tanrı"nın varlığından daha fazl
 
 Fizik ve biyoloji alanlarında iyi kanıtlanan "kendiliğinden düzen" fikri, toplum dünyasında bizim için büyük ölçüde kavranılamaz kalmaya devam etmektedir.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+Yinede, "hükümetlere", toplumun örgütlenmesi ve devamı için, "tanrılara" evreni örgütlemeleri ve devam ettirmeleri duyulandan daha fazla ihtiyaç duyulmuyor.
 
 Aslında, dinlerin bilimin ilerlemesini engellediği gibi hükümetler de milletin ilerlemesini engellemektedir. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
 
