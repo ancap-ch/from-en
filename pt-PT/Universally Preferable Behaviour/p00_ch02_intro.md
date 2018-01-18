@@ -118,7 +118,7 @@ Assim, o estabelecimento de uma verdade consistente e universal necessariamente 
 
 ### Parasitismo efectivo
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+Os parasitas mais eficazes - ou vírus - são aqueles que adoecem o corpo com a indiferença. Os nossos sistemas imunológicos são desenhados para atacar substâncias estranhas dentro do corpo, isolando-as e matando-as. Tememos o HIV e o cancro em particular, porque eles são capazes de ignorar o nosso sistema imunológico. A mesma técnica é usada pelos parasitas intelectuais, para desactivar os sistemas de defesa daqueles de quem se aproveitam.
 
 If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
 
