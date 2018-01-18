@@ -104,7 +104,7 @@ Estamos familiarizados com o exemplo da Mafia, que ameaça os potenciais rivais 
 
 No entanto, quando os filósofos expõem as falsidades necessárias para a continuação da exploração, não têm como objectivo estabelecer-se como concorrentes. Não desejam *substituir* a Mafia, ou a igreja - desejam eliminá-la completamente.
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+Uma analogia mais actual seria a relação entre o estado, os intermediários e os contribuintes. Estes lobistas atacarão, ferozmente, os outros que competirem pelos mesmos impostos. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
 
 Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
 
