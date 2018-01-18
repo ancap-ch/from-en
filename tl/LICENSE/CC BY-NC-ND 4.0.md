@@ -137,13 +137,13 @@ b. Kung saan ang Iyong karapatan sa paggamit sa Materyal na Lisensyado ay nai-te
     
     Para sa pag-iiwas sa pagdududa, ang ika-6(b) na Seksyon na ito ay hindi nakakaapekto sa anumang karapatan ng Tapagpapalisensya na maaring makahanap ng mga remediya para sa Iyong mga pagsuway sa Lisensiyang Pampublikong ito.
 
-c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
+c. Para sa pag-iiwas ng pagdadalawang-isip, ang Tagapagpapalisensya ay maaaring makapag-alok ng Materyal na Lisensyado sa ilalim ng mga termino nakahiwalay o mga kondisyon o ipatigil ang pagdidistribyut sa Materyal na Lisensyado kahit ano mang oras; ganunpaman, sa pagsagawa nito ay hindi makakapag-termineyt sa Lisensyang Pampublikong ito.
 
-d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+d. Ang ika-1, 5, 6, 7, at 8 na mga Seksyon ay nakaligtas sa terminasyon ng Lisensyang Pampublikong ito.
 
-### Section 7 – Other Terms and Conditions.
+### Ika-7 na Seksyon - Iba Pang Mga Termino at Mga Kondisyon.
 
-a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
+a. Ang Tagapagpapalisensya ay hindi nararapat na maisaklaw sa anumang adisyonal o mga terminong magkakaiba o mga kondisyon na nakomunika Mo maliban nalang sa pagpayag na naekspres.
 
 b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
 
