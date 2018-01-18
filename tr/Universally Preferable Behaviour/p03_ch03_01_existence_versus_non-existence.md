@@ -80,7 +80,7 @@ Bu sebeple cinayetin ahlaki olarak iyi olduğuna inanmak cinayeti ahlaki açıda
 
 Fikirler gerçeği değiştirmez.
 
-Düşünceler gerçeği değiştirmediği için, ulusal bir ahlak kuralını göz ardı etme konusunda geri dönüşü ya da herhangi bir istisnada sizi bağışlayamam. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Düşünceler gerçeği değiştirmediği için, ulusal bir ahlak kuralını göz ardı etme konusunda geri dönüşü ya da herhangi bir istisnada sizi bağışlayamam. Ahlaki kurallar evrensel mantıkla birlikte, bir insanın fiziksel doğası ve gerçeğine de dayandığı için sana "havaya uçma", "suyun üzerinde yürümek" veya doğru bir şekilde yürüyebilme imkânı sağlayamayacağım gibi başka bir "cinayet hakkı" da veremem.
 
 ### Gönüllülük Olarak Hükümet
 
