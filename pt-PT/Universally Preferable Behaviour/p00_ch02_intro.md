@@ -120,7 +120,7 @@ Assim, o estabelecimento de uma verdade consistente e universal necessariamente 
 
 Os parasitas mais eficazes - ou vírus - são aqueles que adoecem o corpo com a indiferença. Os nossos sistemas imunológicos são desenhados para atacar substâncias estranhas dentro do corpo, isolando-as e matando-as. Tememos o HIV e o cancro em particular, porque eles são capazes de ignorar o nosso sistema imunológico. A mesma técnica é usada pelos parasitas intelectuais, para desactivar os sistemas de defesa daqueles de quem se aproveitam.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+Se um estranho o atacar numa esquina e exigir o seu dinheiro, você ficará chocado e horrorizado. Pode lutar, correr, ou dar-lhe a sua carteira, mas ficará chocado, irritado e assustado com a interacção. Quando repetir a história, irá contá-la de forma a reforçar a base e a violação vil dos seus direitos pessoais e de propriedade. Others would feel sympathy for your predicament, and would avoid said alley in the future.
 
 This is an example of a “little truth,” which is: “Stealing from me is wrong.”
 
