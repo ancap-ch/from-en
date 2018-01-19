@@ -164,7 +164,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                           </p>
                           
                           <p>
-                            Accordingly, given the present constellation of affairs, then, any promising libertarian strategy must, very much as the Alt-Right has recognized:
+                            Oleh karena itu, mengingat urusan konstelasi saat ini, maka setiap strategi libertarian yang menjanjikan harus sesuai dengan yang telah diakui oleh kelompok sayap kanan:
                           </p>
                           
                           <ol>
