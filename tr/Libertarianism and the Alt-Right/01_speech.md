@@ -148,11 +148,11 @@ Nitekim, *academia* ve akademik dünyanın sosyal değişim için bir özgürlü
 
 [^11]: Onları buraya davet etmenin nedeni de tabii ki de budur.
 
-[^12]: Which is entirely compatible with libertarianism and its *desideratum* of freedom of association and opposition to forced integration.
+[^12]: Liberterizm ile onun *desideratum* örgütlenme özgürlüğü ve zorla entegrasyona karşı muhalefet tamamen uyumludur.
 
 [^13]: Liberterizmle çelişkili ve insan refahına kayıtsızdır.
 
-[^14]: Let me hasten to add here that, despite my misgivings about his “economics,” I still consider Pat Buchanan a great man.
+[^14]: "Ekonomi" konusundaki endişelerime rağmen, Pat Buchanan'ı harika bir adam olarak görüyorum.
 
 [^15]: An endeavor, by the way, that has been ridiculed by Taki Theodoracopulos, a veteran champion of the paleo-conservative-turned-Alt-Right movement and Spencer’s former employer.
 
