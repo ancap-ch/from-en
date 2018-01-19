@@ -70,88 +70,88 @@ a. ***Lizenzgewährung***
 
 6. **Inhaltliche Indifferenz.** Die vorliegende Public License begründet nicht die Erlaubnis, zu behaupten oder den Eindruck zu erwecken, dass Sie oder Ihre Nutzung des lizenzierten Materials mit dem Lizenzgeber oder den Zuschreibungsempfängern gemäß Abschnitt 3(a)(1)(A)(i) in Verbindung stehen oder durch ihn gefördert, gutgeheißen oder offiziell anerkannt werden.
 
-b. ***Other rights.***
+b. ***Sonstige Rechte.***
 
-1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+1. Urheberpersönlichkeitsrechte, wie etwa zum Schutz vor Werkentstellungen, werden durch die vorliegende Public License ebenso wenig mitlizenziert wie das Recht auf Privatheit, auf Datenschutz und/oder ähnliche Persönlichkeitsrechte; gleichwohl verzichtet der Lizenzgeber auf derlei Rechte bzw. ihre Durchsetzung, soweit dies für Ihre Ausübung der lizenzierten Rechte erforderlich und möglich ist, jedoch nicht darüber hinaus.
 
-2. Patent and trademark rights are not licensed under this Public License.
+2. Patent- und Kennzeichenrechte werden durch die vorliegende Public License nicht lizenziert.
 
-3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
+3. Soweit wie möglich verzichtet der Lizenzgeber auf Vergütung durch Sie für die Ausübung der lizenzierten Rechte, sowohl direkt als auch durch eine Verwertungsgesellschaft unter welchem freiwilligen oder abdingbaren gesetzlichen oder Pflichtlizenzmechanismus auch immer eingezogen. In allen übrigen Fällen behält sich der Lizenzgeber ausdrücklich jedes Recht vor, Vergütungen zu fordern.
 
-### Section 3 – License Conditions.
+### Abschnitt 3 – Lizenzbedingungen.
 
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+Ihre Ausübung der lizenzierten Rechte unterliegt ausdrücklich folgenden Bedingungen.
 
-a. ***Attribution.***
+a. ***Namensnennung.***
 
-1. If You Share the Licensed Material (including in modified form), You must:
+1. Wenn Sie das lizenzierte Material weitergeben (auch in veränderter Form), müssen Sie:
     
-    A. retain the following if it is supplied by the Licensor with the Licensed Material:
+    die folgenden Angaben beibehalten, soweit sie vom Lizenzgeber dem lizenzierten Material beigefügt wurden:
     
-         i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+         i. die Bezeichnung der/des Ersteller(s) des lizenzierten Materials und anderer, die für eine Namensnennung vorgesehen sind (auch durch Pseudonym, falls angegeben), in jeder durch den Lizenzgeber verlangten Form, die angemessen ist;
         
-         ii. a copyright notice;
+         ii. einen Copyright-Vermerk;
         
-         iii. a notice that refers to this Public License;
+         iii. einen Hinweis auf die vorliegende Public License; 
         
-         iv. a notice that refers to the disclaimer of warranties;
+         iv. einen Hinweis auf den Haftungsausschluss;
         
-         v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+         v. soweit vernünftigerweise praktikabel einen URI oder Hyperlink zum lizenzierten Material;
         
     
-    B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+    B. angeben, ob Sie das lizenzierte Material verändert haben, und alle vorherigen Änderungsangaben beibehalten; und
     
-    C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+    C. angeben, dass das lizenzierte Material unter der vorliegenden Public License steht, und deren Text oder URI oder einen Hyperlink darauf beifügen.
 
-2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+2. Sie dürfen die Bedingungen des Abschnitts 3(a)(1) in jeder angemessenen Form erfüllen, je nach Medium, Mittel und Kontext in bzw. mit dem Sie das lizenzierte Material weitergeben. Es kann zum Beispiel angemessen sein, die Bedingungen durch Angabe eines URI oder Hyperlinks auf eine Quelle zu erfüllen, die die erforderlichen Informationen enthält.
 
-3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
+3. Falls der Lizenzgeber es verlangt, müssen Sie die gemäß Abschnitt 3(a)(1)(A) erforderlichen Informationen entfernen, soweit dies vernünftigerweise praktikabel ist.
 
-b. ***ShareAlike.***
+b. ***Share Alike.***
 
-In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.
+Zusätzlich zu den Bedingungen in Abschnitt 3(a) gelten die folgenden Bedingungen, falls Sie abgewandeltes Material weitergeben, welches Sie selbst erstellt haben.
 
-1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.
+1. Die Abwandlungslizenz, die Sie vergeben, muss eine Creative-Commons-Lizenz der vorliegenden oder einer späteren Version mit den gleichen Lizenzelementen oder eine BY-SA-kompatible Lizenz sein.
 
-2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
+2. Sie müssen den Text oder einen URI oder Hyperlink auf die von Ihnen gewählte Abwandlungslizenz beifügen. Diese Bedingung dürfen Sie in jeder angemessenen Form erfüllen, je nach Medium, Mittel und Kontext in bzw. mit dem Sie abgewandeltes Material weitergeben.
 
-3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
+3. Sie dürfen keine zusätzlichen oder abweichenden Bedingungen anbieten oder das abgewandelte Material mit solchen belegen oder darauf wirksame technische Maßnahmen anwenden, sofern dadurch die Ausübung der Rechte am abgewandelten Material eingeschränkt wird, die Sie unter der Abwandlungslizenz gewähren.
 
-### Section 4 – Sui Generis Database Rights.
+### Abschnitt 4 – Sui-generis-Datenbankrechte.
 
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+Soweit die lizenzierten Rechte Sui-generis-Datenbankrechte beinhalten, die auf Ihre Nutzung des lizenzierten Materials Anwendung finden, gilt:
 
-a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
+a. es sei klargestellt, dass Abschnitt 2(a)(1) Ihnen das Recht gewährt, die gesamten Inhalte der Datenbank oder wesentliche Teile davon zu entnehmen, weiterzuverwenden, zu vervielfältigen und weiterzugeben;
 
-b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and
+b. sofern Sie alle Inhalte der Datenbank oder wesentliche Teile davon in eine Datenbank aufnehmen, an der Sie Sui-generis-Datenbankrechte haben, dann gilt die Datenbank, an der Sie Sui-generis-Datenbankrechte haben (aber nicht ihre einzelnen Inhalte) als abgewandeltes Material, insbesondere in Bezug auf Abschnitt 3(b); und
 
-c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
+c. Sie müssen die Bedingungen des Abschnitts 3(a) einhalten, wenn sie alle Datenbankinhalte oder wesentliche Teile davon weitergeben.
 
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+Es sei ferner klargestellt, dass dieser Abschnitt 4 Ihre Verpflichtungen aus der vorliegenden Public License nur ergänzt und nicht ersetzt, soweit die lizenzierten Rechte andere Urheberrechte oder ähnliche Rechte enthalten.
 
-### Section 5 – Disclaimer of Warranties and Limitation of Liability.
+### Abschnitt 5 – Gewährleistungsausschluss und Haftungsbeschränkung.
 
-a. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
+a. **Sofern der Lizenzgeber nicht separat anderes erklärt und so weit wie möglich, bietet der Lizenzgeber das lizenzierte Material so wie es ist und verfügbar ist an und sagt in Bezug auf das lizenzierte Material keine bestimmten Eigenschaften zu, weder ausdrücklich noch konkludent oder anderweitig, und schließt jegliche Gewährleistung aus, einschließlich der gesetzlichen. Dies umfasst insbesondere das Freisein von Rechtsmängeln, Verkehrsfähigkeit, Eignung für einen bestimmten Zweck, Wahrung der Rechte Dritter, Freisein von (auch verdeckten) Sachmängeln, Richtigkeit und das Vorliegen oder Nichtvorliegen von Irrtümern, gleichviel ob sie bekannt, unbekannt oder erkennbar sind. Dort, wo Gewährleistungsausschlüsse ganz oder teilweise unzulässig sind, gilt der vorliegende Ausschluss möglicherweise für Sie nicht.**
 
-b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
+b. **Soweit wie möglich, haftet der Lizenzgeber Ihnen gegenüber nach keinem rechtlichen Konstrukt (einschließlich insbesondere Fahrlässigkeit) oder anderweitig für irgendwelche direkten, speziellen, indirekten, zufälligen, Folge-, Straf- exemplarischen oder anderen Verluste, Kosten, Aufwendungen oder Schäden, die sich aus der vorliegenden Public License oder der Nutzung des lizenzierten Materials ergeben, selbst wenn der Lizenzgeber auf die Möglichkeit solcher Verluste, Kosten, Aufwendungen oder Schäden hingewiesen wurde. Dort, wo Haftungsbeschränkungen ganz oder teilweise unzulässig sind, gilt die vorliegende Beschränkung möglicherweise für Sie nicht.**
 
-c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+c. Der Gewährleistungsausschluss und die Haftungsbeschränkung oben sollen so ausgelegt werden, dass sie soweit wie möglich einem absoluten Haftungs- und Gewährleistungsausschluss nahe kommen.
 
-### Section 6 – Term and Termination.
+### Abschnitt 6 – Laufzeit und Beendigung.
 
-a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+a. Die vorliegende Public License gilt bis zum Ablauf der Schutzfrist des Urheberrechts und der ähnlichen Rechte, die hiermit lizenziert werden. Gleichwohl erlöschen Ihre Rechte aus dieser Public License automatisch, wenn Sie die Bestimmungen dieser Public License nicht einhalten.
 
-b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+b. Soweit Ihr Recht, das lizenzierte Material zu nutzen, gemäß Abschnitt 6(a) erloschen ist, lebt es wieder auf:
 
-1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+1. automatisch zu dem Zeitpunkt, an welchem die Verletzung abgestellt ist, sofern dies innerhalb von 30 Tagen seit Ihrer Kenntnis der Verletzung geschieht; oder
 
-2. upon express reinstatement by the Licensor.
+2. durch ausdrückliche Wiedereinsetzung durch den Lizenzgeber.
     
-    For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+    Es sei klargestellt, dass dieser Abschnitt 6(b) die Rechte des Lizenzgebers, Ausgleich für Ihre Verletzung der vorliegenden Public License zu verlangen, nicht einschränkt.
 
-c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
+c. Es sei klargestellt, dass der Lizenzgeber das lizenzierte Material auch unter anderen Bedingungen anbieten oder den Vertrieb des lizenzierten Materials jederzeit einstellen darf; gleichwohl erlischt dadurch die vorliegende Public License nicht.
 
-d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+d. Die Abschnitte 1, 5, 6, 7 und 8 gelten auch nach Erlöschen der vorliegenden Public License fort.
 
 ### Section 7 – Other Terms and Conditions.
 
