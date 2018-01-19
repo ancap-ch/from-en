@@ -48,9 +48,9 @@ De la misma forma, si un hombre quiere curarse una infección, él *debería* to
 
 En otras palabras, si quieres llegar a la cima de una montaña, simplemente desarlo nunca funcionará. Si quieres conocer los orígenes del universo, las plegarias nunca te proporcionarán una respuesta. La gente aún desea, y ora, pero eso no hace que desear y orar sea más efectivo. Con eso en mente, permitámonos pasar a la pregunta sobre si una preferencia universal puede o no ser válida.
 
-### Arguments And Universality
+### Argumentos Y Universalidad
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+Si elijo debatir, he aceptado implícitamente una gran variedad de premisas que vale la pena pasar algún tiempo descomponer aquí.
 
 #### Premise 1: We Both Exist
 
