@@ -24,25 +24,25 @@ Dado que los seres humanos podemos realizar una casi infinita variedad de accion
 
 Cuando aplicamos este simple hecho a los argumentos éticos, llegamos a algunos resultados muy interesantes.
 
-### Preferencias y Argumentos
+### Preferencias Y Argumentos
 
 Recordando nuestro análisis anterior sobre los argumentos contraproducentes, podemos entender fácilmente la naturaleza contradictoria de la declaración: "las preferencias no existen." Dado que toda acción humana – incluyendo las declaraciones filosóficas – es escogida en preferencia a cualquier otra posible acción, argumentar que las preferencias no existen requiere una *preferencia* por argumentar que las preferencias no existen, lo cual es una declaración contradictoria en sí misma. Argumentar que las preferencias no existen es exactamente lo mismo que argumentar que el lenguaje no existe. Es un argumento totalmente contraproducente.
 
-Ya que es imposible actuar sin expresar una preferencia – sea implícita o explícitamente – cualquiera que actúe acepta la premisa de que existen las preferencias. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+Ya que es imposible actuar sin expresar una preferencia – sea implícita o explícitamente – cualquiera que actúe acepta la premisa de que existen las preferencias. Así que es imposible debatir la existencia de preferencias sin aceptar la existencia de preferencias.
 
-### Preferences And Universality
+### Preferencias Y Universalidad
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+La siguiente pregunta entonces sería: ¿son las preferencias puramente subjetivas, o pueden ser universales?
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+Claramente, algunas preferencias son subjetivas. Los gustos musicales, los pasatiempos personales, la literatura favorita y así sucesivamente son todas preferencias subjetivas y personales.
 
-The challenge arises when we try to define some preferences as *objective*.
+El desafío inicia cuando intentamos definir algunas preferencias como *objetivas*.
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+La proposición ante nostros sería esta: *¿pueden algunas preferencias ser objetivas, es decir, universales?*
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+Cuando digo que algunas preferencias podrían ser objetivas, no me refiero a que todas las personas sigan esas preferencias todo el tiempo. Si yo argumentase que *respirar* es una preferencia objetiva, podría ser fácilmente refutado por el ejemplo de aquellos que cometen suicidio ahorcándose. Si yo argumentase que comer es una preferencia objetiva, mi argumento podría ser refutado con ejemplos de huelgas de hambre y anorexia.
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
+Por lo tanto cuando hablo de preferencias universales, estoy hablando sobre lo que las personas *deberían* preferir, no lo que siempre *en realidad* prefieren. Para usar una analogía científica, para verdaderamente entender el universo, las personas *deberían* usar el método científico – esto no significa que siempre lo hagan, ya que claramente miles de millones de personas consultan cuentos de hadas antiguos en lugar de la ciencia moderna en busca de "respuestas." No hay una manera de alcanzar una verdad sobre el universo sin la ciencia, pero las personas son perfectamente libres de redefinir la "verdad" como un "error," y conformarse con un sinsentido místico.
 
 Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
 
