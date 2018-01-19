@@ -142,7 +142,7 @@ Bu durumda tecavüzün tek mantıklı olma şansı *not* evrensel olarak tecavü
 
 UPB kalıbının etkili ve mantıklı olarak tecavüzün kötü olduğunu doğruladığı gerçeği - "iyi" değildir yada "tercih edilebilir" ya da "kişisel olarak tercih edilebilir" ya da "moral olarak tarafsız" olması - iyiye işarettir. Bu, UPB'nin tüm "sağduyu" ahlaki önermelerini mantıksal olarak en ufak bir şüphe duymadan doğrulayacağını kanıtlamaz, fakat ilk engel aşılır, ve bu bize kutlama için harika bir neden sunmalıdır. Eğer Birleşik Alan Kuramı öneren bir fizikçi olsaydım, ve teorimin uygulaması fırlatılan beyzbolun nereye gideceğini doğru bir şekilde tahmin etmek olsaydı, adil bir şekilde son derece memnun olurdum.
 
-Einstein'in rölativite teorisi ışığın yer çekimi etkisi altında kırıldıpını öngörmüştür - bu ilk doğrulandığında, teori hakkındaki şüphelerin gölgesinin ötesine geçememiştir, ama bu teori *could* doğru olabileceği anlaşılmıştı, bu da ileriye atılmış büyük bir adımdır. İlk doğrulama her zaman en zordur, çünkü işlerin yanlış anlaşılması kolaydır ve hata her zaman doğruluktan fazla olur.
+Einstein'in rölativite teorisi ışığın yer çekimi etkisi altında kırıldığını öngörmüştür - bu ilk doğrulandığında, teori hakkındaki şüphelerin gölgesinin ötesine geçememiştir, ama bu teori *could* doğru olabileceği anlaşılmıştı, bu da ileriye atılmış büyük bir adımdır. İlk doğrulama her zaman en zordur, çünkü işlerin yanlış anlaşılması kolaydır ve hata her zaman doğruluktan fazla olur.
 
 UPB çerçevesi, bizim tecavüz etmenin kötü olduğuna dair ahlaki vaadimizi uygun bir şekilde doğrulamaktadır. Bu kanıtlar için gerekli bir ölçüt -ama yeterli değil- ve tamamıyla ek soruşturmayı destekler. Böylelikle, devam edelim…
 
