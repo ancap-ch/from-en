@@ -56,17 +56,17 @@ Yukarıda ifade edildiği üzere, bilimsel yöntem esasında iki temel sınamaya
 
 Bilimsel yöntemin bir diğer yönüde, madde ortak, kararlı ve öngörülebilir özelliklere sahip atom kombinasyonlarından oluştuğu için, maddenin davranışı ortak, kararlı ve öngörülebilir olmalıdır. Böylelikle, deneyler farklı yer ve zamanlarda *tekrarlanabilir* olmalıdır. "Yüzen kaya" teorimin sadece belirli bir kaya veya günde ya da tek bir yerde doğru olduğunu söyleyemem. Benim teorilerim evrensel, yaygın, istikrarlı ve öngörülebilir *maddenin* davranışını tanımlamalıdır.
 
-Sonunda, aynı tahmini güce sahip herhangi iki teori arasından, ikisinden daha basit olanının tercih edildiğini belirten genel kabul görmüş bir kural vardır - buna Occam's Razor - denir. Prior to the Copernican revolution, when Earth was considered the centre of the universe, the retrograde motion of Mars when Earth passed it in orbit around the sun caused enormous problems to the Ptolemaic system of astronomical calculations. "Çemberler içindeki daireler" çok büyük çarpıldı; hepsi, sadece güneşi güneş sisteminin merkezine yerleştirerek ve gezegen yörüngelerinin eliptik doğasını kabul ederek yok edildi.
+Sonunda, aynı tahmini güce sahip herhangi iki teori arasından, ikisinden daha basit olanının tercih edildiğini belirten genel kabul görmüş bir kural vardır - buna Occam's Razor - denir. Kopernik devriminden önce, Dünya evrenin merkezi olarak kabul edildiğinde, Dünya'nın Güneş'in etrafındaki yörüngeden geçmesiyle birlikte, Mars'ın ters yöndeki hareketi, Ptolemaik sistemde astronomik hesaplamalara ilişkin çok büyük problemlere neden oldu. "Çemberler içindeki daireler" çok büyük çarpıldı; hepsi, sadece güneşi güneş sisteminin merkezine yerleştirerek ve gezegen yörüngelerinin eliptik doğasını kabul ederek yok edildi.
 
 Dolayısıyla, herhangi bir geçerli bilimsel teori (a) evrensel (b) mantıksal (c) deneysel olarak doğrulanabilir (d) tekrarlanabilir ve (e) mümkün olduğunca basit olmalıdır.
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+Yargılama metodolojisi ve bir *ahlak* teorisini kanıtlama, diğer teorileri yargılama ve kanıtlama metodolojisi ile tamamen aynıdır.
 
 #### Manevi Kurallar: Bir tanımı
 
 Ahlak kurallarına ilişkin ilk soru şudur: *ne* onlar?
 
-Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
+Basitçe söylemek gerekirse, *ahlak*, evrensel olarak tercih edilen insan davranışlarını doğru ve istikrarlı bir biçimde belirten bir takım kurallardır, tıpkı *fiziğin* doğru ve istikrarlı bir biçimde maddenin evrensel davranışını belirtmesi gibi.
 
 Sorulması gereken ikinci soru şu:''evrensel olarak tercih edilen davranış'' diye bir şey var mı? Eğer varsa, nasıl bir davranış olabileceğini keşfetmeye başlayabiliriz. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
 
