@@ -79,7 +79,7 @@ Burada üzerine bahsedilebilir birkaç nedeni vardır. Birincisi, hükumet kendi
 
 Üçüncü olarak ise, din ve propagandanın yaygınlığı her zaman insanları hükumetin kötülüklerine kör etmiştir - Bu nedenle yöneticiler her zaman kiliselerin çıkarlarını geliştirmeye ve devlet ''eğitimine'' çok ilgi duyuyorlardı. İnsanların gerçek politika dünyasında ise, her nasılsa, artan güç artan kötülük anlamına gelir. İnanç ile birlikte, aynı zamanda, olanların hepsi iyi olmalı düşüncesi - böylelikle, siyasal iktidarı alt etme mücadelesi ilahi iradeyle savaşıyor. Elbette çok daha fazla sebep sayılabilir ancak bunlar en derin olanların arasında.[^10]
 
-Bu bölümün başlangıcında, hükumetin dağılma fikri ile karşı karşıya kaldıklarında insanların genelde *iki* hata yaptığından bahsetmiştim. Birincisi, kötü insanlar var olduğu için hükumetler bir gerekliliktir. İkincisi de, hükumetlerin yokluğunda ortaya çıkan herhangi bir sosyal kurumun, kaçınılmaz olarak, hükumetlerin yerine geçeceğine olan inançtır. Thus, Dispute Resolution Organisations (DROs), insurance companies and private security forces are all considered potential cancers that will swell and overwhelm the body politic.
+Bu bölümün başlangıcında, hükumetin dağılma fikri ile karşı karşıya kaldıklarında insanların genelde *iki* hata yaptığından bahsetmiştim. Birincisi, kötü insanlar var olduğu için hükumetler bir gerekliliktir. İkincisi de, hükumetlerin yokluğunda ortaya çıkan herhangi bir sosyal kurumun, kaçınılmaz olarak, hükumetlerin yerine geçeceğine olan inançtır. Bu yüzden, Uyuşmazlıkla Mücadele Kuruluşları(UMKlar) sigorta şirketleri ve özel güvenlik güçlerinin hepsi siyasal bedeni şişiren ve ezen potansiyel kanser hücreleri olarak görülür.
 
 Bu görünüm, yukarıda özetlenen aynı hatadan doğmaktadır. Eğer *bütün* toplumsal kurumlar sürekli gücünü büyütmeyi ve arzularını diğerlerine dayatmayı deniyorlarsa o zaman bu korkunç argüman ile merkezi hükümetin varolmasına izin verilemez. Eğer grupların her zaman diğer gruplar ve bireyler üzerinde güç kazanmayı denemesi değişmez bir yasaysa *o zaman içlerinden biri galip gelse dahi güç şehveti sona ermeyecek kölelik normal hale gelene kadar neredeyse muhalefetsiz bir şekilde tüm topluma yayılmaya devam edecektir.*
 
@@ -150,7 +150,7 @@ Gönüllü bir toplumda hiç vergi alınamayacak ve bu nedenle tekelci güç eld
   
   <fn name="10">
     <p>
-      For a more detailed discussion of the role that <em>parents</em> play in inculcating the fantasy that “power equals virtue,” see <a href="http://wiki.mises.org/wiki/On_Truth">On Truth</a>.
+      <em>Ebeveynlerin</em> "güç eşittir erdem" kuruntusunu telkin etmedeki rolü üzerine daha detaylı bir tartışma için bak <a href="http://wiki.mises.org/wiki/On_Truth">Doğruluk Üzerine</a>.
     </p>
   </fn>
   
