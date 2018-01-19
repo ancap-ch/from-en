@@ -96,7 +96,7 @@ A main cause, even if by no means the only one, for the current invasion of West
 
 #### Defund the ruling elites and its intellectual bodyguards
 
-Expose and widely publicize the lavish salaries, perks, pensions, side-deals, bribes and hush monies received by the ruling elites: by the higher-ups in government and governmental bureaucracies, of supreme courts, central banks, secret services and spy agencies, by politicians, parliamentarians, party leaders, political advisors and consultants, by crony-capitalists, “public educrats,” university presidents, provosts and academic “stars.” Drive home the point that all their shining glory and luxury is funded by money extorted from tax-payers, and consequently urge that any and all taxes be slashed: income taxes, property taxes, sales taxes, inheritance taxes, etc., etc..
+Mostrar públicamente lujosos sueldos, beneficios, acuerdos, pensiones, sobornos y otros fondos que reciben las élites del gobierno: por los altos cargos del gobierno y burocracias gubernamentales, tribunales supremos, los bancos centrales, los servicios secretos, y otras agencias de espionaje, por los políticos, parlamentarios, líderes de partidos y sus asesores políticos, además de consultores, capitalistas, "administradores públicos de la educación" o presidentes universitarios, rectores y otras "estrellas" de academias educativas. Concluyan que toda su gloria y lujo es financiado por el dinero extorsionado a los contribuyentes y, por ese motivo, siguieren se reduzcan todos los impuestos: los impuestos sobre la renta, impuestos a la propiedad privada, impuestos a las compras/ventas, impuestos a la herencias, y un largo etc.
 
 #### End the FED and all central banks
 
