@@ -151,12 +151,12 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                             </li>
                             
                             <li>
-                              Para jurnalis dari MSM, sebagai hasil buatan jinak dari sistem "pendidikan publik", dan para penerima yang pengecut dan orang-orang yang mempopuleri "informasi" pemerintah
+                              Wartawan MSM, sebagai salah satu produk yang patuh, penakut dan mempopulerkan "informasi" pemerintah dari sebuah sistem "pendidikan publik"
                             </li>
                           </ol>
                           
                           <p>
-                            Equally important in the development of a libertarian strategy then is the immediately following next question: who are the <em>victims</em>? The standard libertarian answer to this is: the tax-<em>payers</em> as opposed to the tax-<em>consumers</em>. Yet while this is essentially correct, it is at best only part of the answer, and libertarians could learn something in this respect from the Alt-Right: because apart from the narrowly economic aspect there is also a wider cultural aspect that must be taken into account in identifying the victims.
+                            Sama pentingya dalam pengembangan dari strategi libertarian yang kemudian segera diikuti dengan pertanyaan selanjutnya: siapakah para <em>korban</em>? Jawaban baku libertarian terhadap hal ini ialah: <em>para pembayar</em> pajak sebagai lawan dari <em>para pemakai</em> pajak. Yet while this is essentially correct, it is at best only part of the answer, and libertarians could learn something in this respect from the Alt-Right: because apart from the narrowly economic aspect there is also a wider cultural aspect that must be taken into account in identifying the victims.
                           </p>
                           
                           <p>
