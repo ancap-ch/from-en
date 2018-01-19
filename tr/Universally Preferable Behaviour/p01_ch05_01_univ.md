@@ -68,6 +68,6 @@ Ahlak kurallarına ilişkin ilk soru şudur: *ne* onlar?
 
 Basitçe söylemek gerekirse, *ahlak*, evrensel olarak tercih edilen insan davranışlarını doğru ve istikrarlı bir biçimde belirten bir takım kurallardır, tıpkı *fiziğin* doğru ve istikrarlı bir biçimde maddenin evrensel davranışını belirtmesi gibi.
 
-Sorulması gereken ikinci soru şu:''evrensel olarak tercih edilen davranış'' diye bir şey var mı? Eğer varsa, nasıl bir davranış olabileceğini keşfetmeye başlayabiliriz. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+Sorulması gereken ikinci soru şu:''evrensel olarak tercih edilen davranış'' diye bir şey var mı? Eğer varsa, nasıl bir davranış olabileceğini keşfetmeye başlayabiliriz. Aksi halde, incelememiz burada durmalı - tıpkı Güneş'in aslında güneş sisteminin merkezi olduğu yaygın olarak kabul gördükten sonra Ptolemaik astronomi incelemesi sona ermesi gibi.
 
 [^6]: Fizikte soru şu: Evrensel fizik kuralları geçerlidir ya da geçerli değildir.
