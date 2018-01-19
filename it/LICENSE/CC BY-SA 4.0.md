@@ -1,10 +1,10 @@
 ## creative commons
 
-# Attribution-ShareAlike 4.0 International
+# Attribuzione-CondividiAlloStessoModo 4.0 Internazionale
 
-Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+L'Associazione Creative Commons ("Creative Commons") non è uno studio legale e non fornisce servizi legali né consulenze legali. La distribuzione di licenze pubbliche Creative Commons non instaura un rapporto avvocato-cliente né rapporti di altro tipo. I modelli di licenza e tutte le relative informazioni fornite da Creative Commons sono da considerarsi "così come sono". Creative Commons non presta alcuna garanzia per i suoi modelli di licenza, per qualsiasi materiale concesso in licenza secondo i termini e le condizioni dei modelli di licenza, né per le relative informazioni. Creative Commons si esime nei più ampi limiti possibili da ogni responsabilità per i danni derivanti dall'utilizzo degli stessi.
 
-### Using Creative Commons Public Licenses
+### Utilizzare le Licenze Pubbliche Creative Commons
 
 Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
 
