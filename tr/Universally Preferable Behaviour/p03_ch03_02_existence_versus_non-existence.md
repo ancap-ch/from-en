@@ -114,7 +114,7 @@ Gönüllü bir toplumda hiç vergi alınamayacak ve bu nedenle tekelci güç eld
 <footnotes>
   <fn name="4">
     <p>
-      See <a href="http://wiki.mises.org/wiki/Book:Practical_Anarchy">Practical Anarchy</a>.
+      Bakınız <a href="http://wiki.mises.org/wiki/Book:Practical_Anarchy">Uygulanabilir Anarşi</a>.
     </p>
   </fn>
   
