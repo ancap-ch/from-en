@@ -58,7 +58,7 @@ Si escojo debatir contigo, entonces necesariamente debo aceptar que ambos existi
 
 #### Premisa 2: Los Sentidos Tienen La Capacidad Para La Precisión
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Ya que los humanos no pueden comunicarse físicamente, todos los debates necesariamente involucran la evidencia de los sentidos. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
 
 #### Premise 3: Language Has The Capacity For Meaning
 
