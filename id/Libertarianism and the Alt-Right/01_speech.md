@@ -135,7 +135,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                           
                           <ol>
                             <li>
-                              The ruling elites in control of the State apparatus and in particular the “Deep State” or the so-called “Cathedral” of the military, the secret services, the central banks and the supreme courts. As well, they include: <ol>
+                              Para elite yang berkuasa dalam pengawasan aparatur negara dan khususnya "Negara Dalam" atau yang dinamakan dengan "Katedral" dari militer, pasukan pengamanan khusus, Bank-bank sentral dan Pengadilan-pengadilan tinggi. As well, they include: <ol>
                                 <li>
                                   The leaders of the military-industrial complex, i.e., of nominally private firms that owe their very existence to the State as the exclusive or dominant buyer of their products;
                                 </li>
