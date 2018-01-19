@@ -72,9 +72,9 @@ Yukarıda gördüğümüz üzere zorlama ile olsa da bunu iki insanın aynı and
 
 Diğer yandan, ben caz sevmek EODdır dersem o zaman hemen mantıksal bir imkansızlığa toslarım. Hatırlayın, EODlar iki tarafında eş zamanlı olarak uygulayabileceği zorlayıcı olmayan kurallardır - caz sevmenin doğru formülasyonu şudur: "öznel tercihler evrensel olarak tercih edilebilirler."
 
-Sadece rütbe zıtlığı değil, aynanda UPB testlerinin anında başarısızlığı demektir. Eğer ben cazı müziğin diğer türlerine karşı tercih ediyorsam fakat sen klasik müziği müziğin diğer türlerine karşı tercih ediyorsan ve eğer kişisel tercihler evrensel olarak tercih edilebilirse o zaman ben caz müziği tercih ettiğim için sen de etmelisin, sen klasik müziği tercih ettiğin için ben de etmeliyim. Bu, tabiki de mümkün değildir, çünkü ikimizinde *diğer bütün müzik türlerinin üstünde aynı anda hem caz hem de klasik müzik tercih etmemizi* gerektirirdi. Kendi tercihini jaza kaydırmalısın, çünkü jaz benim tercihimdir - ama aynanda bende tercihimi klasik muziğe kaydırmalıyım çünkü buda senin tercihindir. Bu ikinizinde beyzbol topunu aynanda atıp yakalamanız gerektiğini söylemek gibidir - mantıksal ve fiziksel bir imkansızlıktır.
+Sadece rütbe zıtlığı değil, aynanda UPB testlerinin anında başarısızlığı demektir. Eğer ben cazı müziğin diğer türlerine karşı tercih ediyorsam fakat sen klasik müziği müziğin diğer türlerine karşı tercih ediyorsan ve eğer kişisel tercihler evrensel olarak tercih edilebilirse o zaman ben caz müziği tercih ettiğim için sen de etmelisin, sen klasik müziği tercih ettiğin için ben de etmeliyim. Bu, tabiki de mümkün değildir, çünkü ikimizinde *diğer bütün müzik türlerinin üstünde aynı anda hem caz hem de klasik müzik tercih etmemizi* gerektirirdi. Kendi tercihini jaza kaydırmalısın, çünkü jaz benim tercihimdir - ama aynı anda bende tercihimi klasik muziğe kaydırmalıyım çünkü buda senin tercihindir. Bu ikinizinde beyzbol topunu aynanda atıp yakalamanız gerektiğini söylemek gibidir - mantıksal ve fiziksel bir imkansızlıktır.
 
-APAlar şiddetle zorlanamayacağı için - bir insanı geç kaldığı için vuramazsınız - o zaman tecavüz *cannot* bir APA, çünkü tecavüzün tanımı şiddet kullanarak cinsel saldırıdır.
+APAlar şiddetle zorlanamayacağı için - bir insanı geç kaldığı için vuramazsınız - o zaman tecavüz bir APA *olamaz*, çünkü tecavüzün tanımı şiddet kullanarak cinsel saldırıdır.
 
 Nitekim tecavüz APA kategorisine dahil edilemez.
 
@@ -110,7 +110,7 @@ Belki de tecavüz estetik olarak *olumsuz* bir davranıştır tıpkı geç kalma
 
 Ancak, tecavüz tanımı gereği kaçınılamazdır çünkü güç kullanarak gerçekleştirilen cinsel bir saldırıdır.[^4] Ayrıca, eğer ben yukarıda belirtilen sürekli geciken adamla arkadaşlığı kesersem o beni şiddet ile tehdit ederek arkadaşı olmaya zorlayamaz çünkü bu sadece kişisel tercihlerin başkalarına uygulanabileceği anlamına gelir ki arkadaşlığını bırakmayı *isteyebilme* yeteneğime karşı sonuçsuz kalacaktır. Bu çeşit "Tarantino ahlakı" herkesin donmuş bir heykel gibi birbirlerinin suratına silah doğrulturken sessizlik halinde felç olma durumu ile sona erer.
 
-Daha önce kurdğumuz gibi, evrensel olarak kabul edilen bir davranış her zaman ve her yerde evrenselliğini korumalıdır - Eğer ANA'lar vahşi zorlamaya izin verirse (örn. geç kaldığın için snei vuraiblirim) - o zaman tecavüz bir ANA olarak adlandırılırsa zorla kabul ettirilebilir, o zaman bunu olumsuz bulan tecavüz kurbanı tecavüzcüyü vurma hakkına sahiptir, buda nefsi müdafa prensipini doğrular, bu aynı zamanda silah oyununu karşı tarafın kullanmasına da olanak sağlar, kabalıktır.
+Daha önce kurdğumuz gibi, evrensel olarak kabul edilen bir davranış her zaman ve her yerde evrenselliğini korumalıdır - Eğer ANA'lar vahşi zorlamaya izin verirse (örn. geç kaldığın için seni vurabilirim) - o zaman tecavüz bir ANA olarak adlandırılırsa zorla kabul ettirilebilir, o zaman bunu olumsuz bulan tecavüz kurbanı tecavüzcüyü vurma hakkına sahiptir, buda nefsi müdafa prensibini doğrular, bu aynı zamanda silah oyununu karşı tarafın kullanmasına da olanak sağlar, kabalıktır.
 
 Böylelikle tecavüz ANA olamaz.
 
@@ -134,15 +134,15 @@ Eğer herkes kendi zevkini kurbanlarının hoşnut*suz*luğuna aldırış etmede
 
 Bu durumda Doug Bob'a "Benim sana tecavüz etmem senin için iyidir çünkü kişisel tercihler zorla kabul ettirilebilir" Tabiki bu duruma Bob "Bu durumda benim vahşi bi şekilde tecavüze direnmeye hakkım vardır çünkü kişisel tercihler zorla kabul ettirilebilir."
 
-Elbette, çok az tecavüzcü filozoftur, ancak yukarıda bahsettiğimiz gibi insanoğlu için birincil tehlike bireysel suçtan ziyade mantıksız ve sömürücü ahlak kuramlarıdır. Örneğin, hapis cezası kaçınılmaz olarak ahlaki bir teori için bir itiraz yoluyla haklı gösterilebilir - ve hapsetme, özel suçluların hayal edebileceğinden çok daha fazla kişiye tecavüz edilmesine sebep olur. Hadım etmeyi doğrulayan moral teoriler yalnış çıkarsa, o zaman *correcting* bu teoriyi düzeltmek tecavüz oranlarını azaltmak isteyen birinin en büyük önceliği olmalıdır.
+Elbette, çok az tecavüzcü filozoftur, ancak yukarıda bahsettiğimiz gibi insanoğlu için birincil tehlike bireysel suçtan ziyade mantıksız ve sömürücü ahlak kuramlarıdır. Örneğin, hapis cezası kaçınılmaz olarak ahlaki bir teori için bir itiraz yoluyla haklı gösterilebilir - ve hapsetme, özel suçluların hayal edebileceğinden çok daha fazla kişiye tecavüz edilmesine sebep olur. Hadım etmeyi doğrulayan moral teoriler yalnış çıkarsa, o zaman bu teoriyi *düzeltmek* tecavüz oranlarını azaltmak isteyen birinin en büyük önceliği olmalıdır.
 
-Bu durumda tecavüzün tek mantıklı olma şansı *not* evrensel olarak tecavüzün tercih edilir olmasıdır - ya da evrensel olarak tecavüzün yasaklanmasıdır.
+Bu durumda tecavüzün tek mantıklı olma şansı *olamaz* evrensel olarak tecavüzün tercih edilir olmasıdır - ya da evrensel olarak tecavüzün yasaklanmasıdır.
 
 ### Vay canına!
 
 UPB kalıbının etkili ve mantıklı olarak tecavüzün kötü olduğunu doğruladığı gerçeği - "iyi" değildir yada "tercih edilebilir" ya da "kişisel olarak tercih edilebilir" ya da "moral olarak tarafsız" olması - iyiye işarettir. Bu, UPB'nin tüm "sağduyu" ahlaki önermelerini mantıksal olarak en ufak bir şüphe duymadan doğrulayacağını kanıtlamaz, fakat ilk engel aşılır, ve bu bize kutlama için harika bir neden sunmalıdır. Eğer Birleşik Alan Kuramı öneren bir fizikçi olsaydım, ve teorimin uygulaması fırlatılan beyzbolun nereye gideceğini doğru bir şekilde tahmin etmek olsaydı, adil bir şekilde son derece memnun olurdum.
 
-Einstein'in rölativite teorisi ışığın yer çekimi etkisi altında kırıldığını öngörmüştür - bu ilk doğrulandığında, teori hakkındaki şüphelerin gölgesinin ötesine geçememiştir, ama bu teori *could* doğru olabileceği anlaşılmıştı, bu da ileriye atılmış büyük bir adımdır. İlk doğrulama her zaman en zordur, çünkü işlerin yanlış anlaşılması kolaydır ve hata her zaman doğruluktan fazla olur.
+Einstein'in rölativite teorisi ışığın yer çekimi etkisi altında kırıldığını öngörmüştür - bu ilk doğrulandığında, teori hakkındaki şüphelerin gölgesinin ötesine geçememiştir, ama bu teori doğru *olabileceği* anlaşılmıştı, bu da ileriye atılmış büyük bir adımdır. İlk doğrulama her zaman en zordur, çünkü işlerin yanlış anlaşılması kolaydır ve hata her zaman doğruluktan fazla olur.
 
 UPB çerçevesi, bizim tecavüz etmenin kötü olduğuna dair ahlaki vaadimizi uygun bir şekilde doğrulamaktadır. Bu kanıtlar için gerekli bir ölçüt -ama yeterli değil- ve tamamıyla ek soruşturmayı destekler. Böylelikle, devam edelim…
 
