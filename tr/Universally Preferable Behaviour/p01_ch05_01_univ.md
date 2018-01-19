@@ -64,10 +64,10 @@ The methodology for judging and proving a *moral* theory is exactly the same as 
 
 #### Manevi Kurallar: Bir tanımı
 
-The first question regarding moral rules is: *what* are they?
+Ahlak kurallarına ilişkin ilk soru şudur: *ne* onlar?
 
 Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
 
 Sorulması gereken ikinci soru şu:''evrensel olarak tercih edilen davranış'' diye bir şey var mı? Eğer varsa, nasıl bir davranış olabileceğini keşfetmeye başlayabiliriz. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
 
-[^6]: In physics, the question is: either universal physical rules are valid, or they are not.
+[^6]: Fizikte soru şu: Evrensel fizik kuralları geçerlidir ya da geçerli değildir.
