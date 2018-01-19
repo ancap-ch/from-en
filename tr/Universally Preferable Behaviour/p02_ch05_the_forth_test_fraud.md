@@ -18,7 +18,7 @@ Açık bir şekilde, “sahtekarlık iyidir” ilkesi hem Doug hem de Bob taraf�
 
 UPB, bu olasılığı yok etmektedir, aks, i takdirde geçerli bir ahlaki teori aynı koşullar altında karşıt eylemler isteyemez.
 
-Doug, eğer "istediğini elde edebilmek için yalan söylemek normaldir" dayanağıyla Bob'u dolandırırsa, aynı zamanda dürüst gözükmenin de önemi ortaya çıkar çünkü diğer taraf sizin dürüst biri olduğunuzu düşünmeye istekli olmadığı sürece, yalan söyleyerek istediğinizi elde edemezsiniz. Bu nedenle, diğer insanların dürüstçe davranmasalar da istediğin bir şeyi elde etmek için yalan söylemenin iyi olduğu önermesi - ahlaki ilkenin yerine getirilmesi için aynı anda yalan söylemek ve dürüst davranmanın gerekliliğini gösterir. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
+Doug, eğer "istediğini elde edebilmek için yalan söylemek normaldir" dayanağıyla Bob'u dolandırırsa, aynı zamanda dürüst gözükmenin de önemi ortaya çıkar çünkü diğer taraf sizin dürüst biri olduğunuzu düşünmeye istekli olmadığı sürece, yalan söyleyerek istediğinizi elde edemezsiniz. Bu nedenle, diğer insanların dürüstçe davranmasalar da istediğin bir şeyi elde etmek için yalan söylemenin iyi olduğu önermesi - ahlaki ilkenin yerine getirilmesi için aynı anda yalan söylemek ve dürüst davranmanın gerekliliğini gösterir. Bu mantıksal olarak kanıtlanamaz- bir eylem *ve tam tersi* aynı anda, aynı yerde ve aynı kişiler için ahlaki olamaz.
 
 Dolandırıcılığın yanlış olduğunu bu yüzden biliyoruz.
 
