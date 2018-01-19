@@ -2,7 +2,7 @@
 
 *yalan söylemek* sorunu ilginçtir çünkü gerçeği söylemek genellikle evrensel olarak tercih edilir ancak şiddet yoluyla uygulanamaz.
 
-It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
+Bu genelde "geç kalmamaktan" *daha* sıkı gereklilikler olarak görülür fakat *çalmaktan* daha az sıkı. ETD sisteminin bu konu hakkında söyleyeceği nedir?
 
 Doğal olarak "yalan söylemek iyidir" önerisini sunan herhangi bir ahlaki teori anında kendi kendini yok eder, çünkü eğer bir insan bu öneri yalan*dır* önerisini sunarsa - ki bu iyidir - o zaman yalan söylemek kötüdür, çünkü o aslında yalan söylemek kötüdür diyerek doğruyu söylemiştir.
 
