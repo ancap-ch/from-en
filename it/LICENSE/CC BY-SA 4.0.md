@@ -58,13 +58,13 @@ a.***Concessione della Licenza.***
 
 3. **Durata** La durata della presente Licenza Pubblica è specificata all'interno dell'Art. 6(a).
 
-4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+4. **Mezzi di comunicazione, supporti e formati; modifiche tecniche consentite.** Il Licenziante Ti autorizza a esercitare i Diritti Concessi in Licenza con ogni mezzo di comunicazione, su ogni supporto e in tutti i formati esistenti e sviluppati in futuro, e ad apportare le modifiche che si rendessero tecnicamente necessarie a tale scopo. Il Licenziante rinuncia o si impegna a non far valere alcun diritto o autorità per proibire a Te di effettuare le modifiche che si rendessero tecnicamente necessarie per l'esercizio dei Diritti Concessi in Licenza, incluse le modifiche tecnicamente necessarie per aggirare Misure Tecnologiche Efficaci. Ai fini della presente Licenza Pubblica, apportare le modifiche autorizzate dal presente Art. 2(a)(4) non costituisce in alcun caso Materiale Elaborato.
 
-5. **Downstream recipients.**
+5. **Destinatari a valle.**
     
-    A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+    A. **Offerta dal Licenziante - Materiale Concesso in Licenza.** Ogni destinatario del Materiale Concesso in Licenza riceve automaticamente un'offerta dal Licenziante ad esercitare i Diritti Concessi in Licenza secondo i termini e le condizioni della presente Licenza Pubblica.
     
-    B. __Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.
+    B. __Offerta aggiuntiva dal Licenziante - Materiale Elaborato. Ogni destinatario del Materiale Elaborato da parte Tua riceve automaticamente un'offerta dal Licenziante ad esercitare i Diritti Concessi in Licenza sul Materiale Elaborato secondo i termini e le condizioni della Licenza dell'Elaboratore da Te applicata.
     
     C. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
 
