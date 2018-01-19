@@ -135,13 +135,13 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                           
                           <ol>
                             <li>
-                              Para elite yang berkuasa dalam pengawasan aparatur negara dan khususnya "Negara Dalam" atau yang dinamakan dengan "Katedral" dari militer, pasukan pengamanan khusus, Bank-bank sentral dan Pengadilan-pengadilan tinggi. As well, they include: <ol>
+                              Para elite yang berkuasa dalam pengawasan aparatur negara dan khususnya "Negara Dalam" atau yang dinamakan dengan "Katedral" dari militer, pasukan pengamanan khusus, Bank-bank sentral dan Pengadilan-pengadilan tinggi. Mereka juga termasuk di dalamnya: <ol>
                                 <li>
                                   Para pemimpin dari kompleks industri militer, yakni, dari perusahaan pribadi yang berhutang atas adanya perusahaan itu sendiri kepada Negara sebagai pembeli eksklusif atau dominan dari produk-produk perusahaan;
                                 </li>
                                 
                                 <li>
-                                  The leaders of the big commercial banks, which owe their privilege of creating money and credit out of thin air to the existence of the central bank and its role as a “lender of last resort”. They together, then, State, Big-Business and Big-Banking, form an extremely powerful even if tiny “mutual admiration society,” jointly ripping off the huge mass of tax-payers and living it up big time at their expense.
+                                  Para pemimpin dari bank-bank komersial yang besar, yang berhutang hak istimewa mereka dalam mencetak uang dan kredit dari ketiadaan menjadi keberadaan bank sentral dan perannya sebagai "pemberi pinjaman yang paling akhir". They together, then, State, Big-Business and Big-Banking, form an extremely powerful even if tiny “mutual admiration society,” jointly ripping off the huge mass of tax-payers and living it up big time at their expense.
                                 </li>
                               </ol>
                             </li>
