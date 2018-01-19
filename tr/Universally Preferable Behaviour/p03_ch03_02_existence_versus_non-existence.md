@@ -156,7 +156,7 @@ Gönüllü bir toplumda hiç vergi alınamayacak ve bu nedenle tekelci güç eld
   
   <fn name="11">
     <p>
-      See <a href="http://wiki.mises.org/wiki/Book:Practical_Anarchy/2">Practical Anarchy, Part 2</a>, Chapter 5: "War, profit, and the state".
+      Bakınız <a href="http://wiki.mises.org/wiki/Book:Practical_Anarchy/2">Uygulanabilir Anarşi, Part 2</a>, Bölüm 5: "Savaş, kâr ve devlet".
     </p>
   </fn>
 </footnotes>
