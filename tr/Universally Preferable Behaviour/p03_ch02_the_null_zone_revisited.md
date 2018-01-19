@@ -50,6 +50,6 @@ Eğer bazı noktalarda *biz* bu *geçersiz bölge* ile etkileşime geçebiliyors
 
 Bu yüzden şundan emin olabiliriz, eğer *biz* bu diğer evreni şimdiye kadar algılayabilseydik, topladığımız kanıtlar hiçbir şekilde kendisiyle çelişen ifadelerin varlığını desteklemezdi. Kareli daireler, tanrılar ve çelişki içindeki diğer kavramlar leprechaun'ların ıslak rüyalarında gizleyebileceklerinden daha fazlasını gizleyemezler.
 
-On the other hand, if it turns out that we are *never* able to detect this other universe, and it remains a completely theoretical entity, with no evidence or rationality to support it, then it is simply a conceptual bag in which it is “convenient” to place things that are obviously not true.
+Öte yandan eğer bu diğer evreni *asla* tespit edemeyeceğimiz ve onu desteklemek için hiçbir kanıt veya rasyonalite olmaksızın tamamen teorik bir varlık olarak kaldığı ortaya çıkarsa, bu sadece açıkça doğru olmayan şeyleri yerleştirmenin "uygun" olduğu kavramsal bir çantadır.
 
-[^1]: Bu kaçınılmaz şekilde Einsteinian fiziğinin imkansız olduğunu, dünyanın yuvarlak olamayacağını söyleyenlere kıyasla sonuçlanmaktadır. Uncertainty in *content* – i.e. theory – is somehow supposed to be equated with uncertainty in *methodology*, i.e. reason and evidence. O bir matematik teorisinin reddedilebileceği gerçeği, matematiğin ilkelerini çürütmez, ancak daha doğrusu onları onaylar.
+[^1]: Bu kaçınılmaz şekilde Einsteinian fiziğinin imkansız olduğunu, dünyanın yuvarlak olamayacağını söyleyenlere kıyasla sonuçlanmaktadır. *İçerikte* belirsizlik, -ör. teori - bir şekilde *metodolojide* belirsizlik ile dengelenmelidir, ör. mantık ve kanıt. O bir matematik teorisinin reddedilebileceği gerçeği, matematiğin ilkelerini çürütmez, ancak daha doğrusu onları onaylar.
