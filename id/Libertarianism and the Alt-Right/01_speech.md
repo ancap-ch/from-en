@@ -151,7 +151,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                             </li>
                             
                             <li>
-                              The journalists of the MSM, as the docile products of the system of “public education,” and the craven recipients and popularizers of government “information.”
+                              Para jurnalis dari MSM, sebagai hasil buatan jinak dari sistem "pendidikan publik", dan para penerima yang pengecut dan orang-orang yang mempopuleri "informasi" pemerintah
                             </li>
                           </ol>
                           
