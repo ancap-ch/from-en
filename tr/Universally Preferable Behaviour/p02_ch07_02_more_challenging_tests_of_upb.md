@@ -44,7 +44,7 @@ Böylece "kaçınılmaz kötü" mantıksal problem ile sonuçlanıyor. Balıklar
 
 Ayrıca, "balık" sözcüğü, formülasyonda sorunlu kalır, çünkü evrensel olmak için çok spesifiktir. Doğru ETD reformasyonu şudur: "insanlar için canlı organizmaları öldürmek şeytanlıktır."
 
-Eğer öldürmek kötülük ise, yine "kaçınılmaz kötülük" sorunuyla karşı karşıyayız. Virüsler, bitkiler veya belki hayvanlar gibi diğer organizmaları öldürmeden hiçbir insan var olamaz. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+Eğer öldürmek kötülük ise, yine "kaçınılmaz kötülük" sorunuyla karşı karşıyayız. Virüsler, bitkiler veya belki hayvanlar gibi diğer organizmaları öldürmeden hiçbir insan var olamaz. Böylece "insan yaşamı", "kötü" olarak tanımlanır. Fakat eğer insan yaşamı kötülük olarak tanımlanırsa, kaçınmak imkansız hale geleceği için, kötülük *olamaz*.
 
 Eğer "insanları öldürmek kötüdür" dersek insan yiyen köpek balığı kötü mü olur?
 
