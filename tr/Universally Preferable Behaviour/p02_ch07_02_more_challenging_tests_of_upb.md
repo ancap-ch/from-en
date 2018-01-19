@@ -56,4 +56,4 @@ Aynı şekilde, ahlak, önlenebilirlik gereksiniminden dolayı, sadece mantık b
 
 Başka bir söyleyiş ile, hatalı uygulama hatalı anlaşılamaz.
 
-There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
+Burada üzerinde çalışabileceğimiz birçok başka "gri alanlar" mevcut, kürtajdan entelektüel mülkiyet haklarına, restorasyona kadar fakat şunu düşünüyorum ki ETD'yi soyutlama alanından çıkartıp bugün yüzleştiğimiz gerçek dünyanın problemlerine uygulamaya başlamak çok daha önemlidir.
