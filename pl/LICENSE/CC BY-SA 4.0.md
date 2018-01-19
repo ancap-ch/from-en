@@ -30,19 +30,19 @@ e. **Skuteczne Zabezpieczenia Techniczne** oznaczają środki, które, w braku o
 
 f. **Wyjątki i Ograniczenia** oznaczają dozwolony użytek lub inne wyjątki lub ograniczenia Praw Autorskich i Praw Podobnych do Praw Autorskich, mające zastosowanie do korzystania z Utworu Licencjonowanego przez Licencjobiorcę.
 
-g. **License Elements** means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.
+g. **Elementy Licencji** oznaczają atrybuty wymienione w nazwie Licencji Publicznej Creative Commons. Elementami Licencji w przypadku niniejszej Licencji Publicznej jest Uznanie autorstwa, Na tych samych warunkach.
 
-h. **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+h. **Utwór Licencjonowany** oznacza dzieło artystyczne lub literackie, bazę danych, lub inny materiał, do którego Licencjodawca zastosował niniejszą Licencję Publiczną.
 
-i. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+i. **Uprawnienia Licencyjne** oznaczają uprawnienia przyznane Licencjobiorcy na warunkach niniejszej Licencji Publicznej, ograniczające się do wszystkich Praw Autorskich i Praw Podobnych do Praw Autorskich regulujących korzystanie z Utworu Licencjonowanego przez Licencjobiorcę, i które Licencjodawca jest upoważniony licencjonować.
 
-j. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
+j. **Licencjodawca** oznacza osobę(y) fizyczną(e) lub podmiot(y) udzielający(e) praw na warunkach niniejszej Licencji Publicznej.
 
-k. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+k. **Dzielenie się** oznacza udostępniane publiczne utworu jakimikolwiek środkami, wymagające zgody na podstawie Uprawnień Licencyjnych, takie jak reprodukcja, publiczne wystawianie, publiczne wykonanie, rozprowadzanie, rozpowszechnianie, komunikowanie, importowanie oraz publiczne udostępnianie utworu w taki sposób, aby każdy mógł mieć do niego dostęp w miejscu i czasie przez siebie wybranym.
 
-l. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+l. **Prawa Sui Generis do Baz Danych** oznaczają prawa inne niż prawo autorskie, wynikające z Dyrektywy Parlamentu Europejskiego i Rady Nr 96/9/WE z 11 marca 1996 r. o prawnej ochronie baz danych, z późniejszymi zmianami/lub zastępowanej nową, jak również inne prawa odpowiadające im istotnie, obowiązujące gdziekolwiek na świecie.
 
-m. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+m. **Licencjobiorca** oznacza podmiot wykonujący Uprawnienia Licencyjne na warunkach niniejszej Licencji Publicznej.
 
 ### Section 2 – Scope.
 
