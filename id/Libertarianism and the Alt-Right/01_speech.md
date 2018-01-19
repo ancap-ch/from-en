@@ -137,7 +137,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                             <li>
                               Para elite yang berkuasa dalam pengawasan aparatur negara dan khususnya "Negara Dalam" atau yang dinamakan dengan "Katedral" dari militer, pasukan pengamanan khusus, Bank-bank sentral dan Pengadilan-pengadilan tinggi. As well, they include: <ol>
                                 <li>
-                                  The leaders of the military-industrial complex, i.e., of nominally private firms that owe their very existence to the State as the exclusive or dominant buyer of their products;
+                                  Para pemimpin dari kompleks industri militer, yakni, dari perusahaan pribadi yang berhutang atas adanya perusahaan itu sendiri kepada Negara sebagai pembeli eksklusif atau dominan dari produk-produk perusahaan;
                                 </li>
                                 
                                 <li>
