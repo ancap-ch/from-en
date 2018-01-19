@@ -130,7 +130,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                           </p>
                           
                           <p>
-                            They are:
+                            Mereka ialah:
                           </p>
                           
                           <ol>
