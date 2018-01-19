@@ -150,6 +150,6 @@ UPB çerçevesi, bizim tecavüz etmenin kötü olduğuna dair ahlaki vaadimizi u
 
 [^2]: Tecavüz, bir davranıştır ve yukarıda tartıştığımız üzere bütün davranışlar tercih içerdiğinden, tecavüzün bir tercih içermediği iddia edilemez.
 
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
+[^3]: Dikkat edin şunu öneremem: mutlak ve evrensel ahlaki kuralları ifade eden ETD'nin ihlali olduğu için kişisel tercihler diğer insanlar üzerinde şiddetle dayat*ılabilir* - eğer değillerse, o zaman EOD'un alanına düşerler ve o zaman da diğer insanlara dayatılamazlar.
 
 [^4]: Tecavüz ihtimalini arttıracak durumları önleyebiliriz, ancak devam eden bir tecavüzü önleyemeyiz.
