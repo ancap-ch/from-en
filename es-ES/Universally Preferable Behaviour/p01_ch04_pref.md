@@ -14,7 +14,7 @@ Así en la ética, tal como en la ciencia, matemáticas, ingeniería y todas las
 
 Si yo digo "Me gusta el helado," solo una palabra permanece ambigua en esa frase. Claramente "Me" existe, ya que estoy expresando una preferencia personal. Igualmente claramente, "el helado" también existe en la realidad. Sin embargo, la palabra "gusta" es más problemática.
 
-Las preferencias no existen objetivamente dentro de la realidad. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Las preferencias no existen objetivamente dentro de la realidad. Si tú fueses obsesivamente curioso, quizás podrías seguirme y registrar cada vez que coma helado, lo cual probablemente proporcionaría una buena base empírica para establecer mi preferencia por él. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
 
 We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
 
