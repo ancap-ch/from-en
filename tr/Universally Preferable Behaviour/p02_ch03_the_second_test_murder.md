@@ -12,7 +12,7 @@ Sezgisel olarak, cinayetin iyi olduğuyla ilgili ahlaki önermenin çılgınlı�
 
 Eğer cinayet ahlaki açıdan iyi olsaydı, o zaman bir çöl adasında mahsur kalmış bir adam orada yaşadığı sürece, öldürecek hiç bir kurbanı olmadığı için, ahlaki açıdan kötü olacağı bir gerçek olurdu. Uyuyan bir adam veya ameliyat masasındaki bir adam gibi komadaki bir adam da kötü olurdu. Bir işkenceci işkence etmeye devam ettiği sürece kötü olurdu- ama kurbanı ellerinde öldüğü zaman iyi birine dönüşürdü.
 
-Bu durumda görürüz ki "cinayet iyidir" önerisi gariptir, ve aynanda mantıksal olarak imkansızdır.
+Bu durumda görürüz ki "cinayet iyidir" önerisi gariptir, ve aynı anda mantıksal olarak imkansızdır.
 
 "Tecavüz iyidir" önermesinde uygulanan diğer itirazlar burada da geçerlidir. Nötr yargılar ve eylemler başka birine zorla acı veremeyeceğinden, ve cinayet tanımı gereği başka birine zorla acı vermek olduğundan, cinayet ahlaki açıdan nötr olamaz.
 
