@@ -88,7 +88,7 @@ Toplumsal kurumların güç tekelleri olarak büyüyebilmesinin tek yolu *bunun 
 Gönüllü bir toplumda hiç vergi alınamayacak ve bu nedenle tekelci güç elde etmek isteyen herhangi bir grup, ekonomik açıdan uygulanabilir ya da kârlı olmadığı için asla orduya para yatırmak istemeyecek. <sup id="fnref:11"><a href="#fn:11" class="footnote-ref"> 8 </ 0></p> 
 
 <p>
-  Bize boyun <em>eğdirebilecek</em> bir gruptan koruması için bize <em>zaten</em> boyun eğdiren bir gruba destek vermemizin gerekliliği argümanının akıl ve mantığını anlamak çok zordur. Özel tekelcilikde devletçi argümana benzemektedir; vatandaşlar, özel tekellerden korktuğu için bir hükümet tekeli yaratmalıdır. It does not take keen vision to see through such nonsense.
+  Bize boyun <em>eğdirebilecek</em> bir gruptan koruması için bize <em>zaten</em> boyun eğdiren bir gruba destek vermemizin gerekliliği argümanının akıl ve mantığını anlamak çok zordur. Özel tekelcilikde devletçi argümana benzemektedir; vatandaşlar, özel tekellerden korktuğu için bir hükümet tekeli yaratmalıdır. Böyle bir saçmalığı görmek için kesin bir görüşe gerek yoktur.
 </p>
 
 <p>
@@ -120,7 +120,7 @@ Gönüllü bir toplumda hiç vergi alınamayacak ve bu nedenle tekelci güç eld
   
   <fn name="5">
     <p>
-      See <em><a href="http://wiki.mises.org/wiki/Federal_Reserve_System">Federal Reserve</a></em>.
+      Bakınız <em><a href="http://wiki.mises.org/wiki/Federal_Reserve_System">Federal Rezerv</a></em>
     </p>
   </fn>
   
@@ -144,7 +144,7 @@ Gönüllü bir toplumda hiç vergi alınamayacak ve bu nedenle tekelci güç eld
   
   <fn name="9">
     <p>
-      Probably more, since evil people are always drawn to power.
+      Kötü insanlar her zaman güç tarafından çekildiği için, muhtemelen daha fazlası.
     </p>
   </fn>
   
