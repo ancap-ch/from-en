@@ -34,6 +34,6 @@ Tıpkı kendimizi, bir yumruğa, karşı bir yumrukla savunabileceğimiz gibi ya
 
 Bunun farkı, "geç kalmak" gibi yalan kadar aktif olarak yıkıcı değildir. Gecikmiş bir insan sinir bozucudur ancak gerçekliği yönlendirme kapasitenizi temelde zayıflatmaz. Sabahın yedisindeki bir toplantıda bir saat geç ortaya çıkmam bir şeydir - konunun bu olmadığını bildiğim halde, sizi toplantıyı gerçekten sabah sekiz olarak planlamış olduğumuza ikna etmeye çalışmam tamamen ayrı bir şeydir.
 
-Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. UPB "yalan söylemek iyidir" önermesinin mantıksız olduğunu doğrular ve birine yalan söyleme davranışının "geç kalmaktan" daha kötü olduğunu, ancak "saldırı" dan daha iyi olduğunu onaylar
+Kendi zihninize güveninize saldırmak [^5], sizi sadece beklemekten çok daha korkunçtur, bu bir kişinin kendisine olan güvenini baltalamak için başkalarının güvenini kullanma eylemi olduğu için, ve bir değeri baltalamak için başka bir değeri *kullanmak* olduğu için bir hayli kötüdür. UPB "yalan söylemek iyidir" önermesinin mantıksız olduğunu doğrular ve birine yalan söyleme davranışının "geç kalmaktan" daha kötü olduğunu, ancak "saldırı" dan daha iyi olduğunu onaylar
 
 [^5]: Eski filmden sonra bazen "aydınlatma" adı verilir.
