@@ -138,7 +138,7 @@ Gönüllü bir toplumda hiç vergi alınamayacak ve bu nedenle tekelci güç eld
   
   <fn name="8">
     <p>
-      See Plato’s <em>Republic</em>.
+      Plasto' ya bakınız <em>Cumhuriyet</em>.
     </p>
   </fn>
   
