@@ -141,13 +141,13 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                                 </li>
                                 
                                 <li>
-                                  Para pemimpin dari bank-bank komersial yang besar, yang berhutang hak istimewa mereka dalam mencetak uang dan kredit dari ketiadaan menjadi keberadaan bank sentral dan perannya sebagai "pemberi pinjaman yang paling akhir". They together, then, State, Big-Business and Big-Banking, form an extremely powerful even if tiny “mutual admiration society,” jointly ripping off the huge mass of tax-payers and living it up big time at their expense.
+                                  Para pemimpin dari bank-bank komersial yang besar, yang berhutang hak istimewa mereka dalam mencetak uang dan kredit dari ketiadaan menjadi keberadaan bank sentral dan perannya sebagai "pemberi pinjaman yang paling akhir". Mereka bersama-sama, lalu, Negara, perusahaan besar dan perbankan besar, membentuk sebuah kekuatan yang dahsyat bahkan jika "masyarakat rukun" yang kecil, bersama-sama menyerang para pembayar pajak yang besar dan hidup bergelimang harta pada kesengsaraan mereka.
                                 </li>
                               </ol>
                             </li>
                             
                             <li>
-                              ([A] much larger group of enemies is made up of) the intellectuals, educators and “educrats,” from the highest levels of academia down to the level of elementary schools and kindergartens. Funded almost exclusively, whether directly or indirectly, by the State, they, in their overwhelming majority, have become the soft tools and willing executioners in the hands of the ruling elite and its designs for absolute power and total control.
+                              ([A] kebanyakan dari grup musuh-musuh tersebut terbentuk dari) intelektual, pendidik dan "mendidik," dari level akademisi yang paling tinggi sampai ke level paling bawah dari sekolah dasar dan taman kanak-kanak. Dibiayai hampir secara eksklusif, apakah itu secara langsung maupun tidak langsung, oleh Negara, mereka, dalam mayoritasnya yang melimpah, telah menjadi kaki tangan lunak dan para pengeksekusi yang rela yang berada dalam genggaman para elite penguasa dan perencanaannya untuk kekuasaan mutlak dan pengendalian menyeluruh.
                             </li>
                             
                             <li>
