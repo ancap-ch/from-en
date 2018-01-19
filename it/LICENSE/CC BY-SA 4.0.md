@@ -30,33 +30,33 @@ e. **Misure Tecnologiche Efficaci** significa quelle misure che, in assenza di u
 
 f.**Eccezioni e Limitazioni** significa qualunque eccezione e/o limitazione ai Diritti D'Autore e Simili, inclusi "fair use" e "fair dealing", che si applichi al Tuo utilizzo del Materiale Concesso in Licenza.
 
-g. **License Elements** means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.
+g.**Elementi della Licenza** significa gli attributi fondamentali indicati nel nome di una Licenza Pubblica Creative Commons. Gli Elementi della Licenza della presente Licenza Pubblica sono Attribuzione e CondividiAlloStessoModo.
 
-h. **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+h.**Materiale Concesso in Licenza** significa qualsiasi opera artistica o letteraria, banca dati, o altro materiale al quale il Licenziante abbia applicato la presente Licenza Pubblica.
 
-i. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+i. **Diritti Concessi in Licenza** significa tutti i diritti che sono concessi a Te nel rispetto dei termini e delle condizioni della presente Licenza Pubblica, limitatamente ai Diritti d'Autore e Simili che si applicano al Tuo utilizzo del Materiale Concesso in Licenza e che il Licenziante ha facoltà di licenziare.
 
 j. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
 
-k. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+k. **Condividi/Condividere**significa fornire materiale al pubblico con ogni mezzo di comunicazione o formato che richieda l'autorizzazione rispetto ai Diritti Concessi in Licenza, come la riproduzione, l'esposizione ed esecuzione in pubblico, la distribuzione, la divulgazione, la comunicazione al pubblico, l'importazione e la messa a disposizione del pubblico del materiale, anche con modalità che consentano di accedere al materiale da un luogo e in un momento scelti individualmente dal pubblico.
 
-l. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+l. **Diritto Sui Generis sulle Banche Dati** significa quei diritti ulteriori rispetto al diritto d'autore individuati dalla Direttiva 96/9/CE del Parlamento europeo e del Consiglio, dell'11 marzo 1996 e successive modificazioni, relativa alla tutela giuridica delle banche di dati, nonché altri diritti sostanzialmente equivalenti previsti ovunque nel mondo.
 
-m. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+m.**Tu** significa l'individuo o l'ente che esercita i Diritti Concessi in Licenza secondo la presente Licenza Pubblica. Te/Tuo/Tua/Tuoi/Ti hanno un significato analogo.
 
-### Section 2 – Scope.
+### Articolo 2 – Ambito di Applicazione.
 
-a. ***License grant.***
+a.***Concessione della Licenza.***
 
-1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+1. Nel rispetto dei termini e delle condizioni contenute nella presente Licenza Pubblica, il Licenziante concede a Te una licenza per tutto il mondo, gratuita, non sub-licenziabile, non esclusiva e irrevocabile che Ti autorizza ad esercitare i Diritti Concessi in Licenza sul Materiale Concesso in Licenza per:
     
-    A. reproduce and Share the Licensed Material, in whole or in part; and
+    A. riprodurre e Condividere il Materiale Concesso in Licenza, in tutto o in parte; e
     
-    B. produce, reproduce, and Share Adapted Material.
+    B. produrre, riprodurre e Condividere Materiale Elaborato.
 
-2. **Exceptions and Limitations.** For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+2. **Eccezioni e Limitazioni.** Al fine di evitare dubbi, quando si applicano delle Eccezioni o Limitazioni al Tuo utilizzo, la presente Licenza Pubblica non si applica a Te e Tu non devi rispettarne i termini e le condizioni.
 
-3. **Term.** The term of this Public License is specified in Section 6(a).
+3. **Durata** La durata della presente Licenza Pubblica è specificata all'interno dell'Art. 6(a).
 
 4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
 
