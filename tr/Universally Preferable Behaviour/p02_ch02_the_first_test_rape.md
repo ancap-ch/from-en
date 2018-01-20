@@ -36,9 +36,9 @@ Bu noktada, eğer komadaki bir adam ahlak dışı değilse ahlaklı da olamaz it
 
 #### Kapasite
 
-"Kaçınabilirlik" kavramı olumlu olarak çalıştığı gibi olumsuz yönde de çalışır. Bir korkunç kaza ile genital organımı kaybedersem, tecavüzden kaçındığım için ahlaklı mıyım? Ahlaklı olabileceğim tezini savunmak zor olacaktır çünkü en azından genital tecavüz benim için imkansızdır. Benzer şekilde, biz eğer bir adam bir dilenciye yüz dolar verirse ona cömert diyebiliriz ancak adam uyurgezer bir haldeyken bu işi yapmışsa ve bundan acı bir pişmanlık duyuyorsa görüşümüzü değiştiririz.
+"Kaçınılabilirlik" kavramı olumlu olarak çalıştığı gibi olumsuz yönde de çalışır. Bir korkunç kaza ile genital organımı kaybedersem, tecavüzden kaçındığım için ahlaklı mıyım? Ahlaklı olabileceğim tezini savunmak zor olacaktır çünkü en azından genital tecavüz benim için imkansızdır. Benzer şekilde, biz eğer bir adam bir dilenciye yüz dolar verirse ona cömert diyebiliriz ancak adam uyurgezer bir haldeyken bu işi yapmışsa ve bundan acı bir pişmanlık duyuyorsa görüşümüzü değiştiririz.
 
-Dolayısıyla, şunu mantıklıca söyleyebiliriz: nerede seçim yoksa veya uygulanamıyorsa orada ahlak da yoktur ve uygulanamıyordur. Bu yüzden komadaki adamın davranışları kötü olarak nitelenemeyeceği gibi iyi olarak da nitelenemez. O bu durumda tercih etmeden bulunuyordur tıpkı bir bebek veya hayvan gibi, bundan dolayı o ETD'ın izin verebileceği mantıklı bir şekilde ahlak kurallarından muaf tutulabilir, çünkü tercih edebilen birinden onu nesnel olarak ayıran fiziksel durumu söz konusudur.
+Dolayısıyla, şunu mantıklıca söyleyebiliriz: nerede seçim yoksa veya uygulanamıyorsa orada ahlak da yoktur ve uygulanamıyordur. Bu yüzden komadaki adamın davranışları kötü olarak nitelenemeyeceği gibi iyi olarak da nitelenemez. O bu durumda tercih etmeden bulunuyordur tıpkı bir bebek veya hayvan gibi, bundan dolayı o ETD'nin izin verebileceği mantıklı bir şekilde ahlak kurallarından muaf tutulabilir, çünkü tercih edebilen birinden onu nesnel olarak ayıran fiziksel durumu söz konusudur.
 
 Bunu akılda tutarak tecavüz üzerine açıklamamıza devam edelim.
 
@@ -52,7 +52,7 @@ Eğer şiddet başlatımının ahlakça iyi olduğunu belirten bir ahlak kuralı
 
 Bir odadaki iki adam, birinin diğerine karşı şiddete başvurduğu ve diğerinin buna karşı koyduğu sırada aynı anda ahlaki olarak iyi olamaz - eğer o buna karşı koymuyorsa, yukarıda tartıştığımız cerrah örneğindeki gibi, bu durum şiddetin tanımı olamaz. Böylece erdem, sadece erdeme karşı direnilerek açığa çıkabilir, ve aynı şartlar altındaki iki adam, aynı anda ahlaklı olamaz, ve bunlar gibi - tümü UPB'nin ihlalleridir.
 
-Böylelikle biz tecavüzün APA olamaycağını biliyoruz.
+Böylelikle biz tecavüzün APA olamayacağını biliyoruz.
 
 Bunu geç kalmamanın neden EOD olduğunun gerekçelerini gözden geçirerek doğrulayabiliriz.
 
@@ -72,7 +72,7 @@ Yukarıda gördüğümüz üzere zorlama ile olsa da bunu iki insanın aynı and
 
 Diğer yandan, ben caz sevmek EODdır dersem o zaman hemen mantıksal bir imkansızlığa toslarım. Hatırlayın, EODlar iki tarafında eş zamanlı olarak uygulayabileceği zorlayıcı olmayan kurallardır - caz sevmenin doğru formülasyonu şudur: "öznel tercihler evrensel olarak tercih edilebilirler."
 
-Sadece rütbe zıtlığı değil, aynanda UPB testlerinin anında başarısızlığı demektir. Eğer ben cazı müziğin diğer türlerine karşı tercih ediyorsam fakat sen klasik müziği müziğin diğer türlerine karşı tercih ediyorsan ve eğer kişisel tercihler evrensel olarak tercih edilebilirse o zaman ben caz müziği tercih ettiğim için sen de etmelisin, sen klasik müziği tercih ettiğin için ben de etmeliyim. Bu, tabiki de mümkün değildir, çünkü ikimizinde *diğer bütün müzik türlerinin üstünde aynı anda hem caz hem de klasik müzik tercih etmemizi* gerektirirdi. Kendi tercihini jaza kaydırmalısın, çünkü jaz benim tercihimdir - ama aynı anda bende tercihimi klasik muziğe kaydırmalıyım çünkü buda senin tercihindir. Bu ikinizinde beyzbol topunu aynanda atıp yakalamanız gerektiğini söylemek gibidir - mantıksal ve fiziksel bir imkansızlıktır.
+Sadece rütbe zıtlığı değil, aynı anda ETD testlerinin anında başarısızlığı demektir. Eğer ben cazı müziğin diğer türlerine karşı tercih ediyorsam fakat sen klasik müziği müziğin diğer türlerine karşı tercih ediyorsan ve eğer kişisel tercihler evrensel olarak tercih edilebilirse o zaman ben caz müziği tercih ettiğim için sen de etmelisin, sen klasik müziği tercih ettiğin için ben de etmeliyim. Bu, tabi ki de mümkün değildir, çünkü ikimizinde *diğer bütün müzik türlerinin üstünde aynı anda hem caz hem de klasik müzik tercih etmemizi* gerektirirdi. Kendi tercihini caza kaydırmalısın, çünkü caz benim tercihimdir - ama aynı anda bende tercihimi klasik müziğe kaydırmalıyım çünkü buda senin tercihindir. Bu ikinizin de beyzbol topunu aynı anda atıp yakalamanız gerektiğini söylemek gibidir - mantıksal ve fiziksel bir imkansızlıktır.
 
 APAlar şiddetle zorlanamayacağı için - bir insanı geç kaldığı için vuramazsınız - o zaman tecavüz bir APA *olamaz*, çünkü tecavüzün tanımı şiddet kullanarak cinsel saldırıdır.
 
@@ -110,7 +110,7 @@ Belki de tecavüz estetik olarak *olumsuz* bir davranıştır tıpkı geç kalma
 
 Ancak, tecavüz tanımı gereği kaçınılamazdır çünkü güç kullanarak gerçekleştirilen cinsel bir saldırıdır.[^4] Ayrıca, eğer ben yukarıda belirtilen sürekli geciken adamla arkadaşlığı kesersem o beni şiddet ile tehdit ederek arkadaşı olmaya zorlayamaz çünkü bu sadece kişisel tercihlerin başkalarına uygulanabileceği anlamına gelir ki arkadaşlığını bırakmayı *isteyebilme* yeteneğime karşı sonuçsuz kalacaktır. Bu çeşit "Tarantino ahlakı" herkesin donmuş bir heykel gibi birbirlerinin suratına silah doğrulturken sessizlik halinde felç olma durumu ile sona erer.
 
-Daha önce kurdğumuz gibi, evrensel olarak kabul edilen bir davranış her zaman ve her yerde evrenselliğini korumalıdır - Eğer ANA'lar vahşi zorlamaya izin verirse (örn. geç kaldığın için seni vurabilirim) - o zaman tecavüz bir ANA olarak adlandırılırsa zorla kabul ettirilebilir, o zaman bunu olumsuz bulan tecavüz kurbanı tecavüzcüyü vurma hakkına sahiptir, buda nefsi müdafa prensibini doğrular, bu aynı zamanda silah oyununu karşı tarafın kullanmasına da olanak sağlar, kabalıktır.
+Daha önce kurduğumuz gibi, evrensel olarak kabul edilen bir davranış her zaman ve her yerde evrenselliğini korumalıdır - Eğer ANA'lar vahşi zorlamaya izin verirse (örn. geç kaldığın için seni vurabilirim) - o zaman tecavüz bir ANA olarak adlandırılırsa zorla kabul ettirilebilir, o zaman bunu olumsuz bulan tecavüz kurbanı tecavüzcüyü vurma hakkına sahiptir, buda nefsi müdaafa prensibini doğrular, bu aynı zamanda silah oyununu karşı tarafın kullanmasına da olanak sağlar, kabalıktır.
 
 Böylelikle tecavüz ANA olamaz.
 
@@ -118,31 +118,31 @@ sadece geriye kalan…
 
 ### Kötülük
 
-Eğer tecavüz kötülük olarak tanımlanmışsa, o zaman bu, şiddet kullanım </em>başlatımını* da içermelidir ki açıkça öyledir. Ayrıca, "tecavüz kötüdür" önermesi, "koma testi"nden geçer, komadaki bir erkeğin başka birini tecavüz etmesi mümkün değildir.</p> 
+Eğer tecavüz kötülük olarak tanımlanmışsa, o zaman bu, şiddet kullanım *başlatılmasını* da içermelidir ki açıkça öyledir. Ayrıca, "tecavüz kötüdür" önermesi, "koma testi"nden geçer, komadaki bir erkeğin başka birini tecavüz etmesi mümkün değildir.
 
 Buna ek olarak, eğer tecavüz kötü ise, o zaman tecavüz *etmemek* iyi olmalıdır - bu şekilde baktığımızda, bir odadaki iki adam, sırf birbirlerine tecavüz etmeden aynı anda ahlaklı olabilir.
 
 Kaçınılabilirlik, "nahoşluk" ve "ahlaksızlık" arasındaki anahtar farklılaştırıcıdan biri olduğundan, ve tecavüz açıkça kaçınılamayan bir davranış olduğundan, "kötü olarak tecavüz etmek" tanımı da bu ayrıma uymaktadır.
 
-Aynı zamanda fiziksel olarak birisine tecavüz etmenin imkansız olduğu zamanlar vardır - ereksiyonun gerçekleşemediği zamanlarda - "tecavüz şeytanidir" terimi insanların rızası olmamasını moralsiz kılar, ki bu tanım olarak imaknsızdır, çünkü bu kaçınılabilir bir durumdur.
+Aynı zamanda fiziksel olarak birisine tecavüz etmenin imkansız olduğu zamanlar vardır - ereksiyonun gerçekleşemediği zamanlarda - "tecavüz şeytanidir" terimi insanların rızası olmamasını moralsiz kılar, ki bu tanım olarak imkansızdır, çünkü bu kaçınılabilir bir durumdur.
 
 Tecavüzcü "tecavüz iyidir" önermesinden sıyrılarak eylemlerini haklı çıkarabilir, ve bunun yerine tecavüze olan arzusunu destekleyen başka bir önermenin yerine mesela şunu koyabilir: "Başkalarının hoşnutsuzluğundan ziyade, kendi zevkini almak ahlaklıdır."
 
-Bu önerme, aynı zamanda UPB'nin en temel mantık testinde başarısız olur. Bob eğer ki Doug'a tecavüz ederek kendi zevkini tatmin etmesi gerektiğine inanırsa - Doug'ın hoşnutsuzluğuna aldırış etmeden - o zaman Bob mantıklı bir şekilde tercihini UPB'ye yükseltemez.
+Bu önerme, aynı zamanda ETD'nin en temel mantık testinde başarısız olur. Bob eğer ki Doug'a tecavüz ederek kendi zevkini tatmin etmesi gerektiğine inanırsa - Doug'ın hoşnutsuzluğuna aldırış etmeden - o zaman Bob mantıklı bir şekilde tercihini UPB'ye yükseltemez.
 
 Eğer herkes kendi zevkini kurbanlarının hoşnut*suz*luğuna aldırış etmeden almalıysa, o zaman Bob, Doug'a tecavüz etmeyi *tercih* etse de bunu yapmaya hakkı yoktur, Doug hiç şüphesiz tecavüz *edilmemeyi* tercih edecektir. Eğer herkes kendi zevkini başkalrının zevksizliğini gözardı ederek ele alırsa, Bob'un tecavüz tanımının Bob'un tecavüze uğramama tanımı arasında bir ayrım yapılamaz, tecavüze uğramamyı seçen Bob'a bu durumun yaratacağı rahatsızlığı gözardı edersek.
 
 Bu durumda Doug Bob'a "Benim sana tecavüz etmem senin için iyidir çünkü kişisel tercihler zorla kabul ettirilebilir" Tabiki bu duruma Bob "Bu durumda benim vahşi bi şekilde tecavüze direnmeye hakkım vardır çünkü kişisel tercihler zorla kabul ettirilebilir."
 
-Elbette, çok az tecavüzcü filozoftur, ancak yukarıda bahsettiğimiz gibi insanoğlu için birincil tehlike bireysel suçtan ziyade mantıksız ve sömürücü ahlak kuramlarıdır. Örneğin, hapis cezası kaçınılmaz olarak ahlaki bir teori için bir itiraz yoluyla haklı gösterilebilir - ve hapsetme, özel suçluların hayal edebileceğinden çok daha fazla kişiye tecavüz edilmesine sebep olur. Hadım etmeyi doğrulayan moral teoriler yalnış çıkarsa, o zaman bu teoriyi *düzeltmek* tecavüz oranlarını azaltmak isteyen birinin en büyük önceliği olmalıdır.
+Elbette, çok az tecavüzcü filozoftur, ancak yukarıda bahsettiğimiz gibi insanoğlu için birincil tehlike bireysel suçtan ziyade mantıksız ve sömürücü ahlak kuramlarıdır. Örneğin, hapis cezası kaçınılmaz olarak ahlaki bir teori için bir itiraz yoluyla haklı gösterilebilir - ve hapsetme, özel suçluların hayal edebileceğinden çok daha fazla kişiye tecavüz edilmesine sebep olur. Hadım etmeyi doğrulayan moral teoriler yanlış çıkarsa, o zaman bu teoriyi *düzeltmek* tecavüz oranlarını azaltmak isteyen birinin en büyük önceliği olmalıdır.
 
 Bu durumda tecavüzün tek mantıklı olma şansı *olamaz* evrensel olarak tecavüzün tercih edilir olmasıdır - ya da evrensel olarak tecavüzün yasaklanmasıdır.
 
 ### Vay canına!
 
-UPB kalıbının etkili ve mantıklı olarak tecavüzün kötü olduğunu doğruladığı gerçeği - "iyi" değildir yada "tercih edilebilir" ya da "kişisel olarak tercih edilebilir" ya da "moral olarak tarafsız" olması - iyiye işarettir. Bu, UPB'nin tüm "sağduyu" ahlaki önermelerini mantıksal olarak en ufak bir şüphe duymadan doğrulayacağını kanıtlamaz, fakat ilk engel aşılır, ve bu bize kutlama için harika bir neden sunmalıdır. Eğer Birleşik Alan Kuramı öneren bir fizikçi olsaydım, ve teorimin uygulaması fırlatılan beyzbolun nereye gideceğini doğru bir şekilde tahmin etmek olsaydı, adil bir şekilde son derece memnun olurdum.
+UPB kalıbının etkili ve mantıklı olarak tecavüzün kötü olduğunu doğruladığı gerçeği - "iyi" değildir yada "tercih edilebilir" ya da "kişisel olarak tercih edilebilir" ya da "moral olarak tarafsız" olması - iyiye işarettir. Bu, ETD'nin tüm "sağduyu" ahlaki önermelerini mantıksal olarak en ufak bir şüphe duymadan doğrulayacağını kanıtlamaz, fakat ilk engel aşılır, ve bu bize kutlama için harika bir neden sunmalıdır. Eğer Birleşik Alan Kuramı öneren bir fizikçi olsaydım, ve teorimin uygulaması fırlatılan beyzbolun nereye gideceğini doğru bir şekilde tahmin etmek olsaydı, adil bir şekilde son derece memnun olurdum.
 
-Einstein'in rölativite teorisi ışığın yer çekimi etkisi altında kırıldığını öngörmüştür - bu ilk doğrulandığında, teori hakkındaki şüphelerin gölgesinin ötesine geçememiştir, ama bu teori doğru *olabileceği* anlaşılmıştı, bu da ileriye atılmış büyük bir adımdır. İlk doğrulama her zaman en zordur, çünkü işlerin yanlış anlaşılması kolaydır ve hata her zaman doğruluktan fazla olur.
+Einstein'ın rölativite teorisi ışığın yer çekimi etkisi altında kırıldığını öngörmüştür - bu ilk doğrulandığında, teori hakkındaki şüphelerin gölgesinin ötesine geçememiştir, ama bu teori doğru *olabileceği* anlaşılmıştı, bu da ileriye atılmış büyük bir adımdır. İlk doğrulama her zaman en zordur, çünkü işlerin yanlış anlaşılması kolaydır ve hata her zaman doğruluktan fazla olur.
 
 UPB çerçevesi, bizim tecavüz etmenin kötü olduğuna dair ahlaki vaadimizi uygun bir şekilde doğrulamaktadır. Bu kanıtlar için gerekli bir ölçüt -ama yeterli değil- ve tamamıyla ek soruşturmayı destekler. Böylelikle, devam edelim…
 
