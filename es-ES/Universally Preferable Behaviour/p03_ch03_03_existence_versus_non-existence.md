@@ -18,15 +18,15 @@ Nuestro deseo de ser buenos - combinado con la sensación de virtud que nos gene
 
 Una razón primordial que sabemos, es que los gobernantes y los dioses son innecesarios, es que son muy efectivos. *Sabemos que la mayoría de la gente quiere desesperadamente ser bueno porque son controlados fácilmente a través de teorías morales*.
 
-La lógica de la obediencia a la mitología es claramente ridícula. Si un sacerdote me dice que debo obedecer a “Dios”, es lo mismo que si me dijera que debo obedecer a una entidad llamada “Nog”. Si incluso aceptara que esta entidad ficticia es digna de obediencia eterna, eso tampoco lograría bajo ningún punto de vista que yo obedeciera al *sacerdote*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+La lógica de la obediencia a la mitología es claramente ridícula. Si un sacerdote me dice que debo obedecer a “Dios”, es lo mismo que si me dijera que debo obedecer a una entidad llamada “Nog”. Si incluso aceptara que esta entidad ficticia es digna de obediencia eterna, eso tampoco lograría bajo ningún punto de vista que yo obedeciera al *sacerdote*. Si le dijera “obedezca a su corazón”, puedo entonces decirle razonablemente: “y*yo sólo* seré el que hable en lugar de su corazón”?
 
-Of course not.
+Por supuesto que no.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+Cuando eliminamos la mitología y la ficciónde nuestras “interacciones” con nuestros gobernantes, lo que surge es una realidad sombría, cruel y peligrosamente abusadora.
 
-Let’s take as an example a very real and present danger: taxation.
+Tomemos como ejemplo a un peligro muy presente y real: los impuestos.
 
-#### Taxation
+#### Impuestos
 
 I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
 
