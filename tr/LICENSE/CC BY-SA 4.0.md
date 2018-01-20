@@ -14,7 +14,7 @@ Creative Commons lisansları, içerik oluşturucuların ve diğer hak sahiplerin
 
 ## Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası Kamu Lisansı
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License ("Public License"). Bu Kamu Lisansı bir sözleşme olarak yorumlanabildiğine göre, Lisans ve Şartları, bu hüküm ve koşulları kabul etmeniz koşuluyla verilir ve Lisans Sağlayıcı, Lisans Veren'in lisanslı materyali kullanımından elde ettiği faydaları dikkate alarak bu şartlar ve koşullara göre size bu haklar tanımnaktadır.
+(Aşağıda tanımlanmış olan) Lisanslı Hakları uygulayarak, bu Yaratıcı Ortak Kullanım-ShareAlike 4.0 Uluslararası Kamu Lisansı'nın (bir diğer adıyla "Toplu Lisans") kayıt ve koşullarını kabul ettiğinizi onaylamış oluyorsunuz. Bu Kamu Lisansı bir sözleşme olarak yorumlanabildiğine göre, Lisans ve Şartları, bu hüküm ve koşulları kabul etmeniz koşuluyla verilir ve Lisans Sağlayıcı, Lisans Veren'in lisanslı materyali kullanımından elde ettiği faydaları dikkate alarak bu şartlar ve koşullara göre size bu haklar tanımnaktadır.
 
 ### Kısım 1- Tanımlar.
 
