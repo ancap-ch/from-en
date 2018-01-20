@@ -66,13 +66,13 @@ Similar a la Premisa Dos, dado que todas las discusiones requieren lenguaje, cua
 
 #### Premisa 4: La Corrección Requiere Preferencias Universales
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+Si me corriges en un error que he cometido, entonces estás aceptando implícitamente el hecho de que sería *mejor* para mí corregir mi error. Tu preferencia sobre mí corrigiendo mi error no es subjetiva, sino objetiva, y universal.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+No me dices: "Deberías cambiar tu opinión a la mía porque yo lo prefiero," sino: "Deberías corregir tu opinión porque es objetivamente incorrecta." Mi error no proviene de una mera discrepancia contigo, sino como resultado de mi desviación de un estándar objetivo de la verdad. Tu argumento de que debería corregir mi opinión falsa se sostiene en el valor objetivo de la verdad – es decir, esa verdad es *preferible universalmente* al error, y esa verdad es *universalmente objetiva*.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### Premisa 5: Una Metodología Objetiva Existe Para Separar La Verdad de La Falsedad
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Si no estás de acuerdo conmigo, pero te digo que debes estar de acuerdo conmigo porque siempre tengo la razón, es poco probable que estés satisfecho por el rigor de mi argumento. Si proporcionases buenas razones de por qué estoy equivocado, pero yo simplemente continuase repitiendo que tengo razón porque yo *siempre* tengo razón, nuestra interacción difícilmente podría ser clasificada como un debate.
 
 The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
 
