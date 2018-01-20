@@ -2,13 +2,13 @@
 
 Tendremos que estar un poco mas de tiempo en robos, desde que éste inevitablemente trae al tema la cuestión acerca de derechos de propiedad, el cual es altamente contencioso para algunos.
 
-Hay muchas maneras de acercarse a la pregunta sobre los derechos de propiedad, desde la granja o propiedad familiar hasta definiciones legales, consideraciones prácticas, etc. No voy a mencionar ninguno de esos, porque la cuestión de los derechos de propiedad debe caer en un marco de Upb, donde Upb hace referencia a una metodología racional para evaluar proposiciones morales.
+Hay muchas maneras de acercarse a la pregunta sobre los derechos de propiedad, desde la granja o propiedad familiar hasta definiciones legales, consideraciones prácticas, etc. No voy a mencionar ninguno de esos, porque la cuestión de los derechos de propiedad debe caer en un marco de CUP, donde CUP hace referencia a una metodología racional para evaluar proposiciones morales.
 
 Claramente, la proposición moral con respecto a los derechos de propiedad es la siguiente: o los seres humanos tienen el derecho de poseer propiedades o no.
 
 Ahora, la primera "propiedad" que se debe acotar es la del cuerpo. "Posesión" debe primeramente consistir en el control sobre el cuerpo de uno mismo, porque si ese control no existe, o si no es considerado válido, entonces toda la cuestión de la moral - sin mencionar propiedad - sale por la ventana.
 
-UPB es un marco para evaluar proposiciones morales, o argumentos sobre comportamiento preferido universalmente para toda la humanidad. Primero y principal, un hombre debe ser responsable de sus propias acciones si éstas serían moralmente juzgadas, como hemos discutido anteriormente, la capacidad de elegir acciones es fundamental para cualquier evaluación ética.
+CUP es un marco para evaluar proposiciones morales, o argumentos sobre comportamiento preferido universalmente para toda la humanidad. Primero y principal, un hombre debe ser responsable de sus propias acciones si éstas serían moralmente juzgadas, como hemos discutido anteriormente, la capacidad de elegir acciones es fundamental para cualquier evaluación ética.
 
 Si un hombre no tiene control sobre su cuerpo, entonces claramente éste no tiene responsabilidad por sus acciones - éstas de hecho no son "sus" acciones, si no las acciones de su cuerpo. Ahora, nadie podría argumentar racionalmente que si un hombre estrangula a otro hombre, son los dedos asesinos los que deberían ser mandados a un juicio y ser castigados. Claramente, el cuerpo no puede completamente controlarse a sí mismo, pero debe estar hasta cierto punto bajo el control de la mente consciente.
 
@@ -26,7 +26,7 @@ Así, el propio acto de controlar mi cuerpo para producir un discurso exige la a
 
 Ahora, si la posesión demoníaca fuese una ocurrencia válida, y una chica poseída por un demonio escupiese sobre un sacerdote, no llamaríamos a la *chica* grosera, mas bien, nos daría lástima debido a que un demonio mal educado se residió en ella. Cualquiera que tuviese el control sobre el cuerpo de la niña es culpable por los efectos de sus acciones - por esto es que no llamaríamos "malvado" a un hombre que robó mientras caminaba dormido, debido a que éste no tenía control completo sobre su propio cuerpo (aunque podríamos arrestarlo de otras maneras). Ésta también es la base de la defensa legal de "no culpable debido a locura", donde asumimos que un hombre que está loco no tiene control completo sobre sus acciones.
 
-Así, rechazar la propiedad sobre el cuerpo es rechazar toda moralidad, que, como hemos visto anteriormente, es absolutamente imposible. Lógicamente, como la moralidad está definida como un subconjunto obligatorio de UPB, rechazar la moralidad es lo mismo que decir que es universalmente preferible creer que no existe tal cosa como preferencias universales.
+Así, rechazar la propiedad sobre el cuerpo es rechazar toda moralidad, que, como hemos visto anteriormente, es absolutamente imposible. Lógicamente, como la moralidad está definida como un subconjunto obligatorio de CUP, rechazar la moralidad es lo mismo que decir que es universalmente preferible creer que no existe tal cosa como preferencias universales.
 
 Finalmente, utilizar la posesión del cuerpo de uno en la forma de discurso para rechazar la noción de que uno puede controlar su propio cuerpo, es una auto contradicción descarada.
 
@@ -34,9 +34,9 @@ Es de esta forma que cualquier rechazo de auto propiedad puede ser absolutamente
 
 Como nosotros poseemos nuestros cuerpos, también poseemos inevitablemente los *efectos* de nuestras acciones, ya sean buenas o malas. Si poseemos los efectos de nuestras acciones, entonces claramente poseemos lo que producimos, así produzcamos un arco, o un libro - o un asesinato.
 
-### Propiedad y UPB
+### Propiedad y CUP
 
-Aún si rechacemos lo anterior, podemos todavía usar UPB para afirmar definitivamente la existencia de los derechos de propiedad universal.
+Aún si rechacemos lo anterior, podemos todavía usar CUP para afirmar definitivamente la existencia de los derechos de propiedad universal.
 
 Como mencionado anteriormente, o los seres humanos tienen derechos de propiedad, o no los tienen. Excepto por unas pocas áreas grises, que dentro de poco llegaremos a eso, esto permanece como una proposición universal.
 
