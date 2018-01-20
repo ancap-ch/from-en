@@ -1,6 +1,6 @@
 # İlk kök başlığı
 
-Aşağıda her karakteri hem ingilizce olarak hem de diğer dillerde bulunduran, stil sahibi bir pangramın numaralandırılmış bir listesi bulunmaktadır.
+Aşağıda her karakteri hem İngilizce olarak hem de diğer dillerde bulunduran, stil sahibi bir pangramın numaralandırılmış bir listesi bulunmaktadır.
 
 1. büyük harf: HIZLI, KAHVERENGİ TİLKİ TEMBEL KÖPEĞİN ÜZERİNDEN ATLAR. 
 2. rakamlar: 0123456789. 
