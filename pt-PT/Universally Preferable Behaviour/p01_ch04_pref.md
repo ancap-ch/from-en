@@ -18,13 +18,13 @@ As preferências não existem objectivamente dentro da realidade. Se você fosse
 
 Podemos encontrar *evidências* para preferências; não podemos encontrar, realmente *a própria* preferência. A preferência existe como uma *relação* entre a consciência e a matéria, assim como a gravidade existe como uma relação entre corpos de matéria.
 
-Deixando de lado as questões desafiadoras do livre arbítrio contra o determinismo, é lógico supor que seja o que for que uma pessoa esteja a fazer no presente, é o que ela "prefere" fazer. Se eu me levantar e for trabalhar, então obviamente *prefiro* para fazer isso, em vez de qualquer outra alternativa. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Deixando de lado as questões desafiadoras do livre arbítrio contra o determinismo, é lógico supor que seja o que for que uma pessoa esteja a fazer no presente, é o que ela "prefere" fazer. Se eu me levantar e for trabalhar, então obviamente *prefiro* para fazer isso, em vez de qualquer outra alternativa. Mesmo que eu odeie o meu trabalho, odeio-o *menos* do que, digamos, ficar sem dinheiro.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+Dado que os seres humanos podem realizar uma variedade de acções quase infinitas, o que quer que uma pessoa esteja a fazer, no momento, foi escolhido dentre todas as outras opções possíveis. Estou escolhendo escrever este livro em vez de, digamos, aprender a bailar tango.
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+Quando aplicamos este simples facto a argumentos éticos, chegamos a resultados muito interessantes.
 
-### Preferences And Arguments
+### Preferências E Argumentos
 
 Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
 
