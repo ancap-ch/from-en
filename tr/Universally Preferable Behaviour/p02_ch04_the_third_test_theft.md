@@ -20,7 +20,7 @@ Eğer konuşmadan tümüyle sorumlu değilsem, o zaman benimle tartışılacak b
 
 Bu gülünç portre bir anlamda doğru olsa da - başka bir varlık kızın ses tellerini tamamen kontrol altına alıyorsa, ele alınması gereken şey, kız değil, cevapları üzerinde kontrol sahibi olmayan kişidir.
 
-Bu yüzden eğer sana konuşmam üzerinde kontrolümün olmadığını söylersem, bana sorabilirsin: kimin kontrolü var? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
+Bu yüzden eğer sana konuşmam üzerinde kontrolümün olmadığını söylersem, bana sorabilirsin: kimin kontrolü var? Eğer kimsenin cevaplamadığını ifade ediyorsam, o halde, bir televizyona ya da yukarıda adı geçen kayaya tepeden bakacak şekilde tartışmak yerine benimle tartışmak daha mantıklı geliyor.
 
 Bu sayede konuşmayı gerçekleştirmek için kendi bedenimi kontrol etme eylemi, benim konuşmamı kontrol etme yeteneğimi kabul etmemi gerektirir - kendi bedenim üzerindeki sahipliğimin dolaylı yoldan belirtilen bir doğrulaması.
 
