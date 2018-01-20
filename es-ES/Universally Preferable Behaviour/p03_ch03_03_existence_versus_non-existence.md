@@ -42,7 +42,7 @@ Por ende, la interacción real es cuando una persona me envía una carta dicién
 
 Si no le lado a esa persona, entonces mandará a otra persona a mi casa a buscar el dinero - más “intereses” y “gastos”
 
-Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Normalmente, si un hombre portando un arma, viene a mi casa y me obliga a darle dinero, tengo el derecho de usar la fuerza y defenderme. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
 
 Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
 
