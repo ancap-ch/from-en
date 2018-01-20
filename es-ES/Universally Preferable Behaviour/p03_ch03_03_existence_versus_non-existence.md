@@ -40,7 +40,7 @@ De todas maneras, en ningún momento, ninguna entidad llamada “el gobierno” 
 
 Por ende, la interacción real es cuando una persona me envía una carta diciéndome que le debo dinero. Yo no tengo ningún contrato con esa persona, y esa persona de hecho no es dueño de ninguna de mis propiedades, aunque otras personas escribieron un supuesto “contrato” el cual dice lo contrario.
 
-If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
+Si no le lado a esa persona, entonces mandará a otra persona a mi casa a buscar el dinero - más “intereses” y “gastos”
 
 Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
 
