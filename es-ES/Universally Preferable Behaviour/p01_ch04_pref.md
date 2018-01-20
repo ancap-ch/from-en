@@ -92,18 +92,18 @@ Si me dices por adelantado que lidearías con un desacuerdo disparándome, yo no
 
 En esencia, entonces debatir requiere una metodología objetiva, a través del lenguaje significativo, en la búsqueda de la verdad universal, la cual es objetivamente preferible al error personal.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+Esta preferencia por la verdad universal no es una preferencia de *grado*, sino de *tipo*. Un atajo que reduce tu tiempo de manejo a la mitad es doblemente mejor que una ruta más larga – pero ambas son *infinitamente preferibles* a conducir en la dirección equivocada.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+En el mismo sentido, la verdad no solo es "mejor" que el error – es *infinitamente preferible*, o requerida.
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### Premisa 8: Los Individuos Son Responsables De Sus Acciones
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+Si argumento que los seres humanos no son responsable de sus acciones, me encuentro atrapado en una paradoja, la cual es la pregunta de *si soy o no responsable de mi argumento, y si tú eres o no responsable de tu respuesta*.
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+Si mi argumento de que los seres humanos *no* son responsables por sus acciones es cierto, entonces no soy responsable por mi argumento, y tú no eres responsable por tu respuesta. Sin embargo, si creo que no eres responsable por tu respuesta, tendría muy poco sentido avanzar en una discusión – sería exactamente lo mismo que discutir con un televisor.[^5]
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+Así, fundamentalmente, si te digo que no eres responsable de tus acciones, te estoy diciendo que es universalmente preferible que creas que la preferencia es imposible, ya que no tienes control sobre tus acciones, no puedes escoger un estado preferido, es decir, la verdad sobre la falsedad. Así esta discusión, como los argumentos anteriores, se autodestruye.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^4]: Sería útil mantener esta premisa particular en mente, ya que será muy importante más adelante.
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]: La cuestión de la responsabilidad está, por supuesto, estrechamente relacionada a la cuestión del libre albedrío versus el determinismo, lo cual será el tema de otro libro.
