@@ -2,9 +2,9 @@
 
 Идея о том, что при рождении вы заключаете некий контракт с вымышленным агентством, которое на практике делает вас квази-рабом конкретных людей, является общей как для религии, так и для государства… и с еще одним, гораздо более личным агентством, о котором я пишу в моей первой книге «О правде: Тирания иллюзии»
 
-Когда священник говорит: «Повинуйтесь Богу», на самом деле он говорит: «Повинуйтесь *мне*». Поскольку Бога не существует, любая заповедь, которая, по утверждению священника, исходит от Бога, на самом деле исходит от священника. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Когда священник говорит: «Повинуйтесь Богу», на самом деле он говорит: «Повинуйтесь *мне*». Поскольку Бога не существует, любая заповедь, которая, по утверждению священника, исходит от Бога, на самом деле исходит от священника. «Бог» - лишь вымышленная сущность, используемая для идейного запугивания и достижения очень практической цели - ваша подчиненность в реальном мире реальным людям, которая выражается добровольной передачей денег, времени и ресурсов.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+Для эксплуататоров гораздо продуктивнее добиться того, чтобы рабы считали рабство добродетелью, поскольку это значительно сокращает расходы на контроль за ними. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
 
 Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
 
