@@ -18,7 +18,7 @@ As preferências não existem objectivamente dentro da realidade. Se você fosse
 
 Podemos encontrar *evidências* para preferências; não podemos encontrar, realmente *a própria* preferência. A preferência existe como uma *relação* entre a consciência e a matéria, assim como a gravidade existe como uma relação entre corpos de matéria.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Deixando de lado as questões desafiadoras do livre arbítrio contra o determinismo, é lógico supor que seja o que for que uma pessoa esteja a fazer no presente, é o que ela "prefere" fazer. Se eu me levantar e for trabalhar, então obviamente *prefiro* para fazer isso, em vez de qualquer outra alternativa. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
 
 Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
 
