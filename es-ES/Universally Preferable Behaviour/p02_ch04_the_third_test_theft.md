@@ -52,7 +52,7 @@ Si los seres humanos no tienen propiedad exclusiva de sus propios cuerpos, enton
 
 No es un delito cometer suicidio, ni tampoco lo es prender en fuego tu propia casa, debido a que la destrucción de la propiedad de uno es un ejercicio válido de poseer. Sin embargo, si la auto posesión exclusiva es inválida, entonces no puede haber distinción entre homicidio y suicidio. Si mi hígado está fallando, y tengo el derecho de obtener el tuyo, entonces puedo "re poseerlo" en perfecta conformidad con la moralidad y con comportamiento honorable. Si este procedimiento te mata, ¿entonces qué? Sin la auto posesión exclusiva, no existe un "tú" para comenzar…
 
-Así podemos razonablemente decir que la auto posesión exclusiva es una realidad básica - que todos los seres humanos en todo momento y en todo lugar tienen propiedad exclusiva sobre sus propios cuerpos, y así tiene propiedad exclusiva sobre los effectos de sus cuerpos, tanto en términos de comportamiento moral y creación de propiedad o adquisición.
+Así podemos razonablemente decir que la auto posesión exclusiva es una realidad básica - que todos los seres humanos en todo momento y en todo lugar tienen propiedad exclusiva sobre sus propios cuerpos, y así tienen la propiedad exclusiva sobre los efectos de sus cuerpos, tanto en términos de comportamiento moral y creación de propiedad o adquisición.
 
 ### The Grey Areas
 
