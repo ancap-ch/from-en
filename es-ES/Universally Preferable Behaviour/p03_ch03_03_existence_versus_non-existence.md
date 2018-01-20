@@ -32,9 +32,9 @@ Se me ha dicho, que por haber elegido vivir en Canadá, le debo al “”gobiern
 
 Eliminando la mitología, en qué se traduce eso en realidad?
 
-En realidad, voy a esperar hasta el fin de los tiempos para que “el gobierno” venga a buscar su dinero. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+En realidad, voy a esperar hasta el fin de los tiempos para que “el gobierno” venga a buscar su dinero. Esperar que “el gobierno” venga a nuestra casa es como querer tener una cita con el concepto mismo de la “feminidad”. Y también podría tratar de pagar mi cena con la palabra “dinero”
 
-In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+En realidad, cuando me dicen que debo pagarle mis impuestos al “gobierno”, en realidad significa que debo hacer un cheque, depositarlo en cierta cuenta bancaria, que luego será cobrado por ciertos individuos. Estos individuos entonces tienen el derecho de adueñarse de ese dinero y de usarlo como les parezca mejor - esos individuos por ende, tienen total control sobre mi dinero.
 
 At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
 
