@@ -250,7 +250,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                           </p>
                           
                           <h4>
-                            Get the State out of education
+                            Mendapatkan pendidikan dari negara
                           </h4>
                           
                           <p>
