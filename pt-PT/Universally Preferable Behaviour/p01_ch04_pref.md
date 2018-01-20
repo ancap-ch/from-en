@@ -26,11 +26,11 @@ Quando aplicamos este simples facto a argumentos éticos, chegamos a resultados 
 
 ### Preferências E Argumentos
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Recordando a nossa análise anterior sobre argumentos auto-destrutivos, podemos entender facilmente a natureza contraditória da afirmação: "as preferências não existem". Dado que qualquer acção humana - incluindo a formulação de declarações filosóficas - é escolhida em detrimento de qualquer outra acção possível, alegar que as preferências não existem requer uma *preferência* para argumentar que as preferências não existem, o que é uma afirmação auto-contraditória. Argumentar que as preferências não existem é exactamente o mesmo que expor que o idioma não existe. É uma exposição completamente auto-destrutivo.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+Dado que é impossível agir sem expressar uma preferência - de forma implícita ou explícita - qualquer pessoa que age aceita a premissa de que as preferências existem. Assim, é impossível debater a existência de preferências sem aceitar a existência das mesmas.
 
-### Preferences And Universality
+### Preferências e universalidade
 
 The next question thus becomes: are preferences purely subjective, or can they be universal?
 
