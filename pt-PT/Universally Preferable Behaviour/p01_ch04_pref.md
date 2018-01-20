@@ -68,11 +68,11 @@ Semelhante à Premissa Dois, dado que todos os argumentos exigem linguagem, qual
 
 Se você corrigir um erro que eu cometi, está a aceitar, implicitamente, o facto de que seria *melhor* para mim, corrigir o meu erro. A sua preferência por que eu corrija o meu erro não é subjectiva, mas objectiva e universal.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+Você não me diz: "deve mudar a sua opinião para a minha porque eu o preferiria", mas sim: "Você deve corrigir a sua opinião porque é objectivamente incorrecta". O meu erro não surge de simplesmente discordar de você, mas como resultado do meu desvio de um padrão objectivo da verdade. O seu argumento de que eu deveria corrigir a minha opinião equivocada, baseia-se no valor objectivo da verdade - isto é, que a verdade é *universalmente preferível* ao erro, e essa verdade é *universalmente objectiva*.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### Premissa 5: Uma Metodologia Objectiva Existe Para Separar A Verdade Da Falsidade
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Se você não concorda comigo, mas eu digo que deve concordar, porque sempre estou certo, é improvável que esteja satisfeito com o rigor do meu argumento. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
 
 The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
 
