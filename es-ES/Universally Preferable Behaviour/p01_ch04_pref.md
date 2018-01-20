@@ -58,13 +58,13 @@ Si escojo debatir contigo, entonces necesariamente debo aceptar que ambos existi
 
 #### Premisa 2: Los Sentidos Tienen La Capacidad Para La Precisión
 
-Ya que los humanos no pueden comunicarse físicamente, todos los debates necesariamente involucran la evidencia de los sentidos. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Ya que los humanos no pueden comunicarse físicamente, todos los debates necesariamente involucran la evidencia de los sentidos. La escritura presupone vista; el habla requiere audición el braille requiere tacto. Por lo tanto cualquier proposición que depende de la invalidez de los sentidos automáticamente se autodestruye.
 
-#### Premise 3: Language Has The Capacity For Meaning
+#### Premisa 3: El Lenguaje Tiene La Capacidad del Signficado
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+Similar a la Premisa Dos, dado que todas las discusiones requieren lenguaje, cualquier proposición que se sostenga en la premisa de que el lenguaje carece de significado es inmediatamente invalidada. Usar el lenguaje para argumentar que el lenguaje no tiene significado es como usar un servicio de mensajería enviar un mensaje argumentando que los servicios de mensajería nunca entregan los mensajes.
 
-#### Premise 4: Correction Requires Universal Preferences
+#### Premisa 4: La Corrección Requiere Preferencias Universales
 
 If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
 
