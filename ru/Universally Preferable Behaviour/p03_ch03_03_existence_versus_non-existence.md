@@ -1,8 +1,8 @@
 ### Governments And Religion
 
-The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
+Идея о том, что при рождении вы заключаете некий контракт с вымышленным агентством, которое на практике делает вас квази-рабом конкретных людей, является общей как для религии, так и для государства… и с еще одним, гораздо более личным агентством, о котором я пишу в моей первой книге «О правде: Тирания иллюзии»
 
-Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Когда священник говорит: «Повинуйтесь Богу», на самом деле он говорит: «Повинуйтесь *мне*». Поскольку Бога не существует, любая заповедь, которая, по утверждению священника, исходит от Бога, на самом деле исходит от священника. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
 
 It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
 
