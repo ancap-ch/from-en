@@ -202,7 +202,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                           </p>
                           
                           <h4>
-                            Defund the ruling elites and its intellectual bodyguards
+                            Mencegah penerimaan dana elit penguasa dan pengawal intelektual
                           </h4>
                           
                           <p>
@@ -222,7 +222,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                           </h4>
                           
                           <p>
-                            Semua tindakan tersebut merupakan pelanggaran terang-terangan terhadap prinsip persamaan di depan hukum yang, setidaknya di Barat, secara intuitif dirasakan dan diakui sebagai prinsip dasar keadilan. Sebagai pemilik properti pribadi, orang harus bebas menjalin atau melepaskan diri dengan orang lain: untuk memasukkan atau mengecualikan, untuk mengintegrasikan atau memisahkan, untuk bergabung atau memisahkan, untuk menyatukan dan menggabungkan atau melepaskan, keluar dan melepaskan diri. Close all university departments for Black-, Latino-, Women-, Gender-, Queer-Studies, etc., etc., as incompatible with science and dismiss its faculties as intellectual imposters or scoundrels. Selain itu, menuntut agar semua tindakan afirmatif komisaris, keragaman, dan petugas sumber daya dari universitas sampai ke sekolah dan taman kanak-kanak, dilempar ke jalan dan dipaksa untuk belajar perdagangan yang bermanfaat.
+                            Semua tindakan tersebut merupakan pelanggaran terang-terangan terhadap prinsip persamaan di depan hukum yang, setidaknya di Barat, secara intuitif dirasakan dan diakui sebagai prinsip dasar keadilan. Sebagai pemilik properti pribadi, orang harus bebas menjalin atau melepaskan diri dengan orang lain: untuk memasukkan atau mengecualikan, untuk mengintegrasikan atau memisahkan, untuk bergabung atau memisahkan, untuk menyatukan dan menggabungkan atau melepaskan, keluar dan melepaskan diri. Tutup semua departemen univesitas untuk kulit hitam, latin, studi aneh dan sebagainya., yang tidak sesuai dengan sains dan mengabaikan fakultasnya sebagai intelektual penipu dan bajingan. Selain itu, menuntut agar semua tindakan afirmatif komisaris, keragaman, dan petugas sumber daya dari universitas sampai ke sekolah dan taman kanak-kanak, dilempar ke jalan dan dipaksa untuk belajar perdagangan yang bermanfaat.
                           </p>
                           
                           <h4>
