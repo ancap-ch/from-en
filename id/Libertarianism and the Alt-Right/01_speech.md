@@ -178,7 +178,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                           </ol>
                           
                           <p>
-                            Now, taking our cues from the Buchanan-, the Paul- and the Trump-movement, on to the specifics of a populist strategy for libertarian change, in no specific order except for the very first one, which has currently assumed the greatest urgency in the public mind.
+                            Sekarang, mengambil isyarat dari Buchanan-, Paul dan gerakan Trump, mengacu pada strategi populasi untuk perubahan libertian, tanpa urutan tertentu kecuali yang pertama, yang saat ini dianggap mendesak dalam pikiran publik.
                           </p>
                           
                           <h4>
@@ -198,7 +198,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                           </h4>
                           
                           <p>
-                            A main cause, even if by no means the only one, for the current invasion of Western countries by hordes of alien immigrants, are the wars initiated and conducted in the Middle East and elsewhere by the US’ ruling elites and their subordinate Western puppet-elites. As well, the by now seemingly ‘normal’ and ubiquitous terrorist attacks in the name of Islam across the Western world are in large measure the “blow-back” of these wars and the ensuing chaos throughout the Middle East and Northern Africa. There should be no hesitation to call these Western rulers what they are: murderers or accessories to mass murder. We must demand, and cry out loud instead for a foreign policy of strict non-interventionism. Withdraw from all international and supranational organizations such as the UN, NATO and the EU that intricate one country into the domestic affairs of another. Stop all government-to-government aid and prohibit all weapon sales to foreign States. Let it be <em>America First!, England First!, Germany First!, Italy First!</em>, and so on, i.e., each country trading with one another and no one interfering in anyone else’s domestic affairs.
+                            Penyebab utama, bahkan jika bukan penyebab utama, untuk invasi negara - negara barat oleh rombongan imigrasi asing, adalah perang yang dimulai di timur tengah dan tempat lain yang dimulai oleh elit penguasa AS dan boneka Barat bawahan elit penguasa. As well, the by now seemingly ‘normal’ and ubiquitous terrorist attacks in the name of Islam across the Western world are in large measure the “blow-back” of these wars and the ensuing chaos throughout the Middle East and Northern Africa. There should be no hesitation to call these Western rulers what they are: murderers or accessories to mass murder. We must demand, and cry out loud instead for a foreign policy of strict non-interventionism. Withdraw from all international and supranational organizations such as the UN, NATO and the EU that intricate one country into the domestic affairs of another. Stop all government-to-government aid and prohibit all weapon sales to foreign States. Let it be <em>America First!, England First!, Germany First!, Italy First!</em>, and so on, i.e., each country trading with one another and no one interfering in anyone else’s domestic affairs.
                           </p>
                           
                           <h4>
