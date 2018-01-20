@@ -4,11 +4,11 @@
 
 Когда священник говорит: «Повинуйтесь Богу», на самом деле он говорит: «Повинуйтесь *мне*». Поскольку Бога не существует, любая заповедь, которая, по утверждению священника, исходит от Бога, на самом деле исходит от священника. «Бог» - лишь вымышленная сущность, используемая для идейного запугивания и достижения очень практической цели - ваша подчиненность в реальном мире реальным людям, которая выражается добровольной передачей денег, времени и ресурсов.
 
-Для эксплуататоров гораздо продуктивнее добиться того, чтобы рабы считали рабство добродетелью, поскольку это значительно сокращает расходы на контроль за ними. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+Для эксплуататоров гораздо продуктивнее добиться того, чтобы рабы считали рабство добродетелью, поскольку это значительно сокращает расходы на контроль за ними. Если мне удастся убедить вас, что пренебрегать служением мне – это зло, а быть моим рабом - добродетель, мне не придется нанимать так много головорезов, чтобы запугивать, контролировать и обкрадывать вас.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+Религиозные и государственные мифологии - это вымыслы, которые значительно снижают затраты на контроль над населением; они являются смазкой и топливом для ужасного механизма институционализированного насилия.
 
-Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Во всем мире правители составляют весьма небольшой процент населения. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
 
 The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
 
