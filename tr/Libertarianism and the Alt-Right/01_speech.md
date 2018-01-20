@@ -96,7 +96,7 @@ Batılı ülkeleri yabancı göçmenlerin orduları tarafından istila edilmesi 
 
 #### İktidarın seçkin insanlarını ve entelektüel korumalarını savunun
 
-Expose and widely publicize the lavish salaries, perks, pensions, side-deals, bribes and hush monies received by the ruling elites: by the higher-ups in government and governmental bureaucracies, of supreme courts, central banks, secret services and spy agencies, by politicians, parliamentarians, party leaders, political advisors and consultants, by crony-capitalists, “public educrats,” university presidents, provosts and academic “stars.” Drive home the point that all their shining glory and luxury is funded by money extorted from tax-payers, and consequently urge that any and all taxes be slashed: income taxes, property taxes, sales taxes, inheritance taxes, etc., etc..
+Yöneten elit kesim; hükümette üst düzeyler ve hükümet bürokrasileri, yargıtaylar, merkez bankaları, gizli servislerin üst kesimleri tarafından, politikacılar, milletvekilleri, parti başkanları, siyasal danışmanlar ve müşavirler tarafından, eş-dost kapitalistler, ''eğitim yöneticileri'', üniversite başkanları, resmi amirler ve akademik 'gözdeler' tarafından alınan yüksek maaşları, yan ödemeleri, emekli maaşlarını, iki kişilik gizli antlaşmaları, rüşvetleri, susturmak için verilen paraları ortaya çıkarın ve kamuya yayın. Vergi ödeyenlerden zorla alınmış parayla sağlanan parlak görkemleri ve lükslerini açıklayın ve sonuç olarak tüm vergileri azaltın: Gelir vergileri, mal vergileri, satış vergileri, vekaletname vergileri, vs., vs..
 
 #### FED ve tüm merkez bankalarını sonlandırın
 
