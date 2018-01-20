@@ -38,11 +38,11 @@ Como nosotros poseemos nuestros cuerpos, también poseemos inevitablemente los *
 
 Aún si rechacemos lo anterior, podemos todavía usar UPB para afirmar definitivamente la existencia de los derechos de propiedad universal.
 
-As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
+Como mencionado anteriormente, o los seres humanos tienen derechos de propiedad, o no los tienen. Excepto por unas pocas áreas grises, que dentro de poco llegaremos a eso, esto permanece como una proposición universal.
 
-If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
+Si un hombre no tiene el derecho de usar la propiedad, entonces no tiene el derecho de usar su propio cuerpo. Él no tiene el derecho de utilizar sus pulmones, y por lo tanto debe dejar de respirar. Aunque esto suene tonto, eso es un resultado inmediato e inevitable de la premisa de que los seres humanos no tienen derechos de propiedad.
 
-It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
+Es completamente seguro asumir que cualquiera que está debatiendo contigo sobre los derechos de propiedad está respirando, y así está de acuerdo contigo sobre que él tiene el derecho de usar su propio cuerpo al menos.
 
 The question then comes up whether or not human beings have the right to *exclusive* property use. For instance, property could be defined as a sort of time-share principle of ownership, insofar as everyone should have the right to own everything, on some schedule or another.
 
