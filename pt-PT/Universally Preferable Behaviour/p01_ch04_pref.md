@@ -64,9 +64,9 @@ Como os seres humanos não se podem comunicar psiquicamente, todos os debates en
 
 Semelhante à Premissa Dois, dado que todos os argumentos exigem linguagem, qualquer proposição que se baseie na premissa de que a linguagem não tem sentido é imediatamente refutada. Usar o idioma para argumentar que o mesmo não tem significado é como usar um serviço de correio para enviar uma mensagem, argumentando que os correios nunca entregam as mensagens.
 
-#### Premise 4: Correction Requires Universal Preferences
+#### Premissa 4: a correcção requer preferências universais
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+Se você corrigir um erro que eu cometi, está a aceitar, implicitamente, o facto de que seria *melhor* para mim, corrigir o meu erro. A sua preferência por que eu corrija o meu erro não é subjectiva, mas objectiva e universal.
 
 You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
 
