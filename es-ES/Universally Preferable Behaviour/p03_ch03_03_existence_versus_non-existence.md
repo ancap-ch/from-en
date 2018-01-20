@@ -18,7 +18,7 @@ Nuestro deseo de ser buenos - combinado con la sensación de virtud que nos gene
 
 Una razón primordial que sabemos, es que los gobernantes y los dioses son innecesarios, es que son muy efectivos. *Sabemos que la mayoría de la gente quiere desesperadamente ser bueno porque son controlados fácilmente a través de teorías morales*.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+La lógica de la obediencia a la mitología es claramente ridícula. Si un sacerdote me dice que debo obedecer a “Dios”, es lo mismo que si me dijera que debo obedecer a una entidad llamada “Nog”. Si incluso aceptara que esta entidad ficticia es digna de obediencia eterna, eso tampoco lograría bajo ningún punto de vista que yo obedeciera al *sacerdote*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
 Of course not.
 
