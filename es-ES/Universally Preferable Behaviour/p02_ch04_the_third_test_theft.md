@@ -32,11 +32,11 @@ Finalmente, utilizar la posesión del cuerpo de uno en la forma de discurso para
 
 Es de esta forma que cualquier rechazo de auto propiedad puede ser absolutamente descartado.
 
-Como nosotros poseemos nuestros cuerpos, también poseemos inevitablemente los *efectos* de nuestras acciones, ya sean buenas o malas. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+Como nosotros poseemos nuestros cuerpos, también poseemos inevitablemente los *efectos* de nuestras acciones, ya sean buenas o malas. Si poseemos los efectos de nuestras acciones, entonces claramente poseemos lo que producimos, así produzcamos un arco, o un libro - o un asesinato.
 
-### Property And UPB
+### Propiedad y UPB
 
-Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
+Aún si rechacemos lo anterior, podemos todavía usar UPB para afirmar definitivamente la existencia de los derechos de propiedad universal.
 
 As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
 
