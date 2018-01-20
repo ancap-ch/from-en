@@ -48,7 +48,7 @@ Ahora, si yo me presentara en su casa esta noche, vestido como un “sumo elfo d
 
 Si yo no le pago al hombre que viene a buscar mi dinero, él está autorizado a sacar un sacar su arma, apuntarla a mi pecho y secuestrarme - o dispararme si me resisto. Puede encerrarme en una celda durante años, en los cuales seré sujeto de la brutalidad más violenta y de vejaciones constantes hasta que decida dejarme ir.
 
-Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+Es interesante, que si alguien legítimamente me debe dinero, yo no tengo permitido secuestrarlo, vejarlo y torturarlo durante años. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
 
 Stealing, as we have proven, is evil.
 
