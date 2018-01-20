@@ -36,7 +36,7 @@ En realidad, voy a esperar hasta el fin de los tiempos para que “el gobierno�
 
 En realidad, cuando me dicen que debo pagarle mis impuestos al “gobierno”, en realidad significa que debo hacer un cheque, depositarlo en cierta cuenta bancaria, que luego será cobrado por ciertos individuos. Estos individuos entonces tienen el derecho de adueñarse de ese dinero y de usarlo como les parezca mejor - esos individuos por ende, tienen total control sobre mi dinero.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+De todas maneras, en ningún momento, ninguna entidad llamada “el gobierno” mueve un dedo, abre una cuenta bancaria o hasta siquiera un centavo. Imaginar que un concepto llamado “el gobierno” tiene la capacidad de tomar o gastar su dinero es exactamente lo mismo que esperar que “Dios” vaya a su casa a buscarlo para llevarlo a la iglesia.
 
 Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
 
