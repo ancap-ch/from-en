@@ -46,11 +46,11 @@ Assim, quando falo sobre preferências universais, estou a falar sobre o que as 
 
 Da mesma forma, se um indivíduo quer curar uma infecção, *deve* tomar antibióticos em vez de executar a dança da chuva, asteca. A preferência por tomar antibióticos em vez de fazer uma dança da chuva é universal, já que a dança não pode curar infecções. Assim, embora exista algum louco que se tente curar através da dança, ainda é *universalmente preferível* que, se uma pessoa se quer curar, tome antibióticos.
 
-Por outras palavras, se você quiser chegar ao topo de uma montanha, desejando que isso nunca funcione. Se quer conhecer as origens do universo, a oração nunca será uma resposta. As pessoas ainda desejam e rezam, mas isso não faz os desejos e as orações mais eficazes. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+Por outras palavras, se você quiser chegar ao topo de uma montanha, apenas com desejá-lo, isso nunca funcionará. Se quer conhecer as origens do universo, a oração nunca será uma resposta. As pessoas ainda desejam e rezam, mas isso não faz os desejos e as orações mais eficazes. Com isso em mente, passemos à questão de saber se as preferências universais podem ser válidas ou não.
 
-### Arguments And Universality
+### Argumentos E Universalidade
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+Se opto por debater, aceito implicitamente uma ampla variedade de axiomas nos que vale a pena gastar algum tempo aqui para os desfazer.
 
 #### Premise 1: We Both Exist
 
