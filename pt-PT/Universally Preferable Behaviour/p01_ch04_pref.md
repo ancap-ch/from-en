@@ -32,15 +32,15 @@ Dado que é impossível agir sem expressar uma preferência - de forma implícit
 
 ### Preferências e universalidade
 
-Então forma-se a seguinte questão: as preferências são puramente subjetivas ou podem ser universais?
+Então forma-se a seguinte questão: as preferências são puramente subjectivas ou podem ser universais?
 
 Evidentemente, algumas preferências são subjetivas. Os gostos musicais, passatempos pessoais, literatura favorita e assim por diante, são todas preferências subjetivas e pessoais.
 
 O desafio surge quando tentamos definir algumas preferências como *objectivas*.
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+A proposição que nos precede é esta:*podem algumas preferências, ser objectivas, isto é, universais?*
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+Quando digo que algumas preferências podem ser objectivas, não quero dizer que todas as pessoas sigam essas preferências em todos os momentos. Se eu soubesse que a *respiração* é uma preferência objectiva, poderia ser atacado, facilmente, pelo exemplo daqueles que cometem suicídio por enforcamento. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
 
 Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
 
