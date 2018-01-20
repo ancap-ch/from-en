@@ -26,13 +26,13 @@ Así, el propio acto de controlar mi cuerpo para producir un discurso exige la a
 
 Ahora, si la posesión demoníaca fuese una ocurrencia válida, y una chica poseída por un demonio escupiese sobre un sacerdote, no llamaríamos a la *chica* grosera, mas bien, nos daría lástima debido a que un demonio mal educado se residió en ella. Cualquiera que tuviese el control sobre el cuerpo de la niña es culpable por los efectos de sus acciones - por esto es que no llamaríamos "malvado" a un hombre que robó mientras caminaba dormido, debido a que éste no tenía control completo sobre su propio cuerpo (aunque podríamos arrestarlo de otras maneras). Ésta también es la base de la defensa legal de "no culpable debido a locura", donde asumimos que un hombre que está loco no tiene control completo sobre sus acciones.
 
-Así, rechazar la propiedad sobre el cuerpo es rechazar toda moralidad, que, como hemos visto anteriormente, es absolutamente imposible. Logically, since morality is defined as an enforceable subset of UPB, to reject morality is to say that it is universally preferable to believe that there is no such thing as universal preferences.
+Así, rechazar la propiedad sobre el cuerpo es rechazar toda moralidad, que, como hemos visto anteriormente, es absolutamente imposible. Lógicamente, como la moralidad está definida como un subconjunto obligatorio de UPB, rechazar la moralidad es lo mismo que decir que es universalmente preferible creer que no existe tal cosa como preferencias universales.
 
-Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
+Finalmente, utilizar la posesión del cuerpo de uno en la forma de discurso para rechazar la noción de que uno puede controlar su propio cuerpo, es una auto contradicción descarada.
 
-It is in this way that any rejection of self-ownership can be utterly discarded.
+Es de esta forma que cualquier rechazo de auto propiedad puede ser absolutamente descartado.
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+Como nosotros poseemos nuestros cuerpos, también poseemos inevitablemente los *efectos* de nuestras acciones, ya sean buenas o malas. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
 
 ### Property And UPB
 
