@@ -42,11 +42,11 @@ Por ende, la interacción real es cuando una persona me envía una carta dicién
 
 Si no le lado a esa persona, entonces mandará a otra persona a mi casa a buscar el dinero - más “intereses” y “gastos”
 
-Normalmente, si un hombre portando un arma, viene a mi casa y me obliga a darle dinero, tengo el derecho de usar la fuerza y defenderme. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Normalmente, si un hombre portando un arma, viene a mi casa y me obliga a darle dinero, tengo el derecho de usar la fuerza y defenderme. En este caso, en realidad, como el hombre se presenta diciendo que representa a una entidad ficticia, no se me permite usar la fuerza y defenderme.
 
-Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
+Ahora, si yo me presentara en su casa esta noche, vestido como un “sumo elfo de Narnia” y le reclamara el dinero que usted le debe a la “Reina de los Pesares”, asumiendo que no es Noche de Brujas, usted estará en su derecho de mirarme asombrado y echarme de su propiedad.
 
-If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
+Si yo no le pago al hombre que viene a buscar mi dinero, él está autorizado a sacar un sacar su arma, apuntarla a mi pecho y secuestrarme - o dispararme si me resisto. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
 
 Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
 
