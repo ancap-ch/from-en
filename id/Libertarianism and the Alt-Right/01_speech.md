@@ -358,7 +358,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                             
                             <fn name="16">
                               <p>
-                                Many youngsters have been initially attracted to libertarianism believing that this “live and let live” is the essence of libertarianism.
+                                Banyak anak muda pada awalnya tertarik pada liberalisme dan mempercayai bahwa "hidup" dan membiarkan hidup adalah inti dari liberalisme.
                               </p>
                             </fn>
                             
