@@ -16,7 +16,7 @@ Como individuos, nuestro orgullo se rebelaría instintivamente ante un repentina
 
 Nuestro deseo de ser buenos - combinado con la sensación de virtud que nos genera el obedecer a las mitologías morales - nos deja haciendo fila para ceder voluntariamente nuestros recursos a aquellos que dicen representar a esas mitologías.
 
-One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+Una razón primordial que sabemos, es que los gobernantes y los dioses son innecesarios, es que son muy efectivos. *Sabemos que la mayoría de la gente quiere desesperadamente ser bueno porque son controlados fácilmente a través de teorías morales*.
 
 The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
