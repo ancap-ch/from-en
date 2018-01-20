@@ -16,7 +16,7 @@ Se eu disser "eu gosto de sorvete", apenas uma palavra permanece ambígua nessa 
 
 As preferências não existem objectivamente dentro da realidade. Se você fosse obsessivamente curioso, talvez me pudesse acompanhar e gravar cada vez que eu comia sorvete, o que provavelmente forneceria uma boa base empírica para estabelecer a minha preferência por ele. Contudo, poderia existir a possibilidade de que eu fosse de facto um masoquista, e não gostasse mesmo nada, de sorvete e preferisse me torturar com o seu sabor desagradável - e depois confundi-lo, alegando gostar disso.
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+Podemos encontrar *evidências* para preferências; não podemos encontrar, realmente *a própria* preferência. A preferência existe como uma *relação* entre a consciência e a matéria, assim como a gravidade existe como uma relação entre corpos de matéria.
 
 Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
 
