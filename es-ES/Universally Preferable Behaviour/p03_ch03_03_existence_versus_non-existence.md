@@ -28,11 +28,11 @@ Tomemos como ejemplo a un peligro muy presente y real: los impuestos.
 
 #### Impuestos
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Se me ha dicho, que por haber elegido vivir en Canadá, le debo al “”gobierno” más del cincuenta por ciento de mis ingresos.
 
-Stripped of mythology, what does this really translate to?
+Eliminando la mitología, en qué se traduce eso en realidad?
 
-In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+En realidad, voy a esperar hasta el fin de los tiempos para que “el gobierno” venga a buscar su dinero. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
 
 In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
 
