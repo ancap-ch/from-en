@@ -4,9 +4,9 @@ La idea de que nacer crea un contrato con una agencia ficticia, lo que en térmi
 
 Cada vez que un sacerdote dice “Obedece a Dios”, lo que en realidad está diciendo es: “Obedéceme*a mí*.” Al no existir Dios, cualquier mandamiento que el sacerdote diga que viene de parte de Dios, en realidad viene de su parte. “Dios” es meramente una entidad ficticia utilizada para atemorizarlo conceptualmente a fin de conseguir que sea un subordinado en el mundo real, con respecto a individuos reales, para que voluntariamente ceda su dinero, tiempo y recursos.
 
-Es mucho más eficiente para los exploradores que sus esclavos consideren que la esclavitud es una virtud, ya que eso disminuye sustancialmente el costo de de mantenerlos bajo control. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+Es mucho más eficiente para los exploradores que sus esclavos consideren que la esclavitud es una virtud, ya que eso disminuye sustancialmente el costo de de mantenerlos bajo control. Si yo puedo convencerlo de que evitar servirme es algo malo y ser mi esclavo es algo virtuoso, entonces no necesitaré contratar tantos matones para que lo intimiden, lo controlen y le roben.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+Las mitologías religiosas y estatales, entonces, son conceptos ficticios que reducen de manera significativa el costo de controlar a la población; son lo que alimentan y mantienen aceitados los engranajes de la espantosa maquinaria que es la violencia institucionalizada.
 
 Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
 
