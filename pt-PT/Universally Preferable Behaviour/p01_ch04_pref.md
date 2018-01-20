@@ -72,11 +72,11 @@ Você não me diz: "deve mudar a sua opinião para a minha porque eu o preferiri
 
 #### Premissa 5: Uma Metodologia Objectiva Existe Para Separar A Verdade Da Falsidade
 
-Se você não concorda comigo, mas eu digo que deve concordar, porque sempre estou certo, é improvável que esteja satisfeito com o rigor do meu argumento. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Se você não concorda comigo, mas eu digo que deve concordar, porque sempre estou certo, é improvável que esteja satisfeito com o rigor do meu argumento. Se me deu boas razões para o porquê eu estava errado, mas eu continuava a repetir que estava certo, porque estou *sempre* certo, a nossa interacção, dificilmente, poderia ser definida como um debate.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+No momento em que ofereço algum tipo de critério objectivo para determinar a verdade a partir da falsidade, estou a aceitar que a verdade é mais do que uma questão de opinião.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+Isso não significa, necessariamente, que os meus critérios objectivos são *lógicos* - Eu poderia estar a encaminhá-lo para um texto religioso, por exemplo. No entanto, mesmo que eu faça isso, ainda estou a aceitar que a verdade é algo a que se chega independentemente da simples afirmação pessoal - que existe uma metodologia objectiva para separar a verdade da falsidade.
 
 #### Premise 6: Truth Is Better Than Falsehood
 
