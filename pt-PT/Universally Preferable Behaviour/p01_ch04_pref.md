@@ -44,9 +44,9 @@ Quando digo que algumas preferências podem ser objectivas, não quero dizer que
 
 Assim, quando falo sobre preferências universais, estou a falar sobre o que as pessoas *devem* preferir e não sobre o que elas sempre *preferem*. Para usar uma analogia científica, para entender verdadeiramente o universo, as pessoas *deveriam* usar o método científico - isso não significa que sempre o fazem, uma vez que é evidente que biliões de pessoas consultam contos de fadas antigos em vez de ciência moderna para encontrar "Respostas". Não há maneira de alcançar a verdade sobre o universo sem a ciência, mas as pessoas são perfeitamente livres para redefinir a "verdade" como "erro" e se contentarem com um misticismo insensato.
 
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+Da mesma forma, se um indivíduo quer curar uma infecção, *deve* tomar antibióticos em vez de executar a dança da chuva, asteca. A preferência por tomar antibióticos em vez de fazer uma dança da chuva é universal, já que a dança não pode curar infecções. Assim, embora exista algum louco que se tente curar através da dança, ainda é *universalmente preferível* que, se uma pessoa se quer curar, tome antibióticos.
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+Por outras palavras, se você quiser chegar ao topo de uma montanha, desejando que isso nunca funcione. Se quer conhecer as origens do universo, a oração nunca será uma resposta. As pessoas ainda desejam e rezam, mas isso não faz os desejos e as orações mais eficazes. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
 
 ### Arguments And Universality
 
