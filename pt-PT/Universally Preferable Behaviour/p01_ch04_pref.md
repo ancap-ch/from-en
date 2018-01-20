@@ -60,9 +60,9 @@ Se opto por debater com você, necessariamente devo admitir que ambos existimos.
 
 Como os seres humanos não se podem comunicar psiquicamente, todos os debates envolvem, necessariamente, a evidência dos sentidos. A escrita pressupõe a visão; falar requer a audição; Braille requer o tacto. Assim, qualquer proposição que dependa da invalidez dos sentidos auto-destrói-se automaticamente.
 
-#### Premise 3: Language Has The Capacity For Meaning
+#### Premissa 3: o idioma tem a capacidade de significado
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+Semelhante à Premissa Dois, dado que todos os argumentos exigem linguagem, qualquer proposição que se baseie na premissa de que a linguagem não tem sentido é imediatamente refutada. Usar o idioma para argumentar que o mesmo não tem significado é como usar um serviço de correio para enviar uma mensagem, argumentando que os correios nunca entregam as mensagens.
 
 #### Premise 4: Correction Requires Universal Preferences
 
