@@ -58,7 +58,7 @@ Se opto por debater com você, necessariamente devo admitir que ambos existimos.
 
 #### Premissa 2: os sentidos têm a capacidade de precisão
 
-Como os seres humanos não se podem comunicar psiquicamente, todos os debates envolvem, necessariamente, a evidência dos sentidos. A escrita pressupõe a visão; falar requer a audição; Braille requer o tacto. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Como os seres humanos não se podem comunicar psiquicamente, todos os debates envolvem, necessariamente, a evidência dos sentidos. A escrita pressupõe a visão; falar requer a audição; Braille requer o tacto. Assim, qualquer proposição que dependa da invalidez dos sentidos auto-destrói-se automaticamente.
 
 #### Premise 3: Language Has The Capacity For Meaning
 
