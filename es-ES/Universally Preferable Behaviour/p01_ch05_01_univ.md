@@ -24,19 +24,19 @@ Avancemos a una serie de pruebas positivas de CUP.
 
 Uno de los desafíos centrales que enfrentan los filósofos modernos es la necesidad de probar que las reglas morales son tanto posibles como universales. Hasta la que las reglas morales puedan ser sujetas al mismo rigor y lógica que cualquier otra proposición, estaremos por siempre frenados por el subjetivismo, los prejuicios políticos y el pragmático "argumento desde el efecto."
 
-La analogía histórica más cercana a nuestra situación actual ocurrió en los siglos XV y XVI, durante el auge del método científico. Los primeros pioneros que abogaron por un acercamiento racional y empírico al conocimiento enfrentaron los mismos prejuicios que nosotros enfrentamos hoy – todas las mismas irracionalidades, los poderes atrincherados de la iglesia y el estado, los "absolutos" místicos y subjetivos y las barreras de la educación temprana. Aquellos que abogaron por la primacía de la racionalidad y la observación empírica sobre el fundamentalismo bíblico y las tiranías seculares enfrentaron la determinada oposición de aquellos portadores tanto de la cruz como de la espada. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
+La analogía histórica más cercana a nuestra situación actual ocurrió en los siglos XV y XVI, durante el auge del método científico. Los primeros pioneros que abogaron por un acercamiento racional y empírico al conocimiento enfrentaron los mismos prejuicios que nosotros enfrentamos hoy – todas las mismas irracionalidades, los poderes atrincherados de la iglesia y el estado, los "absolutos" místicos y subjetivos y las barreras de la educación temprana. Aquellos que abogaron por la primacía de la racionalidad y la observación empírica sobre el fundamentalismo bíblico y las tiranías seculares enfrentaron la determinada oposición de aquellos portadores tanto de la cruz como de la espada. Muchos fueron torturados hasta la muerte por su honestidad intelectual – nos enfrentamos a un riesgo mucho menor, y así debemos ser mucho más valientes en alegar qué es *cierto* sobre lo que es *creído*.
 
-In order to attack false moralities, we must start from the beginning, just as the first scientists did. Francis Bacon did not argue that the scientific method was more “efficient” than prayer, Bible texts or starvation-induced visions. He simply said that if we want to understand nature, we must observe nature and theorise logically – and that there is *no other* route to knowledge.
+Para atacar las falsas moralidades, debemos empezar desde el inicio, tal como lo hizo el primer científico. Francis Bacon no argumentó que el método científico era más "eficiente" que orar, los textos bíblicos o las visiones inducidas por la inanición. Él simplemente dijo que si queríamos entender la naturaleza, debemos observar la naturaleza y teorizar lógicamente – y que *no hay otra* ruta al conocimiento.
 
-We must take the same approach in defining and communicating *morality*. We must begin using the power and legitimacy of the scientific method to prove the validity and universality of moral laws. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
+Debemos tomar el mismo acercamiento al definir y comunicar la *moralidad*. Debemos empezar usando el poder y legitimidad del método científico para probar la validez y universalidad de las leyes morales. Debemos empezar desde el inicio, construyendo lógicamente y rechazando *cualquier* substituto irracional o no empírico de la verdad.
 
-What does this look like in practice? All we have to do is establish the following axioms:
+¿Cómo se ve esto en la práctica? Todo lo que tenemos que hacer es establecer los siguientes axiomas:
 
-- Morality is a valid concept.
-- Moral rules must be consistent for all mankind.
-- The validity of a moral theory is judged by its consistency.
+- La moralidad es un concepto válido.
+- Las reglas morales deben ser consistentes para toda la humanidad.
+- La validez de una teoría moral es juzgada por su consistencia.
 
-To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
+Para empezar desde el inicio mismo... ¿son las reglas morales – o comportamientos humanos universalmente preferibles – válidos en lo absoluto?
 
 There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
 
