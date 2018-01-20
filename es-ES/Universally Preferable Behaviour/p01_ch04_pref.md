@@ -74,15 +74,15 @@ No me dices: "Deberías cambiar tu opinión a la mía porque yo lo prefiero," si
 
 Si no estás de acuerdo conmigo, pero te digo que debes estar de acuerdo conmigo porque siempre tengo la razón, es poco probable que estés satisfecho por el rigor de mi argumento. Si proporcionases buenas razones de por qué estoy equivocado, pero yo simplemente continuase repitiendo que tengo razón porque yo *siempre* tengo razón, nuestra interacción difícilmente podría ser clasificada como un debate.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+El momento en que proporciono alguna clase de criterio objetivo para determinar la verdad de la falsedad, estoy aceptando que la verdad es más que un asunto de opinión.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+Esto no necesariamente significa que mi criterio objetivo sea *lógico* – yo podría referirte un texto religioso, por ejemplo. Sin embargo, incluso si lo hago, todavía estoy aceptando que la verdad es algo que llega independiente a una mera afirmación personal – que una metodología objetiva existe para separar la verdad de la falsedad.
 
-#### Premise 6: Truth Is Better Than Falsehood
+#### Premisa 6: La Verdad Es Mejor Que La Falsedad
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+Si te dijese que el mundo es plano, y tu respondieras que el mundo no es plano, sino redondo, entonces estás aceptando implícitamente el axioma de que tanto la verdad como la falsedad existen objetivamente, y que la verdad es mejor que la falsedad.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Si te digo que me gusta el helado de chocolate, y tú me dices que te gusta el de vainilla, es imposible "probar" que la vainilla es objetivamente mejor que el chocolate. El momento en que me corriges con referencia a *hechos* objetivos, estás aceptando que los hechos objetivos existen, y que la verdad objetiva es *universalmente preferible* al error subjetivo.
 
 #### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
 
