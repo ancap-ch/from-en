@@ -18,9 +18,9 @@ También, argumentar que un hombre no es responsable por los efectos de su cuerp
 
 Si no soy del todo responsable de mi discurso, entonces no hay punto en discutir conmigo. Una cinta de grabación tampoco es responsable de su discurso, que es por qué nosotros no solemos involucrarnos en desacuerdos virulentos con bandas magnéticas. En las típicas películas de terror, chicas jóvenes suelen ser particularmente susceptibles a la posesión demoníaca - aparece el inevitable sacerdote que siempre ofrece hablar con el demonio encargado de la niña, al punto en que la chica comienza a hacer un sonido como Don Ho haciendo gárgaras con bolas rodando.
 
-This ridiculous portrait is accurate in one sense though – if some other being is in full control of the girl’s vocal chords, it is that being which needs to be addressed, not the girl, who has no control over her responses.
+Aunque, este ridículo retrato es cierto en un aspecto - si otro ser tiene el control completo sobre las cuerdas vocales de una niña, es a ese ser a quien se debe dirigir, no a la niña, quien no tiene control sobre sus respuestas.
 
-Thus if I say to you that I do not have control over my speech, you can ask me: who does? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
+Así, si yo te digo que no tengo control sobre mi discurso, puedes preguntarme: ¿quién lo tiene? Si yo te respondo que nadie lo tiene, entonces discutir conmigo tiene tanto sentido como discutir con una televisión, o la roca antes mencionada que va rodando bajo una colina hacia tu carro.
 
 Thus the very act of controlling my body to produce speech demands the acceptance of my ability to control my speech – an implicit affirmation of my ownership over my own body.
 
