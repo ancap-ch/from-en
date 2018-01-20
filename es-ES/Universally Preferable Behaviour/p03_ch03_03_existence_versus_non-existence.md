@@ -8,13 +8,13 @@ Es mucho más eficiente para los exploradores que sus esclavos consideren que la
 
 Las mitologías religiosas y estatales, entonces, son conceptos ficticios que reducen de manera significativa el costo de controlar a la población; son lo que alimentan y mantienen aceitados los engranajes de la espantosa maquinaria que es la violencia institucionalizada.
 
-Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Alrededor del mundo, los gobernantes son un porcentaje muy pequeño de la población. Cómo puede ser posible para el uno dos por ciento de las personas lograr controlar a todos los demás? Hay un cierto monopolio de los armamentos, eso es seguro, pero ese monopolio es relativamente fácil de demostrar, ya que la mayoría de los gobernantes ganan fortunas vendiendo armar en todo el mundo.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+La triste realidad es que la gente, como un todo, es esclavizada por entidades ficticias como naciones, dioses, culturas- y gobiernos.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+Como individuos, nuestro orgullo se rebelaría instintivamente ante un repentina y obligada esclavitud ejecutada por otro individuo contra nuestra persona - pero, pareciera que nos regocijamos en ser esclavos de la *mitología*.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+Nuestro deseo de ser buenos - combinado con la sensación de virtud que nos genera el obedecer a las mitologías morales - nos deja haciendo fila para ceder voluntariamente nuestros recursos a aquellos que dicen representar a esas mitologías.
 
 One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
 
