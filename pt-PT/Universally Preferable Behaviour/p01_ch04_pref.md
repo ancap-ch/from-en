@@ -32,11 +32,11 @@ Dado que é impossível agir sem expressar uma preferência - de forma implícit
 
 ### Preferências e universalidade
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+Então forma-se a seguinte questão: as preferências são puramente subjetivas ou podem ser universais?
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+Evidentemente, algumas preferências são subjetivas. Os gostos musicais, passatempos pessoais, literatura favorita e assim por diante, são todas preferências subjetivas e pessoais.
 
-The challenge arises when we try to define some preferences as *objective*.
+O desafio surge quando tentamos definir algumas preferências como *objectivas*.
 
 The proposition before us is thus: *can some preferences be objective, i.e. universal?*
 
