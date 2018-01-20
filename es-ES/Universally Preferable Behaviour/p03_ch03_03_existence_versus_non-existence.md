@@ -38,7 +38,7 @@ En realidad, cuando me dicen que debo pagarle mis impuestos al “gobierno”, e
 
 De todas maneras, en ningún momento, ninguna entidad llamada “el gobierno” mueve un dedo, abre una cuenta bancaria o hasta siquiera un centavo. Imaginar que un concepto llamado “el gobierno” tiene la capacidad de tomar o gastar su dinero es exactamente lo mismo que esperar que “Dios” vaya a su casa a buscarlo para llevarlo a la iglesia.
 
-Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+Por ende, la interacción real es cuando una persona me envía una carta diciéndome que le debo dinero. Yo no tengo ningún contrato con esa persona, y esa persona de hecho no es dueño de ninguna de mis propiedades, aunque otras personas escribieron un supuesto “contrato” el cual dice lo contrario.
 
 If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
 
