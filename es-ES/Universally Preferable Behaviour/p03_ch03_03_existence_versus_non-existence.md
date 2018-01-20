@@ -2,9 +2,9 @@
 
 La idea de que nacer crea un contrato con una agencia ficticia, lo que en términos prácticos lo convierte a uno en casi un esclavo para algunos individuos, es un algo que tienen en común la religión y el Estado - y otra, una agencia mucho más personal, de la cual hablo en mi primer libro “Sobre la verdad: La tiranía de la Ilusión.”
 
-Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Cada vez que un sacerdote dice “Obedece a Dios”, lo que en realidad está diciendo es: “Obedéceme*a mí*.” Al no existir Dios, cualquier mandamiento que el sacerdote diga que viene de parte de Dios, en realidad viene de su parte. “Dios” es meramente una entidad ficticia utilizada para atemorizarlo conceptualmente a fin de conseguir que sea un subordinado en el mundo real, con respecto a individuos reales, para que voluntariamente ceda su dinero, tiempo y recursos.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+Es mucho más eficiente para los exploradores que sus esclavos consideren que la esclavitud es una virtud, ya que eso disminuye sustancialmente el costo de de mantenerlos bajo control. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
 
 Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
 
