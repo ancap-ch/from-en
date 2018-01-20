@@ -376,13 +376,10 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                             
                             <fn name="20">
                               <p>
-                                Brief message to all open-border and liberallala libertarians, who will surely label this, you guessed it, “fascist”: In a fully privatized libertarian order there exists no such thing as a right to free immigration. Private property implies borders and the owner’s right to exclude at will. And “public property” has borders as well. It is not unowned. It is the property of domestic tax-payers and most definitely not the property of foreigners. And while it is true that the State is a criminal organization and that to entrust it with the task of border control will inevitably result in numerous injustices to both domestic residents and foreigners, it is also true that the State <em>does something</em> also when it decides <em>not</em> to do anything about border control and that, under the present circumstances, doing nothing at all in this regard will lead to even more and much graver injustices, in particular to the domestic citizenry.
-                              </p>
-                            </fn>
-                            
-                            <fn name="21">
-                              <p>
-                                Query for liberallala-libertarians and the Stupids for Liberty, who are sure to object to this demand on the ground that the police asked to crush the “anti-fascist” mob are <em>State-_police: Do you also object, on the same grounds, that the police arrest murderers or rapists? Aren’t these legitimate tasks performed also in any libertarian order by _private</em> police? And if the police are not to do anything about this mob, isn’t it o.k. then that the target of its attacks, the “racist Right,” should take the task upon itself of giving the “social justice warriors” a bloody nose?
-                              </p>
-                            </fn>
-                          </footnotes>
+                                Brief message to all open-border and liberallala libertarians, who will surely label this, you guessed it, “fascist”: In a fully privatized libertarian order there exists no such thing as a right to free immigration. Private property implies borders and the owner’s right to exclude at will. And “public property” has borders as well. It is not unowned. It is the property of domestic tax-payers and most definitely not the property of foreigners. Dan sementara memang benar bahwa negara adalah organisasi kriminal dan untuk mempercayakannya dengan tugas kontrol perbatasan pasti akan mengakibatkan banyak ketidakadilan bagi penduduk domestik dan orang asing, memang benar bahwa negara melakukan sesuatu terhadap kejadian</em>juga ketika memutuskan<em>tidak</ 0>untuk melakukan sesuatu tentang kontrol perbatasan dan bahwa, dalam keadaan sekarang, tidak melakukan apa-apa dalam hal ini akan menyebabkan ketidakadilan yang lebih banyak, khususnya di dalam negeri terhadap rakyatnya</p> </fn>
+                                
+                                <fn name="21">
+                                  <p>
+                                    Query for liberallala-libertarians and the Stupids for Liberty, who are sure to object to this demand on the ground that the police asked to crush the “anti-fascist” mob are <em>State-_police: Do you also object, on the same grounds, that the police arrest murderers or rapists? Aren’t these legitimate tasks performed also in any libertarian order by _private</em> police? And if the police are not to do anything about this mob, isn’t it o.k. then that the target of its attacks, the “racist Right,” should take the task upon itself of giving the “social justice warriors” a bloody nose?
+                                  </p>
+                                </fn></footnotes>
