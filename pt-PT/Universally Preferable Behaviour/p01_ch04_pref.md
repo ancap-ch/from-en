@@ -52,13 +52,13 @@ Por outras palavras, se você quiser chegar ao topo de uma montanha, apenas com 
 
 Se opto por debater, aceito implicitamente uma ampla variedade de axiomas nos que vale a pena gastar algum tempo aqui para os desfazer.
 
-#### Premise 1: We Both Exist
+#### Premissa 1: nós dois existimos
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+Se opto por debater com você, necessariamente devo admitir que ambos existimos. Se acredito que eu existo, mas que você não, então debater não faz sentido, e seria a acção de um louco. Se eu começasse a discutir com o meu reflexo num espelho, deveria ser sedado, não debatido.
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+#### Premissa 2: os sentidos têm a capacidade de precisão
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Como os seres humanos não se podem comunicar psiquicamente, todos os debates envolvem, necessariamente, a evidência dos sentidos. A escrita pressupõe a visão; falar requer a audição; Braille requer o tacto. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
 
 #### Premise 3: Language Has The Capacity For Meaning
 
