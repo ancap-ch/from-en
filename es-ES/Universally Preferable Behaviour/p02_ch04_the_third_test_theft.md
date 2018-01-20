@@ -2,11 +2,11 @@
 
 Tendremos que estar un poco mas de tiempo en robos, desde que éste inevitablemente trae al tema la cuestión acerca de derechos de propiedad, el cual es altamente contencioso para algunos.
 
-There are many ways of approaching the question of property rights, from “homesteading” to legal definitions to practical considerations etc. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+Hay muchas maneras de acercarse a la pregunta sobre los derechos de propiedad, desde la granja o propiedad familiar hasta definiciones legales, consideraciones prácticas, etc. No voy a mencionar ninguno de esos, porque la cuestión de los derechos de propiedad debe caer en un marco de Upb, donde Upb hace referencia a una metodología racional para evaluar proposiciones morales.
 
-Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
+Claramente, la proposición moral con respecto a los derechos de propiedad es la siguiente: o los seres humanos tienen el derecho de poseer propiedades o no.
 
-Now the first “property” that must be dealt with is the body. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+Ahora, la primera "propiedad" que se debe acotar es la del cuerpo. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
 
 UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
 
