@@ -8,7 +8,7 @@ Es imposible demostrar que soñé un elefante anoche. Es posible demostrar que h
 
 Consentir a la lógica superior en una discusión es una *acción*. Si, cada vez que te concedo un punto, yo no digo nada, sino que solo me quedo viéndote de manera vacía, encontrarás bastante irritante debatir conmigo. Para conceder un punto, debo realizar la acción de concesión verbal.
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+De tal forma puede ser visto que, inherente al mismo acto de discutir hay un número de premisas incrustadas que no puede ser sobrepuestas.
 
 If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
 
