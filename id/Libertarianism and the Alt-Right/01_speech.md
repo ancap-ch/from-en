@@ -222,7 +222,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                           </h4>
                           
                           <p>
-                            Semua tindakan tersebut merupakan pelanggaran terang-terangan terhadap prinsip persamaan di depan hukum yang, setidaknya di Barat, secara intuitif dirasakan dan diakui sebagai prinsip dasar keadilan. As private property owners, people must be free to associate or disassociate with others: to include or exclude, to integrate or segregate, to join or separate, to unify and incorporate or to disunite, exit and secede. Close all university departments for Black-, Latino-, Women-, Gender-, Queer-Studies, etc., etc., as incompatible with science and dismiss its faculties as intellectual imposters or scoundrels. As well, demand that all affirmative action commissars, diversity and human resources officers, from universities on down to schools and kindergartens, be thrown out onto the street and be forced to learn some useful trade.
+                            Semua tindakan tersebut merupakan pelanggaran terang-terangan terhadap prinsip persamaan di depan hukum yang, setidaknya di Barat, secara intuitif dirasakan dan diakui sebagai prinsip dasar keadilan. Sebagai pemilik properti pribadi, orang harus bebas menjalin atau melepaskan diri dengan orang lain: untuk memasukkan atau mengecualikan, untuk mengintegrasikan atau memisahkan, untuk bergabung atau memisahkan, untuk menyatukan dan menggabungkan atau melepaskan, keluar dan melepaskan diri. Close all university departments for Black-, Latino-, Women-, Gender-, Queer-Studies, etc., etc., as incompatible with science and dismiss its faculties as intellectual imposters or scoundrels. Selain itu, menuntut agar semua tindakan afirmatif komisaris, keragaman, dan petugas sumber daya dari universitas sampai ke sekolah dan taman kanak-kanak, dilempar ke jalan dan dipaksa untuk belajar perdagangan yang bermanfaat.
                           </p>
                           
                           <h4>
@@ -258,7 +258,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                           </p>
                           
                           <h4>
-                            Don’t put your trust in politics or political parties
+                            Jangan percaya pada politik atau partai-partai politik
                           </h4>
                           
                           <p>
