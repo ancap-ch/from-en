@@ -84,13 +84,13 @@ Si te dijese que el mundo es plano, y tu respondieras que el mundo no es plano, 
 
 Si te digo que me gusta el helado de chocolate, y tú me dices que te gusta el de vainilla, es imposible "probar" que la vainilla es objetivamente mejor que el chocolate. El momento en que me corriges con referencia a *hechos* objetivos, estás aceptando que los hechos objetivos existen, y que la verdad objetiva es *universalmente preferible* al error subjetivo.
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### Premisa 7: Debatir Pacíficamente Es La Mejor Manera De Resolver Disputas
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+Si te digo que el mundo es plano, y tu sacas una pistola y me disparas, esto difícilmente sería un ejemplo de un debate productivo. Cierto, nuestro desacuerdo puede estar "resuelto" – pero es porque sólo uno de nosotros seguía en pie al final.
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Si me dices por adelantado que lidearías con un desacuerdo disparándome, yo no estaría dispuesto a iniciar un debate contigo. Así es claro que cualquier debate se basa en la premisa implícita de que la evidencia, la razón, la verdad y la objetividad son métodos*universalmente preferibles* para resolver disputas entre individuos. Sería completamente ilógico argumentar que las diferencias de opinión deberían ser resueltas a través del uso de la violencia – el único argumento consistente para el *valor* de la violencia es el uso de la violencia.[^4]
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+En esencia, entonces debatir requiere una metodología objetiva, a través del lenguaje significativo, en la búsqueda de la verdad universal, la cual es objetivamente preferible al error personal.
 
 This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
 
