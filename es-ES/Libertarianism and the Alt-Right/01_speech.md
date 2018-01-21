@@ -51,13 +51,13 @@ Y más aún como la orden libertaria siempre debe estar en guardia contra los "m
 
 Con estos "derechistas" o, como yo diría, simples ideas de conocimiento comun en mente, ahora me dirijo a la pregunta más desafiante sobre cómo pasar de aquí, el *status quo*, hacia alla. Y para esto podría ser instructivo considerar primero brevemente la respuesta dada por los liberallala, los paz-amor-y-libertad, el Friede-Freude-Eierkuchen o los libertarios capitalismo-es-amor. Esto revela el mismo igualitarismo fundamental, si bien en una forma ligeramente diferente, como el exhibido también por los libertarios del vive-y-deja-vivir. Estos, como he intentado mostrar, definen lo que podemos llamar "el problema del mal vecino"– y que es merecedor de una taquigrafía para el problema general poseído por la coexistencia de de culturas claramente diferentes, extrañas, mutuamente perturbadoras, molestas, extrañas u hostiles– simplemente fuera de existencia. Y de hecho, si tu asumes, contra toda evidencia empírica, que todas las personas, en todas partes, son esencialmente iguales, entonces, por definición, no hay tal cosa como "el problema del mal vecino".
 
-The same egalitarian, or as the liberallala-libertarians themselves prefer call it, “humanitarian” spirit also comes to bear in their answer to the question of a libertarian *strategy*. In a nutshell, their advice is this: be nice and talk to everyone – and then, in the long run, the better libertarian arguments will win out. To illustrate, take my former-friend-turned-foe Jeffrey Tucker’s five “Don’ts When Talking Liberty.” They are:
+El mismo igualitarismo, o los libertarios Liberallala mismos prefieren llamarlo, espíritu "humanitario" también viene a dar en su respuesta a la pregunta de la *estrategia* libertaria. En pocas palabras, su consejo es este: ser amable y hablar con todos - y entonces, en el largo plazo, los mejores argumentos libertarios ganarán. Para ilustrarlo, tomemos los cinco de mi ex-amigo convertido en enemigo Jeffrey Tucker "Que no hacer cuando se habla de Libertad." Estas son:
 
-1. don’t be belligerent;
-2. don’t presume hatred of liberty; 
-3. don’t presume different goals;
-4. don’t presume ignorance;
-5. don’t regard anyone as an enemy.”
+1. no ser beligerante;
+2. no presumir el odio a la libertad; 
+3. no suponer objetivos diferentes;
+4. no presumir ignorancia;
+5. no considerar a nadie como un enemigo."
 
 Now, quite apart from the fact that Tucker does not seem to follow his own advice in his belligerent condemnation of the entire Alt-Right as liberty-hating fascists, I find his exhortations truly astounding. They may be good advice vis-à-vis people just sprung up from nowhere, without any traceable history whatsoever, but vis-à-vis real people with a recorded history they strike me as hopelessly naïve, unrealistic, and outright counterproductive in the pursuit of libertarian ends. For I (and I assume everyone else here) know of and have met many people in my life who *are* ignorant, who *do* have different, un-libertarian goals, and who *do* hate liberty as understood by libertarians – and why in the world should I *not* regard such people as fools or enemies? And why should I *not* hate and *not* be belligerent vis-a-vis my enemies?
 
