@@ -16,7 +16,7 @@ O método científico, a própria racionalidade e as leis matemáticas são exem
 
 Um desafio central para compreender a natureza da verdade é a percepção de que a "verdade" não existe no mundo, da mesma forma em que uma pedra ou uma árvore existem.
 
-O conceito de "verdade" é necessariamente um termo relativo - embora isso não signifique um termo subjectivo ou arbitrário. O conceito "saúde" também é um termo relativo - comparamos "saúde" com a doença, e também com os padrões relativos de saúde. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+O conceito de "verdade" é necessariamente um termo relativo - embora isso não signifique um termo subjectivo ou arbitrário. O conceito "saúde" também é um termo relativo - comparamos "saúde" com a doença, e também com os padrões relativos de saúde. O que é considerado "boa saúde" para uma pessoa de noventa anos, dificilmente seria considerado boa saúde para um jovem de vinte anos. A definição de uma vida longa é muito diferente agora do que era há quinze anos.
 
 This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
 
