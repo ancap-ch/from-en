@@ -46,7 +46,7 @@ Debemos preguntarnos primero entonces: ¿Existen las reglas morales en primer lu
 
 Ciertamente no en la realidad material, la cual no contiene u obedece ninguna regla moral. Las reglas morales son diferentes de las reglas de la física, tal como el método científico es diferente de la gravedad. La materia obedece de manera innata a la gravedad o a la segunda ley de la termodinámica, pero "no cometerás asesinatos" no está inscrito en ningún lugar en la naturaleza de las cosas. Las leyes físicas *describen* el comportamiento de la materia, pero no la contienen en una sola *prescripción*. La ciencia dice que la materia *sí* se comporta de cierta manera –no que se *debería* comportar de cierta manera. Una teoría de la gravedad demuestra que si empujas a un hombre de un risco, él caerá. No te dirá si *deberías* o no empujarlo.
 
-Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
+De modo que no puede decirse que las reglas morales existen en la realidad materia, ni que son automáticamente obedecidas como las leyes de la física – lo cual *no* significa que las leyes morales son falsas, subjetivas o irrelevantes. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
 
 If we can prove that moral theories can be objective, rational and verifiable, this will provide the same benefits to ethics that subjecting *physical* theories to the scientific method did.
 
