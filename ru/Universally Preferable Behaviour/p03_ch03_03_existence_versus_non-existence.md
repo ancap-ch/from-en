@@ -12,9 +12,9 @@
 
 Печальная реальность заключается в том, что люди в целом порабощены вымышленными сущностями, такими как нации, боги, культуры и правительства.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+Наша личная гордость инстинктивно восстает против непосредственного и насильственного рабства перед другим человеком. Однако мы, похоже, почти наслаждаемся рабством перед *мифологией *.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+Наше стремление быть хорошими, в сочетании с восторгом добродетели, который мы чувствуем, подчиняясь моральным мифологиям, приводит к тому, что мы становимся в очередь, чтобы с готовностью передать наши ресурсы тому, кто утверждает, что является представителем этих мифологий.
 
 One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
 
