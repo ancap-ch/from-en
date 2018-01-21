@@ -84,7 +84,7 @@ Aquí vemos los mismos inconvenientes que más arriba. Bob le dice a Doug: “De
 
 De la misma manera, si un hombre asegura que si su concepto llamado “el gobierno” justifica que robe mi propiedad, entonces yo puedo asegurar que mi concepto llamado “el anti-gobierno” justifica que yo *retenga* mi propiedad, y las justificaciones de ambos serán igualmente “válidas”.
 
-If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
+Si este cobrador de impuestos entonces asegura que su concepto llamado “el gobierno” solamente justifica que pueda robar *mi* propiedad no mi derecho a mantenerla, entonces no podremos avanzar. Él puede tomar mis mil dólares, pero yo entonces puedo invocar mi concepto de “robar” ese dinero de vuelta, y su teoría moral demandará que pasemos el resto de la eternidad pasándonos esos mil dólares de mano en mano.
 
 #### UPB And "The Majority"
 
