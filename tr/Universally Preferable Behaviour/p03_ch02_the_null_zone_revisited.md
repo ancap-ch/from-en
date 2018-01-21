@@ -16,7 +16,7 @@ Neden bu mükemmellik illüzyonu gök cisimleri için bir gereklilik olarak gör
 
 Ayrıca bu tahlili Tanrı'nın varlığı sorununa da dönüştürebiliriz.
 
-Tanrı'nın varlığı hakkında doğrudan empirik ya da rasyonel hiçbir kanıta sahip değiliz. En soyut bilimsel ölçümler de Tanrı'nın varlığı hakkında hiçbir kanıt sağlamıyor- bizim kendi deneyimlediğimiz Tanrı'nın olmayışı gerçeği ile en soyut bilimsel ölçümler ve kuramlar arasında- ki bu Tanrı'nın olmadığını doğrular, *gerçeğin tüm rasyonel standartlarını tamamen tersine çeviren* bir çeşit geçersiz alan varedilmek isteniyor.
+Tanrı'nın varlığı hakkında doğrudan empirik ya da rasyonel hiçbir kanıta sahip değiliz. En soyut bilimsel ölçümler de Tanrı'nın varlığı hakkında hiçbir kanıt sağlamıyor- bizim kendi deneyimlediğimiz Tanrı'nın olmayışı gerçeği ile en soyut bilimsel ölçümler ve kuramlar arasında- ki bu Tanrı'nın olmadığını doğrular, *gerçeğin tüm rasyonel standartlarını tamamen tersine çeviren* bir çeşit geçersiz alan var edilmek isteniyor.
 
 ### Bağnazlık
 
@@ -34,7 +34,7 @@ Bağnazca savlar - ya da "inanç" - tanım gereği test edilemezler çünkü onl
 
 Gerçek haline gelmiş olan ispatlanmamış şeylere inanabiliriz - birileri dünyanın düz olduğunu kanıtlanmadan önce tereddütsüz düşünüyordu - fakat "geçersiz bölge" *muhtemelen gerçek olamayacak* şeylere inanmaya tutunduğumuz alandır.
 
-Eğer iki artı iki beş eder dersem, mantık ile düzeltilebilecek bir hata yapıyorumdur. Eğer ben kare şeklinde bir çemberin olduğuna inandığımı söylersem çok açık bir şekilde kendisiyle çelişen bir ifade kullanıyorumdur ki bu kendisini çürütür. Bununla birlikte, "foo artı tury eşittir desty" olduğunu üstüne basa basa iddia etsem - ve kullandığım bu terimleri tanımlamayı reddetsem - mantık ve kanıta *başvurulamayacak* bir ifade kullanmış olurum.
+Eğer iki artı iki beş eder dersem, mantık ile düzeltilebilecek bir hata yapıyorumdur. Eğer ben kare şeklinde bir çemberin olduğuna inandığımı söylersem çok açık bir şekilde kendisiyle çelişen bir ifade kullanıyorumdur ki bu kendisini çürütür. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
 
 ### Bir sonraki durak: ''Alternatif Kainat'' 
 
@@ -42,13 +42,13 @@ Genellikle insanlar kendi empirik ve mantıksal olmayan inanışlarını korumay
 
 Eğer "Kare şeklinde bir daire vardır." dersem, bu evrende açıkça imkansız olan bir şeyi ileri sürmüş olurum. Bu yüzden, eğer kendi inanışımı korumak istiyorsam kare şeklinde bir dairenin olabildiği, evrenimiz "dışında" başka bir evren veya alan icat etmeliyim.
 
-Eğer kendisi ile çelişenin gerçeğe eşit olduğu bir alan uydurursam, kare şeklinde bir dairenin *olmadığını* söyleyenlerin bağnaz ve önyargılı olduğunu iddia edebilirim çünkü onlar gerçek *olabilecek* ihtimalleri ortadan kaldırıyorlar.[^1]
+Eğer kendisi ile çelişenin gerçeğe eşit olduğu bir alan uydurursam, kare şeklinde bir dairenin *olmadığını* söyleyenlerin bağnaz ve ön yargılı olduğunu iddia edebilirim çünkü onlar gerçek *olabilecek* ihtimalleri ortadan kaldırıyorlar.[^1]
 
 Bu "geçersiz bölge" açısından sadece ihtimal gerçekten vardır. Ya bu *geçersiz bölge* evrenimizden tamamen bağımsız bir şekilde vardır ve asla hiçbir şekilde şekli ya da formu ölçülemez, algılanamaz ve keşfedilemez ya da bazı noktalarda biz kendisi ile çelişenin gerçeğe eşit olduğu bu büyülü yeri algılayabilir ve onunla etkileşime geçebiliriz.
 
 Eğer bazı noktalarda *biz* bu *geçersiz bölge* ile etkileşime geçebiliyorsak, o zaman onun varlığına ilişkin direk duyusal veya rasyonel kanıtlar elde etmeliyiz. Başka bir deyişle, bir şekilde bizim evrenimize uzanmış olmalı. Ancak bizim evrenimizde algılanabilir hale geldiği zaman, rasyonel ve empirik varoluşa sahip olmalı tıpkı algılayabildiğimiz her şey gibi. Böylece bunlar başka bir ifade ile bizim evrenimize uzananlar, *bizim evrenimizde kare şeklinde bir dairenin varlığını destekleyecek bir alan yaratamazlar*.
 
-Bu yüzden şundan emin olabiliriz, eğer *biz* bu diğer evreni şimdiye kadar algılayabilseydik, topladığımız kanıtlar hiçbir şekilde kendisiyle çelişen ifadelerin varlığını desteklemezdi. Kareli daireler, tanrılar ve çelişki içindeki diğer kavramlar leprechaun'ların ıslak rüyalarında gizleyebileceklerinden daha fazlasını gizleyemezler.
+Bu yüzden şundan emin olabiliriz, eğer *biz* bu diğer evreni şimdiye kadar algılayabilseydik, topladığımız kanıtlar hiçbir şekilde kendisiyle çelişen ifadelerin varlığını desteklemezdi. Kareli daireler, tanrılar ve çelişki içindeki diğer kavramlar leprechaunların ıslak rüyalarında gizleyebileceklerinden daha fazlasını gizleyemezler.
 
 Öte yandan eğer bu diğer evreni *asla* tespit edemeyeceğimiz ve onu desteklemek için hiçbir kanıt veya rasyonalite olmaksızın tamamen teorik bir varlık olarak kaldığı ortaya çıkarsa, bu sadece açıkça doğru olmayan şeyleri yerleştirmenin "uygun" olduğu kavramsal bir çantadır.
 
