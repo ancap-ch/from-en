@@ -346,7 +346,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                             
                             <fn name="14">
                               <p>
-                                Let me hasten to add here that, despite my misgivings about his “economics,” I still consider Pat Buchanan a great man.
+                                Izinkan saya menambahkan segera, terlepas dari keraguan saya tentang "ekonomi", Saya tetap memutuskan Pat Buchanan seorang pria yang hebat.
                               </p>
                             </fn>
                             
