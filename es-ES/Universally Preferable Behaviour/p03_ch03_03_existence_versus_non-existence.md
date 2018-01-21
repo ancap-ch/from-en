@@ -62,7 +62,7 @@ Cuando tomamos la infraestructura UPB y la aplicamos a las premisas morales de a
 
 La premisa que es usada de manera más frecuente para justificar el poder del gobierno es: “el gobierno tiene derecho a quitarle su dinero”. Esto, de todas maneras, es una afirmación completamente imprecisa y falsa. El “gobierno” no tiene el derecho de quitarle su dinero, ya que “el gobierno” es meramente un concepto, una descripción abstracta de un grupo de personas que se autodenominó de esa manera. UPB requiere una afirmación más contundente y objetiva. Ya que las reglas morales deben ser iguales para todos, en todos momento y lugar, debemos modificar la regla de esta manera:
 
-“*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
+*Los seres humanos pueden, con respaldo moral, quitarle el dinero a otros seres humanos si inventan una agencia conceptual que justifique sus acciones.*”
 
 If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
 
