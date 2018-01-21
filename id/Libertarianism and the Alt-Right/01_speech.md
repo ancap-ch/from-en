@@ -316,7 +316,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                             
                             <fn name="9">
                               <p>
-                                Which I have termed the “Stupids for Liberty” and my young German friend Andre Lichtschlag as “Liberallala-Libertarians”.
+                                Yang saya sebut dengan “Kebebasan untuk kebodohan” dan Andre, teman saya seorang pemuda Jerman sebagai “Libertarian yang Liberal”.
                               </p>
                             </fn>
                             
