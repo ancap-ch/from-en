@@ -64,7 +64,7 @@ La premisa que es usada de manera más frecuente para justificar el poder del go
 
 *Los seres humanos pueden, con respaldo moral, quitarle el dinero a otros seres humanos si inventan una agencia conceptual que justifique sus acciones.*”
 
-If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
+Si retornamos a Bob y a Doug en nuestra pequeña habitación de experimentación moral, podemos ver rápidamente que esto se convierte en una premisa imposible.
 
 If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
 
