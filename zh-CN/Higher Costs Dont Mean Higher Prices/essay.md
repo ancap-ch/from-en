@@ -1,4 +1,4 @@
-There are limitations to the standard economic model of supply and demand curves intersecting to reveal the optimal or equilibrium price and quantity of a good. Those limitations, as Austrians are well aware, are due to unrealistic assumptions. But noting that the assumptions are out of this world is not enough, especially if the models are used to explain a world that does not match the assumptions. The application of the simplified models, which indeed reveal important facts about how the economy works, tend to lead many economists astray.
+供求曲线相交的标准经济模型的局限性表明：一个商品的数量与均衡价格（或最优价格）。 Those limitations, as Austrians are well aware, are due to unrealistic assumptions. But noting that the assumptions are out of this world is not enough, especially if the models are used to explain a world that does not match the assumptions. The application of the simplified models, which indeed reveal important facts about how the economy works, tend to lead many economists astray.
 
 # Increasing Costs to Producers Does Not Increase Prices 
 
