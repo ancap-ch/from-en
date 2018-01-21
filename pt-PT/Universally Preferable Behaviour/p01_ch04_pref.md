@@ -52,19 +52,19 @@ Por outras palavras, se você quiser chegar ao topo de uma montanha, apenas com 
 
 Se opto por debater, aceito implicitamente uma ampla variedade de axiomas nos que vale a pena gastar algum tempo aqui para os desfazer.
 
-#### Premissa 1: nós dois existimos
+#### Premissa 1: Nós Dois Existimos
 
 Se opto por debater com você, necessariamente devo admitir que ambos existimos. Se acredito que eu existo, mas que você não, então debater não faz sentido, e seria a acção de um louco. Se eu começasse a discutir com o meu reflexo num espelho, deveria ser sedado, não debatido.
 
-#### Premissa 2: os sentidos têm a capacidade de precisão
+#### Premissa 2: Os Sentidos Têm a Capacidade de Precisão
 
 Como os seres humanos não se podem comunicar psiquicamente, todos os debates envolvem, necessariamente, a evidência dos sentidos. A escrita pressupõe a visão; falar requer a audição; Braille requer o tacto. Assim, qualquer proposição que dependa da invalidez dos sentidos auto-destrói-se automaticamente.
 
-#### Premissa 3: o idioma tem a capacidade de significado
+#### Premissa 3: O Idioma Tem a Capacidade de Significado
 
 Semelhante à Premissa Dois, dado que todos os argumentos exigem linguagem, qualquer proposição que se baseie na premissa de que a linguagem não tem sentido é imediatamente refutada. Usar o idioma para argumentar que o mesmo não tem significado é como usar um serviço de correio para enviar uma mensagem, argumentando que os correios nunca entregam as mensagens.
 
-#### Premissa 4: a correcção requer preferências universais
+#### Premissa 4: A Correcção Requer Preferências Universais
 
 Se você corrigir um erro que eu cometi, está a aceitar, implicitamente, o facto de que seria *melhor* para mim, corrigir o meu erro. A sua preferência por que eu corrija o meu erro não é subjectiva, mas objectiva e universal.
 
@@ -86,7 +86,7 @@ Se eu disser que gosto de sorvete de chocolate, e tu disseres que gostas de baun
 
 #### Premissa 7: O Debate Pacífico é a Melhor Maneira de Resolver Litígios
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+Se eu disser que o mundo é plano, e tu apontas-me uma arma e atiras, isso dificilmente, seria um exemplo de um debate produtivo. É certo, o nosso desacordo teria sido "resolvido" - mas só porque, no fim, apenas um de nós ficou de pé.
 
 If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
 
