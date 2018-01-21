@@ -30,9 +30,9 @@
 
 Мне говорят: по причине того, что я выбрал местом проживания Канаду, я обязан «правительству» более пятидесяти процентов моего дохода.
 
-Stripped of mythology, what does this really translate to?
+Отбросим мифологию, и что получится на самом деле?
 
-In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+На самом деле, я буду ждать до скончания времен, чтобы «правительство» пришло и забрало свои деньги. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
 
 In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
 
