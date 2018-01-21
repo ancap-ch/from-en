@@ -10,7 +10,7 @@
 
 Во всем мире правители составляют весьма небольшой процент населения. Как могут один-два процента людей контролировать всех остальных? Конечно, существует определенная монополия на вооружения, но этой монополии относительно легко противодействовать, поскольку большинство правительств зарабатывают состояния, продавая оружие по всему миру.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+Печальная реальность заключается в том, что люди в целом порабощены вымышленными сущностями, такими как нации, боги, культуры и правительства.
 
 Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
 
