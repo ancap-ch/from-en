@@ -1,8 +1,8 @@
 ## Uma Estrutura Para A Ética
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+As proposições éticas são diferentes de outros tipos de declarações de conhecimento. Se eu disser: "Eu gosto de jazz", isso pode ser uma afirmação verdadeira ou falsa, mas de todos os modos, isso geralmente não é considerado vinculativo para você. A minha preferência pelo jazz é uma mera declaração de gosto pessoal; com base na minha afirmação, não lhe compete gostar ou não gostar de jazz.
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+De igual modo, se eu disser "eu gosto de vegetais", isso também é uma mera declaração de preferência pessoal. No entanto, se eu disser, " os vegetais são alimentos saudáveis", então, mudei de uma declaração de preferência pessoal para uma declaração de facto objectivo. É a diferença entre "Eu gosto de sorvete", e "O sorvete contém leite"
 
 The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
 
