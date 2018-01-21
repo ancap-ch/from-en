@@ -104,7 +104,7 @@ Decir que “la mayoría” tiene derechos o atributos que contradicen directame
 
 Por supuesto que no.
 
-Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
+Entonces, si para los seres humanos la violación es algo malo, puedo crear a través de la lógica una categoría llamada “la mayoría” y anunciar que para *estos* seres humanos, la violación es ahora éticamente buena?
 
 Of *course* not.
 
