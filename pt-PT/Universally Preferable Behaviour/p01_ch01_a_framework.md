@@ -4,9 +4,9 @@ As proposições éticas são diferentes de outros tipos de declarações de con
 
 De igual modo, se eu disser "eu gosto de vegetais", isso também é uma mera declaração de preferência pessoal. No entanto, se eu disser, " os vegetais são alimentos saudáveis", então, mudei de uma declaração de preferência pessoal para uma declaração de facto objectivo. É a diferença entre "Eu gosto de sorvete", e "O sorvete contém leite"
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+A diferença fundamental entre declarações de *preferência* e declarações de *facto* é que as declarações de facto são objectivas, testáveis e vinculativas. Se valoriza a verdade, incumbe-lhe aceitar o facto de que o sorvete contém leite, já que está comprovado.[^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Se eu disser que a Terra é redonda, e apresentar uma grande prova para essa afirmação, já não lhe cabe a si determinar, pelo seu próprio capricho, se a afirmação é verdadeira. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
 
 If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
 
