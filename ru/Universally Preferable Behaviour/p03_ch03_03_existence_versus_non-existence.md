@@ -16,9 +16,9 @@
 
 Наше стремление быть хорошими, в сочетании с восторгом добродетели, который мы чувствуем, подчиняясь моральным мифологиям, приводит к тому, что мы становимся в очередь, чтобы с готовностью передать наши ресурсы тому, кто утверждает, что является представителем этих мифологий.
 
-Одна из основных причин того, что мы знаем, что в правительствах и богах нет необходимости, - это то, что они настолько эффективны. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+Одна из основных причин того, что мы знаем, что в правительствах и богах нет необходимости, - это то, что они настолько эффективны. *Мы знаем, что большинство людей отчаянно хотят быть хорошими, потому что ими так легко управляют моральные теории *.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+Логика послушания мифологии без сомнения глупа. Если священник говорит мне, что я должен подчиняться «Богу», это все равно как если бы он сказал мне подчиняться сущности под названием «Ног». Даже если я соглашусь, что эта вымышленная сущность достойна вечного послушания, это никоим образом не заставит меня подчиняться * священнику *. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
 Of course not.
 
