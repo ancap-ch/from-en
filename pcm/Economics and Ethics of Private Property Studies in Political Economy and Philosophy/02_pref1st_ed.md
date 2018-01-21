@@ -6,8 +6,8 @@ Weda all dis studies concern ecomic topics like employment, interest, money, ban
 
 As i dey write all dis studies, me get help from may places. Me specially thank my Wifey Margaret, who take de task of de-Germanizing my English; to Llewellyn H. Rockwell, Jr., wey be presido of de Ludwig von Mises Institute, and also to Burton S. Blumert, wey b presido of de Center for Libertarian Studies, for dia support for my work; and to my friend, David Gordon, for him plenty suggestions and comments wey too much.
 
-My biggest debt na to Ludwig von Mises and Murray N. Rothbard, wey be d twentieth century's two greatest-though much neglected-economists and social philosophers. Even tho say me neva see Ludwig von Mises, and me be neva even hear of him name before except after him don die, i dey fortunate say i dey closely flow with Murray Rothbard for de past six years so, de first time na for New York City, and since 1986 we be same colleagues for University pf Nevada, Las Vegas. Apart from the intellectual debt that I owe him, words cannot express my personal gratitude. His wisdom, insight, kindness, enthusiasm, and unflagging encouragement have been a continuous inspiration to me. It is, therefore, to him that this volume is dedicated.
+My biggest debt na to Ludwig von Mises and Murray N. Rothbard, wey be d twentieth century's two greatest-though much neglected-economists and social philosophers. Even tho say me neva see Ludwig von Mises, and me be neva even hear of him name before except after him don die, i dey fortunate say i dey closely flow with Murray Rothbard for de past six years so, de first time na for New York City, and since 1986 we be same colleagues for University pf Nevada, Las Vegas. Apart say i dey owe am intellectual debt, words nor fit express my personal gratitude to am. Him wisdom, insight, kindness, enthusiasm and him constant encouragement dey always inspire me. Na cos of that make me dedicate this volume to am.
 
-Hans-Hermann Hoppe
+Hans-Herman Hoppe
 
 *Las Vegas, Nevada, 1993*
