@@ -24,11 +24,11 @@
 
 Если мы отбросим мифологию и вымысел в нашем «взаимодействии» с правителями, то возникнет мрачная, суровая и убийственно эксплуататорская действительность.
 
-Let’s take as an example a very real and present danger: taxation.
+Возьмем в качестве примера очень реальную и настоящую опасность: налогообложение.
 
-#### Taxation
+#### Налогообложение
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Мне говорят: по причине того, что я выбрал местом проживания Канаду, я обязан «правительству» более пятидесяти процентов моего дохода.
 
 Stripped of mythology, what does this really translate to?
 
