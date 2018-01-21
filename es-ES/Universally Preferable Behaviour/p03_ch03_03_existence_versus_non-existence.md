@@ -100,9 +100,9 @@ Por qué no?
 
 Bueno, UPB no reconoce la realidad de las adiciones, ya que la “mayoría” es una etiqueta meramente conceptual; no existe concretamente en la realidad, al igual que los “dioses” o los “gobiernos”. Por ende, el concepto de que “la mayoría” tiene alguna clase de imposición moral es totalmente inválido - es como decir que “la paternidad” puede embarazar a una mujer o que uno puede sentarse en la palabra “silla”
 
-To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
+Decir que “la mayoría” tiene derechos o atributos que contradicen directamente los derechos o atributos de cualquier individuo también contradice principios racionales, ya que cualquier agrupación conceptual es validada solamente por la identificación certera de características individuales. Si digo que los “mamíferos” son seres vivos de sangre caliente, podría usando la lógica, incluir tres flamencos de plástico en la categoría “mamífero”?
 
-Of course not.
+Por supuesto que no.
 
 Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
 
