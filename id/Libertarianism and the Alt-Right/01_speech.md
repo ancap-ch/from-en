@@ -280,13 +280,13 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                             
                             <fn name="3">
                               <p>
-                                Conflict-free.
+                                Bebas konflik.
                               </p>
                             </fn>
                             
                             <fn name="4">
                               <p>
-                                And all later owners connected to him through a chain of voluntary exchanges.
+                                Dan kemudian semua para pemilik akan terhubung melalui rantai pertukaran relawan.
                               </p>
                             </fn>
                             
