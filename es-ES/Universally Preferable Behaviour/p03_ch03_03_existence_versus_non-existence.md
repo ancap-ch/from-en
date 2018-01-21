@@ -98,7 +98,7 @@ Si Bob, Doug y Jane “votan” si es algo ético o no violar a Jane, nos repugn
 
 Por qué no?
 
-Well, UPB does not recognise the reality of aggregations, since the “majority” is a mere conceptual tag; it does not exist in reality, any more than “gods” or “governments” do. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
+Bueno, UPB no reconoce la realidad de las adiciones, ya que la “mayoría” es una etiqueta meramente conceptual; no existe concretamente en la realidad, al igual que los “dioses” o los “gobiernos”. Por ende, el concepto de que “la mayoría” tiene alguna clase de imposición moral es totalmente inválido - es como decir que “la paternidad” puede embarazar a una mujer o que uno puede sentarse en la palabra “silla”
 
 To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
 
