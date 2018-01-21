@@ -88,11 +88,11 @@ Se eu disser que gosto de sorvete de chocolate, e tu disseres que gostas de baun
 
 Se eu dissesse que o mundo é plano, e tu me apontasses uma arma e atirasses, isso dificilmente, seria um exemplo de um debate produtivo. É certo, o nosso desacordo teria sido "resolvido" - mas só porque, no fim, apenas um de nós teria ficado de pé.
 
-Se me tivesses advertido, antecipadamente, que a tua forma de lidar com qualquer desacordo era atirando, o mais provável é que eu nunca teria aceitado participar num debate contigo. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Se me tivesses advertido, antecipadamente, que a tua forma de lidar com qualquer desacordo era atirando, o mais provável é que eu nunca teria aceitado participar num debate contigo. Assim, é evidente que qualquer debate depende da premissa implícita de que a evidência, razão, verdade e objectividade são os métodos de resolução de disputas entre as pessoas *universalmente preferíveis*. Seria completamente ilógico argumentar que as diferenças de opinião deveriam ser resolvidas através do uso da violência - o único argumento consistente para a *importância* da violência é o uso da violência. [^4]
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+Então, em essência, debater exige uma metodologia objectiva, através de linguagem significativa, na busca da verdade universal, que é objectivamente preferível ao erro pessoal.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+Esta preferência pela verdade universal não é uma preferência de *grau*, mas de *tipo*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
 
 In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
 
