@@ -352,7 +352,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                             
                             <fn name="15">
                               <p>
-                                An endeavor, by the way, that has been ridiculed by Taki Theodoracopulos, a veteran champion of the paleo-conservative-turned-Alt-Right movement and Spencer’s former employer.
+                                Sebuah usaha yang telah ditertawakan oleh Taki Theodoracopulos, seorang juara veteran dari gerakan sayap kanan paleo konservatif terbalik dan mantan majikan Spencer.
                               </p>
                             </fn>
                             
