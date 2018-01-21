@@ -1,12 +1,12 @@
-## ang creative commons
+## creative commons
 
-# Attribution-ShareAlike 4.0 Internasyonal
+# Attribution-ShareAlike 4.0 International
 
-Ang Korporasyon na Creative Commons ("Creative Commons") ay hindi isang kompanya ng batas at hindi nagbibigay ng mga serbisyong legal o payong legal. Ang distribusyon ng mga pampublikong lisensya ng Creative Commons ay hindi gumagawa ng abogado-kliyente o iba pang relasyon. Ang Creative Commons ay gumagawa ng mga lisensya nito at magagamit sa “as-is” na basihan sa mga kaugnay na mga impormasyon. Ang Creative Commons ay hindi nagbibigay ng mga warantiya ukol sa mga lisensya nito, anumang lisensyadong materyal na nakabilang sa mga termino at mga kondisyon, o anumang impormasyong kaugnay nito. Ang Creative Commons ay hindi nagki-claim sa lahat ng layabilidad para sa mga nasira na resulta mula sa kanilang paggamit sa kabuuang posible na ekstent.
+Creative Commons Corporation ("Creative Commons") ay hindi isang tanggapan sa batas at hindi nagpo-provide ng legal na serbisyo o legal na pangaral. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
 
-### Paggamit sa mga Pampublikong Lisensya ng Creative Commons
+### Using Creative Commons Public Licenses
 
-Ang mga pampublikong lisensya ng Creative Commons ay nagpo-provide ng istandard na mga set ng termino at mga kondisyon na ang mga gumagawa at ibang mga tagahawak ng mga karapatan ay maaaring gumamit para ibahagi ang awtorship sa mga orihinal na mga gawa at iba pang mga materyal na subjek sa kopyright at mga iilang mga ibang karapatan na nakaspesipika sa ibaba ng pampublikong lisensya. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
+Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
 
 * **Considerations for licensors:** Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. [More considerations for licensors](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors).
 
