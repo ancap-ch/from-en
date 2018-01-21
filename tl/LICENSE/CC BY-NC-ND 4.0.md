@@ -145,9 +145,9 @@ d. Ang ika-1, 5, 6, 7, at 8 na mga Seksyon ay nakaligtas sa terminasyon ng Lisen
 
 a. Ang Tagapagpapalisensya ay hindi nararapat na maisaklaw sa anumang adisyonal o mga terminong magkakaiba o mga kondisyon na nakomunika Mo maliban nalang sa pagpayag na naekspres.
 
-b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
+b. Anumang mga pagkakaayos, mga pagkakaintindihan, o mga kasunduan ukol sa Materyal na Lisensiyado na hindi naisabi dito ay hiwalay at independente mula sa mga termino at kondisyon sa Lisensiyang Pampubliko na ito.
 
-### Section 8 – Interpretation.
+### Ika-8 na Seksyon - Interpretasyon.
 
 a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
 
