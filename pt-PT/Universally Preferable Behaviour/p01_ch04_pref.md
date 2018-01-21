@@ -78,7 +78,7 @@ No momento em que ofereço algum tipo de critério objectivo para determinar a v
 
 Isso não significa, necessariamente, que os meus critérios objectivos são *lógicos* - Eu poderia estar a encaminhá-lo para um texto religioso, por exemplo. No entanto, mesmo que eu faça isso, ainda estou a aceitar que a verdade é algo a que se chega independentemente da simples afirmação pessoal - que existe uma metodologia objectiva para separar a verdade da falsidade.
 
-#### Premise 6: Truth Is Better Than Falsehood
+#### Premissa 6: A Verdade É Melhor do que a Falsidade
 
 If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
 
