@@ -364,7 +364,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                             
                             <fn name="18">
                               <p>
-                                Except as some idle intellectual play or mental gymnastics by a few “exotic” individuals.
+                                Kecuali sebagaimana beberapa intelektual yang menganggur bermain atau mental senam dari beberapa individu “yang terasing”.
                               </p>
                             </fn>
                             
