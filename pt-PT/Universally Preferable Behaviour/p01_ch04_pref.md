@@ -92,13 +92,13 @@ Se me tivesses advertido, antecipadamente, que a tua forma de lidar com qualquer
 
 Então, em essência, debater exige uma metodologia objectiva, através de linguagem significativa, na busca da verdade universal, que é objectivamente preferível ao erro pessoal.
 
-Esta preferência pela verdade universal não é uma preferência de *grau*, mas de *tipo*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+Esta preferência pela verdade universal não é uma preferência de *grau*, mas de *tipo*. Um atalho que reduz o tempo de condução a metade é duas vezes melhor do que uma rota mais longa - mas ambos são *infinitamente preferíveis* a dirigir numa direcção completamente errada.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+Da mesma forma, a verdade não é apenas "melhor" do que o erro - é *infinitamente preferível*, ou indispensável.
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### Premissa 8: Os Indivíduos São Responsáveis Pelas Suas Acções
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+Se eu argumento que os seres humanos não são responsáveis pelas suas acções, fico preso num paradoxo, que é a questão de* se eu sou ou não responsável pelo meu argumento e também se você é ou não responsável pela sua resposta*.
 
 If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
 
