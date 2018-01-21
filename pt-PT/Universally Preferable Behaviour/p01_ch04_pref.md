@@ -80,11 +80,11 @@ Isso não significa, necessariamente, que os meus critérios objectivos são *l�
 
 #### Premissa 6: A Verdade É Melhor do que a Falsidade
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+Se eu lhe disser que o mundo é plano e você responder que o mundo não é plano, mas redondo, então estará a aceitar, implicitamente, o axioma de que a verdade e a mentira existem de forma objectiva e que a verdade é melhor do que a falsidade.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Se eu disser que gosto de sorvete de chocolate, e tu disseres que gostas de baunilha, é impossível "provar" que a baunilha é objectivamente melhor do que o chocolate. Quando me corriges com referência a factos *objectivos*, estás aceitando que existem fatos objectivos, e essa verdade objectiva é *universalmente preferível* a um erro subjectivo.
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### Premissa 7: O Debate Pacífico é a Melhor Maneira de Resolver Litígios
 
 If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
 
