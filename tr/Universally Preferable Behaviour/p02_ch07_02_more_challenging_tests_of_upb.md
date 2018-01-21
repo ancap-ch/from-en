@@ -12,7 +12,7 @@ Bir parça balık yiyen bir kişiye vurabilir miyim?
 
 Yapabileceğimi söylemek aptalca görünüyor - ama neden?
 
-Bu doktrinin evrenselliği için bazı tarasız sınırlar vardır. Örnek olarak, bazı insanlar balıklara ulaşamayabilir – mesela bir çölde yaşabilirler – diğerleri ise balıklarla dolu bir gölün kenarında yaşayabilirler ve onları yemeden hayatta kalmayı zor veya imkansız bulurlar. Ancak, bu yeterli olamaz çünkü bir hadımın tecavüz eyleminde bulunamaması ''tecavüz etmek kötü'' ahlaki önermesini geçersiz kılmadığını zaten kabul ettik.
+Bu doktrinin evrenselliği için bazı tarafsız sınırlar vardır. Örnek olarak, bazı insanlar balıklara ulaşamayabilir – mesela bir çölde yaşayabilirler – diğerleri ise balıklarla dolu bir gölün kenarında yaşayabilirler ve onları yemeden hayatta kalmayı zor veya imkansız bulurlar. Ancak, bu yeterli olamaz çünkü bir hadımın tecavüz eyleminde bulunamaması ''tecavüz etmek kötü'' ahlaki önermesini geçersiz kılmadığını zaten kabul ettik.
 
 Hayır, "kırmızı ringa" ahlaki önermesinde "Balık yemek kötüdür" kelimesi "*balık*" dır.
 
