@@ -46,7 +46,7 @@
 
 Смотрите, если я сегодня вечером приду в ваш дом, одетый как «высокий эльф Нарнии» и потребую деньги, которые вы должны «Королеве Скорбей», принимая во внимание, что сейчас не Хэллоуин, вам разрешено посмотреть на меня с изумлением, и приказать мне покинуть вашу собственность.
 
-Если я не заплачу человеку, который придет забрать мои деньги, ему разрешено вытащить пистолет, направить его мне в грудь и похитить меня, или выстрелить в меня, если я окажу сопротивление. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
+Если я не заплачу человеку, который придет забрать мои деньги, ему разрешено вытащить пистолет, направить его мне в грудь и похитить меня, или выстрелить в меня, если я окажу сопротивление. Он может удерживать меня в крошечной камере год за годом, где я буду подвергаться самой лютой жестокости и постоянным изнасилованиям, пока он не решит выпустить меня.
 
 Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
 
