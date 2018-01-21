@@ -10,13 +10,13 @@ Se eu disser que a Terra é redonda, e apresentar uma grande prova para essa afi
 
 Se eu aceito a validade das leis matemáticas, não posso rejeitar, arbitrariamente, uma prova matemática conforme essas leis. Se eu *rejeitar* tal prova, já não posso reivindicar a aceitação da validade das leis matemáticas. A aceitação dessas leis significa que eu estou *obrigado* a aceitar como válidas as provas que estão conforme essas leis. A rejeição de uma prova que está conforme os padrões racionais é a rejeição dos padrões racionais como um todo.
 
-O método científico, a própria racionalidade e as leis matemáticas são exemplos de critérios *objectivos* para estabelecer a verdade de uma proposição. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+O método científico, a própria racionalidade e as leis matemáticas são exemplos de critérios *objectivos* para estabelecer a verdade de uma proposição. A opinião de que dois e dois fazem quatro, não é minha - se também aceita que dois e dois fazem quatro, não se está a submeter à minha simples opinião, mas a uma verdade racional.
 
-### Objective Truth
+### Verdade Objectiva
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+Um desafio central para compreender a natureza da verdade é a percepção de que a "verdade" não existe no mundo, da mesma forma em que uma pedra ou uma árvore existem.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+O conceito de "verdade" é necessariamente um termo relativo - embora isso não signifique um termo subjectivo ou arbitrário. O conceito "saúde" também é um termo relativo - comparamos "saúde" com a doença, e também com os padrões relativos de saúde. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
 
 This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
 
