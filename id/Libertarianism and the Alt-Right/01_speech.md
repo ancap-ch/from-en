@@ -370,7 +370,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                             
                             <fn name="19">
                               <p>
-                                Whereas the least support should be expected to come from the legally most “protected” groups such as, for instance, single Black Muslim mothers on welfare.
+                                Padahal dukungan yang paling sedikit seharusnya diharapkan dari kelompok yang paling "terlindungi" secara hukum seperti, kesejahteraan ibu-ibu Muslim Kulit Hitam yang hidup sendiri.
                               </p>
                             </fn>
                             
