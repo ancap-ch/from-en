@@ -292,25 +292,25 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                             
                             <fn name="5">
                               <p>
-                                Whose leadership, to its credit, after Trump’s election victory, quickly broke with Trump when he turned out to be just another presidential warmonger.
+                                Siapapun yang menjadi pemimpin, setelah kemenangan pemilu Trump, dengan cepat pecah dengan Trump ketika dia hanyalah bagian dari penghasut presiden yang lainnya.
                               </p>
                             </fn>
                             
                             <fn name="6">
                               <p>
-                                <em>Aka</em> Mencius Moldbug.
+                                <em>Dikenal juga dengan</em> Mencius Moldbug.
                               </p>
                             </fn>
                             
                             <fn name="7">
                               <p>
-                                <em>Aka</em> Soviet Poverty Lie Center.
+                                <em>Dikenal juga dengan</em> Pusat Hukum Kemiskinan Soviet.
                               </p>
                             </fn>
                             
                             <fn name="8">
                               <p>
-                                <em>Aka</em> “non-discrimination”.
+                                <em>Dikenal juga dengan</em> “tidak diskriminasi”.
                               </p>
                             </fn>
                             
