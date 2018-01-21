@@ -334,13 +334,13 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                             
                             <fn name="12">
                               <p>
-                                Which is entirely compatible with libertarianism and its <em>desideratum</em> of freedom of association and opposition to forced integration.
+                                Yang sepenuhnya kompatibel dengan libertarianism dan <em>sesuatu yg diinginkan</em> kebebasan asosiasi dan oposisi terhadap integrasi paksa.
                               </p>
                             </fn>
                             
                             <fn name="13">
                               <p>
-                                Which is antithetical to libertarianism and inimical to human prosperity.
+                                Yang antitesis dengan libertarianisme dan bertentangan dengan kemakmuran manusia.
                               </p>
                             </fn>
                             
