@@ -66,7 +66,7 @@ La premisa que es usada de manera más frecuente para justificar el poder del go
 
 Si retornamos a Bob y a Doug en nuestra pequeña habitación de experimentación moral, podemos ver rápidamente que esto se convierte en una premisa imposible.
 
-Si Bob le dice a Doug: “Ahora represento el concepto ideal 'FUBAR’, que justifica totalmente que te quite tu chispero. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
+Si Bob le dice a Doug: “Ahora represento el concepto ideal 'FUBAR’, que justifica totalmente que te quite tu chispero. Como ahora tú me debes tu chispero tienes que entregármelo, si no me veré obligado a quitártelo por la fuerza
 
 What will Doug’s reaction be? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
 
