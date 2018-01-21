@@ -6,7 +6,7 @@
 
 在撰写后来的研究中，我得到了许多方面的帮助。 特别感谢我的妻子玛格丽特，她接手了去我英语德语化的任务；感谢路德维希.冯.米塞斯研究所总裁卢埃林.罗克韦尔.Jr，感谢自由意志论者研究中心主席布卢默特.S.伯顿，他们为我的研究不断提供支持与帮助；感谢我的朋友大卫.高登，他给予我很多非常宝贵的建议和评论。
 
-My largest debt is to Ludwig von Mises and Murray N. Rothbard, the twentieth century’s two greatest-though much neglected-economists and social philosophers. While I never met Ludwig von Mises, and indeed had not heard of his name until after his death, I am fortunate to have been closely associated with Murray Rothbard for the past six years, first in New York City, and since 1986 as colleagues at the University of Nevada, Las Vegas. Apart from the intellectual debt that I owe him, words cannot express my personal gratitude. His wisdom, insight, kindness, enthusiasm, and unflagging encouragement have been a continuous inspiration to me. It is, therefore, to him that this volume is dedicated.
+路德维希.冯.米塞斯和罗斯巴德.N.默里给予我最大的恩惠，他们是二十世纪虽最伟大也是备受忽视的两位经济学家和社会哲学家。 While I never met Ludwig von Mises, and indeed had not heard of his name until after his death, I am fortunate to have been closely associated with Murray Rothbard for the past six years, first in New York City, and since 1986 as colleagues at the University of Nevada, Las Vegas. Apart from the intellectual debt that I owe him, words cannot express my personal gratitude. 他的智慧，洞察力，善良，热情和不懈的鼓励一直不断的启迪了我。 It is, therefore, to him that this volume is dedicated.
 
 Hans-Hermann Hoppe
 
