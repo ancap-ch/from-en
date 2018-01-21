@@ -50,11 +50,11 @@ Si yo no le pago al hombre que viene a buscar mi dinero, él está autorizado a 
 
 Es interesante, que si alguien legítimamente me debe dinero, yo no tengo permitido secuestrarlo, vejarlo y torturarlo durante años. Por lo tanto, el sistema impositivo viola completamente la infraestructura de UPB, ya que representa la transferencia de propiedades través de la fuerza.
 
-Stealing, as we have proven, is evil.
+Robar, como hemos probado, es malo.
 
-Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
+Einstein revolucionó la Física asegurando - y probando - que la velocidad de la luz era constante.
 
-We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
+Podemos revolucionar el mundo aceptando la premisa - y la prueba - de que robar siempre es malo.
 
 ### Government, Religion, And UPB
 
