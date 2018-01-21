@@ -42,9 +42,9 @@
 
 Если я не заплачу этому парню, он отправит другого парня в мой дом, чтобы тот взыскал деньги плюс «проценты» и «платежи»
 
-Обычно, когда человек с оружием приходит ко мне домой и требует моих денег, я имею право применять силу для самозащиты. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Обычно, когда человек с оружием приходит ко мне домой и требует моих денег, я имею право применять силу для самозащиты. Однако в этом случае, так как он пришел в костюме и утверждает, что представляет вымышленную сущность, мне не разрешено применять силу для самозащиты.
 
-Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
+Смотрите, если я сегодня вечером приду в ваш дом, одетый как «высокий эльф Нарнии» и потребую деньги, которые вы должны «Королеве Скорбей», принимая во внимание, что сейчас не Хэллоуин, вам разрешено посмотреть на меня с изумлением, и приказать мне покинуть вашу собственность.
 
 If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
 
