@@ -40,9 +40,9 @@
 
 Таким образом, в действительности один парень присылает мне письмо, в котором говорится, что я должен ему деньги. У меня нет контракта с этим парнем, на самом деле он не владеет никакой моей собственностью, хотя другие ребята написали некий предполагаемый «контракт», который утверждает, что он ею владеет.
 
-If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
+Если я не заплачу этому парню, он отправит другого парня в мой дом, чтобы тот взыскал деньги плюс «проценты» и «платежи»
 
-Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Обычно, когда человек с оружием приходит ко мне домой и требует моих денег, я имею право применять силу для самозащиты. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
 
 Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
 
