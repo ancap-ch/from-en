@@ -78,9 +78,9 @@ En otras palabras, toda justificación abstracta para el uso de la fuerza puede 
 
 Lo mismo cuenta para la religión.
 
-The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
+La afirmación: “Usted debe obedecerme porque Dios así lo manda”, debe ser reformulada más apropiadamente como: “una entidad que he inventado yo le ordena a usted que me obedezca”. El principio que UPB requiere, entonces, es: “Los seres humanos deben imponer a otros obligaciones positivas que no han elegido, y justificar esas obligaciones según los criterios de una entidad ficticia”
 
-Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+Aquí vemos los mismos inconvenientes que más arriba. Bob le dice a Doug: “Debes darme tu chispero, porque mi amigo imaginario te dice que lo hagas”. Naturalmente, Doug le responde: “Tú no debes pedirme mi chispero porque *mi* amigo imaginario te lo prohíbe”. Si los “mandamientos” de Bob son válidos, entonces los “mandamientos” de Doug son igualmente válidos, y entonces pueden cancelarse entre sí.
 
 In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
 
