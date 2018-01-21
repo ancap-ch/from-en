@@ -60,7 +60,7 @@ Podemos revolucionar el mundo aceptando la premisa - y la prueba - de que robar 
 
 Cuando tomamos la infraestructura UPB y la aplicamos a las premisas morales de acuerdo con el gobierno y la religión, obtenemos algunos resultados muy interesantes.
 
-La premisa que es usada de manera más frecuente para justificar el poder del gobierno es: “el gobierno tiene derecho a quitarle su dinero”. Esto, de todas maneras, es una afirmación completamente imprecisa y falsa. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+La premisa que es usada de manera más frecuente para justificar el poder del gobierno es: “el gobierno tiene derecho a quitarle su dinero”. Esto, de todas maneras, es una afirmación completamente imprecisa y falsa. El “gobierno” no tiene el derecho de quitarle su dinero, ya que “el gobierno” es meramente un concepto, una descripción abstracta de un grupo de personas que se autodenominó de esa manera. UPB requiere una afirmación más contundente y objetiva. Ya que las reglas morales deben ser iguales para todos, en todos momento y lugar, debemos modificar la regla de esta manera:
 
 “*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
 
