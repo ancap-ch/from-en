@@ -6,11 +6,11 @@ De igual modo, se eu disser "eu gosto de vegetais", isso também é uma mera dec
 
 A diferença fundamental entre declarações de *preferência* e declarações de *facto* é que as declarações de facto são objectivas, testáveis e vinculativas. Se valoriza a verdade, incumbe-lhe aceitar o facto de que o sorvete contém leite, já que está comprovado.[^1]
 
-Se eu disser que a Terra é redonda, e apresentar uma grande prova para essa afirmação, já não lhe cabe a si determinar, pelo seu próprio capricho, se a afirmação é verdadeira. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Se eu disser que a Terra é redonda, e apresentar uma grande prova para essa afirmação, já não lhe cabe a si determinar, pelo seu próprio capricho, se a afirmação é verdadeira. Se eu puder provar que a Terra é redonda, então é obrigado a aceitar essa prova como verdadeira, a menos que esteja disposto a rejeitar a razão e a evidência, como critério da verdade.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+Se eu aceito a validade das leis matemáticas, não posso rejeitar, arbitrariamente, uma prova matemática conforme essas leis. Se eu *rejeitar* tal prova, já não posso reivindicar a aceitação da validade das leis matemáticas. A aceitação dessas leis significa que eu estou *obrigado* a aceitar como válidas as provas que estão conforme essas leis. A rejeição de uma prova que está conforme os padrões racionais é a rejeição dos padrões racionais como um todo.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+O método científico, a própria racionalidade e as leis matemáticas são exemplos de critérios *objectivos* para estabelecer a verdade de uma proposição. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
 
 ### Objective Truth
 
