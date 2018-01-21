@@ -34,7 +34,7 @@
 
 На самом деле, я буду ждать до скончания времен, чтобы «правительство» пришло и забрало свои деньги. Ждать пока «правительство» зайдет в гости, подобно свиданию с понятием «женственность». Я также могу попытаться заплатить за ужин словом «деньги»
 
-В действительности, когда мне говорят, что я должен заплатить свои налоги «правительству», это на самом деле означает, что я должен выписать чек на перевод своих денег на конкретный банковский счет, к которому потом имеют доступ определенные люди. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+В действительности, когда мне говорят, что я должен заплатить свои налоги «правительству», это на самом деле означает, что я должен выписать чек на перевод своих денег на конкретный банковский счет, к которому потом имеют доступ определенные люди. Затем эти люди имеют право взять эти деньги и тратить их по своему усмотрению. Таким образом, эти конкретные люди имеют полный контроль над моими деньгами.
 
 At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
 
