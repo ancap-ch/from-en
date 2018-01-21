@@ -100,10 +100,10 @@ Da mesma forma, a verdade não é apenas "melhor" do que o erro - é *infinitame
 
 Se eu argumento que os seres humanos não são responsáveis pelas suas acções, fico preso num paradoxo, que é a questão de* se eu sou ou não responsável pelo meu argumento e também se você é ou não responsável pela sua resposta*.
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+Se o meu argumento de que os seres humanos *não são* responsáveis pelas suas acções é verdadeiro, então eu não sou responsável pelo meu argumento e tu não és responsável pela tua resposta. No entanto, se eu acreditasse que tu não és responsável pela tua resposta, continuar um debate teria muito pouco sentido - seria exactamente o mesmo que argumentar com um aparelho de televisão
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+Assim, fundamentalmente, se eu disser que não és responsável pelas tuas acções, estou-te a dizer que é universalmente preferível que acredites que a preferência é impossível, pois, se não possuis controlo sobre as tuas acções, não podes escolher um estado de preferência, isto é, a verdade sobre mentira. Assim, esse argumento, como os anteriores, auto-destrói-se.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^4]: Será útil manter esta premissa particular em mente, já que será muito importante depois
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]: A questão da responsabilidade está, naturalmente, intimamente relacionada com a questão do livre arbítrio versus o determinismo, que será o tema de outro livro
