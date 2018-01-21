@@ -2,9 +2,9 @@
 
 # 生产者的成本增加不会引起价格增加
 
-A [recent EconTalk episode](http://www.econtalk.org/archives/2017/02/tom*wainwright.html), in which the host Russ Roberts interviews journalist and author Tom Wainwright of the *Economist* on his recent book *[Narconomics](https://www.amazon.com/Narconomics-How-Run-Drug-Cartel/dp/1610395832/?tag=misesinsti-20)*, illustrates how simple Econ 101 logic can be misleading. 虽然这一段很值得一听，讨论内容也有趣而详实，但在一开始最重要的部分就致力于讨论非法药品的价值这一问题。 罗伯茨和韦恩赖特一开始就陷入了讨论的困境：讨论本身就是错误的，它可能会误导听众，这说明了一个显而易见的“悖论“和作者”奇异的“观点。
+最近一[集经济学播客](http://www.econtalk.org/archives/2017/02/tom*wainwright.html)中，由主办人罗伯茨.拉斯关于*经济学家*汤姆.韦恩赖特最近的一本书<1>毒品经济学</a></1>采访了记者和作者本人，此书详细阐述了简单的经济学101逻辑是如何被误导的。 虽然这一段很值得一听，讨论内容也有趣而详实，但在一开始最重要的部分就致力于讨论非法药品的价值这一问题。 罗伯茨和韦恩赖特一开始就陷入了讨论的困境：讨论本身就是错误的，它可能会误导听众，这说明了一个显而易见的“悖论“和作者”奇异的“观点。
 
-韦恩赖特的观点是这么说的：政府致力于缩减非法药品的供给不会影响预期价格。 他用画图的例子来说明这一点，事实上这个例子比他认为的还要好。 Here’s his example: If the paint used to produce a painting costs $50 and a certain painting is sold at the price of $1,000,000, then raising the cost of a box of paint by 100 percent to $100 should also double the price of paintings — the next painting should be expected to be sold for $2,000,000. But it does not, the price of this painter’s next painting may still be $1,000,000, or, to reflect the increased cost, $1,000,050.
+韦恩赖特的观点是这么说的：政府致力于缩减非法药品的供给不会影响预期价格。 他用艺术品的例子来说明这一观点，事实上这个例子比他认为的还要好。 他所说的例子是这样的：如果涂料被用于制作出一幅画，这幅画的成本是50美金，这幅画售价在100万美金，假设将一盒涂料的价格增加100%，这幅画的成本是100美金，那么这幅画的价格也会翻倍——下一副画将预期售价为200万美金。 But it does not, the price of this painter’s next painting may still be $1,000,000, or, to reflect the increased cost, $1,000,050.
 
 The example illustrates the paradox in what is going on in the illegal drug “business” and, specifically, why government’s attempts to affect the supply have not worked. As argued by Wainwright, even partially successful measures to cut back on supply has not increased final prices for consumers (which was partly the stated rationale). This interesting and unexpected result suggests government should instead “invest” in reducing demand for illegal drugs.
 
