@@ -149,13 +149,13 @@ b. Anumang mga pagkakaayos, mga pagkakaintindihan, o mga kasunduan ukol sa Mater
 
 ### Ika-8 na Seksyon - Interpretasyon.
 
-a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
+a. Para sa pag-iwas ng pagdadalawang-isip, ang Lisensiyang Pampublikong ito ay hinding-hindi, at dapat hindi na nai-interpret sa, pag-redyus ng limit, pag-restrik, o pagpapataw ng mga kondisyon sa anumang paggamit sa Materyal na Lisensyado na maaaring magawa ng makatarungan na walang permisyon sa ilalim ng Lisensiyang Pampublikong ito.
 
-b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+b. Sa ekstentong posible, kung anumang probisyon sa Lisensiyang Pampublikong ito ay tinuturing na hindi na maiisakatuparan, ito ay maaaring ma-awtomatikong mapagreporma sa ekstentong minimo na kinakailangan nang sa ganin ito ay magiging maiisakatapuran. Kung ang probisyon ay hindi maaaring mareporma, ito ay dapat nang putulin mula sa Lisensiyang Pampublikong ito na hindi nakaka-apekto sa pagkaka-sakatuparan sa natitirang mga termino at mga kondisyon.
 
-c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
+c. Walang termino o kondisyon sa Lisensiyang Pampublikong ito na mai-i-waive at walang pagpalya sa pagko-komplay na kinokonsente maliban nalang ko ito ay nagpakasunduan na inekspres ng Tagapagpapalisensiya.
 
-d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
+d. Walang bagay sa Lisensiyang Pampublikong ito ay nagkokonstityut o maaaring mapag-interpret bilang isang limistasyon sa, o waiver ng, anumang mga prebilihiyo at mga immunidad na maa-aplay sa Tagapagpapalisensiya o sa Iyo, kasama mula sa mga prosesong legal ng anumang hurisdjkasyon o awtoridad.
 
 > Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
 > 
