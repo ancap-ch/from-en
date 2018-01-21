@@ -54,13 +54,13 @@ No es un delito cometer suicidio, ni tampoco lo es prender en fuego tu propia ca
 
 Así podemos razonablemente decir que la auto posesión exclusiva es una realidad básica - que todos los seres humanos en todo momento y en todo lugar tienen propiedad exclusiva sobre sus propios cuerpos, y así tienen la propiedad exclusiva sobre los efectos de sus cuerpos, tanto en términos de comportamiento moral y creación de propiedad o adquisición.
 
-### The Grey Areas
+### Las Zonas Grises
 
-Naturally, any statement such as the above brings the inevitable howls of “complexity,” which I fully agree with.
+Naturalmente, cualquier declaración como la anterior trae gritos de "complejidad" inevitables, con los que estoy totalmente de acuerdo.
 
-Let us say that I mean to give you five dollars as a gift, but by mistake I hand you a ten dollar bill, saying, “This is for you.” Few people would consider it theft if I said, the moment after I handed it to you: “Sorry, I meant to give you five dollars, not ten,” and took the larger note back, even though I am taking back property that I have voluntarily relinquished.
+Digamos que planeo darte cinco dolares como regalo, pero por error te doy un billete de diez dolares, diciendo "Esto es para ti". Pocas personas considerarían esto como robo si yo dijese, al momento después de habértelo dado: "Disculpa, quise darte cinco dolares, no diez", y agarrar de vuelta el billete con mayor denominación, aun yo esté tomando una propiedad que voluntariamente había concedido.
 
-On the other extreme, if you are one of my sons, and I pay for your university education, and explicitly tell you that you never need to pay me back, my generosity will doubtless affect your spending habits. It would scarcely seem reasonable for me to clap my forehead after your graduation ceremony and cry, “Oh, I thought you were one of my *other* sons!” and demand repayment.
+En el otro extremo, si eres uno de mis hijos, y pago por tu educación universitaria, y te digo explícitamente que no necesitas pagarme nunca de vuelta, mi generosidad sin duda afectará tus hábitos para gastar. It would scarcely seem reasonable for me to clap my forehead after your graduation ceremony and cry, “Oh, I thought you were one of my *other* sons!” and demand repayment.
 
 Similarly, it is generally accepted that children cannot enter into legal contracts, but that adults can. In many societies, the differentiating age is eighteen years. This means, of course, that at the stroke of midnight between a man’s seventeenth year and eighteenth birthday, his capacity to enter into legal contracts arrives fully formed. Has he gone through some massive biological transformation in that split second? Certainly not, although at eighteen he is biologically very different than he was at the age of ten, both in terms of physical and mental development.
 
