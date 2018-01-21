@@ -90,9 +90,9 @@ Sin embargo, cuando tomas posesión de una de mis cortadoras de césped, desafor
 
 El problema con cualquier teoría que argumente a favor de menos del cien por ciento de derechos de propiedad es que crea al instante un "efecto dominó" de regresión infinita, donde todo el mundo termina con una porción infinitamente pequeña de sus derechos de propiedad sobre cualquier cosa, lo cual es claramente imposible. Así debe ser el caso - tanto lógicamente y prácticamente - que tenemos propiedad completa sobre nuestros propios cuerpos, y sobre los efectos de nuestros cuerpos, en términos de propiedad externa. No necesitamos una teoría casera, u otros enfoques de "adquisición justa" para justificar derechos de propiedad - están justificados porque cualquiera que actúe de cualquier forma - incluyendo argumentar - está axiomáticamente ejercitando cien por ciento el control sobre su cuerpo, y "colonizando" tanto el oxígeno y ondas de sonido para hacer su caso.
 
-Thus, by combining this axiomatic reality with UPB, we can easily understand that since anyone debating property rights is exercising one hundred percent control over his own property, the only question is whether or not property rights vary from individual to individual – a question definitively settled by the axiomatic fact of self-ownership, as well as the UPB framework. Any moral proposition must be universal and consistent, and this is how we also know that *everyone* has one hundred percent property rights.
+Así, combinando esta realidad axiomática con CUP, podemos entender fácilmente que puesto cualquiera debatiendo sobre los derechos de propiedad está ejercitando el cien por ciento del control sobre su propiedad, la única cuestión es si los derechos de propiedad varían o no de un individuo a otro - una pregunta colocada definitivamente por el hecho axiomático de auto propiedad, así como el marco CUP. Cualquier proposición moral debe ser universal y consistente, y así es como también sabemos que *todos* tienen cien por ciento de derechos de propiedad.
 
-Any other possibility is logically and empirically impossible.
+Cualquier otra posibilidad es lógica y empíricamente imposible.
 
 ### Testing "Theft"
 
