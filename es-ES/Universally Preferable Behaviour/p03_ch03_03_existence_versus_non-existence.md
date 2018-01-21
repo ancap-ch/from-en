@@ -88,13 +88,13 @@ Si este cobrador de impuestos entonces asegura que su concepto llamado “el gob
 
 #### UPB And "The Majority"
 
-UPB no permite que un grupo de individuos ignoren o refuten las propiedades de cada individuo. Diez leones no hacen un elefante, un gobierno, o un dios. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
+UPB no permite que un grupo de individuos ignoren o refuten las propiedades de cada individuo. Diez leones no hacen un elefante, un gobierno, o un dios. Diez mil soldados pueden constituir un “ejército”, pero no pueden revertir la gravedad o hacer que el asesinato sea algo ético.
 
-Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
+Regresando una última vez a Bob y a Doug, conozcamos a “Jane”
 
-Now that there are three people in the room, we can look at the “majority rule” principle.
+Ahora que hay tres personas en la habitación, podemos observar el principio “la mayoría manda”.
 
-If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
+Si Bob, Doug y Jane “votan” si es algo ético o no violar a Jane, nos repugnará una premisa tan injusta e inmoral. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
 
 Why not?
 
