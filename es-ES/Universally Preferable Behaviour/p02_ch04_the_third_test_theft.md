@@ -76,13 +76,13 @@ Así CUP nos da opciones claras con respecto a los derechos de propiedad. No pue
 
 Tampoco puede ser el caso de que los hombre sólo tienen cincuenta por ciento de derechos de propiedad.
 
-Si yo argumento: "Los hombres sólo tienen cincuenta por ciento de derechos de propiedad", entonces estoy creando otra insufrible contradicción. Usted podría preguntarme qué mitad de mi oración *no* fue generada por mi. If I only have fifty percent property rights, then clearly I only have fifty percent control over my own body – if I put forward the above sentence, then clearly I am only in control of fifty percent of that sentence, since I only have fifty percent control over my voice. Who, then, is responsible for the other fifty percent of my sentence?
+Si yo argumento: "Los hombres sólo tienen cincuenta por ciento de derechos de propiedad", entonces estoy creando otra insufrible contradicción. Usted podría preguntarme qué mitad de mi oración *no* fue generada por mi. Si yo sólo tengo cincuenta por ciento de derechos de propiedad, entonces claramente sólo tengo cincuenta por ciento de control sobre mi cuerpo - si pongo por delante la oración anterior, entonces claramente sólo estoy en control sobre el cincuenta por ciento de esa oración, puesto que sólo tengo cincuenta por ciento de control sobre mi voz. Entonces, ¿quién es responsable del otro cincuenta por ciento de mi oración?
 
-This may sound esoteric, but it is a deadly serious question, for reasons that we will get to shortly.
+Esto puede sonar esotérico, pero es una pregunta bastante seria, debido a razones que dentro de poco llegaremos.
 
-Let us say that we can somehow magically bypass the “fifty percent ownership of the body” problem, and say that human beings only have fifty percent property rights when it comes to *external* objects.
+Digamos que mágicamente podemos de alguna manera sobrepasar el problema del "cincuenta por ciento de la propiedad del cuerpo", y decir que los seres humanos sólo tienen cincuenta por ciento de derechos de propiedad cuando se trata de objetos *externos*.
 
-How does that work in practice?
+¿Cómo funciona eso en la práctica?
 
 Well, if I have two lawnmowers and you have none, then clearly it would be logical for you to have the right to take one of my lawnmowers, since I can only ever own half of my lawnmower collection.
 
