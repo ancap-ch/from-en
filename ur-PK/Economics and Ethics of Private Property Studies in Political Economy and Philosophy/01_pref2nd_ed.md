@@ -1,4 +1,4 @@
-## Preface to the Second Edition
+## دیباچہ کے دوسرے ایڈیشن کی طرف
 
 معاشیات اور اخلاقیات کی نجی املاک *کا پہلا ایڈیشن سال 1993 میں چھاپہ گیا، کیی سال تک چھپایی سے باہر رہا. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.</p> 
 
