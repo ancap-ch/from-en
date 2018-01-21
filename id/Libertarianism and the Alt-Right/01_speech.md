@@ -328,7 +328,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                             
                             <fn name="11">
                               <p>
-                                Which, of course, was the reason for having invited them here.
+                                Yang mana, pastinya sebuah alasan untuk mengundang mereka kesini.
                               </p>
                             </fn>
                             
