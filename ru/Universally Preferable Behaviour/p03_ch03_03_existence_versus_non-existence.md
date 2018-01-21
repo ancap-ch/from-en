@@ -8,7 +8,7 @@
 
 Религиозные и государственные мифологии - это вымыслы, которые значительно снижают затраты на контроль над населением; они являются смазкой и топливом для ужасного механизма институционализированного насилия.
 
-Во всем мире правители составляют весьма небольшой процент населения. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Во всем мире правители составляют весьма небольшой процент населения. Как могут один-два процента людей контролировать всех остальных? Конечно, существует определенная монополия на вооружения, но этой монополии относительно легко противодействовать, поскольку большинство правительств зарабатывают состояния, продавая оружие по всему миру.
 
 The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
 
