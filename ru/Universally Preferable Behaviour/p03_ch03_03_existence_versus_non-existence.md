@@ -36,7 +36,7 @@
 
 В действительности, когда мне говорят, что я должен заплатить свои налоги «правительству», это на самом деле означает, что я должен выписать чек на перевод своих денег на конкретный банковский счет, к которому потом имеют доступ определенные люди. Затем эти люди имеют право взять эти деньги и тратить их по своему усмотрению. Таким образом, эти конкретные люди имеют полный контроль над моими деньгами.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+Ни при каких условиях такая организация, как «правительство», не поднимет палец, не сделает движения, не откроет счет в банке, не потратит ни копейки. Воображать, что понятие под названием «правительство» обладает способностью принять или потратить ваши деньги, то же самое, что и ждать, пока «Бог» заедет за вами и отвезет вас в церковь.
 
 Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
 
