@@ -82,7 +82,7 @@ La afirmación: “Usted debe obedecerme porque Dios así lo manda”, debe ser 
 
 Aquí vemos los mismos inconvenientes que más arriba. Bob le dice a Doug: “Debes darme tu chispero, porque mi amigo imaginario te dice que lo hagas”. Naturalmente, Doug le responde: “Tú no debes pedirme mi chispero porque *mi* amigo imaginario te lo prohíbe”. Si los “mandamientos” de Bob son válidos, entonces los “mandamientos” de Doug son igualmente válidos, y entonces pueden cancelarse entre sí.
 
-In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
+De la misma manera, si un hombre asegura que si su concepto llamado “el gobierno” justifica que robe mi propiedad, entonces yo puedo asegurar que mi concepto llamado “el anti-gobierno” justifica que yo *retenga* mi propiedad, y las justificaciones de ambos serán igualmente “válidas”.
 
 If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
 
