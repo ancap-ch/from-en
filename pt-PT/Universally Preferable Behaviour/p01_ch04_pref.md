@@ -86,9 +86,9 @@ Se eu disser que gosto de sorvete de chocolate, e tu disseres que gostas de baun
 
 #### Premissa 7: O Debate Pacífico é a Melhor Maneira de Resolver Litígios
 
-Se eu disser que o mundo é plano, e tu apontas-me uma arma e atiras, isso dificilmente, seria um exemplo de um debate produtivo. É certo, o nosso desacordo teria sido "resolvido" - mas só porque, no fim, apenas um de nós ficou de pé.
+Se eu dissesse que o mundo é plano, e tu me apontasses uma arma e atirasses, isso dificilmente, seria um exemplo de um debate produtivo. É certo, o nosso desacordo teria sido "resolvido" - mas só porque, no fim, apenas um de nós teria ficado de pé.
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Se me tivesses advertido, antecipadamente, que a tua forma de lidar com qualquer desacordo era atirando, o mais provável é que eu nunca teria aceitado participar num debate contigo. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
 
 In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
 
