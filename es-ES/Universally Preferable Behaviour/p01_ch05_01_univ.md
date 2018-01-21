@@ -38,13 +38,13 @@ Debemos tomar el mismo acercamiento al definir y comunicar la *moralidad*. Debem
 
 Para empezar desde el inicio mismo... ¿son las reglas morales – o comportamientos humanos universalmente preferibles – válidos en lo absoluto?
 
-There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
+Solo hay dos posibilidades cuando se trata de reglas morales, tal como las hay en cualquier ciencia lógica. O las reglas morales universales son válidas, o no lo son[^6]
 
-A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
+Una regla puede ser válida si *existe empíricamente*, como la gravedad, o porque es *cierta*, como la ecuación de dos más dos es igual a cuatro.
 
-We must then first ask: do moral rules exist at all?
+Debemos preguntarnos primero entonces: ¿Existen las reglas morales en primer lugar?
 
-Certainly not in material reality, which does not contain or obey a single moral rule. Moral rules are different from the rules of physics, just as the scientific method is different from gravity. Matter innately obeys gravity or the second law of thermodynamics, but “thou shalt not murder” is nowhere inscribed in the nature of things. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. A theory of gravity proves that if you push a man off a cliff, he will fall. It will not tell you whether you *should* push him or not.
+Ciertamente no en la realidad material, la cual no contiene u obedece ninguna regla moral. Las reglas morales son diferentes de las reglas de la física, tal como el método científico es diferente de la gravedad. La materia obedece de manera innata a la gravedad o a la segunda ley de la termodinámica, pero "no cometerás asesinatos" no está inscrito en ningún lugar en la naturaleza de las cosas. Las leyes físicas *describen* el comportamiento de la materia, pero no la contienen en una sola *prescripción*. La ciencia dice que la materia *sí* se comporta de cierta manera –no que se *debería* comportar de cierta manera. Una teoría de la gravedad demuestra que si empujas a un hombre de un risco, él caerá. No te dirá si *deberías* o no empujarlo.
 
 Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
 
