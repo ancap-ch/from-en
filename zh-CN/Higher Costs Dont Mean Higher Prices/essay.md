@@ -18,7 +18,7 @@
 
 What this means is that entrepreneurs assume (*choose*, even) costs based on the anticipated revenue of their imagined product. 生产高成本的昂贵产品的原因是，以预期价格销售能够覆盖那些高成本。 这并不是意味着，企业家因其乐趣而选择高成本，而是他们根据预期价格促使一定水平的成本—而价格实际上是取决于消费者对最终产品的估价。
 
-在不完全竞争市场中，这意味着可以有向企业家提供巨额利润的高溢价。 But this is also what lures other entrepreneurs to enter this particular market, so where there are no significant barriers to entry profits will tend to get squeezed until they reach the standard market rate of return. In this process, costs are pushed down but consumer good prices even more so, thereby making consumers the ultimate winners of this process.
+在不完全竞争市场中，这意味着可以有向企业家提供巨额利润的高溢价。 但是，这也会吸引其他企业家进入这一特定市场，在进入这一市场没有重大障碍下，利润会被压缩，直到达到规范市场的收益率。 在这个过程中，成本会被压低，消费者有着更好的价格，从而消费者成为这一过程中最终赢家。
 
 So it is not in any sense a paradox that the market price of a box of paint has very little to do with the final price of the painting. The box of paint is traded in the market at a price that partly is derived from the anticipated value of paintings. Similarly, the coca leaves that will eventually end up in a nostril on Wall Street *are valued because the end product is valued.*
 
