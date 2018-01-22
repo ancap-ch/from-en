@@ -20,7 +20,7 @@ Uma razão central que sabemos que os governos e os deuses são desnecessários 
 
 . A lógica da obediência à mitologia é manifestamente tola. Se um sacerdote me diz que tenho que obedecer "Deus", isso é exatamente o mesmo que ele me diz que devo obedecer a uma entidade chamada "Nog". Mesmo que eu aceite que essa entidade ficcional é digna de obediência eterna, isso ainda de forma alguma obrigaria-me a obedecer * o padre *. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
-Of course not.
+Claro que não.
 
 When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
 
@@ -102,7 +102,7 @@ Well, UPB does not recognise the reality of aggregations, since the “majority�
 
 To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
 
-Of course not.
+Claro que não.
 
 Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
 
