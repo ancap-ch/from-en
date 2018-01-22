@@ -8,7 +8,7 @@
 
 这个例子说明了在非法药品“交易”中的矛盾是怎么回事，特别是说明了为什么政府试图影响供给量却没有效果。 正如韦恩赖特所说的，就算成功实施措施缩减了供给量，消费者最终价格也不会增加（这是部分所述理由）。 这有趣而出乎预料的结果表明，政府应该“投资”在减少对非法药品的需求量上。
 
-依赖于用在大学新生经济学101课程中简单的供求关系模型的均衡分析这一论据有问题。 实际上，它并不适用于这里。 Had the paintings or illegal drugs markets been in equilibrium, there might indeed be a paradox. But this is hardly the case, *especially* in these markets.
+依赖于用在大学新生经济学101课程中简单的供求关系模型的均衡分析这一论据有问题。 实际上，它并不适用于这里。 画或是非法药品市场处于均衡状态可能确是是一个悖论。 几乎不可能有这样的情况，*尤其是*在这些市场中。
 
 Also, in a state of equilibrium costs perfectly reflect social opportunity costs, and “perfect” competition brings price and cost together so that no one is able to make economic profits. In other words, there is no difference between price and cost. There is, consequently, no reason to in this theory distinguish between them temporally or causally — they appear to be determined instantaneously and accurately. This is also how they are treated in various economics models that students learn to “maximize.”
 
