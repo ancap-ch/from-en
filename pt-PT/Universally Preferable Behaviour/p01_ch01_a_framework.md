@@ -26,13 +26,13 @@ A verdade também tem valor em relação à necessidade. A física newtoniana fo
 
 Consequentemente, a frase "a física newtoniana é menos precisa do que a física einsteiniana, mas a física newtoniana é a melhor maneira de calcular o trajecto de um navio" pode ser considerada uma proposição válida. Portanto a física newtoniana é *menos precisa* e *mais apropriada*.
 
-Se quiséssemos beber a água mais pura possível, provavelmente teríamos que pagar milhares de dólares por garrafa. A menos que fôssemos enormemente ricos e altamente frívolos, nunca pagaríamos tanto para saciar a nossa sede. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+Se quiséssemos beber a água mais pura possível, provavelmente teríamos que pagar milhares de dólares por garrafa. A menos que fôssemos enormemente ricos e altamente frívolos, nunca pagaríamos tanto para saciar a nossa sede. É verdade que a água pura é melhor para nós, mas o preço que a pureza requer atinge um limiar de retornos decrescentes. Assim, "mais pura é melhor" dá lugar a "mais pura é pior"
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+Novamente, isso não significa que a pureza da água seja totalmente subjectiva. A água destilada é sempre mais potável do que a água do mar.
 
-#### Truth And Objective Reality
+#### Verdade E Realidade Objectiva
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+O conceito de *verdade* envolve necessariamente o conceito de *precisão*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
 
 What, then, is the “bull’s-eye” of truth?
 
