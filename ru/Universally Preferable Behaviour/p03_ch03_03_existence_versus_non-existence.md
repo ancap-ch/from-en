@@ -88,7 +88,7 @@
 
 #### UPB And "The Majority"
 
-UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
+УПП не позволяет сборищам людей переопределеять или изменять собственность каждого человека. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
 
 Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
 
