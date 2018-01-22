@@ -36,7 +36,7 @@ Na realidade, vou esperar até o fim dos tempos para "o governo" vir e pegar seu
 
 Na realidade, quando me dizem que devo pagar meus impostos para "o governo", o que isso realmente significa é que devo escrever um cheque para transferir meu dinheiro para uma determinada conta bancária, que é acessada por indivíduos particulares. Esses indivíduos então têm o direito de tomar esse dinheiro e gastá-lo como acharem conveniente - esses indivíduos particulares, portanto, têm controle total sobre meu dinheiro.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+Em nenhum momento, qualquer entidade como "o governo" levantar um dedo, fazer um movimento, abrir uma conta bancária ou gastar um centavo. Imaginando que um conceito chamado "o governo" tem a capacidade de levar ou gastar seu dinheiro é exatamente o mesmo que esperar que "Deus" venha buscá-lo e levá-lo para a igreja.
 
 Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
 
