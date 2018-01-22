@@ -34,7 +34,7 @@ Despojado da mitologia, para o que isso realmente se traduz?
 
 Na realidade, vou esperar até o fim dos tempos para "o governo" vir e pegar seu dinheiro. Esperar que "o governo" caia é como querer namorar o conceito de "feminilidade". Posso também tentar pagar o meu jantar com a palavra "dinheiro"
 
-Na realidade, quando me dizem que devo pagar meus impostos para "o governo", o que isso realmente significa é que devo escrever um cheque para transferir meu dinheiro para uma determinada conta bancária, que é acessada por indivíduos particulares. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+Na realidade, quando me dizem que devo pagar meus impostos para "o governo", o que isso realmente significa é que devo escrever um cheque para transferir meu dinheiro para uma determinada conta bancária, que é acessada por indivíduos particulares. At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny.
 
 At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
 
