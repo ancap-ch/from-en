@@ -14,7 +14,7 @@
 
 # 价格驱动成本—而不是成本驱动价格
 
-As we know, however, the real market process is driven by *entrepreneurship* and market actors are not just responsive agents. Entrepreneurs do not live in equilibrium, and they base their business decisions on their own appraisal of the different actions and their imagined outcomes. In this real market, price drives cost  — not the other way around. Indeed, Carl Menger noted that the value of any production good is derived from consumers’ valuation of the consumption goods that it produces, not the other way around. This is also core to for example Mises’s argument about economic calculation.
+正如我们所知道的，虽然现实中市场过程是由*企业家能力*所驱动的，市场参与者不仅仅是响应的作用者。 企业家能力在均衡中是不存在的，他们把自己的商业决策建立在不同的行为评价和他们想象的结果中。 在真实的市场中，价格驱动成本—而不是成本驱动价格。 Indeed, Carl Menger noted that the value of any production good is derived from consumers’ valuation of the consumption goods that it produces, not the other way around. This is also core to for example Mises’s argument about economic calculation.
 
 What this means is that entrepreneurs assume (*choose*, even) costs based on the anticipated revenue of their imagined product. The reason an expensive good is produced at high cost is that those high costs can be covered by the anticipated price that it can be sold for. It doesn’t mean that entrepreneurs choose high costs for the fun of it, but that they motivate a certain level of costs based on the anticipated price — and that price is really dependent only on consumer valuation of the final good.
 
