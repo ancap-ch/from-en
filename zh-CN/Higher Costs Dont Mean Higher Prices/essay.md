@@ -4,7 +4,7 @@
 
 最近一[集经济学博客](http://www.econtalk.org/archives/2017/02/tom*wainwright.html)，由主办人罗伯茨.拉斯关于*经济学家*汤姆.韦恩赖特最近的一本书*[毒品经济学](https://www.amazon.com/Narconomics-How-Run-Drug-Cartel/dp/1610395832/?tag=misesinsti-20)*采访了记者和作者本人，此书详细阐述了简单的经济学101逻辑是如何被误导的。 虽然这一集很值得一听，讨论的内容也有趣而详实，但是在一开始最重要的部分就致力于讨论非法药品价格这一问题。 罗伯茨和韦恩赖特一开始就陷入了讨论的困境：讨论本身就是错误的，它可能会误导听众，这说明它是一个显而易见的“悖论“，也是作者“奇异”的观点。
 
-韦恩赖特的观点是这么说的：政府致力于缩减非法药品的供给是不会影响预期价格。 他用艺术品的例子来说明这一观点，事实上这个例子比他认为的还要好。 他的例子是这样的：如果涂料被用于制作出一幅画，这幅画的成本是50美金，这幅画售价在100万美金，假设将一盒涂料的价格增加100%，这幅画的成本是100美金，那么这幅画的价格也会翻倍—下一副画将预期售价为200万美金。 但是事实并非如此，这个画家下一副画的价格可能仍然是100万美金，反映出已增加的花费是1,000,050美金。
+韦恩赖特的观点是这么说的：政府致力于缩减非法药品的供给是不会影响预期价格。 他用艺术品的例子来说明这一观点，事实上这个例子比他认为的还要好。 Here’s his example: If the paint used to produce a painting costs $50 and a certain painting is sold at the price of $1,000,000, then raising the cost of a box of paint by 100 percent to $100 should also double the price of paintings — the next painting should be expected to be sold for $2,000,000. 但是事实并非如此，这个画家下一副画的价格可能仍然是100万美金，反映出已增加的花费是1,000,050美金。
 
 这个例子说明了在非法药品“交易”中的矛盾是怎么回事，特别是说明了为什么政府试图影响供给量却没有效果。 正如韦恩赖特所说的，就算成功实施措施缩减了供给量，消费者最终价格也不会增加（这是部分所述理由）。 这有趣而出乎预料的结果表明，政府应该“投资”在减少对非法药品的需求量上。
 
@@ -16,11 +16,11 @@
 
 正如我们所知道的，虽然现实中市场过程是由*企业家能力*所驱动的，市场参与者不仅仅是响应的作用者。 企业家能力在均衡中是不存在的，他们把自己的商业决策建立在不同的行为评价和他们想象的结果中。 在真实的市场中，价格驱动成本—而不是成本驱动价格。 实际上，卡尔.门格尔指出，任何产品生产的价值都是来自消费者对生产消费品的价值评定，而不是消费者对生产消费品的价值评定来自于产品生产的价值。 例如，这也是米塞斯对经济核算论证的核心。
 
-What this means is that entrepreneurs assume (*choose*, even) costs based on the anticipated revenue of their imagined product. 生产高成本的昂贵产品的原因是，以预期价格销售能够覆盖那些高成本。 这并不是意味着，企业家因其乐趣而选择高成本，而是他们根据预期价格促使一定水平的成本—而价格实际上是取决于消费者对最终产品的估价。
+这意味着企业家假设的（甚至*选择*）成本价格是基于他们想象的产品预期收益。 生产高成本的昂贵产品的原因是，以预期价格销售能够覆盖那些高成本。 这并不是意味着，企业家因其乐趣而选择高成本，而是他们根据预期价格促使一定水平的成本—而价格实际上是取决于消费者对最终产品的估价。
 
 在不完全竞争市场中，这意味着可以有向企业家提供巨额利润的高溢价。 但是，这也会吸引其他企业家进入这一特定市场，在进入这一市场没有重大障碍下，利润会被压缩，直到达到规范市场的收益率。 在这个过程中，成本会被压低，消费者有着更好的价格，从而消费者成为这一过程中最终赢家。
 
-So it is not in any sense a paradox that the market price of a box of paint has very little to do with the final price of the painting. The box of paint is traded in the market at a price that partly is derived from the anticipated value of paintings. Similarly, the coca leaves that will eventually end up in a nostril on Wall Street *are valued because the end product is valued.*
+所以，一盒颜料的市场价格与一副画的最终价格几乎没有关系，从任何意义上来说它都不是一个悖论。 The box of paint is traded in the market at a price that partly is derived from the anticipated value of paintings. Similarly, the coca leaves that will eventually end up in a nostril on Wall Street *are valued because the end product is valued.*
 
 If government burns half of those fields, this will not lead to a doubling of the final good’s price. Instead, it will increase the costs that need to be covered by producers to make the final good available in consumer markets. As margins are enormous in illegal drug production and distribution, primarily as a result of government repression, producers don’t think twice to continue just like before without changing prices: it only causes a small dent in their income.
 
