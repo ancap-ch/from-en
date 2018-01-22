@@ -64,7 +64,7 @@
 
 “*Люди могут морально брать деньги у других людей, если они создадут некое концептуальное агентство, которое оправдает их действия.*”
 
-If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
+Если мы вернемся к Бобу и Дагу в нашу маленькую комнату моральных экспериментов, мы сможем очень быстро убедиться, что такой тезис быстро станет невозможным.
 
 If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
 
