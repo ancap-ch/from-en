@@ -16,7 +16,7 @@
 
 正如我们所知道的，虽然现实中市场过程是由*企业家能力*所驱动的，市场参与者不仅仅是响应的作用者。 企业家能力在均衡中是不存在的，他们把自己的商业决策建立在不同的行为评价和他们想象的结果中。 在真实的市场中，价格驱动成本—而不是成本驱动价格。 实际上，卡尔.门格尔指出，任何产品生产的价值都是来自消费者对生产消费品的价值评定，而不是消费者对生产消费品的价值评定来自于产品生产的价值。 例如，这也是米塞斯对经济核算论证的核心。
 
-What this means is that entrepreneurs assume (*choose*, even) costs based on the anticipated revenue of their imagined product. The reason an expensive good is produced at high cost is that those high costs can be covered by the anticipated price that it can be sold for. It doesn’t mean that entrepreneurs choose high costs for the fun of it, but that they motivate a certain level of costs based on the anticipated price — and that price is really dependent only on consumer valuation of the final good.
+What this means is that entrepreneurs assume (*choose*, even) costs based on the anticipated revenue of their imagined product. 生产高成本的昂贵产品的原因是，以预期价格销售能够覆盖那些高成本。 It doesn’t mean that entrepreneurs choose high costs for the fun of it, but that they motivate a certain level of costs based on the anticipated price — and that price is really dependent only on consumer valuation of the final good.
 
 In imperfect markets, this means there can be high markups that offer entrepreneurs enormous profits. But this is also what lures other entrepreneurs to enter this particular market, so where there are no significant barriers to entry profits will tend to get squeezed until they reach the standard market rate of return. In this process, costs are pushed down but consumer good prices even more so, thereby making consumers the ultimate winners of this process.
 
