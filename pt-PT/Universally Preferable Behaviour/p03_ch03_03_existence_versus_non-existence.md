@@ -28,9 +28,9 @@ Tomemos como exemplo um perigo muito real e presente: a tributação.
 
 #### Tributação
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+. Fui informado que em virtude de escolher viver no Canadá, devo ao governo "mais de cinquenta por cento da minha renda.
 
-Stripped of mythology, what does this really translate to?
+Despojado da mitologia, para o que isso realmente se traduz?
 
 In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
 
