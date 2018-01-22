@@ -1,6 +1,6 @@
-供求曲线相交的标准经济模型的表明：一个商品的均衡数量（或最优数量）和均衡价格（或最优价格），这一标准的经济模型却有一定的局限性。 作为奥地利人都非常清楚，这些局限是由于不切实际的假设。 脱离现实世界的假设无非是不可行的，尤其是如果用模型来解释与假设不相符的现实世界。 The application of the simplified models, which indeed reveal important facts about how the economy works, tend to lead many economists astray.
+供求曲线相交的标准经济模型的表明：一个商品的均衡数量（或最优数量）和均衡价格（或最优价格），这一标准的经济模型却有一定的局限性。 作为奥地利人都非常清楚，这些局限是由于不切实际的假设。 脱离现实世界的假设无非是不可行的，尤其是如果用模型来解释与假设不相符的现实世界。 简化的经济模型往往揭示了关于经济是如何运行的重要事实，应用简化的经济模型导致许多经济学家误入歧途。
 
-# Increasing Costs to Producers Does Not Increase Prices 
+# 生产者成本的增加不会引起价格上升
 
 A [recent EconTalk episode](http://www.econtalk.org/archives/2017/02/tom*wainwright.html), in which the host Russ Roberts interviews journalist and author Tom Wainwright of the *Economist* on his recent book *[Narconomics](https://www.amazon.com/Narconomics-How-Run-Drug-Cartel/dp/1610395832/?tag=misesinsti-20)*, illustrates how simple Econ 101 logic can be misleading. While the episode is well worth listening to and the discussion is both interesting and informative, a significant portion in the beginning is dedicated to discussing the issue of the price of illegal drugs. Noting an apparent “paradox” and the author’s “fantastic” argument, Roberts and Wainwright embark on and get stuck in a discussion that is fundamentally flawed and therefore may delude listeners.
 
