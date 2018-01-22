@@ -100,7 +100,7 @@
 
 УПП не признает реальность совокупностей, поскольку «большинство» - это просто концептуальный тег; он не существует на самом деле, не более, чем «боги» или «правительства». Таким образом, утверждение, что понятие «большинство» имеет какой-то моральный вес, совершенно не имеет силы – подобно утверждению, что «Отечество» может оплодотворить женщину, или что можно сидеть на слове «стул»
 
-To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
+Сказать, что «большинство» имеет права или преимущества, которые прямо противоречат правам или признакам какого-либо отдельного лица, также приведет к противоречию рациональным принципам, поскольку любая концептуальная группировка подтверждается только точной идентификацией отдельных характеристик. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
 
 Of course not.
 
