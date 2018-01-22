@@ -20,7 +20,7 @@
 
 在不完全竞争市场中，这意味着可以有向企业家提供巨额利润的高溢价。 但是，这也会吸引其他企业家进入这一特定市场，在进入这一市场没有重大障碍下，利润会被压缩，直到达到规范市场的收益率。 在这个过程中，成本会被压低，消费者有着更好的价格，从而消费者成为这一过程中最终赢家。
 
-所以，一盒颜料的市场价格与一副画的最终价格几乎没有关系，从任何意义上来说它都不是一个悖论。 在一定程度上，一盒颜料在市场上交易的价格是来自对画的预期价值。 Similarly, the coca leaves that will eventually end up in a nostril on Wall Street *are valued because the end product is valued.*
+所以，一盒颜料的市场价格与一副画的最终价格几乎没有关系，从任何意义上来说它都不是一个悖论。 在一定程度上，一盒颜料在市场上交易的价格是来自对画的预期价值。 同样地，古柯叶最终会被华尔街*人的鼻孔所珍视，因为它的最终产品是有价值的。*
 
 If government burns half of those fields, this will not lead to a doubling of the final good’s price. Instead, it will increase the costs that need to be covered by producers to make the final good available in consumer markets. As margins are enormous in illegal drug production and distribution, primarily as a result of government repression, producers don’t think twice to continue just like before without changing prices: it only causes a small dent in their income.
 
