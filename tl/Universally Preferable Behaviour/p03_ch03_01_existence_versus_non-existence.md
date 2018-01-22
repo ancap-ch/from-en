@@ -1,4 +1,4 @@
-## Existence Versus Non-Existence
+## Pag-iral laban sa Hindi umiiral
 
 We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
 
