@@ -8,7 +8,7 @@ It is far more efficient for exploiters to have their slaves consider slavery a 
 
 As mitologias religiosas e estaduais então são ficções que reduzem consideravelmente os custos de controle das populações; Eles são o lubrificante e o combustível para a horrível maquinaria da violência institucionalizada.
 
-Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Em todo o mundo, os governantes são uma porcentagem muito pequena da população. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
 
 The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
 
