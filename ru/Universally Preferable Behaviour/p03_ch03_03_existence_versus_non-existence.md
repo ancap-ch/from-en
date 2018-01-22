@@ -88,11 +88,11 @@
 
 #### UPB And "The Majority"
 
-УПП не позволяет сборищам людей переопределеять или изменять собственность каждого человека. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
+УПП не позволяет сборищам людей переопределеять или изменять собственность каждого человека. Десять львов не сделают слона, правительство или бога. Десять тысяч солдат могут создать «армию», но они не могут переломить силу притяжения или сделать убийство моральным.
 
-Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
+Вернувшись в последний раз в комнату Боба и Дага, давайте представим «Джейн»
 
-Now that there are three people in the room, we can look at the “majority rule” principle.
+Теперь, когда в комнате три человека, мы можем рассмотреть принцип «большинства».
 
 If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
 
