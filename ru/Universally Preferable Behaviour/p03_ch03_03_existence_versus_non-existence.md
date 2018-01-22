@@ -66,9 +66,9 @@
 
 Если мы вернемся к Бобу и Дагу в нашу маленькую комнату моральных экспериментов, мы сможем очень быстро убедиться, что такой тезис быстро станет невозможным.
 
-Если Боб говорит Дагу: «Я представляю идеальную концепцию «ФУБАР», которая дает мне полное право забрать у тебя твою зажигалку. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
+Если Боб говорит Дагу: «Я представляю идеальную концепцию «ФУБАР», которая дает мне полное право забрать у тебя твою зажигалку. Поскольку с этого момента ты должен мне твою зажигалку, ты обязан передать ее мне, в противном случае мне придется отобрать ее силой.»
 
-What will Doug’s reaction be? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
+Какой будет реакция Дага? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
 
 As you can see, if *Bob* has the right to make up imaginary obligations and impose them on Doug, then *Doug* has the right to make up imaginary obligations and impose them on Bob. Clearly, we immediately end up in a perfect stalemate. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Virtue can thus only be enabled by vice, which is impossible – and we have opposing moral rules for two human beings in the same circumstance, which UPB instantly rejects as invalid.
 
