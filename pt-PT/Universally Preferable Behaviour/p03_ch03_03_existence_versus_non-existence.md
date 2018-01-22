@@ -2,7 +2,7 @@
 
 A idéia de que nascer cria um contrato com uma agência de ficção, que em termos práticos o torna um quase escravo para indivíduos específicos, é comum tanto à religião quanto ao estado - e uma outra agência muito mais pessoal, que falo sobre no meu primeiro livro "Na verdade: A Tirania da Ilusão"
 
-Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Sempre que um sacerdote diz: "Obedecer a Deus", o que ele realmente está dizendo é: "Obedecer-me *eu*." Como Deus não existe, qualquer mandamento que o sacerdote afirma que vem de Deus é realmente vindo do padre. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
 
 It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
 
