@@ -78,9 +78,9 @@
 
 То же самое относится к религии.
 
-The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
+Утверждение: «Вы должны повиноваться мне, потому что Бог повелевает это», следует более точно переиначить так: «сущность, которую я выдумал, приказывает вам подчиняться мне». Принцип, который подразумевает УПП, заключается в следующем: «Человеческие существа должны навязывать другим положительные обязательства и оправдывать эти обязательства в соответствии с воображаемыми сущностями»
 
-Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+Здесь мы видим те же проблемы, что и выше. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
 
 In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
 
