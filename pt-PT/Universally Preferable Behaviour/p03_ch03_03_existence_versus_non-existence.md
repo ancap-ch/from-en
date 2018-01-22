@@ -4,7 +4,7 @@ A idéia de que nascer cria um contrato com uma agência de ficção, que em ter
 
 Sempre que um sacerdote diz: "Obedecer a Deus", o que ele realmente está dizendo é: "Obedecer-me *eu*." Como Deus não existe, qualquer mandamento que o sacerdote afirma que vem de Deus é realmente vindo do padre. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. É muito mais eficiente para os exploradores que seus escravos considerem a escravidão uma virtude, uma vez que reduz enormemente os custos de controlá-los.
 
 Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
 
