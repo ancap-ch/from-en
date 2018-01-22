@@ -58,9 +58,9 @@ Quando sonhamos de noite, as nossas percepções são que as regras da "matéria
 
 Então, lógica, ciência e verdade, são impossíveis na ausência de *consistência*.
 
-Fundamentalmente, as leis da lógica derivam do comportamento da matéria e da energia, pelo menos no nível perceptivo. Se eu lhe disser que atire uma bola para cima e para baixo ao mesmo tempo, estou a pedir um impossível, que você pode provar facilmente, tentando cumprir o meu pedido. Se eu lhe pedir para arar o campo norte e o campo sul, simultaneamente, não o poderá cumprir. If I demand that you turn a rose into a donkey, my demand will never be met.
+Fundamentalmente, as leis da lógica derivam do comportamento da matéria e da energia, pelo menos no nível perceptivo. Se eu lhe disser que atire uma bola para cima e para baixo ao mesmo tempo, estou a pedir um impossível, que você pode provar facilmente, tentando cumprir o meu pedido. Se eu lhe pedir para arar o campo norte e o campo sul, simultaneamente, não o poderá cumprir. Se eu lhe exigir que transforme uma rosa num burro, a minha exigência nunca será cumprida.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+A realidade perceptiva é consistente e objectiva - e é dessa consistência e objectividade que derivamos as leis da lógica. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
 
 The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
 
