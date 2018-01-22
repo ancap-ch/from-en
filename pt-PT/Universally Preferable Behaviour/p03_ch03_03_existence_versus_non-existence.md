@@ -40,7 +40,7 @@ Em nenhum momento, qualquer entidade como "o governo" levantar um dedo, fazer um
 
 Assim, a interação real é que um homem me envia uma carta me dizendo que eu devo-lhe dinheiro. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
 
-If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
+Se eu não pagar esse rapaz, ele enviará outro rapaz para minha casa para coletar o dinheiro - mais "juros" e "cobranças"
 
 Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
 
