@@ -84,7 +84,7 @@
 
 Точно так же, если человек утверждает, что его концепция, называемая «правительство», оправдывает его отнятие моей собственности, то я могу утверждать, что моя концепция, называемая «антиправительство», оправдывает мое *удержание* моей же собственности, и мы оба одинаково «обоснованы» в наших оправданиях.
 
-If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
+Если этот сборщик налогов утверждает, что его концепция, называемая «правительство», оправдывает только его отнятие *моего* имущества, но не оправдывает мое его удержание, тогда мы не движемся никуда. Он может взять мою тысячу долларов, но затем я могу применить свою концепцию, чтобы «украсть» эти деньги назад, и, в соответствии с его моральной теорией, нам придется провести остаток вечности, отдавая и забирая эту тысячу долларов.
 
 #### UPB And "The Majority"
 
