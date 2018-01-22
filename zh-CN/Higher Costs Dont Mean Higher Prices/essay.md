@@ -10,9 +10,9 @@
 
 依赖于用在大学新生经济学101课程中简单的供求关系模型的均衡分析这一论据有问题。 实际上，它并不适用于这里。 画或是非法药品市场处于均衡状态可能确是是一个悖论。 几乎不可能有这样的情况，*尤其是*在这些市场中。
 
-同时，在达到均衡的状态下，成本完全是社会机会成本的反映，“完全”竞争市场中价格与成本结合在一起，使得任何人无法获得经济利益。 换而言之，价格与成本没有差别。 因此，在这一理论中没有理由去区分它们的时间关联和因果关系—它们可以被瞬间而准确地确定下来 This is also how they are treated in various economics models that students learn to “maximize.”
+同时，在达到均衡的状态下，成本完全是社会机会成本的反映，“完全”竞争市场中价格与成本结合在一起，使得任何人无法获得经济利益。 换而言之，价格与成本没有差别。 因此，在这一理论中没有理由去区分它们的时间关联和因果关系—它们可以被瞬间而准确地确定下来 这也是学生学的“最大化“的各种经济模型中是如何看待它们的。
 
-# Price Drives Cost  — Not the Other Way Around
+# 价格驱动成本—而不是成本驱动价格
 
 As we know, however, the real market process is driven by *entrepreneurship* and market actors are not just responsive agents. Entrepreneurs do not live in equilibrium, and they base their business decisions on their own appraisal of the different actions and their imagined outcomes. In this real market, price drives cost  — not the other way around. Indeed, Carl Menger noted that the value of any production good is derived from consumers’ valuation of the consumption goods that it produces, not the other way around. This is also core to for example Mises’s argument about economic calculation.
 
