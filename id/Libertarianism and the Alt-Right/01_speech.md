@@ -105,7 +105,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                             </li>
                             
                             <li>
-                              jangan menganggap tujuan yang berbeda;
+                              jangan menganggap sebagai tujuan yang berbeda;
                             </li>
                             
                             <li>
@@ -118,7 +118,7 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                           </ol>
                           
                           <p>
-                            Sekarang, terlepas dari kenyataan bahwa kelihatannya Tucker tidak mengikuti sarannya sendiri dalam tuduhan yang sengit dari seluruh bentuk Alternatif Kebebasan sebagai fasis pembenci kebebasan, ini merupakan desakan yang sungguh mecengangkan dari seorang Tucker. Mungkin bisa menjadi nasihat yang baik saat berhadapan dengan orang-orang yang muncul tanpa ada catatan sejarah yang jelas untuk dilacak, tetapi mereka menyerang disaat berhadapan dengan orang sepertiku yang mempunyai sejarah yang jelas dan menganggap tidak berdaya, tidak realistis, dan secara langsung kontraproduktif dalam mencapai tujuan libertarian. Apa yang saya (dan saya asumsikan orang disni juga sama) tahu dan telah bertemu dengan berbagai orang di kehidupan saya dan <em>mereka</em> menolak, yang <em>memiliki</em> perbedaan, tidak memiliki tujuan libertarian, dan <em>yang</em> membenci kebebasan sebagaimana yang dipahami oleh libertarian – dan kenapa saya <em>tidak</em> boleh menganggap orang-orang tersebut bodoh dan sebagai musuh? Dan kenapa saya <em>tidak</em> boleh benci dan <em>tidak</em> boleh menuduh disaat berhadapan dengan musuh-musuh saya?
+                            Sekarang, terlepas dari kenyataan bahwa kelihatannya Tucker tidak mengikuti sarannya sendiri dalam tuduhan yang sengit dari seluruh sayap kanan sebagai fasis pembenci kebebasan, ini merupakan desakan yang sungguh mecengangkan dari seorang Tucker. Mungkin bisa menjadi nasihat yang baik saat berhadapan dengan orang-orang yang muncul tanpa ada catatan sejarah yang jelas untuk dilacak, tetapi mereka menyerang disaat berhadapan dengan orang sepertiku yang mempunyai sejarah yang jelas dan menganggap tidak berdaya, tidak realistis, dan secara langsung kontraproduktif dalam mencapai tujuan libertarian. Apa yang saya (dan saya asumsikan orang disni juga sama) tahu dan telah bertemu dengan berbagai orang di kehidupan saya dan <em>mereka</em> menolak, yang <em>memiliki</em> perbedaan, tidak memiliki tujuan libertarian, dan <em>yang</em> membenci kebebasan sebagaimana yang dipahami oleh libertarian – dan kenapa saya <em>tidak</em> boleh menganggap orang-orang tersebut bodoh dan sebagai musuh? Dan kenapa saya <em>tidak</em> boleh benci dan <em>tidak</em> boleh menuduh disaat berhadapan dengan musuh-musuh saya?
                           </p>
                           
                           <p>
@@ -126,11 +126,11 @@ Tapi siapa yang memiliki sumber daya langka seperti milik pribadi nya dan siapa 
                           </p>
                           
                           <p>
-                            Di luar ranah khayalan egaliter, bagaimanapun di dunia nyata, libertarian harus mengedepankan <em>realistis</em> dan mengenali sejak awal, sebagaimana halnya Alternatif Kebebasan, ketidaksetaraan bukan hanya bagi individu tetapi juga perbedaan budaya sebagai <em>fakta</em> yang tidak bisa dipisahkan dari keberadaban manusia. Kita harus mengenali lebih jauh bahwa ada banyak musuh dari kebebasan yang didefinisikan oleh libertarianisme bahwa bukan kita, tapi mereka yang bertanggung jawab atas urusan dunia; bahwa banyak di bagian dunia  kontemporer, kontrol mereka terhadap populasi sangat lengkap sehingga gagasan kebebasan dan tatanan sosial libertarian hampir tidak terdengar sama sekali dan dianggap tidak terpikirkan<fnref target="18" />; dan pada dasarnya ini hanya berlaku di dunia Barat, di negara-negara Eropa Barat dan Tengah dan bagi orang-orang yang menetap di tanahnya sendiri, gagasan kebebasan berakar kuat dan musuh-musuh ini bisa ditantang secara terbuka. Dengan membatasi pertimbangan strategis kita disini hanya berlaku di dunia Barat, maka kita bisa mengidentifikasi dengan pasti sebagaimana Alternatif Kebebasan telah dilakukan dengan efektif, aktor-aktor dan para agensi ini adalah musuh-musuh utama kita.
+                            Di luar ranah khayalan egaliter, bagaimanapun di dunia nyata, libertarian harus mengedepankan <em>realistis</em> dan mengenali sejak awal, sebagaimana halnya Alternatif Kebebasan, ketidaksetaraan bukan hanya bagi individu tetapi juga perbedaan budaya sebagai <em>fakta</em> yang tidak bisa dipisahkan dari keberadaban manusia. Kita harus mengenali lebih jauh bahwa ada banyak musuh dari kebebasan yang didefinisikan oleh libertarianisme bahwa bukan kita, tapi mereka yang bertanggung jawab atas urusan dunia; bahwa banyak di bagian dunia  kontemporer, kontrol mereka terhadap populasi sangat lengkap sehingga gagasan kebebasan dan tatanan sosial libertarian hampir tidak terdengar sama sekali dan dianggap tidak terpikirkan<fnref target="18" />; dan pada dasarnya ini hanya berlaku di dunia Barat, di negara-negara Eropa Barat dan Tengah dan bagi orang-orang yang menetap di tanahnya sendiri, gagasan kebebasan berakar kuat dan musuh-musuh ini bisa ditantang secara terbuka. Dengan membatasi pertimbangan strategis kita, disini hanya berlaku di dunia Barat, maka kita bisa mengidentifikasi dengan pasti sebagaimana sayap kanan telah melakukan dengan efektif, aktor-aktor dan para agensi ini adalah musuh-musuh utama kita.
                           </p>
                           
                           <p>
-                            Mereka ialah:
+                            Mereka adalah:
                           </p>
                           
                           <ol>
