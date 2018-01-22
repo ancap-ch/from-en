@@ -10,7 +10,7 @@ As mitologias religiosas e estaduais então são ficções que reduzem considera
 
 Em todo o mundo, os governantes são uma porcentagem muito pequena da população. Como pode ser possível que por um a dois por cento das pessoas controle todos os outros? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+A triste realidade é que as pessoas como um todo são escravizadas para entidades de ficção, como nações, deuses, culturas e governos.
 
 Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
 
