@@ -18,7 +18,7 @@ O nosso desejo de ser bom - combinado com a emoção da virtude que obtemos obed
 
 Uma razão central que sabemos que os governos e os deuses são desnecessários é que eles são tão eficazes. * Sabemos que a maioria das pessoas deseja desesperadamente ser boa porque são tão facilmente controladas por teorias morais *.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+. A lógica da obediência à mitologia é manifestamente tola. Se um sacerdote me diz que tenho que obedecer "Deus", isso é exatamente o mesmo que ele me diz que devo obedecer a uma entidade chamada "Nog". Mesmo que eu aceite que essa entidade ficcional é digna de obediência eterna, isso ainda de forma alguma obrigaria-me a obedecer * o padre *. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
 Of course not.
 
