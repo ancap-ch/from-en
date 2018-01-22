@@ -54,11 +54,11 @@ Se eu passar uma hora a tentar pintar uma nuvem, e depois perguntar se a minha p
 
 Por outras palavras, onde não há consistência, não pode haver precisão.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Quando sonhamos de noite, as nossas percepções são que as regras da "matéria" e da "energia" estão em constante estado de fluxo - somos imunes à gravidade, pelo que voamos na parte traseira de um elefante e até podemos atravessar as paredes. Não é menos impossível desenvolver uma "física científica dos sonhos" do que a pintura precisa de uma nuvem.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+Então, lógica, ciência e verdade, são impossíveis na ausência de *consistência*.
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+Fundamentalmente, as leis da lógica derivam do comportamento da matéria e da energia, pelo menos no nível perceptivo. Se eu lhe disser que atire uma bola para cima e para baixo ao mesmo tempo, estou a pedir um impossível, que você pode provar facilmente, tentando cumprir o meu pedido. Se eu lhe pedir para arar o campo norte e o campo sul, simultaneamente, não o poderá cumprir. If I demand that you turn a rose into a donkey, my demand will never be met.
 
 Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
 
