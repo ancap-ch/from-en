@@ -98,7 +98,7 @@
 
 Почему?
 
-УПП не признает реальность совокупностей, поскольку «большинство» - это просто концептуальный тег; он не существует на самом деле, не более, чем «боги» или «правительства». Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
+УПП не признает реальность совокупностей, поскольку «большинство» - это просто концептуальный тег; он не существует на самом деле, не более, чем «боги» или «правительства». Таким образом, утверждение, что понятие «большинство» имеет какой-то моральный вес, совершенно не имеет силы – подобно утверждению, что «Отечество» может оплодотворить женщину, или что можно сидеть на слове «стул»
 
 To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
 
