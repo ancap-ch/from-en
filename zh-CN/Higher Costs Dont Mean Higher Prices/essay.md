@@ -16,9 +16,9 @@
 
 正如我们所知道的，虽然现实中市场过程是由*企业家能力*所驱动的，市场参与者不仅仅是响应的作用者。 企业家能力在均衡中是不存在的，他们把自己的商业决策建立在不同的行为评价和他们想象的结果中。 在真实的市场中，价格驱动成本—而不是成本驱动价格。 实际上，卡尔.门格尔指出，任何产品生产的价值都是来自消费者对生产消费品的价值评定，而不是消费者对生产消费品的价值评定来自于产品生产的价值。 例如，这也是米塞斯对经济核算论证的核心。
 
-What this means is that entrepreneurs assume (*choose*, even) costs based on the anticipated revenue of their imagined product. 生产高成本的昂贵产品的原因是，以预期价格销售能够覆盖那些高成本。 It doesn’t mean that entrepreneurs choose high costs for the fun of it, but that they motivate a certain level of costs based on the anticipated price — and that price is really dependent only on consumer valuation of the final good.
+What this means is that entrepreneurs assume (*choose*, even) costs based on the anticipated revenue of their imagined product. 生产高成本的昂贵产品的原因是，以预期价格销售能够覆盖那些高成本。 这并不是意味着，企业家因其乐趣而选择高成本，而是他们根据预期价格促使一定水平的成本—而价格实际上是取决于消费者对最终产品的估价。
 
-In imperfect markets, this means there can be high markups that offer entrepreneurs enormous profits. But this is also what lures other entrepreneurs to enter this particular market, so where there are no significant barriers to entry profits will tend to get squeezed until they reach the standard market rate of return. In this process, costs are pushed down but consumer good prices even more so, thereby making consumers the ultimate winners of this process.
+在不完全竞争市场中，这意味着可以有向企业家提供巨额利润的高溢价。 But this is also what lures other entrepreneurs to enter this particular market, so where there are no significant barriers to entry profits will tend to get squeezed until they reach the standard market rate of return. In this process, costs are pushed down but consumer good prices even more so, thereby making consumers the ultimate winners of this process.
 
 So it is not in any sense a paradox that the market price of a box of paint has very little to do with the final price of the painting. The box of paint is traded in the market at a price that partly is derived from the anticipated value of paintings. Similarly, the coca leaves that will eventually end up in a nostril on Wall Street *are valued because the end product is valued.*
 
