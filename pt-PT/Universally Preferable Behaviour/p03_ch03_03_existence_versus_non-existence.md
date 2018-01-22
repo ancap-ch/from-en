@@ -44,7 +44,7 @@ Se eu não pagar esse rapaz, ele enviará outro rapaz para minha casa para colet
 
 Normalmente, quando um homem com uma arma chega à minha casa e exige meu dinheiro, tenho o direito de usar a força para me defender. No caso em apreço, no entanto, por estar disfarçado e reivindicar representar uma entidade fictícia, não tenho permissão para usar a força para me defender.
 
-Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
+Agora, se eu chegar a sua casa esta noite vestida como "elfo alto de Narnia" e exigir o dinheiro que você deve à "Rainha das Dores", assumindo que não é Halloween, você pode me encarar com espanto, e me ordene sua propriedade.
 
 If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
 
