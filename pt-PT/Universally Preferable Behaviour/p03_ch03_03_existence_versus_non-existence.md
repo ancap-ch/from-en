@@ -38,7 +38,7 @@ Na realidade, quando me dizem que devo pagar meus impostos para "o governo", o q
 
 Em nenhum momento, qualquer entidade como "o governo" levantar um dedo, fazer um movimento, abrir uma conta bancária ou gastar um centavo. Imaginando que um conceito chamado "o governo" tem a capacidade de levar ou gastar seu dinheiro é exatamente o mesmo que esperar que "Deus" venha buscá-lo e levá-lo para a igreja.
 
-Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+Assim, a interação real é que um homem me envia uma carta me dizendo que eu devo-lhe dinheiro. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
 
 If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
 
