@@ -94,9 +94,9 @@
 
 Теперь, когда в комнате три человека, мы можем рассмотреть принцип «большинства».
 
-If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
+Если Боб, Даг и Джейн «проголосуют» за то, что морально изнасиловать Джейн, мы все отшатнемся от такого несправедливого и безнравственного положения. Очевидно, что даже если бы Джейн имела «перевес голосов», мы бы не расценили превращение изнасилования в морально добрый поступок.
 
-Why not?
+Почему?
 
 Well, UPB does not recognise the reality of aggregations, since the “majority” is a mere conceptual tag; it does not exist in reality, any more than “gods” or “governments” do. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
 
