@@ -64,9 +64,9 @@ A realidade perceptiva é consistente e objectiva - e é dessa consistência e o
 
 O fato de que as gaivotas não se convertam arbitrariamente em bigornas - ou vice-versa - é a raiz da nossa capacidade de julgar com precisão a afirmação: "Essa é uma gaivota". Se as gaivotas mudassem, espontânea e continuamente a sua natureza, não seríamos capazes de fazer nenhuma declaração verdadeira ou falsa sobre elas - ou qualquer coisa neste caso.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Esta é a raiz de um critério chave do método científico - reprodutibilidade. Se eu fizer uma afirmação universal sobre a natureza da gravidade, então você deve ser capaz de reproduzir essa reivindicação no seu próprio ambiente. Se a realidade fosse *não* consistente, a reprodutibilidade seria um critério irracional para o estabelecimento da verdade.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+Se você fosse um professor de matemática, seria muito improvável que aceitasse uma resposta errada de um aluno, mesmo que esse aluno afirmasse que a sua resposta estava "certa" quando a escreveu, mas que de alguma forma, mudou no ínterim.
 
 Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
 
