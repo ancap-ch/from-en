@@ -1,4 +1,4 @@
-## The First Test: Rape
+## Ang Unang Test: Rape
 
 Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
 
