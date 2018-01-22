@@ -42,7 +42,7 @@ Assim, a interação real é que um homem me envia uma carta me dizendo que eu d
 
 Se eu não pagar esse rapaz, ele enviará outro rapaz para minha casa para coletar o dinheiro - mais "juros" e "cobranças"
 
-Normalmente, quando um homem com uma arma chega à minha casa e exige meu dinheiro, tenho o direito de usar a força para me defender. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Normalmente, quando um homem com uma arma chega à minha casa e exige meu dinheiro, tenho o direito de usar a força para me defender. No caso em apreço, no entanto, por estar disfarçado e reivindicar representar uma entidade fictícia, não tenho permissão para usar a força para me defender.
 
 Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
 
