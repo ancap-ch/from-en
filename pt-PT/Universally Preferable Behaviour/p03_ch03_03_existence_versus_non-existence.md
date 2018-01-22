@@ -12,9 +12,9 @@ Em todo o mundo, os governantes são uma porcentagem muito pequena da populaçã
 
 A triste realidade é que as pessoas como um todo são escravizadas para entidades de ficção, como nações, deuses, culturas e governos.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+Nosso orgulho pessoal se rebelaria instintivamente contra uma escravidão imediata e forçada para outro ser humano - no entanto, parecemos quase revelar a escravidão de * mitologia *.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+O nosso desejo de ser bom - combinado com a emoção da virtude que obtemos obedecendo as mitologias morais - nos leva a entregar voluntariamente nossos recursos para aqueles que afirmam representar essas mitologias.
 
 One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
 
