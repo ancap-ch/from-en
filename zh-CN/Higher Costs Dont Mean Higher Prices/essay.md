@@ -1,4 +1,4 @@
-供求曲线相交的标准经济模型的表明：一个商品的均衡数量（或最优数量）和均衡价格（或最优价格），这一标准的经济模型却有一定的局限性。 Those limitations, as Austrians are well aware, are due to unrealistic assumptions. But noting that the assumptions are out of this world is not enough, especially if the models are used to explain a world that does not match the assumptions. The application of the simplified models, which indeed reveal important facts about how the economy works, tend to lead many economists astray.
+供求曲线相交的标准经济模型的表明：一个商品的均衡数量（或最优数量）和均衡价格（或最优价格），这一标准的经济模型却有一定的局限性。 作为奥地利人都非常清楚，这些局限是由于不切实际的假设。 脱离现实世界的假设无非是不可行的，尤其是如果用模型来解释与假设不相符的现实世界。 The application of the simplified models, which indeed reveal important facts about how the economy works, tend to lead many economists astray.
 
 # Increasing Costs to Producers Does Not Increase Prices 
 
