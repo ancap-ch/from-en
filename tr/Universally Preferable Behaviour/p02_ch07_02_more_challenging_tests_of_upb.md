@@ -1,4 +1,4 @@
-### "Sakın Balık Yemeyin"
+### Sakın Balık Yemeyin
 
 Ahlaki önermelerin durumu ne olur: ''Balık yemek kötü müdür''?
 
