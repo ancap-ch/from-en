@@ -76,7 +76,7 @@
 
 #### Religion And UPB
 
-The same holds true for religion.
+То же самое относится к религии.
 
 The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
 
