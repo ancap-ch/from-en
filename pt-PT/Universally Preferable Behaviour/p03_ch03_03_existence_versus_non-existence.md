@@ -1,6 +1,6 @@
 ### Governments And Religion
 
-The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
+A idéia de que nascer cria um contrato com uma agência de ficção, que em termos práticos o torna um quase escravo para indivíduos específicos, é comum tanto à religião quanto ao estado - e uma outra agência muito mais pessoal, que falo sobre no meu primeiro livro "Na verdade: A Tirania da Ilusão"
 
 Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
 
