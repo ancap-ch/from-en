@@ -80,9 +80,9 @@
 
 Утверждение: «Вы должны повиноваться мне, потому что Бог повелевает это», следует более точно переиначить так: «сущность, которую я выдумал, приказывает вам подчиняться мне». Принцип, который подразумевает УПП, заключается в следующем: «Человеческие существа должны навязывать другим положительные обязательства и оправдывать эти обязательства в соответствии с воображаемыми сущностями»
 
-Здесь мы видим те же проблемы, что и выше. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+Здесь мы видим те же проблемы, что и выше. Боб говорит Дагу: «Ты должен дать мне свою зажигалку, потому что мой воображаемый друг говорит тебе сделать это». Естественно, Даг отвечает: «Ты не должны просить у меня зажигалку, потому что *мой* воображаемый друг запрещает тебе делать это». Если «заповеди» Боба имеют силу, то «заповеди» Дага тоже имеют силу, и, таким образом, отменяют друг друга.
 
-In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
+Точно так же, если человек утверждает, что его концепция, называемая «правительство», оправдывает его отнятие моей собственности, то я могу утверждать, что моя концепция, называемая «антиправительство», оправдывает мое *удержание* моей же собственности, и мы оба одинаково «обоснованы» в наших оправданиях.
 
 If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
 
