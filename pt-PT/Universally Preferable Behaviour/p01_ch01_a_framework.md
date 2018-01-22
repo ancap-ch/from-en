@@ -60,9 +60,9 @@ Então, lógica, ciência e verdade, são impossíveis na ausência de *consist�
 
 Fundamentalmente, as leis da lógica derivam do comportamento da matéria e da energia, pelo menos no nível perceptivo. Se eu lhe disser que atire uma bola para cima e para baixo ao mesmo tempo, estou a pedir um impossível, que você pode provar facilmente, tentando cumprir o meu pedido. Se eu lhe pedir para arar o campo norte e o campo sul, simultaneamente, não o poderá cumprir. Se eu lhe exigir que transforme uma rosa num burro, a minha exigência nunca será cumprida.
 
-A realidade perceptiva é consistente e objectiva - e é dessa consistência e objectividade que derivamos as leis da lógica. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+A realidade perceptiva é consistente e objectiva - e é dessa consistência e objectividade que derivamos as leis da lógica. As nossas afirmações sobre a realidade só podem *representar* a realidade exactamente, como resultado directo dessa consistência e objectividade.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+O fato de que as gaivotas não se convertam arbitrariamente em bigornas - ou vice-versa - é a raiz da nossa capacidade de julgar com precisão a afirmação: "Essa é uma gaivota". Se as gaivotas mudassem, espontânea e continuamente a sua natureza, não seríamos capazes de fazer nenhuma declaração verdadeira ou falsa sobre elas - ou qualquer coisa neste caso.
 
 This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
 
