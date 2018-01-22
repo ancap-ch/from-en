@@ -32,11 +32,11 @@ Novamente, isso não significa que a pureza da água seja totalmente subjectiva.
 
 #### Verdade E Realidade Objectiva
 
-O conceito de *verdade* envolve necessariamente o conceito de *precisão*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+O conceito de *verdade* envolve necessariamente o conceito de *precisão*. Se estou a tentar disparar uma flecha a um alvo, a precisão do meu tiro é determinada pela distancia a que a flecha se encontra do centro desse alvo.
 
-What, then, is the “bull’s-eye” of truth?
+Então, qual é o alvo da verdade?
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+Bem, a *verdade* de uma declaração é mensurável em relação à sua conformidade com a realidade objectiva.
 
 Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
 
