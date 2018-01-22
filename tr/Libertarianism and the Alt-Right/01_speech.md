@@ -134,7 +134,7 @@ Nitekim, *academia* ve akademik dünyanın sosyal değişim için bir özgürlü
 
 [^4]: Ve daha sonraki tüm sahipler bir dizi gönüllü değiş tokuş ile ona bağlılardı.
 
-[^5]: Whose leadership, to its credit, after Trump’s election victory, quickly broke with Trump when he turned out to be just another presidential warmonger.
+[^5]: Seçim zaferinden sonra, Trump'ın liderlik itibarı, sadece, onun savaş seven başka bir başkan olduğu ortaya çıktığında hızla bitti.
 
 [^6]: *Diğer adı ile* Mencius Moldbug.
 
