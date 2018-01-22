@@ -40,13 +40,13 @@ Bem, a *verdade* de uma declaração é mensurável em relação à sua conformi
 
 Deixando de lado os desafios da linguagem, por um momento, se eu apontar para uma gaivota e disser: "Isso é uma bigorna", estou claramente enganado, porque as bigornas são inorgânicos e não podem voar. O valor da verdade da minha afirmação é medido em relação aos factos objectivos da realidade. Como a gaivota não é, realmente, uma bigorna, a minha afirmação é falsa.
 
-Naturalmente, essa equação entre verdade e realidade exige que a linguagem e os nossos sentidos sejam considerados relativamente objectivos. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+Naturalmente, essa equação entre verdade e realidade exige que a linguagem e os nossos sentidos sejam considerados relativamente objectivos. Há muitas boas razões para acreditar que tanto a evidência da linguagem como a sensação, são de facto objectivas; poderíamos começar uma discussão complicada sobre o assunto, mas basta dizer que, uma vez que está a usar os seus olhos para ler um livro escrito em linguagem humana, pelo menos podemos concordar que os seus olhos e o idioma que compartilhamos estão a ser o suficientemente objectivos, para que processem com precisão o que eu estou a escrever. Se não são, não temos nada mais que dizer e de qualquer modo, você não entendeu nada do que eu escrevi; então esta frase será igualmente sem sentido, e talvez possa ter sido processada em "Wingdings".
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+Supondo que você pode dizer a diferença entre as duas fontes acima, podemos continuar razoavelmente.
 
-#### Accuracy And Consistency
+#### Precisão E Consistência
 
 It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
 
