@@ -22,11 +22,11 @@ Uma razão central que sabemos que os governos e os deuses são desnecessários 
 
 Claro que não.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+Quando retiramos mitologia e ficção de nossas "interações" com nossos governantes, o que emerge é uma realidade sombria, espalhafatosa e assassino.
 
-Let’s take as an example a very real and present danger: taxation.
+Tomemos como exemplo um perigo muito real e presente: a tributação.
 
-#### Taxation
+#### Tributação
 
 I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
 
