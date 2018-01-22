@@ -6,9 +6,9 @@
 
 韦恩赖特的观点是这么说的：政府致力于缩减非法药品的供给是不会影响预期价格。 他用艺术品的例子来说明这一观点，事实上这个例子比他认为的还要好。 他的例子是这样的：如果涂料被用于制作出一幅画，这幅画的成本是50美金，这幅画售价在100万美金，假设将一盒涂料的价格增加100%，这幅画的成本是100美金，那么这幅画的价格也会翻倍—下一副画将预期售价为200万美金。 但是事实并非如此，这个画家下一副画的价格可能仍然是100万美金，反映出已增加的花费是1,000,050美金。
 
-这个例子说明了在非法药品“交易”中的矛盾是怎么回事，特别是说明了为什么政府试图影响供给量却没有效果。 As argued by Wainwright, even partially successful measures to cut back on supply has not increased final prices for consumers (which was partly the stated rationale). This interesting and unexpected result suggests government should instead “invest” in reducing demand for illegal drugs.
+这个例子说明了在非法药品“交易”中的矛盾是怎么回事，特别是说明了为什么政府试图影响供给量却没有效果。 正如韦恩赖特所说的，就算成功实施措施缩减了供给量，消费者最终价格也不会增加（这是部分所述理由）。 这有趣而出乎预料的结果表明，政府应该“投资”在减少对非法药品的需求量上。
 
-The problem with the argument is that it relies on the simple equilibrium analysis in the demand-and-supply models used in Econ 101 courses for university freshmen. And it doesn’t actually apply here. Had the paintings or illegal drugs markets been in equilibrium, there might indeed be a paradox. But this is hardly the case, *especially* in these markets.
+依赖于用在大学新生经济学101课程中简单的供求关系模型的均衡分析这一论据有问题。 实际上，它并不适用于这里。 Had the paintings or illegal drugs markets been in equilibrium, there might indeed be a paradox. But this is hardly the case, *especially* in these markets.
 
 Also, in a state of equilibrium costs perfectly reflect social opportunity costs, and “perfect” competition brings price and cost together so that no one is able to make economic profits. In other words, there is no difference between price and cost. There is, consequently, no reason to in this theory distinguish between them temporally or causally — they appear to be determined instantaneously and accurately. This is also how they are treated in various economics models that students learn to “maximize.”
 
