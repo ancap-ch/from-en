@@ -2,15 +2,15 @@
 
 Como ya comentamos anteriormente, la proposición de que *no existe tal cosa como el comportamiento preferible* contiene un numero insuperable de problemas lógicos y empíricos. El "Comportamiento universalmente preferible" *debe* ser un concepto válido, por cinco razones principales.
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+La primera es lógica: si yo argumento *contra* la proposición de que el comportamiento universalmente preferible es válido, ya he demostrado mi preferencia por la verdad sobre la falsedad – así como una preferencia por corregir a aquellos que hablan falsamente. Decir que no hay tal cosa como un comportamiento universalmente preferible es como gritar en el oído de alguien que el sonido no existe – es naturalmente contradictorio. En otras palabras, si no hay *tal cosa* como el comportamiento universalmente preferible, entonces uno *debería* oponerse a cualquiera que alegue que existe tal cosa como el comportamiento universalmente preferible. Sin embargo, si uno "debería" hacer algo, entonces uno ha creado un comportamiento universalmente preferible. Así, el comportamiento universalmente preferible – o las reglas morales – debe ser válido.
 
-Syllogistically, this is:
+Silogísticamente, esto es:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1. La proposición es: el concepto de "comportamiento universalmente preferible" debe ser válido.
+2. Argumentar contra la validez del comportamiento universalmente preferible demuestra comportamiento universalmente preferible.
+3. De tal forma ningún argumento contra la validez del comportamiento universalmente preferible puede ser válido.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+Todos sabemos que hay preferencias subjetivas, como el gusto por el helado o el jazz, las cuales o son consideradas vinculantes para otras personas. Por otro lado, hay otras preferencias, como la violación y el asesinato, que claramente *son* infligidas a otros. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
 
 Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
 
