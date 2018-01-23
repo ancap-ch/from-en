@@ -27,12 +27,12 @@ Silogísticamente, esto es:
 1. Todos los organismos requieren de comportamientos universalmente preferidos para vivir.
 2. El hombre es un organismo vivo.
 3. Por lo tanto todos los hombres vivos están vivos debido a la práctica de comportamientos universalmente preferidos.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+4. De tal manera cualquier argumento contra el comportamiento universalmente preferible requiere una aceptación y práctica de comportamientos universalmente preferidos.
+5. Por lo tanto ningún argumento contra la existencia del comportamiento universalmente preferible puede ser válido.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+Ya que el método científico requiere corroboración empírica, debemos también ver la realidad para confirmar nuestra hipótesis – y aquí la validez del comportamiento universalmente preferible es completamente apoyada.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Cualquier ser humano sano cree en las reglas morales de algún tipo. Existe cierto desacuerdo sobre que *constituye* las reglas morales, pero todos estamos seguros de que las reglas morales son válidas – tal como muchos científicos no están de acuerdo, pero todos los científicos aceptan la validez del método científico en sí mismo. Uno puede argumentar que la Tierra es redonda y no plana – lo cual es análogo a cambiar la definición de moralidad – pero nadie puede argumentar que la Tierra no existe en lo absoluto – lo cual sería como argumentar que no hay tal cosa como el comportamiento universalmente preferible.
 
 Or:
 
