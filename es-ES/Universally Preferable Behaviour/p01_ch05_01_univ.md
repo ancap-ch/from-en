@@ -64,10 +64,10 @@ La metodología para juzgar y probar una teoría *moral* es exactamente igual a 
 
 #### Reglas Morales: Una Definición
 
-The first question regarding moral rules is: *what* are they?
+La primera pregunta con respecto a las reglas morales es: ¿*qué* son?
 
-Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
+Dicho de manera simple, la *moral* es un conjunto de reglas alegando identificar de manera precisa y consistente los comportamientos humanos preferibles, tal como la *física* es un conjunto de reglas alegando identificar de manera precisa y consistente el comportamiento universal de la materia.
 
-The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+La segunda pregunta a realizarse es: ¿existe tal como como el "comportamiento universalmente preferible"? Si existe, podemos empezar a explorar lo que podría ser ese comportamiento. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
 
 [^6]: In physics, the question is: either universal physical rules are valid, or they are not.
