@@ -53,7 +53,7 @@ However, the government *itself* is not subject to any force or retribution, but
 
 Thus if evil people wish to do harm, but are only restrained by force, then society can *never* permit a government to exist, because evil people will work feverishly to grab control of that government, in order to do evil and avoid retribution. In a society of pure evil, then, the only hope for stability would be a state of nature, where a general arming and fear of retribution would blunt the evil intents of disparate groups. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
 
-Trzecią możliwościowa jest to że *większość* ludzi jest zła i tylko niektórzy są dobrzy. If that is the case, then the government also cannot be permitted to exist, since the majority of those in control of the government will be evil, and will rule despotically over the good minority. Democracy in particular cannot be permitted, since the minority of good people would be subjugated to the democratic control of the evil majority. Evil people, who wish to do harm without fear of retribution, would inevitably control the government, and use its power to do evil free of the fear of consequences.
+Trzecią możliwościowa jest to że *większość* ludzi jest zła i tylko niektórzy są dobrzy. W tym przypadku, rząd również nie może istnieć, ponieważ większość tych u władzy rządu będzie zła i despotycznie rządziła dobrą mniejszością. Democracy in particular cannot be permitted, since the minority of good people would be subjugated to the democratic control of the evil majority. Evil people, who wish to do harm without fear of retribution, would inevitably control the government, and use its power to do evil free of the fear of consequences.
 
 Good people do not act morally because they fear retribution, but because they love virtue and peace of mind – and thus, unlike evil people, they have little to gain by controlling the government. In this scenario, then, the government will inevitably be controlled by a majority of evil people who will rule over all, to the detriment of all moral people.
 
@@ -107,7 +107,7 @@ Fleeing from imaginary devils into the protective prisons of governments only en
 
 [^7]: This is the current situation in democracies, of course.
 
-[^8]: See Plato’s *Republic*.
+[^8]: Zobacz *Republikę* Platona.
 
 [^9]: Probably more, since evil people are always drawn to power.
 
