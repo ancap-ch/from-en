@@ -1,4 +1,4 @@
-## Ethics
+## Ética
 
 Since ethics is a subject that we all have opinions about already, it is important to outline the relationship between *instinctual* ethics and *rational* ethics.
 
