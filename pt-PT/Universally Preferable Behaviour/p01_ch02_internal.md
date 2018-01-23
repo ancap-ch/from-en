@@ -1,8 +1,8 @@
 ## Consistência Interna
 
-Se sou um arquitecto, e apresento um plano para construir uma casa, o primeiro obstáculo que devo superar, completamente, é se a minha casa pode ser ou não construída. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+Se sou um arquitecto, e apresento um plano para construir uma casa, o primeiro obstáculo que devo superar, completamente, é se a minha casa pode ser ou não construída. Se apresentar planos maravilhosos para uma casa totalmente construída, com bolas de sabão, nunca receberei a autorização, uma vez que tal "casa" nunca poderia ser levantada.
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+Do mesmo modo, se um engenheiro envia um plano para uma ponte, o primeiro critério que deve ser satisfeito é se a ponte permanecerá ou não. Outras considerações, tais como longevidade, estética e assim por diante só serão aplicadas se for fisicamente viável começar a ponte.
 
 It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
 
