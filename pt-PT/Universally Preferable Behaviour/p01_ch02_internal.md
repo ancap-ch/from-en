@@ -12,13 +12,13 @@ Portanto os cálculos matemáticos que suportam a viabilidade da ponte, devem se
 
 Em termos de computador, o código que não compila não pode ser testado.
 
-Isso também é verdade no mundo científico. As teorias são sempre verificadas quanto à coerência interna antes de serem submetidas a testes empíricos. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Isso também é verdade no mundo científico. As teorias são sempre verificadas quanto à coerência interna antes de serem submetidas a testes empíricos. A razão pela qual a consistência interna é tão essencial é que, uma vez que as teorias afirmam ter valor em relação à realidade e esta é internamente coerente, qualquer teoria que *não seja* internamente racional não pode ter valor em relação à realidade.
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+Somente *depois* que a consistência interna dos cálculos for estabelecida, o grau em que a ponte corresponde às especificações deve ser revisado. É possível escrever especificações internamente consistentes para uma pequena ponte construída inteiramente de madeira de balsa, mas, a menos que o engenheiro esteja a escrever um artigo de modelo ferroviário para uma revista, as suas especificações, embora consistentes, não estarão a atender nenhum requisito industrial.
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+Uma vez que determinamos que a ponte resistirá, podemos determinar se atende ou não às nossas necessidades específicas, tais como suportar o peso dos peões assim como o dos comboios.
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+No campo da economia, aplica-se o mesmo critério. Se a minha teoria económica exige que os preços subam e baixem simultaneamente, não pode ser válida, pois isso é impossível. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
 
 Thus, we can see that any theory, to be valid, requires the following:
 
