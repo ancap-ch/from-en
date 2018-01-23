@@ -16,9 +16,9 @@ Nosso orgulho pessoal se rebelaria instintivamente contra uma escravidão imedia
 
 O nosso desejo de ser bom - combinado com a emoção da virtude que obtemos obedecendo as mitologias morais - nos leva a entregar voluntariamente nossos recursos para aqueles que afirmam representar essas mitologias.
 
-Uma razão central que sabemos que os governos e os deuses são desnecessários é que eles são tão eficazes. * Sabemos que a maioria das pessoas deseja desesperadamente ser boa porque são tão facilmente controladas por teorias morais *.
+Uma razão central que sabemos que os governos e os deuses são desnecessários é que eles são tão eficazes. *Sabemos que a maioria das pessoas deseja desesperadamente ser boa porque são tão facilmente controladas por teorias morais*.
 
-. A lógica da obediência à mitologia é manifestamente tola. Se um sacerdote me diz que tenho que obedecer "Deus", isso é exatamente o mesmo que ele me diz que devo obedecer a uma entidade chamada "Nog". Mesmo que eu aceite que essa entidade ficcional é digna de obediência eterna, isso ainda de forma alguma obrigaria-me a obedecer * o padre *. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+. A lógica da obediência à mitologia é manifestamente tola. Se um sacerdote me diz que tenho que obedecer "Deus", isso é exatamente o mesmo que ele me diz que devo obedecer a uma entidade chamada "Nog". Mesmo que eu aceite que essa entidade ficcional é digna de obediência eterna, isso ainda de forma alguma obrigaria-me a obedecer *o padre*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
 Claro que não.
 
