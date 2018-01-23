@@ -24,7 +24,7 @@
 
 如果政府烧掉一半的田地，这也不会引来最终价格的翻倍。 相反，为了在消费者市场上提供最终产品，将会增加生产者的生产成本。 根本上是由于政府抑制，导致违禁药物生产与经销的利润巨大，生产者不会再三考虑再像以前一样不改变价格：这只会对他们收入造成小影响。
 
-在韦恩赖特的例子中，很小一份可卡因市场售价在10万美金，一公斤可卡因是由一吨新鲜古柯叶生产而成，一吨新鲜的古柯叶售价在500美金。 精制产品在哥伦比亚售价1000美元，美国的经销商售价为1.5万-2万美元。 在这种情况下， 如果烧掉一些古柯农民的田地，古柯农民会失去所有的收入，而其他古柯产品的价格可能会被抬高（假设某种市场形式）。 How much those prices are bid up depends on the [reservation prices](https://en.wikipedia.org/wiki/Reservation*price) of existing cocaine producers and the chance of new entrants. It does not cause a proportional ripple effect throughout the supply chain.
+在韦恩赖特的例子中，很小一份可卡因市场售价在10万美金，一公斤可卡因是由一吨新鲜古柯叶生产而成，一吨新鲜的古柯叶售价在500美金。 精制产品在哥伦比亚售价1000美元，美国的经销商售价为1.5万-2万美元。 在这种情况下， 如果烧掉一些古柯农民的田地，古柯农民会失去所有的收入，而其他古柯产品的价格可能会被抬高（假设某种市场形式）。 这些价格会被抬高多少取决于，现有可卡因生产商的[保留价格](https://en.wikipedia.org/wiki/Reservation*price)和新进入竞争者的可能性。 它不会引起整个供应链相应的连锁反应。
 
 This is easy to see if we adopt the Austrian view that pricing of production goods is done “backward” through entrepreneurial bidding aiming for anticipated consumer prices. But using the supply-and-demand schedule for equilibrium prices can produce a fundamentally flawed analysis — even by those who recognize that the assumptions are unrealistic (which Roberts naturally does).
 
