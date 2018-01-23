@@ -20,9 +20,9 @@ Uma vez que determinamos que a ponte resistirá, podemos determinar se atende ou
 
 No campo da economia, aplica-se o mesmo critério. Se a minha teoria económica exige que os preços subam e baixem simultaneamente, não pode ser válida, pois isso é impossível. Uma vez que a minha teoria foi verificada para a consistência interna, eu posso começar a procurar evidências e/ou começar a usá-la para fazer previsões proactivas.
 
-Thus, we can see that any theory, to be valid, requires the following:
+Assim, podemos ver que qualquer teoria, para ser válida, requer o seguinte:
 
-1. Internal consistency (logic).
-2. External consistency (testability).
+1. Consistência interna (lógica).
+2. Consistência externa (experimental).
 
-With this in mind, we can now turn to the core subject of this book.
+Com isso em mente, agora podemos abordar o assunto principal deste livro.
