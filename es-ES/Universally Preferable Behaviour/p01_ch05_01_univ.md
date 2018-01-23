@@ -56,11 +56,11 @@ Como mencioné anteriormente, el método científico es esencialmente una metodo
 
 Otro aspecto del método científico es la creencia de que, ya que la materia está compuesta por una combinación de átomos con propiedades comunes, estables y predecibles, el comportamiento de la materia también es común, estable y predecible. Así, los experimentos deben ser *reproducibles* en diferentes lugares y momentos. No puedo decir que mi teoría de la "roca flotante" es correcta solo para una roca particular, en el día en que la probé inicialmente, o en un solo lugar. Mis teorías deben describir el comportamiento de la *materia*, el cual es universal, común, estable y predecible.
 
-Finalmente, hay una regla generalmente aceptada – a veces llamada la Navaja de Occam – que establece que, de entre dos teorías que tienen el mismo poder predictivo, la más simple de las dos es preferible. Previo a la revolución copernicana, cuando la Tierra era considerada el centro de universo, el movimiento retrógrado de Marte cuando la Tierra pasaba a su lado en su órbita alrededor del Sol causó enormes problemas a los sistemas ptolemaicos de cálculos astronómicos. “Circles within circles” multiplied enormously, which were all cleared away by simply placing the sun at the centre of the solar system and accepting the elliptical nature of planetary orbits.
+Finalmente, hay una regla generalmente aceptada – a veces llamada la Navaja de Occam – que establece que, de entre dos teorías que tienen el mismo poder predictivo, la más simple de las dos es preferible. Previo a la revolución copernicana, cuando la Tierra era considerada el centro de universo, el movimiento retrógrado de Marte cuando la Tierra pasaba a su lado en su órbita alrededor del Sol causó enormes problemas a los sistemas ptolemaicos de cálculos astronómicos. "Los círculos dentro de círculos" se multiplicaron enormemente, los cuales fueron despejados al simplemente poner el Sol en el centro del sistema solar y aceptando la naturaleza elíptica de las órbitas planetarias.
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+Así cualquier teoría científica válida debe ser (a) universal (b) lógica (c) empíricamente verificable (d) reproducible y (e) tan simple como sea posible.
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+La metodología para juzgar y probar una teoría *moral* es exactamente igual a la metodología para juzgar y probar cualquier otra teoría.
 
 #### Moral Rules: A Definition
 
