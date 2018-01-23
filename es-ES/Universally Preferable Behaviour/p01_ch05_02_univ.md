@@ -10,23 +10,23 @@ Silogísticamente, esto es:
 2. Argumentar contra la validez del comportamiento universalmente preferible demuestra comportamiento universalmente preferible.
 3. De tal forma ningún argumento contra la validez del comportamiento universalmente preferible puede ser válido.
 
-Todos sabemos que hay preferencias subjetivas, como el gusto por el helado o el jazz, las cuales o son consideradas vinculantes para otras personas. Por otro lado, hay otras preferencias, como la violación y el asesinato, que claramente *son* infligidas a otros. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+Todos sabemos que hay preferencias subjetivas, como el gusto por el helado o el jazz, las cuales o son consideradas vinculantes para otras personas. Por otro lado, hay otras preferencias, como la violación y el asesinato, que claramente *son* infligidas a otros. También hay preferencias para la lógica, verdad y evidencia, las cuales también son vinculantes para otros (a pesar de que usualmente no son infligidas violentamente) en la medida en que todos aceptamos que una proposición ilógica debe ser falsa o inválida.
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+Esas preferencias que pueden ser consideradas vinculantes para otros pueden ser llamadas "preferencias universales," o "reglas morales."
 
-How else can we know that the concept of “moral rules” is valid?
+¿De qué otra forma podemos saber que el concepto de "reglas morales" es válido?
 
-We can examine the question biologically as well as syllogistically.
+Nosotros podemos examinar la cuestión biológicamente tanto como silogísticamente.
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+Por ejemplo, toda la materia está sujeta a las reglas físicas – y todo lo que vive está en adición sujeto a ciertos requerimientos, y así, si está vivo, debe haber seguido los comportamientos universalmente preferibles. La vida, por ejemplo, requiere combustible y oxígeno. Cualquier mente viviente, por supuesto, es una parte orgánica del mundo físico, y así está sujeta a las leyes físicas y debe haber seguido comportamientos preferibles – argumentar lo contrario requeriría pruebas de que la consciencia no está compuesta por materia, y no es orgánica – un imposible, ya que tiene masa, energía, y vida. Argumentar que la consciencia no está sujeta ni a las reglas de la física ni a comportamientos universalmente preferibles sería como argumentar que los seres humanos son inmunes a la gravedad, y que pueden florecer sin comer.
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+Por lo tanto es imposible que alguien pueda argumentar lógicamente contra el comportamiento universalmente preferible, ya que si está vivo para argumentar, él debe haber seguido comportamientos universalmente preferidos como respirar, comer y beber.
 
-Syllogistically, this is:
+Silogísticamente, esto es:
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
+1. Todos los organismos requieren de comportamientos universalmente preferidos para vivir.
+2. El hombre es un organismo vivo.
+3. Por lo tanto todos los hombres vivos están vivos debido a la práctica de comportamientos universalmente preferidos.
 4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
 5. Therefore no argument against the existence of universally preferable behaviour can be valid.
 
