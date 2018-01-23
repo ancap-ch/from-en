@@ -72,10 +72,10 @@ Assim, podemos aceitar que devemos medir a validade de uma afirmação relativa 
 
 ### A Existência Da "Verdade"
 
-Truth, then, can be measured according to two central criteria:
+Então, a verdade, pode ser medida de acordo com dois critérios centrais:
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+1. A verdade é uma medida de correlação entre as ideias nas nossas mentes e a consistência da racionalidade, que é derivada directamente do comportamento consistente da matéria e da energia no mundo real.[^2]
+2. A verdade também é uma medida de conexão entre as ideias nas nossas mentes e a natureza e o comportamento da matéria e da energia no mundo real.[^3]
 
 The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
 
