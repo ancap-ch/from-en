@@ -2,14 +2,14 @@
 
 ## Appendix A: UPB In A Nutshell
 
-Below, please find a summation of the core argument for morality.
+Poniżej, znajdź podsumowanie głównego argumentu moralności.
 
-1. Reality is objective and consistent.
-2. “Logic” is the set of objective and consistent rules derived from the consistency of reality.
+1. Rzeczywistość jest obiektywna i spójna.
+2. "Logika" to zbiór obiektywnych i spójnych zasad wynikających z spójności rzeczywistości.
 3. Those theories that conform to logic are called “valid.”
 4. Those theories that are confirmed by empirical testing are called “accurate.”
 5. Those theories that are both valid and accurate are called “true.”
-6. “Preferences” are required for life, thought, language and debating.
+6. "Upodobania" są wymagane przez życie, myślenie, język i debatowanie.
 7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
 8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
 9. Theories regarding UPB must pass the tests of logical consistency and empirical verification.
@@ -21,13 +21,13 @@ Below, please find a summation of the core argument for morality.
 
 Below is a sample table that lists some of the most common categories of actions/rules, and their key differentiators.
 
-| Action/Rule                       | Preference? | Universal? | Enforceable? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                |
-| --------------------------------- | ----------- | ---------- | ------------ | ----------------------------------------------------- | ------------------------- | ----------------------------- |
-| **Running for the bus**           | No          | No         | n/a          | n/a                                                   | n/a                       | Neutral                       |
-| **You should not like ice cream** | Yes         | No         | No           | n/a                                                   | n/a                       | Neutral (personal preference) |
-| **You should not be late**        | Yes         | Yes        | No           | No                                                    | Yes                       | APA                           |
-| **You should not commit fraud**   | Yes         | Yes        | Yes          | Yes                                                   | Yes                       | Good                          |
-| **You should not rape**           | Yes         | Yes        | Yes          | No                                                    | No                        | Good                          |
+| Akcja/Zasada                       | Upodobanie? | Uniwersalne? | Możliwość wyegzekwowania? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                  |
+| ---------------------------------- | ----------- | ------------ | ------------------------- | ----------------------------------------------------- | ------------------------- | ------------------------------- |
+| **Biegnięcie na autobus**          | Nie         | Nie          | n/d                       | n/d                                                   | n/d                       | Neutralne                       |
+| **Powinieneś/aś nie lubić lodów**  | Tak         | Nie          | Nie                       | n/d                                                   | n/d                       | Neutralne (osobiste upodobanie) |
+| **Nie powinieneś/aś się spóźniać** | Yes         | Yes          | No                        | No                                                    | Yes                       | APA                             |
+| **You should not commit fraud**    | Yes         | Yes          | Yes                       | Yes                                                   | Yes                       | Good                            |
+| **Nie powinieneś/aś gwałcić**      | Tak         | Tak          | Tak                       | Nie                                                   | Nie                       | Dobre                           |
 
 ## Appendix C: UPB Podcasts
 
@@ -56,6 +56,6 @@ Finally, if you would like to debate these ideas with other interested philosoph
 
 ## Appendix D: Every UPB Debate I've Ever Had...
 
-**UPB Sceptic**: UPB is invalid. **Me**: How do you know? **UPB Sceptic**: It's not proven! **Me**: So “proof” is UPB? **UPB Sceptic**: No, nothing is UPB. **Me**: Isn't the statement "nothing is UPB" UPB? **UPB Sceptic**: No, that's not what I'm saying at all! I'm saying that UPB is invalid! **Me**: Why? **UPB Sceptic**: Because it's false! **Me**: So presenting true arguments is UPB? **UPB Sceptic**: No! **Me**: So there's nothing wrong with false arguments? **UPB Sceptic**: No. **Me**: Then why are you opposing a false argument? **UPB Sceptic**: Oh, it's just my personal preference. I just dislike falsehood. **Me**: So you're arguing for a merely personal preference? **UPB Sceptic**: Sure! **Me**: So why should your personal preference take precedence over mine? I like UPB, you don't – and why bother debating personal preferences at all? **UPB Sceptic**: Oh - because UPB is invalid! **Me**: Why is it invalid? **UPB Sceptic**: Because it's self-contradictory! **Me**: So consistency is UPB? **UPB Sceptic**: No! And stop repeating the same points over and over! And go read Kant / Hegel / Hume etc.
+**Skeptyk UPB**: UPB jest nieprawidłowe. **Me**: How do you know? **Skeptyk UPB**: Nie zostało udowodnione! **Me**: So “proof” is UPB? **UPB Sceptic**: No, nothing is UPB. **Me**: Isn't the statement "nothing is UPB" UPB? **UPB Sceptic**: No, that's not what I'm saying at all! I'm saying that UPB is invalid! **Me**: Why? **UPB Sceptic**: Because it's false! **Me**: So presenting true arguments is UPB? **UPB Sceptic**: No! **Me**: So there's nothing wrong with false arguments? **UPB Sceptic**: No. **Me**: Then why are you opposing a false argument? **UPB Sceptic**: Oh, it's just my personal preference. I just dislike falsehood. **Me**: So you're arguing for a merely personal preference? **UPB Sceptic**: Sure! **Me**: So why should your personal preference take precedence over mine? I like UPB, you don't – and why bother debating personal preferences at all? **UPB Sceptic**: Oh - because UPB is invalid! **Me**: Why is it invalid? **UPB Sceptic**: Because it's self-contradictory! **Me**: So consistency is UPB? **UPB Sceptic**: No! And stop repeating the same points over and over! And go read Kant / Hegel / Hume etc.
 
-*etc etc etc...*
+*itd itd itd...*
