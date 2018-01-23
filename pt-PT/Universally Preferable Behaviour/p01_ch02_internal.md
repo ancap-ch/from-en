@@ -1,6 +1,6 @@
 ## Consistência Interna
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+Se sou um arquitecto, e apresento um plano para construir uma casa, o primeiro obstáculo que devo superar, completamente, é se a minha casa pode ser ou não construída. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
 
 Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
 
