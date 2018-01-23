@@ -6,7 +6,7 @@ Usemos el marco de UPB para examinar la consistencia lógica de las premisas ét
 
 ### The Good
 
-To take an absurd example, let’s imagine that we are reviewing an ethical theory that proclaims that rape is a moral good.
+Para tomar un ejemplo absurdo, imaginemos que estamos examinando una teoría ética que asevera que la violación es un bien moral.
 
 Clearly, if I proclaim that “X” is “the good,” then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
 
