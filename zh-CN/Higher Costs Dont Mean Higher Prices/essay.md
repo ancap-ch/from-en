@@ -26,7 +26,7 @@
 
 在韦恩赖特的例子中，很小一份可卡因市场售价在10万美金，一公斤可卡因是由一吨新鲜古柯叶生产而成，一吨新鲜的古柯叶售价在500美金。 精制产品在哥伦比亚售价1000美元，美国的经销商售价为1.5万-2万美元。 在这种情况下， 如果烧掉一些古柯农民的田地，古柯农民会失去所有的收入，而其他古柯产品的价格可能会被抬高（假设某种市场形式）。 这些价格会被抬高多少取决于，现有可卡因生产商的[保留价格](https://en.wikipedia.org/wiki/Reservation*price)和新进入竞争者的可能性。 它不会引起整个供应链相应的连锁反应。
 
-这很容易看出来，我们是否采用奥地利人的观点，即：通过针对消费者价格预期的企业投标报价，生产资料的定价是“反向的”。 But using the supply-and-demand schedule for equilibrium prices can produce a fundamentally flawed analysis — even by those who recognize that the assumptions are unrealistic (which Roberts naturally does).
+这很容易看出来，我们是否采用奥地利人的观点，即：通过针对消费者价格预期的企业投标报价，生产资料的定价是“反向的”。 但是，用均衡价格的供求表会引起从根本上就有缺陷的分析—认识到假设不切实际的人也在使用均衡价格供求表（罗伯茨当然也是这么做的）。
 
 这并不是说可卡因供应链中的价格不是某种均衡价格。 局部均衡的假设不是使分析有缺陷的原因。 The error lies in failing to recognize that cost (that is, the existence and shape of supply) is a function of the anticipated price (demand) of the final good.
 
