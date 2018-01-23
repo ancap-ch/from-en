@@ -18,7 +18,7 @@ Somente *depois* que a consistência interna dos cálculos for estabelecida, o g
 
 Uma vez que determinamos que a ponte resistirá, podemos determinar se atende ou não às nossas necessidades específicas, tais como suportar o peso dos peões assim como o dos comboios.
 
-No campo da economia, aplica-se o mesmo critério. Se a minha teoria económica exige que os preços subam e baixem simultaneamente, não pode ser válida, pois isso é impossível. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+No campo da economia, aplica-se o mesmo critério. Se a minha teoria económica exige que os preços subam e baixem simultaneamente, não pode ser válida, pois isso é impossível. Uma vez que a minha teoria foi verificada para a consistência interna, eu posso começar a procurar evidências e/ou começar a usá-la para fazer previsões proactivas.
 
 Thus, we can see that any theory, to be valid, requires the following:
 
