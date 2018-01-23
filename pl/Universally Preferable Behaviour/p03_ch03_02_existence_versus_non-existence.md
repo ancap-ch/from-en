@@ -69,13 +69,13 @@ This situation, while interesting theoretically, breaks down logically because:
 
 The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
 
-If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
+Jeśli nie ma zła, rządy nie są potrzebne. Jeśli zło istnieje, rządy są zbyt niebezpieczne aby pozwolić na ich istnienie.
 
 Why is this error so prevalent?
 
 There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
 
-The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
+Drugim jest to, że rząd nigdy nie uczy dzieci o korzeniach jego władzy - przemocy - zamiast tego udaje, że jest po prostu kolejną instytucją społeczną, jak biznes, kościół czy organizacja charytatywna, ale bardziej moralna.
 
 The third is that the prevalence of religion and propaganda has always blinded men to the evils of the government – which is why rulers have always been so interested in furthering the interests of churches and state “education.” In the religious world-view, absolute power is synonymous with perfect virtue, in the form of a deity. In the real political world of men, however, increasing power always means increasing evil. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. There are many more reasons, of course, but these are among the deepest.[^10]
 
