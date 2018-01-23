@@ -28,6 +28,6 @@
 
 这很容易看出来，我们是否采用奥地利人的观点，即：通过针对消费者价格预期的企业投标报价，生产资料的定价是“反向的”。 But using the supply-and-demand schedule for equilibrium prices can produce a fundamentally flawed analysis — even by those who recognize that the assumptions are unrealistic (which Roberts naturally does).
 
-这并不是说可卡因供应链中的价格不是某种均衡价格。 部分均衡的假设不是使分析有缺陷的原因。 The error lies in failing to recognize that cost (that is, the existence and shape of supply) is a function of the anticipated price (demand) of the final good.
+这并不是说可卡因供应链中的价格不是某种均衡价格。 局部均衡的假设不是使分析有缺陷的原因。 The error lies in failing to recognize that cost (that is, the existence and shape of supply) is a function of the anticipated price (demand) of the final good.
 
 由此看来，特别是在短期内，要素价格的变化不一定反映在消费品的价格上。 相反，他们将反映在生产商的利润率上，从而导致他们改变自己的行为。
