@@ -10,9 +10,9 @@ Para tomar un ejemplo absurdo, imaginemos que estamos examinando una teoría ét
 
 Claramente, si afirmo que “X” es “el bien”, entonces lo opuesto a “X” debe ser malo. Si *no violar* es bueno, entonces *violar* debe ser malo. Al revés, si *violar* es bueno, entonces *no violar* debe ser malo.
 
-Violar a alguien es una acción positiva que debe ser iniciada, ejecutada y luego, completada. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
+Violar a alguien es una acción positiva que debe ser iniciada, ejecutada y luego, completada. Si “violar” es un bien moral, entonces “no violar” es un mal moral - por ende, es imposible para dos hombres en la misma habitación ser *ambos morales al mismo tiempo*, ya que sólo uno de ellos puede ser un violador en cualquier momento dado - y solamente puede ser un violador si el otro hombre se convierte en su víctima.
 
-That which enables virtue cannot be evil. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
+Aquello que es virtuoso no puede ser vil. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
 
 If it is morally good to be a rapist, and one can only be a rapist by sexually assaulting a victim, then clearly the victim must be morally good by resisting the sexual assault – since if he does not resist, it is by definition not rape, and therefore not virtuous. In other words, *attacking* virtue by definition *enables* virtue. Thus we have an insurmountable paradox, in which the victim must attack virtue in order to enable virtue – he must resist sexual assault in order to enable the “virtue” of the rapist. Thus not only can the rape victim *not* be virtuous, but he must resist and attack “virtue” in order to allow it.
 
