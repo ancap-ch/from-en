@@ -70,7 +70,7 @@ Se você fosse um professor de matemática, seria muito improvável que aceitass
 
 Assim, podemos aceitar que devemos medir a validade de uma afirmação relativa à realidade objectiva - tanto de forma empírica como lógica. A lógica como disciplina surge apenas como resultado da consistência da realidade; As observações empíricas também são válidas ou inválidas apenas como resultado da natureza consistente da realidade.
 
-### The Existence Of "Truth"
+### A Existência Da "Verdade"
 
 Truth, then, can be measured according to two central criteria:
 
