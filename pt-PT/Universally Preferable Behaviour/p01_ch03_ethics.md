@@ -1,10 +1,10 @@
 ## Ética
 
-Since ethics is a subject that we all have opinions about already, it is important to outline the relationship between *instinctual* ethics and *rational* ethics.
+Uma vez que a ética é um assunto sobre o qual todos nós temos opiniões, é importante esboçar o relacionamento entre *ética* instintiva e *ética* racional.
 
-A baseball player can catch a fly ball even if he knows nothing about physics. Similarly, we can correctly perceive an action as immoral even if we know nothing about ethical theories.
+Um jogador de beisebol pode apanhar uma bola pelo ar, mesmo que não saiba nada de física. Da mesma forma, podemos perceber correctamente uma acção como imoral sem conhecermos nada sobre teorias éticas.
 
-If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
+Se eu conseguir apanhar uma bola pelo ar, então tenho uma sensação *instintiva* para o comportamento de uma bola de beisebol em lançamento. No entanto a minha compreensão instintiva, não me dá a capacidade de lançar com precisão uma nave espacial para orbitar Jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
 
 In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
 
