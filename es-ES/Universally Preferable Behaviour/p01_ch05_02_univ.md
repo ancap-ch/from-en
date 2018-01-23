@@ -34,12 +34,12 @@ Ya que el método científico requiere corroboración empírica, debemos tambié
 
 Cualquier ser humano sano cree en las reglas morales de algún tipo. Existe cierto desacuerdo sobre que *constituye* las reglas morales, pero todos estamos seguros de que las reglas morales son válidas – tal como muchos científicos no están de acuerdo, pero todos los científicos aceptan la validez del método científico en sí mismo. Uno puede argumentar que la Tierra es redonda y no plana – lo cual es análogo a cambiar la definición de moralidad – pero nadie puede argumentar que la Tierra no existe en lo absoluto – lo cual sería como argumentar que no hay tal cosa como el comportamiento universalmente preferible.
 
-Or:
+O:
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+1. Para que una teoría científica sea válida, debe ser apoyada por observación empírica.
+2. Si el concepto de "comportamiento universalmente preferible" es válido, entonces la humanidad debería creer en el comportamiento universalmente preferible.
+3. Todos los hombres creen en el comportamiento universalmente preferible.
+4. Por lo tanto la evidencia empírica existe para apoyar la validez del comportamiento universalmente preferible – y la existencia de esa evidencia se *opone* a la proposición de que el comportamiento universalmente preferible no es válido.
 
 The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
 
