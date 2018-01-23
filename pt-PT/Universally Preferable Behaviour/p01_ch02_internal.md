@@ -1,4 +1,4 @@
-## Internal Consistency
+## Consistência Interna
 
 If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
 
