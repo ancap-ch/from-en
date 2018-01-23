@@ -4,7 +4,7 @@ Uma vez que a ética é um assunto sobre o qual todos nós temos opiniões, é i
 
 Um jogador de beisebol pode apanhar uma bola pelo ar, mesmo que não saiba nada de física. Da mesma forma, podemos perceber correctamente uma acção como imoral sem conhecermos nada sobre teorias éticas.
 
-Se eu conseguir apanhar uma bola pelo ar, então tenho uma sensação *instintiva* para o comportamento de uma bola de beisebol em lançamento. No entanto a minha compreensão instintiva, não me dá a capacidade de lançar com precisão uma nave espacial para orbitar Jupiter. Tenho uma "pequena verdade" imediata - como a bola se moverá - mas isso não me dá uma "grande verdade" universal - como a matéria se comporta.
+Se eu conseguir apanhar uma bola pelo ar, então tenho uma sensação instintiva para o comportamento de uma bola de beisebol em lançamento. No entanto a minha compreensão instintiva, não me dá a capacidade de lançar com precisão uma nave espacial para orbitar Jupiter. Tenho uma "pequena verdade" imediata - como a bola se moverá - mas isso não me dá uma "grande verdade" universal - como a matéria se comporta.
 
 In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
 
