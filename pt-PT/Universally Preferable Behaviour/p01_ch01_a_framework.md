@@ -81,9 +81,9 @@ O primeiro critério é uma medida da coerência das ideias consigo próprias - 
 
 #### Empirismo Versus Racionalidade
 
-O empirismo pode ser pensado como a capacidade instintiva de apanhar uma bola que foi lançada, ou calcular o seu movimento; A racionalidade é a capacidade de prever e entender o trajecto que a bola tomará com base em princípios universais. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+O empirismo pode ser pensado como a capacidade instintiva de apanhar uma bola que foi lançada, ou calcular o seu movimento; A racionalidade é a capacidade de prever e entender o trajecto que a bola tomará com base em princípios universais. Evidentemente, se as bolas fossem aleatoriamente em qualquer direcção - e se transformassem magicamente em bandos de pombas a voar - não seríamos capazes de prever o seu comportamento.
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Assim, dado que a matéria obedece a leis imutáveis, as nossas teorias *sobre* o assunto, também devem obedecer a leis imutáveis. Se eu não conhecesse nada sobre o beisebol, mas assistisse a um jogo, onde os jogadores sempre obedecem às regras, seria irracional da minha parte, formular uma teoria sobre as regras do jogo, que contradissessem directamente o comportamento dos jogadores que estava a ver. Uma vez que as acções dos jogadores são coerentes, *qualquer teoria que eu desenvolvesse em relação às regras que orientam essas acções também deveriam ser consistentes*.
 
 This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
 
