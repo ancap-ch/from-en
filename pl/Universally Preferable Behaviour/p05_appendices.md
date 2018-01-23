@@ -1,6 +1,6 @@
-# Appendices
+# Załączniki
 
-## Appendix A: UPB In A Nutshell
+## Załącznik A: UPB w Pigułce
 
 Poniżej, znajdź podsumowanie głównego argumentu moralności.
 
@@ -17,7 +17,7 @@ Poniżej, znajdź podsumowanie głównego argumentu moralności.
 11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
 12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
 
-## Appendix B: Moral Categories
+## Załącznik B: Kategorie Moralne
 
 Below is a sample table that lists some of the most common categories of actions/rules, and their key differentiators.
 
