@@ -22,7 +22,7 @@ Ngayon: Paano na ang tungkol sa ugnayang namamagitan sa libertaryanismo at ang A
 
 1. Paano naipapanatili ang order bilang libertaryano kung ito ay naitamo na;
 2. Paano matatamasa ang order ng pagkakalibertaryano mula sa pansimulang punto ng isang hindi libertaryano, na kung saan ito ay nangangailangang: 
-    1. That one must correctly describe this starting point;
+    1. Ang isang iyan ay dapat maiwasto para mai-deskrayb sa panimulang puntong;
     2. Correctly identify the obstacles posed in the way of one’s libertarian ends by this very starting point.
 
 To answer these questions, in addition to theory, you also need some knowledge of human psychology and sociology or at least a modicum of common sense. Yet many libertarians and fake libertarians are plain ignorant of human psychology and sociology or even devoid of any common sense. They blindly accept, against all empirical evidence, an egalitarian, blank-slate view of human nature, of all people and all societies and cultures being essentially equal and interchangeable.
