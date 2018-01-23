@@ -22,7 +22,7 @@
 
 所以，一盒颜料的市场价格与一副画的最终价格几乎没有关系，从任何意义上来说它都不是一个悖论。 在一定程度上，一盒颜料在市场上交易的价格是来自对画的预期价值。 同样地，古柯叶最终会被华尔街*人的鼻孔所珍视，因为它的最终产品是有价值的。*
 
-如果政府烧掉一半的田地，这也不会引来最终价格的翻倍。 相反，为了在消费者市场上提供最终产品，将会增加生产者的生产成本。 As margins are enormous in illegal drug production and distribution, primarily as a result of government repression, producers don’t think twice to continue just like before without changing prices: it only causes a small dent in their income.
+如果政府烧掉一半的田地，这也不会引来最终价格的翻倍。 相反，为了在消费者市场上提供最终产品，将会增加生产者的生产成本。 根本上是由于政府抑制，导致违禁药物生产与分配的利润巨大，生产者不会再三考虑再像以前一样不改变价格：这只会对他们收入造成小影响。
 
 In Wainwright’s example, a kilo of cocaine, with a market value of $100,000 when sold in “tiny portions,” is produced from a ton of fresh coca leaf sold at a price of $500. The refined product sells at $1,000 in Columbia, and to “distributors” in the United states for $15–20,000. In this situation, if the fields of some coca farmers are burned, those farmers lose all their revenue while prices of the remaining product could potentially be bid up (assuming some form of market). How much those prices are bid up depends on the [reservation prices](https://en.wikipedia.org/wiki/Reservation*price) of existing cocaine producers and the chance of new entrants. It does not cause a proportional ripple effect throughout the supply chain.
 
