@@ -68,7 +68,7 @@ Esta é a raiz de um critério chave do método científico - reprodutibilidade.
 
 Se você fosse um professor de matemática, seria muito improvável que aceitasse uma resposta errada de um aluno, mesmo que esse aluno afirmasse que a sua resposta estava "certa" quando a escreveu, mas que de alguma forma, mudou no ínterim.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Assim, podemos aceitar que devemos medir a validade de uma afirmação relativa à realidade objectiva - tanto de forma empírica como lógica. A lógica como disciplina surge apenas como resultado da consistência da realidade; As observações empíricas também são válidas ou inválidas apenas como resultado da natureza consistente da realidade.
 
 ### The Existence Of "Truth"
 
