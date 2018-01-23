@@ -79,9 +79,9 @@ Então, a verdade, pode ser medida de acordo com dois critérios centrais:
 
 O primeiro critério é uma medida da coerência das ideias consigo próprias - e essa consistência é um requisito, porque a realidade é consistente consigo própria. Se eu disser: "Eu não existo", esse é um exemplo de uma ideia inconsistente consigo própria, já que devo existir para proferir tal afirmação. O segundo critério é uma medida da precisão das ideias em relação às observações empíricas da realidade objectiva.
 
-#### Empiricism Versus Rationality
+#### Empirismo Versus Racionalidade
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+O empirismo pode ser pensado como a capacidade instintiva de apanhar uma bola que foi lançada, ou calcular o seu movimento; A racionalidade é a capacidade de prever e entender o trajecto que a bola tomará com base em princípios universais. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
 
 Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
 
