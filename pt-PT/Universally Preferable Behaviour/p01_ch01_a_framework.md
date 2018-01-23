@@ -85,12 +85,12 @@ O empirismo pode ser pensado como a capacidade instintiva de apanhar uma bola qu
 
 Assim, dado que a matéria obedece a leis imutáveis, as nossas teorias *sobre* o assunto, também devem obedecer a leis imutáveis. Se eu não conhecesse nada sobre o beisebol, mas assistisse a um jogo, onde os jogadores sempre obedecem às regras, seria irracional da minha parte, formular uma teoria sobre as regras do jogo, que contradissessem directamente o comportamento dos jogadores que estava a ver. Uma vez que as acções dos jogadores são coerentes, *qualquer teoria que eu desenvolvesse em relação às regras que orientam essas acções também deveriam ser consistentes*.
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+Este requisito de congruência é um dos requisitos mais básicos para a verdade. Como a realidade é racional, as teorias relativas à realidade também devem ser coerentes.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+De fato, o primeiro obstáculo que qualquer teoria deve superar é o de *racionalidade interna*.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^1]: Em primeiro lugar, se você não valorizasse a verdade, nunca estaria neste debate - ou qualquer outro debate -
 
-[^2]: Rational consistency, or internal logic.
+[^2]: Consistência racional ou lógica interna
 
-[^3]: Empirical evidence, or empiricism.
+[^3]: Evidências empíricas ou empirismo,
