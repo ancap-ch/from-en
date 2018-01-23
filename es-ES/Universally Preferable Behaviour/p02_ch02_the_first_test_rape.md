@@ -8,7 +8,7 @@ Usemos el marco de UPB para examinar la consistencia lógica de las premisas ét
 
 Para tomar un ejemplo absurdo, imaginemos que estamos examinando una teoría ética que asevera que la violación es un bien moral.
 
-Clearly, if I proclaim that “X” is “the good,” then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+Claramente, si afirmo que “X” es “el bien”, entonces lo opuesto a “X” debe ser malo. Si *no violar* es bueno, entonces *violar* debe ser malo. Al revés, si *violar* es bueno, entonces *no violar* debe ser malo.
 
 Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
 
