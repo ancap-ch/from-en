@@ -1,8 +1,8 @@
 ## La primera prueba: Violación
 
-Aunque es un tema desagradable, la violación es sin duda la acción *menos* ambigua que cualquier teoría moral debe abarcar. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
+Aunque es un tema desagradable, la violación es sin duda la acción *menos* ambigua que cualquier teoría moral debe abarcar. El asesinato puede complicarse por la propia defensa; el robo, por el problema de la extrema pobreza o para recuperar un bien - pero una violación nunca puede ser en defensa propia; es por su mera definición, la iniciación de una agresión.
 
-Let us then use the UPB framework to examine the logical consistency of ethical propositions regarding rape, with reference to these seven moral categories.
+Usemos el marco de UPB para examinar la consistencia lógica de las premisas éticas con respecto a la violación, haciendo referencia a estas siete categorías morales.
 
 ### The Good
 
