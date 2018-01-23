@@ -77,7 +77,7 @@ Então, a verdade, pode ser medida de acordo com dois critérios centrais:
 1. A verdade é uma medida de correlação entre as ideias nas nossas mentes e a consistência da racionalidade, que é derivada directamente do comportamento consistente da matéria e da energia no mundo real.[^2]
 2. A verdade também é uma medida de conexão entre as ideias nas nossas mentes e a natureza e o comportamento da matéria e da energia no mundo real.[^3]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+O primeiro critério é uma medida da coerência das ideias consigo próprias - e essa consistência é um requisito, porque a realidade é consistente consigo própria. Se eu disser: "Eu não existo", esse é um exemplo de uma ideia inconsistente consigo própria, já que devo existir para proferir tal afirmação. O segundo critério é uma medida da precisão das ideias em relação às observações empíricas da realidade objectiva.
 
 #### Empiricism Versus Rationality
 
