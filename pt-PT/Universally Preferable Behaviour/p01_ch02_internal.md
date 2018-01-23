@@ -6,13 +6,13 @@ Do mesmo modo, se um engenheiro envia um plano para uma ponte, o primeiro crité
 
 Seria ilógico - para não mencionar altamente improdutivo - construir uma ponte com materiais aleatórios, usando cálculos "aleatórios", para descobrir se poderia funcionar ou não. Como as leis físicas são consistentes e universais, é relativamente fácil descobrir se uma ponte ficará bem ou não *antes de* a construir.
 
-Existem duas maneiras de determinar a viabilidade da ponte antes de a construir. O primeiro é procurar inconsistências internas dentro das instalações e cálculos que afirmam apoiar a viabilidade da ponte. Se existirem erros significativos nos cálculos que justificam o peso que a ponte pode suportar, então, provavelmente, a ponte estará sobre-projectada ou sub-projectada. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+Existem duas maneiras de determinar a viabilidade da ponte antes de a construir. O primeiro é procurar inconsistências internas dentro das instalações e cálculos que afirmam apoiar a viabilidade da ponte. Se existirem erros significativos nos cálculos que justificam o peso que a ponte pode suportar, então, provavelmente, a ponte estará sobre-projectada ou sub-projectada. Se cálculos matemáticos errados resultarem numa força de menos de cinquenta toneladas por pé quadrado em qualquer parte da ponte, então, esta certamente não ficará levantada - ou, se ficar, a sua viabilidade será apenas acidental e não pode ser reproduzida.
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+Portanto os cálculos matemáticos que suportam a viabilidade da ponte, devem ser internamente consistentes, antes que quaisquer outras considerações possam ser tomadas em conta.
 
-In computer terms, code that does not compile cannot be tested.
+Em termos de computador, o código que não compila não pode ser testado.
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Isso também é verdade no mundo científico. As teorias são sempre verificadas quanto à coerência interna antes de serem submetidas a testes empíricos. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
 
 Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
 
