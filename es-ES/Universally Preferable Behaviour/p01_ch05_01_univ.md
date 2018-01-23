@@ -62,7 +62,7 @@ Así cualquier teoría científica válida debe ser (a) universal (b) lógica (c
 
 La metodología para juzgar y probar una teoría *moral* es exactamente igual a la metodología para juzgar y probar cualquier otra teoría.
 
-#### Moral Rules: A Definition
+#### Reglas Morales: Una Definición
 
 The first question regarding moral rules is: *what* are they?
 
