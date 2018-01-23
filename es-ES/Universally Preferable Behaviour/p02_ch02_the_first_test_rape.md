@@ -18,7 +18,7 @@ Si éticamente es bueno ser un violador, y uno puede ser un violador solamente a
 
 Los problemas lógicos inquebrantables resultan entonces de la premisa:: “la violación es moral”. Recuerde, acordamos en que una teoría racional no puede proponer estados opuestos para la misma situación. Siendo todas las demás cosas iguales, una roca no puede caer hacia arriba y hacia abajo al mismo tiempo, y una teoría válida no puede predecir que una roca caerá hacia arriba mientras que otra roca caerá hacia abajo.
 
-In the same way, two men in a room must be considered to be in the same situation. If only one of them can be good, because goodness is defined as rape, and only one of them can rape at any time, then we have a logical contradiction that cannot be resolved.
+De la misma manera, dos hombres en una habitación deben ser considerados en la misma situación. Si solamente uno de ellos puede ser bueno, porque la bondad es definida como violación, y sólo uno de ellos puede violar en cualquier momento, entonces tenemos una contradicción lógica que no puede resolverse.
 
 Also, if we recall that Universally Preferable Behaviour must be independent of time, then we also face a logical problem that, no matter what his physical virility, at some point the rapist will simply be unable to rape any more, because he will be physically unable to get an erection. At that point, his ability to perform the “good action” becomes impossible. Since “avoidability” is a key criterion for morality, but he is physically unable to be good – in other words, he is unable to avoid being evil – then he cannot be responsible for not raping the other man.
 
