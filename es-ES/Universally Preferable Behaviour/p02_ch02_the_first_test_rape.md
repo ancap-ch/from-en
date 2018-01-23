@@ -10,7 +10,7 @@ Para tomar un ejemplo absurdo, imaginemos que estamos examinando una teoría ét
 
 Claramente, si afirmo que “X” es “el bien”, entonces lo opuesto a “X” debe ser malo. Si *no violar* es bueno, entonces *violar* debe ser malo. Al revés, si *violar* es bueno, entonces *no violar* debe ser malo.
 
-Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
+Violar a alguien es una acción positiva que debe ser iniciada, ejecutada y luego, completada. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
 
 That which enables virtue cannot be evil. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
 
