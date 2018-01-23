@@ -7,7 +7,7 @@ Poniżej, znajdź podsumowanie głównego argumentu moralności.
 1. Rzeczywistość jest obiektywna i spójna.
 2. "Logika" to zbiór obiektywnych i spójnych zasad wynikających z spójności rzeczywistości.
 3. Those theories that conform to logic are called “valid.”
-4. Those theories that are confirmed by empirical testing are called “accurate.”
+4. Teorie które są potwierdzone przez empiryczne testowanie są nazywane "dokładnymi"
 5. Those theories that are both valid and accurate are called “true.”
 6. "Upodobania" są wymagane przez życie, myślenie, język i debatowanie.
 7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
