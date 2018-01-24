@@ -1,10 +1,10 @@
 ## Internal Consistency
 
-如果我是一个建筑师，并计划建一个房子，我首先需要克服的困难是我是否要修房子。 如果我提出一个完全由肥皂泡建造建造的房子的美好计划，我永远都得不到佣金，因为这样的“房子”永远都无法支撑得起来。
+如果我是一个建筑师，并计划建一个房子，我首先需要克服的困难是我是否要修房子。 如果我提出一个完全由肥皂泡建造建造的房子的美好计划，我永远都得不到佣金，因为这样的“房子”永远都无法支撑起来。
 
 同样，如果一个工程师提出一个修建桥梁的计划，首先满足的标准是桥梁能否支撑得起来。 首先只有桥梁在物理上是可行，才会有其他考虑，比如：寿命，美观等。
 
-It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
+随机使用材料修建桥梁或用随机的“计算”来判断它是否能支撑的起，是不合逻辑的—更不用说非生产性的了。 Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
 
 There are two ways to determine the viability of the bridge before building it. The first is to look for internal inconsistencies within the premises and calculations that claim to support the viability of the bridge. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
 
