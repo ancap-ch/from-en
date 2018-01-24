@@ -8,7 +8,7 @@ Se consigo apanhar uma bola pelo ar, então tenho uma sensação instintiva para
 
 Do mesmo modo, a nossa repulsa moral comum em relação a acções como a violação e o assassinato não é exactamente imprecisa, mas não nos dá a capacidade de criar ou validar teorias morais consistentes e empíricas.
 
-If I propose a scientific theory that completely invalidates a baseball player’s ability to catch a fly ball, then I have the insurmountable challenge of explaining how the baseball player actually *does* catch the ball. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
+Se quero propor uma teoria científica que invalide completamente a habilidade dum jogador de beisebol de apanhar uma bola pelo ar, então tenho o desafio insuperável de explicar como é que o jogador de baseball, realmente *apanha* a bola. Além disso, se a minha grande teoria não pode prever com precisão o arco de uma bola pelo ar, tenho uma "grande verdade" que contradiz directamente uma "pequena verdade", que não pode ser válida. Dado que a necessidade de coerência lógica surge directamente das "pequenas verdades" da experiência perceptiva, qualquer teoria que contradiga directamente essa experiência, não pode ser válida.
 
 In other words, the senses give rise to logic – therefore logic cannot contradict the evidence of the senses. Evidence always trumps explanation.
 
