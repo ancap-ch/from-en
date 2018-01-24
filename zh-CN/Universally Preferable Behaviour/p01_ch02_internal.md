@@ -16,9 +16,9 @@ The mathematical calculations supporting the viability of the bridge must thus b
 
 Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. 写出具有内部一致性的完全用轻木修建一座小桥的规格书是有可能的，但是工程师除了写出铁路公路模型杂志的一篇文章和规格书外，尽管具有一致性，仍然无法满足任何工业生产要求。
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+一旦我们确定了桥能够支撑的住，然后我们就可以确定它是否符合我们的特定需要，比如支撑行人与火车相对比的重量。
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+在经济学领域，同样的标准也适用。 If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
 
 Thus, we can see that any theory, to be valid, requires the following:
 
