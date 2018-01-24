@@ -1,6 +1,6 @@
 ### Governments And Religion
 
-A idéia de que nascer cria um contrato com uma agência de ficção, que em termos práticos o torna um quase escravo para indivíduos específicos, é comum tanto à religião quanto ao estado - e uma outra agência muito mais pessoal, que falo sobre no meu primeiro livro "Na verdade: A Tirania da Ilusão"
+A idéia de que nascer cria um contrato com uma agência de ficção, que em termos práticos o torna um quase-escravo para indivíduos específicos, é comum tanto à religião quanto ao estado – e uma outra agência muito mais pessoal, que falo sobre no meu primeiro livro "Na verdade: A Tirania da Ilusão"
 
 Sempre que um sacerdote diz: "Obedecer a Deus", o que ele realmente está dizendo é: "Obedecer-me *eu*." Como Deus não existe, qualquer mandamento que o sacerdote afirma que vem de Deus é realmente vindo do padre. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
 
@@ -28,7 +28,7 @@ Tomemos como exemplo um perigo muito real e presente: a tributação.
 
 #### Tributação
 
-. Fui informado que em virtude de escolher viver no Canadá, devo ao governo "mais de cinquenta por cento da minha renda.
+Fui informado que em virtude de escolher viver no Canadá, devo "ao governo "mais de cinquenta por cento da minha renda.
 
 Despojado da mitologia, para o que isso realmente se traduz?
 
