@@ -10,9 +10,9 @@ Do mesmo modo, a nossa repulsa moral comum em relação a acções como a viola�
 
 Se quero propor uma teoria científica que invalide completamente a habilidade dum jogador de beisebol de apanhar uma bola pelo ar, então tenho o desafio insuperável de explicar como é que o jogador de baseball, realmente *apanha* a bola. Além disso, se a minha grande teoria não pode prever com precisão o arco de uma bola pelo ar, tenho uma "grande verdade" que contradiz directamente uma "pequena verdade", que não pode ser válida. Dado que a necessidade de coerência lógica surge directamente das "pequenas verdades" da experiência perceptiva, qualquer teoria que contradiga directamente essa experiência, não pode ser válida.
 
-In other words, the senses give rise to logic – therefore logic cannot contradict the evidence of the senses. Evidence always trumps explanation.
+Por outras palavras, os sentidos dão origem à lógica - portanto, a lógica não pode contradizer a evidência dos sentidos. Esta, sempre supera a explicação.
 
-In a similar manner, any valid ethical theory should be able to explain and justify our common revulsion towards crimes such as murder and rape. It cannot reasonably contradict the universal prohibitions of mankind, but must accurately incorporate and explain them.
+Da mesma forma, qualquer teoria ética válida deve ser capaz de explicar e justificar a nossa repulsa comum, em relação a crimes como assassinatos e estupro. Logicamente, não pode contradizer as proibições universais da humanidade, mas deve incorporá-las e explicá-las com exactidão.
 
 However, just as Einsteinian physics provided surprising truths – in fact, it would have been of little value if those truths were *not* surprising – ethical theories provide the most value when they also reveal surprising truths – shocking, even. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
 
