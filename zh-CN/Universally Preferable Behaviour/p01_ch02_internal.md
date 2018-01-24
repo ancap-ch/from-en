@@ -1,6 +1,6 @@
 ## Internal Consistency
 
-如果我是一个建筑师，并计划建一个房子，我需要首要克服的困难是我是否要修建房子。 If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
 
 Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
 
