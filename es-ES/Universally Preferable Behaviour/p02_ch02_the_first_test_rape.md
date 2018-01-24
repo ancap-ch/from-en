@@ -22,7 +22,7 @@ De la misma manera, dos hombres en una habitación deben ser considerados en la 
 
 Además, si recordamos que Upb "siglas en inglés para Comportamiento Preferible Universalmente" debe ser independiente del tiempo, entonces también enfrentamos un problema lógico que, sin importar su virilidad física, en algún punto el violador será simplemente incapaz de seguir violando, porque será físicamente incapaz de tener una erección. En ese punto, su habilidad de llevar a cabo “la buena acción” se torna imposible. Ya que la “evitabilidad” es un criterio clave para la moral - en otras palabras, él es incapaz de evitar ser malo - entonces no puede ser responsable por no violar al otro hombre.
 
-Si un hombre que está colgando de un árbol al borde de un abismo se deja caer porque le faltan fuerzas para continuar sosteniéndose, no llamaríamos a eso suicidio, ya que para él la opción de sostenerse ya no estaba disponible. If he lets go although he has the strength to continue holding on, the case would not be quite so clear.
+Si un hombre que está colgando de un árbol al borde de un abismo se deja caer porque le faltan fuerzas para continuar sosteniéndose, no llamaríamos a eso suicidio, ya que para él la opción de sostenerse ya no estaba disponible. Si se soltara del árbol aún teniendo la fuerza para continuar sosteniéndose, el caso no sería tan claro.
 
 #### The Coma Test
 
