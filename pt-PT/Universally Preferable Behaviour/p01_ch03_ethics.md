@@ -6,7 +6,7 @@ Um jogador de beisebol pode apanhar uma bola pelo ar, mesmo que não saiba nada 
 
 Se consigo apanhar uma bola pelo ar, então tenho uma sensação instintiva para o comportamento de uma bola de beisebol em lançamento. No entanto a minha compreensão instintiva, não me dá a capacidade de lançar com precisão uma nave espacial para orbitar Jupiter. Tenho uma "pequena verdade" imediata - como se irá mover a bola - mas isso não me dá uma "grande verdade" universal - como se irá comportar a matéria.
 
-In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
+Do mesmo modo, a nossa repulsa moral comum em relação a acções como a violação e o assassinato não é exactamente imprecisa, mas não nos dá a capacidade de criar ou validar teorias morais consistentes e empíricas.
 
 If I propose a scientific theory that completely invalidates a baseball player’s ability to catch a fly ball, then I have the insurmountable challenge of explaining how the baseball player actually *does* catch the ball. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
 
