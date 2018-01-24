@@ -18,7 +18,7 @@ Only *after* the internal consistency of the calculations has been established c
 
 一旦我们确定了桥能够支撑的住，然后我们就可以确定它是否符合我们的特定需要，比如支撑行人与火车相对比的重量。
 
-在经济学领域，同样的标准也适用。 If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+在经济学领域，同样的标准也适用。 如果我的经济理论是要求价格同时上下波动，它不会有效，因为价格同时上下波动是不可能的。 一旦我的理论得到内部一致性的检验，我就能开始为我的理论寻找佐证，或者用我的理论来进行前瞻性预测。
 
 Thus, we can see that any theory, to be valid, requires the following:
 
