@@ -1,6 +1,6 @@
 # 引言
 
-托马斯.杰斐逊证实了《美国独立宣言》所说。
+In the American Declaration of Independence, Thomas Jefferson affirmed
 
 > these truths to be self-evident: that all men are created equal; that they are endowed by their creator with inalienable rights; that among these are life, liberty, and the pursuit of happiness: that to secure these rights, governments are instituted among men, deriving their just powers from the consent of the governed; that whenever any form of government becomes destructive of these ends, it is the right of the people to alter or abolish it, and to institute new government, laying its foundation on such principles, and organizing its powers in such form as to them shall seem most likely to effect their safety and happiness. Prudence indeed will dictate that governments long established should not be changed for light and transient causes; and accordingly all experience has shown that mankind are more disposed to suffer while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of abuses and usurpations pursuing invariably the same object, evinces a design to reduce them under absolute despotism, it is in their right, it is their duty to throw off such government, and to provide new guards for their future security.
 
