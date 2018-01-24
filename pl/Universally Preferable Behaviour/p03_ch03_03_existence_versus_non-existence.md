@@ -1,8 +1,8 @@
-### Governments And Religion
+### Rządy I Religia
 
 The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
 
-Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Kiedykolwiek ksiądz mówi: "Słuchaj Boga," tak naprawdę mówi: "Słuchaj *mnie*." Ponieważ Bóg nie istnieje, jakiekolwiek przykazanie które według księdza pochodzi od Boga, tak naprawdę pochodzi od księdza. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
 
 It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
 
@@ -20,13 +20,13 @@ One central reason that we know that governments and gods are unnecessary is tha
 
 The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
-Of course not.
+Oczywiście, że nie.
 
 When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
 
 Let’s take as an example a very real and present danger: taxation.
 
-#### Taxation
+#### Opodatkowania
 
 I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
 
@@ -50,13 +50,13 @@ If I do not pay the man who comes to take my money, he is allowed to pull out a 
 
 Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
 
-Stealing, as we have proven, is evil.
+Kradzież, jak udowodniliśmy, jest zła.
 
 Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
 
 We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
 
-### Government, Religion, And UPB
+### Rząd, Religia i UPB
 
 When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
 
@@ -96,7 +96,7 @@ Now that there are three people in the room, we can look at the “majority rule
 
 If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
 
-Why not?
+Dlaczego nie?
 
 Well, UPB does not recognise the reality of aggregations, since the “majority” is a mere conceptual tag; it does not exist in reality, any more than “gods” or “governments” do. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
 
@@ -112,7 +112,7 @@ Of *course* not.
 
 Can I create a moral rule that says: “the majority should be able to do whatever it wants”?
 
-Of course I can, but it will never be valid or true.
+Oczywiście, ze mogę, ale nigdy nie będzie to poprawne ani prawdziwe.
 
 Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
 
