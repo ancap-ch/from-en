@@ -8,7 +8,7 @@
 
 在修建桥梁之前判断它的可行性有两种方法。 第一是在支持修建桥梁可行性的前提和计算中找出内部矛盾。 如果在桥梁能支撑的重量计算中有明显错误，那么这座桥要么可能是被过度设计了，或是设计不足。 如果错误的数学计算导致了桥梁的任何一处承载每平方英尺五十吨的力量，那么它肯定支撑不住—如果真是如此，它的可行性只会是个偶然，也不可再复制。
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+在考虑到其他任何因素之前，支撑一座桥梁修建的可行性的数学计算数据必须是内部一致的。
 
 在计算机术语中，不能编译的代码不可被测试。
 
