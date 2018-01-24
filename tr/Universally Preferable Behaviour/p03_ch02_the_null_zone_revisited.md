@@ -34,7 +34,7 @@ Bağnazca savlar - ya da "inanç" - tanım gereği test edilemezler çünkü onl
 
 Gerçek haline gelmiş olan ispatlanmamış şeylere inanabiliriz - birileri dünyanın düz olduğunu kanıtlanmadan önce tereddütsüz düşünüyordu - fakat "geçersiz bölge" *muhtemelen gerçek olamayacak* şeylere inanmaya tutunduğumuz alandır.
 
-Eğer iki artı iki beş eder dersem, mantık ile düzeltilebilecek bir hata yapıyorumdur. Eğer ben kare şeklinde bir çemberin olduğuna inandığımı söylersem çok açık bir şekilde kendisiyle çelişen bir ifade kullanıyorumdur ki bu kendisini çürütür. Eğer daha ileriye gidersem, ancak ve kesinlikle iddia ederim ki "geçici değer artı tury eşittir desty" ve terimlerimin herhangi birini tanımlamayı reddediyorum- ben mantığa ve delillere *uygulanamayan* açıklama yapıyorum.
+Eğer iki artı iki beş eder dersem, mantık ile düzeltilebilecek bir hata yapıyorumdur. Eğer ben kare şeklinde bir çemberin olduğuna inandığımı söylersem çok açık bir şekilde kendisiyle çelişen bir ifade kullanıyorumdur ki bu kendisini çürütür. Eğer daha ileriye gidersem, ancak ve kesinlikle iddia ederim ki "geçici değer artı tury eşittir desty" ve terimlerimin herhangi birini tanımlamayı reddediyorum- ben mantığa ve delillere *cannot be applied* uygulanamayan açıklama yapıyorum.
 
 ### Bir sonraki durak: ''Alternatif Kainat'' 
 
