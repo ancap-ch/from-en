@@ -40,9 +40,9 @@ Da mesma forma, não existe uma direcção universalmente "melhor" - tudo depend
 
 Para começar a nossa discussão sobre a ética, é essencial que entendamos a natureza dos *argumentos auto-destrutivos*.
 
-In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
+Em economia, uma teoria não pode ser válida se requer que os preços subam e baixem ao mesmo tempo. Na física, uma teoria não pode ser válida se requer que os gases se expandam e se contraiam simultaneamente. Em matemática, uma teoria não pode ser válida se requer que dois mais dois sejam iguais a cinco, já que "cinco" é outra forma de descrever dois mais três, não dois mais dois, por isso, dizer que dois mais dois são iguais a cinco é dizer que cinco é igual a quatro, o que é auto-contraditório.
 
-In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+Em geral, qualquer teoria que se contradiga no enunciado não pode ser válida. Não requer refutação externa, uma vez que se refuta a si própria. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
 
 If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
 
