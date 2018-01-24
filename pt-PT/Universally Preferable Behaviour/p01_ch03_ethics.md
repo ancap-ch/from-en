@@ -42,9 +42,9 @@ Para começar a nossa discussão sobre a ética, é essencial que entendamos a n
 
 Em economia, uma teoria não pode ser válida se requer que os preços subam e baixem ao mesmo tempo. Na física, uma teoria não pode ser válida se requer que os gases se expandam e se contraiam simultaneamente. Em matemática, uma teoria não pode ser válida se requer que dois mais dois sejam iguais a cinco, já que "cinco" é outra forma de descrever dois mais três, não dois mais dois, por isso, dizer que dois mais dois são iguais a cinco é dizer que cinco é igual a quatro, o que é auto-contraditório.
 
-Em geral, qualquer teoria que se contradiga no enunciado não pode ser válida. Não requer refutação externa, uma vez que se refuta a si própria. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+Em geral, qualquer teoria que se contradiga no enunciado não pode ser válida. Não requer refutação externa, uma vez que se refuta a si própria. Não necessitamos examinar todos os recantos do universo para determinar que um "círculo quadrado" não existe. O próprio conceito é auto-contraditório e, portanto, refuta-se no enunciado.
 
-If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
+Se eu lhe enviasse uma prova matemática complexa e você percebesse que, no início, eu afirmava que a minha prova dependia do fato de que dois e dois fazem quatro e cinco ao mesmo tempo, não necessitaria ler nada mais além disso, para saber que a minha prova era inválida.
 
 Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
 
