@@ -14,9 +14,9 @@ Por outras palavras, os sentidos dão origem à lógica - portanto, a lógica n�
 
 Da mesma forma, qualquer teoria ética válida deve ser capaz de explicar e justificar a nossa repulsa comum, em relação a crimes como assassinatos e estupro. Logicamente, não pode contradizer as proibições universais da humanidade, mas deve incorporá-las e explicá-las com exactidão.
 
-However, just as Einsteinian physics provided surprising truths – in fact, it would have been of little value if those truths were *not* surprising – ethical theories provide the most value when they also reveal surprising truths – shocking, even. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
+No entanto, assim como a física einsteiniana forneceu verdades surpreendentes - na verdade, teriam sido de pouco valor se *não* fossem surpreendentes - as teorias éticas fornecem o maior valor quando também revelam verdades surpreendentes -mesmo chocantes. De facto, as teorias éticas que não fornecessem verdades surpreendentes seriam uma simples confirmação das preferências instintivas existentes e portanto, seriam de pouco valor.
 
-### The Discipline Of Theoretical Ethics
+### A Disciplina Da Ética Teórica
 
 If I say that something is “morally good” – in other words, if I propose an ethical theory – then clearly I am arguing that human beings *should* act in a particular manner, or *avoid* acting in a particular manner.
 
