@@ -2,7 +2,7 @@
 
 ## Załącznik A: UPB w Pigułce
 
-Poniżej, znajdź podsumowanie głównego argumentu moralności.
+Poniżej znajdziesz podsumowanie głównego argumentu moralności.
 
 1. Rzeczywistość jest obiektywna i spójna.
 2. "Logika" to zbiór obiektywnych i spójnych zasad wynikających z spójności rzeczywistości.
@@ -56,6 +56,6 @@ Finally, if you would like to debate these ideas with other interested philosoph
 
 ## Appendix D: Every UPB Debate I've Ever Had...
 
-**Skeptyk UPB**: UPB jest nieprawidłowe. **Me**: How do you know? **Skeptyk UPB**: Nie zostało udowodnione! **Me**: So “proof” is UPB? **UPB Sceptic**: No, nothing is UPB. **Me**: Isn't the statement "nothing is UPB" UPB? **UPB Sceptic**: No, that's not what I'm saying at all! I'm saying that UPB is invalid! **Me**: Why? **UPB Sceptic**: Because it's false! **Me**: So presenting true arguments is UPB? **UPB Sceptic**: No! **Me**: So there's nothing wrong with false arguments? **UPB Sceptic**: No. **Me**: Then why are you opposing a false argument? **UPB Sceptic**: Oh, it's just my personal preference. I just dislike falsehood. **Me**: So you're arguing for a merely personal preference? **UPB Sceptic**: Sure! **Me**: So why should your personal preference take precedence over mine? I like UPB, you don't – and why bother debating personal preferences at all? **UPB Sceptic**: Oh - because UPB is invalid! **Me**: Why is it invalid? **UPB Sceptic**: Because it's self-contradictory! **Me**: So consistency is UPB? **UPB Sceptic**: No! And stop repeating the same points over and over! And go read Kant / Hegel / Hume etc.
+**Sceptyk UPB**: UPB jest nieprawidłowe. **Me**: How do you know? **Sceptyk UPB**: Nie zostało udowodnione! **Me**: So “proof” is UPB? **UPB Sceptic**: No, nothing is UPB. **Me**: Isn't the statement "nothing is UPB" UPB? **UPB Sceptic**: No, that's not what I'm saying at all! I'm saying that UPB is invalid! **Me**: Why? **UPB Sceptic**: Because it's false! **Me**: So presenting true arguments is UPB? **UPB Sceptic**: No! **Me**: So there's nothing wrong with false arguments? **UPB Sceptic**: No. **Me**: Then why are you opposing a false argument? **UPB Sceptic**: Oh, it's just my personal preference. I just dislike falsehood. **Me**: So you're arguing for a merely personal preference? **UPB Sceptic**: Sure! **Me**: So why should your personal preference take precedence over mine? I like UPB, you don't – and why bother debating personal preferences at all? **UPB Sceptic**: Oh - because UPB is invalid! **Me**: Why is it invalid? **UPB Sceptic**: Because it's self-contradictory! **Me**: So consistency is UPB? **UPB Sceptic**: No! And stop repeating the same points over and over! And go read Kant / Hegel / Hume etc.
 
 *itd itd itd...*
