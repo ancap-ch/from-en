@@ -32,11 +32,11 @@ Este es otro problema central con cualquier teoría que posicione una acción po
 
 De esta manera, el concepto de “evitabilidad” mantiene su uso. A man in a coma is unable to avoid lying in his bed, since he is in a state of quasi-unconsciousness. Un hombre en estado de coma es incapaz de evitar estar acostado en su cama, ya que se encuentra en un estado casi inconsciente.
 
-Ya que es incapaz de evitar sus acciones - o inacción en este caso - su inmovilidad no puede ser inmoral. No obstante, antes dijimos que lo opuesto a una acción inmoral debe ser moral. If we propose the moral rule, “thou shalt not rape,” then can we call the man in a coma *moral*, since he does not rape?
+Ya que es incapaz de evitar sus acciones - o inacción en este caso - su inmovilidad no puede ser inmoral. No obstante, antes dijimos que lo opuesto a una acción inmoral debe ser moral. Si proponemos la regla moral “no violarás”, podemos entonces llamar al hombre en coma *moral*, debido a que no viola?
 
 #### Capacity
 
-The concept of “avoidability” works in the positive as well as in the negative. If I have lost my genitals in some ghastly accident, am I moral for refraining from rape? It would seem hard to argue that I could be, since genital rape at least is impossible for me. Similarly, we may call a man “generous” if he gives one hundred dollars to a beggar – however, we would doubtless revise our estimation if it turned out that he gave away his money while sleepwalking, and woefully regretted his action on waking.
+El concepto de “evitabilidad” trabaja tanto en lo positivo tanto como en lo negativo. Si yo he perdido mis genitales en un terrible accidente, soy moral por abstenerme de violar? Sería difícil de discutir que lo fuera, ya que la violación genital al menos, sería imposible para mí. Similarly, we may call a man “generous” if he gives one hundred dollars to a beggar – however, we would doubtless revise our estimation if it turned out that he gave away his money while sleepwalking, and woefully regretted his action on waking.
 
 Thus we can reasonably say that where choice is absent, or inapplicable, morality is also absent, or inapplicable. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
 
