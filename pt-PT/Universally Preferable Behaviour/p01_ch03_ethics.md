@@ -18,9 +18,9 @@ No entanto, assim como a física einsteiniana forneceu verdades surpreendentes -
 
 ### A Disciplina Da Ética Teórica
 
-If I say that something is “morally good” – in other words, if I propose an ethical theory – then clearly I am arguing that human beings *should* act in a particular manner, or *avoid* acting in a particular manner.
+Se eu dissesse que algo é "moralmente bom" - por outras palavras, se eu propusesse uma teoria ética - estaria, claramente, a argumentar que os seres humanos *devem* agir de uma maneira particular, ou *evitar* agir de uma maneira particular.
 
-If I tell my son that he *should* become a baseball player just because I want him to, I am not stating a universal moral premise, but rather a personal preference. He is not *moral* if he becomes a baseball player, and neither is he *immoral* if he does not.
+Se eu dissesse ao meu filho que *deveria* ser um jogador de beisebol, apenas porque eu o quero, não estaria a afirmar uma premissa moral universal, mas sim uma preferência pessoal. Ele não seria *moral* se fosse um jogador de beisebol, nem *imoral* se não o fosse.
 
 However, if I tell him that it is *moral* for sons to obey their fathers, and *immoral* for them to disobey their fathers, then I am proposing a preference that is universal, rather than merely personal – I am trying to turn a “little truth” (*I want you to become a baseball player*) into a “great truth” (*It is immoral for sons to disobey fathers*). *If* he wishes to be moral, he *must* become a baseball player – not because becoming a baseball player is moral, but rather because obeying his father is moral.
 
