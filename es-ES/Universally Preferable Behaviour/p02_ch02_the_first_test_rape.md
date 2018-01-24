@@ -32,7 +32,7 @@ Este es otro problema central con cualquier teoría que posicione una acción po
 
 De esta manera, el concepto de “evitabilidad” mantiene su uso. A man in a coma is unable to avoid lying in his bed, since he is in a state of quasi-unconsciousness. Un hombre en estado de coma es incapaz de evitar estar acostado en su cama, ya que se encuentra en un estado casi inconsciente.
 
-Ya que es incapaz de evitar sus acciones - o inacción en este caso - su inmovilidad no puede ser inmoral. However, earlier we said that the opposite of an immoral action must be moral. If we propose the moral rule, “thou shalt not rape,” then can we call the man in a coma *moral*, since he does not rape?
+Ya que es incapaz de evitar sus acciones - o inacción en este caso - su inmovilidad no puede ser inmoral. No obstante, antes dijimos que lo opuesto a una acción inmoral debe ser moral. If we propose the moral rule, “thou shalt not rape,” then can we call the man in a coma *moral*, since he does not rape?
 
 #### Capacity
 
