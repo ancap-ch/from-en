@@ -34,11 +34,11 @@ Da mesma forma, não existe uma direcção universalmente "melhor" - tudo depend
 
 É verdade que muito poucas pessoas *dirigem* para o oceano, mas isso não significa que seja universalmente verdade que ninguém *deveria* dirigir para o oceano. Os princípios não são democráticos - ou, se são, mais uma vez enfrentamos o problema do subjectivismo de classificação e devemos jogar, todo o conceito de ética, pela janela.
 
-"Comportamento" existe na realidade objectiva, fora das nossas mentes - os conceitos "deve", "deveria" e "preferência" não existem fora das nossas mentes. No entanto, o facto de que o "deveria" não existe na realidade objectiva não significa que o "deveria" seja completamente subjectivo. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
+"Comportamento" existe na realidade objectiva, fora das nossas mentes - os conceitos "deve", "deveria" e "preferência" não existem fora das nossas mentes. No entanto, o facto de que o "deveria" não existe na realidade objectiva não significa que o "deveria" seja completamente subjectivo. Nem o método científico nem os próprios números, existem na realidade, ainda que a ciência e a matemática permaneçam como disciplinas objectivas.
 
-### Self-Defeating Arguments
+### Argumentos de Auto-Derrota
 
-In order to begin our discussion of ethics, it is essential that we understand the nature of *self-defeating arguments*.
+Para começar a nossa discussão sobre a ética, é essencial que entendamos a natureza dos *argumentos auto-destrutivos*.
 
 In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
 
