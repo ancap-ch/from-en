@@ -1,4 +1,4 @@
-## Preface to the First Edition
+## Przedmowa do Pierwszego Wydania
 
 The collapse of socialism across Eastern Europe—as manifested most dramatically by the events of the forever memorable November 9, 1989, when the Germans of East and West reunited, moved and overjoyed, on top of the Berlin Wall—has added more support and urgency to the central thesis of this volume than I had ever hoped for.
 
