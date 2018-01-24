@@ -6,13 +6,13 @@
 
 随机使用材料修建桥梁或用随机的“计算”来判断它是否能支撑的起，是不合逻辑的—更不用说非生产性的了。 由于物理定律是相容而普遍的，所以比较容易在修建桥梁*之前*计算出它能否支撑起来。
 
-在修建桥梁之前判断它的可行性有两种方法。 第一是在支持修建桥梁可行性的前提和计算中找出内部矛盾。 如果在桥梁能支撑的重量计算中有明显错误，那么这座桥要么可能是被过度设计了，或是设计不足。 If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+在修建桥梁之前判断它的可行性有两种方法。 第一是在支持修建桥梁可行性的前提和计算中找出内部矛盾。 如果在桥梁能支撑的重量计算中有明显错误，那么这座桥要么可能是被过度设计了，或是设计不足。 如果错误的数学计算导致了桥梁的任何一处承载每平方英尺五十吨的力量，那么它肯定支撑不住—如果真是如此，它的可行性只会是个偶然，也不可再复制。
 
 The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
 
-In computer terms, code that does not compile cannot be tested.
+在计算机术语中，不能编译的代码不可被测试。
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+在科学界也是如此。 Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
 
 Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
 
