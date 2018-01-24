@@ -32,9 +32,9 @@ Como Hume, conhecidamente, afirmou, é impossível derivar um "dever" de um "ser
 
 Da mesma forma, não existe uma direcção universalmente "melhor" - tudo depende do destino preferido. Se eu quisesse dirigir desde San Francisco até Nova Iorque, "deveria" dirigir para o leste. Se eu quisesse dirigir para o oceano a partir de San Francisco, deveria "dirigir para o oeste". Nem "leste" nem "oeste" podem ser considerados universalmente "melhores."
 
-It is true that very few people *do* drive into the ocean, but that does not mean that it is universally true that nobody *ought* to drive into the ocean. Principles are not democratic – or, if they are, we once more face the problem of rank subjectivism, and must throw the entire concept of ethics out the window.
+É verdade que muito poucas pessoas *dirigem* para o oceano, mas isso não significa que seja universalmente verdade que ninguém *deveria* dirigir para o oceano. Os princípios não são democráticos - ou, se são, mais uma vez enfrentamos o problema do subjectivismo de classificação e devemos jogar, todo o conceito de ética, pela janela.
 
-“Behaviour” exists in objective reality, outside our minds – the concepts “ought,” “should,” and “preference,” do not exist outside our minds. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
+"Comportamento" existe na realidade objectiva, fora das nossas mentes - os conceitos "deve", "deveria" e "preferência" não existem fora das nossas mentes. No entanto, o facto de que o "deveria" não existe na realidade objectiva não significa que o "deveria" seja completamente subjectivo. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
 
 ### Self-Defeating Arguments
 
