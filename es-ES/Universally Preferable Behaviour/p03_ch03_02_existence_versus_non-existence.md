@@ -32,7 +32,7 @@ De la misma manera, incluso si elijo pagar mis impuestos voluntariamente, no pue
 
 Toda esta cuestión se vuelve aún más ridícula cuando observamos la "justificación" moral más común para el poder de los gobiernos democráticos, que se basa en la "voluntad de la mayoría."
 
-First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
+First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. La "mayoría" no puede tener más "voluntad" que una "línea de coro" puede "dar a luz". Si usted duda esto, apenas intente construir una casa del árbol con el concepto "bosque" más bien que con cualesquiera pedazos de madera individuales.
 
 Two additional objections constantly recur whenever the question of the necessity of a government arises. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
 
@@ -47,13 +47,13 @@ Logically, there are four possibilities as to the mixture of good and evil peopl
 
 In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
 
-In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. El gobierno, por lo general se argumenta, debe existir porque hay gente malvada en el mundo que desea infligir daño, y que sólo puede ser restringido a través del miedo a la retribución del gobierno (policía, prisiones, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. El gobierno, por lo general se argumenta, debe existir porque hay gente malvada en el mundo que desea infligir daño, y que sólo puede ser restringido a través del miedo a la retribución del gobierno (policía, prisiones, *et al*). Un corolario de este argumento es que cuanto menos retribución estas personas temen, más mal harán.
 
 However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
 
 Así que si la gente malvada desea hacer daño, pero sólo son restringidos por la fuerza, entonces la sociedad puede *nunca* permitir que un gobierno exista, porque la gente malvada trabajará febrilmente para agarrar el control de ese gobierno, con el fin de hacer el mal y evitar la retribución. En una sociedad de maldad pura, entonces, la única esperanza de estabilidad sería un estado de naturaleza, donde un armado general y el miedo a la retribución embotarían los malos intentos de grupos dispares. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
 
-The third possibility is that *most* people are evil, and only a few are good. If that is the case, then the government also cannot be permitted to exist, since the majority of those in control of the government will be evil, and will rule despotically over the good minority. Democracy in particular cannot be permitted, since the minority of good people would be subjugated to the democratic control of the evil majority. Evil people, who wish to do harm without fear of retribution, would inevitably control the government, and use its power to do evil free of the fear of consequences.
+The third possibility is that *most* people are evil, and only a few are good. Si ese es el caso, entonces al Gobierno tampoco se le puede permitir existir, ya que la mayoría de los que controlan el gobierno serán malvados y gobernarán de forma descontrolada la buena minoría. Democracy in particular cannot be permitted, since the minority of good people would be subjugated to the democratic control of the evil majority. Evil people, who wish to do harm without fear of retribution, would inevitably control the government, and use its power to do evil free of the fear of consequences.
 
 Good people do not act morally because they fear retribution, but because they love virtue and peace of mind – and thus, unlike evil people, they have little to gain by controlling the government. In this scenario, then, the government will inevitably be controlled by a majority of evil people who will rule over all, to the detriment of all moral people.
 
@@ -89,9 +89,9 @@ En una sociedad voluntaria, no habría imposición, y por lo tanto cualquier gru
 
 Es muy difícil entender la lógica y la inteligencia del argumento de que, para protegernos de un grupo que *podría* nos dominan, debemos apoyar a un grupo que *ya tiene* nos ha sobrealimentado. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
 
-What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+What is the evidence for the view that decentralised and competing powers promotes peace? En otras palabras, ¿hay algún dato que podamos aprovechar para apoyar la idea de que un equilibrio de poder es la única oportunidad que el individuo tiene para la libertad?
 
-Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
+El crimen organizado no proporciona muchos buenos ejemplos, ya que las pandillas tan regularmente corrompen, manipulan y utilizan el poder de la policía del gobierno para hacer cumplir su regla, por lo que no se puede decir que esas pandillas operen en un estado de naturaleza. Además, las pandillas criminales se benefician enormemente al suministrar sustancias o servicios legalmente prohibidos, por lo que también florecen en gran medida debido a las políticas estatales.
 
 A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
 
