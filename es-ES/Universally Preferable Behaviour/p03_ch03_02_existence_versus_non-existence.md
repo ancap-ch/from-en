@@ -6,9 +6,9 @@ He escrito decenas de artículos exponiendo la falsedad de esta posición, por l
 
 El “argumento por funcionalidad” no resuelve de ninguna manera el problema de la violencia. Si lo veo comiendo hamburguesas con queso todos los días, puedo decirle que eso no es funcional para usted hacerlo, si quiere mantener un peso saludable. No puedo asegurar que sea *malo* para usted comer hamburguesas con queso, por las razones antes mencionadas. No puedo simplemente obligarlo usando la fuerza para aumentar la “funcionalidad” de sus acciones.
 
-Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
+Por ende decir que el gobierno tiene justificación para forzarnos a ser más “funcionales” es completamente falso, lo cual es verificado por el marco de UPB - aún si suponemos que las soluciones del gobierno son más “funcionales”, las cuales en realidad no lo son.
 
-Además, si los representantes del gobierno alegan que un contrato social les permite forzar a una población "impracticable" a comportarse más "prácticamente", se crea una contradicción insuperable.
+Además, si representantes del gobierno afirman que un contrato social les permite forzar a una población “disfuncional” para que se comporte de manera más “”funcional”, se crea una contradicción inquebrantable.
 
 Si obligo a una mujer a casarse con un hombre que he elegido para ella, entonces creo claramente que tengo un juicio infinitamente mejor acerca de la idoneidad de un marido para ella que ella. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
 
