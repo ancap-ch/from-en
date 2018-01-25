@@ -29,7 +29,7 @@ Now a non-enumerated list:
 
 Some quotation. First line is large; second line is small; third line is empty; fourth line is not. 5th line is not a quotation; 6th line is:
 
-> 1th line is large: The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. 2th line is small: The quick, brown fox jumps over a lazy dog.
+> 1th line is large: The quick, brown fox jumps over a lazy dog. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. 2th line is small: The quick, brown fox jumps over a lazy dog.
 > 
 > 4th line is not empty: The quick, brown fox jumps over a lazy dog.
 > 
@@ -43,7 +43,7 @@ Some quotation. First line is large; second line is small; third line is empty; 
 
 #### Heading at the fourth level
 
-Some text at 4th level.
+Tekst na czwartym poziomie.
 
 ##### Heading at the fifth level
 
