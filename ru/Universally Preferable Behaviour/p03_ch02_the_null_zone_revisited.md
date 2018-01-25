@@ -1,8 +1,8 @@
 ## The Null Zone Revisited
 
-В начале этой книги я предложил способ взглянуть на то, как мы обрабатываем истину, проводя аналогию с физикой. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
+В начале этой книги я предложил способ взглянуть на то, как мы обрабатываем истину, проводя аналогию с физикой. От «малых истин» ловли бейсбольного мяча мы приходим к «великим истинам» физики, а великие истины не могут противоречить малым истинам.
 
-The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
+То же самое относится и к морали. От малых истин «я не должен убивать» мы можем прийти к великим истинам, таким как «спровоцировать применение силы морально неправильно»
 
 In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
 
