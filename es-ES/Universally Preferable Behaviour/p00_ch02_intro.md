@@ -52,11 +52,11 @@ En el campo de la ciencia, no es demasiado difícil ver las fuerzas opresivas qu
 
 La simple verdad es que "sacerdotes" y "reyes" fueron - y son - simplemente hombres. La simple verdad es que dioses y demonios que fueron supuestos para justificar sus reglas, nunca existieron.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+Hemos logrado grandes progresos en la comprensión de la naturaleza y la realidad de la simple igualdad humana, pero el triste hecho en la materia es que el campo de la *moralidad* todavía se pierde en la "zona nula" - en las destructivas ilusiones de las "medias verdades".
 
-### "Middle Truths"
+### "Medias Verdades"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+Vamos a llamar los principios de oposición que residen en la "zona nula" - entre la percepción sensorial y la consistencia conceptual - las "medias verdades".
 
 These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
 
