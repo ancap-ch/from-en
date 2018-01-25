@@ -1,6 +1,6 @@
 # Àfihàn
 
-Ninu ọrọ òmìnira gbigba ti ìlú Amerika, Thomas Jefferson sọ́ wipe
+Ninu ìkéde òmìnira gbigba ti ìlú Amerika, Thomas Jefferson sọ́ wipe
 
 > gbogbo òtítọ yìí fojú hàn: wípé gbogbo ẹda lá dá bakanna; ati pé ẹlẹdàá wọn fún wọn ní àwọn ẹtọ ọmọnìyàn ti ko ṣe yí padà; láàrin àwọn ẹtọ ọmọnìyàn yìí ni ayé gbígbé, ominira, ati ṣiṣe àwárí ìdùnnú: atí pé láti ṣe amojuto awọn ẹtọ wọnyii, a dá ìjọba káalè laarin awọn èèyàn, ti wọn sì rí agbára pẹlu aṣẹ awọn ti wọn ṣe àkóso le lori; pé nigbakugba ti eyikeyi iru ìjọba kàn ba fẹ pa awọn ẹtọ yìí run, ẹtọ ni fún àwọn èèyàn láti yí padà tàbí pa ìjọba náà run, ati láàti gbé ìgbésẹ lórí ìjọba tuntun mìíràn, ti yíò fìdí múlẹ lórí àwọn ìlànà ẹtọ, ti wọn ọ sí ṣètò agbara fún tí yóò fi lè mú ìlérí ààbò ati idunu ṣẹ fún wọn. Ọgbọn yíò ma pàṣẹ pé kí ayipada ma ba awọn ijọba ti o ti wà fun igba pipẹ nitori idi kekere ati èyí tí kò fi ẹsẹ múlẹ; ati pé gbogbo ìrírí fi hàn pé o rọrun fún àwọn èèyàn láàti jẹ ìyá nigbati ìjìyà wa fún oluṣe-buburu, ju pé kí wọn ṣe ará wọn lẹtọ pẹlu fifi òpin sí àwọn ètò tí wọn ti sábà. Sugbon nigbatií èébu ati ìwà aibofinmu bá ti pọju lori nkan kan, ti o sì fẹ kó adinku ba wọn lọnà inira, ẹtọ ni fún wọn láti kọ irú ìjọba bẹẹ silẹ, atí pe ki won pèsè olùṣọ tuntun fún ọjọ iwájú wọn.
 
