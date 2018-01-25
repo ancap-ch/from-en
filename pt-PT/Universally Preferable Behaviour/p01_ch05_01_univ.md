@@ -28,17 +28,17 @@ A analogia histórica mais próxima à nossa situação atual ocorreu nos sécul
 
 Para atacar falsas moralidades, devemos começar desde o início, assim como fizeram os primeiros cientistas. Francis Bacon não alegou que o método científico fosse mais "eficiente" do que a oração, textos bíblicos ou visões induzidas pela fome. Ele disse, apenas, que se queremos entender a natureza, devemos observar a natureza e teorizar logicamente - e que não existe *nenhuma outra rota* para o conhecimento.
 
-Devemos seguir a mesma abordagem na definição e comunicação de *moralidade*. Devemos começar a usar o poder e a legitimidade do método científico para provar a validade e a universalidade das leis morais. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
+Devemos seguir a mesma abordagem na definição e comunicação de *moralidade*. Devemos começar a usar o poder e a legitimidade do método científico para provar a validade e a universalidade das leis morais. Devemos começar desde o princípio, construir logicamente e rejeitar *qualquer* substituto irracional ou não empírico para a verdade.
 
-What does this look like in practice? All we have to do is establish the following axioms:
+O que é que se vê isso na prática? Tudo o que temos a fazer é estabelecer os seguintes axiomas:
 
-- Morality is a valid concept.
-- Moral rules must be consistent for all mankind.
-- The validity of a moral theory is judged by its consistency.
+- A moral é um conceito válido.
+- As regras morais devem ser consistentes para toda a Humanidade.
+- A validade de uma teoria moral é julgada pela sua consistência.
 
-To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
+Para começar desde o início... as regras morais - ou comportamentos humanos universalmente preferíveis - são completamente válidas?
 
-There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
+Existem apenas duas possibilidades quando se trata de regras morais, tal como em qualquer ciência lógica. As regras morais universais são válidas ou não são.[^6]
 
 A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
 
