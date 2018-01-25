@@ -62,11 +62,11 @@ Estas "medias verdades" son las ilusiones más peligrosas de todas, porque otorg
 
 Al proporcionar la ilusión de que hemos encontrado la verdad, las "medias verdades" realmente nos evitan obtener la verdad. Son la última línea de defensa para la fantasía, la depredación y la explotación.
 
-Ya que no son solo irracionales, sino *anti* racionales, las "medias verdades" permanecen infinitamente flexibles - mientras que sirvan a aquellos en el poder. Por ejemplo, el Cristianismo surgió del creciente fascismo del Imperio Romano tardío en parte atacando a las supersticiones "primitivas" de las teologías existentes. “Forget your old gods, we have a brand new God who is far better!”
+Ya que no son solo irracionales, sino *anti* racionales, las "medias verdades" permanecen infinitamente flexibles - mientras que sirvan a aquellos en el poder. Por ejemplo, el Cristianismo surgió del creciente fascismo del Imperio Romano tardío en parte atacando a las supersticiones "primitivas" de las teologías existentes. "¡Olvídate de tus viejos dioses, nosotros tenemos un Dios completamente nuevo que es mucho mejor!"
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+Las "Medias Verdades" siempre toman la forma de una verdad, seguida por una mentira. "Zeus es una superstición pagana" es la declaración verdadera, la cual fue hecha abiertamente por proselitistas Cristianos. La mentira que la siguió fue: "Yahvé no es una superstición pagana, sino un Dios real y vivo".
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+Podemos personalizar esto un poco más con un ejemplo que será familiar para aquellos que alguna vez han aconsejado a un amigo disfuncional. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
 
 It is very hard not to replace one illusion with another.
 
