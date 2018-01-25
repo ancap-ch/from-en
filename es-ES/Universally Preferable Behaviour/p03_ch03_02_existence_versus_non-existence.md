@@ -4,7 +4,7 @@ Once the violence of government is intellectually exposed – and the supposed �
 
 He escrito decenas de artículos exponiendo la falsedad de esta posición, por lo que no se molestarán a reiterar los argumentos aquí, puesto que no son esenciales en un libro sobre moralidad, sino más bien sería más apropiados para un libro explicando los principios y aspectos prácticos de una sociedad voluntaria.[^4]
 
-The “argument from practicality” in no way solves the problem of violence. Si te veo comer hamburguesas todos los días, puedo decirles que no es práctico para que usted pueda hacerlo, si quieres mantener un peso saludable. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
+El "argumento de la practicidad" no resuelve en modo alguno el problema de la violencia. Si te veo comer hamburguesas todos los días, puedo decirles que no es práctico para que usted pueda hacerlo, si quieres mantener un peso saludable. No puedo afirmar que es *mal* para que usted coma hamburguesas con queso, por razones que ya hemos entrado. No puedo justamente obligarte a forzar la fuerza para aumentar la "practicidad" de tus acciones.
 
 Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
 
