@@ -28,7 +28,7 @@ A analogia histórica mais próxima à nossa situação atual ocorreu nos sécul
 
 Para atacar falsas moralidades, devemos começar desde o início, assim como fizeram os primeiros cientistas. Francis Bacon não alegou que o método científico fosse mais "eficiente" do que a oração, textos bíblicos ou visões induzidas pela fome. Ele disse, apenas, que se queremos entender a natureza, devemos observar a natureza e teorizar logicamente - e que não existe *nenhuma outra rota* para o conhecimento.
 
-We must take the same approach in defining and communicating *morality*. We must begin using the power and legitimacy of the scientific method to prove the validity and universality of moral laws. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
+Devemos seguir a mesma abordagem na definição e comunicação de *moralidade*. Devemos começar a usar o poder e a legitimidade do método científico para provar a validade e a universalidade das leis morais. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
 
 What does this look like in practice? All we have to do is establish the following axioms:
 
