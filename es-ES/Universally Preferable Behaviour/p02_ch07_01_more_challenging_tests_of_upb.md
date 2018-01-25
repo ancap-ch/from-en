@@ -20,19 +20,19 @@ Por lo tanto, dado que sabemos que la violencia es malvada, sabemos que podemos 
 
 Además, si los seres humanos no pueden actuar válidamente para evitar daños a sí mismos, entonces acciones como inoculaciones, usar guantes en el frío, ponerse protector solar o repelente de insectos, construir una pared para evitar un deslizamiento de tierra, cepillarse los dientes, usar zapatos, etc. son todas acciones inmorales. Si volvemos a Bob y Doug, y les damos el argumento moral de que la autodefensa siempre está mal, ¿qué resultados nos da?
 
-Well, we create another paradox. Self-defence is the use of violence to prevent violence. If self-defence is always wrong, then it cannot be violently “inflicted” upon an attacker. However, preferences that cannot be inflicted upon others fall into the APA or morally neutral category. To place the violence of self-defence into these categories is to say that violence cannot be inflicted on others – but the very nature of violence is that it *is* inflicted on others, and thus this approach results in a surfeit of contradictions.
+Bueno, creamos otra paradoja. La autodefensa es el uso de la violencia para prevenir la violencia. Si la autodefensa siempre es incorrecta, no puede ser violentamente "infligida" por un atacante. Sin embargo, las preferencias que no pueden infligirse a otros entran dentro de la APA o categoría moralmente neutral. Situa la violencia de autodefensa en estas categorías, es decir que la violencia no puede infligirse a otros, pero la naturaleza misma de la violencia es que * es * infligida a otros, y por lo tanto este enfoque resulta en una exceso de contradicciones.
 
-Self-defence cannot be “evil,” since evil by definition can be prevented through force. However, self-defence is a response to the initiation of force, and thus cannot be prevented through force, any more than you can stop the motion of a soccer ball by kicking it violently.
+La autodefensa no puede ser "mala", ya que el mal por definición se puede prevenir mediante la fuerza. Sin embargo, la autodefensa es una respuesta al inicio de la fuerza y, por lo tanto, no se puede prevenir con la fuerza, del mismo modo que no se puede detener el movimiento de una pelota de fútbol pateándola violentamente.
 
-Self-defence also cannot be *required* behaviour, since required behaviour (“don’t rape”) can be enforced through violence, which would mean that anyone failing to violently defend himself could be legitimately aggressed against. However, someone failing to defend himself is *already* being aggressed against, and so we end up in a circular situation where everyone can legitimately act violently against a person who is not defending himself, which is not only illogical, but morally abhorrent.
+La autodefensa tampoco puede ser un comportamiento * requerido *, ya que la conducta requerida ("no violar") puede imponerse mediante la violencia, lo que significaría que cualquier persona que no pueda defenderse violentamente podría ser legítimamente atacada. Sin embargo, alguien que no se defiende se * ya * está siendo atacado, por lo que termina en una situación circular en la que todos pueden actuar violentamente contra una persona que no se defiende, lo que no es solo ilógico, si no moralmente aborrecible.
 
-If Bob attacks Doug, but it is completely wrong for Doug to use violence to defend himself, then violence ends up being placed into two moral categories – the initiation of force is morally good, but self-defence is morally evil, which cannot stand according to UPB.
+Si Bob ataca a Doug, pero es completamente incorrecto que Doug use la violencia para defenderse, entonces la violencia termina siendo colocada en dos categorías morales: el inicio de la fuerza es moralmente bueno, pero la autodefensa es moralmente mala, lo cual no puede soportarlo a UPB.
 
-However, you might argue, does not the proposition that self-defence is good also make violence both good and bad at the same time – the violence that is used to attack is bad, but the violence that is used for self-defence is good?
+Sin embargo, podría argumentar que la proposición de que la autodefensa no es buena también hace que la violencia sea buena y mala al mismo tiempo, la violencia que se usa para atacar es mala, pero la violencia que se usa para la autodefensa es buena?
 
-This is an interesting objection – however, if the initiation of force is evil, then it can be prohibited by using force, since that is one of the very definitions of evil that we worked out above.
+Esta es una objeción interesante, sin embargo, si el inicio de la fuerza es malo, entonces puede prohibirse mediante el uso de la fuerza, ya que esa es una de las definiciones del mal que elaboramos anteriormente.
 
-Thus it is impossible for any logical moral theory to reject the moral validity of self-defence.
+Por lo tanto, es imposible que cualquier teoría moral lógica rechace la validez moral de la autodefensa.
 
 ### Child Raising
 
