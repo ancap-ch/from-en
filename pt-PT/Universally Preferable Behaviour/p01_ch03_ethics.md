@@ -46,10 +46,10 @@ Em geral, qualquer teoria que se contradiga no enunciado não pode ser válida. 
 
 Se eu lhe enviasse uma prova matemática complexa e você percebesse que, no início, eu afirmava que a minha prova dependia do fato de que dois e dois fazem quatro e cinco ao mesmo tempo, não necessitaria ler nada mais além disso, para saber que a minha prova era inválida.
 
-Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
+Do mesmo modo, como foi mencionado anteriormente, se eu chegasse até você e dissesse: "Eu não existo", a minha tese autodestruir-se-ia automaticamente. Se eu posso comunicar-lhe que não existo, então, evidentemente, existo.
 
-If I come up to you and say: “There is no such thing as truth,” then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
+Se eu chegasse e dissesse: "Não existe tal coisa como a verdade", estaria a fazer uma declaração que considero verdadeira, alegando que a verdade não existe. Mais uma vez, o meu argumento se auto-destrói.
 
-If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
+Se eu lhe dissesse: "A linguagem não tem sentido", também me estaria a contradizer. Para que eu possa comunicar verbalmente que a linguagem não tem sentido, esta deve ter, pelo menos algum significado.
 
 If I tell you that “Your senses are invalid,” then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
