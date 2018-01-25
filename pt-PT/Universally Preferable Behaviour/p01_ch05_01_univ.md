@@ -1,6 +1,6 @@
-## Universally Preferable Behaviour
+## Comportamento Universalmente Preferível
 
-As a result of the above arguments, we can see that it is impossible to enter into any debate without accepting the premise that certain behaviours are *universally preferable*.
+Como resultado dos argumentos anteriores, podemos ver que é impossível entrar em qualquer debate sem aceitar a premissa de que certos comportamentos são *universalmente preferíveis*.
 
 I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
 
