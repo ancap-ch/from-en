@@ -6,7 +6,7 @@
 
 В области физики центральным препятствием для логической экстраполяции истин от личного опыта к универсальной теории была религия.
 
-For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
+В области физики центральным препятствием для логической экстраполяции истин от личного опыта к универсальной теории была религия. Например, ни один человек никогда не сталкивался с совершенной окружностью – такая вещь существует в абстракции и математике, но ее нельзя ни визуализировать в уме, ни ощутить в реальном мире.
 
 However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
 
