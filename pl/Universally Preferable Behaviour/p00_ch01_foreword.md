@@ -2,7 +2,7 @@
 
 In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Większość ludzi kuli się pod cieniem tej bestii, nazywając ich strach "rozwagą", ale kilku - zgaduję, że pijanych sądząc po brawurze - decyduje się walczyć. Rok po roku, dekada po dekadzie, fala po fali pełnych nadziei bohaterów próbuje zmierzyć swoją siłę, zalety i spryt przeciwko temu okropnemu tyranowi.
 
 Try – and fail.
 
