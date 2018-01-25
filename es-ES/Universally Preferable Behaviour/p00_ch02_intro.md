@@ -62,7 +62,7 @@ Estas "medias verdades" son las ilusiones más peligrosas de todas, porque otorg
 
 Al proporcionar la ilusión de que hemos encontrado la verdad, las "medias verdades" realmente nos evitan obtener la verdad. Son la última línea de defensa para la fantasía, la depredación y la explotación.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Ya que no son solo irracionales, sino *anti* racionales, las "medias verdades" permanecen infinitamente flexibles - mientras que sirvan a aquellos en el poder. Por ejemplo, el Cristianismo surgió del creciente fascismo del Imperio Romano tardío en parte atacando a las supersticiones "primitivas" de las teologías existentes. “Forget your old gods, we have a brand new God who is far better!”
 
 “Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
 
