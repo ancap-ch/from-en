@@ -48,9 +48,9 @@ Si entendemos que nuestro potencial asombroso ha estado disponible para nosotros
 
 Por lo tanto, debe haber una fuerza descendente que ha actuado históricamente para aplastar y esclavizar la libertad natural de la humanidad.
 
-En el campo de la ciencia, no es demasiado difícil ver las fuerzas opresivas que continuamente mantienen nuestras mentes en la ignorancia casi primigenia. La combinación de superstición en la forma de religión y violencia en la forma de la aristocracia, amenazaba a los pensadores racionales con intimidación, encarcelamiento, tortura y asesinato. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+En el campo de la ciencia, no es demasiado difícil ver las fuerzas opresivas que continuamente mantienen nuestras mentes en la ignorancia casi primigenia. La combinación de superstición en la forma de religión y violencia en la forma de la aristocracia, amenazaba a los pensadores racionales con intimidación, encarcelamiento, tortura y asesinato. Así como un agricultor se beneficia de la baja inteligencia de sus vacas y un poseedor de esclavos se beneficia del miedo de sus esclavos, sacerdotes y reyes retuvieron sus privilegios amenazando con muerte a todo aquel que se atrevió a pensar.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+La simple verdad es que "sacerdotes" y "reyes" fueron - y son - simplemente hombres. La simple verdad es que dioses y demonios que fueron supuestos para justificar sus reglas, nunca existieron.
 
 We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
 
