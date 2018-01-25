@@ -4,7 +4,7 @@
 
 То же самое относится и к морали. От малых истин «я не должен убивать» мы можем прийти к великим истинам, таким как «спровоцировать применение силы морально неправильно»
 
-In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
+В области физики центральным препятствием для логической экстраполяции истин от личного опыта к универсальной теории была религия.
 
 For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
 
