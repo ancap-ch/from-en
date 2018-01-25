@@ -8,9 +8,9 @@ El "argumento de la practicidad" no resuelve en modo alguno el problema de la vi
 
 Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
 
-Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
+Además, si los representantes del gobierno alegan que un contrato social les permite forzar a una población "impracticable" a comportarse más "prácticamente", se crea una contradicción insuperable.
 
-If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
+Si obligo a una mujer a casarse con un hombre que he elegido para ella, entonces creo claramente que tengo un juicio infinitamente mejor acerca de la idoneidad de un marido para ella que ella. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
 
 When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
 
