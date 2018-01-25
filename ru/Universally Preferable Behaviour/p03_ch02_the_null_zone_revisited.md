@@ -10,7 +10,7 @@
 
 Однако в течение тысяч лет астрономическая наука была изувечена поисками этой «идеальной окружности». Орбиты планет должны были быть идеальными окружностями, ибо Бог никогда не допустил бы такое «несовершенство», как эллипс, в Своем творении.
 
-Проблема с этим подходом - ну, в любом случае, одна из - это ретроградное движение Марса. From our planet, Mars at times appears to be moving “backwards,” as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
+Проблема с этим подходом - ну, в любом случае, одна из - это ретроградное движение Марса. С точки зрения нашей планеты временами кажется, что Марс движется «назад», поскольку Земля «обгоняет» его в движении вокруг Солнца. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
 
 Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
 
