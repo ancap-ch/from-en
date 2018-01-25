@@ -10,7 +10,7 @@ Por ende decir que el gobierno tiene justificación para forzarnos a ser más �
 
 Además, si representantes del gobierno afirman que un contrato social les permite forzar a una población “disfuncional” para que se comporte de manera más “”funcional”, se crea una contradicción inquebrantable.
 
-Si obligo a una mujer a casarse con un hombre que he elegido para ella, entonces creo claramente que tengo un juicio infinitamente mejor acerca de la idoneidad de un marido para ella que ella. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
+Si fuerzo a una a mujer para que se case con un hombre que yo elegí para ella, entonces claramente creo que se muchísimo mejor que ella qué hombre sería el indicado para ser su marido. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
 
 When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
 
