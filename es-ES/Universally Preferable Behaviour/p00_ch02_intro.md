@@ -46,9 +46,9 @@ Si nos fijamos en el progreso tecnológico y económico de la humanidad, vemos m
 
 Si entendemos que nuestro potencial asombroso ha estado disponible para nosotros por lo menos por decenas de miles de años - y que es a la vez una gran ganancia y un gran placer al ejercitarlo - entonces enseguida se vuelve claro que realmente queremos *hacer* uso de nuestras increíbles mentes.
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+Por lo tanto, debe haber una fuerza descendente que ha actuado históricamente para aplastar y esclavizar la libertad natural de la humanidad.
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+En el campo de la ciencia, no es demasiado difícil ver las fuerzas opresivas que continuamente mantienen nuestras mentes en la ignorancia casi primigenia. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
 
 The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
 
