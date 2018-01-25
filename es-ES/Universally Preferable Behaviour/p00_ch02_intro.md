@@ -58,9 +58,9 @@ Hemos logrado grandes progresos en la comprensión de la naturaleza y la realida
 
 Vamos a llamar los principios de oposición que residen en la "zona nula" - entre la percepción sensorial y la consistencia conceptual - las "medias verdades".
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+Estas "medias verdades" son las ilusiones más peligrosas de todas, porque otorgan la *apariencia* de una verdad mientras realmente *atacan* la verdad.
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+Al proporcionar la ilusión de que hemos encontrado la verdad, las "medias verdades" realmente nos evitan obtener la verdad. Son la última línea de defensa para la fantasía, la depredación y la explotación.
 
 Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
 
