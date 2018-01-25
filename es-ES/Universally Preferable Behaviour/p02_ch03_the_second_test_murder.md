@@ -32,8 +32,8 @@ Aquí nuevamente encontramos que el marco UPB es verdadero en términos de asesi
 
 Podríamos tomar el mismo enfoque a la cuestión del asalto, pero los argumentos serían idénticos a los de la violación y el asesinato, por lo que, en aras de la brevedad, continuaremos.
 
-Pasemos ahora a la cuestión del robo. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
+Pasemos ahora a la cuestión del robo. Si este marco también es válido acá, entonces hemos llegado a la trifecta perfecta de nuestra comprensión moral instintiva, y hemos encontrado una confirmación racional de nuestras creencias existentes. Hemos descubierto las matemáticas que explican cómo somos capaces de atrapar instintivamente una pelota, y ese es un comienzo necesario.
 
-### Self-Defence?
+### ¿Autodefensa?
 
-We have skirted over the issue of self-defence with regards to murder, though it is scarcely necessary to examine it in the case of rape. This is not because the issue of self-defence is either self-evident or uncomplicated, but rather because the complications that exist can be dealt with more comprehensively after we look at the question of theft.
+Hemos eludido el tema de la autodefensa con respecto al asesinato, aunque apenas es necesario examinarlo en el caso de una violación. Esto no se debe a que el tema de la autodefensa sea evidente o sencillo, sino más bien porque las complicaciones que existen se pueden tratar más exhaustivamente después de analizar la cuestión del robo.
