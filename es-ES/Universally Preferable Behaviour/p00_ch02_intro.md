@@ -36,7 +36,7 @@ En los mapas antiguos, antes de que los cartógrafos hubieran terminado sus expl
 
 Lo mismo es verdad en el campo de la moralidad.
 
-### The Casualties
+### Las Bajas
 
 Cruzar esta "zona nula" está lleno de riegos. El camino de las pequeñas verdades a las grandes verdades está pavimentado con los huesos de millones. Desde la muerte de Sócrates a la tortura de los primeros científicos por fanáticos religiosos, a los millones que han asesinado y muerto por las fantasías negras del fascismo y comunismo, cualquier empuje hacia adelante del conocimiento humano dentro de la "zona nula" está lleno de un considerable peligro.
 
@@ -44,7 +44,7 @@ Cruzar esta "zona nula" está lleno de riegos. El camino de las pequeñas verdad
 
 Si nos fijamos en el progreso tecnológico y económico de la humanidad, vemos más o menos una línea plana durante incontables milenios, seguida por picos masivos y asintóticos alrededor de los últimos pocos cientos de años. Es inconcebible que alguna mutación genética extendida pueda explicar esta repentina y enorme aceleración en la coherencia intelectual y el éxito material. Las teorías que afirman que un cierto "efecto bola de nieve" vino a la existencia, misteriosamente impulsado por una acumulación de todos los pequeños incrementos de conocimiento que habían ocurrido desde los albores de la civilización, usualmente se pueden descartar totalmente como explicaciones * ex post facto*, ya que no tienen valor predictivo.
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+Si entendemos que nuestro potencial asombroso ha estado disponible para nosotros por lo menos por decenas de miles de años - y que es a la vez una gran ganancia y un gran placer al ejercitarlo - entonces enseguida se vuelve claro que realmente queremos *hacer* uso de nuestras increíbles mentes.
 
 Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
 
