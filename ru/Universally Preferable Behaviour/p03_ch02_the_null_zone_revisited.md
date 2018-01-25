@@ -8,9 +8,9 @@
 
 В области физики центральным препятствием для логической экстраполяции истин от личного опыта к универсальной теории была религия. Например, ни один человек никогда не сталкивался с совершенной окружностью – такая вещь существует в абстракции и математике, но ее нельзя ни визуализировать в уме, ни ощутить в реальном мире.
 
-However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
+Однако в течение тысяч лет астрономическая наука была изувечена поисками этой «идеальной окружности». Орбиты планет должны были быть идеальными окружностями, ибо Бог никогда не допустил бы такое «несовершенство», как эллипс, в Своем творении.
 
-The problem with this approach – well, one problem anyway – was the retrograde motion of Mars. From our planet, Mars at times appears to be moving “backwards,” as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
+Проблема с этим подходом - ну, в любом случае, одна из - это ретроградное движение Марса. From our planet, Mars at times appears to be moving “backwards,” as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
 
 Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
 
