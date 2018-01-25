@@ -30,13 +30,13 @@ De la misma manera, incluso si elijo pagar mis impuestos voluntariamente, no pue
 
 ### The Necessity Of The State?
 
-This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
+Toda esta cuestión se vuelve aún más ridícula cuando observamos la "justificación" moral más común para el poder de los gobiernos democráticos, que se basa en la "voluntad de la mayoría."
 
 First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
 
 Two additional objections constantly recur whenever the question of the necessity of a government arises. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
 
-The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Citizens can protect themselves against evil individuals, but stand no chance against an aggressive government armed to the teeth with police and military might. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
+The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Los ciudadanos pueden protegerse contra individuos malvados, pero no tienen ninguna posibilidad contra un gobierno agresivo armado hasta los dientes con fuerza policial y militar. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
 
 Logically, there are four possibilities as to the mixture of good and evil people in the world:
 
