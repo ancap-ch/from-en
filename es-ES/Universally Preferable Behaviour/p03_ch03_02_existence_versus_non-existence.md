@@ -2,9 +2,9 @@
 
 Once the violence of government is intellectually exposed – and the supposed “voluntarism” of citizens is revealed as a vicious fraud – the argument always comes back that we *need* government to supply us with public goods such as protection, regional defence, roads etc.
 
-I have written dozens of articles exposing the falsehood of this position, so I will not bother to reiterate those arguments here, since they are not essential to a book on morality, but rather would be more appropriate to a book explaining the principles and practicalities of a voluntary society.[^4]
+He escrito decenas de artículos exponiendo la falsedad de esta posición, por lo que no se molestarán a reiterar los argumentos aquí, puesto que no son esenciales en un libro sobre moralidad, sino más bien sería más apropiados para un libro explicando los principios y aspectos prácticos de una sociedad voluntaria.[^4]
 
-The “argument from practicality” in no way solves the problem of violence. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
+The “argument from practicality” in no way solves the problem of violence. Si te veo comer hamburguesas todos los días, puedo decirles que no es práctico para que usted pueda hacerlo, si quieres mantener un peso saludable. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
 
 Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
 
