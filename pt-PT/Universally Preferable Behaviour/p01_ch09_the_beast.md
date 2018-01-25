@@ -1,6 +1,6 @@
 ## The Beast
 
-An objective review of human history would seem to point to the grim reality that by far the most dangerous thing in the world is *false ethical systems*.
+Uma revisão objetiva da história humana parece apontar para a sombria realidade que de longe a coisa mais perigosa do mundo é *falsos sistemas éticos*.
 
 If we look at an ethical system like communism, which was responsible for the murders of one hundred seventy million people, we can clearly see that the real danger to individuals was not random criminals, but *false moral theories*. Similarly, the Spanish Inquisition relied not on thieves and pickpockets, but rather priests and torturers filled with the desire to save the souls of others. Nazism also relied on particular ethical theories regarding the relationship between the individual and the collective, and the moral imperative to serve those in power, as well as theories “proving” the innate virtues of the Aryan race.
 
