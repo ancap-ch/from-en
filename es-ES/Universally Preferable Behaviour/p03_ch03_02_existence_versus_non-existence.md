@@ -14,7 +14,7 @@ Si fuerzo a una a mujer para que se case con un hombre que yo elegí para ella, 
 
 Cuando obligo a esta mujer a casarse, sólo puedo justificar el uso de la fuerza - aún en áreas pragmáticas e inmediatas - si afirmo que ella no tiene las facultades mentales necesarias para tomar sus propias decisiones con respecto al matrimonio.
 
-If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. Si ella no tiene idea de lo que constituye un marido bueno o adecuado, entonces, ¿cómo puede ella evaluarme como apto para decidir quién será un buen esposo adecuado para ella?
+If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. Si ella no tiene idea de cómo sería un marido bueno o apropiado, entonces cómo puede saber que yo estoy capacitado para elegir un esposo bueno o adecuado para ella?
 
 Si un hombre de inteligencia extraordinariamente baja no entiende el concepto de “salud,” ¿sería razonable esperar que sea racional en su elección de un médico? Para elegir competentemente a un doctor, debemos entender los conceptos de la salud, de la eficacia, del coste, del profesionalismo y así sucesivamente. In the same way, if I do not allow a woman to have any say in who she marries, then clearly I must believe that she has no understanding of what makes a good husband – but if she has no understanding of what makes a good husband, then she has no capacity to transfer that choice to me, since she will have no way of evaluating *my* criteria for what makes a good husband.
 
