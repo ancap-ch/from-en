@@ -6,11 +6,11 @@ Aqui uso a palavra "comportamento", em vez de "pensamento", porque é importante
 
 É impossível provar que sonhei com um elefante ontem à noite. É possível provar que escrevi a palavra "elefante", e é por isso que uso a palavra "comportamento" em vez de "pensamento"
 
-Concordar com a lógica superior num argumento é uma* acção*. Se, sempre que tivesse que lhe conceder um ponto, não dissesse nada e ficasse apenas a olhar para si, acharia bastante irritante discutir comigo. To concede a point, I must perform the action of verbal acquiescence.
+Concordar com a lógica superior num argumento é uma* acção*. Se, sempre que tivesse que lhe conceder um ponto, não dissesse nada e ficasse apenas a olhar para si, acharia bastante irritante discutir comigo. Para conceder um ponto, devo realizar a acção da aquiescência verbal.
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+Assim, podemos ver que, inerente ao próprio acto de argumentar existe uma série de premissas interligadas que não podem ser destruídas.
 
-If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+Se lhe peço que me encontre no campo de ténis e apareço com um rifle de caça, podemos acabar praticando um desporto, mas certamente não será ténis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
 
 Historically, those engaged in ethical debating have often failed to maintain this basic reality.
 
