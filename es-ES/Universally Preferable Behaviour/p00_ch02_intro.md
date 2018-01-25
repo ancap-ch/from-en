@@ -66,11 +66,11 @@ Ya que no son solo irracionales, sino *anti* racionales, las "medias verdades" p
 
 Las "Medias Verdades" siempre toman la forma de una verdad, seguida por una mentira. "Zeus es una superstición pagana" es la declaración verdadera, la cual fue hecha abiertamente por proselitistas Cristianos. La mentira que la siguió fue: "Yahvé no es una superstición pagana, sino un Dios real y vivo".
 
-Podemos personalizar esto un poco más con un ejemplo que será familiar para aquellos que alguna vez han aconsejado a un amigo disfuncional. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+Podemos personalizar esto un poco más con un ejemplo que será familiar para aquellos que alguna vez han aconsejado a un amigo disfuncional. "Mi último novio fue un completo idiota", dirá ella y usted estará fervientemente de acuerdo. "Mi nuevo novio es realmente *genial*", agregará y usted intentará no rodar los ojos.
 
-It is very hard not to replace one illusion with another.
+Es muy difícil no remplazar una ilusión con otra.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+"¡El gobierno Británico es una tiranía!" gritaron los revolucionarios americanos en el siglo XVIII - y, después de expulsar a las tropas británicas, entonces establecieron su propio gobierno y comenzaron a atacar a sus propios ciudadanos.
 
 “Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
 
