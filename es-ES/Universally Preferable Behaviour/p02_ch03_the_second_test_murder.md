@@ -20,19 +20,19 @@ También existe una contradicción básica involucrada en cualquier justificaci�
 
 Bueno, podría decir algo como: "la vida de un hombre puede tomarse cuando quieras", pero, por supuesto, ya que UPB es la única prueba válida de proposiciones morales, esto justifica que Doug mate a Bob tanto como a Bob cuando mata a Doug. Por lo tanto, Bob solo puede justificar estrangular a Doug si Doug no se resiste de ninguna manera, pero, por supuesto, si Doug no se opone, ¿se puede considerar realmente asesinato?
 
-Let us say that Bob then adjusts his premise to say: “I can shoot a man in his sleep any time I want.” The problem here is not only the sleep that Bob will lose based on his universal premise, but also the logical impossibility of reversing moral propositions based on the differences in the states of sleeping and waking. Biologically speaking, a man does not become the *opposite* of a man when he falls asleep, any more than gravity reverses when he blinks.
+Digamos que Bob luego ajusta su premisa para decir: "Puedo dispararle a un hombre mientras duermo en cualquier momento que lo desee." El problema aquí no es solo el sueño que Bob perderá en base a su premisa universal, sino también la imposibilidad lógica de invertir proposiciones morales basadas en las diferencias en los estados de dormir y despertar. Desde el punto de vista biológico, un hombre no se convierte en el * opuesto * de un hombre cuando se duerme, como tampoco lo hace la gravedad cuando parpadea.
 
-Since a man remains a man when he falls asleep, it cannot be the case that opposite moral rules apply to him in this state. Thus to say that it is immoral to murder a man when he is awake, but it is moral to murder a him when he is asleep, is to create a logical contradiction unsupported by any objective biological facts. A physicist may say that a rock falls down, but a helium balloon rises up – but that is because a rock and a helium balloon have fundamentally different properties. No credible physicist can say that one rock falls down, but that another rock with almost exactly the same qualities falls up. The same is true for moral theories – no credible philosopher can say that morality reverses itself when a man is asleep, since a man’s nature does not fundamentally alter when he naps.
+Porque un hombre sigue siendo un hombre cuando se duerme, no puede ser que las reglas morales opuestas se apliquen a él en este estado. Por lo tanto, decir que es inmoral asesinar a un hombre cuando está despierto, pero es moral asesinarlo cuando está dormido, es crear una contradicción lógica no respaldada por ningún hecho biológico objetivo. Un físico puede decir que una roca cae, pero un globo de helio se eleva, pero eso se debe a que una roca y un globo de helio tienen propiedades fundamentalmente diferentes. Ningún físico creíble puede decir que una roca cae, pero que otra roca con casi exactamente las mismas cualidades cae. Lo mismo pasa para las teorías morales: ningún filósofo creíble puede decir que la moralidad se invierte cuando un hombre está dormido, ya que la naturaleza de un hombre no cambia fundamentalmente cuando duerme.
 
-In this way, if we cannot justly shoot a man when he is awake, we also cannot shoot him when he is asleep, since he is still a man.
+De esta manera, si no podemos dispararle a un hombre cuando está despierto, tampoco podemos dispararle cuando está dormido, ya que él todavía es un hombre.
 
-Thus, since the statement “I can shoot a man in his sleep any time I want” cannot be validated according to UPB, it cannot be a true moral proposition.
+Por lo tanto, dado que la declaración "Puedo disparar a un hombre mientras duerme en cualquier momento que quiera" no puede ser validada de acuerdo con UPB, no puede ser una proposición moral verdadera.
 
-Here again we find that the UPB framework holds true in terms of murder. The only possible valid moral theory regarding murder is that it is evil, or universally banned.
+Aquí nuevamente encontramos que el marco UPB es verdadero en términos de asesinato. La única teoría moral válida posible con respecto al asesinato es que es malvada o está universalmente prohibida.
 
-We could take the same approach to the question of assault, but the arguments would be identical to those of rape and murder, so for the sake of brevity, we shall continue.
+Podríamos tomar el mismo enfoque a la cuestión del asalto, pero los argumentos serían idénticos a los de la violación y el asesinato, por lo que, en aras de la brevedad, continuaremos.
 
-Let us now turn to the question of theft. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
+Pasemos ahora a la cuestión del robo. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
 
 ### Self-Defence?
 
