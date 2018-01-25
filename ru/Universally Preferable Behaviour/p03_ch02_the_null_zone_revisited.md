@@ -12,7 +12,7 @@
 
 Проблема с этим подходом - ну, в любом случае, одна из - это ретроградное движение Марса. С точки зрения нашей планеты временами кажется, что Марс движется «назад», поскольку Земля «обгоняет» его в движении вокруг Солнца. Ошибочное убеждение, что Земля является центром солнечной системы, в сочетании с маниакальным поиском «совершенных» окружностей, создало систему астрономии Птолемея, которая преумножила все эти совершенные окружности до абсурдной степени, с тем чтобы, в конце концов, принять во внимание эллиптические орбиты и ретроградное движение Марса.
 
-Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
+Почему эта иллюзия совершенства считалась абсолютно необходимой для небесных тел? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
 
 We can also turn this analysis to the question of the existence of God as well.
 
