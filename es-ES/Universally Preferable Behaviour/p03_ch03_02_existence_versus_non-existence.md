@@ -4,7 +4,7 @@ Una vez que la violencia del gobierno es expuesta intelectualmente - y el supues
 
 He escrito decenas de artículos exponiendo la falsedad de esta posición, por lo que no se molestarán a reiterar los argumentos aquí, puesto que no son esenciales en un libro sobre moralidad, sino más bien sería más apropiados para un libro explicando los principios y aspectos prácticos de una sociedad voluntaria.[^4]
 
-El “argumento por funcionalidad” no resuelve de ninguna manera el problema de la violencia. Si lo veo comiendo hamburguesas con queso todos los días, puedo decirle que eso no es funcional para usted hacerlo, si quiere mantener un peso saludable. No puedo asegurar que sea *malo* para usted comer hamburguesas con queso, por las razones antes mencionadas. No puedo justamente obligarte a forzar la fuerza para aumentar la "practicidad" de tus acciones.
+El “argumento por funcionalidad” no resuelve de ninguna manera el problema de la violencia. Si lo veo comiendo hamburguesas con queso todos los días, puedo decirle que eso no es funcional para usted hacerlo, si quiere mantener un peso saludable. No puedo asegurar que sea *malo* para usted comer hamburguesas con queso, por las razones antes mencionadas. No puedo simplemente obligarlo usando la fuerza para aumentar la “funcionalidad” de sus acciones.
 
 Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
 
