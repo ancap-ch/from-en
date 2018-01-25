@@ -52,4 +52,4 @@ Se eu chegasse e dissesse: "Não existe tal coisa como a verdade", estaria a faz
 
 Se eu lhe dissesse: "A linguagem não tem sentido", também me estaria a contradizer. Para que eu possa comunicar verbalmente que a linguagem não tem sentido, esta deve ter, pelo menos algum significado.
 
-If I tell you that “Your senses are invalid,” then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
+Se eu disser: "Os seus sentidos são inválidos", o meu argumento também se auto-destrói, pois estou a usar o seu sentido de audição para comunicar-lhe que o mesmo é inválido. Para que lhe consiga comunicar a minha tese com êxito, o seu sentido de audição deve ser válido. Assim, para convencê-lo de que os seus sentidos não são válidos devo assumir que os seus sentidos são válidos o que não é racional.
