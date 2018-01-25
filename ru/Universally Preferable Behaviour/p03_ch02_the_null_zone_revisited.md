@@ -12,11 +12,11 @@
 
 Проблема с этим подходом - ну, в любом случае, одна из - это ретроградное движение Марса. С точки зрения нашей планеты временами кажется, что Марс движется «назад», поскольку Земля «обгоняет» его в движении вокруг Солнца. Ошибочное убеждение, что Земля является центром солнечной системы, в сочетании с маниакальным поиском «совершенных» окружностей, создало систему астрономии Птолемея, которая преумножила все эти совершенные окружности до абсурдной степени, с тем чтобы, в конце концов, принять во внимание эллиптические орбиты и ретроградное движение Марса.
 
-Почему эта иллюзия совершенства считалась абсолютно необходимой для небесных тел? Казалось бы, вид луны, покрытой ямами и кратерами, должен был подтвердить убеждение о несовершенстве небес, но религиозные пристрастия обходят прямые материалистические свидетельства как самых близких, так и межпланетных несовершенств. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
+Почему эта иллюзия совершенства считалась абсолютно необходимой для небесных тел? Казалось бы, вид луны, покрытой ямами и кратерами, должен был подтвердить убеждение о несовершенстве небес, но религиозные пристрастия обходят прямые материалистические свидетельства как самых близких, так и межпланетных несовершенств. Открытия Галилея о лунных горах, солнечных пятнах и спутниках Юпитера были атакованы как еретические.
 
-We can also turn this analysis to the question of the existence of God as well.
+Мы также можем обратить этот анализ к вопросу о существовании Бога.
 
-We have no direct, empirical or rational evidence for the existence of God. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+У нас нет прямых, эмпирических или рациональных доказательств существования Бога. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
 
 ### Bigotry
 
