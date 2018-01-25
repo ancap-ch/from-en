@@ -16,11 +16,11 @@
 
 Мы также можем обратить этот анализ к вопросу о существовании Бога.
 
-У нас нет прямых, эмпирических или рациональных доказательств существования Бога. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+У нас нет прямых, эмпирических или рациональных доказательств существования Бога. Самые абстрактные научные измерения тоже не дают никаких доказательств существования Бога; но между истиной нашего собственного опыта, которая заключается в том, что Бога нет, и самыми абстрактными научными измерениями и теорией, которые также подтверждают, что Бог не существует, возникает какая-то «нулевая зона», *которая полностью опрокидывает любые рациональные стандарты истины*.
 
 ### Bigotry
 
-Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+Убеждения могут быть истинными, ложными или *анти-истиной*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
 
 We can say:
 
