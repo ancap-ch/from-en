@@ -10,19 +10,19 @@ Concordar com a lógica superior num argumento é uma* acção*. Se, sempre que 
 
 Assim, podemos ver que, inerente ao próprio acto de argumentar existe uma série de premissas interligadas que não podem ser destruídas.
 
-Se lhe peço que me encontre no campo de ténis e apareço com um rifle de caça, podemos acabar praticando um desporto, mas certamente não será ténis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+Se lhe peço que me encontre no campo de ténis e apareço com um rifle de caça, podemos acabar praticando um desporto, mas certamente não será ténis. Quando lhe peço que me encontre no campo de ténis para um jogo, nesse pedido está implícita uma aceitação das regras do ténis.
 
-Historically, those engaged in ethical debating have often failed to maintain this basic reality.
+Historicamente, as pessoas envolvidos no debate ético, muitas vezes não conseguem manter essa realidade básica.
 
-I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
+Eu não posso enviar um artigo científico escrito no meu próprio idioma pessoal, alegando que foi ditado pelo meu peixinho psíquico e esperar ser levado a sério. De igual forma, não posso iniciar um debate filosófico sobre ética, relativo aos meus próprios valores pessoais e afirmar que os meus argumentos foram todos validados por Trixie, o duende omnisciente e invisível e esperar ser levado a sério.
 
-The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
+O próprio acto de debater exige uma aceitação de um comportamento universalmente preferível (CUP). Não há como responder racionalmente a um argumento ético *sem* exibir um CUP.
 
-Let us now turn to a series of positive proofs for UPB.
+Passemos agora a uma série de provas positivas para o CUP.
 
-### UPB And Validity
+### CUP E Validade
 
-One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
+Um dos principais desafios enfrentados pelos filósofos modernos é a necessidade de provar que as regras morais são possíveis e universais. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
 
 The closest historical analogy to our present situation occurred in the fifteenth and sixteenth centuries, during the rise of the scientific method. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
 
