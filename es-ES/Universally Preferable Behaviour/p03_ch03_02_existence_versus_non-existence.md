@@ -12,7 +12,7 @@ Además, si representantes del gobierno afirman que un contrato social les permi
 
 Si fuerzo a una a mujer para que se case con un hombre que yo elegí para ella, entonces claramente creo que se muchísimo mejor que ella qué hombre sería el indicado para ser su marido. De hecho, no creo que ella esté dispuesta a razonar en absoluto, o que tenga ni la más remota idea acerca de sus propios intereses, porque yo *no* tengo en cuenta sus preferencias, sino que la estoy obligando a casarse con un hombre que yo elegí.
 
-When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
+Cuando obligo a esta mujer a casarse, sólo puedo justificar el uso de la fuerza - aún en áreas pragmáticas e inmediatas - si afirmo que ella no tiene las facultades mentales necesarias para tomar sus propias decisiones con respecto al matrimonio.
 
 If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. Si ella no tiene idea de lo que constituye un marido bueno o adecuado, entonces, ¿cómo puede ella evaluarme como apto para decidir quién será un buen esposo adecuado para ella?
 
