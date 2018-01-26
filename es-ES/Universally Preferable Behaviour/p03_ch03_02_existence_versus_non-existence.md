@@ -1,8 +1,8 @@
-### Practicality
+### Practicidad
 
 Una vez que la violencia del gobierno es expuesta intelectualmente - y el supuesto “voluntarismo” de los ciudadanos es revelado como un fraude vil - el argumento siempre vuelve a que *necesitamos* que el gobierno nos brinde bienes públicos como protección, defensa regional, rutas, etc.
 
-I have written dozens of articles exposing the falsehood of this position, so I will not bother to reiterate those arguments here, since they are not essential to a book on morality, but rather would be more appropriate to a book explaining the principles and practicalities of a voluntary society.[^4]
+He escrito docenas de artículos que exponen la falsedad de esta posición, así que no me molestaré en reiterar estos argumentos, ya que no son esenciales para un libro sobre la moralidad, sino más bien sería más apropiado para un libro que explique los principios y prácticas de una sociedad voluntaria.[^4]
 
 El “argumento por funcionalidad” no resuelve de ninguna manera el problema de la violencia. Si lo veo comiendo hamburguesas con queso todos los días, puedo decirle que eso no es funcional para usted hacerlo, si quiere mantener un peso saludable. No puedo asegurar que sea *malo* para usted comer hamburguesas con queso, por las razones antes mencionadas. No puedo simplemente obligarlo usando la fuerza para aumentar la “funcionalidad” de sus acciones.
 
