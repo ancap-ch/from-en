@@ -26,7 +26,7 @@ O soy capaz de tomar decisiones competentes, o no lo soy. If I *am* capable of m
 
 Incluso si las consideraciones anteriores se omiten de alguna manera, sin embargo, sigue siendo imposible aplicar justamente un contrato social a través de un gobierno. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. Si reclamo el poder de imponer contratos unilaterales, UPB también otorga *tú* este poder, por lo que devolverá el contrato en mi nombre.
 
-In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
+Del mismo modo, incluso si elijo pagar mis impuestos voluntariamente, no puedo imponer esa opción con justicia, ya que un contrato voluntario es una preferencia puramente personal y, por lo tanto, no puede aplicarse universalmente mediante la violencia.
 
 ### The Necessity Of The State?
 
