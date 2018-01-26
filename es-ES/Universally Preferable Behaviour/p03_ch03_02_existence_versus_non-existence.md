@@ -83,13 +83,13 @@ At the beginning of this section, I mentioned that people generally make *two* e
 
 This view arises from the same error outlined above. If *all* social institutions are constantly trying to grow in power and enforce their wills on others, then by that very argument a centralised government cannot be allowed to exist. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
 
-The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Governments grow endlessly because they can pay tax collectors with a portion of the taxes they collect. The slaves are thus forced to pay for the costs of their enslavement.
+The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Los gobiernos crecen infinitamente porque pueden pagarle a los recaudadores de impuestos una parte de los impuestos que recaudan. The slaves are thus forced to pay for the costs of their enslavement.
 
-In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
+En una sociedad voluntaria, no habría impuestos, y, por lo tanto, cualquier grupo que desee obtener el poder de monopolio tendría que financiar su propio ejército, lo que nunca sería económicamente factible o rentable.[^11]
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
+It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. Es similar al argumento estatista sobre los monopolios privados: que los ciudadanos deberían crear un monopolio gubernamental porque temen a los monopolios privados. No se necesita una gran visión para ver a través de esas tonterías.
 
-What is the evidence for the view that decentralised and competing powers promotes peace? En otras palabras, ¿hay algún hecho que podamos usar para apoyar la idea de que un equilibrio de poder es la única oportunidad que tiene el individuo para la libertad?
+¿Cuál es la evidencia de la opinión de que los poderes descentralizados y en competencia promueven la paz? En otras palabras, ¿hay algún hecho que podamos usar para apoyar la idea de que un equilibrio de poder es la única oportunidad que tiene el individuo para la libertad?
 
 El crimen organizado no ofrece muchos buenos ejemplos, ya que las pandillas corrompen, manipulan y utilizan con tanta frecuencia el poder de la policía gubernamental para hacer cumplir su gobierno, por lo que no se puede decir que estas pandillas operan en estado natural. Además, las bandas criminales se benefician enormemente al suministrar sustancias o servicios legalmente prohibidos, y también florecen en gran parte debido a las políticas estatales.
 
