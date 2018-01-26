@@ -34,11 +34,11 @@
 
 Мы можем верить в недоказанные вещи, которые оказываются истинными - кто-то, несомненно, думал, что мир кругл, прежде чем это было доказано, - но «нулевая зона» - это область, в которой мы цепляемся за убежденность в таких вещах, которые *никак не могут оказаться истинными*.
 
-If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. Если я говорю, что верю в существование квадратного круга, то я делаю явно внутренне противоречивое высказывание, которое опровергает само себя. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. Если я говорю, что верю в существование квадратного круга, то я делаю явно внутренне противоречивое высказывание, которое опровергает само себя. Если все-таки я пойду дальше и решительно заявлю, что «фу плюс тури равно дести» и откажусь пояснить свои термины - я делаю заявление, к которому *не могут быть применены* ни логика, ни доказательства.
 
 ### Next Stop: The "Alternative Universe"
 
-In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
+В общем, способ, которым люди пытаются «спасти» свои антиэмпирические и анти-логические убеждения, состоит в том, чтобы создать «альтернативную реальность» или «альтернативную вселенную», в которой их противоречивые утверждения могут хоть каким-либо образом быть правдой.
 
 If I say: “A square circle exists,” I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
 
