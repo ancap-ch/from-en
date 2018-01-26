@@ -72,23 +72,23 @@ Esto plantea un punto muy interesante, que es la cuestión de si las opiniones p
 
 ### Opiniones y Realidad
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Claramente, entendemos que, a través de mi opinión, no puedo liberarte de las restricciones de la gravedad, así como mi opinión de que "dos más dos equivale a cinco" lo hace cierto.
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+Las "opiniones" son aquellas creencias que no tienen una evidencia clara en la realidad, o para las cuales no se puede proporcionar una evidencia clara, o que son expresiones de preferencias meramente personales. Mi opinión personal es que prefiero el helado de chocolate a la vainilla. También puedo tener una "opinión" de que Islandia es un paraíso tropical, o que Dios existe, o que la lluvia cae hacia arriba. Las opiniones personales claramente no tienen nada que ver con la moralidad; las opiniones que pretenden describir con precisión la realidad, pero que no lo son, son simplemente prejuicios incorrectos. Creer que la lluvia cae hacia arriba no revierte su curso; llevar una camiseta hawaiana a Islandia no hace que Reykjavik sea más cálido.
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+Por lo tanto, creer que el asesinato es moralmente bueno no hace que el asesinato sea moralmente bueno. Dado que mis creencias sobre un ser humano no cambian su naturaleza moral, mi creencia de que sus asesinatos son virtuosos no cambia la virtud de sus acciones. Si cierro los ojos e imagino que eres una lagartija, no de repente pierdes tu capacidad de regular la temperatura de tu propio cuerpo. Imaginar que eres un pez no evita tu necesidad de equipo de buceo.
 
-Opinions do not change reality.
+Las opiniones no cambian la realidad.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Debido a que las opiniones no cambian la realidad, no puedo otorgarle ninguna excepción o revocación con respecto a una regla moral universal. Como las reglas morales se basan en la lógica universal, así como en la naturaleza física y la realidad de un ser humano, no puedo otorgarle el "derecho al asesinato", como tampoco le puedo otorgar la capacidad de levitar, caminar sobre el agua o con precisión. di que dos y dos son cinco.
 
-### Government As Voluntarism
+### Gobierno como voluntarismo
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+La fuerza abierta involucrada en la institución del gobierno -el envoltorio conceptual que revierte las reglas morales para un grupo particular de individuos- es algo que siempre se mantiene fuera de la mesa en los debates. Cuando se habla de gobierno, nunca se considera positivo señalar "la pistola en la habitación". Casi por definición, se considera que los gobiernos son elegidos por y para las personas y funcionan con su aprobación expresa o implícita.
 
-However, this is pure nonsense.
+Sin embargo, esto es pura tontería.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Si un hombre sostiene un cuchillo en la garganta de una mujer mientras tiene relaciones sexuales con ella, eso es, por definición, un acto de violación. El no puede decir que el sexo es consensual, mientras que al mismo tiempo la amenaza con lesiones o la muerte si se niega a tener relaciones sexuales con él. Si el sexo es voluntario, entonces el cuchillo es completamente innecesario. Si el hombre siente la necesidad de un cuchillo, entonces claramente el sexo * no * es voluntario.
 
 In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
 
