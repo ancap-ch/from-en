@@ -51,6 +51,6 @@ Irgendein Text auf der vierten Ebene
 
 Irgendein Text auf der sechsten Ebene
 
-[^1]: Footnote example. But this will point to yet another footnote.[^3]
+[^1]: Fußnote Beispiel. Aber diese verweist auf noch eine weitere Fußnote. [^3]
 
-[^2]: Second footnote. Will have [another website](https://example-another-website.com).
+[^2]: Zweite Fußnote. Hat eine [andere Webseite](https://example-another-website.com).
