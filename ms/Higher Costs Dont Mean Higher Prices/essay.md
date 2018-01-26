@@ -12,7 +12,7 @@ Masalah dengan hujah adalah bahawa ia bergantung pada analisis keseimbangan sede
 
 Tambahan pula, dalam keadaan keseimbangan, kosnya mencerminkan kos peluang sosial, dan persaingan "sempurna" menggabungkan harga dan kos supaya tidak ada yang dapat memperoleh keuntungan ekonomi. Dengan kata lain, tidak ada perbezaan antara harga dan kos. Oleh sebab itu, tidak ada alasan untuk teori ini membezakan antara mereka secara temporal atau kausal - mereka nampaknya ditentukan secara serta merta dan tepat. Ini juga bagaimana mereka diperlakukan dalam pelbagai model ekonomi yang pelajar belajar untuk "memaksimumkan"
 
-# Price Drives Cost  — Not the Other Way Around
+# Kos pemacu harga - bukan cara lain sekitar
 
 As we know, however, the real market process is driven by *entrepreneurship* and market actors are not just responsive agents. Entrepreneurs do not live in equilibrium, and they base their business decisions on their own appraisal of the different actions and their imagined outcomes. In this real market, price drives cost  — not the other way around. Indeed, Carl Menger noted that the value of any production good is derived from consumers’ valuation of the consumption goods that it produces, not the other way around. This is also core to for example Mises’s argument about economic calculation.
 
