@@ -26,7 +26,7 @@ O menino (e o homem) que roubou meu dinheiro sem dúvida o usou para algum praze
 
 Se eu fosse um médico no meio de uma grande cidade derrubada por uma praga terrível, e descobri que essa praga estava sendo transmitida através das tubulações de água, qual seria a minha resposta racional - se eu realmente me importasse com a saúde dos meus concidadãos?
 
-Certamente eu deveria chorar dos próprios telhados que sua água potável estava causando a praga. Surely I should take every measure possible to get people to understand the true source of the illness that struck them down.
+Certamente eu deveria chorar dos próprios telhados que sua água potável estava causando a praga. Certamente, eu deveria tomar todas as medidas possíveis para que as pessoas compreendessem a verdadeira fonte da doença que os derrubou.
 
 Surely, in the knowledge of such universal and preventable poisoning, I should not waste my time arguing that the true danger you faced was the tiny possibility that some random individual might decide to poison you at some point in the future.
 
