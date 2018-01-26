@@ -50,10 +50,10 @@ Sin embargo, si es malo matar, otra vez enfrentamos el problema del "mal inevita
 
 No, una vez más, dado que los tiburones no tienen la capacidad de evitar matar personas, no se los puede responsabilizar de tales acciones, del mismo modo que un deslizamiento de tierra no se puede llevar a los tribunales si mata a un hombre.
 
-UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
+UPB permite excepciones basadas en diferencias materiales o biológicas objetivas y universales, tal como lo hacen otras ciencias. La teoría científica de que los gases se expanden cuando se calienta se aplica, por supuesto, solo a los gases. No puedo invalidar la teoría demostrando que no se aplica a, por ejemplo, plástico.
 
-In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+De la misma manera, la moralidad solo se aplica a la conciencia racional, debido al requisito de evitabilidad. Si intento aplicar una teoría moral a un caracol, un árbol, una roca o el concepto de "números", estoy tratando de equiparar la conciencia racional con entidades que pueden no ser ni racionales ni conscientes, lo cual es una contradicción lógica. También podría decir que el Teorema del ángulo opuesto en geometría no es válido porque no se aplica a un círculo o una nube. El OAT solo se aplica a las líneas que se intersectan. Intentar aplicarlo a otras situaciones es el equivalente conceptual de intentar pintar aire.
 
-In other words, misapplication is not disproof.
+En otras palabras, la aplicación incorrecta no es refutada.
 
 There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
