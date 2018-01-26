@@ -14,7 +14,7 @@ Si fuerzo a una a mujer para que se case con un hombre que yo elegí para ella, 
 
 Cuando obligo a esta mujer a casarse, sólo puedo justificar el uso de la fuerza - aún en áreas pragmáticas e inmediatas - si afirmo que ella no tiene las facultades mentales necesarias para tomar sus propias decisiones con respecto al matrimonio.
 
-Si la mujer está mentalmente incapacitada para tomar sus propias decisiones con respecto al matrimonio, entonces está claro que también es *Incapacitados mentales para delegar un representante para tomar esa decisión*. Si ella no tiene idea de cómo sería un marido bueno o apropiado, entonces cómo puede saber que yo estoy capacitado para elegir un esposo bueno o adecuado para ella?
+Si la mujer no tiene las facultades mentales para tomar sus propias decisiones con respecto al matrimonio, claramente ella ella tampoco *tiene las facultades mentales necesarias para delegar su decisión en un representante*. Si ella no tiene idea de cómo sería un marido bueno o apropiado, entonces cómo puede saber que yo estoy capacitado para elegir un esposo bueno o adecuado para ella?
 
 Si un hombre de muy poca inteligencia no comprende el concepto de “salud,” sería razonable esperar que sea racional al elegir un médico? A fin de elegir un médico de manera competente, debemos entender los conceptos de salud,, eficacia, costo, profesionalismo y muchos más. De la misma manera, si no le permito a una mujer opinar acerca del hombre con el que se casará, entonces claramente debo creer que ella no comprende cómo debe ser un buen marido - pero si ella no comprende cómo debe ser un buen marido, entonces no tiene la capacidad de delegarme esa decisión a mí, pues no tendrá manera de evaluar *mi* criterio con respecto a lo que significa un buen marido.
 
