@@ -1,6 +1,6 @@
-## Preface to the First Edition
+## دیباچہ کے پہلے ایڈیشن کی طرف
 
-The collapse of socialism across Eastern Europe—as manifested most dramatically by the events of the forever memorable November 9, 1989, when the Germans of East and West reunited, moved and overjoyed, on top of the Berlin Wall—has added more support and urgency to the central thesis of this volume than I had ever hoped for.
+مشرقی یورپ بھر میں سوشلزم کا زوال — جن کو ہمیشہ یاد رہنے والے واقعات ڈرامائی طور ثبوت کے طور پر ٩ نومبر، ١٩٨٩، جب مشرقی اور مغربی جرمن یکجا ہوئے، آگے بڈھے اور برلن دیوار کے اوپر اپنی انتہائی خوشی کا اظہار کیا، اسکی وجہ سے مرکزی زیر بحث قضیہ میں مزید حمایت اور جلدی اس دیباچہ میں ہوئی جس کی میں نے کبھی امید بھی نہ کی تھی.
 
 Whether the following studies deal with economic topics such as employment, interest, money, banking, business cycles, taxes, public goods, or growth; with philosophical problems as the foundations of knowledge, and of economics and ethics in particular; or the reconstruction and theoretical explanation of historical and sociological phenomena such as exploitation, the rise and fall of civilizations, international politics, war, imperialism, and the role of ideas and ideological movements in the course of social evolution—each ultimately contributes to but one conclusion: The right to private property is an indisputably valid, absolute principle of ethics and the basis for continuous “optimal” economic progress. To rise from the ruins of socialism and overcome the stagnation of the Western welfare states, nothing will suffice but the uncompromising privatization of all socialized, that is, government, property and the establishment of a contractual society based on the recognition of the absoluteness of private property rights.
 
