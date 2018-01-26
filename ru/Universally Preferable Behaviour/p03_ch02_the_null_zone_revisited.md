@@ -20,7 +20,7 @@
 
 ### Bigotry
 
-Убеждения могут быть истинными, ложными или *анти-истиной*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+Убеждения могут быть истинными, ложными или *анти-истиной*. Истинное убеждение, что пустыня Сахара находится в Северной Африке; ложное убеждение, что Сахара находится в Шотландии; *анти-истинное* убеждение, что Сахара - это все, что мне хочется, и существует она там, где я хочу, чтобы она существовала. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
 
 We can say:
 
