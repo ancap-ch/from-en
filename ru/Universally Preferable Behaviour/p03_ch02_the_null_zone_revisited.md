@@ -44,7 +44,7 @@ If I say that two plus two equals five, I am making a mistake that can be correc
 
 If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
 
-With regards to this “null zone,” only two possibilities really exist. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
+With regards to this “null zone,” only two possibilities really exist. Либо эта *нулевая зона* существует полностью независимо от нашей вселенной и никогда не может быть измерена, обнаружена или открыта каким-либо образом, в каком-либо виде или форме, либо в какой-то момент мы можем обнаружить и взаимодействовать с этой волшебной страной, где внутреннее противоречие равно истине.
 
 If, at some point, it turns out that we *are* able to interact with this *null zone*, then we shall have direct sensual or rational evidence of its existence. In other words, it must “protrude” into our universe in some manner. However, the moment that it becomes detectable in our universe, it must have rational and empirical existence, like everything else we can detect. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
 
