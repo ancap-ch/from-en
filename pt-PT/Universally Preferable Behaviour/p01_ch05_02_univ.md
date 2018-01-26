@@ -1,4 +1,4 @@
-### UPB: Five Proofs
+### CUP: Cinco Provas
 
 As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
 
