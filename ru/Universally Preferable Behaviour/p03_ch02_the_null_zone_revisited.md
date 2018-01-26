@@ -40,7 +40,7 @@ If I say that two plus two equals five, I am making a mistake that can be correc
 
 В общем, способ, которым люди пытаются «спасти» свои антиэмпирические и анти-логические убеждения, состоит в том, чтобы создать «альтернативную реальность» или «альтернативную вселенную», в которой их противоречивые утверждения могут хоть каким-либо образом быть правдой.
 
-If I say: “A square circle exists,” I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
+Если я говорю: «Квадратный круг существует», я утверждаю то, что явно невозможно в этой вселенной. Таким образом, если я хочу сохранить свое убеждение, я должен изобрести какую-то другую вселенную или реальность «вне» этой вселенной, где квадратный круг может существовать.
 
 If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
 
