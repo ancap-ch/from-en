@@ -1,8 +1,8 @@
 ### CUP: Cinco Provas
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+Como discutimos anteriormente, a proposição de que *não existe um comportamento preferível* contém um número insuperável de problemas lógicos e empíricos. "Comportamento universalmente preferível" *deve* ser um conceito válido, por cinco razões principais.
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+O primeiro é lógico: se argumento *contra* a proposição de que o comportamento universalmente preferível é válido, já mostrei a minha preferência pela verdade sobre a falsidade - assim como a preferência por corrigir aqueles que mentem. Dizer que não existe um comportamento universalmente preferível é como gritar no ouvido de alguém que o som não existe - é naturalmente contraditório. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
 
 Syllogistically, this is:
 
