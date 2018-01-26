@@ -31,9 +31,9 @@ Some quotation. First line is large; second line is small; third line is empty; 
 
 > 1th line is large: The quick, brown fox jumps over a lazy dog. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. 2 linia jest mała: szybki, brązowy lis skacze nad leniwym psem.
 > 
-> 4th line is not empty: The quick, brown fox jumps over a lazy dog.
+> czwarta linia nie jest pusta: Szybki, brązowy lis skacze na leniwym psem.
 > 
-> 6th line is a quotation: The quick, brown fox jumps over a lazy dog.
+> Szósta linia to cytat: Szybki, brązowy lis skacze nad leniwym psem.
 
 # Headings
 
