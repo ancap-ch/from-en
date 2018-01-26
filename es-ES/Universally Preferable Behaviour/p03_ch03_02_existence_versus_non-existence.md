@@ -32,7 +32,7 @@ De la misma manera, aún si yo elijo pagar mis impuestos voluntariamente, no pue
 
 Toda esta cuestión se vuelve aún más absurda cuando miramos a la “justificación” moral más común con respecto al poder de los gobiernos democráticos, los cuales están basados en la “voluntad de la mayoría.”
 
-First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. La "mayoría" no puede tener más una "voluntad" que una "línea de coro" que puede "dar a luz". Si lo dudas, simplemente intenta construir una casa en el árbol con el concepto "bosque" en lugar de cualquier pieza de madera individual.
+En primer lugar, “voluntad” es un aspecto del individuo, mientras que “mayoría” es una etiqueta conceptual para un grupo. La "mayoría" no puede tener más una "voluntad" que una "línea de coro" que puede "dar a luz". Si lo dudas, simplemente intenta construir una casa en el árbol con el concepto "bosque" en lugar de cualquier pieza de madera individual.
 
 Dos objeciones adicionales se repiten constantemente cada vez que surge la cuestión de la necesidad de un gobierno. El primero es que una sociedad libre solo es posible si las personas son perfectamente buenas o racionales; En otras palabras, los ciudadanos *necesitan* un gobierno centralizado porque hay personas malvadas en el mundo.
 
