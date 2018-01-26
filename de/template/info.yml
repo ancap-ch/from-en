@@ -1,54 +1,54 @@
 ---
 content_files:
-  - content.md
+  - Inhalt.md
 translation:
-  language: en
+  language: de
   is_translation: false
   this_project_url: ""
   fetch_translators: true
   fetch_reviwers: true
   fetch_progress: true
 titles:
-  - Text title
-  - '~~Centered~~'
-  - '~~~~~the right'
+  - Textüberschrift 
+  - '~ ~ Zentriert ~ ~'
+  - '~~~~~Rechts'
 discussions:
   - 
-    - https://en.ancap.ch/t/17
-    - Ancap Channel
+    - https://de.Ancap.ch/t/17
+    - Ancap Kanal
 more_infos:
   - 
-    - https://www.google.com
-    - Website name
+    - https://www.google.de
+    - Webseitenname
 tags:
-  - Some Tag
-  - Another Tag
-  - And so on
-tag_prefix: "https://en.ancap.ch/tags/"
+  - Irgendein tag
+  - Weiterer tag
+  - und so weiter
+tag_prefix: "https://de.ancap.ch/tags/"
 persons:
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "author"
+    identifier: "vorlage_person"
+    rule: "Autor"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "collaborator"
+    identifier: "vorlage_person"
+    rule: "Kollaborateur"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "thanked"
+    identifier: "vorlage_person"
+    rule: "bedankt"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "translator"
+    identifier: "vorlage_person"
+    rule: "Übersetzer"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "reviwer"
+    identifier: "vorlage_person"
+    rule: "Rezensent"
   - 
     person_: [ ]
-    identifier: "template_person"
+    identifier: "vorlage_person"
     rule: "cover_artist"
   - 
     person: [ ]
