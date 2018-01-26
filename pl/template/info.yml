@@ -29,7 +29,7 @@ persons:
   - 
     person: [ ]
     identifier: "template_person"
-    rule: "author"
+    rule: "autor"
   - 
     person: [ ]
     identifier: "template_person"
