@@ -10,4 +10,4 @@
 
 Hans-Hermann Hoppe
 
-*Las Vegas, Nevada, 1993*
+*لاس وگاس، نیواڈا، ١٩٩٣*
