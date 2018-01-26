@@ -90,15 +90,15 @@ Sin embargo, esto es pura tontería.
 
 Si un hombre sostiene un cuchillo en la garganta de una mujer mientras tiene relaciones sexuales con ella, eso es, por definición, un acto de violación. El no puede decir que el sexo es consensual, mientras que al mismo tiempo la amenaza con lesiones o la muerte si se niega a tener relaciones sexuales con él. Si el sexo es voluntario, entonces el cuchillo es completamente innecesario. Si el hombre siente la necesidad de un cuchillo, entonces claramente el sexo * no * es voluntario.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+De la misma manera, las personas dicen que los impuestos son parte del contrato social que voluntariamente han acordado.
 
-This is both logically and empirically false.
+Esto es lógica y empíricamente falso.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Sabemos que es empíricamente falso porque * no existe un contrato social *. Ni usted ni yo * alguna vez * firmamos un documento que acepta voluntariamente el impuesto a la renta: simplemente nacimos en un sistema que nos quita nuestro dinero a punta de pistola.
 
-### The Gun In The Room
+### El arma en la habitación
 
-Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+Mucha gente argumentará en este punto que los impuestos no se aplican a punta de pistola, sino que la gente los paga voluntariamente. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
 
 This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
 
