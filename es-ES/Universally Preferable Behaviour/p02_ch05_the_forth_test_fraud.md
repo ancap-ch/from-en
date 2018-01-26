@@ -1,14 +1,14 @@
-## The Forth Test: Fraud
+## La Cuarta Prueba: fraude
 
-Right at the edge of what is generally considered ethical sits the challenge of *fraud*.
+Justo al borde de lo que generalmente se considera ético se encuentra el desafío de * fraude *.
 
-Fraud is the obtaining of value through false representation. If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
+El fraude es la obtención de valor a través de la representación falsa. Si te digo que te enviaré un iPod si me das doscientos dólares, y luego tomo tu dinero sin enviarte el iPod, instintivamente entendemos que es una forma de robo.
 
-Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
+Vamos a poner el problema del fraude a través del molino de UPB, y ver si se mantiene.
 
-Clearly, fraud requires that one person *not* be engaged in fraud. In the above potential transaction, if I am hoping to steal your two hundred dollars, and you are hoping to steal my iPod, nothing will come of it. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
+Claramente, el fraude requiere que una persona * no * participe en un fraude. En la transacción potencial anterior, si estoy esperando robar tus doscientos dólares, y esperas robar mi iPod, nada saldrá de eso. Exigirás el iPod antes de proporcionar el pago, y exigiré el pago antes de proporcionar el iPod. Estaremos en un punto muerto, completamente incapaces de defraudarnos unos a otros.
 
-Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
+Claramente, para que ocurra un fraude, una de las partes debe actuar de buena fe. Por lo tanto, la persona que desea cometer fraude se basa en el hecho de que la otra persona * no * desea cometer un fraude, con el fin de aprovecharse de él.
 
 To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
 
