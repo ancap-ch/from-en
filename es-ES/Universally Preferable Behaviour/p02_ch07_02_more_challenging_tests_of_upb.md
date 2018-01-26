@@ -36,19 +36,19 @@ Es de esta manera que entendemos que la proposición "comer * pescado * es malo"
 
 No tenemos tiempo para entrar en una discusión completa sobre la cuestión de los derechos de los animales, pero al menos podemos tratar con la proposición moral: "es malo matar peces"
 
-Si es malo matar peces, entonces UPB dice que cualquiera o cualquier cosa que mata a los peces es malvada. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
+Si es malo matar peces, entonces UPB dice que cualquiera o cualquier cosa que mata a los peces es malvada. Esto incluiría no solo a los pescadores, sino también a los tiburones, ya que si matar peces es malo, hemos ampliado nuestra definición de "actores" éticos para incluir la vida no humana.
 
-It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
+Está claro que los tiburones no tienen la capacidad de evitar matar peces, ya que básicamente están comiendo máquinas con aletas.
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
+Así terminamos con el problema lógico del "mal inevitable". Si es malo matar peces, pero los tiburones no pueden evitar matar peces, entonces los tiburones son "inevitablemente malvados". Sin embargo, como hemos discutido anteriormente, donde no hay otra opción - donde * evitabilidad * es imposible - no puede haber moralidad. Así, la proposición "es malo matar peces" intenta definir una moralidad universal que incluye situaciones no morales, que no pueden sostenerse lógicamente.
 
-Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
+Además, la palabra "pez" sigue siendo problemática en la formulación, ya que es demasiado específica para ser universal. La reformulación correcta de UPB es: "es malo que las personas maten organismos vivos"
 
-If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+Sin embargo, si es malo matar, otra vez enfrentamos el problema del "mal inevitable". Ningún ser humano puede existir sin matar a otros organismos como virus, plantas o quizás animales. Por lo tanto, la "vida humana" se define como "maldad". Pero si la vida humana se define como maldad, entonces no puede * ser * malvada, ya que la evasión se vuelve imposible.
 
-What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
+¿Qué pasa si decimos: "es malo matar a la gente" ¿Eso haría que un tiburón devorador de hombres sea malo?
 
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
+No, una vez más, dado que los tiburones no tienen la capacidad de evitar matar personas, no se los puede responsabilizar de tales acciones, del mismo modo que un deslizamiento de tierra no se puede llevar a los tribunales si mata a un hombre.
 
 UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
 
