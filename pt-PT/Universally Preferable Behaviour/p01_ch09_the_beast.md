@@ -20,7 +20,7 @@ Qualquer ético, então, que se concentra na mera criminalidade, e não nos crim
 
 Os criminosos privados existem, é claro,*mas quase não têm impacto em nossas vidas comparáveis àqueles que nos governam com base em falsas teorias morais*. Uma vez, quando eu tinha onze anos, outro garoto roubou alguns dólares de mim. Outra vez, quando eu tinha vinte e seis anos, deixei meu cartão de caixa eletrônico em uma máquina bancária e alguém roubou algumas centenas de dólares da minha conta.
 
-On the other hand, I have had hundreds of thousands of dollars taken from me by force through the moral theory of “taxation is good.” I was forced to sit in the grim and brain-destroying mental gulags of public schools for fourteen years, based on the moral theory that “state education is a virtue.”[^12]
+Por outro lado, eu tirei de centenas de milhares de dólares retirados de mim pela força através da teoria moral de "a tributação é boa". Fui forçado a sentar-se no grimags mentais sombrios e destruidores de cérebro das escolas públicas por quatorze anos, com base na teoria moral de que "a educação estatal é uma virtude"[^12]
 
 The boy (and the man) who stole my money doubtless used it for some personal pleasure or need. The government that steals my money, on the other hand, uses it to oppress the poor, to fund wars, to pay the rich, to borrow money and so impoverish my children – and to pay the salaries of those who steal from me.
 
