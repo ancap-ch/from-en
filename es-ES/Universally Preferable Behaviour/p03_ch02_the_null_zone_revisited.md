@@ -1,6 +1,6 @@
-## The Null Zone Revisited
+## La zona nula revisitada
 
-At the beginning of this book, I put forward a way of looking at how we process truth, analogising it to physics. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
+Al comienzo de este libro, propongo una forma de ver cómo procesamos la verdad, analogándola con la física. De las "pequeñas verdades" de atrapar una pelota de béisbol, llegamos a las "grandes verdades" de la física, y las grandes verdades no pueden contradecir las pequeñas verdades.
 
 The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
 
