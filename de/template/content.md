@@ -1,10 +1,10 @@
-# First root heading
+# Erste Hauptüberschrift
 
-Below there's an enumerated list of styled pangrams, that shows every character, both in english and also in other languages.
+Unten stehend ist eine aufgezählte Liste von gestylten Pangrammen, welche jedes Zeichen in sowohl englischer als auch in anderen Sprachen darstellt.
 
-1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
-2. numbers: 0123456789. 
-3. symbols: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
+1. Großbuchstaben: DER SCHNELLE, BRAUNE FUCHS SPRINGT ÜBER DEN TRÄGEN HUND. 
+2. Nummern: 0123456789. 
+3. Symbole: +-*/=()\|-!?,.<>{}_[]:;""''#¼%&amp.
 4. emphasys: *The quick, brown fox jumps over a lazy dog.* 
     1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
     2. inner emphasys: **The *The quick, brown fox jumps over a lazy dog* dog.** 
