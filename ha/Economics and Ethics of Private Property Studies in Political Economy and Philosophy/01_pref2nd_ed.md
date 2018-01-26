@@ -1,10 +1,10 @@
-## Preface to the Second Edition
+## Gabatarwar zuwa sashi na biyu
 
-The first edition of *The Economics and Ethics of Private Property*, published in 1993, has been out of print for several years. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.
+Shafin farko na*The Economics and Ethics of Private Property*, da aka buga a 1993, an fitar da shi don shekaru da yawa. Na dan lokaci da kuma daga bangarori daban-daban an umarce ni in shirya sabon bugu, kuma Llewellyn Rockwell ya ba da Ludwig von Mises Institute ta zama mai wallafa.
 
-*The Economics and Ethics of Private Property* was dedicated to my teacher and mentor, Murray N. Rothbard, with whom I had been closely associated during the last ten years of his life, first as a visiting scholar at the Brooklyn Polytechnic Institute in New York City and after 1986 as a colleague at the University of Nevada, Las Vegas. The year 2005 marks the tenth anniversary of Rothbard’s death. Thus, it seemed a most appropriate time to honor Murray anew with this second edition.
+*The Economic and Ethics of Private Property* sun sadaukar da kai ga malamin da malamai, Murray N. Rothbard, tare da wanda nake da alaka da shi sosai a cikin shekaru goma da suka gabata a rayuwarsa, na farko a matsayin masanin kimiyya a Brooklyn Polytechnic Institute a Birnin New York. kuma bayan 1986 a matsayin abokin aiki a Jami'ar Nevada, Las Vegas. Shekara ta 2005 ta nuna ranar tunawa da ranar Rothbard ta goma. Sabili da haka, ya zama kamar lokaci mafi dacewa don girmama Murray tare da wannan batu na biyu.
 
-The present edition of *The Economics and Ethics of Private Property* is enlarged. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+A halin yanzu fitowar *The Economics and Ethics of Private Property* da aka kara girma. Ya kara da rubuce-rubuce hudu da aka rubuta bayan bayanan asali na littafin amma ya danganta su a kan batun da ya dace da shi a cikin tsarin economic and ethic rationale of the institution of private property -surori 6, 7, 8, da 15. Har ila yau an yi amfani da sabuwar bugu don inganta ingantaccen edita da sake fasalin.
 
 Hans Hermann Hoppe
 
