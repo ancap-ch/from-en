@@ -20,9 +20,9 @@ Si un hombre de muy poca inteligencia no comprende el concepto de “salud,” s
 
 Si no puedo decidir de qué color pintar mi casa, y mi solución es firmar un contrato con un pintor permitiéndole elegir el color por mí - y en ese contrato renuncio a todas mis futuras libertades para resistirme a sus decisiones, y le doy el derecho de secuestrarme y esclavizarme si no estoy de acuerdo con sus decisiones, o me niego a pagar por ellas - entonces evidentemente no estoy en mis cabales. Si le doy a alguien el poder de forzarme *por el resto de mi vida*, entonces está claro que no creo ser competente para tomar mis propias decisiones.
 
-Si no creo que soy competente para tomar mis propias decisiones, entonces claramente mi decisión de someterme a la violencia *para el resto de mi vida* Es una decisión incompetente.
+Si no creo ser competente para tomar mis propias decisiones, entonces claramente mi decisión de subordinarse a la violencia *por el resto de mi vida* es una decisión incompetente.
 
-O soy capaz de tomar decisiones competentes, o no lo soy. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. Si yo *no* soy capaz de tomar decisiones competentes, entonces mi decisión de subordinarme a la violencia por el resto de mi vida, también es inválida.
+O soy capaz de tomar mis propias decisiones, o no lo soy. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. Si yo *no* soy capaz de tomar decisiones competentes, entonces mi decisión de subordinarme a la violencia por el resto de mi vida, también es inválida.
 
 Aún si las mencionadas consideraciones son pasadas por alto, sin embargo, es todavía imposible simplemente forzar un contrato social a través de un gobierno. Claramente, no puedo firmar un contrato en *su* lugar, o en lugar de mis hijos, que estará adosado a usted o a ellos por el resto de los días. No puedo comprar un auto, enviarle la factura y simplemente obligarlo a que usted la pague. Si afirmo tener poder para imponerle contrarios unilaterales, UPB también le da a *usted* ese poder, y entonces usted simplemente me devolverá el contrato a mi nombre.
 
