@@ -4,27 +4,27 @@ Definimos "inexistencia" como aquella que no posee masa o energía, ni muestra l
 
 Dios no posee masa o energía, ni muestra los efectos de la masa o la energía: Dios, de hecho, no es detectable ni verificable de ninguna manera, figura o forma, ni a través de los sentidos ni a través de la racionalidad.
 
-Thus if I say, “God exists,” what I am really saying is:
+Por lo tanto, si digo: "Dios existe", lo que realmente estoy diciendo es:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+"* Lo que existe debe ser detectable; Dios no puede ser detectable, pero Dios existe; por lo tanto, existe lo que no existe. * "
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+En otras palabras, al decir "Dios existe", he creado una contradicción insuperable. Definí "existencia" como "inexistencia", que tiene tanto sentido como definir "vida" como "materia inanimada", o una piedra como "lo opuesto a una roca", o "cuadrado" como " circulo."
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+De manera similar, si creo un universo alternativo donde "no existencia es igual a existencia" y "contradicción es igual a consistencia" y "verdad es igual a falsedad" y "irracionalidad es igual a racionalidad", entonces lo que realmente he hecho es crear un reino llamado "error" poner todo lo que no es verdad y definir este reino como un lugar donde "el error es igual a la verdad". [^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Por supuesto, las personas no crean este "universo alternativo" para invalidar la verdad dentro de nuestro propio universo, sino más bien para rescatar lo que es erróneo en la realidad y llamarlo verdadero. Por ejemplo, nadie que argumente "Dios puede existir en otro universo, por lo que no se puede afirmar que Dios no existe" siempre argumenta que "* Yo * puedo no existir en ese otro universo, por lo que no se puede afirmar que existe aquí "
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
+También tienden a no responder bien al argumento de que: "En otro universo, puedes estar de acuerdo conmigo en que Dios no existe, entonces eso te convierte en ateo". [^3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+Si las afirmaciones válidas sobre la realidad pueden oponerse infinitamente porque un reino imaginario llamado "error es igual a verdad" las invalida, entonces lo que realmente se dice es "ninguna afirmación positiva sobre la verdad puede ser válida"; sin embargo, ya somos lo suficientemente sabios como filósofos para saber que esta misma afirmación es contradictoria, ya que es una afirmación positiva que se considera verdadera y que dice que ninguna declaración positiva puede ser verdadera. Si nada puede ser verdadero o falso, incluso esa afirmación, entonces no se puede hacer ninguna declaración sobre nada. Usar palabras, usar el inglés, usar oraciones comprensibles, no tiene ningún sentido, ya que en este "universo alternativo" tales enunciados estructurados pueden ser una completa tontería. Si las cosas que pueden ser ciertas en este universo alternativo tienen un efecto sobre las declaraciones que hacemos en este universo, entonces claramente lo contrario también es cierto, lo que significa que no se pueden hacer afirmaciones sobre nada, ya que su opuesto exacto puede ser igualmente cierto.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+La verdadera realidad de la declaración "el error es igual a la verdad" es la locura tautológica de "nulo es igual a nulo"
 
-### The "Alternate Universe" In Human Society
+### El "universo alternativo" en la sociedad humana
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+La razón por la que hemos pasado tanto tiempo lidiando con esta teoría del "universo alternativo" es que tiene una relevancia directa para la sociedad humana, y se usa para "justificar" los mayores males que se cometen entre nosotros.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+En nuestra experiencia personal, sabemos que el asesinato es incorrecto. Al trabajar a través de la proposición de que el asesinato es moralmente incorrecto en los ejemplos anteriores, dudo mucho que alguien se sorprendiera al ver sus instintos morales confirmados a través del estricto razonamiento abstracto de la UPB. En esta sección, sin embargo, oficialmente está permitido que empieces a estar verdaderamente conmocionado.
 
 The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
 
