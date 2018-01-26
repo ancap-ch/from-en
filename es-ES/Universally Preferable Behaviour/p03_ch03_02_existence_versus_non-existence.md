@@ -26,11 +26,11 @@ O soy capaz de tomar decisiones competentes, o no lo soy. If I *am* capable of m
 
 Incluso si las consideraciones anteriores se omiten de alguna manera, sin embargo, sigue siendo imposible aplicar justamente un contrato social a través de un gobierno. Claramente, no puedo firmar un contrato en *su* lugar, o en lugar de mis hijos, que estará adosado a usted o a ellos por el resto de los días. No puedo comprar un auto, enviarle la factura y simplemente obligarlo a que usted la pague. Si reclamo el poder de imponer contratos unilaterales, UPB también otorga *tú* este poder, por lo que devolverá el contrato en mi nombre.
 
-Del mismo modo, incluso si elijo pagar mis impuestos voluntariamente, no puedo imponer esa opción con justicia, ya que un contrato voluntario es una preferencia puramente personal y, por lo tanto, no puede aplicarse universalmente mediante la violencia.
+De la misma manera, aún si yo elijo pagar mis impuestos voluntariamente, no puedo simplemente imponerle esa decisión a usted, ya que un contrato voluntario es una preferencia meramente personal, y por ende no puede ser forzada universalmente mediante la violencia.
 
 ### The Necessity Of The State?
 
-Toda esta pregunta se vuelve aún más absurda cuando consideramos la "justificación" moral más común para el poder de los gobiernos democráticos, que se basa en la "voluntad de la mayoría."
+Toda esta cuestión se vuelve aún más absurda cuando miramos a la “justificación” moral más común con respecto al poder de los gobiernos democráticos, los cuales están basados en la “voluntad de la mayoría.”
 
 First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. La "mayoría" no puede tener más una "voluntad" que una "línea de coro" que puede "dar a luz". Si lo dudas, simplemente intenta construir una casa en el árbol con el concepto "bosque" en lugar de cualquier pieza de madera individual.
 
