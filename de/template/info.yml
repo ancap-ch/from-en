@@ -49,25 +49,25 @@ persons:
   - 
     person_: [ ]
     identifier: "vorlage_person"
-    rule: "cover_artist"
+    rule: "cover_künstler"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "artist"
+    identifier: "vorlage_person"
+    rule: "Künstler"
 resources:
   - 
     resource: [ ]
-    rule: "front_cover"
+    rule: "vorder_cover"
     content: "cover.png"
     websites:
-      - Resource website
-    description: Resource description
+      - Ressourcenwebsite
+    description: Ressourcenbeschreibung
     persons:
-      - template_person
+      - vorlage_person
 targets:
   - 
     target: [ ]
-    name: article
+    name: Artikel
     reset_footer_active: false
     reset_footer_depth: 0
     clear_page_active: true
