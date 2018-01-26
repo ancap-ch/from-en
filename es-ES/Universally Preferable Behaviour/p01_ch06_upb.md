@@ -1,15 +1,15 @@
-## UPB: Ethics Or Aesthetics?
+## UPB: ¿ética o estética?
 
-In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. A rapist, on the other hand, is violently inflicting his preferences upon his victim.
+En general, utilizaremos el término * estética * para referirnos a las preferencias no exigibles, universales o personales, mientras que * ética * o * moralidad * se referirán a ejecutables preferencias. Es * universalmente preferible * (es decir, obligatorio) utilizar el método científico para validar las teorías físicas, pero no podemos usar la fuerza para * infligir * el método científico a quienes no lo usan, ya que * no usar el método científico no es una acción violenta *. Las acciones no violentas por su propia naturaleza son * evitables *. Si un físico deja de usar el método científico, sino que comienza a consultar las cartas del tarot, no está infligiendo violentamente su elección sobre mí, y puedo evitarlo. Un violador, por otro lado, está infligiendo violentamente sus preferencias sobre su víctima.
 
-Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
+Aunque primero nos centramos en UPB en el ámbito de la ética, UPB ahora se puede ver como un "término general" que incluye disciplinas tales como:
 
-- The scientific method
-- Logic
-- Empiricism
-- Debating
-- Language
-- Ethics
+- El método científico
+- Lógica
+- Empirismo
+- Debatiendo
+- Idioma
+- Ética
 
 Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
 
