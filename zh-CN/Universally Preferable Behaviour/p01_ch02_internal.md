@@ -1,8 +1,8 @@
 ## 内部一致性
 
-如果我是一个建筑师，并计划建一个房子，我首先需要克服的困难是我是否要修房子。 如果我提出一个完全由肥皂泡建造建造的房子的美好计划，我永远都得不到佣金，因为这样的“房子”永远都无法修建起来。
+If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. 如果我提出一个完全由肥皂泡建造建造的房子的美好计划，我永远都得不到佣金，因为这样的“房子”永远都无法修建起来。
 
-同样，如果一个工程师提出一个修建桥梁的计划，首先满足的标准是桥梁能否支撑得起来。 首先只有桥梁在物理上是可行，才会有其他考虑，比如：寿命，美观等。
+Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. 首先只有桥梁在物理上是可行，才会有其他考虑，比如：寿命，美观等。
 
 随机使用材料修建桥梁或用随机的“计算”来判断它是否能建起来，是不合逻辑的—更不用说非生产性的了。 由于物理定律是一致性而普遍的，所以比较容易在修建桥梁*之前*计算出它能否建起来。
 
