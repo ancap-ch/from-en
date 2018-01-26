@@ -22,7 +22,7 @@ Os criminosos privados existem, é claro,*mas quase não têm impacto em nossas 
 
 Por outro lado, eu tirei de centenas de milhares de dólares retirados de mim pela força através da teoria moral de "a tributação é boa". Fui forçado a sentar-se no grimags mentais sombrios e destruidores de cérebro das escolas públicas por quatorze anos, com base na teoria moral de que "a educação estatal é uma virtude"[^12]
 
-The boy (and the man) who stole my money doubtless used it for some personal pleasure or need. The government that steals my money, on the other hand, uses it to oppress the poor, to fund wars, to pay the rich, to borrow money and so impoverish my children – and to pay the salaries of those who steal from me.
+O menino (e o homem) que roubou meu dinheiro sem dúvida o usou para algum prazer ou necessidade pessoal. The government that steals my money, on the other hand, uses it to oppress the poor, to fund wars, to pay the rich, to borrow money and so impoverish my children – and to pay the salaries of those who steal from me.
 
 If I were a doctor in the middle of a great city struck down by a terrible plague, and I discovered that that plague was being transmitted through the water pipes, what should my rational response be – if I claimed to truly care about the health of my fellow citizens?
 
