@@ -19,37 +19,37 @@ Veamos tres acciones para ayudarnos a distinguir más entre ética y estética. 
 
 Digamos que usted y yo estamos teniendo un debate sobre la existencia de Dios. Después de exponer mis argumentos, te pasas las manos por las orejas, cantando que Dios te está diciendo que Él existe, y por lo tanto, todos mis argumentos no significan nada. Claramente, su respuesta a mi posición es irracional. Sin embargo, por molesto que yo pueda encontrar tu comportamiento, no me parece razonable desahogar mi frustración sacando un arma y disparándote. Creo que es * universalmente preferible * utilizar la lógica y la evidencia en lugar de confiar en las voces en nuestras cabezas, pero esta preferencia universal no es razonablemente exigible en el sentido * físico *, a través de la violencia o la amenaza de eso.
 
-### Acostado
+### De Mentira
 
-Digamos que usted y yo establecemos las reglas para un debate, y ambos acordamos juzgar la cuestión de la existencia de Dios de acuerdo con la razón y la evidencia. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
+Digamos que usted y yo establecemos las reglas para un debate, y ambos acordamos juzgar la cuestión de la existencia de Dios de acuerdo con la razón y la evidencia. Si, a medida que el debate continúa, vuelves a una posición de fe ciega y rechazas mis argumentos * a pesar de* su racionalidad y evidencia, no estás cumpliendo tu palabra. En otras palabras, estaba mintiendo cuando dijiste que la cuestión se decidiría por razón y evidencia.
 
-The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+La diferencia entre estas dos situaciones (irracionalidad versus mentira) es la diferencia entre un acuerdo contractual y un acuerdo no contractual.  . Si le doy cien dólares y luego me alejo, no puedo ir a buscarlo en un año y decir que ahora me debe cien dólares, porque fue un préstamo. Si, por otro lado, acuerdas devolverme el dinero en un año y luego no lo haces, esa es una situación bastante diferente.
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+En el ejemplo de "mentir", aunque claramente has roto tu palabra y has desperdiciado mi tiempo, no parece ser moral o razonable para mí sacar un arma y dispararte.
 
-A reasonable moral theory should be able to explain why this is the case.
+Una teoría moral razonable debería ser capaz de explicar por qué este es el caso.
 
-### Murder
+### Asesinato
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+Si te apresuras hacia mí con un cuchillo levantado, pocas personas discutirían mi derecho a defenderme. Si disparar fuera la única manera en que podría razonablemente garantizar mi propia seguridad, generalmente se consideraría una necesidad lamentable.
 
-### Requirements For Ethics
+### Requisitos para la ética
 
-Certain preconditions must exist, or be accepted, in order for ethical judgements or theories to have any validity or applicability. Clearly, choice and personal responsibility must both be accepted as axioms. If a rock comes bouncing down a hill and crashes into your car, we do not hold the rock morally responsible, since it has no consciousness, cannot choose, and therefore cannot possess personal responsibility. If the rock dislodged simply as a result of time and geology, then no one is responsible for the resulting harm to your car. If, however, you saw me push the rock out of its position, you would not blame the rock, but rather me. To add a further complication, if it turns out that I dislodged the rock because another man forced me to at gunpoint, you would be far more likely to blame the gun-toting initiator of the situation rather than me.
+Ciertas condiciones previas deben existir, o ser aceptadas, para que los juicios o teorías éticas tengan validez o aplicabilidad. Claramente, la elección y la responsabilidad personal deben ser aceptadas como axiomas. Si una roca viene rebotando por una colina y choca contra su vehículo, no consideramos que la roca sea moralmente responsable, ya que no tiene conciencia, no puede elegir y, por lo tanto, no puede tener responsabilidad personal. Si la roca se desprendió simplemente como resultado del tiempo y la geología, entonces nadie es responsable del daño resultante a su automóvil. Sin embargo, si me vieras empujar la roca fuera de su posición, no culparías a la roca, sino a mí. Para agregar una complicación adicional, si resulta que desalojé la roca porque otro hombre me obligó a punta de pistola, sería mucho más probable que culpe al iniciador de la situación que a las armas en lugar de a mí.
 
-As we have discussed above, entering into any debate requires an acceptance of the realities of choice, values and personal responsibility. However, these factors are also present in the choice of the colour of paint for a room, yet we would scarcely say that selecting a hue is a *moral* choice. Thus there must be other criteria which must be present in order for a choice or proposition to be moral.
+Como hemos discutido anteriormente, entrar en cualquier debate requiere la aceptación de las realidades de elección, los valores y la responsabilidad personal. Sin embargo, estos factores también están presentes en la elección del color de la pintura para una habitación, sin embargo, apenas podríamos decir que la selección de un tono es una opción * moral *. Por lo tanto, debe haber otros criterios que deben estar presentes para que una elección o proposición sea moral.
 
-We all have preferences – from the merely personal (“I like ice cream”) to the socially preferable (“It is good to be on time”) to universal morality (“Thou shalt not murder”).
+Todos tenemos preferencias, desde la meramente personal ("me gusta el helado") socialmente preferible ("es bueno estar a tiempo") a la moral universal ("no matarás").
 
-There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
+No tiene mucho sentido escribir un libro sobre preferencias personales, y podemos recurrir a Ann Landers para una discusión sobre el comportamiento socialmente preferible, aquí, nos centraremos en la posibilidad de * Comportamiento universalmente preferible *.
 
-### Choice
+### Elección
 
-If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+Si acepto su invitación a una cena, pero considero que la conversación es altamente ofensiva, puedo decidir levantarme e irme, y también puedo elegir no aceptar otra invitación suya. Esta capacidad de escape y / o evitación es una característica esencial que diferencia a * estética * de * ética *.
 
-If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
+Sin embargo, si decido dejar tu cena, saltas y me encadenas a mi silla, claramente ya no tengo la opción de irme. Este es el momento en que su rudeza se convierte en agresión abierta, y cruza la línea de la estética a la ética.
 
-If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I have certainly done her wrong, but the wrong that I have done by cheating would be very different from the wrong I would do if I lock her in the basement to prevent her from leaving. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does.
+Si, después de jurar la monogamia, engaño a mi esposa, y ella decide dejarme, ciertamente la he hecho mal, pero el error que he cometido al hacer trampa sería muy diferente del mal que haría si la encerraba el sótano para evitar que se vaya. En general, no consideraríamos que una esposa que dispara a su marido por infidelidad actúe moralmente, pero reconoceríamos la lamentable necesidad si tuviera que usar la violencia para escapar de su encarcelamiento. En la primera situación, la esposa tiene la libertad de elección y capacidad para * abandonar* a su esposo, por lo que la violencia sería una respuesta injusta a la situación; en la segunda situación, su decisión de dejar a su marido ha sido eliminada mediante prisión. La infidelidad no destruye la capacidad de elegir de un compañero; encerrarla en el sótano sí.
 
 ### Avoidance
 
