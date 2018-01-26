@@ -59,9 +59,9 @@ Las personas buenas no actúan moralmente porque temen la retribución, sino por
 
 The fourth option is that most people are good, and only a few are evil. Esta posibilidad está sujeta a los mismos problemas descritos anteriormente, especialmente que las personas malvadas siempre querrán obtener control sobre el gobierno, para protegerse de la simple represalia por sus crímenes. Esta opción solo cambia el *apariencia* de la democracia: como la mayoría de la gente es buena, los malvados buscadores de poder deben mentirles para obtener poder, y luego, después de obtener un cargo público, romperán inmediatamente la fe y perseguirán sus propias agendas corruptas, haciendo cumplir su voluntad a través de la policía y el militar.[^7] Por lo tanto, el gobierno sigue siendo el mayor premio para los hombres más malvados, que rápidamente tomarán el control de su asombroso poder, en detrimento de todas las almas buenas, por lo que tampoco se le puede permitir al gobierno existir en este escenario.
 
-It is clear, then, that there is no situation under which a government can logically or morally be allowed to exist. The only possible justification for the existence of a government would be if the majority of men are evil, but all the power of the government is always controlled by a minority of good men.[^8]
+It is clear, then, that there is no situation under which a government can logically or morally be allowed to exist. La única justificación posible para la existencia de un gobierno sería si la mayoría de los hombres son malvados, pero todo el poder del gobierno siempre está controlado por una minoría de hombres buenos.[^8]
 
-This situation, while interesting theoretically, breaks down logically because:
+Esta situación, aunque es interesante teóricamente, se descompone lógicamente porque:
 
 1. The evil majority would quickly outvote the minority or overpower them through a coup;
 2. There is no way to ensure that only good people would always run the government; and,
@@ -95,9 +95,9 @@ Organised crime does not provide many good examples, since gangs so regularly co
 
 A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+Esta es una lección instructiva sobre por qué tales hombres requieren poblaciones desarmadas y dependientes, y un buen ejemplo de cómo el miedo a las represalias es inherente a un sistema equilibrado de poderes descentralizados y competitivos. *Es el único método probado para garantizar y mantener la libertad personal*.
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+Huir de los demonios imaginarios a las cárceles protectoras de los gobiernos solo garantiza la destrucción de las mismas libertades que hacen que la vida valga la pena.
 
 [^4]: See [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
 
