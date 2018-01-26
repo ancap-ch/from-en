@@ -102,7 +102,7 @@ Eğer insanların eylemlerinden sorumlu olmadığını iddia edersem, *belgeleri
 
 Eğer benim insanların eylemlerinden sorumlu *olmadığını* iddia eden öngörüm doğru ise, o zaman ben öngörülerimden, siz de cevabınızdan sorumlu değilsiniz. Bununla birlikte, eğer sizin cevabınızdan sorumlu olmadığınıza inanıyorsam, bu argümanı ilerletmek çok az mantıklı olacaktır - bu bir televizyon setiyle tartışmak ile aynı şey olacaktır.[^5]
 
-Dolayısıyla, esas olarak, eğer size eylemlerinizden sorumlu olmadığınızı söylersem,aynı zamanda size eylemleriniz üzerinde kontrolünüz olmadığından, istenilen bir durumu mesela hakikati gerçek dışılığa tercih edemezsiniz; tercih hakkı imkansızdır'a inanmak sizin için evrensel olarak tercih edilebilirdir diyorum. Dolayısıyla bu argüman, yukarıdaki argümanlar gibi, kendi kendini yok eder.
+Dolayısıyla, esas olarak, eğer size eylemlerinizden sorumlu olmadığınızı söylersem, aynı zamanda size eylemleriniz üzerinde kontrolünüz olmadığından, istenilen bir durumu, mesela hakikati gerçek dışılığa tercih edemezsiniz; tercih hakkı yoktur sözüne inanmak sizin için evrensel olarak tercih edilebilirdir diyorum. Dolayısıyla bu argüman, yukarıdaki argümanlar gibi, kendi kendini yok eder.
 
 [^4]: İleride çok önemli olacağından bu dikkate değer önermeyi akılda tutmak çok yararlı olacaktır.
 
