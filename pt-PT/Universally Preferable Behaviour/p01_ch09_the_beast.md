@@ -18,7 +18,7 @@ Não, onde quer que as teorias éticas sejam corruptas, contraditórias e destru
 
 Qualquer ético, então, que se concentra na mera criminalidade, e não nos crimes institucionais apoiados por teorias éticas, falta o quadro quase que inteiramente e serve a humanidade até o matadouro. Um médico que, no meio de uma praga universal e mortal, concentrou seus esforços inteiros na comunicação sobre as possíveis consequências para a saúde de ser ligeiramente acima do peso, seria considerado bastante perturbado e dificilmente um guia confiável em questões médicas. Se sua casa estiver em chamas, mulling sobre as cores que você pode querer pintar suas paredes pode ser considerado uma prioridade sub-ótima.
 
-Private criminals exist, of course, *but have almost no impact on our lives comparable to those who rule us on the basis of false moral theories*. Once, when I was eleven, another boy stole a few dollars from me. Another time, when I was twenty-six, I left my ATM card in a bank machine, and someone stole a few hundred dollars from my account.
+Os criminosos privados existem, é claro,*mas quase não têm impacto em nossas vidas comparáveis àqueles que nos governam com base em falsas teorias morais*. Once, when I was eleven, another boy stole a few dollars from me. Another time, when I was twenty-six, I left my ATM card in a bank machine, and someone stole a few hundred dollars from my account.
 
 On the other hand, I have had hundreds of thousands of dollars taken from me by force through the moral theory of “taxation is good.” I was forced to sit in the grim and brain-destroying mental gulags of public schools for fourteen years, based on the moral theory that “state education is a virtue.”[^12]
 
