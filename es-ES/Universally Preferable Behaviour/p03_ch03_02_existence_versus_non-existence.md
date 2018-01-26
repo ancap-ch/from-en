@@ -24,7 +24,7 @@ Si no creo que soy competente para tomar mis propias decisiones, entonces claram
 
 O soy capaz de tomar decisiones competentes, o no lo soy. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. Si yo *no* soy capaz de tomar decisiones competentes, entonces mi decisión de subordinarme a la violencia por el resto de mi vida, también es inválida.
 
-Incluso si las consideraciones anteriores se omiten de alguna manera, sin embargo, sigue siendo imposible aplicar justamente un contrato social a través de un gobierno. Claramente, no puedo firmar un contrato en *su* lugar, o en lugar de mis hijos, que estará adosado a usted o a ellos por el resto de los días. No puedo comprar un auto, enviarle la factura y simplemente obligarlo a que usted la pague. Si reclamo el poder de imponer contratos unilaterales, UPB también otorga *tú* este poder, por lo que devolverá el contrato en mi nombre.
+Aún si las mencionadas consideraciones son pasadas por alto, sin embargo, es todavía imposible simplemente forzar un contrato social a través de un gobierno. Claramente, no puedo firmar un contrato en *su* lugar, o en lugar de mis hijos, que estará adosado a usted o a ellos por el resto de los días. No puedo comprar un auto, enviarle la factura y simplemente obligarlo a que usted la pague. Si reclamo el poder de imponer contratos unilaterales, UPB también otorga *tú* este poder, por lo que devolverá el contrato en mi nombre.
 
 De la misma manera, aún si yo elijo pagar mis impuestos voluntariamente, no puedo simplemente imponerle esa decisión a usted, ya que un contrato voluntario es una preferencia meramente personal, y por ende no puede ser forzada universalmente mediante la violencia.
 
