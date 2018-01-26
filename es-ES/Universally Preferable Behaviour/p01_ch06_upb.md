@@ -11,17 +11,17 @@ Aunque primero nos centramos en UPB en el ámbito de la ética, UPB ahora se pue
 - Idioma
 - Ética
 
-Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+La ética es el subconjunto de UPB que trata con el comportamiento * infligido * o el uso de la violencia. Cualquier teoría que justifique o niegue el uso de la violencia es una teoría * moral *, y está sujeta a los requisitos de coherencia lógica y evidencia empírica.
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+Veamos tres acciones para ayudarnos a distinguir más entre ética y estética. La primera acción es * irracionalidad *; el segundo está * mintiendo *; el tercero es * homicidio *. [^9]
 
-### Irrationality
+### Irracionalidad
 
-Let’s say that you and I are having a debate about the existence of God. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Digamos que usted y yo estamos teniendo un debate sobre la existencia de Dios. Después de exponer mis argumentos, te pasas las manos por las orejas, cantando que Dios te está diciendo que Él existe, y por lo tanto, todos mis argumentos no significan nada. Claramente, su respuesta a mi posición es irracional. Sin embargo, por molesto que yo pueda encontrar tu comportamiento, no me parece razonable desahogar mi frustración sacando un arma y disparándote. Creo que es * universalmente preferible * utilizar la lógica y la evidencia en lugar de confiar en las voces en nuestras cabezas, pero esta preferencia universal no es razonablemente exigible en el sentido * físico *, a través de la violencia o la amenaza de eso.
 
-### Lying
+### Acostado
 
-Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
+Digamos que usted y yo establecemos las reglas para un debate, y ambos acordamos juzgar la cuestión de la existencia de Dios de acuerdo con la razón y la evidencia. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
 
 The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
 
