@@ -16,40 +16,40 @@ Unten stehend ist eine aufgezählte Liste von gestylten Pangrammen, welche jedes
     3. Dieser Satz hat zwei Fußnoten. [^1] [^2]
 5. Dieser Satz hat [diesen](https://example-this.com) Link, und auch [diesen erneut](https://example-this-again.com).
 
-Now a non-enumerated list:
+Nun eine nicht aufgezählte Liste:
 
-* First level
-* First level 
-    * Second level
-    * Second level 
-        * Third level
-        * Third level
-    * Second level
-* First level
+* Erste Ebene
+* Erste Ebene 
+    * Zweite Ebene
+    * Zweite Ebene 
+        * Dritte Ebene
+        * Dritte Ebene
+    * Zweite Ebene
+* Erste Ebene
 
-Some quotation. First line is large; second line is small; third line is empty; fourth line is not. 5th line is not a quotation; 6th line is:
+Irgendein Zitat. Erste Zeile ist groß; zweite Zeile ist klein; dritte Zeile ist leer; vierte Zeile ist nichts; 5te Zeile ist kein Zitat; 6te Zeile ist:
 
-> 1th line is large: The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. 2th line is small: The quick, brown fox jumps over a lazy dog.
+> 1ste Zeile ist groß: Der schnelle, braune Fuchs springt über einen trägen Hund. Der schnelle, braune Fuchs springt über einen trägen Hund. Der schnelle, braune Fuchs springt über einen trägen Hund. Der schnelle, braune Fuchs springt über einen trägen Hund. Der schnelle, braune Fuchs springt über einen trägen Hund. Der schnelle, braune Fuchs springt über einen trägen Hund. Der schnelle, braune Fuchs springt über einen trägen Hund. Der schnelle, braune Fuchs springt über einen trägen Hund. Der schnelle, braune Fuchs springt über einen trägen Hund. Der schnelle, braune Fuchs springt über einen trägen Hund. 2te Zeile ist klein: Der schnelle, braune Fuchs springt über einen trägen Hund.
 > 
-> 4th line is not empty: The quick, brown fox jumps over a lazy dog.
+> 4te Zeile ist nicht leer: Der schnelle, braune Fuchs springt über einen trägen Hund.
 > 
-> 6th line is a quotation: The quick, brown fox jumps over a lazy dog.
+> 6te Zeile ist ein Zitat: Der schnelle, braune Fuchs springt über einen trägen Hund.
 
-# Headings
+# Überschriften
 
-## Sub heading
+## Unterüberschrift
 
-### Heading at the third level
+### Überschrift auf der dritten Ebene
 
-#### Heading at the fourth level
+#### Überschrift auf der vierten Ebene
 
-Some text at 4th level.
+Irgendein Text auf der vierten Ebene
 
-##### Heading at the fifth level
+##### Überschrift auf der fünften Ebene
 
-###### Heading at the 6th level
+###### Überschrift auf der sechsten Ebene
 
-Some text at 6th level.
+Irgendein Text auf der sechsten Ebene
 
 [^1]: Footnote example. But this will point to yet another footnote.[^3]
 
