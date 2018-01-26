@@ -18,9 +18,9 @@ De que outra forma, podemos saber que o conceito de "regras morais" é válido?
 
 Podemos examinar a questão biologicamente, bem como silogisticamente.
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+Por exemplo, toda a matéria está sujeita a regras físicas - e tudo o que vive também está, além disso, sujeito a certos requisitos e, portanto, se está vivo, deve ter seguido comportamentos universalmente preferidos. A vida, por exemplo, requer alimentos e oxigénio. Qualquer mente viva, é uma parte orgânica do mundo físico e, portanto, está sujeita a leis físicas e deve ter seguido comportamentos universalmente preferidos - argumentar outra coisa, exigiria a prova de que a consciência não está composta de matéria e não é orgânica - uma impossibilidade, já que ela possui massa, energia e vida. Alegar que a consciência não está sujeita nem a regras físicas nem a comportamentos universalmente preferidos, seria como argumentar que os seres humanos são imunes à gravidade e podem sobreviver sem comer.
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+Portanto, é impossível que alguém possa argumentar, logicamente, contra um comportamento universalmente preferível, pois, se está vivo para argumentar, deve ter seguido comportamentos universalmente preferíveis, como respirar, comer e beber.
 
 Syllogistically, this is:
 
