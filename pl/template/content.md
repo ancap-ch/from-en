@@ -18,14 +18,14 @@ Below there's an enumerated list of styled pangrams, that shows every character,
 
 Now a non-enumerated list:
 
-* First level
-* First level 
-    * Second level
-    * Second level 
-        * Third level
-        * Third level
-    * Second level
-* First level
+* Pierwszy poziom
+* Pierwszy poziom 
+    * Drugi poziom
+    * Drugi poziom 
+        * Trzeci poziom
+        * Trzeci poziom
+    * Drugi poziom
+* Pierwszy poziom
 
 Some quotation. First line is large; second line is small; third line is empty; fourth line is not. 5th line is not a quotation; 6th line is:
 
