@@ -28,7 +28,7 @@
 2. Предложение Y ложно, потому что оно иррационально.
 3. Предложение Z истинно, потому что я *хочу*, чтобы оно было истинным.
 
-The third assertion is a complete self-contradiction. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
+Третье утверждение – это полное внутренне противоречие. «Истина» не зависит от желания, поскольку желание, по определению, является субъективным предпочтением, в то время как истина, по определению, - соответствие идей объективным стандартам логики и эмпирической реальности. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
 
 Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
 
