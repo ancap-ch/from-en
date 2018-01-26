@@ -2,15 +2,15 @@
 
 Al comienzo de este libro, propongo una forma de ver cómo procesamos la verdad, analogándola con la física. De las "pequeñas verdades" de atrapar una pelota de béisbol, llegamos a las "grandes verdades" de la física, y las grandes verdades no pueden contradecir las pequeñas verdades.
 
-The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
+Lo mismo es cierto de la moralidad. A partir de las pequeñas verdades de "No debería asesinar", podemos llegar a las grandes verdades, como "el inicio del uso de la fuerza es moralmente incorrecto"
 
-In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
+En el ámbito de la física, una barrera central para la extrapolación lógica de las verdades desde la experiencia personal hasta la teoría universal ha sido la religión.
 
-For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
+Por ejemplo, ningún hombre ha experimentado directamente un círculo perfecto; tal entidad existe en lo abstracto y en las matemáticas, pero ninguna puede visualizarse en la mente ni experimentar sensualmente en el mundo real. En ninguna parte de la naturaleza, que sepamos, existe un círculo perfecto, ya sea en las "pequeñas verdades" de la experiencia personal o en las "grandes verdades" de la física.
 
-However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
+Sin embargo, durante miles de años, la ciencia de la astronomía quedó paralizada por la búsqueda de este "círculo perfecto". Las órbitas planetarias tenían que ser círculos perfectos, porque Dios nunca permitiría algo tan "imperfecto" como una elipse en Su creación.
 
-The problem with this approach – well, one problem anyway – was the retrograde motion of Mars. From our planet, Mars at times appears to be moving “backwards,” as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
+El problema con este enfoque - bueno, un problema de todos modos - fue el movimiento retrógrado de Marte. Desde nuestro planeta, Marte a veces parece moverse "hacia atrás", mientras la Tierra "lo adelanta" alrededor del sol. La falsa creencia de que la Tierra era el centro del sistema solar, combinada con una manía de círculos "perfectos", produjo el sistema ptolemaico de astronomía, que multiplicó todos estos círculos perfectos hasta el absurdo, para tener en cuenta órbitas elípticas y el movimiento retrógrado de Marte.
 
 Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
 
