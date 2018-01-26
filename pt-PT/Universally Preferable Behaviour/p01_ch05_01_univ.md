@@ -56,15 +56,15 @@ Tal como foi mencionado anteriormente, o método científico é essencialmente u
 
 Um outro aspecto do método científico é a crença de que, uma vez que a matéria é composta de combinações de átomos com propriedades comuns, estáveis e previsíveis, o comportamento da matéria também deve ser comum, estável e previsível. Assim, as experiências devem ser *reproduzíveis* em diferentes locais e horários. Não posso dizer que a minha teoria da "pedra flutuante" é correta, apenas para uma rocha em particular, ou no dia em que a experimentei pela primeira vez, ou nesse local específico. As minhas teorias devem descrever o comportamento de um *assunto*, universal, comum, estável e previsível.
 
-Finalmente, existe uma regra geralmente aceite - às vezes chamada de Navalha de Occam - que afirma que, se duas teorias possuem o mesmo poder previsível, é preferível o mais simples dos dois. Antes da revolução copernicana, quando a Terra era considerada o centro do universo, o movimento retrógrado de Marte, quando a Terra orbitava ao redor do sol, causava grandes problemas ao sistema de cálculos astronómicos Ptolemaicos. “Circles within circles” multiplied enormously, which were all cleared away by simply placing the sun at the centre of the solar system and accepting the elliptical nature of planetary orbits.
+Finalmente, existe uma regra geralmente aceite - às vezes chamada de Navalha de Occam - que afirma que, se duas teorias possuem o mesmo poder previsível, é preferível o mais simples dos dois. Antes da revolução copernicana, quando a Terra era considerada o centro do universo, o movimento retrógrado de Marte, quando a Terra orbitava ao redor do sol, causava grandes problemas ao sistema de cálculos astronómicos Ptolemaicos. "Círculos dentro de círculos" multiplicados enormemente, foram eliminadas simplesmente colocando o sol no centro do sistema solar e aceitando a natureza elíptica das órbitas planetárias.
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+Assim, qualquer teoria científica válida deve ser (a) universal (b) lógica (c) empiricamente verificável (d) reproduzível e (e) o mais simples possível.
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+A metodologia para julgar e provar uma teoria *moral* é exactamente a mesma que a metodologia para julgar e provar qualquer outra teoria.
 
-#### Moral Rules: A Definition
+#### Regras Morais: Definição
 
-The first question regarding moral rules is: *what* are they?
+A primeira pergunta sobre regras morais é: *o que* são elas?
 
 Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
 
