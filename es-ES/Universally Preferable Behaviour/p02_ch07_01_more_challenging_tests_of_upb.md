@@ -34,9 +34,9 @@ Esta es una objeción interesante, sin embargo, si el inicio de la fuerza es mal
 
 Por lo tanto, es imposible que cualquier teoría moral lógica rechace la validez moral de la autodefensa.
 
-### Child Raising
+### Crianza de niños
 
-Instinctively, we generally understand that there is something quite wrong with parents who do not feed their babies. To conceive a child, carry a child to term, give birth to the child, and then leave it lying in its crib to starve to death, severely offends our sensibilities.
+Instintivamente, generalmente entendemos que hay algo bastante malo con los padres que no alimentan a sus bebés. Concebir a un niño, llevar a un bebé a término, dar a luz al niño, y luego dejarlo acostado en su cuna para morir de hambre, ofende gravemente nuestra sensibilidad.
 
 Of course, our offence is in no way a moral argument, but it is an excellent starting place to test a moral theory.
 
