@@ -52,25 +52,25 @@ La sociedad progresa exactamente en la medida en que la razón y la evidencia da
 
 ### Gobierno
 
-Decir que el gobierno opera bajo reglas morales opuestas del resto de la sociedad es exactamente lo mismo que decir: "los duendes son inmunes a la gravedad". Antes que nada, los duendes no existen, y una de las formas en que sabemos que no existen es que se afirma que son inmunes a la gravedad. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Decir que el gobierno opera bajo reglas morales opuestas del resto de la sociedad es exactamente lo mismo que decir: "los duendes son inmunes a la gravedad". Antes que nada, los duendes no existen, y una de las formas en que sabemos que no existen es que se afirma que son inmunes a la gravedad. Todo lo que tiene masa está sujeto a la gravedad; lo que es inmune a la gravedad por definición no tiene masa, y por lo tanto no existe. La afirmación "los duendes son inmunes a la gravedad" es una tautología, que solo confirma la inexistencia de duendes; es el equivalente semántico de "lo que no existe, no existe". A es A, la primera ley de la lógica de Aristóteles, hace muy poco para confirmar la existencia de lo que se define como inexistencia.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+Del mismo modo, cuando decimos que es moralmente bueno que los soldados asesinen y que los representantes del gobierno roban, sabemos que los "soldados" y los "representantes del gobierno" como categorías morales son * completamente inválidos *.
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+Si digo que un círculo cuadrado tiene derecho a robar, simplemente estoy diciendo que lo que no puede existir tiene el derecho de hacer lo que es autocontradictorio, una afirmación puramente sin sentido, pero que sigue siendo extrañamente convincente en la "zona nula". "De la política".
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+Si compro un uniforme de soldado en una tienda de segunda mano y me lo pongo, claramente no he creado un universo alternativo en el que las reglas morales opuestas puedan ser válidas. El momento antes de ponerme el uniforme, estaba mal que yo asesinara, ¿cuándo se vuelve * correcto * que mate? Cuando me pongo los pantalones? ¿Qué pasa si tengo los pantalones puestos, pero no el chaleco? ¿Qué pasa si solo tengo las botas puestas? ¿Qué pasa si ambas botas las tengo puestas, pero solo una está atada? ¿Qué pasa si mi sombrero está al revés? ¿Qué pasa si me he puesto un uniforme que no es reconocido por la primera persona que encuentro? ¿De repente los Beatles tenían el derecho de asesinar cuando filmaron la portada de "Sergeant Peppers"? ¿Perdieron ese derecho cuando se quitaron sus chaquetas?
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Formulo estas preguntas retóricas porque de hecho son terriblemente graves. Claramente, un traje militar no cambia la naturaleza de un ser humano, del mismo modo que un corte de pelo lo convierte en un pato, un concepto o un dios.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+"Ah", puedes decir, "pero el uniforme no es válido porque lo compraste en una tienda de segunda mano: ponerte el uniforme del soldado no te convierte en soldado más que en fotocopiar un doctorado te da un doctorado"
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+La analogía es incorrecta, porque tener un Ph.D. o fotocopiar un doctorado no cambia ninguna de las reglas morales a las que está sujeto como ser humano.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+"Bueno", puedes responder ", pero la diferencia es que el soldado posee los derechos morales que le brinda el ciudadano promedio, en aras de la autodefensa colectiva y demás"
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Esto plantea un punto muy interesante, que es la cuestión de si las opiniones pueden cambiar la realidad.
 
-### Opinions And Reality
+### Opiniones y Realidad
 
 Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
 
