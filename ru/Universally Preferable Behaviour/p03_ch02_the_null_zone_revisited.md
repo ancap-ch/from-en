@@ -34,7 +34,7 @@
 
 Мы можем верить в недоказанные вещи, которые оказываются истинными - кто-то, несомненно, думал, что мир кругл, прежде чем это было доказано, - но «нулевая зона» - это область, в которой мы цепляемся за убежденность в таких вещах, которые *никак не могут оказаться истинными*.
 
-If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. Если я говорю, что два плюс два равно пять, я делаю ошибку, которую можно исправить, сославшись на логику. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. Если я говорю, что верю в существование квадратного круга, то я делаю явно внутренне противоречивое высказывание, которое опровергает само себя. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
 
 ### Next Stop: The "Alternative Universe"
 
