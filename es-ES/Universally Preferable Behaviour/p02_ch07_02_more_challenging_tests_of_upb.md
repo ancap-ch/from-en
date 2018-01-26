@@ -56,4 +56,4 @@ De la misma manera, la moralidad solo se aplica a la conciencia racional, debido
 
 En otras palabras, la aplicación incorrecta no es refutada.
 
-There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
+Hay muchas otras "áreas grises" en las que podríamos trabajar, desde el aborto hasta los derechos de propiedad intelectual, la restitución, etc., pero creo que es mucho más importante sacar a UPB del dominio de la abstracción y comenzar a aplicarlo a los problemas del mundo real que enfrentamos hoy.
