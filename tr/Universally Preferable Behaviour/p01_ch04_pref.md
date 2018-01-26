@@ -4,7 +4,7 @@ Kendini yenerek argümanların doğasını kavradığımızdan, tercihler mesele
 
 Tercihler, önermelerin gerçeklik değerini niteleme isteğinde bulunan herhangi bir metodolojinin merkezinde yer alırlar. Bilimsel yöntem, örnek verecek olursak, büyük bir ölçüde mantıksal tutarlılık ve deneysel doğrulama için doğuştan gelen tercihler aracılığıyla tanımlanır. Bilim için, önerme: *eğer* maddenin davranışı ve enerji hakkında geçerli bir hakikat saptamak istiyorsanız, bilimsel method kullanmak *tercih edilebilir*dir.
 
-Bu noktada, "tercih edilebilir", "iyinin çeşidi" anlamına gelmez, daha ziyade "gerekli" anlamına gelir. Eğer yaşamak istiyorsan, bir avuç dolusu arsenik yemekten çekinmek evrensel olarak tercih edilebilirdir. *If* Gerçek ile ilgili geçerli doğruları belirlemek istiyorsanız, kuramlarınızın hem iç tutarlı hem deneysel olarak doğrulanabilir olması *universally preferable*. O halde, "Evrensel olarak tercih edilir", "nesnel olarak gerekli" terimine çevrilir, ancak isteğe bağlı insan mutlaklarını ve yerçekimi gibi isteğe bağlı olmayan fiziksel mutlakları ayırt etmek için "tercih edilebilir" sözcüğünü elimizde tutacağız.
+Bu noktada, "tercih edilebilir", "iyinin çeşidi" anlamına gelmez, daha ziyade "gerekli" anlamına gelir. Eğer yaşamak istiyorsan, bir avuç dolusu arsenik yemekten çekinmek evrensel olarak tercih edilebilirdir. *If* Gerçek ile ilgili geçerli doğruları belirlemek istiyorsanız, kuramlarınızın hem iç tutarlı hem deneysel olarak doğrulanabilir olması *universally preferable*. O halde, "Evrensel olarak tercih edilir", "nesnel olarak gerekli" terimine çevrilir, ancak isteğe bağlı insan mutlaklarını ve yer çekimi gibi isteğe bağlı olmayan fiziksel mutlakları ayırt etmek için "tercih edilebilir" sözcüğünü elimizde tutacağız.
 
 Benzer bir şekilde, eğer etik teorilerin hepsi geçerli olabiliyorsa, *at least* hem dahili hem de harici olarak tutarlı olmalılar. Başka bir deyişle, kendisiyle çelişen bir etik teori geçerli olamaz - ve deneysel kanıtlara ve evrensel-çevre tercihlerine aykırı etik bir teori de geçerli olamaz.
 
@@ -16,7 +16,7 @@ Eğer ben "Dondurma seviyorum." dersem bu cümle içinde sadece bir kelime belir
 
 Tercihler gerçekte objektif olarak yoklar. Eğer saplantılı şekilde merak ediyorsanız, muhtemelen beni takip edebilir ve her dondurma yediğimde kayıt altına alabilirsiniz, bu da muhtemelen tercihimi oluşturmak için iyi bir deneysel temel oluşturacaktır. Bununla birlikte, gerçekte bir mazoşist olduğum ve dondurmayı sevmediğim ve hoşa gitmeyen tadıyla kendime işkence yapmayı tercih ettiğim ihtimali olabilir - ve daha sonra onu sevmeyi iddia ederek sizi şaşırtabilir.
 
-Tercihler için*delil* bulabiliriz; Biz gerçekte * tercihin kendisi* olduğunu bulamıyoruz. Yerçekiminin, kütleler arasındaki bir ilişki olarak varolduğu gibi, tercihde bilinç ile madde arasında * ilişki olarak bulunur *.
+Tercihler için *delil* bulabiliriz; Biz gerçekte * tercihin kendisi* olduğunu bulamayız. Yer çekiminin, kütleler arasındaki bir ilişki olarak var olduğu gibi, tercih de bilinç ile madde arasında *ilişki* olarak bulunur.
 
 Özgür irade ile determinizm arasındaki zorlu soruları bir kenara koyarsak, şu anda birinin yaptığı her şeyin "tercih" ettiği varsayımı mantıklıdır. Eğer kalkarsam ve işe gidersem, diğer tüm seçeneklerin aksine bunu yapmayı * tercih ettiğimdendir *. İşimden nefret etsem bile, şüphesiz meteliksiz olduğumu söylemekten daha az nefret ediyorum.
 
@@ -32,7 +32,7 @@ Bir tercih belirtmeden hareket etmek imkansız olduğundan - üstü kapalı veya
 
 ### Tercihler ve Evrensellik
 
-Bir sonraki soru şöyle gelir: Tamamen öznel olan tercihler mi yoksa nesnel olabilirler mi ?
+Bir sonraki soru şöyle gelir: Tamamen öznel olan tercihler mi yoksa nesnel olabilirler mi?
 
 Açıkça, bazı tercihler özneldir. Müzik zevki, kişisel hobiler, favori edebiyat türü ve bunun gibi diğer hepsi öznel ve kişisel tercihlerdir.
 
@@ -46,7 +46,7 @@ Bu nedenle, evrensel tercihlerden bahsederken, insanların * tercih ettikleri* �
 
 Aynı şekilde, eğer bir insan bir hastalığı tedavi etmek istiyorsa, Aztek yağmur dansı yapmaktan ziyade antibiyotik *kullanmalıdır*. Yağmur dansı yerine antibiyotik kullanma tercihi evrenseldir çünkü dans etmek hastalıkları tedavi etmez. Dolayısıyla, ara sıra kendisini dans ederek tedavi etmeye çalışan çılgın insanlar olsa da, eğer bir insan eğer kendi kendisini tedavi etmek istiyorsa, antibiyotik kullanması gerektiği *evrensel olarak tercih edilebilir*dir.
 
-Başka bir deyişle, eğer dağın tepesine ulaşmak istiyorsanız bunu dilemek asla işe yaramayacaktır. Eğer evrenin kökenini öğrenmek istiyorsanız dua hiç bir zaman bir cevap vermeyecektir. İnsanlar hala dilek diler ve dua eder, ama bu bu metodları etkili olduğunu göstermez. Aklımızda bu varken evrensel tercihlerin hala geçerli olup olmadığını sorgulayabilriz.
+Başka bir deyişle, eğer dağın tepesine ulaşmak istiyorsanız bunu dilemek asla işe yaramayacaktır. Eğer evrenin kökenini öğrenmek istiyorsanız dua hiç bir zaman bir cevap vermeyecektir. İnsanlar hala dilek diler ve dua eder, ama bu yöntemlerin etkili olduğunu göstermez. Aklımızda bu varken evrensel tercihlerin hala geçerli olup olmadığını sorgulayabilriz.
 
 ### Argümanlar ve Evrensellik
 
@@ -58,7 +58,7 @@ Eğer senle tartışmayı seçersem ikimizin de var olduğunu mutlaka kabul etme
 
 #### Önerme 2: Duyular Doğruluk için Gerekli Kapasiteye Sahiptir
 
-İnsanlar psişik olarak iletişim kuramadığı için, tüm tartışmalar muhakkak duyu kanıtını içerir. Yazmak mantıken görmeyi gerektirir; konuşmak duymayı gerektirir; Braille(Görme Engelliler Alfabesi) dokunmayı gerektirir. Dolayısıyla, duyuların geçersizliğine bağlı olan herhangi bir öneri kendi kendini yok eder.
+İnsanlar psişik olarak iletişim kuramadığı için, tüm tartışmalar muhakkak duyu kanıtını içerir. Yazmak mantıken görmeyi gerektirir; konuşmak duymayı gerektirir; Braille (Görme Engelliler Alfabesi) dokunmayı gerektirir. Dolayısıyla, duyuların geçersizliğine bağlı olan herhangi bir öneri kendi kendini yok eder.
 
 #### Önerme 3: Dil Anlam için Gerekli Kapasiteye Sahiptir
 
@@ -82,7 +82,7 @@ Bu, nesnel ölçütlerin * mantıksal* - olduğu anlamına gelmez Örneğin sizi
 
 Eğer ben size dünyanın düz olduğunu söylüyorsam ve siz de dünya düz değil yuvarlaktır diye cevaplıyorsanız; o zaman siz üstü kapalı şekilde hakikatin ve gerçek dışılığın ikisinin de objektif şekilde var olabileceğini ve hakikatin gerçek dışılıktan daha iyi olduğunu kabul etmiş olursunuz.
 
-Eğer sana çikolatalı dondurma sevdiğimi söylersem, ve sen bana vanilyalı sevdiğini söylersen, vanilyalı olanın çikolatalı olandan objektif olarak daha iyi olduğunu "kanıtlamak" imkansızdır. Beni objectif *unsurlar*ı referans alarak düzelttiğiniz anda, objektif unsurların var olduğunu ve objektif hakikatin sübjektif hatalar için *evrensel olarak tercih edilebilir* olduğunu kabul etmiş oluyorsunuz.
+Eğer sana çikolatalı dondurma sevdiğimi söylersem, ve sen bana vanilyalı sevdiğini söylersen, vanilyalı olanın çikolatalı olandan objektif olarak daha iyi olduğunu "kanıtlamak" imkansızdır. Beni objektif *unsurları* referans alarak düzelttiğiniz anda, objektif unsurların var olduğunu ve objektif hakikatin sübjektif hatalar için *evrensel olarak tercih edilebilir* olduğunu kabul etmiş oluyorsunuz.
 
 #### Önerme 7: Sakin Şekilde Tartışmak Anlaşmazlıkları Çözmenin En İyi Yoludur
 
@@ -92,15 +92,15 @@ Eğer bana herhangi bir anlaşmazlık ile bana ateş ederek başa çıkacağın�
 
 Özünde, o zaman, tartışmak, objektif bir yöntem bilim kullanarak, anlamlı bir dil aracılığıyla, kişisel hatanın yerine objektif olarak tercih edilebilir evrensel hakikatin peşinde koşmayı gerektirir.
 
-Evrensel gerçeğe yönelik bu tercih *mevki* 'nin bir tercihi değil, *tür*' ün bir tercihidir. Sürüş sürenizi yarıya indiren bir kısayol daha uzun bir yoldan iki kat daha iyidir - ama ikisi de tamamen yanlış bir istikamete sürüşe göre *son derecede tercih edilebilir*dir.
+Evrensel gerçeğe yönelik bu tercih *mevkinin* bir tercihi değil, *türün* bir tercihidir. Sürüş sürenizi yarıya indiren bir kısayol daha uzun bir yoldan iki kat daha iyidir - ama ikisi de tamamen yanlış bir istikamete sürüşe göre *son derecede tercih edilebilir*dir.
 
 Aynı şekilde, hakikat hatadan sadece "iyi" değildir - *son derecede tercih edilebilir* veya mecburidir.
 
 #### Önerme 8: Bireyler Eylemlerinden Sorumludurlar
 
-Eğer insanların eylemlerinden sorumlu olmadığını iddia edersem, *argümanımdan sorumlu olup olmadığımı ve ayrıca sizin yanıtınızdan sorumlu olup olmadığınızı* sorgulayan bir paradoksa yakalanırım.
+Eğer insanların eylemlerinden sorumlu olmadığını iddia edersem, *belgelerimden sorumlu olup olmadığımı ve ayrıca sizin yanıtınızdan sorumlu olup olmadığınızı* sorgulayan bir paradoksa yakalanırım.
 
-Eğer benim insanların eylemlerinden sorumlu ol*ma*dığını iddia eden argümanım doğru ise, o zaman ben argümanımdan siz de cevabınızdan sorumlu değilsiniz. Bununla birlikte, eğer sizin cevabınızdan sorumlu olmadığınıza inanıyorsam, bu argümanı ilerletmek çok az mantıklı olacaktır - bu bir televizyon setiyle tartışmak ile aynı şey olacaktır.[^5]
+Eğer benim insanların eylemlerinden sorumlu *olmadığını* iddia eden öngörüm doğru ise, o zaman ben öngörülerimden, siz de cevabınızdan sorumlu değilsiniz. Bununla birlikte, eğer sizin cevabınızdan sorumlu olmadığınıza inanıyorsam, bu argümanı ilerletmek çok az mantıklı olacaktır - bu bir televizyon setiyle tartışmak ile aynı şey olacaktır.[^5]
 
 Dolayısıyla, esas olarak, eğer size eylemlerinizden sorumlu olmadığınızı söylersem,aynı zamanda size eylemleriniz üzerinde kontrolünüz olmadığından, istenilen bir durumu mesela hakikati gerçek dışılığa tercih edemezsiniz; tercih hakkı imkansızdır'a inanmak sizin için evrensel olarak tercih edilebilirdir diyorum. Dolayısıyla bu argüman, yukarıdaki argümanlar gibi, kendi kendini yok eder.
 
