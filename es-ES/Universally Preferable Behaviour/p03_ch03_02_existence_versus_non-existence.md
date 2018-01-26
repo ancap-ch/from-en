@@ -22,7 +22,7 @@ Si no puedo decidir de qué color pintar mi casa, y mi solución es firmar un co
 
 Si no creo que soy competente para tomar mis propias decisiones, entonces claramente mi decisión de someterme a la violencia *para el resto de mi vida* Es una decisión incompetente.
 
-O soy capaz de tomar decisiones competentes, o no lo soy. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. If I am *not* capable of making competent decisions, then my decision to subject myself to force for the rest of my life is also invalid.
+O soy capaz de tomar decisiones competentes, o no lo soy. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. Si yo *no* soy capaz de tomar decisiones competentes, entonces mi decisión de subordinarme a la violencia por el resto de mi vida, también es inválida.
 
 Incluso si las consideraciones anteriores se omiten de alguna manera, sin embargo, sigue siendo imposible aplicar justamente un contrato social a través de un gobierno. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. Si reclamo el poder de imponer contratos unilaterales, UPB también otorga *tú* este poder, por lo que devolverá el contrato en mi nombre.
 
