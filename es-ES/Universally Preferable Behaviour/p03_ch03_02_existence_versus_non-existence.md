@@ -89,11 +89,11 @@ In a voluntary society, there would be no taxation, and thus any group wishing t
 
 It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
 
-What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+What is the evidence for the view that decentralised and competing powers promotes peace? En otras palabras, ¿hay algún hecho que podamos usar para apoyar la idea de que un equilibrio de poder es la única oportunidad que tiene el individuo para la libertad?
 
-Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
+El crimen organizado no ofrece muchos buenos ejemplos, ya que las pandillas corrompen, manipulan y utilizan con tanta frecuencia el poder de la policía gubernamental para hacer cumplir su gobierno, por lo que no se puede decir que estas pandillas operan en estado natural. Además, las bandas criminales se benefician enormemente al suministrar sustancias o servicios legalmente prohibidos, y también florecen en gran parte debido a las políticas estatales.
 
-A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+Un ejemplo más útil es el hecho de que ningún líder ha declarado la guerra a otro líder que posee armas nucleares. En el pasado, cuando los líderes se sentían inmunes a las represalias personales, estaban más que dispuestos a matar a su propia población librando una guerra. Ahora que están sujetos a la aniquilación, solo están dispuestos a atacar países que no pueden defenderse.
 
 Esta es una lección instructiva sobre por qué tales hombres requieren poblaciones desarmadas y dependientes, y un buen ejemplo de cómo el miedo a las represalias es inherente a un sistema equilibrado de poderes descentralizados y competitivos. *Es el único método probado para garantizar y mantener la libertad personal*.
 
