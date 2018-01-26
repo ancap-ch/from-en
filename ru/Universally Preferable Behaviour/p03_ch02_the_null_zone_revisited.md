@@ -30,7 +30,7 @@
 
 Третье утверждение – это полное внутренне противоречие. «Истина» не зависит от желания, поскольку желание, по определению, является субъективным предпочтением, в то время как истина, по определению, - соответствие идей объективным стандартам логики и эмпирической реальности. Говорить, что нечто истинно, потому что вы *хотите*, чтобы оно было истинным, значит приравнивать субъективность к объективности, что является внутренне противоречивым утверждением.
 
-Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
+. Предвзятые утверждения - или «вера» - по определению не могут быть проверены, поскольку они являются не убежденностью в *отсутствии* доказательств, а убежденностью в *пренебрежении* разумом и/или доказательствами.
 
 We can believe unproven things that turn out to be true – someone doubtless thought that the world was round before it was proven – but the “null zone” is the realm wherein we cling to a belief in things that *could not possibly turn out to be true*.
 
