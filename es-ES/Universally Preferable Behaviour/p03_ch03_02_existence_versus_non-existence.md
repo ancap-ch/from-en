@@ -89,28 +89,28 @@ En una sociedad voluntaria, no habría impuestos, y por lo tanto cualquier grupo
 
 Es muy difícil entender la lógica y la inteligencia del argumento de que, para protegernos de un grupo que * podría * superarnos, deberíamos apoyar a un grupo que * ya * nos venció. Es similar al argumento estatista sobre los monopolios privados: que los ciudadanos deberían crear un monopolio gubernamental porque temen a los monopolios privados. No se necesita una gran visión para ver a través de esas tonterías.
 
-What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+¿Cuál es la evidencia de la opinión de que los poderes descentralizados y en competencia promueven la paz? En otras palabras, ¿hay algún hecho que podamos utilizar para apoyar la idea de que un equilibrio de poder es la única oportunidad que tiene el individuo para la libertad?
 
-Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
+El crimen organizado no ofrece muchos buenos ejemplos, ya que las pandillas corrompen, manipulan y utilizan con tanta frecuencia el poder de la policía gubernamental para hacer cumplir su gobierno, por lo que no se puede decir que esas pandillas operan en un estado natural. Además, las pandillas delictivas se benefician enormemente mediante el suministro de sustancias o servicios legalmente prohibidos, y también florecen en gran parte debido a las políticas estatales.
 
-A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+Un ejemplo más útil es el hecho de que ningún líder ha declarado la guerra a otro líder que posee armas nucleares. En el pasado, cuando los líderes se sentían inmunes a las represalias personales, estaban más que dispuestos a matar a sus propias poblaciones librando una guerra. Ahora que están sujetos a la aniquilación, solo están dispuestos a atacar países que no pueden defenderse.
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+Esta es una lección instructiva sobre por qué tales hombres requieren poblaciones desarmadas y dependientes, y un buen ejemplo de cómo el miedo a las represalias inherentes a un sistema equilibrado de poderes descentralizados y competitivos *es el único método probado para asegurar y mantener la libertad personal *.
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+Huir de los demonios imaginarios a las cárceles protectoras de los gobiernos solo garantiza la destrucción de las mismas libertades que hacen que la vida valga la pena.
 
-[^4]: See [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
+[^4]: Ver [ Anarquía práctica ](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
 
-[^5]: See *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
+[^5]: Ver *[ Reserva Federal ](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
 
-[^6]: A perfect balance of good and evil is practically impossible.
+[^6]: Un equilibrio perfecto entre el bien y el mal es prácticamente imposible.
 
-[^7]: This is the current situation in democracies, of course.
+[^7]: Esta es la situación actual en las democracias, por supuesto.
 
-[^8]: See Plato’s *Republic*.
+[^8]: Ver la * República * de Platón.
 
-[^9]: Probably more, since evil people are always drawn to power.
+[^9]: Probablemente más, ya que las personas malvadas siempre se sienten atraídas por el poder.
 
-[^10]: For a more detailed discussion of the role that *parents* play in inculcating the fantasy that “power equals virtue,” see [On Truth](http://wiki.mises.org/wiki/On_Truth).
+[^10]: Para una discusión más detallada del papel que juegan los * padres * al inculcar la fantasía de que "el poder es igual a la virtud", ver [ Sobre la verdad ](http://wiki.mises.org/wiki/On_Truth). &#160;[ &#8617;](#fnref:10){.footnote-backref}
 
-[^11]: See [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
+[^11]: Ver [ Anarquía Práctica, Part 2 ](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Capítulo 5: "Guerra, ganancias, y el estado".
