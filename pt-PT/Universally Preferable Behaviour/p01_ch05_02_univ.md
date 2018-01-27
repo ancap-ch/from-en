@@ -41,17 +41,17 @@ Ou:
 3. Todos os Homens acreditam em comportamentos universalmente preferíveis.
 4. Portanto, existem evidências empíricas para apoiar a validade de um comportamento universalmente preferível - e a existência de tais evidências *opõe-se* à tese de que o comportamento universalmente preferível não é válido.
 
-O quarto argumento para a validade do comportamento universalmente preferível também é empírico. Uma vez que os seres humanos têm um número quase infinito de escolhas para fazer na vida, dizer que não há princípios de comportamento universalmente preferíveis, seria como dizer que todas as escolhas são iguais (ou seja, subjectivas). However, all choices are *not* equal, either logically or through empirical observation.
+O quarto argumento para a validade do comportamento universalmente preferível também é empírico. Uma vez que os seres humanos têm um número quase infinito de escolhas para fazer na vida, dizer que não há princípios de comportamento universalmente preferíveis, seria como dizer que todas as escolhas são iguais (ou seja, subjectivas). No entanto, *nem todas* as escolhas são iguais, quer seja logicamente, ou através de observações empíricas.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+Por exemplo, se a comida estiver disponível, quase todos os seres humanos preferem comer todos os dias. Quando faz frio, quase todos os seres humanos procuram calor. Quase todos os pais escolhem alimentar, abrigar e educar os seus filhos. Existem muitos exemplos de escolhas comuns entre a Humanidade, que indicam que o comportamento universalmente preferido abunda e faz parte da natureza humana.
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+Como foi mencionado anteriormente, nenhuma teoria válida da física pode negar o simples fato de que as crianças podem apanhar as bolinhas - do mesmo modo, nenhuma teoria da ética válida, pode rejeitar a evidência interminável para a aceitação do CUP.
 
-Or:
+Ou:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
+1. As opções são quase infinitas.
+2. A maioria dos seres humanos faz escolhas muito semelhantes.
+3. Contudo, nem todas as escolhas podem ser iguais.
 4. Therefore universally preferable choices must be valid.
 
 The fifth argument for the validity of universally preferable behaviour is evolutionary.
