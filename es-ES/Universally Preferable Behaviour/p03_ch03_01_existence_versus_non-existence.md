@@ -138,15 +138,15 @@ Nos dicen que "queremos" que Bob se lleve nuestro dinero, lo cual contradice por
 
 "Pensé que habías dicho que querían darte su dinero"
 
-“No, no – they owe me. It’s really *my* money!”
+"No, no, Ellos me lo deben. ¡Realmente es * mi * dinero! "
 
-“On what grounds do they owe you this money?”
+"¿Por qué motivo te deben este dinero?"
 
-“We have a contract!”
+"¡Tenemos un contrato!"
 
-“Can you show me this contract? Have they signed this contract of their own free will?”
+"¿Puedes mostrarme este contrato? ¿Han firmado este contrato por su propia voluntad
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+"¡No es ese tipo de contrato! Es un contrato * social *... Y además, de acuerdo con ese contrato social, soy dueño de toda la calle de todos modos, ¡todo el maldito vecindario de hecho! Cualquiera que se niegue a pagarme mi dinero puede mudarse a otra parte. ¡No estoy forzando a nadie
 
 “And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
 
