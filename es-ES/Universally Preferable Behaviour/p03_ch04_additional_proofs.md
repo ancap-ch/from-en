@@ -24,12 +24,12 @@ Dado que cualquier metodología para la adquisición de conocimiento debe ser un
 
 ### Educación Publica
 
-One central principle of free market economics is that quality only really results from *voluntarism*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
+Un principio central de la economía de libre mercado es que la calidad solo es realmente el resultado de * voluntarismo *. La coacción, fundamentalmente, es ineficiente: la violencia siempre resulta en mala calidad. Las panaderías soviéticas de estilo antiguo nunca llevaban pan bueno; un hombre que golpea a su esposa nunca tendrá un matrimonio feliz.
 
-The initiation of the use of force is always counter to any rational moral theory – it is a specific and explicit violation of UPB. Since public schools are funded through the initiation of the use of force, they are a form of *forced association*, which is a clear violation of the *freedom of association* validated by UPB.
+La iniciación del uso de la fuerza siempre es contraria a cualquier teoría moral racional: es una violación específica y explícita de CUP. Dado que las escuelas públicas se financian mediante el inicio del uso de la fuerza, son una forma de * asociación forzada *, que es una clara violación de la * libertad de asociación * validada por CUP.
 
-Since force violates the moral requirement of *avoidability* – and a lack of avoidability always breeds poor quality – UPB would help us easily predict that public schools would provide education of low quality.
+Dado que la fuerza viola el requisito moral de * evitar * - y la falta de evitación siempre genera mala calidad - CUP nos ayudaría a predecir fácilmente que las escuelas públicas proporcionarían educación de baja calidad.
 
-Furthermore, UPB would also have helped us predict that, as more and more force was used in the realm of public education – as taxes, union compulsions and so on escalated – the quality of the education provided would get worse and worse.
+Además, la CUP también nos habría ayudado a predecir que, a medida que se utilizara más y más fuerza en el ámbito de la educación pública, a medida que aumentaran los impuestos, las compulsiones sindicales, la calidad de la educación provista empeoraría cada vez más.
 
-This, of course, was – and is – exactly the case.
+Esto, por supuesto, fue y es exactamente el caso.
