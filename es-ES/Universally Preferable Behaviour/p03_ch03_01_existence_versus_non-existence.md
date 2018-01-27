@@ -24,17 +24,17 @@ La verdadera realidad de la declaración "el error es igual a la verdad" es la l
 
 La razón por la que hemos pasado tanto tiempo lidiando con esta teoría del "universo alternativo" es que tiene una relevancia directa para la sociedad humana, y se usa para "justificar" los mayores males que se cometen entre nosotros.
 
-En nuestra experiencia personal, sabemos que el asesinato es incorrecto. Al trabajar a través de la proposición de que el asesinato es moralmente incorrecto en los ejemplos anteriores, dudo mucho que alguien se sorprendiera al ver sus instintos morales confirmados a través del estricto razonamiento abstracto de la UPB. En esta sección, sin embargo, oficialmente está permitido que empieces a estar verdaderamente conmocionado.
+En nuestra experiencia personal, sabemos que el asesinato es incorrecto. Al trabajar a través de la proposición de que el asesinato es moralmente incorrecto en los ejemplos anteriores, dudo mucho que alguien se sorprendiera al ver sus instintos morales confirmados a través del estricto razonamiento abstracto de la CUP. En esta sección, sin embargo, oficialmente está permitido que empieces a estar verdaderamente conmocionado.
 
 Los mayores avances en la comprensión científica son las llamadas "teorías unificadoras". Einstein pasó décadas tratando de elaborar una teoría de campo unificada; y las teorías de la física que unen fuerzas fuertes y débiles, el electromagnetismo, la gravedad, etc., siguen siendo difíciles de alcanzar.
 
-La UPB como marco, sin embargo, no solo justifica nuestros instintos morales en los niveles personal, filosófico y universal, sino que también tiene profundas e impactantes implicaciones para la sociedad humana.
+La CUP como marco, sin embargo, no solo justifica nuestros instintos morales en los niveles personal, filosófico y universal, sino que también tiene profundas e impactantes implicaciones para la sociedad humana.
 
-#### UPB en Acción
+#### CUP en Acción
 
-El marco UPB valida las proposiciones morales al exigir que sean internamente consistentes y universales en términos de tiempo, lugar e individuos.
+El marco CUP valida las proposiciones morales al exigir que sean internamente consistentes y universales en términos de tiempo, lugar e individuos.
 
-Si aceptamos UPB, también debemos aceptar el siguiente corolario:
+Si aceptamos CUP, también debemos aceptar el siguiente corolario:
 
 - Las proposiciones morales son independientes del disfraz.
 
