@@ -30,11 +30,11 @@ Silogisticamente, são:
 4. Consequentemente, qualquer argumento contra um comportamento universalmente preferível, requer uma aceitação e prática de um comportamento universalmente preferido.
 5. E assim, nenhum argumento contra a existência de um comportamento universalmente preferível pode ser válido.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+Dado que o método científico requer uma confirmação empírica, também devemos olhar para a realidade para ratificar a nossa hipótese - e é assim que a validade do comportamento universalmente preferível é totalmente apoiada.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Qualquer ser humano saudável acredita em regras morais de algum tipo. Existe algum desentendimento sobre em que *constituem* as regras morais, mas todos estão de acordo em que as regras morais são válidas - assim como muitos cientistas discordam, mas aceitam a validade do próprio método científico. Podemos argumentar que a Terra é redonda e não plana - o que é o mesmo que mudar a definição de moralidade - mas não se pode argumentar que a Terra não existe - o que seria como alegar que não existe um comportamento universalmente preferível.
 
-Or:
+Ou:
 
 1. For a scientific theory to be valid, it must be supported by empirical observation.
 2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
