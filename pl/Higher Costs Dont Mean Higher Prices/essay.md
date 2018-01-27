@@ -8,7 +8,7 @@ W swoim argumencie, Wainwright zauważa, że nacisk rządu na zmniejszenie zaopa
 
 Ten przykład ilustruje paradoks tego, co dzieje się w nielegalnym "biznesie" narkotykowym, a konkretnie, dlaczego rządowe próby wpłynięcia na ich dopływ nie zadziałały. As argued by Wainwright, even partially successful measures to cut back on supply has not increased final prices for consumers (which was partly the stated rationale). Ten ciekawy i nieoczekiwany wynik sugeruje, że rząd powinien "inwestować" w zmniejszenie popytu na nielegalne narkotyki.
 
-Problem z tym argumentem jest taki, że polega on na zrównoważonej analizie modelu popytu-i-podażu używanej w kursach Econ 101 dla studentów pierwszego roku. I faktycznie nie ma zastosowania tutaj. Gdyby obrazy bądź rynki nielegalnych narkotyków były w stanie równowagi, może rzeczywiście istnieć paradoks. But this is hardly the case, *especially* in these markets.
+Problem z tym argumentem jest taki, że polega on na zrównoważonej analizie modelu popytu-i-podażu używanej w kursach Econ 101 dla studentów pierwszego roku. I faktycznie nie ma zastosowania tutaj. Gdyby obrazy bądź rynki nielegalnych narkotyków były w stanie równowagi, może rzeczywiście istnieć paradoks. Ale tak się nie dzieje, *zwłaszcza* w tych rynkach.
 
 Also, in a state of equilibrium costs perfectly reflect social opportunity costs, and “perfect” competition brings price and cost together so that no one is able to make economic profits. In other words, there is no difference between price and cost. There is, consequently, no reason to in this theory distinguish between them temporally or causally — they appear to be determined instantaneously and accurately. This is also how they are treated in various economics models that students learn to “maximize.”
 
