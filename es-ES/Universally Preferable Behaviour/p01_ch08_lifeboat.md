@@ -1,26 +1,26 @@
-## Lifeboat Scenarios
+## Escenario de Bote salvavidas
 
-The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
+El hecho de que CUP solo valide teorías morales lógicamente consistentes no significa que no pueda haber circunstancias imaginables bajo las cuales podamos optar por actuar * en contra* de los principios de tal teoría.
 
-For instance, if we accept the universal validity of property rights, smashing a window and jumping into someone’s apartment without permission would be a violation of his property rights. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
+Por ejemplo, si aceptamos la validez universal de los derechos de propiedad, romper una ventana y saltar al apartamento de alguien sin permiso sería una violación de sus derechos de propiedad. Sin embargo, si estuviéramos colgando de un asta de bandera fuera de la ventana de un departamento, ya punto de caer en la ruina, pocos de nosotros nos negaríamos a patear la ventana y saltar a la seguridad por obedecer un principio abstracto.
 
-In the real world, it would take a staggeringly callous person to press charges against a man who destroyed a window in order to save his life – just as it would take a staggeringly irresponsible man to refuse to pay restitution for said window. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
+En el mundo real, se necesitaría una persona asombrosamente insensible para presentar cargos contra un hombre que destruyó una ventana para salvar su vida, así como le tomaría a un hombre asombrosamente irresponsable negarse a pagar la restitución de dicha ventana. El principio de "evitabilidad" es fundamental aquí: un hombre colgado de un asta de bandera no tiene muchas opciones para patear una ventana. Un hombre irrumpiendo en su casa para robar cosas claramente tiene la capacidad de evitar invadir su propiedad: no está arrinconado, sino que es el * iniciador * de la agresión. Esto es similar a la diferencia entre la mujer cuyo hombre la engaña, y la mujer cuyo hombre la encierra en el sótano.
 
-This is not to say that breaking the window to save your life is not wrong. It is, but it is a wrong that almost all of us would choose to commit rather than die. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
+Esto no quiere decir que romper la ventana para salvar tu vida no esté mal. Lo es, pero es un error que casi todos nosotros decidamos comprometernos en lugar de morir. Si estuviera a punto de morirme de hambre, robaría una manzana. Esto no significa que sea * correcto * que robe la manzana, solo significa que lo haría, y debo aceptar las consecuencias de mi robo. [^10]
 
-### Grey Areas
+### Zonas Grises
 
-The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+El hecho de que ciertas "áreas grises" existen en el ámbito de la ética a menudo se ha utilizado como una justificación para el relativismo de rango. Dado que en algunas ocasiones algunas cosas no están claras (por ejemplo, quién inició el uso de la violencia), y dado que es imposible definir reglas objetivas y exactas para cada situación concebible, a menudo se llega a la conclusión de que nada * alguna vez * conocido con certeza, y que no existen reglas objetivas para * ninguna * situación.
 
-This is false.
+Esto es falso.
 
-All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
+Todas las personas razonables reconocen que la biología es una ciencia válida, a pesar del hecho de que algunos animales nacen con mutaciones "únicas". El hecho de que un perro pueda nacer con cinco patas no significa que "canino" se convierta en una categoría completamente subjetiva. El hecho de que ciertas especies de insectos sean difíciles de diferenciar no significa que no haya diferencia entre un escarabajo y una ballena.
 
-For some perverse reason, intellectuals in particular take great joy in the wanton destruction of ethical, normative and rational standards. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
+Por alguna razón perversa, los intelectuales en particular se alegran mucho con la destrucción gratuita de normas éticas, normativas y racionales. Esto podría deberse a que los intelectuales tan a menudo han sido pagados por clases corruptas de individuos como políticos, sacerdotes y reyes, o podría ser que un hombre a menudo se convierta en intelectual para crear justificaciones para su propio comportamiento inmoral. Cualquiera sea la razón, la mayoría de los pensadores modernos se han convertido en una especie de "antipensadores", lo cual es muy extraño. Sería equivalente a una enorme clase de "biólogos" que pasaron toda su vida argumentando que la ciencia de la biología era imposible. Si la ciencia de la biología es imposible, apenas tiene sentido convertirse en biólogo, del mismo modo que un ateo no debería pelear con uñas y dientes para convertirse en sacerdote.
 
-### Shades Of Grey
+### Sombras de Grey
 
-In the realm of “grey areas,” there are really only three possibilities.
+En el ámbito de las "áreas grises", en realidad solo hay tres posibilidades.
 
 1. There are no such things as grey areas.
 2. Certain grey areas do exist.
