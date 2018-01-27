@@ -77,9 +77,9 @@ Uma vez que já provámos a validade do comportamento universalmente preferível
 
 Em primeiro lugar, devemos lembrar que a moral é claramente opcional. Todos os seres humanos estão sujeitos à gravidade e necessitam comida para viver, mas nenhum tem de agir moralmente. Se eu estuprar, roubar ou matar, nenhum raio cairá sobre mim. As regras morais, assim como o método científico ou classificações biológicas, são simplesmente, formas de organizar racionalmente factos e princípios relativos à realidade objectiva.
 
-No entanto, o facto de que o cumprimento das regras morais é *opcional*, induziu muitos pensadores a acreditar que a própria moral é *subjectiva*. Nada poderia estar mais longe da verdade.
+No entanto, o facto de que o cumprimento das regras morais seja *opcional*, induziu muitos pensadores a acreditar que a própria moral é *subjectiva*. Nada poderia estar mais longe da verdade.
 
-Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
+Os organismos vivos são parte da realidade material, e a realidade material é racional e objectiva. Aplicar teorias morais é opcional, mas isso não significa que todas as teorias morais sejam subjectivas. O método científico também é opcional, mas não é subjectivo. A aplicação de classificações biológicas é opcional, mas a biologia não é subjectiva. As escolhas são opcionais: as consequências não. Eu posso escolher não comer, mas não posso escolher viver sem comer. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
 
 Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
 
