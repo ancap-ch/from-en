@@ -75,13 +75,13 @@ We could bring many more arguments to support the existence and validity of UPB,
 
 Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+Przede wszystkim musimy pamiętać, że moralność jest oczywiście opcjonalna. Każdy człowiek podlega grawitacji i potrzebuje żywności, aby żyć, ale żaden człowiek nie musi postępować moralnie. Jeśli zgwałcę, ukradnę lub zabije, żaden piorun mnie nie uderzy. Reguły moralne, takie jak metoda naukowa czy klasyfikacja biologiczna, są jedynie sposobami racjonalnego organizowania faktów i zasad w stosunku do obiektywnej rzeczywistości.
 
 The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
 
 Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
 
-Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
+Teraz, skoro moralność jest ważną koncepcją, następne pytanie brzmi: w jakim stopniu lub rozmiarze moralność jest ważna?
 
 As mentioned above, the first test of any scientific theory is *universality*. Just as a theory of physics must apply to *all* matter, a moral theory that claims to describe the preferable actions of mankind *must apply to **all** mankind*. No moral theory can be valid if it argues that a certain action is *right* in Syria, but *wrong* in San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. If it does, it is false and must be refined or discarded.
 
