@@ -52,11 +52,11 @@ Ou:
 1. As opções são quase infinitas.
 2. A maioria dos seres humanos faz escolhas muito semelhantes.
 3. Contudo, nem todas as escolhas podem ser iguais.
-4. Therefore universally preferable choices must be valid.
+4. Portanto, as escolhas universalmente preferíveis devem ser válidas.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+O quinto argumento para a validade do comportamento universalmente preferível é evolutivo.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+Já que qualquer vida orgânica requer de um comportamento preferível para sobreviver, podemos assumir que os organismos que fazem as melhores escolhas, são os mais frequentemente seleccionados para a sobrevivência.
 
 Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
 
