@@ -71,19 +71,19 @@ O:
 
 Podríamos incorporar muchos más argumentos para apoyar la existencia y validez del CUP, pero dejaremos terminar nuestro caso con lo anterior, y movernos a una examinación de la naturaleza del CUP.
 
-#### UPB: Optional And Objective
+#### UPB: opcional y objetivo
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Dado que hemos demostrado la validez de un comportamiento universalmente preferible, la cuestión de la moralidad ahora cambia. Como la moralidad * es * válida, ¿qué teorías pueden cuantificar, clasificar, explicar y predecir?
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+Antes que nada, debemos recordar que la moralidad es claramente opcional. Todo hombre está sujeto a la gravedad y requiere comida para vivir, pero ningún hombre tiene que actuar moralmente. Si violo, robé o mato, ningún rayo me derriba. Las reglas morales, como el método científico o las clasificaciones biológicas, son simplemente formas de organizar racionalmente hechos y principios relativos a la realidad objetiva.
 
-The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
+El hecho de que el cumplimiento de las reglas morales es * opcional *, sin embargo, ha confundido a muchos pensadores al creer que la moralidad misma es * subjetiva *. Nada mas lejos de la verdad.
 
-Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
+Los organismos vivos son parte de la realidad material, y la realidad material es racional y objetiva. Aplicar teorías morales es opcional, pero eso no significa que todas las teorías morales sean subjetivas. El método científico también es opcional, pero no es subjetivo. La aplicación de clasificaciones biológicas es opcional, pero la biología no es subjetiva. Las opciones son opcionales; las consecuencias no son. Puedo elegir no comer, pero no puedo elegir vivir sin comer. Puedo elegir decapitar a alguien, pero no puedo elegir si pueden vivir sin una cabeza o no. La moral es, por lo tanto, opcional, pero los * efectos * de las elecciones morales son medibles y objetivos.
 
-Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
+Ahora, dado que la moralidad es un concepto válido, la siguiente pregunta es: ¿en qué medida o en qué medida es válida la moralidad?
 
-As mentioned above, the first test of any scientific theory is *universality*. Just as a theory of physics must apply to *all* matter, a moral theory that claims to describe the preferable actions of mankind *must apply to **all** mankind*. No moral theory can be valid if it argues that a certain action is *right* in Syria, but *wrong* in San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. If it does, it is false and must be refined or discarded.
+Como se mencionó anteriormente, la primera prueba de cualquier teoría científica es * universalidad *. Así como una teoría de la física debe aplicarse a * todas las * materias, una teoría moral que dice describir las acciones preferibles de la humanidad * debe aplicarse a ** toda la ** humanidad *. Ninguna teoría moral puede ser válida si argumenta que una determinada acción es * correcta * en Siria, pero * incorrecta * en San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. If it does, it is false and must be refined or discarded.
 
 To be valid, any moral theory must also pass the criterion of *logical consistency*. Since the behaviour of matter is logical, consistent and predictable, all theories involving matter – either organic or inorganic – must also be logical, consistent and predictable. The theory of relativity cannot argue that the speed of light is both constant and not constant at the same time, or that it is one hundred eighty-six thousand kilometres per second, five kilometres in depth, and also green in colour.
 
