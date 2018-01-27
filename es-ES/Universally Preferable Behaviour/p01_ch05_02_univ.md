@@ -71,7 +71,7 @@ O:
 
 Podríamos incorporar muchos más argumentos para apoyar la existencia y validez del CUP, pero dejaremos terminar nuestro caso con lo anterior, y movernos a una examinación de la naturaleza del CUP.
 
-#### UPB: opcional y objetivo
+#### CUP: opcional y objetivo
 
 Dado que hemos demostrado la validez de un comportamiento universalmente preferible, la cuestión de la moralidad ahora cambia. Como la moralidad * es * válida, ¿qué teorías pueden cuantificar, clasificar, explicar y predecir?
 
@@ -91,7 +91,7 @@ Sin embargo, dado que las teorías morales se aplican a la humanidad y la humani
 
 La prueba final que cualquier teoría moral debe aprobar es el criterio de la observación empírica. Por ejemplo, una teoría moral debe explicar la prevalencia universal de las creencias morales entre la humanidad, así como los resultados divergentes de "experimentos" morales humanos como el fascismo, el comunismo, el socialismo o el capitalismo. También debe explicar algunos hechos básicos sobre la sociedad humana, como el hecho de que el poder del estado siempre aumenta, o que la propaganda tiende a aumentar a medida que aumenta el poder del estado. Si no puede explicar el pasado, entender el presente y predecir el futuro, entonces debe ser rechazado como inválido.
 
-#### UPB: La Práctica
+#### CUP: La Práctica
 
 ¿Cómo se ve todo esto en la práctica? Veamos cómo el requisito de * universalidad * afecta las teorías morales. Tocaremos aquí pruebas y refutaciones para proposiciones morales específicas, que examinaremos con más detalle en la Parte dos.
 
