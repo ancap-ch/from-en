@@ -74,9 +74,9 @@ Nie mów mi: "Powinieneś zmienić zdanie na moje, ponieważ wolałbym to," ale 
 
 Jeśli się ze mną nie zgadzasz, ale mówię ci, że musisz się ze mną zgodzić, bo mam zawsze rację, jest mało prawdopodobne, że będziesz zadowolony z rygoru mojego argumentu. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+W momencie, w którym przedstawiam jakieś obiektywne kryterium do ustalenia prawdy lub fałszu, akceptuję, że prawda jest czymś więcej niż kwestią opinii.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. Jednak nawet jeśli to zrobię, nadal akceptuję fakt, że prawda jest czymś, co zostało osiągnięte niezależnie od zwykłego osobistego stwierdzenia - że istnieje obiektywna metodologia oddzielania prawdy od fałszu.
 
 #### Premise 6: Truth Is Better Than Falsehood
 
