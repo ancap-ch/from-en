@@ -80,11 +80,11 @@ La religión es también otra "media verdad" - una de las más peligrosas. Es ve
 
 Así como algunos parásitos no pueden echar raíces hasta que desalojan a los parásitos anteriores, las "medias verdades" solo atacan a las ilusiones previas *para que puedan tomar su lugar*. Aquellos que son escépticos ante las fantasías anteriores son atraídos hacia la nueva fantasía. En consecuencia, el Cristianismo desplaza al paganismo, el Marxismo al Cristianismo, el postmodernismo desplaza al Marxismo, la democracia a la aristocracia y así sucesivamente.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+Hasta que las grandes verdades se alcancen y se unan con las pequeñas verdades, las "medias verdades" son solo una falange giratoria de explotadoras y destructivas falsedades - específicamente diseñadas para evitar el éxito de las grandes verdades.
 
-And the great truths are always achieved from the little truths.
+Y las grandes verdades son siempre alcanzadas mediante las pequeñas verdades.
 
-The world falls because a rock falls.
+El mundo cae porque una roca cae.
 
 ### "Middle Truths" And Exploitation
 
