@@ -68,11 +68,11 @@ Similar to Premise Two, since all arguments require language, any proposition th
 
 If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+Nie mów mi: "Powinieneś zmienić zdanie na moje, ponieważ wolałbym to," ale raczej: "Powinieneś poprawić swoją opinię, ponieważ jest obiektywnie niepoprawna." Mój błąd nie wynika jedynie z niezgadzania się z tobą, ale z powodu mojej dewiacji z obiektywnego standardu prawdy. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
 
 #### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Jeśli się ze mną nie zgadzasz, ale mówię ci, że musisz się ze mną zgodzić, bo mam zawsze rację, jest mało prawdopodobne, że będziesz zadowolony z rygoru mojego argumentu. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
 
 The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
 
