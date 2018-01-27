@@ -6,13 +6,13 @@ Poniżej znajdziesz podsumowanie głównego argumentu moralności.
 
 1. Rzeczywistość jest obiektywna i spójna.
 2. "Logika" to zbiór obiektywnych i spójnych zasad wynikających z spójności rzeczywistości.
-3. Those theories that conform to logic are called “valid.”
+3. Te teorie, które są zgodne z logiką, są nazywane "poprawnymi."
 4. Teorie które są potwierdzone przez empiryczne testowanie są nazywane "dokładnymi"
-5. Those theories that are both valid and accurate are called “true.”
+5. Teorie, które są zarówno prawidłowe, jak i dokładne, nazywane są "prawdziwymi."
 6. "Upodobania" są wymagane przez życie, myślenie, język i debatowanie.
-7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
+7. Debata wymaga, aby obie strony utrzymywały "prawdę" jako obiektywną i uniwersalną.
 8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
-9. Theories regarding UPB must pass the tests of logical consistency and empirical verification.
+9. Teorie dotyczące ZPB muszą przejść testy logicznej spójności i empirycznej weryfikacji.
 10. The subset of UPB that examines enforceable behaviour is called “morality.”
 11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
 12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
