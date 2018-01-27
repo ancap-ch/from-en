@@ -1,4 +1,4 @@
-There are limitations to the standard economic model of supply and demand curves intersecting to reveal the optimal or equilibrium price and quantity of a good. Those limitations, as Austrians are well aware, are due to unrealistic assumptions. But noting that the assumptions are out of this world is not enough, especially if the models are used to explain a world that does not match the assumptions. The application of the simplified models, which indeed reveal important facts about how the economy works, tend to lead many economists astray.
+Istnieją ograniczenia do standardowego modelu ekonomicznego krzywych popytu i podaży, przecinających się, aby ujawnić równowagę ceny i ilości produktu. Te ograniczenia, jak Austryjacy są w pełni świadomi, są ze względu na nierealistyczne założenia. But noting that the assumptions are out of this world is not enough, especially if the models are used to explain a world that does not match the assumptions. The application of the simplified models, which indeed reveal important facts about how the economy works, tend to lead many economists astray.
 
 # Zwiększenie Kosztów Produkcji Nie Zwiększa Cen 
 
@@ -28,6 +28,6 @@ W przykładzie Wainwrighta, kilogram kokainy, o wartości rynkowej 100,000$ sprz
 
 This is easy to see if we adopt the Austrian view that pricing of production goods is done “backward” through entrepreneurial bidding aiming for anticipated consumer prices. But using the supply-and-demand schedule for equilibrium prices can produce a fundamentally flawed analysis — even by those who recognize that the assumptions are unrealistic (which Roberts naturally does).
 
-This is not to say that the prices within the cocaine supply chain are not some form of equilibrium prices. The assumption of partial equilibrium is not what makes the analysis flawed. The error lies in failing to recognize that cost (that is, the existence and shape of supply) is a function of the anticipated price (demand) of the final good.
+Nie można powiedzieć, że ceny w obrębie łańcucha dostawy kokainy nie są jakąś formą stanu równowagi cen. The assumption of partial equilibrium is not what makes the analysis flawed. The error lies in failing to recognize that cost (that is, the existence and shape of supply) is a function of the anticipated price (demand) of the final good.
 
 From this follows that changes in factor prices are not necessarily reflected in prices of consumer goods, especially in the short term. Rather, they will be reflected in the profit margins of producers, and can thus cause them to change their behavior.
