@@ -1,8 +1,8 @@
-## UPB: ¿ética o estética?
+## CUP: ¿ética o estética?
 
 En general, utilizaremos el término * estética * para referirnos a las preferencias no exigibles, universales o personales, mientras que * ética * o * moralidad * se referirán a ejecutables preferencias. Es * universalmente preferible * (es decir, obligatorio) utilizar el método científico para validar las teorías físicas, pero no podemos usar la fuerza para * infligir * el método científico a quienes no lo usan, ya que * no usar el método científico no es una acción violenta *. Las acciones no violentas por su propia naturaleza son * evitables *. Si un físico deja de usar el método científico, sino que comienza a consultar las cartas del tarot, no está infligiendo violentamente su elección sobre mí, y puedo evitarlo. Un violador, por otro lado, está infligiendo violentamente sus preferencias sobre su víctima.
 
-Aunque primero nos centramos en UPB en el ámbito de la ética, UPB ahora se puede ver como un "término general" que incluye disciplinas tales como:
+Aunque primero nos centramos en CUP en el ámbito de la ética, CUP ahora se puede ver como un "término general" que incluye disciplinas tales como:
 
 - El método científico
 - Lógica
@@ -83,6 +83,6 @@ Claramente, esta cuestión de evasión es central para nuestra evaluación moral
 
 Hay un fenómeno conocido como "muerte por el policía", en el que las personas suicidas provocan un altercado con la policía y luego pretenden buscar un arma para recibir un disparo. Este es un ejemplo extremo de perseguir situaciones donde la "victimización" está casi garantizada. Esto también puede ocurrir en situaciones domésticas, en las que una esposa atacará verbalmente a un marido ebrio, sabiendo perfectamente que el alcohol inflama su temperamento violento. En estas situaciones, podemos sentir simpatía por el hombre al que se le robó la billetera en el parque, o por la mujer que es atacada en la fiesta de la fraternidad, o la esposa que es golpeada por su esposo, pero al mismo tiempo, tendríamos algunas preguntas importantes con respecto a su papel o complicidad en los errores que han sufrido. Para ser justos, debemos diferenciar entre un hombre cuya billetera es robada a punta de pistola, y un hombre que deja su billetera en un lugar público. Ambos hombres han tenido sus billeteras robadas, sin duda, pero no parece razonable hacerles rendir cuentas por igual.
 
-¿Puede el marco UPB ayudarnos a entender, clasificar y extender estos estándares morales?
+¿Puede el marco CUP ayudarnos a entender, clasificar y extender estos estándares morales?
 
 [^9]: Tenga en cuenta que los siguientes ejemplos no son pruebas, sino situaciones que una teoría ética válida debería poder abarcar y explicar. Llegaremos a las pruebas reales en breve.
