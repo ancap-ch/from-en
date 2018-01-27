@@ -73,9 +73,9 @@ Poderíamos trazer muitos outros argumentos para apoiar a existência e validade
 
 #### CUP: Opcional E Objectivo
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Uma vez que já provámos a validade do comportamento universalmente preferível, a questão da moral agora muda. Como a moral *é* válida, que teorias as podem quantificar, classificar, explicar e prever?
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+Em primeiro lugar, devemos lembrar que a moral é claramente opcional. Todos os seres humanos estão sujeitos à gravidade e necessitam comida para viver, mas nenhum tem de agir moralmente. Se eu estuprar, roubar ou matar, nenhum raio cairá sobre mim. As regras morais, assim como o método científico ou classificações biológicas, são simplesmente, formas de organizar racionalmente factos e princípios relativos à realidade objectiva.
 
 The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
 
