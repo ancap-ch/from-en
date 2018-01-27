@@ -1,22 +1,22 @@
-## Parallels
+## Paralelas
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Antes de la Revolución Científica, se consideraba inconcebible que el mundo natural pudiera sustentarse a sí mismo sin una entidad consciente y "moral" en su centro. El sol se levantó arrastrando las cadenas de un carro sobrenatural; la luna era un frío y solitario hermano del sol. Las constelaciones delinearon los cuentos y las tumbas de los dioses, y las tormentas se derivaron de la ira de los demonios.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+La idea de que la naturaleza era un sistema autogenerado y autosostenible era casi inimaginable. La revolución Darwiniana, la idea de que la vida no se creó, sino que evolucionó, llevó esta idea del mundo material al biológico.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Antes de la ciencia, en el centro de cada sistema complejo yacía una conciencia virtuosa, sin la cual este sistema volaría al caos y dejaría de existir.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Desafortunadamente, esta "conciencia virtuosa" no era más que una ilusión, para decirlo de manera más caritativa. No existían tales dioses; todo lo que * existió * fueron los pronunciamientos de los sacerdotes. Por lo tanto, lo que realmente estaba en el centro era la parcialidad de los individuos irracionales, que no tenían idea de lo enojados que realmente estaban.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+Todavía tenemos que aplicar esta misma iluminación a nuestras concepciones de la sociedad, pero ahora es * esencial * que lo hagamos.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+Consideramos esencial que, en el centro de la sociedad, coloquemos una entidad virtuosa llamada "el gobierno". En ausencia de esta entidad, consideramos axiomático que la sociedad volará hacia el caos y dejará de ser, así como nuestros antepasados consideró que, en ausencia de dioses, el universo mismo volaría hacia el caos y dejaría de existir.
 
-However, “the government” no more exists than “god” exists.
+Sin embargo, "el gobierno" no existe más que "dios" existe.
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+Cuando hablamos de "dioses", realmente estamos hablando de "las opiniones de los sacerdotes"
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+Cuando hablamos de "el gobierno", * realmente * significa "la violencia de una pequeña minoría"
 
 The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
 
