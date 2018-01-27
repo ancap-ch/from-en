@@ -36,13 +36,13 @@ Es de esta manera que entendemos que la proposición "comer * pescado * es malo"
 
 No tenemos tiempo para entrar en una discusión completa sobre la cuestión de los derechos de los animales, pero al menos podemos tratar con la proposición moral: "es malo matar peces"
 
-Si es malo matar peces, entonces UPB dice que cualquiera o cualquier cosa que mata a los peces es malvada. Esto incluiría no solo a los pescadores, sino también a los tiburones, ya que si matar peces es malo, hemos ampliado nuestra definición de "actores" éticos para incluir la vida no humana.
+Si es malo matar peces, entonces CUP dice que cualquiera o cualquier cosa que mata a los peces es malvada. Esto incluiría no solo a los pescadores, sino también a los tiburones, ya que si matar peces es malo, hemos ampliado nuestra definición de "actores" éticos para incluir la vida no humana.
 
 Está claro que los tiburones no tienen la capacidad de evitar matar peces, ya que básicamente están comiendo máquinas con aletas.
 
 Así terminamos con el problema lógico del "mal inevitable". Si es malo matar peces, pero los tiburones no pueden evitar matar peces, entonces los tiburones son "inevitablemente malvados". Sin embargo, como hemos discutido anteriormente, donde no hay otra opción - donde * evitabilidad * es imposible - no puede haber moralidad. Así, la proposición "es malo matar peces" intenta definir una moralidad universal que incluye situaciones no morales, que no pueden sostenerse lógicamente.
 
-Además, la palabra "pez" sigue siendo problemática en la formulación, ya que es demasiado específica para ser universal. La reformulación correcta de UPB es: "es malo que las personas maten organismos vivos"
+Además, la palabra "pez" sigue siendo problemática en la formulación, ya que es demasiado específica para ser universal. La reformulación correcta de CUP es: "es malo que las personas maten organismos vivos"
 
 Sin embargo, si es malo matar, otra vez enfrentamos el problema del "mal inevitable". Ningún ser humano puede existir sin matar a otros organismos como virus, plantas o quizás animales. Por lo tanto, la "vida humana" se define como "maldad". Pero si la vida humana se define como maldad, entonces no puede * ser * malvada, ya que la evasión se vuelve imposible.
 
@@ -52,7 +52,7 @@ No, una vez más, dado que los tiburones no tienen la capacidad de evitar matar 
 
 UPB permite excepciones basadas en diferencias materiales o biológicas objetivas y universales, tal como lo hacen otras ciencias. La teoría científica de que los gases se expanden cuando se calienta se aplica, por supuesto, solo a los gases. No puedo invalidar la teoría demostrando que no se aplica a, por ejemplo, plástico.
 
-De la misma manera, la moralidad solo se aplica a la conciencia racional, debido al requisito de evitabilidad. Si intento aplicar una teoría moral a un caracol, un árbol, una roca o el concepto de "números", estoy tratando de equiparar la conciencia racional con entidades que pueden no ser ni racionales ni conscientes, lo cual es una contradicción lógica. También podría decir que el Teorema del ángulo opuesto en geometría no es válido porque no se aplica a un círculo o una nube. El OAT solo se aplica a las líneas que se intersectan. Intentar aplicarlo a otras situaciones es el equivalente conceptual de intentar pintar aire.
+De la misma manera, la moralidad solo se aplica a la conciencia racional, debido al requisito de evitabilidad. Si intento aplicar una teoría moral a un caracol, un árbol, una roca o el concepto de "números", estoy tratando de equiparar la conciencia racional con entidades que pueden no ser ni racionales ni conscientes, lo cual es una contradicción lógica. También podría decir que el Teorema del ángulo opuesto en geometría no es válido porque no se aplica a un círculo o una nube. El TAO solo se aplica a las líneas que se intersectan. Intentar aplicarlo a otras situaciones es el equivalente conceptual de intentar pintar aire.
 
 En otras palabras, la aplicación incorrecta no es refutada.
 
