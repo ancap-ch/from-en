@@ -12,11 +12,11 @@ If I accept the validity of mathematical laws, I cannot arbitrarily reject a mat
 
 The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
 
-### Objective Truth
+### Obiektywna prawda
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+Głównym wyzwaniem w zrozumieniu natury prawdy jest uświadomienie sobie, że "prawda" nie istnieje w świecie w ten sam sposób, jak kamień lub drzewo.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+Pojęcie "prawda" jest koniecznie pojęciem względnym - choć nie oznacza to subiektywnego lub arbitralnego terminu. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
 
 This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
 
