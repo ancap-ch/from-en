@@ -58,18 +58,18 @@ El quinto argumento para la validez del comportamiento universalmente preferible
 
 Ya que toda la vida orgánica requiere de comportamiento preferencial para sobrevivir, podemos asumir que aquellos organismos que tomas las decisiones más exitosas son los que más a menudo son seleccionados para la supervivencia.
 
-Dado que el hombre es la especie más exitosa, y el órgano más distintivo del hombre es su cerebro, debe ser el *cerebro* humano el que lo ha ayudado más en tomar decisiones exitosas. La mente misma, entonces, ha sido seleccionada como exitosa por su propia habilidad de tomar decisiones exitosas. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+Dado que el hombre es la especie más exitosa, y el órgano más distintivo del hombre es su cerebro, debe ser el *cerebro* humano el que lo ha ayudado más en tomar decisiones exitosas. La mente misma, entonces, ha sido seleccionada como exitosa por su propia habilidad de tomar decisiones exitosas. Dado que la mente humana existe solo como *resultado* de escoger comportamientos universalmente preferibles, el comportamiento universalmente preferible debe ser un concepto válido.
 
-Or:
+O:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+1. Los organismos tienen éxito al actuar en base al comportamiento universalmente preferible.
+2. El hombre es el organismo más exitoso.
+3. Por lo tanto el hombre debe haber actuado más exitosamente con base en el comportamiento universalmente preferible.
+4. El cerebro humano es el órgano más distinto del hombre.
+5. Por lo tanto, la mente humana debe haber actuado más exitosamente con base en el comportamiento universalmente preferible.
+6. Por lo tanto el comportamiento universalmente preferible debe ser válido.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+Podríamos incorporar muchos más argumentos para apoyar la existencia y validez del CUP, pero dejaremos terminar nuestro caso con lo anterior, y movernos a una examinación de la naturaleza del CUP.
 
 #### UPB: Optional And Objective
 
