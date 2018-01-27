@@ -86,9 +86,9 @@ Y las grandes verdades son siempre alcanzadas mediante las pequeñas verdades.
 
 El mundo cae porque una roca cae.
 
-### "Middle Truths" And Exploitation
+### Las "Medias Verdades" y la Explotación
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+Biológicamente, el parasitismo es un estrategia totalmente válida de supervivencia para muchas criaturas. En la ausencia de normas éticas, robar energía y recursos a otras criaturas es perfectamente razonable. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
 
 However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
 
