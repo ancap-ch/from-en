@@ -38,9 +38,9 @@ The same is true in the realm of morality.
 
 ### The Casualties
 
-Crossing this “null zone” is fraught with peril. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+Crossing this “null zone” is fraught with peril. Droga od małych prawd do wielkich prawd jest wyłożona kośćmi milionów. Od śmierci Sokratesa do tortur wczesnych naukowców przez fanatyków religijnych, do milionów, które zamordowali i umarły za czarne fantazje faszyzmu i komunizmu, każde zbliżenie się wiedzy ludzkiej do "strefy zero" jest wypełnione znacznym niebezpieczeństwem.
 
-Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
+Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? Jest to ogromne wzywanie, aby zjednoczyć percepcyjne z koncepcyjnym w prostej linii logicznego rozumowania - ale czy ten proces*musi* trwać przez tysiące lat oceanów pełnych krwi?
 
 If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
 
