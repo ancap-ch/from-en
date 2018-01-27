@@ -148,9 +148,9 @@ Nos dicen que "queremos" que Bob se lleve nuestro dinero, lo cual contradice por
 
 "¡No es ese tipo de contrato! Es un contrato * social *... Y además, de acuerdo con ese contrato social, soy dueño de toda la calle de todos modos, ¡todo el maldito vecindario de hecho! Cualquiera que se niegue a pagarme mi dinero puede mudarse a otra parte. ¡No estoy forzando a nadie
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
+"¿Y cómo sabes que eres dueño de todo el vecindario? ¿Tienes documentos de propiedad?"
 
-“Yes, of course – have a look here!”
+"Sí, por supuesto, ¡mira aquí!"
 
 “Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
 
