@@ -38,23 +38,23 @@ Or:
 
 1. Aby teoria naukowa była ważna, musi być poparta obserwacją empiryczną.
 2. Jeśli pojęcie "powszechnie preferowanego zachowania" jest ważne, ludzkość powinna wierzyć w powszechnie preferowane zachowanie.
-3. All men believe in universally preferable behaviour.
+3. Wszyscy ludzie wierzą w powszechnie preferowane zachowanie.
 4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
 
 The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+Na przykład, jeśli jedzenie jest dostępne, prawie wszyscy ludzie wolą jeść codziennie. Gdy jest zimno, prawie wszyscy ludzie szukają ciepła. Prawie wszyscy rodzice wybierają karmienie, schronienie i edukowanie swoich dzieci. Istnieje wiele przykładów powszechnych wyborów wśród ludzkości, które wskazują, że powszechnie preferowane zachowanie obfituje i jest częścią ludzkiej natury.
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+Jak wspomniano powyżej, żadna ważna teoria fizyki nie może odrzucić prostego faktu, że dzieci mogą łapać muchy - w ten sam sposób żadna prawidłowa teoria etyki nie może odrzucić niekończących się dowodów na akceptację UPB.
 
-Or:
+Lub:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1. Możliwości są niemal nieskończone.
+2. Większość ludzi dokonuje bardzo podobnych wyborów.
+3. W związku z tym nie wszystkie opcje mogą być równe.
+4. Dlatego też powszechnie preferowane wybory muszą być prawidłowe.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+Piąty argument dotyczący ważności powszechnie preferowanego zachowania jest ewolucyjny.
 
 Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
 
