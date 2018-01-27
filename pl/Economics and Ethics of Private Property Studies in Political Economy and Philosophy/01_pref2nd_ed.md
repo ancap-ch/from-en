@@ -1,4 +1,4 @@
-## Przedmowa Do Drugiego Wydaniaa
+## Przedmowa Do Drugiego Wydania
 
 Pierwsze wydanie *Ekonomii i Etyki Własności Prywatnej*, zostało opublikowane w 1993 roku i nie było drukowane przez kilka lat. Od jakiegoś czasu i z wielu stron zalecano mi przygotowanie nowego wydania, Llewellyn Rock łaskawie zaproponował instytut Ludwig von Mises jako wydawce.
 
