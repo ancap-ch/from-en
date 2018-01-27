@@ -65,13 +65,13 @@ Ou:
 1. Os organismos conseguem agir de acordo com um comportamento universalmente preferível.
 2. O Homem é o organismo mais bem sucedido.
 3. Portanto, o Homem deve ter actuado com mais sucesso, com base num comportamento universalmente preferível.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+4. A mente do homem é o seu órgão mais distintivo.
+5. Portanto, a mente do Homem deve ter actuado com maior sucesso, em relação a um comportamento universalmente preferível.
+6. Sendo assim, o comportamento universalmente preferível deve ser válido.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+Poderíamos trazer muitos outros argumentos para apoiar a existência e validade do CUP, mas devemos resgatar o caso com o exposto acima e passar a um exame da natureza do CUP.
 
-#### UPB: Optional And Objective
+#### CUP: Opcional E Objectivo
 
 Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
 
