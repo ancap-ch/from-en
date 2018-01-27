@@ -1,6 +1,6 @@
 There are limitations to the standard economic model of supply and demand curves intersecting to reveal the optimal or equilibrium price and quantity of a good. Those limitations, as Austrians are well aware, are due to unrealistic assumptions. But noting that the assumptions are out of this world is not enough, especially if the models are used to explain a world that does not match the assumptions. The application of the simplified models, which indeed reveal important facts about how the economy works, tend to lead many economists astray.
 
-# Increasing Costs to Producers Does Not Increase Prices 
+# Zwiększenie Kosztów Produkcji Nie Zwiększa Cen 
 
 A [recent EconTalk episode](http://www.econtalk.org/archives/2017/02/tom*wainwright.html), in which the host Russ Roberts interviews journalist and author Tom Wainwright of the *Economist* on his recent book *[Narconomics](https://www.amazon.com/Narconomics-How-Run-Drug-Cartel/dp/1610395832/?tag=misesinsti-20)*, illustrates how simple Econ 101 logic can be misleading. While the episode is well worth listening to and the discussion is both interesting and informative, a significant portion in the beginning is dedicated to discussing the issue of the price of illegal drugs. Noting an apparent “paradox” and the author’s “fantastic” argument, Roberts and Wainwright embark on and get stuck in a discussion that is fundamentally flawed and therefore may delude listeners.
 
@@ -12,7 +12,7 @@ The problem with the argument is that it relies on the simple equilibrium analys
 
 Also, in a state of equilibrium costs perfectly reflect social opportunity costs, and “perfect” competition brings price and cost together so that no one is able to make economic profits. In other words, there is no difference between price and cost. There is, consequently, no reason to in this theory distinguish between them temporally or causally — they appear to be determined instantaneously and accurately. This is also how they are treated in various economics models that students learn to “maximize.”
 
-# Price Drives Cost  — Not the Other Way Around
+# Cena Napędza Koszt   Nie Na Odwrót
 
 As we know, however, the real market process is driven by *entrepreneurship* and market actors are not just responsive agents. Entrepreneurs do not live in equilibrium, and they base their business decisions on their own appraisal of the different actions and their imagined outcomes. In this real market, price drives cost  — not the other way around. Indeed, Carl Menger noted that the value of any production good is derived from consumers’ valuation of the consumption goods that it produces, not the other way around. This is also core to for example Mises’s argument about economic calculation.
 
