@@ -1,28 +1,28 @@
-## Additional Proofs
+## Pruebas Adicionales
 
-There are other additional proofs that we can bring to bear on the question of universally preferable behaviour.
+Hay otras pruebas adicionales que podemos aplicar a la cuestión del comportamiento universalmente preferible.
 
-### The Free-Market Economy
+### La economía de libre mercado
 
-A free-market economy is without a doubt the most efficient and wealth-producing method of organising the production and consumption of goods and resources within society. Its material success is without equal in human history, or across the world.
+Una economía de libre mercado es sin duda el método más eficiente y generador de riqueza para organizar la producción y el consumo de bienes y recursos dentro de la sociedad. Su éxito material no tiene igual en la historia humana o en todo el mundo.
 
-The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
+El marco de CUP anticipa, valida y explica las razones de los éxitos materiales de una economía de libre mercado.
 
-In theory, a free-market economy is based on the application of a universal theory of property rights. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+En teoría, una economía de libre mercado se basa en la aplicación de una teoría universal de los derechos de propiedad. Por el contrario, el comunismo se basa en el rechazo explícito de una teoría universal de los derechos de propiedad. Como hemos demostrado anteriormente que los derechos de propiedad universales son la única teoría moral válida, esto explica en el nivel más fundamental por qué el comunismo es un desastre, mientras que una economía de libre mercado es tan materialmente productiva.
 
-Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
+Dado que los seres humanos * de hecho * tienen los mismos derechos de propiedad, cualquier sistema social que rechace este derecho está condenado a fracasar por completo, del mismo modo que cualquier planificador de puentes que rechace la realidad de la gravedad nunca podrá construir un puente que se levanta.
 
-### The Scientific Method
+### El método científico
 
-Logic and science are in fact methodologies which exist – along with morality – under the umbrella of UPB. In other words, logic and science are both validated by the framework of UPB.
+La lógica y la ciencia son, de hecho, metodologías que existen, junto con la moralidad, bajo el paraguas de CUP. En otras palabras, la lógica y la ciencia están ambas validadas por el marco de CUP.
 
-A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
+Una pregunta central que necesita ser respondida es: * ¿por qué el método científico es infinitamente superior a otras "metodologías" de adquisición de conocimiento, como el misticismo? *
 
-UPB answers this question.
+CUP responde esta pregunta.
 
-Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
+Dado que cualquier metodología para la adquisición de conocimiento debe ser universal, consistente e independiente de tiempo y lugar, el método científico cumple con estos requisitos, mientras que el misticismo irracional y subjetivo es exactamente lo contrario de estos requisitos.
 
-### Public Education
+### Educación Publica
 
 One central principle of free market economics is that quality only really results from *voluntarism*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
 
