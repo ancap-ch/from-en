@@ -67,13 +67,13 @@ Esta situación, aunque interesante teóricamente, se descompone lógicamente po
 2. No hay forma de garantizar que solo las personas buenas dirijan siempre el gobierno; y,
 3. No hay absolutamente ningún ejemplo de que esto haya ocurrido en ninguno de los anales brutales de la historia del estado.
 
-El error lógico que siempre se comete en la defensa del gobierno es imaginar que cualquier juicio moral colectivo que se aplique a un grupo de personas * tampoco se aplique al grupo que las gobierna *. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
+El error lógico que siempre se comete en la defensa del gobierno es imaginar que cualquier juicio moral colectivo que se aplique a un grupo de personas * tampoco se aplique al grupo que las gobierna *. Si el cincuenta por ciento de las personas son malvadas, entonces * al menos * el cincuenta por ciento de las personas que las dominan también son malvadas. [^9] Por lo tanto, la existencia del mal nunca puede justificar la existencia de un gobierno.
 
-If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
+Si no hay maldad, los gobiernos son innecesarios. Si existe el mal, los gobiernos son demasiado peligrosos para que se les permita existir.
 
-Why is this error so prevalent?
+¿Por qué este error es tan frecuente?
 
-There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+Hay una serie de razones, que solo se pueden tocar aquí. El primero es que el gobierno se presenta a los niños en la forma de maestros de escuelas públicas que se consideran autoridades morales. Así, la * moralidad * y * autoridad * se asociaron primero con el gobierno, una asociación que luego se refuerza a través de años de repetición.
 
 The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
 
