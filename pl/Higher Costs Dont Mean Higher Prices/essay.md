@@ -10,7 +10,7 @@ Ten przykład ilustruje paradoks tego, co dzieje się w nielegalnym "biznesie" n
 
 Problem z tym argumentem jest taki, że polega on na zrównoważonej analizie modelu popytu-i-podażu używanej w kursach Econ 101 dla studentów pierwszego roku. I faktycznie nie ma zastosowania tutaj. Gdyby obrazy bądź rynki nielegalnych narkotyków były w stanie równowagi, może rzeczywiście istnieć paradoks. Ale tak się nie dzieje, *zwłaszcza* w tych rynkach.
 
-Również, w stanie równowagi koszty doskonale odzwierciedlają koszty społecznych możliwości, a "perfekcyjna" konkurencja łączy cenę i koszty tak, że nikt nie jest w stanie osiągnąć zysków ekonomicznych. In other words, there is no difference between price and cost. There is, consequently, no reason to in this theory distinguish between them temporally or causally — they appear to be determined instantaneously and accurately. This is also how they are treated in various economics models that students learn to “maximize.”
+Również, w stanie równowagi koszty doskonale odzwierciedlają koszty społecznych możliwości, a "perfekcyjna" konkurencja łączy cenę i koszty tak, że nikt nie jest w stanie osiągnąć zysków ekonomicznych. Innymi słowy, nie ma różnicy pomiędzy ceną a kosztami. There is, consequently, no reason to in this theory distinguish between them temporally or causally — they appear to be determined instantaneously and accurately. This is also how they are treated in various economics models that students learn to “maximize.”
 
 # Cena Napędza Koszt   Nie Na Odwrót
 
@@ -20,7 +20,7 @@ Oznacza to, że przedsiębiorcy zakładają koszt (*wybrany*, mimo) w oparciu o 
 
 W niedoskonałych rynkach oznacza to, że mogą wystąpić wysokie podwyżki które oferują przedsiębiorcom ogromne zyski. But this is also what lures other entrepreneurs to enter this particular market, so where there are no significant barriers to entry profits will tend to get squeezed until they reach the standard market rate of return. In this process, costs are pushed down but consumer good prices even more so, thereby making consumers the ultimate winners of this process.
 
-So it is not in any sense a paradox that the market price of a box of paint has very little to do with the final price of the painting. The box of paint is traded in the market at a price that partly is derived from the anticipated value of paintings. Podobnie, liście koki, które ostatecznie skończą w nozdrzu na Wall Street *są cenione ponieważ gotowy produkt jest ceniony.*
+So it is not in any sense a paradox that the market price of a box of paint has very little to do with the final price of the painting. Pudełko farb jest przedmiotem obrotu na rynku po cenie, która częściowo wywodzi się z przewidywalnej wartości obrazów. Podobnie, liście koki, które ostatecznie skończą w nozdrzu na Wall Street *są cenione ponieważ gotowy produkt jest ceniony.*
 
 Jeśli rząd spali połowę tych pól, nie doprowadzi to do podwojenia ceny gotowego produktu. Zamiast tego, zwiększy to koszty, które muszą zostać pokryte przez producentów, aby dostarczyć gotowy produkt do rynku konsumenckiego. Marże są ogromne w nielegalnej produkcji i dystrybucji narkotyków, głównie jest to wynikiem represji rządu, producenci nie zastanawiają się dwa razy, aby kontynuować, tak jak poprzednio, bez zmiany cen: powoduje to tylko niewielki spadek dochodów.
 
