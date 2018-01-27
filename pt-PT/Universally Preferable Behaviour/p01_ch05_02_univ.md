@@ -36,12 +36,12 @@ Qualquer ser humano saudável acredita em regras morais de algum tipo. Existe al
 
 Ou:
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+1. Para que uma teoria científica seja válida, deve ser apoiada por observações empíricas.
+2. Se o conceito de "comportamento universalmente preferível" for válido, então a humanidade deve acreditar em comportamentos universalmente preferíveis.
+3. Todos os Homens acreditam em comportamentos universalmente preferíveis.
+4. Portanto, existem evidências empíricas para apoiar a validade de um comportamento universalmente preferível - e a existência de tais evidências *opõe-se* à tese de que o comportamento universalmente preferível não é válido.
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+O quarto argumento para a validade do comportamento universalmente preferível também é empírico. Uma vez que os seres humanos têm um número quase infinito de escolhas para fazer na vida, dizer que não há princípios de comportamento universalmente preferíveis, seria como dizer que todas as escolhas são iguais (ou seja, subjectivas). However, all choices are *not* equal, either logically or through empirical observation.
 
 For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
 
