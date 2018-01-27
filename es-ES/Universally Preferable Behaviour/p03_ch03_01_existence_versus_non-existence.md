@@ -120,23 +120,23 @@ Claramente, cuando Bob se despierta por la mañana, antes de su turno, no puede 
 
 Cuando Bob desayuna, tampoco puede atacar a su vecino y llevarse su dinero. En su camino hacia el trabajo, aunque se haya puesto su uniforme, todavía no ha entrado en el mercado y, por lo tanto, no tiene más derechos que ningún otro ciudadano. Sin embargo, cuando interviene, como si descendiera un pilar de fuego amoral de los mismos cielos, gana la asombrosa habilidad de atacar moralmente a sus vecinos y tomar su dinero.
 
-Extrañamente, esta es la única característica suya que se ha invertido por completo. El no puede volar, no puede cambiar su forma, no puede digerir con éxito los cojinetes de bolas o vivir en un infierno; no puede correr mil kilómetros por hora, y tampoco puede atravesar una pared de ladrillos. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
+Extrañamente, esta es la única característica suya que se ha invertido por completo. El no puede volar, no puede cambiar su forma, no puede digerir con éxito los cojinetes de bolas o vivir en un infierno; no puede correr mil kilómetros por hora, y tampoco puede atravesar una pared de ladrillos. Él es absolutamente, total y completamente * el mismo hombre que era ** antes ** de haber sido golpeado *; sin embargo, ahora, está sujeto a reglas morales completamente opuestas.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Aún más extraño, si no soy un "policía", pero sigo a Bob para trabajar, y hago exactamente lo que hace: me pongo un uniforme, entro en la estación de policía y pongo un cartón en un reloj de pulsera - ¿Por qué? Si hago exactamente lo que hace Bob, estoy completa y totalmente inmoral, aunque las acciones idénticas de Bob son completa y totalmente * morales *.
 
-What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
+¿Qué sentido tiene esto? ¿Cómo podemos desentrañar este misterio impenetrable?
 
-The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+El simple hecho es que * no se puede * desenredar, porque está completamente desquiciado. El hecho de que esta locura moral del "mundo opuesto" sea completamente irracional, por no mencionar violentamente explotadora, es tan obvia que debe ser enterrada en una interminable cabalgata de "voluntarismo" mitológico
 
-We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
+Nos dicen que "queremos" que Bob se lleve nuestro dinero, lo cual contradice por completo el hecho de que Bob aparece en la puerta de nuestra casa y apunta con una pistola cargada en nuestra cara. Según esta lógica, también puedo ir y venir por la calle robando dinero a mis vecinos, y luego declarar que estoy completamente conmocionado cuando soy arrestado:
 
-“They *want* me to take their money!”
+"Ellos * quieren * que tome su dinero"
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+"Pero entonces, ¿por qué amenazaste con dispararles si no te daban su dinero?"
 
-“Because they *owe* me their money!”
+"¡Porque ellos me * deben* su dinero!"
 
-“I thought you said that they want to give you their money.”
+"Pensé que habías dicho que querían darte su dinero"
 
 “No, no – they owe me. It’s really *my* money!”
 
