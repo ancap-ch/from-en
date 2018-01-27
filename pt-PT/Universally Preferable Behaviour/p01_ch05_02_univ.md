@@ -22,10 +22,10 @@ Por exemplo, toda a matéria está sujeita a regras físicas - e tudo o que vive
 
 Portanto, é impossível que alguém possa argumentar, logicamente, contra um comportamento universalmente preferível, pois, se está vivo para argumentar, deve ter seguido comportamentos universalmente preferíveis, como respirar, comer e beber.
 
-Syllogistically, this is:
+Silogisticamente, são:
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
+1. Todos os organismos requerem de um comportamento universalmente preferido para poder viver.
+2. O homem é um organismo vivo.
 3. Therefore all living men are alive due to the practice of universally preferred behaviour.
 4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
 5. Therefore no argument against the existence of universally preferable behaviour can be valid.
