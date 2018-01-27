@@ -25,10 +25,10 @@ Portanto, é impossível que alguém possa argumentar, logicamente, contra um co
 Silogisticamente, são:
 
 1. Todos os organismos requerem de um comportamento universalmente preferido para poder viver.
-2. O homem é um organismo vivo.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+2. O Homem é um organismo vivo.
+3. Portanto, todos os seres humanos vivos estão vivos, devido à prática de um comportamento universalmente preferido.
+4. Consequentemente, qualquer argumento contra um comportamento universalmente preferível, requer uma aceitação e prática de um comportamento universalmente preferido.
+5. E assim, nenhum argumento contra a existência de um comportamento universalmente preferível pode ser válido.
 
 Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
 
