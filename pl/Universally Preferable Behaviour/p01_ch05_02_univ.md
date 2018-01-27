@@ -56,18 +56,18 @@ Lub:
 
 Piąty argument dotyczący ważności powszechnie preferowanego zachowania jest ewolucyjny.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+Ponieważ całe życie organiczne wymaga zachowania preferencyjnego, możemy założyć, że te organizmy, które dokonują najbardziej udanych wyborów, są najczęściej wybierane do przeżycia.
 
 Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
 
 Or:
 
 1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+2. Człowiek jest najbardziej udanym organizmem.
+3. Dlatego człowiek musiał działać najskuteczniej na podstawie powszechnie preferowanego zachowania.
+4. Umysł człowieka jest jego najbardziej charakterystycznym narządem.
+5. Dlatego ludzki umysł musiał działać najlepiej z powodu ogólnie preferowanych zachowań.
+6. Dlatego też zachowanie powszechnie preferowane musi być prawidłowe.
 
 We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
 
