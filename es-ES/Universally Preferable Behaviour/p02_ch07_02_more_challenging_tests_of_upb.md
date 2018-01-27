@@ -2,7 +2,7 @@
 
 ¿Cuál sería el estado de la proposición moral: "es malo comer pescado"?
 
-Claramente, esta proposición parece satisfacer al menos algunos de los requisitos de UPB: parece universal, independiente del tiempo y el lugar, y relativamente objetiva.
+Claramente, esta proposición parece satisfacer al menos algunos de los requisitos de CUP: parece universal, independiente del tiempo y el lugar, y relativamente objetiva.
 
 Sin embargo, parece difícil para nosotros llamar razonablemente a esto una teoría verdaderamente * moral *: ¿por qué?
 
@@ -18,13 +18,13 @@ Mas no, el "pretexto" en la proposición moral "Es malo comer pescado" es la pal
 
 Un científico no puede decir válidamente que su teoría de la gravedad solo se aplica a las rocas rosadas. Como su teoría involucra la gravedad, debe aplicarse a * todas las * entidades que tienen masa.
 
-De manera similar, en el ejemplo anterior, UPB acepta solo el * acto * de comer, y rechaza * lo que * se come, ya que lo que se come no es una * acción *, sino más bien sobre lo que se está actuando.
+De manera similar, en el ejemplo anterior, CUP acepta solo el * acto * de comer, y rechaza * lo que * se come, ya que lo que se come no es una * acción *, sino más bien sobre lo que se está actuando.
 
-De la misma manera, un especialista en ética no puede presentar válidamente la proposición moral: "Es malo violar a los * ancianos *". "Violación" es el comportamiento; si la víctima es mayor o no es irrelevante para la proposición moral, ya que mientras la víctima sea humana, el requisito de universalidad permanece constante. "No robarás" es una proposición moral válida según UPB - "no robarás * nabos *" no lo es, por la simple razón de que el robo está relacionado con el concepto de propiedad - y los nabos, como un subconjunto de la propiedad, no se puede delinear racionalmente de todas las otras formas de propiedad y se les asigna su propia regla moral.
+De la misma manera, un especialista en ética no puede presentar válidamente la proposición moral: "Es malo violar a los * ancianos *". "Violación" es el comportamiento; si la víctima es mayor o no es irrelevante para la proposición moral, ya que mientras la víctima sea humana, el requisito de universalidad permanece constante. "No robarás" es una proposición moral válida según CUP - "no robarás * nabos *" no lo es, por la simple razón de que el robo está relacionado con el concepto de propiedad - y los nabos, como un subconjunto de la propiedad, no se puede delinear racionalmente de todas las otras formas de propiedad y se les asigna su propia regla moral.
 
 La proposición moral de "comer pescado es malo" fracasa así en la prueba de la universalidad porque es demasiado específica para generalizarse; es como decir "mi teoría de la gravedad se aplica solo a las rocas rosadas". Si se trata de una teoría de la gravedad, entonces debe aplicarse a todo; si solo se aplica a rocas rosadas, entonces no es una teoría de la gravedad.
 
-UPB también rechaza como inválida cualquier teoría que resulte en juicios morales opuestos para acciones idénticas. "Asalto" no puede ser moral algún día, e inmoral el siguiente. Por lo tanto, sabemos que "comer" no puede ser moral algún día, e inmoral al siguiente.
+CUP también rechaza como inválida cualquier teoría que resulte en juicios morales opuestos para acciones idénticas. "Asalto" no puede ser moral algún día, e inmoral el siguiente. Por lo tanto, sabemos que "comer" no puede ser moral algún día, e inmoral al siguiente.
 
 O "comer" es moral, inmoral o moralmente neutral. Si comer es inmoral, entonces surgen toda una serie de problemas lógicos, y estoy seguro de que ya los conocemos bien.
 
