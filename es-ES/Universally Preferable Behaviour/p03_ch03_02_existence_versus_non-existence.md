@@ -1,8 +1,8 @@
-### Practicality
+### Sentido práctico
 
 Una vez que la violencia del gobierno es expuesta intelectualmente - y el supuesto “voluntarismo” de los ciudadanos es revelado como un fraude vil - el argumento siempre vuelve a que *necesitamos* que el gobierno nos brinde bienes públicos como protección, defensa regional, rutas, etc.
 
-I have written dozens of articles exposing the falsehood of this position, so I will not bother to reiterate those arguments here, since they are not essential to a book on morality, but rather would be more appropriate to a book explaining the principles and practicalities of a voluntary society.[^4]
+He escrito docenas de artículos que exponen la falsedad de este puesto, por lo que no me molestaré en reiterar esos argumentos aquí, ya que no son esenciales para un libro sobre moralidad, sino que serían más apropiados para un libro que explica los principios y aspectos prácticos de una sociedad voluntaria. [^4]
 
 El “argumento por funcionalidad” no resuelve de ninguna manera el problema de la violencia. Si lo veo comiendo hamburguesas con queso todos los días, puedo decirle que eso no es funcional para usted hacerlo, si quiere mantener un peso saludable. No puedo asegurar que sea *malo* para usted comer hamburguesas con queso, por las razones antes mencionadas. No puedo simplemente obligarlo usando la fuerza para aumentar la “funcionalidad” de sus acciones.
 
@@ -22,13 +22,13 @@ Si no puedo decidir de qué color pintar mi casa, y mi solución es firmar un co
 
 Si no creo ser competente para tomar mis propias decisiones, entonces claramente mi decisión de subordinarse a la violencia *por el resto de mi vida* es una decisión incompetente.
 
-O soy capaz de tomar mis propias decisiones, o no lo soy. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. Si yo *no* soy capaz de tomar decisiones competentes, entonces mi decisión de subordinarme a la violencia por el resto de mi vida, también es inválida.
+O soy capaz de tomar mis propias decisiones, o no lo soy. Si * soy * capaz de tomar decisiones competentes, someterme a la fuerza por el resto de mi vida no es válido. Si yo *no* soy capaz de tomar decisiones competentes, entonces mi decisión de subordinarme a la violencia por el resto de mi vida, también es inválida.
 
 Aún si las mencionadas consideraciones son pasadas por alto, sin embargo, es todavía imposible simplemente forzar un contrato social a través de un gobierno. Claramente, no puedo firmar un contrato en *su* lugar, o en lugar de mis hijos, que estará adosado a usted o a ellos por el resto de los días. No puedo comprar un auto, enviarle la factura y simplemente obligarlo a que usted la pague. Si afirmo tener poder para imponerle contrarios unilaterales, UPB también le da a *usted* ese poder, y entonces usted simplemente me devolverá el contrato a mi nombre.
 
 De la misma manera, aún si yo elijo pagar mis impuestos voluntariamente, no puedo simplemente imponerle esa decisión a usted, ya que un contrato voluntario es una preferencia meramente personal, y por ende no puede ser forzada universalmente mediante la violencia.
 
-### The Necessity Of The State?
+### La necesidad del estado?
 
 Toda esta cuestión se vuelve aún más absurda cuando miramos a la “justificación” moral más común con respecto al poder de los gobiernos democráticos, los cuales están basados en la “voluntad de la mayoría.”
 
@@ -36,13 +36,13 @@ En primer lugar, “voluntad” es un aspecto del individuo, mientras que “may
 
 Dos objeciones adicionales recurren constantemente cada vez que se cuestiona la necesidad de un gobierno. La primera es que una sociedad libre es únicamente posible si las personas son perfectamente buenas o racionales - en otras palabras, que los ciudadanos *necesitan* un gobierno centralizado porque hay personas malas en el mundo.
 
-El primer y más obvio problema con esta postura es que si en la sociedad existe la gente mala, también existirá dentro del gobierno - y por eso serán mucho más peligrosos. Los ciudadanos puede protegerse a sí mismos contra los individuos malos, pero no podrían hacerlo frente a un gobierno agresivo armado hasta los dientes con fuerzas policiales y militares. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
+El primer y más obvio problema con esta postura es que si en la sociedad existe la gente mala, también existirá dentro del gobierno - y por eso serán mucho más peligrosos. Los ciudadanos puede protegerse a sí mismos contra los individuos malos, pero no podrían hacerlo frente a un gobierno agresivo armado hasta los dientes con fuerzas policiales y militares. Por lo tanto, el argumento de que necesitamos al gobierno porque existen personas malvadas es falso. Si existen personas malvadas, el gobierno * debe* ser desmantelado, ya que la gente malvada se sentirá atraída a usar su poder para sus propios fines y, a diferencia de los matones privados, las personas malvadas en el gobierno tienen la policía y el ejército para infligir sus caprichos en una población indefensa (y relativamente desarmada). Por lo tanto, el argumento es similar a la idea de que "los falsificadores son muy peligrosos, por lo que deberíamos otorgar un monopolio exclusivo sobre la falsificación a un pequeño grupo de individuos". ¿En qué lugar la gente cree que los falsificadores van primero? [^5]
 
-Logically, there are four possibilities as to the mixture of good and evil people in the world:
+Lógicamente, hay cuatro posibilidades en cuanto a la mezcla de personas buenas y malas en el mundo:
 
-1. All men are moral.
-2. All men are immoral.
-3. The majority of men are immoral, and a minority moral.
+1. Todos los hombres son morales.
+2. Todos los hombres son inmorales.
+3. La mayoría de los hombres son inmorales y una minoría moral.
 4. The majority of men are moral, and a minority immoral.[^6]
 
 In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
