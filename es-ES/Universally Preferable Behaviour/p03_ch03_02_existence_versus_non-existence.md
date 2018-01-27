@@ -43,31 +43,31 @@ Lógicamente, hay cuatro posibilidades en cuanto a la mezcla de personas buenas 
 1. Todos los hombres son morales.
 2. Todos los hombres son inmorales.
 3. La mayoría de los hombres son inmorales y una minoría moral.
-4. The majority of men are moral, and a minority immoral.[^6]
+4. La mayoría de los hombres son morales, y una minoría inmoral. [^6]
 
-In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
+En el primer caso (* todos los hombres son morales *), el gobierno obviamente no es necesario, ya que el mal no puede existir.
 
-In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+En el segundo caso (* todos los hombres son inmorales *), no se puede permitir que el gobierno exista por una simple razón. El gobierno, en general se argumenta, debe existir porque hay personas malvadas en el mundo que desean infligir daño, y que solo pueden ser reprimidas por miedo a la retribución del gobierno (policía, prisiones, * et al *). Un corolario de este argumento es que mientras menos represalias temen estas personas, más malvadas harán.
 
-However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
+Sin embargo, el * mismo* gobierno no está sujeto a ninguna fuerza o retribución, pero es una ley en sí misma. Incluso en las democracias occidentales, ¿cuántos policías y políticos van a la cárcel?
 
-Thus if evil people wish to do harm, but are only restrained by force, then society can *never* permit a government to exist, because evil people will work feverishly to grab control of that government, in order to do evil and avoid retribution. In a society of pure evil, then, the only hope for stability would be a state of nature, where a general arming and fear of retribution would blunt the evil intents of disparate groups. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
+Por lo tanto, si las personas malvadas desean hacer daño, pero solo son reprimidas por la fuerza, entonces la sociedad * nunca * puede permitir que exista un gobierno, porque las personas malvadas trabajarán febrilmente para tomar el control de ese gobierno, para poder hacer el mal y evitar la retribución. En una sociedad de maldad pura, entonces, la única esperanza para la estabilidad sería un estado de naturaleza, donde un armamento general y el miedo a la retribución mitigarían las malas intenciones de los grupos dispares. Como es el caso entre naciones con armas nucleares, un "equilibrio de poder" genera paz.
 
-The third possibility is that *most* people are evil, and only a few are good. If that is the case, then the government also cannot be permitted to exist, since the majority of those in control of the government will be evil, and will rule despotically over the good minority. Democracy in particular cannot be permitted, since the minority of good people would be subjugated to the democratic control of the evil majority. Evil people, who wish to do harm without fear of retribution, would inevitably control the government, and use its power to do evil free of the fear of consequences.
+La tercera posibilidad es que la * mayoría * de personas sean malvadas, y solo unas pocas sean buenas. Si ese es el caso, entonces tampoco se le puede permitir al gobierno que exista, ya que la mayoría de los que controlan el gobierno serán malvados y gobernarán despóticamente sobre la buena minoría. La democracia en particular no puede permitirse, ya que la minoría de personas buenas estaría subyugada al control democrático de la mayoría malvada. Las personas malvadas, que desean hacer daño sin temor a represalias, inevitablemente controlarían el gobierno y usarían su poder para hacer el mal sin miedo a las consecuencias.
 
-Good people do not act morally because they fear retribution, but because they love virtue and peace of mind – and thus, unlike evil people, they have little to gain by controlling the government. In this scenario, then, the government will inevitably be controlled by a majority of evil people who will rule over all, to the detriment of all moral people.
+Las personas buenas no actúan moralmente porque temen el castigo, sino porque aman la virtud y la paz mental y, por lo tanto, a diferencia de la gente malvada, tienen poco que ganar al controlar el gobierno. En este escenario, entonces, el gobierno inevitablemente será controlado por la mayoría de las personas malvadas que gobernarán sobre todos, en detrimento de todas las personas morales.
 
-The fourth option is that most people are good, and only a few are evil. This possibility is subject to the same problems outlined above, notably that evil people will always want to gain control over the government, in order to shield themselves from just retaliation for their crimes. This option only changes the *appearance* of democracy: because the majority of people are good, evil power-seekers must lie to them in order to gain power, and then, after achieving public office, will immediately break faith and pursue their own corrupt agendas, enforcing their wills through the police and the military.[^7] Thus the government remains the greatest prize to the most evil men, who will quickly gain control over its awesome power – to the detriment of all good souls – and so the government cannot be permitted to exist in this scenario either.
+La cuarta opción es que la mayoría de las personas son buenas y solo unas pocas son malas. Esta posibilidad está sujeta a los mismos problemas descritos anteriormente, en particular que las personas malvadas siempre querrán obtener el control sobre el gobierno, para protegerse de la mera represalia por sus crímenes. Esta opción solo cambia la * apariencia * de la democracia: debido a que la mayoría de la gente es buena, los malvados buscadores de poder deben mentirles para obtener poder y luego, después de lograr un cargo público, inmediatamente romperán la fe. y persiguen sus propias agendas corruptas, haciendo cumplir sus voluntades a través de la policía y el ejército. [^7] Por lo tanto, el gobierno sigue siendo el mayor premio para los hombres más malvados, que rápidamente tomarán el control de su asombroso poder, en detrimento de todas las almas buenas, por lo que tampoco se le puede permitir al gobierno existir en este escenario.
 
-It is clear, then, that there is no situation under which a government can logically or morally be allowed to exist. The only possible justification for the existence of a government would be if the majority of men are evil, but all the power of the government is always controlled by a minority of good men.[^8]
+Es claro, entonces, que no hay ninguna situación bajo la cual un gobierno pueda permitirse lógicamente o moralmente existir. La única justificación posible para la existencia de un gobierno sería si la mayoría de los hombres son malvados, pero todo el poder del gobierno siempre está controlado por una minoría de hombres buenos. [^8]
 
-This situation, while interesting theoretically, breaks down logically because:
+Esta situación, aunque interesante teóricamente, se descompone lógicamente porque:
 
-1. The evil majority would quickly outvote the minority or overpower them through a coup;
-2. There is no way to ensure that only good people would always run the government; and,
-3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
+1. La mayoría malvada superaría rápidamente a la minoría o los dominaría a través de un golpe;
+2. No hay forma de garantizar que solo las personas buenas dirijan siempre el gobierno; y,
+3. No hay absolutamente ningún ejemplo de que esto haya ocurrido en ninguno de los anales brutales de la historia del estado.
 
-The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
+El error lógico que siempre se comete en la defensa del gobierno es imaginar que cualquier juicio moral colectivo que se aplique a un grupo de personas * tampoco se aplique al grupo que las gobierna *. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
 
 If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
 
