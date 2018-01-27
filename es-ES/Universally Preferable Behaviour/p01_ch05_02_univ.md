@@ -54,11 +54,11 @@ O:
 3. Por lo tanto no todas las decisiones pueden ser iguales.
 4. Por lo tanto las decisiones universalmente preferibles deben ser válidas.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+El quinto argumento para la validez del comportamiento universalmente preferible es evolutivo.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+Ya que toda la vida orgánica requiere de comportamiento preferencial para sobrevivir, podemos asumir que aquellos organismos que tomas las decisiones más exitosas son los que más a menudo son seleccionados para la supervivencia.
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+Dado que el hombre es la especie más exitosa, y el órgano más distintivo del hombre es su cerebro, debe ser el *cerebro* humano el que lo ha ayudado más en tomar decisiones exitosas. La mente misma, entonces, ha sido seleccionada como exitosa por su propia habilidad de tomar decisiones exitosas. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
 
 Or:
 
