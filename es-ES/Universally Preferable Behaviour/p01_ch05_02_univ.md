@@ -75,7 +75,7 @@ Podríamos incorporar muchos más argumentos para apoyar la existencia y validez
 
 Dado que hemos demostrado la validez de un comportamiento universalmente preferible, la cuestión de la moralidad ahora cambia. Como la moralidad * es * válida, ¿qué teorías pueden cuantificar, clasificar, explicar y predecir?
 
-Antes que nada, debemos recordar que la moralidad es claramente opcional. Todo hombre está sujeto a la gravedad y requiere comida para vivir, pero ningún hombre tiene que actuar moralmente. Si violo, robé o mato, ningún rayo me derriba. Las reglas morales, como el método científico o las clasificaciones biológicas, son simplemente formas de organizar racionalmente hechos y principios relativos a la realidad objetiva.
+Antes que nada, debemos recordar que la moralidad es claramente opcional. Todo hombre está sujeto a la gravedad y requiere comida para vivir, pero ningún hombre tiene que actuar moralmente. Si violo, robo o mato, ningún rayo me derriba. Las reglas morales, como el método científico o las clasificaciones biológicas, son simplemente formas de organizar racionalmente hechos y principios relativos a la realidad objetiva.
 
 El hecho de que el cumplimiento de las reglas morales es * opcional *, sin embargo, ha confundido a muchos pensadores al creer que la moralidad misma es * subjetiva *. Nada mas lejos de la verdad.
 
@@ -83,7 +83,7 @@ Los organismos vivos son parte de la realidad material, y la realidad material e
 
 Ahora, dado que la moralidad es un concepto válido, la siguiente pregunta es: ¿en qué medida o en qué medida es válida la moralidad?
 
-Como se mencionó anteriormente, la primera prueba de cualquier teoría científica es * universalidad *. Así como una teoría de la física debe aplicarse a * todas las * materias, una teoría moral que dice describir las acciones preferibles de la humanidad * debe aplicarse a ** toda la ** humanidad *. Ninguna teoría moral puede ser válida si argumenta que una determinada acción es * correcta * en Siria, pero * incorrecta * en San Francisco. No puede decir que la Persona A * debe * hacer X, pero la Persona B debe * nunca * hacer X. No puede decir que lo que estaba * mal * ayer es <0 > derecha </em> hoy - o viceversa. Si lo hace, es falso y debe refinarse o descartarse.
+Como se mencionó anteriormente, la primera prueba de cualquier teoría científica es * universalidad *. Así como una teoría de la física debe aplicarse a * todas las * materias, una teoría moral que dice describir las acciones preferibles de la humanidad * debe aplicarse a ** toda **la humanidad *. Ninguna teoría moral puede ser válida si argumenta que una determinada acción es * correcta * en Siria, pero * incorrecta * en San Francisco. No puede decir que la Persona A * debe * hacer X, pero la Persona B debe * nunca * hacer X. No puede decir que lo que estaba * mal * ayer es * derecha * hoy - o viceversa. Si lo hace, es falso y debe refinarse o descartarse.
 
 Para ser válido, cualquier teoría moral también debe pasar el criterio de * consistencia lógica *. Como el comportamiento de la materia es lógico, consistente y predecible, todas las teorías que involucran la materia, ya sea orgánica o inorgánica, también deben ser lógicas, consistentes y predecibles. La teoría de la relatividad no puede argumentar que la velocidad de la luz sea constante y no constante al mismo tiempo, o que sea ciento ochenta y seis mil kilómetros por segundo, cinco kilómetros de profundidad y también de color verde.
 
@@ -93,7 +93,7 @@ La prueba final que cualquier teoría moral debe aprobar es el criterio de la ob
 
 #### UPB: La Práctica
 
-¿Cómo se ve todo esto en la práctica? Veamos cómo el requisito de * universalidad * afecta las teorías morales. Tocaremos aquí pruebas y refutaciones para proposiciones morales específicas, que examinaremos con más detalle en la Parte Dos.
+¿Cómo se ve todo esto en la práctica? Veamos cómo el requisito de * universalidad * afecta las teorías morales. Tocaremos aquí pruebas y refutaciones para proposiciones morales específicas, que examinaremos con más detalle en la Parte dos.
 
 Si digo que la gravedad afecta a la materia, debe afectar a * todo *. Si incluso un guijarro es inmune a la gravedad, mi teoría está en problemas. Si propongo una teoría moral que defienda que las personas no deberían asesinar, debe ser aplicable a * todas las * personas. Si ciertas personas (como los soldados) están exentas de esa regla, entonces tengo que probar que los soldados son * no * personas, o aceptar que mi teoría moral es falsa. No hay otra posibilidad. Por otro lado, si propongo una teoría moral que defiende que todas las personas * deberían * asesinar, entonces he salvado a ciertos soldados, pero condené al mal a todos aquellos * que no * que actualmente asesinan a alguien (¡incluidos los que están siendo asesinados!) - que seguramente es incorrecto.
 
