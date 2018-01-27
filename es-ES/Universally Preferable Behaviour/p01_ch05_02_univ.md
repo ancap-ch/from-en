@@ -41,9 +41,9 @@ O:
 3. Todos los hombres creen en el comportamiento universalmente preferible.
 4. Por lo tanto la evidencia empírica existe para apoyar la validez del comportamiento universalmente preferible – y la existencia de esa evidencia se *opone* a la proposición de que el comportamiento universalmente preferible no es válido.
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+El cuarto argumento para la validez del comportamiento universalmente preferible es también empírico. Puesto que los seres humanos tienen un número casi infinito de elecciones que hacer en su vida, decir que no hay principios de comportamiento universalmente preferible sería decir que todas las elecciones son iguales (es decir, subjetivas). Sin embargo, todas las opciones *no* son iguales, sea lógicamente o a través de la observación empírica.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+Por ejemplo, si la comida está disponible, casi todos los seres humanos prefieren comer todos los días. Cuando hace frío, casi todos los seres humanos buscan calor. Casi todos los padres escogen alimentar, dar refugio y educación a sus hijos. Hay muchos ejemplos de decisiones comunes en la humanidad, lo que indica que abunda el comportamiento universalmente preferible y que es parte de la naturaleza humana.
 
 As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
 
