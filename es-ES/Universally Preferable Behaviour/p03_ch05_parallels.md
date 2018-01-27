@@ -66,10 +66,10 @@ Por lo tanto, un hombre que cree que la intimidación es una buena manera de obt
 
 En otras palabras, CUP exige consistencia incluso en incoherencias. CUP exige uniformidad incluso en inmoralidad.
 
-Las premisas morales de la raíz de una cultura dictan así su futuro inevitable. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+Las premisas morales de la raíz de una cultura dictan así su futuro inevitable. Una cultura basada en justificaciones para la coacción siempre será más coercitiva. Una cultura basada en la libertad racional siempre será menos coercitiva.
 
-That is why the delineation of a rational framework for ethics is so essential.
+Es por eso que la delineación de un marco racional para la ética es tan esencial.
 
-What we believe is what we become.
+Lo que creemos es en lo que nos convertimos.
 
-If we believe lies, we shall become slaves.
+Si creemos mentiras, nos convertiremos en esclavos.
