@@ -98,27 +98,27 @@ Sabemos que es empíricamente falso porque * no existe un contrato social *. Ni 
 
 ### El arma en la habitación
 
-Mucha gente argumentará en este punto que los impuestos no se aplican a punta de pistola, sino que la gente los paga voluntariamente. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+Mucha gente argumentará en este punto que los impuestos no se aplican a punta de pistola, sino que la gente los paga voluntariamente. Por ejemplo, un recaudador de impuestos o un policía nunca me han apuntado con una pistola en la cara, pero he pagado impuestos durante décadas.
 
-This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+Esto puede ser cierto, pero es completamente irrelevante. Si le digo a una mujer que voy a matar a sus hijos si ella no tiene relaciones sexuales conmigo, y ella se somete a mí, entendemos claramente que se ha llevado a cabo una acción inmoral, a pesar de que no he usado ningún arma en mi violación. Claramente, si la mujer se somete a mí, es porque teme llevar a cabo mi amenaza. Si le digo que mi duende leprechaun matará a sus hijos si no tiene relaciones sexuales conmigo, es muy probable que la moleste, pero no temería a mi amenaza de manera significativa, ya que es imposible que mi duende leprechaun mate a sus niños. O, si moría, y mi voluntad declaraba que mataría a los hijos de esta mujer si ella no tenía relaciones sexuales conmigo, es evidente que se sentiría aliviada en lugar de temer, ya que no puedo concebir mi amenaza más allá de la tumba. Por lo tanto, pagamos impuestos porque sabemos que si no lo hacemos, la probabilidad de ser atacados por representantes del estado es muy alta. Si no pago mis impuestos, recibiré una carta, luego otra carta, luego una llamada telefónica, luego una citación judicial, y si no comparezco ante el tribunal, o no pago mis impuestos atrasados y las multas e intereses acumulados, los policías vendrán con pistolas para llevarme a la cárcel. Si me opongo a esos policías, me dispararán.
 
-To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
+Decir que la fuerza es igual al voluntarismo es completamente ilógico y contradictorio. Decir que la iniciación del uso de la fuerza es completamente igual a la no iniciación del uso de la fuerza es decir que arriba está abajo, el negro es blanco y la verdad es falsedad.
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+Sin la "zona nula", estas ficciones corruptas no pueden mantenerse.
 
-The “null zone” is the lair of the beast we hunt.
+La "zona nula" es la guarida de la bestia que cazamos.
 
-As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
+Como podemos ver, sabemos que personalmente es un error robar; tenemos muy pocos problemas con una prohibición abstracta y lógica del robo, como hemos resuelto anteriormente; sin embargo, aún existe esta "zona nula" o universo alternativo donde tales oposiciones pueden aceptarse sin ninguna pregunta o preocupación.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+Según UPB, es malo para mí y para ti robar. Sin embargo, de alguna manera, en esta "zona nula", no solo está permitido, sino también perfectamente * moral *, para otros robar. Nosotros * no debemos * robar, ellos * deben * robar. ¡Es una locura moral!
 
-### Policemen
+### Policías
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+Vamos a sacar a nuestro buen amigo Bob de su pequeña sala de pruebas de teoría moral y regresarlo a su trabajo original como policía.
 
-Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
+Claramente, cuando Bob se despierta por la mañana, antes de su turno, no puede ir a la casa de su vecino y exigir dinero a punta de pistola, sin importar quién le diga que todo está bien.
 
-When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+Cuando Bob desayuna, tampoco puede atacar a su vecino y llevarse su dinero. En su camino hacia el trabajo, aunque se haya puesto su uniforme, todavía no ha entrado en el mercado y, por lo tanto, no tiene más derechos que ningún otro ciudadano. Sin embargo, cuando interviene, como si descendiera un pilar de fuego amoral de los mismos cielos, gana la asombrosa habilidad de atacar moralmente a sus vecinos y tomar su dinero.
 
 Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
 
