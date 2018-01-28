@@ -1,4 +1,4 @@
-## Prefacio
+## Prólogo
 
 En muchos cuentos de hadas, vive una terrible bestia de poder estupendo, un dragón o un basilisco, que tiraniza las tierras a su alrededor. Los aldeanos locales tiemblan ante este monstruo; sacrifican animales, pagan dinero y sangre en la esperanza de apaciguar sus impulsos asesinos.
 
