@@ -108,11 +108,11 @@ Uma vez que as teorias válidas exigem *coerência lógica*, uma teoria moral n�
 Da mesma forma, qualquer teoria moral que defenda o estupro enfrenta uma contradição semelhante. A violação *nunca* poderá ser moral, pois qualquer princípio que a aprove estar-se-à a contradizer, automaticamente. Se a violação se justifica com o princípio de que "tirar prazer é sempre bom", então esse princípio falha imediatamente no teste da consistência lógica, uma vez que o violador pode estar a sentir prazer, mas a sua vítima certamente que *não*,</a></sup><sup id="fnref:7"><a href="#fn:7" class="footnote-ref"></p> 
 
 <p>
-  Thus subjecting moral theories to the scientific method produces results that conform to rationality, empirical observations and plain common sense. Murder, theft, arson, rape and assault are all proven immoral.<fnref target="8" />
+  Portanto, submeter as teorias morais ao método científico produz resultados conformes à racionalidade, observações empíricas e simples sentido comum. Assassinato, roubo, incêndio criminoso, estupro e assalto, todos são provados imorais.<fnref target="8" />
 </p>
 
 <p>
-  To aid in swallowing this rather large conceptual pill, below is a table that helps equate theories of physics and biology with scientific theories of universally preferable (or moral) behaviour:
+  Para ajudar a engolir esta pílula conceitual bastante grande, abaixo está uma tabela que ajuda a nivelar teorias de física e biologia com teorias científicas de comportamento universalmente preferível (ou moral):
 </p>
 
 <table>
