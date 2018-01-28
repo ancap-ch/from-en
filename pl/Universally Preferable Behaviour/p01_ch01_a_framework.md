@@ -26,17 +26,17 @@ Prawda ma również wartość w stosunku do konieczności. Fizyka Newtona zosta�
 
 W rezultacie zdanie "Fizyka Newtona jest mniej dokłada od fizyki Einsteina, ale fizyka Newtona jest najlepsza do obliczania tras statków" może być uznane jako prawidłowa propozycja. Fizyka Newtona jest zatem zarówno *mniej dokładna* i *bardziej odpowiednia*.
 
-Jeśli chcielibyśmy wypić najczystszą możliwą wodę, zapewne musielibyśmy zapłacić za nią tysiące dolarów. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+Jeśli chcielibyśmy wypić najczystszą możliwą wodę, zapewne musielibyśmy zapłacić za nią tysiące dolarów. O ile nie jesteśmy bardzo bogaci to nigdy nie zapłacilibyśmy tyle, aby ugasić pragnienie. To prawda, że czysta woda jest dla nas lepsza, ale cena, którą ta czystość wymaga przekracza granicę rozsądku. Zatem "czystsze jest lepsze" zamienia się w "czystsze jest gorsze."
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+Ponownie, to nie oznacza, że czystość wody jest całkowicie subiektywna. Woda destylowana zawsze bardziej nadaje się do picia niż woda morska.
 
-#### Truth And Objective Reality
+#### Prawda i Obiektywna Rzeczywistość
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+Pojęcie *prawdy* koniecznie wiąże się z pojęciem *dokładności*. Jeśli staram się strzelić strzałą w dziesiątkę, dokładność mojego strzału jest zależna od tego jak daleko od celu wyląduje moja strzała.
 
 What, then, is the “bull’s-eye” of truth?
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+*Prawdziwość* stwierdzenia jest mierzalna relatywnie do jego zgodności z obiektywną rzeczywistością.
 
 Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
 
