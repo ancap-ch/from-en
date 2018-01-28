@@ -1,6 +1,6 @@
-## The Fifth Test: Lying
+## 第五测试：谎言
 
-The question of *lying* is interesting because telling the truth is generally considered to be universally preferable, but not enforceable through violence.
+*谎言*的问题很有趣，因为讲真话通常被认为是普遍可取的，但不能通过暴力手段来强制执行。
 
 It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
 
