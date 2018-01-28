@@ -2,11 +2,11 @@
 
 Ethical propositions are different from other types of knowledge statements. Jeśli powiem, "lubię jazz", to może być prawdziwe lub fałszywe oświadczenie, ale ogólnie n ie jest to w żaden sposób wiążące. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+Podobnie jeśli powiem, że "lubię warzywa", to również jest tylko stwierdzenie osobistych preferencji. Jednakże jeśli powiem "warzywa są zdrowe", wtedy jest zamiast stwierdzenia osobistych preferencji, jest to stwierdzenie obiektywnego faktu. Jest różnica między "lubię lody," a "lody zawierają mleko."
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+Zasadnicza różnica pomiędzy stwierdzeniem *preferencji* i stwierdzeniem *faktu* jest taka, że stwierdzenie faktu jest obiektywne, sprawdzalne - i wiążące. Jeśli cenisz prawdę to musisz zaakceptować fakt, że lody zawierają mleko, kiedy zostanie to udowodnione.[^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Jeśli powiem, że ziemia jest okrągła i podam wystarczający dowód dla tego stwierdzenia, to już nie twoja sprawa, żeby decydować według własnego widzi mi się czy to stwierdzenie jest prawdziwe. Jeśli mogę udowodnić, że ziemia jest okrągła to musisz zaakceptować to jako prawdę, chyba że odrzucasz powód i dowód jako kryteria prawdy.
 
 If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
 
