@@ -1,28 +1,28 @@
 ## Prólogo
 
-En muchos cuentos de hadas, vive una terrible bestia de poder estupendo, un dragón o un basilisco, que tiraniza las tierras a su alrededor. Los aldeanos locales tiemblan ante este monstruo; sacrifican animales, pagan dinero y sangre en la esperanza de apaciguar sus impulsos asesinos.
+En muchos cuentos de hadas, vive una bestia terrible con un poder estupendo, un dragón o un basilisco, que tiranizan las tierras circundantes. Los aldeanos locales tiemblan ante este monstruo; sacrifican sus animales, pagan dinero y sangre con la esperanza de apaciguar sus impulsos asesinos.
 
-La mayoría de las personas se encogen bajo la sombra de esta bestia, llamando a su miedo "prudencia," pero algunos pocos – quizás borrachos en valentía o temeridad – deciden pelear. Año tras año, década tras década, ola tras hola de campeones esperanzados intentan igualar su fuerza, virtud y astucia ante este tirano terrible.
+La mayoría de la gente se acobarda bajo la sombra de esta bestia, llamando a su miedo "prudencia", pero unos pocos -borrachos tal vez por valor o temeridad- deciden luchar. Año tras año, década tras década, ola tras ola de campeones esperanzados intentan igualar su fuerza, su virtud y su astucia contra este terrible tirano.
 
-Prueban – y fallan.
+Inténtalo y falla.
 
-La bestia siempre es inmortal, así que los aldeanos no pueden esperar para que llegue el momento de librarse de su déspota. La bestia nunca es racional, y no tiene deseo de negociar, así que no hay negociación posible.
+La bestia siempre es inmortal, así que los aldeanos no pueden esperar el tiempo para librarse de su déspota. La bestia nunca es racional y no desea comerciar, por lo que no es posible negociar.
 
-La única esperanza de los desesperados aldeanos es que aparezca un hombre que pueda derrotar a la bestia.
+La única esperanza de los aldeanos desesperados es que aparezca un hombre que pueda derrotar a la bestia.
 
-Inevitablemente, un hombre da un paso al frente que impacta a todos como algo totalmente incongruente. Él es un chico estable, el hijo de un zapatero, un aprendiz de panadero – o a veces, sólo un vagabundo.
+Inevitablemente, un hombre da un paso al frente que golpea a todo el mundo como totalmente incongruente. Es un mozo de cuadra, un hijo de zapatero, un aprendiz de panadero - o a veces, un vagabundo.
 
-Este libro es la historia de mi asalto personal a tal bestia.
+Este libro es la historia de mi asalto personal a una bestia así.
 
-Esta "bestia" es la creencia de que es imposible definir un sistema ético científico, objetivo, racional y secular. Esta "bestia" es la ilusión de que la moralidad debe siempre estar perdida en los pantanos irracionales de dioses y gobiernos, exigida por razones meramente pragmáticas, pero siempre sin justificación lógica o una definición clara. Esta "bestia" es la fantasía de que la virtud, nuestra mayor alegría, nuestra más profunda felicidad, debe ser siempre dejada de lado por adultos seculares, y dejada en el polvo para ser barrida, desfilada y explotada por políticos y curas – y padres. Esta "bestia" es la superstición de que, sin las diatribas de los padres, el acoso de los dioses o las armas de los gobiernos, no podemos ser tanto racionales como buenos.
+Esta "bestia" es la creencia de que es imposible definir un sistema ético objetivo, racional, secular y científico. Esta "bestia" es la ilusión de que la moralidad debe perderse para siempre en los pantanos irracionales de dioses y gobiernos, forzados por razones meramente pragmáticas, pero siempre carentes de justificación lógica y definición clara. Esta "bestia" es la fantasía de que la virtud, nuestra mayor alegría, nuestra felicidad más profunda, debe ser dejada a un lado por los adultos seculares, y dejada en el polvo para ser tocada, desfilada y explotada por políticos y sacerdotes - y padres. Esta "bestia" es la superstición de que, sin las diatribas de los padres, la intimidación de los dioses o las armas de los gobiernos, no podemos ser racionales y buenos a la vez.
 
-Esta bestia ha sido estudiada por muchos héroes, de Sócrates a Platón, a Augustine, a Hume, a Kant, a Rand.
+Esta bestia ha derribado a muchos grandes héroes, desde Sócrates a Platón, pasando por Agustín, Hume, Kant y Rand.
 
-El costo a la humanidad ha sido enorme.
+El costo para la humanidad ha sido enorme.
 
-Desde que permanecemos incapaces de definir un sistema racional de moralidad universal, nosotros hemos sido forzados a infligir horribles historias religiosas a nuestros niños, o dar armas prisiones y ejércitos a un pequeño monopolio de controladores sin alma que se llaman a sí mismos "el estado."
+Como hemos sido incapaces de definir un sistema racional de moralidad universal, nos hemos visto obligados a infligir historias de horror religioso sobre nuestros hijos, o dar armas, prisiones y ejércitos a un pequeño monopolio de controladores desalmados que se llaman a sí mismos "el Estado"
 
-Desde que lo que llamamos "ética" permanece subjetiva y meramente *cultural*, nosotros inevitablemente terminamos dependiendo del acoso, el miedo y la violencia para imponer normas sociales. Ya que la ética carece de base racional en el método científico, la "moralidad" permanece atascada en una guerra tribal de mitologías sangrientas, con cada pandilla luchando con dientes y uñas por el control sobre la lealtad de la gente a la "virtud."
+Puesto que lo que llamamos "ética" sigue siendo subjetivo y meramente *cultural*, inevitablemente terminamos confiando en la intimidación, el miedo y la violencia para hacer cumplir las reglas sociales. Ya que la ética carece de base racional en el método científico, la "moralidad" permanece atascada en una guerra tribal de mitologías sangrientas, con cada pandilla luchando con dientes y uñas por el control sobre la lealtad de la gente a la "virtud."
 
 No podemos vivir sin moralidad, pero no podemos definir la moralidad objetivamente – así que permanecemos eternamente condenados a vidas vacías de hipocresía pomposa, dominación cínica o esclavitud piadosa.
 
