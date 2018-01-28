@@ -2,19 +2,19 @@
 
 ¿Cuál sería el estado de la proposición moral: "es malo comer pescado"?
 
-Claramente, esta proposición parece satisfacer al menos algunos de los requisitos de CUP: parece universal, independiente del tiempo y el lugar, y relativamente objetiva.
+Claramente, esta proposición parece satisfacer al menos algunos de los requisitos de CUP – esta parece universal, independiente del tiempo y el lugar, y relativamente objetiva.
 
-Sin embargo, parece difícil para nosotros llamar razonablemente a esto una teoría verdaderamente * moral *: ¿por qué?
+Sin embargo, parece difícil para nosotros llamar razonablemente a esto una teoría verdaderamente * moral * – ¿por qué?
 
-En primer lugar, "mal" abarca las acciones que se pueden prevenir mediante el uso de la fuerza. La violación es "malvada", y entonces puedo usar la fuerza para defenderme de alguien que intenta violarme.
+En primer lugar, el "mal" abarca las acciones que se pueden prevenir mediante el uso de la fuerza. La violación es "malvada", y si entonces puedo usar la fuerza para defenderme de alguien que intenta violarme.
 
 ¿Puedo disparar justamente a alguien que come un trozo de pescado?
 
-Parecería una tontería argumentar que puedo... ¿pero por qué?
+Parecería una tontería argumentar que puedo – ¿pero por qué?
 
-Hay algunos límites objetivos a la universalidad de esta doctrina. Por ejemplo, algunas personas pueden no tener acceso a los peces, pueden vivir en un desierto, por ejemplo, mientras que otros viven cerca de un lago lleno de peces, y les resulta difícil o imposible sobrevivir sin comerlos. Sin embargo, eso no puede ser suficiente, dado que ya hemos aceptado el hecho de que la incapacidad de un eunuco para violar no invalida la proposición moral "es malo violar"
+Hay algunos límites objetivos a la universalidad de esta doctrina. Por ejemplo, algunas personas pueden no tener acceso a los peces – pueden vivir en un desierto, por ejemplo – mientras que otros viven cerca de un lago lleno de peces, y les resulta difícil o imposible sobrevivir sin comerlos. Sin embargo, eso no puede ser suficiente, dado que ya hemos aceptado el hecho de que la incapacidad de un eunuco para violar no invalida la proposición moral "es malo violar"
 
-Mas no, el "pretexto" en la proposición moral "Es malo comer pescado" es la palabra "* pescado *"
+Pero no, el "pretexto" en la proposición moral "Es malo comer pescado" es la palabra "*pescado*"
 
 Un científico no puede decir válidamente que su teoría de la gravedad solo se aplica a las rocas rosadas. Como su teoría involucra la gravedad, debe aplicarse a * todas las * entidades que tienen masa.
 
