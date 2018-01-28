@@ -48,9 +48,9 @@ Zakładając, że potrafisz zobaczyć różnicę pomiędzy powyższymi czcionkam
 
 #### Accuracy And Consistency
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+Nie możliwym jest, żebym precyzyjnie namalował chmurę, ponieważ w czasie, którego potrzebuję do jej namalowania, chmura nieustannie się zmienia. Mogę dokładnie namalować *zdjęcie* chmury, która została zamrożona w czasie.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+Jeśli spędzę godzinę próbując namalować chmurę, a następnie spytam się czy mój malunek jest dokładną reprezentacją tej chmury, to ty koniecznie musisz odpowiedzieć, że nie jest.
 
 In other words, where there is no consistency, there can be no accuracy.
 
