@@ -10,15 +10,15 @@ Ce sont ces petites vérités de la vie quotidienne; que les roches de l'automne
 
 Entre le peu de vérités et les grandes vérités, cependant, ce sont les illusions qui nous aveugle – à la fois en physique et en éthique.
 
-En physique, les grandes vérités ne peut contredire le peu de vérités. Pas de “théorie du champ unifié” peut valablement s'opposent à nos sens direct-l'expérience de la chute d'un rocher ou d'une augmentation de la flamme. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+En physique, les grandes vérités ne peut contredire le peu de vérités. Pas de “théorie du champ unifié” peut valablement s'opposent à nos sens direct-l'expérience de la chute d'un rocher ou d'une augmentation de la flamme. La plus grande théorie mathématique ne peut pas être valable si l'application elle renvoie incorrect changement à la caisse.
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
+Historiquement, cependant, entre notre propre petit vérités et les grandes vérités se trouve ce que j'appelle la “null zone.”
 
-### The "Null Zone"
+### Le "Nul La Zone"
 
-We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+Nous disons à nos enfants de ne pas percer les uns des autres, et nous croyons que la violence est mauvaise dans l'abstrait, comme un général, la règle morale. Le “peu de vérité” est: *ne pas le punch*. La “grande vérité” est: *la violence est mauvaise*.
 
-However, there exists in our minds an imaginary entity called “God,” and this entity is considered perfectly moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+Cependant, il existe dans notre esprit une entité imaginaire appelé “Dieu”, et cette entité est considérée comme parfaitement moral. Malheureusement, cette entité constamment et viole grossièrement l'édit que “la violence, c'est mal” par noyade dans le monde, le reléguant les âmes à l'enfer, malgré une parfaite connaissance de leurs “décisions” et de sanctionner le viol, le meurtre, le vol, l'agression et les autres actions que nous condamnons comme totalement mauvais.
 
 Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
 
