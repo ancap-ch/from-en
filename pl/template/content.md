@@ -16,7 +16,7 @@ Pierwszy nagłówek katalogu głównego Poniżej znajduje się lista gotowych pa
     3. This phrase has two footnotes.[^1][^2]
 5. This phrase has [this](https://example-this.com) link, and also [this again](https://example-this-again.com).
 
-Now a non-enumerated list:
+Teraz lista niewymieniona:
 
 * Pierwszy poziom
 * Pierwszy poziom 
@@ -27,7 +27,7 @@ Now a non-enumerated list:
     * Drugi poziom
 * Pierwszy poziom
 
-Some quotation. First line is large; second line is small; third line is empty; fourth line is not. 5th line is not a quotation; 6th line is:
+Niektóre cytaty. Pierwsza linia jest duża; druga linia jest mała; trzecia linia jest pusta; czwarta linia nie jest. Piąty wiersz nie jest cytatem; Szósta linia to:
 
 > Pierwsza linia jest wielka: szybki, brązowy lis skacze nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Szybki, brązowy lis przeskakuje nad leniwym psem. Druga linia jest mała: szybki, brązowy lis skacze nad leniwym psem.
 > 
