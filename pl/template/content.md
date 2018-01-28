@@ -1,6 +1,6 @@
-# First root heading
+# Pierwszy nagłówek korzenia
 
-Below there's an enumerated list of styled pangrams, that shows every character, both in english and also in other languages.
+Pierwszy nagłówek katalogu głównego Poniżej znajduje się lista gotowych pangramów, które pokazują każdy znak, zarówno w języku angielskim, jak i w innych językach.
 
 1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
 2. numery: 0123456789. 
