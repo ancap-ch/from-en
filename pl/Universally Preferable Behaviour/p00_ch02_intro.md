@@ -128,6 +128,6 @@ However, when a government agent sends you a letter demanding that you pay him m
 
 This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+Ta książka skoncentruje się na demaskowaniu i niszczeniu tych fałszywych "środkowych prawd". Uważam, że ludzkość cierpi bez końca pod tyranią fałszywych etycznych "środkowych prawd", które uzasadniają destrukcyjny światopogląd religijnych zabobonów, świeckiego despotyzmu i kultu rodziny.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+Moją tezą w tej książce jest to, że w etyce, jak w każdej innej dyscyplinie intelektualnej, wielkie prawdy wynikają z małych prawd. Dezorientująca mgła "środkowych prawd" jest piekielną ścieżką do nawigacji, ale jest warta zmierzenia się z nią, ponieważ jedyną podstawową alternatywą dla prawd jest wyzysk, zniszczenie - i nieuchronnie, przedwczesna śmierć milionów ludzi.
