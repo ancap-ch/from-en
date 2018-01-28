@@ -4,7 +4,7 @@
 
 欺诈是通过虚假陈述获取价值。 如果我告诉你，假如你给我两百美元，我会寄给你一个iPod，然后我拿着你的钱却没有给你寄iPod，我们本能的理解，这是盗窃的一种模式。
 
-让我们把欺诈的问题通过UPB的研磨，看它是否成立。
+Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
 
 显然，欺诈要求一个人*不*从事欺诈。 在上述的潜在交易中，如果我希望窃取你的两百美元，而你希望窃取我的iPod，则什么也不会发生。 你会要求先给iPod再付款，而我会要求先付款再给iPod。 我们将陷入僵持状态，完全无法相互欺诈。
 
