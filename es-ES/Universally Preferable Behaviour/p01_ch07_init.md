@@ -8,9 +8,9 @@ Esto no significa que algunas conclusiones sorpredendentes – incluso shockeant
 
 Con eso en mente, volvamos a la pregunta de *iniciación*.
 
-A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
+Un cirujano puede “apuñalarlo” a usted con un bisturí, pero podemos entender fácilemente que su acción es muy diferentea la de un ladrón que lo apuñala con un cuchillo.
 
-This difference can be understood through a further analysis of *initiation*.
+Esta diferencia puede ser entendida a través de un análisis más profundo de la *iniciación*.
 
 If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
 
