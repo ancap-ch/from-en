@@ -2,11 +2,11 @@
 
 普遍认为道德的边缘是*欺诈*的挑战。
 
-欺诈是通过虚假陈述获取价值。 If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
+欺诈是通过虚假陈述获取价值。 如果我告诉你，假如你给我两百美元，我会寄给你一个iPod，然后我拿着你的钱却没有给你寄iPod，我们本能的理解，这是盗窃的一种模式。
 
-Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
+让我们把欺诈的问题通过UPB的研磨器，看它是否成立。
 
-Clearly, fraud requires that one person *not* be engaged in fraud. In the above potential transaction, if I am hoping to steal your two hundred dollars, and you are hoping to steal my iPod, nothing will come of it. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
+显然，欺诈要求一个人*不*从事欺诈。 在上述的潜在交易中，如果我希望窃取你的200美元，而你希望窃取我的iPod，则什么也不会发生。 你会要求先给iPod再付款，而我会要求先付款再给iPod。 我们将陷入僵持状态，完全无法相互欺诈。
 
 Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
 
