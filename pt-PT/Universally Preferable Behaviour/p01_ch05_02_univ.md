@@ -105,38 +105,235 @@ Além disso, se a minha teoria moral "provasse" que o mesmo homem não deveria a
 
 Uma vez que as teorias válidas exigem *coerência lógica*, uma teoria moral não pode ser válida se for verdadeira e falsa ao mesmo tempo. Uma teoria moral que aprova o roubo, por exemplo, enfrenta um problema lógico insuperável. Nenhuma teoria moral, se for universalmente aplicada, deve eliminar directamente o comportamento que a define como moral ao mesmo tempo que cria o comportamento que a define como *imoral*. Se todos *devem* roubar, então ninguém *irá* roubar - o que significa que a teoria moral nunca poderá ser praticada. E *por que* ninguém roubará? Bem, porque um homem só roubará se conseguir *manter* a propriedade que está a roubar. Ele não se vai preocupar em roubar uma carteira se outra pessoa, imediatamente, também irá roubá-la a ele. Qualquer teoria moral que proponha que "roubar é bom" é automaticamente inválida, porque postula que os direitos de propriedade são válidos e inválidos *ao mesmo tempo* e portanto, falha no teste de coerência lógica. Se eu o roubar, estou a dizer que os *seus* direitos de propriedade são inválidos. No entanto, eu quero *manter* o que estou a roubar - e, portanto, estou a dizer que os *meus* direitos de propriedade são válidos. Porém, os direitos de propriedade não podem ser válidos e inválidos ao mesmo tempo, e esta proposição em si deve ser inválida.
 
-Similarly, any moral theory that advocates rape faces a similar contradiction. Rape can *never* be moral, since any principle that approves it automatically contradicts itself. If rape is justified on the principle that “taking pleasure is always good,” then such a principle immediately fails the test of logical consistency, since the rapist may be “taking pleasure,” but his victim certainly is *not*.[^7]
+Da mesma forma, qualquer teoria moral que defenda o estupro enfrenta uma contradição semelhante. A violação *nunca* poderá ser moral, pois qualquer princípio que a aprove estar-se-à a contradizer, automaticamente. Se a violação se justifica com o princípio de que "tirar prazer é sempre bom", então esse princípio falha imediatamente no teste da consistência lógica, uma vez que o violador pode estar a sentir prazer, mas a sua vítima certamente que *não*,</a></sup><sup id="fnref:7"><a href="#fn:7" class="footnote-ref"></p> 
 
-Thus subjecting moral theories to the scientific method produces results that conform to rationality, empirical observations and plain common sense. Murder, theft, arson, rape and assault are all proven immoral.[^8]
+<p>
+  Thus subjecting moral theories to the scientific method produces results that conform to rationality, empirical observations and plain common sense. Murder, theft, arson, rape and assault are all proven immoral.<fnref target="8" />
+</p>
 
-To aid in swallowing this rather large conceptual pill, below is a table that helps equate theories of physics and biology with scientific theories of universally preferable (or moral) behaviour:
+<p>
+  To aid in swallowing this rather large conceptual pill, below is a table that helps equate theories of physics and biology with scientific theories of universally preferable (or moral) behaviour:
+</p>
 
-|                            | Physics                                                                                           | Biology                                                                                      | Morality                                                                                                                      |
-|:-------------------------- |:------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------- |
-| **Subject**                | Matter                                                                                            | Organic Matter                                                                               | Preferable behaviour for mankind                                                                                              |
-| **Instance**               | A rock                                                                                            | A horse                                                                                      | A man                                                                                                                         |
-| **Sample Rule**            | Gravity                                                                                           | The desire for survival                                                                      | Self-ownership                                                                                                                |
-| **Sample Theory**          | Entropy                                                                                           | Evolution                                                                                    | Property rights                                                                                                               |
-| **Sample Classification**  | Matter/Energy                                                                                     | Repitile/Mammal                                                                              | Good/Evil                                                                                                                     |
-| **Example**                | Matter cannot be created or destroyed, merely converted to energy and back                        | If it is alive and warm-blooded, it is a mammal                                              | Stealing is wrong                                                                                                             |
-| **Hypothesis**             | Atoms share common structures and properties, and so behave in predictable and consistent manners | Organic matter has rules – or requirements – that are common across classifications          | Universally preferable behaviour shares common rules and requirements                                                         |
-| **Proof**                  | Logical consistency, empirical verification                                                       | Logical consistency, empirical verification                                                  | Logical consistency, empirical verification                                                                                   |
-| **Negative Proof Example** | If mass does not attract mass, theories relying on gravity are incorrect                          | If organisms do not naturally self-select for survival, the theory of evolution is incorrect | If communism succeeds relative to its stated goals, theories based on the universal validity of property rights are incorrect |
+<table>
+  <tr>
+    <th align="left">
+    </th>
+    
+    <th align="left">
+      Physics
+    </th>
+    
+    <th align="left">
+      Biology
+    </th>
+    
+    <th align="left">
+      Morality
+    </th>
+  </tr>
+  
+  <tr>
+    <td align="left">
+      <strong>Subject</strong>
+    </td>
+    
+    <td align="left">
+      Matter
+    </td>
+    
+    <td align="left">
+      Organic Matter
+    </td>
+    
+    <td align="left">
+      Preferable behaviour for mankind
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="left">
+      <strong>Instance</strong>
+    </td>
+    
+    <td align="left">
+      A rock
+    </td>
+    
+    <td align="left">
+      A horse
+    </td>
+    
+    <td align="left">
+      A man
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="left">
+      <strong>Sample Rule</strong>
+    </td>
+    
+    <td align="left">
+      Gravity
+    </td>
+    
+    <td align="left">
+      The desire for survival
+    </td>
+    
+    <td align="left">
+      Self-ownership
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="left">
+      <strong>Sample Theory</strong>
+    </td>
+    
+    <td align="left">
+      Entropy
+    </td>
+    
+    <td align="left">
+      Evolution
+    </td>
+    
+    <td align="left">
+      Property rights
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="left">
+      <strong>Sample Classification</strong>
+    </td>
+    
+    <td align="left">
+      Matter/Energy
+    </td>
+    
+    <td align="left">
+      Repitile/Mammal
+    </td>
+    
+    <td align="left">
+      Good/Evil
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="left">
+      <strong>Example</strong>
+    </td>
+    
+    <td align="left">
+      Matter cannot be created or destroyed, merely converted to energy and back
+    </td>
+    
+    <td align="left">
+      If it is alive and warm-blooded, it is a mammal
+    </td>
+    
+    <td align="left">
+      Stealing is wrong
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="left">
+      <strong>Hypothesis</strong>
+    </td>
+    
+    <td align="left">
+      Atoms share common structures and properties, and so behave in predictable and consistent manners
+    </td>
+    
+    <td align="left">
+      Organic matter has rules – or requirements – that are common across classifications
+    </td>
+    
+    <td align="left">
+      Universally preferable behaviour shares common rules and requirements
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="left">
+      <strong>Proof</strong>
+    </td>
+    
+    <td align="left">
+      Logical consistency, empirical verification
+    </td>
+    
+    <td align="left">
+      Logical consistency, empirical verification
+    </td>
+    
+    <td align="left">
+      Logical consistency, empirical verification
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="left">
+      <strong>Negative Proof Example</strong>
+    </td>
+    
+    <td align="left">
+      If mass does not attract mass, theories relying on gravity are incorrect
+    </td>
+    
+    <td align="left">
+      If organisms do not naturally self-select for survival, the theory of evolution is incorrect
+    </td>
+    
+    <td align="left">
+      If communism succeeds relative to its stated goals, theories based on the universal validity of property rights are incorrect
+    </td>
+  </tr>
+</table>
 
-Table: Theories of physics and biology and of UPB
+<p>
+  Table: Theories of physics and biology and of UPB
+</p>
 
-In conclusion, it is safe to say that (a) moral rules are valid, and (b) moral theories must be subjected to the rigours of logic and evidence, just as theories of physics and biology are. Any moral theory based on non-universal or self-contradictory principles is demonstrably false.
+<p>
+  In conclusion, it is safe to say that (a) moral rules are valid, and (b) moral theories must be subjected to the rigours of logic and evidence, just as theories of physics and biology are. Any moral theory based on non-universal or self-contradictory principles is demonstrably false.
+</p>
 
-#### UPB: The Framework
+<h4>
+  UPB: The Framework
+</h4>
 
-UPB can thus be seen as a framework for validating ethical theories or propositions – just as the scientific method is a framework that is used to validate scientific theories or propositions.
+<p>
+  UPB can thus be seen as a framework for validating ethical theories or propositions – just as the scientific method is a framework that is used to validate scientific theories or propositions.
+</p>
 
-An example of a moral proposition is: “the initiation of the use of force is wrong.” UPB is the methodology that tests that proposition against both internal consistency and empirical observation. UPB thus first asks: *is the proposition logical and consistent?* UPB then asks: *what evidence exists for the truth of the proposition?*
+<p>
+  An example of a moral proposition is: “the initiation of the use of force is wrong.” UPB is the methodology that tests that proposition against both internal consistency and empirical observation. UPB thus first asks: <em>is the proposition logical and consistent?</em> UPB then asks: <em>what evidence exists for the truth of the proposition?</em>
+</p>
 
-To keep this book at a reasonable length, we will in general deal mostly with the first criterion of logical consistency. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+<p>
+  To keep this book at a reasonable length, we will in general deal mostly with the first criterion of logical consistency. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+</p>
 
-Let us now turn to the question of whether the UPB framework deals with matters of *ethics*, or *aesthetics*, or both.
+<p>
+  Let us now turn to the question of whether the UPB framework deals with matters of <em>ethics</em>, or <em>aesthetics</em>, or both.
+</p>
 
-[^7]: The same goes, of course, for murder and assault. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
-
-[^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
+<footnotes>
+  <fn name="7">
+    <p>
+      The same goes, of course, for murder and assault. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
+    </p>
+  </fn>
+  
+  <fn name="8">
+    <p>
+      Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
+    </p>
+  </fn>
+</footnotes>
