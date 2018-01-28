@@ -110,7 +110,7 @@ La "zona nula" es la guarida de la bestia que cazamos.
 
 Como podemos ver, sabemos que personalmente es un error robar; tenemos muy pocos problemas con una prohibición abstracta y lógica del robo, como hemos resuelto anteriormente; sin embargo, aún existe esta "zona nula" o universo alternativo donde tales oposiciones pueden aceptarse sin ninguna pregunta o preocupación.
 
-Según UPB, es malo para mí y para ti robar. Sin embargo, de alguna manera, en esta "zona nula", no solo está permitido, sino también perfectamente * moral *, para otros robar. Nosotros * no debemos * robar, ellos * deben * robar. ¡Es una locura moral!
+Según CUP, es malo para mí y para ti robar. Sin embargo, de alguna manera, en esta "zona nula", no solo está permitido, sino también es perfectamente * moral *, para otros robar. Nosotros * no debemos * robar, ellos * deben * robar. ¡Es una locura moral!
 
 ### Policías
 
@@ -118,17 +118,17 @@ Vamos a sacar a nuestro buen amigo Bob de su pequeña sala de pruebas de teoría
 
 Claramente, cuando Bob se despierta por la mañana, antes de su turno, no puede ir a la casa de su vecino y exigir dinero a punta de pistola, sin importar quién le diga que todo está bien.
 
-Cuando Bob desayuna, tampoco puede atacar a su vecino y llevarse su dinero. En su camino hacia el trabajo, aunque se haya puesto su uniforme, todavía no ha entrado en el mercado y, por lo tanto, no tiene más derechos que ningún otro ciudadano. Sin embargo, cuando interviene, como si descendiera un pilar de fuego amoral de los mismos cielos, gana la asombrosa habilidad de atacar moralmente a sus vecinos y tomar su dinero.
+Cuando Bob desayuna, tampoco puede atacar a su vecino y llevarse su dinero. En su camino hacia el trabajo, aunque se haya puesto su uniforme, todavía no ha entrado a laborar, y por lo tanto, no tiene más derechos que los otro ciudadano. Sin embargo, cuando entra a trabajar, como si descendiera un pilar de fuego amoral de los mismos cielos, gana la asombrosa habilidad de atacar moralmente a sus vecinos y tomar su dinero.
 
-Extrañamente, esta es la única característica suya que se ha invertido por completo. El no puede volar, no puede cambiar su forma, no puede digerir con éxito los cojinetes de bolas o vivir en un infierno; no puede correr mil kilómetros por hora, y tampoco puede atravesar una pared de ladrillos. Él es absolutamente, total y completamente * el mismo hombre que era ** antes ** de haber sido golpeado *; sin embargo, ahora, está sujeto a reglas morales completamente opuestas.
+Extrañamente, esta es la única característica suya que se ha invertido por completo. El no puede volar, no puede cambiar su forma, no puede digerir los aceros de los cojinetes o vivir en un infierno; no puede correr mil kilómetros por hora, y tampoco puede atravesar una pared de ladrillos. Él es absolutamente, total y completamente * el mismo hombre que era ** antes ** de haber entrado a trabajar *; sin embargo, ahora, está sujeto a reglas morales completamente opuestas.
 
-Aún más extraño, si no soy un "policía", pero sigo a Bob para trabajar, y hago exactamente lo que hace: me pongo un uniforme, entro en la estación de policía y pongo un cartón en un reloj de pulsera - ¿Por qué? Si hago exactamente lo que hace Bob, estoy completa y totalmente inmoral, aunque las acciones idénticas de Bob son completa y totalmente * morales *.
+Aún más extraño, si no soy un "policía", pero sigo a Bob para trabajar, y hago exactamente lo que hace: me pongo un uniforme, entro en la estación de policía y me presento para trabajar como tal - ¿Por qué? Si hago exactamente lo que hace Bob, soy completa y totalmente inmoral, aunque las acciones idénticas de Bob son completa y totalmente * morales *.
 
 ¿Qué sentido tiene esto? ¿Cómo podemos desentrañar este misterio impenetrable?
 
-El simple hecho es que * no se puede * desenredar, porque está completamente desquiciado. El hecho de que esta locura moral del "mundo opuesto" sea completamente irracional, por no mencionar violentamente explotadora, es tan obvia que debe ser enterrada en una interminable cabalgata de "voluntarismo" mitológico
+El simple hecho es que * no se puede * revelar, porque todo esto es una completa locura. El hecho de que esta locura moral del "mundo opuesto" sea completamente irracional, por no mencionar violentamente explotadora, es tan obvia que debe ser enterrada en una interminable cabalgata de "voluntarismo" mitológico
 
-Nos dicen que "queremos" que Bob se lleve nuestro dinero, lo cual contradice por completo el hecho de que Bob aparece en la puerta de nuestra casa y apunta con una pistola cargada en nuestra cara. Según esta lógica, también puedo ir y venir por la calle robando dinero a mis vecinos, y luego declarar que estoy completamente conmocionado cuando soy arrestado:
+Nos están diciendo que "queremos" que Bob se lleve nuestro dinero, lo cual contradice por completo el hecho de que Bob aparece en la puerta de nuestra casa y apunta con una pistola cargada en nuestra cara. Según esta lógica, también puedo ir y venir por la calle robando dinero a mis vecinos, y luego declarar que estoy completamente conmocionado cuando sea arrestado:
 
 "Ellos * quieren * que tome su dinero"
 
@@ -144,21 +144,21 @@ Nos dicen que "queremos" que Bob se lleve nuestro dinero, lo cual contradice por
 
 "¡Tenemos un contrato!"
 
-"¿Puedes mostrarme este contrato? ¿Han firmado este contrato por su propia voluntad
+"¿Puedes mostrarme este contrato? ¿Han firmado este contrato a voluntad?"
 
-"¡No es ese tipo de contrato! Es un contrato * social *... Y además, de acuerdo con ese contrato social, soy dueño de toda la calle de todos modos, ¡todo el maldito vecindario de hecho! Cualquiera que se niegue a pagarme mi dinero puede mudarse a otra parte. ¡No estoy forzando a nadie
+"¡No es ese tipo de contrato! Es un contrato * social *... Y además, de acuerdo con ese contrato social, de todos modos soy dueño de toda la calle, ¡de todo el maldito vecindario de hecho! Cualquiera que se niegue a pagarme mi dinero puede mudarse a otra parte. ¡No estoy forzando a nadie
 
 "¿Y cómo sabes que eres dueño de todo el vecindario? ¿Tienes documentos de propiedad?"
 
 "Sí, por supuesto, ¡mira aquí!"
 
-"Bueno, esto es solo una nota escrita a mano que dice que usted es dueño de todo el vecindario, y es la misma escritura que su firma. Me temo que vamos a tener que reservarlo, este es solo un contrato inventado contigo mismo, que estás infligiendo a otras personas a punta de pistola."
+"Bueno, esto es solo una nota escrita a mano que dice que eres el dueño de todo el vecindario, y es la misma escritura que tu firma. Me temo que vamos a tener que guardarlo, este es solo un contrato inventado contigo mismo, y estas infligiendo a otras personas a punta de pistola."
 
-Esto es completamente loco y corrupto como continuar contándole a una mujer que estoy violando, que ella * quiere * tener sexo conmigo. ¿Te imaginas si fui juzgado por violación, y había una cinta de video de la mujer rogándome que parara, y tenía un cuchillo en la garganta, cómo se recibiría mi defensa si continuaba insistiendo en que ella realmente * quería * tener sexo conmigo?
+Esto es completamente loco y corrupto, como si yo le dijera a una mujer que la estoy violando y *ella quiere* tener sexo conmigo. ¿Te imaginas si fui juzgado por violación, y había una cinta de video de la mujer rogándome que parara, y tenía un cuchillo en la garganta, cómo se recibiría mi defensa si continuaba insistiendo en que ella realmente * quería * tener sexo conmigo?
 
 En el tribunal, me injuriarían y me meterían a la cárcel por mi hipocresía obvia, loca, corrupta y egoísta.
 
-Ah, pero en la "zona nula" del gobierno, la violación es hacer el amor, el secuestro es una invitación, rechazar el robo es el mal egoísmo, y la coerción es la bondad.
+Ah, pero en la "zona nula" del gobierno, la violación es hacer el amor, el secuestro es una invitación, rechazar el robo es egoísmo malvado, y la coerción es la bondad.
 
 Esto es lo que quiero decir cuando digo que este "mundo opuesto * zona nula *" es la barrera más fundamental para la felicidad humana en todo el mundo. Robar es malo para nosotros; robar es incorrecto en abstracto, ¿pero el robo es de alguna manera "correcto" en este insano universo alternativo llamado "gobierno"?
 
