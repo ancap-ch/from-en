@@ -2,7 +2,7 @@
 
 *谎言*的问题很有趣，因为讲真话通常被认为是普遍可取的，但不能通过暴力手段来强制执行。
 
-It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
+它通常被认为是比“准时”严格的要求*多*，但比“盗窃”严格的要求*少*。UPB框架对此如何解释呢？
 
 Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
 
