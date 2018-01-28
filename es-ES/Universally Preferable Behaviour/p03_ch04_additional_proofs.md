@@ -30,6 +30,6 @@ La iniciativa al uso de la fuerza siempre es contraria a cualquier teoría moral
 
 Dado que la fuerza viola el requisito moral de * evitar * - y la falta de evitación siempre genera mala calidad - CUP nos ayudaría a predecir fácilmente que las escuelas públicas proporcionarían educación de baja calidad.
 
-Además, la CUP también nos habría ayudado a predecir que, a medida que se utilizara más y más fuerza en el ámbito de la educación pública, a medida que aumentaran los impuestos, las compulsiones sindicales, la calidad de la educación provista empeoraría cada vez más.
+Además, CUP también nos habría ayudado a predecir que, a medida que se utilizara más y más fuerza en el ámbito de la educación pública, a medida que se aumenten los impuestos, las compulsiones sindicales y así sucesivamente escalando, la calidad de la educación provista empeoraría cada vez más.
 
-Esto, por supuesto, fue y es exactamente el caso.
+Esto, por supuesto, fue – y es – exactamente el caso.
