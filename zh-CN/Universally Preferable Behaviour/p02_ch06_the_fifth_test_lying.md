@@ -28,11 +28,11 @@
 
 谎言，然而，不需要实施武力，所以并不违反*可避免性*的可能性。既然骗子是可以避免的，他们就不可能在逻辑上被攻击。
 
-Lying also fits more closely in the category of *violence*, insofar as it is moral to lie in self-defence, just as it is moral to use violence in self-defence It is hard to think of a situation where one would have to “be late” in self-defence, or “be rude.” However, if a man bursts into your house and demands to know where your beloved wife is so he can slap her around, it would seem a parody of integrity to refuse to lie to him. Lying in this case would be a form of third-party self-defence, and as morally acceptable as the use of violence in self-defence Similarly, if a man obtains a hundred dollars from us by lying, we may justly lie to him to get it back.
+谎言也更符合*暴力*的范畴，只要是出于自卫的谎言便是道德的，正如在自卫中使用暴力一样是道德的，很难想象一种情况当一个人“迟到”需要自卫，或是因为“耍横无礼”。然而，如果一个男人闯进你的家要求知道你深爱的妻子在哪里，这样他就可以打她，而拒绝对他撒谎似乎是对正直的嘲弄。 在这种情况下说谎是第三方自卫的一种形式，在道义上是可以接受的，正如自卫中使用暴力一样，如果一个人通过说谎从我们身上得到一百美元，我们同样可以通过说谎把钱骗回来。
 
-Thus we may justly lie to a liar, just as we may justly defend ourselves from a punch with a punch, but we would not exactly respect the escalating pettiness of “repaying” a tardy person by showing up even later.
+因此，我们可以理直气壮地对骗子说谎，就像我们可以通过以牙还牙的方式保护自己，但我们也不完全尊重那种小气的通过用来的更晚的方式“报复”迟到的人的做法。
 
-The difference is that “being late” is not as actively destructive as lying. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
+不同的是，“迟到”不像说谎那样具有很强的破坏性。 A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
 
 Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
 
