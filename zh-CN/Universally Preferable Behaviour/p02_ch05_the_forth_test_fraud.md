@@ -18,11 +18,11 @@
 
 UPB破坏了这种可能性，因为没有有效的道德理论可以在相同的情况下需要相反的行动。
 
-如果道格对鲍勃进行欺诈的理由是“为了得到你想要的东西而说谎是好的”，那么显然诚实也是好的，因为除非别人愿意相信你的诚实，否则你不可能通过说谎得到你想要的东西。 Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
+如果道格对鲍勃进行欺诈的理由是“为了得到你想要的东西而说谎是好的”，那么显然诚实也是好的，因为除非别人愿意相信你的诚实，否则你不可能通过说谎得到你想要的东西。 因此，除非别人以诚行事，否则为了得到你想要的东西而说谎是好的这样的前提无法实现-因此说谎和诚实同时地存在是道德原则得以实现的必要条件。 这在逻辑上无法成立-一个行为*和它完全相反的*行为在同样的地点，同样的人，同样的时间，同时地道德。
 
-This is how we know that fraud is wrong.
+这就是我们如何知道欺诈是错误的。
 
-Again, knowing that fraud is “wrong” simply means that we know that any moral theory that justifies fraud is invalid, because it is self-contradictory. If we build a bridge, and the bridge falls down, we know that the bridge was “wrong” – but the most important thing that we can learn from this disaster is not that the bridge fell down, but to understand the flaws in the theory that caused us to build a bridge that fell down. Similarly, moral theories that cause disasters, such as communism, fascism and Nazism, are important to evaluate relative to UPB not only so we can understand how they went so wrong, but also how to fix our moral theories in the future. Since as a species, we will be forever building bridges, it is essential that we get our facts and theories right, or they will endlessly fall down around us.
+此外，知道欺诈是“错误的”只是意味着我们知道任何证明欺诈的道德理论都是无效的，因为它是自相矛盾的。 If we build a bridge, and the bridge falls down, we know that the bridge was “wrong” – but the most important thing that we can learn from this disaster is not that the bridge fell down, but to understand the flaws in the theory that caused us to build a bridge that fell down. Similarly, moral theories that cause disasters, such as communism, fascism and Nazism, are important to evaluate relative to UPB not only so we can understand how they went so wrong, but also how to fix our moral theories in the future. Since as a species, we will be forever building bridges, it is essential that we get our facts and theories right, or they will endlessly fall down around us.
 
 However, the question remains whether fraud is evil, or just an aesthetically negative action (ANA).
 
