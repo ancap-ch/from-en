@@ -61,19 +61,19 @@ La cuarta opción es que la mayoría de las personas son buenas y solo unas poca
 
 Es claro, entonces, que no hay ninguna situación bajo la cual un gobierno pueda permitirse lógicamente o moralmente existir. La única justificación posible para la existencia de un gobierno sería si la mayoría de los hombres son malvados, pero todo el poder del gobierno siempre está controlado por una minoría de hombres buenos. [^8]
 
-Esta situación, aunque interesante teóricamente, se descompone lógicamente porque:
+Esta situación, aunque interesante teóricamente, se descompone lógicamente, porque:
 
-1. La mayoría malvada superaría rápidamente a la minoría o los dominaría a través de un golpe;
+1. La mayoría malvada superaría rápidamente a la minoría o los dominaría a través de un golpe de estado;
 2. No hay forma de garantizar que solo las personas buenas dirijan siempre el gobierno; y,
-3. No hay absolutamente ningún ejemplo de que esto haya ocurrido en ninguno de los anales brutales de la historia del estado.
+3. No hay absolutamente ningún ejemplo de que esto haya ocurrido en ninguno en los brutales anales de la historia del estado.
 
 El error lógico que siempre se comete en la defensa del gobierno es imaginar que cualquier juicio moral colectivo que se aplique a un grupo de personas * tampoco se aplique al grupo que las gobierna *. Si el cincuenta por ciento de las personas son malvadas, entonces * al menos * el cincuenta por ciento de las personas que las dominan también son malvadas. [^9] Por lo tanto, la existencia del mal nunca puede justificar la existencia de un gobierno.
 
-Si no hay maldad, los gobiernos son innecesarios. Si existe el mal, los gobiernos son demasiado peligrosos para que se les permita existir.
+Si no hay maldad, los gobiernos son innecesarios. Si el mal existe, los gobiernos son demasiado peligrosos para que se les permita existir.
 
 ¿Por qué este error es tan frecuente?
 
-Hay una serie de razones, que solo se pueden tocar aquí. El primero es que el gobierno se presenta a los niños en la forma de maestros de escuelas públicas que se consideran autoridades morales. Así, la * moralidad * y * autoridad * se asociaron primero con el gobierno, una asociación que luego se refuerza a través de años de repetición.
+Hay una serie de razones, que solo se pueden tocar acá. El primero es que el gobierno es presentado a los niños en la forma de maestros de escuelas públicas que se consideran autoridades morales. Así, la *moralidad* y *autoridad* se asociaron primero con el gobierno, una asociación que luego se refuerza a través de años de repetición.
 
 El segundo es que el gobierno nunca les enseña a los niños sobre la raíz de su poder, la violencia, sino que pretende que se trate simplemente de otra institución social, como un negocio, una iglesia o una organización benéfica, pero más moral.
 
