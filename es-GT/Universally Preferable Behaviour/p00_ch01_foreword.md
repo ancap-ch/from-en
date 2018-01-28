@@ -22,19 +22,19 @@ El costo para la humanidad ha sido enorme.
 
 Como hemos sido incapaces de definir un sistema racional de moralidad universal, nos hemos visto obligados a infligir historias de horror religioso sobre nuestros hijos, o dar armas, prisiones y ejércitos a un pequeño monopolio de controladores desalmados que se llaman a sí mismos "el Estado"
 
-Puesto que lo que llamamos "ética" sigue siendo subjetivo y meramente *cultural*, inevitablemente terminamos confiando en la intimidación, el miedo y la violencia para hacer cumplir las reglas sociales. Ya que la ética carece de base racional en el método científico, la "moralidad" permanece atascada en una guerra tribal de mitologías sangrientas, con cada pandilla luchando con dientes y uñas por el control sobre la lealtad de la gente a la "virtud."
+Puesto que lo que llamamos "ética" sigue siendo subjetivo y meramente *cultural*, inevitablemente terminamos confiando en la intimidación, el miedo y la violencia para hacer cumplir las reglas sociales. Ya que la ética carece de la base racional del método científico, la "moralidad" permanece atascada en una guerra tribal de mitologías sangrientas, cada pandilla peleando con uñas y dientes por el control de la lealtad de la gente a la "virtud"
 
-No podemos vivir sin moralidad, pero no podemos definir la moralidad objetivamente – así que permanecemos eternamente condenados a vidas vacías de hipocresía pomposa, dominación cínica o esclavitud piadosa.
+No podemos vivir sin moral, pero no podemos definir la moralidad objetivamente - por lo tanto, permanecemos eternamente condenados a vidas vacías de hipocresía pomposa, dominación cínica o esclavitud piadosa.
 
-Intelectualmente, no hay apuestas más altas en el mundo. Nuestro fracaso para definir normas morales objetivas y racionales ha costado cientos de millones de vidas humanas, en las guerras de religión y estados.
+Intelectualmente, no hay apuestas más altas en el mundo. Nuestro fracaso a la hora de definir reglas morales objetivas y racionales ha costado cientos de millones de vidas humanas, en las guerras de religiones y estados.
 
-En muchas formas, las apuestas se están volviendo más elevadas.
+En muchos sentidos, las apuestas son cada vez mayores.
 
-El creciente flujo de información del Internet ha elevado las sospechas a las nuevas generaciones de que aquello que llamamos "virtud" no es nada más – o menos – que cuentos de hadas autocomplacientes de sus ancestros hipócritas. Las mentiras piadosas dichas por aquellos con autoridad – y la complicidad de aquellos que los veneran – son más claras ahora que nunca antes.
+El creciente flujo de información de Internet ha levantado la sospecha de una nueva generación de que lo que se llama "virtud" no es más -o menos- que los cuentos de hadas de sus hipócritas ancianos. Las piadosas mentiras de los que están en la autoridad - y la complicidad de los que las adoran - son más claras ahora que nunca antes.
 
-La "verdad" ha sido expuesta como manipulación; la "virtud" como control; la "lealtad" como esclavitud, y lo que es llamado "moralidad" ha sido revelado como una ridículo espectáculo de marionetas diseñado para engañar a la gente débil y temerosa para esclavizarse a sí mismos.
+La "verdad" ha sido expuesta como manipulación; la "virtud" como control; la "lealtad" como esclavitud, y lo que se llama "moralidad" ha sido revelada como un ridículo espectáculo de marionetas diseñado para engañar a las personas débiles y temerosas para que se esclavicen a sí mismas.
 
-Este entendimiento ha dado a luz a una nueva generación de nihilistas, tal y como sucedió en la Alemania del siglo XIX. Estos relativistas extremos reservan sus más virulentos para cualquiera que afirme cualquier forma de certeza. Esta generación posmoderna ha sobrepasado las intolerancias culturales de su historia colectiva, pero ahora ve *toda* la verdad como mera afirmación prejudicial. Como niños con los ojos abiertos que han sido marcados en la "sabiduría" cínica, ellos ven toda comunicación como publicidad, toda afirmación como propaganda, y toda exhortación moral como robos hipócritas.
+Esta realización ha dado origen a una nueva generación de nihilistas, al igual que en la Alemania del siglo Xix. Estos relativistas extremos reservan sus ataques más vitriólicos para cualquiera que reclame algún tipo de certeza. Esta generación posmoderna ha sobrepasado las intolerancias culturales de su historia colectiva, pero ahora ve *toda* la verdad como mera afirmación prejudicial. Como niños con los ojos abiertos que han sido marcados en la "sabiduría" cínica, ellos ven toda comunicación como publicidad, toda afirmación como propaganda, y toda exhortación moral como robos hipócritas.
 
 Dado que no hay acuerdo en un marco racional, objetivo y cohesivo para evaluar las proposiciones morales, la "moralidad" permanece atascada en el misticismo, y en su inevitable corolario de violencia. Así como, antes de la Ilustración, las sectas religiosas guerrearon sin parar por el control sobre las hojas de la aristocracia, ahora lo hacen las mitologías morales compitiendo por el control del estado, y toda su maquinaria de coerción.
 
