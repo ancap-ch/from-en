@@ -10,7 +10,7 @@ Por lo tanto, si digo: "Dios existe", lo que realmente estoy diciendo es:
 
 En otras palabras, al decir "Dios existe", he creado una contradicción insuperable. Definí "existencia" como "inexistencia", que tiene tanto sentido como definir "vida" como "materia inanimada", o una piedra como "lo opuesto a una roca", o "cuadrado" como " circulo."
 
-De manera similar, si creo un universo alternativo donde "no existencia es igual a existencia" y "contradicción es igual a consistencia" y "verdad es igual a falsedad" y "irracionalidad es igual a racionalidad", entonces lo que realmente he hecho es crear un reino llamado "error" poner todo lo que no es verdad y definir este reino como un lugar donde "el error es igual a la verdad". [^2]
+De forma similar, si creo un universo alternativo donde "la no existencia es igual a la existencia" y "contradicción es igual a consistencia" y "verdad es igual a falsedad" e "irracionalidad es igual a racionalidad", entonces lo que realmente he hecho es crear un reino llamado "error", poner todo lo que no es verdad y definir este reino como un lugar donde "el error es igual a la verdad". [^2]
 
 Por supuesto, las personas no crean este "universo alternativo" para invalidar la verdad dentro de nuestro propio universo, sino más bien para rescatar lo que es erróneo en la realidad y llamarlo verdadero. Por ejemplo, nadie que argumente "Dios puede existir en otro universo, por lo que no se puede afirmar que Dios no existe" siempre argumenta que "* Yo * puedo no existir en ese otro universo, por lo que no se puede afirmar que existe aquí "
 
