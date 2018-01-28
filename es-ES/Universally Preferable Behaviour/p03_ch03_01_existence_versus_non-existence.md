@@ -64,7 +64,7 @@ Formulo estas preguntas retóricas porque de hecho son terriblemente graves. Cla
 
 "Ah", puedes decir, "pero el uniforme no es válido porque lo compraste en una tienda de segunda mano: ponerte el uniforme del soldado no te convierte en soldado más que en fotocopiar un doctorado te da un doctorado"
 
-La analogía es incorrecta, porque tener un Ph.D. o fotocopiar un doctorado no cambia ninguna de las reglas morales a las que está sujeto como ser humano.
+La analogía es incorrecta, porque tener un doctorado o fotocopiar un doctorado no cambia ninguna de las reglas morales a las que se está sujeto como ser humano.
 
 "Bueno", puedes responder ", pero la diferencia es que el soldado posee los derechos morales que le brinda el ciudadano promedio, en aras de la autodefensa colectiva y demás"
 
@@ -72,35 +72,35 @@ Esto plantea un punto muy interesante, que es la cuestión de si las opiniones p
 
 ### Opiniones y Realidad
 
-Claramente, entendemos que, a través de mi opinión, no puedo liberarte de las restricciones de la gravedad, así como mi opinión de que "dos más dos equivale a cinco" lo hace cierto.
+Claramente, entendemos que, a través de mi opinión, no puedo liberarte de las restricciones de la gravedad, así como que mi opinión de que "dos más dos equivale a cinco" tampoco lo hace cierto.
 
 Las "opiniones" son aquellas creencias que no tienen una evidencia clara en la realidad, o para las cuales no se puede proporcionar una evidencia clara, o que son expresiones de preferencias meramente personales. Mi opinión personal es que prefiero el helado de chocolate a la vainilla. También puedo tener una "opinión" de que Islandia es un paraíso tropical, o que Dios existe, o que la lluvia cae hacia arriba. Las opiniones personales claramente no tienen nada que ver con la moralidad; las opiniones que pretenden describir con precisión la realidad, pero que no lo son, son simplemente prejuicios incorrectos. Creer que la lluvia cae hacia arriba no revierte su curso; llevar una camiseta hawaiana a Islandia no hace que Reykjavik sea más cálido.
 
-Por lo tanto, creer que el asesinato es moralmente bueno no hace que el asesinato sea moralmente bueno. Dado que mis creencias sobre un ser humano no cambian su naturaleza moral, mi creencia de que sus asesinatos son virtuosos no cambia la virtud de sus acciones. Si cierro los ojos e imagino que eres una lagartija, no de repente pierdes tu capacidad de regular la temperatura de tu propio cuerpo. Imaginar que eres un pez no evita tu necesidad de equipo de buceo.
+Por lo tanto, creer que el asesinato es moralmente bueno no hace que el asesinato sea moralmente bueno. Dado que mis creencias sobre un ser humano no cambian su naturaleza moral, mi creencia de que sus asesinatos son virtuosos no cambia la virtud de sus acciones. Si cierro los ojos e imagino que eres una lagartija, no de repente pierdes tu capacidad de regular la temperatura de tu propio cuerpo. Imaginar que eres un pez no evita tu necesidad de utilizar equipo de buceo.
 
 Las opiniones no cambian la realidad.
 
-Debido a que las opiniones no cambian la realidad, no puedo otorgarle ninguna excepción o revocación con respecto a una regla moral universal. Como las reglas morales se basan en la lógica universal, así como en la naturaleza física y la realidad de un ser humano, no puedo otorgarle el "derecho al asesinato", como tampoco le puedo otorgar la capacidad de levitar, caminar sobre el agua o con precisión. di que dos y dos son cinco.
+Debido a que las opiniones no cambian la realidad, no puedo otorgarle ninguna excepción o revocación con respecto a una regla moral universal. Como las reglas morales se basan en la lógica universal, así como en la naturaleza física y la realidad de un ser humano, no puedo otorgarle el "derecho al asesinato", como tampoco le puedo otorgar la capacidad de levitar, caminar sobre el agua o con precisión decir que dos y dos son cinco.
 
 ### Gobierno como voluntarismo
 
 La fuerza abierta involucrada en la institución del gobierno -el envoltorio conceptual que revierte las reglas morales para un grupo particular de individuos- es algo que siempre se mantiene fuera de la mesa en los debates. Cuando se habla de gobierno, nunca se considera positivo señalar "la pistola en la habitación". Casi por definición, se considera que los gobiernos son elegidos por y para las personas y funcionan con su aprobación expresa o implícita.
 
-Sin embargo, esto es pura tontería.
+Sin embargo, esto es una gran tontería.
 
 Si un hombre sostiene un cuchillo en la garganta de una mujer mientras tiene relaciones sexuales con ella, eso es, por definición, un acto de violación. El no puede decir que el sexo es consensual, mientras que al mismo tiempo la amenaza con lesiones o la muerte si se niega a tener relaciones sexuales con él. Si el sexo es voluntario, entonces el cuchillo es completamente innecesario. Si el hombre siente la necesidad de un cuchillo, entonces claramente el sexo * no * es voluntario.
 
-De la misma manera, las personas dicen que los impuestos son parte del contrato social que voluntariamente han acordado.
+De esa misma forma, las personas dicen que los impuestos son parte del contrato social que voluntariamente han acordado.
 
 Esto es lógica y empíricamente falso.
 
-Sabemos que es empíricamente falso porque * no existe un contrato social *. Ni usted ni yo * alguna vez * firmamos un documento que acepta voluntariamente el impuesto a la renta: simplemente nacimos en un sistema que nos quita nuestro dinero a punta de pistola.
+Sabemos que es empíricamente falso porque * no existe un contrato social *. Ni usted ni yo * alguna vez * firmamos un documento que acepta voluntariamente el impuesto a la renta, simplemente nacimos en un sistema que nos quita nuestro dinero a punta de pistola.
 
 ### El arma en la habitación
 
 Mucha gente argumentará en este punto que los impuestos no se aplican a punta de pistola, sino que la gente los paga voluntariamente. Por ejemplo, un recaudador de impuestos o un policía nunca me han apuntado con una pistola en la cara, pero he pagado impuestos durante décadas.
 
-Esto puede ser cierto, pero es completamente irrelevante. Si le digo a una mujer que voy a matar a sus hijos si ella no tiene relaciones sexuales conmigo, y ella se somete a mí, entendemos claramente que se ha llevado a cabo una acción inmoral, a pesar de que no he usado ningún arma en mi violación. Claramente, si la mujer se somete a mí, es porque teme llevar a cabo mi amenaza. Si le digo que mi duende leprechaun matará a sus hijos si no tiene relaciones sexuales conmigo, es muy probable que la moleste, pero no temería a mi amenaza de manera significativa, ya que es imposible que mi duende leprechaun mate a sus niños. O, si moría, y mi voluntad declaraba que mataría a los hijos de esta mujer si ella no tenía relaciones sexuales conmigo, es evidente que se sentiría aliviada en lugar de temer, ya que no puedo concebir mi amenaza más allá de la tumba. Por lo tanto, pagamos impuestos porque sabemos que si no lo hacemos, la probabilidad de ser atacados por representantes del estado es muy alta. Si no pago mis impuestos, recibiré una carta, luego otra carta, luego una llamada telefónica, luego una citación judicial, y si no comparezco ante el tribunal, o no pago mis impuestos atrasados y las multas e intereses acumulados, los policías vendrán con pistolas para llevarme a la cárcel. Si me opongo a esos policías, me dispararán.
+Esto puede ser cierto, pero es completamente irrelevante. Si le digo a una mujer que voy a matar a sus hijos si ella no tiene relaciones sexuales conmigo, y ella se somete a mí, entendemos claramente que se ha llevado a cabo una acción inmoral, a pesar de que no he usado ningún arma en mi violación. Claramente, si la mujer se somete a mí, es porque teme que lleve a cabo mi amenaza. Si le digo que mi duende leprechaun matará a sus hijos si no tiene relaciones sexuales conmigo, es muy probable que la moleste, pero no temería a mi amenaza de manera significativa, ya que es imposible que mi duende leprechaun mate a sus niños. O, si moría, y mi voluntad declaraba que mataría a los hijos de esta mujer si ella no tenía relaciones sexuales conmigo, es evidente que se sentiría aliviada en lugar de temer, ya que no puedo concebir mi amenaza más allá de la tumba. Por lo tanto, pagamos impuestos porque sabemos que si no lo hacemos, la probabilidad de ser atacados por representantes del estado es muy alta. Si no pago mis impuestos, recibiré una carta, luego otra carta, luego una llamada telefónica, luego una citación judicial, y si no comparezco ante el tribunal, o no pago mis impuestos atrasados y las multas e intereses acumulados, los policías vendrán con pistolas para llevarme a la cárcel. Si me opongo a esos policías, me dispararán.
 
 Decir que la fuerza es igual al voluntarismo es completamente ilógico y contradictorio. Decir que la iniciación del uso de la fuerza es completamente igual a la no iniciación del uso de la fuerza es decir que arriba está abajo, el negro es blanco y la verdad es falsedad.
 
