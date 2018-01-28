@@ -1,6 +1,6 @@
 Hay limitaciones para el modelo económico estándar de las curvas de oferta y demanda que se cruzan para revelar el precio y cantidad óptima o de equilibrio de un bien. Esas limitaciones, como bien saben los austriacos, se deben a suposiciones irreales. Pero notar que las suposiciones están fuera de este mundo no es suficiente, especialmente si los modelos son utilizados para explicar un mundo que no coincide con las suposiciones. La aplicación de los modelos simplificados, los cuales revelan hechos importantes acerca de cómo funciona la economía, tiende a llevar a muchos economistas por el camino equivocado.
 
-# Aumentar los costos a los productores no aumenta los precios
+# Aumentar los costos a los productores no aumenta los precios  
 
 Un [episodio reciente de EconTalk](http://www.econtalk.org/archives/2017/02/tom*wainwright.html), en el cual el presentador Russ Roberts entrevista al periodista y autor Tom Wainwright acerca del *Economista* en su reciente libro *[Narcoeconomías](https://www.amazon.com/Narconomics-How-Run-Drug-Cartel/dp/1610395832/?tag=misesinsti-20)*, ilustra con cuánta facilidad la lógica Econ 101 puede ser engañosa. Aunque vale la pena escuchar el episodio y la discusión es tanto interesante como informativa, una parte importante al principio está dedicada a discutir el problema del precio de drogas ilegales. Notando una aparente "paradoja" y el argumento "fantástico" del autor, Roberts y Wainwright se embarcan y quedan atrapados en una discusión que es fundamentalmente defectuosa y, por lo tanto, puede engañar a los oyentes.
 
@@ -10,7 +10,7 @@ El ejemplo ilustra la paradoja de lo que está pasando en el "negocio" de las dr
 
 El problema con el argumento es que depende del análisis del equilibrio simple en los modelos de oferta y demanda utilizados en los cursos de Econ 101 para estudiantes del primer año universitario. Y eso no se aplica realmente aquí. Si los mercados de los cuadros y de las drogas ilegales han estado en equilibrio, puede de hecho haber una paradoja. Pero éste no es el caso, *especialmente* en estos mercados.
 
-Además, en un estado de equilibrio, los costos reflejan perfectamente los costos de oportunidad social, y la competencia ¨perfecta¨ combina el precio y el costo para que nadie pueda obtener ganancias económicas. En otras palabras, no hay diferencia entre precio y costo. En consecuencia, no hay razón para distinguir en esta teoría temporal, o casualmente parecen estar determinados de manera instantánea y precisa. Esta es también la forma en que son tratados en varios modelos de economía que los estudiantes aprenden a ¨maximizar.¨
+Además, en un estado de equilibrio los costos reflejan perfectamente los costos de oportunidad social, y la competencia "perfecta" une el precio y el costo para que nadie pueda obtener beneficios económicos. En otras palabras, no hay ninguna diferencia entre precio y costo. En consecuencia, en esta teoría no hay razón de distinguir entre ellos temporal o causalmente —  ellos parecen estar resueltos instantáneamente y con exactitud. Esta es también la forma en que son tratados en varios modelos de economía que los estudiantes aprenden a ¨maximizar.¨
 
 # El precio impulsa el costo - no a la inversa  
 
