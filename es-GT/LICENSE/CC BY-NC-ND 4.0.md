@@ -18,40 +18,40 @@ Al ejercer los Derechos de Licencia (definidos a continuación), Usted acepta y 
 
 ### Sección 1 - Definiciones.
 
-a. **Material Adaptado** significa material sujeto a derechos de autor y derechos similares que se deriva o se basa el Material Licenciado y en el que el Material Licenciado es traducido, alterado, arreglado, transformado, o de otra manera modificado de una manera que requiera permiso bajo los derechos de autor y derechos similares en poder del Licenciante. Para propósitos de esta Licencia Pública, donde el Material Licenciado es un trabajo musical, rendimiento, o grabación de sonido, el Material Adaptado es producido siempre donde el Material Licenciado está sincronizado con una imagen en movimiento, en una relación temporal.
+a. **Material Adaptado** significa que es el material sujeto a Derechos de Autor y Derechos Similares que se deriva del Material Autorizado o se basa en él y en el que el Material Autorizado es traducido, alterado, transformado o modificado de cualquier otra forma que requiera permiso en virtud de los Derechos de Autor y Derechos Similares que posee el Licenciante. Para los propósitos de esta Licencia Pública, donde el Material Autorizado es una obra musical, interpretación o grabación de sonido, el Material Adaptado siempre se produce donde el Material Autorizado se sincroniza en relación cronometrada con una imagen en movimiento.
 
-b. **Derechos de Autor y Derechos Similares** significa derechos de autor y/o derechos similares estrechamente relacionados con derechos de autor incluyendo, sin limitaciones, rendimiento, transmisión, grabación de sonido, y Sui Generir derechos de base de datos, sin tener en cuenta cómo los derechos están etiquetados o categorizados. Para los propósitos de esta Licencia Pública, los derechos especificados en la Sección 2(b) (1)-(2) no son Derechos de autor y Derechos Similares.
+b. **Derechos de Autor y Derechos Similares** significa que los derechos de autor y/o derechos similares estrechamente relacionados con los derechos de autor, incluyendo, sin limitación, la interpretación o ejecución, la emisión, la grabación de sonido y los Derechos de Base de Datos Sui Generis, sin importar cómo se etiqueten o categoricen los derechos. Para propósitos de esta Licencia Pública, los derechos especificados en la Sección 2 (b)(1)-(2) no son Derechos de Autor y Derechos Similares.
 
-c. **Medidas Tecnológicas Efectivas** significa aquellas medidas que, en la ausencia de una autoridad adecuada, no puede ser eludido por las leyes que cumplen las obligaciones bajo el artículo 11 del Tratado de Derechos de Autor WIPO adoptado el 20 de diciembre de 1996, y/o acuerdos internacionales similares.
+e. **Medidas Tecnológicas Efectivas** Son aquellas medidas que, a falta de una autoridad apropiada, no pueden eludirse por las leyes que cumplan con las obligaciones establecidas en el Artículo 11 del Tratado de la OMPI sobre Derecho de Autor adoptado el 20 de diciembre de 1996, y/o acuerdos internacionales similares.
 
-f. **Excepciones y Limitaciones** significa el uso justo, trato justo, y/o alguna otra excepción o limitación de Derechos de Autor y Derechos Similares que aplique a su uso del Material Licenciado.
+f. **Excepciones y Limitaciones** significa el uso justo, trato justo, y/o cualquier otra excepción o limitación a los Derechos de Autor y Derechos Similares que se aplica a el uso de su Material Autorizado.
 
-h. **Material Licenciado** significa el trabajo artístico o literario, la base de datos, u otro material al que el licenciante le aplique esta Licencia Pública.
+h. **Material con licencia** significa el trabajo artístico o literario, base de datos u otro material al que el Licenciante aplicó esta Licencia Pública.
 
-i. **Derechos Licenciados** significa los derechos otorgados a usted, sujetos a los términos y condiciones de esta Licencia Pública, que están limitados a todos los Derechos de autor y Derechos Similares que aplica a su uso del Material Licenciado y que el Licenciante tiene la autoridad para licenciar.
+i. **Derechos de Licencia** significa los derechos que se le otorgan a usted sujeto a los términos y condiciones de esta Licencia Pública, que se limitan a todos los Derechos de Autor y Derechos Similares que se aplican al Uso del Material Autorizado y que el Licenciante tiene autoridad para otorgarle la licencia.
 
-h. **Licenciante** significa el individuo(s) o entidad(es) que otorgan los derechos bajo esta Licencia Pública.
+h. **Licenciante** significa el individuo(s) o entidad(es) que otorga los derechos bajo esta Licencia Pública.
 
-i. **NoComercial** significa que no está destinados a, o dirigidos principalmente hacia la ventaja comercial o compensación monetaria. Para los propósitos de esta Licencia Pública, el intercambio del Material Licenciado por otro material sujeto a los Derechos de Autor y Derechos Similares por intercambio de material digital o similares significa distribución NoComercial siempre que no haya pago de compensación monetaria en relación con el intercambio.
+i. **No comercial** significa que no está destinado o dirigido principalmente a obtener una ventaja comercial o una compensación monetaria. Para los propósitos de esta Licencia Pública, el intercambio del Material Autorizado por otro material sujeto a Derechos de Autor y Derechos Similares mediante el uso compartido de archivos digitales o medios similares no es comercial siempre y cuando no se pague una compensación monetaria en relación con el intercambio.
 
-j. **Compartir** significa proveer material al público por cualquier medio o procedimiento que requiera permiso bajo los Derechos Licenciados, como la reproducción, exhibición pública, representación pública, distribución, difusión, comunicación, o importación, y hacer el material disponible al público incluyendo formas en que los miembros del público puedan acceder al material desde un lugar y en un momento elegido individualmente por ellos.
+j. **Compartir** significa proporcionar material al público por cualquier medio o proceso que requiera permiso en virtud de los Derechos Autorizados, como la reproducción, exhibición pública, presentación pública, distribución, difusión, comunicación o importación, y poner el material a disposición del público, incluyendo las formas en que los miembros del público pueden acceder al material desde un lugar y en un momento individualmente escogido por ellos.
 
-k. **erechos de la base de datos Sui Generis** significa derechos distintos del derecho de autor derivados de la Directiva 96/9/EC del Parlamento Europeo y del Concejo del 11 de marzo de 1996 de la protección legal de las bases de datos, como enmendado y/o exitoso, así como otros derechos esencialmente equivalentes en cualquier parte del mundo.
+k. **Derechos de base de dato sui Generis** se entiende que son los derechos distintos de los derechos de autor derivados de la Directiva 96/9/CE del Parlamento Europeo y del Consejo, de 11 de marzo de 1996, relativa a la protección jurídica de las bases de datos, en su versión modificada o completada, así como otros derechos esencialmente equivalentes en cualquier parte del mundo.
 
-l. **Tú** significa el individuo o entidad ejerciendo los Derechos Licenciados bajo esta Licencia Pública. Su, tiene un significado correspondiente.
+l. **Usted** significa el individuo o entidad que ejerce los Derechos Licenciados bajo esta Licencia Pública. Su, tiene un significado correspondiente.
 
-### Sección 2 – Alcance.
+### Sección 2 -Alcance.
 
-a. ***Concesión de la Licencia.***
+a. ***Concesión de Licencia.***
 
-1. Sujeto a los términos y condiciones de esta Licencia Pública, el Licenciante por la presente le concede una licencia mundial, libre de realeza, no sublicenciable, no exclusiva, irrevocable para el ejercer los Derechos Licenciados en el Material Licenciado para:
+1. Sujeto a los términos y condiciones de esta Licencia Pública, el Licenciante por la presente le otorga a usted una licencia mundial, libre de regalías, no sublicenciable, no exclusiva e irrevocable para ejercer los Derechos Licenciados en el Material Autorizado:
     
-        A. reproducir y Compartir el Material Licenciado, por completo o en partes, sólo para propósitos No Comerciales; y
+        A. Reproducir y compartir el Material Autorizado, en todo o en parte, para fines no comerciales únicamente; y
         
-        B. producir y reproducir, pero no Compartir, Material Adaptado, sólo para propósitos No Comerciales.
+        B. producir y reproducir, pero no Compartir, Material adaptado para fines no comerciales únicamente.
         
 
-2. **Excepciones y Limitaciones.** Para evitar dudas, donde las Excepciones y Limitaciones aplican para su uso, esta Licencia Pública no aplica, y no necesita cumplir con sus términos y condiciones.
+2. **Excepciones y Limitaciones. ** Para evitar dudas, de donde se aplican Excepciones y Limitaciones se aplican a uso Suyo, esta Licencia Pública no se aplica, y Usted no necesita cumplir con sus términos y condiciones.
 
 3. **Término.** El término d esta Licencia Pública se especifica en la Sección 6(a).
 
