@@ -158,9 +158,9 @@ Al igual que de la *academia* y del mundo académico no se puede esperar que jue
 
 [^16]: Muchos jóvenes se han sentido atraídos por el libertarismo al creer que este "vive y dejar vivir" es la esencia del libertarismo.
 
-[^18]: Except as some idle intellectual play or mental gymnastics by a few “exotic” individuals.
+[^18]: Excepto por algunos juegos intelectuales o gimnasia mental de unos pocos individuos "exóticos".
 
-[^19]: Whereas the least support should be expected to come from the legally most “protected” groups such as, for instance, single Black Muslim mothers on welfare.
+[^19]: Considerando que se debe esperar que el menor apoyo provenga de los grupos legalmente más "protegidos", como, por ejemplo, madres musulmanas negras solteras que reciben asistencia social.
 
 [^20]: Brief message to all open-border and liberallala libertarians, who will surely label this, you guessed it, “fascist”: In a fully privatized libertarian order there exists no such thing as a right to free immigration. Private property implies borders and the owner’s right to exclude at will. And “public property” has borders as well. It is not unowned. It is the property of domestic tax-payers and most definitely not the property of foreigners. Aún siendo cierto que el Estado es una organización delincuencial, y que asignarle la tarea del control de fronteras terminará irremediablemente en múltiples injusticias tanto para los residentes nacionales como para los extranjeros, es también cierto que el Estado *si hace algo* cuando decide *no* hacer algo al respecto del control de fronteras, y que en las circunstancias actuales, no hacer nada en absoluto a este aspecto, causará injusticias aún peores, en particular a la ciudadanía doméstica.
 
