@@ -162,6 +162,6 @@ Ah, pero en la "zona nula" del gobierno, la violación es hacer el amor, el secu
 
 Esto es lo que quiero decir cuando digo que este "mundo opuesto * zona nula *" es la barrera fundamental para la felicidad humana en todo el mundo. Robar es malo para nosotros; robar es incorrecto en abstracto, ¿pero el robo es de alguna manera "correcto" en este insano universo alternativo llamado "gobierno"?
 
-[^2]: Ni siquiera *comenzamos * la pesadilla lógica del valor de verdad que figura en la declaración "el error es igual a la verdad".
+[^2]: Ni siquiera hemos *comenzado* la pesadilla lógica del valor de verdad que figura en la declaración "el error es igual a la verdad".
 
 [^3]: Este argumento tampoco tiende a funcionar muy bien con los profesores de matemáticas: nunca he visto a un alumno argumentar con éxito que una respuesta incorrecta puede ser correcta en otro universo, por lo que es injusto marcarla como incorrecta.
