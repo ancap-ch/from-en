@@ -60,19 +60,19 @@ If I say that a square circle has the right to steal, I am merely saying that th
 
 If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? Kiedy mam założyć spodnie? Co jeśli mam spodnie, ale nie mam kamizelki? Co jeśli mam tylko jednego założonego buta? Co jeśli mam założone oba buty, ale tylko jeden jest zasznurowany? Co jeśli mój kapelusz jest założony odwrotnie? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Czy oni stracili to prawo, kiedy ściągnęli kurtki?
 
-Zadaję te pytania retoryczne, ponieważ są one śmiertelnie poważne. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Zadaję te pytania retoryczne, ponieważ są one śmiertelnie poważne. Najwyraźniej strój wojskowy nie zmienia charakteru człowieka, tak jak fryzura nie zmienia go w kaczkę, pojęcie, czy boga.
 
 “Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
 
 The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+"Cóż", mógłbyś odpowiedzieć, "ale różnica polega na tym, że żołnierz posiada prawa moralne, które są mu dostarczane przez przeciętnego obywatela, w celu zbiorowej samoobrony i tak dalej."
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Rodzi to bardzo interesujący punkt, który jest pytaniem, czy opinie mogą zmienić rzeczywistość.
 
-### Opinions And Reality
+### Opinie i rzeczywistość
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Oczywiście rozumiemy, że nie mogę, moim zdaniem, uwolnić cię od ograniczeń grawitacji, tak samo jak moja opinia, że "dwa plus dwa równa się pięć" również nie będzie prawdą.
 
 “Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
 
