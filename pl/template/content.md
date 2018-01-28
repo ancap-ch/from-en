@@ -45,11 +45,11 @@ Some quotation. First line is large; second line is small; third line is empty; 
 
 Tekst na czwartym poziomie.
 
-##### Heading at the fifth level
+##### Nagłówek na piątym poziomie
 
-###### Heading at the 6th level
+###### Nagłówek na szóstym poziomie
 
-Some text at 6th level.
+Trochę tekstu na poziomie szóstym.
 
 [^1]: Footnote example. But this will point to yet another footnote.[^3]
 
