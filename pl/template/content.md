@@ -35,13 +35,13 @@ Some quotation. First line is large; second line is small; third line is empty; 
 > 
 > Szósta linia to cytat: Szybki, brązowy lis skacze nad leniwym psem.
 
-# Headings
+# Nagłówek
 
-## Sub heading
+## Podnagłówek
 
-### Heading at the third level
+### Nagłówek na trzecim poziomie
 
-#### Heading at the fourth level
+#### Nagłówek na czwartym poziomie
 
 Tekst na czwartym poziomie.
 
