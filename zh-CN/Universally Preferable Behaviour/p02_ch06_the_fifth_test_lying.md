@@ -4,25 +4,25 @@
 
 它通常被认为是比“准时”严格的要求*多*，但比“盗窃”严格的要求*少*。UPB框架对此如何解释呢？
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+自然地，当任何道德理论提出“说谎是好的”都会立即自我引爆，因为如果提议的人*正在*说谎-这是好的-那么说谎则是不好的，因为他被告知说谎是不好的。
 
-For instance:
+例如：
 
-**Bob:** Lying is always good.
+**鲍勃：**说谎总是好的。
 
-**Doug:** Are you lying?
+**道格：**你在说谎吗？
 
-**Bob:** Yes.
+**鲍勃：**是的。
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**道格：**所以说谎一定是不好的，因为你说谎说它是好的。
 
-Or:
+或者：
 
-**Bob:** Lying is always good.
+**鲍勃：**说谎总是好的。
 
-**Doug:** Are you lying?
+**道格：**你在说谎吗？
 
-**Bob:** No.
+**鲍勃：**没有。
 
 **Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
 
