@@ -142,21 +142,21 @@ Al igual que de la *academia* y del mundo académico no se puede esperar que jue
 
 [^8]: *Tambien conocido como* "No discriminacion"
 
-[^9]: Which I have termed the “Stupids for Liberty” and my young German friend Andre Lichtschlag as “Liberallala-Libertarians”.
+[^9]: Lo que he denominado "Estúpidos por la libertad" y mi joven amigo alemán Andre Lichtschlag como "Liberallala-Libertarios".
 
 [^10]: Colin Robertson.
 
-[^11]: Which, of course, was the reason for having invited them here.
+[^11]: El cual, por cierto, fue la razón de haberlos invitado aquí.
 
-[^12]: Which is entirely compatible with libertarianism and its *desideratum* of freedom of association and opposition to forced integration.
+[^12]: Lo cual es totalmente compatible con el libertarismo y su *deseo* de libertad de asociación y oposición a la integración forzada.
 
-[^13]: Which is antithetical to libertarianism and inimical to human prosperity.
+[^13]: La cual es la antítesis del libertarismo y hostil a la prosperidad humana.
 
-[^14]: Let me hasten to add here that, despite my misgivings about his “economics,” I still consider Pat Buchanan a great man.
+[^14]: Permítanme apresurarme a agregar aquí que, a pesar de mis dudas sobre su "economía", yo todavía considero a Pat Buchanan como un gran hombre.
 
-[^15]: An endeavor, by the way, that has been ridiculed by Taki Theodoracopulos, a veteran champion of the paleo-conservative-turned-Alt-Right movement and Spencer’s former employer.
+[^15]: Un esfuerzo, por cierto, que ha sido ridiculizado por Taki Theodoracopulos, un veterano campeón del movimiento paleo-conservador convertido en la derecha alternativa y ex empleador de Spencer.
 
-[^16]: Many youngsters have been initially attracted to libertarianism believing that this “live and let live” is the essence of libertarianism.
+[^16]: Muchos jóvenes se han sentido atraídos por el libertarismo al creer que este "vive y dejar vivir" es la esencia del libertarismo.
 
 [^18]: Except as some idle intellectual play or mental gymnastics by a few “exotic” individuals.
 
