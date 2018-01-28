@@ -2,11 +2,11 @@
 
 Una teoría moral razonable debería ser capaz de explicar todos los estándares universales explicados más arriba, así como una teoría física razonable debería se capaz de explicar cómo un hombre inconscientemente puede calcular el arco de una pelota de béisbol arrojada y atraparla.
 
-If the framework of UPB can explain the above, then it will certainly have passed at least the “common sense” test.
+Si marco de UPB puede explicar lo mencionado, entonces definitvamente habrá pasado al menos la prueba del “sentido común”.
 
-This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
+Esto no significa que algunas conclusiones sorpredendentes – incluso shockeantes – puedan no resultar de nuestra teoría moral, pero al menos deberemos haber pasado el primer obstáculo de explicar lo obvio, antes de analizar aquello que dista de ser obvio.
 
-With that in mind, let us turn to the question of *initiation*.
+Con eso en mente, volvamos a la pregunta de *iniciación*.
 
 A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
 
