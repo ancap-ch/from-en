@@ -12,7 +12,7 @@ Un cirujano puede “apuñalarlo” a usted con un bisturí, pero podemos entend
 
 Esta diferencia puede ser entendida a través de un análisis más profundo de la *iniciación*.
 
-Si usted se enferma de cáncer, puede llegar a pedirle a un cirujano que lo opere. La razón por la cual la “puñalada” el cirujano no es inmoral es que el cáncer “inició” un ataque a la vida y a la salud. El cirujano está actuando como un “agente surrogado de defensa propia”, tal como lo haría un hombre que le dispara al ladrón que lo está atacando. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+Si usted se enferma de cáncer, puede llegar a pedirle a un cirujano que lo opere. La razón por la cual la “puñalada” el cirujano no es inmoral es que el cáncer “inició” un ataque a la vida y a la salud. El cirujano está actuando como un “agente surrogado de defensa propia”, tal como lo haría un hombre que le dispara al ladrón que lo está atacando. Además usted ha dado su consentimiento al cirujano, y limita su comportamiento con un contrato específico.
 
 The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
 
