@@ -1,8 +1,8 @@
-## The Forth Test: Fraud
+## 第四测试：欺诈
 
-Right at the edge of what is generally considered ethical sits the challenge of *fraud*.
+普遍认为道德的边缘是*欺诈*的挑战。
 
-Fraud is the obtaining of value through false representation. If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
+欺诈是通过虚假陈述获取价值。 If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
 
 Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
 
