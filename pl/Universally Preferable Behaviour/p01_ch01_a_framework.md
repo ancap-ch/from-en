@@ -8,9 +8,9 @@ Zasadnicza różnica pomiędzy stwierdzeniem *preferencji* i stwierdzeniem *fakt
 
 Jeśli powiem, że ziemia jest okrągła i podam wystarczający dowód dla tego stwierdzenia, to już nie twoja sprawa, żeby decydować według własnego widzi mi się czy to stwierdzenie jest prawdziwe. Jeśli mogę udowodnić, że ziemia jest okrągła to musisz zaakceptować to jako prawdę, chyba że odrzucasz powód i dowód jako kryteria prawdy.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+Jeśli akceptuję prawdziwość twierdzeń matematycznych to nie mogę w dowolny sposób odrzucić dowodów matematycznych, które są zgodne z tymi prawami. Jeśli *odrzucę* taki dowód to nie mogę utrzymywać, że akceptuję prawdziwość praw matematycznych. Moja akceptacja tych praw oznacza, że jestem *zobowiązany* akceptować te dowody jako prawdziwe, które są zgodne z tymi prawami. Odrzucenie dowodu, który jest zgodny z racjonalnymi standardami jest odrzuceniem racjonalnych standardów jako całości.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+Metoda naukowa, racjonalność sama w sobie i matematyczne prawa są przykładami *obiektywnych* kryteriów dla ustalenia prawdziwości danej propozycji. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
 
 ### Obiektywna prawda
 
