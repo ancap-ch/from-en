@@ -53,7 +53,7 @@ a. ***Concesión de Licencia.***
 
 2. **Excepciones y Limitaciones. ** Para evitar dudas, de donde se aplican Excepciones y Limitaciones se aplican a uso Suyo, esta Licencia Pública no se aplica, y Usted no necesita cumplir con sus términos y condiciones.
 
-3. **Término.** El término d esta Licencia Pública se especifica en la Sección 6(a).
+3. **Duración.** La duración de esta Licencia Pública se especifica en la Sección 6(a).
 
 4. **Los Medios y formatos; modificaciones técnicas permitidas.** Los Licenciantes le autorizan para ejercer los Derechos Licenciados en todos los medios y formatos ahora conocidos o posteriormente creados, y para hacer modificaciones técnicas necesarias. El Licenciante renuncia y/o acepta no hacer valer ningún derecho o autoridad para prohibirle hacer modificaciones técnicas necesarias para el ejercicio de los Derechos Licenciados, incluyendo modificaciones técnicas para eludir las Medidas Tecnológicas Efectivas. Para los propósitos de esta Licencia Pública, simplemente haciendo modificaciones autorizadas por esta Sección 2(a)(4) nunca produce Material Adaptado.
     
