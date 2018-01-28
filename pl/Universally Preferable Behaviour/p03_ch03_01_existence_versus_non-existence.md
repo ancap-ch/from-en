@@ -80,9 +80,9 @@ Zatem wiara, że morderstwo jest moralnie dobre, nie czyni morderstwa moralnie d
 
 Opinie nie zmieniają rzeczywistości.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Ponieważ zasady moralne opierają się na uniwersalnej logice, jak również na fizycznej naturze i rzeczywistości człowieka, nie mogę dać ci "prawa do morderstwa", tak jak nie mogę ci dać zdolności lewitowania, chodzenia po wodzie lub dokładnie powiedzieć, że dwa i dwa dają pięć.
 
-### Government As Voluntarism
+### Rząd jako woluntaryzm
 
 The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
 
