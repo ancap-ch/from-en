@@ -10,7 +10,7 @@ El ejemplo ilustra la paradoja de lo que está pasando en el "negocio" de las dr
 
 El problema con el argumento es que depende del análisis del equilibrio simple en los modelos de oferta y demanda utilizados en los cursos de Econ 101 para estudiantes del primer año universitario. Y eso no se aplica realmente aquí. Si los mercados de los cuadros y de las drogas ilegales han estado en equilibrio, puede de hecho haber una paradoja. Pero éste no es el caso, *especialmente* en estos mercados.
 
-Además, en un estado de equilibrio los costos reflejan perfectamente los costos de oportunidad social, y la competencia "perfecta" une el precio y el costo para que nadie pueda obtener beneficios económicos. En otras palabras, no hay ninguna diferencia entre precio y costo. En consecuencia, en esta teoría no hay razón de distinguir entre ellos temporal o causalmente —  ellos parecen estar resueltos instantáneamente y con exactitud. Esta es también la forma en que son tratados en varios modelos de economía que los estudiantes aprenden a ¨maximizar.¨
+Además, en un estado de equilibrio los costos reflejan perfectamente los costos de oportunidad social, y la competencia "perfecta" une el precio y el costo para que nadie pueda obtener beneficios económicos. En otras palabras, no hay ninguna diferencia entre precio y costo. En consecuencia, en esta teoría no hay razón de distinguir entre ellos temporal o causalmente —  ellos parecen estar resueltos instantáneamente y con exactitud. Así es también cómo son tratados en varios modelos económicos que los estudiantes aprenden a "maximizar."
 
 # El precio impulsa el costo - no a la inversa  
 
