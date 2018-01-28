@@ -32,8 +32,8 @@
 
 因此，我们可以理直气壮地对骗子说谎，就像我们可以通过以牙还牙的方式保护自己，但我们也不完全尊重那种小气的通过用来的更晚的方式“报复”迟到的人的做法。
 
-不同的是，“迟到”不像说谎那样具有很强的破坏性。 A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
+不同的是，“迟到”不像说谎那样具有很强的破坏性。 迟到的人令人讨厌，但并不能从根本上破坏你处理现实事务的能力。 对我来说早上七点开会迟到一小时是一回事-试图说服你，我们事实上把会议安排在早上八点钟是另一回事，而我知道事实并非如此。
 
-Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
+让你自己攻击你自己的信心[^5]比仅仅让你等待更为恶劣，因为这是利用他人对你的信任来破坏他对自己的信任的行为，这种道德败坏的行为，因为它*使用*价值来破坏价值，比如造假。 This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
 
 [^5]: Sometimes called “gas-lighting,” after the old movie.
