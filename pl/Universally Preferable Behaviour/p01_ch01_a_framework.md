@@ -1,6 +1,6 @@
-## A Framework For Ethics
+## Szkielet dla Etyki
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Ethical propositions are different from other types of knowledge statements. Jeśli powiem, "lubię jazz", to może być prawdziwe lub fałszywe oświadczenie, ale ogólnie n ie jest to w żaden sposób wiążące. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
 
 Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
 
