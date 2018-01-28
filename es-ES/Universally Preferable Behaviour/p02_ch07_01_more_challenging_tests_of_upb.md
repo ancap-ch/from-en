@@ -2,11 +2,11 @@
 
 Ahora hemos probado teorías morales específicas en relación a la estructurao de CUP, y encontramos que CUP valida nuestras creencias morales más comunes, como las prohibiciones contra la violación, el asesinato y el robo. Al incluir el criterio de * evitación * en nuestro análisis, también hemos ayudado a diferenciar entre crímenes que no se pueden evitar y crímenes que deben habilitarse a través de acciones positivas, como el fraude. Finalmente, hemos dividido el "comportamiento preferible" en tres categorías principales: universal, estética y neutral (y sus opuestos relevantes). Las acciones universalmente prohibidas incluyen violación, asesinato y robo, cuya fuerza se puede usar para prevenir. Las acciones estéticamente preferibles incluyen cortesía, llegar a tiempo, y demás, que no se pueden aplicar por medio de violencia. Las acciones neutrales incluyen preferencias puramente subjetivas o acciones que no tienen contenido moral, como correr por un autobús.
 
-Sin embargo, hay muchas pruebas morales desafiantes que quedan fuera de los ejemplos que hemos tratado anteriormente. Solo trataremos con algunas de ellas aquí, para echar un vistazo al marco de CUP, y ver cómo aborda estas cuestiones morales más desafiantes.
+Sin embargo, hay muchas pruebas morales desafiantes que quedan fuera de los ejemplos que hemos tratado anteriormente. Sólo nos ocuparemos de unas pocas aquí, para echar un vistazo a la estructura de CUP, y veremos cómo aborda estas cuestiones morales tan desafiantes.
 
 ### Autodefensa
 
-El concepto de autodefensa no debe darse por sentado. Si asumimos que no existe la autodefensa, o que la autodefensa nunca es una acción válida, entonces el marco de CUP deshace esa suposición muy rápidamente.
+El concepto de autodefensa no debe darse por sentado. Si asumimos que no existe la autodefensa, o que la autodefensa nunca es una acción válida, entonces el marco de CUP deshace esa suposición muy rápidamente. Si asumimos que no existe tal cosa como la autodefensa, o que la autodefensa nunca es una acción válida, entonces la estructura de CUP deshace esa suposición muy rápidamente.
 
 Si no existe la autodefensa, entonces no estamos hablando de la iniciación o la venganza del uso de la fuerza, sino más bien del uso de la fuerza en cualquier contexto. En otras palabras, si nos deshacemos del concepto de autodefensa, la única pregunta que debemos hacernos es: * ¿es universalmente preferible usar la fuerza, o no? *
 
