@@ -14,11 +14,11 @@
 
 然后会发生什么？
 
-显然，“欺诈是好的”这一原则不能由道格和鲍勃同时进行-为了欺诈，道格必须不诚实地行事，而鲍勃必须诚实地行事。 Thus to enable Doug’s “moral” action, Bob must act “immorally.”
+显然，“欺诈是好的”这一原则不能由道格和鲍勃同时进行-为了欺诈，道格必须不诚实地行事，而鲍勃必须诚实地行事。 因此为了使道格的行为“道德”，鲍勃必须“不道德”行事。
 
-UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
+UPB破坏了这种可能性，因为没有有效的道德理论可以在相同的情况下需要相反的行动。
 
-If Doug commits fraud on Bob with the justification that “it is good to lie to get what you want,” then clearly it must also be good to be honest as well, since it is impossible to get what you want by lying unless other people are willing to assume your honesty. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
+如果道格对鲍勃进行欺诈的理由是“为了得到你想要的东西而说谎是好的”，那么显然诚实也是好的，因为除非别人愿意相信你的诚实，否则你不可能通过说谎得到你想要的东西。 Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
 
 This is how we know that fraud is wrong.
 
