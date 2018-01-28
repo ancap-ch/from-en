@@ -26,6 +26,6 @@ UPB破坏了这种可能性，因为没有有效的道德理论可以在相同�
 
 然而，问题仍然在于欺诈是否是邪恶的，还是仅仅是一种美学负面行为(ANA)。
 
-与强奸，盗窃和谋杀相比，欺诈是不寻常的，因为它要求受害者积极参与这个过程。 我可以跳到你身后，在你没有任何参与的情况下绞杀你，但我无法欺诈你除非你在某种程度上进行了参与。 因此欺诈属于“可避免性”的范畴，与强奸，谋杀和盗窃有着根本的不同。 然而，可避免性的程度，部分决定了不道德的程度。 Sending your bank information to a Nigerian email spammer is certainly avoidable; being cheated by an eBay business with a perfect rating is far less avoidable.
+与强奸，盗窃和谋杀相比，欺诈是不寻常的，因为它要求受害者积极参与这个过程。 我可以跳到你身后，在你没有任何参与的情况下绞杀你，但我无法欺诈你除非你在某种程度上进行了参与。 因此欺诈属于“可避免性”的范畴，与强奸，谋杀和盗窃有着根本的不同。 然而，可避免性的程度，部分决定了不道德的程度。 将您的银行信息发送给尼日利亚的电子邮件垃圾邮件发送方当然是可以避免的；被一个完美评级的eBay企业所欺骗是很难避免的。
 
-There may be certain situations under which fraud is unavoidable, such as “bartering” for a life-saving medicine when no alternative exists, but that falls under the “grey area” that we have discussed above – these occurrences are so rare that they are to ethics as mutations are to biological species.
+在某些情况下，欺诈是不可避免的，例如当没有其它选择的情况下，为了救命药而进行的“易货交易”，但是这属于我们上面讨论过的“灰色地带”-这些事件对伦理学是非常罕见的就如同生物物种的突变一样。
