@@ -30,9 +30,9 @@ Intuitivamente, es difícil imaginar que cualquier teoría que le atribuye inmor
 
 Este es otro problema central con cualquier teoría que posicione una acción positiva como la “violación” como algo ético. En cualquier momento, hay cierto número de personas que son incapaces de ejecutar esas acciones positivas, quienes entonces deben ser condenadas como malignas, aún cuando no tienen la capacidad de ser “buenas”. Sin embargo, si es imposible evitar ser “malo”, entonces claramente el mal, como concepto, no tiene sentido. En el ejemplo citado más arriba, en el que una roca cae por una colina, la roca no es “mala” por golpear su auto, ya que no tiene la capacidad de evitarlo según su libre albedrío. Si los frenos de un hombre fallan justo después de haber sido reparados, entonces no es su responsabilidad que no hayan podido frenar al auto. Si nunca ha llevado a su auto para que le hagan mantenimiento en diez años, entonces su irresponsabilidad es la causa más próxima por la cual el momentum ha continuado, y puede ser culpado.
 
-De esta manera, el concepto de “evitabilidad” mantiene su uso. Un hombre en coma es incapaz de evitar estar acostado en su cama, desde que el esta en un estado de casi inconsciencia. Un hombre en estado de coma es incapaz de evitar estar acostado en su cama, ya que se encuentra en un estado casi inconsciente.
+De esta manera, el concepto de “evitabilidad” mantiene su uso. Un hombre en coma es incapaz de evitar estar acostado en su cama, desde que el esta en un estado de casi inconsciencia. Ya que es incapaz de evitar sus acciones -o inacción en este caso- su inmovilidad no puede ser inmoral.
 
-Ya que es incapaz de evitar sus acciones - o inacción en este caso - su inmovilidad no puede ser inmoral. No obstante, antes dijimos que lo opuesto a una acción inmoral debe ser moral. Si proponemos la regla moral “no violarás”, podemos entonces llamar al hombre en coma *moral*, debido a que no viola?
+En este punto, la objeción puede plantearse razonablemente, si un hombre en coma no puede ser inmoral, entonces tampoco puede ser moral. No obstante, antes dijimos que lo opuesto a una acción inmoral debe ser moral. Si proponemos la regla moral “no violarás”, podemos entonces llamar al hombre en coma *moral*, debido a que no viola?
 
 #### Capacity
 
