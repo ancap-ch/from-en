@@ -9,7 +9,7 @@ translation:
   fetch_reviwers: true
   fetch_progress: true
 titles:
-  - Text title
+  - Napisz tytuł
   - '~~Centered~~'
   - '~~~~~the right'
 discussions:
