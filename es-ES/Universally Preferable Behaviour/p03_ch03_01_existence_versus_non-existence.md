@@ -16,7 +16,7 @@ Por supuesto, las personas no crean este "universo alternativo" para invalidar l
 
 También tienden a no responder bien al argumento que: "En otro universo, puedes estar de acuerdo conmigo de que Dios no existe, entonces eso te convierte en ateo". [^3]
 
-Si las declaraciones válidas sobre la realidad pueden oponerse infinitamente porque un reino imaginario llamado "error es igual a verdad" las invalida, entonces lo que realmente se dice es "ninguna declaración positiva sobre la verdad puede ser válida"; sin embargo, ya somos lo suficientemente sabios como filósofos para saber que esta declaración es contradictoria, ya que es una declaración positiva que se considera verdadera y que dice que ninguna declaración positiva puede ser verdadera. Si nada puede ser verdadero o falso, incluso esa afirmación, entonces no se puede hacer ninguna declaración sobre nada. Usar palabras, usar el inglés, usar oraciones comprensibles, no tiene ningún sentido, ya que en este "universo alternativo" tales enunciados estructurados pueden ser una completa tontería. Si las cosas que pueden ser ciertas en este universo alternativo tienen un efecto sobre las declaraciones que hacemos en este universo, entonces claramente lo contrario también es cierto, lo que significa que no se pueden hacer afirmaciones sobre nada, ya que su opuesto exacto puede ser igualmente cierto.
+Si las declaraciones válidas sobre la realidad pueden oponerse infinitamente porque un reino imaginario llamado "error es igual a verdad" las invalida, entonces lo que realmente se dice es "ninguna declaración positiva sobre la verdad puede ser válida"; sin embargo, ya somos lo suficientemente sabios como filósofos para saber que esta declaración es contradictoria, ya que es una declaración positiva que se considera verdadera y que dice que ninguna declaración positiva puede ser verdadera. Si nada puede ser verdadero o falso, incluso esa declaración, entonces no se puede hacer ninguna declaración sobre nada. Usar palabras, usar el inglés, usar oraciones comprensibles, no tiene ningún sentido, ya que en este "universo alternativo" tales enunciados estructurados pueden ser una completa tontería. Si las cosas que pueden ser ciertas en este universo alternativo tienen un efecto sobre las declaraciones que hacemos en este universo, entonces claramente lo contrario también es cierto, lo que significa que no se pueden hacer declaraciones sobre nada, ya que su opuesto exacto puede ser igualmente cierto.
 
 La verdadera realidad de la declaración "el error es igual a la verdad" es la locura tautológica de "nulo es igual a nulo"
 
@@ -28,19 +28,19 @@ En nuestra experiencia personal, sabemos que el asesinato es incorrecto. Al trab
 
 Los mayores avances en la comprensión científica son las llamadas "teorías unificadoras". Einstein pasó décadas tratando de elaborar una teoría de campo unificada; y las teorías de la física que unen fuerzas fuertes y débiles, el electromagnetismo, la gravedad, etc., siguen siendo difíciles de alcanzar.
 
-La CUP como marco, sin embargo, no solo justifica nuestros instintos morales en los niveles personal, filosófico y universal, sino que también tiene profundas e impactantes implicaciones para la sociedad humana.
+CUP es un estructura, sin embargo, no solo justifica nuestros instintos morales a niveles personales, filosóficos y universales, sino que también tiene profundas e impactantes implicaciones para la sociedad humana.
 
 #### CUP en Acción
 
-El marco CUP valida las proposiciones morales al exigir que sean internamente consistentes y universales en términos de tiempo, lugar e individuos.
+La estructura CUP valida las proposiciones morales al exigir que sean internamente consistentes y universales en términos de tiempo, lugar e individuos.
 
 Si aceptamos CUP, también debemos aceptar el siguiente corolario:
 
-- Las proposiciones morales son independientes del disfraz.
+- Las proposiciones morales son independientes del uniforme.
 
-Lo que esto significa es que un hombre no puede cambiar su naturaleza moral junto con su vestimenta. El acto de cambiar el propio disfraz no altera la naturaleza fundamental de uno. Por lo tanto, las reglas morales opuestas no pueden ser válidas en función de la ropa que lleva puesta.
+Esto significa que un hombre no puede cambiar su naturaleza moral junto con su vestimenta. El acto de cambiar el uniforme propio no altera la naturaleza fundamental de uno. Por lo tanto, las reglas morales opuestas no pueden ser válidas en función de la ropa que uno lleva puesta.
 
-Los soldados, por supuesto, usan disfraces que son diferentes del ciudadano promedio. El ciudadano promedio tiene prohibido asesinar; los soldados, sin embargo, no solo están * autorizados * a asesinar, sino que * son elogiados moralmente * por el asesinato.
+Los soldados, por supuesto, usan uniformes que son diferentes del ciudadano promedio. El ciudadano promedio tiene prohibido asesinar; los soldados, sin embargo, no solo están * autorizados * a asesinar, sino que * son elogiados moralmente * por matar.
 
 Tomemos otro ejemplo.
 
