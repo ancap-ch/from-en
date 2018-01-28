@@ -53,4 +53,4 @@ Trochę tekstu na poziomie szóstym.
 
 [^1]: Footnote example. But this will point to yet another footnote.[^3]
 
-[^2]: Second footnote. Will have [another website](https://example-another-website.com).
+[^2]: Druga notatka. Będzie mieć [inną stronę](https://example-another-website.com).
