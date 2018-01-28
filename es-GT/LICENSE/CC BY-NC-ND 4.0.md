@@ -2,7 +2,7 @@
 
 # Atribución-NoComercial-NoDerivativas 4.0 internacional
 
-La corporación Creative Commons ("Creative Commons") no es una firma de abogados y no proporciona servicios legales o asesoramiento legal. La distribución pública de las licencias Creative Commons no crea una relación abogado-cliente u otro tipo de relación. Creative Commons hace sus licencias e información relacionada, disponible en la base "as-is". Creative Commons no proporciona garantías con respecto a sus licencias, de ningún material licenciado bajo sus términos y condiciones. o cualquier información relacionada. Creative Commons se exime de toda responsabilidad por daños resultante de su uso en la mayor medida posible.
+Creative Commons Corporation ("Creative Commons") no es un bufete de abogados y no proporciona servicios legales ni asesoría legal. La distribución de licencias públicas Creative Commons no crea una relación abogado-cliente u otra relación. Creative Commons hace sus licencias e información relacionada, disponible en la base "as-is". Creative Commons no proporciona garantías con respecto a sus licencias, de ningún material licenciado bajo sus términos y condiciones. o cualquier información relacionada. Creative Commons se exime de toda responsabilidad por daños resultante de su uso en la mayor medida posible.
 
 ### Utilizando Licencias Públicas de Creative Commons
 
