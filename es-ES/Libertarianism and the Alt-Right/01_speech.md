@@ -126,21 +126,21 @@ Por no decir que todos, la mayoría las patologías sociales que plagan el occid
 
 Al igual que de la *academia* y del mundo académico no se puede esperar que jueguen un papel significativo en una estrategia libertaria para el cambio social, tampoco de la política y los partidos políticos, después de todo, el objetivo último del libertarismo es poner un poner fin a todas las políticas y someter todas las relaciones interpersonales y conflictos a los procedimientos de derecho privado y civil. Sin duda, bajo las condiciones actuales, totalmente politizadas, una participación en la política y la política partidaria no puede evitar del todo. Sin embargo, en cualquier implicación de este tipo uno debe ser muy consciente y protegerse contra la influencia corruptora del poder y el atractivo del dinero y las ventajas que vienen con este. Y para minimizar este riesgo y tentación, es aconsejable concentrar los esfuerzos la política de nivel regional y local en lugar de la nacional, y promover una agenda radical de descentralización: de anulación y separación pacífica, segregación y secesión. Lo más importante, sin embargo, es que debemos prestar atención al lema de la vida de Ludwig von Mises: no ceder ante el mal, sino proceder cada vez más valientemente contra él. Es decir, debemos hablar cuando y donde sea, ya sea en reuniones formales o informales, contra cualquiera que nos ofenda con tonterías "políticamente correctas" de izquierdistas igualitarios, e inequívocamente decir: "No. Joder no, tu tienes que estar bromeando" Mientras tanto, dado el control mental casi completo ejercido por las élites gobernantes, la *academia* y los MSM, ya se requiere una buena dosis de coraje para hacerlo. Pero si no somos lo suficientemente valientes como para hacerlo ahora y, por lo tanto, establecer un ejemplo para que otros lo sigan, las cuestiones serán cada vez peores y más peligrosas en el futuro, y nosotros, la civilización occidental y las ideas occidentales de libertad serán aniquiladas y desaparecerán.
 
-[^1]: That must be appropriated with our own nature-given, i.e., un-appropriated, body.
+[^1]: Eso debe ser apropiado con nuestra propia naturaleza, es decir, no apropiado cuerpo.
 
-[^2]: Property.
+[^2]: Propiedad.
 
-[^3]: Conflict-free.
+[^3]: Sin conflictos.
 
-[^4]: And all later owners connected to him through a chain of voluntary exchanges.
+[^4]: Y todos los posteriores propietarios conectados a él a través de una cadena de intercambios voluntarios.
 
-[^5]: Whose leadership, to its credit, after Trump’s election victory, quickly broke with Trump when he turned out to be just another presidential warmonger.
+[^5]: Cuyo liderazgo, en su deber, después de la victoria electoral de Trump, rompió rápidamente con Trump cuando resultó ser simplemente otro presidente belicista.
 
-[^6]: *Aka* Mencius Moldbug.
+[^6]: *Tambien conocido como* Mencius Moldbug.
 
-[^7]: *Aka* Soviet Poverty Lie Center.
+[^7]: *Tambien conocido como* Falso Centro soviético de la pobreza.
 
-[^8]: *Aka* “non-discrimination”.
+[^8]: *Tambien conocido como* "No discriminacion"
 
 [^9]: Which I have termed the “Stupids for Liberty” and my young German friend Andre Lichtschlag as “Liberallala-Libertarians”.
 
