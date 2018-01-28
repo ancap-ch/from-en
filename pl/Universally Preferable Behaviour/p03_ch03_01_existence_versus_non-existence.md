@@ -76,9 +76,9 @@ Oczywiście rozumiemy, że nie mogę, moim zdaniem, uwolnić cię od ograniczeń
 
 "Opinie" to te przekonania, które nie mają jasnego dowodu w rzeczywistości lub dla których nie można dostarczyć jasnych dowodów lub które są jedynie osobistymi preferencjami. Moim osobistym zdaniem jest to, że wolę lody czekoladowe od waniliowych - mogę też mieć "opinię", że Islandia jest tropikalnym rajem, lub że Bóg istnieje, lub że deszcz pada w górę. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
 
-Zatem wiara, że morderstwo jest moralnie dobre, nie czyni morderstwa moralnie dobrym. Ponieważ moje przekonania o człowieku nie zmieniają jego moralnej natury, moje przekonanie, że jego morderstwa są cnotliwe, nie zmienia cnoty jego działania. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+Zatem wiara, że morderstwo jest moralnie dobre, nie czyni morderstwa moralnie dobrym. Ponieważ moje przekonania o człowieku nie zmieniają jego moralnej natury, moje przekonanie, że jego morderstwa są cnotliwe, nie zmienia cnoty jego działania. Jeśli zamknę oczy i wyobrażę sobie, że jesteś jaszczurką, nagle nie tracisz swojej zdolności do regulowania swojej temperatury ciała. Wyobrażanie sobie, że jesteś rybą, nie pomija twojej potrzeby posiadania sprzętu do nurkowania.
 
-Opinions do not change reality.
+Opinie nie zmieniają rzeczywistości.
 
 Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
 
