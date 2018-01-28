@@ -93,7 +93,7 @@ Es muy difícil entender la lógica y la inteligencia del argumento de que, para
 
 El crimen organizado no ofrece muy buenos ejemplos, ya que las pandillas corrompen, manipulan y utilizan con tanta frecuencia el poder de la policía gubernamental para hacer cumplir su gobierno, por lo que no se puede decir que esas pandillas operan en un estado natural. Además, las pandillas delictivas se benefician enormemente mediante el suministro de sustancias o servicios legalmente prohibidos, y también florecen en gran parte debido a las políticas estatales.
 
-Un ejemplo más útil es el hecho de que ningún líder ha declarado la guerra a otro líder que posee armas nucleares. En el pasado, cuando los líderes se sentían inmunes a las represalias personales, estaban más que dispuestos a matar a sus propias poblaciones librando una guerra. Ahora que están sujetos a la aniquilación, solo están dispuestos a atacar países que no pueden defenderse.
+Un ejemplo más útil es el hecho de que ningún líder ha declarado la guerra a otro líder que posee armas nucleares. En el pasado, cuando los líderes se sentían inmunes a las represalias personales, estaban más que dispuestos a matar a su propia población librando una guerra. Ahora que están sujetos a la aniquilación, solo están dispuestos a atacar países que no pueden defenderse.
 
 Esta es una lección instructiva sobre por qué tales hombres requieren poblaciones desarmadas y dependientes, y un buen ejemplo de cómo el miedo a las represalias inherentes a un sistema equilibrado de poderes descentralizados y competitivos *es el único método probado para asegurar y mantener la libertad personal *.
 
