@@ -8,13 +8,13 @@
 
 显然，欺诈要求一个人*不*从事欺诈。 在上述的潜在交易中，如果我希望窃取你的200美元，而你希望窃取我的iPod，则什么也不会发生。 你会要求先给iPod再付款，而我会要求先付款再给iPod。 我们将陷入僵持状态，完全无法相互欺诈。
 
-Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
+显然，要发生欺诈行为，一方必须秉诚行事。 因此，想要进行欺诈的人依赖于另一个人*不*希望进行欺诈行为的事实，以此来利用他。
 
-To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
+回到我们倒霉的道德实验品，如果我们要求鲍勃和道格遵循“欺诈是好的”这样的道德原则行事，会发生什么呢？ 如果道格有二十美元，而鲍勃有一个打火机，道格应该给鲍勃二十美元买打火机，然后他拿走打火机却没有给鲍勃二十美元，那么道格一直在欺骗是好的这样的前提下行事。
 
-What happens then?
+然后会发生什么？
 
-Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
+显然，“欺诈是好的”这一原则不能由道格和鲍勃同时进行-为了欺诈，道格必须不诚实地行事，而鲍勃必须诚实地行事。 Thus to enable Doug’s “moral” action, Bob must act “immorally.”
 
 UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
 
