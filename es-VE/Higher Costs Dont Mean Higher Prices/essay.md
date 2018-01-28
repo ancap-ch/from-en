@@ -1,6 +1,6 @@
 Hay limitaciones para el modelo económico estándar de las curvas de oferta y demanda que se cruzan para revelar el precio y cantidad óptima o de equilibrio de un bien. Esas limitaciones, como bien saben los austriacos, se deben a suposiciones irreales. Pero notar que las suposiciones están fuera de este mundo no es suficiente, especialmente si los modelos son utilizados para explicar un mundo que no coincide con las suposiciones. La aplicación de los modelos simplificados, los cuales revelan hechos importantes acerca de cómo funciona la economía, tiende a llevar a muchos economistas por el camino equivocado.
 
-# El aumento de los costos para los productores no aumenta los precios
+# Aumentar los costos a los productores no aumenta los precios
 
 A [episodio reciente de EconTalk](http://www.econtalk.org/archives/2017/02/tom*wainwright.html), en el cual el presentador Russ Roberts entrevista al periodista y autor Tom Wainwright del *Economista* en su reciente libro *[Narcoeconomias](https://www.amazon.com/Narconomics-How-Run-Drug-Cartel/dp/1610395832/?tag=misesinsti-20)*, ilustra qué simple La lógica de Econ 101 puede ser engañosa. Si bien vale la pena escuchar el episodio y la discusión es interesante e informativa, una parte importante al principio está dedicada a discutir el tema del precio de las drogas ilegales. Al observar una aparente ¨paradoja¨ y el argumento ¨fantástico¨del autor, Roberts y Wainwright se embarcan y quedan atrapados en una discusión que es fundamentalmente defectuosa y, por lo tanto, puede engañar a los oyentes.
 
