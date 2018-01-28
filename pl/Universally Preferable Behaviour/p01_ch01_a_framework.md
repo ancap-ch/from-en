@@ -38,13 +38,13 @@ What, then, is the “bull’s-eye” of truth?
 
 *Prawdziwość* stwierdzenia jest mierzalna relatywnie do jego zgodności z obiektywną rzeczywistością.
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+Na moment odkładając wyzwania językowe, jeśli wskaże na mewę i powiem, że "to jest kowadło," oczywiście będę w błędzie ponieważ kowadła są nieorganiczne i nie potrafią latać. The truth value of my statement is measured relative to the objective facts of reality. Ponieważ mewa nie jest kowadłem, moje stwierdzenie jest nieprawdziwe.
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. Jeśli nie są, nie mamy nic do gadania, a ty i ta nie zrozumiałeś nic co napisałem, więc to zdanie będzie równie bez znaczenia i równie dobrze mogło by zostać wygenerowane w "wingdings".
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+Zakładając, że potrafisz zobaczyć różnicę pomiędzy powyższymi czcionkami, możemy rozsądnie kontynuować.
 
 #### Accuracy And Consistency
 
