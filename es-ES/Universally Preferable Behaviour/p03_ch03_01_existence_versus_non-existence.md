@@ -160,7 +160,7 @@ En el tribunal, me injuriarían y me meterían a la cárcel por mi hipocresía o
 
 Ah, pero en la "zona nula" del gobierno, la violación es hacer el amor, el secuestro es una invitación, rechazar el robo es egoísmo malvado, y la coerción es la bondad.
 
-Esto es lo que quiero decir cuando digo que este "mundo opuesto * zona nula *" es la barrera más fundamental para la felicidad humana en todo el mundo. Robar es malo para nosotros; robar es incorrecto en abstracto, ¿pero el robo es de alguna manera "correcto" en este insano universo alternativo llamado "gobierno"?
+Esto es lo que quiero decir cuando digo que este "mundo opuesto * zona nula *" es la barrera fundamental para la felicidad humana en todo el mundo. Robar es malo para nosotros; robar es incorrecto en abstracto, ¿pero el robo es de alguna manera "correcto" en este insano universo alternativo llamado "gobierno"?
 
 [^2]: Ni siquiera *comenzamos * la pesadilla lógica del valor de verdad que figura en la declaración "el error es igual a la verdad".
 
