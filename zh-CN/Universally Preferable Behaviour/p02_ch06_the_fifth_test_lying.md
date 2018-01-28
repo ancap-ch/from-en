@@ -24,9 +24,9 @@
 
 **鲍勃：**没有。
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**道格：**因此说谎并不总是好的，因为关于说谎是件好事，这件事你说的是真话。
 
-Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
+谎言，然而，不需要实施武力，所以并不违反*可避免性*的可能性。既然骗子是可以避免的，他们就不可能在逻辑上被攻击。
 
 Lying also fits more closely in the category of *violence*, insofar as it is moral to lie in self-defence, just as it is moral to use violence in self-defence It is hard to think of a situation where one would have to “be late” in self-defence, or “be rude.” However, if a man bursts into your house and demands to know where your beloved wife is so he can slap her around, it would seem a parody of integrity to refuse to lie to him. Lying in this case would be a form of third-party self-defence, and as morally acceptable as the use of violence in self-defence Similarly, if a man obtains a hundred dollars from us by lying, we may justly lie to him to get it back.
 
