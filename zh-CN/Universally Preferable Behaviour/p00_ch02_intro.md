@@ -42,7 +42,7 @@
 
 “跨越零地域”—或将小道理和大真题无缝结合—必然是如此困难和危险吗？ 把感性和概念统一在同一逻辑推理上是一个巨大的挑战—但是，这一过程*必然要*花上千年万载、付出巨大代价吗？
 
-如果我们看看人类的技术进步和经济发展，几乎我们看到的是一个数以千年的沿水平发展线，随后过去几百年里的发展出现了大规模而渐近剧增。 令人难以置信的事，一些普遍的基因突变可以解释知识一致性和物质成就的突如其来和巨大加速。 Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
+如果我们看看人类的技术进步和经济发展，几乎我们看到的是一个数以千年的沿水平发展线，随后过去几百年里的发展出现了大规模而渐近剧增。 令人难以置信的事，一些普遍的基因突变可以解释知识一致性和物质成就的突如其来和巨大加速。 理论中声称某种“雪球效应”的产生，是由于自文明诞生以来产生的所有知识小增量的积累而神秘地推动，通常可以被完全排除在*事后解释*，因为它们没有预测价值。
 
 If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
 
