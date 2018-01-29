@@ -32,7 +32,7 @@ Cuando analizamos un principio como el NAP, realmente hay sólo siete posibilida
 - La iniciación del uso de la fuerza es a veces moralmente malo.
 - La iniciación del uso de la fuerza nunca es moralmente malo.
 - La iniciación del uso de la fuerza no tiene contenido moral.
-- The initiation of the use of force is never morally right.
+- La iniciación del uso de la fuerza nunca es moralmente bueno.
 - The initiation of the use of force is sometimes morally right.
 - The initiation of the use of force is always morally right.
 
