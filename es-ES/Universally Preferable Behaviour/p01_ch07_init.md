@@ -18,11 +18,11 @@ El ladrón que lo apuñala a usted, sin embargo, está iniciando un ataque a su 
 
 Si yo soy un fumador crónico hace mucho tiempo, tuve participación en la cadena de eventos que dieron como resultado mi cáncer de pulmón. Por iniciar y mantener el hábito de fumar, he puesto en marcha una cadena de causalidad que puede resultar en una condición que ponga en peligro mi vida. Es certeramente posible para mí desarrollar un cáncer de pulmon sin fumar – o fumar sin desarrollar un cáncer de pulmón – pero verdaderamente he afectado las posibilidades.
 
-Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
+De manera similar, es posible para mí dejar mi billetera en el banco de un parque durante una semana, y luego regresar y encontrar que sigue en el lugar, pero al dejarla allí por tanto tiempo, verdaderamente he afectado las posibilidades de que pueda desaparecer.
 
-On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
+Por otro lado, si me quedo en casa todas las noches, no estoy exactamente poniéndome en peligro, y entonces si un loco invade mi casa y me roba, no puedo ser culpado de manera razonable por cualquier rol causal que haya tenido en el incidente.
 
-### The Non-Aggression Principle (NAP)
+### El Principio No-Agresivo (NAP)
 
 A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
 
