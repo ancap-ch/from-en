@@ -40,7 +40,7 @@
 
 跨越这个“零地域”充满了危险。 小道理通往大真理的道路是由百万骨头堆砌而成的。 从苏格拉底之死到宗教狂热者对早期科学家的酷刑，再到数以百万计的人被谋杀、为法西斯主义和共产主义的黑色幻想而献身的人，任何人类知识的向前推动进入“零地域”都充满了相当大的危险。
 
-“跨越零地域”—或将小道理和大真题无缝结合—必然是如此困难和危险吗？ It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
+“跨越零地域”—或将小道理和大真题无缝结合—必然是如此困难和危险吗？ 把感性和概念统一在同一逻辑推理上是一个巨大的挑战—但是，这一过程*必然要*花上千年万载、付出巨大代价吗？
 
 If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
 
