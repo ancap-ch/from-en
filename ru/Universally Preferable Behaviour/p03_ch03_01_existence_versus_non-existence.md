@@ -6,7 +6,7 @@
 
 Thus if I say, “God exists,” what I am really saying is:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+“*То, что существует, должно иметь способность к выявлению; Бога выявить нельзя, но Бог существует, т. е. то, что не существует, существует.*”
 
 In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
 
