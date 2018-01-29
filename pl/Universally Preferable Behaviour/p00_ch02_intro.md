@@ -118,15 +118,15 @@ Thus the establishment of consistent and universal truth necessarily limits and 
 
 ### Effective Parasitism
 
-Najbardziej skutecznymi pasożytami - lub wirusami - są te, które oszukują ciało w obojętność. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+Najbardziej skutecznymi pasożytami - lub wirusami - są te, które oszukują ciało w obojętność. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. Obawiamy się HIV i raka, w szczególności dlatego, że są w stanie ominąć nasz układ odpornościowy. Ta sama technika stosowana jest przez intelektualnych pasożytów, aby wyłączyć systemy obronne tych, których polują.
 
-Jeśli nieznajomy zaatakuje cię w zaułku i zażąda pieniędzy, będziesz przerażony i przerażony. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Inni czuliby współczucie dla twojego kłopotu i uniknęliby tej uliczki w przyszłości.
+Jeśli nieznajomy zaatakuje cię w zaułku i zażąda pieniędzy, będziesz przerażony i przerażony. Możesz walczyć, możesz uciekać, albo możesz dać mu swój portfel, ale pozostaniesz w szoku, zły i przerażony interakcją. Gdy powtórzysz tę historię, powiesz to w sposób, który wzmocni podstawową i nikczemną pogwałcenie twoich praw osobistych i własności. Inni czuliby współczucie dla twojego kłopotu i uniknęliby tej uliczki w przyszłości.
 
 Jest to przykład "małej prawdy", która brzmi: "Kradzież ze mnie jest zła"
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+Kiedy jednak przedstawiciel rządowy prześle ci list, w którym zażąda od Ciebie zapłaty pieniędzy, możesz poczuć pewne zniesławienie, ale nie opowiesz tej historii z takim samym przerażeniem i oburzeniem swoim przyjaciołom.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+Jest to przykład "środkowej prawdy", która zaciemnia "wielką prawdę", czyli "kradzież jest zła"
 
 Ta książka skoncentruje się na demaskowaniu i niszczeniu tych fałszywych "środkowych prawd". Uważam, że ludzkość cierpi bez końca pod tyranią fałszywych etycznych "środkowych prawd", które uzasadniają destrukcyjny światopogląd religijnych zabobonów, świeckiego despotyzmu i kultu rodziny.
 
