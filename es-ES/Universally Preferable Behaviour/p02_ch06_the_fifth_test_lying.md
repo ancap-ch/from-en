@@ -4,23 +4,23 @@ La pregunta de *mintiendo* es interesante porque decir la verdad se considera un
 
 Generalmente es considerado *más* de un requerimiento estricto que "estar a tiempo", pero *menos* estricto que "robar." ¿Qué tiene que decir el cuadro de trabajo de el UPB sobre esto?
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+Naturalmente, cualquier teoría moral que propone que "mentir es bueno" inmediatamente se autodestruye, ya que si el hombre que la propone *esta* mintiendo - lo cual es bueno - entonces mentir es malo, porque él ha dicho la verdad de que mentir es malo.
 
-For instance:
+Por ejemplo:
 
-**Bob:** Lying is always good.
+**Bob:** Mentir siempre es bueno.
 
-**Doug:** Are you lying?
+**Doug:** ¿Estás mintiendo?
 
-**Bob:** Yes.
+**Bob:** Si.
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**Doug:** Entonces mentir debe ser malo, dado que tú estas mintiendo sobre que eso es bueno.
 
-Or:
+O:
 
-**Bob:** Lying is always good.
+**Bob:** Mentir siempre es bueno.
 
-**Doug:** Are you lying?
+**Doug:** ¿Estas mintiendo?
 
 **Bob:** No.
 
