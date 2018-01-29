@@ -6,9 +6,9 @@
 
 地球看起来是平的，其实并不是。 太阳和月亮看起来大小一样，其实它们大小不一样。 星星好像围绕着地球转；其实并不是。 认识真理需要我们置于我们感官之外来看世界—这并不意味着否认我们的感官，而是严密的遵循感官的*真实*依据，这一依据不是地球是平的，而是物质，能量和物理定理的一致性。 当我们放开手中的石头，它掉下来了—这是感官*真实的*依据，而不是地球是固定不变的。 认为世界是静止的这一观点是错误的假设，它与我们感官的直接证据相矛盾，即一切事物都会坠落。 如果一切事物都会坠落，世界就无法固定不变。
 
-这些都是日常的小道理：岩石坠落，烟雾升起，火是热的，太阳和月亮都是圆的。 If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
+这些都是日常的小道理：岩石坠落，烟雾升起，火是热的，太阳和月亮都是圆的。 如果我们继续坚定严格地致力于这些“小真理”，我们迟早都能推导出物理学的伟大真理，它为我们提供了令人如此敬畏的知识和力量。
 
-In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
+然而，在小道理和伟大真理之间存在着蒙蔽我们的幻象—无论是在物理学里还是伦理学里都是这样。
 
 In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
 
