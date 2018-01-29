@@ -24,9 +24,9 @@
 
 从历史角度看，我们可以在物理学中看见相同的矛盾。 在我们的直接经验中没有完美的圆周运动，但是由于对上帝的信仰，所有的行星运动都必须是一个“完美的圆周运动”—这一前提阻碍了天文学发展长达几个世纪。 同样地，如果一个人转动他的头，他就没有理由相信：整个世界围绕着他转—他会很高兴地把这往前推进，不只是作为他的“小道理”，而是作为一个*大真理*，或是普世原则。 然而，在人类历史大部分时间里，人们相信恒星和行星围绕着地球旋转，而不是地球围绕恒星和行星旋转。 我们能在直接经验和普世原则之间看到“零地域”，其中完全对立的原则被认为是完全有效的。
 
-理智的人不能直接感受到上帝的存在。 在他的日常生活中，他完全接受*无法感知的就不存在*。 没有理智的人无论何时每走一步他都会畏惧，害怕无形的墙可能会阻拦他的路。 The greatest abstractions of science support his approach.
+理智的人不能直接感受到上帝的存在。 在他的日常生活中，他完全接受*无法感知的就不存在*。 没有理智的人无论何时每走一步他都会畏惧，害怕无形的墙可能会阻拦他的路。 科学最伟大的抽象概念支持他的方法。
 
-Conversely, in the “null zone” of religion, the *exact opposite* of both the little truths and the great truths is believed to be true. Personally, a man believes that *that which cannot be perceived does not exist* – intellectually, science has proven this repeatedly. However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
+相反地，在宗教的“零地域”，小道理和大真理的*对立面*被认为是真的。 就个人而言，一个人相信*无法感知的就不存在*—就学术上而言，科学已经反复证明了这一点。 However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
 
 Our belief in the virtue of the military also lies in this “null zone.” If a private man is paid to murder another man, we call him a “gun for hire,” and condemn him as a hit man. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
 
