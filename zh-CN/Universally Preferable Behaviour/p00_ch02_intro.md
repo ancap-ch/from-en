@@ -2,7 +2,7 @@
 
 历经无数个世代，人类生活在一种自我矇昧的以自我为中心的摇篮里：地球是平的，月亮和星星围绕着人转，祖先从死亡的迷雾中向人召唤，雷声是众神的愤怒。
 
-人们挖掘这个富有主观解释的自我崇拜的摇篮需要几千年的劳动，并且要付出数百万人的生命作为代价。 要把我们的视角从*知觉经验*转向*逻辑概念*所做的努力是可怕的，令人兴奋的，会让人非常迷茫，也极具危险。 理解世界并不是*感觉*它是什么，也不是*好像*它是什么，理解世界是—依然是—人类智慧最大的壮举。 The *truth* of reality turned out to be in the eyes of the mind, not of the flesh.
+人们挖掘这个富有主观解释的自我崇拜的摇篮需要几千年的劳动，并且要付出数百万人的生命作为代价。 要把我们的视角从*知觉经验*转向*逻辑概念*所做的努力是可怕的，令人兴奋的，会让人非常迷茫，也极具危险。 理解世界并不是*感觉*它是什么，也不是*好像*它是什么，理解世界是—依然是—人类智慧最大的壮举。 现实的*真相*在心灵的慧眼里，而不在肉眼里。
 
 The world looks flat; it is not. The sun and the moon look the same size; they are not. The stars seem to move around the earth; they do not. Learning the truth requires that we see the world from outside our senses – this does not mean a rejection of our senses, but an airtight compliance with the *real* evidence of the senses, which is not that the world is flat, but that matter, energy and physical laws are consistent. When we let go of a rock in our hand, it falls – this is the *real* evidence of the senses, not that the Earth is fixed and immovable. The idea that the world is immobile is an incorrect assumption that contradicts the direct evidence of our senses, which is that everything falls. If everything falls, the world cannot be fixed and immovable.
 
