@@ -20,9 +20,9 @@ Jeśli nie jestem w ogóle odpowiedzialny za moje słowa, to nie ma sensu się z
 
 This ridiculous portrait is accurate in one sense though – if some other being is in full control of the girl’s vocal chords, it is that being which needs to be addressed, not the girl, who has no control over her responses.
 
-Thus if I say to you that I do not have control over my speech, you can ask me: who does? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
+Jeśli więc powiem ci, że nie mam kontroli nad mową, możesz zapytać mnie: kto ma? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
 
-Thus the very act of controlling my body to produce speech demands the acceptance of my ability to control my speech – an implicit affirmation of my ownership over my own body.
+Tak więc sam akt kontrolowania mego ciała w celu wytworzenia mowy wymaga akceptacji mojej zdolności do kontrolowania mowy - ukrytego potwierdzenia, że jestem właścicielem mojego własnego ciała.
 
 Now, if demonic possession were a valid occurrence, and a girl possessed by a demon spat on a priest, we would not call the *girl* rude, but would rather pity her for being inhabited by such an impolite demon. Whoever has control over the girl’s body is culpable for the effects of her actions – this is why we would not call a man who stole while sleepwalking “evil,” since he did not have full control over his own body (although we may restrain him in other ways). This is also the basis for the legal defence of “not guilty by reason of insanity,” which is that we assume that a man who is insane does not have full control over his actions.
 
