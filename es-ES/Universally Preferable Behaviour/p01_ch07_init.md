@@ -36,9 +36,9 @@ Cuando analizamos un principio como el NAP, realmente hay sólo siete posibilida
 - La iniciación del uso de la fuerza es a veces moralmente bueno.
 - La iniciación del uso de la fuerza es siempre moralmente bueno.
 
-Como hemos visto más arriba, sin embargo, UPB es un marco de “todo o nada”. Si una acción es *preferible universalmente*, entonces no puede ser limitada por un individuos, geografía, tiempo, etc. Si está mal matar en Algeria, entonces también está mal matar en Bélgica, en los Estados Unidos, en el Polo Norte y en la Luna. Si está mal matar ayer, entonces no puede estar bien matar mañana. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
+Como hemos visto más arriba, sin embargo, UPB es un marco de “todo o nada”. Si una acción es *preferible universalmente*, entonces no puede ser limitada por un individuos, geografía, tiempo, etc. Si está mal matar en Algeria, entonces también está mal matar en Bélgica, en los Estados Unidos, en el Polo Norte y en la Luna. Si está mal matar ayer, entonces no puede estar bien matar mañana. Si matar está mal para Bob, entonces también debe estar mal matar para Doug.
 
-Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
+Uniendo NAP con UPB, por ende nos permite dismunuir esas siete afirmaciones a tres:
 
 1. It is universally preferable to initiate the use of force.
 2. It is universally preferable to not initiate the use of force.
