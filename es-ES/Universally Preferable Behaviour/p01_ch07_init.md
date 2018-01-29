@@ -14,9 +14,9 @@ Esta diferencia puede ser entendida a través de un análisis más profundo de l
 
 Si usted se enferma de cáncer, puede llegar a pedirle a un cirujano que lo opere. La razón por la cual la “puñalada” el cirujano no es inmoral es que el cáncer “inició” un ataque a la vida y a la salud. El cirujano está actuando como un “agente surrogado de defensa propia”, tal como lo haría un hombre que le dispara al ladrón que lo está atacando. Además usted ha dado su consentimiento al cirujano, y limita su comportamiento con un contrato específico.
 
-The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
+El ladrón que lo apuñala a usted, sin embargo, está iniciando un ataque a su vida y a su salud, motivo por el cual su ataque es lo moralmente *opuesto* a los esfuerzos del cirujano.
 
-If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Si yo soy un fumador crónico hace mucho tiempo, tuve participación en la cadena de eventos que dieron como resultado mi cáncer de pulmón. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
 
 Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
 
