@@ -22,9 +22,9 @@
 
 因此，在我们有的“小道理”（*不要攻击*）和“大真理”（*暴力是错误的*）的中间，我们有的这个“零地域”*被认为是完全正确的，它与小道理和大真理是完全对立的*。
 
-从历史角度看，我们可以在物理学中看见相同的矛盾。 在我们的直接经验中没有完美的圆周运动，但是由于对上帝的信仰，所有的行星运动都必须是一个“完美的圆周运动”—这一前提阻碍了天文学发展长达几个世纪。 同样地，如果一个人转动他的头，他就没有理由相信：整个世界围绕着他转—他会很高兴地把这往前推进，不只是作为他的“小道理”，而是作为一个*大真理*，或是普世原则。 然而，在人类历史大部分时间里，人们相信恒星和行星围绕着地球旋转，而不是地球围绕恒星和行星旋转。 Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
+从历史角度看，我们可以在物理学中看见相同的矛盾。 在我们的直接经验中没有完美的圆周运动，但是由于对上帝的信仰，所有的行星运动都必须是一个“完美的圆周运动”—这一前提阻碍了天文学发展长达几个世纪。 同样地，如果一个人转动他的头，他就没有理由相信：整个世界围绕着他转—他会很高兴地把这往前推进，不只是作为他的“小道理”，而是作为一个*大真理*，或是普世原则。 然而，在人类历史大部分时间里，人们相信恒星和行星围绕着地球旋转，而不是地球围绕恒星和行星旋转。 我们能在直接经验和普世原则之间看到“零地域”，其中完全对立的原则被认为是完全有效的。
 
-No sane man experiences God directly. In his daily life, he fully accepts that *that which cannot be perceived does not exist*. No reasonable man flinches every time he takes a step, fearing an invisible wall that might be barring his way. The greatest abstractions of science support his approach.
+理智的人不能直接感受到上帝的存在。 在他的日常生活中，他完全接受*无法感知的就不存在*。 没有理智的人无论何时每走一步他都会畏惧，害怕无形的墙可能会阻拦他的路。 The greatest abstractions of science support his approach.
 
 Conversely, in the “null zone” of religion, the *exact opposite* of both the little truths and the great truths is believed to be true. Personally, a man believes that *that which cannot be perceived does not exist* – intellectually, science has proven this repeatedly. However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
 
