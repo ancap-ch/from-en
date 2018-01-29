@@ -313,11 +313,11 @@ Da mesma forma, qualquer teoria moral que defenda o estupro enfrenta uma contrad
 </p>
 
 <p>
-  Um exemplo de proposição moral é: "o início do uso da força está errado". O CUP é a metodologia que põe à prova essa proposição contra a coerência interna e a observação empírica. UPB thus first asks: <em>is the proposition logical and consistent?</em> UPB then asks: <em>what evidence exists for the truth of the proposition?</em>
+  Um exemplo de proposição moral é: "o início do uso da força está errado". O CUP é a metodologia que põe à prova essa proposição contra a coerência interna e a observação empírica. Portanto, o CUP primeiro pergunta: <em>a proposição é lógica e consistente?</em> depois pergunta: <em>que evidência existe para a verdade da proposição?</em>
 </p>
 
 <p>
-  To keep this book at a reasonable length, we will in general deal mostly with the first criterion of logical consistency. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+  Para manter este livro com um tamanho razoável, trataremos, em geral, principalmente do primeiro critério de consistência lógica. Para o segundo critério, devemos confiar em evidências sobre as proibições universais em todas as culturas contra determinadas acções, como violação, roubo, assalto e assassinato. Muito mais poderia ser escrito sobre a evidência histórica que ajuda a apoiar ou rejeitar várias proposições morais, mas vamos deixá-lo para outro momento. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
 </p>
 
 <p>
