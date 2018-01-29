@@ -139,4 +139,4 @@ Przejdźmy teraz do pytania czy wzorzec PPZ dotyczy spraw *etyki*, *estetyki* cz
 
 [^7]: To samo dotyczy oczywiście również, na przykład, morderstwa i napadu. Bardziej szczegółowo wrócimy do tych dowodów - jak również do dalszego badania praw własności - w drugiej części tej książki.Context | Request Context
 
-[^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
+[^8]: Powszechnych, pozytywnych zasad moralnych również można dowieść - na przykład powszechnej słuszności praw własności i zakazu stosowania przemocy - ale to również omówimy w części drugiej.
