@@ -107,7 +107,7 @@ Since valid theories require *logical consistency*, a moral theory cannot be val
 
 Similarly, any moral theory that advocates rape faces a similar contradiction. Rape can *never* be moral, since any principle that approves it automatically contradicts itself. If rape is justified on the principle that “taking pleasure is always good,” then such a principle immediately fails the test of logical consistency, since the rapist may be “taking pleasure,” but his victim certainly is *not*.[^7]
 
-Thus subjecting moral theories to the scientific method produces results that conform to rationality, empirical observations and plain common sense. Murder, theft, arson, rape and assault are all proven immoral.[^8]
+Poddanie teorii moralnych metodom naukowym daje wyniki zgodne z racjonalnością, obserwacjami empirycznymi i zwykłym zdrowym rozsądkiem. Murder, theft, arson, rape and assault are all proven immoral.[^8]
 
 To aid in swallowing this rather large conceptual pill, below is a table that helps equate theories of physics and biology with scientific theories of universally preferable (or moral) behaviour:
 
@@ -125,7 +125,7 @@ To aid in swallowing this rather large conceptual pill, below is a table that he
 
 Table: Theories of physics and biology and of UPB
 
-In conclusion, it is safe to say that (a) moral rules are valid, and (b) moral theories must be subjected to the rigours of logic and evidence, just as theories of physics and biology are. Any moral theory based on non-universal or self-contradictory principles is demonstrably false.
+In conclusion, it is safe to say that (a) moral rules are valid, and (b) moral theories must be subjected to the rigours of logic and evidence, just as theories of physics and biology are. Każda teoria moralna oparta na nie-uniwersalnych lub sprzecznych zasadach jest ewidentnie fałszywa.
 
 #### UPB: The Framework
 
