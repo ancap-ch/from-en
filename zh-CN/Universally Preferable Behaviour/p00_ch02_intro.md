@@ -20,7 +20,7 @@
 
 然而，在我们的头脑中存在着一个被称为“上帝”的虚构实体，这个实体被认为是完全合乎道德的。 这个实体淹没世界，尽管他们做了完美又有先见之明的决定，但让灵魂下了地狱，制裁强奸，谋杀，盗窃，打架斗殴等行为，这些行为我们都会谴责为绝对邪恶，不幸的是，这个实体不断严重地违反“暴力是错误的”这一法令。
 
-Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
+因此，在我们有的“小道理”（*不要攻击*）和“大真理”（*暴力是错误的*）的中间，我们有的这个“零地域”*被认为是完全正确的，它与小道理和大真理是完全对立的*。
 
 Historically, we can see the same inconsistency in physics. There are no perfect circles in our direct experience, but because of a belief in God, all planetary motion had to be a “perfect circle” – a premise that retarded astronomy for centuries. Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth,” but as a *great truth*, or universal principle. Yet for most of human history, it was believed that the stars and planets rotated around the Earth, rather than that the Earth rotated. Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
 
