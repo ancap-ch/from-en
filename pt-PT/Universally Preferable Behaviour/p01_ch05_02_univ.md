@@ -309,11 +309,11 @@ Da mesma forma, qualquer teoria moral que defenda o estupro enfrenta uma contrad
 </h4>
 
 <p>
-  UPB can thus be seen as a framework for validating ethical theories or propositions – just as the scientific method is a framework that is used to validate scientific theories or propositions.
+  Portanto o CUP pode ser visto como uma estrutura para validar teorias ou proposições éticas - assim como o método científico é uma estrutura usada para validar teorias ou proposições científicas.
 </p>
 
 <p>
-  An example of a moral proposition is: “the initiation of the use of force is wrong.” UPB is the methodology that tests that proposition against both internal consistency and empirical observation. UPB thus first asks: <em>is the proposition logical and consistent?</em> UPB then asks: <em>what evidence exists for the truth of the proposition?</em>
+  Um exemplo de proposição moral é: "o início do uso da força está errado". O CUP é a metodologia que põe à prova essa proposição contra a coerência interna e a observação empírica. UPB thus first asks: <em>is the proposition logical and consistent?</em> UPB then asks: <em>what evidence exists for the truth of the proposition?</em>
 </p>
 
 <p>
