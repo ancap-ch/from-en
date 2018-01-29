@@ -20,7 +20,7 @@ This beast has brought down many great heroes, from Socrates to Plato to Augusti
 
 The cost to mankind has been enormous.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Ponieważ nie potrafiliśmy zdefiniować racjonalnego systemu uniwersalnej moralności, byliśmy zmuszeni zadawać naszym dzieciom religijne opowieści o horrorze lub wręczać broń, więzienia i armie małemu monopolowi kontrolerów bezdusznych, którzy nazywają siebie "państwem"
 
 Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
 
@@ -34,7 +34,7 @@ The increased information flow of the Internet has raised the suspicions of a ne
 
 “Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. Ci skrajni relatywiści rezerwują najbardziej żałosne ataki na każdego, kto twierdzi jakąkolwiek formę pewności. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
 
 Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
 
@@ -50,7 +50,7 @@ The truth is that we need morality; the lie is that gods or governments can rati
 
 My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. W pełni rozumiem, że szanse, że jakiś facet w Internecie - domowy szaleńcy - w jakiś sposób rozwiązały filozoficzny problem wieków, nie są szczególnie wysokie - w rzeczywistości są tak bliskie zeru, że praktycznie nie można ich odróżnić. z tego.
 
 Still, not *quite* zero.
 
