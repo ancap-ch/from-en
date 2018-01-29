@@ -143,53 +143,53 @@ Da mesma forma, qualquer teoria moral que defenda o estupro enfrenta uma contrad
     </td>
     
     <td align="left">
-      Organic Matter
+      Matéria Orgânica
     </td>
     
     <td align="left">
-      Preferable behaviour for mankind
+      Comportamento preferível para a Humanidade
     </td>
   </tr>
   
   <tr>
     <td align="left">
-      <strong>Instance</strong>
+      <strong>Instância</strong>
     </td>
     
     <td align="left">
-      A rock
+      Uma pedra
     </td>
     
     <td align="left">
-      A horse
+      Um cavalo
     </td>
     
     <td align="left">
-      A man
+      Um homem
     </td>
   </tr>
   
   <tr>
     <td align="left">
-      <strong>Sample Rule</strong>
+      <strong>Exemplos de regras</strong>
     </td>
     
     <td align="left">
-      Gravity
+      Gravidade
     </td>
     
     <td align="left">
-      The desire for survival
+      O desejo de sobrevivência
     </td>
     
     <td align="left">
-      Self-ownership
+      Auto-propriedade
     </td>
   </tr>
   
   <tr>
     <td align="left">
-      <strong>Sample Theory</strong>
+      <strong>Exemplo de Teoria</strong>
     </td>
     
     <td align="left">
