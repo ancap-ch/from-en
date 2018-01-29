@@ -125,13 +125,13 @@ To aid in swallowing this rather large conceptual pill, below is a table that he
 
 Tabela: Teorie fizyki, biologii i PPZ
 
-In conclusion, it is safe to say that (a) moral rules are valid, and (b) moral theories must be subjected to the rigours of logic and evidence, just as theories of physics and biology are. Każda teoria moralna oparta na nie-uniwersalnych lub sprzecznych zasadach jest ewidentnie fałszywa.
+Podsumowując, można z całą pewnością ustalić, że: (a) zasady moralne są słuszne i (b) teorie moralne muszą być poddane zasadom logiki i dowodowi, tak samo jak prawa fizyki i biologii. Każda teoria moralna oparta na nieuniwersalnych lub sprzecznych zasadach jest ewidentnie fałszywa.
 
-#### UPB: The Framework
+#### PPZ: Wzór Etyczny
 
-UPB can thus be seen as a framework for validating ethical theories or propositions – just as the scientific method is a framework that is used to validate scientific theories or propositions.
+PPZ może być więc postrzegane jako wzorzec do oceniania słuszności teorii i hipotez etycznych - tak jak metoda naukowa jest wzorcem do oceny słuszności teorii i hipotez naukowych.
 
-An example of a moral proposition is: “the initiation of the use of force is wrong.” UPB is the methodology that tests that proposition against both internal consistency and empirical observation. UPB thus first asks: *is the proposition logical and consistent?* UPB then asks: *what evidence exists for the truth of the proposition?*
+Przykładem hipotezy moralnej jest: "wszczęcie użycia siły jest złe.". PPZ jest metodologią, która testuje tą hipotezę zarówno pod względem wewnętrznej spójności jak i zgodności z obserwacją empiryczną. UPB thus first asks: *is the proposition logical and consistent?* UPB then asks: *what evidence exists for the truth of the proposition?*
 
 To keep this book at a reasonable length, we will in general deal mostly with the first criterion of logical consistency. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
 
