@@ -16,7 +16,7 @@ Si usted se enferma de cáncer, puede llegar a pedirle a un cirujano que lo oper
 
 El ladrón que lo apuñala a usted, sin embargo, está iniciando un ataque a su vida y a su salud, motivo por el cual su ataque es lo moralmente *opuesto* a los esfuerzos del cirujano.
 
-Si yo soy un fumador crónico hace mucho tiempo, tuve participación en la cadena de eventos que dieron como resultado mi cáncer de pulmón. Por iniciar y mantener el hábito de fumar, he puesto en marcha una cadena de causalidad que puede resultar en una condición que ponga en peligro mi vida. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Si yo soy un fumador crónico hace mucho tiempo, tuve participación en la cadena de eventos que dieron como resultado mi cáncer de pulmón. Por iniciar y mantener el hábito de fumar, he puesto en marcha una cadena de causalidad que puede resultar en una condición que ponga en peligro mi vida. Es certeramente posible para mí desarrollar un cáncer de pulmon sin fumar – o fumar sin desarrollar un cáncer de pulmón – pero verdaderamente he afectado las posibilidades.
 
 Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
 
