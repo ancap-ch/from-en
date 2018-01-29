@@ -4,11 +4,11 @@ Przez niezliczone pokolenia ludzkość żyła w rodzaju egocentrycznego łona na
 
 Burrowing out from this narcissistic womb of subjective interpretation required the labour of millennia – and cost the lives of millions. The effort required to wrench our perspective from *perceptual experience* to *conceptual logic* was terrifying, exhilarating, highly disorienting and extremely dangerous. Understanding that the world was not what it *felt like*, or *seemed like*, was – and remains – the greatest feat of our intelligence. The *truth* of reality turned out to be in the eyes of the mind, not of the flesh.
 
-The world looks flat; it is not. The sun and the moon look the same size; they are not. Gwiazdy poruszają się po ziemi; oni nie. Learning the truth requires that we see the world from outside our senses – this does not mean a rejection of our senses, but an airtight compliance with the *real* evidence of the senses, which is not that the world is flat, but that matter, energy and physical laws are consistent. When we let go of a rock in our hand, it falls – this is the *real* evidence of the senses, not that the Earth is fixed and immovable. Idea, że świat jest nieruchliwy, jest błędnym założeniem, które przeczy bezpośredniemu zmysłowi naszych zmysłów, a mianowicie, że wszystko spada. If everything falls, the world cannot be fixed and immovable.
+The world looks flat; it is not. The sun and the moon look the same size; they are not. Gwiazdy poruszają się po ziemi; oni nie. Learning the truth requires that we see the world from outside our senses – this does not mean a rejection of our senses, but an airtight compliance with the *real* evidence of the senses, which is not that the world is flat, but that matter, energy and physical laws are consistent. When we let go of a rock in our hand, it falls – this is the *real* evidence of the senses, not that the Earth is fixed and immovable. Idea, że świat jest nieruchliwy, jest błędnym założeniem, które przeczy bezpośredniemu zmysłowi naszych zmysłów, a mianowicie, że wszystko spada. Jeśli wszystko upadnie, świat nie może być naprawiony i nieruchomy.
 
 To są małe prawdy codzienności; że skały opadają, dym unosi się, ogień jest gorący, a słońce i księżyc są okrągłe. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
 
-In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
+Pomiędzy małymi prawdami a wielkimi prawdami są jednak iluzje, które nas oślepiają - zarówno w fizyce, jak i w etyce.
 
 W fizyce, wielkie prawdy nie mogą zaprzeczać drobnym prawdom. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
 
@@ -90,19 +90,19 @@ The world falls because a rock falls.
 
 Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
 
-However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+Jednak wirus, który sprawia, że jesteśmy ciągle wyczerpani i ledwo możemy utrzymać się przy życiu, trudno nazwać "wzajemnie korzystnymi". Jeśli pomyślimy o naszej długiej i ponurej historii katastrofy, głodu, wojny, choroby i biedy - i porównajmy to ze zdumiewającymi materialnymi sukcesami nowoczesności - jasne jest, że forma pasożytnictwa tyranizowała nasze umysły i zdolności przez tysiąclecia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
 
-When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
+Kiedy wyleczymy się z choroby, czujemy się lepiej, ale choroba nie. Z perspektywy wirusa ospy, szczepionka przeciwko ospie wietrznej jest ludobójstwem.
 
-In the same way, the parasites that strangle mankind view the liberty of the majority with horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+W ten sam sposób pasożyty, które dławią ludzkość, patrzą na wolność większości z przerażeniem. Ponieważ ich pasożytnictwo uwalnia ich od wymagań rzeczywistości - aby zarobić chleb powszedni - nieuchronnie postrzegają wolność mas jako formę zniewolenia dla siebie. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
 
-Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+Ustanowienie prawdy z konieczności ogranicza fantazję. Limiting fantasy necessarily limits exploitation. Jeśli mogę cię przekonać, że jestem żyjącym człowiekiem - Bogiem i że Bóg, który zrodził Mnie, chce, abyś dał mi dziesięć procent swoich dochodów, albo zostaniesz ukarany na wieki, wtedy mogę stać się niezmiernie bogaty. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+Ci, którzy używają fantazji moralnych, aby wyzyskiwać ludzkość, zawsze walczyli z bronią przeciwko tym, którzy zagrażają ich egzystencji, odkrywając i rozpowszechniając prawdę.
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+Znamy przykład mafii, która grozi potencjalnym rywalom okaleczeniem i śmiercią, lub widowiskiem sekt religijnych atakujących siebie nawzajem lub jednego rządu atakującego drugiego.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+Kiedy filozofowie ujawniają fałsz niezbędny do ciągłej eksploatacji, to jednak nie dążą do tego, by stać się konkurentami. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
 
 A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
 
@@ -120,9 +120,9 @@ Thus the establishment of consistent and universal truth necessarily limits and 
 
 The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Inni czuliby współczucie dla twojego kłopotu i uniknęliby tej uliczki w przyszłości.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+Jest to przykład "małej prawdy", która brzmi: "Kradzież ze mnie jest zła"
 
 However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
 
