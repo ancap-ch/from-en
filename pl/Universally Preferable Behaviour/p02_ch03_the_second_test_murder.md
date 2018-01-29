@@ -32,8 +32,8 @@ Here again we find that the UPB framework holds true in terms of murder. The onl
 
 We could take the same approach to the question of assault, but the arguments would be identical to those of rape and murder, so for the sake of brevity, we shall continue.
 
-Let us now turn to the question of theft. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
+Przejdźmy teraz do kwestii kradzieży. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. Odkryliśmy matematykę, która wyjaśnia, w jaki sposób jesteśmy w stanie instynktownie złapać piłkę, i to jest niezbędny początek.
 
-### Self-Defence?
+### Samoobrona?
 
 We have skirted over the issue of self-defence with regards to murder, though it is scarcely necessary to examine it in the case of rape. This is not because the issue of self-defence is either self-evident or uncomplicated, but rather because the complications that exist can be dealt with more comprehensively after we look at the question of theft.
