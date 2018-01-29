@@ -42,27 +42,27 @@ Crossing this “null zone” is fraught with peril. Droga od małych prawd do w
 
 Czy "przekroczenie strefy zerowej" - czy płynne połączenie małych prawd z wielkimi prawdami - nieuchronnie będzie tak trudne i niebezpieczne? Jest to ogromne wzywanie, aby zjednoczyć percepcyjne z koncepcyjnym w prostej linii logicznego rozumowania - ale czy ten proces*musi* trwać przez tysiące lat oceanów pełnych krwi?
 
-Jeśli spojrzymy na postęp technologiczny i gospodarczy ludzkości, zobaczymy mniej lub bardziej płaską linię przez niezliczone tysiąclecia, po których następują ogromne i asymptotyczne wzrosty w ciągu ostatnich kilkuset lat. Trudno sobie wyobrazić, że niektóre powszechne mutacje genetyczne mogą mieć wpływ na to nagłe i ogromne przyśpieszenie intelektualnej zgodności i sukcesu materialnego. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
+Jeśli spojrzymy na postęp technologiczny i gospodarczy ludzkości, zobaczymy mniej lub bardziej płaską linię przez niezliczone tysiąclecia, po których następują ogromne i asymptotyczne wzrosty w ciągu ostatnich kilkuset lat. Trudno sobie wyobrazić, że niektóre powszechne mutacje genetyczne mogą mieć wpływ na to nagłe i ogromne przyśpieszenie intelektualnej zgodności i sukcesu materialnego. Teorie twierdzące, że pewien "efekt kuli śnieżnej" pojawił się, tajemniczo napędzany przez nagromadzenie wszystkich małych przyrostów wiedzy, które miały miejsce od zarania cywilizacji, można zazwyczaj odrzucić z ręki jako całkowicie * ex post facto < / 0> wyjaśnienia, ponieważ nie mają wartości predykcyjnej.</p> 
 
 If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
 
 Tak więc musi istnieć siła skierowana w dół, która historycznie działała, by zmiażdżyć i zniewolić naturalną wolność ludzkości.
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. Połączenie przesądów w postaci religii i przemocy w formie arystokracji zagrażało racjonalnym myślicielom zastraszaniem, więzieniem, torturami i morderstwami. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+W dziedzinie nauki nie jest zbyt trudno widzieć siły opresyjne, które nieustannie utrzymywały nasze umysły w niemal pradawnej ignorancji. Połączenie przesądów w postaci religii i przemocy w formie arystokracji zagrażało racjonalnym myślicielom zastraszaniem, więzieniem, torturami i morderstwami. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+Prosta prawda jest taka, że "kapłani" i "królowie" byli - i są - jedynie ludźmi. Prosta prawda jest taka, że bogowie i diabły, którzy mieli usprawiedliwić swoje rządy, nigdy nie istniały.
 
 We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
 
 ### "Middle Truths"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+Nazwijmy opozycyjne zasady, które rezydują w "strefie zerowej" - między percepcją zmysłową a konsekwencją pojęciową - "prawdy środkowe"
 
 These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
 
 By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. Na przykład chrześcijaństwo powstało z rosnącego faszyzmu późnego Cesarstwa Rzymskiego, częściowo przez bicie na "prymitywne" przesądy istniejących teologii. “Forget your old gods, we have a brand new God who is far better!”
 
 “Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
 
@@ -80,7 +80,7 @@ Religion is also another “middle truth” – one of the most dangerous ones. 
 
 Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+Dopóki nie zostaną osiągnięte wielkie prawdy i połączone z małymi prawdami, "prawdy średnie" są po prostu rotującą falą wyzyskujących i niszczycielskich kłamstw - specjalnie zaprojektowanych, aby zapobiec osiągnięciu wielkich prawd.
 
 And the great truths are always achieved from the little truths.
 
@@ -118,9 +118,9 @@ Thus the establishment of consistent and universal truth necessarily limits and 
 
 ### Effective Parasitism
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+Najbardziej skutecznymi pasożytami - lub wirusami - są te, które oszukują ciało w obojętność. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Inni czuliby współczucie dla twojego kłopotu i uniknęliby tej uliczki w przyszłości.
+Jeśli nieznajomy zaatakuje cię w zaułku i zażąda pieniędzy, będziesz przerażony i przerażony. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Inni czuliby współczucie dla twojego kłopotu i uniknęliby tej uliczki w przyszłości.
 
 Jest to przykład "małej prawdy", która brzmi: "Kradzież ze mnie jest zła"
 
