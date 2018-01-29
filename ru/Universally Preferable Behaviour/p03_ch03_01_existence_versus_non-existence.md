@@ -12,7 +12,7 @@ Thus if I say, “God exists,” what I am really saying is:
 
 Аналогично, если я создаю некую альтернативную вселенную, где «несуществование равно существованию», «противоречие равно согласованности», «истина равна лжи» и «иррациональность равна рациональности», то в действительности я создаю мир под названием «заблуждение», помещаю в него все, что не истинно, и определяю этот мир как место, где «заблуждение равно истине».[^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Конечно, люди создают эту «альтернативную вселенную» не для того, чтобы аннулировать истину внутри нашей вселенной, скорее для того, чтобы защитить то, что является ошибочным в реальности, и назвать это истиной. К примеру, никто из тех, кто убеждает «Бог может существовать в другой вселенной, поэтому вы не можете утверждать, что Бог не существует» не приводит довод «*я* могу не существовать в той другой вселенной, поэтому вы не можете утверждать, что я существую здесь»
 
 They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
 
