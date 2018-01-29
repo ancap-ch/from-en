@@ -1,4 +1,4 @@
-## Prefacio a la segunda edición
+## Prefacio de la segunda edición
 
 La primera edición de * La Economía y la Ética de la Propiedad Privada *, publicada en 1993, ha estado fuera de impresión desde hace varios años. Durante algun tiempo y desde muchos lados he sido exhortado a preparar una nueva edicion, y Llewellyn Rockwell ofreció el instituto Ludwig Von Mises para servir como su editorial.
 
