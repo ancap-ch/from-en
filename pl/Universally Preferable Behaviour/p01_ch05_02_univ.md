@@ -131,9 +131,9 @@ Podsumowując, można z całą pewnością ustalić, że: (a) zasady moralne są
 
 PPZ może być więc postrzegane jako wzorzec do oceniania słuszności teorii i hipotez etycznych - tak jak metoda naukowa jest wzorcem do oceny słuszności teorii i hipotez naukowych.
 
-Przykładem hipotezy moralnej jest: "wszczęcie użycia siły jest złe.". PPZ jest metodologią, która testuje tą hipotezę zarówno pod względem wewnętrznej spójności jak i zgodności z obserwacją empiryczną. UPB thus first asks: *is the proposition logical and consistent?* UPB then asks: *what evidence exists for the truth of the proposition?*
+Przykładem hipotezy moralnej jest: "wszczęcie użycia siły jest złe.". PPZ jest metodologią, która testuje tą hipotezę zarówno pod względem wewnętrznej spójności jak i zgodności z obserwacją empiryczną. PPZ najpierw zadaje pytanie: *Czy hipoteza jest logiczna i spójna?* a potem dodaje: *Jakie istnieją dowody potwierdzające prawdziwość tej hipotezy?*
 
-To keep this book at a reasonable length, we will in general deal mostly with the first criterion of logical consistency. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+Aby utrzymać rozmiar tej książki w rozsądnych granicach, będziemy głównie zajmować się pierwszym kryterium spójności logicznej. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
 
 Let us now turn to the question of whether the UPB framework deals with matters of *ethics*, or *aesthetics*, or both.
 
