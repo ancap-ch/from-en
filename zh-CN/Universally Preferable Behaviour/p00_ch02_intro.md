@@ -4,7 +4,7 @@
 
 人们挖掘这个富有主观解释的自我崇拜的摇篮需要几千年的劳动，并且要付出数百万人的生命作为代价。 要把我们的视角从*知觉经验*转向*逻辑概念*所做的努力是可怕的，令人兴奋的，会让人非常迷茫，也极具危险。 理解世界并不是*感觉*它是什么，也不是*好像*它是什么，理解世界是—依然是—人类智慧最大的壮举。 现实的*真相*在心灵的慧眼里，而不在肉眼里。
 
-地球看起来是平的，其实并不是。 太阳和月亮看起来大小一样，其实它们大小不一样。 星星好像围绕着地球转；其实并不是。 认识真理需要我们置于我们感官之外来看世界—这并不意味着否认我们的感官，而是严密的遵循感官的*真实*依据，这一依据不是地球是平的，而是物质，能量和物理定理的一致性。 When we let go of a rock in our hand, it falls – this is the *real* evidence of the senses, not that the Earth is fixed and immovable. The idea that the world is immobile is an incorrect assumption that contradicts the direct evidence of our senses, which is that everything falls. If everything falls, the world cannot be fixed and immovable.
+地球看起来是平的，其实并不是。 太阳和月亮看起来大小一样，其实它们大小不一样。 星星好像围绕着地球转；其实并不是。 认识真理需要我们置于我们感官之外来看世界—这并不意味着否认我们的感官，而是严密的遵循感官的*真实*依据，这一依据不是地球是平的，而是物质，能量和物理定理的一致性。 当我们放开手中的石头，它掉下来了—这是感官*真实的*依据，而不是地球是固定不变的。 The idea that the world is immobile is an incorrect assumption that contradicts the direct evidence of our senses, which is that everything falls. If everything falls, the world cannot be fixed and immovable.
 
 These are the little truths of the everyday; that rocks fall, smoke rises, fire is hot and the sun and the moon are both round. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
 
