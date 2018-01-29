@@ -10,7 +10,7 @@ Thus if I say, “God exists,” what I am really saying is:
 
 In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+Аналогично, если я создаю некую альтернативную вселенную, где «несуществование равно существованию», «противоречие равно согласованности», «истина равна лжи» и «иррациональность равна рациональности», то в действительности я создаю мир под названием «заблуждение», помещаю в него все, что не истинно, и определяю этот мир как место, где «заблуждение равно истине».[^2]
 
 Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
 
