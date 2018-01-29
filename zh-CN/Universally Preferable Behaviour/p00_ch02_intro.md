@@ -10,7 +10,7 @@
 
 然而，在小道理和伟大真理之间存在着蒙蔽我们的幻象—无论是在物理学里还是伦理学里都是这样。
 
-In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+在物理学中，伟大真理不能与小道理相矛盾。 没有“统一场理论”能有效地反驳我们对岩石坠落或火焰上升的直接的感觉经验。 The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
 
 Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
 
