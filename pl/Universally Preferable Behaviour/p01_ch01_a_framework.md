@@ -1,6 +1,6 @@
 ## Szkielet dla Etyki
 
-Ethical propositions are different from other types of knowledge statements. Jeśli powiem, "lubię jazz", to może być prawdziwe lub fałszywe oświadczenie, ale ogólnie n ie jest to w żaden sposób wiążące. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Propozycje etyczne różnią się od innych rodzajów wypowiedzi wiedzy. Jeśli powiem, "lubię jazz", to może być prawdziwe lub fałszywe oświadczenie, ale ogólnie n ie jest to w żaden sposób wiążące. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
 
 Podobnie jeśli powiem, że "lubię warzywa", to również jest tylko stwierdzenie osobistych preferencji. Jednakże jeśli powiem "warzywa są zdrowe", wtedy jest zamiast stwierdzenia osobistych preferencji, jest to stwierdzenie obiektywnego faktu. Jest różnica między "lubię lody," a "lody zawierają mleko."
 
@@ -62,17 +62,17 @@ Fundamentally, the laws of logic are derived from the behaviour of matter and en
 
 Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+Fakt, że mewy nie przekształcają się arbitralnie w kowadła - lub odwrotnie - jest źródłem naszej zdolności do dokładnego osądzenia stwierdzenia: "To jest mewa". Jeśli mewy spontanicznie i nieustannie zmieniały swoją naturę, nie bylibyśmy w stanie dokonać prawdziwe lub fałszywe stwierdzenia dotyczące ich - lub cokolwiek innego.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Jest to podstawa kluczowego kryterium metody naukowej - odtwarzalności. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
 
 If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logika jako dyscyplina powstaje tylko w wyniku spójności rzeczywistości; obserwacje empiryczne są również ważne lub nieważne tylko w wyniku konsekwentnej natury rzeczywistości.
 
 ### The Existence Of "Truth"
 
-Truth, then, can be measured according to two central criteria:
+Prawdę można zatem zmierzyć według dwóch centralnych kryteriów:
 
 1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
 2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
