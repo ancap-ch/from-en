@@ -26,7 +26,7 @@
 
 理智的人不能直接感受到上帝的存在。 在他的日常生活中，他完全接受*无法感知的就不存在*。 没有理智的人无论何时每走一步他都会畏惧，害怕无形的墙可能会阻拦他的路。 科学最伟大的抽象概念支持他的方法。
 
-相反地，在宗教的“零地域”，小道理和大真理的*对立面*被认为是真的。 就个人而言，一个人相信*无法感知的就不存在*—就学术上而言，科学已经反复证明了这一点。 However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
+相反地，在宗教的“零地域”中，小道理和大真理的*对立面*被认为是真的。 就个人而言，一个人相信*无法感知的就不存在*—就学术上而言，科学已经反复证明了这一点。 然而，在神学的“零地域”中，完全相反的命题是正确的—有个公理是*不能被感知到的**必然**存在*。
 
 Our belief in the virtue of the military also lies in this “null zone.” If a private man is paid to murder another man, we call him a “gun for hire,” and condemn him as a hit man. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
 
