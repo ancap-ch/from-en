@@ -133,10 +133,10 @@ PPZ może być więc postrzegane jako wzorzec do oceniania słuszności teorii i
 
 Przykładem hipotezy moralnej jest: "wszczęcie użycia siły jest złe.". PPZ jest metodologią, która testuje tą hipotezę zarówno pod względem wewnętrznej spójności jak i zgodności z obserwacją empiryczną. PPZ najpierw zadaje pytanie: *Czy hipoteza jest logiczna i spójna?* a potem dodaje: *Jakie istnieją dowody potwierdzające prawdziwość tej hipotezy?*
 
-Aby utrzymać rozmiar tej książki w rozsądnych granicach, będziemy głównie zajmować się pierwszym kryterium spójności logicznej. Co do drugiego kryterium, oprzemy się na uniwersalnych zakazach obecnych we wszystkich kulturach przeciwko akcjom takim jak gwałt, kradzież czy morderstwo. Wiele więcej można by napisać w oparciu o historyczne dowody które potwierdzają lub zaprzeczają różnym hipotezom moralnym ale ten temat zostawiamy na kiedy indziej. Jeżeli dowiedziemy słuszności PPZ to będzie to wielki postęp. If we do not, evidence will scarcely help us.
+Aby utrzymać rozmiar tej książki w rozsądnych granicach, będziemy głównie zajmować się pierwszym kryterium spójności logicznej. Co do drugiego kryterium, oprzemy się na uniwersalnych zakazach obecnych we wszystkich kulturach przeciwko akcjom takim jak gwałt, kradzież czy morderstwo. Wiele więcej można by napisać w oparciu o historyczne dowody które potwierdzają lub zaprzeczają różnym hipotezom moralnym ale ten temat zostawiamy na kiedy indziej. Jeżeli dowiedziemy słuszności PPZ to będzie to wielki postęp. A jeżeli tego nie zrobimy to dowody nie wiele nam pomogą.
 
-Let us now turn to the question of whether the UPB framework deals with matters of *ethics*, or *aesthetics*, or both.
+Przejdźmy teraz do pytania czy wzorzec PPZ dotyczy spraw *etyki*, *estetyki* czy obu jednocześnie.
 
-[^7]: The same goes, of course, for murder and assault. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
+[^7]: To samo dotyczy oczywiście również, na przykład, morderstwa i napadu. Bardziej szczegółowo wrócimy do tych dowodów - jak również do dalszego badania praw własności - w drugiej części tej książki.Context | Request Context
 
 [^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
