@@ -265,47 +265,47 @@ Da mesma forma, qualquer teoria moral que defenda o estupro enfrenta uma contrad
     </td>
     
     <td align="left">
-      Logical consistency, empirical verification
+      Consistência lógica, verificação empírica
     </td>
     
     <td align="left">
-      Logical consistency, empirical verification
+      Consistência lógica, verificação empírica
     </td>
     
     <td align="left">
-      Logical consistency, empirical verification
+      Consistência lógica, verificação empírica
     </td>
   </tr>
   
   <tr>
     <td align="left">
-      <strong>Negative Proof Example</strong>
+      <strong>Exemplo de prova negativa</strong>
     </td>
     
     <td align="left">
-      If mass does not attract mass, theories relying on gravity are incorrect
+      Se a matéria não atrai a matéria, as teorias que dependem da gravidade são incorrectas
     </td>
     
     <td align="left">
-      If organisms do not naturally self-select for survival, the theory of evolution is incorrect
+      Se os organismos não se auto-seleccionam naturalmente para a sobrevivência, a teoria da evolução é incorrecta
     </td>
     
     <td align="left">
-      If communism succeeds relative to its stated goals, theories based on the universal validity of property rights are incorrect
+      Se o comunismo for bem-sucedido em relação aos seus objectivos declarados, as teorias baseadas na validade universal dos direitos de propriedade estão incorrectas
     </td>
   </tr>
 </table>
 
 <p>
-  Table: Theories of physics and biology and of UPB
+  Tabela: teorias de física e biologia e de CUP
 </p>
 
 <p>
-  In conclusion, it is safe to say that (a) moral rules are valid, and (b) moral theories must be subjected to the rigours of logic and evidence, just as theories of physics and biology are. Any moral theory based on non-universal or self-contradictory principles is demonstrably false.
+  Em conclusão, é seguro dizer que (a) as regras morais são válidas e (b) as teorias morais devem ser submetidas aos rigores da lógica e da evidência, assim como as teorias da física e da biologia. Qualquer teoria moral baseada em princípios não-universais ou contraditórios é claramente falsa.
 </p>
 
 <h4>
-  UPB: The Framework
+  CUP: O Quadro
 </h4>
 
 <p>
