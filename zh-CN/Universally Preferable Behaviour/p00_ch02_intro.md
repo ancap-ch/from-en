@@ -10,13 +10,13 @@
 
 然而，在小道理和伟大真理之间存在着蒙蔽我们的幻象—无论是在物理学里还是伦理学里都是这样。
 
-在物理学中，伟大真理不能与小道理相矛盾。 没有“统一场理论”能有效地反驳我们对岩石坠落或火焰上升的直接的感觉经验。 The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+在物理学中，伟大真理不能与小道理相矛盾。 没有“统一场理论”能有效地反驳我们对岩石坠落或火焰上升的直接的感觉经验。 把最伟大的数学理论应用于收银台中错误的退还零钱是没有效的。
 
 然而，历史上在我们所拥有的小道理和伟大真理之间存在着我称之为的“零地域”。
 
-### The "Null Zone"
+### “零地域”
 
-We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+我们告诉我们的孩子不要相互攻击，并把它作为一个普世的道德准则，我们认为从理论上来说暴力是错误的。 “小道理”是：*不要攻击*。 The “great truth” is: *violence is wrong*.
 
 However, there exists in our minds an imaginary entity called “God,” and this entity is considered perfectly moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
 
