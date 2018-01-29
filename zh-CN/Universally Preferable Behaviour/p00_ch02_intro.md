@@ -28,7 +28,7 @@
 
 相反地，在宗教的“零地域”中，小道理和大真理的*对立面*被认为是真的。 就个人而言，一个人相信*无法感知的就不存在*—就学术上而言，科学已经反复证明了这一点。 然而，在神学的“零地域”中，完全相反的命题是正确的—有个公理是*不能被感知到的**必然**存在*。
 
-我们对军事美德的信仰也在于这个“零地域”。如果一个有秘密的人被雇佣去杀害另一个人，我们称他为“雇用枪”，谴责他为职业杀手。 If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
+我们对军事美德的信仰也在于这个“零地域”。如果一个有秘密的人被雇佣去杀害另一个人，我们称他为“雇用枪”，谴责他为职业杀手。 然而，如果这个人穿上绿色的服装戴上特定的丝带，*犯下同样错误*，我们会称赞他为英雄，给他养老金。 The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
 
 If this “null zone” is valid, then no logical proposition can ever hold. If a proposition is true – and the exact opposite of that proposition is also true – then logical reasoning becomes impossible. The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
 
