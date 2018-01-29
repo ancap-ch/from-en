@@ -36,4 +36,4 @@ Przejdźmy teraz do kwestii kradzieży. If this framework holds true here as wel
 
 ### Samoobrona?
 
-We have skirted over the issue of self-defence with regards to murder, though it is scarcely necessary to examine it in the case of rape. This is not because the issue of self-defence is either self-evident or uncomplicated, but rather because the complications that exist can be dealt with more comprehensively after we look at the question of theft.
+We have skirted over the issue of self-defence with regards to murder, though it is scarcely necessary to examine it in the case of rape. Nie dzieje się tak dlatego, że kwestia samoobrony jest albo oczywista, albo nieskomplikowana, ale raczej dlatego, że istniejące komplikacje można rozwiązać bardziej wszechstronnie, gdy spojrzymy na kwestię kradzieży.
