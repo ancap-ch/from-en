@@ -18,7 +18,7 @@
 
 我们告诉我们的孩子不要相互攻击，并把它作为一个普世的道德准则，我们认为从理论上来说暴力是错误的。 “小道理”是：*不要攻击*。 “大真理”是：*暴力是错误的*。
 
-然而，在我们的头脑中存在着一个被称为“上帝”的虚构实体，这个实体被认为是完全合乎道德的。 Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+然而，在我们的头脑中存在着一个被称为“上帝”的虚构实体，这个实体被认为是完全合乎道德的。 这个实体淹没世界，尽管他们做了完美又有先见之明的决定，但让灵魂下了地狱，制裁强奸，谋杀，盗窃，打架斗殴等行为，这些行为我们都会谴责为绝对邪恶，不幸的是，这个实体不断严重地违反“暴力是错误的”这一法令。
 
 Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
 
