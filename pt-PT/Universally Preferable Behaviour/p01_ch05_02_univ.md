@@ -317,23 +317,23 @@ Da mesma forma, qualquer teoria moral que defenda o estupro enfrenta uma contrad
 </p>
 
 <p>
-  Para manter este livro com um tamanho razoável, trataremos, em geral, principalmente do primeiro critério de consistência lógica. Para o segundo critério, devemos confiar em evidências sobre as proibições universais em todas as culturas contra determinadas acções, como violação, roubo, assalto e assassinato. Muito mais poderia ser escrito sobre a evidência histórica que ajuda a apoiar ou rejeitar várias proposições morais, mas vamos deixá-lo para outro momento. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+  Para manter este livro com um tamanho razoável, trataremos, em geral, principalmente do primeiro critério de consistência lógica. Para o segundo critério, devemos confiar em evidências sobre as proibições universais em todas as culturas contra determinadas acções, como violação, roubo, assalto e assassinato. Muito mais poderia ser escrito sobre a evidência histórica que ajuda a apoiar ou rejeitar várias proposições morais, mas vamos deixá-lo para outro momento. Se estabelecermos a validade do CUP, teremos alcançado um grande logro. Se não o fizermos, a evidência dificilmente nos ajudará.
 </p>
 
 <p>
-  Let us now turn to the question of whether the UPB framework deals with matters of <em>ethics</em>, or <em>aesthetics</em>, or both.
+  Passemos agora à questão de se o quadro do CUP trata de assuntos de <em>ética</em>, de <em>estética</em>, ou ambos.
 </p>
 
 <footnotes>
   <fn name="7">
     <p>
-      The same goes, of course, for murder and assault. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
+      Naturalmente, o mesmo aplica-se, para assassinato e assalto. Voltaremos a essas provas - bem como a um exame adicional dos direitos de propriedade - com mais detalhes, na Parte Dois deste livro.
     </p>
   </fn>
   
   <fn name="8">
     <p>
-      Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
+      As regras morais universais e positivas também podem ser comprovadas - isto é, a validade universal dos direitos de propriedade e da não-violência - mas devemos discuti-lo na Parte Dois.
     </p>
   </fn>
 </footnotes>
