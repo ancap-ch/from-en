@@ -1,8 +1,8 @@
 ## Existence Versus Non-Existence
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+Мы определяем «несуществование» как то, что не обладает массой или энергией, или не проявляет эффекта от массы или энергии, такой как обнаруживаемые отношения наподобие гравитации.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+Бог не обладает массой или энергией, не проявляет эффекта от массы или энергии - Бог на самом деле не может быть обнаружен или поддаться проверке в каком-либо образе, виде или форме, ни органами чувств, ни рациональностью.
 
 Thus if I say, “God exists,” what I am really saying is:
 
