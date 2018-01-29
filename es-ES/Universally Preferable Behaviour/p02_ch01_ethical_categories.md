@@ -28,7 +28,7 @@ The opposite of “virtue” must be “vice” – the opposite of “good” m
 
 Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
 
-If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
+Si propongo la regla moral: “No irás a San Francisco”, puede ser lógicamente reformulada como: “irás a cualquier lugar excepto a San Francisco”. De esta manera, la regla moral “no robarás” puede ser igualmente propuesta de la forma positiva – “respetarás los bienes ajenos”. Debido a que respetar los derechos de propiedad es una virtud, violar los derechos de propiedad debe ser una bajeza.
 
 ### What Is Missing
 
