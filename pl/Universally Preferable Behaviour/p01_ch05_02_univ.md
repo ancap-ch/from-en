@@ -121,9 +121,9 @@ To aid in swallowing this rather large conceptual pill, below is a table that he
 | **Przykład**                    | Materia nie może być stworzona lub zniszczona, ledwie zmieniana w energię lub z powrotem          | Jeżeli żyje i jest stałocieplne to jest ssakiem                                                      | Kradzież jest zła                                                                                                             |
 | **Hipoteza**                    | Atomy mają wspólne struktury i właściwości przez co zachowują się w przewidywalny i spójny sposób | Materia organiczna ma zasady - i wymogi - które są wspólne dla wszystkiego zaliczającego się do niej | Powszechnie preferowane zachowanie ma pewne wspólne, stałe zasady i wymogi                                                    |
 | **Dowód**                       | Logiczna spójność, empiryczna weryfikacja                                                         | Logiczna spójność, empiryczna weryfikacja                                                            | Logiczna spójność, empiryczna weryfikacja                                                                                     |
-| **Przykład Dowodu Negatywnego** | If mass does not attract mass, theories relying on gravity are incorrect                          | If organisms do not naturally self-select for survival, the theory of evolution is incorrect         | If communism succeeds relative to its stated goals, theories based on the universal validity of property rights are incorrect |
+| **Przykład Dowodu Negatywnego** | Jeżeli masa nie przyciąga masy to teorie oparte na prawie grawitacji są fałszywe                  | Jeżeli organizmy nie prowadzą doboru naturalnego to teoria ewolucji jest fałszywa                    | Jeżeli komunizm odnosi sukces względem swych założeń, to teorie oparte na słuszności powszechnego prawa własności są fałszywe |
 
-Table: Theories of physics and biology and of UPB
+Tabela: Teorie fizyki, biologii i PPZ
 
 In conclusion, it is safe to say that (a) moral rules are valid, and (b) moral theories must be subjected to the rigours of logic and evidence, just as theories of physics and biology are. Każda teoria moralna oparta na nie-uniwersalnych lub sprzecznych zasadach jest ewidentnie fałszywa.
 
