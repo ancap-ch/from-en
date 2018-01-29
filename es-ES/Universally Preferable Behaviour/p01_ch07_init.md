@@ -33,8 +33,8 @@ Cuando analizamos un principio como el NAP, realmente hay sólo siete posibilida
 - La iniciación del uso de la fuerza nunca es moralmente malo.
 - La iniciación del uso de la fuerza no tiene contenido moral.
 - La iniciación del uso de la fuerza nunca es moralmente bueno.
-- The initiation of the use of force is sometimes morally right.
-- The initiation of the use of force is always morally right.
+- La iniciación del uso de la fuerza es a veces moralmente bueno.
+- La iniciación del uso de la fuerza es siempre moralmente bueno.
 
 As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
 
