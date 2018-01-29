@@ -1,12 +1,12 @@
 ## Preferences
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Teraz, gdy rozumiemy naturę sprzecznych argumentów, możemy zwrócić się do kwestii preferencji.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Preferencje są kluczowe dla każdej metodologii twierdzącej, że definiują wartość prawdy propozycji. Metoda naukowa, na przykład, jest w dużej mierze określona przez wrodzone preferencje dla logicznej spójności i empirycznej weryfikacji. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. "Uniwersalnie preferowany" przekłada się wówczas na "obiektywnie wymagany", ale zachowamy słowo "lepiej", aby odróżnić opcjonalne absoluty ludzkie od nie-opcjonalnych fizycznych absolutów, takich jak grawitacja.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. Innymi słowy, teoria etyczna, która zaprzecza sama sobie, nie może być słuszna - a teoria etyczna, która przeczy dowodom empirycznym i niemal powszechnym preferencjom, również nie może być słuszna.
 
 Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
 
@@ -26,13 +26,13 @@ When we apply this simple fact to ethical arguments, we come up with some very i
 
 ### Preferences And Arguments
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Pamiętając o powyższej analizie argumentów samobójczych, możemy z łatwością zrozumieć sprzeczną naturę stwierdzenia: "preferencje nie istnieją". Biorąc pod uwagę, że każde ludzkie działanie - w tym formułowanie stwierdzeń filozoficznych - jest wybierane zamiast każdego innego możliwego działania, argumentując te preferencje nie istnieją wymagają * preferencji </ 0> dla argumentowania, że preferencje nie istnieją, co jest wewnętrznie sprzecznym stwierdzeniem. Argumentowanie, że takie preferencje nie istnieją, jest dokładnie tym samym, co twierdzenie, że język nie istnieje. Jest to argument całkowicie samobójczy.</p> 
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+Ponieważ nie można działać bez wyrażenia preferencji - ani pośrednio, ani bezpośrednio - każdy, kto działa, akceptuje założenie, że istnieją preferencje. Dlatego nie można debatować o istnieniu preferencji bez akceptacji istnienia preferencji.
 
 ### Preferences And Universality
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+Następne pytanie brzmi: czy preferencje są czysto subiektywne, czy mogą być uniwersalne?
 
 Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
 
@@ -40,9 +40,9 @@ The challenge arises when we try to define some preferences as *objective*.
 
 The proposition before us is thus: *can some preferences be objective, i.e. universal?*
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. Gdybym miał argumentować, że jedzenie jest obiektywną preferencją, moim argumentom można przeciwdziałać za pomocą przykładów strajków głodowych i anoreksji.
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
+Kiedy mówię o uniwersalnych preferencjach, mówię o tym, co wolą ludzie * powinni </ 0> preferować, a nie to, co zawsze * robią </ 0>. Aby użyć naukowej analogii, aby naprawdę zrozumieć wszechświat, ludzie </ 0> powinni używać metody naukowej - nie oznacza to, że zawsze to robią, ponieważ wyraźnie miliardy ludzi szukają starożytnych bajek zamiast współczesnej nauki dla "Odpowiedzi." Nie ma sposobu, aby osiągnąć prawdę o wszechświecie bez nauki, ale ludzie mają całkowitą swobodę, aby na nowo zdefiniować "prawdę" jako "błąd" i zadowolić się mistyczną sentencją.</p> 
 
 Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
 
