@@ -12,7 +12,7 @@
 
 在物理学中，伟大真理不能与小道理相矛盾。 没有“统一场理论”能有效地反驳我们对岩石坠落或火焰上升的直接的感觉经验。 The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
+然而，历史上在我们所拥有的小道理和伟大真理之间存在着我称之为的“零地域”。
 
 ### The "Null Zone"
 
