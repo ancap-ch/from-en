@@ -1,28 +1,28 @@
-## The Fifth Test: Lying
+## Piąty test: Kłamstwo
 
-The question of *lying* is interesting because telling the truth is generally considered to be universally preferable, but not enforceable through violence.
+*Kłamstwo* jest interesujące, ponieważ mówienie prawdy jest ogólnie uważane za powszechnie preferowane, ale nie można go egzekwować poprzez przemoc.
 
 It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
 
 Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
 
-For instance:
+Na przykład:
 
-**Bob:** Lying is always good.
+**Bob:** kłamanie jest zawsze dobre.
 
-**Doug:** Are you lying?
+**Doug:** Czy ty kłamiesz?
 
-**Bob:** Yes.
+**Bob:** Tak.
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**Doug:** Kłamstwo musi być złe, ponieważ kłamiesz, że to jest dobre.
 
-Or:
+Lub:
 
-**Bob:** Lying is always good.
+**Bob:** kłamanie jest zawsze dobre.
 
-**Doug:** Are you lying?
+**Doug:** Czy ty kłamiesz?
 
-**Bob:** No.
+**Bob:** Nie.
 
 **Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
 
