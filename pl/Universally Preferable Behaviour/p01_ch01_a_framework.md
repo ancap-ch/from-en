@@ -40,7 +40,7 @@ What, then, is the “bull’s-eye” of truth?
 
 Na moment odkładając wyzwania językowe, jeśli wskaże na mewę i powiem, że "to jest kowadło," oczywiście będę w błędzie ponieważ kowadła są nieorganiczne i nie potrafią latać. The truth value of my statement is measured relative to the objective facts of reality. Ponieważ mewa nie jest kowadłem, moje stwierdzenie jest nieprawdziwe.
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. Jeśli nie są, nie mamy nic do gadania, a ty i ta nie zrozumiałeś nic co napisałem, więc to zdanie będzie równie bez znaczenia i równie dobrze mogło by zostać wygenerowane w "wingdings".
+Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. Istnieje wiele dobrych powodów, aby sądzić, że zarówno język, jak i dowody zmysłowe są w rzeczywistości obiektywne; moglibyśmy wdać się w skomplikowaną dyskusję na ten temat, ale wystarczy powiedzieć, że skoro używasz swoich oczu, aby przeczytać książkę napisaną ludzkim językiem, możemy przynajmniej zgodzić się, że twoje oczy i język, którym się dzielimy, są najmniej obiektywny, abyś mógł dokładnie przetworzyć to, co piszę. Jeśli nie są, nie mamy nic do gadania, a ty i ta nie zrozumiałeś nic co napisałem, więc to zdanie będzie równie bez znaczenia i równie dobrze mogło by zostać wygenerowane w "wingdings".
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
@@ -54,7 +54,7 @@ Jeśli spędzę godzinę próbując namalować chmurę, a następnie spytam się
 
 In other words, where there is no consistency, there can be no accuracy.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Kiedy śnimy w nocy, nasze postrzeganie jest takie, że zasady "materii" i "energii" są w ciągłym ruchu - jesteśmy odporni na grawitację, a potem lecimy na grzbiecie słonia, a potem możemy chodzić przez ściany. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
 
 Logic, science and truth, then, are impossible in the absence of *consistency*.
 
