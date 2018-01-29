@@ -24,7 +24,7 @@ Jeśli więc powiem ci, że nie mam kontroli nad mową, możesz zapytać mnie: k
 
 Tak więc sam akt kontrolowania mego ciała w celu wytworzenia mowy wymaga akceptacji mojej zdolności do kontrolowania mowy - ukrytego potwierdzenia, że jestem właścicielem mojego własnego ciała.
 
-Now, if demonic possession were a valid occurrence, and a girl possessed by a demon spat on a priest, we would not call the *girl* rude, but would rather pity her for being inhabited by such an impolite demon. Whoever has control over the girl’s body is culpable for the effects of her actions – this is why we would not call a man who stole while sleepwalking “evil,” since he did not have full control over his own body (although we may restrain him in other ways). This is also the basis for the legal defence of “not guilty by reason of insanity,” which is that we assume that a man who is insane does not have full control over his actions.
+Now, if demonic possession were a valid occurrence, and a girl possessed by a demon spat on a priest, we would not call the *girl* rude, but would rather pity her for being inhabited by such an impolite demon. Ktokolwiek sprawuje kontrolę nad ciałem dziewczyny, jest odpowiedzialny za jej działania - dlatego nie nazwalibyśmy człowieka, który kradł podczas lunatykowania "złym", ponieważ nie miał pełnej kontroli nad własnym ciałem (choć możemy go powstrzymać w inny sposób). This is also the basis for the legal defence of “not guilty by reason of insanity,” which is that we assume that a man who is insane does not have full control over his actions.
 
 Thus to reject the ownership of the body is to reject all morality, which, as we have seen above, is utterly impossible. Logically, since morality is defined as an enforceable subset of UPB, to reject morality is to say that it is universally preferable to believe that there is no such thing as universal preferences.
 
@@ -32,13 +32,13 @@ Finally, to use one’s ownership of one’s own body in the form of speech to r
 
 It is in this way that any rejection of self-ownership can be utterly discarded.
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+Ponieważ jesteśmy właścicielami naszych ciał, nieuchronnie jesteśmy również właścicielami *efektów* naszych działań, zarówno tych dobrych, jak i złych. Jeśli jesteśmy właścicielami efektów naszych działań, to oczywiście jesteśmy właścicielami tego, co produkujemy, bez względu na to, czy to, co produkujemy, to łuk, czy książka - czy też morderstwo.
 
 ### Property And UPB
 
 Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
 
-As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
+Jak wspomniano powyżej, albo istoty ludzkie mają prawa własności, albo nie. Poza kilkoma szarymi obszarami, które wkrótce otrzymamy, pozostaje to uniwersalną propozycją.
 
 If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
 
