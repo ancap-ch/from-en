@@ -24,9 +24,9 @@ O:
 
 **Bob:** No.
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**Doug:** Por lo tanto mentir no siempre es bueno, dado que estas diciendo sobre que mentir es bueno.
 
-Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
+Mentir, sin embargo, no requiere la iniciación de una fuerza, así que no viola la posibilidad de *evitabilidad*. Dado que los mentirosos pueden ser evadidos, ellos no pueden lógicamente ser agredidos en contra.
 
 Lying also fits more closely in the category of *violence*, insofar as it is moral to lie in self-defence, just as it is moral to use violence in self-defence It is hard to think of a situation where one would have to “be late” in self-defence, or “be rude.” However, if a man bursts into your house and demands to know where your beloved wife is so he can slap her around, it would seem a parody of integrity to refuse to lie to him. Lying in this case would be a form of third-party self-defence, and as morally acceptable as the use of violence in self-defence Similarly, if a man obtains a hundred dollars from us by lying, we may justly lie to him to get it back.
 
