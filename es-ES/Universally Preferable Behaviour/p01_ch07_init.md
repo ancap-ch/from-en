@@ -40,9 +40,9 @@ Como hemos visto más arriba, sin embargo, UPB es un marco de “todo o nada”.
 
 Uniendo NAP con UPB, por ende nos permite dismunuir esas siete afirmaciones a tres:
 
-1. It is universally preferable to initiate the use of force.
-2. It is universally preferable to not initiate the use of force.
-3. The initiation of the use of force is not subject to universal preferences.
+1. Es preferible universalmente iniciar el uso de la fuerza.
+2. Es preferible universalmente no iniciar el uso de la fuerza.
+3. La iniciación del uso de la fuerza no está sujeta a preferencias universales.
 
 This is the natural result of applying the requirement of rational consistency to ethical propositions. A rational theory cannot validly propose that opposite results can occur from the same circumstances. A scientific theory cannot argue that one rock must fall down, but another rock must fall up. Einstein did not argue that E=MC^2^ on a Thursday, but that E=MC^3^ on a Friday, or on Mars, or during a blue moon. La ley de conservación – la materia no puede ser creada ni destruída – no es verdadera solo cuando usted lo quiera realmente o si le paga a una persona para que así sea, o cuando un gato negro se cruza por su camino. The laws of physics are not subject to time, geography, opinion or acts of Congress. This consistency must also be required for systems of ethics, or UPB, and we will subject generally accepted moral theories to this rigour in Part Two, in a few pages.
 
