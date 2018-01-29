@@ -1,6 +1,6 @@
 ## Szkielet dla Etyki
 
-Propozycje etyczne różnią się od innych rodzajów wypowiedzi wiedzy. Jeśli powiem, "lubię jazz", to może być prawdziwe lub fałszywe oświadczenie, ale ogólnie n ie jest to w żaden sposób wiążące. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Propozycje etyczne różnią się od innych rodzajów wypowiedzi wiedzy. Jeśli powiem, "lubię jazz", to może być prawdziwe lub fałszywe oświadczenie, ale ogólnie n ie jest to w żaden sposób wiążące. Moje preferencje dla jazzu są jedynie wyrazem osobistej sympatii; na podstawie mojego oświadczenia, nie należy do ciebie lubienie lub nie lubienie jazzu.
 
 Podobnie jeśli powiem, że "lubię warzywa", to również jest tylko stwierdzenie osobistych preferencji. Jednakże jeśli powiem "warzywa są zdrowe", wtedy jest zamiast stwierdzenia osobistych preferencji, jest to stwierdzenie obiektywnego faktu. Jest różnica między "lubię lody," a "lody zawierają mleko."
 
@@ -40,7 +40,7 @@ What, then, is the “bull’s-eye” of truth?
 
 Na moment odkładając wyzwania językowe, jeśli wskaże na mewę i powiem, że "to jest kowadło," oczywiście będę w błędzie ponieważ kowadła są nieorganiczne i nie potrafią latać. The truth value of my statement is measured relative to the objective facts of reality. Ponieważ mewa nie jest kowadłem, moje stwierdzenie jest nieprawdziwe.
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. Istnieje wiele dobrych powodów, aby sądzić, że zarówno język, jak i dowody zmysłowe są w rzeczywistości obiektywne; moglibyśmy wdać się w skomplikowaną dyskusję na ten temat, ale wystarczy powiedzieć, że skoro używasz swoich oczu, aby przeczytać książkę napisaną ludzkim językiem, możemy przynajmniej zgodzić się, że twoje oczy i język, którym się dzielimy, są najmniej obiektywny, abyś mógł dokładnie przetworzyć to, co piszę. Jeśli nie są, nie mamy nic do gadania, a ty i ta nie zrozumiałeś nic co napisałem, więc to zdanie będzie równie bez znaczenia i równie dobrze mogło by zostać wygenerowane w "wingdings".
+Naturalnie, to równanie między prawdą a rzeczywistością wymaga, aby język i nasze zmysły były uważane za względnie obiektywne. Istnieje wiele dobrych powodów, aby sądzić, że zarówno język, jak i dowody zmysłowe są w rzeczywistości obiektywne; moglibyśmy wdać się w skomplikowaną dyskusję na ten temat, ale wystarczy powiedzieć, że skoro używasz swoich oczu, aby przeczytać książkę napisaną ludzkim językiem, możemy przynajmniej zgodzić się, że twoje oczy i język, którym się dzielimy, są najmniej obiektywny, abyś mógł dokładnie przetworzyć to, co piszę. Jeśli nie są, nie mamy nic do gadania, a ty i ta nie zrozumiałeś nic co napisałem, więc to zdanie będzie równie bez znaczenia i równie dobrze mogło by zostać wygenerowane w "wingdings".
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
@@ -52,7 +52,7 @@ Nie możliwym jest, żebym precyzyjnie namalował chmurę, ponieważ w czasie, k
 
 Jeśli spędzę godzinę próbując namalować chmurę, a następnie spytam się czy mój malunek jest dokładną reprezentacją tej chmury, to ty koniecznie musisz odpowiedzieć, że nie jest.
 
-In other words, where there is no consistency, there can be no accuracy.
+Innymi słowy, tam, gdzie nie ma spójności, nie może być żadnej dokładności.
 
 Kiedy śnimy w nocy, nasze postrzeganie jest takie, że zasady "materii" i "energii" są w ciągłym ruchu - jesteśmy odporni na grawitację, a potem lecimy na grzbiecie słonia, a potem możemy chodzić przez ściany. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
 
