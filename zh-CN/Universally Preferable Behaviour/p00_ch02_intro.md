@@ -30,7 +30,7 @@
 
 我们对军事美德的信仰也在于这个“零地域”。如果一个有秘密的人被雇佣去杀害另一个人，我们称他为“雇用枪”，谴责他为职业杀手。 然而，如果这个人穿上绿色的服装戴上特定的丝带，*犯下同样错误*，我们会称赞他为英雄，给他养老金。 小道理（*我不应该杀人*）和大真理（*杀人是错误的*）完全契合—然而在中间有一个“零地域”，在“零地域”里谋杀神奇地变成了“有道理的”。
 
-If this “null zone” is valid, then no logical proposition can ever hold. If a proposition is true – and the exact opposite of that proposition is also true – then logical reasoning becomes impossible. The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
+如果这个“零地域”是有效的，那么没有逻辑命题可以保持不变。 如果一个命题是真的—这个命题的对立面也是真的—那么逻辑推理就变得不可能了。 The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
 
 In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
 
