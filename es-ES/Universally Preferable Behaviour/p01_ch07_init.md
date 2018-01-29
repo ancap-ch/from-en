@@ -28,10 +28,10 @@ Una regla moral suele proponer el llamado *principio no-agresivo*, or NAP por su
 
 Cuando analizamos un principio como el NAP, realmente hay sólo siete posibilidades: tres en el negativo, tres en el positivo y una neutral:
 
-- The initiation of the use of force is always morally wrong.
-- The initiation of the use of force is sometimes morally wrong.
-- The initiation of the use of force is never morally wrong.
-- The initiation of the use of force has no moral content.
+- La iniciación del uso de la fuerza es siempre moralmente malo.
+- La iniciación del uso de la fuerza es a veces moralmente malo.
+- La iniciación del uso de la fuerza nunca es moralmente malo.
+- La iniciación del uso de la fuerza no tiene contenido moral.
 - The initiation of the use of force is never morally right.
 - The initiation of the use of force is sometimes morally right.
 - The initiation of the use of force is always morally right.
