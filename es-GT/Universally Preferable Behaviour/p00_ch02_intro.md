@@ -8,21 +8,21 @@ La tierra parece plana; pero no lo es. El sol y la luna parecen del mismo tamañ
 
 Estas son pequeñas verdades de todos los días; que las rocas caen, el humo se levanta, el fuego se calienta y el sol y la luna son redondos. Si permanecemos firmes y rigurosamente comprometidos con estas "pequeñas verdades", con el tiempo podemos derivar las grandes verdades de la física, que nos proveen un asombroso conocimiento y poder.
 
-Entre las pequeñas verdades y las grandes verdades, sin embargo, están las ilusiones que nos ciegan - tanto en física como en ética.
+Entre las pequeñas verdades y las grandes verdades, sin embargo, están las ilusiones que nos ciegan – tanto en la física como en la ética.
 
-En física, las grandes verdades no pueden contradecir las pequeñas verdades. Ninguna "teoría del campo unificado" puede contradecir válidamente nuestra experiencia sensorial directa de una roca cayendo o una llama creciente. La más grande teoría matemática no puede ser válida si al aplicarla devuelve un cambio incorrecto en el mostrador de una caja.
+En la física, las grandes verdades no pueden contradecir las pequeñas verdades. Ninguna "teoría de campo unificado" puede contradecir válidamente nuestra experiencia sensorial directa de una roca que cae o de una llama creciente. La teoría matemática más grande no puede ser válida si al aplicarla devuelve un cambio incorrecto en el mostrador de una caja.
 
-Históricamente, sin embargo, entre nuestras propias pequeñas verdades y las grandes verdades se encuentra lo que llamaré la "zona nula".
+Históricamente, sin embargo, entre nuestras pequeñas verdades y las grandes verdades hay lo que llamaré la "zona nula"
 
 ### La "Zona Nula"
 
-Le decimos a nuestros niños que no se golpeen unos a otros, y creemos que la violencia está mal en abstracto, es una regla moral general. La "pequeña verdad" es: *no golpear*. La "gran verdad" es: *la violencia está mal*.
+Les decimos a nuestros hijos que no se golpeen entre ellos, y creemos que la violencia está mal en lo abstracto, como regla moral general. La "pequeña verdad" es: *no golpees*. La "gran verdad" es: *la violencia está mal*.
 
-Sin embargo, existe en nuestras mentes un entidad imaginaria llamada "Dios", y esta entidad es considerada perfectamente moral. Desafortunadamente, esta entidad continua y manifiestamente viola el edicto de que "la violencia está mal", al ahogar al mundo, enviando almas al infierno a pesar de un perfecto conocimiento de sus "decisiones", sancionando la violación, el asesinato, el robo, el asalto y otras acciones que condenaríamos como absolutamente malvadas en cualquier individuo.
+Sin embargo, existe en nuestras mentes una entidad imaginaria llamada "Dios", y esta entidad es considerada perfectamente moral. Desafortunadamente, esta entidad viola contínua y flagrantemente el edicto de que "la violencia está mal" ahogando al mundo, entregando almas al infierno a pesar de un perfecto conocimiento previo de sus "decisiones", sancionando la violación, asesinato, robo, asalto y otras acciones que condenaríamos como absolutamente malvadas en cualquier individuo.
 
-Así tenemos la pequeña verdad (*no golpear*) y la gran verdad (*la violencia está mal*) pero en el medio, tenemos esta "zona nula" *donde la completa oposición ambas, de nuestras pequeñas y grandes verdades, es considerado perfectamente verdad*.
+Así que tenemos la pequeña verdad (*no golpear*) y la gran verdad (*la violencia está mal*) pero en el medio, tenemos esta "zona nula" *donde el opuesto completo de nuestras pequeñas verdades y nuestras grandes verdades se considera perfectamente verdad*.
 
-Históricamente, podemos ver la misma inconsistencia en física. No hay círculos perfecto en nuestra experiencia directa, pero debido a una creencia en Dios, todo el movimiento planetario tiene que ser un "círculo perfecto" - una premisa que retardó la astronomía por siglos. Similarmente, si un hombre da vuelta a su cabeza, él razonablemente no cree que el mundo entero gira a su alrededor - y él felizmente colocaría esto adelante no solo como su propia "pequeña verdad", sino como una *gran verdad* o principio universal. Sin embargo, durante la mayoría de la historia humana, se creyó que las estrellas y planetas giraban alrededor de la Tierra, en lugar de que la Tierra giraba. Aquí podemos ver otra vez la "zona nula" entre experiencia sensorial directa y principio universal, en donde principios enteramente opuestos son considerados perfectamente válidos.
+Históricamente, podemos ver la misma inconsistencia en la física. No existen círculos perfectos en nuestra experiencia directa, pero debido a una creencia en Dios, todo movimiento planetario tendía que ser un "círculo perfecto" - una premisa que retrasó la astronomía durante siglos. Del mismo modo, si un hombre gira su cabeza, no cree razonablemente que el mundo entero gira a su alrededor - y alegremente lo presentaría no sólo como su propia "pequeña verdad", sino como una *gran verdad*, o principio universal. Sin embargo, durante la mayor parte de la historia de la humanidad, se creía que las estrellas y los planetas giraban alrededor de la Tierra, en lugar de que la Tierra giraba. Aquí podemos ver otra vez la "zona nula" entre experiencia sensorial directa y principio universal, en donde principios enteramente opuestos son considerados perfectamente válidos.
 
 Ningún hombre cuerdo experimenta directamente a Dios. En su vida diaria, acepta completamente que *eso que no se puede percibir no existe*. Ningún hombre razonable se estremece cada vez que da un paso, temiendo a una pared invisible que podría estar bloqueando su camino. Las más grandes abstracciones de la ciencia apoyan su enfoque.
 
