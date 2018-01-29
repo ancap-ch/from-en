@@ -80,14 +80,14 @@ Es el colmo de la audacia sugerir a los lectores cómo leer un libro, pero dados
 
 Si viviéramos en el siglo Xv, y yo intentaba convencerte de que el mundo era redondo, yo propondría montones de pruebas matemáticas y físicas. Si mantuvieras una opinión contraria, naturalmente reaccionarías con escepticismo, y te inclinarías a discutir con cada línea de prueba. Sin embargo, si tú y yo pudiéramos navegar alrededor del mundo, y llegar a donde empezamos sin volver sobre nuestros pasos, estarías mucho más dispuesto a aceptar las pruebas conceptuales de lo que ya habías *experimentado* para ser verdad. Usted podría encontrar un fallo en un paso lógico particular o una metáfora, pero ya estaría de acuerdo con la conclusión, y por lo tanto sería más propenso a ayudar a corregir los detalles en lugar de rechazar la teoría como un todo.
 
-Si mi tarea fuera la de responder a todas las objeciones posibles a cada paso lingüístico, lógico y empírico, este libro jamas se terminaría - ni se leería. El perfeccionismo es, en esencia, procrastinación, y considero la tarea de este libro demasiado importante – y los peligros de la falsa moralidad demasiado graves e inminentes – para ocupar tanto intentando alcanzar un cielo que podría terminar en infierno.
+Si mi tarea fuera la de responder a todas las objeciones posibles a cada paso lingüístico, lógico y empírico, este libro jamas se terminaría - ni se leería. El perfeccionismo es, en esencia, un procrastinación, y considero que la tarea de este libro es demasiado importante - y los peligros de la moralidad falsa demasiado graves e inminentes - pasar tanto tiempo tratando de alcanzar el cielo, podríamos acabar en el infierno.
 
-Así humildemente sugiero que esperes a ver qué tan efectivo es el marco ético que propongo demostrando las máximas morales más comúnmente aceptadas de la humanidad antes de pasar al juicio final en la teoría.
+Por lo tanto, humildemente sugiero que esperen a ver cuán efectivo es el marco ético que propongo para probar los máximos morales más comúnmente aceptados por la humanidad antes de emitir un juicio final sobre la teoría.
 
-Realmente creo que la definición de un marco ético racional es la tarea más esencial que enfrenta la humanidad. Realmente aprecio tu interés en este asunto crucial – y me gustaría siempre agradecer a los donantes maravillosamente generosos que han hecho posible este trabajo.
+Creo realmente que la definición de una estructura ética racional es la tarea más esencial que enfrenta la humanidad. Agradezco sinceramente tu interés en este asunto crucial - y me gustaría, como siempre, agradecer a los donantes maravillosamente amables que han hecho posible este trabajo.
 
 Cabalgo a la batalla bien armado por otros.
 
-[^1]: La mayor parte de esto será discutida en mayor detalle a lo largo del curso de este libro.
+[^1]: La mayor parte de esto será discutido con más detalle a lo largo del curso de este libro.
 
-[^2]: Claro, si he fallado, al menos he fallado espectacularmente, ¡lo cual puede ser por sí mismo edificador y entretenido!
+[^2]: Por supuesto, si he fallado, al menos he fallado espectacularmente, ¡lo que a su vez puede ser edificante y entretenido!.
