@@ -22,7 +22,7 @@
 
 因此，在我们有的“小道理”（*不要攻击*）和“大真理”（*暴力是错误的*）的中间，我们有的这个“零地域”*被认为是完全正确的，它与小道理和大真理是完全对立的*。
 
-从历史角度看，我们可以在物理学中看见相同的矛盾。 There are no perfect circles in our direct experience, but because of a belief in God, all planetary motion had to be a “perfect circle” – a premise that retarded astronomy for centuries. Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth,” but as a *great truth*, or universal principle. Yet for most of human history, it was believed that the stars and planets rotated around the Earth, rather than that the Earth rotated. Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
+从历史角度看，我们可以在物理学中看见相同的矛盾。 在我们的直接经验中没有完美的圆周运动，但是由于对上帝的信仰，所有的行星运动都必须是一个“完美的圆周运动”—这一前提阻碍了天文学发展长达几个世纪。 Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth,” but as a *great truth*, or universal principle. Yet for most of human history, it was believed that the stars and planets rotated around the Earth, rather than that the Earth rotated. Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
 
 No sane man experiences God directly. In his daily life, he fully accepts that *that which cannot be perceived does not exist*. No reasonable man flinches every time he takes a step, fearing an invisible wall that might be barring his way. The greatest abstractions of science support his approach.
 
