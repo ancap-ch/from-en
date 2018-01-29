@@ -121,25 +121,25 @@ Da mesma forma, qualquer teoria moral que defenda o estupro enfrenta uma contrad
     </th>
     
     <th align="left">
-      Physics
+      Física
     </th>
     
     <th align="left">
-      Biology
+      Biologia
     </th>
     
     <th align="left">
-      Morality
+      Moralidade
     </th>
   </tr>
   
   <tr>
     <td align="left">
-      <strong>Subject</strong>
+      <strong>Assunto</strong>
     </td>
     
     <td align="left">
-      Matter
+      Matéria
     </td>
     
     <td align="left">
