@@ -193,75 +193,75 @@ Da mesma forma, qualquer teoria moral que defenda o estupro enfrenta uma contrad
     </td>
     
     <td align="left">
-      Entropy
+      Entropia
     </td>
     
     <td align="left">
-      Evolution
+      Evolução
     </td>
     
     <td align="left">
-      Property rights
+      Direitos de propriedade
     </td>
   </tr>
   
   <tr>
     <td align="left">
-      <strong>Sample Classification</strong>
+      <strong>Exemplos de classificação</strong>
     </td>
     
     <td align="left">
-      Matter/Energy
+      Matéria/energia
     </td>
     
     <td align="left">
-      Repitile/Mammal
+      Réptil/mamífero
     </td>
     
     <td align="left">
-      Good/Evil
+      Deus/satanás
     </td>
   </tr>
   
   <tr>
     <td align="left">
-      <strong>Example</strong>
+      <strong>Exemplo</strong>
     </td>
     
     <td align="left">
-      Matter cannot be created or destroyed, merely converted to energy and back
+      A matéria não pode ser criada ou destruída, apenas convertida em energia e transformada
     </td>
     
     <td align="left">
-      If it is alive and warm-blooded, it is a mammal
+      Se está vivo e com o sangue quente, é um mamífero
     </td>
     
     <td align="left">
-      Stealing is wrong
+      Roubar é errado
     </td>
   </tr>
   
   <tr>
     <td align="left">
-      <strong>Hypothesis</strong>
+      <strong>Hipótese</strong>
     </td>
     
     <td align="left">
-      Atoms share common structures and properties, and so behave in predictable and consistent manners
+      Os átomos compartilham estruturas e propriedades comuns e comportam-se de maneiras previsíveis e coerentes
     </td>
     
     <td align="left">
-      Organic matter has rules – or requirements – that are common across classifications
+      A matéria orgânica tem regras - ou requisitos - que são comuns nas classificações
     </td>
     
     <td align="left">
-      Universally preferable behaviour shares common rules and requirements
+      O comportamento universalmente preferível compartilha regras e requisitos comuns
     </td>
   </tr>
   
   <tr>
     <td align="left">
-      <strong>Proof</strong>
+      <strong>Prova</strong>
     </td>
     
     <td align="left">
