@@ -1,6 +1,6 @@
 ## Introducción
 
-Durante innumerables generaciones, la humanidad vivió en una especie de útero egocéntrico de ignorancia autoimpuesta: el mundo era plano, el sol, la luna y las estrellas giraban a su alrededor, los ancestros llamaban desde más allá de las brumas de la muerte y el trueno era la ira de los Dioses.
+Durante innumerables generaciones, la humanidad vivió en una especie de matriz egocéntrica de ignorancia autoimpuesta: el mundo era plano, el sol, la luna y las estrellas giraban a su alrededor, los antepasados se llamaban desde más allá de las nieblas de la muerte, y el trueno era la ira de los dioses.
 
 La excavación de esta matriz narcisista de interpretación subjetiva requirió la labor de milenios y costó la vida de millones. El esfuerzo requerido para arrancar nuestra perspectiva de *experiencia perceptiva* a *lógica conceptual* fue aterradora, estimulante, altamente desorientadora y extremadamente peligrosa. Entendiendo que el mundo no era lo que *se sentía* o *parecía*, era -y sigue siendo- la mayor hazaña para nuestra inteligencia. La *verdad* de la realidad resultó estar en los ojos de la mente, no en los del cuerpo.
 
