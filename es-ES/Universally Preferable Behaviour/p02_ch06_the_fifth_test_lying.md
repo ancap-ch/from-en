@@ -1,8 +1,8 @@
-## The Fifth Test: Lying
+## La Quinta Prueba: Mintiendo
 
-The question of *lying* is interesting because telling the truth is generally considered to be universally preferable, but not enforceable through violence.
+La pregunta de *mintiendo* es interesante porque decir la verdad se considera universalmente preferible, pero no se puede forzar a través de la violencia.
 
-It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
+Generalmente es considerado *más* de un requerimiento estricto que "estar a tiempo", pero *menos* estricto que "robar." ¿Qué tiene que decir el cuadro de trabajo de el UPB sobre esto?
 
 Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
 
