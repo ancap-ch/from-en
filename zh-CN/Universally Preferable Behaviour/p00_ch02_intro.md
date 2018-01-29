@@ -38,9 +38,9 @@
 
 ### The Casualties
 
-跨越这个“零地域”充满了危险。 小道理通往大真理的道路是由百万骨头堆砌而成的。 From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+跨越这个“零地域”充满了危险。 小道理通往大真理的道路是由百万骨头堆砌而成的。 从苏格拉底之死到宗教狂热者对早期科学家的酷刑，再到数以百万计的人被谋杀、为法西斯主义和共产主义的黑色幻想而献身的人，任何人类知识的向前推动进入“零地域”都充满了相当大的危险。
 
-Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
+“跨越零地域”—或将小道理和大真题无缝结合—必然是如此困难和危险吗？ It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
 
 If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
 
