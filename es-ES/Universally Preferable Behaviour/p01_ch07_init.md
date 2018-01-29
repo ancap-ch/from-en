@@ -24,9 +24,9 @@ Por otro lado, si me quedo en casa todas las noches, no estoy exactamente ponié
 
 ### El Principio No-Agresivo (NAP)
 
-Una regla moral suele proponer el llamado *principio no-agresivo*, or NAP por sus siglas en Inglés. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+Una regla moral suele proponer el llamado *principio no-agresivo*, or NAP por sus siglas en Inglés. También se le dice ser un “pacifista puercoespín”, debido a que el puercoespín solamente usa la “fuerza” para defensa propia. El NAP es básicamente la preposición de que “la iniciación del uso de la fuerza es moralmente malo”. O, para ponerlo más en los términos de nuestra conversación: “La no-iniciación de la fuerza es preferible universalmente”.
 
-When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
+Cuando analizamos un principio como el NAP, realmente hay sólo siete posibilidades: tres en el negativo, tres en el positivo y una neutral:
 
 - The initiation of the use of force is always morally wrong.
 - The initiation of the use of force is sometimes morally wrong.
