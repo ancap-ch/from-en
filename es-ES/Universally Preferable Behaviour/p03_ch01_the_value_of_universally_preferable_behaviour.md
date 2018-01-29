@@ -1,6 +1,6 @@
 ## El Valor del Comportamiento Universalmente Preferible
 
-A new theory is of precious little value if it only points out the obvious. If physics only provided an accurate description of how we catch a ball, then physics would not be a very worthwhile pursuit, because we already *can* catch a ball. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
+A new theory is of precious little value if it only points out the obvious. Si la Física solamente brindó una descripción precisa de cómo atrapamos una pelota, entonces la Física no sería una actividad que valiera la pena, porque nosotros ya *podemos* atrapar una pelota. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
 
 In the same way, the UPB framework, and the moral rules that it validates or rejects, should ideally provide us with some startling insights about the world that we live in, and our relations to each other.
 
