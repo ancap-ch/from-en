@@ -63,9 +63,9 @@ Esta questão de *evasão* é a chave fundamental para diferenciar a estética d
 
 Há uma questão particular sobre a evasão que aparecerá mais adiante neste livro, que vale a pena esclarecer aqui de antemão.
 
-Se eu vivesse no topo de uma montanha alta a cinco mil quilómetros de distância de você, e lhe enviasse um e-mail informando-o de que se alguma vez passasse na frente da minha casa, eu disparar-lhe- ia, seria relativamente fácil para si evitar essa situação. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
+Se eu vivesse no topo de uma montanha alta a cinco mil quilómetros de distância de você, e lhe enviasse um e-mail informando-o de que se alguma vez passasse na frente da minha casa, eu disparar-lhe- ia, seria relativamente fácil para si evitar essa situação. A minha ameaça de força seria, certamente, imoral, mas as perguntas certamente seriam levantadas se você imediatamente, saltasse para um avião, subisse à minha montanha e lentamente passeasse à frente da minha casa.
 
-On the other hand, if you live on a dead-end street, and I tell you that if you take that street to get home, I will shoot you, your capacity to avoid this situation becomes significantly limited. You could certainly tunnel into your house, or jump over a bunch of backyard fences, but all of this would be considerably inconvenient.
+Por outro lado, se você vive numa rua sem saída e eu digo-lhe que, se tomar essa rua para chegar a casa, eu pego-lhe um tiro, a sua capacidade de evitar essa situação torna-se significativamente limitada. You could certainly tunnel into your house, or jump over a bunch of backyard fences, but all of this would be considerably inconvenient.
 
 In a similar manner, if a representative of organised crime comes to my house and threatens to burn it down if I do not pay regular protection money, I can avoid that specific threat by moving to another continent, but that would seem like a rather unjust way to deal with the situation, since I must now initiate action in order to avoid the threat.
 
