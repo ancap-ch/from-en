@@ -55,7 +55,7 @@ Se, depois de ter prometido fidelidade, eu atraiçoo a minha esposa e ela decide
 
 Se estivéssemos de pé no alto de um penhasco, e eu me voltasse para você e dissesse: "Ponha-se à minha frente, para que eu lhe possa empurrar do penhasco", qual seria a sua resposta? Se você se colocasse de forma voluntária diante de mim e eu depois o empurrasse do penhasco, isso provavelmente seria mais considerado uma forma de suicídio da sua parte, do que um assassinato da minha parte. A razão para isso é que podia, muito facilmente *evitar* ser empurrado para fora do penhasco, simplesmente recusando-se a ficar diante de mim.
 
-Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death,” if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
+Da mesma forma, se eu o encontrasse num bar e dissesse: "Quero que venha para a minha casa, para que eu o possa amarrar na cama e deixar morrer de fome", se, realmente, decide vir comigo, é com o conhecimento razoável de que a sua longevidade não será muita, devido à sua decisão. Por outro lado, se eu tivesse misturado uma droga de "sono" na sua bebida, e você acordasse amarrado à minha cama, é claro que não poderia ter feito grande coisa para evitar a situação.
 
 This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose.
 
