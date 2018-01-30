@@ -47,7 +47,7 @@ Todos nós temos preferências - desde as simplesmente pessoais ("Eu gosto de so
 
 Se eu aceitar o seu convite para um jantar, mas achar a conversa muito ofensiva, posso decidir me levantar e sair - e também posso optar por nunca mais aceitar outro convite. Essa capacidade de escape e/ou evasão é uma característica essencial que diferencia a *estética* da *ética*.
 
-If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
+No entanto, se quando eu decidir deixar o seu jantar, você salta e amarra-me à cadeira, é claro que já não tenho a liberdade de sair. Este é o momento em que a sua grosseria se converte em agressão aberta e cruza a linha da estética para a ética.
 
 If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I have certainly done her wrong, but the wrong that I have done by cheating would be very different from the wrong I would do if I lock her in the basement to prevent her from leaving. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does.
 
