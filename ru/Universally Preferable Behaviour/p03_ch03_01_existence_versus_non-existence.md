@@ -24,7 +24,7 @@ The true reality of the statement “error equals truth” is the tautological i
 
 Причина, по которой мы столько времени занимаемся этой теорией «альтернативной вселенной», состоит в том, что она имеет прямое отношение к человеческому обществу и используется для «оправдания» величайшего зла, совершающегося среди нас.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+In our own personal experience, we know that murder is wrong. Развивая далее пропозицию, что убийство – это нравственно плохо, в примерах, приведенных выше, я очень сомневаюсь, что кто-либо из вас был шокирован, получив подтверждение своим моральным инстинктам путем строгого абстрактного рассуждения от универсально-предпочтительного поведения УПП. In this section, however, it is officially permissible for you to begin to be truly shocked.
 
 The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
 
