@@ -34,6 +34,6 @@ Por lo tanto podemos mentirle justamente al mentiroso, así como podemos justame
 
 La diferencia es que "estar atrasado" no es tan destructivo como mentir. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. Para mi, una cosa es llegar tarde a una reunión a las siete en punto de la mañana, otra cosa es intentar convencerte de que en realidad habíamos acordado la reunión a las ocho de la mañana, cuando yo se que este no era el caso.
 
-Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
+Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. Así es como UPB valida la ilógica de la proposición "mentir es bueno" y confirma que el acto de mentirle a alguien es peor que "estar atrasado" pero mejor que un "asalto"
 
-[^5]: Sometimes called “gas-lighting,” after the old movie.
+[^5]: Algunas veces llamado "iluminación de gas" después de la vieja película.
