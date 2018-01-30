@@ -46,7 +46,7 @@ Soldiers, of course, wear costumes that are different from the average citizen. 
 
 Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+То, что мы называем «правительство», является просто еще одним примером этой *нулевой зоны*, где верх – это низ, черное – это белое, истина – это ложь, а зло - это добро.
 
 Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Наука развивается именно в той мере, в которой она отвергает иррациональность Бога и субъективные «абсолюты». Медицина развивается именно в той мере, в которой она отвергает эффективность молитвы и пустого ритуала, а вместо этого полагается на разум и доказательства. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
 
