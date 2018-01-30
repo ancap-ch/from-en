@@ -40,7 +40,7 @@ Thus if I say, “God exists,” what I am really saying is:
 
 Это означает, что человек не может изменить свою нравственную природу вместе с одеждой. Сменив костюм, человек не меняет своей фундаментальной природы. Таким образом, оспаривание нравственных норм человеком не может быть действительным на основании одежды, в которую тот одет.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Солдаты, разумеется, носят костюмы, отличающиеся от одежды обычных граждан. Обычным гражданам запрещается убивать; солдатам не только *разрешено* убивать, но их морально *поощряют* за убийство.
 
 Приведем другой пример.
 
