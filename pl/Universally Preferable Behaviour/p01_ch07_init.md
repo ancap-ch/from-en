@@ -12,19 +12,19 @@ A surgeon can “stab” you with a scalpel, but we can easily understand that h
 
 This difference can be understood through a further analysis of *initiation*.
 
-If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. Udzieliłeś także zgody chirurgowi i związujesz jego zachowanie konkretną umową.
 
 The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
 
 If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
 
-Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
+Podobnie, mogę zostawić portfel na ławce w parku na tydzień, wrócić i znaleźć go wciąż na miejscu, ale pozostawiając go tam przez tak długi czas, z pewnością wpłynęło na prawdopodobieństwo jego zniknięcia.
 
-On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
+Z drugiej strony, jeśli zostanę w domu co noc, to nie jestem dokładnie na tropie zbrodni, więc jeśli maniak zaatakuje mój dom i okradnie mnie ślepym, nie mogę być rozsądnie obwiniony za jakąś przyczynową rolę, którą grałem w tym incydencie.
 
 ### The Non-Aggression Principle (NAP)
 
-A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+A moral rule is often proposed called the *non-aggression principle*, or NAP. Jest również nazywany "pacyfistą-jeżem", o ile jeżozwierze używa tylko "siły" w samoobronie. NAP jest zasadniczo twierdzeniem, że "inicjacja użycia siły jest moralnie niewłaściwa". Lub, mówiąc bardziej w zakresie naszej rozmowy: "Nieinicjowanie siły jest powszechnie preferowane".
 
 When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
 
