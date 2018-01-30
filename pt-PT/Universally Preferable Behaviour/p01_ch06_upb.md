@@ -15,9 +15,9 @@ A ética é o subconjunto do CUP que trata do comportamento *infligido*, ou o us
 
 Vejamos três acções, para nos ajudar a distinguir ainda mais a ética e a estética. A primeira acção é *irracionalidade*; a segunda é *mentir*; a terceira é *assassinato*,[^9]
 
-### Irrationality
+### Irracionalidade
 
-Let’s say that you and I are having a debate about the existence of God. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Digamos que estamos a ter um debate sobre a existência de Deus. Depois de expor os meus argumentos, você põe as mãos nos seus ouvidos, clamando que Deus está a dizer que Ele existe e, portanto, todos os meus argumentos não significam nada. A sua resposta à minha posição é claramente irracional. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
 
 ### Lying
 
