@@ -26,7 +26,7 @@ The true reality of the statement “error equals truth” is the tautological i
 
 In our own personal experience, we know that murder is wrong. Развивая далее пропозицию, что убийство – это нравственно плохо, в примерах, приведенных выше, я очень сомневаюсь, что кто-либо из вас был шокирован, получив подтверждение своим моральным инстинктам путем строгого абстрактного рассуждения от универсально-предпочтительного поведения УПП. In this section, however, it is officially permissible for you to begin to be truly shocked.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Величайшие скачки в научном понимании – это так называемые «объединяющие теории». Эйнштейн провел десятилетия, пытаясь разработать единую теорию поля; но теории физики, которые объединяют сильные и слабые силы, электромагнетизм, гравитацию и т. д., остаются неуловимыми.
 
 UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
 
