@@ -11,9 +11,9 @@ Apesar de nos focarmos pela primeira vez no CUP no domínio da ética, este agor
 - Idioma
 - Ética
 
-A ética é o subconjunto do CUP que trata do comportamento *infligido*, ou o uso da violência. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+A ética é o subconjunto do CUP que trata do comportamento *infligido*, ou o uso da violência. Qualquer teoria que justifique ou negue o uso da violência é uma teoria *moral* e está sujeita aos requisitos de coerência lógica e evidências empíricas.
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+Vejamos três acções, para nos ajudar a distinguir ainda mais a ética e a estética. A primeira acção é *irracionalidade*; a segunda é *mentir*; a terceira é *assassinato*,[^9]
 
 ### Irrationality
 
