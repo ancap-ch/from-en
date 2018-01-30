@@ -44,7 +44,7 @@ Soldiers, of course, wear costumes that are different from the average citizen. 
 
 Приведем другой пример.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Налогообложение, по определению, является насильственным отнятием чужого имущества без согласия владельца, поскольку налогообложение опирается на возможность применения силы для отнятия у человека его собственности.
 
 То, что мы называем «правительство», является просто еще одним примером этой *нулевой зоны*, где верх – это низ, черное – это белое, истина – это ложь, а зло - это добро.
 
