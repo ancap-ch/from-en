@@ -46,9 +46,9 @@ Naturalmente, esta ecuación entre la verdad y la realidad requiere que el lengu
 
 Asumiendo que usted puede notar la diferencia entre las dos fuentes anteriores, podemos continuar razonablemente.
 
-#### Precisión y Consistencia
+#### Precisión y consistencia
 
-Es imposible para mí pintar con precisión una nube, ya que en el tiempo que toma pintarla, la nube cambia continuamente. Puedo pintar con precisión una *fotografía* de una nube, que se ha congelado en el tiempo.
+Es imposible para mí pintar con precisión una nube, ya que con el tiempo que tarda en pintarla, la nube cambia continuamente. Puedo pintar con precisión una *fotografía* de una nube, que se ha congelado en el tiempo.
 
 Si paso horas intentando pintar una nube, y entonces te pregunto si mi dibujo es o no una representación precisa de esa nube, necesariamente tienes que responder que no lo es.
 
