@@ -1,15 +1,15 @@
 ## CUP: Ética ou Estética?
 
-Em geral, usaremos o termo *estética* para nos referirmos a preferências não vinculativas - universais ou pessoais - enquanto que *ética* ou *moralidade* será referida para preferências requeridas. É *universalmente preferível* (ou seja, necessário) usar o método científico para validar teorias físicas, mas não podemos usar a força para *impor* o método científico aos que não o usam, já que *não usar o método científico não é uma acção violenta*. Non-violent actions by their very nature are *avoidable*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. A rapist, on the other hand, is violently inflicting his preferences upon his victim.
+Em geral, usaremos o termo *estética* para nos referirmos a preferências não vinculativas - universais ou pessoais - enquanto que *ética* ou *moralidade* será referida para preferências requeridas. É *universalmente preferível* (ou seja, necessário) usar o método científico para validar teorias físicas, mas não podemos usar a força para *impor* o método científico aos que não o usam, já que *não usar o método científico não é uma acção violenta*. As acções não-violentas por natureza são *evitáveis*. Se um físico deixa de usar o método científico e em seu lugar começa a consultar as cartas do tarot, não me está a infligir a sua escolha e eu posso evitá-lo. Ao contrário do estuprador que está a infligir, violentamente, as suas preferências à vítima.
 
-Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
+Apesar de nos focarmos pela primeira vez no CUP no domínio da ética, este agora pode ser visto como um "termo guarda-chuva", que inclui disciplinas como:
 
-- The scientific method
-- Logic
-- Empiricism
-- Debating
-- Language
-- Ethics
+- O Método Cientifíco
+- Lógica
+- Empirismo
+- Debate
+- Idioma
+- Ética
 
 Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
 
