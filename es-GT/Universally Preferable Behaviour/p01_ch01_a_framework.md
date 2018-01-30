@@ -1,6 +1,6 @@
 ## Un marco para la Etica
 
-Las proposiciones éticas son diferentes de otros tipos de declaraciones de conocimiento. Si yo digo, "Me gusta el jazz," eso puede ser una declaración verdadera o falsa, pero generalmente no se considera como vinculante para usted de ninguna manera. Mi preferencia por el jazz es una mera declaración de apego personal; basado en mi declaración, no te incumbe sobre si te gusta o te disgusta el jazz.
+Las proposiciones éticas son diferentes de otros tipos de declaraciones de conocimiento. Si yo digo, "Me gusta el jazz," eso puede ser una declaración verdadera o falsa, pero generalmente no se considera como vinculante para usted de ninguna manera. Mi preferencia por el jazz es una mera declaración de afecto personal; basado en mi declaración, no le incumbe a usted si le gusta o disgusta el jazz.
 
 De manera similar, si yo digo "Me gustan los vegetales," esto también es una mera declaración de preferencia personal. Sin embargo, si yo digo, "los vegetales son alimentos saludables," entonces he cambiado de una declaración de preferencia personal a una declaración de hechos objetivos. Esta es la diferencia entre "Me gusta el helado," y, "el helado contiene leche."
 
