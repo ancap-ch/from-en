@@ -43,14 +43,14 @@ Una acotación. La primera línea es grande; la segunda línea es pequeña; la t
 
 #### Título en el cuarto nivel
 
-Some text at 4th level.
+Algún texto en el 4to nivel.
 
-##### Heading at the fifth level
+##### Título en el quito nivel
 
-###### Heading at the 6th level
+###### Título en el 6to nivel
 
-Some text at 6th level.
+Algún texto en el 6to nivel.
 
-[^1]: Footnote example. But this will point to yet another footnote.[^3]
+[^1]: Nota de pie de página de ejemplo. Pero esto apuntará a otra nota de pie de página. [^3]
 
-[^2]: Second footnote. Will have [another website](https://example-another-website.com).
+[^2]: Segunda nota de pie de página. Tendrá [otro sitio web](https://example-another-website.com).
