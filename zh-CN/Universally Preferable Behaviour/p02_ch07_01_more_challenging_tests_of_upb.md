@@ -24,9 +24,9 @@
 
 自卫不能是“邪恶的”，因为定义上的邪恶可以通过武力来阻止。 然而，自卫是对发动武力的回应，因此不能通过武力来阻止，正如你能通过猛踢一个足球来阻止它的运动。
 
-Self-defence also cannot be *required* behaviour, since required behaviour (“don’t rape”) can be enforced through violence, which would mean that anyone failing to violently defend himself could be legitimately aggressed against. However, someone failing to defend himself is *already* being aggressed against, and so we end up in a circular situation where everyone can legitimately act violently against a person who is not defending himself, which is not only illogical, but morally abhorrent.
+自卫也不能是*被要求*的行为，因为所需的行为(“不强奸”) 可以通过暴力来强制执行，这意味着任何不敢猛烈捍卫自己的人都可能被合法地侵犯。 然而，如果一个不自卫的人*已经*遭到了侵犯，我们最终会陷入这样一个循环的境地，每个人都可以合法地对一个不自卫的人进行暴力行为，这不仅不合逻辑，而且在道德上是可恶的。
 
-If Bob attacks Doug, but it is completely wrong for Doug to use violence to defend himself, then violence ends up being placed into two moral categories – the initiation of force is morally good, but self-defence is morally evil, which cannot stand according to UPB.
+如果鲍勃攻击道格，而道格用暴力来保卫自己是完全错误的话，那么暴力最终会被分为两种道德范畴-武力的出现在道德上是好的，但自卫却是道德上的邪恶，而这根据UPB是不成立的。
 
 However, you might argue, does not the proposition that self-defence is good also make violence both good and bad at the same time – the violence that is used to attack is bad, but the violence that is used for self-defence is good?
 
