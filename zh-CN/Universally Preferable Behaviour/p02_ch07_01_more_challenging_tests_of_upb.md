@@ -28,19 +28,19 @@
 
 如果鲍勃攻击道格，而道格用暴力来保卫自己是完全错误的话，那么暴力最终会被分为两种道德范畴-武力的出现在道德上是好的，但自卫却是道德上的邪恶，而这根据UPB是不成立的。
 
-However, you might argue, does not the proposition that self-defence is good also make violence both good and bad at the same time – the violence that is used to attack is bad, but the violence that is used for self-defence is good?
+但是，你可能会争辩说，难道不是自卫是好的这个命题同时使暴力成为好的和坏的吗-用来攻击的暴力是不好的，而用来自卫的暴力是好的？
 
-This is an interesting objection – however, if the initiation of force is evil, then it can be prohibited by using force, since that is one of the very definitions of evil that we worked out above.
+这是一个有趣的异议-但是，如果从一开始使用武力就是邪恶的，那就可以用武力予以禁止，因为这是我们上面所制定的邪恶的定义之一。
 
-Thus it is impossible for any logical moral theory to reject the moral validity of self-defence.
+因此，任何逻辑的道德理论都不可能拒绝自卫的道德合法性。
 
-### Child Raising
+### 儿童抚养
 
-Instinctively, we generally understand that there is something quite wrong with parents who do not feed their babies. To conceive a child, carry a child to term, give birth to the child, and then leave it lying in its crib to starve to death, severely offends our sensibilities.
+本能地，我们一般都明白，如果不养育孩子的父母肯定是有一些错误的。 当怀上孩子，等到孩子足月，生下孩子，然后将他留在婴儿床里饿死，这严重伤害了我们的感情。
 
-Of course, our offence is in no way a moral argument, but it is an excellent starting place to test a moral theory.
+当然，我们的触怒决不是道德上的争论，但它是检验道德理论的绝佳起点。
 
-Before, when we were talking about UPB, we noted that, where there are exceptions in UPB, there must be objective differences in biology. Or, to put it more accurately, where there are objective differences in biology, there may be rational exceptions or differences in UPB. A child of five has a biologically immature brain and nervous system, and thus cannot rationally process the long-term consequences of his actions. It is the immature brain that is the key here, insofar as if an adult male is retarded to the point where his brain is the equivalent to that of a five year old, he would also have a reduced responsibility for his actions.
+之前，当我们谈到UPB的时候，我们注意到，UPB之中也有例外，生物学中必须有客观的差异。 或者，更准确地说，只要有生物学上的客观差异，就可能会有UPB的合理例外或差异出现。 一个五岁孩子的大脑和神经系统发育不成熟，因此不能理性地处理他的长期行为后果。 这里的关键在于不成熟的大脑，如果一个成年男性的智力也等同于五岁的大脑，那么他的行为责任也就减轻了。
 
 Thus when we point to situations of reduced responsibility, we are not *taking away* responsibility that exists, but rather recognising a situation where responsibility does not exist, at least to some degree. If I say that a man in a wheelchair cannot take the escalator, I am not taking away his right to take the escalator, but merely pointing out that he cannot, in fact, use it. When I say that UPB does not apply to the actions of a five year old, I am not saying that UPB is subjective, any more than a height requirement for a roller coaster somehow makes the concept of “tall” subjective.
 
