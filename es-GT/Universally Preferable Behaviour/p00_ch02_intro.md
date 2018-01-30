@@ -82,13 +82,13 @@ Así como algunos parásitos no pueden echar raíces hasta que se desprenden de 
 
 Hasta que las grandes verdades sean alcanzadas, y unidas con las pequeñas verdades, las "medias verdades " son sólo una rotación de falsedades explotadoras y destructivas - específicamente diseñadas para prevenir el logro de las grandes verdades.
 
-Y las grandes verdades son siempre alcanzadas mediante las pequeñas verdades.
+Y las grandes verdades se alcanzan siempre por medio de las pequeñas verdades.
 
 El mundo cae porque una roca cae.
 
-### Las "Medias Verdades" y la Explotación
+### "Medias verdades" y la explotación
 
-Biológicamente, el parasitismo es un estrategia totalmente válida de supervivencia para muchas criaturas. En la ausencia de normas éticas, robar energía y recursos a otras criaturas es perfectamente razonable. En general, la forma más sostenible y estable de parasitismo es la *simbiosis*, o la coexistencia mutuamente beneficiosa. Así las bacterias que habitan nuestros intestinos ayudan a su propia supervivencia al ayudarnos a digerir nuestra comida.
+Biológicamente, el parasitismo es una estrategia de supervivencia totalmente viable para muchas criaturas. En ausencia de normas éticas, robar energía y recursos a otras criaturas es perfectamente sensato. En general, la forma más sostenible y estable de parasitismo es la *simbiosis*, o la coexistencia mutuamente beneficiosa. Así las bacterias que habitan nuestros intestinos ayudan a su propia supervivencia al ayudarnos a digerir nuestra comida.
 
 Sin embargo, un virus que nos deja continuamente exhaustos y apenas capaces de mantenernos vivos, puede difícilmente denominarse "beneficio mutuo". Si pensamos en nuestra larga y sombría historia de desastres, hambre, guerra, enfermedades y pobreza - y la comparamos con los asombrosos éxitos materiales de la modernidad - está claro que una forma de parasitismo tiranizó nuestras mentes y capacidades por milenios. Ahora que los últimos cientos de años han mostrado el poder y la creatividad del espíritu humano, podemos ver nuestra especie como un organismo que se ha sacudido un terrible parásito y surgió desde un lecho de muerte sin fin para realizar las más asombrosas hazañas de la gimnasia.
 
