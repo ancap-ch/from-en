@@ -1,8 +1,8 @@
 ## Comportamiento Universalmente Preferible
 
-Como resultado de los argumentos anteriores, podemos ver que es imposible entrar a ningún debate sin aceptar la premisa de que ciertos comportamientos son *universalmente preferibles*.
+Como resultado de los argumentos anteriores, podemos ver que es imposible entrar en cualquier debate sin aceptar la premisa de que ciertos comportamientos son*universalmente preferibles*.
 
-Uso la palabra "comportamiento" aquí en lugar de "pensamiento" porque es importante diferenciar entre los estados puramente internos y no verificables como "pensar" de los estados objetivos y verificables como "actuar," "escribir" y "hablar."
+Utilizo la palabra "comportamiento" aquí en lugar de "pensamiento" porque es importante diferenciar entre estados puramente internos e incontrolables como "pensar" de estados objetivos y verificables como "actuar","escribir" y "hablar"
 
 Es imposible demostrar que soñé un elefante anoche. Es posible demostrar que he escrito la palabra "elefante," que es la razón por la que uso la palabra "comportamiento" en lugar de "pensamiento."
 
