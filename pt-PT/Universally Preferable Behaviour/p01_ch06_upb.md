@@ -17,9 +17,9 @@ Vejamos três acções, para nos ajudar a distinguir ainda mais a ética e a est
 
 ### Irracionalidade
 
-Digamos que estamos a ter um debate sobre a existência de Deus. Depois de expor os meus argumentos, você põe as mãos nos seus ouvidos, clamando que Deus está a dizer que Ele existe e, portanto, todos os meus argumentos não significam nada. A sua resposta à minha posição é claramente irracional. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Digamos que estamos a ter um debate sobre a existência de Deus. Depois de expor os meus argumentos, você põe as mãos nos seus ouvidos, clamando que Deus está a dizer que Ele existe e, portanto, todos os meus argumentos não significam nada. A sua resposta à minha posição é claramente irracional. Por mais irritante que me possa parecer o seu comportamento, dificilmente pareceria razoável que eu ventilasse a minha frustração puxando uma arma e disparando-lhe. Eu acredito que é *universalmente preferível* usar a lógica e a evidência em vez de confiar em vozes na nossa cabeça, mas essa preferência universal não é razoavelmente exigível no sentido *físico*, através da violência ou da ameaça.
 
-### Lying
+### Mentindo
 
 Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
 
