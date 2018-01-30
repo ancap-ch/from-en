@@ -4,14 +4,14 @@ Em geral, usaremos o termo *estética* para nos referirmos a preferências não 
 
 Apesar de nos focarmos pela primeira vez no CUP no domínio da ética, este agora pode ser visto como um "termo guarda-chuva", que inclui disciplinas como:
 
-- O Método Cientifíco
+- Método Científico
 - Lógica
 - Empirismo
 - Debate
 - Idioma
 - Ética
 
-Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+A ética é o subconjunto do CUP que trata do comportamento *infligido*, ou o uso da violência. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
 
 Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
 
