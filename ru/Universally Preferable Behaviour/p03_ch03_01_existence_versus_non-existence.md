@@ -44,7 +44,7 @@ Thus if I say, “God exists,” what I am really saying is:
 
 Приведем другой пример.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Налогообложение, по определению, является насильственным отнятием чужого имущества без согласия владельца, поскольку налогообложение опирается на возможность применения силы для отнятия у человека его собственности.
+Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Так как кража является насильственным отнятием чужого имущества без согласия владельца, тогда налогообложение всегда, повсеместно и во веки вечные является нравственным злом. Налогообложение, по определению, является насильственным отнятием чужого имущества без согласия владельца, поскольку налогообложение опирается на возможность применения силы для отнятия у человека его собственности.
 
 То, что мы называем «правительство», является просто еще одним примером этой *нулевой зоны*, где верх – это низ, черное – это белое, истина – это ложь, а зло - это добро.
 
