@@ -1,10 +1,10 @@
-## Consistencia Interna
+## Coherencia interna
 
-Si soy un arquitecto, y presento un plano para construir una casa, el primer obstáculo que debo superar es si mi casa puede o no ser construida. Si presento planos maravillosos para una casa construida enteramente de pompas de jabón, nunca conseguiré la comisión, ya que esa "casa" no podría sostenerse jamás.
+Si soy arquitecto, y presento un plan para construir una casa, el primer obstáculo que debo superar es si mi casa se puede construir o no. Si presento planes maravillosos para una casa construida enteramente con burbujas de jabón, nunca conseguiré la comisión, ya que tal "casa" nunca podría soportar.
 
-De forma similar, si un ingeniero presenta un plano para un puente, el primer criterio que debe satisfacer es si ese puente podrá o no soportar. Otras consideraciones como longevidad, estética y más solo aplicarán si el puente es físicamente viable para empezar.
+Del mismo modo, si un ingeniero presenta un plan para un puente, el primer criterio que debe cumplirse es si el puente se mantendrá o no. Otras consideraciones como la longevidad, la estética y así sucesivamente sólo se aplicará si el puente es físicamente viable para empezar.
 
-Sería ilógico – sin mencionar altamente improductivo – construir un puente de materiales aleatorios, usando "cálculos" aleatorios para descubrir si se soportará o no. Dado que las leyes físicas son consistentes y universales, es relativamente fácil descubrir si el puente se soportará o no *antes* de construirlo.
+Sería ilógico - por no decir muy improductivo - construir un puente a partir de materiales aleatorios, utilizando "cálculos," aleatorios para saber si se mantendrá o no. Dado que las leyes físicas son consistentes y universales, es relativamente fácil determinar si un puente resistirá o no se mantendrá *antes* de construirlo.
 
 Hay dos maneras para determinar la viabilidad del puente antes de construirlo. La primera es buscar inconsistencias internas dentro de las premisas y cálculos que pretenden apoyar la viabilidad del puente. Si hay errores significativos en los cálculos que justifican el peso que el puente puede soportar, entonces el puente muy probablemente esté sobre-dimensionado, o sub-dimensionado. Si los cálculos matemáticos erróneos resultan en una fuerza de menos cincuenta toneladas por pie cuadrado en cualquier parte del puente, entonces ciertamente no se soportará – o, si lo hace, su viabilidad será solo accidental, y no reproducible.
 
