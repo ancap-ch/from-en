@@ -10,7 +10,7 @@
 
 如果不存在自卫这样的事情的话，那么我们并不是在讨论使用武力的引发与报复，而是在任何情况下使用武力。 换句话说，如果我们摆脱了自卫的概念，我们唯一需要问自己的问题是：*使用武力是否普遍可取？*
 
-如果说武力普遍适用，那么任何人都不应提出道德论证，而应该使用武力来达到目的。 However, just as in the rape, theft and murder examples cited above, the claim that it is universally preferable to use force immediately invalidates itself. To be able to use force upon another person requires that that person submit to force – in other words, in order for one person to be moral, the other person must be immoral, which cannot stand. Also, if the other person *submits* to force, it is not force – thus he must *resist*, which requires that he resist virtue in order to enable virtue, which is self-contradictory.
+如果说武力普遍适用，那么任何人都不应提出道德论证，而应该使用武力来达到目的。 然而，就像上面所提到的例子如强奸，盗窃和谋杀一样，声称普遍优先使用武力的说法将会立即使之失效。 为了能够对他人使用武力而要求该人屈服于武力-换句话说，为了一个人有道德，另一个人必须是不道德的，这是不成立的。 同样，如果对方*屈服*于武力，这就不是武力-因此他必须*反抗*，这就要求他以抵抗美德来使用美德，这是自相矛盾的。
 
 In addition, if it is always preferable to use force, then crimes such as rape and murder become irrelevant, because if it is always preferable to use force, then love-making becomes immoral, and rape becomes moral – but only for the rapist, while *submission* to violence, rather than violence itself, becomes moral for his victim, which is a contradiction.
 
