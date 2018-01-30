@@ -128,6 +128,6 @@ Sin embargo, cuando un agente del gobierno te envía una carta exigiéndote que 
 
 Este es un ejemplo de una "media verdad" que oculta una "gran verdad", que es que "robar está mal"
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+Este libro se enfocará en exponer y destruir estas falsas "medias verdades". Creo que la humanidad sufre interminablemente bajo la tiranía de las falsas "medias verdades" éticas que justifican las visiones destructivas del mundo de la superstición religiosa, el despotismo secular y el culto a la familia.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+Mi tesis en este libro es que en la ética, como en cualquier otra disciplina intelectual, las grandes verdades surgen directamente de las pequeñas verdades. La niebla desorientadora de las "medias verdades" es un camino infernal para navegar, pero vale la pena luchar contra ella, porque la única alternativa fundamental a la verdad es la explotación, la destrucción - e inevitablemente, la muerte prematura de millones.
