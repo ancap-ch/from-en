@@ -40,11 +40,11 @@ Pues bien, la * verdad* de una declaración es mensurable en relación a su conf
 
 Dejando de lado los desafíos del lenguaje por el momento, si señalo a una gaviota y digo:"Eso es un yunque", me equivoco claramente, porque los yunques son inorgánicos, y no pueden volar. El valor de verdad de mi afirmación se mide en relación con los hechos objetivos de la realidad. Como la gaviota no es un yunque, mi declaración es falsa.
 
-Naturalmente, esta ecuación entre la verdad y la realidad requiere que el lenguaje y nuestros sentidos sean considerados relativamente objetivos. Hay muchas buenas razones para creer que tanto el lenguaje como las evidencias sensoriales son de hecho objetivas; podríamos entrar en una discusión complicada sobre esto, pero debería bastar con decir que como usted está usando sus ojos para leer un libro escrito en un lenguaje humano, al menos podemos estar de acuerdo en que sus ojos, y el lenguaje que compartimos, son al menos lo suficientemente objetivos como para que usted pueda procesar con precisión lo que estoy escribiendo. Si no lo son, entonces no tenemos nada de qué hablar y no has entendido nada de lo que he escrito de todas formas, así que esta frase será igualmente insignificante, y bien podría haber sido hecha en "Wingdings".
+Naturalmente, esta ecuación entre la verdad y la realidad requiere que el lenguaje y nuestros sentidos sean considerados relativamente objetivos. Hay muchas buenas razones para creer que tanto el lenguaje como las evidencias sensoriales son de hecho objetivas; podríamos entrar en una discusión complicada sobre esto, pero debería bastar con decir que como usted está usando sus ojos para leer un libro escrito en un lenguaje humano, al menos podemos estar de acuerdo en que sus ojos, y el lenguaje que compartimos, son al menos lo suficientemente objetivos como para que usted pueda procesar con precisión lo que estoy escribiendo. Si no lo son, no tenemos nada de qué hablar, y tú no has entendido nada de lo que he escrito de todos modos, así que esta frase no tendrá el mismo significado, y también podría haber sido reproducida en "Wingdings".
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Asumiendo que puedes notar la diferencia entre las dos fuentes de arriba, podemos continuar razonablemente.
+Asumiendo que usted puede notar la diferencia entre las dos fuentes anteriores, podemos continuar razonablemente.
 
 #### Precisión y Consistencia
 
