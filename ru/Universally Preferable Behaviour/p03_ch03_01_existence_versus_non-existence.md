@@ -34,9 +34,9 @@ Thus if I say, “God exists,” what I am really saying is:
 
 Рамки УПП усиливает моральные пропозиции, требуя, чтобы они были внутренне согласованными и универсальными с точки зрения времени, места и отдельных лиц.
 
-If we accept UPB, we must also accept the following corollary:
+Если мы принимаем УПП, мы должны также принять и следующие последствия:
 
-- Moral propositions are independent of costume.
+- Нравственные пропозиции не зависят от костюма.
 
 What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
 
