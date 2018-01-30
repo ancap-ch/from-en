@@ -5,9 +5,9 @@ Abajo hay una lista enumerada de panagramas que muestran cada personaje, ambos e
 1. mayúscula: RÁPIDAMENTE, EL ZORRO MARRÓN SALTA SOBRE EL PERRO FLOJO. 
 2. números: 0123456789. 
 3. símbolos: + - */ = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
-4. énfasis: *Rápidamente, el zorro marrón salta sobre el perro flojo.* 
+4. énfasis: *El rápido, zorro marrón salta sobre un perro flojo.* 
     1. fuerte énfasis: **Rápidamente, el zorro marrón salta sobre el perro flojo.**
-    2. énfasis interior: **El *Rápidamente, el zorro marrón salta sobre el perro flojo*perro.** 
+    2. énfasis interior: **El *El rápido, zorro marrón salta sobre un perro flojo* perro.** 
         1. en: Rápidamente, marrón *zorro* **salta*sobre*un**perro flojo.
         2. pt-BR: À noite, vovô *Kowalsky* **vê o ímã *cair no pé* do pingüim queixoso** e vovó põe açúcar no chá de tâmaras do jabuti feliz.
         3. jp: [色は匂へど]{いろはにほへど} [散りぬるを]{ちりぬるを} *[我が世誰ぞ]{わかよたれぞ}* **[常ならむ]{つねならむ} *[有為の奥山]{うゐのおくやま}* [今日越えて]{けふこえて}** [浅き夢見じ]{あさきゆめみじ} [酔ひもせず]{ゑひもせず}（ん）
@@ -29,19 +29,19 @@ Ahora una lista no enumerada:
 
 Una acotación. La primera línea es grande; la segunda línea es pequeña; la tercera línea está vacía; la cuarta línea no lo está. 5ta línea no es una acotación; 6ta línea es:
 
-> 1th line is large: The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. 2th line is small: The quick, brown fox jumps over a lazy dog.
+> 1era línea es grande: El rápido zorro marrón salta sobre un perro flojo. El rápido zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. 2da línea es pequeña: El rápido, zorro marrón salta sobre un perro flojo.
 > 
-> 4th line is not empty: The quick, brown fox jumps over a lazy dog.
+> 4ta línea no está vacía: El rápido, zorro marrón salta sobre un perro flojo.
 > 
-> 6th line is a quotation: The quick, brown fox jumps over a lazy dog.
+> 6ta línea es una acotación: El rápido, zorro marrón salta sobre un perro flojo.
 
-# Headings
+# Títulos
 
-## Sub heading
+## Subtítulo
 
-### Heading at the third level
+### Encabezado en el tercer nivel
 
-#### Heading at the fourth level
+#### Título en el cuarto nivel
 
 Some text at 4th level.
 
