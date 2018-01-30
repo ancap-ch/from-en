@@ -68,9 +68,9 @@ Esta es la raíz de un criterio clave del método científico - la reproducibili
 
 Si usted fuera profesor de matemáticas, sería muy poco probable que aceptara una respuesta equivocada de un estudiante, incluso si ese estudiante afirmara que su respuesta era "correcta" cuando la escribió, pero de alguna manera cambió entretanto.
 
-Así solo podemos aceptar que debemos medir la validez de una declaración en relación a la realidad objetiva – tanto empírica como lógicamente. La lógica como disciplina surge solo como resultado de la consistencia de la realidad; las observaciones empíricas solo son válidas o inválidas como el resultado de la naturaleza consistente de la realidad.
+Por lo tanto, podemos aceptar que debemos medir la validez de una afirmación relativa a la realidad objetiva - tanto empírica como lógicamente. La lógica como disciplina surge sólo como resultado de la consistencia de la realidad; las observaciones empíricas también son válidas o inválidas sólo como resultado de la naturaleza consistente de la realidad.
 
-### La Existencia De La "Verdad"
+### La Existencia de la "Verdad"
 
 La verdad, entonces, puede ser medida de acuerdo a dos criterios centrales:
 
