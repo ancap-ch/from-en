@@ -114,7 +114,7 @@ Sin embargo, los filósofos que se oponen a*todo* error intelectual son enemigos
 
 El método científico requiere que cada tesis sea sustentada por la evidencia y la racionalidad. Puesto que no hay evidencia de dioses - y la *idea*misma de dioses es innatamente contradictoria - la tesis "los dioses existen" no se puede sustentar. Inevitablemente, los parásitos religiosos intentan defender su tesis intentando dividir la realidad en "dos reinos" - el científico y el espiritual. Sin embargo, no hay evidencia de la existencia de este reino "espiritual" en el presente, como tampoco lo hubo para el universo paralelo de las "Formas" Platónicas hace dos mil quinientos años.
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+Así pues, el establecimiento de una verdad coherente y universal limita y destruye necesariamente el potencial explotador de la ilusión. En particular, las "grandes verdades", que son universales y consistentes, hacen redundantes y ridículas las "medias verdades", que en realidad son fantasías explotadoras. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
 
 ### Effective Parasitism
 
