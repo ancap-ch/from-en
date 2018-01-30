@@ -74,20 +74,20 @@ Por lo tanto, podemos aceptar que debemos medir la validez de una afirmación re
 
 La verdad, entonces, puede ser medida de acuerdo a dos criterios centrales:
 
-1. La verdad es una medida de la correlación entre ideas en nuestra mente y la consistencia de la racionalidad, lo que es derivado directamente del comportamiento consistente de la materia y la energía en el mundo real.[^2]
-2. La verdad también puede ser medida como la correlación entre las ideas en nuestra mente y la naturaleza y comportamiento de la naturaleza y la energía en el mundo real.[^3]
+1. La verdad es una medida de la correlación entre las ideas en nuestras mentes y la consistencia de la racionalidad, que se deriva directamente del comportamiento consistente de la materia y la energía en el mundo real. [^2]
+2. La verdad es también una medida de la correlación entre las ideas en nuestras mentes y la naturaleza y el comportamiento de la materia y la energía en el mundo real. [^3]
 
-El primer criterio es una medida de consistencia de las ideas entre sí – y tal consistencia es un requerimiento porque la realidad es consistente consigo misma. Si digo, "Yo no existo," es solamente un ejemplo de una idea inconsistente consigo misma, ya que debo existir para decir la frase. El segundo criterio es una medida de la precisión de las ideas en relación a las observaciones empíricas de la realidad objetiva.
+El primer criterio es medir la consistencia de las ideas con ellas mismas - y tal consistencia es un requisito porque la realidad es consistente consigo misma. Si yo digo: "Yo no existo," ese es un ejemplo de una idea que es inconsistente consigo misma, ya que debo existir para pronunciar la oración. El segundo criterio es medir la exactitud de las ideas en relación con las observaciones empíricas de la realidad objetiva.
 
 #### Empirismo Versus Racionalidad
 
-El empirismo puede ser pensado como la habilidad de atrapar instintivamente una pelota lanzada, o medir su movimiento; la racionalidad es la habilidad de predecir y entender la trayectoria que la pelota tomará con base en principios universales. Claramente, si las pelotas fuesen en cualquier y todas las direcciones – y mágicamente se transformasen en bandadas de palomas al volar – seríamos completamente incapaces de predecir su comportamiento.
+El empirismo puede pensarse como la habilidad de atrapar instintivamente una pelota lanzada, o medir su movimiento; la racionalidad es la habilidad de predecir y entender el camino que tomará la pelota basada en principios universales. Evidentemente, si las pelotas fueran al azar en cualquier dirección - y se transformaran mágicamente en bandadas de palomas - seríamos completamente incapaces de predecir su comportamiento.
 
-Así, ya que la materia obedece leyes inmutables, nuestras teorías *sobre* la materia deben obedecer también leyes inmutables. Si no sé nada de béisbol, pero veo un juego de béisbol donde los jugadores siempre obedecen las reglas, sería irracional para mí formular una teoría sobre las reglas del béisbol que contradijese el comportamiento que estaba observando en los jugadores. Ya que las acciones de los jugadores son consistentes, *cualquier teoría que desarrolle sobre las reglas que guían esas acciones también debe ser consistente*.
+Por lo tanto, puesto que la materia obedece a leyes inmutables, nuestras teorías *sobre* materia también deben obedecer leyes inmutables. Si no sé nada sobre el béisbol, pero veo un juego de béisbol donde los jugadores siempre obedecen las reglas, sería irracional para mí formular una teoría sobre las reglas del béisbol que contradice directamente el comportamiento de los jugadores que estaba viendo. Como las acciones de los jugadores son consistentes, *cualquier teoría que desarrolle con respecto a las reglas que guían esas acciones también debe ser consistente*.
 
-Este requerimiento de consistencia es uno de los requerimientos más básicos de la verdad. Dado que la realidad es consistente, las teorías sobre la realidad también deben ser consistentes.
+Este requisito de consistencia es uno de los requisitos más básicos para la verdad. Puesto que la realidad es consistente, las teorías con respecto a la realidad también deben serlo.
 
-De hecho, el primer obstáculo que cualquier teoría debe superar es la *consistencia interna*.
+De hecho, el primer obstáculo que cualquier teoría debe superar es el de *consistencia interna*.
 
 [^1]: ¡Si no valoras la verdad, entonces no estarías en este debate – o en ningún debate – en primer lugar!
 
