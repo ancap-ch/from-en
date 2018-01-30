@@ -1,12 +1,12 @@
 ## UPB更具挑战性的测试
 
-我们现在已经测试了与UPB框架相关的特定的道德理论，并发现UPB验证了我们最普遍持有的道德信念，例如禁止强奸，谋杀和盗窃。 通过将*可避免性*的标准纳入分析之中，我们还帮助区分了不可避免的犯罪和必须通过积极行为才能实施的犯罪，如欺诈行为。 Finally, we have divided “preferable behaviour” into three major categories – universal, aesthetic, and neutral (and their relevant opposites). Universally prohibited actions include rape, murder and theft, which force may be used to prevent. Aesthetically preferable actions include politeness, being on time and so on, which cannot be enforced through violence. Neutral actions include purely subjective preferences, or actions that have no moral content, such as running for a bus.
+我们现在已经测试了与UPB框架相关的特定的道德理论，并发现UPB验证了我们最普遍持有的道德信念，例如禁止强奸，谋杀和盗窃。 通过将*可避免性*的标准纳入分析之中，我们还帮助区分了不可避免的犯罪和必须通过积极行为才能实施的犯罪，如欺诈行为。 最终，我们把“优选的行为”分为三个主要类别-普遍的，审美的，中立的(及其相关的对立面)。 普遍禁止的行为包括强奸，谋杀和盗窃，这些可以用武力来阻止。 审美学上可取的行为包括礼貌，准时等，不能通过暴力来强制执行。 中立行为包括纯粹的主观偏好，或者没有道德内容的行为，例如追赶巴士。
 
-However, there remain many challenging moral tests that fall outside the examples we have dealt with above. We will only deal with a few of those here, to have a look at the framework of UPB, and see how it deals with these more challenging moral questions.
+然而，在我们上面所处理的例子之外，仍然存在很多具有挑战性的道德测试。 我们在这里只会讨论一部分，来看看UPB的框架，以及它是如何处理这些更具挑战性的道德问题的。
 
-### Self-Defence
+### 自我防卫
 
-The concept of self-defence should not be taken for granted. If we assume that there is no such thing as self-defence, or that self-defence is never a valid action, then the framework of UPB undoes that assumption very quickly.
+自卫的概念不应被视为理所当然。 If we assume that there is no such thing as self-defence, or that self-defence is never a valid action, then the framework of UPB undoes that assumption very quickly.
 
 If there is no such thing as self-defence, then we are not talking about the initiation or the retaliation of the use of force, but rather just the use of force in any context. In other words, if we get rid of the concept of self-defence, the only question that we need to ask ourselves is: *is it universally preferable to use force, or not?*
 
