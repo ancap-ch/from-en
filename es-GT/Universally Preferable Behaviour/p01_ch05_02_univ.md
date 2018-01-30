@@ -2,15 +2,15 @@
 
 Como ya comentamos anteriormente, la proposición de que *no existe tal cosa como el comportamiento preferible* contiene un numero insuperable de problemas lógicos y empíricos. El "Comportamiento universalmente preferible" *debe* ser un concepto válido, por cinco principales razones.
 
-La primera es lógica: si yo argumento *contra* la proposición de que el comportamiento universalmente preferible es válido, ya he demostrado mi preferencia por la verdad sobre la falsedad – así como una preferencia por corregir a aquellos que hablan falsamente. Decir que no hay tal cosa como un comportamiento universalmente preferible es como gritar en el oído de alguien que el sonido no existe – es naturalmente contradictorio. En otras palabras, si no hay *tal cosa* como el comportamiento universalmente preferible, entonces uno *debería* oponerse a cualquiera que alegue que existe tal cosa como el comportamiento universalmente preferible. Sin embargo, si uno "debería" hacer algo, entonces uno ha creado un comportamiento universalmente preferible. Así, el comportamiento universalmente preferible – o las reglas morales – debe ser válido.
+La primera es lógica: si yo argumento *contra* la proposición de que el comportamiento universalmente preferible es válido, ya he demostrado mi preferencia por la verdad sobre la falsedad – así como una preferencia por corregir a aquellos que hablan falsamente. Decir que no hay tal cosa como un comportamiento universalmente preferible es como gritar en el oído de alguien que el sonido no existe – es naturalmente contradictorio. En otras palabras, si no hay *tal cosa* como el comportamiento universalmente preferible, entonces uno *debería* oponerse a cualquiera que alegue que existe tal cosa como el comportamiento universalmente preferible. Sin embargo, si uno "debería" hacer algo, entonces acaba de crear un comportamiento universalmente preferible. Así, el comportamiento universalmente preferible – o las reglas morales – deben ser validas.
 
 Silogísticamente, esto es:
 
 1. La proposición es: el concepto de "comportamiento universalmente preferible" debe ser válido.
 2. Argumentar contra la validez del comportamiento universalmente preferible demuestra comportamiento universalmente preferible.
-3. De tal forma ningún argumento contra la validez del comportamiento universalmente preferible puede ser válido.
+3. Por lo tanto, ningún argumento en contra de la validez del comportamiento universalmente preferible puede ser válido.
 
-Todos sabemos que hay preferencias subjetivas, como el gusto por el helado o el jazz, las cuales o son consideradas vinculantes para otras personas. Por otro lado, hay otras preferencias, como la violación y el asesinato, que claramente *son* infligidas a otros. También hay preferencias para la lógica, verdad y evidencia, las cuales también son vinculantes para otros (a pesar de que usualmente no son infligidas violentamente) en la medida en que todos aceptamos que una proposición ilógica debe ser falsa o inválida.
+Todos sabemos que hay preferencias subjetivas, como el gusto por el helado o el jazz, las cuales no son consideradas vinculantes para otras personas. Por otro lado, hay otras preferencias, como la violación y el asesinato, que claramente *son* infligidas a otros. También hay preferencias para la lógica, verdad y evidencia, las cuales también son vinculantes para otros (a pesar de que usualmente no son infligidas violentamente) en la medida en que todos aceptamos que una proposición ilógica debe ser falsa o inválida.
 
 Esas preferencias que pueden ser consideradas vinculantes para otros pueden ser llamadas "preferencias universales," o "reglas morales."
 
