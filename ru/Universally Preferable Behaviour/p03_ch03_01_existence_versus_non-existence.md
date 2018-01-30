@@ -48,7 +48,7 @@ Theft is morally wrong, as we have seen above. It is morally wrong for all peopl
 
 What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Наука развивается именно в той мере, в которой она отвергает иррациональность Бога и субъективные «абсолюты». Медицина развивается именно в той мере, в которой она отвергает эффективность молитвы и пустого ритуала, а вместо этого полагается на разум и доказательства. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
 
 ### Government
 
