@@ -44,29 +44,29 @@ Tener que "cruzar la zona nula" - o unir sin problemas las pequeñas verdades co
 
 Si miramos el progreso tecnológico y económico de la humanidad, vemos más o menos una línea plana durante incontables milenios, seguida de picos masivos y asintóticos en los últimos cientos de años. Es inconcebible que alguna mutación genética generalizada pueda explicar esta repentina y enorme aceleración de la consistencia intelectual y el éxito material. Las teorías que afirman que un cierto "efecto bola de nieve" nació, misteriosamente impulsado por una acumulación de todos los pequeños incrementos de conocimiento que se habían producido desde el amanecer de la civilización, pueden ser descartadas de la mano como explicaciones enteramente *ex post facto*, ya que no tienen valor predictivo.
 
-Si entendemos que nuestro potencial asombroso ha estado disponible para nosotros por lo menos por decenas de miles de años - y que es a la vez una gran ganancia y un gran placer al ejercitarlo - entonces enseguida se vuelve claro que realmente queremos *hacer* uso de nuestras increíbles mentes.
+Si entendemos que nuestro asombroso potencial ha estado disponible por lo menos durante decenas de miles de años - y que hay tanto grandes ganancias como gran placer en ejercerlo - entonces enseguida queda claro que realmente *queremos* utilizar nuestras asombrosas mentes.
 
-Por lo tanto, debe haber una fuerza descendente que ha actuado históricamente para aplastar y esclavizar la libertad natural de la humanidad.
+Por lo tanto, debe haber una fuerza descendente que históricamente ha actuado para aplastar y esclavizar la libertad natural de la humanidad.
 
-En el campo de la ciencia, no es demasiado difícil ver las fuerzas opresivas que continuamente mantienen nuestras mentes en la ignorancia casi primigenia. La combinación de superstición en la forma de religión y violencia en la forma de la aristocracia, amenazaba a los pensadores racionales con intimidación, encarcelamiento, tortura y asesinato. Así como un agricultor se beneficia de la baja inteligencia de sus vacas y un poseedor de esclavos se beneficia del miedo de sus esclavos, sacerdotes y reyes retuvieron sus privilegios amenazando con muerte a todo aquel que se atrevió a pensar.
+En el reino de la ciencia, no es muy difícil ver las fuerzas opresivas que continuamente mantuvieron nuestras mentes en una ignorancia casi primitiva. La combinación de la superstición en forma de religión, y la violencia en forma de aristocracia, amenazó a los pensadores racionales con intimidación, encarcelamiento, tortura y asesinato. Así como un granjero se beneficia de la poca inteligencia de sus vacas, y un dueño de esclavos se beneficia del temor de estos, los sacerdotes y reyes conservaron sus privilegios amenazando de muerte a cualquiera que se atreviera a pensar.
 
-La simple verdad es que "sacerdotes" y "reyes" fueron - y son - simplemente hombres. La simple verdad es que dioses y demonios que fueron supuestos para justificar sus reglas, nunca existieron.
+La simple verdad es que "sacerdotes" y "reyes" eran - y son - simplemente hombres. La simple verdad es que los dioses y demonios que se suponía que justificaban su gobierno nunca existieron.
 
-Hemos logrado grandes progresos en la comprensión de la naturaleza y la realidad de la simple igualdad humana, pero el triste hecho en la materia es que el campo de la *moralidad* todavía se pierde en la "zona nula" - en las destructivas ilusiones de las "medias verdades".
+Hemos dado grandes pasos en la comprensión de la naturaleza y la realidad de la simple igualdad humana, pero el triste hecho de la materia, es que el reino de *moralidad* está todavía perdido en la "zona nula" - en las ilusiones destructivas de las "medias verdades"
 
 ### "Medias Verdades"
 
-Vamos a llamar los principios de oposición que residen en la "zona nula" - entre la percepción sensorial y la consistencia conceptual - las "medias verdades".
+Llamemos a los principios de oposición que residen en la "zona nula" - entre percepción sensorial y consistencia conceptual - las "verdades medias"
 
-Estas "medias verdades" son las ilusiones más peligrosas de todas, porque otorgan la *apariencia* de una verdad mientras realmente *atacan* la verdad.
+Estas "verdades intermedias" son las ilusiones más peligrosas de todas, porque dan la *apariencia* de verdad mientras que en realidad *atacan* la verdad.
 
-Al proporcionar la ilusión de que hemos encontrado la verdad, las "medias verdades" realmente nos evitan obtener la verdad. Son la última línea de defensa para la fantasía, la depredación y la explotación.
+Proporcionando la ilusión de que hemos encontrado la verdad, las "verdades intermedias" en realidad nos impiden obtener la verdad. Son la última línea de defensa de la fantasía, la depredación y la explotación.
 
-Ya que no son solo irracionales, sino *anti* racionales, las "medias verdades" permanecen infinitamente flexibles - mientras que sirvan a aquellos en el poder. Por ejemplo, el Cristianismo surgió del creciente fascismo del Imperio Romano tardío en parte atacando a las supersticiones "primitivas" de las teologías existentes. "¡Olvídate de tus viejos dioses, nosotros tenemos un Dios completamente nuevo que es mucho mejor!"
+Puesto que no sólo son irracionales, sino *anti*-racionales, las "medias verdades" permanecen infinitamente flexibles - siempre y cuando sirvan a los que están en el poder. Por ejemplo, el cristianismo surgió del creciente fascismo del último Imperio Romano tardío, en parte atacando a las supersticiones "primitivas" de las teologías existentes. "¡Olvidate de tus viejos dioses, tenemos un nuevo Dios que es mucho mejor
 
-Las "Medias Verdades" siempre toman la forma de una verdad, seguida por una mentira. "Zeus es una superstición pagana" es la declaración verdadera, la cual fue hecha abiertamente por proselitistas Cristianos. La mentira que la siguió fue: "Yahvé no es una superstición pagana, sino un Dios real y vivo".
+"Medias verdades" siempre toman la forma de una verdad, seguida de una mentira. "Zeus es una superstición pagana e s una declaración verdadera, que fue hecha abiertamente por los proselitistas cristianos. La mentira que le siguió fue:"Yahvé no es una superstición pagana, sino un Dios real y viviente"
 
-Podemos personalizar esto un poco más con un ejemplo que será familiar para aquellos que alguna vez han aconsejado a un amigo disfuncional. "Mi último novio fue un completo idiota", dirá ella y usted estará fervientemente de acuerdo. "Mi nuevo novio es realmente *genial*", agregará y usted intentará no rodar los ojos.
+Podemos personalizar esto un poco más con un ejemplo que será familiar para cualquiera que haya aconsejado a un amigo disfuncional. "Mi último novio fue un completo idiota", dirá ella y usted estará fervientemente de acuerdo. "Mi nuevo novio es realmente *genial*", agregará y usted intentará no rodar los ojos.
 
 Es muy difícil no remplazar una ilusión con otra.
 
