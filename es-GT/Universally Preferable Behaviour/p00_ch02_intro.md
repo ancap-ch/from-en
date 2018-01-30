@@ -78,9 +78,9 @@ Las "medias verdades" también pueden existir en la ciencia, y de manera similar
 
 La religión es también otra "media verdad", una de las más peligrosas. Es verdad que somos una especie única en el universo, por lo que sabemos. Una jirafa es un cuadrúpedo más alto, pero el hombre no es sólo un primate "inteligente", sino algo muy diferente. La naturaleza de esa diferencia sigue siendo en gran medida desconocida - la explicación religiosa de "no somos iguales a los animales porque tenemos un alma y fuimos creados por un Dios" es sólo otro ejemplo de una "media verdad". Es cierto que somos muy diferentes de los animales. No es verdad que fuimos creados por un dios y tenemos alma.
 
-Así como algunos parásitos no pueden echar raíces hasta que se desprenden de los parásitos anteriores, las "medias verdades" sólo atacan las ilusiones anteriores *para que puedan tomar su lugar*. Los escépticos de las fantasías anteriores se sienten atraídos hacia la nueva fantasía. En consecuencia, el Cristianismo desplaza al paganismo, el Marxismo al Cristianismo, el postmodernismo desplaza al Marxismo, la democracia a la aristocracia y así sucesivamente.
+Así como algunos parásitos no pueden echar raíces hasta que se desprenden de los parásitos anteriores, las "medias verdades" sólo atacan las ilusiones anteriores *para que puedan tomar su lugar*. Los escépticos de las fantasías anteriores se sienten atraídos hacia la nueva fantasía. Así pues, el cristianismo desplaza al paganismo, el marxismo desplaza al cristianismo, el postmodernismo desplaza al marxismo, la democracia desplaza a la aristocracia, y así sucesivamente.
 
-Hasta que las grandes verdades se alcancen y se unan con las pequeñas verdades, las "medias verdades" son solo una falange giratoria de explotadoras y destructivas falsedades - específicamente diseñadas para evitar el éxito de las grandes verdades.
+Hasta que las grandes verdades sean alcanzadas, y unidas con las pequeñas verdades, las "medias verdades " son sólo una rotación de falsedades explotadoras y destructivas - específicamente diseñadas para prevenir el logro de las grandes verdades.
 
 Y las grandes verdades son siempre alcanzadas mediante las pequeñas verdades.
 
