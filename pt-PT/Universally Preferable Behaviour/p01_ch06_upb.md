@@ -45,7 +45,7 @@ Todos nós temos preferências - desde as simplesmente pessoais ("Eu gosto de so
 
 ### Escolha
 
-If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+Se eu aceitar o seu convite para um jantar, mas achar a conversa muito ofensiva, posso decidir me levantar e sair - e também posso optar por nunca mais aceitar outro convite. Essa capacidade de escape e/ou evasão é uma característica essencial que diferencia a *estética* da *ética*.
 
 If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
 
