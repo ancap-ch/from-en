@@ -12,17 +12,17 @@ De tal forma puede ser visto que, inherente al mismo acto de discutir hay un nú
 
 Si yo te pido que nos encontremos en una cancha de tenis, y aparezco con un rife de caza, podríamos terminar jugando algún tipo de deporte, pero ciertamente no será tenis. Cuando te pido encontrarnos en la cancha de tenis para un juego, implícitamente en esa solicitud está la aceptación de las reglas del tenis.
 
-Históricamente, aquellos que se aventuran en los debates éticos frecuentemente han fallado manteniendo esta realidad básica.
+Históricamente, quienes han participado en debates éticos a menudo han fracasado en mantener esta realidad básica.
 
-No puedo presentar una investigación científica escrita en mi propio lenguaje personal, alegando que ha sido referida por mi pez dorado psíquico, y esperar que sea tomada en serio. De manera similar, no puedo empezar un debate filosófico sobre la ética tomando como referencia mis propios valores personales, y alegar que mis argumentos han sido validados por Trixie, el invisible y omnisciente duende, y esperar que sea tomado en serio.
+No puedo presentar una investigación científica escrita en mi propio idioma, alegando que ha sido referida por mi pez dorado psíquico, y esperar que sea tomada en serio. De manera similar, no puedo empezar un debate filosófico sobre la ética tomando como referencia mis propios valores personales, y alegar que mis argumentos han sido validados por Trixie, el invisible y omnisciente duende, y esperar que sea tomado en serio.
 
 El mismo acto de debatir requiere la aceptación del comportamiento universalmente preferible (CUP). No hay manera de racionalmente responder a un argumento ético *sin* exhibir CUP.
 
-Avancemos a una serie de pruebas positivas de CUP.
+Avancemos ahora a una serie de pruebas positivas de CUP.
 
 ### CUP Y Validez
 
-Uno de los desafíos centrales que enfrentan los filósofos modernos es la necesidad de probar que las reglas morales son tanto posibles como universales. Hasta la que las reglas morales puedan ser sujetas al mismo rigor y lógica que cualquier otra proposición, estaremos por siempre frenados por el subjetivismo, los prejuicios políticos y el pragmático "argumento desde el efecto."
+Uno de los desafíos centrales a los cuales se enfrentan los filósofos modernos es la necesidad de probar que las reglas morales son tanto posibles como universales. Hasta la que las reglas morales puedan ser sujetas al mismo rigor y lógica que cualquier otra proposición, estaremos por siempre frenados por el subjetivismo, los prejuicios políticos y el pragmático "argumento del efecto."
 
 La analogía histórica más cercana a nuestra situación actual ocurrió en los siglos XV y XVI, durante el auge del método científico. Los primeros pioneros que abogaron por un acercamiento racional y empírico al conocimiento enfrentaron los mismos prejuicios que nosotros enfrentamos hoy – todas las mismas irracionalidades, los poderes atrincherados de la iglesia y el estado, los "absolutos" místicos y subjetivos y las barreras de la educación temprana. Aquellos que abogaron por la primacía de la racionalidad y la observación empírica sobre el fundamentalismo bíblico y las tiranías seculares enfrentaron la determinada oposición de aquellos portadores tanto de la cruz como de la espada. Muchos fueron torturados hasta la muerte por su honestidad intelectual – nos enfrentamos a un riesgo mucho menor, y así debemos ser mucho más valientes en alegar qué es *cierto* sobre lo que es *creído*.
 
