@@ -21,15 +21,15 @@ Digamos que estamos a ter um debate sobre a existência de Deus. Depois de expor
 
 ### Mentindo
 
-Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
+Digamos que nós estabelecemos as regras para um debate, e ambos concordamos em julgar a questão da existência de Deus de acordo com a razão e a evidência. Se, à medida que o debate continua, você volta a uma posição de fé cega e rejeita os meus argumentos *apesar da* sua racionalidade e evidência, não está a manter a sua palavra. Por outras palavras, estava a mentir quando disse que a questão seria decidida por motivos e provas.
 
-The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+A diferença entre essas duas situações (irracionalidade versus mentira) é a diferença entre um arranjo contratual e não contratual. Se eu lhe entrego cem dólares e depois vou embora, não posso voltar passado um ano e dizer-lhe que agora me deve cem dólares, porque era um empréstimo. Se, pelo contrário, você concorda em me pagar o dinheiro no prazo de um ano, e depois não o faz, essa é uma situação bastante diferente.
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+No exemplo de "mentir", embora você claramente, não tenha mantido a sua palavra e desperdiçado o meu tempo, não parece ser moral ou razoável que eu puxe uma arma e lhe dispare.
 
-A reasonable moral theory should be able to explain why this is the case.
+Uma teoria moral razoável deve ser capaz de explicar por que o caso é assim.
 
-### Murder
+### Assassinato
 
 If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
 
