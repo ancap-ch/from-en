@@ -2,9 +2,9 @@
 
 Abajo hay una lista enumerada de panagramas que muestran cada personaje, ambos en inglés y también en otros lenguajes.
 
-1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
-2. numbers: 0123456789. 
-3. symbols: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
+1. mayúscula: RÁPIDAMENTE, EL ZORRO MARRÓN SALTA SOBRE EL PERRO FLOJO. 
+2. números: 0123456789. 
+3. símbolos: + - */ = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
 4. emphasys: *The quick, brown fox jumps over a lazy dog.* 
     1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
     2. inner emphasys: **The *The quick, brown fox jumps over a lazy dog* dog.** 
