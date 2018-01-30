@@ -1,4 +1,4 @@
-## UPB更具挑战性的测试
+## 更具挑战性的UPB测试
 
 我们现在已经测试了与UPB框架相关的特定的道德理论，并发现UPB验证了我们最普遍持有的道德信念，例如禁止强奸，谋杀和盗窃。 通过将*可避免性*的标准纳入分析之中，我们还帮助区分了不可避免的犯罪和必须通过积极行为才能实施的犯罪，如欺诈行为。 最终，我们把“优选的行为”分为三个主要类别-普遍的，审美的，中立的(及其相关的对立面)。 普遍禁止的行为包括强奸，谋杀和盗窃，这些可以用武力来阻止。 审美学上可取的行为包括礼貌，准时等，不能通过暴力来强制执行。 中立行为包括纯粹的主观偏好，或者没有道德内容的行为，例如追赶巴士。
 
@@ -42,7 +42,7 @@
 
 之前，当我们谈到UPB的时候，我们注意到，UPB之中也有例外，生物学中必须有客观的差异。 或者，更准确地说，只要有生物学上的客观差异，就可能会有UPB的合理例外或差异出现。 一个五岁孩子的大脑和神经系统发育不成熟，因此不能理性地处理他的长期行为后果。 这里的关键在于不成熟的大脑，如果一个成年男性的智力也等同于五岁的大脑，那么他的行为责任也就减轻了。
 
-Thus when we point to situations of reduced responsibility, we are not *taking away* responsibility that exists, but rather recognising a situation where responsibility does not exist, at least to some degree. If I say that a man in a wheelchair cannot take the escalator, I am not taking away his right to take the escalator, but merely pointing out that he cannot, in fact, use it. When I say that UPB does not apply to the actions of a five year old, I am not saying that UPB is subjective, any more than a height requirement for a roller coaster somehow makes the concept of “tall” subjective.
+因此，当我们指出减少责任的情况时，我们并不是*带走*责任的存在，而是承认责任可能不存在的情况，至少在某种程度上是如此。 If I say that a man in a wheelchair cannot take the escalator, I am not taking away his right to take the escalator, but merely pointing out that he cannot, in fact, use it. When I say that UPB does not apply to the actions of a five year old, I am not saying that UPB is subjective, any more than a height requirement for a roller coaster somehow makes the concept of “tall” subjective.
 
 If I voluntarily enter into a contract with you wherein I promise to pay your bills for a year, I have not signed myself into slavery, but I certainly have taken on a positive obligation that I am now responsible for.
 
