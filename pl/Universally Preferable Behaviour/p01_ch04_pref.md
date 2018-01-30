@@ -34,17 +34,17 @@ Ponieważ nie można działać bez wyrażenia preferencji - ani pośrednio, ani 
 
 Następne pytanie brzmi: czy preferencje są czysto subiektywne, czy mogą być uniwersalne?
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+Oczywiście niektóre preferencje są subiektywne. Gusta muzyczne, osobiste hobby, ulubiona literatura itp. Są subiektywnymi i osobistymi preferencjami.
 
 The challenge arises when we try to define some preferences as *objective*.
 
 The proposition before us is thus: *can some preferences be objective, i.e. universal?*
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. Gdybym miał argumentować, że jedzenie jest obiektywną preferencją, moim argumentom można przeciwdziałać za pomocą przykładów strajków głodowych i anoreksji.
+Kiedy mówię, że niektóre preferencje mogą być obiektywne, nie mam na myśli, że wszyscy ludzie zawsze podążają za tymi preferencjami. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. Gdybym miał argumentować, że jedzenie jest obiektywną preferencją, moim argumentom można przeciwdziałać za pomocą przykładów strajków głodowych i anoreksji.
 
 Kiedy mówię o uniwersalnych preferencjach, mówię o tym, co wolą ludzie * powinni </ 0> preferować, a nie to, co zawsze * robią </ 0>. Aby użyć naukowej analogii, aby naprawdę zrozumieć wszechświat, ludzie </ 0> powinni używać metody naukowej - nie oznacza to, że zawsze to robią, ponieważ wyraźnie miliardy ludzi szukają starożytnych bajek zamiast współczesnej nauki dla "Odpowiedzi." Nie ma sposobu, aby osiągnąć prawdę o wszechświecie bez nauki, ale ludzie mają całkowitą swobodę, aby na nowo zdefiniować "prawdę" jako "błąd" i zadowolić się mistyczną sentencją.</p> 
 
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. Preferowanie przyjmowania antybiotyków zamiast tańca deszczowego jest powszechne, ponieważ taniec nie może wyleczyć infekcji. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
 
 In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
 
