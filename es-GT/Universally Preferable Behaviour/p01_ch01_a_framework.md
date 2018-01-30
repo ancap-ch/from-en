@@ -8,15 +8,15 @@ La diferencia fundamental entre las declaraciones de *preferencia* y las declara
 
 Si yo digo que la tierra es redonda, y proporciono pruebas suficientes para esta afirmación, ya no les corresponde a ustedes determinar a su antojo si la afirmación es verdadera. Si puedo probar que la tierra es redonda, entonces estás obligados a aceptarla como verdadera, a menos que estés dispuestos a rechazar la razón y la evidencia como criterio de la verdad.
 
-Si acepto la validez de las leyes matemáticas, no puedo rechazar arbitrariamente una prueba matemática que se ajuste a esas leyes. Si yo *si* rechazo tal prueba, ya no puedo afirmar que acepto la validez de las leyes matemáticas. Mi aceptación de estas leyes significa que estoy *obligado* a aceptar como válidas las evidencias que se ajusten a estas leyes. El rechazo de una evidencia que se ajusta a los estándares racionales es un rechazo de los estándares racionales como un todo.
+Si acepto la validez de las leyes matemáticas, no puedo rechazar arbitrariamente una prueba matemática que se ajuste a esas leyes. Si yo *si* rechazo tal prueba, ya no puedo afirmar que acepto la validez de las leyes matemáticas. Mi aceptación de estas leyes significa que estoy *obligado* a aceptar como válidas aquellas pruebas que se ajusten a estas leyes. El rechazo de una prueba que se ajusta a las normas racionales es un rechazo de las normas racionales en su conjunto.
 
-El método científico, la racionalidad en sí misma, y las leyes matemáticas son ejemplos de criterios *objetivos* para establecer la verdad de una proposición. No es mi opinión que dos y dos son cuatro – si tú también aceptas que dos y dos son cuatro, entonces no te estás doblegando a mi mera opinión, sino a una verdad racional.
+El método científico, la racionalidad misma y las leyes matemáticas son ejemplos de *objetivo* criterios para establecer la verdad de una proposición. No es mi opinión que dos y dos hacen cuatro - si ustedes también aceptan que dos y dos hacen cuatro, no se someten a mi mera opinión, sino a una verdad racional.
 
 ### Verdad Objetiva
 
-Un desafío central en el entendimiento de la naturaleza de la verdad es la realización de que "la verdad" no existe en el mundo de la misma manera que lo hace una roca o un árbol.
+Un desafío central para entender la naturaleza de la verdad es la comprensión de que la "verdad" no existe en el mundo de la misma manera que una roca o un árbol.
 
-El concepto de "verdad" es necesariamente un término relativo – aunque eso no significa que sea un término subjetivo o arbitrario. El concepto de "salud" también es un término relativo – comparamos "salud" a enfermedad, y también a estándares relativos de salud. Lo que es considerado como "buena salud" para una persona de noventa años apenas sería considerado como saludable para una persona de veinte años. La definición de una vida larga es muy diferente ahora de lo que fue hace quinientos años.
+El concepto de "verdad" es necesariamente un término relativo - aunque no significa que sea subjetivo o arbitrario. El concepto de "salud" es también un término relativo - nosotros comparamos la "salud" con la enfermedad, y también con los estándares relativos de salud. Lo que se considera "buena salud" de noventa años, difícilmente se consideraría buena salud para uno de veinte años. La definición de una larga vida es muy diferente ahora que hace quinientos años.
 
 Esto no significa, sin embargo, que el concepto de "salud" es completamente relativo y subjetivo. Una persona de diez años muriendo de leucemia es insana por cualquier definición – así como un corredor de maratones de veinte años es sano por cualquier definición. Actualmente, un hombre que vive noventa años ha tenido estadísticamente una vida larga, a pesar de que eso cambiaría si la tecnología médica de pronto nos permitiese vivir hasta tener doscientos.
 
