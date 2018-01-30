@@ -31,7 +31,7 @@ Uma teoria moral razoável deve ser capaz de explicar por que o caso é assim.
 
 ### Assassinato
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+Se você corresse para mim com uma faca na mão, poucas pessoas argumentariam o meu direito a me defender. Se disparar-lhe fosse a única maneira em que eu poderia, razoavelmente, garantir a minha própria segurança, geralmente seria considerada uma necessidade lamentável.
 
 ### Requirements For Ethics
 
