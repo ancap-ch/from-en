@@ -38,7 +38,7 @@ Thus if I say, “God exists,” what I am really saying is:
 
 - Нравственные пропозиции не зависят от костюма.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Это означает, что человек не может изменить свою нравственную природу вместе с одеждой. Сменив костюм, человек не меняет своей фундаментальной природы. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
 
 Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
 
