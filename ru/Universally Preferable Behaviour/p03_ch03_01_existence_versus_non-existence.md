@@ -28,11 +28,11 @@ Thus if I say, “God exists,” what I am really saying is:
 
 Величайшие скачки в научном понимании – это так называемые «объединяющие теории». Эйнштейн провел десятилетия, пытаясь разработать единую теорию поля; но теории физики, которые объединяют сильные и слабые силы, электромагнетизм, гравитацию и т. д., остаются неуловимыми.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+УПП как рамка, однако, не только оправдывает наши моральные инстинкты на личном, философском и вселенском уровнях, но также имеет глубокие и шокирующие последствия для человеческого общества.
 
 #### UPB In Action
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+Рамки УПП усиливает моральные пропозиции, требуя, чтобы они были внутренне согласованными и универсальными с точки зрения времени, места и отдельных лиц.
 
 If we accept UPB, we must also accept the following corollary:
 
