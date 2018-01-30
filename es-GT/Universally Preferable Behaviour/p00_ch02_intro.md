@@ -114,19 +114,19 @@ Sin embargo, los filósofos que se oponen a*todo* error intelectual son enemigos
 
 El método científico requiere que cada tesis sea sustentada por la evidencia y la racionalidad. Puesto que no hay evidencia de dioses - y la *idea*misma de dioses es innatamente contradictoria - la tesis "los dioses existen" no se puede sustentar. Inevitablemente, los parásitos religiosos intentan defender su tesis intentando dividir la realidad en "dos reinos" - el científico y el espiritual. Sin embargo, no hay evidencia de la existencia de este reino "espiritual" en el presente, como tampoco lo hubo para el universo paralelo de las "Formas" Platónicas hace dos mil quinientos años.
 
-Así pues, el establecimiento de una verdad coherente y universal limita y destruye necesariamente el potencial explotador de la ilusión. En particular, las "grandes verdades", que son universales y consistentes, hacen redundantes y ridículas las "medias verdades", que en realidad son fantasías explotadoras. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+Así pues, el establecimiento de una verdad coherente y universal limita y destruye necesariamente el potencial explotador de la ilusión. En particular, las "grandes verdades", que son universales y consistentes, hacen redundantes y ridículas las "medias verdades", que en realidad son fantasías explotadoras. Estamos familiarizados con la "media verdad" de la religión; algunas otras serán examinadas y reveladas aquí, algunas de las cuales pueden conmocionarlo.
 
-### Effective Parasitism
+### Parasitismo Efectivo
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+Los parásitos - o virus - más efectivos son los que engañan al cuerpo en que no existen. Nuestro sistema inmunológico está diseñado para atacar sustancias extrañas dentro del cuerpo, aislarlas y matarlas. Tememos el VIH y el cáncer en particular porque son capaces de pasar por alto nuestro sistema inmunológico. La misma técnica es utilizada por los parásitos intelectuales para inutilizar los sistemas de defensa de aquellos quienes se aprovechan.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+Si un extraño te ataca en un callejón y pide tu dinero, quedarás consternado y horrorizado. Puedes contraatacar, puedes correr, o puedes darle tu billetera, pero te quedarías conmocionado, enojado y asustado por la interacción. Cuando repites la historia, la contarías de una manera que reforzara la base y la vil violación de tus derechos personales y de propiedad. Otros sentirían simpatía por su predicamento, y evitarían dicho callejón en el futuro.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+Este es un ejemplo de una "pequeña verdad", que es: "Robarme para mi, está mal"
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+Sin embargo, cuando un agente del gobierno te envía una carta exigiéndote que le pagues dinero, puedes sentir cierta indignidad, pero no relacionarías la historia con el mismo horror e indignación de tus amigos.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+Este es un ejemplo de una "media verdad" que oculta una "gran verdad", que es que "robar está mal"
 
 This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
 
