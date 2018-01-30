@@ -38,7 +38,7 @@ En este punto, la objeción puede plantearse razonablemente, si un hombre en com
 
 El concepto de “evitabilidad” trabaja tanto en lo positivo tanto como en lo negativo. Si yo he perdido mis genitales en un terrible accidente, soy moral por abstenerme de violar? Sería difícil de discutir que lo fuera, ya que la violación genital al menos, sería imposible para mí. Similarmente, podriamos llamar a un hombre "generoso" si el le da cien dolares a un mendigo - sin embargo, deberiamos sin duda revisar nuestra estimación si resulta que el dio el dinero mientras caminaba sonambulo, y concientemente se arrepiente de esa accion al despertar.
 
-Por lo tanto podemos razonablemente decir que la decision esta ausente, o inaplicable, la moralidad esta también ausente, o inaplicable. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
+Por lo tanto podemos razonablemente decir que la decision esta ausente, o inaplicable, la moralidad esta también ausente, o inaplicable. Por lo tanto el hombre en coma, mientras que sus acciones no pueden ser consideradas viles, tampoco pueden ser consideradas buenas. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
 
 With that in mind, let us continue our examination of rape.
 
