@@ -44,11 +44,11 @@ Con esto en mente, continuemos nuestra examinacion de la violación.
 
 ### Esteticamente positivo
 
-Acciones estéticamente positivas (AEP) son universalmente preferibles, pero no ejecutables a través de la violencia, ya que las acciones estéticamente negativas no inician el uso de la fuerza. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
+Acciones estéticamente positivas (AEP) son universalmente preferibles, pero no ejecutables a través de la violencia, ya que las acciones estéticamente negativas no inician el uso de la fuerza. Como ya comentamos anteriormente, si llego tarde a una reunion a conocerte, yo no he iniciado el uso de la fuerza en contra tuya, y no te he removido tu capacidad de escoger, o evitar la situación.
 
-If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
+Si decimos que APAs pueden ser reforzadas a través de la violencia, entonces estamos diciendo que la iniciación de la violencia es moralmente buena.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+Si proponemos una regla moral que la iniciación de la violencia es moralmente buena, entonces esta regla enfrenta todas las mismas imposibilidades como la regla de que "la violación es moralmente buena"
 
 Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
 
