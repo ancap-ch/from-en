@@ -1,6 +1,6 @@
 ---
 content_files:
-  - content.md
+  - contenido.md
 translation:
   language: en
   is_translation: false
@@ -10,50 +10,50 @@ translation:
   fetch_progress: true
 titles:
   - Text title
-  - '~~Centered~~'
-  - '~~~~~the right'
+  - '~~Centrado~~'
+  - '~~~~~la derecha'
 discussions:
   - 
     - https://en.ancap.ch/t/17
-    - Ancap Channel
+    - Canal Ancap
 more_infos:
   - 
     - https://www.google.com
-    - Website name
+    - Nombre del sitio web
 tags:
-  - Some Tag
-  - Another Tag
-  - And so on
+  - Alguna etiqueta
+  - Otra etiqueta
+  - Y así sucesivamente
 tag_prefix: "https://en.ancap.ch/tags/"
 persons:
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "modelo_persona"
     rule: "el Autor"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "collaborator"
+    identifier: "modelo_persona"
+    rule: "colaborador"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "thanked"
+    identifier: "modelo_persona"
+    rule: "agradecido"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "translator"
+    identifier: "modelo_persona"
+    rule: "traductor"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "reviwer"
+    identifier: "modelo_persona"
+    rule: "crítico"
   - 
     person_: [ ]
-    identifier: "template_person"
-    rule: "cover_artist"
+    identifier: "modelo_persona"
+    rule: "cubierta_artista"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "artist"
+    identifier: "modelo_persona"
+    rule: "artista"
 resources:
   - 
     resource: [ ]
