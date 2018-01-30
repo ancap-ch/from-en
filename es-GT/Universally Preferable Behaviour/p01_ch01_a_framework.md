@@ -58,15 +58,15 @@ Cuando soñamos por la noche, nuestras percepciones son que las reglas de "mater
 
 La lógica, la ciencia y la verdad, entonces, son imposibles en ausencia de *consistencia*.
 
-Fundamentalmente, las leyes de la lógica se derivan del comportamiento de la materia y la energía, al menos a nivel perceptivo. Si te digo que lances una pelota hacia arriba como hacia abajo al mismo tiempo, te pido lo imposible, que puedes probar fácilmente intentando cumplir mi petición. Si les digo que aren simultáneamente el campo norte y el campo sur, no podrán cumplir. Si te exijo que conviertas una rosa en un burro, mi demanda jamás será satisfecha.
+Fundamentalmente, las leyes de la lógica se derivan del comportamiento de la materia y la energía, al menos a nivel perceptivo. Si te digo que lances una pelota hacia arriba como hacia abajo al mismo tiempo, te pido lo imposible, que puedes probar fácilmente intentando cumplir mi petición. Si les digo que aren simultáneamente el campo norte y el campo sur, no podrán cumplir. Si te pido que conviertas una rosa en un burro, mi demanda nunca será satisfecha.
 
-La realidad perceptual es consistente y objetiva – y es de esta consistencia y objetividad que derivamos las leyes de la lógica. Nuestras declaraciones sobre la realidad solo pueden *representar* precisamente la realidad como un resultado directo de esta consistencia y objetividad.
+La realidad perceptual es consistente y objetiva - y de esta coherencia y objetividad derivamos las leyes de la lógica. Nuestras afirmaciones acerca de la realidad sólo pueden presentar con precisión *representar* la realidad como resultado directo de esta consistencia y objetividad.
 
-El hecho de que las gaviotas no se conviertan arbitrariamente en yunques – o viceversa – es la raíz de nuestra capacidad para juzgar con precisión la declaración: "Eso es una gaviota." Si las gaviotas espontáneamente y continuamente cambiaran su naturaleza, entonces seríamos incapaces de formular declaraciones verdaderas o falsas sobre ellas – o sobre cualquier cosa en ese sentido.
+El hecho de que las gaviotas no se conviertan arbitrariamente en yunques - o viceversa - es la raíz de nuestra capacidad para juzgar con precisión la afirmación: "Esa es una gaviota." Si las gaviotas cambiaran espontánea y continuamente su naturaleza, no podríamos hacer afirmaciones verdaderas o falsas con respecto a ellas - ni nada por el estilo.
 
-Esta es la raíz del criterio clave del método científico – la reproducibilidad. Si yo hago una hipótesis universal sobre la naturaleza de la gravedad, entonces deberías ser capaz de reproducir esa hipótesis en tu propio ambiente. Si la realidad *no* fuese consistente, entonces la reproducibilidad sería un criterio irracional para el establecimiento de una verdad.
+Esta es la raíz de un criterio clave del método científico - la reproducibilidad. Si yo hago un reclamo universal sobre la naturaleza de la gravedad, entonces ustedes deberían ser capaces de reproducir ese reclamo en su propio ambiente. Si la realidad fuera *no* consistente, entonces la reproducibilidad sería un criterio irracional para el establecimiento de la verdad.
 
-Si fueses un profesor de matemáticas, estarías muy poco dispuesto a aceptar una respuesta equivocada de un estudiante, incluso si ese estudiante afirmase que su respuesta era correcta cuando la escribió pero de alguna manera cambió en el ínterin.
+Si usted fuera profesor de matemáticas, sería muy poco probable que aceptara una respuesta equivocada de un estudiante, incluso si ese estudiante afirmara que su respuesta era "correcta" cuando la escribió, pero de alguna manera cambió entretanto.
 
 Así solo podemos aceptar que debemos medir la validez de una declaración en relación a la realidad objetiva – tanto empírica como lógicamente. La lógica como disciplina surge solo como resultado de la consistencia de la realidad; las observaciones empíricas solo son válidas o inválidas como el resultado de la naturaleza consistente de la realidad.
 
