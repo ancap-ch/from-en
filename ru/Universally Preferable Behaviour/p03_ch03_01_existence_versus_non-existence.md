@@ -22,7 +22,7 @@ The true reality of the statement “error equals truth” is the tautological i
 
 ### The "Alternate Universe" In Human Society
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+Причина, по которой мы столько времени занимаемся этой теорией «альтернативной вселенной», состоит в том, что она имеет прямое отношение к человеческому обществу и используется для «оправдания» величайшего зла, совершающегося среди нас.
 
 In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
 
