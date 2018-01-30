@@ -4,45 +4,45 @@ W wielu bajeczkach żyje straszliwa bestia o niesamowitej sile, smok lub bazylis
 
 Większość ludzi kuli się pod cieniem tej bestii, nazywając ich strach "rozwagą", ale kilku - zgaduję, że pijanych sądząc po brawurze - decyduje się walczyć. Rok po roku, dekada po dekadzie, fala po fali pełnych nadziei bohaterów próbuje zmierzyć swoją siłę, zalety i spryt przeciwko temu okropnemu tyranowi.
 
-Try – and fail.
+Spróbuj - i nie.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Bestia jest zawsze nieśmiertelna, więc wieśniacy nie mogą mieć nadziei, że uda im się uwolnić ich od despoty. Bestia nigdy nie jest racjonalna i nie ma zamiaru handlować, więc żadne negocjacje nie są możliwe.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Jedyną nadzieją zdesperowanych wieśniaków jest pojawienie się człowieka, który może pokonać bestię.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Nieuchronnie, człowiek idzie naprzód, który uderza wszystkich jako zupełnie nie na miejscu. Jest stabilnym chłopcem, synem szewca, uczniem piekarza - a czasem tylko włóczęgą.
 
-This book is the story of my personal assault on just such a beast.
+Ta książka jest historią mojego osobistego ataku na taką właśnie bestię.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Ta "bestia" wierzy, że niemożliwe jest zdefiniowanie obiektywnego, racjonalnego, świeckiego i naukowego systemu etycznego. Ta "bestia" jest złudzeniem, że moralność musi na zawsze zaginąć w irracjonalnych bagnach bogów i rządów, wymuszonych jedynie z powodów pragmatycznych, ale na zawsze brakuje logicznego uzasadnienia i jasnej definicji. Ta "bestia" jest fantazją, że cnota, nasza największa radość, nasze najgłębsze szczęście, musi zostać odrzucona przez świeckich dorosłych i pozostawiona w prochu, aby można ją było zastraszyć, paradować i wyzyskiwać przez polityków i księży - i rodziców. Ta "bestia" jest przesądem, który - bez tyrady rodziców, znęcania się nad bogami lub działami rządów - nie może być ani racjonalny, ani dobry.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Ta bestia sprowadziła wielu wielkich bohaterów, od Sokratesa po Platona, od Augustyna po Hume'a, od Kanta po Rand.
 
-The cost to mankind has been enormous.
+Koszt dla ludzkości był ogromny.
 
 Ponieważ nie potrafiliśmy zdefiniować racjonalnego systemu uniwersalnej moralności, byliśmy zmuszeni zadawać naszym dzieciom religijne opowieści o horrorze lub wręczać broń, więzienia i armie małemu monopolowi kontrolerów bezdusznych, którzy nazywają siebie "państwem"
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Ponieważ to, co nazywamy "etyką", pozostaje subiektywne i jedynie kulturalne, nieuchronnie w końcu polegamy na znęcaniu się, strachu i przemocy w celu egzekwowania reguł społecznych. Ponieważ etyka nie ma racjonalnej podstawy metody naukowej, "moralność" pozostaje pogrążona w plemiennej wojnie o krwawe mitologie, każdy gang walczy z zębami i gwoździami o kontrolę nad przynależnością ludzi do "cnoty"
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Nie możemy żyć bez moralności, ale nie możemy obiektywnie zdefiniować moralności - w ten sposób jesteśmy wiecznie skazani na opróżnianie życia pompatyczną hipokryzją, cyniczną dominacją lub pobożnym niewolnictwem.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Intelektualnie nie ma wyższych stawek na świecie. Nasze nieumiejętne zdefiniowanie obiektywnych i racjonalnych zasad moralnych kosztowało setki milionów ludzi w wojnach religii i państw.
 
-In many ways, the stakes are getting even higher.
+Pod wieloma względami stawka jest jeszcze wyższa.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+Zwiększony przepływ informacji w Internecie wzbudził podejrzenia nowego pokolenia, że to, co nazywa się "cnotą", nie jest niczym więcej - ani mniej - niż samoobsługowe bajki ich obłudnych starszych. Pobożne kłamstwa opowiadane przez autorytety - i współudział tych, którzy je czczą - są teraz wyraźniejsze niż kiedykolwiek wcześniej.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+"Prawda" została ujawniona jako manipulacja; "Cnota" jako kontrola; "Lojalność" jako niewolnictwo, a to, co nazywa się "moralnością", zostało objawione jako śmieszne przedstawienie lalkowe, mające na celu oszukanie słabych i pełnych lęku ludzi do zniewolenia.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. Ci skrajni relatywiści rezerwują najbardziej żałosne ataki na każdego, kto twierdzi jakąkolwiek formę pewności. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+Ta realizacja zrodziła nowe pokolenie nihilistów, tak jak w dziewiętnastowiecznych Niemczech. Ci skrajni relatywiści rezerwują najbardziej żałosne ataki na każdego, kto twierdzi jakąkolwiek formę pewności. To postmodernistyczne pokolenie wyrosło z kulturowych bigoterii ich zbiorowej historii, ale teraz postrzega całą prawdę jako zwykłe uprzedzające twierdzenie. Podobnie jak szeroko rozstawione dzieci, które zostały okaleczone cyniczną "mądrością", postrzegają wszelką komunikację jako reklamę, wszelkie roszczenia jako propagandę i wszelkie adhortacje moralne jako obłudne kradzieże.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+Ponieważ nie mamy zgody co do spójnych, obiektywnych i racjonalnych ram oceny wartości moralnych, "moralność" pozostaje pogrążona w mistycyzmie i nieuchronnym następstwie przemocy. Tak jak przed oświeceniem, sekty religijne walczyły nieustannie o kontrolę nad ostrzami arystokracji, więc teraz konkuruj z moralnymi mitologicznymi wojnami o kontrolę nad państwem i całą jego machinę przymusu.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+Tak więc moralność pozostaje w stosunku do współczesnej nauki, podobnie jak średniowieczna "astronomia" dla współczesnej astronomii - sfery wyimaginowanej mitologii, wymuszonej przez opowiadanie, groźby, przymus i wyzysk - która aktywnie blokuje prawdziwy postęp w kierunku prawdy.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+Ta "bestia" relatywistycznej etyki wyłania się ponad nami, żerując na nas, usprawiedliwiając podatki, więzienie, cenzurę i wojny. Zniewala młodych w państwowych szkołach i niedzielnych ławkach; usidla ubogich w łagodnych gułagach dobrobytu; zniewolił nawet nienarodzonych w bezdennych studniach narodowych długów.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+Jak napisałem w mojej poprzedniej książce "O prawdzie: Tyrania iluzji", najbardziej podstawowym kłamstwem w centrum niesprawdzonych teorii etycznych jest to, że takie teorie są zawsze przedstawiane dzieciom jako obiektywne i niepodważalne fakty, podczas gdy w rzeczywistości są one jedynie kulturowe bigoterie. Ponieważ naukowcy nie potrzebują rządu ani Watykanu, naukowcy mają obiektywną metodologię rozwiązywania sporów: metodę naukową. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
 
 The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
 
