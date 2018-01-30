@@ -32,7 +32,7 @@ Mentir también encaja más cercanamente in la categoría de *violencia*, en la 
 
 Por lo tanto podemos mentirle justamente al mentiroso, así como podemos justamente defendernos de un golpe con un golpe, pero nosotros no exactamente respetaremos la mezquindad de "pagar de la misma forma" apareciendo más tarde, a una persona que ya viene tarde.
 
-The difference is that “being late” is not as actively destructive as lying. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
+La diferencia es que "estar atrasado" no es tan destructivo como mentir. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
 
 Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
 
