@@ -16,7 +16,7 @@ Esas preferencias que pueden ser consideradas vinculantes para otros pueden ser 
 
 ¿De qué otra forma podemos saber que el concepto de "reglas morales" es válido?
 
-Nosotros podemos examinar la cuestión biológicamente tanto como silogísticamente.
+Podemos examinar la cuestión biológicamente tanto como silogísticamente.
 
 Por ejemplo, toda la materia está sujeta a las reglas físicas – y todo lo que vive está en adición sujeto a ciertos requerimientos, y así, si está vivo, debe haber seguido los comportamientos universalmente preferibles. La vida, por ejemplo, requiere combustible y oxígeno. Cualquier mente viviente, por supuesto, es una parte orgánica del mundo físico, y así está sujeta a las leyes físicas y debe haber seguido comportamientos preferibles – argumentar lo contrario requeriría pruebas de que la consciencia no está compuesta por materia, y no es orgánica – un imposible, ya que tiene masa, energía, y vida. Argumentar que la consciencia no está sujeta ni a las reglas de la física ni a comportamientos universalmente preferibles sería como argumentar que los seres humanos son inmunes a la gravedad, y que pueden florecer sin comer.
 
