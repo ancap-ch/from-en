@@ -8,7 +8,7 @@ Sería ilógico - por no decir muy improductivo - construir un puente a partir d
 
 Hay dos formas de determinar la viabilidad del puente antes de construirlo. La primera es buscar inconsistencias internas dentro de las premisas y cálculos que afirmen apoyar la viabilidad del puente. Si hay errores significativos en los cálculos que justifican el peso que el puente puede soportar, entonces es probable que el puente esté sobre-diseñado o mal diseñado. Si los cálculos matemáticos erróneos resultan en una fuerza de menos cincuenta toneladas por pie cuadrado en cualquier parte del puente, entonces ciertamente no se mantendrá - o, si lo hace, su viabilidad será sólo accidental, y no reproducible.
 
-Los cálculos matemáticos que apoyan la viabilidad del puente deben entonces ser internamente consistentes antes que cualquier otra consideración pueda ser tomada en cuenta.
+Por lo tanto, los cálculos matemáticos que sustentan la viabilidad del puente deben ser internamente coherentes antes de poder tener en cuenta cualquier otra consideración.
 
 En términos computacionales, el código que no compila no puede ser probado.
 
