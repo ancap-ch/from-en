@@ -57,13 +57,13 @@ Se estivéssemos de pé no alto de um penhasco, e eu me voltasse para você e di
 
 Da mesma forma, se eu o encontrasse num bar e dissesse: "Quero que venha para a minha casa, para que eu o possa amarrar na cama e deixar morrer de fome", se, realmente, decide vir comigo, é com o conhecimento razoável de que a sua longevidade não será muita, devido à sua decisão. Por outro lado, se eu tivesse misturado uma droga de "sono" na sua bebida, e você acordasse amarrado à minha cama, é claro que não poderia ter feito grande coisa para evitar a situação.
 
-This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose.
+Esta questão de *evasão* é a chave fundamental para diferenciar a estética da ética. A estética aplica-se a situações que podem ser desagradáveis, mas que não eliminam a sua capacidade de escolha.
 
-#### Avoidance And Initiation
+#### Evasão e Iniciação
 
-There is a particular issue with avoidance that will come up later in this book, which is worth clearing up here beforehand.
+Há uma questão particular sobre a evasão que aparecerá mais adiante neste livro, que vale a pena esclarecer aqui de antemão.
 
-If I live on a high mountaintop five thousand kilometres away from you, and send you an e-mail telling you that if you ever walk in front of my house, I am going to shoot you, it is relatively easy for you to avoid this situation. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
+Se eu vivesse no topo de uma montanha alta a cinco mil quilómetros de distância de você, e lhe enviasse um e-mail informando-o de que se alguma vez passasse na frente da minha casa, eu disparar-lhe- ia, seria relativamente fácil para si evitar essa situação. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
 
 On the other hand, if you live on a dead-end street, and I tell you that if you take that street to get home, I will shoot you, your capacity to avoid this situation becomes significantly limited. You could certainly tunnel into your house, or jump over a bunch of backyard fences, but all of this would be considerably inconvenient.
 
