@@ -57,17 +57,17 @@ persons:
 resources:
   - 
     resource: [ ]
-    rule: "front_cover"
-    content: "cover.png"
+    rule: "frente_cobertura"
+    content: "cubrir.png"
     websites:
-      - Resource website
-    description: Resource description
+      - Sitio web de recursos
+    description: Descripción de recursos
     persons:
-      - template_person
+      - modelo_persona
 targets:
   - 
     target: [ ]
-    name: article
+    name: articulo
     reset_footer_active: false
     reset_footer_depth: 0
     clear_page_active: true
