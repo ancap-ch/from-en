@@ -2,9 +2,9 @@
 
 Las proposiciones éticas son diferentes de otros tipos de declaraciones de conocimiento. Si yo digo, "Me gusta el jazz," eso puede ser una declaración verdadera o falsa, pero generalmente no se considera como vinculante para usted de ninguna manera. Mi preferencia por el jazz es una mera declaración de afecto personal; basado en mi declaración, no le incumbe a usted si le gusta o disgusta el jazz.
 
-De manera similar, si yo digo "Me gustan los vegetales," esto también es una mera declaración de preferencia personal. Sin embargo, si yo digo, "los vegetales son alimentos saludables," entonces he cambiado de una declaración de preferencia personal a una declaración de hechos objetivos. Esta es la diferencia entre "Me gusta el helado," y, "el helado contiene leche."
+Del mismo modo, si digo "me gustan las verduras," eso es también una mera declaración de preferencia personal. Sin embargo, si digo, "las verduras son alimentos saludables," entonces he pasado de una declaración de preferencia personal a una declaración de hecho objetivo. Es la diferencia entre "Me gusta el helado," y "El helado contiene leche"
 
-La diferencia fundamental entre declaraciones de *preferencia* y declaraciones de *hechos* es que las declaraciones de hechos son objetivas, comprobables – y vinculantes. Si valoras la verdad, entonces te incumbe aceptar el hecho de que el helado contiene leche, una vez que se ha demostrado.[^1]
+La diferencia fundamental entre las declaraciones de *preferencia* y las declaraciones de *hecho* es que las declaraciones de hecho son objetivas, comprobables y vinculantes. Si valoras la verdad, entonces te incumbe aceptar el hecho de que el helado contiene leche, una vez que se ha demostrado.[^1]
 
 Si digo que la Tierra es redonda, y dispongo de amplias pruebas para esta declaración, ya no depende de ti determinar por tu propio capricho si la declaración es verdadera. Si puedo demostrar que la Tierra es redonda, entonces estás obligado a aceptar esto como una verdad, a menos que estés dispuesto a rechazar la razón y la evidencia como los criterios para la verdad.
 
