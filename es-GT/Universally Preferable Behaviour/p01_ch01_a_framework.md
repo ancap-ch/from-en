@@ -50,15 +50,15 @@ Asumiendo que usted puede notar la diferencia entre las dos fuentes anteriores, 
 
 Es imposible para mí pintar con precisión una nube, ya que con el tiempo que tarda en pintarla, la nube cambia continuamente. Puedo pintar con precisión una *fotografía* de una nube, que se ha congelado en el tiempo.
 
-Si paso horas intentando pintar una nube, y entonces te pregunto si mi dibujo es o no una representación precisa de esa nube, necesariamente tienes que responder que no lo es.
+Si paso una hora tratando de pintar una nube, y luego te pregunto si mi pintura es o no una representación exacta de esa nube, debes responder necesariamente que no lo es.
 
-En otras palabras, donde no hay consistencia, no puede haber precisión.
+En otras palabras, cuando no hay consistencia, no puede haber exactitud.
 
-Cuando soñamos por la noche, nuestras percepciones son que las reglas de la "materia" y la "energía" están en estado constante de flujo –somos inmunes a la gravedad, y entonces volamos sobre el lomo de un elefante, y entonces podemos caminar por las paredes. No es más posible desarrollar una "física científica de los sueños" que pintar con precisión una nube.
+Cuando soñamos por la noche, nuestras percepciones son que las reglas de "materia" y "energía" están en un estado de constante flujo - somos inmunes a la gravedad, y entonces volamos en la espalda de un elefante, y entonces podemos caminar a través de las paredes. No es más posible desarrollar una "física científica de los sueños" que pintar con precisión una nube.
 
-La lógica, la ciencia y la verdad, entonces, son imposibles en la ausencia de la *consistencia*.
+La lógica, la ciencia y la verdad, entonces, son imposibles en ausencia de *consistencia*.
 
-Fundamentalmente, las leyes de la lógica son derivadas del comportamiento de la materia y la energía, al menos a nivel perceptivo. Si te digo que lances una pelota tanto hacia arriba como hacia abajo al mismo tiempo, te estoy pidiendo lo imposible, lo cual puedes demostrar fácilmente intentando cumplir mi petición. Si te digo que ares el campo del norte y del sur simultáneamente, serás incapaz de cumplir. Si te exijo que conviertas una rosa en un burro, mi demanda jamás será satisfecha.
+Fundamentalmente, las leyes de la lógica se derivan del comportamiento de la materia y la energía, al menos a nivel perceptivo. Si te digo que lances una pelota hacia arriba como hacia abajo al mismo tiempo, te pido lo imposible, que puedes probar fácilmente intentando cumplir mi petición. Si les digo que aren simultáneamente el campo norte y el campo sur, no podrán cumplir. Si te exijo que conviertas una rosa en un burro, mi demanda jamás será satisfecha.
 
 La realidad perceptual es consistente y objetiva – y es de esta consistencia y objetividad que derivamos las leyes de la lógica. Nuestras declaraciones sobre la realidad solo pueden *representar* precisamente la realidad como un resultado directo de esta consistencia y objetividad.
 
