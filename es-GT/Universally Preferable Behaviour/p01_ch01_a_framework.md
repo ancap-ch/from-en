@@ -28,19 +28,19 @@ Como resultado, la frase "La física newtoniana es menos precisa que la física 
 
 Si quisiéramos beber el agua más pura posible, probablemente pagaríamos miles de dólares por botella. A menos que fuéramos enormemente ricos y frívolos, nunca pagaríamos tanto por saciar nuestra sed. Es verdad que el agua pura es mejor para nosotros, pero el precio que la pureza requiere alcanza un umbral de rendimientos decrecientes. Así,"más puro es mejor" da paso a "más puro es peor."
 
-De nuevo, esto no significa que la pureza del agua sea en lo absoluto subjetiva. El agua destilada siempre es más potable que el agua marina.
+Una vez más, esto no significa que la pureza del agua sea totalmente subjetiva. El agua destilada es siempre más potable que el agua de mar.
 
-#### La Verdad y la Realidad Objetiva
+#### Verdad y Realidad Objetiva
 
-El concepto de *verdad* necesariamente involucra el concepto de *precisión*. Si estoy tratando de disparar una flecha a una diana, la precisión de mi tiro es determinada por qué tan lejos aterriza mi flecha del centro.
+El concepto de *verdad* necesariamente involucra el concepto de *precisión*. Si estoy tratando de disparar una flecha a un ojo, la precisión de mi tiro está determinada por la distancia que mi flecha cae del centro.
 
-¿Qué, entonces, es la "diana" de la verdad?
+Entonces, ¿qué es la "diana" de la verdad?
 
-Bueno, la *verdad* de una declaración es mensurable relativa a su conformidad con la realidad objetiva.
+Pues bien, la * verdad* de una declaración es mensurable en relación a su conformidad con la realidad objetiva.
 
-Dejando de lado los desafíos del lenguaje por el momento, si apunto a una gaviota y digo, "Eso es un yunque," claramente estoy equivocado, porque los yunques son inorgánicos y no pueden volar. El valor de la verdad de mi declaración es medido en relación a los hechos objetivos de la realidad. Puesto que la gaviota de hecho no es un yunque, mi declaración es falsa.
+Dejando de lado los desafíos del lenguaje por el momento, si señalo a una gaviota y digo:"Eso es un yunque", me equivoco claramente, porque los yunques son inorgánicos, y no pueden volar. El valor de verdad de mi afirmación se mide en relación con los hechos objetivos de la realidad. Como la gaviota no es un yunque, mi declaración es falsa.
 
-Naturalmente, esta ecuación entre verdad y realidad requiere que el lenguaje y nuestros sentidos sean considerados relativamente objetivos. Hay muchas buenas razones para creer que tanto la evidencia del lenguaje como de los sentidos son de hecho objetivas; podríamos entrar en una discusión complicada sobre esto, pero debería ser suficiente decir que dado que estás usando tus ojos para leer un libro escrito en un lenguaje humano, al menos podemos coincidir en que tus ojos, y el lenguaje que compartimos, son al menos lo suficientemente objetivos para que puedas procesar precisamente lo que estoy escribiendo. Si no lo son, entonces no tenemos nada de qué hablar y no has entendido nada de lo que he escrito de todas formas, así que esta frase será igualmente insignificante, y bien podría haber sido hecha en "Wingdings".
+Naturalmente, esta ecuación entre la verdad y la realidad requiere que el lenguaje y nuestros sentidos sean considerados relativamente objetivos. Hay muchas buenas razones para creer que tanto el lenguaje como las evidencias sensoriales son de hecho objetivas; podríamos entrar en una discusión complicada sobre esto, pero debería bastar con decir que como usted está usando sus ojos para leer un libro escrito en un lenguaje humano, al menos podemos estar de acuerdo en que sus ojos, y el lenguaje que compartimos, son al menos lo suficientemente objetivos como para que usted pueda procesar con precisión lo que estoy escribiendo. Si no lo son, entonces no tenemos nada de qué hablar y no has entendido nada de lo que he escrito de todas formas, así que esta frase será igualmente insignificante, y bien podría haber sido hecha en "Wingdings".
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
