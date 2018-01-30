@@ -41,9 +41,9 @@ Como já discutimos anteriormente, entrar em qualquer debate requer uma aceitaç
 
 Todos nós temos preferências - desde as simplesmente pessoais ("Eu gosto de sorvete") as socialmente preferíveis ("É bom ser pontual") até às de moralidade universal ("Não matarás").
 
-There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
+É um pouco sem sentido, escrever um livro sobre preferências pessoais - e podemos recorrer a Ann Landers para uma discussão do comportamento socialmente preferível - aqui, então, iremos nos concentrar na possibilidade do *Comportamento Universalmente Preferível*.
 
-### Choice
+### Escolha
 
 If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
 
