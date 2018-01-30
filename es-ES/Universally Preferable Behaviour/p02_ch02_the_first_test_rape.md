@@ -50,7 +50,7 @@ Si decimos que APAs pueden ser reforzadas a través de la violencia, entonces es
 
 Si proponemos una regla moral que la iniciación de la violencia es moralmente buena, entonces esta regla enfrenta todas las mismas imposibilidades como la regla de que "la violación es moralmente buena"
 
-Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+Dos hombres en una habitación no puedes ambos ser moralmente buenos al mismo tiempo, ya que uno de ellos debe iniciar la violencia contra el otro, y el otro debe resistirlo - ya que sino lo esta resistiendo, es por definición no violencia, como es en el caso de un cirujano como discutimos arriba. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
 
 Thus we know that rape cannot be an APA.
 
