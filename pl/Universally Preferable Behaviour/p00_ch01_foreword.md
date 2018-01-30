@@ -1,6 +1,6 @@
-## Foreword
+## Przedmowa
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+W wielu bajeczkach żyje straszliwa bestia o niesamowitej sile, smok lub bazyliszek, który tyranizuje okoliczne ziemie. Miejscowi wieśniacy drżą przed tym potworem; poświęcają swoje zwierzęta, płacą pieniądze i krew w nadziei uśmierzenia morderczych impulsów.
 
 Większość ludzi kuli się pod cieniem tej bestii, nazywając ich strach "rozwagą", ale kilku - zgaduję, że pijanych sądząc po brawurze - decyduje się walczyć. Rok po roku, dekada po dekadzie, fala po fali pełnych nadziei bohaterów próbuje zmierzyć swoją siłę, zalety i spryt przeciwko temu okropnemu tyranowi.
 
