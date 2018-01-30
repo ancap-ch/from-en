@@ -12,17 +12,17 @@
 
 如果说武力普遍适用，那么任何人都不应提出道德论证，而应该使用武力来达到目的。 然而，就像上面所提到的例子如强奸，盗窃和谋杀一样，声称普遍优先使用武力的说法将会立即使之失效。 为了能够对他人使用武力而要求该人屈服于武力-换句话说，为了一个人有道德，另一个人必须是不道德的，这是不成立的。 同样，如果对方*屈服*于武力，这就不是武力-因此他必须*反抗*，这就要求他以抵抗美德来使用美德，这是自相矛盾的。
 
-In addition, if it is always preferable to use force, then crimes such as rape and murder become irrelevant, because if it is always preferable to use force, then love-making becomes immoral, and rape becomes moral – but only for the rapist, while *submission* to violence, rather than violence itself, becomes moral for his victim, which is a contradiction.
+此外，如果总是优先使用武力，那么强奸和谋杀等罪行则变得无关紧要，因为如果总是优先使用武力，那么性爱将变得不道德，而强奸则变成了道德-但只是为了强奸犯，而让他*屈服*于武力，而不是武力本身，这对他的受害者来说是道德的，但这是矛盾的。
 
-If, on the other hand, we say that violence is bad, then we open up the possibility of self-defence If it is a UPB-compliant statement to say that violence is evil, then we know that, since that which is evil can be prevented through the use of violence, the use of violence to *oppose* violence is morally valid.
+如果，另一方面，我们说暴力是坏的，那么我们就开放了自卫的可能性。如果这是一个UPB的标准声明说暴力是邪恶的，那么我们知道，由于使用暴力可以防止邪恶，所以使用武力来*反对*暴力在道德上是有效的。
 
-Thus, since we know that violence is evil, we know that we may use force to oppose it. If we define an action as evil, but also prevent anybody from acting against it, then we are no longer moral philosophers, but merely judgemental archaeologists. This would be akin to a medical theory that said that illness is bad, but that it is evil to attempt to prevent or cure it – which would make no sense whatsoever.
+因此，既然我们知道暴力是邪恶的，那么我们就可以用武力来反对它。 如果我们把行为定义为邪恶的，而且阻止任何人采取行动来反对它，那么我们将不再是道德哲学家，而只是评判考古学家。 这类似于一种医学理论，认为疾病是不好的，但是试图预防或治愈疾病是邪恶的-而这是没有任何意义的。
 
-Also, if human beings cannot validly act to prevent harm to themselves, then actions such as inoculations, wearing gloves in the cold, putting on sunscreen or insect repellent, building a wall to prevent a landslide, brushing one’s teeth, wearing shoes and so on are all immoral actions. If we return to Bob and Doug, and we give them the moral argument that self-defence is always wrong, what results?
+此外，如果人类不能有效地采取行动，以防止伤害自己，那么像接种，在寒冷中戴上手套，涂防晒霜或驱虫剂，盖墙以防止滑坡，刷牙，穿鞋等这些行为都是不道德的行为。 如果我们回到鲍勃和道格，我们给他们一个道德的论点，即自卫总是错误的，结果会是什么呢？
 
-Well, we create another paradox. Self-defence is the use of violence to prevent violence. If self-defence is always wrong, then it cannot be violently “inflicted” upon an attacker. However, preferences that cannot be inflicted upon others fall into the APA or morally neutral category. To place the violence of self-defence into these categories is to say that violence cannot be inflicted on others – but the very nature of violence is that it *is* inflicted on others, and thus this approach results in a surfeit of contradictions.
+那么，我们又创造了另一个悖论。 自卫就是使用暴力来防止暴力。 如果自卫总是错误的，那么就不能对攻击者“施加”暴力。 然而，不能被他人强加的偏好属于APA或道德中性范畴。 把自卫暴力置于这些类别是说暴力不能强加在他人身上-但是暴力的本质就*是*强加于他人，因此这种方法的结果是导致了过多的矛盾。
 
-Self-defence cannot be “evil,” since evil by definition can be prevented through force. However, self-defence is a response to the initiation of force, and thus cannot be prevented through force, any more than you can stop the motion of a soccer ball by kicking it violently.
+自卫不能是“邪恶的”，因为定义上的邪恶可以通过武力来阻止。 然而，自卫是对发动武力的回应，因此不能通过武力来阻止，正如你能通过猛踢一个足球来阻止它的运动。
 
 Self-defence also cannot be *required* behaviour, since required behaviour (“don’t rape”) can be enforced through violence, which would mean that anyone failing to violently defend himself could be legitimately aggressed against. However, someone failing to defend himself is *already* being aggressed against, and so we end up in a circular situation where everyone can legitimately act violently against a person who is not defending himself, which is not only illogical, but morally abhorrent.
 
