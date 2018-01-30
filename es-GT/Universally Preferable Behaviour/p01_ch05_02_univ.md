@@ -1,6 +1,6 @@
 ### CUP: Cinco Pruebas
 
-Como ya comentamos anteriormente, la proposición de que *no existe tal cosa como el comportamiento preferible* contiene un numero insuperable de problemas lógicos y empíricos. El "Comportamiento universalmente preferible" *debe* ser un concepto válido, por cinco razones principales.
+Como ya comentamos anteriormente, la proposición de que *no existe tal cosa como el comportamiento preferible* contiene un numero insuperable de problemas lógicos y empíricos. El "Comportamiento universalmente preferible" *debe* ser un concepto válido, por cinco principales razones.
 
 La primera es lógica: si yo argumento *contra* la proposición de que el comportamiento universalmente preferible es válido, ya he demostrado mi preferencia por la verdad sobre la falsedad – así como una preferencia por corregir a aquellos que hablan falsamente. Decir que no hay tal cosa como un comportamiento universalmente preferible es como gritar en el oído de alguien que el sonido no existe – es naturalmente contradictorio. En otras palabras, si no hay *tal cosa* como el comportamiento universalmente preferible, entonces uno *debería* oponerse a cualquiera que alegue que existe tal cosa como el comportamiento universalmente preferible. Sin embargo, si uno "debería" hacer algo, entonces uno ha creado un comportamiento universalmente preferible. Así, el comportamiento universalmente preferible – o las reglas morales – debe ser válido.
 
