@@ -6,11 +6,11 @@
 
 ### 自我防卫
 
-自卫的概念不应被视为理所当然。 If we assume that there is no such thing as self-defence, or that self-defence is never a valid action, then the framework of UPB undoes that assumption very quickly.
+自卫的概念不应被视为理所当然。 如果我们假设没有自卫这样的事情，或者说自卫永远不是一个有效的行为，那么UPB的框架很快就会解除这个假设。
 
-If there is no such thing as self-defence, then we are not talking about the initiation or the retaliation of the use of force, but rather just the use of force in any context. In other words, if we get rid of the concept of self-defence, the only question that we need to ask ourselves is: *is it universally preferable to use force, or not?*
+如果不存在自卫这样的事情的话，那么我们并不是在讨论使用武力的引发与报复，而是在任何情况下使用武力。 换句话说，如果我们摆脱了自卫的概念，我们唯一需要问自己的问题是：*使用武力是否普遍可取？*
 
-If it were universally preferable to use force, then no human being should ever advance a moral argument, but should rather use force to achieve his ends. However, just as in the rape, theft and murder examples cited above, the claim that it is universally preferable to use force immediately invalidates itself. To be able to use force upon another person requires that that person submit to force – in other words, in order for one person to be moral, the other person must be immoral, which cannot stand. Also, if the other person *submits* to force, it is not force – thus he must *resist*, which requires that he resist virtue in order to enable virtue, which is self-contradictory.
+如果说武力普遍适用，那么任何人都不应提出道德论证，而应该使用武力来达到目的。 However, just as in the rape, theft and murder examples cited above, the claim that it is universally preferable to use force immediately invalidates itself. To be able to use force upon another person requires that that person submit to force – in other words, in order for one person to be moral, the other person must be immoral, which cannot stand. Also, if the other person *submits* to force, it is not force – thus he must *resist*, which requires that he resist virtue in order to enable virtue, which is self-contradictory.
 
 In addition, if it is always preferable to use force, then crimes such as rape and murder become irrelevant, because if it is always preferable to use force, then love-making becomes immoral, and rape becomes moral – but only for the rapist, while *submission* to violence, rather than violence itself, becomes moral for his victim, which is a contradiction.
 
