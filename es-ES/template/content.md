@@ -5,8 +5,8 @@ Abajo hay una lista enumerada de panagramas que muestran cada personaje, ambos e
 1. mayúscula: RÁPIDAMENTE, EL ZORRO MARRÓN SALTA SOBRE EL PERRO FLOJO. 
 2. números: 0123456789. 
 3. símbolos: + - */ = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
-4. emphasys: *The quick, brown fox jumps over a lazy dog.* 
-    1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
+4. énfasis: *Rápidamente, el zorro marrón salta sobre el perro flojo.* 
+    1. fuerte énfasis: **Rápidamente, el zorro marrón salta sobre el perro flojo.**
     2. inner emphasys: **The *The quick, brown fox jumps over a lazy dog* dog.** 
         1. en: The quick, brown *fox* **jumps *over* a** lazy dog.
         2. pt-BR: À noite, vovô *Kowalsky* **vê o ímã *cair no pé* do pingüim queixoso** e vovó põe açúcar no chá de tâmaras do jabuti feliz.
