@@ -30,7 +30,7 @@ Mentir, sin embargo, no requiere la iniciación de una fuerza, así que no viola
 
 Mentir también encaja más cercanamente in la categoría de *violencia*, en la medida que es moral mentir en defensa propia, así como es moral usar violencia en defensa propia, es difícil pensar en una situación donde uno tuviese que "estar tarde" en defensa propia, o "ser rudo". Sin embargo, si un hombre irrumpe en tu casa y exige saber dónde está tu amada esposa y así él pueda golpearla, parecería una parodia a la integridad rehusarse a mentirle. Mentir en este caso sería una forma de defensa propia contra una tercera persona, y es tan moralmente aceptable como el uso de violencia en defensa propia. Similarmente, si un hombre obtiene cien dolares de nosotros por mentir, nosotros podemos justamente mentirle para recuperarlos.
 
-Thus we may justly lie to a liar, just as we may justly defend ourselves from a punch with a punch, but we would not exactly respect the escalating pettiness of “repaying” a tardy person by showing up even later.
+Por lo tanto podemos mentirle justamente al mentiroso, así como podemos justamente defendernos de un golpe con un golpe, pero nosotros no exactamente respetaremos la mezquindad de "pagar de la misma forma" apareciendo más tarde, a una persona que ya viene tarde.
 
 The difference is that “being late” is not as actively destructive as lying. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
 
