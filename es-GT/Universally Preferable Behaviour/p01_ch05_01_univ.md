@@ -8,7 +8,7 @@ Es imposible demostrar que soñé un elefante anoche. Es posible demostrar que h
 
 Consentir a la lógica superior en una discusión es una *acción*. Si, cada vez que te concedo un punto, yo no digo nada, sino que solo me quedo viéndote de manera vacía, encontrarás bastante irritante debatir conmigo. Para conceder un punto, debo realizar la acción de concesión verbal.
 
-De tal forma puede ser visto que, inherente al mismo acto de discutir hay un número de premisas incrustadas que no puede ser sobrepuestas.
+Asi pues, se puede observar que, inherente al mismo acto de argumentar hay un número de premisas incorporadas que no pueden ser sobrepuestas.
 
 Si yo te pido que nos encontremos en una cancha de tenis, y aparezco con un rife de caza, podríamos terminar jugando algún tipo de deporte, pero ciertamente no será tenis. Cuando te pido encontrarnos en la cancha de tenis para un juego, implícitamente en esa solicitud está la aceptación de las reglas del tenis.
 
@@ -66,8 +66,8 @@ La metodología para juzgar y probar una teoría *moral* es exactamente igual a 
 
 La primera pregunta con respecto a las reglas morales es: ¿*qué* son?
 
-Dicho de manera simple, la *moral* es un conjunto de reglas alegando identificar de manera precisa y consistente los comportamientos humanos preferibles, tal como la *física* es un conjunto de reglas alegando identificar de manera precisa y consistente el comportamiento universal de la materia.
+Dicho de manera simple, la *moral* es un conjunto de reglas que alegan identificar de manera precisa y consistente los comportamientos humanos preferibles, tal como la *física* es un conjunto de reglas que alega identificar de manera precisa y consistente el comportamiento universal de la materia.
 
-La segunda pregunta a realizarse es: ¿existe tal como como el "comportamiento universalmente preferible"? Si existe, podemos empezar a explorar lo que podría ser ese comportamiento. Si no, entonces nuestra revisión debe terminar aquí – tal como la revisión de la astronomía ptolemaica cesó después de volverse comúnmente aceptado que el Sol era de hecho el centro del sistema solar.
+La segunda pregunta a realizarse es: ¿existe el "comportamiento universalmente preferible" como tal? Si existe, podemos empezar a explorar lo que podría ser ese comportamiento. Si no, entonces nuestra exploración debe terminar aquí – tal como la exploración de la astronomía ptolemaica cesó después de volverse comúnmente aceptado que el sol era de hecho el centro del sistema solar.
 
 [^6]: En la física, la pregunta es: las reglas físicas universales son válidas, o no lo son.
