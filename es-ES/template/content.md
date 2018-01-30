@@ -1,6 +1,6 @@
 # Primer capitulo
 
-Below there's an enumerated list of styled pangrams, that shows every character, both in english and also in other languages.
+Abajo hay una lista enumerada de panagramas que muestran cada personaje, ambos en inglés y también en otros lenguajes.
 
 1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
 2. numbers: 0123456789. 
