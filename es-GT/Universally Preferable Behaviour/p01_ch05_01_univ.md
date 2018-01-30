@@ -42,11 +42,11 @@ Solo hay dos posibilidades cuando se trata de reglas morales, tal como las hay e
 
 Una regla puede ser válida si *existe empíricamente*, como la gravedad, o porque es *cierta*, como la ecuación de dos más dos es igual a cuatro.
 
-Debemos preguntarnos primero entonces: ¿Existen las reglas morales en primer lugar?
+Entonces debemos preguntarnos primero: ¿Existen las reglas morales?
 
-Ciertamente no en la realidad material, la cual no contiene u obedece ninguna regla moral. Las reglas morales son diferentes de las reglas de la física, tal como el método científico es diferente de la gravedad. La materia obedece de manera innata a la gravedad o a la segunda ley de la termodinámica, pero "no cometerás asesinatos" no está inscrito en ningún lugar en la naturaleza de las cosas. Las leyes físicas *describen* el comportamiento de la materia, pero no la contienen en una sola *prescripción*. La ciencia dice que la materia *sí* se comporta de cierta manera –no que se *debería* comportar de cierta manera. Una teoría de la gravedad demuestra que si empujas a un hombre de un risco, él caerá. No te dirá si *deberías* o no empujarlo.
+Ciertamente no en la realidad material, la cual no contiene u obedece ninguna regla moral. Las reglas morales son diferentes de las reglas de la física, tal como el método científico es diferente de la gravedad. La materia obedece de manera innata a la gravedad o a la segunda ley de la termodinámica, pero "no cometerás asesinatos" no está inscrito en ningún lugar en la naturaleza de las cosas. Las leyes físicas *describen* el comportamiento de la materia, pero no la contienen en una sola *prescripción*. La ciencia dice que la materia *sí* se comporta de cierta manera –no que se *debería* comportar de cierta manera. La teoría de la gravedad demuestra que si empujas a un hombre de un risco, él caerá. No te dirá si *deberías* o no empujarlo.
 
-De modo que no puede decirse que las reglas morales existen en la realidad materia, ni que son automáticamente obedecidas como las leyes de la física – lo cual *no* significa que las leyes morales son falsas, subjetivas o irrelevantes. El método científico en si mismo no existe en la realidad tampoco – y también es opcional – pero no es para nada falso, subjetivo o irrelevante.
+De modo que no puede decirse que las reglas morales existen en la realidad material, ni que son automáticamente obedecidas como las leyes de la física – lo cual *no* significa que las leyes morales son falsas, subjetivas o irrelevantes. El método científico en si mismo no existe en la realidad tampoco – y también es opcional – pero no es para nada falso, subjetivo o irrelevante.
 
 Si podemos demostrar que las teorías morales pueden ser objetivas, racionales y verificables, esto proporcionará los mismos beneficios a la ética que trajo someter las teorías *físicas* al método científico.
 
