@@ -10,7 +10,7 @@ This is not to say that breaking the window to save your life is not wrong. It i
 
 ### Grey Areas
 
-The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+Fakt, że pewne "szare obszary" istnieją w dziedzinie etyki, często był wykorzystywany jako uzasadnienie relatywizmu rangowego. Ponieważ czasami pewne rzeczy pozostają niejasne (np. Kto zainicjował użycie przemocy) i ponieważ nie jest możliwe określenie obiektywnych i dokładnych reguł dla każdej możliwej sytuacji, często wysuwa się wniosek, że nic nie może być *nigdy* wiadomo na pewno i że nie istnieją obiektywne reguły dla *żadnej* sytuacji.
 
 This is false.
 
