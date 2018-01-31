@@ -14,7 +14,7 @@ Odkąd ludzie *rzeczywiście* mają równe prawa własności, jakikolwiek system
 
 ### Metoda Naukowa
 
-Logic and science are in fact methodologies which exist – along with morality – under the umbrella of UPB. In other words, logic and science are both validated by the framework of UPB.
+Logika i nauka - wraz z moralnością są w rzeczywistości metodologiami, które istnieją - pod patronatem UPB. Innymi słowy, logika i nauka są sensowne według struktury UPB.
 
 A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
 
