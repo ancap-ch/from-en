@@ -115,7 +115,7 @@ In addition to the conditions in Section 3(a), if You Share Adapted Material You
 
 2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
 
-3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
+3. Nie możesz oferować ani narzucać żadnych dodatkowych lub innych warunków, lub zastosować jakiekolwiek skuteczne środki technologiczne, Dostosowany materiał ograniczający korzystanie z praw przyznanych na podstawie Licencji adaptera, którą Państwo stosują.
 
 ### Section 4 – Sui Generis Database Rights.
 
