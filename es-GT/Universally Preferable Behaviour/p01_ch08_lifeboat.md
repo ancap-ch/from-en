@@ -42,10 +42,10 @@ Usando los "escenarios de botes salvavidas" expuestos arriba, la conclusión de 
 
 En argumentos éticos, si se me pregunta si prefiero robar una manzana que morir por inanición -y yo digo que "sí" - el argumento siguiente inevitablemente sería:
 
-1. Todos preferirían robar una manzana antes que morir de hambre.
-2. Por lo tanto, todos prefieren universalmente robar manzanas hasta la muerte por inanición.
-3. Por lo tanto, es * universalmente preferible * robar manzanas en lugar de morir de hambre.
-4. Por lo tanto, la supervivencia es universalmente preferible a los derechos de propiedad.
+1. Todo el mundo preferiría robar una manzana que morir de hambre.
+2. Por ello todo el mundo universalmente prefiere robar manzanas a la muerte por inanición.
+3. Por lo tanto, es *universalmente preferible* robar manzanas que morir de hambre.
+4. Por consiguiente sobrevivir es universalmente preferible a los derechos de propiedad.
 5. Por lo tanto, lo que es bueno para el individuo es el estándar moral máximo.
 
 Esto se ha utilizado como base para una serie de teorías y enfoques éticos, desde Nietzsche hasta Rand. La preferencia de cada individuo por la supervivencia se traduce en teorías éticas que colocan a la supervivencia del individuo en su centro. [^11]
