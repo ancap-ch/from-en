@@ -68,7 +68,7 @@ Por ejemplo, si mi APA es:"llegar a tiempo",, entonces puede ser una norma unive
 
 Si "estar a tiempo" es una APA, entonces es posible para dos personas, lograrlo simultaneamente- Si ambos están a tiempo.
 
-With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
+Sin embargo, con la violación, como hemos visto arriba, es imposible que dos personas la lleven a cabo al mismo tiempo. Una siempre tiene que ser el violador, y la otra siempre la víctima.
 
 On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
 
