@@ -6,23 +6,23 @@ Wyrzucenie z tego narcystycznego łona subiektywnej interpretacji wymagało prac
 
 Świat wygląda na płaskie; ale taki nie jest. Słońce i księżyc wyglądają jakby miały takie same wymiary, ale nie mają. Gwiazdy poruszają się po ziemi; oni nie. Poznanie prawdy wymaga, abyśmy widzieli świat spoza naszych zmysłów - nie oznacza to odrzucenia naszych zmysłów, lecz hermetycznego przestrzegania *prawdziwych* dowodów zmysłów, czyli nie, że ziemia jest płaska, ale materia, energia i prawa fizyczne są spójne. Kiedy puszczamy kamień w naszej dłoni, spada - to jest *prawdziwy* dowód zmysłów, a nie to, że Ziemia jest stała i nieruchoma. Idea, że świat jest nieruchliwy, jest błędnym założeniem, które przeczy bezpośredniemu zmysłowi naszych zmysłów, a mianowicie, że wszystko spada. Jeśli wszystko upadnie, świat nie może być naprawiony i nieruchomy.
 
-To są małe prawdy codzienności; że skały opadają, dym unosi się, ogień jest gorący, a słońce i księżyc są okrągłe. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
+To są małe prawdy codzienności; że skały opadają, dym unosi się, ogień jest gorący, a słońce i księżyc są okrągłe. Jeśli pozostaniemy wytrwale i rygorystycznie zaangażowani w te "małe prawdy", z czasem będziemy mogli czerpać wielkie prawdy fizyki, które dostarczają nam tak niesamowitej wiedzy i mocy.
 
 Pomiędzy małymi prawdami a wielkimi prawdami są jednak iluzje, które nas oślepiają - zarówno w fizyce, jak i w etyce.
 
-W fizyce, wielkie prawdy nie mogą zaprzeczać drobnym prawdom. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+W fizyce, wielkie prawdy nie mogą zaprzeczać drobnym prawdom. Żadna "zunifikowana teoria pola" nie może skutecznie zaprzeczyć naszemu bezpośredniemu doświadczeniu zmysłowej spadającej skały lub rosnącego płomienia. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
+Historycznie jednak pomiędzy naszymi własnymi małymi prawdami a wielkimi prawdami kryje się to, co nazwałbym "pustą strefą"
 
-### The "Null Zone"
+### "Pusta Strefa"
 
 Mówimy naszym dzieciom, aby nie walczyły ze sobą i uważamy, że przemoc jest zła w abstrakcji, jako ogólna reguła moralna. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
 
-Jednak w naszych umysłach istnieje wyobrażona istota zwana "Bogiem", a ta istota jest uważana za doskonale moralną. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+Jednak w naszych umysłach istnieje wyobrażona istota zwana "Bogiem", a ta istota jest uważana za doskonale moralną. Niestety, istota ta nieustannie i rażąco narusza edykt, że "przemoc jest zła", zatapiając świat, przesyłając dusze do piekła, pomimo doskonałej uprzedniej wiedzy o ich "decyzjach", sankcjonując gwałt, morderstwo, kradzież, napaść i inne działania, które potępilibyśmy. jako absolutnie złe w każdej osobie.
 
-Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
+Tak więc mamy małą prawdę (*nie uderzaj*) i wielką prawdę (*przemoc jest zła*), ale w środku mamy "strefę zerową" *gdzie całkowite przeciwieństwo zarówno naszych małych prawd, jak i naszych wielkich prawd jest uważane za całkowicie prawdziwe*.
 
-Historically, we can see the same inconsistency in physics. Nie ma doskonałych kręgów w naszym bezpośrednim doświadczeniu, ale z powodu wiary w Boga, wszystkie ruchy planet musiały być "doskonałym kręgiem" - przesłanką, która opóźniała astronomię przez stulecia. Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth,” but as a *great truth*, or universal principle. Yet for most of human history, it was believed that the stars and planets rotated around the Earth, rather than that the Earth rotated. Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
+Historycznie widzimy taką samą niekonsekwencję w fizyce. Nie ma doskonałych kręgów w naszym bezpośrednim doświadczeniu, ale z powodu wiary w Boga, wszystkie ruchy planet musiały być "doskonałym kręgiem" - przesłanką, która opóźniała astronomię przez stulecia. Podobnie, jeśli człowiek obraca głowę, nie uważa, że ​​cały świat obraca się wokół niego - i z radością przedstawiłby to jako nie tylko swoją "małą prawdę", ale jako *wielką prawdę* lub zasada uniwersalna. Jednak przez większą część historii ludzkości uważano, że gwiazdy i planety obracają się wokół Ziemi, zamiast, że to Ziemia się obraca. Tutaj znowu widzimy "pustą strefę" pomiędzy bezpośrednim doświadczeniem zmysłowym a uniwersalną zasadą, w której zupełnie przeciwne zasady są uważane za całkowicie prawidłowe.
 
 No sane man experiences God directly. In his daily life, he fully accepts that *that which cannot be perceived does not exist*. No reasonable man flinches every time he takes a step, fearing an invisible wall that might be barring his way. Największe abstrakcje nauki wspierają jego podejście.
 
