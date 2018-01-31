@@ -16,7 +16,7 @@ If you get cancer, you may ask a surgeon to operate on you. The reason that the 
 
 The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
 
-Jeśli jestem palaczem przewlekłym i długoletnim, brałem udział w szeregu zdarzeń prowadzących do raka płuc. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Jeśli jestem palaczem przewlekłym i długoletnim, brałem udział w szeregu zdarzeń prowadzących do raka płuc. Inicjując i utrzymując nawyk palenia, uruchomiłem łańcuch przyczynowości, który może doprowadzić do zagrażającej życiu dolegliwości. Z całą pewnością mogę zapadać na raka płuc bez palenia - lub palić bez raka płuc - ale z pewnością wpłynęło to na szanse.
 
 Podobnie, mogę zostawić portfel na ławce w parku na tydzień, wrócić i znaleźć go wciąż na miejscu, ale pozostawiając go tam przez tak długi czas, z pewnością wpłynęło na prawdopodobieństwo jego zniknięcia.
 
