@@ -20,11 +20,11 @@ Se sou um fumador crónico e de longa data, participei da cadeia de eventos que 
 
 Da mesma forma, é possível que eu deixe a minha carteira num banco do parque durante uma semana, regresse lá e a encontre no mesmo lugar, mas ao deixá-la por muito tempo, certamente afectei as possibilidades de ela ter desaparecido.
 
-On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
+Por outro lado, se eu fico em casa todas as noites, não estou precisamente, a cortejar o crime e, se um maníaco invade a minha casa e me rouba às cegas, não posso ser culpado por qualquer função causal que tenha jogado no incidente.
 
-### The Non-Aggression Principle (NAP)
+### O Princípio de Não-Agressão (PNA)
 
-A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+Uma regra moral é frequentemente uma proposta chamada *princípio de não agressão*, ou PNA. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
 
 When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
 
