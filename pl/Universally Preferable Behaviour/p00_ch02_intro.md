@@ -30,11 +30,11 @@ Conversely, in the “null zone” of religion, the *exact opposite* of both the
 
 Nasza wiara w cnotę wojska leży także w tej "strefie zerowej". Jeśli prywatny człowiek dostaje pieniądze za morderstwo innego człowieka, nazywamy go "pistoletem do wynajęcia" i potępiamy go jako zabójcę. Jeśli jednak ten człowiek założy zielony kostium z pewnymi odznakami *i popełni ten sam czyn*, witamy go jako bohatera i nagradzamy go emeryturą. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
 
-Jeśli ta "pusta strefa" jest poprawna, żadna logiczna propozycja nie może się utrzymać. Jeśli twierdzenie jest prawdziwe - i dokładne przeciwieństwo tego zdania jest również prawdziwe - wówczas logiczne rozumowanie staje się niemożliwe. The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
+Jeśli ta "pusta strefa" jest poprawna, żadna logiczna propozycja nie może się utrzymać. Jeśli twierdzenie jest prawdziwe - i dokładne przeciwieństwo tego zdania jest również prawdziwe - wówczas logiczne rozumowanie staje się niemożliwe. Rozwój racjonalnej nauki był ciągłym atakiem na tę "strefę zerową" i wtargnięciem obiektywnej konsekwencji w te szalone kieszenie subiektywnego kaprysu.
 
-In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. Rozwój wiedzy wymaga najpierw wytłumaczenia tego, co nieznane, a następnie ekspansji znanych zasad w nieznane obszary.
+Na starych mapach, zanim kartografowie zakończyli swoje poszukiwania, rysunki znanych ziem zniknęłyby w czystym papierze. Rozwój wiedzy wymaga najpierw wytłumaczenia tego, co nieznane, a następnie ekspansji znanych zasad w nieznane obszary.
 
-The same is true in the realm of morality.
+To samo dotyczy sfery moralności.
 
 ### The Casualties
 
@@ -44,15 +44,15 @@ Czy "przekroczenie strefy zerowej" - czy płynne połączenie małych prawd z wi
 
 Jeśli spojrzymy na postęp technologiczny i gospodarczy ludzkości, zobaczymy mniej lub bardziej płaską linię przez niezliczone tysiąclecia, po których następują ogromne i asymptotyczne wzrosty w ciągu ostatnich kilkuset lat. Trudno sobie wyobrazić, że niektóre powszechne mutacje genetyczne mogą mieć wpływ na to nagłe i ogromne przyśpieszenie intelektualnej zgodności i sukcesu materialnego. Teorie twierdzące, że pewien "efekt kuli śnieżnej" pojawił się, tajemniczo napędzany przez nagromadzenie wszystkich małych przyrostów wiedzy, które miały miejsce od zarania cywilizacji, można zazwyczaj odrzucić z ręki jako całkowicie * ex post facto < / 0> wyjaśnienia, ponieważ nie mają wartości predykcyjnej.</p> 
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+Jeśli zrozumiemy, że nasz oszałamiający potencjał jest dostępny dla nas od co najmniej dziesiątków tysięcy lat - i że towarzyszy mu zarówno wielki zysk, jak i ogromna przyjemność z jego wykonywania - wtedy staje się jasne, że naprawdę *chcemy* używać naszych niesamowitych umysłów.
 
 Tak więc musi istnieć siła skierowana w dół, która historycznie działała, by zmiażdżyć i zniewolić naturalną wolność ludzkości.
 
-W dziedzinie nauki nie jest zbyt trudno widzieć siły opresyjne, które nieustannie utrzymywały nasze umysły w niemal pradawnej ignorancji. Połączenie przesądów w postaci religii i przemocy w formie arystokracji zagrażało racjonalnym myślicielom zastraszaniem, więzieniem, torturami i morderstwami. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+W dziedzinie nauki nie jest zbyt trudno widzieć siły opresyjne, które nieustannie utrzymywały nasze umysły w niemal pradawnej ignorancji. Połączenie przesądów w postaci religii i przemocy w formie arystokracji zagrażało racjonalnym myślicielom zastraszaniem, więzieniem, torturami i morderstwami. Tak jak rolnik czerpie zyski z niskiej inteligencji swoich krów, a właściciel niewolników czerpie zyski z lęku swoich niewolników, kapłani i królowie zachowali swoje przywileje, grożąc śmiercią każdemu, kto ośmielił się myśleć.
 
 Prosta prawda jest taka, że "kapłani" i "królowie" byli - i są - jedynie ludźmi. Prosta prawda jest taka, że bogowie i diabły, którzy mieli usprawiedliwić swoje rządy, nigdy nie istniały.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+Zrobiliśmy wielkie postępy w zrozumieniu natury i rzeczywistości, prostej ludzkiej równości, ale smutnym faktem jest to, że sfera *moralności* wciąż jest zagubiona w "strefie zerowej" - w destrukcyjnych iluzjach "średnich prawd."
 
 ### "Middle Truths"
 
@@ -62,11 +62,11 @@ These “middle truths” are the most dangerous illusions of all, because they 
 
 By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. Na przykład chrześcijaństwo powstało z rosnącego faszyzmu późnego Cesarstwa Rzymskiego, częściowo przez bicie na "prymitywne" przesądy istniejących teologii. “Forget your old gods, we have a brand new God who is far better!”
+Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. Na przykład chrześcijaństwo powstało z rosnącego faszyzmu późnego Cesarstwa Rzymskiego, częściowo przez bicie na "prymitywne" przesądy istniejących teologii. "Zapomnij o swoich starych bogach, mamy zupełnie nowego Boga, który jest o wiele lepszy!"
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+"Środkowe prawdy" zawsze przyjmują formę prawdy, po której następuje kłamstwo. "Zeus to pogański przesąd" jest prawdziwym stwierdzeniem, które zostało otwarcie przyznane przez chrześcijańskich prozelitatorów. Kłamstwo następujące: "Jahwe nie jest pogańskim przesądem, ale prawdziwym i żywym Bogiem."
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+Możemy spersonalizować to nieco bardziej na przykładzie, który będzie znany każdemu, kto kiedykolwiek doradzał dysfunkcyjnemu przyjacielowi. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
 
 It is very hard not to replace one illusion with another.
 
