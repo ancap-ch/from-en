@@ -16,13 +16,13 @@ Esto es falso.
 
 Todas las personas racionales reconocen que la biología es una ciencia válida, a pesar del hecho de que algunos animales nacen con mutaciones "irrepetibles". El hecho de que un perro pueda nacer con cinco patas no quiere decir que "canino" se vuelva por completo una categoría subjetiva. El hecho de que ciertas especies de insectos estén compitiendo para diferenciarse no quiere decir que no haya una diferencia entre un escarabajo y una ballena.
 
-Por alguna perversa razón, los intelectuales en particular se regocijan en la inexplicable destrucción de los estándares racionales, normativos y éticos. Esto puede ser porque los intelectuales han sido comúnmente pagados por clases de individuos corruptos tales como políticos, sacerdotes y reyes -o puede ser que el hombre a menudo se convierte en intelectual en orden de crear justificaciones sobre su propio comportamiento inmoral. Cual sea la razón, muchos pensadores modernos se han convertido en una especie de "anti-pensadores" lo cual es muy raro. Sería equivalente a una enorme clase de "biólogos" que pasaron toda su vida argumentando que la ciencia de la biología era imposible. Si la ciencia de la biología es imposible, apenas tiene sentido convertirse en biólogo, del mismo modo que un ateo no debería pelear con uñas y dientes para convertirse en sacerdote.
+Por alguna perversa razón, los intelectuales en particular se regocijan en la inexplicable destrucción de los estándares racionales, normativos y éticos. Esto puede ser porque los intelectuales han sido comúnmente pagados por clases de individuos corruptos tales como políticos, sacerdotes y reyes -o puede ser que el hombre a menudo se convierte en intelectual en orden de crear justificaciones sobre su propio comportamiento inmoral. Cual sea la razón, muchos pensadores modernos se han convertido en una especie de "anti-pensadores" lo cual es muy raro. Sería equivalente a que hay una enorme clase de "biólogos" que dedicaron sus vidas argumentando que la ciencia de la biología era imposible. Si la ciencia de la biología es imposible, no tendría sentido convertirse en biólogo, como tampoco lo tendría que un ateo peleara con uñas y dientes por convertirse en sacerdote.
 
-### Sombras Grises
+### Escala de Grises
 
-En el ámbito de las "áreas grises", en realidad solo hay tres posibilidades.
+En el reino de las "áreas grises" hay realmente solo tres posibilidades.
 
-1. No hay cosas tales como áreas grises.
+1. No existe tal cosa como las áreas grises.
 2. Ciertas áreas grises existen.
 3. Todo el conocimiento es un área gris.
 
