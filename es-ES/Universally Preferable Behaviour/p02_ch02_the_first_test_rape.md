@@ -82,7 +82,7 @@ Así, una violación no puede caer en la categoría de APAs.
 
 Tal vez una violación es similar a una preferencia meramente personal.[^2]
 
-The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
+Entonces surge la pregunta: ¿puede la clasificación de violación como una preferencia meramente personal hacer frente al escrutinio lógico?
 
 If we propose the moral rule: “personal preferences must be violently inflicted upon other people,” how does that stand up to the framework of UPB?[^3]
 
