@@ -28,7 +28,7 @@ En el reino de las "áreas grises" hay realmente solo tres posibilidades.
 
 Claramente, la opción uno puede ser fácilmente descartada. Opción tres es también es bastante fácil de descartar. La declaración "todo conocimiento es un área gris" es una proposición auto-detonación, como hemos visto arriba, del mismo modo en que "todas las declaraciones son mentiras" también se auto-detona.
 
-Por lo tanto, debemos ir con la opción dos, que es que existen ciertas áreas grises, y sabemos que son grises en relación con las áreas que no son grises. El oxígeno existe en el espacio, y también bajo el agua, pero no en una forma o cantidad humana los seres pueden consumir. El * grado * de oxigenación es un área gris, es decir, "menos versus más"; la cuestión de si los seres humanos pueden o no respirar agua seguramente es blanco y negro.
+Por ello debemos escoger la opción dos, que se refiere a que ciertas áreas grises sí existen, y sabemos que hay grises en relación con las áreas que no son grises. El oxigeno existe en el espacio, y también bajo el agua, pero no en una forma o cantidad que los seres humanos puedan consumir. El *grado* de oxigenación es un área gris, es decir, "menos es más"; el asunto de si los seres humanos pueden o no respirar bajo el agua es ciertamente blanco y negro.
 
 Un científico capturado por caníbales puede pretender ser un hechicero para escapar - esto no significa que debemos descartar el método científico como completamente inválido.
 
