@@ -36,11 +36,11 @@ Igualmente, puede haber situaciones extremas donde quizás tengamos que escoger 
 
 ### Universalidad y Excepciones
 
-Antes de comenzar a utilizar nuestro marco de Comportamiento universalmente preferible para examinar algunas creencias éticas comúnmente aceptadas, debemos abordar la cuestión de las "excepciones"
+Antes de comenzar a usar nuestro marco de Comportamiento Universalmente Preferible para examinar algunas de las más comunes creencias éticas sostenidas, debemos lidiar con el tema de las "excepciones."
 
-Utilizando los "escenarios de bote salvavidas" anteriores, a menudo se llega a la conclusión de que "lo bueno" es simplemente * lo que es "bueno" para la vida de un hombre individual *.
+Usando los "escenarios de botes salvavidas" expuestos arriba, la conclusión de que "lo bueno" es simplemente * aquello que es "bueno" para la vida individual del hombre*.
 
-En argumentos éticos, si se me pregunta si robaré una manzana en lugar de morirme de hambre, y digo "sí", inevitablemente se hará el siguiente argumento:
+En argumentos éticos, si se me pregunta si prefiero robar una manzana que morir por inanición -y yo digo que "sí" - el argumento siguiente inevitablemente sería:
 
 1. Todos preferirían robar una manzana antes que morir de hambre.
 2. Por lo tanto, todos prefieren universalmente robar manzanas hasta la muerte por inanición.
