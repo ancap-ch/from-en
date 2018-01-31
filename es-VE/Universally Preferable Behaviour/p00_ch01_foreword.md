@@ -1,6 +1,6 @@
 ## Prefacio
 
-En muchos cuentos de hadas, vive una terrible bestia de poder estupendo, un dragón o un basilisco, que tiraniza las tierras a su alrededor. Los aldeanos locales tiemblan ante este monstruo; sacrifican animales, pagan dinero y sangre en la esperanza de apaciguar sus impulsos asesinos.
+En muchos cuentos de hadas, existe una terrible bestia de gran poder, un gran dragón o basilisco, que tiraniza las tierras a su alrededor. Los aldeanos locales tiemblan ante semejante monstruo, y, con la esperanza de apaciguar su instinto asesino, sacrifican animales y entregan dinero a modo de ofrenda.
 
 La mayoría de las personas se encogen bajo la sombra de esta bestia, llamando a su miedo "prudencia," pero algunos pocos – quizás borrachos en valentía o temeridad – deciden pelear. Año tras año, década tras década, ola tras hola de campeones esperanzados intentan igualar su fuerza, virtud y astucia ante este tirano terrible.
 
