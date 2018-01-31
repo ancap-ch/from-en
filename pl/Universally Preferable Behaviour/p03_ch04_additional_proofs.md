@@ -20,7 +20,7 @@ A central question which needs to be answered is: *why is the scientific method 
 
 UPB odpowiada na to pytanie.
 
-Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
+Ponieważ wszelkie metodologie nabycia wiedzy muszą być uniwersalne, spójne i niezależna od czasu i miejsca, metoda naukowa spełnia te wymogi, podczas gdy irracjonalny i subiektywny mistycyzm jest dokładnym przeciwieństwem tych wymogów.
 
 ### Publiczna Edukacja
 
