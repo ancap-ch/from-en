@@ -73,13 +73,13 @@ Podríamos aportar muchos más argumentos para apoyar la existencia y validez de
 
 #### CUP: Opcional y objetivo
 
-Dado que hemos demostrado la validez de un comportamiento universalmente preferible, la cuestión de la moralidad ahora cambia. Como la moralidad * es * válida, ¿qué teorías pueden cuantificar, clasificar, explicar y predecir?
+Puesto que hemos demostrado la validez del comportamiento universalmente preferible, la cuestión de la moralidad cambia ahora. Dado que la moralidad *es* válida, ¿qué teorías pueden cuantificar, clasificar, explicar y predecir?
 
-Antes que nada, debemos recordar que la moralidad es claramente opcional. Todo hombre está sujeto a la gravedad y requiere comida para vivir, pero ningún hombre tiene que actuar moralmente. Si violo, robo o mato, ningún rayo me derriba. Las reglas morales, como el método científico o las clasificaciones biológicas, son simplemente formas de organizar racionalmente hechos y principios relativos a la realidad objetiva.
+Antes que nada, debemos recordar que la moralidad es claramente opcional. Todo hombre está sujeto a la gravedad y requiere de comida para vivir, pero ningún hombre tiene que actuar moralmente. Si yo violo, robo o mato, ningún rayo me golpeará. Las reglas morales, como el método científico o las clasificaciones biológicas, son meramente formas de organizar racionalmente hechos y principios relativos a la realidad objetiva.
 
-El hecho de que el cumplimiento de las reglas morales es * opcional *, sin embargo, ha confundido a muchos pensadores al creer que la moralidad misma es * subjetiva *. Nada mas lejos de la verdad.
+El hecho de que el cumplimiento de las reglas morales sea *opcional*, sin embargo, ha confundido a muchos pensadores en la creencia de que la moralidad misma es *subjetiva*. Nada podría estar más lejos de la verdad.
 
-Los organismos vivos son parte de la realidad material, y la realidad material es racional y objetiva. Aplicar teorías morales es opcional, pero eso no significa que todas las teorías morales sean subjetivas. El método científico también es opcional, pero no es subjetivo. La aplicación de clasificaciones biológicas es opcional, pero la biología no es subjetiva. Las opciones son opcionales; las consecuencias no son. Puedo elegir no comer, pero no puedo elegir vivir sin comer. Puedo elegir decapitar a alguien, pero no puedo elegir si pueden vivir sin una cabeza o no. La moral es, por lo tanto, opcional, pero los * efectos * de las elecciones morales son medibles y objetivos.
+Los organismos vivos son parte de la realidad material, y la realidad material es racional y objetiva. La aplicación de teorías morales es opcional, pero eso no significa que todas las teorías morales sean subjetivas. El método científico también es opcional, pero no es subjetivo. La aplicación de clasificaciones biológicas es opcional, pero la biología no es subjetiva. Las opciones son opcionales; las consecuencias no lo son. Puedo elegir no comer, pero no puedo elegir vivir sin comer. Puedo elegir decapitar a alguien, pero no puedo elegir si pueden vivir sin una cabeza o no. La moral es, por lo tanto, opcional, pero los * efectos * de las elecciones morales son medibles y objetivos.
 
 Ahora, dado que la moralidad es un concepto válido, la siguiente pregunta es: ¿en qué medida o en qué medida es válida la moralidad?
 
