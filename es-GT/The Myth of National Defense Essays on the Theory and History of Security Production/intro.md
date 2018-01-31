@@ -1,6 +1,6 @@
-# Introduccion
+# Introducción
 
-En la Declaración de la Independencia Americana, Thomas Jefferson afirmo
+En la Declaración de Independencia de los Estados Unidos, Thomas Jefferson afirmó
 
 > estas verdades son evidentes: Que todos los hombres son creados iguales; que ellos son dotados por el creador con derechos inalienables; que entre estos se encuentran la vida, la libertad y la búsqueda de la felicidad: que para asegurar estos derechos, los gobiernos se instituyen entre los hombres, derivando sus justos poderes del consentimiento de los gobernados; que cada vez que cualquier forma de gobierno se vuelve destructiva para estos fines, es el derecho del pueblo alterarlo o abolirlo, e instituir un nuevo gobierno, recayendo su fundación en tales principios, y organizando sus poderes en tal forma que les parezca lo más probable es que afecte su seguridad y felicidad. La prudencia, de hecho, dictara que los gobiernos establecidos durante mucho tiempo no deben ser cambiados por causas leves o transitorias; y en consecuencia, toda experiencia ha demostrado que la humanidad está más dispuesta a sufrir mientras que los males son tolerables, que a enmendarse a sí mismos mediante la abolición de las formas a las que están acostumbrados. Pero cuando una larga serie de abusos y usurpaciones que persiguen invariablemente el mismo objeto, muestra un diseño para reducirlos bajo el despotismo absoluto, está en su derecho, es su deber desechar ese gobierno y proporcionar nuevos guardias para su futura seguridad.
 
