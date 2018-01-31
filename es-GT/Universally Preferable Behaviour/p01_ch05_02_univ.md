@@ -69,9 +69,9 @@ O:
 5. Por lo tanto, la mente humana debe actuar mas exitosamente con base en el comportamiento universalmente preferible.
 6. Por lo tanto el comportamiento universalmente preferible debe ser valido.
 
-Podríamos incorporar muchos más argumentos para apoyar la existencia y validez del CUP, pero dejaremos terminar nuestro caso con lo anterior, y movernos a una examinación de la naturaleza del CUP.
+Podríamos aportar muchos más argumentos para apoyar la existencia y validez del CUP, pero apoyaremos nuestro caso con lo anterior y pasaremos examinar la naturaleza del CUP.
 
-#### CUP: opcional y objetivo
+#### CUP: Opcional y objetivo
 
 Dado que hemos demostrado la validez de un comportamiento universalmente preferible, la cuestión de la moralidad ahora cambia. Como la moralidad * es * válida, ¿qué teorías pueden cuantificar, clasificar, explicar y predecir?
 
