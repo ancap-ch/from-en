@@ -17,7 +17,7 @@ Spójrzmy na trzy działania, które pomogą nam dalej rozróżniać etykę od e
 
 ### Irrationality
 
-Let’s say that you and I are having a debate about the existence of God. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Powiedzmy, że ty i ja prowadzimy debatę na temat istnienia Boga. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Oczywiście, twoja odpowiedź na moje stanowisko jest irracjonalna. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
 
 ### Lying
 
