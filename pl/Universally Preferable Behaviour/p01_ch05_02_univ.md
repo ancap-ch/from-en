@@ -25,23 +25,23 @@ Thus it is impossible that anyone can logically argue against universally prefer
 Syllogistically, this is:
 
 1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+2. Człowiek jest żywym organizmem.
+3. W związku z tym wszyscy żyjący ludzie są żywi z powodu praktyki powszechnie preferowanych zachowań.
+4. W związku z tym jakikolwiek argument przeciwko powszechnie preferowanych zachowań wymaga akceptacji i praktyki powszechnie stosowanych zachowań.
+5. W związku z tym żaden argument przeciwko istnieniu powszechnie preferowanych zachowań nie może być prawidłowy.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+Ponieważ metoda naukowa wymaga potwierdzenia empirycznego, musimy również spojrzeć na rzeczywistość, aby potwierdzić naszą hipotezę - i tutaj w pełni popiera się zasadność powszechnie pożądanego zachowania.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Każdy rozsądny człowiek wierzy w jakieś zasady moralne. Istnieje pewna niezgoda co do tego, co *stanowi* zasady moralne, ale wszyscy są pewni, że zasady moralne są ważne - tak jak wielu naukowców się nie zgadza, ale wszyscy naukowcy akceptują zasadność samej metody naukowej. Można argumentować, że Ziemia jest okrągła, a nie płaska - co jest analogiczne do zmiany definicji moralności - ale nie można twierdzić, że Ziemia w ogóle nie istnieje - co jest jak twierdzenie, że nie ma czegoś takiego jak powszechnie preferowane zachowanie.
 
-Or:
+Lub:
 
 1. Aby teoria naukowa była ważna, musi być poparta obserwacją empiryczną.
 2. Jeśli pojęcie "powszechnie preferowanego zachowania" jest ważne, ludzkość powinna wierzyć w powszechnie preferowane zachowanie.
 3. Wszyscy ludzie wierzą w powszechnie preferowane zachowanie.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+4. Dlatego istnieją dowody empiryczne potwierdzające słuszność powszechnie preferowanych zachowań - a istnienie takiego dowodu *sprzeciwia* się twierdzeniu, że ogólnie preferowane zachowanie jest nieważne.
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+Czwarty argument dotyczący ważności powszechnie preferowanego zachowania jest również empiryczny. Ponieważ istoty ludzkie mają prawie nieskończoną liczbę możliwości wyboru w życiu, twierdząc, że nie ma zasad ogólnie preferowanych zachowań byłoby jak powiedzenie, że wszystkie wybory są równe (tj. Subiektywne). Jednak wszystkie wybory są *nie* równe, logicznie lub poprzez obserwację empiryczną.
 
 Na przykład, jeśli jedzenie jest dostępne, prawie wszyscy ludzie wolą jeść codziennie. Gdy jest zimno, prawie wszyscy ludzie szukają ciepła. Prawie wszyscy rodzice wybierają karmienie, schronienie i edukowanie swoich dzieci. Istnieje wiele przykładów powszechnych wyborów wśród ludzkości, które wskazują, że powszechnie preferowane zachowanie obfituje i jest częścią ludzkiej natury.
 
@@ -58,9 +58,9 @@ Piąty argument dotyczący ważności powszechnie preferowanego zachowania jest 
 
 Ponieważ całe życie organiczne wymaga zachowania preferencyjnego, możemy założyć, że te organizmy, które dokonują najbardziej udanych wyborów, są najczęściej wybierane do przeżycia.
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+Ponieważ człowiek jest najbardziej udanym gatunkiem, a najbardziej charakterystycznym narządem człowieka jest jego umysł, musiał to być ludzki *umysł *, który pomógł mu najbardziej w dokonywaniu udanych wyborów. Zatem sam umysł został wybrany jako odnoszący sukces dzięki swojej zdolności do dokonywania udanych wyborów. Ponieważ ludzki umysł istnieje tylko jako *wynik* wyboru preferowanego zachowania, powszechnie preferowane zachowanie musi być prawidłową koncepcją.
 
-Or:
+Lub:
 
 1. Organisms succeed by acting upon universally preferable behaviour.
 2. Człowiek jest najbardziej udanym organizmem.
@@ -69,17 +69,17 @@ Or:
 5. Dlatego ludzki umysł musiał działać najlepiej z powodu ogólnie preferowanych zachowań.
 6. Dlatego też zachowanie powszechnie preferowane musi być prawidłowe.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+Moglibyśmy przytoczyć o wiele więcej argumentów na poparcie istnienia i ważności PPZ, ale spoczniemy na tym przykładzie i przejdziemy do badania natury PPZ.
 
 #### UPB: Optional And Objective
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Ponieważ udowodniliśmy słuszność powszechnie pożądanego zachowania, teraz nasuwa się kwestia moralności. Ponieważ moralność *jest* prawidłowa, jakie teorie mogą ją kwantyfikować, sklasyfikować, wyjaśnić i przewidzieć?
 
 Przede wszystkim musimy pamiętać, że moralność jest oczywiście opcjonalna. Każdy człowiek podlega grawitacji i potrzebuje żywności, aby żyć, ale żaden człowiek nie musi postępować moralnie. Jeśli zgwałcę, ukradnę lub zabije, żaden piorun mnie nie uderzy. Reguły moralne, takie jak metoda naukowa czy klasyfikacja biologiczna, są jedynie sposobami racjonalnego organizowania faktów i zasad w stosunku do obiektywnej rzeczywistości.
 
-The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
+Fakt, że przestrzeganie zasad moralnych jest *opcjonalne*, wprawił wielu myślicieli w przekonanie, że moralność jest *subiektywna *. Nic nie mogło być dalsze od prawdy.
 
-Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
+Żywe organizmy są częścią materialnej rzeczywistości, a materialna rzeczywistość jest racjonalna i obiektywna. Stosowanie teorii moralnych jest opcjonalne, ale nie oznacza to, że wszystkie teorie moralne są subiektywne. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
 
 Teraz, skoro moralność jest ważną koncepcją, następne pytanie brzmi: w jakim stopniu lub rozmiarze moralność jest ważna?
 
@@ -95,7 +95,7 @@ The final test that any moral theory must pass is the criterion of empirical obs
 
 How does all this look in practice? Let’s look at how the requirement for *universality* affects moral theories. We shall touch here on proofs and disproofs for specific moral propositions, which we shall examine in more detail in Part Two.
 
-If I say that gravity affects matter, it must affect *all* matter. If even one pebble proves immune to gravity, my theory is in trouble. If I propose a moral theory that argues that people should not murder, it must be applicable to *all* people. If certain people (such as soldiers) are exempt from that rule, then I have to either prove that soldiers are *not* people, or accept that my moral theory is false. There is no other possibility. On the other hand, if I propose a moral theory that argues that all people *should* murder, then I have saved certain soldiers, but condemned to evil all those *not* currently murdering someone (including those being murdered!) – which is surely incorrect.
+If I say that gravity affects matter, it must affect *all* matter. If even one pebble proves immune to gravity, my theory is in trouble. Jeśli proponuję moralną teorię, która twierdzi, że ludzie nie powinni mordować, musi się to stosować do *wszystkich* osób. Jeśli pewne osoby (takie jak żołnierze) są zwolnione z tej reguły, to muszę albo udowodnić, że żołnierze *nie* są ludźmi, albo zaakceptować, że moja teoria moralna jest fałszywa. Nie ma innej możliwości. Z drugiej strony, jeśli proponuję moralną teorię, która dowodzi, że wszyscy ludzie *powinni* mordować, to uratowałem niektórych żołnierzy, ale skazałem na zło wszystkich tych, którzy nikogo obecnie *nie* mordują (łącznie z tymi, którzy zostali zamordowani!) - co z pewnością jest nieprawidłowe.
 
 Jeśli, dla ocalenia cnót żołnierzy, zmienię moją teorię, aby argumentować, że moralnie jest zabijanie ludzi, jeśli ktoś inny im to mówi (powiedzmy, przywódcy politycznego), wtedy muszę poradzić sobie z problemem uniwersalności. Jeśli polityk A może nakazać żołnierzowi zabójstwo Irakijczyka, wówczas Irakijczycy muszą również być w stanie nakazać żołnierzowi zamordowanie polityka A, a żołnierz może również nakazać politykowi A zamordowanie Irakijczyków. Zastosowanie tej teorii powoduje ogólny i amatorski paraliż, a zatem okazuje się nieważne.
 
