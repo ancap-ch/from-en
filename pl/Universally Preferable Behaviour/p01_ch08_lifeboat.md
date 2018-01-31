@@ -2,7 +2,7 @@
 
 The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
 
-For instance, if we accept the universal validity of property rights, smashing a window and jumping into someone’s apartment without permission would be a violation of his property rights. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
+Na przykład, jeśli zaakceptujemy uniwersalną ważność praw własności, rozbicie okna i wskoczenie do czyjegoś mieszkania bez pozwolenia byłoby naruszeniem jego praw własności. Gdybyśmy jednak zwisali z masztu pod oknem mieszkania, a wkrótce padnie na naszą śmierć, niewielu z nas odmówiłoby kopnięcia w okno i przeskoczenia w bezpieczne miejsce w imię przestrzegania abstrakcyjnej zasady.
 
 In the real world, it would take a staggeringly callous person to press charges against a man who destroyed a window in order to save his life – just as it would take a staggeringly irresponsible man to refuse to pay restitution for said window. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
 
