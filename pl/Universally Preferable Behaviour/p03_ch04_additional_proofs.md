@@ -26,7 +26,7 @@ Ponieważ wszelkie metodologie nabycia wiedzy muszą być uniwersalne, spójne i
 
 Jedną centralną zasadą ekonomii wolnorynkowej jest to, że jakość tak naprawdę wynika jedynie z *dobrowolności*. Coercion, fundamentally, is inefficient – violence always results in poor quality. Piekarnie w starym radzieckim stylu nigdy nie miały dobrego chleba; mężczyzna który bije swoją żonę nigdy nie będzie miał szczęśliwego małżeństwa.
 
-The initiation of the use of force is always counter to any rational moral theory – it is a specific and explicit violation of UPB. Since public schools are funded through the initiation of the use of force, they are a form of *forced association*, which is a clear violation of the *freedom of association* validated by UPB.
+The initiation of the use of force is always counter to any rational moral theory – it is a specific and explicit violation of UPB. Ponieważ szkoły publiczne finansowane są poprzez wszczęcie użycia siły, są formą *wymuszonego stowarzyszenia*, co jest oczywistym naruszeniem *wolności stowarzyszeń* uzasadnionych przez UPB.
 
 Since force violates the moral requirement of *avoidability* – and a lack of avoidability always breeds poor quality – UPB would help us easily predict that public schools would provide education of low quality.
 
