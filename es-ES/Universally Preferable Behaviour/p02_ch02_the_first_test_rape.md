@@ -56,15 +56,15 @@ Por lo tanto sabemos que la violación no puede ser un APA.
 
 Podemos confirmar esto al revisar las razones de por qué "llegar a tiempo" *es* un APA.
 
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
+En primer lugar, instintivamente entendemos que es más justo rechazar a un amigo por estar perpetuamente atrasado que el rechazar a un amigo por no gustarle el helado.
 
-Why is that?
+Porque es eso?
 
-Once again, the UPB framework comes to the rescue.
+Una vez más, el marco de la UPB viene al rescate.
 
-An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
+Una APA es una*regla no coercitiva que puede ser racionalmente aplicada a ambas partes simultaneamente*.
 
-For instance, if my APA is: “be on time,” then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+Por ejemplo, si mi APA es:"llegar a tiempo",, entonces puede ser una norma universal que puede ser totalmente evitada. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
 
 If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
 
