@@ -133,10 +133,10 @@ Así pues, el CUP puede verse como un marco para validar teorías o proposicione
 
 Un ejemplo de una proposición moral es:"La iniciación del uso de la fuerza está mal." El CUP es la metodología que prueba la proposición contra la consistencia interna y la observación empírica. El CUP primero pregunta: *¿es la proposición lógica y consistente? * El CUP luego pregunta: *¿qué evidencia existe para la verdad de la proposición? *
 
-Para mantener este libro en un tiempo razonable, trataremos en general con el primer criterio de consistencia lógica. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+Para mantener este libro en un tiempo razonable, trataremos en general con el primer criterio de consistencia lógica. Para el segundo criterio, nos basaremos en la evidencia de las prohibiciones universales a través de todas las culturas contra ciertas acciones tales como violación, robo, asalto y asesinato. Se podría escribir mucho más sobre la evidencia histórica que ayuda a apoyar o rechazar varias proposiciones morales, pero lo dejaremos para otro momento. Si establecemos la validez del CUP, habremos alcanzado una cantidad enorme. Si no lo hacemos, la evidencia apenas nos ayudará.
 
-Let us now turn to the question of whether the UPB framework deals with matters of *ethics*, or *aesthetics*, or both.
+Volvamos ahora a la cuestión de si el marco de trabajo del CUP trata de asuntos de *ética*, o *estética*, o de ambos.
 
-[^7]: The same goes, of course, for murder and assault. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
+[^7]: Lo mismo ocurre, por supuesto, para el asesinato y asalto. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
 
 [^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
