@@ -14,7 +14,7 @@ Esta diferença pode ser entendida através de uma análise adicional de *inicia
 
 Se tiver cancro, pode pedir a um cirurgião para operá-lo. A razão pela qual o "corte" do cirurgião não é imoral é que o cancro "iniciou" um ataque à sua vida e saúde. O cirurgião age como um "agente substituto de defesa autónomo", como um homem que atira a um assaltante que o está a atacar. Você também deu o seu consentimento ao cirurgião e vinculou o seu comportamento por um contrato específico.
 
-The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
+Contudo o assaltante que te apunhala, está a iniciar um ataque à tua vida e saúde, e é por isso que o seu ataque é o *oposto* aos esforços do cirurgião.
 
 If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
 
