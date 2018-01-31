@@ -10,7 +10,7 @@ Para tomar un ejemplo absurdo, vamos a imaginar que estamos revisando una teorí
 
 Ciertamente, si yo proclamo que "X" es "lo bueno", entonces el contrario de "X" debe ser malo. Si *no violar* es bueno, entonces *violar* debe ser malo. Al contrario, si *violar* es bueno, entonces *no violar* debe ser malo.
 
-Violar a alguien es una acción positiva que debe ser iniciada, ejecutada, y luego completada. Si “violar” es un bien moral, entonces “no violar” es un mal moral - por lo tanto es imposible para dos hombres en la misma habitación ser *ambos morales al mismo tiempo*, ya que sólo uno de ellos puede ser un violador en cualquier momento dado - y solamente puede ser un violador si el otro hombre se convierte en su víctima.
+Violar a alguien es una acción positiva que tiene que ser iniciada, ejecutada y luego completada. Si "violar" es un bien moral, entonces "no violar" debe ser un mal moral -por consiguiente es imposible para dos hombres en una sola habitación *ambos ser morales al mismo tiempo*, dado que solo uno de ellos puede ser un violador en cualquier momento -y él solo puede ser un violador si el otro hombre se convierte en su victima.
 
 Aquello que pemite lo virtuoso no puede ser vil. La “libertad,” en este caso, es un pre-requisito para la virtud - sin libertad, no podemos ser virtuosos - por lo tanto la “libertad” no puede ser mala, ya que es *requerida* para el bien.
 
