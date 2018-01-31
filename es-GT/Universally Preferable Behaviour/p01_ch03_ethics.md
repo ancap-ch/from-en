@@ -1,8 +1,8 @@
 ## Ética
 
-Puesto que la ética es un tema del cual ya todos tenemos opiniones, es importante delinear la relación entre la ética *instintiva* y la ética *racional*.
+Dado que la ética es un tema sobre el que todos tenemos opiniones, es importante delinear la relación entre la etica *instintivamente* y la ética *racional*.
 
-Un jugador de béisbol puede atrapar un batazo de aire incluso si no sabe nada sobre física. De manera similar, podemos percibir correctamente una acción como inmoral incluso sin saber nada sobre teorías éticas.
+Un jugador de béisbol puede atrapar una pelota voladora aunque no sepa nada de física. Del mismo modo, podemos percibir correctamente una acción como inmoral aunque no sepamos nada de teorías éticas.
 
 Si puedo atrapar un batazo de aire, entonces tengo una *sensación* instintiva del comportamiento de una pelota de béisbol en vuelo. Mi entendimiento instintivo, sin embargo, no me da la capacidad de lanzar con precisión una nave espacial para orbitar Júpiter. Tengo una "pequeña verdad" inmediata – cómo se moverá la bola – pero eso no me da una "gran verdad" universal – cómo se comporta la materia.
 
