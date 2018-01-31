@@ -22,11 +22,11 @@ El costo para la humanidad ha sido enorme.
 
 En el momento en el que nos volvimos incapaces de crear un sistema de ética racional y universal, nos vimos obligados a aterrorizar a nuestros hijos con historias de horror religiosas, o a dar armas, prisiones y ejércitos a un pequeño monopolio de patrones sin alma que se hacen llamar "el estado".
 
-Debido a que eso que llamamos la “ética” es una cuestión puramente subjetiva y *cultural*, inevitablemente terminamos dependiendo de la intimidación, el miedo y la violencia para hacer cumplir las normas sociales. Ya que la ética carece de base racional en el método científico, la "moralidad" permanece atascada en una guerra tribal de mitologías sangrientas, con cada pandilla luchando con dientes y uñas por el control sobre la lealtad de la gente a la "virtud."
+Debido a que eso que llamamos la “ética” es una cuestión puramente subjetiva y *cultural*, inevitablemente terminamos dependiendo de la intimidación, el miedo y la violencia para hacer cumplir las normas sociales. Debido a que la ética carece del soporte racional del método científico, "la moral" seguirá estancada en una guerra trivial de mitologías sanguinarias, con cada pandilla luchando hasta con los dientes por el control de la lealtad de las personas a la "virtud".
 
-No podemos vivir sin moralidad, pero no podemos definir la moralidad objetivamente – así que permanecemos eternamente condenados a vidas vacías de hipocresía pomposa, dominación cínica o esclavitud piadosa.
+No podemos vivir sin moral, pero no podemos definir la moral de forma objetiva, por lo que permanecemos condenados a vivir vidas vacías de vana hipocresía, a la dominación cínica o la piadosa esclavitud.
 
-Intelectualmente, no hay apuestas más altas en el mundo. Nuestro fracaso para definir normas morales objetivas y racionales ha costado cientos de millones de vidas humanas, en las guerras de religión y estados.
+Intelectualmente hablando, no existe una hay apuesta más alta. nuestro fracaso para definir normas morales y objetivas y racionales nos ha costado cientos de millones de vidas humanas, en guerras religiosas y de estados.
 
 En muchas formas, las apuestas se están volviendo más elevadas.
 
