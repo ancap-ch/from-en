@@ -1,8 +1,8 @@
 ## The First Test: Rape
 
-Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
+Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Morderstwo może być komplikowane przez samoobronę; kradzieży przez problem głodu lub "kradzieży" - ale nigdy nie można gwałcić w samoobronie; z samej definicji jest to inicjacja agresji.
 
-Let us then use the UPB framework to examine the logical consistency of ethical propositions regarding rape, with reference to these seven moral categories.
+Wykorzystajmy zatem strukturę UPB do zbadania logicznej spójności zdań etycznych dotyczących gwałtu, w odniesieniu do tych siedmiu kategorii moralnych.
 
 ### The Good
 
@@ -10,13 +10,13 @@ To take an absurd example, let’s imagine that we are reviewing an ethical theo
 
 Clearly, if I proclaim that “X” is “the good,” then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
 
-Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
+Zgłaszanie komuś jest pozytywnym działaniem, które musi zostać zainicjowane, wykonane, a następnie zakończone. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
 
 That which enables virtue cannot be evil. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
 
 If it is morally good to be a rapist, and one can only be a rapist by sexually assaulting a victim, then clearly the victim must be morally good by resisting the sexual assault – since if he does not resist, it is by definition not rape, and therefore not virtuous. In other words, *attacking* virtue by definition *enables* virtue. Thus we have an insurmountable paradox, in which the victim must attack virtue in order to enable virtue – he must resist sexual assault in order to enable the “virtue” of the rapist. Thus not only can the rape victim *not* be virtuous, but he must resist and attack “virtue” in order to allow it.
 
-Insurmountable logical problems thus result from the proposition: “rape is moral.” Remember, we agreed that a rational theory cannot propose opposite states for the same situation. All other things being equal, a rock cannot fall both up and down at the same time, and a valid theory cannot predict that one rock will fall up, while another rock will fall down.
+Nieprzezwyciężone problemy logiczne wynikają więc z twierdzenia: "gwałt jest moralny". Pamiętajmy, że zgodziliśmy się, że racjonalna teoria nie może zaproponować stanów przeciwnych dla tej samej sytuacji. All other things being equal, a rock cannot fall both up and down at the same time, and a valid theory cannot predict that one rock will fall up, while another rock will fall down.
 
 In the same way, two men in a room must be considered to be in the same situation. If only one of them can be good, because goodness is defined as rape, and only one of them can rape at any time, then we have a logical contradiction that cannot be resolved.
 
