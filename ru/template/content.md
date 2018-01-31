@@ -18,11 +18,11 @@ Below there's an enumerated list of styled pangrams, that shows every character,
 
 Now a non-enumerated list:
 
-* First level
+* Первый уровень
 * First level 
-    * Second level
+    * Второй уровень
     * Second level 
-        * Third level
+        * Третий уровень
         * Third level
     * Second level
 * First level
