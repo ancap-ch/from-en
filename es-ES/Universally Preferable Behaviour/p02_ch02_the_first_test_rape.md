@@ -74,13 +74,13 @@ Por otro lado, si yo digo que "tener gusto por el jazz" es una APA, entonces inm
 
 Esto no es únicamente una contradicción de rango en términos de sintaxis, sino que también inmediatamente falla la prueba de la UPB. Si yo prefiero el jazz ante todas las demás formas de música, pero tú prefieres la música clásica, y si las preferencias personales son universalmente preferibles, entonces tu deberías preferir el jazz porque yo lo hago y yo debería preferir la clásica porque tu lo haces. Esto, por supuesto, es imposible, porque eso requeriría que ambos *simultáneamente* prefiriéramos tanto el jazz como la música clásica sobre todas las demás formas de música. Tu deberías cambiar tu preferencia a jazz a causa de mi preferencia - pero yo debería a la vez cambiar mi preferencia a clásica a causa de tu preferencia. Esto es como decir que tu debería tanto lanzan como atrapar la misma pelota de béisbol exactamente al mismo tiempo - una imposibilidad lógica y física.
 
-Ya que las APAs no son aplicables a través de la violencia - tú no puedes disparar a un hombre por llegar tarde - entonces una violación *no puede* ser una APA, puesto que violación por definición es un ataque sexual forzado mediante la violencia.
+Ya que las APAs no son aplicables a través de la violencia - tú no puedes disparar a un hombre por llegar tarde - entonces la violación *no puede* ser una APA, puesto que violación por definición es un ataque sexual forzado mediante la violencia.
 
-Así, una violación no puede caer en la categoría de APAs.
+Así, la violación no puede caer en la categoría de APAs.
 
 ### Personalmente Positiva
 
-Tal vez una violación es similar a una preferencia meramente personal.[^2]
+Tal vez la violación es similar a una preferencia meramente personal.[^2]
 
 Entonces surge la pregunta: ¿puede la clasificación de violación como una preferencia meramente personal hacer frente al escrutinio lógico?
 
@@ -90,17 +90,17 @@ Las preferencias personales no pueden ser justamente infligidas a otras personas
 
 Si yo digo que tener gusto por la banda Queen sobre todas las demás es un comportamiento preferible universalmente, ¿en qué fundamentos puedo yo justificar esa declaración? Solo diciendo que todas las preferencias personales deberían se infligidas a otras personas. Sin embargo, si mis preferencias personales pueden ser infligidas a ti a voluntad, entonces por la misma definición de UPB, tus preferencias personales pueden ser infligidas a *mí* a voluntad. Así, no podemos ambos ser morales a la vez, ya que eso requeriría que ambos prefiriéramos nuestras propias bandas mientras que al mismo tiempo sometemos esa preferencia a las bandas favoritas de ambos. En otras palabras, yo debería simultáneamente pensar que Queen es la mejor banda y que The Police es la mejor banda. Esto es una imposibilidad lógica, lo cual es el principal motivo por qué simples preferencias personales no pueden ser aplicables universalmente.
 
-De este modo, si una violación es considerada como una preferencia meramente personal, entonces no puede ser lógicamente aplicable a nadie mas. De nuevo, pensando en los dos hombres en una habitación, esto requeriría que ambos prefieran violar al otro pero se mantengan completamente incapaces de ejecutar esa decisión, lo cual no es solo ilógico sino que también, afortunadamente, completamente poco práctico.
+De este modo, si la violación es considerada como una preferencia meramente personal, entonces no puede ser lógicamente aplicable a nadie mas. De nuevo, pensando en los dos hombres en una habitación, esto requeriría que ambos prefieran violar al otro pero se mantengan completamente incapaces de ejecutar esa decisión, lo cual no es solo ilógico sino que también, afortunadamente, completamente poco práctico.
 
-Finally, since personal preferences cannot be enforced on others, but rape is by definition the enforcement of a “preference” upon another, rape cannot be in the moral category of merely personal preferences.
+Por último, ya que las preferencias personales no pueden ser aplicadas a otros, pero la violación es por definición la aplicación de una "preferencia" a otro, las violaciones no pueden estar en la categoría moral de preferencias meramente personales.
 
-### Morally Neutral
+### Moralmente Neutral
 
-As discussed above, rape cannot be a morally neutral action, since it is a preference that is enforced upon another.
+Como se discutió arriba, una violación no puede ser una acción moralmente neutral ya que es una preferencia que es aplicada a otro.
 
-### Personally Negative
+### Personalmente Negativa
 
-Perhaps rape is a *personally negative* action, the opposite of number three. As an example, a criminal on the run would consider capture a personally negative action (PNA).
+Tal vez la violación es una acción *personalmente negativa*, lo contrario del número tres. Como un ejemplo, un criminal en fuga consideraría la captura una acción personalmente negativa (PNA).
 
 Personally negative actions (PNAs) by definition cannot be enforced upon another. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
 
