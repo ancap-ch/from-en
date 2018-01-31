@@ -46,9 +46,9 @@ Como escribí en mi libro anterior, "Sobre la Verdad: La Tiranía de la Ilusión
 
 La razón por la que la moral moderna, y la moral a lo largo de la historia, siempre ha tenido que basarse en el acoso a los niños, y luego a la amenaza en los adultos, es que es una mentira manipuladora enmascarada como una verdad virtuosa.
 
-La verdad es que necesitamos moralidad; la mentira es que los dioses y gobiernos pueden definirla racionalmente o imponerla justamente.
+La verdad es que sí necesitamos moral; la mentira es que los dioses o gobiernos son capaces de definirla racionalmente o de imponerla de forma justa.
 
-Mi meta en este libro es definir una metodología para la validación de teorías morales que sea objetiva, consistente, clara, racional, empírica – y *verdadera*.
+Mi meta en este libro es definir una metodología para validar teorías morales que sea objetiva, consistente, clara, racional, empírica y *verdadera*.
 
 Estoy totalmente consciente de que, en este momento, usted probablemente estará sintiendo una creciente ola de escepticismo. Entiendo completamente que las probabilidades de que un tipo afuera en el Internet – el planeta natal de los locos – haya resuelto el problema filosófico de las edades no son particularmente altas – de hecho, estarían tan cerca de cero que sería virtualmente indistinguible de él.
 
