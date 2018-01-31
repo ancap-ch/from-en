@@ -1,10 +1,10 @@
 ## Ethical Categories
 
-With the UPB framework in place, we can now turn to an examination of how UPB validates or invalidates our most common moral propositions. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
+Dzięki ramom UPB możemy teraz przystąpić do badania, w jaki sposób UPB zwaliduje lub unieważnia nasze najczęstsze propozycje moralne. Jeśli nasza "teoria fizyki" może wyjaśnić, w jaki sposób człowiek może złapać baseball, przynajmniej minęliśmy pierwszą - i najważniejszą - przeszkodę i uderzyliśmy nasz pierwszy i najgłębszy cios w bestię.
 
 ### The Seven Categories
 
-As mentioned above, propositions regarding universally preferable behaviour fall into three general categories – positive, negative and neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
+Jak wspomniano powyżej, propozycje dotyczące preferowanych zachowań powszechnych można podzielić na trzy ogólne kategorie: pozytywne, negatywne i neutralne. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
 
 1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
 2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
@@ -14,9 +14,9 @@ As mentioned above, propositions regarding universally preferable behaviour fall
 6. It is aesthetically negative (“rudeness” and “being late”).
 7. It is evil (universally proscribed) (“rape”).
 
-Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
+W idealnej sytuacji powinniśmy być w stanie sprowadzić je do dwóch kategorii - ogólnie preferowanych i pozytywnych pod względem estetycznym - poprzez zdefiniowanie naszych propozycji etycznych, aby to, co jest powszechnie zakazane, było po prostu lustrzanym odbiciem tego, co jest powszechnie preferowane, i porzucaniem jedynie osobistych preferencji i neutralności. działania niezwiązane z dyskusją na temat etyki.
 
-For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
+Na przykład, zasada nieagresji (NAP) stwierdza, że inicjacja użycia siły jest niemoralna - w związku z tym nieinicjowanie użycia siły jest powszechnie preferowane, podczas gdy inicjacja użycia siły jest powszechnie zakazana. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
 
 Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
 
