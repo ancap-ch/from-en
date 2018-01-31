@@ -78,9 +78,9 @@ Ya que las APAs no son aplicables a través de la violencia - tú no puedes disp
 
 Así, una violación no puede caer en la categoría de APAs.
 
-### Personally Positive
+### Personalmente Positiva
 
-Perhaps rape is akin to a merely personal preference.[^2]
+Tal vez una violación es similar a una preferencia meramente personal.[^2]
 
 The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
 
