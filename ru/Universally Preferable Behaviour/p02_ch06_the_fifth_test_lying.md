@@ -22,7 +22,7 @@ Or:
 
 **Doug:** Are you lying?
 
-**Bob:** No.
+**Bob:**Нет.
 
 **Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
 
