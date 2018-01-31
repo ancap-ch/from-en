@@ -4,7 +4,7 @@ Rozsądna teoria moralna powinna być w stanie wyjaśnić wszystkie powyższe un
 
 Jeśli ramy UPB mogą wyjaśnić powyższe, to z pewnością przeszedłby przynajmniej test "zdrowego rozsądku".
 
-This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
+Nie oznacza to, że pewne zaskakujące - nawet szokujące - wnioski mogą nie wynikać z naszej teorii moralnej, ale przynajmniej przejdziemy pierwszą przeszkodę wyjaśnienia oczywistości, zanim przeanalizujemy to, co dalekie jest od oczywistości.
 
 With that in mind, let us turn to the question of *initiation*.
 
@@ -12,11 +12,11 @@ A surgeon can “stab” you with a scalpel, but we can easily understand that h
 
 This difference can be understood through a further analysis of *initiation*.
 
-If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. Udzieliłeś także zgody chirurgowi i związujesz jego zachowanie konkretną umową.
+If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. Chirurg działa jak "zastępcza agencja samoobrony", podobnie jak człowiek, który strzela do rabusia, który atakuje ciebie. Udzieliłeś także zgody chirurgowi i związujesz jego zachowanie konkretną umową.
 
 The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
 
-If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Jeśli jestem palaczem przewlekłym i długoletnim, brałem udział w szeregu zdarzeń prowadzących do raka płuc. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
 
 Podobnie, mogę zostawić portfel na ławce w parku na tydzień, wrócić i znaleźć go wciąż na miejscu, ale pozostawiając go tam przez tak długi czas, z pewnością wpłynęło na prawdopodobieństwo jego zniknięcia.
 
