@@ -20,9 +20,9 @@ Insurmountable logical problems thus result from the proposition: “rape is mor
 
 In the same way, two men in a room must be considered to be in the same situation. If only one of them can be good, because goodness is defined as rape, and only one of them can rape at any time, then we have a logical contradiction that cannot be resolved.
 
-Also, if we recall that Universally Preferable Behaviour must be independent of time, then we also face a logical problem that, no matter what his physical virility, at some point the rapist will simply be unable to rape any more, because he will be physically unable to get an erection. At that point, his ability to perform the “good action” becomes impossible. Since “avoidability” is a key criterion for morality, but he is physically unable to be good – in other words, he is unable to avoid being evil – then he cannot be responsible for not raping the other man.
+Ponadto, jeśli przypomnimy sobie, że Powszechnie Preferowane Zachowanie musi być niezależne od czasu, wówczas stajemy również przed logicznym problemem, który niezależnie od jego fizycznej męskości, w pewnym momencie gwałciciel po prostu nie będzie w stanie zgwałcić, ponieważ będzie fizycznie nie można uzyskać erekcji. W tym momencie jego zdolność do wykonania "dobrego działania" staje się niemożliwa. Ponieważ "unikalność" jest kluczowym kryterium moralności, ale fizycznie nie jest w stanie być dobrym - innymi słowy, nie jest w stanie uniknąć zła - nie może być odpowiedzialny za nie gwałcenie drugiego człowieka.
 
-If a man hanging from a tree over a canyon lets go because he lacks the strength to continue holding on, we would not call that a suicide, since the choice to hang on was no longer available to him. If he lets go although he has the strength to continue holding on, the case would not be quite so clear.
+Jeśli człowiek zwisający z drzewa nad kanionem puszcza, ponieważ nie ma siły, by dalej się trzymać, nie nazywalibyśmy tego samobójstwem, ponieważ wybór, który należy zachować, nie był już dla niego dostępny. Jeśli odpuści, choć ma siłę, by dalej się trzymać, sprawa nie będzie tak jasna.
 
 #### The Coma Test
 
