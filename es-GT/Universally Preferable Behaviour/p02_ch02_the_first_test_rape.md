@@ -1,10 +1,10 @@
 ## La Primera Prueba: Violación
 
-Aunque es un tema desagradable de discutir, la violación es sin lugar a dudas la acción *menos* ambigua que cualquier teoría moral debe abarcar. El asesinato puede complicarse por la propia defensa; el robo, por el problema de la hambruna o para "recuperar un bien" - pero una violación nunca puede ser en defensa propia; es por su mera definición, la iniciación de una agresión.
+Aunque es un tema desagradable de discutir, la violación es sin lugar a dudas la acción *menos* ambigua que cualquier teoría moral debe abarcar. El homicidio se puede complicar por la legitima defensa; el hurto por el problema de la inanición o "robar de vuelta" - pero nadie puede violar en legitima defensa; es la propia definición del comienzo de la agresión.
 
-Usemos entonces el marco de UPB para examinar la consistencia lógica de las premisas éticas con respecto a la violación, haciendo referencia a estas siete categorías morales.
+Utilizaremos entonces el marco de CUP para examinar la consistencia lógica de las proposiciones éticas referentes a la violación, con referencia a éstas siete categorías morales.
 
-### Lo bueno
+### Lo Bueno
 
 Para tomar un ejemplo absurdo, imaginemos que estamos examinando una teoría ética que proclama que la violación es un bien moral.
 
