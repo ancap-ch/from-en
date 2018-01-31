@@ -52,7 +52,7 @@ Esto ha sido usado como la base para numerosas teorías éticas y enfoques, desd
 
 Este tipo de "hedonismo biológico" puede ser una descripción de el "deseo de sobrevivir" pero solo es correcto en la medida de que describe lo que las personas en realidad *hacen*, no lo que *deberían* hacer.
 
-También introduce un subjetivismo completamente anticientífico a la cuestión de la moralidad. Por ejemplo, si es moralmente permisible robar comida cuando te mueres de hambre, ¿cuánta comida puedes robar? ¿Cuán hambriento tienes que ser? ¿Puedes robar comida que no sea nutritiva? ¿Qué tan nutritivo debe ser el alimento para justificar el robo? ¿Cuánto tiempo después de robar una comida se le permite robar otra comida? ¿Se le permite robar comidas en lugar de buscar trabajo o apelar a la caridad?
+Lo que también introduce a un completo subjetivismo no científico a la cuestión de la moralidad. Por ejemplo, si es moralmente permitido robar comida cuando estás hambriento, ¿Cuánta comida puedes robar? ¿Qué tan hambriento tienes que estar? ¿Puedes robar comida que no sea nutritiva? ¿Qué tan nutritiva tiene que ser la comida para justificar su hurto? ¿Cuánto tiempo después de robar una comida tienes permitido robar otra comida? ¿Tienes permitido robar comidas en lugar de buscar trabajo o apelar a la caridad?
 
 Además, si puedo ganar más dinero como asesino a sueldo que a comerciante, ¿no debería perseguir la violencia como carrera? Ciertamente mejora la * mi * supervivencia... y así sucesivamente.
 
