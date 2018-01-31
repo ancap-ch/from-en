@@ -32,7 +32,7 @@ Por ello debemos escoger la opción dos, que se refiere a que ciertas áreas gri
 
 Un científico capturado por caníbales puede pretender ser un brujo en orden de escapar - no quiere decir que debemos descartar el método científico como completamente invalido.
 
-Igualmente, puede haber situaciones extremas donde quizás tengamos que escoger cometer acciones inmorales, pero tales situaciones no invalidan la ciencia de la moralidad, como tampoco una ocasional mutación invalida la ciencia de la biología. De hecho, la ciencia de la biología avanza mucho a través de la aceptación y el examen de mutaciones, y de manera similar, la ciencia de la ética solo se fortalece mediante el examen de "escenarios de botes salvavidas", siempre que dicho examen no se realice obsesivamente.
+Igualmente, puede haber situaciones extremas donde quizás tengamos que escoger cometer acciones inmorales, pero tales situaciones no invalidan la ciencia de la moralidad, como tampoco una ocasional mutación invalida la ciencia de la biología. De hecho, la ciencia de la biología está muy avanzada a través de la aceptación y el reconocimiento de las mutaciones -e igualmente, la ciencia de la ética solamente se fortalece a través del reconocimiento de los "escenarios de botes salvavidas" siempre y cuando dicho examen no sea obsesivamente perseguido.
 
 ### Universalidad y Excepciones
 
