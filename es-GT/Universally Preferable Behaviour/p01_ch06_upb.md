@@ -19,23 +19,23 @@ Veamos tres acciones, para ayudarnos a distinguir mejor entre ética y estética
 
 Digamos que tú y yo estamos teniendo un debate sobre la existencia de Dios. Después de que yo exponga mis argumentos, pones tus manos sobre tus orejas, cantando que Dios te está diciendo que Él existe, y por lo tanto, todos mis argumentos no significan nada. Claramente, tu respuesta a mi posición es irracional. Por muy molesto que me parezca tu comportamiento, no me parecería razonable desahogar mi frustración sacando un arma y disparándote. Creo que es *universalmente preferible* usar la lógica y la evidencia en lugar de confiar en las voces en nuestras cabezas, pero esta preferencia universal no es razonablemente exigible en el sentido *físico*, a través de la violencia o la amenaza de la misma.
 
-### De Mentira
+### Mentria
 
-Digamos que usted y yo establecemos las reglas para un debate, y ambos acordamos juzgar la cuestión de la existencia de Dios de acuerdo con la razón y la evidencia. Si, a medida que el debate continúa, vuelves a una posición de fe ciega y rechazas mis argumentos * a pesar de* su racionalidad y evidencia, no estás cumpliendo tu palabra. En otras palabras, estaba mintiendo cuando dijiste que la cuestión se decidiría por razón y evidencia.
+Digamos que tu y yo establecimos las reglas para un debate, y ambos estamos de acuerdo en juzgar la cuestión de la existencia de Dios según la razón y la evidencia. Si, mientras continúa el debate, tu vuelves a una posición de fe ciega, y rechazas mis argumentos *a pesar de* su racionalidad y evidencia, no estás cumpliendo tu palabra. En otras palabras, tu estabas mintiendo cuando dijiste que la cuestión sería decidida por la razón y la evidencia.
 
-La diferencia entre estas dos situaciones (irracionalidad versus mentira) es la diferencia entre un acuerdo contractual y un acuerdo no contractual.  . Si le doy cien dólares y luego me alejo, no puedo ir a buscarlo en un año y decir que ahora me debe cien dólares, porque fue un préstamo. Si, por otro lado, acuerdas devolverme el dinero en un año y luego no lo haces, esa es una situación bastante diferente.
+La diferencia entre estas dos situaciones (irracionalidad versus mentira) es la diferencia entre un acuerdo contractual y un acuerdo no contractual. Si te doy cien dólares y luego me marcho, no puedo acercarme a ti en un año y decirte que ahora me debes cien dólares, porque era un préstamo. Si, por otra parte, si tu estás de acuerdo en devolverme el dinero en un año y luego no lo haces, esta es una situación muy diferente.
 
-En el ejemplo de "mentir", aunque claramente has roto tu palabra y has desperdiciado mi tiempo, no parece ser moral o razonable para mí sacar un arma y dispararte.
+En el ejemplo de "mentir", aunque claramente has roto tu palabra y me has hecho perder el tiempo, no parece ser moral ni razonable sacar un arma y dispararte.
 
-Una teoría moral razonable debería ser capaz de explicar por qué este es el caso.
+Una teoría moral razonable debería poder explicar por qué este es el caso.
 
 ### Asesinato
 
-Si te apresuras hacia mí con un cuchillo levantado, pocas personas discutirían mi derecho a defenderme. Si disparar fuera la única manera en que podría razonablemente garantizar mi propia seguridad, generalmente se consideraría una necesidad lamentable.
+Si te apresuras hacia mí con un cuchillo levantado, pocas personas discutirían mi derecho a defenderme. Si dispararte fuera la única forma de garantizar razonablemente mi propia seguridad, generalmente se consideraría una necesidad lamentable.
 
 ### Requisitos para la ética
 
-Ciertas condiciones previas deben existir, o ser aceptadas, para que los juicios o teorías éticas tengan validez o aplicabilidad. Claramente, la elección y la responsabilidad personal deben ser aceptadas como axiomas. Si una roca viene rebotando por una colina y choca contra su vehículo, no consideramos que la roca sea moralmente responsable, ya que no tiene conciencia, no puede elegir y, por lo tanto, no puede tener responsabilidad personal. Si la roca se desprendió simplemente como resultado del tiempo y la geología, entonces nadie es responsable del daño resultante a su automóvil. Sin embargo, si me vieras empujar la roca fuera de su posición, no culparías a la roca, sino a mí. Para agregar una complicación adicional, si resulta que desalojé la roca porque otro hombre me obligó a punta de pistola, sería mucho más probable que culpe al iniciador de la situación que a las armas en lugar de a mí.
+Ciertas condiciones previas deben existir, o ser aceptadas, para que los juicios éticos o teorías tengan alguna validez o aplicabilidad. Claramente, la elección y la responsabilidad personal deben ser aceptadas como axiomas. Si una roca viene rebotando por una colina y choca contra su vehículo, no consideramos que la roca sea moralmente responsable, ya que no tiene conciencia, no puede elegir y, por lo tanto, no puede tener responsabilidad personal. Si la roca se desprendió simplemente como resultado del tiempo y la geología, entonces nadie es responsable del daño resultante a su automóvil. Sin embargo, si me vieras empujar la roca fuera de su posición, no culparías a la roca, sino a mí. Para agregar una complicación adicional, si resulta que desalojé la roca porque otro hombre me obligó a punta de pistola, sería mucho más probable que culpe al iniciador de la situación que a las armas en lugar de a mí.
 
 Como hemos discutido anteriormente, entrar en cualquier debate requiere la aceptación de las realidades de elección, los valores y la responsabilidad personal. Sin embargo, estos factores también están presentes en la elección del color de la pintura para una habitación, sin embargo, apenas podríamos decir que la selección de un tono es una opción * moral *. Por lo tanto, debe haber otros criterios que deben estar presentes para que una elección o proposición sea moral.
 
