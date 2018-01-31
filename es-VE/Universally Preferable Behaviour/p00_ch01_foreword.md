@@ -2,13 +2,13 @@
 
 En muchos cuentos de hadas, existe una terrible bestia de gran poder, un gran dragón o basilisco, que tiraniza las tierras a su alrededor. Los aldeanos locales tiemblan ante semejante monstruo, y, con la esperanza de apaciguar su instinto asesino, sacrifican animales y entregan dinero a modo de ofrenda.
 
-La mayoría de las personas se encogen bajo la sombra de esta bestia, llamando a su miedo "prudencia," pero algunos pocos – quizás borrachos en valentía o temeridad – deciden pelear. Año tras año, década tras década, ola tras hola de campeones esperanzados intentan igualar su fuerza, virtud y astucia ante este tirano terrible.
+La mayoría de los aldeanos se encogen del miedo a la sombra de esta bestia, refiriéndose a su temor como “prudencia”. Pero algunos, ebrios tal vez, de coraje o temeridad, optan por luchar. Año tras año, década tras década, oleada tras oleada de campeones esperanzados traten de medir su fuerza, virtud y astucia contra este funesto tirano.
 
-Prueban – y fallan.
+Intentan y fracasan una y otra vez.
 
-La bestia siempre es inmortal, así que los aldeanos no pueden esperar para que llegue el momento de librarse de su déspota. La bestia nunca es racional, y no tiene deseo de negociar, así que no hay negociación posible.
+La bestia siempre es inmortal, por lo que los aldeanos no pueden tener esperanzas de que llegue el momento librarse de su tiranía. La bestia nunca es racional, y no tiene intenciones de comerciar, así que no hay negociación que valga.
 
-La única esperanza de los desesperados aldeanos es que aparezca un hombre que pueda derrotar a la bestia.
+La única esperanza de los desesperados aldeanos es la aparición de un hombre que logre por fin derrotar a la bestia.
 
 Inevitablemente, un hombre da un paso al frente que impacta a todos como algo totalmente incongruente. Él es un chico estable, el hijo de un zapatero, un aprendiz de panadero – o a veces, sólo un vagabundo.
 
