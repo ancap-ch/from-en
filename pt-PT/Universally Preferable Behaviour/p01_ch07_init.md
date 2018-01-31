@@ -2,17 +2,17 @@
 
 Uma teoria moral razoável deve ser capaz de explicar todos os padrões universais anteriores, tal como uma teoria razoável da física deve ser capaz de explicar como um homem, inconscientemente, pode calcular o arco de uma bola de basebol lançada pelo ar e apanhá-la.
 
-If the framework of UPB can explain the above, then it will certainly have passed at least the “common sense” test.
+Se a estrutura do CUP consegue explicar o anterior, então certamente passou, pelo menos, o teste de "sentido comum".
 
-This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
+Isso não significa que algumas conclusões surpreendentes - mesmo chocantes - não possam resultar da nossa teoria moral, mas pelo menos teremos passado o primeiro obstáculo de explicar o óbvio, antes de analisar o que está longe de ser óbvio.
 
-With that in mind, let us turn to the question of *initiation*.
+Com isso em mente, passemos à questão de *iniciação*.
 
-A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
+Um cirurgião pode "cortá-lo" com um bisturi, mas podemos entender facilmente que a sua acção é muito diferente da de um assaltante que o faça com uma faca.
 
-This difference can be understood through a further analysis of *initiation*.
+Esta diferença pode ser entendida através de uma análise adicional de *iniciação*.
 
-If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+Se tiver cancro, pode pedir a um cirurgião para operá-lo. A razão pela qual o "corte" do cirurgião não é imoral é que o cancro "iniciou" um ataque à sua vida e saúde. O cirurgião age como um "agente substituto de defesa autónomo", como um homem que atira a um assaltante que o está a atacar. Você também deu o seu consentimento ao cirurgião e vinculou o seu comportamento por um contrato específico.
 
 The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
 
