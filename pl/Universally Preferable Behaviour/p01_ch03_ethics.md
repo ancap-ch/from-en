@@ -30,17 +30,17 @@ Etykę jako dyscyplinę można zdefiniować jako dowolną teorię dotyczącą pr
 
 As Hume famously pointed out, it is impossible to derive an “ought” from an “is.” What he meant by that was that *preference* in no way can be axiomatically derived from *existence*. It is true that a man who never exercises and eats poorly will be unhealthy. Does that mean that he “ought” to exercise and eat well? No. The “ought” is conditional upon the *preference*. If he wants to be healthy, he *ought* to exercise and eat well. It is true that if a man does not eat, he will die – we cannot logically derive from that fact a binding principle that he *ought* to eat. *If* he wants to live, then he *must* eat. However, his choice to live or not remains his own.
 
-Similarly, there is no such thing as a universally “better” direction – it all depends upon the preferred destination. If I want to drive to New York from San Francisco, I “ought” to drive east. If I want to drive into the ocean from San Francisco, I “ought” to drive west. Neither “east” nor “west” can be considered universally “better.”
+Podobnie, nie ma czegoś takiego, jak ogólnie "lepszy" kierunek - wszystko zależy od preferowanego celu. Jeśli chcę jechać do Nowego Jorku z San Francisco, "powinienem" jechać na wschód. If I want to drive into the ocean from San Francisco, I “ought” to drive west. Neither “east” nor “west” can be considered universally “better.”
 
-It is true that very few people *do* drive into the ocean, but that does not mean that it is universally true that nobody *ought* to drive into the ocean. Principles are not democratic – or, if they are, we once more face the problem of rank subjectivism, and must throw the entire concept of ethics out the window.
+It is true that very few people *do* drive into the ocean, but that does not mean that it is universally true that nobody *ought* to drive into the ocean. Zasady nie są demokratyczne - a jeśli tak, to jeszcze raz stajemy wobec problemu rangowego subiektywizmu i musimy wyrzucić całą koncepcję etyki przez okno.
 
-“Behaviour” exists in objective reality, outside our minds – the concepts “ought,” “should,” and “preference,” do not exist outside our minds. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
+"Zachowanie" istnieje w obiektywnej rzeczywistości, poza naszymi umysłami - pojęcia "powinniśmy" i "preferencje" nie istnieją poza naszymi umysłami. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
 
 ### Self-Defeating Arguments
 
 In order to begin our discussion of ethics, it is essential that we understand the nature of *self-defeating arguments*.
 
-In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. W matematyce teoria nie może być prawidłowa, jeśli wymaga dwóch + dwóch równa się pięciu, ponieważ "pięć" to tylko inny sposób opisu dwóch plus trzy, a nie dwa plus dwa, a więc powiedzieć, że dwa plus dwa równa się pięć to znaczy że pięć równa się czterem, co jest wewnętrznie sprzeczne.
+W ekonomii teoria nie może być ważna, jeśli wymaga jednoczesnego podnoszenia i obniżania cen. W fizyce teoria nie może być poprawna, jeśli wymaga ona, aby gazy rozszerzały się i kurczyły jednocześnie. W matematyce teoria nie może być prawidłowa, jeśli wymaga dwóch + dwóch równa się pięciu, ponieważ "pięć" to tylko inny sposób opisu dwóch plus trzy, a nie dwa plus dwa, a więc powiedzieć, że dwa plus dwa równa się pięć to znaczy że pięć równa się czterem, co jest wewnętrznie sprzeczne.
 
 Ogólnie rzecz biorąc, każda teoria, która zaprzecza samej sobie w wypowiedzeniu, nie może być prawidłowa. Nie wymaga zewnętrznego obalenia, ponieważ się obala. Nie musimy badać wszystkich zakamarków we wszechświecie, aby stwierdzić, że "kwadratowy okrąg" nie istnieje. Samo pojęcie jest wewnętrznie sprzeczne, a tym samym obala się w wypowiedzeniu.
 
