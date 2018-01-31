@@ -8,13 +8,13 @@ Nie oznacza to, że pewne zaskakujące - nawet szokujące - wnioski mogą nie wy
 
 With that in mind, let us turn to the question of *initiation*.
 
-A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
+Chirurg może "dźgnąć" cię skalpelem, ale możemy łatwo zrozumieć, że jego działanie jest zupełnie inne od rabusia, który dźga cię nożem.
 
-This difference can be understood through a further analysis of *initiation*.
+Różnicę tę można zrozumieć poprzez dalszą analizę *inicjacji*.
 
-If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. Chirurg działa jak "zastępcza agencja samoobrony", podobnie jak człowiek, który strzela do rabusia, który atakuje ciebie. Udzieliłeś także zgody chirurgowi i związujesz jego zachowanie konkretną umową.
+Jeśli zachorujesz na raka, możesz poprosić chirurga, aby Cię operował. Powód, dla którego "dźgnięcie" chirurga nie jest niemoralne, polega na tym, że rak "zainicjował" atak na twoje życie i zdrowie. Chirurg działa jak "zastępcza agencja samoobrony", podobnie jak człowiek, który strzela do rabusia, który atakuje ciebie. Udzieliłeś także zgody chirurgowi i związujesz jego zachowanie konkretną umową.
 
-The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
+Jednak oszust, który Cię dźgnął, inicjuje atak na twoje życie i zdrowie, dlatego jego atak jest moralnym *przeciwieństwem* wysiłków chirurga.
 
 Jeśli jestem palaczem przewlekłym i długoletnim, brałem udział w szeregu zdarzeń prowadzących do raka płuc. Inicjując i utrzymując nawyk palenia, uruchomiłem łańcuch przyczynowości, który może doprowadzić do zagrażającej życiu dolegliwości. Z całą pewnością mogę zapadać na raka płuc bez palenia - lub palić bez raka płuc - ale z pewnością wpłynęło to na szanse.
 
