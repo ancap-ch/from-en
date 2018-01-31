@@ -14,15 +14,15 @@ Thus in ethics, just as in science, mathematics, engineering and all other disci
 
 If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. Może istnieć jednak możliwość, że jestem masochistą i nie lubię lodów, i wolę torturować się swoim nieprzyjemnym gustem - a potem zmylić cię, twierdząc, że to lubisz.
 
 We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Odkładając na bok ambitne pytania wolnej woli i determinizmu, rozsądne jest założenie, że cokolwiek dana osoba robi w teraźniejszości, jest to, co "woli" robić. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+Biorąc pod uwagę, że ludzie mogą wykonywać niemal nieskończoną różnorodność działań, cokolwiek dana osoba robi w danym momencie, wybierane jest ze wszystkich innych możliwych opcji. I am choosing to write this book rather than, say, learning how to tango.
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+Kiedy zastosujemy ten prosty fakt do argumentów etycznych, otrzymujemy bardzo interesujące wyniki.
 
 ### Preferences And Arguments
 
@@ -54,7 +54,7 @@ If I choose to debate, I have implicitly accepted a wide variety of premises tha
 
 #### Premise 1: We Both Exist
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+If I choose to debate with you, then I necessarily must accept that we both exist. Jeśli wierzysz, że ja istnieję, ale ty nie, to debata nie ma sensu i byłaby działaniem szaleńca. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
 
 #### Premise 2: The Senses Have The Capacity For Accuracy
 
