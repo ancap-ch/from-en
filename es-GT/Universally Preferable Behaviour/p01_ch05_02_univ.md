@@ -45,18 +45,18 @@ El cuarto argumento para la validez del comportamiento universalmente preferible
 
 Por ejemplo, si la comida está disponible, casi todos los seres humanos prefieren comer todos los días. Cuando hace frío, casi todos los seres humanos buscan calor. Casi todos los padres escogen alimentar, dar refugio y educación a sus hijos. Hay muchos ejemplos de decisiones comunes en la humanidad, lo que indica que el comportamiento universalmente preferible es abundante y que es parte de la naturaleza humana.
 
-Como lo mencioné anteriormente, ninguna teoría de física válida puede repudiar el simple hecho de que los niños pueden atrapar batazos de aire – de la misma forma, ninguna teoría válida de ética puede rechazar la interminable evidencia para la aceptación del CUP.
+Como se menciona anteriormente, ninguna teoría valida puede descartar el simple hecho de que los niños pueden atrapar bolas en el aire- de la misma forma, ninguna teoría validad de ética puede rechazar la interminable evidencia para la aceptación de CUP.
 
 O:
 
 1. Las decisiones son casi infinitas.
-2. La mayoría de los seres humanos toma decisiones muy similares.
+2. La mayoría de los seres humanos tomas decisiones similares.
 3. Por lo tanto no todas las decisiones pueden ser iguales.
-4. Por lo tanto las decisiones universalmente preferibles deben ser válidas.
+4. Por lo tanto las decisiones universalmente preferibles deben ser validas.
 
 El quinto argumento para la validez del comportamiento universalmente preferible es evolutivo.
 
-Ya que toda la vida orgánica requiere de comportamiento preferencial para sobrevivir, podemos asumir que aquellos organismos que tomas las decisiones más exitosas son los que más a menudo son seleccionados para la supervivencia.
+Ya que toda la vida orgánica requiere de comportamientos preferibles para sobrevivir, podemos asumir que aquellos organismos que toman decisiones exitosas son los que mas a menudo son seleccionados para sobrevivir.
 
 Dado que el hombre es la especie más exitosa, y el órgano más distintivo del hombre es su cerebro, debe ser el *cerebro* humano el que lo ha ayudado más en tomar decisiones exitosas. La mente misma, entonces, ha sido seleccionada como exitosa por su propia habilidad de tomar decisiones exitosas. Dado que la mente humana existe solo como *resultado* de escoger comportamientos universalmente preferibles, el comportamiento universalmente preferible debe ser un concepto válido.
 
