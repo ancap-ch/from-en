@@ -19,7 +19,7 @@ discussions:
 more_infos:
   - 
     - https://www.google.com
-    - Website name
+    - Название сайта
 tags:
   - Some Tag
   - Another Tag
@@ -67,7 +67,7 @@ resources:
 targets:
   - 
     target: [ ]
-    name: article
+    name: статья
     reset_footer_active: false
     reset_footer_depth: 0
     clear_page_active: true
