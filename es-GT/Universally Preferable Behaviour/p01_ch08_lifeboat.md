@@ -46,9 +46,9 @@ En argumentos éticos, si se me pregunta si prefiero robar una manzana que morir
 2. Por ello todo el mundo universalmente prefiere robar manzanas a la muerte por inanición.
 3. Por lo tanto, es *universalmente preferible* robar manzanas que morir de hambre.
 4. Por consiguiente sobrevivir es universalmente preferible a los derechos de propiedad.
-5. Por lo tanto, lo que es bueno para el individuo es el estándar moral máximo.
+5. Por ende lo que es bueno para el individuo es la pauta moral definitiva.
 
-Esto se ha utilizado como base para una serie de teorías y enfoques éticos, desde Nietzsche hasta Rand. La preferencia de cada individuo por la supervivencia se traduce en teorías éticas que colocan a la supervivencia del individuo en su centro. [^11]
+Esto ha sido usado como la base para numerosas teorías éticas y enfoques, desde Nietzsche hasta Rand. La preferencia de cada uno de los individuos para sobrevivir se traduce a las teorías éticas que sitúan la supervivencia del individuo en su centro. [^11]
 
 Este tipo de "hedonismo biológico" puede ser una descripción del "impulso para sobrevivir", pero solo es correcto en la medida en que describe lo que las personas realmente * hacen *, no lo que * deberían </0 > hacer.</p> 
 
