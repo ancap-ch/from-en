@@ -6,4 +6,4 @@ In the same way, the UPB framework, and the moral rules that it validates or rej
 
 If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
 
-Thus let us begin applying this framework to the world that we live in, and see what value comes out of it.
+Así permíenos iniciar la aplicación de esta estructura al mundo en el que vivimos y observar que valores salen de eso.
