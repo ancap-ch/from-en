@@ -6,21 +6,21 @@ Similarly, if an engineer submits a plan for a bridge, the first criterion that 
 
 Byłoby nielogiczne - nie wspominając już o wysoce nieproduktywnym - zbudowanie mostu z przypadkowych materiałów, za pomocą losowych "obliczeń", aby dowiedzieć się, czy będzie on trwał. Ponieważ prawa fizyczne są spójne i uniwersalne, stosunkowo łatwo jest ustalić, czy most będzie * przed </ 0> budowaniem go.</p> 
 
-Istnieją dwa sposoby określenia żywotności mostu przed jego zbudowaniem. Pierwszym jest poszukiwanie wewnętrznej niespójności wewnątrz lokali i obliczeń, które twierdzą, że wspierają rentowność mostu. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+Istnieją dwa sposoby określenia żywotności mostu przed jego zbudowaniem. Pierwszym jest poszukiwanie wewnętrznej niespójności wewnątrz lokali i obliczeń, które twierdzą, że wspierają rentowność mostu. Jeśli wystąpią znaczące błędy w obliczeniach uzasadniających wagę, jaką most może obsłużyć, wówczas most będzie prawdopodobnie przeprojektowany lub niedostatecznie zaprojektowany. Jeśli błędne obliczenia matematyczne dadzą siłę o wartości minus pięćdziesiąt ton na stopę kwadratową w dowolnej części mostu, to z pewnością nie wytrzyma - lub, jeśli tak się stanie, jej żywotność będzie tylko przypadkowa i nie da się powtórzyć.
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+Obliczenia matematyczne wspierające rentowność mostu muszą zatem być wewnętrznie spójne, zanim zostaną wzięte pod uwagę inne względy.
 
-In computer terms, code that does not compile cannot be tested.
+W kategoriach komputerowych kod, który nie kompiluje, nie może być testowany.
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Dotyczy to również świata nauki. Teorie są zawsze sprawdzane pod kątem wewnętrznej spójności, zanim zostaną poddane testom empirycznym. Powód, dla którego wewnętrzna spójność jest tak istotna, jest taki, że skoro teorie twierdzą, że mają wartość w stosunku do rzeczywistości, a rzeczywistość jest wewnętrznie spójna, każda teoria, która jest * nie </ 0> wewnętrznie spójna, nie może mieć wartości w stosunku do rzeczywistości.</p> 
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+Tylko * po </ 0> została ustalona wewnętrzna spójność obliczeń, można sprawdzić stopień, w jakim most spełnia specyfikacje. Można napisać wewnętrznie spójne specyfikacje dla maleńkiego mostu zbudowanego w całości z drewna balsy, ale jeśli inżynier nie napisze artykułu do modelu magazynu szynowego, jego specyfikacja, choć konsekwentna, nie spełni żadnych wymagań przemysłowych.</p> 
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+Kiedy już ustalimy, że most się zawiesi, możemy określić, czy spełnia on nasze specyficzne potrzeby, takie jak wspieranie masy pieszych w stosunku do pociągów.
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+W dziedzinie ekonomii obowiązuje to samo kryterium. Jeśli moja teoria ekonomiczna wymaga jednoczesnego podnoszenia i obniżania cen, nie może być ona ważna, ponieważ jest to niemożliwe. Gdy moja teoria zostanie sprawdzona pod kątem wewnętrznej spójności, mogę zacząć szukać dowodów i / lub zacząć stosować moją teorię, aby robić proaktywne prognozy.
 
-Thus, we can see that any theory, to be valid, requires the following:
+Widzimy więc, że każda teoria, aby była ważna, wymaga:
 
 1. Internal consistency (logic).
 2. External consistency (testability).
