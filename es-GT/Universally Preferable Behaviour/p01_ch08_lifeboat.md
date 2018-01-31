@@ -23,10 +23,10 @@ Por alguna perversa razón, los intelectuales en particular se regocijan en la i
 En el reino de las "áreas grises" hay realmente solo tres posibilidades.
 
 1. No existe tal cosa como las áreas grises.
-2. Ciertas áreas grises existen.
-3. Todo el conocimiento es un área gris.
+2. Algunas áreas grises sí existen.
+3. Todo conocimiento es un área gris.
 
-Claramente, la opción uno puede descartarse fácilmente. La opción tres también es bastante fácil de descartar. La afirmación "todo conocimiento es un área gris" es una proposición que se auto-detona, como hemos visto anteriormente, del mismo modo que "todas las afirmaciones son mentiras" también se auto-detona.
+Claramente, la opción uno puede ser fácilmente descartada. Opción tres es también es bastante fácil de descartar. La afirmación "todo conocimiento es un área gris" es una proposición que se auto-detona, como hemos visto anteriormente, del mismo modo que "todas las afirmaciones son mentiras" también se auto-detona.
 
 Por lo tanto, debemos ir con la opción dos, que es que existen ciertas áreas grises, y sabemos que son grises en relación con las áreas que no son grises. El oxígeno existe en el espacio, y también bajo el agua, pero no en una forma o cantidad humana los seres pueden consumir. El * grado * de oxigenación es un área gris, es decir, "menos versus más"; la cuestión de si los seres humanos pueden o no respirar agua seguramente es blanco y negro.
 
