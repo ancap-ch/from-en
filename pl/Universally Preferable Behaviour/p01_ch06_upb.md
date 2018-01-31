@@ -11,9 +11,9 @@ Chociaż najpierw skupiliśmy się na UPB w dziedzinie etyki, UPB można teraz p
 - Language
 - Ethics
 
-Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Każda teoria, która usprawiedliwia lub zaprzecza użyciu przemocy, jest teorią *moralną* i podlega wymaganiom logicznej spójności i dowodów empirycznych.
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+Spójrzmy na trzy działania, które pomogą nam dalej rozróżniać etykę od estetyki. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
 
 ### Irrationality
 
