@@ -56,11 +56,11 @@ Lo que también introduce a un completo subjetivismo no científico a la cuesti�
 
 También, si yo puedo hacer más dinero como un sicario que como un comerciante, ¿No debería perseguir la violencia como una carrera? Con seguridad aumenta *mi* supervivencia... y así sucesivamente.
 
-As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
+Como podemos observar, la introducción de "lo que es bueno para el hombre en abstracto -o lo que la mayoría de la gente hace- es lo que es universalmente preferible" destruye el verdadero concepto mismo de la moralidad como una teoría lógica consistente, y sustituye meros impulsos biológicos como justificaciones del comportamiento. Es una explicación del comportamiento, no una teoría moral propuesta.
 
-### The Purpose And The Dangers
+### El Propósito y los Peligros
 
-With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+Con tu indulgente paciencia, una última pregunta tiene que ser formulada antes de precipitarse a una definición y probar como varias proposiciones morales entran en el marco de CUP. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
 
 In other words, before we plunge on, it is well worth asking the question: “Why bother?”
 
