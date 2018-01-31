@@ -16,9 +16,9 @@ Jak wspomniano powyżej, propozycje dotyczące preferowanych zachowań powszechn
 
 W idealnej sytuacji powinniśmy być w stanie sprowadzić je do dwóch kategorii - ogólnie preferowanych i pozytywnych pod względem estetycznym - poprzez zdefiniowanie naszych propozycji etycznych, aby to, co jest powszechnie zakazane, było po prostu lustrzanym odbiciem tego, co jest powszechnie preferowane, i porzucaniem jedynie osobistych preferencji i neutralności. działania niezwiązane z dyskusją na temat etyki.
 
-Na przykład, zasada nieagresji (NAP) stwierdza, że inicjacja użycia siły jest niemoralna - w związku z tym nieinicjowanie użycia siły jest powszechnie preferowane, podczas gdy inicjacja użycia siły jest powszechnie zakazana. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
+Na przykład, zasada nieagresji (NAP) stwierdza, że inicjacja użycia siły jest niemoralna - w związku z tym nieinicjowanie użycia siły jest powszechnie preferowane, podczas gdy inicjacja użycia siły jest powszechnie zakazana. Jeśli to, co jest zabronione, jest po prostu przeciwieństwem tego, co jest lepsze, naprawdę nie ma potrzeby dodawania dodatkowej kategorii.
 
-Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+Ponadto, jako filozofowie moralni, musimy nadać priorytet naszym badaniom nad etyką racjonalną, koncentrując się na najbardziej rażących naruszeniach. Najwyraźniej najbardziej niemoralne działania muszą polegać na brutalnym egzekwowaniu niesprawiedliwych preferencji wobec innych. Jeśli działania takie jak "kradzież" lub "zabójstwo" są zdefiniowane jako UPB, badanie takich definicji musi być naszym najwyższym priorytetem.
 
 Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
 
