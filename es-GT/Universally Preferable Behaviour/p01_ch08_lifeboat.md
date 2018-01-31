@@ -8,9 +8,9 @@ En el mundo real, sería una persona asombrosamente insensible para presentar ca
 
 Esto no quiere decir que romper una ventana para salvar tu vida no esté mal. Lo está, pero es un mal que muchos estaríamos dispuestos a cometer antes que morir. Si yo estuviera a punto de morir por inanición, yo robaría una manzana. Esto no significa que sea *correcto* para mí robar la manzana -solo significa que lo haría- y que debo aceptar justamente las consecuencias de mi hurto. [^10]
 
-### Zonas Grises
+### Áreas Grises
 
-El hecho de que ciertas "áreas grises" existen en el ámbito de la ética a menudo se ha utilizado como una justificación para el relativismo de rango. Dado que en algunas ocasiones algunas cosas no están claras (por ejemplo, quién inició el uso de la violencia), y dado que es imposible definir reglas objetivas y exactas para cada situación concebible, a menudo se llega a la conclusión de que nada * alguna vez * conocido con certeza, y que no existen reglas objetivas para * ninguna * situación.
+El hecho de que algunas "áreas grises" existan en el reino de la ética ha sido usado con frecuencia como justificación para clasificar el relativismo. Ya que en ocasiones algunas cosas se mantienen ambiguas (p.ej. quien inició el uso de la violencia), y ya que es imposible de definir objetivamente y reglas exactas para cada situación concebible, la conclusión a menudo es decir que nada puede *nunca* saberse con seguridad, y que no existen reglas objetivas para *ninguna* situación.
 
 Esto es falso.
 
