@@ -2,7 +2,7 @@
 
 En muchos cuentos de hadas, existe una terrible bestia de gran poder, un gran dragón o basilisco, que tiraniza las tierras a su alrededor. Los aldeanos locales tiemblan ante semejante monstruo, y, con la esperanza de apaciguar su instinto asesino, sacrifican animales y entregan dinero a modo de ofrenda.
 
-La mayoría de los aldeanos se encogen del miedo a la sombra de esta bestia, refiriéndose a su temor como “prudencia”. Pero algunos, ebrios tal vez, de coraje o temeridad, optan por luchar. Año tras año, década tras década, oleada tras oleada de campeones esperanzados traten de medir su fuerza, virtud y astucia contra este funesto tirano.
+La mayoría de los aldeanos se encogen del miedo a la sombra de esta bestia, refiriéndose a su temor como "prudencia". Pero algunos, ebrios tal vez, de coraje o temeridad, optan por luchar. Año tras año, década tras década, oleada tras oleada de campeones esperanzados traten de medir su fuerza, virtud y astucia contra este funesto tirano.
 
 Intentan y fracasan una y otra vez.
 
@@ -10,11 +10,11 @@ La bestia siempre es inmortal, por lo que los aldeanos no pueden tener esperanza
 
 La única esperanza de los desesperados aldeanos es la aparición de un hombre que logre por fin derrotar a la bestia.
 
-Inevitablemente, un hombre da un paso al frente que impacta a todos como algo totalmente incongruente. Él es un chico estable, el hijo de un zapatero, un aprendiz de panadero – o a veces, sólo un vagabundo.
+Inevitablemente, un hombre que nadie cree capaz de semejante hazaña da un paso adelante. Es un mozo de cuadra, el hijo de un zapatero, un aprendiz de panadero, o a veces, solo un vagabundo.
 
-Este libro es la historia de mi asalto personal a tal bestia.
+Este libro es la historia de mi ataque personal a tal bestia.
 
-Esta "bestia" es la creencia de que es imposible definir un sistema ético científico, objetivo, racional y secular. Esta "bestia" es la ilusión de que la moralidad debe siempre estar perdida en los pantanos irracionales de dioses y gobiernos, exigida por razones meramente pragmáticas, pero siempre sin justificación lógica o una definición clara. Esta "bestia" es la fantasía de que la virtud, nuestra mayor alegría, nuestra más profunda felicidad, debe ser siempre dejada de lado por adultos seculares, y dejada en el polvo para ser barrida, desfilada y explotada por políticos y curas – y padres. Esta "bestia" es la superstición de que, sin las diatribas de los padres, el acoso de los dioses o las armas de los gobiernos, no podemos ser tanto racionales como buenos.
+Esta "bestia" es la creencia de que es imposible definir un sistema de ética objetivo, racional, secular y científico. Esta "bestia" es la ilusión de que la moralidad debe perderse para siempre en el pantano irracional de los dioses y los gobiernos, y que, debe ser impuesta por razones meramente pragmáticas, pero carente de justificación lógica y definición precisa. Esta "bestia" es la fantasía de que la virtud, nuestra mayor alegría, nuestra más profunda felicidad, debe ser siempre dejada de lado por adultos seculares, y dejada en el polvo para ser barrida, desfilada y explotada por políticos y curas – y padres. Esta "bestia" es la superstición de que, sin las diatribas de los padres, el acoso de los dioses o las armas de los gobiernos, no podemos ser tanto racionales como buenos.
 
 Esta bestia ha sido estudiada por muchos héroes, de Sócrates a Platón, a Augustine, a Hume, a Kant, a Rand.
 
