@@ -14,11 +14,11 @@ Inévitablement, un homme fait un pas en avant qui a un impact sur tout le monde
 
 Ce livre est l'histoire de mon assaut personnel sur une telle bête.
 
-Cette "bête" est la croyance qu'il est impossible de définir un système éthique scientifique, objectif, rationnel et laïque. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Cette "bête" est la croyance qu'il est impossible de définir un système éthique scientifique, objectif, rationnel et laïque. Cette "bête" est l'illusion que la moralité doit toujours être perdue dans les marais irrationnels des dieux et des gouvernements, exigés pour des raisons purement pragmatiques, mais toujours sans justification logique ni définition claire. Cette "bête" est le fantasme que la vertu, notre plus grande joie, notre bonheur le plus profond, doit toujours être mis de côté par les adultes laïques, et laissé dans la poussière pour être balayé, défilé et exploité par les politiciens et les prêtres – et les parents . Cette «bête» est la superstition que, sans les diatribes des parents, le harcèlement des dieux ou les armes des gouvernements, nous ne pouvons être à la fois rationnels et bons.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Cette bête a été étudiée par de nombreux héros, de Socrate à Platon, à Augustin, à Hume, à Kant, à Rand.
 
-The cost to mankind has been enormous.
+Le coût pour l'humanité a été énorme.
 
 Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
 
