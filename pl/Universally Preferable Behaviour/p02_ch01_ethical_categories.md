@@ -36,4 +36,4 @@ Wyraźnie nieobecne na powyższej liście są tradycyjne cnoty, takie jak odwaga
 
 Może się wydawać, że te cnoty powinny wpaść w sferę estetycznie pozytywnych zachowań, takich jak bycie na czas, ale ja za jednym mam zbyt wielki szacunek dla tradycyjnych cnót, aby umieścić je w tej samej kategorii, co namiętności społeczne. The reason that they cannot be placed into the category of universally preferable is that, as we mentioned above, the framework of UPB only deals with *behaviours*, not with attitudes, thoughts, states of mind or emotions. Metoda naukowa może przetworzyć logiczną propozycję; nie może przetwarzać "gniewu" czy "nieroztropności". Te stany umysłu nie są oczywiście nieważne - w rzeczywistości są one niezbędne - ale nie mogą być częścią żadnego obiektywnego systemu oceny twierdzeń etycznych, ponieważ są one zasadniczo subiektywne - i dlatego nie do udowodnienia - stany istnienia.
 
-Thus UPB can only deal with objectively verifiable actions such as murder, assault and so on.
+Zatem UPB może zajmować się tylko obiektywnie weryfikowalnymi działaniami, takimi jak morderstwo, napaść i tak dalej.
