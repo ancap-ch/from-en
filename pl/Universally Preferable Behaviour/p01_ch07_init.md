@@ -28,7 +28,7 @@ A moral rule is often proposed called the *non-aggression principle*, or NAP. Je
 
 When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
 
-- The initiation of the use of force is always morally wrong.
+- Wszczęcie użycia siły jest zawsze moralnie złe.
 - The initiation of the use of force is sometimes morally wrong.
 - The initiation of the use of force is never morally wrong.
 - The initiation of the use of force has no moral content.
