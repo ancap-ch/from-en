@@ -20,7 +20,7 @@ Sin embargo, al igual que la física einsteiniana proporcionó verdades sorprend
 
 Si digo que algo es "moralmente bueno" - en otras palabras, si propongo una teoría ética - entonces claramente estoy argumentando que los seres humanos *deberían* actuar de una manera particular, o *evitar* actuar de una manera particular.
 
-Si le digo a mi hijo que él *debería* convertirse en un jugador de béisbol solo porque yo quiero, no estoy declarando una premisa moral universal, sino una preferencia personal. Él no es *moral* si se convierte en un jugador de béisbol, y tampoco es *inmoral* si no lo hace.
+Si le digo a mi hijo que él *debería* convertirse en jugador de béisbol sólo porque yo quiera, no estoy afirmando una premisa moral universal, sino más bien una preferencia personal. No es *moral* si se convierte en jugador de béisbol, y tampoco lo es *immoral* si no lo hace.
 
 Sin embargo, si le digo que es *moral* que los hijos obedezcan a sus padres, e *inmoral* que desobedezcan a sus padres, entonces estoy proponiendo una preferencia que es universal, en lugar de una meramente personal – y estoy tratando de convertir una "pequeña verdad" (*Yo quiero que te conviertas en un jugador de béisbol*) en una "gran verdad" (*es inmoral que los hijos desobedezcan a sus padres*). *Si* él desea ser moral, él *debe* convertirse en un jugador de béisbol – no porque convertirse en un jugador de béisbol sea moral, sino porque obedecer a su padre es moral.
 
