@@ -14,7 +14,7 @@ En otras palabras, los sentidos dan lugar a la lógica - por lo tanto, la lógic
 
 De manera similar, cualquier teoría ética válida debería ser capaz de explicar y justificar nuestra repugnancia común hacia crímenes como el asesinato y la violación. No puede contradecir razonablemente las prohibiciones universales de la humanidad, si no que debe incorporarlas y explicarlas con precisión.
 
-Sin embargo, tal como la física Einsteiniana provee verdades sorprendentes – de hecho, habría sido de poco valor si esas verdades *no* fuesen sorprendentes – las teorías éticas proveen el mayor valor cuando también revelan verdades sorprendentes – impactantes, incluso. De hecho, las teorías éticas que no provean verdades sorprendentes serían una mera confirmación de las preferencias instintivas existentes, y por ello de poco valor.
+Sin embargo, al igual que la física einsteiniana proporcionó verdades sorprendentes - de hecho, habría sido de poco valor si esas verdades hubieran sido *no*sorprendentes - las teorías éticas proporcionan el mayor valor cuando también revelan verdades sorprendentes - incluso, escandalosas. De hecho, las teorías éticas que no provean verdades sorprendentes serían una mera confirmación de las preferencias instintivas existentes, y por ello de poco valor.
 
 ### La Disciplina De La Ética Teórica
 
