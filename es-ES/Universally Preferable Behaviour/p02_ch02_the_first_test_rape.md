@@ -70,7 +70,7 @@ Si "estar a tiempo" es una APA, entonces es posible para dos personas, lograrlo 
 
 Sin embargo, con la violación, como hemos visto arriba, es imposible que dos personas la lleven a cabo al mismo tiempo. Una siempre tiene que ser el violador, y la otra siempre la víctima.
 
-On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
+Por otro lado, si yo digo que el "gusto por el jazz" es una APA, entonces inmediatamente me tropiezo con una imposibilidad lógica. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
 
 Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
 
