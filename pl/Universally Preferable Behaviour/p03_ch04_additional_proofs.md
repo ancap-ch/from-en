@@ -24,7 +24,7 @@ Ponieważ wszelkie metodologie nabycia wiedzy muszą być uniwersalne, spójne i
 
 ### Publiczna Edukacja
 
-One central principle of free market economics is that quality only really results from *voluntarism*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
+Jedną centralną zasadą ekonomii wolnorynkowej jest to, że jakość tak naprawdę wynika jedynie z *dobrowolności*. Coercion, fundamentally, is inefficient – violence always results in poor quality. Piekarnie w starym radzieckim stylu nigdy nie miały dobrego chleba; mężczyzna który bije swoją żonę nigdy nie będzie miał szczęśliwego małżeństwa.
 
 The initiation of the use of force is always counter to any rational moral theory – it is a specific and explicit violation of UPB. Since public schools are funded through the initiation of the use of force, they are a form of *forced association*, which is a clear violation of the *freedom of association* validated by UPB.
 
