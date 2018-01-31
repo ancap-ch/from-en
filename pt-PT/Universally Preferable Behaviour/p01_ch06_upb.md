@@ -85,4 +85,4 @@ Há um fenómeno conhecido como "morte pela polícia", em que as pessoas suicida
 
 Será que a estrutura do CUP nos pode ajudar a entender, classificar e ampliar esses padrões morais?
 
-[^9]: Please note that the examples below are not proofs, but rather situations that a valid ethical theory should be able to encompass and explain. We will get to the actual proofs shortly.
+[^9]: Observe que os exemplos abaixo não são provas, mas sim situações que uma teoria ética válida poderia abranger e explicar. Chegaremos às provas reais em breve.
