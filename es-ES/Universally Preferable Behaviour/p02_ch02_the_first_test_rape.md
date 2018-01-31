@@ -66,7 +66,7 @@ Una APA es una*regla no coercitiva que puede ser racionalmente aplicada a ambas 
 
 Por ejemplo, si mi APA es:"llegar a tiempo",, entonces puede ser una norma universal que puede ser totalmente evitada. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
 
-If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
+Si "estar a tiempo" es una APA, entonces es posible para dos personas, lograrlo simultaneamente- Si ambos están a tiempo.
 
 With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
 
