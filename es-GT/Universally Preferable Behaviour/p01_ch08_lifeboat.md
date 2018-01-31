@@ -50,7 +50,7 @@ En argumentos éticos, si se me pregunta si prefiero robar una manzana que morir
 
 Esto ha sido usado como la base para numerosas teorías éticas y enfoques, desde Nietzsche hasta Rand. La preferencia de cada uno de los individuos para sobrevivir se traduce a las teorías éticas que sitúan la supervivencia del individuo en su centro. [^11]
 
-Este tipo de "hedonismo biológico" puede ser una descripción del "impulso para sobrevivir", pero solo es correcto en la medida en que describe lo que las personas realmente * hacen *, no lo que * deberían </0 > hacer.</p> 
+Este tipo de "hedonismo biológico" puede ser una descripción de el "deseo de sobrevivir" pero solo es correcto en la medida de que describe lo que las personas en realidad *hacen*, no lo que *deberían* hacer.
 
 También introduce un subjetivismo completamente anticientífico a la cuestión de la moralidad. Por ejemplo, si es moralmente permisible robar comida cuando te mueres de hambre, ¿cuánta comida puedes robar? ¿Cuán hambriento tienes que ser? ¿Puedes robar comida que no sea nutritiva? ¿Qué tan nutritivo debe ser el alimento para justificar el robo? ¿Cuánto tiempo después de robar una comida se le permite robar otra comida? ¿Se le permite robar comidas en lugar de buscar trabajo o apelar a la caridad?
 
