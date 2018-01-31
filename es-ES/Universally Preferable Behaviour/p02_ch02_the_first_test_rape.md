@@ -102,9 +102,9 @@ Como se discutió arriba, una violación no puede ser una acción moralmente neu
 
 Tal vez la violación es una acción *personalmente negativa*, lo contrario del número tres. Como un ejemplo, un criminal en fuga consideraría la captura una acción personalmente negativa (PNA).
 
-Personally negative actions (PNAs) by definition cannot be enforced upon another. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
+Acciones personalmente negativas (PNAs) por definición no pueden ser aplicadas a otro. Así, un hombre siendo violado estaría equivocado al "infligir" su preferencia por *no ser violado* a su violador, en forma de autodefensa. De esta manera, la iniciación de violencia - la aplicación de una preferencia personal - es *moral*, mientras que la autodefensa - también la aplicación de una preferencia personal - es inmoral. De este modo, tendríamos las mismas acciones (la aplicación de una preferencia personal) clasificadas tanto moral como inmoral, lo que no se puede entender.
 
-### Aesthetically Negative
+### Estéticamente Negativa
 
 Perhaps rape is an aesthetically *negative* action, like “being late” – the flip-side of number two above. However, aesthetically negative actions (ANAs) cannot logically be violently enforced *because by definition they can be avoided*. Since I can freely choose to stop associating with a man who continually shows up late, I cannot shoot him for being late.
 
