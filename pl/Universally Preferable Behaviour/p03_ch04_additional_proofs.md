@@ -4,7 +4,7 @@ There are other additional proofs that we can bring to bear on the question of u
 
 ### Ekonomia Wolnorynkowa
 
-A free-market economy is without a doubt the most efficient and wealth-producing method of organising the production and consumption of goods and resources within society. Its material success is without equal in human history, or across the world.
+A free-market economy is without a doubt the most efficient and wealth-producing method of organising the production and consumption of goods and resources within society. Jej materialny sukces nie ma sobie równych w historii ludzkości ani na całym świecie.
 
 The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
 
