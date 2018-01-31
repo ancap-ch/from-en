@@ -2,19 +2,19 @@
 
 Since ethics is a subject that we all have opinions about already, it is important to outline the relationship between *instinctual* ethics and *rational* ethics.
 
-A baseball player can catch a fly ball even if he knows nothing about physics. Similarly, we can correctly perceive an action as immoral even if we know nothing about ethical theories.
+Gracz baseballu może złapać muchę, nawet jeśli nie wie nic o fizyce. Podobnie, możemy poprawnie postrzegać działanie jako niemoralne, nawet jeśli nic nie wiemy o teoriach etycznych.
 
-If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
+If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. Moje instynktowne zrozumienie nie daje mi jednak możliwości precyzyjnego wystrzelenia statku kosmicznego na orbitę Jowisza. Mam natychmiastową "małą prawdę" - jak porusza się piłka - ale to nie daje mi uniwersalnej "wielkiej prawdy" - jak zachowuje się materia.
 
-In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
+W ten sam sposób nasz powszechny moralny odraza wobec działań takich jak gwałt i morderstwo niekoniecznie jest niedokładny, ale nie daje nam możliwości tworzenia lub potwierdzania spójnych i empirycznych teorii moralnych.
 
-If I propose a scientific theory that completely invalidates a baseball player’s ability to catch a fly ball, then I have the insurmountable challenge of explaining how the baseball player actually *does* catch the ball. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
+If I propose a scientific theory that completely invalidates a baseball player’s ability to catch a fly ball, then I have the insurmountable challenge of explaining how the baseball player actually *does* catch the ball. Ponadto, jeśli moja wielka teoria nie jest w stanie precyzyjnie przewidzieć łuku kulki muchowej, mam "wielką prawdę", która wprost zaprzecza "małej prawdzie", która nie może być prawidłowa. Ponieważ konieczność logicznej spójności wynika bezpośrednio z "małych prawd" doświadczenia percepcyjnego, żadna teoria, która bezpośrednio nie zaprzecza takim doświadczeniom, nie może być słuszna.
 
-In other words, the senses give rise to logic – therefore logic cannot contradict the evidence of the senses. Evidence always trumps explanation.
+Innymi słowy, zmysły dają początek logice - zatem logika nie może zaprzeczyć dowodom zmysłów. Dowody zawsze podważają wyjaśnienie.
 
-In a similar manner, any valid ethical theory should be able to explain and justify our common revulsion towards crimes such as murder and rape. It cannot reasonably contradict the universal prohibitions of mankind, but must accurately incorporate and explain them.
+W podobny sposób każda ważna teoria etyczna powinna być w stanie wyjaśnić i uzasadnić nasz wspólny odraza wobec przestępstw takich jak morderstwo i gwałt. Nie może racjonalnie zaprzeczyć powszechnym zakazom ludzkości, ale musi je dokładnie włączyć i wyjaśnić.
 
-However, just as Einsteinian physics provided surprising truths – in fact, it would have been of little value if those truths were *not* surprising – ethical theories provide the most value when they also reveal surprising truths – shocking, even. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
+Jednakże, tak jak fizyka Einsteina dostarczyła zaskakujących prawd - w rzeczywistości byłoby mało wartości, gdyby te prawdy nie były </ strong> zaskakujące - teorie etyczne zapewniają największą wartość, gdy ujawniają także zaskakujące prawdy - szokujące, nawet. W rzeczywistości teorie etyczne, które nie dostarczały zaskakujących prawd, byłyby jedynie potwierdzeniem istniejących instynktownych preferencji, a zatem miałyby niewielką wartość.
 
 ### The Discipline Of Theoretical Ethics
 
