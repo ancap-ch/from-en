@@ -28,9 +28,9 @@ No podemos vivir sin moral, pero no podemos definir la moral de forma objetiva, 
 
 Intelectualmente hablando, no existe una hay apuesta más alta. nuestro fracaso para definir normas morales y objetivas y racionales nos ha costado cientos de millones de vidas humanas, en guerras religiosas y de estados.
 
-En muchas formas, las apuestas se están volviendo más elevadas.
+En muchas formas, las apuestas se están volviendo aún más elevadas.
 
-El creciente flujo de información del Internet ha elevado las sospechas a las nuevas generaciones de que aquello que llamamos "virtud" no es nada más – o menos – que cuentos de hadas autocomplacientes de sus ancestros hipócritas. Las mentiras piadosas dichas por aquellos con autoridad – y la complicidad de aquellos que los veneran – son más claras ahora que nunca antes.
+El creciente flujo de información del Internet, ha generado sospechas en una nueva generación de que aquello que llamamos la "virtud" no es más un cuento de hadas de sus ancestros hipócritas. Las mentiras piadosas esparcidas por aquellos con autoridad, y la complacencia de aquellos que los veneran, son más claras que nunca.
 
 La "verdad" ha sido expuesta como manipulación; la "virtud" como control; la "lealtad" como esclavitud, y lo que es llamado "moralidad" ha sido revelado como una ridículo espectáculo de marionetas diseñado para engañar a la gente débil y temerosa para esclavizarse a sí mismos.
 
