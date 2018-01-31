@@ -60,13 +60,13 @@ Como podemos observar, la introducción de "lo que es bueno para el hombre en ab
 
 ### El Propósito y los Peligros
 
-Con tu indulgente paciencia, una última pregunta tiene que ser formulada antes de precipitarse a una definición y probar como varias proposiciones morales entran en el marco de CUP. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+Con tu indulgente paciencia, una última pregunta tiene que ser formulada antes de precipitarse a una definición y probar como varias proposiciones morales entran en el marco de CUP. En vista de que el trabajo más duro está por seguir, debemos tomar un descanso por un momento y recordarnos a nosotros mismos por qué nos estamos haciendo pasar a través de todo ésta dificultad y rigor.
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+En otras palabras, antes de precipitarnos, de verdad vale la pena hacer la pregunta: "¿Por qué molestarse?"
 
-Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+¿Por qué molestarse en desafiar las teorías éticas? Ciertamente las buenas personas no las necesitan, y las malas personas no las consultan. Las personas harán lo que ellos prefieran, y solo inventarán justificaciones al necesitarlas luego de los hechos - ¿Por qué *molestarse* enseñándole a las personas sobre moralidad?
 
-Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
+Por supuesto, siempre existe el peligro de que una persona inmoral te ataque por sus propios propósitos hedonistas. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
 
 [^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
 
