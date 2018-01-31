@@ -2,19 +2,19 @@
 
 Dans beaucoup de contes de fées, il vit une bête terrible de puissance extraordinaire, un dragon ou un basilic, qui tyrannise les terres environnantes. Les villageois locaux tremblent devant ce monstre; Ils sacrifient leurs animaux, payent de l'argent et du sang dans l'espoir d'apaiser leurs pulsions meurtrières.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+La plupart des gens se rétrécissent à l'ombre de cette bête, qualifiant leur peur de "prudence", mais quelques-uns – peut-être ivres de courage ou d'imprudence – décident de se battre. Année après année, décennie après décennie, les champions de l'espoir tentent d'associer leur force, leur vertu et leur ruse à ce terrible tyran.
 
-Try – and fail.
+Ils testent – et ils échouent.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+La bête est toujours immortelle, donc les villageois ne peuvent pas attendre le moment de se débarrasser de leur despote. La bête n'est jamais rationnelle et n'a aucun désir de négocier, donc il n'y a pas de négociation possible.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Le seul espoir des villageois désespérés est de faire apparaître un homme capable de vaincre la bête.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Inévitablement, un homme fait un pas en avant qui a un impact sur tout le monde comme quelque chose de totalement incongru. Il est un garçon d'écurie, le fils d'un cordonnier, un apprenti boulanger – ou parfois, juste un clochard.
 
-This book is the story of my personal assault on just such a beast.
+Ce livre est l'histoire de mon assaut personnel sur une telle bête.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Cette "bête" est la croyance qu'il est impossible de définir un système éthique scientifique, objectif, rationnel et laïque. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
 
 This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
 
