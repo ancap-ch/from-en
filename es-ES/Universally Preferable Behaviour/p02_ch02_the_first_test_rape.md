@@ -50,11 +50,11 @@ Si decimos que APAs pueden ser reforzadas a través de la violencia, entonces es
 
 Si proponemos una regla moral que la iniciación de la violencia es moralmente buena, entonces esta regla enfrenta todas las mismas imposibilidades como la regla de que "la violación es moralmente buena"
 
-Dos hombres en una habitación no puedes ambos ser moralmente buenos al mismo tiempo, ya que uno de ellos debe iniciar la violencia contra el otro, y el otro debe resistirlo - ya que sino lo esta resistiendo, es por definición no violencia, como es en el caso de un cirujano como discutimos arriba. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+Dos hombres en una habitación no puedes ambos ser moralmente buenos al mismo tiempo, ya que uno de ellos debe iniciar la violencia contra el otro, y el otro debe resistirlo - ya que sino lo esta resistiendo, es por definición no violencia, como es en el caso de un cirujano como discutimos arriba. Por lo tanto solo puede habilitarsela virtud al resistir la virtud, y dos hombres en la misma circunstancias no pueden ambos ser moralmente correctos al mismo tiempo, y asi sucesivamente- de los cuales todos son violaciones de UPB.
 
-Thus we know that rape cannot be an APA.
+Por lo tanto sabemos que la violación no puede ser un APA.
 
-We can confirm this by reviewing the reasons why “being on time” *is* an APA.
+Podemos confirmar esto al revisar las razones de por qué "llegar a tiempo" *es* un APA.
 
 First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
 
