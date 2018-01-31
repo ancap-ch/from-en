@@ -137,6 +137,6 @@ Para mantener este libro en un tiempo razonable, trataremos en general con el pr
 
 Volvamos ahora a la cuestión de si el marco de trabajo del CUP trata de asuntos de *ética*, o *estética*, o de ambos.
 
-[^7]: Lo mismo ocurre, por supuesto, para el asesinato y asalto. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
+[^7]: Lo mismo ocurre, por supuesto, para el asesinato y asalto. Volveremos a estas pruebas, así como a un nuevo análisis de los derechos de propiedad, con más detalle en la segunda parte de este libro
 
-[^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
+[^8]: También se pueden probar reglas morales universales y positivas, es decir, la validez universal de los derechos de propiedad y la no violencia, pero lo discutiremos en la segunda parte
