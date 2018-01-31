@@ -30,9 +30,9 @@ Claramente, la opción uno puede ser fácilmente descartada. Opción tres es tam
 
 Por ello debemos escoger la opción dos, que se refiere a que ciertas áreas grises sí existen, y sabemos que hay grises en relación con las áreas que no son grises. El oxigeno existe en el espacio, y también bajo el agua, pero no en una forma o cantidad que los seres humanos puedan consumir. El *grado* de oxigenación es un área gris, es decir, "menos es más"; el asunto de si los seres humanos pueden o no respirar bajo el agua es ciertamente blanco y negro.
 
-Un científico capturado por caníbales puede pretender ser un hechicero para escapar - esto no significa que debemos descartar el método científico como completamente inválido.
+Un científico capturado por caníbales puede pretender ser un brujo en orden de escapar - no quiere decir que debemos descartar el método científico como completamente invalido.
 
-De manera similar, puede haber situaciones extremas en las que podemos elegir cometer acciones inmorales, pero tales situaciones no invalidan la ciencia de la moralidad, así como las mutaciones ocasionales invalidan la ciencia de la biología. De hecho, la ciencia de la biología avanza mucho a través de la aceptación y el examen de mutaciones, y de manera similar, la ciencia de la ética solo se fortalece mediante el examen de "escenarios de botes salvavidas", siempre que dicho examen no se realice obsesivamente.
+Igualmente, puede haber situaciones extremas donde quizás tengamos que escoger cometer acciones inmorales, pero tales situaciones no invalidan la ciencia de la moralidad, como tampoco una ocasional mutación invalida la ciencia de la biología. De hecho, la ciencia de la biología avanza mucho a través de la aceptación y el examen de mutaciones, y de manera similar, la ciencia de la ética solo se fortalece mediante el examen de "escenarios de botes salvavidas", siempre que dicho examen no se realice obsesivamente.
 
 ### Universalidad y Excepciones
 
