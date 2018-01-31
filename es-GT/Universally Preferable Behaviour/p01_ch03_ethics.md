@@ -34,13 +34,13 @@ De manera similar, no existe una dirección universalmente "mejor" - todo depend
 
 Es cierto que muy pocas personas *do* conducen hacia el océano, pero eso no significa que sea universalmente cierto que nadie *necesitaba* conducir hacia el océano. Los principios no son democráticos - o, si lo son, una vez más nos enfrentamos al problema del subjetivismo de rango, y debemos tirar por la ventana todo el concepto de ética.
 
-El "comportamiento" existe en una realidad objetiva, fuera de nuestras mentes – los conceptos "debe", "debería" y "preferencia," no existen fuera de nuestras mentes. Sin embargo, el hecho de que "debe" no existe dentro de la realidad objetiva no significa que "debe" sea completamente subjetivo. Ni el método científico ni los números en sí mismos existen dentro de la realidad, y aún así la ciencia y las matemáticas siguen siendo disciplinas objetivas.
+El "comportamiento" existe en la realidad objetiva, fuera de nuestras mentes - los conceptos "debe","debería" y "preferentemente" no existen fuera de nuestras mentes. Sin embargo, el hecho de que "debería" no exista en la realidad objetiva no significa que "debería" sea completamente subjetivo. Ni el método científico ni los números mismos existen dentro de la realidad tampoco, sin embargo la ciencia y las matemáticas siguen siendo disciplinas objetivas.
 
-### Argumentos Contraproducentes
+### Argumentos Autodestructivos
 
-Para empezar nuestra discusión de la ética, es esencial que entendamos la naturaleza de los *argumentos contraproducentes*.
+Para comenzar nuestra discusión sobre la ética, es esencial que entendamos la naturaleza de *argumentos contraproducentes*.
 
-En economía, una teoría no puede ser válida si requiere que el precio suba y baje al mismo tiempo. En física, una teoría no puede ser válida si requiere que los gases se expandan y contraigan al mismo tiempo. En matemáticas, una teoría no puede ser válida si requiere que dos más dos sea igual a cinco, ya que "cinco" es solo otra forma de describir dos más tres, no dos más dos, y decir que dos más dos es igual a cinco es decir que cinco es igual a cuatro, lo cual es contradictorio.
+En economía, una teoría no puede ser válida si requiere que los precios suban y bajen al mismo tiempo. En la física, una teoría no puede ser válida si requiere que los gases se expandan y contraigan simultáneamente. En las matemáticas, una teoría no puede ser válida si requiere que dos más dos sean iguales a cinco, ya que "cinco" es sólo otra forma de describir dos más tres, no dos más dos, y por lo tanto decir que dos más dos son iguales a cinco es decir que cinco es igual a cuatro, lo cual es contradictorio.
 
 En general, cualquier teoría que se contradice a sí misma en su enunciado no puede ser válida. No requiere refutación externa, ya que se refuta a sí misma. No necesitamos examinar cada rincón y grieta en el universo para determinar que un "círculo cuadrado" no existe. El concepto mismo es contradictorio, y así se refuta a sí mismo en su enunciado.
 
