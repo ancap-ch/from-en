@@ -74,9 +74,9 @@ Por otro lado, si yo digo que el "gusto por el jazz" es una APA, entonces inmedi
 
 Esto no es únicamente una contradicción de rango en términos de sintaxis, sino que también inmediatamente falla la prueba de la UPB. Si yo prefiero el jazz ante todas las demás formas de música, pero tú prefieres la música clásica, y si las preferencias personales son universalmente preferibles, entonces tu deberías preferir el jazz porque yo lo hago y yo debería preferir la clásica porque tu lo haces. Esto, por supuesto, es imposible, porque eso requeriría que ambos *simultáneamente* prefiriéramos tanto el jazz como la música clásica sobre todas las demás formas de música. Tu deberías cambiar tu preferencia a jazz a causa de mi preferencia - pero yo debería a la vez cambiar mi preferencia a clásica a causa de tu preferencia. Esto es como decir que tu debería tanto lanzan como atrapar la misma pelota de béisbol exactamente al mismo tiempo - una imposibilidad lógica y física.
 
-Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
+Ya que las APAs no son aplicables a través de la violencia - tú no puedes disparar a un hombre por llegar tarde - entonces una violación *no puede* ser una APA, puesto que violación por definición es un ataque sexual forzado mediante la violencia.
 
-Thus rape cannot fall into the category of APAs.
+Así, una violación no puede caer en la categoría de APAs.
 
 ### Personally Positive
 
