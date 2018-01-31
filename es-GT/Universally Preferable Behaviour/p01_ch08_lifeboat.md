@@ -54,7 +54,7 @@ Este tipo de "hedonismo biológico" puede ser una descripción de el "deseo de s
 
 Lo que también introduce a un completo subjetivismo no científico a la cuestión de la moralidad. Por ejemplo, si es moralmente permitido robar comida cuando estás hambriento, ¿Cuánta comida puedes robar? ¿Qué tan hambriento tienes que estar? ¿Puedes robar comida que no sea nutritiva? ¿Qué tan nutritiva tiene que ser la comida para justificar su hurto? ¿Cuánto tiempo después de robar una comida tienes permitido robar otra comida? ¿Tienes permitido robar comidas en lugar de buscar trabajo o apelar a la caridad?
 
-Además, si puedo ganar más dinero como asesino a sueldo que a comerciante, ¿no debería perseguir la violencia como carrera? Ciertamente mejora la * mi * supervivencia... y así sucesivamente.
+También, si yo puedo hacer más dinero como un sicario que como un comerciante, ¿No debería perseguir la violencia como una carrera? Con seguridad aumenta *mi* supervivencia... y así sucesivamente.
 
 As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
 
