@@ -34,7 +34,7 @@ Stripped of mythology, what does this really translate to?
 
 In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
 
-In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+W rzeczywistości, kiedy powiedziano mi, że muszę płacić podatki "rządowi", oznacza to, że muszę napisać czek, aby przelać pieniądze na określone konto bankowe, do którego dostęp mają poszczególne osoby. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
 
 At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
 
