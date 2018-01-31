@@ -6,9 +6,9 @@ Utilizaremos entonces el marco de CUP para examinar la consistencia lógica de l
 
 ### Lo Bueno
 
-Para tomar un ejemplo absurdo, imaginemos que estamos examinando una teoría ética que proclama que la violación es un bien moral.
+Para tomar un ejemplo absurdo, vamos a imaginar que estamos revisando una teoría que pregona que la violación es un bien moral.
 
-Claramente, si proclamo que “X” es “el bien”, entonces lo opuesto a “X” debe ser malo. Si *no violar* es bueno, entonces *violar* debe ser malo. Al revés, sí *violar* es bueno, entonces *no violar* debe ser malo.
+Ciertamente, si yo proclamo que "X" es "lo bueno", entonces el contrario de "X" debe ser malo. Si *no violar* es bueno, entonces *violar* debe ser malo. Al contrario, si *violar* es bueno, entonces *no violar* debe ser malo.
 
 Violar a alguien es una acción positiva que debe ser iniciada, ejecutada, y luego completada. Si “violar” es un bien moral, entonces “no violar” es un mal moral - por lo tanto es imposible para dos hombres en la misma habitación ser *ambos morales al mismo tiempo*, ya que sólo uno de ellos puede ser un violador en cualquier momento dado - y solamente puede ser un violador si el otro hombre se convierte en su víctima.
 
