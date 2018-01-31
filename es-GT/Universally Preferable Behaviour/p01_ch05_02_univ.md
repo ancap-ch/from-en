@@ -41,9 +41,9 @@ O:
 3. Todos los hombres creen en el comportamiento universalmente preferible.
 4. Por lo tanto la evidencia empírica existe para apoyar la validez del comportamiento universalmente preferible – y la existencia de esa evidencia se *opone* a la proposición de que el comportamiento universalmente preferible no es válido.
 
-El cuarto argumento para la validez del comportamiento universalmente preferible es también empírico. Puesto que los seres humanos tienen un número casi infinito de elecciones que hacer en su vida, decir que no hay principios de comportamiento universalmente preferible sería decir que todas las elecciones son iguales (es decir, subjetivas). Sin embargo, todas las opciones *no* son iguales, sea lógicamente o a través de la observación empírica.
+El cuarto argumento para la validez del comportamiento universalmente preferible es también empírico. Puesto que los seres humanos tienen un número casi infinito de elecciones que hacer en su vida, decir que no hay principios de comportamiento universalmente preferible sería decir que todas las elecciones son iguales (es decir, subjetivas). Sin embargo, todas las opciones *no* son iguales, ya sea lógicamente o a través de la observación empírica.
 
-Por ejemplo, si la comida está disponible, casi todos los seres humanos prefieren comer todos los días. Cuando hace frío, casi todos los seres humanos buscan calor. Casi todos los padres escogen alimentar, dar refugio y educación a sus hijos. Hay muchos ejemplos de decisiones comunes en la humanidad, lo que indica que abunda el comportamiento universalmente preferible y que es parte de la naturaleza humana.
+Por ejemplo, si la comida está disponible, casi todos los seres humanos prefieren comer todos los días. Cuando hace frío, casi todos los seres humanos buscan calor. Casi todos los padres escogen alimentar, dar refugio y educación a sus hijos. Hay muchos ejemplos de decisiones comunes en la humanidad, lo que indica que el comportamiento universalmente preferible es abundante y que es parte de la naturaleza humana.
 
 Como lo mencioné anteriormente, ninguna teoría de física válida puede repudiar el simple hecho de que los niños pueden atrapar batazos de aire – de la misma forma, ninguna teoría válida de ética puede rechazar la interminable evidencia para la aceptación del CUP.
 
