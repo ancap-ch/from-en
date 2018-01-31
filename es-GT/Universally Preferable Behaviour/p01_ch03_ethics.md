@@ -10,7 +10,7 @@ De la misma manera, nuestra común repugnancia moral hacia acciones como la viol
 
 Si propongo una teoría científica que invalida completamente la habilidad de un jugador de béisbol para atrapar una pelota voladora, entonces tengo el desafío insuperable de explicar cómo el jugador de béisbol en realidad *sí* atrapa la pelota. Además, si mi gran teoría no puede predecir con precisión el arco de una bola voladora, entonces tengo una "gran verdad" que contradice directamente una "pequeña verdad," que no puede ser válida. Puesto que la necesidad de coherencia lógica surge directamente de las "pequeñas verdades" de la experiencia perceptiva, cualquier teoría que contradiga directamente dicha experiencia no puede ser válida.
 
-En otras palabras, los sentidos dan lugar a la lógica – de manera que la lógica no puede contradecir la evidencia de los sentidos. La evidencia siempre triunfa sobre la explicación.
+En otras palabras, los sentidos dan lugar a la lógica - por lo tanto, la lógica no puede contradecir la evidencia de los sentidos. La evidencia siempre triunfa sobre la explicación.
 
 De una manera similar, toda teoría ética válida debe ser capaz de explicar y justificar nuestra repulsión común hacia crímenes como el asesinato y la violación. No puede contradecir razonablemente las prohibiciones universales de la humanidad, pero puede incorporarlas con precisión y explicarlas.
 
