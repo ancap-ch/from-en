@@ -7,17 +7,17 @@ Aunque primero nos enfocamos en el CUP en el campo de la ética, el CUP puede ah
 - El método científico
 - Lógica
 - Empirismo
-- Debatiendo
-- Idioma
+- Debate
+- Lenguaje
 - Ética
 
-La ética es el subconjunto de UPB que trata con el comportamiento * infligido * o el uso de la violencia. Cualquier teoría que justifique o niegue el uso de la violencia es una teoría * moral *, y está sujeta a los requisitos de coherencia lógica y evidencia empírica.
+La ética es el subconjunto del CUP que se ocupa del comportamiento*infligido*, o el uso de la violencia. Cualquier teoría que justifique o niegue el uso de la violencia es una teoría *moral*, y está sujeta a los requisitos de consistencia lógica y evidencia empírica.
 
-Veamos tres acciones para ayudarnos a distinguir más entre ética y estética. La primera acción es * irracionalidad *; el segundo está * mintiendo *; el tercero es * homicidio *. [^9]
+Veamos tres acciones, para ayudarnos a distinguir mejor entre ética y estética. La primera acción es *irracionalidad*; la segunda es la *mentira*; la tercera es el *asesinato*<sup id="fnref:9"><a href="#fn:9" class="footnote-ref"></a></sup>
 
 ### Irracionalidad
 
-Digamos que usted y yo estamos teniendo un debate sobre la existencia de Dios. Después de exponer mis argumentos, te pasas las manos por las orejas, cantando que Dios te está diciendo que Él existe, y por lo tanto, todos mis argumentos no significan nada. Claramente, su respuesta a mi posición es irracional. Sin embargo, por molesto que yo pueda encontrar tu comportamiento, no me parece razonable desahogar mi frustración sacando un arma y disparándote. Creo que es * universalmente preferible * utilizar la lógica y la evidencia en lugar de confiar en las voces en nuestras cabezas, pero esta preferencia universal no es razonablemente exigible en el sentido * físico *, a través de la violencia o la amenaza de eso.
+Digamos que tú y yo estamos teniendo un debate sobre la existencia de Dios. Después de que yo exponga mis argumentos, pones tus manos sobre tus orejas, cantando que Dios te está diciendo que Él existe, y por lo tanto, todos mis argumentos no significan nada. Claramente, tu respuesta a mi posición es irracional. Por muy molesto que me parezca tu comportamiento, no me parecería razonable desahogar mi frustración sacando un arma y disparándote. Creo que es *universalmente preferible* usar la lógica y la evidencia en lugar de confiar en las voces en nuestras cabezas, pero esta preferencia universal no es razonablemente exigible en el sentido *físico*, a través de la violencia o la amenaza de la misma.
 
 ### De Mentira
 
