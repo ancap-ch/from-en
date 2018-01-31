@@ -4,21 +4,21 @@ There are other additional proofs that we can bring to bear on the question of u
 
 ### Ekonomia Wolnorynkowa
 
-A free-market economy is without a doubt the most efficient and wealth-producing method of organising the production and consumption of goods and resources within society. Jej materialny sukces nie ma sobie równych w historii ludzkości ani na całym świecie.
+Ekonomia wolnorynkowa jest bez wątpienia najbardziej efektywną, produkującą dobrobyt metodą organizacji produkcji i konsumpcji dóbr, i zasobów w społeczeństwie. Jej materialny sukces nie ma sobie równych w historii ludzkości ani na całym świecie.
 
-The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
+Struktura UPB przewiduje, weryfikuje i wyjaśnia powody materialnego sukcesu ekonomii wolnorynkowej.
 
-In theory, a free-market economy is based on the application of a universal theory of property rights. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+W teorii, ekonomia wolnorynkowa opiera się na zastosowaniu uniwersalnej teorii praw własności. Natomiast, komunizm opiera się na jawnym odrzuceniu uniwersalnej teorii praw własności. Ponieważ wyżej udowodniliśmy, że uniwersalne prawa własności są jedyną poprawną moralną teorią, wyjaśnia to na najbardziej podstawowym poziomie, dlaczego komunizm jest taką porażką, podczas gdy ekonomia wolnorynkowa jest tak materialnie wydajna.
 
 Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
 
-### The Scientific Method
+### Metoda Naukowa
 
 Logic and science are in fact methodologies which exist – along with morality – under the umbrella of UPB. In other words, logic and science are both validated by the framework of UPB.
 
 A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
 
-UPB answers this question.
+UPB odpowiada na to pytanie.
 
 Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
 
