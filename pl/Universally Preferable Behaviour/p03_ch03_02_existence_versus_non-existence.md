@@ -26,7 +26,7 @@ Either I am capable of making competent decisions, or I am not. If I *am* capabl
 
 Even if the above considerations are somehow bypassed, however, it is still impossible to justly enforce a social contract through a government. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
 
-In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
+W ten sam sposób, nawet jeśli zdecyduję się dobrowolnie płacić podatki, nie mogę słusznie narzucać ci tego wyboru, ponieważ dobrowolna umowa jest jedynie osobistą preferencją, a zatem nie może być powszechnie egzekwowana przez przemoc.
 
 ### The Necessity Of The State?
 
