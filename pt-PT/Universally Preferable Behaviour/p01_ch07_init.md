@@ -16,9 +16,9 @@ Se tiver cancro, pode pedir a um cirurgião para operá-lo. A razão pela qual o
 
 Contudo o assaltante que te apunhala, está a iniciar um ataque à tua vida e saúde, e é por isso que o seu ataque é o *oposto* aos esforços do cirurgião.
 
-If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Se sou um fumador crónico e de longa data, participei da cadeia de eventos que levaram ao cancro de pulmão. Ao iniciar e manter o hábito de fumar, desencadeei uma cadeia de causalidades que pode resultar numa tragédia que ameaça a minha vida. Certamente, também é possível que apanhe cancro de pulmão sem fumar - ou fuma sem cancro de pulmão - mas certamente afectei as possibilidades.
 
-Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
+Da mesma forma, é possível que eu deixe a minha carteira num banco do parque durante uma semana, regresse lá e a encontre no mesmo lugar, mas ao deixá-la por muito tempo, certamente afectei as possibilidades de ela ter desaparecido.
 
 On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
 
