@@ -8,7 +8,7 @@ Si puedo atrapar una bola voladora, entonces tengo una *sensación* instintiva p
 
 De la misma manera, nuestra común repugnancia moral hacia acciones como la violación y el asesinato no son necesariamente inexactas, pero no nos dan la capacidad de crear o validar teorías morales empíricas y consistentes.
 
-Si propongo una teoría científica que invalide por completo la habilidad de un jugador de béisbol de atrapar un batazo de aire, entonces tengo el insuperable desafío de explicar cómo el jugador de béisbol de hecho *sí* atrapa la bola. Además, si mi gran teoría no puede predecir con precisión el arco de un batazo de aire, entonces tengo una "gran verdad" que contradice directamente una "pequeña verdad", la cual no puede ser válida. Ya que la necesidad de consistencia lógica surge directamente de las "pequeñas verdades" de la experiencia perceptiva, cualquier teoría que directamente contradiga dicha experiencia no puede ser válida.
+Si propongo una teoría científica que invalida completamente la habilidad de un jugador de béisbol para atrapar una pelota voladora, entonces tengo el desafío insuperable de explicar cómo el jugador de béisbol en realidad *sí* atrapa la pelota. Además, si mi gran teoría no puede predecir con precisión el arco de una bola voladora, entonces tengo una "gran verdad" que contradice directamente una "pequeña verdad," que no puede ser válida. Puesto que la necesidad de coherencia lógica surge directamente de las "pequeñas verdades" de la experiencia perceptiva, cualquier teoría que contradiga directamente dicha experiencia no puede ser válida.
 
 En otras palabras, los sentidos dan lugar a la lógica – de manera que la lógica no puede contradecir la evidencia de los sentidos. La evidencia siempre triunfa sobre la explicación.
 
