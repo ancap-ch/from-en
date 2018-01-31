@@ -58,16 +58,16 @@ El quinto argumento para la validez del comportamiento universalmente preferible
 
 Ya que toda la vida orgánica requiere de comportamientos preferibles para sobrevivir, podemos asumir que aquellos organismos que toman decisiones exitosas son los que mas a menudo son seleccionados para sobrevivir.
 
-Dado que el hombre es la especie más exitosa, y el órgano más distintivo del hombre es su cerebro, debe ser el *cerebro* humano el que lo ha ayudado más en tomar decisiones exitosas. La mente misma, entonces, ha sido seleccionada como exitosa por su propia habilidad de tomar decisiones exitosas. Dado que la mente humana existe solo como *resultado* de escoger comportamientos universalmente preferibles, el comportamiento universalmente preferible debe ser un concepto válido.
+Dado que el hombre es la especie mas exitosa, y el órgano que mas lo distingue es su cerebro, debe ser el *cerebro * humano el que lo ha ayudado más a tomar decisiones exitosas. La mente misma, entonces, ha sido seleccionada como exitosa por su propia habilidad de tomar decisiones exitosas. Dado que la mente humana solo existe como *resultado* de escoger comportamientos universalmente preferibles, el comportamiento universalmente preferible debe ser un concepto valido.
 
 O:
 
-1. Los organismos tienen éxito al actuar en base al comportamiento universalmente preferible.
+1. Los organismos tienen éxito actuando en base a el comportamiento universalmente preferible.
 2. El hombre es el organismo más exitoso.
-3. Por lo tanto el hombre debe haber actuado más exitosamente con base en el comportamiento universalmente preferible.
-4. El cerebro humano es el órgano más distinto del hombre.
-5. Por lo tanto, la mente humana debe haber actuado más exitosamente con base en el comportamiento universalmente preferible.
-6. Por lo tanto el comportamiento universalmente preferible debe ser válido.
+3. Por tanto el hombre debe haber actuado mas exitosamente con base al comportamiento universalmente preferible.
+4. El cerebro Humano es el órgano mas distintivo del hombre.
+5. Por lo tanto, la mente humana debe actuar mas exitosamente con base en el comportamiento universalmente preferible.
+6. Por lo tanto el comportamiento universalmente preferible debe ser valido.
 
 Podríamos incorporar muchos más argumentos para apoyar la existencia y validez del CUP, pero dejaremos terminar nuestro caso con lo anterior, y movernos a una examinación de la naturaleza del CUP.
 
