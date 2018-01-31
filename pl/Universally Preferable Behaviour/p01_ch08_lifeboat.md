@@ -6,7 +6,7 @@ Na przykład, jeśli zaakceptujemy uniwersalną ważność praw własności, roz
 
 In the real world, it would take a staggeringly callous person to press charges against a man who destroyed a window in order to save his life – just as it would take a staggeringly irresponsible man to refuse to pay restitution for said window. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
 
-This is not to say that breaking the window to save your life is not wrong. It is, but it is a wrong that almost all of us would choose to commit rather than die. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
+Nie oznacza to, że złamanie okna, aby uratować życie, nie jest złe. Jest, ale prawie wszyscy zdecydowalibyśmy się na popełnienie tego zła zamiast umrzeć. Gdybym był bliski śmierci głodowej, ukradłbym jabłko. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
 
 ### Grey Areas
 
@@ -14,29 +14,29 @@ Fakt, że pewne "szare obszary" istnieją w dziedzinie etyki, często był wykor
 
 This is false.
 
-All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
+Wszyscy rozsądni ludzie zdają sobie sprawę, że biologia jest ważną nauką, mimo że niektóre zwierzęta rodzą się z "jednorazowymi" mutacjami. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
 
-For some perverse reason, intellectuals in particular take great joy in the wanton destruction of ethical, normative and rational standards. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
+Z jakiegoś perwersyjnego powodu, intelektualiści w szczególności czerpią wielką radość z bezmyślnego niszczenia standardów etycznych, normatywnych i racjonalnych. Może tak być dlatego, że intelektualiści tak często byli opłacani przez skorumpowane klasy jednostek, takich jak politycy, księża i królowie - lub może być tak dlatego, że człowiek często staje się intelektualistą, aby stworzyć uzasadnienie dla swojego własnego niemoralnego zachowania. Niezależnie od przyczyny, większość współczesnych myślicieli stała się gatunkiem "anty-myśliciela", co jest bardzo dziwne. Byłoby to równoznaczne z ogromną klasą "biologów", którzy całe życie spędzili na argumentowaniu, że nauka o biologii jest niemożliwa. Jeśli nauka o biologii jest niemożliwa, nie ma sensu stać się biologiem, tak samo jak ateista nie powinien starać się zostać kapłanem.
 
 ### Shades Of Grey
 
-In the realm of “grey areas,” there are really only three possibilities.
+W sferze "szarych obszarów" istnieją naprawdę tylko trzy możliwości.
 
-1. There are no such things as grey areas.
+1. Nie ma takich rzeczy jak szare obszary.
 2. Certain grey areas do exist.
 3. All knowledge is a grey area.
 
 Clearly, option one can be easily discarded. Option three is also fairly easy to discard. The statement “all knowledge is a grey area” is a self-detonating proposition, as we have seen above, in the same way that “all statements are lies” also self-detonates.
 
-Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
+Musimy więc przejść do drugiej opcji, która polega na tym, że istnieją pewne szare obszary i wiemy, że są szare w stosunku do obszarów, które nie są szare. Tlen istnieje w kosmosie, a także pod wodą, ale nie w formie ani ilości, które Istoty mogą spożywać. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
 
-A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
+Naukowiec pojmany przez kanibali może udawać, że jest szamanem w celu ucieczki - nie oznacza to, że musimy odrzucić metodę naukową jako całkowicie nieważną.
 
-Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
+Podobnie mogą zdarzyć się ekstremalne sytuacje, w których możemy zdecydować się na niemoralne działania, ale takie sytuacje nie unieważniają nauki o moralności, podobnie jak sporadyczne mutacje nie unieważniają nauki o biologii. W rzeczywistości nauka o biologii jest bardzo zaawansowana dzięki akceptacji i badaniu mutacji - i podobnie, etyka jest wzmocniona jedynie poprzez zbadanie "scenariuszy kół ratunkowych", o ile badanie takie nie jest prowadzone obsesyjnie.
 
 ### Universality And Exceptions
 
-Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
+Zanim zaczniemy korzystać z naszego systemu zachowań powszechnie preferowanych w celu zbadania niektórych powszechnie uznawanych przekonań etycznych, musimy zająć się kwestią "wyjątków."
 
 Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
 
