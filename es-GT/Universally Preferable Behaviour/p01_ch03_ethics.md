@@ -14,11 +14,11 @@ En otras palabras, los sentidos dan lugar a la lógica - por lo tanto, la lógic
 
 De manera similar, cualquier teoría ética válida debería ser capaz de explicar y justificar nuestra repugnancia común hacia crímenes como el asesinato y la violación. No puede contradecir razonablemente las prohibiciones universales de la humanidad, si no que debe incorporarlas y explicarlas con precisión.
 
-Sin embargo, al igual que la física einsteiniana proporcionó verdades sorprendentes - de hecho, habría sido de poco valor si esas verdades hubieran sido *no*sorprendentes - las teorías éticas proporcionan el mayor valor cuando también revelan verdades sorprendentes - incluso, escandalosas. De hecho, las teorías éticas que no provean verdades sorprendentes serían una mera confirmación de las preferencias instintivas existentes, y por ello de poco valor.
+Sin embargo, al igual que la física einsteiniana proporcionó verdades sorprendentes - de hecho, habría sido de poco valor si esas verdades hubieran sido *no*sorprendentes - las teorías éticas proporcionan el mayor valor cuando también revelan verdades sorprendentes - incluso, escandalosas. De hecho, las teorías éticas que no ofrecían verdades sorprendentes serían una mera confirmación de las preferencias instintivas existentes, y por lo tanto serían de poco valor.
 
-### La Disciplina De La Ética Teórica
+### La disciplina de la Ética teórica
 
-Si yo digo que algo es "moralmente bueno" – en otras palabras, si propongo una teoría ética – entonces claramente estoy argumentando que los seres humanos *deberían* actuar de una manera particular, o *evitar* actuar de una manera particular.
+Si digo que algo es "moralmente bueno" - en otras palabras, si propongo una teoría ética - entonces claramente estoy argumentando que los seres humanos *deberían* actuar de una manera particular, o *evitar* actuar de una manera particular.
 
 Si le digo a mi hijo que él *debería* convertirse en un jugador de béisbol solo porque yo quiero, no estoy declarando una premisa moral universal, sino una preferencia personal. Él no es *moral* si se convierte en un jugador de béisbol, y tampoco es *inmoral* si no lo hace.
 
