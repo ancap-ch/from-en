@@ -14,21 +14,21 @@ Inévitablement, un homme fait un pas en avant qui a un impact sur tout le monde
 
 Ce livre est l'histoire de mon assaut personnel sur une telle bête.
 
-Cette "bête" est la croyance qu'il est impossible de définir un système éthique scientifique, objectif, rationnel et laïque. Cette "bête" est l'illusion que la moralité doit toujours être perdue dans les marais irrationnels des dieux et des gouvernements, exigés pour des raisons purement pragmatiques, mais toujours sans justification logique ni définition claire. Cette "bête" est le fantasme que la vertu, notre plus grande joie, notre bonheur le plus profond, doit toujours être mis de côté par les adultes laïques, et laissé dans la poussière pour être balayé, défilé et exploité par les politiciens et les prêtres – et les parents . Cette «bête» est la superstition que, sans les diatribes des parents, le harcèlement des dieux ou les armes des gouvernements, nous ne pouvons être à la fois rationnels et bons.
+Cette "bête" est la croyance qu'il est impossible de définir un système éthique scientifique, objectif, rationnel et laïque. Cette "bête" est l'illusion que la moralité doit toujours être perdue dans les marais irrationnels des dieux et des gouvernements, exigés pour des raisons purement pragmatiques, mais toujours sans justification logique ni définition claire. Cette "bête" est le fantasme que la vertu, notre plus grande joie, notre bonheur le plus profond, doit toujours être mis de côté par les adultes laïques, et laissé dans la poussière pour être balayé, défilé et exploité par les politiciens et les prêtres – et les parents . Cette "bête" est la superstition que, sans les diatribes des parents, le harcèlement des dieux ou les armes des gouvernements, nous ne pouvons être à la fois rationnels et bons.
 
 Cette bête a été étudiée par de nombreux héros, de Socrate à Platon, à Augustin, à Hume, à Kant, à Rand.
 
 Le coût pour l'humanité a été énorme.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Puisque nous avons été incapables de définir un système rationnel de moralité universelle, nous avons été forcés d'infliger d'horribles histoires religieuses à nos enfants, ou de donner des armes, des prisons et des armées à un petit monopole de contrôleurs sans âme qui s'appellent eux-mêmes "l'Etat."
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Puisque ce que nous appelons "l'éthique" reste subjectif et simplement *culturel*, nous finissons inévitablement par dépendre du harcèlement, de la peur et de la violence pour imposer des normes sociales. Puisque l'éthique n'a pas de fondement rationnel dans la méthode scientifique, la "moralité" reste bloquée dans une guerre tribale de mythologies sanglantes, chaque gang se débattant avec les dents et les ongles pour contrôler la loyauté des gens à la "vertu."
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Nous ne pouvons pas vivre sans moralité, mais nous ne pouvons pas définir objectivement la moralité – nous restons éternellement condamnés à vider des vies d'hypocrisie pompeuse, de domination cynique ou d'esclavage pieux.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Intellectuellement, il n'y a pas de paris supérieurs dans le monde. Notre incapacité à définir des normes morales objectives et rationnelles a coûté des centaines de millions de vies humaines, dans les guerres de religion et d'États.
 
-In many ways, the stakes are getting even higher.
+À bien des égards, les paris deviennent plus élevés.
 
 The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
 
