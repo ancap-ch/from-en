@@ -34,7 +34,7 @@ De esta manera, el concepto de “evitabilidad” mantiene su uso. Un hombre en 
 
 En este punto, la objeción puede plantearse razonablemente, si un hombre en coma no puede ser inmoral, entonces tampoco puede ser moral. No obstante, antes dijimos que lo opuesto a una acción inmoral debe ser moral. Si proponemos la regla moral “no violarás”, podemos entonces llamar al hombre en coma *moral*, debido a que no viola?
 
-#### Capacity
+#### Capacidad
 
 El concepto de “evitabilidad” trabaja tanto en lo positivo tanto como en lo negativo. Si yo he perdido mis genitales en un terrible accidente, soy moral por abstenerme de violar? Sería difícil de discutir que lo fuera, ya que la violación genital al menos, sería imposible para mí. Similarmente, podriamos llamar a un hombre "generoso" si el le da cien dolares a un mendigo - sin embargo, deberiamos sin duda revisar nuestra estimación si resulta que el dio el dinero mientras caminaba sonambulo, y concientemente se arrepiente de esa accion al despertar.
 
@@ -64,7 +64,7 @@ Una vez más, el marco de la UPB viene al rescate.
 
 Una APA es una*regla no coercitiva que puede ser racionalmente aplicada a ambas partes simultaneamente*.
 
-Por ejemplo, si mi APA es:"llegar a tiempo",, entonces puede ser una norma universal que puede ser totalmente evitada. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+Por ejemplo, si mi APA es:"llegar a tiempo",, entonces puede ser una norma universal que puede ser totalmente evitada. Yo no puedo infligir a la fuerza esta APA en ti porque tú no tienes que ser mi amigo, tú no tienes que llegar a tiempo, tú no tienes que respetar o seguir mis preferencias de ningún modo.[^1]
 
 Si "estar a tiempo" es una APA, entonces es posible para dos personas, lograrlo simultaneamente- Si ambos están a tiempo.
 
