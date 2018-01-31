@@ -70,7 +70,7 @@ Si "estar a tiempo" es una APA, entonces es posible para dos personas, lograrlo 
 
 Sin embargo, con la violación, como hemos visto arriba, es imposible que dos personas la lleven a cabo al mismo tiempo. Una siempre tiene que ser el violador, y la otra siempre la víctima.
 
-Por otro lado, si yo digo que el "gusto por el jazz" es una APA, entonces inmediatamente me tropiezo con una imposibilidad lógica. Recuerda, las APAs son normas no coercitivas que pueden ser aplicadas racionalmente a ambas partes a la vez - la formulación correcta para el "gusto por el jazz" es: "preferencias subjetivas son universalmente preferibles."
+Por otro lado, si yo digo que "tener gusto por el jazz" es una APA, entonces inmediatamente me tropiezo con una imposibilidad lógica. Recuerda, las APAs son normas no coercitivas que pueden ser aplicadas racionalmente a ambas partes a la vez - la formulación correcta para "tener gusto por el jazz" es: "preferencias subjetivas son universalmente preferibles."
 
 Esto no es únicamente una contradicción de rango en términos de sintaxis, sino que también inmediatamente falla la prueba de la UPB. Si yo prefiero el jazz ante todas las demás formas de música, pero tú prefieres la música clásica, y si las preferencias personales son universalmente preferibles, entonces tu deberías preferir el jazz porque yo lo hago y yo debería preferir la clásica porque tu lo haces. Esto, por supuesto, es imposible, porque eso requeriría que ambos *simultáneamente* prefiriéramos tanto el jazz como la música clásica sobre todas las demás formas de música. Tu deberías cambiar tu preferencia a jazz a causa de mi preferencia - pero yo debería a la vez cambiar mi preferencia a clásica a causa de tu preferencia. Esto es como decir que tu debería tanto lanzan como atrapar la misma pelota de béisbol exactamente al mismo tiempo - una imposibilidad lógica y física.
 
@@ -84,9 +84,9 @@ Tal vez una violación es similar a una preferencia meramente personal.[^2]
 
 Entonces surge la pregunta: ¿puede la clasificación de violación como una preferencia meramente personal hacer frente al escrutinio lógico?
 
-If we propose the moral rule: “personal preferences must be violently inflicted upon other people,” how does that stand up to the framework of UPB?[^3]
+Si proponemos la regla moral: "las preferencias personales deben ser violentamente infligidas a entras personas," ¿cómo hace eso frente a la estructura de la UPB?[^3]
 
-Personal preferences cannot be justly inflicted upon other people, because that would create an insurmountable logical paradox.
+Las preferencias personales no pueden ser justamente infligidas a otras personas porque eso crearía una paradoja lógica insuperable.
 
 If I say that liking the band Queen above all others is universally preferable behaviour, on what grounds could I justify that statement? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
 
