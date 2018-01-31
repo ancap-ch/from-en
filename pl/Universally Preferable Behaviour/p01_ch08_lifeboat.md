@@ -40,23 +40,23 @@ Zanim zaczniemy korzystać z naszego systemu zachowań powszechnie preferowanych
 
 Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
 
-In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
+Jeśli chodzi o argumenty etyczne, jeśli zostanę spytany, czy wolę ukraść jabłko zamiast umrzeć z głodu - i odpowiem tak" - nieunikniony jest następujący argument:
 
-1. Everyone would rather steal an apple than starve to death.
-2. Thus everyone universally prefers stealing apples to death by starvation.
-3. Thus it is *universally preferable* to steal apples rather than starve to death.
-4. Thus survival is universally preferable to property rights.
-5. Thus what is good for the individual is the ultimate moral standard.
+1. Wszyscy wolą ukraść jabłko niż umrzeć z głodu.
+2. Dlatego wszyscy powszechnie preferują kradzież jabłek na śmierć głodową.
+3. Zatem jest to *powszechnie preferowane* żeby kraść jabłka zamiast umrzeć z głodu.
+4. W ten sposób przetrwanie jest powszechnie preferowane w stosunku do praw własności.
+5. Zatem to, co jest dobre dla jednostki, jest ostatecznym standardem moralnym.
 
-This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
+Zostało to wykorzystane jako podstawa wielu etycznych teorii i podejść, od Nietzschego do Rand'a. Preferencje każdej osoby do przeżycia przekładają się na teorie etyczne, które stawiają przetrwanie jednostki w jej centrum. [^11]
 
 This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
 
-It also introduces a completely unscientific subjectivism to the question of morality. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
+To wprowadza także całkowicie nienaukowy subiektywizm do kwestii moralności. Na przykład, jeśli moralnie dopuszczalna jest kradzież jedzenia w momencie, gdy umierasz z głodu, ile jedzenia możesz ukraść? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? Jak długo po kradzieży jednego posiłku możesz ukraść kolejny posiłek? Czy wolno ci kraść posiłki zamiast szukać pracy lub apelować do organizacji charytatywnej?
 
 Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
 
-As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
+Jak widać, wprowadzenie "tego, co jest dobre dla człowieka w abstrakcji - lub tego, co robi większość ludzi - jest tym, co jest powszechnie preferowane" niszczy samą koncepcję moralności jako logicznie spójną teorię i zastępuje zwykłe popędy biologiczne jako uzasadnienia dla zachowanie. It is an explanation of behaviour, not a proposed moral theory.
 
 ### The Purpose And The Dangers
 
