@@ -32,7 +32,7 @@ Silogísticamente, esto es:
 
 Ya que el método científico requiere corroboración empírica, debemos también ver la realidad para confirmar nuestra hipótesis – y aquí la validez del comportamiento universalmente preferible es completamente apoyada.
 
-Cualquier ser humano sano cree en las reglas morales de algún tipo. Existe cierto desacuerdo sobre que *constituye* las reglas morales, pero todos estamos seguros de que las reglas morales son válidas – tal como muchos científicos no están de acuerdo, pero todos los científicos aceptan la validez del método científico en sí mismo. Uno puede argumentar que la Tierra es redonda y no plana – lo cual es análogo a cambiar la definición de moralidad – pero nadie puede argumentar que la Tierra no existe en lo absoluto – lo cual sería como argumentar que no hay tal cosa como el comportamiento universalmente preferible.
+Cualquier ser humano sano cree en las reglas morales de algún tipo. Existe cierto desacuerdo sobre lo que *constituyen* las reglas morales, pero todo el mundo esta seguro de que las reglas morales son válidas – tal como muchos científicos no están de acuerdo, pero todos los científicos aceptan la validez del método científico en sí mismo. Uno puede argumentar que la Tierra es redonda y no plana – lo cual es análogo a cambiar la definición de moralidad – pero nadie puede argumentar que la Tierra no existe en lo absoluto – lo cual sería como argumentar que no hay tal cosa como el comportamiento universalmente preferible.
 
 O:
 
