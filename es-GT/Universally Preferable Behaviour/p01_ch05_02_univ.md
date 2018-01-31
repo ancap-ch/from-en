@@ -18,7 +18,7 @@ Esas preferencias que pueden ser consideradas vinculantes para otros pueden ser 
 
 Podemos examinar la cuestión biológicamente tanto como silogísticamente.
 
-Por ejemplo, toda la materia está sujeta a las reglas físicas – y todo lo que vive está en adición sujeto a ciertos requerimientos, y así, si está vivo, debe haber seguido los comportamientos universalmente preferibles. La vida, por ejemplo, requiere combustible y oxígeno. Cualquier mente viviente, por supuesto, es una parte orgánica del mundo físico, y así está sujeta a las leyes físicas y debe haber seguido comportamientos preferibles – argumentar lo contrario requeriría pruebas de que la consciencia no está compuesta por materia, y no es orgánica – un imposible, ya que tiene masa, energía, y vida. Argumentar que la consciencia no está sujeta ni a las reglas de la física ni a comportamientos universalmente preferibles sería como argumentar que los seres humanos son inmunes a la gravedad, y que pueden florecer sin comer.
+Por ejemplo, toda la materia está sujeta a las reglas físicas – y todo lo que vive está sujeto a ciertos requerimientos, y así, si está vivo, debe haber seguido los comportamientos universalmente preferibles. La vida, por ejemplo, requiere combustible y oxígeno. Cualquier mente viviente, por supuesto, es una parte orgánica del mundo físico, y así está sujeta a las leyes físicas y debe haber seguido comportamientos universalmente preferibles – argumentar lo contrario requeriría pruebas de que la consciencia no está compuesta por materia, y no es orgánica – lo cual es imposible, ya que tiene masa, energía, y vida. Argumentar que la consciencia no está sujeta ni a las reglas de la física ni a comportamientos universalmente preferibles sería como argumentar que los seres humanos son inmunes a la gravedad, y que pueden florecer sin comer.
 
 Por lo tanto es imposible que alguien pueda argumentar lógicamente contra el comportamiento universalmente preferible, ya que si está vivo para argumentar, él debe haber seguido comportamientos universalmente preferidos como respirar, comer y beber.
 
@@ -26,7 +26,7 @@ Silogísticamente, esto es:
 
 1. Todos los organismos requieren de comportamientos universalmente preferidos para vivir.
 2. El hombre es un organismo vivo.
-3. Por lo tanto todos los hombres vivos están vivos debido a la práctica de comportamientos universalmente preferidos.
+3. Por lo tanto todos los hombres vivos, están vivos debido a la práctica de comportamientos universalmente preferidos.
 4. De tal manera cualquier argumento contra el comportamiento universalmente preferible requiere una aceptación y práctica de comportamientos universalmente preferidos.
 5. Por lo tanto ningún argumento contra la existencia del comportamiento universalmente preferible puede ser válido.
 
