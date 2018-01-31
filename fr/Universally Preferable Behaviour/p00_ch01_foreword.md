@@ -42,13 +42,13 @@ La morale reste donc, par rapport à la science moderne, comme l'a fait "l'astro
 
 Cette "bête" de l'éthique relativiste plane sur nous, nous harcèle, justifie les impôts, l'emprisonnement, la censure et les guerres. Enslaves jeunesse dans les écoles publiques et les messes du dimanche; elle emprisonne les pauvres dans les douces goulags du bien-être, asservit même les enfants à naître dans les puits sans fond de la dette nationale.
 
-Comme je l'écrivais dans mon livre précédent, "Sur la Vérité: la Tyrannie de l'Illusion", le mensonge le plus fondamental au centre des théories éthiques non prouvées est que ces théories sont toujours présentées aux enfants comme des faits objectifs et incontestables, quand vraiment, ce sont de simples intolérances culturelles. La raison pour laquelle les scientifiques n'ont pas besoin d'un gouvernement ou d'un Vatican est que les scientifiques ont une méthodologie objective pour résoudre les conflits: la méthode scientifique. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+Comme je l'écrivais dans mon livre précédent, "Sur la Vérité: la Tyrannie de l'Illusion", le mensonge le plus fondamental au centre des théories éthiques non prouvées est que ces théories sont toujours présentées aux enfants comme des faits objectifs et incontestables, quand vraiment, ce sont de simples intolérances culturelles. La raison pour laquelle les scientifiques n'ont pas besoin d'un gouvernement ou d'un Vatican est que les scientifiques ont une méthodologie objective pour résoudre les conflits: la méthode scientifique. La raison pour laquelle la langue n'a pas besoin d'une autorité centrale pour guider son évolution est qu'elle est basée sur le "marché libre" des préférences individuelles accumulées pour les styles et les utilités.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+La raison pour laquelle la moralité moderne – et la morale à travers l'histoire – a toujours dû s'appuyer d'abord sur le harcèlement des enfants, puis sur la menace des adultes, c'est que c'est un mensonge manipulateur déguisé en vérité vertueuse.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+La vérité est que nous avons besoin de la moralité; le mensonge est que les dieux et les gouvernements peuvent le définir rationnellement ou l'imposer justement.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Mon but dans ce livre est de définir une méthodologie pour la validation des théories morales qui est objective, cohérente, claire, rationnelle, empirique – et *vraie*.
 
 I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
 
