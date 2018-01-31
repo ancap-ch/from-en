@@ -10,7 +10,7 @@ Struktura UPB przewiduje, weryfikuje i wyjaśnia powody materialnego sukcesu eko
 
 W teorii, ekonomia wolnorynkowa opiera się na zastosowaniu uniwersalnej teorii praw własności. Natomiast, komunizm opiera się na jawnym odrzuceniu uniwersalnej teorii praw własności. Ponieważ wyżej udowodniliśmy, że uniwersalne prawa własności są jedyną poprawną moralną teorią, wyjaśnia to na najbardziej podstawowym poziomie, dlaczego komunizm jest taką porażką, podczas gdy ekonomia wolnorynkowa jest tak materialnie wydajna.
 
-Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
+Odkąd ludzie *rzeczywiście* mają równe prawa własności, jakikolwiek system, który odrzuca te prawa jest skazany na kompletną porażkę - tak samo jak każdy architekt mostów, który odrzuca prawa grawitacji, nigdy nie będzie w stanie zbudować mostu który stoi.
 
 ### Metoda Naukowa
 
