@@ -54,11 +54,11 @@ If I choose to debate, I have implicitly accepted a wide variety of premises tha
 
 #### Premise 1: We Both Exist
 
-If I choose to debate with you, then I necessarily must accept that we both exist. Jeśli wierzysz, że ja istnieję, ale ty nie, to debata nie ma sensu i byłaby działaniem szaleńca. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+If I choose to debate with you, then I necessarily must accept that we both exist. Jeśli wierzysz, że ja istnieję, ale ty nie, to debata nie ma sensu i byłaby działaniem szaleńca. Gdybym miał zacząć kłócić się z moim odbiciem w lustrze, powinienem być uspokojony, a nie debatowany.
 
 #### Premise 2: The Senses Have The Capacity For Accuracy
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Ponieważ istoty ludzkie nie mogą komunikować się psychicznie, wszystkie debaty muszą obejmować dowody zmysłów. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
 
 #### Premise 3: Language Has The Capacity For Meaning
 
