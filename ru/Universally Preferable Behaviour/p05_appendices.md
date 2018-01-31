@@ -24,7 +24,7 @@ Below is a sample table that lists some of the most common categories of actions
 | Action/Rule                       | Preference? | Universal? | Enforceable? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                |
 | --------------------------------- | ----------- | ---------- | ------------ | ----------------------------------------------------- | ------------------------- | ----------------------------- |
 | **Running for the bus**           | No          | No         | n/a          | n/a                                                   | n/a                       | Neutral                       |
-| **You should not like ice cream** | Yes         | No         | No           | n/a                                                   | n/a                       | Neutral (personal preference) |
+| **You should not like ice cream** | Да          | No         | No           | n/a                                                   | n/a                       | Neutral (personal preference) |
 | **You should not be late**        | Yes         | Yes        | No           | No                                                    | Yes                       | APA                           |
 | **You should not commit fraud**   | Yes         | Yes        | Yes          | Yes                                                   | Yes                       | Good                          |
 | **You should not rape**           | Yes         | Yes        | Yes          | No                                                    | No                        | Good                          |
