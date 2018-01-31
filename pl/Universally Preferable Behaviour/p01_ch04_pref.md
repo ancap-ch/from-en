@@ -8,11 +8,11 @@ In this sense, “preferable” does not mean “sort of better,” but rather �
 
 Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. Innymi słowy, teoria etyczna, która zaprzecza sama sobie, nie może być słuszna - a teoria etyczna, która przeczy dowodom empirycznym i niemal powszechnym preferencjom, również nie może być słuszna.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Tak więc w etyce, podobnie jak w nauce, matematyce, inżynierii i wszystkich innych dyscyplinach, które porównują teorie z rzeczywistością, *poprawne teorie muszą być logicznie spójne i empirycznie weryfikowalne*.
 
 ### Preferences And Existence
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+Jeśli powiem "lubię lody", tylko jedno słowo pozostaje niejednoznaczne w tym zdaniu. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
 
 Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. Może istnieć jednak możliwość, że jestem masochistą i nie lubię lodów, i wolę torturować się swoim nieprzyjemnym gustem - a potem zmylić cię, twierdząc, że to lubisz.
 
@@ -40,13 +40,13 @@ The challenge arises when we try to define some preferences as *objective*.
 
 The proposition before us is thus: *can some preferences be objective, i.e. universal?*
 
-Kiedy mówię, że niektóre preferencje mogą być obiektywne, nie mam na myśli, że wszyscy ludzie zawsze podążają za tymi preferencjami. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. Gdybym miał argumentować, że jedzenie jest obiektywną preferencją, moim argumentom można przeciwdziałać za pomocą przykładów strajków głodowych i anoreksji.
+Kiedy mówię, że niektóre preferencje mogą być obiektywne, nie mam na myśli, że wszyscy ludzie zawsze podążają za tymi preferencjami. Gdybym miał argumentować, że *oddychanie* jest obiektywną preferencją, mogę zostać łatwo skontrowany przez kogoś, kto popełnia samobójstwo przez powieszenie się. Gdybym miał argumentować, że jedzenie jest obiektywną preferencją, moim argumentom można przeciwdziałać za pomocą przykładów strajków głodowych i anoreksji.
 
 Kiedy mówię o uniwersalnych preferencjach, mówię o tym, co wolą ludzie * powinni </ 0> preferować, a nie to, co zawsze * robią </ 0>. Aby użyć naukowej analogii, aby naprawdę zrozumieć wszechświat, ludzie </ 0> powinni używać metody naukowej - nie oznacza to, że zawsze to robią, ponieważ wyraźnie miliardy ludzi szukają starożytnych bajek zamiast współczesnej nauki dla "Odpowiedzi." Nie ma sposobu, aby osiągnąć prawdę o wszechświecie bez nauki, ale ludzie mają całkowitą swobodę, aby na nowo zdefiniować "prawdę" jako "błąd" i zadowolić się mistyczną sentencją.</p> 
 
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. Preferowanie przyjmowania antybiotyków zamiast tańca deszczowego jest powszechne, ponieważ taniec nie może wyleczyć infekcji. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. Preferowanie przyjmowania antybiotyków zamiast tańca deszczowego jest powszechne, ponieważ taniec nie może wyleczyć infekcji. Tak więc, chociaż zdarzają się przypadkowi szaleńcy, którzy będą próbowali wyleczyć się przez taniec, to nadal jest *bardziej powszechne *, że jeśli człowiek chce się wyleczyć, musi brać antybiotyki.
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+Innymi słowy, jeśli chcesz dostać się na szczyt góry, pragnienie tego nigdy nie zadziała. Jeśli chcesz poznać pochodzenie wszechświata, modlitwa nigdy nie dostarczy odpowiedzi. Ludzie nadal życzą i modlą się, ale to nie sprawia, że ​​życzenia lub modlitwa są bardziej skuteczne. Mając to na uwadze, przejdźmy do pytania, czy uniwersalne preferencje mogą być ważne.
 
 ### Arguments And Universality
 
