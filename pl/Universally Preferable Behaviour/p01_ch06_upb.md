@@ -23,25 +23,25 @@ Powiedzmy, że ty i ja prowadzimy debatę na temat istnienia Boga. After I put f
 
 Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
 
-The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. Jeśli, z drugiej strony, zgodzisz się spłacić pieniądze w ciągu roku, a potem nie uda ci się tego zrobić, to jest zupełnie inna sytuacja.
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+Na przykładzie "kłamstwa", chociaż wyraźnie złamałeś słowo i zmarnowałeś mój czas, nie wydaje mi się, aby było to dla mnie moralne i rozsądne, aby wyciągnąć broń i zastrzelić cię.
 
-A reasonable moral theory should be able to explain why this is the case.
+Rozsądna teoria moralna powinna być w stanie wyjaśnić, dlaczego tak się dzieje.
 
 ### Murder
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+Jeśli rzucisz się na mnie z podniesionym nożem, niewielu ludzi nie zgodziło by się z moim prawem do obrony. Jeśli strzelanie było jedynym sposobem, w jaki mogłem w rozsądny sposób zapewnić sobie własne bezpieczeństwo, generalnie byłoby to uważane za konieczne.
 
 ### Requirements For Ethics
 
-Certain preconditions must exist, or be accepted, in order for ethical judgements or theories to have any validity or applicability. Clearly, choice and personal responsibility must both be accepted as axioms. Jeśli skała podskakuje pod górę i wpada do samochodu, nie ponosimy odpowiedzialności moralnej, ponieważ nie ma świadomości, nie może wybrać i dlatego nie może ponosić osobistej odpowiedzialności. Jeśli skała wyrzucona jest po prostu w wyniku czasu i geologii, to nikt nie jest odpowiedzialny za szkody wyrządzone w samochodzie. Gdybyś jednak zobaczył, że wypycham kamień z jego pozycji, nie obwiniałbyś skały, ale raczej mnie. Żeby dodać kolejną komplikację, jeśli okaże się, że usunąłem kamień, ponieważ inny człowiek zmusił mnie do strzelania z karabinem, znacznie bardziej byłoby prawdopodobne, że obwiniesz inicjującego broń inicjatora sytuacji, a nie mnie.
+Niektóre warunki wstępne muszą istnieć lub zostać zaakceptowane, aby etyczne sądy lub teorie mogły mieć jakąkolwiek ważność lub zastosowanie. Clearly, choice and personal responsibility must both be accepted as axioms. Jeśli skała podskakuje pod górę i wpada do samochodu, nie ponosimy odpowiedzialności moralnej, ponieważ nie ma świadomości, nie może wybrać i dlatego nie może ponosić osobistej odpowiedzialności. Jeśli skała wyrzucona jest po prostu w wyniku czasu i geologii, to nikt nie jest odpowiedzialny za szkody wyrządzone w samochodzie. Gdybyś jednak zobaczył, że wypycham kamień z jego pozycji, nie obwiniałbyś skały, ale raczej mnie. Żeby dodać kolejną komplikację, jeśli okaże się, że usunąłem kamień, ponieważ inny człowiek zmusił mnie do strzelania z karabinem, znacznie bardziej byłoby prawdopodobne, że obwiniesz inicjującego broń inicjatora sytuacji, a nie mnie.
 
 Jak już omówiliśmy powyżej, podjęcie jakiejkolwiek debaty wymaga akceptacji realiów wyboru, wartości i osobistej odpowiedzialności. However, these factors are also present in the choice of the colour of paint for a room, yet we would scarcely say that selecting a hue is a *moral* choice. Zatem muszą istnieć inne kryteria, które muszą być obecne, aby wybór lub propozycja była moralna.
 
 Wszyscy mamy preferencje - od osobistych ("Lubię lody") do najbardziej pożądanych społecznie ("Dobrze jest być na czas") do uniwersalnej moralności ("Nie będziesz mordował").
 
-There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
+Nie ma sensu pisać książki o osobistych preferencjach - i możemy zwrócić się do Ann Landers z pytaniem o preferowane zachowania społeczne - tutaj skupimy się na możliwości *Uniwersalnie preferowanych zachowań*.
 
 ### Choice
 
@@ -49,15 +49,15 @@ Jeśli przyjmuję twoje zaproszenie na kolację, ale uważam rozmowę za wysoce 
 
 Jeśli jednak, kiedy zdecyduję się opuścić przyjęcie, podskoczysz i przykujesz mnie do mojego krzesła, wyraźnie nie mam już wolnego wyboru, aby odejść. Jest to moment, w którym twoja niegrzeczność staje się jawną agresją i przekracza linię od estetyki do etyki.
 
-Jeśli, po ślubowaniu monogamii, oszukuję moją żonę, a ona postanawia mnie opuścić, z pewnością zrobiłem jej krzywdę, ale błąd, który zrobiłem przez oszustwo, byłby bardzo różny od złego, który zrobiłbym, gdybym ją zamknął w piwnicy, aby nie dopuścić do jej opuszczenia. Generalnie nie uważalibyśmy za żonę, która zastrzeliłaby swojego męża za niewierność, aby działała moralnie, ale uznalibyśmy godną ubolewania konieczność, gdyby musiała użyć przemocy, aby uciec z więzienia. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Niewierność nie niszczy zdolności partnera do wyboru; zamknięcie jej w piwnicy.
+Jeśli, po ślubowaniu monogamii, oszukuję moją żonę, a ona postanawia mnie opuścić, z pewnością zrobiłem jej krzywdę, ale błąd, który zrobiłem przez oszustwo, byłby bardzo różny od złego, który zrobiłbym, gdybym ją zamknął w piwnicy, aby nie dopuścić do jej opuszczenia. Generalnie nie uważalibyśmy za żonę, która zastrzeliłaby swojego męża za niewierność, aby działała moralnie, ale uznalibyśmy godną ubolewania konieczność, gdyby musiała użyć przemocy, aby uciec z więzienia. W pierwszej sytuacji żona ma wolny wybór i zdolność do *opuszczenia* swojego męża, a zatem przemoc będzie niesprawiedliwą odpowiedzią na sytuację; w drugiej sytuacji jej decyzja o pozostawieniu męża została wyeliminowana przez uwięzienie. Niewierność nie niszczy zdolności partnera do wyboru; zamknięcie jej w piwnicy.
 
 ### Avoidance
 
 Jeśli ty i ja stoimy u szczytu urwiska, zwracam się do ciebie i mówię: "Stań przede mną, abym mógł odepchnąć cię z urwiska", jaka byłaby twoja odpowiedź? Jeśli zrobisz dobrowolnie stanąć przede mną, a następnie zepchnę cię z urwiska, będzie to bardziej prawdopodobnie traktowane jako forma samobójstwa z twojej strony, niż morderstwo z mojej strony. The reason for this is that you can very easily *avoid* being pushed off the cliff, simply by refusing to stand in front of me.
 
-Podobnie, jeśli spotkam cię w barze i powiem: "Chcę, żebyś wrócił do mnie, abym mógł przywiązać cię do łóżka i umrzeć z głodu", jeśli w rzeczywistości wrócisz do mnie, z rozsądną świadomością, że twoja decyzja nie zwiększy twojej długowieczności. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
+Podobnie, jeśli spotkam cię w barze i powiem: "Chcę, żebyś wrócił do mnie, abym mógł przywiązać cię do łóżka i umrzeć z głodu", jeśli w rzeczywistości wrócisz do mnie, z rozsądną świadomością, że twoja decyzja nie zwiększy twojej długowieczności. Z drugiej strony, jeśli wrzucam do napoju narkotyk "randkowy gwałt", a ty budzisz się przywiązany do mojego łóżka, jasne jest, że niewiele można by zrobić, aby uniknąć sytuacji.
 
-This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose.
+Kwestia *unikania* jest kluczem do odróżnienia estetyki od etyki. Estetyka dotyczy sytuacji, które mogą być nieprzyjemne, ale które nie eliminują Twojej zdolności wyboru.
 
 #### Avoidance And Initiation
 
