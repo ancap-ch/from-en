@@ -1,6 +1,6 @@
 ## La Bestia
 
-Una revisión objetiva de la historia humana parece apuntar a la sombría realidad de que, con mucho, lo más peligroso del mundo es * sistemas éticos falsos *.
+Una revisión objetiva de la historia humana parece apuntar a la sombría realidad de que con mucho, lo mas peligroso del mundo son *falsos sistemas éticos*.
 
 Si observamos un sistema ético como el comunismo, que fue responsable de los asesinatos de ciento setenta millones de personas, podemos ver claramente que el peligro real para los individuos no eran los criminales al azar, sino * las falsas teorías morales *. De manera similar, la Inquisición española no se basó en ladrones y carteristas, sino en sacerdotes y torturadores llenos del deseo de salvar las almas de los demás. El nazismo también se basó en teorías éticas particulares con respecto a la relación entre lo individual y lo colectivo, y el imperativo moral de servir a los que están en el poder, así como a las teorías que "prueban" las virtudes innatas de la raza aria.
 
