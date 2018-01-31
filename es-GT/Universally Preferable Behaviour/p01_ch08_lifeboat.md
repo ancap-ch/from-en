@@ -68,6 +68,6 @@ En otras palabras, antes de precipitarnos, de verdad vale la pena hacer la pregu
 
 Por supuesto, siempre existe el peligro de que una persona inmoral te ataque por sus propios propósitos hedonistas. Podría también ser el caso de que, a pesar de una vida sana y saludable, podrías ser victima del cáncer antes de tiempo -el primero no hace que la ciencia de la inmoralidad sea irrelevante, como tampoco el último hace que la ciencia de la medicina, nutrición y ejercicio irrelevante. Un efecto demostrable de una ciencia de la moralidad racional debe ser reducir las probabilidades de *sufrir* acciones inmorales como robo, homicidio y violación - y es por este criterio por el cual juzgaremos el propósito de las normas de la moralidad en la Parte Tres de este libro.
 
-[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
+[^10]: Por supuesto, si yo fuera un ser humano tan incompetente o un ser humano confundido que terminó al borde la de inanición, el encarcelamiento podría ser una mejora para mi situación.
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+[^11]: Nietzsche's "voluntad de poder" y Rand's "aquello que sirve a la vida del hombre es el bien."
