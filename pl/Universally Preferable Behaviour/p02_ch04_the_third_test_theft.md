@@ -6,7 +6,7 @@ There are many ways of approaching the question of property rights, from “home
 
 Oczywiście, moralna propozycja dotycząca praw własności jest następująca: albo istoty ludzkie mają prawo do posiadania własności, albo nie.
 
-Teraz pierwszą "własnością", którą należy się zająć, jest ciało. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+Teraz pierwszą "własnością", którą należy się zająć, jest ciało. "Własność" musi przede wszystkim polegać na kontroli nad własnym ciałem, ponieważ jeśli ta kontrola nie istnieje lub nie jest uznawana za ważną, wówczas cała kwestia moralności - nie mówiąc już o własności - wylatuję przez okno.
 
 UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. Po pierwsze i najważniejsze, człowiek musi być odpowiedzialny za własne działania, jeśli mają być sądzeni moralnie, ponieważ, jak dowodziliśmy powyżej, zdolność do wybierania działań ma zasadnicze znaczenie dla każdej oceny etycznej.
 
