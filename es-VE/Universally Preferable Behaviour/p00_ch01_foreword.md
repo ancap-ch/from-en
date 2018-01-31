@@ -14,15 +14,15 @@ Inevitablemente, un hombre que nadie cree capaz de semejante hazaña da un paso 
 
 Este libro es la historia de mi ataque personal a tal bestia.
 
-Esta "bestia" es la creencia de que es imposible definir un sistema de ética objetivo, racional, secular y científico. Esta "bestia" es la ilusión de que la moralidad debe perderse para siempre en el pantano irracional de los dioses y los gobiernos, y que, debe ser impuesta por razones meramente pragmáticas, pero carente de justificación lógica y definición precisa. Esta "bestia" es la fantasía de que la virtud, nuestra mayor alegría, nuestra más profunda felicidad, debe ser siempre dejada de lado por adultos seculares, y dejada en el polvo para ser barrida, desfilada y explotada por políticos y curas – y padres. Esta "bestia" es la superstición de que, sin las diatribas de los padres, el acoso de los dioses o las armas de los gobiernos, no podemos ser tanto racionales como buenos.
+Esta "bestia" es la creencia de que es imposible definir un sistema de ética objetivo, racional, secular y científico. Esta "bestia" es la ilusión de que la moralidad debe perderse para siempre en el pantano irracional de los dioses y los gobiernos, y que, debe ser impuesta por razones meramente pragmáticas, pero carente de justificación lógica y definición precisa. Esta "bestia" es la fantasía de que la virtud, nuestra mayor alegría, nuestra felicidad más profunda, debe ser dejada a un lado por los adultos seculares, y dejada al olvido para que sea pisoteada, exhibida y explotada por políticos y sacerdotes, y padres. Esta “bestia” es la superstición de que, en ausencia de las diatribas de los padres, el acoso de los dioses o las armas de los gobiernos, no podemos ser buenos y racionales a la vez.
 
-Esta bestia ha sido estudiada por muchos héroes, de Sócrates a Platón, a Augustine, a Hume, a Kant, a Rand.
+Esta bestia ha derribado a muchos grandes héroes, desde Sócrates a Platón, a Agustín, a Hume, a Kant, y a Rand.
 
-El costo a la humanidad ha sido enorme.
+El costo para la humanidad ha sido enorme.
 
-Desde que permanecemos incapaces de definir un sistema racional de moralidad universal, nosotros hemos sido forzados a infligir horribles historias religiosas a nuestros niños, o dar armas prisiones y ejércitos a un pequeño monopolio de controladores sin alma que se llaman a sí mismos "el estado."
+En el momento en el que nos volvimos incapaces de crear un sistema de ética racional y universal, nos vimos obligados a aterrorizar a nuestros hijos con historias de horror religiosas, o a dar armas, prisiones y ejércitos a un pequeño monopolio de patrones sin alma que se hacen llamar "el estado".
 
-Desde que lo que llamamos "ética" permanece subjetiva y meramente *cultural*, nosotros inevitablemente terminamos dependiendo del acoso, el miedo y la violencia para imponer normas sociales. Ya que la ética carece de base racional en el método científico, la "moralidad" permanece atascada en una guerra tribal de mitologías sangrientas, con cada pandilla luchando con dientes y uñas por el control sobre la lealtad de la gente a la "virtud."
+Debido a que eso que llamamos la “ética” es una cuestión puramente subjetiva y *cultural*, inevitablemente terminamos dependiendo de la intimidación, el miedo y la violencia para hacer cumplir las normas sociales. Ya que la ética carece de base racional en el método científico, la "moralidad" permanece atascada en una guerra tribal de mitologías sangrientas, con cada pandilla luchando con dientes y uñas por el control sobre la lealtad de la gente a la "virtud."
 
 No podemos vivir sin moralidad, pero no podemos definir la moralidad objetivamente – así que permanecemos eternamente condenados a vidas vacías de hipocresía pomposa, dominación cínica o esclavitud piadosa.
 
