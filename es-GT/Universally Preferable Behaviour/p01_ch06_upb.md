@@ -1,8 +1,8 @@
-## CUP: ¿ética o estética?
+## CUP: ¿Ética o Estética?
 
-En general, utilizaremos el término * estética * para referirnos a las preferencias no exigibles, universales o personales, mientras que * ética * o * moralidad * se referirán a ejecutables preferencias. Es * universalmente preferible * (es decir, obligatorio) utilizar el método científico para validar las teorías físicas, pero no podemos usar la fuerza para * infligir * el método científico a quienes no lo usan, ya que * no usar el método científico no es una acción violenta *. Las acciones no violentas por su propia naturaleza son * evitables *. Si un físico deja de usar el método científico, sino que comienza a consultar las cartas del tarot, no está infligiendo violentamente su elección sobre mí, y puedo evitarlo. Un violador, por otro lado, está infligiendo violentamente sus preferencias sobre su víctima.
+En general, usaremos el término *estética* para referirnos a las preferencias no exigibles, universales o personales, mientras que *ética* o *moralidad* se referirán a preferencias ejecutables. Es *universalmente preferible* (es decir, obligatorio) utilizar el método científico para validar las teorías físicas, pero no podemos usar la fuerza para *infligir* el método científico en aquellos que no lo usan, ya que *no usar el método científico no es una acción violenta*>. Las acciones no violentas por su propia naturaleza son *evitables*. Si un físico deja de utilizar el método científico, pero empieza a consultar cartas de tarot, no me está imponiendo violentamente su elección, y puedo evitarlo. Un violador, por otra parte, está infligiendo violentamente sus preferencias a su víctima.
 
-Aunque primero nos centramos en CUP en el ámbito de la ética, CUP ahora se puede ver como un "término general" que incluye disciplinas tales como:
+Aunque primero nos enfocamos en el CUP en el campo de la ética, el CUP puede ahora ser visto como un "término general", que incluye disciplinas tales como:
 
 - El método científico
 - Lógica
