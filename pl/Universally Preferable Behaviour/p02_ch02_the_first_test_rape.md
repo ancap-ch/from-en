@@ -1,14 +1,14 @@
 ## The First Test: Rape
 
-Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Morderstwo może być komplikowane przez samoobronę; kradzieży przez problem głodu lub "kradzieży" - ale nigdy nie można gwałcić w samoobronie; z samej definicji jest to inicjacja agresji.
+Chociaż jest to nieprzyjemny temat do przedyskutowania, gwałt jest bez wątpienia *co najmniej* niejednoznacznym działaniem, które musi objąć każda teoria moralna. Morderstwo może być komplikowane przez samoobronę; kradzieży przez problem głodu lub "kradzieży" - ale nigdy nie można gwałcić w samoobronie; z samej definicji jest to inicjacja agresji.
 
 Wykorzystajmy zatem strukturę UPB do zbadania logicznej spójności zdań etycznych dotyczących gwałtu, w odniesieniu do tych siedmiu kategorii moralnych.
 
 ### The Good
 
-To take an absurd example, let’s imagine that we are reviewing an ethical theory that proclaims that rape is a moral good.
+Aby przyjąć absurdalny przykład, wyobraźmy sobie, że dokonujemy przeglądu teorii etycznej, która głosi, że gwałt jest moralnym dobrem.
 
-Clearly, if I proclaim that “X” is “the good,” then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+Oczywiście, jeśli ogłoszę, że "X" jest "dobrem", to przeciwieństwo "X" musi być złe. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
 
 Zgłaszanie komuś jest pozytywnym działaniem, które musi zostać zainicjowane, wykonane, a następnie zakończone. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
 
