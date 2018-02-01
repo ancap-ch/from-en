@@ -30,7 +30,7 @@ Comer puede moral, inmoral o moralmente neutral. Si comer es inmoral, entonces s
 
 Si, por otro lado, comer es *moral*, entonces no puede ser moral comer un repollo, e inmoral comer un pescado ya que es una violación a la universalidad del argumento, pues la misma acción - comer - es juzgada tanto buena como mala.
 
-Es de esta manera que entendemos que la proposición "comer * pescado * es mala" no pasa la prueba de UPB, y no es válida como teoría moral.
+Es así que podemos entender que la propuesta "comer *pescado* es malo" falla la prueba de la UPB, y no es una teoría moral válida.
 
 ### Derechos de los animales
 
