@@ -12,11 +12,11 @@ Una cirugía puede "apuñalarte" con un bisturí, pero facilmente podemos compre
 
 Esta diferencia puede ser entendida por un medio de análisis más profundo de *Iniciación*.
 
-Si contraes cancer, debes pedir una cirugia para que te operen. La razon por la cual en la cirugia te "apuñalan" no es inmoral ya que el cancer "inció" un ataque contra tu vida y tu salud. El cirujano está actuando como un “agente surrogado de defensa propia”, tal como lo haría un hombre que le dispara al ladrón que lo está atacando. Además usted ha dado su consentimiento al cirujano, y limita su comportamiento con un contrato específico.
+Si contraes cancer, debes pedir una cirugia para que te operen. La razon por la cual en la cirugia te "apuñalan" no es inmoral ya que el cancer "inció" un ataque contra tu vida y tu salud. La cirugia está actuando como un "Sustituto de defensa personal" simplemente como un hombre que dispara a un asaltante el cual te está atacando. Inclusive haz dado tu consentimiento para la cirugía, y el trato de la misma por un contrato específico.
 
-El ladrón que lo apuñala a usted, sin embargo, está iniciando un ataque a su vida y a su salud, motivo por el cual su ataque es lo moralmente *opuesto* a los esfuerzos del cirujano.
+El asaltante que te apuñala, de cualquier manera, está iniciando un ataque contra tu vida y tu salud, por lo cual está atacando la moral * al contrario * de los esfuerzos de la cirugía.
 
-Si yo soy un fumador crónico hace mucho tiempo, tuve participación en la cadena de eventos que dieron como resultado mi cáncer de pulmón. Por iniciar y mantener el hábito de fumar, he puesto en marcha una cadena de causalidad que puede resultar en una condición que ponga en peligro mi vida. Es certeramente posible para mí desarrollar un cáncer de pulmon sin fumar – o fumar sin desarrollar un cáncer de pulmón – pero verdaderamente he afectado las posibilidades.
+Si soy un fumador crónico que lleva tiempo haciéndolo, he participado en la cadena de eventos que han llevado a mi pulmón a contraer cancer. Al iniciar y mantener el habito de fumar, he iniciado una cadena de casualidades que pueden resultar en una aflicción que amenaza a la vida. Ciertamente es posible obtener cancer de pulmón sin fumar - de igual manera fumar sin contraer cancer de pulmón - pero ciertamente en esto afectan las posibilidades.
 
 De manera similar, es posible para mí dejar mi billetera en el banco de un parque durante una semana, y luego regresar y encontrar que sigue en el lugar, pero al dejarla allí por tanto tiempo, verdaderamente he afectado las posibilidades de que pueda desaparecer.
 
