@@ -38,17 +38,17 @@ En este punto, la objeción puede plantearse razonablemente, si un hombre en com
 
 El concepto de "evitabilidad" funciona en lo positivo tanto como en lo negativo. Si yo he perdido mis genitales en algún desagradable accidente, ¿Soy moral por abstenerme de violar? Parecería difícil discutir que yo podría serlo, ya que la violación con los genitales sería imposible, al menos para mí. De igual forma, podríamos llamar a un hombre "generoso" si el dona un millón de dólares a un mendigo -sin embargo, deberíamos sin duda revisar nuestra consideración si resulta que él regaló su dinero mientras se encontraba sonámbulo, y lamenta terriblemente su acción estando consciente.
 
-Por ende podemos razonablemente decir que donde la elección está ausente, o es inaplicable, la moralidad también esta ausente o es inaplicable. Por ello el hombre en estado de coma, mientras que sus acciones no pueden ser consideradas malas, tampoco pueden ser consideradas buenas. El existe en un estado sin eleccion, como un infante, o un animal- por lo tanto el puede razonablemente ser exentado de las reglas morales, ya que existe un estado fisico que objetivamente lo diferencia a el de un hombre que puede elegir, lo cual es permisible bajo UPB.
+Por ende podemos razonablemente decir que donde la elección está ausente, o es inaplicable, la moralidad también esta ausente o es inaplicable. Por ello el hombre en estado de coma, mientras que sus acciones no pueden ser consideradas malas, tampoco pueden ser consideradas buenas. Él existe en un estado sin elección, como un infante, o un animal -por consiguiente él puede ser razonablemente exentado de las normas morales, dado que existe la posibilidad de un estado físico que lo pueda diferenciar objetivamente del hombre que puede escoger, lo cual es permitido bajo el CUP.
 
-Con esto en mente, continuemos nuestra examinacion de la violación.
+Con esto en mente, continuemos con nuestra análisis de la violación.
 
-### Esteticamente positivo
+### Estéticamente Positivo
 
-Acciones estéticamente positivas (AEP) son universalmente preferibles, pero no ejecutables a través de la violencia, ya que las acciones estéticamente negativas no inician el uso de la fuerza. Como ya comentamos anteriormente, si llego tarde a una reunion a conocerte, yo no he iniciado el uso de la fuerza en contra tuya, y no te he removido tu capacidad de escoger, o evitar la situación.
+Las Acciones Estéticamente Positivas (AEP) son universalmente preferibles, pero no aplicables a través de la violencia, dado que las acciones estéticamente negativas no comienzan con el uso de la violencia. Como se comentó anteriormente, si yo voy tarde a encontrarme contigo, yo no he iniciado el uso de la fuerza contra ti, y no he removido tu capacidad de escoger, o de evitar la situación.
 
-Si decimos que APAs pueden ser reforzadas a través de la violencia, entonces estamos diciendo que la iniciación de la violencia es moralmente buena.
+Si yo digo que las AEP se pueden imponer a través de la violencia, entonces estamos diciendo que la iniciación de la violencia es moralmente bueno.
 
-Si proponemos una regla moral que la iniciación de la violencia es moralmente buena, entonces esta regla enfrenta todas las mismas imposibilidades como la regla de que "la violación es moralmente buena"
+Si proponemos una norma moral de que la iniciación de la violencia es moralmente buena, entonces ésta regla encara todas las imposibilidades lógicas como la norma que dice "violar es moralmente bueno."
 
 Dos hombres en una habitación no puedes ambos ser moralmente buenos al mismo tiempo, ya que uno de ellos debe iniciar la violencia contra el otro, y el otro debe resistirlo - ya que sino lo esta resistiendo, es por definición no violencia, como es en el caso de un cirujano como discutimos arriba. Por lo tanto solo puede habilitarsela virtud al resistir la virtud, y dos hombres en la misma circunstancias no pueden ambos ser moralmente correctos al mismo tiempo, y asi sucesivamente- de los cuales todos son violaciones de UPB.
 
