@@ -110,23 +110,23 @@ Quizás la violación es una acción estéticamente *negativa*, como "llegar tar
 
 Sin embargo, la violación por definición no puede ser evitada ya que es un ataque sexual aplicado mediante la violencia.[^4] También, si yo decido dejar de ser amigos con el hombre tardío mencionado arriba, él no puede justamente forzarme a ser su amiga amenazándome con violencia ya que eso se basaría en el principio de que las preferencias meramente personales pueden ser aplicadas a otros, lo que funcionaría infructuosamente en contra de mi capacidad para hacer cumplir *mi* deseo de dejar su amistad. Este tipo de "moralidad de Tarantino" siempre termina con todos en un estado de parálisis muda, apuntando armas a la cara del otro como estatuas congeladas.
 
-As we have already established, any universally preferable behaviour must be universal to all people in all places at all times – if ANAs allow for violent enforceability (i.e. I can shoot you for being late) – then if rape is defined as an ANA which can be enforced, then the rape victim who finds rape an aesthetically negative action has the right to shoot his rapist, which effectively affirms the principle of self-defence, but at the expense of also allowing gun play in the opposition of, say, rudeness.
+Como ya hemos establecido, cualquier comportamiento universalmente preferible debería ser universal para todas las personas en todos los lugares en todo momento - Si las ANAs permiten la aplicación violenta (por ejemplo, puedo dispararte por llegar tarde) - entonces si la violación es definida como una ANA que puede ser aplicada, por lo que la víctima de la violación que encuentra ésta como una acción estéticamente negativa tiene el derecho de disparar a su violador, lo cual efectivamente afirma el principio de autodefensa, pero a costa de también permitir el uso de un arma en contra de. digamos, la rudeza.
 
-Thus rape cannot be an ANA.
+De este modo, la violación no puede ser una ANA.
 
-Which leaves only…
+Lo que deja unicamente…
 
-### Evil
+### Maldad
 
-If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil,” passes the “coma test,” insofar as it is impossible for a man in a coma to rape someone.
+Si la violación es definida como maldad, entonces debería involucrar la *iniciación* del uso de la fuerza, lo cual claramente hace. También, la proposición: "la violación es maldad," pasa la "prueba del coma," en tanto que es imposible para un hombre en coma violar a alguien.
 
-In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
+Además, si la violación es maldad, entonces *no* violar debería ser bueno - de esta manera, dos hombres en una habitación pueden ser morales a la vez, siplemente no violándose entre ellos.
 
-Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
+Ya que el evitar es uno de los diferenciadores clave entre "desagradable" e "inmoral," y la violación es claramente un comportamiento inevitable, la definición de "la violación es maldad" también se ajusta a esta distinción.
 
-Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
+Además, ya que hay veces que es físicamente imposible violar a alguien - por ejemplo, cuando no se puede conseguir una erección - la definición de "la violación es maldad" resuelve el problema de las personas siendo involuntariamente inmoral, lo que es por definición imposible, de acuerdo al criterio de evitabilidad.
 
-The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+El violador puede justificar sus acciones evitando la proposición "la violación es buena," y en cambio sustituyendo otra proposición que apoya su deseo de violar, como: "es moral tomar el placer propio, sin importar que a otros no les plazca."
 
 This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
 

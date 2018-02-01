@@ -85,7 +85,7 @@ Empiricism can be thought of as the ability to instinctively catch a thrown ball
 
 Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+Ten wymóg spójności jest jednym z najbardziej podstawowych wymagań dla prawdy. Ponieważ rzeczywistość jest spójna, teorie dotyczące rzeczywistości muszą również być spójne.
 
 In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
 

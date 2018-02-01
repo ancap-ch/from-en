@@ -6,7 +6,7 @@ However, there remain many challenging moral tests that fall outside the example
 
 ### Self-Defence
 
-The concept of self-defence should not be taken for granted. If we assume that there is no such thing as self-defence, or that self-defence is never a valid action, then the framework of UPB undoes that assumption very quickly.
+The concept of self-defence should not be taken for granted. Jeśli założymy, że nie ma czegoś takiego jak samoobrona, lub że samoobrona nigdy nie jest prawidłowym działaniem, wówczas struktura UPB bardzo szybko rozwiązuje to założenie.
 
 If there is no such thing as self-defence, then we are not talking about the initiation or the retaliation of the use of force, but rather just the use of force in any context. In other words, if we get rid of the concept of self-defence, the only question that we need to ask ourselves is: *is it universally preferable to use force, or not?*
 
@@ -42,11 +42,11 @@ Of course, our offence is in no way a moral argument, but it is an excellent sta
 
 Before, when we were talking about UPB, we noted that, where there are exceptions in UPB, there must be objective differences in biology. Or, to put it more accurately, where there are objective differences in biology, there may be rational exceptions or differences in UPB. A child of five has a biologically immature brain and nervous system, and thus cannot rationally process the long-term consequences of his actions. It is the immature brain that is the key here, insofar as if an adult male is retarded to the point where his brain is the equivalent to that of a five year old, he would also have a reduced responsibility for his actions.
 
-Thus when we point to situations of reduced responsibility, we are not *taking away* responsibility that exists, but rather recognising a situation where responsibility does not exist, at least to some degree. If I say that a man in a wheelchair cannot take the escalator, I am not taking away his right to take the escalator, but merely pointing out that he cannot, in fact, use it. When I say that UPB does not apply to the actions of a five year old, I am not saying that UPB is subjective, any more than a height requirement for a roller coaster somehow makes the concept of “tall” subjective.
+Thus when we point to situations of reduced responsibility, we are not *taking away* responsibility that exists, but rather recognising a situation where responsibility does not exist, at least to some degree. Jeśli powiem, że człowiek na wózku inwalidzkim nie może użyć ruchomych schodów, nie odbieram jego prawa do poruszania się po ruchomych schodach, lecz jedynie wskazuję na to, że nie może on z nich korzystać. When I say that UPB does not apply to the actions of a five year old, I am not saying that UPB is subjective, any more than a height requirement for a roller coaster somehow makes the concept of “tall” subjective.
 
 If I voluntarily enter into a contract with you wherein I promise to pay your bills for a year, I have not signed myself into slavery, but I certainly have taken on a positive obligation that I am now responsible for.
 
-If I run a nursing home, and I take in patients who are unable to feed themselves, then if I do not feed those patients, I am responsible for their resulting deaths. No one is *forcing* me to take in these patients, but once I have expressed a desire and a willingness to take care of them, then I am responsible for their continued well-being.
+Jeśli prowadzę dom opieki i przyjmuję pacjentów, którzy nie są w stanie się wyżywić, to jeśli ich nie karmię to odpowiadam za ich śmierć. No one is *forcing* me to take in these patients, but once I have expressed a desire and a willingness to take care of them, then I am responsible for their continued well-being.
 
 In the same way, if I borrow your lawnmower, I am obligated to bring it back in more or less the same state that it was when I borrowed it. Similarly, if I go to a pet store and buy a dog, I have taken on a voluntary obligation to take care of that dog. This does not mean that I am now the dog’s slave until the day it dies, but it does mean that as long as the dog is in my possession, I have a responsibility to try to keep it healthy.
 
@@ -56,7 +56,7 @@ If I run a nursing home, and disabled people rely on me to feed them, if I prove
 
 Thus it is assumed that parents will feed and take care of their newborn baby. If said parents decide against such care-giving, then they are obligated to give the child up to other people who *will* care for it, or face the charge of murder, just as the manager of a home for the disabled must either feed those who utterly depend on him, or give them up to someone who will. If I decide that I no longer want to take care of my dog, I must find him another home, not simply let him starve to death.
 
-This all relies on the principle of third-party self-defence, which is fully supported by the framework of UPB, since the right of self-defence is universal. If I see a man in a wheelchair being attacked by a woman, I have the right to defend him – and this is all the more true if he lacks the capacity to defend himself.
+This all relies on the principle of third-party self-defence, which is fully supported by the framework of UPB, since the right of self-defence is universal. Jeśli widzę mężczyznę na wózku inwalidzkim zaatakowanym przez kobietę, mam prawo go bronić - a to tym bardziej, że nie ma zdolności do obrony.
 
 Since children cannot feed themselves, earn a living or live independently, they are the moral equivalent of kidnap victims, or the wife we talked about before whose husband locked her in the basement. Children also lack the capacity for effective self-defence, due to their small stature and near-complete dependence upon their parents.
 

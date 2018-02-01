@@ -63,7 +63,7 @@ resources:
       - Sitio web de recursos
     description: Descripción de recursos
     persons:
-      - modelo_persona
+      - "modelo_persona"
 targets:
   - 
     target: [ ]

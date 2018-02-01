@@ -2,7 +2,7 @@
 
 What would be the status of the moral proposition: “It is evil to eat fish”?
 
-Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
+Oczywiście, propozycja ta wydaje się spełniać przynajmniej niektóre wymagania UPB - wydaje się uniwersalna, niezależna od czasu i miejsca, i względnie obiektywna.
 
 Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
 
@@ -26,7 +26,7 @@ The moral proposition “eating fish is evil” thus fails the test of universal
 
 UPB also rejects as invalid any theory that results in opposing moral judgements for identical actions. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
 
-Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
+Albo "jedzenie" jest moralne, niemoralne, albo moralnie neutralne. Jeśli jedzenie jest niemoralne, pojawia się cały szereg problemów logicznych, z którymi jestem pewien, że jesteśmy już dobrze obeznani.
 
 If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
 
@@ -34,7 +34,7 @@ It is in this way that we understand that the proposition “eating *fish* is ev
 
 ### Animal Rights
 
-We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
+Nie mamy tutaj czasu, aby przejść do pełnej dyskusji na temat praw zwierząt, ale możemy przynajmniej poradzić sobie z moralną propozycją: "złem jest zabijać ryby."
 
 If it is evil to kill fish, then UPB says that anyone or anything that kills the fish is evil. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
 

@@ -1,36 +1,36 @@
-### "No comer pescado"
+### No comas pescado
 
-¿Cuál sería el estado de la proposición moral: "es malo comer pescado"?
+Cual sería el estado de la propuesta moral: "¿Es malo comer pescado?
 
-Claramente, esta proposición parece satisfacer al menos algunos de los requisitos de CUP – esta parece universal, independiente del tiempo y el lugar, y relativamente objetiva.
+Claramente esta propuesta parece satisfacer al menos algunos de los requisitos de UPG, parece ser universal, independiente del espacio y el tiempo, y relativamente objetiva.
 
-Sin embargo, parece difícil para nosotros llamar razonablemente a esto una teoría verdaderamente * moral * – ¿por qué?
+Aun así parece difícil para nosotros llamar a esto, de forma racional, una teoría *moral* – ¿Por qué?
 
-En primer lugar, el "mal" abarca las acciones que se pueden prevenir mediante el uso de la fuerza. La violación es "malvada", y si entonces puedo usar la fuerza para defenderme de alguien que intenta violarme.
+Primero que todo, el "mal" engloba las acciones que se pueden prevenir a través del uso de la fuerza. La violación es "mala", y entonces puedo usar fuerza para defenderme de alguien que intenta violarme.
 
-¿Puedo disparar justamente a alguien que come un trozo de pescado?
+Podría disparar de forma justa a alguien que está comiendo un trozo de pescado?
 
-Parecería una tontería argumentar que puedo – ¿pero por qué?
+Pareciera tonto discutir que puedo - Pero, ¿Por qué?
 
-Hay algunos límites objetivos a la universalidad de esta doctrina. Por ejemplo, algunas personas pueden no tener acceso a los peces – pueden vivir en un desierto, por ejemplo – mientras que otros viven cerca de un lago lleno de peces, y les resulta difícil o imposible sobrevivir sin comerlos. Sin embargo, eso no puede ser suficiente, dado que ya hemos aceptado el hecho de que la incapacidad de un eunuco para violar no invalida la proposición moral "es malo violar"
+Hay limites objetivos a la universalidad asociados a esta doctrina. Por ejemplo, algunas personas podrían no tener acceso a los peces - podrían vivir en un desierto - mientras que otros podrían vivir cerca de un lago que está lleno de peces, y les resultaría difícil o imposible sobrevivir sin comerlos. Sin embargo eso no podría ser suficiente, ya que hemos aceptado el hecho de la incapacidad de un eunuco para violar a alguien no invalida la propuesta moral "es malo violar"
 
-Pero no, el "arenque rojo" en la proposición moral "Es malo comer pescado" es la palabra "*pescado*"
+No, el punto central de la propuesta moral "es malo comer pescado" es la palabra "“*pescado“*"
 
-Un científico no puede decir válidamente que su teoría de la gravedad solo se aplica a las rocas rosadas. Como su teoría involucra la gravedad, debe aplicarse a *todas* las entidades que tienen masa.
+Un cientifico no podría decir validamente que su teoría de la gravedad sólo aplica a las piedras rosadas. Ya que su teoría involucra a la gravedad, debe aplicar a *todas* las entidades que tengan masa.
 
-De manera similar, en el ejemplo anterior, CUP acepta solo el * acto * de comer, y rechaza * lo que * se está come, ya que lo que se come no es una * acción *, sino más bien sobre lo que se está actuando.
+De forma similar, en el ejemplo anterior, la UPA solo acepta el *acto* de comer, y rechaza *lo que* se esta comiendo, ya que lo que se come no es una *acción *, sino sobre lo que se está ejerciendo la acción.
 
-De la misma forma, un especialista en ética no puede presentar válidamente la proposición moral: "Es malo violar a los *ancianos*". "Violación" es el comportamiento; si la víctima es mayor o no es irrelevante para la proposición moral, ya que mientras la víctima sea humana, el requisito de universalidad se mantiene constante. "No robarás" es una proposición moral válida según CUP - "no robarás * nabos *" no lo es, por la simple razón de que el robo está relacionado con el concepto de propiedad - y los nabos, como un subconjunto de la propiedad, no se puede delinear racionalmente de todas las otras formas de propiedad y se les asigna su propia regla moral.
+De la misma manera, un profesional en etica no puede presentar de forma valida la propuesta moral "es malo violar a los *ancianos*". "Violación" es el comportamiento; Si la victima es un anciano o no es irrelevante a la propuesta moral ya que mientras la victima sea humana, el requerimiento para la universalidad se mantiene constante. "No robarás" es una propuesta moral válida segun UPB - "No robarás *nabos*" no lo es, por la simple razón que el robo está relacionado al concepto de la propiedad - Y los nabos, como un subconjunto de la propiedad, no se puede delimitar de forma racional de todas las formas de propiedad y tienen asignadas su propia regla moral.
 
-La proposición moral de "comer pescado es malo" fracasa en la prueba de la universalidad porque es demasiado específica para generalizarse – es como decir "mi teoría de la gravedad se aplica solo a las rocas rosadas". Si se trata de una teoría de la gravedad, entonces debe aplicarse a todo – si solo se aplica a rocas rosadas, entonces no es una teoría de la gravedad.
+La propuesta moral de "comer pescado es malo" falla al probar la universalidad del enunciado al ser demasiado especifica para ser generalizada - Es como decir "mi teoría de la gravedad aplica solo a piedras rosadas". Si es una teoría de la gravedad, entonces debe aplicar a todo; si solo aplica a las piedras rosadas, entonces no es una teoría de la gravedad.
 
-CUP también rechaza como inválida cualquier teoría que resulte en juicios morales opuestos para acciones idénticas. "Asalto" no puede ser moral un día, e inmoral el siguiente. Por lo tanto, sabemos que "comer" no puede ser moral un día, e inmoral al siguiente.
+La UPB además rechaza como inválida cualquier otra teoría que resulte en oponer juicios morales para acciones idénticas. Un "asalto" no puede ser moral un día, e inmoral el que le sigue. Por ende, ya sabemos que "comer" no puede ser moral un día, e inmoral el que le sigue.
 
-O "comer" es moral, inmoral, o moralmente neutral. Si comer es inmoral, entonces surgen toda una serie de problemas lógicos, y estoy seguro de que ya los conocemos bien.
+Comer puede moral, inmoral o moralmente neutral. Si comer es inmoral, entonces se generan una cantidad de problemas lógicos y estoy seguro de que ya estamos familiarizados con ellos.
 
-Si, por otro lado, comer es *moral*, entonces no puede ser moral comer un repollo, e inmoral comer un pescado, ya que eso es una violación de la universalidad, en la medida en que la misma acción – comer – es juzgada tanto buena como mala.
+Si, por otro lado, comer es *moral*, entonces no puede ser moral comer un repollo, e inmoral comer un pescado ya que es una violación a la universalidad del argumento, pues la misma acción - comer - es juzgada tanto buena como mala.
 
-Es de esta manera que entendemos que la proposición "comer * pescado * es mala" no pasa la prueba de UPB, y no es válida como teoría moral.
+Es así que podemos entender que la propuesta "comer *pescado* es malo" falla la prueba de la UPB, y no es una teoría moral válida.
 
 ### Derechos de los animales
 

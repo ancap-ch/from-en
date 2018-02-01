@@ -1,60 +1,60 @@
-## Escenario de Bote salvavidas
+## Lifeboat Scenarios
 
-El hecho de que CUP solo valide teorías morales lógicamente consistentes no significa que no pueda haber circunstancias imaginables bajo las cuales podamos optar por actuar * en contra* de los principios de tal teoría.
+The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
 
-Por ejemplo, si aceptamos la validez universal de los derechos de propiedad, romper una ventana y saltar al apartamento de alguien sin permiso sería una violación de sus derechos de propiedad. Sin embargo, si estuviéramos colgando de un asta de bandera fuera de la ventana de un departamento, ya punto de caer en la ruina, pocos de nosotros nos negaríamos a patear la ventana y saltar a la seguridad por obedecer un principio abstracto.
+For instance, if we accept the universal validity of property rights, smashing a window and jumping into someone’s apartment without permission would be a violation of his property rights. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
 
-En el mundo real, se necesitaría una persona asombrosamente insensible para presentar cargos contra un hombre que destruyó una ventana para salvar su vida, así como le tomaría a un hombre asombrosamente irresponsable negarse a pagar la restitución de dicha ventana. El principio de "evitabilidad" es fundamental aquí: un hombre colgado de un asta de bandera no tiene muchas opciones para patear una ventana. Un hombre irrumpiendo en su casa para robar cosas claramente tiene la capacidad de evitar invadir su propiedad: no está arrinconado, sino que es el * iniciador * de la agresión. Esto es similar a la diferencia entre la mujer cuyo hombre la engaña, y la mujer cuyo hombre la encierra en el sótano.
+In the real world, it would take a staggeringly callous person to press charges against a man who destroyed a window in order to save his life – just as it would take a staggeringly irresponsible man to refuse to pay restitution for said window. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
 
-Esto no quiere decir que romper la ventana para salvar tu vida no esté mal. Lo es, pero es un error que casi todos nosotros decidamos comprometernos en lugar de morir. Si estuviera a punto de morirme de hambre, robaría una manzana. Esto no significa que sea * correcto * que robe la manzana, solo significa que lo haría, y debo aceptar las consecuencias de mi robo. [^10]
+This is not to say that breaking the window to save your life is not wrong. It is, but it is a wrong that almost all of us would choose to commit rather than die. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
 
-### Zonas Grises
+### Grey Areas
 
-El hecho de que ciertas "áreas grises" existen en el ámbito de la ética a menudo se ha utilizado como una justificación para el relativismo de rango. Dado que en algunas ocasiones algunas cosas no están claras (por ejemplo, quién inició el uso de la violencia), y dado que es imposible definir reglas objetivas y exactas para cada situación concebible, a menudo se llega a la conclusión de que nada * alguna vez * conocido con certeza, y que no existen reglas objetivas para * ninguna * situación.
+The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
 
-Esto es falso.
+This is false.
 
-Todas las personas razonables reconocen que la biología es una ciencia válida, a pesar del hecho de que algunos animales nacen con mutaciones "únicas". El hecho de que un perro pueda nacer con cinco patas no significa que "canino" se convierta en una categoría completamente subjetiva. El hecho de que ciertas especies de insectos sean difíciles de diferenciar no significa que no haya diferencia entre un escarabajo y una ballena.
+All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
 
-Por alguna razón perversa, los intelectuales en particular se alegran mucho con la destrucción gratuita de normas éticas, normativas y racionales. Esto podría deberse a que los intelectuales tan a menudo han sido pagados por clases corruptas de individuos como políticos, sacerdotes y reyes, o podría ser que un hombre a menudo se convierta en intelectual para crear justificaciones para su propio comportamiento inmoral. Cualquiera sea la razón, la mayoría de los pensadores modernos se han convertido en una especie de "antipensadores", lo cual es muy extraño. Sería equivalente a una enorme clase de "biólogos" que pasaron toda su vida argumentando que la ciencia de la biología era imposible. Si la ciencia de la biología es imposible, apenas tiene sentido convertirse en biólogo, del mismo modo que un ateo no debería pelear con uñas y dientes para convertirse en sacerdote.
+For some perverse reason, intellectuals in particular take great joy in the wanton destruction of ethical, normative and rational standards. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
 
-### Sombras Grises
+### Shades Of Grey
 
-En el ámbito de las "áreas grises", en realidad solo hay tres posibilidades.
+In the realm of “grey areas,” there are really only three possibilities.
 
-1. No hay cosas tales como áreas grises.
-2. Ciertas áreas grises existen.
-3. Todo el conocimiento es un área gris.
+1. There are no such things as grey areas.
+2. Certain grey areas do exist.
+3. All knowledge is a grey area.
 
-Claramente, la opción uno puede descartarse fácilmente. La opción tres también es bastante fácil de descartar. La afirmación "todo conocimiento es un área gris" es una proposición que se auto-detona, como hemos visto anteriormente, del mismo modo que "todas las afirmaciones son mentiras" también se auto-detona.
+Clearly, option one can be easily discarded. Option three is also fairly easy to discard. The statement “all knowledge is a grey area” is a self-detonating proposition, as we have seen above, in the same way that “all statements are lies” also self-detonates.
 
-Por lo tanto, debemos ir con la opción dos, que es que existen ciertas áreas grises, y sabemos que son grises en relación con las áreas que no son grises. El oxígeno existe en el espacio, y también bajo el agua, pero no en una forma o cantidad humana los seres pueden consumir. El * grado * de oxigenación es un área gris, es decir, "menos versus más"; la cuestión de si los seres humanos pueden o no respirar agua seguramente es blanco y negro.
+Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
 
-Un científico capturado por caníbales puede pretender ser un hechicero para escapar - esto no significa que debemos descartar el método científico como completamente inválido.
+A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
 
-De manera similar, puede haber situaciones extremas en las que podemos elegir cometer acciones inmorales, pero tales situaciones no invalidan la ciencia de la moralidad, así como las mutaciones ocasionales invalidan la ciencia de la biología. De hecho, la ciencia de la biología avanza mucho a través de la aceptación y el examen de mutaciones, y de manera similar, la ciencia de la ética solo se fortalece mediante el examen de "escenarios de botes salvavidas", siempre que dicho examen no se realice obsesivamente.
+Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
 
-### Universalidad y Excepciones
+### Universality And Exceptions
 
-Antes de comenzar a utilizar nuestro marco de Comportamiento universalmente preferible para examinar algunas creencias éticas comúnmente aceptadas, debemos abordar la cuestión de las "excepciones"
+Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
 
-Utilizando los "escenarios de bote salvavidas" anteriores, a menudo se llega a la conclusión de que "lo bueno" es simplemente * lo que es "bueno" para la vida de un hombre individual *.
+Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
 
-En argumentos éticos, si se me pregunta si robaré una manzana en lugar de morirme de hambre, y digo "sí", inevitablemente se hará el siguiente argumento:
+In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
 
-1. Todos preferirían robar una manzana antes que morir de hambre.
-2. Por lo tanto, todos prefieren universalmente robar manzanas hasta la muerte por inanición.
-3. Por lo tanto, es * universalmente preferible * robar manzanas en lugar de morir de hambre.
-4. Por lo tanto, la supervivencia es universalmente preferible a los derechos de propiedad.
-5. Por lo tanto, lo que es bueno para el individuo es el estándar moral máximo.
+1. Everyone would rather steal an apple than starve to death.
+2. Thus everyone universally prefers stealing apples to death by starvation.
+3. Thus it is *universally preferable* to steal apples rather than starve to death.
+4. Thus survival is universally preferable to property rights.
+5. Thus what is good for the individual is the ultimate moral standard.
 
-Esto se ha utilizado como base para una serie de teorías y enfoques éticos, desde Nietzsche hasta Rand. La preferencia de cada individuo por la supervivencia se traduce en teorías éticas que colocan a la supervivencia del individuo en su centro. [^11]
+This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
 
-Este tipo de "hedonismo biológico" puede ser una descripción del "impulso para sobrevivir", pero solo es correcto en la medida en que describe lo que las personas realmente * hacen *, no lo que * deberían </0 > hacer.</p> 
+This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
 
-También introduce un subjetivismo completamente anticientífico a la cuestión de la moralidad. Por ejemplo, si es moralmente permisible robar comida cuando te mueres de hambre, ¿cuánta comida puedes robar? ¿Cuán hambriento tienes que ser? ¿Puedes robar comida que no sea nutritiva? ¿Qué tan nutritivo debe ser el alimento para justificar el robo? ¿Cuánto tiempo después de robar una comida se le permite robar otra comida? ¿Se le permite robar comidas en lugar de buscar trabajo o apelar a la caridad?
+It also introduces a completely unscientific subjectivism to the question of morality. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
 
-Además, si puedo ganar más dinero como asesino a sueldo que a comerciante, ¿no debería perseguir la violencia como carrera? Ciertamente mejora la * mi * supervivencia... y así sucesivamente.
+Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
 
 As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
 

@@ -36,14 +36,14 @@ Quando analisamos um princípio como o PNA, existem apenas sete possibilidades: 
 - O início do uso da força às vezes é moralmente correto.
 - O início do uso da força é sempre moralmente correto.
 
-As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
+No entanto, como já vimos anteriormente, o CUP é um quadro de "tudo ou nada". Se uma acção é *universalmente preferível*, então não pode ser limitada pelo indivíduo, geografia, tempo etc. Se é errado assassinar na Argélia, também é errado assassinar na Bélgica, nos Estados Unidos, no Pólo Norte e na Lua. Se ontem era errado assassinar, então não pode ser correcto matar amanhã. Se matar é errado para Bob, então também deve ser errado para Doug.
 
-Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
+Unindo o PNA com o CUP, podemos reduzir essas sete declarações a três:
 
-1. It is universally preferable to initiate the use of force.
-2. It is universally preferable to not initiate the use of force.
-3. The initiation of the use of force is not subject to universal preferences.
+1. É universalmente preferível iniciar o uso da força.
+2. É universalmente preferível não iniciar o uso da força.
+3. O início do uso da força não está sujeito a preferências universais.
 
-This is the natural result of applying the requirement of rational consistency to ethical propositions. A rational theory cannot validly propose that opposite results can occur from the same circumstances. A scientific theory cannot argue that one rock must fall down, but another rock must fall up. Einstein did not argue that E=MC^2^ on a Thursday, but that E=MC^3^ on a Friday, or on Mars, or during a blue moon. The law of conservation – that matter can be neither created nor destroyed – does not hold true only when you really, really want it to, or if you pay a guy to make it so, or when a black cat crosses your path. The laws of physics are not subject to time, geography, opinion or acts of Congress. This consistency must also be required for systems of ethics, or UPB, and we will subject generally accepted moral theories to this rigour in Part Two, in a few pages.
+Este é o resultado natural da aplicação da exigência de coerência racional a proposições éticas. Uma teoria racional não pode propor, legitimamente, que resultados opostos possam suceder nas mesmas circunstâncias. Uma teoria científica não pode argumentar que uma pedra deve cair, mas que outra deve subir. Einstein não argumentou que E = MC^2^ numa quinta-feira, mas que E = MC^3^ numa sexta-feira, ou em Marte, ou durante uma lua azul. A lei da conservação - que a matéria não pode ser criada nem destruída - não é verdadeira somente quando realmente o quer de verdade, ou se paga a alguém para fazer que ocorra dessa forma, ou quando um gato preto se atravessa no seu caminho. As leis da física não estão sujeitas a tempo, geografia, opinião ou actos do Congresso. Esta coerência também deve ser necessária para sistemas de ética, ou CUP, e submeteremos as teorias morais, geralmente aceites a esse rigor na Parte Dois, em algumas páginas.
 
-However, since we are dealing with the question of *consistency*, it is well worth taking the time to deal with our capacity for *inconsistency*.
+No entanto, uma vez que estamos a lidar com a questão de *consistência*, vale a pena tomar algum tempo para tratar com a nossa capacidade de *incoerência*.

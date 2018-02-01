@@ -1,34 +1,34 @@
-## Lifeboat Scenarios
+## Cenários salva-vidas
 
-The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
+O fato do CUP validar apenas teorias morais, logicamente consistentes, não significa que não podem existir circunstâncias possíveis sob as quais podemos optar por agir *contra* os princípios dessa mesma teoria.
 
-For instance, if we accept the universal validity of property rights, smashing a window and jumping into someone’s apartment without permission would be a violation of his property rights. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
+Por exemplo, se aceitarmos a validade universal dos direitos de propriedade, romper uma janela e entrar no apartamento de alguém sem autorização, seria uma violação dos seus direitos de propriedade. No entanto, se estivéssemos pendurados num mastro de bandeira no lado de fora de uma janela de um apartamento e prestes a cair, o que causaria a nossa morte, poucos de nós nos negaríamos a dar um pontapé na janela e saltar para a segurança, só para obedecer a um princípio abstrato.
 
-In the real world, it would take a staggeringly callous person to press charges against a man who destroyed a window in order to save his life – just as it would take a staggeringly irresponsible man to refuse to pay restitution for said window. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
+No mundo real, isso poderia levar uma pessoa incrivelmente insensível a acusações contra o homem que destruiu a janela para salvar a sua vida - assim como poderia levar um homem incrivelmente irresponsável a se recusar a pagar a restituição da mesma. O princípio da "evitabilidade" é central aqui - um homem pendurado num mastro de bandeira tem pouca escolha, excepto dar um pontapé numa janela. Um homem que invade a sua casa para roubar coisas, claramente tem a capacidade de evitar entrar na sua propriedade - não está encurralado, é simplesmente o *iniciador* da agressão. Isto é como a diferença entre a mulher traída pelo marido e a mulher cujo marido a prende no sótão.
 
-This is not to say that breaking the window to save your life is not wrong. It is, but it is a wrong that almost all of us would choose to commit rather than die. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
+Isso não quer dizer que romper a janela para salvar a sua vida não está errado. Está, mas é um erro que quase todos nós escolheríamos cometer em vez de morrer. Se eu estivesse prestes a morrer de fome, roubaria uma maçã. Isso não significa que para mim, seja *correcto* roubar a maçã - significa apenas que eu o faria - e que devo aceitar as consequências do meu roubo.<sup id="fnref:10"><a href="#fn:10" class="footnote-ref"></a></sup>
 
-### Grey Areas
+### Zonas Cinzentas
 
-The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+O facto de que existam algumas "áreas cinzentas" no domínio da ética, tem sido muito usado como justificação para o relativismo da classificação. Uma vez que, no momento, algumas coisas permanecem pouco claras (por exemplo, quem iniciou o uso da violência) e como é impossível definir regras objectivas e exactas para todas as situações possíveis, a conclusão, geralmente é que nada pode ser *sempre* conhecido com certeza, e que não existem regras objectivas para *qualquer* situação.
 
-This is false.
+Isto é falso.
 
-All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
+Todas as pessoas razoáveis reconhecem que a biologia é uma ciência válida, apesar de que alguns animais nascem com mutações "excepcionais". O facto de que um cão nasça com cinco pernas não significa que o "canino" se converta numa categoria completamente subjectiva. O facto de que certas espécies de insectos sejam difíceis de diferenciar não significa que não haja diferença entre um besouro e uma baleia.
 
-For some perverse reason, intellectuals in particular take great joy in the wanton destruction of ethical, normative and rational standards. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
+Por alguma razão perversa, os intelectuais, em particular, gozam de grande alegria na destruição desenfreada de padrões éticos, normativos e racionais. Isso pode ser porque os intelectuais, frequentemente, foram pagos por classes corruptas de indivíduos, como políticos, sacerdotes e reis - ou pode ser que um homem muitas vezes se converta em intelectual para criar justificações para o seu próprio comportamento imoral. Seja qual for o motivo, a maioria dos pensadores modernos tornou-se uma espécie de "anti pensador", o que é muito estranho. Isso seria equivalente a haver uma grande classe de "biólogos" que passaram toda a vida argumentando que a ciência da biologia era impossível. Se a ciência da biologia é impossível, dificilmente faz sentido converter-se em biólogo, mais do que um ateu lutar com unhas e dentes para se tornar padre.
 
-### Shades Of Grey
+### Tons de Cinzento
 
-In the realm of “grey areas,” there are really only three possibilities.
+No domínio das "áreas cinzentas", existem apenas três possibilidades.
 
-1. There are no such things as grey areas.
-2. Certain grey areas do exist.
-3. All knowledge is a grey area.
+1. Não existem tais coisas como áreas cinzentas.
+2. Existem certas áreas cinzentas.
+3. Qualquer conhecimento é uma área cinzenta.
 
-Clearly, option one can be easily discarded. Option three is also fairly easy to discard. The statement “all knowledge is a grey area” is a self-detonating proposition, as we have seen above, in the same way that “all statements are lies” also self-detonates.
+Evidentemente, a opção 1 pode ser facilmente descartada. A opção três também é bastante fácil de descartar. A declaração "qualquer conhecimento é uma área cinzenta" é uma proposição auto-explosiva, como vimos acima, da mesma forma que "todas as declarações são mentiras" também auto-explode.
 
-Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
+Assim, devemos ir com a opção dois, que é que existem certas áreas cinzentas, e sabemos que elas são cinza em relação às áreas que não são oxigénio cinza existente no espaço, e também debaixo da água, senão na forma ou quantidade em que os seres humanos podem consumir. O *grau* de oxigenação é uma área cinzenta, ou seja, "menos versus mais"; A questão de saber se os seres humanos podem ou não respirar água é, sem dúvida, preto e branco.
 
 A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
 

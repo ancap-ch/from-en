@@ -38,118 +38,118 @@ En este punto, la objeción puede plantearse razonablemente, si un hombre en com
 
 El concepto de "evitabilidad" funciona en lo positivo tanto como en lo negativo. Si yo he perdido mis genitales en algún desagradable accidente, ¿Soy moral por abstenerme de violar? Parecería difícil discutir que yo podría serlo, ya que la violación con los genitales sería imposible, al menos para mí. De igual forma, podríamos llamar a un hombre "generoso" si el dona un millón de dólares a un mendigo -sin embargo, deberíamos sin duda revisar nuestra consideración si resulta que él regaló su dinero mientras se encontraba sonámbulo, y lamenta terriblemente su acción estando consciente.
 
-Por lo tanto podemos razonablemente decir que la decision esta ausente, o inaplicable, la moralidad esta también ausente, o inaplicable. Por lo tanto el hombre en coma, mientras que sus acciones no pueden ser consideradas viles, tampoco pueden ser consideradas buenas. El existe en un estado sin eleccion, como un infante, o un animal- por lo tanto el puede razonablemente ser exentado de las reglas morales, ya que existe un estado fisico que objetivamente lo diferencia a el de un hombre que puede elegir, lo cual es permisible bajo UPB.
+Por ende podemos razonablemente decir que donde la elección está ausente, o es inaplicable, la moralidad también esta ausente o es inaplicable. Por ello el hombre en estado de coma, mientras que sus acciones no pueden ser consideradas malas, tampoco pueden ser consideradas buenas. Él existe en un estado sin elección, como un infante, o un animal -por consiguiente él puede ser razonablemente exentado de las normas morales, dado que existe la posibilidad de un estado físico que lo pueda diferenciar objetivamente del hombre que puede escoger, lo cual es permitido bajo el CUP.
 
-Con esto en mente, continuemos nuestra examinacion de la violación.
+Con esto en mente, continuemos con nuestra análisis de la violación.
 
-### Esteticamente positivo
+### Estéticamente Positivo
 
-Acciones estéticamente positivas (AEP) son universalmente preferibles, pero no ejecutables a través de la violencia, ya que las acciones estéticamente negativas no inician el uso de la fuerza. Como ya comentamos anteriormente, si llego tarde a una reunion a conocerte, yo no he iniciado el uso de la fuerza en contra tuya, y no te he removido tu capacidad de escoger, o evitar la situación.
+Las Acciones Estéticamente Positivas (AEP) son universalmente preferibles, pero no aplicables a través de la violencia, dado que las acciones estéticamente negativas no comienzan con el uso de la violencia. Como se comentó anteriormente, si yo voy tarde a encontrarme contigo, yo no he iniciado el uso de la fuerza contra ti, y no he removido tu capacidad de escoger, o de evitar la situación.
 
-Si decimos que APAs pueden ser reforzadas a través de la violencia, entonces estamos diciendo que la iniciación de la violencia es moralmente buena.
+Si yo digo que las AEP se pueden imponer a través de la violencia, entonces estamos diciendo que la iniciación de la violencia es moralmente bueno.
 
-Si proponemos una regla moral que la iniciación de la violencia es moralmente buena, entonces esta regla enfrenta todas las mismas imposibilidades como la regla de que "la violación es moralmente buena"
+Si proponemos una norma moral de que la iniciación de la violencia es moralmente buena, entonces ésta regla encara todas las imposibilidades lógicas como la norma que dice "violar es moralmente bueno."
 
-Dos hombres en una habitación no puedes ambos ser moralmente buenos al mismo tiempo, ya que uno de ellos debe iniciar la violencia contra el otro, y el otro debe resistirlo - ya que sino lo esta resistiendo, es por definición no violencia, como es en el caso de un cirujano como discutimos arriba. Por lo tanto solo puede habilitarsela virtud al resistir la virtud, y dos hombres en la misma circunstancias no pueden ambos ser moralmente correctos al mismo tiempo, y asi sucesivamente- de los cuales todos son violaciones de UPB.
+Dos hombres en un habitación no pueden ser ambos moralmente buenos al mismo tiempo, uno de ellos debe iniciar la violencia en contra del otro, y el otro debe resistir esa violencia -dado que si él no se resiste, no es violencia por definición, como en el caso del cirujano que discutimos anteriormente. Por consiguiente la virtud solo puede habilitarse al resistir la virtud, y dos hombres en las mismas circunstancias no pueden ser moralmente correctos al mismo tiempo, y así sucesivamente -las cuales todas son violaciones de CUP.
 
-Por lo tanto sabemos que la violación no puede ser un APA.
+Por ello sabemos que la violación no puede ser un AEP.
 
-Podemos confirmar esto al revisar las razones de por qué "llegar a tiempo" *es* un APA.
+Podemos confirmar esto al revisar las razones del por qué "llegar a tiempo" *es* un AEP.
 
-En primer lugar, instintivamente entendemos que es más justo rechazar a un amigo por estar perpetuamente atrasado que el rechazar a un amigo por no gustarle el helado.
+Primero que nada, entendemos instintivamente que es más justo rechazar a un amigo por ser perpetuamente impuntual que rechazarlo por no gustarle el helado.
 
-Porque es eso?
+¿Por qué ocurre esto?
 
-Una vez más, el marco de la UPB viene al rescate.
+De nuevo, el marco de CUP viene al rescate.
 
-Una APA es una*regla no coercitiva que puede ser racionalmente aplicada a ambas partes simultaneamente*.
+Un AEP es una *regla no coercitiva que puede ser aplicada racionalmente a ambas partes simultáneamente*.
 
-Por ejemplo, si mi APA es:"llegar a tiempo",, entonces puede ser una norma universal que puede ser totalmente evitada. Yo no puedo infligir a la fuerza esta APA en ti porque tú no tienes que ser mi amigo, tú no tienes que llegar a tiempo, tú no tienes que respetar o seguir mis preferencias de ningún modo.[^1]
+Por ejemplo, si mi AEP es: "ser puntual," entonces puede ser una norma universal que puede ser evitada en su totalidad. Yo no puedo imponer por la fuerza este AEP sobre ti porque tú no tienes que ser mi amigo, no tienes que ser puntual, no tienes que respetar o seguir mis preferencias de ninguna forma. [^1]
 
-Si "estar a tiempo" es una APA, entonces es posible para dos personas, lograrlo simultaneamente- Si ambos están a tiempo.
+Si "ser puntual" es un AEP, entonces es posible para dos personas lograrlo simultáneamente -si ambos están a tiempo.
 
-Sin embargo, con la violación, como hemos visto arriba, es imposible que dos personas la lleven a cabo al mismo tiempo. Una siempre tiene que ser el violador, y la otra siempre la víctima.
+Con la violación en cambio, como hemos visto anteriormente, es imposible para dos personas llevarla a cabo al mismo tiempo. Uno siempre debe ser el violador, y el otro siempre debe ser la victima.
 
-Por otro lado, si yo digo que "tener gusto por el jazz" es una APA, entonces inmediatamente me tropiezo con una imposibilidad lógica. Recuerda, las APAs son normas no coercitivas que pueden ser aplicadas racionalmente a ambas partes a la vez - la formulación correcta para "tener gusto por el jazz" es: "preferencias subjetivas son universalmente preferibles."
+Por otro lado, si yo digo que "tener gusto por el jazz" es un AEP, entonces yo me topo inmediatamente con una imposibilidad lógica. Hay que recordar, EAP son normas no coercitivas que pueden ser aplicadas racionalmente a ambas partes de forma simultánea -la formulación correcta para "gustar del jazz" es: "las preferencias subjetivas son universalmente preferibles."
 
-Esto no es únicamente una contradicción de rango en términos de sintaxis, sino que también inmediatamente falla la prueba de la UPB. Si yo prefiero el jazz ante todas las demás formas de música, pero tú prefieres la música clásica, y si las preferencias personales son universalmente preferibles, entonces tu deberías preferir el jazz porque yo lo hago y yo debería preferir la clásica porque tu lo haces. Esto, por supuesto, es imposible, porque eso requeriría que ambos *simultáneamente* prefiriéramos tanto el jazz como la música clásica sobre todas las demás formas de música. Tu deberías cambiar tu preferencia a jazz a causa de mi preferencia - pero yo debería a la vez cambiar mi preferencia a clásica a causa de tu preferencia. Esto es como decir que tu debería tanto lanzan como atrapar la misma pelota de béisbol exactamente al mismo tiempo - una imposibilidad lógica y física.
+Esto no es solamente un rango de contradicción en términos de sintaxis, sino que también inmediatamente falla la prueba del CUP. Si yo prefiero el Jazz a los otros tipos de música, pero tú prefieres la música clásica a los otros tipos de música, si las preferencias personales son universalmente preferible, entonces tú deberías preferir el jazz porque a yo lo hago, y yo debería preferir la música clásica porque tú lo haces. Ésto, por supuesto, es imposible, porque requeriría que a ambos *simultáneamente prefiriéramos el jazz y la música clásica ambas por encima de los otros tipos de música*. Tú debes cambiar tu preferencia al jazz, porque es mi preferencia -pero yo al mismo tiempo debo cambiar la mía a clásica, porque es tu preferencia. Esto es como decir que ambos deben lanzar y atrapar la misma pelota de béisbol exactamente al mismo momento - una imposibilidad lógica y física.
 
-Ya que las APAs no son aplicables a través de la violencia - tú no puedes disparar a un hombre por llegar tarde - entonces la violación *no puede* ser una APA, puesto que violación por definición es un ataque sexual forzado mediante la violencia.
+Dado que los AEP no son aplicables a través de la violencia -no le puedes disparar a un hombre por llegar tarde -entonces la violación *no puede* ser un AEP, puesto que la violación por definición es un ataque sexual impuesto a través de la fuerza.
 
-Así, la violación no puede caer en la categoría de APAs.
+Por lo tanto la violación no podría entrar en la categoría de los AEP.
 
-### Personalmente Positiva
+### Personalmente Positivo
 
-Tal vez la violación es similar a una preferencia meramente personal.[^2]
+Quizás la violación es semejante a una mera preferencia personal. [^2]
 
-Entonces surge la pregunta: ¿puede la clasificación de violación como una preferencia meramente personal hacer frente al escrutinio lógico?
+Por lo que surge la siguiente pregunta: ¿Puede la clasificación de la violación como una mera preferencia personal hacer frente al escrutinio lógico?
 
-Si proponemos la regla moral: "las preferencias personales deben ser violentamente infligidas a entras personas," ¿cómo hace eso frente a la estructura de la UPB?[^3]
+Si proponemos la normal moral: "las preferencias personales deben ser violentamente infligidas a otras personas," ¿Cómo eso hace frente al marco del CUP?[^3]
 
-Las preferencias personales no pueden ser justamente infligidas a otras personas porque eso crearía una paradoja lógica insuperable.
+Las preferencias personales no pueden justamente ser infligidas a otras personas, porque eso crearía una paradoja lógica insuperable.
 
-Si yo digo que tener gusto por la banda Queen sobre todas las demás es un comportamiento preferible universalmente, ¿en qué fundamentos puedo yo justificar esa declaración? Solo diciendo que todas las preferencias personales deberían se infligidas a otras personas. Sin embargo, si mis preferencias personales pueden ser infligidas a ti a voluntad, entonces por la misma definición de UPB, tus preferencias personales pueden ser infligidas a *mí* a voluntad. Así, no podemos ambos ser morales a la vez, ya que eso requeriría que ambos prefiriéramos nuestras propias bandas mientras que al mismo tiempo sometemos esa preferencia a las bandas favoritas de ambos. En otras palabras, yo debería simultáneamente pensar que Queen es la mejor banda y que The Police es la mejor banda. Esto es una imposibilidad lógica, lo cual es el principal motivo por qué simples preferencias personales no pueden ser aplicables universalmente.
+Si yo digo que gustar de la banda Queen por encima de las otras bandas es un comportamiento universalmente preferible, ¿Bajo que bases podría yo justificar esa declaración? Únicamente diciendo que todas las preferencias personales deberían ser infligidas en otras personas. Sin embargo, si mi preferencia personal puede ser infligida sobre ti a voluntad, entonces por la misma definición de CUP, tus preferencias personales pueden también ser infligidas sobre *mi* a voluntad. Por consiguiente, no podemos ambos ser morales a la vez, dado que requeriría que ambos prefiriéramos a nuestras propias bandas mientras que al mismo tiempo sometemos esa preferencia a las bandas favoritas de ambos. En otras palabras, yo simultáneamente debería pensar que Queen es la mejor banda, y que The Police es también la mejor banda. Esto es una imposibilidad lógica, la cual es la principal razón de por qué simples preferencias personales no pueden ser aplicables universalmente.
 
-De este modo, si la violación es considerada como una preferencia meramente personal, entonces no puede ser lógicamente aplicable a nadie mas. De nuevo, pensando en los dos hombres en una habitación, esto requeriría que ambos prefieran violar al otro pero se mantengan completamente incapaces de ejecutar esa decisión, lo cual no es solo ilógico sino que también, afortunadamente, completamente poco práctico.
+Así, si la violación es considerada como una simple preferencia personal, entonces no puede ser aplicada lógicamente sobre nadie más. De nuevo, pensando en los dos hombres en una habitación, esto requeriría de que ambos hombres prefieran violarse entre ellos, pero se mantengan completamente incapaces de ejecutar esa decisión, lo cual no es solo ilógico, pero también afortunadamente completamente poco práctico.
 
-Por último, ya que las preferencias personales no pueden ser aplicadas a otros, pero la violación es por definición la aplicación de una "preferencia" a otro, las violaciones no pueden estar en la categoría moral de preferencias meramente personales.
+Finalmente, dado que las preferencias personales no pueden ser impuestas en otros, pero la violación es por definición la aplicación de una "preferencia" sobre otros, la violación no puede estar en la categoría moral de las meras preferencias personales.
 
 ### Moralmente Neutral
 
-Como se discutió arriba, una violación no puede ser una acción moralmente neutral ya que es una preferencia que es aplicada a otro.
+Como se discutió anteriormente, la violación no puede ser una acción moralmente neutral, dado que es un preferencia que se aplica sobre otros.
 
-### Personalmente Negativa
+### Personalmente Negativo
 
-Tal vez la violación es una acción *personalmente negativa*, lo contrario del número tres. Como un ejemplo, un criminal en fuga consideraría la captura una acción personalmente negativa (PNA).
+Tal vez la violación es una acción *personalmente negativa*, lo opuesto al número tres. Como un ejemplo, un prófugo consideraría la captura una acción personalmente negativa (APN).
 
-Acciones personalmente negativas (PNAs) por definición no pueden ser aplicadas a otro. Así, un hombre siendo violado estaría equivocado al "infligir" su preferencia por *no ser violado* a su violador, en forma de autodefensa. De esta manera, la iniciación de violencia - la aplicación de una preferencia personal - es *moral*, mientras que la autodefensa - también la aplicación de una preferencia personal - es inmoral. De este modo, tendríamos las mismas acciones (la aplicación de una preferencia personal) clasificadas tanto moral como inmoral, lo que no se puede entender.
+Las acciones personalmente negativas (APN) por definición no pueden ser aplicadas sobre otros. Por ello, un hombre siendo violado estaría equivocado al "Infligir" su preferencia por *no ser violado* a su violador, en la manera de legitima defensa. De este modo, la iniciación de la violencia -la aplicación de una preferencia -es *moral*, mientras sea auto-defensa -también la aplicación de una preferencia personal - es inmoral. Así, tendríamos las mismas acciones (la aplicación de una preferencia personal) ambas clasificadas como moral e inmoral, lo cual no puede sostenerse.
 
-### Estéticamente Negativa
+### Estéticamente Negativo
 
-Quizás la violación es una acción estéticamente *negativa*, como "llegar tarde" - el reverso del número dos de arriba. Sin embargo, las acciones estéticamente negativas (ANAs) no pueden lógicamente ser aplicadas violentamente *porque por definición pueden ser evitadas*. Ya que yo puedo elegir libremente dejar de asociarme con un hombre que continuamente llega tarde, no puedo dispararle por llegar tarde.
+Tal vez la violación es una acción estéticamente *negativa*, como "ser impuntual" -el reverso del número dos explicado anteriormente. Sin embargo, las acciones estéticamente negativas (AEN) lógicamente no pueden ser aplicadas violentamente *porque por definición no pueden ser evitadas*. Dado que yo puedo escoger libremente dejar de asociarme con un hombre que continuamente sigue siendo impuntual, yo no puedo dispararle por llegar tarde.
 
-Sin embargo, la violación por definición no puede ser evitada ya que es un ataque sexual aplicado mediante la violencia.[^4] También, si yo decido dejar de ser amigos con el hombre tardío mencionado arriba, él no puede justamente forzarme a ser su amiga amenazándome con violencia ya que eso se basaría en el principio de que las preferencias meramente personales pueden ser aplicadas a otros, lo que funcionaría infructuosamente en contra de mi capacidad para hacer cumplir *mi* deseo de dejar su amistad. Este tipo de "moralidad de Tarantino" siempre termina con todos en un estado de parálisis muda, apuntando armas a la cara del otro como estatuas congeladas.
+Sin embargo, la violación por definición no puede ser evitada, dado que es un ataque sexual aplicado a través de la violencia. [^4] También, si yo decido dejar de ser amigo del anteriormente mencionado hombre impuntual, él no puede justamente forzarme a ser su amigo mediante amenazas violentas, dado que que eso recaería en el principio de que simples preferencias personales pueden ser aplicadas sobre otros, lo cual funcionaría infructuosamente contra mi habilidad de aplicar *mi* deseo de no continuar con la amistad. Este tipo de "moralidad de Tarantino" siempre termina con alguien en un estado de parálisis muda, apuntando armas los unos contra los otros como estatuas congeladas.
 
-As we have already established, any universally preferable behaviour must be universal to all people in all places at all times – if ANAs allow for violent enforceability (i.e. I can shoot you for being late) – then if rape is defined as an ANA which can be enforced, then the rape victim who finds rape an aesthetically negative action has the right to shoot his rapist, which effectively affirms the principle of self-defence, but at the expense of also allowing gun play in the opposition of, say, rudeness.
+Como ya se estableció, cualquier comportamiento universalmente preferible debe ser universal para todas las personas en todos los lugares todo el tiempo -si AEN permite la aplicación violenta (p.ej. que yo te dispare por ser impuntual) -entonces si la violación es definida como un AEN la cual puede ser aplicada, entonces la victima de violación que ve a la violación como una acción estéticamente negativa tiene el derecho de dispararle al violador, lo que efectivamente afirma el principio de la legitima defensa, pero a expensas de permitir el uso de armas en oposición de, por decirlo, rudeza.
 
-Thus rape cannot be an ANA.
+Por tanto, la violación no puede ser un AEN.
 
-Which leaves only…
+Lo que solo nos deja…
 
-### Evil
+### El Mal
 
-If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil,” passes the “coma test,” insofar as it is impossible for a man in a coma to rape someone.
+Si violar es definido como malo, entonces debe involucrar la *iniciación* de el uso de la fuerza, lo que claramente hace. También, la premisa; "violar es malo," pasa la "prueba del coma," en la medida que es imposible para un hombre en estado de coma violar a alguien.
 
-In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
+Además, si violar es malo, entonces *no* violar debe ser bueno -de este modo, dos hombres en un cuarto pueden ambos ser morales al mismo tiempo, simplemente por no violarse entre ellos.
 
-Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
+Puesto que la evitabilidad es una de las claves diferenciadoras entre "desagradable" e "inmoral," y violar es un comportamiento claramente inevitable, la definición de "violar es malo" también se ajusta a ésta distinción.
 
-Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
+También, dado que hay veces que es físicamente imposible violar a alguien -por ejemplo, cuando no se puede tener una erección -la definición de "violar es malo" soluciona el problema de la gente siendo involuntariamente inmoral, lo cual es por definición imposible, debido al criterio de la evitabilidad.
 
-The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+El violador puede justificar sus acciones evitando la premisa "violar es bueno," y en su lugar sustituirlo con otra premisa que apoye su deseo de violar, tal como: "Es moral tomar el propio placer, sin importar el descontento de los demás."
 
-This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+Esta premisa también falla en la prueba de lógica más básica de CUP. Si Bob cree que él debería tomar su propio placer al violar a Doug -sin importar el descontento de éste -entonces Bob no puede racionalmente elevar su preferencia a un CUP.
 
-If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
+Si todo el mundo tomaría su propio placer sin importar el *des*contento de sus victimas, entonces Bob no tendría derecho de violar a Doug, debido a que aunque Bob *prefiere* violar a Doug, Doug ciertamente prefiere *no* ser violado. Si todo el mundo tomara su propio placer sin importar el descontento de los otros, entonces no hay una razón racional de por qué la preferencia de Bob de violar a Doug debería tener un precedente sobre la preferencia de Doug de no ser violado, si importar el descontento que le causaría a Bob la negativa a ser violado.
 
-Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
+Por consiguiente, Doug le puede decir a Bob: " Es moralmente bueno para mí violarte, porque las preferencias personales pueden ser aplicadas violentamente." Bob, por supuesto replicaría: "Si es moralmente bueno para mí violentamente resistir tu ataque, dado que mi preferencia personal de no ser violado puede también ser aplicado mediante la fuerza."
 
-Of course, few rapists are philosophers, but as we mentioned above, the primary danger to human beings is not the individual criminal, but irrational and exploitive moral theories. For instance, incarceration is inevitably justified through an appeal to a moral theory – and incarceration causes far more people to be raped than private criminals could ever dream of. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
+Por supuesto, pocos violadores son filósofos, pero como mencionamos anteriormente, el principal peligro para los seres humanos no son los criminales individuales, sino las teorías morales irracionales y explotadoras. Por ejemplo, el encarcelamiento es inevitablemente justificado a través de la recurso de una teoría moral -un encarcelamiento causa que muchas más personas sean violadas de lo que los criminales privados podrían siquiera soñar. Si la teoría moral que justifica el encarcelamiento es incorrecta, entonces *corregir* ésta teoría moral debería ser, por mucho, la preocupación más grande de cualquiera que desee reducir la prevalencia de violación.
 
-Thus it would seem that the only logical possibility for rape is that *not* raping is universally preferable behaviour – or that rape is universally banned behaviour.
+Por ello, pareciera que la única posibilidad lógica para la violación es que ésta *no* una conducta universalmente preferible -o que la violación es un comportamiento universalmente prohibido.
 
-### Whew!
+### ¡Vaya!
 
-The fact that the UPB framework has logically and effectively validated the moral proposition that rape is evil – not “good,” or “aesthetically preferable,” or “personally preferable,” or “morally neutral” – is a very good sign. It does not prove beyond a shadow of a doubt that UPB will logically validate all “common sense” moral propositions, but the first hurdle has been passed, and that should give us great cause for celebration. If I were a physicist proposing a Unified Field Theory, and the application of my theory correctly predicted where a thrown baseball would land, I could justly be enormously pleased.
+El hecho de que el marco de CUP ha validado lógica y efectivamente la proposición moral de que violar es malo - no "bueno", o "estéticamente preferible," o "personalmente preferible," o "moralmente neutral" -es una muy buena señal. Ésto no prueba que más allá de una sombra de duda de que el CUP validará lógicamente todo el "sentido común" de las proposiciones morales, pero el primer obstáculo ha sido atravesado, y eso debería darnos un buen motivo de celebración. Si yo fuera un físico proponiendo una Teoría de Campos Unificados, y la aplicación de mi teoría predijera correctamente dónde caería una pelota de béisbol, yo estaría gratamente complacido.
 
-Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
+La teoría de la relatividad de Einstein predijo que una luz se inclinaría al rededor de un pozo de gravedad -cuando se confirmó esto por primera vez, no probó su teoría más allá de un rastro de duda, pero sí probó que la teoría *podría* ser cierta, lo que fue un gran salto. Esta primera validación es siempre la más difícil, porque es muy fácil hacer mal las cosas, y un error siempre supera a la precisión.
 
-The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+El marco de CUP ha validado correctamente nuestra premisa moral de que la violación es mala. Esto es un criterio necesario -pero no suficiente - para prueba, y sostiene completamente la investigación adicional. Por lo tanto, continuemos…
 
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
+[^1]: Esto es muy diferente de un ataque físico, en el cual se destruye tu capacidad de libre elección.
 
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
+[^2]: No puede ser argumentado que la violación no incluye una preferencia, dado que la violación es un comportamiento, como ya hemos discutido anteriormente, todos los comportamientos incluyen preferencias.
 
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
+[^3]: Tenga en cuenta que yo no puedo proponer que "las preferencias personales *puedan* ser violentamente infligidas en otras personas, debido a que la violación de CUP, el cual establece que las normas morales deben ser absolutas y universales - si no lo fuesen, caerían en el territorio de las AEP, y así no pueden afectar a otros.
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]: No podemos evitar situaciones en las cuales aumente la probabilidad de violación, pero no podemos evitar la violación en su proceso de realización.

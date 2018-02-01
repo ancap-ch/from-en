@@ -1,14 +1,14 @@
 ## The First Test: Rape
 
-Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Morderstwo może być komplikowane przez samoobronę; kradzieży przez problem głodu lub "kradzieży" - ale nigdy nie można gwałcić w samoobronie; z samej definicji jest to inicjacja agresji.
+Chociaż jest to nieprzyjemny temat do przedyskutowania, gwałt jest bez wątpienia *co najmniej* niejednoznacznym działaniem, które musi objąć każda teoria moralna. Morderstwo może być komplikowane przez samoobronę; kradzieży przez problem głodu lub "kradzieży" - ale nigdy nie można gwałcić w samoobronie; z samej definicji jest to inicjacja agresji.
 
 Wykorzystajmy zatem strukturę UPB do zbadania logicznej spójności zdań etycznych dotyczących gwałtu, w odniesieniu do tych siedmiu kategorii moralnych.
 
 ### The Good
 
-To take an absurd example, let’s imagine that we are reviewing an ethical theory that proclaims that rape is a moral good.
+Aby przyjąć absurdalny przykład, wyobraźmy sobie, że dokonujemy przeglądu teorii etycznej, która głosi, że gwałt jest moralnym dobrem.
 
-Clearly, if I proclaim that “X” is “the good,” then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+Oczywiście, jeśli ogłoszę, że "X" jest "dobrem", to przeciwieństwo "X" musi być złe. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
 
 Zgłaszanie komuś jest pozytywnym działaniem, które musi zostać zainicjowane, wykonane, a następnie zakończone. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
 
@@ -48,7 +48,7 @@ Aesthetically positive actions (APAs) are universally preferable, but not enforc
 
 If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+Jeśli proponujemy moralną zasadę, że inicjacja przemocy jest moralnie dobra, wówczas ta reguła napotyka wszystkie te same logiczne niemożności, jak zasada, że "gwałt jest moralnie dobry."
 
 Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
 
@@ -56,7 +56,7 @@ Thus we know that rape cannot be an APA.
 
 We can confirm this by reviewing the reasons why “being on time” *is* an APA.
 
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
+Przede wszystkim instynktownie rozumiemy, że bardziej wystarczy odrzucić przyjaciela za to, że wiecznie się spóźnia, niż odrzucić przyjaciela za nie lubienie lodów.
 
 Why is that?
 
@@ -128,7 +128,7 @@ Also, since there are times when it is physically impossible to rape someone –
 
 The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
 
-This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+This proposition also fails the most basic logical test of UPB. Jeśli Bob uważa, że powinien odebrać sobie przyjemność, gwałcąc Douga - niezależnie od niezadowolenia Douga - to Bob nie może racjonalnie podnieść swoich preferencji do UPB.
 
 If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
 
@@ -152,4 +152,4 @@ The UPB framework has correctly validated our moral premise that rape is evil. T
 
 [^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]: Możemy uniknąć sytuacji, które zwiększają prawdopodobieństwo gwałtu, ale nie możemy uniknąć gwałtu w toku.

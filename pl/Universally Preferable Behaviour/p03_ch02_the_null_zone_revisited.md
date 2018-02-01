@@ -2,7 +2,7 @@
 
 Na początku tej książki przedstawiłem sposób patrzenia na to, jak przetwarzamy prawdę, mając na uwadze fizykę. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
 
-The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
+To samo dotyczy moralności. Od małych prawd "nie powinienem mordować" możemy dotrzeć do wielkich prawd, takich jak "inicjacja użycia siły jest moralnie błędna."
 
 In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
 
