@@ -33,10 +33,10 @@ Cuando analizamos un principio como el PNA, solamente hay siete posibilidades: t
 - La iniciación del uso de la fuerza nunca es moralmente incorrecto.
 - La iniciación del uso de la fuerza no tiene ningún contenido moral.
 - La iniciación del uso de la fuerza nunca es moralmente bueno.
-- La iniciación del uso de la fuerza es a veces moralmente bueno.
-- La iniciación del uso de la fuerza es siempre moralmente bueno.
+- La iniciación del uso de la fuerza es a veces moralmente correcto.
+- La iniciación del uso de la fuerza es siempre moralmente correcto.
 
-Como hemos visto más arriba, sin embargo, UPB es un marco de “todo o nada”. Si una acción es *preferible universalmente*, entonces no puede ser limitada por un individuos, geografía, tiempo, etc. Si está mal matar en Algeria, entonces también está mal matar en Bélgica, en los Estados Unidos, en el Polo Norte y en la Luna. Si está mal matar ayer, entonces no puede estar bien matar mañana. Si matar está mal para Bob, entonces también debe estar mal matar para Doug.
+Como hemos visto, de igual manera, CUP es un "todo ó nada" marco de referencia. Si una acción es * universalmente preferible*, entonces no puede ser limitada por una individualidad, geográfica, tiempo etc. Si es incorrecto matar en Algeria, entonces tambien es malo matar en Bélgica, Estados Unidos, en el Polo Norte y en la Luna. Si fue incorrecto matar ayer, entonces no puedo ser correcto matar el día de mañana. Si es incorrecto matar para Bob, entonces también debe ser incorrecto matar para Doug.
 
 Uniendo NAP con UPB, por ende nos permite dismunuir esas siete afirmaciones a tres:
 
