@@ -146,10 +146,10 @@ La teoría de la relatividad de Einstein predijo que una luz se inclinaría al r
 
 El marco de CUP ha validado correctamente nuestra premisa moral de que la violación es mala. Esto es un criterio necesario -pero no suficiente - para prueba, y sostiene completamente la investigación adicional. Por lo tanto, continuemos…
 
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
+[^1]: Esto es muy diferente de un ataque físico, en el cual se destruye tu capacidad de libre elección.
 
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
+[^2]: No puede ser argumentado que la violación no incluye una preferencia, dado que la violación es un comportamiento, como ya hemos discutido anteriormente, todos los comportamientos incluyen preferencias.
 
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
+[^3]: Tenga en cuenta que yo no puedo proponer que "las preferencias personales *puedan* ser violentamente infligidas en otras personas, debido a que la violación de CUP, el cual establece que las normas morales deben ser absolutas y universales - si no lo fuesen, caerían en el territorio de las AEP, y así no pueden afectar a otros.
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]: No podemos evitar situaciones en las cuales aumente la probabilidad de violación, pero no podemos evitar la violación en su proceso de realización.
