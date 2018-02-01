@@ -38,15 +38,15 @@ No tenemos el tiempo para discutir sobre los derechos de los animales, pero al m
 
 Si matar peces es malo, entonces la UPB dice que cualquiera o todo lo que mate peces es malo. Esto incluiría no solamente a los pescadores, sino a los tiburones también - ya que matar peces es malo, hemos expandido nuestra definición de "actores" éticos para incluir al tipo de vida no humana.
 
-Está claro que los tiburones no tienen la capacidad de evitar matar peces, ya que básicamente están comiendo máquinas con aletas.
+Es claro que los tiburones no tienen la capacidad para evitar el matar a los peces, ya que son básicamente maquinas de comer con aletas.
 
-Así terminamos con el problema lógico del "mal inevitable". Si es malo matar peces, pero los tiburones no pueden evitar matar peces, entonces los tiburones son "inevitablemente malvados". Sin embargo, como hemos discutido anteriormente, donde no hay otra opción - donde la* evitabilidad * es imposible - no puede haber moralidad. Así, la proposición "es malo matar peces" intenta definir una moralidad universal que incluye situaciones no morales, que no pueden sustentarse lógicamente.
+Así es como terminamos con el problema lógico del "mal inevitable". Si es malo matar peces, pero los tiburones no pueden evitar el matarlos, entonces los tiburones son "inevitablemente malos". Sin embargo, como ya hemos discutido anteriormente, cuando no hay opción -cuando el *evitar* es imposible - no puede haber moralidad. Es así que la propuesta "es malo matar peces" intenta definir una moralidad universal que incluye situaciones no morales, que no pueden ser sustentadas con lógica.
 
-Además, la palabra "pez" sigue siendo problemática en la formulación, ya que es demasiado específica para ser universal. La reformulación correcta de CUP es: "es malo que las personas maten organismos vivos"
+Además, la palabra "pez" sigue siendo problemática en la formulación del enunciado, ya que es demasiado especifica para ser universal. La propia reformulación del UPB es: "es malo que las personas maten organismos vivos."
 
-Sin embargo, si es malo matar, otra vez enfrentamos el problema del "mal inevitable". Ningún ser humano puede existir sin matar a otros organismos como virus, plantas o quizás animales. Por lo tanto, la "vida humana" se define como "maldad". Pero si la vida humana se define como maldad, entonces no puede * ser * malvada, ya que se vuelve imposible evadir tal maldad.
+Si, de todas maneras, es malo matar, de nuevo nos enfrentamos al problema del "mal inevitable". Ningun ser vivo puede existir sin matar otro organismo como virus, plantas o quizás animales. Es así como "vida humana" es definida como "mala". Pero si la vida humana es definida como mala, entonces no puede *ser* mala, ya que el evitar se hace imposible.
 
-¿Qué pasa si decimos: "es malo matar a la gente" – ¿Eso haría que un tiburón devorador de hombres sea malo?
+¿Qué pasaría si decimos "es malo matar gente"? ¿Eso haría que un tiburón que coma humanos fuese malvado?
 
 No – de nuevo, ya que los tiburones no tienen la capacidad de evitar matar personas, no se les puede responsabilizar de tales acciones, del mismo modo que un deslizamiento de tierra no se puede llevar a los tribunales si mata a un hombre.
 
