@@ -36,11 +36,11 @@ Quando analisamos um princípio como o PNA, existem apenas sete possibilidades: 
 - O início do uso da força às vezes é moralmente correto.
 - O início do uso da força é sempre moralmente correto.
 
-No entanto, como já vimos anteriormente, o CUP é um quadro de "tudo ou nada". Se uma acção é *universalmente preferível*, então não pode ser limitada pelo indivíduo, geografia, tempo etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
+No entanto, como já vimos anteriormente, o CUP é um quadro de "tudo ou nada". Se uma acção é *universalmente preferível*, então não pode ser limitada pelo indivíduo, geografia, tempo etc. Se é errado assassinar na Argélia, também é errado assassinar na Bélgica, nos Estados Unidos, no Pólo Norte e na Lua. Se ontem era errado assassinar, então não pode ser correcto matar amanhã. Se matar é errado para Bob, então também deve ser errado para Doug.
 
-Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
+Unindo o PNA com o CUP, podemos reduzir essas sete declarações a três:
 
-1. It is universally preferable to initiate the use of force.
+1. É universalmente preferível iniciar o uso da força.
 2. It is universally preferable to not initiate the use of force.
 3. The initiation of the use of force is not subject to universal preferences.
 
