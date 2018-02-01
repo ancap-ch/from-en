@@ -140,11 +140,11 @@ Por ello, pareciera que la única posibilidad lógica para la violación es que 
 
 ### ¡Vaya!
 
-El hecho de que el marco de CUP ha validado lógica y efectivamente la proposición moral de que violar es malo - no "bueno", o "estéticamente preferible," o "personalmente preferible," o "moralmente neutral" -es una muy buena señal. Ésto no prueba que más allá de una sombra de duda de que el CUP validará lógicamente todo el "sentido común" de las proposiciones morales, pero el primer obstáculo ha sido atravesado, y eso debería darnos un buen motivo de celebración. If I were a physicist proposing a Unified Field Theory, and the application of my theory correctly predicted where a thrown baseball would land, I could justly be enormously pleased.
+El hecho de que el marco de CUP ha validado lógica y efectivamente la proposición moral de que violar es malo - no "bueno", o "estéticamente preferible," o "personalmente preferible," o "moralmente neutral" -es una muy buena señal. Ésto no prueba que más allá de una sombra de duda de que el CUP validará lógicamente todo el "sentido común" de las proposiciones morales, pero el primer obstáculo ha sido atravesado, y eso debería darnos un buen motivo de celebración. Si yo fuera un físico proponiendo una Teoría de Campos Unificados, y la aplicación de mi teoría predijera correctamente dónde caería una pelota de béisbol, yo estaría gratamente complacido.
 
-Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
+La teoría de la relatividad de Einstein predijo que una luz se inclinaría al rededor de un pozo de gravedad -cuando se confirmó esto por primera vez, no probó su teoría más allá de un rastro de duda, pero sí probó que la teoría *podría* ser cierta, lo que fue un gran salto. Esta primera validación es siempre la más difícil, porque es muy fácil hacer mal las cosas, y un error siempre supera a la precisión.
 
-The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+El marco de CUP ha validado correctamente nuestra premisa moral de que la violación es mala. Esto es un criterio necesario -pero no suficiente - para prueba, y sostiene completamente la investigación adicional. Por lo tanto, continuemos…
 
 [^1]: This is very different from a physical assault, which destroys your capacity for free choice.
 
