@@ -152,4 +152,4 @@ The UPB framework has correctly validated our moral premise that rape is evil. T
 
 [^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]: Możemy uniknąć sytuacji, które zwiększają prawdopodobieństwo gwałtu, ale nie możemy uniknąć gwałtu w toku.
