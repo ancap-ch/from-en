@@ -22,7 +22,7 @@ Del mismo modo, dos hombres en una habitación deben considerarse que están en 
 
 También, si recordamos que el Comportamiento Universalmente Preferible debe ser independiente del tiempo, entonces también nos enfrentamos un problema lógico que, no importa cual es su virilidad física, en algún punto el violador simplemente ya no será capaz de violar, porque sería físicamente imposible para él tener una erección. En este punto, su habilidad para realizar la "buena acción" se convierte en algo imposible. Puesto que la "evitabilidad" es el criterio clave para la moralidad, pero él es físicamente incapaz de ser bueno -en otras palabras, él es incapaz de evitar ser malo -por ello él no puede ser responsable por no violar al otro hombre.
 
-Si un hombre colgando de un árbol sobre un cañón se suelta porque le falta fuerza para continuar sosteniéndose, no llamaríamos a eso un suicidio, ya que la opción de sostenerse ya no era viable para él. Si se soltara del árbol a pesar de aún tener la fuerza para continuar sosteniéndose, el caso no sería tan claro.
+Si un hombre colgando de un árbol sobre un cañón se suelta porque le falta fuerza para continuar sosteniéndose, no llamaríamos a eso un suicidio, ya que la opción de sostenerse ya no era viable para él. Si él se suelta, aunque tuviera la fuerza para seguir sosteniéndose, el caso no sería tan claro.
 
 #### La Prueba del Coma
 
