@@ -56,7 +56,7 @@ Thus we know that rape cannot be an APA.
 
 We can confirm this by reviewing the reasons why “being on time” *is* an APA.
 
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
+Przede wszystkim instynktownie rozumiemy, że bardziej wystarczy odrzucić przyjaciela za to, że wiecznie się spóźnia, niż odrzucić przyjaciela za nie lubienie lodów.
 
 Why is that?
 
