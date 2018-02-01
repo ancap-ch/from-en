@@ -56,11 +56,11 @@ Por ello sabemos que la violación no puede ser un AEP.
 
 Podemos confirmar esto al revisar las razones del por qué "llegar a tiempo" *es* un AEP.
 
-En primer lugar, instintivamente entendemos que es más justo rechazar a un amigo por estar perpetuamente atrasado que el rechazar a un amigo por no gustarle el helado.
+Primero que nada, entendemos instintivamente que es más justo rechazar a un amigo por ser perpetuamente impuntual que rechazarlo por no gustarle el helado.
 
-Porque es eso?
+¿Por qué ocurre esto?
 
-Una vez más, el marco de la UPB viene al rescate.
+De nuevo, el marco de CUP viene al rescate.
 
 Una APA es una*regla no coercitiva que puede ser racionalmente aplicada a ambas partes simultaneamente*.
 
