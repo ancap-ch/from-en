@@ -10,9 +10,9 @@ Isso não quer dizer que romper a janela para salvar a sua vida não está errad
 
 ### Zonas Cinzentas
 
-The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+O facto de que existam algumas "áreas cinzentas" no domínio da ética, tem sido muito usado como justificação para o relativismo da classificação. Uma vez que, no momento, algumas coisas permanecem pouco claras (por exemplo, quem iniciou o uso da violência) e como é impossível definir regras objectivas e exactas para todas as situações possíveis, a conclusão, geralmente é que nada pode ser *sempre* conhecido com certeza, e que não existem regras objectivas para *qualquer* situação.
 
-This is false.
+Isto é falso.
 
 All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
 
