@@ -18,13 +18,13 @@ El asaltante que te apuñala, de cualquier manera, está iniciando un ataque con
 
 Si soy un fumador crónico que lleva tiempo haciéndolo, he participado en la cadena de eventos que han llevado a mi pulmón a contraer cancer. Al iniciar y mantener el habito de fumar, he iniciado una cadena de casualidades que pueden resultar en una aflicción que amenaza a la vida. Ciertamente es posible obtener cancer de pulmón sin fumar - de igual manera fumar sin contraer cancer de pulmón - pero ciertamente en esto afectan las posibilidades.
 
-De manera similar, es posible para mí dejar mi billetera en el banco de un parque durante una semana, y luego regresar y encontrar que sigue en el lugar, pero al dejarla allí por tanto tiempo, verdaderamente he afectado las posibilidades de que pueda desaparecer.
+Del mismo modo, es posible dejar la billetera en la banca de algún parque por una semana y encontrarla en el mismo lugar en el cual se había dejado, pero al dejarla ahí por un largo periodo de tiempo, de cierta manera han afectado las probabilidades de que desapareciera.
 
-Por otro lado, si me quedo en casa todas las noches, no estoy exactamente poniéndome en peligro, y entonces si un loco invade mi casa y me roba, no puedo ser culpado de manera razonable por cualquier rol causal que haya tenido en el incidente.
+Por otro lado, si me quedo en casa todas las noche, no estoy exactamente poniéndome en peligro, ya que si un maniaco invade mi casa y roba, no puedo ser razonablemente acusado por cualquier rol casual en el que estuve involucrado.
 
-### El Principio No-Agresivo (NAP)
+### El principio de no agresión (NAP por sus siglas en inglés)
 
-Una regla moral suele proponer el llamado *principio no-agresivo*, or NAP por sus siglas en Inglés. También se le dice ser un “pacifista puercoespín”, debido a que el puercoespín solamente usa la “fuerza” para defensa propia. El NAP es básicamente la preposición de que “la iniciación del uso de la fuerza es moralmente malo”. O, para ponerlo más en los términos de nuestra conversación: “La no-iniciación de la fuerza es preferible universalmente”.
+Una regla moral es propuesta a menudo con el nombre de * principio de no agresión*, ó NAP por sus siglas en inglés. También se le dice ser un “pacifista puercoespín”, debido a que el puercoespín solamente usa la “fuerza” para defensa propia. El NAP es básicamente la preposición de que “la iniciación del uso de la fuerza es moralmente malo”. O, para ponerlo más en los términos de nuestra conversación: “La no-iniciación de la fuerza es preferible universalmente”.
 
 Cuando analizamos un principio como el NAP, realmente hay sólo siete posibilidades: tres en el negativo, tres en el positivo y una neutral:
 
