@@ -88,13 +88,13 @@ Cóż, jeżeli mam dwie kosiarki a ty ani jednej to logiczne byłoby zabranie pr
 
 Jednakże kiedy już weźmiesz mi jedną z kosiarek to niestety będziesz mógł posiadać tylko jej *połowę*, ponieważ ustaliliśmy prawo do posiadania pięćdziesięciu procent obiektów zewnętrznych. To natomiast sprawia, że musisz natychmiast znaleźć kogoś z kim mógłbyś współdzielić tę kosiarkę. A to obniża twoją własność względem stanu początkowego do dwudziestu pięciu procent. Jednakże zarówno ty jak i nowy współwłaściciel musicie znaleźć dwie kolejne osoby, żeby podzielić się pięćdziesięcioma procentami ze swojej jednej czwartej kosiarki. Następnie wasza czwórka będzie szukać kolejnych czterech osób w celu podziału ósmych części kosiarek na pół.
 
-Problemem dowolnej teorii zakładającej mniej niż sto procent praw własnościowych jest to, że tworzy ona "efekt domina" dla nieskończonej regresji, w którym każdy kończy posiadając nieskończenie małą część własności wszystkiego co jest oczywiście niemożliwe. Zatem należy na samym początku założyć, zarówno z przyczyn logicznych jak i praktycznych, że, w odniesieniu do spraw własności zewnętrznej, mamy pełną własność nad naszymi ciałami i konsekwencjami działań przezeń podjętych. We do not need a homesteading theory, or other “just acquisition” approaches to justify property rights – they are justified because anybody who acts in any way, shape or form – including arguing – is axiomatically exercising one hundred percent control over his own body, and “homesteading” both oxygen and sound waves in order to make his case.
+Problemem dowolnej teorii zakładającej mniej niż sto procent praw własnościowych jest to, że tworzy ona "efekt domina" dla nieskończonej regresji, w którym każdy kończy posiadając nieskończenie małą część własności wszystkiego co jest oczywiście niemożliwe. Zatem należy na samym początku założyć, zarówno z przyczyn logicznych jak i praktycznych, że, w odniesieniu do spraw własności zewnętrznej, mamy pełną własność nad naszymi ciałami i konsekwencjami działań przezeń podjętych. Nie potrzebujemy teorii zakwaterowania lub innych podejść typu "tylko nabycie" do uzasadnienia praw własności. Są one uzasadnione, ponieważ każdy kto działa w dowolny sposób, wliczając w to dyskutowanie, aksjomatycznie wykonuje sto procent kontroli nad swoim ciałem oraz "zawłaszcza" tlen i fale dźwiękowe w celu udowodnienia swojej racji.
 
 Thus, by combining this axiomatic reality with UPB, we can easily understand that since anyone debating property rights is exercising one hundred percent control over his own property, the only question is whether or not property rights vary from individual to individual – a question definitively settled by the axiomatic fact of self-ownership, as well as the UPB framework. Any moral proposition must be universal and consistent, and this is how we also know that *everyone* has one hundred percent property rights.
 
-Any other possibility is logically and empirically impossible.
+Każda inna możliwość jest logicznie i empirycznie niemożliwa.
 
-### Testing "Theft"
+### Badania "Kradzieży"
 
 Let us return to our patient moral guinea pigs, Bob and Doug.
 
