@@ -76,15 +76,15 @@ UPB zostawia jasne możliwości dotyczące praw własności. Nie może zaistnie�
 
 Nie może również zaistnieć sytuacja, w której ludzie mają tylko pięćdziesiąt procent praw własnościowych.
 
-Jeżeli zgodzę się na to, żeby ludzie mieli tylko część praw własnościowych, to w ten sposób stworzę kolejną nieprzezwyciężalną sprzeczność. Równie dobrze mógłbyś zapytać się mnie, która część mojego zdania *nie* została stworzona przeze mnie. Jeżeli mogę mieć tylko część praw własnościowych to równie dobrze mogę mieć kontrolę nad tylko częścią mojego ciała - a jeżeli pociągnę tą analogię jeszcze dalej to jasne jest, że kontroluję tylko część mojego zdania, ponieważ mam tylko część kontroli nad moim głosem. Któż więc jest odpowiedzialny za pozostałą część mojego zdania?
+Jeżeli zgodzę się na to, żeby ludzie mieli tylko pięćdziesiąt procent praw własnościowych, to w ten sposób stworzę kolejną nieprzezwyciężalną sprzeczność. Równie dobrze mógłbyś zapytać się mnie, która połowa mojego zdania *nie* została stworzona przeze mnie. Jeżeli mogę mieć tylko pięćdziesiąt procent praw własnościowych to równie dobrze mogę mieć kontrolę tylko nad połową mojego ciała - a jeżeli pociągnę tą analogię jeszcze dalej to jasne jest, że kontroluję tylko połowę mojego zdania, ponieważ mam tylko pięćdziesiąt procent kontroli nad moim głosem. Któż więc jest odpowiedzialny za pozostałą połowę mojego zdania?
 
 Może to zabrzmieć tajemniczo, ale jest to śmiertelnie poważne pytanie z powodów, które wkrótce omówimy.
 
 Załóżmy, że możemy magicznie obejść problem posiadania tylko połowy ciała i powiedzmy, że ludzie mogą mieć tylko pięćdziesiąt procent praw własnościowych dotyczących obiektów *zewnętrznych*.
 
-How does that work in practice?
+Jak to wszystko wygląda w praktyce?
 
-Well, if I have two lawnmowers and you have none, then clearly it would be logical for you to have the right to take one of my lawnmowers, since I can only ever own half of my lawnmower collection.
+Cóż, jeżeli mam dwie kosiarki a ty ani jednej to logiczne byłoby zabranie przez ciebie jednej z moich kosiarek dlatego, że mogę posiadać tylko ich połowę.
 
 However, when you take possession of one of my lawnmowers, unfortunately you are only ever allowed to own *half* of that lawnmower, since we only have the right to fifty percent ownership over external objects. Thus you must immediately find somebody with whom you can share the lawnmower. This brings your “just” ownership down to twenty-five percent. However, your new co-owner cannot have the right to twenty-five percent of the lawnmower, because he only has fifty percent rights for whatever ownership he possesses – thus he must find somebody to take fifty percent of the twenty-five percent that he has – and so on and so on and so on.
 
