@@ -118,7 +118,7 @@ Lo que deja unicamente…
 
 ### Maldad
 
-Si la violación es definida como maldad, entonces debería involucrar la *iniciación* del uso de la fuerza, lo cual claramente hace. Also, the proposition: “rape is evil,” passes the “coma test,” insofar as it is impossible for a man in a coma to rape someone.
+Si la violación es definida como maldad, entonces debería involucrar la *iniciación* del uso de la fuerza, lo cual claramente hace. Además, la proposición: "la violación es maldad," pasa la "prueba de coma," en tanto que es imposible para un hombre en coma violar a alguien.
 
 In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
 
