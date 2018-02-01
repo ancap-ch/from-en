@@ -1,167 +1,167 @@
 ## Existencia versus inexistencia
 
-Definimos "inexistencia" como aquella que no posee masa o energía, ni muestra los efectos de la masa o la energía, como las relaciones detectables como lo es la gravedad.
+Definimos "inexistencia" como aquella que no posee masa o energía, o muestra los efectos de la masa o la energía, como relaciones detectables por ejemplo la gravedad.
 
 Dios no posee masa o energía, ni muestra los efectos de la masa o la energía: Dios, de hecho, no es detectable ni verificable de ninguna manera, figura o forma, ni a través de los sentidos ni a través de la racionalidad.
 
-Thus if I say, “God exists,” what I am really saying is:
+Por lo tanto, si digo: "Dios existe", lo que realmente estoy diciendo es:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+"* Lo que existe debe ser detectable; Dios no puede ser detectable, pero Dios existe; por lo tanto, existe lo que no existe. * "
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+En otras palabras, al decir "Dios existe", he creado una contradicción insuperable. Definí "existencia" como "inexistencia", que tiene tanto sentido como definir "vida" como "materia inanimada", o una piedra como "lo opuesto a una roca", o "cuadrado" como " circulo."
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+De forma similar, si creo un universo alternativo donde "la no existencia es igual a la existencia" y "contradicción es igual a consistencia" y "verdad es igual a falsedad" e "irracionalidad es igual a racionalidad", entonces lo que realmente he hecho es crear un reino llamado "error", poner todo lo que no es verdad y definir este reino como un lugar donde "el error es igual a la verdad". [^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Por supuesto, las personas no crean este "universo alternativo" para invalidar la verdad dentro de nuestro propio universo, sino más bien para rescatar lo que es erróneo en la realidad y llamarlo verdadero. Por ejemplo, nadie que argumenta "Dios puede existir en otro universo, así que no se puede afirmar que Dios no exista" puede argumentar que "* Yo * puedo no existir en ese otro universo, por lo que no se puede afirmar que existo aquí "
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
+También tienden a no responder bien al argumento que: "En otro universo, puedes estar de acuerdo conmigo de que Dios no existe, entonces eso te convierte en ateo". [^3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+Si las declaraciones válidas sobre la realidad pueden oponerse infinitamente porque un reino imaginario llamado "error es igual a verdad" las invalida, entonces lo que realmente se dice es "ninguna declaración positiva sobre la verdad puede ser válida"; sin embargo, ya somos lo suficientemente sabios como filósofos para saber que esta declaración es contradictoria, ya que es una declaración positiva que se considera verdadera y que dice que ninguna declaración positiva puede ser verdadera. Si nada puede ser verdadero o falso, incluso esa declaración, entonces no se puede hacer ninguna declaración sobre nada. Usar palabras, usar el inglés, usar oraciones comprensibles, no tiene ningún sentido, ya que en este "universo alternativo" tales enunciados estructurados pueden ser una completa tontería. Si las cosas que pueden ser ciertas en este universo alternativo tienen un efecto sobre las declaraciones que hacemos en este universo, entonces claramente lo contrario también es cierto, lo que significa que no se pueden hacer declaraciones sobre nada, ya que su opuesto exacto puede ser igualmente cierto.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+La verdadera realidad de la declaración "el error es igual a la verdad" es la locura tautológica de "nulo es igual a nulo"
 
-### The "Alternate Universe" In Human Society
+### El "universo alternativo" en la sociedad humana
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+La razón por la que hemos pasado tanto tiempo lidiando con esta teoría del "universo alternativo" es que tiene una relevancia directa para la sociedad humana, y se usa para "justificar" los mayores males que se cometen entre nosotros.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+En nuestra experiencia personal, sabemos que el asesinato es incorrecto. Al trabajar a través de la proposición de que el asesinato es moralmente incorrecto en los ejemplos anteriores, dudo mucho que alguien se sorprendiera al ver sus instintos morales confirmados a través del estricto razonamiento abstracto de la CUP. En esta sección, sin embargo, oficialmente está permitido que empieces a estar verdaderamente conmocionado.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Los mayores avances en la comprensión científica son las llamadas "teorías unificadoras". Einstein pasó décadas tratando de elaborar una teoría de campo unificada; y las teorías de la física que unen fuerzas fuertes y débiles, el electromagnetismo, la gravedad, etc., siguen siendo difíciles de alcanzar.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+CUP es un estructura, sin embargo, no solo justifica nuestros instintos morales a niveles personales, filosóficos y universales, sino que también tiene profundas e impactantes implicaciones para la sociedad humana.
 
-#### UPB In Action
+#### CUP en Acción
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+La estructura CUP valida las proposiciones morales al exigir que sean internamente consistentes y universales en términos de tiempo, lugar e individuos.
 
-If we accept UPB, we must also accept the following corollary:
+Si aceptamos CUP, también debemos aceptar el siguiente corolario:
 
-- Moral propositions are independent of costume.
+- Las proposiciones morales son independientes del uniforme.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Esto significa que un hombre no puede cambiar su naturaleza moral junto con su vestimenta. El acto de cambiar el uniforme propio no altera la naturaleza fundamental de uno. Por lo tanto, las reglas morales opuestas no pueden ser válidas en función de la ropa que uno lleva puesta.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Los soldados, por supuesto, usan uniformes que son diferentes del ciudadano promedio. El ciudadano promedio tiene prohibido asesinar; los soldados, sin embargo, no solo están * autorizados * a asesinar, sino que * son elogiados moralmente * por matar.
 
-Let’s take another example.
+Tomemos otro ejemplo.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+El robo es moralmente incorrecto, como hemos visto anteriormente. Es moralmente incorrecto para todas las personas en todas las situaciones en todo momento y bajo cualquier circunstancia. Dado que el robo es la eliminación forzosa de la propiedad de otra persona sin consentimiento, entonces la imposición es siempre, universal y para siempre, un mal moral. La tributación es, por definición, la remoción forzosa de la propiedad de alguien sin su consentimiento, ya que la tributación se basa en el inicio del uso de la fuerza para despojar a un hombre de su propiedad.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+Lo que llamamos "el gobierno" no es más que otro ejemplo de esta * zona nula * donde arriba está abajo, el negro es blanco, la verdad es falsedad y el mal es bueno.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+La sociedad progresa exactamente en la medida en que la razón y la evidencia dan el gran salto de lo personal a lo universal, y destruyen cualquiera de las irracionales * zonas nulas * en el camino. La ciencia progresa exactamente a medida en que se rechaza la irracionalidad de Dios y los "absolutos" subjetivos. La medicina progresa exactamente a medida en que se rechaza la eficacia de la plegaria y el ritual vacío, y en cambio se basa en la razón y la evidencia. La filosofía también -y la sociedad humana en general- avanzará exactamente en la medida en que rechace la irracional "moralidad de círculo cuadrado" de las teorías éticas estatistas y religiosas.
 
-### Government
+### Gobierno
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Decir que el gobierno opera bajo reglas morales opuestas del resto de la sociedad es exactamente lo mismo que decir: "los duendes son inmunes a la gravedad". Antes que nada, los duendes no existen, y una de las formas en que sabemos que no existen es que se afirma que son inmunes a la gravedad. Todo lo que tiene masa está sujeto a la gravedad; lo que es inmune a la gravedad por definición no tiene masa, y por lo tanto no existe. La afirmación "los duendes son inmunes a la gravedad" es una tautología, que solo confirma la inexistencia de duendes; es el equivalente semántico de "lo que no existe, no existe". A es A, la primera ley de la lógica de Aristóteles, hace muy poco para confirmar la existencia de lo que se define como inexistencia.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+Del mismo modo, cuando decimos que es moralmente bueno que los soldados asesinen y que los representantes del gobierno roben, sabemos que los "soldados" y los "representantes del gobierno" como categorías morales son * completamente inválidos *.
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+Si digo que un círculo cuadrado tiene derecho a robar, simplemente estoy diciendo que lo que no puede existir tiene el derecho de hacer lo que es autocontradictorio, una declaración puramente sin sentido, pero que sigue siendo extrañamente convincente en la "zona nula" "De la política".
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+Si compro un uniforme de soldado en una tienda de segunda mano y me lo pongo, claramente no he creado un universo alternativo en el que las reglas morales opuestas puedan ser válidas. El momento antes de ponerme el uniforme, estaba mal que yo asesinara, ¿cuándo se vuelve * correcto * que mate? ¿Y cuando me pongo los pantalones? ¿Qué pasa si tengo los pantalones puestos, pero no el chaleco? ¿Qué pasa si solo tengo las botas puestas? ¿Qué pasa si ambas botas las tengo puestas, pero solo una está atada? ¿Qué pasa si mi sombrero está al revés? ¿Qué pasa si me he puesto un uniforme que no es reconocido por la primera persona que me encuentro? ¿Quizá los Beatles tenían el derecho de asesinar cuando les fotografiaron en la portada de "Sergeant Peppers"? ¿Perdieron ese derecho cuando se quitaron las chaquetas?
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Formulo estas preguntas retóricas porque de hecho son terriblemente graves. Claramente, un traje militar no cambia la naturaleza de un ser humano, del mismo modo que un corte de pelo lo convierte en un pato, un concepto o un dios.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+"Ah", puedes decir, "pero el uniforme no es válido porque lo compraste en una tienda de segunda mano: ponerte el uniforme del soldado no te convierte en soldado más que en fotocopiar un doctorado te da un doctorado"
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+La analogía es incorrecta, porque tener un doctorado o fotocopiar un doctorado no cambia ninguna de las reglas morales a las que se está sujeto como ser humano.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+"Bueno", puedes responder ", pero la diferencia es que el soldado posee los derechos morales que le brinda el ciudadano promedio, en aras de la autodefensa colectiva y demás"
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Esto plantea un punto muy interesante, que es la cuestión de si las opiniones pueden cambiar la realidad.
 
-### Opinions And Reality
+### Opiniones y Realidad
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Claramente, entendemos que, a través de mi opinión, no puedo liberarte de las restricciones de la gravedad, así como mi opinión de que "dos más dos equivale a cinco" tampoco lo hace cierto.
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+Las "opiniones" son aquellas creencias que no tienen una evidencia clara en la realidad, o para las cuales no se puede proveer una evidencia clara, o que son expresiones de preferencias meramente personales. Mi opinión personal es que prefiero el helado de chocolate a la vainilla – También puedo tener una "opinión" de que Islandia es un paraíso tropical, o que Dios existe, o que la lluvia cae hacia arriba. Las opiniones personales claramente no tienen nada que ver con la moralidad; las opiniones que pretenden describir con precisión la realidad, pero que no lo son, son simplemente prejuicios incorrectos. Creer que la lluvia cae hacia arriba no revierte su curso; llevar una camiseta hawaiana a Islandia no hace que Reykjavik sea más cálido.
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+Por ello, creer que el asesinato es moralmente bueno no hace que el asesinato sea moralmente bueno. Ya que mis creencias sobre un ser humano no cambian su naturaleza moral, mi creencia de que sus asesinatos son virtuosos no cambia la virtud de sus acciones. Si cierro mis ojos e imagino que eres una lagartija, no de repente pierdes tu capacidad de regular la temperatura de tu propio cuerpo. Imaginar que eres un pez no evita tu necesidad de utilizar equipo de buceo.
 
-Opinions do not change reality.
+Las opiniones no cambian la realidad.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Debido a que las opiniones no cambian la realidad, no puedo otorgarle ninguna excepción o revocación con respecto a una regla moral universal. Como las reglas morales se basan en la lógica universal, así como en la naturaleza física y la realidad de un ser humano, no puedo otorgarle el "derecho al asesinato", como tampoco le puedo otorgar la capacidad de levitar, caminar sobre el agua o con precisión decir que dos y dos son cinco.
 
-### Government As Voluntarism
+### Gobierno como voluntarismo
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+La fuerza abierta involucrada en la institución del gobierno -el envoltorio conceptual que revierte las reglas morales para un grupo particular de individuos- es algo que siempre se mantiene fuera de la mesa en los debates. Cuando se habla de gobierno, nunca se considera positivo señalar "la pistola en la habitación". Casi por definición, se considera que los gobiernos son elegidos por y para las personas y funcionan con su aprobación expresa o implícita.
 
-However, this is pure nonsense.
+Sin embargo, esto es una gran tontería.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Si un hombre sostiene un cuchillo en la garganta de una mujer mientras tiene relaciones sexuales con ella, eso es, por definición, un acto de violación. El no puede decir que el sexo es consensual, mientras que al mismo tiempo la amenaza con lesiones o la muerte si se niega a tener relaciones sexuales con él. Si el sexo es voluntario, entonces el cuchillo es completamente innecesario. Si el hombre siente la necesidad de un cuchillo, entonces claramente el sexo * no * es voluntario.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+De esa misma forma, las personas dicen que los impuestos son parte del contrato social que voluntariamente han acordado.
 
-This is both logically and empirically false.
+Esto es lógica y empíricamente falso.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Sabemos que es empíricamente falso porque * no existe un contrato social *. Ni usted ni yo * alguna vez * firmamos un documento que acepta voluntariamente el impuesto a la renta, simplemente nacimos en un sistema que nos quita nuestro dinero a punta de pistola.
 
-### The Gun In The Room
+### El arma en la habitación
 
-Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+Mucha gente argumentará en este punto que los impuestos no se aplican a punta de pistola, sino que la gente los paga voluntariamente. Por ejemplo, un recaudador de impuestos o un policía nunca me han apuntado con una pistola en la cara, pero he pagado impuestos durante décadas.
 
-This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+Esto puede ser cierto, pero es completamente irrelevante. Si le digo a una mujer que voy a matar a sus hijos si ella no tiene relaciones sexuales conmigo, y ella se somete a mí, entendemos claramente que se ha llevado a cabo una acción inmoral, a pesar de que no he usado ningún arma en mi violación. Claramente, si la mujer se somete a mí, es porque teme que lleve a cabo mi amenaza. Si le digo que mi duende leprechaun matará a sus hijos si no tiene relaciones sexuales conmigo, es muy probable que la moleste, pero no temería a mi amenaza de forma significativa, ya que es imposible que mi duende leprechaun mate a sus niños. O, si yo moría, y mi testamento declaraba que yo mataría a los hijos de esta mujer si ella no tenía relaciones sexuales conmigo, es evidente que se sentiría aliviada en lugar de temer, ya que no puedo concebir mi amenaza más allá de la tumba. Por lo tanto, pagamos impuestos porque sabemos que si no lo hacemos, la probabilidad de ser atacados por representantes del estado es muy alta. Si no pago mis impuestos, recibiré una carta, luego otra carta, luego una llamada telefónica, luego una citación judicial, y si no comparezco ante el tribunal, o no pago mis impuestos atrasados y las multas e intereses acumulados, los policías vendrán con pistolas para llevarme a la cárcel. Si me opongo a esos policías, me dispararán.
 
-To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
+Decir que la fuerza es igual al voluntarismo es completamente ilógico y contradictorio. Decir que la iniciación al uso de la fuerza es completamente igual a la no iniciación del uso de la fuerza es decir que arriba está abajo, el negro es blanco y la verdad es falsedad.
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+Sin la "zona nula", estas ficciones corruptas no pueden sustentarse.
 
-The “null zone” is the lair of the beast we hunt.
+La "zona nula" es la guarida de la bestia que cazamos.
 
-As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
+Como podemos ver, sabemos que personalmente es un error robar; tenemos muy pocos problemas con una prohibición abstracta y lógica del robo, como hemos resuelto anteriormente; sin embargo, aún existe esta "zona nula" o universo alternativo donde tales oposiciones pueden aceptarse sin ninguna pregunta o preocupación.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+Según CUP, es malo para mí y para ti robar. Sin embargo, de alguna manera, en esta "zona nula", no solo está permitido, sino también es perfectamente * moral *, para otros robar. Nosotros * no debemos * robar, ellos * deben * robar. ¡Es una locura moral!
 
-### Policemen
+### Policías
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+Vamos a sacar a nuestro buen amigo Bob de su pequeña sala de pruebas de teoría moral y regresarlo a su trabajo original como policía.
 
-Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
+Claramente, cuando Bob se despierta por la mañana, antes de su turno, no puede ir a la casa de su vecino y exigir dinero a punta de pistola, sin importar quién le diga que todo está bien.
 
-When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+Cuando Bob desayuna, tampoco puede atacar a su vecino y llevarse su dinero. En su camino hacia el trabajo, aunque se haya puesto su uniforme, todavía no ha entrado a laborar, y por lo tanto, no tiene más derechos que los otro ciudadano. Sin embargo, cuando entra a trabajar, como si descendiera un pilar de fuego amoral de los mismos cielos, gana la asombrosa habilidad de atacar moralmente a sus vecinos y tomar su dinero.
 
-Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
+Extrañamente, esta es la única característica suya que se ha invertido por completo. El no puede volar, no puede cambiar su forma, no puede digerir los aceros de los cojinetes o vivir en un infierno; no puede correr mil kilómetros por hora, y tampoco puede atravesar una pared de ladrillos. Él es absolutamente, total y completamente * el mismo hombre que era ** antes ** de haber entrado a trabajar *; sin embargo, ahora, está sujeto a reglas morales completamente opuestas.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Aún más extraño, si no soy un "policía", pero sigo a Bob para trabajar, y hago exactamente lo que hace: me pongo un uniforme, entro en la estación de policía y me presento para trabajar como tal - ¿Por qué? Si hago exactamente lo que hace Bob, soy completa y totalmente inmoral, aunque las acciones idénticas de Bob son completa y totalmente * morales *.
 
-What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
+¿Qué sentido tiene esto? ¿Cómo podemos desentrañar este misterio impenetrable?
 
-The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+El simple hecho es que * no se puede * revelar, porque todo esto es una completa locura. El hecho de que esta locura moral del "mundo opuesto" sea completamente irracional, por no mencionar violentamente explotadora, es tan obvia que debe ser enterrada en una interminable cabalgata de "voluntarismo" mitológico
 
-We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
+Nos están diciendo que "queremos" que Bob se lleve nuestro dinero, lo cual contradice por completo el hecho de que Bob aparece en la puerta de nuestra casa y apunta con una pistola cargada en nuestra cara. Según esta lógica, también puedo ir y venir por la calle robando dinero a mis vecinos, y luego declarar que estoy completamente conmocionado cuando sea arrestado:
 
-“They *want* me to take their money!”
+"Ellos * quieren * que tome su dinero"
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+"Pero entonces, ¿por qué amenazaste con dispararles si no te daban su dinero?"
 
-“Because they *owe* me their money!”
+"¡Porque ellos me * deben* su dinero!"
 
-“I thought you said that they want to give you their money.”
+"Pensé que habías dicho que querían darte su dinero"
 
-“No, no – they owe me. It’s really *my* money!”
+"No, no, Ellos me lo deben. ¡Realmente es * mi * dinero! "
 
-“On what grounds do they owe you this money?”
+"¿Por qué motivo te deben este dinero?"
 
-“We have a contract!”
+"¡Tenemos un contrato!"
 
-“Can you show me this contract? Have they signed this contract of their own free will?”
+"¿Puedes mostrarme este contrato? ¿Han firmado este contrato a voluntad?"
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+"¡No es ese tipo de contrato! Es un contrato * social *... Y además, de acuerdo con ese contrato social, de todos modos soy dueño de toda la calle, ¡de todo el maldito vecindario de hecho! Cualquiera que se niegue a pagarme mi dinero puede mudarse a otra parte. ¡No estoy forzando a nadie
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
+"¿Y cómo sabes que eres dueño de todo el vecindario? ¿Tienes documentos de propiedad?"
 
-“Yes, of course – have a look here!”
+"Sí, por supuesto, ¡mira aquí!"
 
-“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+"Bueno, esto es solo una nota escrita a mano que dice que eres el dueño de todo el vecindario, y es la misma escritura que tu firma. Me temo que vamos a tener que guardarlo, este es solo un contrato inventado contigo mismo, y estas infligiendo a otras personas a punta de pistola."
 
-This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+Esto es completamente loco y corrupto, como si yo le dijera a una mujer que la estoy violando y *ella quiere* tener sexo conmigo. ¿Te imaginas si fui juzgado por violación, y había una cinta de video de la mujer rogándome que parara, y tenía un cuchillo en la garganta, cómo se recibiría mi defensa si continuaba insistiendo en que ella realmente * quería * tener sexo conmigo?
 
-In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
+En el tribunal, me injuriarían y me meterían a la cárcel por mi hipocresía obvia, loca, corrupta y egoísta.
 
-Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
+Ah, pero en la "zona nula" del gobierno, la violación es hacer el amor, el secuestro es una invitación, rechazar el robo es egoísmo malvado, y la coerción es la bondad.
 
-This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
+Esto es lo que quiero decir cuando digo que este "mundo opuesto * zona nula *" es la barrera fundamental para la felicidad humana en todo el mundo. Robar es malo para nosotros; robar es incorrecto en abstracto, ¿pero el robo es de alguna manera "correcto" en este insano universo alternativo llamado "gobierno"?
 
-[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
+[^2]: Ni siquiera hemos *comenzado* la pesadilla lógica del valor de verdad que figura en la declaración "el error es igual a la verdad".
 
-[^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.
+[^3]: Este argumento tampoco tiende a funcionar muy bien con los profesores de matemáticas: nunca he visto a un alumno argumentar con éxito que una respuesta incorrecta puede ser correcta en otro universo, por lo que es injusto marcarla como incorrecta.
