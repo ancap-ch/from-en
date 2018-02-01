@@ -6,13 +6,13 @@ Claramente esta propuesta parece satisfacer al menos algunos de los requisitos d
 
 Aun así parece difícil para nosotros llamar a esto, de forma racional, una teoría *moral* – ¿Por qué?
 
-En primer lugar, el "mal" abarca las acciones que se pueden prevenir mediante el uso de la fuerza. La violación es "malvada", y si entonces puedo usar la fuerza para defenderme de alguien que intenta violarme.
+Primero que todo, el "mal" engloba las acciones que se pueden prevenir a través del uso de la fuerza. La violación es "mala", y entonces puedo usar fuerza para defenderme de alguien que intenta violarme.
 
-¿Puedo disparar justamente a alguien que come un trozo de pescado?
+Podría disparar de forma justa a alguien que está comiendo un trozo de pescado?
 
-Parecería una tontería argumentar que puedo – ¿pero por qué?
+Pareciera tonto discutir que puedo - Pero, ¿Por qué?
 
-Hay algunos límites objetivos a la universalidad de esta doctrina. Por ejemplo, algunas personas pueden no tener acceso a los peces – pueden vivir en un desierto, por ejemplo – mientras que otros viven cerca de un lago lleno de peces, y les resulta difícil o imposible sobrevivir sin comerlos. Sin embargo, eso no puede ser suficiente, dado que ya hemos aceptado el hecho de que la incapacidad de un eunuco para violar no invalida la proposición moral "es malo violar"
+Hay limites objetivos a la universalidad asociados a esta doctrina. Por ejemplo, algunas personas pueden no tener acceso a los peces – pueden vivir en un desierto, por ejemplo – mientras que otros viven cerca de un lago lleno de peces, y les resulta difícil o imposible sobrevivir sin comerlos. Sin embargo, eso no puede ser suficiente, dado que ya hemos aceptado el hecho de que la incapacidad de un eunuco para violar no invalida la proposición moral "es malo violar"
 
 Pero no, el "arenque rojo" en la proposición moral "Es malo comer pescado" es la palabra "*pescado*"
 
