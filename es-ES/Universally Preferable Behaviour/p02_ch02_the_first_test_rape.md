@@ -118,11 +118,11 @@ Lo que deja unicamente…
 
 ### Maldad
 
-Si la violación es definida como maldad, entonces debería involucrar la *iniciación* del uso de la fuerza, lo cual claramente hace. Además, la proposición: "la violación es maldad," pasa la "prueba de coma," en tanto que es imposible para un hombre en coma violar a alguien.
+Si la violación es definida como maldad, entonces debería involucrar la *iniciación* del uso de la fuerza, lo cual claramente hace. También, la proposición: "la violación es maldad," pasa la "prueba del coma," en tanto que es imposible para un hombre en coma violar a alguien.
 
-In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
+Además, si la violación es maldad, entonces *no* violar debería ser bueno - de esta manera, dos hombres en una habitación pueden ser morales a la vez, siplemente no violándose entre ellos.
 
-Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
+Ya que el evitar es uno de los diferenciadores clave entre "desagradable" e "inmoral," y la violación es claramente un comportamiento inevitable, la definición de "la violación es maldad" también se ajusta a esta distinción.
 
 Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
 
