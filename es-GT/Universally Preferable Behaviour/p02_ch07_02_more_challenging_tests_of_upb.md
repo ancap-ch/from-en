@@ -24,7 +24,7 @@ De la misma manera, un profesional en ética no puede presentar de forma valida 
 
 La propuesta moral de "comer pescado es malo" falla al probar la universalidad del enunciado al ser demasiado especifica para ser generalizada - Es como decir "mi teoría de la gravedad aplica solo a piedras rosadas". Si es una teoría de la gravedad, entonces debe aplicar a todo; si solo aplica a las piedras rosadas, entonces no es una teoría de la gravedad.
 
-La UPB además rechaza como inválida cualquier otra teoría que resulte en oponer juicios morales para acciones idénticas. Un "asalto" no puede ser moral un día, e inmoral el que le sigue. Por ende, ya sabemos que "comer" no puede ser moral un día, e inmoral el que le sigue.
+CUP además rechaza como inválida cualquier otra teoría que resulte en oponer juicios morales para acciones idénticas. Un "asalto" no puede ser moral un día, e inmoral el que le sigue. Por ende, ya sabemos que "comer" no puede ser moral un día, e inmoral el que le sigue.
 
 Comer puede moral, inmoral o moralmente neutral. Si comer es inmoral, entonces se generan una cantidad de problemas lógicos y estoy seguro de que ya estamos familiarizados con ellos.
 
@@ -56,4 +56,4 @@ De la misma manera, la moralidad sólo se aplica a la conciencia racional, debid
 
 En otras palabras, la aplicación incorrecta no puede contarse como prueba.
 
-Hay muchas otras "áreas grises" en las que podríamos trabajar, desde el aborto hasta los derechos de propiedad intelectual, la restitución, entre otras, pero creo que es mucho más importante sacar a CUP del dominio de la abstracción y comenzar a aplicarlo a los problemas del mundo real que enfrentamos hoy.
+Hay muchas otras zonas grises con las que podríamos trabajar, desde el aborto hasta la los derechos de retribución de la propiedad intelectual, entre otros temas, pero creo que es más importante el sacar al CUP del dominio de la abstracción, y empezar a aplicarlo en problemas reales del mundo que enfrentamos hoy.
