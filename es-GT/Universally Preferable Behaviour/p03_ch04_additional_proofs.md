@@ -30,6 +30,6 @@ La iniciación del uso de la fuerza es siempre contrario a cualquier teoría mor
 
 Desde que la fuerza viola el requerimiento moral de *evadir* - y la acumulación de evaciones siempre genera mala calidad - CUP nos ayduará más facilmente a predecir que las escuelas públicas proporcionen educación de mala calidad.
 
-Además, CUP también nos habría ayudado a predecir que, a medida que se utilizara más y más fuerza en el ámbito de la educación pública, a medida que se aumenten los impuestos, las compulsiones sindicales y así sucesivamente escalando, la calidad de la educación provista empeoraría cada vez más.
+Además, CUP también nos ha ayudado a predecir que, a medida que se utilizara más y más fuerza en el ámbito de la educación pública, como en los impuestos, las compulsiones sindicales y así sucesivamente escalaría, la calidad de la educación provista empeoraría cada vez más.
 
-Esto, por supuesto, fue – y es – exactamente el caso.
+Esto, por supuesto, fué - y es - exactamente el caso.
