@@ -36,14 +36,14 @@ Cuando analizamos un principio como el PNA, solamente hay siete posibilidades: t
 - La iniciación del uso de la fuerza es a veces moralmente correcto.
 - La iniciación del uso de la fuerza es siempre moralmente correcto.
 
-Como hemos visto, de igual manera, CUP es un "todo ó nada" marco de referencia. Si una acción es * universalmente preferible*, entonces no puede ser limitada por una individualidad, geográfica, tiempo etc. Si es incorrecto matar en Algeria, entonces tambien es malo matar en Bélgica, Estados Unidos, en el Polo Norte y en la Luna. Si fue incorrecto matar ayer, entonces no puedo ser correcto matar el día de mañana. Si es incorrecto matar para Bob, entonces también debe ser incorrecto matar para Doug.
+Como hemos visto, de igual manera, CUP es un "todo ó nada" marco de referencia. Si una acción es * universalmente preferible*, entonces no puede ser limitada por una individualidad, geográfica, tiempo etc. Si es incorrecto matar en Algeria, entonces también es malo matar en Bélgica, Estados Unidos, en el Polo Norte y en la Luna. Si fue incorrecto matar ayer, entonces no puedo ser correcto matar el día de mañana. Si es incorrecto matar para Bob, entonces también debe ser incorrecto matar para Doug.
 
-Uniendo NAP con UPB, por ende nos permite dismunuir esas siete afirmaciones a tres:
+Uniendo al PNA con el CUP, esto nos permite reducir estos siete estados a solamente tres:
 
-1. Es preferible universalmente iniciar el uso de la fuerza.
-2. Es preferible universalmente no iniciar el uso de la fuerza.
-3. La iniciación del uso de la fuerza no está sujeta a preferencias universales.
+1. Es universalmente preferible iniciar el uso de la fuerza.
+2. Es universalmente preferible el no iniciar el uso de la fuerza.
+3. La iniciación del uso de la fuerza no es sujeto a preferencias universales.
 
-Este es el resultado natural del aplicar el requirimiento de consistencia racional a premisas éticas. Una teoría racional no puede proponer válidamenteque pueden ocurrir resultados opuestos para las mismas situaciones. Una teoría científica no puede argumentar que una roca debe caer hacia abajo, pero que otra roca debe caer hacia arriba. Einstein no argumentó que E=MC^2^ para un jueves, si no que E=MC^3^ para un viernoes, o en Marte, o durante una luna azul. La ley de conservación – la materia no puede ser creada ni destruída – no es verdadera solo cuando usted lo quiera realmente o si le paga a una persona para que así sea, o cuando un gato negro se cruza por su camino. Las leyes de la Física no dependen del tiempo, la geografia, la opinión o los actos del Congreso. Esta consistencia también debe ser requerida por sistemas de ética, o UPB, y hablaremos de teorías morales generalmente aceptadas con respecto a esto en la Parte Dos, en algunas páginas.
+Este es el resultado natural de aplicar el requerimiento racional de consistencia de las proporciones éticas. Una teoría racional no puede proponer válidamente que el contrario de los resultados puedan ocurrir en diferentes circunstancias. Una teoría científica no puede argumentar que una roca debe caer, pero otra tiene que elevarse. Einsten no dijo que E=MC^2^ en un Jueves, pero que despues en Viernes sería E=MC^3^, ó en Marte, o durante una Luna azul. La ley de conservación – la materia no puede ser creada ni destruída – no es verdadera solo cuando usted lo quiera realmente o si le paga a una persona para que así sea, o cuando un gato negro se cruza por su camino. Las leyes de la Física no dependen del tiempo, la geografia, la opinión o los actos del Congreso. Esta consistencia también debe ser requerida por sistemas de ética, o UPB, y hablaremos de teorías morales generalmente aceptadas con respecto a esto en la Parte Dos, en algunas páginas.
 
 Sin embargo, ya que estamos lidiando con la pregunta de la *consistencia*, vale la pena tomar el tiempo para lidiar con nuestra capacidad para la *inconsistencia*.
