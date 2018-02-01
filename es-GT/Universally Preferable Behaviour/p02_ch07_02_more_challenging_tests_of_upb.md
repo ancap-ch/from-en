@@ -12,9 +12,9 @@ Podría disparar de forma justa a alguien que está comiendo un trozo de pescado
 
 Pareciera tonto discutir que puedo - Pero, ¿Por qué?
 
-Hay limites objetivos a la universalidad asociados a esta doctrina. Por ejemplo, algunas personas podrían no tener acceso a los peces - podrían vivir en un desierto - mientras que otros podrían vivir cerca de un lago que está lleno de peces, y les resultaría difícil o imposible sobrevivir sin comerlos. Sin embargo, eso no puede ser suficiente, dado que ya hemos aceptado el hecho de que la incapacidad de un eunuco para violar no invalida la proposición moral "es malo violar"
+Hay limites objetivos a la universalidad asociados a esta doctrina. Por ejemplo, algunas personas podrían no tener acceso a los peces - podrían vivir en un desierto - mientras que otros podrían vivir cerca de un lago que está lleno de peces, y les resultaría difícil o imposible sobrevivir sin comerlos. Sin embargo eso no podría ser suficiente, ya que hemos aceptado el hecho de la incapacidad de un eunuco para violar a alguien no invalida la propuesta moral "es malo violar"
 
-Pero no, el "arenque rojo" en la proposición moral "Es malo comer pescado" es la palabra "*pescado*"
+No, el punto central de la propuesta moral "es malo comer pescado" es la palabra "“*pescado“*"
 
 Un científico no puede decir válidamente que su teoría de la gravedad solo se aplica a las rocas rosadas. Como su teoría involucra la gravedad, debe aplicarse a *todas* las entidades que tienen masa.
 
