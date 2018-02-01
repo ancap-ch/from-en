@@ -28,8 +28,8 @@ El principipo central de la economía del mercado libre es esa cualidad la cual 
 
 La iniciación del uso de la fuerza es siempre contrario a cualquier teoría moral racional - es una específica y explícita violación al CUP. Desde que las escuelas públicas fueron fundadas a traves de la iniciación del uso de la fuerza, estas son una forma de *asociación forzada*, la cual es una clara violación de la * libertad de asociación* validada por el CUP.
 
-Desde que la fuerza viola el requerimiento moral de *evadir* - y la acumulación de evaciones siempre genera mala calidad - CUP nos ayduará más facilmente a predecir que las escuelas públicas proporcionen educación de mala calidad.
+Desde que la fuerza viola el requerimiento moral de *evadir* - y la acumulación de evaciones siempre genera mala calidad - CUP nos ayudará más fácilmente a predecir que las escuelas públicas proporcionen educación de mala calidad.
 
 Además, CUP también nos ha ayudado a predecir que, a medida que se utilizara más y más fuerza en el ámbito de la educación pública, como en los impuestos, las compulsiones sindicales y así sucesivamente escalaría, la calidad de la educación provista empeoraría cada vez más.
 
-Esto, por supuesto, fué - y es - exactamente el caso.
+Esto, por supuesto, fue - y es - exactamente el caso.
