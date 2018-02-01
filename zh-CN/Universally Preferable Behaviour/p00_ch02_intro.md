@@ -46,7 +46,7 @@
 
 如果我们知道惊人的潜力已经在我们身上存在了至少几万年—而且练习它会有巨大的利润和巨大的乐趣—那么很明显我们真的*想*使用我们惊人的心智。
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+于是，必然有一种下行力，它在历史上的作用是粉碎和奴役人类的天赋自由权。
 
 In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
 
