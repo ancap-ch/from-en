@@ -16,13 +16,13 @@ Isto é falso.
 
 Todas as pessoas razoáveis reconhecem que a biologia é uma ciência válida, apesar de que alguns animais nascem com mutações "excepcionais". O facto de que um cão nasça com cinco pernas não significa que o "canino" se converta numa categoria completamente subjectiva. O facto de que certas espécies de insectos sejam difíceis de diferenciar não significa que não haja diferença entre um besouro e uma baleia.
 
-Por alguma razão perversa, os intelectuais, em particular, gozam de grande alegria na destruição desenfreada de padrões éticos, normativos e racionais. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
+Por alguma razão perversa, os intelectuais, em particular, gozam de grande alegria na destruição desenfreada de padrões éticos, normativos e racionais. Isso pode ser porque os intelectuais, frequentemente, foram pagos por classes corruptas de indivíduos, como políticos, sacerdotes e reis - ou pode ser que um homem muitas vezes se converta em intelectual para criar justificações para o seu próprio comportamento imoral. Seja qual for o motivo, a maioria dos pensadores modernos tornou-se uma espécie de "anti pensador", o que é muito estranho. Isso seria equivalente a haver uma grande classe de "biólogos" que passaram toda a vida argumentando que a ciência da biologia era impossível. Se a ciência da biologia é impossível, dificilmente faz sentido converter-se em biólogo, mais do que um ateu lutar com unhas e dentes para se tornar padre.
 
-### Shades Of Grey
+### Tons de Cinzento
 
-In the realm of “grey areas,” there are really only three possibilities.
+No domínio das "áreas cinzentas", existem apenas três possibilidades.
 
-1. There are no such things as grey areas.
+1. Não existem tais coisas como áreas cinzentas.
 2. Certain grey areas do exist.
 3. All knowledge is a grey area.
 
