@@ -128,9 +128,9 @@ También, dado que hay veces que es físicamente imposible violar a alguien -por
 
 El violador puede justificar sus acciones evitando la premisa "violar es bueno," y en su lugar sustituirlo con otra premisa que apoye su deseo de violar, tal como: "Es moral tomar el propio placer, sin importar el descontento de los demás."
 
-This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+Esta premisa también falla en la prueba de lógica más básica de CUP. Si Bob cree que él debería tomar su propio placer al violar a Doug -sin importar el descontento de éste -entonces Bob no puede racionalmente elevar su preferencia a un CUP.
 
-If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
+Si todo el mundo tomaría su propio placer sin importar el *des*contento de sus victimas, entonces Bob no tendría derecho de violar a Doug, debido a que aunque Bob *prefiere* violar a Doug, Doug ciertamente prefiere *no* ser violado. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
 
 Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
 
