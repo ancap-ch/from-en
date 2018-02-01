@@ -62,9 +62,9 @@ Primero que nada, entendemos instintivamente que es más justo rechazar a un ami
 
 De nuevo, el marco de CUP viene al rescate.
 
-Una APA es una*regla no coercitiva que puede ser racionalmente aplicada a ambas partes simultaneamente*.
+Un AEP es una *regla no coercitiva que puede ser aplicada racionalmente a ambas partes simultáneamente*.
 
-Por ejemplo, si mi APA es:"llegar a tiempo",, entonces puede ser una norma universal que puede ser totalmente evitada. Yo no puedo infligir a la fuerza esta APA en ti porque tú no tienes que ser mi amigo, tú no tienes que llegar a tiempo, tú no tienes que respetar o seguir mis preferencias de ningún modo.[^1]
+Por ejemplo, si mi AEP es: "ser puntual," entonces puede ser una norma universal que puede ser evitada en su totalidad. Yo no puedo imponer por la fuerza este AEP sobre ti porque tú no tienes que ser mi amigo, no tienes que ser puntual, no tienes que respetar o seguir mis preferencias de ninguna forma. [^1]
 
 Si "estar a tiempo" es una APA, entonces es posible para dos personas, lograrlo simultaneamente- Si ambos están a tiempo.
 
