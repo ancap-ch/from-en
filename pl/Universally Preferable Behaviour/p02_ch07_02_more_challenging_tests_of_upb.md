@@ -2,7 +2,7 @@
 
 What would be the status of the moral proposition: “It is evil to eat fish”?
 
-Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
+Oczywiście, propozycja ta wydaje się spełniać przynajmniej niektóre wymagania UPB - wydaje się uniwersalna, niezależna od czasu i miejsca, i względnie obiektywna.
 
 Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
 
