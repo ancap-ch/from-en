@@ -32,10 +32,10 @@ Seguramente, en el conocimiento de tal envenenamiento universal y previsible, no
 
 Por lo tanto, como filosofo preocupado por la violencia y la inmoralidad, ¿debería enfocarme en criminales privados o públicos?
 
-Las violaciones que experimenté a manos de delincuentes privados se desvanecen a insignificancia en relación con incluso * un día * bajo la tierna misericordia de mis "maestros virtuosos y buenos"
+Las violaciones que experimente en las manos de delincuentes privados se desvanecen a la insignificancia hasta *un día* bajo la tierna misericordia de mis "virtuosos y buenos maestros"
 
-Si, entonces, los mayores peligros para la humanidad son falsas teorías éticas, entonces nuestra máxima prioridad debería ser el descubrimiento, la comunicación y el refinamiento de una teoría ética válida, racional, empírica y consistente. Si descubrimos que la mayoría de las víctimas de la peste están muriendo a causa del agua impura, entonces seguramente nuestra primera y más alta prioridad es diciéndoles que purifiquen el agua.
+Si, entonces, los grandes peligros para la humanidad son las falsas teorías éticas, entonces nuestra mayor prioridad debería ser el descubrimiento, la comunicación y el refinamiento de una valida, racional, empírica y consistente teoría ética. Si descubriéramos que la mayoría de las victimas de la plaga están muriendo por tomar agua contaminada, entonces seguramente les decimos que purificar el agua debería ser su prioridad.
 
 Pasemos ahora a esta tarea.
 
-[^12]: O, más bien: la educación "* forzada * es una virtud" - mis padres se vieron obligados a pagar a través de impuestos, y me vi obligado a asistir.
+[^12]: O, mas bien:"*forzada* la educación es una virtud"- Mis padres se vieron obligados a pagar a través de los impuestos, y yo me vi obligado a asistir.
