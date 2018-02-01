@@ -28,7 +28,7 @@ No domínio das "áreas cinzentas", existem apenas três possibilidades.
 
 Evidentemente, a opção 1 pode ser facilmente descartada. A opção três também é bastante fácil de descartar. A declaração "qualquer conhecimento é uma área cinzenta" é uma proposição auto-explosiva, como vimos acima, da mesma forma que "todas as declarações são mentiras" também auto-explode.
 
-Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
+Assim, devemos ir com a opção dois, que é que existem certas áreas cinzentas, e sabemos que elas são cinza em relação às áreas que não são oxigénio cinza existente no espaço, e também debaixo da água, senão na forma ou quantidade em que os seres humanos podem consumir. O *grau* de oxigenação é uma área cinzenta, ou seja, "menos versus mais"; A questão de saber se os seres humanos podem ou não respirar água é, sem dúvida, preto e branco.
 
 A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
 
