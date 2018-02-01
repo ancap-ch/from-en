@@ -4,11 +4,11 @@ Hay otras pruebas adicionales que podemos aplicar preferiblemente en el comporta
 
 ### Economia del mercado libre
 
-Una economía de libre mercado es sin duda el método más eficiente y generador de riqueza para organizar la producción y el consumo de bienes y recursos dentro de la sociedad. Su éxito material no tiene igual en la historia humana o alrededor del mundo.
+Un mercado libre es una economía es sin duda el metodo mas eficiente y productivo de organizar la producción y consumo de bienes y recursos entre la sociedad. El éxito material es sin duda igual en la historia humanos o alrededor del mundo.
 
-El marco de CUP anticipa, valida y explica las razones de los éxitos materiales de una economía de libre mercado.
+El marco de campo del CUP anticipa, valida y explica las razones para el progreso material de la economía del libre mercado.
 
-En teoría, una economía de libre mercado se basa en la aplicación de una teoría universal de los derechos de propiedad. Por el contrario, el comunismo se basa en el rechazo explícito de una teoría universal de los derechos de propiedad. Como hemos demostrado anteriormente que los derechos de propiedad universales son la única teoría moral válida, esto explica en el nivel más fundamental por qué el comunismo es un desastre, mientras que una economía de libre mercado es tan productiva materialmente.
+En teoría, una economía del mercado libre está basada en la aplicación de una teoría universal de los derechos de propiedad. Por el contrario, el comunismo está basado en el rechazo explícito de una teoría universal de los derechos de propiedad. Desde que hemos demostrado los derechos de propiedad es la única teoría de moral valida, esta explica que el nivel más fundamental del comunismo es todo un desastre, mientras que la economía del libre comercio es altamente productivo en material.
 
 Dado que los seres humanos *de hecho* tienen los mismos derechos de propiedad, cualquier sistema social que rechace este derecho está condenado a fracasar por completo, del mismo modo que cualquier planificador de puentes que rechace la realidad de la gravedad nunca podrá construir un puente que se mantenga de pie.
 
