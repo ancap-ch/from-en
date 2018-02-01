@@ -1,6 +1,6 @@
 ## Iniciacion
 
-Una teoría moral razonable debería ser capaz de explicar todo sobre los estándares universales, simplemente como una teoría de física debería ser capaz de explicar como un hombre puede inconscientemente calcular el arco del lanzamiento de una pelota de beisbol, y atraparla.
+Una teoría moral razonable debería ser capaz de explicar todo sobre los estándares universales, simplemente como una teoría de física debería ser capaz de explicar como un hombre puede inconscientemente calcular el arco del lanzamiento de una pelota de béisbol, y atraparla.
 
 Si el marco de referencia del CUP puede explicar por encima, entonces esto debería pasar al menos la prueba del "sentido común".
 
@@ -8,30 +8,30 @@ Esto no significa que de alguna manera sorprendentes - incluso increíbles- conc
 
 Con eso en mente, comencemos con la pregunta de * Iniciación *.
 
-Una cirugía puede "apuñalarte" con un bisturí, pero facilmente podemos comprender que esta accion es muy diferente a un asesino el cual te apuñalaría con un cuchillo.
+Una cirugía puede "apuñalarte" con un bisturí, pero fácilmente podemos comprender que esta acción es muy diferente a un asesino el cual te apuñalaría con un cuchillo.
 
 Esta diferencia puede ser entendida por un medio de análisis más profundo de *Iniciación*.
 
-Si contraes cancer, debes pedir una cirugia para que te operen. La razon por la cual en la cirugia te "apuñalan" no es inmoral ya que el cancer "inció" un ataque contra tu vida y tu salud. La cirugia está actuando como un "Sustituto de defensa personal" simplemente como un hombre que dispara a un asaltante el cual te está atacando. Inclusive haz dado tu consentimiento para la cirugía, y el trato de la misma por un contrato específico.
+Si contraes cáncer, debes pedir una cirugía para que te operen. La razón por la cual en la cirugía te "apuñalan" no es inmoral ya que el cáncer "inició" un ataque contra tu vida y tu salud. La cirugía está actuando como un "Sustituto de defensa personal" simplemente como un hombre que dispara a un asaltante el cual te está atacando. Inclusive haz dado tu consentimiento para la cirugía, y el trato de la misma por un contrato específico.
 
 El asaltante que te apuñala, de cualquier manera, está iniciando un ataque contra tu vida y tu salud, por lo cual está atacando la moral * al contrario * de los esfuerzos de la cirugía.
 
-Si soy un fumador crónico que lleva tiempo haciéndolo, he participado en la cadena de eventos que han llevado a mi pulmón a contraer cancer. Al iniciar y mantener el habito de fumar, he iniciado una cadena de casualidades que pueden resultar en una aflicción que amenaza a la vida. Ciertamente es posible obtener cancer de pulmón sin fumar - de igual manera fumar sin contraer cancer de pulmón - pero ciertamente en esto afectan las posibilidades.
+Si soy un fumador crónico que lleva tiempo haciéndolo, he participado en la cadena de eventos que han llevado a mi pulmón a contraer cáncer. Al iniciar y mantener el habito de fumar, he iniciado una cadena de casualidades que pueden resultar en una aflicción que amenaza a la vida. Ciertamente es posible obtener cáncer de pulmón sin fumar - de igual manera fumar sin contraer cáncer de pulmón - pero ciertamente en esto afectan las posibilidades.
 
 Del mismo modo, es posible dejar la billetera en la banca de algún parque por una semana y encontrarla en el mismo lugar en el cual se había dejado, pero al dejarla ahí por un largo periodo de tiempo, de cierta manera han afectado las probabilidades de que desapareciera.
 
-Por otro lado, si me quedo en casa todas las noche, no estoy exactamente poniéndome en peligro, ya que si un maniaco invade mi casa y roba, no puedo ser razonablemente acusado por cualquier rol casual en el que estuve involucrado.
+Por otro lado, si me quedo en casa todas las noche, no estoy exactamente poniéndome en peligro, ya que si un maníaco invade mi casa y roba, no puedo ser razonablemente acusado por cualquier rol casual en el que estuve involucrado.
 
-### El principio de no agresión (NAP por sus siglas en inglés)
+### El principio de no agresión (PNA)
 
-Una regla moral es propuesta a menudo con el nombre de * principio de no agresión*, ó NAP por sus siglas en inglés. También se le dice ser un “pacifista puercoespín”, debido a que el puercoespín solamente usa la “fuerza” para defensa propia. El NAP es básicamente la preposición de que “la iniciación del uso de la fuerza es moralmente malo”. O, para ponerlo más en los términos de nuestra conversación: “La no-iniciación de la fuerza es preferible universalmente”.
+Una regla moral es propuesta a menudo con el nombre de * principio de no agresión*, ó PNA. Inclusive es llamado el "puerco espín pacifista," debido a que un puerco espín solamente usa la "fuerza" como auto-defensa el PNA es básicamente la proposición que "de la iniciación del uso de la fuerza es moralmente incorrecta." ó, para ponerlo más en términos de nuestra conversación: "La no iniciación de la fuerza es universalmente preferible".
 
-Cuando analizamos un principio como el NAP, realmente hay sólo siete posibilidades: tres en el negativo, tres en el positivo y una neutral:
+Cuando analizamos un principio como el PNA, solamente hay siete posibilidades: tres negativas, tres positivas, y una neutral:
 
-- La iniciación del uso de la fuerza es siempre moralmente malo.
-- La iniciación del uso de la fuerza es a veces moralmente malo.
-- La iniciación del uso de la fuerza nunca es moralmente malo.
-- La iniciación del uso de la fuerza no tiene contenido moral.
+- La iniciación del uso de la fuerza es siempre moralmente incorrecto.
+- La iniciación del uso de la fuerza es a veces moralmente incorrecto.
+- La iniciación del uso de la fuerza nunca es moralmente incorrecto.
+- La iniciación del uso de la fuerza no tiene ningún contenido moral.
 - La iniciación del uso de la fuerza nunca es moralmente bueno.
 - La iniciación del uso de la fuerza es a veces moralmente bueno.
 - La iniciación del uso de la fuerza es siempre moralmente bueno.
