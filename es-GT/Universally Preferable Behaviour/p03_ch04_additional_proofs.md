@@ -16,17 +16,17 @@ Desde que los seres humanos *de hecho* tienen los mismos derechos de propiedad c
 
 La lógica y la ciencia son de hecho metodologías las cuales existen - junto con la moralidad - debajo de la sombrilla del CUP. En otras palabras, lógica y ciencia ambas son validadas por el marco de campo del CUP.
 
-Una pregunta central que necesita ser respondida es: * ¿por qué el método científico es infinitamente superior a otras "metodologías" de adquisición de conocimiento, como el misticismo? *
+Una pregunta central la cual necesita ser contestada es: *¿por que el método científico es infinitamente superior a otras "metodologías" de la adquisición de conocimiento, así como el misticísmo?*
 
-CUP responde esta pregunta.
+CUP responde a esta pregunta.
 
-Dado que cualquier metodología para la adquisición de conocimiento debe ser universal, consistente e independiente de tiempo y lugar, el método científico cumple con estos requisitos, mientras que el misticismo irracional y subjetivo es exactamente lo contrario de estos requisitos.
+Desde que cualquier metodología para la adquisición del conocimiento es unviersal, consistente, e independiente del lugar y del tiempo, el método científico cumple con estos requisitos, mientras que el irracional y subjetivo misticísmo es exactamente lo contrario a estos requerimientos.
 
-### Educación Publica
+### Educación pública
 
-Un principio central de la economía de libre mercado es que la calidad solo es realmente el resultado del * voluntarismo *. La coacción, fundamentalmente, es ineficiente: la violencia siempre resulta en mala calidad. Las panaderías soviéticas de estilo antiguo nunca llevaban buen pan; un hombre que golpea a su esposa nunca tendrá un matrimonio feliz.
+El principipo central de la economía del mercado libre es esa cualidad la cual resulta del *voluntarismo*. La coerción, fundamentalmente, es ineficiente -la violencia siempre resulta en una pobre calidad. Las antiguas panaderías de la unión soviética nunca trajeron buen pan; un hombre que golpea a su esposa nunca tendrá un feliz matrimonio.
 
-La iniciativa al uso de la fuerza siempre es contraria a cualquier teoría moral racional: es una violación específica y explícita de CUP. Dado que las escuelas públicas se financian mediante la iniciativa del uso de la fuerza, son una forma de * asociación forzada *, que es una clara violación de la * libertad de asociación * validada por CUP.
+La iniciación del uso de la fuerza es siempre contrario a cualquier teoría moral racional - es una específica y explícita violación al CUP. Dado que las escuelas públicas se financian mediante la iniciativa del uso de la fuerza, son una forma de * asociación forzada *, que es una clara violación de la * libertad de asociación * validada por CUP.
 
 Dado que la fuerza viola el requisito moral de * evitar * - y la falta de evitación siempre genera mala calidad - CUP nos ayudaría a predecir fácilmente que las escuelas públicas proporcionarían educación de baja calidad.
 
