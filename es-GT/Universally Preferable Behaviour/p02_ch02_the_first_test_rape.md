@@ -100,11 +100,11 @@ Como se discutió anteriormente, la violación no puede ser una acción moralmen
 
 ### Personalmente Negativo
 
-Tal vez la violación es una acción *personalmente negativa*, lo contrario del número tres. Como un ejemplo, un criminal en fuga consideraría la captura una acción personalmente negativa (PNA).
+Tal vez la violación es una acción *personalmente negativa*, lo opuesto al número tres. Como un ejemplo, un prófugo consideraría la captura una acción personalmente negativa (APN).
 
-Acciones personalmente negativas (PNAs) por definición no pueden ser aplicadas a otro. Así, un hombre siendo violado estaría equivocado al "infligir" su preferencia por *no ser violado* a su violador, en forma de autodefensa. De esta manera, la iniciación de violencia - la aplicación de una preferencia personal - es *moral*, mientras que la autodefensa - también la aplicación de una preferencia personal - es inmoral. De este modo, tendríamos las mismas acciones (la aplicación de una preferencia personal) clasificadas tanto moral como inmoral, lo que no se puede entender.
+Las acciones personalmente negativas (APN) por definición no pueden ser aplicadas sobre otros. Por ello, un hombre siendo violado estaría equivocado al "Infligir" su preferencia por *no ser violado* a su violador, en la manera de legitima defensa. De este modo, la iniciación de la violencia -la aplicación de una preferencia -es *moral*, mientras sea auto-defensa -también la aplicación de una preferencia personal - es inmoral. Así, tendríamos las mismas acciones (la aplicación de una preferencia personal) ambas clasificadas como moral e inmoral, lo cual no puede sostenerse.
 
-### Estéticamente Negativa
+### Estéticamente Negativo
 
 Quizás la violación es una acción estéticamente *negativa*, como "llegar tarde" - el reverso del número dos de arriba. Sin embargo, las acciones estéticamente negativas (ANAs) no pueden lógicamente ser aplicadas violentamente *porque por definición pueden ser evitadas*. Ya que yo puedo elegir libremente dejar de asociarme con un hombre que continuamente llega tarde, no puedo dispararle por llegar tarde.
 
