@@ -24,11 +24,11 @@ Desde que cualquier metodología para la adquisición del conocimiento es unvier
 
 ### Educación pública
 
-El principipo central de la economía del mercado libre es esa cualidad la cual resulta del *voluntarismo*. La coerción, fundamentalmente, es ineficiente -la violencia siempre resulta en una pobre calidad. Las antiguas panaderías de la unión soviética nunca trajeron buen pan; un hombre que golpea a su esposa nunca tendrá un feliz matrimonio.
+El principipo central de la economía del mercado libre es esa cualidad la cual resulta del *voluntarismo*. La coerción, fundamentalmente, es ineficiente - la violencia siempre resulta en una pobre calidad. Las antiguas panaderías de la unión soviética nunca trajeron buen pan; un hombre que golpea a su esposa nunca tendrá un feliz matrimonio.
 
-La iniciación del uso de la fuerza es siempre contrario a cualquier teoría moral racional - es una específica y explícita violación al CUP. Dado que las escuelas públicas se financian mediante la iniciativa del uso de la fuerza, son una forma de * asociación forzada *, que es una clara violación de la * libertad de asociación * validada por CUP.
+La iniciación del uso de la fuerza es siempre contrario a cualquier teoría moral racional - es una específica y explícita violación al CUP. Desde que las escuelas públicas fueron fundadas a traves de la iniciación del uso de la fuerza, estas son una forma de *asociación forzada*, la cual es una clara violación de la * libertad de asociación* validada por el CUP.
 
-Dado que la fuerza viola el requisito moral de * evitar * - y la falta de evitación siempre genera mala calidad - CUP nos ayudaría a predecir fácilmente que las escuelas públicas proporcionarían educación de baja calidad.
+Desde que la fuerza viola el requerimiento moral de *evadir* - y la acumulación de evaciones siempre genera mala calidad - CUP nos ayduará más facilmente a predecir que las escuelas públicas proporcionen educación de mala calidad.
 
 Además, CUP también nos habría ayudado a predecir que, a medida que se utilizara más y más fuerza en el ámbito de la educación pública, a medida que se aumenten los impuestos, las compulsiones sindicales y así sucesivamente escalando, la calidad de la educación provista empeoraría cada vez más.
 
