@@ -1,18 +1,18 @@
 ## Iniciacion
 
-Una teoría moral razonable deberia ser capaz de explicar todo sobre los estándares universales, simplemente como una teoría de física deberia ser capaz de explicar como un hombre puede inconcientemente calcular el arco del lanzamiento de una pelota de beisbol, y atraparla.
+Una teoría moral razonable debería ser capaz de explicar todo sobre los estándares universales, simplemente como una teoría de física debería ser capaz de explicar como un hombre puede inconscientemente calcular el arco del lanzamiento de una pelota de beisbol, y atraparla.
 
-Si el marco de referencia del CUP puede explicar por encima, entonces esto deberia pasar al menos la prueba del "sentido común".
+Si el marco de referencia del CUP puede explicar por encima, entonces esto debería pasar al menos la prueba del "sentido común".
 
-Esto no significa que de alguna manera sorprendetes -incluso increíbles- conclusiones no resulten de una teoría moral, pero al menos deberiamos pasar el primer obstaculo de la explicación de lo obvio, antes de analizar todo lo que está mas lejano a ello.
+Esto no significa que de alguna manera sorprendentes - incluso increíbles- conclusiones no resulten de una teoría moral, pero al menos deberíamos pasar el primer obstáculo de la explicación de lo obvio, antes de analizar todo lo que está mas lejano a ello.
 
-Con eso en mente, volvamos a la pregunta de *iniciación*.
+Con eso en mente, comencemos con la pregunta de * Iniciación *.
 
-Un cirujano puede “apuñalarlo” a usted con un bisturí, pero podemos entender fácilemente que su acción es muy diferentea la de un ladrón que lo apuñala con un cuchillo.
+Una cirugía puede "apuñalarte" con un bisturí, pero facilmente podemos comprender que esta accion es muy diferente a un asesino el cual te apuñalaría con un cuchillo.
 
-Esta diferencia puede ser entendida a través de un análisis más profundo de la *iniciación*.
+Esta diferencia puede ser entendida por un medio de análisis más profundo de *Iniciación*.
 
-Si usted se enferma de cáncer, puede llegar a pedirle a un cirujano que lo opere. La razón por la cual la “puñalada” el cirujano no es inmoral es que el cáncer “inició” un ataque a la vida y a la salud. El cirujano está actuando como un “agente surrogado de defensa propia”, tal como lo haría un hombre que le dispara al ladrón que lo está atacando. Además usted ha dado su consentimiento al cirujano, y limita su comportamiento con un contrato específico.
+Si contraes cancer, debes pedir una cirugia para que te operen. La razon por la cual en la cirugia te "apuñalan" no es inmoral ya que el cancer "inció" un ataque contra tu vida y tu salud. El cirujano está actuando como un “agente surrogado de defensa propia”, tal como lo haría un hombre que le dispara al ladrón que lo está atacando. Además usted ha dado su consentimiento al cirujano, y limita su comportamiento con un contrato específico.
 
 El ladrón que lo apuñala a usted, sin embargo, está iniciando un ataque a su vida y a su salud, motivo por el cual su ataque es lo moralmente *opuesto* a los esfuerzos del cirujano.
 
