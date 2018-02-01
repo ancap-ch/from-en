@@ -4,17 +4,17 @@ Hay otras pruebas adicionales que podemos aplicar preferiblemente en el comporta
 
 ### Economia del mercado libre
 
-Un mercado libre es una economía es sin duda el metodo mas eficiente y productivo de organizar la producción y consumo de bienes y recursos entre la sociedad. El éxito material es sin duda igual en la historia humanos o alrededor del mundo.
+Una economía de libre mercado es sin duda el método mas eficiente y productivo de organizar la producción y consumo de bienes y recursos entre la sociedad. El éxito material es sin duda igual en la historia humanos o alrededor del mundo.
 
 El marco de campo del CUP anticipa, valida y explica las razones para el progreso material de la economía del libre mercado.
 
 En teoría, una economía del mercado libre está basada en la aplicación de una teoría universal de los derechos de propiedad. Por el contrario, el comunismo está basado en el rechazo explícito de una teoría universal de los derechos de propiedad. Desde que hemos demostrado los derechos de propiedad es la única teoría de moral valida, esta explica que el nivel más fundamental del comunismo es todo un desastre, mientras que la economía del libre comercio es altamente productivo en material.
 
-Dado que los seres humanos *de hecho* tienen los mismos derechos de propiedad, cualquier sistema social que rechace este derecho está condenado a fracasar por completo, del mismo modo que cualquier planificador de puentes que rechace la realidad de la gravedad nunca podrá construir un puente que se mantenga de pie.
+Desde que los seres humanos *de hecho* tienen los mismos derechos de propiedad cualquier sistema social que rechace esta derecho es condenado al fracaso - como en cualquier diseñador de puentes que rechace la realidad de la gravedad nunca será capaz de construir un puente que se sostenga en pie.
 
 ### El método científico
 
-La lógica y la ciencia son, de hecho, metodologías que existen, junto con la moralidad, bajo el paraguas de CUP. En otras palabras, la lógica y la ciencia están ambas validadas por el marco de CUP.
+La lógica y la ciencia son de hecho metodologías las cuales existen - junto con la moralidad - debajo de la sombrilla del CUP. En otras palabras, lógica y ciencia ambas son validadas por el marco de campo del CUP.
 
 Una pregunta central que necesita ser respondida es: * ¿por qué el método científico es infinitamente superior a otras "metodologías" de adquisición de conocimiento, como el misticismo? *
 
