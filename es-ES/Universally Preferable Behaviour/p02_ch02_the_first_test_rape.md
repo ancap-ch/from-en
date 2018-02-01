@@ -126,7 +126,7 @@ Ya que el evitar es uno de los diferenciadores clave entre "desagradable" e "inm
 
 Además, ya que hay veces que es físicamente imposible violar a alguien - por ejemplo, cuando no se puede conseguir una erección - la definición de "la violación es maldad" resuelve el problema de las personas siendo involuntariamente inmoral, lo que es por definición imposible, de acuerdo al criterio de evitabilidad.
 
-The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+El violador puede justificar sus acciones evitando la proposición "la violación es buena," y en cambio sustituyendo otra proposición que apoya su deseo de violar, como: "es moral tomar el placer propio, sin importar que a otros no les plazca."
 
 This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
 
