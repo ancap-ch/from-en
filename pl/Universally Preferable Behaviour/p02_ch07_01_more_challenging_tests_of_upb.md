@@ -6,7 +6,7 @@ However, there remain many challenging moral tests that fall outside the example
 
 ### Self-Defence
 
-The concept of self-defence should not be taken for granted. If we assume that there is no such thing as self-defence, or that self-defence is never a valid action, then the framework of UPB undoes that assumption very quickly.
+The concept of self-defence should not be taken for granted. Jeśli założymy, że nie ma czegoś takiego jak samoobrona, lub że samoobrona nigdy nie jest prawidłowym działaniem, wówczas struktura UPB bardzo szybko rozwiązuje to założenie.
 
 If there is no such thing as self-defence, then we are not talking about the initiation or the retaliation of the use of force, but rather just the use of force in any context. In other words, if we get rid of the concept of self-defence, the only question that we need to ask ourselves is: *is it universally preferable to use force, or not?*
 
