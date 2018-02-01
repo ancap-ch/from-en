@@ -82,7 +82,7 @@ This does not necessarily mean that my objective criteria are *logical* – I co
 
 If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Jeśli powiem ci, że lubię lody czekoladowe i mówisz mi, że lubisz wanilię, nie można "udowodnić", że wanilia jest obiektywnie lepsza niż czekolada. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
 
 #### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
 
