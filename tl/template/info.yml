@@ -1,0 +1,76 @@
+---
+content_files:
+  - content.md
+translation:
+  language: en
+  is_translation: false
+  this_project_url: ""
+  fetch_translators: true
+  fetch_reviwers: true
+  fetch_progress: true
+titles:
+  - Text title
+  - '~~Centered~~'
+  - '~~~~~the right'
+discussions:
+  - 
+    - https://en.ancap.ch/t/17
+    - Ancap Channel
+more_infos:
+  - 
+    - https://www.google.com
+    - Website name
+tags:
+  - Some Tag
+  - Another Tag
+  - And so on
+tag_prefix: "https://en.ancap.ch/tags/"
+persons:
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "author"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "collaborator"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "thanked"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "translator"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "reviwer"
+  - 
+    person_: [ ]
+    identifier: "template_person"
+    rule: "cover_artist"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "artist"
+resources:
+  - 
+    resource: [ ]
+    rule: "front_cover"
+    content: "cover.png"
+    websites:
+      - Resource website
+    description: Resource description
+    persons:
+      - template_person
+targets:
+  - 
+    target: [ ]
+    name: article
+    reset_footer_active: false
+    reset_footer_depth: 0
+    clear_page_active: true
+    clear_page_depth: 1
+    toc_depth: 3
+version: "0.1.1"
