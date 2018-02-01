@@ -6,9 +6,9 @@ Por exemplo, se aceitarmos a validade universal dos direitos de propriedade, rom
 
 No mundo real, isso poderia levar uma pessoa incrivelmente insensível a acusações contra o homem que destruiu a janela para salvar a sua vida - assim como poderia levar um homem incrivelmente irresponsável a se recusar a pagar a restituição da mesma. O princípio da "evitabilidade" é central aqui - um homem pendurado num mastro de bandeira tem pouca escolha, excepto dar um pontapé numa janela. Um homem que invade a sua casa para roubar coisas, claramente tem a capacidade de evitar entrar na sua propriedade - não está encurralado, é simplesmente o *iniciador* da agressão. Isto é como a diferença entre a mulher traída pelo marido e a mulher cujo marido a prende no sótão.
 
-This is not to say that breaking the window to save your life is not wrong. It is, but it is a wrong that almost all of us would choose to commit rather than die. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
+Isso não quer dizer que romper a janela para salvar a sua vida não está errado. Está, mas é um erro que quase todos nós escolheríamos cometer em vez de morrer. Se eu estivesse prestes a morrer de fome, roubaria uma maçã. Isso não significa que para mim, seja *correcto* roubar a maçã - significa apenas que eu o faria - e que devo aceitar as consequências do meu roubo.<sup id="fnref:10"><a href="#fn:10" class="footnote-ref"></a></sup>
 
-### Grey Areas
+### Zonas Cinzentas
 
 The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
 
