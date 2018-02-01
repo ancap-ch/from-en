@@ -18,7 +18,7 @@ No, el punto central de la propuesta moral "es malo comer pescado" es la palabra
 
 Un cientifico no podría decir validamente que su teoría de la gravedad sólo aplica a las piedras rosadas. Ya que su teoría involucra a la gravedad, debe aplicar a *todas* las entidades que tengan masa.
 
-De manera similar, en el ejemplo anterior, CUP acepta solo el * acto * de comer, y rechaza * lo que * se está come, ya que lo que se come no es una * acción *, sino más bien sobre lo que se está actuando.
+De forma similar, en el ejemplo anterior, la UPA solo acepta el *acto* de comer, y rechaza *lo que* se esta comiendo, ya que lo que se come no es una *acción *, sino sobre lo que se está ejerciendo la acción.
 
 De la misma forma, un especialista en ética no puede presentar válidamente la proposición moral: "Es malo violar a los *ancianos*". "Violación" es el comportamiento; si la víctima es mayor o no es irrelevante para la proposición moral, ya que mientras la víctima sea humana, el requisito de universalidad se mantiene constante. "No robarás" es una proposición moral válida según CUP - "no robarás * nabos *" no lo es, por la simple razón de que el robo está relacionado con el concepto de propiedad - y los nabos, como un subconjunto de la propiedad, no se puede delinear racionalmente de todas las otras formas de propiedad y se les asigna su propia regla moral.
 
