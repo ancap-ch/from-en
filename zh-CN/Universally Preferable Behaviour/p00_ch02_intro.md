@@ -44,7 +44,7 @@
 
 如果我们看看人类的技术进步和经济发展，几乎我们看到的是一个数以千年的沿水平发展线，随后过去几百年里的发展出现了大规模而渐近剧增。 令人难以置信的事，一些普遍的基因突变可以解释知识一致性和物质成就的突如其来和巨大加速。 理论中声称某种“雪球效应”的产生，是由于自文明诞生以来产生的所有知识小增量的积累而神秘地推动，通常可以被完全排除在*事后解释*，因为它们没有预测价值。
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+如果我们知道惊人的潜力已经在我们身上存在了至少几万年—而且练习它会有巨大的利润和巨大的乐趣—那么很明显我们真的*想*使用我们惊人的心智。
 
 Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
 
