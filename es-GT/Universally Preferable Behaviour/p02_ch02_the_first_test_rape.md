@@ -130,7 +130,7 @@ El violador puede justificar sus acciones evitando la premisa "violar es bueno,"
 
 Esta premisa también falla en la prueba de lógica más básica de CUP. Si Bob cree que él debería tomar su propio placer al violar a Doug -sin importar el descontento de éste -entonces Bob no puede racionalmente elevar su preferencia a un CUP.
 
-Si todo el mundo tomaría su propio placer sin importar el *des*contento de sus victimas, entonces Bob no tendría derecho de violar a Doug, debido a que aunque Bob *prefiere* violar a Doug, Doug ciertamente prefiere *no* ser violado. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
+Si todo el mundo tomaría su propio placer sin importar el *des*contento de sus victimas, entonces Bob no tendría derecho de violar a Doug, debido a que aunque Bob *prefiere* violar a Doug, Doug ciertamente prefiere *no* ser violado. Si todo el mundo tomara su propio placer sin importar el descontento de los otros, entonces no hay una razón racional de por qué la preferencia de Bob de violar a Doug debería tener un precedente sobre la preferencia de Doug de no ser violado, si importar el descontento que le causaría a Bob la negativa a ser violado.
 
 Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
 
