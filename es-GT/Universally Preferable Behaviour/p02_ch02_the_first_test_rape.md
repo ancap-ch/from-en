@@ -74,15 +74,15 @@ Por otro lado, si yo digo que "tener gusto por el jazz" es un AEP, entonces yo m
 
 Esto no es solamente un rango de contradicción en términos de sintaxis, sino que también inmediatamente falla la prueba del CUP. Si yo prefiero el Jazz a los otros tipos de música, pero tú prefieres la música clásica a los otros tipos de música, si las preferencias personales son universalmente preferible, entonces tú deberías preferir el jazz porque a yo lo hago, y yo debería preferir la música clásica porque tú lo haces. Ésto, por supuesto, es imposible, porque requeriría que a ambos *simultáneamente prefiriéramos el jazz y la música clásica ambas por encima de los otros tipos de música*. Tú debes cambiar tu preferencia al jazz, porque es mi preferencia -pero yo al mismo tiempo debo cambiar la mía a clásica, porque es tu preferencia. Esto es como decir que ambos deben lanzar y atrapar la misma pelota de béisbol exactamente al mismo momento - una imposibilidad lógica y física.
 
-Ya que las APAs no son aplicables a través de la violencia - tú no puedes disparar a un hombre por llegar tarde - entonces la violación *no puede* ser una APA, puesto que violación por definición es un ataque sexual forzado mediante la violencia.
+Dado que los AEP no son aplicables a través de la violencia -no le puedes disparar a un hombre por llegar tarde -entonces la violación *no puede* ser un AEP, puesto que la violación por definición es un ataque sexual impuesto a través de la fuerza.
 
-Así, la violación no puede caer en la categoría de APAs.
+Por lo tanto la violación no podría entrar en la categoría de los AEP.
 
-### Personalmente Positiva
+### Personalmente Positivo
 
-Tal vez la violación es similar a una preferencia meramente personal.[^2]
+Quizás la violación es semejante a una mera preferencia personal. [^2]
 
-Entonces surge la pregunta: ¿puede la clasificación de violación como una preferencia meramente personal hacer frente al escrutinio lógico?
+Por lo que surge la siguiente pregunta: ¿Puede la clasificación de la violación como una mera preferencia personal hacer frente al escrutinio lógico?
 
 Si proponemos la regla moral: "las preferencias personales deben ser violentamente infligidas a entras personas," ¿cómo hace eso frente a la estructura de la UPB?[^3]
 
