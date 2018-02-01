@@ -1,6 +1,6 @@
 ## La Tercera Prueba: Robo
 
-Tendremos que estar un poco mas de tiempo en robos, desde que éste inevitablemente trae al tema la cuestión acerca de derechos de propiedad, el cual es altamente contencioso para algunos.
+Vamos a tener que pasar un poco más de tiempo en el robo, debido a que inevitablemente trae a colación la cuestión de los derechos de propiedad, lo cual es altamente conflictivo para algunos.
 
 Hay muchas maneras de acercarse a la pregunta sobre los derechos de propiedad, desde la granja o propiedad familiar hasta definiciones legales, consideraciones prácticas, etc. No voy a mencionar ninguno de esos, porque la cuestión de los derechos de propiedad debe caer en un marco de CUP, donde CUP hace referencia a una metodología racional para evaluar proposiciones morales.
 
