@@ -1,10 +1,10 @@
-## La segunda prueba: asesinato
+## La segunda prueba: El asesinato
 
-Analicemos ahora el test UPB contra proposiciones morales con respecto a * asesinato *, que aquí se define como matar intencionalmente y con premeditación, no en defensa propia.
+Empecemos a probar el marco de campo del CUP contra la moral de las proposiciones respecto a el *asesinato*, el cual es definido como la acción de matar intencionalmente y con una premeditacion, no en defensa propia.
 
-Dado que pasamos tanto tiempo diseccionando la cuestión de la violación, y dado que muchos de los mismos argumentos se aplicarán aquí, este análisis puede ser mucho más breve.
+Desde que hemos utilizado tiempo diseccionando la pregunta de la violación - y desde que muchos de los argumentos se pueden aplicar aquí- este análisis puede ser mucho más breve.
 
-Volvamos a nuestros dos conejillos de india morales sentados en una habitación, los llamaremos Bob y Doug.
+Pero volvamos a nuestros dos conejillos de india sentados en un salón -llamemosles Bob y Doug.
 
 Si el asesinato es moralmente bueno, entonces * abstenerse * de asesinar es inmoral. Por lo tanto, la única posibilidad de que Bob y Doug tengan que ser morales es en el instante en que simultáneamente se asesinan entre sí. Físicamente, esto es imposible, por supuesto, si ambos se paran y agarran la garganta del otro, nunca sucumbirán al estrangulamiento exactamente en el mismo momento. Si Bob muere primero, el agarre en la garganta de Doug se aflojará, condenando así a Doug al estado de * inmoralidad * hasta el momento en que pueda encontrar a otra víctima. Porque Bob muere primero, y por lo tanto no puede seguir intentando asesinar a Doug, la muerte de Bob lo vuelve más inmoral que el asesinato de Doug.
 
