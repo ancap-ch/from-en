@@ -24,7 +24,7 @@ Por otro lado, si me quedo en casa todas las noche, no estoy exactamente ponién
 
 ### El principio de no agresión (PNA)
 
-Una regla moral es propuesta a menudo con el nombre de * principio de no agresión*, ó PNA. Inclusive es llamado el "puerco espín pacifista," debido a que un puerco espín solamente usa la "fuerza" como auto-defensa el PNA es básicamente la proposición que "de la iniciación del uso de la fuerza es moralmente incorrecta." ó, para ponerlo más en términos de nuestra conversación: "La no iniciación de la fuerza es universalmente preferible".
+Una regla moral es propuesta a menudo con el nombre de * principio de no agresión*, ó PNA. Inclusive es llamado el "puerco espín pacifista," debido a que un puerco espín solamente usa la "fuerza" como auto-defensa el PNA es básicamente la proposición que "de la iniciación del uso de la fuerza es moralmente incorrecta." o, para ponerlo más en términos de nuestra conversación: "La no iniciación de la fuerza es universalmente preferible".
 
 Cuando analizamos un principio como el PNA, solamente hay siete posibilidades: tres negativas, tres positivas, y una neutral:
 
@@ -36,7 +36,7 @@ Cuando analizamos un principio como el PNA, solamente hay siete posibilidades: t
 - La iniciación del uso de la fuerza es a veces moralmente correcto.
 - La iniciación del uso de la fuerza es siempre moralmente correcto.
 
-Como hemos visto, de igual manera, CUP es un "todo ó nada" marco de referencia. Si una acción es * universalmente preferible*, entonces no puede ser limitada por una individualidad, geográfica, tiempo etc. Si es incorrecto matar en Algeria, entonces también es malo matar en Bélgica, Estados Unidos, en el Polo Norte y en la Luna. Si fue incorrecto matar ayer, entonces no puedo ser correcto matar el día de mañana. Si es incorrecto matar para Bob, entonces también debe ser incorrecto matar para Doug.
+Como hemos visto, de igual manera, CUP es un "todo o nada" marco de referencia. Si una acción es * universalmente preferible*, entonces no puede ser limitada por una individualidad, geográfica, tiempo etc. Si es incorrecto matar en Algeria, entonces también es malo matar en Bélgica, Estados Unidos, en el Polo Norte y en la Luna. Si fue incorrecto matar ayer, entonces no puedo ser correcto matar el día de mañana. Si es incorrecto matar para Bob, entonces también debe ser incorrecto matar para Doug.
 
 Uniendo al PNA con el CUP, esto nos permite reducir estos siete estados a solamente tres:
 
@@ -44,6 +44,6 @@ Uniendo al PNA con el CUP, esto nos permite reducir estos siete estados a solame
 2. Es universalmente preferible el no iniciar el uso de la fuerza.
 3. La iniciación del uso de la fuerza no es sujeto a preferencias universales.
 
-Este es el resultado natural de aplicar el requerimiento racional de consistencia de las proporciones éticas. Una teoría racional no puede proponer válidamente que el contrario de los resultados puedan ocurrir en diferentes circunstancias. Una teoría científica no puede argumentar que una roca debe caer, pero otra tiene que elevarse. Einsten no dijo que E=MC^2^ en un Jueves, pero que despues en Viernes sería E=MC^3^, ó en Marte, o durante una Luna azul. La ley de conservación – la materia no puede ser creada ni destruída – no es verdadera solo cuando usted lo quiera realmente o si le paga a una persona para que así sea, o cuando un gato negro se cruza por su camino. Las leyes de la Física no dependen del tiempo, la geografia, la opinión o los actos del Congreso. Esta consistencia también debe ser requerida por sistemas de ética, o UPB, y hablaremos de teorías morales generalmente aceptadas con respecto a esto en la Parte Dos, en algunas páginas.
+Este es el resultado natural de aplicar el requerimiento racional de consistencia de las proporciones éticas. Una teoría racional no puede proponer válidamente que el contrario de los resultados puedan ocurrir en diferentes circunstancias. Una teoría científica no puede argumentar que una roca debe caer, pero otra tiene que elevarse. Einsten no dijo que E=MC^2^ en un Jueves, pero que después en Viernes sería E=MC^3^, o en Marte, o durante una Luna azul. La ley de conservación -La cuál dice que la materia no puede ser creada ni destruida - No es solamente cierta cuando tu realmente lo quieres ó pagas a un hombre para que sea así, ó cuando un gato negro pase en tu camino. Las leyes de la física no están sujetas a algún tiempo, geografía, opinión o actos del Congreso. Esta consistencia debe ser requerida por sistemas de ética, o CUP, y aceptaremos teorías morales a este rigor en la parte dos, en unas cuantas páginas.
 
-Sin embargo, ya que estamos lidiando con la pregunta de la *consistencia*, vale la pena tomar el tiempo para lidiar con nuestra capacidad para la *inconsistencia*.
+De igual manera, desde que estamos hablando de la palabra * consistencia *, vale la pena tomar el tiempo de hablar sobre nuestra capacidad de * inconsistencia *.
