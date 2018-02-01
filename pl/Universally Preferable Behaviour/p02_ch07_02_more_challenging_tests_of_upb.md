@@ -26,7 +26,7 @@ The moral proposition “eating fish is evil” thus fails the test of universal
 
 UPB also rejects as invalid any theory that results in opposing moral judgements for identical actions. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
 
-Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
+Albo "jedzenie" jest moralne, niemoralne, albo moralnie neutralne. Jeśli jedzenie jest niemoralne, pojawia się cały szereg problemów logicznych, z którymi jestem pewien, że jesteśmy już dobrze obeznani.
 
 If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
 
