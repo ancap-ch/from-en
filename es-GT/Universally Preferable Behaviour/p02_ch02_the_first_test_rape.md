@@ -136,11 +136,11 @@ Por consiguiente, Doug le puede decir a Bob: " Es moralmente bueno para mí viol
 
 Por supuesto, pocos violadores son filósofos, pero como mencionamos anteriormente, el principal peligro para los seres humanos no son los criminales individuales, sino las teorías morales irracionales y explotadoras. Por ejemplo, el encarcelamiento es inevitablemente justificado a través de la recurso de una teoría moral -un encarcelamiento causa que muchas más personas sean violadas de lo que los criminales privados podrían siquiera soñar. Si la teoría moral que justifica el encarcelamiento es incorrecta, entonces *corregir* ésta teoría moral debería ser, por mucho, la preocupación más grande de cualquiera que desee reducir la prevalencia de violación.
 
-Thus it would seem that the only logical possibility for rape is that *not* raping is universally preferable behaviour – or that rape is universally banned behaviour.
+Por ello, pareciera que la única posibilidad lógica para la violación es que ésta *no* una conducta universalmente preferible -o que la violación es un comportamiento universalmente prohibido.
 
-### Whew!
+### ¡Vaya!
 
-The fact that the UPB framework has logically and effectively validated the moral proposition that rape is evil – not “good,” or “aesthetically preferable,” or “personally preferable,” or “morally neutral” – is a very good sign. It does not prove beyond a shadow of a doubt that UPB will logically validate all “common sense” moral propositions, but the first hurdle has been passed, and that should give us great cause for celebration. If I were a physicist proposing a Unified Field Theory, and the application of my theory correctly predicted where a thrown baseball would land, I could justly be enormously pleased.
+El hecho de que el marco de CUP ha validado lógica y efectivamente la proposición moral de que violar es malo - no "bueno", o "estéticamente preferible," o "personalmente preferible," o "moralmente neutral" -es una muy buena señal. Ésto no prueba que más allá de una sombra de duda de que el CUP validará lógicamente todo el "sentido común" de las proposiciones morales, pero el primer obstáculo ha sido atravesado, y eso debería darnos un buen motivo de celebración. If I were a physicist proposing a Unified Field Theory, and the application of my theory correctly predicted where a thrown baseball would land, I could justly be enormously pleased.
 
 Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
 
