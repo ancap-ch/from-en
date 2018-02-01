@@ -36,4 +36,4 @@ Pasemos ahora a la cuestión del robo. Si este marco de campo es verdad aquí, e
 
 ### ¿Defensa Personal?
 
-Hemos evadido el tema de la defensa personal con respecto al asesinato, ya que apenas es necesario examinarlo en el caso de una violación. Esto no es porque el tema de la defensa personal sea así mismo evidente o sencillo de entender, si no mas bien por que las complicaciones que existen pueden ser tratadas con más comprensión a las que buscabamos en la pregunta del robo.
+Hemos evadido el tema de la defensa personal con respecto al asesinato, ya que apenas es necesario examinarlo en el caso de una violación. Esto no es porque el tema de la defensa personal sea así mismo evidente o sencillo de entender, si no mas bien por que las complicaciones que existen pueden ser tratadas con más comprensión a las que buscábamos en la pregunta del robo.
