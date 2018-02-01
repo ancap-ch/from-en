@@ -12,7 +12,7 @@ Also, if government representatives claim that a social contract allows them to 
 
 If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
 
-When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
+Kiedy zmuszam tę kobietę do małżeństwa, mogę usprawiedliwić użycie siły - nawet na natychmiastowych, pragmatycznych podstawach - twierdząc, że jest psychicznie niezdolna do dokonywania własnych wyborów w odniesieniu do małżeństwa.
 
 If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. If she has no idea what constitutes a good or suitable husband, then how can she evaluate me as fit to decide who will be a good or suitable husband for her?
 
