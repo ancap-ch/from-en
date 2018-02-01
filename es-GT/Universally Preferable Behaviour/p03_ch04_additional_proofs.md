@@ -1,8 +1,8 @@
 ## Pruebas Adicionales
 
-Hay otras pruebas adicionales que podemos aplicar a la cuestión del comportamiento universalmente preferible.
+Hay otras pruebas adicionales que podemos aplicar preferiblemente en el comportamiento universal.
 
-### La economía de libre mercado
+### Economia del mercado libre
 
 Una economía de libre mercado es sin duda el método más eficiente y generador de riqueza para organizar la producción y el consumo de bienes y recursos dentro de la sociedad. Su éxito material no tiene igual en la historia humana o alrededor del mundo.
 
