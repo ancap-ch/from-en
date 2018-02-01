@@ -24,13 +24,13 @@ Por otro lado, me han quitado cientos de miles de dolares por la fuerza a travé
 
 El niño (y el hombre) que robo mi dinero sin duda lo uso para algún placer o necesidad personal. El gobierno que roba mi dinero, por otra parte, lo utiliza para oprimir a los pobres, financiar guerras, pagar a los ricos, pedir dinero prestado y empobrecer a mis hijos - y para pagar los salarios de aquellos que me roban.
 
-Si yo fuera un médico en el medio de una gran ciudad abatida por una plaga terrible, y descubriera que esa plaga se estaba transmitiendo a través de las cañerías de agua, ¿cuál debería ser mi respuesta racional? Si afirmara realmente preocuparme por la salud de mis conciudadanos?
+Si yo fuera un doctor e el medio de una gran ciudad abatida por una plaga terrible, y descubriera que la plaga se estaba transmitiendo por las tuberías, ¿cual debía ser mi respuesta racional?- ¿si realmente me importara la salud de mis queridos ciudadanos?
 
-Seguramente debería llorar desde los mismos tejados que su agua potable estaba causando la plaga. Seguramente debería tomar todas las medidas posibles para que la gente comprenda la verdadera fuente de la enfermedad que los afectó.
+Seguramente debería llorar desde los mismos tejados que estaban siendo contaminados a través del agua potable. Seguramente debería tomar todas las medidas posibles para que las personas entendieran la verdadera fuente de la enfermedad que los afecto.
 
-Seguramente, en el conocimiento de tal envenenamiento universal y prevenible, no debería perder el tiempo argumentando que el verdadero peligro que enfrentaba era la pequeña posibilidad de que algún individuo al azar decidiera envenenarlo en algún momento en el futuro.
+Seguramente, en el conocimiento de tal envenenamiento universal y previsible, no debería perder mi tiempo discutiendo si el verdadero peligro que enfrentas es la pequeña posibilidad de que algún individuo al azar decida envenenarte en algún momento futuro.
 
-Por lo tanto, como filósofo preocupado por la violencia y la inmoralidad, ¿debería centrarme en los delincuentes privados o en los delincuentes públicos?
+Por lo tanto, como filosofo preocupado por la violencia y la inmoralidad, ¿debería enfocarme en criminales privados o públicos?
 
 Las violaciones que experimenté a manos de delincuentes privados se desvanecen a insignificancia en relación con incluso * un día * bajo la tierna misericordia de mis "maestros virtuosos y buenos"
 
