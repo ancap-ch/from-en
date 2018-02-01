@@ -10,7 +10,7 @@ Thus saying that the government is justified in forcing us to become more “pra
 
 Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
 
-If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
+Jeśli zmuszę kobietę, by poślubiła mężczyznę, którego dla niej wybrałem, to wyraźnie uważam, że mam nieskończenie lepszy osąd o stosowności męża dla niej niż ona. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
 
 Kiedy zmuszam tę kobietę do małżeństwa, mogę usprawiedliwić użycie siły - nawet na natychmiastowych, pragmatycznych podstawach - twierdząc, że jest psychicznie niezdolna do dokonywania własnych wyborów w odniesieniu do małżeństwa.
 
