@@ -118,9 +118,9 @@ Lo que solo nos deja…
 
 ### El Mal
 
-If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil,” passes the “coma test,” insofar as it is impossible for a man in a coma to rape someone.
+Si violar es definido como malo, entonces debe involucrar la *iniciación* de el uso de la fuerza, lo que claramente hace. También, la premisa; "violar es malo," pasa la "prueba del coma," en la medida que es imposible para un hombre en estado de coma violar a alguien.
 
-In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
+Además, si violar es malo, entonces *no* violar debe ser bueno -de este modo, dos hombres en un cuarto pueden ambos ser morales al mismo tiempo, simplemente por no violarse entre ellos.
 
 Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
 
