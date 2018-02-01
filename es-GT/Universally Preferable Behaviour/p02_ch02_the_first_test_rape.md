@@ -122,11 +122,11 @@ Si violar es definido como malo, entonces debe involucrar la *iniciación* de el
 
 Además, si violar es malo, entonces *no* violar debe ser bueno -de este modo, dos hombres en un cuarto pueden ambos ser morales al mismo tiempo, simplemente por no violarse entre ellos.
 
-Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
+Puesto que la evitabilidad es una de las claves diferenciadoras entre "desagradable" e "inmoral," y violar es un comportamiento claramente inevitable, la definición de "violar es malo" también se ajusta a ésta distinción.
 
-Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
+También, dado que hay veces que es físicamente imposible violar a alguien -por ejemplo, cuando no se puede tener una erección -la definición de "violar es malo" soluciona el problema de la gente siendo involuntariamente inmoral, lo cual es por definición imposible, debido al criterio de la evitabilidad.
 
-The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+El violador puede justificar sus acciones evitando la premisa "violar es bueno," y en su lugar sustituirlo con otra premisa que apoye su deseo de violar, tal como: "Es moral tomar el propio placer, sin importar el descontento de los demás."
 
 This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
 
