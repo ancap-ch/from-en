@@ -50,11 +50,11 @@ Si yo digo que las AEP se pueden imponer a través de la violencia, entonces est
 
 Si proponemos una norma moral de que la iniciación de la violencia es moralmente buena, entonces ésta regla encara todas las imposibilidades lógicas como la norma que dice "violar es moralmente bueno."
 
-Dos hombres en un habitación no pueden ser ambos moralmente buenos al mismo tiempo, uno de ellos debe iniciar la violencia en contra del otro, y el otro debe resistir esa violencia -dado que si él no se resiste, no es violencia por definición, como en el caso del cirujano que discutimos anteriormente. Por lo tanto solo puede habilitarsela virtud al resistir la virtud, y dos hombres en la misma circunstancias no pueden ambos ser moralmente correctos al mismo tiempo, y asi sucesivamente- de los cuales todos son violaciones de UPB.
+Dos hombres en un habitación no pueden ser ambos moralmente buenos al mismo tiempo, uno de ellos debe iniciar la violencia en contra del otro, y el otro debe resistir esa violencia -dado que si él no se resiste, no es violencia por definición, como en el caso del cirujano que discutimos anteriormente. Por consiguiente la virtud solo puede habilitarse al resistir la virtud, y dos hombres en las mismas circunstancias no pueden ser moralmente correctos al mismo tiempo, y así sucesivamente -las cuales todas son violaciones de CUP.
 
-Por lo tanto sabemos que la violación no puede ser un APA.
+Por ello sabemos que la violación no puede ser un AEP.
 
-Podemos confirmar esto al revisar las razones de por qué "llegar a tiempo" *es* un APA.
+Podemos confirmar esto al revisar las razones del por qué "llegar a tiempo" *es* un AEP.
 
 En primer lugar, instintivamente entendemos que es más justo rechazar a un amigo por estar perpetuamente atrasado que el rechazar a un amigo por no gustarle el helado.
 
