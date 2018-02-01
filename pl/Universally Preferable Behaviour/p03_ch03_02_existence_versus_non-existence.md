@@ -87,7 +87,7 @@ The only way that social institutions can grow into violent monopolies is *to of
 
 In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
+It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. Jest to podobne do argumentu etatystycznego dotyczącego prywatnych monopoli - że obywatele powinni tworzyć monopol rządowy, ponieważ obawiają się prywatnych monopoli. It does not take keen vision to see through such nonsense.
 
 What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
 
