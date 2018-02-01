@@ -22,17 +22,17 @@ Los criminales privados existen, por supuesto, *pero casi no tienen impacto en n
 
 Por otro lado, me han quitado cientos de miles de dólares por la fuerza a través de la teoría moral de que "la tributación es buena". Me vi obligado a sentarme en los lúgubres y destructivos gulags mentales de las escuelas públicas durante catorce años, basados en la teoría moral de que "la educación estatal es una virtud".”[^12]
 
-El niño (y el hombre) que robó mi dinero sin duda lo usó para algún placer o necesidad personal. El gobierno que roba mi dinero, por otro lado, lo usa para oprimir a los pobres, financiar guerras, pagar a los ricos, pedir dinero prestado y empobrecer a mis hijos, y pagar los salarios de quienes me roban.
+El muchacho (y el hombre) que robó mi dinero sin duda lo usó para algún placer o necesidad personal. El gobierno que me roba el dinero, por otra parte, lo usa para oprimir a los pobres, para financiar guerras, para pagar a los ricos, para pedir dinero prestado y empobrecer a mis hijos - y para pagar los salarios de aquellos que me roban.
 
-Si yo fuera un médico en el medio de una gran ciudad abatida por una plaga terrible, y descubriera que esa plaga se estaba transmitiendo a través de las cañerías de agua, ¿cuál debería ser mi respuesta racional? Si afirmara realmente preocuparme por la salud de mis conciudadanos?
+Si yo fuera un médico en medio de una gran ciudad asolada por una terrible plaga, y descubriera que esa plaga estaba siendo transmitida a través de las cañerías de agua, ¿cuál sería mi respuesta racional - si dijera que realmente me importaba la salud de mis conciudadanos?
 
-Seguramente debería llorar desde los mismos tejados que su agua potable estaba causando la plaga. Seguramente debería tomar todas las medidas posibles para que la gente comprenda la verdadera fuente de la enfermedad que los afectó.
+Seguramente debería llorar desde los tejados, que su agua potable estaba causando la plaga. Seguramente debería tomar todas las medidas posibles para que la gente comprenda la verdadera fuente de la enfermedad que los golpeó.
 
-Seguramente, en el conocimiento de tal envenenamiento universal y prevenible, no debería perder el tiempo argumentando que el verdadero peligro que enfrentaba era la pequeña posibilidad de que algún individuo al azar decidiera envenenarlo en algún momento en el futuro.
+Seguramente, en el conocimiento de tal envenenamiento prevenible y universal, no debería perder mi tiempo argumentando que el verdadero peligro al que se enfrentaba era la minúscula posibilidad de que algún individuo al azar pudiera decidir envenenarlo en algún momento en el futuro.
 
-Por lo tanto, como filósofo preocupado por la violencia y la inmoralidad, ¿debería centrarme en los delincuentes privados o en los delincuentes públicos?
+Así pues, como filósofo preocupado por la violencia y la inmoralidad, ¿debería centrarme en los delincuentes privados o en los criminales públicos?
 
-Las violaciones que experimenté a manos de delincuentes privados se desvanecen a insignificancia en relación con incluso * un día * bajo la tierna misericordia de mis "maestros virtuosos y buenos"
+Las violaciones que experimenté a manos de los criminales privados se desvanecen a la insignificancia en relación con incluso *un día* bajo la tierna misericordia de mis "virtuosos y buenos amos"
 
 Si, entonces, los mayores peligros para la humanidad son falsas teorías éticas, entonces nuestra máxima prioridad debería ser el descubrimiento, la comunicación y el refinamiento de una teoría ética válida, racional, empírica y consistente. Si descubrimos que la mayoría de las víctimas de la peste están muriendo a causa del agua impura, entonces seguramente nuestra primera y más alta prioridad es diciéndoles que purifiquen el agua.
 
