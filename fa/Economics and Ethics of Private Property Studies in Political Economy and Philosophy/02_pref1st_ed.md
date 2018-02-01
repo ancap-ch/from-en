@@ -6,8 +6,8 @@
 
 در نوشتن مطالب از جهات مختلف به من کمک شده است. تشکر مخصوص از همسرم مارگارت که دوباره وظیفه تبدیل زبان انگلیسی به آلمانی را برای من به عهده گرفت و همچنین از راکول رییس موسسه لودویک فان مایسس و برتون اس. بلامرت رییس مرکز مطالعات آزادیخواهی بخاطر حمایت مداومشان از کارم؛ و تشکر از دوستم دیوید گوردن برای پیشنهادات فراوان و ارزشمندش.
 
-My largest debt is to Ludwig von Mises and Murray N. Rothbard, the twentieth century’s two greatest-though much neglected-economists and social philosophers. While I never met Ludwig von Mises, and indeed had not heard of his name until after his death, I am fortunate to have been closely associated with Murray Rothbard for the past six years, first in New York City, and since 1986 as colleagues at the University of Nevada, Las Vegas. Apart from the intellectual debt that I owe him, words cannot express my personal gratitude. His wisdom, insight, kindness, enthusiasm, and unflagging encouragement have been a continuous inspiration to me. It is, therefore, to him that this volume is dedicated.
+بیشترین دینم را به لودویگ فان مایسس و مورای روتبارد که دو نفر از برترین اقتصاددانان و فیلسوفان اجتماعی قرن بیستم که مورد غفلت واقع شده اند دارم. در حالیکه من هرگز لودویگ فان مایسس را ندیدم و تا بعد از مرگش اسم او را نشنیده بودم؛ واقعا خوش شانس بودم که در طول 6 سال گذشته با مورای روتبارد ارتباط نزدیک داشتم؛ ابتدا در نیویورک و سگس در سال 1986 به عنوان همکار در دانشگاه نوادا در شهر لس آنجلس. جدا از بدهی فکری که به او دارم، کلمات نمی توانند قدردانی شخصی مرا بازگو کنند. شور و شوق، مهرباین، بینش و تشویق بی پایانش، بطور مداوم برای من الهام بخش بوده است. به خاظر همین این نسخه به او اختصاص داده شده است.
 
-Hans-Hermann Hoppe
+هانس هرمن هوپ
 
-*Las Vegas, Nevada, 1993*
+*لاس وگاس نوادا 1993*
