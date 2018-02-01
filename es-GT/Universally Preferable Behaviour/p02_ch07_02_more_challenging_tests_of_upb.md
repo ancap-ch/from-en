@@ -1,10 +1,10 @@
-### "No comer pescado"
+### No comas pescado
 
-¿Cuál sería el estado de la proposición moral: "es malo comer pescado"?
+Cual sería el estado de la propuesta moral: "¿Es malo comer pescado?
 
-Claramente, esta proposición parece satisfacer al menos algunos de los requisitos de CUP – esta parece universal, independiente del tiempo y el lugar, y relativamente objetiva.
+Claramente esta propuesta parece satisfacer al menos algunos de los requisitos de UPG, parece ser universal, independiente del espacio y el tiempo, y relativamente objetiva.
 
-Sin embargo, parece difícil para nosotros llamar razonablemente a esto una teoría verdaderamente * moral * – ¿por qué?
+Aun así parece difícil para nosotros llamar a esto, de forma racional, una teoría *moral* – ¿Por qué?
 
 En primer lugar, el "mal" abarca las acciones que se pueden prevenir mediante el uso de la fuerza. La violación es "malvada", y si entonces puedo usar la fuerza para defenderme de alguien que intenta violarme.
 
