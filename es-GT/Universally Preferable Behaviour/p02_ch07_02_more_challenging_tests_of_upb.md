@@ -12,7 +12,7 @@ Podría disparar de forma justa a alguien que está comiendo un trozo de pescado
 
 Pareciera tonto discutir que puedo - Pero, ¿Por qué?
 
-Hay limites objetivos a la universalidad asociados a esta doctrina. Por ejemplo, algunas personas pueden no tener acceso a los peces – pueden vivir en un desierto, por ejemplo – mientras que otros viven cerca de un lago lleno de peces, y les resulta difícil o imposible sobrevivir sin comerlos. Sin embargo, eso no puede ser suficiente, dado que ya hemos aceptado el hecho de que la incapacidad de un eunuco para violar no invalida la proposición moral "es malo violar"
+Hay limites objetivos a la universalidad asociados a esta doctrina. Por ejemplo, algunas personas podrían no tener acceso a los peces - podrían vivir en un desierto - mientras que otros podrían vivir cerca de un lago que está lleno de peces, y les resultaría difícil o imposible sobrevivir sin comerlos. Sin embargo, eso no puede ser suficiente, dado que ya hemos aceptado el hecho de que la incapacidad de un eunuco para violar no invalida la proposición moral "es malo violar"
 
 Pero no, el "arenque rojo" en la proposición moral "Es malo comer pescado" es la palabra "*pescado*"
 
