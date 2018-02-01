@@ -56,7 +56,7 @@ If I run a nursing home, and disabled people rely on me to feed them, if I prove
 
 Thus it is assumed that parents will feed and take care of their newborn baby. If said parents decide against such care-giving, then they are obligated to give the child up to other people who *will* care for it, or face the charge of murder, just as the manager of a home for the disabled must either feed those who utterly depend on him, or give them up to someone who will. If I decide that I no longer want to take care of my dog, I must find him another home, not simply let him starve to death.
 
-This all relies on the principle of third-party self-defence, which is fully supported by the framework of UPB, since the right of self-defence is universal. If I see a man in a wheelchair being attacked by a woman, I have the right to defend him – and this is all the more true if he lacks the capacity to defend himself.
+This all relies on the principle of third-party self-defence, which is fully supported by the framework of UPB, since the right of self-defence is universal. Jeśli widzę mężczyznę na wózku inwalidzkim zaatakowanym przez kobietę, mam prawo go bronić - a to tym bardziej, że nie ma zdolności do obrony.
 
 Since children cannot feed themselves, earn a living or live independently, they are the moral equivalent of kidnap victims, or the wife we talked about before whose husband locked her in the basement. Children also lack the capacity for effective self-defence, due to their small stature and near-complete dependence upon their parents.
 
