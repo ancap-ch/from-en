@@ -1,6 +1,6 @@
 ## Escenario de Bote salvavidas
 
-El hecho de que CUP solo valide las teorías morales lógicamente consistentes no quiere decir que no puede concebir unas circunstancias bajo la cual tengamos que escoger actuar *en contra* de los dogmas de dicha teoría.
+El hecho de que CUP solo valide las teorías morales lógicamente consistentes no quiere decir que no se pueda concebir unas circunstancias bajo la cual tengamos que escoger actuar *en contra* de los dogmas de dicha teoría.
 
 Por ejemplo, si aceptamos la validez universal de los derechos de propiedad, romper una ventana y entrar al apartamento de alguien sin permiso sería una violación de sus derechos de propiedad. Sin embargo, si estuviésemos descolgando un asta fuera de una ventana de un apartamento, y estuviese a punto de matarnos, pocos de nosotros rechazaríamos patear la ventana y salvarnos por el bien de obedecer un principio abstracto.
 
