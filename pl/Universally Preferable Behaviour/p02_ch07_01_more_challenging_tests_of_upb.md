@@ -46,7 +46,7 @@ Thus when we point to situations of reduced responsibility, we are not *taking a
 
 If I voluntarily enter into a contract with you wherein I promise to pay your bills for a year, I have not signed myself into slavery, but I certainly have taken on a positive obligation that I am now responsible for.
 
-If I run a nursing home, and I take in patients who are unable to feed themselves, then if I do not feed those patients, I am responsible for their resulting deaths. No one is *forcing* me to take in these patients, but once I have expressed a desire and a willingness to take care of them, then I am responsible for their continued well-being.
+Jeśli prowadzę dom opieki i przyjmuję pacjentów, którzy nie są w stanie się wyżywić, to jeśli ich nie karmię to odpowiadam za ich śmierć. No one is *forcing* me to take in these patients, but once I have expressed a desire and a willingness to take care of them, then I am responsible for their continued well-being.
 
 In the same way, if I borrow your lawnmower, I am obligated to bring it back in more or less the same state that it was when I borrowed it. Similarly, if I go to a pet store and buy a dog, I have taken on a voluntary obligation to take care of that dog. This does not mean that I am now the dog’s slave until the day it dies, but it does mean that as long as the dog is in my possession, I have a responsibility to try to keep it healthy.
 
