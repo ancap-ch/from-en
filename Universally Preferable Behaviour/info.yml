@@ -6,7 +6,38 @@
 
 
 content_files: 
-  - ["content.md", "https://github.com/ancap-ch/from-en/blob/utopian/en/template/content.md"]
+  - ["p00_ch01_foreword.md", ""]
+  - ["p00_ch02_intro.md", ""]
+  - ["p01.md", ""]
+  - ["p01_ch01_a_framework.md", ""]
+  - ["p01_ch02_internal.md", ""]
+  - ["p01_ch03_ethics.md", ""]
+  - ["p01_ch04_pref.md", ""]
+  - ["p01_ch05_01_univ.md", ""]
+  - ["p01_ch05_02_univ.md", ""]
+  - ["p01_ch06_upb.md", ""]
+  - ["p01_ch07_init.md", ""]
+  - ["p01_ch08_lifeboat.md", ""]
+  - ["p01_ch09_the_beast.md", ""]
+  - ["p02.md", ""]
+  - ["p02_ch01_ethical_categories.md", ""]
+  - ["p02_ch02_the_first_test_rape.md", ""]
+  - ["p02_ch03_the_second_test_murder.md", ""]
+  - ["p02_ch04_the_third_test_theft.md", ""]
+  - ["p02_ch05_the_forth_test_fraud.md", ""]
+  - ["p02_ch06_the_fifth_test_lying.md", ""]
+  - ["p02_ch07_01_more_challenging_tests_of_upb.md", ""]
+  - ["p02_ch07_02_more_challenging_tests_of_upb.md", ""]
+  - ["p03.md", ""]
+  - ["p03_ch01_the_value_of_universally_preferable_behaviour.md", ""]
+  - ["p03_ch02_the_null_zone_revisited.md", ""]
+  - ["p03_ch03_01_existence_versus_non-existence.md", ""]
+  - ["p03_ch03_02_existence_versus_non-existence.md", ""]
+  - ["p03_ch03_03_existence_versus_non-existence.md", ""]
+  - ["p03_ch04_additional_proofs.md", ""]
+  - ["p03_ch05_parallels.md", ""]
+  - ["p04.md", ""]
+  - ["p05_appendices.md", ""]
   # you can divide your files in smaller pieces, such as chapters or sections.
   # they will be added in order.
   
@@ -18,7 +49,7 @@ translation:
   # false means this text is original.
   # true means it's a translation of another text.
 
-  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/template" 
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/Universally Preferable Behaviour" 
   # This should be unique, and show information about the translation progress of every file.
   # Leave empty if this is an original text.
 
@@ -39,9 +70,9 @@ translation:
 # cover
 
 titles:  
-  - Title Text
-  - ~~Centered~~
-  - ~~~~~to the right
+  - Universally 
+  - Preferable~
+  - Behaviour~~
 # each title line, which is expanded to fill the whole line width.
 # Place some tilde (~) to space it.
 

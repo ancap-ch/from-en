@@ -6,7 +6,40 @@
 
 
 content_files: 
-  - ["content.md", "https://github.com/ancap-ch/from-en/blob/utopian/en/template/content.md"]
+  - ["01_pref2nd_ed.md", ""]
+  - ["02_pref1st_ed.md", ""]
+  - ["03_p01.md", ""]
+  - ["03_p01_ch01_01.md", ""]
+  - ["03_p01_ch01_02.md", ""]
+  - ["03_p01_ch01_03.md", ""]
+  - ["03_p01_ch02_01.md", ""]
+  - ["03_p01_ch02_02.md", ""]
+  - ["03_p01_ch02_03.md", ""]
+  - ["03_p01_ch02_04.md", ""]
+  - ["03_p01_ch02_05.md", ""]
+  - ["03_p01_ch03_01.md", ""]
+  - ["03_p01_ch03_02.md", ""]
+  - ["03_p01_ch03_03.md", ""]
+  - ["03_p01_ch03_04.md", ""]
+  - ["03_p01_ch03_05.md", ""]
+  - ["03_p01_ch04_01.md", ""]
+  - ["03_p01_ch04_02.md", ""]
+  - ["03_p01_ch05_01.md", ""]
+  - ["03_p01_ch05_02.md", ""]
+  - ["03_p01_ch05_03.md", ""]
+  - ["03_p01_ch05_04.md", ""]
+  - ["03_p01_ch06_01.md", ""]
+  - ["03_p01_ch06_02.md", ""]
+  - ["03_p01_ch06_03.md", ""]
+  - ["03_p01_ch07_01.md", ""]
+  - ["03_p01_ch07_02.md", ""]
+  - ["03_p01_ch07_03.md", ""]
+  - ["03_p01_ch07_04.md", ""]
+  - ["03_p01_ch07_05.md", ""]
+  - ["03_p01_ch07_06.md", ""]
+  - ["03_p01_ch08.md", ""]
+  - ["03_p02.md", ""]
+  - ["03_p02_ch13.md", ""]
   # you can divide your files in smaller pieces, such as chapters or sections.
   # they will be added in order.
   
@@ -18,7 +51,7 @@ translation:
   # false means this text is original.
   # true means it's a translation of another text.
 
-  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/template" 
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/Economics and Ethics of Private Property Studies in Political Economy and Philosophy" 
   # This should be unique, and show information about the translation progress of every file.
   # Leave empty if this is an original text.
 
@@ -39,9 +72,12 @@ translation:
 # cover
 
 titles:  
-  - Title Text
-  - ~~Centered~~
-  - ~~~~~to the right
+  - Economics~~~~~~~
+  - and Ethics~~~~~~
+  - ~~~~~~~~~~of~~~~~~~~~~
+  - Private Property
+  - Studies in Political~~
+  - Economy and Philosophy
 # each title line, which is expanded to fill the whole line width.
 # Place some tilde (~) to space it.
 
