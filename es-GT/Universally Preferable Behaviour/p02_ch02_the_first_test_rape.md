@@ -92,13 +92,13 @@ Si yo digo que gustar de la banda Queen por encima de las otras bandas es un com
 
 Así, si la violación es considerada como una simple preferencia personal, entonces no puede ser aplicada lógicamente sobre nadie más. De nuevo, pensando en los dos hombres en una habitación, esto requeriría de que ambos hombres prefieran violarse entre ellos, pero se mantengan completamente incapaces de ejecutar esa decisión, lo cual no es solo ilógico, pero también afortunadamente completamente poco práctico.
 
-Por último, ya que las preferencias personales no pueden ser aplicadas a otros, pero la violación es por definición la aplicación de una "preferencia" a otro, las violaciones no pueden estar en la categoría moral de preferencias meramente personales.
+Finalmente, dado que las preferencias personales no pueden ser impuestas en otros, pero la violación es por definición la aplicación de una "preferencia" sobre otros, la violación no puede estar en la categoría moral de las meras preferencias personales.
 
 ### Moralmente Neutral
 
-Como se discutió arriba, una violación no puede ser una acción moralmente neutral ya que es una preferencia que es aplicada a otro.
+Como se discutió anteriormente, la violación no puede ser una acción moralmente neutral, dado que es un preferencia que se aplica sobre otros.
 
-### Personalmente Negativa
+### Personalmente Negativo
 
 Tal vez la violación es una acción *personalmente negativa*, lo contrario del número tres. Como un ejemplo, un criminal en fuga consideraría la captura una acción personalmente negativa (PNA).
 
