@@ -48,7 +48,7 @@ Aesthetically positive actions (APAs) are universally preferable, but not enforc
 
 If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+Jeśli proponujemy moralną zasadę, że inicjacja przemocy jest moralnie dobra, wówczas ta reguła napotyka wszystkie te same logiczne niemożności, jak zasada, że "gwałt jest moralnie dobry."
 
 Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
 
