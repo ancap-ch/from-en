@@ -14,7 +14,7 @@ If I ask you to meet me on the tennis court, and show up with a hunting rifle, w
 
 Historically, those engaged in ethical debating have often failed to maintain this basic reality.
 
-I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
+Nie mogę przedstawić pracy naukowej napisanej w moim własnym języku, twierdząc, że została ona sędziowana przez moją psychiczną rybkę i spodziewam się, że zostanie potraktowana poważnie. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
 
 The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
 
