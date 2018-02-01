@@ -34,9 +34,9 @@ Es así que podemos entender que la propuesta "comer *pescado* es malo" falla la
 
 ### Derechos de los animales
 
-No tenemos tiempo para entrar en una discusión completa sobre la cuestión de los derechos de los animales, pero al menos podemos tratar con la proposición moral: "es malo matar peces"
+No tenemos el tiempo para discutir sobre los derechos de los animales, pero al menos podemos tratar con la propuesta moral: "Es malo matar peces"
 
-Si es malo matar peces, entonces CUP dice que cualquiera o cualquier cosa que mate a los peces es malvada. Esto incluiría no solo a los pescadores, sino también a los tiburones – ya que si matar peces es malo, hemos ampliado nuestra definición de "actores" éticos para incluir la vida no humana.
+Si matar peces es malo, entonces la UPB dice que cualquiera o todo lo que mate peces es malo. Esto incluiría no solamente a los pescadores, sino a los tiburones también - ya que matar peces es malo, hemos expandido nuestra definición de "actores" éticos para incluir al tipo de vida no humana.
 
 Está claro que los tiburones no tienen la capacidad de evitar matar peces, ya que básicamente están comiendo máquinas con aletas.
 
