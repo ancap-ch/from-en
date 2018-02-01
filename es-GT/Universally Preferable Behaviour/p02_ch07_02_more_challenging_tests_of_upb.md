@@ -16,7 +16,7 @@ Hay limites objetivos a la universalidad asociados a esta doctrina. Por ejemplo,
 
 No, el punto central de la propuesta moral "es malo comer pescado" es la palabra "“*pescado“*"
 
-Un científico no puede decir válidamente que su teoría de la gravedad solo se aplica a las rocas rosadas. Como su teoría involucra la gravedad, debe aplicarse a *todas* las entidades que tienen masa.
+Un cientifico no podría decir validamente que su teoría de la gravedad sólo aplica a las piedras rosadas. Ya que su teoría involucra a la gravedad, debe aplicar a *todas* las entidades que tengan masa.
 
 De manera similar, en el ejemplo anterior, CUP acepta solo el * acto * de comer, y rechaza * lo que * se está come, ya que lo que se come no es una * acción *, sino más bien sobre lo que se está actuando.
 
