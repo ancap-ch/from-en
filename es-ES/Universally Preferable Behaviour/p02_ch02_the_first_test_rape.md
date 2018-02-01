@@ -128,7 +128,7 @@ Además, ya que hay veces que es físicamente imposible violar a alguien - por e
 
 El violador puede justificar sus acciones evitando la proposición "la violación es buena," y en cambio sustituyendo otra proposición que apoya su deseo de violar, como: "es moral tomar el placer propio, sin importar que a otros no les plazca."
 
-This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+Esta proposición también falla la prueba lógica más básica de UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
 
 If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
 
