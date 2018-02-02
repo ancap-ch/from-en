@@ -8,21 +8,21 @@ Antes de la ciencia, en el centro de todo sistema complejo yacía una conciencia
 
 Desafortunadamente, esta "conciencia virtuosa" era meramente una ilusión, por asi decirlo de una manera mas caritativa. Tales dioses nunca existieron - todo aquello *existió* por los predicamentos de los sacerdotes. Por lo tanto, lo que realmente yacía en el centro era la parcialidad de los individuos irracionales, los cuales no tenían idea de lo realmente enojados que estaban.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+Aun debemos palicar que esta misma iluminación a nuestras concepciones de la sociedad - pero es ahora *esencial* que lo hagamos.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+Consideramos esencial que, en el centro de la sociedad, coloquemos una entidad virtuosa llamada "el gobierno". En ausencia de esta entidad, consideramos axiomático que la sociedad volará hacia el caos y dejará de ser, así como nuestros antepasados consideraron que, en ausencia de dioses, el universo mismo volaría hacia el caos y dejaría de existir.
 
-However, “the government” no more exists than “god” exists.
+Como sea, "el gobierno" no existe más así como "Dios" lo hace.
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+Cuando hablamos de "dioses", realmente estamos hablando de "la opinion de los sacerdotes."
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+Cuando hablamos del "gobierno," nosotros *realmente* nos referimos a "la violencia de una pequeña minoría"
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+La idea de un "orden espontáneo," el cual está bien probado en los ámbitos de la física y la biología, resulta de un largo e inconcebible ámbito de la sociedad.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+Sin embargo, los "gobiernos" son son más necesarios para la organización y continuación de la sociedad asi como los "Dioses" no son requeridos para la continuidad del universo.
 
-In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+De hecho, justamente como la religión ha impedido el uso de la ciencia, los gobiernos han impedido el progreso de la sociedad. Así como las ilusiones de la *religión* causan muertes de miles de millones de personas a través de la historia, también lo hacen las ilusiones del *gobierno*.
 
 Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
 
