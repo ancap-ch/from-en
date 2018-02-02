@@ -104,11 +104,11 @@ Estamos familiarizados con el ejemplo de la Mafia, que amenaza a rivales potenci
 
 Cuando los filósofos exponen las falsedades necesarias para una explotación continua, sin embargo, idealmente no pretenden establecerse como competidores. Ellos no quieren *reemplazar* la Mafia, o la iglesia - ellos quieren eliminarla por completo.
 
-Una analogía mas moderna seria la relación entre el estado, cabilderos y contribuyentes. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+Una analogía mas moderna seria la relación entre el estado, cabilderos y contribuyentes. Los cabilderos atacarán ferozmente a otros cabilderos que compiten por los mismos dólares de impuestos. Sin embargo, imagina como *todos* los cabilderos se agruparían para atacar a cualquiera que proponga eliminar el estado como una institución.
 
-Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
+Los parásitos competirán agresivamente entre ellos por los recursos limitados del anfitrión, pero les conviene unirse para atacar cualquier cosa que amenace con eliminar al anfitrión en si.
 
-In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
+De esta manera, en cualquier sociedad donde el estado y la iglesia son nominalmente separados, cada entidad tiende a competir por seguidores. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
 
 However, the philosophers who oppose *all* intellectual error are the sworn enemies of all the parasites that feed off illusions. The “great truths” of physics eliminate the need for supernatural agents, and render miracles impossible. The explanatory power of science wholly outshines the religious fictions that masquerade as knowledge about the physical world.
 
