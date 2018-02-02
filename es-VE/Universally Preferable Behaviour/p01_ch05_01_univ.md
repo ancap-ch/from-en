@@ -54,20 +54,20 @@ Antes del surgimiento del método científico, la gente creía que la materia ob
 
 Como mencioné anteriormente, el método científico es esencialmente una metodología para separar las teorías precisas de las imprecisas al someterlas a dos pruebas fundamentales: la consistencia y la observación empírica – y al siempre someter la consistencia lógica a la observación empírica. Si propongo una teoría perfectamente lógica y consistente que dice que una roca flotará *hacia arriba* cuando la arrojo de un acantilado, cualquier prueba empírica demuestra que mi teoría es incorrecta, ya que la observación siempre triunfa sobre la hipótesis.
 
-Otro aspecto del método científico es la creencia de que, ya que la materia está compuesta por una combinación de átomos con propiedades comunes, estables y predecibles, el comportamiento de la materia también es común, estable y predecible. Así, los experimentos deben ser *reproducibles* en diferentes lugares y momentos. I cannot say that my “rock floating” theory is correct for just one particular rock, or on the day I first tested it, or at a single location. My theories must describe the behaviour of *matter*, which is universal, common, stable and predictable.
+Otro aspecto del método científico es la creencia de que, ya que la materia está compuesta por una combinación de átomos con propiedades comunes, estables y predecibles, el comportamiento de la materia también es común, estable y predecible. Así, los experimentos deben ser *reproducibles* en diferentes lugares y momentos. No puedo decir que mi teoría de la "roca flotante" es correcta solo para una roca particular, en el día en que la probé inicialmente, o en un solo lugar. Mis teorías deben describir el comportamiento de la *materia*, el cual es universal, común, estable y predecible.
 
-Finally, there is a generally accepted rule – sometimes called Occam’s Razor – which states that, of any two theories that have the same predictive power, the simpler of the two is preferable. Prior to the Copernican revolution, when Earth was considered the centre of the universe, the retrograde motion of Mars when Earth passed it in orbit around the sun caused enormous problems to the Ptolemaic system of astronomical calculations. “Circles within circles” multiplied enormously, which were all cleared away by simply placing the sun at the centre of the solar system and accepting the elliptical nature of planetary orbits.
+Finalmente, hay una regla generalmente aceptada – a veces llamada la Navaja de Occam – que establece que, de entre dos teorías que tienen el mismo poder predictivo, la más simple de las dos es preferible. Previo a la revolución copernicana, cuando la Tierra era considerada el centro de universo, el movimiento retrógrado de Marte cuando la Tierra pasaba a su lado en su órbita alrededor del Sol causó enormes problemas a los sistemas ptolemaicos de cálculos astronómicos. "Los círculos dentro de círculos" se multiplicaron enormemente, los cuales fueron despejados al simplemente poner el Sol en el centro del sistema solar y aceptando la naturaleza elíptica de las órbitas planetarias.
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+Así cualquier teoría científica válida debe ser (a) universal (b) lógica (c) empíricamente verificable (d) reproducible y (e) tan simple como sea posible.
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+La metodología para juzgar y probar una teoría *moral* es exactamente igual a la metodología para juzgar y probar cualquier otra teoría.
 
-#### Moral Rules: A Definition
+#### Reglas Morales: Una Definición
 
-The first question regarding moral rules is: *what* are they?
+La primera pregunta con respecto a las reglas morales es: ¿*qué* son?
 
-Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
+Dicho de manera simple, la *moral* es un conjunto de reglas alegando identificar de manera precisa y consistente los comportamientos humanos preferibles, tal como la *física* es un conjunto de reglas alegando identificar de manera precisa y consistente el comportamiento universal de la materia.
 
-The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+La segunda pregunta a realizarse es: ¿existe tal como como el "comportamiento universalmente preferible"? Si existe, podemos empezar a explorar lo que podría ser ese comportamiento. Si no, entonces nuestra revisión debe terminar aquí – tal como la revisión de la astronomía ptolemaica cesó después de volverse comúnmente aceptado que el Sol era de hecho el centro del sistema solar.
 
-[^6]: In physics, the question is: either universal physical rules are valid, or they are not.
+[^6]: En la física, la pregunta es: las reglas físicas universales son válidas, o no lo son.
