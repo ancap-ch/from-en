@@ -26,7 +26,7 @@ Por ello, el mismo acto de controlar mi cuerpo para producir el habla demanda la
 
 Ahora, si una posesión demoníaca fuese una ocurrencia válida, y la chica poseída por un demonio escupiese sobre un sacerdote, no llamaríamos a la *chica* grosera, al contrario sentiríamos lastima por ella por estar poseída por tan mal educado demonio. El que sea que tenga control sobre el cuerpo de la muchacha es culpable por los efectos de sus acciones -es por ello que no llamaríamos a un hombre que robo mientras se encontraba sonámbulo "malo," dado que no tenía control completo sobre su propio cuerpo (aunque lo podemos contener de otras formas). Esto es también la base para la defensa legal de "no culpable por demencia," por lo cual asumimos que un hombre que está demente no tiene un control completo sobre sus acciones.
 
-Así, rechazar la propiedad sobre el cuerpo es rechazar toda moralidad, que, como hemos visto anteriormente, es absolutamente imposible. Lógicamente, como la moralidad está definida como un subconjunto obligatorio de CUP, rechazar la moralidad es lo mismo que decir que es universalmente preferible creer que no existe tal cosa como preferencias universales.
+Por ello, rechazar la potestad sobre el cuerpo es rechazar toda moralidad, lo que, como vimos anteriormente, es absolutamente imposible. Lógicamente, dado que la moralidad es definida como un conjunto obligatorio de CUP, rechazar la moralidad es decir que es universalmente preferible creer que no existe tal cosa como las preferencias universales.
 
 Finalmente, utilizar la posesión del cuerpo de uno en la forma de discurso para rechazar la noción de que uno puede controlar su propio cuerpo, es una auto contradicción descarada.
 
