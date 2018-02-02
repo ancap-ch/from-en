@@ -32,15 +32,15 @@ Como Hume afirmó de manera célebre, es imposible derivar un "debe" de un "es".
 
 Similarmente, no existe tal cosa como una "mejor" dirección universal - todo depende del destino preferido. Si yo quiero manejar de Nueva York a San Francisco, yo "debo" manejar hacia el este. Si yo quiero manejar hacia el océano desde San Francisco, yo "debo" manejar hacia el oeste. Ninguno "este" u "oeste" pueden ser considerados universalmente "mejores."
 
-Es cierto que muy pocas personas *sí* manejan hacia el océano, pero eso no significa que sea universalmente cierto que nadie *debe* manejar hacia el océano. Los principios no son democráticos – o, si lo son, entonces enfrentamos nuevamente el problema del subjetivismo, y debemos lanzar por la ventana todo el concepto de la ética.
+Es verdad que muy poca gente *maneja* hacia el océano, pero eso no significa y que sea una verdad universal que nadie *debe* manejar hacia el océano. Los principios no son democráticos - o, si lo son, nosotros, una vez más, enfrentamos el problema del subjetivismo, y debemos lanzar por la ventana el concepto entero de ética.
 
-El "comportamiento" existe en una realidad objetiva, fuera de nuestras mentes – los conceptos "debe", "debería" y "preferencia," no existen fuera de nuestras mentes. Sin embargo, el hecho de que "debe" no existe dentro de la realidad objetiva no significa que "debe" sea completamente subjetivo. Ni el método científico ni los números en sí mismos existen dentro de la realidad, y aún así la ciencia y las matemáticas siguen siendo disciplinas objetivas.
+"El comportamiento" existe en una realidad objetiva, fuera de nuestras mentes - los conceptos "debe", "debería" y " preferencia", no existen fuera de ellas. Sin embargo, el hecho de que "debe" no existe dentro de una realidad objetiva no significa que "debe" es completamente subjetivo. Ni el método científico o los números mismos existen dentro de una realidad en sí mismos, y aún así la ciencia y las matemáticas siguen siendo disciplinas objetivas.
 
 ### Argumentos Contraproducentes
 
-Para empezar nuestra discusión de la ética, es esencial que entendamos la naturaleza de los *argumentos contraproducentes*.
+Con el fin de empezar nuestra discusión sobre la Ética, es esencial que entendamos la naturaleza de los *argumentos contraproducentes*.
 
-En economía, una teoría no puede ser válida si requiere que el precio suba y baje al mismo tiempo. En física, una teoría no puede ser válida si requiere que los gases se expandan y contraigan al mismo tiempo. En matemáticas, una teoría no puede ser válida si requiere que dos más dos sea igual a cinco, ya que "cinco" es solo otra forma de describir dos más tres, no dos más dos, y decir que dos más dos es igual a cinco es decir que cinco es igual a cuatro, lo cual es contradictorio.
+En la Economía, una teoría no puede ser válida si esta requiere que los precios suban y bajen al mismo tiempo. En física, una teoría no puede ser válida si requiere que los gases se expandan y contraigan al mismo tiempo. En matemáticas, una teoría no puede ser válida si requiere que dos más dos sea igual a cinco, ya que "cinco" es solo otra forma de describir dos más tres, no dos más dos, y decir que dos más dos es igual a cinco es decir que cinco es igual a cuatro, lo cual es contradictorio.
 
 En general, cualquier teoría que se contradice a sí misma en su enunciado no puede ser válida. No requiere refutación externa, ya que se refuta a sí misma. No necesitamos examinar cada rincón y grieta en el universo para determinar que un "círculo cuadrado" no existe. El concepto mismo es contradictorio, y así se refuta a sí mismo en su enunciado.
 
