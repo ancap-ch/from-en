@@ -90,7 +90,7 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 从生物学上来说，寄生对于许多生物来说是一个完全可行的生存策略。 在缺乏伦理规范的情况下，窃取其他生物的能量和资源是非常明智的。 通常来说，最持久、最稳定的寄生形式是*共生*，或互利共存。 因此栖息于我们肠道内的细菌帮助我们消化食物来帮助它们自己的生存。
 
-However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+然而，使我们不断枯竭的、不能维持我们生命的病毒不能被称为“互利”。如果我们思考我们漫长而严酷的灾难、饥饿、战争、疾病和贫穷的历史—将它与现代惊人的物质成就相对比—几千年来，很显然一种寄生形式统治着我们的思想和能力。 Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
 
 When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
 
