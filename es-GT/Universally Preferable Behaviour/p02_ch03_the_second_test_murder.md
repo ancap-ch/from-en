@@ -4,13 +4,13 @@ Empecemos a probar el marco de campo del CUP contra la moral de las proposicione
 
 Desde que hemos utilizado tiempo diseccionando la pregunta de la violación - y desde que muchos de los argumentos se pueden aplicar aquí- este análisis puede ser mucho más breve.
 
-Pero volvamos a nuestros dos conejillos de india sentados en un salón -llamemosles Bob y Doug.
+Pero volvamos a nuestros dos conejillos de india sentados en un salón - los llameremos Bob y Doug.
 
 Si el asesinato fuera originalmente bueno, entonces claramente *abstenerse* de asesinar es inmoral. Por lo tanto la única manera de que Bob y Doug tengan morales es en el instante en el que ellos se asesinen simultáneamente. Físicamente, esto es imposible por supuesto - si ellos dos se paran y se toman del cuello, ellos nunca sucumbirían al ahorcamiento exactamente al mismo momento. Si Bob muere primero, su estrangulamiento a Bob se perdería condenando a Doug así al estado de *inmoralidad* hasta el momento en que pueda encontrar a otra víctima. Por que Bob muere primero - y por esto no puede seguir intentando matar a Doug - La muerte de Bob lo vuelve más inmoral que el asesinato de Doug.
 
 Intuitivamente, reconocemos completamente la locura de la proposición moral de que el asesinato es bueno. Lógicamente, conocemos que la proposición es incorrecta porque si fuera cierta, seria imposible para dos hombres en una habitación ser morales al mismo tiempo. La moral, como la salud, no puede ser considera como algo "instantáneo", pero debe ser considerado como un proceso o algo continuo. El marco de campo del CUP confirma que Bob no puede ser "malvado" *mientras* que está estrangulando a Doug, y luego alcanzar el punto máximo de la virtud moral en el momento en el cual mata a Doug - y enseguida vuelve al estado de maldad. Las proposiciones morales deben ser universales e independientes del tiempo y el lugar. La proposición de que el asesinato es moral no cumple este requisito en todos los niveles, por lo que no es válida.
 
-Si asesinar fuera moralmente bueno, entonces tambien sería el caso de un hombre varado en una isla desierta sea moralmente malo por todo el tiempo en el que viva ahí, ya que no tendría víctimas a las cuales matar. Un hombre en coma también sería malvado, como lo sería un hombre dormido o un hombre en la mesa de operaciones. Un torturador sería un hombre malvado mientras continuara torturando, pero luego se convertiría en un buen hombre en el momento en que su víctima muriera por su mano.
+Si asesinar fuera moralmente bueno, entonces también sería el caso de un hombre varado en una isla desierta sea moralmente malo por todo el tiempo en el que viva ahí, ya que no tendría víctimas a las cuales matar. Un hombre en coma también sería malvado, como lo sería un hombre dormido o un hombre en la mesa de operaciones. Un torturador sería un hombre malvado mientras continuara torturando, pero luego se convertiría en un buen hombre en el momento en que su víctima muriera por su mano.
 
 Así podemos ver que la proposición de que "el asesinato es bueno" no es solo instintivamente extraño, sino también lógicamente imposible.
 
