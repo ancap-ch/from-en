@@ -58,7 +58,7 @@
 
 Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+这些“中间真理”是所有人中最危险的幻想，因为他们承认真相的*出现*，同时竟*攻击*真相。
 
 By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
 
