@@ -72,11 +72,11 @@ Dada la cuestión de la responsabilidad moral y la capacidad intelectual solo se
 
 ### La Propiedad como Universalidad
 
-Así CUP nos da opciones claras con respecto a los derechos de propiedad. No puede ser el caso en que algunos hombres tienen derechos de propiedad, mientras que otros hombres no. No puede ser el caso de que hombres en Washington tienen derechos de propiedad, mientras que mujeres en Baltimore no. No puede ser el caso de que hoy los hombres tienen derechos de propiedad, pero no mañana, y así sucesivamente.
+Así CUP nos da opciones claras con respecto a los derechos de propiedad. Puede no ser el caso de algunos hombres que tienen derecho de propiedad, mientras que otros hombres no lo tienen. No puede ser el caso que los hombres en Washington tengan derechos de propiedad, mientras que nos mujeres en Baltimore no los tengan. No puede ser el caso que los hombres tengan derechos de propiedad hoy, pero mañana no, y así sucesivamente.
 
-Tampoco puede ser el caso de que los hombre sólo tienen cincuenta por ciento de derechos de propiedad.
+Tampoco puede ser el caso que los hombres solo tengan un cincuenta por ciento de derechos de propiedad.
 
-Si yo argumento: "Los hombres sólo tienen cincuenta por ciento de derechos de propiedad", entonces estoy creando otra insufrible contradicción. Usted podría preguntarme qué mitad de mi oración *no* fue generada por mi. Si yo sólo tengo cincuenta por ciento de derechos de propiedad, entonces claramente sólo tengo cincuenta por ciento de control sobre mi cuerpo - si pongo por delante la oración anterior, entonces claramente sólo estoy en control sobre el cincuenta por ciento de esa oración, puesto que sólo tengo cincuenta por ciento de control sobre mi voz. Entonces, ¿quién es responsable del otro cincuenta por ciento de mi oración?
+Si yo argumento: "Los hombres solo tienen el cincuenta por ciento de derechos de propiedad," entonces creo otra insuperable contradicción. Usted podría preguntarme qué mitad de mi oración *no* fue generada por mi. Si yo sólo tengo cincuenta por ciento de derechos de propiedad, entonces claramente sólo tengo cincuenta por ciento de control sobre mi cuerpo - si pongo por delante la oración anterior, entonces claramente sólo estoy en control sobre el cincuenta por ciento de esa oración, puesto que sólo tengo cincuenta por ciento de control sobre mi voz. Entonces, ¿quién es responsable del otro cincuenta por ciento de mi oración?
 
 Esto puede sonar esotérico, pero es una pregunta bastante seria, debido a razones que dentro de poco llegaremos.
 
