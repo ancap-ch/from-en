@@ -2,7 +2,7 @@
 
 # Attribution-ShareAlike 4.0 International
 
-Creative Commons Corporation ("Creative Commons") ay hindi isang tanggapan sa batas at hindi nagpo-provide ng legal na serbisyo o legal na pangaral. Ang Distribusyon sa Malikhang Mga Karaniwan ng pampublikong mga lisensya ay hindi makakagawa ng isang abogado-kliyente o ibang relasyon. Ang Malikhaing Mga Karaniwan ay ang makakagawa sa mga lisensya nito at mga kaugnay nga mga impormasyon na magagamiti bilang "as-is" na batayan. Ang Malikhaing Mga Karaniwan ay magbibigay ng walang mga warantiya patungkol sa mga lisensya nito, at ang kahit anong mga materyal na naka-lisensya sa loob ng kanilang mga termino at kondisyon, o sa kahit anong kaugnay na impormasyon. Ang Malikhaing Mga Karaniwan ay itinatatwa ang lahat ng mga layabilidad para sa mga sira na dulot sa kanilang posibleng pinakalawak na paggamit.
+Creative Commons Corporation ("Creative Commons") ay hindi isang tanggapan sa batas at hindi nagpo-provide ng legal na serbisyo o legal na pangaral. Ang Distribusyon sa Malikhang Mga Karaniwan ng pampublikong mga lisensya ay hindi makakagawa ng isang abogado-kliyente o ibang relasyon. Ang Malikhaing Mga Karaniwan ay ang ginagawan ang mga lisensya nito at mga kaugnay nga mga impormasyon na magagamiti bilang "as-is" na batayan. Ang Malikhaing Mga Karaniwan ay magbibigay ng walang mga warantiya patungkol sa mga lisensya nito, at ang kahit anong mga materyal na naka-lisensya sa loob ng kanilang mga termino at kondisyon, o sa kahit anong kaugnay na impormasyon. Ang Malikhaing Mga Karaniwan ay itinatatwa ang lahat ng mga layabilidad para sa mga sira na dulot sa kanilang posibleng pinakalawak na paggamit.
 
 ### Ang mga Publikong Lisensya sa paggamit ng Malikhaing Mga Karaniwan
 
@@ -18,25 +18,25 @@ Sa pagsasanay sa Mga Lisensiyadong Karapatan (binigyang kahulugan sa ibaba). Ika
 
 ### Seksyo 1 – Mga Kahulugan.
 
-a. **Kinupkop na Materyal** ay nangangahulugan na ang materyal ay naayon sa Karapatang Makapaglathala at ng Similar na Mga Karapatan na pinanggagalingan mula o binase sa Lisensyadong Materyal at kung saan ang Lisensiyadong Materyal ay naisalin, nabago, naisaayos, iniba ang anyo, o kung hindi may ay namodipika sa paraan na nangangailangan ng permisyon sa ibaba ng Karapatang Makapaglathala at mga Similar na Karapatan na hawak ng mga Tagalisensiya. Para sa mga layunin nitong Publikong Lisensiya, kung saan ang Lisensiyadong Materyal ay isang gawa ng musika, performans, o pagrekord ng tunog, ang Kinupkop na Materyal ay palaging magagawa kung saan ang Lisensiyadong Materyal ay nakasync ayon sa naka-oras na relasyon sa paggalaw ng imahe.
+a. Ang **Nakupkop na Materyal** ay nangangahulugan na ang materyal ay naayon sa Karapatang Makapaglathala at ng Similar na Mga Karapatan na pinanggagalingan mula o binase sa Lisensyadong Materyal at kung saan ang Lisensiyadong Materyal ay naisalin, nabago, naisaayos, iniba ang anyo, o kung hindi may ay namodipika sa paraan na nangangailangan ng permisyon sa ibaba ng Karapatang Makapaglathala at mga Similar na Karapatan na hawak ng mga Tagalisensiya. Para sa mga layunin nitong Publikong Lisensiya, kung saan ang Lisensiyadong Materyal ay isang gawa ng musika, performans, o pagrekord ng tunog, ang Kinupkop na Materyal ay palaging magagawa kung saan ang Lisensiyadong Materyal ay nakasync ayon sa naka-oras na relasyon sa paggalaw ng imahe.
 
-b. **Adapter's License** means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
+b. Ang **Lisensiya ng Tagakupkop** ay nangangahulugan na Ikaw ay maglalagay ng Iyong Karapatang Makapaglathala at Mga Similar na Karapatan sa Iyong mga kontribusyon sa Kinupkop na Materyal ayon sa mga termino at mga kondisyon nitong Publikong Lisensiya.
 
-c. **BY-SA Compatible License** means a license listed at [creativecommons.org/compatiblelicenses](http://creativecommons.org/compatiblelicenses), approved by Creative Commons as essentially the equivalent of this Public License.
+c. Ang **BY-SA Magkabagay na Lisensiya** ay nangangahulugan na ang lisensiya na nailista sa [creativecommons.org/compatiblelicenses](http://creativecommons.org/compatiblelicenses), ay inapubrahan ng Malikhaing Mga Karaniwan bilang mga katumbas nitong Publikong Lisensiya.
 
-d. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+d. Ang **Karapatang Makapaglathala at Mga Similar na Karapatan** ay nangangahulugan na ang karapatang makapaglathala at/o ang mga similar na karapatan ay malapit na kaugnay sa karapatang makapaglathala kasama na ang, walang limitasyon, performans, pagbrodkast, pagrekord ng tunog, at mga Karapatan ng Sui Generis na Database, kahit walang kaukulan kung paano ang mga karapatan ay nabigyan ng palatandaan o nakategorya. Para sa layunin nitong Publikong Lisensiya, ang mga karapatan na natukoy sa Section 2(b)(1)-(2) ay hindi Karapatang Makapaglathala at Mga Similar na Karapatan.
 
-e. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+e. Ang **Mga Epektibong Teknolohikang Hakbang** ay nangangahulugan sa mga hakbang na, sa pagkakawala ng huwastong awtoridad, ay maaring hindi ma-sirkumbent sa ibaba ng mga batas na nagpapatupad ng mga obligasyon sa ibaba ng Article 11 ng WIPO Copyright Treaty na inangkop noon December 20, 1996, at/o similar na pag-internasyonal na mga kasunudan.
 
-f. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+f. Ang **Mga Eksepsyon at Limitasyon** ay nangangahulugan na ang pantay na paggamit, pantay na pangangalakal, at/o kahit anong ibang eksepsyon o limitasyon sa Karapatang Makapaglathala at Mga Similar na Karapatan na aplikado sa Iyong paggamit ng Lisensyadong Materyal.
 
-g. **License Elements** means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.
+g. Ang **Mga Lisensyadong Elemento** ay nangangahulugan na ang mga katangian ng lisensiya na inilista sa ngalan ng Publikong Lisensiya ng Malikhang Mga Karaniwan. Ang mga Lisensyadong Elemento nitong Publikong Lisensiya ay Atribusyon at ShareAlike.
 
-h. **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+h. Ang **Lisensiyadong Materyal** ay nangangahulugan na ang mga artistiko o literaryong gawa, database, o ibang materyal na kung saan inilagay ang Publikong Lisensiya ng Tagalisensiya.
 
-i. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+i. Ang **Mga Lisensiyadong Karapatan** ay nangangahulugan na ang mga karapatan na ibinigay sa Iyo na akma sa mga termino at konidsyon nitong Publikong Lisensiya, na limitado sa lahat ng Karapatang Makapaglathala at Similar na Mga Karapatan na mapapalagay sa Iyong paggamit ng Lisensiyadong Materyal at ang Tagalisensiya ay may awtoridad na maglisensiya.
 
-j. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
+j. Ang **Tagalisensiya** ay nangangahulugan ng (mga) indibiduwal o (mga) entitiya na nagpapakaloob ng mga karapatan sa loob nitong Publikong Lisensiya.
 
 k. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
 
