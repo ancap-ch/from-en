@@ -46,7 +46,7 @@ Entonces cuando hablo sobre preferencias universales, estoy hablando sobre lo qu
 
 De la misma manera, si un hombre quiere curarse una infección, él *debería* tomar antibióticos en vez de realizar la danza de la lluvia Azteca. La preferencia por tomar antibióticos en vez de realizar la danza de la lluvia es universal, ya que la danza no cura infecciones. Así, aunque siempre existe el loco ocasional que tratará de curarse a través de la danza, sigue siendo *universalmente preferible* que si un hombre desea curarse así mismo, él debe tomar antibióticos.
 
-En otras palabras, si usted quiere llegar a la cima de una montaña, sólo con desearlo no lo va a llevar a lograrlo. Si usted desea conocer los orígenes del universo, rezando nunca proveerá una respuesta. Las personas todavía desean, y rezan, pero esto no hace al desear y rezar sean más efectivos. Con eso en mente, permitámonos pasar a la pregunta sobre si una preferencia universal puede o no ser válida.
+En otras palabras, si usted quiere llegar a la cima de una montaña, sólo con desearlo no lo va a llevar a lograrlo. Si usted desea conocer los orígenes del universo, rezando nunca proveerá una respuesta. Las personas todavía desean, y rezan, pero esto no hace al desear y rezar sean más efectivos. Con ésto en mente, dejemos pasar la pregunta sobre si las preferencias universales pueden ser válidas.
 
 ### Argumentos Y Universalidad
 
