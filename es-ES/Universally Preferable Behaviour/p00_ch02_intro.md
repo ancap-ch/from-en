@@ -108,7 +108,7 @@ Una analogía mas moderna seria la relación entre el estado, cabilderos y contr
 
 Los parásitos competirán agresivamente entre ellos por los recursos limitados del anfitrión, pero les conviene unirse para atacar cualquier cosa que amenace con eliminar al anfitrión en si.
 
-De esta manera, en cualquier sociedad donde el estado y la iglesia son nominalmente separados, cada entidad tiende a competir por seguidores. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
+De esta manera, en cualquier sociedad donde el estado y la iglesia son nominalmente separados, cada entidad tiende a competir por seguidores. Donde la iglesia empieza a perder terreno, el estado reclutara agresivamente patriotas - resultando en un socialismo secular. Donde el estado empieza a perder terreno, la iglesia agresivamente reclutara adeptos - resultado en el fundamentalismo religioso, a menudo con tintes de libertarismo.
 
 However, the philosophers who oppose *all* intellectual error are the sworn enemies of all the parasites that feed off illusions. The “great truths” of physics eliminate the need for supernatural agents, and render miracles impossible. The explanatory power of science wholly outshines the religious fictions that masquerade as knowledge about the physical world.
 
