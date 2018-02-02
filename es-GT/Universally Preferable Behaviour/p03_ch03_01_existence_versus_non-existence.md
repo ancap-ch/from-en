@@ -30,17 +30,17 @@ Los mayores avances en la comprensión científica son las llamadas "teorías un
 
 CUP como estructura, sin embargo, no solo justifica nuestros instintos morales a nivel personal, filosófico y universal - sino que también tiene profundas y sorprendentes implicaciones para la sociedad humana.
 
-#### CUP en Acción
+#### CUP en acción
 
-La estructura CUP valida las proposiciones morales al exigir que sean internamente consistentes y universales en términos de tiempo, lugar e individuos.
+La estructura CUP valida las propuestas morales al demandar que ellas sean internamente consistentes, y universales en términos de tiempo, lugar e individuos.
 
-Si aceptamos CUP, también debemos aceptar el siguiente corolario:
+Si aceptamos CUP, entonces también debemos aceptar el siguiente corolario:
 
-- Las proposiciones morales son independientes del uniforme.
+- Las propuestas morales son independientes al uniforme.
 
-Esto significa que un hombre no puede cambiar su naturaleza moral junto con su vestimenta. El acto de cambiar el uniforme propio no altera la naturaleza fundamental de uno. Por lo tanto, las reglas morales opuestas no pueden ser válidas en función de la ropa que uno lleva puesta.
+Esto significa que un hombre no puede cambiar su naturaleza moral junto con sus ropas. El acto de cambiar el traje propio no altera la naturaleza fundamental de uno. Por ende, oponer las reglas morales no puede ser válido si es basado en las ropas que uno está usando.
 
-Los soldados, por supuesto, usan uniformes que son diferentes del ciudadano promedio. El ciudadano promedio tiene prohibido asesinar; los soldados, sin embargo, no solo están * autorizados * a asesinar, sino que * son elogiados moralmente * por matar.
+Soldados, por supuesto, usan trajes que son diferentes a los del ciudadano promedio. El ciudadano promedio tiene prohibido asesinar; los soldados, sin embargo, no solo están * autorizados * a asesinar, sino que * son elogiados moralmente * por matar.
 
 Tomemos otro ejemplo.
 
