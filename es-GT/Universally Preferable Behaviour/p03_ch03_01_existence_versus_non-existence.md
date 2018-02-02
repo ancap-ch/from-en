@@ -48,7 +48,7 @@ El robo es moralmente incorrecto, como ya lo hemos visto anteriormente. Es moral
 
 Lo que llamamos "el gobierno" es meramente otro ejemplo de esta *zona nula* donde arriba es abajo, negro es blanco, verdad es mentira y malo es bueno.
 
-La sociedad progresa exactamente en la medida en que la razón y la evidencia dan el gran salto de lo personal a lo universal, y destruyen cualquiera de las irracionales * zonas nulas * en el camino. La ciencia progresa exactamente a medida en que se rechaza la irracionalidad de Dios y los "absolutos" subjetivos. La medicina progresa exactamente a medida en que se rechaza la eficacia de la plegaria y el ritual vacío, y en cambio se basa en la razón y la evidencia. La filosofía también -y la sociedad humana en general- avanzará exactamente en la medida en que rechace la irracional "moralidad de círculo cuadrado" de las teorías éticas estatistas y religiosas.
+La sociedad progresa exactamente en la medida en que la razón y evidencia hagan el gran salto de lo personal a lo universal, y destruyan cualquier *zona nula* irracional en el camino. La ciencia progresa exactamente en la medida en que rechace la irracionalidad de dios y "absolutos" subjetivos. La medicina progresa en el grado en el que rechace la eficacia de una oración y un ritual vacío, y en cambio confíe en la razón y evidencia. La filosofía también - y la sociedad humana en general - avanzará exactamente en la medida en la que rechace la irracional "moralidad del circulo cuadrado" de las teorías éticas estatistas y religiosas.
 
 ### Gobierno
 
