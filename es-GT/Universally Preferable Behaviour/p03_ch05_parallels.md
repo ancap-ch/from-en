@@ -40,15 +40,15 @@ Podemos elegir creer en que el gobierno es necesario como una institución moral
 
 Supersticiones similares, por supuesto, han retrasado el progreso de la humanidad a través de la historia. El precursor más importante para el CUP, revela que el gobierno es lo que reveló la ciencia sobre la religión.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+Cuando la ciencia comienza a postular un universo que puede existir sin un Dios, toda clase de histérias empezaron a surgir diciendo que el fin del mudno se acercaba, esa sociedad pudo colapsar en una "anarquía," y la civilización pudo desatarse en una guerra de todos contra todos.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+Cada vez que un sistema justifica que el poder puede ser concebido siendo ejecutado *sin* ese poder, todos aquellos que se benefician de la manipulación de ese poder reclaman que sin ellos todo está perdido.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+Los sacerdotes hicieron eso en el comienzo de la revolución científica. Sin un Dios, la vida no tiene significado. Sin un Dios, el hombre no tiene una moral. Sin un Dios, nuestras almas no pueduen ser salvadas. Sin un Dios, el mundo descendrá en el caos y la maldad.
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Ninguna de aquellas afirmaciones fue cierta, por supuesto. De hecho, todo lo *contrario* resultó ser cierto. El fin de la religión como dominante de la visión del mundo dominante, pavimento el camino para la separación de la iglesia y del estado, el fin de la aristocracia, el surgimiento del mercado libre, el establecimiento de muchas libertades humanas en áreas significativas del mundo.
 
-The fall of God was the rise of mankind.
+La caída de Dios fue el ascenso para la humanidad.
 
 In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
 
