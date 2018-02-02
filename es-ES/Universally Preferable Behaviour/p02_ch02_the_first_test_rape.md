@@ -152,4 +152,4 @@ La estructura de UPB ha validado correctamente nuestra premisa moral de que la v
 
 [^3]: Toma en cuenta que no puedo proponer que las "preferencias personales *pueden* ser infligidas violentamente a otras personas, ya que eso es violación de los UPB, lo que establece que las reglas morales deben ser absolutas y universales - si no lo son, caen en territorio APA y no pueden ser infligidas a otros.
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]: Podemos evitar situaciones que aumenten la probabilidad de violación, pero no podemos evitar una violación en curso.
