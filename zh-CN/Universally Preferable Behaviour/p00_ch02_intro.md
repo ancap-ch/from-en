@@ -88,7 +88,7 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 ### "Middle Truths" And Exploitation
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+从生物学上来说，寄生对于许多生物来说是一个完全可行的生存策略。 在缺乏伦理规范的情况下，窃取其他生物的能量和资源是非常明智的。 通常来说，最持久、最稳定的寄生形式是*共生*，或互利共存。 Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
 
 However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
 
