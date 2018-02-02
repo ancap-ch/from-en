@@ -24,21 +24,21 @@ Sin embargo, los "gobiernos" son son más necesarios para la organización y con
 
 De hecho, justamente como la religión ha impedido el uso de la ciencia, los gobiernos han impedido el progreso de la sociedad. Así como las ilusiones de la *religión* causan muertes de miles de millones de personas a través de la historia, también lo hacen las ilusiones del *gobierno*.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+Así como las éticas falsas de la religión "justifica" todos las formas de abuso, corrupción y violencia, también lo hacen las falsas éticas de los gobiernos. Cuando decidimos vivir en una fantasía. inevitablemente escogemos la destrucción, en una forma o en otra.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+Cuando decidimos dirigir una sociedad segun a las mitologías morales religiosas, terminamos con las guerras, violencia, represión, abuso, corrupción y la hipocresía sin fondo alguno.
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+Cuando decidimos dirigir una sociedad de acuerdo a las mitologias morales *estadísticas*, los resultados no son diferentes.
 
-We can either choose virtue or compulsion.
+Podemos escoger entre la virtud o la compulsión.
 
-We cannot have both.
+No podemos elegir ambos.
 
-### Solutions
+### Soluciones
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Podemos elegir creer en que el gobierno es necesario como una institución moral. Podemos elegir creer que, sin un gobieron, la sociedad va a colapsar en la "anarquía", y que el mundo se va a desenvolver en una guerra de todos contra todos. Podemos elegir creer que sin un gobierno, no existirán carreteras, no habrá educación, no habrá cuidados médicos, no existirán las pensiones para los mayores de edad, no habrá librerías, ni protección de las propiedades etc.
 
-Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+Supersticiones similares, por supuesto, han retrasado el progreso de la humanidad a través de la historia. El precursor más importante para el CUP, revela que el gobierno es lo que reveló la ciencia sobre la religión.
 
 As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
 
