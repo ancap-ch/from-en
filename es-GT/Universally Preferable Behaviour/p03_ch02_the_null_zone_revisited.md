@@ -36,20 +36,20 @@ Podemos creer en cosas no comprobadas que resultan ser ciertas, alguien sin duda
 
 Si digo que dos más dos es igual a cinco, estoy cometiendo un error que se puede corregir con referencia a la lógica. Si digo que creo que existe un círculo cuadrado, entonces estoy haciendo una declaración explícitamente contradictoria que se refuta a sí misma. Si voy más lejos, sin embargo, y enfáticamente afirmo que "foo mas tury es igual a desty" - y me niego a definir cualquiera de mis términos - estoy haciendo una declaración a la cual lógica y evidencia *no pueden ser aplicadas*.
 
-### Next Stop: The "Alternative Universe"
+### Próxima parada: El "Universo Alternativo"
 
-In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
+En general, la forma en que las personas intentan "salvar" sus creencias antiempíricas y anti-lógicas es crear un "reino alternativo" o "universo alternativo" en el que sus declaraciones contradictorias pueden ser ciertas de alguna manera.
 
-If I say: “A square circle exists,” I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
+Si digo:"Existe un círculo cuadrado", estoy afirmando lo que es claramente imposible dentro de este universo. Por lo tanto, si deseo retener mi creencia, debo inventar algún otro universo, o reino "fuera" de este universo donde pueda existir un círculo cuadrado.
 
-If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
+Si invento un reino en el que la auto-contradicción es igual a la verdad, entonces puedo afirmar que los que dicen que un círculo cuadrado existe *no* no son fanáticos y perjudiciales, porque están eliminando posibilidades que *pueden* ser verdaderas[^1]
 
-With regards to this “null zone,” only two possibilities really exist. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
+Con respecto a esta "zona nula", sólo existen realmente dos posibilidades. Ya sea esta *zona nula</0/0> existe completamente independiente de nuestro universo, y nunca será mensurable, detectable o descubrible de ninguna manera, forma o formas, o, en algún momento, seremos capaces de detectar e interactuar con esta tierra mágica donde la auto-contradicción es igual a la verdad.</p> 
 
-If, at some point, it turns out that we *are* able to interact with this *null zone*, then we shall have direct sensual or rational evidence of its existence. In other words, it must “protrude” into our universe in some manner. However, the moment that it becomes detectable in our universe, it must have rational and empirical existence, like everything else we can detect. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
+Si, en algún momento, resulta que nosotros *somos* capaces de interactuar con esta *zona nula*, entonces tendremos evidencia sensual o racional directa de su existencia. En otras palabras, debe "sobresalir" en nuestro universo de alguna manera. Sin embargo, en el momento en que se hace detectable en nuestro universo, debe tener existencia racional y empírica, como todo lo demás que podamos detectar. Así pues, estas "protuberancias" del otro mundo en nuestro universo *no pueden crear la capacidad de nuestro universo para soportar la existencia de un círculo cuadrado*.
 
-We can thus be certain that if we *are* ever able to detect this other universe, the evidence we gather will in no way support the existence of self-contradictory statements. Square circles, gods and other self-contradictory concepts cannot hide there, any more than they can hide in the wet dreams of leprechauns.
+Por lo tanto, podemos estar seguros de que si*somos* capaces de detectar este otro universo, la evidencia que reunimos no apoyará en modo alguno la existencia de declaraciones auto-contradictorias. Los círculos cuadrados, los dioses y otros conceptos contradictorios no pueden esconderse allí, como tampoco pueden ocultarse en los sueños húmedos de los duendes.
 
-On the other hand, if it turns out that we are *never* able to detect this other universe, and it remains a completely theoretical entity, with no evidence or rationality to support it, then it is simply a conceptual bag in which it is “convenient” to place things that are obviously not true.
+Por otro lado, si resulta que *nunca* somos capaces de detectar este otro universo, y sigue siendo una entidad completamente teórica, sin evidencia o racionalidad que lo sustente, entonces es simplemente una bolsa conceptual en la que es "conveniente" colocar cosas que obviamente no son ciertas.
 
 [^1]: This inevitably ends up with comparisons to those who said that Einsteinian physics was impossible, that the world could not be round and so on. Uncertainty in *content* – i.e. theory – is somehow supposed to be equated with uncertainty in *methodology*, i.e. reason and evidence. The fact that a mathematical theorem can be disproved does not disprove the principles of mathematics, but rather confirms them.
