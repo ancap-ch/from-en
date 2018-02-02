@@ -1,4 +1,4 @@
-### Sentido práctico
+### Sentido Práctico
 
 Una vez que la violencia del gobierno es expuesta intelectualmente - y el supuesto “voluntarismo” de los ciudadanos es revelado como un fraude vil - el argumento siempre vuelve a que *necesitamos* que el gobierno nos brinde bienes públicos como protección, defensa regional, caminos, etc.
 
