@@ -36,9 +36,9 @@ W tym miejscu można całkiem słusznie podnieść zarzut, że jeśli człowiek 
 
 #### Capacity
 
-The concept of “avoidability” works in the positive as well as in the negative. If I have lost my genitals in some ghastly accident, am I moral for refraining from rape? Trudno byłoby twierdzić, że mogę być, skoro genitalny gwałt jest dla mnie niemożliwy. Similarly, we may call a man “generous” if he gives one hundred dollars to a beggar – however, we would doubtless revise our estimation if it turned out that he gave away his money while sleepwalking, and woefully regretted his action on waking.
+The concept of “avoidability” works in the positive as well as in the negative. If I have lost my genitals in some ghastly accident, am I moral for refraining from rape? Trudno byłoby twierdzić, że mogę być, skoro genitalny gwałt jest dla mnie niemożliwy. Podobnie możemy nazwać człowieka "wielkodusznym", jeśli daje on sto dolarów żebrakowi - jednakże bez wątpienia zrewidowalibyśmy nasze oszacowania, gdyby okazało się, że oddał on swoje pieniądze lunatykując i żałośnie żałował jego działania po przebudzeniu.
 
-Thus we can reasonably say that where choice is absent, or inapplicable, morality is also absent, or inapplicable. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
+Możemy więc rozsądnie powiedzieć, że tam, gdzie wybór jest nieobecny lub nie ma zastosowania, moralność jest również nieobecna lub nie ma zastosowania. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
 
 With that in mind, let us continue our examination of rape.
 
