@@ -34,8 +34,8 @@ Así pues, como filósofo preocupado por la violencia y la inmoralidad, ¿deber�
 
 Las violaciones que experimenté a manos de los criminales privados se desvanecen a la insignificancia en relación con incluso *un día* bajo la tierna misericordia de mis "virtuosos y buenos amos"
 
-Si, entonces, los mayores peligros para la humanidad son falsas teorías éticas, entonces nuestra máxima prioridad debería ser el descubrimiento, la comunicación y el refinamiento de una teoría ética válida, racional, empírica y consistente. Si descubrimos que la mayoría de las víctimas de la peste están muriendo a causa del agua impura, entonces seguramente nuestra primera y más alta prioridad es diciéndoles que purifiquen el agua.
+If, then, the greatest dangers to mankind are false ethical theories, then our highest prioritisation should be the discovery, communication and refinement of a valid, rational, empirical and consistent ethical theory. If we discover that most plague victims are dying from impure water, then surely telling them to purify their water should be our first and highest priority.
 
-Pasemos ahora a esta tarea.
+Let us now turn to that task.
 
-[^12]: O, más bien: la educación "* forzada * es una virtud" - mis padres se vieron obligados a pagar a través de impuestos, y me vi obligado a asistir.
+[^12]: Or, rather: “*forced* education is a virtue” – my parents were compelled to pay through taxes, and I was compelled to attend.
