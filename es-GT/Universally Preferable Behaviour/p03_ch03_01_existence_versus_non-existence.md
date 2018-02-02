@@ -10,9 +10,9 @@ Por ende si yo digo, "dios existe" lo que realmente estoy diciendo es:
 
 En otras palabras, al decir "Dios existe", he creado una contradicción insuperable. He definido "existencia" como "inexistencia" lo que tiene tanto sentido como definir "vida" como "materia inanimada", o una piedra como "lo opuesto a una roca", o un "cuadrado" como un "circulo"
 
-De forma similar, si creo un universo alternativo donde "la no existencia es igual a la existencia" y "contradicción es igual a consistencia" y "verdad es igual a falsedad" e "irracionalidad es igual a racionalidad", entonces lo que realmente he hecho es crear un reino llamado "error", poner todo lo que no es verdad y definir este reino como un lugar donde "el error es igual a la verdad". [^2]
+De forma similar, si crease algún universo alterno donde "la inexistencia equivale a la existencia", "la contradicción equivale a la consistencia", "la verdad equivale a la mentira" y "la irracionalidad equivale a la racionalidad entonces lo que habré hecho es crear un dominio llamado "error", puesto todo lo que no es verdad en el, y definido este dominio como un lugar donde "el error equivale a la verdad."[^2]
 
-Por supuesto, las personas no crean este "universo alternativo" para invalidar la verdad dentro de nuestro propio universo, sino más bien para rescatar lo que es erróneo en la realidad y llamarlo verdadero. Por ejemplo, nadie que argumenta "Dios puede existir en otro universo, así que no se puede afirmar que Dios no exista" puede argumentar que "* Yo * puedo no existir en ese otro universo, por lo que no se puede afirmar que existo aquí "
+Por supuesto, las personas no crean este "universo alterno" para invalidar cualquier otra verdad dentro de nuestro propio universo, sino para rescatar todo aquello que es erróneo en la realidad, y llamarlo verdadero. Por ejemplo, nadie que argumenta "Dios puede existir en otro universo, así que no puedes afirmar que Dios no existe" puede argumentar que "puede que *yo* no exista en ese otro universo, así que no puedes afirmar que yo existo aquí."
 
 También tienden a no responder bien al argumento que: "En otro universo, puedes estar de acuerdo conmigo de que Dios no existe, entonces eso te convierte en ateo". [^3]
 
