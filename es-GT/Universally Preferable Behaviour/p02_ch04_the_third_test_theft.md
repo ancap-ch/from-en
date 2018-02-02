@@ -2,7 +2,7 @@
 
 Vamos a tener que pasar un poco más de tiempo en el robo, debido a que inevitablemente trae a colación la cuestión de los derechos de propiedad, lo cual es altamente conflictivo para algunos.
 
-Existen muchas maneras de aproximarse al asunto de los derechos de propiedad, desde "propiedad familiar" hasta definiciones legales de consideraciones prácticas, etc. No voy a mencionar ninguno de esos, porque la cuestión de los derechos de propiedad debe caer en un marco de CUP, donde CUP hace referencia a una metodología racional para evaluar proposiciones morales.
+Existen muchas maneras de aproximarse al asunto de los derechos de propiedad, desde "propiedad familiar" hasta definiciones legales de consideraciones prácticas, etc. No me dirigiré a ninguno de esos, porque la cuestión de los derechos de propiedad debe recaer en el marco de CUP, si CUP se mantiene como una metodología racional para evaluar las proposiciones morales.
 
 Claramente, la proposición moral con respecto a los derechos de propiedad es la siguiente: o los seres humanos tienen el derecho de poseer propiedades o no.
 
