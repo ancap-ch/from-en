@@ -60,7 +60,7 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 这些“中间真理”是所有人中最危险的幻想，因为他们承认真相的*出现*，同时竟*攻击*真相。
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+通过提供我们已经找到的真相的幻觉，实际上“中间真理”却阻止我们获得真相。它们是幻想、掠夺和剥削的最后一道防线。
 
 Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
 
