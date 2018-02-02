@@ -80,11 +80,11 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 正如一些寄生虫不能扎根，直到它们把已有的寄生虫驱逐，“中间真理”仅攻击先前的幻想*以便它们能取代先前幻想的地位*。 那些对先前幻想持怀疑态度的人，被新的幻想所吸引。 就这样，基督教取代了信奉异教，马克思主义取代基督教，后现代主义取代马克思主义，民主国家取代贵族统治的国家，等等。
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+直到获得伟大的真理，并将伟大的真理与小道理相结合，“中间真理”只是一个具有掠夺性、破坏性的谎言，正如一个可旋转的方阵—专门设计用来防止获知伟大的真理。
 
-And the great truths are always achieved from the little truths.
+伟大的真理总是从小道理中获得。
 
-The world falls because a rock falls.
+世界崩塌是因为岩石崩塌了。
 
 ### "Middle Truths" And Exploitation
 
