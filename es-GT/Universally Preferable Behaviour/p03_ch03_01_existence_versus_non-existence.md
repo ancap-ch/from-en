@@ -40,13 +40,13 @@ Si aceptamos CUP, entonces también debemos aceptar el siguiente corolario:
 
 Esto significa que un hombre no puede cambiar su naturaleza moral junto con sus ropas. El acto de cambiar el traje propio no altera la naturaleza fundamental de uno. Por ende, oponer las reglas morales no puede ser válido si es basado en las ropas que uno está usando.
 
-Soldados, por supuesto, usan trajes que son diferentes a los del ciudadano promedio. El ciudadano promedio tiene prohibido asesinar; los soldados, sin embargo, no solo están * autorizados * a asesinar, sino que * son elogiados moralmente * por matar.
+Soldados, por supuesto, usan trajes que son diferentes a los del ciudadano promedio. El ciudadano promedio tiene prohibido asesinar; soldados, por otra parte, no solo están *autorizados* para matar, sino que son moralmente *elogiados* por ello.
 
 Tomemos otro ejemplo.
 
-El robo es moralmente incorrecto, como hemos visto anteriormente. Es moralmente incorrecto para todas las personas en todas las situaciones en todo momento y bajo cualquier circunstancia. Dado que el robo es la eliminación forzosa de la propiedad de otra persona sin consentimiento, entonces la imposición es siempre, universal y para siempre, un mal moral. La tributación es, por definición, la remoción forzosa de la propiedad de alguien sin su consentimiento, ya que la tributación se basa en el inicio del uso de la fuerza para despojar a un hombre de su propiedad.
+El robo es moralmente incorrecto, como ya lo hemos visto anteriormente. Es moralmente incorrecto para todas las personas en todas las situaciones en todo momento y bajo todas las circunstancias. Ya que el robo es la remoción forzada de la propiedad de alguien más sin consentimiento, entonces la tributación es siempre, universal y para siempre un mal moral. La tributación es, por definición, la remoción forzosa de la propiedad privada de alguien sin su consentimiento, ya que la tributación confía en la iniciación del uso de la fuerza para despojar a un hombre de su propiedad.
 
-Lo que llamamos "el gobierno" no es más que otro ejemplo de esta * zona nula * donde arriba está abajo, el negro es blanco, la verdad es falsedad y el mal es bueno.
+Lo que llamamos "el gobierno" es meramente otro ejemplo de esta *zona nula* donde arriba es abajo, negro es blanco, verdad es mentira y malo es bueno.
 
 La sociedad progresa exactamente en la medida en que la razón y la evidencia dan el gran salto de lo personal a lo universal, y destruyen cualquiera de las irracionales * zonas nulas * en el camino. La ciencia progresa exactamente a medida en que se rechaza la irracionalidad de Dios y los "absolutos" subjetivos. La medicina progresa exactamente a medida en que se rechaza la eficacia de la plegaria y el ritual vacío, y en cambio se basa en la razón y la evidencia. La filosofía también -y la sociedad humana en general- avanzará exactamente en la medida en que rechace la irracional "moralidad de círculo cuadrado" de las teorías éticas estatistas y religiosas.
 
