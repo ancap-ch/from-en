@@ -50,21 +50,21 @@ Ninguna de aquellas afirmaciones fue cierta, por supuesto. De hecho, todo lo *co
 
 La caída de Dios fue el ascenso para la humanidad.
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+De la misma manra, cuando se comenzó a ver a la sociedad como los primeros científicos vieron al universo -como un sistema auto-sostenible sin la necesidad de una autoridad central imaginaria - entonces en verdad podemos empezar a percibir las posibilidades de la libertad para la humanidad.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+El establecimiento de un monopolio central y coercitivo en la sociedad retarda perpetuamente el progreso del conocimiento, de la sabiduría, de la virtud, de la salud física y mental, así como el establecimiento de un monopolio central y coercitivo en el * universo * perpetuamente retrasó el progreso del conocimiento, de la sabiduría y la ciencia.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+La forma de oponerse a las entidades imaginarias es con un verdad implacable. La manera de oponerse a Dios es con la razón, la evidencia y la ciencia.
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
+La manera de oponerse al estado - la más peligrosa entidad imaginaria - es con la razón, la evidencia y la ciencia.
 
-### The Future
+### El futuro
 
-Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Nos guste o no, el CUP aplica esto a todo lo que hacemos. Los seres humanos tienen una tendencia natural a la consistencia, desde que somos seres con una conciencia racional, que habitan en un consistente y racional universo. Por lo tanto, cualquier premisa que aceptemos en nuestras vidas tiende a obligar a un comportamiento cada vez más constante a lo largo de nuestras vidas, y también a lo largo de la "vida" de nuestra cultura o nación.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+Por lo tanto un hombre que cree que el bullying es una buena manera de obtener lo que el buscaba, tiende a hacerlo más y más a través de su vida. Un hombre qu cree que la violencia es buena, tiende a volverse cada vez más y más violenta.
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+En otras palabras, el CUP demanda consistencia incluso en la inconcistencia. El CUP demanda uniformidad incluso en la inmoralidad.
 
 The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
 
