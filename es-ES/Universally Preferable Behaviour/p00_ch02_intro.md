@@ -92,11 +92,11 @@ Biológicamente, el parasitismo es un estrategia totalmente válida de supervive
 
 Sin embargo, un virus que nos deja continuamente exhaustos y apenas capaces de mantenernos vivos, puede difícilmente denominarse "beneficio mutuo". Si pensamos en nuestra larga y sombría historia de desastres, hambre, guerra, enfermedades y pobreza - y la comparamos con los asombrosos éxitos materiales de la modernidad - está claro que una forma de parasitismo tiranizó nuestras mentes y capacidades por milenios. Ahora que los últimos cientos de años han mostrado el poder y la creatividad del espíritu humano, podemos ver nuestra especie como un organismo que se ha sacudido un terrible parásito y surgió desde un lecho de muerte sin fin para realizar las más asombrosas hazañas de la gimnasia.
 
-When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
+Cuando nos curamos de una enfermedad, nos sentimos mejor, pero no la enfermedad. Desde la perspectiva del virus de la viruela, la vacuna contra la viruela es genocida.
 
-In the same way, the parasites that strangle mankind view the liberty of the majority with horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+En el mismo sentido, los parásitos que estrangulan a la humanidad ven la libertad de la mayoría con horror. Ya que su parasitismo los libera de las demandas de la realidad - Para ganar el pan de cada día - ellos inevitablemente ven la libertad de las masas como una forma de esclavizarse a si mismos. Así, un granjero varia la "liberación" de su ganado como un desastre total…
 
-Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+Establecer la verdad necesariamente limita con la fantasia. Limitar la fantasia necesariamente limita con la explotación. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
 
 Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
 
