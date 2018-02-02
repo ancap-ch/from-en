@@ -40,9 +40,9 @@ Es verdad que muy poca gente *maneja* hacia el océano, pero eso no significa y 
 
 Con el fin de empezar nuestra discusión sobre la Ética, es esencial que entendamos la naturaleza de los *argumentos contraproducentes*.
 
-En la Economía, una teoría no puede ser válida si esta requiere que los precios suban y bajen al mismo tiempo. En física, una teoría no puede ser válida si requiere que los gases se expandan y contraigan al mismo tiempo. En matemáticas, una teoría no puede ser válida si requiere que dos más dos sea igual a cinco, ya que "cinco" es solo otra forma de describir dos más tres, no dos más dos, y decir que dos más dos es igual a cinco es decir que cinco es igual a cuatro, lo cual es contradictorio.
+En la Economía, una teoría no puede ser válida si esta requiere que los precios suban y bajen al mismo tiempo. En la Física, una teoría no puede ser válida si requiere que los gases se expandan y contraigan simultáneamente. En las Matemáticas, una teoría no puede ser válida si requiere que dos más dos sea igual a cinco, ya que "cinco" es solo otra manera de describir dos más tres, y no es dos más dos, y decir que dos más dos es igual a cinco es decir que cinco es igual a cuatro, lo cual es contradictorio en sí mismo.
 
-En general, cualquier teoría que se contradice a sí misma en su enunciado no puede ser válida. No requiere refutación externa, ya que se refuta a sí misma. No necesitamos examinar cada rincón y grieta en el universo para determinar que un "círculo cuadrado" no existe. El concepto mismo es contradictorio, y así se refuta a sí mismo en su enunciado.
+En general, cualquier teoría que se contradiga así misma en su propio enunciado no puede ser válida. No requiere refutación externa, ya que se refuta a sí misma. No necesitamos examinar cada rincón y grieta en el universo para determinar que un "círculo cuadrado" no existe. El concepto mismo es contradictorio, y así se refuta a sí mismo en su enunciado.
 
 Si yo te presento una demostración matemática compleja, y te das cuenta de que, al inicio, enuncio que mi demostración se basa en el hecho de que dos más dos es igual tanto a cuatro como a cinco al mismo tiempo, no necesitas leer más para saber que mi demostración es inválida.
 
