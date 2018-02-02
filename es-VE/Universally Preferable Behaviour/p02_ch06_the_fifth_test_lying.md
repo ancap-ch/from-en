@@ -20,13 +20,13 @@ O:
 
 **Bob:** Mentir siempre es bueno.
 
-**Doug:** ¿Estas mintiendo?
+**Doug:** Estás mintiendo?
 
 **Bob:** No.
 
-**Doug:** Por lo tanto mentir no siempre es bueno, dado que estas diciendo sobre que mentir es bueno.
+**Doug:** Por lo tanto mentir siempre no es bueno, ya que estás diciendo la verdad de que mentir es bueno.
 
-Mentir, sin embargo, no requiere la iniciación de una fuerza, así que no viola la posibilidad de *evitabilidad*. Dado que los mentirosos pueden ser evadidos, ellos no pueden lógicamente ser agredidos en contra.
+Mentir, sin embargo, no requiere la iniciación de una fuerza y no viola la posibilidad de *evitabilidad*. Puesto que los mentirosos pueden ser evitados, ellos no pueden lógicamente mentirte.
 
 Mentir también encaja más cercanamente in la categoría de *violencia*, en la medida que es moral mentir en defensa propia, así como es moral usar violencia en defensa propia, es difícil pensar en una situación donde uno tuviese que "estar tarde" en defensa propia, o "ser rudo". Sin embargo, si un hombre irrumpe en tu casa y exige saber dónde está tu amada esposa y así él pueda golpearla, parecería una parodia a la integridad rehusarse a mentirle. Mentir en este caso sería una forma de defensa propia contra una tercera persona, y es tan moralmente aceptable como el uso de violencia en defensa propia. Similarmente, si un hombre obtiene cien dolares de nosotros por mentir, nosotros podemos justamente mentirle para recuperarlos.
 
