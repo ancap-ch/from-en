@@ -1,12 +1,12 @@
-### Governments And Religion
+### Gobiernos y religión
 
-La idea de que nacer crea un contrato con una agencia ficticia, lo que en términos prácticos lo convierte a uno en casi un esclavo para algunos individuos, es un algo que tienen en común la religión y el Estado - y otra, una agencia mucho más personal, de la cual hablo en mi primer libro “Sobre la verdad: La tiranía de la Ilusión.”
+La idea de que nacer crea un contrato con una agencia ficticia, que en términos prácticos te convierte en un cuasi esclavo de individuos específicos, es común tanto en la religión como en el estado - y otra agencia mucho más personal, de la que hablo en mi primer libro "Sobre la verdad: la tiranía de la ilusión"
 
-Cada vez que un sacerdote dice “Obedece a Dios”, lo que en realidad está diciendo es: “Obedéceme*a mí*.” Al no existir Dios, cualquier mandamiento que el sacerdote diga que viene de parte de Dios, en realidad viene de su parte. “Dios” es meramente una entidad ficticia utilizada para atemorizarlo conceptualmente a fin de conseguir que sea un subordinado en el mundo real, con respecto a individuos reales, para que voluntariamente ceda su dinero, tiempo y recursos.
+Siempre que un sacerdote dice:"Obedece a Dios", lo que está diciendo es:"Obedece *me*." Puesto que Dios no existe, cualquier mandamiento que el sacerdote dice que viene de Dios, en realidad viene del sacerdote. Dios "es sólo la entidad ficticia utilizada para intimidarte conceptualmente con el fin de obtener tu muy práctica sumisión en el mundo real, a individuos reales, en términos de entregar voluntariamente dinero, tiempo y recursos.
 
-Es mucho más eficiente para los exploradores que sus esclavos consideren que la esclavitud es una virtud, ya que eso disminuye sustancialmente el costo de de mantenerlos bajo control. Si yo puedo convencerlo de que evitar servirme es algo malo y ser mi esclavo es algo virtuoso, entonces no necesitaré contratar tantos matones para que lo intimiden, lo controlen y le roben.
+Es mucho más eficaz para los explotadores hacer que sus esclavos consideren la esclavitud como una virtud, ya que reduce enormemente los costos de controlarlos. Si puedo convencerte de que es malo evitar servirme, y virtuoso ser mi esclavo, entonces no necesito contratar a tantos matones para intimidar, controlar y robarte.
 
-Las mitologías religiosas y estatales, entonces, son conceptos ficticios que reducen de manera significativa el costo de controlar a la población; son lo que alimentan y mantienen aceitados los engranajes de la espantosa maquinaria que es la violencia institucionalizada.
+Las mitologías religiosas y estatales, por lo tanto, son ficciones que reducen enormemente los costos de controlar las poblaciones; son el lubricante y el combustible para la espantosa maquinaria de la violencia institucionalizada.
 
 Alrededor del mundo, los gobernantes son un porcentaje muy pequeño de la población. Cómo puede ser posible para el uno dos por ciento de las personas lograr controlar a todos los demás? Hay un cierto monopolio de los armamentos, eso es seguro, pero ese monopolio es relativamente fácil de demostrar, ya que la mayoría de los gobernantes ganan fortunas vendiendo armar en todo el mundo.
 
