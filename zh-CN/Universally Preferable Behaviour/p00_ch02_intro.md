@@ -68,9 +68,9 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 我们可以用一个例子让这更个性化一点，这个例子对于曾被建议需要有一个不正常的朋友的任何人来说都很熟悉。 她说，“我上一个男友真是个混蛋，”你会很强烈地表示赞同。 她补充说到，“但是我的新男友真的很*好*，“你试着不去翻白眼。
 
-It is very hard not to replace one illusion with another.
+很难不用一个幻象替代另一个幻象。
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+在十八世纪，美国革命者哭喊着“英国政府实施暴政！”—在驱赶英国军队后，他们建立了自己的政府，开始攻击他们自己的公民。
 
 “Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
 
