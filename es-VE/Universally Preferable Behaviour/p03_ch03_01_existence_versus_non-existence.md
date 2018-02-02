@@ -80,15 +80,15 @@ Por ello, creer que asesinar es moralmente bueno no hace que el asesinato sea mo
 
 Las opiniones no cambian la realidad.
 
-Gracias a que las opiniones no cambian la realidad, no se le puede otorgar ninguna excepción o revocación con respecto a una regla moral universal. Como las reglas morales se basan en la lógica universal, así como en la naturaleza física y la realidad de un ser humano, no puedo otorgarle el "derecho al asesinato", como tampoco le puedo otorgar la capacidad de levitar, caminar sobre el agua o con precisión decir que dos y dos son cinco.
+Gracias a que las opiniones no cambian la realidad, no se le puede otorgar ninguna excepción o revocación con respecto a una regla moral universal. Ya que las reglas morales se basan en la lógica universal, así como en la naturaleza física y la realidad de un ser humano, no se le puede otorgar el "derecho de asesinar." como tampoco le puedo otorgar la capacidad de levitar, caminar sobre el agua o decir con precisión que dos mas dos es igual a cinco.
 
-### Gobierno como voluntarismo
+### El Gobierno Como Voluntarismo
 
-La fuerza abierta involucrada en la institución del gobierno -el envoltorio conceptual que revierte las reglas morales para un grupo particular de individuos- es algo que siempre se mantiene fuera de la mesa en los debates. Cuando se habla de gobierno, nunca se considera positivo señalar "la pistola en la habitación". Casi por definición, se considera que los gobiernos son elegidos por y para las personas y funcionan con su aprobación expresa o implícita.
+La fuerza abierta involucrada en la institución del gobierno - el envoltorio conceptual que revierte las reglas morales para un grupo particular de individuos - es algo que siempre se mantiene fuera de la mesa en los debates. Cuando se habla de gobierno, nunca se considera positivo señalar "la pistola en el cuarto". Casi por definición, se considera que los gobiernos son elegidos por y para las personas y funcionan con su aprobación expresa o implícita.
 
-Sin embargo, esto es una gran tontería.
+Sin embargo estas son puras tonterías.
 
-Si un hombre sostiene un cuchillo en la garganta de una mujer mientras tiene relaciones sexuales con ella, eso es, por definición, un acto de violación. El no puede decir que el sexo es consensual, mientras que al mismo tiempo la amenaza con lesiones o la muerte si se niega a tener relaciones sexuales con él. Si el sexo es voluntario, entonces el cuchillo es completamente innecesario. Si el hombre siente la necesidad de un cuchillo, entonces claramente el sexo * no * es voluntario.
+Si un hombre sostiene un cuchillo en el cuello de una mujer mientras tiene relaciones sexuales con ella, eso es por definición, un acto de violación. El no puede decir que el sexo es acordado, mientras que al mismo tiempo la amenaza con lesiones o muerte si se niega a tener relaciones sexuales con él. Si el sexo es voluntario, entonces el cuchillo es completamente innecesario. Si el hombre siente la necesidad de un cuchillo, entonces claramente el sexo * no * es voluntario.
 
 De esa misma forma, las personas dicen que los impuestos son parte del contrato social que voluntariamente han acordado.
 
