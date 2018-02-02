@@ -17,11 +17,11 @@ Spójrzmy na trzy działania, które pomogą nam dalej rozróżniać etykę od e
 
 ### Irrationality
 
-Powiedzmy, że ty i ja prowadzimy debatę na temat istnienia Boga. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Oczywiście, twoja odpowiedź na moje stanowisko jest irracjonalna. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Powiedzmy, że ty i ja prowadzimy debatę na temat istnienia Boga. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Oczywiście, twoja odpowiedź na moje stanowisko jest irracjonalna. Jednak denerwujące dla mnie może być twoje zachowanie, więc wydaje mi się rozsądne, bym uwolnił się od frustracji, wyciągając broń i strzelając do ciebie. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
 
 ### Lying
 
-Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
+Powiedzmy, że ty i ja ustalamy reguły debaty i obaj zgadzamy się osądzać kwestię istnienia Boga zgodnie z rozumem i dowodami. Jeśli, podczas debaty, powrócisz do pozycji ślepej wiary i odrzucisz moje argumenty *pomimo* ich racjonalności i dowodów, nie dotrzymasz słowa. In other words, you were lying when you said that the question would be decided by reason and evidence.
 
 The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. Jeśli, z drugiej strony, zgodzisz się spłacić pieniądze w ciągu roku, a potem nie uda ci się tego zrobić, to jest zupełnie inna sytuacja.
 
