@@ -1,75 +1,75 @@
-### UPB: Five Proofs
+### CUP: Cinco Pruebas
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+Como ya comentamos anteriormente, la proposición de que *no existe tal cosa como el comportamiento preferible* contiene un numero insuperable de problemas lógicos y empíricos. El "Comportamiento universalmente preferible" *debe* ser un concepto válido, por cinco razones principales.
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+La primera es lógica: si yo argumento *contra* la proposición de que el comportamiento universalmente preferible es válido, ya he demostrado mi preferencia por la verdad sobre la falsedad – así como una preferencia por corregir a aquellos que hablan falsamente. Decir que no hay tal cosa como un comportamiento universalmente preferible es como gritar en el oído de alguien que el sonido no existe – es naturalmente contradictorio. En otras palabras, si no hay *tal cosa* como el comportamiento universalmente preferible, entonces uno *debería* oponerse a cualquiera que alegue que existe tal cosa como el comportamiento universalmente preferible. Sin embargo, si uno "debería" hacer algo, entonces uno ha creado un comportamiento universalmente preferible. Así, el comportamiento universalmente preferible – o las reglas morales – debe ser válido.
 
-Syllogistically, this is:
+Silogísticamente, esto es:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1. La proposición es: el concepto de "comportamiento universalmente preferible" debe ser válido.
+2. Argumentar contra la validez del comportamiento universalmente preferible demuestra comportamiento universalmente preferible.
+3. De tal forma ningún argumento contra la validez del comportamiento universalmente preferible puede ser válido.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+Todos sabemos que hay preferencias subjetivas, como el gusto por el helado o el jazz, las cuales o son consideradas vinculantes para otras personas. Por otro lado, hay otras preferencias, como la violación y el asesinato, que claramente *son* infligidas a otros. También hay preferencias para la lógica, verdad y evidencia, las cuales también son vinculantes para otros (a pesar de que usualmente no son infligidas violentamente) en la medida en que todos aceptamos que una proposición ilógica debe ser falsa o inválida.
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+Esas preferencias que pueden ser consideradas vinculantes para otros pueden ser llamadas "preferencias universales," o "reglas morales."
 
-How else can we know that the concept of “moral rules” is valid?
+¿De qué otra forma podemos saber que el concepto de "reglas morales" es válido?
 
-We can examine the question biologically as well as syllogistically.
+Nosotros podemos examinar la cuestión biológicamente tanto como silogísticamente.
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+Por ejemplo, toda la materia está sujeta a las reglas físicas – y todo lo que vive está en adición sujeto a ciertos requerimientos, y así, si está vivo, debe haber seguido los comportamientos universalmente preferibles. La vida, por ejemplo, requiere combustible y oxígeno. Cualquier mente viviente, por supuesto, es una parte orgánica del mundo físico, y así está sujeta a las leyes físicas y debe haber seguido comportamientos preferibles – argumentar lo contrario requeriría pruebas de que la consciencia no está compuesta por materia, y no es orgánica – un imposible, ya que tiene masa, energía, y vida. Argumentar que la consciencia no está sujeta ni a las reglas de la física ni a comportamientos universalmente preferibles sería como argumentar que los seres humanos son inmunes a la gravedad, y que pueden florecer sin comer.
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+Por lo tanto es imposible que alguien pueda argumentar lógicamente contra el comportamiento universalmente preferible, ya que si está vivo para argumentar, él debe haber seguido comportamientos universalmente preferidos como respirar, comer y beber.
 
-Syllogistically, this is:
+Silogísticamente, esto es:
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+1. Todos los organismos requieren de comportamientos universalmente preferidos para vivir.
+2. El hombre es un organismo vivo.
+3. Por lo tanto todos los hombres vivos están vivos debido a la práctica de comportamientos universalmente preferidos.
+4. De tal manera cualquier argumento contra el comportamiento universalmente preferible requiere una aceptación y práctica de comportamientos universalmente preferidos.
+5. Por lo tanto ningún argumento contra la existencia del comportamiento universalmente preferible puede ser válido.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+Ya que el método científico requiere corroboración empírica, debemos también ver la realidad para confirmar nuestra hipótesis – y aquí la validez del comportamiento universalmente preferible es completamente apoyada.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Cualquier ser humano sano cree en las reglas morales de algún tipo. Existe cierto desacuerdo sobre que *constituye* las reglas morales, pero todos estamos seguros de que las reglas morales son válidas – tal como muchos científicos no están de acuerdo, pero todos los científicos aceptan la validez del método científico en sí mismo. Uno puede argumentar que la Tierra es redonda y no plana – lo cual es análogo a cambiar la definición de moralidad – pero nadie puede argumentar que la Tierra no existe en lo absoluto – lo cual sería como argumentar que no hay tal cosa como el comportamiento universalmente preferible.
 
-Or:
+O:
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+1. Para que una teoría científica sea válida, debe ser apoyada por observación empírica.
+2. Si el concepto de "comportamiento universalmente preferible" es válido, entonces la humanidad debería creer en el comportamiento universalmente preferible.
+3. Todos los hombres creen en el comportamiento universalmente preferible.
+4. Por lo tanto la evidencia empírica existe para apoyar la validez del comportamiento universalmente preferible – y la existencia de esa evidencia se *opone* a la proposición de que el comportamiento universalmente preferible no es válido.
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+El cuarto argumento para la validez del comportamiento universalmente preferible es también empírico. Puesto que los seres humanos tienen un número casi infinito de elecciones que hacer en su vida, decir que no hay principios de comportamiento universalmente preferible sería decir que todas las elecciones son iguales (es decir, subjetivas). Sin embargo, todas las opciones *no* son iguales, sea lógicamente o a través de la observación empírica.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+Por ejemplo, si la comida está disponible, casi todos los seres humanos prefieren comer todos los días. Cuando hace frío, casi todos los seres humanos buscan calor. Casi todos los padres escogen alimentar, dar refugio y educación a sus hijos. Hay muchos ejemplos de decisiones comunes en la humanidad, lo que indica que abunda el comportamiento universalmente preferible y que es parte de la naturaleza humana.
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+Como lo mencioné anteriormente, ninguna teoría de física válida puede repudiar el simple hecho de que los niños pueden atrapar batazos de aire – de la misma forma, ninguna teoría válida de ética puede rechazar la interminable evidencia para la aceptación del CUP.
 
-Or:
+O:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1. Las decisiones son casi infinitas.
+2. La mayoría de los seres humanos toma decisiones muy similares.
+3. Por lo tanto no todas las decisiones pueden ser iguales.
+4. Por lo tanto las decisiones universalmente preferibles deben ser válidas.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+El quinto argumento para la validez del comportamiento universalmente preferible es evolutivo.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+Ya que toda la vida orgánica requiere de comportamiento preferencial para sobrevivir, podemos asumir que aquellos organismos que tomas las decisiones más exitosas son los que más a menudo son seleccionados para la supervivencia.
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+Dado que el hombre es la especie más exitosa, y el órgano más distintivo del hombre es su cerebro, debe ser el *cerebro* humano el que lo ha ayudado más en tomar decisiones exitosas. La mente misma, entonces, ha sido seleccionada como exitosa por su propia habilidad de tomar decisiones exitosas. Dado que la mente humana existe solo como *resultado* de escoger comportamientos universalmente preferibles, el comportamiento universalmente preferible debe ser un concepto válido.
 
-Or:
+O:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+1. Los organismos tienen éxito al actuar en base al comportamiento universalmente preferible.
+2. El hombre es el organismo más exitoso.
+3. Por lo tanto el hombre debe haber actuado más exitosamente con base en el comportamiento universalmente preferible.
+4. El cerebro humano es el órgano más distinto del hombre.
+5. Por lo tanto, la mente humana debe haber actuado más exitosamente con base en el comportamiento universalmente preferible.
+6. Por lo tanto el comportamiento universalmente preferible debe ser válido.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+Podríamos incorporar muchos más argumentos para apoyar la existencia y validez del CUP, pero dejaremos terminar nuestro caso con lo anterior, y movernos a una examinación de la naturaleza del CUP.
 
 #### UPB: Optional And Objective
 
