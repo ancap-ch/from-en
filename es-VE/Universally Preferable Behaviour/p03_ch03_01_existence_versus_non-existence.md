@@ -26,19 +26,19 @@ La razón por la que hemos durado tanto tiempo lidiando con la teoría del "univ
 
 En nuestra experiencia personal, sabemos que el asesinato no esta bien. Al trabajar a través de la proposición de que el asesinato es moralmente incorrecto en los ejemplos anteriores, dudo mucho que alguien se sorprendiera al ver sus instintos morales confirmados a través del estricto razonamiento abstracto de la UPB. En esta sección esta oficialmente permitido que empieces a estar verdaderamente conmocionado.
 
-Los mayores avances en la comprensión científica son las llamadas "teorías unificadoras". Einstein pasó décadas tratando de elaborar una teoría de campo unificada; y las teorías de la física que unen fuerzas fuertes y débiles, el electromagnetismo, la gravedad, etc., siguen siendo difíciles de alcanzar.
+Los mayores avances en la comprensión científica son las llamadas "teorías unificadoras". Einstein dedico décadas a intentar elaborar una teoría de campo unificada; y las teorías de la física que unen fuerzas fuertes y débiles, el electromagnetismo, la gravedad, etc., siguen siendo difíciles de alcanzar.
 
-CUP es un estructura, sin embargo, no solo justifica nuestros instintos morales a niveles personales, filosóficos y universales, sino que también tiene profundas e impactantes implicaciones para la sociedad humana.
+UPB es una estructura, sin embargo, no solo justifica nuestros instintos morales a nivel personal, filosófico y universal- sino también tiene profundas e impactantes implicaciones en la sociedad humana.
 
-#### CUP en Acción
+#### UPB En Accion
 
-La estructura CUP valida las proposiciones morales al exigir que sean internamente consistentes y universales en términos de tiempo, lugar e individuos.
+La estructura UPB valida proposiciones morales exigiendo que sean internamente consistentes y universales en términos del tiempo, lugar e individuos.
 
-Si aceptamos CUP, también debemos aceptar el siguiente corolario:
+Si aceptamos la UPB, también debemos aceptar el siguiente corolario:
 
-- Las proposiciones morales son independientes del uniforme.
+- Las proposiciones morales son independientes del disfraz.
 
-Esto significa que un hombre no puede cambiar su naturaleza moral junto con su vestimenta. El acto de cambiar el uniforme propio no altera la naturaleza fundamental de uno. Por lo tanto, las reglas morales opuestas no pueden ser válidas en función de la ropa que uno lleva puesta.
+Esto significa que un hombre no puede cambiar su naturaleza moral y su vestimenta a la vez. El acto de cambiar el disfraz propio no altera nuestra naturaleza fundamental. Por lo tanto, las reglas morales opuestas no pueden ser validadas en función de la ropa que se lleva puesta.
 
 Los soldados, por supuesto, usan uniformes que son diferentes del ciudadano promedio. El ciudadano promedio tiene prohibido asesinar; los soldados, sin embargo, no solo están * autorizados * a asesinar, sino que * son elogiados moralmente * por matar.
 
