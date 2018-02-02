@@ -1,14 +1,14 @@
 ### Sentido Práctico
 
-Una vez que la violencia del gobierno es expuesta intelectualmente - y el supuesto “voluntarismo” de los ciudadanos es revelado como un fraude vil - el argumento siempre vuelve a que *necesitamos* que el gobierno nos brinde bienes públicos como protección, defensa regional, caminos, etc.
+Una vez que la violencia del gobierno se expone intelectualmente, y el supuesto "voluntarismo" de los ciudadanos se revela como un vicioso fraude, el argumento siempre vuelve a plantearse que *necesitamos* que el gobierno nos proporcione bienes públicos como la protección, la defensa regional, las carreteras, etcétera.
 
-He escrito docenas de artículos que exponen la falsedad de este puesto, por lo que no me molestaré en reiterar esos argumentos aquí, ya que no son esenciales para un libro sobre moralidad, sino que serían más apropiados para un libro que explica los principios y aspectos prácticos de una sociedad voluntaria. [^4]
+He escrito docenas de artículos que exponen la falsedad de esta posición, por lo que no me molestaré en reiterar estos argumentos aquí, ya que no son esenciales para un libro sobre moralidad, sino que serían más apropiados para un libro que explique los principios y los aspectos prácticos de una sociedad voluntaria.[^4]
 
-El “argumento por funcionalidad” no resuelve de ninguna manera el problema de la violencia. Si lo veo comiendo hamburguesas con queso todos los días, puedo decirle que eso no es funcional para usted hacerlo, si quiere mantener un peso saludable. No puedo asegurar que sea *malo* para usted comer hamburguesas con queso, por las razones antes mencionadas. No puedo simplemente obligarlo usando la fuerza para aumentar la “funcionalidad” de sus acciones.
+El "argumento de la funcionalidad" no resuelve en modo alguno el problema de la violencia. Si te veo comiendo hamburguesas con queso todos los días, puedo decirte que no es práctico que lo hagas, si quieres mantener un peso saludable. No puedo asegurar que sea *malo* para ti que comas hamburguesas con queso, por las razones que ya hemos mencionado. No puedo obligarte simplemente obligarte usando la fuerza para aumentar la "funcionalidad" de tus acciones.
 
-Por ende decir que el gobierno tiene justificación para forzarnos a ser más “funcionales” es completamente falso, lo cual es verificado por el marco de UPB - aún si suponemos que las soluciones del gobierno son más “funcionales”, las cuales en realidad no lo son.
+Por lo tanto, decir que el gobierno está justificado al obligarnos a ser más "prácticos" es completamente falso, lo cual es verificado por el marco del CUP, aunque asumimos que las soluciones gubernamentales son más "prácticas", lo que de hecho no son.
 
-Además, si representantes del gobierno afirman que un contrato social les permite forzar a una población “disfuncional” para que se comporte de manera más “”funcional”, se crea una contradicción inquebrantable.
+Además, si los representantes del gobierno afirman que un contrato social les permite forzar a una población "disfuncional" a comportarse más "funcional", se crea una contradicción inquebrantable.
 
 Si fuerzo a una a mujer para que se case con un hombre que yo elegí para ella, entonces claramente creo que se muchísimo mejor que ella qué hombre sería el indicado para ser su marido. De hecho, no creo que ella esté dispuesta a razonar en absoluto, o que tenga ni la más remota idea acerca de sus propios intereses, porque yo *no* tengo en cuenta sus preferencias, sino que la estoy obligando a casarse con un hombre que yo elegí.
 
