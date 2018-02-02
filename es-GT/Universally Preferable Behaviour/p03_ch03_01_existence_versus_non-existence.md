@@ -24,11 +24,11 @@ La verdadera realidad de la declaración "el error equivale a la verdad" es la l
 
 La razón por la que hemos gastado tanto tiempo lidiando con esta teoría del "universo alterno" es que tiene relevancia directa con la sociedad humana, y es usada para "justificar" los mayores males que se cometen entre nosotros.
 
-En nuestra experiencia personal, sabemos que el asesinato es algo incorrecto. Al trabajar a través de la propuesta de que el asesinato es moralmente incorrecto en todos los ejemplos anteriores, dudo muchísimo que alguien se sorprendiera al ver que sus instintos morales fueron confirmados con el razonamiento abstracto del CUP. En esta sección, sin embargo, oficialmente está permitido que empieces a estar verdaderamente conmocionado.
+En nuestra experiencia personal, sabemos que el asesinato es algo incorrecto. Al trabajar a través de la propuesta de que el asesinato es moralmente incorrecto en todos los ejemplos anteriores, dudo muchísimo que alguien se sorprendiera al ver que sus instintos morales fueron confirmados con el razonamiento abstracto del CUP. En esta sección, sin embargo, es oficialmente permisible que comiences a estar verdaderamente sorprendido.
 
-Los mayores avances en la comprensión científica son las llamadas "teorías unificadoras". Einstein pasó décadas tratando de elaborar una teoría de campo unificada; y las teorías de la física que unen fuerzas fuertes y débiles, el electromagnetismo, la gravedad, etc., siguen siendo difíciles de alcanzar.
+Los mayores avances en la comprensión científica son las llamadas "teorías unificadoras." Einstein pasó décadas tratando de elaborar un campo para la teoría unificadora; y teorías de la física que unen fuerzas fuertes y débiles, electromagnetismo, gravedad, y aun así siguen siendo elusivas.
 
-CUP es un estructura, sin embargo, no solo justifica nuestros instintos morales a niveles personales, filosóficos y universales, sino que también tiene profundas e impactantes implicaciones para la sociedad humana.
+CUP como estructura, sin embargo, no solo justifica nuestros instintos morales a nivel personal, filosófico y universal - sino que también tiene profundas y sorprendentes implicaciones para la sociedad humana.
 
 #### CUP en Acción
 
