@@ -6,15 +6,15 @@ Lo mismo sucede con la moralidad. De las pequeñas verdades de "no debo asesinar
 
 En el reino de la física, una barrera central a la extrapolación lógica de las verdades desde la experiencia personal hasta la teoría universal ha sido la religión.
 
-For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
+Por ejemplo, ningún hombre ha experimentado nunca directamente un círculo perfecto; tal entidad existe en lo abstracto y en las matemáticas, pero no puede ser visualizada en la mente, ni experimentada sensualmente en el mundo real. En ninguna parte de la naturaleza, a nuestro conocimiento, existe un círculo perfecto, ni en las "pequeñas verdades" de la experiencia personal, ni en las "grandes verdades" de la física.
 
-However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
+Sin embargo, durante miles de años, la ciencia de la astronomía quedó paralizada por la búsqueda de este "círculo perfecto". Las órbitas planetarias tenían que ser círculos perfectos, porque Dios nunca permitiría nada tan "imperfecto" como una elipse en su creación.
 
-The problem with this approach – well, one problem anyway – was the retrograde motion of Mars. From our planet, Mars at times appears to be moving “backwards,” as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
+El problema con este enfoque, bueno, un problema de todos modos, era el movimiento retrógrado de Marte. Desde nuestro planeta, Marte a veces parece estar moviéndose "hacia atrás", a medida que la Tierra "se adelanta" al alrededor del sol. La falsa creencia de que la Tierra era el centro del sistema solar, combinada con una manía por los círculos "perfectos", produjo el sistema Ptolemaico de astronomía, que multiplicó todos estos círculos perfectos hasta el punto de lo absurdo, para tener en cuenta las órbitas elípticas y el movimiento retrógrado de Marte.
 
-Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
+¿Por qué se consideraba esta ilusión de perfección un requisito para los cuerpos celestes? Ciertamente la evidencia de la luna, con su superficie picada y cráteres, parecería apoyar la imperfección de los cielos, pero las fijaciones religiosas pasaron por alto la evidencia sensual directa de imperfecciones tanto inmediatas como interplanetarias. Los descubrimientos de Galileo de montañas lunares, manchas solares y lunas de Júpiter fueron todos atacados como heréticos.
 
-We can also turn this analysis to the question of the existence of God as well.
+También podemos dirigir este análisis a la cuestión de la existencia de Dios.
 
 We have no direct, empirical or rational evidence for the existence of God. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
 
