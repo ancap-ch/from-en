@@ -1,28 +1,28 @@
-## The Forth Test: Fraud
+## La Cuarta Prueba: fraude
 
-Right at the edge of what is generally considered ethical sits the challenge of *fraud*.
+Justo al borde de lo que generalmente se considera ético se encuentra el desafío de * fraude *.
 
-Fraud is the obtaining of value through false representation. If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
+El fraude es la obtención de valor a través de la representación falsa. Si te digo que te enviaré un iPod si me das doscientos dólares, y luego tomo tu dinero sin enviarte el iPod, instintivamente entendemos que es una forma de robo.
 
-Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
+Vamos a poner el problema del fraude a través del molino de UPB, y ver si se mantiene.
 
-Clearly, fraud requires that one person *not* be engaged in fraud. In the above potential transaction, if I am hoping to steal your two hundred dollars, and you are hoping to steal my iPod, nothing will come of it. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
+Claramente, el fraude requiere que una persona * no * participe en un fraude. En la transacción potencial anterior, si estoy esperando robar tus doscientos dólares, y esperas robar mi iPod, nada saldrá de eso. Exigirás el iPod antes de proporcionar el pago, y exigiré el pago antes de proporcionar el iPod. Estaremos en un punto muerto, completamente incapaces de defraudarnos unos a otros.
 
-Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
+Claramente, para que ocurra un fraude, una de las partes debe actuar de buena fe. Por lo tanto, la persona que desea cometer fraude se basa en el hecho de que la otra persona * no * desea cometer un fraude, con el fin de aprovecharse de él.
 
-To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
+Para regresar a nuestros desventurados conejillos de indias morales, ¿qué pasaría si les pidiéramos a Bob y Doug que actuaran según el principio moral de que "el fraude es bueno"? Si Doug tiene veinte dólares, y Bob tiene un encendedor, y Doug le ofrece a Bob veinte dólares por ese encendedor, y luego toma el encendedor pero no le da a Bob los veinte dólares, entonces Doug ha estado actuando sobre la premisa de que el fraude es bueno.
 
-What happens then?
+¿Qué pasa entonces?
 
-Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
+Claramente, el principio de que "fraude es bueno" no puede ser actuado por Doug y Bob simultáneamente, ya que para cometer fraude, Doug debe actuar de manera deshonesta, y Bob debe actuar honestamente. Por lo tanto, para permitir la acción "moral" de Doug, Bob debe actuar "inmoralmente"
 
-UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
+UPB destruye esta posibilidad, ya que ninguna teoría moral válida puede requerir acciones opuestas bajo las mismas circunstancias.
 
-If Doug commits fraud on Bob with the justification that “it is good to lie to get what you want,” then clearly it must also be good to be honest as well, since it is impossible to get what you want by lying unless other people are willing to assume your honesty. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
+Si Doug le comete fraude a Bob con la justificación de que "es bueno mentir para obtener lo que quieres", entonces claramente también debe ser bueno ser honesto, ya que es imposible obtener lo que quieres mintiendo a menos que otras personas están dispuestos a asumir su honestidad. Por lo tanto, la premisa de que es bueno mentir para obtener lo que quieres no se puede lograr a menos que otras personas actúen con integridad, por lo tanto, la mentira y la honestidad se requieren simultáneamente para el cumplimiento del principio moral. Esto no puede sostenerse lógicamente, que tanto una acción * como su opuesto completo * son a la vez morales en el mismo lugar, para las mismas personas y, al mismo tiempo.
 
-This is how we know that fraud is wrong.
+Así es como sabemos que el fraude es incorrecto.
 
-Again, knowing that fraud is “wrong” simply means that we know that any moral theory that justifies fraud is invalid, because it is self-contradictory. If we build a bridge, and the bridge falls down, we know that the bridge was “wrong” – but the most important thing that we can learn from this disaster is not that the bridge fell down, but to understand the flaws in the theory that caused us to build a bridge that fell down. Similarly, moral theories that cause disasters, such as communism, fascism and Nazism, are important to evaluate relative to UPB not only so we can understand how they went so wrong, but also how to fix our moral theories in the future. Since as a species, we will be forever building bridges, it is essential that we get our facts and theories right, or they will endlessly fall down around us.
+Una vez más, saber que el fraude es "incorrecto" simplemente significa que sabemos que cualquier teoría moral que justifique el fraude no es válida, porque es autocontradictoria. Si construimos un puente y el puente se cae, sabemos que el puente estaba "mal", pero lo más importante que podemos aprender de este desastre no es que el puente se haya caído, sino que comprendamos los defectos de la teoría. eso nos hizo construir un puente que se cayó. Del mismo modo, las teorías morales que causan desastres, como el comunismo, el fascismo y el nazismo, son importantes para evaluar en relación con UPB no solo para que podamos entender cómo fueron tan mal, sino también cómo arreglar nuestras teorías morales en el futuro. Since as a species, we will be forever building bridges, it is essential that we get our facts and theories right, or they will endlessly fall down around us.
 
 However, the question remains whether fraud is evil, or just an aesthetically negative action (ANA).
 
