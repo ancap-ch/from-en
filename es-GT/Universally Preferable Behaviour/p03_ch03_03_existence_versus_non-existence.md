@@ -66,9 +66,9 @@ La proposición que se usa más a menudo para justificar el poder del gobierno e
 
 Si volvemos a Bob y Doug en nuestra pequeña sala de experimentación moral, podemos ver muy rápidamente que esto se convierte en una premisa imposible.
 
-Si Bob le dice a Doug: “Ahora represento el concepto ideal 'FUBAR’, que justifica totalmente que te quite tu chispero. Como ahora tú me debes tu chispero tienes que entregármelo, si no me veré obligado a quitártelo por la fuerza
+Si Bob le dice a Doug:"Ahora represento el concepto ideal de' FUBAR', que justifica plenamente que te quite tu encendedor. Ya que ahora me debes tu encendedor, debes entregarlo, o me veré obligado a quitártelo por la fuerza "
 
-Cuál será la reacción de Doug? Recuerde, según UPB, aquello que es válido para Bob también debe ser válido para Doug. Inevitablemente, Doug responderá: “Ah sí? Bueno *yo* ahora represento el concepto ideal 'ANTI-FUBAR’, que justifica totalmente que mantenga posesión de mi chispero. Puesto qur ahora no tienes ningún derecho a quitarme mi chispero, si tratas de hacerlo, me veré obligado a defenderme usando la fuerza”
+¿Cuál será la reacción de Doug? Recuerda, según CUP, lo que sea válido para Bob también debe ser válido para Doug. Inevitablemente, Doug responderá:"¿Ah, sí? Bueno *yo* ahora represento el concepto ideal "ANTI-FUBAR", que justifica plenamente que conserve la posesión de mi encendedor. Ya que ahora no tienes derecho a tomar mi encendedor, si tratas de tomarlo, me veré obligado a defenderme por la fuerza "
 
 Como puedes ver, si *Bob* tiene el derecho de inventar obligaciones imaginarias e imponerlas a Doug, *Doug* tiene el derecho de inventar obligaciones imaginarias e imponerlas a Bob. Claramente, inmediatamente terminamos en un perfecto punto muerto. Si es moralmente bueno imponer obligaciones inventadas a otras personas, pero es imposible hacerlo si *cada uno* posee esa habilidad, entonces la moralidad se vuelve imposible. La única manera en que Bob puede imponer su obligación inventada a Doug es si Doug se niega a imponer su obligación inventada a Bob, por lo tanto, tenemos una situación en la que lo que es moral para una persona sólo puede ser alcanzado por la otra persona que actúa de una manera contraria a la moral. Por lo tanto, la virtud sólo puede ser habilitada por el defecto, lo cual es imposible, y tenemos reglas morales opuestas para dos seres humanos en la misma circunstancia, que el CUP rechaza instantáneamente como inválida.
 
@@ -80,48 +80,48 @@ Lo mismo cuenta para la religión.
 
 La afirmación:"Debes obedecerme porque Dios lo ordena," debe ser reafirmada con más precisión como:"una entidad que he creado te ordena que me obedezcas". El principio que el CUP exige, pues, es:"El ser humano debe imponer a los demás obligaciones positivas que no han elegido y justificarlas según entidades imaginarias"
 
-Aquí vemos los mismos inconvenientes que más arriba. Bob le dice a Doug: “Debes darme tu chispero, porque mi amigo imaginario te dice que lo hagas”. Naturalmente, Doug le responde: “Tú no debes pedirme mi chispero porque *mi* amigo imaginario te lo prohíbe”. Si los “mandamientos” de Bob son válidos, entonces los “mandamientos” de Doug son igualmente válidos, y entonces pueden cancelarse entre sí.
+Aquí vemos los mismos problemas de arriba. Bob le dice a Doug:"Debes darme tu encendedor, porque mi amigo imaginario te lo dice." Naturalmente, Doug contesta:"No debes pedirme tu encendedor, porque *mi* amigo imaginario te lo prohíbe." Si los "mandamientos" de Bob son válidos, entonces los "mandamientos" de Doug son igualmente válidos, y así se cancelan entre sí.
 
-De la misma manera, si un hombre asegura que si su concepto llamado “el gobierno” justifica que robe mi propiedad, entonces yo puedo asegurar que mi concepto llamado “el anti-gobierno” justifica que yo *retenga* mi propiedad, y las justificaciones de ambos serán igualmente “válidas”.
+De la misma manera, si un hombre afirma que su concepto llamado "el gobierno" justifica que robó de mi propiedad, entonces puedo afirmar que mi concepto llamado "el antigobierno" justifica la *retención* de mi propiedad, y ambos somos igualmente "válidos" en nuestras justificaciones.
 
-Si este cobrador de impuestos entonces asegura que su concepto llamado “el gobierno” solamente justifica que pueda robar *mi* propiedad no mi derecho a mantenerla, entonces no podremos avanzar. Él puede tomar mis mil dólares, pero yo entonces puedo invocar mi concepto de “robar” ese dinero de vuelta, y su teoría moral demandará que pasemos el resto de la eternidad pasándonos esos mil dólares de mano en mano.
+Si este recaudador de impuestos entonces afirma que su concepto llamado "el gobierno" sólo justifica el robo de *mi* propiedad, no mi retención de la misma, entonces no podremos avanzar. Él puede tomar mis mil dólares, pero entonces puedo invocar mi concepto de "robar" ese dinero, y su teoría moral nos ordena que pasemos el resto de la eternidad entregando los mil dólares.
 
-#### UPB And "The Majority"
+#### CUP y "La Mayoría"
 
-UPB no permite que un grupo de individuos ignoren o refuten las propiedades de cada individuo. Diez leones no hacen un elefante, un gobierno, o un dios. Diez mil soldados pueden constituir un “ejército”, pero no pueden revertir la gravedad o hacer que el asesinato sea algo ético.
+CUP no permite la acumulación de individuos para anular o revertir las propiedades de cada individuo. Diez leones no hacen un elefante, un gobierno o un dios. Diez mil soldados podrían formar un "ejército", pero no pueden revertir la gravedad, o hacer que el asesinato sea moral.
 
-Regresando una última vez a Bob y a Doug, conozcamos a “Jane”
+Volviendo por última vez a la habitación de Bob y Doug, presentamos a "Jane"
 
-Ahora que hay tres personas en la habitación, podemos observar el principio “la mayoría manda”.
+Ahora que hay tres personas en la sala, podemos observar el principio de "regla de la mayoría".
 
-Si Bob, Doug y Jane “votan” si es algo ético o no violar a Jane, nos repugnará una premisa tan injusta e inmoral. Claramente, aún cuando el voto de Jane sea el de la minoría, no consideraríamos la violación resultantes como si fuera convertida en un acto moralmente bueno.
+Si Bob, Doug y Jane "votan" sobre si es moral o no violar a Jane, todos nos retractaríamos ante una premisa tan injusta e inmoral. Claramente, incluso si Jane fuera "expulsada", no consideraríamos que la violación resultante se transforme en un acto moralmente bueno.
 
-Por qué no?
+¿Por qué no?
 
-Bueno, UPB no reconoce la realidad de las adiciones, ya que la “mayoría” es una etiqueta meramente conceptual; no existe concretamente en la realidad, al igual que los “dioses” o los “gobiernos”. Por ende, el concepto de que “la mayoría” tiene alguna clase de imposición moral es totalmente inválido - es como decir que “la paternidad” puede embarazar a una mujer o que uno puede sentarse en la palabra “silla”
+Pues bien, CUP no reconoce la realidad de las adiciones, ya que la "mayoría" es una mera etiqueta conceptual; no existe en la realidad, al igual que los "dioses" o "gobiernos". Por lo tanto, afirmar que el concepto de "mayoría" tiene algún tipo de valor moral es completamente inválido - es como decir que "la Patria" puede embarazar a una mujer, o que uno puede sentarse en la palabra "silla"
 
-Decir que “la mayoría” tiene derechos o atributos que contradicen directamente los derechos o atributos de cualquier individuo también contradice principios racionales, ya que cualquier agrupación conceptual es validada solamente por la identificación certera de características individuales. Si digo que los “mamíferos” son seres vivos de sangre caliente, podría usando la lógica, incluir tres flamencos de plástico en la categoría “mamífero”?
+Decir que "la mayoría" tiene derechos o atributos que contradicen directamente los derechos o atributos de cualquier individuo también contradice los principios racionales, ya que cualquier agrupación conceptual sólo se valida por la identificación precisa de las características individuales. Si digo que los "mamíferos" son criaturas vivientes de sangre caliente, ¿puedo incluir lógicamente tres flamencos de plástico en la categoría "mamíferos"?
 
 Por supuesto que no.
 
-Entonces, si para los seres humanos la violación es algo malo, puedo crear a través de la lógica una categoría llamada “la mayoría” y anunciar que para *estos* seres humanos, la violación es ahora éticamente buena?
+Por lo tanto, si es malo que los seres humanos violen, ¿puedo lógicamente crear una categoría llamada "la mayoría" y luego afirmar que para *estos* seres humanos, la violación es moralmente buena?
 
-Of *course* not.
+*Claro* que no.
 
-### Majority Rule
+### Regla de la Mayoría
 
-Can I create a moral rule that says: “the majority should be able to do whatever it wants”?
+¿Puedo crear una regla moral que diga:"la mayoría debería ser capaz de hacer lo que quiera"?
 
-Of course I can, but it will never be valid or true.
+Por supuesto que puedo, pero nunca será válida o verdadera.
 
-Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
+Sólo los*individuos* actúan - la "mayoría" nunca lo hace. Si las reglas morales pueden cambiar cuando un cierto número de personas se reúnen, entonces CUP es continuamente violada.
 
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
+Si es moral que Bob y Doug violen a Jane porque la han "superado en votos", ¿qué sucede cuando los dos amigos de Jane se presentan y votan en contra de los deseos infernales de Bob y Doug?
 
-Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
+Bueno, de repente Bob y Doug son los que han sido expulsados, y la violación se convierte en "maldad" para ellos otra vez.
 
-Nothing substantial has changed in these “outvoting” scenarios, but we have a series of opposing moral rules for the same men – a violation of UPB, and thus invalid.
+Nada sustancial ha cambiado en estos escenarios de "superación de votos", pero tenemos una serie de reglas morales opuestas para los mismos hombres - una violación de CUP, y por lo tanto es inválida.
 
-Rape cannot be good, then evil, then good again, just because a few hands are raised or lowered.
+La violación no puede ser buena, luego mala, luego buena otra vez, sólo porque unas pocas manos son levantadas o bajadas.
 
-Thus if you think that “majority rule” sounds like a reasonable moral proposition, and a perfectly valid moral theory, then I am afraid you’re going to have to go back to the beginning of this book and start again!☺
+Por lo tanto, si piensas que la "regla de la mayoría" suena como una propuesta moral razonable, y una teoría moral perfectamente válida, entonces me temo que tendrás que volver al principio de este libro y comenzar de nuevo!☺
