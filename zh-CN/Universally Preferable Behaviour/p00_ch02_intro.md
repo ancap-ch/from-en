@@ -94,7 +94,7 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 当我们治愈自己的疾病时，我们会感觉更好，但是疾病并不这样认为。从天花病毒的角度来看，天花病毒种族灭绝了。
 
-同样，扼杀人类的寄生虫带着恐惧看待大多数人的自由。 Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+同样，扼杀人类的寄生虫带着恐惧看待大多数人的自由。 由于它们的寄生摆脱了现实需求—去获取日常食物—它们不可避免地把大众的自由视为奴役自己的一种形式。 Thus would a farmer view the “liberation” of his livestock as an utter disaster…
 
 Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
 
