@@ -64,21 +64,21 @@ La proposición que se usa más a menudo para justificar el poder del gobierno e
 
 *Los seres humanos pueden moralmente tomar dinero de otros seres humanos si forman una agencia conceptual que justifique sus acciones.*
 
-Si retornamos a Bob y a Doug en nuestra pequeña habitación de experimentación moral, podemos ver rápidamente que esto se convierte en una premisa imposible.
+Si volvemos a Bob y Doug en nuestra pequeña sala de experimentación moral, podemos ver muy rápidamente que esto se convierte en una premisa imposible.
 
 Si Bob le dice a Doug: “Ahora represento el concepto ideal 'FUBAR’, que justifica totalmente que te quite tu chispero. Como ahora tú me debes tu chispero tienes que entregármelo, si no me veré obligado a quitártelo por la fuerza
 
 Cuál será la reacción de Doug? Recuerde, según UPB, aquello que es válido para Bob también debe ser válido para Doug. Inevitablemente, Doug responderá: “Ah sí? Bueno *yo* ahora represento el concepto ideal 'ANTI-FUBAR’, que justifica totalmente que mantenga posesión de mi chispero. Puesto qur ahora no tienes ningún derecho a quitarme mi chispero, si tratas de hacerlo, me veré obligado a defenderme usando la fuerza”
 
-Como puede ver, si *Bob* tiene el derecho de inventar obligaciones imaginarias e imponérselas a Doug, entonces *Doug* tiene el derecho de inventar obligaciones imaginarias e imponérselas a Bob. Claramente, terminamos inmediatamente en lo que se dice, un callejón sin salida. Si éticamente es bueno imponer obligaciones inventadas a otras personas, pero eso es imposible de llevar a cabo si *todos* poseen esa habilidad, entonces con respecto a la moral, se convierte en un imposible. La única manera en la que Bob puede imponer a Doug su obligación ficticia es si Doug se rehúsa a imponer su obligación ficticia a Bob - por ende, tenemos una situación en la que aquello que es moral para puede ser conseguido solamente si la otra persona actúa contra la moral. La virtud entonces puede ser conseguida solamente a través de una bajeza, lo cual es imposible - y tenemos reglas morales opuestas para dos individuos en la misma circunstancia, cosa que UPB rechaza inmediatamente como inválido.
+Como puedes ver, si *Bob* tiene el derecho de inventar obligaciones imaginarias e imponerlas a Doug, *Doug* tiene el derecho de inventar obligaciones imaginarias e imponerlas a Bob. Claramente, inmediatamente terminamos en un perfecto punto muerto. Si es moralmente bueno imponer obligaciones inventadas a otras personas, pero es imposible hacerlo si *cada uno* posee esa habilidad, entonces la moralidad se vuelve imposible. La única manera en que Bob puede imponer su obligación inventada a Doug es si Doug se niega a imponer su obligación inventada a Bob, por lo tanto, tenemos una situación en la que lo que es moral para una persona sólo puede ser alcanzado por la otra persona que actúa de una manera contraria a la moral. Por lo tanto, la virtud sólo puede ser habilitada por el defecto, lo cual es imposible, y tenemos reglas morales opuestas para dos seres humanos en la misma circunstancia, que el CUP rechaza instantáneamente como inválida.
 
-En otras palabras, toda justificación abstracta para el uso de la fuerza puede ser refutada por otra justificación abstracta para el uso de la fuerza. Si tengo un amigo imaginario que puede justificar todo lo que hago, entonces *usted* también puede tener un amigo imaginario que justifica todo lo que usted hace. Por ende, ninguno de los dos puede tener la habilidad de imponerle reglas ficticias a los demás.
+En otras palabras, toda justificación abstracta imaginaria del uso de la fuerza puede ser contrarrestada por otra justificación abstracta imaginaria del uso de la fuerza. Si tengo un amigo imaginario que puede justificar todo lo que hago, entonces *you* también puede tener un amigo imaginario que puede justificar todo lo que haces. Por lo tanto, ninguno de nosotros puede poseer la habilidad de imponer nuestras reglas ficticias a otros.
 
-#### Religion And UPB
+#### Religión y CUP
 
 Lo mismo cuenta para la religión.
 
-La afirmación: “Usted debe obedecerme porque Dios así lo manda”, debe ser reformulada más apropiadamente como: “una entidad que he inventado yo le ordena a usted que me obedezca”. El principio que UPB requiere, entonces, es: “Los seres humanos deben imponer a otros obligaciones positivas que no han elegido, y justificar esas obligaciones según los criterios de una entidad ficticia”
+La afirmación:"Debes obedecerme porque Dios lo ordena," debe ser reafirmada con más precisión como:"una entidad que he creado te ordena que me obedezcas". El principio que el CUP exige, pues, es:"El ser humano debe imponer a los demás obligaciones positivas que no han elegido y justificarlas según entidades imaginarias"
 
 Aquí vemos los mismos inconvenientes que más arriba. Bob le dice a Doug: “Debes darme tu chispero, porque mi amigo imaginario te dice que lo hagas”. Naturalmente, Doug le responde: “Tú no debes pedirme mi chispero porque *mi* amigo imaginario te lo prohíbe”. Si los “mandamientos” de Bob son válidos, entonces los “mandamientos” de Doug son igualmente válidos, y entonces pueden cancelarse entre sí.
 
