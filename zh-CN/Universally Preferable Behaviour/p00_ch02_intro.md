@@ -62,7 +62,7 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 通过提供我们已经找到的真相的幻觉，实际上“中间真理”却阻止我们获得真相。它们是幻想、掠夺和剥削的最后一道防线。
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+因为它们不仅是非理性的，而且是*反*理性的，“中间真理”仍然是无限灵活的—只要它们为掌权者服务。 For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
 
 “Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
 
