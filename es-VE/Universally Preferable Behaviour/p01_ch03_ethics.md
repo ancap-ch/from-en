@@ -12,7 +12,7 @@ Si yo propongo una teoría científica que invalide completamente la habilidad d
 
 En otras palabras, los sentidos dan lugar a la lógica, por ende la lógica no puede contradecir la evidencia que dan los sentidos. La evidencia siempre triunfa sobre la explicación.
 
-De una manera similar, toda teoría ética válida debe ser capaz de explicar y justificar nuestra repulsión común hacia crímenes como el asesinato y la violación. No puede contradecir razonablemente las prohibiciones universales de la humanidad, pero puede incorporarlas con precisión y explicarlas.
+De manera similar, cualquier teoría ética válida debe estar dispuesta a explicar y justificar nuestra repulsión natural hacia crímenes tales como el asesinato y la violación. No puede contradecir razonablemente la prohibición universal de la humanidad, debe incorporarlas de manera precisa y explicarlas.
 
 Sin embargo, tal como la física Einsteiniana provee verdades sorprendentes – de hecho, habría sido de poco valor si esas verdades *no* fuesen sorprendentes – las teorías éticas proveen el mayor valor cuando también revelan verdades sorprendentes – impactantes, incluso. De hecho, las teorías éticas que no provean verdades sorprendentes serían una mera confirmación de las preferencias instintivas existentes, y por ello de poco valor.
 
