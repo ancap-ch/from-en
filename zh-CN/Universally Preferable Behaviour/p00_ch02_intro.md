@@ -96,7 +96,7 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 同样，扼杀人类的寄生虫带着恐惧看待大多数人的自由。 由于它们的寄生摆脱了现实需求—去获取日常食物—它们不可避免地把大众的自由视为奴役自己的一种形式。 因此，农民会把"解放"他的家畜视作一场灾难吗...
 
-建立真理必然会限制幻想。 限制幻想必然会限制剥削。 如果我能说服你，让你认为我是一个活生生的人神，生下我的神要你给我你收入的百分之十，不然你就会永远被惩罚，那么我会变得非常富有。 I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+建立真理必然会限制幻想。 限制幻想必然会限制剥削。 如果我能说服你，让你认为我是一个活生生的人神，生下我的神要你给我你收入的百分之十，不然你就会永远被惩罚，那么我会变得非常富有。 我是幻想的寄生物，依赖于这些幻想来维持我的营养，就像是真菌依靠温暖、潮湿—和黑暗。
 
 Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
 
