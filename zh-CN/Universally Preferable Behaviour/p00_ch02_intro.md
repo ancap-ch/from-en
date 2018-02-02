@@ -66,7 +66,7 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 “中间真理”总以真理的形式出现，并紧随着一个谎言。 “宙斯是一个异教徒”是一个真实的陈述，这是基督教徒公开地布道。 紧随其后的谎言是：“耶和华不是一个异教徒，而是一个真正的活生生的神。”
 
-我们可以用一个例子让这更个性化一点，这个例子对于曾被建议需要有一个不正常的朋友的任何人来说都很熟悉。 她说，“我上一个男友真是个混蛋，”你会很强烈地表示赞同。 她补充说到，“但是我的新男友真的很*好*，“你试着不去翻白眼。
+我们可以用一个例子让这更个性化一点，这个例子对于曾被建议需要有一个蹩脚的朋友的任何人来说都很熟悉。 她说，“我上一个男友真是个混蛋，”你会很强烈地表示赞同。 她补充说到，“但是我的新男友真的很*好*，“你试着不去翻白眼。
 
 很难不用一个幻象替代另一个幻象。
 
@@ -76,7 +76,7 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 “中间真理”也存在于科学中，类似地从小道理到大真理阻碍了自然的进化。 直到十八世纪，例如生物学家相信“自然发生说”，或是认为生命起源于无生命物质。 当然，这一点从未被观察过，但这符合哲学和宗教的古老文献，因此作为事实被接受。 另外，在1905年爱因斯坦革命之前，大家认为光是通过一个固定而无形的物质“以太”来移动的，正如音波是通过空气来移动的。 相信此理论的科学家没有实验证明，也没有亲身体会或是科学证据证明“以太”—它被认为有必要遵循其他应遵循的特征。
 
-Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+宗教也是另一个“中间真理”—是最危险的真理之一。 据我们所知，我们的确是宇宙中独一无二的物种。 A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
 
 Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
 
