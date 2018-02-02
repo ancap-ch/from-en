@@ -42,11 +42,11 @@ Con el fin de empezar nuestra discusión sobre la Ética, es esencial que entend
 
 En la Economía, una teoría no puede ser válida si esta requiere que los precios suban y bajen al mismo tiempo. En la Física, una teoría no puede ser válida si requiere que los gases se expandan y contraigan simultáneamente. En las Matemáticas, una teoría no puede ser válida si requiere que dos más dos sea igual a cinco, ya que "cinco" es solo otra manera de describir dos más tres, y no es dos más dos, y decir que dos más dos es igual a cinco es decir que cinco es igual a cuatro, lo cual es contradictorio en sí mismo.
 
-En general, cualquier teoría que se contradiga así misma en su propio enunciado no puede ser válida. No requiere refutación externa, ya que se refuta a sí misma. No necesitamos examinar cada rincón y grieta en el universo para determinar que un "círculo cuadrado" no existe. El concepto mismo es contradictorio, y así se refuta a sí mismo en su enunciado.
+En general, cualquier teoría que se contradiga así misma en su propio enunciado no puede ser válida. No requiere desaprobación externa, desde que ella misma se reprueba a sí misma. Nosotros no necesitamos examinar cada rincón del universo para determinar que un "círculo cuadrado" no existe. El concepto se contradice a sí mismo, y así se reprobará a sí mismo en su propio enunciado.
 
-Si yo te presento una demostración matemática compleja, y te das cuenta de que, al inicio, enuncio que mi demostración se basa en el hecho de que dos más dos es igual tanto a cuatro como a cinco al mismo tiempo, no necesitas leer más para saber que mi demostración es inválida.
+Si yo te presento una prueba matemática compleja, y tú te das cuenta de que en el mismo instante que inicio mi demostración establezco que mi prueba se basa en el hecho de que dos más dos son cuatro y cinco al mismo tiempo, tú no necesitas leer cualquier más para saber que mi prueba es inválida.
 
-De manera similar, como mencioné antes, si voy a ti y digo: "Yo no existo," mi tesis automáticamente se autodestruye. Si puedo comunicarte que no existo, entonces claramente existo.
+De manera similar, como ya mencioné antes, si vengo ante ti y digo: "Yo no existo," mi tesis automáticamente se destruye a sí misma. Si yo puedo comunicarte que no existo, entonces claramente existo.
 
 Si voy a ti y digo: "No hay tal cosa como la verdad," entonces estoy haciendo una declaración que considero verdadera alegando que la verdad no existe. De nuevo, mi argumento se autodestruye.
 
