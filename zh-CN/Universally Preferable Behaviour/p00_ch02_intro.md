@@ -78,7 +78,7 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 宗教也是另一个“中间真理”—是最危险的真理之一。 据我们所知，我们的确是宇宙中独一无二的物种。 长颈鹿是更高的四足动物，但是，人类不仅是“更聪明”的灵长目动物，而且是一种完全不同的动物。 这种差异的本质在很大程度上仍然是未知的—“我们不同于动物，是因为我们有灵魂，上帝创造了我们”的宗教解释是另一个“中间真理”的例子。我们的确与动物很不一样。 我们由上帝创造，我们有灵魂，那都不是真的。
 
-正如一些寄生虫不能扎根，直到它们把已有的寄生虫驱逐，“中间真理”仅攻击先前的幻想*以便它们能取代先前幻想的地位*。 那些对先前幻想持怀疑态度的人，被新的幻想所吸引。 Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+正如一些寄生虫不能扎根，直到它们把已有的寄生虫驱逐，“中间真理”仅攻击先前的幻想*以便它们能取代先前幻想的地位*。 那些对先前幻想持怀疑态度的人，被新的幻想所吸引。 就这样，基督教取代了信奉异教，马克思主义取代基督教，后现代主义取代马克思主义，民主国家取代贵族统治的国家，等等。
 
 Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
 
