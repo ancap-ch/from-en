@@ -4,9 +4,9 @@ Vamos a tener que pasar un poco más de tiempo en el robo, debido a que inevitab
 
 Existen muchas maneras de aproximarse al asunto de los derechos de propiedad, desde "propiedad familiar" hasta definiciones legales de consideraciones prácticas, etc. No me dirigiré a ninguno de esos, porque la cuestión de los derechos de propiedad debe recaer en el marco de CUP, si CUP se mantiene como una metodología racional para evaluar las proposiciones morales.
 
-Claramente, la proposición moral con respecto a los derechos de propiedad es la siguiente: o los seres humanos tienen el derecho de poseer propiedades o no.
+Claramente, la proposición moral con respecto a los derechos de propiedad es ésta: o los seres humanos tiene el derecho de poseer propiedades, o no la tienen.
 
-Ahora, la primera "propiedad" que se debe acotar es la del cuerpo. "Posesión" debe primeramente consistir en el control sobre el cuerpo de uno mismo, porque si ese control no existe, o si no es considerado válido, entonces toda la cuestión de la moral - sin mencionar propiedad - sale por la ventana.
+Ahora la primera "propiedad" con la cual debemos lidiar es el cuerpo. "Posesión" debe primeramente consistir en el control sobre el cuerpo de uno mismo, porque si ese control no existe, o si no es considerado válido, entonces toda la cuestión de la moral - sin mencionar propiedad - sale por la ventana.
 
 CUP es un marco para evaluar proposiciones morales, o argumentos sobre comportamiento preferido universalmente para toda la humanidad. Primero y principal, un hombre debe ser responsable de sus propias acciones si éstas serían moralmente juzgadas, como hemos discutido anteriormente, la capacidad de elegir acciones es fundamental para cualquier evaluación ética.
 
