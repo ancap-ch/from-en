@@ -90,11 +90,11 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 从生物学上来说，寄生对于许多生物来说是一个完全可行的生存策略。 在缺乏伦理规范的情况下，窃取其他生物的能量和资源是非常明智的。 通常来说，最持久、最稳定的寄生形式是*共生*，或互利共存。 因此栖息于我们肠道内的细菌帮助我们消化食物来帮助它们自己的生存。
 
-然而，使我们不断枯竭的、不能维持我们生命的病毒不能被称为“互利”。如果我们思考我们漫长而严酷的灾难、饥饿、战争、疾病和贫穷的历史—将它与现代惊人的物质成就相对比—几千年来，很显然一种寄生形式统治着我们的思想和能力。 Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+然而，使我们不断枯竭的、不能维持我们生命的病毒不能被称为“互利”。如果我们思考我们漫长而严酷的灾难、饥饿、战争、疾病和贫穷的历史—将它与现代惊人的物质成就相对比—几千年来，很显然一种寄生形式统治着我们的思想和能力。 在过去的几百年里，人类精神的力量和创造力已经显现出来，我们可以把我们的物种视作为一个摆脱了可怕的寄生虫的有机体，它来自于临终之时无尽的喘气，以表演最惊人的体操技艺。
 
-When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
+当我们治愈自己的疾病时，我们会感觉更好，但是疾病并不这样认为。从天花病毒的角度来看，天花病毒种族灭绝了。
 
-In the same way, the parasites that strangle mankind view the liberty of the majority with horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+同样，扼杀人类的寄生虫带着恐惧看待大多数人的自由。 Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
 
 Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
 
