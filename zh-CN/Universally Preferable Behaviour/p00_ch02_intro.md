@@ -76,7 +76,7 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 “中间真理”也存在于科学中，类似地从小道理到大真理阻碍了自然的进化。 直到十八世纪，例如生物学家相信“自然发生说”，或是认为生命起源于无生命物质。 当然，这一点从未被观察过，但这符合哲学和宗教的古老文献，因此作为事实被接受。 另外，在1905年爱因斯坦革命之前，大家认为光是通过一个固定而无形的物质“以太”来移动的，正如音波是通过空气来移动的。 相信此理论的科学家没有实验证明，也没有亲身体会或是科学证据证明“以太”—它被认为有必要遵循其他应遵循的特征。
 
-宗教也是另一个“中间真理”—是最危险的真理之一。 据我们所知，我们的确是宇宙中独一无二的物种。 A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+宗教也是另一个“中间真理”—是最危险的真理之一。 据我们所知，我们的确是宇宙中独一无二的物种。 长颈鹿是更高的四足动物，但是，人类不仅是“更聪明”的灵长目动物，而且是一种完全不同的动物。 这种差异的本质在很大程度上仍然是未知的—“我们不同于动物，是因为我们有灵魂，上帝创造了我们”的宗教解释是另一个“中间真理”的例子。我们的确与动物很不一样。 It is not true that we were created by a god and have a soul.
 
 Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
 
