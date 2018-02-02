@@ -60,9 +60,9 @@ Podemos revolucionar el mundo aceptando la afirmación, y la prueba, de que roba
 
 Cuando tomamos el marco de trabajo del CUP y lo aplicamos a proposiciones morales sobre gobierno y religión, algunos resultados muy interesantes ocurren.
 
-La proposición que se usa más a menudo para justificar el poder del gobierno es:"el gobierno tiene el derecho de tomar su dinero". Sin embargo, se trata de una afirmación totalmente imprecisa y falsa. El “gobierno” no tiene el derecho de quitarle su dinero, ya que “el gobierno” es meramente un concepto, una descripción abstracta de un grupo de personas que se autodenominó de esa manera. UPB requiere una afirmación más contundente y objetiva. Ya que las reglas morales deben ser iguales para todos, en todos momento y lugar, debemos modificar la regla de esta manera:
+La proposición que se usa más a menudo para justificar el poder del gobierno es:"el gobierno tiene el derecho de tomar su dinero". Sin embargo, se trata de una afirmación totalmente imprecisa y falsa. El "gobierno" no tiene el derecho de tomar su dinero, ya que "el gobierno" es simplemente un concepto, una descripción abstracta para un grupo de personas definido por uno mismo. El CUP requiere una declaración más consistente y objetiva. Puesto que las reglas morales deben ser las mismas para todos en todos los lugares y en todo momento, debemos reformular la regla de esta manera:
 
-*Los seres humanos pueden, con respaldo moral, quitarle el dinero a otros seres humanos si inventan una agencia conceptual que justifique sus acciones.*”
+*Los seres humanos pueden moralmente tomar dinero de otros seres humanos si forman una agencia conceptual que justifique sus acciones.*
 
 Si retornamos a Bob y a Doug en nuestra pequeña habitación de experimentación moral, podemos ver rápidamente que esto se convierte en una premisa imposible.
 
