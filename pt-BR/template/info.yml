@@ -2,7 +2,7 @@
 content_files:
   - 
     - content.md
-    - https://github.com/ancap-ch/from-en/blob/utopian/en/template/content.md
+    - https://github.com/ancap-ch/from-en/blob/utopian/pt-BR/template/content.md
 translation:
   language: en
   is_translation: true
