@@ -2,11 +2,11 @@
 
 Antes de la revolución científica, era inconcebible que el mundo natural pudiera sostenerse a si mismo sin una conciente y entidad "moral" como su centro. El sol se levantó arrastrando las cadenas de un carro sobrenatural; la luna era una fría y solitaria hermana del sol. Las constelaciones delineaban los cuentos y tumbas de los dioses, y las tormentas derivaron de la ira de los demonios.
 
-La idea de que la naturaleza era autogenerada y a la vez autosostenible era practicamente inimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+La idea de que la naturaleza era autogenerada y a la vez autosostenible era practicamente inimaginable. La revolución Darwiniana, la idea de que la vida no era creada, más bien evolucionada, llevó a esta idea del mundo material al mundo biológico.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Antes de la ciencia, en el centro de todo sistema complejo yacía una conciencia virtuosa - sin la cual este sistema volaría en el caos y pararía d existir.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Desafortunadamente, esta "conciencia virtuosa" era meramente una ilusión, por asi decirlo de una manera mas caritativa. Tales dioses nunca existieron - todo aquello *existió* por los predicamentos de los sacerdotes. Por lo tanto, lo que realmente yacía en el centro era la parcialidad de los individuos irracionales, los cuales no tenían idea de lo realmente enojados que estaban.
 
 We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
 
