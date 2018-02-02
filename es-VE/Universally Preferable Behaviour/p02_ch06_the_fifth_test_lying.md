@@ -32,7 +32,7 @@ Mentir también encaja más de cerca en la categoría de *violencia*, en la medi
 
 De esta manera, podemos justamente mentirle a un mentiroso, tal y como podemos justamente defendernos de un golpe con un golpe, pero no estaríamos exactamente respetando la creciente mezquinidad de "pagar de la misma forma" a una persona tardía si llegamos incluso más tarde.
 
-La diferencia es que "estar atrasado" no es tan destructivo como mentir. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. Para mi, una cosa es llegar tarde a una reunión a las siete en punto de la mañana, otra cosa es intentar convencerte de que en realidad habíamos acordado la reunión a las ocho de la mañana, cuando yo se que este no era el caso.
+La diferencia es que "llegar tarde" no es tan activamente destructivo como mentir. Una persona tardía es molesta, pero no debilita fundamentalmente tu capacidad de procesar la realidad. Para mi es una cosa llegar una hora tarde a una reunión a las siete en punto de la mañana - eso es otro intento de convencerte de que nosotros, de hecho, agendamos la reunión a las ocho en punto de la mañana, cuando yo se que ese no fue el caso.
 
 Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. Así es como UPB valida la ilógica de la proposición "mentir es bueno" y confirma que el acto de mentirle a alguien es peor que "estar atrasado" pero mejor que un "asalto"
 
