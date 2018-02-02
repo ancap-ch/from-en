@@ -4,16 +4,16 @@ content_files:
     - 01_speech.md
     - ""
 translation:
-  language: en
+  language: pt-BR
   is_translation: true
-  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/Libertarianism and the Alt-Right"
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/pt-BR/Libertarianism and the Alt-Right"
   fetch_translators: true
   fetch_reviwers: true
   fetch_progress: true
 titles:
-  - Libertarianism
-  - '~~~~~~and~~~~~~'
-  - the Alt-Right
+  - Libertarianismo
+  - '~~~~~~e a~~~~~~'
+  - '~~Alt-Right~~'
 discussions:
   - 
     - https://en.ancap.ch/t/5
