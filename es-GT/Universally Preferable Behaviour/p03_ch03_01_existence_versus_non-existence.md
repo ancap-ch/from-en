@@ -58,15 +58,15 @@ De la misma manera, cuando decimos que es moralmente bueno que los soldados ases
 
 Si yo digo que un circulo cuadrado tiene derecho a robar, simplemente estoy diciendo que aquello que no puede existir tiene el derecho de hacer eso que es auto contradictorio, una declaración puramente sin sentido alguno, pero una que sigue siendo extrañamente convincente en la "zona nula" de la política.
 
-Si compro un uniforme de soldado en una tienda de segunda mano y me lo pongo, claramente no he creado un universo alterno en el que las reglas morales opuestas pueden ser válidas. En el momento antes que me pusiera el uniforme estaba mal que yo asesinara, ¿cuándo se vuelve *correcto* para mí el asesinar? ¿Cuándo me ponga los pantalones? ¿Qué pasaría si tengo los pantalones puestos pero no el chaleco? ¿Y si tengo una bota puesta? ¿Y si tengo las dos puestas, pero sólo una tiene los cordones atados? ¿Y si mi sombrero está puesto al revés? ¿Y si tengo puesto un uniforme que la primera persona con la que me cruce no reconoce? ¿Quizá los Beatles tenían el derecho de asesinar cuando les fotografiaron en la portada de "Sergeant Peppers"? ¿Perdieron ese derecho cuando se quitaron las chaquetas?
+Si compro un uniforme de soldado en una tienda de segunda mano y me lo pongo, claramente no he creado un universo alterno en el que las reglas morales opuestas pueden ser válidas. En el momento antes que me pusiera el uniforme estaba mal que yo asesinara, ¿cuándo se vuelve *correcto* para mí el asesinar? ¿Cuándo me ponga los pantalones? ¿Qué pasaría si tengo los pantalones puestos pero no el chaleco? ¿Y si tengo una bota puesta? ¿Y si tengo las dos puestas, pero sólo una tiene los cordones atados? ¿Y si mi sombrero está puesto al revés? ¿Y si tengo puesto un uniforme que la primera persona con la que me cruce no reconoce? ¿Los beatles súbitamente poseyeron el derecho de asesinar cuando tomaron la foto de la portada de "Sergeant Peppers"? ¿Perdieron ese derecho cuando se quitaron las chaquetas?
 
-Formulo estas preguntas retóricas porque de hecho son terriblemente graves. Claramente, un traje militar no cambia la naturaleza de un ser humano, del mismo modo que un corte de pelo lo convierte en un pato, un concepto o un dios.
+Formulo estas preguntas retóricas porque, de hecho, son sumamente serias. Claramente un traje militar no cambia la naturaleza de un ser humano, de la misma manera en la que un corte de cabello convierte a uno en pato, un concepto o un dios.
 
-"Ah", puedes decir, "pero el uniforme no es válido porque lo compraste en una tienda de segunda mano: ponerte el uniforme del soldado no te convierte en soldado más que en fotocopiar un doctorado te da un doctorado"
+"Ah" debes estar diciendo, "pero el uniforme es inválido porque lo compraste en una tienda de segunda mano; ponerte el uniforme de soldado no te convierte en soldado, así como fotocopiar un doctorado te da un Ph.D."
 
-La analogía es incorrecta, porque tener un doctorado o fotocopiar un doctorado no cambia ninguna de las reglas morales a las que se está sujeto como ser humano.
+La analogía es incorrecta porque tener un Ph.D. o fotocopiar un doctorado no cambia ninguna de las reglas morales que estas sujeto como ser humano.
 
-"Bueno", puedes responder ", pero la diferencia es que el soldado posee los derechos morales que le brinda el ciudadano promedio, en aras de la autodefensa colectiva y demás"
+"Bueno", puedes responder, "pero la diferencia está en que el soldado posee derechos morales que son brindados por el ciudadano promedio, por el bien de la autodefensa colectiva y demás."
 
 Esto plantea un punto muy interesante, que es la cuestión de si las opiniones pueden cambiar la realidad.
 
