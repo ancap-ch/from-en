@@ -48,7 +48,7 @@
 
 于是，必然有一种下行力，它在历史上的作用是粉碎和奴役人类的天赋自由权。
 
-在科学领域，不难看到能让我们心智持续处于近乎原始矇昧的压抑力。 以宗教形式的迷信和以贵族形式的暴力相结合，用恐吓、监禁、酷刑和谋杀威胁理性思想家。 Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+在科学领域，不难看到能让我们心智持续处于近乎原始矇昧的压抑力。 以宗教形式的迷信和以贵族形式的暴力相结合，用恐吓、监禁、酷刑和谋杀威胁理性思想家。 正如农民从他的牛的低智力中获利一样，奴隶主从奴隶的恐惧中获利，神父和国王对任何敢思考的人进行死亡威胁来保留他们的特权。
 
 The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
 
