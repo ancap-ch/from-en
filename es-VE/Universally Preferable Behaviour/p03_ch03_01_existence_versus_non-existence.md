@@ -40,11 +40,11 @@ Si aceptamos la UPB, también debemos aceptar el siguiente corolario:
 
 Esto significa que un hombre no puede cambiar su naturaleza moral y su vestimenta a la vez. El acto de cambiar el disfraz propio no altera nuestra naturaleza fundamental. Por lo tanto, las reglas morales opuestas no pueden ser validadas en función de la ropa que se lleva puesta.
 
-Los soldados, por supuesto, usan uniformes que son diferentes del ciudadano promedio. El ciudadano promedio tiene prohibido asesinar; los soldados, sin embargo, no solo están * autorizados * a asesinar, sino que * son elogiados moralmente * por matar.
+Los soldados, obviamente, utilizan uniformes, que son diferentes a los del ciudadano promedio. El ciudadano promedio tiene prohibido asesinar; los soldados, sin embargo, no solamente se les *permite* asesinar, sino que moralmente son *elogiados* por matar.
 
-Tomemos otro ejemplo.
+Utilicemos otro ejemplo.
 
-El robo es moralmente incorrecto, como hemos visto anteriormente. Es moralmente incorrecto para todas las personas en todas las situaciones en todo momento y bajo cualquier circunstancia. Dado que el robo es la eliminación forzosa de la propiedad de otra persona sin consentimiento, entonces la imposición es siempre, universal y para siempre, un mal moral. La tributación es, por definición, la remoción forzosa de la propiedad de alguien sin su consentimiento, ya que la tributación se basa en el inicio del uso de la fuerza para despojar a un hombre de su propiedad.
+El robo es moralmente malo, como se ha visto anteriormente. Es moralmente incorrecto para todas las personasen todas las situaciones, en todo momento y bajo todas las circunstancias. Dado que el robo es la extracción forzosa de la propiedad de otra persona sin su consentimiento, entonces el cobro de impuestos es, siempre, universalmente y para siempre un mal moral. La tributación es, por definición, la remoción forzosa de la propiedad de alguien sin su consentimiento, ya que la tributación se basa en el inicio del uso de la fuerza para despojar a un hombre de su propiedad.
 
 Lo que llamamos "el gobierno" no es más que otro ejemplo de esta * zona nula * donde arriba está abajo, el negro es blanco, la verdad es falsedad y el mal es bueno.
 
