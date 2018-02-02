@@ -1,56 +1,56 @@
-# First root heading
+# Título da primeira raiz
 
-Below there's an enumerated list of styled pangrams, that shows every character, both in english and also in other languages.
+Abajo hay una lista enumerada de panagramas que muestran cada personaje, ambos en inglés y también en otros lenguajes.
 
-1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
-2. numbers: 0123456789. 
-3. symbols: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
-4. emphasys: *The quick, brown fox jumps over a lazy dog.* 
-    1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
-    2. inner emphasys: **The *The quick, brown fox jumps over a lazy dog* dog.** 
-        1. en: The quick, brown *fox* **jumps *over* a** lazy dog.
+1. mayúscula: RÁPIDAMENTE, EL ZORRO MARRÓN SALTA SOBRE EL PERRO FLOJO. 
+2. números: 0123456789. 
+3. symbols: % $ & { } # ^ ~ \ (some other symbols are still missing)
+4. énfasis: *El rápido, zorro marrón salta sobre un perro flojo.* 
+    1. fuerte énfasis: **Rápidamente, el zorro marrón salta sobre el perro flojo.**
+    2. énfasis interior: **El *El rápido, zorro marrón salta sobre un perro flojo* perro.** 
+        1. en: Rápidamente, marrón *zorro* **salta*sobre*un**perro flojo.
         2. pt-BR: À noite, vovô *Kowalsky* **vê o ímã *cair no pé* do pingüim queixoso** e vovó põe açúcar no chá de tâmaras do jabuti feliz.
         3. jp: [色は匂へど]{いろはにほへど} [散りぬるを]{ちりぬるを} *[我が世誰ぞ]{わかよたれぞ}* **[常ならむ]{つねならむ} *[有為の奥山]{うゐのおくやま}* [今日越えて]{けふこえて}** [浅き夢見じ]{あさきゆめみじ} [酔ひもせず]{ゑひもせず}（ん）
         4. th: เป็นมนุษย์สุดประเสริฐเลิศคุณค่า *กว่าบรรดาฝูงสัตว์เดรัจฉาน* **จงฝ่าฟันพัฒนาวิชาการ *อย่าล้างผลาญฤๅเข่นฆ่าบีฑาใคร* ไม่ถือโทษโกรธแช่งซัดฮึดฮัดด่า** หัดอภัยเหมือนกีฬาอัชฌาสัย ปฏิบัติประพฤติกฎกำหนดใจ พูดจาให้จ๊ะๆ จ๋าๆ น่าฟังเอยฯ (ฦ)
         5. ...
-    3. This phrase has two footnotes.[^1][^2]
-5. This phrase has [this](https://example-this.com) link, and also [this again](https://example-this-again.com).
+    3. Esta frase tiene dos notas en el pie de página.[^1][^2]
+5. Esta frase tiene [este](https://example-this.com) enlace, y también [esto de nuevo](https://example-this-again.com).
 
-Now a non-enumerated list:
+Ahora una lista no enumerada:
 
-* First level
-* First level 
-    * Second level
-    * Second level 
-        * Third level
-        * Third level
-    * Second level
-* First level
+* Primer nivel
+* Primer nivel 
+    * Segundo nivel
+    * Segundo nivel 
+        * Tercer nivel
+        * Tercer nivel
+    * Segundo nivel
+* Primer nivel
 
-Some quotation. First line is large; second line is small; third line is empty; fourth line is not. 5th line is not a quotation; 6th line is:
+Una acotación. La primera línea es grande; la segunda línea es pequeña; la tercera línea está vacía; la cuarta línea no lo está. 5ta línea no es una acotación; 6ta línea es:
 
-> 1th line is large: The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. 2th line is small: The quick, brown fox jumps over a lazy dog.
+> 1era línea es grande: El rápido zorro marrón salta sobre un perro flojo. El rápido zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. El rápido, zorro marrón salta sobre un perro flojo. 2da línea es pequeña: El rápido, zorro marrón salta sobre un perro flojo.
 > 
-> 4th line is not empty: The quick, brown fox jumps over a lazy dog.
+> 4ta línea no está vacía: El rápido, zorro marrón salta sobre un perro flojo.
 > 
-> 6th line is a quotation: The quick, brown fox jumps over a lazy dog.
+> 6ta línea es una acotación: El rápido, zorro marrón salta sobre un perro flojo.
 
-# Headings
+# Títulos
 
-## Sub heading
+## Subtítulo
 
-### Heading at the third level
+### Encabezado en el tercer nivel
 
-#### Heading at the fourth level
+#### Título en el cuarto nivel
 
-Some text at 4th level.
+Algún texto en el 4to nivel.
 
-##### Heading at the fifth level
+##### Título en el quito nivel
 
-###### Heading at the 6th level
+###### Título en el 6to nivel
 
-Some text at 6th level.
+Algún texto en el 6to nivel.
 
-[^1]: Footnote example. But this will point to yet another footnote.[^3]
+[^1]: Footnote example. But this will point to yet another footnote.
 
-[^2]: Second footnote. Will have [another website](https://example-another-website.com).
+[^2]: Segunda nota de pie de página. Tendrá [otro sitio web](https://example-another-website.com).
