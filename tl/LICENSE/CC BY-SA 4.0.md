@@ -1,8 +1,8 @@
-## creative commons
+## malikhaing mga karaniwan
 
 # Attribution-ShareAlike 4.0 International
 
-Creative Commons Corporation ("Creative Commons") ay hindi isang tanggapan sa batas at hindi nagpo-provide ng legal na serbisyo o legal na pangaral. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+Creative Commons Corporation ("Creative Commons") ay hindi isang tanggapan sa batas at hindi nagpo-provide ng legal na serbisyo o legal na pangaral. Ang Distribusyon sa Malikhang Mga Karaniwan ng pampublikong mga lisensya ay hindi makakagawa ng isang abogado-kliyente o ibang relasyon. Ang Malikhaing Mga Karaniwan ay ang makakagawa sa mga lisensya nito at mga kaugnay nga mga impormasyon na magagamiti bilang "as-is" na batayan. Ang Malikhaing Mga Karaniwan ay magbibigay ng walang mga warantiya patungkol sa mga lisensya nito, at ang kahit anong mga materyal na naka-lisensya sa loob ng kanilang mga termino at kondisyon, o sa kahit anong kaugnay na impormasyon. Ang Malikhaing Mga Karaniwan ay itinatatwa ang lahat ng mga layabilidad para sa mga sira na dulot sa kanilang posibleng pinakalawak na paggamit.
 
 ### Using Creative Commons Public Licenses
 
