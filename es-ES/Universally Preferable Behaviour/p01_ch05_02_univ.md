@@ -73,9 +73,9 @@ Podríamos incorporar muchos más argumentos para apoyar la existencia y validez
 
 #### UPB: opcional y objetivo
 
-Dado que hemos demostrado la validez de un comportamiento universalmente preferible, la cuestión de la moralidad ahora cambia. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Dado que hemos demostrado la validez de un comportamiento universalmente preferible, la cuestión de la moralidad ahora cambia. Puesto que la moralidad *es* valida, ¿Qué teorías pueden cuantificarlo, clarificarlo, explicarlo y predecirlo?
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+Antes que nada, debemos recordar que la moralidad es claramente opcional. Cada hombre está sujeto a la gravedad y requiere de comida para vivir, pero ningún hombre tiene que actuar moralmente. Si violo, robo o mato, ningún trueno me va a caer. Las reglas morales, como el método científico o las clasificaciones biológicas, son simplemente formasmracionales de organizar hechos y principios relativos a la realidad objetiva.
 
 The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
 
