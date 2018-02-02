@@ -1,6 +1,6 @@
 ## Foreword
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+For dem fairy tori, one bad beast dey wey get plenty power, a dragon or na basilisk, wey dey disturb evry evry. Dem village people dem too dey fear dis monster; dem dey giv dem animal say mke d monster take, dem dey pay ego and blood so mke d monster no too dey peme dem. 
 
 Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
 
