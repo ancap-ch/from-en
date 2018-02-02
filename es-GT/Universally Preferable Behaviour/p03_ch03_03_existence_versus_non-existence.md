@@ -8,17 +8,17 @@ Es mucho más eficaz para los explotadores hacer que sus esclavos consideren la 
 
 Las mitologías religiosas y estatales, por lo tanto, son ficciones que reducen enormemente los costos de controlar las poblaciones; son el lubricante y el combustible para la espantosa maquinaria de la violencia institucionalizada.
 
-Alrededor del mundo, los gobernantes son un porcentaje muy pequeño de la población. Cómo puede ser posible para el uno dos por ciento de las personas lograr controlar a todos los demás? Hay un cierto monopolio de los armamentos, eso es seguro, pero ese monopolio es relativamente fácil de demostrar, ya que la mayoría de los gobernantes ganan fortunas vendiendo armar en todo el mundo.
+En todo el mundo, los gobernantes son un porcentaje muy pequeño de la población. ¿Cómo puede ser posible que entre uno y dos por ciento de la gente controle a los demás? Hay un cierto monopolio sobre los armamentos, sin duda, pero ese monopolio es relativamente fácil de contrarrestar, ya que la mayoría de los gobiernos hacen una fortuna vendiendo armas en todo el mundo.
 
-La triste realidad es que la gente, como un todo, es esclavizada por entidades ficticias como naciones, dioses, culturas- y gobiernos.
+La triste realidad es que las personas en su conjunto están esclavizadas a entidades ficticias como naciones, dioses, culturas y gobiernos.
 
-Como individuos, nuestro orgullo se rebelaría instintivamente ante un repentina y obligada esclavitud ejecutada por otro individuo contra nuestra persona - pero, pareciera que nos regocijamos en ser esclavos de la *mitología*.
+Nuestro orgullo personal se rebelaría instintivamente contra una inmediata e impuesta esclavitud a otro ser humano, sin embargo, parece que casi nos deleitamos en ser esclavos de la *mitología*.
 
-Nuestro deseo de ser buenos - combinado con la sensación de virtud que nos genera el obedecer a las mitologías morales - nos deja haciendo fila para ceder voluntariamente nuestros recursos a aquellos que dicen representar a esas mitologías.
+Nuestro deseo de ser buenos junto con la emoción de la virtud que obtenemos al obedecer las mitologías morales, nos ha llevado a alinearnos para entregar voluntariamente nuestros recursos a aquellos que dicen representar estas mitologías.
 
-Una razón primordial que sabemos, es que los gobernantes y los dioses son innecesarios, es que son muy efectivos. *Sabemos que la mayoría de la gente quiere desesperadamente ser bueno porque son controlados fácilmente a través de teorías morales*.
+Una razón central por la que sabemos que los gobiernos y los dioses son innecesarios es que son tan eficaces. *Sabemos que la mayoría de las personas desean desesperadamente ser buenas porque son fácilmente controladas por teorías morales*.
 
-La lógica de la obediencia a la mitología es claramente ridícula. Si un sacerdote me dice que debo obedecer a “Dios”, es lo mismo que si me dijera que debo obedecer a una entidad llamada “Nog”. Si incluso aceptara que esta entidad ficticia es digna de obediencia eterna, eso tampoco lograría bajo ningún punto de vista que yo obedeciera al *sacerdote*. Si le dijera “obedezca a su corazón”, puedo entonces decirle razonablemente: “y*yo sólo* seré el que hable en lugar de su corazón”?
+La lógica de la obediencia a la mitología es claramente insensata. Si un sacerdote me dice que debo obedecer a “Dios”, es lo mismo que si me dijera que debo obedecer a una entidad llamada “Nog”. Si incluso aceptara que esta entidad ficticia es digna de obediencia eterna, eso tampoco lograría bajo ningún punto de vista que yo obedeciera al *sacerdote*. Si le dijera “obedezca a su corazón”, puedo entonces decirle razonablemente: “y*yo sólo* seré el que hable en lugar de su corazón”?
 
 Por supuesto que no.
 
