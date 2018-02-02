@@ -26,13 +26,13 @@ Cuando aplicamos este simple hecho a los argumentos éticos, llegamos a resultad
 
 ### Preferencias y Argumentos
 
-Recordando nuestro análisis anterior sobre los argumentos contraproducentes, podemos entender fácilmente la naturaleza contradictoria de la declaración: "las preferencias no existen." Dado que toda acción humana – incluyendo las declaraciones filosóficas – es escogida en preferencia a cualquier otra posible acción, argumentar que las preferencias no existen requiere una *preferencia* por argumentar que las preferencias no existen, lo cual es una declaración contradictoria en sí misma. Argumentar que las preferencias no existen es exactamente lo mismo que argumentar que el lenguaje no existe. Es un argumento totalmente contraproducente.
+Recordando nuestro análisis anterior sobre los argumentos contraproducentes, podemos fácilmente entender la naturaleza contradictoria de la declaración: "las preferencias no existen." Dado que cada acción humana, incluyendo la de hacer declaraciones filosóficas, es seleccionada en preferencia a cada otra acción posible, argumentar que las preferencias no existen requiere una *preferencia* por argumentar que la preferencia no existe, lo cual es un argumento contradictorio en sí. Declarar que no existen las preferencias es exactamente lo mismo que argumentar que no existe el lenguaje. Esto es un argumento absolutamente contraproducente.
 
-Ya que es imposible actuar sin expresar una preferencia – sea implícita o explícitamente – cualquiera que actúe acepta la premisa de que existen las preferencias. Así que es imposible debatir la existencia de preferencias sin aceptar la existencia de preferencias.
+Ya que es imposible actuar sin expresar una preferencia, sea ésta implícita o explícita, cualquiera que actúe acepta la premisa de que las preferencias existen. Así que es imposible debatir la existencia de las preferencias sin aceptar su existencia.
 
-### Preferencias Y Universalidad
+### Preferencias y Universalidad
 
-La siguiente pregunta entonces sería: ¿son las preferencias puramente subjetivas, o pueden ser universales?
+La siguiente pregunta sería entonces: ¿Son las preferencias puramente subjetivas, o pueden ser universales?
 
 Claramente, algunas preferencias son subjetivas. Los gustos musicales, los pasatiempos personales, la literatura favorita y así sucesivamente son todas preferencias subjetivas y personales.
 
