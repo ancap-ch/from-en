@@ -62,17 +62,17 @@ Si compro un uniforme de soldado en una tienda de artículos usados, y me lo pon
 
 Hago estas preguntas retoricas porque de hecho son terriblemente serios. Claramente, un traje militar no cambia la naturaleza de un ser humano, del mismo modo que un corte de pelo no lo convierte en un pato, un concepto o un dios.
 
-"Ah", puedes decir, "pero el uniforme no es válido porque lo compraste en una tienda de segunda mano: ponerte el uniforme del soldado no te convierte en soldado más que en fotocopiar un doctorado te da un doctorado"
+"Ah," puedes decir, "pero el uniforme no es valido porque lo compraste en una tienda de artículos usados- ponerte el uniforme del soldado no te convierte en soldado mas que en fotocopiar un doctorado no te convierte en doctor"
 
-La analogía es incorrecta, porque tener un doctorado o fotocopiar un doctorado no cambia ninguna de las reglas morales a las que se está sujeto como ser humano.
+La analogía es incorrecta, porque tener un doctorado o fotocopiar uno, no cambia ninguna de las reglas morales a las que se esta sujeto como ser humano.
 
-"Bueno", puedes responder ", pero la diferencia es que el soldado posee los derechos morales que le brinda el ciudadano promedio, en aras de la autodefensa colectiva y demás"
+"Bueno", puedes responder ", pero la diferencia es que el soldado posee todos los derechos morales que le brinda el ciudadano promedio, en aras de autodefensa colectiva y demás"
 
 Esto plantea un punto muy interesante, que es la cuestión de si las opiniones pueden cambiar la realidad.
 
 ### Opiniones y Realidad
 
-Claramente, entendemos que, a través de mi opinión, no puedo liberarte de las restricciones de la gravedad, así como mi opinión de que "dos más dos equivale a cinco" tampoco lo hace cierto.
+Claramente, entendemos que, a través de mi opinión, no puedo librarte de las restricciones de la gravedad, así como mi opinión de que "dos mas dos es igual a cinco" tampoco hace que sea cierto.
 
 Las "opiniones" son aquellas creencias que no tienen una evidencia clara en la realidad, o para las cuales no se puede proveer una evidencia clara, o que son expresiones de preferencias meramente personales. Mi opinión personal es que prefiero el helado de chocolate a la vainilla – También puedo tener una "opinión" de que Islandia es un paraíso tropical, o que Dios existe, o que la lluvia cae hacia arriba. Las opiniones personales claramente no tienen nada que ver con la moralidad; las opiniones que pretenden describir con precisión la realidad, pero que no lo son, son simplemente prejuicios incorrectos. Creer que la lluvia cae hacia arriba no revierte su curso; llevar una camiseta hawaiana a Islandia no hace que Reykjavik sea más cálido.
 
