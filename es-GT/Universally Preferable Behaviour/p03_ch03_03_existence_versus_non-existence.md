@@ -18,35 +18,35 @@ Nuestro deseo de ser buenos junto con la emoción de la virtud que obtenemos al 
 
 Una razón central por la que sabemos que los gobiernos y los dioses son innecesarios es que son tan eficaces. *Sabemos que la mayoría de las personas desean desesperadamente ser buenas porque son fácilmente controladas por teorías morales*.
 
-La lógica de la obediencia a la mitología es claramente insensata. Si un sacerdote me dice que debo obedecer a “Dios”, es lo mismo que si me dijera que debo obedecer a una entidad llamada “Nog”. Si incluso aceptara que esta entidad ficticia es digna de obediencia eterna, eso tampoco lograría bajo ningún punto de vista que yo obedeciera al *sacerdote*. Si le dijera “obedezca a su corazón”, puedo entonces decirle razonablemente: “y*yo sólo* seré el que hable en lugar de su corazón”?
+La lógica de la obediencia a la mitología es claramente insensata. Si un sacerdote me dice que tengo que obedecer a "Dios", esto es exactamente lo mismo que él diciéndome que debo obedecer a una entidad llamada "Nog". Incluso si acepto que esta entidad ficticia es digna de la obediencia eterna, esto no me obligaría de ninguna manera a obedecer *al sacerdote*. Si te digo "obedece a tu corazón", ¿puedo entonces razonablemente decir:"y *Solo yo* hablar por tu corazón"?
 
 Por supuesto que no.
 
-Cuando eliminamos la mitología y la ficciónde nuestras “interacciones” con nuestros gobernantes, lo que surge es una realidad sombría, cruel y peligrosamente abusadora.
+Cuando despojamos a la mitología y la ficción de nuestras "interacciones" con nuestros gobernantes, lo que emerge es una realidad sombría, cruel y peligrosamente explotadora.
 
-Tomemos como ejemplo a un peligro muy presente y real: los impuestos.
+Tomemos como ejemplo un peligro muy real y presente: los impuestos.
 
 #### Impuestos
 
-Se me ha dicho, que por haber elegido vivir en Canadá, le debo al “”gobierno” más del cincuenta por ciento de mis ingresos.
+Me dicen que, en virtud de elegir vivir en Canadá, le debo al "gobierno" más del cincuenta por ciento de mis ingresos.
 
-Eliminando la mitología, en qué se traduce eso en realidad?
+Eliminado la mitología, ¿a qué se traduce esto realmente?
 
-En realidad, voy a esperar hasta el fin de los tiempos para que “el gobierno” venga a buscar su dinero. Esperar que “el gobierno” venga a nuestra casa es como querer tener una cita con el concepto mismo de la “feminidad”. Y también podría tratar de pagar mi cena con la palabra “dinero”
+En realidad, esperaré hasta el fin del tiempo para que "el gobierno" venga a recoger su dinero. Esperar que "el gobierno" pase por aquí es como querer fechar el concepto de "feminidad". Puedo intentar pagar mi cena con la palabra "dinero"
 
-En realidad, cuando me dicen que debo pagarle mis impuestos al “gobierno”, en realidad significa que debo hacer un cheque, depositarlo en cierta cuenta bancaria, que luego será cobrado por ciertos individuos. Estos individuos entonces tienen el derecho de adueñarse de ese dinero y de usarlo como les parezca mejor - esos individuos por ende, tienen total control sobre mi dinero.
+En realidad, cuando se me dice que debo pagar mis impuestos al "gobierno", lo que esto significa en realidad es que debo escribir un cheque para transferir mi dinero a una cuenta bancaria en particular, a la que luego acceden determinadas personas. Estos individuos entonces tienen el derecho de tomar ese dinero, y gastarlo como les parezca apropiado, estos individuos en particular tienen así un control total sobre mi dinero.
 
-De todas maneras, en ningún momento, ninguna entidad llamada “el gobierno” mueve un dedo, abre una cuenta bancaria o hasta siquiera un centavo. Imaginar que un concepto llamado “el gobierno” tiene la capacidad de tomar o gastar su dinero es exactamente lo mismo que esperar que “Dios” vaya a su casa a buscarlo para llevarlo a la iglesia.
+En ningún momento ninguna entidad como "el gobierno" levanta un dedo, hace un movimiento, abre una cuenta bancaria, o gasta un centavo. Imaginar que un concepto llamado "el gobierno" tiene la capacidad de tomar o gastar tu dinero es exactamente lo mismo que esperar que "Dios" venga a recogerte y llevarte a la iglesia.
 
-Por ende, la interacción real es cuando una persona me envía una carta diciéndome que le debo dinero. Yo no tengo ningún contrato con esa persona, y esa persona de hecho no es dueño de ninguna de mis propiedades, aunque otras personas escribieron un supuesto “contrato” el cual dice lo contrario.
+Así que la verdadera interacción es que un tipo me envía una carta diciéndome que le debo dinero. No tengo ningun contrato con este tipo, y de hecho no posee ninguna de mis propiedades, aunque algunos otros tipos escribieron un supuesto "contrato" que dice que sí lo tiene.
 
-Si no le lado a esa persona, entonces mandará a otra persona a mi casa a buscar el dinero - más “intereses” y “gastos”
+Si no le pago a este tipo, enviará a otro a mi casa para cobrar el dinero, más intereses y cargos
 
-Normalmente, si un hombre portando un arma, viene a mi casa y me obliga a darle dinero, tengo el derecho de usar la fuerza y defenderme. En este caso, en realidad, como el hombre se presenta diciendo que representa a una entidad ficticia, no se me permite usar la fuerza y defenderme.
+Normalmente, cuando un hombre con una pistola viene a mi casa y exige mi dinero, tengo el derecho de usar la fuerza para defenderme. En este caso, sin embargo, debido a que está disfrazado y dice representar una entidad ficticia, no se me permite usar la fuerza para defenderme.
 
-Ahora, si yo me presentara en su casa esta noche, vestido como un “sumo elfo de Narnia” y le reclamara el dinero que usted le debe a la “Reina de los Pesares”, asumiendo que no es Noche de Brujas, usted estará en su derecho de mirarme asombrado y echarme de su propiedad.
+Ahora, si vengo a tu casa esta noche vestido como un "elfo alto de Narnia" y demando el dinero que le debes a la "Reina de las tristezas", asumiendo que no es Halloween, se te permite mirarme con asombro y ordenarme salir de tu propiedad.
 
-Si yo no le pago al hombre que viene a buscar mi dinero, él está autorizado a sacar un sacar su arma, apuntarla a mi pecho y secuestrarme - o dispararme si me resisto. Puede encerrarme en una celda durante años, en los cuales seré sujeto de la brutalidad más violenta y de vejaciones constantes hasta que decida dejarme ir.
+Si no le pago al hombre que viene a tomar mi dinero, se le permite sacar un arma, apuntarme al pecho y secuestrarme, o dispararme si me resisto. Él puede retenerme en una celda diminuta año tras año, donde seré sometido a la brutalidad más violenta y a la violación continua, hasta que decida dejarme ir.
 
 Es interesante, que si alguien legítimamente me debe dinero, yo no tengo permitido secuestrarlo, vejarlo y torturarlo durante años. Por lo tanto, el sistema impositivo viola completamente la infraestructura de UPB, ya que representa la transferencia de propiedades través de la fuerza.
 
