@@ -36,7 +36,7 @@ En los mapas antiguos, antes de que los cartógrafos hubieran terminado sus expl
 
 Lo mismo es verdad en el campo de la moralidad.
 
-### The Casualties
+### Las Bajas
 
 Cruzar esta "zona nula" está lleno de riegos. El camino de las pequeñas verdades a las grandes verdades está pavimentado con los huesos de millones. Desde la muerte de Sócrates a la tortura de los primeros científicos por fanáticos religiosos, a los millones que han asesinado y muerto por las fantasías negras del fascismo y comunismo, cualquier empuje hacia adelante del conocimiento humano dentro de la "zona nula" está lleno de un considerable peligro.
 
@@ -44,53 +44,53 @@ Cruzar esta "zona nula" está lleno de riegos. El camino de las pequeñas verdad
 
 Si nos fijamos en el progreso tecnológico y económico de la humanidad, vemos más o menos una línea plana durante incontables milenios, seguida por picos masivos y asintóticos alrededor de los últimos pocos cientos de años. Es inconcebible que alguna mutación genética extendida pueda explicar esta repentina y enorme aceleración en la coherencia intelectual y el éxito material. Las teorías que afirman que un cierto "efecto bola de nieve" vino a la existencia, misteriosamente impulsado por una acumulación de todos los pequeños incrementos de conocimiento que habían ocurrido desde los albores de la civilización, usualmente se pueden descartar totalmente como explicaciones * ex post facto*, ya que no tienen valor predictivo.
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+Si entendemos que nuestro potencial asombroso ha estado disponible para nosotros por lo menos por decenas de miles de años - y que es a la vez una gran ganancia y un gran placer al ejercitarlo - entonces enseguida se vuelve claro que realmente queremos *hacer* uso de nuestras increíbles mentes.
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+Por lo tanto, debe haber una fuerza descendente que ha actuado históricamente para aplastar y esclavizar la libertad natural de la humanidad.
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+En el campo de la ciencia, no es demasiado difícil ver las fuerzas opresivas que continuamente mantienen nuestras mentes en la ignorancia casi primigenia. La combinación de superstición en la forma de religión y violencia en la forma de la aristocracia, amenazaba a los pensadores racionales con intimidación, encarcelamiento, tortura y asesinato. Así como un agricultor se beneficia de la baja inteligencia de sus vacas y un poseedor de esclavos se beneficia del miedo de sus esclavos, sacerdotes y reyes retuvieron sus privilegios amenazando con muerte a todo aquel que se atrevió a pensar.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+La simple verdad es que "sacerdotes" y "reyes" fueron - y son - simplemente hombres. La simple verdad es que dioses y demonios que fueron supuestos para justificar sus reglas, nunca existieron.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+Hemos logrado grandes progresos en la comprensión de la naturaleza y la realidad de la simple igualdad humana, pero el triste hecho en la materia es que el campo de la *moralidad* todavía se pierde en la "zona nula" - en las destructivas ilusiones de las "medias verdades".
 
-### "Middle Truths"
+### "Medias Verdades"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+Vamos a llamar los principios de oposición que residen en la "zona nula" - entre la percepción sensorial y la consistencia conceptual - las "medias verdades".
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+Estas "medias verdades" son las ilusiones más peligrosas de todas, porque otorgan la *apariencia* de una verdad mientras realmente *atacan* la verdad.
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+Al proporcionar la ilusión de que hemos encontrado la verdad, las "medias verdades" realmente nos evitan obtener la verdad. Son la última línea de defensa para la fantasía, la depredación y la explotación.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Ya que no son solo irracionales, sino *anti* racionales, las "medias verdades" permanecen infinitamente flexibles - mientras que sirvan a aquellos en el poder. Por ejemplo, el Cristianismo surgió del creciente fascismo del Imperio Romano tardío en parte atacando a las supersticiones "primitivas" de las teologías existentes. "¡Olvídate de tus viejos dioses, nosotros tenemos un Dios completamente nuevo que es mucho mejor!"
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+Las "Medias Verdades" siempre toman la forma de una verdad, seguida por una mentira. "Zeus es una superstición pagana" es la declaración verdadera, la cual fue hecha abiertamente por proselitistas Cristianos. La mentira que la siguió fue: "Yahvé no es una superstición pagana, sino un Dios real y vivo".
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+Podemos personalizar esto un poco más con un ejemplo que será familiar para aquellos que alguna vez han aconsejado a un amigo disfuncional. "Mi último novio fue un completo idiota", dirá ella y usted estará fervientemente de acuerdo. "Mi nuevo novio es realmente *genial*", agregará y usted intentará no rodar los ojos.
 
-It is very hard not to replace one illusion with another.
+Es muy difícil no remplazar una ilusión con otra.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+"¡El gobierno Británico es una tiranía!" gritaron los revolucionarios americanos en el siglo XVIII - y, después de expulsar a las tropas británicas, entonces establecieron su propio gobierno y comenzaron a atacar a sus propios ciudadanos.
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+"La aristocracia es una abominación injusta" gritaron otros revolucionarios, quienes entonces establecieron la tiranía de la mayoría en la forma de democracia.
 
-“Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
+Las "medias verdades" también pueden existir en la ciencia y similarmente evitan el progreso natural de las pequeñas verdades a las grandes verdades. Hasta el siglo XVIII, por ejemplo, los biólogos creían en la "generación espontánea", o en la idea de que la vida puede surgir a partir de la materia sin vida. Esto jamás había sido observado, por supuesto, sino que se ajustaba a los antiguos escritos sobre filosofía y religión y así fue aceptada como un hecho. También, antes de la revolución de Einstein en 1905, se creía que la luz se movía a través de una sustancia fija e invisible denominada "éter luminífero", de manera similar a como las ondas de sonido se mueven a través del aire. Ningún científico que creía en esta teoría tenía ninguna evidencia empírica de este "éter", ya sea personal o científicamente - pero fue considerado necesario ajustarse a otras características observables.
 
-Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+La religión es también otra "media verdad" - una de las más peligrosas. Es verdad que somos una especie única en el universo, por lo que sabemos. Una jirafa es el cuadrúpedo más alto, pero el hombre no es solo el primate "más inteligente", sino algo completamente diferente. La naturaleza de esa diferencia sigue siendo en gran parte desconocida - la explicación religiosa "nosotros no somos iguales a los animales porque tenemos un alma y fuimos creados por un Dios" es solo otro ejemplo de una "media verdad". Es cierto que somos muy diferentes de los animales. No es cierto que fuimos creados por un dios y tenemos un alma.
 
-Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+Así como algunos parásitos no pueden echar raíces hasta que desalojan a los parásitos anteriores, las "medias verdades" solo atacan a las ilusiones previas *para que puedan tomar su lugar*. Aquellos que son escépticos ante las fantasías anteriores son atraídos hacia la nueva fantasía. En consecuencia, el Cristianismo desplaza al paganismo, el Marxismo al Cristianismo, el postmodernismo desplaza al Marxismo, la democracia a la aristocracia y así sucesivamente.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+Hasta que las grandes verdades se alcancen y se unan con las pequeñas verdades, las "medias verdades" son solo una falange giratoria de explotadoras y destructivas falsedades - específicamente diseñadas para evitar el éxito de las grandes verdades.
 
-And the great truths are always achieved from the little truths.
+Y las grandes verdades son siempre alcanzadas mediante las pequeñas verdades.
 
-The world falls because a rock falls.
+El mundo cae porque una roca cae.
 
-### "Middle Truths" And Exploitation
+### Las "Medias Verdades" y la Explotación
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+Biológicamente, el parasitismo es un estrategia totalmente válida de supervivencia para muchas criaturas. En la ausencia de normas éticas, robar energía y recursos a otras criaturas es perfectamente razonable. En general, la forma más sostenible y estable de parasitismo es la *simbiosis*, o la coexistencia mutuamente beneficiosa. Así las bacterias que habitan nuestros intestinos ayudan a su propia supervivencia al ayudarnos a digerir nuestra comida.
 
-However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+Sin embargo, un virus que nos deja continuamente exhaustos y apenas capaces de mantenernos vivos, puede difícilmente denominarse "beneficio mutuo". Si pensamos en nuestra larga y sombría historia de desastres, hambre, guerra, enfermedades y pobreza - y la comparamos con los asombrosos éxitos materiales de la modernidad - está claro que una forma de parasitismo tiranizó nuestras mentes y capacidades por milenios. Ahora que los últimos cientos de años han mostrado el poder y la creatividad del espíritu humano, podemos ver nuestra especie como un organismo que se ha sacudido un terrible parásito y surgió desde un lecho de muerte sin fin para realizar las más asombrosas hazañas de la gimnasia.
 
 When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
 
