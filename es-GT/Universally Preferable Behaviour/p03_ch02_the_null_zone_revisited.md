@@ -16,19 +16,19 @@ El problema con este enfoque, bueno, un problema de todos modos, era el movimien
 
 También podemos dirigir este análisis a la cuestión de la existencia de Dios.
 
-We have no direct, empirical or rational evidence for the existence of God. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+No tenemos evidencia directa, empírica o racional de la existencia de Dios. Las mediciones científicas más abstractas tampoco proporcionan ninguna evidencia de la existencia de Dios, aunque entre la verdad de nuestra propia experiencia, que es que no hay Dios, y las mediciones y teorías científicas más abstractas, que también confirman que no hay Dios, se quiere crear una especie de "zona nula", *que invierta por completo cualquier estándar racional de verdad*.
 
-### Bigotry
+### Fanatismo
 
-Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+Las creencias pueden ser verdaderas, falsas o *anti-verdad*. Es una creencia verdadera que el desierto del Sahara está en el norte de África; es una creencia falsa que el Sahara está en Escocia; es una creencia*anti-verdadera* de que el Sahara es lo que quiero que sea, y existe donde quiera que yo quiera que exista. La primera creencia es verdadera; la segunda es falsa, la tercera es una afirmación intolerante que detona el concepto mismo de prueba.
 
-We can say:
+Podemos decir:
 
-1. Proposition X is true because it is rational.
-2. Proposition Y is false because it is irrational.
-3. Proposition Z is true because I *want* it to be true.
+1. La proposición X es verdadera por que es racional.
+2. La proposición Y es falsa porque es irracional.
+3. La proposición Z es verdad porque *quiero* que sea verdad.
 
-The third assertion is a complete self-contradiction. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
+La tercera afirmación es una completa contradicción. La "verdad" es independiente del deseo, ya que el deseo es por definición una preferencia subjetiva, y la verdad es por definición la conformidad de las ideas con las normas objetivas de la lógica y la realidad empírica. Decir que algo es verdad porque tú *quieres* que sea verdad es equiparar la subjetividad con la objetividad, que es una afirmación contradictoria.
 
 Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
 
