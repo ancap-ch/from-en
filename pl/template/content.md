@@ -1,10 +1,10 @@
-# Pierwszy nagłówek korzenia
+# Título da primeira raiz
 
 Pierwszy nagłówek katalogu głównego Poniżej znajduje się lista gotowych pangramów, które pokazują każdy znak, zarówno w języku angielskim, jak i w innych językach.
 
 1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
 2. numery: 0123456789. 
-3. symbole: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
+3. symbols: % $ & { } # ^ ~ \ (some other symbols are still missing)
 4. emphasys: *Szybki, brązowy lis przeskakuje nad leniwym psem.* 
     1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
     2. inner emphasys: **The *The quick, brown fox jumps over a lazy dog* dog.** 
@@ -51,6 +51,6 @@ Tekst na czwartym poziomie.
 
 Trochę tekstu na poziomie szóstym.
 
-[^1]: Footnote example. But this will point to yet another footnote.[^3]
+[^1]: Footnote example. But this will point to yet another footnote.
 
 [^2]: Druga notatka. Będzie mieć [inną stronę](https://example-another-website.com).
