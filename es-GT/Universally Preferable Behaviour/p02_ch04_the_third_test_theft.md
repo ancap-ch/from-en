@@ -36,15 +36,15 @@ Dado que poseemos nuestros cuerpos, también somos dueños inevitablemente de lo
 
 ### Propiedad y CUP
 
-Aún si rechacemos lo anterior, podemos todavía usar CUP para afirmar definitivamente la existencia de los derechos de propiedad universal.
+Incluso si rechazamos lo anterior, todavía podemos usar el CUP para definitivamente afirmar la existencia de los derechos universales de propiedad.
 
-Como mencionado anteriormente, o los seres humanos tienen derechos de propiedad, o no los tienen. Excepto por unas pocas áreas grises, que dentro de poco llegaremos a eso, esto permanece como una proposición universal.
+Como mencionamos anteriormente, o los humanos tienen derecho de propiedad, o no lo tienen. Excepto por algunas áreas grises, a las cuales llegaremos pronto, ésto se mantiene como una proporción universal.
 
-Si un hombre no tiene el derecho de usar la propiedad, entonces no tiene el derecho de usar su propio cuerpo. Él no tiene el derecho de utilizar sus pulmones, y por lo tanto debe dejar de respirar. Aunque esto suene tonto, eso es un resultado inmediato e inevitable de la premisa de que los seres humanos no tienen derechos de propiedad.
+Si un hombre no tiene el derecho de usar la propiedad, entonces no tiene el derecho de usar su propio cuerpo. Él no tiene el derecho de usar sus propios pulmones, y por lo tanto debe dejar de respirar. Aunque ésto suene tonto, es un inmediato e inevitable resultado de la premisa de que los seres humanos no tienen derechos de propiedad.
 
-Es completamente seguro asumir que cualquiera que está debatiendo contigo sobre los derechos de propiedad está respirando, y así está de acuerdo contigo sobre que él tiene el derecho de usar su propio cuerpo al menos.
+Es bastante seguro admitir que cualquiera con quien estés debatiendo sobre los derechos de propiedad está respirando, y así esté de acuerdo contigo de que al menos tiene el derecho de usar su propio cuerpo.
 
-Entonces surge la pregunta de si los seres humanos tienen, o no, el derecho al uso de propiedad *exclusivo*. Por ejemplo, propiedad puede ser definida como una especie de principio de tiempo compartido de posesión, en la medida que todos deberían tener el derecho de poseer todo, en algún programa u otro.
+Entonces surge la pregunta de si los seres humanos tienen o no el derecho *exclusivo* del uso de la propiedad. Por ejemplo, propiedad puede ser definida como una especie de principio de tiempo compartido de posesión, en la medida que todos deberían tener el derecho de poseer todo, en algún programa u otro.
 
 Esto por supuesto que significa que un hombre con cáncer de pulmón tiene el derecho de al menos un pulmón de una persona saludable. Como toda propiedad comienza con el cuerpo, si no tenemos el derecho a posesión exclusiva sobre nuestro propio cuerpo, entonces debemos compartir nuestro cuerpo con otras personas, o ser inmoral. El hombre enfermo tiene derecho sobre uno de nuestros pulmones, y si se lo retenemos, es exactamente lo mismo que robárselo. De manera similar, tanto tú como yo tenemos el derecho de utilizar la voz de cantante de Celine Dion, debido a que es bastante egoísta de su parte pretender que tiene la posesión exclusiva de ella.
 
