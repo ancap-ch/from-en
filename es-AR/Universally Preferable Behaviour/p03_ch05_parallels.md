@@ -1,6 +1,6 @@
-## Parallels
+## Paralelas
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Antes de la Revolución Científica, era considerado inconcebible que el mundo natural pudiese sustentarse a sí mismo sin una entidad consciente y "moral" como su centro. El sol se levantó arrastrando las cadenas de un carro sobrenatural; la luna era un frío y solitario hermano del sol. Las constelaciones delinearon los cuentos y las tumbas de los dioses, y las tormentas derivaron en la ira de los demonios.
 
 The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
 
@@ -58,7 +58,7 @@ The way to oppose imaginary entities is with relentless truth. The way to oppose
 
 The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
 
-### The Future
+### El futuro
 
 Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
 
