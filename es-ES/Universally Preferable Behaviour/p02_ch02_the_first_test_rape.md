@@ -142,9 +142,9 @@ Así, parecería que la única posibilidad lógica para la violación es que *no
 
 El hecho de que la estructura de UPB ha validado lógica y efectivamente la proposición moral de que la violación es maldad - no "buena," o "estéticamente preferible," o "personalmente preferible," o "moralmente neutral" - es una señal muy buena. Eso no prueba más allá de una sombra de duda que los UPB lógicamente validarán todas las proposiciones morales de "sentido común", pero el primer obstáculo ha sido superado y eso debería darnos un gran motivo de celebración. Si yo fuera un físico proponiendo una Teoría del Campo Unificado y la aplicación de mi teoría predijo correctamente dónde aterrizaría una pelota de béisbol que fue lanzada, yo podría con razón estar enormemente satisfecho.
 
-Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
+La teoría de la relatividad de Einstein predijo que la luz se curvaría alrededor de un pozo gravitacional - cuando esto fue confirmado por primera vez, eso no probó su teoría más allá de una sobra de duda, pero probó que la teoría *podía* ser verdad, lo que era un gran salto adelante. La primera validación es siempre la más difícil porque es muy fácil equivocarse y el error siempre supera a la precisión.
 
-The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+La estructura de UPB ha validado correctamente nuestra premisa moral de que la violación es maldad. Esto es un criterio necesario - pero no suficiente - para prueba y apoya completamente la investigación adicional. De esta manera, continuemos…
 
 [^1]: This is very different from a physical assault, which destroys your capacity for free choice.
 
