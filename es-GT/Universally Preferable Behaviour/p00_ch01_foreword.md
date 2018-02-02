@@ -46,11 +46,11 @@ Como escribí en mi libro anterior,"On Truth: The Tyranny of Illusion," la menti
 
 La razón por la que la moralidad moderna -y la moralidad a lo largo de la historia- siempre ha tenido que depender en primer lugar de la intimidación a los niños, y luego de la amenaza a los adultos, es que se trata de una mentira manipuladora disfrazándose de verdad virtuosa.
 
-La verdad es que necesitamos moralidad; la mentira es que los dioses o los gobiernos pueden definirla racionalmente o aplicarla justamente.
+La verdad es que necesitamos la moralidad; la mentira es que los dioses o los gobiernos pueden racionalmente definir o hacerla cumplir de forma justa.
 
-Mi meta en este libro es definir una metodología para validar teorías morales objetivas, consistentes, claras, racionales, empíricas - y * verdaderas*.
+Mi objetivo en este libro es definir una metodología para la validación de teorías morales que sean objetivas, consistentes, claras, racionales, empíricas - y *verdaderas*.
 
-Soy plenamente consciente de que, en este momento, es muy probable que sientan una creciente ola de escepticismo. Entiendo perfectamente que las probabilidades de que un tipo de Internet -el mundo del hogar de los locos- haya resuelto de alguna manera el problema filosófico de las edades no son particularmente altas, de hecho, estarían tan cerca de cero que prácticamente no podrían distinguirse de él.
+Soy plenamente consciente de que, en este momento, sentirán muy probablemente una creciente ola de escepticismo. Entiendo perfectamente que las probabilidades de que un tipo de Internet -el mundo del hogar de los locos- haya resuelto de alguna manera el problema filosófico de las edades no son particularmente altas, de hecho, estarían tan cerca de cero que prácticamente no podrían distinguirse de él.
 
 Aún así, no *son* cero.
 
