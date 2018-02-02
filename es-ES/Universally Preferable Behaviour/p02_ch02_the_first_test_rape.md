@@ -72,7 +72,7 @@ Sin embargo, con la violación, como hemos visto arriba, es imposible que dos pe
 
 Por otro lado, si yo digo que "tener gusto por el jazz" es una APA, entonces inmediatamente me tropiezo con una imposibilidad lógica. Recuerda, las APAs son normas no coercitivas que pueden ser aplicadas racionalmente a ambas partes a la vez - la formulación correcta para "tener gusto por el jazz" es: "preferencias subjetivas son universalmente preferibles."
 
-Esto no es únicamente una contradicción de rango en términos de sintaxis, sino que también inmediatamente falla la prueba de la UPB. Si yo prefiero el jazz ante todas las demás formas de música, pero tú prefieres la música clásica, y si las preferencias personales son universalmente preferibles, entonces tu deberías preferir el jazz porque yo lo hago y yo debería preferir la clásica porque tu lo haces. Esto, por supuesto, es imposible, porque eso requeriría que ambos *simultáneamente* prefiriéramos tanto el jazz como la música clásica sobre todas las demás formas de música. Tu deberías cambiar tu preferencia a jazz a causa de mi preferencia - pero yo debería a la vez cambiar mi preferencia a clásica a causa de tu preferencia. Esto es como decir que tu debería tanto lanzan como atrapar la misma pelota de béisbol exactamente al mismo tiempo - una imposibilidad lógica y física.
+Esto no es únicamente una contradicción de rango en términos de sintaxis, sino que también inmediatamente falla la prueba de UPB. Si yo prefiero el jazz ante todas las demás formas de música, pero tú prefieres la música clásica, y si las preferencias personales son universalmente preferibles, entonces tu deberías preferir el jazz porque yo lo hago y yo debería preferir la clásica porque tu lo haces. Esto, por supuesto, es imposible, porque eso requeriría que ambos *simultáneamente* prefiriéramos tanto el jazz como la música clásica sobre todas las demás formas de música. Tu deberías cambiar tu preferencia a jazz a causa de mi preferencia - pero yo debería a la vez cambiar mi preferencia a clásica a causa de tu preferencia. Esto es como decir que tu debería tanto lanzan como atrapar la misma pelota de béisbol exactamente al mismo tiempo - una imposibilidad lógica y física.
 
 Ya que las APAs no son aplicables a través de la violencia - tú no puedes disparar a un hombre por llegar tarde - entonces la violación *no puede* ser una APA, puesto que violación por definición es un ataque sexual forzado mediante la violencia.
 
@@ -84,7 +84,7 @@ Tal vez la violación es similar a una preferencia meramente personal.[^2]
 
 Entonces surge la pregunta: ¿puede la clasificación de violación como una preferencia meramente personal hacer frente al escrutinio lógico?
 
-Si proponemos la regla moral: "las preferencias personales deben ser violentamente infligidas a entras personas," ¿cómo hace eso frente a la estructura de la UPB?[^3]
+Si proponemos la regla moral: "las preferencias personales deben ser violentamente infligidas a entras personas," ¿cómo hace eso frente a la estructura de UPB?[^3]
 
 Las preferencias personales no pueden ser justamente infligidas a otras personas porque eso crearía una paradoja lógica insuperable.
 
@@ -128,7 +128,7 @@ Además, ya que hay veces que es físicamente imposible violar a alguien - por e
 
 El violador puede justificar sus acciones evitando la proposición "la violación es buena," y en cambio sustituyendo otra proposición que apoya su deseo de violar, como: "es moral tomar el placer propio, sin importar que a otros no les plazca."
 
-Esta proposición también falla la prueba lógica más básica de UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+Esta proposición también falla la prueba lógica más básica de UPB. Si Bob cree que debería tomar su propio placer violando a Doug - independientemente del desagrado de Doug - entonces Bob no puede elevar racionalmente su preferencia a un UPB.
 
 If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
 
