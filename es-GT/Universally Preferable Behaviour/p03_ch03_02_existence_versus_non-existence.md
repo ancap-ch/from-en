@@ -36,14 +36,14 @@ En primer lugar,"voluntad" es un aspecto del individuo, mientras que "mayoría" 
 
 Dos objeciones adicionales recurren constantemente cada vez que surge la cuestión de la necesidad de un gobierno. La primera es que una sociedad libre sólo es posible si las personas son perfectamente buenas o racionales, es decir, que los ciudadanos *necesitan* un gobierno centralizado porque hay personas malvadas en el mundo.
 
-El primer y más obvio problema con esta posición es que si las personas malvadas existen en la sociedad, también existirán dentro del gobierno, y por lo tanto serán mucho más peligrosas. Los ciudadanos pueden protegerse contra los individuos malvados, pero no tienen ninguna oportunidad contra un gobierno agresivo armado hasta los dientes con la fuerza policial y militar. Por lo tanto, el argumento de que necesitamos al gobierno porque la gente mala existe es falso. Si las personas malvadas existen, el gobierno *debe* ser desmantelado, ya que las personas malvadas serán atraídas a usar su poder para sus propios fines, y, a diferencia de los matones privados, las personas malvadas en el gobierno tienen la policía y los militares para infligir sus caprichos en una población indefensa (y relativamente desarmada). Por lo tanto, el argumento es similar a la idea de que "los falsificadores son muy peligrosos, por lo que deberíamos otorgar un monopolio exclusivo sobre la falsificación a un pequeño grupo de individuos". ¿En qué lugar en la tierra la gente cree que los falsificadores van primero? [^5]
+El primer y más obvio problema con esta posición es que si las personas malvadas existen en la sociedad, también existirán dentro del gobierno, y por lo tanto serán mucho más peligrosas. Los ciudadanos pueden protegerse contra los individuos malvados, pero no tienen ninguna oportunidad contra un gobierno agresivo armado hasta los dientes con la fuerza policial y militar. Por lo tanto, el argumento de que necesitamos al gobierno porque la gente mala existe es falso. Si las personas malvadas existen, el gobierno *debe* ser desmantelado, ya que las personas malvadas serán atraídas a usar su poder para sus propios fines, y, a diferencia de los matones privados, las personas malvadas en el gobierno tienen la policía y los militares para infligir sus caprichos en una población indefensa (y relativamente desarmada). Así pues, el argumento se asemeja a la idea de que "los falsificadores son muy peligrosos, por lo que deberíamos otorgar un monopolio exclusivo sobre la falsificación a un pequeño grupo de personas". ¿Adónde demonios cree la gente que irán los falsificadores primero?[^5]
 
 Lógicamente, hay cuatro posibilidades en cuanto a la mezcla de personas buenas y malas en el mundo:
 
 1. Todos los hombres son morales.
 2. Todos los hombres son inmorales.
-3. La mayoría de los hombres son inmorales y una minoría moral.
-4. La mayoría de los hombres son morales, y una minoría inmoral. [^6]
+3. La mayoría de los hombres son inmorales y una minoría morales.
+4. La mayoría de los hombres son morales, y una minoría Inmorales<sup id="fnref:6"><a href="#fn:6" class="footnote-ref"></a></sup>
 
 En el primer caso (* todos los hombres son morales *), el gobierno obviamente no es necesario, ya que el mal no puede existir.
 
