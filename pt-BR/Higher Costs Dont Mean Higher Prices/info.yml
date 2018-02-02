@@ -4,9 +4,9 @@ content_files:
     - essay.md
     - ""
 translation:
-  language: en
+  language: pt-BR
   is_translation: true
-  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/Higher Costs Dont Mean Higher Prices"
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/pt-BR/Higher Costs Dont Mean Higher Prices"
   fetch_translators: true
   fetch_reviwers: true
   fetch_progress: true
@@ -17,7 +17,7 @@ titles:
 discussions:
   - 
     - https://en.ancap.ch/t/5
-    - Ancap Channel
+    - https://en.ancap.ch/t/5
 more_infos:
   - 
     - https://www.google.com
