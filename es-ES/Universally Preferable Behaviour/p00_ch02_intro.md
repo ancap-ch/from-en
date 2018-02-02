@@ -96,11 +96,11 @@ Cuando nos curamos de una enfermedad, nos sentimos mejor, pero no la enfermedad.
 
 En el mismo sentido, los parásitos que estrangulan a la humanidad ven la libertad de la mayoría con horror. Ya que su parasitismo los libera de las demandas de la realidad - Para ganar el pan de cada día - ellos inevitablemente ven la libertad de las masas como una forma de esclavizarse a si mismos. Así, un granjero varia la "liberación" de su ganado como un desastre total…
 
-Establecer la verdad necesariamente limita con la fantasia. Limitar la fantasia necesariamente limita con la explotación. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+Establecer la verdad necesariamente limita con la fantasia. Limitar la fantasia necesariamente limita con la explotación. Si puedo convencerte de que yo soy un dios hecho hombre, y que el Dios que me dio a luz quiere que me des el diez por ciento de tus ingresos, o seras castigado por la eternidad, entonces yo me haré extremadamente rico. Soy un parásito de las ilusiones y dependo de esas ilusiones para mi sustento seguro, como los hongos dependen del calor, la humedad - y la oscuridad.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+Aquellos que usan fantasías morales para explotar la humanidad, siempre han luchado con uñas y dientes contra quienes amenazan su forma de vida al descubrir y difundir la verdad.
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+Estamos familiarizados con el ejemplo de la Mafia, que amenaza a rivales potenciales con mutilaciones y muerte, o el espectáculo de sectas religiosas atacándose entre ellas, o un gobierno atacando a otro.
 
 When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
 
