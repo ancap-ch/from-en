@@ -8,7 +8,7 @@ The “argument from practicality” in no way solves the problem of violence. I
 
 Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
 
-Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
+Ponadto, jeśli przedstawiciele rządu twierdzą, że umowa społeczna pozwala im zmusić "niepraktyczną" populację do bardziej "praktycznego zachowania", powstaje niesprawiedliwa sprzeczność.
 
 Jeśli zmuszę kobietę, by poślubiła mężczyznę, którego dla niej wybrałem, to wyraźnie uważam, że mam nieskończenie lepszy osąd o stosowności męża dla niej niż ona. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
 
