@@ -21,7 +21,7 @@ Powiedzmy, że ty i ja prowadzimy debatę na temat istnienia Boga. After I put f
 
 ### Lying
 
-Powiedzmy, że ty i ja ustalamy reguły debaty i obaj zgadzamy się osądzać kwestię istnienia Boga zgodnie z rozumem i dowodami. Jeśli, podczas debaty, powrócisz do pozycji ślepej wiary i odrzucisz moje argumenty *pomimo* ich racjonalności i dowodów, nie dotrzymasz słowa. In other words, you were lying when you said that the question would be decided by reason and evidence.
+Powiedzmy, że ty i ja ustalamy reguły debaty i obaj zgadzamy się osądzać kwestię istnienia Boga zgodnie z rozumem i dowodami. Jeśli, podczas debaty, powrócisz do pozycji ślepej wiary i odrzucisz moje argumenty *pomimo* ich racjonalności i dowodów, nie dotrzymasz słowa. Innymi słowy, kłamałeś, kiedy mówiłeś, że pytanie zostanie rozstrzygnięte przez rozsądek i dowody.
 
 The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. Jeśli, z drugiej strony, zgodzisz się spłacić pieniądze w ciągu roku, a potem nie uda ci się tego zrobić, to jest zupełnie inna sytuacja.
 
