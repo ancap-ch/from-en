@@ -1,20 +1,20 @@
-## La Quinta Prueba: Mintiendo
+## La Quinta Prueba: Mentir
 
-La pregunta de *mintiendo* es interesante porque decir la verdad se considera universalmente preferible, pero no se puede forzar a través de la violencia.
+La pregunta de *mentir* es interesante porque decir la verdad es generalmente considerado como universalmente preferible, pero no aplicable mediante la violencia.
 
-Generalmente es considerado *más* de un requerimiento estricto que "estar a tiempo", pero *menos* estricto que "robar." ¿Qué tiene que decir el cuadro de trabajo de el UPB sobre esto?
+Es generalmente considerado *más* como un requerimiento estricto que "llegar a tiempo", pero *menos* estricto que "robar." ¿Qué tiene el marco de UPB que decir con respecto a esto?
 
-Naturalmente, cualquier teoría moral que propone que "mentir es bueno" inmediatamente se autodestruye, ya que si el hombre que la propone *esta* mintiendo - lo cual es bueno - entonces mentir es malo, porque él ha dicho la verdad de que mentir es malo.
+Naturalmente, cualquier teoría moral que propone que "mentir es bueno" inmediatamente se autodestruye, ya que si el hombre proponiéndola *está* mintiendo - lo cual es bueno - entonces está mal, porque él ha dicho la verdad de que mentir está mal.
 
 Por ejemplo:
 
 **Bob:** Mentir siempre es bueno.
 
-**Doug:** ¿Estás mintiendo?
+**Doug:** Estás mintiendo?
 
-**Bob:** Si.
+**Bob:** Sí.
 
-**Doug:** Entonces mentir debe ser malo, dado que tú estas mintiendo sobre que eso es bueno.
+**Doug:** Entonces mentir debe ser malo ya que estás mintiendo acerca de que es bueno.
 
 O:
 
