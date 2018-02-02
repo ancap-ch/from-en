@@ -134,9 +134,9 @@ Si todos deberían tomar su placer propio independientemente del *des*agrado de 
 
 De este modo Doug le puede decir a Bob: " Es moralmente bueno para mí violarte, porque las preferencias personales pueden ser aplicadas violentamente." Bob, por supuesto, puede responder: "Entonces es moralmente bueno para mí resistirme violentamente a tu ataque, puesto que mi preferencia personal de no ser violado puede también ser aplicada violentamente."
 
-Por supuesto, pocos violadores son filósofos pero, como mencionamos arriba, el principal peligro para los seres humanos no es el individuo criminal sino las teorías irracionales y de explotación moral. For instance, incarceration is inevitably justified through an appeal to a moral theory – and incarceration causes far more people to be raped than private criminals could ever dream of. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
+Por supuesto, pocos violadores son filósofos pero, como mencionamos arriba, el principal peligro para los seres humanos no es el individuo criminal sino las teorías irracionales y de explotación moral. Por ejemplo, el encarcelamiento es inevitablemente justificado a través de una apelación a una teoría moral - y el encarcelamiento causa que mucha más gente sea violada de lo que los criminales privados podrían alguna vez soñar. Si la teoría moral que justifica el encarcelamiento es incorrecta, entonces *corregir* esta teoría moral debería ser por mucho la mayor preocupación de cualquier persona que desee reducir la prevalencia de la violación.
 
-Thus it would seem that the only logical possibility for rape is that *not* raping is universally preferable behaviour – or that rape is universally banned behaviour.
+Así, parecería que la única posibilidad lógica para la violación es que *no* violar es un comportamiento universalmente prefererido - o que la violación es un comportamiento prohibido universalmente.
 
 ### Whew!
 
