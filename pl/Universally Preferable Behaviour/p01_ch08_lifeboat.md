@@ -52,7 +52,7 @@ Zostało to wykorzystane jako podstawa wielu etycznych teorii i podejść, od Ni
 
 This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
 
-To wprowadza także całkowicie nienaukowy subiektywizm do kwestii moralności. Na przykład, jeśli moralnie dopuszczalna jest kradzież jedzenia w momencie, gdy umierasz z głodu, ile jedzenia możesz ukraść? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? Jak długo po kradzieży jednego posiłku możesz ukraść kolejny posiłek? Czy wolno ci kraść posiłki zamiast szukać pracy lub apelować do organizacji charytatywnej?
+To wprowadza także całkowicie nienaukowy subiektywizm do kwestii moralności. Na przykład, jeśli moralnie dopuszczalna jest kradzież jedzenia w momencie, gdy umierasz z głodu, ile jedzenia możesz ukraść? How hungry do you have to be? Can you steal food that is not nutritious? Jak ważne jest jedzenie w celu uzasadnienia kradzieży? Jak długo po kradzieży jednego posiłku możesz ukraść kolejny posiłek? Czy wolno ci kraść posiłki zamiast szukać pracy lub apelować do organizacji charytatywnej?
 
 Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
 
