@@ -36,7 +36,7 @@
 
 在道德领域也是如此。
 
-### The Casualties
+### 伤亡者
 
 跨越这个“零地域”充满了危险。 小道理通往大真理的道路是由百万骨头堆砌而成的。 从苏格拉底之死到宗教狂热者对早期科学家的酷刑，再到数以百万计的人被谋杀、为法西斯主义和共产主义的黑色幻想而献身的人，任何人类知识的向前推动进入“零地域”都充满了相当大的危险。
 
@@ -52,9 +52,9 @@
 
 简单的事实是，“神父”和“国王”曾是—现在是—而且仅仅是男人。简单的事实是，上帝和魔鬼从未存在过，但他们理应为他们的统治辩护。
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+我们在理解人类平等的本质和现实上取得了长足进步，但令人悲哀的事实是，*道理*领域仍迷失在“零区域”—是对“中间真理”的破坏性幻想。
 
-### "Middle Truths"
+### “中间真理”
 
 Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
 
