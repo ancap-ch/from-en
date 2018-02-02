@@ -16,7 +16,7 @@ Ang publikong mga lisensiya sa Malikhaing Mga Karaniwan ay nagbibigay ng pamanta
 
 Sa pagsasanay sa Mga Lisensiyadong Karapatan (binigyang kahulugan sa ibaba). Ikaw ay tumanggap at sumang-ayon na mapabilang sa mga termino at mga kondisyon nitong Katangian ng Mga Malikhaing Mga Karaniwan-ShareAlike 4.0 na Internasyonal na Publikong Lisensiya ("Publikong Lisensiya"). Sa lawak nitong Publikong Lisensiya ay maaring ma-interpreta bilang isa kontrata, Ikaw ay binigyan ng mga Lisensiyadong Karapatan ayon sa konsiderasyon ng Iyong pagtanggap sa mga termino at kondisyong ito, at ang Tagalisensiya ay binibigyan Ka ng nasabing mga karapatan ayon sa konsiderasyon ng mga pakinabang na ang natanggap ng Tagalisensiya mula sa paggawa ng mga Lisensiyadong Materyal na magagamit sa ibaba ng mga termino at kondisyong ito.
 
-### Seksyo 1 – Mga Kahulugan.
+### Seksyon 1 – Mga Kahulugan.
 
 a. Ang **Nakupkop na Materyal** ay nangangahulugan na ang materyal ay naayon sa Karapatang Makapaglathala at ng Similar na Mga Karapatan na pinanggagalingan mula o binase sa Lisensyadong Materyal at kung saan ang Lisensiyadong Materyal ay naisalin, nabago, naisaayos, iniba ang anyo, o kung hindi may ay namodipika sa paraan na nangangailangan ng permisyon sa ibaba ng Karapatang Makapaglathala at mga Similar na Karapatan na hawak ng mga Tagalisensiya. Para sa mga layunin nitong Publikong Lisensiya, kung saan ang Lisensiyadong Materyal ay isang gawa ng musika, performans, o pagrekord ng tunog, ang Kinupkop na Materyal ay palaging magagawa kung saan ang Lisensiyadong Materyal ay nakasync ayon sa naka-oras na relasyon sa paggalaw ng imahe.
 
