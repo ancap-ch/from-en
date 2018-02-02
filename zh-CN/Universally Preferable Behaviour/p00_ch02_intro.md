@@ -64,7 +64,7 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 因为它们不仅是非理性的，而且是*反*理性的，“中间真理”仍然是无限灵活的—只要它们为掌权者服务。 例如，基督教产生的部分原因是因为通过抨击已有神学的“原始”迷信使得罗马帝国晚期不断增长的法西斯主义。 “忘掉你的旧神，我们有一个崭新的神，他比旧神好太多了！”
 
-“中间真理”总以真理的形式出现，并紧随着一个谎言。 “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+“中间真理”总以真理的形式出现，并紧随着一个谎言。 “宙斯是一个异教徒”是一个真实的陈述，这是基督教徒公开地布道。 紧随其后的谎言是：“耶和华不是一个异教徒，而是一个真正的活生生的神。”
 
 We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
 
