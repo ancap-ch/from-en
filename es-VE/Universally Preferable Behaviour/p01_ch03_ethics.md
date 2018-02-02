@@ -48,8 +48,8 @@ Si yo te presento una prueba matemática compleja, y tú te das cuenta de que en
 
 De manera similar, como ya mencioné antes, si vengo ante ti y digo: "Yo no existo," mi tesis automáticamente se destruye a sí misma. Si yo puedo comunicarte que no existo, entonces claramente existo.
 
-Si voy a ti y digo: "No hay tal cosa como la verdad," entonces estoy haciendo una declaración que considero verdadera alegando que la verdad no existe. De nuevo, mi argumento se autodestruye.
+Si yo vengo a ti y digo: "No hay tal cosa como la verdad," entonces estoy haciendo una declaración que considero ser verdad alegando que la verdad no existe. Otra vez, mi argumento se destruye así mismo.
 
-Si te digo que "El lenguaje no tiene significado," entonces también me contradigo a mí mismo. A fin de poder comunicarte verbalmente que el lenguaje no tiene significado, el lenguaje tiene que tener al menos algún significado.
+Si yo te digo que "El lenguaje no tiene sentido"," entonces me contradigo a mi mismo. Para que yo pueda comunicar verbalmente que el lenguaje no tiene sentido, el lenguaje debe tener al menos algún significado.
 
-Si te digo que "Tus sentidos son inválidos," entonces mi argumento se autodestruye, ya que estoy usando tu sentido del oído para comunicarte que tu sentido del oído es inválido. Si puedo comunicarte con éxito mi tesis, entonces tu sentido del oído debe ser válido. Por lo tanto debo asumir que tus sentidos son válidos para poder convencerte de que tus sentidos son inválidos, lo cual no puede sostenerse.
+Si yo te digo que "Tus sentidos son inválidos"," entonces mi argumento también se destruye así mismo, ya que estoy usando el sentido del oído para comunicarte que tu sentido del oído es inválido. Si yo te he comunicado de manera exitosa mi tesis, entonces tu sentido del oído debe ser válido. Por lo tanto yo debo asumir que tus sentidos son válidos para convencerte de que tus sentidos no son válidos, lo cual no puede sostenerse.
