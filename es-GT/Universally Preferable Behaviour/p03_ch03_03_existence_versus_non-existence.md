@@ -1,4 +1,4 @@
-### Governments And Religion
+### Gobierno y Religión
 
 La idea de que nacer crea un contrato con una agencia ficticia, lo que en términos prácticos lo convierte a uno en casi un esclavo para algunos individuos, es un algo que tienen en común la religión y el Estado - y otra, una agencia mucho más personal, de la cual hablo en mi primer libro “Sobre la verdad: La tiranía de la Ilusión.”
 
@@ -56,7 +56,7 @@ Einstein revolucionó la Física asegurando - y probando - que la velocidad de l
 
 Podemos revolucionar el mundo aceptando la premisa - y la prueba - de que robar siempre es malo.
 
-### Government, Religion, And UPB
+### Gobierno, Religión y CUP
 
 Cuando tomamos la infraestructura UPB y la aplicamos a las premisas morales de acuerdo con el gobierno y la religión, obtenemos algunos resultados muy interesantes.
 
