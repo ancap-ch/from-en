@@ -24,7 +24,7 @@ La verdadera realidad sobre la declaración "el error es igual a la verdad" es l
 
 La razón por la que hemos durado tanto tiempo lidiando con la teoría del "universo alternativo" es que tiene una relevancia directa para la sociedad humana, y se utiliza para "justificar" los males mayores que cometemos entre nosotros.
 
-En nuestra experiencia personal, sabemos que el asesinato es incorrecto. Al trabajar a través de la proposición de que el asesinato es moralmente incorrecto en los ejemplos anteriores, dudo mucho que alguien se sorprendiera al ver sus instintos morales confirmados a través del estricto razonamiento abstracto de la CUP. En esta sección, sin embargo, oficialmente está permitido que empieces a estar verdaderamente conmocionado.
+En nuestra experiencia personal, sabemos que el asesinato no esta bien. Al trabajar a través de la proposición de que el asesinato es moralmente incorrecto en los ejemplos anteriores, dudo mucho que alguien se sorprendiera al ver sus instintos morales confirmados a través del estricto razonamiento abstracto de la UPB. En esta sección esta oficialmente permitido que empieces a estar verdaderamente conmocionado.
 
 Los mayores avances en la comprensión científica son las llamadas "teorías unificadoras". Einstein pasó décadas tratando de elaborar una teoría de campo unificada; y las teorías de la física que unen fuerzas fuertes y débiles, el electromagnetismo, la gravedad, etc., siguen siendo difíciles de alcanzar.
 
