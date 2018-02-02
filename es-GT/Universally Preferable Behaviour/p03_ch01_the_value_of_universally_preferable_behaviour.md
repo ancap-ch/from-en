@@ -1,9 +1,9 @@
 ## El Valor del Comportamiento Universalmente Preferible
 
-A new theory is of precious little value if it only points out the obvious. Si la Física solamente brindó una descripción precisa de cómo atrapamos una pelota, entonces la Física no sería una actividad que valiera la pena, porque nosotros ya *podemos* atrapar una pelota. Descubrir que el mundo es redondo solo ayuda en las navegaciones de larga distancia a través del mar - eso no nos ayuda a llegar a la plaza. La mecánica cuántica solo se convierte útil cuando otras metodologías no pueden proveer la precisión necesaria - eso no ayuda a construir un carro.
+Una nueva teoría es de un valor muy pequeño pero valioso si solo puntúa a lo obvio. Si la físicasolo brindara una acertada descripción de como atrapamos una pelota, entonces la física no sería una actividad que valiera la pena, porque ya *podemos* atrapar una pelota. Descubrir que el mundo es redondo solo ayuda a la navegaciones a través del oceano - esto no nos ayuda a llegar al centro de la ciudad mientras que las mecánicas cuánticas solo nos son utiles cuando nuestras metodologías no nos pueden ayudar con esa precisión - pero no nos ayudan a construir un automóvil.
 
-In the same way, the UPB framework, and the moral rules that it validates or rejects, should ideally provide us with some startling insights about the world that we live in, and our relations to each other.
+De la misma manera, el marco de campo del CUP, y las reglas morales validan y rechazan, deben proporcionarnos con algunas ideas sorprendentes sobre el mundo en el cuál vivimos, y las relaciones d los unos con los otros.
 
-If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
+Si el CUP fuera hecho para probar que una violación, un asesinato y el robo son moralmente incorrectos, no se le añadiría a este mucho valor, ya que casi nadie cree que esas cosas son moralmente correctas.
 
-Así permíenos iniciar la aplicación de esta estructura al mundo en el que vivimos y observar que valores salen de eso.
+De esta manera nos permite comenzar aplicando este marco de campo en el mundo en el cual vivimos, y nos permite observar los valores de esto.
