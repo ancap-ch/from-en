@@ -88,17 +88,17 @@ La fuerza abierta involucrada en la institución del gobierno - el envoltorio co
 
 Sin embargo estas son puras tonterías.
 
-Si un hombre sostiene un cuchillo en el cuello de una mujer mientras tiene relaciones sexuales con ella, eso es por definición, un acto de violación. El no puede decir que el sexo es acordado, mientras que al mismo tiempo la amenaza con lesiones o muerte si se niega a tener relaciones sexuales con él. Si el sexo es voluntario, entonces el cuchillo es completamente innecesario. Si el hombre siente la necesidad de un cuchillo, entonces claramente el sexo * no * es voluntario.
+Si un hombre sostiene un cuchillo en el cuello de una mujer mientras tiene relaciones sexuales con ella, eso es por definición, un acto de violación. El no puede decir que el sexo es acordado, mientras que al mismo tiempo la amenaza con lesiones o muerte si se niega a tener relaciones sexuales con él. Si el sexo es voluntario, entonces el cuchillo es completamente innecesario. Si el hombre siente la necesidad de utilizar un cuchillo, entonces claramente el sexo *no* es voluntario.
 
-De esa misma forma, las personas dicen que los impuestos son parte del contrato social que voluntariamente han acordado.
+De la misma manera, las personas que dicen que el cobro de impuestos forma parte del contrato social que voluntariamente se ha acordado.
 
-Esto es lógica y empíricamente falso.
+Esto es lógico y empíricamente falso a la vez.
 
-Sabemos que es empíricamente falso porque * no existe un contrato social *. Ni usted ni yo * alguna vez * firmamos un documento que acepta voluntariamente el impuesto a la renta, simplemente nacimos en un sistema que nos quita nuestro dinero a punta de pistola.
+Sabemos que es empíricamente falso porque *no existe un contrato social*. Ni usted ni yo *alguna vez* firmamos un documento donde se acepte voluntariamente el impuesto sobre la renta, simplemente nacimos en un sistema que nos quita nuestro dinero a punta de pistola.
 
-### El arma en la habitación
+### La Pistola En La Habitacion
 
-Mucha gente argumentará en este punto que los impuestos no se aplican a punta de pistola, sino que la gente los paga voluntariamente. Por ejemplo, un recaudador de impuestos o un policía nunca me han apuntado con una pistola en la cara, pero he pagado impuestos durante décadas.
+Mucha gente discutirá en este punto que los impuestos no se aplican a punta de pistola, sino que la gente los paga voluntariamente. Por ejemplo, un recaudador de impuestos o un policía nunca me han apuntado con un arma en la cabeza, pero he pagado impuestos durante décadas.
 
 Esto puede ser cierto, pero es completamente irrelevante. Si le digo a una mujer que voy a matar a sus hijos si ella no tiene relaciones sexuales conmigo, y ella se somete a mí, entendemos claramente que se ha llevado a cabo una acción inmoral, a pesar de que no he usado ningún arma en mi violación. Claramente, si la mujer se somete a mí, es porque teme que lleve a cabo mi amenaza. Si le digo que mi duende leprechaun matará a sus hijos si no tiene relaciones sexuales conmigo, es muy probable que la moleste, pero no temería a mi amenaza de forma significativa, ya que es imposible que mi duende leprechaun mate a sus niños. O, si yo moría, y mi testamento declaraba que yo mataría a los hijos de esta mujer si ella no tenía relaciones sexuales conmigo, es evidente que se sentiría aliviada en lugar de temer, ya que no puedo concebir mi amenaza más allá de la tumba. Por lo tanto, pagamos impuestos porque sabemos que si no lo hacemos, la probabilidad de ser atacados por representantes del estado es muy alta. Si no pago mis impuestos, recibiré una carta, luego otra carta, luego una llamada telefónica, luego una citación judicial, y si no comparezco ante el tribunal, o no pago mis impuestos atrasados y las multas e intereses acumulados, los policías vendrán con pistolas para llevarme a la cárcel. Si me opongo a esos policías, me dispararán.
 
