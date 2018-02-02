@@ -1,10 +1,10 @@
-# İlk kök başlığı
+# Título da primeira raiz
 
 Aşağıda her karakteri hem İngilizce olarak hem de diğer dillerde bulunduran, stil sahibi bir pangramın numaralandırılmış bir listesi bulunmaktadır.
 
 1. büyük harf: HIZLI, KAHVERENGİ TİLKİ TEMBEL KÖPEĞİN ÜZERİNDEN ATLAR. 
 2. rakamlar: 0123456789. 
-3. semboller: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
+3. symbols: % $ & { } # ^ ~ \ (some other symbols are still missing)
 4. vurgu: *Hızlı, kahverengi tilki tembel bir köpeğin üzerinden atlar.* 
     1. güçlü vurgulama:**Hızlı, kahverengi tilki tembel köpeğin üzerinden atlar.**
     2. içten vurgulama: *** Hızlı, kahverengi tilki tembel bir köpeğin* üzerinden atlar.** 
@@ -54,6 +54,6 @@ Aşağıda her karakteri hem İngilizce olarak hem de diğer dillerde bulunduran
             
             6. seviyedeki bazı metinler.
             
-            [^1]: Dipnot örneği. Ama bu başka bir dipnotu işaret eder.[^3]
+            [^1]: Footnote example. But this will point to yet another footnote.
         
         [^2]: 2. dipnot. [Başka bir websitesi](https://example-another-website.com) olacak.</0>.
