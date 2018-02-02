@@ -36,4 +36,4 @@ La diferencia es que "llegar tarde" no es tan activamente destructivo como menti
 
 Atacar tu confianza a tu propia mente[^5] es mucho más grave que simplemente hacerte esperar, ya que es el acto de usar la confianza de otro en tí para debilitar su confianza en sí mismo, lo cual es altamente corrupto, puesto que eso es *usar* un valor para debilitar un valor, como falsificación. Así es como la UPB valida la proposición ilógica "mentir es bueno," y confirma que el acto de mentir a alguien es peor que "llegar tarde," pero mejor que un "asalto."
 
-[^5]: Algunas veces llamado "iluminación de gas" después de la vieja película.
+[^5]: Algunas veces llamado "iluminación de gas," después de la película vieja.
