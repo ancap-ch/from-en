@@ -4,13 +4,13 @@ Ahora que entendemos la naturaleza de los argumentos contraproducentes, podemos 
 
 Las Preferencias son fundamentales para cualquier metodología que intente definir el valor real de las proposiciones. El método científico, por ejemplo, es definido en gran parte por preferencias innatas de consistencia lógica y verificación empírica. Para la ciencia, la premisa es: *si* usted desea determinar una verdad válida sobre el comportamiento de la materia y la energía, es *preferible* usar el método científico.
 
-En este sentido, "preferible" no significa "algo mejor," sino "requerido." *Si* usted desea vivir, entonces es *universalmente preferible* que usted se abstenga de comer un puñado de arsénico. *Si* usted quiere determinar verdades válidas sobre la realidad, entonces es *universalmente preferible* que sus teorías sean ambas internamente consistentes y empíricamente verificables. "Universalmente preferible," entonces, se traduce como "objetivamente requerido," pero mantendremos la palabra "preferible" para diferenciar entre los absolutos humanos opcionales y los absolutos físicos no opcionales como la gravedad.
+En este sentido, "preferible" no significa "algo mejor," sino "requerido." *Si* usted desea vivir, entonces es *universalmente preferible* que usted se abstenga de comer un puñado de arsénico. *Si* usted quiere determinar verdades válidas sobre la realidad, entonces es *universalmente preferible* que sus teorías sean ambas internamente consistentes y empíricamente verificables. "Universalmente preferible," entonces, se traduce como "requerido objetivamente," pero mantendremos la palabra "preferible" para diferenciar entre los absolutos humanos opcionales y los absolutos físicos, no opcionales, como lo es la ley de la gravedad.
 
-De manera similar, si las teorías éticas pueden ser válidas en lo absoluto, entonces deben *al menos* ser consistentes tanto interna como externamente. En otras palabras, una teoría ética que se contradiga a sí misma no puede ser válida – y una teoría ética que contradiga evidencia empírica y preferencias casi-universales tampoco puede ser válida.
+De manera similar, si las teorías éticas pueden ser del todo válidas, entonces ellas deben *al menos* ser internamente y externamente consistentes. En otras palabras, una teoría ética que se contradiga a sí misma no puede ser válida, y una teoría ética que contradiga evidencia empírica y preferencias cercanas a las universales tampoco puede ser válida.
 
-Así en la ética, tal como en la ciencia, matemáticas, ingeniería y todas las otras disciplinas que comparan teorías con la realidad, *las teorías válidas deben ser tanto lógicamente consistentes como empíricamente verificables*.
+En consecuencia la Ética, tal como en la ciencia, las matemáticas, la ingeniería y todas las disciplinas que comparan teorías con la realidad, *teorías válidas deben cumplir con ambas estados: ser lógicamente consistentes y empíricamente verificables*.
 
-### Preferencias Y Existencia
+### Preferencias y Existencia
 
 Si yo digo "Me gusta el helado," solo una palabra permanece ambigua en esa frase. Claramente "Me" existe, ya que estoy expresando una preferencia personal. Igualmente claramente, "el helado" también existe en la realidad. Sin embargo, la palabra "gusta" es más problemática.
 
