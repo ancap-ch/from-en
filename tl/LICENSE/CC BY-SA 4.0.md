@@ -60,13 +60,13 @@ a. ***Pagkaloob ng Lisensiya.***
 
 4. **Medya at mga pormat; teknikal na modipikasyon ay pinapahintulutan.** Ang Tagalisensiya ay nagbibigay ng awtorisasyon sa Iyo upang masanay ang mga Lisensyadong Karapatan sa lahat ng medya at mga pormat kahit kilala ngayon o pagkatapos pa nagawa, at upang makagawa ng teknikal na mga modipikasyon na kinakailangan gawin. Ang Tagalisensiya ay nag-aatras at/o nagsasang-ayon na hindi i-alay ang kahit anong mga karapatan o awtoridad upang mabawalan Ka sa paggawa ng teknikal na mga modipikasyon na kinakailangan upang masanay ang Mga Lisensyadong Karapatan, kasali na ang teknikal nga mga modipikasyon na kinakailangan upang masirkumbent ang Mga Epektibong Teknolohikang Hakbang. Para sa mga layunin nitong Publikong Lisensiya, ang simpleng paggawa ng mga modipikasyon na binigyan ng awtorisasyon ng Section 2(a)(4) ay hindi kailanman magbubunga ng Nakupkop na Materyal.
 
-5. **Pababangstream na mga tagatanggap.**
+5. **Pagdownstream na mga tagatanggap.**
     
-    A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+    A. **Alok mula sa Tagapaglisensiya – Lisensiyadong Materyal.** Kada tagatanggap ng Lisensiyadong Materiyal ay awtomatikong makakatanggap ng isang alok mula sa Tagapaglisensiya upang masanay ang Mga Lisensyadong Karapatan sa loob ng mga termino at kondisyon nitong Publikong Lisensiya.
     
-    B. __Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.
+    B. ___Karagdagang alok mula sa Tagapaglisensiya – Nakupkop na Materyal. Kada tagatanggap ng Nakupkop na Materyal mula sa Iyo ay awtomatikong makakatanggap ng isang alok mula sa Tagapaglisensiya na makapagsanay sa Mga Lisensiyadong Karapatan sa loob ng Nakupkop na Materyal sa ibaba ng mga kondisyon ng Lisensiya ng Nagkupkop na Iyong naipalagay.
     
-    C. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+    C. **Walang restriksyon ng pag-downstream.** Ikaw ay hindi maaring makapag-alok o maglapat ng kahit anong karagdagan o ibang mga termino at kondisyon sa, o magtalaga ng kahit anong Epektibong Teknolohikal na Hakbang sa, Lisensiyadong Materyal kung ang paggawa nito ay pinahihigpitan sa pagsasagawa ng Mga Lisensiyadong Karapatan ng kahit anong mga tagatanggap ng Lisensiyadong Materyal.
 
 6. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
