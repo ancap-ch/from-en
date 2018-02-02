@@ -100,68 +100,68 @@ Sabemos que es empíricamente falso porque *no existe un contrato social*. Ni us
 
 Muchas personas argumentarán en este punto que la tributación no se aplica a punta de pistola, sino que la gente los paga voluntariamente. Por ejemplo, un recaudador de impuestos o un policía jamás me han apuntado con una pistola, pero he pagado mis impuestos durante décadas.
 
-Esto puede ser verdad, pero es completamente irrelevante. Si le digo a una mujer que mataré a sus hijos si no tiene sexo conmigo y ella se somete a mi, claramente entendemos que una acción inmoral se ha llevado a cabo, aunque no he usado ninguna arma en mi acto de violación. Claramente si la mujer se somete a mi es porque teme que lleve a cabo mi amenaza. Si le dijera que mi duende de mascota matará a sus hijos si no tiene sexo conmigo, probablemente la moleste, pero no le temerá a mi amenaza de una forma significante ya que es imposible para mi duende de mascota matar a sus hijos. O, si yo moría, y mi testamento declaraba que yo mataría a los hijos de esta mujer si ella no tenía relaciones sexuales conmigo, es evidente que se sentiría aliviada en lugar de temer, ya que no puedo concebir mi amenaza más allá de la tumba. Por lo tanto, pagamos impuestos porque sabemos que si no lo hacemos, la probabilidad de ser atacados por representantes del estado es muy alta. Si no pago mis impuestos, recibiré una carta, luego otra carta, luego una llamada telefónica, luego una citación judicial, y si no comparezco ante el tribunal, o no pago mis impuestos atrasados y las multas e intereses acumulados, los policías vendrán con pistolas para llevarme a la cárcel. Si me opongo a esos policías, me dispararán.
+Esto puede ser verdad, pero es completamente irrelevante. Si le digo a una mujer que mataré a sus hijos si no tiene sexo conmigo y ella se somete a mi, claramente entendemos que una acción inmoral se ha llevado a cabo, aunque no he usado ninguna arma en mi acto de violación. Claramente si la mujer se somete a mi es porque teme que lleve a cabo mi amenaza. Si le dijera que mi duende de mascota matará a sus hijos si no tiene sexo conmigo, probablemente la moleste, pero no le temerá a mi amenaza de una forma significante ya que es imposible para mi duende de mascota matar a sus hijos. O, si yo muriera, y mi testamento declarase que yo mataría a los hijos de esta mujer si ella no tenía sexo conmigo, claramente se sentiría aliviada más que temerosa ya que no puedo cumplir mi amenaza desde la tumba. Por lo tanto pagamos los impuestos ya que sabemos que si no lo hacemos la probabilidad de ser agredidos por representares del estado sería muy alta. Si yo no pago mis impuestos recibiré una carta, luego otra carta, después una llamada, luego una citación judicial, y si no comparezco ante el tribunal o no pago mis impuestos, multas e intereses acumulados, los policías vendrán con armas para llevarme a la cárcel. Si opongo resistencia a esos policías me dispararán.
 
-Decir que la fuerza es igual al voluntarismo es completamente ilógico y contradictorio. Decir que la iniciación al uso de la fuerza es completamente igual a la no iniciación del uso de la fuerza es decir que arriba está abajo, el negro es blanco y la verdad es falsedad.
+Decir que la fuerza equivale al voluntarismo es completamente ilógico y contradictorio. Decir que la iniciación del uso de la fuerza equivale completamente a la no iniciación del uso de la fuerza, es decir que arriba es abajo, blanco es negro y la verdad es falsa.
 
-Sin la "zona nula", estas ficciones corruptas no pueden sustentarse.
+Sin la "zona nula" estas ficciones de corrupción no pueden ser sustentadas.
 
-La "zona nula" es la guarida de la bestia que cazamos.
+La "zona nula" es la guarida de las bestias que cazamos.
 
-Como podemos ver, sabemos que personalmente es un error robar; tenemos muy pocos problemas con una prohibición abstracta y lógica del robo, como hemos resuelto anteriormente; sin embargo, aún existe esta "zona nula" o universo alternativo donde tales oposiciones pueden aceptarse sin ninguna pregunta o preocupación.
+Como podemos ver, sabemos de forma personal que es malo robar; tenemos muy pocos problemas con una prohibición abstracta y lógica del robo, como hemos resuelto anteriormente; sin embargo existe esta "zona nula" o universo alterno en donde estas oposiciones pueden ser aceptadas sin preguntas o preocupaciones.
 
-Según CUP, es malo para mí y para ti robar. Sin embargo, de alguna manera, en esta "zona nula", no solo está permitido, sino también es perfectamente * moral *, para otros robar. Nosotros * no debemos * robar, ellos * deben * robar. ¡Es una locura moral!
+Según CUP, es malo para mi y para ti el robar. Pero de alguna manera, en esta "zona nula" no solamente está permitido, sino es también perfectamente *moral* para otros el robar. Nosotros *no debemos* robar, ellos *no deben* robar. ¡Es una locura moral!
 
 ### Policías
 
-Vamos a sacar a nuestro buen amigo Bob de su pequeña sala de pruebas de teoría moral y regresarlo a su trabajo original como policía.
+Vamos a sacar a nuestro buen amigo Bob de su pequeña habitación de pruebas de teoría moral y regresarlo a su trabajo original como policía.
 
-Claramente, cuando Bob se despierta por la mañana, antes de su turno, no puede ir a la casa de su vecino y exigir dinero a punta de pistola, sin importar quién le diga que todo está bien.
+Claramente cuando Bob se despierta en la mañana, antes de su turno, no puede ir a la casa de su vecino y exigir dinero a punta de pistola, sin importar quién le diga que todo está bien.
 
-Cuando Bob desayuna, tampoco puede atacar a su vecino y llevarse su dinero. En su camino hacia el trabajo, aunque se haya puesto su uniforme, todavía no ha entrado a laborar, y por lo tanto, no tiene más derechos que los otro ciudadano. Sin embargo, cuando entra a trabajar, como si descendiera un pilar de fuego amoral de los mismos cielos, gana la asombrosa habilidad de atacar moralmente a sus vecinos y tomar su dinero.
+Cuando Bob desayuna tampoco puede atacar a su vecino y tomar su dinero. En su camino hacia el trabajo, aunque tenga puesto a su uniforme, todavía no ha entrado a laborar y por lo tanto no tiene más derechos que cualquier otro ciudadano. Sin embargo, cuando él entra a trabajar, como si descendiera un pilar amoral de fuego desde el mismo cielo, él gana la sorprendente habilidad moral de atacar a sus vecinos y tomar su dinero.
 
-Extrañamente, esta es la única característica suya que se ha invertido por completo. El no puede volar, no puede cambiar su forma, no puede digerir los aceros de los cojinetes o vivir en un infierno; no puede correr mil kilómetros por hora, y tampoco puede atravesar una pared de ladrillos. Él es absolutamente, total y completamente * el mismo hombre que era ** antes ** de haber entrado a trabajar *; sin embargo, ahora, está sujeto a reglas morales completamente opuestas.
+Extrañamente es la única característica suya que se ha invertido por completo. No puede volar, no puede cambiar su forma, no puede digerir el acero de los cojinetes o vivir en un infierno; él no puede correr mil kilómetros en una hora, y tampoco puede atravesar una pared de ladrillos. Él es absoluta, total y completamente *el mismo hombre que era **antes** de haber entrado a trabajar*, pero ahora está sujeto a reglas morales completamente opuestas.
 
-Aún más extraño, si no soy un "policía", pero sigo a Bob para trabajar, y hago exactamente lo que hace: me pongo un uniforme, entro en la estación de policía y me presento para trabajar como tal - ¿Por qué? Si hago exactamente lo que hace Bob, soy completa y totalmente inmoral, aunque las acciones idénticas de Bob son completa y totalmente * morales *.
+Aun más extrañamente, si no soy un policía pero sigo a Bob al trabajo, y hago exactamente lo que él hace: me pongo un uniforme, entro en la estación de policía y me presento a trabajar como uno, ¿Por qué si hago exactamente lo que Bob hace soy completa y totalmente inmoral, aunque las acciones de Bob sean completa y totalmente *morales*.
 
-¿Qué sentido tiene esto? ¿Cómo podemos desentrañar este misterio impenetrable?
+¿Qué clase de sentido tiene esto? ¿Cómo podríamos desentrañar este impenetrable misterio?
 
-El simple hecho es que * no se puede * revelar, porque todo esto es una completa locura. El hecho de que esta locura moral del "mundo opuesto" sea completamente irracional, por no mencionar violentamente explotadora, es tan obvia que debe ser enterrada en una interminable cabalgata de "voluntarismo" mitológico
+El simple hecho es que *no se puede revelar* porque es una completa locura. El hecho es que esta locura moral del "mundo opuesto" es completamente irracional, por no mencionar violentamente explotadora, es tan obvia que debe ser enterrada en una interminable cabalgata de "voluntarismo" mitológico
 
-Nos están diciendo que "queremos" que Bob se lleve nuestro dinero, lo cual contradice por completo el hecho de que Bob aparece en la puerta de nuestra casa y apunta con una pistola cargada en nuestra cara. Según esta lógica, también puedo ir y venir por la calle robando dinero a mis vecinos, y luego declarar que estoy completamente conmocionado cuando sea arrestado:
+Se nos dice que "queremos" que Bob tome nuestro dinero, lo cual contradice completamente que Bob aparezca en la puerta de nuestra casa mientras nos apunta con una pistola cargada en nuestra cara. Por esta lógica yo también puedo ir y venir por la calle robando el dinero de mis vecinos, y luego declarar que estoy completamente sorprendido cuando sea arrestado:
 
-"Ellos * quieren * que tome su dinero"
+"Ellos *quieren* que tome su dinero!"
 
-"Pero entonces, ¿por qué amenazaste con dispararles si no te daban su dinero?"
+"Pero entonces ¿Por qué amenazaste con dispararles si no te daban su dinero?"
 
-"¡Porque ellos me * deben* su dinero!"
+"¡Porque ellos me *deben* su dinero!"
 
-"Pensé que habías dicho que querían darte su dinero"
+"Pensé que habías dicho que querían darte su dinero."
 
-"No, no, Ellos me lo deben. ¡Realmente es * mi * dinero! "
+"No, no; ellos me lo deben. ¡Realmente es *mi* dinero!"
 
-"¿Por qué motivo te deben este dinero?"
+"¿Por qué motivo ellos te deben este dinero?"
 
 "¡Tenemos un contrato!"
 
-"¿Puedes mostrarme este contrato? ¿Han firmado este contrato a voluntad?"
+"¿Podrías mostrarme este contrato? ¿Han firmado este contrato a voluntad?"
 
-"¡No es ese tipo de contrato! Es un contrato * social *... Y además, de acuerdo con ese contrato social, de todos modos soy dueño de toda la calle, ¡de todo el maldito vecindario de hecho! Cualquiera que se niegue a pagarme mi dinero puede mudarse a otra parte. ¡No estoy forzando a nadie
+"¡No es ese tipo de contrato! Es un contrato *social*... Y además, de acuerdo con ese contrato social, de todos modos soy dueño de toda la calle, ¡y de todo el maldito vecindario, de hecho! Cualquiera que se niegue a pagarme mi dinero puede mudarse a otra parte, ¡no estoy forzando a nadie!"
 
-"¿Y cómo sabes que eres dueño de todo el vecindario? ¿Tienes documentos de propiedad?"
+"¿Y cómo sabes que tú eres dueño de todo el vecindario? ¿Tienes documentos de propiedad?"
 
-"Sí, por supuesto, ¡mira aquí!"
+"Sí, claro, ¡mira aquí!"
 
-"Bueno, esto es solo una nota escrita a mano que dice que eres el dueño de todo el vecindario, y es la misma escritura que tu firma. Me temo que vamos a tener que guardarlo, este es solo un contrato inventado contigo mismo, y estas infligiendo a otras personas a punta de pistola."
+"Bueno, esto es sólo una nota escrita a mano que dice que eres dueño de todo el vecindario, y es la misma escritura que tu firma. Me temo que vamos a tener que guardarlo, este es sólo un contrato inventado contigo, con el cual afectas a otras personas a punta de pistola."
 
-Esto es completamente loco y corrupto, como si yo le dijera a una mujer que la estoy violando y *ella quiere* tener sexo conmigo. ¿Te imaginas si fui juzgado por violación, y había una cinta de video de la mujer rogándome que parara, y tenía un cuchillo en la garganta, cómo se recibiría mi defensa si continuaba insistiendo en que ella realmente * quería * tener sexo conmigo?
+Esto es completamente insano y corrupto, como si yo le dijera a una mujer que la estoy violando y que *ella quiere* tener sexo conmigo. ¿Podrías imaginar, si yo fuese a juicio por violación, estuviera un video de la mujer rogándome que pare y tuviera un cuchillo contra su garganta, cómo mi defensa sería recibida si yo continuase insistiendo que ella realmente *quería* tener sexo conmigo?
 
-En el tribunal, me injuriarían y me meterían a la cárcel por mi hipocresía obvia, loca, corrupta y egoísta.
+En el tribunal sería odiado y me meterían a la cárcel por mi obvia y loca hipocresía corrupta y egoísta.
 
-Ah, pero en la "zona nula" del gobierno, la violación es hacer el amor, el secuestro es una invitación, rechazar el robo es egoísmo malvado, y la coerción es la bondad.
+Ah, pero en la "zona nula" del gobierno, la violación es hacer el amor, el secuestro es una invitación, rechazar el robo es egoísmo malvado y la coerción es bondad.
 
-Esto es lo que quiero decir cuando digo que este "mundo opuesto * zona nula *" es la barrera fundamental para la felicidad humana en todo el mundo. Robar es malo para nosotros; robar es incorrecto en abstracto, ¿pero el robo es de alguna manera "correcto" en este insano universo alternativo llamado "gobierno"?
+Esto es lo que quiero decir cuando digo que esta "*zona nula* del mundo opuesto" es la barrera más fundamental para la felicidad humana en todo el mundo. Robar es malo para nosotros; robar es incorrecto en lo abstracto, pero ¿robar es de alguna manera "correcto" en este insano universo alterno llamado "gobierno"?
 
-[^2]: Ni siquiera hemos *comenzado* la pesadilla lógica del valor de verdad que figura en la declaración "el error es igual a la verdad".
+[^2]: Ni siquiera *comencemos* con la pesadilla lógica del valor de la verdad que figura en la declaración "el error equivale a la verdad."
 
-[^3]: Este argumento tampoco tiende a funcionar muy bien con los profesores de matemáticas: nunca he visto a un alumno argumentar con éxito que una respuesta incorrecta puede ser correcta en otro universo, por lo que es injusto marcarla como incorrecta.
+[^3]: Este argumento tampoco tiende a funcionar muy bien con profesores de matemática; nunca he visto a un estudiante argumentar con éxito que una respuesta incorrecta podría ser correcta en otro universo, y por lo tanto marcarla como incorrecta.
