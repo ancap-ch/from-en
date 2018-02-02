@@ -1,10 +1,10 @@
-# Judul akar pertama
+# Título da primeira raiz
 
 Di bawah ini ada daftar pangram bergaya yang disebutkan, yang menunjukkan setiap karakter, baik dalam bahasa Inggris maupun bahasa lainnya.
 
 1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
 2. angka: 0123456789. 
-3. simbol: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
+3. symbols: % $ & { } # ^ ~ \ (some other symbols are still missing)
 4. emphasys: *Seekor rubah cokelat cepat melompat di atas seekor anjing malas.* 
     1. emphasys kuat: **Rubah, coklat cepat melompati seekor anjing malas.**
     2. penekanan batin: **The *Rubah cepat dan coklat melompati anjing malas*anjing.** 
@@ -51,6 +51,6 @@ Beberapa teks di tingkat 4.
 
 Beberapa teks pada 6 tingkat.
 
-[^1]: Contoh catatan kaki. Tapi ini akan mengarah ke satu lagi catatan kaki.[^3]
+[^1]: Footnote example. But this will point to yet another footnote.
 
 [^2]: Catatan kaki kedua. Akan [website lain](https://example-another-website.com).
