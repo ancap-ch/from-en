@@ -30,11 +30,11 @@ Podemos decir:
 
 La tercera afirmación es una completa contradicción. La "verdad" es independiente del deseo, ya que el deseo es por definición una preferencia subjetiva, y la verdad es por definición la conformidad de las ideas con las normas objetivas de la lógica y la realidad empírica. Decir que algo es verdad porque tú *quieres* que sea verdad es equiparar la subjetividad con la objetividad, que es una afirmación contradictoria.
 
-Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
+Las afirmaciones fanáticas de "fe", por definición no pueden ser probadas, ya que no son creencia en la * ausencia* de evidencia, sino creencia en *desafío* de la razón y/o evidencia.
 
-We can believe unproven things that turn out to be true – someone doubtless thought that the world was round before it was proven – but the “null zone” is the realm wherein we cling to a belief in things that *could not possibly turn out to be true*.
+Podemos creer en cosas no comprobadas que resultan ser ciertas, alguien sin duda pensó que el mundo era redondo antes de que se probara, pero la "zona nula" es el reino en el que nos aferramos a una creencia en cosas que *no podrían resultar ser verdad*.
 
-If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. If I say that I believe that a square circle exists, then I am making an explicitly self-contradictory statement, which disproves itself. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+Si digo que dos más dos es igual a cinco, estoy cometiendo un error que se puede corregir con referencia a la lógica. Si digo que creo que existe un círculo cuadrado, entonces estoy haciendo una declaración explícitamente contradictoria que se refuta a sí misma. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
 
 ### Next Stop: The "Alternative Universe"
 
