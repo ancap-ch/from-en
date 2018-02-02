@@ -1,10 +1,10 @@
-## The Null Zone Revisited
+## La Zona Nula Revisitada
 
-At the beginning of this book, I put forward a way of looking at how we process truth, analogising it to physics. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
+Al principio de este libro, propuse una forma de ver cómo procesamos la verdad, análogándola a la física. De las "pequeñas verdades" de atrapar una pelota de béisbol, llegamos a las "grandes verdades" de la física, y las grandes verdades no pueden contradecir las pequeñas verdades.
 
-The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
+Lo mismo sucede con la moralidad. De las pequeñas verdades de "no debo asesinar" podemos llegar a las grandes verdades tales como " el inicio del uso de la fuerza es moralmente erróneo"
 
-In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
+En el reino de la física, una barrera central a la extrapolación lógica de las verdades desde la experiencia personal hasta la teoría universal ha sido la religión.
 
 For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
 
