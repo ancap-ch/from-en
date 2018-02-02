@@ -34,6 +34,6 @@ De esta manera, podemos justamente mentirle a un mentiroso, tal y como podemos j
 
 La diferencia es que "llegar tarde" no es tan activamente destructivo como mentir. Una persona tardía es molesta, pero no debilita fundamentalmente tu capacidad de procesar la realidad. Para mi es una cosa llegar una hora tarde a una reunión a las siete en punto de la mañana - eso es otro intento de convencerte de que nosotros, de hecho, agendamos la reunión a las ocho en punto de la mañana, cuando yo se que ese no fue el caso.
 
-Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. Así es como UPB valida la ilógica de la proposición "mentir es bueno" y confirma que el acto de mentirle a alguien es peor que "estar atrasado" pero mejor que un "asalto"
+Atacar tu confianza a tu propia mente[^5] es mucho más grave que simplemente hacerte esperar, ya que es el acto de usar la confianza de otro en tí para debilitar su confianza en sí mismo, lo cual es altamente corrupto, puesto que eso es *usar* un valor para debilitar un valor, como falsificación. Así es como la UPB valida la proposición ilógica "mentir es bueno," y confirma que el acto de mentir a alguien es peor que "llegar tarde," pero mejor que un "asalto."
 
 [^5]: Algunas veces llamado "iluminación de gas" después de la vieja película.
