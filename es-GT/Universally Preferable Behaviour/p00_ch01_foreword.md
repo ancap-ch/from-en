@@ -44,7 +44,7 @@ Esta "bestia" de la ética relativista se cierne sobre nosotros, acechándonos, 
 
 Como escribí en mi libro anterior,"On Truth: The Tyranny of Illusion," la mentira más fundamental en el centro de las teorías éticas no comprobadas es que tales teorías siempre se presentan a los niños como hechos objetivos e incontrovertibles, cuando en realidad son meras intolerancias culturales. La razón por la que los científicos no necesitan de un gobierno o un Vaticano es que los científicos tienen una metodología objetiva para resolver disputas: el método científico. La razón por la que el lenguaje no necesita d una autoridad central para guiar su evolución es que se basa en el "libre mercado" de las preferencias individuales acumuladas por el estilo y la utilidad.
 
-La razón por la que la moralidad moderna -y la moralidad a lo largo de la historia- siempre ha tenido que depender en primer lugar de la intimidación de los niños, y luego de la amenaza de los adultos, es que se trata de una mentira manipuladora que se disfraza de verdad virtuosa.
+La razón por la que la moralidad moderna -y la moralidad a lo largo de la historia- siempre ha tenido que depender en primer lugar de la intimidación a los niños, y luego de la amenaza a los adultos, es que se trata de una mentira manipuladora disfrazándose de verdad virtuosa.
 
 La verdad es que necesitamos moralidad; la mentira es que los dioses o los gobiernos pueden definirla racionalmente o aplicarla justamente.
 
