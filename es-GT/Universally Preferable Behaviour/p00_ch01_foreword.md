@@ -50,13 +50,13 @@ La verdad es que necesitamos la moralidad; la mentira es que los dioses o los go
 
 Mi objetivo en este libro es definir una metodología para la validación de teorías morales que sean objetivas, consistentes, claras, racionales, empíricas - y *verdaderas*.
 
-Soy plenamente consciente de que, en este momento, sentirán muy probablemente una creciente ola de escepticismo. Entiendo perfectamente que las probabilidades de que un tipo de Internet -el mundo del hogar de los locos- haya resuelto de alguna manera el problema filosófico de las edades no son particularmente altas, de hecho, estarían tan cerca de cero que prácticamente no podrían distinguirse de él.
+Soy plenamente consciente de que, en este momento, sentirán muy probablemente una creciente ola de escepticismo. Entiendo perfectamente que las probabilidades de que un tipo cualquiera en el Internet -el planeta originario de los locos- haya resuelto de alguna forma el problema filosófico de las edades no son particularmente altas - de hecho, estarían tan cerca de cero que prácticamente no podrían distinguirse de él.
 
-Aún así, no *son* cero.
+Aún así, no *totalmente* cero.
 
 ### Reglas básicas
 
-Las reclamaciones extraordinarias requieren pruebas extraordinarias. Al asumir esta gigantesca tarea -particularmente en un libro tan corto- me he fijado algunas reglas básicas que vale la pena seguir. [^1]
+Las extraordinarias declaraciones requieren pruebas extraordinarias. Al asumir esta gigantesca tarea -particularmente en un libro tan corto- me he establecido algunas reglas básicas, que vale la pena seguir. [^1]
 
 1. Acepto plenamente la distinción de Humean entre "es" y "debería". Las reglas morales válidas no pueden derivarse directamente de la existencia de nada en la realidad. El hecho de que los seres humanos en general *prefieren* vivir, y deben interactuar exitosamente con la realidad para hacerlo, no puede ser la base de ninguna teoría válida de la ética. Es evidente que algunas personas no prefieren vivir y rechazan firmemente la realidad, por lo que esta definición de ética sigue siendo subjetiva y condicional.
 2. La ética no puede ser objetivamente definida como "lo que es bueno para la supervivencia del hombre". Ciertos individuos pueden sobrevivir muy bien si se aprovechan de otros, así que esta definición de ética no supera el problema del subjetivismo. En términos biológicos, esto sería análogo a describir las tendencias evolutivas como "lo que es bueno para *la* supervivencia de la vida" - esto no tendría sentido. La sociedad humana es un ecosistema de intereses en competencia, así como lo es la selva tropical, y lo que es "bueno" para un hombre con tanta frecuencia viene a expensas de otro.
