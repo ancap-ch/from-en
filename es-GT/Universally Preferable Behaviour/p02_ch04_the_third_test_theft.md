@@ -52,13 +52,13 @@ Si los seres humanos no poseen la propiedad exclusiva de sus propios cuerpos, en
 
 No es un crimen cometer suicidio, como tampoco lo es prender fuego a tu propia casa, dado que la destrucción de nuestra propiedad es un válido ejercicio de la misma. Sin embargo, si la auto-propiedad exclusiva es inválida, entonces no podría haber una distinción entre homicidio y suicidio. Si mi hígado está fallando, y yo tengo el derecho de tomar uno de los tuyos, entonces yo puedo "reposeerlo" en perfecta conformidad con la moralidad y un comportamiento honorable. Si este procedimiento te mata ¿Entonces qué? Sin la auto-posesión exclusiva, no existe un "tú" para comenzar…
 
-Así podemos razonablemente decir que la auto posesión exclusiva es una realidad básica - que todos los seres humanos en todo momento y en todo lugar tienen propiedad exclusiva sobre sus propios cuerpos, y así tienen la propiedad exclusiva sobre los efectos de sus cuerpos, tanto en términos de comportamiento moral y creación de propiedad o adquisición.
+Por consiguiente, razonablemente podemos decir que la auto-posesión exclusiva es una realidad básica -que todos los humanos en todos los momentos en todos los lugares tienen una posesión exclusiva sobre sus propios cuerpos, y así tener una propiedad exclusiva sobre los efectos de su propio cuerpo, ambos en términos de comportamiento moral y la creación de la propiedad o la adquisición.
 
-### Las Zonas Grises
+### Las Áreas Grises
 
-Naturalmente, cualquier declaración como la anterior trae gritos de "complejidad" inevitables, con los que estoy totalmente de acuerdo.
+Naturalmente, cualquier declaración como las anteriores trae a colación los gritos inevitables de "complejidad," con lo cual estoy completamente de acuerdo.
 
-Digamos que planeo darte cinco dolares como regalo, pero por error te doy un billete de diez dolares, diciendo "Esto es para ti". Pocas personas considerarían esto como robo si yo dijese, al momento después de habértelo dado: "Disculpa, quise darte cinco dolares, no diez", y agarrar de vuelta el billete con mayor denominación, aun yo esté tomando una propiedad que voluntariamente había concedido.
+Digamos que yo tengo la intención de darte cinco dólares como regalo, pero por error te doy un billete de diez dólares, diciendo: "Esto es para ti." Pocas personas lo considerarían un robo si yo digo, en el momento después de dártelo: "Lo siento, tenía intención de darte cinco dólares, no diez," y tomo de vuelta el billete de mayor denominación, aunque yo esté tomando de vuelta la propiedad a la cual voluntariamente he concedido.
 
 En el otro extremo, si eres uno de mis hijos, y pago por tu educación universitaria, y te digo explícitamente que no necesitas pagarme nunca de vuelta, mi generosidad sin duda afectará tus hábitos para gastar. Apenas sería razonable para mi aplaudir mi frente después de tu ceremonia de graduación y llorar, "Oh, pensé que eras uno de mis *otros* hijos!" y exigir un reembolso.
 
