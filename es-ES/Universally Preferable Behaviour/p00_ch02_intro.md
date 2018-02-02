@@ -102,9 +102,9 @@ Aquellos que usan fantasías morales para explotar la humanidad, siempre han luc
 
 Estamos familiarizados con el ejemplo de la Mafia, que amenaza a rivales potenciales con mutilaciones y muerte, o el espectáculo de sectas religiosas atacándose entre ellas, o un gobierno atacando a otro.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+Cuando los filósofos exponen las falsedades necesarias para una explotación continua, sin embargo, idealmente no pretenden establecerse como competidores. Ellos no quieren *reemplazar* la Mafia, o la iglesia - ellos quieren eliminarla por completo.
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+Una analogía mas moderna seria la relación entre el estado, cabilderos y contribuyentes. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
 
 Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
 
