@@ -71,9 +71,9 @@ O:
 
 Podríamos incorporar muchos más argumentos para apoyar la existencia y validez del CUP, pero dejaremos terminar nuestro caso con lo anterior, y movernos a una examinación de la naturaleza del CUP.
 
-#### UPB: Optional And Objective
+#### UPB: opcional y objetivo
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Dado que hemos demostrado la validez de un comportamiento universalmente preferible, la cuestión de la moralidad ahora cambia. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
 
 First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
 
