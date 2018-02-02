@@ -1,6 +1,6 @@
 ## Preferencias
 
-Ahora que entendemos la naturaleza de los argumentos contraproducentes, podemos seguir a la cuestión de las preferencias.
+Ahora que entendemos la naturaleza de los argumentos contraproducentes, podemos volver a la pregunta de las preferencias.
 
 Las preferencias son fundamentales para cualquier metodología que pretenda definir la veracidad-valor de proposiciones. El método científico, por ejemplo, es ampliamente definido por preferencias innatas de consistencia lógica y verificación empírica. Para la ciencia, la premisa es: *si* quieres determinar una verdad válida sobre el comportamiento de la materia y la energía, entonces es *preferible* usar el método científico.
 
