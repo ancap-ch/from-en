@@ -2,15 +2,15 @@
 
 Definimos "inexistencia" como aquella que no posee masa o energía, ni muestra los efectos de la masa o la energía, tales como las relaciones detectables, como por ejemplo la gravedad.
 
-Dios no posee masa o energía, ni muestra los efectos de la masa o la energía: Dios, de hecho, no es detectable ni verificable de ninguna manera, figura o forma, ni a través de los sentidos ni a través de la racionalidad.
+Dios no posee masa ni energía, ni muestra los efectos de estas- Dios, de hecho no es detectable ni verificable de ninguna manera, figura ni forma, ni siquiera a través de los sentidos ni de la racionalidad.
 
-Por lo tanto, si digo: "Dios existe", lo que realmente estoy diciendo es:
+Por lo tanto si digo, "Dios existe," lo que en realidad estoy diciendo es:
 
-"* Lo que existe debe ser detectable; Dios no puede ser detectable, pero Dios existe; por lo tanto, existe lo que no existe. * "
+* Lo que existe debe ser detectable; Dios no se puede detectar, pero Dios existe- por lo tanto existe lo que no existe*
 
-En otras palabras, al decir "Dios existe", he creado una contradicción insuperable. Definí "existencia" como "inexistencia", que tiene tanto sentido como definir "vida" como "materia inanimada", o una piedra como "lo opuesto a una roca", o "cuadrado" como " circulo."
+En otras palabras, diciendo "Dios existe." he creado una contradicción insuperable. He definido "existencia" como "inexistencia," lo que tiene tanto sentido como difinir "vida"como "materia inanimada," o piedras como "lo opuesto a piedras", o una "cuadrado" como un "circulo."
 
-De forma similar, si creo un universo alternativo donde "la no existencia es igual a la existencia" y "contradicción es igual a consistencia" y "verdad es igual a falsedad" e "irracionalidad es igual a racionalidad", entonces lo que realmente he hecho es crear un reino llamado "error", poner todo lo que no es verdad y definir este reino como un lugar donde "el error es igual a la verdad". [^2]
+De manera similar, si creara un universo alterno donde "inexistencia sea igual a existencia", "contradicción sea igual a consistencia", "verdad sea igual a falsedad", e "irracionalidad igual a racionalidad," entonces lo que realmente he hecho es crear un reino llamado "error," colocar en el todo lo que no es verdad, y definirlo como un lugar donde "el error es igual a la verdad."[^2]
 
 Por supuesto, las personas no crean este "universo alternativo" para invalidar la verdad dentro de nuestro propio universo, sino más bien para rescatar lo que es erróneo en la realidad y llamarlo verdadero. Por ejemplo, nadie que argumenta "Dios puede existir en otro universo, así que no se puede afirmar que Dios no exista" puede argumentar que "* Yo * puedo no existir en ese otro universo, por lo que no se puede afirmar que existo aquí "
 
