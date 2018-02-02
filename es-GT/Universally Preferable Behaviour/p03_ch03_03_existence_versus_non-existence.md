@@ -48,19 +48,19 @@ Ahora, si vengo a tu casa esta noche vestido como un "elfo alto de Narnia" y dem
 
 Si no le pago al hombre que viene a tomar mi dinero, se le permite sacar un arma, apuntarme al pecho y secuestrarme, o dispararme si me resisto. Él puede retenerme en una celda diminuta año tras año, donde seré sometido a la brutalidad más violenta y a la violación continua, hasta que decida dejarme ir.
 
-Es interesante, que si alguien legítimamente me debe dinero, yo no tengo permitido secuestrarlo, vejarlo y torturarlo durante años. Por lo tanto, el sistema impositivo viola completamente la infraestructura de UPB, ya que representa la transferencia de propiedades través de la fuerza.
+Curiosamente, si un hombre me debe dinero legítimamente, no se me permite secuestrarlo y someterlo a tortura y violación año tras año. Así pues, la tributación viola completamente el marco del CUPB ya que es la transferencia violenta de bienes mediante el uso de la fuerza.
 
-Robar, como hemos probado, es malo.
+Robar, como hemos demostrado, es malo.
 
-Einstein revolucionó la Física asegurando - y probando - que la velocidad de la luz era constante.
+Einstein revolucionó la física afirmando, y demostrando, que la velocidad de la luz era constante.
 
-Podemos revolucionar el mundo aceptando la premisa - y la prueba - de que robar siempre es malo.
+Podemos revolucionar el mundo aceptando la afirmación, y la prueba, de que robar siempre es malo.
 
-### Government, Religion, And UPB
+### Gobierno, religión y CUP
 
-Cuando tomamos la infraestructura UPB y la aplicamos a las premisas morales de acuerdo con el gobierno y la religión, obtenemos algunos resultados muy interesantes.
+Cuando tomamos el marco de trabajo del CUP y lo aplicamos a proposiciones morales sobre gobierno y religión, algunos resultados muy interesantes ocurren.
 
-La premisa que es usada de manera más frecuente para justificar el poder del gobierno es: “el gobierno tiene derecho a quitarle su dinero”. Esto, de todas maneras, es una afirmación completamente imprecisa y falsa. El “gobierno” no tiene el derecho de quitarle su dinero, ya que “el gobierno” es meramente un concepto, una descripción abstracta de un grupo de personas que se autodenominó de esa manera. UPB requiere una afirmación más contundente y objetiva. Ya que las reglas morales deben ser iguales para todos, en todos momento y lugar, debemos modificar la regla de esta manera:
+La proposición que se usa más a menudo para justificar el poder del gobierno es:"el gobierno tiene el derecho de tomar su dinero". Sin embargo, se trata de una afirmación totalmente imprecisa y falsa. El “gobierno” no tiene el derecho de quitarle su dinero, ya que “el gobierno” es meramente un concepto, una descripción abstracta de un grupo de personas que se autodenominó de esa manera. UPB requiere una afirmación más contundente y objetiva. Ya que las reglas morales deben ser iguales para todos, en todos momento y lugar, debemos modificar la regla de esta manera:
 
 *Los seres humanos pueden, con respaldo moral, quitarle el dinero a otros seres humanos si inventan una agencia conceptual que justifique sus acciones.*”
 
