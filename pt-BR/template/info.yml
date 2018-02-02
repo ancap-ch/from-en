@@ -4,16 +4,16 @@ content_files:
     - content.md
     - https://github.com/ancap-ch/from-en/blob/utopian/pt-BR/template/content.md
 translation:
-  language: en
+  language: pt-BR
   is_translation: true
-  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/template"
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/pt-BR/template"
   fetch_translators: true
   fetch_reviwers: true
   fetch_progress: true
 titles:
-  - Title Text
-  - '~~Centered~~'
-  - '~~~~~to the right'
+  - Texto do título
+  - '~~Centrado~~'
+  - '~~~~~à direita'
 discussions:
   - 
     - https://en.ancap.ch/t/5
