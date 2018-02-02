@@ -114,15 +114,15 @@ Sin embargo, los filósofos que se oponen a *todo* error intelectual son los ene
 
 El método científico requiere que cada tesis esté respaldada por evidencia y racionalidad. Puesto que no hay evidencia de los Dioses - y que cada *idea* de los dioses es de por si -contradictoria- la tesis "dios existe" no se puede aguantar. Inevitablemente, los parásitos religiosos tratan de defender su tesis tratando de dividir la realidad en "dos reinos" - el científico y el espiritual. Sin embargo, no hay evidencia para la existencia de este reino "espiritual" en el presente, más de lo que había para el universo paralelo de las "Formas" platónicas hace dos mil quinientos años.
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+Por lo tanto, el establecimiento de una verdad consistente y universal necesariamente limita y destruye el potencial de explotación de la ilusión. En particular, las "Grandes verdades" las cuales son universales y consistentes, hacen redundantes y ridículas las "medianas verdades" - que en realidad son fantasías de explotación. Estamos familiarizados las "media verdad" de la religion: algunos otros serán examinados y revelados aquí, algunos de los cuales pueden sorprenderlo.
 
-### Effective Parasitism
+### Parasitismo Efectivo
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+Los parásitos - o virus - mas efectivos, son aquellos que engañan al cuerpo en la indiferencia. Nuestros sistemas inmunológicos están diseñados para atacar sustancias extrañas dentro del cuerpo; aislándolas y matándolas. Tememos al VIH, y el cáncer en particular porque son capaces de eludir nuestro sistema inmune. La misma técnica se utiliza por parásitos intelectuales para desactivar los sistemas de defensa de quienes se aprovechan.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+Si un extraño te ataca en un callejón y te exige dinero, estarás horrorizado y consternado. Puede que te defiendas, puede que corras, o puede que le des tu cartera, pero quedara sorprendido, molesto o asustado por la interacción. Cuando repites la historia, dirás de una manera que refuerza la base y vil violación de tus derechos personales y a la propiedad. Otros sentirían compasión por su situación, y evitaran dicho callejón en el futuro.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+Este es el ejemplo de una "pequeña verdad" la cual es: "Robarme está mal-"
 
 However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
 
