@@ -68,15 +68,15 @@ La analogía es incorrecta porque tener un Ph.D. o fotocopiar un doctorado no ca
 
 "Bueno", puedes responder, "pero la diferencia está en que el soldado posee derechos morales que son brindados por el ciudadano promedio, por el bien de la autodefensa colectiva y demás."
 
-Esto plantea un punto muy interesante, que es la cuestión de si las opiniones pueden cambiar la realidad.
+Esto plantea un punto bastante interesante que es la cuestión de si las opiniones pueden cambiar.
 
-### Opiniones y Realidad
+### Opiniones y realidad
 
-Claramente, entendemos que, a través de mi opinión, no puedo liberarte de las restricciones de la gravedad, así como mi opinión de que "dos más dos equivale a cinco" tampoco lo hace cierto.
+Claramente entendemos que no puedo, a través de mi opinión, liberarte de las ataduras de la gravedad, así como mi opinión de que "dos más dos equivale a cinco" tampoco lo hace cierto.
 
-Las "opiniones" son aquellas creencias que no tienen una evidencia clara en la realidad, o para las cuales no se puede proveer una evidencia clara, o que son expresiones de preferencias meramente personales. Mi opinión personal es que prefiero el helado de chocolate a la vainilla – También puedo tener una "opinión" de que Islandia es un paraíso tropical, o que Dios existe, o que la lluvia cae hacia arriba. Las opiniones personales claramente no tienen nada que ver con la moralidad; las opiniones que pretenden describir con precisión la realidad, pero que no lo son, son simplemente prejuicios incorrectos. Creer que la lluvia cae hacia arriba no revierte su curso; llevar una camiseta hawaiana a Islandia no hace que Reykjavik sea más cálido.
+Las "opiniones" con esas creencias que no tienen una evidencia clara en la realidad, o para las cuales no puede proveerse una evidencia clara, o que son meramente expresiones de preferencia personales. Mi opinión personal es que yo prefiero el helado de chocolate sobre el de vainilla, también puedo tener la "opinión" de que Islandia es un paraíso tropical, o que Dios existe, o que la lluvia cae hacia arriba. Las opiniones personales claramente no tienen nada que ver con la moralidad; las opiniones que pretenden describir de forma precisa la realidad, pero que no lo hacen, son simplemente prejuicios incorrectos. Creer que la lluvia cae hacia arriba no revierte su curso; vestir una camisa hawaiana en Islandia no hace que Reykjavik sea más cálido.
 
-Por ello, creer que el asesinato es moralmente bueno no hace que el asesinato sea moralmente bueno. Ya que mis creencias sobre un ser humano no cambian su naturaleza moral, mi creencia de que sus asesinatos son virtuosos no cambia la virtud de sus acciones. Si cierro mis ojos e imagino que eres una lagartija, no de repente pierdes tu capacidad de regular la temperatura de tu propio cuerpo. Imaginar que eres un pez no evita tu necesidad de utilizar equipo de buceo.
+Por lo tanto, creer que el asesinato es moralmente bueno no hace que el asesinato sea moralmente bueno. Ya que mis creencias sobre el ser humano no cambian su naturaleza moral, mi creencia que sus asesinatos son virtuosos no cambia la virtud de sus acciones. Si cierro mis ojos e imagino que eres un lagarto, tú no pierdes de repente tu habilidad de regular tu propia temperatura corporal. Imaginar que tú eres un pez no elimina tu necesidad de usar un equipo de buceo.
 
 Las opiniones no cambian la realidad.
 
