@@ -1,10 +1,10 @@
-# 第一根标题
+# Título da primeira raiz
 
 下面是一个列举的样式表，它显示了每个字符，包括英语和其他语言。
 
 1. 大写：那只敏捷的棕色狐狸跳过了一只懒惰的狗。 
 2. 数字：0123456789. 
-3. 符号：+ - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " '' ' ' # $ % & .
+3. symbols: % $ & { } # ^ ~ \ (some other symbols are still missing)
 4. 强调： *The quick, brown fox jumps over a lazy dog.* 
     1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
     2. inner emphasys: **The *The quick, brown fox jumps over a lazy dog* dog.** 
@@ -51,6 +51,6 @@ Some text at 4th level.
 
 Some text at 6th level.
 
-[^1]: Footnote example. But this will point to yet another footnote.[^3]
+[^1]: Footnote example. But this will point to yet another footnote.
 
 [^2]: Second footnote. Will have [another website](https://example-another-website.com).
