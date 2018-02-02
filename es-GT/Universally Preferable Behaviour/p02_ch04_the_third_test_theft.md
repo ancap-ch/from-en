@@ -76,7 +76,7 @@ Así CUP nos da opciones claras con respecto a los derechos de propiedad. Puede 
 
 Tampoco puede ser el caso que los hombres solo tengan un cincuenta por ciento de derechos de propiedad.
 
-Si yo argumento: "Los hombres solo tienen el cincuenta por ciento de derechos de propiedad," entonces creo otra insuperable contradicción. Usted podría preguntarme qué mitad de mi oración *no* fue generada por mi. Si yo sólo tengo cincuenta por ciento de derechos de propiedad, entonces claramente sólo tengo cincuenta por ciento de control sobre mi cuerpo - si pongo por delante la oración anterior, entonces claramente sólo estoy en control sobre el cincuenta por ciento de esa oración, puesto que sólo tengo cincuenta por ciento de control sobre mi voz. Entonces, ¿quién es responsable del otro cincuenta por ciento de mi oración?
+Si yo argumento: "Los hombres solo tienen el cincuenta por ciento de derechos de propiedad," entonces creo otra insuperable contradicción. Bien podrías preguntarme qué parte de mi oración *no* fue generada por mí. Si solo tengo el cincuenta por ciento de los derechos de propiedad, entonces claramente solo tengo el cincuenta por ciento de control sobre mi cuerpo -Si coloco adelante la oración anterior, entonces claramente yo solo tengo control del cincuenta por ciento de mi oración, dado que solo tengo el cincuenta por ciento de control sobre mi voz. ¿Quién, entonces, es responsable por el otro cincuenta por ciento de mi oración?
 
 Esto puede sonar esotérico, pero es una pregunta bastante seria, debido a razones que dentro de poco llegaremos.
 
