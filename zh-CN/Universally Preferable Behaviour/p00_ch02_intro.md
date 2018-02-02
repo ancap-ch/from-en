@@ -66,7 +66,7 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 “中间真理”总以真理的形式出现，并紧随着一个谎言。 “宙斯是一个异教徒”是一个真实的陈述，这是基督教徒公开地布道。 紧随其后的谎言是：“耶和华不是一个异教徒，而是一个真正的活生生的神。”
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+我们可以用一个例子让这更个性化一点，这个例子对于曾被建议需要有一个不正常的朋友的任何人来说都很熟悉。 她说，“我上一个男友真是个混蛋，”你会很强烈地表示赞同。 她补充说到，“但是我的新男友真的很*好*，“你试着不去翻白眼。
 
 It is very hard not to replace one illusion with another.
 
