@@ -1,20 +1,22 @@
 ---
 content_files:
-  - content.md
+  - 
+    - content.md
+    - https://github.com/ancap-ch/from-en/blob/utopian/en/template/content.md
 translation:
   language: nut
-  is_translation: false
-  this_project_url: ""
+  is_translation: true
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/template"
   fetch_translators: true
   fetch_reviwers: true
   fetch_progress: true
 titles:
-  - Judul teks
+  - Title Text
   - '~~terpusat~~'
-  - '~~~~~yang benar'
+  - '~~~~~to the right'
 discussions:
   - 
-    - https://en.ancap.ch/t/17
+    - https://en.ancap.ch/t/5
     - Ancap saluran
 more_infos:
   - 
@@ -63,7 +65,7 @@ resources:
       - Sumber situs web
     description: Sumber keterangan
     persons:
-      - template_pribadi
+      - "template_pribadi"
 targets:
   - 
     target: [ ]
@@ -73,4 +75,4 @@ targets:
     clear_page_active: true
     clear_page_depth: 1
     toc_depth: 3
-version: "0.1.1"
+version: "0.1.2"
