@@ -18,7 +18,7 @@ También, argumentar que un hombre no es responsable por los efectos de su cuerp
 
 Si yo no soy para nada responsable por mi discurso, entonces no hay sentido en discutir conmigo. Una cinta grabada tampoco es responsable por el discurso que emite, por ello nosotros no tendemos a involucrarnos en desacuerdos virulentos con bandas magnéticas. En las típicas películas de terror, las chicas jóvenes parecen ser particularmente susceptibles a la posesión demoníaca - siempre aparece el inevitable sacerdote ofreciendo hablar con el demonio que posee a la chica, en el punto en el que la chica comienza a hacer un sonido como de Don Ho haciendo gárgaras con bolas rodando.
 
-Aunque, este ridículo retrato es cierto en un aspecto - si otro ser tiene el control completo sobre las cuerdas vocales de una niña, es a ese ser a quien se debe dirigir, no a la niña, la cual no tiene control sobre sus respuestas.
+Aunque, éste ridículo escenario es correcto en un sentido -si otro ser tiene un control completo sobre las cuerdas vocales de la chica, es a ese ser a quien se debe dirigir, no a la chica, quien no tiene control sobre sus respuestas.
 
 Así, si yo te digo que no tengo control sobre mi discurso, puedes preguntarme: ¿quién lo tiene? Si yo te respondo que nadie lo tiene, entonces discutir conmigo tiene tanto sentido como discutir con una televisión, o la roca antes mencionada que va rodando bajo una colina hacia tu carro.
 
