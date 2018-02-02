@@ -74,7 +74,7 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 其他革命者哭喊道，“贵族是个不公平的可憎之物”，革命者建立起民主形式的多数派专制。
 
-“中间真理”也存在于科学中，类似地从小道理到大真理阻碍了自然的进化。 直到十八世纪，例如生物学家相信“自然发生说”，或是认为生命起源于无生命物质。 This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
+“中间真理”也存在于科学中，类似地从小道理到大真理阻碍了自然的进化。 直到十八世纪，例如生物学家相信“自然发生说”，或是认为生命起源于无生命物质。 当然，这一点从未被观察过，但这符合哲学和宗教的古老文献，因此作为事实被接受。 另外，在1905年爱因斯坦革命之前，大家认为光是通过一个固定而无形的物质“以太”来移动的，正如音波是通过空气来移动的。 No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
 
 Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
 
