@@ -146,10 +146,10 @@ La teoría de la relatividad de Einstein predijo que la luz se curvaría alreded
 
 La estructura de UPB ha validado correctamente nuestra premisa moral de que la violación es maldad. Esto es un criterio necesario - pero no suficiente - para prueba y apoya completamente la investigación adicional. De esta manera, continuemos…
 
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
+[^1]: Esto es muy diferente a una agresión física, lo que destruye tu capacidad de libre elección.
 
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
+[^2]: No se puede discutir que la violación no involucra preferencia, porque la violación es un comportamiento y, como hemos discutido arriba, todos los comportamientos involucran preferencia.
 
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
+[^3]: Toma en cuenta que no puedo proponer que las "preferencias personales *pueden* ser infligidas violentamente a otras personas, ya que eso es violación de los UPB, lo que establece que las reglas morales deben ser absolutas y universales - si no lo son, caen en territorio APA y no pueden ser infligidas a otros.
 
 [^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
