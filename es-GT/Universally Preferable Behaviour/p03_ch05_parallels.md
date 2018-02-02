@@ -1,8 +1,8 @@
-## Parallels
+## Paralelos
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Antes de la revolución científica, era inconcebible que el mundo natural pudiera sostenerse a si mismo sin una conciente y entidad "moral" como su centro. El sol se levantó arrastrando las cadenas de un carro sobrenatural; la luna era una fría y solitaria hermana del sol. Las constelaciones delineaban los cuentos y tumbas de los dioses, y las tormentas derivaron de la ira de los demonios.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+La idea de que la naturaleza era autogenerada y a la vez autosostenible era practicamente inimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
 
 Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
 
