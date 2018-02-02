@@ -124,10 +124,10 @@ Si un extraño te ataca en un callejón y te exige dinero, estarás horrorizado 
 
 Este es el ejemplo de una "pequeña verdad" la cual es: "Robarme está mal-"
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+Sin embargo, cuando un agente del gobierno le envía una carta exigiendo que le pague dinero, puede sentirse indignado, pero no contaras la historia a tus amigos con el mismo horror e indignación.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+Este es un ejemplo de una "media verdad" que oculta una "gran verdad" que es "robar está mal."
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+Este libro se centrará en exponer y destruir estas "medias verdades" falsas. Creo que la humanidad sufre infinitamente bajo la tiranía de falsas "verdades medias" éticas que justifican las destructivas cosmovisiones de la superstición religiosa, el despotismo secular y el culto a la familia.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+Mi tesis en este libro es que en la ética, como en cualquier otra disciplina intelectual, las grandes verdades crecen directamente de las pequeñas verdades. La niebla desorientadora de las "verdades medias" es un camino infernal para navegar, pero vale la pena luchar porque la única alternativa fundamental a la verdad es la explotación, la destrucción - e, inevitablemente, la prematura desaparición de millones.
