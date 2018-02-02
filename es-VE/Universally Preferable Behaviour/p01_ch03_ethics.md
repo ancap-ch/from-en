@@ -4,9 +4,9 @@ Puesto que la Ética es un asunto sobre el cual todos tenemos opiniones al respe
 
 Un jugador de béisbol puede atrapar un batazo alto aún cuando él no sepa nada sobre física. De manera similar, nosotros podemos percibir, de manera correcta, una acción como inmoral aún cuando nosotros no sepamos nada sobre teorías éticas.
 
-Si puedo atrapar un batazo de aire, entonces tengo una *sensación* instintiva del comportamiento de una pelota de béisbol en vuelo. Mi entendimiento instintivo, sin embargo, no me da la capacidad de lanzar con precisión una nave espacial para orbitar Júpiter. Tengo una "pequeña verdad" inmediata – cómo se moverá la bola – pero eso no me da una "gran verdad" universal – cómo se comporta la materia.
+Si puedo atrapar un batazo alto, entonces tengo una *noción* instintiva para el comportamiento de una pelota de béisbol en vuelo. Mi entendimiento instintivo, sin embargo, no me da la capacidad de lanzar con precisión una nave espacial para orbitar Júpiter. Tengo una "pequeña verdad" de forma inmediata, cómo se moverá la bola, pero esto no me da una "gran verdad" universal, cómo se comporta la materia.
 
-De la misma manera, nuestra repulsión moral común hacia acciones como violaciones y asesinatos es necesariamente imprecisa, pero no nos da la capacidad de crear o validar teorías morales consistentes y empíricas.
+De la misma manera, nuestra común repulsión moral hacia acciones tales como violación y asesinato no son necesariamente imprecisas, pero ellas no nos dan la capacidad de crear o validar consistente y empíricamente las teorías morales.
 
 Si propongo una teoría científica que invalide por completo la habilidad de un jugador de béisbol de atrapar un batazo de aire, entonces tengo el insuperable desafío de explicar cómo el jugador de béisbol de hecho *sí* atrapa la bola. Además, si mi gran teoría no puede predecir con precisión el arco de un batazo de aire, entonces tengo una "gran verdad" que contradice directamente una "pequeña verdad", la cual no puede ser válida. Ya que la necesidad de consistencia lógica surge directamente de las "pequeñas verdades" de la experiencia perceptiva, cualquier teoría que directamente contradiga dicha experiencia no puede ser válida.
 
