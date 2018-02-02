@@ -1,8 +1,8 @@
 ## Existencia versus inexistencia
 
-Definimos "inexistencia" como aquella que no posee masa o energía, o muestra los efectos de la masa o la energía, como relaciones detectables por ejemplo la gravedad.
+Definimos la "inexistencia" como aquello que no posee masa o energía, o muestra los efectos de la masa o energía, como las relaciones detectables, por ejemplo, la gravedad.
 
-Dios no posee masa o energía, ni muestra los efectos de la masa o la energía: Dios, de hecho, no es detectable ni verificable de ninguna manera, figura o forma, ni a través de los sentidos ni a través de la racionalidad.
+Dios no posee masa o energía, o muestra los efectos de la masa o la energía - Dios, de hecho, no es detectable o verificable de ninguna manera, figura o forma, ya sea por los sentidos o por la racionalidad.
 
 Por lo tanto, si digo: "Dios existe", lo que realmente estoy diciendo es:
 
