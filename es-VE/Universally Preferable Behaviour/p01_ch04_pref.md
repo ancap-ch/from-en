@@ -18,13 +18,13 @@ Las Preferencias no existen objetivamente dentro de la realidad. Si usted fuese 
 
 Nosotros podemos encontrar *evidencia* por las preferencias; lo que no podemos encontrar son preferencias *en sí mismas* en la realidad. Las Preferencias existen como una *relación* entre la conciencia y la materia, así como la gravedad existe como una relación entre cuerpos de masa.
 
-Colocando a un lado las preguntas retadoras de libre albedrío versus el determinismo, es razonable asumir que en el presente cualquier persona está haciendo lo que él o ella "prefieren" hacer. Si yo me levanto y me voy al trabajo, entonces obviamente Yo *prefiero* hacer eso, en contra de todas las otras alternativas. Incluso si odio mi trabajo, claramente lo odio *menos* que, digamos, estar sin un centavo.
+Colocando a un lado las preguntas retadoras de libre albedrío versus el determinismo, es razonable asumir que en el presente cualquier persona está haciendo lo que él o ella "prefieren" hacer. Si yo me levanto y me voy al trabajo, entonces obviamente Yo *prefiero* hacer eso, en contra de todas las otras alternativas. Aún si yo odiase mi trabajo, claramente lo odio *menos* que, digamos, estar sin un centavo.
 
-Dado que los seres humanos podemos realizar una casi infinita variedad de acciones, cualquier cosa que una persona esté haciendo en un momento es escogido entre todas las otras posibles opciones. Estoy eligiendo escribir este libro en lugar de, digamos, aprender tango.
+Dado que los seres humanos pueden realizar cerca de una variedad infinita de acciones, lo que sea que una persona está haciendo en un momento dado es escogido entre otras opciones posibles. Yo estoy escogiendo escribir éste libro en vez de, digamos, aprender a bailar Tango.
 
-Cuando aplicamos este simple hecho a los argumentos éticos, llegamos a algunos resultados muy interesantes.
+Cuando aplicamos este simple hecho a los argumentos éticos, llegamos a resultados muy interesantes.
 
-### Preferencias Y Argumentos
+### Preferencias y Argumentos
 
 Recordando nuestro análisis anterior sobre los argumentos contraproducentes, podemos entender fácilmente la naturaleza contradictoria de la declaración: "las preferencias no existen." Dado que toda acción humana – incluyendo las declaraciones filosóficas – es escogida en preferencia a cualquier otra posible acción, argumentar que las preferencias no existen requiere una *preferencia* por argumentar que las preferencias no existen, lo cual es una declaración contradictoria en sí misma. Argumentar que las preferencias no existen es exactamente lo mismo que argumentar que el lenguaje no existe. Es un argumento totalmente contraproducente.
 
