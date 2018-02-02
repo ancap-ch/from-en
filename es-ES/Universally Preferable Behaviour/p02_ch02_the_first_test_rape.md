@@ -130,7 +130,7 @@ El violador puede justificar sus acciones evitando la proposición "la violació
 
 Esta proposición también falla la prueba lógica más básica de UPB. Si Bob cree que debería tomar su propio placer violando a Doug - independientemente del desagrado de Doug - entonces Bob no puede elevar racionalmente su preferencia a un UPB.
 
-If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
+Si todos deben tomar su placer propio independientemente del *des*agrado de sus víctimas, entonces Bob no tiene derecho de violar a Doug, ya que aunque Bob *prefiere* violar a Doug, Doug sin duda *no* prefiere ser violado. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
 
 Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
 
