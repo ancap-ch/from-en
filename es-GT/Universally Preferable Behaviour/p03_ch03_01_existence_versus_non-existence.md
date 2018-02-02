@@ -4,11 +4,11 @@ Definimos la "inexistencia" como aquello que no posee masa o energía, o muestra
 
 Dios no posee masa o energía, o muestra los efectos de la masa o la energía - Dios, de hecho, no es detectable o verificable de ninguna manera, figura o forma, ya sea por los sentidos o por la racionalidad.
 
-Por lo tanto, si digo: "Dios existe", lo que realmente estoy diciendo es:
+Por ende si yo digo, "dios existe" lo que realmente estoy diciendo es:
 
-"* Lo que existe debe ser detectable; Dios no puede ser detectable, pero Dios existe; por lo tanto, existe lo que no existe. * "
+"*Lo que existe debe ser detectable; dios no puede ser detectable, pero Dios existe - Por lo ranto, eso que no existe, existe.*"
 
-En otras palabras, al decir "Dios existe", he creado una contradicción insuperable. Definí "existencia" como "inexistencia", que tiene tanto sentido como definir "vida" como "materia inanimada", o una piedra como "lo opuesto a una roca", o "cuadrado" como " circulo."
+En otras palabras, al decir "Dios existe", he creado una contradicción insuperable. He definido "existencia" como "inexistencia" lo que tiene tanto sentido como definir "vida" como "materia inanimada", o una piedra como "lo opuesto a una roca", o un "cuadrado" como un "circulo"
 
 De forma similar, si creo un universo alternativo donde "la no existencia es igual a la existencia" y "contradicción es igual a consistencia" y "verdad es igual a falsedad" e "irracionalidad es igual a racionalidad", entonces lo que realmente he hecho es crear un reino llamado "error", poner todo lo que no es verdad y definir este reino como un lugar donde "el error es igual a la verdad". [^2]
 
