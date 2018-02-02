@@ -38,7 +38,7 @@ i. Ang **Mga Lisensiyadong Karapatan** ay nangangahulugan na ang mga karapatan n
 
 j. Ang **Tagalisensiya** ay nangangahulugan ng (mga) indibiduwal o (mga) entitiya na nagpapakaloob ng mga karapatan sa loob nitong Publikong Lisensiya.
 
-k. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+k. Ang **Pagbabahagi** ay nangangahulugan na magbibigay ng materyal sa publiko sa kahit anong paraan o proseso na mangangailangan ng permisyon sa loob ng Mga Lisensiyadong Karapatan, katulad ng reproduksyon, pampublikong pagpapakita, distribusyon, diseminasyon, komunikasyon, o pag-iimport, at upang makagawa ng materyal na magagamit sa publiko kasama ng mga paraan na ang mga membro sa publiko ay makaka-akses sa materyal mula sa isang lugar at sa oras na mag-isang pinili nila.
 
 l. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
 
