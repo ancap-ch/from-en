@@ -48,19 +48,19 @@ m. **Ikaw** ay nangangahulugan na ang indibiduwal o entitiya sa pagsasanay ng Mg
 
 a. ***Pagkaloob ng Lisensiya.***
 
-1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+1. Sakop sa mga termino at kondisyon nitong Publikong Lisensiya, ang Tagalisensiya ay magpapakaloob sa Iyo ng pangdaigdigan, libreng-royalitiya, hindi sublisensiyado, hindi eksklusibo, hindi rebokableng lisensiya upang masanay ang mga Lisensiyadong Karapatann sa Lisensiyadong Materyal na:
     
-    A. reproduce and Share the Licensed Material, in whole or in part; and
+    A. magpadami at Magbahagi ng Lisensiyadong Materyal, na sa kabuuan o sa parte, at
     
-    B. produce, reproduce, and Share Adapted Material.
+    B. Magpadami, muling magpadami, at Magbahagi ng Nakupkop na Materyal.
 
-2. **Exceptions and Limitations.** For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+2. **Mga Eksepsyon at Limitasyon.** Para sa kaiwasan ng pagdududa, kung saan ang Mga Eksepsyon at Limitasyon ay mapapalagay sa Iyong paggamit, itong Publikong Lisensiya ay hindi magpapalagay, at Ikaw ay hindi na kailangan gumanap sa mga termino at kondisyon nito.
 
-3. **Term.** The term of this Public License is specified in Section 6(a).
+3. **Termino.** Ang termino nitong Publikong Lisensiya ay nakatukoy sa Seksyon 6(a).
 
-4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+4. **Medya at mga pormat; teknikal na modipikasyon ay pinapahintulutan.** Ang Tagalisensiya ay nagbibigay ng awtorisasyon sa Iyo upang masanay ang mga Lisensyadong Karapatan sa lahat ng medya at mga pormat kahit kilala ngayon o pagkatapos pa nagawa, at upang makagawa ng teknikal na mga modipikasyon na kinakailangan gawin. Ang Tagalisensiya ay nag-aatras at/o nagsasang-ayon na hindi i-alay ang kahit anong mga karapatan o awtoridad upang mabawalan Ka sa paggawa ng teknikal na mga modipikasyon na kinakailangan upang masanay ang Mga Lisensyadong Karapatan, kasali na ang teknikal nga mga modipikasyon na kinakailangan upang masirkumbent ang Mga Epektibong Teknolohikang Hakbang. Para sa mga layunin nitong Publikong Lisensiya, ang simpleng paggawa ng mga modipikasyon na binigyan ng awtorisasyon ng Section 2(a)(4) ay hindi kailanman magbubunga ng Nakupkop na Materyal.
 
-5. **Downstream recipients.**
+5. **Pababangstream na mga tagatanggap.**
     
     A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
     
