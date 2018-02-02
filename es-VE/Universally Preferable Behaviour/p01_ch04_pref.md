@@ -34,15 +34,15 @@ Ya que es imposible actuar sin expresar una preferencia, sea ésta implícita o 
 
 La siguiente pregunta sería entonces: ¿Son las preferencias puramente subjetivas, o pueden ser universales?
 
-Claramente, algunas preferencias son subjetivas. Los gustos musicales, los pasatiempos personales, la literatura favorita y así sucesivamente son todas preferencias subjetivas y personales.
+Claramente, algunas preferencias son subjetivas. Gustos musicales, pasatiempos personales, la literatura favorita y otras muchas son todas ellas preferencias subjetivas y personales.
 
-El desafío inicia cuando intentamos definir algunas preferencias como *objetivas*.
+El reto comienza cuando tratamos de definir algunas preferencias como *objetivas*.
 
-La proposición ante nostros sería esta: *¿pueden algunas preferencias ser objetivas, es decir, universales?*
+La proposición delante de nosotros sería: *¿pueden algunas preferencias ser objetivas, es decir, universales?*
 
-Cuando digo que algunas preferencias podrían ser objetivas, no me refiero a que todas las personas sigan esas preferencias todo el tiempo. Si yo argumentase que *respirar* es una preferencia objetiva, podría ser fácilmente refutado por el ejemplo de aquellos que cometen suicidio ahorcándose. Si yo argumentase que comer es una preferencia objetiva, mi argumento podría ser refutado con ejemplos de huelgas de hambre y anorexia.
+Cuando yo digo que algunas preferencias pueden ser objetivas, yo no intento decir que todas las personas sigan esas preferencias todo el tiempo. Si yo argumentase que *la respiración* es una preferencia objetiva, podría ser fácilmente refutado con el ejemplo de aquellos que cometen suicidio al ahorcarse. Si yo argumentase que comer es una preferencia objetiva, mi argumento sería refutado con ejemplos de huelgas de hambre y la anorexia.
 
-Por lo tanto cuando hablo de preferencias universales, estoy hablando sobre lo que las personas *deberían* preferir, no lo que siempre *en realidad* prefieren. Para usar una analogía científica, para verdaderamente entender el universo, las personas *deberían* usar el método científico – esto no significa que siempre lo hagan, ya que claramente miles de millones de personas consultan cuentos de hadas antiguos en lugar de la ciencia moderna en busca de "respuestas." No hay una manera de alcanzar una verdad sobre el universo sin la ciencia, pero las personas son perfectamente libres de redefinir la "verdad" como un "error," y conformarse con un sinsentido místico.
+Entonces cuando hablo sobre preferencias universales, estoy hablando sobre lo que las personas *deberían* preferir, no sobre lo que ellas *siempre* prefieren. Para usar una analogía científica, para verdaderamente entender el universo, las personas *deberían* usar el método científico – esto no significa que siempre lo hagan, ya que claramente miles de millones de personas consultan cuentos de hadas antiguos en lugar de la ciencia moderna en busca de "respuestas." No hay una manera de alcanzar una verdad sobre el universo sin la ciencia, pero las personas son perfectamente libres de redefinir la "verdad" como un "error," y conformarse con un sinsentido místico.
 
 De la misma forma, si un hombre quiere curarse una infección, él *debería* tomar antibióticos en lugar de realizar una danza azteca de la lluvia. La preferencia por tomar antibióticos en lugar de hacer una danza de la lluvia es universal, ya que la danza no cura infecciones. Así, aunque existe el loco ocasional que tratará de curarse a sí mismo danzando, todavía sigue siendo *universalmente preferible* que si un hombre quiere curarse, debe tomar antibióticos.
 
