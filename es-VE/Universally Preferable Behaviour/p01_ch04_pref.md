@@ -1,4 +1,4 @@
-## Preferencias
+## Preferencias y Existencia
 
 Ahora que entendemos la naturaleza de los argumentos contraproducentes, podemos volver a la pregunta de las preferencias.
 
@@ -12,9 +12,9 @@ En consecuencia la Ética, tal como en la ciencia, las matemáticas, la ingenier
 
 ### Preferencias y Existencia
 
-Si yo digo "Me gusta el helado," solo una palabra permanece ambigua en esa frase. Claramente "Me" existe, ya que estoy expresando una preferencia personal. Igualmente claramente, "el helado" también existe en la realidad. Sin embargo, la palabra "gusta" es más problemática.
+Si yo digo "Me gusta el helado," solamente una palabra permanece ambigua en esta oración. Claramente "Yo" existe, ya que yo estoy expresando una preferencia personal. Igualmente clara, "helado" también existe en la realidad. Sin embargo, la palabra "gusta" es más problemática.
 
-Las preferencias no existen objetivamente dentro de la realidad. Si tú fueses obsesivamente curioso, quizás podrías seguirme y registrar cada vez que coma helado, lo cual probablemente proporcionaría una buena base empírica para establecer mi preferencia por él. Podría existir la posibilidad, sin embargo, de que yo de hecho sea un masoquista, me disguste el helado intensamente, y prefiera torturarme a mí mismo con su desagradable sabor – y entonces confundirte alegando que me gusta.
+Las Preferencias no existen objetivamente dentro de la realidad. Si usted fuese obsesivamente curioso, usted podría quizás seguirme y registrar cada momento en que yo coma helado, lo cual podría proveer una buena base empírica para establecer mi preferencia por el helado. Podría existir la posibilidad, sin embargo, de que yo de hecho sea un masoquista, me disguste el helado intensamente, y prefiera torturarme a mí mismo con su desagradable sabor – y entonces confundirte alegando que me gusta.
 
 Podemos encontrar *evidencia* para las preferencias; no podemos encontrar preferencias *por sí mismas* en la realidad. Las preferencias existen como una *relación* entre la conciencia y la materia, tal como la gravedad existe como una relación entre cuerpos de masa.
 
