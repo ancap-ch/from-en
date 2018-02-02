@@ -8,9 +8,9 @@ Si puedo atrapar un batazo alto, entonces tengo una *noción* instintiva para el
 
 De la misma manera, nuestra común repulsión moral hacia acciones tales como violación y asesinato no son necesariamente imprecisas, pero ellas no nos dan la capacidad de crear o validar consistente y empíricamente las teorías morales.
 
-Si propongo una teoría científica que invalide por completo la habilidad de un jugador de béisbol de atrapar un batazo de aire, entonces tengo el insuperable desafío de explicar cómo el jugador de béisbol de hecho *sí* atrapa la bola. Además, si mi gran teoría no puede predecir con precisión el arco de un batazo de aire, entonces tengo una "gran verdad" que contradice directamente una "pequeña verdad", la cual no puede ser válida. Ya que la necesidad de consistencia lógica surge directamente de las "pequeñas verdades" de la experiencia perceptiva, cualquier teoría que directamente contradiga dicha experiencia no puede ser válida.
+Si yo propongo una teoría científica que invalide completamente la habilidad de un jugador de béisbol para atrapar una bola alta, entonces yo tengo el desafío insuperable de explicar como el jugador de béisbol actualmente *sí* atrapa la bola. También, si mi gran teoría no puede predecir precisamente el arco que describe la bola en vuelo, entonces yo tengo una "gran verdad" que directamente contradice una "pequeña verdad", lo cual no puede ser válido. Dado que la necesidad de consistencia lógica surge directamente desde "pequeñas verdades" basadas en experiencias perceptivas, cualquier teoría que contradiga directamente tales experiencias no puede ser válida.
 
-En otras palabras, los sentidos dan lugar a la lógica – de manera que la lógica no puede contradecir la evidencia de los sentidos. La evidencia siempre triunfa sobre la explicación.
+En otras palabras, los sentidos dan lugar a la lógica, por ende la lógica no puede contradecir la evidencia que dan los sentidos. La evidencia siempre triunfa sobre la explicación.
 
 De una manera similar, toda teoría ética válida debe ser capaz de explicar y justificar nuestra repulsión común hacia crímenes como el asesinato y la violación. No puede contradecir razonablemente las prohibiciones universales de la humanidad, pero puede incorporarlas con precisión y explicarlas.
 
