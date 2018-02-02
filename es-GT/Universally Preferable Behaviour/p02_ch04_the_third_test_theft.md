@@ -28,11 +28,11 @@ Ahora, si una posesión demoníaca fuese una ocurrencia válida, y la chica pose
 
 Por ello, rechazar la potestad sobre el cuerpo es rechazar toda moralidad, lo que, como vimos anteriormente, es absolutamente imposible. Lógicamente, dado que la moralidad es definida como un conjunto obligatorio de CUP, rechazar la moralidad es decir que es universalmente preferible creer que no existe tal cosa como las preferencias universales.
 
-Finalmente, utilizar la posesión del cuerpo de uno en la forma de discurso para rechazar la noción de que uno puede controlar su propio cuerpo, es una auto contradicción descarada.
+Finalmente, usar la propiedad del cuerpo de uno en la forma de habla para rechazar la noción de que uno puede controlar su propio cuerpo, es un descaro y una insuperable auto-contradicción.
 
-Es de esta forma que cualquier rechazo de auto propiedad puede ser absolutamente descartado.
+Es de este modo que cualquier rechazo de auto-propiedad puede ser absolutamente descartado.
 
-Como nosotros poseemos nuestros cuerpos, también poseemos inevitablemente los *efectos* de nuestras acciones, ya sean buenas o malas. Si poseemos los efectos de nuestras acciones, entonces claramente poseemos lo que producimos, así produzcamos un arco, o un libro - o un asesinato.
+Dado que poseemos nuestros cuerpos, también somos dueños inevitablemente de los *efectos* de nuestras acciones, sean buenas o malas. Si somos dueños de los efectos de nuestras acciones, entonces claramente poseemos lo que producimos, así sea que produzcamos un arco, un libro -o un homicidio.
 
 ### Propiedad y CUP
 
