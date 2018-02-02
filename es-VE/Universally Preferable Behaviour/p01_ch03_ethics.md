@@ -1,6 +1,6 @@
 ## Ética
 
-Puesto que la ética es un tema del cual ya todos tenemos opiniones, es importante delinear la relación entre la ética *instintiva* y la ética *racional*.
+Puesto que la Ética es un asunto sobre el cual todos tenemos opiniones al respecto, es importante subrayar la relación que existe entre ética *instintiva* y ética*racional*.
 
 Un jugador de béisbol puede atrapar un batazo de aire incluso si no sabe nada sobre física. De manera similar, podemos percibir correctamente una acción como inmoral incluso sin saber nada sobre teorías éticas.
 
