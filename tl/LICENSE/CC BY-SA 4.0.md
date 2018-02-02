@@ -40,13 +40,13 @@ j. Ang **Tagalisensiya** ay nangangahulugan ng (mga) indibiduwal o (mga) entitiy
 
 k. Ang **Pagbabahagi** ay nangangahulugan na magbibigay ng materyal sa publiko sa kahit anong paraan o proseso na mangangailangan ng permisyon sa loob ng Mga Lisensiyadong Karapatan, katulad ng reproduksyon, pampublikong pagpapakita, distribusyon, diseminasyon, komunikasyon, o pag-iimport, at upang makagawa ng materyal na magagamit sa publiko kasama ng mga paraan na ang mga membro sa publiko ay makaka-akses sa materyal mula sa isang lugar at sa oras na mag-isang pinili nila.
 
-l. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+l. **Mga Karapatan ng Sui Generis na Database** ay nangangahulugan na ang mga karapatan ng iba maliban sa karapatang makapaglathala ay mareresulta mula sa Direktibong 96/9/EC ng European na Parliyamento at ng Council ng 11 March 1996 sa legal na proteksyon ng mga database, bilang pag-aamendo at/o pagkasunod, kabilang na ang ibang mga esensyal na katumbas na mga karapatan kahit saan man sa mundo.
 
-m. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+m. **Ikaw** ay nangangahulugan na ang indibiduwal o entitiya sa pagsasanay ng Mga Lisensiyadong Karapatan sa loob nitong Publikong Lisensiya. Ang iyo ay may katumbas na kahulugan.
 
-### Section 2 – Scope.
+### Seksyon 2 – Saklaw.
 
-a. ***License grant.***
+a. ***Pagkaloob ng Lisensiya.***
 
 1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
     
