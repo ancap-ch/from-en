@@ -34,7 +34,7 @@ Las afirmaciones fanáticas de "fe", por definición no pueden ser probadas, ya 
 
 Podemos creer en cosas no comprobadas que resultan ser ciertas, alguien sin duda pensó que el mundo era redondo antes de que se probara, pero la "zona nula" es el reino en el que nos aferramos a una creencia en cosas que *no podrían resultar ser verdad*.
 
-Si digo que dos más dos es igual a cinco, estoy cometiendo un error que se puede corregir con referencia a la lógica. Si digo que creo que existe un círculo cuadrado, entonces estoy haciendo una declaración explícitamente contradictoria que se refuta a sí misma. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+Si digo que dos más dos es igual a cinco, estoy cometiendo un error que se puede corregir con referencia a la lógica. Si digo que creo que existe un círculo cuadrado, entonces estoy haciendo una declaración explícitamente contradictoria que se refuta a sí misma. Si voy más lejos, sin embargo, y enfáticamente afirmo que "foo mas tury es igual a desty" - y me niego a definir cualquiera de mis términos - estoy haciendo una declaración a la cual lógica y evidencia *no pueden ser aplicadas*.
 
 ### Next Stop: The "Alternative Universe"
 
