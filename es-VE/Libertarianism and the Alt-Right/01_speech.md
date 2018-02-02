@@ -122,46 +122,46 @@ Para cimentar su propia posición, la clase dominante ha puesto a la clase baja 
 
 La mayoría, si no todas, las patologías sociales que plagan al Occidente contemporáneo tienen su raíz común en la institución de la "educación pública". Cuando se tomaron los primeros pasos, hace más de dos siglos, en Prusia, para suplementar y finalmente reemplazar una antiguamente completamente privada sistema de educación con un sistema universal de "educación pública" obligatoria, el tiempo pasado en las escuelas estatales en la mayoría de los casos no excedió los cuatro años. Hoy, en todo el mundo occidental, el tiempo que se pasa en instituciones de "educación pública" es, como mínimo, de unos diez años, y en muchos casos, y cada vez más, de veinte o incluso treinta años. Esto significa que gran parte o la mayoría del tiempo del período más formativo en la vida de un ser humano se gasta en instituciones financiadas y supervisadas por el Estado, cuya meta principal desde el principio *no* era criar a un público ilustrado, sino entrenar "buenos soldados" y "buenos servidores públicos": Todo lo contrario a seres independientes y maduros o "mündige Bürger", sino subordinados y serviles "Staats-Bürger". ¿Cual es el resultado? El adoctrinamiento ha funcionado: mientras más pasa una persona en del sistema de educación pública, más se une a las ideas igualitarias de izquierda además de tragarse e interiorizar de todo corazón la doctrina oficial y la agenda de la "corrección política". Incluso entre profesores y maestros de ciencias sociales, personas que *no* se consideran parte de la izquierda han dejado de existir prácticamente. Por esto se debe exigir que el control de escuelas y universidades esté alejado del Estado central y este sea devuelto a las autoridades regionales de momento, o mejor aún, que sean localmente financiadas, y al final se privatice por completo, a fin de reemplazar un sistema uniforme y centralizado, con un sistema de educación completamente descentralizado que refleje las diferencias naturales, la multiplicidad y diversidad de los talentos e intereses de las personas.
 
-#### Don’t put your trust in politics or political parties
+#### No poner la confianza en políticos o partidos políticos
 
-Just as *academia* and the academic world cannot be expected to play any significant role in a libertarian strategy for social change, so with politics and political parties – after all, it is the ultimate goal of libertarianism to put an end to all politics, and to subject all interpersonal relations and conflicts to private law and civil law procedures. To be sure, under present, all-pervasively politicized conditions an involvement in politics and party politics cannot be entirely avoided. However, in any such involvement one must be keenly aware of and guard against the corrupting influence of power and the lure of money and perks that comes with it. And to minimize this risk and temptation, it is advisable to concentrate one’s efforts on the level of regional and local rather than national politics, and there to promote a radical agenda of decentralization: of nullification and peaceful separation, segregation and secession. Most importantly, however, we must take heed of Ludwig von Mises’ life-motto: Do not give in to evil, but proceed ever more boldly against it. That is, we must speak out whenever and wherever, whether in formal or informal gatherings, against anyone affronting us with by now only all-too-familiar “politically correct” drivel and left-egalitarian balderdash and unmistakably say: “No. Hell no. You must be kidding.” In the meantime, given the almost complete mind-control exercised by the ruling elites, *academia* and the MSM, it already requires a good portion of courage to do so. But if we are not brave enough to do so now and thus set an example for others to follow, matters will become increasingly worse and more dangerous in the future, and we, Western civilization and the Western ideas of freedom and liberty will be wiped out and vanish.
+Al igual que de la *academia* y del mundo académico no se puede esperar que jueguen un papel significativo en una estrategia libertaria para el cambio social, tampoco de la política y los partidos políticos, después de todo, el objetivo último del libertarismo es poner un poner fin a todas las políticas y someter todas las relaciones interpersonales y conflictos a los procedimientos de derecho privado y civil. Sin duda, bajo las condiciones actuales, totalmente politizadas, una participación en la política y la política partidaria no puede evitar del todo. Sin embargo, en cualquier implicación de este tipo uno debe ser muy consciente y protegerse contra la influencia corruptora del poder y el atractivo del dinero y las ventajas que vienen con este. Y para minimizar este riesgo y tentación, es aconsejable concentrar los esfuerzos la política de nivel regional y local en lugar de la nacional, y promover una agenda radical de descentralización: de anulación y separación pacífica, segregación y secesión. Lo más importante, sin embargo, es que debemos prestar atención al lema de la vida de Ludwig von Mises: no ceder ante el mal, sino proceder cada vez más valientemente contra él. Es decir, debemos hablar cuando y donde sea, ya sea en reuniones formales o informales, contra cualquiera que nos ofenda con tonterías "políticamente correctas" de izquierdistas igualitarios, e inequívocamente decir: "No. Joder no, tu tienes que estar bromeando" Mientras tanto, dado el control mental casi completo ejercido por las élites gobernantes, la *academia* y los MSM, ya se requiere una buena dosis de coraje para hacerlo. Pero si no somos lo suficientemente valientes como para hacerlo ahora y, por lo tanto, establecer un ejemplo para que otros lo sigan, las cuestiones serán cada vez peores y más peligrosas en el futuro, y nosotros, la civilización occidental y las ideas occidentales de libertad serán aniquiladas y desaparecerán.
 
-[^1]: That must be appropriated with our own nature-given, i.e., un-appropriated, body.
+[^1]: Eso debe ser apropiado con nuestra propia naturaleza, es decir, no apropiado cuerpo.
 
-[^2]: Property.
+[^2]: Propiedad.
 
-[^3]: Conflict-free.
+[^3]: Sin conflictos.
 
 [^4]: Y todos los propietarios posteriores se conectaron con él a través de una cadena de intercambios voluntarios.
 
-[^5]: Whose leadership, to its credit, after Trump’s election victory, quickly broke with Trump when he turned out to be just another presidential warmonger.
+[^5]: Cuyo liderazgo, en su deber, después de la victoria electoral de Trump, rompió rápidamente con Trump cuando resultó ser simplemente otro presidente belicista.
 
-[^6]: *Aka* Mencius Moldbug.
+[^6]: *Tambien conocido como* Mencius Moldbug.
 
-[^7]: *Aka* Soviet Poverty Lie Center.
+[^7]: *Tambien conocido como* Falso Centro soviético de la pobreza.
 
-[^8]: *Aka* “non-discrimination”.
+[^8]: *Tambien conocido como* "No discriminacion"
 
-[^9]: Which I have termed the “Stupids for Liberty” and my young German friend Andre Lichtschlag as “Liberallala-Libertarians”.
+[^9]: Lo que he denominado "Estúpidos por la libertad" y mi joven amigo alemán Andre Lichtschlag como "Liberallala-Libertarios".
 
 [^10]: Colin Robertson.
 
-[^11]: Which, of course, was the reason for having invited them here.
+[^11]: El cual, por cierto, fue la razón de haberlos invitado aquí.
 
-[^12]: Which is entirely compatible with libertarianism and its *desideratum* of freedom of association and opposition to forced integration.
+[^12]: Lo cual es totalmente compatible con el libertarismo y su *deseo* de libertad de asociación y oposición a la integración forzada.
 
-[^13]: Which is antithetical to libertarianism and inimical to human prosperity.
+[^13]: La cual es la antítesis del libertarismo y hostil a la prosperidad humana.
 
-[^14]: Let me hasten to add here that, despite my misgivings about his “economics,” I still consider Pat Buchanan a great man.
+[^14]: Permítanme apresurarme a agregar aquí que, a pesar de mis dudas sobre su "economía", yo todavía considero a Pat Buchanan como un gran hombre.
 
-[^15]: An endeavor, by the way, that has been ridiculed by Taki Theodoracopulos, a veteran champion of the paleo-conservative-turned-Alt-Right movement and Spencer’s former employer.
+[^15]: Un esfuerzo, por cierto, que ha sido ridiculizado por Taki Theodoracopulos, un veterano campeón del movimiento paleo-conservador convertido en la derecha alternativa y ex empleador de Spencer.
 
-[^16]: Many youngsters have been initially attracted to libertarianism believing that this “live and let live” is the essence of libertarianism.
+[^16]: Muchos jóvenes se han sentido atraídos por el libertarismo al creer que este "vive y dejar vivir" es la esencia del libertarismo.
 
-[^18]: Except as some idle intellectual play or mental gymnastics by a few “exotic” individuals.
+[^18]: Excepto por algunos juegos intelectuales o gimnasia mental de unos pocos individuos "exóticos".
 
-[^19]: Whereas the least support should be expected to come from the legally most “protected” groups such as, for instance, single Black Muslim mothers on welfare.
+[^19]: Considerando que se debe esperar que el menor apoyo provenga de los grupos legalmente más "protegidos", como, por ejemplo, madres musulmanas negras solteras que reciben asistencia social.
 
-[^20]: Brief message to all open-border and liberallala libertarians, who will surely label this, you guessed it, “fascist”: In a fully privatized libertarian order there exists no such thing as a right to free immigration. Private property implies borders and the owner’s right to exclude at will. And “public property” has borders as well. It is not unowned. It is the property of domestic tax-payers and most definitely not the property of foreigners. Aún siendo cierto que el Estado es una organización delincuencial, y que asignarle la tarea del control de fronteras terminará irremediablemente en múltiples injusticias tanto para los residentes nacionales como para los extranjeros, es también cierto que el Estado *si hace algo* cuando decide *no* hacer algo al respecto del control de fronteras, y que en las circunstancias actuales, no hacer nada en absoluto a este aspecto, causará injusticias aún peores, en particular a la ciudadanía doméstica.
+[^20]: Breve mensaje para todos los libertarios Liberallala y de fronteras abiertas, que seguramente etiquetarán esto como, lo adivinaron, "fascista": en un orden libertario totalmente privatizado no existe el derecho a la inmigración libre. La propiedad privada implica fronteras y el derecho del dueño a excluir como sea su deseo. Y "la propiedad publica" también tiene fronteras. No es desconocido. Es propiedad de los contribuyentes nacionales y definitivamente no es propiedad de extranjeros. Aún siendo cierto que el Estado es una organización delincuencial, y que asignarle la tarea del control de fronteras terminará irremediablemente en múltiples injusticias tanto para los residentes nacionales como para los extranjeros, es también cierto que el Estado *si hace algo* cuando decide *no* hacer algo al respecto del control de fronteras, y que en las circunstancias actuales, no hacer nada en absoluto a este aspecto, causará injusticias aún peores, en particular a la ciudadanía doméstica.
 
-[^21]: Query for liberallala-libertarians and the Stupids for Liberty, who are sure to object to this demand on the ground that the police asked to crush the “anti-fascist” mob are *State-_police: Do you also object, on the same grounds, that the police arrest murderers or rapists? Aren’t these legitimate tasks performed also in any libertarian order by _private* police? And if the police are not to do anything about this mob, isn’t it o.k. then that the target of its attacks, the “racist Right,” should take the task upon itself of giving the “social justice warriors” a bloody nose?
+[^21]: La consulta para los libertarios liberallala y los Estúpidos por la Libertad, quienes seguramente objetarán a esta demanda sobre la base de que la policía solicitó aplastar a la mafia "antifascista" es *Estado-policíal: ¿También objeta usted, en el mismo motivo, que la policía arresta asesinos o violadores? ¿Estas tareas legítimas tampoco las realiza ninguna orden libertaria de la policía privada*? Y si la policía no debe hacer nada con esta mafia, ¿no está bien, entonces que el objetivo de sus ataques, la "derecha racista", debería asumir la tarea de darles a los "guerreros de la justicia social" una nariz sangrienta?
