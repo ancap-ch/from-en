@@ -8,7 +8,7 @@ The “argument from practicality” in no way solves the problem of violence. I
 
 Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
 
-Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
+Ponadto, jeśli przedstawiciele rządu twierdzą, że umowa społeczna pozwala im zmusić "niepraktyczną" populację do bardziej "praktycznego zachowania", powstaje niesprawiedliwa sprzeczność.
 
 Jeśli zmuszę kobietę, by poślubiła mężczyznę, którego dla niej wybrałem, to wyraźnie uważam, że mam nieskończenie lepszy osąd o stosowności męża dla niej niż ona. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
 
@@ -51,7 +51,7 @@ In the second case (*all men are immoral*), the government cannot be permitted t
 
 However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
 
-Thus if evil people wish to do harm, but are only restrained by force, then society can *never* permit a government to exist, because evil people will work feverishly to grab control of that government, in order to do evil and avoid retribution. In a society of pure evil, then, the only hope for stability would be a state of nature, where a general arming and fear of retribution would blunt the evil intents of disparate groups. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
+Tak więc, jeśli źli ludzie chcą wyrządzić krzywdę, ale są ograniczani jedynie siłą, społeczeństwo nie może *nigdy* zezwolić na istnienie rządu, ponieważ źli ludzie będą pracować gorączkowo, aby przejąć kontrolę nad tym rządem, aby czynić zło i uniknąć kary. W społeczeństwie czystego zła jedyną nadzieją na stabilność byłby stan natury, w którym ogólne zbrojenie i strach przed zemstą stępiłyby zło intencje odmiennych grup. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
 
 Trzecią możliwościowa jest to że *większość* ludzi jest zła i tylko niektórzy są dobrzy. W tym przypadku, rząd również nie może istnieć, ponieważ większość tych u władzy rządu będzie zła i despotycznie rządziła dobrą mniejszością. Democracy in particular cannot be permitted, since the minority of good people would be subjugated to the democratic control of the evil majority. Zli ludzie, którzy chcą wyrządzić krzywdę bez lęku przed zemstą, nieuchronnie kontrolowaliby rząd i użyli jego mocy, by czynić zło wolne od strachu przed konsekwencjami.
 

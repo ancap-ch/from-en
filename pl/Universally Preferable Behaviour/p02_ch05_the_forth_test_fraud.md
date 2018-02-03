@@ -2,7 +2,7 @@
 
 Right at the edge of what is generally considered ethical sits the challenge of *fraud*.
 
-Fraud is the obtaining of value through false representation. If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
+Fraud is the obtaining of value through false representation. Jeśli powiem ci, że dostarczę ci iPoda, jeśli dasz mi dwieście dolarów, a potem wezmę pieniądze bez wysyłania iPoda, instynktownie rozumiemy, że jest to forma kradzieży.
 
 Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
 

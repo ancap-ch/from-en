@@ -36,7 +36,7 @@
 
 在道德领域也是如此。
 
-### The Casualties
+### 伤亡者
 
 跨越这个“零地域”充满了危险。 小道理通往大真理的道路是由百万骨头堆砌而成的。 从苏格拉底之死到宗教狂热者对早期科学家的酷刑，再到数以百万计的人被谋杀、为法西斯主义和共产主义的黑色幻想而献身的人，任何人类知识的向前推动进入“零地域”都充满了相当大的危险。
 
@@ -48,55 +48,55 @@
 
 于是，必然有一种下行力，它在历史上的作用是粉碎和奴役人类的天赋自由权。
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+在科学领域，不难看到能让我们心智持续处于近乎原始矇昧的压抑力。 以宗教形式的迷信和以贵族形式的暴力相结合，用恐吓、监禁、酷刑和谋杀威胁理性思想家。 正如农民从他的牛的低智力中获利一样，奴隶主从奴隶的恐惧中获利，神父和国王对任何敢思考的人进行死亡威胁来保留他们的特权。
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+简单的事实是，“神父”和“国王”曾是—现在是—而且仅仅是男人。简单的事实是，上帝和魔鬼从未存在过，但他们理应为他们的统治辩护。
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+我们在理解人类平等的本质和现实上取得了长足进步，但令人悲哀的事实是，*道理*领域仍迷失在“零区域”—是对“中间真理”的破坏性幻想。
 
-### "Middle Truths"
+### “中间真理”
 
 Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+这些“中间真理”是所有人中最危险的幻想，因为他们承认真相的*出现*，同时竟*攻击*真相。
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+通过提供我们已经找到的真相的幻觉，实际上“中间真理”却阻止我们获得真相。它们是幻想、掠夺和剥削的最后一道防线。
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+因为它们不仅是非理性的，而且是*反*理性的，“中间真理”仍然是无限灵活的—只要它们为掌权者服务。 例如，基督教产生的部分原因是因为通过抨击已有神学的“原始”迷信使得罗马帝国晚期不断增长的法西斯主义。 “忘掉你的旧神，我们有一个崭新的神，他比旧神好太多了！”
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+“中间真理”总以真理的形式出现，并紧随着一个谎言。 “宙斯是一个异教徒”是一个真实的陈述，这是基督教徒公开地布道。 紧随其后的谎言是：“耶和华不是一个异教徒，而是一个真正的活生生的神。”
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+我们可以用一个例子让这更个性化一点，这个例子对于曾被建议需要有一个蹩脚的朋友的任何人来说都很熟悉。 她说，“我上一个男友真是个混蛋，”你会很强烈地表示赞同。 她补充说到，“但是我的新男友真的很*好*，“你试着不去翻白眼。
 
-It is very hard not to replace one illusion with another.
+很难不用一个幻象替代另一个幻象。
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+在十八世纪，美国革命者哭喊着“英国政府实施暴政！”—在驱赶英国军队后，他们建立了自己的政府，开始攻击他们自己的公民。
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+其他革命者哭喊道，“贵族是个不公平的可憎之物”，革命者建立起民主形式的多数派专制。
 
-“Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
+“中间真理”也存在于科学中，类似地从小道理到大真理阻碍了自然的进化。 直到十八世纪，例如生物学家相信“自然发生说”，或是认为生命起源于无生命物质。 当然，这一点从未被观察过，但这符合哲学和宗教的古老文献，因此作为事实被接受。 另外，在1905年爱因斯坦革命之前，大家认为光是通过一个固定而无形的物质“以太”来移动的，正如音波是通过空气来移动的。 相信此理论的科学家没有实验证明，也没有亲身体会或是科学证据证明“以太”—它被认为有必要遵循其他应遵循的特征。
 
-Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+宗教也是另一个“中间真理”—是最危险的真理之一。 据我们所知，我们的确是宇宙中独一无二的物种。 长颈鹿是更高的四足动物，但是，人类不仅是“更聪明”的灵长目动物，而且是一种完全不同的动物。 这种差异的本质在很大程度上仍然是未知的—“我们不同于动物，是因为我们有灵魂，上帝创造了我们”的宗教解释是另一个“中间真理”的例子。我们的确与动物很不一样。 我们由上帝创造，我们有灵魂，那都不是真的。
 
-Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+正如一些寄生虫不能扎根，直到它们把已有的寄生虫驱逐，“中间真理”仅攻击先前的幻想*以便它们能取代先前幻想的地位*。 那些对先前幻想持怀疑态度的人，被新的幻想所吸引。 就这样，基督教取代了信奉异教，马克思主义取代基督教，后现代主义取代马克思主义，民主国家取代贵族统治的国家，等等。
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+直到获得伟大的真理，并将伟大的真理与小道理相结合，“中间真理”只是一个具有掠夺性、破坏性的谎言，正如一个可旋转的方阵—专门设计用来防止获知伟大的真理。
 
-And the great truths are always achieved from the little truths.
+伟大的真理总是从小道理中获得。
 
-The world falls because a rock falls.
+世界崩塌是因为岩石崩塌了。
 
 ### "Middle Truths" And Exploitation
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+从生物学上来说，寄生对于许多生物来说是一个完全可行的生存策略。 在缺乏伦理规范的情况下，窃取其他生物的能量和资源是非常明智的。 通常来说，最持久、最稳定的寄生形式是*共生*，或互利共存。 因此栖息于我们肠道内的细菌帮助我们消化食物来帮助它们自己的生存。
 
-However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+然而，使我们不断枯竭的、不能维持我们生命的病毒不能被称为“互利”。如果我们思考我们漫长而严酷的灾难、饥饿、战争、疾病和贫穷的历史—将它与现代惊人的物质成就相对比—几千年来，很显然一种寄生形式统治着我们的思想和能力。 在过去的几百年里，人类精神的力量和创造力已经显现出来，我们可以把我们的物种视作为一个摆脱了可怕的寄生虫的有机体，它来自于临终之时无尽的喘气，以表演最惊人的体操技艺。
 
-When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
+当我们治愈自己的疾病时，我们会感觉更好，但是疾病并不这样认为。从天花病毒的角度来看，天花病毒种族灭绝了。
 
-In the same way, the parasites that strangle mankind view the liberty of the majority with horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+同样，扼杀人类的寄生虫带着恐惧看待大多数人的自由。 由于它们的寄生摆脱了现实需求—去获取日常食物—它们不可避免地把大众的自由视为奴役自己的一种形式。 因此，农民会把"解放"他的家畜视作一场灾难吗...
 
-Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+建立真理必然会限制幻想。 限制幻想必然会限制剥削。 如果我能说服你，让你认为我是一个活生生的人神，生下我的神要你给我你收入的百分之十，不然你就会永远被惩罚，那么我会变得非常富有。 我是幻想的寄生物，依赖于这些幻想来维持我的营养，就像是真菌依靠温暖、潮湿—和黑暗。
 
 Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
 

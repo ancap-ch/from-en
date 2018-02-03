@@ -1,6 +1,6 @@
 ## Escenario de Bote salvavidas
 
-El hecho de que CUP solo valide las teorías morales lógicamente consistentes no quiere decir que no puede concebir unas circunstancias bajo la cual tengamos que escoger actuar *en contra* de los dogmas de dicha teoría.
+El hecho de que CUP solo valide las teorías morales lógicamente consistentes no quiere decir que no se pueda concebir unas circunstancias bajo la cual tengamos que escoger actuar *en contra* de los dogmas de dicha teoría.
 
 Por ejemplo, si aceptamos la validez universal de los derechos de propiedad, romper una ventana y entrar al apartamento de alguien sin permiso sería una violación de sus derechos de propiedad. Sin embargo, si estuviésemos descolgando un asta fuera de una ventana de un apartamento, y estuviese a punto de matarnos, pocos de nosotros rechazaríamos patear la ventana y salvarnos por el bien de obedecer un principio abstracto.
 
@@ -16,7 +16,7 @@ Esto es falso.
 
 Todas las personas racionales reconocen que la biología es una ciencia válida, a pesar del hecho de que algunos animales nacen con mutaciones "irrepetibles". El hecho de que un perro pueda nacer con cinco patas no quiere decir que "canino" se vuelva por completo una categoría subjetiva. El hecho de que ciertas especies de insectos estén compitiendo para diferenciarse no quiere decir que no haya una diferencia entre un escarabajo y una ballena.
 
-Por alguna perversa razón, los intelectuales en particular se regocijan en la inexplicable destrucción de los estándares racionales, normativos y éticos. Esto puede ser porque los intelectuales han sido comúnmente pagados por clases de individuos corruptos tales como políticos, sacerdotes y reyes - o puede ser que el hombre a menudo se convierte en intelectual en orden de crear justificaciones sobre su propio comportamiento inmoral. Cual sea la razón, muchos pensadores modernos se han convertido en una especie de "anti-pensadores" lo cual es muy raro. Sería equivalente a que hay una enorme clase de "biólogos" que dedicaron sus vidas argumentando que la ciencia de la biología era imposible. Si la ciencia de la biología es imposible, no tendría sentido convertirse en biólogo, como tampoco lo tendría que un ateo peleara con uñas y dientes por convertirse en sacerdote.
+Por alguna perversa razón, los intelectuales en particular se regocijan en la inexplicable destrucción de los estándares racionales, normativos y éticos. Esto puede ser porque los intelectuales han sido comúnmente pagados por clases de individuos corruptos tales como políticos, sacerdotes y reyes - o puede ser que el hombre a menudo se convierte en intelectual en orden de crear justificaciones sobre su propio comportamiento inmoral. Cual sea la razón, muchos pensadores modernos se han convertido en una especie de "anti-pensadores" lo cual es muy raro. Sería equivalente a que hay una enorme clase de "biólogos" que dedicaron sus vidas argumentando que la ciencia de la biología era imposible. Si la ciencia de la biología es imposible, no tendría sentido convertirse en biólogo, como tampoco lo tendría que un ateo peleara con uñas y dientes para convertirse en sacerdote.
 
 ### Escala de Grises
 
@@ -26,7 +26,7 @@ En el reino de las "áreas grises" hay realmente solo tres posibilidades.
 2. Algunas áreas grises sí existen.
 3. Todo conocimiento es un área gris.
 
-Claramente, la opción uno puede ser fácilmente descartada. Opción tres es también es bastante fácil de descartar. La declaración "todo conocimiento es un área gris" es una proposición auto-detonación, como hemos visto arriba, del mismo modo en que "todas las declaraciones son mentiras" también se auto-detona.
+Claramente, la opción uno puede ser fácilmente descartada. Opción tres es también es bastante fácil de descartar. La declaración "todo conocimiento es un área gris" es una premisa de auto-detonación, como hemos visto arriba, del mismo modo en que "todas las declaraciones son mentiras" también se auto-detona.
 
 Por ello debemos escoger la opción dos, que se refiere a que ciertas áreas grises sí existen, y sabemos que hay grises en relación con las áreas que no son grises. El oxigeno existe en el espacio, y también bajo el agua, pero no en una forma o cantidad que los seres humanos puedan consumir. El *grado* de oxigenación es un área gris, es decir, "menos es más"; el asunto de si los seres humanos pueden o no respirar bajo el agua es ciertamente blanco y negro.
 

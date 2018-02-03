@@ -1,52 +1,52 @@
-## Preferencias
+## Preferencias y Existencia
 
-Ahora que entendemos la naturaleza de los argumentos contraproducentes, podemos seguir a la cuestión de las preferencias.
+Ahora que entendemos la naturaleza de los argumentos contraproducentes, podemos volver a la pregunta de las preferencias.
 
-Las preferencias son fundamentales para cualquier metodología que pretenda definir la veracidad-valor de proposiciones. El método científico, por ejemplo, es ampliamente definido por preferencias innatas de consistencia lógica y verificación empírica. Para la ciencia, la premisa es: *si* quieres determinar una verdad válida sobre el comportamiento de la materia y la energía, entonces es *preferible* usar el método científico.
+Las Preferencias son fundamentales para cualquier metodología que intente definir el valor real de las proposiciones. El método científico, por ejemplo, es definido en gran parte por preferencias innatas de consistencia lógica y verificación empírica. Para la ciencia, la premisa es: *si* usted desea determinar una verdad válida sobre el comportamiento de la materia y la energía, es *preferible* usar el método científico.
 
-En este sentido, "preferible" no significa "algo mejor," sino "requerido." *Si* quieres vivir, entonces es *universalmente preferible* que te abstengas de comer un puñado de arsénico. *Si* quieres determinar verdades válidas sobre la realidad, entonces es *universalmente preferible* que tus teorías sean tanto internamente consistentes como empíricamente verificables. "Universalmente preferible," entonces, se traduce como "objetivamente requerido," pero mantendremos la palabra "preferible" para diferenciar entre los absolutos humanos opcionales y los absolutos físicos no opcionales como la gravedad.
+En este sentido, "preferible" no significa "algo mejor," sino "requerido." *Si* usted desea vivir, entonces es *universalmente preferible* que usted se abstenga de comer un puñado de arsénico. *Si* usted quiere determinar verdades válidas sobre la realidad, entonces es *universalmente preferible* que sus teorías sean ambas internamente consistentes y empíricamente verificables. "Universalmente preferible," entonces, se traduce como "requerido objetivamente," pero mantendremos la palabra "preferible" para diferenciar entre los absolutos humanos opcionales y los absolutos físicos, no opcionales, como lo es la ley de la gravedad.
 
-De manera similar, si las teorías éticas pueden ser válidas en lo absoluto, entonces deben *al menos* ser consistentes tanto interna como externamente. En otras palabras, una teoría ética que se contradiga a sí misma no puede ser válida – y una teoría ética que contradiga evidencia empírica y preferencias casi-universales tampoco puede ser válida.
+De manera similar, si las teorías éticas pueden ser del todo válidas, entonces ellas deben *al menos* ser internamente y externamente consistentes. En otras palabras, una teoría ética que se contradiga a sí misma no puede ser válida, y una teoría ética que contradiga evidencia empírica y preferencias cercanas a las universales tampoco puede ser válida.
 
-Así en la ética, tal como en la ciencia, matemáticas, ingeniería y todas las otras disciplinas que comparan teorías con la realidad, *las teorías válidas deben ser tanto lógicamente consistentes como empíricamente verificables*.
+En consecuencia la Ética, tal como en la ciencia, las matemáticas, la ingeniería y todas las disciplinas que comparan teorías con la realidad, *teorías válidas deben cumplir con ambas estados: ser lógicamente consistentes y empíricamente verificables*.
 
-### Preferencias Y Existencia
+### Preferencias y Existencia
 
-Si yo digo "Me gusta el helado," solo una palabra permanece ambigua en esa frase. Claramente "Me" existe, ya que estoy expresando una preferencia personal. Igualmente claramente, "el helado" también existe en la realidad. Sin embargo, la palabra "gusta" es más problemática.
+Si yo digo "Me gusta el helado," solamente una palabra permanece ambigua en esta oración. Claramente "Yo" existe, ya que yo estoy expresando una preferencia personal. Igualmente clara, "helado" también existe en la realidad. Sin embargo, la palabra "gusta" es más problemática.
 
-Las preferencias no existen objetivamente dentro de la realidad. Si tú fueses obsesivamente curioso, quizás podrías seguirme y registrar cada vez que coma helado, lo cual probablemente proporcionaría una buena base empírica para establecer mi preferencia por él. Podría existir la posibilidad, sin embargo, de que yo de hecho sea un masoquista, me disguste el helado intensamente, y prefiera torturarme a mí mismo con su desagradable sabor – y entonces confundirte alegando que me gusta.
+Las Preferencias no existen objetivamente dentro de la realidad. Si usted fuese obsesivamente curioso, usted podría quizás seguirme y registrar cada momento en que yo coma helado, lo cual podría proveer una buena base empírica para establecer mi preferencia por el helado. La posibilidad podría existir, sin embargo, como yo soy de hecho un masoquista, y me disgusta intensamente el helado, y prefiero torturarme a mi mismo con su desagradable sabor, entonces lo confundo a usted alegando que me gusta.
 
-Podemos encontrar *evidencia* para las preferencias; no podemos encontrar preferencias *por sí mismas* en la realidad. Las preferencias existen como una *relación* entre la conciencia y la materia, tal como la gravedad existe como una relación entre cuerpos de masa.
+Nosotros podemos encontrar *evidencia* por las preferencias; lo que no podemos encontrar son preferencias *en sí mismas* en la realidad. Las Preferencias existen como una *relación* entre la conciencia y la materia, así como la gravedad existe como una relación entre cuerpos de masa.
 
-Dejando a un lado las preguntas desafiantes de libre voluntad versus determinismo, es razonable asumir que lo cualquier cosa que una persona esté haciendo en el presente es lo que él o ella "prefiere" hacer. Si me levanto y voy a trabajar, entonces obviamente yo *prefiero* hacer eso, en oposición a todas las demás alternativas. Incluso si odio mi trabajo, claramente lo odio *menos* que, digamos, estar sin un centavo.
+Colocando a un lado las preguntas retadoras de libre albedrío versus el determinismo, es razonable asumir que en el presente cualquier persona está haciendo lo que él o ella "prefieren" hacer. Si yo me levanto y me voy al trabajo, entonces obviamente Yo *prefiero* hacer eso, en contra de todas las otras alternativas. Aún si yo odiase mi trabajo, claramente lo odio *menos* que, digamos, estar sin un centavo.
 
-Dado que los seres humanos podemos realizar una casi infinita variedad de acciones, cualquier cosa que una persona esté haciendo en un momento es escogido entre todas las otras posibles opciones. Estoy eligiendo escribir este libro en lugar de, digamos, aprender tango.
+Dado que los seres humanos pueden realizar cerca de una variedad infinita de acciones, lo que sea que una persona está haciendo en un momento dado es escogido entre otras opciones posibles. Yo estoy escogiendo escribir éste libro en vez de, digamos, aprender a bailar Tango.
 
-Cuando aplicamos este simple hecho a los argumentos éticos, llegamos a algunos resultados muy interesantes.
+Cuando aplicamos este simple hecho a los argumentos éticos, llegamos a resultados muy interesantes.
 
-### Preferencias Y Argumentos
+### Preferencias y Argumentos
 
-Recordando nuestro análisis anterior sobre los argumentos contraproducentes, podemos entender fácilmente la naturaleza contradictoria de la declaración: "las preferencias no existen." Dado que toda acción humana – incluyendo las declaraciones filosóficas – es escogida en preferencia a cualquier otra posible acción, argumentar que las preferencias no existen requiere una *preferencia* por argumentar que las preferencias no existen, lo cual es una declaración contradictoria en sí misma. Argumentar que las preferencias no existen es exactamente lo mismo que argumentar que el lenguaje no existe. Es un argumento totalmente contraproducente.
+Recordando nuestro análisis anterior sobre los argumentos contraproducentes, podemos fácilmente entender la naturaleza contradictoria de la declaración: "las preferencias no existen." Dado que cada acción humana, incluyendo la de hacer declaraciones filosóficas, es seleccionada en preferencia a cada otra acción posible, argumentar que las preferencias no existen requiere una *preferencia* por argumentar que la preferencia no existe, lo cual es un argumento contradictorio en sí. Declarar que no existen las preferencias es exactamente lo mismo que argumentar que no existe el lenguaje. Esto es un argumento absolutamente contraproducente.
 
-Ya que es imposible actuar sin expresar una preferencia – sea implícita o explícitamente – cualquiera que actúe acepta la premisa de que existen las preferencias. Así que es imposible debatir la existencia de preferencias sin aceptar la existencia de preferencias.
+Ya que es imposible actuar sin expresar una preferencia, sea ésta implícita o explícita, cualquiera que actúe acepta la premisa de que las preferencias existen. Así que es imposible debatir la existencia de las preferencias sin aceptar su existencia.
 
-### Preferencias Y Universalidad
+### Preferencias y Universalidad
 
-La siguiente pregunta entonces sería: ¿son las preferencias puramente subjetivas, o pueden ser universales?
+La siguiente pregunta sería entonces: ¿Son las preferencias puramente subjetivas, o pueden ser universales?
 
-Claramente, algunas preferencias son subjetivas. Los gustos musicales, los pasatiempos personales, la literatura favorita y así sucesivamente son todas preferencias subjetivas y personales.
+Claramente, algunas preferencias son subjetivas. Gustos musicales, pasatiempos personales, la literatura favorita y otras muchas son todas ellas preferencias subjetivas y personales.
 
-El desafío inicia cuando intentamos definir algunas preferencias como *objetivas*.
+El reto comienza cuando tratamos de definir algunas preferencias como *objetivas*.
 
-La proposición ante nostros sería esta: *¿pueden algunas preferencias ser objetivas, es decir, universales?*
+La proposición delante de nosotros sería: *¿pueden algunas preferencias ser objetivas, es decir, universales?*
 
-Cuando digo que algunas preferencias podrían ser objetivas, no me refiero a que todas las personas sigan esas preferencias todo el tiempo. Si yo argumentase que *respirar* es una preferencia objetiva, podría ser fácilmente refutado por el ejemplo de aquellos que cometen suicidio ahorcándose. Si yo argumentase que comer es una preferencia objetiva, mi argumento podría ser refutado con ejemplos de huelgas de hambre y anorexia.
+Cuando yo digo que algunas preferencias pueden ser objetivas, yo no intento decir que todas las personas sigan esas preferencias todo el tiempo. Si yo argumentase que *la respiración* es una preferencia objetiva, podría ser fácilmente refutado con el ejemplo de aquellos que cometen suicidio al ahorcarse. Si yo argumentase que comer es una preferencia objetiva, mi argumento sería refutado con ejemplos de huelgas de hambre y la anorexia.
 
-Por lo tanto cuando hablo de preferencias universales, estoy hablando sobre lo que las personas *deberían* preferir, no lo que siempre *en realidad* prefieren. Para usar una analogía científica, para verdaderamente entender el universo, las personas *deberían* usar el método científico – esto no significa que siempre lo hagan, ya que claramente miles de millones de personas consultan cuentos de hadas antiguos en lugar de la ciencia moderna en busca de "respuestas." No hay una manera de alcanzar una verdad sobre el universo sin la ciencia, pero las personas son perfectamente libres de redefinir la "verdad" como un "error," y conformarse con un sinsentido místico.
+Entonces cuando hablo sobre preferencias universales, estoy hablando sobre lo que las personas *deberían* preferir, no sobre lo que ellas *siempre* prefieren. Usando una analogía científica, para entender verdaderamente el universo, las personas *deberían* usar el método científico, esto no significa que ellos siempre lo hagan, dado que claramente billones de personas consultan antiguos cuentos de hadas en vez de buscar las "respuestas" en la ciencia moderna. No hay manera de alcanzar la verdad acerca del universo sin la ayuda de la ciencia, pero las personas son perfectamente libres de redefinir "verdad" como "error", y de contentarse con tonterías místicas.
 
-De la misma forma, si un hombre quiere curarse una infección, él *debería* tomar antibióticos en lugar de realizar una danza azteca de la lluvia. La preferencia por tomar antibióticos en lugar de hacer una danza de la lluvia es universal, ya que la danza no cura infecciones. Así, aunque existe el loco ocasional que tratará de curarse a sí mismo danzando, todavía sigue siendo *universalmente preferible* que si un hombre quiere curarse, debe tomar antibióticos.
+De la misma manera, si un hombre quiere curarse una infección, él *debería* tomar antibióticos en vez de realizar la danza de la lluvia Azteca. La preferencia por tomar antibióticos en vez de realizar la danza de la lluvia es universal, ya que la danza no cura infecciones. Así, aunque siempre existe el loco ocasional que tratará de curarse a través de la danza, sigue siendo *universalmente preferible* que si un hombre desea curarse así mismo, él debe tomar antibióticos.
 
-En otras palabras, si quieres llegar a la cima de una montaña, simplemente desarlo nunca funcionará. Si quieres conocer los orígenes del universo, las plegarias nunca te proporcionarán una respuesta. La gente aún desea, y ora, pero eso no hace que desear y orar sea más efectivo. Con eso en mente, permitámonos pasar a la pregunta sobre si una preferencia universal puede o no ser válida.
+En otras palabras, si usted quiere llegar a la cima de una montaña, sólo con desearlo no lo va a llevar a lograrlo. Si usted desea conocer los orígenes del universo, rezando nunca proveerá una respuesta. Las personas todavía desean, y rezan, pero esto no hace al desear y rezar sean más efectivos. Con ésto en mente, dejemos pasar la pregunta sobre si las preferencias universales pueden ser válidas.
 
 ### Argumentos Y Universalidad
 

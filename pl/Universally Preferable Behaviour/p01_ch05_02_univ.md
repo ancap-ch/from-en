@@ -62,7 +62,7 @@ Ponieważ człowiek jest najbardziej udanym gatunkiem, a najbardziej charakterys
 
 Lub:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
+1. Organizmy odnoszą sukces dzięki zachowaniu powszechnie preferowanym.
 2. Człowiek jest najbardziej udanym organizmem.
 3. Dlatego człowiek musiał działać najskuteczniej na podstawie powszechnie preferowanego zachowania.
 4. Umysł człowieka jest jego najbardziej charakterystycznym narządem.
@@ -79,7 +79,7 @@ Przede wszystkim musimy pamiętać, że moralność jest oczywiście opcjonalna.
 
 Fakt, że przestrzeganie zasad moralnych jest *opcjonalne*, wprawił wielu myślicieli w przekonanie, że moralność jest *subiektywna *. Nic nie mogło być dalsze od prawdy.
 
-Żywe organizmy są częścią materialnej rzeczywistości, a materialna rzeczywistość jest racjonalna i obiektywna. Stosowanie teorii moralnych jest opcjonalne, ale nie oznacza to, że wszystkie teorie moralne są subiektywne. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. Mogę wybrać, aby nie jeść, ale nie mogę żyć bez jedzenia. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
+Żywe organizmy są częścią materialnej rzeczywistości, a materialna rzeczywistość jest racjonalna i obiektywna. Stosowanie teorii moralnych jest opcjonalne, ale nie oznacza to, że wszystkie teorie moralne są subiektywne. Metoda naukowa jest również opcjonalna, ale nie jest subiektywna. Zastosowanie klasyfikacji biologicznej jest opcjonalne, ale biologia nie jest subiektywna. Choices are optional; consequences are not. Mogę wybrać, aby nie jeść, ale nie mogę żyć bez jedzenia. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
 
 Teraz, skoro moralność jest ważną koncepcją, następne pytanie brzmi: w jakim stopniu lub rozmiarze moralność jest ważna?
 

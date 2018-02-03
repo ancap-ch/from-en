@@ -4,7 +4,7 @@ Below there's an enumerated list of styled pangrams, that shows every character,
 
 1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
 2. numbers: 0123456789. 
-3. symbols: + - * / = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
+3. symbols: % $ & { } # ^ ~ \ (some other symbols are still missing)
 4. emphasys: *The quick, brown fox jumps over a lazy dog.* 
     1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
     2. inner emphasys: **The *The quick, brown fox jumps over a lazy dog* dog.** 
@@ -51,6 +51,6 @@ Some text at 4th level.
 
 Some text at 6th level.
 
-[^1]: Footnote example. But this will point to yet another footnote.[^3]
+[^1]: Footnote example. But this will point to yet another footnote.
 
 [^2]: Second footnote. Will have [another website](https://example-another-website.com).

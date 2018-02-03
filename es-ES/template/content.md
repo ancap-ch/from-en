@@ -1,10 +1,10 @@
-# Primer capitulo
+# Título da primeira raiz
 
 Abajo hay una lista enumerada de panagramas que muestran cada personaje, ambos en inglés y también en otros lenguajes.
 
 1. mayúscula: RÁPIDAMENTE, EL ZORRO MARRÓN SALTA SOBRE EL PERRO FLOJO. 
 2. números: 0123456789. 
-3. símbolos: + - */ = ( ) \ | ~ ! ? , . < > { } _ [ ] : ; " " ' ' # $ % & .
+3. symbols: % $ & { } # ^ ~ \ (some other symbols are still missing)
 4. énfasis: *El rápido, zorro marrón salta sobre un perro flojo.* 
     1. fuerte énfasis: **Rápidamente, el zorro marrón salta sobre el perro flojo.**
     2. énfasis interior: **El *El rápido, zorro marrón salta sobre un perro flojo* perro.** 
@@ -51,6 +51,6 @@ Algún texto en el 4to nivel.
 
 Algún texto en el 6to nivel.
 
-[^1]: Nota de pie de página de ejemplo. Pero esto apuntará a otra nota de pie de página. [^3]
+[^1]: Footnote example. But this will point to yet another footnote.
 
 [^2]: Segunda nota de pie de página. Tendrá [otro sitio web](https://example-another-website.com).

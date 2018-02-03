@@ -1,10 +1,10 @@
-# Erste Hauptüberschrift
+# Título da primeira raiz
 
 Unten stehend ist eine aufgezählte Liste von gestylten Pangrammen, welche jedes Zeichen in sowohl englischer als auch in anderen Sprachen darstellt.
 
 1. Großbuchstaben: DER SCHNELLE, BRAUNE FUCHS SPRINGT ÜBER DEN TRÄGEN HUND. 
 2. Nummern: 0123456789. 
-3. Symbole: +-*/=()\|-!?,.<>{}_[]:;""''#¼%&amp.
+3. symbols: % $ & { } # ^ ~ \ (some other symbols are still missing)
 4. Betonung *Der schnelle, braune Fuchs springt über einen trägen Hund.* 
     1. strong emphasys:**Der schnelle, braune Fuchs springt über einen trägen Hund.**
     2. innere Betonung **Der *Der schnelle, braune Fuchs springt über einen trägen Hund* Hund.** 
@@ -51,6 +51,6 @@ Irgendein Text auf der vierten Ebene
 
 Irgendein Text auf der sechsten Ebene
 
-[^1]: Fußnote Beispiel. Aber diese verweist auf noch eine weitere Fußnote. [^3]
+[^1]: Footnote example. But this will point to yet another footnote.
 
 [^2]: Zweite Fußnote. Hat eine [andere Webseite](https://example-another-website.com).

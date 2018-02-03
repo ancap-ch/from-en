@@ -1,127 +1,127 @@
 ### Gobierno y Religión
 
-La idea de que nacer crea un contrato con una agencia ficticia, lo que en términos prácticos lo convierte a uno en casi un esclavo para algunos individuos, es un algo que tienen en común la religión y el Estado - y otra, una agencia mucho más personal, de la cual hablo en mi primer libro “Sobre la verdad: La tiranía de la Ilusión.”
+La idea de que nacer crea un contrato con una agencia ficticia, que en términos prácticos te convierte en un cuasi esclavo de individuos específicos, es común tanto en la religión como en el estado - y otra agencia mucho más personal, de la que hablo en mi primer libro "Sobre la verdad: la tiranía de la ilusión"
 
-Cada vez que un sacerdote dice “Obedece a Dios”, lo que en realidad está diciendo es: “Obedéceme*a mí*.” Al no existir Dios, cualquier mandamiento que el sacerdote diga que viene de parte de Dios, en realidad viene de su parte. “Dios” es meramente una entidad ficticia utilizada para atemorizarlo conceptualmente a fin de conseguir que sea un subordinado en el mundo real, con respecto a individuos reales, para que voluntariamente ceda su dinero, tiempo y recursos.
+Siempre que un sacerdote dice:"Obedece a Dios", lo que está diciendo es:"Obedece *me*." Puesto que Dios no existe, cualquier mandamiento que el sacerdote dice que viene de Dios, en realidad viene del sacerdote. Dios "es sólo la entidad ficticia utilizada para intimidarte conceptualmente con el fin de obtener tu muy práctica sumisión en el mundo real, a individuos reales, en términos de entregar voluntariamente dinero, tiempo y recursos.
 
-Es mucho más eficiente para los exploradores que sus esclavos consideren que la esclavitud es una virtud, ya que eso disminuye sustancialmente el costo de de mantenerlos bajo control. Si yo puedo convencerlo de que evitar servirme es algo malo y ser mi esclavo es algo virtuoso, entonces no necesitaré contratar tantos matones para que lo intimiden, lo controlen y le roben.
+Es mucho más eficaz para los explotadores hacer que sus esclavos consideren la esclavitud como una virtud, ya que reduce enormemente los costos de controlarlos. Si puedo convencerte de que es malo evitar servirme, y virtuoso ser mi esclavo, entonces no necesito contratar a tantos matones para intimidar, controlar y robarte.
 
-Las mitologías religiosas y estatales, entonces, son conceptos ficticios que reducen de manera significativa el costo de controlar a la población; son lo que alimentan y mantienen aceitados los engranajes de la espantosa maquinaria que es la violencia institucionalizada.
+Las mitologías religiosas y estatales, por lo tanto, son ficciones que reducen enormemente los costos de controlar las poblaciones; son el lubricante y el combustible para la espantosa maquinaria de la violencia institucionalizada.
 
-Alrededor del mundo, los gobernantes son un porcentaje muy pequeño de la población. Cómo puede ser posible para el uno dos por ciento de las personas lograr controlar a todos los demás? Hay un cierto monopolio de los armamentos, eso es seguro, pero ese monopolio es relativamente fácil de demostrar, ya que la mayoría de los gobernantes ganan fortunas vendiendo armar en todo el mundo.
+En todo el mundo, los gobernantes son un porcentaje muy pequeño de la población. ¿Cómo puede ser posible que entre uno y dos por ciento de la gente controle a los demás? Hay un cierto monopolio sobre los armamentos, sin duda, pero ese monopolio es relativamente fácil de contrarrestar, ya que la mayoría de los gobiernos hacen una fortuna vendiendo armas en todo el mundo.
 
-La triste realidad es que la gente, como un todo, es esclavizada por entidades ficticias como naciones, dioses, culturas- y gobiernos.
+La triste realidad es que las personas en su conjunto están esclavizadas a entidades ficticias como naciones, dioses, culturas y gobiernos.
 
-Como individuos, nuestro orgullo se rebelaría instintivamente ante un repentina y obligada esclavitud ejecutada por otro individuo contra nuestra persona - pero, pareciera que nos regocijamos en ser esclavos de la *mitología*.
+Nuestro orgullo personal se rebelaría instintivamente contra una inmediata e impuesta esclavitud a otro ser humano, sin embargo, parece que casi nos deleitamos en ser esclavos de la *mitología*.
 
-Nuestro deseo de ser buenos - combinado con la sensación de virtud que nos genera el obedecer a las mitologías morales - nos deja haciendo fila para ceder voluntariamente nuestros recursos a aquellos que dicen representar a esas mitologías.
+Nuestro deseo de ser buenos junto con la emoción de la virtud que obtenemos al obedecer las mitologías morales, nos ha llevado a alinearnos para entregar voluntariamente nuestros recursos a aquellos que dicen representar estas mitologías.
 
-Una razón primordial que sabemos, es que los gobernantes y los dioses son innecesarios, es que son muy efectivos. *Sabemos que la mayoría de la gente quiere desesperadamente ser bueno porque son controlados fácilmente a través de teorías morales*.
+Una razón central por la que sabemos que los gobiernos y los dioses son innecesarios es que son tan eficaces. *Sabemos que la mayoría de las personas desean desesperadamente ser buenas porque son fácilmente controladas por teorías morales*.
 
-La lógica de la obediencia a la mitología es claramente ridícula. Si un sacerdote me dice que debo obedecer a “Dios”, es lo mismo que si me dijera que debo obedecer a una entidad llamada “Nog”. Si incluso aceptara que esta entidad ficticia es digna de obediencia eterna, eso tampoco lograría bajo ningún punto de vista que yo obedeciera al *sacerdote*. Si le dijera “obedezca a su corazón”, puedo entonces decirle razonablemente: “y*yo sólo* seré el que hable en lugar de su corazón”?
+La lógica de la obediencia a la mitología es claramente insensata. Si un sacerdote me dice que tengo que obedecer a "Dios", esto es exactamente lo mismo que él diciéndome que debo obedecer a una entidad llamada "Nog". Incluso si acepto que esta entidad ficticia es digna de la obediencia eterna, esto no me obligaría de ninguna manera a obedecer *al sacerdote*. Si te digo "obedece a tu corazón", ¿puedo entonces razonablemente decir:"y *Solo yo* hablar por tu corazón"?
 
 Por supuesto que no.
 
-Cuando eliminamos la mitología y la ficciónde nuestras “interacciones” con nuestros gobernantes, lo que surge es una realidad sombría, cruel y peligrosamente abusadora.
+Cuando despojamos a la mitología y la ficción de nuestras "interacciones" con nuestros gobernantes, lo que emerge es una realidad sombría, cruel y peligrosamente explotadora.
 
-Tomemos como ejemplo a un peligro muy presente y real: los impuestos.
+Tomemos como ejemplo un peligro muy real y presente: los impuestos.
 
 #### Impuestos
 
-Se me ha dicho, que por haber elegido vivir en Canadá, le debo al “”gobierno” más del cincuenta por ciento de mis ingresos.
+Me dicen que, en virtud de elegir vivir en Canadá, le debo al "gobierno" más del cincuenta por ciento de mis ingresos.
 
-Eliminando la mitología, en qué se traduce eso en realidad?
+Eliminado la mitología, ¿a qué se traduce esto realmente?
 
-En realidad, voy a esperar hasta el fin de los tiempos para que “el gobierno” venga a buscar su dinero. Esperar que “el gobierno” venga a nuestra casa es como querer tener una cita con el concepto mismo de la “feminidad”. Y también podría tratar de pagar mi cena con la palabra “dinero”
+En realidad, esperaré hasta el fin del tiempo para que "el gobierno" venga a recoger su dinero. Esperar que "el gobierno" pase por aquí es como querer fechar el concepto de "feminidad". Puedo intentar pagar mi cena con la palabra "dinero"
 
-En realidad, cuando me dicen que debo pagarle mis impuestos al “gobierno”, en realidad significa que debo hacer un cheque, depositarlo en cierta cuenta bancaria, que luego será cobrado por ciertos individuos. Estos individuos entonces tienen el derecho de adueñarse de ese dinero y de usarlo como les parezca mejor - esos individuos por ende, tienen total control sobre mi dinero.
+En realidad, cuando se me dice que debo pagar mis impuestos al "gobierno", lo que esto significa en realidad es que debo escribir un cheque para transferir mi dinero a una cuenta bancaria en particular, a la que luego acceden determinadas personas. Estos individuos entonces tienen el derecho de tomar ese dinero, y gastarlo como les parezca apropiado, estos individuos en particular tienen así un control total sobre mi dinero.
 
-De todas maneras, en ningún momento, ninguna entidad llamada “el gobierno” mueve un dedo, abre una cuenta bancaria o hasta siquiera un centavo. Imaginar que un concepto llamado “el gobierno” tiene la capacidad de tomar o gastar su dinero es exactamente lo mismo que esperar que “Dios” vaya a su casa a buscarlo para llevarlo a la iglesia.
+En ningún momento ninguna entidad como "el gobierno" levanta un dedo, hace un movimiento, abre una cuenta bancaria, o gasta un centavo. Imaginar que un concepto llamado "el gobierno" tiene la capacidad de tomar o gastar tu dinero es exactamente lo mismo que esperar que "Dios" venga a recogerte y llevarte a la iglesia.
 
-Por ende, la interacción real es cuando una persona me envía una carta diciéndome que le debo dinero. Yo no tengo ningún contrato con esa persona, y esa persona de hecho no es dueño de ninguna de mis propiedades, aunque otras personas escribieron un supuesto “contrato” el cual dice lo contrario.
+Así que la verdadera interacción es que un tipo me envía una carta diciéndome que le debo dinero. No tengo ningun contrato con este tipo, y de hecho no posee ninguna de mis propiedades, aunque algunos otros tipos escribieron un supuesto "contrato" que dice que sí lo tiene.
 
-Si no le lado a esa persona, entonces mandará a otra persona a mi casa a buscar el dinero - más “intereses” y “gastos”
+Si no le pago a este tipo, enviará a otro a mi casa para cobrar el dinero, más intereses y cargos
 
-Normalmente, si un hombre portando un arma, viene a mi casa y me obliga a darle dinero, tengo el derecho de usar la fuerza y defenderme. En este caso, en realidad, como el hombre se presenta diciendo que representa a una entidad ficticia, no se me permite usar la fuerza y defenderme.
+Normalmente, cuando un hombre con una pistola viene a mi casa y exige mi dinero, tengo el derecho de usar la fuerza para defenderme. En este caso, sin embargo, debido a que está disfrazado y dice representar una entidad ficticia, no se me permite usar la fuerza para defenderme.
 
-Ahora, si yo me presentara en su casa esta noche, vestido como un “sumo elfo de Narnia” y le reclamara el dinero que usted le debe a la “Reina de los Pesares”, asumiendo que no es Noche de Brujas, usted estará en su derecho de mirarme asombrado y echarme de su propiedad.
+Ahora, si vengo a tu casa esta noche vestido como un "elfo alto de Narnia" y demando el dinero que le debes a la "Reina de las tristezas", asumiendo que no es Halloween, se te permite mirarme con asombro y ordenarme salir de tu propiedad.
 
-Si yo no le pago al hombre que viene a buscar mi dinero, él está autorizado a sacar un sacar su arma, apuntarla a mi pecho y secuestrarme - o dispararme si me resisto. Puede encerrarme en una celda durante años, en los cuales seré sujeto de la brutalidad más violenta y de vejaciones constantes hasta que decida dejarme ir.
+Si no le pago al hombre que viene a tomar mi dinero, se le permite sacar un arma, apuntarme al pecho y secuestrarme, o dispararme si me resisto. Él puede retenerme en una celda diminuta año tras año, donde seré sometido a la brutalidad más violenta y a la violación continua, hasta que decida dejarme ir.
 
-Es interesante, que si alguien legítimamente me debe dinero, yo no tengo permitido secuestrarlo, vejarlo y torturarlo durante años. Por lo tanto, el sistema impositivo viola completamente la infraestructura de UPB, ya que representa la transferencia de propiedades través de la fuerza.
+Curiosamente, si un hombre me debe dinero legítimamente, no se me permite secuestrarlo y someterlo a tortura y violación año tras año. Así pues, la tributación viola completamente el marco del CUPB ya que es la transferencia violenta de bienes mediante el uso de la fuerza.
 
-Robar, como hemos probado, es malo.
+Robar, como hemos demostrado, es malo.
 
-Einstein revolucionó la Física asegurando - y probando - que la velocidad de la luz era constante.
+Einstein revolucionó la física afirmando, y demostrando, que la velocidad de la luz era constante.
 
-Podemos revolucionar el mundo aceptando la premisa - y la prueba - de que robar siempre es malo.
+Podemos revolucionar el mundo aceptando la afirmación, y la prueba, de que robar siempre es malo.
 
 ### Gobierno, Religión y CUP
 
-Cuando tomamos la infraestructura UPB y la aplicamos a las premisas morales de acuerdo con el gobierno y la religión, obtenemos algunos resultados muy interesantes.
+Cuando tomamos el marco de trabajo del CUP y lo aplicamos a proposiciones morales sobre gobierno y religión, algunos resultados muy interesantes ocurren.
 
-La premisa que es usada de manera más frecuente para justificar el poder del gobierno es: “el gobierno tiene derecho a quitarle su dinero”. Esto, de todas maneras, es una afirmación completamente imprecisa y falsa. El “gobierno” no tiene el derecho de quitarle su dinero, ya que “el gobierno” es meramente un concepto, una descripción abstracta de un grupo de personas que se autodenominó de esa manera. UPB requiere una afirmación más contundente y objetiva. Ya que las reglas morales deben ser iguales para todos, en todos momento y lugar, debemos modificar la regla de esta manera:
+La proposición que se usa más a menudo para justificar el poder del gobierno es:"el gobierno tiene el derecho de tomar su dinero". Sin embargo, se trata de una afirmación totalmente imprecisa y falsa. El "gobierno" no tiene el derecho de tomar su dinero, ya que "el gobierno" es simplemente un concepto, una descripción abstracta para un grupo de personas definido por uno mismo. El CUP requiere una declaración más consistente y objetiva. Puesto que las reglas morales deben ser las mismas para todos en todos los lugares y en todo momento, debemos reformular la regla de esta manera:
 
-*Los seres humanos pueden, con respaldo moral, quitarle el dinero a otros seres humanos si inventan una agencia conceptual que justifique sus acciones.*”
+*Los seres humanos pueden moralmente tomar dinero de otros seres humanos si forman una agencia conceptual que justifique sus acciones.*
 
-Si retornamos a Bob y a Doug en nuestra pequeña habitación de experimentación moral, podemos ver rápidamente que esto se convierte en una premisa imposible.
+Si volvemos a Bob y Doug en nuestra pequeña sala de experimentación moral, podemos ver muy rápidamente que esto se convierte en una premisa imposible.
 
-Si Bob le dice a Doug: “Ahora represento el concepto ideal 'FUBAR’, que justifica totalmente que te quite tu chispero. Como ahora tú me debes tu chispero tienes que entregármelo, si no me veré obligado a quitártelo por la fuerza
+Si Bob le dice a Doug:"Ahora represento el concepto ideal de' FUBAR', que justifica plenamente que te quite tu encendedor. Ya que ahora me debes tu encendedor, debes entregarlo, o me veré obligado a quitártelo por la fuerza "
 
-Cuál será la reacción de Doug? Recuerde, según UPB, aquello que es válido para Bob también debe ser válido para Doug. Inevitablemente, Doug responderá: “Ah sí? Bueno *yo* ahora represento el concepto ideal 'ANTI-FUBAR’, que justifica totalmente que mantenga posesión de mi chispero. Puesto qur ahora no tienes ningún derecho a quitarme mi chispero, si tratas de hacerlo, me veré obligado a defenderme usando la fuerza”
+¿Cuál será la reacción de Doug? Recuerda, según CUP, lo que sea válido para Bob también debe ser válido para Doug. Inevitablemente, Doug responderá:"¿Ah, sí? Bueno *yo* ahora represento el concepto ideal "ANTI-FUBAR", que justifica plenamente que conserve la posesión de mi encendedor. Ya que ahora no tienes derecho a tomar mi encendedor, si tratas de tomarlo, me veré obligado a defenderme por la fuerza "
 
-Como puede ver, si *Bob* tiene el derecho de inventar obligaciones imaginarias e imponérselas a Doug, entonces *Doug* tiene el derecho de inventar obligaciones imaginarias e imponérselas a Bob. Claramente, terminamos inmediatamente en lo que se dice, un callejón sin salida. Si éticamente es bueno imponer obligaciones inventadas a otras personas, pero eso es imposible de llevar a cabo si *todos* poseen esa habilidad, entonces con respecto a la moral, se convierte en un imposible. La única manera en la que Bob puede imponer a Doug su obligación ficticia es si Doug se rehúsa a imponer su obligación ficticia a Bob - por ende, tenemos una situación en la que aquello que es moral para puede ser conseguido solamente si la otra persona actúa contra la moral. La virtud entonces puede ser conseguida solamente a través de una bajeza, lo cual es imposible - y tenemos reglas morales opuestas para dos individuos en la misma circunstancia, cosa que UPB rechaza inmediatamente como inválido.
+Como puedes ver, si *Bob* tiene el derecho de inventar obligaciones imaginarias e imponerlas a Doug, *Doug* tiene el derecho de inventar obligaciones imaginarias e imponerlas a Bob. Claramente, inmediatamente terminamos en un perfecto punto muerto. Si es moralmente bueno imponer obligaciones inventadas a otras personas, pero es imposible hacerlo si *cada uno* posee esa habilidad, entonces la moralidad se vuelve imposible. La única manera en que Bob puede imponer su obligación inventada a Doug es si Doug se niega a imponer su obligación inventada a Bob, por lo tanto, tenemos una situación en la que lo que es moral para una persona sólo puede ser alcanzado por la otra persona que actúa de una manera contraria a la moral. Por lo tanto, la virtud sólo puede ser habilitada por el defecto, lo cual es imposible, y tenemos reglas morales opuestas para dos seres humanos en la misma circunstancia, que el CUP rechaza instantáneamente como inválida.
 
-En otras palabras, toda justificación abstracta para el uso de la fuerza puede ser refutada por otra justificación abstracta para el uso de la fuerza. Si tengo un amigo imaginario que puede justificar todo lo que hago, entonces *usted* también puede tener un amigo imaginario que justifica todo lo que usted hace. Por ende, ninguno de los dos puede tener la habilidad de imponerle reglas ficticias a los demás.
+En otras palabras, toda justificación abstracta imaginaria del uso de la fuerza puede ser contrarrestada por otra justificación abstracta imaginaria del uso de la fuerza. Si tengo un amigo imaginario que puede justificar todo lo que hago, entonces *you* también puede tener un amigo imaginario que puede justificar todo lo que haces. Por lo tanto, ninguno de nosotros puede poseer la habilidad de imponer nuestras reglas ficticias a otros.
 
-#### Religion And UPB
+#### Religión y CUP
 
 Lo mismo cuenta para la religión.
 
-La afirmación: “Usted debe obedecerme porque Dios así lo manda”, debe ser reformulada más apropiadamente como: “una entidad que he inventado yo le ordena a usted que me obedezca”. El principio que UPB requiere, entonces, es: “Los seres humanos deben imponer a otros obligaciones positivas que no han elegido, y justificar esas obligaciones según los criterios de una entidad ficticia”
+La afirmación:"Debes obedecerme porque Dios lo ordena," debe ser reafirmada con más precisión como:"una entidad que he creado te ordena que me obedezcas". El principio que el CUP exige, pues, es:"El ser humano debe imponer a los demás obligaciones positivas que no han elegido y justificarlas según entidades imaginarias"
 
-Aquí vemos los mismos inconvenientes que más arriba. Bob le dice a Doug: “Debes darme tu chispero, porque mi amigo imaginario te dice que lo hagas”. Naturalmente, Doug le responde: “Tú no debes pedirme mi chispero porque *mi* amigo imaginario te lo prohíbe”. Si los “mandamientos” de Bob son válidos, entonces los “mandamientos” de Doug son igualmente válidos, y entonces pueden cancelarse entre sí.
+Aquí vemos los mismos problemas de arriba. Bob le dice a Doug:"Debes darme tu encendedor, porque mi amigo imaginario te lo dice." Naturalmente, Doug contesta:"No debes pedirme tu encendedor, porque *mi* amigo imaginario te lo prohíbe." Si los "mandamientos" de Bob son válidos, entonces los "mandamientos" de Doug son igualmente válidos, y así se cancelan entre sí.
 
-De la misma manera, si un hombre asegura que si su concepto llamado “el gobierno” justifica que robe mi propiedad, entonces yo puedo asegurar que mi concepto llamado “el anti-gobierno” justifica que yo *retenga* mi propiedad, y las justificaciones de ambos serán igualmente “válidas”.
+De la misma manera, si un hombre afirma que su concepto llamado "el gobierno" justifica que robó de mi propiedad, entonces puedo afirmar que mi concepto llamado "el antigobierno" justifica la *retención* de mi propiedad, y ambos somos igualmente "válidos" en nuestras justificaciones.
 
-Si este cobrador de impuestos entonces asegura que su concepto llamado “el gobierno” solamente justifica que pueda robar *mi* propiedad no mi derecho a mantenerla, entonces no podremos avanzar. Él puede tomar mis mil dólares, pero yo entonces puedo invocar mi concepto de “robar” ese dinero de vuelta, y su teoría moral demandará que pasemos el resto de la eternidad pasándonos esos mil dólares de mano en mano.
+Si este recaudador de impuestos entonces afirma que su concepto llamado "el gobierno" sólo justifica el robo de *mi* propiedad, no mi retención de la misma, entonces no podremos avanzar. Él puede tomar mis mil dólares, pero entonces puedo invocar mi concepto de "robar" ese dinero, y su teoría moral nos ordena que pasemos el resto de la eternidad entregando los mil dólares.
 
-#### UPB And "The Majority"
+#### CUP y "La Mayoría"
 
-UPB no permite que un grupo de individuos ignoren o refuten las propiedades de cada individuo. Diez leones no hacen un elefante, un gobierno, o un dios. Diez mil soldados pueden constituir un “ejército”, pero no pueden revertir la gravedad o hacer que el asesinato sea algo ético.
+CUP no permite la acumulación de individuos para anular o revertir las propiedades de cada individuo. Diez leones no hacen un elefante, un gobierno o un dios. Diez mil soldados podrían formar un "ejército", pero no pueden revertir la gravedad, o hacer que el asesinato sea moral.
 
-Regresando una última vez a Bob y a Doug, conozcamos a “Jane”
+Volviendo por última vez a la habitación de Bob y Doug, presentamos a "Jane"
 
-Ahora que hay tres personas en la habitación, podemos observar el principio “la mayoría manda”.
+Ahora que hay tres personas en la sala, podemos observar el principio de "regla de la mayoría".
 
-Si Bob, Doug y Jane “votan” si es algo ético o no violar a Jane, nos repugnará una premisa tan injusta e inmoral. Claramente, aún cuando el voto de Jane sea el de la minoría, no consideraríamos la violación resultantes como si fuera convertida en un acto moralmente bueno.
+Si Bob, Doug y Jane "votan" sobre si es moral o no violar a Jane, todos nos retractaríamos ante una premisa tan injusta e inmoral. Claramente, incluso si Jane fuera "expulsada", no consideraríamos que la violación resultante se transforme en un acto moralmente bueno.
 
-Por qué no?
+¿Por qué no?
 
-Bueno, UPB no reconoce la realidad de las adiciones, ya que la “mayoría” es una etiqueta meramente conceptual; no existe concretamente en la realidad, al igual que los “dioses” o los “gobiernos”. Por ende, el concepto de que “la mayoría” tiene alguna clase de imposición moral es totalmente inválido - es como decir que “la paternidad” puede embarazar a una mujer o que uno puede sentarse en la palabra “silla”
+Pues bien, CUP no reconoce la realidad de las adiciones, ya que la "mayoría" es una mera etiqueta conceptual; no existe en la realidad, al igual que los "dioses" o "gobiernos". Por lo tanto, afirmar que el concepto de "mayoría" tiene algún tipo de valor moral es completamente inválido - es como decir que "la Patria" puede embarazar a una mujer, o que uno puede sentarse en la palabra "silla"
 
-Decir que “la mayoría” tiene derechos o atributos que contradicen directamente los derechos o atributos de cualquier individuo también contradice principios racionales, ya que cualquier agrupación conceptual es validada solamente por la identificación certera de características individuales. Si digo que los “mamíferos” son seres vivos de sangre caliente, podría usando la lógica, incluir tres flamencos de plástico en la categoría “mamífero”?
+Decir que "la mayoría" tiene derechos o atributos que contradicen directamente los derechos o atributos de cualquier individuo también contradice los principios racionales, ya que cualquier agrupación conceptual sólo se valida por la identificación precisa de las características individuales. Si digo que los "mamíferos" son criaturas vivientes de sangre caliente, ¿puedo incluir lógicamente tres flamencos de plástico en la categoría "mamíferos"?
 
 Por supuesto que no.
 
-Entonces, si para los seres humanos la violación es algo malo, puedo crear a través de la lógica una categoría llamada “la mayoría” y anunciar que para *estos* seres humanos, la violación es ahora éticamente buena?
+Por lo tanto, si es malo que los seres humanos violen, ¿puedo lógicamente crear una categoría llamada "la mayoría" y luego afirmar que para *estos* seres humanos, la violación es moralmente buena?
 
-Of *course* not.
+*Claro* que no.
 
-### Majority Rule
+### Regla de la Mayoría
 
-Can I create a moral rule that says: “the majority should be able to do whatever it wants”?
+¿Puedo crear una regla moral que diga:"la mayoría debería ser capaz de hacer lo que quiera"?
 
-Of course I can, but it will never be valid or true.
+Por supuesto que puedo, pero nunca será válida o verdadera.
 
-Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
+Sólo los*individuos* actúan - la "mayoría" nunca lo hace. Si las reglas morales pueden cambiar cuando un cierto número de personas se reúnen, entonces CUP es continuamente violada.
 
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
+Si es moral que Bob y Doug violen a Jane porque la han "superado en votos", ¿qué sucede cuando los dos amigos de Jane se presentan y votan en contra de los deseos infernales de Bob y Doug?
 
-Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
+Bueno, de repente Bob y Doug son los que han sido expulsados, y la violación se convierte en "maldad" para ellos otra vez.
 
-Nothing substantial has changed in these “outvoting” scenarios, but we have a series of opposing moral rules for the same men – a violation of UPB, and thus invalid.
+Nada sustancial ha cambiado en estos escenarios de "superación de votos", pero tenemos una serie de reglas morales opuestas para los mismos hombres - una violación de CUP, y por lo tanto es inválida.
 
-Rape cannot be good, then evil, then good again, just because a few hands are raised or lowered.
+La violación no puede ser buena, luego mala, luego buena otra vez, sólo porque unas pocas manos son levantadas o bajadas.
 
-Thus if you think that “majority rule” sounds like a reasonable moral proposition, and a perfectly valid moral theory, then I am afraid you’re going to have to go back to the beginning of this book and start again!☺
+Por lo tanto, si piensas que la "regla de la mayoría" suena como una propuesta moral razonable, y una teoría moral perfectamente válida, entonces me temo que tendrás que volver al principio de este libro y comenzar de nuevo!☺

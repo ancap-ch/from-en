@@ -60,7 +60,7 @@ Nazwijmy opozycyjne zasady, które rezydują w "strefie zerowej" - między perce
 
 These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+Dostarczając iluzji, że znaleźliśmy prawdę, "prawdy pośrednie" faktycznie uniemożliwiają nam uzyskanie prawdy. Są ostatnią linią obrony dla fantazji, drapieżnictwa i wyzysku.
 
 Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. Na przykład chrześcijaństwo powstało z rosnącego faszyzmu późnego Cesarstwa Rzymskiego, częściowo przez bicie na "prymitywne" przesądy istniejących teologii. "Zapomnij o swoich starych bogach, mamy zupełnie nowego Boga, który jest o wiele lepszy!"
 

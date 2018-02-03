@@ -12,7 +12,7 @@ In other words, by saying “God exists,” I have created an insurmountable con
 
 Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Oczywiście, ludzie nie tworzą tego "alternatywnego wszechświata", aby unieważnić prawdę w naszym własnym wszechświecie, ale raczej uratować to, co jest błędne w rzeczywistości i nazwać to prawdą. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
 
 They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
 
@@ -118,7 +118,7 @@ Let us take our good friend Bob away from his little room of moral theory testin
 
 Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
 
-When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. Kiedy jednak uderza, jakby odszedł z amoralnego słupa ognia z niebios, zyskuje niesamowitą zdolność moralnego ataku na sąsiadów i zabrania ich pieniędzy.
 
 Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
 

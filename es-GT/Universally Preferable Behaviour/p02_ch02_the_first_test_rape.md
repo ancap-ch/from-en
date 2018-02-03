@@ -136,7 +136,7 @@ Por consiguiente, Doug le puede decir a Bob: " Es moralmente bueno para mí viol
 
 Por supuesto, pocos violadores son filósofos, pero como mencionamos anteriormente, el principal peligro para los seres humanos no son los criminales individuales, sino las teorías morales irracionales y explotadoras. Por ejemplo, el encarcelamiento es inevitablemente justificado a través de la recurso de una teoría moral -un encarcelamiento causa que muchas más personas sean violadas de lo que los criminales privados podrían siquiera soñar. Si la teoría moral que justifica el encarcelamiento es incorrecta, entonces *corregir* ésta teoría moral debería ser, por mucho, la preocupación más grande de cualquiera que desee reducir la prevalencia de violación.
 
-Por ello, pareciera que la única posibilidad lógica para la violación es que ésta *no* una conducta universalmente preferible -o que la violación es un comportamiento universalmente prohibido.
+Por ello, pareciera que la única posibilidad lógica para la violación es que ésta *no* una conducta universalmente preferible - o que la violación es un comportamiento universalmente prohibido.
 
 ### ¡Vaya!
 
