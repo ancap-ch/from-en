@@ -97,9 +97,9 @@ content_files:
     - p05_appendices.md
     - ""
 translation:
-  language: en
+  language: yo
   is_translation: true
-  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/Universally Preferable Behaviour"
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/yo/Universally Preferable Behaviour"
   fetch_translators: true
   fetch_reviwers: true
   fetch_progress: true
