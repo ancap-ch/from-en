@@ -16,9 +16,9 @@ content_files:
     - sec4.md
     - ""
 translation:
-  language: en
+  language: my
   is_translation: true
-  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/The Myth of National Defense Essays on the Theory and History of Security Production"
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/my/The Myth of National Defense Essays on the Theory and History of Security Production"
   fetch_translators: true
   fetch_reviwers: true
   fetch_progress: true
