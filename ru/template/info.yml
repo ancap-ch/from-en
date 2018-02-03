@@ -2,11 +2,11 @@
 content_files:
   - 
     - content.md
-    - https://github.com/ancap-ch/from-en/blob/utopian/en/template/content.md
+    - https://github.com/ancap-ch/from-en/blob/utopian/ru/template/content.md
 translation:
-  language: en
+  language: ru
   is_translation: true
-  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/template"
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/ru/template"
   fetch_translators: true
   fetch_reviwers: true
   fetch_progress: true
