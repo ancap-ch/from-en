@@ -7,10 +7,6 @@
 
 content_files: 
   - ["intro.md", ""]
-  - ["sec1.md", ""]
-  - ["sec2.md", ""]
-  - ["sec3.md", ""]
-  - ["sec4.md", ""]
   # you can divide your files in smaller pieces, such as chapters or sections.
   # they will be added in order.
   
@@ -125,7 +121,7 @@ resources:
 
 targets: 
   - target:
-    name: article
+    name: book
     reset_footer_active: false
     reset_footer_depth: 0
     clear_page_active: true
