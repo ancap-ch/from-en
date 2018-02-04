@@ -130,26 +130,26 @@ El violador puede justificar sus acciones evitando la proposición "la violació
 
 Esta proposición también falla la prueba lógica más básica de UPB. Si Bob cree que debería tomar su propio placer violando a Doug - independientemente del desagrado de Doug - entonces Bob no puede elevar racionalmente su preferencia a un UPB.
 
-If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
+Si todos deberían tomar su placer propio independientemente del *des*agrado de sus víctimas, entonces Bob no tiene derecho de violar a Doug, ya que aunque Bob *prefiere* violar a Doug, Doug sin duda *no* prefiere ser violado. Si todos deberían tomar su placer independientemente del desagrado de otros, entonces no hay ninguna razón racional por qué la preferencia de Bob de violar a Doug debería tomar precedencia sobre la preferencia de Doug de no ser violado, sin importar el desagrado que negarse a ser violado le causaría a Bob.
 
-Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
+De este modo Doug le puede decir a Bob: " Es moralmente bueno para mí violarte, porque las preferencias personales pueden ser aplicadas violentamente." Bob, por supuesto, puede responder: "Entonces es moralmente bueno para mí resistirme violentamente a tu ataque, puesto que mi preferencia personal de no ser violado puede también ser aplicada violentamente."
 
-Of course, few rapists are philosophers, but as we mentioned above, the primary danger to human beings is not the individual criminal, but irrational and exploitive moral theories. For instance, incarceration is inevitably justified through an appeal to a moral theory – and incarceration causes far more people to be raped than private criminals could ever dream of. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
+Por supuesto, pocos violadores son filósofos pero, como mencionamos arriba, el principal peligro para los seres humanos no es el individuo criminal sino las teorías irracionales y de explotación moral. Por ejemplo, el encarcelamiento es inevitablemente justificado a través de una apelación a una teoría moral - y el encarcelamiento causa que mucha más gente sea violada de lo que los criminales privados podrían alguna vez soñar. Si la teoría moral que justifica el encarcelamiento es incorrecta, entonces *corregir* esta teoría moral debería ser por mucho la mayor preocupación de cualquier persona que desee reducir la prevalencia de la violación.
 
-Thus it would seem that the only logical possibility for rape is that *not* raping is universally preferable behaviour – or that rape is universally banned behaviour.
+Así, parecería que la única posibilidad lógica para la violación es que *no* violar es un comportamiento universalmente prefererido - o que la violación es un comportamiento prohibido universalmente.
 
-### Whew!
+### ¡Uf!
 
-The fact that the UPB framework has logically and effectively validated the moral proposition that rape is evil – not “good,” or “aesthetically preferable,” or “personally preferable,” or “morally neutral” – is a very good sign. It does not prove beyond a shadow of a doubt that UPB will logically validate all “common sense” moral propositions, but the first hurdle has been passed, and that should give us great cause for celebration. If I were a physicist proposing a Unified Field Theory, and the application of my theory correctly predicted where a thrown baseball would land, I could justly be enormously pleased.
+El hecho de que la estructura de UPB ha validado lógica y efectivamente la proposición moral de que la violación es maldad - no "buena," o "estéticamente preferible," o "personalmente preferible," o "moralmente neutral" - es una señal muy buena. Eso no prueba más allá de una sombra de duda que los UPB lógicamente validarán todas las proposiciones morales de "sentido común", pero el primer obstáculo ha sido superado y eso debería darnos un gran motivo de celebración. Si yo fuera un físico proponiendo una Teoría del Campo Unificado y la aplicación de mi teoría predijo correctamente dónde aterrizaría una pelota de béisbol que fue lanzada, yo podría con razón estar enormemente satisfecho.
 
-Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
+La teoría de la relatividad de Einstein predijo que la luz se curvaría alrededor de un pozo gravitacional - cuando esto fue confirmado por primera vez, eso no probó su teoría más allá de una sobra de duda, pero probó que la teoría *podía* ser verdad, lo que era un gran salto adelante. La primera validación es siempre la más difícil porque es muy fácil equivocarse y el error siempre supera a la precisión.
 
-The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+La estructura de UPB ha validado correctamente nuestra premisa moral de que la violación es maldad. Esto es un criterio necesario - pero no suficiente - para prueba y apoya completamente la investigación adicional. De esta manera, continuemos…
 
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
+[^1]: Esto es muy diferente a una agresión física, lo que destruye tu capacidad de libre elección.
 
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
+[^2]: No se puede discutir que la violación no involucra preferencia, porque la violación es un comportamiento y, como hemos discutido arriba, todos los comportamientos involucran preferencia.
 
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
+[^3]: Toma en cuenta que no puedo proponer que las "preferencias personales *pueden* ser infligidas violentamente a otras personas, ya que eso es violación de los UPB, lo que establece que las reglas morales deben ser absolutas y universales - si no lo son, caen en territorio APA y no pueden ser infligidas a otros.
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]: Podemos evitar situaciones que aumenten la probabilidad de violación, pero no podemos evitar una violación en curso.
