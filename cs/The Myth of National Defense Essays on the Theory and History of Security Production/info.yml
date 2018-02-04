@@ -3,18 +3,6 @@ content_files:
   - 
     - intro.md
     - ""
-  - 
-    - sec1.md
-    - ""
-  - 
-    - sec2.md
-    - ""
-  - 
-    - sec3.md
-    - ""
-  - 
-    - sec4.md
-    - ""
 translation:
   language: cs
   is_translation: true
@@ -83,7 +71,7 @@ resources:
 targets:
   - 
     target: [ ]
-    name: article
+    name: book
     reset_footer_active: false
     reset_footer_depth: 0
     clear_page_active: true
