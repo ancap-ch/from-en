@@ -1,10 +1,10 @@
-## Preface to the Second Edition
+## Prefazione della Seconda Edizione
 
-The first edition of *The Economics and Ethics of Private Property*, published in 1993, has been out of print for several years. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.
+La prima edizione di *The Economics and Ethics of Private Property*, pubblicata nel 1993, è fuori stampa da diversi anni. Per qualche tempo e da molte parti sono stato invitato a preparare una nuova edizione, e Llewellyn Rockwell ha gentilmente offerto all'Istituto Ludwig von Mises di fungere da editore.
 
-*The Economics and Ethics of Private Property* was dedicated to my teacher and mentor, Murray N. Rothbard, with whom I had been closely associated during the last ten years of his life, first as a visiting scholar at the Brooklyn Polytechnic Institute in New York City and after 1986 as a colleague at the University of Nevada, Las Vegas. The year 2005 marks the tenth anniversary of Rothbard’s death. Thus, it seemed a most appropriate time to honor Murray anew with this second edition.
+*The Economics and Ethics of Private Property* è stato dedicato al mio insegnante e mentore, Murray N. Rothbard, con il quale sono stato strettamente associato negli ultimi dieci anni della sua vita, prima come visiting scholar al Brooklyn Polytechnic Institute di New York City e dopo il 1986 come collega all'Università del Nevada, a Las Vegas. L'anno 2005 segna il decimo anniversario della morte di Rothbard. Quindi, è sembrato il momento più appropriato per onorare nuovamente Murray con questa seconda edizione.
 
-The present edition of *The Economics and Ethics of Private Property* is enlarged. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+La seguente edizione di *The Economics and Ethics of Private Property* è stata ampliata. Aggiunge quattro articoli scritti dopo la pubblicazione originale del libro, ma in relazione tematica al tema centrale della logica economica ed etica dell'istituzione della proprietà privata - capitoli 6, 7, 8 e 15. L'opportunità di una nuova edizione è stata anche utilizzata per apportare miglioramenti editoriali significativi e revisioni.
 
 Hans Hermann Hoppe
 
