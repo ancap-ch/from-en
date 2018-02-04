@@ -148,5 +148,10 @@ Polish (Język polski)
 - https://PL.ancap.ch/
 - https://github.com/ancap-ch/from-en/tree/utopian/pl
 
+Czech (čeština)
+- https://github.com/orgs/ancap-ch/teams/cs
+- https://CS.ancap.ch/
+- https://github.com/ancap-ch/from-en/tree/utopian/cs
+
 
 If any questions, don't feel afraid to drop me a message!
