@@ -103,9 +103,9 @@ content_files:
     - 03_p02_ch13.md
     - ""
 translation:
-  language: en
+  language: es-VE
   is_translation: true
-  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/Economics and Ethics of Private Property Studies in Political Economy and Philosophy"
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/es-VE/Economics and Ethics of Private Property Studies in Political Economy and Philosophy"
   fetch_translators: true
   fetch_reviwers: true
   fetch_progress: true
@@ -171,7 +171,7 @@ resources:
 targets:
   - 
     target: [ ]
-    name: article
+    name: book
     reset_footer_active: false
     reset_footer_depth: 0
     clear_page_active: true
