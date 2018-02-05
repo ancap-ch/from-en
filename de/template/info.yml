@@ -1,0 +1,76 @@
+---
+content_files:
+  - Inhalt.md
+translation:
+  language: de
+  is_translation: false
+  this_project_url: ""
+  fetch_translators: true
+  fetch_reviwers: true
+  fetch_progress: true
+titles:
+  - Textüberschrift 
+  - '~ ~ Zentriert ~ ~'
+  - '~~~~~Rechts'
+discussions:
+  - 
+    - https://de.Ancap.ch/t/17
+    - Ancap Kanal
+more_infos:
+  - 
+    - https://www.google.de
+    - Webseitenname
+tags:
+  - Irgendein tag
+  - Weiterer tag
+  - und so weiter
+tag_prefix: "https://de.ancap.ch/tags/"
+persons:
+  - 
+    person: [ ]
+    identifier: "vorlage_person"
+    rule: "Autor"
+  - 
+    person: [ ]
+    identifier: "vorlage_person"
+    rule: "Kollaborateur"
+  - 
+    person: [ ]
+    identifier: "vorlage_person"
+    rule: "bedankt"
+  - 
+    person: [ ]
+    identifier: "vorlage_person"
+    rule: "Übersetzer"
+  - 
+    person: [ ]
+    identifier: "vorlage_person"
+    rule: "Rezensent"
+  - 
+    person_: [ ]
+    identifier: "vorlage_person"
+    rule: "cover_künstler"
+  - 
+    person: [ ]
+    identifier: "vorlage_person"
+    rule: "Künstler"
+resources:
+  - 
+    resource: [ ]
+    rule: "vorder_cover"
+    content: "cover.png"
+    websites:
+      - Ressourcenwebsite
+    description: Ressourcenbeschreibung
+    persons:
+      - vorlage_person
+targets:
+  - 
+    target: [ ]
+    name: Artikel
+    reset_footer_active: false
+    reset_footer_depth: 0
+    clear_page_active: true
+    clear_page_depth: 1
+    toc_depth: 3
+version: "0.1.1"

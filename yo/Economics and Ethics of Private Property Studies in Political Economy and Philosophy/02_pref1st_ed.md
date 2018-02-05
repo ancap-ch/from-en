@@ -1,0 +1,13 @@
+## Akoso si Eko Akoko
+
+Awon isubu ti eto ajumoni koja ila oorun Europu- bi o se afihan pupo nipase awon isele ti awon iranti lailai ti o le ranti ti ojo kesan osun kesan, ni odun 1989, nigbati awon ara Jamani ti Easti ati Oorun pada, gbe ati ki o dun, lori oke ti Ogiri Berlin- ti fi kun siwaju sii pelu atileyin ati isinmi si itumo ti akosile ti iwon didun yi ju eyiti mo ti ni ireti fun.
+
+Boya awon ijinle ti o tele yii n se abojuto awon oro aje gegebi ise, anfani, owo, ile-ifowopamo, awon isowo owo, ori, awon oja gbangba, tabi idagbasoke; pelu awon isoro imoran gegebi awon ipile imo, ati ti awon oro-oro ati awon eko oloye-pupo; ati awon oro aje ati awon eko ise ni pato; tabi awon atunko ati alaye itumo ti awon itan ati awon imo-ara-eni gegebi isise, ilosiwanju ati isubu ti awon ilu, isagbere agbaye, ogun, imonisi, ati ipa awon ero ati awon isaro ti eko inu eko ni igbesi aiye-imoran-igbesi-aye kookan yoo se alabapin si ipinnu kan nikan: Eto si ohun-ini ara eni je eto ti ko wulo, ijerisi idiyele ti eniye ati ipinle fun lemolemofun "ti aipe" ilana aje. Lati jinde kuro ninu iaprun ti isinishiti ati ki o segun iseduro ti awon orile-ede imore-oorun, ko si ohun ti o ye sugbon ipolowo ti ko ni idiwo ti gbogbo awujo, ti o je, ijoba, ohun ini ati idasile awujo adehun kan ti o da lori imudani ti idi ti ikoko eto eni-ini.
+
+Ni kiko awon ijinle wonyi ti mo gba iranlowo lati opolopo awon egbe pupo. Ope pataki lo si iyawo mi Margret, eniti o run gba ise-sise ti de-Jamanizini ede oyinbo mi: si Llewellyn H. Rockwell, Jr., Aare ti Ludwig Von Mises instituti, ati si Burton S. Blumert, Aare ile-eko fun Agbora, fun igbaniduro igbadii ti ise mi; ati si ore mi David Gordon, fun awon imoran ati awon imoran ti o wulo pupo.
+
+Ipese ti o tobi julo ni fun Ludwig Von Mises ati Murray N. Rothbard, awon ti o tobi julo ti ogun odun-bi o tile je pe won ti gbabe won gidi-bi ekowo ati awon oludamoran imoran. Nigba ti mi ko pade Ludwig Von Mises ri, ati pe nitoto emi ko ti gbo oruko re titi di igba iku re, Mo niola lati ni ibatan pekipeki pelu Murray Rothbard fun odun mefa ti o ti koja, akoko ni ilu New York, ati niwon 1986 bi awon alabasisoro ni ile-eko giga ti Nevada. Las Vegas. Yato si gbese ogbon ti mo je won, awon oro ko le se afihan imo-okan mi. Ogbon re, imoran, iwa-rere, igbaradi, ati igbiyanju ti ko ni igboya je igbesi-aye ti n tesiwaju si mi. O je, nitorina, afi ifisooto iwon didun yi fun.
+
+Hans-Hermann Hoppe
+
+*Las Vegas, Naveda, Odun 1993*
