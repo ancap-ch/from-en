@@ -151,10 +151,10 @@ resources:
 targets: 
   - target:
     name: book
-    reset_footer_active: false
-    reset_footer_depth: 0
+    reset_footer_active: true
+    reset_footer_depth: 1
     clear_page_active: true
-    clear_page_depth: 1
-    toc_depth: 3
+    clear_page_depth: 3
+    toc_depth: 2
 
 version: "0.1.2"
