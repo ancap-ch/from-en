@@ -1,10 +1,10 @@
-## Preface to the Second Edition
+## Předmluva ke druhému vydání
 
-The first edition of *The Economics and Ethics of Private Property*, published in 1993, has been out of print for several years. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.
+První vydání knihy *Ekonomie a etika soukromého vlastnictví* vyšlo v roce 1993 a od té doby se kniha do tisku několik let nedostala. Po určitou dobu jsem byl z mnoha stan pobízen, abych připravil nové vydání, a Llewellyn Rockwell štědře nabídl, že Ludwig von Mises Institute poslouží jako jeho vydavatel.
 
-*The Economics and Ethics of Private Property* was dedicated to my teacher and mentor, Murray N. Rothbard, with whom I had been closely associated during the last ten years of his life, first as a visiting scholar at the Brooklyn Polytechnic Institute in New York City and after 1986 as a colleague at the University of Nevada, Las Vegas. The year 2005 marks the tenth anniversary of Rothbard’s death. Thus, it seemed a most appropriate time to honor Murray anew with this second edition.
+*Ekonomie a etika soukromého vlastnictví* byla věnována mému učiteli a mentorovi Murraymu N. Rothbardovi, s nímž jsem byl v posledních deseti letech jeho života úzce spjat, nejprve jako hostující doktorand v Brooklyn Polytechnic Institute v New Yorku a po roce 1986 jako jeho kolega na University of Nevada v Las Vegas. Na rok 2005 připadá desáté výročí Rothbardovy smrti. Zdá se tedy, že je nejpříhodnější příležitost Murrayho tímto druhým vydáním znovu uctít.
 
-The present edition of *The Economics and Ethics of Private Property* is enlarged. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+Aktuální vydání *Ekonomie a etiky soukromého vlastnictví* je rozšířené. Zahrnuje čtyři články napsané až po publikování původního vydání knihy, které ale tematicky souvisí s jejím ústředním motivem ekonomického a etického zdůvodnění instituce soukromého vlastnictví. Jde o kapitoly 6, 7, 8 a 15. Při příležitosti nového vydání byly také provedeny významné redakční úpravy a revize.
 
 Hans Hermann Hoppe
 
