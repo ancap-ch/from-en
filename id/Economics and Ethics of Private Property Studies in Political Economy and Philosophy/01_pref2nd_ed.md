@@ -1,10 +1,10 @@
 ## Kata pengantar untuk Edisi Kedua
 
-Edisi pertama *Ekonomi dan Etika Milik Pribadi*, diterbitkan pada tahun 1993, telah dicetak selama beberapa tahun. Untuk beberapa lama Dan dari banyak pihak saya telah diminta untuk mempersiapkan edisi baru, serta Llewellyn Rockwell telah Menawarkan lembaga anggun Ludwig von Mises untuk menjadi penerbitnya.
+Edisi pertama *Ilmu Ekonomi dan Etika Properti Pribadi*, yang diterbitkan pada tahun 1993, sudah tidak diterbitkan lagi selama beberapa tahun. Dalam jangka waktu tersebut dan dari berbagai pertimbangan, saya didesak untuk menyiapkan edisi terbaru, dan Llewellyn Rockwell dengan senang hati menawarkan Institut Ludwig von Mises bertindak sebagai penerbitnya.
 
-*Ekonomi dan Etika pada Milik pribadi* didedikasikan untuk guru saya dan penasehat pribadi, Murray N. Rothbard, dengan siapa saya telah rapat berkaitan itu ketika sepuluh tahun terakhir dalam hidupnya, dulu sebagai sebuah kunjungan sarjana dilembaga Politeknik Brooklyn di kota new york dan setelah 1986 sebagai rekan di sebuah Universitas di Nevada, Las Vegas. Tahun 2005 menandai ulang kesepuluh kematian Rothbard. Dengan demikian, rasanya waktu yang paling tepat untuk menghormati Murray sekali lagi dengan edisi kedua ini.
+*Ilmu Ekonomi dan Etika Properti Pribadi* didekasikan untuk guru sekaligus mentor saya, Murray N. Rothbard, orang yang sangat dekat dengan saya selama 10 tahun terakhir hidupnya, pertama sebagai seorang Ilmuwan tamu di Institut Politeknik Brooklyn di New York City dan setelah 1986 sebagai kolega di Universitas Nevada, Las Vegas. Tahun 2005 menandakan 10 tahun kematian Rothbard. Dengan demikian, sepertinya menjadi waktu yang paling tepat untuk menerbtikan edisi kedua sebagai bentuk penghormatan bagi Murray.
 
-Menyajikan edisi dari*ekonomi dan etika dari milik pribadi* diperbesar. Ini menambahkan empat artikel tertulis setelah publikasi buku asli akan tetapi berhubungan secara teratur pada pusat pokok Masalah Dasar ekonomi dan etika lembaga milik pribadi-bab 6, 7, 8, dan 15. Kesempatan untuk edisi baru juga telah digunakan untuk membuat perbaikan dan revisi editorial yang penting.
+Edisi terbaru dari *Ilmu Ekonomi dan Etika Properti Pribadi* akan diperluas bahasannya. Menambahkan empat artikel yang ditulis setelah publikasi asli buku tersebut namun masih terkait secara tematik dengan pokok bahasannya mengenai dasar ekonomi dan etika institusi terhadap properti pribadi - bab 6, 7, 8, dan 15. Kesempatan untuk menerbitkan edisi terbaru juga digunakan untuk membuat perbaikan dan revisi editorial yang signifikan.
 
 Hans Hermann Hoppe
 
