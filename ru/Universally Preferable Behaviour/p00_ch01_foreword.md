@@ -1,65 +1,65 @@
-## Foreword
+## Предисловие
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+Во многих сказках присутствует ужасный зверь, обладающий невероятной силой, то ли дракон то ли василиск, который терроризирует близлежащие земли. Местные селяне трепещут перед этим монстром. Они приносят в жертву своих животных, отдают деньги и кровь в надежде умилостивить его кровожадные инстинкты.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Большинство людей съеживаются в тени этого зверя, называя свой страх “благоразумием”, но некоторые, возможно пьяные или безрассудные, решают сражаться с ним. Год за годом, десятилетие за десятилетием, волна за волной решительно настроенных чемпионов пытается померяться своей силой, доблестью и ловкостью с этим ужасным тираном.
 
-Try – and fail.
+Пытаются, но все напрасно.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Зверь всегда оказывается бессмертным, поэтому селяне потеряли надежду избавиться от их деспота. Зверь никогда не бывает рациональным и не изъявляет желание торговать, так что любые переговоры ни к чему не приводят.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Единственная надежда отчаявшихся селян на то, что однажды появится человек, способный победить зверя.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+И неизменно появляется человек, который всех поражает своим несоответствием. Это либо конюх, сын сапожника, ученик пекаря, или порой даже просто бродяга.
 
-This book is the story of my personal assault on just such a beast.
+Настоящая книга - это рассказ о моем личном походе на такого зверя.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Этот “зверь” является иллюзией того, что нормы морали должны быть навечно затеряны в трясине богов и правительств, вводимые в действие исключительно из прагматических целей, но навсегда лишенные логического обоснования и четкого определения. Этот “зверь” является фантазией, что добродетель, наша величайшая радость, наше глубочайшее счастье, должна быть отброшена в сторону бездуховными взрослыми и оставлена в пыли для того чтобы на нее указывали, выставляли напоказ и эксплуатировали политики, священники и родители. Этот “зверь” является предубеждением, что без тирад родителей, высмеивания богов или оружия правительства мы не можем быть и рациональными и хорошими.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Этот зверь сокрушил многих славных героев, от Сократа до Платона, Августа, Юма, Канта и Ранда.
 
-The cost to mankind has been enormous.
+Человечество заплатило за это большую цену.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Поскольку мы остались неспособными дать определение рациональной системе общепринятых норм морали, мы были вынуждены навязать религиозные страшилки нашим детям, или дать оружие, тюрьмы и армии небольшой монополии бездушных контроллеров, которые сами себя называют “государством”.
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Поскольку то, что мы называем “этикой” остается субъективным и всего лишь культурным, мы неизбежно приходим к тому, что полагаемся на высмеивание, страх и насилие для исполнения социальных правил. Поскольку этика лишена рациональной основы научного метода, “моральные принципы” остаются глубоко завязнутыми в родовой войне кровожадных мифологий, причем каждая группировка с остервенением борется за контроль над приверженностью людей “добродетели”.
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Мы не можем жить без моральных принципов, но мы не можем дать объективное определение морали - поэтому мы остаемся вечно приговоренными к пустым жизням из помпезного лицемерия, циничного доминирования или набожного раболепия.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+В интеллектуальном смысле нет более высоких ставок в мире. Наша неспособность определить объективные и рациональные моральные правила стоила сотни миллионов человеческих жизней в войнах между религиями и государствами.
 
-In many ways, the stakes are getting even higher.
+Во многом ставки еще более повышаются.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+Возросший поток информации благодаря Интернету усилил подозрения нового поколения относительно того, что то что называется “добродетель” это ни больше ни меньше чем никому ненужные сказки их лицемерных старших. Благочестивая ложь, преподносимая власть имущими, и соучастие тех, кто им слепо поклоняется, теперь очевидна как никогда раньше.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+“Истина” преподносится как манипуляция; “добродетель” как контроль; “верность” как рабство, а то что называется “моральные принципы” теперь изображается как ироничное кукольное шоу, направленное на то, чтобы заставить слабых и боязливых людей поработить самих себя.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+Такая реализация породила новое поколение нигилистов, как это было в девятнадцатом веке в Германии. Эти рьяные релятивисты хранят свои наиболее саркастические нападки для каждого, кто заявляет о какой-либо достоверности. Это пост-модернистское поколение переросло культурную предубежденность своей коллективной истории, и теперь расценивает любую истину всего лишь как необъективное суждение. Словно наивные дети, в которые была глубоко заложена циничная “мудрость”, они рассматривают любое общение как рекламу, все утверждения как пропаганду, а все нравственные проповеди как лицемерное воровство.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+Поскольку у нас нет согласия по целостной, объективной и рациональной основе для  оценки нравственных предложений, “моральные принципы” продолжают быть окутанными мистицизмом и его неизбежным следствием - насилием. Как еще до эры Просвещения религиозные секты вели бесконечные войны за контроль над рычагами аристократии, так и теперь соперничающие нравственные мифологии ведут войны за контроль над государством и всем его механизмом принуждения.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+Таким образом мораль остается по отношению к современной науке, как средневековая “астрономия” была по отношению к современной астрономии - царством воображаемой мифологии, которая претворяется в жизнь через выдумки, угрозы, принуждение и эксплуатацию, что существенно задерживает реальный прогресс в достижении истины.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+Этот “зверь” релятивистской этики нависает над нами, охотится за нами, оправдывает налогообложение, тюремное заключение, цензуру и войны. Он порабощает молодежь в государственных школах и на воскресных богослужениях в церквях; он заманивает бедных в сети эфемерного богатства; он порабощает даже еще нерожденных в бездонных колодцах национальных долгов.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+Как я писал в своей предыдущей книге “Об истине: Тирания иллюзии”, самая фундаментальная ложь в центре недоказанных этических теорий это то, что такие теории всегда преподносятся детям как объективные и неопровержимые факты, тогда как на самом деле они являются всего лишь культурным лицемерием. Причина, по которой ученым не нужно правительство или Ватикан, это то, что у ученых есть объективная методология для разрешения споров - научный метод. Причина, по которой язык не нуждается в центральной власти для управления его эволюцией, это то, что он основывается на “свободном рынке” накопленных личных преференций по стилю и употреблению.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+Причина почему современная мораль, а также мораль на протяжении всей истории, всегда должна была прежде всего опираться на высмеивании детей, а затем на запугивании взрослых, это то, что она является манипулятивной ложью, маскирующейся под виртуозную истину.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+Истина заключается в том, что нам нужна мораль. Ложь в том, что боги или правительства могут дать ей рациональное определение или справедливо применить ее в жизни.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Цель моей книги - дать определение методологии для подтверждения моральных теорий, которая будет объективной,последовательной, четкой, рациональной, эмпирической - и истинной.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+Я осознаю, что на данный момент вы скорее всего ощутите растущую волну скептицизма. Я полностью отдаю себе отчет, что шансы на то, что какой-то парень где-то там в Интернете - этом мире, полном чудаков - каким-то образом разрешил многовековую философскую проблему, не слишком высоки, на самом деле практически близки к нулю.
 
-Still, not *quite* zero.
+Все же, не совсем нулю.
 
-### Ground Rules
+### Основополагающие правила
 
-Extraordinary claims require extraordinary proof. In taking on this mammoth task – particularly in such a short book – I have set myself some basic ground rules, which are worth going over here.[^1]
+Необычные утверждения требуют необычных доказательств. Взвалив на себя эту геркулесову задачу, особенно в такой краткой книге, я составил для себя несколько основополагающих правил, которые стоят того чтобы их рассмотреть.[^1]
 
-1. I fully accept the Humean distinction between “is” and “ought.” Valid moral rules cannot be directly derived from the existence of anything in reality. The fact that human beings in general *prefer* to live, and must successfully interact with reality in order to do so, cannot be the basis for any valid theory of ethics. Some people clearly do not prefer to live, and steadfastly reject reality, so this definition of ethics remains subjective and conditional.
-2. Ethics cannot be objectively defined as “that which is good for man’s survival.” Certain individuals can survive very well by preying on others, so this definition of ethics does not overcome the problem of subjectivism. In biological terms, this would be analogous to describing evolutionary tendencies as “that which is good for *life’s* survival” – this would make no sense. Human society is an ecosystem of competing interests, just as the rainforest is, and what is “good” for one man so often comes at the expense of another.
+1. Я полностью принимаю различие Юма между “есть” и “должен”. Действующие моральные принципы нельзя извлечь непосредственно из существования чего-либо в реальном мире. Тот факт, что человеческие существа в целом предпочитают жить и должны успешно взаимодействовать с реальностью для того чтобы делать это, не может быть основой для любой действующей теории этики. Некоторые люди определенно предпочли бы не жить и упорно отрицают реальность, поэтому это определение этики остается субъективным и условным.
+2. Этику нельзя объективно определить как “такую, которая подходит для выживания человека”. Некоторые люди могут вполне неплохо себе выживать, живя за счет других людей, поэтому это определение этики не решает проблему субъективизма. In biological terms, this would be analogous to describing evolutionary tendencies as “that which is good for *life’s* survival” – this would make no sense. Human society is an ecosystem of competing interests, just as the rainforest is, and what is “good” for one man so often comes at the expense of another.
 3. I do not believe in any “higher realm” of Ideal Forms. Morality cannot be conceived of as existing in any “other universe,” either material or immaterial. If morality exists in some “other realm,” it cannot then be subjected to a rigorous rational or empirical analysis – and, as Plato himself noted in “The Republic,” society would thus require an elite cadre of Philosopher-Kings to communicate – or, more accurately, *enforce* – the incomprehensible edicts of this “other realm” upon everyone else. This also does not solve the problem of subjectivism, since that which is inaccessible to reason and evidence is by definition subjective.
 4. I do not believe that morality can be defined or determined with reference to “arguments from effect,” or the predicted consequences of ethical propositions. Utilitarianism, or “the greatest good for the greatest number,” does not solve the problem of subjectivism, since the odds of any central planner knowing what is objectively good for everyone else are about the same as any central economic planner knowing how to efficiently allocate resources in the absence of price – effectively zero. Also, that which is considered “the greatest good for the greatest number” changes according to culture, knowledge, time and circumstances, which also fails to overcome the problem of subjectivism. We do not judge the value of scientific experiments according to some Platonic higher realm, or some utilitarian optimisation – they are judged in accordance with the scientific method. I will take the same approach in this book.
 5. I also refuse to define ethics as a “positive law doctrine.” Although it is generally accepted that legal systems are founded upon systems of ethics, no one could argue that every law within every legal system is a perfect reflection of an ideal morality. Laws cannot directly mirror *any* objective theory of ethics, since laws are in a continual state of flux, constantly being overturned, abandoned and invented – and legal systems the world over are often in direct opposition to one another, even at the theoretical level. Sharia law is often directly opposed to Anglo-Saxon common-law, and the modern democratic “mob rule” process often seems more akin to a Mafia shoot-out than a sober implementation of ethical ideals.
