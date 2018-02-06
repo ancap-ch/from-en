@@ -5,11 +5,11 @@ content_files:
     - https://github.com/ancap-ch/from-en/blob/utopian/en/template/content.md
 translation:
   language: fa
-  is_translation: true
+  is_translation: درست
   this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/fa/template"
-  fetch_translators: true
-  fetch_reviwers: true
-  fetch_progress: true
+  fetch_translators: درست
+  fetch_reviwers: درست
+  fetch_progress: درست
 titles:
   - Title Text
   - '~~Centered~~'
@@ -30,31 +30,31 @@ tag_prefix: "https://en.ancap.ch/tags/"
 persons:
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "الگوی شخصی"
     rule: "author"
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "الگوی شخصی"
     rule: "collaborator"
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "الگوی شخصی"
     rule: "thanked"
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "الگوی شخصی"
     rule: "translator"
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "الگوی شخصی"
     rule: "reviwer"
   - 
     person_: [ ]
-    identifier: "template_person"
+    identifier: "الگوی شخصی"
     rule: "cover_artist"
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "الگوی شخصی"
     rule: "artist"
 resources:
   - 
@@ -70,9 +70,9 @@ targets:
   - 
     target: [ ]
     name: article
-    reset_footer_active: false
+    reset_footer_active: نادرست
     reset_footer_depth: 0
-    clear_page_active: true
+    clear_page_active: درست
     clear_page_depth: 1
     toc_depth: 3
 version: "0.1.2"
