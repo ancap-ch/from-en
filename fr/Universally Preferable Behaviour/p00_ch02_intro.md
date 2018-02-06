@@ -24,51 +24,51 @@ Donc, nous avons la petite vérité (*ne frappe pas*) et la grande vérité (*la
 
 Historiquement, nous pouvons voir la même incohérence en physique. Il n'y a pas de cercles parfaits dans notre expérience directe, mais à cause d'une croyance en Dieu, tout le mouvement planétaire doit être un "cercle parfait" – une prémisse qui a retardé l'astronomie pendant des siècles. De même, si un homme tourne la tête, il ne croit raisonnablement pas que le monde entier tourne autour de lui – et il le défendrait volontiers non seulement comme sa "petite vérité", mais comme une *grande vérité* ou principe universel. Cependant, pendant la majeure partie de l'histoire humaine, on croyait que les étoiles et les planètes tournaient autour de la Terre, au lieu de tourner la Terre. Ici, nous pouvons à nouveau voir la "zone nulle" entre l'expérience sensorielle directe et le principe universel, où des principes entièrement opposés sont considérés comme parfaitement valables.
 
-Aucun homme sain d'esprit fait l'expérience de Dieu directement. Dans sa vie quotidienne, il accepte pleinement que *ce qui ne peut être perçu n'existe pas*. Aucun homme raisonnable trébuchait à chaque fois qu'il prend un peu, craignant un mur invisible qui pourrait être de limitation à sa façon. Aucun homme raisonnable trébuchait à chaque fois qu'il prend un peu, craignant un mur invisible qui pourrait être de limitation à sa façon.
+Aucun homme sain d'esprit ne fait directement l'expérience de Dieu. Dans sa vie quotidienne, il accepte pleinement que *ce qui ne peut être perçu n'existe pas*. Aucun homme raisonnable ne frissonne à chaque fois qu'il fait un pas, craignant un mur invisible qui pourrait bloquer son chemin. Les plus grandes abstractions de la science soutiennent son approche.
 
-À l'inverse, dans le “nul”, la zone de la religion, de l' *exact opposé* à la fois le peu de vérités et les grandes vérités que l'on croit être vrai. Personnellement, un homme croit qu' *ce qui ne peut être perçu n'existe pas* – sur le plan intellectuel, la science l'a prouvé à plusieurs reprises. Toutefois, dans le “nul”, la zone de la théologie, à l'exact opposé de la proposition est vraie – l'axiome il y a *ce qui ne peut être perçu **doit** existe*.
+Au contraire, dans la "zone nulle" de la religion, le *contraire exact* des petites et grandes vérités est considéré comme vérité. Personnellement, un homme croit que *ce qui ne peut être perçu n'existe pas* – intellectuellement, la science l'a montré à plusieurs reprises. Cependant, dans la "zone nulle" de la théologie, la proposition exactement opposée est vraie – l'axiome est que *ce qui ne peut être perçu **doit** exister*.
 
-Notre croyance en la vertu de l'armée se trouve aussi dans cette “null zone.” Si l'homme est payé pour le meurtre d'un autre homme, nous l'appelons un “pistolet à la location”, et le condamnent comme un hit man. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
+Notre croyance en la vertu de l'armée se retrouve également dans cette "zone nulle". Si un homme en particulier est payé pour assassiner un autre homme, nous l'appelons un "tueur à gages" et le condamnons en tant que tueur à gages. Cependant, si cet homme enfile un costume vert avec certains rubans *et commet le même acte*, nous le saluons comme un héros et il est récompensé par une pension. La petite vérité (*Je ne dois pas assassiner*) est parfaitement cohérente avec la grande vérité (*le meurtre est mauvais*) – mais au milieu il y a une "zone nulle", où le meurtre devient magiquement "vertueux".
 
-If this “null zone” is valid, then no logical proposition can ever hold. If a proposition is true – and the exact opposite of that proposition is also true – then logical reasoning becomes impossible. The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
+Si cette "zone nulle" est valide, aucune proposition logique ne pourra jamais être maintenue. Si une proposition est vraie – et le contraire exact de cette proposition est également vrai – alors le raisonnement logique devient impossible. La croissance de la science rationnelle a été l'attaque constante de cette "zone nulle", et l'incursion de la cohérence objective dans ces petits paquets de folie subjectivement subjective.
 
-In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
+Sur les anciennes cartes, avant que les cartographes aient fini leurs explorations, les dessins des terres connues ont disparu sur le papier blanc. La croissance des connaissances exige d'abord une délimitation de ce qui est inconnu et ensuite une expansion des principes connus sur des zones inconnues.
 
-The same is true in the realm of morality.
+La même chose est vraie dans le domaine de la moralité.
 
-### The Casualties
+### Les Pertes
 
-Crossing this “null zone” is fraught with peril. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+Traverser cette "zone nulle" est plein de risques. Le chemin qui va des petites vérités aux grandes vérités est pavé d'ossements de millions. De la mort de Socrate à la torture des premiers scientifiques par des fanatiques religieux, aux millions qui ont été assassinés et tués par les fantasmes noirs du fascisme et du communisme, toute avancée du savoir humain dans la "zone nulle" est pleine de un danger considérable.
 
-Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
+Avoir à "traverser la zone nulle" – ou à unir de petites vérités avec de grandes vérités – est inévitablement très difficile et dangereux? C'est un énorme défi d'unir la perception avec le conceptuel dans une ligne droite de raisonnement logique – mais ce progrès *doit-il* prendre  des milliers d'années et des océans de sang?
 
-If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
+Si nous regardons le progrès technologique et économique de l'humanité, nous voyons plus ou moins une ligne plate pendant d'innombrables millénaires, suivie par des pics massifs et asymptotiques au cours des dernières centaines d'années. Il est inconcevable qu'une mutation génétique étendue puisse expliquer cette accélération soudaine et énorme de la cohérence intellectuelle et du succès matériel. Les théories qui prétendent qu'un certain "effet boule de neige" a vu le jour, mystérieusement entraînées par une accumulation de tous les petits incréments de connaissances qui ont eu lieu depuis l'aube de la civilisation, peuvent généralement être rejetées entièrement comme explications *ex post facto*, puisqu'ils n'ont aucune valeur prédictive.
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+Si nous comprenons que notre incroyable potentiel existe depuis au moins des dizaines de milliers d'années – et que c'est à la fois un grand gain et un grand plaisir à l'exercer – alors il devient clair que nous voulons vraiment *oui* utiliser notre esprits incroyables.
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+Par conséquent, il doit y avoir une force descendante qui a agi historiquement pour écraser et asservir la liberté naturelle de l'humanité.
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+Dans le domaine de la science, il n'est pas trop difficile de voir les forces oppressives qui gardent continuellement nos esprits dans une ignorance presque primitive. La combinaison de la superstition sous la forme de la religion et de la violence sous la forme de l'aristocratie, a menacé les penseurs rationnels avec l'intimidation, l'emprisonnement, la torture et le meurtre. De même qu'un fermier profite de la faible intelligence de ses vaches et qu'un esclave profite de la peur de ses esclaves, prêtres et rois conservent leurs privilèges menaçant la mort de quiconque oserait penser.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+La simple vérité est que les "prêtres" et les "rois" étaient – et sont – simplement des hommes. La simple vérité est que les dieux et les démons qui étaient censés justifier leurs règles n'ont jamais existé.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+Nous avons fait de grands progrès dans la compréhension de la nature et de la réalité de l'égalité humaine simple, mais le triste fait est que le champ de la morale * est encore perdu dans la "zone nulle" – dans les illusions destructrices de les "demi-vérités".
 
-### "Middle Truths"
+### "Demi-Vérités"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+Appelons les principes oppositionnels qui résident dans la "zone nulle" – entre perception sensorielle et cohérence conceptuelle – "demi-vérités".
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+Ces "demi-vérités" sont les illusions les plus dangereuses de tous, parce qu'elles donnent *l'apparence* d'une vérité tout en attaquant la vérité.
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+En fournissant l'illusion que nous avons trouvé la vérité, les "demi-vérités" nous empêchent vraiment d'obtenir la vérité. Ils sont la dernière ligne de défense pour la fantaisie, la déprédation et l'exploitation.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Puisqu'ils ne sont pas seulement irrationnels, mais *anti* rationnels, les "demi-vérités" restent infiniment flexibles – tant qu'ils servent ceux qui sont au pouvoir. Par exemple, le christianisme a émergé du fascisme croissant de l'Empire romain tardif en partie en s'attaquant aux superstitions "primitives" des théologies existantes. "Oubliez vos vieux dieux, nous avons un Dieu complètement nouveau qui va beaucoup mieux!"
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+Les "demi vérités" prennent toujours la forme d'une vérité, suivie d'un mensonge. "Zeus est une superstition païenne" est la vraie déclaration, qui a été faite ouvertement par des prosélytes Chrétiens. Le mensonge qui a suivi était: "Yahweh n'est pas une superstition païenne, mais un Dieu réel et vivant".
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+Nous pouvons personnaliser cela un peu plus avec un exemple qui sera familier à ceux qui ont déjà conseillé un ami dysfonctionnel. "Mon dernier petit ami était complètement idiot", dira-t-elle et vous serez d'accord. "Mon nouveau copain est vraiment" génial ", ajoute-t-elle, et tu essaieras de ne pas rouler les yeux.
 
-It is very hard not to replace one illusion with another.
+Il est très difficile de ne pas remplacer une illusion par une autre.
 
 “The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
 
