@@ -3,76 +3,76 @@ content_files:
   - 
     - content.md
     - https://github.com/ancap-ch/from-en/blob/utopian/en/template/content.md
-translation:
-  language: fa
+ترجمه کردن:
+  زبان: fa
   is_translation: درست
   this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/fa/template"
   fetch_translators: درست
   fetch_reviwers: درست
   fetch_progress: درست
-titles:
-  - Title Text
+عنوانها:
+  - عنوان متن
   - '~~Centered~~'
   - '~~~~~to the right'
 discussions:
   - 
     - https://en.ancap.ch/t/5
     - Ancap Channel
-more_infos:
+اطلاعات بیشتر:
   - 
     - https://www.google.com
     - Website name
-tags:
-  - Some Tag
+زبانه ها:
+  -زبانه های دیگر
   - Another Tag
   - And so on
 tag_prefix: "https://en.ancap.ch/tags/"
-persons:
+شخصی:
   - 
-    person: [ ]
+    شخصی: [ ]
     identifier: "الگوی شخصی"
-    rule: "author"
+    قانون: "author"
   - 
-    person: [ ]
+    شخصی: [ ]
     identifier: "الگوی شخصی"
     rule: "collaborator"
   - 
-    person: [ ]
+    شخصی: [ ]
     identifier: "الگوی شخصی"
-    rule: "thanked"
+    قانون: "thanked"
   - 
-    person: [ ]
+    شخصی: [ ]
     identifier: "الگوی شخصی"
-    rule: "translator"
+    قانون: "translator"
   - 
-    person: [ ]
+    شخصی: [ ]
     identifier: "الگوی شخصی"
-    rule: "reviwer"
+    قانون: "reviwer"
   - 
-    person_: [ ]
+    شخصی: [ ]
     identifier: "الگوی شخصی"
-    rule: "cover_artist"
+    قانون: "cover_artist"
   - 
-    person: [ ]
+    شخصی: [ ]
     identifier: "الگوی شخصی"
-    rule: "artist"
+    قانون: "artist"
 resources:
   - 
-    resource: [ ]
-    rule: "front_cover"
+    مرجع: [ ]
+    قانون: "front_cover"
     content: "cover.png"
-    websites:
+    وب سایت:
       - Resource website
     description: Resource description
-    persons:
+    شخصی:
       - "template_person"
-targets:
+هدفها:
   - 
-    target: [ ]
-    name: article
+    هدف: [ ]
+    نام: article
     reset_footer_active: نادرست
     reset_footer_depth: 0
     clear_page_active: درست
     clear_page_depth: 1
     toc_depth: 3
-version: "0.1.2"
+ورژن: "0.1.2"
