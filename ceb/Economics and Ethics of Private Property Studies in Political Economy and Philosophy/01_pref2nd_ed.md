@@ -1,10 +1,10 @@
-## Preface to the Second Edition
+## Panguna sa Ikaduhang Pag-usab
 
-The first edition of *The Economics and Ethics of Private Property*, published in 1993, has been out of print for several years. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.
+Ang una nga edisyon sa *The Economics and Ethics of Private Property*, nga gi-publish niadtong 1993, kay wala na nagprinta mga pila na katuig. Sa ubay-ubay na nga higayon ug sa nagkalain-laing nga baruganan, ila kong gi-awhag nga mag-andam ug bag-ong edisyon, ug si Llewellyn Rockwell kay naghatag sa Ludwig con Mises Institute para mahimong publisher niini sa way pagduha-duha.
 
-*The Economics and Ethics of Private Property* was dedicated to my teacher and mentor, Murray N. Rothbard, with whom I had been closely associated during the last ten years of his life, first as a visiting scholar at the Brooklyn Polytechnic Institute in New York City and after 1986 as a colleague at the University of Nevada, Las Vegas. The year 2005 marks the tenth anniversary of Rothbard’s death. Thus, it seemed a most appropriate time to honor Murray anew with this second edition.
+Ang *The Economics and Ethics of Private Property* kay nahimo para sa akong maestro ug nagtudlo sa ako, si Murray N. Rothbard, nga suod gyud nako sa nilabay na mga 10 ka tuig sa iyang kinabuhi, una katong nibisita ko isip usa ka iskolar sa Brooklyn Polytechnic Institute sa siyudad sa New York ug pagkahuman sa 1986 isip katrabaho sa University of Nevada, sa Las Vegas. Ang tuig 2005 mao ang ika-napulo nga anibersaryo sa kamatayon ni Rothbard. Mao nga mao ni ang pinakanindot nga oras para atong napud tagaan ug dungog Murray pinaagi niining ikaduhang edisyon.
 
-The present edition of *The Economics and Ethics of Private Property* is enlarged. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+Ang edisyon karon sa *The Economics and Ethics of Private Property* kay gipadako. Nagdungag kini ug duha ka mga artikula nga gisulat pagkahuman sa pag-publish sa libro pero tukma gihapon sa pinakasentro nga giistoryahan mahitungod sa sa ekonomiya ug etnikong panghunahuna sa pagkahimo sa mga pribadong mga kabtangan- kapitulo 6, 7, 8, and 15. Ang kining bag-ong edisyon pud kay gigamit para mahimo ang mga importanteng pagpahusay sa editoryal ug sa mga kaubsaban.
 
 Hans Hermann Hoppe
 
