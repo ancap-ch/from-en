@@ -28,7 +28,7 @@ Assim como a falsa ética das religiões "justifica" todas as formas de abuso, c
 
 Quando escolhemos reger a sociedade de acordo com mitologias morais religiosas, nós acabamos em guerras, violência, repressão, abuso, corrupção e hipocrisia sem fim.
 
-Quando escolhemos reger a sociedade de acordo com *estatisticas* mitologias morais, os resultados não são diferentes.
+Quando escolhemos reger a sociedade de acordo com *estatísticas* mitologias morais, os resultados não são diferentes.
 
 Nós só podemos escolher entre virtude ou compulsão.
 
@@ -72,4 +72,4 @@ As premissas morais fundamentais de uma cultura, portanto, ditam  o seu inevitá
 
 Aquilo que acreditamos é o que nos tornamos.
 
-Se acreditarmos em mentiras, tornarmos-nos escravos.
+Se acreditarmos em mentiras, tornarmo-nos escravos.
