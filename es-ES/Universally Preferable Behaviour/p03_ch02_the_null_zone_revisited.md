@@ -1,4 +1,4 @@
-## La Zona Nula Revisada
+### La Zona Nula Revisada
 
 Al comienzo de este libro, plasme una manera de observar como nosotros procesamos la verdad, haciendo una analogía para compararla con la fìsica. Partiendo de las “pequeñas verdades” sobre atrapar una pelota de béisbol, llegamos a las “grandes verdades” de la física - y las grandes verdades no pueden contradecir las pequeñas verdades. 
 
@@ -23,10 +23,10 @@ No tenemos evidencia directa, empírica oracional sobre la existencia de Dios. L
 Las creencias pueden ser ciertas, faltas o *anti-verdades*. Si es una creencia verdaderaque el decierto del Sahara está en el Norte de Africa; es una creencia falta que el Sahara está en Escocia; es una creencia *anti-verdad* que el Sahara este en donde sea que yo quiera que este, y existe cuando sea que yo desee que existe. La primera creencia es cierta, la segunda es falta - y la tercera es una aserción fanatizada que denota el concepto mismo de la prueba.   
 
 Podemos decir:
+
 1. Proposición X es verdad porque es racional.
 2. Proposición Y es falsa porque es irracional.
 3. Proposición Z es verdad porque yo *quiero* que sea verdad.
-
 La tercera aserción es una completa contradicción por sí misma. La "verdad" es independiente del deseo, ya que el deseo es por definición una preferenia subjetiva, y la verdad es por definición la conformidad de ideas bajo el estándar objetivo de la lógica y la realidad empírica. Decir que algo es verdad porque tú *quieres* que sea verdad es lo mismo a equivaler subjetividad con objetividad, lo cual es una posición contradictoria por sí misma. 
 
 Aserciones fanáticas - o "fe" - por definición no pueden ser testeadas, ya que no son creencias con *ausencia* de evidencia, sino que son creencias que *desafían* la razón y/o la evidencia.
