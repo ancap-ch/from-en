@@ -2,63 +2,63 @@
 
 For dem fairy tori, one bad beast dey wey get plenty power, a dragon or na basilisk, wey dey disturb evry evry. Dem village people dem too dey fear dis monster; dem dey giv dem animal say mke d monster take, dem dey pay ego and blood so mke d monster no too dey peme dem. 
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Plenty of dem person pikin dey cower for d shadow of dis beast, wey dem dey call dia fear "prudence," but small for dem - wey don high for courage or craze - wan fight. Na evry year, evry dem 10 years, wave afta wave wey be say dem hopeful champions wan try put all dem power, virtue and cunning against dis bad tyrant.
 
-Try – and fail.
+Try and fail.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+D beast no fit peme, so dem village people no fit hope say dis bad tyrant go comot wit time. D beast no dey normal atall, and no get mind to trade, and so una no fit follow am relate.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Dem desperate village people’ just dey hope say make one person pikin com helep dem finish d beast.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+For sure, one person pikin comot wey make evry person dey wonder say wich kyn tin be dis. Na pikin for stable, shoemaker’s pikin, learner for baker’s - or e fit, just be vagabond.
 
-This book is the story of my personal assault on just such a beast.
+Dis book na d tori of my personal attack on dis kyn of beast.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Dis “beast” na d belief say una no fit define system wey dey objective, rational, secular and scientific ethical. Dis “beast” na d illusion say morality go everly dey lost for d irrational swamps of dem gods and dem governments, wey dem enforce for dem reasons wey dey pragmatic, but wey no get logical justification and beta definition at all.  This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. Dis “beast” na d fantasy say virtue, person greatest jolly, our deepest happiness, make we put am for one corner by secular dem bros, and make we leave am for dust to paw on am, wey dem men of God and dem politicians - dem mama and papa dey parade and exploit. Dis “beast” na d yeye tinking say, without our mama and papa shout, d bullying of dem gods or d guns of dem governments, we no fit dey normal and good for same time.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Dis beast don derep many strong person, from Socrates reach Plato reach Augustine reach Hume reach Kant reach Rand.
 
-The cost to mankind has been enormous.
+D cost for man pikin too much.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Since we neva fit give beta definition for system of universal morality wey dey normal, dey don force us make we dey give our pikin religious horror tori, or make we give guns, prisons and dem soldier people to shikini monopoly of controllers wey no get heart wey dey call demself “the state.”
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Since wetin we call “ethics” still dey subjective and merely *cultural*, for sure we go finally dey rely on top bullying, fear and kasala to enforce social rules. Since ethics no get normal basis for dem scientific way, “morality” dey middle of tribal war of dem bloody mythologies, wey each gang dey fyt wella make dem take get power as how person pikin dey take loyal to “virtue.”
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+We no fit live without morality, but we no fit define morality objectively - na why we dey stay for empty lives wey be gragra, cynical dominance or holy holy slavery.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Intellectually, no higher stakes dey dis world. Our failure to define objective and normal moral rules don peme hundreds of millions of person pikin lives, for wars of dem religions and states.
 
-In many ways, the stakes are getting even higher.
+For plenty ways, d stakes just dey high dey go.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+D increase info flow for d Internet dem don make suspicions dey go up ontop a tear rubber generation wey dem dey call “virtue” no pass - or no reach - dan d self-serveing fairy tori of dia old person dem wey no bam. The holy holy lies wey dem people wey dey powere dey talk - and d complicity of people wey dey hail dem - now don clear wella pass before. 
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+“Truth” yansh don comot say na manipulation;  “Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and wetin dem dey call “morality” don show say na yeye puppet show wey dem do to fake dem people wey dey weak and too dey fear mke dem dey enslave demself. 
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+Dis realisation na im carry a tear rubber generation of nihilists com, as e do am for Germany for d nineteenth century. Dis extreme relativists keep dia attack wey dey vitriolic pass for any man pikin wey talk say any for of certainty dey. Dis post-modern genertaion dem don pass dem cultural bigotries for all dia old tori, but com dey see *all* truth just dey prejudicial assertion. Like pikin wey shine im eyes wella wey dem don put fear for im body into cynical “sense,” dey dey look all talks say na market u dey find, say all na propaganda, and say all moral exhortations na hypocritical thievery. 
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+Since we no gel ontop a cohesive, objective and rational framework to dey check dem moral propositions, “morality” dey middle for mysticism, and for sure im result of kasala. As dem be, before d Enlightenment, religiouse sects dem dey fight wella for control ontop d blades of aristocracy, as moral mythologies war com dey compete for control ontop d state, and all im machinery of coercion.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+As morality come remain so, relative to science of dis time so, just as old days “astronomy” do for dis time astronomy - a area of mythology wey no too real, enforce through tori talks dem, threats, compulsion and dem exploitation - wey dey tanda bar any real progress toward d truth dem.  
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+Dis “beast” of relativistic ethics dey ontop us, wan chop us, dey justify taxation, imprisonment, censorship and wars dem. E dey enslave dem small pikin for dem state school and Sunday pews; e dey make sure say dem poor dey d soft gulags of welfare dem; e dey enslave pikin wey dem neva born for d bottomless wells of dem national debts.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+As I put am down for my last book,“On Truth: The Tyranny of Illusion,” d lie wey dope pass for d centre of dem ethical theories wey neva strong wella na say dat dem theories dey always dey for dem small pikin as objectives and dem incontrovertible facts, wey be say d truth na sa dem just be mere cultural bigotries. D reason wey dem scientists no need government or a Vatican be say scientists get objective methodology wey dem dey use resolve wahala: the scientific way. D reason wey language no need power wey dey middle to guide im evolution na cos say e dey sure ontop d “free market” of demaccumulated personal person preference for style and utility dem.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+D reason wey be say dis time morality - and morality for all dem old tori - dey always dey sure ontop d bullying of dem small pikin, and den to dey threaten dem old person pikin, na say na manipulative lie wey dey pretend say im be virtuous truth.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+D truth be say we need morality; d lie be say dem gods and dem governments fit normally define or make dem justly enforce am.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Wetin I dey pursue for dis book na to define methodology for dem moral theories wey dey objective, consistent, clear, normal, empirical - and *true*. 
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+I dey sabi wella say, for dis tym so, u go dey feel a rising wave of scepticism dem. I grab d odds say some guy wey dey out dia for d Internet - d home of people wey mad wella - don solve d philosophical wahala of of dem time no dey too high like dat - in fact, dey fit close near zero so make dem dey virtually indistinguishable from am.  
 
-Still, not *quite* zero.
+No, be still *quite* zero.  
 
-### Ground Rules
+### Ground Rules 
 
-Extraordinary claims require extraordinary proof. In taking on this mammoth task – particularly in such a short book – I have set myself some basic ground rules, which are worth going over here.[^1]
+Dem claims wey too pass ordinary eyes need proofs wey pass ordinary eyes. Say u take dis biggy biggy work so - particularly for dis shikini book so - I don give maself some basic ground rules so, wey worth going over here.[^1] 
 
-1. I fully accept the Humean distinction between “is” and “ought.” Valid moral rules cannot be directly derived from the existence of anything in reality. The fact that human beings in general *prefer* to live, and must successfully interact with reality in order to do so, cannot be the basis for any valid theory of ethics. Some people clearly do not prefer to live, and steadfastly reject reality, so this definition of ethics remains subjective and conditional.
+1. I accept am wit all ma body d Humean distinction wey dey between “is” and “ought.” Moral values wey make brain no fit get am am straight from d existence of anytin wey dey for real. D fact be say all person pikin *prefer* make dem live, and make dem dey relate wit real tins dem succesfully wey go allow dem live, no fit be d basis for any of dem valid theory of ethics dem. Some person pikin clearly no wan live, and reject real tin sharparly, so dis definition of ethics dem still dey subjective and conditional.
 2. Ethics cannot be objectively defined as “that which is good for man’s survival.” Certain individuals can survive very well by preying on others, so this definition of ethics does not overcome the problem of subjectivism. In biological terms, this would be analogous to describing evolutionary tendencies as “that which is good for *life’s* survival” – this would make no sense. Human society is an ecosystem of competing interests, just as the rainforest is, and what is “good” for one man so often comes at the expense of another.
 3. I do not believe in any “higher realm” of Ideal Forms. Morality cannot be conceived of as existing in any “other universe,” either material or immaterial. If morality exists in some “other realm,” it cannot then be subjected to a rigorous rational or empirical analysis – and, as Plato himself noted in “The Republic,” society would thus require an elite cadre of Philosopher-Kings to communicate – or, more accurately, *enforce* – the incomprehensible edicts of this “other realm” upon everyone else. This also does not solve the problem of subjectivism, since that which is inaccessible to reason and evidence is by definition subjective.
 4. I do not believe that morality can be defined or determined with reference to “arguments from effect,” or the predicted consequences of ethical propositions. Utilitarianism, or “the greatest good for the greatest number,” does not solve the problem of subjectivism, since the odds of any central planner knowing what is objectively good for everyone else are about the same as any central economic planner knowing how to efficiently allocate resources in the absence of price – effectively zero. Also, that which is considered “the greatest good for the greatest number” changes according to culture, knowledge, time and circumstances, which also fails to overcome the problem of subjectivism. We do not judge the value of scientific experiments according to some Platonic higher realm, or some utilitarian optimisation – they are judged in accordance with the scientific method. I will take the same approach in this book.
