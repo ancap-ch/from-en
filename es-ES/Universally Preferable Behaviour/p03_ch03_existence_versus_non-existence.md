@@ -100,73 +100,73 @@ We know that it is empirically false because *no social contract exists*. Neithe
 
 Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
 
-This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Así pues, pagamos impuestos porque sabemos que si no lo hacemos, la probabilidad de ser agredidos por los representantes del Estado es muy alta. Si no pago mis impuestos, recibiré una carta, luego otra carta, luego una llamada telefónica, luego una citación a la corte - y si no comparezco en la corte, o no pago mis impuestos atrasados y las multas e intereses acumulados, los policías vendrán con armas para llevarme a la cárcel. Si me resisto a esos policías, ellos me dispararán.
 
-To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
+Decir que la fuerza es igual al voluntarismo es completamente ilógico y contradictorio. Decir que la iniciación del uso de la fuerza es completamente igual a la no iniciación del uso de la fuerza es decir que arriba es abajo, el negro es blanco y la verdad es falsedad.
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+Sin la "zona nula", estas ficciones corruptas no pueden sostenerse.
 
-The “null zone” is the lair of the beast we hunt.
+La "zona nula" es la guarida de la bestia que cazamos.
 
-As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
+Como podemos ver, sabemos que personalmente es un error robar; tenemos muy pocos problemas con una prohibición abstracta y lógica del robo, como hemos deducido anteriormente - y aun así, todavía existe esta "zona nula" o universo alternativo donde tales oposiciones pueden ser aceptadas sin ninguna pregunta o preocupación.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+Según el CUP, no está bien que tú y yo robemos. Sin embargo, de alguna manera, en esta "zona nula", no sólo está permitido, sino también es perfectamente *moral*, que otros roben. Nosotros *no debemos* robar - ellos *deben* robar. ¡Es una locura moral!
 
-### Policemen
+### Policías
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+Saquemos a nuestro buen amigo Bob de su pequeño cuarto de pruebas de teoría moral y devolvámoslo a su trabajo original como policía.
 
-Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
+Claramente, cuando Bob se despierta por la mañana, antes de su turno, no puede ir a la casa de su vecino y exigir dinero a punta de pistola, no importa quién le diga que está bien.
 
-When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+Cuando Bob desayuna, tampoco puede atacar a su vecino y llevarse su dinero. En su camino hacia el trabajo -aunque se ha puesto el uniforme- no ha perforado todavía y, por lo tanto, no tiene más derechos que cualquier otro ciudadano. Sin embargo, cuando perfora, como si descendiera una columna de fuego amoral desde los cielos, adquiere la asombrosa habilidad de atacar moralmente a sus vecinos y tomar su dinero.
 
-Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
+Extrañamente, ésta es la única característica suya que se ha invertido por completo. No puede volar, no puede cambiar su forma, no puede digerir cojinetes de bolas o vivir en un infierno; no puede correr mil kilómetros por hora, y tampoco puede atravesar una pared de ladrillo. Es absolutamente, totalmente, y completamente *el mismo hombre que era **antes** de que le dieran un puñetazo* - sin embargo, ahora está sujeto a reglas morales completamente opuestas.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Aún más extraño, si no soy un "policía", pero sigo a Bob al trabajo y hago exactamente lo que él hace -me pongo un disfraz, camino a la comisaría de policía y pongo un trozo de cartón en un reloj-, ¿por qué, si entonces hago exactamente lo que hace Bob, soy total y completamente inmoral, aunque las acciones idénticas de Bob son completa y totalmente *morales*?
 
-What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
+¿Qué sentido tiene esto? ¿Cómo podemos desentrañar este misterio impenetrable?
 
-The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+El simple hecho es que no *puede* ser desenredado, porque es un completo trastorno. El hecho de que esta locura moral del "mundo opuesto" sea completamente irracional -por no hablar de explotación violenta- es tan evidente que debe ser enterrada en una interminable cabalgata de "voluntarismo" mitológico.
 
-We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
+Si nos dice que "queremos" que Bob tome nuestro dinero - lo cual contradice completamente el hecho de que Bob aparezca en nuestra puerta apuntando con un arma cargada a nuestra cara. Con esta lógica, también puedo ir subiendo y bajando por la calle robando dinero a mis vecinos, y luego decir completamente sorprendido cuando me arrestan:
 
-“They *want* me to take their money!”
+"¡Ellos *quieren* que me lleve su dinero!"
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+"Pero entonces, ¿por qué amenazabas con dispararles si no te daban su dinero?"
 
-“Because they *owe* me their money!”
+"¡Porque ellos me *deben* su dinero!"
 
-“I thought you said that they want to give you their money.”
+"Creí que habías dicho que querían darte su dinero."
 
-“No, no – they owe me. It’s really *my* money!”
+"No, no - me lo deben. Es realmente *mi* dinero!"
 
-“On what grounds do they owe you this money?”
+"¿Por qué motivos te deben este dinero?"
 
-“We have a contract!”
+"¡Tenemos un contrato!"
 
-“Can you show me this contract? Have they signed this contract of their own free will?”
+¿Puedes mostrarme este contrato? ¿Han firmado este contrato por voluntad propia?"
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+"¡No es ese tipo de contrato!" Es un contrato - *social*... Y además - según ese contrato social, de todos modos soy dueño de toda la calle- ¡todo el maldito barrio, de hecho! Cualquiera que se niegue a pagarme mi dinero puede mudarse a otra parte - ¡No estoy obligando a nadie!"
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
+¿Y cómo sabes que eres dueño de todo el vecindario? ¿Tienes papeles de propiedad?"
 
-“Yes, of course – have a look here!”
+"Sí, por supuesto. ¡Mira aquí!"
 
-“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+Bueno, esta es sólo una nota escrita a mano que dice que eres dueño de todo el vecindario, y es la misma letra que tu firma. Me temo que vamos a tener que calmarte - esto es sólo un contrato inventado contigo mismo, con el que estás infligiendo a otras personas a punta de pistola."
 
-This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+Esto es tan completamente loco y corrupto como seguir diciéndole a una mujer que estoy violando que ella *quiere* tener sexo conmigo. ¿Puedes imaginarte si yo estuviera en juicio por violación, y hubiera una cinta de video de la mujer rogándome que me detuviera, y yo tenía un cuchillo en su garganta, cómo mi defensa sería recibida si continuaba insistiendo en que ella realmente *quería* tener sexo conmigo?
 
-In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
+En la corte, sería insultado y encarcelado por mi obvia, loca, corrupta y egoísta hipocresía.
 
-Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
+Ah, pero en la "zona nula" del gobierno, la violación es hacer el amor, secuestrar es una invitación, rechazar el robo es un egoísmo malvado, y coerción es bondad.
 
-This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
+Esto es lo que quiero decir cuando digo que este "mundo opuesto *zona nula*" es la barrera más fundamental para la felicidad humana en todo el mundo. Robar está mal para nosotros; robar está mal en lo abstracto - pero robar es de alguna manera "correcto" en este universo alternativo llamado "gobierno"?
 
-### Practicality
+### Practicidad
 
-Once the violence of government is intellectually exposed – and the supposed “voluntarism” of citizens is revealed as a vicious fraud – the argument always comes back that we *need* government to supply us with public goods such as protection, regional defence, roads etc.
+Una vez que la violencia del gobierno se expone intelectualmente - y el supuesto "voluntarismo" de los ciudadanos se revela como un vicioso fraude - el argumento siempre vuelve a ser que *necesitamos* que el gobierno nos suministre bienes públicos como protección, defensa regional, carreteras, etc.
 
-I have written dozens of articles exposing the falsehood of this position, so I will not bother to reiterate those arguments here, since they are not essential to a book on morality, but rather would be more appropriate to a book explaining the principles and practicalities of a voluntary society.[^4]
+He escrito docenas de artículos que exponen la falsedad de esta posición, así que no me molestaré en reiterar esos argumentos aquí, ya que no son esenciales para un libro sobre moralidad, pero serían más apropiados para un libro que explique los principios y los aspectos prácticos de una sociedad voluntaria.[^4]
 
 The “argument from practicality” in no way solves the problem of violence. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
 
