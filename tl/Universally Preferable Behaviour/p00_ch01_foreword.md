@@ -1,62 +1,61 @@
-## Foreword
+## Ang Paunang Salita
+Sa madaming mga engkantong salaysay, may buhay ng isang katakot-takot na hayop na may kamangha-mangha kapangyarihan, isang dragon o isang basilisk, na tyrannises ang mga nakapa-ikot na lupain. Ang mga lokal na tagabaryo ay nanginginig bago dumating ang halimaw na ito; nag-sakripisyo sila ng kanilang hayop, nagbayad ng pera at dugo sa mga pag-asa ng pag-apila sa mga nakamamatay na impulses..
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+Ang karamihan sa mga tao ay nagtabon sa ilalim ng anino ng hayop na ito, na tinatawagan ang kanilang takot na "hinahon," ngunit ilang - lasing marahil sa tapang o panloloko - magpasiya na labanan. Taon-taon, dekada pagkatapos ng dekada, sinusubukan ang daluyon ng inaasahang mga kampeon upang matugunan ang kanilang lakas, kabutihan at tuso laban sa kakila-kilabot na taong mabagsik.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Subukan at mabibigo.
 
-Try – and fail.
+Ang hayop ay laging walang kamatayan, kaya ang mga taganayon ay hindi pweding umasa sa oras upang alisin ang kanilang mga hariharian. Ang hayop ay hindi kailanman makatuwiran, at walang pagnanais na ikakalakal, at kaya walang posibleng negosasyon
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Ang pag-asa ng mga desperadong mga taganayon ay para sa isang tao na mag-papakita na siyang makakatalo sa hayop.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Hindi pweding hindi, ang isang lalaki ay sumusulong na sinaktan ang lahat nang lubos na walang kabuluhan. Siya ay isang matatag na batang lalaki, anak na lalaki ng sapatero, isang aprentis ng panadero - o kung minsan, isang dalubhasa lamang.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Ang aklat na ito ang aking sariling kuwento sa pag-atake sa tulad lamang ng isang hayop.
 
-This book is the story of my personal assault on just such a beast.
+Ang "mabangis na hayop" na ito ay ang paniniwala na imposibleng tukuyin ang isang layuning, makatuwiran, sekular at siyentipikong sistema ng etika. Ang "mabangis na hayop" na ito ay ang ilusyon na ang moralidad ay dapat na mawawala sa di-makatwirang mga kalapastangan sa Diyos at mga pamahalaan, na ipinapatupad para sa mga praktikal lamang na dahilan, ngunit walang kakayahang makatuwirang pagbibigay-katwiran at malinaw na kahulugan. Ang "mabangis na hayop" na ito ay ang pantasiya na ang kabutihan, ang ating pinakamalaking kagalakan, ang ating pinakamalalim na kaligayahan, ay dapat na itatapon ng mga sekswal na nasa hustong gulang, at iniwan sa alabok upang ma-pawed, paraded at pinagsamantalahan ng mga pulitiko at mga pari-at mga magulang. Ang "mabangis na hayop" na ito ay ang pamahiin na, nang walang pag-iipit ng mga magulang, ang pang-aapi ng mga diyos o ang mga baril ng mga pamahalaan, hindi tayo maaaring makatuwiran at mabuti.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Ang hayop na ito ay nagdulot ng maraming dakilang bayani, mula sa Socrates hanggang Plato hanggang Augustine kay Hume sa Kant sa Rand.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Ang gastos sa sangkatauhan ay napakalaki.
 
-The cost to mankind has been enormous.
+Dahil kami ay nanatiling hindi pweding tukuyin ang isang makatuwiran na sistema ng unibersal na moralidad, kami ay pinilit na parusahan ang mga nakakatakot na relihisyosong kwento  sa aming mga anak, o magbigay ng mga baril, mga bilangguan at mga hukbo sa isang maliit na monopolyo ng mga walang kalabanang tagapangasiwa na tumatawag sa kanilang sarili "ang estado.”
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Yamang ang tinatawag nating "etika" ay nananatiling subjective at tanging *kultura*, hindi namin maiiwasan ang pag-asa sa pananakot, takot at karahasan upang ipatupad ang mga panuntunan sa lipunan. Dahil ang etika ay walang nakapangangatwiran na batayan ng pang-agham na pamamaraan, ang "moralidad" ay nananatili sa isang panlipi na digmaan ng mga duguang mythologies, ang bawat pulutong napakikipag-laban sa ngipin at kuko para kontrolin ang katapatan ng tao sa "kabutihan.”
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Hindi kami mabubuhay nang walang moralidad, ngunit hindi namin pweding tukuyin ang moralidad talaga - sa gayon kami ay mananatiling walang hanggan na nahatulan upang mawalan ng laman ang mga buhay na puno ng kalokohan na pagpapaimbabaw, mapang-uyam na pangingibabaw o banal na pag-aalipin.
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Sa intelektwal na paraan, walang mas mataas na pusta sa mundo. Ang aming kabiguan na tukuyin ang layunin at makatuwiran na mga tuntunin sa moral ay nagkakahalaga ng daan-daang milyong buhay ng tao, sa mga digmaan ng mga relihiyon at estado.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Sa maraming paraan, ang mga tulusan ay nakakakuha ng mas mataas pa.
 
-In many ways, the stakes are getting even higher.
+Ang pinataas na daloy ng impormasyon sa Internet ay nagtataas ng mga suspetsiyon ng isang bagong henerasyon na ang tinatawag na "kabutihan" ay wala nang iba pa - o mas mababa - kaysa sa mga makatarungang salaysay sa sarili ng kanilang mga mapagkunwari na matatanda. Ang mga relihiyosong kasinungalingang sinabi ng mga nasa kapangyarihan - at ang pakikipagsabwatan ng mga sumasamba sa kanila - ay mas malinaw na ngayon kaysa sa dati.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+Ang "katotohanan" ay nailantad bilang pagmamanipula; "Kabutihan" bilang kontrol; Ang "katapatan" bilang pang-aalipin, at ang tinatawag na "moralidad" ay inihayag bilang isang katawa-tawa na palabas ng manyika na idinisenyo upang linlangin ang mga mahihina at natatakot na mga tao sa pag-aalipin sa kanilang sarili.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+Ang pagsasakatuparan ay nagbigay ng kapanganakan sa isang bagong henerasyon ng mga nihilist, tulad ng ginawa nito noong ikalabinsiyam na siglo ng Alemanya. Ang mga matinding relativists ay naglaan ng kanilang pinakamalakas na pag-atake para sa sinumang nag-aangkin ng anumang paraan ng katiyakan. Ang modernong-post na henerasyon ay lumaki sa mga kultural na mga bigotries ng kanilang mga kolektibong kasaysayan, ngunit ngayon tingnan * ang lahat ng katotohanan bilang lamang mapanghusga assertion. Tulad ng mga bata na may mata ang mga mata na nahihirapan sa "mapansin" na karunungan, tinitingnan nila ang lahat ng komunikasyon bilang patalastas, ang lahat ay nag-aangkin bilang propaganda, at ang lahat ng moral na payo bilang mapagpaimbabaw na pagnanakaw.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+Dahil wala kaming kasunduan sa isang kohesibo, layunin at makatuwiran na balangkas para sa pag-susuri ng mga panukalang moral, "ang moralidad" ay nananatiling nahimok sa mistisismo, at ang di maiiwasang epekto ng karahasan. Tulad ng bago ang Paliwanag, ang mga relihiyosong sekta ay nakikipagdigma nang walang hanggan para sa kontrol sa mga talim ng aristokrasya, kaya ngayon ay nakikipagkumpitensya sa mga moral na mythologies digmaan para sa kontrol sa estado, at ang lahat ng mga makinarya ng pamimilit nito.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+Sa gayon ang moralidad ay mananatiling, kamag-anak sa modernong agham, tulad ng medyebal na "astronomiya" sa modernong astronomiya - isang larangan ng mga haka-haka na alamat, ipinatupad sa pamamagitan ng pagkukuwento, pagbabanta, pamimilit at pagsasamantala - na aktibong nagtatakda ng anumang tunay na pag-unlad patungo sa katotohanan.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+Ang "mabangis na hayop" na relativistikong etika na ito ay nasa itaas sa amin, nakikipagkita sa amin, pagbibigay-katwiran sa pagbubuwis, pagkabilanggo, censorship at mga digmaan. Inaalipin nito ang mga batang nasa mga paaralan ng estado at mga bangkong Linggo; inaapektuhan nito ang mahihirap sa malambot na gulags ng kapakanan; ito ay nagbubungkal kahit na ang mga hindi pa isinisilang sa mga hindi maayos na balon ng mga pambansang utang.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+Tulad ng aking isinulat sa naunang libro, "Sa Katotohanan: Ang Paniniil ng Illusion," ang pinaka-pangunahing kasinungalingan sa gitna ng mga di-nagpapatunay na mga teorya ng etika ay ang mga teoryang ito ay palaging ipinakikita sa mga bata bilang layunin at hindi mapag-aalinlanganang mga katotohanan, mga bigotries sa kultura. Ang dahilan kung bakit hindi kailangan ng mga siyentipiko ang isang gobyerno o isang Vatican na ang mga siyentipiko ay may layuning pamamaraan upang malutas ang mga di-pagkakasundo: ang pang-agham na pamamaraan. Ang dahilan na ang wika ay hindi nangangailangan ng isang sentral na awtoridad upang gabayan ang ebolusyon nito ay umaasa ito sa "libreng merkado" ng naipon na mga kagustuhan sa indibidwal para sa estilo at utilidad.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+Ang dahilan kung bakit ang modernong moralidad - at moralidad sa buong kasaysayan - ay laging kailangang umasa sa pang-aapi ng mga bata, at pagkatapos ay sa pagbabanta ng mga may sapat na gulang, ay isang manipulative na kasinungalingan na nagtatampok bilang isang banal na katotohanan.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+Ang katotohanan ay kailangan natin ang moralidad; ang kasinungalingan ay ang mga diyos o mga pamahalaan ay maaaring makatwiran sa pagpapasya o makatarungan ipatupad ito.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+Ang aking layunin sa aklat na ito ay upang tukuyin ang isang pamamaraan para sa pagpapatunay ng mga teorya ng moral na layunin, pare-pareho, malinaw, makatwiran, empirikal - at *totoo*.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Lubos kong nalalaman na, sa sandaling ito, malamang na ikaw ay pakiramdam ng isang lumalaking alon ng pag-aalinlangan. Lubos kong naiintindihan na ang mga logro na ang ilang mga tao out doon sa Internet - ang bahay mundo ng crazies - ay sa anumang paraan lutasin ang pilosopiko problema ng edad ay hindi partikular na mataas na - sa katunayan, sila ay kaya malapit sa zero bilang halos hindi makilala mula dito.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+Tahimik, hindi *medyo* zero.
 
-Still, not *quite* zero.
+### Ang Batas ng Grupo
 
-### Ground Rules
-
-Extraordinary claims require extraordinary proof. In taking on this mammoth task – particularly in such a short book – I have set myself some basic ground rules, which are worth going over here.[^1]
+Ang mga pambihirang pag-tanggap ay nangangailangan ng hindi pangkaraniwang patunay. Sa pagkuha sa mammoth na gawain na ito - lalo na sa ganoong maikling libro - naitakda ko ang aking sarili ng ilang mga pangunahing panuntunan sa lupa, na kung saan ay nagkakahalaga ng pagpunta dito.[^1]
 
 1. I fully accept the Humean distinction between “is” and “ought.” Valid moral rules cannot be directly derived from the existence of anything in reality. The fact that human beings in general *prefer* to live, and must successfully interact with reality in order to do so, cannot be the basis for any valid theory of ethics. Some people clearly do not prefer to live, and steadfastly reject reality, so this definition of ethics remains subjective and conditional.
 2. Ethics cannot be objectively defined as “that which is good for man’s survival.” Certain individuals can survive very well by preying on others, so this definition of ethics does not overcome the problem of subjectivism. In biological terms, this would be analogous to describing evolutionary tendencies as “that which is good for *life’s* survival” – this would make no sense. Human society is an ecosystem of competing interests, just as the rainforest is, and what is “good” for one man so often comes at the expense of another.
