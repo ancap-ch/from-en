@@ -85,78 +85,32 @@ Bu görünüm, yukarıda özetlenen aynı hatadan doğmaktadır. Eğer *bütün*
 
 Toplumsal kurumların güç tekelleri olarak büyüyebilmesinin tek yolu *bunun maliyetinin kurbanlar üzerine yüklenmesidir.* Hükümetler, vergilerin bir bölümüyle vergi toplayıcılarına ödeme yaptıkları için sonsuz olarak büyüyebilirler. Köleler, böylece köleleştirme masraflarını ödemek zorunda kalır.
 
-Gönüllü bir toplumda hiç vergi alınamayacak ve bu nedenle tekelci güç elde etmek isteyen herhangi bir grup, ekonomik açıdan uygulanabilir ya da kârlı olmadığı için asla orduya para yatırmak istemeyecek. <sup id="fnref:11"><a href="#fn:11" class="footnote-ref"> 8 </ 0></p> 
+Gönüllü bir toplumda hiç vergi alınamayacak ve bu nedenle tekelci güç elde etmek isteyen herhangi bir grup, ekonomik açıdan uygulanabilir ya da kârlı olmadığı için asla orduya para yatırmak istemeyecek.[^11]
 
-<p>
-  Bize boyun <em>eğdirebilecek</em> bir gruptan koruması için bize <em>zaten</em> boyun eğdiren bir gruba destek vermemizin gerekliliği argümanının akıl ve mantığını anlamak çok zordur. Özel tekelcilikde devletçi argümana benzemektedir; vatandaşlar, özel tekellerden korktuğu için bir hükümet tekeli yaratmalıdır. Böyle bir saçmalığı görmek için kesin bir görüşe gerek yoktur.
-</p>
+Bize boyun *eğdirebilecek* bir gruptan koruması için bize *zaten* boyun eğdiren bir gruba destek vermemizin gerekliliği argümanının akıl ve mantığını anlamak çok zordur. Özel tekelcilikde devletçi argümana benzemektedir; vatandaşlar, özel tekellerden korktuğu için bir hükümet tekeli yaratmalıdır. Böyle bir saçmalığı görmek için kesin bir görüşe gerek yoktur.
 
-<p>
-  Ademi merkeziyetçi ve rekabet gücü olan güçlerin barışı sağladığı görüşünün kanıtı nedir? Diğer bir deyişle, güçler ayrılığının bireysel özgürlük için tek şans olduğu düşüncesini desteklemeyi sürdürebileceğimiz tek bir kanıt var mı?
-</p>
+Ademi merkeziyetçi ve rekabet gücü olan güçlerin barışı sağladığı görüşünün kanıtı nedir? Diğer bir deyişle, güçler ayrılığının bireysel özgürlük için tek şans olduğu düşüncesini desteklemeyi sürdürebileceğimiz tek bir kanıt var mı?
 
-<p>
-  Organize suç pek güzel örnekler sunmaz çünkü çeteler çok sıklıkla hükümet polisinin gücünü yozlaştırıp, manipüle edip kullanarak kendi kurallarını dikte ediyorlar ve bu yüzden bu tarz çetelerin doğa durumunda hareket ettikleri söylenemez. Ayrıca, çeteler, yasal olarak yasaklanmış maddeler veya hizmetler sağlayarak muazzam bir kazanç elde ederler ve devlet politikaları nedeniyle büyük oranda gelişirler.
-</p>
+Organize suç pek güzel örnekler sunmaz çünkü çeteler çok sıklıkla hükümet polisinin gücünü yozlaştırıp, manipüle edip kullanarak kendi kurallarını dikte ediyorlar ve bu yüzden bu tarz çetelerin doğa durumunda hareket ettikleri söylenemez. Ayrıca, çeteler, yasal olarak yasaklanmış maddeler veya hizmetler sağlayarak muazzam bir kazanç elde ederler ve devlet politikaları nedeniyle büyük oranda gelişirler.
 
-<p>
-  Daha yararlı bir örnek ise, hiçbir liderin nükleer silahlara sahip başka bir lidere hiç savaş ilan etmediği gerçeğidir. Geçmişte, liderler kendilerini aynen karşılık bulmadan azade hissettikleri zaman, onlar savaş açarak kendi halklarını öldürmekte daha istekliydiler. Artık liderler kendilerini yok edilebilir gördüklerinden, sadece karşı saldırıda bulunamayacak ülkelerle savaşlar istiyorlar.
-</p>
+Daha yararlı bir örnek ise, hiçbir liderin nükleer silahlara sahip başka bir lidere hiç savaş ilan etmediği gerçeğidir. Geçmişte, liderler kendilerini aynen karşılık bulmadan azade hissettikleri zaman, onlar savaş açarak kendi halklarını öldürmekte daha istekliydiler. Artık liderler kendilerini yok edilebilir gördüklerinden, sadece karşı saldırıda bulunamayacak ülkelerle savaşlar istiyorlar.
 
-<p>
-  Bu böyle adamların neden silahsızlandırılmış ve bağımlı hale getirilmiş bir nüfusa ihtiyaç duydukları hakkında öğretici bir derstir - rekabetçi ve merkezsizleştirilmiş denge sisteminde misillemeden bu kadar korkulmasının <em>kişisel özgürlükleri sürdürmek ve korumakta tek geçerli yol</em> olduğunun güzel bir örneğidir.
-</p>
+Bu böyle adamların neden silahsızlandırılmış ve bağımlı hale getirilmiş bir nüfusa ihtiyaç duydukları hakkında öğretici bir derstir - rekabetçi ve merkezsizleştirilmiş denge sisteminde misillemeden bu kadar korkulmasının *kişisel özgürlükleri sürdürmek ve korumakta tek geçerli yol* olduğunun güzel bir örneğidir.
 
-<p>
-  Hayali şeytanlardan hükümetlerin koruyucu hapisanelerine kaçmak sadece yaşamı gerçekten yaşamaya değer kılan özgürlüklerin yok edilmesini sağlar.
-</p>
+Hayali şeytanlardan hükümetlerin koruyucu hapisanelerine kaçmak sadece yaşamı gerçekten yaşamaya değer kılan özgürlüklerin yok edilmesini sağlar.
 
-<footnotes>
-  <fn name="4">
-    <p>
-      Bakınız <a href="http://wiki.mises.org/wiki/Book:Practical_Anarchy">Uygulanabilir Anarşi</a>.
-    </p>
-  </fn>
+[^4]: Bakınız [Uygulanabilir Anarşi](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
   
-  <fn name="5">
-    <p>
-      Bakınız <em><a href="http://wiki.mises.org/wiki/Federal_Reserve_System">Federal Rezerv</a></em>
-    </p>
-  </fn>
+[^5]: Bakınız *[Federal Rezerv](http://wiki.mises.org/wiki/Federal_Reserve_System)*
   
-  <fn name="6">
-    <p>
-      İyi ve kötünün mükemmel dengesi neredeyse imkansızdır.
-    </p>
-  </fn>
+[^6]: İyi ve kötünün mükemmel dengesi neredeyse imkansızdır.
   
-  <fn name="7">
-    <p>
-      Tabi ki de demokrasilerdeki mevcut durum budur.
-    </p>
-  </fn>
+[^7]: Tabi ki de demokrasilerdeki mevcut durum budur.
   
-  <fn name="8">
-    <p>
-      Plasto' ya bakınız <em>Cumhuriyet</em>.
-    </p>
-  </fn>
+[^8]: Plasto' ya bakınız *Cumhuriyet*.
   
-  <fn name="9">
-    <p>
-      Kötü insanlar her zaman güç tarafından çekildiği için, muhtemelen daha fazlası.
-    </p>
-  </fn>
+[^9]: Kötü insanlar her zaman güç tarafından çekildiği için, muhtemelen daha fazlası.
   
-  <fn name="10">
-    <p>
-      <em>Ebeveynlerin</em> "güç eşittir erdem" kuruntusunu telkin etmedeki rolü üzerine daha detaylı bir tartışma için bak <a href="http://wiki.mises.org/wiki/On_Truth">Doğruluk Üzerine</a>.
-    </p>
-  </fn>
+[^10]: *Ebeveynlerin* "güç eşittir erdem" kuruntusunu telkin etmedeki rolü üzerine daha detaylı bir tartışma için bak [Doğruluk Üzerine](http://wiki.mises.org/wiki/On_Truth).
   
-  <fn name="11">
-    <p>
-      Bakınız <a href="http://wiki.mises.org/wiki/Book:Practical_Anarchy/2">Uygulanabilir Anarşi, Part 2</a>, Bölüm 5: "Savaş, kâr ve devlet".
-    </p>
-  </fn>
-</footnotes>
+[^11]: Bakınız [Uygulanabilir Anarşi, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Bölüm 5: "Savaş, kâr ve devlet".

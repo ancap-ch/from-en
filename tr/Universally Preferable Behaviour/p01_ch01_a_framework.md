@@ -32,7 +32,7 @@ Yinede bu suyun saflığının öznel olduğunu göstermez. Arındırılmış su
 
 #### Doğru ve görüşe bağlı gerçeklik
 
-*truth* konsepti doğal olarak *accuracy</0 barındırır. Bir oku tam isabetle atmaya çalışıyorsam, isabet oranımı hedeften ne kadar saptığım belirler.</p> 
+*truth* konsepti doğal olarak *accuracy* barındırır. Bir oku tam isabetle atmaya çalışıyorsam, isabet oranımı hedeften ne kadar saptığım belirler.
 
 O zaman doğrunun hedefi nedir?
 
