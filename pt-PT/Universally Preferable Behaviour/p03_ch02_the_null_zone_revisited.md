@@ -38,7 +38,7 @@ Se eu disser que dois mais dois é igual a cinco, eu estou a cometer um erro que
 
 ### Próxima paragem: O "universo alternativo"
 
-Em geral, a forma que as pessoas usam para tentar "salvar" as suas crenças antiempíricas e antilógicas é criar um "reino alternativo" ou "universo alternativo" onde as suas declarações contraditórias de alguma forma poderam ser verdadeiras.
+Em geral, a forma que as pessoas usam para tentar "salvar" as suas crenças antiempíricas e antilógicas é criar um "reino alternativo" ou "universo alternativo" onde as suas declarações contraditórias possam de alguma forma ser verdadeiras.
 
 Se eu disser: "Existe um círculo quadrado," Eu estou a afirmar o que é claramente impossível dentro deste universo. Assim, se eu pretendo manter a minha crença, eu devo inventar um outro universo, ou reino "fora" deste universo onde pode existir um círculo quadrado.
 
@@ -52,4 +52,4 @@ Assim, estamos certos de que se *formos* capazes de detectar este outro universo
 
 Por outro lado, verifica-se que nós *nunca* fomos capazes de detectar este outro universo e por isso ele continua a ser uma entidade completamente teórica, com nenhuma evidência ou racionalidade a apoiá-la, logo isso é simplesmente um saco conceitual, em que é "conveniente" colocar as coisas que obviamente não são verdade.
 
-[^1]: Isto inevitavelmente acaba com comparações com aqueles que disseram que a física Einsteiniana era impossível, que o mundo não poderia ser redondo e assim por diante. Incerteza no *conteúdo* – por exemplo, a teoria – de alguma forma deve ser equacionada com a incerteza na *metodologia*, ou seja, a razão e a evidência. O fato de que um teorema matemático pode ser refutado não refuta os princípios da matemática, mas sim confirma-los.
+[^1]: Isto inevitavelmente acaba com comparações com aqueles que disseram que a física Einsteiniana era impossível, que o mundo não poderia ser redondo e assim por diante. Incerteza no *conteúdo* – por exemplo, a teoria – de alguma forma deve ser equacionada com a incerteza na *metodologia*, ou seja, a razão e a evidência. O fato de que um teorema matemático pode ser refutado não refuta os princípios da matemática, mas sim de os confirmar.
