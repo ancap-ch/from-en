@@ -1,109 +1,109 @@
-## Preferences
+## Preferencias
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Ahora que entendemos la naturaleza de los argumentos contraproducentes, podemos pasar a la cuestión de las preferencias.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Las preferencias son fundamentales para cualquier metodología que pretenda definir el valor de verdad de las proposiciones. El método científico, por ejemplo, se define en gran medida por las preferencias innatas de coherencia lógica y verificación empírica. Para la ciencia, la premisa es: *si* deseas determinar una verdad válida sobre el comportamiento de la materia y la energía, es *preferible* utilizar el método científico.
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+En este sentido, "preferible" no significa "mejor", sino "requerido". *Si* deseas vivir, es *universalmente preferible* que abstanerse de tomar arsénico. *Si* deseas determinar verdades válidas sobre la realidad, es *universalmente preferible* que sus teorías sean tanto internamente consistentes como empíricamente verificables. "Universalmente preferible", entonces, se traduce como "objetivamente requerido", pero retendremos la palabra "preferible" para diferenciar entre absolutos humanos opcionales y absolutos físicos no opcionales, como la gravedad.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+De manera similar, si las teorías éticas pueden ser válidas, entonces deben *al menos* ser tanto interna como externamente consistentes. En otras palabras, una teoría ética que se contradice a sí misma no puede ser válida, y una teoría ética que contradiga la evidencia empírica y las preferencias casi universales tampoco puede ser válida.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Así, en ética, al igual que en ciencias, matemáticas, ingeniería y todas las demás disciplinas que comparan teorías con la realidad, *las teorías válidas deben ser tanto lógicamente consistentes como empíricamente verificables*.
 
-### Preferences And Existence
+### Preferencias y Existencia
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+Si digo "me gusta el helado", solo una palabra permanece ambigua en esa oración. Claramente, "yo" existo, ya que estoy expresando una preferencia personal. Igualmente claro, "helado" también existe en la realidad. Sin embargo, la palabra "me gusta" es más problemática.
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Las preferencias no existen objetivamente dentro de la realidad. Si fueras obsesivamente curioso, quizás podrías seguirme y grabar cada vez que comiera helado, lo que probablemente proporcionaría una buena base empírica para establecer mi preferencia por él. Sin embargo, podría existir la posibilidad de que yo sea en realidad un masoquista y no me guste mucho el helado, y prefiera torturarme con su sabor desagradable, y luego confundirlo diciendo que me gusta.
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+Podemos encontrar *evidencia* para las preferencias; no podemos encontrar la preferencia *en sí misma* en realidad. La preferencia existe como una *relación* entre la conciencia y la materia, al igual que la gravedad existe como una relación entre los cuerpos de la masa.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Dejando de lado las preguntas desafiantes del libre albedrío versus el determinismo, es razonable suponer que lo que sea que una persona esté haciendo en el presente es lo que "prefiere" hacer. Si me levanto y voy a trabajar, entonces obviamente *prefiero* hacer eso, a diferencia de todas las otras alternativas. Incluso si odio mi trabajo, claramente lo odio *menos* que, por ejemplo, estar sin un centavo.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+Dado que los seres humanos pueden realizar una variedad casi infinita de acciones, cualquier cosa que haga una persona en el momento se elige entre todas las demás opciones posibles. Elijo escribir este libro en lugar de, digamos, aprender a bailar tango.
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+Cuando aplicamos este hecho simple a argumentos éticos, encontramos algunos resultados muy interesantes.
 
-### Preferences And Arguments
+### Preferencias y Argumentos
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Recordando nuestro análisis anterior de argumentos contraproducentes, podemos entender fácilmente la naturaleza contradictoria de la afirmación: "las preferencias no existen". Dado que cada acción humana, incluidas las declaraciones filosóficas, se elige con preferencia a cualquier otra posible acción, argumentando que las preferencias no existen requiere una *preferencia* para argumentar que las preferencias no existen, lo cual es una afirmación autocontradictoria. Argumentar que las preferencias no existen es exactamente lo mismo que argumentar que el lenguaje no existe. Es un argumento totalmente autodestructivo.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+Dado que es imposible actuar sin expresar una preferencia, implícita o explícitamente, cualquiera que actúe acepta la premisa de que existen preferencias. Por lo tanto, es imposible debatir la existencia de preferencias sin aceptar la existencia de preferencias.
 
-### Preferences And Universality
+### Preferencias y Universalidad
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+La siguiente cuestión se convierte en: ¿las preferencias son puramente subjetivas, o pueden ser universales?
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+Claramente, algunas preferencias son subjetivas. Los gustos musicales, los pasatiempos personales, la literatura favorita, etc. son preferencias subjetivas y personales.
 
-The challenge arises when we try to define some preferences as *objective*.
+El desafío surge cuando tratamos de definir algunas preferencias como *objetivo*.
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+La proposición que tenemos ante nosotros es: *¿pueden algunas preferencias ser objetivas, es decir, universales?*
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+Cuando digo que algunas preferencias pueden ser objetivas, no me refiero a que todas las personas sigan estas preferencias en todo momento. Si tuviera que argumentar que *la respiración* es una preferencia objetiva, podría ser fácilmente contrarrestado por el ejemplo de aquellos que se suicidan ahorcándose. Si tuviera que argumentar que comer es una preferencia objetiva, mi argumento podría ser contrarrestado con ejemplos de huelgas de hambre y anorexia.
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
+Por lo tanto, cuando hablo de preferencias universales, estoy hablando de lo que las personas *deberían* preferir, no de lo que siempre *hacen* prefieren. Para usar una analogía científica, para comprender verdaderamente el universo, las personas *deberían* usar el método científico; esto no significa que siempre lo hacen, ya que es evidente que miles de millones de personas consultan los antiguos cuentos de hadas en lugar de la ciencia moderna para obtener "respuestas". No es forma de alcanzar la verdad sobre el universo sin ciencia, pero las personas son perfectamente libres para redefinir la "verdad" como "error" y contentarse con tonterías místicas.
 
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+Del mismo modo, si un hombre quiere curar una infección, *debe* tomar antibióticos en lugar de realizar una danza de lluvia azteca. La preferencia por tomar antibióticos en lugar de hacer una danza de lluvia es universal, ya que el baile no puede curar las infecciones. Por lo tanto, aunque hay un loco ocasional que tratará de curarse a sí mismo mediante el baile, todavía es *universalmente preferible* que si un hombre quiere curarse a sí mismo, debe tomar antibióticos.
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+En otras palabras, si quieres llegar a la cima de una montaña, desearlo nunca funcionará. Si quieres conocer los orígenes del universo, la oración nunca dará una respuesta. La gente aún desea y ora, pero eso no hace que desear o orar sea más efectivo. Con esto en mente, pasemos a la pregunta de si las preferencias universales pueden ser válidas o no.
 
-### Arguments And Universality
+### Argumentos y Universalidad
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+Si elijo debatir, he aceptado implícitamente una amplia variedad de premisas que vale la pena gastar algún tiempo para descomprimir aquí.
 
-#### Premise 1: We Both Exist
+#### Premisa 1: Ambos existimos
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+Si elijo debatir contigo, entonces necesariamente debo aceptar que ambos existimos. Si crees que existo, pero no lo haces, entonces el debate no tiene sentido, y sería la acción de un loco. Si comenzara a discutir con mi reflejo en un espejo, debería estar sedado, no debatido.
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+#### Premisa 2: Los Sentidos tienen la Capacidad de Precisión
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Dado que los seres humanos no pueden comunicarse psíquicamente, todos los debates implican necesariamente la evidencia de los sentidos. La escritura presupone la vista; hablar requiere audición; Braille requiere tacto. Por lo tanto, cualquier proposición que dependa de la invalidez de los sentidos automáticamente se autodestruye.
 
-#### Premise 3: Language Has The Capacity For Meaning
+#### Premisa 3: El Lenguaje Tiene la Capacidad de Significado
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+Al igual que en la Premisa Dos, dado que todos los argumentos requieren lenguaje, cualquier proposición que se basa en la premisa de que el lenguaje no tiene sentido se invalida de inmediato. Usar el lenguaje para argumentar que el lenguaje no tiene ningún significado es como usar un servicio de mensajería para enviar un mensaje argumentando que los correos nunca entregan mensajes.
 
-#### Premise 4: Correction Requires Universal Preferences
+#### Premisa 4: La Corrección Requiere Preferencias Universales
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+Si me corrige un error que he cometido, está aceptando implícitamente el hecho de que sería *mejor* para mí corregir mi error. Tu preferencia por mí para corregir mi error no es subjetiva, sino objetiva y universal.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+No me dices: "Deberías cambiar tu opinión por la mía porque yo preferiría", sino más bien: "Debes corregir tu opinión porque es objetivamente incorrecta". Mi error no surge simplemente por estar en desacuerdo contigo, pero como resultado de mi desviación de un estándar objetivo de la verdad. Su argumento de que debo corregir mi falsa opinión se basa en el valor objetivo de la verdad, es decir, que la verdad es *universalmente preferible* al error, y que la verdad es *universalmente objetiva*.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### Premisa 5: Existe una Metodología Objetiva para Separar la Verdad de la Falsedad
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Si no estás de acuerdo conmigo, pero te digo que debes estar de acuerdo conmigo porque siempre tengo la razón, es poco probable que esté satisfecho con el rigor de mi argumento. Si proporcionó buenas razones sobre por qué estaba equivocado, pero yo seguía repitiendo que tenía razón porque *siempre* estoy en lo cierto, nuestra interacción difícilmente podría ser categorizada como un debate.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+En el momento en que proporciono algún tipo de criterio objetivo para determinar la verdad y la falsedad, estoy aceptando que la verdad es más que una cuestión de opinión.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+Esto no significa necesariamente que mis criterios objetivos sean *lógicos*. Podría remitirte a un texto religioso, por ejemplo. Sin embargo, incluso si lo hago, todavía estoy aceptando que la verdad es algo a lo que se llega independientemente de la simple afirmación personal: que existe una metodología objetiva para separar la verdad de la falsedad.
 
-#### Premise 6: Truth Is Better Than Falsehood
+#### Premisa 6: La Verdad es Mejor que la Falsedad
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+Si te digo que el mundo es plano, y respondes que el mundo no es plano, sino redondo, entonces estás aceptando implícitamente el axioma de que la verdad y la falsedad existen objetivamente, y que la verdad es mejor que la falsedad.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Si te digo que me gusta el helado de chocolate y me dices que te gusta la vainilla, es imposible "probar" que la vainilla es objetivamente mejor que el chocolate. En el momento en que me corriges con referencia a *hechos* objetivos, estás aceptando que existen hechos objetivos, y que la verdad objetiva es *universalmente preferible* al error subjetivo.
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### Premisa 7: El Debate Pacífico es la Mejor Forma de Resolver Disputas
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+Si te digo que el mundo es plano, y sacas un arma y me disparas, esto apenas sería un ejemplo de debate productivo. Es cierto, nuestro desacuerdo habría sido "resuelto", pero porque solo uno de nosotros quedó al final.
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Si me dijiste de antemano que abordarías cualquier desacuerdo disparándome, no es probable que entable un debate contigo. Por lo tanto, es claro que cualquier debate se basa en la premisa implícita de que la evidencia, la razón, la verdad y la objetividad son los métodos *universalmente preferibles* para resolver disputas entre individuos. Sería completamente ilógico argumentar que las diferencias de opinión deberían resolverse mediante el uso de la violencia; el único argumento consistente para el *valor* de la violencia es el uso de la violencia. [^ 4]
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+En esencia, entonces, el debate requiere una metodología objetiva, a través de un lenguaje significativo, en la búsqueda de la verdad universal, que es objetivamente preferible al error personal.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+Esta preferencia por la verdad universal no es una preferencia de *grado*, sino de *tipo*. Un atajo que reduce su tiempo de conducción a la mitad es dos veces mejor que una ruta más larga, pero ambos son *infinitamente preferibles* para conducir en una dirección completamente incorrecta.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+De la misma manera, la verdad no es solo "mejor" que el error: es *infinitamente preferible* o requerido.
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### Premisa 8: Los Individuos son Responsables de sus Acciones
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+Si argumento que los seres humanos no son responsables de sus acciones, estoy atrapado en una paradoja, que es la cuestión de *si soy o no responsable de mi argumento, y también de si usted es responsable de su respuesta*.
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+Si mi argumento de que los seres humanos *no* son responsables de sus acciones es cierto, entonces no soy responsable de mi argumento, y usted no es responsable de su respuesta. Sin embargo, si creo que usted no es responsable de su respuesta, tendría poco sentido presentar una argumentación, sería exactamente lo mismo que discutir con un televisor. [^ 5]
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+Por lo tanto, fundamentalmente, si le digo que usted no es responsable de sus acciones, le estoy diciendo que es universalmente preferible que crea que la preferencia es imposible, ya que si no tiene control sobre sus acciones, no puede elegir una opción preferida. estado, es decir, verdad sobre falsedad. Por lo tanto, este argumento, al igual que los argumentos anteriores, se autodestruye.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^ 4]: Será útil tener presente esta premisa en particular, ya que será muy importante más adelante.
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^ 5]: La cuestión de la responsabilidad está, por supuesto, estrechamente relacionada con la cuestión del libre albedrío versus el determinismo, que será el tema de otro libro.
