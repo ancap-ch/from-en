@@ -23,7 +23,6 @@ No tenemos evidencia directa, empírica oracional sobre la existencia de Dios. L
 Las creencias pueden ser ciertas, faltas o *anti-verdades*. Si es una creencia verdaderaque el decierto del Sahara está en el Norte de Africa; es una creencia falta que el Sahara está en Escocia; es una creencia *anti-verdad* que el Sahara este en donde sea que yo quiera que este, y existe cuando sea que yo desee que existe. La primera creencia es cierta, la segunda es falta - y la tercera es una aserción fanatizada que denota el concepto mismo de la prueba.   
 Que podemos decir:
 
-
 1. Proposición X es verdad porque es racional.
 2. Proposición Y es falsa porque es irracional.
 3. Proposición Z es verdad porque yo *quiero* que sea verdad.
@@ -50,8 +49,7 @@ Si, en algún momento, resulta ser que nosotros *somos* capaces de interactuar c
 
 Podemos entonces estar seguros de que si *somos* capaces de detectar este otro universo, la evidencia que recojamos de ninguna manera dará soporte a la existencia de argumentos contradictorios. Círculos cuadrados, dioses y cualquier otro concepto contradictorio no puede esconderse allí, así como tampoco puede esconderse en los sueños húmedos de un duende. 
 
+
 Por otra parte, si resulta ser que nosotros *nunca* llegamos a ser capaces de detectar este otro universo, y se mantiene como una entidad completamente teórica, sin ninguna evidencia o racionalidad que le de soporte, entonces esto es simplemente un bolso conceptual en donde es "conveniente" poner cosas que obviamente no son verdad. 
 
 [^1]: Esto inevitablemente termina con comparaciones para aquellos que decían que las físicas de Einstein eran imposibles, que el mundo no podía ser redondo, y otras más similares. La incertidumbre en el *contenido* - por ejemplo en la teoría - es de alguna manera supuestamente equivalente a la incertidumbre en la *metodología* por ejemplo la razón y la evidencia. El hecho que un teorema matemático pueda ser refutado no refuta los principios de las matemáticas, sino que en cambio, los confirma. 
-
-
