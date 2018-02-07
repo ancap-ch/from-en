@@ -1,6 +1,6 @@
 ## Existencia Versus No Existencia
 
-Definimos "no-existencia" como aquello que no posee masa o energía, o que muestra los efectos de la masa o energía, tales como las relaciones detectables como la gravedad.
+Definimos "no existencia" como aquello que no posee masa o energía, o que muestra los efectos de la masa o energía, tales como las relaciones detectables como la gravedad.
 
 Dios no posee masa o energía, ni exhibe los efectos de la masa o energía - de hecho, Dios no es detectable o verificable de ninguna manera, estado o forma, ya sea a través de los sentidos, o a través de la racionalidad.
 
