@@ -247,61 +247,61 @@ At the beginning of this section, I mentioned that people generally make *two* e
 
 This view arises from the same error outlined above. If *all* social institutions are constantly trying to grow in power and enforce their wills on others, then by that very argument a centralised government cannot be allowed to exist. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
 
-The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Governments grow endlessly because they can pay tax collectors with a portion of the taxes they collect. The slaves are thus forced to pay for the costs of their enslavement.
+La única manera de que las instituciones sociales puedan convertirse en violentos monopolios es *descargar los costos de la aplicación de la ley en sus víctimas*. Los gobiernos crecen interminablemente porque pueden pagar a los recaudadores de impuestos con una parte de los impuestos que recaudan. Los esclavos se ven así obligados a pagar los costes de su esclavitud.
 
-In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
+En una sociedad voluntaria, no habría impuestos y, por lo tanto, cualquier grupo que desee obtener un poder monopolístico tendría que financiar su propio ejército, lo que nunca sería económicamente viable ni rentable.[^11]
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
+Es muy difícil entender la lógica y la inteligencia del argumento de que, para protegernos de un grupo que *podría* dominarnos, deberíamos apoyar a un grupo que *ya* nos ha dominado. Es similar al argumento estatista sobre los monopolios privados - que los ciudadanos deben crear un monopolio gubernamental porque temen a los monopolios privados. No se necesita una visión aguda para ver a través de tales tonterías.
 
-What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+¿Cuál es la evidencia de que las potencias descentralizadas y en competencia promueven la paz? En otras palabras, ¿hay algún hecho que nos sirva de base para apoyar la idea de que un equilibrio de poder es la única oportunidad que tiene el individuo para la libertad?
 
-Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
+El crimen organizado no ofrece muchos buenos ejemplos, ya que las pandillas regularmente corrompen, manipulan y usan el poder de la policía gubernamental para imponer su gobierno, por lo que no se puede decir que estas pandillas estén operando en un estado de naturaleza. Además, las bandas criminales se benefician enormemente suministrando sustancias o servicios prohibidos legalmente y, por lo tanto, también prosperan debido en gran medida a las políticas estatales.
 
-A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+Un ejemplo más útil es el hecho de que ningún líder ha declarado jamás la guerra a otro líder que posea armas nucleares. En el pasado, cuando los líderes se sentían inmunes a las represalias personales, estaban más que dispuestos a matar a sus propias poblaciones haciendo la guerra. Ahora que ellos mismos están siendo aniquilados, sólo están dispuestos a atacar a los países que no pueden defenderse.
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+Esta es una lección instructiva sobre por qué tales hombres requieren poblaciones desarmadas y dependientes - y un buen ejemplo de cómo el miedo a las represalias inherente a un sistema equilibrado de poderes descentralizados y en competencia *es el único método probado de asegurar y mantener la libertad personal*.
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+Huir de los demonios imaginarios a las prisiones protectoras de los gobiernos sólo asegura la destrucción de las mismas libertades que hacen que valga la pena vivir la vida.
 
-### Governments And Religion
+### Gobiernos Y Religión
 
-The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
+La idea de que nacer crea un contrato con una agencia ficticia, que en términos prácticos te convierte en un cuasi esclavo de individuos específicos, es común tanto a la religión como al Estado - y otra agencia mucho más personal, de la que hablo en mi primer libro "Sobre La Verdad: La Tiranía De La Ilusión".
 
-Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Siempre que un sacerdote dice:"Obedece a Dios", lo que está diciendo es:"Obedéceme a mí". Puesto que Dios no existe, cualquier mandamiento que el sacerdote dice que viene de Dios, en realidad viene del sacerdote. Dios "es sólo la entidad ficticia utilizada para intimidarte conceptualmente con el fin de obtener tu muy práctica sumisión en el mundo real, a individuos reales, en términos de entregar voluntariamente dinero, tiempo y recursos.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+Es mucho más eficaz para los explotadores hacer que sus esclavos consideren la esclavitud como una virtud, ya que reduce enormemente los costos de controlarlos. Si puedo convencerte de que es malo evitar servirme, y virtuoso ser mi esclavo, entonces no necesito contratar a tantos matones para intimidar, controlar y robarte.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+Las mitologías religiosas y estatales, por lo tanto, son ficciones que reducen enormemente los costos de controlar las poblaciones; son el lubricante y el combustible para la espantosa maquinaria de la violencia institucionalizada.
 
-Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+En todo el mundo, los gobernantes son un porcentaje muy pequeño de la población. ¿Cómo puede ser posible que entre uno y dos por ciento de la gente controle a los demás? Hay un cierto monopolio sobre los armamentos, sin duda, pero ese monopolio es relativamente fácil de contrarrestar, ya que la mayoría de los gobiernos hacen una fortuna vendiendo armas en todo el mundo.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+La triste realidad es que las personas en conjunto están esclavizadas a entidades ficticias como naciones, dioses, culturas y gobiernos.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+Nuestro orgullo personal se rebelaría instintivamente contra una esclavitud inmediata e impuesta a otro ser humano - sin embargo, parece que casi nos deleitamos en la esclavitud a *la mitología*.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+Nuestro deseo de ser buenos - junto con la emoción de la virtud que obtenemos al obedecer las mitologías morales - nos ha llevado a alinearnos para entregar voluntariamente nuestros recursos a aquellos que dicen representar estas mitologías.
 
-One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+Una razón central por la que sabemos que los gobiernos y los dioses son innecesarios es que ellos son tan efectivos. *Sabemos que la mayoría de las personas desean desesperadamente ser buenas porque son fácilmente controladas por teorías morales*.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+La lógica de la obediencia a la mitología es claramente insensata. Si un sacerdote me dice que tengo que obedecer a "Dios", esto es exactamente lo mismo que él diciéndome que debo obedecer a una entidad llamada "Nog." Incluso si acepto que esta entidad ficticia es digna de la obediencia eterna, esto no me obligaría de ninguna manera a obedecer al *sacerdote*. Si yo te digo "obedece a tu corazón", ¿puedo entonces razonablemente decir:"y *Yo solo* hablo por tu corazón"?
 
-Of course not.
+Por supuesto que no.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+Cuando despojamos a la mitología y la ficción de nuestras "interacciones" con nuestros gobernantes, lo que emerge es una realidad sombría, cruda y asesinamente explotadora.
 
-Let’s take as an example a very real and present danger: taxation.
+Tomemos como ejemplo un peligro muy real y presente: los impuestos.
 
-#### Taxation
+#### Tributación
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Me han dicho que, en virtud de elegir vivir en Canadá, le debo al "gobierno" más del cincuenta por ciento de mis ingresos.
 
-Stripped of mythology, what does this really translate to?
+Desnudo de mitología, ¿a qué se traduce esto realmente?
 
-In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+En realidad, esperaré hasta el fin del tiempo para que "el gobierno" venga a recoger su dinero. Esperar que "el gobierno" pase por aquí es como querer fechar el concepto de "feminidad". Puedo intentar pagar mi cena con la palabra "dinero".
 
-In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+En realidad, cuando se me dice que debo pagar mis impuestos al "gobierno", lo que esto significa en realidad es que debo escribir un cheque para transferir mi dinero a una cuenta bancaria en particular, a la que luego acceden determinadas personas. Estos individuos entonces tienen el derecho de tomar ese dinero, y gastarlo como les parezca apropiado - estos individuos en particular tienen así un control total sobre mi dinero.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+En ningún momento ninguna entidad como "el gobierno" levanta un dedo, hace un movimiento, abre una cuenta bancaria, o gasta un centavo. Imaginar que un concepto llamado "el gobierno" tiene la capacidad de tomar o gastar tu dinero es exactamente lo mismo que esperar que "Dios" venga a buscarte y te lleve a la iglesia.
 
 Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
 
