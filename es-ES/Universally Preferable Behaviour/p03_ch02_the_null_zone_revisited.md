@@ -50,7 +50,6 @@ Si, en algún momento, resulta ser que nosotros *somos* capaces de interactuar c
 
 Podemos entonces estar seguros de que si *somos* capaces de detectar este otro universo, la evidencia que recojamos de ninguna manera dará soporte a la existencia de argumentos contradictorios. Círculos cuadrados, dioses y cualquier otro concepto contradictorio no puede esconderse allí, así como tampoco puede esconderse en los sueños húmedos de un duende. 
 
-
 Por otra parte, si resulta ser que nosotros *nunca* llegamos a ser capaces de detectar este otro universo, y se mantiene como una entidad completamente teórica, sin ninguna evidencia o racionalidad que le de soporte, entonces esto es simplemente un bolso conceptual en donde es "conveniente" poner cosas que obviamente no son verdad. 
 
 [^1]: Esto inevitablemente termina con comparaciones para aquellos que decían que las físicas de Einstein eran imposibles, que el mundo no podía ser redondo, y otras más similares. La incertidumbre en el *contenido* - por ejemplo en la teoría - es de alguna manera supuestamente equivalente a la incertidumbre en la *metodología* por ejemplo la razón y la evidencia. El hecho que un teorema matemático pueda ser refutado no refuta los principios de las matemáticas, sino que en cambio, los confirma. 
