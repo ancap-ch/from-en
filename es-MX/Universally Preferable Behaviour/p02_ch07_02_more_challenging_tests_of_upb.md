@@ -9,11 +9,15 @@ Sin embargo, parece difícil para nosotros llamar razonablemente a esto una verd
 Primero que todo, “malo” engloba acciones que pueden ser prevenidos a través del uso de la fuerza. La violación es "mala", y por lo tanto puedo usar la fuerza para defenderme en contra de alguien y su intento de violación en contra mía.
 
 ¿Puedo justamente dispararle a alguien que come un pedazo de pescado?
+
 Parecería tonto discutir que puedo - pero ¿por qué?
+
 Existen algunos limites objetivos a la universalidad de esta doctrina. Por ejemplo, algunas personas pueden no tener acceso al pescado –  digamos que pueden vivir en un desierto – mientras que otros viven junto a un lago lleno de peces, y encuentren difícil o imposible sobrevivir sin comérselos, Sin embargo, eso puede ser suficiente, debido a que ya hemos aceptado el hecho de la falta de habilidad del eunuco para violar, no invalida la proposición moral “ es malo violar”.
+
 No, el “arenque rojo”, en la proposición moral “es malo comer pescado” es la palabra “*pescado*.”
 
 Un científico no puede válidamente decir que su teoría de gravedad solo aplica a las rocas rosadas. Debido a que su teoría que involucre la gravedad debe aplicar a *todas* las entidades que tengan masa.
+
 Similarmente, en el ejemplo anterior, UPB acepta solo el *acto* de comer, y rechazar *aquello* que está siendo comido, debido a que lo que está siendo comido no es una *acción*, pero más bien es aquello sobre lo que se está realizando una acción.
 
 De la misma manera, un especialista en ética no puede válidamente poner delante de la proposición: “Es malo violar a los *ancianos*”.  “Violar” es el comportamiento; si la víctima es anciana o no es irrelevante a la proposición moral, debido a que mientras que la víctima sea humana, el requerimiento de universalidad permanece constante. “No has de robar” es una proposición moral valida de acuerdo a las UPB – “Tu no robarás *nabos*” no es válido, por la simple razón de que robar está relacionada al concepto de propiedad – y los nabos, como un subconjunto de propiedad, no pueden ser delineados racionalmente de todas las otras formas de propiedad y asignárseles una regla moral propiedad.
@@ -45,9 +49,9 @@ Sí, sin embargo, es malo matar, nuevamente enfrentamos el problema del “mal i
 Que si decimos: “es malo matar personas” – eso haría a un tiburón que come hombres malvado?
 
 No – una vez más, debido a que los tiburones no tienen la capacidad de evitar matar a las personas, ellos no pueden ser responsables por tales acciones, no mas de lo que un deslizamiento de tierra puede ser llevado a la corte si mata a un hombre.
-
+-
 La UPB permite que existan excepciones basadas en material universal y objetivo ó en diferencias biológicas, tal como otras ciencias lo hacen. La teoría científica de que los gases se expanden cuando se calientan, aplica por supuesto, solo a los gases. Yo no puedo invalidar la teoría al probar que no aplica para, digamos, el plástico. 
-
+-
 De la misma manera, la moralidad solamente aplica a la conciencia racional, debido al requerimiento de la evitabilidad. Si yo intento la teoría moral a un caracol, a un árbol, a una roca, o al concepto de “números”, estoy intentando igualar la conciencia racional con entidades que pueden no ser ni racionales ni consientes, lo cual es una contradicción lógica. Podría por lo tanto decir que el Teorema del Ángulo Opuesto en geometría es invalido porque no se aplica a un circulo o a una nube. El teorema solo aplica a líneas que se interceptan – intentar aplicarlo en otras situaciones es el equivalente conceptual de intentar pintar el aire.
 
 En otras palabras, la mala aplicación no es un método para refutar
