@@ -21,8 +21,8 @@ No tenemos evidencia directa, empírica oracional sobre la existencia de Dios. L
 ### Intolerancia 
 
 Las creencias pueden ser ciertas, faltas o *anti-verdades*. Si es una creencia verdaderaque el decierto del Sahara está en el Norte de Africa; es una creencia falta que el Sahara está en Escocia; es una creencia *anti-verdad* que el Sahara este en donde sea que yo quiera que este, y existe cuando sea que yo desee que existe. La primera creencia es cierta, la segunda es falta - y la tercera es una aserción fanatizada que denota el concepto mismo de la prueba.   
-Que podemos decir:
 
+Podemos decir:
 1. Proposición X es verdad porque es racional.
 2. Proposición Y es falsa porque es irracional.
 3. Proposición Z es verdad porque yo *quiero* que sea verdad.
