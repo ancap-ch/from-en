@@ -54,80 +54,80 @@ Basit gerçek ise "rahip" ve "kralların" - eskiden - ve buguün - sadece insan 
 
 İnsanın doğasını ve gerçeğini anlamak için büyük adımlar attık ama üzücü gerçek *morality* diyarı aslında "sıfır bölgeisnde" kaybolmuştur - "vasat" doğruların yıkıcı iluzyonlarında
 
-### ''Orta Gerçekler''
+### ''Ara Gerçekler''
 
 "sıfır noktasında" karşıt prensipleri ele alalım - duyu algı ve süreklilik arasında - "vasat doğrular"
 
-Bu ''orta gerçekler'' en tehlikeli ilizyonlardır, çünkü doğrunun *görünüşünü* bahşederken gerçekte doğruya *saldırır*.
+Bu ''ara gerçekler'' en tehlikeli illüzyonlardır, çünkü doğrunun *görünüşünü* bahşederken gerçekte doğruya *saldırır*.
 
-Bu ilüzyonları geçerek biz gerçek doğruyu bulduk, ''orta doğrular'' aslında bizim gerceği elde etmemizi engelliyor. Onlar fantazinin, yağmalamanın ve sömürmenin son defans çizgisidir.
+Bu illüzyonları geçerek biz gerçek doğruyu bulduk, ''orta doğrular'' aslında bizim gerçeği elde etmemizi engelliyor. Onlar fantazinin, yağmalamanın ve sömürmenin son defans çizgisidir.
 
-Onlar sadece mantıksız değil, hemde *anti* akılcıdır, ''orta gerçekler'' hep çok esnektir - bu güce hizmet ettikleri sürecede böyle olacaktır. Örneğin Hristiyanlık Roma İmparatorluğunun son dönemlerinde artan faşistliğin bağtıl inançları baltalamasıyla ortaya çıkmıştır. ''Eski tanrılarınızı unutun, artık yepyeni bir Tanrımız var ve eskilerden çok daha iyi!''
+Onlar sadece mantıksız değil, hemde *anti* akılcıdır, ''orta gerçekler'' hep çok esnektir - bu güce hizmet ettikleri sürece de böyle olacaktır. Örneğin Hristiyanlık Roma İmparatorluğunun son dönemlerinde artan faşistliğin batıl inançları baltalamasıyla ortaya çıkmıştır. ''Eski tanrılarınızı unutun, artık yepyeni bir Tanrımız var ve eskilerden çok daha iyi!''
 
 ''Orta gerçekler'' hep gerçeğin görüntüsünü alır, bir yalanı takip eder. ''Zeus bir pagan batıl inancıdır'' doğru bir tezdir, hristiyanlar tarafından oluşturulan. Takip ettiği yalan ise: ''Yahweh bir pagan batıl inancı değildir, o gerçek ve yaşayan bir Tanrıdır.''
 
-Bunu işlevsiz bir arkadaşına yardımcı olmaya çalışan bizlerden kişilelleştirip örnek olarak gösterebilriz. ''Son erkek arkadaşım tam bir pislikti'' dedi kiz, sende şevkle ona katıldın. ''Yeni erkek arkadaşım gerçekten *harika*'' diye ekledi kız, sende gözlerini devirmemeye çalıştın.
+Bunu işlevsiz bir arkadaşına yardımcı olmaya çalışan bizlerden kişiselleştirip örnek olarak gösterebiliriz. ''Son erkek arkadaşım tam bir pislikti'' dedi kız, sende şevkle ona katıldın. ''Yeni erkek arkadaşım gerçekten *harika*'' diye ekledi kız, sende gözlerini devirmemeye çalıştın.
 
-Bir ilizyonu başka biriyle değiştirmemek çok zordur.
+Bir illüzyonu başka biriyle değiştirmemek çok zordur.
 
 ''İngiliz devleti tam bir gaddar'' diye ağlıyordu 18. yüzyıldaki Amerikalı devrimciler - ve, sonra ingiliz askerlini tahliye ettikten sonra, kendi devletlerini ayarlayıp kendi vatandaşlarına saldırmaya başladılar.
 
 ''Aristokrasi haksız bir iğrençliktir'' diye ağladı diğer devrimciler, sonra kendi zalim ve büyük demokrasilerini kurdular.
 
-''Orta gerçekler'' bilimdede var olabilir, ve küçük doğrular ve büyük doğruların doğal ilerlemesini önlerler. 18. yüzyıla kadar, biologlar ''kendiliğinden üretim'' veya yaşamayan maddelere inanıyordu. Bu hiç bir zaman incelenemedi, ama eski felsefi ve dini yazıtlarda çok görülebiliyordu, ve gerçek olarak kabul edildi. 1905 Einstein devriminden önce, ışığın "parlak ether" denen görünmez bir madde içinde gittiği sanılmıştır, aynı ses dalgalarının ışık içinde gitmesi gibi. Bu teoriye inanan bilim adamlarının hiçbiri "ether" hakkında somut bir kanıta sahip değildi, - ama diğer gözlemlenebilir özelliklerine bakmak gerekliydi.
+''Ara gerçekler'' bilimde de var olabilir, ve küçük doğrular ve büyük doğruların doğal ilerlemesini önlerler. 18. yüzyıla kadar, biologlar ''kendiliğinden üretim'' veya yaşamayan maddelere inanıyordu. Bu hiç bir zaman incelenemedi, ama eski felsefi ve dini yazıtlarda çok görülebiliyordu, ve gerçek olarak kabul edildi. 1905 Einstein devriminden önce, ışığın "parlak eter" denen görünmez bir madde içinde gittiği sanılmıştır, aynı ses dalgalarının ışık içinde gitmesi gibi. Bu teoriye inanan bilim adamlarının hiçbiri "eter" hakkında somut bir kanıta sahip değildi, - ama diğer gözlemlenebilir özelliklerine bakmak gerekliydi.
 
-Din de başka bir ''orta gerçek''dir - hemde en tehlikelilerinden biri. Bildiğimiz kadarıyla evrendeki eşsiz bir tür olduğumuz doğrudur. Zürafa uzun bir dört ayaklıdır, ama insan sadece ''akıllı'' bir primat değildir, daha değişik birşeydir. Bu farklılığın doğası bilinmezdir - dini bir açıklama "hayvanlardan farklıyız çünkü hayvanların ruhu yoktur ve bizi tanrı yaratmıştır" der ve bu "vasat doğrunun" başka bir örneğidir. Hayvanlardan farklı olduğumuz ise bir gerçektir. Bizim bir tanrı tarafından yaratıldığımız ve bir ruha sahip olduğumuz doğru değil.
+Din de başka bir ''orta gerçek''’dir - hemde en tehlikelilerinden biri. Bildiğimiz kadarıyla evrendeki eşsiz bir tür olduğumuz doğrudur. Zürafa uzun bir dört ayaklıdır, ama insan sadece ''akıllı'' bir primat değildir, daha değişik bir şeydir. Bu farklılığın doğası bilinmezdir - dini bir açıklama "hayvanlardan farklıyız çünkü hayvanların ruhu yoktur ve bizi tanrı yaratmıştır" der ve bu "vasat doğrunun" başka bir örneğidir. Hayvanlardan farklı olduğumuz ise bir gerçektir. Bizim bir tanrı tarafından yaratıldığımız ve bir ruha sahip olduğumuz doğru değil.
 
-Bazı parazitlerin önceki parazitleri atana kadar kök salamamalarından dolayı, "orta gerçekler"; sadece daha önceki yanılsamalara saldırırlar ve *so that they can take their place*. Öncelikli hayallerinde kuşkucu olanlar yeni hayallerine doğru yönelir. Şöyle ki, hristiyanlık paganizmi elemine etti, marxism hristanlığı elemine ettii, post-modernism marxism i elemine etti, demokrasi aristokrasiyi elemine etti, ve böylece devam etti.
+Bazı parazitlerin önceki parazitleri atana kadar kök salamamalarından dolayı, "orta gerçekler"; sadece daha önceki yanılsamalara saldırırlar ve *böylece yerlerini alabilirler*. Öncelikli hayallerinde kuşkucu olanlar yeni hayallerine doğru yönelir. Şöyle ki, hristiyanlık paganizmi elemine etti, marksizm hristiyanlığı elemine etti, post-modernizm marksizm’i elemine etti, demokrasi aristokrasiyi elemine etti, ve böylece devam etti.
 
-Mutlak gerçeklere ulaşıp, bunu küçük doğrularla birleştirene kadar, "vasat doğrular" yıkıcı bir döngü içinde yalnışları savurur - özellikle mutlak doğrulara ulaşmamızı engellemek için tasarlanmışlardır.
+Mutlak gerçeklere ulaşıp, bunu küçük doğrularla birleştirene kadar, "vasat doğrular" yıkıcı bir döngü içinde yanlışları savurur - özellikle mutlak doğrulara ulaşmamızı engellemek için tasarlanmışlardır.
 
 Ve büyük yalanlar her zaman küçük yalanlardan doğdu.
 
 Dünya düşer çünkü taş düşer.
 
-### ''Orta Gerçekler'' Ve İşletme
+### ''Ara Gerçekler'' Ve İşletme
 
-Biolojik olarak parazitlik çoğu canlı için geçerli bir hayatta kalma yöntemidir. Etik normların yokluğunda, başka canlılardan enerji ve kaynak çalmak anlaşılabilirdir. Genel olarak, parazitliğin sürdürülebilir ve dayanıklı formu *symbiosis* ya da mutualistik birlikteliktir. Bağırsaklarımızdaki bakteriler bizim yediklerimizi sindirmemize yardımcı olarak kendi varlıklarını sürdürürler.
+Biyolojik olarak parazitlik çoğu canlı için geçerli bir hayatta kalma yöntemidir. Etik normların yokluğunda, başka canlılardan enerji ve kaynak çalmak anlaşılabilirdir. Genel olarak, parazitliğin sürdürülebilir ve dayanıklı formu *symbiosis* ya da mutantımsı birlikteliktir. Bağırsaklarımızdaki bakteriler bizim yediklerimizi sindirmemize yardımcı olarak kendi varlıklarını sürdürürler.
 
-Bununla birlikte, bizi sürekli olarak bitkin hale getiren ve kendimizi güçlükle canlı tutabilmemize sebep olan bir virüs, güçlükle "karşılıklı bir yarar" olarak nitelendirilebilir. Afet, açlık, savaş, hastalık ve yoksulluk hakkındaki uzun ve insafsız geçmişimizi düşünüp bunu karşılaştırdığımızda, modernitenin baş döndürücü ekonomik başarılarıyla - bir çeşit parazitmin -aklımızı ve kapasitelerini binlerce yıl boyunca baştan çıkardığı son derece açıktır. Son birkaç yüz yılda insan ruhunun gücünü ve yaratıcılığını göstermiş olduğumuza göre, türümüzü, korkunç bir parazitten sıyrılmış bir organizma olarak görebilir ve jimnastiğin en şaşırtıcı başarılarını gerçekleştirmek için nefes nefese sonsuz bir ölüm kuşağından geçmiş olarak görebiliriz.
+Bununla birlikte, bizi sürekli olarak bitkin hale getiren ve kendimizi güçlükle canlı tutabilmemize sebep olan bir virüs, güçlükle "karşılıklı bir yarar" olarak nitelendirilebilir. Afet, açlık, savaş, hastalık ve yoksulluk hakkındaki uzun ve insafsız geçmişimizi düşünüp bunu karşılaştırdığımızda, modernizmin baş döndürücü ekonomik başarılarıyla - bir çeşit parazitim -aklımızı ve kapasitelerini binlerce yıl boyunca baştan çıkardığı son derece açıktır. Son birkaç yüz yılda insan ruhunun gücünü ve yaratıcılığını göstermiş olduğumuza göre, türümüzü, korkunç bir parazitten sıyrılmış bir organizma olarak görebilir ve jimnastiğin en şaşırtıcı başarılarını gerçekleştirmek için nefes nefese sonsuz bir ölüm kuşağından geçmiş olarak görebiliriz.
 
 Kendimizi bir hastalıktan iyileştirdiğimizde daha iyi hissediyoruz, ancak hastalık yok. Çiçek hastalığı virüsü açısından bakıldığında, çiçek aşısı soykırımdan kaynaklanmaktadır.
 
-Aynı şekilde, insanoğlunu boğan parazitler çoğunluğun özgürlüğünü korkuyla görmektedirler. Parazitlik onlarıgerçeğin arzından kurtarsada - günlük lokmalarına kavuşmak için - kaçınılmaz olarak çoğunluğun özgürlüğünü kendilerinin köleleştirilmesi olarak görürler. Böylece bir çiftçi hayvancılığının "kurtuluşu" nu tamamen felâket olarak görür…
+Aynı şekilde, insanoğlunu boğan parazitler çoğunluğun özgürlüğünü korkuyla görmektedirler. Parazitlik onları gerçeğin arzından kurtarsa da - günlük lokmalarına kavuşmak için - kaçınılmaz olarak çoğunluğun özgürlüğünü kendilerinin köleleştirilmesi olarak görürler. Böylece bir çiftçi hayvancılığının "kurtuluşu" nu tamamen felaket olarak görür…
 
-Gerçeği kabul ettirmek muhakkak hayal gücünü sınırlar. Limetlenmiş fantezi gerekli olarak sömürmeyi sınırlar. Eğer seni benim yaşayan-Tanrı olduğuma ikna edersem, ve beni doğuran Tanrının tüm kazancının yüzde on'unu bana vermesini istediğini eğer bunu yapmazsan cezalandırılacağını söylersem, çok zengin olabilirim. Ben iluzyonlar karşısında bir parazitim ve bu iluzyonlara bir mantarın ısıya olan ihtiyacı gibi bağımlıyım, boşluk - ve karanlık.
+Gerçeği kabul ettirmek muhakkak hayal gücünü sınırlar. Sınırlandırılmış fantezi gerekli olarak sömürmeyi sınırlar. Eğer seni benim yaşayan-Tanrı olduğuma ikna edersem, ve beni doğuran Tanrının tüm kazancının yüzde on'unu bana vermesini istediğini eğer bunu yapmazsan cezalandırılacağını söylersem, çok zengin olabilirim. Ben illüzyonlar karşısında bir parazitim ve bu illüzyonlara bir mantarın ısıya olan ihtiyacı gibi bağımlıyım, boşluk - ve karanlık.
 
-İnsanlar, moral fantezilerini kendi çıkarları için kullananlarla göze göz dişe diş şeklinde onların gerçeğini ortaya çıkararak savasmıştır.
+İnsanlar, moral fantezilerini kendi çıkarları için kullananlarla göze göz dişe diş şeklinde onların gerçeğini ortaya çıkararak savaşmıştır.
 
 Potansiyel rakiplerini yaralama yada ölümle tehdit eden, dini mezhepleri yada hükümetleri birbirlerine karşı kışkırtıp saldırtan Mafya örneklerine son derece aşinayız.
 
-Filozoflaryalnışları günyüzüne çıkarttığında kendilerini rakip olarak öne çıkarmak istemezler. Onlar mafyayı veya kiliseyi *değiştirmek* istemiyor - onlar bunları tamamen ortadan kaldırmak istiyor.
+Filozoflar yanlışları günyüzüne çıkarttığında kendilerini rakip olarak öne çıkarmak istemezler. Onlar mafyayı veya kiliseyi *değiştirmek* istemiyor - onlar bunları tamamen ortadan kaldırmak istiyor.
 
-Modern bir analoji olarak lobicilerin vergi ödeyenlerin ve devletin bağlantısını öne çıkarabilriz. Lobiciler vahşice aynı vergiler için diğer lobicilere saldıracak. Ancak, düşünün *tüm* lobiciler birleşse ve devlete saldırmak isteyenlere saldırsa.
+Modern bir analoji olarak lobicilerin vergi ödeyenlerin ve devletin bağlantısını öne çıkartabiliriz. Lobiciler vahşice aynı vergiler için diğer lobicilere saldıracak. Ancak, düşünün *tüm* lobiciler birleşse ve devlete saldırmak isteyenlere saldırsa.
 
-Sunucu sonlu kaynakları için parazitler vahşice yarışırlar - ama aslında sunucuya saldıracak her hangi bişeyi birleşerek yok etmek onların çıkarınadır.
+Sunucu sonlu kaynakları için parazitler vahşice yarışırlar - ama aslında sunucuya saldıracak her hangi bir şeyi birleşerek yok etmek onların çıkarınadır.
 
-Bu şekilde, herhangi bir toplumda devlet ve kilise sözde ayrıdır ama ikiside kendi taraftarlarının rekabeti için savaşmaya meğillidir. Kilise gücünü kaybetmeye başladığı yerde, devlet yerine vatanserverleri getirir - bu secular sosyalizmin sonucudur. Devletin toprak kaybetmeye başladığı yerde, kilise saldırganca taraftarları kabul edecek - çoğunlukla özgürlükçü düşünceyle dini köktencilikle sonuçlanacak.
+Bu şekilde, herhangi bir toplumda devlet ve kilise sözde ayrıdır ama ikisi de kendi taraftarlarının rekabeti için savaşmaya meğillidir. Kilise gücünü kaybetmeye başladığı yerde, devlet yerine vatan serverleri getirir - bu seküler sosyalizmin sonucudur. Devletin toprak kaybetmeye başladığı yerde, kilise saldırganca taraftarları kabul edecek - çoğunlukla özgürlükçü düşünceyle dini köktencilikle sonuçlanacak.
 
-Yine de, düşünsel hataya karşı çıkan filozoflar kuruntuları yararına kullanan tüm parazitlerin düşmanlarına yeminlidir. Fiziğin mutlak doğruları hayali varlıkların ihtiyacını ortadan kaldırır ve mucizeleri anlamsız kılar. Bilimin açıklayacı gücü dini hikayeleri sollar ve fiziksel dünyanın gerçeklerini öne çıkarır.
+Yine de, düşünsel hataya karşı çıkan filozoflar kuruntuları yararına kullanan tüm parazitlerin düşmanlarına yeminlidir. Fiziğin mutlak doğruları hayali varlıkların ihtiyacını ortadan kaldırır ve mucizeleri anlamsız kılar. Bilimin açıklayıcı gücü dini hikayeleri sollar ve fiziksel dünyanın gerçeklerini öne çıkarır.
 
-Bilimsel yaklaşım her kuramın mantık ve kanıtla desteklenmesini ister. Tanrılar için bir kanıt olmadığından -ve hatta tanrıların fikri doğal olarak kendisiyle çeliştiğinden- "tanrılar vardır" savı geçerli değildir. Kaçınılmaz bir şekilde, dini parazitler gerçekliği bilimsel ve manevi olmak üzere farklı "iki alem"'e bölmeye çalışarak tezlerini müdafaa etmek için uğraşırlar. Yinede, şu anda bu "manevi" alanın varlığıyla alakalı, 2500 yıl önceki Platonik "Formların" paralel evrenden daha fazla bir kanıtı ortada yoktur.
+Bilimsel yaklaşım her kuramın mantık ve kanıtla desteklenmesini ister. Tanrılar için bir kanıt olmadığından -ve hatta tanrıların fikri doğal olarak kendisiyle çeliştiğinden- "tanrılar vardır" savı geçerli değildir. Kaçınılmaz bir şekilde, dini parazitler gerçekliği bilimsel ve manevi olmak üzere farklı "iki alem"'e bölmeye çalışarak tezlerini müdafaa etmek için uğraşırlar. Yine de, şu anda bu "manevi" alanın varlığıyla alakalı, 2500 yıl önceki Platonik "Formların" paralel evrenden daha fazla bir kanıtı ortada yoktur.
 
-Böylece, tutarlı ve evrensel gerçeğin oluşturulmasında, illüzyonun sömürücü potansiyelini mutlaka sınırlayıp yok etmektedir. Özellikle, evrensel ve tutarlı olan "büyük gerçekler", aslında sömürücü fanteziler olan "orta gerçekler"'i gereksiz ve saçma bir hale getiriyor. Dinin "orta gerçeği" ni biliyoruz; Birkaç kişi incelenecek ve ortaya çıkacak ve bazıları sizi şoke edebilecek.
+Böylece, tutarlı ve evrensel gerçeğin oluşturulmasında, illüzyonun sömürücü potansiyelini mutlaka sınırlayıp yok etmektedir. Özellikle, evrensel ve tutarlı olan "büyük gerçekler", aslında sömürücü fanteziler olan "orta gerçekler"'i gereksiz ve saçma bir hale getiriyor. Dinin "ara gerçeği"’ni biliyoruz; Birkaç kişi incelenecek ve ortaya çıkacak ve bazıları sizi şoke edebilecek.
 
 ### Etkili Asalaklık
 
-En etkili parazitler- yada virusler - vücüdu katıksız şekilde aptal yerine koyanlardır. Bizim bağışıklık sistemimiz dışardan gelen yabancı maddelere saldırmak, izole etme ve öldürmeye tasarlanmıştır. Biz HIV ve kanserden korkuyoruz çünkü onlar vücüdumuzun bağışıklık sistemini geçebiliyor. Aynı teknik entelektüel parazitler tarafından avlanmak için savunma sistemlerini devre dışı bırakmak için kullanılmaktadır.
+En etkili parazitler- yada virüsler - vücüdu katıksız şekilde aptal yerine koyanlardır. Bizim bağışıklık sistemimiz dışarıdan gelen yabancı maddelere saldırmak, izole etme ve öldürmeye tasarlanmıştır. Biz HIV ve kanserden korkuyoruz çünkü onlar vücudumuzun bağışıklık sistemini geçebiliyor. Aynı teknik entelektüel parazitler tarafından avlanmak için savunma sistemlerini devre dışı bırakmak için kullanılmaktadır.
 
-Eğer karanlık bir arka sokakta bir yabancı size saldırırsa ve paranızı isterse, korkarsınız ve dehşete düşersiniz. Geri kavga edebilir, kaçabilir yada cüzdanınızı verebilirsiniz ama olaydan dolayı şoke olmus, kızgın ve ürkek kalırsınız. Bu öyküyü tekrarladığınızda, siz sizin kişisel üs ve değersiz ihlalinizi ve mülkiyet haklarınızı kuvvetlendirecek şekilde söylerdiniz. Başkaları durumunuza sempati duyar ve gelecekte söz konusu olan ara sokaktan kaçınırdı.
+Eğer karanlık bir arka sokakta bir yabancı size saldırırsa ve paranızı isterse, korkarsınız ve dehşete düşersiniz. Geri kavga edebilir, kaçabilir yada cüzdanınızı verebilirsiniz ama olaydan dolayı şoke olmuş, kızgın ve ürkek kalırsınız. Bu öyküyü tekrarladığınızda, siz sizin kişisel üs ve değersiz ihlalinizi ve mülkiyet haklarınızı kuvvetlendirecek şekilde söylerdiniz. Başkaları durumunuza sempati duyar ve gelecekte söz konusu olan ara sokaktan kaçınırdı.
 
-Bu bir ''kücük doğru'' örneğidir: ''Benden çalman yanlış''
+Bu bir ''küçük doğru'' örneğidir: ''Benden çalman yanlış''
 
 Bununla birlikte, bir devlet görevlisi ona para ödemekle yükümlü bir mektup gönderildiğinde, belli bir öfke hissetmiş olabilirsiniz, ancak hikayeyi arkadaşlarınıza aynı korku ve öfke ile ilişkilendirmezsiniz.
 
-Bu bir “orta gerçek” örneğidir, bu da “büyük gerçeği” gizleyen “çalmanın yanlış olduğu " anlamına gelmektedir.”
+Bu bir “ara gerçek” örneğidir, bu da “büyük gerçeği” gizleyen “çalmanın yanlış olduğu " anlamına gelmektedir.”
 
-Bu kitap, bu yanlış "orta doğruları" meydana çıkararak ortadan kaldırmaya odaklanacaktır. İnsanın, - dinsel batıl inançları, laik despotizm ve ailenin kültü - gibi yıkıcı dünya görüşlerini haklı gösteren yanlış "etik gerçekler" in işkence altında daima dek acı çektiklerine inanıyorum.
+Bu kitap, bu yanlış "Ara doğruları" meydana çıkararak ortadan kaldırmaya odaklanacaktır. İnsanın, - dinsel batıl inançları, laik despotizm ve ailenin kültü - gibi yıkıcı dünya görüşlerini haklı gösteren yanlış "etik gerçekler" in işkence altında daima dek acı çektiklerine inanıyorum.
 
-Bu kitaptaki tezim, etik olarak, diğer tüm entelektüel disiplinlerde olduğu gibi, büyük gerçekler doğrudan doğruya küçük gerçeklerden kaynaklanmaktadır. "Orta gerçekler"in kafa karıştıran bulanıklığı gezinmek için cehennemi bir yol olsa da buna uğraşmaya değer çünkü gerçeğin tek temel alternatifi sömürü, yıkım ve kaçınılmaz bir şekilde milyonlarca insanın zamanından önce ölmesidir.
+Bu kitaptaki tezim, etik olarak, diğer tüm entelektüel disiplinlerde olduğu gibi, büyük gerçekler doğrudan doğruya küçük gerçeklerden kaynaklanmaktadır. "Ara gerçekler"in kafa karıştıran bulanıklığı gezinmek için cehennemi bir yol olsa da buna uğraşmaya değer çünkü gerçeğin tek temel alternatifi sömürü, yıkım ve kaçınılmaz bir şekilde milyonlarca insanın zamanından önce ölmesidir.
