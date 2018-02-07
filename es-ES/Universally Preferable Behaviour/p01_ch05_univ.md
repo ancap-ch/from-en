@@ -52,59 +52,59 @@ If we can prove that moral theories can be objective, rational and verifiable, t
 
 Before the rise of the scientific method, people believed that matter obeyed the subjective whims of gods and devils – and people believe the same of morality now. Volcanoes erupted because the mountain-god was angry; good harvests resulted from human or animal sacrifices. No one believed that absolute physical laws could limit the will of the gods – and so science could never develop. Those who historically profited from defining physical reality as subjective – mostly priests and aristocrats – fought the subjugation of physical theories to the scientific method, just as those who currently profit from defining morality as subjective – mostly priests and politicians – currently fight the subjugation of *moral* theories to objective and universal principles.
 
-As mentioned above, the scientific method is essentially a methodology for separating accurate from inaccurate theories by subjecting them to two central tests: logical consistency and empirical observation – and by always subjugating logical consistency to empirical observation. If I propose a perfectly consistent and logical theory that says that a rock will float *up* when thrown off a cliff, any empirical test proves my theory incorrect, since observation always trumps hypothesis.
+Como se mencionó anteriormente, el método científico es esencialmente una metodología para separar las teorías exactas de las inexactas, sometiéndolas a dos pruebas centrales: la consistencia lógica y la observación empírica, y subyugando siempre la consistencia lógica a la observación empírica. Si propongo una teoría perfectamente coherente y lógica que dice que una roca flotará *arriba* cuando se tira de un acantilado, cualquier prueba empírica prueba que mi teoría es incorrecta, ya que la observación siempre supera a la hipótesis.
 
-A further aspect of the scientific method is the belief that, since matter is composed of combinations of atoms with common, stable and predictable properties, the behaviour of matter must also be common, stable and predictable. Thus experiments must be *reproducible* in different locations and times. I cannot say that my “rock floating” theory is correct for just one particular rock, or on the day I first tested it, or at a single location. My theories must describe the behaviour of *matter*, which is universal, common, stable and predictable.
+Otro aspecto del método científico es la creencia de que, puesto que la materia está compuesta por combinaciones de átomos con propiedades comunes, estables y predecibles, el comportamiento de la materia también debe ser común, estable y predecible. Por lo tanto, los experimentos deben ser *reproducibles* en diferentes lugares y tiempos. No puedo decir que mi teoría del "rock flotante" sea correcta para una sola roca en particular, o el día que la probé por primera vez, o en un solo lugar. Mis teorías deben describir el comportamiento de *materia*, que es universal, común, estable y predecible.
 
-Finally, there is a generally accepted rule – sometimes called Occam’s Razor – which states that, of any two theories that have the same predictive power, the simpler of the two is preferable. Prior to the Copernican revolution, when Earth was considered the centre of the universe, the retrograde motion of Mars when Earth passed it in orbit around the sun caused enormous problems to the Ptolemaic system of astronomical calculations. “Circles within circles” multiplied enormously, which were all cleared away by simply placing the sun at the centre of the solar system and accepting the elliptical nature of planetary orbits.
+Finalmente, hay una regla generalmente aceptada -a veces llamada Navaja de Occam- que establece que, de dos teorías cualquiera que tenga el mismo poder predictivo, la más simple de las dos es preferible. Antes de la revolución copernicana, cuando la Tierra era considerada el centro del universo, el movimiento retrógrado de Marte cuando la Tierra la pasó en órbita alrededor del sol causó enormes problemas al sistema Ptolemaico de cálculos astronómicos. Los "círculos dentro de círculos" se multiplicaron enormemente, los cuales fueron todos despejados simplemente colocando el sol en el centro del sistema solar y aceptando la naturaleza elíptica de las órbitas planetarias.
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+Por lo tanto, cualquier teoría científica válida debe ser (a) universal (b) lógica (c) verificable empíricamente (d) reproducible y (e) tan simple como sea posible.
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+La metodología para juzgar y probar una teoría *moral* es exactamente igual a la metodología para juzgar y probar cualquier otra teoría.
 
-#### Moral Rules: A Definition
+#### Reglas Morales: Una Definición
 
-The first question regarding moral rules is: *what* are they?
+La primera pregunta con respecto a las reglas morales es: ¿*qué* son?
 
-Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
+En pocas palabras, *morales* son un conjunto de reglas que pretenden identificar de manera precisa y consistente los comportamientos humanos universalmente preferibles, del mismo modo que *física* es un conjunto de reglas que afirman identificar precisa y consistentemente el comportamiento universal de la materia.
 
-The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+La segunda pregunta que se plantea es: ¿hay algo así como un "comportamiento universalmente preferible"? Si lo hay, podemos empezar a explorar cuál podría ser ese comportamiento. Si no, entonces nuestro examen debe detenerse aquí - así como el examen de la astronomía Ptolemaica cesó después de que se aceptó comúnmente que el Sol era de hecho el centro del sistema solar.
 
-### UPB: Five Proofs
+### CUP: Cinco pruebas
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+Como se ha comentado anteriormente, la proposición de que *no existe el comportamiento preferible* contiene un número insuperable de problemas lógicos y empíricos. El "comportamiento universalmente preferible" *debe* ser un concepto válido, por cinco razones principales.
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+La primera es lógica: si discuto *contra* la proposición de que el comportamiento universalmente preferible es válido, ya he demostrado mi preferencia por la verdad sobre la falsedad, así como mi preferencia por corregir a los que hablan falsamente. Decir que no existe el comportamiento universalmente preferible es como gritar en el oído de alguien que el sonido no existe - es innatamente contradictorio. En otras palabras, si hay *no existe tal cosa* como un comportamiento universalmente preferible, entonces uno *debería* oponerse a cualquiera que afirme que existe tal cosa como un comportamiento universalmente preferible. Sin embargo, si uno "debería" hacer algo, entonces acaba de crear un comportamiento universalmente preferible. Por lo tanto, el comportamiento universalmente preferible - o las normas morales - deben ser válidas.
 
-Syllogistically, this is:
+Silogísticamente, esto es:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1. La proposición es: el concepto de "comportamiento universalmente preferible" debe ser válido.
+2. Argumentar en contra de la validez del comportamiento universalmente preferible demuestra un comportamiento universalmente preferible.
+3. Por lo tanto, ningún argumento en contra de la validez del comportamiento universalmente preferible puede ser válido.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+Todos sabemos que hay preferencias subjetivas, como el helado o el jazz, que no se consideran vinculantes para otras personas. Por otra parte, hay otras preferencias, como la violación y el asesinato, que claramente se infligen a otros. También hay preferencias por la lógica, la verdad y la evidencia, que también son vinculantes para otros (aunque no suelen ser infligidas violentamente) en la medida en que todos aceptamos que una proposición ilógica debe ser falsa o inválida.
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+Esas preferencias que pueden considerarse vinculantes para otros pueden denominarse "preferencias universales" o "reglas morales".
 
-How else can we know that the concept of “moral rules” is valid?
+¿De qué otra manera podemos saber que el concepto de "reglas morales" es válido?
 
-We can examine the question biologically as well as syllogistically.
+Podemos examinar la cuestión tanto desde el punto de vista biológico como silogístico.
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+Por ejemplo, toda materia está sujeta a reglas físicas - y todo lo que vive está además sujeto a ciertos requisitos, y por lo tanto, si está vivo, debe haber seguido conductas universalmente preferidas. La vida, por ejemplo, requiere combustible y oxígeno. Cualquier mente viviente, por supuesto, es una parte orgánica del mundo físico, y por lo tanto está sujeta a las leyes físicas y debe haber seguido conductas universalmente preferidas - argumentar lo contrario requeriría demostrar que la conciencia no está compuesta de materia, y no es orgánica - una imposibilidad, ya que tiene masa, energía y vida. Argumentar que la conciencia no está sujeta a reglas físicas ni a conductas universalmente preferidas sería como argumentar que los seres humanos son inmunes a la gravedad, y pueden florecer sin comer.
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+Por lo tanto, es imposible que cualquiera pueda argumentar lógicamente en contra de un comportamiento universalmente preferible, ya que si está vivo para argumentar, debe haber seguido conductas universalmente preferidas como respirar, comer y beber.
 
-Syllogistically, this is:
+Syllogísticamente, esto es:
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+1. Todos los organismos requieren un comportamiento universalmente preferido para vivir.
+2. El hombre es un organismo vivo.
+3. Por lo tanto, todos los hombres vivos están vivos debido a la práctica del comportamiento universalmente preferido.
+4. Por lo tanto, cualquier argumento en contra de un comportamiento universalmente preferible requiere una aceptación y práctica de un comportamiento universalmente preferido.
+5. Por lo tanto, ningún argumento contra la existencia de un comportamiento universalmente preferible puede ser válido.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+Puesto que el método científico requiere la corroboración empírica, también debemos mirar a la realidad para confirmar nuestra hipótesis - y aquí se apoya plenamente la validez del comportamiento universalmente preferible.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Todo ser humano cuerdo cree en reglas morales de algún tipo. Existe un cierto desacuerdo acerca de lo que *constituye* reglas morales, pero todo el mundo está seguro de que las reglas morales son válidas - igual que muchos científicos no están de acuerdo, pero todos los científicos aceptan la validez del método científico en sí. Se puede argumentar que la Tierra es redonda y no plana -lo que es análogo a cambiar la definición de moralidad-, pero no se puede argumentar que la Tierra no existe en absoluto, lo cual es como argumentar que no existe un comportamiento universalmente preferible.
 
 Or:
 
