@@ -1,4 +1,4 @@
-## Existencia versus no existencia
+## Existencia Versus No Existencia
 
 Definimos "no-existencia" como aquello que no posee masa o energía, o que muestra los efectos de la masa o energía, tales como las relaciones detectables como la gravedad.
 
