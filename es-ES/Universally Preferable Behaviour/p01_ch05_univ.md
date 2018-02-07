@@ -1,56 +1,56 @@
-## Universally Preferable Behaviour
+## Comportamiento universalmente preferible
 
-As a result of the above arguments, we can see that it is impossible to enter into any debate without accepting the premise that certain behaviours are *universally preferable*.
+Como resultado de los argumentos anteriores, podemos ver que es imposible entrar en cualquier debate sin aceptar la premisa de que ciertos comportamientos son *universalmente preferibles*.
 
-I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
+Utilizo la palabra "comportamiento" aquí en lugar de "pensamiento" porque es importante diferenciar entre estados puramente internos e incontrolables como "pensamiento" de estados objetivos y verificables como "actuar", "escribir" y "hablar”
 
-It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant,” which is why I use the word “behaviour” rather than “thought.”
+Es imposible probar que anoche soñé con un elefante. Es posible probar que he escrito la palabra "elefante", por lo que utilizo la palabra "comportamiento" en lugar de "pensamiento.”
 
-Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+Adquirir a la lógica superior en un argumento es una *acción*. Si, cada vez que te concedía un punto de vista, no decía nada, sino que simplemente te miraba fijamente, encontrarías bastante irritante debatirme. Para conceder un punto, debo realizar la acción de aquiescencia verbal.
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+Por lo tanto, se puede ver que, inherentes al acto mismo de argumentar, hay una serie de premisas implícitas que no se pueden revertir.
 
-If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+Si te pido que te reúnas conmigo en la pista de tenis, y me presento con un rifle de caza, podemos terminar jugando una especie de deporte, pero ciertamente no será tenis. Cuando te pido que te reúnas conmigo en la pista de tenis para un partido, implícito en esa petición es la aceptación de las reglas del tenis.
 
-Historically, those engaged in ethical debating have often failed to maintain this basic reality.
+Históricamente, los que se dedican al debate ético a menudo han fracasado en mantener esta realidad básica.
 
-I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
+No puedo presentar un trabajo científico escrito en mi propio idioma personal, afirmando que ha sido arbitrado por mi pez dorado psíquico, y espero que se me tome en serio. Del mismo modo, no puedo iniciar un debate filosófico sobre la ética con referencia a mis propios valores personales, y afirmar que todos mis argumentos han sido validados por Trixie la omnisciente e invisible duende, y espero que sean tomados en serio.
 
-The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
+El acto mismo de debatir requiere una aceptación del comportamiento universalmente preferible (CUP). No hay manera de responder racionalmente a un argumento ético *sin* exponer el CUP.
 
-Let us now turn to a series of positive proofs for UPB.
+Volvamos ahora a una serie de pruebas positivas para el CUP.
 
-### UPB And Validity
+### CUP y Validez
 
-One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
+Uno de los principales desafíos a los que se enfrentan los filósofos modernos es la necesidad de demostrar que las normas morales son posibles y universales. Hasta que las reglas morales puedan ser sometidas al mismo rigor y lógica que cualquier otra proposición, estaremos siempre bloqueados por el subjetivismo, los prejuicios políticos y el pragmático "argumento del efecto.”
 
-The closest historical analogy to our present situation occurred in the fifteenth and sixteenth centuries, during the rise of the scientific method. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
+La analogía histórica más cercana a nuestra situación actual ocurrió en los siglos XV y XVI, durante el ascenso del método científico. Los primeros pioneros que abogaron por un enfoque racional y empírico del conocimiento se enfrentaron a los mismos prejuicios que enfrentaban hoy en día -todas las mismas irracionalidades, los mismos poderes arraigados de la iglesia y el estado, los "absolutos" místicos y subjetivos y las primeras barreras educativas. Aquellos que abogaron por la primacía de la racionalidad y la observación empírica sobre el fundamentalismo bíblico y las tiranías seculares se enfrentaron a la oposición decidida de aquellos que blandían la cruz y la espada. Muchos fueron torturados hasta la muerte por su honestidad intelectual - nos enfrentamos a un riesgo mucho menor, y por lo tanto deberíamos ser mucho más valientes en la defensa de lo que es * verdad* sobre lo que es *creído*.
 
-In order to attack false moralities, we must start from the beginning, just as the first scientists did. Francis Bacon did not argue that the scientific method was more “efficient” than prayer, Bible texts or starvation-induced visions. He simply said that if we want to understand nature, we must observe nature and theorise logically – and that there is *no other* route to knowledge.
+Para atacar las falsas moralidades, debemos partir desde el principio, como hicieron los primeros científicos. Francis Bacon no argumentó que el método científico fuera más "eficiente" que la oración, los textos bíblicos o las visiones inducidas por el hambre. Él simplemente dijo que si queremos entender la naturaleza, debemos observar la naturaleza y teorizar lógicamente - y que no hay *ningún otro* camino hacia el conocimiento.
 
-We must take the same approach in defining and communicating *morality*. We must begin using the power and legitimacy of the scientific method to prove the validity and universality of moral laws. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
+Debemos adoptar el mismo enfoque al definir y comunicar *la moralidad*. Debemos comenzar a utilizar el poder y la legitimidad del método científico para probar la validez y universalidad de las leyes morales. Debemos comenzar desde el principio, construir lógicamente y rechazar *cualquier* sustituto irracional o no empírico de la verdad.
 
-What does this look like in practice? All we have to do is establish the following axioms:
+¿Cómo se ve esto en la práctica? Todo lo que tenemos que hacer es establecer los siguientes axiomas:
 
-- Morality is a valid concept.
-- Moral rules must be consistent for all mankind.
-- The validity of a moral theory is judged by its consistency.
+-La moralidad es un concepto válido.
+-Las reglas morales deben ser consistentes para toda la humanidad.
+-La validez de una teoría moral se juzga por su consistencia..
 
-To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
+Empezando desde el principio... ¿son válidas las reglas morales -o conductas humanas universalmente preferibles?
 
-There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
+Sólo hay dos posibilidades cuando se trata de reglas morales, al igual que en cualquier ciencia lógica. O bien las reglas morales universales son válidas, o no lo son [^6]
 
-A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
+Una regla puede ser válida si *existe empíricamente*, como la gravedad, o porque es * verdad*, como la ecuación dos más dos es igual a cuatro.
 
-We must then first ask: do moral rules exist at all?
+Entonces debemos preguntarnos primero: ¿existen normas morales?
 
-Certainly not in material reality, which does not contain or obey a single moral rule. Moral rules are different from the rules of physics, just as the scientific method is different from gravity. Matter innately obeys gravity or the second law of thermodynamics, but “thou shalt not murder” is nowhere inscribed in the nature of things. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. A theory of gravity proves that if you push a man off a cliff, he will fall. It will not tell you whether you *should* push him or not.
+Ciertamente no en la realidad material, que no contiene ni obedece una sola regla moral. Las reglas morales son diferentes de las reglas de la física, así como el método científico es diferente de la gravedad. La materia obedece innatamente a la gravedad o a la segunda ley de la termodinámica, pero "no matarás" no está inscrito en ninguna parte en la naturaleza de las cosas. Las leyes físicas *describen* el comportamiento de la materia, pero no contienen una sola *prescripción*. La ciencia dice que la materia *hace* se comporta de cierta manera - nunca que *debe* comportarse de cierta manera. Una teoría de la gravedad prueba que si empujas a un hombre por un precipicio, se caerá. No te dirá si debes empujarlo o no.
 
-Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
+Por lo tanto, no se puede decir que existan reglas morales en la realidad material, y tampoco son automáticamente obedecidas como las leyes de la física -lo cual no significa que las leyes morales sean falsas, subjetivas o irrelevantes. El método científico en sí mismo tampoco existe en la realidad - y es también opcional - pero no es en absoluto falso, subjetivo o irrelevante.
 
-If we can prove that moral theories can be objective, rational and verifiable, this will provide the same benefits to ethics that subjecting *physical* theories to the scientific method did.
+Si podemos probar que las teorías morales pueden ser objetivas, racionales y verificables, esto proporcionará los mismos beneficios a la ética que las teorías *físicas* que sometieron al método científico.
 
-Before the rise of the scientific method, people believed that matter obeyed the subjective whims of gods and devils – and people believe the same of morality now. Volcanoes erupted because the mountain-god was angry; good harvests resulted from human or animal sacrifices. No one believed that absolute physical laws could limit the will of the gods – and so science could never develop. Those who historically profited from defining physical reality as subjective – mostly priests and aristocrats – fought the subjugation of physical theories to the scientific method, just as those who currently profit from defining morality as subjective – mostly priests and politicians – currently fight the subjugation of *moral* theories to objective and universal principles.
+Antes del surgimiento del método científico, la gente creía que la materia obedecía a los caprichos subjetivos de dioses y demonios - y la gente ahora cree lo mismo de la moralidad. Los volcanes estallaron porque el dios de la montaña estaba enojado; las buenas cosechas resultaron de sacrificios humanos o animales. Nadie creía que las leyes físicas absolutas pudieran limitar la voluntad de los dioses - y por lo tanto la ciencia nunca podría desarrollarse. Aquellos que históricamente se han beneficiado de definir la realidad física como subjetiva -sacerdotes y aristócratas en su mayoría- lucharon contra la subyugación de las teorías físicas al método científico, así como aquellos que actualmente se benefician de definir la moralidad como subjetiva -sacerdotes y políticos en su mayoría- luchan actualmente contra la subyugación de las teorías *morales* a los principios objetivos y universales.
 
 As mentioned above, the scientific method is essentially a methodology for separating accurate from inaccurate theories by subjecting them to two central tests: logical consistency and empirical observation – and by always subjugating logical consistency to empirical observation. If I propose a perfectly consistent and logical theory that says that a rock will float *up* when thrown off a cliff, any empirical test proves my theory incorrect, since observation always trumps hypothesis.
 
