@@ -1,58 +1,59 @@
-## Existence Versus Non-Existence
+## Varoluş Varolmayışa Karşı
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+"Var olmayışı", kütle veya enerjiye sahip olmayan olarak tanımlarız veya kütlenin veya enerjinin etkilerini gösteririz, örneğin saptanabilir etkileşimleri olan yerçekimi gibi.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+Tanrı kütle veya enerjiye sahip değildir ya da kütlenin veya enerjinin etkilerini göstermez - Tanrı, aslında, duyular yoluyla veya akılcılık yoluyla hiçbir şekilde saptanabilir ya da doğrulanabilir değildir.
 
-Thus if I say, “God exists,” what I am really saying is:
+Bu yüzden eğer “Tanrı var” dersem, gerçekte söylediğim şudur:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+“*Var olanın saptanabilir olması gerekir; Tanrı saptanamaz, ancak Tanrı vardır - bu nedenle Tanrı, varolmayan, vardır.*”
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+Başka bir deyişle, “Tanrı var” diyerek, aşılmaz bir çelişki oluşturdum. “Varoluşu”u, “varolmayış” olarak tanımladım, “hayatı”, “cansız madde” veya “kayayı”, “kayanın zıddı” olarak ya da “kare”yi, “daire” olarak tanımlamak ne kadar mantıklıysa, bu da o kadar mantıklıdır.
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+Benzer şekilde, “varolmayışın varoluşa eşit olduğu”,  “çelişkinin tutarlılığa eşit olduğu”, “hakikatin sahteye eşit olduğu” ve “mantıksızlığın akılcı olmaya eşit olduğu” alternatif bir evren yaratırsam, gerçekte yaptıpım şey; “yanlış” adı verilen bir yer yaratıp, doğru olmayan her şeyi onun içine koymak ve bu yeri “yanlış doğruya eşittir” şeklinde tanımlamaktır.[^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Elbette ki, insanlar kendi evrenimizdeki gerçeği geçersiz kılmak için bu “alternatif evren”i yaratmazlar, fakat gerçekte yanlış olanı kurtarıp doğru olarak adlandırılar. Örneğin,“Tanrı başka bir evrende var olabilir, bu nedenle Tanrı'nın var olmadığını iddia edemezsiniz” diyen hiç kimse; “*Ben* diğer evrende olmayabilirim, bu yüzden burada olduğumu söyleyemezsiniz.” iddiasında bulunamaz.
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
+Ayrıca şu argümana karşı iyi bir cevap vermeme eğilimindedirler: “Başka bir evrende, Tanrı'nın var olmadığı konusunda benimle anlaşıyor olabilirsiniz, bu sizi ateist yapar.”[^ 3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+“Yanlış doğruya eşittir” denilen bazı hayali bölger onları geçersiz kıldığı için, gerçeğe ilişkin geçerli ifadeler,  sonsuza kadar tersi olabiliyorsa, gerçekte söylenen şu ki “hakikatle ilgili olumlu bir ifade geçerli olamaz” - ancak bu ifadenin kendisiyle çelişkili olduğunu bilmek için filozoflar kadar aklıyız, zira bu, olumlu ifadelerin doğru olamayacağını söyleyen, doğru olduğu düşünülen olumlu bir beyandır. Hiçbir şey doğru veya yanlış olamıyorsa - hatta bu ifade bile - o zaman herhangi bir şey hakkında hiçbir ifade edilemez. Kelimeleri kullanma, İngilizceyi kullanmak, anlaşılır cümleler kullanmak - hepsi anlamsızdır, çünkü bu “alternatif evren”de böyle yapılandırılmış sözler tamamen saçmalık olabilir. Bu alternatif evrende doğru olabilecek şeyler, bu evrende yaptığımız açıklamalar üzerinde bir etkiye sahipse, açıkça tersi de doğrudur; bu, tam tersinin eşit derecede geçerli olabileceği için herhangi bir şey hakkında hiçbir ifade edilemez demektir.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+“Yanlış doğruya eşittir” açıklamasının gerçekte doğrusu, “hiçlik hiçliğe eşittir” şeklinde totolojik bir saçmalıktır.
 
-### The "Alternate Universe" In Human Society
+### İnsan Toplumunda "Alternatif Evren"
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+Bu “alternatif evren” teorisi ile çok fazla zaman harcamamızın nedeni, bunun insan topluluğuyla doğrudan alakalı olması ve aramızdaki en büyük kötülükleri “haklı kılmak” için kullanılmasıdır.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+Kendi kişisel deneyimlerimizden, cinayetin yanlış olduğunu biliyoruz. Yukarıdaki örneklerde cinayetin ahlaki açıdan yanlış olduğunu öne sürmeye çalışırken, herhangi birinin, UPB'nin sıkı soyut akıl yürütme yöntemiyle ahlaki içgüdülerinizi doğrulamak için şok olduğundan şüpheliyim. Ancak bu bölümde resmen şok olmaya başlayabilirsiniz.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Bilimsel anlayıştaki en büyük atılım, sözde “kuramların birleştirişmesi”dir. Einstein on yıllar boyunca birleşik bir alan teorisi geliştirmeye çalışıtı; güçlü ve zayıf kuvvetleri, elektromanyetizma, yerçekimi ve benzer fizik teorilerilerini birleştirmek hala 
+ zor olmaya devam ediyor.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+Bununla birlikte, bir çerçeve olarak UPB, ahlaki içgüdülerimizi kişisel, felsefi ve evrensel düzeyde haklı kılmakla kalmaz  – aynı zamanda insan toplumu için derin ve şok edici etkilere sahiptir.
 
-#### UPB In Action
+#### Eylemde UPB
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+UPB çerçevesi ahlaki önermeleri, iç tutarlı olmalarını talep ederek doğrular ve zaman, mekan ve birey açısından evrenseldir.
 
-If we accept UPB, we must also accept the following corollary:
+UPB'yi kabul edersek, aşağıdaki sonuçları da kabul etmeliyiz:
 
-- Moral propositions are independent of costume.
+- Ahlaki önermeler kostümden bağımsızdır.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Bunun anlamı; bir adam, ahlaki duruşunu, elbilseleriyle değiştiremez demektir. Birinin kostümünü değiştirme eylemi o kişinin temel niteliğini değiştirmez. Dolayısıyla, karşıt ahlaki kurallar, birinin giydiği kıyafetlere dayanarak geçerli olamaz.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Askerler tabii ki, sıradan vatandaştan farklı kostüm giyerler. Ortalama vatandaşa cinayet yasaktır; bununla birlikte, askerlere *izin* verilen sadece ödürmek değildir fakat öldürdükleri için ahlaki olarak *övülürler*.
 
-Let’s take another example.
+Başka bir örnek verelim.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Yukarıda gördüğümüz gibi, hırsızlık ahlaki olarak yanlıştır. Bu, tüm insanlar için her durumda ve koşulda ahlaki açıdan yanlıştır. Hırsızlık, başka birinin mülkünün rızası olmadan zorla alınması olduğundan, vergilendirme daima, evrensel ve sonsuza kadar ahlaki bir kötülüktür. Vergilendirme, tanımı gereği, rızası olmadan birinin mülkünün zorla alınmasına neden olur; zira vergilendirme, bir adamın mülkünü soymak için kuvvet kullanımının başlatılmasına dayanır.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+“Hükümet” olarak adlandırdığımız şey, yukarının aşağı, siyahın beyaz, doğrunun yanlış, kötülüğün iyilik olduğu bu *hiçbir şey alanı*nın bir başka örneğidir.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Toplum; tam olarak, sebeplerin ve kanıtların kişiselden evrensele doğru büyük bir sıçrama yaptığı seviyede ve yolundaki mantıksız *hiçbir şey alanları*nı yok ederek ilerliyor. Bilim tam olarak Tanrı'nın mantıksızlığını ve öznel “mutlakları” reddetme derecesinde ilerlemektedir. Tıp, ibadetin ve boş ritüelin etkinliğini reddetme ve bunun yerine akıl ve kanıtlara dayanma yolunda ilerlemektedir. Ayrıca felsefe - ve genel olarak insan toplumu -, “kare-daire ahlakı” mantıksızlığındaki devletçi ve dini etik teorileri reddetme derecesine ilerleyecektir.
 
-### Government
+### Hükümet
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Hükümetin toplumun geri kalanına karşı ahlaki kurallarla faaliyet gösterdiğini söylemek “leprechaun adlı cüce cinler yerçekiminden etkilenmez” demekle tamamen aynıdır. Her şeyden önce, masal kahramanı olan leprechaun adlı cüce cinler yoktur - ve olmadığını bilme yollarımızdan birisi de yerçekiminden muaf oldukları iddiasıdır. Kütlesi olan her şey yerçekimine tabidir - tanımı gereği yerçekiminden etkilenmeyenin kütlesi yoktur ve bu nedenle mevcut değildir. “Leprechaun'lar yerçekimine karşı bağışıktır” ifadesi, sadece leprechaun'ların varlığını doğrulayan bir totolojidir - “var olmayan varoluşun" semantik karşılığıdır. A, A'dır, Aristo'nun ilk mantık yasasıdır, yokluk olarak tanımlanmışın varlığını doğrulamak onu değersizleştirir.
 
 In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
 
