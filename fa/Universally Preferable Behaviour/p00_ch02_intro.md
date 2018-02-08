@@ -36,55 +36,55 @@ In old maps, before cartographers had finished their explorations, the drawings 
 
 The same is true in the realm of morality.
 
-### The Casualties
+### تلفات
 
-Crossing this “null zone” is fraught with peril. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+عبوراز اين نقطه پوچ همراه با خطر ميباشد.معبري از حقايق كوچك تا بزرگ با ميليونها استخوان سنگ فرش شده است.از مرگ سقراط تا شكنجه ي دانشمندان پيشين توسط مجاهدين مذهبي، تا ميليونها نفر كه به خاطر تمايلات سياه اصول فاشيسم و كمونيسم، هر حركت رو به جلوي دانش بشري .در نقطه پوچ همراه با خطر خاصي ميباشد
 
-Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
+آيا عبور از نقطه پوچ يا اتحاد يكپارچه حقايق كوچك و بزرگ ، بايد ناچارا سخت و خطرناك باشد؟ تركيب كردن شهود ادراكي با شهود نظري در راستاي استدلال منطقي ، چالش بزرگي بحساب ميايد. اما اين پيشرفت بايد هزاران سال طول بكشد و اقيانوس هاي خون جاري شود.
 
-If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
+اگر به رشد اقتصادي و فني بشر نگاه كنيم كم و بيش خط صافي براي هزاره هاي مختلف ميبينيم كه لبه هاي بزرگ و تقريبي در چند صد سال اخير دارد. غير قابل تصور است كه جهش رژنتيكي گسترده اي ميتواند دليلي بر اين شتاب ناگهاني و عظيم در انسجام ذهني و موفقيت دنيوي باشد.نظريه ها ادعا ميكنند كه يك اثر پر شتاب خاصي وارد موجوديت و هستي شده كه به طور مرموزي توسط افزايش دانش پيش رانده ميشود، كه از آغاز تمدن اتفاق افتاده است و ميتواند با توضيحات گذشته از دست خارج شود چون ارزش قابل پيش بيني ندارد.
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+اگر بدانيم كه پتانسيل پراكنده ما براي دهها هزار سال در دسترس ميباشد، و سود و لذت زيادي در پرورش آن وجود دارد، يكباره آشكار ميشود و به طور قطع ميخواهيم كه از ذهن پرتحيرمان استفاده كنيم.
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+بنابراين بايد نيروي رو به پاييني وجود داشته باشد كه از نظر تاريخي آزادي طبيعي بشر را شكست دهد و به بندگي بگيرد.
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+در حيطه علوم، خيلي سخت نيست كه نيروهاي خرد كننده اي را ببينيم كه پيوسته ذهنمان را نزديك به جهل نخستين نگه دارد. تركيب خرافات زير سايه مذهب و خشونت بشكل اشراف گرايانه ، متفكران عقلاني را با ترساندن، زنداني شدن، شكنجه و قتل تهديد ميكند. همانطور كه كشاورزي از هوش پايين گاو خود سود ميبرد و يا برده داري از ترس بردگانش، كشيشان و پادشاهان ارزش خود را با تهديد كردن هر كسي كه جرئت فكر كردن داشته باشد، حفظ ميكنند.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+حقيقت ساده اين است كه كشيشان و شياطين كه گمان ميرفت قوانينشان بحق دانسته شود، هرگز وجود نداشته اند.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+ما گام هاي بزرگي در فهم طبيعت و حقيقت برابري انسانها برداشته ايم. اما حقيقت تلخ موضوع اين است كه قلمرو واقعيت هنوز در نقطه پوچ گم شده است- در توهمات مخرب حقيقت ميانه.
 
-### "Middle Truths"
+### "حقیقت میانه"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+بگذاريد در مورد اصول مخالف نقطه پوچي صحبت كنيم. جايي بين ادراك حسي و سازگاري مفهومي، حقايق ميانه ارتباطی است
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+حقايق ميانه خطرناكترين نوع اوهام هستند زيرا ظاهر حقيقت را قبول كرده اند در حاليكه در اصل به حقيقت حمله ميكنند.
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+با ايجاد وهم در مي يابيم كه حقيقت ميانه در واقع ما را از رسيدن به حقيقت باز مي دارد. آنها آخرين خط دفاع در برابر تمايلات، غارتگري و استثمار هستند.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+ از آنجايي كه آنها نه تنها فاقد نيروي فكر و استدلال هستند بلكه ضد عقلاني نيز ميباشند. حقايق ميانه تا بينهايت انعطاف پذير باقي ميمانند. تا جايي كه آنها را به خدمت بگيرد. مسيحيت از فاشيسم رو به رشد امپراطوري روم قديم بر خواسته است كه تا قسمتي در خرافات اوليه خداشناسي موجود به سختي مورد انتقاد قرار ميگيرد. خدايان قديم را فراموش كنيد ما نشاني از خدايي داريم كه بسيار بهتر است
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+حقايق ميانه هميشه با پيروي از دروغ شكل حقيقت را گرفته اند. زئوس وهمي كافرانه است؛ اين عبارت صحيح ميباشد كه توسط نوكيشان مسيحي ارائه شده بود. دروغي كه بدنبال آن آمده اين است: يهوه وهمي كافرانه نيست بلكه خداي واقعي و زنده است. 
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+ميتوانيم فدري اين موضوع را با مثالي شخصي سازي كنيم تا براي هر كس كه با دوستي ناكارآمد مشورت كرده، قابل درك و آشنا شود. دختري ميگويد دوست پسر قبلي من يك عوضي بود  و شما اغلب قبول خواهيد كرد، دختر اضافه ميكند كه  دوست پسر جديدش عالي است  شما سعي خواهيد كرد كه حرفهاي او را باور نكنيد.
 
-It is very hard not to replace one illusion with another.
+خيلي سخت است كه خرافه اي را با خرافه ديگر عوض كنيد.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+خيلي سخت است كه خرافه اي را با خرافه ديگر عوض كنيد، دولت بريتانيا حكومتي استبدادي است  اين جمله توسط انقلابيون آمريكايي در قرن هجدهم فرياد زده شد و پس از خروج نيروهاي بريتانيايي ، حكومت خود را بنا كردند و به شهروندان خود حمله كردند.
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+در حاليكه ديگر انقلابيون ميگفتند  اشرافيت پليدي ستمگرايانه است  و آنها كساني بودند كه استبداد اكثريت را به شكل دموكراسي برپا كردند.
 
-“Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
+"حقایق میانی" می تواند در علم نیز وجود داشته باشد و به همین ترتیب از پیشرفت طبیعی تبدیل شدن حقیقت های کوچک به حقایق بزرگ جلوگیری می کنند. به عنوان مثال ، تا قرن هجدهم ، زیست شناسان به نظریه خلق الساعه  یا  پیدایش خود به خودی حیات از مواد غیر زنده معتقد بودند. البته این باورهرگز با مشاهده تایید نشده بود اما مطابق با متون دینی و فلسفی قدیمی بوده ، بنابراین به عنوان یک حقیقت پذیرفته شده بود. همچنین پیش از انقلاب انیشتین در سال 1905 ، می پنداشتند  نور از طریق یک ماده مشخص و نامرئی به نام اتر منتشر می شود ، همانطور که امواج صوتی از طریق هوا حرکت می کنند. هیچ یک از دانشمندانی که به این نظریه اعتقاد داشتتند هیچ گونه شواهد تجربی برای ماده اتر چه شخصی و چه علمی ، نداشتند اما آن را برای مطابقت با ویژگی های قابل مشاهده دیگرلازم می دیدند.
 
-Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+دین یکی دیگر از حقایق میانی است ، یکی از خطرناک ترین آنها. تا آنجا که ما میدانیم ، این درست است که ما یک گونه منحصربه فرد در جهانیم. یک زرافه از بلندترین چهارپایان است اما انسان تنها یکی از نخستی سانان نیست ، بلکه چیزی کاملا متفاوت است. ماهیت این تفاوت تا حد زیادی ناشناخته باقی مانده است. توضیح دینی این که ما مانند حیوانات نیستیم زیرا روح داریم و توسط خدا آفریده شده ایم، نمونه ای دیگر از یک حقیقت میانی است. این درست است که ما نسبت به حیوانات متفاوت هستیم . این درست نیست که ما روح داریم و توسط خدا آفریده شده ایم .
 
-Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+همانطوریکه انگل ها تا زمانی که انگلهای پیشین را از جای خود برانند ، نمیتوانند ریشه بدوانند ، حقایق میانی نیز تنها با حمله به توهمات قبلی میتوانند جای خود را بگیرند. کسانی که نسبت به توهمات پیشین تردید دارند ، به سمت توهمات جدید کشیده می شوند. بنابراین مسیحیت جایگزین کفر و الحاد ، مارکسیسم جایگزین مسیحیت ، پست مدرنیسم جایگزین مارکسیسم ، دموکراسی جایگزین حکومت اشرافی شده است والی آخر.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+تا زمان دستیابی به حقایق بزرگ و پیوستن به حقایق کوچک ، حقایق میانی تنها در مسیر نادرست و مخرب خود دور باطل را طی میکنند و به طور خاص برای جلوگیری از دستیابی به حقایق بزرگ طراحی شده اند.
 
-And the great truths are always achieved from the little truths.
+و حقایق بزرگ همیشه از حقایق کوچک به دست می آیند.
 
-The world falls because a rock falls.
+جهان به خاطر افتادن یک صخره  فرومیریزد.
 
 ### "Middle Truths" And Exploitation
 
