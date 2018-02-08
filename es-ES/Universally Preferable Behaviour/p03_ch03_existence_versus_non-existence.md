@@ -54,7 +54,7 @@ La sociedad progresa exactamente al grado en el que la razón y la evidencia dan
 
 Decir que el gobierno opera bajo reglas morales opuestas a las del resto de la sociedad es exactamente lo mismo que decir “los duendes son inmunes a la gravedad”. En primer lugar, los duendes no existen - y una de las maneras por las que sabemos que no existen es porque se ha afirmado que son inmunes a la gravedad. Todo lo que tenga masa está sujeto a la gravedad - aquello que es inmune a la gravedad por definición no tiene masa, y por ello entonces no existe. La afirmación “los duendes son inmunes a la gravedad” es una redundancia, la cual solamente confirma la no-existencia de los duendes - es el equivalente semántico de “aquello que no existe, no existe”. A es A, la primera regla de lógica de Aristóteles, confirma escuetamente la existencia de aquello que es definido como no-existencia.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+De la misma manera, cuando decimos que es moralmente correcto para los soldados asesinar y para los representantes del gobierno robar, sabemos que los "soldados" y los "representantes del gobierno" como categorías morales son completamente inválidas.
 
 If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
 
