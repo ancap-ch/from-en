@@ -77,24 +77,26 @@
 9. در نهایت، من معتقدم که هر تئوری – بخصوص آن تئوری که به اندازه یک تئوری اخلاقی اساسی  باشد- کمی کارآمد است، اگر به طور محض آنچه را که هر کس به صورت غریزی در حال حاضر می داند را تایید کند. من سالها زندگی ام را برای تئوری اخلاق صرف نکرده ام تا حول اثبات کردن اینکه "قتل اشتباه است" بچرخم. به نظر من، بهترین نظریه ها آنهایی هستند که حقایقی که همه ما به صورت بصری درک می کنیم را تایید می کنند - و سپس از آن اصول برای فاش کردن حقایق جدید که ممکن است کاملا برخلاف شهود یا انتظارات عقلانی باشد استفاده می کنند.
 با صرف کردن چند سال از آخرین سالهای عمرم برای آماده سازی، آموزش، و بعد مبارزه با این جانور، امیدوارم با مقداری افتخار خودم را تبرئه کرده باشم. من معتقدم که من پیروز ظاهر شدم - هرچند که کاملا غیرقابل انکار نیست – و به پیشرو می نگرم که ببینم چه کسی این دیدگاه را به اشتراک می گذارد. [^ 2]
 
-I studied the history of philosophy in graduate school, and hold a Masters degree, but I do not have a PhD in philosophy. I am far from a publicly recognised intellectual. While I may not be the *most* unlikely champion, I am also far from the most likely. Whether I have succeeded or not is not up to you, and it is not up to me.
+من تاریخ فلسفه را در مکتب فارغ التحصیلی مطالعه کردم و یک مدرک کارشناسی ارشد دارم، اما من یک دکترای فلسفه ندارم. من دور از یک روشنفکر شناخته شده عمومی هستم. در حالی که ممکن است غیر محتمل *ترین* قهرمان نباشم، همچنین از محتمل ترین دور هستم. این که آیا من موفق شده یا نه، به شما بستگی ندارد، و به من بستگی ندارد.
 
-If the reasoning holds, the greatest beast is down.
+اگر استدلال ادامه یابد، بزرگترین جانور پایین آمده است.
 
-### A Modest Suggestion
+### یک پیشنهاد فروتنانه
 
-It is the height of audacity to suggest to readers how to read a book, but given the challenges of the task before us, I would like to make one small suggestion before we embark.
+این اوج گستاخی است که به خوانندگان پیشنهاد شود که چگونه کتاب را بخوانند، اما با در نظر گرفتن چالش های وظیفه ی پیش روی ما، دوست دارم پیش از شروع  یک پیشنهاد کوچک بدهم.
 
-If we lived in the fifteenth century, and I were trying to convince you that the world were round, I would put forward reams of mathematical and physical proofs. If you held a contrary opinion, you would naturally react with scepticism, and be inclined to quibble with every line of proof. However, if you and I could in fact sail around the world, and arrive back where we started without retracing our steps, you would be far more willing to accept the conceptual proofs for what you had already *experienced* to be true. You might find fault with a particular logical step or metaphor, but you would already agree with the conclusion, and thus would be more prone to help correct the details rather than reject the theory as a whole.
+اگر ما در قرن پانزدهم زندگی می کردیم، و من سعی می کردم که شما را متقاعد کنم که زمین گرد است، من تلی از برگه های اثبات های ریاضی و فیزیکی را مقابل تان می گذاشتم. اگر شما عقده ای متضاد داشتید، به طور طبیعی با شک و تردید واکنش نشان می دادید، و متمایل به کنایه زدن به هر خط از مدارک و اثبات ها می شدید. با این وجود، اگر شما و من می توانستیم در واقع دور دنیا سفر کنیم، و بدون اینکه مسیری را دوبار تکرار کنیم به جایی که از آن شروع کردیم بر می گشتیم، شما بسیار مشتاق تر بودید به پذیرفتن شواهد و اثبات ها برای آن چیزی که در حال حاضر *تجربه* کرده اید به عنوان حقیت. 
 
-If my task were to respond to every possible objection to every linguistic, logical and empirical step, this book would remain forever unfinished – and unread. Perfectionism is, in essence, procrastination, and I consider the task of this book to be too important – and the dangers of false morality too grave and imminent – to spend so long trying to achieve heaven that we all end up in hell.
+اگر ما در قرن پانزدهم زندگی می کردیم، و من سعی می کردم که شما را متقاعد کنم که زمین گرد است، من تلی از برگه های اثبات های ریاضی و فیزیکی را مقابل تان می گذاشتم. اگر شما عقده ای متضاد داشتید، به طور طبیعی با شک و تردید واکنش نشان می دادید، و متمایل به کنایه زدن به هر خط از مدارک و اثبات ها می شدید. با این وجود، اگر شما و من می توانستیم در واقع دور دنیا سفر کنیم، و بدون اینکه مسیری را دوبار تکرار کنیم به جایی که از آن شروع کردیم بر می گشتیم، شما بسیار مشتاق تر بودید به پذیرفتن شواهد و اثبات ها برای آن چیزی که در حال حاضر *تجربه* کرده اید به عنوان حقیت. شما ممکن است با یک گام منطقی یا استعاره مشکل داشته باشید، اما شما قبلا با نتیجه گیری آن موافق هستید، و به این ترتیب، به جای رد نظریه به طور کل متمایل به کمک برای تصحیح جزئیات آن می شدید.
 
-Thus I humbly suggest that you wait to see how effective the ethical framework I propose is at proving the most commonly accepted moral maxims of mankind before passing final judgement on the theory.
+اگر وظیفه ی من پاسخ دادن به هر ایراد ممکنی به هر چیز وابسته به زبانشناسی بود، گام های منطقی و تجربی این کتاب برای همیشه ناتمام – و نا خوانده باقی می ماند. کمالگراییف به ذات، تعویقی است، و من وظیفه ی این کتاب را این طور درنظر می گیرم که بیش از حد مهم باشد - و خطرات اخلاقيات غلط كه بسيار جدي و غيرقابل پيش بيني هستند - که بخواهد زمان زیادی را صرف سعی بر رسیدن به بهشت کند که در نهایت همه ما سر از جهنم در آوریم.
 
-I truly believe that the definition of a rational ethical framework is the most essential task that faces mankind. I truly appreciate your interest in this crucial matter – and would like as always to thank the wonderfully kind donators who have made this work possible.
+بنابراین من بطور خاضعانه پیشنهاد می کنم که شما صبر کنید تا ببینید که چارچوب اخلاقی که من پیشنهاد می کنم چقدر در اثبات حداقلی ترین اخلاق انسانی پدیرفته شده ی بشر موثر است پیش از تصویب قضاوت نهایی بر روی نظریه.
 
-I ride into battle well armed by others.
+من حقیقتا بر این باور هستم که تعریف یک چارچوب اخلاقی عقلانی، مهمترین وظیفه ای است که در برابر انسان قرار دارد. من واقعا علاقه شما به این موضوع حیاتی را درک می کنم - و مثل همیشه دوست دارم از اهداکنندگان با بسیار بخشنده که این کار را ممکن کرده اند تشکر کنم.
 
-[^1]: Most of these will be discussed in more detail throughout the course of this book.
+من به میدان نبرد می روم در حالیکه توسط دیگران به خوبی مسلح شده ام.
 
-[^2]: Of course, if I have failed, I have at least failed spectacularly, which itself can be both edifying and entertaining!
+[^ 1]: اکثر اینها در طول این کتاب با جزئیات بیشتری مورد بحث قرار خواهد گرفت.
+
+[^ 2]: البته، اگر من شکست خوردم، حداقل به طور زیبایی شکست خورده ام، که خود آن می تواند هم آموزنده و هم سرگرم کننده باشد!
