@@ -1,8 +1,20 @@
-This is a project's aim is to facilitate the writing, translation and publication (digital files) of libertarian and anarcho-capitalist text resources.
+This project aims to facilitate writing, translation and publication (digital files) of *libertarian* and *anarcho-capitalist* text resources.
 
-This is the "master" branch. If you intend to include your translations, please use the "utopian" branch: https://github.com/ancap-ch/from-en/tree/utopian . In this branch, each language has a directory, and then each book (or essay) project also has a directory.
+This is the root README file of *utopian* branch. Each language has a directory, which also has their own README file. Each language contains books or essays projects inside, which are a folder each one, with their own README files as well.
 
-Please, join in each language you are translating into, so you can help yourself to organize:
+Please, read those README files of the language and book/essay project *before* starting to contribute. Also, please check the community out, if any, of that language. Finally, I suggest you to *read some of the book*, partially translated, before starting a new translation or proofreading contribution.
+
+Technically, this is how the workflow unfolds:
+Besides this *utopian* branch, there are also the *master*, the *l10n_master* and *production* branches. Direct translations of the textual files should be pushed into this (*utopian*) branch. The *master* branch is used to upload english (original) files to crowdin, and to serve as a reference. Crowdin pushes it's users translations into the *l10n_master* branch, which will sporatically merged into this *utopian* branch.
+So if you intend to translate on crowdin, please, check if the file has been translated into the *utopian* branch first, because github translations on *utopian* will **not** be overwritten by crowdin translations.
+On a daily basis, the *utopian* branch translations will merge into the *production* branch, and PDF/Ebooks files will be created based on that (*production*) branch.
+
+The table below shows it's books/essays publications, daily generated, on Google Drive; It also shows the github project folder on *utopian* branch, for an easier access; Github proofreaders team, so you can visualize the users; and also, the language community available for general posting and discussion (the scope is not limited to the translation of the texts).
+
+If any question, don't be afraid to ask on the community, or crowdin, or here, by starting an issue.
+If you find some problem, we request you to open an issue on Github pointing to the problem you found - and thank you in advance.
+
+We hope you enjoy!
 
 | Code | Google Drive Language | Github repo | Github proofreaders | Ancap Channel |
 | ---- | --------------------- | ----------- | ------------------- | ------------- |
