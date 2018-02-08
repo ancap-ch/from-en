@@ -86,18 +86,19 @@ Y las grandes verdades son siempre alcanzadas mediante las pequeñas verdades.
 
 El mundo cae porque una roca cae.
 
+- Fixed until here
 
 ### Las "Medias Verdades" y la Explotación
 
 Biológicamente, el parasitismo es un estrategia totalmente válida de supervivencia para muchas criaturas. En la ausencia de normas éticas, robar energía y recursos a otras criaturas es perfectamente razonable. En general, la forma más sostenible y estable de parasitismo es la *simbiosis*, o la coexistencia mutuamente beneficiosa. Así las bacterias que habitan nuestros intestinos ayudan a su propia supervivencia al ayudarnos a digerir nuestra comida.
 
-Sin embargo, un virus que nos deja continuamente exhaustos y apenas capaces de mantenernos vivos, puede difícilmente denominarse "beneficio mutuo". Si pensamos en nuestra larga y sombría historia de desastres, hambre, guerra, enfermedades y pobreza – y la comparamos con los asombrosos éxitos materiales de la modernidad – está claro que una forma de parasitismo tiranizó nuestras mentes y capacidades por milenios. Ahora que los últimos cientos de años han mostrado el poder y la creatividad del espíritu humano, podemos ver nuestra especie como un organismo que se ha sacudido un terrible parásito y surgió desde un lecho de muerte sin fin para realizar las más asombrosas hazañas de la gimnasia.
+Sin embargo, un virus que nos deja continuamente exhaustos y apenas capaces de mantenernos vivos, puede difícilmente denominarse "beneficio mutuo". Si pensamos en nuestra larga y sombría historia de desastres, hambre, guerra, enfermedades y pobreza – y la comparamos con los asombrosos éxitos materiales de la modernidad - está claro que una forma de parasitismo tiranizó nuestras mentes y capacidades por milenios. Ahora que los últimos cientos de años han mostrado el poder y la creatividad del espíritu humano, podemos ver nuestra especie como un organismo que se ha sacudido un terrible parásito y surgió desde un lecho de muerte sin fin para realizar las más asombrosas hazañas de la gimnasia.
 
 Cuando nos curamos de una enfermedad, nos sentimos mejor, pero no la enfermedad. Desde la perspectiva del virus de la viruela, la vacuna contra la viruela es genocida.
 
-En el mismo sentido, los parásitos que estrangulan a la humanidad ven la libertad de la mayoría con horror. Ya que su parasitismo los libera de las demandas de la realidad – para ganar el pan de cada día – ellos inevitablemente ven la libertad de las masas como una forma de esclavizarse a si mismos. Así, un granjero vería la "liberación" de su ganado como un desastre total…
+En el mismo sentido, los parásitos que estrangulan a la humanidad ven la libertad de la mayoría con horror. Ya que su parasitismo los libera de las demandas de la realidad - Para ganar el pan de cada día - ellos inevitablemente ven la libertad de las masas como una forma de esclavizarse a si mismos. Así, un granjero varia la "liberación" de su ganado como un desastre total…
 
-Establecer la verdad necesariamente limita con la fantasía. Limitar la fantasía necesariamente limita con la explotación. Si puedo convencerte de que yo soy un dios hecho hombre, y que el Dios que me dio a luz quiere que me des el diez por ciento de tus ingresos, o serás castigado por la eternidad, entonces yo me haré extremadamente rico. Soy un parásito de las ilusiones y dependo de esas ilusiones para mi sustento seguro, como los hongos dependen del calor, la humedad – y la oscuridad.
+Establecer la verdad necesariamente limita con la fantasia. Limitar la fantasia necesariamente limita con la explotación. Si puedo convencerte de que yo soy un dios hecho hombre, y que el Dios que me dio a luz quiere que me des el diez por ciento de tus ingresos, o seras castigado por la eternidad, entonces yo me haré extremadamente rico. Soy un parásito de las ilusiones y dependo de esas ilusiones para mi sustento seguro, como los hongos dependen del calor, la humedad – y la oscuridad.
 
 Aquellos que usan fantasías morales para explotar la humanidad, siempre han luchado con uñas y dientes contra quienes amenazan su forma de vida al descubrir y difundir la verdad.
 
@@ -105,21 +106,22 @@ Estamos familiarizados con el ejemplo de la Mafia, que amenaza a rivales potenci
 
 Cuando los filósofos exponen las falsedades necesarias para una explotación continua, sin embargo, idealmente no pretenden establecerse como competidores. Ellos no quieren *reemplazar* la Mafia, o la iglesia – ellos quieren eliminarla por completo.
 
-Una analogía más moderna sería la relación entre el estado, cabilderos y contribuyentes. Los cabilderos atacarán ferozmente a otros cabilderos que compiten por los mismos dólares de impuestos. Sin embargo, imagina como *todos* los cabilderos se agruparían para atacar a cualquiera que proponga eliminar el estado como una institución.
+Una analogía mas moderna seria la relación entre el estado, cabilderos y contribuyentes. Los cabilderos atacarán ferozmente a otros cabilderos que compiten por los mismos dólares de impuestos. Sin embargo, imagina como *todos* los cabilderos se agruparían para atacar a cualquiera que proponga eliminar el estado como una institución.
 
-Los parásitos competirán agresivamente entre ellos por los recursos limitados del anfitrión, pero les conviene unirse para atacar cualquier cosa que amenace con eliminar al anfitrión en si mismo.
+Los parásitos competirán agresivamente entre ellos por los recursos limitados del anfitrión, pero les conviene unirse para atacar cualquier cosa que amenace con eliminar al anfitrión en si.
 
-De esta manera, en cualquier sociedad donde el estado y la iglesia son nominalmente separados, cada entidad tiende a competir por seguidores. Donde la iglesia empieza a perder terreno, el estado reclutará agresivamente patriotas – resultando en un socialismo secular. Donde el estado empieza a perder terreno, la iglesia agresivamente reclutará adeptos – resultado en el fundamentalismo religioso, a menudo con tintes de libertarismo.
+De esta manera, en cualquier sociedad donde el estado y la iglesia son nominalmente separados, cada entidad tiende a competir por seguidores. Donde la iglesia empieza a perder terreno, el estado reclutara agresivamente patriotas – resultando en un socialismo secular. Donde el estado empieza a perder terreno, la iglesia agresivamente reclutara adeptos – resultado en el fundamentalismo religioso, a menudo con tintes de libertarismo.
 
-Sin embargo, los filósofos que se oponen a *todo* error intelectual son los enemigos jurados de todos los parásitos que se alimentan de ilusiones. Las "grandes verdades" de la física eliminan la necesidad de agentes sobrenaturales, y hacen a los milagros imposibles. El poder explicativo de la ciencia eclipsa completamente las ficciones religiosas que están disfrazadas de conocimiento acerca del mundo físico.
+Sin embargo, los filósofos que se oponen a *todo* error intelectual son los enemigos jurados de todos los parásitos que se alimentan de ilusiones. Las "Grandes verdades" de la física eliminan la necesidad de agentes sobrenaturales, y hacen a los milagros imposibles. El poder explicativo de la ciencia eclipsa completamente las ficciones religiosas que están disfrazadas de conocimiento acerca del mundo físico.
 
+-------
 El método científico requiere que cada tesis esté respaldada por evidencia y racionalidad. Puesto que no hay evidencia de los Dioses – y que cada *idea* de los dioses es de por si -contradictoria- la tesis "dios existe" no se puede aguantar. Inevitablemente, los parásitos religiosos tratan de defender su tesis tratando de dividir la realidad en "dos reinos" – el científico y el espiritual. Sin embargo, no hay evidencia para la existencia de este reino "espiritual" en el presente, más de lo que había para el universo paralelo de las "Formas" platónicas hace dos mil quinientos años.
 
-Por lo tanto, el establecimiento de una verdad consistente y universal necesariamente limita y destruye el potencial de explotación de la ilusión. En particular, las "Grandes verdades" las cuales son universales y consistentes, hacen redundantes y ridículas las "medianas verdades" – que en realidad son fantasías de explotación. Estamos familiarizados las "media verdad" de la religion: algunos otros serán examinados y revelados aquí, algunos de los cuales pueden sorprenderlo.
+Por lo tanto, el establecimiento de una verdad consistente y universal necesariamente limita y destruye el potencial de explotación de la ilusión. En particular, las "Grandes verdades" las cuales son universales y consistentes, hacen redundantes y ridículas las "medianas verdades" - que en realidad son fantasías de explotación. Estamos familiarizados las "media verdad" de la religion: algunos otros serán examinados y revelados aquí, algunos de los cuales pueden sorprenderlo.
 
 ### Parasitismo Efectivo
 
-Los parásitos – o virus – más efectivos, son aquellos que engañan al cuerpo en la indiferencia. Nuestros sistemas inmunológicos están diseñados para atacar sustancias extrañas dentro del cuerpo; aislándolas y matándolas. Tememos al VIH, y el cáncer en particular porque son capaces de eludir nuestro sistema inmune. La misma técnica se utiliza por parásitos intelectuales para desactivar los sistemas de defensa de quienes se aprovechan.
+Los parásitos - o virus - mas efectivos, son aquellos que engañan al cuerpo en la indiferencia. Nuestros sistemas inmunológicos están diseñados para atacar sustancias extrañas dentro del cuerpo; aislándolas y matándolas. Tememos al VIH, y el cáncer en particular porque son capaces de eludir nuestro sistema inmune. La misma técnica se utiliza por parásitos intelectuales para desactivar los sistemas de defensa de quienes se aprovechan.
 
 Si un extraño te ataca en un callejón y te exige dinero, estarás horrorizado y consternado. Puede que te defiendas, puede que corras, o puede que le des tu cartera, pero quedara sorprendido, molesto o asustado por la interacción. Cuando repites la historia, dirás de una manera que refuerza la base y vil violación de tus derechos personales y a la propiedad. Otros sentirían compasión por su situación, y evitaran dicho callejón en el futuro.
 
