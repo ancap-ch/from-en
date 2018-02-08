@@ -1,0 +1,165 @@
+# this is a yaml file.
+# this is used to keep information about the text.
+# This file is intended to be read by other software.
+# The line spacing is meaningfull, this way the software can be simple.
+# ------------------------------------------------
+
+
+content_files: 
+  - ["01_pref2nd_ed.md", ""]
+  - ["02_pref1st_ed.md", ""]
+  - ["03_p01.md", ""]
+  - ["03_p01_ch01_01.md", ""]
+  - ["03_p01_ch01_02.md", ""]
+  - ["03_p01_ch01_03.md", ""]
+  - ["03_p01_ch02_01.md", ""]
+  - ["03_p01_ch02_02.md", ""]
+  - ["03_p01_ch02_03.md", ""]
+  - ["03_p01_ch02_04.md", ""]
+  - ["03_p01_ch02_05.md", ""]
+  - ["03_p01_ch03_01.md", ""]
+  - ["03_p01_ch03_02.md", ""]
+  - ["03_p01_ch03_03.md", ""]
+  - ["03_p01_ch03_04.md", ""]
+  - ["03_p01_ch03_05.md", ""]
+  - ["03_p01_ch04_01.md", ""]
+  - ["03_p01_ch04_02.md", ""]
+  - ["03_p01_ch05_01.md", ""]
+  - ["03_p01_ch05_02.md", ""]
+  - ["03_p01_ch05_03.md", ""]
+  - ["03_p01_ch05_04.md", ""]
+  - ["03_p01_ch06_01.md", ""]
+  - ["03_p01_ch06_02.md", ""]
+  - ["03_p01_ch06_03.md", ""]
+  - ["03_p01_ch07_01.md", ""]
+  - ["03_p01_ch07_02.md", ""]
+  - ["03_p01_ch07_03.md", ""]
+  - ["03_p01_ch07_04.md", ""]
+  - ["03_p01_ch07_05.md", ""]
+  - ["03_p01_ch07_06.md", ""]
+  - ["03_p01_ch08.md", ""]
+  - ["03_p02.md", ""]
+  - ["03_p02_ch13.md", ""]
+  # you can divide your files in smaller pieces, such as chapters or sections.
+  # they will be added in order.
+  
+translation:
+  language: en
+  # available languages: https://github.com/ancap-ch/genpdf/blob/master/const.yml
+
+  is_translation: true 
+  # false means this text is original.
+  # true means it's a translation of another text.
+
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/Economics and Ethics of Private Property Studies in Political Economy and Philosophy" 
+  # This should be unique, and show information about the translation progress of every file.
+  # Leave empty if this is an original text.
+
+  fetch_translators: true 
+  # fetch info about the crowdin project translators
+  # TODO
+
+  fetch_reviwers: true 
+  # about the reviwers
+  # TODO
+
+  fetch_progress: true 
+  # about the translation progress
+  # TODO
+
+# ------------------------------------------------
+
+# cover
+
+titles:  
+  - Economics~~~~~~~
+  - and Ethics~~~~~~
+  - ~~~~~~~~~~of~~~~~~~~~~
+  - Private Property
+  - Studies in Political~~
+  - Economy and Philosophy
+# each title line, which is expanded to fill the whole line width.
+# Place some tilde (~) to space it.
+
+# urls
+
+discussions: 
+  - ["https://en.ancap.ch/t/5","Ancap Channel"]
+more_infos: 
+  - ["https://www.google.com","Website name"]
+
+tags: 
+  - Some Tag
+  - Another Tag
+  - And so on
+tag_prefix: "https://en.ancap.ch/tags/"
+
+# ------------------------------------------------
+
+# TODO
+
+persons:
+
+    # authoring
+
+  - person:
+    identifier: "template_person"
+    rule: "author"
+
+    # collaborators and helpers
+
+  - person:
+    identifier: "template_person"
+    rule: "collaborator"
+  - person:
+    identifier: "template_person"
+    rule: "thanked"
+
+    # translation & revision
+
+  - person:
+    identifier: "template_person"
+    rule: "translator"
+  - person:
+    identifier: "template_person"
+    rule: "reviwer"
+
+    # artists
+
+  - person_:
+    identifier: "template_person"
+    rule: "cover_artist"
+  - person:
+    identifier: "template_person"
+    rule: "artist"
+
+# ------------------------------------------------
+
+# TODO
+
+resources:
+  - resource:
+    rule: "front_cover"
+    content: "cover.png"
+    websites:
+      - Resource website
+    description: Resource description
+    persons:
+      - "template_person" 
+
+# ------------------------------------------------
+
+# target settings
+
+# TODO
+
+targets: 
+  - target:
+    name: book
+    reset_footer_active: true
+    reset_footer_depth: 2
+    clear_page_active: true
+    clear_page_depth: 2
+    toc_depth: 3
+
+version: "0.1.2"
