@@ -1,58 +1,59 @@
 ## Existence Versus Non-Existence
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+Definimos “no-existencia” a eso que no posee masa o energía, o muestra los efectos de masa o energía, como ser relaciones detectables como la gravedad.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+Dios no posee masa o energía, ni muestra los efectos de masa o energía - Dios de hecho, no es detectable ni verificable de ninguna manera o forma, ya sea a través de los sentidos ni del raciocinio.
 
-Thus if I say, “God exists,” what I am really saying is:
+Por ende, si digo “Dios existe”, lo que realmente estoy diciendo es:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+“*Aquello que existe debe ser detectable; Dios no puede ser detectable, pero Dios existe - entonces aquello que no existe, existe*”
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+En otras palabras, al decir “Dios existe”, he creado una contradicción inquebrantable. He definido “existencia” como “no-existencia”, cosa que tiene tanto sentido como definir “vida” como “materia inanimada” o a una roca como “lo opuesto a una roca”, o a un “cuadrado” como un “círculo”.
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+SDe manera similar, si creo algún universo alternativo donde “no-existencia es igual a existencia” y “contradicción es igual a consistencia” y “verdad es igual a falsedad” y “irracionalidad es igual a racionalidad”, entonces lo que realmente he hecho es crear un reino llamado “error”, he puesto en él todo lo que no es verdad, y he definido este reino como un lugar donde “error es igual a verdad”.[^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Claro que, la gente no crea este “universo alternativo” a fin de invalidar la verdad dentro nuestro propio universo, si no para rescatar aquello que en realidad está errado, y llamarlo verdad. Por ejemplo, nadie que argumente que “Dios puede existir en otro universo, así que no puedes afirmar que Dios no existe” jamás argumentaría “Yo podría no existir en ese otro universo, así que tu no puedes afirmar que yo existo aquí”.
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+Ellos tampoco tienden a responder bien al argumento que: “En otro universo, tú podrías estar de acuerdo conmigo acerca de que Dios no existe, así que eso te hace un ateo.”[^3]
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+Si declaraciones válidas acerca de la realidad pueden ser refutadas infinitamente porque un reino imaginario llamado “error es igual a verdad” las invalida, entonces lo que realmente se está diciendo es “ninguna declaración positiva acerca de la verdad puede ser válida” - sin embargo, somos lo suficientemente sabios como filósofos por ahora para saber que esta misma declaración se contradice a sí misma, ya que es una declaración positiva considerada como verdadera que dice que ninguna declaración positiva puede ser verdad. Si nada puede ser verdadero o falso - incluso esa declaración - entonces no se puede hacer ninguna declaración sobre nada, en absoluto. Usando palabras, usando Inglés, usando oraciones completas - nada tiene sentido en absoluto, ya que en este “universo alternativo” ese tipo de expresiones estructuradas pueden ser un sinsentido completamente. So las cosas que pueden ser verdad en este universo alternativo tienen un efecto en las declaraciones que hacemos en este universo, entonces claramente lo inverso es verdad tambíen, lo cual significa que nunca se puede hacer ninguna declaración sobre nada, ya que su exacto opuesto también podría ser igualmente cierto.
 
-### The "Alternate Universe" In Human Society
+La realidad verdadera de la declaración “error es igual a verdad” es la locura redundante de “nulo es igual a nulo”.
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+### El “Universo Alternativo” en la Sociedad Humana
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+La razón por la que hemos perdido tanto tiempo lidiando con esta teoría del “universo alternativo” es porque tiene relevancia directa con la sociedad humana, y es usada para “justificar” los más grandes males que son cometidos entre nosotros.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+En nuestra experiencia personal, sabemos que el asesinato está mal. Trabajando a través de la premisa de que el asesinato está moralmente mal en los ejemplos más arriba, dudo profundamente que alguien se haya sorprendido al haber confirmado sus instintos morales a través del razonamiento estrictamente abstracto de UPB. En esta sección, sin embargo, es oficialmente permisible para usted el comenzar a estar verdaderamente sorprendido.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+Los más grandes avances en el entendimiento científico son las llamadas “teorías unificadoras”. Einstein pasó décadas tratando de lograr una teoría de campo unificada; y las teorías físicas que unen fuerzas poderosas y débiles, electromagnetismo, gravedad y demás, siguen esquivas.
 
-#### UPB In Action
+UPB como estructura, sin embargo, no solo justifica nuestros instintos morales en los niveles personal, filosófico y universal - sino que también tiene implicaciones profundas y sorprendentes para la sociedad humana.
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+#### UPB en Acción
 
-If we accept UPB, we must also accept the following corollary:
+La estructura UPB valida premisas morales al demandar que sean internamente consistentes, y universales en términos de tiempo, lugar e individuos.
 
-- Moral propositions are independent of costume.
+Si aceptamos UPB, debemos también aceptar la siguiente consecuencia:
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+- Las premisas morales son independientes de la vestimenta.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Lo que esto significa es que un hombre no puede cambiar su naturaleza moral junto con su atuendo. El acto de cambiarse la vestimenta no altera nuestra naturaleza fundamental. Por ende, oponerse a las reglas morales no puede ser válido basándose en la ropa que uno está usando.
 
-Let’s take another example.
+Los soldados, por supuesto, usan una vestimenta diferente a la del ciudadano promedio. El ciudadano promedio tiene prohibido asesinar; los soldados, sin embargo, no solamente tienen permitido asesinar, si no que son moralmente halagados por hacerlo.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Veamos otro ejemplo.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+El robo es moralmente malo, como hemos visto más arriba. Es moralmente malo para toda las personas en todas las situaciones en todo momento y bajo todas las circunstancias. Ya que el robo es quitarle a alguien su propiedad por la fuerza y sin su consentimiento, entonces los impuestos siempre, universalmente y para siempre, serán un mal desde el punto de vista moral. El sistema impositivo es por definición la quita de propiedad ajena por la fuerza y sin consentimiento, ya que se basa en la iniciación del uso de la fuerza para quitarle a alguien su propiedad.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Aquello que llamamos “el gobierno” es simplemente otro ejemplo de esta zona nula, en la que arriba es abajo, negro es blanco, verdad es falsedad y malo es bueno.
 
-### Government
+La sociedad progresa exactamente al grado en el que la razón y la evidencia dan el gran salto desde lo personal a lo universal, y destruyen cualquier zona nula irracional en su camino. La ciencia progresa exactamente al grado en que rechace la irracionalidad de Dios y “absolutos” subjetivos. La Medicina progresa exactamente al grado en que rechace la eficacia de la plegaria y rituales sin sentido, y en su lugar se base en la razón y la evidencia. La Filosofía también - y la sociedad humana en general - avanzará exactamente al grado en el que rechace la “moralidad cuadrado-círculo” irracional de las teorías éticas estatistas y religiosas.
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+### Gobierno
+
+Decir que el gobierno opera bajo reglas morales opuestas a las del resto de la sociedad es exactamente lo mismo que decir “los duendes son inmunes a la gravedad”. En primer lugar, los duendes no existen - y una de las maneras por las que sabemos que no existen es porque se ha afirmado que son inmunes a la gravedad. Todo lo que tenga masa está sujeto a la gravedad - aquello que es inmune a la gravedad por definición no tiene masa, y por ello entonces no existe. La afirmación “los duendes son inmunes a la gravedad” es una redundancia, la cual solamente confirma la no-existencia de los duendes - es el equivalente semántico de “aquello que no existe, no existe”. A es A, la primera regla de lógica de Aristóteles, confirma escuetamente la existencia de aquello que es definido como no-existencia.
 
 In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
 
