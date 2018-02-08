@@ -1,63 +1,63 @@
-## UPB: Ethics Or Aesthetics?
+## CUP: Ética O Estética?
 
-In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. A rapist, on the other hand, is violently inflicting his preferences upon his victim.
+En general, usaremos el término *estética* para referirse a preferencias no enforzables – universales o personales – mientras que *ética* o *moralidad* harán referencia a preferencias enforzables. Es *universalmente preferible* (es decir, requerido) utilizar el método científico para validar teorías físicas, pero no podemos utilizar la fuerza para *infligir* el método científico a aquellos que no lo usan, debido a que *no utilizar el método científico no es una acción violenta*. Las acciones no violentas por su naturaleza son *evitables*. Si un físico deja de usar el método científico, pero en cambio comienza a consultar cartas de tarot, él no está infligiendo de manera violenta su decisión en mi, y yo puedo evitarle. Un violador, por otro lado, está violentamente infligiendo sus preferencias sobre su víctima.
 
-Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
+Aunque nos enfocamos en CUP en el ámbito de la ética, CUP ahora puede ser visto como un "término paragua", que incluye disciplinas como:
 
-- The scientific method
-- Logic
-- Empiricism
-- Debating
-- Language
-- Ethics
+- El método científico
+- Lógica
+- Empirismo
+- Debate
+- Lenguajes
+- Ética
 
-Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+La ética es un subconjunto del CUP que se encarga del comportamiento *infligido*, o el uso de la violencia. Cualquier teoría que justifique o niegue el uso de la violencia es una teoría *moral*, y está sujeto a los requerimientos de la consistencia lógica y evidencia empírica.
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+Veamos tres acciones, para poder distinguir mejor entre la ética y la estética. La primera acción es la *irracionalidad*; la segunda es *mentir*; la tercera es *asesinato*.[^9]
 
-### Irrationality
+### Irracionalidad
 
-Let’s say that you and I are having a debate about the existence of God. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Digamos que tú y yo estamos teniendo un debate sobre la existencia de Dios. Después de presentar mis argumentos, aplaudes tus manos sobre tus orejas, cantando que Dios te está diciendo que Él existe, y por lo tanto todos mis argumentos son insignificantes. Claramente, tu respuesta a mi posición es irracional. No importe que tan fastidioso me parezca tu posición, sin embargo, apenas podría parecerme razonable desahogar mi frustración sacando una pistola y dispararte. Yo creo que es *universalmente preferible* utilizar la lógica y evidencias en lugar de confiar en las voces dentro de nuestras cabezas, pero esta preferencia universal no es razonablemente enforzable en el sentido *físico*, a través de la violencia o la amenaza en esto.
 
-### Lying
+### Mentir
 
-Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
+Digamos que tú y yo establecemos las reglas de un debate, y ambos acordamos juzgar la cuestión de la existencia de Dios de acuerdo a la razón y evidencia. Si, mientras continua el debate, usted retrocede a una posición de fé ciega, y rechaza mis argumentos *a pesar de* su racionalidad y evidencia, no estás manteniendo tu palabra. En otras palabras, estuviste mintiendo cuando digiste que la cuestión iba a ser decidida mediante la razón y evidencia.
 
-The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+La diferencia entre estas dos situaciones (irracionalidad versus mentir) es la diferencia entre un arreglo contractual y no contractual. Si yo te entrego cién dólares y después me voy, yo no puedo justamente acercarme a ti en un año y decir que me debes cién dólares, porque fue un préstamo. Si, por otra parte, accedes a pagarme de vuelta el dinero en un año, y después fallas en hacerlo, esa es una situación un poco diferente.
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+En el ejemplo de "mentir", aunque tú claramente has roto tu palabra, y me hiciste perder mi tiempo, no sería ni moral ni razonable para mi sacar una pistola y dispararte.
 
-A reasonable moral theory should be able to explain why this is the case.
+Una teoría moral razonable debería ser capáz de explicar por qué éste es el caso.
 
-### Murder
+### Asesinato
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+Si te acercas de manera repentina con un cuchillo levantado hacia mi, pocas personas discutirían sobre mi derecho de defenderme. Si dispararte fuese la única manera razonable de asegurar mi propia seguridad, sería generalmente considerado como una necesidad lamentable.
 
-### Requirements For Ethics
+### Requerimientos para la Ética
 
-Certain preconditions must exist, or be accepted, in order for ethical judgements or theories to have any validity or applicability. Clearly, choice and personal responsibility must both be accepted as axioms. If a rock comes bouncing down a hill and crashes into your car, we do not hold the rock morally responsible, since it has no consciousness, cannot choose, and therefore cannot possess personal responsibility. If the rock dislodged simply as a result of time and geology, then no one is responsible for the resulting harm to your car. If, however, you saw me push the rock out of its position, you would not blame the rock, but rather me. To add a further complication, if it turns out that I dislodged the rock because another man forced me to at gunpoint, you would be far more likely to blame the gun-toting initiator of the situation rather than me.
+Ciertas precondiciones deben existir, o ser aceptadas, para que los juicios o teorías éticas tengan validéz o aplicabilidad. Claramente, decisión y responsabilidad social deben ser ambas aceptadas como axiomas. Si una roca viene rebotando bajando de una colina y choca con tu carro, no tendremos a la roca como moralmente responsable, debido a que ésta no tiene consciencia, no puede decidir, y por lo tanto no posee responsabilidad personal. Si la roca deslizó simplemente como resultado del tiempo y geología, entonces nadie es responsable por el daño resultante en un carro. Sin embargo, si tu me viste empujar la roca fuera de su posición, no culparías a la roca, sino a mi. Para añadir aún mas complicaciones, si resulta que yo deslicé la roca porque otra persona me obligó a hacerlo mientras me apuntaba con una pistola, es mucho mas probable que culpes a la persona armada que inició la situación que a mi.
 
-As we have discussed above, entering into any debate requires an acceptance of the realities of choice, values and personal responsibility. However, these factors are also present in the choice of the colour of paint for a room, yet we would scarcely say that selecting a hue is a *moral* choice. Thus there must be other criteria which must be present in order for a choice or proposition to be moral.
+Como hemos discutido anteriormente, entrar a cualquier debate requiere una aceptación de las realidades de la decisión, valores y responsabilidad social. Sin embargo, estos factores también están presentes en la decisión del color de la pintura para un cuarto, pero podríamos vagamente decir que seleccionar un color es una decisión *moral*. Así, debe haber otro criterio que deba estar presente para que una decisión o proposición sea moral.
 
-We all have preferences – from the merely personal (“I like ice cream”) to the socially preferable (“It is good to be on time”) to universal morality (“Thou shalt not murder”).
+Todos tenemos preferencias – desde las que son simplemente personales ("Me gusta el helado") a las preferibles socialmente ("Es bueno estar a tiempo") hasta la moralidad universal ("Usted no debe asesinar").
 
-There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
+No tiene mucho sentido escribir un libro sobre preferencias personales – y podemos dirigirnos a Ann Landers para una discusión sobre el comportamiento socialmente preferible – aquí, luego, nos enfocaremos en la posibilidad de un *Comportamiento Universalmente Preferible*.
 
-### Choice
+### Elección
 
-If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+Si yo acepto tu invitación a una fiesta de cena, pero pienso que la conversación es muy ofensiva, puedo decidir levantarme e irme – y puedo también elegir mas nunca aceptar otra invitación tuya. Esta capacidad de escapar y/o evitar  es una característica escencial que diferencia la *estética* de la *ética*.
 
-If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
+Sin embargo, si cuando decido salir de tu fiesta de cena, saltas y me encadenas a una silla, claramente ya no tengo la libertad de irme. Este es el momento cuando tu indecencia se convierte en agresividad, y cruza la línea de estética a ética.
 
-If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I have certainly done her wrong, but the wrong that I have done by cheating would be very different from the wrong I would do if I lock her in the basement to prevent her from leaving. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does.
+Si, después de jurar por monogamia, engaño a mi esposa, y ella decide abandonarme, yo ciertamente le hice mal, pero la maldad de haberla engañado sería muy diferente a la maldad de haberla encarcelado en el sótano para prevenir que me abande. Generalmente, no consideraríamos una acción moral que una esposa le dispare a su esposo por infidelidad, pero reconoceríamos una necesidad lamentable que ella tuviese que utilizar la violencia para escapar de su aprisionamiento. En la primera situación, la esposa tiene la libre elección y capacidad para *abandonar* a su esposo, y así la violencia sería una respuesta injunta a la situación; en la segunda situación, su elección de abandonar a su esposo fue eliminada mediante el aprisionamiento. La infidelidad no destruye la capacidad de una pareja para decidir; apricionarla en un sótono sí lo hace.
 
-### Avoidance
+### Evitación
 
-If you and I are both standing at the top of a cliff, and I turn to you and say, “Stand in front of me, so I can push you off the cliff,” what would your response be? If you do voluntarily stand in front of me, and I then push you off the cliff, this would more likely be considered a form of suicide on your part, rather than murder on my part. The reason for this is that you can very easily *avoid* being pushed off the cliff, simply by refusing to stand in front of me.
+Si tú y yo estamos ambos parados en la cima de un precipicio, me dirijo a ti y digo, "Párate frente a mi, para poder empujarte hacia el precipicio", ¿cuál sería tu respuesta? Si voluntariamente te paras frente a mi, y depués te empujo hacia el precipicio, esto se consideraría más como una forma de suicidio de tu parte, en lugar de un asesinato de mi parte. La razón de esto debido a que puedes fácilmente *evitar* ser empujado hacia el precipicio, simplemente rechazando pararte frente a mi.
 
-Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death,” if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
+Similarmente, si te conozco en un bar, y digo: "Quiero que vengas conmigo a mi casa, para amarrarte en mi cama y así matarte de hambre" si de verdad vienes conmigo a mi casa, es con el conocimiento razonable de que tu longevidad no mejorará con tu decisión. Por otra parte, si yo meto una droga de "violación" en su bebida, y despiertas amarrada en mi cama, está claro que poco pudiste haber hecho para evitar esta situación.
 
-This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose.
+La cuestión de *evitación* es clave para diferenciar la estética de la ética. La estética aplica para situaciones que pueden ser no placenteras, pero que no eliminan tu capacidad de elección.
 
 #### Avoidance And Initiation
 
