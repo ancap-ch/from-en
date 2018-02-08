@@ -1,74 +1,74 @@
-## Existence Versus Non-Existence
+## Kewujudan Versus Tidak Ada
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+Kami mentakrifkan “tidak wujud” seperti yang tidak mempunyai massa atau tenaga, atau memaparkan kesan jisim atau tenaga, seperti sambungan yang boleh dikesan seperti graviti.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+Tuhan tidak mempunyai massa atau tenaga, atau mendedahkan kesan massa atau tenaga - Tuhan sebenarnya tidak dapat dikesan atau disahkan dengan cara apapun, bentuk atau borang, sama ada melalui deria, atau melalui rasional.
 
-Thus if I say, “God exists,” what I am really saying is:
+Jadi jika saya katakan, “Tuhan wujud,” apa yang saya katakan sebenarnya:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+“*Yang ada mesti dikesan; Tuhan tidak dapat dikesan, tetapi Tuhan ada - jadi apa yang tidak wujud, ada.*”
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+Dalam kata lain, dengan berkata “Tuhan wujud,” Saya telah mencipta percanggahan yang tidak boleh diperbaiki. Saya telah menentukan “kewujudan” sebagai “tidak wujud,” yang membuat kira-kira seperti yang ditentukan “kehidupan” sebagai “perkara yang tidak bernyawa,” atau batu sebagai “sebaliknya dari batu,” atau sebuah “persegi” sebagai sebuah “bulatan.”
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+Begitu juga, jika saya mencipta beberapa alam semesta alternatif di mana “bukan kewujudan bersama” dan “percanggahan bersama dengan konsistensi” dan “kebenaran sama dengan kepalsuan” dan “tidak rasional adalah sama seperti rasional,” maka apa yang saya benar-benar lakukan adalah mewujudkan sebuah dunia yang dipanggil “kesilapan,” letakkan semuanya di dalamnya yang tidak benar, dan menentukan sifat ini sebagai tempat di mana “kesilapan sama dengan kebenaran.”[^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Sudah tentu, orang tidak mencipta ini “alam semesta alternatif” untuk membatalkan kebenaran dalam alam semesta kita sendiri, tetapi untuk menyelamatkan apa yang salah dalam realiti, dan memanggilnya benar. Contohnya, tiada siapa yang berhujah “Tuhan mungkin wujud di alam semesta lain, jadi anda tidak boleh mengatakan bahawa Tuhan tidak wujud” pernah membantah “*I* mungkin tidak wujud di alam semesta lain, jadi anda tidak boleh menuntut bahawa saya di sini.”
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
+Mereka juga cenderung untuk tidak bertindak balas dengan hujah: “Dalam alam semesta lain, anda boleh bersetuju dengan saya bahawa Tuhan tidak wujud, menjadikan anda seorang atheis.”[^3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+Sekiranya kenyataan realiti yang sah dapat dihentikan tanpa henti kerana beberapa kawasan khayalan dipanggil “kesilapan adalah sama dengan kebenaran” membatalkannya, maka apa yang sebenarnya dikatakan adalah “tiada kenyataan positif tentang kebenaran boleh berlaku” – Walau bagaimanapun, kita cukup bijak kerana ahli falsafah sekarang mengetahui bahawa kenyataan ini bertentangan dengan dirinya sendiri, kerana ia merupakan pernyataan positif bahawa benar bahawa tidak ada pernyataan positif yang boleh benar. Jika tiada apa yang boleh benar atau salah - walaupun kenyataan itu - maka tidak ada pernyataan apa pun untuk dibuat tentang apa-apa. Menggunakan kata-kata, menggunakan bahasa Inggeris, menggunakan ayat-ayat yang dapat difahami - semuanya tidak masuk akal, kerana dalam hal ini “alam semesta alternatif” ucapan berstruktur seperti ini mungkin tidak masuk akal. Jika perkara-perkara yang boleh benar dalam alam semesta alternatif ini mempunyai kesan ke atas kenyataan yang kita buat di alam semesta ini, maka dengan jelas sebaliknya juga benar, yang bermaksud bahawa tidak ada kenyataan yang boleh dibuat tentang apa-apa, kerana lawannya yang tepat dapat sama.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+Kenyataan sebenar kenyataan itu “kesilapan adalah sama dengan kebenaran” adalah kegilaan tautologi “batal sama dengan batal.”
 
-### The "Alternate Universe" In Human Society
+### "Alternate Universe" Dalam Masyarakat Manusia
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+Sebab kami telah menghabiskan banyak masa untuk perkara ini “alam semesta alternatif” Teori ini adalah bahawa ia mempunyai hubungan langsung dengan masyarakat manusia, dan digunakan untuk “justify” jenayah terbesar yang dilakukan di kalangan kita.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+Dalam pengalaman peribadi kita sendiri, kita tahu bahawa pembunuhan itu salah. Dalam bekerja melalui cadangan bahawa pembunuhan secara moral adalah salah dalam contoh-contoh di atas, saya sangat meragui bahawa ada yang terkejut dengan naluri moral mereka melalui penalaran abstrak UPB yang ketat. Walau bagaimanapun, dalam seksyen ini, ia secara rasmi dibenarkan untuk anda mula benar-benar terkejut.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Lompatan besar ke hadapan dalam pemahaman saintifik adalah apa yang dipanggil “menyatupadukan teori.” Einstein telah menghabiskan beberapa dekad untuk menghasilkan teori medan bersatu; dan teori fizik yang menyatukan kekuatan yang kuat dan lemah, elektromagnetisme, graviti dan sebagainya masih sukar difahami.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+Bagaimanapun, UPB sebagai kerangka bukan sahaja membenarkan naluri moral kita menjadi peribadi, falsafah dan universal - tetapi juga mempunyai implikasi yang mendalam dan mengejutkan untuk masyarakat manusia.
 
-#### UPB In Action
+#### UPB Dalam Tindakan
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+Rangka Kerja UPB menyokong cadangan moral dengan menuntut agar mereka konsisten dan universal dari segi masa, tempat dan individu.
 
-If we accept UPB, we must also accept the following corollary:
+Jika kita menerima UPB, kita juga mesti menerima corollary berikut:
 
-- Moral propositions are independent of costume.
+- Rizab moral tidak bergantung pada pakaian.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Apa yang dimaksudkan ialah lelaki tidak dapat mengubah moral mereka bersama dengan pakaian mereka. Mengubah pakaian seseorang tidak mengubah sifat asas seseorang. Kemudian peraturan moral yang menentang tidak dapat terjadi berdasarkan pakaian yang digunakan.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Tentara, tentu saja, memakai pakaian yang berbeza dari warga biasa. Warga biasa dilarang membunuh; Tentera, bagaimanapun, bukan sahaja *dibenarkan* untuk pembunuhan, tetapi secara moral *memuji* untuk pembunuhan.
 
-Let’s take another example.
+Mari ambil contoh lagi.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Pencurian adalah salah secara moral, seperti yang telah kita lihat di atas. Ia adalah salah secara moral bagi semua orang dalam semua situasi pada setiap masa dan dalam semua keadaan. Oleh kerana kecurian memansuhkan harta benda orang lain tanpa izin, maka cukai sentiasa, secara keseluruhan dan selama-lamanya, jenayah moral. Cukai adalah berdasarkan definisi untuk penghapusan harta seseorang tanpa persetujuan mereka, kerana cukai bergantung kepada permulaan penggunaan kekerasan untuk melucutkan seorang lelaki hartanya.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+Apa yang kita panggil “kerajaan” hanya satu lagi contoh ini *zon batal* di mana ke bawah, hitam dan putih, kebenaran adalah kepalsuan dan kejahatan adalah baik.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Masyarakat berkembang dengan tepat sehingga alasan dan penjelasan menyebabkan lompatan besar dari personal ke universal, dan menghancurkan sebarang irasional *zon batal* dalam perjalanan. Ilmu berkembang dengan tepat sejauh mana ia menolak penolakan Tuhan dan subjektifnya “mutlak.” Perubatan tumbuh tepat pada tahap yang ia menolak keberkesanan doa dan ritual kosong, dan sebaliknya bergantung pada sebab dan bukti. Falsafah juga - dan masyarakat manusia pada umumnya - akan memajukan dengan tepat setakat mana ia menolak yang tidak rasional “moraliti bulatan” teori statistik dan etika agama.
 
-### Government
+### Kerajaan
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Mengatakan bahawa kerajaan beroperasi di bawah peraturan moral yang bertentangan seluruh masyarakat adalah seperti yang dikatakan, “leprechauns adalah kebal terhadap graviti.” Pertama sekali, leprechauns tidak wujud - dan salah satu cara yang kita tahu bahawa mereka tidak wujud adalah bahawa ia mendakwa bahawa mereka kebal terhadap graviti. Segala sesuatu yang mempunyai massa adalah tertakluk kepada graviti - yang kebal terhadap graviti mengikut definisi tidak mempunyai massa, dan oleh itu tidak wujud. Kenyataan “leprechauns adalah kebal terhadap graviti” adalah tautologi, yang hanya menegaskan ketiadaan leprechauns - bersempena dengan semantik “yang tidak wujud, tidak ada.” A adalah A, undang-undang pertama logik Aristotle, tidak bernilai sedikit untuk mengesahkan kewujudan yang ditakrifkan sebagai tidak wujud.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+Dengan cara yang sama, apabila kita mengatakan bahawa adalah baik untuk membunuh tentera dan wakil kerajaan untuk mencuri, kita tahu “askar” dan “wakil kerajaan” sebagai kategori moral *benar-benar tidak sah*.
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+Jika saya mengatakan bahawa lingkaran persegi mempunyai hak untuk mencuri, saya hanya mengatakan bahawa apa yang tidak boleh ada mempunyai hak untuk melakukan apa yang bertentangan dengan diri anda - kenyataan yang tidak munasabah, tetapi yang tetap menarik dalam “null zone” Politik.
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+Sekiranya saya membeli kostum tentera di kedai buku kedua, dan meletakkannya, saya dengan jelas tidak mencipta alam semesta alternatif di mana peraturan moral yang bertentangan boleh berlaku. Buat masa ini sebelum saya memakai kostum, adalah salah bagi saya untuk membunuh - apabila ia menjadi *betul* kepada saya pembunuhan itu? Apabila saya memakai seluar? Bagaimana jika saya mempunyai seluar dalam, tetapi bukan rompi? Bagaimana jika saya hanya mempunyai satu boot? Bagaimana dengan kedua-dua but, tetapi hanya satu bercampur? Bagaimana jika topi saya berada di belakang? Bagaimana jika saya memakai pakaian seragam yang tidak dikenali oleh orang pertama yang saya jumpai? Adakah Beatles tiba-tiba berhak membunuh apabila mereka menembak “Sergeant Peppers”? Adakah mereka kehilangan hak apabila mereka melepas jaket mereka?
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Saya bertanya soalan-soalan retorik ini kerana mereka sebenarnya mematikan. Jelas sekali, pakaian ketenteraan tidak mengubah sifat manusia, lebih daripada potong rambut menjadikan itik, konsep, atau Tuhan.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+“Ah,” awak boleh kata, “tetapi kostum itu tidak sah kerana anda mendapatnya di kedai tangan kedua - memakai pakaian seragam tentera tidak lagi menjadikan anda askar dari fokus doktor memberi anda Ph.D.”
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+Analogi tidak betul, kerana ia mempunyai Ph.D. atau salinan fotokopi doktor tidak mengubah apa-apa peraturan moral yang anda dikenakan sebagai manusia.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+“Baik,” anda boleh membalas, “tetapi perbezaannya adalah bahawa askar mempunyai hak moral yang diberikan kepadanya oleh warganegara biasa, untuk pertahanan diri kolektif dan sebagainya.”
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Ini menimbulkan titik yang sangat menarik, yang merupakan persoalan sama ada pendapat boleh mengubah realiti.
 
 ### Opinions And Reality
 
