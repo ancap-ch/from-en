@@ -23,6 +23,7 @@ The true reality of the statement “error equals truth” is the tautological i
 ### The "Alternate Universe" In Human Society
 
 Alasan bahwa kita telah menghabiskan begitu banyak waktu berhadapan dengan "dunia alternatif" teori adalah bahwa hal itu memiliki relevansi langsung terhadap masyarakat manusia, dan digunakan untuk "membenarkan" kejahatan terbesar yang dilakukan di antara kita.
+
 In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
 
 Terbesar lompatan maju dalam pemahaman ilmiah yang disebut "teori pemersatu." Einstein menghabiskan puluhan tahun mencoba untuk bekerja keluar unified field theory, dan teori-teori fisika yang bersatu yang kuat dan kekuatan lemah, elektromagnetik, gravitasi dan sebagainya tetap sulit dipahami.
