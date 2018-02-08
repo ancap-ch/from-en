@@ -36,55 +36,55 @@ Sa mga lumang mapa, bago maganap ang mga kartograpo sa kanilang mga pagtuklas, a
 
 Totoong pareho rin ito sa larangan ng moralidad.
 
-### The Casualties
+### Ang mga nasawi
 
-Crossing this “null zone” is fraught with peril. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+Ang pagtawid ng "null zone" ay puno ng panganib. Ang kalsada mula sa maliliit na katotohanan hanggang sa mahusay na mga katotohanan ay pinagbubukas ng mga  milyun-milyong buto. Mula sa pagkamatay ni Socrates sa tortyur ng mga unang siyentipiko ng mga relihiyosong panatiko, sa milyun-milyon na pinatay at namatay para sa mga itim na pantasya ng pasismo at komunismo, ang anumang pasulong na pagsulong ng kaalaman ng tao sa "null zone" ay puno ng malaking panganib .
 
-Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
+Dapat "tawirin ang null zone" - o walang putol na pinagsasama ang mga maliit na katotohanan sa mahusay na mga katotohanan - hindi pweding hindi maging mahirap at mapanganib? Ito ay isang napakalaking hamon upang pag-isahin ang pananaw na may haka-haka sa isang tuwid na linya ng lohikal na pangangatwiran - ngunit *dapat* ang pag-unlad na ito ay tumagal ng libu-libong taon at karagatan ng dugo?
 
-If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
+Kung titingnan natin ang pag-unlad ng teknolohikal at pang-ekonomiya ng sangkatauhan, makikita natin ang higit pa o hindi isang patag na linya para sa hindi mabilang na millennia, na sinusundan ng napakalaki at asymptotic na mga spike sa nakalipas na ilang daang taon. Ito ay hindi maipahiwatig na ang ilang laganap na genetic mutation ay pweding akawnt para sa biglaan at napakalaking pag-taas ng intelektwal na pare-pareho at materyal na tagumpay. Ang mga teorya na nag-aangkin na ang isang tiyak na "epekto ng snowball" ay nanggagaling, ang mahiwagang itinutulak ng isang akumulasyon ng lahat ng maliliit na dagdag na kaalaman na naganap mula sa bukang-liwayway ng kabihasnan, ay kadalasang maipapalabas bilang ganap na *ex post facto* ng mga paliwanag, dahil wala silang mahuhulaang halaga.
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+Kung naiintindihan namin na ang aming potensyal na pagsuray ay magagamit namin para sa hindi bababa sa libu-libong taon – at mayroong parehong malaking kita at kasiyahan sa paggamit nito – pagkatapos ay agad itong magiging malinaw na talagang nais *namin* na gamitin ang aming mga kamangha-manghang isip.
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+Kaya dapat magkaroon ng isang pababang puwersa na kasaysayan na kumilos upang durugin at alipinin ang likas na kalayaan ng sangkatauhan.
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+Sa larangan ng agham, ito ay hindi masyadong mahirap upang makita ang mga mapang-aping pwersa na patuloy na itinatago ang aming mga isip sa malapit-primeval na kamangmangan. Ang kumbinasyon ng pamahiin sa anyo ng relihiyon, at karahasan sa anyo ng aristokrasya, nanganganib sa may makatuwirang mga palaisip na may pananakot, pagkabilanggo, tortyur, at pagpatay. Tulad ng kita ng isang magsasaka mula sa mababang katalinuhan ng kanyang mga baka, at ang kita ng may-ari ng alipin mula sa takot sa kanyang mga alipin, ang mga pari at mga hari ay nagpanatili ng kanilang mga pribilehiyo sa pamamagitan ng pagbanta sa kamatayan ng sinumang naghahangad na mag-isip.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+Ang simpleng katotohanan na ang "mga saserdote" at "mga hari" ay - at ay - mga tao lamang. Ang simpleng katotohanan na ang mga diyos at mga demonyo na dapat ipagmatuwid ang kanilang pamamahala na hindi kailanman umiiral.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+Gumawa kami ng mahusay na mga hakbang sa pag-unawa sa kalikasan at katotohanan ng simpleng pagkapantay-pantay ng tao, ngunit ang malungkot na katunayan ng bagay na ang lupain ng *moralidad* ay nawala sa "zero zone" - sa mapanirang mga ilusyon ng "gitnang mga katotohanan."
 
-### "Middle Truths"
+### "Ang gitnang mga katotohanan"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+Tawagin natin ang mga salungat na prinsipyo na naninirahan sa "null zone" - sa pagitan ng pang-unawa ng kahulugan at konseptwal na pare-pareho - ang "mga gitnang katotohanan."
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+Ang mga "gitnang katotohanan" ay ang pinaka-mapanganib na ilusyon ng lahat, dahil binibigyan nila ang *anyo* ng katotohanan habang aktwal na*umaatake* ang katotohanan.
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+Sa pamamagitan ng pagbibigay ng ilusyon na natagpuan natin ang katotohanan, ang "gitnang mga katotohanan" ay talagang pumipigil sa atin na makuha ang katotohanan. Sila ang huling linya ng depensa para sa pantasya, predation at pagsasamantala.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Dahil hindi lamang sila ang hindi makatwiran, ngunit *anti* -rational, "gitnang mga katotohanan" ay nananatiling walang katapusang kakayahang umangkop - hangga't naglilingkod sila sa mga may kapangyarihan. Halimbawa, ang Kristiyanismo ay lumitaw mula sa lumalagong pasismo sa huli na Imperyong Romano nang bahagya sa pamamagitan ng paghagupit sa "primitibong" mga pamahiin ng umiiral na mga teolohiya. "Kalimutan mo ang iyong lumang mga diyos, mayroon kaming bagong tatak ng Diyos na mas mabuti!"
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+Ang "mga katotohanang nasa gitna" ay laging tumatagal ng anyo ng isang katotohanan, kasunod ng kasinungalingan. Ang "Zeus ay isang paganong pamahiin" na isang tunay na pahayag, na kung saan ay lantaran na ginawa ng mga Kristiyano proselytisers. Ang kasinungalingang sumunod na: "Ang Panginoon ay hindi isang paganong pamahiin, kundi isang tunay at buhay na Diyos."
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+Maaari naming i-pasadya ito ng kaunti para sa isang halimbawa na pamilyar sa sinuman na kailanman nagpayo sa isang dysfunctional na kaibigan. "Ang aking huling kasintahan ay isang tunay na haltak," sasabihin niya, at magkakasundo ka. "Ang aking bagong kasintahan ay talagang *mahusay* kahit na," siya ay idagdag, at susubukan mong huwag pagulungin ang iyong mga mata.
 
-It is very hard not to replace one illusion with another.
+Mahirap na huwag palitan ang isang ilusyon sa isa pa.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+"Ang Britanya ay may isang paniniil na gobyerno!" Sumigaw ang mga rebolusyonaryong Amerikano noong ikalabing walong siglo - at, pagkatapos na palayasin ang mga hukbo ng Britanya, itinatag nila ang kanilang sariling pamahalaan at sinimulan ang pagsalakay sa kanilang sariling mga mamamayan.
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+"Ang aristokrasya ay isang di-makatarungan na pagkasuklam!" Sumigaw ang iba pang mga rebolusyonaryo, na nagtatag ng paniniil ng karamihan sa anyo ng demokrasya.
 
-“Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
+Ang "mga katotohanang nasa gitna" ay pwedi ring umiiral sa agham, at maiiwasan din ang likas na pag-unlad mula sa maliliit na katotohanan hanggang sa mahusay na mga katotohanan. Hanggang sa ikalabing walong siglo, halimbawa, ang mga byologo ay naniniwala sa "kusang henerasyon," o ang paliwanag na ang buhay ay pweding lumitaw mula sa di-nabubuhay na bagay. Ito ay hindi kailanman naobserbahan, siyempre, ngunit sumusunod sa sinaunang pagsulat sa parehong pilosopiko at relihiyon, at kaya ay tinanggap bilang katotohanan. Gayundin, bago ang rebolusyon ng Einstein sa 1905, ang liwanag ay pinaniniwalaan na lumipat sa isang nakapirmi at hindi nakikitang sangkap na tinatawag na "luminiferous ether," tulad ng tunog ng alon na lumilipat sa hangin. Walang siyentipiko na naniniwala sa teorya na ito ay may anumang katibayan ng ebidensya para sa "ether," alinman sa pansarili o siyentipiko - ngunit ito ay itinuturing na kinakailangan upang sumunod sa iba pang mga kapansin-pansin na mga katangian.
 
-Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+Ang relihiyon ay isa pang "gitnang katotohanan" - isa sa mga pinaka-mapanganib na mga tao. Totoo na kami ay isang natatanging klase sa sansinukob, hangga't alam namin. Ang isang dyirap ay mas mataas na may apat na paa, ngunit ang tao ay hindi lamang isang "mas matalinong" unggoy, ngunit isang bagay na medyo naiiba. Ang likas na katangian ng pagkakaiba ay nananatiling hindi alam - ang paliwanag sa relihiyon ng "hindi tayo katulad ng mga hayop dahil mayroon tayong kaluluwa at nilikha ng Diyos" ay isa pang halimbawa ng isang "gitnang katotohanan." Totoo na tayo ay ibang-iba sa mga hayop. Hindi totoo na nilikha tayo ng isang diyos at may kaluluwa.
 
-Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+Kung paanong ang ilang mga parasito ay hindi makapag-ugat hanggang sa maalis nila ang mga naunang mga parasito, ang "gitnang mga katotohanan" ay umaatake lamang sa mga nakaraang mga ilusyon *upang magawa nila ang kanilang lugar*. Ang mga taong may pag-aalinlangan sa mga naunang mga pantasya ay inilabas sa bagong pantasya. Sa gayon ay inalis ng Kristiyanismo ang paganismo, ang Marxismo ay nagbago sa Kristiyanismo, ang paglalabas ng modernismo ay Marxismo, ang demokrasya ay naglubog sa aristokrasya, at iba pa.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+Hanggang sa ang mga dakilang katotohanan ay makamit, at magkakaisa sa mga maliliit na katotohanan, ang "gitnang mga katotohan" ay paikot na phalanx sa mapagsamantala at mapanirang mga kasinungalingan - partikular na idinisenyo upang maiwasan ang tagumpay ng mga dakilang katotohanan.
 
-And the great truths are always achieved from the little truths.
+At ang mga dakilang katotohanan ay laging nakakamit mula sa maliliit na katotohanan.
 
-The world falls because a rock falls.
+Ang mundo ay bumagsak dahil bumagsak ang isang bato.
 
 ### "Middle Truths" And Exploitation
 
