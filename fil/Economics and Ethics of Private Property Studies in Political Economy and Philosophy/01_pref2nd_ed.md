@@ -1,6 +1,6 @@
 ## Paunang Salita sa Ikalawang Edisyon
 
-Ang unang edisyon ng *Ang mga Ekonomika at Etiko ng Pribadong Pagmamayari* inilathala noong 1993, ay wala sa nalimbag sa loob ng ilang taon. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.
+Ang unang edisyon ng *Ang mga Ekonomika at Etiko ng Pribadong Pagmamayari* inilathala noong 1993, ay wala sa nalimbag sa loob ng ilang taon. Para sa ilang oras at mula sa maraming mga dako ako ay nakiusap para ihanda ang isang bagong edisyon, at si Llewellyn Rockwell ay mabait na nagalok na ang Ludwig von mises na Intitusyon para paglingkuran bilang tagapaglatha.
 
 *The Economics and Ethics of Private Property* was dedicated to my teacher and mentor, Murray N. Rothbard, with whom I had been closely associated during the last ten years of his life, first as a visiting scholar at the Brooklyn Polytechnic Institute in New York City and after 1986 as a colleague at the University of Nevada, Las Vegas. The year 2005 marks the tenth anniversary of Rothbard’s death. Thus, it seemed a most appropriate time to honor Murray anew with this second edition.
 
