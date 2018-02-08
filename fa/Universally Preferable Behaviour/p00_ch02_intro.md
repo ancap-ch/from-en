@@ -1,40 +1,40 @@
-## Introduction
+## مقدمه
 
-For countless generations, mankind lived in a kind of egocentric womb of self-imposed ignorance: the world was flat, the sun, moon and stars revolved around him, ancestors beckoned to him from beyond the mists of death, and thunder was the anger of the gods.
+برای نسل بیشماری بشر در خودخواهی ناشی از تحمیل جهل به خود زندگی می کند.دنیا شامل زمین مسطح خورشید ماه و ستارگانی که به دور او می چرخند.گذشتگان اورا به سمت ابهامات مرگ فرا می خوانند و رعد وبرق خشم خدایان است.
 
-Burrowing out from this narcissistic womb of subjective interpretation required the labour of millennia – and cost the lives of millions. The effort required to wrench our perspective from *perceptual experience* to *conceptual logic* was terrifying, exhilarating, highly disorienting and extremely dangerous. Understanding that the world was not what it *felt like*, or *seemed like*, was – and remains – the greatest feat of our intelligence. The *truth* of reality turned out to be in the eyes of the mind, not of the flesh.
+برای رهایی از این خودشیفتگی ناشی از تفکرات ذهنی تلاش هزار ساله وبهای زندگی میلیون ها نفر ضروری است.تلاش لازم برای تغییر دیدگاه ما از تجربه ادراکی  به منظق مفهومی وحشتناک هیجان انگیز بسیار ناسازگار وخطرناک است.درک اینکه جهان ان چیزی نیست که احساس کرده ایم و یا به نظر میرسد بزرگترین شاهکار هوش ماست و باقی می ماند.درستی واقعیت معلوم شد که در چشم ذهن است نه گوشت.
 
-The world looks flat; it is not. The sun and the moon look the same size; they are not. The stars seem to move around the earth; they do not. Learning the truth requires that we see the world from outside our senses – this does not mean a rejection of our senses, but an airtight compliance with the *real* evidence of the senses, which is not that the world is flat, but that matter, energy and physical laws are consistent. When we let go of a rock in our hand, it falls – this is the *real* evidence of the senses, not that the Earth is fixed and immovable. The idea that the world is immobile is an incorrect assumption that contradicts the direct evidence of our senses, which is that everything falls. If everything falls, the world cannot be fixed and immovable.
+جهان به نظر می رسد مسطح است که این نیست.خورشید و ماه به نظر می رسد اندازه یکسانی دارند که اینطور نیست.به نظر می رسد ستاره ها به دورزمین میچرخند که اینطورنیست. یادگیری حقیقت مستلزم آن است که ما جهان را از خارج از حواسمان ببینیم - این به معنای رد حس های ما نیست. بلکه انطباق قطعی با شواهد  واقعی  حواس است. نه اینکه جهان مسطح است.اما مواد انرژی وقوانین فیزیکی سازگار هستند.هنگامی که ما اجازه می دهیم سنگی را در دست بگیریم، افتادن آن مدرک حقیقی حسی است نه اینکه زمین ثابت و غیرقابل تحمل است. این ایده که جهان ثابت است، فرض اشتباه است که با شواهد مستقیم حواس ما مخالف است، که هر چیزی می افتد. اگر همه چیز می افتد، جهان نمی تواند ثابت و .غیرقابل تحمل باشد
 
-These are the little truths of the everyday; that rocks fall, smoke rises, fire is hot and the sun and the moon are both round. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
+این حقیقت کوچکی از هرروز ما است؛ که سنگ ها سقوط می کنند، افزایش دود، آتش گرم است و خورشید و ماه هر دومی چرخند. اگر به طور مستمر و دقیق به این حقیقت های کوچکی متعهد باقی بمانیم، می توانیم در حقیقت حقایق بزرگ فیزیک را به دست آوریم که دانش و قدرت بسیار خوبی .را به ما می دهد
 
-In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
+با این حال، در فیزیک و اخلاق بین حقیقت های کوچک و بزرگ، توهماتی هستند که ما را کور می کنند.
 
-In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+در فیزیک، حقایق بزرگ نمی توانند با حقیقت های کوچک مخالفت کنند. هیچ نظریه میدانی یکپارچه نمیتواند به طور قابل اعتماد تجربه حسی مستقیم ما  رااز یک سنگ در حال سقوط یا یک شعله در حال افزایش نقض کند. بزرگترین تئوری ریاضی را نمی توان معتبر دانست باکاربرد .آن تغییرات نادرست در بررسی جواب برگردانده میشوند
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
+با این حال، از لحاظ تاریخی، در میان حقیقت های کوچک خودمان و حقیقت های بزرگ، آنچه که من آنرا ناحیه ناخودآگاه می نامم دروغ است.
 
-### The "Null Zone"
+### ناحیه ناخودآگاه 
 
-We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+ما به فرزندانمان می گوییم که به یکدیگر ضربه نزنید، و ما معتقدیم که خشونت به صورت انتزاعی اشتباه است، به عنوان یک قانون اخلاقی کلی. حقیقت کوچک این است ضربه نزنید. حقیقت بزرگ این است که خشونت اشتباه است.
 
-However, there exists in our minds an imaginary entity called “God,” and this entity is considered perfectly moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+با این حال، در ذهن ما موجودیتی پنداری به نام خدا وجود دارد و این موجودیت کاملا معنوی است. متأسفانه، این وجودیت به طور مداوم و عمیقا نقض قانون اشتباه بودن خشونت با غرق شدن در جهان است، اعطای جان به جهنم، با وجود پیش بینی کامل از "تصمیمات" خود، مجازات تجاوز، قتل، سرقت، حمله و اقدامات دیگر که ما تمایل  داریم هرفردی را به عنوان کاملا شرور محکوم کنیم.
 
-Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
+ بنابراین ما حقیقت کوچک را ضربه نزنید و حقیقت بزرگ (خشونت اشتباه است) داریم ، اما در این بین ناحیه خالی داریم  که در آن به طورکامل در مقابل هر دو حقایق کوچک و بزرگ مطرح شده است که کاملا درست است.
 
-Historically, we can see the same inconsistency in physics. There are no perfect circles in our direct experience, but because of a belief in God, all planetary motion had to be a “perfect circle” – a premise that retarded astronomy for centuries. Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth,” but as a *great truth*, or universal principle. Yet for most of human history, it was believed that the stars and planets rotated around the Earth, rather than that the Earth rotated. Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
+ از لحاظ تاریخی، ما می توانیم همان تناقض در فیزیک را ببینید. در تجربه مستقیم ما هیچ دایره ای کامل وجود ندارد، اما به دلیل اعتقاد به خدا، حرکت تمام سیاره ها باید "دایره ای کامل" باشد و فرضیه ستاره شناسی قرن  پیش به همین ترتیب، اگر یک مرد سر خود را بچرخاند، به طور منطقی اعتقاد ندارد که کل دنیا در اطراف او چرخش دارد - و او با خوشحالی می تواند آن را نه تنها به عنوان «حقیقت کوچک» خود، بلکه به عنوان یک حقیقت بزرگ * یا اصل جهانی پیش ببرد. با این حال برای بسیاری از تاریخ بشر، اعتقاد بر این بود که ستارگان و سیارات در اطراف زمین چرخیدند، نه اینکه زمین می چرخد، در اینجا دوباره می توانیم  ناحیه صفر  بین تجربه حس مستقیم و اصل جهانی را ببینیم، در حالی که اصول کلی در مقابل اصول مطحرح شده کاملا معتبر هستند.
 
-No sane man experiences God directly. In his daily life, he fully accepts that *that which cannot be perceived does not exist*. No reasonable man flinches every time he takes a step, fearing an invisible wall that might be barring his way. The greatest abstractions of science support his approach.
+هیچ انسان عاقل مستقیما خدا را تجربه نمی کند. در زندگی روزمره او به طور کامل می پذیرد که آن چیزی که نمی تواند درك شود، وجود نداردهرمرد معقولی هر لحظه جا میزند تا یک قدم بردارد، ترس از دیوار نامرئی که ممکن است مانع راه آن شود. بزرگترین انتزاع علم از رویکرد او حمایت می کند.
 
-Conversely, in the “null zone” of religion, the *exact opposite* of both the little truths and the great truths is believed to be true. Personally, a man believes that *that which cannot be perceived does not exist* – intellectually, science has proven this repeatedly. However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
+برعکس، در ناحیه خالی دین، دقیق در مقابل هر دو حقیقت کوچک و حقایق بزرگ باور درستی است. شخصا، یک مرد معتقد است که آنچه که قابل درک نیست، انجام نمی دهد و به لحاظ علمی وجود دارد، علم این را بارها ثابت کرده است. با این حال، در ناحیه خالی الهیات، در حقیقت در مقابل قضیه درستی است و اصولا چیزی که نمیتوان آن را درک کرد باید وجود داشته باشد.
 
-Our belief in the virtue of the military also lies in this “null zone.” If a private man is paid to murder another man, we call him a “gun for hire,” and condemn him as a hit man. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
+ اعتقاد ما به فضیلت نظامی نیز در این ناحیه خالی قرار دارد. اگر یک فرد خصوصی توسط مرد دیگری کشته شود، ما او را تفنگدار می نامیم و او را به عنوان یک مرد متهم محکوم می کنیم. با این حال،اگر این مرد لباس  سبز را با نوارهای خاصی بپوشد و همین عمل را مرتکب شود، ما او را به عنوان یک قهرمان می شناختیم و به او حقوق می دهیم ، حقیقت کوچک من نباید قتل عام کاملا باید با حقیقت بزرگ مطابقت داشته باشد و قتل اشتباه است در عین حال در وسط یک  دروغ ناحیه خالی وجود دارد، جایی که قاتل جادویی با فضیلت می شود
 
-If this “null zone” is valid, then no logical proposition can ever hold. If a proposition is true – and the exact opposite of that proposition is also true – then logical reasoning becomes impossible. The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
+اگر این ناحیه صفر معتبر باشد، هیچ گزاره منطقی هم نمیتواند داشته باشد. اگر یک گزاره درست باشد ، و دقیق مخالف آن گزاره نیز درست است و سپس استدلال منطقی غیرممکن می شود. رشد علم منطقی حمله مستمر به این ناحیه ناخودآگاه است و تهاجم به تحقق یکپارچگی عینی در این جنجال بسته ی کوچکی از خیالات ذهنی بوده است.
 
-In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
+در نقشه های قدیمی، قبل از اینکه نقشه کاران اکتشافات خود را به اتمام برسانند، طرح زمین شناخته شده برروی کاغذ خالی کم کم محو می شوند. رشد دانش نیاز به اولویت بندی آنچه که شناخته نشده نیست، وبنابراین گسترش اصول شناخته شده به مناطق ناشناخته است.
 
-The same is true in the realm of morality.
+همین امر در قلمرو اخلاق درست است.
 
 ### The Casualties
 
