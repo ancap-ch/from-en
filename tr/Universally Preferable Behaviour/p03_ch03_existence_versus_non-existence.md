@@ -8,7 +8,7 @@ Bu yüzden eğer “Tanrı var” dersem, gerçekte söylediğim şudur:
 
 “*Var olanın saptanabilir olması gerekir; Tanrı saptanamaz, ancak Tanrı vardır - bu nedenle Tanrı, varolmayan, vardır.*”
 
-Başka bir deyişle, “Tanrı var” diyerek, aşılmaz bir çelişki oluşturdum. “Varoluşu”u, “varolmayış” olarak tanımladım, “hayatı”, “cansız madde” veya “kayayı”, “kayanın zıddı” olarak ya da “kare”yi, “daire” olarak tanımlamak ne kadar mantıklıysa, bu da o kadar mantıklıtır.
+Başka bir deyişle, “Tanrı var” diyerek, aşılmaz bir çelişki oluşturdum. “Varoluşu”u, “varolmayış” olarak tanımladım, “hayatı”, “cansız madde” veya “kayayı”, “kayanın zıddı” olarak ya da “kare”yi, “daire” olarak tanımlamak ne kadar mantıklıysa, bu da o kadar mantıklıdır.
 
 Benzer şekilde, “varolmayışın varoluşa eşit olduğu”,  “çelişkinin tutarlılığa eşit olduğu”, “hakikatin sahteye eşit olduğu” ve “mantıksızlığın akılcı olmaya eşit olduğu” alternatif bir evren yaratırsam, gerçekte yaptıpım şey; “yanlış” adı verilen bir yer yaratıp, doğru olmayan her şeyi onun içine koymak ve bu yeri “yanlış doğruya eşittir” şeklinde tanımlamaktır.[^2]
 
