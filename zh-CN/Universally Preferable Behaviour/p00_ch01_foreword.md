@@ -1,58 +1,56 @@
-## Foreword
+## 前言
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+在许多童话故事中，常常会出现一种有着巨大力量的可怕野兽，比如一个恶龙或蛇怪，它对周围的土地进行暴虐。当地村民在这个怪物面前发抖;他们为了安抚自己的杀人冲动，不惜牺牲自己的动物、金钱和鲜血。
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+大多数人在这只野兽的阴影下畏缩不前，把他们自己的恐惧称为“谨慎”，但也有一些有勇无谋的人决定反抗。日复一日，年复一年，一波又一波的充满希望的神勇斗士试图用他们的力量、美德和狡诈与这个可怕的暴君进行对抗。
 
-Try – and fail.
+屡战屡败。
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+这只野兽永远也无法被打败，所以村民们不能寄希望于时间来摆脱他们的暴君。这只野兽从来都不是理性的，也没有交易的欲望，因此也不可能进行任何谈判。
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+绝望的村民唯一的希望就是能出现一个能够打败野兽的人。
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+无可避免的是，当一个人脚步太快，则其他人都无法跟他保持步调一致。他是一个稳重的男孩，一个鞋匠的儿子，一个面包师的学徒，有时甚至是一个流浪儿。
 
-This book is the story of my personal assault on just such a beast.
+这本书就是关于我个人对抗这样一只野兽的故事。
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+这只“野兽”是一种信仰，认为要定义一个客观、理性、世俗和科学的伦理体系是不可能的。这只“野兽”是一种错觉，仅仅为了实用主义，就认为道德必须永远迷失在上帝和政府的非理性沼泽中，但却永远缺乏合理的理由和清晰的定义。这只“野兽”是一种幻想，认为美德，我们最大的快乐，我们最深的幸福，必须被世俗的成年人抛弃，留在尘土中，被政治家、牧师和父母们所盘弄、炫耀和利用。这只“野兽”是一种迷信，认为没有父母的长篇大论，没有上帝的欺侮，也没有政府的枪，我们就无法做到理性和善良。
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+从苏格拉底到柏拉图，从奥奥古斯丁到休谟，再到从康德到兰德，这只野兽打倒了许多伟大的英雄。
 
-The cost to mankind has been enormous.
+人类付出的代价是巨大的。
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+因为我们仍然无法定义一个理性的普遍道德体系，我们被迫给我们的孩子讲述宗教恐怖故事，或者把枪支、监狱和军队交给一个自称为“国家”的没有灵魂控制的小垄断体系。
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+因为我们称之为“道德”的东西仍然是主观的，而且是“文化的”，因此我们会不可避免地依赖于欺凌、恐惧和暴力来执行社会规则。因为道德缺乏科学方法的理性基础，“道德”仍然陷入一场血腥神话的部落战争中，每一群人都为了控制人们对美德的忠诚而竭尽所能。
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+我们的生活离不开道德，而我们却又不能客观地定义道德-因此，我们空虚的一生总是无法摆脱自大虚伪，愤世嫉俗和虔诚的奴性。
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+从理性角度来说，世界上没有比这风险更高的了。在宗教和国家的战争中，因为我们未能定义客观和理性的道德规则，造成了数亿人的生命损失。
 
-In many ways, the stakes are getting even higher.
+从许多方面来看，这种风险正日渐提高。
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+互联网信息流的增加,引起了新一代人的猜疑,即所谓的"美德",无非是他们伪善的长辈们的自私童话而已。当权者所说的虔诚的谎言, 以及那些崇拜这些人的同谋, 现在比以往任何时候都清楚。
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+当“真理”被披露为一种操纵；“美德”被披露为一种控制；所谓的“道德”，被揭露为一个可笑的木偶剧，目的是为了欺骗弱小和恐惧的人们，使他们被奴役。
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+这种认识催生了新一代的虚无主义者，就像19世纪的德国一样。这些极端的相对主义者，为那些声称任何形式的确定性的人保留了他们最尖刻的攻击。后现代的一代已经超越了他们共同历史的文化偏见，现在把所有的真理都看作是一种前司法的断言。就像那些天真的孩子们，他们都被玩世不恭的“智慧”所伤害，他们把所有的交流都看作是广告，所有的主张都看作是政治宣传，所有的道德劝诫都看作是虚伪的偷窃。
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+由于我们无法就一个有凝聚力的、客观的、理性的评价道德命题的框架达成一致，“道德”仍然陷于神秘主义的泥潭，它不可避免地导致了暴力的必然结果。就像在启蒙运动之前，宗教派别无休止地争夺对贵族的控制，所以现在要利用道德神话的战争和所有的强制手段来控制国家。
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+这只“道德”野兽在我们上方若隐若现，对我们进行了掠夺，为税收、监禁、审查和战争辩护。它在公立学校和星期天的教堂里奴役年轻人;它使穷人在福利的软福利中被困住;它甚至把未出生的人都奴役在国家债务的无底洞里。
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+正如我在上一本书中所写的，“真理:幻想的暴政”，就是在未经证实的道德理论的中心的最基本的谎言，这些理论总是以客观和无可辩驳的事实呈现给儿童, 而事实上它们只是文化上的偏执。科学家不需要政府或梵蒂冈的原因是科学家有一种客观的方法来解决争议:科学方法。语言不需要中央权威来指导其发展的原因是，它是一个依赖于个人对风格和效用的个人偏好的“自由市场”。
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+在历史上，现代道德和道德总是首先要依赖于孩子们的欺凌，其次是对成年人的威胁，因为道德就是一个伪装成美德的谎言。
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+事实是我们需要道德；而谎言是，神或政府认为可以理性地定义或公正地执行它。
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+我在这本书里的目标是定义一种方法来验证客观、一致、清晰、理性、经验和真实的道德理论。
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+我完全明白，在此刻，你很可能会感受到会在内心升起一股怀疑的浪潮。我完全明白，有一些人在互联网上-疯子的故乡-在某种程度上解决了这个时代的哲学问题，但这种程度不是特别高，甚至接近于零，几乎是无法区分的。
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
-
-Still, not *quite* zero.
+不过,也不完全是零。
 
 ### Ground Rules
 
