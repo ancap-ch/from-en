@@ -1,10 +1,10 @@
-## Kata Pengantar untuk Edisi Kedua
+## দ্বিতীয় সংস্করন এর প্রবন্ধ
 
-The first edition of *The Economics and Ethics of Private Property*, published in 1993, has been out of print for several years. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.
+1993 সালে প্রকাশিত 'দ্য ইকোনোমিক্স অ্যান্ড এথিক্স অফ প্রাইভেট প্রপার্টি'-এর প্রথম সংস্করণ, কয়েক বছরের জন্য মুদ্রণের বাইরে চলে গেছে। অনেক সময় এবং অনেক পক্ষ থেকে আমাকে একটি নতুন সংস্করণ প্রস্তুত করার জন্য জোর করা হয়েছে, এবং Llewellyn Rockwell অনুগ্রহপূর্বক তার প্রকাশক হিসাবে পরিবেশন করার জন্য প্রতিষ্ঠান হিসেবে Ludwig von Mises দেওয়া হয়েছে।
 
-*The Economics and Ethics of Private Property* was dedicated to my teacher and mentor, Murray N. Rothbard, with whom I had been closely associated during the last ten years of his life, first as a visiting scholar at the Brooklyn Polytechnic Institute in New York City and after 1986 as a colleague at the University of Nevada, Las Vegas. The year 2005 marks the tenth anniversary of Rothbard’s death. Thus, it seemed a most appropriate time to honor Murray anew with this second edition.
+*দ্য ইকোনোমিক্স অ্যান্ড এথিক্স অফ প্রাইভেট প্রপার্টি* উৎসর্গীকৃত করছি যে আমার শিক্ষক এবং পরামর্শদাতা ছিল Murray Nard. Rothb, যার সাথে আমি তার জীবনের শেষ দশ বছরে ঘনিষ্ঠভাবে জড়িত ছিলাম, নিউ ইয়র্ক সিটির ব্রুকলিন পলিটেকনিক ইন্সটিটিউটের একজন ভিজিট ভিসার হিসাবে এবং 1986 সালের পরে লাস ভেগাস নেভাদা বিশ্ববিদ্যালয়ের একজন সহকর্মী হিসেবে। এই বছর 2005, Rothbard এর  দশম বার্ষিকী হিসেবে চিহ্নিত। সুতরাং, এই দ্বিতীয় সংস্করনের সঙ্গে Murray কে নতুনভাবে সম্মান করার জন্য এটি একটি উপযুক্ত সময় লাগছিল।
 
-The present edition of *The Economics and Ethics of Private Property* is enlarged. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+বর্তমান প্রজন্মের *দ্য ইকোনোমিক্স অ্যান্ড এথিক্স অফ প্রাইভেট প্রোপার্টি* এর বর্ধিত সংস্করণ। এটি বইটির মূল প্রকাশনার পর লিখিত চারটি নিবন্ধ যোগ করেছে কিন্তু ঐতিহাসিকভাবে তার কেন্দ্রীয় বিষয়বস্তুর সাথে সম্পর্কিত। ব্যক্তিগত সম্পত্তি-অধ্যায় 6, 7, 8, এবং 15-এর অধীন প্রতিষ্ঠানের অর্থনৈতিক ও নৈতিক নীতিমালার একটি নতুন সংস্করণ উল্লেখযোগ্য সম্পাদকীয়তার উন্নতি এবং পুনর্বিবেচনা করা হয়েছে।
 
 Hans Hermann Hoppe
 
