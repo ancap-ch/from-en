@@ -74,9 +74,8 @@
 
 8. من به اندازه کافی هوش شما احترام میگذارم تا از تعریف کلماتی مانند "واقعیت"، "دلیل"، "صداقت" و غیره خودداری شود. ما به اندازه ی کافی کار برای انجام دادن داریم بدون اینکه بخواهیم چرخ را از نو اختراع کنیم.
 
-9. Finally, I believe that any theory – especially one as fundamental as a theory of ethics – does little good if it merely confirms what everybody already knows instinctively. I have not spent years of my life working on a theory of ethics in order to run around proving that “murder is wrong.” In my view, the best theories are those which verify the truths that we all intuitively understand – and then use those principles to reveal new truths that may be completely counter-intuitive.
-
-Having spent the last few years of my life preparing, training, and then combating this beast, I hope that I have acquitted myself with some measure of honour. I believe that I have emerged victorious – though not entirely unscathed – and I look forward to seeing who shares this view.[^2]
+9. در نهایت، من معتقدم که هر تئوری – بخصوص آن تئوری که به اندازه یک تئوری اخلاقی اساسی  باشد- کمی کارآمد است، اگر به طور محض آنچه را که هر کس به صورت غریزی در حال حاضر می داند را تایید کند. من سالها زندگی ام را برای تئوری اخلاق صرف نکرده ام تا حول اثبات کردن اینکه "قتل اشتباه است" بچرخم. به نظر من، بهترین نظریه ها آنهایی هستند که حقایقی که همه ما به صورت بصری درک می کنیم را تایید می کنند - و سپس از آن اصول برای فاش کردن حقایق جدید که ممکن است کاملا برخلاف شهود یا انتظارات عقلانی باشد استفاده می کنند.
+با صرف کردن چند سال از آخرین سالهای عمرم برای آماده سازی، آموزش، و بعد مبارزه با این جانور، امیدوارم با مقداری افتخار خودم را تبرئه کرده باشم. من معتقدم که من پیروز ظاهر شدم - هرچند که کاملا غیرقابل انکار نیست – و به پیشرو می نگرم که ببینم چه کسی این دیدگاه را به اشتراک می گذارد. [^ 2]
 
 I studied the history of philosophy in graduate school, and hold a Masters degree, but I do not have a PhD in philosophy. I am far from a publicly recognised intellectual. While I may not be the *most* unlikely champion, I am also far from the most likely. Whether I have succeeded or not is not up to you, and it is not up to me.
 
