@@ -64,11 +64,11 @@ Gayet açık ki, bahsedilen durumlarda, bir hükumetin var olmasına izin verile
 
 Bu durum teorik olarak ilginç olsa da pratikte çalışmaz, çünkü:
 
-1. Kötü çoğunluk başlarındaki azınlıktan uzaklaşacak ya da bir darbe ile onları yerinden indireceklerdi;
+1. Kötü çoğunluk başlarındaki azınlıktan uzaklaşacak ya da bir darbe ile onları yerinden indireceklerdir;
 2. Hükumetin her zaman sadece iyi olanların elinde olacağından emin olmanın bir yolu yoktur; ve,
 3. Ve bunun tüm devletler tarihinde karşılaşılmış tek bir örneği dahi yoktur.
 
-Bu noktadaki mantık hatası daima hükumeti savunma kısmında yapılır, hayali yaklaşım kolektif ahlak yargılarının her gruba uygulanıp * onları yöneten gruba uygulanmamasıdır*. Eğer insanların yarısı kötü niyetlilerden oluşuyor ise, öyleyse * en az * onları yönetenlerin yarısı da kötü niyetlidir.[^9] Bu yüzden, kötülüğün varlığı asla hükumetin var olmasını gerektirmez.
+Bu noktadaki mantık hatası daima hükumeti savunma kısmında yapılır, hayali yaklaşım kolektif ahlak yargılarının her gruba uygulanıp *onları yöneten gruba uygulanmamasıdır*. Eğer insanların yarısı kötü niyetlilerden oluşuyor ise, öyleyse *en az* onları yönetenlerin yarısı da kötü niyetlidir.[^9] Bu yüzden, kötülüğün varlığı asla hükumetin var olmasını gerektirmez.
 
 Eğer kötülük yoksa, hükumetin olması gereksizdir. Eğer kötülük varsa da hükumet, var olmasına izin verilemeyecek kadar tehlikelidir.
 
@@ -80,25 +80,25 @@ Burada üzerine bahsedilebilir birkaç nedeni vardır. Birincisi, hükumet kendi
 
 Üçüncü olarak ise, din ve propagandanın yaygınlığı her zaman insanları hükumetin kötülüklerine kör etmiştir - Bu nedenle yöneticiler her zaman kiliselerin çıkarlarını geliştirmeye ve devlet ''eğitimine'' çok ilgi duyuyorlardı. İnsanların gerçek politika dünyasında ise, her nasılsa, artan güç artan kötülük anlamına gelir. İnanç ile birlikte, aynı zamanda, olanların hepsi iyi olmalı düşüncesi - böylelikle, siyasal iktidarı alt etme mücadelesi ilahi iradeyle savaşıyor. Elbette çok daha fazla sebep sayılabilir ancak bunlar en derin olanların arasında.[^10]
 
-Bu bölümün başlangıcında, hükumetin dağılma fikri ile karşı karşıya kaldıklarında insanların genelde *iki* hata yaptığından bahsetmiştim. Birincisi, kötü insanlar var olduğu için hükumetler bir gerekliliktir. İkincisi de, hükumetlerin yokluğunda ortaya çıkan herhangi bir sosyal kurumun, kaçınılmaz olarak, hükumetlerin yerine geçeceğine olan inançtır. Bu yüzden, Uyuşmazlıkla Mücadele Kuruluşları(UMKlar) sigorta şirketleri ve özel güvenlik güçlerinin hepsi siyasal bedeni şişiren ve ezen potansiyel kanser hücreleri olarak görülür.
+Bu bölümün başlangıcında, hükumetin dağılma fikri ile karşı karşıya kaldıklarında insanların genelde *iki* hata yaptığından bahsetmiştim. Birincisi, kötü insanlar var olduğu için hükumetler bir gerekliliktir. İkincisi de, hükumetlerin yokluğunda ortaya çıkan herhangi bir sosyal kurumun, kaçınılmaz olarak, hükumetlerin yerine geçeceğine olan inançtır. Bu yüzden, Uyuşmazlıkla Mücadele Kuruluşları(UMK’lar) sigorta şirketleri ve özel güvenlik güçlerinin hepsi siyasal bedeni şişiren ve ezen potansiyel kanser hücreleri olarak görülür.
 
-Bu görünüm, yukarıda özetlenen aynı hatadan doğmaktadır. Eğer *bütün* toplumsal kurumlar sürekli gücünü büyütmeyi ve arzularını diğerlerine dayatmayı deniyorlarsa o zaman bu korkunç argüman ile merkezi hükümetin varolmasına izin verilemez. Eğer grupların her zaman diğer gruplar ve bireyler üzerinde güç kazanmayı denemesi değişmez bir yasaysa *o zaman içlerinden biri galip gelse dahi güç şehveti sona ermeyecek kölelik normal hale gelene kadar neredeyse muhalefetsiz bir şekilde tüm topluma yayılmaya devam edecektir.*
+Bu görünüm, yukarıda özetlenen aynı hatadan doğmaktadır. Eğer *bütün* toplumsal kurumlar sürekli gücünü büyütmeyi ve arzularını diğerlerine dayatmayı deniyorlarsa o zaman bu korkunç argüman ile merkezi hükümetin var olmasına izin verilemez. Eğer grupların her zaman diğer gruplar ve bireyler üzerinde güç kazanmayı denemesi değişmez bir yasaysa *o zaman içlerinden biri galip gelse dahi, güç şehveti sona ermeyecek kölelik normal hale gelene kadar neredeyse muhalefetsiz bir şekilde tüm topluma yayılmaya devam edecektir.*
 
-Toplumsal kurumların güç tekelleri olarak büyüyebilmesinin tek yolu *bunun maliyetinin kurbanlar üzerine yüklenmesidir.* Hükümetler, vergilerin bir bölümüyle vergi toplayıcılarına ödeme yaptıkları için sonsuz olarak büyüyebilirler. Köleler, böylece köleleştirme masraflarını ödemek zorunda kalır.
+Toplumsal kurumların güç tekelleri olarak büyüyebilmesinin tek yolu, *bunun maliyetinin kurbanlar üzerine yüklenmesidir.* Hükümetler, vergilerin bir bölümüyle vergi toplayıcılarına ödeme yaptıkları için sonsuz olarak büyüyebilirler. Köleler, böylece köleleştirme masraflarını ödemek zorunda kalır.
 
 Gönüllü bir toplumda hiç vergi alınamayacak ve bu nedenle tekelci güç elde etmek isteyen herhangi bir grup, ekonomik açıdan uygulanabilir ya da kârlı olmadığı için asla orduya para yatırmak istemeyecek.[^11]
 
-Bize boyun *eğdirebilecek* bir gruptan koruması için bize *zaten* boyun eğdiren bir gruba destek vermemizin gerekliliği argümanının akıl ve mantığını anlamak çok zordur. Özel tekelcilikde devletçi argümana benzemektedir; vatandaşlar, özel tekellerden korktuğu için bir hükümet tekeli yaratmalıdır. Böyle bir saçmalığı görmek için kesin bir görüşe gerek yoktur.
+Bize boyun *eğdirebilecek* bir gruptan koruması için bize *zaten* boyun eğdiren bir gruba destek vermemizin gerekliliği argümanının akıl ve mantığını anlamak çok zordur. Özel tekelcilik de devletçi argümana benzemektedir; vatandaşlar, özel tekellerden korktuğu için bir hükümet tekeli yaratmalıdır. Böyle bir saçmalığı görmek için kesin bir görüşe gerek yoktur.
 
 Ademi merkeziyetçi ve rekabet gücü olan güçlerin barışı sağladığı görüşünün kanıtı nedir? Diğer bir deyişle, güçler ayrılığının bireysel özgürlük için tek şans olduğu düşüncesini desteklemeyi sürdürebileceğimiz tek bir kanıt var mı?
 
-Organize suç pek güzel örnekler sunmaz çünkü çeteler çok sıklıkla hükümet polisinin gücünü yozlaştırıp, manipüle edip kullanarak kendi kurallarını dikte ediyorlar ve bu yüzden bu tarz çetelerin doğa durumunda hareket ettikleri söylenemez. Ayrıca, çeteler, yasal olarak yasaklanmış maddeler veya hizmetler sağlayarak muazzam bir kazanç elde ederler ve devlet politikaları nedeniyle büyük oranda gelişirler.
+Organize suç pek güzel örnekler sunmaz çünkü çeteler çok sıklıkla hükümet polisinin gücünü yozlaştırıp, maniple edip kullanarak kendi kurallarını dikte ediyorlar ve bu yüzden bu tarz çetelerin, doğal durumunda hareket ettikleri söylenemez. Ayrıca, çeteler, yasal olarak yasaklanmış maddeler veya hizmetler sağlayarak muazzam bir kazanç elde ederler ve devlet politikaları nedeniyle büyük oranda gelişirler.
 
 Daha yararlı bir örnek ise, hiçbir liderin nükleer silahlara sahip başka bir lidere hiç savaş ilan etmediği gerçeğidir. Geçmişte, liderler kendilerini aynen karşılık bulmadan azade hissettikleri zaman, onlar savaş açarak kendi halklarını öldürmekte daha istekliydiler. Artık liderler kendilerini yok edilebilir gördüklerinden, sadece karşı saldırıda bulunamayacak ülkelerle savaşlar istiyorlar.
 
-Bu böyle adamların neden silahsızlandırılmış ve bağımlı hale getirilmiş bir nüfusa ihtiyaç duydukları hakkında öğretici bir derstir - rekabetçi ve merkezsizleştirilmiş denge sisteminde misillemeden bu kadar korkulmasının *kişisel özgürlükleri sürdürmek ve korumakta tek geçerli yol* olduğunun güzel bir örneğidir.
+Bu, böyle adamların neden silahsızlandırılmış ve bağımlı hale getirilmiş bir nüfusa ihtiyaç duydukları hakkında öğretici bir derstir - rekabetçi ve merkezsizleştirilmiş denge sisteminde misillemeden bu kadar korkulmasının *kişisel özgürlükleri sürdürmek ve korumakta tek geçerli yol* olduğunun güzel bir örneğidir.
 
-Hayali şeytanlardan hükümetlerin koruyucu hapisanelerine kaçmak sadece yaşamı gerçekten yaşamaya değer kılan özgürlüklerin yok edilmesini sağlar.
+Hayali şeytanlardan hükümetlerin koruyucu hapishanelerine kaçmak sadece yaşamı gerçekten yaşamaya değer kılan özgürlüklerin yok edilmesini sağlar.
 
 [^4]: Bakınız [Uygulanabilir Anarşi](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
   
@@ -106,7 +106,7 @@ Hayali şeytanlardan hükümetlerin koruyucu hapisanelerine kaçmak sadece yaşa
   
 [^6]: İyi ve kötünün mükemmel dengesi neredeyse imkansızdır.
   
-[^7]: Tabi ki de demokrasilerdeki mevcut durum budur.
+[^7]: Tabiki de demokrasiler de ki mevcut durum budur.
   
 [^8]: Plasto' ya bakınız *Cumhuriyet*.
   
@@ -115,3 +115,4 @@ Hayali şeytanlardan hükümetlerin koruyucu hapisanelerine kaçmak sadece yaşa
 [^10]: *Ebeveynlerin* "güç eşittir erdem" kuruntusunu telkin etmedeki rolü üzerine daha detaylı bir tartışma için bak [Doğruluk Üzerine](http://wiki.mises.org/wiki/On_Truth).
   
 [^11]: Bakınız [Uygulanabilir Anarşi, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Bölüm 5: "Savaş, kâr ve devlet".
+
