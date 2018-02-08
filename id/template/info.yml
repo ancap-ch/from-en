@@ -1,0 +1,78 @@
+---
+content_files:
+  - 
+    - content.md
+    - https://github.com/ancap-ch/from-en/blob/utopian/id/template/content.md
+translation:
+  language: id
+  is_translation: true
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/id/template"
+  fetch_translators: true
+  fetch_reviwers: true
+  fetch_progress: true
+titles:
+  - Title Text
+  - '~~terpusat~~'
+  - '~~~~~to the right'
+discussions:
+  - 
+    - https://en.ancap.ch/t/5
+    - Ancap saluran
+more_infos:
+  - 
+    - https://www.google.com
+    - Nama situs web
+tags:
+  - Menambah beberapa
+  - Beberapa yang lain
+  - Dan seterusnya
+tag_prefix: "https://en.ancap.ch/tags/"
+persons:
+  - 
+    person: [ ]
+    identifier: "template_pribadi"
+    rule: "pencipta"
+  - 
+    person: [ ]
+    identifier: "template_pribadi"
+    rule: "kerja sama"
+  - 
+    person: [ ]
+    identifier: "template_pribadi"
+    rule: "menyatakan terima kasih"
+  - 
+    person: [ ]
+    identifier: "template_pribadi"
+    rule: "penterjemah"
+  - 
+    person: [ ]
+    identifier: "template_pribadi"
+    rule: "komentator"
+  - 
+    person_: [ ]
+    identifier: "template_pribadi"
+    rule: "sampul_seniman"
+  - 
+    person: [ ]
+    identifier: "template_pribadi"
+    rule: "seniman"
+resources:
+  - 
+    resource: [ ]
+    rule: "depan_sampul"
+    content: "sampul.png"
+    websites:
+      - Sumber situs web
+    description: Sumber keterangan
+    persons:
+      - "template_pribadi"
+targets:
+  - 
+    target: [ ]
+    name: artikel
+    reset_footer_active: false
+    reset_footer_depth: 0
+    clear_page_active: true
+    clear_page_depth: 1
+    toc_depth: 3
+version: "0.1.2"

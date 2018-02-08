@@ -1,0 +1,78 @@
+---
+content_files:
+  - 
+    - content.md
+    - https://github.com/ancap-ch/from-en/blob/utopian/tr/template/content.md
+translation:
+  language: tr
+  is_translation: true
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/tr/template"
+  fetch_translators: true
+  fetch_reviwers: true
+  fetch_progress: true
+titles:
+  - Title Text
+  - '~~Ortalanmış~~'
+  - '~~~~~to the right'
+discussions:
+  - 
+    - https://en.ancap.ch/t/5
+    - Ancap Kanalı
+more_infos:
+  - 
+    - https://www.google.com
+    - Website İsmi
+tags:
+  - Bir kaç etiket
+  - Başka bir etiket
+  - Ve sonra
+tag_prefix: "https://en.ancap.ch/tags/"
+persons:
+  - 
+    person: [ ]
+    identifier: "model_kişi"
+    rule: "yazar"
+  - 
+    person: [ ]
+    identifier: "model_kişi"
+    rule: "işbirlikçi"
+  - 
+    person: [ ]
+    identifier: "model_kişi"
+    rule: "minnettar olmak"
+  - 
+    person: [ ]
+    identifier: "model_kişi"
+    rule: "çevirmen"
+  - 
+    person: [ ]
+    identifier: "model_kişi"
+    rule: "eleştirmen"
+  - 
+    person_: [ ]
+    identifier: "model_kişi"
+    rule: "kapak_sanatçı"
+  - 
+    person: [ ]
+    identifier: "model_kişi"
+    rule: "sanatçı"
+resources:
+  - 
+    resource: [ ]
+    rule: "ön_kapak"
+    content: "kapak.png"
+    websites:
+      - Kaynak internet sitesi
+    description: Kaynak Tanımlaması
+    persons:
+      - "model_kişi"
+targets:
+  - 
+    target: [ ]
+    name: makale
+    reset_footer_active: false
+    reset_footer_depth: 0
+    clear_page_active: true
+    clear_page_depth: 1
+    toc_depth: 3
+version: "0.1.2"

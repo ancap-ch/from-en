@@ -1,0 +1,78 @@
+---
+content_files:
+  - 
+    - content.md
+    - https://github.com/ancap-ch/from-en/blob/utopian/en/template/content.md
+translation:
+  language: zh-CN
+  is_translation: true
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/zh-CN/template"
+  fetch_translators: true
+  fetch_reviwers: true
+  fetch_progress: true
+titles:
+  - Title Text
+  - '~~Centered~~'
+  - '~~~~~to the right'
+discussions:
+  - 
+    - https://en.ancap.ch/t/5
+    - Ancap Channel
+more_infos:
+  - 
+    - https://www.google.com
+    - 网站名称
+tags:
+  - 一些标签
+  - 另一个标签
+  - 等等
+tag_prefix: "https://en.ancap.ch/tags/"
+persons:
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "作者"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "合作者"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "thanked"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "translator"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "reviwer"
+  - 
+    person_: [ ]
+    identifier: "template_person"
+    rule: "cover_artist"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "artist"
+resources:
+  - 
+    resource: [ ]
+    rule: "front_cover"
+    content: "cover.png"
+    websites:
+      - Resource website
+    description: Resource description
+    persons:
+      - "template_person"
+targets:
+  - 
+    target: [ ]
+    name: article
+    reset_footer_active: false
+    reset_footer_depth: 0
+    clear_page_active: true
+    clear_page_depth: 1
+    toc_depth: 3
+version: "0.1.2"
