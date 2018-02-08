@@ -3,6 +3,7 @@ There are limitations to the standard economic model of supply and demand curves
 Awon idiwon si awon ojulowo aje awokose ti a pese ati eletan ekoro ti opinya lati fi han awon ti aipe tabi iwontunwonsi oye oja tita pelu opo oja. Awon idiwon, gege bi awon ara Austrians ti mo, won ye fun aidaniloju ero. Sugbon ko si ohunkohun ninu ero yii ti o jade ninu aye ni oje alaito, papa ti won awokose ba je eniti o maan se alaye oro ti ko je mo awon ero. Awon ohun elo ti irorun awokose, ti nitooto fi han Pataki mi mo nipa bi awon aje sise, so lati dari opolopo awon –okowo sonu.
 
 # Increasing Costs to Producers Does Not Increase Prices 
+
 # Gbigbe oye Owo lori o Nse Kole Sosoke Oye Owo Oja 
 
 A [recent EconTalk episode](http://www.econtalk.org/archives/2017/02/tom*wainwright.html), in which the host Russ Roberts interviews journalist and author Tom Wainwright of the *Economist* on his recent book *[Narconomics](https://www.amazon.com/Narconomics-How-Run-Drug-Cartel/dp/1610395832/?tag=misesinsti-20)*, illustrates how simple Econ 101 logic can be misleading. While the episode is well worth listening to and the discussion is both interesting and informative, a significant portion in the beginning is dedicated to discussing the issue of the price of illegal drugs. Noting an apparent “paradox” and the author’s “fantastic” argument, Roberts and Wainwright embark on and get stuck in a discussion that is fundamentally flawed and therefore may delude listeners.
