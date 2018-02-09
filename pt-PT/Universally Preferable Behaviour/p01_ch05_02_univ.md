@@ -83,7 +83,7 @@ Os organismos vivos são parte da realidade material, e a realidade material é 
 
 Agora, uma vez que a moral é um conceito válido, a próxima questão é: em que grau ou extensão a moral é válida?
 
-Como já foi mencionado acima, o primeiro teste de qualquer teoria científica é o da *universalidade*. Assim como uma teoria da física deve aplicar para *qualquer* assunto, uma teoria moral que afirma descrever as acções preferíveis da humanidade * deve ser aplicada a **toda** a Humanidade*. Nenhuma teoria moral pode ser válida se alegar que uma determinada acção é *correcta* na Síria e *errada* em São Francisco. Não pode dizer que a pessoa A *deve* fazer X, mas a pessoa B *nunca* deve fazer X. Não pode dizer que o que foi *errado* ontem é <0 >certo</em> hoje - ou vice-versa. Se o fizer, é falso e deve ser corrigido ou descartado.
+Como já foi mencionado acima, o primeiro teste de qualquer teoria científica é o da *universalidade*. Assim como uma teoria da física deve aplicar para *qualquer* assunto, uma teoria moral que afirma descrever as acções preferíveis da humanidade * deve ser aplicada a **toda** a Humanidade*. Nenhuma teoria moral pode ser válida se alegar que uma determinada acção é *correcta* na Síria e *errada* em São Francisco. Não pode dizer que a pessoa A *deve* fazer X, mas a pessoa B *nunca* deve fazer X. Não pode dizer que o que foi *errado* ontem é *certo* hoje - ou vice-versa. Se o fizer, é falso e deve ser corrigido ou descartado.
 
 Para ser válida, qualquer teoria moral também deve passar pelo critério de *consistência lógica*. Dado que o comportamento da matéria é lógico, consistente e previsível, todas as teorias envolvendo matéria - orgânica ou inorgânica - também devem ser lógicas, consistentes e previsíveis. A teoria da relatividade não pode argumentar que a velocidade da luz é constante e inconstante simultâneamente, ou que de é cento e oitenta e seis mil quilómetros por segundo, cinco quilómetros de profundidade e também de cor verde.
 
@@ -105,235 +105,40 @@ Além disso, se a minha teoria moral "provasse" que o mesmo homem não deveria a
 
 Uma vez que as teorias válidas exigem *coerência lógica*, uma teoria moral não pode ser válida se for verdadeira e falsa ao mesmo tempo. Uma teoria moral que aprova o roubo, por exemplo, enfrenta um problema lógico insuperável. Nenhuma teoria moral, se for universalmente aplicada, deve eliminar directamente o comportamento que a define como moral ao mesmo tempo que cria o comportamento que a define como *imoral*. Se todos *devem* roubar, então ninguém *irá* roubar - o que significa que a teoria moral nunca poderá ser praticada. E *por que* ninguém roubará? Bem, porque um homem só roubará se conseguir *manter* a propriedade que está a roubar. Ele não se vai preocupar em roubar uma carteira se outra pessoa, imediatamente, também irá roubá-la a ele. Qualquer teoria moral que proponha que "roubar é bom" é automaticamente inválida, porque postula que os direitos de propriedade são válidos e inválidos *ao mesmo tempo* e portanto, falha no teste de coerência lógica. Se eu o roubar, estou a dizer que os *seus* direitos de propriedade são inválidos. No entanto, eu quero *manter* o que estou a roubar - e, portanto, estou a dizer que os *meus* direitos de propriedade são válidos. Porém, os direitos de propriedade não podem ser válidos e inválidos ao mesmo tempo, e esta proposição em si deve ser inválida.
 
-Da mesma forma, qualquer teoria moral que defenda o estupro enfrenta uma contradição semelhante. A violação *nunca* poderá ser moral, pois qualquer princípio que a aprove estar-se-à a contradizer, automaticamente. Se a violação se justifica com o princípio de que "tirar prazer é sempre bom", então esse princípio falha imediatamente no teste da consistência lógica, uma vez que o violador pode estar a sentir prazer, mas a sua vítima certamente que *não*,</a></sup><sup id="fnref:7"><a href="#fn:7" class="footnote-ref"></p> 
+Da mesma forma, qualquer teoria moral que defenda o estupro enfrenta uma contradição semelhante. A violação *nunca* poderá ser moral, pois qualquer princípio que a aprove estar-se-à a contradizer, automaticamente. Se a violação se justifica com o princípio de que "tirar prazer é sempre bom", então esse princípio falha imediatamente no teste da consistência lógica, uma vez que o violador pode estar a sentir prazer, mas a sua vítima certamente que *não*,[^7] 
 
-<p>
-  Portanto, submeter as teorias morais ao método científico produz resultados conformes à racionalidade, observações empíricas e simples sentido comum. Assassinato, roubo, incêndio criminoso, estupro e assalto, todos são provados imorais.<fnref target="8" />
-</p>
+Portanto, submeter as teorias morais ao método científico produz resultados conformes à racionalidade, observações empíricas e simples sentido comum. Assassinato, roubo, incêndio criminoso, estupro e assalto, todos são provados imorais.[^8]
 
-<p>
-  Para ajudar a engolir esta pílula conceitual bastante grande, abaixo está uma tabela que ajuda a nivelar teorias de física e biologia com teorias científicas de comportamento universalmente preferível (ou moral):
-</p>
+Para ajudar a engolir esta pílula conceitual bastante grande, abaixo está uma tabela que ajuda a nivelar teorias de física e biologia com teorias científicas de comportamento universalmente preferível (ou moral):
 
-<table>
-  <tr>
-    <th align="left">
-    </th>
-    
-    <th align="left">
-      Física
-    </th>
-    
-    <th align="left">
-      Biologia
-    </th>
-    
-    <th align="left">
-      Moralidade
-    </th>
-  </tr>
-  
-  <tr>
-    <td align="left">
-      <strong>Assunto</strong>
-    </td>
-    
-    <td align="left">
-      Matéria
-    </td>
-    
-    <td align="left">
-      Matéria Orgânica
-    </td>
-    
-    <td align="left">
-      Comportamento preferível para a Humanidade
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="left">
-      <strong>Instância</strong>
-    </td>
-    
-    <td align="left">
-      Uma pedra
-    </td>
-    
-    <td align="left">
-      Um cavalo
-    </td>
-    
-    <td align="left">
-      Um homem
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="left">
-      <strong>Exemplos de regras</strong>
-    </td>
-    
-    <td align="left">
-      Gravidade
-    </td>
-    
-    <td align="left">
-      O desejo de sobrevivência
-    </td>
-    
-    <td align="left">
-      Auto-propriedade
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="left">
-      <strong>Exemplo de Teoria</strong>
-    </td>
-    
-    <td align="left">
-      Entropia
-    </td>
-    
-    <td align="left">
-      Evolução
-    </td>
-    
-    <td align="left">
-      Direitos de propriedade
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="left">
-      <strong>Exemplos de classificação</strong>
-    </td>
-    
-    <td align="left">
-      Matéria/energia
-    </td>
-    
-    <td align="left">
-      Réptil/mamífero
-    </td>
-    
-    <td align="left">
-      Deus/satanás
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="left">
-      <strong>Exemplo</strong>
-    </td>
-    
-    <td align="left">
-      A matéria não pode ser criada ou destruída, apenas convertida em energia e transformada
-    </td>
-    
-    <td align="left">
-      Se está vivo e com o sangue quente, é um mamífero
-    </td>
-    
-    <td align="left">
-      Roubar é errado
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="left">
-      <strong>Hipótese</strong>
-    </td>
-    
-    <td align="left">
-      Os átomos compartilham estruturas e propriedades comuns e comportam-se de maneiras previsíveis e coerentes
-    </td>
-    
-    <td align="left">
-      A matéria orgânica tem regras - ou requisitos - que são comuns nas classificações
-    </td>
-    
-    <td align="left">
-      O comportamento universalmente preferível compartilha regras e requisitos comuns
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="left">
-      <strong>Prova</strong>
-    </td>
-    
-    <td align="left">
-      Consistência lógica, verificação empírica
-    </td>
-    
-    <td align="left">
-      Consistência lógica, verificação empírica
-    </td>
-    
-    <td align="left">
-      Consistência lógica, verificação empírica
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="left">
-      <strong>Exemplo de prova negativa</strong>
-    </td>
-    
-    <td align="left">
-      Se a matéria não atrai a matéria, as teorias que dependem da gravidade são incorrectas
-    </td>
-    
-    <td align="left">
-      Se os organismos não se auto-seleccionam naturalmente para a sobrevivência, a teoria da evolução é incorrecta
-    </td>
-    
-    <td align="left">
-      Se o comunismo for bem-sucedido em relação aos seus objectivos declarados, as teorias baseadas na validade universal dos direitos de propriedade estão incorrectas
-    </td>
-  </tr>
-</table>
+|                               | Física                                                                                                               | Biologia                                                                                               | Moralidade                                                                                                                                                 |
+|:----------------------------- |:-------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------ |:---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Assunto**                   | Matéria                                                                                                              | Matéria orgânica                                                                                       | Comportamento preferível para a humanidade                                                                                                                 |
+| **Instância**                 | Uma pedra                                                                                                            | Um cavalo                                                                                              | Um homem                                                                                                                                                   |
+| **Exemplo de regra**          | Gravidade                                                                                                            | O desejo de sobrevivência                                                                              | Auto-Propriedade                                                                                                                                           |
+| **Exemplo de Teoria**         | Entropia                                                                                                             | Evolução                                                                                               | Direitos de propriedade                                                                                                                                    |
+| **Exemplo de Classificação**  | Matéria/energia                                                                                                      | Réptil / Mamífero                                                                                      | Bem / Mal                                                                                                                                                  |
+| **Exemplo**                   | Matéria não pode ser criada ou destruída, apenas convertida e desconvertida em energia                               | Se é vivo e de sangue quente, é um mamífero                                                            | Roubar é errado                                                                                                                                            |
+| **Hipótese**                  | Os átomos compartilham propriedades e estruturas comuns, e por isso se comportam de maneira previsível e consistente | Matéria orgânica tem regras - ou requisitos - que são comuns em classificações                         | O comportamento universalmente preferível compartilha regras e requisitos comuns                                                                           |
+| **Prova**                     | Consistência lógica, verificação empírica                                                                            | Consistência lógica, verificação empírica                                                              | Consistência lógica, verificação empírica                                                                                                                  |
+| **Exemplo de prova negativa** | Se a massa não atrai a massa, teorias que dependem da gravidade são incorretas                                       | Se organismos naturalmente não se auto-selecionam pela sobrevivência, a teoria da evolução é incorreta | Se o comunismo for bem-sucedido em relação aos seus objetivos declarados, teorias baseadas na validade universal dos direitos de propriedade são inválidas |
 
-<p>
-  Tabela: teorias de física e biologia e de CUP
-</p>
 
-<p>
-  Em conclusão, é seguro dizer que (a) as regras morais são válidas e (b) as teorias morais devem ser submetidas aos rigores da lógica e da evidência, assim como as teorias da física e da biologia. Qualquer teoria moral baseada em princípios não-universais ou contraditórios é claramente falsa.
-</p>
+Tabela: teorias de física e biologia e de CUP
 
-<h4>
-  CUP: O Quadro
-</h4>
+Em conclusão, é seguro dizer que (a) as regras morais são válidas e (b) as teorias morais devem ser submetidas aos rigores da lógica e da evidência, assim como as teorias da física e da biologia. Qualquer teoria moral baseada em princípios não-universais ou contraditórios é claramente falsa.
 
-<p>
-  Portanto o CUP pode ser visto como uma estrutura para validar teorias ou proposições éticas - assim como o método científico é uma estrutura usada para validar teorias ou proposições científicas.
-</p>
+#### CUP: O Quadro
 
-<p>
-  Um exemplo de proposição moral é: "o início do uso da força está errado". O CUP é a metodologia que põe à prova essa proposição contra a coerência interna e a observação empírica. Portanto, o CUP primeiro pergunta: <em>a proposição é lógica e consistente?</em> depois pergunta: <em>que evidência existe para a verdade da proposição?</em>
-</p>
+Portanto o CUP pode ser visto como uma estrutura para validar teorias ou proposições éticas - assim como o método científico é uma estrutura usada para validar teorias ou proposições científicas.
 
-<p>
-  Para manter este livro com um tamanho razoável, trataremos, em geral, principalmente do primeiro critério de consistência lógica. Para o segundo critério, devemos confiar em evidências sobre as proibições universais em todas as culturas contra determinadas acções, como violação, roubo, assalto e assassinato. Muito mais poderia ser escrito sobre a evidência histórica que ajuda a apoiar ou rejeitar várias proposições morais, mas vamos deixá-lo para outro momento. Se estabelecermos a validade do CUP, teremos alcançado um grande logro. Se não o fizermos, a evidência dificilmente nos ajudará.
-</p>
+Um exemplo de proposição moral é: "o início do uso da força está errado". O CUP é a metodologia que põe à prova essa proposição contra a coerência interna e a observação empírica. Portanto, o CUP primeiro pergunta: *a proposição é lógica e consistente?** depois pergunta: *que evidência existe para a verdade da proposição?**
 
-<p>
-  Passemos agora à questão de se o quadro do CUP trata de assuntos de <em>ética</em>, de <em>estética</em>, ou ambos.
-</p>
+Para manter este livro com um tamanho razoável, trataremos, em geral, principalmente do primeiro critério de consistência lógica. Para o segundo critério, devemos confiar em evidências sobre as proibições universais em todas as culturas contra determinadas acções, como violação, roubo, assalto e assassinato. Muito mais poderia ser escrito sobre a evidência histórica que ajuda a apoiar ou rejeitar várias proposições morais, mas vamos deixá-lo para outro momento. Se estabelecermos a validade do CUP, teremos alcançado um grande logro. Se não o fizermos, a evidência dificilmente nos ajudará.
 
-<footnotes>
-  <fn name="7">
-    <p>
-      Naturalmente, o mesmo aplica-se, para assassinato e assalto. Voltaremos a essas provas - bem como a um exame adicional dos direitos de propriedade - com mais detalhes, na Parte Dois deste livro.
-    </p>
-  </fn>
-  
-  <fn name="8">
-    <p>
-      As regras morais universais e positivas também podem ser comprovadas - isto é, a validade universal dos direitos de propriedade e da não-violência - mas devemos discuti-lo na Parte Dois.
-    </p>
-  </fn>
-</footnotes>
+Passemos agora à questão de se o quadro do CUP trata de assuntos de *ética*, de *estética*, ou ambos.
+
+[^7]: Naturalmente, o mesmo aplica-se, para assassinato e assalto. Voltaremos a essas provas - bem como a um exame adicional dos direitos de propriedade - com mais detalhes, na Parte Dois deste livro.
+
+[^8]: As regras morais universais e positivas também podem ser comprovadas - isto é, a validade universal dos direitos de propriedade e da não-violência - mas devemos discuti-lo na Parte Dois.
+

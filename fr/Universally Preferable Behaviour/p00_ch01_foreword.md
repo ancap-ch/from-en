@@ -74,20 +74,20 @@ J'ai étudié l'histoire de la philosophie en tant que diplômé et j'ai une ma�
 
 Si le raisonnement est valable, la plus grosse bête sera vaincue.
 
-### A Modest Suggestion
+### Une Suggestion Modeste
 
-It is the height of audacity to suggest to readers how to read a book, but given the challenges of the task before us, I would like to make one small suggestion before we embark.
+C'est le comble de l'audace de donner aux lecteurs des suggestions sur la façon de lire un livre, mais étant donné les défis de la tâche qui nous attend, j'aimerais faire une petite suggestion avant d'embarquer.
 
-If we lived in the fifteenth century, and I were trying to convince you that the world were round, I would put forward reams of mathematical and physical proofs. If you held a contrary opinion, you would naturally react with scepticism, and be inclined to quibble with every line of proof. However, if you and I could in fact sail around the world, and arrive back where we started without retracing our steps, you would be far more willing to accept the conceptual proofs for what you had already *experienced* to be true. You might find fault with a particular logical step or metaphor, but you would already agree with the conclusion, and thus would be more prone to help correct the details rather than reject the theory as a whole.
+Si nous vivions au 15ème siècle, et essayions de vous convaincre que la planète est ronde, lancerais des tonnes de preuves mathématiques et physiques. Si vous aviez une opinion contraire, vous réagiriez naturellement avec scepticisme et seriez enclin à discuter chaque élément de preuve. Cependant, si vous et moi pouvions réellement naviguer dans le monde et revenir à notre point de départ sans revenir sur nos pas, vous seriez beaucoup plus disposé à accepter les tests conceptuels que vous auriez déjà *vécus* comme étant vrais. Vous pourriez trouver des failles dans une étape ou une métaphore logique particulière, mais vous seriez d'accord avec la conclusion, et de cette façon, vous seriez plus susceptible d'aider à corriger les détails au lieu de rejeter complètement la théorie.
 
-If my task were to respond to every possible objection to every linguistic, logical and empirical step, this book would remain forever unfinished – and unread. Perfectionism is, in essence, procrastination, and I consider the task of this book to be too important – and the dangers of false morality too grave and imminent – to spend so long trying to achieve heaven that we all end up in hell.
+Si ma tâche devait répondre à toutes les objections possibles à chaque étape linguistique, logique et empirique, ce livre resterait pour toujours inachevé – et non lu. Le perfectionnisme est, par essence, la procrastination, et je considère que la tâche de ce livre est trop importante – et les dangers de la fausse moralité trop sérieuse et imminente – pour occuper tant d'essayer d'atteindre un paradis qui pourrait finir en enfer.
 
-Thus I humbly suggest that you wait to see how effective the ethical framework I propose is at proving the most commonly accepted moral maxims of mankind before passing final judgement on the theory.
+Donc, je suggère humblement que vous attendez de voir à quel point le cadre éthique que je propose est efficace en démontrant les maximes morales les plus communément acceptées de l'humanité avant de passer au jugement final en théorie.
 
-I truly believe that the definition of a rational ethical framework is the most essential task that faces mankind. I truly appreciate your interest in this crucial matter – and would like as always to thank the wonderfully kind donators who have made this work possible.
+Je crois vraiment que la définition d'un cadre éthique rationnel est la tâche la plus essentielle de l'humanité. J'apprécie vraiment votre intérêt pour cette question cruciale – et je voudrais toujours remercier les donateurs merveilleusement généreux qui ont rendu ce travail possible.
 
-I ride into battle well armed by others.
+Je monte au combat bien armé par d'autres.
 
-[^1]: Most of these will be discussed in more detail throughout the course of this book.
+[^1]: La plupart de ceci sera discuté plus en détail tout au long de ce livre.
 
-[^2]: Of course, if I have failed, I have at least failed spectacularly, which itself can be both edifying and entertaining!
+[^2]: Bien sûr, si j'ai échoué, au moins j'ai échoué spectaculairement, ce qui peut être édifiant et divertissant par lui-même!

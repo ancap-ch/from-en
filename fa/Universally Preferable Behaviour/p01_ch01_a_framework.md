@@ -1,96 +1,96 @@
-## A Framework For Ethics
+## چارچوبی برای اصول اخلاقی
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+گزارههای اخلاقی نسبت به سایر انواع عبارتهای دانش متفاوت هستند. اگر بگویم "من جاز را دوست دارم"، ممکن است یک عبارت درست یا نادرست باشد، اما بطور کلی هیچ اجباری برای شما وجود ندارد. ترجیح من برای جاز، بیان سادهای از علاقه شخصی است؛ براساس عبارت من، هیچ الزامی برای شما وجود ندارد که جاز را دوست داشته باشید یا نداشته باشید
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+به همین نحو، اگر بگویم "من سبزیجات را دوست دارم"، این نیز بیانی ساده از ترجیح شخصی است. با این حال، اگر بگویم "سبزیجات غذای سالم هستند"، در این صورت از ترجیح شخصی به عبارتی از واقعیت عینی تغییر دادهام. این تفاوت بین "من بستنی را دوست دارم" و "بستنی حاوی شیر است" میباشد
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+تفاوت اساسی بین عبارت ترجیحی و عبارت حقیقی این است که عبارتهای حقیقی، عینی، آزمایشی و اجباری هستند. اگر شما حقیقت را بسنجید، باید این واقعیت را بپذیرید که بستی حاوی شیر است، زمانی که ثابت شده است
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+اگر بگویم زمین گرد است و نمونهای برای این عبارت ارائه دهم، دیگر در اختیار شما نیست که مشخص کنید این عبارت درست است یا خیر. اگر بتوانم ثابت کنم که زمین گرد است، شما مجبورید که قبول کنید این عبارت درست است، مگر اینکه مایل به رد دلیل یا شواهدی مانند معیاری برای حقیقت باشید.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+اگر درستی قوانین ریاضی را قبول کنم، نمیتوانم بطور خودسرانه یک اثبات ریاضی را که مطابق با آن قوانین است را رد کنم. اگر اثباتی را رد کنم، دیگر نمیتوانم ادعا کنم که درستی قوانین ریاضی را قبول دارم. پذیرش این قوانین از سوی من به این معنی است که من مجبورم درستی اثبات مطابق با این قوانین را قبول کنم. رد یک اثبات مطابق با استانداردهای منطقی برابر با رد تمامی استاندادهای منطقی است.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+روش علمی، خود عقلانیت و قوانین ریاضی، همه نمونههایی از معیارهای عینی برای ایجاد حقیقت یک گزاره هستند. این نظریه من نیست که دو و دو، چهار میشود. اگر شما هم قبول کنید که دو و دو، چهار میشوند، شما خود را مطیع نظریه من نمیکنید، بلکه مطیع یک حقیقت منطقی میشوید. 
 
-### Objective Truth
+### حقیقت عینی
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+چالش اصلی در درک ماهیت حقیقت، فهم این است که "حقیقت" در جهان به شیوهای که سنگ یا درخت وجود دارند، وجود ندارد.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+مفهوم "حقیقت" لزوما یک اصطلاح نسبی است، اگرچه به معنی واژه ذهنی یا دلخواه نیست. مفهوم "سلامتی" نیز یک اصطلاح نسبی است، ما "سلامتی" را با بیماری و همچنین با استانداردهای نسبی سلامتی مقایسه میکنیم. آنچه که برای یک نود ساله "سلامت خوب" به حساب میآید، به ندرت میتواند سلامت خوبی برای یک بیست ساله باشد. تعریف یک زندگی طولانی در حال حاضر بسیار متفاوت از آنچه است که 500 سال پیش بود.
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
+با این وجود، این بدان معنا نیست که مفهوم "سلامتی" کاملاً نسبی و ذهنی است. مرگ ده ساله با سرطان خون با هر تعریفی ناسالم است، درست همانطورکه یک دونده ماراتن بیست ساله با هر تعریفی سالم است. در حال حاضر، مردی که تا نود سالگی عمر میکند زندگی طولانی دارد، هر چند این تغییر خواهد کرد اگر فناوری پزشکی به ما اجازه دهد که تا 200 سالگی عمر کنیم.
 
-As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
+همانطور که تعریف ما از "سلامتی" گسترش مییابد، تعاریف پیشین را نامعتبر نمیکند، بلکه آنها را گسترش میدهد. اگر فناوری پزشکی پیشرفت کند تا نیمی از سالمندان را قادر به پیروزی در ماراتن سازد، تعریف ما از آنچه که سلامتی برای سالمندان است، تغییر خواهد کرد – اما این بدان معنی نیست که دونده ماراتن بیست ساله ناگهان بیمار شود. یادگیری جبر، علم حساب را نامعتبر نمیکند.
 
-Truth also has value relative to necessity as well. Newtonian physics has been supplanted by Einsteinian physics, which has proven far more accurate in extreme situations such as extraordinarily high gravity or speed. However, sailors wishing to calculate the correct path across an ocean find Newtonian physics more than accurate enough. You wouldn’t want to send a spaceship to Alpha Centauri using Newtonian physics, but it is totally fine for getting a ship from Lisbon to New York. The labour involved in learning and implementing Einsteinian physics is thus a net negative for a sailor.
+حقیقت نیز نسبت به ضرورت دارای ارزش است. فیزیک نیوتن توسط فیزیک انیشتین جایگزین شده است، که در موقعیتهای شدید مانند گرانش بسیار زیاد یا سرعت، بسیار دقیقتر نشان داده شده است. با این حال، ملوانانی که مایل به محاسبه مسیر صحیح در یک اقیانوس هستند، فیزیک نیوتنی را به اندازه کافی دقیق میدانند. شما نیازی نیست یک سفینه فضایی را با استفاده از فیزیک نیوتنی به آلفا سنتاوری ارسال کنید، اما برای گرفتن یک کشتی از لیسبون به نیویورک کاملاً مناسب است. تلاش در یادگیری و اجرای فیزیک انیشتین برای یک ملوان، منفی است.
 
-As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+در نتیجه، جمله "فیزیک نیوتنی دقیقتر از فیزیک انیشتین است، اما فیزیک نیوتنی بهترین راه برای محاسبه مسیر کشتی است" میتواند یک گزاره معتبر در نظر گرفته شود. بدین ترتیب، فیزیک نیوتنی هم دقیقتر و هم مناسبتر است.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+اگر میخواستیم بهترین آب ممکن را بنوشیم، احتمالا هزار دلار برای هر بطری پرداخت میکردیم. مگر اینکه بسیار ثروتمند و فریبخورده بودیم، هرگز بخاطر رفع تشنگی مبلغی را پرداخت نمیکردیم. درست است که آب خالص برای ما بهتر است، اما قیمتی که پاکی آن لازم دارد، به آستانه کاهش بازده میرسد. بنابراین "خالص بهتر است" جای خود را به "خالص بدتر است" میدهد.
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+باز هم این بدان معنا نیست که پاکی آب کاملاً ذهنی است. آب مقطر همیشه از آب دریا بهتر است.
 
-#### Truth And Objective Reality
+#### حقیقت و واقعیت عینی
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+مفهوم حقیقت لزوماً شامل مفهوم دقت نیست. اگر من سعی کنم یک تیر را به قلب هدف پرتاپ کنم، دقت پرتاپ من اینگونه تعیین میشود که فاصه تیر من از مرکز چقدر است.
 
-What, then, is the “bull’s-eye” of truth?
+پس حقیقت "قلب هدف" چیست؟
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+حقیقت یک عبارت قابلمقایسه با مطابقت آن با واقعیت عینی است.
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+چالشهای زبان را برای لحظهای کنار بگذاریم، اگر به یک مرغ دریایی اشاره کنم و بگویم "این یک سندان است"، من به وضوح اشتباه کردهام، زیرا سندانها جامد هستند و نمیتوانند پرواز کنند. ارزش حقیقی عبارت من نسبت به واقعیت عینی سنجیده میشود. از آنجایی که ماهی دریایی یک سندان نیست، عبارت من نادرست است.
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+بطور طبیعی، این معادله بین حقیقت و واقعیت نیازمند آن است که زبان و حواس ما نسبتاً عینی باشند. دلایل زیادی وجود دارد تا باور کنیم که هر دو شواهد زبان و حسی در واقع عینی هستند؛ ما میتوانیم به یک بحث پیچیده در مورد این موضوع بپردازیم، اما باید بدانید که از آنجایی که از چشمان خود برای خواندن کتاب در زبان انسانی استفاده میکنید، حداقل میتوانیم بپذیریم که چشمان شما و زبانی که به اشتراک گذاشتیم، به اندازه کافی برای شما عینی هستند. اگر چنین نیستند، در مورد آن هیچ صحبتی نداریم و شما هر چیزی که من تا به حال نوشتهام را متوجه نشدهاید، بنابراین این جمله به همان اندازه بی معنی خواهد بود و ممکن است در یک مهمانی پر سر و صدا آمده باشد!
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+با فرض اینکه میتوانید بگویید چه تفاوتی بین دوفونت فوق وجود دارد، میتوانیم به طور مستدل و معقول ادامه دهیم.   
 
-#### Accuracy And Consistency
+#### دقت و انسجام 
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+این غیرممکن است که بتوانم نقاشی دقیقی از ابر بکشم، زیرا ابر هنگام کشیدن آن به طور مداوم تغییر میکند. من میتوانم عکس ابری را به طور دقیق رسم کنم که در زمان متوقف و ثابت شده است.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+اگر یک ساعت برای کشیدن ابر صرف کنم، و سپس از شما بپرسم که آیا نقاشی من نمای دقیقی از  آن ابر است یا نه، شما لزوما باید پاسخ دهید که این طور نیست.
 
-In other words, where there is no consistency, there can be no accuracy.
+به عبارت دیگر، جایی که انسجام نباشد دقت نیز نمیتواند وجود داشته باشد.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+هنگامی که در شب خواب میبینیم، مشاهدات ما این است که قوانین «ماده» و «انرژی» دارای جریانی با حالت پایدار هستند- ما در مقابل گرانش مصون هستیم، بنابراین سوار بر پشت یک فیل پرواز میکنیم، و میتوانیم روی دیوارها راه برویم. این امکان وجود ندارد که «فیزیک علمی رویاها» را بیش از نقاشی دقیق یک ابر توسعه داد.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+بنابراین، منطق، علم و حقیقت در صورت عدم وجود انسجام غیرممکن هستند.
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+اساسا، قوانین منطق حداقل در سطح ادراکی، برگرفته از رفتار ماده و انرژی هستند. اگر به شما بگویم که یک توپ را به طور همزمان به سمت بالا و پایین پرت کنید، در واقع یک چیز غیرممکن را میخواهم، که میتوانید این کار را با تلاش برای انجام درخواست من به راحتی آزمایش کنید. اگر بگویم که به طور همزمان به هر دو سمت شمال و جنوب حرکت کنید، نمیتوانید خواستهی من را برآورده کنید. اگر درخواست کنم که یک گل رز را به الاغ تبدیل کنید، درخواست من هرگز محقق نمیشود.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+واقعیت ادراکی، منسجم و عینی است- ما قوانین منطق را از این انسجام و عینیت بدست میآوریم. اظهارات ما دربارهی واقعیت فقط میتواند واقعیت را به طور دقیق به عنوان نتیجهی مستقیم این انسجام و عینیت نمایان کند.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+این واقعیت که مرغان دریایی به طور اختیاری به سندانی و برعکس تبدیل نمیشود، ریشهی توانایی ما در قضاوت دقیق درمورد این جمله است: «این یک مرغ دریایی است». اگر مرغان دریایی خودبخود و به طور مداوم طبیعت خود را تغییر دهند، ما نمیتوانیم اظهار صحیح یا اشتباهی دربارهی آنها یا چیزی برای آن اتفاق داشته باشیم.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+این ریشهی معیار اصلی روش علمی «توانایی تولید مجدد» است. اگر من درباره ماهیت گرانش ادعای جهانی داشته باشم، پس شما هم باید بتوانید آن ادعا را در محیط خودتان دوباره ایجاد کنید. اگر واقعیت انسجام نداشت، پس تولید مجدد یک معیار غیرمنطقی برای تثبیت حقیقت خواهد بود.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+اگر شما یک معلم ریاضی بودید، بسیار بعید بود که پاسخ اشتباهی را از یک دانشآموز قبول کنید، حتی اگر آن دانشآموز ادعا کند پاسخ او هنگامی که آن را نوشته بود صحیح بوده است اما در این حین به نحوی تغییر کرده است.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+بنابراین میتوان قبول کرد که باید اعتبار یک گفته را نسبت به واقعیت عینی به هر دو روش تجربی و منطقی بسنجیم. منطق به عنوان قانون فقط در نتیجه ی انسجام واقعیت مطرح میشود ؛ مشاهدات تجربی نیز فقط در نتیجهی ماهیت منسجم واقعیت معتبر بوده یا فاقد اعتبار هستند.
 
-### The Existence Of "Truth"
+### وجود حقیقت
 
-Truth, then, can be measured according to two central criteria:
+:بنابراین، حقیقت را میتوانیم بر طبق دو معیار اصلی بسنجیم
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+1. حقیقت، میزان ارتباط بین ایدههای ذهن ما و انسجام عقلانیت است، که مستقیما از رفتار منسجم ماده و انرژی در جهان واقعی بدست میآید [2].
+2. همچنین، حقیقت میزان همبستگی بین ایدههای ذهن ما و ماهیت و رفتار ماده و انرژی در جهان واقعی است [3].
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+معیار اول، میزان انسجام ایدهها با خودشان است- و این انسجام یک الزام میباشد زیرا واقعیت با خود دارای انسجام و سازگاری است. گفتن اینکه «من وجود ندارم» نمونهای از یک ایدهی منسجم و سازگار با خود است، زیرا من به منظور بیان یک جمله باید وجود داشته باشم. معیار دوم، میزان دقت ایدهها نسبت به مشاهدات تجربی واقعیت عینی میباشد. 
 
-#### Empiricism Versus Rationality
+#### تجربهگرایی در مقابل عقلانیت
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+تجربه گرایی را میتوان به عنوان توانایی گرفتن توپ به طور غیرارادی، یا اندازه گیری حرکت آن است؛ عقلانیت به معنی پیش بینی و درک مسیری است که توپ بر اساس اصول جهانی طی خواهد کرد. مشخص است که اگر توپها به طور تصادفی به هر جهتی بروند و علاوه بر این، به طور جادویی به گروهی از کبوترها تبدیل شوند، ما نمیتوانیم رفتار آنها را به طور کامل پیشبینی کنیم. 
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+بنابراین، از آنجا که ماده از قوانینی تغییرناپذیر پیروی میکند، نظریههای ما درباره ماده نیز باید از قوانین تغییرناپذیر متابعت کنند. اگر من چیزی درباره بیشبال ندانم، اما بازی بیسبال را تماشا کنید که در آن بازیکنان همیشه از قوانین پیروی میکنند، تدوین یک نظریه در مورد قوانین بیسبال که مستقیما اشتباه بودن رفتار بازیکنانی که تماشا میکردم را اثبات کند، برای من غیرمنطقی خواهد بود. از آنجا که اقدامات بازیکنان منسجم است، هر نظریهای که من در مورد قوانینِ هدایتکنندهی آن اقدامات توسعه میدهم نیز باید منسجم باشد. 
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+این الزام برای انسجام یکی از اساسیترین الزامات برای حقیقت است. از آنجا که واقعیت منسجم است، نظریههای مربوط به واقعیت نیز باید منسجم باشند.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+در واقع، اولین مانعی که هر نظریه باید بر آن غلبه کند، انسجام درونی میباشد.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[1]: اگر شما برای حقیقت ارزش قائل نشوید، در وهلهی اول، هرگز در این بحث یا هر بحث دیگری نبودید!
 
-[^2]: Rational consistency, or internal logic.
+[2]: انسجام منطقی، یا منطق درونی.
 
-[^3]: Empirical evidence, or empiricism.
+[3]: شواهد تجربی، با تجربه گرایی.

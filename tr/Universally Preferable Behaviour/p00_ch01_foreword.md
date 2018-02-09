@@ -1,93 +1,93 @@
-## Önsöz
+## Foreword
 
-Bir çok peri masalında, muazzam gücü olan, çevredeki topraklara zulüm eden, bir ejderha yada bir basilisk yaşar. Köylüler bu canavarın önünde tir tir titrerler; canavarın cani dürtülerini azaltmak umuduyla, hayvanlarını kurban ederler, para ve kan ile öderler.
+In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
 
-Çoğu insan bu canavarın gölgesi altına saklanır, korkularını “ihtiyatlılık“ olarak adlandırır, ancak birkaç – sarhoş belki de cesaret ya da ahmaklıkla – savaşmaya karar verir. Yıllar, on yıllar umut dolu şampiyonların güçlerini, erdemlerini ve marifetlerini bu tirana karşı uydurmaya çalışmasıyla geçer.
+Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
 
-Denerler – ve başarısız olurlar.
+Try – and fail.
 
-Canavar daima ölümsüzdür, bu yüzden köylüler onun tiranlığından kurtulacak zamanı hayal edemezler. Canavar hiç rasyonel değildir, ve ticaret yapma arzusu da yoktur, bu yüzden hiçbir görüşme mümkün değildir.
+The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
 
-Çaresiz köylülerin tek umudu bu canavarı yenebilecek bir adamın çıkmasıdır.
+The desperate villagers’ only hope is for a man to appear who can defeat the beast.
 
-Kaçınılmaz olarak, herkese tamamen uyumsuz gelen bir adam öne çıkar. O kararlı bir çocuk, bir ayakkabıcı oğlu, bir fırıncı çırağıdır – bazende başıboş serseri biridir.
+Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
 
-Bu kitap böyle bir canavar üzerine benim kişisel saldırı hikayemdir.
+This book is the story of my personal assault on just such a beast.
 
-Bu “canavar“ inancını objektif, rasyonel, seküler ve bilimsel bir etik sistemle tanımlamak imkansızdır. Bu “canavar“ sadece pragmatik nedenlerden ötürü Ahlakın tanrıların ve hükümetlerin irrasyonel bataklıklarında kaybolması gerektiğini dayatan yanılsamadır, ancak sonsuza dek mantıksal gerekçelerden ve açık tanımlardan yoksundur. Bu “canavar“ erdemin, en büyük sevincimizin, en derin mutluluğumuzun, seküler yetişkinler tarafından bir kenara atılıp çıkartılmayı beklediği, politikacılar ve rahipler – ve aileler tarafından kullanılıp sömürüldüğü fantezidir. Bu "canavar", ailelerin tiradları olmadan, tanrıların zorbalığı olmadan, hükümetlerin silahları olmadan, rasyonel ve iyi olamayacağımızı söyleyen hurafedir.
+This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
 
-Bu canavar Sokrates'ten Platona, Augustine'den Hume'a, Kant'dan Rand'a birçok büyük kahramanı dize getirdi.
+This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
 
-İnsanoğluna maliyeti çok büyüktür.
+The cost to mankind has been enormous.
 
-Rasyonel bir ahlak sistemi tanımlayamadığımızdan, çocuklarımıza dini korku hikayeleri dayatmak zorunda kaldık, yada kendilerine “devlet“ diyen ruhsuz denetçilerin küçük bir tekeline silahlar, hapishaneler ve ordular verdik
+Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
 
-"Etik" dediğimiz kavram öznel ve sadece *kültürel* olarak kaldığından, sosyal kuralları uygulamak için kaçınılmaz olarak zorbalığa, korkuya ve şiddete bağlı kaldık. Etikler bilimsel yöntemin rasyonel temelinden yoksun oldukları için, “ahlak“ kanlı mitolojilerin kabile savaşlarının içinde batmış durumda kaldı, her grup, insanların “erdem“e bağlılıklarını kontrol edebilmek için şiddetle kavga ediyorlardı
+Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
 
-Ahlak olmadan yaşayamayız, ancak ahlakı objektif olarak da tanımlayamayız – bu nedenle de gururlu iki yüzlülüğün boş hayatlarına, alaycılığın hakimiyetine yada göstermelik köleliğe ebediyen mahkum kalıyoruz.
+We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
 
-Entelektüel açıdan, dünyada riskli ve sonucu ağır olabilecek bir şey yoktur. Nesnel ve rasyonel ahlaki kuralları tanımlama konusundaki başarısızlığımız, dinler ve devletler arasındaki savaşta milyonlarca insan hayatına mal olmuştur.
+Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
 
-Bir çok yönden, riskler daha da yükseliyor.
+In many ways, the stakes are getting even higher.
 
-İnternet'in artan bilgi akışı, Yeni neslin ''erdem'' denilen şeyin onların iki yüzlü büyüklerinin kendilerine hizmet eden peri masallarından ne fazla – ne de az – olduğu şüphelerini arttırdı. Otoriteler tarafından söylenilen göstermelik yalanlar – ve onlara tapanların suç ortaklığı – şuan her zamankinden daha açıktır.
+The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
 
-“Gerçek“ manipülasyon olarak,“erdem“ kontrol olarak; “sadakat“ da kölelik olarak maruz kaldı, ve “ahlak“ olarak adlandırılan şey ise, zayıf ve korkak insanları kendilerini köleleştirmek için tasarlanmış anlamsız bir kukla gösterisi olarak ortaya çıkmıştır.
+“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
 
-Bu farkındalık, tıpkı on dokuzuncu yüzyılda Almanya'da olduğu gibi, yeni nesil nihilistlerini de meydana getirmiştir. Bu aşırı rölativistler, kesinliğin herhangi bir formunu iddia edenler için en acı saldırılarını ayırırlar. Bu post modern nesil, müşterek geçmişlerinin kültürel bağnazlıklarını aştı, fakat şimdi de *tüm* gerçeğe önyargılı bir iddia olarak bakıyor. Alaycı ''bilgelik' ile korkutulmuş masum çocuklar gibi, tüm iletişimi reklam olarak, tüm iddiaları propaganda olarak, tüm ahlaki tavsiyeleri ikiyüzlü hırsızlık olarak görürler.
+This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
 
-Ahlaki önerileri değerlendirmek için tutarlı, objektif ve rasyonel bir çerçeve üzerinden anlaşmaya varmadığımız için, “ahlak“ mistisizme bağlı kalıyor, ve şiddetin sonucu kaçınılmaz oluyor. Tıpkı Aydınlanma öncesinde olduğu gibi, dini mezhepler aristokrasinin kılıçlarını kontrol etmek için sonsuza dek savaşmıştı, şimdi de ahlaki mitolojilerin devletin kontrolü için olan savaşlarını, ve onun tüm baskı mekanizmasını karşılaştırın.
+Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
 
-Böylece ahlak, tıpkı ortaçağ 'astronomisi' nin modern astronomiye yaptığı gibi modern bilime, hikaye anlatımıyla zorlanarak, tehditler, zorlama ve istismar yoluyla – gerçeğe yönelik herhangi bir gerçek ilerlemeyi hapseden, sanal bir mitoloji alanı olarak kalıyor.
+Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
 
-Rölativistik etiklerin bu ''canavarı'' üzerimize geliyor, üzerimizden besleniyor, vergilendirmeyi, hapis, sansür ve savaşları haklı çıkartıyor. Devlet okullarında ve Pazar günlerinin kilise sıralarından gençleri köleleştirir; yoksulları refahın tatlı Gulaglarında kapana kıstırır; doğmamış olanları bile ulusal borçların dipsiz kuyularında köleleştirir.
+This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
 
-Önceki kitabım ''Gerçek Üzerine: Yanılsama Tiranlığı'' nda yazdığım gibi, kanıtlanmamış etik teorilerinin merkezinde olan en temel yalan şudur ki, bu tür teoriler gerçekte yalnızca kültürel bağnazlıktan ibaret olsa da, çocuklara her zaman objektif ve inkar edilemez gerçekler olarak sunulmasıdır. Bilim insanlarının bir hükümete yada bir Vatikan'a ihtiyaç duymamasının sebebi; bilim insanlarının anlaşmazlıkları çözmek için objektif bir metodolojiye sahip olmalarıdır: bilimsel yöntem. Dilin evrimini yönlendirmek için merkezi bir otoriteye ihtiyaç duymamasının sebebi, biçim ve yarar için birikmiş bireysel tercihlerin ''serbest piyasasına'' dayandığı içindir.
+As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
 
-Modern ahlakın - ve tarih boyunca ahlakın - her zaman önce çocukların zorbalığına ve daha sonra yetişkinlerin tehdidine dayanması gerektiği nedeni, bunun erdemli bir gerçek olarak maskelenen manipülatif bir yalan olmasıdır.
+The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
 
-Gerçek şudur ki ahlaka ihtiyacımız vardır; yalan ise tanrıların ya da hükümetlerin rasyonal bir biçimde bunu tanımlayabileceği ya da adilce uygulayabileceğidir.
+The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
 
-Bu kitaptaki amacım, objektif, tutarlı, açık, rasyonel, deneysel, – ve *gerçek* olan ahlak teorilerini geçerli yapmak için bir metodoloji tanımlamaktır.
+My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
 
-Tamamen farkındayım ki, şu anda şüpheciliğinizin yükseldiğini hissetmeniz muhtemel. -Delilerin dünyası- olan internetdeki bir adamın bir şekilde çağların felsefi problemini çözdüğü olasılığının yüksek olmadığının - aslında, buradan bile neredeyse ayırt edilemeyecek kadar sıfıra yakın olduğunun tamamen farkındayım.
+I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
 
-Yine de, *tam olarak* sıfır değil.
+Still, not *quite* zero.
 
-### Temel Kurallar
+### Ground Rules
 
-Sıradışı iddialar sıradışı deliller gerektirir. Bu muazzam görevi üstlenirken – özellikle ufak bir kitapda – kendime ait bazı kurallar belirledim.[^1]
+Extraordinary claims require extraordinary proof. In taking on this mammoth task – particularly in such a short book – I have set myself some basic ground rules, which are worth going over here.[^1]
 
-1. Humean'ın ''olduğu'' ve ''olması gerektiği'' arasındaki ayrımı tamamen kabul ediyorum. Geçerli ahlaki kurallar doğrudan doğruya bir şeyin varlığından türetilemez. İnsanların genel olarak yaşamayı *tercih* etmeleri ve bunları gerçekleştirebilmeleri için gerçeklerle başarılı bir şekilde etkileşime girmeleri gerektiği durumu, geçerli bir etik teorinin temelini oluşturamaz. Bazı insanlar açıkça yaşamayı tercih etmezler ve gerçekliği kararlı bir şekilde reddederler. Yani bu etik tanımı, öznel ve koşullu olarak kılıyor.
-2. Etik objektif olarak "insanın hayatta kalması için iyi" olarak tanımlanamaz. Bazı bireyler başkalarını sömürerek daha iyi bir şekilde hayatta kalabilir, yani bu etik tanımı, öznelcilik probleminin üstesinden gelmez. Biyolojik terimlerde, bu evrimsel eğilimler "*hayatın* devamı için iyi bir şey" gibi tanımlanır ki bu mantıklı değildir. İnsan toplumu, rekabetçi çıkarların bir ekosistemidir, tıpkı yağmur ormanları gibi ve bir adam için "iyi" olan şey sık sık harcama olarak geri döner.
-3. İdeal formların "yüksek diyarına" inanmıyorum. Ahlak herhangi bir "başka evrende " ya da maddi ya da maddi olmayan olarak düşünülmemelidir. Eğer ahlak "diğer gerçeklik" içinde varsa, o zaman rasyonal ve deneysel bir analiz olamaz ve Platon'un "Devlet" kitabında bahsettiği gibi toplum, iletişim için seçkin Filozof-Krallar kadrosuna gereksinim duyar veya daha doğru olarak, bu "diğer gerçekliğin" anlaşılamaz fermanlarını herkese *zorla* yaptırır. Bu da aynı zamanda öznellik sorunu çözemez, çünkü mantık ve kanıtlara ulaşılmaz olan öznel tanımladır.
-4. Ahlakın, "etkili olan argümanlar" ya da etik önerilerin öngörülen sonuçları üzerine örnekte bulunularak tanımlanabileceği ya da belirlenebileceğine inanmıyorum. Faydacılık veya "çoğunluk için en büyük iyilik", öznelcilik problemini çözmez, herhangi bir merkezi plancılık, nesnel olarak herkes için iyi olan olasılığını bildiğinden beri herhangi bir merkezi ekonomik plancının fiyatın olmadığında -etkin olarak sıfır- kaynakların verimli bir şekilde nasıl bölüştürülmesi gerektiğini bildiği gibi bilir. Ayrıca, "çoğunluk için en büyük iyilik" olarak kabul edilen şey aynı zamanda kültür, bilgi, zaman ve koşullara göre değişir ve öznelcilik sorununun da üstesinden gelemez. Bilimsel deneylerin değerini bazı Platonik yüksek bölgeye göre veya bazı faydacı optimizasyona göre yargılamıyoruz – bilimsel yöntemlere göre yargılanırlar. Bu kitapta aynı yaklaşımdan ilerleyeceğim.
-5. Etiği "pozitif kanun doktrini" olarak tanımlamayı redediyorum. Hukuk sistemlerinin etik üzerine kurulduğu varsayılsada kimse her hukuk sisteminin mükemmel bir sağduyuya sahip olduğunu savunamaz. Yasalar, *herhangi bir* ahlak kuralının teorisini doğrudan yansıtamaz; çünkü yasalar, sürekli olarak altüst edilmekte, terkedilmekte ya da icat edilmekte olan sürekli bir akış halinde bulunmaktadır ve dünyadaki yasal sistemler, teorik bir düzeyde olsa bile, birbirleriyle her zaman bir zıtlık içerisindedirler. Şeriat kanunları genellikle Anglo-Sakson ortak hukukuna direkt karşıdır ve modern demokratik "çete kuralları" süreci çoğu zaman ahlaki ideallerin ölçülü uygulanmasının aksine bir Mafya saldırısına benzer.
-6. Nietzsche'nin ısrarla savunduğu gibi, bütün “ahlak” sistemleri sadece kontrol araçlarıdır. Bu kitapta, etik olmadığını varsayarak başlıyor ve oradan bir çerçeve inşa ediyorum.
-7. İnsanoğlunun etik *içgüdülerine* büyük saygı duyuyorum. Cinayet, tecavüz, saldırı ve hırsızlık üzerine neredeyse evrensel toplumsal yasaklar, herhangi bir rasyonel etikçinin bir köşeye attığı gerçeklerdir. Aristoteles, tecavüzün ahlaki olduğunu ispatlamak için kullanılması gereken herhangi bir etik teorinin, en azından onunla ilgili yanlış bir şey içermesi gerektiğini savundu. Böylece, ahlaki teorileri doğrulamak için bir yapı geliştirdikten sonra, kabul görmüş ahlaki önermelerin, gerçek olup olmadıklarını bu yapı aracılığıyla yürütüyorum.
-8. Zekanıza, "gerçeklik", "sebep", "bütünlük" gibi kelimeleri tanımlamaktan kaçınacak kadar saygı duyuyorum. Tekerleği değiştirmek zorunda kalmadan yapacak yeteri kadar işimiz var.
-9. Son olarak, herhangi bir teori -özellikle bir etik teorisi kadar temel olan biri- zaten herkesin içgüdüsel olarak bildiğini sadece onaylarsa pek iyi olmadığını düşünürüm. Hayatımın yıllarını, sadece "cinayetin yanlış olduğunu" ispatlamak için bir etik teori üzerinde harcamadım. Bana göre, en iyi teoriler, herkesin sezgisel olarak anladığı – ve sonra bu ilkeler, tamamen karşı olabilecek yeni doğruları ortaya çıkarmak için kullanılır – doğrulanan gerçeklerdir.
+1. I fully accept the Humean distinction between “is” and “ought.” Valid moral rules cannot be directly derived from the existence of anything in reality. The fact that human beings in general *prefer* to live, and must successfully interact with reality in order to do so, cannot be the basis for any valid theory of ethics. Some people clearly do not prefer to live, and steadfastly reject reality, so this definition of ethics remains subjective and conditional.
+2. Ethics cannot be objectively defined as “that which is good for man’s survival.” Certain individuals can survive very well by preying on others, so this definition of ethics does not overcome the problem of subjectivism. In biological terms, this would be analogous to describing evolutionary tendencies as “that which is good for *life’s* survival” – this would make no sense. Human society is an ecosystem of competing interests, just as the rainforest is, and what is “good” for one man so often comes at the expense of another.
+3. I do not believe in any “higher realm” of Ideal Forms. Morality cannot be conceived of as existing in any “other universe,” either material or immaterial. If morality exists in some “other realm,” it cannot then be subjected to a rigorous rational or empirical analysis – and, as Plato himself noted in “The Republic,” society would thus require an elite cadre of Philosopher-Kings to communicate – or, more accurately, *enforce* – the incomprehensible edicts of this “other realm” upon everyone else. This also does not solve the problem of subjectivism, since that which is inaccessible to reason and evidence is by definition subjective.
+4. I do not believe that morality can be defined or determined with reference to “arguments from effect,” or the predicted consequences of ethical propositions. Utilitarianism, or “the greatest good for the greatest number,” does not solve the problem of subjectivism, since the odds of any central planner knowing what is objectively good for everyone else are about the same as any central economic planner knowing how to efficiently allocate resources in the absence of price – effectively zero. Also, that which is considered “the greatest good for the greatest number” changes according to culture, knowledge, time and circumstances, which also fails to overcome the problem of subjectivism. We do not judge the value of scientific experiments according to some Platonic higher realm, or some utilitarian optimisation – they are judged in accordance with the scientific method. I will take the same approach in this book.
+5. I also refuse to define ethics as a “positive law doctrine.” Although it is generally accepted that legal systems are founded upon systems of ethics, no one could argue that every law within every legal system is a perfect reflection of an ideal morality. Laws cannot directly mirror *any* objective theory of ethics, since laws are in a continual state of flux, constantly being overturned, abandoned and invented – and legal systems the world over are often in direct opposition to one another, even at the theoretical level. Sharia law is often directly opposed to Anglo-Saxon common-law, and the modern democratic “mob rule” process often seems more akin to a Mafia shoot-out than a sober implementation of ethical ideals.
+6. I am fully open to the proposition that there is no such thing as ethics at all, and that all systems of “morality” are mere instruments of control, as Nietzsche argued so insistently. In this book, I start from the assumption that there is no such thing as ethics, and build a framework from there.
+7. I do have great respect for the ethical *instincts* of mankind. The near-universal social prohibitions on murder, rape, assault and theft are facts that any rational ethicist discards at his peril. Aristotle argued that any ethical theory that can be used to prove that rape is moral must have something wrong with it, to say the least. Thus, after I have developed a framework for validating ethical theories, I run these generally accepted moral premises through that framework, to see whether or not they hold true.
+8. I respect your intelligence enough to refrain from defining words like “reality,” “reason,” “integrity” and so on. We have enough work to do without having to reinvent the wheel.
+9. Finally, I believe that any theory – especially one as fundamental as a theory of ethics – does little good if it merely confirms what everybody already knows instinctively. I have not spent years of my life working on a theory of ethics in order to run around proving that “murder is wrong.” In my view, the best theories are those which verify the truths that we all intuitively understand – and then use those principles to reveal new truths that may be completely counter-intuitive.
 
-Hayatımın son birkaç yılını hazırlanmak, çalışmak ve bu canavarla mücadele etmek için harcadıktan sonra, umarım kendime bir miktar onur tanımış olurum. Zaferle çıktığımı düşünüyorum -tamamen yaralanmamış olsa da- ve bu görüşü paylaşanları görmek için sabırsızlanıyorum.[^2]
+Having spent the last few years of my life preparing, training, and then combating this beast, I hope that I have acquitted myself with some measure of honour. I believe that I have emerged victorious – though not entirely unscathed – and I look forward to seeing who shares this view.[^2]
 
-Yüksek lisansta felsefe tarihi okudum ve yüksek lisansım var fakat felsefe doktoram yok. Herkes tarafından tanınan bir entelektüelden uzaktayım. *En* olası şampiyon olmasam da, aynı zamanda en olasıdan çok daha uzaktayım. Başarılı olup olmamam sana veya bana bağlı değil.
+I studied the history of philosophy in graduate school, and hold a Masters degree, but I do not have a PhD in philosophy. I am far from a publicly recognised intellectual. While I may not be the *most* unlikely champion, I am also far from the most likely. Whether I have succeeded or not is not up to you, and it is not up to me.
 
-Eğer mantık dayanırsa, en büyük canavar yıkılır.
+If the reasoning holds, the greatest beast is down.
 
-### Mütevazi Bir Öneri
+### A Modest Suggestion
 
-Küstahlığın seviyesi okuyuculara nasıl okuyacaklarını dikte eder, ama önümğzdeki zorlukları ele alırsak, öne çıkarmadan önce bir öneri daha vermek isterim.
+It is the height of audacity to suggest to readers how to read a book, but given the challenges of the task before us, I would like to make one small suggestion before we embark.
 
-Eğer on beşinci yüzyılda yaşasaydın ve seni dünyanın yuvarlak olduğuna inandırmaya çalışsaydım önüne fiziksel ve matematiksel kanıtlar sererdim. Eğer aksine bir görüş bildirdiyseniz, doğal olarak şüphecilikle tepki vereceksiniz ve her satırınızda bir kanıt sunmaya eğilimli olacaksınız. Bununla birlikte, eğer dünyanın etrafına yelken açarsak ve adımlarımızı tekrar etmeden başladığımız yere geri dönersek, zaten *yaşadığınız şeylerin* gerçek olması için kavramsal kanıtları kabul etmeye daha fazla istekli olursunuz. Belirli bir mantıksal hata veya metafor ile ilgili belki bir hata bulabilirsiniz ama zaten sonucu destekliyorsunuz ve teoriyi bir bütün olarak reddetmektense detayları düzeltmek için yardım etmeye daha yatkın olursunuz.
+If we lived in the fifteenth century, and I were trying to convince you that the world were round, I would put forward reams of mathematical and physical proofs. If you held a contrary opinion, you would naturally react with scepticism, and be inclined to quibble with every line of proof. However, if you and I could in fact sail around the world, and arrive back where we started without retracing our steps, you would be far more willing to accept the conceptual proofs for what you had already *experienced* to be true. You might find fault with a particular logical step or metaphor, but you would already agree with the conclusion, and thus would be more prone to help correct the details rather than reject the theory as a whole.
 
-Eğer görevim, her dilsel, mantıksal ve ampirik adıma olası itirazlara tepki vermek olsaydı, bu kitap sonsuza kadar bitmemiş ve okunmamış kalacaktı. Mükemmelliyetçilik, özünde ertelemedir ve bu kitabın görevinin çok önemli olduğunu düşünüyorum – yanlış ahlakın tehlikeleri çok ciddi ve yakınımızda – cennete ulaşmaya çalışırken hepimiz cehenneme gitmek için bu kadar uzun süre harcayacağız.
+If my task were to respond to every possible objection to every linguistic, logical and empirical step, this book would remain forever unfinished – and unread. Perfectionism is, in essence, procrastination, and I consider the task of this book to be too important – and the dangers of false morality too grave and imminent – to spend so long trying to achieve heaven that we all end up in hell.
 
-Bu nedenle, alçakgönüllülükle, önerdiğim etik çerçevenin, teoriye ilişkin mutlak karara varmadan önce insanlığın en yaygın kabul gören ahlaki zaaflarını kanıtlamanın ne kadar etkili olduğunu görmek için beklemenizi öneririm.
+Thus I humbly suggest that you wait to see how effective the ethical framework I propose is at proving the most commonly accepted moral maxims of mankind before passing final judgement on the theory.
 
-Gerçekten, rasyonel bir etik çerçeve tanımını insanlığın yüz yüze görmesi gereken en önemli görev olduğuna inanıyorum. Bu önemli konudaki ilginizden dolayı gerçekten teşekkürü borç bilirim ve bu işi mümkün kılan harika bağışçılara daima teşekkür etmek isterim.
+I truly believe that the definition of a rational ethical framework is the most essential task that faces mankind. I truly appreciate your interest in this crucial matter – and would like as always to thank the wonderfully kind donators who have made this work possible.
 
-Başkaları tarafından iyi silahlanmış bir savaşa biniyorum.
+I ride into battle well armed by others.
 
-[^1]: Bunların çoğu bu kitap boyunca detaylı bir şekilde ele alınacaktır.
+[^1]: Most of these will be discussed in more detail throughout the course of this book.
 
-[^2]: Elbette, eğer başarısız olduysam, en azından hem kendimi hem de onları eğlendirdim ve iyi bir örnek oldum.
+[^2]: Of course, if I have failed, I have at least failed spectacularly, which itself can be both edifying and entertaining!

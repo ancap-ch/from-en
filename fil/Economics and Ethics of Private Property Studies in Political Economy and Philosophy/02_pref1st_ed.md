@@ -1,0 +1,15 @@
+## Ang Pambungad sa Unang Edisyon
+
+Ang pagguho ng sosyalismo sa buong panig ng Silangang Europa- bilang pagpapahayag sa kamangha-manghang mga kaganapan noong Ika-Nobyembre 9, taong 1989 ng walang hanggang memoryabliya, noong ang mga Aleman ng Silangan at Kanluran ay nag-sanib, lumipat at nagsaya, sa tuktol Berlin Wall-ay nagdagdag ng maraming suporta at pangangailangan sa gitna ng mahahagang suliranin na ito kaysa sa inaasahan ko.
+
+Maging ang mga sumusunod na pag-aaral kasama ang mga paksang ekonomika tulad ng trabaho, tubo, pero, pagbabanko, negosyo, mga buwis,
+pampublikong paninda, pagyabong; na may mga problemang pilosopikal bilang mga pundasyon ng kaalaman, at sa partikular na ekonomika at etika; o kaya sa muling pagtatayo at teorya sa pagpapaliwanag ng kababalaghan sa historikal at sosyolohikal tulad ng pagsasamantala, ang pagbangonat pagbagsak ng mga kabihasnan, pandaigdigang politikal, giyera, imperyalismo at ang katangian ng mga ideya at ang kilusang ideolohiya sa kurso ng pagsulong sa panlipunan-ang bawat isa ay nag-aambag ng pangwakas ngunit iisa lamang ang kongklusyon: Ang karapatan sa pribadong ari-arian ay isang malinaw na balido, ay lubos ng prinsipyo ng etika at ang batayan para sa pagpapauloy sa "pinakamainam" na pagpapaunlad sa ekonomiya. Para makabangon sa pagkawasak ng sosyalismo at pagtatagumpay sa hindi pagkilos ng mga estado ng Western welfare, walang magkakasya pero ang matatag na pribatisasyon ng lahat ng mga lipunan, yan ay, ari-arian, ng gobyerno at ang pagkakatatag ng samahan na kontrakwal base sa pagkilala ng mga pagiging ganap ng mga karapatan sa pribadong ari-arian.
+
+Ang pagsulat sa mga sumusunod na mga pag-aaral ako ay nakatanggap ng tulong mula sa maraming panig. Ang espesyal na pasasalamat ay mapupunta sa aking asawa na si Margaret, na kung saan muling kinuha sa gawin ng de-Germanizing my English; para kay Llewellyn H. Rockwell, Jr., ang pangulo ng Instutosyong Ludwig von Mises, at para kay Burton S. Blumert, ang pangulo ng Center para sa Pag-aaral ng Libertarian, at para sa kanyang patuloy na pagsuporta sa aking gawain; at para sa aking kaibigan na si David Gordon, para sa kanyang hindi mabilang na mahahalagang mungkahi at mga komento.
+
+At ang aking pinaka malaking utang na loob kay Ludwig von Mises and Murray N. Rothbard, ang twentieth century’s para sa dalawang magiting-bagama't maraming pinabayaan-sa ekonomista at pilosopong panlipunan. Habang hindi ko nakita si Ludwig von Mises, at ang katotohanan ay hindi ko narinig ang kanyang pangalan hanggang sya ay mamatay, At ako ay maligaya na naging malapit ang kaugnayan kay Murray Rothbard sa nakalipas na anim na taon, una sa Siyudad ng New York, at sa taong 1986 bilang mga kasamahan sa Unibersidad ng Nevada, Las Vegas. Hiwalay mula sa utang na pangkaisipan bukod sa utang na loob ko sa kanya, ang aking mga salita ay hindi maihahayag ang aking personal
+na pasasalamat. Ang kanyang karunungan, pananaw, kabaitan, sigla at walang kapaguran na nagbigay ng lakas ng loob na nagpapatuloy ng pagbibigay inspirasyon sa akin. Ito ay samakatuwid, ay mga halagang ito ay inaalay sa kanya.
+
+Hans-Hermann Hoppe
+
+*Las Vegas, Nevada, 1993*
