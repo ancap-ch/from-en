@@ -42,27 +42,27 @@ We hope you enjoy!
 | fa | Persian/Farsi (فارسی) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/fa) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/ir) | [Channel](https://IR.ancap.ch) |
 | fil | Filipino | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/fil) | blueleaf2017 | Channel |
 | fr | [French (Français)](https://drive.google.com/open?id=17L3FcsYP9GX4tHRxFJ51sUudYgJa0oO_) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/fr) | jmromero | [Channel](https://FR.ancap.ch) |
-| ha | [Hausa (Yaren Hausa)](https://drive.google.com/open?id=1wfbtz5FFrvnKJTvawvYPkpt4Mm7NWrgw) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ha) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/ng) | [Channel](https://NG.ancap.ch) |
-| hi | Hindi (हिंदी) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/hi) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/in) | [Channel](https://IN.ancap.ch) |
+| ha | [Hausa (Yaren Hausa)](https://drive.google.com/open?id=1wfbtz5FFrvnKJTvawvYPkpt4Mm7NWrgw) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ha) | Proofreaders | [Channel](https://NG.ancap.ch) |
+| hi | Hindi (हिंदी) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/hi) | Proofreaders | [Channel](https://IN.ancap.ch) |
 | id | [Indonesian (Bahasa Indonesia)](https://drive.google.com/open?id=1MbdKi0prim0oDvuMwqhUz9eVZAXI15LC) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/id) | coretanku & yhandot | [Channel](https://ID.ancap.ch) |
-| ig | Igbo (Ásụ̀sụ̀ Ị̀gbò) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ig) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/ng) | [Channel](https://NG.ancap.ch) |
+| ig | Igbo (Ásụ̀sụ̀ Ị̀gbò) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ig) | Proofreaders | [Channel](https://NG.ancap.ch) |
 | it | [Italian (Italiano)](https://drive.google.com/open?id=1NoKLFq3pj52mznZmCRLa81hiLNSAmze9) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/it) | RobertBira & Digitalplayer-steemit | [Channel](https://IT.ancap.ch) |
-| ja | [Japanese (日本語)](https://drive.google.com/open?id=1mw1eGXSr7ocZZmksiOXtbCXtyhRgIOh-) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ja) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/jp) | [Channel](https://JP.ancap.ch) |
-| ko | Korean (한국어) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ko) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/kr) | [Channel](https://KR.ancap.ch) |
+| ja | [Japanese (日本語)](https://drive.google.com/open?id=1mw1eGXSr7ocZZmksiOXtbCXtyhRgIOh-) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ja) | Proofreaders | [Channel](https://JP.ancap.ch) |
+| ko | Korean (한국어) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ko) | Proofreaders | [Channel](https://KR.ancap.ch) |
 | mk | Macedonian (македонски) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/mk) | omersurer | Channel |
 | ms | [Malay (Melayu)](https://drive.google.com/open?id=1dEBkg168KJGsexebp0yS6TKD_uxvsnR2) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ms) | plokmi | [Channel](https://MY.ancap.ch) |
-| my | Burmese (mranmabhasa) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/my) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/mm) | [Channel](https://MM.ancap.ch) |
+| my | Burmese (mranmabhasa) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/my) | Proofreaders | [Channel](https://MM.ancap.ch) |
 | nl | Dutch (Nederlandse taal) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/nl) | Proofreaders | Channel |
 | pcm | [Nigerian Pidgin](https://drive.google.com/open?id=1Kd621BVUBtGO9KlBh8O0z1L70ZLed6kq) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/pcm) | zoneboy & TheOutspokenKing | [Channel](https://NG.ancap.ch) |
-| pl | [Polish (Język polski)](https://drive.google.com/open?id=1C80huqY7CLxuiio7CEYcTR18w6SdWQFi) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/pl) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/pl) | [Channel](https://PL.ancap.ch) |
-| pt-BR | [Portuguese (Português) Brazil](https://drive.google.com/open?id=1IzBUzwfVgi1-TYnnJdOX3--HxG63jByh) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/pt-BR) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/br) | [Channel](https://BR.ancap.ch) |
+| pl | [Polish (Język polski)](https://drive.google.com/open?id=1C80huqY7CLxuiio7CEYcTR18w6SdWQFi) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/pl) | Proofreaders | [Channel](https://PL.ancap.ch) |
+| pt-BR | [Portuguese (Português) Brazil](https://drive.google.com/open?id=1IzBUzwfVgi1-TYnnJdOX3--HxG63jByh) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/pt-BR) | Proofreaders | [Channel](https://BR.ancap.ch) |
 | pt-PT | [Portuguese (Português) Portugal](https://drive.google.com/open?id=1YyoKO_ke61DkqxCL_ygIH89dDMo4K2HR) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/pt-PT) | Proofreaders | Channel |
-| ru | [Russian (Русский)](https://drive.google.com/open?id=1VC5YfgPSuKIkgbzhdxgLxpPSR-RPzcJ3) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ru) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/ru) | [Channel](https://RU.ancap.ch) |
-| th | Thai (ไทย) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/th) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/th) | [Channel](https://TH.ancap.ch) |
+| ru | [Russian (Русский)](https://drive.google.com/open?id=1VC5YfgPSuKIkgbzhdxgLxpPSR-RPzcJ3) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ru) | Proofreaders | [Channel](https://RU.ancap.ch) |
+| th | Thai (ไทย) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/th) | Proofreaders | [Channel](https://TH.ancap.ch) |
 | tl | [Tagalog](https://drive.google.com/open?id=1oUlhwwnuSlKXsdnyBSx5RvGyb1WK6hW1) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/tl) | RuahTheKing | [Channel](https://PH.ancap.ch) |
 | tr | [Turkish (Türkçe)](https://drive.google.com/open?id=1nIuIUtaoikzwtKjt9r1l6e0jVLxmCKlI) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/tr) | tyraell | [Channel](https://TR.ancap.ch) |
-| ur-IN | Urdu (اردو) India | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ur-IN) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/in) | [Channel](https://IN.ancap.ch) |
+| ur-IN | Urdu (اردو) India | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ur-IN) | Proofreaders | [Channel](https://IN.ancap.ch) |
 | ur-PK | Urdu (اردو) Pakistan | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ur-PK) | saahir1 & syedubair | [Channel](https://PK.ancap.ch) |
-| vi | Vietnamese (Việt Nam) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/vi) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/vn) | [Channel](https://VN.ancap.ch) |
+| vi | Vietnamese (Việt Nam) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/vi) | Proofreaders | [Channel](https://VN.ancap.ch) |
 | yo | [Yoruba](https://drive.google.com/open?id=1_Nnjefj8UgKtlSPK8XfEdGsKNw0geacN) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/yo) | brainz1985 | [Channel](https://NG.ancap.ch) |
 | zh-CN | [Chinese (中文)](https://drive.google.com/open?id=1R7R4g0QBn_TCm9P21S1YcNBoYgiixffM) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/zh-CN) | sunray-steemit & rosatravels | [Channel](https://CN.ancap.ch) |
