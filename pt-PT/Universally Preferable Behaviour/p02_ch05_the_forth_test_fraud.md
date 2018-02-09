@@ -1,31 +1,33 @@
-## The Forth Test: Fraud
+## Quarto Teste: Fraude
 
-Right at the edge of what is generally considered ethical sits the challenge of *fraud*.
+Mesmo na extremidade do que é geralmente considerado ético situa-se o desafio da *fraude*.
 
-Fraud is the obtaining of value through false representation. If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
+Fraude é o valor obtido através de uma representação falsa. Se eu disser-te que te irei enviar um iPod caso tu me deres duzentos dólares, e depois fico com o teu dinheiro sem enviar-te o iPod, nós instintivamente entendemos que isso é uma forma de roubo.
 
-Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
+Deixe-nos colocar o problema de fraude através do moedor do UPB, e verificar se isso se mantém.
 
-Clearly, fraud requires that one person *not* be engaged in fraud. In the above potential transaction, if I am hoping to steal your two hundred dollars, and you are hoping to steal my iPod, nothing will come of it. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
+Claramente, fraude requer que uma pessoa *não* esteja envolvida em fraude. Na potencial transação acima, se eu estiver à espera de roubar-te os duzentos dólares, e tu estares à espera de me roubares o meu iPod, nada surgirá disso.
 
-Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
+Tu vais exigir o iPod antes de providenciares o pagamento, e eu vou exigir o pagamento antes de providenciar o iPod. Nós estaremos num impasse, totalmente incapazes de defraudar um ao o outro.
 
-To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
+Claramente, para uma fraude ocorrer, uma das partes tem que agir de boa fé. Assim a pessoa que deseja cometer fraude baseia-se no fato de que a outra pessoa *não* deseja cometer fraude, com o fim de aproveitar-se dele.
 
-What happens then?
+Para retornar às nossas infelizes cobaias morais, o que aconteceria se nós pedíssemos ao Bob e ao Doug para agir sobre o princípio moral de que a "fraude é boa"? Se o Doug tiver vinte dólares, e o Bob um isqueiro, e o Doug oferecer vinte dólares ao Bob em troca do isqueiro, e depois leva o isqueiro mas não dás os vinte dólares para Bob, então Doug está agindo na premissa de que fraude é boa.
 
-Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
+O que acontece então?
 
-UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
+Claramente, o princípio de que "fraude é bom" não pode ser representado por ambos Doug e Bob ao mesmo tempo - visto que para cometer fraude, Doug deve agir desonestamente, e Bob deve agir honestamente. Assim, para permitir a ação "moral" de Doug, Bob tem que agir "imoralmente."
 
-If Doug commits fraud on Bob with the justification that “it is good to lie to get what you want,” then clearly it must also be good to be honest as well, since it is impossible to get what you want by lying unless other people are willing to assume your honesty. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
+UPB destrói esta possibilidade, uma vez que nenhuma teoria moral valida pode exigir ações opostas nas mesmas circunstâncias.
 
-This is how we know that fraud is wrong.
+Se o Doug cometer fraude sobre o Bob com a justificação de que "é bom mentir para ganhares o que tu queres," então claramente também tem que ser bom ser honesto, uma vez que é impossível ganhar o que tu queres mentindo a menos que as outras pessoas estejam dispostas a assumir a sua honestidade. Assim, a premissa de que é bom mentir para conseguir o que tu quiseres não pode ser atingida a menos que as outras pessoas agam com integridade - assim mentir e honestidade são simultaneamente requeridos para o cumprimento do princípio moral. Isto não pode logicamente ser suportado - que ambos em ação *e é o completo oposto* sejam simultaneamente morais no mesmo lugar, para as mesmas pessoas, e no mesmo lugar.
 
-Again, knowing that fraud is “wrong” simply means that we know that any moral theory that justifies fraud is invalid, because it is self-contradictory. If we build a bridge, and the bridge falls down, we know that the bridge was “wrong” – but the most important thing that we can learn from this disaster is not that the bridge fell down, but to understand the flaws in the theory that caused us to build a bridge that fell down. Similarly, moral theories that cause disasters, such as communism, fascism and Nazism, are important to evaluate relative to UPB not only so we can understand how they went so wrong, but also how to fix our moral theories in the future. Since as a species, we will be forever building bridges, it is essential that we get our facts and theories right, or they will endlessly fall down around us.
+Isto é como nós sabemos que a fraude é errado.
 
-However, the question remains whether fraud is evil, or just an aesthetically negative action (ANA).
+Novamente, sabendo que a fraude é "errado" significa simplesmente que nós sabemos que qualquer teoria moral que justifique fraude é invalida, porque é auto contraditória. Se construímos uma ponte, e a ponte desaba, sabemos que a ponte estava "errada" - mas a coisa mais importante que podemos aprender com este desastre não é que a ponte desabou, mas entender que as falhas na teoria que causaram a construção de uma ponte que caiu. Da mesma forma, teorias morais que causam desastres, como comunismo, fascismo e nazismo, são importantes para avaliar em relação ao UPB não só para que possamos entender como elas erraram, mas também como arranjar as nossas teorias morais no futuro. Desde que, como uma espécie, nós vamos estar a construir pontes para sempre, é essencial que tenhamos os nossos fatos e teorias direitos, ou elas irão cair infinitamente à nossa volta.
 
-Fraud is unusual compared to rape, theft and murder, insofar as it requires that the victim act positively to participate in the process. I can jump up behind you and strangle you without any participation on your part, but I cannot defraud you unless you participate to some degree. Thus fraud falls under the umbrella of “avoidability,” and so is in a fundamentally different category than rape, murder and theft. However, the degree of avoidability partly determines the degree of immorality involved. Sending your bank information to a Nigerian email spammer is certainly avoidable; being cheated by an eBay business with a perfect rating is far less avoidable.
+No entanto, a questão permanece se a fraude é mau, ou apenas uma ação esteticamente negativa (ANA).
 
-There may be certain situations under which fraud is unavoidable, such as “bartering” for a life-saving medicine when no alternative exists, but that falls under the “grey area” that we have discussed above – these occurrences are so rare that they are to ethics as mutations are to biological species.
+Fraude é incomum comparado com violação, roubo e assassinato, na medida em que requer que a vítima participe positivamente do processo. Eu posso saltar detrás de ti e estrangular-te sem qualquer participação da tua parte, mas eu não posso defraudar-te a menos que tu participes até certo grau. Assim a fraude cai sob o guarda-chuva da "evitabilidade," e então é uma categoria fundamentalmente diferente da violação, assassinato e roubo. No entanto, o grau de evitabilidade determina parcialmente o grau da imoralidade envolvida. Enviar as tuas informações bancárias para um e-mail nigeriano spammer é certamente evitável; ser enganado por um negócio no eBay com uma avaliação perfeita é bem menos evitável.
+
+Podem haver situações sobre as quais a fraude é inevitável, como uma "permuta" por uma medicina salva vidas quando não existe outra alternativa, mas isso cai sob a "área cinzenta" que nós discutimos acima - estas ocorrências são tão raras que elas são para a ética como as mutações são para as espécies biológicas. 
