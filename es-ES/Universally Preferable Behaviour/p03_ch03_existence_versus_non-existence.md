@@ -54,53 +54,53 @@ La sociedad progresa exactamente al grado en que la razón y la evidencia dan el
 
 Decir que el gobierno opera bajo reglas morales opuestas al resto de la sociedad es exactamente lo mismo que decir,"los duendes son inmunes a la gravedad". En primer lugar, los duendes no existen - y una de las formas en que sabemos que no existen es que se dice que son inmunes a la gravedad. Todo lo que tiene masa está sujeto a la gravedad - lo que por definición es inmune a la gravedad no tiene masa, y por lo tanto no existe. La frase "los duendes son inmunes a la gravedad" es una tautología, que sólo confirma la inexistencia de los duendes - es el equivalente semántico de "lo que no existe, no existe". A es A, la primera ley lógica de Aristóteles, hace muy poco para confirmar la existencia de lo que se define como inexistencia.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+De la misma manera, cuando decimos que es moralmente bueno que los soldados asesinen y que los representantes del gobierno roben, sabemos que los "soldados" y los "representantes del gobierno" como categorías morales son *completamente inválidos*.
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+Si digo que un círculo cuadrado tiene derecho a robar, simplemente digo que lo que no puede existir tiene derecho a hacer lo que es - contradictorio - una declaración puramente absurda, pero que sigue siendo extrañamente convincente en la "zona nula" de la política.
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+Si compro un disfraz de soldado en una tienda de segunda mano y me lo pongo, claramente no he creado un universo alterno en el que reglas morales opuestas puedan ser válidas. El momento antes de que me pusiera el uniforme, estaba mal para mí asesinar - ¿cuándo se convierte en un *derecho* para mí asesinar? ¿Cuando me puse los pantalones? ¿Y si llevo los pantalones puestos, pero no el chaleco? ¿Qué pasa si sólo tengo una bota puesta? ¿Y si las dos botas están puestas, pero sólo una está atada? ¿Y si mi sombrero está al revés? ¿Qué pasa si me he puesto un uniforme que no es reconocido por la primera persona con la que me encuentro? ¿Los Beatles repentinamente poseían el derecho a asesinar cuando dispararon la portada de "Sargeant Peppers"? ¿Perdieron ese derecho cuando se quitaron las chaquetas?
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Hago estas preguntas retóricas porque de hecho son mortalmente serias. Claramente, un uniforme militar no cambia la naturaleza de un ser humano, como tampoco un corte de pelo lo convierte en un pato, un concepto o un dios.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+"Ah," puedes decir,"pero el uniforme es inválido porque lo conseguiste en una tienda de segunda mano - ponerse el uniforme del soldado no te hace más soldado que fotocopiar un doctorado te de un doctorado."
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+La analogía es incorrecta, porque tener un doctorado o fotocopiar un doctorado no cambia ninguna de las reglas morales a las que estás sujeto como ser humano.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+"Bueno" puede responder, "pero la diferencia es que el soldado posee derechos morales que le otorga el ciudadano común, en aras de la autodefensa colectiva y así sucesivamente".
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Esto plantea un punto muy interesante, que es la cuestión de si las opiniones pueden cambiar la realidad.
 
-### Opinions And Reality
+### Opiniones y realidad
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Claramente, entendemos que no puedo, a través de mi opinión, liberarte de las restricciones de la gravedad, como tampoco mi opinión de que "dos más dos es igual a cinco" lo hace realidad.
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+Las "opiniones" son aquellas creencias que no tienen evidencia clara en la realidad, o para las cuales no se puede proporcionar evidencia clara, son expresiones de preferencias meramente personales. Mi opinión personal es que prefiero el helado de chocolate a la vainilla - también puedo tener una "opinión" de que Islandia es un paraíso tropical, o que Dios existe, o que la lluvia cae hacia arriba. Las opiniones personales claramente no tienen nada que ver con la moralidad; las opiniones que pretenden describir con precisión la realidad, pero que no lo hacen, son simplemente prejuicios incorrectos. Creer que la lluvia cae hacia arriba no invierte su curso; llevar una camiseta hawaiana a Islandia no hace que Reykjavik sea más cálido.
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+Por lo tanto, creer que el asesinato es moralmente bueno no lo hace moralmente bueno. Puesto que mis creencias acerca de un ser humano no cambian su naturaleza moral, mi creencia de que sus asesinatos son virtuosos no cambia la virtud de sus acciones. Si cierro los ojos e imagino que eres un lagarto, no pierdes repentinamente tu habilidad para regular tu propia temperatura corporal. Imaginar que eres un pez no pasa por alto tu necesidad de equipo de buceo.
 
-Opinions do not change reality.
+Las opiniones no cambian la realidad.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Debido a que las opiniones no cambian la realidad, no puedo concederles ninguna excepción o reversión con respecto a una regla moral universal. Puesto que las reglas morales se basan en la lógica universal, así como en la naturaleza física y la realidad de un ser humano, no puedo concederle el "derecho al asesinato", como tampoco puedo concederle la capacidad de levitar, caminar sobre el agua o decir con exactitud que dos y dos hacen cinco.
 
-### Government As Voluntarism
+### El Gobierno Como Voluntario
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+La fuerza abierta involucrada en la institución del gobierno - el envoltorio conceptual que invierte las reglas morales para un grupo particular de individuos - es algo que siempre se mantiene fuera de la mesa en los debates. Cuando se habla de gobierno, nunca se considera positivo señalar "el arma en la habitación". Casi por definición, se considera que los gobiernos son elegidos por y para el pueblo, y que operan con su aprobación expresa o implícita.
 
-However, this is pure nonsense.
+Sin embargo, esto es pura tontería.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Si un hombre sostiene un cuchillo en la garganta de una mujer mientras mantiene relaciones sexuales con ella, es por definición un acto de violación. Él no puede decir que el sexo es consensual, mientras que al mismo tiempo la amenaza con lesiones o la muerte si ella se niega a tener sexo con él. Si el sexo es voluntario, entonces el cuchillo es completamente innecesario. Si el hombre siente la necesidad de un cuchillo, entonces claramente el sexo es *no* voluntario.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+Del mismo modo, las personas dicen que la tributación forma parte del contrato social que han acordado voluntariamente.
 
-This is both logically and empirically false.
+Esto es tanto lógica y empíricamente falso.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Sabemos que es empíricamente falso porque *no existe ningún contrato social*. Ni tu ni yo *nunca* firmamos un documento que consintiera voluntariamente el impuesto sobre la renta -simplemente nacimos en un sistema que nos quita nuestro dinero a punta de pistola.
 
-### The Gun In The Room
+### El Arma En La Habitación
 
-Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+Mucha gente dirá en este punto que los impuestos no se aplican a punta de pistola, sino que la gente los paga voluntariamente. Por ejemplo, nunca he tenido una pistola apuntada en mi cara por un recaudador de impuestos o un policía, pero he pagado impuestos durante décadas.
 
-This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+Esto puede ser cierto, pero es completamente irrelevante. Si le digo a una mujer que mataré a sus hijos si no tiene relaciones sexuales conmigo, y se somete a mí, entendemos claramente que se ha producido una acción inmoral - aunque no he utilizado armas en mi violación. Claramente, si la mujer se somete a mí, es porque teme que yo lleve a cabo mi amenaza. Si le dijera que mi duende mascota mataría a sus hijos si no tiene relaciones sexuales conmigo, muy probablemente estaría perturbada, pero no temería mi amenaza de manera significativa, ya que es imposible que mi duende mascota mate a sus hijos. O, si yo muriera, y en mi testamento declarara que mataría a los hijos de esta mujer si ella no tuviera relaciones sexuales conmigo, claramente se sentiría aliviada en vez de asustada, ya que no puedo interpretar mi amenaza más allá de la tumba. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
 
 To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
 
