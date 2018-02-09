@@ -90,8 +90,5 @@
 
 [^1]: 在本书的整个过程中，我们将会更详细地讨论这些问题。
 
-<<<<<<< .mine
 [^2]: 当然，如果我失败了，至少我失败得很惨，这本身就是一件既有启迪又有娱乐的事情。
-=======
-[^2]: Of course, if I have failed, I have at least failed spectacularly, which itself can be both edifying and entertaining!
->>>>>>> .theirs
+
