@@ -4,7 +4,7 @@ Ang unang edisyon ng *Ang mga Ekonomika at Etiko ng Pribadong Pagmamayari* inila
 
 *Ang mga Ekonomiko at Etiko ng Pribadong Pagmamayari* ay nakalaan para sa aking guro at tagapagturo, si Murray N. Rothbard, kasama ako na malapit na nakipagugnayan sa huling sampung taon ng kanyang buhay, una bilang isang skolar na bisita sa Brooklyn Polytechnic Institute sa New York City at pagkatapos ng 1986 bilang isang kolihiyo sa unibersidad ng Nevada, Las Vegas. Ang taong 2005 ay mga marka ng sampung anibersaryo ng kamatayan ni Rothbard. Kaya naman, ito ay tila isang pinaka-angkop na oras na parangalan si Murray muli kasama ang ikalawang edisyong ito.
 
-Ang kasalukuyang edisyon ng *Ang mga Ekonomiko at mga Etiko ng Pribadong Pagmamay-ari* ay pinalaki. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+Ang kasalukuyang edisyon ng *Ang mga Ekonomiko at mga Etiko ng Pribadong Pagmamay-ari* ay pinalaki. Ito ay nagdagdag ng apat na artikolo na isinulat pagkatapos ng orihinal na publikasyon ng libro pero ito ay nakaugnay sa tematikalyo para sa sentral na paksa na bagay ng ekonimiko at etikong makatwirang paliwanag ng institusyon ng pribadong pagmamayari—mga kabanatang 6, 7, 8, at 15. Ang oportunidad ng isang bagong edisyon ay nagamit din para gumawa ng makabuluhang mga pag-unlad at mga rebisyon.
 
 Hans Hermann Hoppe
 
