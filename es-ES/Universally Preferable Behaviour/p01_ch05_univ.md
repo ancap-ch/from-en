@@ -106,31 +106,31 @@ Debido a que el método científico requiere de corroboraciones empíricas, debe
 
 Cualquier ser humano sano cree en las reglas morales de algún tipo. Existe un desacuerdo sobre lo que *constituye* las reglas morales, pero todos están ciertos de que las reglas morales son válidas – así como muchos científicos no están de acuerdo, pero todos los científicos aceptan la validez del método científico. Uno puede discutir que la Tierra es redonda y no plana – que es análogo a cambiar la definición de la moralidad – pero uno no puede discutir que la Tierra no existe – lo cual es como discutir que no existe tal cosa como el comportamiento universalmente preferible.
 
-Or:
+O:
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+1. Para que una teoría cinetífica sea válida, debe estar fundamentada por observación empírica.
+2. Si el concepto de "comportamiento universalmente preferible" es válido, entonces la humanidad debería creer en el comportamiento universalmente preferible.
+3. Todos los hombres creen en el comportamiento universalmente preferible.
+4. Por lo tanto existen evidencias empíricas para comprobar la validez del comportamiento universalmente preferible – y la existencia de tal evidencia se *opone* a la proposición de que el comportamineto universalmente preferible no es válido.
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+El cuerto argumento para la validez del comportamiento universalmente preferible también es empírico. Como los seres humanos tienen una cantidad casi infinita de decisiones que hacer durante la vida, decir que no existen principios de comportamiento universalmente preferible sería decir que todas las decisiones son iguales (es decir, subjetivas). Sin embargo, todas las decisiones *no* son iguales, sea de manera lógica o a través de observación empírica.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+Por ejemplo, si la comida está disponible, casi todos lo seres humanos prefieren comer todos los días. Cuando hace frío, casi todos los seres humanos buscan calor. Casi todos los padres escogen alimentar, resguardar y educar a sus hijos. Existen muchos ejemplos de decisiones comunes dentro de la humanidad, que indican que el comportamiento universalmente preferible forma parte de la naturaleza del humano.
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+Como mencionado anteriormente, ninguna teoría válida de la física puede repudiar el simple hecho de que los niños pueden atrapar bolas de moscas – de la misma manera, ninguna teoría válida de la ética puede rechazar la evidencia infinita de la aceptación del CUP.
 
-Or:
+O:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1. Las decisiones son casi infinitas.
+2. La mayoría de los seres humanos toman decisiones muy parecidas.
+3. Por lo tanto no todas las decisiones pueden ser iguales.
+4. Por lo tanto decisiones universalmente preferibles deben ser válidas.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+El quinto argumento para la validez del comportamiento universalmente preferible es evolutivo.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+Debido a que toda la vida orgánica requiere de comportamiento preferencial para sobrevivir, podemos asumir que aquellos organismos que toman las decisiones más exitosas son los más frecuentes a ser seleccionados para la supervivencia.
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+Debido a que el hombre es la especie mas exitosa, y el órgano mas distintivo del hombre es la mente, debe ser la *mente* de un hombre la que lo ha asisitido en tomar las decisiones exitosas. La mente en sí, entonces, ha sido seleccionada como exitosa por su habilidad para tomar decisiones exitosas. Como la mente humana sólo existe como *resultado* de escoger un comportamiento universalmente preferible, CUP debe ser un concepto válido.
 
 O:
 
