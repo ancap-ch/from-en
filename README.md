@@ -38,7 +38,7 @@ We hope you enjoy!
 | cs | [Czech (Čeština)](https://drive.google.com/open?id=1Eh81_9mnOx6fPzPKwVhl8tWIbwvcAspn) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/cs) | Proofreaders | Channel | 
 | de | [German (Deutsch)](https://drive.google.com/open?id=1ZJSmlffH0FgnlYXPbxbDHuPVM3JQtdUc) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/) | jmotip | [Channel](https://DE.ancap.ch) |
 | en | [English (Original)](https://drive.google.com/open?id=1xr75MTKrof1RRWumSY9bVok232zA7ZpJ) | [Repository](https://github.com/ancap-ch/from-en/tree/production/en) | Proofreaders | [Channel](https://EN.ancap.ch) |
-| es-ES | [Spanish (Español)](https://drive.google.com/open?id=18SHPeRibheHAY9KvJqfFWtoQE2IoFN51) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/es-ES) | jmromero & bobsthinking & isabella394 | [Channel](https://ES.ancap.ch) |
+| es-ES | [Spanish (Español)](https://drive.google.com/open?id=18SHPeRibheHAY9KvJqfFWtoQE2IoFN51) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/es-ES) | jmromero & isabella394 | [Channel](https://ES.ancap.ch) |
 | fa | Persian/Farsi (فارسی) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/fa) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/ir) | [Channel](https://IR.ancap.ch) |
 | fil | Filipino | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/fil) | blueleaf2017 | Channel |
 | fr | [French (Français)](https://drive.google.com/open?id=17L3FcsYP9GX4tHRxFJ51sUudYgJa0oO_) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/fr) | jmromero | [Channel](https://FR.ancap.ch) |
