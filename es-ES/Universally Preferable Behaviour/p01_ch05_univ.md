@@ -1,110 +1,110 @@
-## Comportamiento Universalmente Preferible
+## Comportamiento universalmente preferible
 
-Como resultado de los argumentos anteriores, podemos ver que es imposible entrar en ningún debate sin aceptar la premisa de que ciertos comportamientos son *universalmente preferibles*.
+Como resultado de los argumentos anteriores, podemos ver que es imposible entrar en cualquier debate sin aceptar la premisa de que ciertos comportamientos son *universalmente preferibles*.
 
-Utilizo aquí la palabra “comportamiento” en lugar de “pensamiento” porque es importante diferenciar entre los estados puramente internos y no verificables como “pensar”, de los estados objetivos y verificables como “actuar”, “escribir” y “hablar”.
+Utilizo la palabra "comportamiento" aquí en lugar de "pensamiento" porque es importante diferenciar entre estados puramente internos e incontrolables como "pensamiento" de estados objetivos y verificables como "actuar", "escribir" y "hablar”
 
-Es imposible demostrar que soñé con un elefante anoche. Pero es posible demostrar que escribí la palabra “elefante”, esta es la razón por la que utilicé la palabra “comportamiento” en lugar de “pensamiento”.
+Es imposible probar que anoche soñé con un elefante. Es posible probar que he escrito la palabra "elefante", por lo que utilizo la palabra "comportamiento" en lugar de "pensamiento.”
 
-Aprobar la lógica superior en un argumento es una *acción*. Si, cada vez que te concediera un punto, no dijera nada, sino que simplemente te mirara sin comprender, te resultaría bastante irritante debatir conmigo. Para conceder un punto, debo realizar la acción de aquiescencia verbal.
+Adquirir a la lógica superior en un argumento es una *acción*. Si, cada vez que te concedía un punto de vista, no decía nada, sino que simplemente te miraba fijamente, encontrarías bastante irritante debatirme. Para conceder un punto, debo realizar la acción de aquiescencia verbal.
 
-Por lo tanto, se puede ver que, inherente al mismo acto de argumentar, están un número de premisas integradas que no pueden ser descartadas.  
+Por lo tanto, se puede ver que, inherentes al acto mismo de argumentar, hay una serie de premisas implícitas que no se pueden revertir.
 
-Si te pregunto si nos encontramos en la cancha de tenis y te presentas con un rifle de caza, podemos terminar jugando un tipo de deporte, pero ciertamente no será tenis. Cuando te pregunto si nos encontramos en la cancha de tenis para un juego, implícitamente en esa solicitud está una aceptación de las reglas del tenis.
+Si te pido que te reúnas conmigo en la pista de tenis, y me presento con un rifle de caza, podemos terminar jugando una especie de deporte, pero ciertamente no será tenis. Cuando te pido que te reúnas conmigo en la pista de tenis para un partido, implícito en esa petición es la aceptación de las reglas del tenis.
 
-Históricamente, esos que participan en el debate ético a menudo han fallado en mantener esta realidad básica.
+Históricamente, los que se dedican al debate ético a menudo han fracasado en mantener esta realidad básica.
 
-No puedo enviar un artículo científico escrito en mi propio lenguaje personal, reclamando que está referenciado por mi pez dorado psíquico y esperar que sea tomado seriamente. Similarmente, no puedo comenzar un debate filosófico sobre ética con referencia en mis propios valores personales y reclamar que mis argumentos han sido todos validados por Trixie el omnisciente e invisible leprechaun y esperar que lo tomen en serio.
+No puedo presentar un trabajo científico escrito en mi propio idioma personal, afirmando que ha sido arbitrado por mi pez dorado psíquico, y espero que se me tome en serio. Del mismo modo, no puedo iniciar un debate filosófico sobre la ética con referencia a mis propios valores personales, y afirmar que todos mis argumentos han sido validados por Trixie la omnisciente e invisible duende, y espero que sean tomados en serio.
 
-El mismo acto de debatir requiere aceptar un comportamiento universalmente preferible (CUP). Así no hay manera de responder racionalmente a un argumento ético *sin* exhibir un CUP.
+El acto mismo de debatir requiere una aceptación del comportamiento universalmente preferible (CUP). No hay manera de responder racionalmente a un argumento ético *sin* exponer el CUP.
 
-Ahora pasemos a una serie de pruebas positivas para el CUP.
+Volvamos ahora a una serie de pruebas positivas para el CUP.
 
 ### CUP y Validez
 
-Uno de los desafíos centrales que enfrentan los filósofos modernos es la necesidad de probar que las reglas morales son a la vez posibles y universales. Hasta que las reglas morales puedan ser sometidas al mismo rigor y lógica que cualquier otra proposición, estaremos por siempre obstaculizados por el subjetivismo, los prejuicios políticos y el pragmático “argumento del efecto”.
+Uno de los principales desafíos a los que se enfrentan los filósofos modernos es la necesidad de demostrar que las normas morales son posibles y universales. Hasta que las reglas morales puedan ser sometidas al mismo rigor y lógica que cualquier otra proposición, estaremos siempre bloqueados por el subjetivismo, los prejuicios políticos y el pragmático "argumento del efecto.”
 
-La analogía histórica más cercana de nuestra situación presente ocurrió en los siglos XV y XVI, durante el surgimiento del método científico. Los primeros pioneros, quienes abogaron por un enfoque racional y empírico del conocimiento enfrentaron los mismos prejuicios que nosotros enfrentamos hoy en día – las mismas irracionalidades, poderes arraigados a la iglesia y al estado, “absolutos” místicos y subjetivos y barreras educativas tempranas. Esos que abogaron por la primacía de la racionalidad y la observación empírica sobre los fundamentalismos bíblicos y las tiranías seculares enfrentaron la enérgica oposición de aquellos que empuñaban la cruz y la espada. Muchos fueron torturados hasta la muerte por su honestidad intelectual – nosotros enfrentamos un riesgo mucho menor y por lo tanto deberíamos ser mucho más valientes al abogar por lo que es *verdad* sobre lo que se *cree*.
+La analogía histórica más cercana a nuestra situación actual ocurrió en los siglos XV y XVI, durante el ascenso del método científico. Los primeros pioneros que abogaron por un enfoque racional y empírico del conocimiento se enfrentaron a los mismos prejuicios que enfrentaban hoy en día -todas las mismas irracionalidades, los mismos poderes arraigados de la iglesia y el estado, los "absolutos" místicos y subjetivos y las primeras barreras educativas. Aquellos que abogaron por la primacía de la racionalidad y la observación empírica sobre el fundamentalismo bíblico y las tiranías seculares se enfrentaron a la oposición decidida de aquellos que blandían la cruz y la espada. Muchos fueron torturados hasta la muerte por su honestidad intelectual - nos enfrentamos a un riesgo mucho menor, y por lo tanto deberíamos ser mucho más valientes en la defensa de lo que es * verdad* sobre lo que es *creído*.
 
-Con el fin de atacar moralidades falsas, debemos comenzar por el principio, tal como lo hicieron los primeros científicos. Francis Bacon no argumentó que el método científico fue más “eficiente” que la oración, los textos bíblicos o las visiones inducidas por inanición. El simplemente dijo que, si queremos entender la naturaleza, debemos observar la naturaleza y teorizar lógicamente – y que esa es y *no otra* la ruta del conocimiento.
+Para atacar las falsas moralidades, debemos partir desde el principio, como hicieron los primeros científicos. Francis Bacon no argumentó que el método científico fuera más "eficiente" que la oración, los textos bíblicos o las visiones inducidas por el hambre. Él simplemente dijo que si queremos entender la naturaleza, debemos observar la naturaleza y teorizar lógicamente - y que no hay *ningún otro* camino hacia el conocimiento.
 
-Debemos tomar el mismo enfoque en la definición y comunicación de la *moralidad*. Debemos comenzar utilizando el poder y la legitimación del método científico para demostrar las leyes válidas y universales de la moral. Debemos comenzar desde el principio, construyendo lógicamente y rechazando *cualquier* sustituto irracional o no empírico de la verdad.
+Debemos adoptar el mismo enfoque al definir y comunicar *la moralidad*. Debemos comenzar a utilizar el poder y la legitimidad del método científico para probar la validez y universalidad de las leyes morales. Debemos comenzar desde el principio, construir lógicamente y rechazar *cualquier* sustituto irracional o no empírico de la verdad.
 
-¿Cómo luce esto en la práctica? Todos tenemos que hacer establecer los siguientes axiomas:
+¿Cómo se ve esto en la práctica? Todo lo que tenemos que hacer es establecer los siguientes axiomas:
 
-- La moralidad es un concepto válido.
-- Las reglas morales deben ser consistentes para toda la humanidad.
-- La validez de una teoría moral es juzgada por su coherencia.
+-La moralidad es un concepto válido.
+-Las reglas morales deben ser consistentes para toda la humanidad.
+-La validez de una teoría moral se juzga por su consistencia..
 
-Para comenzar desde el principio… ¿las normas morales – o los comportamientos humanos universalmente preferibles – son todos válidos?
+Empezando desde el principio... ¿son válidas las reglas morales -o conductas humanas universalmente preferibles?
 
-Hay solo dos posibilidades cuando se trata de reglas morales, así como las hay en cualquier ciencia lógica. Las normas morales son válidas, o no lo son.[^6]
+Sólo hay dos posibilidades cuando se trata de reglas morales, al igual que en cualquier ciencia lógica. O bien las reglas morales universales son válidas, o no lo son [^6]
 
-Una regla puede ser válida si *existe empíricamente*, como la gravedad, o porque es *verdad*, como la ecuación dos por dos es igual a cuatro.
+Una regla puede ser válida si *existe empíricamente*, como la gravedad, o porque es * verdad*, como la ecuación dos más dos es igual a cuatro.
 
-Entonces debemos primero preguntarnos: ¿todas las reglas morales existen?
+Entonces debemos preguntarnos primero: ¿existen normas morales?
 
-Ciertamente no en la realidad material, la cual no contiene u obedece una sola regla moral. Las normas morales son diferentes de las reglas de la física, así como el método científico es diferentes de la gravedad. La materia de manera innata obedece a la gravedad o a la segunda ley de la termodinámica, pero “no matarás” no está inscrito en ninguna parte en la naturaleza de las cosas. Las leyes físicas *describen* el comportamiento de la materia, pero no contienen una sola *prescripción*. La ciencia dice que la materia *se* comporta de una cierta manera – nunca que *debe* comportarse de una cierta manera. La teoría de la gravedad prueba que, si empujas a un hombre por un acantilado, él caerá. No te dirá si *deberías* empujarlo o no.
+Ciertamente no en la realidad material, que no contiene ni obedece una sola regla moral. Las reglas morales son diferentes de las reglas de la física, así como el método científico es diferente de la gravedad. La materia obedece innatamente a la gravedad o a la segunda ley de la termodinámica, pero "no matarás" no está inscrito en ninguna parte en la naturaleza de las cosas. Las leyes físicas *describen* el comportamiento de la materia, pero no contienen una sola *prescripción*. La ciencia dice que la materia *hace* se comporta de cierta manera - nunca que *debe* comportarse de cierta manera. Una teoría de la gravedad prueba que si empujas a un hombre por un precipicio, se caerá. No te dirá si debes empujarlo o no.
 
-En consecuencia, no puede decirse que las reglas morales existen en la realidad material y tampoco que se obedecen automáticamente como las leyes de la física – lo cual *no* significa que las leyes morales son falsas, subjetivas o irrelevantes. El método científico en sí mismo tampoco existe en la realidad – y también es opcional – pero es en absoluto falso, subjetivo o irrelevante.
+Por lo tanto, no se puede decir que existan reglas morales en la realidad material, y tampoco son automáticamente obedecidas como las leyes de la física -lo cual no significa que las leyes morales sean falsas, subjetivas o irrelevantes. El método científico en sí mismo tampoco existe en la realidad - y es también opcional - pero no es en absoluto falso, subjetivo o irrelevante.
 
-Si podemos demostrar que las teorías morales pueden ser objetivas, racionales y verificables, esto proporcionará los mismos beneficios a la ética que los obtenidos en las teorías *físicas* con el método científico.
+Si podemos probar que las teorías morales pueden ser objetivas, racionales y verificables, esto proporcionará los mismos beneficios a la ética que las teorías *físicas* que sometieron al método científico.
 
-Antes del surgimiento del método científico, las personas creían que la materia obedecía los caprichos de dioses y demonios – y las personas creen lo mismo de la moralidad ahora. Los volcanes erupcionaban porque el dios de la montaña estaba molesto; las buenas cosechas resultaban por los sacrificios humanos o de animales. Nadie creía que las leyes absolutas de la física podrían limitar la voluntad de los dioses – y así la ciencia nunca podría desarrollarse. Aquellos quienes históricamente se beneficiaron de definir la realidad física como subjetiva – principalmente sacerdotes y aristócratas – lucharon contra la subyugación de las teorías físicas al método científico, así como aquellos que se benefician actualmente al definir la moralidad como subjetiva – principalmente sacerdotes y políticos – luchan en este momento contra la subyugación de las teorías *morales* a los principios objetivos y universales.
+Antes del surgimiento del método científico, la gente creía que la materia obedecía a los caprichos subjetivos de dioses y demonios - y la gente ahora cree lo mismo de la moralidad. Los volcanes estallaron porque el dios de la montaña estaba enojado; las buenas cosechas resultaron de sacrificios humanos o animales. Nadie creía que las leyes físicas absolutas pudieran limitar la voluntad de los dioses - y por lo tanto la ciencia nunca podría desarrollarse. Aquellos que históricamente se han beneficiado de definir la realidad física como subjetiva -sacerdotes y aristócratas en su mayoría- lucharon contra la subyugación de las teorías físicas al método científico, así como aquellos que actualmente se benefician de definir la moralidad como subjetiva -sacerdotes y políticos en su mayoría- luchan actualmente contra la subyugación de las teorías *morales* a los principios objetivos y universales.
 
-As mentioned above, the scientific method is essentially a methodology for separating accurate from inaccurate theories by subjecting them to two central tests: logical consistency and empirical observation – and by always subjugating logical consistency to empirical observation. If I propose a perfectly consistent and logical theory that says that a rock will float *up* when thrown off a cliff, any empirical test proves my theory incorrect, since observation always trumps hypothesis.
+Como mencionado anteriormente, el método científico es escencialmente una metodología para separar las teorías precisas de las imprecisas sometiéndolas a dos pruebas centrales: consistencia lógica y observación empírica – y subyugando siempre la consistencia lógica a observación empírica. Si yo propongo una perfecta, consistente y lógica teoría que dice que una roca flotará hacia *arriba* al lanzarla de un precipicio, cualquier prueba empírica demuestra que mi teoría es incorrecta, debido a que la observación siempre le gana a la hipótesis.
 
-A further aspect of the scientific method is the belief that, since matter is composed of combinations of atoms with common, stable and predictable properties, the behaviour of matter must also be common, stable and predictable. Thus experiments must be *reproducible* in different locations and times. I cannot say that my “rock floating” theory is correct for just one particular rock, or on the day I first tested it, or at a single location. My theories must describe the behaviour of *matter*, which is universal, common, stable and predictable.
+Un aspecto más avanzado del método científico es la creencia de que, debido a que la materia está compuesta por una combinación de átomos con propiedades comunes, estables y predecibles, el comportamiento de la materia también debe ser común, estable y predecible. Así, los experimentos deben ser *reproducidos* en diferentes ubicaciones y tiempos. No puedo decir que mi teoría de la "roca flotante" es correcta para solo una roca en particular, o en el día que la probé, o en una sóla ubicación. Mis teorías deben describir el comportamiento de la *materia*, que es universal, común, estable y predecible.
 
-Finally, there is a generally accepted rule – sometimes called Occam’s Razor – which states that, of any two theories that have the same predictive power, the simpler of the two is preferable. Prior to the Copernican revolution, when Earth was considered the centre of the universe, the retrograde motion of Mars when Earth passed it in orbit around the sun caused enormous problems to the Ptolemaic system of astronomical calculations. “Circles within circles” multiplied enormously, which were all cleared away by simply placing the sun at the centre of the solar system and accepting the elliptical nature of planetary orbits.
+Finalmente, hay una regla generalmente aceptada – a veces llamada Ocam's Razor – que establece que, de cualquier dos teorías que tengan el mismo poder predictivo, la más simple de las dos es la preferible. Previa a la revolución Copernicana, cuando la Tierra era considerada el centro del universo, el movimiento retrógado de Marte cuando la Tierra pasaba en la órbita alrededor del sol causaba enormes problemas al sistema Ptolemaico de los cálculos astronómicos. "Círculos dentro de círculos" se multiplicaron enormemente, los cuales se aclararon colocando simplemente al sol como el centro del sistema solar y aceptando la naturaleza elíptica de las órbitas planetarias.
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+Así, cualquier teoría científica válida debe ser (a) universal (b) lógica (c) empíricamente verificable (d) reproducible y (e) lo más simple posible.
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+La metodología para criticar y probar una teoría *moral* es exáctamente igual que la metodología para juzgar y probar cualquier teoría.
 
-#### Moral Rules: A Definition
+#### Reglas Morales: Una Definición
 
-The first question regarding moral rules is: *what* are they?
+La primera pregunta con respecto a las reglas morales es: ¿qué son?
 
-Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
+Simplemente coloque, *la moralidad* es un conjunto de reglas que reclaman indentificar de manera precisa y consistente el comportamiento humano universalmente preferible, así como la *física* es un conjunto de reglas que reclaman identificar de manera precisa y consistente el comportamiento universal de la materia.
 
-The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+La segunda cuestión a preguntarse es: ¿existe tal cosa como "comportamiento universalmente preferible"? Si lo hay, podemos comenzar a explorar cuál comportamiento lo es. Si no, entonces nuestro examen debe detenerse aquí – así como el examen de la astronomía Ptolemaica se detuvo despues de que se volvió común aceptar que el Sol era de hecho el centro del sistema solar.
 
-### UPB: Five Proofs
+### CUP: 5 Pruebas
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+Como se discutió anteriormente, la proposición de que *no existe tal cosa como comportamiento preferible* contiene un número insuperable de problemas lógicos y empíricos. "Comportamiento Universalmente Preferible" *debe* ser un concepto válido, por cinco razones principales.
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+La primera es lógica: si yo discuto *contra* la proposición de que el comportamiento universalmente preferible es válido, ya he demostrado mi preferencia por la verdad sobre la falsedad – también una preferencia por corregir a aquellos que dicen falsedades. Decir que no existe tal cosa como comportamiento universalmente preferible es como gritarle a alguien en el oído que el sonido no existe – es una auto contradicción innata. En otras palabras, si no existe *tal cosa* como el comportamiento universalmente preferible, entonces uno *debería* oponerse a cualquiera que reclame que si existe tal cosa como el comportamiento universalmente preferible. Sin embargo, si uno *debería* hacer algo, entonces uno justamente ha creado un comportamineto universalmente preferible. Así el comportamineto universalmente preferible – o reglas morales – deben ser válidas.
 
-Syllogistically, this is:
+Cuidadosamente, esto es:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1. La proposición es: el concepto de "comportamiento universalmente preferible" debe ser válido
+2. Discutir contra la validez del comportamiento universalmente preferibls demuestra el comportamiento universalmente preferible.
+3. Por lo tanto ningún argumento contra la validez del comportamiento universalmente preferible puede ser válido.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+Todos sabemos que existen preferencias subjetivas, como gustar de un helado o el jazz, los cuales pueden no gustarle a otras personas. Por otra parte, existen otras preferencias, como la violación o el asesinato, que claramente *son* infligidas a otros. También existen preferencias hacia la lógica, la verdad y la evidencia, cosas que unen a otros (aunque no son usualmente infligidas de manera violenta) en la medida en que todos aceptemos que una proposición ilógica debe ser falsa o inválida.
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+Aquellas preferencias que pueden unificarse a otros se le puede otorgar el término de "preferencias universales" o "reglas morales".
 
-How else can we know that the concept of “moral rules” is valid?
+¿De qué otra manera podemos saber que el concepto de "reglas morales" es válido?
 
-We can examine the question biologically as well as syllogistically.
+Podemos examinar la cuestión biológicamente y cuidadosamente.
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+Por ejemplo, toda la materia está sujeta a reglas físicas – y todo lo que vive también está sujeto a ciertos requerimientos, y así, si está vivo, debe haber seguido comportamientos universalmente preferibles. La vida, por ejemplo, requiere de combustible y oxígeno. Cualquier mente viviente, por supuesto, es una parte orgánica del mundo físico, y así está sujeta a leyes físicas y debe haber seguido comportamientos universalmente preferibles – discutir lo contrario requeriría probar que la consciencia no está compuesta por materia, y que ésta no es orgánica – algo imposible, debido a que ésta tiene masa, energía y vida. Discutir que la consciencia no está sujeta ni a reglas físicas ni a comportamientos universalmente preferibles sería como discutir que los seres humanos son inmunes a la gravedad, y que pueden crecer sin comer.
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+Así es imposible que cualquiera pueda lógicamente discutir contra el comportamiento universalmente preferible, debido a que si él está vivo para discutir, debió haber seguido comportamientos universalmente preferibles como respirar, comer y beber.
 
-Syllogistically, this is:
+Cuidadosamente, esto es:
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+1. Todos los organismos requieren comportamiento universalmente preferibles para vivir.
+2. El hombre es un organismo vivo.
+3. Por lo tanto todos los hombres vivos están vivos debido a la práctica de comportamientos universalmente preferibles.
+4. Por lo tanto cualquier argumento contra el comportamiento universalmente preferible requiere de una aceptación y práctica de comportamientos universalmente preferibles.
+5. Por lo tanto, ningún argumento contra la existencia del comportamiento universalmente preferible puede ser válido.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+Debido a que el método científico requiere de corroboraciones empíricas, debemos también ver la realidad para confirmar nuestra hipótesis – y aquí la validez del comportamiento universalmente preferible se fundamenta completamente.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Cualquier ser humano sano cree en las reglas morales de algún tipo. Existe un desacuerdo sobre lo que *constituye* las reglas morales, pero todos están ciertos de que las reglas morales son válidas – así como muchos científicos no están de acuerdo, pero todos los científicos aceptan la validez del método científico. Uno puede discutir que la Tierra es redonda y no plana – que es análogo a cambiar la definición de la moralidad – pero uno no puede discutir que la Tierra no existe – lo cual es como discutir que no existe tal cosa como el comportamiento universalmente preferible.
 
 Or:
 
@@ -132,24 +132,24 @@ Since all organic life requires preferential behaviour to survive, we can assume
 
 Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
 
-Or:
+O:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+1. Los organismos son exitosos actuando bajo comportamientos universalmente preferibles.
+2. El hombre es el organismo más exitoso.
+3. Por lo tanto, el hombre debió actuar de la manera más exitosa en las bases del comportamiento universalmente preferible.
+4. La mente del hombre es el órgano mas distintivo.
+5. Por lo tanto la mente del hombre debió haber actuado de la manera más exitosa en las bases del comportamiento universalmente preferible.
+6. Por lo tanto el comportamiento universalmente preferible debe ser válido.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+Podemos traer varios argumentos que fundamenten la existencia y la validez del CUP, pero debemos descansar con lo anterior, y movernos a examinar la naturaleza del CUP.
 
-#### UPB: Optional And Objective
+#### CUP: Opcional y Objetivo
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Debido a que hemos comprobado la validez del comportamiento universalmente preferible, la cuestión de la moralidad ahora se desplaza. Como la moralidad *es* válida, ¿qué teorías pueden cuantificar, clasificar, explicar y predecirla?
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+Primero que todo, debemos recordar que la moralidad es claramente opcional. Todo hombre está sujeto a la gravedad y requiere de comida para vivir, pero ningún hombre tiene que actuar moralmente. Si yo violo, robo o mato, nigún relámpago me va a golpear. Las reglas morales, como el método científico o las clasificaciones biológicas, son simplemente formas de organizar los hechos y principios relativos a la realidad objetiva.
 
-The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
+El hecho de ser un cómplice con las reglas morales es *opcional*, sin embargo, ha confundido a muchos pensadores a creer que la moralidad en sí es *subjetiva*. Nada podría estar más alejado de la verdad
 
 Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
 
