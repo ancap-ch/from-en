@@ -1,39 +1,39 @@
-## The Second Test: Murder
+## Segundo Teste: Assassinato
 
-Let us now test the UPB framework against moral propositions regarding *murder*, which here is defined as killing intentionally and with premeditation, not in self-defence.
+Deixe-nos testar a estrutura do UPB contra proposições morais sobre o *assassinato*, que aqui é definido como matar intencionalmente e com premeditação, não em legítima defesa.
 
-Since we spent so much time dissecting the question of rape – and since many of the same arguments will apply here – this analysis can be much briefer.
+Uma vez que passamos tanto tempo dissertando a questão da violação – e já que vários dos mesmos argumentos vão ser aplicados aqui – esta análise pode ser muito mais breve.
 
-Let us return to our two moral guinea pigs sitting in a room – we’ll call them Bob and Doug.
+Voltemos para as nossas duas cobaias morais sentados num quarto - iremos chama-los de Bob e Doug.
 
-If murder is morally good, then clearly *refraining* from murder is immoral. Thus the only chance that Bob and Doug have to be moral is in the instant that they simultaneously murder each other. Physically, this is impossible of course – if they both stand and grip each other’s throats, they will never succumb to strangulation at exactly the same moment. If Bob dies first, his grip on Doug’s throat will loosen, thus condemning Doug to the status of *immorality* until such time as he can find another victim. Because Bob dies first – and thus cannot continue to try murdering Doug – Bob’s death renders him more immoral than Doug’s murder.
+Se o assassinato é moralmente bom, então claramente *abster-se* de assassinar é imoral. Assim, a única hipótese que o Bob e o Doug têm de ser moral é no instante em que eles simultaneamente se assassinarem um ao outro. Fisicamente, isto é impossível como é obvio – se os dois estão de pé e ambos agarrarem o pescoço um do outro, eles nunca vão sucumbir por estrangulamento ao mesmo tempo. Se o Bob morrer primeiro, o aperto na garganta do Doug será perdido, assim condenando Doug ao status de *imoralidade*, até ao momento que ele encontre outra vítima. Como o Bob morre primeiro - e assim não pode continuar a tentar matar o Doug - a morte do Bob rende-lhe mais imoral do que o assassinato de Doug.
 
-Intuitively, we fully recognise the insanity of the moral proposition that murder is good. Logically, we know that the proposition is incorrect because if it is true, it is impossible for two men in a room to both be moral at the same time. Morality, like health, cannot be considered a mere “snapshot,” but must be a process, or a continuum. The UPB framework confirms that Bob cannot be “evil” *while* he is strangling Doug, and then achieve the pinnacle of moral virtue the moment that he kills Doug – and then revert immediately back to a state of evil. Moral propositions must be universal, and independent of time and place. The proposition that murder is moral fails this requirement at every level, and so is not valid.
+Intuitivamente, nós reconhecemos plenamente a insanidade de uma proposição moral de que o assassinato é bom. Logicamente, nós sabemos que esta proposição é incorreta porque se fosse verdade, seria impossível para dois homens numa sala serem ambos morais ao mesmo tempo. A moralidade, como a saúde, não podem ser consideradas meramente "instantâneas," mas precisam de ser um processo, ou um continuum. A estrutura do UPB confirma que o Bob não pode ser "mau" *enquanto* ele se encontra a estrangular o Doug, e então alcançar o ápice da virtude moral no momento em que ele mata o Doug - e depois reverter imediatamente para o estado de mau. As proposições morais têm que ser universais, e independentes do tempo e lugar. A proposição de que o assassinato é moral falha neste requerimento a todos os níveis, e então não é válida.
+ 
+Se o assassinato fosse moralmente bom, então isso também seria o caso que um homem encalhado numa ilha deserta seria moralmente mau enquanto ele vivesse lá, já que não teria vítimas para matar. Um homem em coma também seria mau, como seria um homem que se encontra a dormir, ou um homem na mesa de operação. Um torturador seria um homem mau enquanto continuar a torturar - mas então tornaria-se um homem bom no momento em que a sua vítima morresse nas suas mãos.
 
-If murder were morally good, then it would also be the case that a man stranded on a desert island would be morally evil for as long as he lived there, since he would have no victims to kill. A man in a coma would also be evil, as would a sleeping man, or a man on the operating table. A torturer would be an evil man as long as he continued to torture – but then would become a good man in the moment that his victim died at his hand.
+E assim nós podemos ver que a proposição de que o "assassinato é bom" não é só instintivamente bizarra, mas também logicamente impossível.
+ 
+As outras objeções aplicadas para a proposição "violação é bom" também aplicam-se aqui. Assassinato não pode ser moralmente neutro, visto que juízos moralmente neutros ou ações não podem ser forçadamente impostas sobre outros, e assassinato por definição é forçadamente imposto.
+ 
+Existe também uma contradição básica envolvida em qualquer justificação moral para o ato do assassinato, da mesma forma que aconteceu no ato de violação. Se o Bob tentar estrangular o Doug, mas o Doug resiste, como poderia o Bob justificar racionalmente as suas ações de acordo com o UPB?
 
-We can thus see that the proposition that “murder is good” is not only instinctively bizarre, but also logically impossible.
+Bem, ele poderia dizer alguma coisa do tipo: "a vida de um homem pode ser tirada a qualquer hora que tu quiseres" - mas é claro, visto que o UPB é o único teste válido de proposições morais, isso justifica que Doug mate Bob tanto quanto Bob mate Doug. Assim Bob só pode justificar estrangular o Doug se Doug não resistir de qualquer maneira - mas é claro, se Doug não resistir, então isso pode ser realmente considerado assassinato?
 
-The other objections that applied to the proposition “rape is good” also apply here. Murder cannot be morally neutral, since morally neutral judgements or actions cannot be forcibly inflicted upon another, and murder by definition is forcibly inflicted upon another.
+Digamos que Bob então ajusta a sua premissa para dizer: "eu posso disparar sobre um homem que está a dormir quando eu quiser." O problema aqui não é só o sono que o Bob vai perder com base na sua premissa universal, mas também a impossibilidade lógica de reverter proposições morais baseadas na diferença de estado entre dormir e acordar. Biologicamente falando, um homem não se torna o *oposto* de um homem quando ele adormece, mais do que a gravidade inverte quando ele pisca.
 
-There is also a basic contradiction involved in any universal justification for the act of murder, just as there was in the act of rape. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
+Uma vez que um homem continua a ser um homem quando adormece, não pode ser o caso das regras morais opostas aplicarem-se nele nesse estado. Assim, dizer que é imoral matar um homem quando ele está acordado, mas é moral mata-lo quando ele está a dormir, é criar uma contradição lógica não suportada por qualquer fato biológico objetivo. Um físico pode dizer que uma rocha cai no chão, mas um balão de hélio sobe - mas isso acontece porque uma rocha e um balão de hélio têm propriedades fundamentalmente diferentes. Nenhum físico credível pode dizer que uma rocha cai no chão, mas que outra rocha com as exatas mesmas qualidades sobem. O mesmo é verdade para as teorias morais - nenhum filósofo credível pode dizer que a moralidade inverte-se quando um homem está a dormir, visto que a natureza humana não se altera fundamentalmente quando ele dorme.
 
-Well, he could say something like: “a man’s life can be taken any time you want to” – but of course, since UPB is the only valid test of moral propositions, this justifies Doug killing Bob as much as it does Bob killing Doug. Thus Bob can only justify strangling Doug if Doug does not resist in any way – but of course if Doug does not resist, then can it really be considered murder?
+Desta forma, se não podemos disparar justamente sobre um homem quando ele está acordado, nós também não podemos mata-lo enquanto este se encontra a dormir, visto que ele continua a ser um homem.
 
-Let us say that Bob then adjusts his premise to say: “I can shoot a man in his sleep any time I want.” The problem here is not only the sleep that Bob will lose based on his universal premise, but also the logical impossibility of reversing moral propositions based on the differences in the states of sleeping and waking. Biologically speaking, a man does not become the *opposite* of a man when he falls asleep, any more than gravity reverses when he blinks.
+Assim, como a declaração: "eu posso disparar sobre um homem enquanto este se encontra a dormir quando eu quiser" não pode ser validada de acordo com o UPB, ela não pode ser uma proposição moral verdadeira.
 
-Since a man remains a man when he falls asleep, it cannot be the case that opposite moral rules apply to him in this state. Thus to say that it is immoral to murder a man when he is awake, but it is moral to murder a him when he is asleep, is to create a logical contradiction unsupported by any objective biological facts. A physicist may say that a rock falls down, but a helium balloon rises up – but that is because a rock and a helium balloon have fundamentally different properties. No credible physicist can say that one rock falls down, but that another rock with almost exactly the same qualities falls up. The same is true for moral theories – no credible philosopher can say that morality reverses itself when a man is asleep, since a man’s nature does not fundamentally alter when he naps.
+Aqui encontramos novamente que a estrutura do UPB continua verdadeira em termos de assassinato. A única teoria moral valida possível relacionada com assassinato é que ele é mau, ou universalmente proibido.
 
-In this way, if we cannot justly shoot a man when he is awake, we also cannot shoot him when he is asleep, since he is still a man.
+Nós poderíamos ter a mesma abordagem para a questão do assalto, mas os argumentos seriam idênticos aos de violação e assassinato, então em nome da brevidade, nós devemos continuar.
 
-Thus, since the statement “I can shoot a man in his sleep any time I want” cannot be validated according to UPB, it cannot be a true moral proposition.
+Passemos agora à questão do roubo. Se esta estrutura permanecer verdadeira aqui também, então nós conseguimos atingir a trifecta perfeita do nosso entendimento moral instintivo, e achado uma confirmação racional para as nossas crenças existentes. Nós descobrimos a matemática que explica como nós somos capazes de instintivamente apanhar uma bola, e isso é um começo necessário.
 
-Here again we find that the UPB framework holds true in terms of murder. The only possible valid moral theory regarding murder is that it is evil, or universally banned.
+### Legítima Defesa?
 
-We could take the same approach to the question of assault, but the arguments would be identical to those of rape and murder, so for the sake of brevity, we shall continue.
-
-Let us now turn to the question of theft. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
-
-### Self-Defence?
-
-We have skirted over the issue of self-defence with regards to murder, though it is scarcely necessary to examine it in the case of rape. This is not because the issue of self-defence is either self-evident or uncomplicated, but rather because the complications that exist can be dealt with more comprehensively after we look at the question of theft.
+Nós temos vindo a contornar a questão da legítima defesa no que diz respeito ao assassinato, apesar de ser um mal necessário examina-lo no caso de violação. Isto não é por que o problema da legítima defesa é auto evidente ou sem complicações, mas sim porque as complicações que existem podem ser tratadas de uma forma mais abrangente depois de olharmos para a questão do roubo.
