@@ -36,6 +36,4 @@ Iyatọ ni wípé "pipẹ dé" kò yára mu iparun wá bi irọ́ pípa. Ẹni t
 
 Mima ja pẹlú ìgboyà ọkan rẹ̀ [5] ba ni l'ẹru púpọ jù idaniduro lo, nítorípé o je ìwà lilo igbẹkẹle kan lọdọ rẹ́ lati kò idinku bá igbẹkẹle ninu ara tiẹ, èyí ti ko dá pàápàá, nígbàtí o jẹ *lilo* iye kan lati ko idinku bá iye míràn, gẹgẹbi ṣiṣe ayédèrú. Bayi ni awọn UPB fọwọsi àìsí ọgbọn ninu àlàyé "irọ́ pípa dara," O tun jẹri sí pé ìwà irọ́ pípa sí èèyàn burú jù "pipẹ dé," ṣugbọn ọ da ju "ìjà" lo.
 
- Kó ìgbẹkẹlé rẹ sí ọkàn ara rẹ [5] jẹ diẹ ẹ sii ju alaafia ju ki o jẹ ki o duro, nitori o jẹ iṣe ti lilo igbẹkẹle miiran si ọ lati fa igbẹkẹle rẹ silẹ ninu ara rẹ, eyiti o jẹ eleyi, nitori o ti * lilo * iye kan lati dẹkùn a iye kan, bi apọnfunni. Èyí ni bi UPB ṣe n ṣe afihan itanna ti idasile "eke ni o dara," o si jẹrisi pe iwa ti eke si ẹnikan jẹ buru " "pe o pẹ," ṣugbọn o dara ju "sele si."
-
 [^5]: Ti a n pé nígbà míìràn ni "ìdáná-afẹfẹ," lẹhin eré agbelewo atijọ.
