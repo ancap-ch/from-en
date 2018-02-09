@@ -30,12 +30,12 @@ tag_prefix: "https://en.ancap.ch/tags/"
 persons:
   - 
     person: [ ]
-    identifier: "template_pribadi"
-    rule: "pencipta"
+    identifier: "template_seorang"
+    rule: "pengarang"
   - 
     person: [ ]
-    identifier: "template_pribadi"
-    rule: "kerja sama"
+    identifier: "template_seorang"
+    rule: "bekerjasama"
   - 
     person: [ ]
     identifier: "template_pribadi"
