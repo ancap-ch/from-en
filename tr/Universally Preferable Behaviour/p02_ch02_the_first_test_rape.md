@@ -1,22 +1,22 @@
 ## İlk Test: Tecavüz
 
-Tartışmak için nahoş bir konu olsa da, tecavüz herhangi bir ahlaki teorinin şüphesiz kapsam altına alması gereken* en * muğlak eylemdir. Cinayet meşru müdafaa ile karmaşık bir hal alabilir; açlık sorunuyla hırsızlık ya da ''geri çalmak'' - ama hiç kimse meşru müdafaayla tecavüz edemez; Bu kendi tanımına göre saldırganlığın başlatılmasıdır.
+Tartışmak için nahoş bir konu olsa da, tecavüz herhangi bir ahlaki teorinin şüphesiz kapsam altına alması gereken *en* muğlak eylemdir. Cinayet meşru müdafaa ile karmaşık bir hal alabilir; açlık sorunuyla hırsızlık ya da ''geri çalmak'' - ama hiç kimse meşru müdafaayla tecavüz edemez; Bu kendi tanımına göre saldırganlığın başlatılmasıdır.
 
-Daha sonra, bu yedi ahlaki kategoriyi referans alarak tecavüzle ilgili ahlaki önermelerin mantıksal tutarlılığını incelemek için UPB (Evrensel Uygun Davranış) çerçevesini kullanalım.
+Daha sonra, bu yedi ahlaki kategoriyi referans alarak tecavüzle ilgili ahlaki önermelerin mantıksal tutarlılığını incelemek için E.U.D. (Evrensel Uygun Davranış) çerçevesini kullanalım.
 
 ### İyi
 
 Absürt bir örneği ele alalım, tecavüzün ahlaki açıdan iyi olduğunu beyan eden bir ahlaki teoriyi incelediğimizi hayal edelim.
 
-Açık bir biçimde, eğer ''X'' beyanı ''iyi'' ise aksi olan ''x'' çok kötü olmak zorunda. Eğer * tecavüz* etmemek iyiyse, * tecavüz etmek * çok kötü olmak zorunda. Diğer taraftan, eğer * tecavüz etmek* iyiyse o halde* tecavüz etmemek* çok kötü olmak zorunda.
+Açık bir biçimde, eğer ''X'' beyanı ''iyi'' ise aksi olan ''x'' çok kötü olmak zorunda. Eğer *tecavüz* etmemek iyi ise, *tecavüz etmek* çok kötü olmak zorunda. Diğer taraftan, eğer *tecavüz etmek* iyi ise o halde *tecavüz etmemek* çok kötü olmak zorunda.
 
-Birine tecavüz etmek başlatılması, yerine getirilmesi ve daha sonra tamamlanması gereken olumlu bir eylemdir. Eğer tecavüz ahlaki açıdan iyiyse bu durumda ''tecavüz etmemek'' çok kötü bir ahlaki tutum olmalıdır - dolayısıyla tek bir odada* iki erkeğin aynı anda ahlaki olması imkansızdır*, çünkü verilmiş olan sürede sadece bir tanesi tecavüzcü olabilir - ve o eğer sadece diğer adam kurbanı olursa tecavüzcü olabilir.
+Birine tecavüz etmek başlatılması, yerine getirilmesi ve daha sonra tamamlanması gereken olumlu bir eylemdir. Eğer tecavüz ahlaki açıdan iyiyse bu durumda ''tecavüz etmemek'' çok kötü bir ahlaki tutum olmalıdır - dolayısıyla tek bir odada *iki erkeğin aynı anda ahlaki olması imkansızdır*, çünkü verilmiş olan sürede, sadece bir tanesi tecavüzcü olabilir - ve eğer sadece diğer adam kurban olursa, diğeri tecavüzcü olabilir.
 
-Erdemli olmaya olanak sağlayan bu durum kötü olamaz. Örneğin ''özgürlük'' erdemin ön şartıdır. Özgürlük olmadan erdemli olamayız. Bu nedenle ''özgürlük'' iyilik için* gerekli* olduğu için kötü olamaz.
+Erdemli olmaya olanak sağlayan bu durum kötü olamaz. Örneğin ''özgürlük'' erdemin ön şartıdır. Özgürlük olmadan erdemli olamayız. Bu nedenle ''özgürlük'' iyilik için *gerekli* olduğu için kötü olamaz.
 
-Eğer tecavüzcü olmak ahlaki açıdan iyiyse sadece biri kurbanına cinsel saldırı gerçekleştirerek tecavüzcü olabilir, o halde açıkça kurban cinsel saldırıya direnerek ahlaki açıdan iyi olmak zorundadır - şayet direnmezse, tanım gereği bu tecavüz değildir, buna bağlı olarak erdemli değildir. Başka bir deyişle, tanım gereği erdeme* saldırmak* erdemi *mümkün* kılmaktadır. Böylece üstesinden gelinemez bir paradoksumuz var. Kurban, erdemi mümkün kılmak için erdeme saldırmalıdır - tecavüzcünün ''erdemini'' sağlamak için cinsel saldırıya direnmesi gerekir. Bu nedenle tecavüz mağduru sadece erdemli* olamaz*, aynı zamanda buna izin vermek için ''erdeme'' direnmek ve saldırmak mecburiyetindedir.
+Eğer tecavüzcü olmak ahlaki açıdan iyiyse sadece biri kurbanına cinsel saldırı gerçekleştirerek tecavüzcü olabilir, o halde açıkça kurban cinsel saldırıya direnerek ahlaki açıdan iyi olmak zorundadır - şayet direnmezse, tanım gereği bu tecavüz değildir, buna bağlı olarak erdemli değildir. Başka bir deyişle, tanım gereği erdeme *saldırmak* erdemi *mümkün* kılmaktadır. Böylece üstesinden gelinemez bir paradoksumuz var. Kurban, erdemi mümkün kılmak için erdeme saldırmalıdır - tecavüzcünün ''erdemini'' sağlamak için cinsel saldırıya direnmesi gerekir. Bu nedenle tecavüz mağduru sadece erdemli *olamaz*, aynı zamanda buna izin vermek için ''erdeme'' direnmek ve saldırmak mecburiyetindedir.
 
-Bu nedenle üstesinden gelinemez mantıksal problemler önermeden kaynaklanır: ''tecavüz ahlaktır.'' Hatırlayın, rasyonel bir teorinin aynı durum için zıt koşullar ileri süremeyeceği üzerine karar kıldık. Bir istisnna olmazsa, bir kaya hem yukarı hemde aşağı doğru aynı anda düşemez, ve mantıklı bir teori bir taş aşağı düşerken bir taş yukarı doğru düşecek diye öngörüde bulunamaz.
+Bu nedenle üstesinden gelinemez mantıksal problemler önermeden kaynaklanır: ''tecavüz ahlaktır.'' Hatırlayın, rasyonel bir teorinin aynı durum için zıt koşullar ileri süremeyeceği üzerine karar kıldık. Bir istisna olmazsa, bir kaya hem yukarı hemde aşağı doğru aynı anda düşemez, ve mantıklı bir teori bir taş aşağı düşerken bir taş yukarı doğru düşecek diye öngörüde bulunamaz.
 
 Aynı şekilde, bir odadaki iki adam aynı durumda kabul edilmelidir. Onlardan sadece biri iyi olabilir, çünkü iyilik tecavüz olarak tanımlandı, ve yalnızca biri her defasında tecavüz edebilir, o halde çözümlenemeyen mantıksal bir zıtlık ortaya çıkar.
 
@@ -26,9 +26,9 @@ Bir adam kanyonun üstündeki bir ağaçtan sarkarken daha fazla tutabilecek gü
 
 #### Koma Testi
 
-Sezgisel olarak, komadaki birine ahlaksızlık yapmayı kabul edilebilir olarak açıklayan bir kuram hayal etmek zordur. Evresel olarak tercih edilebilir davranış gibi olumlu eylemleri ileri süren her teori "koma testi"nin meydan okumasıyla yüzleşir. Ancak, komadaki bir insan açıkça hayır işleri yapamıyordur ve bu yüzden benim kuramımca ahlak dışı olarak sınıflandırılacaktır. Benzer şekilde, uykudaki biri veya hiç parası olmayan biri - ya da şuan yardım *almakta* olan biri - ahlaksız olacaktır.
+Sezgisel olarak, komada ki birine ahlaksızlık yapmayı kabul edilebilir olarak açıklayan bir kuram hayal etmek zordur. Evrensel olarak tercih edilebilir davranış gibi, olumlu eylemleri ileri süren her teori "koma testi"’nin meydan okumasıyla yüzleşir. Ancak, komadaki bir insan açıkça hayır işleri yapamıyordur ve bu yüzden benim kuramımca ahlak dışı olarak sınıflandırılacaktır. Benzer şekilde, uykudaki biri veya hiç parası olmayan biri - ya da şuan yardım *almakta* olan biri - ahlaksız olacaktır.
 
-Bu "tecavüz" kadar ahlaki olan olumlu davranışları öneren her kuramın diğer bir esaslı sorunudur. Herhangi bir zamanda çok sayıda böyle olumlu davranışlar sergileyemeyen insanlar "iyi" olma kapasiteleri olmasa dahi kötü olmakla kınanmalıdırlar. Ancak, eğer kötü olmaktan kaçınmak imkansız ise açıktır ki kötü anlamsız bir kavram olur. Yukarıdaki bir tepeden aşağı düşmekte olan kaya örneğinde kaya senin arabana düştüğü için "kötü" değildir çünkü onun kendi hür iradesiyle bunu yapmaktan kaçınabilme kapasitesi yoktur. Eğer bir adamın frenleri servise gittikten hemen sonra tutmazsa, durmakta başarısız olma onun sorumluluğunda değildir. Eğer o frenlerini on yıldır bir kez bile servise göstermediyse o zaman onun bu sorumsuzluğu devam eden hız kusurunun sebebidir ve o suçlanabilir.
+Bu "tecavüz" kadar ahlaki olan olumlu davranışları öneren her kuramın diğer bir esaslı sorunudur. Herhangi bir zamanda çok sayıda böyle olumlu davranışlar sergileyemeyen insanlar "iyi" olma kapasiteleri olmasa dahi kötü olmakla kınanmalıdırlar. Ancak, eğer kötü olmaktan kaçınmak imkansız ise, açıkça, kötü anlamsız bir kavram olur. Yukarıda ki bir tepeden aşağı düşmekte olan kaya örneğinde kaya senin arabana düştüğü için "kötü" değildir çünkü onun kendi hür iradesiyle bunu yapmaktan kaçınabilme kapasitesi yoktur. Eğer bir adamın frenleri servise gittikten hemen sonra tutmazsa, durmakta başarısız olma onun sorumluluğunda değildir. Eğer o frenlerini on yıldır bir kez bile servise göstermediyse o zaman onun bu sorumsuzluğu devam eden hız kusurunun sebebidir ve o suçlanabilir.
 
 Bu şekilde "önlenilebilirlik" kavramı kullanımda kalır. Komadaki bir adam yatağına uzanmaktan kaçınmaya muktedir değildir çünkü o bilinçsizlik benzeri bir durumdadır. Bu eyleminden kaçınma konusunda muktedir olmadığı - bu meselede hareket edemediği - için onun hareketsizliği ahlak dışı olamaz.
 
@@ -36,7 +36,7 @@ Bu noktada, eğer komadaki bir adam ahlak dışı değilse ahlaklı da olamaz it
 
 #### Kapasite
 
-"Kaçınılabilirlik" kavramı olumlu olarak çalıştığı gibi olumsuz yönde de çalışır. Bir korkunç kaza ile genital organımı kaybedersem, tecavüzden kaçındığım için ahlaklı mıyım? Ahlaklı olabileceğim tezini savunmak zor olacaktır çünkü en azından genital tecavüz benim için imkansızdır. Benzer şekilde, biz eğer bir adam bir dilenciye yüz dolar verirse ona cömert diyebiliriz ancak adam uyurgezer bir haldeyken bu işi yapmışsa ve bundan acı bir pişmanlık duyuyorsa görüşümüzü değiştiririz.
+"Kaçınılabilirlik" kavramı olumlu olarak çalıştığı gibi olumsuz yönde de çalışır. Bir korkunç kaza ile cinsel organımı kaybedersem, tecavüzden kaçındığım için ahlaklı mıyım? Ahlaklı olabileceğim tezini savunmak zor olacaktır çünkü en azından cinsel tecavüz benim için imkansızdır. Benzer şekilde, biz eğer bir adam bir dilenciye yüz dolar verirse ona cömert diyebiliriz ancak adam uyurgezer bir haldeyken bu işi yapmışsa ve bundan acı bir pişmanlık duyuyorsa görüşümüzü değiştiririz.
 
 Dolayısıyla, şunu mantıklıca söyleyebiliriz: nerede seçim yoksa veya uygulanamıyorsa orada ahlak da yoktur ve uygulanamıyordur. Bu yüzden komadaki adamın davranışları kötü olarak nitelenemeyeceği gibi iyi olarak da nitelenemez. O bu durumda tercih etmeden bulunuyordur tıpkı bir bebek veya hayvan gibi, bundan dolayı o ETD'nin izin verebileceği mantıklı bir şekilde ahlak kurallarından muaf tutulabilir, çünkü tercih edebilen birinden onu nesnel olarak ayıran fiziksel durumu söz konusudur.
 
@@ -44,11 +44,11 @@ Bunu akılda tutarak tecavüz üzerine açıklamamıza devam edelim.
 
 ### Estetik olarak olumlu
 
-Estetik olan pozitif eylemler (APA'lar) evrensel olarak tercih edilebilirler, estetik olarak olumsuz eylemler güç kullanımını başlatmadığından ötürü şiddet yoluyla dayatılamazlar. Yukarıda tartıştığımız gibi, sizinle görüşmeye geç kalırsam, size karşı güç kullanımını başlatmamış olurum, ve sizin seçim ve de durumdan sıyrılma kapasitenizi elinizden almamış olurum.
+Estetik olan pozitif eylemler (E.O.P.E.) evrensel olarak tercih edilebilirler, estetik olarak olumsuz eylemler güç kullanımını başlatmadığından ötürü şiddet yoluyla dayatılamazlar. Yukarıda tartıştığımız gibi, sizinle görüşmeye geç kalırsam, size karşı güç kullanımını başlatmamış olurum, ve sizin seçim ve de durumdan sıyrılma kapasitenizi elinizden almamış olurum.
 
-APA'ların şiddet yoluyla dayatılabildiğini söylersek, o zaman şiddetin başlatılmasının ahlakça iyi olduğunu söylemiş oluruz.
+E.O.P.E’lerin şiddet yoluyla dayatılabildiğini söylersek, o zaman şiddetin başlatılmasının ahlakça iyi olduğunu söylemiş oluruz.
 
-Eğer şiddet başlatımının ahlakça iyi olduğunu belirten bir ahlak kuralı önerdiğimizde bu kural, “tecavüz ahlaken iyidir” kuralı gibi bütün mantıksız olanaklarla yüzleşir.
+Eğer şiddet başlatmanın ahlakça iyi olduğunu belirten bir ahlak kuralı önerdiğimizde bu kural, “tecavüz ahlaken iyidir” kuralı gibi bütün mantıksız olanaklarla yüzleşir.
 
 Bir odadaki iki adam, birinin diğerine karşı şiddete başvurduğu ve diğerinin buna karşı koyduğu sırada aynı anda ahlaki olarak iyi olamaz - eğer o buna karşı koymuyorsa, yukarıda tartıştığımız cerrah örneğindeki gibi, bu durum şiddetin tanımı olamaz. Böylece erdem, sadece erdeme karşı direnilerek açığa çıkabilir, ve aynı şartlar altındaki iki adam, aynı anda ahlaklı olamaz, ve bunlar gibi - tümü UPB'nin ihlalleridir.
 
@@ -64,19 +64,20 @@ Bir kez daha, UPB yapısı kurtarmaya geliyor.
 
 Bir EOD *eş zamanlı olarak her iki tarafa da rasyonel olarak uygulanabilen zorlayıcı olmayan kuraldır*.
 
-Örneğin, eğer benim EODum: geç kalmamak ise bu tamamen kaçınılabilir evrensel standart olabilir. Bu EODu sana güç kullanarak kabul ettiremem çünkü sen benim arkadaşım olmak zorunda değilsin, geç kalmamak zorunda değilsin hangi şekilde olursa olsun benim tercihlerime saygı duymak veya onlara uymak zorunda değilsin.[^1]
+Örneğin, eğer benim EOD’um: geç kalmamak ise bu tamamen kaçınılabilir evrensel standart olabilir. Bu EODu sana güç kullanarak kabul ettiremem çünkü sen benim arkadaşım olmak zorunda değilsin, geç kalmamak zorunda değilsin hangi şekilde olursa olsun benim tercihlerime saygı duymak veya onlara uymak zorunda değilsin.[^1]
 
 Eğer geç kalmamak bir EOD ise o zaman bunu iki insanın aynı anda başarması mümkündür - eğer ikisi de zamanında gelirse.
 
 Yukarıda gördüğümüz üzere zorlama ile olsa da bunu iki insanın aynı anda gerçekleştirmesi imkansızdır. Biri her zaman saldırgan diğeri ise daima kurban olmak zorundadır.
 
-Diğer yandan, ben caz sevmek EODdır dersem o zaman hemen mantıksal bir imkansızlığa toslarım. Hatırlayın, EODlar iki tarafında eş zamanlı olarak uygulayabileceği zorlayıcı olmayan kurallardır - caz sevmenin doğru formülasyonu şudur: "öznel tercihler evrensel olarak tercih edilebilirler."
+Diğer yandan, ben caz sevmek EOD’dır dersem o zaman hemen mantıksal bir imkansızlığa toslarım. Hatırlayın, EOD’lar iki tarafında eş zamanlı olarak uygulayabileceği zorlayıcı olmayan kurallardır - caz sevmenin doğru formülü şudur: "öznel tercihler evrensel olarak tercih edilebilirler."
 
-Sadece rütbe zıtlığı değil, aynı anda ETD testlerinin anında başarısızlığı demektir. Eğer ben cazı müziğin diğer türlerine karşı tercih ediyorsam fakat sen klasik müziği müziğin diğer türlerine karşı tercih ediyorsan ve eğer kişisel tercihler evrensel olarak tercih edilebilirse o zaman ben caz müziği tercih ettiğim için sen de etmelisin, sen klasik müziği tercih ettiğin için ben de etmeliyim. Bu, tabi ki de mümkün değildir, çünkü ikimizinde *diğer bütün müzik türlerinin üstünde aynı anda hem caz hem de klasik müzik tercih etmemizi* gerektirirdi. Kendi tercihini caza kaydırmalısın, çünkü caz benim tercihimdir - ama aynı anda bende tercihimi klasik müziğe kaydırmalıyım çünkü buda senin tercihindir. Bu ikinizin de beyzbol topunu aynı anda atıp yakalamanız gerektiğini söylemek gibidir - mantıksal ve fiziksel bir imkansızlıktır.
+Sadece rütbe zıtlığı değil, aynı anda ETD testlerinin anında başarısızlığı demektir. Eğer ben cazı, müziğin diğer türlerine karşı tercih ediyorsam fakat sen klasik müziği müziğin diğer türlerine karşı tercih ediyorsan ve eğer kişisel tercihler evrensel olarak tercih edilebilirse o zaman ben caz müziği tercih ettiğim için sen de etmelisin, sen klasik müziği tercih ettiğin için ben de etmeliyim. Bu, tabiki de mümkün değildir, çünkü ikimizin de *diğer bütün müzik türlerinin üstünde aynı anda hem caz hem de klasik müzik tercih etmemizi* gerektirirdi. Kendi tercihini caza kaydırmalısın, çünkü caz benim tercihimdir - ama aynı anda bende tercihimi klasik müziğe kaydırmalıyım çünkü buda senin tercihindir. Bu ikinizin de beyzbol topunu aynı anda atıp yakalamanız gerektiğini söylemek gibidir - mantıksal ve fiziksel bir imkansızlıktır.
 
 APAlar şiddetle zorlanamayacağı için - bir insanı geç kaldığı için vuramazsınız - o zaman tecavüz bir APA *olamaz*, çünkü tecavüzün tanımı şiddet kullanarak cinsel saldırıdır.
 
-Nitekim tecavüz APA kategorisine dahil edilemez.
+Nitekim tecavüz, APA kategorisine dahil edilemez.
+
 
 ### Kişilik olarak olumlu
 
