@@ -66,61 +66,61 @@ I ask these rhetorical questions because they are in fact deadly serious. Clearl
 
 Analogi adalah salah, karena memiliki Ph.D. atau fotokopi doktor tidak mengubah apapun dari aturan-aturan moral yang anda dikenakan sebagai manusia.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+"Yah," anda mungkin menjawab, "tetapi perbedaannya adalah bahwa tentara memiliki hak moral yang diberikan kepadanya oleh warga rata-rata, untuk kepentingan kolektif membela diri dan sebagainya."
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Hal ini menimbulkan titik yang sangat menarik, yang merupakan pertanyaan apakah pendapat dapat mengubah kenyataan.
 
-### Opinions And Reality
+### Pendapat Dan Kenyataan
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Jelas, kita mengerti bahwa saya tidak bisa melalui pendapat saya melepaskan anda dari kekangan dari gravitasi, ada lebih dari pendapat saya bahwa "dua ditambah dua sama dengan lima" membuatnya benar.
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+"Pendapat" adalah keyakinan yang telah ada bukti yang jelas dalam realitas, atau yang tidak ada bukti yang jelas dapat disediakan, atau yang ada ekspresi hanya preferensi pribadi. Pendapat pribadi saya adalah bahwa saya lebih suka es krim coklat vanilla – aku juga mungkin memiliki "opini" bahwa Islandia adalah surga tropis, atau bahwa Allah itu ada, atau hujan yang jatuh ke atas. Pendapat pribadi jelas tidak ada hubungannya dengan moralitas; pendapat yang mengklaim untuk secara akurat menggambarkan kenyataan, tetapi yang tidak, hanya salah prasangka. Percaya bahwa hujan jatuh ke atas tidak mundur saja; mengenakan kemeja Hawaii ke Islandia tidak membuat Reykjavik hangat.
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+Dengan demikian percaya bahwa pembunuhan adalah baik secara moral tidak melakukan pembunuhan secara moral baik. Karena keyakinan saya tentang manusia tidak mengubah sifat moral, keyakinan saya bahwa pembunuhan yang berbudi luhur tidak mengubah kebajikan dari tindakannya. Jika saya menutup mata dan membayangkan bahwa anda adalah kadal, anda tidak tiba-tiba kehilangan kemampuan untuk mengatur suhu tubuh anda sendiri. Membayangkan bahwa anda adalah ikan tidak memotong anda perlu untuk scuba gear.
 
-Opinions do not change reality.
+Pendapat tidak mengubah kenyataan.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Karena pendapat yang tidak mengubah kenyataan, saya tidak bisa memberikan anda setiap pengecualian atau pembalikan berkaitan dengan moral universal aturan. Sejak aturan-aturan moral yang didasarkan pada logika universal, serta sifat fisik dan realitas manusia, saya tidak bisa memberikan anda "hak untuk pembunuhan," ada lebih dari saya dapat memberikan anda kemampuan untuk melayang, berjalan di atas air atau akurat mengatakan bahwa dua tambah dua sama dengan lima.
 
-### Government As Voluntarism
+### Pemerintah Sebagai Voluntarisme
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+Membuka kekuatan yang terlibat dalam lembaga pemerintah konseptual pembungkus yang membalikkan aturan-aturan moral untuk kelompok tertentu dari individu – adalah sesuatu yang selalu dijauhkan dari meja dalam perdebatan. Ketika berbicara tentang pemerintah, hal ini tidak pernah dianggap sebagai hal yang positif untuk menunjukkan "pistol di kamar." Hampir oleh definisi, pemerintah dianggap harus dipilih oleh dan untuk rakyat, dan untuk beroperasi dengan mereka yang dinyatakan atau tersirat persetujuan.
 
-However, this is pure nonsense.
+Namun, ini adalah murni omong kosong.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Jika seorang pria memegang pisau ke tenggorokan wanita saat berhubungan seks dengan dia, yaitu dengan definisi suatu tindakan pemerkosaan. Dia tidak bisa mengatakan bahwa seks adalah konsensual, sementara pada saat yang sama mengancam dirinya dengan cedera atau kematian jika dia menolak untuk berhubungan seks dengan dia. Jika seks adalah sukarela, maka pisau adalah benar-benar tidak perlu. Jika pria merasa perlu untuk pisau, seks adalah *tidak* sukarela.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+Dengan cara yang sama, orang-orang mengatakan bahwa perpajakan merupakan bagian dari kontrak sosial bahwa mereka telah secara sukarela setuju untuk.
 
-This is both logically and empirically false.
+Ini adalah kedua secara logis dan empiris palsu.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Kita tahu bahwa itu adalah secara empiris palsu karena *tidak ada kontrak sosial yang ada*. Baik anda maupun saya *pernah* menandatangani dokumen secara sukarela menyetujui untuk pajak penghasilan – kami hanya lahir dalam sistem yang mengambil uang kita dari kita pada titik pistol.
 
-### The Gun In The Room
+### Pistol Didalam Kamar
 
-Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+Banyak orang akan berpendapat pada titik ini bahwa pajak tidak diberlakukan pada titik pistol, melainkan bahwa orang-orang yang membayar secara sukarela. Misalnya, saya tidak pernah punya pistol menunjuk di wajah saya oleh pemungut pajak atau polisi, tapi saya telah membayar pajak selama beberapa dekade.
 
-This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+Ini mungkin benar, tetapi itu adalah benar-benar tidak relevan. Jika saya memberitahu seorang wanita bahwa aku akan membunuh anak-anaknya jika dia tidak berhubungan seks dengan saya, dan dia menyerahkan dirinya untuk aku, kita jelas memahami bahwa tindakan tidak bermoral telah terjadi – meskipun saya tidak menggunakan senjata dalam pelanggaran. Jelas, jika wanita tunduk kepada saya, itu adalah karena dia takut bahwa saya akan melaksanakan ancaman-ku. Jika saya mengatakan kepadanya bahwa saya peliharaan leprechaun akan membunuh anak-anaknya jika dia tidak berhubungan seks dengan saya, dia akan sangat mungkin terganggu, tapi tidak akan takut kepada ancaman-ku dalam setiap cara yang signifikan, karena tidak mungkin untuk hewan peliharaan saya leprechaun untuk membunuh anak-anaknya. Atau, jika saya meninggal, dan saya akan menyatakan bahwa aku akan membunuh wanita ini anak-anak jika dia tidak berhubungan seks dengan saya, jelas dia akan merasa lega daripada takut, karena aku tidak bisa dibayangkan bertindak keluar saya ancaman dari kubur. Dengan demikian kita membayar pajak karena kita tahu bahwa jika kita tidak melakukannya, kemungkinan menjadi aggressed terhadap oleh perwakilan dari negara ini sangat tinggi. Jika saya tidak membayar pajak saya, saya akan mendapatkan sebuah surat, maka surat yang lain, maka panggilan telepon, maka surat panggilan ke pengadilan – dan jika aku tidak muncul di pengadilan, atau tidak membayar saya kembali pajak dan akumulasi denda dan bunga, polisi akan datang dengan senjata untuk membawa saya ke penjara. Jika aku melawan orang-orang polisi, mereka akan menembak saya turun.
 
-To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
+Untuk mengatakan bahwa gaya sama dengan voluntarisme adalah benar-benar tidak logis dan kontradiksi-diri. Untuk mengatakan bahwa inisiasi penggunaan kekuatan adalah benar-benar sama dengan non-inisiasi penggunaan kekuatan adalah untuk mengatakan bahwa naik turun, hitam putih, dan kebenaran adalah kebohongan.
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+Tanpa "zona null," korup ini fiksi tidak dapat dipertahankan.
 
-The “null zone” is the lair of the beast we hunt.
+"Zona null" adalah sarang dari binatang kita berburu.
 
-As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
+Seperti yang kita lihat, kita tahu bahwa secara pribadi itu adalah salah untuk mencuri; kami memiliki sedikit masalah dengan abstrak dan logis larangan pencurian, seperti yang kita telah bekerja di atas – namun masih ada ini "zona null" atau alam semesta alternatif di mana oposisi seperti dapat diterima tanpa pertanyaan atau kekhawatiran.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+Menurut UPB, itu salah bagi saya dan anda untuk mencuri. Namun entah bagaimana, dalam hal ini "zona null," hal ini tidak hanya diperbolehkan, tetapi juga sempurna *moral*, bagi orang lain untuk mencuri. Kita *tidak harus* mencuri – mereka *harus* mencuri. Itu adalah moral kegilaan!
 
-### Policemen
+### Polisi
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+Mari kita ambil kami teman baik Bob jauh dari kamar kecilnya moral teori pengujian dan mengembalikan dia ke aslinya pekerjaan sebagai polisi.
 
-Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
+Jelas, ketika Bob bangun di pagi hari, sebelum shift-nya, dia tidak bisa pergi ke rumah tetangga dan permintaan uang pada titik pistol, tidak peduli siapa yang mengatakan kepadanya bahwa itu semua benar.
 
-When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+Ketika Bob memiliki sarapan, dia juga tidak menyerang tetangganya dan mengambil uangnya. Dalam perjalanannya ke tempat kerja – bahkan meskipun ia telah mengenakan seragam – dia tidak menekan lagi, dan dengan demikian tidak memiliki lebih banyak hak dari warga negara lain. Ketika dia pukulan di, namun, sekarang, seolah-olah tidak turun amoral tiang api dari langit, ia memperoleh kemampuan luar biasa untuk secara moral menyerang tetangganya dan mengambil uang mereka.
 
-Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
+Anehnya, ini adalah satu-satunya karakteristik yang telah benar-benar terbalik itu sendiri. Dia tidak bisa terbang, ia tidak dapat mengubah bentuk nya, ia tidak berhasil mencerna bantalan bola atau tinggal di neraka, ia tidak dapat menjalankan satu ribu kilometer per jam, dan dia tidak bisa berjalan melalui dinding bata. Dia benar-benar, benar-benar, benar-benar *orang yang sama seperti dia **sebelum** dia menekan* – namun sekarang, ia adalah subjek untuk benar-benar berlawanan dengan aturan-aturan moral.
 
 Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
 
