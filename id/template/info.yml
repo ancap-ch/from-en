@@ -1,27 +1,27 @@
 ---
 content_files:
   - 
-    - content.md
+    - "conten.md\n"
     - https://github.com/ancap-ch/from-en/blob/utopian/id/template/content.md
 translation:
-  language: id
+  language: en
   is_translation: true
   this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/id/template"
   fetch_translators: true
   fetch_reviwers: true
   fetch_progress: true
 titles:
-  - Title Text
-  - '~~terpusat~~'
-  - '~~~~~to the right'
+  - "teks judul\n"
+  - "~~memusat~~\n"
+  - "~~~~~tentu benar\n"
 discussions:
   - 
-    - https://en.ancap.ch/t/5
-    - Ancap saluran
+    - http://en.ancap.ch/t/5
+    - chanel ancap
 more_infos:
   - 
     - https://www.google.com
-    - Nama situs web
+    - Nama situs
 tags:
   - Menambah beberapa
   - Beberapa yang lain
