@@ -43,29 +43,29 @@ persons:
   - 
     person: [ ]
     identifier: "template_seorang"
-    rule: "penterjemah"
+    rule: "penerjemah"
   - 
     person: [ ]
-    identifier: "template_pribadi"
-    rule: "komentator"
+    identifier: "template_seorang"
+    rule: "reviwer"
   - 
     person_: [ ]
-    identifier: "template_pribadi"
-    rule: "sampul_seniman"
+    identifier: "template_seorang"
+    rule: "penutup_seniman"
   - 
     person: [ ]
-    identifier: "template_pribadi"
-    rule: "seniman"
+    identifier: "template_seorang"
+    rule: "artist"
 resources:
   - 
     resource: [ ]
-    rule: "depan_sampul"
-    content: "sampul.png"
+    rule: "sampul depan"
+    content: "cover.png"
     websites:
-      - Sumber situs web
+      - Sumber situs
     description: Sumber keterangan
     persons:
-      - "template_pribadi"
+      - "template_seorang"
 targets:
   - 
     target: [ ]
