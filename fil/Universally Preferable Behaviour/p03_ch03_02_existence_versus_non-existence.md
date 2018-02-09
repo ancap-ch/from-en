@@ -4,7 +4,7 @@ Sa sandaling ang karahasan ng gobyerno ay naipakita sa intelektwal - at ang dapa
 
 Sinulat ko ang dose-dosenang mga artikulo na naglalantad sa kasinungalingan ng posisyon na ito, kaya't hindi ako mag-abala na ulitin ang mga argumento dito, dahil hindi sila mahalaga sa isang libro sa moralidad, ngunit sa halip ay magiging mas angkop sa isang libro na nagpapaliwanag ng mga prinsipyo at pagiging praktiko ng isang boluntaryong lipunan.[^4]
 
-Ang "argumento mula sa pagiging praktiko" ay hindi ganap na nalulutas ang problema ng karahasan. Kung nakikita kong kumakain ka ng cheeseburgers araw-araw, masasabi ko sa iyo na hindi praktikal na gawin mo ito, kung gusto mong mapanatili ang isang malusog na timbang. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
+Ang "argumento mula sa pagiging praktiko" ay hindi ganap na nalulutas ang problema ng karahasan. Kung nakikita kong kumakain ka ng cheeseburgers araw-araw, masasabi ko sa iyo na hindi praktikal na gawin mo ito, kung gusto mong mapanatili ang isang malusog na timbang. Hindi ko masasabi na ito ay *masama* para sa iyo upang kumain ng cheeseburgers, para sa mga kadahilanan na kami ay wala na sana. Hindi ko maaring pilitin ka sa pamamagitan ng lakas upang madagdagan ang "pagiging praktiko" ng iyong mga aksyon.
 
 Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
 
