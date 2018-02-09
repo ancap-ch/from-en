@@ -38,11 +38,11 @@ persons:
     rule: "bekerjasama"
   - 
     person: [ ]
-    identifier: "template_pribadi"
-    rule: "menyatakan terima kasih"
+    identifier: "template_seor"
+    rule: "berterimakasih"
   - 
     person: [ ]
-    identifier: "template_pribadi"
+    identifier: "template_seorang"
     rule: "penterjemah"
   - 
     person: [ ]
