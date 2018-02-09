@@ -1,75 +1,74 @@
 ## Parallels
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Voor de Wetenschappelijke Revolutie, werd het beschouwd als ondenkbaar dat de natuurlijke wereld kon ondersteunen, zonder een bewuste en "morele" entiteit in het centrum. De zon steeg trailing de ketens van een bovennatuurlijke wagen; de maan was een koude en eenzame broer van de zon. Sterrenbeelden geschetst van de verhalen en de graven van de goden, en stormen voort uit de woede van de boze geesten.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+Het idee dat de natuur een zelf genereren en zelfvoorzienend systeem is bijna onvoorstelbaar. De Darwinistische revolutie, de idee dat het leven niet was gemaakt, maar is geëvolueerd, bracht dit idee van het materiaal aan de biologische wereld.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Voordat de wetenschap, in het midden van elk complex systeem lag een deugdzaam bewustzijn – zonder dit systeem zou vliegen in de chaos, en ophouden te bestaan.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Helaas, deze "deugdzame bewustzijn" was slechts een illusie, om het meest liefdadig. Geen goden bestaan, dat alles *wist* bestaan waren de uitspraken van priesters. Wat dus echt lag in het centrum was het vooroordeel van irrationele individuen, die had geen idee hoe gek ze echt waren.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+We hebben nog te gelden dezelfde verlichting aan onze opvattingen van de samenleving – maar het is nu *essentieel* dat doen we dus.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+Wij vinden het van wezenlijk belang dat, in het centrum van de samenleving, plaatsen we een deugdzaam entiteit genaamd "de regering." In de afwezigheid van deze entiteit beschouwen wij het als axioma dat de maatschappij vliegt in een chaos, en ophouden te worden – net als onze voorouders van oordeel dat, in de afwezigheid van de goden, het universum zelf zou vliegen in de chaos, en ophouden te bestaan.
 
-However, “the government” no more exists than “god” exists.
+Echter, "de overheid" niet meer bestaat dan de "god" bestaat.
+Wanneer we spreken van "goden" zijn we echt praten over "de adviezen van de priesters."
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+Wanneer we spreken van "de regering" we *echt* de betekenis van "het geweld van een minderheid."
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+Het idee van "spontane orde', dat is ook bewezen in de wereld van de natuurkunde en de biologie, blijft grotendeels ondenkbaar voor ons in het rijk van de samenleving.
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+Echter, de "overheden" zijn niet meer nodig voor de organisatie en continuïteit van de samenleving dan de "goden" zijn nodig voor de organisatie en continuïteit van het universum.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+In feite, net zoals religies belemmerd de voortgang van de wetenschap, dus doe overheden belemmeren de vooruitgang van de samenleving. Net als de illusies van *religie* de oorzaak van de dood van honderden miljoenen mensen in de hele geschiedenis, zo hebben de illusies van de *overheid*.
 
-In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+Net zoals de valse ethiek van religies "justify" alle manieren van misbruik, corruptie en geweld, zo hebben de valse ethiek van de regeringen. Wanneer we kiezen om te leven door fantasie, we onvermijdelijk kies vernietiging, in een of andere vorm.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+Wanneer we kiezen om de samenleving volgens de zedelijke religieuze mythologieën, we eindigen met oorlog, geweld, onderdrukking, misbruik, corruptie en bodemloze hypocrisie.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+Wanneer we kiezen om de maatschappij op basis van *de statelijke* morele mythologieën, de resultaten zijn niet anders.
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+We kunnen kiezen deugd of dwang.
 
-We can either choose virtue or compulsion.
+We kunnen niet allebei hebben. 
 
-We cannot have both. 
+### Oplossingen
 
-### Solutions
+We kunnen kiezen om te geloven dat de overheid zowel een noodzakelijke en een morele instelling. We kunnen kiezen om te geloven dat, zonder overheid, de maatschappij stort in "anarchie", en de wereld zal oplossen in een oorlog van iedereen tegen iedereen. We kunnen kiezen om te geloven dat zonder de overheid, zal er geen wegen, geen onderwijs, geen gezondheidszorg, geen pensioenen, geen bibliotheken, geen bescherming van de goederen en zo verder.
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Soortgelijke bijgeloof, natuurlijk, vertraagt de vooruitgang van de mensheid door de geschiedenis heen. De belangrijkste voorloper van wat UPB onthult over de overheid is wat de wetenschap onthuld over religie.
 
-Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+Als wetenschap begon vrijwel het postuleren van een universum dat zou kunnen lopen zonder een god, die al manier van hysterie clamoured dat het einde van de wereld was nabij, dat de samenleving in elkaar zou klappen tot "anarchie", en dat de beschaving zou oplossen in een oorlog van iedereen tegen iedereen.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+Elke keer dat een systeem dat rechtvaardigt macht kan worden opgevat uitgevoerd *zonder* dat de macht, al degenen die profiteren van de manipulatie van die macht te schreeuwen dat zonder hen, alles is verloren.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+Priesters deden dit tijdens het begin van de wetenschappelijke revolutie. Zonder God, het leven heeft geen zin. Zonder God, heeft de mens geen moraal. Zonder God, onze zielen kunnen niet worden opgeslagen. Zonder God, de wereld zal dalen in de chaos en kwaad.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+Maar niets van dat alles bleek waar te zijn, natuurlijk. In feite, heel de *achteruit* bleken waar te zijn. Het einde van de religie als het dominante wereldbeeld effende de weg voor de scheiding van kerk en staat, het einde van de aristocratie, de opkomst van de vrije markt, de vestiging van de vele menselijke vrijheden in de belangrijke gebieden van de wereld.
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+De val van God was de opkomst van de mensheid.
 
-The fall of God was the rise of mankind.
+Op dezelfde manier, wanneer beginnen we zien de samenleving als het begin van de wetenschappers zag het universum als een zichzelf in stand houdende systeem zonder de noodzaak voor een denkbeeldige centrale autoriteit – dan kunnen we echt beginnen met het waarnemen van de mogelijkheden van de vrijheid voor de mensheid.
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+De oprichting van een centrale en verbindende monopolie in de samenleving voortdurend vertraagt de vooruitgang van kennis, van wijsheid, van deugd, van de lichamelijke en geestelijke gezondheid – net als de oprichting van een centrale en verbindende monopolie in de *universe* voortdurend vertraagd de voortgang van kennis, wijsheid, en wetenschap.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+De manier om zich te verzetten tegen denkbeeldige entiteiten is met meedogenloze waarheid. De manier om zich te verzetten tegen God, is met reden, bewijs en wetenschap.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+De manier om zich te verzetten tegen de staat – de meest gevaarlijke denkbeeldige entiteit is met de rede, het bewijs en de wetenschap. 
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science. 
+### De Toekomst
 
-### The Future
+Of we het nu willen of niet, UPB is van toepassing op alles wat we doen. De mens heeft een natuurlijke neiging tot consistentie, omdat we mensen zijn met een rationeel bewustzijn, die een consistente en rationele universum. Dus wat terrein hebben we accepteren in ons leven hebben de neiging te dwingen, meer en meer consistent gedrag gedurende ons leven – en in het "leven" van onze cultuur of natie.
 
-Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Dus een man die gelooft dat pesten is een goede manier om te krijgen wat hij wil heeft de neiging om te pesten meer en meer in de loop van zijn leven. Een man die van mening is dat geweld goed is heeft de neiging om meer en meer gewelddadig.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+In andere woorden, UPB vereist consistentie zelfs in inconsistentie. UPB eisen uniformiteit zelfs in immoraliteit.
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+De root morele premissen van een cultuur dus dicteren de onvermijdelijke toekomst. Een cultuur die is gebaseerd op de rechtvaardiging voor dwang zal altijd meer dwingend. Een cultuur die is gebaseerd op rationele vrijheid zal altijd minder dwingend.
 
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+Dat is de reden waarom de afbakening van een rationeel kader voor de ethiek is dus van essentieel belang.
 
-That is why the delineation of a rational framework for ethics is so essential.
+Wat wij geloven is wat we worden.
 
-What we believe is what we become.
-
-If we believe lies, we shall become slaves. 
+Als we geloven ligt, zullen we slaven worden.
