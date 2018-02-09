@@ -1,39 +1,41 @@
-## The Fifth Test: Lying
+## Ìdánwò karùn-ún: Irọ́ pipa
 
-The question of *lying* is interesting because telling the truth is generally considered to be universally preferable, but not enforceable through violence.
+Ìbéèrè nípa *Irọ́ pipa* je nkan ti a nifẹ sí nitoripe òtítọ sísọ jẹ ohun ti gbogbo wa yan láàyò, sugbon a ko le fi tipatipa mu ṣẹ.
 
-It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
+O jẹ nkan ti ọpọlọpọ gba pé *o pọ* ni ìbéèrè tó lè ju "itẹle àsìkò," ṣugbọn *ọ kéré* ni líle sì "olè jíjà." Kíní ìlànà àwọn UPB ni láti sọ nípa rẹ? 
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+Láti ayérayé, èyíkéyìí aláayè iwa tó n ṣe àlàyé pé "Irọ́ pipa dára" má n parẹ lẹsẹkẹsẹ, nígbà tó jẹ pé ẹni tí n ṣàlàyé n pá irọ́ - l'eyi tó da - a jẹ wípé irọ́ pipa kò da, nitoripe O ti sọ òtítọ pe irọ́ pipa kò da.
 
-For instance:
+Fun àpẹẹrẹ:
 
-**Bob:** Lying is always good.
+**Bob:** Irọ́ pipa jẹ́ ohun tó dára.
 
-**Doug:** Are you lying?
+**Doug:** Ṣe O n pa irọ́ ni?
 
-**Bob:** Yes.
+**Bob:** Bẹẹni.
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**Doug:** A jẹ wípé Irọ́ pipa kò da, nígbàtí O n parọ pé o dá.
 
-Or:
+Tabi:
 
-**Bob:** Lying is always good.
+**Bob:** Irọ́ pipa jẹ́ ohun tó dára.
 
-**Doug:** Are you lying?
+**Doug:** Ṣe O n pa irọ́ ni?
 
-**Bob:** No.
+**Bob:** Rárá.
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**Doug:** Nigbana Irọ́ pipa ko kí n dara, nitoripe O n sọ òtítọ nípa pé irọ́ pipa dára.
 
-Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
+Irọ́ pipa, sibẹsibẹ, ko gbá àmúlò agbára, ati pe ko tako àmúlò mima *yẹra fún nkan*. Níwọ̀n ìgbàtí a lè yẹra fún opurọ, wọn kò ṣè fi ọgbọn lòdì sí. 
 
-Lying also fits more closely in the category of *violence*, insofar as it is moral to lie in self-defence, just as it is moral to use violence in self-defence It is hard to think of a situation where one would have to “be late” in self-defence, or “be rude.” However, if a man bursts into your house and demands to know where your beloved wife is so he can slap her around, it would seem a parody of integrity to refuse to lie to him. Lying in this case would be a form of third-party self-defence, and as morally acceptable as the use of violence in self-defence Similarly, if a man obtains a hundred dollars from us by lying, we may justly lie to him to get it back.
+Irọ́ pipa tun nibamu ninu ẹgbẹ *iwà ipá*, nítorí ìdí èyí o lẹtọ láti pá irọ́ lati wa idabobo ara ẹni, bi o ti je wípé o lẹtọ lati lo iwa-ipa fún idabobo. O je ìnira láti ro ìṣẹlẹ kan ti èèyàn yíò ní lati "pẹ́ dé" ninu idabobo, tabi "ni ìgbéraga." Ṣùgbọ́n tí ọkùnrin kan já wọ inú ilé tí o sí béèrè ibi ti ìyàwó rẹ wà ki o le ma gba leti kiri, yíò ri bi orin ìdúróṣinṣin lati ko láti pá irọ́ fún. Irọ́ pípa ni iṣẹlẹ yìí yíò jẹ àpẹẹrẹ idabobo ẹnikẹta, ati bi ìwà itẹwọgba fún lílò iwa-ipa ninu idabobo. Bákannáà, ti ọkùnrin kan bá fi irọ́ gba ọgọrùn dọ́la lọwọ wa, a le pa pa irọ́ lotitọ fun lati gba pàdà.
 
-Thus we may justly lie to a liar, just as we may justly defend ourselves from a punch with a punch, but we would not exactly respect the escalating pettiness of “repaying” a tardy person by showing up even later.
+Nitorinà a le parọ lotitọ fún opurọ, gẹgẹbi a ti le dàbobo ara wá lotitọ lọwọ ìjà ẹlẹ̀ṣẹ́ pẹlu ẹ̀ṣẹ́, ṣugbọn a kò lè bọwọ bákannáà fún alekun  aiṣedeede ni "sisan ẹsan" ẹni tí n pẹ́ dé pẹlu dìde ni àsìkò pipẹ ju tiẹ lọ.
 
-The difference is that “being late” is not as actively destructive as lying. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
+Iyatọ ni wípé "pipẹ dé" kò yára mu iparun wá bi irọ́ pípa. Ẹni tí n pẹ́ dé má n mu inú bí yan, sugbon èyí kò ṣe idiwọn ìkápá rẹ lati ṣètò òtítọ. O je nkankan láti pé dé ìpàdé alago méje laarọ pẹlu wákàtí kan - nkán ọtọ míràn ni ki n gbìyànjú láti fi dá yin loju pe agọ mẹjọ arọ ní a fi ìpàdé sí, nígbà tí mo mọ pé ọrọ kò ri bẹẹ.
 
-Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
+Mima ja pẹlú ìgboyà ọkan rẹ̀ [5] ba ni l'ẹru púpọ jù idaniduro lo, nítorípé o je ìwà lilo igbẹkẹle kan lọdọ rẹ́ lati kò idinku bá igbẹkẹle ninu ara tiẹ, èyí ti ko dá pàápàá, nígbàtí o jẹ *lilo* iye kan lati ko idinku bá iye míràn, gẹgẹbi ṣiṣe ayédèrú. Bayi ni awọn UPB fọwọsi àìsí ọgbọn ninu àlàyé "irọ́ pípa dara," O tun jẹri sí pé ìwà irọ́ pípa sí èèyàn burú jù "pipẹ dé," ṣugbọn ọ da ju "ìjà" lo.
 
-[^5]: Sometimes called “gas-lighting,” after the old movie.
+ Kó ìgbẹkẹlé rẹ sí ọkàn ara rẹ [5] jẹ diẹ ẹ sii ju alaafia ju ki o jẹ ki o duro, nitori o jẹ iṣe ti lilo igbẹkẹle miiran si ọ lati fa igbẹkẹle rẹ silẹ ninu ara rẹ, eyiti o jẹ eleyi, nitori o ti * lilo * iye kan lati dẹkùn a iye kan, bi apọnfunni. Èyí ni bi UPB ṣe n ṣe afihan itanna ti idasile "eke ni o dara," o si jẹrisi pe iwa ti eke si ẹnikan jẹ buru " "pe o pẹ," ṣugbọn o dara ju "sele si."
+
+[^5]: Ti a n pé nígbà míìràn ni "ìdáná-afẹfẹ," lẹhin eré agbelewo atijọ.
