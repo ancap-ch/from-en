@@ -20,7 +20,7 @@ On a daily basis, the *utopian* branch translations will merge into the *product
 
 The table below shows it's books/essays publications, daily generated, on Google Drive; It also shows the github project folder on *utopian* branch, for an easier access; Github proofreaders team, so you can visualize the users; and also, the language community available for general posting and discussion (the scope is not limited to the translation of the texts).
 
-For the time being, only proofreaders will be allowed to retranslate files on their respective languages. All contributors may translate from scratch but only proofreaders will be able to submit corrections for a translation.
+For the time being, only proofreaders will be allowed to retranslate files on their respective languages. All contributors may translate from scratch but only proofreaders will be able to submit corrections for a translation. For Proofreaders: Let's focus our attention on the short books and essays first in order to deliver finished editions as soon as possible!
 
 If any question, don't be afraid to ask on the community, or crowdin, or here, by starting an issue.
 If you find some problem, we request you to open an issue on Github pointing to the problem you found - and thank you in advance.
@@ -33,13 +33,13 @@ We hope you enjoy!
 | ---- | --------------------- | ----------- | ------------------- | ------------- |
 | ar-EG | Arabic (اللغة العربية) Egypt | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ar-EG) | accro | [Channel](https://EG.ancap.ch/) |
 | ar-SA | Arabic (اللغة العربية) Saudi Arabia | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ar-SA) | accro | [Channel](https://SA.ancap.ch) |
-| bn | Bengali (বাঙালি) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/bn) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/bd) | [Channel](https://BD.ancap.ch) |
+| bn | Bengali (বাঙালি) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/bn) | Proofreaders | [Channel](https://BD.ancap.ch) |
 | ceb | Cebuano | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ceb) | Proofreaders | Channel |
 | cs | [Czech (Čeština)](https://drive.google.com/open?id=1Eh81_9mnOx6fPzPKwVhl8tWIbwvcAspn) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/cs) | Proofreaders | Channel | 
 | de | [German (Deutsch)](https://drive.google.com/open?id=1ZJSmlffH0FgnlYXPbxbDHuPVM3JQtdUc) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/) | jmotip | [Channel](https://DE.ancap.ch) |
 | en | [English (Original)](https://drive.google.com/open?id=1xr75MTKrof1RRWumSY9bVok232zA7ZpJ) | [Repository](https://github.com/ancap-ch/from-en/tree/production/en) | Proofreaders | [Channel](https://EN.ancap.ch) |
 | es-ES | [Spanish (Español)](https://drive.google.com/open?id=18SHPeRibheHAY9KvJqfFWtoQE2IoFN51) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/es-ES) | jmromero & isabella394 | [Channel](https://ES.ancap.ch) |
-| fa | Persian/Farsi (فارسی) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/fa) | [Proofreaders](https://github.com/orgs/ancap-ch/teams/ir) | [Channel](https://IR.ancap.ch) |
+| fa | Persian/Farsi (فارسی) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/fa) | Proofreaders | [Channel](https://IR.ancap.ch) |
 | fil | Filipino | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/fil) | blueleaf2017 | Channel |
 | fr | [French (Français)](https://drive.google.com/open?id=17L3FcsYP9GX4tHRxFJ51sUudYgJa0oO_) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/fr) | jmromero | [Channel](https://FR.ancap.ch) |
 | ha | [Hausa (Yaren Hausa)](https://drive.google.com/open?id=1wfbtz5FFrvnKJTvawvYPkpt4Mm7NWrgw) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ha) | Proofreaders | [Channel](https://NG.ancap.ch) |
@@ -57,6 +57,7 @@ We hope you enjoy!
 | pl | [Polish (Język polski)](https://drive.google.com/open?id=1C80huqY7CLxuiio7CEYcTR18w6SdWQFi) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/pl) | Proofreaders | [Channel](https://PL.ancap.ch) |
 | pt-BR | [Portuguese (Português) Brazil](https://drive.google.com/open?id=1IzBUzwfVgi1-TYnnJdOX3--HxG63jByh) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/pt-BR) | Proofreaders | [Channel](https://BR.ancap.ch) |
 | pt-PT | [Portuguese (Português) Portugal](https://drive.google.com/open?id=1YyoKO_ke61DkqxCL_ygIH89dDMo4K2HR) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/pt-PT) | Proofreaders | Channel |
+| ro | Romanian (Română) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ro) | Proofreaders | Channel |
 | ru | [Russian (Русский)](https://drive.google.com/open?id=1VC5YfgPSuKIkgbzhdxgLxpPSR-RPzcJ3) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ru) | Proofreaders | [Channel](https://RU.ancap.ch) |
 | th | Thai (ไทย) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/th) | Proofreaders | [Channel](https://TH.ancap.ch) |
 | tl | [Tagalog](https://drive.google.com/open?id=1oUlhwwnuSlKXsdnyBSx5RvGyb1WK6hW1) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/tl) | RuahTheKing | [Channel](https://PH.ancap.ch) |
