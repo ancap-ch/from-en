@@ -52,59 +52,59 @@ Jika kita bisa membuktikan bahwa teori moral bisa objektif, rasional dan dapat d
 
 Sebelum kebangkitan metode ilmiah, orang-orang percaya bahwa materi mematuhi keinginan subjektif dewa dan iblis - dan orang-orang percaya sama dengan moralitas yang sekarang. Meletusnya gunung berapi karena dewa gunung sedang marah; Hasil panen yang baik dihasilkan dari pengorbanan manusia maupun hewan. Tidak ada yang percaya bahwa hukum fisika mutlak bisa membatasi kehendak para dewa - oleh sebab itu ilmu pengetahuan tidak akan pernah bisa berkembang. Mereka yang secara historis mendapatkan keuntungan dari mendefinisikan realitas fisika sebagai subyektif - kebanyakan imam dan aristokrat - melawan penaklukan teori fisika kedalam metode ilmiah, Sama seperti mereka yang saat ini mendapatkan keuntungan dari mendefinisikan moralitas sebagai subyektif - kebanyakan imam dan politisi - saat ini melawan penaklukan teori *moral* kedalam prinsip objektif dan universal.
 
-As mentioned above, the scientific method is essentially a methodology for separating accurate from inaccurate theories by subjecting them to two central tests: logical consistency and empirical observation – and by always subjugating logical consistency to empirical observation. If I propose a perfectly consistent and logical theory that says that a rock will float *up* when thrown off a cliff, any empirical test proves my theory incorrect, since observation always trumps hypothesis.
+Seperti disebutkan di atas, bahwa metode ilmiah pada dasarnya adalah sebuah metodologi untuk memisahkan sesuatu yang akurat dari teori yang tidak akurat dengan menundukkan mereka pada dua tes utama: konsistensi logis dan pengamatan empiris - serta dengan selalu menundukkan konsistensi logis kepada pengamatan empiris. Jika saya mengajukan sebuah teori konsisten dan logis yang sempurna yang mengatakan bahwa batu akan mengambang *naik* saat dilemparkan dari tebing, uji empiris membuktikan teori saya tidaklah benar, sebab pengamatan selalu mengalahkan hipotesis.
 
-A further aspect of the scientific method is the belief that, since matter is composed of combinations of atoms with common, stable and predictable properties, the behaviour of matter must also be common, stable and predictable. Thus experiments must be *reproducible* in different locations and times. I cannot say that my “rock floating” theory is correct for just one particular rock, or on the day I first tested it, or at a single location. My theories must describe the behaviour of *matter*, which is universal, common, stable and predictable.
+Aspek selanjutnya dari metode ilmiah adalah keyakinan tersebut, semenjak materi terdiri dari kombinasi atom dengan sifat umum, properti yang stabil serta dapat diprediksi, perilaku materi juga harus umum, stabil dan mudah ditebak. Sehingga dengan demikian percobaan harus *bisa direproduksi* di lokasi dan waktu yang berbeda. Saya tidak bisa mengatakan bahwa teori "batu mengambang" adalah benar hanya untuk satu bebatuan tertentu, atau pada hari pertama saya melakukan pengujian, atau pada sebuah lokasi. Teori saya harus menggambarkan perilaku dari *masalah*, yang universal, umum, stabil serta bisa diprediksi.
 
-Finally, there is a generally accepted rule – sometimes called Occam’s Razor – which states that, of any two theories that have the same predictive power, the simpler of the two is preferable. Prior to the Copernican revolution, when Earth was considered the centre of the universe, the retrograde motion of Mars when Earth passed it in orbit around the sun caused enormous problems to the Ptolemaic system of astronomical calculations. “Circles within circles” multiplied enormously, which were all cleared away by simply placing the sun at the centre of the solar system and accepting the elliptical nature of planetary orbits.
+Akhirnya, terdapat peraturan yang berlaku secara umum – terkadang disebut Razor Occam – dengan pendapat tersebut, dari kedua teori yang memiliki kekuatan prediktif yang sama, yang lebih sederhana dari keduanya adalah lebih baik. Sebelum menuju ke revolusi Copernican, disaat bumi dianggap sebagai pusat dari alam semesta, gerakan planet mars yang berjalan mundur ketika bumi melewati orbit untuk mengelilingi matahari menyebabkan masalah besar pada sistem perhitungan astronomi Ptolemaic. “Lingkaran didalam lingkaran” berlipat ganda, yang semuanya menjelaskan hanya dengan menempatkan matahari di pusat tata surya dan menerima sifat elips dari orbit planet.
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+Jadi, setiap teori ilmiah yang valid harus (a) universal (b) logis (c) bisa diverifikasi secara empiris (d) dapat direproduksi dan juga (e) sesederhana mungkin.
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+Metodologi untuk menilai dan membuktikan teori *moral* sama persis dengan metodologi untuk menilai dan membuktikan teori lainnya.
 
-#### Moral Rules: A Definition
+#### Aturan Moral: Definisi
 
-The first question regarding moral rules is: *what* are they?
+Pertanyaan pertama mengenai aturan moral adalah: *apakah* mereka?
 
-Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
+Sederhananya, *moral* adalah seperangkat aturan yang mengklaim secara akurat dan konsisten mengidentifikasi tingkah laku manusia yang lebih baik secara universal, Sama halnya *fisika* yang merupakan seperangkat aturan yang mengklaim secara akurat dan konsisten mengidentifikasi sifat zat secara universal.
 
-The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+Pertanyaan kedua yang harus ditanyakan adalah: apakah ada yang namanya “perilaku yang lebih baik secara universal” secara keseluruhan? Jika ada, maka kita bisa mulai mengeksplorasi perilaku seperti itu. Jika tidak, maka pengujian kita harus berhenti disini – sama halnya seperti pemeriksaan astronomi Ptolemaic yang akhiri setelah secara umum diterima bahwa matahari merupakan pusat tata surya.
 
-### UPB: Five Proofs
+### UPB: Lima Bukti
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+Seperti yang telah kita bahas di atas, pernyataan bahwa *tidak ada yang namanya perilaku yang lebih baik* mengandung sejumlah masalah logis dan empiris yang tidak bisa diatasi. “Perilaku yang lebih baik secara universal” *harus* menjadi konsep yang valid, untuk lima alasan utama.
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+Yang pertama adalah logika: jika saya membantah *melawan* pendapat bahwa perilaku yang lebih baik secara universal adalah valid, Saya telah menunjukkan pilihan saya untuk kebenaran karena kepalsuan – serta pilihan untuk mengoreksi mereka yang berbicara salah. Mengatakan bahwa tidak ada hal seperti perilaku yang lebih baik secara universal adalah seperti berteriak di telinga seseorang yang tidak bisa mendengar – itu adalah bawaan diri yang kontradiktif. Dengan kata lain, jika ada *tidak mungkin* sebagai perilaku yang lebih baik secara universal, kemudian orang-orang *harus* menentang siapapun yang mengklaim bahwa ada hal seperti itu sebagai perilaku yang lebih baik secara universal. Bagaimanapun, jika seseorang "seharusnya" melakukan sesuatu, maka orang tersebut baru saja menciptakan perilaku yang lebih baik secara universal. Sehingga perilaku yang lebih baik secara universal – atau aturan moral – mestilah valid.
 
-Syllogistically, this is:
+Secara silogistis, ini merupakan:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1. Proposisi adalah: konsep "perilaku yang lebih baik secara universal" harus valid.
+2. Berdebat melawan keabsahan perilaku yang lebih baik secara universal menunjukkan perilaku yang lebih baik secara universal.
+3. Oleh sebab itu tidak ada pendapat yang bertentangan dengan keabsahan dari perilaku yang lebih baik secara universal dapat berlaku.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+Kita semua tahu bahwa terdapat preferensi yang subyektif, seperti menyukai es krim atau jazz, yang tidak dianggap mengikat orang lain. Di sisi lain, terdapat preferensi lain, seperti pemerkosaan dan pembunuhan, yang jelas *adalah* terhadapa orang lain. Ada juga preferensi untuk logika, kebenaran serta bukti yang juga mengikat orang lain (sekalipun biasanya tidak ditimbulkan dengan kejam) sejauh kita semua menerima bahwa proposisi yang tidak logis harus salah atau tidak valid.
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+Itulah referensi yang dapat dikatakan mengikat orang lain bisa disebut "preferensi universal," atau "aturan moral".
 
-How else can we know that the concept of “moral rules” is valid?
+Bagaimana lagi kita bisa tahu bahwa konsep "aturan moral" adalah valid?
 
-We can examine the question biologically as well as syllogistically.
+Kita bisa memeriksa pertanyaan secara biologis maupun secara silogistis.
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+Sebagai contoh, semua unsur tunduk pada aturan fisika – dan segala sesuatu yang hidup adalah tambahan yang tunduk pada persyaratan tertentu, serta dengan demikian, jika masih hidup, maka harus mengikuti perilaku yang disukai secara universal. Hidup, sebagai contoh, membutuhkan bahan bakar dan oksigen. Setiap pikiran yang hidup, tentu saja adalah sebuah bagian organik dari dunia fisik, oleh karenanya tunduk pada hukum fisika dan harus mengikuti perilaku yang lebih baik secara universal – untuk membantah sebaliknya akan membutuhkan bukti bahwa kesadaran tidak tersusun dari unsur, dan tidak organik – merupakan kemustahilan, karena memiliki massa, energi, and hidup. Membantah bahwa kesadaran tidak tunduk pada aturan fisika atau perilaku yang disukai secara umum, itu akan seperti mengatakan bahwa manusia kebal terhadap gravitasi, dan bisa berkembang biak tanpa makan.
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+Dengan demikian tidaklah mungkin seseorang bisa secara logis berdebat melawan perilaku yang lebih baik secara universal, karena jika dia masih hidup untuk diperdebatkan, dia pasti telah mengikuti perilaku yang disukai secara universal seperti bernapas, makan dan minum.
 
-Syllogistically, this is:
+Secara silogistis, ini merupakan:
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+1. Semua makhluk hidup membutuhkan perilaku yang lebih secara universal untuk hidup.
+2. Manusia adalah makhluk hidup.
+3. Oleh sebab itu semua manusia yang hidup masih hidup karena praktik perilaku yang lebih baik secara universal.
+4. Oleh sebab itu, setiap melawan pendapat perilaku yang lebih baik secara universal memerlukan penerimaan dan praktik perilaku yang lebih baik secara universal.
+5. Oleh sebab itu tidak ada pendapat yang menentang adanya perilaku yang lebih baik secara universal bisa menjadi valid.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+Semenjak metode ilmiah memerlukan pembuktian empiris, kita juga harus melihat kenyataan untuk mengkonfirmasi hipotesis kita – dan di sini keabsahan perilaku yang lebih baik secara universal didukung sepenuhnya.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Setiap manusia waras percaya pada aturan moral. Ada beberapa ketidaksetujuan tentang apa yang *membenarkan* aturan moral, namun semua orang yakin bahwa aturan moral itu benar – sama seperti banyaknya ilmuwan tidak sependapat, tetapi semua ilmuwan menerima keabsahan metode ilmiah itu sendiri. Seseorang bisa berpendapat bahwa bumi itu bulat dan tidak datar – yang sejalan dengan perubahan definisi moralitas – namun kita tidak bisa membantah bahwa Bumi tidak ada sama sekali – sama seperti membantah bahwa tidak ada hal seperti perilaku yang lebih baik secara universal.
 
 Or:
 
