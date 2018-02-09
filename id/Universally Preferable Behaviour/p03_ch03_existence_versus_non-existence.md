@@ -54,53 +54,53 @@ Society progresses exactly to the degree that reason and evidence make the great
 
 Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+Dengan cara yang sama, ketika kita menyatakan bahwa secara moral yang baik bagi tentara untuk membunuh dan perwakilan pemerintah untuk mencuri, kita ketahui bahwa "tentara" dan "perwakilan pemerintah" sebagai kategori moral * benar-benar tidak sah *.
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+Jika saya menyatakan bahwa lingkaran yang persegi memiliki hak untuk mencuri, saya hanya menyatakan bahwa apa yang tidak dapat ada memiliki hak untuk melakukan hal yang bertentangan dengan diri sendiri - sebuah pernyataan yang murni itu tidak masuk akal, tapi yang tetap menarik secara aneh di "zona nol "Politik.
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+Jika saya yang membeli kostum prajurit di toko barang bekas, dan menaruhnya di atas, jelas saya belum menciptakan alam semesta alternatif dimana peraturan moral yang berlawanan dapat berlaku. Saat sebelum saya mengenakan kostum itu, salahkah saya untuk membunuh - kapan saya harus * membunuh? Kapan saya memakai celana? Bagaimana jika saya memakai celana panjangnya, tapi bukan rompinya? Bagaimana jika saya hanya mempunyai satu boot saja? Bagaimana jika kedua sepatu bot menyala, tapi hanya satu yang dicampur? Bagaimana jika topi saya terbalik? Bagaimana jika saya mengenakan seragam yang tidak dikenali orang pertama yang saya temui? Apakah Beatles secara tiba-tiba mempunyai hak untuk membunuh saat mereka menembak sampul "Sersan Peppers"? Apakah mereka kehilangan hak itu saat melepas jaket mereka?
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Saya mengajukan sebuah pertanyaan retoris ini karena sebenarnya sangat serius. Jelas, kostum militer tidak akan mengubah sifat manusia, lebih dari sekedar potongan rambut mengubahnya menjadi bebek, konsep, atau tuhan.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+"Ah," anda mungkin berkata, "tapi kostumnya itu tidak benar karena anda memperdapatkannya di toko barang bekas - menggunakan seragam tentara tidak lagi membuat anda menjadi tentara daripada memfotokopi gelar doktor memberi anda gelar Ph.D."
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+Analogi yang salah, karena memiliki gelar Ph.D. atau memfotokopi doktor tidak dapat mengubah peraturan moral apa pun yang menjadi sasaran anda sebagai manusia.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+"Nah," anda mungkin akan menjawab, "tapi bedanya adalah bahwa prajurit tersebut yang memiliki hak moral yang diberikan kepadanya oleh warga biasa, demi pembelaan secara kolektif dan sebagainya."
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Hal ini dapat menimbulkan poin yang sangat menarik, pertanyaannya yaitu apakah opini bisa mengubah realitas.
 
-### Opinions And Reality
+### opini dan Realitas
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Jelas, kita mengerti bahwa saya tidak dapat melalui pendapat saya membebaskan anda dari rintangan gravitasi, lebih dari pendapat saya bahwa "dua ditambah dua sama dengan lima" menjadikannya benar.
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+"opini" adalah keyakinan yang tidak memiliki bukti nyata, atau tidak memiliki bukti yang jelas, atau yang merupakan ungkapan preferensi pribadi semata. Pendapat pribadi saya adalah bahwa saya lebih memilih es krim cokelat untuk vanili - saya mungkin juga memiliki "opini" bahwa Islandia adalah surga tropis, atau bahwa Tuhan itu ada, atau hujan turun ke atas. Pendapat pribadi jelas tidak ada hubungannya dengan moralitas; Pendapat yang menyatakan secara akurat menggambarkan realitas, tapi yang tidak, hanyalah prasangka yang salah. Percaya bahwa hujan turun ke atas tidak membalikkan arahnya; mengenakan kemeja Hawaii ke Islandia tidak membuat Reykjavik lebih hangat.
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+Dengan demikian mempercayai bahwa pembunuhan itu secara moral yang baik tidak membuat pembunuhan secara moral baik. Karena keyakinan saya tentang manusia tidak dapat mengubah sifat moralnya, keyakinan saya bahwa pembunuhannya itu bajik tidak mengubah kebajikan tindakannya. Jika saya memejamkan mata dan membayangkan bahwa anda adalah kadal, anda tidak tiba-tiba kehilangan kemampuan mengatur suhu tubuh sendiri. Membayangkan bahwa anda adalah ikan tidak memotong kebutuhan anda untuk peralatan selam.
 
-Opinions do not change reality.
+opini tidak dapat mengubah kenyataan.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Karena opini tidak dapat mengubah kenyataan, saya tidak dapat memberikan pengecualian atau pembalikan apapun sehubungan dengan peraturan moral universal. Karena peraturan moral didasarkan pada logika yang universal, juga sifat fisik dan realitas manusia, saya tidak dapat memberi anda "hak untuk membunuh," lebih dari saya dapat memberi anda kemampuan untuk melayang, berjalan di atas air atau secara akurat. katakan bahwa dua dan dua membuat lima.
 
-### Government As Voluntarism
+### Pemerintahan Sebagai Sukarela
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+Kekuatan terbuka yang terlibat dalam institusi pemerintahan - pembungkus konseptual yang membalikkan peraturan moral untuk sekelompok individu tertentu - adalah sesuatu yang selalu dijauhi dalam perdebatan. Ketika berbicara tentang pemerintah, tidak pernah dianggap hal yang positif untuk menunjukkan "pistol di ruangan itu." Hampir secara definisi, pemerintah dianggap dipilih oleh rakyat dan untuk rakyat, dan beroperasi dengan persetujuan yang diungkapkan atau implisit mereka.
 
-However, this is pure nonsense.
+Namun, ini omong kosong belaka.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Jika seorang pria memasukkan pisau ke tenggorokan wanita saat berhubungan seks dengannya, itu adalah definisi dari setiap tindakan pemerkosaan. Dia tidak bisa mengatakan bahwa seks itu bersifat konsensual, sementara pada saat yang sama mengancamnya dengan luka atau kematian jika dia menolak berhubungan seks dengannya. Jika seks itu sukarela, maka pisau itu sama sekali tidak perlu. Jika pria merasakan membutuhkan pisau, maka jelas seksnya * tidak * sukarela.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+Dengan cara yang sama, orang mengatakan bahwa perpajakan itu adalah bagian dari kontrak sosial yang telah mereka setujui secara sukarela.
 
-This is both logically and empirically false.
+Ini secara logika dan empiris yang salah.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Kita tahu bahwa secara empiris salah karena * tidak ada kontrak sosial *. anda atau saya * pernah * menandatangani sebuah dokumen dengan sukarela menyetujui pajak penghasilan - kami baru saja lahir dalam sistem yang mengambil uang kami dari kami pada titik pistol.
 
-### The Gun In The Room
+### senjata di dalam ruangan
 
-Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+Banyak orang berpendapat pada saat ini akan bahwa perpajakan tidak diberlakukan pada titik pistol, melainkan orang membayarnya secara sukarela. Misalnya, saya tidak pernah memiliki pistol di wajahku oleh seorang pemungut cukai atau polisi, tapi saya telah membayar pajak selama beberapa dekade.
 
-This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+Ini bisa jadi benar, tapi sama sekali tidak relevan. Jika saya memberi tahu seorang perempuan bahwa saya akan membunuh anak-anaknya jika dia tidak berhubungan seks dengan saya, dan dia menyerahkan diri kepada saya, kami mengerti dengan jelas bahwa tindakan tidak bermoral telah terjadi - walaupun saya tidak menggunakan senjata apapun dalam pelanggaran saya. Jelas, jika perempuan itu tunduk padaku, itu karena dia takut akan melakukan ancamanku. Jika saya mengatakan kepadanya bahwa hewan peliharaan saya akan membunuh anak-anaknya jika dia tidak berhubungan seks dengan saya, kemungkinan besar dia akan terganggu, tapi tidak akan takut akan ancaman saya dengan cara yang signifikan, karena tidak mungkin hewan peliharaan saya untuk membunuh. anak-anak dia. Atau, jika saya meninggal, dan surat wasiat saya menyatakan bahwa saya akan membunuh anak-anak perempuan ini jika dia tidak berhubungan seks dengan saya, jelas dia akan merasa lega daripada takut, karena saya tidak dapat membayangkan ancaman saya dari luar kuburan. Dengan demikian kita membayar pajak karena kita tahu bahwa jika tidak, kemungkinan akan diserang oleh perwakilan negara sangat tinggi. Jika saya tidak membayar pajak saya, saya akan mendapatkan sepucuk surat, kemudian surat lain, lalu telepon, lalu sebuah panggilan ke pengadilan - dan jika saya tidak hadir di pengadilan, atau tidak membayar pajak saya kembali dan mengumpulkan denda dan bunga , polisi akan datang membawa senjata untuk membawa saya ke penjara. Jika saya melawan polisi tersebut, mereka akan menembak saya.
 
 To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
 
