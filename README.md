@@ -20,7 +20,7 @@ On a daily basis, the *utopian* branch translations will merge into the *product
 
 The table below shows it's books/essays publications, daily generated, on Google Drive; It also shows the github project folder on *utopian* branch, for an easier access; Github proofreaders team, so you can visualize the users; and also, the language community available for general posting and discussion (the scope is not limited to the translation of the texts).
 
-For the time being, only proofreaders will be allowed to retranslate files on their respective languages. All contributors may translate from scratch but only proofreaders will be able to submit corrections for a translation.
+For the time being, only proofreaders will be allowed to retranslate files on their respective languages. All contributors may translate from scratch but only proofreaders will be able to submit corrections for a translation. For Proofreaders: Let's focus our attention on the short books and essays first in order to deliver finished editions as soon as possible!
 
 If any question, don't be afraid to ask on the community, or crowdin, or here, by starting an issue.
 If you find some problem, we request you to open an issue on Github pointing to the problem you found - and thank you in advance.
