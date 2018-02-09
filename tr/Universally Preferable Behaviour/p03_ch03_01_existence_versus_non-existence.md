@@ -74,7 +74,7 @@ Bu çok ilginç bir noktayı açığa çıkarır, bu görüşlerin gerçekliği 
 
 Açıkça şunu anlıyoruz, düşüncem vasıtasıyla sizi yer çekiminin sınırlamalarından azade kılamam, tıpkı "iki artı iki eşittir beş" düşüncemin onu doğru yapmaması gibi.
 
-"Fikirler", normalde açık bir delil bulundurmayan veya açık bir delil sağlanamayan ya da sadece kişisel tercihlerin içsel yansımaları olan inançlardır. Vanilyayı, çikolatalı dondurmaya tercih edişim benim kişisel görüşümdür. Aynı şekilde, yağmurun yukarı yağdığı, tanrının var olduğu ya da İzlanda'nın tropikal bir cennet olduğu yine "görüşüm" olabilir. Kişisel görüşlerin açıkça ahlak ile hiçbir ilgisi yoktur; gerçekliği doğru bir şekilde tanımladığını iddia eden görüşler, ancak yanlış önyargılardır. Yağmurun tersine yağdığına inanmak onun yazgısını tersine çevirmez; yine, İzlandada, Hawai gömleği giymek Reykavik'i daha sıcak yapmaz.
+"Fikirler", normalde açık bir delil bulundurmayan veya açık bir delil sağlanamayan ya da sadece kişisel tercihlerin içsel yansımaları olan inançlardır. Vanilyayı, çikolatalı dondurmaya tercih edişim benim kişisel görüşümdür. Aynı şekilde, yağmurun yukarı yağdığı, tanrının var olduğu ya da İzlanda'nın tropikal bir cennet olduğu yine "görüşüm" olabilir. Kişisel görüşlerin açıkça ahlak ile hiçbir ilgisi yoktur; gerçekliği doğru bir şekilde tanımladığını iddia eden görüşler, ancak yanlış ön yargılardır. Yağmurun tersine yağdığına inanmak onun yazgısını tersine çevirmez; yine, İzlanda da, Hawai gömleği giymek Reykavik'i daha sıcak yapmaz.
 
 Bu sebeple cinayetin ahlaki olarak iyi olduğuna inanmak cinayeti ahlaki açıdan iyi yapmaz. İnsan olmakla ilgili olarak benim inançlarım onun ahlak yapısını değiştirmediği için, onun cinayetlerinin erdemli olmasıyla ilgili inançlarım onun eylemlerinin erdemini değiştirmez. Eğer gözlerimi kapatır ve bir kertenkele olduğunuzu hayal edersem, aniden vücudunuzun sıcaklığını düzenleme yeteneğinizi kaybetmezsiniz. Bir balık olduğunuzu hayal etmek tüplü dalışa olan ihtiyacınızı yok etmez.
 
@@ -84,7 +84,7 @@ Düşünceler gerçeği değiştirmediği için, ulusal bir ahlak kuralını gö
 
 ### Gönüllülük Olarak Hükümet
 
-Hükümet kuruluşunda yer alan açık kuvvet - belirli bir grup birey için ahlaki kuralları ters düz eden kavramsal paketleme - tartışmalarda sürekli masanın üzerinde bulundurulan bir şeydir. Hükümet hakkında konuşurken "odadaki silah"a işaret etmek asla olumlu bir şey olarak görülmez. Neredeyse tüm tanımlarına göre hükümetlerin halk tarafından ve halk için seçildiği ve onların açık ya da örtülü onayı ile hareket ettiği düşünülür.
+Hükümet kuruluşunda yer alan açık kuvvet - belirli bir grup birey için ahlaki kuralları ters düz eden kavramsal paketleme - tartışmalarda sürekli masanın üzerinde bulundurulan bir şeydir. Hükümet hakkında konuşurken "odadaki silah"’a işaret etmek asla olumlu bir şey olarak görülmez. Neredeyse tüm tanımlarına göre hükümetlerin halk tarafından ve halk için seçildiği ve onların açık ya da örtülü onayı ile hareket ettiği düşünülür.
 
 Ancak bu tamamen saçmalıktır.
 
@@ -94,13 +94,13 @@ Aynı şekilde, insanlar vergilendirmenin gönüllüce katıldıkları toplumsal
 
 Bu hem mantıksal hem de deneysel açıdan yanlıştır.
 
-Deneysel olarak yanlış olduğunu biliyoruz çünkü* toplumsal sözleşmesi mevcut değil*. Ne sen ne de ben *hiçbir zaman* gönüllü olarak gelir vergisine rıza gösterdiğimiz bir dokümanı gönüllüce imzalamadık - biz yalnızca paramızı silah zoruyla bizden alan bir sistemin içerisine doğduk.
+Deneysel olarak yanlış olduğunu biliyoruz çünkü *toplumsal sözleşmesi mevcut değil*. Ne sen ne de ben *hiçbir zaman* gönüllü olarak gelir vergisine rıza gösterdiğimiz bir dokümanı gönüllüce imzalamadık - biz yalnızca paramızı silah zoruyla bizden alan bir sistemin içerisine doğduk.
 
 ### Odadaki Tabanca
 
 Birçok insan vergilendirmenin silah zoruyla olmadığını ancak insanların bunu gönüllüce ödediğini söyleyerek itiraz edecek. Örneğin, benim yüzüme polislerce veya vergi tahsildarlarınca asla silah doğrultulmadı ama ben on yıllardır vergi ödemekteyim.
 
-Bu doğru olabilir ama tamamen alakasız. Eğer bir kadına benimle seks yapmazsa onun çocuklarını öldüreceğimi söylersem ve kadın bana boyun eğerse, biz açıkça şunu anlarız: ahlaki olmayan bir eylem meydana gelmiştir - hatta bu ihlal sırasında silah kullanmamama rağmen. Şu açıktır ki eğer kadın bana boyun eğerse bu onun benim tehditimi yerine getirebileceğimden korkmasındandır. Eğer ben kadına eğer benimle seks yapmazsa benim ev "leprechaun"umun onun çocuklarını öldüreceğini söylesem o muhtemelen rahatsız olacaktır ama hiçbir şekilde benim tehditimden korkmayacaktır çünkü ev "leprechaun"umun onun çocuklarını öldürmesi imkansızdır. Ya da eğer ölmüşsem ve benim vasiyetimde eğer bu kadın benimle seks yapmazsa çocuklarını öldüreceğim yazıyorsa şüphesiz kadın korkudan ziyade rahatlama hissedecektir çünkü mezarın içinde tehditlerimi hayata geçirebilmem mümkün değildir. Bu yüzden vergilerimizi ödüyoruz çünkü eğer ödemezsek devletin yüksek temsilcileri ile gerilim yaşayabileceğimizi biliyoruz. Eğer vergimi ödemezsem, bir mektup alırım sonra bir tane mektup daha sonra bir telefon sonra mahkeme celbi - ve eğer mahkemeye çıkmazsam veya geriye dönük vergilerimi, toplam cezayı ve faizini ödemezsem polisler beni hapse götürmek üzere silahlarıyla gelirler. Eğer polise mukavemet gösterirsem beni vururlar.
+Bu doğru olabilir ama tamamen alakasız. Eğer bir kadına benimle seks yapmazsa onun çocuklarını öldüreceğimi söylersem ve kadın bana boyun eğerse, biz açıkça şunu anlarız: ahlaki olmayan bir eylem meydana gelmiştir - hatta bu ihlal sırasında silah kullanmamama rağmen. Şu açıktır ki eğer kadın bana boyun eğerse bu onun benim tehditimi yerine getirebileceğimden korkmasındandır. Eğer ben kadına eğer benimle seks yapmazsa benim ev "cinlerimin", onun çocuklarını öldüreceğini söylesem o muhtemelen rahatsız olacaktır ama hiçbir şekilde benim tehditimden korkmayacaktır çünkü ev "cinimin", onun çocuklarını öldürmesi imkansızdır. Ya da eğer ölmüşsem ve benim vasiyetimde eğer bu kadın benimle seks yapmazsa çocuklarını öldüreceğim yazıyorsa şüphesiz kadın korkudan ziyade rahatlama hissedecektir. Çünkü mezarın içinde tehditlerimi hayata geçirebilmem mümkün değildir. Bu yüzden vergilerimizi ödüyoruz çünkü eğer ödemezsek devletin yüksek temsilcileri ile gerilim yaşayabileceğimizi biliyoruz. Eğer vergimi ödemezsem, bir mektup alırım sonra bir tane mektup daha sonra bir telefon sonra mahkeme celbi - ve eğer mahkemeye çıkmazsam veya geriye dönük vergilerimi, toplam cezayı ve faizini ödemezsem polisler beni hapse götürmek üzere silahlarıyla gelirler. Eğer polise mukavemet gösterirsem beni vururlar.
 
 Bu zorun gönüllülükle eşit olduğunu söylemek tamamen mantıksızdır ve kendisiyle çelişir. Zor kullanılmaya başlanması zor kullanılmaya başlanmamasına tamamen eşittir demek yukarı aşağıdır, kara aktır, doğru yanlıştır demektir.
 
@@ -138,7 +138,7 @@ Bob'un paramızı almasını "istediğimizi" söyledik - ki bu Bob'un dolu bir s
 
 ''Ben sana onların para vermek istediklerini söylediklerini sanıyordum.''
 
-''Hayır, hayır-onlar bana borçlular. Gerçekten*benim*param!''
+''Hayır, hayır-onlar bana borçlular. Gerçekten *benim* param!''
 
 "Neye dayanarak bu parayı borç alıyorlar?"
 
