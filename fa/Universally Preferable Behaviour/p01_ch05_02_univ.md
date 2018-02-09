@@ -1,24 +1,24 @@
-### UPB: Five Proofs
+### پنج اثبات : یو پی بی
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+همانطور که در بالا بحث کردیم ، این عبارت که چنین چیزی بعنوان یک رفتار مطلوب جهانی وجود ندارد شامل تعداد زیادی مشکلات نظری و منطقی برطرف نشدنی است . بطور کلی رفتار مطلوب به پنج دلیل مهم باید یک مفهوم معتبر باشد .
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+ اولی منطقی است : اگر من بر خلاف این عبارت که رفتار مطلوب جهانی معتبر است صحبت کنم ، ترجیح حقیقت به دروغ  و همچنین ترجیح اصلاح کردن افرادی که دروغ می گویند را نشان داده ام . گفتن اینکه چنین چیزی بعنوان رفتار مطلوب جهانی است  مانند فریاد زدن در گوش فردی است که به نظر می رسد وجود ندارد (ذاتا یک خود تناقضی است ) . به عبارت دیگر اگر چنین چیزی بعنوان رفتار مطلوب جهانی وجود نداشته باشد  پس هر فرد باید با کسی که ادعا می کند چنین چیزی وجود دارد مقابله کند . با این وجود اگر فردی کاری را انجام دهد ، پس آن فرد رفتار مطلوب جهانی ایجاد کرده است . بنابراین رفتار مطلوب جهانی یا قوانین اخلاقی باید معتبر باشد .
 
-Syllogistically, this is:
+بطور خلاصه از نظر انحصاری :
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1. عبارتی که رفتار مطلوب جهانی باید معتبر باشد .
+2. بحث کردن بر خلاف اعتبار رفتار مطلوب جهانی ، رفتار مطلوب جهانی را نشان می دهد .
+3. بنابراین هیچ بحثی بر خلاف اعتبار رفتار مطلوب جهانی نمی تواند معتبر باشد .
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+همه ما می دانیم که اولویت های وابسته به طرز فکر شخص مانند دوست داشتن بستنی یا جاز وجود دارند که به افراد دیگر تحمیل نشده اند . از طرف دیگر اولویت های دیگری مانند تجاوز و قتل وجود دارند که به دیگران تحمیل شده اند . همچنین اولویت هایی برای منطق ، حقیقت و شواهد و مدارک وجود دارند که بر دیگران تحمیل می شوند ( اگر معمولا با خشونت  تحمیل نشده اند تا جاییکه که همه ما قبول می کنیم که یک عبارت غیر منطقی باید نادرست یا نامعتبر باشد ) .
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+این اولویت ها که بعنوان اولویت هایی که به دیگران تحمیل می شوند در نظر گرفته می شوند می توانند اولویت های جهانی یا قوانین اخلاقی نامیده شود .
 
-How else can we know that the concept of “moral rules” is valid?
+چگونه می توانیم بفهمیم که مفهوم قوانین اخلاقی معتبر است ؟
 
-We can examine the question biologically as well as syllogistically.
+ما می توانیم این سوال را از لحاظ زیست شناختی و همچنین نیروی انسانی بررسی کنیم.
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+ بعنوان مثال : همه چیز در معرض قوانین فیزیکی است و هر چیزی که زندگی می کند در معرض نیازهای خاص است و بنابراین اگر آن زنده باشد ، رفتارهای مطلوب جهانی را دنبال کرده است . برای مثال زنده بودن نیازمند سوخت و اکسیژن است . البته هر ذهن زنده ای یک بخش ارگانیک از دنیای فیزیکی است و بنابراین در معرض قوانین فیزیکی است و باید رفتارهای مطلوب جهانی را دنبال کرده باشد . بحث کردن به غیر از این نیاز مند شواهد و مدارکی است که طبق آن هوشیاری متشکل از ماده نیست و یک ارگانیک نیست . یک عدم امکان این است که آن جرم، ارزش و زندگی دارد . بحث کردن درباره اینکه هوشیاری نه در معرض قوانین فیزیکی و نه رفتارهای مطلوب جهانی است مانند این است که بگوییم .انسانها به جاذبه زمین ایمن هستند و می توانند بدون غذا رشد کنند
 
 Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
 
