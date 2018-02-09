@@ -102,11 +102,11 @@ Yukarıda tartışıldığı üzere tecavüz ahlaken nötr bir davranış olamaz
 
 Belki tecavüz bir *kişisel olarak olumsuz* davranıştır, üç numaranın tersine. Örnek olarak, kaçak bir suçlu kişisel olarak olumsuz davranış(KOD) yapmayı düşünecektir.
 
-Kişisel olarak olumsuz davranışlar(KODlar) tanımı gereği başkaları üzerinde zorla uygulanamazlar. Bu yüzden, tecavüze uğrayan birinin kendini savunma tercihini tecavüzcüsüne *tecavüz etmeme* şeklinde zorlamak yanlış olacaktır. Bu yolla şiddete olan atılım - kişisel tercihin zorlanması - *moral*, savunmadır - aynı zamanda kişisel tercihin zorlanması - sağduyulu değildir. Bu yolla aynı hareketlerin ( kişisel tercihin zorla kabul ettirilmesi) hem moral hemde moralsiz olarak sınıflandırılabilir, bu da sürekli olamaz.
+Kişisel olarak olumsuz davranışlar(KODlar) tanımı gereği başkaları üzerinde zorla uygulanamazlar. Bu yüzden, tecavüze uğrayan birinin kendini savunma tercihini tecavüzcüsüne *tecavüz etmemek* şeklinde zorlamak yanlış olacaktır. Bu yolla şiddete olan atılım - kişisel tercihin zorlanması - *moral*, savunmadır - aynı zamanda kişisel tercihin zorlanması - sağduyulu değildir. Bu yolla aynı hareketlerin ( kişisel tercihin zorla kabul ettirilmesi) hem moral hemde moralsiz olarak sınıflandırılabilir, bu da sürekli olamaz.
 
 ### Estetik olarak olumsuz
 
-Belki de tecavüz estetik olarak *olumsuz* bir davranıştır tıpkı geç kalmak gibi - yukarıdaki iki numaranın tam tersi. Ancak, estetik olarak olumsuz davranışlar(EODlar) mantıksal olarak şiddetle zorlanamazlar * çünkü tanım gereği kaçınılabilirler *. Ben özgürce sürekli geç gelen biri ile iletişimi kesmeyi tercih edebildiğim için ona geç kaldığından dolayı vuramam.
+Belki de tecavüz estetik olarak *olumsuz* bir davranıştır tıpkı geç kalmak gibi - yukarıdaki iki numaranın tam tersi. Ancak, estetik olarak olumsuz davranışlar(E.O.D.) mantıksal olarak şiddetle zorlanamazlar *çünkü tanım gereği kaçınılabilirler*. Ben özgürce sürekli geç gelen biri ile iletişimi kesmeyi tercih edebildiğim için ona geç kaldığından dolayı vuramam.
 
 Ancak, tecavüz tanımı gereği kaçınılamazdır çünkü güç kullanarak gerçekleştirilen cinsel bir saldırıdır.[^4] Ayrıca, eğer ben yukarıda belirtilen sürekli geciken adamla arkadaşlığı kesersem o beni şiddet ile tehdit ederek arkadaşı olmaya zorlayamaz çünkü bu sadece kişisel tercihlerin başkalarına uygulanabileceği anlamına gelir ki arkadaşlığını bırakmayı *isteyebilme* yeteneğime karşı sonuçsuz kalacaktır. Bu çeşit "Tarantino ahlakı" herkesin donmuş bir heykel gibi birbirlerinin suratına silah doğrulturken sessizlik halinde felç olma durumu ile sona erer.
 
@@ -118,7 +118,7 @@ sadece geriye kalan…
 
 ### Kötülük
 
-Eğer tecavüz kötülük olarak tanımlanmışsa, o zaman bu, şiddet kullanım *başlatılmasını* da içermelidir ki açıkça öyledir. Ayrıca, "tecavüz kötüdür" önermesi, "koma testi"nden geçer, komadaki bir erkeğin başka birini tecavüz etmesi mümkün değildir.
+Eğer tecavüz kötülük olarak tanımlanmışsa, o zaman bu, şiddet kullanım *başlatılmasını* da içermelidir ki açıkça öyledir. Ayrıca, "tecavüz kötüdür" önermesi, "koma testi"n den geçer, komadaki bir erkeğin başka birini tecavüz etmesi mümkün değildir.
 
 Buna ek olarak, eğer tecavüz kötü ise, o zaman tecavüz *etmemek* iyi olmalıdır - bu şekilde baktığımızda, bir odadaki iki adam, sırf birbirlerine tecavüz etmeden aynı anda ahlaklı olabilir.
 
@@ -130,9 +130,9 @@ Tecavüzcü "tecavüz iyidir" önermesinden sıyrılarak eylemlerini haklı çı
 
 Bu önerme, aynı zamanda ETD'nin en temel mantık testinde başarısız olur. Bob eğer ki Doug'a tecavüz ederek kendi zevkini tatmin etmesi gerektiğine inanırsa - Doug'ın hoşnutsuzluğuna aldırış etmeden - o zaman Bob mantıklı bir şekilde tercihini UPB'ye yükseltemez.
 
-Eğer herkes kendi zevkini kurbanlarının hoşnut*suz*luğuna aldırış etmeden almalıysa, o zaman Bob, Doug'a tecavüz etmeyi *tercih* etse de bunu yapmaya hakkı yoktur, Doug hiç şüphesiz tecavüz *edilmemeyi* tercih edecektir. Eğer herkes kendi zevkini başkalrının zevksizliğini gözardı ederek ele alırsa, Bob'un tecavüz tanımının Bob'un tecavüze uğramama tanımı arasında bir ayrım yapılamaz, tecavüze uğramamyı seçen Bob'a bu durumun yaratacağı rahatsızlığı gözardı edersek.
+Eğer herkes kendi zevkini kurbanlarının hoşnut*suz*luğuna aldırış etmeden almalıysa, o zaman Bob, Doug'a tecavüz etmeyi *tercih* etse de bunu yapmaya hakkı yoktur, Doug hiç şüphesiz tecavüz *edilmemeyi* tercih edecektir. Eğer herkes kendi zevkini başkalarının zevksizliğini göz ardı ederek ele alırsa, Bob'un tecavüz tanımının Bob'un tecavüze uğramama tanımı arasında bir ayrım yapılamaz, tecavüze uğramamayı seçen Bob'a bu durumun yaratacağı rahatsızlığı göz ardı edersek.
 
-Bu durumda Doug Bob'a "Benim sana tecavüz etmem senin için iyidir çünkü kişisel tercihler zorla kabul ettirilebilir" Tabiki bu duruma Bob "Bu durumda benim vahşi bi şekilde tecavüze direnmeye hakkım vardır çünkü kişisel tercihler zorla kabul ettirilebilir."
+Bu durumda Doug, Bob'a "Benim sana tecavüz etmem senin için iyidir çünkü kişisel tercihler zorla kabul ettirilebilir" Tabi ki bu duruma Bob "Bu durumda benim vahşi bir şekilde tecavüze direnmeye hakkım vardır çünkü kişisel tercihler zorla kabul ettirilebilir."
 
 Elbette, çok az tecavüzcü filozoftur, ancak yukarıda bahsettiğimiz gibi insanoğlu için birincil tehlike bireysel suçtan ziyade mantıksız ve sömürücü ahlak kuramlarıdır. Örneğin, hapis cezası kaçınılmaz olarak ahlaki bir teori için bir itiraz yoluyla haklı gösterilebilir - ve hapsetme, özel suçluların hayal edebileceğinden çok daha fazla kişiye tecavüz edilmesine sebep olur. Hadım etmeyi doğrulayan moral teoriler yanlış çıkarsa, o zaman bu teoriyi *düzeltmek* tecavüz oranlarını azaltmak isteyen birinin en büyük önceliği olmalıdır.
 
