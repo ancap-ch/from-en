@@ -1,38 +1,38 @@
-## Introduction
+## 介绍
 
-Pendant d'innombrables générations, l'humanité a vécu dans une sorte d'égocentrique sein de l'auto-imposées de l'ignorance: la terre était plate, que le soleil, la lune et les étoiles tournaient autour de lui, les ancêtres fit signe de lui par-delà les brumes de la mort, et le tonnerre est la colère des dieux.
+无数个世代，人类生活在一种自我的子宫的自我的无知：世界是平的，太阳，日月星辰围绕着他，示意他祖先从超越死亡的迷雾，雷声众神的愤怒。
 
-Des terriers de cette narcissique de l'utérus de l'interprétation subjective nécessaire le travail des millénaires – et coûté la vie à des millions de personnes. L'effort requis pour la clé de notre point de vue à partir de *expérience perceptive* to *conceptuel logique* était terrifiant, exaltante, très déroutant et extrêmement dangereux. Comprendre que le monde n'était pas ce qu'il *sentais comme*, ou *semble*, a été – et demeure – le plus grand exploit de notre intelligence. L' *vérité* de la réalité s'est avéré être dans les yeux de l'esprit, non de la chair.
+从这个自我陶醉的主观解释的子宫中挖掘出来，需要几千年的劳动，并且要付出数百万的生命。把我们的观点从感性经验转化为概念逻辑所需的努力，是令人恐惧，令人振奋，极度迷失方向和极其危险的。理解世界不是我们所感觉到的，或似乎是，而且仍然是我们智慧的最大壮举。事实的真相是在心灵的眼睛里，而不是在肉体上。
 
-Le monde est plat, il ne l'est pas. Le soleil et la lune semble de la même taille; ils ne le sont pas. Les étoiles semblent se déplacer autour de la terre; ils ne le font pas. L'apprentissage de la vérité exige que nous voyons le monde à partir de l'extérieur de nos sens – cela ne signifie pas un rejet de nos sens, mais un contenant hermétique de la conformité avec l' *réel* la preuve de sens, qui n'est pas que le monde est plat, mais que la matière, de l'énergie et des lois de la physique sont cohérentes. Lorsque nous laissons aller à un rocher dans la main, il tombe – c'est l' *réel* la preuve de sens, non pas que la Terre est fixe et immuable. L'idée que le monde est immobile est une hypothèse erronée qui contredit la preuve directe de nos sens, qui est que tout retombe. Si tout tombe, le monde ne peut pas être fixe et immuable.
+世界看起来很平，不是。太阳和月亮看起来大小一样，它们不是。星星好像绕着地球转，而不是。学习真理需要我们从感官之外看到世界 - 这并不意味着拒绝我们的感官，而是密切遵守感官的真实证据，这不是世界是平的，而是物质、能量和物理定律是一致的。当我们放开手中的石头时，它就会倒塌 - 这是感觉的真正证据，而不是地球是固定不动的。世界是不动的想法是一个不正确的假设，与我们感官的直接证据相矛盾，这就是一切都落空了。如果一切都落下，世界就无法固定和不可移动。
 
-Ce sont ces petites vérités de la vie quotidienne; que les roches de l'automne, de la fumée s'élève, le feu est chaud et que le soleil et la lune sont à la fois rondes. Si nous restons fermement et rigoureusement déterminés à ces “petites vérités”, on peut dériver les grandes vérités de la physique, qui nous fournissent de tels génial de savoir et de pouvoir.
+这些都是日常的小道理：岩石坠落，烟雾升起，火是热的，太阳和月亮都是圆的。如果我们坚定不移地坚守这些“小真理”，我们就能及时地得到物理学的伟大真理，它为我们提供了如此可怕的知识和力量。
 
-Entre le peu de vérités et les grandes vérités, cependant, ce sont les illusions qui nous aveugle – à la fois en physique et en éthique.
+然而，在微小的真理和伟大的真理之间，是蒙蔽我们的幻觉——无论是物理学还是伦理学。
 
-En physique, les grandes vérités ne peut contredire le peu de vérités. Pas de “théorie du champ unifié” peut valablement s'opposent à nos sens direct-l'expérience de la chute d'un rocher ou d'une augmentation de la flamme. La plus grande théorie mathématique ne peut pas être valable si l'application elle renvoie incorrect changement à la caisse.
+在物理学中，伟大的真理不能与小真理相矛盾。没有“统一的场论”可以有效地抵触我们直接的感觉 - 坠落的岩石或上升的火焰的经验。如果应用它在收银台返回不正确的变化，最伟大的数学理论是无效的。
 
-Historiquement, cependant, entre notre propre petit vérités et les grandes vérités se trouve ce que j'appelle la “null zone.”
+然而，在历史上，在我们自己的小真理和伟大真理之间，我称之为“空白地带”。
 
-### Le "Nul La Zone"
+### “空白区”
 
-Nous disons à nos enfants de ne pas percer les uns des autres, et nous croyons que la violence est mauvaise dans l'abstrait, comme un général, la règle morale. Le “peu de vérité” est: *ne pas le punch*. La “grande vérité” est: *la violence est mauvaise*.
+我们告诉我们的孩子不要互相攻击，我们认为暴力在抽象上是错误的，作为一般的道德规则。“小实话”是：不要打卡。“伟大的真理”是：暴力是错误的
 
-Cependant, il existe dans notre esprit une entité imaginaire appelé “Dieu”, et cette entité est considérée comme parfaitement moral. Malheureusement, cette entité constamment et viole grossièrement l'édit que “la violence, c'est mal” par noyade dans le monde, le reléguant les âmes à l'enfer, malgré une parfaite connaissance de leurs “décisions” et de sanctionner le viol, le meurtre, le vol, l'agression et les autres actions que nous condamnons comme totalement mauvais.
+然而，在我们的头脑中存在着一个被称为“上帝”的想象实体，这个实体被认为是完全合乎道德的。不幸的是，这个实体不断严重地违反了谴责“暴力是错误的”，淹没世界，尽管完全预知他们的“决定”，批准强奸，谋杀，盗窃，打架斗殴等行为，我们会谴责任何个人绝对邪恶。
 
-Ainsi, nous avons peu de vérité (*ne pas le punch*) et la grande vérité (*la violence est mauvaise*) mais dans le milieu, nous avons ce “nul”, la zone *où tout le contraire de notre peu de vérités et de nos grandes vérités est considéré comme parfaitement vrai*.
+因此，我们有一个小的真理（不打）和伟大的真理（暴力是错误的），但在中间，我们有这个“空区”，我们的小真理和我们伟大的真理完全相反，被认为是完全真实的。
 
-Historiquement, nous pouvons voir la même incohérence dans la physique. Il n'y a pas des cercles parfaits dans notre expérience directe, mais à cause d'une croyance en Dieu, tous les mouvements planétaires devait être un “cercle parfait” – un principe que retardé l'astronomie depuis des siècles. De même, si un homme tourne la tête, il n'est pas raisonnable de croire que le monde entier tourne autour de lui – et il se ferait un plaisir de mettre cela en avant non seulement comme son propre “peu de vérité”, mais comme un *vérité*, ou principe universel. Pourtant, pour la plupart de l'histoire humaine, on a cru que les étoiles et les planètes en rotation autour de la Terre, plutôt que la Terre en rotation. Ici encore, on peut voir le “nul”, la zone entre le sens direct de l'expérience et de principe universel, dans lequel tout à fait opposées principes sont considérés comme parfaitement valable.
+从历史上看，我们可以看到物理学中同样的不一致。在我们的直接经验中没有完美的圆，但由于对上帝的信仰，所有行星运动都必须是一个“完美的循环” –几百年来延缓天文学的前提。同样，如果一个人转过头来，他也不会相信整个世界围绕着他旋转 - 这是延缓天文学发展的一个前提。同样，如果一个人转动他的头，他就不合理地认为整个世界围绕着他旋转，他会高兴地把这个向前推进，而不仅仅是他自己的“小真理”，而是作为一个伟大的真理或普遍原则。然而，对于大多数人类历史来说，人们相信星星和行星围绕地球旋转，而不是地球旋转。在这里我们可以看到直接经验和普遍原则之间的“空白地带”，完全相反的原则被认为是完全有效的。
 
-Aucun homme sain d'esprit fait l'expérience de Dieu directement. Dans sa vie quotidienne, il accepte pleinement que *ce qui ne peut être perçu n'existe pas*. Aucun homme raisonnable trébuchait à chaque fois qu'il prend un peu, craignant un mur invisible qui pourrait être de limitation à sa façon. Aucun homme raisonnable trébuchait à chaque fois qu'il prend un peu, craignant un mur invisible qui pourrait être de limitation à sa façon.
+神志正常的人不能直接体验上帝。在他的日常生活中，他完全接受那些不能被察觉的东西。不合理的人望而却步他每走一步，生怕一堵无形的墙，可能会限制他的方式。科学的最大抽象性支持他的方法。
 
-À l'inverse, dans le “nul”, la zone de la religion, de l' *exact opposé* à la fois le peu de vérités et les grandes vérités que l'on croit être vrai. Personnellement, un homme croit qu' *ce qui ne peut être perçu n'existe pas* – sur le plan intellectuel, la science l'a prouvé à plusieurs reprises. Toutefois, dans le “nul”, la zone de la théologie, à l'exact opposé de la proposition est vraie – l'axiome il y a *ce qui ne peut être perçu **doit** existe*.
+相反地，在宗教的“空白地带”，这两个真理和伟大真理的截然相反，被认为是正确的。 就个人而言，一个人认为那些无法被察觉的东西是不存在的 – 在智力上，科学已经反复证明了这一点。然而，在神学的“零空间”中，完全相反的命题是成立的 - 存在着不可感知的公理必须存在。
 
-Notre croyance en la vertu de l'armée se trouve aussi dans cette “null zone.” Si l'homme est payé pour le meurtre d'un autre homme, nous l'appelons un “pistolet à la location”, et le condamnent comme un hit man. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
+我们对军队美德的信仰也存在于这个“空白地带”，如果一个私人被雇来谋杀另一个人，我们称他为“雇佣枪”，并谴责他是一个被击中的人。然而，如果这个人穿上一件带丝带的绿色服装，并采取同样的行动，我们就把他当作英雄，并用退休金来奖励他。小事实（我不应该谋杀）完全符合伟大的真理（谋杀是错误的） -然而在中间有一个“空白地带”，在那里，谋杀奇迹般地变成了“贞洁”。
 
-If this “null zone” is valid, then no logical proposition can ever hold. If a proposition is true – and the exact opposite of that proposition is also true – then logical reasoning becomes impossible. The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
+我们对军队美德的信仰也存在于这个“空白地带”，如果一个私人被雇来谋杀另一个人，我们称他为“雇佣枪”，并谴责他是一个被击中的人。然而，如果这个人穿上一件带丝带的绿色服装，并采取同样的行动，我们就把他当作英雄，并用退休金来奖励他。小事实（我不应该谋杀）完全符合伟大的真理（谋杀是错误的） -然而在中间有一个“空白地带”，在那里，谋杀奇迹般地变成了“贞洁”。
 
-In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
+在旧地图，在地图已经完成了他们的探索，已知土地的图纸会褪色成白纸。知识的增长首先需要对未知事物进行划分，然后将已知的原则扩展到未知领域。
 
 The same is true in the realm of morality.
 
