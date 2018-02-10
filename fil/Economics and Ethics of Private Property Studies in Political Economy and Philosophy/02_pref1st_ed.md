@@ -1,4 +1,4 @@
-## Paunang Salita sa Ikalawang Edisyon
+## Paunang salita sa Unang Edisyon
 
 Ang pagbagsak ng sosyalismo sa buong Silangang Europa—bilang naipahayag ang pinakang madrama sa pamamagitan ng mga kaganapan ng habang buhay na dimalilimutang Nobyembre 9, 1989, na kung saan ang mga German ng Silangan at Kanluran na muling pagsamahin, ilipat at pagsiyahin, sa ibabaw ng Pader ng Berlin—ay may idadagdag na maraming suporta at kagalingan para sa sentral na tesis ng bulyom na ito para sa aking inaaasahan.
 
