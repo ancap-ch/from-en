@@ -1,6 +1,6 @@
 ## Pag papairal Laban sa Hindi Pagpapairal
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+Aking papaliwanag ang "hindi pagpapairal" bilang na Hindi nagtataglay ng mass o lakas, o ipakita ang mga epekto ng mass o lakas, tulad ng kapansin pansi na relasyon gaya mg gravity.
 
 God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
 
