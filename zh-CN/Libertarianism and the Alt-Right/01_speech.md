@@ -85,88 +85,92 @@ Alt-Right运动本质上是90年代初兴起古代保守主义运动的继承者
 因此，考虑到目前的事态发展，那么任何有前途的自由主义战略都必须像Alt-Right所承认的那样：
 
 1.  针对这些受害最严重的人群量身定做。白人已婚的有孩子的基督教夫妇，特别是如果他们属于纳税阶层（而不是税收消费者），每个人最接近或渴望达到这种社会秩序和组织的标准形式，实际上可以被认为是自由主义信息最受欢迎的听众[^19]。考虑到现代西方的这个行凶者与受害者的星座，那么现在我可以来试图勾勒出一个现实的自由主义变革策略的最终任务。其中的具体内容必须以两个一般的考虑为前提。一方面，鉴于从学术界顶端的知识分子阶层，到男同性恋者中的舆论塑造者，他们都被牢牢地束缚在统治体系中，即他们是问题的一部分，他们也不应期望在问题解决中发挥任何作用。因此，社会变革的所谓“哈耶克的战略，设想的正确的自由主义思想的传播开始在顶部，与领先的哲学家，然后滴下来到记者再到一般群众，必须考虑根本不现实。相反，任何现实的自由主义变革策略都必须是民粹主义战略。也就是说，自由主义者必须使占主导地位的知识精英短路，直接向人民群众发起愤怒和蔑视统治精英。
-2. All the while the main addressees of a populist libertarian message must be indeed the just mentioned groups of dispossessed and disenfranchised native whites, I believe it to be a serious strategic error to make “whiteness” the exclusive criterion on which to base one’s strategic decisions, as some strands of the Alt-Right have suggested to do. After all, it is above all white men that make up the ruling elite and that have foisted the current mess upon us. True enough, the various protected “minorities” mentioned before take full advantage of the legal privileges they have been accorded and they have become increasingly emboldened to ask for ever more “protection,” but none of them and all of them together did not and do not possess the intellectual prowess that would have made this outcome possible, if it were not for the instrumental help that they received and are receiving from white men.
+2。一直以来, 所有而民粹主义的自由信息的主要接受者一定是刚才提到的群体的剥夺和被剥夺本地的白人，我相信这是一个严重的战略错误，使“白”的唯一标准，基地的战略决策，为ALT权利
+股建议做。毕竟，最重要的是组成统治精英的白人，并且把目前的混乱强加于我们身上。的确，各种保护的“少数民族”之前提到的充分利用他们已符合法定特权，他们越来越有底气要求更多的保护”，但他们中的任何一个都没有如果不是他们接受和从白人那里得到的工具性帮助，就不具备使这一结果成为可能的智力。
 
-Now, taking our cues from the Buchanan-, the Paul- and the Trump-movement, on to the specifics of a populist strategy for libertarian change, in no specific order except for the very first one, which has currently assumed the greatest urgency in the public mind.
 
-#### Stop mass immigration
+现在，从布坎南，Paul (保罗) 和 Trump (特朗普) 运动中，我们可以看出民粹主义的自由主义改变策略的具体情况，除了第一个，在公众心目中最紧迫的第一个，没有任何特定的顺序。
 
-The waves of immigrants currently flooding the Western world have burdened it with hordes of welfare parasites, brought in terrorists, increased crime, led to the proliferation of no-go areas and resulted in countless “bad neighbors” who, based on their alien upbringing, culture and traditions, lack any understanding and appreciation of liberty and are bound to become mindless future supporters of welfare-Statism.
+#### 停止大规模移民  
 
-No one is against immigration and immigrants *per se*. But immigration must be by invitation only. All immigrants must be productive people and hence, be barred from all domestic welfare payments. To ensure this, they or their inviting party must place a bond with the community in which they are to settle, and which is to be forfeited and lead to the immigrant’s deportation should he ever become a public burden. As well, every immigrant, inviting party or employer should not only pay for the immigrant’s upkeep or salary, but must also pay the residential community for the additional wear and tear of its public facilities associated with the immigrant’s presence, so as to avoid the socialization of any and all costs incurred with his settlement. Moreover, even before his admission, every potential immigrant invitee must be carefully screened and tested not only for his productivity but also for cultural affinity (or “good neighborliness”) – with the empirically predictable result of mostly, but by no means exclusively, western-white immigrant-candidates. And any known communist or socialist, of any color, denomination or country of origin, must be barred from permanent settlement – unless, that is, the community where the potential immigrant wants to settle officially sanctions the looting of its residents’ property by new, foreign arrivals, which is not very likely to say the least (even within already existing ‘commie’ communes).[^20]
+移民目前泛滥的西方世界波的负担与福利寄生虫成群，带来了恐怖分子、犯罪率上升，导致禁区的增殖，导致无数的“坏邻居”的人，他们根据他们的外来教养，文化和传统，缺乏对自由的理解和认识，必然会成为福利国家主义的盲目的未来支持者。
 
-#### Stop attacking, killing and bombing people in foreign countries
+没有人反对移民和移民本身。但是移民必须是通过邀请才有的。所有移民都必须是富有生产力的人，因此不得享受所有的国内福利金。为了确保这一点，他们或他们的邀请方必须与他们所在的社区建立联系，如果他成为公众的负担，将会被没收并导致移民的驱逐。此外，每一个移民、邀请方或雇主都不应只支付移民的维持费或薪金，而且还必须向居住社区支付与移民存在有关的公共设施的额外磨损，以避免其定居所产生的任何和所有费用的社会化。此外，即使在他的入场，每一个潜在的移民被邀请者必须仔细筛选和测试不仅为他的生产力也为文化的亲和力（或“睦邻”）–与主要经验预测的结果，但不完全是，西方白人移民考生。与任何已知的共产主义或社会主义，任何颜色，原产地命名或国家，必须禁止永久解决–除非，就是社区里的潜在移民想解决的正式制裁掠夺居民财产的新的外国游客，这是不是至少可以说很有可能（甚至在已经存在的“共产主义”[^20] 公社）。
 
-A main cause, even if by no means the only one, for the current invasion of Western countries by hordes of alien immigrants, are the wars initiated and conducted in the Middle East and elsewhere by the US’ ruling elites and their subordinate Western puppet-elites. As well, the by now seemingly ‘normal’ and ubiquitous terrorist attacks in the name of Islam across the Western world are in large measure the “blow-back” of these wars and the ensuing chaos throughout the Middle East and Northern Africa. There should be no hesitation to call these Western rulers what they are: murderers or accessories to mass murder. We must demand, and cry out loud instead for a foreign policy of strict non-interventionism. Withdraw from all international and supranational organizations such as the UN, NATO and the EU that intricate one country into the domestic affairs of another. Stop all government-to-government aid and prohibit all weapon sales to foreign States. Let it be *America First!, England First!, Germany First!, Italy First!*, and so on, i.e., each country trading with one another and no one interfering in anyone else’s domestic affairs.
+#### 停止攻击、杀害和轰炸国外的人
 
-#### Defund the ruling elites and its intellectual bodyguards
+一个主要原因，即使不是唯一的一个原因，是目前由大批外来移民入侵西方国家的战争，是由美国的统治精英及其下属的西方傀儡精英在中东和其他地方发起并进行的战争。此外，现在看来“正常”的和无处不在的恐怖主义袭击，以伊斯兰的名义在西方世界，在很大程度上是这些战争的“打击”和随后在整个中东和北非的混乱。应该毫不犹豫地把这些西方统治者称为凶手或凶手。我们必须要求，而不是为了一个严格不干涉主义的外交政策而大声呼喊。撤销联合国，北约，欧盟等所有国际和超国家组织，把一个国家搞成另一个国家的内政。停止所有政府对政府的援助，禁止向外国出售所有武器。让它成为“美国第一！”，“英格兰第一！”，“德国第一！”，“意大利第一！”等等，即每个国家相互交易，没有人干涉别人的内政。
 
-Expose and widely publicize the lavish salaries, perks, pensions, side-deals, bribes and hush monies received by the ruling elites: by the higher-ups in government and governmental bureaucracies, of supreme courts, central banks, secret services and spy agencies, by politicians, parliamentarians, party leaders, political advisors and consultants, by crony-capitalists, “public educrats,” university presidents, provosts and academic “stars.” Drive home the point that all their shining glory and luxury is funded by money extorted from tax-payers, and consequently urge that any and all taxes be slashed: income taxes, property taxes, sales taxes, inheritance taxes, etc., etc..
+#### 废除统治精英及其智能保镖
 
-#### End the FED and all central banks
+揭露和广泛宣传的高额薪水、津贴、养老金、单边交易，由执政精英收受贿赂和嘘款项：由政府和政府官僚机构的上级，最高法院、中央银行、秘密服务和间谍机构，被政客、议员、政党领袖、政治顾问和顾问，通过裙带资本家，“公共教育家”，”大学校长、教务长和学术“明星”。开车回家的地步，他们所有的光辉和奢华是金钱勒索纳税人的资助，因此要求削减所有的税收：所得税，财产税，销售税，遗产税等等。
 
-The second source of funding for the ruling elites, besides the money extorted from the public in the form of taxes, comes from the central banks. Central banks are allowed to create paper money out of thin air. This reduces the purchasing power of money and destroys the savings of average people. It does not and cannot make society as a whole richer, but it redistributes income and wealth within society. The earliest receivers of the newly created money, i.e., the ruling elites, are thereby made richer and the later and latest receivers, i.e., the average citizen, are made poorer. The central bank’s manipulation of interest rates is the cause of boom-bust cycles. The central bank permits the accumulation of ever greater “public debt” that is shifted as a burden onto unknown future taxpayers or is simply inflated away. And as the facilitator of public debt, the central banks are also the facilitators of wars. This monstrosity must end and be replaced by a system of free, competitive banking built on the foundation of a genuine commodity money such as gold or silver.
+#### 结束美联储和所有中央银行
 
-#### Abolish all ‘affirmative action’ and ‘non-discrimination’ laws and regulations
+第二对执政精英的资金来源，除了金钱勒索公众以税收的形式，由中央银行。允许中央银行凭空制造纸币。这降低了货币的购买力，破坏了普通人的储蓄。它并不能使整个社会富裕，但在社会收入和财富再分配。新创造的货币，即统治精英的最早接受者，因此变得更加富有，后来和最新的接受者，即普通公民，变得更加贫穷。央行操纵利率是繁荣 - 萧条周期的原因。中央银行允许积累越来越多的“公共债务”，这种债务被转移到未知的未来纳税人身上，或者被简单地夸大了。作为公债的推动者，中央银行也是战争的推动者。这个怪物必须结束，并由建立在真金白银等基础上的免费竞争性银行体系所取代。
 
-All such edicts are blatant violations of the principle of the equality before the law that, at least in the West, is intuitively sensed and recognized as a fundamental principle of justice. As private property owners, people must be free to associate or disassociate with others: to include or exclude, to integrate or segregate, to join or separate, to unify and incorporate or to disunite, exit and secede. Close all university departments for Black-, Latino-, Women-, Gender-, Queer-Studies, etc., etc., as incompatible with science and dismiss its faculties as intellectual imposters or scoundrels. As well, demand that all affirmative action commissars, diversity and human resources officers, from universities on down to schools and kindergartens, be thrown out onto the street and be forced to learn some useful trade.
+#### 废除一切“平权行动”和“不歧视”的法律和规章
 
-#### Crush the “Anti-Fascist” Mob
+所有这些法令在法律面前的平等原则的公然违反，至少在欧美地区，是直观的感觉，作为司法公正的基本原则。作为私人财产所有者，人们必须能够自由地与他人联合或分离：包括或排斥，整合或分离，加入或分离，统一并纳入或分裂，离开和分离。关闭所有大学部门的黑人，拉丁裔，妇女，性别，酷儿研究等等，与科学不相容，并将其学科视为知识分子的冒名者或流氓。同时，要求所有的肯定性行动委员，多样性和人力资源人员，从学校到学校、幼儿园，被丢弃在大街上，被强迫去学习一些有用的贸易。
 
-The trans-valuation of all values throughout the West: the invention of ever more “victim groups,” the spread of “affirmative action” programs and the relentless promotion of “political correctness,” has led to the rise of an “anti-fascist” mob. Tacitly supported and indirectly funded by the ruling elites, this self-described mob of “social justice warriors” has taken upon itself the task of escalating the fight against “white privilege” through deliberate acts of terror directed against anyone and anything deemed “racist,” “right-wing,” “fascist,” “reactionary,” “incorrigible” or “unreconstructed.” Such “enemies of progress” are physically assaulted by the “anti-fascist” mob, their cars are burnt down, their properties vandalized, and their employers threatened to dismiss them and ruin their careers – all the while the police are ordered by the powers that be to “stand down” and not to investigate the crimes committed or prosecute and punish the criminals. In view of this outrage, public anger must be aroused and there must be clamoring, far and wide, for the police to be unleashed and this mob be beaten into submission.[^21]
+#### 粉碎“反法西斯暴徒
 
-#### Crush the street criminals and gangs
+西方所有价值观的交叉评价：发明了越来越多的“受害者群体”、“平权行动”方案的推广和“政治正确性”的不懈推动，导致了“反法西斯”暴民的兴起。这些自称为“社会正义战士”的暴徒默认支持并由统治精英间接资助，通过蓄意针对任何被认为是“种族主义，种族主义，种族歧视， “右翼”，“法西斯”，“反动”，“不可修复”或“重建”。这些“进步的敌人”遭到“反法西斯”暴徒的肉体攻击，车子被烧毁，财物遭到破坏，他们的雇主威胁说要解雇他们，毁了他们的事业 - 而一直是“下台”的权力下令警察，而不是调查犯罪或起诉和惩罚罪。鉴于这一暴行，必须引起公众的愤怒，必须有人发出大声的呼吁，以使警察得以释放，使这些暴徒被殴打投降。[^21]
 
-In dispensing with the principle of the equality before the law and awarding all sorts of group privileges (except to the one group of married white Christian men and their families) the ruling elites have also dispensed with the principle of equal punishment for equal crime. Some State-favored groups are handed more lenient punishment for the same crime than others, and some especially favored groups are simply let run wild and go practically unpunished at all, thus actually and effectively promoting crime. As well, no-go areas have been permitted to develop where any effort at law-enforcement has essentially ceased to exist and where violent thugs and street gangs have taken over. In view of this, public furor must be provoked and it be unmistakably demanded that the police crack-down quick and hard on any robber, mugger, rapist and murderer, and ruthlessly clear all current no-go areas of violent gang-rule. Needless to say that this policy should be colorblind, but if it happens to be, as it in fact does, that most street criminals or gang members are young Black or Latino males or, in Europe, young immigrant males from Africa, the Middle East, the Balkans or Eastern Europe, then so be it and such human specimen then should be the ones that most prominently get their noses bloodied. And needless to say also that in order to defend against crime, whether ordinary street crime or acts of terrorism, all prohibitions against the ownership of guns by upstanding citizen should be abolished.
+#### 镇压街头罪犯和帮派
 
-#### Get rid of all welfare parasites and bums
+在遵守法律面前人人平等的原则和授予各种群体特权（除了一组已婚白人基督徒及其家庭）之外，统治精英也放弃了平等犯罪同等处罚的原则。一些国家青睐的群体交更多的从宽处罚的犯罪比其他人，和一些特别偏爱的群体只是让脱缰的野马，在一起几乎不受惩罚，从而真正有效地促进犯罪。而且，在执法力度基本上不复存在，暴力暴徒和街头帮派接管的情况下，禁止进入的地区也被允许发展。有鉴于此，必须引起公愤，明确要求警方对任何强盗，抢劫，强奸，杀人凶手严厉打击，毫不留情地清除目前禁止的暴力黑社会地区。不用说，这个政策应该是色盲，但如果它是，它实际上是，大多数街道犯罪或团伙成员是欧洲年轻的黑人或拉丁裔男性，年轻的男性移民，来自非洲、中东、Balkans或东欧，那就这样吧，这样的人体标本那应该是最显著地得到他们的鼻子流血的人。不用说，为了防范犯罪，无论普通街头犯罪还是恐怖主义行为，都禁止用正直的公民枪支所有权应当废除。
 
-To cement their own position, the ruling class has put the underclass on the dole and thus made it a most reliable source of public support. Allegedly to help people rise and move up from the underclass to become self-supporting actors, the real – and actually intended – effect of the State’s so-called “social policy” is the exact opposite. It has rendered a person’s underclass status more permanent and made the underclass steadily grow (and with this also the number of tax-funded social workers and therapists assigned to “help and assist” it). For, in accordance with inexorable economic law, every subsidy awarded on account of some alleged need or deficiency produces more, not less, of the problem that it is supposed to alleviate or eliminate. Thus, the root cause of a person’s underclass status: his low impulse control and high time preference, i.e., his uncontrolled desire for immediate gratification, and the various attendant manifestations of this cause, such as unemployment, poverty, alcoholism, drug abuse, domestic violence, divorce, female headed households, out-of-wedlock births, rotating shack-up male companions, child abuse, negligence and petty crime, is and are not alleviated or eliminated but systematically strengthened and promoted. Instead of continuing and expanding this increasingly unsightly social disaster, then, it should be abolished and be loudly demanded that one take heed of the biblical exhortation that he who can, but will not work, also shall not eat, and that he who truly cannot work, due to severe mental or physical deficiencies, be taken care of by family, community and voluntary charity.
+#### 擺脫所有的福利寄生蟲
 
-#### Get the State out of education
+为了巩固自己的地位，统治阶级把底层的救济，使得一个最可靠的公共支持的来源。据称能帮助人上升和从底层走向自立的演员，真正的–和实际上的国家的所谓的“社会政策”–效果是相反的。它使一个人的阶级地位更加长久，使得底层阶级稳步增长（同时还有一些税收资助的社会工作者和治疗师被分配到“帮助和协助”）。
+因为根据无情的经济法，每一项因某些需要或不足而获得的补贴都会产生更多而不是更少的问题，它应该减轻或消除这一问题。因此，一个人的阶级地位的根本原因：他的低脉冲控制和高时间偏好，即，他不受控制的即时满足的欲望，而这导致随之而来的各种表现，如失业、贫困、酗酒、吸毒、家庭暴力、离婚、女户、非婚生育旋转同居男同伴，儿童虐待、疏忽和暴力犯罪，并没有消除，但系统地加强和推广。而不是继续和扩大这种越来越难看的社会灾难，那么就应该废除和大声地要求人们注意圣经的劝告：能够但不会工作的人也不能吃，而真正不能吃的人由于精神或身体上的严重缺陷，由家庭，社区和义务慈善事业照顾。
 
-Most, if not all, social pathologies plaguing the contemporary West have their common root in the institution of “public education.” When the first steps were taken, more than two centuries ago, in Prussia, to supplement and ultimately replace a formerly completely private system of education with a universal system of compulsory “public education,” the time spent in State-run schools did in most cases not exceed four years. Today, throughout the entire Western world, the time spent in institutions of “public education” is, at a minimum, around ten years, and in many cases, and increasingly so, twenty or even thirty years. That is, a large or even the largest part of time during the most formative period in a person’s life is spent in State-funded and State-supervised institutions, whose primary purpose from the very beginning it was *not* to raise an enlightened public, but to train “good soldiers” and “good public servants:” not independent and mature or “mündige Bürger,” but subordinate and servile “Staats-Bürger.” The result? The indoctrination has worked: the longer the time a person has spent within the system of public education, the more he is committed to leftist-egalitarian ideas and has swallowed and wholeheartedly internalized the official doctrine and agenda of “political correctness.” Indeed, in particular among social science teachers and professors, people *not* counting themselves as part of the Left have practically ceased to exist. Consequently, it must be demanded that the control of schools and universities be wrest away from the central State and, in a first step, be returned to regional or better still local and locally funded authorities, and ultimately be completely privatized, so as to replace a system of compulsory uniformity and conformity with a system of decentralized education that reflects the natural variation, multiplicity and diversity of human talents and interests.
 
-#### Don’t put your trust in politics or political parties
+#### 使国家脱离教育
 
-Just as *academia* and the academic world cannot be expected to play any significant role in a libertarian strategy for social change, so with politics and political parties – after all, it is the ultimate goal of libertarianism to put an end to all politics, and to subject all interpersonal relations and conflicts to private law and civil law procedures. To be sure, under present, all-pervasively politicized conditions an involvement in politics and party politics cannot be entirely avoided. However, in any such involvement one must be keenly aware of and guard against the corrupting influence of power and the lure of money and perks that comes with it. And to minimize this risk and temptation, it is advisable to concentrate one’s efforts on the level of regional and local rather than national politics, and there to promote a radical agenda of decentralization: of nullification and peaceful separation, segregation and secession. Most importantly, however, we must take heed of Ludwig von Mises’ life-motto: Do not give in to evil, but proceed ever more boldly against it. That is, we must speak out whenever and wherever, whether in formal or informal gatherings, against anyone affronting us with by now only all-too-familiar “politically correct” drivel and left-egalitarian balderdash and unmistakably say: “No. Hell no. You must be kidding.” In the meantime, given the almost complete mind-control exercised by the ruling elites, *academia* and the MSM, it already requires a good portion of courage to do so. But if we are not brave enough to do so now and thus set an example for others to follow, matters will become increasingly worse and more dangerous in the future, and we, Western civilization and the Western ideas of freedom and liberty will be wiped out and vanish.
+大多数，如果不是所有的，社会的病症困扰着当代西方“公共教育制度有其共同的根源。当两百多年前在普鲁士采取了第一步，补充并最终取代了以前完全私人教育制度与普遍的义务性“公共教育”制度，在国立学校所花的时间在大多数情况下不超过四年。今天，在整个西方世界，“公共教育”机构所花费的时间至少在十年左右，而且在许多情况下，而且越来越多，二十年甚至三十年。这是一个大的，甚至大部分时间在一个人的生活影响最大的时期是在国家资助和国家的监管机构，其主要目的是从一开始就不养一个开明的公众，而是培养“好士兵”和“好公仆”：“不独立成熟的或 “mündige Bürger,” ，但下属和奴隶“Staats-Bürger.”。”结果呢?  灌输是有效的：一个人在公共教育系统中所花的时间越长，就越是致力于左派平等主义的思想，并且吞吞吐吐地，全身心地把“政治正确”这个官方的教义和议程内化了。的确，特别是在社会科学教师和教授之中，那些不算作左派一部分的人实际上已经不复存在了。因此，必须要求学校和大学的控制被夺取远离中央，在一开始的第一步，是回到区域或更好的地方和地方投资的部门，并最终被完全私有化，从而取代义务一致性和符合系统分散教育反映自然变化的系统，人的天赋和兴趣的多样性和多样性。
 
-[^1]: That must be appropriated with our own nature-given, i.e., un-appropriated, body.
+#### 不要把你的信任放在政治或政党上。
 
-[^2]: Property.
+正如学术界与学术界不能期望在社会变革的一个自由主义者的策略发挥任何重大的作用，所以政治与政党–毕竟是杜绝一切政治自由主义的终极目标和目的的人际关系和冲突，私法和民事法律程序。可以肯定的是，在目前的政治条件，都普遍对政治参与和政治不能完全避免。但是，在任何这种介入中，人们必须敏锐地意识到并防止权力的腐败影响以及由此带来的金钱和福利的诱惑。而为了减少这一风险与诱惑，明智的做法是集中自己的努力在区域和地方而不是国家的政治层面，也促进了激进的议程分权：无效的和平分离，分离和分裂。然而，最重要的是，我们必须注意路德维希•冯•米塞斯的人生格言：不要屈服于邪恶，而要更加勇敢地反对它。那就是，我们必须说出来，无论何时何地，无论在正式或非正式的聚会，反对任何人侮辱我们现在只有太熟悉的“政治正确”的胡言乱语，离开平等的梦呓和明白无误地说：“不，该死的你一定是在开玩笑。“同时，由于统治精英，学术界和 MSM 接触者几乎完全的思想控制，它已经需要很大的勇气来这样做。但如果我们现在还不够勇气这样做，为别人效仿，未来的事情就会越来越糟，越来越危险，我们西方文明和西方的自由和自由思想将被消灭和消失。
 
-[^3]: Conflict-free.
+[^1]: 这必须与我们自己的性质，即联合国拨款，身体，拨款。
 
-[^4]: And all later owners connected to him through a chain of voluntary exchanges.
+[^2]：内容。
 
-[^5]: Whose leadership, to its credit, after Trump’s election victory, quickly broke with Trump when he turned out to be just another presidential warmonger.
+[^ 3]: 無衝突。
+
+[^4]: 和所有后来的业主通过一系列自愿交流连接到他。
+
+[^5]: 的领导，它的信用，特朗普的选举胜利后，很快就与特朗普分手了，原来他只是另一个总统的战争贩子。
 
 [^6]: *Aka* Mencius Moldbug.
 
 [^7]: *Aka* Soviet Poverty Lie Center.
 
-[^8]: *Aka* “non-discrimination”.
+[^8]: *Aka* “非歧视”。
 
-[^9]: Which I have termed the “Stupids for Liberty” and my young German friend Andre Lichtschlag as “Liberallala-Libertarians”.
+[^9]: 我称之为“自由”和我的年轻的德国朋友 Andre Lichtschlag 为“自由主义者 “Liberallala-Libertarians”。
 
 [^10]: Colin Robertson.
 
-[^11]: Which, of course, was the reason for having invited them here.
+[^11]: 当然，这是邀请他们来这里的原因。
 
-[^12]: Which is entirely compatible with libertarianism and its *desideratum* of freedom of association and opposition to forced integration.
+[^12]: 这是与自由主义及其关联和反对强制整合自由的希望完全兼容。
 
-[^13]: Which is antithetical to libertarianism and inimical to human prosperity.
+[^13]: 这是对立的自由主义和有害于人类的繁荣。
 
-[^14]: Let me hasten to add here that, despite my misgivings about his “economics,” I still consider Pat Buchanan a great man.
+[^14]: 让我在此补充一下，尽管我对他的“经济学”感到担忧，但我仍然认为 Pat Buchanan 是个伟人。
 
-[^15]: An endeavor, by the way, that has been ridiculed by Taki Theodoracopulos, a veteran champion of the paleo-conservative-turned-Alt-Right movement and Spencer’s former employer.
+[^15]: 努力，顺便说一句，这已被 Taki Theodoracopulos，一个古保守转向ALT权利运动和斯宾塞的前雇主的老牌冠军。
 
-[^16]: Many youngsters have been initially attracted to libertarianism believing that this “live and let live” is the essence of libertarianism.
+[^16]: 许多年轻人都是最初吸引自由主义认为“自己活也让别人活”是自由主义的本质。
 
-[^18]: Except as some idle intellectual play or mental gymnastics by a few “exotic” individuals.
+[^18]: 除了一些业余的智力游戏或一些“异国情调”的人的心理体操之外。
 
-[^19]: Whereas the least support should be expected to come from the legally most “protected” groups such as, for instance, single Black Muslim mothers on welfare.
+[^19]: 尽管最不受欢迎的群体应该来自法律上最受保护的群体，例如，单身黑人穆斯林母亲的福利。
 
-[^20]: Brief message to all open-border and liberallala libertarians, who will surely label this, you guessed it, “fascist”: In a fully privatized libertarian order there exists no such thing as a right to free immigration. Private property implies borders and the owner’s right to exclude at will. And “public property” has borders as well. It is not unowned. It is the property of domestic tax-payers and most definitely not the property of foreigners. And while it is true that the State is a criminal organization and that to entrust it with the task of border control will inevitably result in numerous injustices to both domestic residents and foreigners, it is also true that the State *does something* also when it decides *not* to do anything about border control and that, under the present circumstances, doing nothing at all in this regard will lead to even more and much graver injustices, in particular to the domestic citizenry.
+[^20]: 简短的信息全部开放边境，liberallala自由论者，他肯定会把这个，你猜对了，“法西斯”：在一个完全私有化的自由主义秩序有没有这样的东西作为一个权利自由移民。私有财产意味着边界和业主有权任意排除。“公共财产”也有边界。它不是无主。它是国内纳税人的财产，绝不是外国人的财产。虽然这是真的，国家是一个犯罪组织，委托其边境控制任务将不可避免地导致许多不公正的国内居民和外国人，这也是真实的，国家不也当它决定不做任何事和边境控制，在目前的情况下，什么都不做在这方面会导致更多和更严重的不公正，特别是国内的公民。
 
-[^21]: Query for liberallala-libertarians and the Stupids for Liberty, who are sure to object to this demand on the ground that the police asked to crush the “anti-fascist” mob are *State-_police: Do you also object, on the same grounds, that the police arrest murderers or rapists? Aren’t these legitimate tasks performed also in any libertarian order by _private* police? And if the police are not to do anything about this mob, isn’t it o.k. then that the target of its attacks, the “racist Right,” should take the task upon itself of giving the “social justice warriors” a bloody nose?
+[^21]: 为自由主义者和自由liberallala 笨蛋查询，谁会反对这种需求在地面上，警察要把“反法西斯暴徒是国家_police：你还对象，基于相同的理由，警察逮捕杀人犯或强奸犯？这不是合法执行的任务也在任何自由主义秩序的私有的警察吗？如果警察不想对这群暴徒采取任何行动，那么，它的攻击目标，即“种族主义权利”，是否应该承担起赋予“社会正义战士”一个流血鼻子的重任呢？
