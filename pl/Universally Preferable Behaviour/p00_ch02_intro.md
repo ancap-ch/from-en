@@ -1,38 +1,38 @@
-## Introduction
+## 介绍
 
-Przez niezliczone pokolenia ludzkość żyła w rodzaju egocentrycznego łona narzuconej przez siebie ignorancji: świat był płaski, słońce, księżyc i gwiazdy krążyły wokół niego, przodkowie przywoływali go zza mgły śmierci, a grzmot był gniewem bogowie.
+无数个世代，人类生活在一种自我的子宫的自我的无知：世界是平的，太阳，日月星辰围绕着他，示意他祖先从超越死亡的迷雾，雷声众神的愤怒。
 
-Wyrzucenie z tego narcystycznego łona subiektywnej interpretacji wymagało pracy tysiącleci - i kosztowało życie milionów. Wysiłek potrzebny do przeniesienia naszej perspektywy z *doświadczenia percepcyjnego* do *logiki pojęciowej* był przerażający, radosny, wysoce dezorientujący i niezwykle niebezpieczny. Understanding that the world was not what it *felt like*, or *seemed like*, was – and remains – the greatest feat of our intelligence. The *truth* of reality turned out to be in the eyes of the mind, not of the flesh.
+从这个自我陶醉的主观解释的子宫中挖掘出来，需要几千年的劳动，并且要付出数百万的生命。把我们的观点从感性经验转化为概念逻辑所需的努力，是令人恐惧，令人振奋，极度迷失方向和极其危险的。理解世界不是我们所感觉到的，或似乎是，而且仍然是我们智慧的最大壮举。事实的真相是在心灵的眼睛里，而不是在肉体上。
 
-Świat wygląda na płaskie; ale taki nie jest. Słońce i księżyc wyglądają jakby miały takie same wymiary, ale nie mają. Gwiazdy poruszają się po ziemi; oni nie. Poznanie prawdy wymaga, abyśmy widzieli świat spoza naszych zmysłów - nie oznacza to odrzucenia naszych zmysłów, lecz hermetycznego przestrzegania *prawdziwych* dowodów zmysłów, czyli nie, że ziemia jest płaska, ale materia, energia i prawa fizyczne są spójne. Kiedy puszczamy kamień w naszej dłoni, spada - to jest *prawdziwy* dowód zmysłów, a nie to, że Ziemia jest stała i nieruchoma. Idea, że świat jest nieruchliwy, jest błędnym założeniem, które przeczy bezpośredniemu zmysłowi naszych zmysłów, a mianowicie, że wszystko spada. Jeśli wszystko upadnie, świat nie może być naprawiony i nieruchomy.
+世界看起来很平，不是。太阳和月亮看起来大小一样，它们不是。星星好像绕着地球转，而不是。学习真理需要我们从感官之外看到世界 - 这并不意味着拒绝我们的感官，而是密切遵守感官的真实证据，这不是世界是平的，而是物质、能量和物理定律是一致的。当我们放开手中的石头时，它就会倒塌 - 这是感觉的真正证据，而不是地球是固定不动的。世界是不动的想法是一个不正确的假设，与我们感官的直接证据相矛盾，这就是一切都落空了。如果一切都落下，世界就无法固定和不可移动。
 
-To są małe prawdy codzienności; że skały opadają, dym unosi się, ogień jest gorący, a słońce i księżyc są okrągłe. Jeśli pozostaniemy wytrwale i rygorystycznie zaangażowani w te "małe prawdy", z czasem będziemy mogli czerpać wielkie prawdy fizyki, które dostarczają nam tak niesamowitej wiedzy i mocy.
+这些都是日常的小道理：岩石坠落，烟雾升起，火是热的，太阳和月亮都是圆的。如果我们坚定不移地坚守这些“小真理”，我们就能及时地得到物理学的伟大真理，它为我们提供了如此可怕的知识和力量。
 
-Pomiędzy małymi prawdami a wielkimi prawdami są jednak iluzje, które nas oślepiają - zarówno w fizyce, jak i w etyce.
+然而，在微小的真理和伟大的真理之间，是蒙蔽我们的幻觉——无论是物理学还是伦理学。
 
-W fizyce, wielkie prawdy nie mogą zaprzeczać drobnym prawdom. Żadna "zunifikowana teoria pola" nie może skutecznie zaprzeczyć naszemu bezpośredniemu doświadczeniu zmysłowej spadającej skały lub rosnącego płomienia. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+在物理学中，伟大的真理不能与小真理相矛盾。没有“统一的场论”可以有效地抵触我们直接的感觉 - 坠落的岩石或上升的火焰的经验。如果应用它在收银台返回不正确的变化，最伟大的数学理论是无效的。
 
-Historycznie jednak pomiędzy naszymi własnymi małymi prawdami a wielkimi prawdami kryje się to, co nazwałbym "pustą strefą"
+然而，在历史上，在我们自己的小真理和伟大真理之间，我称之为“空白地带”。
 
-### "Pusta Strefa"
+### “空白区”
 
-Mówimy naszym dzieciom, aby nie walczyły ze sobą i uważamy, że przemoc jest zła w abstrakcji, jako ogólna reguła moralna. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+我们告诉我们的孩子不要互相攻击，我们认为暴力在抽象上是错误的，作为一般的道德规则。“小实话”是：不要打卡。“伟大的真理”是：暴力是错误的
 
-Jednak w naszych umysłach istnieje wyobrażona istota zwana "Bogiem", a ta istota jest uważana za doskonale moralną. Niestety, istota ta nieustannie i rażąco narusza edykt, że "przemoc jest zła", zatapiając świat, przesyłając dusze do piekła, pomimo doskonałej uprzedniej wiedzy o ich "decyzjach", sankcjonując gwałt, morderstwo, kradzież, napaść i inne działania, które potępilibyśmy. jako absolutnie złe w każdej osobie.
+然而，在我们的头脑中存在着一个被称为“上帝”的想象实体，这个实体被认为是完全合乎道德的。不幸的是，这个实体不断严重地违反了谴责“暴力是错误的”，淹没世界，尽管完全预知他们的“决定”，批准强奸，谋杀，盗窃，打架斗殴等行为，我们会谴责任何个人绝对邪恶。
 
-Tak więc mamy małą prawdę (*nie uderzaj*) i wielką prawdę (*przemoc jest zła*), ale w środku mamy "strefę zerową" *gdzie całkowite przeciwieństwo zarówno naszych małych prawd, jak i naszych wielkich prawd jest uważane za całkowicie prawdziwe*.
+因此，我们有一个小的真理（不打）和伟大的真理（暴力是错误的），但在中间，我们有这个“空区”，我们的小真理和我们伟大的真理完全相反，被认为是完全真实的。
 
-Historycznie widzimy taką samą niekonsekwencję w fizyce. Nie ma doskonałych kręgów w naszym bezpośrednim doświadczeniu, ale z powodu wiary w Boga, wszystkie ruchy planet musiały być "doskonałym kręgiem" - przesłanką, która opóźniała astronomię przez stulecia. Podobnie, jeśli człowiek obraca głowę, nie uważa, że ​​cały świat obraca się wokół niego - i z radością przedstawiłby to jako nie tylko swoją "małą prawdę", ale jako *wielką prawdę* lub zasada uniwersalna. Jednak przez większą część historii ludzkości uważano, że gwiazdy i planety obracają się wokół Ziemi, zamiast, że to Ziemia się obraca. Tutaj znowu widzimy "pustą strefę" pomiędzy bezpośrednim doświadczeniem zmysłowym a uniwersalną zasadą, w której zupełnie przeciwne zasady są uważane za całkowicie prawidłowe.
+从历史上看，我们可以看到物理学中同样的不一致。在我们的直接经验中没有完美的圆，但由于对上帝的信仰，所有行星运动都必须是一个“完美的循环” –几百年来延缓天文学的前提。同样，如果一个人转过头来，他也不会相信整个世界围绕着他旋转 - 这是延缓天文学发展的一个前提。同样，如果一个人转动他的头，他就不合理地认为整个世界围绕着他旋转，他会高兴地把这个向前推进，而不仅仅是他自己的“小真理”，而是作为一个伟大的真理或普遍原则。然而，对于大多数人类历史来说，人们相信星星和行星围绕地球旋转，而不是地球旋转。在这里我们可以看到直接经验和普遍原则之间的“空白地带”，完全相反的原则被认为是完全有效的。
 
-No sane man experiences God directly. In his daily life, he fully accepts that *that which cannot be perceived does not exist*. Żaden rozsądny człowiek nie wzdryga się za każdym razem, gdy robi krok, bojąc się niewidzialnej ściany, która mogłaby mu przeszkodzić. Największe abstrakcje nauki wspierają jego podejście.
+神志正常的人不能直接体验上帝。在他的日常生活中，他完全接受那些不能被察觉的东西。不合理的人望而却步他每走一步，生怕一堵无形的墙，可能会限制他的方式。科学的最大抽象性支持他的方法。
 
-Conversely, in the “null zone” of religion, the *exact opposite* of both the little truths and the great truths is believed to be true. Personally, a man believes that *that which cannot be perceived does not exist* – intellectually, science has proven this repeatedly. However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
+相反地，在宗教的“空白地带”，这两个真理和伟大真理的截然相反，被认为是正确的。 就个人而言，一个人认为那些无法被察觉的东西是不存在的 – 在智力上，科学已经反复证明了这一点。然而，在神学的“零空间”中，完全相反的命题是成立的 - 存在着不可感知的公理必须存在。
 
-Nasza wiara w cnotę wojska leży także w tej "strefie zerowej". Jeśli prywatny człowiek dostaje pieniądze za morderstwo innego człowieka, nazywamy go "pistoletem do wynajęcia" i potępiamy go jako zabójcę. Jeśli jednak ten człowiek założy zielony kostium z pewnymi odznakami *i popełni ten sam czyn*, witamy go jako bohatera i nagradzamy go emeryturą. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
+我们对军队美德的信仰也存在于这个“空白地带”，如果一个私人被雇来谋杀另一个人，我们称他为“雇佣枪”，并谴责他是一个被击中的人。然而，如果这个人穿上一件带丝带的绿色服装，并采取同样的行动，我们就把他当作英雄，并用退休金来奖励他。小事实（我不应该谋杀）完全符合伟大的真理（谋杀是错误的） -然而在中间有一个“空白地带”，在那里，谋杀奇迹般地变成了“贞洁”。
 
-Jeśli ta "pusta strefa" jest poprawna, żadna logiczna propozycja nie może się utrzymać. Jeśli twierdzenie jest prawdziwe - i dokładne przeciwieństwo tego zdania jest również prawdziwe - wówczas logiczne rozumowanie staje się niemożliwe. Rozwój racjonalnej nauki był ciągłym atakiem na tę "strefę zerową" i wtargnięciem obiektywnej konsekwencji w te szalone kieszenie subiektywnego kaprysu.
+我们对军队美德的信仰也存在于这个“空白地带”，如果一个私人被雇来谋杀另一个人，我们称他为“雇佣枪”，并谴责他是一个被击中的人。然而，如果这个人穿上一件带丝带的绿色服装，并采取同样的行动，我们就把他当作英雄，并用退休金来奖励他。小事实（我不应该谋杀）完全符合伟大的真理（谋杀是错误的） -然而在中间有一个“空白地带”，在那里，谋杀奇迹般地变成了“贞洁”。
 
-Na starych mapach, zanim kartografowie zakończyli swoje poszukiwania, rysunki znanych ziem zniknęłyby w czystym papierze. Rozwój wiedzy wymaga najpierw wytłumaczenia tego, co nieznane, a następnie ekspansji znanych zasad w nieznane obszary.
+在旧地图，在地图已经完成了他们的探索，已知土地的图纸会褪色成白纸。知识的增长首先需要对未知事物进行划分，然后将已知的原则扩展到未知领域。
 
 To samo dotyczy sfery moralności.
 
