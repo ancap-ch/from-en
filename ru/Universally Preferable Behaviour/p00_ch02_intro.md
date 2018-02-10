@@ -40,51 +40,51 @@ The same is true in the realm of morality.
 
 Crossing this “null zone” is fraught with peril. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
 
-Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
+Должно ли быть “пересечение нулевой зоны”, или беспрепятственное объединение малых истин с большими истинами, неизбежно таким трудным и опасным? Объединить перцептуальное с концептуальным в одну линию логического рассуждения трудная задача, но должен ли этот процесс занимать тысячи лет и вызывать океаны крови?
 
-If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
+Если мы посмотрим на технологический и экономический прогресс человечества, мы увидим более-менее ровную прямую в течение многих тысячелетий, которая заканчивается сильными и асимптомными всплесками за последние несколько столетий. Непостижимо, что некоторая распространенная генетическая мутация могла вызвать такое внезапное и сильное ускорение интеллектуального постоянства и материального успеха. Теории, утверждающие, что возник некий лавинообразный эффект, загадочным образом приводимый в движение посредством накопления всех мелких шажков получения знаний, как происходило с самого начала развития цивилизации, можно обычно сразу же отклонять как объяснения, имеющие обратную силу, поскольку они не имеют прогнозной ценности.
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+Если мы поймем, что наш громадный потенциал был доступен нам по крайней мере десятки тысячелетий, и что его применение приносит большую пользу и удовольствие, тогда сразу станет ясно, что мы на самом деле хотим использовать наш удивительный разум.
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+Таким образом должна присутствовать направленная вниз сила, которая исторически подавляла и порабощала естественную свободу человечества.
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+В мире науки несложно увидеть угнетающие силы, которые постоянно держали наши умы в первобытном неведении. Комбинация предрассудков в виде религии, и насилия в виде аристократии, угрожало рациональным мыслителям запугиванием, заключением в тюрьму, пытками и убийствами. Так же как и фермер извлекает для себя выгоду из низкого интеллекта его коров, а работорговец из страха его рабов, священники и короли сохраняли свое привилегированное положение, угрожая смертью любому, кто осмелится думать.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+Простая истина заключается в том, что “священники” и “короли” были и всегда остаются просто людьми. Простая истина также и то, что боги и дьяволы, которые были нужны чтобы оправдать их правление, никогда не существовали.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+Мы сделали большие шаги в понимании природы и реальности простого человеческого равенства, но печальный факт заключается в том, что мир морали все еще затерян в “нулевой зоне” - в разрушительных иллюзиях “средних истин”.
 
-### "Middle Truths"
+### "Средние истины"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+Давайте назовем противоположные принципы, обитающие в “нулевой зоне” - между чувственным восприятием и концептуальным постоянством - “средние истины”.
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+Эти “средние истины” являются наиболее опасными иллюзиями из всех, так как они создают видимость истины тогда как на самом деле опровергают эту истину.
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+Давая иллюзию, что мы нашли истину, “средние истины” в действительности мешают нам достичь этой истины. Они последняя линия защиты для фантазии, хищничества и эксплуатации.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Поскольку они являются не только иррациональными, “средние истины” остаются бесконечно гибкими - до тех пор, пока они служат власть имущим. К примеру, христианство возникло из растущего фашизма поздней Римской империи отчасти посредством нападок на “примитивные” предрассудки существующих теологий. “Забудьте ваших старых богов, у нас есть совершенно новый Бог гораздо лучше вашего!”
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+“Средние истины” всегда принимают форму истины, за которой следует ложь. “Зевс это языческий предрассудок” - верное утверждение, открыто сделанное христианскими проповедниками. Последующая ложь заключалась в следующем: “Яхве не языческий предрассудок, а настоящий и живой Бог”.
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+Мы можем дать более конкретный пример, который будет знаком каждому, кто когда-либо давал советы расстроенному другу. “Мой последний бойфренд был настоящим дураком,” она может сказать, и вы ее горячо поддержите. “Но мой новый парень такой классный,” она добавит, и вы постараетесь не закатить вверх глаза.
 
-It is very hard not to replace one illusion with another.
+Очень сложно не заменять одну иллюзию на другую.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+“Британское правительство - тираны!” кричали американские революционеры в 18 веке, и после изгнания британских войск они создали свое собственное правительство и начали нападать на своих сограждан.
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+“Аристократия это чудовищная несправедливость!” кричали другие революционеры, которые затем установили тиранию большинства в виде демократии.
 
-“Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
+“Средние истины” могут также существовать в науке и таким же образом мешать естественному прогрессу от малых истин до больших истин. Например, вплоть до восемнадцатого века биологи верили в “спонтанное рождение”, или идею, что жизнь может зародиться от неживой материи. Конечно, это никогда не наблюдалось, но согласовывалось с древними философскими и религиозными писаниями, и поэтому было принято как факт. Также до революции Эйнштейна в 1905 году считалось, что свет движется в неподвижной и невидимой субстанции, называемой “светоносный эфир”, подобно движению звуковой волны сквозь воздух. Ни один ученый, веривший в эту теорию, не имел эмпирического доказательства этого “эфира”, как лично так и научно, но считалось необходимым приспосабливаться к другим наблюдаемым характеристикам.
 
-Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+Религия это еще одна “средняя истина”, и одна из наиболее опасных. Верно то, что мы уникальный вид во вселенной, насколько нам известно. Жираф более высокое четвероногое, но человек не просто “более умный” примат, а нечто совсем другое. Природа такого различия остается неизвестной. Религиозные объяснения вроде такого “мы отличаемся от животных потому что у нас есть душа, и мы были сотворены Богом” это еще один пример “средней истины”. Истинно то, что мы очень отличаемся от животных. Неверно то, что мы были сотворены богом и у нас есть душа.
 
-Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+Так же как и некоторые паразиты не могут занять корень пока не уберут предыдущих паразитов, “средние истины” нападают только на предыдущие иллюзии для того чтобы занять их место. Те, кто скептически относятся к предыдущим фантазиям, притягиваются к новым. Таким образом христианство заменяет язычество, марксизм заменяет христианство, пост-модернизм заменяет марксизм, демократия смещает аристократию и т.д.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+Пока не будут достигнуты большие истины и объединены с малыми истинами, “средние истины” это всего лишь цикличная совокупность эксплуатирующей и деструктивной лжи, специально предназначенной не дать достичь больших истин.
 
-And the great truths are always achieved from the little truths.
+А большие истины всегда достигаются с малых истин.
 
-The world falls because a rock falls.
+Мир падает потому что падает камень.
 
 ### "Middle Truths" And Exploitation
 
