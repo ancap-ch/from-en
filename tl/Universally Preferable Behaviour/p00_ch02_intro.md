@@ -1,38 +1,38 @@
-## Introduksyon
+## 介绍
 
-For countless generations, mankind lived in a kind of egocentric womb of self-imposed ignorance: the world was flat, the sun, moon and stars revolved around him, ancestors beckoned to him from beyond the mists of death, and thunder was the anger of the gods.
+无数个世代，人类生活在一种自我的子宫的自我的无知：世界是平的，太阳，日月星辰围绕着他，示意他祖先从超越死亡的迷雾，雷声众神的愤怒。
 
-Burrowing out from this narcissistic womb of subjective interpretation required the labour of millennia – and cost the lives of millions. The effort required to wrench our perspective from *perceptual experience* to *conceptual logic* was terrifying, exhilarating, highly disorienting and extremely dangerous. Understanding that the world was not what it *felt like*, or *seemed like*, was – and remains – the greatest feat of our intelligence. The *truth* of reality turned out to be in the eyes of the mind, not of the flesh.
+从这个自我陶醉的主观解释的子宫中挖掘出来，需要几千年的劳动，并且要付出数百万的生命。把我们的观点从感性经验转化为概念逻辑所需的努力，是令人恐惧，令人振奋，极度迷失方向和极其危险的。理解世界不是我们所感觉到的，或似乎是，而且仍然是我们智慧的最大壮举。事实的真相是在心灵的眼睛里，而不是在肉体上。
 
-The world looks flat; it is not. The sun and the moon look the same size; they are not. The stars seem to move around the earth; they do not. Learning the truth requires that we see the world from outside our senses – this does not mean a rejection of our senses, but an airtight compliance with the *real* evidence of the senses, which is not that the world is flat, but that matter, energy and physical laws are consistent. When we let go of a rock in our hand, it falls – this is the *real* evidence of the senses, not that the Earth is fixed and immovable. The idea that the world is immobile is an incorrect assumption that contradicts the direct evidence of our senses, which is that everything falls. If everything falls, the world cannot be fixed and immovable.
+世界看起来很平，不是。太阳和月亮看起来大小一样，它们不是。星星好像绕着地球转，而不是。学习真理需要我们从感官之外看到世界 - 这并不意味着拒绝我们的感官，而是密切遵守感官的真实证据，这不是世界是平的，而是物质、能量和物理定律是一致的。当我们放开手中的石头时，它就会倒塌 - 这是感觉的真正证据，而不是地球是固定不动的。世界是不动的想法是一个不正确的假设，与我们感官的直接证据相矛盾，这就是一切都落空了。如果一切都落下，世界就无法固定和不可移动。
 
-These are the little truths of the everyday; that rocks fall, smoke rises, fire is hot and the sun and the moon are both round. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
+这些都是日常的小道理：岩石坠落，烟雾升起，火是热的，太阳和月亮都是圆的。如果我们坚定不移地坚守这些“小真理”，我们就能及时地得到物理学的伟大真理，它为我们提供了如此可怕的知识和力量。
 
-In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
+然而，在微小的真理和伟大的真理之间，是蒙蔽我们的幻觉——无论是物理学还是伦理学。
 
-In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+在物理学中，伟大的真理不能与小真理相矛盾。没有“统一的场论”可以有效地抵触我们直接的感觉 - 坠落的岩石或上升的火焰的经验。如果应用它在收银台返回不正确的变化，最伟大的数学理论是无效的。
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
+然而，在历史上，在我们自己的小真理和伟大真理之间，我称之为“空白地带”。
 
-### The "Null Zone"
+### “空白区”
 
-We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+我们告诉我们的孩子不要互相攻击，我们认为暴力在抽象上是错误的，作为一般的道德规则。“小实话”是：不要打卡。“伟大的真理”是：暴力是错误的
 
-However, there exists in our minds an imaginary entity called “God,” and this entity is considered perfectly moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+然而，在我们的头脑中存在着一个被称为“上帝”的想象实体，这个实体被认为是完全合乎道德的。不幸的是，这个实体不断严重地违反了谴责“暴力是错误的”，淹没世界，尽管完全预知他们的“决定”，批准强奸，谋杀，盗窃，打架斗殴等行为，我们会谴责任何个人绝对邪恶。
 
-Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
+因此，我们有一个小的真理（不打）和伟大的真理（暴力是错误的），但在中间，我们有这个“空区”，我们的小真理和我们伟大的真理完全相反，被认为是完全真实的。
 
-Historically, we can see the same inconsistency in physics. There are no perfect circles in our direct experience, but because of a belief in God, all planetary motion had to be a “perfect circle” – a premise that retarded astronomy for centuries. Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth,” but as a *great truth*, or universal principle. Yet for most of human history, it was believed that the stars and planets rotated around the Earth, rather than that the Earth rotated. Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
+从历史上看，我们可以看到物理学中同样的不一致。在我们的直接经验中没有完美的圆，但由于对上帝的信仰，所有行星运动都必须是一个“完美的循环” –几百年来延缓天文学的前提。同样，如果一个人转过头来，他也不会相信整个世界围绕着他旋转 - 这是延缓天文学发展的一个前提。同样，如果一个人转动他的头，他就不合理地认为整个世界围绕着他旋转，他会高兴地把这个向前推进，而不仅仅是他自己的“小真理”，而是作为一个伟大的真理或普遍原则。然而，对于大多数人类历史来说，人们相信星星和行星围绕地球旋转，而不是地球旋转。在这里我们可以看到直接经验和普遍原则之间的“空白地带”，完全相反的原则被认为是完全有效的。
 
-No sane man experiences God directly. In his daily life, he fully accepts that *that which cannot be perceived does not exist*. No reasonable man flinches every time he takes a step, fearing an invisible wall that might be barring his way. The greatest abstractions of science support his approach.
+神志正常的人不能直接体验上帝。在他的日常生活中，他完全接受那些不能被察觉的东西。不合理的人望而却步他每走一步，生怕一堵无形的墙，可能会限制他的方式。科学的最大抽象性支持他的方法。
 
-Conversely, in the “null zone” of religion, the *exact opposite* of both the little truths and the great truths is believed to be true. Personally, a man believes that *that which cannot be perceived does not exist* – intellectually, science has proven this repeatedly. However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
+相反地，在宗教的“空白地带”，这两个真理和伟大真理的截然相反，被认为是正确的。 就个人而言，一个人认为那些无法被察觉的东西是不存在的 – 在智力上，科学已经反复证明了这一点。然而，在神学的“零空间”中，完全相反的命题是成立的 - 存在着不可感知的公理必须存在。
 
-Our belief in the virtue of the military also lies in this “null zone.” If a private man is paid to murder another man, we call him a “gun for hire,” and condemn him as a hit man. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
+我们对军队美德的信仰也存在于这个“空白地带”，如果一个私人被雇来谋杀另一个人，我们称他为“雇佣枪”，并谴责他是一个被击中的人。然而，如果这个人穿上一件带丝带的绿色服装，并采取同样的行动，我们就把他当作英雄，并用退休金来奖励他。小事实（我不应该谋杀）完全符合伟大的真理（谋杀是错误的） -然而在中间有一个“空白地带”，在那里，谋杀奇迹般地变成了“贞洁”。
 
-If this “null zone” is valid, then no logical proposition can ever hold. If a proposition is true – and the exact opposite of that proposition is also true – then logical reasoning becomes impossible. The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
+我们对军队美德的信仰也存在于这个“空白地带”，如果一个私人被雇来谋杀另一个人，我们称他为“雇佣枪”，并谴责他是一个被击中的人。然而，如果这个人穿上一件带丝带的绿色服装，并采取同样的行动，我们就把他当作英雄，并用退休金来奖励他。小事实（我不应该谋杀）完全符合伟大的真理（谋杀是错误的） -然而在中间有一个“空白地带”，在那里，谋杀奇迹般地变成了“贞洁”。
 
-In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
+在旧地图，在地图已经完成了他们的探索，已知土地的图纸会褪色成白纸。知识的增长首先需要对未知事物进行划分，然后将已知的原则扩展到未知领域。
 
 The same is true in the realm of morality.
 
