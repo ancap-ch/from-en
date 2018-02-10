@@ -1,54 +1,54 @@
-## Avant-propos
+## 前言
 
-Dans beaucoup de contes de fées, il vit une bête terrible de puissance extraordinaire, un dragon ou un basilic, qui tyrannise les terres environnantes. Les villageois locaux tremblent devant ce monstre; Ils sacrifient leurs animaux, payent de l'argent et du sang dans l'espoir d'apaiser leurs pulsions meurtrières.
+在许多童话故事，有一个可怕的惊人力量的野兽，龙或蛇，这迫害霸占周围的土地。当地村民颤抖在这个怪物；他们牺牲了他们的动物，付出金钱和鲜血，希望平息其杀人的冲动。
 
-La plupart des gens se rétrécissent à l'ombre de cette bête, qualifiant leur peur de "prudence", mais quelques-uns – peut-être ivres de courage ou d'imprudence – décident de se battre. Année après année, décennie après décennie, les champions de l'espoir tentent d'associer leur force, leur vertu et leur ruse à ce terrible tyran.
+大多数人畏缩这野兽的阴影下，称自己的恐惧”的谨慎，但几–醉也许勇气或鲁莽–决定战斗。年复一年，十年后十年，一波又一波的希望捍卫者试图配合他们的实力、美德和狡猾对抗这个可怕的暴君。
 
-Ils testent – et ils échouent.
+尝试 -并失败。
 
-La bête est toujours immortelle, donc les villageois ne peuvent pas attendre le moment de se débarrasser de leur despote. La bête n'est jamais rationnelle et n'a aucun désir de négocier, donc il n'y a pas de négociation possible.
+野兽永远不死，所以村民们不能指望时间来消灭他们的暴君。野兽从不理性，也不想交易，所以没有谈判是可能的。
 
-Le seul espoir des villageois désespérés est de faire apparaître un homme capable de vaincre la bête.
+绝望的村民们唯一希望的是一个能打败野兽的人出现。
 
-Inévitablement, un homme fait un pas en avant qui a un impact sur tout le monde comme quelque chose de totalement incongru. Il est un garçon d'écurie, le fils d'un cordonnier, un apprenti boulanger – ou parfois, juste un clochard.
+不可避免地，一个人向前走，把每个人都看成是完全不协调的。他是一个稳定的男孩，一个鞋匠的儿子，一个面包师的学徒–或有时候只是一个流浪汉。
 
-Ce livre est l'histoire de mon assaut personnel sur une telle bête.
+这本书是我个人攻击这样一个野兽的故事。
 
-Cette "bête" est la croyance qu'il est impossible de définir un système éthique scientifique, objectif, rationnel et laïque. Cette "bête" est l'illusion que la moralité doit toujours être perdue dans les marais irrationnels des dieux et des gouvernements, exigés pour des raisons purement pragmatiques, mais toujours sans justification logique ni définition claire. Cette "bête" est le fantasme que la vertu, notre plus grande joie, notre bonheur le plus profond, doit toujours être mis de côté par les adultes laïques, et laissé dans la poussière pour être balayé, défilé et exploité par les politiciens et les prêtres – et les parents . Cette "bête" est la superstition que, sans les diatribes des parents, le harcèlement des dieux ou les armes des gouvernements, nous ne pouvons être à la fois rationnels et bons.
+这种“野兽”的信念是不可能定义一个客观的、理性的、世俗的和科学的道德体系。这种“野兽”是一种错觉，认为道德必须永远迷失在上帝和政府的不合理的沼泽中，仅仅出于实用主义的理由而强制执行，但永远缺乏逻辑的理由和明确的定义。这个“野兽”是幻想的美德，我们最大的喜悦，我们最深的幸福，必须抛开世俗的大人，和在尘土中被抓，游行和被政客和牧师–和父母。这个“野兽”是迷信，没有父母的长篇大论，欺负神或政府的枪，我们不能理性和良好的相信。
 
-Cette bête a été étudiée par de nombreux héros, de Socrate à Platon, à Augustin, à Hume, à Kant, à Rand.
+这种野兽把许多伟大的英雄: Socrates、Plato、Augustine、Hume、Kant、Rand。
 
-Le coût pour l'humanité a été énorme.
+人类的代价是巨大的。
 
-Puisque nous avons été incapables de définir un système rationnel de moralité universelle, nous avons été forcés d'infliger d'horribles histoires religieuses à nos enfants, ou de donner des armes, des prisons et des armées à un petit monopole de contrôleurs sans âme qui s'appellent eux-mêmes "l'Etat."
+因为我们仍然无法确定合理的普遍的道德体系，我们不得不把宗教恐怖的故事对我们的孩子，或者把枪支，监狱和军队没有灵魂控制器自称“国家小垄断。
 
-Puisque ce que nous appelons "l'éthique" reste subjectif et simplement *culturel*, nous finissons inévitablement par dépendre du harcèlement, de la peur et de la violence pour imposer des normes sociales. Puisque l'éthique n'a pas de fondement rationnel dans la méthode scientifique, la "moralité" reste bloquée dans une guerre tribale de mythologies sanglantes, chaque gang se débattant avec les dents et les ongles pour contrôler la loyauté des gens à la "vertu."
+由于我们所说的“伦理”仍然是主观的，只是文化的，我们不可避免地依赖于欺凌、恐惧和暴力来执行社会规则。由于伦理缺乏科学方法的理性依据，“道德”仍然深陷血腥神话的部族之争中，各个团伙为了控制人们对“美德”的忠诚而斗争。
 
-Nous ne pouvons pas vivre sans moralité, mais nous ne pouvons pas définir objectivement la moralité – nous restons éternellement condamnés à vider des vies d'hypocrisie pompeuse, de domination cynique ou d'esclavage pieux.
+我们不能没有道德生活，但我们不能客观地定义道德 -因此我们永远谴责浮夸虚伪空虚，愤世嫉俗的优势或虔诚的奴隶。
 
-Intellectuellement, il n'y a pas de paris supérieurs dans le monde. Notre incapacité à définir des normes morales objectives et rationnelles a coûté des centaines de millions de vies humaines, dans les guerres de religion et d'États.
+理智上，世界上没有更高的赌注。在宗教和国家的战争中，我们没有界定客观和理性的道德规范，造成数亿人的生命损失。
 
-À bien des égards, les paris deviennent plus élevés.
+在许多方面，风险越来越大。
 
-Le flux croissant d'informations provenant d'Internet a soulevé le soupçon des nouvelles générations que ce que nous appelons la "vertu" n'est rien de plus – ou moins – que les contes de fées auto-satisfaits de leurs ancêtres hypocrites. Les mensonges pieux racontés par ceux qui ont autorité – et la complicité de ceux qui les vénèrent – sont plus clairs maintenant que jamais auparavant.
+互联网信息流量的增加引发了新一代人的怀疑，所谓的“美德”不过是他们伪善的长辈的自私童话而已。那些当权者所说的虔诚的谎言—以及那些崇拜他们的人的共谋 — 现在比以前更清楚了。
 
-La "vérité" a été exposée comme une manipulation; la "vertu" en tant que contrôle; La "loyauté" en tant qu'esclavage, et ce qu'on appelle la "moralité" a été révélée comme un spectacle de marionnettes ridicule conçu pour tromper les personnes faibles et craintives pour s'auto-asservir.
+“真理”被认为操纵；“德”作为对照；“忠诚”的奴隶，和所谓的“道德”被发现是一个可笑的木偶剧, 旨在欺骗软弱和恐惧的人们进行奴役。
 
-Cette compréhension a donné naissance à une nouvelle génération de nihilistes, comme cela s'est produit dans l'Allemagne du dix-neuvième siècle. Ces relativistes extrêmes réservent leurs attaques les plus virulentes à quiconque affirme une forme de certitude. Cette génération postmoderne a surpassé les intolérances culturelles de son histoire collective, mais voit maintenant *tout* la vérité comme une simple affirmation préalable. Comme les enfants aux yeux ouverts qui ont été marqués dans la "sagesse" cynique, ils voient toute la communication comme de la publicité, toute affirmation comme de la propagande, et toute exhortation morale comme des vols hypocrites.
+这种认识催生了新一代的虚无主义者，就像在十九世纪德国一样。这些极端的相对主义者保留最尖刻的攻击的人谁声称任何形式的确定性。这种后现代的一代不再有他们的集体历史文化的偏见，但现在看来所有的真理仅仅是偏见的断言。像睁大眼睛的孩子一样，他们被视为愤世嫉俗的“智慧”，他们把所有的沟通看作是广告，所有的宣传都是宣传，都是虚伪的道德规劝偷窃。
 
-Étant donné qu'il n'y a pas d'accord dans un cadre rationnel, objectif et cohérent pour évaluer les propositions morales, la "moralité" reste coincée dans le mysticisme et dans son inévitable corollaire de la violence. De même que, avant les Lumières, les sectes religieuses se disputaient sans fin le contrôle des feuilles de l'aristocratie, maintenant les mythologies morales rivalisant pour le contrôle de l'État et toutes leurs machines de coercition.
+由于我们对一个有凝聚力的、客观的、合理的道德命题评估框架没有达成一致，所以“道德”仍然陷入了神秘主义，而且是不可避免的必然结果。同样，到启蒙运动之前，宗教派别为了控制贵族阶层而无休无止地争夺战争，所以现在做竞争的道德神话战争对国家的控制，和所有的机械强迫。
 
-La morale reste donc, par rapport à la science moderne, comme l'a fait "l'astronomie"médiévale – royaume de la mythologie imaginaire, imposée par les contes, les menaces, la coercition et l'exploitation – qui balaie activement tout progrès réel vers la vérité.
+因此，相对于现代科学而言，道德仍然存在，正如中世纪“天文学”对现代天文学所做的那样 -通过讲故事，威胁，强迫和剥削而实施的想象神话的领域，- 它积极阻止任何朝向真理的真正进展。
 
-Cette "bête" de l'éthique relativiste plane sur nous, nous harcèle, justifie les impôts, l'emprisonnement, la censure et les guerres. Enslaves jeunesse dans les écoles publiques et les messes du dimanche; elle emprisonne les pauvres dans les douces goulags du bien-être, asservit même les enfants à naître dans les puits sans fond de la dette nationale.
+这个“野兽”的相对论伦理上织机，捕食我们，调整税收、监禁、审查和战争。它在州立学校和星期天的长椅上奴役年轻人；它诱捕穷人福利软营；它奴役甚至出生在国家债务的无底洞威尔斯。
 
-Comme je l'écrivais dans mon livre précédent, "Sur la Vérité: la Tyrannie de l'Illusion", le mensonge le plus fondamental au centre des théories éthiques non prouvées est que ces théories sont toujours présentées aux enfants comme des faits objectifs et incontestables, quand vraiment, ce sont de simples intolérances culturelles. La raison pour laquelle les scientifiques n'ont pas besoin d'un gouvernement ou d'un Vatican est que les scientifiques ont une méthodologie objective pour résoudre les conflits: la méthode scientifique. La raison pour laquelle la langue n'a pas besoin d'une autorité centrale pour guider son évolution est qu'elle est basée sur le "marché libre" des préférences individuelles accumulées pour les styles et les utilités.
+正如我在以前的书中写道，“在真相：幻觉的暴政，“在未经证实的伦理理论的中心最基本的谎言就是这样的理论总是呈现给孩子以客观、确凿无疑的事实，当事实上他们仅仅是文化偏见。科学家不需要政府或梵蒂冈的原因是科学家有一个客观的方法来解决争端： 科学方法。语言不需要一个中央权威来指导其演变，其原因在于它依赖于积累的个人偏好的“自由市场”，即风格和效用。
 
-La raison pour laquelle la moralité moderne – et la morale à travers l'histoire – a toujours dû s'appuyer d'abord sur le harcèlement des enfants, puis sur la menace des adultes, c'est que c'est un mensonge manipulateur déguisé en vérité vertueuse.
+现代道德–道德在历史上–一直在欺负孩子依赖的原因，然后对威胁大人，是操纵谎言伪装成一个良性的真理。
 
-La vérité est que nous avons besoin de la moralité; le mensonge est que les dieux et les gouvernements peuvent le définir rationnellement ou l'imposer justement.
+事实上，我们需要道德，谎言是上帝或政府可以合理地定义或公正地执行它。
 
-Mon but dans ce livre est de définir une méthodologie pour la validation des théories morales qui est objective, cohérente, claire, rationnelle, empirique – et *vraie*.
+我在这本书中的目标是定义一种方法来验证道德理论是客观的、一致的、清楚的、合理的、经验性的和真实的。
 
 Je suis pleinement conscient que, en ce moment, vous sentez probablement une vague croissante de scepticisme. Je comprends parfaitement que les chances d'un type extérieur sur Internet – la planète natale des fous – ayant résolu le problème philosophique des âges ne soient pas particulièrement élevées – en fait, ils seraient si proches de zéro qu'il serait pratiquement indiscernable.
 
