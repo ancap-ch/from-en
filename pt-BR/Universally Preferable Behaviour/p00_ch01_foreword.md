@@ -1,54 +1,54 @@
-## Prefácio
+## 前言
 
-Em vários contos de fadas, vive uma fera terrível de poder estupendo, um dragão ou um basilisco, que tiraniza as terras próximas. Os aldeões locais tremem perante o som desse monstro; eles sacrificam seus animais, pagam seus tributos – dinheiro e sangue – na esperança de acalmar os impulsos assassinos do monstro.
+在许多童话故事，有一个可怕的惊人力量的野兽，龙或蛇，这迫害霸占周围的土地。当地村民颤抖在这个怪物；他们牺牲了他们的动物，付出金钱和鲜血，希望平息其杀人的冲动。
 
-A maioria acovardava-se sob a sombra dessa fera, autoproclamando seu medo de “prudência”, mas alguns — talvez bêbados em coragem ou estupidez — decidem lutar. Ano após ano, década após década, onda após onda de campeões esperançosos tentam equiparar a sua força, virtude e astúcia à do terrível tirano.
+大多数人畏缩这野兽的阴影下，称自己的恐惧”的谨慎，但几–醉也许勇气或鲁莽–决定战斗。年复一年，十年后十年，一波又一波的希望捍卫者试图配合他们的实力、美德和狡猾对抗这个可怕的暴君。
 
-Tentam - e falham.
+尝试 -并失败。
 
-A fera é sempre imortal, então os aldeões não podem esperar que o tempo os livre do seu déspota. O monstro nunca é racional e não tem o menor desejo de proceder com trocas mútuas, e portanto nenhuma negociação é possível.
+野兽永远不死，所以村民们不能指望时间来消灭他们的暴君。野兽从不理性，也不想交易，所以没有谈判是可能的。
 
-A única esperança dos aldeões desesperados é que um homem capaz de derrotar o monstro apareça.
+绝望的村民们唯一希望的是一个能打败野兽的人出现。
 
-Inevitavelmente, um homem dá um passo a frente que atinge todos de maneira completamente incongruente. Ele é um garoto do estábulo, um filho de um sapateiro, um aprendiz de padeiro – as vezes, é só um andarilho.
+不可避免地，一个人向前走，把每个人都看成是完全不协调的。他是一个稳定的男孩，一个鞋匠的儿子，一个面包师的学徒–或有时候只是一个流浪汉。
 
-Esse livro é a história da minha investida pessoal nesta fera.
+这本书是我个人攻击这样一个野兽的故事。
 
-Esta "fera" é a crença de que é impossível definir um sistema ético objetivo, racional, científico e secular. Esta "fera" é a ilusão de que a moralidade deve para sempre ficar perdida entre pântanos irracionais de deuses e governos, impostos meramente por razões pragmáticas, porém sempre sem justificação lógica e definição clara. Esta "fera" é a fantasia de que a virtude, nossa maior alegria, nossa mais profunda felicidade, deve ser posta de lado por adultos seculares e deixada ao pó para ser manipulada, explorada e ostentada por políticos e padres – e pais. Esta "fera" é a superstição de que, sem a repressão dos pais, o "bullying" de deuses ou as armas dos governos, somos incapazes de sermos tanto bons quanto racionais.
+这种“野兽”的信念是不可能定义一个客观的、理性的、世俗的和科学的道德体系。这种“野兽”是一种错觉，认为道德必须永远迷失在上帝和政府的不合理的沼泽中，仅仅出于实用主义的理由而强制执行，但永远缺乏逻辑的理由和明确的定义。这个“野兽”是幻想的美德，我们最大的喜悦，我们最深的幸福，必须抛开世俗的大人，和在尘土中被抓，游行和被政客和牧师–和父母。这个“野兽”是迷信，没有父母的长篇大论，欺负神或政府的枪，我们不能理性和良好的相信。
 
-Esse monstro derrubou muitos heróis formidáveis, de Sócrates à Platão, Santo Agostinho à Hume, Kant à Rand.
+这种野兽把许多伟大的英雄: Socrates、Plato、Augustine、Hume、Kant、Rand。
 
-O custo à humanidade tem sido enorme.
+人类的代价是巨大的。
 
-Já que nós temos permanecido incapazes de definir um sistema racional de moralidade universal, nós fomos forçados a infligir histórias religiosas de horror em nossas crianças, ou dar armas, prisões e exércitos para um monopólio de controladores sem alma que se autodenominam “Estado."
+因为我们仍然无法确定合理的普遍的道德体系，我们不得不把宗教恐怖的故事对我们的孩子，或者把枪支，监狱和军队没有灵魂控制器自称“国家小垄断。
 
-Visto que o que chamamos de ética segue subjetivo e meramente *cultural*, nós inevitavelmente acabamos dependendo de "bullying", medo e violência para impormos as regras sociais. Uma vez que a ética carece de uma base racional como o método científico, a “moralidade” permanece presa numa guerra tribal de mitologias sangrentas; cada gangue lutando com unhas e dentes pela lealdade do povo à “virtude".
+由于我们所说的“伦理”仍然是主观的，只是文化的，我们不可避免地依赖于欺凌、恐惧和暴力来执行社会规则。由于伦理缺乏科学方法的理性依据，“道德”仍然深陷血腥神话的部族之争中，各个团伙为了控制人们对“美德”的忠诚而斗争。
 
-Somos incapazes de viver sem moralidade, porém também incapazes de definir moralidade objetivamente — sendo assim, permanecemos eternamente condenados à vidas vazias de hipocrisia egocêntrica, dominação cínica ou pífia servidão.
+我们不能没有道德生活，但我们不能客观地定义道德 -因此我们永远谴责浮夸虚伪空虚，愤世嫉俗的优势或虔诚的奴隶。
 
-Intelectualmente, não há nada mais importante e decisivo no mundo. Nossa falha em definir regras morais objetivas e racionais custou centenas de milhões de vidas humanas, nas guerras de religiões e estados.
+理智上，世界上没有更高的赌注。在宗教和国家的战争中，我们没有界定客观和理性的道德规范，造成数亿人的生命损失。
 
-Em muitos aspectos, a importância está ficando cada vez maior.
+在许多方面，风险越来越大。
 
-O aumento de fluxo de informações pela internet elvantou suspeitas de uma nova geração que considera que o que chamamos de “virtude” nada mais é - ou menos é - que contos–de–fada prontos de seus anciães hipócritas. As pífias mentiras contadas por aqueles em posições de autoridade — e a cumplicidade daqueles que os louvam — são, hoje, mais claras do que nunca.
+互联网信息流量的增加引发了新一代人的怀疑，所谓的“美德”不过是他们伪善的长辈的自私童话而已。那些当权者所说的虔诚的谎言—以及那些崇拜他们的人的共谋 — 现在比以前更清楚了。
 
-“Verdades” foram expostas como manipulação; “virtudes” como controle; “lealdade” como servidão, e o que é chamado de "moralidade" foi revelado como um ridículo show–de–marionetes projetado para enganar pessoas fracas e tementes e convence-las à se oferecerem como servos.
+“真理”被认为操纵；“德”作为对照；“忠诚”的奴隶，和所谓的“道德”被发现是一个可笑的木偶剧, 旨在欺骗软弱和恐惧的人们进行奴役。
 
-Essa descoberta deu luz à uma nova geração de niilistas, assim como ocorreu na Alemanha do século XIX. Esses relativistas extremos reservam seus ataques mais ferozes para aqueles que afirmam possuir qualquer tipo de convicção. Essa geração pós–moderna superou preconceitos culturais de suas histórias coletivas, mas agora veem *toda* a verdade como uma mera asserção opressora. Como crianças de olhos arregalados que foram coagidas à uma esperteza cínica, eles veem todas as comunicações como propaganda, todas as proposições como interesse e todas as urgências morais como ladroagem hipócrita.
+这种认识催生了新一代的虚无主义者，就像在十九世纪德国一样。这些极端的相对主义者保留最尖刻的攻击的人谁声称任何形式的确定性。这种后现代的一代不再有他们的集体历史文化的偏见，但现在看来所有的真理仅仅是偏见的断言。像睁大眼睛的孩子一样，他们被视为愤世嫉俗的“智慧”，他们把所有的沟通看作是广告，所有的宣传都是宣传，都是虚伪的道德规劝偷窃。
 
-Visto que não temos nenhum acordo sobre uma estrutura de proposições morais que seja coesa, racional e objetiva, "a moralidade" permanece fincada em misticismo e em seu inevitável corolário de violência. Assim como, antes do Iluminismo, seitas religiosas brigaram constantemente pelo domínio das lâminas da aristocracia, agora mitologias morais guerreiam pelo controle do estado e todo seu maquinário de coerção.
+由于我们对一个有凝聚力的、客观的、合理的道德命题评估框架没有达成一致，所以“道德”仍然陷入了神秘主义，而且是不可避免的必然结果。同样，到启蒙运动之前，宗教派别为了控制贵族阶层而无休无止地争夺战争，所以现在做竞争的道德神话战争对国家的控制，和所有的机械强迫。
 
-Portanto permanece a moralidade, relativa à ciência moderna, assim como a "astronomia" medieval ficou relativa à astronomia moderna — um reino de mitologias imaginárias, aprisionados por meio de estórias, ameaças, compulsão e exploração — o que ativamente barra qualquer progresso em direção à verdade.
+因此，相对于现代科学而言，道德仍然存在，正如中世纪“天文学”对现代天文学所做的那样 -通过讲故事，威胁，强迫和剥削而实施的想象神话的领域，- 它积极阻止任何朝向真理的真正进展。
 
-Essa "besta" do relativismo ético espreita sobre nós, se alimenta de nós, justificando impostos, prisões, censura e guerras. Ela escraviza jovens em escolas estatais e dominicais; ela seduz os pobres em deleitosas "gulags" do bem-estar social; ela submete até mesmo os não–nascidos em poços–sem–fundo de dívidas nacionais.
+这个“野兽”的相对论伦理上织机，捕食我们，调整税收、监禁、审查和战争。它在州立学校和星期天的长椅上奴役年轻人；它诱捕穷人福利软营；它奴役甚至出生在国家债务的无底洞威尔斯。
 
-Como escrevi no meu livro anterior, “Da Verdade: A Tirania da Ilusão”, a mentira mais fundamental no centro de teorias éticas não–provadas é que tais teorias são sempre apresentadas para crianças como objetivas e como fatos incontornáveis, quando na verdade são meros dogmas culturais. A razão pela qual cientistas não precisam de um governo ou de um Vaticano é que cientistas utilizam uma metodologia objetiva para resolver debates: o método científico. A razão pela qual a linguagem não precisa de uma autoridade central para guiar sua evolução é que a mesma conta com um "livre mercado" de preferências individuais acumuladas para estilo e utilidade.
+正如我在以前的书中写道，“在真相：幻觉的暴政，“在未经证实的伦理理论的中心最基本的谎言就是这样的理论总是呈现给孩子以客观、确凿无疑的事实，当事实上他们仅仅是文化偏见。科学家不需要政府或梵蒂冈的原因是科学家有一个客观的方法来解决争端： 科学方法。语言不需要一个中央权威来指导其演变，其原因在于它依赖于积累的个人偏好的“自由市场”，即风格和效用。
 
-A razão pela qual a moralidade moderna — e a moralidade por toda a história — sempre teve que depender primeiramente do "bullying" de crianças e depois da ameaça aos adultos, é que essa é uma mentira manipulativa mascarando-se como uma virtuosa verdade.
+现代道德–道德在历史上–一直在欺负孩子依赖的原因，然后对威胁大人，是操纵谎言伪装成一个良性的真理。
 
-A verdade é que precisamos de moralidade; a mentira é que deuses e governos podem defini-la racionalmente ou forçá-la de forma justa.
+事实上，我们需要道德，谎言是上帝或政府可以合理地定义或公正地执行它。
 
-Meu objetivo neste livro é definir uma metodologia para validar teorias à respeito da moralidade que é objetiva, consistente, clara, racional, empírica — e *verdadeira*.
+我在这本书中的目标是定义一种方法来验证道德理论是客观的、一致的、清楚的、合理的、经验性的和真实的。
 
 Estou perfeitamente consciente que, neste momento, você provavelmente deve estar sentido crescer uma onda de ceticismo. Eu entendo completamente que a probabilidade que algum fulano, internet à fora — a terra dos malucos — de alguma jeito resolveu o problema filosófico de eras não são particularmente altas — na verdade, elas seriam tão perto de zero que seriam virtualmente indistinguíveis de tal valor.
 
