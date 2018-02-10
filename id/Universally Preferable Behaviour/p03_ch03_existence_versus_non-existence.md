@@ -233,73 +233,73 @@ This situation, while interesting theoretically, breaks down logically because:
 
 The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
 
-If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
+Jika tidak ada kejahatan,maka tidak diperlukan pemerintahan. Jika kejahatan ada, pemerintah terlalu berbahaya untuk diizinkan eksis.
 
-Why is this error so prevalent?
+Mengapa kesalahan ini sangat lazim?
 
-There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+Ada beberapa alasan, yang hanya dapat diambil disini. Yang pertama adalah bahwa pemerintah mengenalkan dirinya pada anak-anak dalam bentuk guru sekolah umum yang dianggap otoritas moral. Dengan demikian adalah * moralitas * dan * otoritas * yang pertama kali dikaitkan dengan pemerintah - sebuah asosiasi yang kemudian diperkuat selama bertahun-tahun pengulangan grinding.
 
-The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
+Yang kedua adalah bahwa pemerintah tidak sama sekali mengajarkan anak-anak tentang akar kekuatannya - kekerasan - namun berpura-pura bahwa itu hanyalah institusi sosial lain, seperti bisnis atau gereja atau amal, tapi lebih bermoral.
 
-The third is that the prevalence of religion and propaganda has always blinded men to the evils of the government – which is why rulers have always been so interested in furthering the interests of churches and state “education.” In the religious world-view, absolute power is synonymous with perfect virtue, in the form of a deity. In the real political world of men, however, increasing power always means increasing evil. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. There are many more reasons, of course, but these are among the deepest.[^10]
+Yang ketiga adalah bahwa prevalensi agama dan propaganda selalu membutakan manusia terhadap kezaliman pemerintah - oleh karena itu para penguasa selalu tertarik untuk melanjutkan kepentingan gereja dan negara "pendidikan." Dalam pandangan dunia keagamaan, mutlak Kekuasaan itu identik dengan kebajikan sempurna, dalam bentuk keilahian. Dalam dunia politik sejati manusia, bagaimanapun, meningkatkan kekuatan selalu berarti meningkatkan kejahatan. Dengan agama, semua yang terjadi pasti demi kebaikan - dengan demikian, melawan kekuatan politik yang melanggar hukum adalah melawan kehendak dewa. Masih banyak lagi alasan, tentu saja, tapi ini termasuk yang utama. [^ 10]
 
-At the beginning of this section, I mentioned that people generally make *two* errors when confronted with the idea of dissolving the government. The first is the belief that governments are necessary because evil people exist. The second is the belief that, in the absence of governments, any social institutions that arise will inevitably take the place of governments. Thus, Dispute Resolution Organisations (DROs), insurance companies and private security forces are all considered potential cancers that will swell and overwhelm the body politic.
+Pada awal bagian ini, saya menyebutkan bahwa orang umumnya membuat * dua kesalahan saat dihadapkan pada gagasan untuk melarutkan pemerintah. Yang pertama adalah kepercayaan bahwa pemerintah diperlukan karena orang jahat ada. Yang kedua adalah keyakinan bahwa, dengan tidak adanya pemerintah, setiap institusi sosial yang muncul pasti akan menggantikan pemerintahan. Dengan demikian, Organisasi Penyelesaian Sengketa (DROs), perusahaan asuransi dan pasukan keamanan swasta semuanya dianggap sebagai kanker potensial yang akan membengkak dan membanjiri tubuh politik.
 
-This view arises from the same error outlined above. If *all* social institutions are constantly trying to grow in power and enforce their wills on others, then by that very argument a centralised government cannot be allowed to exist. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
+Pandangan ini muncul dari kesalahan yang sama yang diuraikan di atas. Jika * semua * lembaga sosial terus berusaha untuk tumbuh dalam kekuasaan dan menegakkan kehendak mereka pada orang lain, maka dengan argumen itu, pemerintahan pusat tidak dapat diizinkan untuk eksis. Jika itu adalah undang-undang kuat bahwa kelompok selalu mencoba untuk mendapatkan kekuasaan atas kelompok dan individu lain, maka hawa nafsu * tidak akan berakhir jika salah satu dari mereka menang, namun akan terus menyebar ke seluruh masyarakat yang hampir tidak dilawan sampai perbudakan adalah norma *.
 
-The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Governments grow endlessly because they can pay tax collectors with a portion of the taxes they collect. The slaves are thus forced to pay for the costs of their enslavement.
+Satu-satunya cara agar institusi sosial dapat tumbuh menjadi monopoli kekerasan adalah dengan menurunkan biaya penegakan hukum kepada korban mereka. Pemerintah tumbuh tanpa henti saat mereka mengumpulkan. Oleh karena itu para budak terpaksa membayar biaya perbudakan mereka.
 
-In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
+Dalam masyarakat gotongroyong, tidak akan ada perpajakan, dan setiap kelompok yang ingin memperoleh kekuasaan monopoli harus mendanai tentaranya sendiri, yang tidak akan layak secara ekonomi atau menguntungkan. [^ 11]
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
+Sangat sulit untuk memahami logika dan kecerdasan kelompok yang mungkin menguasai kita, kita harus mendukung kelompok yang sudah menguasai kita. Hal ini mirip dengan argumen statistik tentang monopoli swasta - bahwa warga negara harus membuat monopoli pemerintah karena mereka takut terhadap monopoli pribadi. Tidak perlu penglihatan tajam untuk melihat melalui omong kosong semacam itu.
 
-What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+Apa bukti kekuatan desentralisasi dan persaingan mempromosikan perdamaian? Dengan kata lain, apakah ada fakta bahwa kita dapat memanfaatkan kekuatan merupakan satu-satunya kesempatan individu memiliki kebebasan?
 
-Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
+Kejahatan terorganisir tidak memberikan banyak contoh baik, karena geng jadi sering melakukan korupsi, memanipulasi dan menggunakan kekuatan polisi pemerintah untuk memberlakukan peraturan mereka, sehingga gerombolan tidak dapat dikatakan beroperasi dalam keadaan alami. Selain itu, gerombolan penjahat sangat menguntungkan dengan menyediakan zat atau layanan yang dilarang secara legal, dan juga berkembang pesat karena kebijakan negara.
 
-A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+Contoh yang lebih berguna adalah fakta bahwa tidak ada pemimpin yang pernah mengumumkan perang terhadap pemimpin lain yang memiliki senjata nuklir. Dulu, ketika para pemimpin merasa kebal dari pembalasan pribadi, mereka lebih bersedia membunuh penduduk mereka sendiri dengan melakukan perang. Sekarang mereka sendiri mengalami pemusnahan, mereka hanya mau menyerang negara-negara yang tidak mampu untuk melawan.
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+Ini adalah pelajaran instruksional mengapa kekuatan bencana dan persaingan * adalah satu-satunya metode yang terbukti untuk mengamankan dan mempertahankan kebebasan pribadi *.
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+Melarikan diri dari setan imajiner ke dalam perlindunga pemerintah hanya memastikan penghancuran kebebasan yang membuat hidup layak dijalani.
 
-### Governments And Religion
+### Pemerintah dan Agama
 
-The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
+Gagasan bahwa menjadi terlahir dengan agen fiktif, yang dalam arti seorang budak kuasi untuk individu tertentu, adalah hal yang umum bagi agama dan negara - dan satu sama lain, agen yang jauh lebih pribadi, yang saya sebutkan dalam hidup saya. buku pertama "On Truth: The Tyranny Of Illusion."
 
-Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Kapan pun seorang imam berkata: "Taatilah Tuhan," yang sebenarnya dia katakan adalah: "Taatilah aku!" "Tuhan" hanyalah entitas fiktif yang digunakan untuk menggertak konseptual Anda untuk mendapatkan pengabdian Anda yang sangat praktis di dunia nyata, kepada individu sejati, dalam hal penyerahan uang, waktu dan sumber daya secara sukarela.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+Ini jauh lebih efisien bagi para eksploit agar budak mereka menganggap perbudakan sebagai kebajikan, karena ia mengurangi biaya untuk mengendalikannya. Jika saya dapat meyakinkan Anda bahwa adalah jahat untuk menghindari melayani saya, dan berbudi luhur untuk menjadi budak saya, maka saya tidak perlu mempekerjakan seberapa banyak preman untuk menggertak, mengendalikan dan mencuri dari Anda.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+Mitologi agama dan negara, kemudian, adalah fiksi yang sangat mengurangi biaya untuk mengendalikan populasi; Mereka adalah pelumas dan bahan bakar untuk mesin mengerikan dari kekerasan yang dilembagakan.
 
-Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Di seluruh dunia, para penguasa memiliki persentase populasi yang sangat kecil. Bagaimana mungkin satu sampai dua persen orang bisa mengendalikan orang lain? Ada monopoli tertentu tentang persenjataan, tentu saja, tapi monopoli itu relatif mudah untuk dikonversikan, karena kebanyakan pemerintah menghasilkan banyak uang untuk menjual senjata ke seluruh dunia.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+Kenyataan yang menyedihkan adalah bahwa orang secara keseluruhan diperbudak entitas fiktif seperti negara, tuhan, budaya - dan pemerintah.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+kepribadian kita secara naluriah akan memberontak melawan perbudakan segera dan diberlakukan terhadap manusia lain - bagaimanapun, kita tampaknya hampir menyukai perbudakan dengan * mitologi *.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+Keinginan kita untuk menjadi baik - dikombinasikan dengan sensasi kebajikan yang kita dapatkan dengan mematuhi mitologi moral - membuat kita antri untuk menyerahkan harta kita kepada orang-orang yang mengaku mewakili mitologi ini.
 
-One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+Salah satu alasan utama mengapa kita tahu bahwa pemerintah dan tuhan tidak perlu adalah yang efektif. * Kita tahu bahwa kebanyakan orang sangat ingin menjadi baik karena mereka begitu mudah dikendalikan oleh teori moral *.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+Logika ketaatan pada mitologi adalah pembodohan. Jika seorang pastor mengatakan kepada saya bahwa saya telah mematuhi sebuah entitas bernama "Nog." Jika saya menerima bahwa entitas fiktif ini layak untuk menjalani ketaatan kekal, ini tetap tidak akan memaksa saya untuk mematuhi * imam *. Jika saya menyuruh Anda untuk "mematuhi hati Anda," dapatkah saya cukup mengatakan: "dan * saya sendiri * berbicara untuk hati Anda"?
 
-Of course not.
+Tentu tidak.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+Ketika kita mendepak mitologi dan fiksi dari "interaksi" kita dengan penguasa kita, apa yang muncul adalah realitas yang suram, menakjubkan, dan mematikan.
 
-Let’s take as an example a very real and present danger: taxation.
+Mari kita bahas bahaya yang sangat nyata dan sekarang: perpajakan.
 
-#### Taxation
+#### Perpajakan
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Saya diberitahu bahwa, berdasarkan memilih untuk tinggal di Kanada, saya berhutang pada "pemerintah" lebih dari lima puluh persen dari penghasilan saya.
 
-Stripped of mythology, what does this really translate to?
+Pelucutan mitologi, apa ini benar-benar diterjemahkan?
 
-In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+Pada kenyataannya, saya akan menunggu hingga akhir zaman untuk "pemerintah" datang dan mengambil uangnya. Menunggu "pemerintah" untuk mampir adalah seperti ingin berkencan dengan konsep "feminitas." Saya mungkin juga mencoba untuk membayar makan malam saya dengan kata "uang".
 
-In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+Kenyataannya, ketika saya diberi tahu bahwa saya harus membayar pajak saya kepada "pemerintah", sebenarnya ini berarti saya harus menulis cek untuk mentransfer uang saya ke rekening bank tertentu, yang kemudian diakses oleh individu tertentu. Orang-orang ini kemudian memiliki hak untuk mengambil uang itu, dan membelanjakannya sesuai yang mereka inginkan - individu-individu tertentu ini memiliki kendali penuh atas uang saya.
 
 At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
 
