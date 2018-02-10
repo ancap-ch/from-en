@@ -10,7 +10,7 @@ Ang halimbawa naglalarawan ng paradox sa kung ano ang nangyayari sa ilegal na dr
 
 Ang problema kasama ang argumento iyan ba ay umaasa sa simpleng balanseng pagsusuri nasa pangangailangan-at-suplay ng mga modelo sa paggamit ng Econ 101 na kurso para sa unibersidad ng freshmen. At ito ay hindi talaga mag-apply dito. Nagkaroon ng pag-pipinta o ilegal na droga sa mga merkado nanggagaling sa balanse, doon maaaring talagang maging isang paradox. Pero ito ay matigas na kaso, *lalo na* sa mga merkado.
 
-Also, in a state of equilibrium costs perfectly reflect social opportunity costs, and “perfect” competition brings price and cost together so that no one is able to make economic profits. In other words, there is no difference between price and cost. There is, consequently, no reason to in this theory distinguish between them temporally or causally — they appear to be determined instantaneously and accurately. This is also how they are treated in various economics models that students learn to “maximize.”
+Pati, sa isang estado ng pag-balanse ng gastos sa "perpektong" nagpapakita ng sosyal na oportunidad na mga gastos, at "perpektong" kumpetisyon magdadala ng presyo at gastos magkasama kaya't hindi isa ay kayang magkaroon ng ekonomiya na kita. Sa ibang salita, walang diperensya sa pagitan ng presyo at gastos. There is, consequently, no reason to in this theory distinguish between them temporally or causally — they appear to be determined instantaneously and accurately. This is also how they are treated in various economics models that students learn to “maximize.”
 
 # Price Drives Cost  — Not the Other Way Around
 
