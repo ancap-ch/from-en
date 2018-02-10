@@ -4,7 +4,7 @@ Aking papaliwanag ang "hindi pagpapairal" bilang na Hindi nagtataglay ng mass o 
 
 Ang Diyos ay Hindi nag tataglay ng mass o lakas, o ipakita ang mga epekto ng mass o lakas -sa katunayan ang Diyos ay Hindi napapansin o napapatunayan sa anuman paraan, ng hugis o porma, kahit na sa mga pandama, o sa pamamagitan ng pagkamaykatwiran.
 
-Thus if I say, “God exists,” what I am really saying is:
+Kaya Kung sinasabi ko, " Diyos ay umiiral," Ang talagang sinasabi ko ay:
 
 “*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
 
