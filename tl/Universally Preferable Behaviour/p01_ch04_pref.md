@@ -1,28 +1,28 @@
-## Preferences
+## Ang Kagustuhan
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Ngayon na nauunawaan natin ang kalikasan ng mga pagtatalo sa sarili, maaari naming i-on ang tanong ng mga kagustuhan.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Ang mga kagustuhan ay mahalaga sa anumang pamamaraan na nag-aangkin upang tukuyin ang katotohanan-halaga ng mga panukala. Ang pang-agham na pamamaraan, halimbawa, ay higit sa lahat na tinukoy ng mga likas na kagustuhan para sa lohikal na pagkakapare-pareho at empirical na pag-verify. Para sa agham, ang saligan ay: *kung* gusto mong matukoy ang isang wastong katotohanan tungkol sa pag-uugali ng bagay at lakas, ito ay *lalong kanais-nais* upang gamitin ang pang-agham na pamamaraan.
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+Sa ganitong diwa, ang "lalong kanais-nais" ay hindi nangangahulugang "uri ng mas mahusay," kundi "kinakailangan". * Kung * gusto mong mabuhay, ito ay *higit na higit sa lahat* na pigilin mo ang pagkain ng isang maliit na arsenic. *Kung* nais mong matukoy ang wastong mga katotohanan tungkol sa katotohanan, ito ay *higit na higit sa lahat* na ang iyong mga teorya ay pareho sa loob ng pare-pareho at empirikal na napapatunayan. Ang "higit na mabuti sa banal na lugar," pagkatapos ay isinasalin sa "kinakailangan ayon sa kinakailangan," ngunit mananatili tayong salitang "lalong kanais-nais" upang makaiiba sa pagitan ng mga opsyonal na ganap na tao at di-opsyonal na mga absolute physical tulad ng gravity.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+Katulad nito, kung ang mga etikal na etika ay maaaring maging wasto, kung gayon dapat silang *kahit* pareho sa panloob at panlabas na pare-pareho. Sa ibang salita, ang isang etikal na teorya na nagkakasalungat sa kanyang sarili ay hindi maaaring balido - at ang isang etikal na teorya na nagkakasalungat sa empirikal na ebidensya at mga kagustuhan na malapit-unibersal ay hindi rin maaaring balido.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Kaya sa etika, tulad ng sa agham, matematika, pag-iinhinyero at lahat ng iba pang disiplina na naghahambing sa mga teorya sa katotohanan, *ang mga wastong teorya ay dapat parehong lohikal na pare-pareho at empirically napapatunayan*.
 
-### Preferences And Existence
+### Ang Mga Kagustuhan At Pagkakaroon
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+Kung sasabihin ko "Gusto ko ng ice cream," isang salita lamang ang nananatiling hindi maliwanag sa pangungusap na iyon. Malinaw na "Ako" ay umiiral, yamang nagpapahayag ako ng isang personal na kagustuhan. Gayundin malinaw, "ice cream" din umiiral sa katotohanan. Gayunpaman, ang salitang "tulad" ay mas may problema.
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Ang mga kagustuhan ay hindi umiiral talaga sa loob ng katotohanan. Kung ikaw ay sobra-sobra na mausisa, maaari mong sundin ako sa paligid at irekord ang bawat oras na kumain ako ng ice cream, na maaaring magbigay ng isang mahusay na empirikal na batayan para maitatag ang aking kagustuhan para dito. Ang posibilidad ay maaaring umiiral, gayunpaman, na ako ay sa katunayan isang masokista, at hindi nagugustuhan ng ice cream nang masidhi, at mas gusto mong pahirapan ang sarili ko sa hindi kanais-nais na panlasa - at pagkatapos ay malito ka sa pag-kuha na gustung-gusto ito.
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+Makakahanap tayo ng *katibayan* para sa mga kagustuhan; hindi namin mahanap ang preference *mismo* sa katotohanan. Ang kagustuhan ay umiiral bilang isang *relasyon* sa pagitan ng kamalayan at bagay, tulad ng gravity umiiral bilang isang relasyon sa pagitan ng mga katawan ng masa.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Ang pagtatalo sa mga mapaghamong tanong ng malayang kalooban laban sa determinismo, makatwirang ipalagay na ang ginagawa ng isang tao sa kasalukuyan ay ang "mas gusto" niyang gawin. Kung bumabangon ako at nagpunta sa trabaho, pagkatapos ay malinaw na ako *ginusto* upang gawin iyon, bilang laban sa lahat ng iba pang mga alternatibo. Kahit na kinamuhian ko ang aking trabaho, maliwanag kong napopoot ito mas mababa kaysa sa, sabihin, pagiging walang pera.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+Dahil ang mga tao ay maaaring gumaganap ng isang malapit na walang katapusang iba't ibang mga aksyon, anuman ang ginagawa ng isang tao sa ngayon ay napili mula sa lahat ng iba pang posibleng mga pagpipilian. Pinipili ko na isulat ang aklat na ito sa halip na, sabihin nating, pag-aaral kung paano tango.
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+Kapag inilalapat namin ang simpleng katotohanang ito sa mga etikal na argumento, lumalabas kami sa ilang mga kagiliw-giliw na resulta.
 
 ### Preferences And Arguments
 
