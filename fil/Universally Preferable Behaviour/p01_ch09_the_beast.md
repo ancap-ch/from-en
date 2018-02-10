@@ -1,4 +1,4 @@
-## The Beast
+## Ang halimaw
 
 An objective review of human history would seem to point to the grim reality that by far the most dangerous thing in the world is *false ethical systems*.
 
