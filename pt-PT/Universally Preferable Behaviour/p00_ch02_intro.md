@@ -1,38 +1,38 @@
-## Introdução
+## 介绍
 
-Durante inúmeras gerações, a humanidade viveu numa espécie de ventre egocêntrico de ignorância auto-imposta: o mundo era plano, o sol, a lua e as estrelas giravam ao seu redor, os antepassados acenavam-lhe desde além das brumas da morte e o trovão era a raiva dos deuses.
+无数个世代，人类生活在一种自我的子宫的自我的无知：世界是平的，太阳，日月星辰围绕着他，示意他祖先从超越死亡的迷雾，雷声众神的愤怒。
 
-Afastar-se deste útero narcisista de interpretação subjectiva exigiu o trabalho de milénios - e custou a vida de milhões. O esforço necessário para deslocar a nossa perspectiva de * experiência perceptiva * para * lógica teórica * foi terrível, estimulante, altamente desorientador e extremamente perigoso. Compreender que o mundo não era o que sentia *, ou *parecia*, era - e continua a ser - a maior façanha da nossa inteligência. A *verdade da realidade acabou por estar nos olhos da mente, não nos da carne.</p> 
+从这个自我陶醉的主观解释的子宫中挖掘出来，需要几千年的劳动，并且要付出数百万的生命。把我们的观点从感性经验转化为概念逻辑所需的努力，是令人恐惧，令人振奋，极度迷失方向和极其危险的。理解世界不是我们所感觉到的，或似乎是，而且仍然是我们智慧的最大壮举。事实的真相是在心灵的眼睛里，而不是在肉体上。
 
-O mundo parece plano; não é. O sol e a lua parecem do mesmo tamanho; não são. As estrelas parecem se deslocar pela terra; não o fazem,. Aprender a verdade exige que vejamos o mundo desde fora dos nossos sentidos - isso não significa uma rejeição dos nossos sentidos, mas um cumprimento cerrado da evidência *real* dos sentidos, que não é que o mundo seja plano, mas essa matéria, energia e leis físicas são rígidas. Quando soltamos uma rocha que temos nas nossas mãos, ela cai - esta é a evidência *real* dos sentidos, não que a Terra seja fixa e imóvel. A ideia de que o mundo está imóvel é uma suposição incorrecta, que contradiz a evidência directa dos nossos sentidos, que é que tudo cai. Se tudo cai, o mundo não pode ser fixo e imóvel.
+世界看起来很平，不是。太阳和月亮看起来大小一样，它们不是。星星好像绕着地球转，而不是。学习真理需要我们从感官之外看到世界 - 这并不意味着拒绝我们的感官，而是密切遵守感官的真实证据，这不是世界是平的，而是物质、能量和物理定律是一致的。当我们放开手中的石头时，它就会倒塌 - 这是感觉的真正证据，而不是地球是固定不动的。世界是不动的想法是一个不正确的假设，与我们感官的直接证据相矛盾，这就是一切都落空了。如果一切都落下，世界就无法固定和不可移动。
 
-Estas são as pequenas verdades do quotidiano; que as rochas caem, que o fumo sobe, o fogo é quente e o sol e a lua são ambos redondos. Se nos mantemos firmes e rigorosamente comprometidos com essas "poucas verdades", com o decorrer do tempo podemos formar as grandes verdades da física, que nos proporcionam um conhecimento e poder tão maravilhoso.
+这些都是日常的小道理：岩石坠落，烟雾升起，火是热的，太阳和月亮都是圆的。如果我们坚定不移地坚守这些“小真理”，我们就能及时地得到物理学的伟大真理，它为我们提供了如此可怕的知识和力量。
 
-No entanto, entre as pequenas e as grandes verdades, estão as ilusões que nos cegam, tanto na ética como na física.
+然而，在微小的真理和伟大的真理之间，是蒙蔽我们的幻觉——无论是物理学还是伦理学。
 
-Na física, as grandes verdades não podem contradizer as pequenas verdades. Nenhuma "teoria do campo unificado" pode contradizer validamente a nossa sensação directa da experiência de uma pedra a cair ou de uma chama a crescer. A maior teoria matemática não pode ser válida se ao aplicá-la, dá-nos uma alteração incorrecta no balcão de pagamento.
+在物理学中，伟大的真理不能与小真理相矛盾。没有“统一的场论”可以有效地抵触我们直接的感觉 - 坠落的岩石或上升的火焰的经验。如果应用它在收银台返回不正确的变化，最伟大的数学理论是无效的。
 
-No entanto, historicamente, entre as nossas próprias pequenas e grandes verdades reside o que chamarei de "zona nula"
+然而，在历史上，在我们自己的小真理和伟大真理之间，我称之为“空白地带”。
 
-### A "Zona Nula"
+### “空白区”
 
-Dizemos aos nossos filhos que não se batam uns aos outros, e acreditamos que a violência está errada, no sentido abstracto, como uma regra moral geral. A "pequena verdade" é: *não se batam*. A "grande verdade" é: *a violência está errada*.
+我们告诉我们的孩子不要互相攻击，我们认为暴力在抽象上是错误的，作为一般的道德规则。“小实话”是：不要打卡。“伟大的真理”是：暴力是错误的
 
-No entanto, nas nossas mentes existe uma entidade imaginária chamada "Deus", e esta entidade é considerada perfeitamente moral. Infelizmente, esta entidade viola continuamente e por completo o edito de que "a violência está errada", inundando o mundo e enviando almas para o inferno, apesar dum conhecimento perfeita das suas "decisões", aprovando violações, assassinatos, roubos, assaltos e outras acções que condenaríamos como totalmente malvadas, em qualquer indivíduo.
+然而，在我们的头脑中存在着一个被称为“上帝”的想象实体，这个实体被认为是完全合乎道德的。不幸的是，这个实体不断严重地违反了谴责“暴力是错误的”，淹没世界，尽管完全预知他们的“决定”，批准强奸，谋杀，盗窃，打架斗殴等行为，我们会谴责任何个人绝对邪恶。
 
-Assim, temos a pequena verdade (*não batas*) e a grande verdade (* violência é errada*), mas no meio, temos essa "zona nula" *onde o oposto completo das nossas pequenas e grandes verdades é considerado perfeitamente verdadeiro*.
+因此，我们有一个小的真理（不打）和伟大的真理（暴力是错误的），但在中间，我们有这个“空区”，我们的小真理和我们伟大的真理完全相反，被认为是完全真实的。
 
-Historicamente, podemos ver a mesma inconsistência na física. Não existem círculos perfeitos na nossa experiência directa, mas por causa de uma crença em Deus, todo o movimento planetário teve que ser um "círculo perfeito" - uma premissa que atrasou a astronomia durante séculos. Do mesmo modo, se um homem voltar a cabeça, logicamente não vai acreditar que o mundo inteiro gira à sua volta - e felizmente irá colocá-la, adiante não apenas como a sua própria "pequena verdade", mas como uma *óptima verdade</0 >, ou princípio universal. No entanto, para a maior parte da história humana, acreditava-se que as estrelas e os planetas giravam em torno da Terra, em lugar de ser a Terra a girar. Aqui, podemos ver, novamente a "zona nula" entre a experiência de sentido directo e o princípio universal, em que princípios totalmente opostos são considerados perfeitamente válidos.</p> 
+从历史上看，我们可以看到物理学中同样的不一致。在我们的直接经验中没有完美的圆，但由于对上帝的信仰，所有行星运动都必须是一个“完美的循环” –几百年来延缓天文学的前提。同样，如果一个人转过头来，他也不会相信整个世界围绕着他旋转 - 这是延缓天文学发展的一个前提。同样，如果一个人转动他的头，他就不合理地认为整个世界围绕着他旋转，他会高兴地把这个向前推进，而不仅仅是他自己的“小真理”，而是作为一个伟大的真理或普遍原则。然而，对于大多数人类历史来说，人们相信星星和行星围绕地球旋转，而不是地球旋转。在这里我们可以看到直接经验和普遍原则之间的“空白地带”，完全相反的原则被认为是完全有效的。
 
-Nenhum homem saudável experimenta Deus directamente. Na sua vida quotidiana, ele aceita plenamente que *o que não pode ser percebido não existe*. Nenhum homem sensato se aflige, cada vez que dá um passo, com receio de uma parede invisível, que pode estar a impedir o seu caminho. As maiores abstracções da ciência apoiam a sua abordagem.
+神志正常的人不能直接体验上帝。在他的日常生活中，他完全接受那些不能被察觉的东西。不合理的人望而却步他每走一步，生怕一堵无形的墙，可能会限制他的方式。科学的最大抽象性支持他的方法。
 
-Por outro lado, na "zona nula" da religião, acredita-se que o *oposto exacto </ 0> das pequenas e das grandes verdades, seja verdade. Pessoalmente, um homem acredita que * o que não pode ser percebido não existe* - intelectualmente, a ciência já o provou, repetidamente. No entanto, na "zona nula" da teologia, a proposição exacta oposta é verdadeira - o seu axioma é: *o que não pode ser percebido **deve** existir *.</p> 
+相反地，在宗教的“空白地带”，这两个真理和伟大真理的截然相反，被认为是正确的。 就个人而言，一个人认为那些无法被察觉的东西是不存在的 – 在智力上，科学已经反复证明了这一点。然而，在神学的“零空间”中，完全相反的命题是成立的 - 存在着不可感知的公理必须存在。
 
-A nossa crença na virtude dos militares também está nessa "zona nula". Se um homem privado é pago para assassinar outro homem, costumamos chamá-lo" assassino a soldo" e o condenamos como a tal. No entanto, se este homem coloca um uniforme verde com algumas fitas * e comete o mesmo acto *, é cumprimentado como um herói e recompensado com uma pensão. A pequena verdade (*eu não deveria assassinar*) é perfeitamente consistente com a grande verdade (*o assassinato está errado*) - no meio, há uma mentira na "zona nula", onde o assassinato magicamente se torna "virtuoso"
+我们对军队美德的信仰也存在于这个“空白地带”，如果一个私人被雇来谋杀另一个人，我们称他为“雇佣枪”，并谴责他是一个被击中的人。然而，如果这个人穿上一件带丝带的绿色服装，并采取同样的行动，我们就把他当作英雄，并用退休金来奖励他。小事实（我不应该谋杀）完全符合伟大的真理（谋杀是错误的） -然而在中间有一个“空白地带”，在那里，谋杀奇迹般地变成了“贞洁”。
 
-Se esta "zona nula" for válida, então nenhuma proposição lógica se pode manter. Se uma proposição é verdadeira - e o oposto exacto dessa proposição também é verdadeiro - então o raciocínio lógico torna-se impossível. O crescimento da ciência racional tem sido o ataque constante sobre essa "zona nula" e a incursão da consistência objectiva nesses pequenos bolsos loucos de capricho subjectivo.
+我们对军队美德的信仰也存在于这个“空白地带”，如果一个私人被雇来谋杀另一个人，我们称他为“雇佣枪”，并谴责他是一个被击中的人。然而，如果这个人穿上一件带丝带的绿色服装，并采取同样的行动，我们就把他当作英雄，并用退休金来奖励他。小事实（我不应该谋杀）完全符合伟大的真理（谋杀是错误的） -然而在中间有一个“空白地带”，在那里，谋杀奇迹般地变成了“贞洁”。
 
-Nos mapas antigos, antes que os cartógrafos terminassem as suas explorações, os desenhos de terras conhecidas tornar-se-iam papel em branco. O crescimento do conhecimento requer, primeiro uma delimitação do que não se conhece e, em depois, uma expansão de princípios conhecidos nas áreas desconhecidas.
+在旧地图，在地图已经完成了他们的探索，已知土地的图纸会褪色成白纸。知识的增长首先需要对未知事物进行划分，然后将已知的原则扩展到未知领域。
 
 O mesmo é verdade no campo da moralidade.
 
