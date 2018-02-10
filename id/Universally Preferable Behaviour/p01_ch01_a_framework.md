@@ -1,6 +1,6 @@
 ## Sebuah Kerangka pekerjaan untuk etika
 
-Proposisi yang etis ialah berbeda dari tipe yang lain pada pernyataan pengetahuan. Jika saya katakan, "saya suka jazz," itu mungkin menjadi sebuah pernyataan yang benar atau salah, tetapi itu secara umumnya tidak dianggap mengikat anda dalam cara apapun. Pilihan saya untuk jazz adalah pernyataan belaka dari kegemaran pribadi; berdasarkan dari pernyataan saya, itu bukan berarti anda wajib menyukai atau tidak menyukai jazz.
+Proposisi etis yang berbeda dari jenis lainnya untuk pernyataan pengetahuan. Jika saya katakan, "saya suka jazz," itu mungkin menjadi sebuah pernyataan yang benar atau salah, tetapi itu secara umumnya tidak dianggap mengikat anda dalam cara apapun. Pilihan saya untuk jazz adalah pernyataan belaka dari kegemaran pribadi; berdasarkan dari pernyataan saya, itu bukan berarti anda wajib menyukai atau tidak menyukai jazz.
 
 Begitu juga, jika saya katakan "saya suka sayuran," itu juga sebuah pernyataan belaka dari pilihan pribadi. Namun, Bila saya, "sayuran adalah makanan menyehatkan," kemudia saya telah beralih dari pernyataan dari pilihan pribadi menjadi pernyataan yang fakta. Itu adalah perbedaan antara "saya suka es krim," dan,"eskrim yang mengandung susu."
 
