@@ -131,46 +131,46 @@ Alt-Right运动本质上是90年代初兴起古代保守主义运动的继承者
 
 大多数，如果不是所有的，社会的病症困扰着当代西方“公共教育制度有其共同的根源。当两百多年前在普鲁士采取了第一步，补充并最终取代了以前完全私人教育制度与普遍的义务性“公共教育”制度，在国立学校所花的时间在大多数情况下不超过四年。今天，在整个西方世界，“公共教育”机构所花费的时间至少在十年左右，而且在许多情况下，而且越来越多，二十年甚至三十年。这是一个大的，甚至大部分时间在一个人的生活影响最大的时期是在国家资助和国家的监管机构，其主要目的是从一开始就不养一个开明的公众，而是培养“好士兵”和“好公仆”：“不独立成熟的或 “mündige Bürger,” ，但下属和奴隶“Staats-Bürger.”。”结果呢?  灌输是有效的：一个人在公共教育系统中所花的时间越长，就越是致力于左派平等主义的思想，并且吞吞吐吐地，全身心地把“政治正确”这个官方的教义和议程内化了。的确，特别是在社会科学教师和教授之中，那些不算作左派一部分的人实际上已经不复存在了。因此，必须要求学校和大学的控制被夺取远离中央，在一开始的第一步，是回到区域或更好的地方和地方投资的部门，并最终被完全私有化，从而取代义务一致性和符合系统分散教育反映自然变化的系统，人的天赋和兴趣的多样性和多样性。
 
-#### Don’t put your trust in politics or political parties
+#### 不要把你的信任放在政治或政党上。
 
-Just as *academia* and the academic world cannot be expected to play any significant role in a libertarian strategy for social change, so with politics and political parties – after all, it is the ultimate goal of libertarianism to put an end to all politics, and to subject all interpersonal relations and conflicts to private law and civil law procedures. To be sure, under present, all-pervasively politicized conditions an involvement in politics and party politics cannot be entirely avoided. However, in any such involvement one must be keenly aware of and guard against the corrupting influence of power and the lure of money and perks that comes with it. And to minimize this risk and temptation, it is advisable to concentrate one’s efforts on the level of regional and local rather than national politics, and there to promote a radical agenda of decentralization: of nullification and peaceful separation, segregation and secession. Most importantly, however, we must take heed of Ludwig von Mises’ life-motto: Do not give in to evil, but proceed ever more boldly against it. That is, we must speak out whenever and wherever, whether in formal or informal gatherings, against anyone affronting us with by now only all-too-familiar “politically correct” drivel and left-egalitarian balderdash and unmistakably say: “No. Hell no. You must be kidding.” In the meantime, given the almost complete mind-control exercised by the ruling elites, *academia* and the MSM, it already requires a good portion of courage to do so. But if we are not brave enough to do so now and thus set an example for others to follow, matters will become increasingly worse and more dangerous in the future, and we, Western civilization and the Western ideas of freedom and liberty will be wiped out and vanish.
+正如学术界与学术界不能期望在社会变革的一个自由主义者的策略发挥任何重大的作用，所以政治与政党–毕竟是杜绝一切政治自由主义的终极目标和目的的人际关系和冲突，私法和民事法律程序。可以肯定的是，在目前的政治条件，都普遍对政治参与和政治不能完全避免。但是，在任何这种介入中，人们必须敏锐地意识到并防止权力的腐败影响以及由此带来的金钱和福利的诱惑。而为了减少这一风险与诱惑，明智的做法是集中自己的努力在区域和地方而不是国家的政治层面，也促进了激进的议程分权：无效的和平分离，分离和分裂。然而，最重要的是，我们必须注意路德维希•冯•米塞斯的人生格言：不要屈服于邪恶，而要更加勇敢地反对它。那就是，我们必须说出来，无论何时何地，无论在正式或非正式的聚会，反对任何人侮辱我们现在只有太熟悉的“政治正确”的胡言乱语，离开平等的梦呓和明白无误地说：“不，该死的你一定是在开玩笑。“同时，由于统治精英，学术界和 MSM 接触者几乎完全的思想控制，它已经需要很大的勇气来这样做。但如果我们现在还不够勇气这样做，为别人效仿，未来的事情就会越来越糟，越来越危险，我们西方文明和西方的自由和自由思想将被消灭和消失。
 
-[^1]: That must be appropriated with our own nature-given, i.e., un-appropriated, body.
+[^1]: 这必须与我们自己的性质，即联合国拨款，身体，拨款。
 
-[^2]: Property.
+[^2]：内容。
 
-[^3]: Conflict-free.
+[^ 3]: 無衝突。
 
-[^4]: And all later owners connected to him through a chain of voluntary exchanges.
+[^4]: 和所有后来的业主通过一系列自愿交流连接到他。
 
-[^5]: Whose leadership, to its credit, after Trump’s election victory, quickly broke with Trump when he turned out to be just another presidential warmonger.
+[^5]: 的领导，它的信用，特朗普的选举胜利后，很快就与特朗普分手了，原来他只是另一个总统的战争贩子。
 
 [^6]: *Aka* Mencius Moldbug.
 
 [^7]: *Aka* Soviet Poverty Lie Center.
 
-[^8]: *Aka* “non-discrimination”.
+[^8]: *Aka* “非歧视”。
 
-[^9]: Which I have termed the “Stupids for Liberty” and my young German friend Andre Lichtschlag as “Liberallala-Libertarians”.
+[^9]: 我称之为“自由”和我的年轻的德国朋友 Andre Lichtschlag 为“自由主义者 “Liberallala-Libertarians”。
 
 [^10]: Colin Robertson.
 
-[^11]: Which, of course, was the reason for having invited them here.
+[^11]: 当然，这是邀请他们来这里的原因。
 
-[^12]: Which is entirely compatible with libertarianism and its *desideratum* of freedom of association and opposition to forced integration.
+[^12]: 这是与自由主义及其关联和反对强制整合自由的希望完全兼容。
 
-[^13]: Which is antithetical to libertarianism and inimical to human prosperity.
+[^13]: 这是对立的自由主义和有害于人类的繁荣。
 
-[^14]: Let me hasten to add here that, despite my misgivings about his “economics,” I still consider Pat Buchanan a great man.
+[^14]: 让我在此补充一下，尽管我对他的“经济学”感到担忧，但我仍然认为 Pat Buchanan 是个伟人。
 
-[^15]: An endeavor, by the way, that has been ridiculed by Taki Theodoracopulos, a veteran champion of the paleo-conservative-turned-Alt-Right movement and Spencer’s former employer.
+[^15]: 努力，顺便说一句，这已被 Taki Theodoracopulos，一个古保守转向ALT权利运动和斯宾塞的前雇主的老牌冠军。
 
-[^16]: Many youngsters have been initially attracted to libertarianism believing that this “live and let live” is the essence of libertarianism.
+[^16]: 许多年轻人都是最初吸引自由主义认为“自己活也让别人活”是自由主义的本质。
 
-[^18]: Except as some idle intellectual play or mental gymnastics by a few “exotic” individuals.
+[^18]: 除了一些业余的智力游戏或一些“异国情调”的人的心理体操之外。
 
-[^19]: Whereas the least support should be expected to come from the legally most “protected” groups such as, for instance, single Black Muslim mothers on welfare.
+[^19]: 尽管最不受欢迎的群体应该来自法律上最受保护的群体，例如，单身黑人穆斯林母亲的福利。
 
-[^20]: Brief message to all open-border and liberallala libertarians, who will surely label this, you guessed it, “fascist”: In a fully privatized libertarian order there exists no such thing as a right to free immigration. Private property implies borders and the owner’s right to exclude at will. And “public property” has borders as well. It is not unowned. It is the property of domestic tax-payers and most definitely not the property of foreigners. And while it is true that the State is a criminal organization and that to entrust it with the task of border control will inevitably result in numerous injustices to both domestic residents and foreigners, it is also true that the State *does something* also when it decides *not* to do anything about border control and that, under the present circumstances, doing nothing at all in this regard will lead to even more and much graver injustices, in particular to the domestic citizenry.
+[^20]: 简短的信息全部开放边境，liberallala自由论者，他肯定会把这个，你猜对了，“法西斯”：在一个完全私有化的自由主义秩序有没有这样的东西作为一个权利自由移民。私有财产意味着边界和业主有权任意排除。“公共财产”也有边界。它不是无主。它是国内纳税人的财产，绝不是外国人的财产。虽然这是真的，国家是一个犯罪组织，委托其边境控制任务将不可避免地导致许多不公正的国内居民和外国人，这也是真实的，国家不也当它决定不做任何事和边境控制，在目前的情况下，什么都不做在这方面会导致更多和更严重的不公正，特别是国内的公民。
 
-[^21]: Query for liberallala-libertarians and the Stupids for Liberty, who are sure to object to this demand on the ground that the police asked to crush the “anti-fascist” mob are *State-_police: Do you also object, on the same grounds, that the police arrest murderers or rapists? Aren’t these legitimate tasks performed also in any libertarian order by _private* police? And if the police are not to do anything about this mob, isn’t it o.k. then that the target of its attacks, the “racist Right,” should take the task upon itself of giving the “social justice warriors” a bloody nose?
+[^21]: 为自由主义者和自由liberallala 笨蛋查询，谁会反对这种需求在地面上，警察要把“反法西斯暴徒是国家_police：你还对象，基于相同的理由，警察逮捕杀人犯或强奸犯？这不是合法执行的任务也在任何自由主义秩序的私有的警察吗？如果警察不想对这群暴徒采取任何行动，那么，它的攻击目标，即“种族主义权利”，是否应该承担起赋予“社会正义战士”一个流血鼻子的重任呢？

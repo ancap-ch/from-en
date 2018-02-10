@@ -57,6 +57,7 @@ We hope you enjoy!
 | pl | [Polish (Język polski)](https://drive.google.com/open?id=1C80huqY7CLxuiio7CEYcTR18w6SdWQFi) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/pl) | Proofreaders | [Channel](https://PL.ancap.ch) |
 | pt-BR | [Portuguese (Português) Brazil](https://drive.google.com/open?id=1IzBUzwfVgi1-TYnnJdOX3--HxG63jByh) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/pt-BR) | Proofreaders | [Channel](https://BR.ancap.ch) |
 | pt-PT | [Portuguese (Português) Portugal](https://drive.google.com/open?id=1YyoKO_ke61DkqxCL_ygIH89dDMo4K2HR) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/pt-PT) | Proofreaders | Channel |
+| ro | Romanian (Română) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ro) | Proofreaders | Channel |
 | ru | [Russian (Русский)](https://drive.google.com/open?id=1VC5YfgPSuKIkgbzhdxgLxpPSR-RPzcJ3) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ru) | Proofreaders | [Channel](https://RU.ancap.ch) |
 | th | Thai (ไทย) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/th) | Proofreaders | [Channel](https://TH.ancap.ch) |
 | tl | [Tagalog](https://drive.google.com/open?id=1oUlhwwnuSlKXsdnyBSx5RvGyb1WK6hW1) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/tl) | RuahTheKing | [Channel](https://PH.ancap.ch) |
