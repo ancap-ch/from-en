@@ -1,4 +1,3 @@
-
 ## Comportamiento Universalmente Preferible
 
 Como resultado de los argumentos anteriores, podemos ver que es imposible entrar en ningún debate sin aceptar la premisa de que ciertos comportamientos son *universalmente preferibles*.
@@ -74,6 +73,7 @@ La segunda pregunta que se debe hacer es: ¿existe alguna cosa como “comportam
 ### CUP: Cinco Pruebas
 
 Como discutimos anteriormente, la proposición de que *no existe tal cosa como el comportamiento preferible* contiene un número insuperable de problemas lógicos y empíricos. “El comportamiento universalmente preferible” *debe* ser un concepto válido, por cinco razones principales.
+
 
 La primera es lógica: si el argumento *en contra* de la proposición de que el comportamiento universalmente preferible es válido, ya he demostrado mi preferencia por la verdad sobre la mentira – así como una preferencia por corregir a esos que hablan falsamente. Decir que no existe el comportamiento universalmente preferible es como gritar en el oído de alguien que el sonido no existe – es naturalmente contradictorio. En otras palabras, si no existe *tal cosa* como el comportamiento universalmente preferible, entonces uno *debería* oponerse a cualquiera que reclame que existe tal cosa como el comportamiento universalmente preferible. Sin embargo, si uno *debería* hacer algo, entonces uno termina creando un comportamiento universalmente preferible. 
 
