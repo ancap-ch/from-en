@@ -24,77 +24,79 @@ Dahil ang mga tao ay maaaring gumaganap ng isang malapit na walang katapusang ib
 
 Kapag inilalapat namin ang simpleng katotohanang ito sa mga etikal na argumento, lumalabas kami sa ilang mga kagiliw-giliw na resulta.
 
-### Preferences And Arguments
+### Ang Kagustuhan At ang mga Argumento
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Ang pag-alaala sa aming pag-aaral sa itaas ng mga pagwawakas sa sarili na mga argumento, madali nating maunawaan ang salungat na katangian ng pahayag: "ang mga kagustuhan ay hindi umiiral." Dahil ang bawat pagkilos ng tao - kasama na ang paggawa ng mga salitang pilosopiko - ay pinili sa kagustuhan sa bawat iba pang posibleng aksyon, na ang mga kagustuhan ay hindi umiiral ay nangangailangan ng isang *kagustuhan* para sa arguing na ang mga kagustuhan ay hindi umiiral, na kung saan ay isang magkasalungat sa sarili na pahayag. Ang pagtatalo na ang mga kagustuhan ay hindi umiiral ay eksaktong katulad ng pagtatalo na ang wika ay hindi umiiral. Ito ay isang lubos na pagtatalo sa sarili.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+Dahil imposibleng kumilos nang hindi nagpapahayag ng isang kagustuhan - alinman sa tahasan o tahasang - sinuman na kumikilos ay tumatanggap ng saligan na umiiral na mga kagustuhan. Kaya imposibleng i-debate ang pagkakaroon ng mga kagustuhan nang hindi tinatanggap ang pagkakaroon ng mga kagustuhan.
 
-### Preferences And Universality
+### Ang Mga Kagustuhan At Kundisyon
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+Ang susunod na tanong ay nagiging: ang mga kagustuhan ay pulos lang pansarili, o maaari silang maging unibersal?
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+Maliwanag, ang ilang mga kagustuhan ay pansarili. Ang kagustuhan ng musika, personal na libangan, paboritong literatura at iba pa ay lahat ng pansarili at personal na kagustuhan.
 
-The challenge arises when we try to define some preferences as *objective*.
+Ang hamon ay lumitaw kapag sinusubukan naming tukuyin ang ilang mga kagustuhan bilang *layunin*.
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+Ang panukala sa harap natin ay kaya: *Maaari bang maging layunin ang ilang mga kagustuhan, ibig sabihin, unibersal?*
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+Kapag sinasabi ko na ang ilang mga kagustuhan ay maaaring maging layunin, hindi ko ibig sabihin na ang lahat ng mga tao ay sumusunod sa mga kagustuhan sa lahat ng oras. Kung ako ay magtatalo na *ang paghinga* ay isang layunin na kagustuhan, madali akong mababatay sa halimbawa ng mga nagpapatiwakal sa pamamagitan ng pagbitay sa kanilang sarili. Kung ako ay magtatalo na ang pagkain ay isang layunin na kagustuhan, ang aking argumento ay maaaring kontrahin sa mga halimbawa ng mga welga ng gutom at anorexia.
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
+Kaya kapag nag-uusap ako tungkol sa mga kagustuhan sa unibersal, pinag-uusapan kung ano ang *gusto* ng mga tao, hindi ang ginusto nila. Upang gumamit ng pang-agham na pagkakatulad, upang tunay na maunawaan ang uniberso, ang mga tao *ay dapat* gumamit ng pang-agham na pamamaraan - hindi ito nangangahulugan na palagi nilang ginagawa ito, yamang malinaw na bilyun-bilyong tao ang kumunsulta sa sinaunang mga engkanto tales kaysa modernong agham para sa "mga sagot." ay hindi isang paraan upang makamit ang katotohanan tungkol sa sansinukob na walang agham, ngunit ang mga tao ay ganap na malaya upang muling tukuyin ang "katotohanan" bilang "kamalian," at ang nilalaman ng kanilang mga sarili sa mistikong bagay na walang kapararakan.
 
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+Gayundin, kung nais ng isang lalaki na gamutin ang isang impeksiyon, *dapat* siyang kumuha ng mga antibiotics kaysa sa pagsasagawa ng pagsasayaw sa ulan ng Aztec. Ang kagustuhan sa pagkuha ng antibiotics kaysa sa paggawa ng rain dance ay unibersal, dahil ang pagsasayaw ay hindi maaaring gamutin ang mga impeksiyon. Kaya, bagama't may paminsan-minsang madman na susubukang magaling sa sarili sa pamamagitan ng pagsasayaw, *mas mainam pa rin* na kung nais ng isang tao na gamutin ang sarili, dapat siyang kumuha ng antibiotics.
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+Sa ibang salita, kung nais mong makapunta sa tuktok ng isang bundok, na nagnanais na hindi ito gagana. Kung nais mong malaman ang mga pinagmulan ng sansinukob, ang panalangin ay hindi magbibigay ng sagot. Ang mga tao ay nagnanais pa rin, at nananalangin, ngunit hindi na ito ay ginagawang mas epektibo o nagnanais na manalangin. Sa pag-iisip na ito, ipaubaya natin ang tanong kung ang mga kagustuhan sa unibersal ay maaaring balido.
 
-### Arguments And Universality
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+### Ang Mga Pangangatwiran At Pangkalahatang-ideya
 
-#### Premise 1: We Both Exist
+Kung pinili kong makipag-debate, tinatanggap ko ang malawak na iba't ibang mga lugar na nagkakahalaga ng paggugol ng ilang oras upang i-unpack dito.
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+#### Premise 1: Parehong Magkaroon kami
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+Kung pipiliin kong makipagtalastasan sa iyo, dapat kong tanggapin na kami ay parehong umiiral. Kung naniniwala na ako ay umiiral, ngunit hindi mo, pagkatapos ay ang debating ay walang kahulugan, at magiging pagkilos ng isang baliw. Kung magsisimula akong makipagtalo sa aking pagmuni-muni sa isang salamin, dapat akong ma-sedated, hindi debated.
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+#### Premise 2: Ang Diwa ay may Kapasidad Para sa Katumpakan
 
-#### Premise 3: Language Has The Capacity For Meaning
+Dahil ang mga tao ay hindi maaaring makipag-usap sa saykiko, lahat ng mga debate ay kinakailangang kasangkot ang katibayan ng mga pandama. Ang pagsusulat ay nangangahulugang paningin; nangangailangan ng pagdinig; Kinakailangan ng ugnayan ng Braille. Kaya ang anumang panukala na nakasalalay sa kawalang-bisa ng mga pandama ay awtomatikong magwawasak ng sarili.
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+#### Premise 3: Ang Lengguwahe ay may Kapasidad Para sa Kahulugan
 
-#### Premise 4: Correction Requires Universal Preferences
+Katulad ng dalawang premise, dahil ang lahat ng mga argumento ay nangangailangan ng wika, anumang panukala na nakasalalay sa saligan na ang wika ay walang kabuluhan ay agad na hindi pinagtutuunan. Ang paggamit ng wika upang magtaltalan na ang wika ay walang kahulugan ay tulad ng paggamit ng isang 	
+tagadala upang magpadala ng isang mensahe arguing na couriers hindi kailanman maghatid ng mga mensahe.
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+#### Premise 4: Ang pagwawasto ay nangangailangan ng mga Kagustuhan sa Universal
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+Kung itinatama mo ako sa isang pag-kakamali na ginawa ko, ikaw ay tanging tinatanggap ang katotohanan na ito ay *mas mabuti* para sa akin na iwasto ang aking pag-kakamali. Ang iyong kagustuhan para sa akin upang itama ang aking mga pag-kakamali ay hindi pansarili, ngunit layunin, at unibersal.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+Hindi mo sinasabi sa akin: "Dapat mong baguhin ang iyong opinyon sa akin dahil gusto ko ito," ngunit sa halip: "Dapat mong itama ang iyong opinyon dahil ito ay talagang hindi tama." Ang aking mga pag-kakamali ay hindi lumabas mula lamang sumasang-ayon sa iyo, ngunit bilang isang resulta ng aking pagsira mula sa isang layunin na pamantayan ng katotohanan. Ang iyong argumento na dapat kong iwasto ang aking maling opinyon ay nakasalalay sa layunin na halaga ng katotohanan - i.e. ang katotohanan na *higit na higit sa lahat* sa pagkakamali, at ang katotohanan ay *layunin sa lahat ng dako*.
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+#### Premise 5: Ang isang Layunin ng Layunin ay umiiral para sa paghiwalay ng katotohanan mula sa kasinungalingan
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+Kung hindi ka sumasang-ayon sa akin, ngunit sasabihin ko sa iyo na dapat kang sumang-ayon sa akin dahil lagi akong tama, malamang na hindi ka nasisiyahan sa mahigpit ng aking argumento. Kung nagbigay ka ng mga magandang dahilan kung bakit ako ay mali, ngunit pinananatiling paulit-ulit ko na tama ako sapagkat ako ay palaging tama, ang aming pakikipag-ugnayan ay maaaring bahagyang hindi ikinategorya bilang debate.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+Ang sandali na nagbibigay ako ng isang uri ng layunin na pamantayan para sa pagpapasiya ng katotohanan mula sa kasinungalingan, tinatanggap ko na ang katotohanan ay higit pa sa isang bagay na opinyon.
 
-#### Premise 6: Truth Is Better Than Falsehood
+Ito ay hindi nangangahulugang ang aking pamantayan sa layunin ay *lohikal* - Maaari kang sumangguni sa isang relihiyosong teksto, halimbawa. Gayunpaman, kahit na gagawin ko ito, tinatanggap ko pa rin na ang katotohanan ay isang bagay na dumating sa independyente ng tanging personal na pahayag - na ang isang layunin na pamamaraan ay umiiral para sa paghihiwalay ng katotohanan mula sa kasinungalingan.
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+#### Premise 6: Ang katotohanan ay mas mahusay kaysa sa kasinungalingan
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Kung sasabihin ko sa iyo na ang mundo ay patag, at tinutugon mo na ang mundo ay hindi patag, ngunit ikot, kung gayon ikaw ay ganap na pagtanggap sa paniniwala na ang katotohanan at kasinungalingan ay parehong umiiral na talaga, at ang katotohanang iyon ay mas mahusay kaysa sa kasinungalingan.
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+Kung sasabihin ko sa iyo na gusto ko ang tsokolate ice cream, at sasabihin mo sa akin na gusto mo ng banilya, imposible na "patunayan" na ang banilya ay mas mahusay kaysa sa tsokolate. Ang sandali na itinutuwid mo ako sa pagtukoy sa mga layunin *katotohanan*, tinatanggap mo na ang mga layunin sa katotohanan ay umiiral, at ang layunin ng katotohanan ay higit sa lahat ay higit na mabuti* sa pansamantalang pag-kakamali.
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+#### Premise 7: Ang Mahigpit na Pagdebate ay Ang Pinakamagandang Daan Upang Lutasin ang Mga Di-pagkakasundo
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Kung sasabihin ko sa iyo na ang mundo ay patag, at nag-hila ka ng isang baril at i-shoot sa akin, ito ay bahagya na magiging isang halimbawa ng isang produktibong debate. Totoo, ang aming hindi pagkakasundo ay "nalutas" - ngunit dahil isa lamang sa atin ang natitira na nakatayo sa dulo.
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+Kung sinabi mo sa akin nang maaga na makitungo ka sa anumang hindi pagkakasundo sa pamamagitan ng pagbaril sa akin, malamang na hindi ako makikipag-debate sa iyo. Sa gayon ay malinaw na ang anumang debate ay nakasalalay sa lubos na saligan na katibayan, dahilan, katotohanan at kawalang-kinikilala ay ang *mas pangkaraniwang mga* paraan ng paglutas ng mga pagtatalo sa pagitan ng mga indibidwal. Ito ay ganap na hindi makatwiran upang magtaltalan na ang mga pagkakaiba ng opinyon ay dapat malutas sa pamamagitan ng paggamit ng karahasan - ang tanging pare-parehong argumento para sa *halaga* ng karahasan ay ang paggamit ng karahasan.[^4]
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+Sa diwa, pagkatapos, ang debate ay nangangailangan ng isang layunin na pamamaraan, sa pamamagitan ng makabuluhang lengguwahe, sa pagtugis ng unibersal na katotohanan, na kung saan ay higit na may kapansanan sa personal na pagkakamali.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+Ang kagustuhang ito para sa unibersal na katotohanan ay hindi isang kagustuhan ng *antas*, ngunit ang *uri*. Ang isang shortcut na binabawasan ang iyong oras sa pagmamaneho sa pamamagitan ng kalahati ay dalawang beses bilang mabuting bilang isang mas matagal na ruta - ngunit ang pareho ay *walang katapusan mas mainam* sa pagmamaneho sa ganap na maling direksyon.
+
+Sa parehong paraan, ang katotohanan ay hindi lamang "mas mahusay" kaysa sa pagkakamali - ito ay *walang kahihinatnan*, o kinakailangan. 
 
 #### Premise 8: Individuals Are Responsible For Their Actions
 
