@@ -1,0 +1,13 @@
+## Prefacio a la Primera Edición
+
+El colapso del socialismo alrededor de Europa del Este—manifestados más dramáticamente por los eventos del ya memorable 9 de noviembre, 1989 cuando los alemanes del este y oeste, reunidos y llenos de regocijo, en la parte más alta del Muro de Berlin—ha agregado más apoyo e importancia a la tesis central de este volumen más allá de lo esperado.
+
+Aunque los estudios siguientes, tratan de temas de economía, tales como: empleo, dinero, banca, ciclos económicos, impuestos, bienes públicos, o el crecimiento; con problemas filosóficos como las fundaciones del conocimiento, y los económicos y éticos en particular; o la reconstrucción y la explicación teórica de fenómenos sociológicos tales como la explotación, el auge y la caída de las civilizaciones, política internacional, guerra imperialismo, el rol de ideas y movimientos ideológicos en el desarrollo de la evolución social—todos estos temas llevan a la misma conclusión: el derecho a la propiedad privada es un principio indubitablemente válido, un principio absoluto de la ética y la base para continuar un progreso económico "optimo". Para alzarse de entre las ruinas del socialismo y superar el estancamiento de los estados de bienestar, nada será suficiente, sin la privatización intransigente de todo lo estatizado, es decir, las propiedades el gobierno, y el establecimiento de una sociedad contractual basada en el reconocimiento absoluto de la propiedad privada.
+
+Al escribir los siguientes estudios recibí ayuda de varias personas. Agradecimientos especiales a mi esposa Margaret, que nuevamente se tomó la tarea de desgermanizar mi inglés; a Llewellyn H. Rockwell, Jr., presidente del Ludwig von Mises Institute, y a Burton S. Blumert, presidente del Center for Libertarian Studies, por su constante apoyo a mi trabajo; de igual forma a mi amigo David Gordon, por sus numerosas sugerencias y comentarios.
+
+Mi deuda más grande es para con Ludwig von Mises y Murray N. Rothbard, los dos economistas y filósofos de las ciencias sociales más grandes—aunque bastante olvidados—del siglo veinte. Aunque nunca conocí a Ludwig von Mises, y de hecho nunca oí hablar de él hasta su muerte, tengo la fortuna de haber estado asociado estrechamente con Murray Rothbard durante los últimos seis años, primero en Nueva York, y desde el año 1986, como colegas en la Universidad de Nevada, Las Vegas. Aparte de la deuda intelectual con él, las palabras no bastan para expresar mi gratitud personal. Su sabiduría, compresión, amabilidad, entusiasmo e incansable apoyo ha sido una inspiración constante para mí. Es por ello, que a él, está dedicado este volumen.
+
+Hans-Hermann Hoppe
+
+*Las Vegas, Nevada, 1993*

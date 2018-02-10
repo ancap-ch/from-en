@@ -1,0 +1,13 @@
+## Przedmowa do Pierwszego Wydania
+
+Upadek socjalizmu we wschodniej Europie—uzewnętrzniony najbardziej dramatycznie w wydarzeniach na zawsze pamiętnego 9 listopada 1989, kiedy Niemcy wschodnie i zachodnie zjednoczyły się, poruszyły i uszczęśliwiły, na szczycie Muru Berlińskiego— dodał więcej wsparcia i nagłości do głównej tezy tej części niż się spodziewałem.
+
+Czy poniższe badania dotyczą kwestii gospodarczych, takich jak zatrudnienie, odsetki, pieniądze, bankowość, cykle koniunkturalne, podatki, dobra publiczne lub wzrost; z problemami filozoficznymi jako podstawami wiedzy, a zwłaszcza ekonomii i etyki; lub rekonstrukcja i teoretyczne wyjaśnienie fenomenów historycznych i socjologicznych, takich jak wyzysk, wzrost i upadek cywilizacji, polityka międzynarodowa, wojna, imperializm, rola idei i ruchów ideologicznych w trakcie ewolucji społecznej - każdy z nich ostatecznie przyczynia się tylko do jednego Wniosek: Prawo do własności prywatnej jest bezspornie ważną, bezwzględną zasadą etyki i podstawą do ciągłego "optymalnego" postępu gospodarczego. Powstanie z ruin socjalizmu i przezwyciężenie stagnacji zachodnich państw opiekuńczych, nic nie wystarczy, ale bezkompromisowa prywatyzacja wszystkich zsocjalizowanych, czyli rządów, własności i ustanowienia społeczeństwa kontraktowego opartego na uznaniu absolutności prywatnej prawa własności.
+
+Pisząc poniższe opracowania otrzymałem pomoc z wielu stron. Specjalne podziękowania dla mojej żony Margaret, która ponownie podjęła się zadania od-germanienia mojego angielskiego; dla Llewellyn H. Rockwell, Jr., prezesa Instytutu Ludwiga von Misesa, do Burtona S. Blumert'a, prezydenta Centrum Studiów Liberalnych, za ich ciągłe wsparcie mojej pracy; i dla mojego przyjaciela Dawida Gordona, za jego liczne bezcenne sugestie i uwagi.
+
+Mój największy dług jest do Ludwiga Von Mises i Murray'a N. Rothbard'a, dwóch największych choć niedocenianych ekonomistów i filozofów społecznych dwudziestego wieku. Nigdy nie spotkałem Ludwiga Von Mises i rzeczywiście nie słyszałem o nim aż do jego śmierci. Jestem na tyle szczęśliwy, że byłem blisko związany z Murray'em Rothbard'em przez 6ostatnich lat, najpierw w Nowym Jorku i od 1986 jako koledzy na Uniwersytecie Nevada w Las Vegas. Oprócz intelektualnego długu, który jestem mu winien, słowa nie mogą wyrazić mojej osobistej wdzięczności. Jego mądrość, wgląd, życzliwość, entuzjazm i niesłabnąca chęć były dla mnie ciągłą inspiracją. Dlatego też dla niego ten wolumin jest poświęcony.
+
+Hans-Hermann Hoppe
+
+*Las Vegas, Nevada, 1993*

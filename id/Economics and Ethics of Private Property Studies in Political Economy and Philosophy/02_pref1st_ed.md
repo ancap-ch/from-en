@@ -1,0 +1,13 @@
+## Kata Pengantar untuk Edisi Pertama
+
+Runtuhnya sosialisme di seluruh Eropa Timur - seperti yang terwujud secara dramatis oleh peristiwa-peristiwa yang berlangsung selamanya 9 November 1989, ketika orang-orang Jerman Timur dan Barat bersatu kembali, bergerak dan gembira, di puncak Tembok Berlin - telah menambahkan lebih banyak dukungan dan urgensi ke tesis sentral dari buku ini daripada yang pernah saya harapkan.
+
+Apakah studi berikut menangani topik ekonomi seperti pekerjaan, bunga, uang, perbankan, siklus bisnis, pajak, barang publik, atau pertumbuhan; dengan masalah filosofis sebagai dasar pengetahuan, dan ilmu ekonomi dan etika khususnya; atau rekonstruksi dan penjelasan teoretis tentang fenomena historis dan sosiologis seperti eksploitasi, naik turunnya peradaban, politik internasional, perang, imperialisme, dan peran ide dan gerakan ideologis dalam perjalanan evolusi sosial - masing-masing pada akhirnya memberi kontribusi namun satu Kesimpulan: Hak atas kepemilikan pribadi adalah prinsip etika dan prinsip mutlak yang tak terbantahkan dan dasar untuk kemajuan ekonomi "optimal" yang kontinu. Untuk bangkit dari reruntuhan sosialisme dan mengatasi stagnasi negara-negara kesejahteraan Barat, tidak ada yang akan cukup kecuali privatisasi tanpa kompromi dari semua sosialisasi, yaitu pemerintahan, properti dan pembentukan masyarakat kontrak berdasarkan pengakuan akan absolutitas pribadi. hak milik.
+
+Dalam penulisan penelitian berikut saya mendapat bantuan dari banyak pihak. Terima kasih khusus kepada istri saya Margaret, yang sekali lagi mengambil alih tugas untuk mengubah bahasa Inggris saya; kepada Llewellyn H. Rockwell, Jr., presiden Institut Ludwig von Mises, dan Burton S. Blumert, presiden Pusat Studi Libertarian, atas dukungan mereka terhadap pekerjaan saya; dan kepada temanku David Gordon, atas berbagai saran dan komentarnya yang tak ternilai harganya.
+
+Utang terbesar saya adalah Ludwig von Mises dan Murray N. Rothbard, dua filsuf terbesar dan filsuf sosial terbesar yang terbengkalai-terbelakang sekalipun. Sementara saya tidak pernah bertemu dengan Ludwig von Mises, dan memang belum pernah mendengar namanya sampai setelah kematiannya, saya beruntung telah dikaitkan erat dengan Murray Rothbard selama enam tahun terakhir, pertama di New York City, dan sejak 1986 sebagai rekan di Universitas Nevada, Las Vegas. Terlepas dari hutang intelektual yang saya berutang padanya, kata-kata tidak bisa mengungkapkan rasa terima kasih pribadi saya. Kebijaksanaan, wawasan, kebaikan, antusiasme, dan dorongan tak henti-hentinya merupakan inspirasi terus-menerus bagi saya. Oleh karena itu, kepadanya bahwa buku ini didedikasikan.
+
+Hans-Hermann Hoppe
+
+*Las Vegas, Nevada, 1993*
