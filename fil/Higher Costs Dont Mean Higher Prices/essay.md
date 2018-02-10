@@ -10,7 +10,7 @@ Ang halimbawa naglalarawan ng paradox sa kung ano ang nangyayari sa ilegal na dr
 
 Ang problema kasama ang argumento iyan ba ay umaasa sa simpleng balanseng pagsusuri nasa pangangailangan-at-suplay ng mga modelo sa paggamit ng Econ 101 na kurso para sa unibersidad ng freshmen. At ito ay hindi talaga mag-apply dito. Nagkaroon ng pag-pipinta o ilegal na droga sa mga merkado nanggagaling sa balanse, doon maaaring talagang maging isang paradox. Pero ito ay matigas na kaso, *lalo na* sa mga merkado.
 
-Pati, sa isang estado ng pag-balanse ng gastos sa "perpektong" nagpapakita ng sosyal na oportunidad na mga gastos, at "perpektong" kumpetisyon magdadala ng presyo at gastos magkasama kaya't hindi isa ay kayang magkaroon ng ekonomiya na kita. Sa ibang salita, walang diperensya sa pagitan ng presyo at gastos. Mayroon, dahil dito, walang rason para dito sa teorya na makilala ang kaibahan sa pagitan ng pansamantala o sanhi \--- nagpakita sila maging determinado at tama. This is also how they are treated in various economics models that students learn to “maximize.”
+Pati, sa isang estado ng pag-balanse ng gastos sa "perpektong" nagpapakita ng sosyal na oportunidad na mga gastos, at "perpektong" kumpetisyon magdadala ng presyo at gastos magkasama kaya't hindi isa ay kayang magkaroon ng ekonomiya na kita. Sa ibang salita, walang diperensya sa pagitan ng presyo at gastos. Mayroon, dahil dito, walang rason para dito sa teorya na makilala ang kaibahan sa pagitan ng pansamantala o sanhi \--- nagpakita sila maging determinado at tama. Ito rin ay kung paano sila pakitunguhan sa modelo ng ekonomiya na mga estudyante matutong "i-maximize."
 
 # Price Drives Cost  — Not the Other Way Around
 
