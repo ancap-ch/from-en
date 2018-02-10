@@ -6,8 +6,8 @@
 
 في كتابة الدراسات التالية تلقي تعليمات من العديد من الجانبين. نتوجه بالشكر الخاص إلى زوجتي مارغريت، قاموا مرة أخرى بمهمة دي-جيرمانيزينج اللغة الإنجليزية؛ الى Llewellyn H. Rockwell, "، Jr"، رئيس Ludwig Von Mises معهد، وإلى Burton S. Blumeet، رئيس مركز "دراسات التحررية"، على مواصلة دعم عملي؛ وإلى صديقي David Gordon، لأن العديد من الاقتراحات لا تقدر بثمن والتعليقات.
 
-أكبر ديوني الى Ludwig Von Mises ميزس و Murray N. Rothbard، القرن الحادي والعشرين في اثنين من أكبر-على الرغم من أن الكثير من الاقتصاديين مهملة والفلاسفة الاجتماعية. While I never met Ludwig von Mises, and indeed had not heard of his name until after his death, I am fortunate to have been closely associated with Murray Rothbard for the past six years, first in New York City, and since 1986 as colleagues at the University of Nevada, Las Vegas. Apart from the intellectual debt that I owe him, words cannot express my personal gratitude. His wisdom, insight, kindness, enthusiasm, and unflagging encouragement have been a continuous inspiration to me. It is, therefore, to him that this volume is dedicated.
+أكبر ديوني الى Ludwig Von Mises ميزس و Murray N. Rothbard، القرن الحادي والعشرين في اثنين من أكبر-على الرغم من أن الكثير من الاقتصاديين مهملة والفلاسفة الاجتماعية. في حين أنني لم يلتق قط Ludwig Von Mises، وبالفعل لم أسمع عن اسمه حتى بعد وفاته، وأنا محظوظ أن ترتبط وثيقا Murray Rothbard على مدى السنوات الست الماضية، لأول مرة في مدينة New York، ومنذ عام 1986 كزملاء في جامعة Nevada, Las Vegas. وبصرف النظر عن الدين الفكري الذي أدين به، لا يمكن للكلمات أن تعبر عن امتناني الشخصي. وكانت حكمته والبصيرة، والعطف، والحماس، والتشجيع لا يفتر مصدر الهام مستمر بالنسبة لي. أنها، لذلك، عليه أن يكرس هذا الحجم.
 
-Hans-Hermann Hoppe
+Hans Hermann Hoppe
 
 *Las Vegas, Nevada, 1993*
