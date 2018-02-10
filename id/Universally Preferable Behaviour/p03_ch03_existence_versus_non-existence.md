@@ -1,6 +1,6 @@
-## Existence Versus Non-Existence
+## Keberadaan Versus Non-Eksistensi
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+Kami mendefinisikan "non-eksistensi" yang tidak memiliki massa atau energi, atau menampilkan efek massa atau energi, seperti bisa terdeteksi hubungan seperti gravitasi.
 
 God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
 
@@ -10,49 +10,50 @@ Thus if I say, “God exists,” what I am really saying is:
 
 In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+Demikian pula, jika saya membuat beberapa alternatif semesta di mana "non-eksistensi sama dengan keberadaan" dan "kontradiksi sama dengan konsistensi" dan "kebenaran sama dengan dusta" dan "irasionalitas sama dengan rasionalitas," lalu apa aku harus benar-benar dilakukan adalah membuat sebuah dunia yang disebut "kesalahan," meletakkan segala sesuatu di dalamnya yang tidak benar, dan didefinisikan alam ini sebagai tempat di mana "kesalahan yang sama dengan kebenaran.”[^2]
 
 Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
 
 They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+Jika valid pernyataan tentang realitas dapat tanpa henti lawan karena beberapa wilayah imajiner yang disebut "kesalahan yang sama dengan kebenaran" membatalkan mereka, maka apa yang benar-benar dikatakan "tidak ada pernyataan positif tentang kebenaran dapat berlaku" – namun, kita cukup bijaksana sebagai filsuf sekarang tahu bahwa ini adalah pernyataan yang kontradiksi-diri, karena itu adalah positif pernyataan dianggap benar yang mengatakan bahwa tidak ada pernyataan positif dapat menjadi kenyataan. Jika tidak ada yang bisa benar atau salah – bahkan bahwa pernyataan – maka tidak ada pernyataan apa pun yang dapat dibuat tentang apa pun. Menggunakan kata-kata, menggunakan bahasa inggris, menggunakan dipahami kalimat – semua tidak masuk akal sama sekali, karena dalam hal ini "alam semesta yang lain" seperti yang terstruktur ucapan dapat menjadi omong kosong. Jika hal-hal yang dapat menjadi kenyataan dalam alam semesta alternatif memiliki efek pada pernyataan-pernyataan yang kita buat di alam semesta ini, maka jelas sebaliknya juga benar, yang berarti bahwa tidak ada pernyataan yang dapat dibuat tentang apa-apa, karena mereka sebaliknya dapat sama-sama benar.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+Realitas sejati dari pernyataan "kesalahan yang sama dengan kebenaran" adalah tautologis kegilaan "nol sama dengan nol."
 
-### The "Alternate Universe" In Human Society
+### "Alam Lain" Dalam Masyarakat Manusia
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+Alasan bahwa kita telah menghabiskan begitu banyak waktu berhadapan dengan "dunia alternatif" teori adalah bahwa hal itu memiliki relevansi langsung terhadap masyarakat manusia, dan digunakan untuk "membenarkan" kejahatan terbesar yang dilakukan di antara kita.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+Dalam pengalaman pribadi kita sendiri, kita tahu bahwa pembunuhan itu salah. Dalam bekerja melalui proposisi bahwa pembunuhan adalah salah secara moral dalam contoh di atas, saya sangat meragukan bahwa siapa pun terkejut untuk memiliki moral mereka naluri dikonfirmasi melalui ketat penalaran abstrak dari UPB. Di bagian ini, namun, hal ini secara resmi diperbolehkan bagi anda untuk mulai menjadi benar-benar terkejut.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Terbesar lompatan maju dalam pemahaman ilmiah yang disebut "teori pemersatu." Einstein menghabiskan puluhan tahun mencoba untuk bekerja keluar unified field theory, dan teori-teori fisika yang bersatu yang kuat dan kekuatan lemah, elektromagnetik, gravitasi dan sebagainya tetap sulit dipahami.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+UPB sebagai kerangka kerja, namun, tidak hanya membenarkan moral kita naluri pada pribadi, filosofis dan universal tingkat – tetapi juga memiliki dampak dan implikasi mengejutkan bagi masyarakat manusia.
 
-#### UPB In Action
+#### UPB Dalam Tindakan
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+Kode UPB memvalidasi kerangka moral proposisi dengan menuntut bahwa mereka akan secara internal konsisten, dan universal dalam hal waktu, tempat dan individu.
 
-If we accept UPB, we must also accept the following corollary:
+Jika kita menerima UPB, kita juga harus menerima konsekuensi:
 
-- Moral propositions are independent of costume.
+- Proposisi Moral yang independen dari kostum.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Apa ini berarti adalah bahwa manusia tidak dapat mengubah sifat moralnya bersama dengan pakaiannya. Tindakan mengubah kostum seseorang tidak merubah salah satu sifat dasar. Dengan demikian menentang aturan-aturan moral tidak bisa berlaku berdasarkan pakaian yang satu memakai.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Tentara, tentu saja, memakai kostum yang berbeda dari rata-rata warga negara. Rata-rata warga dilarang untuk pembunuhan; tentara, namun, tidak hanya *diperbolehkan* untuk membunuh, tapi secara moral *memuji* untuk membunuh.
 
-Let’s take another example.
+Mari kita ambil contoh lain.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Pencurian adalah salah secara moral, seperti yang telah kita lihat di atas. Itu adalah salah secara moral untuk semua orang di semua situasi di segala waktu dan dalam segala keadaan. Sejak pencurian adalah pemindahan paksa orang lain tanpa persetujuan, maka perpajakan selalu, universal dan selamanya kejahatan moral. Perpajakan adalah dengan definisi pemindahan paksa milik orang tanpa persetujuan mereka, karena pajak bergantung pada inisiasi penggunaan kekuatan untuk strip seorang pria miliknya.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+Apa yang kita sebut "pemerintah" adalah hanya contoh lain dari ini *zona null* dimana naik turun, hitam putih, kebenaran adalah kebohongan dan kejahatan adalah baik.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Masyarakat berlangsung tepat untuk tingkat bahwa alasan dan bukti-bukti yang membuat lompatan besar dari pribadi ke universal, dan menghancurkan apapun yang tidak rasional *null zona* di jalan. Kemajuan ilmu pengetahuan sebenarnya untuk tingkat yang menolak irasionalitas dari Allah dan subjektif "mutlak." Obat berlangsung tepat untuk tingkat yang menolak khasiat dari doa dan ritual kosong, dan bukannya bergantung pada alasan dan bukti-bukti. Filsafat juga – manusia dan masyarakat pada umumnya – akan muka persis untuk tingkat yang menolak irasional "square-lingkaran moralitas" dari statis dan agama teori-teori etika.
 
-### Government
+### Pemerintah
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Mengatakan bahwa pemerintah beroperasi di bawah berlawanan dengan aturan-aturan moral dari seluruh masyarakat adalah persis sama dengan mengatakan, "leprechaun kebal terhadap gravitasi." Pertama-tama, leprechaun tidak ada – dan salah satu dari cara-cara di mana kita tahu bahwa mereka tidak ada adalah bahwa hal itu mengklaim bahwa mereka kebal terhadap gravitasi. Segala sesuatu yang memiliki massa tunduk pada gravitasi – yang kebal terhadap gravitasi dengan definisi tidak memiliki massa, dan oleh karena itu tidak ada. Pernyataan "leprechaun adalah kekebalan tubuh untuk gravity" adalah sebuah tautologi, yang hanya menegaskan non-keberadaan kafe – ini adalah semantik setara dengan "itu yang tidak ada, tidak ada." A adalah A, Aristoteles hukum pertama logika, tidak sedikit berharga untuk mengkonfirmasi keberadaan dari apa yang didefinisikan sebagai non-eksistensi.
+
 
 Dengan cara yang sama, ketika kita menyatakan bahwa secara moral yang baik bagi tentara untuk membunuh dan perwakilan pemerintah untuk mencuri, kita ketahui bahwa "tentara" dan "perwakilan pemerintah" sebagai kategori moral * benar-benar tidak sah *.
 
@@ -60,7 +61,15 @@ Jika saya menyatakan bahwa lingkaran yang persegi memiliki hak untuk mencuri, sa
 
 Jika saya yang membeli kostum prajurit di toko barang bekas, dan menaruhnya di atas, jelas saya belum menciptakan alam semesta alternatif dimana peraturan moral yang berlawanan dapat berlaku. Saat sebelum saya mengenakan kostum itu, salahkah saya untuk membunuh - kapan saya harus * membunuh? Kapan saya memakai celana? Bagaimana jika saya memakai celana panjangnya, tapi bukan rompinya? Bagaimana jika saya hanya mempunyai satu boot saja? Bagaimana jika kedua sepatu bot menyala, tapi hanya satu yang dicampur? Bagaimana jika topi saya terbalik? Bagaimana jika saya mengenakan seragam yang tidak dikenali orang pertama yang saya temui? Apakah Beatles secara tiba-tiba mempunyai hak untuk membunuh saat mereka menembak sampul "Sersan Peppers"? Apakah mereka kehilangan hak itu saat melepas jaket mereka?
 
+Dengan cara yang sama, ketika kita mengatakan bahwa itu adalah moral yang baik bagi prajurit untuk membunuh dan perwakilan pemerintah untuk mencuri, kita tahu bahwa "tentara" dan "wakil pemerintah" sebagai kategori moral yang *benar-benar valid*.
+
+Jika saya mengatakan bahwa lingkaran persegi memiliki hak untuk mencuri, saya hanya mengatakan bahwa apa yang tidak ada yang memiliki hak untuk melakukan apa yang kontradiksi-diri – murni pernyataan yang tidak masuk akal, tapi satu yang tetap aneh di "zona null" dari politik.
+
+Jika saya membeli prajurit kostum di toko tangan kedua, dan menaruhnya di atas, jelas aku tidak menciptakan alternatif semesta dimana berlawanan dengan aturan-aturan moral dapat berlaku. Saat sebelum saya menempatkan kostum, itu salah bagi saya untuk pembunuhan – kapan itu menjadi *benar* bagi saya untuk pembunuhan? Ketika saya memakai celana panjang? Bagaimana jika saya memiliki celana, tapi tidak rompi? Bagaimana jika saya hanya memiliki satu boot? Bagaimana jika kedua sepatu tersebut, tapi hanya satu yang dicampur? Bagaimana jika saya topi terbalik? Bagaimana jika saya telah mengenakan seragam yang tidak diakui oleh orang pertama yang saya temui? Apakah the Beatles tiba-tiba memiliki hak untuk membunuh ketika mereka ditembak penutup untuk "Sergeant Peppers"? Apakah mereka kehilangan hak itu ketika mereka melepas jaket mereka?
+
+
 Saya mengajukan sebuah pertanyaan retoris ini karena sebenarnya sangat serius. Jelas, kostum militer tidak akan mengubah sifat manusia, lebih dari sekedar potongan rambut mengubahnya menjadi bebek, konsep, atau tuhan.
+
 
 "Ah," anda mungkin berkata, "tapi kostumnya itu tidak benar karena anda memperdapatkannya di toko barang bekas - menggunakan seragam tentara tidak lagi membuat anda menjadi tentara daripada memfotokopi gelar doktor memberi anda gelar Ph.D."
 
@@ -102,25 +111,66 @@ Banyak orang berpendapat pada saat ini akan bahwa perpajakan tidak diberlakukan 
 
 Ini bisa jadi benar, tapi sama sekali tidak relevan. Jika saya memberi tahu seorang perempuan bahwa saya akan membunuh anak-anaknya jika dia tidak berhubungan seks dengan saya, dan dia menyerahkan diri kepada saya, kami mengerti dengan jelas bahwa tindakan tidak bermoral telah terjadi - walaupun saya tidak menggunakan senjata apapun dalam pelanggaran saya. Jelas, jika perempuan itu tunduk padaku, itu karena dia takut akan melakukan ancamanku. Jika saya mengatakan kepadanya bahwa hewan peliharaan saya akan membunuh anak-anaknya jika dia tidak berhubungan seks dengan saya, kemungkinan besar dia akan terganggu, tapi tidak akan takut akan ancaman saya dengan cara yang signifikan, karena tidak mungkin hewan peliharaan saya untuk membunuh. anak-anak dia. Atau, jika saya meninggal, dan surat wasiat saya menyatakan bahwa saya akan membunuh anak-anak perempuan ini jika dia tidak berhubungan seks dengan saya, jelas dia akan merasa lega daripada takut, karena saya tidak dapat membayangkan ancaman saya dari luar kuburan. Dengan demikian kita membayar pajak karena kita tahu bahwa jika tidak, kemungkinan akan diserang oleh perwakilan negara sangat tinggi. Jika saya tidak membayar pajak saya, saya akan mendapatkan sepucuk surat, kemudian surat lain, lalu telepon, lalu sebuah panggilan ke pengadilan - dan jika saya tidak hadir di pengadilan, atau tidak membayar pajak saya kembali dan mengumpulkan denda dan bunga , polisi akan datang membawa senjata untuk membawa saya ke penjara. Jika saya melawan polisi tersebut, mereka akan menembak saya.
 
-To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
+"Ah," anda mungkin berkata, "namun kostum ini tidak valid karena anda mendapatkannya di sebuah toko tangan kedua – mengenakan seragam prajurit tidak ada yang lebih membuat anda seorang prajurit dari fotokopi doktor memberi anda Ph.D."
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+Analogi adalah salah, karena memiliki Ph.D. atau fotokopi doktor tidak mengubah apapun dari aturan-aturan moral yang anda dikenakan sebagai manusia.
 
-The “null zone” is the lair of the beast we hunt.
+"Yah," anda mungkin menjawab, "tetapi perbedaannya adalah bahwa tentara memiliki hak moral yang diberikan kepadanya oleh warga rata-rata, untuk kepentingan kolektif membela diri dan sebagainya."
 
-As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
+Hal ini menimbulkan titik yang sangat menarik, yang merupakan pertanyaan apakah pendapat dapat mengubah kenyataan.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+### Pendapat Dan Kenyataan
 
-### Policemen
+Jelas, kita mengerti bahwa saya tidak bisa melalui pendapat saya melepaskan anda dari kekangan dari gravitasi, ada lebih dari pendapat saya bahwa "dua ditambah dua sama dengan lima" membuatnya benar.
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+"Pendapat" adalah keyakinan yang telah ada bukti yang jelas dalam realitas, atau yang tidak ada bukti yang jelas dapat disediakan, atau yang ada ekspresi hanya preferensi pribadi. Pendapat pribadi saya adalah bahwa saya lebih suka es krim coklat vanilla – aku juga mungkin memiliki "opini" bahwa Islandia adalah surga tropis, atau bahwa Allah itu ada, atau hujan yang jatuh ke atas. Pendapat pribadi jelas tidak ada hubungannya dengan moralitas; pendapat yang mengklaim untuk secara akurat menggambarkan kenyataan, tetapi yang tidak, hanya salah prasangka. Percaya bahwa hujan jatuh ke atas tidak mundur saja; mengenakan kemeja Hawaii ke Islandia tidak membuat Reykjavik hangat.
 
-Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
+Dengan demikian percaya bahwa pembunuhan adalah baik secara moral tidak melakukan pembunuhan secara moral baik. Karena keyakinan saya tentang manusia tidak mengubah sifat moral, keyakinan saya bahwa pembunuhan yang berbudi luhur tidak mengubah kebajikan dari tindakannya. Jika saya menutup mata dan membayangkan bahwa anda adalah kadal, anda tidak tiba-tiba kehilangan kemampuan untuk mengatur suhu tubuh anda sendiri. Membayangkan bahwa anda adalah ikan tidak memotong anda perlu untuk scuba gear.
 
-When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+Pendapat tidak mengubah kenyataan.
 
-Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
+Karena pendapat yang tidak mengubah kenyataan, saya tidak bisa memberikan anda setiap pengecualian atau pembalikan berkaitan dengan moral universal aturan. Sejak aturan-aturan moral yang didasarkan pada logika universal, serta sifat fisik dan realitas manusia, saya tidak bisa memberikan anda "hak untuk pembunuhan," ada lebih dari saya dapat memberikan anda kemampuan untuk melayang, berjalan di atas air atau akurat mengatakan bahwa dua tambah dua sama dengan lima.
+
+### Pemerintah Sebagai Voluntarisme
+
+Membuka kekuatan yang terlibat dalam lembaga pemerintah konseptual pembungkus yang membalikkan aturan-aturan moral untuk kelompok tertentu dari individu – adalah sesuatu yang selalu dijauhkan dari meja dalam perdebatan. Ketika berbicara tentang pemerintah, hal ini tidak pernah dianggap sebagai hal yang positif untuk menunjukkan "pistol di kamar." Hampir oleh definisi, pemerintah dianggap harus dipilih oleh dan untuk rakyat, dan untuk beroperasi dengan mereka yang dinyatakan atau tersirat persetujuan.
+
+Namun, ini adalah murni omong kosong.
+
+Jika seorang pria memegang pisau ke tenggorokan wanita saat berhubungan seks dengan dia, yaitu dengan definisi suatu tindakan pemerkosaan. Dia tidak bisa mengatakan bahwa seks adalah konsensual, sementara pada saat yang sama mengancam dirinya dengan cedera atau kematian jika dia menolak untuk berhubungan seks dengan dia. Jika seks adalah sukarela, maka pisau adalah benar-benar tidak perlu. Jika pria merasa perlu untuk pisau, seks adalah *tidak* sukarela.
+
+Dengan cara yang sama, orang-orang mengatakan bahwa perpajakan merupakan bagian dari kontrak sosial bahwa mereka telah secara sukarela setuju untuk.
+
+Ini adalah kedua secara logis dan empiris palsu.
+
+Kita tahu bahwa itu adalah secara empiris palsu karena *tidak ada kontrak sosial yang ada*. Baik anda maupun saya *pernah* menandatangani dokumen secara sukarela menyetujui untuk pajak penghasilan – kami hanya lahir dalam sistem yang mengambil uang kita dari kita pada titik pistol.
+
+### Pistol Didalam Kamar
+
+Banyak orang akan berpendapat pada titik ini bahwa pajak tidak diberlakukan pada titik pistol, melainkan bahwa orang-orang yang membayar secara sukarela. Misalnya, saya tidak pernah punya pistol menunjuk di wajah saya oleh pemungut pajak atau polisi, tapi saya telah membayar pajak selama beberapa dekade.
+
+Ini mungkin benar, tetapi itu adalah benar-benar tidak relevan. Jika saya memberitahu seorang wanita bahwa aku akan membunuh anak-anaknya jika dia tidak berhubungan seks dengan saya, dan dia menyerahkan dirinya untuk aku, kita jelas memahami bahwa tindakan tidak bermoral telah terjadi – meskipun saya tidak menggunakan senjata dalam pelanggaran. Jelas, jika wanita tunduk kepada saya, itu adalah karena dia takut bahwa saya akan melaksanakan ancaman-ku. Jika saya mengatakan kepadanya bahwa saya peliharaan leprechaun akan membunuh anak-anaknya jika dia tidak berhubungan seks dengan saya, dia akan sangat mungkin terganggu, tapi tidak akan takut kepada ancaman-ku dalam setiap cara yang signifikan, karena tidak mungkin untuk hewan peliharaan saya leprechaun untuk membunuh anak-anaknya. Atau, jika saya meninggal, dan saya akan menyatakan bahwa aku akan membunuh wanita ini anak-anak jika dia tidak berhubungan seks dengan saya, jelas dia akan merasa lega daripada takut, karena aku tidak bisa dibayangkan bertindak keluar saya ancaman dari kubur. Dengan demikian kita membayar pajak karena kita tahu bahwa jika kita tidak melakukannya, kemungkinan menjadi aggressed terhadap oleh perwakilan dari negara ini sangat tinggi. Jika saya tidak membayar pajak saya, saya akan mendapatkan sebuah surat, maka surat yang lain, maka panggilan telepon, maka surat panggilan ke pengadilan – dan jika aku tidak muncul di pengadilan, atau tidak membayar saya kembali pajak dan akumulasi denda dan bunga, polisi akan datang dengan senjata untuk membawa saya ke penjara. Jika aku melawan orang-orang polisi, mereka akan menembak saya turun.
+
+
+Untuk mengatakan bahwa gaya sama dengan voluntarisme adalah benar-benar tidak logis dan kontradiksi-diri. Untuk mengatakan bahwa inisiasi penggunaan kekuatan adalah benar-benar sama dengan non-inisiasi penggunaan kekuatan adalah untuk mengatakan bahwa naik turun, hitam putih, dan kebenaran adalah kebohongan.
+
+Tanpa "zona null," korup ini fiksi tidak dapat dipertahankan.
+
+"Zona null" adalah sarang dari binatang kita berburu.
+
+Seperti yang kita lihat, kita tahu bahwa secara pribadi itu adalah salah untuk mencuri; kami memiliki sedikit masalah dengan abstrak dan logis larangan pencurian, seperti yang kita telah bekerja di atas – namun masih ada ini "zona null" atau alam semesta alternatif di mana oposisi seperti dapat diterima tanpa pertanyaan atau kekhawatiran.
+
+Menurut UPB, itu salah bagi saya dan anda untuk mencuri. Namun entah bagaimana, dalam hal ini "zona null," hal ini tidak hanya diperbolehkan, tetapi juga sempurna *moral*, bagi orang lain untuk mencuri. Kita *tidak harus* mencuri – mereka *harus* mencuri. Itu adalah moral kegilaan!
+
+### Polisi
+
+Mari kita ambil kami teman baik Bob jauh dari kamar kecilnya moral teori pengujian dan mengembalikan dia ke aslinya pekerjaan sebagai polisi.
+
+Jelas, ketika Bob bangun di pagi hari, sebelum shift-nya, dia tidak bisa pergi ke rumah tetangga dan permintaan uang pada titik pistol, tidak peduli siapa yang mengatakan kepadanya bahwa itu semua benar.
+
+Ketika Bob memiliki sarapan, dia juga tidak menyerang tetangganya dan mengambil uangnya. Dalam perjalanannya ke tempat kerja – bahkan meskipun ia telah mengenakan seragam – dia tidak menekan lagi, dan dengan demikian tidak memiliki lebih banyak hak dari warga negara lain. Ketika dia pukulan di, namun, sekarang, seolah-olah tidak turun amoral tiang api dari langit, ia memperoleh kemampuan luar biasa untuk secara moral menyerang tetangganya dan mengambil uang mereka.
+
+Anehnya, ini adalah satu-satunya karakteristik yang telah benar-benar terbalik itu sendiri. Dia tidak bisa terbang, ia tidak dapat mengubah bentuk nya, ia tidak berhasil mencerna bantalan bola atau tinggal di neraka, ia tidak dapat menjalankan satu ribu kilometer per jam, dan dia tidak bisa berjalan melalui dinding bata. Dia benar-benar, benar-benar, benar-benar *orang yang sama seperti dia **sebelum** dia menekan* – namun sekarang, ia adalah subjek untuk benar-benar berlawanan dengan aturan-aturan moral.
 
 Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
 
