@@ -1,3 +1,4 @@
+
 Ṣíṣe déédéé ni abẹnu
 
 Ti mo bá jẹ ayàwòrán, ti mo sì gbé ètò ilé kíkọ kan kalẹ, nkán akọkọ ti mo gbọdọ borí ni wipe ṣe ilé mi yóò gba tabi ko ni gba kíkọ rárá. Ti mo ba gbé ètò iyanu kan kalẹ nipa ilé kan ti a kọ sí orí àdàlú ọṣẹ, mi ọ ni iṣẹ na ṣe, nígbàtí irú "ile" na ko le duro.
@@ -21,6 +22,7 @@ Ti a ba ti pinnu pé afárá náà yíò dúró, a le wá pinnu bóyá o ṣe d�
 Ninu agbègbè ọrọ ajé, odiwọn kànnà lo wa fún. Ti alààyè ọrọ ajé mi ba nilo ki idiyelé má lọ sókè ati isalẹ nígbà kannáà, ko le f'ẹsẹ múlẹ, nítorí pé èyí jẹ nkan ti kò ṣeéṣe. Ni kété ti aláayè mi ti gba àyẹwò fún déédéé abẹnu, Mo le bẹrẹ sí ní wa ẹrí, ati/tàbí bẹrẹ sí ní lò aláayè na lati ṣe asọtẹlẹ ìwúrí.
 
 Bayi, a le ríi pe èyíkéyìí alààyè, lat ni ìwúlò, yíò nilo awọn nkan wọnyii:
+
 1. Ṣíṣe déédéé abẹnu (iṣaro).
 2. Ṣíṣe déédéé n'ita (iṣeduro).
 
