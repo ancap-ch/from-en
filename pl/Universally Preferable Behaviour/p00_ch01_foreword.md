@@ -1,54 +1,54 @@
-## Przedmowa
+## 前言
 
-W wielu bajeczkach żyje straszliwa bestia o niesamowitej sile, smok lub bazyliszek, który tyranizuje okoliczne ziemie. Miejscowi wieśniacy drżą przed tym potworem; poświęcają swoje zwierzęta, płacą pieniądze i krew w nadziei uśmierzenia morderczych impulsów.
+在许多童话故事，有一个可怕的惊人力量的野兽，龙或蛇，这迫害霸占周围的土地。当地村民颤抖在这个怪物；他们牺牲了他们的动物，付出金钱和鲜血，希望平息其杀人的冲动。
 
-Większość ludzi kuli się pod cieniem tej bestii, nazywając ich strach "rozwagą", ale kilku - zgaduję, że pijanych sądząc po brawurze - decyduje się walczyć. Rok po roku, dekada po dekadzie, fala po fali pełnych nadziei bohaterów próbuje zmierzyć swoją siłę, zalety i spryt przeciwko temu okropnemu tyranowi.
+大多数人畏缩这野兽的阴影下，称自己的恐惧”的谨慎，但几–醉也许勇气或鲁莽–决定战斗。年复一年，十年后十年，一波又一波的希望捍卫者试图配合他们的实力、美德和狡猾对抗这个可怕的暴君。
 
-Spróbuj - i nie.
+尝试 -并失败。
 
-Bestia jest zawsze nieśmiertelna, więc wieśniacy nie mogą mieć nadziei, że uda im się uwolnić ich od despoty. Bestia nigdy nie jest racjonalna i nie ma zamiaru handlować, więc żadne negocjacje nie są możliwe.
+野兽永远不死，所以村民们不能指望时间来消灭他们的暴君。野兽从不理性，也不想交易，所以没有谈判是可能的。
 
-Jedyną nadzieją zdesperowanych wieśniaków jest pojawienie się człowieka, który może pokonać bestię.
+绝望的村民们唯一希望的是一个能打败野兽的人出现。
 
-Nieuchronnie, człowiek idzie naprzód, który uderza wszystkich jako zupełnie nie na miejscu. Jest stabilnym chłopcem, synem szewca, uczniem piekarza - a czasem tylko włóczęgą.
+不可避免地，一个人向前走，把每个人都看成是完全不协调的。他是一个稳定的男孩，一个鞋匠的儿子，一个面包师的学徒–或有时候只是一个流浪汉。
 
-Ta książka jest historią mojego osobistego ataku na taką właśnie bestię.
+这本书是我个人攻击这样一个野兽的故事。
 
-Ta "bestia" wierzy, że niemożliwe jest zdefiniowanie obiektywnego, racjonalnego, świeckiego i naukowego systemu etycznego. Ta "bestia" jest złudzeniem, że moralność musi na zawsze zaginąć w irracjonalnych bagnach bogów i rządów, wymuszonych jedynie z powodów pragmatycznych, ale na zawsze brakuje logicznego uzasadnienia i jasnej definicji. Ta "bestia" jest fantazją, że cnota, nasza największa radość, nasze najgłębsze szczęście, musi zostać odrzucona przez świeckich dorosłych i pozostawiona w prochu, aby można ją było zastraszyć, paradować i wyzyskiwać przez polityków i księży - i rodziców. Ta "bestia" jest przesądem, który - bez tyrady rodziców, znęcania się nad bogami lub działami rządów - nie może być ani racjonalny, ani dobry.
+这种“野兽”的信念是不可能定义一个客观的、理性的、世俗的和科学的道德体系。这种“野兽”是一种错觉，认为道德必须永远迷失在上帝和政府的不合理的沼泽中，仅仅出于实用主义的理由而强制执行，但永远缺乏逻辑的理由和明确的定义。这个“野兽”是幻想的美德，我们最大的喜悦，我们最深的幸福，必须抛开世俗的大人，和在尘土中被抓，游行和被政客和牧师–和父母。这个“野兽”是迷信，没有父母的长篇大论，欺负神或政府的枪，我们不能理性和良好的相信。
 
-Ta bestia sprowadziła wielu wielkich bohaterów, od Sokratesa po Platona, od Augustyna po Hume'a, od Kanta po Rand.
+这种野兽把许多伟大的英雄: Socrates、Plato、Augustine、Hume、Kant、Rand。
 
-Koszt dla ludzkości był ogromny.
+人类的代价是巨大的。
 
-Ponieważ nie potrafiliśmy zdefiniować racjonalnego systemu uniwersalnej moralności, byliśmy zmuszeni zadawać naszym dzieciom religijne opowieści o horrorze lub wręczać broń, więzienia i armie małemu monopolowi kontrolerów bezdusznych, którzy nazywają siebie "państwem"
+因为我们仍然无法确定合理的普遍的道德体系，我们不得不把宗教恐怖的故事对我们的孩子，或者把枪支，监狱和军队没有灵魂控制器自称“国家小垄断。
 
-Ponieważ to, co nazywamy "etyką", pozostaje subiektywne i jedynie kulturalne, nieuchronnie w końcu polegamy na znęcaniu się, strachu i przemocy w celu egzekwowania reguł społecznych. Ponieważ etyka nie ma racjonalnej podstawy metody naukowej, "moralność" pozostaje pogrążona w plemiennej wojnie o krwawe mitologie, każdy gang walczy z zębami i gwoździami o kontrolę nad przynależnością ludzi do "cnoty"
+由于我们所说的“伦理”仍然是主观的，只是文化的，我们不可避免地依赖于欺凌、恐惧和暴力来执行社会规则。由于伦理缺乏科学方法的理性依据，“道德”仍然深陷血腥神话的部族之争中，各个团伙为了控制人们对“美德”的忠诚而斗争。
 
-Nie możemy żyć bez moralności, ale nie możemy obiektywnie zdefiniować moralności - w ten sposób jesteśmy wiecznie skazani na opróżnianie życia pompatyczną hipokryzją, cyniczną dominacją lub pobożnym niewolnictwem.
+我们不能没有道德生活，但我们不能客观地定义道德 -因此我们永远谴责浮夸虚伪空虚，愤世嫉俗的优势或虔诚的奴隶。
 
-Intelektualnie nie ma wyższych stawek na świecie. Nasze nieumiejętne zdefiniowanie obiektywnych i racjonalnych zasad moralnych kosztowało setki milionów ludzi w wojnach religii i państw.
+理智上，世界上没有更高的赌注。在宗教和国家的战争中，我们没有界定客观和理性的道德规范，造成数亿人的生命损失。
 
-Pod wieloma względami stawka jest jeszcze wyższa.
+在许多方面，风险越来越大。
 
-Zwiększony przepływ informacji w Internecie wzbudził podejrzenia nowego pokolenia, że to, co nazywa się "cnotą", nie jest niczym więcej - ani mniej - niż samoobsługowe bajki ich obłudnych starszych. Pobożne kłamstwa opowiadane przez autorytety - i współudział tych, którzy je czczą - są teraz wyraźniejsze niż kiedykolwiek wcześniej.
+互联网信息流量的增加引发了新一代人的怀疑，所谓的“美德”不过是他们伪善的长辈的自私童话而已。那些当权者所说的虔诚的谎言—以及那些崇拜他们的人的共谋 — 现在比以前更清楚了。
 
-"Prawda" została ujawniona jako manipulacja; "Cnota" jako kontrola; "Lojalność" jako niewolnictwo, a to, co nazywa się "moralnością", zostało objawione jako śmieszne przedstawienie lalkowe, mające na celu oszukanie słabych i pełnych lęku ludzi do zniewolenia.
+“真理”被认为操纵；“德”作为对照；“忠诚”的奴隶，和所谓的“道德”被发现是一个可笑的木偶剧, 旨在欺骗软弱和恐惧的人们进行奴役。
 
-Ta realizacja zrodziła nowe pokolenie nihilistów, tak jak w dziewiętnastowiecznych Niemczech. Ci skrajni relatywiści rezerwują najbardziej żałosne ataki na każdego, kto twierdzi jakąkolwiek formę pewności. To postmodernistyczne pokolenie wyrosło z kulturowych bigoterii ich zbiorowej historii, ale teraz postrzega całą prawdę jako zwykłe uprzedzające twierdzenie. Podobnie jak szeroko rozstawione dzieci, które zostały okaleczone cyniczną "mądrością", postrzegają wszelką komunikację jako reklamę, wszelkie roszczenia jako propagandę i wszelkie adhortacje moralne jako obłudne kradzieże.
+这种认识催生了新一代的虚无主义者，就像在十九世纪德国一样。这些极端的相对主义者保留最尖刻的攻击的人谁声称任何形式的确定性。这种后现代的一代不再有他们的集体历史文化的偏见，但现在看来所有的真理仅仅是偏见的断言。像睁大眼睛的孩子一样，他们被视为愤世嫉俗的“智慧”，他们把所有的沟通看作是广告，所有的宣传都是宣传，都是虚伪的道德规劝偷窃。
 
-Ponieważ nie mamy zgody co do spójnych, obiektywnych i racjonalnych ram oceny wartości moralnych, "moralność" pozostaje pogrążona w mistycyzmie i nieuchronnym następstwie przemocy. Tak jak przed oświeceniem, sekty religijne walczyły nieustannie o kontrolę nad ostrzami arystokracji, więc teraz konkuruj z moralnymi mitologicznymi wojnami o kontrolę nad państwem i całą jego machinę przymusu.
+由于我们对一个有凝聚力的、客观的、合理的道德命题评估框架没有达成一致，所以“道德”仍然陷入了神秘主义，而且是不可避免的必然结果。同样，到启蒙运动之前，宗教派别为了控制贵族阶层而无休无止地争夺战争，所以现在做竞争的道德神话战争对国家的控制，和所有的机械强迫。
 
-Tak więc moralność pozostaje w stosunku do współczesnej nauki, podobnie jak średniowieczna "astronomia" dla współczesnej astronomii - sfery wyimaginowanej mitologii, wymuszonej przez opowiadanie, groźby, przymus i wyzysk - która aktywnie blokuje prawdziwy postęp w kierunku prawdy.
+因此，相对于现代科学而言，道德仍然存在，正如中世纪“天文学”对现代天文学所做的那样 -通过讲故事，威胁，强迫和剥削而实施的想象神话的领域，- 它积极阻止任何朝向真理的真正进展。
 
-Ta "bestia" relatywistycznej etyki wyłania się ponad nami, żerując na nas, usprawiedliwiając podatki, więzienie, cenzurę i wojny. Zniewala młodych w państwowych szkołach i niedzielnych ławkach; usidla ubogich w łagodnych gułagach dobrobytu; zniewolił nawet nienarodzonych w bezdennych studniach narodowych długów.
+这个“野兽”的相对论伦理上织机，捕食我们，调整税收、监禁、审查和战争。它在州立学校和星期天的长椅上奴役年轻人；它诱捕穷人福利软营；它奴役甚至出生在国家债务的无底洞威尔斯。
 
-Jak napisałem w mojej poprzedniej książce "O prawdzie: Tyrania iluzji", najbardziej podstawowym kłamstwem w centrum niesprawdzonych teorii etycznych jest to, że takie teorie są zawsze przedstawiane dzieciom jako obiektywne i niepodważalne fakty, podczas gdy w rzeczywistości są one jedynie kulturowe bigoterie. Ponieważ naukowcy nie potrzebują rządu ani Watykanu, naukowcy mają obiektywną metodologię rozwiązywania sporów: metodę naukową. Powodem, dla którego język nie potrzebuje centralnego organu do kierowania jego ewolucją jest to, że opiera się on na "wolnym rynku" zgromadzonych indywidualnych preferencji dotyczących stylu i użyteczności.
+正如我在以前的书中写道，“在真相：幻觉的暴政，“在未经证实的伦理理论的中心最基本的谎言就是这样的理论总是呈现给孩子以客观、确凿无疑的事实，当事实上他们仅仅是文化偏见。科学家不需要政府或梵蒂冈的原因是科学家有一个客观的方法来解决争端： 科学方法。语言不需要一个中央权威来指导其演变，其原因在于它依赖于积累的个人偏好的“自由市场”，即风格和效用。
 
-Powodem, dla którego współczesna moralność - i moralność w historii - zawsze musiała polegać przede wszystkim na znęcaniu się nad dziećmi, a następnie na zagrożeniu dorosłych, jest to, że jest manipulacyjnym kłamstwem podszywającym się pod prawdę cnotliwą.
+现代道德–道德在历史上–一直在欺负孩子依赖的原因，然后对威胁大人，是操纵谎言伪装成一个良性的真理。
 
-Prawdą jest, że potrzebujemy moralności; kłamstwo jest takie, że bogowie lub rządy mogą racjonalnie definiować lub słusznie je egzekwować.
+事实上，我们需要道德，谎言是上帝或政府可以合理地定义或公正地执行它。
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+我在这本书中的目标是定义一种方法来验证道德理论是客观的、一致的、清楚的、合理的、经验性的和真实的。
 
 I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. W pełni rozumiem, że szanse, że jakiś facet w Internecie - domowy szaleńcy - w jakiś sposób rozwiązały filozoficzny problem wieków, nie są szczególnie wysokie - w rzeczywistości są tak bliskie zeru, że praktycznie nie można ich odróżnić. z tego.
 
