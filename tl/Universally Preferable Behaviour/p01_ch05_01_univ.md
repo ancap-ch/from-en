@@ -1,50 +1,50 @@
-## Universally Preferable Behaviour
+## Ang Higit pa sa Pinagmumulan ng Pag-uugali
 
-As a result of the above arguments, we can see that it is impossible to enter into any debate without accepting the premise that certain behaviours are *universally preferable*.
+Bilang resulta ng mga argumento sa itaas, makikita natin na imposible na pumasok sa anumang debate nang hindi tinatanggap ang saligan na ang ilang mga pag-uugali ay *mas maganda sa buong mundo*.
 
-I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
+Ginagamit ko ang salitang "pag-uugali" rito sa halip na "pag-iisip" sapagkat mahalaga ang pagkakaiba sa pagitan ng panloob at hindi maitutuwid na mga estado tulad ng "pag-iisip" mula sa mga layunin at napapatunayan na mga estado tulad ng "kumikilos," "pagsulat" at "pagsasalita."
 
-It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant,” which is why I use the word “behaviour” rather than “thought.”
+Ito ay imposible upang patunayan na pinangarap ko ang isang elepante kagabi. Posible upang patunayan na isinulat ko ang salitang "elepante," kaya nga ginagamit ko ang salitang "pag-uugali" sa halip na "pag-iisip."
 
-Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+Ang pagkilala sa pinaka mataas na lohiko sa isang argumento ay isang *pagkilos*. Kung, sa tuwing nakikiusap ako sa iyo ng isang punto sa iyo, wala akong sinabi, ngunit sa halip ay tinitigan mo na lamang, masusumpungan mo ito sa halip na magagalit sa pagtatalo sa akin. Upang makamit ang isang punto, dapat kong gawin ang pagkilos ng pandiwang pagtanggap.
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+Sa gayon ay makikita na, ang likas na pagkilos ng pag-aresto ay isang bilang ng mga naka-embed na lugar na hindi maaaring maiiwasang ibalik.
 
-If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+Kung hihilingin ko sa iyo na makilala ako sa tennis court, at magpakita ng isang rifle ng pangangaso, maaari tayong mag-play ng isang uri ng sport, ngunit tiyak na hindi ito magiging tennis. Kapag hiniling ko sa iyo na makilala ako sa tennis court para sa isang laro, ang pahayag sa kahilingan na iyon ay isang pagtanggap sa mga panuntunan ng tennis.
 
-Historically, those engaged in ethical debating have often failed to maintain this basic reality.
+Sa kasaysayan, ang mga nakikipag-debate sa etika ay madalas na nabigo upang mapanatili ang batayang katotohanang ito.
 
-I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
+Hindi ako maaaring magsumite ng isang pang-agham na papel na isinulat sa sarili kong sariling lengguwahe, na nag-aangkin na ito ay sinisi ng aking saykiko na goldpis, at inaasahan na maging seryoso. Sa katulad na paraan, hindi ako makapagsimula ng isang pilosopiko na debate sa etika sa pagtukoy sa aking sariling mga personal na halaga, at sinasabing ang lahat ng aking mga argumento ay napatunayan na ni Trixie ang marunong at mahuhusay na leprechaun, at inaasahan na maging seryoso.
 
-The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
+Ang tunay na pagkilos ng debating ay nangangailangan ng pagtanggap ng pag-uugali ng universally preferable (UPB). Walang paraan upang makatugon sa isang makatwirang argumento *nang walang* exhibiting UPB.
 
-Let us now turn to a series of positive proofs for UPB.
+Ipaalam sa amin ngayon sa isang serye ng mga positibong patunay para sa UPB.
 
-### UPB And Validity
+### Ang UPB at ang kabisaan
 
-One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
+Ang isa sa mga sentral na hamon na nahaharap sa mga modernong pilosopo ay ang pangangailangan na patunayan na ang mga alituntunin sa moral ay parehong posible at unibersal. Hanggang sa ang mga patakaran ng moral ay maaring mapasailalim sa parehong hirap at lohika tulad ng anumang iba pang mga proposisyon, magpakailanman ay maiiwasan tayo ng subjectivism, pampulitikang pagkiling at ang praktiko "argumento mula sa epekto."
 
-The closest historical analogy to our present situation occurred in the fifteenth and sixteenth centuries, during the rise of the scientific method. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
+Ang pinakamalapit na pagkakatulad sa kasaysayan sa ating kasalukuyang sitwasyon ay nangyari sa ikalabinlimang at labing-anim na siglo, sa panahon ng pagtaas ng pang-agham na pamamaraan. Ang mga naunang pioneer na nagtataguyod ng isang makatuwiran at praktikal na diskarte sa kaalaman ay nakaharap sa parehong mga prejudices na kinakaharap natin ngayon - lahat ng parehong mga irrationalities, entrenched kapangyarihan ng simbahan at estado, mystical at subjective "absolutes" at unang bahagi ng mga hadlang sa edukasyon. Yaong mga nagtaguyod ng kahalagahan ng pagkamakatwiran at pagmamasid sa obserbasyon sa pundamentalismo ng Krismas at sa mga sekular na tyrannies ay nahaharap sa determinadong pagsalungat sa mga naghawak ng parehong krus at tabak. Marami ang pinahirapan sa kamatayan dahil sa kanilang intelektwal na katapatan - mas nakakaapekto tayo sa panganib, at dapat maging mas matapang sa pagtataguyod kung ano ang *totoo* sa kung ano ang pinaniniwalaan.
 
-In order to attack false moralities, we must start from the beginning, just as the first scientists did. Francis Bacon did not argue that the scientific method was more “efficient” than prayer, Bible texts or starvation-induced visions. He simply said that if we want to understand nature, we must observe nature and theorise logically – and that there is *no other* route to knowledge.
+Upang ma-atake ang mga maling moralidad, kailangan naming magsimula sa simula, tulad ng ginawa ng mga unang siyentipiko. Hindi sinalungat ni Francis Bacon na ang pang-agham na pamamaraan ay mas "mabisa" kaysa sa panalangin, mga teksto ng Bibliya o mga pangitain na hinimok ng gutom. Sinabi lang niya na kung gusto nating maunawaan ang kalikasan, dapat nating obserbahan ang kalikasan at makatuwirang lohikal - at *walang ibang* ruta sa kaalaman.
 
-We must take the same approach in defining and communicating *morality*. We must begin using the power and legitimacy of the scientific method to prove the validity and universality of moral laws. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
+Dapat nating gawin ang parehong diskarte sa pagtukoy at pakikipag-usap *moralidad*. Dapat nating umpisahan ang paggamit ng kapangyarihan at pagiging lehitimo ng pang-agham na pamamaraan upang patunayan ang pagiging wasto at pangkalahatan ng mga batas sa moralidad. Dapat tayong magsimula mula sa umpisa, lohikal na itayo at tanggihan ang *anumang* hindi makatwiran o di-empirikal na mga pamalit para sa katotohanan.
 
-What does this look like in practice? All we have to do is establish the following axioms:
+Ano ang hitsura nito sa pagsasanay? Ang kailangan lang nating gawin ay itatag ang sumusunod na mga axiom:
 
-- Morality is a valid concept.
-- Moral rules must be consistent for all mankind.
-- The validity of a moral theory is judged by its consistency.
+- Ang moralidad ay isang wastong konsepto.
+- Ang mga patakaran ng moral ay dapat na maging pare-pareho para sa lahat ng sangkatauhan.
+- Ang bisa ng isang moral na teorya ay hinuhusgahan ng pagkakapare-pareho nito.
 
-To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
+Upang simulan mula pa sa simula ... ang mga tuntunin ng moralidad - o higit na napapakinabangan ng mga pag-uugali ng tao - wasto sa lahat?
 
-There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
+Mayroong dalawang mga posibilidad lamang pagdating sa mga patakaran ng moral, tulad ng sa anumang lohikal na agham. Ang alinman sa mga alituntunin sa moral na unibersal ay wasto, o hindi.[^6]
 
-A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
+Ang isang panuntunan ay maaaring balido kung may *empirically*, tulad ng gravity, o dahil ito ay *totoo*, tulad ng ekwasyon ng dalawa dagdagan ng dalawa na katumbas ng apat.
 
-We must then first ask: do moral rules exist at all?
+Dapat nating itanong muna: ang umiiral ba na moral na mga tuntunin?
 
-Certainly not in material reality, which does not contain or obey a single moral rule. Moral rules are different from the rules of physics, just as the scientific method is different from gravity. Matter innately obeys gravity or the second law of thermodynamics, but “thou shalt not murder” is nowhere inscribed in the nature of things. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. A theory of gravity proves that if you push a man off a cliff, he will fall. It will not tell you whether you *should* push him or not.
+Tiyak na hindi sa materyal na katotohanan, na hindi naglalaman o sumunod sa isang moral na tuntunin. Iba't ibang mga panuntunan sa moral ang mga tuntunin ng pisika, tulad ng kaibahan ng agham kaysa sa gravity. Ang mahalaga ay sumusunod sa gravity o ang ikalawang batas ng termodinamika, ngunit "hindi ka dapat pagpatay" ay wala pang nakasulat sa likas na katangian ng mga bagay. Ang mga pisikal na batas *ay naglalarawan* ng pag-uugali ng bagay, ngunit hindi naglalaman ng isang * reseta *. Sinasabi ng Science na ang bagay *ay* kumikilos sa isang tiyak na paraan - hindi na ito *dapat* kumilos sa isang tiyak na paraan. Ang teorya ng gravity ay nagpapatunay na kung itulak mo ang isang tao mula sa isang talampas, siya ay mahuhulog. Hindi ito sasabihin sa iyo kung dapat mong itulak siya o hindi. (FINISHN)
 
 Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
 
