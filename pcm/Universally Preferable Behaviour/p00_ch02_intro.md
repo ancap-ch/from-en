@@ -42,55 +42,55 @@ Crossing dis “null zone” dey plenty wit gobe. D road from dem shikini truths
 
 Go “crossing the null zone” by force - or to seamlessly carry d shikini truths wit d great truths togeda - for sure e go dey hard and gobe? Na very big challend to caryy togeda d perpetual wit d conceptual for a straight line of logical reasoning - but *must* dis progress come take plenty years wey reach thousands and plenty plenty blood so?
 
-If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
+If we look at dem technological and economic increase of man pikin, we go see plenty or small a flat line for millenia wey dem no fit count, wey be say na boku and asymptotic spikes follow am for d few hundred years wey pass. E dey somehow say some genetic mutation wey spread for evry evry fit be say na im cause for dis sharpaly and biggy biggy acceleration of intellectual consistency dem and dem material success. Theories wey dey claim say na one kyn “snowball effect” na im com into existence, wey com mysteriously propel by dem accumulation of all d shikini increments of knowledge wey don dey since d tym of civilisation, fit just forget am out of hand say na *ex post facto* explanations dem, since dem no get predictive value.
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+If we grab say our potential wey dey shake don dey for use for tens of thousands of years dem - and say boku profit dey and boku pleasure wen u dey exercise am - den e go com clear say we really *do* wan use our minds wey dey amazing.
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+So dia go be a force wey dey drag tin down wey don dey for old tym to crush and make im enslave d natural liberty of man pikin.
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+For dem science realm so, e no too hard to see d oppressive forces wey dey put our mind for near-primeval ignorance. D combination of supersition wey carry rreligion form, and kasala wey carry aristocracy form,threatened normal tinkers dem wit intimidation, imprisonment, torture, and peme. Just as a farmer dey profit from d shikini brain wey im cows get, and person wey get slave dey profit from d fear wey dey im slaves mind, dem prists and kings dey retain dia privileges by threatening say anyone wey tink go peme.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+D simple truth be say “priests” and “kings” be - and dem be - ordinary men. D simple truth be say dem gods and devils wey suppose justify dia rule no exist at all. 
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+We don make great strides to grab d nature and d reality of simple man pikin equality, but d tin wey dey pain for d matter na say d realm of *morality* still dey lost for “null zone” - for d destructive illusions of d “middle truths.”
 
-### "Middle Truths"
+### "Truths wey dey Middle"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+Make we call dem oppositional principles wey dey reside for d “null zone” – wey dey middle of sense perception and conceptual consistency - d “truths wey dey middle.” 
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+Dis “truths wey dey middle.” na d illusions wey dey gobe pass, because dey grant d *appearance* of truth wey be say na *attacking* d truth dem dey actually do. 
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+By giving d illusion say we don sabi d truth, “truths wey dey middle.” dey actually stop us to get am for d truth. Na dem be d last line of defence for dem fantasy, predation and to dey use person brain.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Since no be only craze dem be, but *anti*-normal, “truths wey dey middle.” go everly dey flexible - as long say dem dey serve dose wey dey power. Make we look dis now, Christianity small part com from d growing fascism of d Roman empire wey don go so by lashing out at d “primitive” superstitions of dem existing theologies. “Forget ur old gods dem, we don get tear rubber God wey beta pass una own!”   
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+“Truths wey dey middle” dey always take truth form , den na lie go follow. “Zeus na pagan superstition im be” na true talk, wey be say na for public dem Christian proselytisers voice am. D lie wey follow am na: “Yahweh no be pagan superstition, but na confam and God wey dey live.”
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+We fit personalise dis one shikini wit example wey evry evry go sabi especially person wey don counsell a dysfunctional padi. “My boyfriend wey pass na real jerk,” she go say, and you go sharp sharp accept am. “My new boyfriend dey really *great* though,” she go add, and u no go wan roll ur eyes.
 
-It is very hard not to replace one illusion with another.
+E dey hard to replace one illusion wit anoda.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+“D British government just dey oppress!” na im d American revolutionaries dey shout for d eighteenth century - and after dey don pursue d British troops dem, dey com start dia own government and com dey attack dia own country people dem. 
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+“Aristocracy na unjust abomination!” na im d oda revolutionaries dey shout, na who com start d oppression of dem majority wey com for democracy form.
 
-“Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
+“Truths wey dey middle” fit dey for science too, and similarly stop d natiral increase from d shikini truth reach d great truths dem. Until d eighteenth century, make we look dis now, dem biologists dey believe in “spontaneous generation,” or d idea say lyf fit comot for somtin wey no get lyf. Dem neva observe am o, for sure, but e dey same wit dem old writings dem both dem philosphical and religious, and so dem accept am say na fact. Also before d Einsteinian revolution for 1905, dem believe say light fit move through somtin wey no dey move, and wey u no fit see wey dem dey call “luminiferous ether,” just as dem sound waves dey move through air so. No scientists wey believe dis theory get any empirical evidence for dis “ether,” make e be personally or na scientifically - but dem see am say e dey necessary to conform wit dem oda characteristicss wey dem fit see.
 
-Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+Religion na anoda “truth wey dey middle” too - one of dem gobe ones/ Na true say we be special species for dis universe, as far wetin we sabi. A girrafe tall pass 4 time of man pikin, but man no be only “smarter” primate, but somtin dey we just different. D nature of dat difference na im dem no sabi. - d religious explanation of “we no be d same lyk dem animals because say we get soul and na God create us” Religion self na anoda “truth wey dey middle.” Na true say we no be d same wit dem animals. No be true say na God create us and say we get soul.
 
-Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+Just as some parasites dem no fit get root until dem gaz remove dem parasites wey been dey dia before, “truths wey dey middle” dey attck only dem illusions wey don pass *so dey fit come collect dia place*. Dose wey no too believe d fantasies wey pass are drawn to d new fantasy, So na so Christianity com displace paganism dem, Marxism com displace Christianity dem, post-modernism com displace Marxism, democracy displace aristocracy dem, and na so e dey go.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+Until dem achieve d greath truths, and com join am wit d shikini truths, “truths wey dey middle” go just be a rotating phalanx of exploitive and destructive falsehoods dem - wey dem design specifically to stop wetin great truths wan achieve.
 
-And the great truths are always achieved from the little truths.
+And dem great truths na from dem shikini truths dem dey achieve am.
 
-The world falls because a rock falls.
+D world falls because say a rock falls.
 
-### "Middle Truths" And Exploitation
+ ### “Truths wey dey middle” And To dey use person brain
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+Biologically, parasitism na wholly a survival strategy wey dey possible for plenty creatures dem.  As ethical norms no dey, to dey steal energy and resources from oda creatures dem dey perfectly sensible. in evry evry, d type parasitism wey dey sustainable and stable pass na *symbiosis*, or somtin wey both tin wey dey dia dey enjoy. So d bacteria wey dey our intestine dey helep us digest d food wey we chop and e dey helep dem dey alive.
 
-However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+However, a virus wey dey always leave us to dey tire, and wey na small we no peme, no fit to dey call am “Somtin wey both tin dey enjoy.” If we tink am for d long and grim old tori of disaster, starvation, war, disease and no money - make we com compare am wit d astounding material success for now - e dey clear say one form of parasitism dey tyrannise our mind and capacities for millenia dem. For d few hundred years wey don pass don show d power and d creativity wey dey d man pikin spirit, we fit see our species say na organism wey don comot parasite wey bad, and don comot from deathbed wey be like for lyf com perform astounding feats for gymnastics dem.
 
 When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
 
