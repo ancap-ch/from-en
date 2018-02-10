@@ -1,4 +1,3 @@
-
 Ṣíṣe déédéé ni abẹnu
 
 Ti mo bá jẹ ayàwòrán, ti mo sì gbé ètò ilé kíkọ kan kalẹ, nkán akọkọ ti mo gbọdọ borí ni wipe ṣe ilé mi yóò gba tabi ko ni gba kíkọ rárá. Ti mo ba gbé ètò iyanu kan kalẹ nipa ilé kan ti a kọ sí orí àdàlú ọṣẹ, mi ọ ni iṣẹ na ṣe, nígbàtí irú "ile" na ko le duro.
