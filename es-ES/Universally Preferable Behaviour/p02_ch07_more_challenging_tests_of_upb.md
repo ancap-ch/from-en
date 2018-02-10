@@ -6,7 +6,7 @@ En cualquier caso, aún quedan muchas pruebas morales que quedan fuera de los ej
 
 ### Autodefensa
 
-El concepto de autodefensa no debe ser tomado a la ligera. Si suponemos que no existe algo como la autodefensa, o que dicha autodefensa no es una acción valida nunca, el esquema de UPB deshace esa suposición rápidamente.
+El concepto de autodefensa no debe ser tomado a la ligera. Si suponemos que no existe algo como la autodefensa, o que dicha autodefensa no es una acción valida nunca, el esquema de CUP elimina esa suposición rápidamente.
 
 Si no existe la autodefensa, entonces no se está hablando de la iniciación o la represalia del uso de la fuerza, sino más bien del uso de la fuerza en cualquier contexto. En otras palabras, si nos deshacemos del concepto de la autodefensa, la única pregunta que hay que hacernos es: *¿es universalmente preferible usar la fuerza, o no?*
 
@@ -14,7 +14,7 @@ Si fuera universalmente preferible usar la fuerza, entonces ningún ser humano p
 
 Adicionalmente, si siempre es preferible el uso de la fuerza, entonces crímenes como la violación y los asesinatos se vuelven irrelevantes, ya que es siempre es preferible el uso de la fuerza, entonces hacer el amor se vuelve inmoral, y las violaciones se vuelven morales – pero solo los violadores, mientras *se sometan* a la violencia, más que la violencia misma, se vuelve moral para su víctima, lo cual es una contradicción.
 
-Si, por otro lado, decimos que la violencia está mal, abrimos la posibilidad de la autodefensa. Si UPB afirma que "la violencia está mal", sabemos que, ya que lo malo puede ser prevenido a través del uso de la violencia, entonces usar la violencia en *contra* de la violencia es moralmente valido.
+Si, por otro lado, decimos que la violencia está mal, abrimos la posibilidad de la autodefensa. Si la CUP afirma que "la violencia está mal", sabemos que, ya que lo malo puede ser prevenido a través del uso de la violencia, entonces usar la violencia en *contra* de la violencia es moralmente valido.
 
 Así, ya que sabemos que la violencia está mal, también sabemos que se puede usar la fuerza en contra de la violencia. Si definimos una acción como malvada, pero también evitamos que alguien haga algo en su contra, entonces ya dejamos de ser filósofos morales y nos convertimos en arqueólogos de juicio. Esto puede ser parecido a una teoría médica que dice que las enfermedades son malas, pero que es malvado intentar curarlas - lo que puede no tener sentido en absoluto.
 
@@ -26,7 +26,7 @@ La autodefensa no puede ser "malvada", ya que lo malvado, por definición, puede
 
 La autodefensa tampoco puede ser un comportamiento *requerido*, ya que los comportamientos requeridos ("no violar") pueden ser reforzados con la violencia, lo que puede significar que alguien que falle en defenderse violentamente pueda ser agredido legítimamente. Sin embargo, alguien que falle al defenderse está siendo agredido, y así terminamos un una situación circular en la cual todos pueden agredir legítimamente a una persona que no se defienda a sí misma, lo cual no es solo ilógico sino moralmente aborrecible.
 
-Si Bob ataca a Doug, pero está completamente errado que Doug use la violencia para defenderse, entonces la violencia termina en dos categorías morales – el inicio de la fuerza está moralmente bien, pero la autodefensa está moralmente mal, lo cual no puede ser de acuerdo las CUP.
+Si Bob ataca a Doug, pero está completamente errado que Doug use la violencia para defenderse, entonces la violencia termina en dos categorías morales – el inicio de la fuerza está moralmente bien, pero la autodefensa está moralmente mal, lo cual, de acuerdo la CUP, no puede ser.
 
 Sin embargo, usted puede argumentar, ¿la proposición de que la autodefensa es buena también puede hacer a la violencia buena y mala al mismo tiempo? – ¿la violencia que es usada para atacar está mal, pero la violencia que se usa en la autodefensa está bien?
 
@@ -40,7 +40,7 @@ Instintivamente, generalmente entendemos que hay algo que está muy mal con los 
 
 Por supuesto, nuestra ofensa no es de ningún modo un argumento moral, pero es un inicio excelente para probar una teoría moral.
 
-Anteriormente, cuando hablamos de CUP, notamos que, en el lugar de las excepciones, debe haber una diferencia objetiva en la biología. O, para darle más precisión, donde hay diferencias objetivas biológicas, debe haber excepciones racionales o diferencias en las CUP. Un niño de cinco años tiene un cerebro y sistema nervioso biológicamente inmaduro, y por eso no puede procesar racionalmente las consecuencias a largo plazo de sus acciones. La clave aquí es el cerebro inmaduro, en la medida en la que un hombre adulto tiene retraso hasta el punto en el que su cerebro es equivalente al de un niño de cinco años, entonces el mismo tendrá responsabilidad reducida por sus acciones.
+Anteriormente, cuando hablamos de CUP, notamos que, en el lugar de las excepciones, debe haber una diferencia objetiva en la biología. O, para darle más precisión, donde hay diferencias objetivas biológicas, debe haber excepciones racionales o diferencias en la CUP. Un niño de cinco años tiene un cerebro y sistema nervioso biológicamente inmaduro, y por eso no puede procesar racionalmente las consecuencias a largo plazo de sus acciones. La clave aquí es el cerebro inmaduro, en la medida en la que un hombre adulto tiene retraso hasta el punto en el que su cerebro es equivalente al de un niño de cinco años, entonces el mismo tendrá responsabilidad reducida por sus acciones.
 
 Thus when we point to situations of reduced responsibility, we are not *taking away* responsibility that exists, but rather recognising a situation where responsibility does not exist, at least to some degree. If I say that a man in a wheelchair cannot take the escalator, I am not taking away his right to take the escalator, but merely pointing out that he cannot, in fact, use it. When I say that UPB does not apply to the actions of a five year old, I am not saying that UPB is subjective, any more than a height requirement for a roller coaster somehow makes the concept of “tall” subjective.
 
