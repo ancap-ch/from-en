@@ -6,7 +6,7 @@ Ang Diyos ay Hindi nag tataglay ng mass o lakas, o ipakita ang mga epekto ng mas
 
 Kaya Kung sinasabi ko, " Diyos ay umiiral," Ang talagang sinasabi ko ay:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+"*Ang umiiral ay dapat detectable; Ang Diyos ay hindi na dedetectable, pero ang Diyos ay nabuhay - samakatuwid ito ay Hindi umiiral, mga umiiral.*"
 
 In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
 
