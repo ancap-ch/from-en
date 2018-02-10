@@ -188,56 +188,56 @@ Jika saya tidak berpikir bahwa saya kompeten untuk membuat keputusan saya sendir
 
 Baik saya mampu membuat keputusan yang kompeten, atau saya tidak. Jika *saya* mampu membuat keputusan yang kompeten, kemudian menundukkan diri kepada kekuatan untuk sisa hidup saya adalah tidak valid. Jika saya *tidak* mampu membuat keputusan yang kompeten, maka keputusan saya untuk subjek sendiri untuk memaksa untuk sisa hidup saya ini juga tidak valid.
 
-Even if the above considerations are somehow bypassed, however, it is still impossible to justly enforce a social contract through a government. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+Bahkan jika atas pertimbangan entah bagaimana dilewati, namun, hal ini masih mungkin untuk adil menegakkan kontrak sosial melalui pemerintah. Jelas, saya tidak bisa menandatangani kontrak pada *anda* nama, atau pada anak-anak saya nama, yang akan mengikat anda atau mereka untuk sisa waktu. Saya tidak bisa beli mobil, mengirimkan tagihan, dan adil menuntut bahwa anda membayar. Jika saya mengklaim kekuatan untuk memaksakan sepihak kontrak pada anda, UPB juga memberikan *anda* kekuatan ini, dan sehingga anda hanya akan kembali kontrak kepada-ku dalam nama-ku.
 
-In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
+Dengan cara yang sama, bahkan jika saya memilih untuk membayar pajak secara sukarela, saya tidak bisa adil memaksakan pilihan kepada anda, karena sukarela kontrak adalah hanya preferensi pribadi, dan tidak dapat diberlakukan secara universal melalui kekerasan.
 
-### The Necessity Of The State?
+### Perlunya Negara?
 
-This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
+Seluruh pertanyaan menjadi lebih menggelikan ketika kita melihat yang paling umum moral "pembenaran" untuk kekuatan pemerintahan yang demokratis, yang didasarkan pada "kehendak mayoritas."
 
-First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
+Pertama-tama, "akan" adalah aspek individu, sementara "mayoritas" adalah konseptual tag untuk kelompok. "Mayoritas" tidak bisa lagi memiliki "akan" dari "garis paduan suara" dapat "melahirkan." Jika anda meragukan hal ini, hanya mencoba membangun sebuah rumah pohon dengan konsep "hutan" daripada dengan setiap individu potongan-potongan kayu.
 
-Two additional objections constantly recur whenever the question of the necessity of a government arises. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
+Tambahan dua keberatan yang terus terulang setiap kali pertanyaan tentang perlunya pemerintah muncul. Yang pertama adalah bahwa masyarakat bebas adalah hanya mungkin jika orang-orang yang sangat baik atau rasional – dengan kata lain, bahwa warga negara *perlu* terpusat pemerintah karena ada orang-orang jahat di dunia.
 
-The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Citizens can protect themselves against evil individuals, but stand no chance against an aggressive government armed to the teeth with police and military might. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
+Yang pertama dan paling jelas masalah dengan posisi ini adalah bahwa jika orang-orang jahat yang ada di masyarakat, mereka juga akan ada dalam pemerintah dan menjadi jauh lebih berbahaya sehingga. Warga dapat melindungi diri terhadap kejahatan individu, tetapi tidak berdiri kesempatan melawan agresif pemerintah bersenjata dengan polisi dan militer. Dengan demikian argumen bahwa kita perlu pemerintah karena orang-orang jahat yang ada adalah palsu. Jika orang-orang jahat ada, pemerintah *harus* dibongkar, karena kejahatan orang-orang akan tertarik untuk menggunakan kekuatannya untuk tujuan mereka sendiri – dan, tidak seperti swasta preman, orang-orang jahat di pemerintah, polisi dan militer untuk menimbulkan keinginan mereka yang tidak berdaya (dan relatif dilucuti) populasi. Dengan demikian argumen ini mirip dengan gagasan bahwa "pemalsu sangat berbahaya, jadi kita harus memberikan monopoli eksklusif atas pemalsuan untuk sekelompok kecil individu." Di mana di bumi yang orang-orang pikir pemalsu akan pergi lebih dulu?[^5]
 
-Logically, there are four possibilities as to the mixture of good and evil people in the world:
+Logikanya, ada empat kemungkinan sebagai campuran dari baik dan orang jahat di dunia:
 
-1. All men are moral.
-2. All men are immoral.
-3. The majority of men are immoral, and a minority moral.
-4. The majority of men are moral, and a minority immoral.[^6]
+1. Semua manusia adalah moral.
+2. Semua laki-laki yang tidak bermoral.
+3. Mayoritas laki-laki yang tidak bermoral, dan minoritas moral.
+4. Mayoritas laki-laki moral, dan minoritas tidak bermoral.[^6]
 
-In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
+Dalam kasus pertama (*semua laki-laki moral*), pemerintah jelas tidak diperlukan, karena kejahatan tidak ada.
 
-In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+Dalam kasus kedua (*semua laki-laki yang tidak bermoral*), pemerintah tidak akan diizinkan untuk ada untuk satu alasan sederhana. Pemerintah, hal ini umumnya berpendapat, harus ada karena ada orang-orang jahat di dunia ini yang menginginkan untuk menimbulkan bahaya, dan yang hanya dapat terkendali melalui ketakutan dari pemerintah retribusi (polisi, penjara, *et al*). Akibat wajar dari argumen ini adalah bahwa kurang retribusi ini orang-orang takut, banyak kejahatan yang akan mereka lakukan.
 
-However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
+Namun, pemerintah *sendiri* tidak tunduk pada kekuatan atau retribusi, tetapi adalah hukum bagi dirinya sendiri. Bahkan di negara-negara demokrasi Barat, berapa banyak polisi dan politisi masuk penjara?
 
-Thus if evil people wish to do harm, but are only restrained by force, then society can *never* permit a government to exist, because evil people will work feverishly to grab control of that government, in order to do evil and avoid retribution. In a society of pure evil, then, the only hope for stability would be a state of nature, where a general arming and fear of retribution would blunt the evil intents of disparate groups. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
+Dengan demikian jika orang-orang jahat yang hendak melakukan kejahatan, tapi hanya tertahan oleh kekuatan, maka masyarakat dapat *tidak pernah* izin pemerintah untuk ada, karena orang-orang jahat akan bekerja tergesa-gesa untuk mengambil kontrol dari pemerintah, dalam rangka untuk melakukan kejahatan dan menghindari retribusi. Dalam masyarakat dari kejahatan murni, maka, satu-satunya harapan untuk stabilitas akan keadaan alam, di mana seorang jenderal mempersenjatai dan merasa takut akan tumpul maksud jahat dari kelompok yang berbeda. Seperti halnya antara negara bersenjata nuklir, "keseimbangan kekuatan" keturunan perdamaian.
 
-The third possibility is that *most* people are evil, and only a few are good. If that is the case, then the government also cannot be permitted to exist, since the majority of those in control of the government will be evil, and will rule despotically over the good minority. Democracy in particular cannot be permitted, since the minority of good people would be subjugated to the democratic control of the evil majority. Evil people, who wish to do harm without fear of retribution, would inevitably control the government, and use its power to do evil free of the fear of consequences.
+Kemungkinan ketiga adalah bahwa *paling* orang-orang jahat, dan hanya sedikit yang baik. Jika itu terjadi, maka pemerintah juga tidak akan diizinkan untuk ada, karena mayoritas orang-orang di kontrol dari pemerintah akan menjadi jahat, dan yang akan memerintah despotically lebih baik minoritas. Demokrasi pada khususnya tidak akan diizinkan, karena minoritas dari orang-orang yang baik akan ditundukkan untuk kontrol demokratis dari kejahatan mayoritas. Orang-orang jahat, yang ingin melakukan kejahatan tanpa takut pembalasan, pasti akan kontrol pemerintah, dan menggunakan kekuatannya untuk melakukan kejahatan bebas dari rasa takut dari konsekuensi.
 
-Good people do not act morally because they fear retribution, but because they love virtue and peace of mind – and thus, unlike evil people, they have little to gain by controlling the government. In this scenario, then, the government will inevitably be controlled by a majority of evil people who will rule over all, to the detriment of all moral people.
+Orang-orang yang baik tidak bertindak secara moral karena mereka takut pembalasan, tapi karena mereka mencintai kebajikan dan ketenangan pikiran – dan dengan demikian, tidak seperti orang-orang jahat, mereka memiliki sedikit keuntungan dengan mengendalikan pemerintah. Dalam skenario ini, maka pemerintah pasti akan dikendalikan oleh mayoritas orang-orang jahat yang akan memerintah di atas semua, sehingga merugikan semua orang bermoral.
 
-The fourth option is that most people are good, and only a few are evil. This possibility is subject to the same problems outlined above, notably that evil people will always want to gain control over the government, in order to shield themselves from just retaliation for their crimes. This option only changes the *appearance* of democracy: because the majority of people are good, evil power-seekers must lie to them in order to gain power, and then, after achieving public office, will immediately break faith and pursue their own corrupt agendas, enforcing their wills through the police and the military.[^7] Thus the government remains the greatest prize to the most evil men, who will quickly gain control over its awesome power – to the detriment of all good souls – and so the government cannot be permitted to exist in this scenario either.
+Opsi keempat adalah bahwa sebagian besar orang-orang yang baik, dan hanya sedikit yang jahat. Kemungkinan ini adalah subjek yang sama masalah yang diuraikan di atas, tampak jelas bahwa orang-orang jahat akan selalu ingin mendapatkan kontrol atas pemerintah, dalam rangka untuk melindungi diri dari pembalasan atas kejahatan mereka. Opsi ini hanya perubahan *penampilan* demokrasi: karena sebagian besar dari orang-orang yang baik, kekuatan jahat para pencari harus berbohong kepada mereka dalam rangka untuk mendapatkan kekuasaan, dan kemudian, setelah meraih jabatan publik, akan segera menghancurkan iman dan mengejar mereka sendiri korup agenda, menegakkan kehendak mereka melalui polisi dan militer.[^7] dengan Demikian pemerintah tetap hadiah terbesar untuk sebagian besar orang-orang jahat, siapa yang akan dengan cepat mendapatkan kontrol atas kekuatan yang mengagumkan – untuk merugikan semua jiwa yang baik – dan sehingga pemerintah tidak dapat diizinkan untuk ada dalam skenario ini.
 
-It is clear, then, that there is no situation under which a government can logically or morally be allowed to exist. The only possible justification for the existence of a government would be if the majority of men are evil, but all the power of the government is always controlled by a minority of good men.[^8]
+Jelas, kemudian, bahwa tidak ada situasi di mana pemerintah dapat secara logis atau secara moral diperbolehkan untuk eksis. Hanya mungkin pembenaran untuk keberadaan pemerintah akan jika mayoritas laki-laki yang jahat, tetapi semua kekuasaan pemerintah selalu dikontrol oleh minoritas orang-orang yang baik.[^8]
 
-This situation, while interesting theoretically, breaks down logically because:
+Situasi ini, sementara menarik secara teoritis, memecah logis karena:
 
-1. The evil majority would quickly outvote the minority or overpower them through a coup;
-2. There is no way to ensure that only good people would always run the government; and,
-3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
+1. Kejahatan mayoritas akan cepat outvote minoritas atau mengalahkan mereka melalui kudeta;
+2. Tidak ada cara untuk memastikan bahwa hanya orang-orang yang baik akan selalu menjalankan pemerintahan; dan,
+3. Sama sekali tidak ada contoh dari hal ini pernah terjadi di salah satu brutal sejarah dari sejarah negara.
 
-The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
+Logis selalu membuat kesalahan dalam pertahanan pemerintah untuk membayangkan bahwa setiap kolektif moral penilaian yang diterapkan untuk setiap kelompok orang *tidak juga diterapkan untuk kelompok yang memerintah atas mereka*. Jika lima puluh persen dari orang-orang jahat, maka *setidaknya* lima puluh persen dari orang-orang yang berkuasa atas mereka juga jahat.[^9] dengan Demikian keberadaan kejahatan tidak pernah dapat membenarkan adanya suatu pemerintahan.
 
-If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
+Jika tidak ada kejahatan, pemerintah tidak perlu. Jika kejahatan itu ada, pemerintah terlalu berbahaya untuk akan diizinkan untuk ada.
 
-Why is this error so prevalent?
+Mengapa kesalahan ini begitu umum?
 
-There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+Ada sejumlah alasan, yang hanya dapat dibahas di sini. Yang pertama adalah bahwa pemerintah memperkenalkan diri kepada anak-anak dalam bentuk guru sekolah umum yang dianggap otoritas moral. Dengan demikian *moral* dan *otoritas* pertama terkait dengan pemerintah – sebuah asosiasi yang kemudian diperkuat melalui tahun grinding pengulangan.
 
 The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
 
