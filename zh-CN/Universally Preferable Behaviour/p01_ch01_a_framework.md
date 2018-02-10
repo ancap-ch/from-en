@@ -1,46 +1,46 @@
-## A Framework For Ethics
+## 道德伦理框架
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+道德伦理主张不同于其他类型的知识陈述。如果我说，“我喜欢爵士乐”，这可能是一个真实或错误的陈述，但它通常不被视为对你有任何约束力。我对爵士乐的偏爱只是个人喜好的陈述；基于我的陈述，你不必喜欢或不喜欢爵士乐。
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+同样，如果我说“我喜欢蔬菜”，那也仅仅是个人偏好的陈述。然而，如果我说“蔬菜是健康食品”，那么我已经从个人喜好的陈述转变为客观事实陈述。这就是“我喜欢冰淇淋”和“冰淇淋含有牛奶”的区别。
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+偏好陈述和事实陈述之间的根本区别在于，事实陈述是客观的、可检验的和有约束力的。如果你重视真理，你有义务接受一个事实，即一旦证明冰淇淋，牛奶就含有牛奶。[^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+如果我说地球是圆的，我为这个陈述提供了充分的证据，那么就不再由你自己来决定这个陈述是否属实。如果我能证明地球是圆的，那么就不再由你自己来决定这个陈述是否属实，除非你愿意拒绝理性和证据作为真理的标准。
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+如果我接受数学定律的有效性，我就不能武断地否定符合这些规律的数学证明。如果我拒绝接受这样的证明，我不能再声称接受数学法则的有效性。我接受这些法律意味着我必须接受那些符合这些法律的证据。拒绝符合理性标准的证据是对整个理性标准的拒绝。
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+科学方法、理性本身和数学规律都是确立命题真理性的客观标准的范例。不是我的观点，二加二等于四，如果你也接受二加二等于四，那么你就不会将自己置于纯粹的意见之外，而是置身于一个理性的事实。
 
-### Objective Truth
+### 客观真相
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+理解真理本质的一个主要挑战是认识到“真理”并不存在于世界上，就像岩石或树木一样。
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+“真理”这个概念必然是一个相对的术语，但这并不意味着主观或任意的术语。“健康”这个概念也是一个相对术语 - 我们将“健康”与疾病以及相对健康标准进行比较。对于90岁的人来说，被认为是“健康”的东西几乎不被认为是120岁老人的健康。长寿的定义现在比五百年前大不一样了。
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
+然而，这并不意味着“健康”的概念是完全相对的和主观的。根据任何定义，10岁的白血病死亡是不健康的 - 正如一位二十岁的马拉松选手在任何定义下都是健康的。目前，一个活到九十岁的人在统计上有很长的寿命，但如果医疗技术突然允许我们活到二百岁，这种情况就会改变。
 
-As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
+随着我们对“健康”的定义的扩展，它并没有使早期的定义失效，而是扩展了它们。如果医疗技术进步，让九十岁的年轻人赢得马拉松，随着我们对“健康”的定义扩大，它不会使先前的定义无效，而是将其扩展。如果医疗技术进步让90岁的人赢得马拉松，那么我们对老年人健康状况的定义将会改变 - 但这并不意味着这位二十岁的马拉松运动员突然变得不健康了。学习代数不会使算术失效。
 
-Truth also has value relative to necessity as well. Newtonian physics has been supplanted by Einsteinian physics, which has proven far more accurate in extreme situations such as extraordinarily high gravity or speed. However, sailors wishing to calculate the correct path across an ocean find Newtonian physics more than accurate enough. You wouldn’t want to send a spaceship to Alpha Centauri using Newtonian physics, but it is totally fine for getting a ship from Lisbon to New York. The labour involved in learning and implementing Einsteinian physics is thus a net negative for a sailor.
+真理也有必要的价值。牛顿物理学已由爱因斯坦物理取代，这已被证明在极端情况下，如非常高的重力和速度更准确。然而，希望计算海洋中正确路径的水手们发现牛顿物理学的精确度不够准确。你不会想用牛顿物理学将宇宙飞船发送给阿尔法半人马座，但是从里斯本到纽约的船只是完全正确的。因此，参与学习和实施爱因斯坦物理的劳动力对于水手来说是净负面的。
 
-As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+作为一个结果，一句“牛顿物理学比爱因斯坦物理不太准确，但牛顿物理学是计算船舶路径的最佳方式”这句话可以被认为是一个有效的命题。因此，牛顿物理学既不准确，也更恰当。
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+如果我们想喝最纯净的水，我们可能会支付几千美元每瓶。除非我们是非常富有和极度轻浮，否则我们永远不会付出太多的代价来解渴。诚然，纯净水对我们更好，但纯度所需的价格达到递减的门槛。因此，“纯粹是更好的“让”更是雪上加霜”。
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+同样，这并不意味着水的纯度是完全主观的。蒸馏水总是比海水更容易饮用。
 
-#### Truth And Objective Reality
+#### 真理与客观现实
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+真理的概念必然涉及精确的概念。如果我试图用靶心射箭，我拍摄的精度是由多远我的箭地从中心。
 
-What, then, is the “bull’s-eye” of truth?
+那么，什么是真相的“牛眼”呢？
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+一句话的真实性相对于它与客观现实的一致性是可度量的。
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+撇开语言的挑战的时刻，如果我点对海鸥说，“这是一个铁砧，我显然是错误的，因为砧是无机的，不能飞。我的陈述的真实价值是相对于现实的客观事实来衡量的。因为海鸥实际上不是铁砧，我的说法是不真实的。
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+当然，真理与现实之间的这个等式要求语言和我们的感官被认为是相对客观的。有很多很好的理由相信，语言和意义的证据是客观的；我们可以进入这个复杂的讨论，但应该说，因为你是用你的眼睛去读写在人类语言的一本书，我们至少可以认为，你的眼睛，和我们的语言份额，至少目的足够你准确地处理我的写作。如果不是，我们没什么好谈的，你还是一点都不明白我写呢，所以这句话也同样毫无意义，而且可能也已呈现“宋体” 。
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
