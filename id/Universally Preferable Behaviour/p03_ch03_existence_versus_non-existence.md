@@ -124,47 +124,43 @@ Anehnya, ini adalah satu-satunya karakteristik yang telah benar-benar terbalik i
 
 Bahkan lebih aneh, jika saya bukan seorang "polisi," tapi saya ikuti Bob untuk bekerja, dan melakukan apa yang dia lakukan – saya mengenakan kostum, berjalan ke kantor polisi, dan menempatkan sepotong karton menjadi pukulan jam – mengapa, jika saya kemudian melakukan apa yang Bob apa, aku benar-benar dan benar-benar tidak bermoral, meskipun Bob identik tindakan yang benar-benar dan benar-benar *moral*.
 
-Apa jenis rasa yang dibuatnya? Bagaimana kita bisa mengungkap misteri misterius yang tak tertembus ini?
 
-Fakta sederhana adalah bahwa hal itu *tidak* akan terurai, karena hal ini benar-benar gila. Fakta bahwa ini "dunia terbalik" moral madness adalah benar-benar tidak rasional – tidak lagi keras eksploitatif – sangat jelas bahwa hal itu harus dikubur dalam tak berujung iring-iringan dari mitologi "voluntarisme."
 
-Kita diberitahu bahwa kita "ingin" Bob untuk mengambil uang kita yang benar-benar bertentangan dengan fakta bahwa Bob muncul di depan rumah kami menunjuk pistol di wajah kita. Dengan logika ini, saya juga bisa naik dan turun jalan mencuri uang dari tetangga saya, dan kemudian mengklaim untuk menjadi benar-benar terkejut ketika saya ditangkap:
+"Mereka *ingin* saya untuk mengambil uang mereka!"
 
-“They *want* me to take their money!”
+"Tapi kenapa kau mengancam untuk menembak mereka jika mereka tidak memberikan mereka uang?"
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+"Karena mereka *hutang* saya uang mereka!"
 
-“Because they *owe* me their money!”
+"Saya pikir anda mengatakan bahwa mereka ingin memberikan uang mereka."
 
-“I thought you said that they want to give you their money.”
+"Tidak, tidak – mereka berutang kepada saya. Itu benar-benar uang *saya*!"
 
-“No, no – they owe me. It’s really *my* money!”
+"Atas dasar apa mereka berutang uang ini?"
 
-“On what grounds do they owe you this money?”
+"Kami memiliki kontrak!"
 
-“We have a contract!”
+"Bisa kau tunjukkan kontrak ini? Mereka telah menandatangani kontrak ini dari kehendak bebas mereka sendiri?"
 
-“Can you show me this contract? Have they signed this contract of their own free will?”
+"Itu bukan jenis kontrak! Ini adalah – *sosial* kontrak... Dan selain itu – sesuai dengan kontrak sosial, saya sendiri seluruh jalan pula – seluruh lingkungan di kenyataan! Siapapun yang menolak untuk membayar uang saya bisa pindah ke tempat lain - aku tidak memaksa siapa pun!"
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+"Dan bagaimana anda tahu bahwa anda memiliki seluruh lingkungan? Apakah anda memiliki surat-surat kepemilikan?"
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
-
-“Yes, of course – have a look here!”
+"Ya, tentu saja – lihat di sini!"
 
 "Yah, ini hanya sebuah catatan tulisan tangan yang mengatakan bahwa anda memiliki seluruh lingkungan – dan itu tulisan tangan yang sama seperti tanda tangan anda. Aku takut bahwa kita akan memiliki untuk buku anda – ini hanya dibuat-buat kontrak dengan diri sendiri, yang menimbulkan pada orang lain pada titik pistol."
 
 Ini benar-benar gila dan korup seperti saya melanjutkan untuk memberitahu seorang wanita aku memperkosa bahwa dia *ingin* untuk berhubungan seks dengan saya. Dapat anda bayangkan jika saya berada pada percobaan pemerkosaan, dan ada rekaman video wanita mengemis saya untuk berhenti, dan aku punya pisau ke tenggorokan, cara pertahanan saya akan menerima jika aku terus bersikeras bahwa dia benar-benar *ingin* untuk berhubungan seks dengan saya?
 
-In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
+Di pengadilan, saya akan dicaci maki, dan dilemparkan ke dalam penjara untuk saya jelas, gila, korup dan mementingkan diri sendiri kemunafikan.
 
-Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
+Ah, tapi di "zona null" dari pemerintah, pemerkosaan bercinta, penculikan undangan, menolak pencurian adalah kejahatan keegoisan, dan pemaksaan adalah kebaikan.
 
 Ini adalah apa yang saya maksud ketika saya mengatakan bahwa "di seberang dunia *zona null*" adalah yang paling mendasar penghalang untuk kebahagiaan manusia dunia atas. Mencuri adalah salah untuk kita, mencuri adalah salah dalam abstrak – tapi mencuri entah bagaimana "benar" dalam hal ini gila alternatif semesta yang disebut "pemerintah"?
 
-### Practicality
+### Kepraktisan
 
-Setelah kekerasan dari pemerintah intelektual terkena – dan seharusnya "kerelawanan" warga dinyatakan sebagai setan penipuan – argumen selalu datang kembali yang kita butuhkan ** pemerintah untuk memasok kami dengan barang-barang publik seperti perlindungan, daerah pertahanan, jalan-jalan dll.
+
 
 Saya telah menulis puluhan artikel mengekspos kepalsuan dari posisi ini, jadi saya tidak akan repot-repot untuk mengulangi argumen-argumen di sini, karena mereka tidak penting untuk sebuah buku tentang moralitas, melainkan akan lebih tepat untuk sebuah buku yang menjelaskan prinsip-prinsip dan praktik dari masyarakat secara sukarela.[^4]
 
@@ -172,20 +168,16 @@ Saya telah menulis puluhan artikel mengekspos kepalsuan dari posisi ini, jadi sa
 
 Dengan demikian mengatakan bahwa pemerintah dibenarkan memaksa kita untuk menjadi lebih "praktis" adalah benar-benar palsu, yang diverifikasi oleh UPB framework – bahkan jika kita asumsikan bahwa pemerintah solusi yang lebih "praktis", yang sebenarnya mereka tidak.
 
-Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
+Juga, jika perwakilan pemerintah mengklaim bahwa kontrak sosial yang memungkinkan mereka untuk memaksa "tidak praktis" populasi berperilaku lebih "praktis," aplikasi yang dapat diatasi kontradiksi dibuat.
 
-If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
+Jika aku memaksa seorang wanita untuk menikah dengan seorang pria yang saya telah memilih untuk dirinya, maka jelas saya percaya bahwa saya telah jauh lebih baik penilaian tentang kesesuaian suami baginya daripada dia. Bahkan, saya tidak percaya bahwa dia terbuka untuk alasan sama sekali, atau memiliki petunjuk apapun tentang diri sendiri-bunga, karena saya mengambil *tidak* ada rekening preferensi nya, tapi saya memaksa dia untuk menikah dengan pria yang memilih saya.
 
-When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
+Ketika saya memaksa wanita ini menikah, saya hanya bisa membenarkan penggunaan kekuatan – bahkan pada langsung, pragmatis alasan – dengan mengklaim bahwa dia adalah mental tidak layak untuk membuat pilihan sendiri berkaitan dengan pernikahan.
 
-If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. If she has no idea what constitutes a good or suitable husband, then how can she evaluate me as fit to decide who will be a good or suitable husband for her?
+Jika wanita itu adalah mental tidak layak untuk membuat pilihan sendiri berkaitan dengan pernikahan, maka jelas dia adalah juga *mental tidak layak untuk mendelegasikan perwakilan untuk membuat yang ideal untuk dia*. Jika dia tidak memiliki gagasan apa yang dianggap baik atau cocok suami, maka bagaimana dia bisa menilai saya sebagai fit untuk memutuskan siapa yang akan menjadi baik atau cocok suami baginya?
 
-Jika seorang pria sangat rendah kecerdasan tidak memahami konsep "kesehatan," itu akan masuk akal untuk mengharapkan dia untuk menjadi rasional dalam pilihan-nya dari dokter? Dalam rangka untuk kompeten memilih dokter, kita harus memahami konsep dari kesehatan, khasiat, biaya, profesionalisme dan sebagainya. Dengan cara yang sama, jika aku tidak memungkinkan seorang wanita untuk mengatakan siapa yang akan dia nikahi, maka jelas saya harus percaya bahwa dia tidak memiliki pemahaman tentang apa yang membuat seorang suami yang baik – tetapi jika dia tidak memiliki pemahaman tentang apa yang membuat seorang suami yang baik, maka dia tidak memiliki kapasitas untuk transfer yang ideal untuk saya, karena dia akan tidak memiliki cara untuk mengevaluasi *my* kriteria apa yang membuat seorang suami yang baik.
 
-Jika aku tidak bisa memutuskan apa warna untuk mengecat rumah saya, dan saya solusi untuk menandatangani kontrak dengan seorang pelukis yang memungkinkan dia untuk memilih warna untuk me – dan di kontrak yang saya tanda tangani semua masa depan saya kebebasan untuk menolak keputusan-nya, dan memberinya hak untuk menculik dan memperbudak saya jika saya tidak setuju dengan keputusan-nya, atau menolak untuk membayar untuk mereka – maka jelas saya tidak berakal. Jika saya memberikan seseorang kekuatan untuk memaksa saya *untuk sisa hidup saya*, maka jelas saya tidak percaya bahwa saya kompeten untuk membuat keputusan saya sendiri.
-If I do not think that I am competent to make my own decisions, then clearly my decision to subject myself to violence *for the rest of my life* is an incompetent decision.
-
-Either I am capable of making competent decisions, or I am not. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. If I am *not* capable of making competent decisions, then my decision to subject myself to force for the rest of my life is also invalid.
+Baik saya mampu membuat keputusan yang kompeten, atau saya tidak. Jika *saya* mampu membuat keputusan yang kompeten, kemudian menundukkan diri kepada kekuatan untuk sisa hidup saya adalah tidak valid. Jika saya *tidak* mampu membuat keputusan yang kompeten, maka keputusan saya untuk subjek sendiri untuk memaksa untuk sisa hidup saya ini juga tidak valid.
 
 Bahkan jika atas pertimbangan entah bagaimana dilewati, namun, hal ini masih mungkin untuk adil menegakkan kontrak sosial melalui pemerintah. Jelas, saya tidak bisa menandatangani kontrak pada *anda* nama, atau pada anak-anak saya nama, yang akan mengikat anda atau mereka untuk sisa waktu. Saya tidak bisa beli mobil, mengirimkan tagihan, dan adil menuntut bahwa anda membayar. Jika saya mengklaim kekuatan untuk memaksakan sepihak kontrak pada anda, UPB juga memberikan anda ** kekuatan ini, dan sehingga anda hanya akan kembali kontrak kepada-ku dalam nama-ku.
 
