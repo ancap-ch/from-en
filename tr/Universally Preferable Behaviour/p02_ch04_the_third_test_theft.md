@@ -2,21 +2,21 @@
 
 Hırsızlık konusunda biraz daha zaman harcamak zorunda kalacağız, çünkü kaçınılmaz olarak bazı kişiler için oldukça çekişmeli olan mülkiyet hakları meselesini gündeme getirmektedir.
 
-Mülkiyet hakları sorusuna, “aile yanı sıra” yasal tanımlara pratik konular vb. gibi yaklaşmanın birçok yolu bulunmaktadır. Burada bulunanlardan hiçbirine değinmeyeceğim, çünkü UPB ahlaki önermeleri değerlendirmek için mantıklı bir metodoloji olarak karşımıza çıkıyorsa, mülkiyet hakları meselesi UPB çerçevesine girmelidir.
+Mülkiyet hakları sorusuna, “ailenin yanı sıra” yasal tanımlara pratik konular vb. gibi yaklaşmanın bir çok yolu bulunmaktadır. Burada bulunanlardan hiçbirine değinmeyeceğim, çünkü U.P.B. ahlaki önermeleri değerlendirmek için mantıklı bir metodoloji olarak karşımıza çıkıyor ise, mülkiyet hakları meselesi U.P.B. çerçevesine girmelidir.
 
 Açıkça, mülkiyet haklarıyla ilgili manevi öneri şu şekildedir: ya insanların mülk edinme hakkı vardır ya da yoktur.
 
-Şimdi ele alınması gereken ilk "mülk" beden olmalı. "Mülkiyet" öncelikle birinin kendi bedenini kontrol etmesi ile olur, çünkü eğer bu kontrol yoksa ya da geçerli sayılmıyorsa ahlak konusundaki bütün mesele - mülkiyeti bırakma - pencereden dışarı çıkar.
+Şimdi ele alınması gereken ilk "mülk" beden olmalı. "Mülkiyet", öncelikle birinin kendi bedenini kontrol etmesi ile olur, çünkü eğer bu kontrol yoksa ya da geçerli sayılmıyorsa ahlak konusundaki bütün mesele - mülkiyeti bırakma - pencereden dışarı çıkar.
 
-UPB tüm insanlık için evrensel olarak tercih edilen, davranış hakkında ahlaki önermeleri veya tartışmaları değerlendiren bir çerçevedir. Her şeyden önce, bir adam ahlaka göre yargılanacaksa kendi gerçekleştirdiği eylemlerinden sorumlu olmalıdır, çünkü yukarıda tartıştıklarımız gibi, eylemleri seçme kapasitesi herhangi bir etik değerlendirme için esastır.
+U.P.B. tüm insanlık için evrensel olarak tercih edilen, davranış hakkında ahlaki önermeleri veya tartışmaları değerlendiren bir çerçevedir. Her şeyden önce, bir adam ahlaka göre yargılanacaksa kendi gerçekleştirdiği eylemlerinden sorumlu olmalıdır, çünkü yukarı da tartıştıklarımız gibi, eylemleri seçme kapasitesi herhangi bir etik değerlendirme için esastır.
 
-Eğer bir adamın kendi bedeninde bir kontrolü yoksa, açıkça kendi eylemleri için hiçbir sorumluluğu olmaz - gerçekte ''onun'' eylemleri değil, lakin daha doğrusu bedeninin eylemleridir. Şimdi, kimse akılcı bir şekilde, bir adam başka bir adamı boğarsa, yargılanması ve cezalandırılması gerekenin katilin parmakları olduğunu iddia edemeyecektir. Açıkçası, vücut kendisini tamamen kontrol edemez, ama bilinçli zihin yönünde bir dereceye kadar olmalıdır.
+Eğer bir adamın kendi bedenin de bir kontrolü yoksa, açıkça kendi eylemleri için hiçbir sorumluluğu olmaz - gerçekte ''onun'' eylemleri değil, lakin daha doğrusu bedeninin eylemleridir. Şimdi, kimse akılcı bir şekilde, bir adam başka bir adamı boğarsa, yargılanması ve cezalandırılması gerekenin katilin parmakları olduğunu iddia edemeyecektir. Açıkçası, vücut kendisini tamamen kontrol edemez, ama bilinçli zihin yönünde bir dereceye kadar olmalıdır.
 
-Bunun anlamı, bir erkeğin bedeninin hareketlerinden ve dolayısıyla, bu hareketlerin *etkiler*inden de sorumlu olmasıdır. Bir adam penisini nereye koyduğu konusunda sorumludur, bu konuda onu birine tecavüz ettiği için yargılaya bileceğimizi biliyoruz. O vücudunun eylemlerini kendi vücuduna sahip olduğu kadar ''kendisi'' sahiplenir. Bir adamın kendi bedeninden sorumlu olduğunu söylemek ancak vücudunun etkilerini değil, o adamın bir bıçak hedeflemekten ve atmaktan sorumlu olduğunu iddia etmektir ancak olayın olduğu topraklar için değil.
+Bunun anlamı, bir erkeğin bedeninin hareketlerinden ve dolayısıyla, bu hareketlerin *etkiler*’inden de sorumlu olmasıdır. Bir adam penisini nereye koyduğu konusunda sorumludur, bu konuda onu birine tecavüz ettiği için yargılayabileceğimizi biliyoruz. O vücudunun eylemlerini, kendi vücuduna sahip olduğu kadar ''kendisi'' sahiplenir. Bir adamın kendi bedeninden sorumlu olduğunu söylemek ancak vücudunun etkilerini değil, o adamın bir bıçak hedeflemekten ve atmaktan sorumlu olduğunu iddia etmektir. Ancak olayın olduğu bölgeler için değil.
 
-Ayrıca, bir erkeğin bedeninin etkilerinden sorumlu olmadığını iddia etmek, yukarıda incelediklerimizle benzer şekilde kendini yok eden bir ifadedir. Eğer size "Erkekler vücutlarının hareketlerinden sorumlu değildir." dersem, sizin için ağzımı ve ses tellerimi kimin hareket ettirdiğini sormak fazlasıyla adil olurdu. Konuşmamı kontrol edemediğimi söylüyorsam - ki bu vücudun bir etkisidir - buna tezimi tamamen geçersiz kılma pahasına "devam etmişim" demektir.
+Ayrıca, bir erkeğin bedeninin etkilerinden sorumlu olmadığını iddia etmek, yukarıda incelediklerimizle benzer bir şekilde kendini yok eden bir ifadedir. Eğer size "Erkekler vücutlarının hareketlerinden sorumlu değildir" dersem, sizin için ağzımı ve ses tellerimi kimin hareket ettirdiğini sormak fazlasıyla adil olurdu. Konuşmamı kontrol edemediğimi söylüyorsam - ki bu vücudun bir etkisidir - buna tezimi tamamen geçersiz kılma pahasına "devam etmişim" demektir.
 
-Eğer konuşmadan tümüyle sorumlu değilsem, o zaman benimle tartışılacak bir nokta yoktur. Bir kayıt cihazı da konuşmasından sorumlu değildir, bu yüzden manyetik şeritlerle şiddetli anlaşmazlıklara girmemeye eğilimiz vardır. Sıradan korku filmlerinde, özellikle genç kızların içine şeytan girmesine elverişli oldukları görülür - ortaya çıkan çaresiz rahip, kızın bilyeli yatakta Don Ho gibi gargara yapan bir ses çıkarmaya başladığı noktada, kızdan sorumlu olan şeytana her zaman konuşmayı teklif eder.
+Eğer konuşmadan tümüyle sorumlu değilsem, o zaman benimle tartışılacak bir nokta yoktur. Bir kayıt cihazı da konuşmasından sorumlu değildir, bu yüzden manyetik şeritlerle şiddetli anlaşmazlıklara girmemeye eğilimimiz vardır. Sıradan korku filmlerinde, özellikle genç kızların içine şeytan girmesine elverişli oldukları görülür - ortaya çıkan çaresiz rahip, kızın bilyeli yatakta Don Ho gibi gargara yapan bir ses çıkarmaya başladığı noktada, kızdan sorumlu olan şeytana her zaman konuşmayı teklif eder.
 
 Bu gülünç portre bir anlamda doğru olsa da - başka bir varlık kızın ses tellerini tamamen kontrol altına alıyorsa, ele alınması gereken şey, kız değil, cevapları üzerinde kontrol sahibi olmayan kişidir.
 
@@ -36,7 +36,7 @@ Vücutlarımızın sahibi olduğumuz için, aynı zamanda kaçınılmaz bir şek
 
 ### Mülkiyet ve UPB
 
-Yukarıdakileri reddetsek bile ETD'yi evrensel mülkiyet haklarının varlığını kesin olarak ileri sürmek için kullanabiliriz.
+Yukarıdakileri reddetsek bile E.T.D. kavramını evrensel mülkiyet haklarının varlığını kesin olarak ileri sürmek için kullanabiliriz.
 
 Yukarıda belirtildiği gibi, ya insanların mülk hakları vardır ya da yoktur. Kısa süre içinde alacağımız birkaç gri alan dışında, bu evrensel bir öneri olmaya devam ediyor.
 
@@ -53,6 +53,7 @@ Bu tabii ki de akciğer kanseri olan bir adamın sağlıklı bir insanın en az�
 İntihar etmek, kendi evini ateşe vermekten daha büyük bir suç değildir, çünkü birisinin kendi malının tahribatı sahipliğin geçerli bir mazeretidir. Ancak, münhasır mülkiyet hakkı geçersiz ise, cinayet ve intihar arasında hiçbir ayrım yoktur. Eğer karaciğerim zayıf olsaydı, seninkileri almaya hakkım vardı, o zaman şerefli ve ahlaki davranışla, mükemmel uyum içinde ona "yeniden sahip olabilirim." Bu prosedür sizi öldürürse ne olacak? Özel mülkiyet olmadan, ''sen'' le başlayan hiç bir şey olamaz…
 
 Bu sayede, makul bir şekilde kendine münhasır mülkiyetin temel bir gerçeklik olduğunu - tüm zamanlarda ve tüm mekanlarda bütün insanoğlunun kendi bedenleri üzerinde özel mülkiyete sahip olduğunu, ve bu yüzden hem etik davranış hem de mülk oluşumu ya da kazanımı açısından, kendi bedenlerinin etkileri üzerindeki özel mülkiyete sahip olduğunu - söyleyebiliriz.
+
 
 ### Gri Bölgeler
 
