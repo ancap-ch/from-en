@@ -1,54 +1,54 @@
-## Kata pengantar
+## 前言
 
-Dalam banyak dongeng, di sana hidup seekor binatang buas yang luar biasa dengan kekuatan luar biasa, naga atau basilisk, yang menghias tanah di sekitarnya. Penduduk desa setempat gemetar sebelum monster ini; mereka mengorbankan hewan mereka, membayar uang dan darah dengan harapan bisa memenuhi impuls pembunuhnya.
+在许多童话故事，有一个可怕的惊人力量的野兽，龙或蛇，这迫害霸占周围的土地。当地村民颤抖在这个怪物；他们牺牲了他们的动物，付出金钱和鲜血，希望平息其杀人的冲动。
 
-Kebanyakan orang meringkuk di bawah bayang-bayang binatang ini, menyebut ketakutan mereka "kehati-hatian," tapi sedikit - mungkin mabuk karena keberanian atau kebodohan - memutuskan untuk bertarung. Dari tahun ke tahun, dekade demi dekade, gelombang demi gelombang juara penuh harapan berusaha mencocokkan kekuatan, kebajikan dan kecerdikan mereka terhadap tiran mengerikan ini.
+大多数人畏缩这野兽的阴影下，称自己的恐惧”的谨慎，但几–醉也许勇气或鲁莽–决定战斗。年复一年，十年后十年，一波又一波的希望捍卫者试图配合他们的实力、美德和狡猾对抗这个可怕的暴君。
 
-Cobalah - dan gagal.
+尝试 -并失败。
 
-Binatang itu selalu abadi, sehingga penduduk desa tidak bisa berharap waktu untuk membebaskan mereka dari lalim mereka. Binatang itu tidak pernah rasional, dan tidak memiliki keinginan untuk berdagang, jadi tidak ada negosiasi yang mungkin dilakukan.
+野兽永远不死，所以村民们不能指望时间来消灭他们的暴君。野兽从不理性，也不想交易，所以没有谈判是可能的。
 
-Harapan hanya penduduk desa yang putus asa adalah agar seorang pria muncul yang bisa mengalahkan binatang itu.
+绝望的村民们唯一希望的是一个能打败野兽的人出现。
 
-Tak pelak lagi, seorang pria melangkah maju yang menyerang semua orang sama sekali tidak sesuai. Dia adalah anak laki-laki yang stabil, anak pembuat sepatu, magang tukang roti - atau kadang-kadang, hanya seorang gelandangan.
+不可避免地，一个人向前走，把每个人都看成是完全不协调的。他是一个稳定的男孩，一个鞋匠的儿子，一个面包师的学徒–或有时候只是一个流浪汉。
 
-Buku ini adalah kisah tentang serangan pribadi saya terhadap binatang seperti itu.
+这本书是我个人攻击这样一个野兽的故事。
 
-"Binatang" ini adalah keyakinan bahwa tidak mungkin untuk mendefinisikan sistem etika obyektif, rasional, sekuler dan ilmiah. Ini "Binatang" adalah ilusi bahwa moralitas selamanya harus hilang di rawa irasional dewa-dewa dan pemerintahan, yang dipaksakan untuk alasan pragmatis, namun selamanya tidak memiliki pembenaran logis dan definisi yang jelas. "Binatang" ini adalah fantasi kebajikan, kegembiraan terbesar kita, kebahagiaan kita yang terdalam, harus dikesampingkan oleh orang dewasa sekuler, dan ditinggalkan di debu untuk dicakar, diarak dan dieksploitasi oleh politisi dan imam - dan orang tua. "Binatang" ini adalah takhayul bahwa, tanpa tiruan orang tua, berdoa ke tuhan atau senjata pemerintah, kita tidak bisa bersikap rasional dan baik.
+这种“野兽”的信念是不可能定义一个客观的、理性的、世俗的和科学的道德体系。这种“野兽”是一种错觉，认为道德必须永远迷失在上帝和政府的不合理的沼泽中，仅仅出于实用主义的理由而强制执行，但永远缺乏逻辑的理由和明确的定义。这个“野兽”是幻想的美德，我们最大的喜悦，我们最深的幸福，必须抛开世俗的大人，和在尘土中被抓，游行和被政客和牧师–和父母。这个“野兽”是迷信，没有父母的长篇大论，欺负神或政府的枪，我们不能理性和良好的相信。
 
-Binatang ini telah menurunkan banyak pahlawan hebat, mulai dari Socrates sampai Plato sampai Agustinus sampai Hume sampai Kant sampai Rand.
+这种野兽把许多伟大的英雄: Socrates、Plato、Augustine、Hume、Kant、Rand。
 
-Biaya untuk manusia sangat besar.
+人类的代价是巨大的。
 
-Karena kita tetap tidak dapat mendefinisikan sistem moral universal yang rasional, kita terpaksa menimbulkan cerita horor religius mengenai anak-anak kita, atau memberi senjata, penjara dan tentara kepada monopoli kecil pengendali tanpa jiwa yang menyebut diri mereka "negara."
+因为我们仍然无法确定合理的普遍的道德体系，我们不得不把宗教恐怖的故事对我们的孩子，或者把枪支，监狱和军队没有灵魂控制器自称“国家小垄断。
 
-Sejak kapan yang kita sebut "etika" tetap subjektif dan hanya *budaya*, kita pasti berakhir mengandalkan bullying, ketakutan, dan kekerasan untuk menegakkan aturan-aturan sosial. Karena etika tidak memiliki dasar rasional metode ilmiah, "moralitas" tetap terperosok dalam perang kesukuan dengan mitologi berdarah, setiap geng yang melawan gigi dan kuku untuk mengendalikan kesetiaan orang terhadap "kebajikan."
+由于我们所说的“伦理”仍然是主观的，只是文化的，我们不可避免地依赖于欺凌、恐惧和暴力来执行社会规则。由于伦理缺乏科学方法的理性依据，“道德”仍然深陷血腥神话的部族之争中，各个团伙为了控制人们对“美德”的忠诚而斗争。
 
-Kita tidak bisa hidup tanpa moralitas, tapi kita tidak dapat mendefinisikan moralitas secara obyektif - oleh karena itu kita tetap dikutuk selamanya untuk mengosongkan kehidupan kemunafikan sombong, dominasi sinis atau perbudakan saleh.
+我们不能没有道德生活，但我们不能客观地定义道德 -因此我们永远谴责浮夸虚伪空虚，愤世嫉俗的优势或虔诚的奴隶。
 
-Secara intelektual, tidak ada taruhan yang lebih tinggi di dunia. Kegagalan kita untuk mendefinisikan peraturan moral objektif dan rasional telah menghabiskan ratusan juta nyawa manusia, dalam perang agama dan negara.
+理智上，世界上没有更高的赌注。在宗教和国家的战争中，我们没有界定客观和理性的道德规范，造成数亿人的生命损失。
 
-Dalam banyak hal, taruhannya semakin tinggi.
+在许多方面，风险越来越大。
 
-Aliran informasi yang meningkat di Internet telah meningkatkan kecurigaan generasi baru bahwa apa yang disebut "kebajikan" tidak lebih - atau kurang - daripada dongeng yang melayani diri sendiri dari orang tua munafik mereka. Kebohongan saleh diceritakan oleh orang-orang yang berwenang - dan keterlibatan orang-orang yang menyembah mereka - sekarang lebih jelas daripada sebelumnya.
+互联网信息流量的增加引发了新一代人的怀疑，所谓的“美德”不过是他们伪善的长辈的自私童话而已。那些当权者所说的虔诚的谎言—以及那些崇拜他们的人的共谋 — 现在比以前更清楚了。
 
-"Kebenaran" telah terpapar sebagai manipulasi; "Kebajikan" sebagai kontrol; "setia" sebagai perbudakan, dan apa yang disebut "moral" telah diungkap sebagai pertunjukan boneka konyol yang dirancang untuk menipu orang-orang yang lemah dan takut untuk memperbudak diri mereka sendiri.
+“真理”被认为操纵；“德”作为对照；“忠诚”的奴隶，和所谓的“道德”被发现是一个可笑的木偶剧, 旨在欺骗软弱和恐惧的人们进行奴役。
 
-Kesadaran ini telah melahirkan generasi baru nihilis, sama seperti di Jerman abad kesembilan belas. Relativis ekstrem ini menyimpan serangan paling keras bagi siapa pun yang mengklaim suatu bentuk kepastian. Generasi post-modern ini telah melampaui keanehan budaya dari sejarah kolektif mereka, namun sekarang melihat*all* kebenaran hanya sebagai pernyataan yang merugikan. Seperti anak-anak bermata lebar yang telah terpesona dengan "kebijaksanaan" yang sinis, mereka memandang semua komunikasi sebagai periklanan, semua klaim sebagai propaganda, dan semua nasihat moral sebagai pencuri munafik.
+这种认识催生了新一代的虚无主义者，就像在十九世纪德国一样。这些极端的相对主义者保留最尖刻的攻击的人谁声称任何形式的确定性。这种后现代的一代不再有他们的集体历史文化的偏见，但现在看来所有的真理仅仅是偏见的断言。像睁大眼睛的孩子一样，他们被视为愤世嫉俗的“智慧”，他们把所有的沟通看作是广告，所有的宣传都是宣传，都是虚伪的道德规劝偷窃。
 
-Karena kita tidak memiliki kesepakatan mengenai kerangka kerja yang kohesif, obyektif dan rasional untuk mengevaluasi proposisi moral, "moralitas" tetap terperosok dalam mistisisme, dan konsekuensi wajar kekerasan yang tak terelakkan. Sama seperti, sebelum ada kecerahan, sekte agama berperang tanpa berhenti untuk menguasai bilah aristokrasi, jadi sekarang lakukan perang mitologi moral yang bersaing untuk menguasai negara, dan semua mesin pemaksaannya.
+由于我们对一个有凝聚力的、客观的、合理的道德命题评估框架没有达成一致，所以“道德”仍然陷入了神秘主义，而且是不可避免的必然结果。同样，到启蒙运动之前，宗教派别为了控制贵族阶层而无休无止地争夺战争，所以现在做竞争的道德神话战争对国家的控制，和所有的机械强迫。
 
-Dengan demikian, moral tetap ada, relatif terhadap sains moderen, seperti astronomi abad pertengahan terhadap astronomi moderen - sebuah bidang mitologi imajiner, yang dipaksakan melalui pengisahan, ancaman, paksaan dan eksploitasi - yang secara aktif menghalangi kemajuan nyata menuju kebenaran.
+因此，相对于现代科学而言，道德仍然存在，正如中世纪“天文学”对现代天文学所做的那样 -通过讲故事，威胁，强迫和剥削而实施的想象神话的领域，- 它积极阻止任何朝向真理的真正进展。
 
-"Binatang" atau etika relativistik adalah menjulang di atas kita, menginginkan kita, membenarkan pajak, pemenjaraan, penyensoran dan perang. Kaum muda memperbudak orang di sekolah negeri dan bangku gereja hari Minggu; Ini menjerat orang miskin di gulag kesejahteraan yang lembut; itu memperbudak bahkan yang belum lahir di sumur tanpa dasar hutang nasional.
+这个“野兽”的相对论伦理上织机，捕食我们，调整税收、监禁、审查和战争。它在州立学校和星期天的长椅上奴役年轻人；它诱捕穷人福利软营；它奴役甚至出生在国家债务的无底洞威尔斯。
 
-Seperti yang saya tulis di buku saya sebelumnya, "On Truth: The Tyranny of ilusi," kebohongan paling mendasar di pusat teori etika yang belum terbukti adalah bahwa teori semacam itu selalu dipresentasikan kepada anak-anak sebagai fakta yang objektif dan tidak terbantah, padahal sebenarnya mereka hanya kebesaran budaya. Alasan mengapa ilmuwan tidak membutuhkan pemerintah atau Vatikan adalah bahwa para ilmuwan memiliki metodologi yang obyektif untuk menyelesaikan perselisihan: metode ilmiah. Alasan bahwa bahasa tidak memerlukan otoritas sentral untuk memandu evolusinya adalah bahwa hal itu bergantung pada "pasar bebas" dari akumulasi preferensi individu untuk gaya dan utilitas.
+正如我在以前的书中写道，“在真相：幻觉的暴政，“在未经证实的伦理理论的中心最基本的谎言就是这样的理论总是呈现给孩子以客观、确凿无疑的事实，当事实上他们仅仅是文化偏见。科学家不需要政府或梵蒂冈的原因是科学家有一个客观的方法来解决争端： 科学方法。语言不需要一个中央权威来指导其演变，其原因在于它依赖于积累的个人偏好的“自由市场”，即风格和效用。
 
-Alasan moralitas modern - dan moralitas sepanjang sejarah - selalu bergantung pada intimidasi anak-anak, dan kemudian mengancam orang dewasa, adalah bahwa kebohongan manipulatif menyamar sebagai sebuah kebenaran yang baik.
+现代道德–道德在历史上–一直在欺负孩子依赖的原因，然后对威胁大人，是操纵谎言伪装成一个良性的真理。
 
-Yang benar adalah bahwa kita membutuhkan moralitas; Kebohongannya adalah bahwa tuhan atau pemerintah dapat secara rasional mendefinisikan atau menerapkannya dengan adil.
+事实上，我们需要道德，谎言是上帝或政府可以合理地定义或公正地执行它。
 
-Tujuan saya dalam buku ini adalah untuk menentukan metodologi untuk memvalidasi teori-teori moral yang objektif, konsisten, jelas, rasional, empiris – dan *yang benar*.
+我在这本书中的目标是定义一种方法来验证道德理论是客观的、一致的、清楚的、合理的、经验性的和真实的。
 
 Saya menyadari sepenuhnya bahwa, pada saat ini, Anda kemungkinan besar akan merasakan gelombang skeptisisme yang meningkat. Saya benar-benar mengerti bahwa kemungkinan orang di luar sana di Internet - dunia rumah orang gila - entah bagaimana memecahkan masalah filosofis zaman ini tidak terlalu tinggi - sebenarnya, mereka akan sangat dekat dengan nol karena hampir tidak dapat dibedakan dari itu.
 
