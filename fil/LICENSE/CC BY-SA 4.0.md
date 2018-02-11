@@ -26,7 +26,7 @@ c. **BY-SA Compatible License** Ang mga ibig sabihin na tala sa [creativecommons
 
 d. **Copyright and Similar Rights** Ang kahulugan na ang copyright at/o katulad na mga karapatan ay nai lalapit sa kaugnay na kasama ang copyright, walang limitasyon, pagganap, pag lathala, pagrerecord ng tunog at ang Sui Generis Database Rights, walang pagsaalang alang kung papaano ang mga karapatan ng lebel o naikategorya. Para sa mga nais ng Pampublikong lisensya na ito, ang karapatan ay natukoy sa seksyon 2(b)(1)-(2) ay hindi Copyright at mag kapareha ng mga karapatan.
 
-e. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+e. **Effective Technological Measures** kahulugan na ang mga sukat na iyon ay, nasa pag liban ng tamang awtoridad, na maaring pumigil sa ilalim ng katuparan ng obligasyon sa ilalim ng artikolo 11 ang WIPO Copyright kasunduan na mapagtibay sa mismong Desyembre 20, 1996 at/o kapareha sa mga pandaigdigang napagkasunduan.
 
 f. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
 
