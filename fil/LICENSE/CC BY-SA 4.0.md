@@ -28,11 +28,11 @@ d. **Copyright and Similar Rights** Ang kahulugan na ang copyright at/o katulad 
 
 e. **Effective Technological Measures** kahulugan na ang mga sukat na iyon ay, nasa pag liban ng tamang awtoridad, na maaring pumigil sa ilalim ng katuparan ng obligasyon sa ilalim ng artikolo 11 ang WIPO Copyright kasunduan na mapagtibay sa mismong Desyembre 20, 1996 at/o kapareha sa mga pandaigdigang napagkasunduan.
 
-f. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+f. ** Exeptions and Limitations** nangangahulugan patas ang paggamit, patas ang pakikitungo, at/o kahit iba pang pagbukod o limitasyon para sa Copyright at kapareha na karapatan na angkop para gamitin ang Lesensyadong Materyal.
 
-g. **License Elements** means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.
+g. **License Elements** mangangahulugan na ang mga pagukol ng lesensya ay nakatala sa pangalan ng Creative Commons Public License. Ang mga elemento ng lesensya ng pampublikong lesensya na ito ay naiukol at ibahagi sa kapwa.
 
-h. **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+h.**Licensed Material** nangangahulugan na ang pagkamasining o pampanitikan na gawa, database, o iba pang materyal kung saan ang tagapaglesensya ay inilapat sa pampublikong lesensya na ito.
 
 i. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
 
