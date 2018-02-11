@@ -2,9 +2,9 @@
 
 # Palagay-WalaKomersyal-HindiDeribatibo 4.0 Pandaigdigan
 
-Ang samahan ng Creative Commons ("Creative Commons") ay hindi isang batas at ito ay hindi rin nag bibigay ng legal na mga serbisyo o kahit anong legal na pag papayo. Ang pamimigay ng Creative Commons sa pampublikong lesensya ay hindi lumikha ng abugado sa kleyente o sa iba pang relasyon. Ang Creative Commons ay ginagawa ang mga lesensya at impormasyon kaugnay sa magagamit na "as-is" na basehan. Ang Creative Commons ay hindi nag bibigay ng garantiya hinggil sa lesensya na ito, anuman materyal na lesensya sa ilalim ng mga termino at mga kondisyon, o sa kahit anong katulad na impormasyon. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+Ang samahan ng Creative Commons ("Creative Commons") ay hindi isang batas at ito ay hindi rin nag bibigay ng legal na mga serbisyo o kahit anong legal na pag papayo. Ang pamimigay ng Creative Commons sa pampublikong lesensya ay hindi lumikha ng abugado sa kleyente o sa iba pang relasyon. Ang Creative Commons ay ginagawa ang mga lesensya at impormasyon kaugnay sa magagamit na "as-is" na basehan. Ang Creative Commons ay hindi nag bibigay ng garantiya hinggil sa lesensya na ito, anuman materyal na lesensya sa ilalim ng mga termino at mga kondisyon, o sa kahit anong katulad na impormasyon. Ang Creative Commons ay kinakaila ang lahat ng pananagutan sa lahat ng mga sira resulta mula sa kanilang pag gamit ng todo sa posibleng pinaka malawak.
 
-### Using Creative Commons Public Licenses
+### Gamit ang Creative Commons na Pampublikong Lesensya
 
 Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
 
