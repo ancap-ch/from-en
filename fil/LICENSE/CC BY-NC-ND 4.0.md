@@ -6,7 +6,7 @@ Ang samahan ng Creative Commons ("Creative Commons") ay hindi isang batas at ito
 
 ### Gamit ang Creative Commons na Pampublikong Lesensya
 
-Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
+Ang Creative Commons na pampublikong lesensya ay maglalaan ng matibay na mga termino at kondisyon sa mga tagalikha at iba pang mga karapatan sa tagahawak na maaring gamitin sa orihinal na gawa ng may akda at iba pang paksa sa materyal na may akda at ang mga tiyak na tinutukoy sa pampublikong lesensya sa ibaba. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
 
 * **Considerations for licensors:** Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. [More considerations for licensors](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors).
 
