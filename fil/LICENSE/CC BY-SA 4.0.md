@@ -54,11 +54,11 @@ a. ***License grant.***
     
     B. pag gawa, pag paparami, at Pag babahagi ng Naayon sa Materyal.
 
-2. **Exceptions and Limitations.** For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+2. **Exeptions and Limitations.** Para sa pag-ilag sa pag dududa, kung saan ang pasubali at mga limitasyon ay ilalapat para sa iyong paggamit. ang Pampublikong Lesensya na ito ay hindi ma ilalapat, at Kailangan mong tumalima kasama ang mga termino at mga kondisyon.
 
-3. **Term.** The term of this Public License is specified in Section 6(a).
+3. **Term.** Ang termino ng Pampublikong Lesensya na ito ay natukoy sa Seksyon 6(a).
 
-4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+4. **Media and formats: technical modifications allowed.** Ang maygawa ng Lesensyado para saiyo sa pagsasanay ng Karapatan sa Lesensya sa lahat ng mga media pormat maging ang alam mo ngayon o sa darating na likha at ng ito ay magamit sa tekinal na mga modipikasyon kung ito ay kinakailangan na gawin. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
 
 5. **Downstream recipients.**
     
