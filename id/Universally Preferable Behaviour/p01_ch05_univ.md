@@ -52,6 +52,60 @@ Jika kita bisa membuktikan bahwa teori moral bisa objektif, rasional dan dapat d
 
 Sebelum kebangkitan metode ilmiah, orang-orang percaya bahwa materi mematuhi keinginan subjektif dewa dan iblis - dan orang-orang percaya sama dengan moralitas yang sekarang. Meletusnya gunung berapi karena dewa gunung sedang marah; Hasil panen yang baik dihasilkan dari pengorbanan manusia maupun hewan. Tidak ada yang percaya bahwa hukum fisika mutlak bisa membatasi kehendak para dewa - oleh sebab itu ilmu pengetahuan tidak akan pernah bisa berkembang. Mereka yang secara historis mendapatkan keuntungan dari mendefinisikan realitas fisika sebagai subyektif - kebanyakan imam dan aristokrat - melawan penaklukan teori fisika kedalam metode ilmiah, Sama seperti mereka yang saat ini mendapatkan keuntungan dari mendefinisikan moralitas sebagai subyektif - kebanyakan imam dan politisi - saat ini melawan penaklukan teori *moral* kedalam prinsip objektif dan universal.
 
+Seperti yang disebutkan di atas, metode ilmiah ini pada dasarnya adalah sebuah metodologi untuk memisahkan antara teori yang akurat dari teori yang tidak akurat dengan menundukkan mereka pada dua tes utama: konsistensi logis dan pengamatan empiris - dan dengan selalu menundukkan konsistensi logis ke pengamatan empiris. Jika saya mengajukan teori yang konsisten dan logis yang sempurna yang mengatakan bahwa batu akan mengapung * saat dilemparkan dari tebing, uji empiris membuktikan teori saya ini tidak benar, karena pengamatan selalu mengalahkan hipotesis.
+
+Aspek selanjutnya adalah dari metode ilmiah adalah keyakinan bahwa, karena materi yang terdiri dari kombinasi atom dengan sifat umum, stabil dan dapat diprediksi, perilaku materi juga harus umum, stabil dan dapat diprediksi. Dengan demikian percobaan harus * dapat direproduksi * di lokasi dan dengan waktu yang berbeda. Saya tidak dapat mengatakan bahwa teori yang "rock floating" saya benar hanya untuk satu batuan yang tertentu, atau pada hari pertama saya akan mencobanya, atau di satu lokasi. Teori saya harus menggambarkan sifat * materi *, yang universal, umum, stabil dan dapat diprediksi.
+
+Akhirnya, ada peraturan yang berlaku umum - kadang-kadang disebut Pisau Occam - yang mengemukakan bahwa, dari dua teori yang mempunyai kekuatan prediktif yang sama, yang lebih mudah dari keduanya lebih baik. Sebelum revolusi Copernicus, ketika Bumi dianggap sebagai titik pusat alam semesta, gerakan Mars yang retrograde ketika Bumi melintasinya di orbit melingkari matahari membawa dampak besar pada sistem perhitungan astronomi Ptolema. Lingkaran dalam lingkaran sangat banyak, yang semuanya dibersihkan hanya dengan memusatkan matahari di pusat tata surya dan menerima sifat elips orbit planet.
+
+Jadi, setiap teori saintifik yang valid harus (a) universal (b) logis (c) dapat diverifikasi secara empiris (d) dapat direproduksi dan (e) semudah mungkin.
+
+Metodologi untuk menilai dan membuktikan teori * moral * yang sama persis dengan metodologi untuk menilai dan membuktikan teori lain.
+
+#### ketentuan Moral: Definisi
+
+Pertanyaan pertama mengenai tentang ketentuan moral adalah: * apa * mereka?
+
+Secara mudah, akhlak * adalah seperangkat aturan yang menyatakan secara akurat dan konsisten yang mengidentifikasi sikap manusia yang lebih baik secara universal, sama seperti * fisika * adalah seperangkat aturan yang menyatakan secara akurat dan konsisten yang mengidentifikasi sifat materi universal.
+
+Pertanyaan kedua yang harus ditanyakan adalah: adakah hal seperti "karakter yang lebih baik secara keseluruhan" sama sekali? Jika ada, kita dapat mulai mengeksplorasi karakter seperti itu. Jika tidak, maka pencarian kita harus berhenti di sini - sama seperti penelitian astronomi Ptolemeus berhenti setelah diterima secara umum bahwa Matahari sebenarnya adalah pusat tata surya.
+
+### UPB: Lima bukti
+
+Seperti yang sudah kita bahas di atas, proposisi bahwa * tidak ada yang namanya karakter yang lebih baik * mengandung sejumlah masalah logis dan empiris yang tidak dapat dikendalikan. "karakter yang lebih baik secara universal" * harus * menjadi konsep yang lebih valid, karena lima alasan utama.
+
+Yang pertama adalah logis: jika saya menentang * proposisi bahwa karakter yang lebih baik secara universal berlaku, saya telah menunjukkan preferensi saya untuk kebenaran karena kepalsuan - dan juga preferensi untuk mengoreksi mereka yang berbicara salah. Mengatakan bahwa tidak ada hal seperti karakter yang lebih baik secara universal seperti berteriak di telinga seseorang bahwa suara tidak ada - secara bawaan bertentangan dengan diri sendiri. Dengan kata lain, jika tidak ada hal seperti itu sebagai perilaku yang lebih baik secara universal, maka seseorang harus menentang siapa pun yang menyatakan bahwa ada hal seperti karakter yang lebih baik secara universal.Namun, jika ada seseorang "seharusnya" melakukan sesuatu, maka orang baru saja menciptakan karakter yang lebih baik secara universal. Jadi, karakter yang lebih baik secara universal - atau peraturan moral - harus valid.
+
+Secara karikatural, ini adalah:
+
+1. Proposisi adalah: konsep "karakter yang lebih baik secara universal" harus valid.
+2. Berdebat melawan validitas karakter yang lebih baik secara universal menunjukkan  karakter yang lebih baik secara universal.
+3. Oleh karena itu tidak ada argumen yang bertentangan dengan validitas perilaku yang lebih baik secara universal dapat berlangsung.
+
+Kita semua mengetahui bahwa ada preferensi yang subyektif, seperti menyukai es krim atau jazz, yang tidak dianggap mengikat orang lain. Di sisi lain, ada preferensi lain, seperti pemerkosaan dan pembunuhan, yang jelas-jelas * ditimbulkan pada orang lain. Ada juga preferensi untuk logika, kebenaran dan bukti, yang juga mengikat orang lain (walaupun biasanya tidak ditimbulkan dengan kejam) sepanjang kita semua yang menerima bahwa proposisi tidak logis harus salah atau tidak valid.
+
+Preferensi yang dapat dianggap mengikat orang lain dapat disebut dengan "preferensi universal," atau "ketentuan moral".
+
+Bagaimana lagi kita dapat mengetahui bahwa konsep "peraturan moral" itu sah?
+
+Kita dapat meneliti pertanyaan secara biologis maupun secara syllogistically.
+
+Misalkan, semua materi tunduk pada ketentuan fisik - dan segala sesuatu yang hidup adalah tambahan yang tunduk pada persyaratan tertentu, dan dengan demikian, jika masih hidup, harus mengikuti karakter yang disukai secara umum. Hidup, misalkan, membutuhkan bahan bakar dan oksigen. Setiap pikiran yang hidup, tentu saja, adalah bagian organik dari dunia fisik, dan karenanya tunduk pada hukum fisika dan harus mengikuti perilaku yang disukai secara umum - untuk berpendapat sebaliknya akan memerlukan bukti bahwa kesadaran tidak terdiri dari materi, dan bukan organik - sebuah kemustahilan, karena memiliki massa, energi, dan kehidupan. Dengan berdebat bahwa kesadaran tidak tunduk pada aturan fisik atau perilaku yang disukai secara umum akan seperti mengatakan bahwa manusia yang kebal terhadap gravitasi, dan dapat berkembang dengan tidak makan.
+
+Dengan demikian, tidak mungkin seseorang secara logis yang berdebat melawan karakter yang lebih baik secara universal, karena jika dia masih hidup untuk diperdebatkan, dia pasti telah mengikuti karakter yang disukai secara umum seperti bernapas, makan dan minum.
+
+Secara karikatural, ini adalah:
+
+1. Semua organisme membutuhkan karakter yang disukai secara keseluruhan untuk hidup.
+2. Manusia adalah organisme hidup.
+3. Oleh sebab itu semua makhluk hidup masih hidup karena praktik karakter yang disukai secara umum.
+4. Oleh sebab itu, setiap argumen melawan karakter yang lebih baik secara universal memerlukan penerimaan dan praktik karakter yang disukai secara keseluruhan.
+5. Oleh karena itu tidak ada argumen yang menentang adanya karakter yang lebih baik secara universal dapat berlangsung.
+
+Karena materi ilmiah membutuhkan pembuktian empiris, kita juga harus melihat kenyataan untuk mengkonfirmasi hipotesis kita - dan di sini validitas karakter yang lebih baik secara keseluruhan didukung sepenuhnya.
+
+Setiap manusia waras akan percaya pada aturan moral. Ada beberapa ketidaksepakatan tentang apa yang * merupakan aturan moral, tapi setiap orang yakin bahwa peraturan moral itu benar - sama seperti banyak ilmuwan yang tidak setuju, namun semua ilmuwan menerima validitas materi ilmiah itu sendiri. Orang dapat mengatakan bahwa Bumi itu bulat dan tidak datar - yang sama dengan mengubah definisi moralitas - namun orang tidak dapat membantah bahwa Bumi tidak ada sama sekali - yang seperti berpendapat bahwa tidak ada karakter universal yang lebih baik.
+
 Seperti disebutkan di atas, bahwa metode ilmiah pada dasarnya adalah sebuah metodologi untuk memisahkan sesuatu yang akurat dari teori yang tidak akurat dengan menundukkan mereka pada dua tes utama: konsistensi logis dan pengamatan empiris - serta dengan selalu menundukkan konsistensi logis kepada pengamatan empiris. Jika saya mengajukan sebuah teori konsisten dan logis yang sempurna yang mengatakan bahwa batu akan mengambang *naik* saat dilemparkan dari tebing, uji empiris membuktikan teori saya tidaklah benar, sebab pengamatan selalu mengalahkan hipotesis.
 
 Aspek selanjutnya dari metode ilmiah adalah keyakinan tersebut, semenjak materi terdiri dari kombinasi atom dengan sifat umum, properti yang stabil serta dapat diprediksi, perilaku materi juga harus umum, stabil dan mudah ditebak. Sehingga dengan demikian percobaan harus *bisa direproduksi* di lokasi dan waktu yang berbeda. Saya tidak bisa mengatakan bahwa teori "batu mengambang" adalah benar hanya untuk satu bebatuan tertentu, atau pada hari pertama saya melakukan pengujian, atau pada sebuah lokasi. Teori saya harus menggambarkan perilaku dari *masalah*, yang universal, umum, stabil serta bisa diprediksi.
@@ -105,6 +159,7 @@ Secara silogistis, ini merupakan:
 Semenjak metode ilmiah memerlukan pembuktian empiris, kita juga harus melihat kenyataan untuk mengkonfirmasi hipotesis kita – dan di sini keabsahan perilaku yang lebih baik secara universal didukung sepenuhnya.
 
 Setiap manusia waras percaya pada aturan moral. Ada beberapa ketidaksetujuan tentang apa yang *membenarkan* aturan moral, namun semua orang yakin bahwa aturan moral itu benar – sama seperti banyaknya ilmuwan tidak sependapat, tetapi semua ilmuwan menerima keabsahan metode ilmiah itu sendiri. Seseorang bisa berpendapat bahwa bumi itu bulat dan tidak datar – yang sejalan dengan perubahan definisi moralitas – namun kita tidak bisa membantah bahwa Bumi tidak ada sama sekali – sama seperti membantah bahwa tidak ada hal seperti perilaku yang lebih baik secara universal.
+>>>>>>
 
 Atau:
 
