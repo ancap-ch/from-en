@@ -50,9 +50,9 @@ a. ***License grant.***
 
 1. Ang paksa sa mga termino at mga kondisyon ng pampublikong lesensya, ang tagapaglesensya at sa pamamagitan nito ipagkakaloob saiyo ang pandaigdigan, Libreng paghahari, walang-sublicensable, hindi eksklusibo, hindi mababawi na lesensya para sa pagsasanay ng Karapatan sa lesensya para sa lesensyadong materyal na ito:
     
-    A. reproduce and Share the Licensed Material, in whole or in part; and
+    A. pagpaparami at Pag babahagi ng Materyal na Lesensya, sa kabuuan o sa parte: at
     
-    B. produce, reproduce, and Share Adapted Material.
+    B. pag gawa, pag paparami, at Pag babahagi ng Naayon sa Materyal.
 
 2. **Exceptions and Limitations.** For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
 
