@@ -1,75 +1,65 @@
 ## Existence Versus Non-Existence
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+Мы определяем "небытие" как то, что не обладает массой или энергией, или отображать эффекты массы или энергии, такие как обнаруживаемые отношения, такие как сила тяжести.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
-
+Бог не обладает массой или энергией или не проявляет воздействия массы или энергии-Бог фактически не поддается обнаружению или проверке каким-либо образом, формой или формой, либо через чувства, либо через разумность.
 Thus if I say, “God exists,” what I am really saying is:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+"*То, что существует, должно быть обнаруживаемым; Бог не может быть обнаруживаемым, но Бог существует – поэтому то, чего не существует, существует.*”
+Другими словами, говоря "Бог существует", я создал непреодолимое противоречие. Я определил “существование " как "небытие", что имеет такой же смысл, как определение "жизни “как” неодушевленной материи“, или скалы как” противоположность скалы “или” квадрата “как "круга".”
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+Точно так же, если я создаю некоторую альтернативную вселенную, где "небытие равно существованию" и "противоречие равно последовательности" и "истина равна ложи” и “иррациональность равна рациональности”, то я действительно создал область под названием “ошибка", поместил в нее все, что не соответствует истине, и определил эту область как место, где "ошибка равна истине".”[^2]
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+Конечно, люди создают эту “альтернативную вселенную” не для того, чтобы признать истину недействительной в нашей собственной Вселенной, а для того, чтобы спасти то, что является ошибочным в реальности, и назвать это правдой. Например, никто, кто утверждает, что "Бог может существовать в другой Вселенной, поэтому Вы не можете утверждать, что Бог не существует”, никогда не спорит" *я* может не существовать в этой другой Вселенной, поэтому Вы не можете утверждать, что я существую здесь.”
+Они также склонны не отвечать на аргумент, что: "в другой Вселенной вы, возможно, согласны со мной, что Бога не существует, поэтому вы атеист.”[^3]
+Если действительные высказывания о реальности может быть бесконечно против, потому что какой-то воображаемый царстве под названием “ошибка равняется истине” сводит их, то что действительно сказал “нет положительных утверждений об истине может быть действительным” – тем не менее, мы достаточно умные, как философы теперь знаем, что и это утверждение внутренне противоречиво, поскольку оно является положительным заявление считается правда, что говорит, что никакого позитивного заявления могут быть правдой. Если ничто не может быть истинным или ложным – даже это утверждение – тогда никакие заявления ни о чем не могут быть сделаны. Используя слова, используя английский язык, используя понятные предложения-все не имеет никакого смысла, так как в этой” альтернативной Вселенной " такие структурированные высказывания могут быть полной ерундой. Если вещи, которые могут быть истинными в этой альтернативной Вселенной, влияют на утверждения, которые мы делаем в этой вселенной, то очевидно, что обратное также верно, а это означает, что никакие заявления никогда не могут быть сделаны ни о чем, так как их точная противоположность может быть в равной степени правдой.
+Истинная реальность этого утверждения: “ошибка равняется истине” является тавтологическим маразм “нуль равняется нулю.”
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+### "Альтернативная Вселенная" В Человеческом Обществе
+Причина, по которой мы тратим так много времени на эту теорию “альтернативной Вселенной”, заключается в том, что она имеет прямое отношение к человеческому обществу и используется для “оправдания” величайших зол, которые совершаются среди нас.
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
+По нашему личному опыту, мы знаем, что убийство неверно. Работая над утверждением, что убийство морально неверно в приведенных выше примерах, я сильно сомневаюсь, что кто-то был потрясен тем, что их моральные инстинкты подтверждены строгим абстрактным рассуждением UPB. В этом разделе, однако, официально допустимо, чтобы вы начали действительно шокированы.
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+Наибольшие скачки вперед в научном понимании - это так называемые “объединяющие теории"."Эйнштейн потратил десятилетия, пытаясь разработать единую теорию поля; и теории физики, которые объединяют сильные и слабые силы, электромагнетизм, гравитацию и так далее, остаются неуловимыми.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+Однако УПБ как основа не только оправдывает наши моральные инстинкты на личном, философском и универсальном уровнях, но и имеет глубокие и шокирующие последствия для человеческого общества.
 
-### The "Alternate Universe" In Human Society
+#### УПБ в действии
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+Структура UPB подтверждает моральные положения, требуя, чтобы они были внутренне последовательными и универсальными с точки зрения времени, места и людей.
+Если мы принимаем UPB, мы должны также принять следующее следствие:
+- Моральные положения не зависят от костюма.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+Это означает, что человек не может изменить свою нравственную природу вместе со своей одеждой. Изменение костюма не меняет его фундаментальной природы. Таким образом, противоположные моральные правила не могут быть действительными на основе одежды, которую он носит.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Солдаты, конечно, носят костюмы, которые отличаются от среднестатистических граждан. Среднестатистическому гражданину запрещено убивать; солдатам, однако, не только *разрешено* убивать, но и морально * хвалят* за убийство.
+Давайте возьмем другой пример.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+Кража-это морально неправильно, как мы видели выше. Это аморально для всех людей во всех ситуациях, во все времена и при любых обстоятельствах. Поскольку кража-это насильственное изъятие чужого имущества без согласия, то налогообложение всегда, повсеместно и навсегда является моральным злом. Налогообложение по определению является принудительным изъятием чьего-либо имущества без его согласия, поскольку налогообложение зависит от начала применения силы с целью лишить человека его собственности.
 
-#### UPB In Action
+То, что мы называем "правительство", - это просто еще один пример этой * нулевой зоны*, где вверх вниз, черный-белый, истина-ложь, а зло-добро.
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+Общество прогрессирует именно в той степени, в которой разум и доказательства совершают большой скачок от личного к вселенскому, и уничтожают любые иррациональные *нулевые зоны* на пути. Наука прогрессирует точно до той степени, что отвергает иррациональность Бога и субъективные "абсолюты"."Медицина прогрессирует точно до такой степени, что отвергает эффективность молитвы и пустого ритуала, а вместо этого полагается на разум и доказательства. Философия также – и человеческое общество в целом-будет продвигаться точно до такой степени, что она отвергает иррациональную “квадратную мораль” статических и религиозных этических теорий.
 
-If we accept UPB, we must also accept the following corollary:
+### Правительство
 
-- Moral propositions are independent of costume.
+Говоря, что правительство действует в соответствии с противоположными моральными правилами от остального общества, это точно так же, как сказать: “лепреконы невосприимчивы к гравитации."Прежде всего, лепреконы не существуют – и один из способов, которым мы знаем, что они не существуют, заключается в том, что утверждается, что они невосприимчивы к гравитации. Все, что имеет массу, подвержено гравитации – то, что невосприимчиво к гравитации по определению, не имеет массы, и поэтому не существует. Утверждение "лепреконы невосприимчивы к гравитации" является тавтологией, которая только подтверждает отсутствие лепреконов-это семантический эквивалент “того, чего не существует, не существует."А-это а, первый закон логики Аристотеля, мало что делает для подтверждения существования того, что определяется как небытие.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Точно так же, когда мы говорим, что это морально хорошо для солдат, чтобы убить и представители правительства, чтобы украсть, мы знаем, что “солдаты” и “представители правительства”, как моральные категории *полностью недействительны*.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Если я говорю, что квадратный круг имеет право красть, я просто говорю, что то, что не может существовать, имеет право делать то, что является противоречивым-чисто бессмысленное заявление, но которое остается странным в “нулевой зоне” политики.
 
-Let’s take another example.
+Если я куплю костюм солдата в магазине второй руки и надену его, то, очевидно, я не создал альтернативную вселенную, в которой могут быть действительны противоположные моральные правила. За момент до того, как я надел костюм, мне было неправильно убивать-когда это становится* правильным * для меня, чтобы убить? Когда я надел штаны? Что, если на мне брюки, но не жилет? Что, если у меня есть только один ботинок? А что если оба валенки, но только один зашнурована? Что, если моя шляпа надета задом наперед? Что делать, если я надел униформу, которая не признается первым человеком, с которым я столкнулся? У Битлз внезапно появилось право на убийство, когда они застрелили прикрытие для "сержанта Пепперса"? Они потеряли это право, когда сняли пиджаки?
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Я задаю эти риторические вопросы, потому что они на самом деле серьезно. Ясно, что военный костюм не меняет характер человека, не более чем стрижка превращает его в утку, понятие или Бога.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+"Аh," вы можете сказать, " но костюм недействителен, потому что вы получили его в магазине второй руки-надевание униформу солдата больше не делает вас солдатом, чем Ксерокопирование докторская степень дает Вам докторскую степень.”
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Аналогия некорректна, потому что наличие доктора наук или ксерокопирования не меняет никаких моральных правил, которым вы подвергаетесь как человек.
 
-### Government
+"Ну, вы можете ответить", но разница в том, что солдат обладает моральными правами, которые предоставляет ему среднестатистический гражданин, ради коллективной самообороны и так далее.”
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
-
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
-
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
-
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
-
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
-
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
-
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
-
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
-
-This raises a very interesting point, which is the question of whether opinions can change reality.
-
+В связи с этим возникает очень интересный вопрос: могут ли мнения изменить реальность?
 ### Opinions And Reality
 
 Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
