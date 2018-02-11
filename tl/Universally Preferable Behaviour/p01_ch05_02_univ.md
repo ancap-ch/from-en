@@ -1,24 +1,24 @@
 ### UPB: Limang Patunay
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+Tulad ng aming tinalakay sa itaas, ang panukala na *walang ganoong bagay na mas mainam na pag-uugali* ay naglalaman ng isang hindi malulutas na bilang ng mga lohikal at empirical na problema. Ang "higit na mabuti sa pag-uugali ng pag-uugali" *ay dapat* na isang wastong konsepto, para sa limang pangunahing dahilan.
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+Ang una ay lohikal: kung ako ay magtatalo * laban sa * ang panukala na may kapansin-pansin na pag-uugali sa buong mundo ay may-bisa, ipinakita ko na ang aking kagustuhan sa katotohanan laban sa kasinungalingan - pati na rin ang kagustuhan sa pagwawasto sa mga nagsasalita ng kasinungalingan. Ang pagsasabi na walang ganoong bagay na tulad ng mas pangkaraniwang pag-uugali ay tulad ng pagsisigaw sa tainga ng isang tao na ang tunog ay hindi umiiral - ito ay likas na nagkakasalungatan sa sarili. Sa ibang salita, kung walang ganoong bagay *bilang mas pangkalahatang pag-uugali*, pagkatapos ay dapat isa salungat sinuman na sinasabi na may tulad ng isang bagay bilang universally mas mainam na pag-uugali. Gayunpaman, kung ang isang "dapat" gawin ng isang bagay, pagkatapos ay ang isa lamang ay lumikha ng higit na lalong kanais-nais na pag-uugali. Kung gayon, ang maayos na pag-uugali ng pag-uugali - o moral na panuntunan - ay dapat na wasto.
 
-Syllogistically, this is:
+Ito ay, Syllogistically,:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1. Ang panukala na: ang konsepto na "higit na mabuti sa pag-uugali" ay dapat na wasto.
+2. Ang pagtatalo laban sa pagiging wasto ng pag-uugali ng higit sa lahat ay nagpapakita ng higit na pag-uugali sa buong mundo.
+3. Samakatuwid walang argumento laban sa pagiging wasto ng higit na mabuti sa pag-uugali ng universidad ay maaaring wasto.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+Namin ang lahat ng malaman na may mga subjective na kagustuhan, tulad ng mga gusto ice cream o jazz, na hindi itinuturing na umiiral sa ibang mga tao. Sa kabilang banda, may mga iba pang mga kagustuhan, tulad ng panggagahasa at pagpatay, na malinaw na *ay* ipinataw sa iba. Mayroon ding mga kagustuhan para sa lohika, katotohanan at katibayan, na nagbubuklod din sa iba (bagaman hindi sila karaniwang pinahihirapan) samantalang tinatanggap namin ang lahat na ang isang hindi makatwirang panukala ay dapat na mali o hindi wasto.
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+Ang mga kagustuhan na maaaring ituring na may bisa sa iba ay maaaring termed "unibersal kagustuhan," o "moral na tuntunin."
 
-How else can we know that the concept of “moral rules” is valid?
+Paano pa natin malalaman na ang konsepto ng "moral na tuntunin" ay wasto?
 
-We can examine the question biologically as well as syllogistically.
+Maaari naming suriin ang tanong na byolohiko pati na rin sa syllogistically.
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+Halimbawa, ang lahat ng bagay ay napapailalim sa pisikal na mga panuntunan - at ang lahat ng nabubuhay ay dagdag sa paksa sa ilang mga kinakailangan, at sa gayon, kung ito ay buhay, ay dapat na sumunod sa pangkalahatang ginustong pag-uugali. Ang buhay, halimbawa, ay nangangailangan ng gasolina at oxygen. Ang anumang pamumuhay na isip, siyempre, ay isang organic na bahagi ng pisikal na mundo, at sa gayon ay napapailalim sa pisikal na mga batas at dapat na sumunod sa pangkalahatang ginustong pag-uugali - upang magtaltalan kung hindi ay nangangailangan ng patunay na ang kamalayan ay hindi binubuo ng bagay, at hindi organic - isang imposible, dahil mayroon itong masa, lakas, at buhay. Ang pagtatalo na ang kamalayan ay hindi napapailalim sa mga pisikal na panuntunan o ng mga ginustong pag-uugali sa buong mundo ay magiging tulad ng pagtatalo na ang mga tao ay hindi nabibilang sa grabidad, at maaaring umunlad nang hindi kumakain
 
 Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
 
