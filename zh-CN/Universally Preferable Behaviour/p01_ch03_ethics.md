@@ -1,55 +1,56 @@
-## Ethics
+## 伦理学
 
-Since ethics is a subject that we all have opinions about already, it is important to outline the relationship between *instinctual* ethics and *rational* ethics.
+既然我们各自已经对伦理学持有一定的观点，那么概括**本能**伦理学和**理性**伦理的关系就显得非常重要。
 
-A baseball player can catch a fly ball even if he knows nothing about physics. Similarly, we can correctly perceive an action as immoral even if we know nothing about ethical theories.
+一个棒球运动员即使对物理学一无所知，也能抓到一个飞球。同样，即使我们对道德理论一无所知，我们也能正确地判断某个行为是不道德的。
 
-If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
+如果我能抓住到一个飞球，那么我就会本能地**感觉到**棒球在飞行中的行为。然而，我的本能理解并不能够使我精确地发射一艘宇宙飞船到木星的轨道上去。我直观得到的**小真相**是——球是如何移动的——但这并不能给我一个普遍的真理——物质是如何运作的。
 
-In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
+同样，我们对强奸和谋杀等行为的普遍道德厌恶并不一定是不准确的，但这并没有给我们能力去创造或验证一致和经验主义道德理论。
 
-If I propose a scientific theory that completely invalidates a baseball player’s ability to catch a fly ball, then I have the insurmountable challenge of explaining how the baseball player actually *does* catch the ball. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
+如果我提出一种科学理论，使得棒球运动员完全更丧失抓住飞球的能力，那么我就有了一个无法克服的挑战，那就是解释棒球运动员是如何抓住球的。而且，如果我的大理论不能准确地预测飞球的轨迹，那么我就拥有了一个与**小事实**相矛盾的**伟大的真理**，这在理论上是不可能的。由于逻辑一致性的必要性直接来自于感性经验的**小真理**，任何与这种经验直接相抵触的理论都是不合理的。
 
-In other words, the senses give rise to logic – therefore logic cannot contradict the evidence of the senses. Evidence always trumps explanation.
+换言之，感官产生了逻辑，因此逻辑不能与感官的证据相矛盾。证据总是胜过解释的。
 
-In a similar manner, any valid ethical theory should be able to explain and justify our common revulsion towards crimes such as murder and rape. It cannot reasonably contradict the universal prohibitions of mankind, but must accurately incorporate and explain them.
+同样，任何合理的道德理论都应该能够解释和证明我们对诸如谋杀和强奸等犯罪的普遍厌恶。它不能合理地反驳人类的普遍禁令，而是应该准确地对其加以整合并进行解释。
 
-However, just as Einsteinian physics provided surprising truths – in fact, it would have been of little value if those truths were *not* surprising – ethical theories provide the most value when they also reveal surprising truths – shocking, even. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
+然而，如同爱因斯坦的物理学提供了令人惊讶的事实——实际上，如果这些真理并不令人惊讶，那么它们就没有那么有价值了——伦理揭示了令人吃惊的真相，甚至是令人震惊的。事实上，没有提供惊人真理的伦理理论仅仅是对现有本能偏好的确认，因而是没有价值的。
 
-### The Discipline Of Theoretical Ethics
 
-If I say that something is “morally good” – in other words, if I propose an ethical theory – then clearly I am arguing that human beings *should* act in a particular manner, or *avoid* acting in a particular manner.
+### 理论伦理学科
 
-If I tell my son that he *should* become a baseball player just because I want him to, I am not stating a universal moral premise, but rather a personal preference. He is not *moral* if he becomes a baseball player, and neither is he *immoral* if he does not.
+如果我说某些东西**在道德上是好的**——换言之，如果我提出一种伦理理论——那么，很明显我认为人类**应该**以一种特定的方式行事，或者**避免**以一种特定的方式行事。
 
-However, if I tell him that it is *moral* for sons to obey their fathers, and *immoral* for them to disobey their fathers, then I am proposing a preference that is universal, rather than merely personal – I am trying to turn a “little truth” (*I want you to become a baseball player*) into a “great truth” (*It is immoral for sons to disobey fathers*). *If* he wishes to be moral, he *must* become a baseball player – not because becoming a baseball player is moral, but rather because obeying his father is moral.
+如果我告诉我的儿子他**应该**成为一名棒球运动员，仅仅因为我想让他这么做的话，我并不是在陈述一个普遍的道德前提，而仅仅是个人偏好。如果他成为一名棒球运动员，他就是**不道德的**；而如果他不这样做，并不能说他是不道德的。
 
-When I speak of a universal preference, I am really defining what is *objectively required*, or *necessary*, assuming a particular goal. *If* I want to live, I do not have to like jazz, but I *must* eat. “Eating” remains a preference – I do not *have* to eat, in the same way that I have to obey gravity – but “eating” is a universal, objective, and *binding* requirement for staying alive, since it relies on biological facts that cannot be wished away.
+但是,如果我告诉他,儿子服从父亲是一种*道德*的行为；而违抗父亲，则是一种*不道德的*行为。这样一来，我就提出了一个普遍的偏好,而不仅仅只是一个个人偏好——我正在试图把*小真理*(*我想让你成为一个棒球运动员*)变成一个伟大的真理(*儿子违抗父亲是不道德的*)。如果他想要成为一个道德的人，他就必须成为一个棒球运动员——这不是因为成为一个棒球运动员是道德的，而是因为服从他的父亲是道德的。
 
-Ethics as a discipline can be defined as any theory regarding preferable human behaviour that is universal, objective, consistent – and binding. Naturally, preferential behaviour can only be binding if the goal is desired. If I say that it is *preferable* for human beings to exercise and eat well, I am not saying that human beings *must not* sit on the couch and eat potato chips. What I am saying is that *if* you want to be healthy, you *should* exercise and eat well.
+当我说起一个普遍偏好时，我实际上是在定义什么是*客观需要的*，或者是*必要的*，假设一个特定的目标。*如果*我想活下去，我不需要爵士，但我*必须*吃东西。*吃东西*是一种偏好——我不是*必须*吃东西，就像我必须遵守地心引力一样——但吃东西是一种普遍的、客观的、有约束力的生存需求，因为它不会随主观意愿而消失。
 
-As Hume famously pointed out, it is impossible to derive an “ought” from an “is.” What he meant by that was that *preference* in no way can be axiomatically derived from *existence*. It is true that a man who never exercises and eats poorly will be unhealthy. Does that mean that he “ought” to exercise and eat well? No. The “ought” is conditional upon the *preference*. If he wants to be healthy, he *ought* to exercise and eat well. It is true that if a man does not eat, he will die – we cannot logically derive from that fact a binding principle that he *ought* to eat. *If* he wants to live, then he *must* eat. However, his choice to live or not remains his own.
+伦理学，作为一门学科，可以被定义为任何关于人类行为的理论，它是普遍的、客观的、一致的和有约束力的。当然，如果想要达到目标，偏好行为只能是有约束力的。如果我说人类*偏好*锻炼和吃好，我不是说人类不应该坐在沙发上吃薯片。我想说的是，如果你想要健康，你应该锻炼身体，好好吃饭。
 
-Similarly, there is no such thing as a universally “better” direction – it all depends upon the preferred destination. If I want to drive to New York from San Francisco, I “ought” to drive east. If I want to drive into the ocean from San Francisco, I “ought” to drive west. Neither “east” nor “west” can be considered universally “better.”
+正如Hume的名言所说，从“是”推导出“应该”是不可能的。他的意思是，不可能从*存在*推导出*偏好*。一个从不锻炼和不好好吃饭的人是不健康的。这是否意味着他应该锻炼身体，好好吃饭?答案是否定的。这个应该是有条件的。如果他想要健康，他应该锻炼身体，好好吃饭。的确，如果一个人不吃东西，他就会死，我们不能从逻辑上得出他应该吃这样一个结论。如果他想活下去，他应该必须吃饭。但是，他是否选择活下去，应该由他自己决定。
 
-It is true that very few people *do* drive into the ocean, but that does not mean that it is universally true that nobody *ought* to drive into the ocean. Principles are not democratic – or, if they are, we once more face the problem of rank subjectivism, and must throw the entire concept of ethics out the window.
+同样地，没有一个普遍的更好的方向，这取决于偏好的目的地。如果我想从旧金山开车到纽约，我应该开车向东行驶。如果我想从旧金山开车到大海，我就应该开车去西部。无论是东方还是西方，都不能被普遍认为是更好的。
 
-“Behaviour” exists in objective reality, outside our minds – the concepts “ought,” “should,” and “preference,” do not exist outside our minds. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
+的确，很少有人将车开进海洋，但这并不意味着没有人应该驶入海洋是一个普遍事实。原则不是民主的，如果是的话，我们再一次面对等级主观主义的问题，就必须把整个道德观念抛到一边。
 
-### Self-Defeating Arguments
+行为存在于客观现实中，在我们的头脑之外——“应该”、“理应”和“偏好”这些概念并不存在于我们的头脑之外。然而，在客观现实中不应该存在的事实并不意味着它应该是完全主观的。科学方法和数字本身都不存在于现实中，然而科学和数学仍然是客观的学科。
 
-In order to begin our discussion of ethics, it is essential that we understand the nature of *self-defeating arguments*.
+### 自我挫败的论点
 
-In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
+为了进行我们对道德的讨论，我们必须理解*自我挫败的论点*的本质。
 
-In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+在经济学中，如果要求价格同时上涨和下跌，该理论就不成立。在物理学中，如果要求气体同时膨胀和收缩，该理论就不能成立。在数学中,如果一个理论要求二加二等于五,它就不能成立，因为五只是另一种方式描述2 + 3，而不是用来描述 2 + 2。所以说二加二等于五就是说五等于四,这是自相矛盾的。
 
-If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
+一般来说，任何在话语中自相矛盾的理论都是不成立的。它不需要外部的反证，因为它本身就证明了这一点。我们不需要检查宇宙中的每一个角落，以确定一个正方形的圆是不存在的。这一概念本身就是自相矛盾的，因此在话语本身中就已经被否定。
 
-Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
+如果我向你提交一个复杂的数学证明,同时你注意到,在刚开始的时候,我提到我的证据来自于二加二同时等于四和五,你不需要进一步阅读就能知道我的证据是不成立的。
 
-If I come up to you and say: “There is no such thing as truth,” then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
+同样的，如前所述，如果我来到你面前说:“我不存在，”我的理论就就会不攻自破。如果我能告诉你我不存在，那么很明显我就存在。
 
-If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
+如果我来到你面前说:“没有真理这样的东西，”那么我就在做一个声明，我认为这是真的，声称真理不存在。再一次,我的论点不攻自破。
 
-If I tell you that “Your senses are invalid,” then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
+如果我告诉你“语言毫无意义，”那么我也反驳了自己。既然我用语言来表达语言是没有意义的，语言必须至少有一些意义。
+
+如果我告诉你“你的感觉是无效的，”那么我的论点也同样不攻自破，因为我用你的听觉来告诉你，你的听觉是无效的。如果我能成功地把我的观点传达给你，那么你的听觉一定是有效的。因此，我必须假设你的感官是有效的，以使你确信你的感官是无效的，这是不合理的。
