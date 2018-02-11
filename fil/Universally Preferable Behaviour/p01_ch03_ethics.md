@@ -1,6 +1,6 @@
 ## Mga etika
 
-Since ethics is a subject that we all have opinions about already, it is important to outline the relationship between *instinctual* ethics and *rational* ethics.
+Dahil ang mga etika ay isang paksa na lahat tayo ay may mga opinyon tungkol sa na, ito ay mahalaga sa balangkas ang relasyon sa pagitan ng *instinctual* etika at *makatuwiran* mga etika,.
 
 A baseball player can catch a fly ball even if he knows nothing about physics. Similarly, we can correctly perceive an action as immoral even if we know nothing about ethical theories.
 
