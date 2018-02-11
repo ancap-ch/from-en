@@ -48,7 +48,7 @@ m. **You** nangangahulugan na ang indibidwal o paggamit ng entidad sa karapatan 
 
 a. ***License grant.***
 
-1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+1. Ang paksa sa mga termino at mga kondisyon ng pampublikong lesensya, ang tagapaglesensya at sa pamamagitan nito ipagkakaloob saiyo ang pandaigdigan, Libreng paghahari, walang-sublicensable, hindi eksklusibo, hindi mababawi na lesensya para sa pagsasanay ng Karapatan sa lesensya para sa lesensyadong materyal na ito:
     
     A. reproduce and Share the Licensed Material, in whole or in part; and
     
