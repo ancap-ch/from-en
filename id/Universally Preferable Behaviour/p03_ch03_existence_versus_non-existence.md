@@ -54,13 +54,62 @@ Masyarakat berlangsung tepat untuk tingkat bahwa alasan dan bukti-bukti yang mem
 
 Mengatakan bahwa pemerintah beroperasi di bawah berlawanan dengan aturan-aturan moral dari seluruh masyarakat adalah persis sama dengan mengatakan, "leprechaun kebal terhadap gravitasi." Pertama-tama, leprechaun tidak ada – dan salah satu dari cara-cara di mana kita tahu bahwa mereka tidak ada adalah bahwa hal itu mengklaim bahwa mereka kebal terhadap gravitasi. Segala sesuatu yang memiliki massa tunduk pada gravitasi – yang kebal terhadap gravitasi dengan definisi tidak memiliki massa, dan oleh karena itu tidak ada. Pernyataan "leprechaun adalah kekebalan tubuh untuk gravity" adalah sebuah tautologi, yang hanya menegaskan non-keberadaan kafe – ini adalah semantik setara dengan "itu yang tidak ada, tidak ada." A adalah A, Aristoteles hukum pertama logika, tidak sedikit berharga untuk mengkonfirmasi keberadaan dari apa yang didefinisikan sebagai non-eksistensi.
 
+
+Dengan cara yang sama, ketika kita menyatakan bahwa secara moral yang baik bagi tentara untuk membunuh dan perwakilan pemerintah untuk mencuri, kita ketahui bahwa "tentara" dan "perwakilan pemerintah" sebagai kategori moral * benar-benar tidak sah *.
+
+Jika saya menyatakan bahwa lingkaran yang persegi memiliki hak untuk mencuri, saya hanya menyatakan bahwa apa yang tidak dapat ada memiliki hak untuk melakukan hal yang bertentangan dengan diri sendiri - sebuah pernyataan yang murni itu tidak masuk akal, tapi yang tetap menarik secara aneh di "zona nol "Politik.
+
+Jika saya yang membeli kostum prajurit di toko barang bekas, dan menaruhnya di atas, jelas saya belum menciptakan alam semesta alternatif dimana peraturan moral yang berlawanan dapat berlaku. Saat sebelum saya mengenakan kostum itu, salahkah saya untuk membunuh - kapan saya harus * membunuh? Kapan saya memakai celana? Bagaimana jika saya memakai celana panjangnya, tapi bukan rompinya? Bagaimana jika saya hanya mempunyai satu boot saja? Bagaimana jika kedua sepatu bot menyala, tapi hanya satu yang dicampur? Bagaimana jika topi saya terbalik? Bagaimana jika saya mengenakan seragam yang tidak dikenali orang pertama yang saya temui? Apakah Beatles secara tiba-tiba mempunyai hak untuk membunuh saat mereka menembak sampul "Sersan Peppers"? Apakah mereka kehilangan hak itu saat melepas jaket mereka?
+
 Dengan cara yang sama, ketika kita mengatakan bahwa itu adalah moral yang baik bagi prajurit untuk membunuh dan perwakilan pemerintah untuk mencuri, kita tahu bahwa "tentara" dan "wakil pemerintah" sebagai kategori moral yang *benar-benar valid*.
 
 Jika saya mengatakan bahwa lingkaran persegi memiliki hak untuk mencuri, saya hanya mengatakan bahwa apa yang tidak ada yang memiliki hak untuk melakukan apa yang kontradiksi-diri – murni pernyataan yang tidak masuk akal, tapi satu yang tetap aneh di "zona null" dari politik.
 
 Jika saya membeli prajurit kostum di toko tangan kedua, dan menaruhnya di atas, jelas aku tidak menciptakan alternatif semesta dimana berlawanan dengan aturan-aturan moral dapat berlaku. Saat sebelum saya menempatkan kostum, itu salah bagi saya untuk pembunuhan – kapan itu menjadi *benar* bagi saya untuk pembunuhan? Ketika saya memakai celana panjang? Bagaimana jika saya memiliki celana, tapi tidak rompi? Bagaimana jika saya hanya memiliki satu boot? Bagaimana jika kedua sepatu tersebut, tapi hanya satu yang dicampur? Bagaimana jika saya topi terbalik? Bagaimana jika saya telah mengenakan seragam yang tidak diakui oleh orang pertama yang saya temui? Apakah the Beatles tiba-tiba memiliki hak untuk membunuh ketika mereka ditembak penutup untuk "Sergeant Peppers"? Apakah mereka kehilangan hak itu ketika mereka melepas jaket mereka?
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+
+Saya mengajukan sebuah pertanyaan retoris ini karena sebenarnya sangat serius. Jelas, kostum militer tidak akan mengubah sifat manusia, lebih dari sekedar potongan rambut mengubahnya menjadi bebek, konsep, atau tuhan.
+
+
+"Ah," anda mungkin berkata, "tapi kostumnya itu tidak benar karena anda memperdapatkannya di toko barang bekas - menggunakan seragam tentara tidak lagi membuat anda menjadi tentara daripada memfotokopi gelar doktor memberi anda gelar Ph.D."
+
+Analogi yang salah, karena memiliki gelar Ph.D. atau memfotokopi doktor tidak dapat mengubah peraturan moral apa pun yang menjadi sasaran anda sebagai manusia.
+
+"Nah," anda mungkin akan menjawab, "tapi bedanya adalah bahwa prajurit tersebut yang memiliki hak moral yang diberikan kepadanya oleh warga biasa, demi pembelaan secara kolektif dan sebagainya."
+
+Hal ini dapat menimbulkan poin yang sangat menarik, pertanyaannya yaitu apakah opini bisa mengubah realitas.
+
+### opini dan Realitas
+
+Jelas, kita mengerti bahwa saya tidak dapat melalui pendapat saya membebaskan anda dari rintangan gravitasi, lebih dari pendapat saya bahwa "dua ditambah dua sama dengan lima" menjadikannya benar.
+
+"opini" adalah keyakinan yang tidak memiliki bukti nyata, atau tidak memiliki bukti yang jelas, atau yang merupakan ungkapan preferensi pribadi semata. Pendapat pribadi saya adalah bahwa saya lebih memilih es krim cokelat untuk vanili - saya mungkin juga memiliki "opini" bahwa Islandia adalah surga tropis, atau bahwa Tuhan itu ada, atau hujan turun ke atas. Pendapat pribadi jelas tidak ada hubungannya dengan moralitas; Pendapat yang menyatakan secara akurat menggambarkan realitas, tapi yang tidak, hanyalah prasangka yang salah. Percaya bahwa hujan turun ke atas tidak membalikkan arahnya; mengenakan kemeja Hawaii ke Islandia tidak membuat Reykjavik lebih hangat.
+
+Dengan demikian mempercayai bahwa pembunuhan itu secara moral yang baik tidak membuat pembunuhan secara moral baik. Karena keyakinan saya tentang manusia tidak dapat mengubah sifat moralnya, keyakinan saya bahwa pembunuhannya itu bajik tidak mengubah kebajikan tindakannya. Jika saya memejamkan mata dan membayangkan bahwa anda adalah kadal, anda tidak tiba-tiba kehilangan kemampuan mengatur suhu tubuh sendiri. Membayangkan bahwa anda adalah ikan tidak memotong kebutuhan anda untuk peralatan selam.
+
+opini tidak dapat mengubah kenyataan.
+
+Karena opini tidak dapat mengubah kenyataan, saya tidak dapat memberikan pengecualian atau pembalikan apapun sehubungan dengan peraturan moral universal. Karena peraturan moral didasarkan pada logika yang universal, juga sifat fisik dan realitas manusia, saya tidak dapat memberi anda "hak untuk membunuh," lebih dari saya dapat memberi anda kemampuan untuk melayang, berjalan di atas air atau secara akurat. katakan bahwa dua dan dua membuat lima.
+
+### Pemerintahan Sebagai Sukarela
+
+Kekuatan terbuka yang terlibat dalam institusi pemerintahan - pembungkus konseptual yang membalikkan peraturan moral untuk sekelompok individu tertentu - adalah sesuatu yang selalu dijauhi dalam perdebatan. Ketika berbicara tentang pemerintah, tidak pernah dianggap hal yang positif untuk menunjukkan "pistol di ruangan itu." Hampir secara definisi, pemerintah dianggap dipilih oleh rakyat dan untuk rakyat, dan beroperasi dengan persetujuan yang diungkapkan atau implisit mereka.
+
+Namun, ini omong kosong belaka.
+
+Jika seorang pria memasukkan pisau ke tenggorokan wanita saat berhubungan seks dengannya, itu adalah definisi dari setiap tindakan pemerkosaan. Dia tidak bisa mengatakan bahwa seks itu bersifat konsensual, sementara pada saat yang sama mengancamnya dengan luka atau kematian jika dia menolak berhubungan seks dengannya. Jika seks itu sukarela, maka pisau itu sama sekali tidak perlu. Jika pria merasakan membutuhkan pisau, maka jelas seksnya * tidak * sukarela.
+
+Dengan cara yang sama, orang mengatakan bahwa perpajakan itu adalah bagian dari kontrak sosial yang telah mereka setujui secara sukarela.
+
+Ini secara logika dan empiris yang salah.
+
+Kita tahu bahwa secara empiris salah karena * tidak ada kontrak sosial *. anda atau saya * pernah * menandatangani sebuah dokumen dengan sukarela menyetujui pajak penghasilan - kami baru saja lahir dalam sistem yang mengambil uang kami dari kami pada titik pistol.
+
+### senjata di dalam ruangan
+
+Banyak orang berpendapat pada saat ini akan bahwa perpajakan tidak diberlakukan pada titik pistol, melainkan orang membayarnya secara sukarela. Misalnya, saya tidak pernah memiliki pistol di wajahku oleh seorang pemungut cukai atau polisi, tapi saya telah membayar pajak selama beberapa dekade.
+
+Ini bisa jadi benar, tapi sama sekali tidak relevan. Jika saya memberi tahu seorang perempuan bahwa saya akan membunuh anak-anaknya jika dia tidak berhubungan seks dengan saya, dan dia menyerahkan diri kepada saya, kami mengerti dengan jelas bahwa tindakan tidak bermoral telah terjadi - walaupun saya tidak menggunakan senjata apapun dalam pelanggaran saya. Jelas, jika perempuan itu tunduk padaku, itu karena dia takut akan melakukan ancamanku. Jika saya mengatakan kepadanya bahwa hewan peliharaan saya akan membunuh anak-anaknya jika dia tidak berhubungan seks dengan saya, kemungkinan besar dia akan terganggu, tapi tidak akan takut akan ancaman saya dengan cara yang signifikan, karena tidak mungkin hewan peliharaan saya untuk membunuh. anak-anak dia. Atau, jika saya meninggal, dan surat wasiat saya menyatakan bahwa saya akan membunuh anak-anak perempuan ini jika dia tidak berhubungan seks dengan saya, jelas dia akan merasa lega daripada takut, karena saya tidak dapat membayangkan ancaman saya dari luar kuburan. Dengan demikian kita membayar pajak karena kita tahu bahwa jika tidak, kemungkinan akan diserang oleh perwakilan negara sangat tinggi. Jika saya tidak membayar pajak saya, saya akan mendapatkan sepucuk surat, kemudian surat lain, lalu telepon, lalu sebuah panggilan ke pengadilan - dan jika saya tidak hadir di pengadilan, atau tidak membayar pajak saya kembali dan mengumpulkan denda dan bunga , polisi akan datang membawa senjata untuk membawa saya ke penjara. Jika saya melawan polisi tersebut, mereka akan menembak saya.
 
 "Ah," anda mungkin berkata, "namun kostum ini tidak valid karena anda mendapatkannya di sebuah toko tangan kedua – mengenakan seragam prajurit tidak ada yang lebih membuat anda seorang prajurit dari fotokopi doktor memberi anda Ph.D."
 
@@ -101,6 +150,7 @@ Kita tahu bahwa itu adalah secara empiris palsu karena *tidak ada kontrak sosial
 Banyak orang akan berpendapat pada titik ini bahwa pajak tidak diberlakukan pada titik pistol, melainkan bahwa orang-orang yang membayar secara sukarela. Misalnya, saya tidak pernah punya pistol menunjuk di wajah saya oleh pemungut pajak atau polisi, tapi saya telah membayar pajak selama beberapa dekade.
 
 Ini mungkin benar, tetapi itu adalah benar-benar tidak relevan. Jika saya memberitahu seorang wanita bahwa aku akan membunuh anak-anaknya jika dia tidak berhubungan seks dengan saya, dan dia menyerahkan dirinya untuk aku, kita jelas memahami bahwa tindakan tidak bermoral telah terjadi – meskipun saya tidak menggunakan senjata dalam pelanggaran. Jelas, jika wanita tunduk kepada saya, itu adalah karena dia takut bahwa saya akan melaksanakan ancaman-ku. Jika saya mengatakan kepadanya bahwa saya peliharaan leprechaun akan membunuh anak-anaknya jika dia tidak berhubungan seks dengan saya, dia akan sangat mungkin terganggu, tapi tidak akan takut kepada ancaman-ku dalam setiap cara yang signifikan, karena tidak mungkin untuk hewan peliharaan saya leprechaun untuk membunuh anak-anaknya. Atau, jika saya meninggal, dan saya akan menyatakan bahwa aku akan membunuh wanita ini anak-anak jika dia tidak berhubungan seks dengan saya, jelas dia akan merasa lega daripada takut, karena aku tidak bisa dibayangkan bertindak keluar saya ancaman dari kubur. Dengan demikian kita membayar pajak karena kita tahu bahwa jika kita tidak melakukannya, kemungkinan menjadi aggressed terhadap oleh perwakilan dari negara ini sangat tinggi. Jika saya tidak membayar pajak saya, saya akan mendapatkan sebuah surat, maka surat yang lain, maka panggilan telepon, maka surat panggilan ke pengadilan – dan jika aku tidak muncul di pengadilan, atau tidak membayar saya kembali pajak dan akumulasi denda dan bunga, polisi akan datang dengan senjata untuk membawa saya ke penjara. Jika aku melawan orang-orang polisi, mereka akan menembak saya turun.
+
 
 Untuk mengatakan bahwa gaya sama dengan voluntarisme adalah benar-benar tidak logis dan kontradiksi-diri. Untuk mengatakan bahwa inisiasi penggunaan kekuatan adalah benar-benar sama dengan non-inisiasi penggunaan kekuatan adalah untuk mengatakan bahwa naik turun, hitam putih, dan kebenaran adalah kebohongan.
 
