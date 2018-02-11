@@ -98,14 +98,14 @@ Ang kagustuhang ito para sa unibersal na katotohanan ay hindi isang kagustuhan n
 
 Sa parehong paraan, ang katotohanan ay hindi lamang "mas mahusay" kaysa sa pagkakamali - ito ay *walang kahihinatnan*, o kinakailangan. 
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### Premise 8: Ang mga Indibidwal ay Responsable Para sa Kanilang Pagkilos
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+Kung magtatalo ako na ang mga tao ay hindi mananagot sa kanilang mga aksyon, ako ay nahuli sa isang kabalintunaan, na kung saan ang tanong ng *kung o hindi ako ang may pananagutan sa aking argumento, at kung ikaw man ay responsable para sa iyong tugon*.
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+Kung ang aking argumento na ang mga tao ay *hindi* mananagot sa kanilang mga aksyon ay totoo, kung gayon hindi ako mananagot sa aking argumento, at hindi ka mananagot sa iyong sagot. Gayunpaman, kung naniniwala ako na hindi ka mananagot para sa iyong tugon, gagawin ito ng kaunting kaunting kahulugan upang maisulong ang isang argumento - ito ay magiging eksaktong katulad ng pagtatalo sa isang set ng telebisyon.[^5]
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+Kung gayon, sa panimula, kung sasabihin ko sa iyo na hindi ka mananagot sa iyong mga aksyon, sinasabi ko sa iyo na higit na mas mainam para sa iyo na paniwalaan na imposible ang kagustuhan, dahil kung wala kang kontrol sa iyong mga aksyon, hindi ka maaaring pumili ng ginustong estado, ibig sabihin, katotohanan sa kasinungalingan. Kaya ang argumentong ito, tulad ng mga argumento sa itaas, mga pag-wasak sa sarili
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^4]: Ito ay kapaki-pakinabang upang mapanatili ang partikular na premyo sa isip, dahil ito ay napakahalaga sa susunod.
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]: Ang tanong ng responsibilidad ay, siyempre, malapit na nag-uugnay sa tanong ng libreng kalooban laban sa determinismo, na magiging paksa ng isa pang libro.

@@ -1,28 +1,28 @@
-## Internal Consistency
+Ṣíṣe déédéé ni abẹnu
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+Ti mo bá jẹ ayàwòrán, ti mo sì gbé ètò ilé kíkọ kan kalẹ, nkán akọkọ ti mo gbọdọ borí ni wipe ṣe ilé mi yóò gba tabi ko ni gba kíkọ rárá. Ti mo ba gbé ètò iyanu kan kalẹ nipa ilé kan ti a kọ sí orí àdàlú ọṣẹ, mi ọ ni iṣẹ na ṣe, nígbàtí irú "ile" na ko le duro.
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+Bákannáà, ti ẹni tó ní ìmọ ẹrọ kan ba gbé ètò kan kalẹ fún kíkọ afárá kan, àyẹwò tó gbọdọ mu itẹlọrun wa ni boya afara na yíò duro tabi ko ni duro. Awọn iṣaro mìíràn gẹgẹbi bi afara na yíò ṣe pẹ sí, àpẹẹrẹ àwòrán rẹ ati bẹbẹ lọ yíò se mulo ti afárá na ba le duro lati bẹrẹ iṣẹ le lori.
 
-It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
+Yíò jẹ ohun tí kò ní ọgbọn nínú - ka ma dárúkọ pe ko ni anfààní kankan - lati kọ afárá kan pẹlu awọn èlò yipo, lilọ "ìṣirò" ti a kan déédéé mu, lati ri bóyá yóò dúró tàbí kó ní dúró. Nígbàtí àwọn òfin nkan ojúlówó jẹ déédéé ti ọ sí kárí àgbáyé, ọ jẹ nkan tó rọrùn láti ṣe àyẹwò bóyá afárá náà yóò dúró tàbí kó ní dúró síwájú ki a to kọ.
 
-There are two ways to determine the viability of the bridge before building it. The first is to look for internal inconsistencies within the premises and calculations that claim to support the viability of the bridge. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+Awọn ọna méjì kan wa lati mọ boya afara náà yíò gbà ṣíṣe síwájú kí a tó kọ. Akọkọ ni lati wá aiṣedede abẹnu láàrín agbègbè náà àti ìṣirò to jẹri sí gbígbà ṣiṣe afárá náà. Ti àṣìṣe tó fojú hàn ba wa ninu ìṣirò to n ṣe ìdáláre ìwọn ẹrù ti afárá na lẹ gbè, lẹhinna afárá náà yíò ju bi ọ ti yẹ lọ, tabi kéré sí. Ti àṣìṣe ìṣirò ti onka ṣe òkùnfà idinku agbára adọta tonnu fún iwon ẹsẹ ni apa kan afárá náà, ọ dájú pé kò ní dúró - tabi, to ba dúró, ṣiṣe to gba yíò jé airotẹlẹ, ti iru rẹ mìíràn ko ni ṣeéṣe.
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+Awọn iṣiro onka ti n ṣe atilẹyin ṣíṣe afárá náà gbódò se déédéé labẹ nù síwájú kí a tó àkíyèsí àlàyé mìíràn.
 
-In computer terms, code that does not compile cannot be tested.
+Ninu òfin kọmputa, ọrọ ti ko ni akojọpọ ko ṣeṣe ìdánwò le lórí.
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Òtítọ ni èyí nínú ayé ìmọ sáyẹnsì bákanáà. A má n ṣe àyẹwò àlàyé fún déédéé abẹnu síwájú kí a tó ṣe àgbékalẹ́ fun ìdánwò. Ìdí tí ṣiṣe déédéé fi ṣe pàtàkì ni wipe àlàyé ma n gba wipe oun jẹ bákannáà pẹlu òtítọ, ati pé òtítọ lo ni déédéé abẹnu, èyíkéyìí àlàyé ti kò ni déédéé abẹnu kò rí bákannáà pẹlu òtítọ.
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+Lẹhin ti ṣíṣe déédéé abẹnu awọn iṣiro náà bá ti fìdí múlẹ ní a lè ṣe àyẹwò odiwọn afárá náà sí nkan ti a gbèrò. O rọrùn láti kọ àlàyé to ṣe déédéé labẹ nù fún afárá kékeré ti a fi ìgi balsa kọ, ṣugbọn àyàfi tí onimọ ẹrọ náà bá n kọ àròkọ fún ìwé ìròyìn ojú ọnà ìrin, àlàyé rẹ, pẹlu déédéé rẹ, ko ni ba ìbéèrè ile-iṣẹ mu.
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+Ti a ba ti pinnu pé afárá náà yíò dúró, a le wá pinnu bóyá o ṣe déédéé nkan ti a fẹ tàbí bẹkọ, gegebi ṣíṣe atilẹyin ìwúwo onírin ẹsẹ tabi ọkọ ojú ìrin.
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+Ninu agbègbè ọrọ ajé, odiwọn kànnà lo wa fún. Ti alààyè ọrọ ajé mi ba nilo ki idiyelé má lọ sókè ati isalẹ nígbà kannáà, ko le f'ẹsẹ múlẹ, nítorí pé èyí jẹ nkan ti kò ṣeéṣe. Ni kété ti aláayè mi ti gba àyẹwò fún déédéé abẹnu, Mo le bẹrẹ sí ní wa ẹrí, ati/tàbí bẹrẹ sí ní lò aláayè na lati ṣe asọtẹlẹ ìwúrí.
 
-Thus, we can see that any theory, to be valid, requires the following:
+Bayi, a le ríi pe èyíkéyìí alààyè, lat ni ìwúlò, yíò nilo awọn nkan wọnyii:
 
-1. Internal consistency (logic).
-2. External consistency (testability).
+1. Ṣíṣe déédéé abẹnu (iṣaro).
+2. Ṣíṣe déédéé n'ita (iṣeduro).
 
-With this in mind, we can now turn to the core subject of this book.
+Pẹlú eléyìí lọkàn, a lè wà padà sí kókó ọrọ ìwé yìí.
