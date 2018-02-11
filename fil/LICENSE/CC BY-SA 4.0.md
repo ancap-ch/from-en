@@ -40,7 +40,7 @@ j. **Lisensor** nangangahulugan na ang bawat mga indibidwal o entidad ay ipinagk
 
 k. **Share** nangangahulugan para maibigay ang materyal para sa pampubliko mula sa kahit anong proseso na nangangailangan ng mga permiso sa ilalim ng Lesensyadong Karapatan, katulad ng pagpaparami, pagpapakita sa publiko, pampublikong pagsasagawa, pagbabahagi, pagpapasabog, komuniksyon o pag angkat, at para gawin na ang materyal na magamit para sa pampubliko kasama ang mga paraan na ang myembro ng pampubliko ay ma-access ang materyal na porma sa lugar na ang oras ng napili nila sa isat-isa.
 
-l. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+l. **Sui Generis Database Rights** nangangahulugan na ang karapatan ng iba sa copyright ay nag reresulta derekta mula sa 96/9/EC ng taga-Europa na parlyamento at ang konseho sa Marso 1996 sa legal na proteksyon ng mga database, sa pagwawasto at/o nagtagumpay, katulad pa ng ibang katumbas na mahalaga sa karapatan kahit saan sa daigdig.
 
 m. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
 
