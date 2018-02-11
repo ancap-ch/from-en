@@ -2,7 +2,7 @@
 
 # Ang pag papalagay ng pag bahagi sa kapwa ng 4.0 na pan daigdigan
 
-Ang pag kakaparehas ng malikhain na samahan ("Creative Commons") ay hindi natin batas at ito ay hindi pinapag handa ng legal na mga serbisyo o legal na pag payo. Ang pamamahagi ng lesensyadong pam publikong malikhaing samahan ay hindi ginagawa ng abugado sa kleyente o sa iba pang relasyon. Ang mga malikhain na samahan ay gumagawa ng ng lesensya nito at ito ay kaugnay sa impormasyon na magagamit sa "as-is" na pag babatayan. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+Ang Creative Commons na samahan ("Creative Commons") ay hindi natin batas at ito ay hindi pinapag handa ng legal na mga serbisyo o legal na pag payo. Ang pamamahagi ng lesensyadong pam publiko ng Creative commons ay hindi ginagawa ng abugado sa kleyente o sa iba pang relasyon. Ang Creative Commons ay gumagawa ng ng lesensya nito at ito ay kaugnay sa impormasyon na magagamit sa "as-is" na pag babatayan. Ang Creative Commons ay hindi nag bibigay garantiya patungkol sa mga lesensya nito, ano mang bagay na lesensyado mula sa ilalim ng kanilang termino at mga kondisyon, o sa kahit ano mang kahalintulad na impormasyon. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
 
 ### Using Creative Commons Public Licenses
 
