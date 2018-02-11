@@ -30,4 +30,4 @@ Ito ay madali upang makita kung tayo ay mag-adopt ng Austrian view na pagpepresy
 
 Huwag sabihin na ang presyo sa loob ng cocaine suplay chain ay hindi mga uri ng pag-balanse ng presyo. Ang palagay ng pumapanig sa pag-balanse ay kung ano ang maling ginagawa sa pagsusuri. Ang pagkakamali ay nasa kahinaan para tanggapin na ang gastos (yan ay, ang pag-iral at hugis ng suplay) ay isang tungkulin ng naunang presyo (demand) ng huling kalakal.
 
-From this follows that changes in factor prices are not necessarily reflected in prices of consumer goods, especially in the short term. Rather, they will be reflected in the profit margins of producers, and can thus cause them to change their behavior.
+Mula dito sundin ang mga pagbabago sa kadahilanan ng ang presyo ay hindi talaga maipakita sa mga presyo ng mga kalakal ng mamimili, lalo na nasa panandalian lang. Rather, they will be reflected in the profit margins of producers, and can thus cause them to change their behavior.
