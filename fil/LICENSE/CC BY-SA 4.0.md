@@ -22,9 +22,9 @@ a. **Adapted Material** nangangahulugan na ang materyal ay paksa para sa Copyrig
 
 b. **Adapter's License** Mga kahulugan na ang iyong ina-aaply na lesensya ay iyong Copyright at kapareha sa Karapatan ng iyong mga kontribusyon na inaangkop sa materyal na pagalinsunod kasama ang termino at mga kondisyon ng pampublikong lesensya.
 
-c. **BY-SA Compatible License** means a license listed at [creativecommons.org/compatiblelicenses](http://creativecommons.org/compatiblelicenses), approved by Creative Commons as essentially the equivalent of this Public License.
+c. **BY-SA Compatible License** Ang mga ibig sabihin na tala sa [creativecommons.org/compatiblelicenses](http://creativecommons.org/compatiblelicenses), aprobado ng Creative Commons bilang isang esensyal na katumbas ng pampublikong lesensya na ito.
 
-d. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+d. **Copyright and Similar Rights** Ang kahulugan na ang copyright at/o katulad na mga karapatan ay nai lalapit sa kaugnay na kasama ang copyright, walang limitasyon, pagganap, pag lathala, pagrerecord ng tunog at ang Sui Generis Database Rights, walang pagsaalang alang kung papaano ang mga karapatan ng lebel o naikategorya. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
 
 e. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
 
