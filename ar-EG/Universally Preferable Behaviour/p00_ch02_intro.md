@@ -40,55 +40,54 @@ Hal yang sama berlaku di ranah moralitas.
 
 Melintasi "zona mansuh" ini penuh dengan resiko. Jalan dari kebenaran kecil menuju kebenaran besar diaspal dengan tulang-tulang jutaan orang. Dari kematian Sokrates hingga penyiksaan ilmuwan awal oleh fanatik religius, kepada jutaan orang yang telah membunuh dan meninggal karena fantasi hitam fasisme dan komunisme, dorongan pengetahuan manusia ke dalam "zona mansuh" penuh dengan bahaya yang cukup besar.
 
-Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
+Harus "melintasi zona mansuh" - atau dengan tanpa kelim menyatukan kebenaran kecil dengan kebenaran besar - pasti begitu sulit dan berbahaya? Ini merupakan tantangan besar untuk menyatukan persepsi dengan konseptual dalam sebuah garis lurus dari penalaran logis - tetapi *harus* kemajuan ini mengambil ribuan tahun dan lautan darah?
 
-If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
+Jika kita melihat perkembangan teknologi dan ekonomi umat manusia, kita melihat lebih atau kurang garis datar untuk ribuan tahun yang tak terhitung jumlahnya, yang diikuti oleh lonjakan besar dan asimtotik selama beberapa ratus tahun terakhir. Tidak terbayangkan bahwa beberapa mutasi genetika yang meluas dapat menyebabkan hal ini mendadak dan percepatan yang besar dari konsistensi intelektual dan kesuksesan material yang luar biasa. Teori-teori yang mengklaim bahwa ketentuan "efek bola salju" datang menjadi adanya, secara misterius didorong oleh akumulasi dari semua sedikit penambahan pengetahuan yang telah terjadi sejak awal peradaban, biasanya bisa dibubarkan dengan tidak terkendali sebagai penjelasan-penjelasan *ex post facto*, karena tidak memiliki nilai prediktif.
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+Jika kita memahami bahwa potensi mengejutkan kita yang  telah tersedia bagi kita setidaknya selama puluhan ribu tahun - dan bahwa ada kedua keuntungan besar dan kesenangan besar dalam melatihnya - kemudian sekaligus menjadi jelas bahwa kita benar-benar *melakukan* ingin menggunakan pikiran kita yang menakjubkan.
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+Jadi harus ada penurunan kekuatan yang secara historis bertindak untuk menghancurkan dan memperbudak kebebasan alam umat manusia.
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+Dalam ranah ilmu pengetahuan, tidaklah sulit untuk melihat kekuatan penindas yang terus-menerus membuat pikiran kita hampir tidak sadar. Kombinasi dari takhayul dalam bentuk keagamaan, dan kekerasan dalam bentuk aristokrasi, mengancam pemikir rasional dengan intimidasi, pemenjaraan, penyiksaan, dan pembunuhan. Sama seperti keuntungan petani dari rendahnya kecerdasan terhadap sapinya, dan pemilik budak memperoleh keuntungan dari ketakutan para budaknya, para imam dan raja mempertahankan hak istimewa mereka dengan mengancam siapa pun yang berani berpikir.
+Kebenaran yang sederhana adalah bahwa "imam-mam" dan "raja-raja" - dan - hanya laki-laki biasa. Kebenaran yang sederhana adalah bahwa para dewa dan setan yang seharusnya membenarkan peraturan mereka tidak pernah ada.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+Kami telah membuat langkah besar dalam memahami sifat dan realita kesetaraan manusia yang sederhana, tapi fakta yang menyedihkan dari masalah ini adalah bahwa ranah *moralitas* adalah masih hilang dalam "zona mansuh" - dalam ilusi yang merusak dari "kebenaran tengah."
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+### "Kebenaran Tengan"
 
-### "Middle Truths"
+Biarkan kami sebut prinsip-prinsip oposisi yang berada di "zona mansuh" - antara persepsi indra dan konsistensi konseptual - "kebenaran tengah".
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+"Kebenaran tengah" ini adalah ilusi yang sangat berbahaya dari semua, karena mereka memberikan *penampilan* dari kebenaran sementara yang sebenarnya *menyerang* kebenaran.
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+Dengan memberikan ilusi bahwa kita telah menemukan kebenaran, "kebenaran tengah" sebenarnya mencegah kita untuk mendapatkan kebenaran. Mereka adalah garis terakhir pertahanan untuk fantasi, predasi dan eksploitasi.
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+Semenjak mereka tidak hanya irasional, tapi *anti*-rasional, "kebenaran tengah" tetap tanpa henti fleksibel - selama mereka melayani mereka yang berkuasa. Misalnya, agama kristen muncul dari fasisme yang berkembang di kekaisaran Romawi akhir yang sebagian menyerang takhayul "primitif" dari teologi yang ada. "Lupakan tuhan-tuhan lama anda, kita memiliki tuhan baru yang jauh lebih baik!"
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+"Kebenaran tengah" selalu berbentuk  sebuah kebenaran, yang diikuti oleh sebuah kebohongan. "Zeus adalah takhayul pagan" merupakan sebuah pernyataan yang benar, yang secara terbuka dibuat oleh penganut-penganut agama Kristen. Kebohongan yang diikuti adalah: "Yahweh bukanlah takhayul pagan, tapi tuhan yang nyata dan hidup."
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+Kita dapat mempersonalisasikan ini sedikit lebih dengan sebuah contoh yang akan akrab bagi siapa saja yang pernah menasihati seorang teman disfungsional. "Pacarku yang terakhir benar-benar menyebalkan," dia akan berkata, dan anda akan sangat setuju. "Pacarku yang baru benar-benar *hebat* meskipun," dia akan menambahkan, dan anda akan mencoba untuk tidak memutar mata anda.
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+Hal ini sangat sulit untuk tidak mengganti satu ilusi dengan yang lain.
 
-It is very hard not to replace one illusion with another.
+"Pemerintah Inggris adalah sebuah kezaliman!" Teriak para revolusioner Amerika di abad kedelapan belas - dan, setelah mengusir tentara Inggris, mereka kemudian mendirikan pemerintahan mereka sendiri dan mulai menyerang warganya sendiri.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+"Aristokrasi adalah sebuah kekejian yang tidak adil!" Teriak para revolusioner lainnya, yang kemudian membentuk kezaliman mayoritas dalam bentuk demokrasi.
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+"Kebenaran tengah" juga bisa ada dalam ilmu pengetahuan, dan juga yang mencegah kemajuan alami dari kebenaran kecil sehingga kebenaran besar. Sampai abad kedelapan belas, misalnya, para ahli biologi percaya pada "generasi spontan", atau gagasan bahwa hidup dapat muncul dari materi yang tidak hidup. Tentu saja ini tidak pernah diamati, namun sesuai dengan tulisan kuno baik filosofis maupun religius, dan karenanya diterima sebagai fakta. Juga, sebelum revolusi Einstein pada tahun 1905, cahaya diyakini bergerak melalui substansi tetap dan tak terlihat yang disebut "eter bercahaya," seperti gelombang suara yang bergerak melalui udara. Tidak ada ilmuwan yang percaya teori ini memiliki bukti empiris untuk "eter" ini baik secara pribadi maupun ilmiah - namun dianggap perlu untuk menyesuaikan diri dengan karakteristik-karakteristik lain yang dapat diamati.
 
-“Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
+Agama juga merupakan "kebenaran tengah" lain - salah satu yang sangat berbahaya sekali. Memang benar bahwa kita adalah sebuah spesies unik di alam semesta, sejauh pengetahuan kita. Seekor jerapah adalah orang berkaki empat yang lebih tinggi, tapi manusia bukan hanya primata "pintar", tapi juga berbeda. Sifat dari perbedaan itu tetap tidak diketahui - penjelasan religius tentang "kita tidak sama dengan hewan karena kita memiliki jiwa dan diciptakan oleh tuhan" hanyalah contoh lain dari "kebenaran tengah". Hali ini memang benar bahwa kita adalah sangat berbeda dengan hewan. Hal ini tidak benar bahwa kita diciptakan oleh tuhan dan memiliki jiwa.
 
-Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+Sama halnya seperti beberapa parasit yang  tidak bisa berakar sampai mereka mengusir parasit-parasit sebelumnya, "kebenaran tengah" hanya menyerang ilusi sebelumnya *sehingga mereka dapat mengambil tempatnya*. Mereka yang skeptis terhadap fantasi sebelumnya tertarik pada fantasi baru. Dengan demikian, agama kristen menggantikan paganisme, Marxisme menggantikan agama Kristen, post-modernisme menggantikan Marxisme, demokrasi menggantikan aristokrasi, dan sebagainya.
 
-Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+Sampai kebenaran besar semuanya tercapai, dan dipersatukan dengan kebenaran kecil, "kebenaran tengah" hanyalah perpaduan antara kebohongan eksploitatif dan destruktif - yang dirancang khusus untuk mencegah pencapaian kebenaran besar.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+Dan kebenaran yang besar selalu dicapai dari kebenaran yang kecil.
 
-And the great truths are always achieved from the little truths.
+Dunia jatuh karena batu-batu jatuh.
 
-The world falls because a rock falls.
+### "MKebenaran Tengan" dan Eksploitasi
 
-### "Middle Truths" And Exploitation
-
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+Secara biologis, parasitisme adalah sebuah strategi bertahan hidup yang sepenuhnya bertahan untuk banyak makhluk. Dengan tidak adanya norma etika, mencuri energi dan sumber daya dari makhluk lain sangat masuk akal. Secara umum, bentuk parasitisme yang paling stabil dan stabil adalah *simbiosis*, atau koeksistensi yang saling menguntungkan. Dengan demikian bakteri yang menghuni usus-usus kita membantu kelangsungan hidup mereka sendiri dengan membantu kita mencerna makanan kita.
 
 However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
 
