@@ -1,4 +1,4 @@
-## creative commons
+## ang mga ordinaryong malikhain
 
 # Attribution-ShareAlike 4.0 International
 
