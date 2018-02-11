@@ -2,9 +2,9 @@
 
 # Ang pag papalagay ng pag bahagi sa kapwa ng 4.0 na pan daigdigan
 
-Ang Creative Commons na samahan ("Creative Commons") ay hindi natin batas at ito ay hindi pinapag handa ng legal na mga serbisyo o legal na pag payo. Ang pamamahagi ng lesensyadong pam publiko ng Creative commons ay hindi ginagawa ng abugado sa kleyente o sa iba pang relasyon. Ang Creative Commons ay gumagawa ng ng lesensya nito at ito ay kaugnay sa impormasyon na magagamit sa "as-is" na pag babatayan. Ang Creative Commons ay hindi nag bibigay garantiya patungkol sa mga lesensya nito, ano mang bagay na lesensyado mula sa ilalim ng kanilang termino at mga kondisyon, o sa kahit ano mang kahalintulad na impormasyon. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+Ang Creative Commons na samahan ("Creative Commons") ay hindi natin batas at ito ay hindi pinapag handa ng legal na mga serbisyo o legal na pag payo. Ang pamamahagi ng lesensyadong pam publiko ng Creative commons ay hindi ginagawa ng abugado sa kleyente o sa iba pang relasyon. Ang Creative Commons ay gumagawa ng ng lesensya nito at ito ay kaugnay sa impormasyon na magagamit sa "as-is" na pag babatayan. Ang Creative Commons ay hindi nag bibigay garantiya patungkol sa mga lesensya nito, ano mang bagay na lesensyado mula sa ilalim ng kanilang termino at mga kondisyon, o sa kahit ano mang kahalintulad na impormasyon. Ang Creative Commons ay tumatalikwas sa lahat ng pananagutan ng mga sirang resulta ng kanilang pag gamit sa pinaka todong posibleng lawak.
 
-### Using Creative Commons Public Licenses
+### Gamit ang Creative Commons na pam publikong lesensya
 
 Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
 
