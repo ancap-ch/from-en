@@ -34,9 +34,9 @@ g. **License Elements** mangangahulugan na ang mga pagukol ng lesensya ay nakata
 
 h.**Licensed Material** nangangahulugan na ang pagkamasining o pampanitikan na gawa, database, o iba pang materyal kung saan ang tagapaglesensya ay inilapat sa pampublikong lesensya na ito.
 
-i. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+i. **Licensed Rights**nangangahulugan na ang karapatan ay ipinagkaloob saiyo ang paksa para sa termino at mga kondisyon ng pampublikong lesensya na ito. kung saan limitado ang lahat ng Copyright at mga kahalintulad ng mga karapatan na ilalapat sa iyong gamit na materyal na lesensya at ang tagapaglesensya ay may awtoridad para sa lesensya.
 
-j. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
+j. **Lisensor** nangangahulugan na ang bawat mga indibidwal o entidad ay ipinagkakaloob ang mga karapatan sa ilalim ng pampublikong lesensya na ito.
 
 k. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
 
