@@ -42,9 +42,9 @@ k. **Share** nangangahulugan para maibigay ang materyal para sa pampubliko mula 
 
 l. **Sui Generis Database Rights** nangangahulugan na ang karapatan ng iba sa copyright ay nag reresulta derekta mula sa 96/9/EC ng taga-Europa na parlyamento at ang konseho sa Marso 1996 sa legal na proteksyon ng mga database, sa pagwawasto at/o nagtagumpay, katulad pa ng ibang katumbas na mahalaga sa karapatan kahit saan sa daigdig.
 
-m. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+m. **You** nangangahulugan na ang indibidwal o paggamit ng entidad sa karapatan sa ilalim ng Pampublikong Lesensya. Ang iyong pagtugon sakahulugan.
 
-### Section 2 – Scope.
+### Seksyon 2 - Saklaw.
 
 a. ***License grant.***
 
