@@ -12,7 +12,7 @@ Ang problema kasama ang argumento iyan ba ay umaasa sa simpleng balanseng pagsus
 
 Pati, sa isang estado ng pag-balanse ng gastos sa "perpektong" nagpapakita ng sosyal na oportunidad na mga gastos, at "perpektong" kumpetisyon magdadala ng presyo at gastos magkasama kaya't hindi isa ay kayang magkaroon ng ekonomiya na kita. Sa ibang salita, walang diperensya sa pagitan ng presyo at gastos. Mayroon, dahil dito, walang rason para dito sa teorya na makilala ang kaibahan sa pagitan ng pansamantala o sanhi \--- nagpakita sila maging determinado at tama. Ito rin ay kung paano sila pakitunguhan sa modelo ng ekonomiya na mga estudyante matutong "i-maximize."
 
-# Price Drives Cost  — Not the Other Way Around
+# Mga Presyo sa Pagmamaneho ng Gastos \--- Hindi ang Ibang Paraan sa Paligid
 
 Tulad ng alam natin, gaano man, ang tunay na merkado ang pag-proseso ay hinihimok ng * entrepreneurship* at aktor sa merkado hindi lang tumutugon sa mga kinatawan. Mga negosyante huwag mabuhay sa pag-balanse, at sila na-base nila ang negosyo sa mga desisyon sa kanilang sariling appraisal ng ibat ibang mga pagkilos at ang kanilang naisip na kinalabasan. Dito sa tunay na merkado, Mga presyo sa pagmamaneho ng gastos\---  hindi ang ibang paraan sa paligid. Indeed, Carl Menger noted that the value of any production good is derived from consumers’ valuation of the consumption goods that it produces, not the other way around. This is also core to for example Mises’s argument about economic calculation.
 
