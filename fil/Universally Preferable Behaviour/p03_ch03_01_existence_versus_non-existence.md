@@ -12,7 +12,7 @@ Sa ibang salita, sa pagsasabi "Ang Diyos ay buhay," ako ay nakagawa ng hindi mal
 
 Ang pagkakatulad, kung ako ay gagawa ng ilang alternatibong universo na kung saan ang "walang buhay katumbas ng buhay at "mag kasalungat katumbas ng Hindi nag babago" at Ang "katotohanan katumbas ng kasinungalingan"at Ang "pagkamakatwiran katumbas ng Hindi makatwiran," kung anu talaga ang ginawa ko nakalikha ako ng Lupain na tinataw na "pagkakamali," ipalagay na ang lahat ng ito ay Hindi totoo, at ang tinutukoy ng lupain na ito ay isang lugar na Kung saan ang "pagkakamali ay katumbas ng katotohanan."[^2]
 
-Syempre, ang tao ay bawal gumawa nito "alternatibong universo" upang mapawalang bisa ang katotohanan sa loob ng ating universo, pero sahalip na alisin ang mali sa katotohanan, at tawaging itong totoo. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Syempre, ang tao ay bawal gumawa nito "alternatibong universo" upang mapawalang bisa ang katotohanan sa loob ng ating universo, pero sahalip na alisin ang mali sa katotohanan, at tawaging itong totoo. Halimbawa, walang sinuman nag-uudyok "ang Diyos ay nabuhay sa ibang universo, kaya hindi mo pweding sabihin na ang Diyos ay hindi nabuhay" kaylanman ipaliwanag "*I* maaaring hindi nabuhay sa ibang universo, kaya hindi mo pweding ariin na ako ay nabuhay dito."
 
 They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
 
