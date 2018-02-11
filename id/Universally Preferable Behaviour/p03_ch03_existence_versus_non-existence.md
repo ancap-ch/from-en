@@ -321,75 +321,67 @@ Einstein revolutionised physics by claiming – and proving – that the speed o
 
 We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
 
-### Government, Religion, And UPB
+### Pemerintah, Agama, Dan UPB
 
-When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
+Ketika kita mengambil UPB kerangka dan menerapkannya untuk moral proposisi mengenai pemerintah dan agama, beberapa hasil yang sangat menarik terjadi.
+Proposisi yang paling sering digunakan untuk membenarkan kekuasaan pemerintah adalah: "pemerintah memiliki hak untuk mengambil uang anda." Ini, bagaimanapun, adalah benar-benar tidak tepat dan pernyataan yang salah. "Pemerintah" tidak memiliki hak untuk mengambil uang anda, karena "pemerintah" adalah hanya sebuah konsep, sebuah deskripsi abstrak untuk self-didefinisikan sekelompok orang. UPB membutuhkan lebih konsisten dan pernyataan tujuan. Sejak aturan-aturan moral harus sama untuk semua orang di segala tempat dan di segala waktu, kita harus ulangi aturan dalam cara ini:
+"*Manusia secara moral dapat mengambil uang dari manusia lainnya jika mereka membuat konseptual badan yang membenarkan tindakan mereka.*"
 
-The proposition that is most often used to justify government power is: “the government has the right to take your money.” This, however, is an utterly imprecise and false statement. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+Jika kita kembali ke Bob dan Doug kami sedikit ruang moral eksperimen, kita dapat dengan cepat melihat bahwa ini menjadi mustahil proposisi.
 
-“*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
+Jika Bob mengatakan untuk Doug: "sekarang saya mewakili konsep ideal 'FUBAR,' yang sepenuhnya membenarkan saya mengambil yang lebih ringan dari anda. Karena sekarang kau berhutang padaku ringan anda, anda harus menyerahkannya, atau aku akan dipaksa untuk mengambilnya dengan paksa."
 
-If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
+Apa yang akan Doug reaksi? Ingat, menurut UPB, apa pun yang berlaku untuk Bob juga harus berlaku bagi Doug. Tak pelak, Doug akan menjawab: "Oh ya? Baik *I* sekarang mewakili konsep ideal 'ANTI-FUBAR,' yang sepenuhnya membenarkan saya tetap mempertahankan kepemilikan saya lebih ringan. Karena sekarang kau tidak punya hak untuk mengambil yang lebih ringan, jika anda mencoba untuk mengambil itu, aku akan dipaksa untuk membela diri dengan kekuatan."
+Seperti yang anda lihat, jika *Bob* memiliki hak untuk membuat imajiner kewajiban dan memaksakan mereka pada Doug, maka *Doug* memiliki hak untuk membuat imajiner kewajiban dan memaksakan mereka pada Bob. Jelas, kami segera akan berakhir di jalan buntu. Jika itu adalah baik secara moral untuk memaksakan dibuat-up kewajiban pada orang lain, tetapi tidak mungkin untuk melakukannya jika *orang-orang* memiliki kemampuan itu, maka moralitas menjadi tidak mungkin. Satu-satunya cara agar Bob bisa memaksakan dibuat-up kewajiban Doug adalah jika Doug menolak untuk memaksakan terdiri kewajiban Bob – dengan demikian kita memiliki situasi di mana apa yang moral untuk satu orang hanya dapat dicapai oleh orang lain yang bertindak dalam anti-moral dengan cara. Kebajikan dengan demikian dapat hanya diaktifkan oleh wakil, yang mungkin – dan kita telah menentang aturan-aturan moral untuk dua manusia dalam keadaan yang sama, yang UPB langsung menolak karena tidak valid.
+Dengan kata lain, setiap imajiner abstrak pembenaran untuk penggunaan kekuatan dapat dimentahkan oleh yang lain imajiner abstrak pembenaran untuk penggunaan kekuatan. Jika aku punya teman imajiner yang dapat membenarkan segala sesuatu yang saya lakukan, maka anda ** juga dapat memiliki teman imajiner yang dapat membenarkan segala sesuatu yang anda lakukan. Dengan demikian tidak satupun dari kita dapat memiliki kemampuan untuk memaksakan imajiner kita kewajiban pada orang lain.
 
-If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
+#### Agama Dan UPB
 
-What will Doug’s reaction be? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
+Hal yang sama berlaku untuk agama.
 
-As you can see, if *Bob* has the right to make up imaginary obligations and impose them on Doug, then *Doug* has the right to make up imaginary obligations and impose them on Bob. Clearly, we immediately end up in a perfect stalemate. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Virtue can thus only be enabled by vice, which is impossible – and we have opposing moral rules for two human beings in the same circumstance, which UPB instantly rejects as invalid.
+Pernyataan: "Anda harus mematuhi-ku, karena Allah memerintahkan hal itu," harus disajikan lebih akurat sebagai: "suatu entitas yang telah saya buat atas perintah anda untuk taat kepada-ku." Prinsip bahwa UPB membutuhkan, kemudian, adalah: "Manusia harus memaksakan unchosen positif kewajiban pada orang lain, dan membenarkan kewajiban-kewajiban menurut entitas imajiner."
 
-In other words, every imaginary abstract justification for the use of force can be countered by another imaginary abstract justification for the use of force. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Thus neither of us can possess the ability to impose our imaginary obligations on others.
+Di sini kita melihat masalah yang sama seperti di atas. Bob mengatakan Doug: "Kamu harus memberi saya lebih ringan, karena teman khayalan saya memberitahu anda." Secara alami, Doug balasan: "Anda tidak harus meminta saya untuk anda akan lebih ringan, karena *my* teman imajiner yang melarang anda untuk." Jika Bob "perintah-perintah" yang berlaku, maka Doug "perintah-perintah" yang sama-sama valid, dan membatalkan satu sama lain.
 
-#### Religion And UPB
+Dengan cara yang sama, jika seorang pria mengklaim bahwa konsep yang disebut "pemerintah" membenarkan pencurian properti saya, maka saya bisa mengklaim bahwa saya konsep yang disebut "anti-pemerintah" membenarkan saya *retensi* properti saya, dan kami berdua sama-sama "berlaku" dalam pembenaran.
 
-The same holds true for religion.
+Jika pajak ini kolektor kemudian mengklaim bahwa konsep yang disebut "pemerintah" hanya membenarkan pencurian *my* properti, tidak saya retensi dari itu, maka kita tidak lebih jauh ke depan. Dia dapat mengambil ribu dolar, tapi kemudian saya bisa memanggil saya konsep untuk "mencuri" uang itu kembali, dan moral teori memerintahkan kita untuk menghabiskan sisa keabadian menyerahkan bolak balik ribu dolar.
 
-The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
+#### UPB Dan "Mayoritas"
 
-Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+UPB tidak memungkinkan untuk akumulasi individu untuk menimpa atau sebaliknya sifat dari masing-masing individu. Sepuluh lions tidak membuat gajah, pemerintah, atau allah. Sepuluh ribu tentara mungkin membuat sebuah "tentara," tetapi mereka tidak dapat membalikkan gravitasi, atau membuat pembunuhan moral.
+Kembali untuk terakhir kalinya ke kamar Bob dan Doug, mari kita memperkenalkan "Jane."
+Sekarang bahwa ada tiga orang di dalam ruangan, kita dapat melihat pada "kekuasaan mayoritas" prinsip.
+Jika Bob, Doug dan Jane mengambil "vote" pada apakah atau tidak itu adalah moral untuk memperkosa Jane, kita semua akan mundur pada seperti tidak adil dan tidak bermoral premis. Dengan jelas, bahkan bila Jane "kalah suara," kami tidak akan mempertimbangkan akibat perkosaan harus berubah menjadi baik secara moral bertindak.
 
-In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
+Mengapa tidak?
 
-If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
+Nah, UPB tidak mengakui realitas agregasi, karena "sebagian besar" hanya konseptual tag; itu tidak ada dalam kenyataan, lebih dari "dewa" atau "pemerintah". Dengan demikian untuk mengklaim bahwa konsep "mayoritas" ada semacam moral yang berdiri adalah benar-benar tidak valid – itu adalah seperti mengatakan bahwa "Tanah air" dapat menghamili seorang wanita, atau yang satu dapat duduk dalam kata "kursi."
+Untuk mengatakan bahwa "mayoritas" memiliki hak atau atribut yang secara langsung bertentangan dengan hak-hak atau atribut dari setiap individu juga bertentangan dengan prinsip-prinsip rasional, karena setiap konseptual pengelompokan ini hanya divalidasi oleh identifikasi akurat dari karakteristik individu. Jika saya mengatakan bahwa "mamalia" berdarah panas makhluk hidup, saya bisa secara logis mencakup tiga plastik flamingo dalam kategori "mamalia"?
 
-#### UPB And "The Majority"
+Tentu saja tidak.
 
-UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
+Dengan demikian jika itu adalah kejahatan bagi manusia untuk memperkosa, saya bisa secara logis membuat kategori yang disebut "mayoritas" dan kemudian mengklaim bahwa untuk *ini* manusia, pemerkosaan sekarang moral yang baik?
 
-Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
+Tentu saja tidak.
 
-Now that there are three people in the room, we can look at the “majority rule” principle.
+### Sebagian Besar Aturan
 
-If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
+Saya bisa membuat moral aturan yang mengatakan: "mayoritas harus mampu melakukan apapun yang ia mau"?
 
-Why not?
+Tentu saja aku bisa, tapi itu tidak akan pernah menjadi valid atau benar.
 
-Well, UPB does not recognise the reality of aggregations, since the “majority” is a mere conceptual tag; it does not exist in reality, any more than “gods” or “governments” do. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
+Hanya *individu* act – "sebagian" tidak pernah. Jika aturan-aturan moral dapat berubah ketika sejumlah orang bersama-sama, maka UPB terus dilanggar.
 
-To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
+Jika itu adalah moral untuk Bob dan Doug memperkosa Jane karena mereka telah "kalah suara kepadanya," apa yang terjadi ketika Jane dua teman datang dan memberikan suara terhadap Bob dan Doug neraka keinginan?
 
-Of course not.
+Nah, tiba-tiba Bob dan Doug adalah orang-orang yang kalah suara, dan pemerkosaan menjadi "jahat" bagi mereka lagi.
 
-Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
+Apa-apa yang substansial telah berubah dalam "outvoting" skenario, tapi kami memiliki serangkaian menentang aturan-aturan moral bagi orang-orang yang sama – pelanggaran UPB, dan dengan demikian tidak valid.
 
-Of *course* not.
+Pemerkosaan tidak bisa menjadi baik, kemudian yang jahat, maka baik lagi, hanya karena beberapa tangan yang dinaikkan atau diturunkan.
 
-### Majority Rule
-
-Can I create a moral rule that says: “the majority should be able to do whatever it wants”?
-
-Of course I can, but it will never be valid or true.
-
-Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
-
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
-
-Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
-
-Nothing substantial has changed in these “outvoting” scenarios, but we have a series of opposing moral rules for the same men – a violation of UPB, and thus invalid.
-
-Rape cannot be good, then evil, then good again, just because a few hands are raised or lowered.
-
-Thus if you think that “majority rule” sounds like a reasonable moral proposition, and a perfectly valid moral theory, then I am afraid you’re going to have to go back to the beginning of this book and start again!☺
+Dengan demikian jika anda berpikir bahwa "kekuasaan mayoritas" suara moral proposisi, dan sah moral teori, maka saya takut anda akan harus kembali ke awal buku ini dan mulai lagi!☺
 
 [^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
 
