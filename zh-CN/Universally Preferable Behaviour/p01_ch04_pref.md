@@ -1,54 +1,54 @@
-## Preferences
+## 偏好性
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+现在我们理解了弄巧成拙的论点的本质，我们可以转向偏好的问题。
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+偏好是任何定义命题真值的方法论的核心。例如，科学方法主要由对逻辑一致性和实证验证的先天偏好来定义。对科学来说，前提是：如果你想确定一个关于物质和能量行为的有效真理，那么最好用科学的方法。
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+从这个意义上说，“可取的”并不意味着“更好”，而是“需要”。如果你想活下去，你最好不要吃一把砒霜。如果你想确定关于现实的有效真理，那么你的理论必须是内在一致的和经验可验证的。“普遍优先”则转化为“客观要求”，但我们会保留“优先”来区分人类和非可选可选绝对物理绝对如重力之间。
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+同样，如果道德理论能够完全有效，那么它们至少必须是内外一致的。换句话说，一个自相矛盾的伦理理论是无效的 - 一个违背经验主义证据和普遍普遍偏好的伦理理论也不能成立。
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+因此，在道德伦理学中，正如在科学、数学、工程和其他所有将理论与现实相比较的学科中一样，有效的理论必须是逻辑上是一致的和经验可验证的。
 
-### Preferences And Existence
+### 偏好性与存在性
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+如果我说“我喜欢冰淇淋”，那句话中只有一个词是模棱两可的。显然“我”存在，因为我表达了个人偏好。同样明显的是，冰淇淋也存在于现实中。然而，“喜欢”这个词更成问题。
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+偏好在现实中并不客观存在。如果你很好奇，你也许可以跟在我的周围，并记录每次我吃了冰淇淋，这可能会建立我的偏好有提供实证依据。然而，这种可能性可能存在，我实际上是一个受虐狂，并且不喜欢冰激凌，并且喜欢用不愉快的口味来折磨自己– 然后迷惑你说喜欢它。
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+我们可以找到偏好的证据，我们在现实中找不到自己的偏好。偏好存在于意识和物质之间的关系，正如重力存在于质量体之间的关系一样。
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+撇开自由意志和决定论这两个具有挑战性的问题，假定一个人在现在做的事情是他或她“喜欢”做的是合理的。如果我起床去上班，显然我宁愿那样做，而不是所有其他的选择。即使我讨厌我的工作，我也很明显地讨厌它，比如说，身无分文。
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+鉴于人类可以进行各种各样的行动，任何人正在做的事情都是从所有可能的选择中选择出来的。我选择写这本书，而不是说，学探戈。
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+当我们将这个简单的事实应用于伦理论证时，我们会得出一些非常有趣的结果。
 
-### Preferences And Arguments
+### 偏好性和争论性
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+记住我们上面的自我挫败的参数分析，我们可以很容易地理解语句的矛盾性：“偏好不存在。鉴于每一个人的行为 - 包括做出哲学陈述 - 是优先于其他可能的行动选择，认为偏好不存在需要一个认为偏好不存在偏好，这是一个自相矛盾的陈述。认为偏好不存在的说法与语言不存在完全相同。这是一个完全自欺欺人的论点。
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+因为不表达偏好是不可能的，不管是含蓄的还是明确的，任何行为的人都会接受偏好存在的前提。因此，如果不接受偏好的存在，就不可能辩论偏好的存在。
 
-### Preferences And Universality
+### 偏好性和普遍性
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+下一个问题就是：偏好纯粹是主观的，还是它们是普遍的?
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+显然，有些偏好是主观的。音乐爱好、个人爱好、喜爱的文学等等都是主观的和个人的喜好。
 
-The challenge arises when we try to define some preferences as *objective*.
+当我们试图将某些偏好定义为目标时，就会产生挑战。
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+摆在我们面前的主张是：一些偏好是否可以是客观的，即普遍的？
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+当我说一些偏好可能是客观的，我并不意味着所有人都会遵循这些偏好。如果我认为呼吸是一种客观的偏好，我可以很容易地以那些通过自杀而自杀的人为榜样。如果我说吃是客观的偏好，我的论点可以用饥饿和厌食的例子来反驳。
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
+因此，当我谈到普遍的偏好时，我是在谈论人们应该喜欢什么，而不是他们总是喜欢什么。用一个科学的类比，真正了解宇宙，人们应该用科学的方法–这并不意味着他们总是这样做，因为显然数十亿人查阅古代童话故事而不是现代科学的“答案”是没有办法实现的真相，没有科学的宇宙，但人们完全可以自由地将“真理”重新定义为“错误”，并以神秘的废话满足于自己。
 
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+同样，如果一个人想治愈感染，他应该服用抗生素，而不是表演阿兹台克舞。因为跳舞不能治愈感染，所以选择服用抗生素而不是跳跳舞是很普遍的。因此，虽然有偶尔的疯子试图通过跳舞来治疗自己，但如果一个人想要自己治好，他必须服用抗生素。
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+换句话说，如果你想到达山顶，希望它永远不会工作。如果你想知道宇宙的起源，祈祷永远不会给出答案。人们仍然希望和祈祷，但是这并不能使祈祷或祈祷更有效。考虑到这一点，让我们谈谈是否普遍优惠是否有效的问题。
 
-### Arguments And Universality
+### 争论性和普遍性
 
 If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
 

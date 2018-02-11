@@ -44,7 +44,7 @@ content_files:
   # they will be added in order.
   
 translation:
-  language: en
+  language: nl
   # available languages: https://github.com/ancap-ch/genpdf/blob/master/const.yml
 
   is_translation: true 
