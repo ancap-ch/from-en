@@ -28,6 +28,6 @@ Ang halimbawa ni Wainwright, ang isang kilo ng cocaine, may isang merkado ang ha
 
 Ito ay madali upang makita kung tayo ay mag-adopt ng Austrian view na pagpepresyo ng kalakal na produkto ay tapos na "pabalik" sa pamamagitan ng pag-bid ng pangnegosyo sa pagpuntirya ng mga presyo para sa maunang mamimili. Ngunit gamit ang suplay-at-demand ng iskedyul para sa pag-balanse ng presyo maaaring makagawa ng isang panimula ng isang pundamental na maling pagsusuri\--- kahit na sa pamamagitan ng mga taong kinilala na ang pagpapalagay ay hindi makatotohanan (kung saan si roberts ay natural).
 
-Hindi ito sabihin na ang presyo sa loob ng cocaine suplay chain ay hindi mga uri ng pag-balanse ng presyo. Ang palagay ng pumapanig sa pag-balanse ay kung ano ang maling ginagawa sa pagsusuri. The error lies in failing to recognize that cost (that is, the existence and shape of supply) is a function of the anticipated price (demand) of the final good.
+Huwag sabihin na ang presyo sa loob ng cocaine suplay chain ay hindi mga uri ng pag-balanse ng presyo. Ang palagay ng pumapanig sa pag-balanse ay kung ano ang maling ginagawa sa pagsusuri. Ang pagkakamali ay nasa kahinaan para tanggapin na ang gastos (yan ay, ang pag-iral at hugis ng suplay) ay isang tungkulin ng naunang presyo (demand) ng huling kalakal.
 
 From this follows that changes in factor prices are not necessarily reflected in prices of consumer goods, especially in the short term. Rather, they will be reflected in the profit margins of producers, and can thus cause them to change their behavior.
