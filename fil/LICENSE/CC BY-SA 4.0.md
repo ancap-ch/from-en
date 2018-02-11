@@ -14,7 +14,7 @@ Ang Creative Common na pam publikong lesensya ay nag lalaan ng pamantayan sa set
 
 ## Ang Creative Commons Attribution-ShareAlike 4.0 Internasyonal na Publikong Lesensya
 
-Sa pamamagitan ng karapatan ng lesensya (defined below), Tanggapin mo at sumang ayon sa nakatali mula sa mga termino at mga kondisyon mula sa Creative Commons Attribution-Sharelike 4.0 Internasyonal na Publikong lisensya ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+Sa pamamagitan ng karapatan ng lesensya (defined below), Tanggapin mo at sumang ayon sa nakatali mula sa mga termino at mga kondisyon mula sa Creative Commons Attribution-Sharelike 4.0 Internasyonal na Publikong lisensya ("Public License"). Sa lawak ng Publikong lesensya maaring maipaliwanag bilang isang kontrata, Ikaw ay pinag kakalooban ng karapatan sa lesensya bilang isang konsederasyon sa pag tanggap ng iyong termino at mga kondesyon, at ang tagapaglesensya ay pinag kakalooban gaya ng kosederasyon ng mga benepisyo na natatanggap mula sa paggawa ng magagamit na Materyal sa lesensya na sumasa ilalim sa mga termino at mga kondisyon.
 
 ### Section 1 – Definitions.
 
