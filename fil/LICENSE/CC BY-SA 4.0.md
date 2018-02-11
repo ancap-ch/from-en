@@ -1,4 +1,4 @@
-## ang mga pagkaraniwang malikhain
+## ang mga creative commons
 
 # Ang pag papalagay ng pag bahagi sa kapwa ng 4.0 na pan daigdigan
 
