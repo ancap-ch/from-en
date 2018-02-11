@@ -291,69 +291,69 @@ When we strip away mythology and fiction from our “interactions” with our ru
 
 Let’s take as an example a very real and present danger: taxation.
 
-#### Taxation
+#### Perpajakan
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Saya diberitahu bahwa, berdasarkan pilihan untuk tinggal di Kanada, saya berhutang pada "pemerintah" lebih dari lima puluh persen dari penghasilan saya.
 
-Stripped of mythology, what does this really translate to?
+Dilucuti dari mitologi, apa ini benar-benar diterjemahkan?
 
-In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+Pada kenyataannya, saya akan menunggu sampai akhir zaman untuk "pemerintah" datang dan mengambil uangnya. Menunggu "pemerintah" untuk mampir adalah seperti ingin berkencan dengan konsep "feminitas." Saya mungkin juga mencoba untuk membayar makan malam saya dengan kata "uang".
 
-In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+Kenyataannya, ketika saya diberi tahu bahwa saya harus membayar pajak saya kepada "pemerintah", sebenarnya ini berarti saya harus menulis cek untuk mentransfer uang saya ke rekening bank tertentu, yang kemudian diakses oleh individu tertentu. Orang-orang ini kemudian memiliki hak untuk mengambil uang itu, dan membelanjakannya sesuai yang mereka inginkan - individu-individu tertentu ini memiliki kendali penuh atas uang saya.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+Sama sekali tidak ada entitas seperti "pemerintah" yang mengangkat jari, bergerak, membuka rekening bank, atau menghabiskan satu sen. Membayangkan bahwa sebuah konsep yang disebut "pemerintah" memiliki kapasitas untuk mengambil atau menghabiskan uang Anda sama persis dengan menunggu "Tuhan" datang dan menjemput Anda dan membawa Anda ke gereja.
 
-Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+Dengan demikian, interaksi sebenarnya adalah bahwa satu orang mengirimkan sebuah surat kepada saya bahwa saya berhutang kepadanya. Saya tidak memiliki kontrak dengan orang ini, dan dia sebenarnya bukan pemilik properti saya, walaupun beberapa orang lain menulis "kontrak" yang seharusnya mengklaim bahwa dia melakukannya.
 
-If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
+Jika saya tidak membayar orang ini, dia akan mengirim orang lain ke rumah saya untuk mengumpulkan uang - ditambah "bunga" dan "biaya".
 
-Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Biasanya, ketika seorang pria dengan pistol datang ke rumah saya dan menuntut uang saya, saya memiliki hak untuk menggunakan kekuatan untuk membela diri. Namun, dalam kasus ini, karena dia mengenakan kostum dan klaim untuk mewakili entitas fiktif, saya tidak diizinkan menggunakan kekuatan untuk membela diri.
 
-Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
+Sekarang, jika saya datang ke rumah Anda malam ini berpakaian seperti "elf Narnia yang tinggi" dan meminta uang yang Anda berutang kepada "Ratu Kesengsaraan", dengan asumsi itu bukan Halloween, Anda diperbolehkan untuk menatap saya dengan takjub, dan pesan saya dari milikmu
 
-If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
+Jika saya tidak membayar orang yang datang untuk mengambil uang saya, dia bisa saja mengeluarkan pistol, mengarahkannya ke dada saya, dan menculik saya - atau tembak saya jika saya menolaknya. Dia bisa menahanku di sel mungil selama bertahun-tahun, di mana aku akan mengalami kebrutalan yang paling kejam dan pemerkosaan terus-menerus, sampai dia memilih untuk membiarkanku pergi.
 
-Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+Menariknya, jika seseorang secara sah berhutang padaku, aku tidak diizinkan untuk menculiknya dan membuatnya disiksa dan diperkosa selama bertahun-tahun. Jadi, perpajakan benar-benar melanggar kerangka UPB, karena ini adalah perpindahan properti dengan menggunakan inisiasi kekerasan.
 
-Stealing, as we have proven, is evil.
+Mencuri, seperti yang telah kita buktikan, adalah kejahatan.
 
-Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
+Einstein merevolusi fisika dengan mengklaim - dan membuktikan - bahwa kecepatan cahaya itu konstan.
 
-We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
+Kita bisa merevolusi dunia dengan menerima klaim - dan buktinya - bahwa mencuri selalu jahat.
 
-### Government, Religion, And UPB
+### Pemerintah, Agama, dan UPB
 
-When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
+Ketika kita mengambil kerangka UPB dan menerapkannya pada proposisi moral mengenai pemerintahan dan agama, beberapa hasil yang sangat menarik terjadi.
 
-The proposition that is most often used to justify government power is: “the government has the right to take your money.” This, however, is an utterly imprecise and false statement. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+Proposisi yang paling sering digunakan untuk membenarkan kekuasaan pemerintah adalah: "pemerintah berhak mengambil uang Anda." Namun, ini adalah pernyataan yang benar-benar tidak tepat dan salah. "Pemerintah" tidak memiliki hak untuk mengambil uang Anda, karena "pemerintah" hanyalah sebuah konsep, deskripsi abstrak untuk kelompok orang yang ditentukan sendiri. UPB membutuhkan pernyataan yang lebih konsisten dan obyektif. Karena peraturan moral harus sama untuk setiap orang di semua tempat dan setiap saat, kita harus mengulang kembali peraturan tersebut dengan cara ini:
 
-“*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
+"*Manusia secara moral bisa mengambil uang dari manusia lain jika mereka membentuk sebuah agensi konseptual yang membenarkan tindakan mereka. *"
 
-If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
+Jika kita kembali ke Bob dan Doug di ruang eksperimen moral kita yang kecil, kita dapat dengan cepat melihat bahwa ini menjadi proposisi yang tidak mungkin.
 
-If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
+Jika Bob berkata kepada Doug: "Saya sekarang mewakili konsep ideal 'FUBAR,' yang sepenuhnya membenarkan saya untuk mengambil pemantik Anda dari Anda. Karena sekarang Anda berutang cahaya ringan kepada Anda, Anda harus menyerahkannya, atau saya akan terpaksa mengambilnya dari Anda dengan paksa. "
 
-What will Doug’s reaction be? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
+Apa reaksi Doug? Ingat, menurut UPB, apapun yang berlaku untuk Bob juga harus berlaku untuk Doug. Tak pelak, Doug akan menjawab: "Oh ya? Nah * saya * sekarang mewakili konsep ideal 'ANTI-FUBAR,' yang sepenuhnya membenarkan saya mempertahankan kepemilikan pemantik saya. Karena Anda sekarang tidak punya hak untuk mengambil pemantik saya, jika Anda mencoba untuk mengambilnya, saya akan dipaksa untuk membela diri dengan paksa."
 
-As you can see, if *Bob* has the right to make up imaginary obligations and impose them on Doug, then *Doug* has the right to make up imaginary obligations and impose them on Bob. Clearly, we immediately end up in a perfect stalemate. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Virtue can thus only be enabled by vice, which is impossible – and we have opposing moral rules for two human beings in the same circumstance, which UPB instantly rejects as invalid.
+Seperti yang bisa Anda lihat, jika *Bob* memiliki hak untuk membuat kewajiban imajiner dan memaksakannya pada Doug, maka *Doug* memiliki hak untuk membuat kewajiban imajiner dan memaksakannya pada Bob. Jelas, kita langsung berakhir dengan jalan buntu yang sempurna. Jika secara moral baik untuk memaksakan kewajiban yang harus dilakukan pada orang lain, tapi tidak mungkin melakukannya jika semua orang memiliki kemampuan itu, maka moralitas menjadi tidak mungkin. Satu-satunya cara agar Bob dapat memaksakan kewajibannya pada Doug adalah jika Doug menolak untuk memaksakan kewajibannya terhadap Bob - oleh karena itu, kita memiliki situasi di mana apa yang moral untuk satu orang hanya dapat dicapai oleh orang lain yang bertindak dalam sikap anti-moral. Kebajikan hanya bisa diaktifkan oleh wakil, yang tidak mungkin - dan kita telah menentang peraturan moral untuk dua manusia dalam situasi yang sama, yang langsung ditolak UPB sebagai tidak sah.
 
-In other words, every imaginary abstract justification for the use of force can be countered by another imaginary abstract justification for the use of force. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Thus neither of us can possess the ability to impose our imaginary obligations on others.
+Dengan kata lain, setiap pembenaran abstrak imajiner untuk penggunaan kekuatan dapat diimbangi oleh pembenaran abstrak imajiner lain untuk penggunaan kekuatan. Jika saya memiliki teman imajiner yang bisa membenarkan semua yang saya lakukan, maka Anda juga bisa memiliki teman imajiner yang bisa membenarkan semua hal yang Anda lakukan. Dengan demikian, tak satu pun dari kita dapat memiliki kemampuan untuk memaksakan kewajiban imajiner kita kepada orang lain.
 
-#### Religion And UPB
+#### Agama dan UPB
 
-The same holds true for religion.
+Hal yang sama berlaku untuk agama.
 
-The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
+Pernyataan: "Anda harus mematuhi saya karena Tuhan memerintahkannya," harus dinyatakan kembali dengan lebih akurat seperti: "entitas yang telah saya buat memerintahkan Anda untuk menaati saya." Prinsip yang dibutuhkan oleh UPB adalah: "Manusia harus memaksakan kewajiban positif yang tidak siap pada orang lain, dan membenarkan kewajiban tersebut sesuai dengan entitas imajiner."
 
-Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+Di sini kita melihat masalah yang sama seperti di atas. Bob berkata pada Doug, "Anda harus memberi saya pemantik api Anda, karena teman imajiner saya mengatakannya kepada Anda"."Tentu", Doug menjawab: "Anda tidak boleh meminta pemantik api Anda, karena teman imajiner saya melarang Anda melakukannya. Jika "perintah" Bob berlaku, maka "perintah" Doug sama-sama berlaku, dan saling membatalkan satu sama lain.
 
-In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
+Dengan cara yang sama, jika seorang pria mengklaim bahwa konsepnya yang disebut "pemerintah" membenarkan pencurian properti saya, maka saya dapat mengklaim bahwa konsep saya yang disebut "anti-pemerintah" membenarkan *retensi* saya atas harta saya, dan kita adalah keduanya sama-sama "valid" dalam pembenaran kami.
 
-If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
+Jika pemungut pajak ini mengklaim bahwa konsepnya yang disebut "pemerintah" hanya membenarkan pencurian *properti saya*, bukan retensi saya terhadapnya, maka kita tidak lagi berada di depan. Dia bisa mengambil seribu dolar saya, tapi kemudian saya dapat meminta konsep saya untuk "mencuri" uang itu kembali, dan teori moralnya memerintahkan kita untuk menghabiskan sisa kekekalan yang menyerahkan bolak-balik seribu dolar itu.
 
-#### UPB And "The Majority"
+#### UPB Dan "Mayoritas"
 
-UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
+UPB tidak memungkinkan akumulasi individu untuk mengganti atau membalikkan sifat masing-masing individu. Sepuluh singa tidak membuat gajah, pemerintahan, atau tuhan. Sepuluh ribu tentara bisa membuat "tentara", tapi tidak bisa membalikkan gravitasi, atau membuat pembunuhan bermoral.
 
 Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
 
