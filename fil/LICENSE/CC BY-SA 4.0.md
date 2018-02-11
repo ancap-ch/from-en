@@ -2,7 +2,7 @@
 
 # Ang pag bahagi ng 4.0 na pandigdigang paratang
 
-Ang pag kakaparehas ng malikhain na samahan ("Creative Commons") ay hindi natin batas at ito ay hindi pinapag handa ng legal na mga serbisyo o legal na pag payo. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+Ang pag kakaparehas ng malikhain na samahan ("Creative Commons") ay hindi natin batas at ito ay hindi pinapag handa ng legal na mga serbisyo o legal na pag payo. Ang pamamahagi ng lesensyadong pam publikong malikhaing samahan ay hindi ginagawa ng abugado sa kleyente o sa iba pang relasyon. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
 
 ### Using Creative Commons Public Licenses
 
