@@ -24,7 +24,7 @@ b. **Adapter's License** Mga kahulugan na ang iyong ina-aaply na lesensya ay iyo
 
 c. **BY-SA Compatible License** Ang mga ibig sabihin na tala sa [creativecommons.org/compatiblelicenses](http://creativecommons.org/compatiblelicenses), aprobado ng Creative Commons bilang isang esensyal na katumbas ng pampublikong lesensya na ito.
 
-d. **Copyright and Similar Rights** Ang kahulugan na ang copyright at/o katulad na mga karapatan ay nai lalapit sa kaugnay na kasama ang copyright, walang limitasyon, pagganap, pag lathala, pagrerecord ng tunog at ang Sui Generis Database Rights, walang pagsaalang alang kung papaano ang mga karapatan ng lebel o naikategorya. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+d. **Copyright and Similar Rights** Ang kahulugan na ang copyright at/o katulad na mga karapatan ay nai lalapit sa kaugnay na kasama ang copyright, walang limitasyon, pagganap, pag lathala, pagrerecord ng tunog at ang Sui Generis Database Rights, walang pagsaalang alang kung papaano ang mga karapatan ng lebel o naikategorya. Para sa mga nais ng Pampublikong lisensya na ito, ang karapatan ay natukoy sa seksyon 2(b)(1)-(2) ay hindi Copyright at mag kapareha ng mga karapatan.
 
 e. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
 
