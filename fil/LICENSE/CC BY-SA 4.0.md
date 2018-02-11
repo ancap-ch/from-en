@@ -16,7 +16,7 @@ Ang Creative Common na pam publikong lesensya ay nag lalaan ng pamantayan sa set
 
 Sa pamamagitan ng karapatan ng lesensya (defined below), Tanggapin mo at sumang ayon sa nakatali mula sa mga termino at mga kondisyon mula sa Creative Commons Attribution-Sharelike 4.0 Internasyonal na Publikong lisensya ("Public License"). Sa lawak ng Publikong lesensya maaring maipaliwanag bilang isang kontrata, Ikaw ay pinag kakalooban ng karapatan sa lesensya bilang isang konsederasyon sa pag tanggap ng iyong termino at mga kondesyon, at ang tagapaglesensya ay pinag kakalooban gaya ng kosederasyon ng mga benepisyo na natatanggap mula sa paggawa ng magagamit na Materyal sa lesensya na sumasa ilalim sa mga termino at mga kondisyon.
 
-### Section 1 – Definitions.
+### Seksyon 1 - Mga Depenesyon.
 
 a. **Adapted Material** means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
 
