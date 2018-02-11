@@ -40,57 +40,57 @@
 
 撇开语言的挑战的时刻，如果我点对海鸥说，“这是一个铁砧，我显然是错误的，因为砧是无机的，不能飞。我的陈述的真实价值是相对于现实的客观事实来衡量的。因为海鸥实际上不是铁砧，我的说法是不真实的。
 
-当然，真理与现实之间的这个等式要求语言和我们的感官被认为是相对客观的。有很多很好的理由相信，语言和意义的证据是客观的；我们可以进入这个复杂的讨论，但应该说，因为你是用你的眼睛去读写在人类语言的一本书，我们至少可以认为，你的眼睛，和我们的语言份额，至少目的足够你准确地处理我的写作。如果不是，我们没什么好谈的，你还是一点都不明白我写呢，所以这句话也同样毫无意义，而且可能也已呈现“宋体” 。
+当然，真理与现实之间的这个等式要求语言和我们的感官被认为是相对客观的。有很多的理由相信，语言和意义的证据是客观的；我们可以进入这个复杂的讨论，但应该说，因为你是用你的眼睛去读写在人类语言的一本书，我们至少可以认为，你的眼睛，和我们的语言份额，至少目的足够你准确地处理我的写作。如果不是，我们没什么好谈的，你还是一点都不明白我写呢，所以这句话也同样毫无意义，而且可能也已呈现“宋体” 。
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+假设您能辨别以上两种字体的区别，我们可以合理地继续下去。
 
-#### Accuracy And Consistency
+#### 准确性和一致性
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+我不可能准确地画一朵云，因为在画云的时候，云总是在变化。我能准确地画出一张云彩的照片，它已经被冻结了。
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+如果我花一个小时试图画一个云彩，然后我问你我的画是否准确地代表了那朵云，你必须回答说它不是。
 
-In other words, where there is no consistency, there can be no accuracy.
+换句话说，如果没有一致性，就不会有精确性。
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+当我们在夜晚做梦时，我们的感知是“物质”和“能量”的规则处于不断变化的状态 - 我们对地心引力免疫，然后我们飞到大象的后面，然后我们可以走路通过墙壁。发展一个“梦的科学物理学”比准确描绘一个云是不可能的。
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+逻辑、科学和真理在没有一致性的情况下是不可能的。
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+根本上说，逻辑定律来自于物质和能量的行为，至少在感性层次上。如果我告诉你在同一时间上下掷一个球，我要求的是不可能，你可以很容易地通过测试来满足我的要求。如果我告诉你同时犁北地和南田，你将无法遵守。如果我要求你把玫瑰变成驴，我的要求永远不会满足。
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+感知的现实是一致的和客观的 - 正是从这种一致性和客观性，我们得出了逻辑规律。我们对现实的陈述只能准确地代表现实，这是一致性和客观性的直接结果。
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+事实上，海鸥不要随意变成砧–或反之亦然–是我们的能力，准确判断语句的根：“这是海鸥。“如果海鸥自发地不断改变它们的性质，我们将无法做出正确或者错误对于他们–或任何事情。
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+这是科学方法的关键标准-重复性的根源。如果我对万有引力的性质提出一个普遍的要求，那么你应该能够在你自己的环境中重现这种说法。如果现实不一致，那么重复性将是建立真理的一个不合理的标准。
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+如果你是一名数学老师，即使该学生声称自己的答案是“正确的”，即使那个学生声称他写的答案是正确的，但在某种程度上改变了。 
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+因此，我们可以接受，我们必须衡量相对于客观实在的陈述的有效性 - 无论是在经验上还是在逻辑上。逻辑作为一门学科，仅仅是由于现实的一致性而产生的；经验的观察也仅仅是由于现实的一致性而有效或无效的。
 
-### The Existence Of "Truth"
+### “真理”的存在
 
-Truth, then, can be measured according to two central criteria:
+那么，真理可以根据两个中心标准来衡量：
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+1. .真理是我们思想与理性一致性之间的相关性的衡量标准，它直接的来源于现实世界中物质和能量的一贯行为。[^2]
+2.真理也是我们思想与现实世界中物质和能量的本质和行为之间相互关系的一种衡量标准。[^3]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+第一个标准是衡量思想与自身一致性的标准 - 而且这种一致性是一个要求，因为现实本身是一致的。如果我说“我不存在”，那是一个与自己不一致的想法的例子，因为我必须为了说出这个句子而存在。第二个标准是相对于客观现实的经验观察的思想准确性的量度。
 
-#### Empiricism Versus Rationality
+#### 经验主义与理性
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+经验主义可以被认为是本能地抓住一个被抛出的球，或测量它的运动；理性是根据普遍原则预测和理解球将采取的路径的能力。很显然，如果球随机地朝任何一个方向运动，并且神奇地变成一群鸽子来引导 - 我们将完全无法预测他们的行为。
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+因此，由于物质服从不可改变的规律，我们关于物质的理论也必须遵循不可变的规律。如果我对棒球一无所知，但是观看一场球员们总是遵守规则的棒球比赛，我就不可能制定出一个与棒球运动员的行为有直接矛盾的规则的理论。由于参与者的行动是一致的，我所制定的关于指导这些行为的规则的理论也必须是一致的。
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+这种一致性的要求是对真理最基本的要求之一。既然现实是一致的，关于现实的理论也必须是一致的。
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+事实上，任何理论必须克服的第一个障碍是内部一致性。
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^1]：如果你不重视真理，你将永远不会参与这场辩论 - 或任何其他辩论 - 首先！ 
 
-[^2]: Rational consistency, or internal logic.
+[^2]：合理一致性或内部逻辑。 
 
-[^3]: Empirical evidence, or empiricism.
+[^3]：经验证据，或经验主义。
