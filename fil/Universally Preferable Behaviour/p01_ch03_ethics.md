@@ -2,9 +2,9 @@
 
 Dahil ang mga etika ay isang paksa na lahat tayo ay may mga opinyon tungkol sa na, ito ay mahalaga sa balangkas ang relasyon sa pagitan ng *instinctual* etika at *makatuwiran* mga etika,.
 
-A baseball player can catch a fly ball even if he knows nothing about physics. Similarly, we can correctly perceive an action as immoral even if we know nothing about ethical theories.
+Maaaring mahuli ng baseball player ang lumilipad na bola kahit na wala siyang alam sa pisika. katulad nito, maaari nating maunawan nang tamaang isang pagkilos bilang imoral kahit na wala tayong nalalaman tungkol sa mga etika na teorya.
 
-If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
+Kung kaya kong saluhin ang lumilipad na bola. pagkatapos ay meron akong isang instinctual *pakiramdam* para sa pag uugali ng isang baseball sa paglipad. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
 
 In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
 
