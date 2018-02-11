@@ -18,7 +18,7 @@ Sa pamamagitan ng karapatan ng lesensya (defined below), Tanggapin mo at sumang 
 
 ### Seksyon 1 - Mga Depenesyon.
 
-a. **Hango sa Material** nangangahulugan na ang materyal ay paksa para sa Copyright at katulad ng karapatan na nagmula sa basehan sa Lesensyadong materyal kung saan nasasalin ang materyal, nababago, naayos, at nabagong anyo, o sa ibang paraan na baguhin ang kinakailangan na permiso sa ilalim ng mga Copyright tangan mula sa tagapaglesensya. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
+a. **Adapted Material** nangangahulugan na ang materyal ay paksa para sa Copyright at katulad ng karapatan na nagmula sa basehan sa Lesensyadong materyal kung saan nasasalin ang materyal, nababago, naayos, at nabagong anyo, o sa ibang paraan na baguhin ang kinakailangan na permiso sa ilalim ng mga Copyright tangan mula sa tagapaglesensya. Para sa mga layunin ng Pampublikong lisensya na ito, kung saan ang materyal na lesensya ay isang gawaing pang musika, pagsasagawa, o naitala na tunog, Naa-ayon sa Materyal na palaging nakakagawa kung saan ang lesensyadong materyal ay magsink sa oras ng relasyon kasama ang gumagalaw na imahe.
 
 b. **Adapter's License** means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
 
