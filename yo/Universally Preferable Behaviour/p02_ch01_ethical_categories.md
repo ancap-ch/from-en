@@ -6,7 +6,7 @@ Pẹlú ìlànà UPB láàyè rẹ, a lè yípadà sí ìdánwò nípa bí UPB �
 
 Gẹgẹbi a ti sọ lókè, àlàyé lórí ìhùwàsí ti àgbáyé nifẹ sí pin sí ìsòrí apapọ mẹta - dáadáa, àìdá ati èyí tó wà láàrin dáadáa ati àìdá. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
 
-1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
+1. Ó jẹ́ nkan tó dá (o jẹ ààyò àgbáyé àti pé a lè fi tipatipa mu àmúlò rẹ, gẹgẹbi "má ṣe pa ènìyàn").
 2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
 3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
 4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
