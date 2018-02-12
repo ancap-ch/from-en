@@ -70,4 +70,4 @@ Claro, sempre existirá o perigo de que uma pessoa imoral o ataque para os seus 
 
 [^10]: Claro, se eu fosse um ser humano tão incompetente ou confuso que acabei na inanição, o encarceramento poderia ser uma melhoria na minha situação
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+[^11]: A "vontade de poder" de Nietzsche e Rand "o que serve a vida do homem é o bem."
