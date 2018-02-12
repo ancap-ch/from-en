@@ -52,7 +52,7 @@ Esses argumentos têm sido usados como base para uma série de teorias e abordag
 
 Este tipo de "hedonismo biológico" pode ser uma descrição do "impulso de sobrevivência", mas só é correto na medida em que descreve o que as pessoas realmente *fazem* e não o que *devem* fazer.
 
-Ademais também introduz um subjectivismo, totalmente não científico, à questão da moralidade. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
+Ademais também introduz um subjectivismo, totalmente não científico, à questão da moralidade. Por exemplo, se é moralmente permitido roubar comida quando se está a morrer de fome, que quantidade de alimento se pode roubar? Quão faminto se tem que estar? É permitido roubar alimentos que não são nutritivos? Quão nutritivo tem de ser o alimento para justificar o roubo? Quanto tempo deve mediar entre o roubo de uma refeição e outro roubo da seguinte refeição? Are you allowed to steal meals rather than look for work or appeal to charity?
 
 Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
 
