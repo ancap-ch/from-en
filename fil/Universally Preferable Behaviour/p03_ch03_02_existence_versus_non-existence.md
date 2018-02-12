@@ -8,7 +8,7 @@ Ang "argumento mula sa pagiging praktiko" ay hindi ganap na nalulutas ang proble
 
 Kaya naman ang mga nagsasabi na ang gobyerno ay makatwiran sa pagpilit sa amin na maging mas "praktikal," ay ganap na huwad napatunayan ng UPB Framework - kahit na ipinapalagay namin na ang mga solusyon sa gobyerno ay mas "praktikal," na sa katunayan sila ay hindi.
 
-Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
+Gayundin, kung ang mga kinatawan ng gobyerno ay angkinin ang kontrata sa lipunan na payagan silang pilitin ang isang "hindi praktikal" na papulasyon upang kumilos nang mas "praktikal" isang hindi malulutas na kontradiksyon ang nagawa.
 
 If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
 
