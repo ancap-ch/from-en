@@ -28,9 +28,9 @@ Idakeji "ìwà rere" gbudọ jẹ "ìwà àìdá" - Idakeji "dáadáa" gbudọ j
 
 Ọkọọkan ninu ìhùwàsí dáadáa tí a mú láàyò gbọdọ ni ìhùwàsí idakeji - nítorípé ti ko ba ni, a je wípé kò sí ìkápá lati yàn ààyò, kò sí ànfààní lati yàgò, nitorinà kò si ìkápá fún ìwà dáadáa ati ìwà àìdá. Ti mo ba mu àlàyé òfin ìwà: "iwọ gbọdọ kọ fún ìwálẹ̀," yíò dájú pé ìwà dáadáa kò ní ṣeéṣe, ìwà àìdá ko ṣe yẹra fún, nitorinà òfin ìwà na gbudọ jẹ kíkọ.
 
-If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
+Ti mo ba gbèrò òfin ìwà pe: "iwọ kò gbọdọ lọ sí San Francisco," a lè fi ọgbọn gbe tunṣe sí wípé: "iwọ le lọ ibikibi yàtò sí San Francisco." Ni ọnà yìí, òfin ìwà "iwọ kò gbudọ jalè" yíò jé ni àlàyé déédé ni ti dáadáa - "iwọ gbudọ bọwọ fún ẹtọ dukia." Nígbàtí ibọwọ fún ẹtọ dukia je ìwà rere, rírú òfin ẹtọ dukia gbọdọ jẹ ìwà búburú.
 
-### What Is Missing
+### Ki lo sọnù
 
 Conspicuously absent from the above list are traditional virtues such as courage, honesty, integrity and so on – as well as their opposites: cowardice, falsehood and corruption.
 
