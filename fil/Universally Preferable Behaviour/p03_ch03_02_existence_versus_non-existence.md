@@ -24,11 +24,11 @@ Kung iniisip ko na ako ay walang kakayanan gumawa ng sariling desisyon, ibig-sab
 
 O kaya'y ako ay may kakayahan na gumawa ng mga magagandang desisyon, o hindi ko kaya. Kung ako *ay* may kakayanan na gumawa ng magagandang desisyon, pagkatapos ay pwersahin ang aking sarili habambuhay ay hindi katanggap-tanggap. Kung ako ay *walang* kakayanan na gumawa ng magagandang desisyon, ibig-sabihin ang aking desisyon ay pwersahin ang aking sarili habambuhay ay isa hindi rin katanggap-tanggap.
 
-Kahit na ang mga konsiderasyon sa itaas ay napapangunahan, gayunpaman, ito ay imposibleng ipatupad ang isang panlipunang kontrata sa pamamagitan ng gobyerno. Malinaw, hinid ko pwedeng lagdaan sa *iyong*ngalan, o sa ngalan ng aking mga anak, na kung saan mapapabisa sa inyo o sa kanila sa lahat ng oras. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+Kahit na ang mga konsiderasyon sa itaas ay napapangunahan, gayunpaman, ito ay imposibleng ipatupad ang isang panlipunang kontrata sa pamamagitan ng gobyerno. Malinaw, hinid ko pwedeng lagdaan sa *iyong*ngalan, o sa ngalan ng aking mga anak, na kung saan mapapabisa sa inyo o sa kanila sa lahat ng oras. Hindi ko kayang bumili ng sasakyan, magpada sayo ng bayarin, at mag utusan kang bayaran ito. Kung inaangkin ko ang kapangyarihan na magpataw ng hindi ilateral na kontrata sayo, ang UPB ay bibigyan *ka* ng ganitong kapangyarihan, at ibabalik mo ang kontrata sa aking pangalan.
 
-In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
+Sa ganoon ding paraan, kahit na kusang loob kong piliinna magbayad ng aking mga buwis, hindi ko kayang pilitin ka sa iyong desisyon, na kung saan ang boluntaryong kontrata ay isang personal na kagustuhan, at hindi maaring ipatupad sa pamamagitan ng karahasan.
 
-### The Necessity Of The State?
+### Ang pangangailangan ng Estado?
 
 This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
 
