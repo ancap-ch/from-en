@@ -26,7 +26,7 @@ A je wipe a má kọjú igbiyanju wa sí àwọn ìhùwàsí ti àgbáyé nifẹ
 
 Idakeji "ìwà rere" gbudọ jẹ "ìwà àìdá" - Idakeji "dáadáa" gbudọ jẹ "aburú." Ti mo ba sàlàyé òfin ìwà, "iwọ kò gbudọ jalè," a je wipe olè jija je aburú, ati *kíkọ fun* olè jija yíò jé dáadáa. Èyí kò túmọ sí wípé "yiyara fún olè jija" ni àlàyé ilọsiwaju ìwà dáadáa, dájúdájú, ọkunrin kan le jẹ apànìyàn, sugbon ko ma je olè. A lè rò gẹgẹbi "pàtàkì ṣugbọn ti ko to" ni àmúlò fún ìwà rere.
 
-Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
+Ọkọọkan ninu ìhùwàsí dáadáa tí a mú láàyò gbọdọ ni ìhùwàsí idakeji - nítorípé ti ko ba ni, a je wípé kò sí ìkápá lati yàn ààyò, kò sí ànfààní lati yàgò, nitorinà kò si ìkápá fún ìwà dáadáa ati ìwà àìdá. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
 
 If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
 
