@@ -10,7 +10,7 @@ Kung ang ating mga pinuno ay humiling ng aming pagsunod, ito ay hindi para sa ka
 
 Ang naghaharing uri ay hindi maiiwasang gumamit ng mga teoryang etikal upang mapatunayan ang kanilang kapangyaihan para sa simpleng dahilan na ang mga tao ay mayroong pabago bagong kagustuhan na kumikilos alinsunod sakung ano ang kanilang pinaniniwalaan upang maging "ang mabuti." Kung ang pagsisilbi sa bayan ay nangangahulugang "ang mabuti," kung gayon ang ganitong serbisyo ay hindi maiiwasang hindi maibigay. Kung ang pagsunod sa mga pinuno ng militar ay mailalarawan bilang "kabanalan" at "katapangan," ang gayong marahas na pang aalipin ay walang hanggang pupurihin at gagawin.
 
-### Propaganda
+### Pagpapalaganap
 
 The more false the moral theory is, the earlier that it must be inflicted upon children. We do not see the children of scientifically minded people being sent to “logic school” from the tender age of three or four onwards. We do not see the children of free market advocates being sent to “Capitalism Camp” when they are five years old. We do not see the children of philosophers being sent to a Rational Empiricism Theme Park in order to be indoctrinated into the value of trusting their own senses and using their own minds.
 
