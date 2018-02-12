@@ -1,6 +1,6 @@
 ### Pagiging praktikal
 
-Sa sandaling ang karahasan ng gobyerno ay naipakita sa intelektwal - at ang dapat na "pagbobolontaryo" ng mga mamamayan ay nagsiwalat bilang isang buktot na panloloko - ay palaging bumabalik kami ay *kailangan* ng gobyerno upang bigyan kami ng mga pampublikong paninda, panrehiyong depensa, kalsada at iba pa.
+Sa sandaling ang karahasan ng pamahalaan ay naipakita sa intelektwal - at ang dapat na "pagboboluntaryo" ng mga mamamayan ay nasiwalat bilang isang buktot na panloloko - ang argumento ay palaging bumabalik na kung saan kami ay *kailangan* ng gobyerno upang bigyan kami ng mga pampublikong kalakal, proteksyon, panrehiyong depensa, kalsada at iba pa.
 
 Sinulat ko ang dose-dosenang mga artikulo na naglalantad sa kasinungalingan ng posisyon na ito, kaya't hindi ako mag-abala na ulitin ang mga argumento dito, dahil hindi sila mahalaga sa isang libro sa moralidad, ngunit sa halip ay magiging mas angkop sa isang libro na nagpapaliwanag ng mga prinsipyo at pagiging praktiko ng isang boluntaryong lipunan.[^4]
 
