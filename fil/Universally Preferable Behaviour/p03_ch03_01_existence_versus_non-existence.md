@@ -18,7 +18,7 @@ Sila rin ay maypusibilidad na hindi tumugon ng mabuti sa argumentong ito: " sa i
 
 Kung wasto ang pahayag tungkol sa katotohanan maaaring walang katapusan ang sasalungat dahil ang ilan ay nasaisipang lupain na tinatawag na "ang pagkakamali ay katumbas ng katotohanan" mawawalan bisa ito, kung ang sinasabi ay "walang magandang pahayag tunkol sa katotohanan na maaaring mag patunay" _ gayun paman, ang amin talino ay sapat bilang pilosopo sa ngayon upang malaman na ang mismong pahayag ay nagkakasalungat sa sarili, dahil ito ay isang mabuting pahayag na maituturing para maging totoo na nagsasabing walang mabuting pahayag na magiging totoo. Kung walang magiging tama o mali- kahit na sa pahayag - walang anuman pahayag ang magagawa tungkol sa anuman bagay. Gamit ang salita, gamit ang english, gamit ang mga nauunawaan pangungusap _ang lahat ay giwang walang kabuluhan kahit anu paman, dahil sa ito ay "alternatibong universo" tulad ng nakabalagkas na pananalita ito ay maituturing na talagang walang kabuluhan. Kung ang mga bagay na pweding maging totoo sa alternatibong uniberso ay magkakaruon ng epecto sa pahayag at gagawin natin itong uniberso, at sigurado ang kabaliktaran ay totoo din, ibig-sabihin ang mga walang pahayag ay Hindi makakagawa ng kahit anu, dahil ang kanilang eksaktong kabaliktaran ay maaring maging totoo.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+Ang totoong reyalidad sa pahayag ay ang "pagkakamali ay katumbas ng katotohanan" at ang tautological ay kabaliwan ng " null katumbas ng null."
 
 ### The "Alternate Universe" In Human Society
 
