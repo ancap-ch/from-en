@@ -10,7 +10,7 @@ Kaya naman ang mga nagsasabi na ang gobyerno ay makatwiran sa pagpilit sa amin n
 
 Gayundin, kung ang mga kinatawan ng gobyerno ay angkinin ang kontrata sa lipunan na payagan silang pilitin ang isang "hindi praktikal" na papulasyon upang kumilos nang mas "praktikal" isang hindi malulutas na kontradiksyon ang nagawa.
 
-Kung pwenersa ko ang isang babae na pakasalan ang isang lalake na napili para sa kanya, pagkatapos ay malinaw na naniniwala ako na mayroon akong walang hanggan mas mahusay na paghatol tungkol sa pagiging angkop ng isang asawa para sa kanya kaysa sa ginagawa niya. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
+Kung pwenersa ko ang isang babae na pakasalan ang isang lalake na napili para sa kanya, pagkatapos ay malinaw na naniniwala ako na mayroon akong walang hanggan mas mahusay na paghatol tungkol sa pagiging angkop ng isang asawa para sa kanya kaysa sa ginagawa niya. Sa katunayan, hindi ako naniniwala na siya ay bukas para sa lahat ng mga dahilan, o ang anumang palatandaan tungkol sa kanyang sariling interes, dahil magdadala ako ng *wala* ang account ng kanyang mga kagustuhan, pero ako ipinipilit sa kanya na pakasalan ang isang tao sa aking pagpili.
 
 When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
 
