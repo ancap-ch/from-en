@@ -20,7 +20,7 @@ Kung wasto ang pahayag tungkol sa katotohanan maaaring walang katapusan ang sasa
 
 Ang totoong reyalidad sa pahayag ay ang "pagkakamali ay katumbas ng katotohanan" at ang tautological ay kabaliwan ng " null katumbas ng null."
 
-### The "Alternate Universe" In Human Society
+### Ang "Alternatibong uniberso" sa lipunan ng mga tao
 
 The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
 
