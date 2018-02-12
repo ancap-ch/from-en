@@ -38,16 +38,16 @@ Dalawang karagdagan na pagtutol ay palaging bumabalik tuwing ang tanong ay tungk
 
 Ang una at pinaka halatang problema sa posisyong ito ay ang mga masasamang tao na umiiral sa lipunan, sila ay nasa loob din ng gobyerno - at baka mas mapanganib sa gayon. Maaaring maproteksyunan ng mga mamamayan ang kanilang sarili sa mga masasamang tao, ngunit maaaring tumayo ng walang pagkakataon laban sa mga agresibong pamahalaanna na ang ngipin kasama ng mga pulis at militar. Gayon man ang argumento na kailangan natin sa pamahalaan dahil mga masasamang taong ay hindi totoo. Kung umiiral ang mga masasamang tao, the pamahalaan * ay kailangan* mabuwag, dahil ang masasamang tao ay gagamitin ang kanilang kapangyarihan para sa kanilang layunin - at, hindi katulad ng mga pribadong thugs, ang mga masasamang tao sa pamahalaan ay mayroong pulis at militar upang pahirapan ang mga kawawa (at ang mga walang kalabanlaban) populasyon. Ang argumento ay katulad sa ideya na "ang mga huwad ay napaka mapanganib, kaya nga kailangan natin na mabgigay ng eksklusibong monopolyo laban sa mga huwad sa maliit na grupo ng mga tao." Saan ba sa tingin ng mga tao unang mapupunta ang mga huwad?[^5]
 
-Logically, there are four possibilities as to the mixture of good and evil people in the world:
+Lohikal, mayroong apat na posibilidad katulad sa pinaghalong mabuti at masamang tao sa mundo:
 
-1. All men are moral.
-2. All men are immoral.
-3. The majority of men are immoral, and a minority moral.
-4. The majority of men are moral, and a minority immoral.[^6]
+1. Lahat ng tao ay moral.
+2. Lahat ng tao ay imoral.
+3. Ang karamihan ng tao ay imoral, atang iilan ay moral.
+4. Ang karamihan ng tao ay moral, ang iilan ay imoral.[^6]
 
-In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
+Sa unang kaso (*ang lahat ng tao ay moral*), ang pamahalaan ay malainaw na hindi kailangan, dahil ang kasamaan ay hindi umiiral.
 
-In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+Sa pangalawang kaso (*lahat ng tao ay imoral*), ang pamahalaan ay hindi pinapayagan na umiral sa isang simpleng paraan. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
 
 However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
 
