@@ -1,6 +1,6 @@
-## ang mga creative commons
+## ang creative commons
 
-# Ang pag papalagay ng pag bahagi sa kapwa ng 4.0 na pan daigdigan
+# Ang Attribution-ShareAlike 4.0 International
 
 Ang Creative Commons na samahan ("Creative Commons") ay hindi natin batas at ito ay hindi pinapag handa ng legal na mga serbisyo o legal na pag payo. Ang pamamahagi ng lesensyadong pam publiko ng Creative commons ay hindi ginagawa ng abugado sa kleyente o sa iba pang relasyon. Ang Creative Commons ay gumagawa ng ng lesensya nito at ito ay kaugnay sa impormasyon na magagamit sa "as-is" na pag babatayan. Ang Creative Commons ay hindi nag bibigay garantiya patungkol sa mga lesensya nito, ano mang bagay na lesensyado mula sa ilalim ng kanilang termino at mga kondisyon, o sa kahit ano mang kahalintulad na impormasyon. Ang Creative Commons ay tumatalikwas sa lahat ng pananagutan ng mga sirang resulta ng kanilang pag gamit sa pinaka todong posibleng lawak.
 
