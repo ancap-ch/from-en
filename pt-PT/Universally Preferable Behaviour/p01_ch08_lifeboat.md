@@ -30,9 +30,9 @@ Evidentemente, a opção 1 pode ser facilmente descartada. A opção três tamb�
 
 Assim, devemos ir com a opção dois, que é que existem certas áreas cinzentas, e sabemos que elas são cinza em relação às áreas que não são oxigénio cinza existente no espaço, e também debaixo da água, senão na forma ou quantidade em que os seres humanos podem consumir. O *grau* de oxigenação é uma área cinzenta, ou seja, "menos versus mais"; A questão de saber se os seres humanos podem ou não respirar água é, sem dúvida, preto e branco.
 
-A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
+Um cientista capturado por canibais pode fingir ser um feiticeiro para escapar, o que não significa que devemos descartar o método científico como inteiramente inválido.
 
-Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
+De igual modo, podem existir situações extremas em que podemos optar por cometer acções imorais, mas essas situações não invalidam a ciência da moral, assim como as mutações ocasionais não invalidam a ciência da biologia. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
 
 ### Universalidade e Excepções
 
