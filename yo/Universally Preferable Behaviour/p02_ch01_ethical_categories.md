@@ -4,7 +4,7 @@ Pẹlú ìlànà UPB láàyè rẹ, a lè yípadà sí ìdánwò nípa bí UPB �
 
 ### Awọn Ìsọ̀rí Méje
 
-Gẹgẹbi a ti sọ lókè, àlàyé lórí ìhùwàsí ti àgbáyé nifẹ sí pin sí ìsòrí apapọ mẹta - dáadáa, àìdá ati èyí tó wà láàrin dáadáa ati àìdá. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. Àwọn ìsọ̀rí méje náà jẹ́:
+Gẹgẹbi a ti sọ lókè, àlàyé lórí ìhùwàsí ti àgbáyé nifẹ sí pin sí ìsòrí apapọ mẹta - dáadáa, àìdá ati èyí tó wà láàrin dáadáa ati àìdá. Lati ràn wá lọwọ níbi ṣiṣe ipinya ẹwà kúrò lára ìwà, ẹ je ki a bẹrẹ sí ní fẹ ojú awọn ìsọ̀rí yìí láti gba *èyíkéyìí* ìhùwàsí ti a lè ṣe àyẹ̀wò ìwà le lórí. Àwọn ìsọ̀rí méje náà jẹ́:
 
 1. Ó jẹ́ nkan tó dá (o jẹ ààyò àgbáyé àti pé a lè fi tipátipá mu àmúlò rẹ, gẹgẹbi "má ṣe pa ènìyàn").
 2. Ó jẹ́ nkan to lẹ́wà rere (o jẹ ààyò àgbáyé ṣugbọn kò ṣe fi tipátipá ṣe àmúlò rẹ, gẹgẹbi "ìwà ọmọlúabí" ati "itẹle àsìkò").
