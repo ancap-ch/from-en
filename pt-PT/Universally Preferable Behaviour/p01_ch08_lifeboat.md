@@ -44,11 +44,11 @@ Em argumentos éticos, se me perguntassem se eu roubaria uma maçã, em vez de m
 
 1. Todos prefeririam roubar uma maçã a morrer de fome.
 2. Assim, todos, universalmente preferem roubar maçãs a morrer de fome.
-3. Assim, é *universalmente preferível* roubar maçãs, a morrer de fome.
+3. Por isso é *universalmente preferível* roubar maçãs, a morrer de fome.
 4. Portanto, a sobrevivência é universalmente preferível aos direitos de propriedade.
 5. Assim, o padrão moral final é o que é bom para o indivíduo.
 
-This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
+Esses argumentos têm sido usados como base para uma série de teorias e abordagens éticas, desde Nietzsche até Rand. A preferência de cada indivíduo pela sobrevivência é traduzida em teorias éticas que colocam a sobrevivência do indivíduo em primeiro lugar.[^11]
 
 This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
 
