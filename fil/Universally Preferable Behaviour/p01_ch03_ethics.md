@@ -4,7 +4,7 @@ Dahil ang mga etika ay isang paksa na lahat tayo ay may mga opinyon tungkol sa n
 
 Maaaring mahuli ng baseball player ang lumilipad na bola kahit na wala siyang alam sa pisika. katulad nito, maaari nating maunawan nang tamaang isang pagkilos bilang imoral kahit na wala tayong nalalaman tungkol sa mga etika na teorya.
 
-Kung kaya kong saluhin ang lumilipad na bola. pagkatapos ay meron akong isang instinctual *pakiramdam* para sa pag uugali ng isang baseball sa paglipad. Ang aking instinctual na pag-unawa, gayunpaman, ay hindi nagbigay sakin ng kapasidad upang tumpak na ilunsad ang isang sasakyang pangkalawakan sa orbit jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
+Kung kaya kong saluhin ang lumilipad na bola. pagkatapos ay meron akong isang instinctual *pakiramdam* para sa pag uugali ng isang baseball sa paglipad. Ang aking instinctual na pag-unawa, gayunpaman, ay hindi nagbigay sakin ng kapasidad upang tumpak na ilunsad ang isang sasakyang pangkalawakan sa orbit jupiter. Mayroon akong isang agarang "maliit na katotohanan" - kung paano lumilipat ang bola - ngunit iyon ay hindi nagbibigay sa akin ng isang unibersal "mahusay na katotohanan"-kung paano ang bagay ay kumilos.
 
 In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
 
