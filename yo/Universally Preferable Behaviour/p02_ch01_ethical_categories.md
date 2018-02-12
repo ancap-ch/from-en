@@ -16,7 +16,7 @@ Gẹgẹbi a ti sọ lókè, àlàyé lórí ìhùwàsí ti àgbáyé nifẹ sí
 
 Lootọ, o yẹ ki a lè mú àwọn ìsọ̀rí yìí wálẹ̀ sí ìsọ̀rí méjì nìkan - èyí tó jẹ́ ààyò àgbáyé àti èyí tó lẹ́wà tó dára - pẹlu ṣiṣe àpèjúwe àlàyé ẹ̀kọ́ ìwà ti yio fi jẹ wípé ohun ti a kọ lágbayé má je idakeji ohun ti àgbáyé yàn láàyò, ti a o sí kọ ìfẹ́ inú àti awọn ìhùwàsí ti a kò lè ka kún dáadáa tàbí àìdá gẹgẹbi nkan ti ko pàtàkì níbi ìjíròrò ẹ̀kọ́ iwa.
 
-For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. Ti nkan ti a kọ̀ ba jẹ Idakeji nkan ti a fẹ́, ko sí ìwúlò àfikún ìsọ̀rí kánkan.
+Fún àpẹẹrẹ, Non-Aggression Principle (NAP) so wípé ipilẹṣẹ lilo agbára je ìwà àìdá - a jẹ́ wípé kíkọ̀ fún ipilẹṣẹ lilo agbára yíò jẹ́ ààyò àgbáyé, ti ipilẹṣẹ lilo agbára yíò jé nkan ti àgbáyé kọ̀. Ti nkan ti a kọ̀ ba jẹ idakeji nkan ti a fẹ́, ko sí ìwúlò àfikún ìsọ̀rí kánkan.
 
 Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
 
