@@ -1,10 +1,10 @@
 ## Awọn ìsọ̀rí ẹkọ ìwà
 
-Pẹlú ìlànà UPB láàyè rẹ, a lè yípadà sí ìdánwò nípa bí UPB ṣe má n fọwọsi tàbí kọ́ àwọn àlàyé ìwà tíó wọpọ laarin wa. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
+Pẹlú ìlànà UPB láàyè rẹ, a lè yípadà sí ìdánwò nípa bí UPB ṣe má n fọwọsi tàbí kọ́ àwọn àlàyé ìwà tíó wọpọ laarin wa. Ti "àlàyé físíksì" wa ba le sàlàyé bí ọkunrin kan yíò ṣe mu bọọlu, a ti yege akọkọ- ti ọ pataki jùlọ - ninu idena, a sì ti ni ìgbésẹ àkọkọ tíó sí ní agbára láti bá ẹranko náà jà.
 
-### The Seven Categories
+### Awọn Ìsòrí Méje
 
-As mentioned above, propositions regarding universally preferable behaviour fall into three general categories – positive, negative and neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
+Gẹgẹbi a ti sọ lókè, àlàyé lórí ìhùwàsí ti àgbáyé nifẹ sí pin sí ìsòrí apapọ mẹta - dáadáa, àìdá ati èyí tó wà láàrin dáadáa ati àìdá. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
 
 1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
 2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
