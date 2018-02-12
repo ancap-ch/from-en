@@ -107,60 +107,60 @@ Debido a que el método científico requiere una corroboración empírica, debem
 
 Todo ser humano en su sano juicio cree en algún tipo de reglas morales. Existen algunos desacuerdos sobre qué *constituyen* las reglas morales, pero para todos es cierto que las reglas morales son válidas – así como muchos científicos están en desacuerdo, pero todos los científicos aceptan la validez de su propio método científico. Uno puede argumentar que la Tierra es redonda y no plana – lo que es análogo al cambio en la definición de la moralidad – pero uno no puede argumentar que la Tierra no existe en absoluto – lo cual es como argumentar que no existe tal cosa como el comportamiento universalmente preferible.
 
-Or:
+O:
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+1. Para una teoría científica ser validada, debe estar respaldada por observaciones empíricas.
+2. Si el concepto de “comportamiento universalmente preferible” es válido, entonces la humanidad debería creer en el comportamiento universalmente preferible.
+3. Todos los hombres creen en el comportamiento universalmente preferible.
+4. Por lo tanto la evidencia empírica existe para soportar la validez del comportamiento universalmente preferible – y la existencia de dichas evidencias se *opone* a la proposición de que el comportamiento universalmente preferible no es válido.
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+El cuarto argumento para la validez del comportamiento universalmente preferible es también empírico. Ya que los seres humanos tienen un número casi infinito de elecciones que hacer en sus vidas, decir que no hay principios de comportamientos universalmente preferibles sería decir que todas nuestras decisiones son iguales (es decir, subjetivas). Sin embargo, todas las elecciones *no* son iguales, ya sea lógicamente o mediante la observación empírica.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+Por ejemplo, si la comida está disponible, casi todos los seres humanos prefieren comer todos los días. Cuando hace frío, casi todos los seres humanos buscan calor. Casi todos los padres escogen alimentar, proteger y educar a sus hijos. Hay muchos ejemplos de decisiones comunes entre la humanidad, los cuales indican que el comportamiento universalmente preferible abunda y es parte de la naturaleza humana.
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+Como se mencionó anteriormente, ninguna teoría válida de física puede repudiar el simple hecho de que los niños pueden atrapar pelotas al vuelo – de la misma manera, ninguna teoría válida de ética puede rechazar la interminable evidencia de la aceptación del CUP.
 
-Or:
+O:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1. Las decisiones son casi infinitas.
+2. Muchos seres humanos toman decisiones muy similares.
+3. Por lo tanto no todas las elecciones pueden ser iguales.
+4. En consecuencia las decisiones universalmente preferibles deben ser válidas.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+El quinto argumento para la validación del comportamiento universalmente preferible es evolutivo.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+Ya que toda la vida orgánica requiere de un comportamiento preferencial para sobrevivir, podemos suponer que esos organismos que toman las decisiones más exitosas son los que más a menudo son seleccionados para sobrevivir.
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+Debido a que el hombre es la especie más exitosa y el órgano más distintivo del hombre es su mente, la *mente* del hombre debe ser lo que más le ha ayudado en la toma de decisiones exitosas. La mente en sí misma, entonces, ha sido seleccionada como exitosa por su gran habilidad para tomar decisiones. Ya que la mente humana solo existe como un *resultado* de las elecciones del comportamiento universalmente preferible, el comportamiento universalmente preferible debe ser un concepto válido.
 
-Or:
+O:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+1. Los organismos que triunfan son los que actúan con un comportamiento universalmente preferible.
+2. El hombre es el organismo más exitoso.
+3. Por lo tanto el hombre debe haber actuado con más éxito en la base del comportamiento universalmente preferible.
+4. La mente del hombre es su órgano más distintivo.
+5. En consecuencia la mente del hombre debe haber actuado más exitosamente en la base del comportamiento universalmente preferible.
+6. Por eso el comportamiento universalmente preferible debe ser válido.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+Podríamos aportar muchos más argumentos para sustentar la existencia y validez del CUP, pero nos tomaremos un descanso en nuestro caso con lo ya explicado y pasaremos a un examen de la naturaleza del CUP.
 
-#### UPB: Optional And Objective
+#### CUP: Opcional y Objetivo
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Ya que hemos demostrado la validez del comportamiento universalmente preferible, la cuestión de la moralidad ahora cambia. Debido a que la moralidad *es* válida, ¿qué teorías podemos cuantificar, clasificar, explicar y predecir?
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+Primero que todo, debemos recordar que la moralidad es claramente opcional. Cada hombre está sujeto a la gravedad y requiere comida para vivir, pero ningún hombre tiene que actuar moralmente. Si violo, robo o asesino, ningún rayo me golpeará. Las reglas morales, como el método científico o las clasificaciones biológicas, son simplemente maneras para organizar racionalmente hechos y principios relativos a la realidad objetiva.
 
-The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
+El hecho es que el cumplimiento de las normas morales es *opcional*, sin embargo, esto ha confundido a muchos pensadores al creer que la moralidad en sí misma es *subjetiva*. Nada más lejos de la verdad.
 
-Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
+Los organismos vivos son parte de la realidad material, y la realidad material es racional y objetiva. La aplicación de las teorías morales es opcional, pero eso no significa que todas las teorías morales son subjetivas. El método científico también es opcional, pero no es subjetivo. La aplicación de las clasificaciones biológicas es opcional, pero la biología no es subjetiva. Las decisiones son opcionales; las consecuencias no lo son. Puedo decidir no comer, pero no puedo decidir vivir sin comer. Puedo escoger decapitar a alguien, pero no puedo elegir si puede o no vivir sin una cabeza. La moralidad es, por lo tanto, opcional, pero los *efectos* de las elecciones morales son apreciables y objetivas.
 
-Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
+Ahora, ya que la moralidad es un concepto válido, la siguiente pregunta es: ¿en qué grado o medida la moralidad es válida?
 
-As mentioned above, the first test of any scientific theory is *universality*. Just as a theory of physics must apply to *all* matter, a moral theory that claims to describe the preferable actions of mankind *must apply to **all** mankind*. No moral theory can be valid if it argues that a certain action is *right* in Syria, but *wrong* in San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. If it does, it is false and must be refined or discarded.
+Como se mencionó anteriormente, la primera prueba de cualquier teoría científica es la *universalidad*. Así como una teoría de física debe aplicarse para *toda* la materia, una teoría moral que afirma escribir las acciones preferibles de la humanidad *debe aplicarse para **toda** la humanidad*. Ninguna teoría moral puede ser válida si argumenta que una cierta acción es *correcta* en Siria, pero *errada* en San Francisco. No puede decir que la Persona A *debe* hacer X, pero la Persona B *nunca* debe hacer X. No puede decir que lo que estuvo *mal* ayer hoy está *bien* - o viceversa. Si lo hace, es falsa y debe ser refinada o descartada.
 
-To be valid, any moral theory must also pass the criterion of *logical consistency*. Since the behaviour of matter is logical, consistent and predictable, all theories involving matter – either organic or inorganic – must also be logical, consistent and predictable. The theory of relativity cannot argue that the speed of light is both constant and not constant at the same time, or that it is one hundred eighty-six thousand kilometres per second, five kilometres in depth, and also green in colour.
+Para ser válida, cualquier teoría moral debe también pasar el criterio de la *consistencia lógica*. A causa de que el comportamiento de la materia es lógico, consistente y predecible, todas las teorías que involucren materia – ya sea orgánica o inorgánica – también deben ser lógicas, consistentes y predecibles. La teoría de la relatividad no puede argumentar que la velocidad de la luz es constante y variable al mismo tiempo o que es ciento ochenta y seis mil kilómetros por segundo, cinco kilómetros de profundidad y también de color verde.
 
-However, since moral theories apply to mankind, and mankind is organic, the degree of *empirical* consistency required for moral theories is less than that required for *inorganic* theories. All rocks, for instance, must fall down, but not all horses have to be born with only one head. Biology includes three forms of “randomness,” which are environment, genetic mutation and free will. For example, poodles are generally friendly, but if beaten for years, will likely become aggressive. Horses are defined as having only one head, but occasionally, a two-headed mutant is born. Similarly, human beings generally prefer eating to starving – except anorexics. These exceptions do not bring down the entire science of biology. Thus, since moral theories describe mankind, they cannot be subjected to exactly the same requirements for consistency as theories describing inorganic matter.
+Sin embargo, debido a que las teorías morales aplican para la humanidad y la humanidad es orgánica, el grado de consistencia *empírica* requerido por las teorías morales es menor que aquel requerido para las teorías *inorgánicas*. Todas las rocas, por ejemplo, debe caer, pero no todos los caballos deben nacer con una sola cabeza. La biología incluye tres formas de “aleatoriedad”, las cuales son el medio ambiente, las mutaciones genéticas y el libre albedrío. Por ejemplo, los caniches generalmente son amigables, pero si son golpeados por años, es probable que se vuelvan agresivos. Los caballos se definen como que tiene una sola cabeza, pero ocasionalmente, nace una mutación con dos cabezas. Similarmente, los seres humanos generalmente prefieren comer a morir de hambre – excepto los anoréxicos. Estas excepciones no derrocan todas las ciencias biológicas. Por lo tanto, como las teorías morales describen a la humanidad, no pueden estar sujetas a exactamente los mismos requerimientos para la consistencia que las teorías que describen la materia inorgánica.
 
 The final test that any moral theory must pass is the criterion of empirical observation. For instance, a moral theory must explain the universal prevalence of moral beliefs among mankind, as well as the divergent results of human moral “experiments” such as fascism, communism, socialism or capitalism. It must also explain some basic facts about human society, such as the fact that state power always increases, or that propaganda tends to increase as state power increases. If it fails to explain the past, understand the present and predict the future, then it must be rejected as invalid.
 
