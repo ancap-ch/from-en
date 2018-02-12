@@ -32,4 +32,6 @@ Sayon ra kining makita kung atong sundon ang panglantaw sa Austrian nga ang pagp
 
 Dili kini pag-ingon nga ang mga presyo nga nasulod sa suplay sa cocaine dili susama sa pipila ka mga matang sa normal nga mga presyo. Ang pangagpas sa parsyal nga panimbang wala nagahimo sa depektibong pagtuki. Ang sayop anaa sa pagkapakyas sa pag-ila nga ang presyo (nga mao, ang paglungtad ug ang proma sa suplay) mao ang usa ka kalihokan sa gipaabot nga presyo (panginahanglan) sa kinatibuk-ang produkto.
 
-From this follows that changes in factor prices are not necessarily reflected in prices of consumer goods, especially in the short term. Rather, they will be reflected in the profit margins of producers, and can thus cause them to change their behavior.
+Gikan niini nga mosunod nga mga kausaban sa presyo nakaingon sa mga dili kinahanglan makita na presyo sa mga palaliton, ilabi na sa mubo nga termino. Hinuon, sila makita sa patugot sa kita sa mga prodyuder, ug mahimong hinungdan nga sila sa mag-usab sa ilang gawi.
+
+
