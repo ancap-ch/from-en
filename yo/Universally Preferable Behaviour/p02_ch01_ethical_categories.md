@@ -9,9 +9,9 @@ Gẹgẹbi a ti sọ lókè, àlàyé lórí ìhùwàsí ti àgbáyé nifẹ sí
 1. Ó jẹ́ nkan tó dá (o jẹ ààyò àgbáyé àti pé a lè fi tipátipá mu àmúlò rẹ, gẹgẹbi "má ṣe pa ènìyàn").
 2. Ó jẹ́ nkan to lẹ́wà rere (o jẹ ààyò àgbáyé ṣugbọn kò ṣe fi tipátipá ṣe àmúlò rẹ, gẹgẹbi "ìwà ọmọlúabí" ati "itẹle àsìkò").
 3. Ó jẹ́ nkan ti a ro wipe o dára (kìí ṣe ààyò àgbáyé tabi fi ipá mú, gẹgẹbi ifẹ́ràn jíjẹ wàrà dídì).
-4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
-5. It is personally negative (predilection for not eating ice cream).
-6. It is aesthetically negative (“rudeness” and “being late”).
+4. Ó jẹ́ nkan ti a kò lè pè ní dáadáa tàbí àìdá, ti ko ní ẹkọ ìwà tàbí ẹwà rere kankan, gẹgẹbi ìlépa ba ọkọ akérò.
+5. Ó jẹ́ nkan ti a ro wipe o burú (àìní ìfẹ jíjẹ wàrà dídì).
+6. Ó jẹ́ nkan to lẹ́wà àìdá ("ìwà ìgbéraga" ati "mí ma pẹ́ dé").
 7. Ó jẹ́ aburú ( àgbáyé lòdì sí) ("ifipábanilopo").
 
 Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
