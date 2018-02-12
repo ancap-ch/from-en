@@ -36,13 +36,13 @@ De igual modo, podem existir situações extremas em que podemos optar por comet
 
 ### Universalidade e Excepções
 
-Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
+Antes de começar a usar a nossa estrutura de Comportamento Universalmente Preferível, para examinar algumas crenças éticas, que mantemos habitualmente, devemos analisar a questão das "excepções"
 
-Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
+Usando os "cenários salva-vidas" acima mencionados, a conclusão é, frequentemente, que "o bem" é simplesmente *o que é "bom" para a vida individual de um homem*.
 
-In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
+Em argumentos éticos, se me perguntassem se eu roubaria uma maçã, em vez de morrer de fome - e eu respondesse "sim" - o seguinte argumento seria inevitavelmente:
 
-1. Everyone would rather steal an apple than starve to death.
+1. Todos prefeririam roubar uma maçã a morrer de fome.
 2. Thus everyone universally prefers stealing apples to death by starvation.
 3. Thus it is *universally preferable* to steal apples rather than starve to death.
 4. Thus survival is universally preferable to property rights.
