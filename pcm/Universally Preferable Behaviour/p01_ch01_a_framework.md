@@ -1,10 +1,10 @@
-## A Framework For Ethics
+## Framework for ethics dem
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Ethical propositions dey different from dem oda types of knowledge statements. If i talk say, “I like jazz,” dat one fit be true talk or make im be lie, but e no dey binding to u for any way. Ma own like for jazz na just talk of wetin I gbafun; based on my talk so, e no dey incumbent ontop u say make u like jazz or make u no like am.
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+Similarly, if i talk say “I like vegetables,” dat one too na just ma talk of wetin I like. However, if I talk say, “vegetables na healthy food,” den I don comot from ma own talk com enta talk wey be objective fact. E dey different from “I like ice cream,” and, “Ice cream get milk inside.”  
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+D fundamental difference wey dey between d talk *preference* and talk *fact* na say talk of facts dey objective, testable - and dey binding. If u value truth so, e dey incumbent ontop u make u agree say ice cream get milk inside, once wey dem don prove am.[^1]
 
 If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
 

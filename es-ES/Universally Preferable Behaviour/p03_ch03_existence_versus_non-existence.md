@@ -1,106 +1,106 @@
-## Existence Versus Non-Existence
+## Existencia Versus No Existencia
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+Definimos "no existencia" como aquello que no posee masa o energía, o que muestra los efectos de la masa o energía, tales como las relaciones detectables como la gravedad.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+Dios no posee masa o energía, ni exhibe los efectos de la masa o energía - de hecho, Dios no es detectable o verificable de ninguna manera, estado o forma, ya sea a través de los sentidos, o a través de la racionalidad.
 
-Thus if I say, “God exists,” what I am really saying is:
+Por lo tanto, si digo:"Dios existe", lo que estoy diciendo realmente es:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+“*Aquello que existe debe ser detectable; Dios no puede ser detectable, pero Dios existe - por lo tanto lo que no existe, existe.*”
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+En otras palabras, al decir "Dios existe", he creado una contradicción insuperable. He definido la "existencia" como "inexistencia", lo que tiene tanto sentido como definir la "vida" como "materia inanimada", o una roca como "lo opuesto a una roca", o un "cuadrado" como un "círculo".
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+Del mismo modo, si creo un universo alternativo en el que la "no-existencia es igual a la existencia" y la "contradicción es igual a la consistencia" y la "verdad es igual a la falsedad" y la "irracionalidad es igual a la racionalidad", entonces lo que realmente he hecho es crear un reino llamado "error", poner en él todo lo que no es verdad, y definir este reino como un lugar donde "error es igual a verdad".[^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Por supuesto, la gente no crea este "universo alternativo" para invalidar la verdad dentro de nuestro propio universo, sino para rescatar lo que es erróneo en la realidad, y llamarlo verdad. Por ejemplo, nadie que argumenta "Dios puede existir en otro universo, así que no puedes afirmar que Dios no existe" nunca argumenta "*Yo* puede que no exista en ese otro universo, así que no puedes afirmar que yo existo aquí".
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
+También tienden a no responder bien al argumento de que:"En otro universo, tú puedes estar de acuerdo conmigo en que Dios no existe, así que eso te convierte en ateo.[^3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+Si las afirmaciones válidas acerca de la realidad pueden ser interminablemente opuestas porque algún reino imaginario llamado "error que iguala la verdad" las invalida, entonces lo que realmente se está diciendo es que "ninguna afirmación positiva acerca de la verdad puede ser válida" - sin embargo, somos lo suficientemente sabios como filósofos para saber que esta misma afirmación es contradictoria, ya que es una declaración positiva considerada como verdadera que dice que ninguna afirmación positiva puede ser verdadera. Si nada puede ser verdadero o falso -incluso esa afirmación-, entonces no se puede hacer ninguna declaración sobre nada. Usar palabras, usar el inglés, usar oraciones comprensibles - todo esto no tiene ningún sentido, ya que en este "universo alternativo" tales expresiones estructuradas pueden ser una completa tontería. Si las cosas que pueden ser verdaderas en este universo alternativo tienen un efecto sobre las declaraciones que hacemos en este universo, entonces claramente lo contrario también es cierto, lo que significa que no se puede hacer ninguna declaración sobre nada, ya que exactamente lo contrario puede ser igualmente cierto.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+La verdadera realidad de la declaración "error iguala la verdad" es la tautológica locura de "nulo igual a nulo".
 
-### The "Alternate Universe" In Human Society
+### El "Universo Alternativo" en la sociedad humana
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+La razón por la que hemos estado pasando tanto tiempo tratando con la teoría del "universo alternativo" es que tiene relevancia directa para la sociedad humana, y es usada para "justificar" los mayores males que se cometen entre nosotros.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+En nuestra propia experiencia personal, sabemos que el asesinato está mal. Al trabajar a través de la proposición de que el asesinato es moralmente incorrecto en los ejemplos anteriores, dudo fuertemente que alguien se sorprendiera de tener sus instintos morales confirmados a través del estricto razonamiento abstracto del CUP. En esta sección, sin embargo, es oficialmente permitido que comiencen a estar verdaderamente sorprendidos.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Los mayores avances en el entendimiento científico son las llamadas "teorías unificadoras". Einstein pasó décadas tratando de elaborar una teoría de campo unificada; y las teorías de la física que unen fuerzas fuertes y débiles, el electromagnetismo, la gravedad y así sucesivamente siguen siendo esquivas.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+Sin embargo, el CUP como estructura no sólo justifica nuestros instintos morales a nivel personal, filosófico y universal, sino que también tiene profundas e impactantes implicaciones para la sociedad humana.
 
-#### UPB In Action
+#### CUPB En Acción
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+La estructura de CUP valida las proposiciones morales exigiendo que sean internamente consistentes y universales en términos de tiempo, lugar e individuos.
 
-If we accept UPB, we must also accept the following corollary:
+Si aceptamos el CUP, también debemos aceptar el siguiente corolario:
 
-- Moral propositions are independent of costume.
+- Las proposiciones morales son independientes del uniforme.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Lo que esto significa es que un hombre no puede cambiar su naturaleza moral junto con su vestimenta. El hecho de cambiar el vestuario no altera la naturaleza fundamental. Por lo tanto, las reglas morales opuestas no pueden ser válidas en base a la ropa que uno lleva puesta.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Los soldados, por supuesto, usan uniformes que son diferentes a los del ciudadano medio. Al ciudadano medio se le prohíbe asesinar; sin embargo, los soldados no sólo tienen *permitido* asesinar, sino que son *alabados* moralmente por asesinar.
 
-Let’s take another example.
+Tomemos otro ejemplo.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+El robo es moralmente incorrecto, como hemos visto anteriormente. Es moralmente incorrecto para todas las personas en todas las situaciones, en todo momento y bajo toda circunstancia. Puesto que el robo es el despojo forzoso de la propiedad ajena sin consentimiento, los impuestos son siempre, universalmente y para siempre un mal moral. La tributación es, por definición, el traslado forzoso de la propiedad de una persona sin su consentimiento, ya que la tributación se basa en la iniciación del uso de la fuerza para despojar a un hombre de su propiedad.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+Lo que llamamos "el gobierno" no es más que otro ejemplo de esta *zona nula* en la que arriba está abajo, el negro es blanco, la verdad es falsedad y el mal es bueno.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+La sociedad progresa exactamente al grado en que la razón y la evidencia dan el gran salto de lo personal a lo universal, y destruyen cualquier *zona nula* irracional en el camino. La ciencia progresa exactamente al grado en que rechaza la irracionalidad de Dios y los "absolutos" subjetivos. La medicina progresa exactamente al grado en que rechaza la eficacia de la oración y el ritual vacío, y en su lugar confía en la razón y la evidencia. La filosofía también - y la sociedad humana en general - avanzará exactamente hasta el punto de rechazar la irracional "moralidad circular-cuadrada" de las teorías éticas estátistas y religiosas.
 
-### Government
+### Gobierno
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Decir que el gobierno opera bajo reglas morales opuestas al resto de la sociedad es exactamente lo mismo que decir,"los duendes son inmunes a la gravedad". En primer lugar, los duendes no existen - y una de las formas en que sabemos que no existen es que se dice que son inmunes a la gravedad. Todo lo que tiene masa está sujeto a la gravedad - lo que por definición es inmune a la gravedad no tiene masa, y por lo tanto no existe. La frase "los duendes son inmunes a la gravedad" es una tautología, que sólo confirma la inexistencia de los duendes - es el equivalente semántico de "lo que no existe, no existe". A es A, la primera ley lógica de Aristóteles, hace muy poco para confirmar la existencia de lo que se define como inexistencia.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+De la misma manera, cuando decimos que es moralmente bueno que los soldados asesinen y que los representantes del gobierno roben, sabemos que los "soldados" y los "representantes del gobierno" como categorías morales son *completamente inválidos*.
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+Si digo que un círculo cuadrado tiene derecho a robar, simplemente digo que lo que no puede existir tiene derecho a hacer lo que es - contradictorio - una declaración puramente absurda, pero que sigue siendo extrañamente convincente en la "zona nula" de la política.
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+Si compro un disfraz de soldado en una tienda de segunda mano y me lo pongo, claramente no he creado un universo alterno en el que reglas morales opuestas puedan ser válidas. El momento antes de que me pusiera el uniforme, estaba mal para mí asesinar - ¿cuándo se convierte en un *derecho* para mí asesinar? ¿Cuando me puse los pantalones? ¿Y si llevo los pantalones puestos, pero no el chaleco? ¿Qué pasa si sólo tengo una bota puesta? ¿Y si las dos botas están puestas, pero sólo una está atada? ¿Y si mi sombrero está al revés? ¿Qué pasa si me he puesto un uniforme que no es reconocido por la primera persona con la que me encuentro? ¿Los Beatles repentinamente poseían el derecho a asesinar cuando dispararon la portada de "Sargeant Peppers"? ¿Perdieron ese derecho cuando se quitaron las chaquetas?
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Hago estas preguntas retóricas porque de hecho son mortalmente serias. Claramente, un uniforme militar no cambia la naturaleza de un ser humano, como tampoco un corte de pelo lo convierte en un pato, un concepto o un dios.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+"Ah," puedes decir,"pero el uniforme es inválido porque lo conseguiste en una tienda de segunda mano - ponerse el uniforme del soldado no te hace más soldado que fotocopiar un doctorado te de un doctorado."
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+La analogía es incorrecta, porque tener un doctorado o fotocopiar un doctorado no cambia ninguna de las reglas morales a las que estás sujeto como ser humano.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+"Bueno" puede responder, "pero la diferencia es que el soldado posee derechos morales que le otorga el ciudadano común, en aras de la autodefensa colectiva y así sucesivamente".
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Esto plantea un punto muy interesante, que es la cuestión de si las opiniones pueden cambiar la realidad.
 
-### Opinions And Reality
+### Opiniones y realidad
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Claramente, entendemos que no puedo, a través de mi opinión, liberarte de las restricciones de la gravedad, como tampoco mi opinión de que "dos más dos es igual a cinco" lo hace realidad.
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+Las "opiniones" son aquellas creencias que no tienen evidencia clara en la realidad, o para las cuales no se puede proporcionar evidencia clara, son expresiones de preferencias meramente personales. Mi opinión personal es que prefiero el helado de chocolate a la vainilla - también puedo tener una "opinión" de que Islandia es un paraíso tropical, o que Dios existe, o que la lluvia cae hacia arriba. Las opiniones personales claramente no tienen nada que ver con la moralidad; las opiniones que pretenden describir con precisión la realidad, pero que no lo hacen, son simplemente prejuicios incorrectos. Creer que la lluvia cae hacia arriba no invierte su curso; llevar una camiseta hawaiana a Islandia no hace que Reykjavik sea más cálido.
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+Por lo tanto, creer que el asesinato es moralmente bueno no lo hace moralmente bueno. Puesto que mis creencias acerca de un ser humano no cambian su naturaleza moral, mi creencia de que sus asesinatos son virtuosos no cambia la virtud de sus acciones. Si cierro los ojos e imagino que eres un lagarto, no pierdes repentinamente tu habilidad para regular tu propia temperatura corporal. Imaginar que eres un pez no pasa por alto tu necesidad de equipo de buceo.
 
-Opinions do not change reality.
+Las opiniones no cambian la realidad.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Debido a que las opiniones no cambian la realidad, no puedo concederles ninguna excepción o reversión con respecto a una regla moral universal. Puesto que las reglas morales se basan en la lógica universal, así como en la naturaleza física y la realidad de un ser humano, no puedo concederle el "derecho al asesinato", como tampoco puedo concederle la capacidad de levitar, caminar sobre el agua o decir con exactitud que dos y dos hacen cinco.
 
-### Government As Voluntarism
+### El Gobierno Como Voluntario
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+La fuerza abierta involucrada en la institución del gobierno - el envoltorio conceptual que invierte las reglas morales para un grupo particular de individuos - es algo que siempre se mantiene fuera de la mesa en los debates. Cuando se habla de gobierno, nunca se considera positivo señalar "el arma en la habitación". Casi por definición, se considera que los gobiernos son elegidos por y para el pueblo, y que operan con su aprobación expresa o implícita.
 
-However, this is pure nonsense.
+Sin embargo, esto es pura tontería.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Si un hombre sostiene un cuchillo en la garganta de una mujer mientras mantiene relaciones sexuales con ella, es por definición un acto de violación. Él no puede decir que el sexo es consensual, mientras que al mismo tiempo la amenaza con lesiones o la muerte si ella se niega a tener sexo con él. Si el sexo es voluntario, entonces el cuchillo es completamente innecesario. Si el hombre siente la necesidad de un cuchillo, entonces claramente el sexo es *no* voluntario.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+Del mismo modo, las personas dicen que la tributación forma parte del contrato social que han acordado voluntariamente.
 
-This is both logically and empirically false.
+Esto es tanto lógica y empíricamente falso.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Sabemos que es empíricamente falso porque *no existe ningún contrato social*. Ni tu ni yo *nunca* firmamos un documento que consintiera voluntariamente el impuesto sobre la renta -simplemente nacimos en un sistema que nos quita nuestro dinero a punta de pistola.
 
-### The Gun In The Room
+### El Arma En La Habitación
 
-Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+Mucha gente dirá en este punto que los impuestos no se aplican a punta de pistola, sino que la gente los paga voluntariamente. Por ejemplo, nunca he tenido una pistola apuntada en mi cara por un recaudador de impuestos o un policía, pero he pagado impuestos durante décadas.
 
-This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+Esto puede ser cierto, pero es completamente irrelevante. Si le digo a una mujer que mataré a sus hijos si no tiene relaciones sexuales conmigo, y se somete a mí, entendemos claramente que se ha producido una acción inmoral - aunque no he utilizado armas en mi violación. Claramente, si la mujer se somete a mí, es porque teme que yo lleve a cabo mi amenaza. Si le dijera que mi duende mascota mataría a sus hijos si no tiene relaciones sexuales conmigo, muy probablemente estaría perturbada, pero no temería mi amenaza de manera significativa, ya que es imposible que mi duende mascota mate a sus hijos. O, si yo muriera, y en mi testamento declarara que mataría a los hijos de esta mujer si ella no tuviera relaciones sexuales conmigo, claramente se sentiría aliviada en vez de asustada, ya que no puedo interpretar mi amenaza más allá de la tumba. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
 
 To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
 
@@ -168,140 +168,140 @@ Once the violence of government is intellectually exposed – and the supposed �
 
 I have written dozens of articles exposing the falsehood of this position, so I will not bother to reiterate those arguments here, since they are not essential to a book on morality, but rather would be more appropriate to a book explaining the principles and practicalities of a voluntary society.[^4]
 
-The “argument from practicality” in no way solves the problem of violence. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
+El "argumento de la practicidad" no resuelve en modo alguno el problema de la violencia. Si te veo comiendo hamburguesas con queso todos los días, puedo decirte que no es práctico que lo hagas, si quieres mantener un peso saludable. No puedo pretender que sea *malo* que tu comas hamburguesas con queso, por razones de que ya hemos comido. No puedo obligarte justamente a través de la fuerza a incrementar la "practicidad" de tus acciones.
 
-Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
+Por lo tanto, decir que el gobierno está justificado al obligarnos a ser más "prácticos" es completamente falso, lo cual es verificado por la estructura del CUP - aunque asumimos que las soluciones gubernamentales son más "prácticas", lo que de hecho no son.
 
-Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
+Además, si los representantes del gobierno afirman que un contrato social les permite forzar a una población "poco práctica" a comportarse más "prácticamente", acá se crea una contradicción insuperable.
 
-If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
+Si obligo a una mujer a casarse con un hombre que he elegido para ella, entonces claramente creo que tengo un juicio infinitamente mejor que ella sobre la idoneidad de un marido para ella. De hecho, no creo que ella esté abierta a la razón en absoluto, o que tenga alguna pista sobre su propio interés personal, porque estoy tomando *no* en cuenta sus preferencias, pero la estoy forzando a casarse con un hombre de mi elección.
 
-When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
+Cuando obligo a esta mujer a casarse, sólo puedo justificar el uso de la fuerza - incluso por razones inmediatas y pragmáticas - afirmando que no está mentalmente capacitada para tomar sus propias decisiones con respecto al matrimonio.
 
-If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. If she has no idea what constitutes a good or suitable husband, then how can she evaluate me as fit to decide who will be a good or suitable husband for her?
+Si la mujer no está mentalmente capacitada para tomar sus propias decisiones con respecto al matrimonio, entonces claramente ella también está *indispuesta mentalmente para delegar a un representante para que haga esa elección por ella*. Si ella no tiene ni idea de lo que constituye un marido bueno o conveniente, entonces ¿cómo puede evaluarme como apto para decidir quién será un marido bueno o apto para ella?
 
-If a man of extraordinarily low intelligence does not understand the concept of “health,” would it be reasonable to expect him to be rational in his choice of a doctor? In order to competently choose a doctor, we must understand the concepts of health, efficacy, cost, professionalism and so on. In the same way, if I do not allow a woman to have any say in who she marries, then clearly I must believe that she has no understanding of what makes a good husband – but if she has no understanding of what makes a good husband, then she has no capacity to transfer that choice to me, since she will have no way of evaluating *my* criteria for what makes a good husband.
+Si un hombre de inteligencia extraordinariamente baja no entiende el concepto de "salud", ¿sería razonable esperar que fuera racional al  elegir un médico? Para poder elegir un médico de manera competente, debemos entender los conceptos de salud, eficacia, costo, profesionalismo y así sucesivamente. De la misma manera, si no permito que una mujer pueda opinar sobre con quién se casa, entonces claramente debo creer que no entiende lo que es un buen esposo - pero si no entiende lo que es un buen esposo, entonces no tiene la capacidad de transferirme esa elección a mí, ya que no tendrá forma de evaluar *mi* criterio para lo que es un buen esposo.
 
-If I cannot decide what colour to paint my house, and my solution is to sign a contract with a painter allowing him to choose the colour for me – and in that contract I sign away all my future freedoms to resist his decisions, and give him the right to kidnap and enslave me if I disagree with any of his decisions, or refuse to pay for them – then clearly I am not of sound mind. If I give someone the power to compel me *for the rest of my life*, then clearly I do not believe that I am competent to make my own decisions.
+Si no puedo decidir qué color pintar mi casa, y mi solución es firmar un contrato con un pintor que le permita elegir el color por mí - y en ese contrato firmo todas mis futuras libertades para resistirme a sus decisiones, y le doy el derecho de secuestrarme y esclavizarme si no estoy de acuerdo con alguna de sus decisiones, o me niego a pagar por ellas - entonces claramente no estoy en mi sano juicio. Si le doy a alguien el poder de obligarme *por el resto de mi vida*, entonces claramente no creo que sea competente para tomar mis propias decisiones.
 
-If I do not think that I am competent to make my own decisions, then clearly my decision to subject myself to violence *for the rest of my life* is an incompetent decision.
+Si no creo que soy competente para tomar mis propias decisiones, entonces claramente mi decisión de someterme a la violencia *por el resto de mi vida* es una decisión incompetente.
 
-Either I am capable of making competent decisions, or I am not. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. If I am *not* capable of making competent decisions, then my decision to subject myself to force for the rest of my life is also invalid.
+O soy capaz de tomar decisiones competentes, o no lo soy. Si soy capaz de tomar decisiones competentes, entonces someterme a la fuerza por el resto de mi vida es inválido. Si soy *no* capaz de tomar decisiones competentes, entonces mi decisión de someterme a la fuerza por el resto de mi vida también es inválida.
 
-Even if the above considerations are somehow bypassed, however, it is still impossible to justly enforce a social contract through a government. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+Incluso si las consideraciones anteriores son eludidas de alguna manera, sigue siendo imposible hacer cumplir con justicia un contrato social a través de un gobierno. Claramente, no puedo firmar un contrato en *tu* nombre o en el de mis hijos, que será vinculante para ti o para ellos por el resto del tiempo. No puedo comprar un auto, enviarte la cuenta y exigirte justamente que la pagues. Si reclamo el poder de imponerte contratos unilaterales, el CUP también *te* otorga este poder, y por lo tanto me devolverá el contrato a mi nombre.
 
-In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
+De la misma manera, incluso si decido pagar mis impuestos voluntariamente, no puedo imponer justamente esa elección sobre ustedes, ya que un contrato voluntario es una mera preferencia personal, y por lo tanto no se puede imponer universalmente a través de la violencia.
 
-### The Necessity Of The State?
+### ¿La Necesidad Del Estado?
 
-This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
+Toda esta cuestión se vuelve aún más ridícula cuando miramos a la "justificación" moral más común para el poder de los gobiernos democráticos, que se basa en la "voluntad de la mayoría".
 
-First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
+En primer lugar, la "voluntad" es un aspecto del individuo, mientras que "mayoría" es una etiqueta conceptual para un grupo. La "mayoría" no puede tener más voluntad que una "línea de coro" puede "dar a luz". Si lo dudas, simplemente intenta construir una casa de árbol con el concepto de "bosque" en vez de con cualquier trozo de madera.
 
-Two additional objections constantly recur whenever the question of the necessity of a government arises. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
+Dos objeciones adicionales recurren constantemente cada vez que surge la cuestión de la necesidad de un gobierno. La primera es que una sociedad libre sólo es posible si las personas son perfectamente buenas o racionales - en otras palabras, los ciudadanos *necesitan* un gobierno centralizado porque hay personas malvadas en el mundo.
 
-The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Citizens can protect themselves against evil individuals, but stand no chance against an aggressive government armed to the teeth with police and military might. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
+El primer y más obvio problema con esta posición es que si las personas malvadas existen en la sociedad, también existirán dentro del gobierno - y por lo tanto serán mucho más peligrosas. Los ciudadanos pueden protegerse contra los individuos malvados, pero no tienen ninguna oportunidad contra un gobierno agresivo armado hasta los dientes con la fuerza policial y militar. Por lo tanto, el argumento de que necesitamos al gobierno porque la gente mala existe es falso. Si las personas malvadas existen, el gobierno *debe* ser desmantelado, ya que las personas malvadas serán atraídas a usar su poder para sus propios fines - y, a diferencia de los matones privados, las personas malvadas en el gobierno tienen a la policía y el ejército para infligir sus caprichos en una población indefensa (y relativamente desarmada). Así pues, el argumento se asemeja a la idea de que "los falsificadores son muy peligrosos, por lo que deberíamos otorgar un monopolio exclusivo sobre la falsificación a un pequeño grupo de personas". ¿Adónde diablos cree la gente que irán los falsificadores primero?[^5]
 
-Logically, there are four possibilities as to the mixture of good and evil people in the world:
+Lógicamente, hay cuatro posibilidades en cuanto a la mezcla de personas buenas y malas en el mundo:
 
-1. All men are moral.
-2. All men are immoral.
-3. The majority of men are immoral, and a minority moral.
-4. The majority of men are moral, and a minority immoral.[^6]
+1. Todos los hombres son morales.
+2. Todos los hombres son inmorales.
+3. La mayoría de los hombres son inmorales, y una minoría moral.
+4. La mayoría de los hombres son morales, y una minoría inmoral.[^6]
 
-In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
+En el primer caso (*todos los hombres son morales*), el gobierno obviamente no es necesario, ya que el mal no puede existir.
 
-In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+En el segundo caso (*todos los hombres son inmorales*), no se puede permitir que el gobierno exista por una simple razón. El gobierno, es geralmente argumentado, que debe existir porque hay gente malvada en el mundo que desea infligir daño, y que sólo puede ser refrenada por el miedo a la retribución gubernamental (policía, prisiones, *y demás*). Un corolario de este argumento es que cuanto menos castigo teman estas personas, más malvados serán.
 
-However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
+Sin embargo, el gobierno *por si mismo* no está sujeto a ninguna fuerza o castigo, sino que es una ley en sí misma. Incluso en las democracias occidentales, ¿cuántos policías y políticos van a la cárcel?
 
-Thus if evil people wish to do harm, but are only restrained by force, then society can *never* permit a government to exist, because evil people will work feverishly to grab control of that government, in order to do evil and avoid retribution. In a society of pure evil, then, the only hope for stability would be a state of nature, where a general arming and fear of retribution would blunt the evil intents of disparate groups. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
+Por lo tanto, si las personas malas desean hacer daño, pero sólo están restringidas por la fuerza, entonces la sociedad no puede *nunca* permitir que exista un gobierno, porque las personas malas trabajarán febrilmente para tomar el control de ese gobierno, a fin de hacer el mal y evitar el castigo. En una sociedad de maldad pura, entonces, la única esperanza de estabilidad sería un estado de naturaleza, donde un armamento general y el temor a la venganza frustrarían los intentos malvados de grupos dispares. Como es el caso entre las naciones con armas nucleares, un "equilibrio de poder" fomenta la paz.
 
-The third possibility is that *most* people are evil, and only a few are good. If that is the case, then the government also cannot be permitted to exist, since the majority of those in control of the government will be evil, and will rule despotically over the good minority. Democracy in particular cannot be permitted, since the minority of good people would be subjugated to the democratic control of the evil majority. Evil people, who wish to do harm without fear of retribution, would inevitably control the government, and use its power to do evil free of the fear of consequences.
+La tercera posibilidad es que *la mayoría* de las personas son malas, y sólo unas pocas son buenas. Si ese es el caso, tampoco se puede permitir que exista el gobierno, ya que la mayoría de los que controlan el gobierno serán malvados, y gobernarán despóticamente sobre la buena minoría. La democracia en particular no puede permitirse, ya que la minoría de la gente buena estaría subyugada al control democrático de la mayoría malvada. La gente malvada, que desea hacer daño sin temor a represalias, inevitablemente controlaría al gobierno y usaría su poder para hacer el mal libre del temor a las consecuencias.
 
-Good people do not act morally because they fear retribution, but because they love virtue and peace of mind – and thus, unlike evil people, they have little to gain by controlling the government. In this scenario, then, the government will inevitably be controlled by a majority of evil people who will rule over all, to the detriment of all moral people.
+Las buenas personas no actúan moralmente porque temen al castigo, sino porque aman la virtud y la paz mental - y así, a diferencia de las malas personas, tienen poco que ganar controlando el gobierno. En este escenario, entonces, el gobierno será inevitablemente controlado por una mayoría de personas malvadas que gobernarán sobre todos, en detrimento de todas las personas morales.
 
-The fourth option is that most people are good, and only a few are evil. This possibility is subject to the same problems outlined above, notably that evil people will always want to gain control over the government, in order to shield themselves from just retaliation for their crimes. This option only changes the *appearance* of democracy: because the majority of people are good, evil power-seekers must lie to them in order to gain power, and then, after achieving public office, will immediately break faith and pursue their own corrupt agendas, enforcing their wills through the police and the military.[^7] Thus the government remains the greatest prize to the most evil men, who will quickly gain control over its awesome power – to the detriment of all good souls – and so the government cannot be permitted to exist in this scenario either.
+La cuarta opción es que la mayoría de las personas son buenas, y sólo unas pocas son malas. Esta posibilidad está sujeta a los mismos problemas señalados anteriormente, en particular que las personas malvadas siempre querrán ganar control sobre el gobierno, para protegerse de los castigos por sus crímenes. Esta opción sólo cambia la *aparición* de la democracia: debido a que la mayoría de las personas son buenas, los malvados buscadores de poder deben mentirles para ganar poder, y luego, después de lograr un cargo público, inmediatamente quebrantarán su fe y perseguirán sus propias agendas corruptas, haciendo cumplir sus voluntades a través de la policía y el ejército.[^7] De esta manera, el gobierno sigue siendo el mayor premio para los hombres más malvados, que rápidamente ganarán control sobre su asombroso poder - en detrimento de todas las almas buenas - y por lo tanto tampoco se puede permitir que el gobierno exista en este escenario.
 
-It is clear, then, that there is no situation under which a government can logically or morally be allowed to exist. The only possible justification for the existence of a government would be if the majority of men are evil, but all the power of the government is always controlled by a minority of good men.[^8]
+Está claro, pues, que no hay ninguna situación en la que se pueda permitir que un gobierno exista lógica o moralmente. La única justificación posible para la existencia de un gobierno sería si la mayoría de los hombres fueran malos, pero todo el poder del gobierno estaría siempre controlado por una minoría de hombres buenos.[^8]
 
-This situation, while interesting theoretically, breaks down logically because:
+Esta situación, aunque teóricamente interesante, se descompone lógicamente porque:
 
-1. The evil majority would quickly outvote the minority or overpower them through a coup;
-2. There is no way to ensure that only good people would always run the government; and,
-3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
+1. La mayoría malvada rápidamente derrotaría a la minoría o los dominaría mediante un golpe de estado;
+2. No hay manera de asegurar que sólo la gente buena dirija siempre el gobierno; y,
+3. No hay absolutamente ningún ejemplo de que esto haya ocurrido en ninguno de los anales brutales de la historia del Estado.
 
-The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
+El error lógico que siempre se comete en la defensa del gobierno es el de imaginar que los juicios morales colectivos que se aplican a cualquier grupo de personas *no se aplican también al grupo que los rige*. Si el cincuenta por ciento de la gente es malvada, entonces *al menos* el cincuenta por ciento de la gente que gobierna sobre ellos es también malvada.[^9] Por lo tanto, la existencia del mal nunca puede justificar la existencia de un gobierno.
 
-If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
+Si no hay maldad, los gobiernos son innecesarios. Si existe el mal, los gobiernos son demasiado peligrosos para que se les permita existir.
 
-Why is this error so prevalent?
+¿Por qué es tan frecuente este error?
 
-There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+Hay una serie de razones, que sólo pueden mencionarse aquí. La primera es que el gobierno se presenta a los niños en forma de maestros de escuelas públicas considerados autoridades morales. Así son la *moralidad* y *autoridad* asociadas primero con el gobierno - una asociación que luego se refuerza a través de años de repetición moledora.
 
-The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
+La segunda es que el gobierno nunca enseña a los niños sobre la raíz de su poder -la violencia-, sino que pretende ser sólo otra institución social, como un negocio, una iglesia o una caridad, pero más moral.
 
-The third is that the prevalence of religion and propaganda has always blinded men to the evils of the government – which is why rulers have always been so interested in furthering the interests of churches and state “education.” In the religious world-view, absolute power is synonymous with perfect virtue, in the form of a deity. In the real political world of men, however, increasing power always means increasing evil. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. There are many more reasons, of course, but these are among the deepest.[^10]
+La tercera es que el predominio de la religión y la propaganda siempre ha cegado a los hombres a los males del gobierno - razón por la cual los gobernantes siempre han estado tan interesados en promover los intereses de las iglesias y la "educación" estatal. En la cosmovisión religiosa, el poder absoluto es sinónimo de perfecta virtud, en forma de deidad. En el mundo político real de los hombres, sin embargo, aumentar el poder siempre significa aumentar el mal. Con la religión, también, todo lo que sucede debe ser para bien - por lo tanto, la lucha contra el poder político invasor es la lucha contra la voluntad de la deidad. Hay muchas más razones, por supuesto, pero estas se encuentran entre las más profundas.[^10]
 
-At the beginning of this section, I mentioned that people generally make *two* errors when confronted with the idea of dissolving the government. The first is the belief that governments are necessary because evil people exist. The second is the belief that, in the absence of governments, any social institutions that arise will inevitably take the place of governments. Thus, Dispute Resolution Organisations (DROs), insurance companies and private security forces are all considered potential cancers that will swell and overwhelm the body politic.
+Al principio de esta sección, mencioné que la gente generalmente comete *dos* errores cuando se enfrenta con la idea de disolver el gobierno. La primera es la creencia de que los gobiernos son necesarios porque existen personas malvadas. La segunda es la creencia de que, en ausencia de gobiernos, cualquier institución social que surja sustituirá inevitablemente a los gobiernos. Por lo tanto, las organizaciones de resolución de disputas (ORDs), las compañías de seguros y las fuerzas de seguridad privadas se consideran todos los cánceres potenciales que aumentarán y abrumarán al cuerpo político.
 
-This view arises from the same error outlined above. If *all* social institutions are constantly trying to grow in power and enforce their wills on others, then by that very argument a centralised government cannot be allowed to exist. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
+Esta opinión surge del mismo error esbozado anteriormente. Si *todas* las instituciones sociales están constantemente tratando de crecer en el poder y hacer valer sus voluntades sobre otros, entonces por ese mismo argumento no se puede permitir que exista un gobierno centralizado. Si es una ley de hierro que los grupos siempre tratan de ganar poder sobre otros grupos e individuos, entonces ese deseo de poder *no terminará si uno de ellos gana, sino que continuará extendiéndose por toda la sociedad virtualmente sin oposición hasta que la esclavitud sea la norma*.
 
-The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Governments grow endlessly because they can pay tax collectors with a portion of the taxes they collect. The slaves are thus forced to pay for the costs of their enslavement.
+La única manera de que las instituciones sociales puedan convertirse en violentos monopolios es *descargar los costos de la aplicación de la ley en sus víctimas*. Los gobiernos crecen interminablemente porque pueden pagar a los recaudadores de impuestos con una parte de los impuestos que recaudan. Los esclavos se ven así obligados a pagar los costes de su esclavitud.
 
-In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
+En una sociedad voluntaria, no habría impuestos y, por lo tanto, cualquier grupo que desee obtener un poder monopolístico tendría que financiar su propio ejército, lo que nunca sería económicamente viable ni rentable.[^11]
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
+Es muy difícil entender la lógica y la inteligencia del argumento de que, para protegernos de un grupo que *podría* dominarnos, deberíamos apoyar a un grupo que *ya* nos ha dominado. Es similar al argumento estatista sobre los monopolios privados - que los ciudadanos deben crear un monopolio gubernamental porque temen a los monopolios privados. No se necesita una visión aguda para ver a través de tales tonterías.
 
-What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+¿Cuál es la evidencia de que las potencias descentralizadas y en competencia promueven la paz? En otras palabras, ¿hay algún hecho que nos sirva de base para apoyar la idea de que un equilibrio de poder es la única oportunidad que tiene el individuo para la libertad?
 
-Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
+El crimen organizado no ofrece muchos buenos ejemplos, ya que las pandillas regularmente corrompen, manipulan y usan el poder de la policía gubernamental para imponer su gobierno, por lo que no se puede decir que estas pandillas estén operando en un estado de naturaleza. Además, las bandas criminales se benefician enormemente suministrando sustancias o servicios prohibidos legalmente y, por lo tanto, también prosperan debido en gran medida a las políticas estatales.
 
-A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+Un ejemplo más útil es el hecho de que ningún líder ha declarado jamás la guerra a otro líder que posea armas nucleares. En el pasado, cuando los líderes se sentían inmunes a las represalias personales, estaban más que dispuestos a matar a sus propias poblaciones haciendo la guerra. Ahora que ellos mismos están siendo aniquilados, sólo están dispuestos a atacar a los países que no pueden defenderse.
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+Esta es una lección instructiva sobre por qué tales hombres requieren poblaciones desarmadas y dependientes - y un buen ejemplo de cómo el miedo a las represalias inherente a un sistema equilibrado de poderes descentralizados y en competencia *es el único método probado de asegurar y mantener la libertad personal*.
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+Huir de los demonios imaginarios a las prisiones protectoras de los gobiernos sólo asegura la destrucción de las mismas libertades que hacen que valga la pena vivir la vida.
 
-### Governments And Religion
+### Gobiernos Y Religión
 
-The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
+La idea de que nacer crea un contrato con una agencia ficticia, que en términos prácticos te convierte en un cuasi esclavo de individuos específicos, es común tanto a la religión como al Estado - y otra agencia mucho más personal, de la que hablo en mi primer libro "Sobre La Verdad: La Tiranía De La Ilusión".
 
-Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Siempre que un sacerdote dice:"Obedece a Dios", lo que está diciendo es:"Obedéceme a mí". Puesto que Dios no existe, cualquier mandamiento que el sacerdote dice que viene de Dios, en realidad viene del sacerdote. Dios "es sólo la entidad ficticia utilizada para intimidarte conceptualmente con el fin de obtener tu muy práctica sumisión en el mundo real, a individuos reales, en términos de entregar voluntariamente dinero, tiempo y recursos.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+Es mucho más eficaz para los explotadores hacer que sus esclavos consideren la esclavitud como una virtud, ya que reduce enormemente los costos de controlarlos. Si puedo convencerte de que es malo evitar servirme, y virtuoso ser mi esclavo, entonces no necesito contratar a tantos matones para intimidar, controlar y robarte.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+Las mitologías religiosas y estatales, por lo tanto, son ficciones que reducen enormemente los costos de controlar las poblaciones; son el lubricante y el combustible para la espantosa maquinaria de la violencia institucionalizada.
 
-Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+En todo el mundo, los gobernantes son un porcentaje muy pequeño de la población. ¿Cómo puede ser posible que entre uno y dos por ciento de la gente controle a los demás? Hay un cierto monopolio sobre los armamentos, sin duda, pero ese monopolio es relativamente fácil de contrarrestar, ya que la mayoría de los gobiernos hacen una fortuna vendiendo armas en todo el mundo.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+La triste realidad es que las personas en conjunto están esclavizadas a entidades ficticias como naciones, dioses, culturas y gobiernos.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+Nuestro orgullo personal se rebelaría instintivamente contra una esclavitud inmediata e impuesta a otro ser humano - sin embargo, parece que casi nos deleitamos en la esclavitud a *la mitología*.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+Nuestro deseo de ser buenos - junto con la emoción de la virtud que obtenemos al obedecer las mitologías morales - nos ha llevado a alinearnos para entregar voluntariamente nuestros recursos a aquellos que dicen representar estas mitologías.
 
-One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+Una razón central por la que sabemos que los gobiernos y los dioses son innecesarios es que ellos son tan efectivos. *Sabemos que la mayoría de las personas desean desesperadamente ser buenas porque son fácilmente controladas por teorías morales*.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+La lógica de la obediencia a la mitología es claramente insensata. Si un sacerdote me dice que tengo que obedecer a "Dios", esto es exactamente lo mismo que él diciéndome que debo obedecer a una entidad llamada "Nog." Incluso si acepto que esta entidad ficticia es digna de la obediencia eterna, esto no me obligaría de ninguna manera a obedecer al *sacerdote*. Si yo te digo "obedece a tu corazón", ¿puedo entonces razonablemente decir:"y *Yo solo* hablo por tu corazón"?
 
-Of course not.
+Por supuesto que no.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+Cuando despojamos a la mitología y la ficción de nuestras "interacciones" con nuestros gobernantes, lo que emerge es una realidad sombría, cruda y asesinamente explotadora.
 
-Let’s take as an example a very real and present danger: taxation.
+Tomemos como ejemplo un peligro muy real y presente: los impuestos.
 
-#### Taxation
+#### Tributación
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Me han dicho que, en virtud de elegir vivir en Canadá, le debo al "gobierno" más del cincuenta por ciento de mis ingresos.
 
-Stripped of mythology, what does this really translate to?
+Desnudo de mitología, ¿a qué se traduce esto realmente?
 
-In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+En realidad, esperaré hasta el fin del tiempo para que "el gobierno" venga a recoger su dinero. Esperar que "el gobierno" pase por aquí es como querer fechar el concepto de "feminidad". Puedo intentar pagar mi cena con la palabra "dinero".
 
-In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+En realidad, cuando se me dice que debo pagar mis impuestos al "gobierno", lo que esto significa en realidad es que debo escribir un cheque para transferir mi dinero a una cuenta bancaria en particular, a la que luego acceden determinadas personas. Estos individuos entonces tienen el derecho de tomar ese dinero, y gastarlo como les parezca apropiado - estos individuos en particular tienen así un control total sobre mi dinero.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+En ningún momento ninguna entidad como "el gobierno" levanta un dedo, hace un movimiento, abre una cuenta bancaria, o gasta un centavo. Imaginar que un concepto llamado "el gobierno" tiene la capacidad de tomar o gastar tu dinero es exactamente lo mismo que esperar que "Dios" venga a buscarte y te lleve a la iglesia.
 
 Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
 
