@@ -30,9 +30,9 @@ Sa ganoon ding paraan, kahit na kusang loob kong piliinna magbayad ng aking mga 
 
 ### Ang pangangailangan ng Estado?
 
-This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
+Itong buong tanong na ito ay nagiging mas katawa-tawa kapag tayo ay tumitingin sa pinaka- karaniwang moral "pagbibigay-katwiran" para sa kapangyarihan ng mga malayang gobyerno, na kung saan nakabatay sa "kagustuhan ng nakakarami."
 
-First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
+Una sa lahat, ang "kalooban" ay isang aspekto ng isang tao, samantalang ang "karamihan" ay isang konseptuwal na tag para sa isang grupo. Ang "karamihan" ay hindi magkakaroon ng "kalooban" kaysa sa "koro na linya" na kayang "magbigay buhay." kung hindi ka naniniwala dito, subukan mong magtayo ng isang bahay na punong kahaoy na may konsepto na "gubat" sa halip ay gumamit ng anumang piraso ng kahoy.
 
 Two additional objections constantly recur whenever the question of the necessity of a government arises. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
 
