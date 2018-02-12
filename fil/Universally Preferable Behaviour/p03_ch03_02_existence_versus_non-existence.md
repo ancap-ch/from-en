@@ -6,7 +6,7 @@ Sinulat ko ang dose-dosenang mga artikulo na naglalantad sa kasinungalingan ng p
 
 Ang "argumento mula sa pagiging praktiko" ay hindi ganap na nalulutas ang problema ng karahasan. Kung nakikita kong kumakain ka ng cheeseburgers araw-araw, masasabi ko sa iyo na hindi praktikal na gawin mo ito, kung gusto mong mapanatili ang isang malusog na timbang. Hindi ko masasabi na ito ay *masama* para sa iyo upang kumain ng cheeseburgers, para sa mga kadahilanan na kami ay wala na sana. Hindi ko maaring pilitin ka sa pamamagitan ng lakas upang madagdagan ang "pagiging praktiko" ng iyong mga aksyon.
 
-Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
+Kaya naman ang mga nagsasabi na ang gobyerno ay makatwiran sa pagpilit sa amin na maging mas "praktikal," ay ganap na huwad napatunayan ng UPB Framework - kahit na ipinapalagay namin na ang mga solusyon sa gobyerno ay mas "praktikal," na sa katunayan sila ay hindi.
 
 Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
 
