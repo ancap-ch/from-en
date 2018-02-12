@@ -3,10 +3,10 @@
 
 ---
 
-Title: Economics and Ethics of Private Property
-Proofreaders: 
-Platform: **Github**
-Last generated: 
+Title: Economics and Ethics of Private Property  
+Proofreaders:   
+Platform: **Github**  
+Last generated:  
 
 <details>
   <summary>Progress and contributors</summary>
@@ -56,10 +56,10 @@ Last generated:
 
 ---
 
-Title: Higher Costs Dont Mean Higher Prices
-Proofreaders: 
-Platform: **Github**
-Last generated:
+Title: Higher Costs Dont Mean Higher Prices  
+Proofreaders:   
+Platform: **Github**  
+Last generated:  
 
 <details>
   <summary>Progress and contributors</summary>
@@ -72,10 +72,10 @@ Last generated:
 
 ---
 
-Title: Libertarianism and the Alt-Right
-Proofreaders: 
-Platform: **Github**
-Last generated:
+Title: Libertarianism and the Alt-Right  
+Proofreaders:   
+Platform: **Github**  
+Last generated:  
 
 <details>
   <summary>Progress and contributors</summary>
@@ -89,10 +89,10 @@ Last generated:
 
 ---
 
-Title: The Myth of National Defense
-Proofreaders: 
-Platform: **Github**
-Last generated:
+Title: The Myth of National Defense  
+Proofreaders:   
+Platform: **Github**  
+Last generated:  
 
 <details>
   <summary>Progress and contributors</summary>
@@ -107,10 +107,10 @@ Last generated:
 
 ---
 
-Title: Universally Preferable Behaviour
-Proofreaders: 
-Platform: **Github**
-Last generated:
+Title: Universally Preferable Behaviour  
+Proofreaders:   
+Platform: **Github**  
+Last generated:  
 
 <details>
   <summary>Progress and contributors</summary>
