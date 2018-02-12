@@ -1,106 +1,107 @@
-## Existence Versus Non-Existence
+## Varoluş Varolmayışa Karşı
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+"Var olmayışı", kütle veya enerjiye sahip olmayan olarak tanımlarız veya kütlenin veya enerjinin etkilerini gösteririz, örneğin saptanabilir etkileşimleri olan yerçekimi gibi.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+Tanrı kütle veya enerjiye sahip değildir ya da kütlenin veya enerjinin etkilerini göstermez - Tanrı, aslında, duyular yoluyla veya akılcılık yoluyla hiçbir şekilde saptanabilir ya da doğrulanabilir değildir.
 
-Thus if I say, “God exists,” what I am really saying is:
+Bu yüzden eğer “Tanrı var” dersem, gerçekte söylediğim şudur:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+“*Var olanın saptanabilir olması gerekir; Tanrı saptanamaz, ancak Tanrı vardır - bu nedenle Tanrı, varolmayan, vardır.*”
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+Başka bir deyişle, “Tanrı var” diyerek, aşılmaz bir çelişki oluşturdum. “Varoluşu”u, “varolmayış” olarak tanımladım, “hayatı”, “cansız madde” veya “kayayı”, “kayanın zıddı” olarak ya da “kare”yi, “daire” olarak tanımlamak ne kadar mantıklıysa, bu da o kadar mantıklıdır.
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+Benzer şekilde, “varolmayışın varoluşa eşit olduğu”,  “çelişkinin tutarlılığa eşit olduğu”, “hakikatin sahteye eşit olduğu” ve “mantıksızlığın akılcı olmaya eşit olduğu” alternatif bir evren yaratırsam, gerçekte yaptıpım şey; “yanlış” adı verilen bir yer yaratıp, doğru olmayan her şeyi onun içine koymak ve bu yeri “yanlış doğruya eşittir” şeklinde tanımlamaktır.[^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Elbette ki, insanlar kendi evrenimizdeki gerçeği geçersiz kılmak için bu “alternatif evren”i yaratmazlar, fakat gerçekte yanlış olanı kurtarıp doğru olarak adlandırılar. Örneğin,“Tanrı başka bir evrende var olabilir, bu nedenle Tanrı'nın var olmadığını iddia edemezsiniz” diyen hiç kimse; “*Ben* diğer evrende olmayabilirim, bu yüzden burada olduğumu söyleyemezsiniz.” iddiasında bulunamaz.
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
+Ayrıca şu argümana karşı iyi bir cevap vermeme eğilimindedirler: “Başka bir evrende, Tanrı'nın var olmadığı konusunda benimle anlaşıyor olabilirsiniz, bu sizi ateist yapar.”[^3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+“Yanlış doğruya eşittir” denilen bazı hayali bölger onları geçersiz kıldığı için, gerçeğe ilişkin geçerli ifadeler,  sonsuza kadar tersi olabiliyorsa, gerçekte söylenen şu ki “hakikatle ilgili olumlu bir ifade geçerli olamaz” - ancak bu ifadenin kendisiyle çelişkili olduğunu bilmek için filozoflar kadar aklıyız, zira bu, olumlu ifadelerin doğru olamayacağını söyleyen, doğru olduğu düşünülen olumlu bir beyandır. Hiçbir şey doğru veya yanlış olamıyorsa - hatta bu ifade bile - o zaman herhangi bir şey hakkında hiçbir ifade edilemez. Kelimeleri kullanma, İngilizceyi kullanmak, anlaşılır cümleler kullanmak - hepsi anlamsızdır, çünkü bu “alternatif evren”de böyle yapılandırılmış sözler tamamen saçmalık olabilir. Bu alternatif evrende doğru olabilecek şeyler, bu evrende yaptığımız açıklamalar üzerinde bir etkiye sahipse, açıkça tersi de doğrudur; bu, tam tersinin eşit derecede geçerli olabileceği için herhangi bir şey hakkında hiçbir ifade edilemez demektir.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+“Yanlış doğruya eşittir” açıklamasının gerçekte doğrusu, “hiçlik hiçliğe eşittir” şeklinde totolojik bir saçmalıktır.
 
-### The "Alternate Universe" In Human Society
+### İnsan Toplumunda "Alternatif Evren"
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+Bu “alternatif evren” teorisi ile çok fazla zaman harcamamızın nedeni, bunun insan topluluğuyla doğrudan alakalı olması ve aramızdaki en büyük kötülükleri “haklı kılmak” için kullanılmasıdır.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+Kendi kişisel deneyimlerimizden, cinayetin yanlış olduğunu biliyoruz. Yukarıdaki örneklerde cinayetin ahlaki açıdan yanlış olduğunu öne sürmeye çalışırken, herhangi birinin, UPB'nin sıkı soyut akıl yürütme yöntemiyle ahlaki içgüdülerinizi doğrulamak için şok olduğundan şüpheliyim. Ancak bu bölümde resmen şok olmaya başlayabilirsiniz.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Bilimsel anlayıştaki en büyük atılım, sözde “kuramların birleştirişmesi”dir. Einstein on yıllar boyunca birleşik bir alan teorisi geliştirmeye çalışıtı; güçlü ve zayıf kuvvetleri, elektromanyetizma, yerçekimi ve benzer fizik teorilerilerini birleştirmek hala 
+ zor olmaya devam ediyor.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+Bununla birlikte, bir çerçeve olarak UPB, ahlaki içgüdülerimizi kişisel, felsefi ve evrensel düzeyde haklı kılmakla kalmaz  – aynı zamanda insan toplumu için derin ve şok edici etkilere sahiptir.
 
-#### UPB In Action
+#### Eylemde UPB
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+UPB çerçevesi ahlaki önermeleri, iç tutarlı olmalarını talep ederek doğrular ve zaman, mekan ve birey açısından evrenseldir.
 
-If we accept UPB, we must also accept the following corollary:
+UPB'yi kabul edersek, aşağıdaki sonuçları da kabul etmeliyiz:
 
-- Moral propositions are independent of costume.
+- Ahlaki önermeler kostümden bağımsızdır.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Bunun anlamı; bir adam, ahlaki duruşunu, elbilseleriyle değiştiremez demektir. Birinin kostümünü değiştirme eylemi o kişinin temel niteliğini değiştirmez. Dolayısıyla, karşıt ahlaki kurallar, birinin giydiği kıyafetlere dayanarak geçerli olamaz.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Askerler tabii ki, sıradan vatandaştan farklı kostüm giyerler. Ortalama vatandaşa cinayet yasaktır; bununla birlikte, askerlere *izin* verilen sadece ödürmek değildir fakat öldürdükleri için ahlaki olarak *övülürler*.
 
-Let’s take another example.
+Başka bir örnek verelim.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Yukarıda gördüğümüz gibi, hırsızlık ahlaki olarak yanlıştır. Bu, tüm insanlar için her durumda ve koşulda ahlaki açıdan yanlıştır. Hırsızlık, başka birinin mülkünün rızası olmadan zorla alınması olduğundan, vergilendirme daima, evrensel ve sonsuza kadar ahlaki bir kötülüktür. Vergilendirme, tanımı gereği, rızası olmadan birinin mülkünün zorla alınmasına neden olur; zira vergilendirme, bir adamın mülkünü soymak için kuvvet kullanımının başlatılmasına dayanır.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+“Hükümet” olarak adlandırdığımız şey, yukarının aşağı, siyahın beyaz, doğrunun yanlış, kötülüğün iyilik olduğu bu *hiçbir şey alanı*nın bir başka örneğidir.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Toplum; tam olarak, sebeplerin ve kanıtların kişiselden evrensele doğru büyük bir sıçrama yaptığı seviyede ve yolundaki mantıksız *hiçbir şey alanları*nı yok ederek ilerliyor. Bilim tam olarak Tanrı'nın mantıksızlığını ve öznel “mutlakları” reddetme derecesinde ilerlemektedir. Tıp, ibadetin ve boş ritüelin etkinliğini reddetme ve bunun yerine akıl ve kanıtlara dayanma yolunda ilerlemektedir. Ayrıca felsefe - ve genel olarak insan toplumu -, “kare-daire ahlakı” mantıksızlığındaki devletçi ve dini etik teorileri reddetme derecesine ilerleyecektir.
 
-### Government
+### Hükümet
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Hükümetin toplumun geri kalanına karşı ahlaki kurallarla faaliyet gösterdiğini söylemek “leprechaun adlı cüce cinler yerçekiminden etkilenmez” demekle tamamen aynıdır. Her şeyden önce, masal kahramanı olan leprechaun adlı cüce cinler yoktur - ve olmadığını bilme yollarımızdan birisi de yerçekiminden muaf oldukları iddiasıdır. Kütlesi olan her şey yerçekimine tabidir - tanımı gereği yerçekiminden etkilenmeyenin kütlesi yoktur ve bu nedenle mevcut değildir. “Leprechaun'lar yerçekimine karşı bağışıktır” ifadesi, sadece leprechaun'ların varlığını doğrulayan bir totolojidir - “var olmayan varoluşun" semantik karşılığıdır. A, A'dır, Aristo'nun ilk mantık yasasıdır, yokluk olarak tanımlanmışın varlığını doğrulamak onu değersizleştirir.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+Aynı şekilde, askerler için öldürmek ve hükümet temsilcileri için çalmanın alhlaki olarak iyi olduğunu söylediğimizde, biliyoruz ki "askerler" ve "hükümet temsilcileri" ahlaki kategori olarak *tamamen geçersizdir*.
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+Kare şeklindeki bir çemberin çalmaya hakkı olduğunu söylüyorsam, aslında sadece şunu söylüyorum; var olmayanın kendiyle çelişme hakkı vardır - bu tamamen saçma bir ifadedir ama siyasetin “hiçbir şey alanı”'nda garip bir şekilde çekici kalıyor.
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+İkinci el dükkânında bir askerin kıyafetini alıp giyersem, açıktır ki karşıt ahlaki kuralların geçerli olduğu alternatif bir evren yaratmış olmam. Kostümü giymeden önce, öldürmek benim için yanlıştı - öldürmek benim için zaman ne zaman *doğru* haline gelir? Pantolonu giydiğim zaman? Pantolonumu giyseydim, ama yeleği giymesem ne olurdu? Sadece bir tek botum varsa? Peki ya her iki bot da ayağımdaysa, ama sadece birisi bağlanmışsa? Şapkam geriye doğru giderse ne olur? Karşılaştığım ilk kişi tarafından tanınmayan üniforma giyseydim ne olurdu? Beatles, “Sergeant Peppers” kapağının çekimlerinde birdenbire öldürme hakkına sahip olmuş muydu? Ceketlerini çıkarırken haklarını kaybettiler mi?
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Aslında ölümcül derece ciddi oldukları için bu retorik sorularu soruyorum. Açıkça görülüyor ki, askeri bir kostüm insan doğasını değiştirmez; bir saç kesimi onu ördek, konspet ya da bir tanrı haline dönüştürmek başka bir şey değildir.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+Belki “Aa,” diyorsun, "ama kostüm geçersiz çünkü ikinci el dükkânında buluyorsun - asker üniformasını giymek seni asker yapmaz öyle olsaydı doktora fotokopisi sana Dr. ünvanını kazandırırdı"
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+Benzetme yanlış, çünkü doktora derecesine veya doktora fotokopisine sahip olmak, insan olarak tabi tutulduğunuz ahlaki kurallardan hiçbirini değiştirmez.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+“Eh,” deyip, “ancak fark, askerin; toplu savunma yapması için, normal vatandaşların kendisine sağladığı ahlaki haklara sahip olmasıdır” diye yanıtlayabilirsiniz.
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Burada çok ilginç bir nokta ortaya çıkarıyor, bu görüşlerin gerçekliği değiştirip değiştiremeyeceği sorusudur.
 
-### Opinions And Reality
+### Görüşler ve Gerçek
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Açıkça anlıyoruz ki, görüşlerim sayesinde sizi yerçekimi kısıtlamalarından kurtaramam, bu benim görüşümün, "iki artı iki beşe eşittir"i doğru yapmasından öte bir şey değildir.
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+“Fikirler”, gerçekte açık bir delile sahip olmayan veya açık bir delil sağlanamayan ya da sadece kişisel tercihlerin ifadeleri olan inançlardır. Kişisel görüşüm çikolatalı dondurmayı vanilyalıya tercih etmemdir - İzlanda'nın tropikal bir cennet olduğuna veya Tanrı'nın varlığına ya da yağmurun yukarı doğru yağdığına dair bir “görüşüm” olabilir. Kişisel görüşlerin açıkça ahlak ile hiçbir ilgisi yoktur; gerçekliği doğru bir şekilde tanımladığını iddia eden görüşler ancak yanlış önyargılardır. Yağmurun yukarı doğru yağdığına olan inanç onun yönünü tersine çevirmez; İzlanda'da Hawaii gömleği giymek Reykjavik'i daha sıcak yapmaz.
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+Dolayısıyla cinayetin ahlaki açıdan iyi olduğuna inanmak, cinayeti ahlaki açıdan iyi yapmaz. İnsana ilişkin inancım onun ahlaki yapısını değiştirmediğinden, cinayetlerinin erdemli olduğuna olan inanmam onun eylemlerinin erdem şeklini değiştirmez. Gözlerimi kapatır ve sizin bir kertenkele olduğunuzu düşünürsem, aniden kendi vücut ısınızı düzenleme yeteneğinizi kaybetmezsiniz. Bir balık olduğunuzu hayal etmek, tüplü dalış kıyafeti ihtiyacınızı ortadan kaldırmaz.
 
-Opinions do not change reality.
+Görüşler gerçekliği değiştirmez.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Görüşler gerçekliği değiştirmediğinden, Evrensel bir ahlaki kuralla ilgili olarak size herhangi bir istisna veya tersine çevirme hakkı veremem. Ahlaki kurallar evrensel mantığa dayandığı için hemde insanlığın gerçekliği ve fiziksel yapısı gereği, size, bir söyleyişinizle iki artı ikinin beş olması veya su üstünde yürüme, uçma yeteneği veremediğim gibi “öldürme hakkı” da veremem.
 
-### Government As Voluntarism
+### Gönüllülük Hükümeti
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+Devlet kurumunda yer alan açık kuvvetler - belirli bir grup birey için ahlaki kuralları tersine çeviren kavramsal sarıcı - tartışma ortamında daima masanın üzerinde duran bir şeydir. Hükümet hakkında konuşurken, "Odadaki silahı" belirtmek için asla olumlu bir şey olarak görülmemelidir. Neredeyse tanım gereği, hükümetler, halk için ve halk tarafından seçilmiş sayılır, ve açık veya kapalı onayları ile çalışır.
 
-However, this is pure nonsense.
+Ancak, bu katıksız saçmalıktır.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Bir erkek, bir kadının boğazına bıçak tuturak onunla seks yapıyorsa, bu herhangi bir tanımla tecavüz demektir. Onunla seks yapmayı reddederse, yaralama ya da ölümle tehdit ediyorken, seksin rıza ile olduğunu söyleyemez. Seks gönüllü ise bıçak tamamen gereksizdir. Adam bir bıçağa ihtiyaç duyuyorsa, bu açıkça gönüllü bir seks *değildir*
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+Benzer şekilde, insanlar vergilemenin gönüllü olarak kabul ettikleri sosyal sözleşmenin bir parçası olduğunu söylüyorlar.
 
-This is both logically and empirically false.
+Bu mantıksal ve ampirik olarak iki türlü de yanlıştır.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Ampirik olarak yanlış olduğunu biliyoruz çünkü böyle bir *sosyal sözleşme yok*. Ne siz ne de ben gönüllü olarak gelir vergisine razı olduğumuz gösteren bir belgeyi *hiçbir zaman* imzalamak - biz sadece silahı işaret ederek bizden paramızı alan alan bir sistemde doğduk.
 
-### The Gun In The Room
+### Odadaki Silah
 
-Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+Çok kişi, bu noktada, vergilendirmenin silah zoruyla olmadığını, daha çok kişilerin gönüllü olarak ödediklerini öne sürecektir. Örneğin bir vergi toplaycısı veya bir polis memuru tarafından yüzüme doğrultulan bir silah olmadı, ancak on yıllarca vergilerimi ödemiştim.
 
-This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+Bu doğru olabilir, ancak tamamen alakasızdır. Bir kadına, benimle seks yapmazsa çocuklarını öldüreceğimi söylersem ve bana kendisini gelirse, ahlaki olmayan bir eylemin gerçekleştiğini açıkça anlıyoruz – tecavüzüm sırasında silah kullanmamama rağmen. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
 
 To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
 

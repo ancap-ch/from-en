@@ -1,46 +1,101 @@
 ## The Third Test: Theft
+## Theft Na The Third Test
+
 
 We will have to spend a little bit more time on theft, since it inevitably brings into the picture the question of property rights, which is highly contentious for some.
 
+We go nid to spend extra time for this robbery matter, cos e dey always bring tori wey concern ownership and some people dey see dis one as wahala  tori.
+
+
 There are many ways of approaching the question of property rights, from “homesteading” to legal definitions to practical considerations etc. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+
+E get many ways wey we fit look into dis ownership matter,  homesteading na one of them, and by some kind legit explanation and consideration. I no go address them here cos property rights suppose blend with the framework of UPB. if UPB now, go stand as one better way to know how we suppose behave.
 
 Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
 
+e don clear sey the behavior we suppose show to ownership matter, na sey  human being either get right to own property or dem no get.
+
+
 Now the first “property” that must be dealt with is the body. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+
+The first thing wey we go look into na our body. Ownership suppose start with the how people dey control their owl body. Because if them no fit control their self or them no think sey na important thing to control their self. Then the whole tori  about good behavior or even property no dey important.
 
 UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
 
+UPB na system wey dem dey use measure how people dey behave or those behavior wey everybody agree with. Man  must take responsibility for the things wey him do first, before person fit say him do good or bad. Cos as we don talk before, the power to choose how we go behave  dey very important.
+
 If a man has no control over his body, then clearly he has no responsibility for his actions – they are not in fact “his” actions, but rather the actions of his body. Now, no one would rationally argue that if a man strangles another man, it is the murderous fingers that should be put on trial and punished. Clearly, the body cannot entirely control itself, but rather must be to some degree under the direction of the conscious mind.
 
-What this means is that a man is responsible for the actions of his body, and therefore he is responsible for the *effects* of those actions. A man is responsible for where he puts his penis, which is how we know that we can judge him for raping someone. He “owns” the actions of his body as surely as he owns his body. To say that a man is responsible for his body but not the effects of his body is to argue that a man is responsible for aiming and throwing a knife, but not for where it lands.
+If man no fit control him self, then we no fit blame am for the things him do. Instead na him body we go blame. Now no body go argue sey if one man press another man neck and the other man die, na the finger wey the man use suppose go prison. As we see am body no fit move alone, na man dey control him body.
+
+What this means is that a man is responsible for the actions of his body, and therefore he is responsible for the effects of those actions. A man is responsible for where he puts his penis, which is how we know that we can judge him for raping someone. He “owns” the actions of his body as surely as he owns his body. To say that a man is responsible for his body but not the effects of his body is to argue that a man is responsible for aiming and throwing a knife, but not for where it lands.
+
+Wetin this one mean be sey na man dey responsible for the things wey him body do and the result of those things. Man dey responsible for where him prick enter, na so we fit talk sey him don rape person. Na him get him body and we fit blame am for the things wey him body dey do. To sey man get him body but we no fit blame man for wetin him body do, be like to say where knife enter, no be the fault of  who throw the knife.
 
 Also, arguing that a man is not responsible for the effects of his body is a self-detonating statement, similar to the ones we examined above. If I say to you: “Men are not responsible for the actions of their bodies,” it would be eminently fair for you to ask me who is working my vocal chords and mouth. If I say that I have no control over my speech – which is an effect of the body – then I have “sustained” my thesis at the cost of invalidating it completely.
 
+And so, we go look like we no get sense to dey argue say we no fit blame man for the result of wetin him body do. If I tell you say make we no blame man for wetin him body do. then e go make sense if you ask me say na wetin dey control my voice and my mouth. If I tell you say no be me dey control my mouth, wey be part of my body. then I go win the argument but I go don use my hand spoil wetin I dey argue.
+
+
 If I am not at all responsible for my speech, then there is no point arguing with me. A tape recorder is also not responsible for its speech, which is why we tend not to get into virulent disagreements with magnetic strips. In cheesy horror films, young girls seem to be particularly susceptible to demonic possession – the inevitable priest who shows up always offers to talk to the demon in charge of the girl, at which point the girl starts making a sound like Don Ho gargling with ball bearings.
+
+e go dey useless to argue with me, If I no dey responsible for the things way I talk. We no fit argue with tape record cos we no fit blame am for wetin e talk. For horror film na young girls way demon dey like to enter, and when them call pastor, the pastor dey always ask to talk with the demon way dey inside the girl na that time way the girl go start to make noise like person way dey wash mouth with bearings.
 
 This ridiculous portrait is accurate in one sense though – if some other being is in full control of the girl’s vocal chords, it is that being which needs to be addressed, not the girl, who has no control over her responses.
 
+As this thing funny like this, na only one place e fit make sense sha,  if another person dey control the girl mouth, na that person way the pastor suppose talk to instead of the girl, wey no know wetin she dey do.
+
 Thus if I say to you that I do not have control over my speech, you can ask me: who does? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
+
+
+So if I tell you say no be me dey control my mouth, then you go ask me who dey control am then. If tell you say nobody dey control am, then to argue with me go be like to argue with television, or the rock wey talk before, as e dey roll come where your mottor dey.
+
 
 Thus the very act of controlling my body to produce speech demands the acceptance of my ability to control my speech – an implicit affirmation of my ownership over my own body.
 
-Now, if demonic possession were a valid occurrence, and a girl possessed by a demon spat on a priest, we would not call the *girl* rude, but would rather pity her for being inhabited by such an impolite demon. Whoever has control over the girl’s body is culpable for the effects of her actions – this is why we would not call a man who stole while sleepwalking “evil,” since he did not have full control over his own body (although we may restrain him in other ways). This is also the basis for the legal defence of “not guilty by reason of insanity,” which is that we assume that a man who is insane does not have full control over his actions.
+So to control my mouth to talk I need to agree say na me dey control my mouth. This one show say na get ownership of my body.
+
+Now, if demonic possession were a valid occurrence, and a girl possessed by a demon spat on a priest, we would not call the girl rude, but would rather pity her for being inhabited by such an impolite demon. Whoever has control over the girl’s body is culpable for the effects of her actions – this is why we would not call a man who stole while sleepwalking “evil,” since he did not have full control over his own body (although we may restrain him in other ways). This is also the basis for the legal defence of “not guilty by reason of insanity,” which is that we assume that a man who is insane does not have full control over his actions.
+
+Now if demon dey enter person for real life, and girl we demon dey inside come pour the pastor spit. we no go talk say the girl no get respect but we go pity her cos the demon inside her dey wicked.
+Na who dey control the girl body wey we go blame for wetin the girl dey do.
+Na why we no go say man wey thief something as him they waka for him sleep na bad man. cos him no fit control him self when him dey sleep. This one na why dem set up Legal Defense of say,  person no fit dey guilty if the person don kolo. We assume say person wey kolo no go fit control himself.
 
 Thus to reject the ownership of the body is to reject all morality, which, as we have seen above, is utterly impossible. Logically, since morality is defined as an enforceable subset of UPB, to reject morality is to say that it is universally preferable to believe that there is no such thing as universal preferences.
 
+So to agree say no be person get him body, na to like to say the way we behave no matter, wey as we don see for up no dey possible at all.
+Since morality na one of the things wey make up UPB, to say morality no follow na like to say e no got something wet everybody agree with.
+
+
 Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
+
+Last last, to control your mouth to talk say no be person dey control him body, just be like say you dey argue with yourself.
 
 It is in this way that any rejection of self-ownership can be utterly discarded.
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+Na like this wey we fit cancel the tori wey talk say no body get ownership of their own body
 
-### Property And UPB
+Since we own our bodies, we also inevitably own the effects of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+
+Cos na we get our body, na we also get get the result of wetin our body do whether na good or bad. If the result of wetin our body do na our own, na him be say na we get wetin we make, whether a arrow, or na book or na murder.
+
+## Property And UPB
+
+## Property And UPB
 
 Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
 
+Even if we no agree with wetin dey up, we fit still use UPB to show sey everybody get  right to own property.
+
 As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
 
+As we talk for before, na either person get right to own property or him no get any right.  This one na wetin everybody believe, except for some areas wey we go talk about soon.
+
 If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
+
+If one man no get right to own property, then him no get right to use him own body. Him go get right to use him lungs, so him suppose breath. Even though this one no make sense, na the same thing wey we mean when we say man no fit own property.
+
+
 
 It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
 
