@@ -12,7 +12,7 @@ Gayundin, kung ang mga kinatawan ng gobyerno ay angkinin ang kontrata sa lipunan
 
 Kung pwenersa ko ang isang babae na pakasalan ang isang lalake na napili para sa kanya, pagkatapos ay malinaw na naniniwala ako na mayroon akong walang hanggan mas mahusay na paghatol tungkol sa pagiging angkop ng isang asawa para sa kanya kaysa sa ginagawa niya. Sa katunayan, hindi ako naniniwala na siya ay bukas para sa lahat ng mga dahilan, o ang anumang palatandaan tungkol sa kanyang sariling interes, dahil magdadala ako ng *wala* ang account ng kanyang mga kagustuhan, pero ako ipinipilit sa kanya na pakasalan ang isang tao sa aking pagpili.
 
-When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
+Kapag pinuwersa ko ang babaeng ito na magpakasal. Maaari ko lang bigyang-katwiran ang paggamit ng puwersa - kahit na sa agarang, praktikal na binabatayan - sa pagsasabi na siya ay nasa hindi wastong pag-iisip upang pumili na na may kinalaman sa pagpapakasal.
 
 Kung ang babae ay di-wastong pag-iisip upang gumawa ng kanyang sariling mga desisyon tungkol sa kasal, pagkatapos ay malinaw din siya *di-wastong pag-iisip upang italaga ang isang kinatawan upang gawin ang desisyong iyon para sa kanya *. Kung wala siyang ideya kung pano ang pagpili ng isang mabuti o angkop na asawa, kung paano niya masuri ang aking kalagayan upang makapagpasya kung sino ang magiging isang mabuti o angkop na asawa para sa kanya?
 
