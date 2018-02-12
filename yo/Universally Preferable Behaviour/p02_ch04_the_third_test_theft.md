@@ -44,9 +44,9 @@ If a man does not have the right to use property, then he does not have the righ
 
 It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
 
-The question then comes up whether or not human beings have the right to *exclusive* property use. For instance, property could be defined as a sort of time-share principle of ownership, insofar as everyone should have the right to own everything, on some schedule or another.
+Ìbéèrè náà wá jẹyọ bóyá èèyàn ni ẹtọ sí *ìyasọtọ* lilọ dukia. Bi àpẹẹrẹ, a le tumọ dukia sì irufẹ ìpinnu ìpín-àsìkò fún ẹtọ níní, ti gbogbo èèyàn ma ni ẹtọ lati ni gbogbo nkan, lori iṣeto kan tabi mìíràn.
 
-This means of course that a man with lung cancer has a right to at least one lung of a healthy person. Since all ownership starts with the body, if we do not have the right to exclusive ownership over our own body, then we must share our body with other people, or be immoral. The sick man has a right to one of our lungs, and if we withhold it from him, that is exactly the same as stealing it. Similarly, both you and I have the right to use Celine Dion’s singing voice, since it is wholly selfish of her to pretend that she has exclusive ownership of it.
+Èyí túmò sí wípé ọkùnrin tó ní àìsàn ẹdọfóró ni ẹtọ sì ẹdọfóró kan ti eeyan tó ní àláfíà. Since all ownership starts with the body, if we do not have the right to exclusive ownership over our own body, then we must share our body with other people, or be immoral. The sick man has a right to one of our lungs, and if we withhold it from him, that is exactly the same as stealing it. Similarly, both you and I have the right to use Celine Dion’s singing voice, since it is wholly selfish of her to pretend that she has exclusive ownership of it.
 
 If human beings do not possess exclusive ownership over their own bodies, then the crime of rape becomes meaningless, since a woman clearly does not exclusively own her vagina, and neither does a man own his own various orifices. If exclusive self-ownership is not an axiom, then even the crime of murder becomes meaningless.
 
