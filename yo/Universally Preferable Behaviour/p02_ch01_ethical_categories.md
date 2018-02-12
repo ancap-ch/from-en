@@ -20,9 +20,9 @@ For instance, the Non-Aggression Principle (NAP) states that the initiation of t
 
 Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
 
-Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
+A je wipe a má kọjú igbiyanju wa sí àwọn ìhùwàsí ti àgbáyé nifẹ sí ti a sì lè kan nípa ni ṣiṣe.
 
-### Virtue And Its Opposite
+### Ìwà rere àti Idakeji rẹ
 
 The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil.” If I propose the moral rule, “thou shalt not steal,” then stealing must be evil, and *not* stealing must be good. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
 
@@ -36,4 +36,4 @@ Conspicuously absent from the above list are traditional virtues such as courage
 
 It may seem that these virtues should fall into the realm of aesthetically positive behaviour, such as being on time, but I for one have far too much respect for the traditional virtues to place them in the same category as social niceties. The reason that they cannot be placed into the category of universally preferable is that, as we mentioned above, the framework of UPB only deals with *behaviours*, not with attitudes, thoughts, states of mind or emotions. The scientific method can process a logical proposition; it cannot process “anger” or “foolhardiness.” These states of mind are not unimportant, of course – in fact, they are essential – but they cannot be part of any objective system for evaluating ethical propositions, since they are essentially subjective – and therefore unprovable – states of being.
 
-Thus UPB can only deal with objectively verifiable actions such as murder, assault and so on.
+A je wipe UPB le ṣiṣẹ lórí ìhùwàsí ti a lè jẹri sí gẹgẹbi ipaniyan, ìjà àti bẹbẹ lọ.
