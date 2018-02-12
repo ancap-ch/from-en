@@ -97,45 +97,51 @@ If one man no get right to own property, then him no get right to use him own bo
 
 
 
-It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
+E nor go cos wahala to think say any body wey dey argue property rights with you dey breath, and so the person don already agree with you say him get right to use him own body.
 
-The question then comes up whether or not human beings have the right to *exclusive* property use. For instance, property could be defined as a sort of time-share principle of ownership, insofar as everyone should have the right to own everything, on some schedule or another.
+This one now come bring us question wey dey ask whether human being get right to use any property. for example we go explain property as something wey people dey share, to the point wey be sey everybody suppose get right to own everything, with one kind time table.
 
-This means of course that a man with lung cancer has a right to at least one lung of a healthy person. Since all ownership starts with the body, if we do not have the right to exclusive ownership over our own body, then we must share our body with other people, or be immoral. The sick man has a right to one of our lungs, and if we withhold it from him, that is exactly the same as stealing it. Similarly, both you and I have the right to use Celine Dion’s singing voice, since it is wholly selfish of her to pretend that she has exclusive ownership of it.
+That one mean say person wey get lung cancer get right to take at least one lung from person wey nor dey sick. As ownership start from our own body, If nor be only us get our body, na him be sey other people suppose follow us share am. The sick man get right to take one of our lung and e nor dey different from robbing the lung if we nor allow the man take am. Na so me and you get right to use Celine Dion voice sing, since nor be only she get the voice..
 
-If human beings do not possess exclusive ownership over their own bodies, then the crime of rape becomes meaningless, since a woman clearly does not exclusively own her vagina, and neither does a man own his own various orifices. If exclusive self-ownership is not an axiom, then even the crime of murder becomes meaningless.
+If nor be only one person get him body, na him be say rape nor get meaning, since nor be only the woman get her toto,
+and na so the man suppose share him body too. if people suppose share every thing, na him be say murder nor get meaning too.
 
-It is no crime to commit suicide, any more than it is to set fire to your own house, since the destruction of one’s own property is a valid exercise of ownership. However, if exclusive self-ownership is invalid, then there can be no distinction between murder and suicide. If my liver is failing, and I have a right to take yours, then I can “repossess” it in perfect accordance with morality and honourable behaviour. If this procedure kills you, so what? Without exclusive self-ownership, there is no “you” to begin with…
+Nor be crime to kill yourself as e nor be crime to burn your own house, since e nor be crime to spoil your own property cos na only you get am. But if nor be only one person get him body then murder nor dey different from suicide. If my liver dey fail and I fit take your own, then I go just take am because nor be bad thing. If you die as I dey take your liver, e nor concern me. If nor be only you get your body, then you nor dey even exist.
 
-Thus we can reasonably say that exclusive self-ownership is a basic reality – that all human beings at all times and in all places have exclusive ownership over their own bodies, and thus have exclusive ownership over the effects of their own bodies, both in terms of moral behaviour and property creation or acquisition.
+so we fit talk say na correct tori to say na one person get him own body. Say every human being for every where get ownership of their own body, and so as e be  them nor fit share their own body, whether e concern morality or to make or to own property.
 
-### The Grey Areas
+### The Areas Wey Grey
 
-Naturally, any statement such as the above brings the inevitable howls of “complexity,” which I fully agree with.
+Naturally, tori wey be like the one wey dey up dey always talk about complexity and I agree with am.
 
-Let us say that I mean to give you five dollars as a gift, but by mistake I hand you a ten dollar bill, saying, “This is for you.” Few people would consider it theft if I said, the moment after I handed it to you: “Sorry, I meant to give you five dollars, not ten,” and took the larger note back, even though I am taking back property that I have voluntarily relinquished.
+Imagine say I wan give you five dollars as gift, but I come give you ten dollars by mistake and I tell you say that one na for you. Some people go say na stealing if I come tell you say na five dollars I mean to give you instead of ten dollars, the moment after you don pocket the money. Even if na my own money wey I give you, out of free will.
 
-On the other extreme, if you are one of my sons, and I pay for your university education, and explicitly tell you that you never need to pay me back, my generosity will doubtless affect your spending habits. It would scarcely seem reasonable for me to clap my forehead after your graduation ceremony and cry, “Oh, I thought you were one of my *other* sons!” and demand repayment.
+For the other end, if you be one of my pikin, and when I pay your school fee I tell you say you nor need to pay me back. this thing wey I do for you go affect how you dey spend money. And e nor go make sense for me to slap my head after you graduate come cry say, I think say you be my other pikin and I want my money back..
 
-Similarly, it is generally accepted that children cannot enter into legal contracts, but that adults can. In many societies, the differentiating age is eighteen years. This means, of course, that at the stroke of midnight between a man’s seventeenth year and eighteenth birthday, his capacity to enter into legal contracts arrives fully formed. Has he gone through some massive biological transformation in that split second? Certainly not, although at eighteen he is biologically very different than he was at the age of ten, both in terms of physical and mental development.
+Na so e dey everywhere say children nor fit enter legal contract, but adults go fit. For many society the age of difference na eighteen years. This one mean say na by mid night when man wan cross from seventeen to eighteen years wey him go fully mature to enter legal contract. So this on mean say him body don experience plenty changes for that split second ? No way.  
+But for this eighteen years him don change well well from when him dey ten years, for body and for thinking.
 
-For the sake of efficiency, if not perfect morality, arbitrary transitions are often placed between one state and another. Childhood is definitely one state; adulthood is quite another. The transition between childhood and adulthood is blended; it is not black and white, but rather like the day descending into dusk, and then night. Noon is definitely not night, and midnight is definitely not daytime, but there are times in between when it is harder to tell, although the direction of the transition is always clear.
+to make things easy, if e nor be perfect morality, arbitrary transition dey always dey in the middle of one state and another. One stage na childhood and the other stage na adulthood. The change from pikin to adult dey blend well,  e nor be black and white, but instead e be like as day time dey turn to evening and then night. Day time nor be night, and mid night nor be day time but e get time for middle when e dey hard for person to tell
+which one be which one, even though the direction of the change go always dey clear.
 
-In the same way, a man who is greatly mentally deficient can be considered far less responsible for his own actions. A man with an IQ of sixty-five is mentally scarcely more than a little child – a man with an IQ of one hundred is an average adult. If we say that a man with an IQ of eighty becomes responsible, then we are by definition saying that a man with an IQ of seventy-nine is not responsible – is that a clear, fair, and utterly objective demarcation? Certainly not, but in order for most concepts to be practical, the criterion of “good enough” and a reasonable cost/benefit analysis must be put into place. As mentioned above, no water is perfectly pure, but waiting for perfect purity would simply cause a man to die of thirst.
+na the same way we nor fit blame man wey don psycho for him actions. Man wey him IQ be sixty five go get small sense pass small pikin. Man wey get IQ of one hundred na average adult. If we talk sey man wey get IQ of eighty dey responsible, then indirectly wey dey talk say man wey get IQ of seventy five nor dey responsible
+That one na clear demarcation? No way!
+But so that most concept go legit. We suppose consider the standard of "wetin good" and reasonable study on top cost/benefit. As we talk before, nor water pure wella, but man go kpeme cos of thirst if him wait for water to pure wella.
 
-Given that the question of moral responsibility and intellectual capacity only applies to a very small percentage of people right on the border, and that creating objective and perfect tests is very likely to prove impossible, there will inevitably be some “rules of thumb” that win the day. We can only assume that, since biologists live with this kind of occasional subjectivism every day, moral philosophers can somehow survive as well.
+As we don see say  the tori about moral responsibility and thinking capacity only apply to few people wey dey for the line, and we see say to create objective and test wey perfect no go dey possible, practical go always win theory. the only thing we fit do, na to assume say since biologist dem dey live with this kind subjectivism every blessed day, e mean say moral philosophers fit survive am somehow.
 
-### Property As Universality
+### PROPERTY AS UNIVERSAL SOMETHING
 
-UPB thus gives us clear options with regards to property rights. It cannot be the case that some men have property rights, while other men do not. It cannot be the case that men in Washington have property rights, while women in Baltimore do not. It cannot be the case that men have property rights today, but not tomorrow, and so on.
+UPB dey give us options wey clear concerning property rights. e nor fit happen say some men get property right, and other men nor get. e nor fit happen say men for Washington get property rights, and women them for Baltimore nor get. e nor fit happen say men get property rights today, but them nor got get am tomorrow and so on.
 
-It also cannot be the case that men have only fifty percent property rights.
+e nor fit happen say men only get fifty percent rights.
 
-If I argue: “Men only have fifty percent property rights,” then I create yet another insurmountable contradiction. You may well ask me which half of my sentence was *not* generated by me. If I only have fifty percent property rights, then clearly I only have fifty percent control over my own body – if I put forward the above sentence, then clearly I am only in control of fifty percent of that sentence, since I only have fifty percent control over my voice. Who, then, is responsible for the other fifty percent of my sentence?
+If I start to argue say "men get fifty percent rights" then I go dey contradict my self. You fit ask whether na me generate everything wey I just tok. If I get only fifty percent right then e clear say na only fifty percent control wey I get over my body – If I you hear those words  wey dey up from me, then e clear sey na only fifty percent control I get over the words.
+If na only fifty percent control wey I get over my voice. So na who get the other fifty percent?
 
-This may sound esoteric, but it is a deadly serious question, for reasons that we will get to shortly.
+This one fit  hard small to understand, but na very serious question, sake of reasons wey we go get soon..
 
-Let us say that we can somehow magically bypass the “fifty percent ownership of the body” problem, and say that human beings only have fifty percent property rights when it comes to *external* objects.
+Like say we go fit bypass the "fifty percent ownership of body problem" some how, and human being them get only fifty percent property rights wen e concern external objects.
 
 How does that work in practice?
 
