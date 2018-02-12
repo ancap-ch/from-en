@@ -50,7 +50,7 @@ It is fairly safe to assume that anyone you are debating property rights with is
 
 Ti àwọn èèyàn kò bá ní iyasọtọ ẹtọ níní lori ara wọn, a je wipe ẹ̀ṣẹ̀ ifipabanilopo yíò di àìní túmò, nígbàtí obìrin kan ko ni iyasọtọ níní obo rẹ, ati pe ọkunrin kan ko ni nkan ara rẹ náà. Ti iyasọtọ ẹtọ níní ara ẹni ko ba je sí, a je wipe ẹ̀ṣẹ̀ ipaniyan ko ni ìtumọ.
 
-It is no crime to commit suicide, any more than it is to set fire to your own house, since the destruction of one’s own property is a valid exercise of ownership. However, if exclusive self-ownership is invalid, then there can be no distinction between murder and suicide. If my liver is failing, and I have a right to take yours, then I can “repossess” it in perfect accordance with morality and honourable behaviour. If this procedure kills you, so what? Without exclusive self-ownership, there is no “you” to begin with…
+Ki n ṣe ẹ̀ṣẹ̀ lati gba emi ara ẹni, bi diẹ ju ki eeyan dáná sún ilé ẹni, nígbà tó ṣe pé kiko ìparun ba nkan ini ẹni jẹ àmúlò dáadáa fun ẹtọ nini. Sibẹsibẹ, ti iyasọtọ ẹtọ níní ara ẹni ko bá sì, a jẹ́ wípé kò sí ìyàtọ̀ láàrin ipaniyan ati gbígbà ẹ̀mí ẹni. Ti ẹdọfóró mí bá dá iṣẹ lẹ, ti mo ṣì ni ẹtọ lati gba tiẹ, a je wípé mo lè " tún ni" èmí ni ìbámu pẹlú ìwà rere àti ìhùwàsí apọ́nlé. Ti ìgbésẹ yìí ba pa ọ, ki wa ni? Láìsí iyasọtọ ẹtọ níní ara ẹni, ko sí "iwọ" láti bẹrẹ pẹlú…
 
 Thus we can reasonably say that exclusive self-ownership is a basic reality – that all human beings at all times and in all places have exclusive ownership over their own bodies, and thus have exclusive ownership over the effects of their own bodies, both in terms of moral behaviour and property creation or acquisition.
 
