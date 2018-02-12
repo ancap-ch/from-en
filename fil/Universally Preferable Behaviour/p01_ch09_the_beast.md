@@ -12,7 +12,7 @@ Ang naghaharing uri ay hindi maiiwasang gumamit ng mga teoryang etikal upang map
 
 ### Pagpapalaganap
 
-The more false the moral theory is, the earlier that it must be inflicted upon children. We do not see the children of scientifically minded people being sent to “logic school” from the tender age of three or four onwards. We do not see the children of free market advocates being sent to “Capitalism Camp” when they are five years old. We do not see the children of philosophers being sent to a Rational Empiricism Theme Park in order to be indoctrinated into the value of trusting their own senses and using their own minds.
+Ang mas maling moralidad na teorya ay, ang mas maagang pagpataw nito sa mga bata. We do not see the children of scientifically minded people being sent to “logic school” from the tender age of three or four onwards. We do not see the children of free market advocates being sent to “Capitalism Camp” when they are five years old. We do not see the children of philosophers being sent to a Rational Empiricism Theme Park in order to be indoctrinated into the value of trusting their own senses and using their own minds.
 
 No, wherever ethical theories are corrupt, self-contradictory and destructive, they must be inflicted upon the helpless minds of dependent children. The Jesuits are credited with the proverb: “Give me a child until he is nine and he will be mine for life,” but that is only because the Jesuits were teaching superstitious and destructive lies. You could never imagine a modern scientist hungering to imprint his falsehoods on a newborn consciousness. Picture somebody like Richard Dawkins saying the above, just to see how ridiculous it would be.
 
