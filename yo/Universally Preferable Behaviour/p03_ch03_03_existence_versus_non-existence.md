@@ -36,7 +36,6 @@ Ní òtítọ́, máa dúró títí di òpin àkókò fún "ijọba" láti wá k
 
 Ní òtítọ́, nígbà tí wọn sọ fún mi pé mo gbọdọ san owó orí mi fún "ìjọba", nkan ti a le yìí túmọ̀ sí nipe mo gbọ́dọ̀ kọ́ ayẹwo kan láti gbé owó mi losi inú àpò ifowo kan pàtó, eyii tí àwọn ènìyàn kan paato lé wo. Àwọn ènìyàn yìí ni ẹtọ láti gba owó yìí, wọn si ni anfaani lati náà bose wun wọn - àwọn ènìyàn yìí pàtó ni ase àti ìdarí lórí owó mi.
 
-
 Kosi igbakigba tí òun tán pé ní "ijọba" gbé ọwọ sókè, ṣì ìròyìn ifowopamo, tàbí náà owó. Ro pe agbekale kan wà tí a ń pè ní "ijọba", tú rò pé wọn ní agbára  láti yà àbí na owo rẹ, eléyìí túmọ̀ sí wípé kí ó dúró kí "Ọlọ́run" wá mú ẹ lọ sí ilé ìjọ sì.
 
 Bayi, ọ̀rọ̀ òtítọ́ ni wípé arákùnrin kan fi ìwé kan ranse simi pé mo jẹ òun lowo. Mí ó ní àdéhùn kankan pẹlu arákùnrin yìí, òun na kò dẹ ni pá òun ìní mi, botilejepe àwọn arákùnrin mìíràn kọ̀ àdéhùn rogbodiyan tí ó wí pé ó ní afihun sì.
