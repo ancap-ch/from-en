@@ -122,7 +122,7 @@ To be valid, any moral theory must also pass the criterion of *logical consisten
 | **Hypothesis**             | Atoms share common structures and properties, and so behave in predictable and consistent manners | Organic matter has rules – or requirements – that are common across classifications          | Universally preferable behaviour shares common rules and requirements                                                         |
 | **Proof**                  | Logical consistency, empirical verification                                                       | Logical consistency, empirical verification                                                  | Logical consistency, empirical verification                                                                                   |
 | **Negative Proof Example** | If mass does not attract mass, theories relying on gravity are incorrect                          | If communism succeeds relative to its stated goals, theories based on the universal validity of property rights are incorrect |
-  
+
 جدول: نظریه های فیزیک و زیست شناسی ویو پی بی
 
 در نتیجه با اطمینان مینوان گفت که (الف) نظریات اخلاقی معتبر هستند (ب)نظریات اخلاقی باید موضوع با دقت زیادی برای منطق و شهود باشند.درست همانند نظریات فیزیک و زیست. هر نظریه ی اخلاقی بر اساس اصول غیرجامعیت جهانی یا خود متناقضی، بصورت قابل بحثی نادرست هستند.
