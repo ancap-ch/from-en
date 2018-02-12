@@ -60,7 +60,7 @@ Como podemos ver, a introdução de "o que é bom para o homem em abstracto - ou
 
 ### O Propósito E Os Perigos
 
-With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+Com a vossa paciente indulgência, uma pergunta final precisa ser feita antes de entrar por completo numa definição e testar a forma como diversas proposições morais se encaixam na estrutura CUP. Dado que temos o trabalho mais difícil frente a nós, devemos tomar uma pausa por um momento e recordar o motivo pelo qual nos estamos a colocar perante todo esse rigor e dificuldade.
 
 In other words, before we plunge on, it is well worth asking the question: “Why bother?”
 
