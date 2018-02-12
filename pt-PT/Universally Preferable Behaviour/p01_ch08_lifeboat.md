@@ -52,13 +52,13 @@ Esses argumentos têm sido usados como base para uma série de teorias e abordag
 
 Este tipo de "hedonismo biológico" pode ser uma descrição do "impulso de sobrevivência", mas só é correto na medida em que descreve o que as pessoas realmente *fazem* e não o que *devem* fazer.
 
-Ademais também introduz um subjectivismo, totalmente não científico, à questão da moralidade. Por exemplo, se é moralmente permitido roubar comida quando se está a morrer de fome, que quantidade de alimento se pode roubar? Quão faminto se tem que estar? É permitido roubar alimentos que não são nutritivos? Quão nutritivo tem de ser o alimento para justificar o roubo? Quanto tempo deve mediar entre o roubo de uma refeição e outro roubo da seguinte refeição? Are you allowed to steal meals rather than look for work or appeal to charity?
+Ademais também introduz um subjectivismo, totalmente não científico, à questão da moralidade. Por exemplo, se é moralmente permitido roubar comida quando se está a morrer de fome, que quantidade de alimento se pode roubar? Quão faminto se tem que estar? É permitido roubar alimentos que não são nutritivos? Quão nutritivo tem de ser o alimento para justificar o roubo? Quanto tempo deve mediar entre o roubo de uma refeição e outro roubo da seguinte refeição? Está autorizado a roubar refeições em vez de procurar trabalho ou apelar a instituições de caridade?
 
-Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
+Além disso, se eu puder ganhar mais dinheiro, como assassino, do que como comerciante, não devo escolher a violência como uma carreira? Isso certamente melhoraria a *minha* sobrevivência... e assim por diante e assim por diante.
 
-As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
+Como podemos ver, a introdução de "o que é bom para o homem em abstracto - ou o que a maioria das pessoas faz - é o que é universalmente preferível" destrói o verdadeiro conceito de moralidade como uma teoria logicamente consistente e substitui simples movimentos biológicos como justificações para o comportamento. Isto é uma explicação do comportamento, não uma proposta de teoria moral.
 
-### The Purpose And The Dangers
+### O Propósito E Os Perigos
 
 With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
 
