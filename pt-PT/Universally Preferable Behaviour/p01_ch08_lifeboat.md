@@ -32,7 +32,7 @@ Assim, devemos ir com a opção dois, que é que existem certas áreas cinzentas
 
 Um cientista capturado por canibais pode fingir ser um feiticeiro para escapar, o que não significa que devemos descartar o método científico como inteiramente inválido.
 
-De igual modo, podem existir situações extremas em que podemos optar por cometer acções imorais, mas essas situações não invalidam a ciência da moral, assim como as mutações ocasionais não invalidam a ciência da biologia. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
+De igual modo, podem existir situações extremas em que podemos optar por cometer acções imorais, mas essas situações não invalidam a ciência da moral, assim como as mutações ocasionais não invalidam a ciência da biologia. De fato, a ciência da biologia foi grandemente avançada através da aceitação e exame das mutações - e de forma semelhante, a ciência da ética só é fortalecida através de um exame de "cenários salva-vidas", sempre que tal exame não seja perseguido obsessivamente.
 
 ### Universalidade e Excepções
 
