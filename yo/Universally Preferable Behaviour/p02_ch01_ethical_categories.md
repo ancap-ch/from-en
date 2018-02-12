@@ -1,6 +1,6 @@
-## Ethical Categories
+## Awọn ìsọ̀rí ẹkọ ìwà
 
-With the UPB framework in place, we can now turn to an examination of how UPB validates or invalidates our most common moral propositions. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
+Pẹlú ìlànà UPB láàyè rẹ, a lè yípadà sí ìdánwò nípa bí UPB ṣe má n fọwọsi tàbí kọ́ àwọn àlàyé ìwà tíó wọpọ laarin wa. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
 
 ### The Seven Categories
 
