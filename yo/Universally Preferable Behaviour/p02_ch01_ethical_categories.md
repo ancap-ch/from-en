@@ -2,9 +2,9 @@
 
 Pẹlú ìlànà UPB láàyè rẹ, a lè yípadà sí ìdánwò nípa bí UPB ṣe má n fọwọsi tàbí kọ́ àwọn àlàyé ìwà tíó wọpọ laarin wa. Ti "àlàyé físíksì" wa ba le sàlàyé bí ọkunrin kan yíò ṣe mu bọọlu, a ti yege akọkọ- ti ọ pataki jùlọ - ninu idena, a sì ti ni ìgbésẹ àkọkọ tíó sí ní agbára láti bá ẹranko náà jà.
 
-### Awọn Ìsòrí Méje
+### Awọn Ìsọ̀rí Méje
 
-Gẹgẹbi a ti sọ lókè, àlàyé lórí ìhùwàsí ti àgbáyé nifẹ sí pin sí ìsòrí apapọ mẹta - dáadáa, àìdá ati èyí tó wà láàrin dáadáa ati àìdá. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
+Gẹgẹbi a ti sọ lókè, àlàyé lórí ìhùwàsí ti àgbáyé nifẹ sí pin sí ìsòrí apapọ mẹta - dáadáa, àìdá ati èyí tó wà láàrin dáadáa ati àìdá. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. Àwọn ìsọ̀rí méje náà jẹ́:
 
 1. Ó jẹ́ nkan tó dá (o jẹ ààyò àgbáyé àti pé a lè fi tipatipa mu àmúlò rẹ, gẹgẹbi "má ṣe pa ènìyàn").
 2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
