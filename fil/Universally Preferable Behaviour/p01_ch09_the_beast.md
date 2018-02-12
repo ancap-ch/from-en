@@ -12,7 +12,7 @@ Ang naghaharing uri ay hindi maiiwasang gumamit ng mga teoryang etikal upang map
 
 ### Pagpapalaganap
 
-Ang mas maling moralidad na teorya ay, ang mas maagang pagpataw nito sa mga bata. Hindi natin makikita ang mga anak ng mga taong may kaisipang pang-agham na ipinadadala sa "lohikang paraalan" mula sa kanilang murang edad na tatlo o apat pataas. We do not see the children of free market advocates being sent to “Capitalism Camp” when they are five years old. We do not see the children of philosophers being sent to a Rational Empiricism Theme Park in order to be indoctrinated into the value of trusting their own senses and using their own minds.
+Ang mas maling moralidad na teorya ay, ang mas maagang pagpataw nito sa mga bata. Hindi natin makikita ang mga anak ng mga taong may kaisipang pang-agham na ipinadadala sa "lohikang paraalan" mula sa kanilang murang edad na tatlo o apat pataas. Hindi natin makikita ang mga anak ng tagapagtaguyod ng malayang merkado na ipadala sa "capitalism Camp" kapag sila ay limang taon gulang. We do not see the children of philosophers being sent to a Rational Empiricism Theme Park in order to be indoctrinated into the value of trusting their own senses and using their own minds.
 
 No, wherever ethical theories are corrupt, self-contradictory and destructive, they must be inflicted upon the helpless minds of dependent children. The Jesuits are credited with the proverb: “Give me a child until he is nine and he will be mine for life,” but that is only because the Jesuits were teaching superstitious and destructive lies. You could never imagine a modern scientist hungering to imprint his falsehoods on a newborn consciousness. Picture somebody like Richard Dawkins saying the above, just to see how ridiculous it would be.
 
