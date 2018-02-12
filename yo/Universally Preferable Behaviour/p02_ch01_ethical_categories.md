@@ -16,7 +16,7 @@ Gẹgẹbi a ti sọ lókè, àlàyé lórí ìhùwàsí ti àgbáyé nifẹ sí
 
 Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
 
-For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
+For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. Ti nkan ti a kọ̀ ba jẹ Idakeji nkan ti a fẹ́, ko sí ìwúlò àfikún ìsọ̀rí kánkan.
 
 Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
 
@@ -24,7 +24,7 @@ A je wipe a má kọjú igbiyanju wa sí àwọn ìhùwàsí ti àgbáyé nifẹ
 
 ### Ìwà rere àti Idakeji rẹ
 
-Idakeji "ìwà rere" gbudọ jẹ "ìwà àìdá" - Idakeji "dáadáa" gbudọ jẹ "aburú." Ti mo ba sàlàyé òfin ìwà, "iwọ kò gbudọ jalè," a je wipe olè jija je aburú, ati *kíkọ fun* olè jija yíò jé dáadáa. Èyí kò túmọ sí wípé "yiyara fún olè jija" ni àlàyé ilọsiwaju ìwà dáadáa, dájúdájú, ọkunrin kan le jẹ apànìyàn, sugbon ko ma je olè. A lè rò gẹgẹbi "pàtàkì ṣugbọn ti ko to" ni àmúlò fún ìwà rere.
+Idakeji "ìwà rere" gbudọ jẹ "ìwà àìdá" - Idakeji "dáadáa" gbudọ jẹ "aburú." Ti mo ba sàlàyé òfin ìwà, "iwọ kò gbudọ jalè," a je wipe olè jija je aburú, ati *kíkọ fun* olè jija yíò jé dáadáa. Èyí kò túmọ sí wípé "yiyara fún olè jija" ni àlàyé ilọsiwaju ìwà dáadáa, dájúdájú, ọkunrin kan le jẹ apànìyàn, sugbon kó má jé olè. A lè rò gẹgẹbi "pàtàkì ṣugbọn ti ko to" ni àmúlò fún ìwà rere.
 
 Ọkọọkan ninu ìhùwàsí dáadáa tí a mú láàyò gbọdọ ni ìhùwàsí idakeji - nítorípé ti ko ba ni, a je wípé kò sí ìkápá lati yàn ààyò, kò sí ànfààní lati yàgò, nitorinà kò si ìkápá fún ìwà dáadáa ati ìwà àìdá. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
 
