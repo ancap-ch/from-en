@@ -66,8 +66,8 @@ Por outras palavras, antes de mergulhar, vale a pena fazer a pergunta: "Por que 
 
 Por que se preocupar com a definição de teorias éticas? Com toda a certeza, as pessoas boas não as necessitam e as más não as consultam. As pessoas farão o que preferem e simplesmente inventarão as justificações necessárias depois do facto - para que *incomodar* as pessoas com palestras sobre moralidade?
 
-Claro, sempre existirá o perigo de que uma pessoa imoral o ataque para os seus próprios fins hedonistas. Também se pode dar o caso de que apesar de levar uma vida limpa e saudável, pode ser atingido pelo cancro antes do seu tempo - o primeiro não torna a ciência da moral irrelevante, mais do que o último torna irrelevante as ciências da medicina, nutrição e exercício. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
+Claro, sempre existirá o perigo de que uma pessoa imoral o ataque para os seus próprios fins hedonistas. Também se pode dar o caso de que apesar de levar uma vida limpa e saudável, possa ser atingido pelo cancro antes do seu tempo - o primeiro não torna a ciência da moral irrelevante, mais do que o último torna irrelevante as ciências da medicina, nutrição e exercício. Um efeito demonstrável de uma ciência racional da moralidade deve ser a redução das suas possibilidades de *sofrer* acções imorais tais como roubo, assassinato e violação - e é por este critério que também devemos julgar as regras morais propostas na Parte III deste livro.
 
-[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
+[^10]: Claro, se eu fosse um ser humano tão incompetente ou confuso que acabei na inanição, o encarceramento poderia ser uma melhoria na minha situação
 
 [^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
