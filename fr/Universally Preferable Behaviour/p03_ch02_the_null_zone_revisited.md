@@ -1,50 +1,50 @@
-## The Null Zone Revisited
+## Le Nul De La Zone Revisité
 
-At the beginning of this book, I put forward a way of looking at how we process truth, analogising it to physics. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
+Au début de ce livre, j'ai mis en avant une façon de regarder la façon dont nous traitons la vérité, analogising à la physique. De la “petite vérités” d'attraper une balle de baseball, nous arrivons au “grandes vérités” de la physique – et les grandes vérités ne peut contredire le peu de vérités.
 
-The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
+La même chose est vraie de la moralité. Depuis le peu de vérités de “je ne dois pas assassiner”, nous pouvons obtenir les grandes vérités comme “l'initiation de l'usage de la force est moralement mauvais.”
 
-In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
+Dans le domaine de la physique, d'une centrale d'obstacle à la logique de l'extrapolation des vérités à partir de l'expérience personnelle de théorie universelle a été la religion.
 
-For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
+Par exemple, aucun homme n'a jamais vécu directement l'un cercle parfait – une telle entité existe dans l'abstrait, et en mathématiques, mais elle ne peut être visualisé dans l'esprit, ni sensuellement expérimentés dans le monde réel. Nulle part dans la nature, à notre connaissance, ne un cercle parfait, que ce soit dans le “petit vérités” de l'expérience personnelle, ou les “grandes vérités” de la physique.
 
-However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
+Cependant, pour des milliers d'années, la science de l'astronomie a été paralysé par la quête de ce “cercle parfait.” Les orbites des planètes devaient être des cercles parfaits, parce que Dieu ne permettrait jamais à rien “imparfaite”, comme une ellipse dans Sa création.
 
-The problem with this approach – well, one problem anyway – was the retrograde motion of Mars. From our planet, Mars at times appears to be moving “backwards,” as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
+Le problème avec cette approche – eh bien, un problème de toute façon – a été le mouvement rétrograde de Mars. De notre planète, Mars semble parfois être en mouvement “vers l'arrière”, comme la Terre “rattrape” la autour du soleil. La fausse croyance que la Terre était le centre du système solaire, combinée avec la manie de “parfait”, cercles, produit le système Ptolémaïque de l'astronomie, qui a multiplié l'ensemble de ces cercles parfaits au point de l'absurdité, afin de prendre en compte des orbites elliptiques et le mouvement rétrograde de Mars.
 
-Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
+Pourquoi était-ce une illusion de perfection considéré comme une exigence pour que les corps célestes? Certainement la preuve de la lune, avec ses dénoyautées et cratères de la surface, semble à l'appui de l'imperfection des cieux, mais les fixations contourné le direct sensuelle preuve à la fois immédiate et interplanétaire imperfections. Galilée de la lune, les montagnes, les taches et les satellites de Jupiter, ont tous été attaqués comme hérétiques.
 
-We can also turn this analysis to the question of the existence of God as well.
+Nous pouvons aussi transformer cette analyse à la question de l'existence de Dieu.
 
-We have no direct, empirical or rational evidence for the existence of God. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+Nous n'avons pas de direct, empirique ou rationnelle des éléments de preuve de l'existence de Dieu. Le plus abstrait des mesures scientifiques ne fournissent aucune preuve de l'existence de Dieu, soit encore entre la vérité de notre propre expérience, qui est que Dieu n'existe pas, et le plus abstrait des mesures scientifiques et des théories – qui confirment aussi que Dieu n'existe pas – une sorte de “nul”, la zone est voulu dans l'existence, qui, complètement à l'inverse de toute rationnelle des normes de la vérité*.
 
-### Bigotry
+### Le fanatisme
 
-Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+Les croyances peuvent être vraies, fausses, ou *anti-vérité*. C'est une véritable conviction que le Désert du Sahara est en Afrique du Nord; c'est une fausse croyance que le Sahara est en Ecosse, c'est un *anti-vrai* la croyance que le Sahara est tout ce que je veux, et existe partout où je veux qu'elle existe. La première croyance est vraie, la seconde est faux – la troisième est un fanatique de l'assertion qui fait exploser le concept même de la preuve.
 
-We can say:
+Nous pouvons dire:
 
-1. Proposition X is true because it is rational.
-2. Proposition Y is false because it is irrational.
-3. Proposition Z is true because I *want* it to be true.
+1. Proposition X est vraie parce qu'elle est rationnelle.
+2. Proposition Y est faux parce que c'est irrationnel.
+3. Proposition de Z est vrai, parce que je *veux* c'est vrai.
 
-The third assertion is a complete self-contradiction. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
+La troisième affirmation est une complète auto-contradiction. La “vérité” est indépendant de désir, car le désir est par définition subjective de préférence, et la vérité est par définition la conformité des idées à l'objectif des normes de la logique et de la réalité empirique. Dire que quelque chose est vrai parce que vous *voulez* pour être vrai, c'est d'assimiler la subjectivité à l'objectivité, qui est une auto-déclarations contradictoires.
 
-Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
+Fanatique des assertions ou “foi” – par définition, ne peut pas être testé, car ils ne sont pas de la croyance dans l' *l'absence* de la preuve, mais la croyance en *défi* de la raison et/ou des éléments de preuve.
 
-We can believe unproven things that turn out to be true – someone doubtless thought that the world was round before it was proven – but the “null zone” is the realm wherein we cling to a belief in things that *could not possibly turn out to be true*.
+Nous pouvons croire que non prouvée des choses qui s'avèrent pour être vrai – quelqu'un sans doute pensé que le monde était rond avant il a été prouvé – mais le “nul”, la zone est la sphère dans laquelle nous nous accrochons à une croyance en des choses qui *ne pouvait pas tourner pour être vrai*.
 
-If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. If I say that I believe that a square circle exists, then I am making an explicitly self-contradictory statement, which disproves itself. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+Si je dis que deux plus deux égalent cinq, je suis de commettre une erreur qui peut être corrigé avec référence à la logique. Si je dis que je crois qu'un carré cercle existe, alors je fais un explicitement l'auto-déclarations contradictoires, qui réfute lui-même. Si je vais plus loin, cependant, et avec insistance à prétendre que “foo plus turi est égal à desty” – et de refuser de définir n'importe quel de mes termes – je fais une déclaration à laquelle la logique et les preuves *ne peut pas être appliqué*.
 
-### Next Stop: The "Alternative Universe"
+### Prochaine Étape: Les "Univers Alternatif"
 
-In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
+En général, la façon dont les gens d'essayer de “sauver” leur anti-empiriques et anti-logique des croyances est de créer un “autre royaume” ou “autre univers” dans lequel leur auto-déclarations contradictoires peut en quelque sorte être vrai.
 
-If I say: “A square circle exists,” I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
+Si je dis: “Un carré cercle existe,” je suis en affirmant que ce qui est clairement impossible au sein de cet univers. Ainsi, si je souhaite conserver ma conviction, je dois inventer une autre de l'univers, ou le domaine de “l'extérieur” de cet univers, où un carré cercle peut exister.
 
-If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
+Si je fais un domaine où l'auto-contradiction est égale à la vérité, je ne puis prétendre que ceux qui disent qu'un carré cercle ne *pas* existent sont eux-mêmes sectaires et préjudiciable, parce qu'ils sont en train d'éliminer des possibilités qui *pourrait* être vrai.[^1]
 
-With regards to this “null zone,” only two possibilities really exist. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
+En ce qui concerne ce “null zone”, deux possibilités existent vraiment. Soit c' *null zone* existe de manière totalement indépendante de notre univers, et ne sera jamais mesurables, détectable et identifiable en aucune manière, la forme ou la forme – ou, à un certain moment, nous serons en mesure de détecter et d'interagir avec cette terre magique où l'auto-contradiction est égale à la vérité.
 
 If, at some point, it turns out that we *are* able to interact with this *null zone*, then we shall have direct sensual or rational evidence of its existence. In other words, it must “protrude” into our universe in some manner. However, the moment that it becomes detectable in our universe, it must have rational and empirical existence, like everything else we can detect. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
 
