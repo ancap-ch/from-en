@@ -14,7 +14,7 @@ Kung pwenersa ko ang isang babae na pakasalan ang isang lalake na napili para sa
 
 When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
 
-If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. If she has no idea what constitutes a good or suitable husband, then how can she evaluate me as fit to decide who will be a good or suitable husband for her?
+Kung ang babae ay di-wastong pag-iisip upang gumawa ng kanyang sariling mga desisyon tungkol sa kasal, pagkatapos ay malinaw din siya *di-wastong pag-iisip upang italaga ang isang kinatawan upang gawin ang desisyong iyon para sa kanya *. If she has no idea what constitutes a good or suitable husband, then how can she evaluate me as fit to decide who will be a good or suitable husband for her?
 
 If a man of extraordinarily low intelligence does not understand the concept of “health,” would it be reasonable to expect him to be rational in his choice of a doctor? In order to competently choose a doctor, we must understand the concepts of health, efficacy, cost, professionalism and so on. In the same way, if I do not allow a woman to have any say in who she marries, then clearly I must believe that she has no understanding of what makes a good husband – but if she has no understanding of what makes a good husband, then she has no capacity to transfer that choice to me, since she will have no way of evaluating *my* criteria for what makes a good husband.
 
