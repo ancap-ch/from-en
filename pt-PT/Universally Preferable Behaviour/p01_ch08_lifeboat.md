@@ -43,10 +43,10 @@ Usando os "cenários salva-vidas" acima mencionados, a conclusão é, frequentem
 Em argumentos éticos, se me perguntassem se eu roubaria uma maçã, em vez de morrer de fome - e eu respondesse "sim" - o seguinte argumento seria inevitavelmente:
 
 1. Todos prefeririam roubar uma maçã a morrer de fome.
-2. Thus everyone universally prefers stealing apples to death by starvation.
-3. Thus it is *universally preferable* to steal apples rather than starve to death.
-4. Thus survival is universally preferable to property rights.
-5. Thus what is good for the individual is the ultimate moral standard.
+2. Assim, todos, universalmente preferem roubar maçãs a morrer de fome.
+3. Assim, é *universalmente preferível* roubar maçãs, a morrer de fome.
+4. Portanto, a sobrevivência é universalmente preferível aos direitos de propriedade.
+5. Assim, o padrão moral final é o que é bom para o indivíduo.
 
 This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
 
