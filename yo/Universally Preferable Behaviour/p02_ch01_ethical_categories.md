@@ -18,7 +18,7 @@ Lootọ, o yẹ ki a lè mú àwọn ìsọ̀rí yìí wálẹ̀ sí ìsọ̀rí
 
 Fún àpẹẹrẹ, Non-Aggression Principle (NAP) so wípé ipilẹṣẹ lilo agbára je ìwà àìdá - a jẹ́ wípé kíkọ̀ fún ipilẹṣẹ lilo agbára yíò jẹ́ ààyò àgbáyé, ti ipilẹṣẹ lilo agbára yíò jé nkan ti àgbáyé kọ̀. Ti nkan ti a kọ̀ ba jẹ idakeji nkan ti a fẹ́, ko sí ìwúlò àfikún ìsọ̀rí kánkan.
 
-Síwájú sí, gẹgẹbi ọlọgbọn ìwà, a gbọdọ mu ni pataki awọn ìdánwò wà lórí ọgbọn ẹkọ ìwà pẹlu ifojusi awọn irúfin lọnà aitọ. Ó dájú, awọn ìhùwàsí búburú gbọdọ jẹ awọn ìwà fífi tipatipa lo ààyò àìní ootọ lori awọn èèyàn yòókù. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+Síwájú sí, gẹgẹbi ọlọgbọn ìwà, a gbọdọ mu ni pataki awọn ìdánwò wà lórí ọgbọn ẹkọ ìwà pẹlu ifojusi awọn irúfin lọnà aitọ. Ó dájú, awọn ìhùwàsí búburú gbọdọ jẹ awọn ìwà fífi tipatipa lo ààyò àìní ootọ lori awọn èèyàn yòókù. Ti ìhùwàsí gẹgẹbi "olè jíjà" tàbí "ipaniyan" ba jẹ àpèjúwe UPB, àyẹwò lori irú àpèjúwe náà gbọdọ jẹ ààyò wá to tobí jù.
 
 A je wipe a má kọjú igbiyanju wa sí àwọn ìhùwàsí ti àgbáyé nifẹ sí ti a sì lè kan nípa ni ṣiṣe.
 
