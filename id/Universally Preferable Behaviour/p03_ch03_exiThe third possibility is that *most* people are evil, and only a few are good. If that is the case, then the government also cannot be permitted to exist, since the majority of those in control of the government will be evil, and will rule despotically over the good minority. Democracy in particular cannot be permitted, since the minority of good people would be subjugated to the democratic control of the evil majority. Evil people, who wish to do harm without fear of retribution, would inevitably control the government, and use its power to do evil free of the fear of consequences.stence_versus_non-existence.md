@@ -1,64 +1,64 @@
 ## Existence Versus Non-Existence
 
-Мы определяем "небытие" как то, что не обладает массой или энергией, или отображать эффекты массы или энергии, такие как обнаруживаемые отношения, такие как сила тяжести.
+We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
 
-Бог не обладает массой или энергией или не проявляет воздействия массы или энергии-Бог фактически не поддается обнаружению или проверке каким-либо образом, формой или формой, либо через чувства, либо через разумность.
+God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
 
-Таким образом, если я говорю: "Бог существует", то я на самом деле говорю:
+Thus if I say, “God exists,” what I am really saying is:
 
-"*То, что существует, должно быть обнаруживаемым; Бог не может быть обнаруживаемым, но Бог существует – поэтому то, чего не существует, существует.*”
+“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
 
-Другими словами, говоря "Бог существует", я создал непреодолимое противоречие. Я определил “существование " как "небытие", что имеет такой же смысл, как определение "жизни “как” неодушевленной материи“, или скалы как” противоположность скалы “или” квадрата “как "круга".”
+In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
 
-Точно так же, если я создаю некоторую альтернативную вселенную, где "небытие равно существованию" и "противоречие равно последовательности" и "истина равна ложи” и “иррациональность равна рациональности”, то я действительно создал область под названием “ошибка", поместил в нее все, что не соответствует истине, и определил эту область как место, где "ошибка равна истине".”[^2]
+Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
 
-Конечно, люди создают эту “альтернативную вселенную” не для того, чтобы признать истину недействительной в нашей собственной Вселенной, а для того, чтобы спасти то, что является ошибочным в реальности, и назвать это правдой. Например, никто, кто утверждает, что "Бог может существовать в другой Вселенной, поэтому Вы не можете утверждать, что Бог не существует”, никогда не спорит" *я* может не существовать в этой другой Вселенной, поэтому Вы не можете утверждать, что я существую здесь.”
+Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
 
-Они также склонны не отвечать на аргумент, что: "в другой Вселенной вы, возможно, согласны со мной, что Бога не существует, поэтому вы атеист.”[^3]
+They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
 
-Если действительные высказывания о реальности может быть бесконечно против, потому что какой-то воображаемый царстве под названием “ошибка равняется истине” сводит их, то что действительно сказал “нет положительных утверждений об истине может быть действительным” – тем не менее, мы достаточно умные, как философы теперь знаем, что и это утверждение внутренне противоречиво, поскольку оно является положительным заявление считается правда, что говорит, что никакого позитивного заявления могут быть правдой. Если ничто не может быть истинным или ложным – даже это утверждение – тогда никакие заявления ни о чем не могут быть сделаны. Используя слова, используя английский язык, используя понятные предложения-все не имеет никакого смысла, так как в этой” альтернативной Вселенной " такие структурированные высказывания могут быть полной ерундой. Если вещи, которые могут быть истинными в этой альтернативной Вселенной, влияют на утверждения, которые мы делаем в этой вселенной, то очевидно, что обратное также верно, а это означает, что никакие заявления никогда не могут быть сделаны ни о чем, так как их точная противоположность может быть в равной степени правдой.
+If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
 
-Истинная реальность этого утверждения: “ошибка равняется истине” является тавтологическим маразм “нуль равняется нулю.”
+The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
 
-##"Альтернативная Вселенная" В Человеческом Обществе
+### The "Alternate Universe" In Human Society
 
-Причина, по которой мы тратим так много времени на эту теорию “альтернативной Вселенной”, заключается в том, что она имеет прямое отношение к человеческому обществу и используется для “оправдания” величайших зол, которые совершаются среди нас.
+The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
 
-По нашему личному опыту, мы знаем, что убийство неверно. Работая над утверждением, что убийство морально неверно в приведенных выше примерах, я сильно сомневаюсь, что кто-то был потрясен тем, что их моральные инстинкты подтверждены строгим абстрактным рассуждением UPB. В этом разделе, однако, официально допустимо, чтобы вы начали действительно шокированы.
+In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
 
-Наибольшие скачки вперед в научном понимании - это так называемые “объединяющие теории"."Эйнштейн потратил десятилетия, пытаясь разработать единую теорию поля; и теории физики, которые объединяют сильные и слабые силы, электромагнетизм, гравитацию и так далее, остаются неуловимыми.
+The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
 
-Однако УПБ как основа не только оправдывает наши моральные инстинкты на личном, философском и универсальном уровнях, но и имеет глубокие и шокирующие последствия для человеческого общества.
+UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
 
-#### UPB в действии
+#### UPB In Action
 
-Структура UPB подтверждает моральные положения, требуя, чтобы они были внутренне последовательными и универсальными с точки зрения времени, места и людей.
+The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
 
-Если мы принимаем UPB, мы должны также принять следующее следствие:
+If we accept UPB, we must also accept the following corollary:
 
-- Моральные положения не зависят от костюма.
+- Moral propositions are independent of costume.
 
-Это означает, что человек не может изменить свою нравственную природу вместе со своей одеждой. Изменение костюма не меняет его фундаментальной природы. Таким образом, противоположные моральные правила не могут быть действительными на основе одежды, которую он носит.
+What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
 
-Солдаты, конечно, носят костюмы, которые отличаются от среднестатистических граждан. Среднестатистическому гражданину запрещено убивать; солдатам, однако, не только *разрешено* убивать, но и морально * хвалят* за убийство.
+Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
 
-Давайте возьмем другой пример.
+Let’s take another example.
 
-Кража-это морально неправильно, как мы видели выше. Это аморально для всех людей во всех ситуациях, во все времена и при любых обстоятельствах. Поскольку кража-это насильственное изъятие чужого имущества без согласия, то налогообложение всегда, повсеместно и навсегда является моральным злом. Налогообложение по определению является принудительным изъятием чьего-либо имущества без его согласия, поскольку налогообложение зависит от начала применения силы с целью лишить человека его собственности.
+Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
 
-То, что мы называем "правительство", - это просто еще один пример этой * нулевой зоны*, где вверх вниз, черный-белый, истина-ложь, а зло-добро.
+What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
 
-Общество прогрессирует именно в той степени, в которой разум и доказательства совершают большой скачок от личного к вселенскому, и уничтожают любые иррациональные *нулевые зоны* на пути. Наука прогрессирует точно до той степени, что отвергает иррациональность Бога и субъективные "абсолюты"."Медицина прогрессирует точно до такой степени, что отвергает эффективность молитвы и пустого ритуала, а вместо этого полагается на разум и доказательства. Философия также – и человеческое общество в целом-будет продвигаться точно до такой степени, что она отвергает иррациональную “квадратную мораль” статических и религиозных этических теорий.
+Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
 
-### Правительство
+### Government
 
-Говоря, что правительство действует в соответствии с противоположными моральными правилами от остального общества, это точно так же, как сказать: “лепреконы невосприимчивы к гравитации."Прежде всего, лепреконы не существуют – и один из способов, которым мы знаем, что они не существуют, заключается в том, что утверждается, что они невосприимчивы к гравитации. Все, что имеет массу, подвержено гравитации – то, что невосприимчиво к гравитации по определению, не имеет массы, и поэтому не существует. Утверждение "лепреконы невосприимчивы к гравитации" является тавтологией, которая только подтверждает отсутствие лепреконов-это семантический эквивалент “того, чего не существует, не существует."А-это а, первый закон логики Аристотеля, мало что делает для подтверждения существования того, что определяется как небытие.
+Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
 
-Точно так же, когда мы говорим, что это морально хорошо для солдат, чтобы убить и представители правительства, чтобы украсть, мы знаем, что “солдаты” и “представители правительства”, как моральные категории *полностью недействительны*.
+In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
 
-Если я говорю, что квадратный круг имеет право красть, я просто говорю, что то, что не может существовать, имеет право делать то, что является противоречивым-чисто бессмысленное заявление, но которое остается странным в “нулевой зоне” политики.
+If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
 
-Если я куплю костюм солдата в магазине второй руки и надену его, то, очевидно, я не создал альтернативную вселенную, в которой могут быть действительны противоположные моральные правила. За момент до того, как я надел костюм, мне было неправильно убивать-когда это становится* правильным * для меня, чтобы убить? Когда я надел штаны? Что, если на мне брюки, но не жилет? Что, если у меня есть только один ботинок? А что если оба валенки, но только один зашнурована? Что, если моя шляпа надета задом наперед? Что делать, если я надел униформу, которая не признается первым человеком, с которым я столкнулся? У Битлз внезапно появилось право на убийство, когда они застрелили прикрытие для "сержанта Пепперса"? Они потеряли это право, когда сняли пиджаки?
+If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
 
 I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
 
@@ -188,56 +188,56 @@ If I do not think that I am competent to make my own decisions, then clearly my 
 
 Either I am capable of making competent decisions, or I am not. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. If I am *not* capable of making competent decisions, then my decision to subject myself to force for the rest of my life is also invalid.
 
-Even if the above considerations are somehow bypassed, however, it is still impossible to justly enforce a social contract through a government. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+Bahkan jika atas pertimbangan entah bagaimana dilewati, namun, hal ini masih mungkin untuk adil menegakkan kontrak sosial melalui pemerintah. Jelas, saya tidak bisa menandatangani kontrak pada *anda* nama, atau pada anak-anak saya nama, yang akan mengikat anda atau mereka untuk sisa waktu. Saya tidak bisa beli mobil, mengirimkan tagihan, dan adil menuntut bahwa anda membayar. Jika saya mengklaim kekuatan untuk memaksakan sepihak kontrak pada anda, UPB juga memberikan *anda* kekuatan ini, dan sehingga anda hanya akan kembali kontrak kepada-ku dalam nama-ku.
 
-In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
+Dengan cara yang sama, bahkan jika saya memilih untuk membayar pajak secara sukarela, saya tidak bisa adil memaksakan pilihan kepada anda, karena sukarela kontrak adalah hanya preferensi pribadi, dan tidak dapat diberlakukan secara universal melalui kekerasan.
 
-### The Necessity Of The State?
+### Perlunya Negara?
 
-This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
+Seluruh pertanyaan menjadi lebih menggelikan ketika kita melihat yang paling umum moral "pembenaran" untuk kekuatan pemerintahan yang demokratis, yang didasarkan pada "kehendak mayoritas."
 
-First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
+Pertama-tama, "akan" adalah aspek individu, sementara "mayoritas" adalah konseptual tag untuk kelompok. "Mayoritas" tidak bisa lagi memiliki "akan" dari "garis paduan suara" dapat "melahirkan." Jika anda meragukan hal ini, hanya mencoba membangun sebuah rumah pohon dengan konsep "hutan" daripada dengan setiap individu potongan-potongan kayu.
 
-Two additional objections constantly recur whenever the question of the necessity of a government arises. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
+Tambahan dua keberatan yang terus terulang setiap kali pertanyaan tentang perlunya pemerintah muncul. Yang pertama adalah bahwa masyarakat bebas adalah hanya mungkin jika orang-orang yang sangat baik atau rasional – dengan kata lain, bahwa warga negara *perlu* terpusat pemerintah karena ada orang-orang jahat di dunia.
 
-The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Citizens can protect themselves against evil individuals, but stand no chance against an aggressive government armed to the teeth with police and military might. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
+Yang pertama dan paling jelas masalah dengan posisi ini adalah bahwa jika orang-orang jahat yang ada di masyarakat, mereka juga akan ada dalam pemerintah dan menjadi jauh lebih berbahaya sehingga. Warga dapat melindungi diri terhadap kejahatan individu, tetapi tidak berdiri kesempatan melawan agresif pemerintah bersenjata dengan polisi dan militer. Dengan demikian argumen bahwa kita perlu pemerintah karena orang-orang jahat yang ada adalah palsu. Jika orang-orang jahat ada, pemerintah *harus* dibongkar, karena kejahatan orang-orang akan tertarik untuk menggunakan kekuatannya untuk tujuan mereka sendiri – dan, tidak seperti swasta preman, orang-orang jahat di pemerintah, polisi dan militer untuk menimbulkan keinginan mereka yang tidak berdaya (dan relatif dilucuti) populasi. Dengan demikian argumen ini mirip dengan gagasan bahwa "pemalsu sangat berbahaya, jadi kita harus memberikan monopoli eksklusif atas pemalsuan untuk sekelompok kecil individu." Di mana di bumi yang orang-orang pikir pemalsu akan pergi lebih dulu?[^5]
 
-Logically, there are four possibilities as to the mixture of good and evil people in the world:
+Logikanya, ada empat kemungkinan sebagai campuran dari baik dan orang jahat di dunia:
 
-1. All men are moral.
-2. All men are immoral.
-3. The majority of men are immoral, and a minority moral.
-4. The majority of men are moral, and a minority immoral.[^6]
+1. Semua manusia adalah moral.
+2. Semua laki-laki yang tidak bermoral.
+3. Mayoritas laki-laki yang tidak bermoral, dan minoritas moral.
+4. Mayoritas laki-laki moral, dan minoritas tidak bermoral.[^6]
 
-In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
+Dalam kasus pertama (*semua laki-laki moral*), pemerintah jelas tidak diperlukan, karena kejahatan tidak ada.
 
-In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+Dalam kasus kedua (*semua laki-laki yang tidak bermoral*), pemerintah tidak akan diizinkan untuk ada untuk satu alasan sederhana. Pemerintah, hal ini umumnya berpendapat, harus ada karena ada orang-orang jahat di dunia ini yang menginginkan untuk menimbulkan bahaya, dan yang hanya dapat terkendali melalui ketakutan dari pemerintah retribusi (polisi, penjara, *et al*). Akibat wajar dari argumen ini adalah bahwa kurang retribusi ini orang-orang takut, banyak kejahatan yang akan mereka lakukan.
 
-However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
+Namun, pemerintah *sendiri* tidak tunduk pada kekuatan atau retribusi, tetapi adalah hukum bagi dirinya sendiri. Bahkan di negara-negara demokrasi Barat, berapa banyak polisi dan politisi masuk penjara?
 
-Thus if evil people wish to do harm, but are only restrained by force, then society can *never* permit a government to exist, because evil people will work feverishly to grab control of that government, in order to do evil and avoid retribution. In a society of pure evil, then, the only hope for stability would be a state of nature, where a general arming and fear of retribution would blunt the evil intents of disparate groups. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
+Dengan demikian jika orang-orang jahat yang hendak melakukan kejahatan, tapi hanya tertahan oleh kekuatan, maka masyarakat dapat *tidak pernah* izin pemerintah untuk ada, karena orang-orang jahat akan bekerja tergesa-gesa untuk mengambil kontrol dari pemerintah, dalam rangka untuk melakukan kejahatan dan menghindari retribusi. Dalam masyarakat dari kejahatan murni, maka, satu-satunya harapan untuk stabilitas akan keadaan alam, di mana seorang jenderal mempersenjatai dan merasa takut akan tumpul maksud jahat dari kelompok yang berbeda. Seperti halnya antara negara bersenjata nuklir, "keseimbangan kekuatan" keturunan perdamaian.
 
-The third possibility is that *most* people are evil, and only a few are good. If that is the case, then the government also cannot be permitted to exist, since the majority of those in control of the government will be evil, and will rule despotically over the good minority. Democracy in particular cannot be permitted, since the minority of good people would be subjugated to the democratic control of the evil majority. Evil people, who wish to do harm without fear of retribution, would inevitably control the government, and use its power to do evil free of the fear of consequences.
+Kemungkinan ketiga adalah bahwa *paling* orang-orang jahat, dan hanya sedikit yang baik. Jika itu terjadi, maka pemerintah juga tidak akan diizinkan untuk ada, karena mayoritas orang-orang di kontrol dari pemerintah akan menjadi jahat, dan yang akan memerintah despotically lebih baik minoritas. Demokrasi pada khususnya tidak akan diizinkan, karena minoritas dari orang-orang yang baik akan ditundukkan untuk kontrol demokratis dari kejahatan mayoritas. Orang-orang jahat, yang ingin melakukan kejahatan tanpa takut pembalasan, pasti akan kontrol pemerintah, dan menggunakan kekuatannya untuk melakukan kejahatan bebas dari rasa takut dari konsekuensi.
 
-Good people do not act morally because they fear retribution, but because they love virtue and peace of mind – and thus, unlike evil people, they have little to gain by controlling the government. In this scenario, then, the government will inevitably be controlled by a majority of evil people who will rule over all, to the detriment of all moral people.
+Orang-orang yang baik tidak bertindak secara moral karena mereka takut pembalasan, tapi karena mereka mencintai kebajikan dan ketenangan pikiran – dan dengan demikian, tidak seperti orang-orang jahat, mereka memiliki sedikit keuntungan dengan mengendalikan pemerintah. Dalam skenario ini, maka pemerintah pasti akan dikendalikan oleh mayoritas orang-orang jahat yang akan memerintah di atas semua, sehingga merugikan semua orang bermoral.
 
-The fourth option is that most people are good, and only a few are evil. This possibility is subject to the same problems outlined above, notably that evil people will always want to gain control over the government, in order to shield themselves from just retaliation for their crimes. This option only changes the *appearance* of democracy: because the majority of people are good, evil power-seekers must lie to them in order to gain power, and then, after achieving public office, will immediately break faith and pursue their own corrupt agendas, enforcing their wills through the police and the military.[^7] Thus the government remains the greatest prize to the most evil men, who will quickly gain control over its awesome power – to the detriment of all good souls – and so the government cannot be permitted to exist in this scenario either.
+Opsi keempat adalah bahwa sebagian besar orang-orang yang baik, dan hanya sedikit yang jahat. Kemungkinan ini adalah subjek yang sama masalah yang diuraikan di atas, tampak jelas bahwa orang-orang jahat akan selalu ingin mendapatkan kontrol atas pemerintah, dalam rangka untuk melindungi diri dari pembalasan atas kejahatan mereka. Opsi ini hanya perubahan *penampilan* demokrasi: karena sebagian besar dari orang-orang yang baik, kekuatan jahat para pencari harus berbohong kepada mereka dalam rangka untuk mendapatkan kekuasaan, dan kemudian, setelah meraih jabatan publik, akan segera menghancurkan iman dan mengejar mereka sendiri korup agenda, menegakkan kehendak mereka melalui polisi dan militer.[^7] dengan Demikian pemerintah tetap hadiah terbesar untuk sebagian besar orang-orang jahat, siapa yang akan dengan cepat mendapatkan kontrol atas kekuatan yang mengagumkan – untuk merugikan semua jiwa yang baik – dan sehingga pemerintah tidak dapat diizinkan untuk ada dalam skenario ini.
 
-It is clear, then, that there is no situation under which a government can logically or morally be allowed to exist. The only possible justification for the existence of a government would be if the majority of men are evil, but all the power of the government is always controlled by a minority of good men.[^8]
+Jelas, kemudian, bahwa tidak ada situasi di mana pemerintah dapat secara logis atau secara moral diperbolehkan untuk eksis. Hanya mungkin pembenaran untuk keberadaan pemerintah akan jika mayoritas laki-laki yang jahat, tetapi semua kekuasaan pemerintah selalu dikontrol oleh minoritas orang-orang yang baik.[^8]
 
-This situation, while interesting theoretically, breaks down logically because:
+Situasi ini, sementara menarik secara teoritis, memecah logis karena:
 
-1. The evil majority would quickly outvote the minority or overpower them through a coup;
-2. There is no way to ensure that only good people would always run the government; and,
-3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
+1. Kejahatan mayoritas akan cepat outvote minoritas atau mengalahkan mereka melalui kudeta;
+2. Tidak ada cara untuk memastikan bahwa hanya orang-orang yang baik akan selalu menjalankan pemerintahan; dan,
+3. Sama sekali tidak ada contoh dari hal ini pernah terjadi di salah satu brutal sejarah dari sejarah negara.
 
-The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
+Logis selalu membuat kesalahan dalam pertahanan pemerintah untuk membayangkan bahwa setiap kolektif moral penilaian yang diterapkan untuk setiap kelompok orang *tidak juga diterapkan untuk kelompok yang memerintah atas mereka*. Jika lima puluh persen dari orang-orang jahat, maka *setidaknya* lima puluh persen dari orang-orang yang berkuasa atas mereka juga jahat.[^9] dengan Demikian keberadaan kejahatan tidak pernah dapat membenarkan adanya suatu pemerintahan.
 
-If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
+Jika tidak ada kejahatan, pemerintah tidak perlu. Jika kejahatan itu ada, pemerintah terlalu berbahaya untuk akan diizinkan untuk ada.
 
-Why is this error so prevalent?
+Mengapa kesalahan ini begitu umum?
 
-There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+Ada sejumlah alasan, yang hanya dapat dibahas di sini. Yang pertama adalah bahwa pemerintah memperkenalkan diri kepada anak-anak dalam bentuk guru sekolah umum yang dianggap otoritas moral. Dengan demikian *moral* dan *otoritas* pertama terkait dengan pemerintah – sebuah asosiasi yang kemudian diperkuat melalui tahun grinding pengulangan.
 
 The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
 
