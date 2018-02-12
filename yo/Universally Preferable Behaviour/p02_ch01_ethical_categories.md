@@ -14,7 +14,7 @@ Gẹgẹbi a ti sọ lókè, àlàyé lórí ìhùwàsí ti àgbáyé nifẹ sí
 6. Ó jẹ́ nkan to lẹ́wà àìdá ("ìwà ìgbéraga" ati "mí ma pẹ́ dé").
 7. Ó jẹ́ aburú ( àgbáyé lòdì sí) ("ifipábanilopo").
 
-Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
+Lootọ, o yẹ ki a lè mú àwọn ìsọ̀rí yìí wálẹ̀ sí ìsọ̀rí méjì nìkan - èyí tó jẹ́ ààyò àgbáyé àti èyí tó lẹ́wà tó dára - pẹlu ṣiṣe àpèjúwe àlàyé ẹ̀kọ́ ìwà ti yio fi jẹ wípé ohun ti a kọ lágbayé má je idakeji ohun ti àgbáyé yàn láàyò, ti a o sí kọ ìfẹ́ inú àti awọn ìhùwàsí ti a kò lè ka kún dáadáa tàbí àìdá gẹgẹbi nkan ti ko pàtàkì níbi ìjíròrò ẹ̀kọ́ iwa.
 
 For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. Ti nkan ti a kọ̀ ba jẹ Idakeji nkan ti a fẹ́, ko sí ìwúlò àfikún ìsọ̀rí kánkan.
 
