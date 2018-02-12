@@ -47,9 +47,9 @@ Lohikal, mayroong apat na posibilidad katulad sa pinaghalong mabuti at masamang 
 
 Sa unang kaso (*ang lahat ng tao ay moral*), ang pamahalaan ay malainaw na hindi kailangan, dahil ang kasamaan ay hindi umiiral.
 
-Sa pangalawang kaso (*lahat ng tao ay imoral*), ang pamahalaan ay hindi pinapayagan na umiral sa isang simpleng paraan. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+Sa pangalawang kaso (*lahat ng tao ay imoral*), ang pamahalaan ay hindi pinapayagan na umiral sa isang simpleng paraan. Ang pamahalaan, ito ay karaniwang nagtatalo, dapat umiiral dahil may mga masasamang tao sa mundo na nais magdulot ng pinsala, at maaaring mapigil sa pamamagitan ng takot sa kaparusahan ng pamahalaan (pulisya, bilangguan, *et al*). Ang kinahantungan ng argumento ay ang kaunting kaparusahan sa mga taong natatakot, ang mas masama ang gagawin nila.
 
-However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
+Gayunpaman, ang pamahalaan *mismo* ay hindi napapailalim sa anumang puwersa o kaparusahan, ngunit isang batas mismo. Kahit sa mga Kanluraning demokrasya, kung gaano karaming pulis at pulitiko ang mapupunta sa kulungan?
 
 Thus if evil people wish to do harm, but are only restrained by force, then society can *never* permit a government to exist, because evil people will work feverishly to grab control of that government, in order to do evil and avoid retribution. In a society of pure evil, then, the only hope for stability would be a state of nature, where a general arming and fear of retribution would blunt the evil intents of disparate groups. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
 
