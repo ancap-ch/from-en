@@ -62,11 +62,11 @@ Como podemos ver, a introdução de "o que é bom para o homem em abstracto - ou
 
 Com a vossa paciente indulgência, uma pergunta final precisa ser feita antes de entrar por completo numa definição e testar a forma como diversas proposições morais se encaixam na estrutura CUP. Dado que temos o trabalho mais difícil frente a nós, devemos tomar uma pausa por um momento e recordar o motivo pelo qual nos estamos a colocar perante todo esse rigor e dificuldade.
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+Por outras palavras, antes de mergulhar, vale a pena fazer a pergunta: "Por que se preocupar?"
 
-Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+Por que se preocupar com a definição de teorias éticas? Com toda a certeza, as pessoas boas não as necessitam e as más não as consultam. As pessoas farão o que preferem e simplesmente inventarão as justificações necessárias depois do facto - para que *incomodar* as pessoas com palestras sobre moralidade?
 
-Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
+Claro, sempre existirá o perigo de que uma pessoa imoral o ataque para os seus próprios fins hedonistas. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
 
 [^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
 
