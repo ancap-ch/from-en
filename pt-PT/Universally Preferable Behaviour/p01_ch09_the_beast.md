@@ -28,14 +28,14 @@ Se eu fosse um médico no meio de uma grande cidade derrubada por uma praga terr
 
 Certamente eu deveria chorar dos próprios telhados que sua água potável estava causando a praga. Certamente, eu deveria tomar todas as medidas possíveis para que as pessoas compreendessem a verdadeira fonte da doença que os derrubou.
 
-Surely, in the knowledge of such universal and preventable poisoning, I should not waste my time arguing that the true danger you faced was the tiny possibility that some random individual might decide to poison you at some point in the future.
+Com certeza que com o conhecimento de um envenenamento tão universal e evitável, eu não deveria perder o meu tempo argumentando que o verdadeiro perigo que alguém enfrentava era a pequena possibilidade de que qualquer indivíduo pudesse decidir envenená-lo em qualquer momento no futuro.
 
-Thus, as a philosopher concerned with violence and immorality, should I focus on private criminals, or public criminals?
+Assim, como um filósofo preocupado com a violência e a imoralidade, devo centrar-me nos criminosos privados ou nos criminosos públicos?
 
-The violations that I experienced at the hands of private criminals fade to insignificance relative to even *one day* under the tender mercies of my “virtuous and good masters.”
+As violações que experimentei nas mãos de criminosos privados tornam-se insignificância em relação às que experimentei *um dia* sob as ternas misericórdias dos meus "mestres virtuosos e bons"
 
-If, then, the greatest dangers to mankind are false ethical theories, then our highest prioritisation should be the discovery, communication and refinement of a valid, rational, empirical and consistent ethical theory. If we discover that most plague victims are dying from impure water, then surely telling them to purify their water should be our first and highest priority.
+Então, se os maiores perigos para a humanidade são as falsas teorias éticas, a nossa maior priorização deve ser a descoberta, comunicação e aperfeiçoamento de uma teoria ética válida, racional, empírica e consistente. Se descobrimos que a maioria das vítimas da praga está a morrer devido à água impura, então dizer-lhes que purifiquem a água deve ser, certamente, a nossa primeira e mais alta prioridade.
 
-Let us now turn to that task.
+Passemos agora a essa tarefa.
 
-[^12]: Or, rather: “*forced* education is a virtue” – my parents were compelled to pay through taxes, and I was compelled to attend.
+[^12]: Ou, em vez disso: "*forçado* educação é uma virtude" - meus pais foram obrigados a pagar impostos, e fui obrigado a participar.&#160;&#8617;</a>
