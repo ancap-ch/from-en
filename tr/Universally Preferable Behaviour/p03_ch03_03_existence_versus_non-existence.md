@@ -74,21 +74,21 @@ Gördüğünüz üzere, eğer *Bob* hayali zorunluluklar uydurma ve bunları Dou
 
 Diğer bir deyişle, güç kullanımı için hayali soyut her gerekçeye güç kullanımı için hayali soyut bir diğer gerekçeyle karşılık verilebilir. Eğer ben yaptığım her şeyi meşrulaştırabilen hayali bir dosta sahipsem o zaman *sen* de senin yaptığın her şeyi meşrulaştırabilen bir hayali dosta sahip olabilirsin. Bu yüzden bizim hiçbirimiz hayali zorunluluklarımızı diğerlerine zorla kabul ettirme yeteneğine sahip olamayız.
 
-#### Din Ve ETD
+#### Din ve E.T.D.
 
 Aynısı din için geçerlidir.
 
-Açıklama: "Bana itaat etmek zorundasınız çünkü Tanrı bunu emrediyor," daha doğru bir şekilde "oluşturduğum bir varlık, bana itaat etmeniz için size emrediyor" olarak yeniden özetlenir. O zaman, UPB nin gerektirdiği ilke, "İnsanoğlu diğerlerine seçilmemiş olumlu zorunlulukları zorla kabul ettirmeli, bu zorunlulukları hayali varlıklara göre temize çıkarmalıdır."
+Açıklama: "Bana itaat etmek zorundasınız çünkü Tanrı bunu emrediyor," daha doğru bir şekilde "oluşturduğum bir varlık, bana itaat etmeniz için size emrediyor" olarak yeniden özetlenir. O zaman, U.P.B’nin gerektirdiği ilke, "İnsanoğlu diğerlerine seçilmemiş olumlu zorunlulukları zorla kabul ettirmeli, bu zorunlulukları hayali varlıklara göre temize çıkarmalıdır."
 
-Burada yukarıdaki konuların aynılarını görüyoruz. Bob Doug'a şöyle der: "Bana çakmağını vermek zorundasıni çünkü hayali arkadaşım sana öyle söylüyor." Doğal olarak, Doug cevap verir: "Benden çakmağımı istememelisin, çünkü *benim* hayali arkadaşım sana bunu yasaklıyor." Eğer ki Bob'un "emirleri" geçerli ise, o zaman Doug'un "emirleri" de eşit derecede geçerli olur, ve böylece birbirlerini etkisiz hale getirirler.
+Burada yukarıdaki konuların aynılarını görüyoruz. Bob Doug'a şöyle der: "Bana çakmağını vermek zorundasınız çünkü hayali arkadaşım sana öyle söylüyor." Doğal olarak, Doug cevap verir: "Benden çakmağımı istememelisin, çünkü *benim* hayali arkadaşım sana bunu yasaklıyor." Eğer ki Bob'un "emirleri" geçerli ise, o zaman Doug'un "emirleri" de eşit derecede geçerli olur, ve böylece birbirlerini etkisiz hale getirirler.
 
-Aynı şekilde, eğer bir adam "hükümet" denilen bir tahayyülün benim mülkümü çalmasını meşrulaştırdığını iddia eder ise o zaman ben de benim "anti-hükümet" denilen tahayyülümün mülkümü *korumamı* meşrulaştırdığını iddia edebilirim ve ikimizin gerekçesi de eşit derecede geçerlidir.
+Aynı şekilde, eğer bir adam "hükümet" denilen bir tahayyülün benim mülkümü çalmasını meşrulaştırdığını iddia eder ise o zaman ben de benim "hükümet karşıtı" denilen tahayyülümün mülkümü *korumamı* meşrulaştırdığını iddia edebilirim ve ikimizin gerekçesi de eşit derecede geçerlidir.
 
 Eğer bu vergi tahsildarları o zaman "hükümet" denilen mevhumlarının sadece onların *benim* mülküm üzerindeki hırsızlıklarını meşrulaştırdığını ancak benim mülkümü korumamı meşrulaştırmadığını iddia ederlerse o zaman daha da ileriye gitmemiz mümkün değildir. Benim bin dolarımı alabilir, fakat o zaman parayı geri "çalmak" kavramından yararlanabilirim ve onun ahlaki kuramı bize geri verilen sonsuzluğun ve bin doların kalan kısmını harcamayı emreder.
 
-#### UPB ve''Çoğunluk''
+#### U.P.B. ve''Çoğunluk''
 
-UPB, bireylerin özelliklerini geçersiz kılmak veya tersine çevirmek için bireylerin toplanmasına izin vermez. On aslan bir fil ,hükümet ya da tanrı yapmaz. On bin tane asker belki "ordu" oluşturabilir, ama yer çekimini ters çeviremez, veya cinayetini normalleştiremezler.
+U.P.B, bireylerin özelliklerini geçersiz kılmak veya tersine çevirmek için bireylerin toplanmasına izin vermez. On aslan bir fil ,hükümet ya da tanrı yapmaz. On bin tane asker belki "ordu" oluşturabilir, ama yer çekimini ters çeviremez, veya cinayetini normalleştiremezler.
 
 Son bir kez Bob ve Doug'un odasına dönüyoruz, hadi "Jane" ile tanışalım.
 
@@ -98,9 +98,9 @@ Eğer Bob, Doug ve Jane, Jane'e tecavüz etmenin ahlaki olup olmadığına dair 
 
 Neden olmasın?
 
-Peki, UPB bir araya gelme gerçekliğini tanımaz, çünkü "çoğunluk" mutlak kavramsal bir etikettir; gerçekte, "tanrılar" ya da "hükümetler" ötesinde herhangi bir şey, mevcut değildir. Bu yüzden "çoğunluk" kavramının herhangi bir ahlaki duruş türüne sahip olduğunu iddia etmek kesinlikle geçerli değildir - bu "Memleket" 'in bir kadını hamile bırakabileceğini, ya da birisinin "sandalye" kelimesinde oturabileceğini söylemek gibi olur.
+Peki, U.P.B. bir araya gelme gerçekliğini tanımaz, çünkü "çoğunluk" mutlak kavramsal bir etikettir; gerçekte, "tanrılar" ya da "hükümetler" ötesinde herhangi bir şey, mevcut değildir. Bu yüzden "çoğunluk" kavramının herhangi bir ahlaki duruş türüne sahip olduğunu iddia etmek kesinlikle geçerli değildir - bu "Memleket" 'in bir kadını hamile bırakabileceğini, ya da birisinin "sandalye" kelimesinde oturabileceğini söylemek gibi olur.
 
-"Çoğunluğun" herhangi bir bireyin hakları ve özellikleri ile doğrudan çelişen haklara ve özelliklere sahip olduğunu söylemek rasyonal ilkeler ile de çelişir çünkü herhangi bir kavramsal gruplama yalnızca bireysel özelliklerin doğru bir şekilde tanımlanması ile geçerli olur. Eğer "memelilerin" sıcak kanlı canlı yaratıklar olduğunu söylersem, mantıksal olarak "memeliler" kategorisine plastik üç flamingoyu da dahil edebilir miyim?
+"Çoğunluğun" herhangi bir bireyin hakları ve özellikleri ile doğrudan çelişen haklara ve özelliklere sahip olduğunu söylemek rasyonel ilkeler ile de çelişir çünkü herhangi bir kavramsal gruplama yalnızca bireysel özelliklerin doğru bir şekilde tanımlanması ile geçerli olur. Eğer "memelilerin" sıcak kanlı canlı yaratıklar olduğunu söylersem, mantıksal olarak "memeliler" kategorisine plastik üç flamingoyu da dahil edebilir miyim?
 
 Tabi ki değil.
 
@@ -114,14 +114,14 @@ Bu yüzden, eğer insanlar için tecavüz etmek kötü olursa, mantıksal açıd
 
 Tabii ki yapabilirim fakat hiç bir zaman geçerli veya doğru olmaz.
 
-Yalnızca *bireyler* hareket eder - çoğunluk asla edemez. Eğer ahlaki kurallar belirli bir sayıda insanın toplanmasıyla değişebilir ise o zaman ETD sürekli olarak ihlal edilir.
+Yalnızca *bireyler* hareket eder - çoğunluk asla edemez. Eğer ahlaki kurallar belirli bir sayıda insanın toplanmasıyla değişebilir ise o zaman E.T.D sürekli olarak ihlal edilir.
 
-Eğer Bob ve Doug için, onlar "onun üzerinde oy üztünlüğü sağladıkları" için Jane'e tecavüz etmek ahlaki ise, Jane'in iki arkadaşı gelip Bob ve Doug'un şeytani arzularına karşı oy verdikleri zaman ne olur?
+Eğer Bob ve Doug için, onlar "onun üzerinde oy üstünlüğü sağladıkları" için Jane'e tecavüz etmek ahlaki ise, Jane'in iki arkadaşı gelip Bob ve Doug'un şeytani arzularına karşı oy verdikleri zaman ne olur?
 
 Yani, birden Bob ve Doug oy üstünlüğü sağlanmış kişiler olur, ve tecavüz onlar için tekrar "kötü" olur.
 
-Var olan hiçbir şey bu "oy üstünlüğü sağlamak" senaryolarını değiştirmezdi, ama aynı adamlar için ahlaki kurallara karşı bir serimiz olur - bir UPB ihlali, ve bu yüzden geçersiz.
+Var olan hiçbir şey bu "oy üstünlüğü sağlamak" senaryolarını değiştirmezdi, ama aynı adamlar için ahlaki kurallara karşı bir serimiz olur - bir U.P.B. ihlali, ve bu yüzden geçersiz.
 
 Sadece bir kaç el kalktığı veya indiği için, tecavüz iyi, sonra kötü, sonra tekrar iyi olamaz.
 
-Bu yüzden, eğer "çoğunluk kuralı" 'nın kulağa mantıklı olan ahlaki bir önerme ve mükemmel bir şekilde geçerli ahlaki bir kuram gibi geldiğini düşünüyorsanız, o zaman korkarım ki bu kitabın başlangıcına geri dönmeniz ve ona yeniden başlamanız gerekecek!☺
+Bu yüzden, eğer "çoğunluk kuralı"nın kulağa mantıklı olan ahlaki bir önerme ve mükemmel bir şekilde geçerli ahlaki bir kuram gibi geldiğini düşünüyorsanız, o zaman korkarım ki bu kitabın başlangıcına geri dönmeniz ve ona yeniden başlamanız gerekecek!☺
