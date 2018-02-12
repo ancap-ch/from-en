@@ -6,7 +6,7 @@ Maaaring mahuli ng baseball player ang lumilipad na bola kahit na wala siyang al
 
 Kung kaya kong saluhin ang lumilipad na bola. pagkatapos ay meron akong isang instinctual *pakiramdam* para sa pag uugali ng isang baseball sa paglipad. Ang aking instinctual na pag-unawa, gayunpaman, ay hindi nagbigay sakin ng kapasidad upang tumpak na ilunsad ang isang sasakyang pangkalawakan sa orbit jupiter. Mayroon akong isang agarang "maliit na katotohanan" - kung paano lumilipat ang bola - ngunit iyon ay hindi nagbibigay sa akin ng isang unibersal "mahusay na katotohanan"-kung paano ang bagay ay kumilos.
 
-In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
+Sa parehong paraan, ang aming karaniwang asal sa pag alis patungo sa mga aksyon tulad ng panggagahasa at pagpatay ay hindi kinakailangan mali. ngunit hindi nila binibigay sa amin ang kapasidad na lumikha o patunay na alisunod at mula sa obserbasyon pare-pareho ang mga teorya.
 
 If I propose a scientific theory that completely invalidates a baseball player’s ability to catch a fly ball, then I have the insurmountable challenge of explaining how the baseball player actually *does* catch the ball. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
 
