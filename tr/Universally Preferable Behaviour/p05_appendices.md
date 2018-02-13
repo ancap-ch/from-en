@@ -11,15 +11,15 @@ Aşağıda, lütfen ahlak için temel savının özetini bulunuz.
 5. Hem geçerli hem de kesin olan teorilere ''doğru'' denir
 6. ''Tercihler'' yaşam, düşünce, dil ve tartışma için gereklidir.
 7. Tartışmak, her iki tarafın hem nesnel hem de evrensel ''doğruyu'' ele almasını gerektirir.
-8. Böylece çok ağır tartışmalarda evrensel olarak tercih edilen davranışlar (ETD) kullanılır.
-9. ETD teorilerinin, mantıksal tutarlılık ve deneysel doğrulama testlerini geçmesi gerekir.
+8. Böylece çok ağır tartışmalarda evrensel olarak tercih edilen davranışlar (E.T.D.) kullanılır.
+9. E.T.D. teorilerinin, mantıksal tutarlılık ve deneysel doğrulama testlerini geçmesi gerekir.
 10. Uygulanabilir davranışı inceleyen ETD'nin alt kümesine "ahlak" denir
-11. ETD'nin alt kümesi olan hiçbir ''ahlak'' teorisi mantıksız veya deneysel kanıtlarla desteklenmiyorsa gerçek olarak kabul edilemez.
+11. E.T.D’nin alt kümesi olan hiçbir ''ahlak'' teorisi mantıksız veya deneysel kanıtlarla desteklenmiyorsa gerçek olarak kabul edilemez.
 12. Mantık ve kanıtla desteklenen ahlak teorileri doğrudur. Diğer ahlak teorileri yanlıştır.
 
 ## Ek B: Ahlak Kategorileri
 
-Aşağıda en yaygın eylem/kural kategorilerini ve onların temel farklılıklarını listeyen örnek bir tablo bulunmaktadır.
+Aşağıda en yaygın eylem/kural kategorilerini ve onların temel farklılıklarını listeleyen örnek bir tablo bulunmaktadır.
 
 | Eylem/Kural                 | Tercih? | Evrensel? | Uygulanabilirlik? | Eylemin başlatılması mağdur tarafından gerekli mi? | İhlal eden kimseler önlenebilir mi? | Ahlak Kategorisi          |
 | --------------------------- | ------- | --------- | ----------------- | -------------------------------------------------- | ----------------------------------- | ------------------------- |
@@ -31,16 +31,16 @@ Aşağıda en yaygın eylem/kural kategorilerini ve onların temel farklılıkla
 
 ## Ek C: ETC Podcastler
 
-ETD ve onun etkileri hakkındaki düşüncelerinizi geliştirmek istiyorsanız, şu podcastleri ([burada](www.freedomainradio.com) mevcut) faydalı bulabilirsiniz. Aynı zamanda [YouTube](www.youtube.com/freedomainradio) üzerindeki''Felsefeye Giriş'' videosunu da izleyebilirsiniz.
+E.T.D. ve onun etkileri hakkındaki düşüncelerinizi geliştirmek istiyorsanız, şu yayınları ([burada](www.freedomainradio.com) mevcut) faydalı bulabilirsiniz. Aynı zamanda [YouTube](www.youtube.com/freedomainradio) üzerindeki ''Felsefeye Giriş'' videosunu da izleyebilirsiniz.
 
 | Parça | Başlık                                               | Açıklama                                                                                                                                                                                                      |
 | -----:|:---------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     8 | Özgürlükçü Ahlakın Kanıtlanması                      | Devletçi ve kolektivistlerin ahlak teorileri yanlışken, özgürlükçülerin ahlak teorilerini kanıtlamaları gerekmesi özgürlükçülerin karşılaştıkları en önemli zorluklardan biridir. İşte bunu yapmanın yolları! |
-|   560 | Call In Show Dec 17 2006                             | Evrensel olarak tercih edilen davranış ve derecelendirme tarihi.                                                                                                                                              |
-|   562 | Çocuklar için Evrensel Olarak Tercih Edilen Davranış | ETD'nin ABC'si.                                                                                                                                                                                               |
+|   560 | Call In Show Aralık 17 2006                             | Evrensel olarak tercih edilen davranış ve derecelendirme tarihi.                                                                                                                                              |
+|   562 | Çocuklar için Evrensel Olarak Tercih Edilen Davranış | E.T.D'nin A.B.C'si.                                                                                                                                                                                               |
 |   872 | Tartışma ve ETD                                      | ETD'yi kullanmadan tartışabilir misin?                                                                                                                                                                        |
 |     7 | Etd'nin Abc'si                                       | Özgürlük için en güçlü argüman.                                                                                                                                                                               |
-|   148 | "Gereken" Meydan Okuma - Ahlak gerçekte varolamaz    | "Olması gereken"den "olan"a yolculuk                                                                                                                                                                          |
+|   148 | "Gereken" Meydan Okuma - Ahlak gerçekte var olamaz    | "Olması gereken"den "olan"a yolculuk                                                                                                                                                                          |
 |   260 | Ahlak Objektifliği                                   | Ahlakı tanımlamak için bilimsel yöntem kullanma.                                                                                                                                                              |
 |   261 | Ve Gerekli ve Etiktir                                | Ahlak sistemini savunan biri ahlaka razı olur.                                                                                                                                                                |
 |   318 | Ahlak Deneyi                                         | Soyut etiğin deneysel belgeleri.                                                                                                                                                                              |
@@ -56,6 +56,7 @@ Son olarak. bu fikirleri başka ilgili filozoflarla tartışmak isterseniz [Free
 
 ## Ek D: Yaptığım her ETD Tartışması...
 
-**ETD Şüphecisi**: ETD geçersizdir. **Ben**: Bunu nasıl biliyorsun? **ETD Şüphecisi**: Bu ispatlanmamış! **Ben**: Yani 'ispat' ETD mi? **ETD Şüphecisi**: Hayır, ETD hiçbir şeydir. **Ben**: "Hiçbir şey ETD değildir" ifadesi değil midir ETD? **ETD Şüphecisi**: Hayır, söylediklerim bunlar değil! Ben ETD'nin geçersiz olduğunu söylüyorum! **Ben**: Neden? **ETD Şüphecisi**: Çünkü bu yanlış! **Ben**: Yani ETD gerçek argümanları sunmak mıdır? **ETD Şüphecisi**: Hayır! **Ben**: Yani doğru olmayan argümanlarla ilgili yanlış bir şey yok mu? **ETD Şüphecisi**: Hayır. **Ben**: Öyleyse neden yanlış bir argümana karşı çıkıyorsunuz? **ETD Şüphecisi**: Huh, Sadece kişisel tercihim. Sadece yalancılıktan hoşlanmıyorum. **Ben**: Yani sadece kişisel bir tercihi mi savunuyorsunuz? **ETD Şüphecisi**: Elbette! **Ben**: Öyleyse neden sizin kişisel tercihiniz benimkinin önüne geçiyor? ETD'yi ben severim, siz sevmessiniz - yani ikimizin de kişisel tercihini neden tartışıyoruz? **ETD Şüphecisi**: Çünkü ETD geçersizdir! **Ben**: Neden geçersizdir? **ETD Şüphecisi**: Çünkü bu çelişkili! **Ben**: Yani ETD çelişkili mi? **ETD Şüphecisi**: Hayır! Ve tekrar tekrar aynı noktalara değinmeyi kesin! Ve Kant / Hegel / Hume vb. okuyun.
+**E.T.D. Şüphecisi**: E.T.D. geçersizdir. **Ben**: Bunu nasıl biliyorsun? **E.T.D. Şüphecisi**: Bu ispatlanmamış! **Ben**: Yani 'ispat' E.T.D. mi? **E.T.D. Şüphecisi**: Hayır, E.T.D. hiçbir şeydir. **Ben**: "Hiçbir şey E.T.D. değildir" ifadesi değil midir E.T.D.? **E.T.D. Şüphecisi**: Hayır, söylediklerim bunlar değil! Ben E.T.D'nin geçersiz olduğunu söylüyorum! **Ben**: Neden? **E.T.D. Şüphecisi**: Çünkü bu yanlış! **Ben**: Yani E.T.D. gerçek argümanları sunmak mıdır? **E.T.D. Şüphecisi**: Hayır! **Ben**: Yani doğru olmayan argümanlarla ilgili yanlış bir şey yok mu? **E.T.D. Şüphecisi**: Hayır. **Ben**: Öyleyse neden yanlış bir argümana karşı çıkıyorsunuz? **E.T.D. Şüphecisi**: Heh, Sadece kişisel tercihim. Sadece yalancılıktan hoşlanmıyorum. **Ben**: Yani sadece kişisel bir tercihi mi savunuyor sunuz? **E.T.D. Şüphecisi**: Elbette! **Ben**: Öyleyse neden sizin kişisel tercihiniz benimkinin önüne geçiyor? E.T.D'yi ben severim, siz sevmezsiniz - yani ikimizin de kişisel tercihini neden tartışıyoruz? **E.T.D. Şüphecisi**: Çünkü E.T.D. geçersizdir! **Ben**: Neden geçersizdir? **ETD Şüphecisi**: Çünkü bu çelişkili! **Ben**: Yani E.T.D. çelişkili mi? ** E.T.D. Şüphecisi **: Hayır! Ve tekrar tekrar aynı noktalara değinmeyi kesin! Ve Kant / Hegel / Hume vb. okuyun.
 
 *vb vb vb...*
+
