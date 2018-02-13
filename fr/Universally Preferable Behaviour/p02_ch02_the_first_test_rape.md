@@ -26,43 +26,35 @@ If a man hanging from a tree over a canyon lets go because he lacks the strength
 
 #### The Coma Test
 
-Intuitively, it is hard to imagine that any theory ascribing immorality to a man in a coma could be valid. Any ethical theory that posits a positive action as universally preferable behaviour faces the challenge of “the coma test.” If I say that giving to charity is a moral absolute, then clearly not giving to charity would be immoral. However, a man in a coma is clearly unable to give to charity, and thus would, by my theory, be classified as immoral. Similarly, a man who is asleep, or has no money to give – or the man currently *receiving* charity – would all be immoral.
+Intuitivement, il est difficile d'imaginer que toute la théorie de l'attribution de l'immoralité d'un homme dans le coma pourrait être valable. Toute la théorie de l'éthique, qui postule une action positive comme universellement préférable de comportement doit relever le défi de “la chevelure”. Si je dis que le fait de donner à un organisme de bienfaisance est une morale absolue, évidemment, de ne pas donner à la charité serait immoral. Cependant, un homme dans le coma est manifestement incapable de donner à la charité, et, donc, en théorie, être classés comme immoral. De même, un homme qui dort, ou n'a pas d'argent à donner – ou de l'homme actuellement *la réception* la charité – seraient tous être immoral.
 
-This is another central problem with any theory that posits a positive action such as “rape” as moral. At any given time, there are any number of people who are unable to perform such positive actions, who must then be condemned as evil, even though they have no capacity to be “good.” However, if it is impossible to avoid being “evil,” then clearly evil as a concept makes no sense. In the example above of the rock crashing down a hill, the rock is not “evil” for hitting your car, since it has no capacity to avoid it of its own free will. If a man’s brakes fail right after they have been serviced, then it is not his responsibility for failing to come to a stop. If he has never once had his brakes serviced in ten years, then his irresponsibility is the proximate cause of his continued momentum, and he can be blamed.
+C'est un autre problème central pour toute théorie qui postule une action positive comme “viol” que moral. À un moment donné, il ya un certain nombre de personnes qui sont incapables d'effectuer ces actions positives, qui doit être condamné comme un mal, même si ils n'ont pas la capacité à être “bon”. Toutefois, s'il est impossible d'éviter d'être “mal”, alors clairement mal comme concept n'a aucun sens. Dans l'exemple ci-dessus de la roche de s'écraser en bas d'une colline, le rock n'est pas “mal” pour frapper votre voiture, car il n'a pas la capacité à éviter c'est de sa propre volonté libre. Si un homme freins manquent juste après qu'ils ont été traitées, alors il n'est pas de sa responsabilité pour n'avoir pas venus à un arrêt. Si il a jamais eu sa freins desservie en dix ans, puis son irresponsabilité est la cause immédiate de son élan, et il peut être blâmé.
 
-In this way, the concept of “avoidability” retains its use. A man in a coma is unable to avoid lying in his bed, since he is in a state of quasi-unconsciousness. Since he is unable to avoid his actions – or inaction in this case – his immobility cannot be immoral.
-
-At this point, the objection can quite reasonably be raised that if a man in a coma cannot be immoral, then he also cannot be moral. However, earlier we said that the opposite of an immoral action must be moral. If we propose the moral rule, “thou shalt not rape,” then can we call the man in a coma *moral*, since he does not rape?
-
+De cette façon, le concept de “évitabilité” conserve son utilisation. Un homme dans le coma est pas en mesure d'éviter couché dans son lit, car il est dans un état de quasi-inconscience. Depuis qu'il est incapable d'éviter son action – ou l'inaction dans ce cas – son immobilité ne peut pas être immoral.
+À ce stade, l'objection peut très raisonnablement être soulevées que, si un homme dans le coma ne peut pas être immoral, alors il ne peut pas être moral. Toutefois, plus tôt nous dit que c'est le contraire d'une action immorale doit être moral. Si nous proposons la règle morale, “tu ne te feras pas de viol,” alors que l'on peut appeler l'homme dans le coma *morale*, car il n'a pas viol?
 #### Capacity
 
-The concept of “avoidability” works in the positive as well as in the negative. If I have lost my genitals in some ghastly accident, am I moral for refraining from rape? It would seem hard to argue that I could be, since genital rape at least is impossible for me. Similarly, we may call a man “generous” if he gives one hundred dollars to a beggar – however, we would doubtless revise our estimation if it turned out that he gave away his money while sleepwalking, and woefully regretted his action on waking.
+The concept of “avoidability” works in the positive as well as in the negative. If I have lost my genitals in some ghastly accident, am I moral for refraining from rape? It would seem hard to argue that I could be, since genital rape at least is impossible for me. Similarly, we mayLe concept de “évitabilité” fonctionne dans le positif comme dans le négatif. Si j'ai perdu mes organes génitaux, dans certains horrible accident, je suis la morale pour s'abstenant de viol? Il semble difficile de prétendre que je pourrais être, depuis génitales viol au moins est impossible pour moi. De même, qu'on peut appeler un homme “généreux” s'il donne une centaine de dollars pour un mendiant – cependant, nous permettrait sans doute de revoir notre estimation si il s'est avéré qu'il a donné son argent, tandis que le somnambulisme, et terriblement regretté son action sur le réveil. call a man “generous” if he gives one hundred dollars to a beggar – however, we would doubtless revise our estimation if it turned out that he gave away his money while sleepwalking, and woefully regretted his action on waking.
 
-Thus we can reasonably say that where choice is absent, or inapplicable, morality is also absent, or inapplicable. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
-
-With that in mind, let us continue our examination of rape.
+Ainsi, nous pouvons raisonnablement dire que là où le choix est absent, ou inapplicable, la morale est, elle aussi, absente, ou inapplicable. Ainsi, l'homme dans le coma, tandis que ses actions ne peuvent pas être considérés comme le mal, ils ne peuvent être considérés comme bons. Il existe dans l'état sans choix, comme un enfant, ou un animal, il peut donc raisonnablement être exemptés des règles de morale, car il y a un état physique qui objectivement le différencie d'un homme qui peut choisir, qui est autorisée en vertu de l'UPB.
+Avec cela à l'esprit, nous poursuivons notre examen de viol.
 
 ### Aesthetically Positive
 
-Aesthetically positive actions (APAs) are universally preferable, but not enforceable through violence, since aesthetically negative actions do not initiate the use of force. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
+Esthétiquement actions positives (App) sont universellement préférable, mais pas exécutoire par le biais de la violence, car esthétiquement à des actions négatives de ne pas entreprendre de l'usage de la force. Comme nous en avons discuté ci-dessus, si je suis en retard en réunion vous, je n'ai pas l'origine de l'utilisation de la force contre vous, et je n'ai pas supprimé votre capacité de choisir, ou d'éviter la situation.
 
-If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
+Si nous disons que les App peuvent être exécutées par le biais de la violence, alors nous disons que l'initiation de la violence qui est moralement bon.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+Si nous proposons une règle morale que l'initiation de la violence qui est moralement bon, cette règle doit faire face à tous la même logique impossibilités que la règle que “le viol est moralement bon.”
 
-Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+Deux hommes dans une chambre ne peut être à la fois moralement bon en même temps, depuis que l'un d'entre eux doit être recours à la violence contre l'autre, et l'autre doit être de lui résister car il n'est pas de lui résister, il est, par définition, pas de violence, comme dans le cas du chirurgien nous avons discuté ci-dessus. Ainsi, la vertu ne peut être activée qu'en résistant à la vertu, et de deux hommes dans la même situation ne peut pas être moral, en même temps, et ainsi de suite – qui sont tous des violations de la REMONTÉE.
+Ainsi, nous savons que le viol ne peut pas être un app.
+Nous pouvons le vérifier en examinant les raisons pour lesquelles “le temps” *est* un app.
+Tout d'abord, nous avons instinctivement comprendre qu'il est plus juste de rejeter un ami pour être perpétuellement en retard qu'il est de rejeter un ami de ne pas aimer la glace à la crème.
+Pourquoi est-ce?
 
-Thus we know that rape cannot be an APA.
-
-We can confirm this by reviewing the reasons why “being on time” *is* an APA.
-
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
-
-Why is that?
-
-Once again, the UPB framework comes to the rescue.
-
-An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
+Une fois de plus, la REMONTÉE cadre vient à la rescousse.
+Un app est un *non coercitif de la règle qui peut être rationnellement appliquée pour les deux parties simultanément.
 
 For instance, if my APA is: “be on time,” then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
 
@@ -72,8 +64,7 @@ With rape though, as we have seen above, it is impossible for two people to perf
 
 On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
 
-Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
-
+Ce n'est pas seulement un rang contradiction dans les termes de la syntaxe, mais elle aussi immédiatement échoue le test de la REMONTÉE. Si je préfère le jazz à toutes les autres formes de musique, mais vous préférez la musique classique pour toutes les autres formes, et si les préférences personnelles sont universellement préférable, alors vous devriez vous préférez le jazz parce que je le fais, et je préférerais classique parce que vous le faites. Ceci, bien sûr, est impossible, car il faudrait que nous avons tous les deux *simultanément préfère à la fois jazz et classique au-dessus de toutes les autres formes de musique*. Vous devez passer votre préférence pour le jazz, la raison de ma préférence – mais je dois en même temps changer ma préférence pour le classique, en raison de votre préférence. C'est comme dire que vous devez à la fois à lancer et à attraper la même base-ball exactement au même moment, logique et physique de l'impossibilité.
 Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
 
 Thus rape cannot fall into the category of APAs.
@@ -88,7 +79,7 @@ If we propose the moral rule: “personal preferences must be violently inflicte
 
 Personal preferences cannot be justly inflicted upon other people, because that would create an insurmountable logical paradox.
 
-If I say that liking the band Queen above all others is universally preferable behaviour, on what grounds could I justify that statement? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
+Si je dis que le goût de la bande de la Reine au-dessus de tous les autres est universellement préférable de comportement, sur quelles bases pourrait-je justifier cette déclaration? Seulement en disant que toutes les préférences personnelles devrait être infligée à d'autres personnes. Cependant, si mes préférences personnelles peuvent être infligée à volonté, puis par la définition même de l'UPB, vos préférences personnelles peuvent également être infligée *moi*. On ne peut donc pas être à la fois moral en même temps, car cela impliquerait que tous les deux nous préférons nos propres bandes alors que dans le même temps, l'abandon, la préférence pour le préféré des bandes de l'autre. En d'autres termes, je dois simultanément pense que la Reine est le meilleur de la bande, et que La Police est le meilleur groupe. C'est une impossibilité logique, qui est une des raisons pour laquelle de simples préférences personnelles ne peuvent pas être universellement applicables.
 
 Thus if rape is considered to be a merely personal preference, then it cannot logically be enforced upon anybody else. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
 
