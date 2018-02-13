@@ -34,9 +34,9 @@ h. **Lincensor** nangangahulugan na ang indibidwal(s) o mga entity ng karapatan 
 
 i. **NonCommercial** nangangahulugan na hindi ukol sa nilaan o direkta patungo sa komersyal sa bentahi ng gantimpala sa pananalapi. Para sa mga layunin ng publikong Lesensya na ito, ang palitan ng lesensya sa Materyal at iba pang materyal ay paksa sa karapatang magpalathala at kahalintulad sa karapatan mula sa digital na pagbahagi ng paly kahalintulad sa nangangahulugan na NonCommercial ang nakalaan na ito ay walang pambayad sa pananalapi sa koneksyon kasama ang palitan.
 
-j. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+j. **Share**nangangahulugan na maglaan ng materyal para sa publiko sa kahit anong paraan o proseso na nangangailangan ng permiso sa ilalim ng Lesensyadong pang Karapatan, kagaya ng pagpaparami, pampublikong pagpapakita, pampublikong pagganap, pagsasabog, kumonikasyon o pag-angkat, at para magawa ang materyal na gagamitin sa pampublikong kasama ang mga pamamaraan ng mga miyembro para ma-access ang publikong materyal mula sa lugar at tamang oras na napili nila sa bawat isa.
 
-k. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+k. **Sui Generis Database Rights**nangangailangan na ang karapatan sa karapatang magpalathala ay nag reresulta derekta mula sa 96/9/EC ng Europa Parlyamento at ng konseho noong 11 Marso 1996 legal na proteksyon sa mga database bilang wasto at/o na nagtagumpay, halintulad ng iba pa katumbas ng esensyal sa karapatan kahit saan panig ng mundo.
 
 l. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
 
