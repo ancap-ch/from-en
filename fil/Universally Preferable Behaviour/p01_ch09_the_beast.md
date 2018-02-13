@@ -22,11 +22,11 @@ Ang mga Pribadong Kriminal na umiiral, siyempre, *subalit halos walang epekto sa
 
 Sa kabilang banda, ako ay nagkaruon ng daan-daang libong dolyar at ito ay sapilitang kinuha sa akin sa pamamagitan ng moralidad na mga teoriya na ang "pagbubuwis ay mabuti." Ako ay napilitang lumumpasay dahil sa matinding pahirap at pagkasira ng isip dahil sa mga mentalidad na gulags ng mga pampublikong paaralan para sa mga labing-apat na taon, base sa moralidad na teoriya na "ang estado ng edukasyon ay isang kagalingan."[^12]
 
-Ang batang lalaki (at ang lalaki) na nagnakaw ng pera ko ay walang pag aalinlangang ginamit ito para sa pansariling kasiyahan o pangangailangan. The government that steals my money, on the other hand, uses it to oppress the poor, to fund wars, to pay the rich, to borrow money and so impoverish my children – and to pay the salaries of those who steal from me.
+Ang batang lalaki (at ang lalaki) na nagnakaw ng pera ko ay walang pag aalinlangang ginamit ito para sa pansariling kasiyahan o pangangailangan. Ang gobyernong kumuha ng pera ko, sa kabilang banda, ginamit ito upang paghimagsikan ang mahihirap, upang pondohan ang mga digmaan, upang bayaran ang mayayaman, upang humiram ng pera at sa gayon paghihirapan ng mga anak ko - at upang mabayaran ang mga kita ng nagnakaw sa akin.
 
-If I were a doctor in the middle of a great city struck down by a terrible plague, and I discovered that that plague was being transmitted through the water pipes, what should my rational response be – if I claimed to truly care about the health of my fellow citizens?
+Kung ako ay isang doktor sa gitna ng malaking lungsod na nasakop ng kakila-kilabot na salot, at natuklasan ko na ang salot ay kumakalat sa pamamagitan ng tubo ng tubig, ano ang dapat na tugon ko - kung inaangkin kong ako ay tunay na nagmamalasakit sa kalusugan ng aking mga kapwa mamamayan?
 
-Surely I should cry from the very rooftops that their drinking water was causing the plague. Surely I should take every measure possible to get people to understand the true source of the illness that struck them down.
+Tiyak kong dapat ipahayag na ang kanilang iniinom na tubig ang sanhi ng salot. Tiyak kong dapat sukatin ang kakayahan ng tao na maunawaan ang tunay na pinagmumulan ng karamdaman na tumama sa kanila.
 
 Surely, in the knowledge of such universal and preventable poisoning, I should not waste my time arguing that the true danger you faced was the tiny possibility that some random individual might decide to poison you at some point in the future.
 
