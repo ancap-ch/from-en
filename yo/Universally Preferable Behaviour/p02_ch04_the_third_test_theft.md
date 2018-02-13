@@ -68,7 +68,7 @@ Fún ìdí tí iṣẹ dáadáa, ti ki ba ṣe ìwà pípé, àyípadà ti kò n
 
 Lọnà kànnà ni, ọkùnrin kan to ní àrùn ọpọlọ jẹ ẹnìkán ti ko lè dúró fún ìhùwàsí rẹ. Ọkùnrin kan pẹlú IQ ọgọ́ta àti márùn fi diẹ jù ọmọdé lọ - ọkùnrin kan pẹlú IQ ọgọrun jẹ́ àgbàlagbà niwọn. Ti a ba le sọ wípé ọkùnrin tó bá ní IQ ọgọrin ti lè ṣe ojúṣe, a jẹ wípé pẹlú àlàyé a n so wípé ọkùnrin tó ní IQ adọ́rin àti mẹsan kò lè ṣe ojúṣe - ṣé èyí je ìyapa to fojú hàn, to je déédé, ati ohun tó daju? Kò rí bẹ́ẹ̀, ṣugbọn ki awọn agbekalẹ le ṣe mú lò, odiwọn "ó dára tó" ati ìṣirò iye/ànfààní ti o ba làákàyè mu gbọdọ̀ wa ni ipò. Bi a ti sọ lókè, kò sí omi tó mọ́ tán, ṣugbọn ìdúró dé èyí tó mọ́ tán yíò mu kí okunrin kan kú pẹlú òùngbẹ.
 
-Given that the question of moral responsibility and intellectual capacity only applies to a very small percentage of people right on the border, and that creating objective and perfect tests is very likely to prove impossible, there will inevitably be some “rules of thumb” that win the day. We can only assume that, since biologists live with this kind of occasional subjectivism every day, moral philosophers can somehow survive as well.
+Given that the question of moral responsibility and intellectual capacity only applies to a very small percentage of people right on the border, and that creating objective and perfect tests is very likely to prove impossible, there will inevitably be some “rules of thumb” that win the day. A lè rò wípé, nígbàtí àwọn onímọ̀ ìjìnlè nípa ẹdá ènìyàn lè ma gbe pelu irú èròngbà gbogbo ìgbà lojojumọ, àwọn ọlọgbọn ìwà na lé mú orí bọ bákanáà.
 
 ### Dukia gẹgẹbi àjọni
 
