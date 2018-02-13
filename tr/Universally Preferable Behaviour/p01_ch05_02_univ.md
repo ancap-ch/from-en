@@ -2,7 +2,7 @@
 
 Yukarıda tartıştığımız üzere, *tercih edilebilir davranış içermeyen* önermeler aşılması zor bir takım mantıksal ve deneysel problem barındırır. ''Evrensel olarak kabul edilebilir davranış'' beş temel sebepten dolayı geçerli bir kavram *olmalı*dır.
 
-Birincisi mantıksal: Eğer evrensel olarak tercih edilebilir önermenin geçerli olmasına karşı çıkarsam, yanlış konuşanları düzeltmeyi tercih etmek gibi, yanlışlığa karşı hakikat tercihimi zaten göstermişimdir. Evrensel olarak tercih edilen bir davranış olmadığını söylemek birinin kulağına sesin var olmadığını bağırmaya benzer - bu durum doğal olarak kendisiyle çelişir. Diğer bir deyişle; evrensel olarak tercih edilebilir *diye bir şey yoksa* eğer, o zaman birileri evrensel olarak tercih edilebilir davranış diye bir şey var diyen herkese karşı *duruyordur*. Her halükarda, eğer bir şeyler yapmak ''gerekirse'', birileri evrensel olarak tercih edilebilir davranışları yaratır. Dolayısıyla evrensel olarak tercih edilen davranışlar - veya ahlak kuralları - geçerli olmalıdır.
+Birincisi mantıksal: Eğer evrensel olarak tercih edilebilir önermenin geçerli olmasına karşı çıkarsam, yanlış konuşanları düzeltmeyi tercih etmek gibi, yanlışlığa karşı hakikat tercihimi zaten göstermişimdir. Evrensel olarak tercih edilen bir davranış olmadığını söylemek birinin kulağına sesin var olmadığını bağırmaya benzer - bu durum doğal olarak kendisiyle çelişir. Diğer bir deyişle; evrensel olarak tercih edilebilir *diye bir şey yoksa* eğer, o zaman birileri evrensel olarak tercih edilebilir davranış diye bir şey var diyen herkese karşı *duruyor dur*. Her şekilde, eğer bir şeyler yapmak ''gerekirse'', birileri evrensel olarak tercih edilebilir davranışları yaratır. Dolayısıyla evrensel olarak tercih edilen davranışlar - veya ahlak kuralları - geçerli olmalıdır.
 
 Kıyaslamalı olarak, bu:
 
@@ -32,7 +32,7 @@ Bu yüzden; tartışacak şekilde hayattaysa; nefes almak, yemek ve içmek gibi 
 
 Bilimsel metot deneysel teyit gerektirdiği için, hipotezimizi doğrulamak için de gerçekliğe bakmamız gerekiyor - ve burada, evrensel olarak tercih edilebilir davranışların geçerliliği tamamen desteklenmektedir.
 
-Her aklı başında insan bir çeşit ahlak kuralına inanır. Ahlak kurallarını neyin *oluşturduğu*yla ilgili bazı anlaşmazlıklar olsa da, herkes ahlak kurallarının geçerliliğinden emindir - bazı bilim adamları katılmasa da çoğu, bilimsel metodun geçerliliğini kabul eder. Dünyanın düz değil de yuvarlak olduğu tartışılabilir - ki ahlak tanımını değiştirmeye benzer - ama dünyanın hiç var olmadığı tartışılamaz - ki evrensel olarak öncelikli davranış diye bir şeyin var olmadığını tartışmaya benzer.
+Her aklı başında insan bir çeşit ahlak kuralına inanır. Ahlak kurallarını neyin *oluşturduğu* ile ilgili bazı anlaşmazlıklar olsa da, herkes ahlak kurallarının geçerliliğinden emindir - bazı bilim adamları katılmasa da çoğu, bilimsel metodun geçerliliğini kabul eder. Dünyanın düz değil de yuvarlak olduğu tartışılabilir - ki ahlak tanımını değiştirmeye benzer - ama dünyanın hiç var olmadığı tartışılamaz - ki evrensel olarak öncelikli davranış diye bir şeyin var olmadığını tartışmaya benzer.
 
 Yada:
 
@@ -45,7 +45,7 @@ Evrensel öncelikli davranışların geçerliliği için olan dört argüman da 
 
 Örneğin, eğer besin ulaşılabilir olsaydı, neredeyse tüm insanlar her gün yemek yemeyi tercih eder. Hava soğuduğu zaman tüm insanlar sıcak bir yer arar. Neredeyse tüm ebeveynler çocuklarını beslemeyi, barınak sağlamayı ve eğitmeyi seçer. Evrensel öncelikli davranışların çokluğunu ve insan doğasının bir parçası olduğunu gösteren, insanlar arasında benzer tercihlerin pek çok örneği mevcuttur.
 
-Yukarıda belirtildiği gibi, geçerli hiçbir fizik teorisi çocukların uçan bir topu yakalayabileceği gerçeğini reddedemez. Aynı şekilde, geçerli hiçbir etik teorisi EOÖD 'nin onaylanmasını sağlayacak sonsuz sayıda kanıtı reddedemez.
+Yukarıda belirtildiği gibi, geçerli hiçbir fizik teorisi çocukların uçan bir topu yakalayabileceği gerçeğini reddedemez. Aynı şekilde, geçerli hiçbir etik teorisi E.O.Ö.D'nin onaylanmasını sağlayacak sonsuz sayıda kanıtı reddedemez.
 
 Yada:
 
@@ -69,9 +69,9 @@ Yada:
 5. Bu yüzden; evrensel olarak öncelikli davranış esasında en başarılı hareket eden insan aklı olmalıdır.
 6. Bu yüzden; evrensel olarak öncelikli davranış geçerli olmalıdır.
 
-EOÖD 'nin geçerliliği ve varlığını destekleyen bir çok argüman getirebiliriz, ama savımızı yukarıdaki gibi dinlemeli ve EOÖD 'ın doğasını incelemeye geçmeliyiz.
+E.O.Ö.D'nin geçerliliği ve varlığını destekleyen bir çok argüman getirebiliriz, ama savımızı yukarıdaki gibi dinlemeli ve E.O.Ö.D'nin doğasını incelemeye geçmeliyiz.
 
-#### EOÖD: İsteğe bağlı Ve Nesnel
+#### E.O.Ö.D: İsteğe bağlı ve Nesnel
 
 Evrensel olarak öncelikli davranışın geçerliliğini kanıtladığımız için ahlak sorumuz artık değişir. Ahlak geçerli *olduğu* için; hangi teoriler onu ölçüp, sınıflandırıp, açıklayıp tahmin edebilir?
 
@@ -83,7 +83,7 @@ Canlı organizmalar maddesel gerçekliğin bir parçasıdır, ve maddesel gerçe
 
 Öyleyse, ahlak geçerli bir kavram olduğu için bir sonraki soru şudur: Ahlaklılık, ne derece veya ölçüde geçerlidir?
 
-Yukarıda değinildiği üzere, herhangi bir bilimsel teorinin ilk testi *evrensellik*tir. Bir fizik teorisinin *tüm* maddelere uyması gerektiği gibi, insanoğlunun tercih edilebilir hareketlerini tanımlamayı iddia eden bir ahlak teorisi de*** tüm** insanoğluna uymalıdır*. Belirli bir eylemin Suriye'de *doğru* ama San Francisco 'da *yanlış* olduğunu savunan hiçbir ahlak teorisi geçerli olamaz. A Kişisi 'nin X 'i yapmak zorunda *olduğu*nu, ama B Kişisi 'nin X 'i *asla* yapmaması gerektiği söylenemez. Dün *yanlış* olanın bugün *doğru* olduğu söylenemez - yada tam tersi. Eğer öyleyse, bu yanlış ve düzeltilmesi veya atılması gerekir.
+Yukarıda değinildiği üzere, herhangi bir bilimsel teorinin ilk testi *evrensellik*tir. Bir fizik teorisinin *tüm* maddelere uyması gerektiği gibi, insanoğlunun tercih edilebilir hareketlerini tanımlamayı iddia eden bir ahlak teorisi de*** tüm** insanoğluna uymalıdır*. Belirli bir eylemin Suriye de *doğru* ama San Francisco da *yanlış* olduğunu savunan hiçbir ahlak teorisi geçerli olamaz. A Kişisinin X 'i yapmak zorunda *olduğu*nu, ama B Kişisi 'nin X 'i *asla* yapmaması gerektiği söylenemez. Dün *yanlış* olanın bugün *doğru* olduğu söylenemez - yada tam tersi. Eğer öyleyse, bu yanlış ve düzeltilmesi veya atılması gerekir.
 
 Herhangi bir ahlak teorisinin geçerli olması için *mantıksal tutarlılık* kriterini de geçmesi gerekir. Maddenin davranışı mantıklı, tutarlı ve öngörülebilir olduğundan, maddeyi içeren - organik yada inorganik - tüm teorilerin de mantıklı, tutarlı ve öngörülebilir olması gerekir. Görelilik teorisi, ışık hızının aynı anda hem sabit hem de sabit olmadığını tartışamaz veya saniyede yüz seksen altı bin kilometre hızda, beş kilometre derinlikte ve yeşil renkte olduğunu da tartışamaz.
 
