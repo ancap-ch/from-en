@@ -41,16 +41,16 @@
 
 Для того, чтобы начать наше обсуждение этики, важно, чтобы мы понимали природу *противоречивых доводов*  
 
-В экономике теория не может быть действительной, если она требует одновременного повышения и снижения цен. В физике теория не может быть действительной, если она требует, чтобы газы расширялись и сокращались одновременно. В математике теория не может быть действительной, если она требует, чтобы два плюс два равнялись пяти, поскольку "пять" - это просто еще один способ описания двух плюс три, а не двух плюс два, и поэтому, чтобы сказать, что два плюс два равняются пяти, означает, что пять равняются четырем, что является противоречивым.  
+In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
 
-Вообще, любая теория, противоречащая себе в высказываниях, не может быть действительной. Она не требует внешнего опровержения, поскольку она опровергает сама себя. Нам не нужно изучать каждый уголок и трещину во Вселенной, чтобы определить, что "квадратного круга" не существует. Само понятие является противоречивым, и, таким образом, опровергает себя в высказывании.  
+In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
 
-Если я представлю вам сложное математическое доказательство, и Вы заметите, что в самом начале я заявляю, что мое доказательство основывается на том, что два плюс два делают одновременно четыре и пять, вам не нужно читать дальше, чтобы знать, что мое доказательство недействительно.  
+If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
 
-Точно так же, как упоминалось ранее, если я подойду к вам и скажу: "я не существую", моя диссертация автоматически самоуничтожается. Если я могу донести до вас, что я не существую, то, очевидно, я существую.  
+Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
 
-Если я подойду к вам и скажу: "нет такой вещи, как истина", тогда я сделаю заявление, которое я считаю истинным, утверждая, что истина не существует. Опять же, мой аргумент самоуничтожается.  
+If I come up to you and say: “There is no such thing as truth,” then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
 
-Если я говорю вам, что "Язык бессмысленен”, то я также противоречил себе. Для того, чтобы я устно говорил, что язык бессмыслен, язык должен иметь хотя бы какой-то смысл.  
+If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
 
-Если я скажу вам, что "ваши чувства недействительны", то мой аргумент также самоуничтожается, поскольку я использую ваше чувство слуха, чтобы сообщить вам, что ваше чувство слуха недействительно. Если я могу успешно донести свою диссертацию до вас, то ваше чувство слуха должно быть действительным. Поэтому я должен предположить, что ваши чувства действительны, чтобы убедить вас, что ваши чувства не действительны, которые не могут стоять.
+If I tell you that “Your senses are invalid,” then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
