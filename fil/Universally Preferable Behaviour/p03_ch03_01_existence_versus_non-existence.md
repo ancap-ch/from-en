@@ -26,7 +26,7 @@ Ang dahilan Kung bakit kami ay gumugugol labis na oras sa pagharap sa "Alternati
 
 At sa aking sariling karanasan, nalaman ko na ang pumatay ay Mali. Ang gumawaga sa pamamagitan ng panukala ang pagpatay ay normal na mali ang pinaka magandang halimbawa ay, Lubos akong nag aalinlangan kahit kanino at nagulat ng magkaruon ng normal na instink kunpirma sa pamamagitan ng mahigpit na abstract sa kadahilanan ng UPB. Ang seksiyon na ito, gayunman, ito ay oposiyal na pinayagan para sa iyo para masimulan ang maging tunay na shocked.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Ang pinakadakilang leaps forward sa sayantipikong pang-unawa ay tinatawag na "tearya ng pagkakaisa." Einstein dekada na Ang ginugol at sinisikap maayos ang isang pinag-isang teorya Ng patlang; at mga teorya ng physic na nagiisa sa malakas at mahinang pwersa, Ang electromagnetism, gravity at Kung anu ano pa ay mananatiling mailap.
 
 UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
 
