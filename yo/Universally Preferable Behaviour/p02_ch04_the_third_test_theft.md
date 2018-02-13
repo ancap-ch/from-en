@@ -76,9 +76,9 @@ UPB sí fun wa ni àṣàyàn lórí ẹtọ dukia. Kò le jẹ ọràn wípé a
 
 Kò tún lè jẹ ọràn wípé àwọn ọkùnrin ní ìdá adọta nínú ọgọrùn ẹtọ dukia.
 
-Ti mo ba jiyàn: "Awọn ọkùnrin ní ìdá adọta nínú ọgọrùn ẹtọ dukia nìkan," nigbana mo ti dá ìtakö nlá kan kalẹ. Ó le béèrè lọwọ mi wipe ewo nínú ọrọ ti mo kọ kalẹ ní *kìí ṣe* ipilẹṣẹ mi. If I only have fifty percent property rights, then clearly I only have fifty percent control over my own body – if I put forward the above sentence, then clearly I am only in control of fifty percent of that sentence, since I only have fifty percent control over my voice. Who, then, is responsible for the other fifty percent of my sentence?
+Ti mo ba jiyàn: "Awọn ọkùnrin ní ìdá adọta nínú ọgọrùn ẹtọ dukia nìkan," nigbana mo ti dá ìtakö nlá kan kalẹ. Ó le béèrè lọwọ mi wipe ewo nínú ọrọ ti mo kọ kalẹ ní *kìí ṣe* ipilẹṣẹ mi. Ti mo ba ni ìdá adọta nínú ọgọrùn ẹtọ dukia, a jẹ wípé ìdá adọta nínú ọgọrùn ìkápá ni mo ni lori ara mi - ti mo ba sọ ọrọ tó wà lókè yìí, ọ fihàn wípe ìkápá ìdá adọta nínú ọgọrùn ni mo ní lórí ọrọ náà, nígbàtí onje wípe ìkápá ìdá adọta nínú ọgọrùn ni mo ní lórí ohùn mi. Ta wa ni, nigbanà, ló ní ojúṣe lori ìdá adọta nínú ọgọrùn toku ọrọ mi?
 
-This may sound esoteric, but it is a deadly serious question, for reasons that we will get to shortly.
+Èyí lè fẹ ruju, ṣugbọn ìbéèrè nlá ni ọ jẹ, nípa awọn ìdí tí a má mẹnu ba laipẹ.
 
 Let us say that we can somehow magically bypass the “fifty percent ownership of the body” problem, and say that human beings only have fifty percent property rights when it comes to *external* objects.
 
