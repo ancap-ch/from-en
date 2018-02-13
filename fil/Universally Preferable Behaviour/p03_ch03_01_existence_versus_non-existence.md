@@ -32,11 +32,11 @@ UPB bilang isang balangkas, gayunman, hindi lamang napapatunayan ang moral insti
 
 #### Aksyon ng UPB
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+Ang balagkas ng UPB ay nag papatunay sa mga panukalang moral sa pamamagitan ng paghingi na sila ay pare-pareho, at ang unibersal sa panahon ng oras, lugar at bawat tao.
 
-If we accept UPB, we must also accept the following corollary:
+Kung tatangapin ko ang UPB, dapat kudin tangapin ang mga sumusunod na corollary:
 
-- Moral propositions are independent of costume.
+- Ang moral na panukala ay walang kaugnayan sa costume.
 
 What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
 
