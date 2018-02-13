@@ -12,11 +12,11 @@ Conforme mencionado acima, as proposições sobre o comportamento universalmente
 4. É tão neutro ou sem conteúdo ético ou estético, como correr para apanhar o autocarro.
 5. É pessoalmente negativo (predilecção por não comer sorvete).
 6. É esteticamente negativo ("descortesia" e "atraso").
-7. O estupro é perverso (universalmente proscrito).
+7. É perverso (universalmente proscrito), o estupro.
 
-Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
+Idealmente, devemos poder reduzir estas duas categorias - universalmente preferíveis e esteticamente positivas - definindo as nossas proposições éticas de modo que o que é universalmente excluído seja apenas uma imagem reflectida no espelho do que é universalmente preferível e abandonando sómente as preferências pessoais e as acções neutras, irrelevantes para uma discussão de ética.
 
-For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
+Por exemplo, o Princípio de Não-Agressão (PNA) afirma que a iniciação do uso da força é imoral - portanto, a não iniciação do uso da força é universalmente preferível, enquanto que o início do uso da força é universalmente excluído. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
 
 Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
 
