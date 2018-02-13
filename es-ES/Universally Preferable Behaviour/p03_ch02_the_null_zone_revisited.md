@@ -2,11 +2,15 @@
 
 Al inicio de este libro, propongo que avancemos en la vía de como procesamos la verdad, analogándola a la física. Desde las “pequeñas verdades” de atrapar una pelota de béisbol, hasta las “grandes verdades” de la física –y las grandes verdades no pueden contradecir las pequeñas verdades.
 
+
 Esa misma es nuestra verdad moral. Desde las pequeñas verdades como “no se debe matar”, podemos llegar a las grandes verdades como “el empezar a usar la fuerza bruta está moralmente incorrecto”.
+
 
 En los reinos de la física, una barrera central entre la extrapolación de la verdad desde las experiencias hasta las teorías universales han sido religiosas.
 
+
 En este caso, ningún hombre ha experimentado un círculo perfecto – como una entidad existente en la abstracción, y en la matemática, pero ninguno puede ser visualizado en la mente, tampoco experimentarlo sensorialmente en el mundo real. En ningún lugar de la naturaleza, que sea conocido, existe un círculo perfecto, en cualquiera de las “pequeñas verdades” de las experiencias personales, o las “grandes verdades” de la física.
+
 
 Como sea, durante cientos de años, la ciencia de la astronomía ha sido lisiada por la pregunta sobre este “círculo perfecto”. Las órbitas planetarias tienen que ser círculos perfectos, porque Dios nunca permitiría nada tan “imperfecto” como una elipse en su creación.
 
