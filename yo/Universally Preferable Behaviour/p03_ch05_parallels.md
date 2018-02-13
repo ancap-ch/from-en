@@ -1,8 +1,6 @@
 ## Mga Parallelo
 
-Bago ang Syintepikong Rebulsyon, ito ay kinukonsiderang hini mapaniniwalaan na ang mundo'y kayang mapanatili ang sarili na walang kamalaymalay at moral na napapaloob nito. Ang araw ay nahihila ng kadena ng isang di karaniwang karwahe; ang buwan ay kasing lamig at nalulumbay'ng kapatid ng araw. Konstelasyon ay ang bumabalankas sa kwento at libibgngan ng mga panginoon, at ang bagyo ang sumalunga sa galit ng mga demonyo.
-
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+Bago ang Syintepikong Rebulsyon, ito ay kinukonsiderang hindi mapaniniwalaan na ang mundo'y kayang mapanatili ang sarili na walang kamalaymalay at moral na napapaloob nito. Ang araw ay nahihila ng kadena ng isang di karaniwang karwahe; ang buwan ay kasing lamig at nalulumbay'ng kapatid ng araw. Konstelasyon ay ang bumabalankas sa kwento at libingan ng mga panginoon, at ang bagyo ang sumalunga sa galit ng mga demonyo.
 
 Bago ang syensya, mula sa sentro ng ibat-ibang mahihirap na sistema nakahilata ang walang bahid na kamalayan - kung wala itong systema mangyayari ang kaguluhan, ititigil din.
 
