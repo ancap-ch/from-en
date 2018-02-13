@@ -46,7 +46,7 @@ Dalhin ang ibapang halimbawa.
 
 Ang pagnanakaw ay mali sa moral, tulad ng nakita natin sa itaas. Ito ay moral na mali sa lahat ng tao sa lahat ng pagkakataon sa lahat ng oras at sa ilalim ng lahat ng mga pangyayari. Dahil ang pagnanakaw ay sapilitan pag alis ng mga ari arian ng ibang tao ng walang pahintulot, Kung gayon ang laging pagbubuwis sa buong Mondo at magpakaylanman ay moral na masama. Ang pag bubuwis ay sapamamagitan ng kahulugan Ang sapilitan pag alis ng Ari arian sa ibang tao ng walang pahintulot, yamang ang pagbubuwis ay umaasa sa pagsisimula gumamit ng pwersa upang iwaksi ang isang tao sa kanyang ari arian.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+At ang tawag dito ay "Ang gobyerno" ay isapang halimbawa lamang ng *null zone* Kung saan ang taas ay baba, Ang itim ay put, ang katotohanan ay kasinungalingan, at ang masama ay mabuti.
 
 Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
 
