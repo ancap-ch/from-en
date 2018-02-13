@@ -48,7 +48,7 @@ Ang pagnanakaw ay mali sa moral, tulad ng nakita natin sa itaas. Ito ay moral na
 
 At ang tawag dito ay "Ang gobyerno" ay isapang halimbawa lamang ng *null zone* Kung saan ang taas ay baba, Ang itim ay put, ang katotohanan ay kasinungalingan, at ang masama ay mabuti.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Ang pag unlad ng lipunan eksakto sa antas ng dahilan at katibayan gawin ang pinaka magandang harbang mula sa sarili hangang sa unibersal, at sirain ang anuman hind makatwiran*null zones* sa daan. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
 
 ### Government
 
