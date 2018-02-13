@@ -28,6 +28,7 @@ No tenemos evidencia directa, empírica o racional de la existencia de Dios. Las
 
 Las creencias pueden ser verdaderas, falsas o contrarias a la verdad. Hay una creencia de que el desierto del Sahara está en el norte de África; hay una creencia de que el Sahara está en Escocia; hay una creencia de que el Sahara es lo que quiero que sea, y existe donde quiera que exista. La primera creencia es verdadera, la segunda es falsa y la tercera es una afirmación fanática que detona el concepto mismo de prueba.
 
+
 Podemos decir:
 
 1. La Proposición X es verdadera porque es racional.
@@ -63,4 +64,4 @@ Por lo tanto, podemos estar seguros de que si alguna vez *somos* capaces de dete
 
 Por otro lado, si resulta que nunca podemos detectar este otro universo, y sigue siendo una entidad completamente teórica, sin evidencia o racionalidad que lo respalde, entonces es simplemente una bolsa conceptual la cual es "conveniente" para colocar cosas que obviamente no son ciertas. 
 
-[^1]:  Esto inevitablemente termina con comparaciones con aquellos que dijeron que la física de Einstein era imposible, que el mundo no podía ser redondo y demás. La incertidumbre en el contenido, es decir, la teoría, se supone que se equipara con la incertidumbre en la metodología, es decir, la razón y la evidencia. El hecho de que un teorema matemático pueda refutarse no refuta los principios de las matemáticas, sino que los confirma.
+[^1]: Esto inevitablemente termina con comparaciones con aquellos que dijeron que la física de Einstein era imposible, que el mundo no podía ser redondo y demás. La incertidumbre en el contenido, es decir, la teoría, se supone que se equipara con la incertidumbre en la metodología, es decir, la razón y la evidencia. El hecho de que un teorema matemático pueda refutarse no refuta los principios de las matemáticas, sino que los confirma.
