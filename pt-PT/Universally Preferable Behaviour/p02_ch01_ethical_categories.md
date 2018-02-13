@@ -6,8 +6,8 @@ Agora com a estrutura do CUP no local, podemos examinar o modo como o CUP valida
 
 Conforme mencionado acima, as proposições sobre o comportamento universalmente preferível dividem-se em três categorias gerais: positiva, negativa e neutra. Para nos ajudar a separar a estética da ética, vamos começar por ampliar essas categorias para abranger *qualquer* comportamento que possa ser submetido a uma análise ética. Essas sete categorias são:
 
-1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
-2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
+1. De tal modo que, é bom (universalmente preferível e obrigatório através da violência), "não matar".
+2. A "cortesia" e o "estar actualizado" é esteticamente positivo (universalmente preferível, mas não executável através da violência.
 3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
 4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
 5. It is personally negative (predilection for not eating ice cream).
