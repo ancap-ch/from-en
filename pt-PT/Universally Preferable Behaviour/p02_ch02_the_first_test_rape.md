@@ -1,14 +1,14 @@
-## The First Test: Rape
+## O Primeiro Teste: Violação
 
-Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
+Embora seja um assunto desagradável de discutir, a violação é sem dúvida a acção *menos* ambígua que qualquer teoria moral deve abranger. O assassinato pode ser complicado pela alegação de legítima defesa; o roubo pelo problema da fome ou por "dar o troco" - mas nunca se pode violar em defesa própria; É por própria definição o início da agressão.
 
-Let us then use the UPB framework to examine the logical consistency of ethical propositions regarding rape, with reference to these seven moral categories.
+Então vamos usar a estrutura CUP para examinar a coerência lógica das proposições éticas em relação à violação, com referência a essas sete categorias morais.
 
-### The Good
+### O Bem
 
-To take an absurd example, let’s imagine that we are reviewing an ethical theory that proclaims that rape is a moral good.
+Para seguir um exemplo absurdo, imaginemos que estamos a revisar uma teoria ética que proclama que a violação é um bem moral.
 
-Clearly, if I proclaim that “X” is “the good,” then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+Evidentemente, se eu proclamar que "X" é "o bem", então o oposto de "X" deve ser o mal. Se *não violar* for bom, então *violar* deve ser mau. Por outro lado, se *violar* for bom, então *não violar* deve ser mau.
 
 Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
 
