@@ -28,9 +28,9 @@ At sa aking sariling karanasan, nalaman ko na ang pumatay ay Mali. Ang gumawaga 
 
 Ang pinakadakilang leaps forward sa sayantipikong pang-unawa ay tinatawag na "tearya ng pagkakaisa." Einstein dekada na Ang ginugol at sinisikap maayos ang isang pinag-isang teorya Ng patlang; at mga teorya ng physic na nagiisa sa malakas at mahinang pwersa, Ang electromagnetism, gravity at Kung anu ano pa ay mananatiling mailap.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+UPB bilang isang balangkas, gayunman, hindi lamang napapatunayan ang moral instincts sa pangsariling, philosopiya at sa mga antas ng unibersal_ ngunit may malalim at nakakagulat na impikasyon para sa lipunan ng to.
 
-#### UPB In Action
+#### Aksyon ng UPB
 
 The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
 
