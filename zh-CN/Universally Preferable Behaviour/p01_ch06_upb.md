@@ -79,10 +79,10 @@
 
 如果有人闯进我的房子，我的钱包在枪口下，我完全有权利感到愤怒。然而，如果我把钱包放在公园长椅上一个星期，当我回去发现它不见了的时候，我是否还有同样的愤怒的权利呢？本能地，我们觉得这似乎是不太合理的。
 
-Clearly, this question of avoidance is central to our moral evaluation of cause and effect. Illnesses that strike without warning, and which cannot be prevented, frighten us far more than those that we can avoid. We can minimise the chances of getting lung cancer by refraining from smoking, just as we can help prevent skin cancer by using sunscreen, and avoid broken bones by eschewing extreme sports. Similarly, we can do much to avoid crime through some fairly simple habits, such as choosing moral companions, avoiding locales and situations where crime is more probable, refraining from substance abuse and so on.
+显然，这一回避问题是我们对因果关系的道德评价的核心。毫无预兆地袭击，而且无法预防的疾病，使我们害怕得远远超过我们能避免的疾病。我们可以通过避免吸烟来减少患肺癌的机会，就像我们可以通过使用防晒霜来预防皮肤癌一样，避免极限运动中的骨折。同样，我们可以通过一些很简单的习惯，避免犯罪，例如选择道德伙伴，避免出现地点和犯罪更可能的情况，避免药物滥用等等。
 
-There is a phenomenon known as “death by cop,” wherein suicidal people provoke an altercation with the police, then pretend to reach for a gun in order to get shot. This is an extreme example of pursuing situations where “victimisation” is almost guaranteed. This can also occur in domestic situations, wherein a wife will verbally attack a drunken husband, knowing perfectly well that alcohol inflames his violent temper. In these situations, we can have some sympathy for the man whose wallet is stolen in the park, or the woman who is attacked at the frat party, or the wife who is beaten by her husband – but at the same time, we would have some significant questions regarding their role or complicity in the wrongs they have suffered. To be just, we must differentiate between a man whose wallet is stolen at gunpoint, and a man who leaves his wallet lying around in a public place. Both men have had their wallets stolen, to be sure, but it would scarcely seem reasonable to hold them equally accountable.
+有一种现象被称为“警察的死亡，“其中有自杀倾向的人引起与警方的争吵，然后假装达到为一枪击中。这是追求“受害”几乎得到保证的情况的一个极端例子。这也可以在国内的情况下发生的，其中一个妻子会口头攻击一个醉酒的丈夫，明知酒精使他暴躁的脾气。在这些情况下，我们可以在公园里偷来的钱包是谁的人有些同情，或妇女谁在兄弟党的攻击，或妻子是丈夫–殴打，但同时，我们会对自己的角色或参与他们所遭受的冤屈有一些重大的问题。为了公正，我们必须区分一个男人的钱包被枪口偷走，一个男人把钱包放在公共场所。毫无疑问，这两个人的钱包被偷了，但让他们同样负责似乎是不合理的。
 
-Can the UPB framework help us understand, classify and extend these moral standards?
+UPB框架可以帮助我们理解，分类和扩展这些道德标准？
 
-[^9]: Please note that the examples below are not proofs, but rather situations that a valid ethical theory should be able to encompass and explain. We will get to the actual proofs shortly.
+[^9]：请注意下面的例子不是证据，而是一个有效的伦理理论应该能够涵盖和解释的情况。我们马上就可以拿到实物证据。
