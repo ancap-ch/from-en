@@ -72,7 +72,7 @@ Given that the question of moral responsibility and intellectual capacity only a
 
 ### Dukia gẹgẹbi àjọni
 
-UPB thus gives us clear options with regards to property rights. It cannot be the case that some men have property rights, while other men do not. It cannot be the case that men in Washington have property rights, while women in Baltimore do not. It cannot be the case that men have property rights today, but not tomorrow, and so on.
+UPB sí fun wa ni àṣàyàn lórí ẹtọ dukia. It cannot be the case that some men have property rights, while other men do not. It cannot be the case that men in Washington have property rights, while women in Baltimore do not. It cannot be the case that men have property rights today, but not tomorrow, and so on.
 
 It also cannot be the case that men have only fifty percent property rights.
 
