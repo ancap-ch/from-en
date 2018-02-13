@@ -1,4 +1,4 @@
-## Ang halimaw
+## Ang mga taong ganid
 
 Ang layon ng isang pagsusuri sa kasaysayan ng tao ay tila tumutukoy sa malupit na katotohanan na ang pinakamapanganip na bagay sa daigdig ay *ang maling mga sistemang etikal*.
 
@@ -18,7 +18,7 @@ Hindi, saanman ang etikal na teoriya ay masama, salungat at mapanira sa sarili d
 
 Kahit sinong etiko, sa ngayon, na nakatuon lamang sa kriminalidad sa hilip nasa mga krimen sa institusyon na suportado ng etikal na teoriya, ay halos mawala ang larawan, at paglingkuran ang sankatauhan hanggang sa kamatayan. Ang isang doktor na, sa gitna ng isang pangkalahatan at nakamamatay na salot, ay itinutuon ang kayang buong kakayahan sa pakikipag-usap tungkol sa posibleng mga kahihinantnan ng kalusugan ng pagiging bahagyang labis sa timbang, maaaring isaalang-alang sa halip na siraan, at siguradong maasahang gabay sa medikal na mga bagay. Kung ang iyong bahay ay nag-apoy, ang pag-isip-isip sa mga kulay na nais mong i-pintura sa iyong mga pader maaring isaalang-alang na isang sub-optimal na priyoridad.
 
-Ang mga Pribadong Kriminal na umiiral, siyempre, *subalit halos walang epekto sa ating mga buhay kumpara sa mga namumuno sa atin batay sa maling mga teoriya tunkol sa moralidad*. Once, when I was eleven, another boy stole a few dollars from me. Another time, when I was twenty-six, I left my ATM card in a bank machine, and someone stole a few hundred dollars from my account.
+Ang mga Pribadong Kriminal na umiiral, siyempre, *subalit halos walang epekto sa ating mga buhay kumpara sa mga namumuno sa atin batay sa maling mga teoriya tunkol sa moralidad*. Minsan, nang ako ay labing-isa, ang ibang batang lalaki ay nagnakaw ng ilang mga dolyar mula sa akin. Another time, when I was twenty-six, I left my ATM card in a bank machine, and someone stole a few hundred dollars from my account.
 
 On the other hand, I have had hundreds of thousands of dollars taken from me by force through the moral theory of “taxation is good.” I was forced to sit in the grim and brain-destroying mental gulags of public schools for fourteen years, based on the moral theory that “state education is a virtue.”[^12]
 
