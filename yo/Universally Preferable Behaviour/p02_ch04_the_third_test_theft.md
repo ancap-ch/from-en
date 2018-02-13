@@ -56,7 +56,7 @@ Báyìí a lè fí ọgbọn sọ wípé iyasọtọ ẹtọ níní ara ẹni j�
 
 ### Awọn àgbègbè láàrín dáadáa ati àìdá
 
-Naturally, any statement such as the above brings the inevitable howls of “complexity,” which I fully agree with.
+Ní òdodo, èyíkéyìí gbólóhùn gẹgẹbi awọn ti òkè yìí má n mu gbigbo ti kò ṣe yẹra fún ni ti "ìnira," leyi ti mọ fọwọ́sí.
 
 Let us say that I mean to give you five dollars as a gift, but by mistake I hand you a ten dollar bill, saying, “This is for you.” Few people would consider it theft if I said, the moment after I handed it to you: “Sorry, I meant to give you five dollars, not ten,” and took the larger note back, even though I am taking back property that I have voluntarily relinquished.
 
