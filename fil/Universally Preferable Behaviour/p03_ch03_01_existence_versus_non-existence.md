@@ -38,9 +38,9 @@ Kung tatangapin ko ang UPB, dapat kudin tangapin ang mga sumusunod na corollary:
 
 - Ang moral na panukala ay walang kaugnayan sa costume.
 
-Ang ibigsabihin nito ay ang isang tao hindi pweding baguhin ang kanyang moral nature kasama ang kanyang kasuotan. Ang paggawa ng pagbabago sa kasuotan ay hindi Makakapagpabago sa pangunahin katangian. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Ang ibigsabihin nito ay ang isang tao hindi pweding baguhin ang kanyang moral nature kasama ang kanyang kasuotan. Ang paggawa ng pagbabago sa kasuotan ay hindi Makakapagpabago sa pangunahin katangian. Kung kaya't ang pagsalungat sa moral na alituntunin ay Hindi wasto batay sa mga may suot ng mga damit.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Sundalo, syempre, silay nagsusuot ng naiiba sa karaniwang mamayan. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
 
 Let’s take another example.
 
