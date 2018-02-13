@@ -41,86 +41,64 @@ Tentu saja, kami tersinggung dengan cara tidak ada argumen moral, tapi itu adala
 
 Sebelumnya, ketika kita berbicara tentang UPB, kami mencatat bahwa, di mana ada pengecualian di UPB, harus ada perbedaan tujuan dalam biologi. Atau, untuk menempatkan lebih akurat, di mana ada perbedaan tujuan dalam biologi, mungkin ada yang rasional pengecualian atau perbedaan di UPB. Seorang anak lima telah biologis belum dewasa otak dan sistem saraf, dan dengan demikian tidak rasional proses jangka panjang konsekuensi dari tindakannya. Itu adalah otak belum matang itu adalah kunci di sini, sejauh yang jika seorang laki-laki dewasa adalah terbelakang ke titik di mana otaknya adalah setara dengan lima tahun, ia juga akan berkurang tanggung jawab atas tindakannya.
 
-Dengan demikian ketika kita arahkan ke situasi mengurangi tanggung jawab, kami tidak *mengambil* tanggung jawab yang ada, melainkan mengenali situasi di mana tanggung jawab tidak ada, setidaknya untuk beberapa derajat.Jika aku mengatakan bahwa seorang pria di kursi roda tidak bisa mengambil eskalator, saya tidak mengambil haknya untuk mengambil eskalator, tetapi hanya menunjukkan bahwa dia tidak bisa, pada kenyataannya, gunakan itu. Ketika saya mengatakan bahwa UPB tidak berlaku untuk tindakan yang berusia lima tahun, saya tidak mengatakan bahwa UPB adalah subjektif, lebih dari ketinggian kebutuhan untuk sebuah roller coaster entah bagaimana membuat konsep "tinggi" subjektif.
 
-Jika saya secara sukarela masuk ke dalam kontrak dengan mu dimana aku berjanji untuk membayar tagihan anda selama satu tahun, saya belum ditandatangani sendiri ke dalam perbudakan, tapi aku pasti telah diambil pada kewajiban positif bahwa saya sekarang bertanggung jawab.
 
-Jika saya menjalankan sebuah panti jompo, dan saya mengambil pada pasien yang tidak mampu makan sendiri, maka jika saya tidak makan pasien, saya bertanggung jawab untuk mereka yang mengakibatkan kematian.Tidak ada yang lebih *memaksa* saya untuk mengambil pada pasien ini, tapi setelah saya telah menyatakan keinginan dan kemauan untuk merawat mereka, maka saya bertanggung jawab untuk mereka melanjutkan kesejahteraan.
-Dengan cara yang sama, jika saya meminjam mesin pemotong rumput anda, saya berkewajiban untuk membawanya kembali lebih atau kurang sama keadaan itu ketika aku meminjamnya. Demikian pula, jika saya pergi ke toko hewan peliharaan dan membeli anjing, saya telah diambil pada sukarela kewajiban untuk mengurus anjing itu.Ini tidak berarti bahwa saya sekarang anjing budak sampai hari mati, tapi itu tidak berarti bahwa selama anjing milik saya, saya memiliki tanggung jawab untuk mencoba untuk tetap sehat.
-Jenis-jenis kontrak implisit yang cukup umum dalam kehidupan.Kami tidak menandatangani kontrak dengan pemilik restoran ketika kita pergi untuk makan di restoran; itu hanya dipahami bahwa kami akan membayar sebelum kita pergi. Saya tidak pernah menandatangani kontrak ketika saya berjalan-jalan ke sebuah toko berjanji untuk tidak mencuri, tetapi mereka memiliki hak untuk menuntut jika aku melakukannya.Saya juga tidak pernah menandatangani kontrak yang menjanjikan untuk tidak memperkosa seorang wanita jika kita pergi berkencan, namun seperti sebuah "kontrak" tentu ada, menurut UPB.
-Jika saya menjalankan sebuah panti jompo, dan orang-orang cacat bergantung pada saya untuk memberi mereka makan, jika saya membuktikan mampu memberi makan mereka untuk beberapa alasan, maka tanggung jawab saya adalah jelas untuk menemukan seseorang yang akan memberi makan mereka. Bahaya tidak *aku* jangan memberi makan mereka, melainkan bahwa orang lain berpikir bahwa saya *am* memberi mereka makan, dan tidak memberikan mereka makanan. Ini sesuai dengan argumen moral tentang menyelam ke sungai untuk menyelamatkan seseorang dari tenggelam.Saya tidak berkewajiban untuk menyelam ke sungai untuk menyelamatkan seseorang dari tenggelam, tapi saat itu yang saya lakukan – atau negara niat saya secara terbuka, maka saya bertanggung jawab untuk mencoba untuk menyelamatkan orang itu, untuk alasan praktis bahwa orang lain berpikir bahwa aku akan menyelamatkan orang itu, dan sehingga tidak dapat mengambil tindakan langsung sendiri.
+### "Jangan Makan Ikan"
 
-Dengan demikian diasumsikan bahwa orang tua akan memberi makan dan merawat bayi mereka yang baru lahir.Jika kata orang tua memutuskan terhadap perawatan tersebut memberi, maka mereka berkewajiban untuk memberikan anak-anak hingga orang lain yang *akan* perawatan untuk itu, atau menghadapi tuduhan pembunuhan, hanya sebagai manajer sebuah rumah untuk keluarga harus memberi makan orang-orang yang benar-benar tergantung pada dirinya, atau memberikan mereka kepada seseorang yang akan.Jika saya memutuskan bahwa saya tidak lagi ingin mengurus anjing saya, saya harus menemukan dia rumah yang lain, tidak hanya membiarkan dia mati kelaparan.
+Apa status dari proposisi moral: "Memakan ikan adalah kejahatan?"
 
-Ini semua bergantung pada prinsip pihak ketiga untuk membela diri, yang sepenuhnya didukung oleh kerangka kerja dari UPB, karena hak pertahanan diri adalah universal. Jika saya melihat seorang pria di kursi roda sedang diserang oleh seorang wanita, saya memiliki hak untuk membela dirinya – dan ini semua lebih benar jika ia tidak memiliki kemampuan untuk membela dirinya sendiri.
+Secara jelas, proposisi ini kelihatannya memenuhi setidaknya beberapa persyaratan UPB – terlihat universal, tidak tergantung waktu dan tempat, dan relatif obyektif.
 
-Karena anak-anak tidak bisa makan sendiri, mencari nafkah atau hidup mandiri, mereka adalah moral yang setara dengan menculik korban, atau istri kita berbicara tentang sebelum dan suami terkunci di ruang bawah tanah. Anak-anak juga tidak memiliki kapasitas untuk efektif untuk membela diri, karena mereka bertubuh kecil dan dekat-lengkap ketergantungan pada orang tua mereka.
+Namun sulit bagi kita untuk secara wajar menyebutnya sebagai sebuah teori *moral* yang sebenarnya – kenapa?
 
-Dengan demikian sejak itu pasti terjadi bahwa kita memiliki hak untuk bertindak sebagai pertahanan diri untuk orang lain – dan yang benar menjadi lebih kuat jika orang itu tidak dapat bertindak sendiri-sendiri dalam membela diri, itu adalah hal yang sah untuk menggunakan kekuatan terhadap orang tua yang tidak memberi makan anak-anak mereka, seperti itu adalah hal yang sah untuk menggunakan kekuatan terhadap suami yang kelaparan mati istrinya dengan mengunci dirinya di ruang bawah tanah.
+Awalnya, "kejahatan" mencakup tindakan yang dapat dicegah melalui penggunaan kekerasan. Pemerkosaan adalah "kejahatan," dan oleh sebab itu saya dapat menggunakan kekuatan untuk membela diri terhadap seseorang yang mencoba memperkosa saya.
 
-Seperti juga kita yang disebutkan di atas, yang kurang mampu menjadi korban adalah untuk menghindari situasi yang lebih buruk kejahatan. Bahkan istri yang akhirnya terkunci di ruang bawah tanah memiliki setidaknya *beberapa* kepemilikan dalam hal ini, karena dia memilih untuk menikah kejahatan ini gila untuk mulai dengan. Setelah dia terkunci di ruang bawah tanah, situasi ini tidak dapat dihindari, namun ada pasti banyak petunjuk yang mengarah pada suaminya yang kasar alam, dari hari pertama dia bertemu dengannya.
+Bisakah saya menembak orang yang makan sepotong ikan dengan berseba?
 
-Anak-anak, bagaimanapun, adalah korban utama, karena mereka tidak pernah punya kesempatan untuk menghindari situasi yang mereka menemukan diri mereka dalam.Dengan demikian kita dapat logis menetapkan tanggung jawab orang tua terhadap anak-anak mereka dengan menggunakan UPB framework. Karena setiap orang bertanggung jawab untuk efek dari tubuhnya, dan anak-anak adalah efek dari tubuh, maka orang tua bertanggung jawab terhadap anak-anak mereka. Karena setiap orang memiliki hak untuk membela diri, untuk diri mereka sendiri dan untuk orang lain – karena itu adalah hak universal – maka siapa pun dapat bertindak untuk membela anak-anak. Karena setiap orang harus memenuhi sukarela kewajiban, dan memiliki anak adalah sukarela kewajiban, orang tua harus memenuhi kewajiban-kewajiban yang berkaitan dengan anak-anak.Karena, melalui tindakan, yang menyebabkan kematian seseorang yang benar-benar tergantung pada anda adalah setara dengan pembunuhan, orang tua yang bertanggung jawab atas kejahatan tersebut.
-Kita bisa saja mengajukan proposisi bahwa orang tua tidak memiliki waktu untuk mengurus anak-anak mereka, tetapi yang terlalu spesifik prinsip untuk menjadi moral premis – itu akan menjadi sama seperti pepatah yang mengatakan "orang tua bisa membunuh," yang tidak UPB-compliant, dan akan memerlukan biologis dan diferensiasi untuk mendukung pengecualian – dan menjadi orangtua tidak benar-benar membatalkan dan mundur satu pertanyaan yang bersifat biologis.
+Kelihatannya konyol untuk membantah bahwa saya bisa – tetapi kenapa?
 
-Orang tua yang kelaparan anak untuk kematian yang jelas-jelas bersalah atas pembunuhan.Anak-anak yang lahir ke dunia ini dalam keadaan tak sadar penjara dalam keluarga ini tidak berarti bahwa keluarga adalah kejahatan, atau korup – itu hanya sebuah pernyataan dari fakta biologis.Anak-anak oleh orangtua' choice diperbudak untuk orang tua – bentuk biologis penahanan menempatkan orang tua lalai dalam moral yang sama posisi sebagai penculik yang memungkinkan tawanannya mati kelaparan, atau seorang perawat yang memungkinkan dia benar-benar tergantung pasien mati kehausan.
+Ada beberapa batasan objektif untuk doktrin ini secara universal. Contohnya, beberapa orang mungkin tidak memiliki akses ke ikan – katakanlah mungkin mereka tinggal di padang pasir – sedangkan yang lain hidup di tepi danau yang dipenuhi ikan, dan sulit atau tidak mungkin bertahan hidup tanpa memakannya. Bagaimanapun tidak hanya sampai disitu, karena kita telah menerima kenyataan bahwa ketidakmampuan seorang kasim untuk melakukan pemerkosaan tidak membuat keputusan moral yang tidak valid "memperkosa adalah kejahatan."
 
-### "Don't Eat Fish"
+Tidak, "induk merah" dalam proposisi moral "Memakan ikan adalah kejahatan" adalah kata "*ikan*."
 
-What would be the status of the moral proposition: “It is evil to eat fish”?
+Seorang ilmuwan tidak bisa secara valid mengatakan bahwa teorinya tentang gravitasi hanya berlaku untuk bebatuan merah muda. Karena teorinya melibatkan gravitasi, teori ini harus berlaku bagi *semua* wujud yang memiliki massa.
 
-Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
+Begitu pula pada contoh di atas, UPB hanya menerima *tindakan* makan, dan menolak *apa* yang dimakan, karena apa yang dimakan bukanlah *tindakan*, lebih kepada apa yang sedang dilakukan.
 
-Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
+Melalui cara yang sama, seorang ahli etika tidak dapat mengajukan proposisi moral secara valid: "Apakah salah untuk memperkosa *orang tua*." "Pemerkosaan" adalah perilaku; apakah korban sudah tua atau tidak itu tidak relevan dengan proposisi moral, karena selama korbannya manusia, persyaratan untuk secara universal tetap konstan. "Jangan mencuri" adalah proposisi moral yang valid menurut UPB – "jangan mencuri *lobak*" tidaklah valid, sebagai alasan sederhana pencurian itu terkait dengan konsep properti – dan lobak, sebagai bagian dari properti, tidak bisa digambarkan secara rasional dari semua bentuk properti lainnya dan diberikan aturan moral mereka sendiri.
 
-First of all, “evil” encompasses actions that can be prevented through the use of force. Rape is “evil,” and so I can use force to defend myself against someone attempting to rape me.
+Proposisi moral "memakan ikan adalah kejahatan" sehingga gagal dalam pengujian secara universal karena terlalu spesifik untuk digeneralisasikan – itu seperti mengatakan "teori gravitasi saya hanya berlaku untuk bebatuan merah muda." Jika itu adalah teori gravitasi, maka itu harus berlaku untuk segala hal; jika hanya berlaku untuk batu merah muda, maka itu bukan teori gravitasi.
 
-Can I justly shoot someone who eats a piece of fish?
+UPB juga menolak setiap teori yang tidak valid yang menghasilkan pertimbangan moral yang berlawanan untuk tindakan yang sama. "Serangan" tidak dapat bermoral suatu hari, dan tidak bermoral selanjutnya. Jadi kita tahu bahwa "makan" tidak bermoral suatu hari, dan tidak bermoral selanjutnya.
 
-It would seem silly to argue that I can – but why?
+Ssetiap "memakan" adalah moral, tidak bermoral, atau netral secara moral. Jika makan itu adalah tidak bermoral, maka seluruh masalah logis muncul, yang saya yakin sudah kita kenal sekarang.
 
-There are some objective limits to the universality of this doctrine. For instance, some people may have no access to fish – they may live in a desert, say – while others live by a lake teeming with fish, and find it hard or impossible to survive without eating them. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
+Jika di salah satu sisi, memakan adalah *moral*, maka tidak bisa bermoral untuk makan kubis, dan tidak bermoral untuk makan ikan, karena itu adalah pelanggaran secara universal, sejauh tindakan yang sama – memakan – dinilai keduanya baik dan buruk.
 
-No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
+Dengan demikianlah kita bisa memahami bahwa proposisi "makan *ikan* adalah kejahatan" gagal dalam ujian UPB, dan tidak valid sebagai teori moral.
 
-A scientist cannot validly say that his theory of gravity only applies to pink rocks. Since his theory involves gravity, it must apply to *all* entities that have mass.
+### Hak Binatang
 
-Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
+Kita tidak memiliki waktu untuk membahas diskusi tentang hak-hak hewan di sini, namun setidaknya kita bisa menangani proposisi moral: “apakah membunuh ikan adalah kejahatan.”
 
-In the same way, an ethicist cannot validly put forward the moral proposition: “It is evil to rape the *elderly*.” “Rape” is the behaviour; whether the victim is elderly or not is irrelevant to the moral proposition, since as long as the victim is human, the requirement for universality remains constant. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
+Jika memang membunuh ikan adalah kejahatan, maka UPB mengatakan bahwa siapapun atau apapun yang membunuh ikan itu kejahatan. Ini bukan hanya untuk nelayan saja, tetapi hiu juga termasuk – karena jika membunuh ikan itu merupakan kejahatan, kita telah memperluas definisi kita tentang "pelaku" etika untuk memasukkan kehidupan yang bukan manusia.
 
-The moral proposition “eating fish is evil” thus fails the test of universality because it is too specific to be generalised – it is like saying “my theory of gravity applies only to pink rocks.” If it is a theory of gravity, then it must apply to everything; if it only applies to pink rocks, then it is not a theory of gravity.
+Jelas bahwa hiu tidak memiliki kapasitas untuk menahan diri dari membunuh ikan, karena pada dasarnya mereka adalah mesin pemakan dengan sirip.
 
-UPB also rejects as invalid any theory that results in opposing moral judgements for identical actions. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
+Sehingga kita berakhir dengan masalah logika dari "kejahatan yang tidak terelakkan." Jika itu adalah kejahatan karena membunuh ikan, namun hiu tidak bisa menghindari membunuh ikan, maka hiu sudah "pasti jahat." Bagaimanapun, seperti yang telah kita bahas di atas, dimana tidak ada pilihan – dimana *menghindari* adalah kemustahilan – tidak ada moralitas. Sehingga proposisi "membunuh ikan adalah kejahatan" untuk mendefinisikan sebuah moralitas universal yang mencakup situasi tanpa moral, yang tidak dapat berdiri secara logis.
 
-Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
+Termasuk kata "ikan" tetap bermasalah dalam perumusannya, karena terlalu spesifik untuk bersifat universal. Perumusan UPB yang tepat adalah: "Adalah kejahatan bagi orang-orang untuk membunuh organisme hidup."
 
-If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
+Jika bagaimanapun adalah jahat untuk membunuh, kita sedang menghadapi masalah "kejahatan yang tak terelakkan." Tidak ada satupun manusia yang bisa eksis tanpa membunuh organisme lain seperti virus, tumbuhan, atau binatang. Sehingga "kehidupan manusia" didefinisikan sebagai "kejahatan." Namun jika kehidupan manusia didefinisikan sebagai kejahatan, maka tidak dapat *menjadi* jahat, karena penghindaran menjadi sebuah kemustahilan.
 
-It is in this way that we understand that the proposition “eating *fish* is evil” fails the test of UPB, and is not valid as a moral theory.
+Bagaimana jika seandainya kita mengatakan: "Adalah sebuah kejahatan membunuh orang" – apakah itu akan membuat hiu pemakan manusia adalah jahat?
 
-### Animal Rights
+Tidak – sekali lagi, karena seekor hiu tidak memiliki kapasitas untuk menghindari pembunuhan terhadap manusia, mereka tidak bertanggung jawab atas tindakan seperti itu, melebihi tanah longsor bisa dibawa ke pengadilan jika itu membunuh manusia.
 
-We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
+UPB memungkinkan pengecualian berdasarkan pada materi objektif dan universal atau perbedaan biologis, sama juga dengan pengetahuan lainnya. Teori ilmiah mengatakan bahwa gas akan mengembang ketika dipanaskan, itu benar, hanya untuk gas. Saya tidak bisa membatalkan teori ini dengan membuktikan bahwa itu tidak berlaku, katakanlah untuk plastik.
 
-If it is evil to kill fish, then UPB says that anyone or anything that kills the fish is evil. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
+Melalui cara yang sama, moralitas hanya diterapkan sebagai kesadaran rasional, karena persyaratan untuk dapat dihindari. Jika saya mencoba menerapkan teori moral ke siput, pohon, batu, atau konsep "angka," saya berusaha menyamakan kesadaran rasional dengan entitas yang mungkin tidak rasional dan dibawah kesadaran, yang merupakan kontradiksi logika. Mungkin saya juga mengatakan bahwa Dalil Sudut Berlawana dalam geometri tidak valid karena tidak berlaku untuk sebuah lingkaran, atau awan. OAT hanya berlaku untuk garis bersilangan – mencoba untuk menerapkannya pada situasi lain adalah konseptual yang setara dengan percobaan untuk melukis udara.
 
-It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
+Dengan kata lain, kesalahan penerapan bukanlah bantahan.
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
-
-Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
-
-If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
-
-What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
-
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
-
-UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
-
-In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
-
-In other words, misapplication is not disproof.
-
-There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
+Terdapat banyak "area abu-abu" lainnya yang bisa kita jalani, dari kegagalan sampai hak kekayaan intelektual hingga pemulihan dan sebagainya, namun menurut saya jauh lebih penting untuk mengambil UPB dari ranah yang abstrak, serta mulai menerapkannya pada masalah dunia nyata yang kita hadapi saat ini
