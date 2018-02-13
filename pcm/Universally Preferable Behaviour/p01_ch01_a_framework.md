@@ -6,57 +6,57 @@ Similarly, if i talk say “I like vegetables,” dat one too na just ma talk of
 
 D fundamental difference wey dey between d talk *preference* and talk *fact* na say talk of facts dey objective, testable - and dey binding. If u value truth so, e dey incumbent ontop u make u agree say ice cream get milk inside, once wey dem don prove am.[^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+If I talk say d world dey round, and I com give una plenty proof for wetin I talk, No be u go com determine for ur self say d talk dey true. If I fit prove am say d world dey round, den u dey bound to agree say na true, unless if u wan reject d reason and evidence dem as criteria for truth.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+If I agree say dem mathematical laws dey ogbonge, I no fit arbitrarily reject a mathematical proof wey go in line wit dem laws. If I go *reject* dat kyn proof, I no fit claim say I wan accept d ogbonge of dem mathematical laws. Say I agree to dis laws mean say I dey *bound* to agree say dose proofs wey go in line wit dis laws na ogbonge. D rejection of one proof wey go in line wit normal standards na a rejection of normal standards as a whole so.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+D scientific method, wey dey normal itself, and dem mathematical laws na all of dem be examples of *objective* criteria wey dem dey use establish d truth for a proposition. No be my opinion say two and two na im turn four - if u com also accept say na two and two dey turn four, you no dey subject urself to ma own just opinion, but na to a normal truth.
 
-### Objective Truth
+### Truth wey dey Objective
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+A central challenge wey we dey use sabi d nature of truth na d realisation say “truth” no dey exist for d world for d same way wey rock or tree dey exist.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+D concept wey be “truth” na necessarily a relative term - though dat one no mean subjective or arbitrary term. D concept wey be “health” na relative term too - we compare “health” to sickness, and to dem relative standards of health too. Wetin dem dey call “good health” for person wey don reach ninety-year dem no fit call am good health for person wey don reach twenty-year. D definition of long life dey different for now dan e be five hundred years before before.
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
+Dis one no mean . however, say d concept of “health” dey entirely relative and subjective. A ten-year-old wey leukamia wan peme am dey unhealthy if we look am for any definition - just as twenty-year-old wey dey run marathon dey healthy if we look am for any definition. for now, a man wey tey for life for ninety years get long life if we look am statistically, though dat one fit change if medical technology just suddenly dey allow us tey reach two hundred for life.
 
-As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
+As our definition of “health” dey wide, e no cancel d former definitions dem, but e just dey extend am. Id medical technology increase make ninety-year-olds dey win marathons dem, den our definition wetin be healthy for dose wey don old go change - but e no mean say d twenty-year-old person wey dey run marathon go suddenly com be unhealthy. to dey learn algebra no dey cancel arithmetic.
 
-Truth also has value relative to necessity as well. Newtonian physics has been supplanted by Einsteinian physics, which has proven far more accurate in extreme situations such as extraordinarily high gravity or speed. However, sailors wishing to calculate the correct path across an ocean find Newtonian physics more than accurate enough. You wouldn’t want to send a spaceship to Alpha Centauri using Newtonian physics, but it is totally fine for getting a ship from Lisbon to New York. The labour involved in learning and implementing Einsteinian physics is thus a net negative for a sailor.
+Truth self dey ogbonge wey dey relative to necessity as well. Newtonian physics don dey supplanted by Einsteinian physics, wey don prove say e dey accurate for tyt situations lyk extraordinarily high gravity or speed. However, dem sailors wey dey wish to calculate d correct way across an ocean go see say Newtonian physics na im dey accurate pass, but e dey ok for ship wey wan go New York from Lisbon. D labour wey dey involve to dey learn and implement Eisteinian physics na a net negative for sailor.
 
-As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+As a result, d sentence “Newtonian physics no too dey accurate dan Eisteinian physics, but Newtonian physics na d beta way to calculate a ship's way” we fit call am ogbonge proposition. Newtonian physics com be *less accurate*, and *more appropriate*.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+If we wan drink water wey dey pure pass, we go lyk pay thousands of dollars dem for one bottle. Unless say we get ego wella and too dey frivolous, we neva fit pay dat ego say make we just drink water. Na true say water wey pure beta for us, but d price wey da purity nid don reach threshold of diminishing return dem. So “purer dey beta, na im dey reach “purer na im worse.”
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+Again, dis no mean say purity of water dey utterly subjective. Water wey dem distill dey potable pass seawater.
 
-#### Truth And Objective Reality
+#### Truth And Objective Reality dem
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+D concept of *truth* dey necessarily involve d concept of *accuracy*. If I dey try shoot an arrow pass bull's eye, d accuracy of ma shot dey ontop how my arrow com land form d centre so.
 
-What, then, is the “bull’s-eye” of truth?
+Wetin, den, be d “bull’s-eye” of truth?
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+Well, d *truth* of a talk dey measurable relative to how e go in line wit objective reality.
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+Make we put dem language challenges for one corner now, if I point to one seagull and talk say, “Dat na anvil,” I dey clearly mistaken because say anvils na inorganic, and no fit fly. D truth value of ma statement dey measured relative to dem objective facts of reality. Since wey be say Seagull no be anvil, den ma statement no true.
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+Naturally, dis equation between truth and reality nid say make our language and sense make dem call am relatively objective. Plenty good reasons dey to believe say both language and sense evidence dey objective; we fit enta discussion wey dey complicated ontop dis, but make e suffice to talk say since na ur eyes u dey use read book wey dem write for man pikin language, we fit agree say ur eyes, and d language we share, na d least objective wey dey enough for u make u accurately process wetin I dey write. If dem no be, we no get anytin to yarn, and u neva sabi anytin wey I don write, so dis sentence no go get meaning be dat, and dem fit com render am for “Wingdings”.
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+Make we assume say u fi tell d difference between d two fonts wey dey above so, we fit reasonably continue.
 
-#### Accuracy And Consistency
+#### Dem Accuracy And Consistency
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+E no dey possible for me make I paint a cloud accurately, since for d tym wey i go use paint am, d cloud go dey change evry evry. I fit paint a *photograph* pf a cloud, wey dem don freeze in tym.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+If I use one hour say I be wan paint a cloud, and den I com ask u say shey ma painting na accurate representation of dat cloud so, u must necessarily reply say no be am.
 
-In other words, where there is no consistency, there can be no accuracy.
+For dem oda words, wen consistency no dey, accuracy no fit dey.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Wen we dream for nyt, our perceptions be say d rules of “matter” and “energy” dey for constant state of flux - we dey immune to gravity, and den we com dey fly wen we dey elephant back, and say we dey walk through wallas. E no dey possible say make we develop a “scientific physics of dreams” dan e dey to be accurate say make we paint a cloud.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+Logic, science and truth, den, no dey possible wen *consistency* no dey.
 
 Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
 
