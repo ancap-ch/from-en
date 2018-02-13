@@ -50,19 +50,19 @@ Se dissermos que as APAs podem ser aplicadas através da violência, então esta
 
 Se propomos uma regra moral de que iniciar a violência é moralmente bom, então essa regra enfrenta as mesmas impossibilidades lógicas que a regra de que "a violação é moralmente boa"
 
-Dois homens numa sala não podem ser moralmente bons ao mesmo tempo, uma vez que um deles deve estar a iniciar violência contra o outro, e este deve estar a resistir - já que se não resistir, não é por definição, violência, como no caso do cirurgião que examinamos acima. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+Dois homens numa sala não podem ser moralmente bons ao mesmo tempo, uma vez que um deles deve estar a iniciar violência contra o outro, e este deve estar a resistir - já que se não resistir, não é por definição, violência, como no caso do cirurgião que examinamos acima. Sendo assim, a virtude só pode ser activada ao resistir à virtude e dois homens nas mesmas circunstâncias não podem ser morais ao mesmo tempo, e assim por diante - todas as quais são violações do CUP.
 
-Thus we know that rape cannot be an APA.
+Por isso, sabemos que a violação não pode ser uma APA.
 
-We can confirm this by reviewing the reasons why “being on time” *is* an APA.
+Podemos confirmá-lo, examinando as razões pelas quais "ser pontual" *é* uma APA.
 
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
+Em primeiro lugar, percebemos instintivamente que é mais justo rejeitar um amigo por estar sempre atrasado do que rejeitá-lo por não gostar de sorvete.
 
-Why is that?
+Por que é isso?
 
-Once again, the UPB framework comes to the rescue.
+Uma vez mais, o quadro CUP vem ao resgate.
 
-An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
+Uma APA é uma regra *não coerciva que pode ser aplicada racionalmente em ambas partes simultaneamente*.
 
 For instance, if my APA is: “be on time,” then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
 
