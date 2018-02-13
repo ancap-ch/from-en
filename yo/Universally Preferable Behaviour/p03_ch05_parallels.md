@@ -6,9 +6,9 @@ Bago ang syensya, mula sa sentro ng ibat-ibang mahihirap na sistema nakahilata a
 
 Sa kasamaang palad, itong "walang bahid na kamalayan" ay isa lang ilusyon, para ilagay bilang kawanggawa. Walang panginoon na nabubuhay - lahat na *pangyayari* ay nangyari mula sa sinasabi ng mga pari. Kaya ang nananatili sa loob ay ang di pantay at makatwirang indibedwal, na walang mga ideya kung gaano na sila ka baliw.
 
-Di pa natin nagagamit ang parihong pananaw sa atoing konsepto ng ating lipunan - pero ito ay *kinakailangan* gawin.
+Di pa natin nagagamit ang parihong pananaw sa konsepto ng ating lipunan - pero ito ay *kinakailangan* gawin.
 
-Kinukonsidera natin itong higit na kailangan, na sa loob ng lipunan, mailagay natin ang walang bahid na entity na tinatawag na "ang gobyerno."Sa kawalan nito, kinokonsedera natin itong axiomatic na ang lipunan ay lilipad patungong kaguluhan, and maghumpay din - na ang ating ninuno kinokonsedera na, na kung wala ang panginoon, ang kalawakan magkakagulo, at maghumpay din.
+Kinukonsidera natin itong higit na kailangan, na sa loob ng lipunan, mailagay natin ang walang bahid na entity na tinatawag na "ang gobyerno."Sa kawalan nito, kinokonsedera natin itong axiomatic na ang lipunan ay lilipad patungong kaguluhan, and maghumpay din - na ang ating ninuno kinokonsedera na, na kung wala ang panginoon, ang kalawakan ay magkakagulo, at maghumpay din.
 
 Pero, "ang gobyerno" ay di umiiral kesa sa"panginoon" na ipinaiiral.
 
