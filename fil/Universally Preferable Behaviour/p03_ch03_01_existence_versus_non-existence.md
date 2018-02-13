@@ -24,7 +24,7 @@ Ang totoong reyalidad sa pahayag ay ang "pagkakamali ay katumbas ng katotohanan"
 
 Ang dahilan Kung bakit kami ay gumugugol labis na oras sa pagharap sa "Alternatibong uniberso" Ang teorya ay may derectang kaugnayan sa lipunan ng tao at ginagamit ito para "mabigyang-katwiran" ang mga dakilang kasamaan na ginamit sa atin.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+At sa aking sariling karanasan, nalaman ko na ang pumatay ay Mali. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
 
 The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
 
