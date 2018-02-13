@@ -22,7 +22,7 @@ Ang totoong reyalidad sa pahayag ay ang "pagkakamali ay katumbas ng katotohanan"
 
 ### Ang "Alternatibong uniberso" sa lipunan ng mga tao
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+Ang dahilan Kung bakit kami ay gumugugol labis na oras sa pagharap sa "Alternatibong uniberso" Ang teorya ay may derectang kaugnayan sa lipunan ng tao at ginagamit ito para "mabigyang-katwiran" ang mga dakilang kasamaan na ginamit sa atin.
 
 In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
 
