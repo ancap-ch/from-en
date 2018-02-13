@@ -28,6 +28,6 @@ For Wainwright's example, a kilo of cocaine, with a market value of $100,000 if 
 
 This dey easy to see if we adopt de Austrian view wey pricing of production goods them do am "backward" through entrepreneurial biddinig aiming for anticipated consumer prices. But using de supply-and-demand schedule for equilibrium prices fit produce a fundamentally flawed analysis - even by those who recognize sey de assumptions dey unrealistic (which Roberts naturally do).
 
-This no be to say that de prices within de cocaine supply chain are not some form of equilibrium prices. De assumption of partial equilibrium no be wating make de analysis flawed. The error lies in failing to recognize that cost (that is, the existence and shape of supply) is a function of the anticipated price (demand) of the final good.
+This no be to say that de prices within de cocaine supply chain are not some form of equilibrium prices. De assumption of partial equilibrium no be wating make de analysis flawed. De error lies for failing to recognize say cost (that is, de existence and shape o supply) na function of de anticipated price (demand) o de final good.
 
-From this follows that changes in factor prices are not necessarily reflected in prices of consumer goods, especially in the short term. Rather, they will be reflected in the profit margins of producers, and can thus cause them to change their behavior.
+From this follows that changes in factor prices no dey necessarilly reflect for prices of consumer goods, especially for de short term. Rather, they will be reflect am for de profit margins of producers, and fit thus cause them to change their behavor.
