@@ -69,13 +69,13 @@ Ang sitwasyong ito, habang interisadong teyorya, lohikal na hinihimay-himay dahi
 
 Ang lohikal na mali ay laging ginagawa sa pagtatanggol ng pamahalaan ay ang isipin na ang anumang kolektibong moral na desisyon na inilalapat sa anumang grupo ng tao ay *hindi inilalapat sa mga grupo na kung saan ay naghahari sa kanila *. Kung ang limampung porsyento ng mga tao ay masama, pagkatapos ay*hindi bababa* sa limampung porsyento ng mga tao na namumuno sa kanila ay masama rin.[^9] Bagkus ang umiiral na kasamaan ay kahit kailanman ay hindi makakapagbigay-katwiran sa umiiral na pamahalaan.
 
-If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
+Kung walang masama, ang paamahalaan ay hindi na kailangan. Kung ang kasamaan ay umiiral, ang pamahalaan ay malayo na sa kapamahakan na hindi pinapahintulutulan na umiral.
 
-Why is this error so prevalent?
+Bakit ang maling ito ay laganap?
 
-There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+Mayroon maraming bilang ng rason, upang mahawakan ito dito. Ang una ay ang pamahalaan ay pinapakilala ang kanyang sarili sa mga bata sa pamamagitan ng mga pampublikong guro na kung saan kinukunsiderang may moral na awtoridad. Bagkus ay *moralidad* at *awtoridad*ang unang umuugnay kasama ang pamahalaan - ang pagsasamahan na pinapalakas sa pamamagitan ng mga taong paulit-ulit na paggiling.
 
-The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
+Ang pangalawa ay ang pamahalaan na hindi itinuturo sa mga bata ang tungkol sa mga ugat ng kapangyarihan nito - karahasan - ngunit sa halip ay pagkukunwari na ito ay isa lamang panlipunang institusyon, katulad ng isang negosyo o isang Simbahan o isang kawanggawa, ngunit higit pang moral.
 
 The third is that the prevalence of religion and propaganda has always blinded men to the evils of the government – which is why rulers have always been so interested in furthering the interests of churches and state “education.” In the religious world-view, absolute power is synonymous with perfect virtue, in the form of a deity. In the real political world of men, however, increasing power always means increasing evil. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. There are many more reasons, of course, but these are among the deepest.[^10]
 
