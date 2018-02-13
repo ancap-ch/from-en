@@ -1,64 +1,64 @@
-### UPB: Five Proofs
+### UPB：五个证明
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+正如我们前面所讨论的，不存在这样的东西作为优选行为的命题包含了难以克服的逻辑和经验问题。“普遍优先的行为”必须是一个有效的概念，主要有五个原因。
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+第一个是合乎逻辑的：如果我反对普遍优越的行为是有效的这一命题，那么我已经表明了我对真理胜过谬误的偏爱 -以及对纠正那些虚伪的人的偏爱。说没有这样的东西作为普遍较好的行为就像是在人的耳朵听起来不存在–这天生的自我矛盾的。换言之，如果没有普遍优越的行为，那么就应该反对任何声称普遍优越的行为这样的事情的人。然而，如果一个人“应该”做某件事，那么他就会创造出普遍的好行为。因此，普遍可取的行为或道德规则必须是有效的。
 
-Syllogistically, this is:
+语言学上，这是：
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1. 命题是：“普遍可取的行为”的概念必须是有效的。
+2. 反对普遍优越行为的有效性表明普遍可取的行为。
+3. 因此，任何反对普遍可取的行为有效性的论点都是无效的。
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+我们都知道有主观的喜好，如喜欢冰淇淋或爵士乐，这些都不被视为对其他人有约束力。另一方面，还有其他的偏好，如强奸和谋杀，这些偏好明显是对他人造成的。还有一些逻辑、真理和证据也有偏好，它们对其他人也是有约束力的（尽管它们通常不是暴力造成的），因为我们都接受一个不合逻辑的命题必须是虚假的或无效的。
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+那些可以被认为具有约束力的偏好可以称为“普遍偏好 ”或 “道德规则”。
 
-How else can we know that the concept of “moral rules” is valid?
+否则我们怎么能知道 “道德规则” 的概念是有效的？
 
-We can examine the question biologically as well as syllogistically.
+我们可以从生物学角度和疑问句中考察这个问题。
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+例如，所有物质都受制于物理规则 - 所有生活中的事物都是受某些要求的限制，因此，如果它是活的，那么它必须遵循普遍的偏好行为。例如，生命需要燃料和氧气。当然，任何活生生的思想都是物质世界的一个有机组成部分，因此受制于物理法则，必须遵循普遍的偏好行为 - 否则，就需要证明意识不是由物质构成的，也不是有机的 - 这是不可能的，因为它具有质量、能量和生命。认为意识既不受物理规则，也不受普遍偏爱的行为的影响，就好像是说人类不受地心重力的影响，而且可以在不吃东西的情况下蓬勃发展。
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+因此，任何人都不可能在逻辑上反对普遍优越的行为，因为如果他活着是为了争辩，那么他一定会遵循普遍偏好的行为，如呼吸，饮食。
 
-Syllogistically, this is:
+语言学上，这是：
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+1.  所有生物都需要普遍偏好的行为来生活。
+2.  人是活的有机体。
+3 .  因此，所有活着的人都是活着的，因为实践普遍偏好的行为。
+4    因此，任何反对普遍可取行为的论点都要求接受和实践普遍偏好的行为。
+5    因此，不存在反对普偏好的行为的论点是可能有效的。
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+由于科学方法需要经验证实，我们也必须着眼于现实来证实我们的假设 -并且在这里完全支持普遍优先行为的有效性。
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+每一个理智的人都相信某种道德准则。关于什么是道德规则存在一些分歧，但是每个人都确信道德规则是有效的 - 就像许多科学家不同意的那样，但是所有的科学家都接受科学方法本身的有效性。人们可以争辩说，地球是圆的，而不是平坦的，这与改变道德的定义类似 - 但人们不能说地球根本不存在 - 这就好像在争辩，没有普遍的可取行为。
 
-Or:
+或：
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+1. 科学理论的有效性必须得到经验的支持。
+2.  如果“普遍优越行为”的概念是有效的，那么人类就应该相信普遍可取的行为。
+3.  人人都相信普遍可取的行为。
+4.  因此，经验证据支持普遍优越的行为的有效性，而这种证据的存在则反对普遍优先的行为无效的主张。
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+第四的寺庙为普遍地优选的行为的有效性的论据也是经验主义的。由于人类在生活中有几乎无限的选择，所以说没有普遍适用的行为原则就是说所有的选择都是平等的（即主观的）。然而, 所有的选择都是不平等的, 无论是逻辑上或通过经验观察. 
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+例如，如果有食物，几乎所有的人都喜欢每天吃。寒冷的时候, 几乎所有的人都在寻求温暖。几乎所有的父母都选择喂养，庇护和教育他们的孩子。在人类中有许多共同选择的例子，这表明普遍喜欢的行为盛行并且是人性的一部分。
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+如上所述，没有任何有效的物理理论可以否定一个简单的事实, 即儿童可以捕捉飞球 - 同样，没有一个有效的道德理论能够拒绝接受UPB的无尽证据。
 
-Or:
+或：
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1.  选择几乎是无限的。
+2.  大多数人的选择非常相似。
+3.  因此, 并不是所有的选择都是平等的。
+4.  因此，普遍可取的选择必须是有效的。
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+第五个论证普遍有效行为的有效性是进化的。
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+由于所有的有机生命都需要有利于生存的行为，所以我们可以假设那些做出最成功选择的有机体是最经常被选择来生存的生物。
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+既然人类是最成功的物种，人类最独特的器官就是他的思想，那么人类的头脑一定会帮助他做出成功的选择。于是，心灵本身就被选择成功，因为它有能力做出成功的选择。既然人类的思维只存在于选择普遍的最佳行为，那么普遍可取的行为必须是一个有效的概念。
 
 Or:
 
