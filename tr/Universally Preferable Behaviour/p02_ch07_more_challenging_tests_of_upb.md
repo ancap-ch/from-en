@@ -1,14 +1,14 @@
-## More Challenging Tests Of UPB
+## ETD'nin Daha Meydan Okuyucu Testleri
 
-We have now tested specific moral theories relative to the framework of UPB, and found that UPB validates our most commonly held moral beliefs, such as prohibitions against rape, murder and theft. By bringing the criterion of *avoidability* into our analysis, we have also helped differentiate between crimes that cannot be avoided, and crimes that must be enabled through positive action, such as fraud. Finally, we have divided “preferable behaviour” into three major categories – universal, aesthetic, and neutral (and their relevant opposites). Universally prohibited actions include rape, murder and theft, which force may be used to prevent. Aesthetically preferable actions include politeness, being on time and so on, which cannot be enforced through violence. Neutral actions include purely subjective preferences, or actions that have no moral content, such as running for a bus.
+Şimdi ETD'nin çerçevesine göre belirli ahlaki teorileri test ettik ve ETD'nin taciz, cinayet ve hırsızlığa karşı yasaklamalar gibi en yaygın ahlaki temelli inançlarımızı doğruladığını bulduk. *Kaçınabilirlik* ölçütünü analizimize dahil ederek, kaçınılamayan suçlarla, dolandırıcılık gibi pozitif eylem yoluyla etkinleştirilmesi gereken suçları ayırt etmemize yardımcı olduk. Nihayetinde, "tercih edilen davranış"'ı üç ana kategoriye ayırdık - evrensel, estetik ve nötr (ve bunların ilgili karşıtları). Evrensel olarak yasaklanan eylemler, tecavüz, cinayet ve hırsızlığı kapsar; bunları önlemek için kuvvet kullanılabilir. Estetik olarak tercih edilen eylemler nezaket, vaktinde olma ve benzeri şeyler olup şiddet vasıtasıyla zorlama yapılamaz. Nötr eylemler, Nötr eylemler tamamen öznel tercihleri içerir ya da bir otobüse koşmak gibi ahlaki içerik taşımayan eylemlerdir.
 
-However, there remain many challenging moral tests that fall outside the examples we have dealt with above. We will only deal with a few of those here, to have a look at the framework of UPB, and see how it deals with these more challenging moral questions.
+Bununla birlikte, yukarıda ele değindiğimiz örneklerin dışında birçok zorlu ahlaki test devam etmektedir. Burada, ETD çerçevesine bakmak ve bu daha zorlu ahlaki soruları nasıl ele aldığını görmek için sadece bir kaçını ele alacağız.
 
-### Self-Defence
+### Öz savunma
 
-The concept of self-defence should not be taken for granted. If we assume that there is no such thing as self-defence, or that self-defence is never a valid action, then the framework of UPB undoes that assumption very quickly.
+Öz savunma kavramı, hafife alınmamadır. Öz savunma diye bir şey olmadığını ya da kendini savunmanın asla geçerli bir eylem olmadığını varsayarsak, ETD çerçevesi bu varsayımı çok çabucak geri alır.
 
-If there is no such thing as self-defence, then we are not talking about the initiation or the retaliation of the use of force, but rather just the use of force in any context. In other words, if we get rid of the concept of self-defence, the only question that we need to ask ourselves is: *is it universally preferable to use force, or not?*
+Öz savunma diye bir şey yoksa, o halde, kuvvet kullanmaya başlamak veya misilleme yapmaktan bahsetmiyoruz, daha çok herhangi bir bağlamda güç kullanımı söz konusudur. Başka bir deyişle, kendini savunma konseptinden kurtulursak, kendimize sormamız gereken tek soru şöyledir: *kuvvet kullanmak evrensel olarak tercih edilir mi, edilmez mi?*
 
 If it were universally preferable to use force, then no human being should ever advance a moral argument, but should rather use force to achieve his ends. However, just as in the rape, theft and murder examples cited above, the claim that it is universally preferable to use force immediately invalidates itself. To be able to use force upon another person requires that that person submit to force – in other words, in order for one person to be moral, the other person must be immoral, which cannot stand. Also, if the other person *submits* to force, it is not force – thus he must *resist*, which requires that he resist virtue in order to enable virtue, which is self-contradictory.
 
