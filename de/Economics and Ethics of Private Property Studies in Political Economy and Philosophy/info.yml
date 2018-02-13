@@ -110,12 +110,10 @@ translation:
   fetch_reviwers: true
   fetch_progress: true
 titles:
-  - Economics~~~~~~~
-  - and Ethics~~~~~~
-  - '~~~~~~~~~~of~~~~~~~~~~'
-  - Private Property
-  - Studies in Political~~
-  - Economy and Philosophy
+  - Ökonomie \& Ethik
+  - des Privateigentums
+  - Studien der Politischenquad\quad
+  - Ökonomie und Philosophiequad\quad
 discussions:
   - 
     - https://en.ancap.ch/t/5
@@ -162,19 +160,24 @@ resources:
   - 
     resource: [ ]
     rule: "front_cover"
-    content: "cover.png"
+    content: "Pasture_and_Rail_Fence.jpg"
     websites:
-      - Resource website
-    description: Resource description
+      - "https://commons.wikimedia.org/wiki/File:Pasture_and_Rail_Fence.jpg"
+    description: A pasture overlooks rolling hills in Switzerland. By Joseph Clemens (Klemenz) Kaufmann (7.2.1867 - 21.11.1926)
     persons:
       - "template_person"
 targets:
   - 
     target: [ ]
     name: book
+    size: a4
     reset_footer_active: true
     reset_footer_depth: 2
     clear_page_active: true
     clear_page_depth: 2
     toc_depth: 3
-version: "0.1.2"
+    covers:
+      - 
+        cover_file: "Pasture_and_Rail_Fence.jpg"
+        cover_dimensions: [0, 0, 1198, 1695] # the x offset, the y offset, the width (0 = full), the height (0 = full)
+version: "0.1.3"
