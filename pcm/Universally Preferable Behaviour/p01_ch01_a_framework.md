@@ -58,39 +58,39 @@ Wen we dream for nyt, our perceptions be say d rules of “matter” and “ener
 
 Logic, science and truth, den, no dey possible wen *consistency* no dey.
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+Fundamentally, d laws of logic na im dey derive from d matter and energy behaviour, at least for d perceptual level. If I tell u say make u throw a ball both up and down for d same tym, Na somtin wey no dey possible I dey ask, wey u git test as u wan talk say make u do wetin I ask for. If I tell u say make u plough both d north field and d south field for d same tym, you no go fit do am. If I deman say make u turn rose into a donkey, u no fit meet ma demand.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+Perceptual reality dey consistent and objective - and e no dey from dis consistency and objectivity wey we derive from dem logic laws. Our statement about reality fit only accurately *represent* reality wey be direct result of dis consistency and objectivity so.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+D fact say seagulls no arbitrarily turn enta anvils - or vice versa - na d root of our capacity to judge d talk accurately: “Dat one na seagull.” If seagulls dey change dia nature spontaneously and continually, we no go fit make maybe na tru or false talk ontop dem - or anytin for dat matter.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Dis na d root of a key criterion of d scientific method - reproducibility. If I make a universal claim say about d nature og gravity, den you suppose fit reproduce dat claim for ur own environment. If reality *no* dey consistent, den reproducibiliyu go be irrational criterion for truth wey dem wan establish.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+If u be maths teacher, you no go wan accept answer wey wrong from a student, even make dat student talk say im answer dey “right” wen e put am down, but e be like say e change for d interim.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Thus we fit accept say we fit measure d vaidity of a talk relative to objective reality  both empirically, and logically. Logic as discipline dey arise as a result of d consistency of reality dem; empirical observations na ogbonge or no be ogbonge as a result of d reality nature wey dey consistence.
 
-### The Existence Of "Truth"
+### D existence of "Truth"
 
-Truth, then, can be measured according to two central criteria:
+Truth, den, fit dey measured acoording to two central criteria:
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+1. Truth na measure of correlation wey dey between d ideas for our minds and d consistency of rationality dem, wey be say dem derive am straight from d consistent behaviour of matter and energy wey dey d real world.[^2]
+2. Truth na also measure of d correlation wey dey between d ideas for our minds and d nature and behaviour of matter and energy for d real world.[^3]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+D first criterion na measure of d consistency of idease wit demself - and dat kyn consistency na requirement because say reality dey consistent im self. If I talk say, “I no dey exist,” dat one na exaple of idea wey no dey consistent im self, since I must dey exist before I talk dat kyn tin. D second criterion na measure of d accuracy of ideas wey dey relative to empirical observtions of reality wey dey objective.
 
-#### Empiricism Versus Rationality
+#### Empiricism Versus rationality dem
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+We fit tink empiricism say na ability to catch a ball wey dem throw instinctively, or to measure im movement; rationality na d ability to predict and sabi d path wey d ball go pass based ontop d universal principles. Clearly, if d ball randomly go any and evry direction - and com turn into flock of doves to boot magically - we we no go fit predict dia behaviour.
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Thus, since matter com follow immutable laws, our theories *about* matter suppose follow immutable laws too. If I no sabi anytin for baseball, but I dey watch baseball game wia dem players dey follow d rules, e no go dey normal say make I formulate theory about dem baseball rules wey no agree wit d behaviour of dem players wey I dey watch. Since d actions of dem players dey consistent, *any theory wey I develop ontop d rules wey dey guide dose actions suppose dey consistent too.
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+Dis requirement for consistency na one of dem most basic requirements for truth dem. Since reality dey consistent, theories ontop reality suppose dey consistent too.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+In fact, d first hurdle wey any theory suppose overcome na dat one of *internal consistency*.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^1]: If u no value truth, u no go neva dey dis debate - or any oda debate - for d first place!
 
-[^2]: Rational consistency, or internal logic.
+[^2]: Normal consistency, or logic wey dey internal.
 
 [^3]: Empirical evidence, or empiricism.
