@@ -20,7 +20,7 @@ Wating this means is that entrepreneurs assume (*choose*, even) costs based on d
 
 For imperfect markets, this means say there fit be high markups wey offer entrepreneurs enormous profit. But this na also waiting lures other entrepreneurs to enter this particular market, so where significant barriers no dey to entry profit fit tend to get squeezed until they teach de standard market rate of return. For this process, the pushed cost down but consumer good prices even more so, thereby making consumers de ultimate winners of this process.
 
-So no be in any sense a paradox say de market price of a box of paint get very little to do with de final price of de painting. The box of paint is traded in the market at a price that partly is derived from the anticipated value of paintings. Similarly, the coca leaves that will eventually end up in a nostril on Wall Street *are valued because the end product is valued.*
+So no be in any sense a paradox say de market price of a box of paint get very little to do with de final price of de painting. Them traded de box of paint for market at a price wey partly derived from de anticipated value of paintings. Similarly, the coca leaves that will eventually end up in a nostril on Wall Street *are valued because the end product is valued.*
 
 If government burns half of those fields, this will not lead to a doubling of the final good’s price. Instead, it will increase the costs that need to be covered by producers to make the final good available in consumer markets. As margins are enormous in illegal drug production and distribution, primarily as a result of government repression, producers don’t think twice to continue just like before without changing prices: it only causes a small dent in their income.
 
