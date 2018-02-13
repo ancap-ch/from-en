@@ -16,7 +16,7 @@ O que impossibilita a virtude de ser má. Por exemplo, a "liberdade" é um pré-
 
 Se é moralmente bom ser um estuprador, e só um pode ser um violador ao atacar sexualmente uma vítima, então a vítima, evidentemente, deve ser moralmente boa, ao resistir ao assalto sexual - pois, se não resistir, por definição é não violação e portanto, não é virtuoso. Por outras palavras, *atacar* a virtude por definição *permite* a virtude. Assim, temos um paradoxo insuperável, no qual a vítima deve atacar a virtude para permitir a virtude - deve resistir às agressões sexuais para permitir a "virtude" do violador. Assim, não só a vítima de violação *não* é virtuosa, senão que deve resistir e atacar a "virtude" para o permitir.
 
-Insurmountable logical problems thus result from the proposition: “rape is moral.” Remember, we agreed that a rational theory cannot propose opposite states for the same situation. All other things being equal, a rock cannot fall both up and down at the same time, and a valid theory cannot predict that one rock will fall up, while another rock will fall down.
+Portanto os problemas lógicos insuperáveis resultam da proposição: "o estupro é moral". Lembre-se que concordamos que uma teoria racional não pode propor estados opostos para a mesma situação. Todas as outras coisas sendo iguais como: uma rocha não pode cair tanto para cima como para baixo ao mesmo tempo, e uma teoria válida não pode prever que uma pedra cairá, enquanto que outra pedra subirá.
 
 In the same way, two men in a room must be considered to be in the same situation. If only one of them can be good, because goodness is defined as rape, and only one of them can rape at any time, then we have a logical contradiction that cannot be resolved.
 
