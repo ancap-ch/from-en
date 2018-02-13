@@ -48,26 +48,26 @@
 
 当然不是在物质现实中，它不包含或遵守单一的道德规则。道德规则不同于物理规则，正如科学方法不同于重力一样。不管天生服从重力或热力学第二定律，但“你不能杀人”在物质的本质上是没有的。物理定律描述物质的行为，但不包含单一的处方。科学认为，物质确实以某种方式表现 -绝不应该以某种方式表现出来。一个重力理论证明，如果你把一个人从悬崖上推下去，他就会摔倒。它不会告诉你是否该推他。
 
-因此，不能说道德规则存在于物质现实中，也不能像物理定律那样自动服从 -这并不意味着道德法则是虚假的、主观的或不相关的。科学方法本身在现实中也不存在 - 也是可选的 - 但它不是完全虚假的，主观的或无关的。
+因此，不能说物质现实中存在道德规则，也不能像物理定律那样自动服从 - 这并不意味着道德规律是错误虚假的，主观的或不相关的。科学方法本身在现实中也不存在 - 也是可选的 -  但它根本不是虚假错误的，主观的或不相关的。 
 
-如果我们能够证明道德理论是客观的,理性的和可验证的，那么这将给物理学理论和科学方法一样的伦理学带来同样的好处。在科学方法兴起之前，人们认为物质服从上帝和魔鬼的主观意念，人们现在相信同样的道德。火山爆发是因为山神生气了；人类或动物的牺牲中获得丰收。 No one believed that absolute physical laws could limit the will of the gods – and so science could never develop. Those who historically profited from defining physical reality as subjective – mostly priests and aristocrats – fought the subjugation of physical theories to the scientific method, just as those who currently profit from defining morality as subjective – mostly priests and politicians – currently fight the subjugation of *moral* theories to objective and universal principles.
+如果我们能够证明道德理论可以是客观的，理性的和可验证的，那么这将给物理学理论和科学方法一样的伦理学带来同样的好处。在科学方法兴起之前，人们认为物质服从上帝和魔鬼的主观意念，人们现在相信同样的道德。火山爆发是因为山神生气了；人类或动物的牺牲导致了丰收。没有人相信绝对的物理法则会限制神的意志 - 所以科学永远不会发展。那些历史上得益于定义物理现实的主观主义者–大多是牧师和贵族 – 战斗物理理论的亡国的科学方法，就像那些目前利润从道德定义为主观 – 大多是牧师和政治家–目前正在打击道德的征服理论到客观和普遍的原则。
 
-As mentioned above, the scientific method is essentially a methodology for separating accurate from inaccurate theories by subjecting them to two central tests: logical consistency and empirical observation – and by always subjugating logical consistency to empirical observation. If I propose a perfectly consistent and logical theory that says that a rock will float *up* when thrown off a cliff, any empirical test proves my theory incorrect, since observation always trumps hypothesis.
+如上所述，科学方法本质上是一种方法，它通过对它们进行两个中心逻辑测试：致性和经验观察 - 以及总是将逻辑一致性征服到经验观察来区分准确和不准确的理论。如果我提出一个完全一致的和逻辑的理论是这样的：说岩石会从悬崖上浮起来，任何实证检验证明了我的理论是错误的，因为观察总是胜过假设。
 
-A further aspect of the scientific method is the belief that, since matter is composed of combinations of atoms with common, stable and predictable properties, the behaviour of matter must also be common, stable and predictable. Thus experiments must be *reproducible* in different locations and times. I cannot say that my “rock floating” theory is correct for just one particular rock, or on the day I first tested it, or at a single location. My theories must describe the behaviour of *matter*, which is universal, common, stable and predictable.
+科学方法的另一个方面是相信，由于物质由具有共同的，稳定的和可预测的性质组成的，因此物质的行为也必须是共同的、稳定的和可预测的。因此，实验必须在不同的地点和时间重现。我不能说我的“岩石漂浮”理论对一种特定的岩石是正确的，或者在我第一次测试它的那一天，或者在一个单一的位置上是正确的。我的理论必须描述物质的行为，这是普遍的,普遍的, 稳定的和可预测的。
 
-Finally, there is a generally accepted rule – sometimes called Occam’s Razor – which states that, of any two theories that have the same predictive power, the simpler of the two is preferable. Prior to the Copernican revolution, when Earth was considered the centre of the universe, the retrograde motion of Mars when Earth passed it in orbit around the sun caused enormous problems to the Ptolemaic system of astronomical calculations. “Circles within circles” multiplied enormously, which were all cleared away by simply placing the sun at the centre of the solar system and accepting the elliptical nature of planetary orbits.
+最后，有一个普遍接受的规则 - 有时被称为 Occam 的 Razor-其中指出，任何两个理论具有相同的预测能力，更简单的两个是可取的。在 Copernican (哥白尼革命) 前，当地球被认为是宇宙的中心，逆行的火星时，地球通过它绕太阳轨道导致天文计算托勒密系统巨大的问题。“圆内圆”的数量大大增加，只需将太阳置于太阳系的中心，并接受行星轨道的椭圆性质而消除了。
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+因此, 任何有效的科学理论必须是（a）普遍的（b）逻辑的（c）经验可验证的（d）可重复性和的（e）尽可能简单的。
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+判断和证明道德理论的方法与判断和证明任何其他理论的方法完全一样。
 
-#### Moral Rules: A Definition
+#### 道德规则：定义
 
-The first question regarding moral rules is: *what* are they?
+关于道德规则的第一个问题是：他们是什么？
 
-Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
+简单地说，道德是一套规则，要求准确而一致地识别普遍的最佳人类行为，正如物理学是一套规则，要求准确而一致地确定物质的普遍行为一样。
 
-The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+要问的第二个问题是：是否存在“普遍可取的行为”之类的现象？如果有的话，我们可以开始探索这种行为可能是什么。如果不是这样，那么我们必须停在这里 –正如托勒密天文学的检验在普遍认为太阳实际上是太阳系的中心之后停止了一样。
 
-[^6]: In physics, the question is: either universal physical rules are valid, or they are not.
+[^6]：在物理学中，问题是：任何普遍的物理规则都是有效的，或者它们不是。
