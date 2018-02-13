@@ -38,4 +38,4 @@ Kung, ang pinakamalaking panganib sa sangkatauhan ay maling haka-haka, at ang pi
 
 Ngayon ay magtungo na tayo sa gawaing iyon.
 
-[^12]: Or, rather: “*forced* education is a virtue” – my parents were compelled to pay through taxes, and I was compelled to attend.
+[^12]: O, sa halip:"*pilitin* kabanalan ang edukasyon" - ang aking mga magulang ay napilitang magbayad sa pamamagitan ng pagbayad ng mga buwis, at ako ay napilitan na dumalo.
