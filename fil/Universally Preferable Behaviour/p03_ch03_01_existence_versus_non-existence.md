@@ -44,7 +44,7 @@ Sundalo, syempre, silay nagsusuot ng naiiba sa karaniwang mamayan. Ang karaniwan
 
 Dalhin ang ibapang halimbawa.
 
-Ang pagnanakaw ay mali sa moral, tulad ng nakita natin sa itaas. Ito ay moral na mali sa lahat ng tao sa lahat ng pagkakataon sa lahat ng oras at sa ilalim ng lahat ng mga pangyayari. Dahil ang pagnanakaw ay sapilitan pag alis ng mga ari arian ng ibang tao ng walang pahintulot, Kung gayon ang laging pagbubuwis sa buong Mondo at magpakaylanman ay moral na masama. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Ang pagnanakaw ay mali sa moral, tulad ng nakita natin sa itaas. Ito ay moral na mali sa lahat ng tao sa lahat ng pagkakataon sa lahat ng oras at sa ilalim ng lahat ng mga pangyayari. Dahil ang pagnanakaw ay sapilitan pag alis ng mga ari arian ng ibang tao ng walang pahintulot, Kung gayon ang laging pagbubuwis sa buong Mondo at magpakaylanman ay moral na masama. Ang pag bubuwis ay sapamamagitan ng kahulugan Ang sapilitan pag alis ng Ari arian sa ibang tao ng walang pahintulot, yamang ang pagbubuwis ay umaasa sa pagsisimula gumamit ng pwersa upang iwaksi ang isang tao sa kanyang ari arian.
 
 What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
 
