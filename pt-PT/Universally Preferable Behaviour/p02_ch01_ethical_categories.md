@@ -22,9 +22,9 @@ Além disso, como filósofos morais, devemos priorizar o nosso exame da ética r
 
 Portanto, devemos concentrar os nossos esforços, principalmente nas acções universalmente preferíveis e exigíveis.
 
-### Virtude E Oposição
+### A Virtude E O Seu Oposto
 
-The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil.” If I propose the moral rule, “thou shalt not steal,” then stealing must be evil, and *not* stealing must be good. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
+O oposto da "virtude" deve ser "vício" - o oposto do "bem" deve ser "mal". Se eu propuser a regra moral, "não roubarás", então o roubo deve ser mau e *não* o roubo deve ser bom. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
 
 Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
 
