@@ -70,7 +70,7 @@ Lọnà kànnà ni, ọkùnrin kan to ní àrùn ọpọlọ jẹ ẹnìkán ti 
 
 Given that the question of moral responsibility and intellectual capacity only applies to a very small percentage of people right on the border, and that creating objective and perfect tests is very likely to prove impossible, there will inevitably be some “rules of thumb” that win the day. We can only assume that, since biologists live with this kind of occasional subjectivism every day, moral philosophers can somehow survive as well.
 
-### Property As Universality
+### Dukia gẹgẹbi àjọni
 
 UPB thus gives us clear options with regards to property rights. It cannot be the case that some men have property rights, while other men do not. It cannot be the case that men in Washington have property rights, while women in Baltimore do not. It cannot be the case that men have property rights today, but not tomorrow, and so on.
 
