@@ -22,7 +22,7 @@ Ang mga Pribadong Kriminal na umiiral, siyempre, *subalit halos walang epekto sa
 
 Sa kabilang banda, ako ay nagkaruon ng daan-daang libong dolyar at ito ay sapilitang kinuha sa akin sa pamamagitan ng moralidad na mga teoriya na ang "pagbubuwis ay mabuti." Ako ay napilitang lumumpasay dahil sa matinding pahirap at pagkasira ng isip dahil sa mga mentalidad na gulags ng mga pampublikong paaralan para sa mga labing-apat na taon, base sa moralidad na teoriya na "ang estado ng edukasyon ay isang kagalingan."[^12]
 
-The boy (and the man) who stole my money doubtless used it for some personal pleasure or need. The government that steals my money, on the other hand, uses it to oppress the poor, to fund wars, to pay the rich, to borrow money and so impoverish my children – and to pay the salaries of those who steal from me.
+Ang batang lalaki (at ang lalaki) na nagnakaw ng pera ko ay walang pag aalinlangang ginamit ito para sa pansariling kasiyahan o pangangailangan. The government that steals my money, on the other hand, uses it to oppress the poor, to fund wars, to pay the rich, to borrow money and so impoverish my children – and to pay the salaries of those who steal from me.
 
 If I were a doctor in the middle of a great city struck down by a terrible plague, and I discovered that that plague was being transmitted through the water pipes, what should my rational response be – if I claimed to truly care about the health of my fellow citizens?
 
