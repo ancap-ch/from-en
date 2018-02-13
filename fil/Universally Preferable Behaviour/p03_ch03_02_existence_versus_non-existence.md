@@ -67,7 +67,7 @@ Ang sitwasyong ito, habang interisadong teyorya, lohikal na hinihimay-himay dahi
 2. Walang paraan upang matiyak na ang mabubuting tao lamang ang laging tumatakbo sa pamahalaan; at,
 3. Doon ay talagang walang halimbawa nito ang naganap sa ilalim ng kahit anumang malupit na mga talaan ng kasaysayan.
 
-The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
+Ang lohikal na mali ay laging ginagawa sa pagtatanggol ng pamahalaan ay ang isipin na ang anumang kolektibong moral na desisyon na inilalapat sa anumang grupo ng tao ay * ay hindi inilalapat sa mga grupo na kung saan ay naghahari sa kanila *. Kung ang limampung porsyento ng mga tao ay masama, pagkatapos ay*hindi bababa* sa limampung porsyento ng mga tao na namumuno sa kanila ay masama rin.[^9] Thus the existence of evil can never justify the existence of a government.
 
 If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
 
