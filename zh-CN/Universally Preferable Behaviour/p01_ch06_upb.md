@@ -49,35 +49,35 @@
 
 如果，当我决定离开你的晚宴派对时，你跳起来把我拉到我的椅子上，很明显我再也没有自由选择离开了。这时，你的粗鲁变成公然的侵略，越过美学走向道德的界限。
 
-If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I have certainly done her wrong, but the wrong that I have done by cheating would be very different from the wrong I would do if I lock her in the basement to prevent her from leaving. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does.
+如果在发誓一夫一妻制之后，我欺骗了我的妻子，她决定离开我，我确实做错了，但是我作弊的错误与我将她做错的事情大不相同防止她离开的地下室。我们一般不会认为一个妻子因为不忠而枪杀她的丈夫是出于道德上的行为，但如果她不得不使用暴力逃避监禁的话，我们会意识到这是令人遗憾的必然。在第一种情况下，妻子有自由选择和有能力离开她的丈夫，因此暴力是对这种情况的不公正反应;在第二种情况下，她选择离开丈夫的行为已经被监禁。不忠不会破坏伴侣的选择能力；把她锁在地下室里。
 
-### Avoidance
+### 回避
 
-If you and I are both standing at the top of a cliff, and I turn to you and say, “Stand in front of me, so I can push you off the cliff,” what would your response be? If you do voluntarily stand in front of me, and I then push you off the cliff, this would more likely be considered a form of suicide on your part, rather than murder on my part. The reason for this is that you can very easily *avoid* being pushed off the cliff, simply by refusing to stand in front of me.
+如果你和我都站在悬崖顶上，我转向你说，“站在我前面，我可以把你从悬崖上推下去”，你的反应是什么？如果你自愿站在我面前，然后我把你从悬崖上推下去，那么这很可能被认为是你自杀的一种形式，而不是我的谋杀。这样做的原因是，你可以很容易地避免被推下悬崖，只是拒绝站在我面前。
 
-Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death,” if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
+同样，如果我在酒吧遇到你，说：“我想让你回到我的地方，这样我就可以把你绑在床上，然后饿死你，”如果你真的回到我的地方，那是合情合理的，知道你的长寿不会因你的决定而增强。另一方面，如果我在你的饮料里放了“约会强奸”毒品，你醒来时被绑在我的床上，那么很明显，为避免这种情况，你可以做的很少。
 
-This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose.
+这个回避问题是区分美学与伦理学的关键。美学适用于可能令人不快的情况，但这并不会消除你选择的能力。
 
-#### Avoidance And Initiation
+#### 回避和起始
 
-There is a particular issue with avoidance that will come up later in this book, which is worth clearing up here beforehand.
+这本书后面会出现一个特别的回避问题，值得在这里澄清。
 
-If I live on a high mountaintop five thousand kilometres away from you, and send you an e-mail telling you that if you ever walk in front of my house, I am going to shoot you, it is relatively easy for you to avoid this situation. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
+如果我住在离你五千公里的一个高山顶上，并给你发一封电子邮件，告诉你如果你走在我家前面，我会开枪射击你，这样做比较容易避免情况。我对武力的威胁当然是不道德的，但如果你立刻跳上飞机，爬上我的山，慢慢地在我的房子前面溜达，问题肯定会被提出。
 
-On the other hand, if you live on a dead-end street, and I tell you that if you take that street to get home, I will shoot you, your capacity to avoid this situation becomes significantly limited. You could certainly tunnel into your house, or jump over a bunch of backyard fences, but all of this would be considerably inconvenient.
+另一方面，如果你生活在一条死胡同的街道上，我告诉你，如果你走那条街回家，我会开枪打死你，你的能力，以避免这种情况变得非常有限。你当然可以进入你的房子，或跳过一堆后院栅栏，但所有这些都会相当不方便。
 
-In a similar manner, if a representative of organised crime comes to my house and threatens to burn it down if I do not pay regular protection money, I can avoid that specific threat by moving to another continent, but that would seem like a rather unjust way to deal with the situation, since I must now initiate action in order to avoid the threat.
+以类似的方式，如果有组织犯罪的代表来我家威胁要烧毁它如果我不定期支付保护费，我可以通过转移到另一个大陆来避免这种具体的威胁，因为我现在必须开始行动为了避免威胁。
 
-For the moment, we can assume that *any* threat of the initiation of violence is immoral, but the question of avoidance – particularly the *degree* of avoidance required – is also important. In general, the more that a threat interferes with the normal course of daily actions, the more egregious it is. If I have to fly to another continent in order to walk in front of your house, that is scarcely an everyday activity. If I am threatened with violence for walking down the only road towards my own home, that is a far worse intrusion upon my liberties. If I have to take specific and unprecedented action to trigger a threat, that is one thing – if I trigger the threat through normal everyday activities, that is quite another. Telling you I will slap you if you stand on your head on the dark side of the moon is scarcely a threat – telling you I will slap you if you *breathe* is.
+目前，我们可以假定任何暴力开始的威胁都是不道德的，但回避的问题 - 尤其是需要避免的程度 - 也很重要。一般来说，一个威胁越干扰日常行动的正常过程，它就越是令人震惊。如果我不得不飞到另一个大陆去走在你的房子前面，那几乎不是每天的活动。如果我因为走向走向自己家庭的唯一道路而受到暴力威胁，那对我的自由来说是一种更糟的侵扰。如果我必须采取具体的前所未有的行动来引发威胁，那么这是一回事 -如果我通过日常正常活动触发威胁，那就是另一回事了。告诉你，如果你把头靠在月亮的阴暗面，我会打你，这几乎不是威胁 - 告诉你，如果你呼吸的话，我会打你。
 
-### Ethics, Aesthetics, And Avoidability
+### 伦理学，美学，和结果
 
-Let’s say that you and I agree to meet at a certain location at six o’clock sharp – but then I show up half an hour late. What would your reaction be? At first, you may be a little annoyed. If I tell you that I was delayed because I stopped to give a dying man CPR and saved his life, your annoyance would likely be replaced with admiration. On the other hand, if I tell you that I am late because I was playing a video game, your annoyance would probably increase. A dying man’s need for CPR is unexpected, and therefore pretty much unavoidable – continuing to play a video game is easily avoidable, and clearly shows a lack of consideration for you.
+假设你和我约定六点准时在某个地点见面，但我晚了半个小时才露面。你的反应是什么? 起初，你可能有点恼火。如果我告诉你我被推迟了，因为我停下来给一个垂死的人CPR，救了他的命，你的烦恼很可能会被赞美代替。另一方面，如果我告诉你因为我在玩电子游戏而迟到，你的烦恼可能会增加。一个垂死的人需要CPR是意想不到的，因此是不可避免的 - 继续玩一个视频游戏是很容易避免的，显然缺乏考虑到你。
 
-It is this capacity to *avoid* situations that forms a central root of ethical judgements A woman raped by a random intruder in her own home is undoubtedly the complete victim of a terrible crime. A woman who gets raped after getting blind drunk at a frat party and dancing naked on a tabletop presents a more complicated case. Clearly the rape, once under way, cannot be avoided, since it is being violently inflicted – however, situations which increase the likelihood of rape can be avoided.
+正是这种能力避免了道德判断的核心根源，而在自己家中被任意入侵者强奸的妇女无疑是可怕罪行的受害者。一个女人在一个兄弟会上盲目喝醉，在桌面上赤身裸体跳舞后被强奸的女人呈现出更复杂的情况。显然，强奸案一旦发生，就无法避免，因为它正在受到暴力的打击——然而，增加强奸可能性的情况是可以避免的。
 
-If someone breaks into my house and takes my wallet at gunpoint, I have every right to be outraged. If, however, I leave my wallet sitting on a park bench for a week, do I have the same right to be outraged when I return to find it gone? Instinctively we feel that this would seem to be less justified.
+如果有人闯进我的房子，我的钱包在枪口下，我完全有权利感到愤怒。然而，如果我把钱包放在公园长椅上一个星期，当我回去发现它不见了的时候，我是否还有同样的愤怒的权利呢？本能地，我们觉得这似乎是不太合理的。
 
 Clearly, this question of avoidance is central to our moral evaluation of cause and effect. Illnesses that strike without warning, and which cannot be prevented, frighten us far more than those that we can avoid. We can minimise the chances of getting lung cancer by refraining from smoking, just as we can help prevent skin cancer by using sunscreen, and avoid broken bones by eschewing extreme sports. Similarly, we can do much to avoid crime through some fairly simple habits, such as choosing moral companions, avoiding locales and situations where crime is more probable, refraining from substance abuse and so on.
 
