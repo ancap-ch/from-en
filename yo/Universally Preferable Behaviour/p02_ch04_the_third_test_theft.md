@@ -52,9 +52,9 @@ Ti àwọn èèyàn kò bá ní iyasọtọ ẹtọ níní lori ara wọn, a je 
 
 Ki n ṣe ẹ̀ṣẹ̀ lati gba emi ara ẹni, bi diẹ ju ki eeyan dáná sún ilé ẹni, nígbà tó ṣe pé kiko ìparun ba nkan ini ẹni jẹ àmúlò dáadáa fun ẹtọ nini. Sibẹsibẹ, ti iyasọtọ ẹtọ níní ara ẹni ko bá sì, a jẹ́ wípé kò sí ìyàtọ̀ láàrin ipaniyan ati gbígbà ẹ̀mí ẹni. Ti ẹdọfóró mí bá dá iṣẹ lẹ, ti mo ṣì ni ẹtọ lati gba tiẹ, a je wípé mo lè " tún ni" èmí ni ìbámu pẹlú ìwà rere àti ìhùwàsí apọ́nlé. Ti ìgbésẹ yìí ba pa ọ, ki wa ni? Láìsí iyasọtọ ẹtọ níní ara ẹni, ko sí "iwọ" láti bẹrẹ pẹlú…
 
-Thus we can reasonably say that exclusive self-ownership is a basic reality – that all human beings at all times and in all places have exclusive ownership over their own bodies, and thus have exclusive ownership over the effects of their own bodies, both in terms of moral behaviour and property creation or acquisition.
+Báyìí a lè fí ọgbọn sọ wípé iyasọtọ ẹtọ níní ara ẹni jẹ ìpìlẹ òtítọ́ - wípé gbogbo èèyàn nígbà gbogbo àti níbikíbi ni iyasọtọ ẹtọ níní lórí ara wọn, ati iyasọtọ ẹtọ níní lórí ipa ti ara wọn kò, nínú ìhùwàsí àti dukia níní tabi kikojọ.
 
-### The Grey Areas
+### Awọn àgbègbè láàrín dáadáa ati àìdá
 
 Naturally, any statement such as the above brings the inevitable howls of “complexity,” which I fully agree with.
 
