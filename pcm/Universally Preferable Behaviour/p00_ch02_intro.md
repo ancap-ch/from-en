@@ -92,42 +92,42 @@ Biologically, parasitism na wholly a survival strategy wey dey possible for plen
 
 However, a virus wey dey always leave us to dey tire, and wey na small we no peme, no fit to dey call am “Somtin wey both tin dey enjoy.” If we tink am for d long and grim old tori of disaster, starvation, war, disease and no money - make we com compare am wit d astounding material success for now - e dey clear say one form of parasitism dey tyrannise our mind and capacities for millenia dem. For d few hundred years wey don pass don show d power and d creativity wey dey d man pikin spirit, we fit see our species say na organism wey don comot parasite wey bad, and don comot from deathbed wey be like for lyf com perform astounding feats for gymnastics dem.
 
-When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
+Wen we cure ourself of a disease so, we go feel beta, but d disease no go feel beta. If we look am for smallox virus angle, d vaccine for small pox dem na die.
 
-In the same way, the parasites that strangle mankind view the liberty of the majority with horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+For d same way, d parasites wey dey strangle man pikin dey see d liberty of d majority wit horror. Since dia parasitism don free dem from d demands of dem reality - to dey earn wetin dem go chop evry day - dem see d freedom of d masses say na way of enslavement for demselves so. So shey a farmer go see d “liberation” of im livestock as total gbese…
 
-Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+To establish truth dey reduce fantasy. To dey limit fantasy mean say e go dey reduce using of person brain. If I fit convince u say na me be God wey dey live as-man, and dat d God wey born me wan make u giv me ten percent for ur income, or na punishment u go get for life, den me go com rich well well. I be parasite of illusions dem, and na dat illusions me dey depend ontop for ma sustenance as fungus dey depend ontop warmth, dampness - and darkness so.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+Dose wey dey use moral fantasies to dey use man pikin brain dey always fyt tooth and nail against dose wey dey threaten dia livelihood by sabi and to dey spread d truth.
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+We dey familiar wit d example of d Mafia, wey dey threaten potential rivals dem wsay dem go maim and kill dem, or d show of dem religious sects wey dey attack dem self, or one government wey dey attack dem self.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+Wen dem philosophers com expose d lies wey dem dey use to dey use man pikin brain, however, dem no dey look say make dem be competitors. Dem no wish say dem wan *replace* d Mafia, or d church - dey wan remove am completely.
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+A beta analogy wey dey now go be d relationship wey dey between d state, dem lobbyists and dem taxpayers. Lobbyists go attack oda lobbyists dem wella who dey follow drag for d same tax dollar so. However, look am how *all* lobbyists go com join togeda com attack anyone wey tink say make dem comot d state as e be institution.
 
-Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
+Parasites go vex com compete wit dem self for d host's resources wey no too plenty - but na for dia own best interest say make dem com join togeda com attack anything wey tink say e fit comot d host itself.
 
-In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
+For dis way, for any area wey d state and d church no too dey togeda, each of dem entity go dey compete for loyal followers dem. Wia d church don dey lose ground, d state go dey vex dey recruit patriots dem - wey go turn to religious fundamentalism, wey dey wit d tinges of libertarianism.
 
-However, the philosophers who oppose *all* intellectual error are the sworn enemies of all the parasites that feed off illusions. The “great truths” of physics eliminate the need for supernatural agents, and render miracles impossible. The explanatory power of science wholly outshines the religious fictions that masquerade as knowledge about the physical world.
+However, dem philosphers wey no accept *all* intellectual mistake dem na d sworn enemies of all dem parasites wey dey feed off dem illusions. D “great truths” of physics don comot d need for dem supernatural agents, and dey put say miracles no dey possible. D explanatory power of science dem don outshine d religious fictions wey dey hide com talk say im be knowledge about d physical world. 
 
-The scientific method requires that every thesis be supported by evidence and rationality. Since there is no evidence for gods – and the very *idea* of gods is innately self-contradictory – the thesis “gods exist” cannot stand. Inevitably, the religious parasites attempt to defend their thesis by trying to split reality into “two realms” – the scientific and the spiritual. However, there is no evidence for the existence of this “spiritual” realm in the present, any more than there was for the parallel universe of Platonic “Forms” two thousand five hundred years ago.
+D scientific method need say make dem support evry thesis wit evidence and rationality. Since evidence no dey for dem gods - and d *idea* say dem gods dey contradict demself innately - d thesis say “gods exist” no fit dey. For sure, d religious parasites go wan try defend dia thesis as dem go wan divide reality into “two realms” - d scientific and d spiritual. However, evidence no dey say dis “spiritual” realm dey for now, any more dan dia was for d parallel universe of Platonic “Forms” towo thousand five years wey don pass. 
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+Thus d establishment of of consistent and d universal truth dey limit and dey destroy d expolitive potential of illusion dem. In particular, d “great truths,” wey dey universal and consistent, make e dey redundant and ridiculous d “truths wey dey middle” - wey be say dem be exploitive fantasies. We dey familiar wit d “truths wey dey middle” of religion; na just shikini odas we go examine and reveal hia, wey be say som of dem go surprise u so.
 
-### Effective Parasitism
+### Parasitism wey dey effective 
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+D parasitism wey dey effective pass - or dem viruses - na d ones wey dey fool d bodi into indifference. Dem do our immune system wey be say e fit attack anytin wey be jjc for our bodi, to separate and make dem kill dem. We dey fear HIV and cancer in particular because say dem fit bypass our immunne systems dem. Na d same technique intellectual parasites dey use to disable d defence systems of dose wey dem wan chop.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+If a person wey u no sabi com attack u for one corner and ask for ur money, u go dey horrified and appalled. You fit fyt back, or make u pick race, or u fit giv am ur wallet, but u go dey shocked, vex and fear by d convo. Wen u dey talk d story wey happen again, u go talk am for a way wey reinforce d base and vle violation of ur own right and property rights dem. Odas go dey feel for ur wahala, and go tell u say make u dey avoide corner for future so.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+Dis na example of a “shikini truth,” wey be: “to dey steal from me no dey ryt.”
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+However, when one government agent com send u letter say make u pay am ego, you go feel one kyn indignity, but u no go follow ur friends talk d tori wit d same horror and indignation.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+Dis na example of “truth wey dey middle,” wey be “to dey steal no ryt.”
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+Dis book go focus to expose and destroy dis false “truths wey dey middle.” I believe say man pikin don too suffer under d tyranny of ethical wey no correct “truths wey dey middle” wey justify d destructive world-views of religious superstition dem, secular despotiam and d cult of d family dem.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+Ma thesis for dis book na say fo ethics, as e dey for evry intellectual discipline dem, d greath truths dey arise straight from d little truths. D disorienting fog of d “truths wey dey middle” dem na one kyn hell part to pass, but e com worth d wahala, because d only fundamental alternative to truth na to dey use person brain, destruction - and, for sure, d peme of millions dem.

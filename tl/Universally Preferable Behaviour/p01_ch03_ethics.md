@@ -32,24 +32,24 @@ Bilang Hume famously itinuturo, imposible upang makakuha ng isang "nararapat" mu
 
 Similarly, there is no such thing as a universally “better” direction – it all depends upon the preferred destination. If I want to drive to New York from San Francisco, I “ought” to drive east. If I want to drive into the ocean from San Francisco, I “ought” to drive west. Neither “east” nor “west” can be considered universally “better.”
 
-It is true that very few people *do* drive into the ocean, but that does not mean that it is universally true that nobody *ought* to drive into the ocean. Principles are not democratic – or, if they are, we once more face the problem of rank subjectivism, and must throw the entire concept of ethics out the window.
+Totoo na napakakaunting mga tao *ang* nagtutulak sa karagatan, ngunit hindi ito nangangahulugan na totoo ito sa buong mundo na walang nararapat na magmaneho sa karagatan. Ang mga prinsipyo ay hindi demokratiko - o, kung sila, minsan pa ay nakaharap namin ang problema ng subjectivism ng ranggo, at dapat itapon ang buong konsepto ng etika sa window.
 
-“Behaviour” exists in objective reality, outside our minds – the concepts “ought,” “should,” and “preference,” do not exist outside our minds. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
+Ang "asal" ay umiiral sa layunin na katotohanan, sa labas ng ating isipan - ang mga konsepto na "nararapat," "dapat," at "kagustuhan," ay hindi umiiral sa labas ng ating isipan. Gayunpaman, ang katotohanan na ang "nararapat" ay hindi umiiral sa loob ng layunin na katotohanan ay hindi nangangahulugan na ang "nararapat" ay ganap na pansarili. Wala alinman sa pang-agham na pamamaraan o mga numero sa kanilang sarili umiiral sa loob ng katotohanan alinman, ngunit agham at matematika mananatiling layunin disiplina.
 
-### Self-Defeating Arguments
+### Ang Mga Pangangatwiran sa Sarili
 
-In order to begin our discussion of ethics, it is essential that we understand the nature of *self-defeating arguments*.
+Upang simulan ang aming talakayan tungkol sa etika, mahalaga na maunawaan natin ang likas na katangian ng *mga pagtatalo sa sarili*.
 
-In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
+Sa ekonomiya, ang isang teorya ay hindi maaaring balido kung kinakailangan nito na ang mga presyo ay bumaba at pababa sa parehong oras. Sa pisika, ang isang teorya ay hindi maaaring balido kung nangangailangan ito na ang mga gas ay lumawak at kontrata nang sabay-sabay. Sa matematika, ang isang teorya ay hindi maaaring balido kung ito ay nangangailangan na ang dalawang plus ay katumbas ng lima, sapagkat ang "limang" ay isa lamang na paraan ng paglalarawan ng dalawang plus tatlong, hindi sa dalawa at dalawa, at sa gayon ay sabihin na ang dalawa at dalawa ay katumbas ng limang ay sasabihin Ang lima na katumbas ng apat, na kung saan ay nagkakasalungatan sa sarili.
 
-In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+Sa pangkalahatan, ang anumang teorya na nagkakasalungat sa sarili nito ay hindi maaaring balido. Hindi ito nangangailangan ng panlabas na disproof, dahil pinagtupaan nito ang sarili nito. Hindi namin kailangang suriin ang bawat sulok at cranny sa uniberso upang matukoy na ang isang "parisukat na bilog" ay hindi umiiral. Ang mismong konsepto ay nagkakasalungat sa sarili, at sa gayon ay nagpapababa sa sarili sa pagbigkas.
 
-If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
+Kung isusumite ko ang isang komplikadong matematikal na patunay sa iyo, at napansin mo na, sa simula pa lang, sinasabi ko na ang aking katibayan ay nakasalalay sa katunayan na ang dalawang plus dalawang ay gumawa ng parehong apat at lima sa parehong oras, hindi mo kailangang basahin ang anumang karagdagang malaman na ang aking patunay ay di-wasto.
 
-Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
+Katulad nito, tulad ng nabanggit bago, kung papalapit ako sa iyo at sasabihin: "Hindi ako umiiral," ang aking sanaysay ay awtomatikong nagsira ng sarili. Kung maaari kong makipag-usap sa iyo na hindi ako umiiral, pagkatapos ay malinaw na umiiral ako.
 
-If I come up to you and say: “There is no such thing as truth,” then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
+Kung dumating ako sa iyo at sasabihin: "Walang ganoong bagay na katotohanan," pagkatapos ay gumagawa ako ng isang pahayag na itinuturing kong tunay na nag-aangkin na wala ang katotohanan. Muli, ang aking argumento ay nagsisira ng sarili.
 
-If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
+Kung sasabihin ko sa iyo na "Ang wika ay walang kabuluhan," gayon din ako ay nagkakontra rin sa aking sarili. Upang makapagsalita ako nang walang salita sa wikang iyon ay walang kahulugan, ang wika ay dapat magkaroon ng kahit anong kahulugan.
 
-If I tell you that “Your senses are invalid,” then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
+Kung sasabihin ko sa iyo na "Ang iyong mga pandama ay hindi wasto," kung gayon ang aking argumento ay nakakaapekto rin sa sarili, dahil ginagamit ko ang iyong pakiramdam ng pakikinig upang ipaalam sa iyo na ang iyong pandinig ay hindi wasto. Kung maaari kong matagumpay na iparating ang aking tesis sa iyo, dapat na wasto ang iyong pandinig. Kaya dapat kong ipalagay na ang iyong mga pandama ay wasto upang kumbinsihin ka na ang iyong mga pandama ay hindi wasto, na hindi maaaring tumayo.
