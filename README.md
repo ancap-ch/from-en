@@ -39,12 +39,12 @@ We hope you enjoy!
 | de | [German (Deutsch)](https://drive.google.com/open?id=1ZJSmlffH0FgnlYXPbxbDHuPVM3JQtdUc) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/) | jmotip | [Channel](https://DE.ancap.ch) |
 | en | [English (Original)](https://drive.google.com/open?id=1xr75MTKrof1RRWumSY9bVok232zA7ZpJ) | [Repository](https://github.com/ancap-ch/from-en/tree/production/en) | Proofreaders | [Channel](https://EN.ancap.ch) |
 | es-ES | [Spanish (Español)](https://drive.google.com/open?id=18SHPeRibheHAY9KvJqfFWtoQE2IoFN51) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/es-ES) | jmromero & isabella394 | [Channel](https://ES.ancap.ch) |
-| fa | Persian/Farsi (فارسی) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/fa) | Proofreaders | [Channel](https://IR.ancap.ch) |
+| fa | Persian/Farsi (فارسی) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/fa) | gn-ahmad | [Channel](https://IR.ancap.ch) |
 | fil | Filipino | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/fil) | blueleaf2017 | Channel |
 | fr | [French (Français)](https://drive.google.com/open?id=17L3FcsYP9GX4tHRxFJ51sUudYgJa0oO_) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/fr) | jmromero | [Channel](https://FR.ancap.ch) |
 | ha | [Hausa (Yaren Hausa)](https://drive.google.com/open?id=1wfbtz5FFrvnKJTvawvYPkpt4Mm7NWrgw) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ha) | Proofreaders | [Channel](https://NG.ancap.ch) |
 | hi | Hindi (हिंदी) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/hi) | Proofreaders | [Channel](https://IN.ancap.ch) |
-| id | [Indonesian (Bahasa Indonesia)](https://drive.google.com/open?id=1MbdKi0prim0oDvuMwqhUz9eVZAXI15LC) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/id) | coretanku & yhandot | [Channel](https://ID.ancap.ch) |
+| id | [Indonesian (Bahasa Indonesia)](https://drive.google.com/open?id=1MbdKi0prim0oDvuMwqhUz9eVZAXI15LC) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/id) | coretanku & yhandot & rooneey & brandonmaverick | [Channel](https://ID.ancap.ch) |
 | ig | Igbo (Ásụ̀sụ̀ Ị̀gbò) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ig) | Proofreaders | [Channel](https://NG.ancap.ch) |
 | it | [Italian (Italiano)](https://drive.google.com/open?id=1NoKLFq3pj52mznZmCRLa81hiLNSAmze9) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/it) | RobertBira & Digitalplayer-steemit | [Channel](https://IT.ancap.ch) |
 | ja | [Japanese (日本語)](https://drive.google.com/open?id=1mw1eGXSr7ocZZmksiOXtbCXtyhRgIOh-) | [Repository](https://github.com/ancap-ch/from-en/tree/utopian/ja) | Proofreaders | [Channel](https://JP.ancap.ch) |
