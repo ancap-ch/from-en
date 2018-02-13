@@ -24,13 +24,13 @@ Portanto, devemos concentrar os nossos esforços, principalmente nas acções un
 
 ### A Virtude E O Seu Oposto
 
-O oposto da "virtude" deve ser "vício" - o oposto do "bem" deve ser "mal". Se eu propuser a regra moral, "não roubarás", então o roubo deve ser mau e *não* o roubo deve ser bom. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
+O oposto da "virtude" deve ser "vício" - o oposto do "bem" deve ser "mal". Se eu propuser a regra moral, "não roubarás", então o roubo deve ser mau e *não* o roubo deve ser bom. Isso não significa que "abster-se do roubo" seja a única definição de excelência moral, é claro, já que um homem pode ser um assassino, mas não um ladrão. Podemos pensar nisso como um requisito "necessário, mas não suficiente" para a virtude.
 
-Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
+Qualquer acção moralmente preferível deve, pela sua própria natureza, ter uma acção oposta - porque, se não, não há capacidade de escolha, nenhuma possibilidade de escapatória e, portanto, nenhuma capacidade para a virtude ou o vício. Se eu propuser a regra moral: "desafiarás a gravidade", a moralidade torna-se impossível, não pode ser evitada e, portanto, a regra moral deve ser inválida.
 
-If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
+Se eu propuser a regra moral: "Não irás a San Francisco", logicamente isso pode ser reformulado como: "irás a lugar algum, mas não a São Francisco". Desta forma, a regra moral "não roubarás" também pode ser igualmente proposta na forma positiva - "respeitarás os direitos de propriedade". Uma vez que respeitar os direitos de propriedade é uma virtude, violá-los deve ser um mal.
 
-### What Is Missing
+### O Que Está Faltando
 
 Conspicuously absent from the above list are traditional virtues such as courage, honesty, integrity and so on – as well as their opposites: cowardice, falsehood and corruption.
 
