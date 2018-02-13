@@ -99,17 +99,17 @@ This is an instructive lesson on why such men require disarmed and dependent pop
 
 Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
 
-[^4]: See [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
+[^4]: Tingnan [Praktikal na Anarkiya](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
 
 [^5]: See *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
 
-[^6]: A perfect balance of good and evil is practically impossible.
+[^6]: Isang perpektong balanse ng mabuti at masama ay halos imposible.
 
-[^7]: This is the current situation in democracies, of course.
+[^7]: Ito ang kasalukuyang sitwasyon sa democracies, siyempre.
 
-[^8]: See Plato’s *Republic*.
+[^8]: Tingnan ang Plato's *Republika*.
 
-[^9]: Probably more, since evil people are always drawn to power.
+[^9]: Marahil higit pa, mula noon ang masasamang tao ay laging naaakit sa kapangyarihan..
 
 [^10]: For a more detailed discussion of the role that *parents* play in inculcating the fantasy that “power equals virtue,” see [On Truth](http://wiki.mises.org/wiki/On_Truth).
 
