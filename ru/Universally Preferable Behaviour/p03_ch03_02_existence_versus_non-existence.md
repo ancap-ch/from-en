@@ -1,53 +1,53 @@
-### Practicality
+### Практичность
 
-Once the violence of government is intellectually exposed – and the supposed “voluntarism” of citizens is revealed as a vicious fraud – the argument always comes back that we *need* government to supply us with public goods such as protection, regional defence, roads etc.
+После того, как насилие правительства интеллектуально подвергается-и предполагаемый "волюнтаризм" граждан раскрывается как порочное мошенничество-всегда возвращается аргумент о том, что нам *нужно* правительство снабжать нас общественными благами, такими как защита, региональная оборона, дороги и т. д.
 
-I have written dozens of articles exposing the falsehood of this position, so I will not bother to reiterate those arguments here, since they are not essential to a book on morality, but rather would be more appropriate to a book explaining the principles and practicalities of a voluntary society.[^4]
+Я написал десятки статей, разоблачающих ложь этой позиции, поэтому я не буду повторять эти аргументы здесь, поскольку они не являются существенными для книги о морали, а скорее будут более подходящими для книги, объясняющей принципы и практические аспекты добровольного общества.[^4]
 
-The “argument from practicality” in no way solves the problem of violence. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
+"Аргументация из практичности" никоим образом не решает проблему насилия. Если я вижу, что вы едите чизбургеры каждый день, я могу сказать вам, что это непрактично для вас, если вы хотите поддерживать здоровый вес. Я не могу утверждать, что это *зло* для вас есть чизбургеры, по причинам, которые мы уже вошли. Я не могу просто заставить вас силой повысить "практичность" ваших действий.
 
-Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
+Таким образом, заявление о том, что правительство оправдано тем, что заставляет нас стать более “практическими”, является совершенно ложным, что подтверждается рамками UPB – даже если мы предполагаем, что правительственные решения более “практическими”, чего на самом деле нет.
 
-Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
+Кроме того, если представители правительства утверждают, что социальный контракт позволяет им заставить “непрактичное” население вести себя более “практически”, создается непреодолимое противоречие.
 
-If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
+Если я заставляю женщину жениться на мужчине, которого я выбрал для нее, то, очевидно, я считаю, что у меня есть бесконечно лучшее суждение о пригодности мужа для нее, чем она. На самом деле, я не верю, что она вообще открыта для разума или имеет какое-либо представление о своем собственном интересе, потому что я принимаю *нет* учет ее предпочтений, но заставляю ее жениться на мужчине по моему выбору.
 
-When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
+Когда я заставляю эту женщину выйти замуж, я могу только оправдать применение силы-даже на прямых, прагматических основаниях-утверждая, что она психически не способна сделать свой собственный выбор в отношении брака.
 
-If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. If she has no idea what constitutes a good or suitable husband, then how can she evaluate me as fit to decide who will be a good or suitable husband for her?
+Если женщина умственно не может сделать свой собственный выбор в отношении брака, то очевидно, что она также *психически не может делегировать представителя, чтобы сделать этот выбор для нее*. Если она понятия не имеет, что представляет собой хороший или подходящий муж, то как она может оценить меня, чтобы решить, кто будет хорошим или подходящим мужем для нее?
 
-If a man of extraordinarily low intelligence does not understand the concept of “health,” would it be reasonable to expect him to be rational in his choice of a doctor? In order to competently choose a doctor, we must understand the concepts of health, efficacy, cost, professionalism and so on. In the same way, if I do not allow a woman to have any say in who she marries, then clearly I must believe that she has no understanding of what makes a good husband – but if she has no understanding of what makes a good husband, then she has no capacity to transfer that choice to me, since she will have no way of evaluating *my* criteria for what makes a good husband.
+Если человек с необычайно низким интеллектом не понимает понятия "здоровье", было бы разумно ожидать от него рационального выбора врача? Для того, чтобы грамотно выбрать врача, нужно понимать понятия здоровья, эффективности, стоимости, профессионализма и так далее. Таким же образом, если я жене не позволяю, чтобы что-нибудь сказать в кого она выйдет замуж, то, очевидно, я должен верить, что у нее нет понимания того, что делает хороший муж, но если у нее нет понимания того, что делает хороший муж, то она не имеет возможности передать этот выбор для меня, поскольку она не будет иметь никаких способов оценки *мой* критерии того, что делает хороший муж.
 
-If I cannot decide what colour to paint my house, and my solution is to sign a contract with a painter allowing him to choose the colour for me – and in that contract I sign away all my future freedoms to resist his decisions, and give him the right to kidnap and enslave me if I disagree with any of his decisions, or refuse to pay for them – then clearly I am not of sound mind. If I give someone the power to compel me *for the rest of my life*, then clearly I do not believe that I am competent to make my own decisions.
+Если я не могу решить, какой цвет покрасить мой дом, и мое решение-подписать контракт с художником, позволяющий ему выбрать цвет для меня–и в этом контракте я подписываю все свои будущие свободы, чтобы противостоять его решениям, и даю ему право похитить и поработить меня, если я не согласен с любым из его решений или отказываюсь платить за них, – то, очевидно, я не здравый ум. Если я даю кому-то власть принуждать меня *на всю оставшуюся жизнь*, то, очевидно, я не верю, что я компетентен принимать собственные решения.
 
-If I do not think that I am competent to make my own decisions, then clearly my decision to subject myself to violence *for the rest of my life* is an incompetent decision.
+Если я не думаю, что я компетентен принимать свои собственные решения, то ясно, что мое решение подвергнуть себя насилию *до конца своей жизни* является некомпетентным решением.
 
-Either I am capable of making competent decisions, or I am not. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. If I am *not* capable of making competent decisions, then my decision to subject myself to force for the rest of my life is also invalid.
+Либо я способен принимать компетентные решения, либо нет. Если я способен принимать компетентные решения, то подчинение себе силы на всю оставшуюся жизнь недействительно. Если я *не* способен принимать компетентные решения, то мое решение подчинить себя силе до конца моей жизни также недействительно.
 
-Even if the above considerations are somehow bypassed, however, it is still impossible to justly enforce a social contract through a government. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+Однако, даже если вышеупомянутые соображения каким-то образом обойдены, по-прежнему невозможно справедливо обеспечить соблюдение социального контракта через правительство. Ясно, что я не могу подписать контракт от *Вашего* имени или от имени моих детей, который будет обязательным для Вас или их до конца времени. Я не могу купить машину, отправить Вам счет, и справедливо требую, чтобы вы его заплатили. Если я претендую на право навязывать вам односторонние контракты, UPB также предоставляет *Вам* эту власть, и поэтому вы просто вернете контракт мне от моего имени.
 
-In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
+Точно так же, даже если я решу платить свои налоги добровольно, я не могу справедливо навязать вам этот выбор, поскольку добровольный контракт-это всего лишь личное предпочтение, и поэтому его невозможно обеспечить повсеместно с помощью насилия.
 
-### The Necessity Of The State?
+### Необходимость Государства ? 
 
-This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
+Весь этот вопрос становится еще более нелепым, когда мы смотрим на наиболее распространенное моральное "оправдание" власти демократических правительств, основанное на "воле большинства."
 
-First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
+Прежде всего, "воля" - это аспект личности, в то время как” большинство " - это концептуальный тег для группы. "Большинство" не может больше иметь "волю“, чем” хоровая линия “может "родить."Если Вы сомневаетесь в этом, просто попробуйте построить дом на дереве с концепцией “лес”, а не с любыми отдельными кусками дерева.
 
-Two additional objections constantly recur whenever the question of the necessity of a government arises. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
+Два дополнительных возражения постоянно повторяются всякий раз, когда возникает вопрос о необходимости правительства. Первое заключается в том, что свободное общество возможно только в том случае, если люди совершенно хороши или рациональны – другими словами, что граждане *нуждаются* в централизованном правительстве, потому что в мире есть злые люди.
 
-The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Citizens can protect themselves against evil individuals, but stand no chance against an aggressive government armed to the teeth with police and military might. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
+Первая и самая очевидная проблема с этой позицией заключается в том, что если злые люди существуют в обществе, они также будут существовать в правительстве – и тем самым будут намного опаснее. Граждане могут защитить себя от злых личностей, но не имеют никаких шансов против агрессивного правительства, вооруженного до зубов полицией и военной мощью. Таким образом, аргумент о том, что мы нуждаемся в правительстве, потому что существуют злые люди, является ложным. Если злые люди существуют, правительство *должно* быть демонтировано, поскольку злые люди будут привлечены к использованию своей власти для своих собственных целей-и, в отличие от частных головорезов, злые люди в правительстве имеют полицию и военных, чтобы нанести свои прихоти на беспомощное (и относительно разоруженное) население. Таким образом, аргумент сродни идее о том, что “фальсификаторы очень опасны, поэтому мы должны предоставить исключительную монополию на контрафакцию небольшой группе лиц."Где на земле люди думают, что фальшивомонетчики пойдут первыми?[^5]
 
-Logically, there are four possibilities as to the mixture of good and evil people in the world:
+Логически, есть четыре возможности, как к смеси добрых и злых людей в мире:
 
-1. All men are moral.
-2. All men are immoral.
-3. The majority of men are immoral, and a minority moral.
-4. The majority of men are moral, and a minority immoral.[^6]
+1. Все мужчины моральны.
+2. Все мужчины аморальны.
+3. Большинство людей аморальны,а меньшинство морально.
+4. Большинство людей-нравственные, а меньшинство-аморальные.[^6]
 
-In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
+В первом случае (*все люди являются моральными*), правительство, очевидно, не нужно, так как зло не может существовать.
 
-In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+Во втором случае (*все мужчины аморальны*) правительство не может существовать по одной простой причине. Правительство, по общему мнению, должно существовать, потому что в мире есть злые люди, которые хотят причинить вред и которые могут быть сдержаны только страхом государственного возмездия (полиция, тюрьмы, *и др.*). Следствием этого аргумента является то, что чем меньше людей боятся возмездия, тем больше зла они совершат.
 
 However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
 
