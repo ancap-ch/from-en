@@ -38,13 +38,13 @@ Neste ponto, pode ser levantada a objecção razoável de que, se um homem em co
 
 O conceito de "evitabilidade" funciona tanto positiva como negativamente. Se perdi os meus órgãos genitais num acidente horrível, sou moral por abster-me de estupro? Parece difícil argumentar que poderia ser, uma vez que, pelo menos a violação genital, é impossível para mim. Da mesma forma, podemos chamar a um homem de "generoso" se ele der cem dólares a um mendigo - no entanto, sem dúvida, revisaremos a nossa apreciação, se descobrirmos que ele entregou o seu dinheiro num momento de sonambulismo e que ao acordar lamentou profundamente a sua acção.
 
-Assim, podemos dizer razoavelmente que, quando a escolha está ausente, ou inaplicável, a moral também está ausente ou inaplicável. Assim como o homem em coma, enquanto às suas acções, não podem ser consideradas más, nem podem ser consideradas boas. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
+Assim, podemos dizer razoavelmente que, quando a escolha está ausente, ou inaplicável, a moral também está ausente ou inaplicável. Assim como o homem em coma, enquanto às suas acções, não podem ser consideradas más, nem podem ser consideradas boas. Ele existe num estado sem escolha, como um bebé ou um animal - por isso, pode ser razoavelmente isento de regras morais, pois existe um estado físico que o diferencia objectivamente de um homem que pode escolher, o que é permitido sob o CUP.
 
-With that in mind, let us continue our examination of rape.
+Com isso em mente, vamos continuar o nosso exame de estupro.
 
-### Aesthetically Positive
+### Estéticamente Positivo
 
-Aesthetically positive actions (APAs) are universally preferable, but not enforceable through violence, since aesthetically negative actions do not initiate the use of force. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
+As acções positivamente positivas (APAs) são universalmente preferíveis, mas não são requeridas através da violência, uma vez que as acções esteticamente negativas não iniciam o uso da força. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
 
 If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
 
