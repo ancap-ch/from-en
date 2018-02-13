@@ -42,7 +42,7 @@ Lohikal, mayroong apat na posibilidad katulad sa pinaghalong mabuti at masamang 
 
 1. Lahat ng tao ay moral.
 2. Lahat ng tao ay imoral.
-3. Ang karamihan ng tao ay imoral, atang iilan ay moral.
+3. Ang karamihan ng tao ay imoral, at ang iilan ay moral.
 4. Ang karamihan ng tao ay moral, ang iilan ay imoral.[^6]
 
 Sa unang kaso (*ang lahat ng tao ay moral*), ang pamahalaan ay malainaw na hindi kailangan, dahil ang kasamaan ay hindi umiiral.
