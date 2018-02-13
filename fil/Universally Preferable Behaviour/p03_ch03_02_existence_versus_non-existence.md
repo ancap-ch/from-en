@@ -59,13 +59,13 @@ Ang mga mabubuting tao ay hindi kumikilos ng may moralidad dahil sila ay natatak
 
 Ang ika-apat na pagpipilian ay ang karamihan sa mga tao ay mababait, ang iilan ay masama. Ang posibilidad na ito ay napapailalim sa kaparehong problema na nakabalangkas sa itaas, kapansin- pansin din na ang mga masasamang tao ay laging nais na makuha ang kontrol sa pamahalaan, upang itago ang kanilang sarili mula sa makatarungang paghihiganti para sa kanilang mga krimen. Ang pagpipilian na ito ay binabago lamang ang *anyo* ng demokrasya: dahil karamihan sa mga tao ay mabuti, ang naghahangad ng masamang kapangyarihan ay dapat magsinungaling upang magkaroon ng kapangyarihan, at pagkatapos, kapag nakuha ang pampublikong opisina, ay agad na masisira ang pananampalataya at ituloy ang kanilang pangsariling katiwalian, pagpapatupad ang kanilang kalooban sa pamamagitan ng mga pulis at militar. [^7] Kaya ang pamahalaan ay nanatiling pinakamalaking gantimpala sa mga pinaka masamang tao, na mabilis na makukuha ang kontrol sa kasindak-sindak na kapangyarihan - para sa kapinsalaan ng lahat ng mabubuting kaluluwa - at ang pamahalaan ay hindi pinapayagan na umiral sa ganitong sitwasyon.
 
-It is clear, then, that there is no situation under which a government can logically or morally be allowed to exist. The only possible justification for the existence of a government would be if the majority of men are evil, but all the power of the government is always controlled by a minority of good men.[^8]
+Ito ay malinaw, na, doon ay walang sitwasyon sa ilalim na kung saan ang pamahalaan ay lohikal o moralidad na pinapayagan na umiral. Ang tanging posibleng pagbibigay-katarungan para sa pagiiral ng isang pamahalaan ay kung ang nakakaraming tao ay masama, pero ang kapangyarihan ng pamahalaan ay laging kontrolado ng minorya ng mga mabubuting tao[^8]
 
-This situation, while interesting theoretically, breaks down logically because:
+Ang sitwasyong ito, habang interisadong teyorya, lohikal na hinihimay-himay dahil:
 
-1. The evil majority would quickly outvote the minority or overpower them through a coup;
-2. There is no way to ensure that only good people would always run the government; and,
-3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
+1. Ang masamang nakakarami ay maaaring mabilis na daigin ang minorya o madaig nila sa pamamagitan ng isang kudeta;
+2. Walang paraan upang matiyak na ang mabubuting tao lamang ang laging tumatakbo sa pamahalaan; at,
+3. Doon ay talagang walang halimbawa nito ang naganap sa ilalim ng kahit anumang malupit na mga talaan ng kasaysayan.
 
 The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
 
