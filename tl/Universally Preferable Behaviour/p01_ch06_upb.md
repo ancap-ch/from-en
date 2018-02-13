@@ -1,55 +1,55 @@
-## UPB: Ethics Or Aesthetics?
+## UPB: Ang Etika O Estetika?
 
-In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. A rapist, on the other hand, is violently inflicting his preferences upon his victim.
+Sa pangkalahatan, gagamitin namin ang terminong *estetika* upang sumangguni sa mga di-maipapatupad na mga kagustuhan - unibersal o personal - habang *etika* o *moralidad* ay tumutukoy sa maipapatupad na mga kagustuhan. Ito ay *higit na higit sa lahat* (ibig sabihin, kinakailangan) upang gamitin ang pang-agham na paraan upang patunayan ang mga pisikal na mga teorya, ngunit hindi namin maaaring gamitin ang lakas upang *pahirapan* ang pang-agham na pamamaraan sa mga hindi gumagamit nito, dahil *hindi gumagamit ng pang-agham na pamamaraan ay hindi isang marahas na pagkilos*. Ang mga di-marahas na pagkilos sa pamamagitan ng kanilang likas na katangian ay *maiiwasan*. Kung ang isang pisisista ay hihinto sa paggamit ng pang-agham na pamamaraan, ngunit sa halip ay nagsisimula kumonsulta sa mga tarot kard, hindi siya marahas na nagpapamalas ng kanyang pagpili sa akin, at maaari kong iwasan siya. Ang isang rapist, sa kabilang banda, ay marahas na nagpapanggap sa kanyang mga kagustuhan sa kanyang biktima.
 
-Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
+Bagama't una naming nakatuon sa UPB sa larangan ng etika, ang UPB ay makikita na ngayon bilang isang "payong termino," na kinabibilangan ng mga naturang disiplina gaya ng:
 
-- The scientific method
-- Logic
-- Empiricism
+- Ang pang-agham na pamamaraan
+- Lohika
+- Empirisismo
 - Debating
-- Language
-- Ethics
+- Wika
+- Etika
 
-Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+Ang etika ay ang subset ng UPB na may kinalaman sa *napinsala* pag-uugali, o ang paggamit ng karahasan. Ang anumang teorya na nagpapawalang-bisa o tinanggihan ang paggamit ng karahasan ay isang teoriyang *moral*, at napapailalim sa 
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+Tingnan natin ang tatlong aksyon, upang matulungan kaming higit na makilala ang etika at estetika. Ang unang aksyon ay *hindi makatwiran*; ang pangalawa ay *nakahiga*; ang ikatlo ay *pagpatay*.[^9]
 
-### Irrationality
+### Ang kalabagan sa katwiran
 
-Let’s say that you and I are having a debate about the existence of God. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Sabihin nating mayroon kaming isang debate tungkol sa pagkakaroon ng Diyos. Matapos kong ilabas ang aking mga argumento, pinapalakpak mo ang iyong mga kamay sa iyong mga tainga, kumanta na sinabi sa iyo ng Diyos na Siya ay umiiral, at samakatuwid ang lahat ng aking mga argumento ay walang kahulugan. Maliwanag, ang iyong tugon sa aking posisyon ay hindi makatwiran. Gayunpaman nakakainis na maaari kong makita ang iyong pag-uugali, bagaman, ito ay medyo tila makatwirang para sa akin upang maibulalas ang aking pagkabigo sa pamamagitan ng paghila ng baril at pagbaril sa iyo. Naniniwala ako na ito ay *higit sa lahat* upang gamitin ang lohika at katibayan sa halip na umasa sa mga tinig sa aming mga ulo, ngunit ang unibersal na kagustuhang ito ay hindi makatwiran na maaaring ipatupad sa *pisikal* na pang-unawa, sa pamamagitan ng karahasan o pagbabanta nito.
 
-### Lying
+### Ang Pagsisinungaling
 
-Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
+Sabihin nating ikaw at ako ay nagtatakda ng mga panuntunan para sa isang debate, at pareho kaming sumasang-ayon sa paghatol sa tanong ng pag-iral ng Diyos ayon sa dahilan at katibayan. Kung, habang nagpapatuloy ang debate, bumabalik ka sa isang posisyon ng bulag na pananampalataya, at tinanggihan ang aking mga argumento *sa kabila* ng kanilang katwiran at katibayan, hindi mo pinananatili ang iyong salita. Sa ibang salita, ikaw ay namamalagi nang sinabi mo na ang tanong ay mapagpasyahan ng dahilan at katibayan.
 
-The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+Ang pagkakaiba sa pagitan ng dalawang sitwasyong ito (hindi makatwiran laban sa pagsisinungaling) ay ang pagkakaiba sa pagitan ng kontraktwal at hindi kontraktwal na kaayusan. Kung ibigay ko sa iyo ang isang daang dolyar at pagkatapos ay lumakad palayo, hindi ko makatarungan lumapit sa iyo sa isang taon at sabihin na ikaw ngayon utang sa akin isang daang dolyar, dahil ito ay isang pautang. Kung, sa kabilang banda, sumasang-ayon ka na ibalik ang pera ko sa isang taon, at pagkatapos ay mabibigo na gawin ito, iyon ay medyo ibang sitwasyon.
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+Sa halimbawa ng "pagsisinungaling," bagaman maliwanag na na-break mo ang iyong salita, at nasayang ang aking oras, parang hindi ito moral o makatuwiran para sa akin na mag-pull ng baril at kukunan ka.
 
-A reasonable moral theory should be able to explain why this is the case.
+Ang makatwirang moral na teorya ay dapat maipaliwanag kung bakit ito ang kaso.
 
-### Murder
+### Ang pag-patay
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+Kung nagmamadali ka sa akin ng isang kutsilyo na itinaas, ilang mga tao ang magtaltalan sa aking karapatang ipagtanggol ang sarili ko. Kung ang pagbaril mo ay ang tanging paraan na makatwiran kong masiguro ang sarili kong kaligtasan, sa pangkalahatan ay ituturing na isang kahiya-hiya na pangangailangan.
 
-### Requirements For Ethics
+### Ang mga Kinakailangan Para sa Etika
 
-Certain preconditions must exist, or be accepted, in order for ethical judgements or theories to have any validity or applicability. Clearly, choice and personal responsibility must both be accepted as axioms. If a rock comes bouncing down a hill and crashes into your car, we do not hold the rock morally responsible, since it has no consciousness, cannot choose, and therefore cannot possess personal responsibility. If the rock dislodged simply as a result of time and geology, then no one is responsible for the resulting harm to your car. If, however, you saw me push the rock out of its position, you would not blame the rock, but rather me. To add a further complication, if it turns out that I dislodged the rock because another man forced me to at gunpoint, you would be far more likely to blame the gun-toting initiator of the situation rather than me.
+Ang ilang mga preconditions ay dapat na umiiral, o tinanggap, upang ang mga etikal na hatol o teoryang magkaroon ng anumang bisa o bisa. Maliwanag, ang pagpili at personal na pananagutan ay dapat na tanggapin bilang mga axiom. Kung ang isang bato ay bumabagsak sa isang burol at nag-crash sa iyong kotse, hindi namin hawak ang batong responsable sa moral, dahil wala itong kamalayan, hindi maaaring pumili, at samakatuwid ay hindi maaaring magkaroon ng personal na pananagutan. Kung ang bato ay nabigo lamang bilang isang resulta ng oras at heolohiya, at pagkatapos ay walang sinuman ang mananagot sa mga nagresultang pinsala sa iyong sasakyan. Kung, gayunpaman, nakita mo akong itulak ang bato mula sa posisyon nito, hindi mo sisihin ang bato, ngunit sa halip ako. Upang magdagdag ng karagdagang komplikasyon, kung ito ay lumabas na nilampas ko ang bato dahil pinilit ako ng isa pang lalaki na saktan ako, malamang na masisi mo ang inisyal na gun-toting initiator ng sitwasyon kaysa sa akin.
 
-As we have discussed above, entering into any debate requires an acceptance of the realities of choice, values and personal responsibility. However, these factors are also present in the choice of the colour of paint for a room, yet we would scarcely say that selecting a hue is a *moral* choice. Thus there must be other criteria which must be present in order for a choice or proposition to be moral.
+Tulad ng aming tinalakay sa itaas, ang pagpasok sa anumang debate ay nangangailangan ng pagtanggap sa mga katotohanan ng pagpili, mga halaga at personal na pananagutan. Gayunpaman, ang mga kadahilanang ito ay naroroon din sa pagpili ng kulay ng pintura para sa isang silid, gayunpaman halos hindi namin sasabihin na ang pagpili ng isang kulay ay isang *pagpili ng moral*. Kaya dapat mayroong iba pang mga pamantayan na dapat na naroroon upang ang isang pagpipilian o panukala ay moral.
 
-We all have preferences – from the merely personal (“I like ice cream”) to the socially preferable (“It is good to be on time”) to universal morality (“Thou shalt not murder”).
+Lahat tayo ay may mga kagustuhan - mula lamang sa personal ("Gusto ko ng ice cream") sa mga mas gusto sa lipunan ("Maganda sa oras") sa unibersal na moralidad ("Huwag kang mamamatay").
 
-There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
+May maliit na punto ang pagsulat ng isang libro tungkol sa mga personal na kagustuhan - at maaari naming i-on ang Ann Landers para sa isang diskusyon ng mas mahusay na pag-uugali ng sosyalan - dito, pagkatapos, kami ay tumutuon sa posibilidad ng *Higit sa lahat Mahusay na Pag-uugali*.
 
-### Choice
+### Ang pagpili
 
-If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+Kung tinatanggap ko ang iyong paanyaya sa isang partido sa hapunan, ngunit masusumpungan ang pag-uusap na lubos na nakakasakit, maaari akong magpasiya na bumangon at umalis - at maaari rin akong pumili na huwag tumanggap ng isa pang imbitasyon mula sa iyo. Ang kapasidad na ito para sa pagtakas at/o pag-iwas ay isang mahalagang katangian na nag-iiba ng mga *estetika* mula sa *etika*.
 
-If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
+Kung, gayunpaman, kapag nagpasiya akong umalis sa iyong partido, lumukso ka at makikipag-ugnay sa akin sa aking upuan, malinaw na wala na akong libreng pagpili na umalis. Ito ang sandali kung saan ang iyong pagkayamot ay nagiging malawak na pagsalakay, at tumatawid sa linya mula sa estetika patungo sa etika.
 
-If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I have certainly done her wrong, but the wrong that I have done by cheating would be very different from the wrong I would do if I lock her in the basement to prevent her from leaving. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does.
+Kung, pagkatapos ng vowing monogamy, ako ay manlilinlang sa aking asawa, at siya ay nagpasiya na iwanan ako, tiyak na ginawa ko ang kanyang mali, ngunit ang maling nagawa ko sa pamamagitan ng pagdaraya ay ibang-iba sa maling gagawin ko kung i-lock ko siya ang basement upang mapigilan siya mula sa pag-alis. Hindi namin pangkaraniwang isaalang-alang ang isang asawa na nagpapalaglag sa kanyang asawa para sa pagtataksil na kumilos sa kagandahang-asal, ngunit kikilalanin natin ang kahiya-hiyang pangangailangan kung kailangan niyang gumamit ng karahasan upang makatakas mula sa kanyang pagkabilanggo. Sa unang sitwasyon, ang asawa ay may malayang pagpili at kakayahan na *iwanan* ang kanyang asawa, at sa gayon ang karahasan ay magiging isang di-makatarungang tugon sa sitwasyon; sa pangalawang sitwasyon, ang kanyang pagpili na umalis sa kanyang asawa ay inalis sa pamamagitan ng pagkabilanggo. Ang kawalan ng katapatan ay hindi nagwawasak ng kakayahan ng kapareha na pumili; pag-lock sa kanya sa basement ay.
 
 ### Avoidance
 
