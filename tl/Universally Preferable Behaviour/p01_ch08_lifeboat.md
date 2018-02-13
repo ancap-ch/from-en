@@ -58,16 +58,16 @@ Gayundin, kung makakagawa ako ng mas maraming pera bilang isang hit na tao kaysa
 
 Tulad ng makikita natin, ang pagpapakilala ng "kung ano ang mabuti para sa tao sa abstract - o kung ano ang ginagawa ng karamihan sa mga tao - ay higit na mas mabuti sa lahat" ay sumisira sa mismong konsepto ng moralidad bilang isang lohikal na teorya na lohikal, at pinalitan lamang ang biolohikal na mga biyahe bilang mga katarungan para sa pag-uugali. Ito ay isang paliwanag ng pag-uugali, hindi isang iminungkahing moral na teorya.
 
-### The Purpose And The Dangers
+### Ang Layunin At Ang mga Panganib
 
-With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+Sa iyong pasensya na pagpapakasakit, isang pangwakas na tanong ang kailangang matugunan bago kami maglagay ng kahulugan at subukan kung paano magkasya ang iba't ibang mga panukalang moral sa balangkas ng UPB. Sapagkat ang pinakamahirap na gawain ay nauuna, dapat kaming huminto sa ilang sandali at ipaalala sa ating sarili kung bakit inilalagay natin ang ating sarili sa lahat ng hirap at kahirapan na ito.
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+Sa madaling salita, bago tayo mag-udyok,ng angkop na magtanong ng mungkahi: "Bakit nag-iistorbo?"
 
-Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+Bakit nakakaabala sa pagtukoy ng mga teorya ng etika? Tiyak na ang mga mabuting tao ay hindi nangangailangan ng mga ito, at ang mga masamang tao ay hindi sumangguni sa kanila. Ang mga tao ay gagawin kung ano ang gusto nila, at gumawa lamang ng mga katwiran kung kinakailangan pagkatapos ng katotohanan - bakit *abala* ang pagtuturo ng mga tao tungkol sa moralidad?
 
-Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
+Siyempre pa, ang panganib ay laging umiiral na ang isang imoral na tao ay aatake sa iyo para sa kanyang sariling mga layunin ng hedonistik. Maaaring ito rin ang kaso na, sa kabila ng malinis at malusog na pamumuhay, maaari kang masaktan sa pamamagitan ng kanser bago ang iyong oras - ang dating ay hindi gumagawa ng agham ng moralidad na hindi nauugnay, higit pa kaysa sa huli ay gumagawa ng mga agham ng medisina, nutrisyon at ehersisyo walang kaugnayan. Ang isang makatwirang epekto ng isang makatuwirang agham ng moralidad ay dapat na mabawasan ang iyong mga pagkakataon ng *paghihirap* imoral na mga pagkilos tulad ng pagnanakaw, pagpatay at panggagahasa - at sa pamamagitan ng pamantayan na ito ay dapat din nating hatulan ang mga panuntunang moral na iminungkahi sa Ikatlong Bahagi ng aklat na ito .
 
-[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
+[^10]: Siyempre, kung ako ay isang walang kakayahan o nalilito na tao na natapos ko na sa kabila ng gutom, ang pagkakabilanggo ay maaaring maging isang pagpapabuti sa aking sitwasyon.
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+[^11]: Ang "kalooban ng kapangyarihan ni Nietzsche" at Rand's "na naglilingkod sa buhay ng tao ay mabuti."
