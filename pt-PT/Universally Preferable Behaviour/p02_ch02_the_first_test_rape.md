@@ -10,7 +10,7 @@ Para seguir um exemplo absurdo, imaginemos que estamos a revisar uma teoria éti
 
 Evidentemente, se eu proclamar que "X" é "o bem", então o oposto de "X" deve ser o mal. Se *não violar* for bom, então *violar* deve ser mau. Por outro lado, se *violar* for bom, então *não violar* deve ser mau.
 
-Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
+Violar alguém é uma acção positiva que deve ser iniciada, executada e completada. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
 
 That which enables virtue cannot be evil. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
 
