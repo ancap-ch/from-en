@@ -40,11 +40,11 @@ Kung tatangapin ko ang UPB, dapat kudin tangapin ang mga sumusunod na corollary:
 
 Ang ibigsabihin nito ay ang isang tao hindi pweding baguhin ang kanyang moral nature kasama ang kanyang kasuotan. Ang paggawa ng pagbabago sa kasuotan ay hindi Makakapagpabago sa pangunahin katangian. Kung kaya't ang pagsalungat sa moral na alituntunin ay Hindi wasto batay sa mga may suot ng mga damit.
 
-Sundalo, syempre, silay nagsusuot ng naiiba sa karaniwang mamayan. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Sundalo, syempre, silay nagsusuot ng naiiba sa karaniwang mamayan. Ang karaniwang mamamayan ay pinagbabawal patayin; sundalo, gayunman, ay Hindi lamang *pinapahintulotan* mamatay, ngunit sa kagandahang asal *purihin<\0> para sa pagpatay.</p> 
 
-Let’s take another example.
+Dalhin ang ibapang halimbawa.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Ang pagnanakaw ay mali sa moral, tulad ng nakita natin sa itaas. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
 
 What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
 
