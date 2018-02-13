@@ -72,7 +72,7 @@ Pẹlú wípé ìbéèrè nípa ojúṣe ìwà àti ìkápá ọgbọn ṣiṣ�
 
 ### Dukia gẹgẹbi àjọni
 
-UPB sí fun wa ni àṣàyàn lórí ẹtọ dukia. It cannot be the case that some men have property rights, while other men do not. It cannot be the case that men in Washington have property rights, while women in Baltimore do not. It cannot be the case that men have property rights today, but not tomorrow, and so on.
+UPB sí fun wa ni àṣàyàn lórí ẹtọ dukia. Kò le jẹ ọràn wípé awon ọkùnrin kan ní ẹtọ dukia, nígbàtí àwọn ọkùnrin mìíràn kò ní. Kò le jẹ ọràn wípé awon ọkùnrin ní Washington ní ẹtọ dukia, nígbàtí àwọn obìrin ni Baltimore ko ni. Kò le jẹ ọràn wípé awon ọkùnrin kan ní ẹtọ dukia ní òní, ṣugbọn kò ní sí ní ọ̀la, àti bẹbẹ lọ.
 
 It also cannot be the case that men have only fifty percent property rights.
 
