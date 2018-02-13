@@ -32,9 +32,9 @@ Este é outro problema central com qualquer teoria que postula uma acção posit
 
 Desta forma, o conceito de "evitabilidade" mantém o seu uso. Um homem em coma é incapaz de evitar ficar deitado na sua cama, já que está num estado de quase inconsciência. Como é incapaz de evitar as suas acções - ou a inacção, neste caso - a sua imobilidade não pode ser imoral.
 
-At this point, the objection can quite reasonably be raised that if a man in a coma cannot be immoral, then he also cannot be moral. However, earlier we said that the opposite of an immoral action must be moral. If we propose the moral rule, “thou shalt not rape,” then can we call the man in a coma *moral*, since he does not rape?
+Neste ponto, pode ser levantada a objecção razoável de que, se um homem em coma não pode ser imoral, então também não pode ser moral. No entanto, dissemos há pouco que o oposto de uma acção imoral deve ser moral. Se propomos a regra moral, "não violará", então podemos chamar o homem do coma *moral* pois ele não viola?
 
-#### Capacity
+#### Capacidade
 
 The concept of “avoidability” works in the positive as well as in the negative. If I have lost my genitals in some ghastly accident, am I moral for refraining from rape? It would seem hard to argue that I could be, since genital rape at least is impossible for me. Similarly, we may call a man “generous” if he gives one hundred dollars to a beggar – however, we would doubtless revise our estimation if it turned out that he gave away his money while sleepwalking, and woefully regretted his action on waking.
 
