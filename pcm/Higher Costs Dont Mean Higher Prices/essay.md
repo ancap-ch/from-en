@@ -8,7 +8,7 @@ For him argument, Wainwright notes say de government's focus on cutting back on 
 
 De example explain de paradox in wating dey happen for de illegal drug "business" and, specifically, why government's attempts to affect de supply never work. Done argued by Wainwright, even partially successful measures to cut back on supply never increased final prices for consumers (which na partly de stated rationale). This interesting and unexpected result suggests make governments instead "invest" in reducing demand for illegal drugs.
 
-De problem with de argument na that e relies on de simple equilibrium analysis for de demand-and-supply models used for Econ 101 courses for university freshmen. And e no actually apply here. Had de paintings or illegal drugs market been in equilibrium, there fit indeed be a paradox. But this is hardly the case, *especially* in these markets.
+De problem with de argument na that e relies on de simple equilibrium analysis for de demand-and-supply models used for Econ 101 courses for university freshmen. And e no actually apply here. Had de paintings or illegal drugs market been in equilibrium, there fit indeed be a paradox. But this is hardly de care, *especialy* in dis markets.
 
 Also, in a state of equilibrium costs perfectly reflect social opportunity costs, and “perfect” competition brings price and cost together so that no one is able to make economic profits. In other words, there is no difference between price and cost. There is, consequently, no reason to in this theory distinguish between them temporally or causally — they appear to be determined instantaneously and accurately. This is also how they are treated in various economics models that students learn to “maximize.”
 
