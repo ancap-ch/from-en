@@ -16,13 +16,13 @@ Conforme mencionado acima, as proposições sobre o comportamento universalmente
 
 Idealmente, devemos poder reduzir estas duas categorias - universalmente preferíveis e esteticamente positivas - definindo as nossas proposições éticas de modo que o que é universalmente excluído seja apenas uma imagem reflectida no espelho do que é universalmente preferível e abandonando sómente as preferências pessoais e as acções neutras, irrelevantes para uma discussão de ética.
 
-Por exemplo, o Princípio de Não-Agressão (PNA) afirma que a iniciação do uso da força é imoral - portanto, a não iniciação do uso da força é universalmente preferível, enquanto que o início do uso da força é universalmente excluído. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
+Por exemplo, o Princípio de Não-Agressão (PNA) afirma que a iniciação do uso da força é imoral - portanto, a não iniciação do uso da força é universalmente preferível, enquanto que o início do uso da força é universalmente excluído. Se o que é eliminado é simplesmente o oposto do que é preferível, não há necessidade de uma categoria adicional.
 
-Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+Além disso, como filósofos morais, devemos priorizar o nosso exame da ética racional, concentrando-nos nas violações mais flagrantes. Evidentemente, as acções mais imorais devem ser a aplicação violenta de preferências injustas sobre outros. Se acções como "roubar" ou "assassinar" forem definidas como CUP, o exame de tais definições deve ser a nossa mais alta prioridade.
 
-Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
+Portanto, devemos concentrar os nossos esforços, principalmente nas acções universalmente preferíveis e exigíveis.
 
-### Virtue And Its Opposite
+### Virtude E Oposição
 
 The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil.” If I propose the moral rule, “thou shalt not steal,” then stealing must be evil, and *not* stealing must be good. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
 
