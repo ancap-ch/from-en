@@ -1,58 +1,58 @@
-## Foreword
+## Pendahuluan
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+Di dalam kebanyakkan cerita dongeng, akan ada binatang dahsyat yang mempunyai kuasa yang menakjubkan, naga atau basilisk, yang menzalimi tanah sekitarnya. Penduduk tempatan menggeletar akan raksasa ini; mereka mengorbankan haiwan-haiwan kepunyaan mereka, membayar wang dan darah dengan harapan dapat memuaskan kehendak niat membunuhnya.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Kebanyakan orang meromok ketakutan di bawah bayang-bayang binatang ini, memanggil ketakutan mereka sebagai "sikap berhati-hati," tetapi seberapa orang – yang mungkin mabuk dengan keberanian atau kebodohan – memutuskan untuk bertarung. Tahun demi tahun, dekad lepas dekad, gelombang selepas gelombang dengan harapan kemunculan satu juara yang menyamai kekuatan, yang berhati baik namun mempunyai kelicikan tersendiri terhadap penzalim yang dahsyat ini.
 
-Try – and fail.
+Cuba – dan gagal.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Binatang itu selalu abadi, sehingga penduduk desa tidak dapat mengharapkan masa untuk membebaskan mereka dari pemerintahan kuku besi binatang tersebut. Binatang ini tidak pernah rasional, dan tidak mempunyai keinginan untuk berdagang, maka tidak ada rundingan yang mungkin.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Satu-satunya harapan penduduk kampung yang terdesak itu adalah bagi seorang lelaki untuk muncul yang dapat mengalahkan binatang tersebut.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Secara tidak dapat dielakkan, seorang lelaki melangkah ke hadapan yang menyambar pemikiran kesemua orang sebagai orang yang memang tidak sesuai. Dia seorang budak penjaga kuda, seorang anak lelaki tukang kasut, seorang pelatih tukang roti – atau kadang-kadang, hanya seorang kutu rayau.
 
-This book is the story of my personal assault on just such a beast.
+Buku ini adalah kisah serangan peribadi saya terhadap binatang seperti itu.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+"Binatang" ini adalah kepercayaan bahawa mustahil untuk menentukan sistem etika yang objektif, rasional, sekular dan saintifik. "Binatang" ini adalah ilusi bahawa moraliti mestilah hilang selama-lamanya ditenggelami tuhan dan kerajaan yang tidak rasional, dikuatkuasakan hanya untuk alasan-alasan yang pragmatik, tetapi selama-lamanya tidak akan mempunyai justifikasi logik dan definisi yang jelas. "Binatang" ini adalah fantasi akan kebaikan, kegembiraan kita yang paling besar, kebahagiaan kita yang paling mendalam, mesti diketepikan oleh orang dewasa sekular, dan dibiarkan di dalam debu untuk digerakkan, diarak dan dieksploitasi oleh ahli politik dan imam – dan ibu bapa. "Binatang" ini adalah kepercayaan karut bahawa, tanpa leteran ibu bapa, dibuli dewa atau senjata pemerintah, kita tidak boleh sama sekali menjadi rasional dan baik.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Binatang ini telah menumbangkan banyak perwira-perwira yang ulung, dari Socrates ke Plato ke Augustine ke Hume ke Kant ke Rand.
 
-The cost to mankind has been enormous.
+Kerugian ini kepada umat manusia adalah sangat besar.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Oleh kerana kita masih tidak mampu untuk menentukan sistem rasional moraliti universal, kita dipaksa untuk mengenakan cerita-cerita agama yang seram pada anak-anak kita, atau memberi senjata, penjara dan tentera untuk monopoli kecil pengawal tidak berperasaan yang memanggil diri mereka "negara ini.”
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Kerana apa yang kita panggil "etika" tetap subjektif dan hanya sekadar *budaya*, kita akhirnya terpaksa bergantung kepada pembulian, ketakutan dan keganasan untuk menguatkuasakan peraturan sosial. Sejak etika kekurangan asas rasional yang berkaedah saintifik, "moraliti" masih terperangkap dalam perang puak mitos berdarah, setiap kumpulan berjuang bermati-matian untuk kawalan ke atas kesetiaan rakyat kepada "sifat mulia."
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Kita tidak boleh hidup tanpa moraliti, tetapi kita tidak boleh menentukan moraliti secara objektif - oleh itu kita kekal selamanya dihukum kekosongan kehidupan akan kemunafikan sombong, penguasaan sinis atau perhambaan yang soleh.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Secara intelek, tidak ada kepentingan yang lebih tinggi di dunia. Kegagalan kita untuk mentakrifkan peraturan moral yang objektif dan rasional menyebabkan musibah kepada beratus-ratus juta nyawa manusia, dalam peperangan agama dan negara.
 
-In many ways, the stakes are getting even higher.
+Dalam pelbagai cara, kepentingan tersebut semakin menjadi tinggi.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+Peningkatan aliran maklumat Internet telah menimbulkan syak wasangka generasi baru bahawa apa yang dipanggil "sifat mulia" adalah tidak lebih – atau kurang – daripada cerita dongeng yang mementingkan diri sendiri orang tua-tua hipokrit mereka. Pembohongan soleh yang diberitahu oleh mereka yang berkuasa – dan penglibatan orang-orang yang menyembah mereka – adalah lebih jelas berbanding sebelum ini.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+"Kebenaran" telah didedahkan sebagai manipulasi; "sifat Mulia" sebagai kawalan; "kesetiaan" sebagai perhambaan, dan apa yang dipanggil "moraliti" telah didedahkan sebagai persembahan boneka yang tidak masuk akal  yang direka untuk menipu orang-orang lemah dan takut ke dalam pengabdian diri mereka sendiri.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+Kesedaran ini telah melahirkan generasi baru nihilists, sama seperti yang berlaku pada abad kesembilan belas Jerman. Relativists ekstrem ini akan melancarkan serangan paling menyakitkan hati untuk sesiapa sahaja yang mendakwa akan sebarang bentuk yang pasti. Generasi pasca-moden ini telah menjadi terlalu besar akan kefanatikan budaya sejarah kolektif mereka, tetapi kini melihat *semua* kebenaran sebagai penegasan memudaratkan semata-mata. Seperti kanak-kanak bermata luas yang telah berparut ke dalam sinis "kebijaksanaan," mereka melihat semua komunikasi sebagai pengiklanan, semua tuntutan sebagai propaganda, dan desakan moral sebagai pencurian munafik.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+Oleh kerana kita tidak mempunyai perjanjian rangka kerja yang padu, objektif dan rasional untuk menilai percanggahan moral, "moraliti" masih terperangkap dalam mistik, dan akan akibat keganasan yang tidak dapat dielakkan. Sama seperti, sebelum Zaman Kesedaran, sekta-sekta agama berperang tanpa henti mengenai kawalan ke atas bilah-bilah bangsawan, jadi kini melakukan mitos-mitos moral yang bersaing untuk mengawal negara, dan semua jentera paksaannya.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+Oleh itu, moraliti kekal, berbanding dengan sains moden, sama seperti "astronomi" zaman pertengahan lakukan kepada astronomi moden – alam mitos khayalan, dikuatkuasakan menerusi bercerita, ancaman, paksaan dan eksploitasi – yang secara aktif menghalang kemajuan sebenar ke arah kebenaran.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+"Binatang" etika kerelatifan ini melangit di atas kita, memburu kita, mewajarkan cukai, pemenjaraan, penapisan dan peperangan. Ia menghambakan orang muda di sekolah negeri dan kerusi panjang Ahad; ia memerangkap golongan miskin di dalam kebajikan lembut; ia dapat menghambakan walaupun yang belum lahir di dalam telaga hutang negara yang tiada batasnya.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+Seperti yang saya tulis dalam buku terdahulu saya, "Pada Kebenaran: Ilusi Kezaliman," kebohongan yang paling asas di tengah teori etika yang tidak terbukti adalah bahawa teori-teori seperti itu sentiasa dibentangkan kepada kanak-kanak sebagai fakta yang objektif dan tidak dapat dipertikaikan, tetapi sebenarnya mereka hanyalah sekadar kefanatikan kebudayaan. Sebabnya saintis tidak memerlukan kerajaan atau Vatican kerana ahli-ahli sains mempunyai satu kaedah yang objektif untuk menyelesaikan pertikaian: kaedah saintifik. Sebabnya bahasa tidak memerlukan kuasa pusat untuk membimbing evolusi kerana ia bergantung kepada "pasaran bebas" daripada pilihan individu terkumpul untuk gaya dan utiliti.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+Sebabnya moraliti moden – dan moraliti sepanjang sejarah – selalunya bergantung terlebih dahulu pada membuli kanak-kanak, dan kemudian mengancam orang dewasa, adalah kebohongan manipulasi yang menyamar sebagai kebenaran yang mulia.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+Sebenarnya kita memerlukan moraliti; pembohongan adalah bahawa tuhan-tuhan atau kerajaan dapat menentukan secara rasional atau menguatkuasakannya secara adil.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Matlamat saya dalam buku ini adalah untuk mentakrifkan satu metodologi untuk mengesahkan teori moral yang objektif, konsisten, jelas, rasional, empirik – dan *benar*.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+Saya juga menyedari bahawa, pada masa ini, anda akan berkemungkinan besar akan merasa gelombang kenaikan keraguan. Saya memahami sepenuhnya bahawa kemungkinan bahawa sesetengah orang di luar sana di Internet – di dunia kelahiran orang gila – telah entah bagaimana menyelesaikan masalah falsafah yang berumur tidak begitu tinggi – sebenarnya, mereka akan berada begitu dekat dengan sifar untuk menjadi hampir tidak dapat dibezakan daripadanya.
 
-Still, not *quite* zero.
+Namun, tidak begitu *sifar*.
 
 ### Ground Rules
 
