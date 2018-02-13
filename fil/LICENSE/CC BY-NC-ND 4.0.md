@@ -38,11 +38,11 @@ j. **Share**nangangahulugan na maglaan ng materyal para sa publiko sa kahit anon
 
 k. **Sui Generis Database Rights**nangangailangan na ang karapatan sa karapatang magpalathala ay nag reresulta derekta mula sa 96/9/EC ng Europa Parlyamento at ng konseho noong 11 Marso 1996 legal na proteksyon sa mga database bilang wasto at/o na nagtagumpay, halintulad ng iba pa katumbas ng esensyal sa karapatan kahit saan panig ng mundo.
 
-l. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+i.**You**nangangahulugan na ang indibidwal o pag gamit ng entidad sa Karapatan ng Lesensya sa ilalim ng Publikong Lesensya, mayroon kang pagtugon sa kahulugan.
 
-### Section 2 – Scope.
+### Seksyon 2 -Saklaw.
 
-a. ***License grant.***
+a.***License grant.***
 
 1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
     
