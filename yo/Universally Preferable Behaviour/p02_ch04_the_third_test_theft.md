@@ -80,9 +80,9 @@ Ti mo ba jiyàn: "Awọn ọkùnrin ní ìdá adọta nínú ọgọrùn ẹtọ
 
 Èyí lè fẹ ruju, ṣugbọn ìbéèrè nlá ni ọ jẹ, nípa awọn ìdí tí a má mẹnu ba laipẹ.
 
-Let us say that we can somehow magically bypass the “fifty percent ownership of the body” problem, and say that human beings only have fifty percent property rights when it comes to *external* objects.
+Kí a wá so wípé a lè ṣe àṣeyọrí kọjá ìṣòro "ìdá adọta nínú ọgọrùn níní ara ẹni", ati wípé ẹdá ènìyàn ní ìdá adọta nínú ọgọrùn ẹtọ dukia tó jẹ tí *ìta*.
 
-How does that work in practice?
+Báwo ni èyí ṣe lè ní àmúlò?
 
 Well, if I have two lawnmowers and you have none, then clearly it would be logical for you to have the right to take one of my lawnmowers, since I can only ever own half of my lawnmower collection.
 
