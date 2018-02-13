@@ -44,13 +44,13 @@ Com isso em mente, vamos continuar o nosso exame de estupro.
 
 ### Estéticamente Positivo
 
-As acções positivamente positivas (APAs) são universalmente preferíveis, mas não são requeridas através da violência, uma vez que as acções esteticamente negativas não iniciam o uso da força. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
+As acções positivamente positivas (APAs) são universalmente preferíveis, mas não são requeridas através da violência, uma vez que as acções esteticamente negativas não iniciam o uso da força. Como analisámos anteriormente, se eu chegar atrasado a um encontro com você, não estarei a criar o uso da força contra si e não estarei a tirar a sua capacidade de escolher, ou evitar a situação.
 
-If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
+Se dissermos que as APAs podem ser aplicadas através da violência, então estamos a dizer que o início da violência é moralmente bom.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+Se propomos uma regra moral de que iniciar a violência é moralmente bom, então essa regra enfrenta as mesmas impossibilidades lógicas que a regra de que "a violação é moralmente boa"
 
-Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+Dois homens numa sala não podem ser moralmente bons ao mesmo tempo, uma vez que um deles deve estar a iniciar violência contra o outro, e este deve estar a resistir - já que se não resistir, não é por definição, violência, como no caso do cirurgião que examinamos acima. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
 
 Thus we know that rape cannot be an APA.
 
