@@ -1,46 +1,46 @@
-### Governments And Religion
+### ìjọba àti ẹsin
 
-The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
+Àgùntàn náà tí ó wí pé a bí yàn ṣe dá àdéhùn pẹ̀lú ilé ìṣe ìtàn ọ̀rọ̀, èyí tí ó jẹ pe o má sọ ẹ di ẹrú ó lọ́jọ́ pípé sì àwọn ènìyàn pàtó kan, eléyìí sì wọ́pọ̀ sì ẹsin àti ipinle ti a wa - àti ọkàn mìíràn, ó jìnà díẹ̀ sì ti ara ẹni, tí mo sọ̀rọ̀ nípa rẹ̀ nínú ìwé àkọ́kọ́ mi ti a kọ̀wé rẹ ń jẹ "ni òtítọ́ : iwájú tí ẹ tán."
 
-Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Nígbàkúùgbà tí àlùfáà bá wípé : "Gbọ́ràn sì Ọlọ́run," nkan ti wọn sọ ní paato nipe :"Gbọ́ràn *sì mi *." Níwọ̀n gba ti Ọlọrun kò sì tẹ́lẹ̀, èyíkéyìí òfin tí àlùfáà ni ó wà láti ọ̀dọ̀ Ọlọ́run, ní tòótọ́ àti ọdọ àlùfáà ni òfin na ti ń bọ̀. "Ọlọ́run"  ni ẹtọ ọ̀rọ̀-ọ̀rọ̀ tí àwọn èèyàn ń lò láti ṣe ipani láyà ìwọ kì wọn lé gba ìdúró tí ó wí lọ ní àyè tòótọ́, sì àwọn ènìyàn gangan, nípasẹ̀ fi fún wan ni owo ni irọrun, àgó àti àwọn ohun èlò.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+Ó jẹ òun dáradára fún àwọn ajewunru tàbí àwọn òní jìbìtì láti jẹ ki ẹrú wọn ró pé ifiwo jẹ nkan gidi, nígbà tí ó jẹ ki ìṣàkóso wọn pín lé sì èyí tí ó kéré jù lọ. Tí Mo wà lè gbà ẹ ní imoran pé ó jẹ́ nkan búburú láti máa sìn mí, àti pé ó jẹ́ ẹwà láti di ẹrú mi, nígbà náà èmi kò nílò láti bẹwẹ àwọn ọmọ ìta tí mo má pààlàyà, tí mo má dárí àti jalè lọdọ rẹ.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+Ẹsin àti ìwé ìtàn ìlú, nígbà yẹn, je àwọn ìtàn àtijọ́ tí ó dín kù iye owó tí a fi ń se ìṣàkóso àwọn èèyàn ti o wa lórílẹ̀ èdè ; wọn jẹ epo àti ìdáná for ọkọ ayekele ìwà ipá.
 
-Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Ní gbogbo àgbáyé, àwọn adari jẹ́ díẹ̀ nínú àwọn olùgbé. Báwo ni ó má se jẹ́ kí ẹnikan tàbí méjì nínú ara ilu ma dárí àwọn ènìyàn tó kú? Ó ní anikanjopon lórí àwọn ohun ìjà, láti rí dájúdájú, sugbọn pé a nìkan jọpọ̀ rọrùn láti kọjú, niwọ̀n pé àwọn ìjọba máa ń pá owó Rábì Rábì láti títa ohun ìjà ká kiri gbogbo agbaye.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+Ohun tí ó jẹ ibanuje ni wípé àwọn ènìyàn tí wá ní ẹrú sì àwọn ìtàn àsọtẹ́lẹ̀ bí àwọn àpẹrẹ tí ìlú, àwọn òrìṣà, asa - àti ìjọba.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+Ohun ìgbéraga wá yóò sọ tẹ odi sì a mú nílò ẹrú sì ènìyàn mìíràn - sibẹsibẹ, ó dapi pé a fẹ́rẹ fẹ́yọ sì ẹrú níní ju *ìtàn àwọn bàbà ńlá wa *.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+Ifẹ̀ ọkàn wá láti se dáradára - darapọ pẹ̀lú ìwà rere tí a gbà nípa gbígbóràn sì ìwà ìtàn - tí jẹki a fi ohun èlò sì àwọn onitan padà lọwọ.
 
-One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+Ìdí kan paato tí a mọ ni wípé ijọba àti àwọn òrìṣà ṣe pàtàkì nípa pé bí wọn ṣe sọ ní o má rì. *A mọ pe ọ̀pọ̀lọpọ̀ ènìyàn ni wọn fẹ se daradara nitorí wọn wá ní ìdarí ìwà rere wan *.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+Ìlànà tí ìgbọràn sì ìtàn ayé àtijọ́ jẹ pàtàkì asiwere. Tí àlùfáà bá wí fún mi pé mo gbọdọ gbọ́ràn sì "Olódùmarè", eléyìí jẹ́ nkankan náà wípé àlùfáà sọ pe ki n gbọ́ràn sì nkan ti a n pe ni "nogi". Tí Mo wà gbagbọ pé nkan yìí ó yẹ fún ìgbọràn ayérayé, eléyìí kò wípé kí n gbọ́ràn sì "àlùfáà" lẹ́nu. Tí mò bá sọ fún ọ pé "gbọ́ràn sì ọkàn rẹ," se mo lè wá wípé :"àti *èmi nìkan * sọ fún ọkàn rẹ"?
 
-Of course not.
+Dájúdájú bẹ́ẹ̀ kò.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+Nígbà tí a bá yọ ìtàn ayé àtijọ́ àti ìtàn ayebaye kúrò nínú "ibanisepo" pẹlu awọn olori tàbí àwọn Alakoso wá, ohùn àbájáde ni òtítọ́ tí ó hàn kéré de.
 
-Let’s take as an example a very real and present danger: taxation.
+Ẹ jẹ ki a mú àpẹẹrẹ èyí tí ó ní ewú láyé àti ewu ni báyìí : owo-ori.
 
-#### Taxation
+### Owó orí
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Wọn sọ fún mi wípé, nípasẹ̀ gbígbé mé ni ilu Canada, mo jẹ "ijọba orilẹ̀ èdè" náà ni aadọta ọgọrun nínú owó tó ń wọlé simi lapo.
 
-Stripped of mythology, what does this really translate to?
+Kuro ìtàn ayé àtijọ́, kí ni èyí túmọ̀ sí?
 
-In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+Ní òtítọ́, máa dúró títí di òpin àkókò fún "ijọba" láti wá kí wọn sì gbé owó náà. Dídúró fún "ijọba" láti wá dà bí pé a ń fẹ́ láti sáṣewé "abo." Mo sì lè fẹ́ san owó oúnjẹ alẹ mi pẹlu ọ̀rọ̀ yìí "owó".
 
-In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+Ní òtítọ́, nígbà tí wọn sọ fún mi pé mo gbọdọ san owó orí mi fún "ìjọba", nkan ti a le yìí túmọ̀ sí nipe mo gbọ́dọ̀ kọ́ ayẹwo kan láti gbé owó mi losi inú àpò ifowo kan pàtó, eyii tí àwọn ènìyàn kan paato lé wo. Àwọn ènìyàn yìí ni ẹtọ láti gba owó yìí, wọn si ni anfaani lati náà bose wun wọn - àwọn ènìyàn yìí pàtó ni ase àti ìdarí lórí owó mi.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+Kosi igbakigba tí òun tán pé ní "ijọba" gbé ọwọ sókè, ṣì ìròyìn ifowopamo, tàbí náà owó. Ro pe agbekale kan wà tí a ń pè ní "ijọba", tú rò pé wọn ní agbára  láti yà àbí na owo rẹ, eléyìí túmọ̀ sí wípé kí ó dúró kí "Ọlọ́run" wá mú ẹ lọ sí ilé ìjọ sì.
 
-Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+Bayi, ọ̀rọ̀ òtítọ́ ni wípé arákùnrin kan fi ìwé kan ranse simi pé mo jẹ òun lowo. Mí ó ní àdéhùn kankan pẹlu arákùnrin yìí, òun na kò dẹ ni pá òun ìní mi, botilejepe àwọn arákùnrin mìíràn kọ̀ àdéhùn rogbodiyan tí ó wí pé ó ní afihun sì.
 
-If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
+Tí mí ó wà san owó arákùnrin yí, ó má rán ẹlòmíràn wá sí ilé mi láti wá gba owó náà - pelu "òṣùwọ̀n" àti ìdíyelé.
 
 Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
 
