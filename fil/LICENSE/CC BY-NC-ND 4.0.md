@@ -30,7 +30,7 @@ h. **Licensed Material** nangangahulugan na ang pagka masining o gawain na pampa
 
 i. **Licensed Rights**nangangahulugan na ang karapatan ay ipagkakaloob sa iyo sa termino ng paksa at mga kondisyon ng publikong lesensya na ito, kung saan limitado ang lahat ng karapatang magpalathala at halintulad sa karapatan na ilalapat sa iyong gamit na Materyal na Lesensya at awtoridad ng tagapaglesensya para sa lesensya.
 
-h. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
+h. **Lincensor** nangangahulugan na ang indibidwal(s) o mga entity ng karapatan sa ilalim ng pampublikong lesensya.
 
 i. **NonCommercial** means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this Public License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
 
