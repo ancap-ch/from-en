@@ -72,7 +72,7 @@ Pẹlú wípé ìbéèrè nípa ojúṣe ìwà àti ìkápá ọgbọn ṣiṣ�
 
 ### Dukia gẹgẹbi àjọni
 
-UPB sí fun wa ni àṣàyàn lórí ẹtọ dukia. Kò le jẹ ọràn wípé awon ọkùnrin kan ní ẹtọ dukia, nígbàtí àwọn ọkùnrin mìíràn kò ní. Kò le jẹ ọràn wípé awon ọkùnrin ní Washington ní ẹtọ dukia, nígbàtí àwọn obìrin ni Baltimore ko ni. Kò le jẹ ọràn wípé awon ọkùnrin kan ní ẹtọ dukia ní òní, ṣugbọn kò ní sí ní ọ̀la, àti bẹbẹ lọ.
+UPB sí fun wa ni àṣàyàn lórí ẹtọ dukia. Kò lè jẹ wípé àwon ọkùnrin kan ni ẹtọ dukia, nígbàtí àwọn kan kò ni. Kò le jẹ ọràn wípé awon ọkùnrin ní Washington ní ẹtọ dukia, nígbàtí àwọn obìrin ni Baltimore ko ni. Kò le jẹ ọràn wípé awon ọkùnrin kan ní ẹtọ dukia ní òní, ṣugbọn kò ní sí ní ọ̀la, àti bẹbẹ lọ.
 
 Kò tún lè jẹ ọràn wípé àwọn ọkùnrin ní ìdá adọta nínú ọgọrùn ẹtọ dukia.
 
