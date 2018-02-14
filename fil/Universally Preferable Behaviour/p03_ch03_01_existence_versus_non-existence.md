@@ -24,7 +24,7 @@ Ang totoong reyalidad sa pahayag ang "pagkakamali ay katumbas ng katotohanan" at
 
 Ang dahilan Kung bakit kami ay gumugugol ng labis na oras sa pagharap sa "Alternatibong uniberso" Ang teorya ay may derectang kaugnayan sa lipunan ng tao at ginagamit ito para "mabigyang-katwiran" ang mga dakilang kasamaan na ginamit sa atin.
 
-At sa aking sariling karanasan, nalaman ko na ang pumatay ay Mali. Ang gumawaga sa pamamagitan ng panukala ang pagpatay ay normal na mali ang pinaka magandang halimbawa ay, Lubos akong nag aalinlangan kahit kanino at nagulat ng magkaruon ng normal na instink kunpirma sa pamamagitan ng mahigpit na abstract sa kadahilanan ng UPB. Ang seksiyon na ito, gayunman, ito ay oposiyal na pinayagan para sa iyo para masimulan ang maging tunay na shocked.
+At sa aking sariling karanasan, nalaman ko na ang pumatay ay Mali. Ang gumawaga sa pamamagitan ng panukala na ang pagpatay ay normal na mali ang pinaka magandang halimbawa ay, Lubos akong nag aalinlangan kahit kanino at nagulat ng magkaruon ng normal na instink kunpirma sa pamamagitan ng mahigpit na abstract sa kadahilanan ng UPB. Ang seksiyon na ito, gayunman, ito ay oposiyal na pinayagan para sa iyo para masimulan ang maging tunay na shocked.
 
 Ang pinakadakilang leaps forward sa sayantipikong pang-unawa ay tinatawag na "tearya ng pagkakaisa." Einstein dekada na Ang ginugol at sinisikap maayos ang isang pinag-isang teorya Ng patlang; at mga teorya ng physic na nagiisa sa malakas at mahinang pwersa, Ang electromagnetism, gravity at Kung anu ano pa ay mananatiling mailap.
 
