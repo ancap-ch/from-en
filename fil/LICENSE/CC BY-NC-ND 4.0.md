@@ -125,25 +125,25 @@ b. Kung saan may karapatan na gamitin ang Materyal na Lesensya sa pagwakas sa il
 
 1. awtomatiko bilang simula sa petsa ng paglabag ay magaling na, ibinigay ito ng magaling sa loob ng 30 na araw ng iyong na diskubre sa paglabag: o
 
-2. upon express reinstatement by the Licensor.
+2. sa muling pagbibigay ng pagpapahayag ng Tagapaglesensya.
     
-    For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+    Para maiwasan ang pag-dududa, ang seksyon 6(b) ay hindi maa-apektuhan ang kahit anong karapatan sa Tagapaglesensya maaring mag hanap ng mga remedyo para sa iyong mga paglabag sa Pampublikong Lesensya na ito.
 
-c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
+c. Para maiwasan ang pag dududa, ang tagapaglesensya ay nag aalok ng Materyal na Lesensya sa ilalim ng mag kahiwalay na mga termino o mga kondisyon para mapigilan ang pag-papasa ng Materyal na Lesensya sa kahit anong oras; gayunman, ang pag-gawa ay hindi mapapawalang bisa ng Pampublikong Lesensya na ito.
 
-d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+d. Mga Seksyon 1, 5, 6, 7, at 8 ang mabuhay sa terminasyon ng Pampublikong Lesensya na ito.
 
-### Section 7 – Other Terms and Conditions.
+### Seksyon 7 - Iba pang mga Tuntunin at mga Kondesyon.
 
-a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
+a. Ang Tagapaglesensya ay hindi dapat nakatali ang naumang karagdagan o magkaibang mga tuntunin o mga kondisyon sa pakipagugnay saiyo maliban kung nag mamadali na pumayag.
 
-b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
+b. Kahit anong mga kaayusan, mga pagkakaintindihan, o mga pagkakasunduan hinggil sa Lesensyadong Materyal hindi nakasaad dito na magkahiwalay mula sa malayang mga tuntunin at mga kundisyon sa Pampublikong Lesensya.
 
-### Section 8 – Interpretation.
+### Seksyon 8 - Interpretasyon.
 
-a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
+a. Para maiwasan ang pag-dududa, ang pampublikong Lesensya na ito ay hindi, at hindi dapat na ma interpretasyon para, mabawasan. limitahan, pagbawalan, o mapatawan ng mga kondisyon sa kahit anong gamit na Materyal na Lesensya na maaring maging ayon sa batas na gamuwa ng walang permiso sa ilalim ng Pampublikong Lesensya na ito.
 
-b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+b. Sa posibleng lawak, sa kahit anong probisyon ng Pampublikong Lesensya na ito ay hindi itinuturing maipatupad, ito dapat ay awtomatikong mareporma sa minimum na lawak na kinakailangan magawang maipatupad. Kung ang probisyon ay hindi maaring mabago. ito ay dapat na inihihiwalay mula sa Pampublikong Lesensya ng hindi naaapektuhan ang pagpapatupad ng natitirang mga tuntunin at mga kondesyon.
 
 c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
 
