@@ -72,11 +72,11 @@ Contudo, como vimos anteriormente com a violação, é impossível que duas pess
 
 Por outro lado, se eu disser que "gostar de jazz" é uma APA, então imediatamente me irei deparar com uma impossibilidade lógica. Recorde que as APAs são regras não coercitivas que podem ser aplicadas racionalmente em ambas partes, simultaneamente - a formulação correcta para "gostar do jazz" é: "preferências subjectivas são universalmente preferíveis"
 
-Isso não só é uma contradição de classificação em termos de sintaxe, como também falha imediatamente no teste do CUP. Se eu prefiro o jazz a todas as outras formas de música, mas você prefere música clássica a todas as outras e se as preferências pessoais são universalmente preferíveis, então você deve preferir o jazz porque eu o prefiro e eu deveria preferir o clássico porque você o prefere. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
+Isso não só é uma contradição de classificação em termos de sintaxe, como também falha imediatamente no teste do CUP. Se eu prefiro o jazz a todas as outras formas de música, mas você prefere música clássica a todas as outras e se as preferências pessoais são universalmente preferíveis, então você deve preferir o jazz porque eu o prefiro e eu deveria preferir o clássico porque você o prefere. Como é evidente, isso é impossível, porque exigiria que ambos *preferissemos simultaneamente jazz e clássico a todas as outras formas de musica*. Você deve mudar a sua preferência para o jazz, devido à minha preferência - mas ao mesmo tempo, eu também devo mudar a minha preferência para o clássico, por causa da sua preferência. Seria como dizer que deve atirar e apanhar a mesma bola de basebol exactamente no mesmo momento - uma impossibilidade lógica e física.
 
-Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
+Dado que as APAs não são obrigatórias através da violência - você não pode atirar num homem por se atrasar - então a violação *não pode ser uma APA, já que esta, por definição, é um ataque sexual imposto pela violência.</p> 
 
-Thus rape cannot fall into the category of APAs.
+Portanto, a violação não pode cair na categoria de APAs.
 
 ### Personally Positive
 
