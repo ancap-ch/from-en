@@ -113,15 +113,15 @@ Para sa pag-iwas sa pag-aalinlangan, ang Seksyon 4 nang mga supplement na ito an
 
 a. **Maliban na lang kung hiwalay na isinagawa ng tagapaglesensya, hanggang sa posible, ang alok ng tagapaglesensya sa Materyal na Lesensya bilang parehas at bilang meron, at gawin ng walang garantiya ng kahit anong pag-aalala sa Materyal na Lesensya, kahit na mabilis, ipahiwatig, o iba pa man. Kasama ang mga ito, ng walang limitasyon, garantiya sa titulo, kakayahang makabenta, para sa partikular na hangarin, hindi pag-labag, pagliban sa talento o mga depekto, tumpak, o presensya o pagliban sa mga mali, hindi man alam o natutuklasan. Kung saan ang mga pag-tanggi ay hindi pinapayagan ang garantiya sa buong parte, ang disclaimer na ito ay hindi maaring ilapat sa iyo.**
 
-b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
+b. ** sa posibleng lawak, kung saan hindi mananagot ang Tagapaglesensya sa iyo sa kahit anong legal na teyorya (ang kasama, walang limitasyon, kapabayaan) o kung hindi man sa kahit saang derekta, espesyal, hindi derekta, hindi sinasadya, kinahinatnan, pagparusa, kapuri-puri o ibang pagkawala. halaga, mga gastos, o sira sa paglitaw dito sa Pampublikong Lesensya o gamit ang Materyal na Lesensya, kahit na ang Tagalesensya ay naabisuhan ng posibilidad ng kahit anong mga pagkatalo, halaga, mga gastusin, o mga sira. Kung saan ang limitasyon sa pananagutan ay hindi pinahihintulutan sa Kabuuang parte, ang limitasyon na ito ay hindi mai-lalapat saiyo.**
 
-c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+c. Ang disclaimer ng mga garantiya at limitasyon ng nakalaan na pananagutan sa taas ay dapat na bigyang kahulugan sa tamang pag uugali, Para sa posibleng lawak. lalo na sa higit-kumulang na pagganap ng disclaimer at pananagutan sa lahat.
 
-### Section 6 – Term and Termination.
+### Seksyon 6 - Termino at Pagwawakas.
 
-a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+a. Ang Pampublikong Lesensya ay ilalapat para sa tema ng Copyright at halintulad sa Karapatan ng Lesensyado dito. Gayunpaman, kapah ikaw ay nagkamali sa pag-comply sa Pampublikong Lesensya na ito, ang iyong karapatan sa ilalim ng Pampublikong Lesensya ay awtomatikong tapos na.
 
-b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+b. Kung saan may karapatan na gamitin ang Materyal na Lesensya sa pagwakas sa ilalim ng Seksyon 6(a), ibalik ito:
 
 1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
 
