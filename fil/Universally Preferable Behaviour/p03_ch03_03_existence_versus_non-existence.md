@@ -58,9 +58,9 @@ Tayo ay magrerebolusyon sa mundo sa pagtanggap ng nito- at ang pagpapatunay - na
 
 ### Pamahalaan, Relihiyon, at UPB
 
-When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
+Kapag kinuha natin ang UPB na balangkas at i-aplay ito sa moral na panukala tungkol sa pamahalaan at relihiyon, sa mga ibang interisadong kahihinatnang lalabas.
 
-The proposition that is most often used to justify government power is: “the government has the right to take your money.” This, however, is an utterly imprecise and false statement. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+Ang panukala ay pinaka palaging ginagamit upang bigyan-katwiran ang kapangyarihan ng pamahalaan na: "ang pamahalaan ay mayroong karapatan na kunin ang aking pera." Ito, gayunman, ay isang lubos na tumpak at maling pahayag. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
 
 “*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
 
