@@ -104,7 +104,7 @@ A violação talvez seja uma acção *pessoalmente negativa*, o oposto do númer
 
 As acções pessoalmente negativas (APNs), por definição, não podem ser infligidas aos outros. Assim, um homem a ser violado estaria errado ao "infligir" a sua preferência por *não ser estuprado* ao seu violador, sob a forma de autodefesa. Desta forma, o início da violência - a aplicação de uma preferência pessoal - é *moral*, enquanto que a legítima defesa - outra aplicação de uma preferência pessoal - é imoral. Neste caso, teríamos as mesmas acções (a imposição de uma preferência pessoal) classificadas como morais e imorais, o que não pode ser.
 
-### Aesthetically Negative
+### Esteticamente Negativa
 
 Perhaps rape is an aesthetically *negative* action, like “being late” – the flip-side of number two above. However, aesthetically negative actions (ANAs) cannot logically be violently enforced *because by definition they can be avoided*. Since I can freely choose to stop associating with a man who continually shows up late, I cannot shoot him for being late.
 
