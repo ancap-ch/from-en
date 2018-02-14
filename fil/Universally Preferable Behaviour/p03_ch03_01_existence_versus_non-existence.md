@@ -8,21 +8,21 @@ Kaya Kung sinasabi ko, " Diyos ay buhay," Ang talagang sinasabi ko ay:
 
 "*Ang buhay ay dapat nakikita; Ang Diyos ay hindi nakikita, pero ang Diyos ay nabuhay - samakatuwid ito ay Hindi nabuhay, mga buhay.*"
 
-Sa ibang salita, sa pagsasabi "Ang Diyos ay buhay," ako ay nakagawa ng hindi malutas na pagkakasalungatan. Aking tutukuyin "ang pagkakaruon" sa "hindi-pagkakaruon," na gumagawa tungkol sa mass maraming kahuligan bilang pagtukoy sa "buhay" at"walang buhay na bagay," o sa bato bilang "Ang kabaligtaran ng bato," o sa "kuwadrado" bilang isang "bilog."
+Sa ibang salita, sa pagsasabi "Ang Diyos ay buhay," ako ay nakagawa ng hindi malutas na pagkakasalungatan. Aking tutukuyin "ang pagkakaruon" sa "hindi-pagkakaruon," na gumagawa tungkol sa masa maraming kahuligan bilang pagtukoy sa "buhay" at"walang buhay na bagay," o sa bato bilang "Ang kabaligtaran ng bato," o sa "kuwadrado" bilang isang "bilog."
 
 Ang pagkakatulad, kung ako ay gagawa ng ilang alternatibong universo na kung saan ang "walang buhay katumbas ng buhay at "mag kasalungat katumbas ng Hindi nag babago" at Ang "katotohanan katumbas ng kasinungalingan"at Ang "pagkamakatwiran katumbas ng Hindi makatwiran," kung anu talaga ang ginawa ko nakalikha ako ng Lupain na tinataw na "pagkakamali," ipalagay na ang lahat ng ito ay Hindi totoo, at ang tinutukoy ng lupain na ito ay isang lugar na Kung saan ang "pagkakamali ay katumbas ng katotohanan."[^2]
 
 Syempre, ang tao ay bawal gumawa nito "alternatibong universo" upang mapawalang bisa ang katotohanan sa loob ng ating universo, pero sahalip na alisin ang mali sa katotohanan, at tawaging itong totoo. Halimbawa, walang sinuman nag-uudyok "ang Diyos ay nabuhay sa ibang universo, kaya hindi mo pweding sabihin na ang Diyos ay hindi nabuhay" kaylanman ipaliwanag "*I* maaaring hindi nabuhay sa ibang universo, kaya hindi mo pweding ariin na ako ay nabuhay dito."
 
-Sila rin ay maypusibilidad na hindi tumugon ng mabuti sa argumentong ito: " sa iba pang universo, ikaw ay pweding sumang ayon saakin na hindi nagkaruon ng Diyos, kaya ginawa mo ang isang ateista."[^3]
+Sila rin ay may pusibilidad na hindi tumugon ng mabuti sa argumentong ito: " sa iba pang universo, ikaw ay pweding sumang ayon saakin na hindi nagkaruon ng Diyos, kaya ginawa mo ang isang ateista."[^3]
 
 Kung wasto ang pahayag tungkol sa katotohanan maaaring walang katapusan ang sasalungat dahil ang ilan ay nasaisipang lupain na tinatawag na "ang pagkakamali ay katumbas ng katotohanan" mawawalan bisa ito, kung ang sinasabi ay "walang magandang pahayag tunkol sa katotohanan na maaaring mag patunay" _ gayun paman, ang amin talino ay sapat bilang pilosopo sa ngayon upang malaman na ang mismong pahayag ay nagkakasalungat sa sarili, dahil ito ay isang mabuting pahayag na maituturing para maging totoo na nagsasabing walang mabuting pahayag na magiging totoo. Kung walang magiging tama o mali- kahit na sa pahayag - walang anuman pahayag ang magagawa tungkol sa anuman bagay. Gamit ang salita, gamit ang english, gamit ang mga nauunawaan pangungusap _ang lahat ay giwang walang kabuluhan kahit anu paman, dahil sa ito ay "alternatibong universo" tulad ng nakabalagkas na pananalita ito ay maituturing na talagang walang kabuluhan. Kung ang mga bagay na pweding maging totoo sa alternatibong uniberso ay magkakaruon ng epecto sa pahayag at gagawin natin itong uniberso, at sigurado ang kabaliktaran ay totoo din, ibig-sabihin ang mga walang pahayag ay Hindi makakagawa ng kahit anu, dahil ang kanilang eksaktong kabaliktaran ay maaring maging totoo.
 
-Ang totoong reyalidad sa pahayag ay ang "pagkakamali ay katumbas ng katotohanan" at ang tautological ay kabaliwan ng " null katumbas ng null."
+Ang totoong reyalidad sa pahayag ang "pagkakamali ay katumbas ng katotohanan" at ang tautological ay kabaliwan ng " null katumbas ng null."
 
 ### Ang "Alternatibong uniberso" sa lipunan ng mga tao
 
-Ang dahilan Kung bakit kami ay gumugugol labis na oras sa pagharap sa "Alternatibong uniberso" Ang teorya ay may derectang kaugnayan sa lipunan ng tao at ginagamit ito para "mabigyang-katwiran" ang mga dakilang kasamaan na ginamit sa atin.
+Ang dahilan Kung bakit kami ay gumugugol ng labis na oras sa pagharap sa "Alternatibong uniberso" Ang teorya ay may derectang kaugnayan sa lipunan ng tao at ginagamit ito para "mabigyang-katwiran" ang mga dakilang kasamaan na ginamit sa atin.
 
 At sa aking sariling karanasan, nalaman ko na ang pumatay ay Mali. Ang gumawaga sa pamamagitan ng panukala ang pagpatay ay normal na mali ang pinaka magandang halimbawa ay, Lubos akong nag aalinlangan kahit kanino at nagulat ng magkaruon ng normal na instink kunpirma sa pamamagitan ng mahigpit na abstract sa kadahilanan ng UPB. Ang seksiyon na ito, gayunman, ito ay oposiyal na pinayagan para sa iyo para masimulan ang maging tunay na shocked.
 
