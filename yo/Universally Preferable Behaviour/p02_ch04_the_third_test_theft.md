@@ -108,7 +108,7 @@ Rántí, a kò ní ìṣòro pẹlú olúkúlùkù ọdaràn, ṣugbọn pẹlú
 
 Ti kò bá sí ẹtọ dukia tó ní ijẹrisi, a jẹ wípé olè jija jẹ ìhùwàsí ti kò ni ọgbọn nínú, nítorípé olè jija je àlàyé ìfẹ́ láti ní ìkápá dukia.
 
-Ẹtọ dukia fúnra wọn kò jẹ nkankan ju àlàyé ìfẹ́ òtítọ́ láti sẹku ìkápá lórí dukia. It is optional, insofar as you and I can join some hippie commune, and decide to never assert our property rights ever again. Or, if it becomes known in my neighbourhood that I am more than happy if somebody takes my property, it seems somewhat more likely that my lawnmower will go missing. Similarly, if I put a notebook computer on my front lawn with a sign saying “yours if you want it,” then I am clearly signalling that I have no desire to retain current or future control over the notebook.
+Ẹtọ dukia fúnra wọn kò jẹ nkankan ju àlàyé ìfẹ́ òtítọ́ láti sẹku ìkápá lórí dukia. Kìí ṣe dandan, lopin ìgbà tí iwọ ati èmi lè parapọ̀ mo awon ìjọ hippie, ká sì pinu lati ma tẹnumọ ẹtọ dukia wa mọ laye laye. Or, if it becomes known in my neighbourhood that I am more than happy if somebody takes my property, it seems somewhat more likely that my lawnmower will go missing. Similarly, if I put a notebook computer on my front lawn with a sign saying “yours if you want it,” then I am clearly signalling that I have no desire to retain current or future control over the notebook.
 
 If Doug steals Bob’s lighter, it is because Doug has a desire to gain control over the lighter – which is the very definition of property rights. If Doug steals Bob’s lighter because Doug believes that property rights are invalid, then what he is really saying is: “I want to gain control over Bob’s lighter because it is never valid to gain control over any object.”
 
