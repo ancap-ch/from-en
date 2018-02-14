@@ -18,7 +18,7 @@ Ang ating kagustuhan na maging mabuti - pinagsama kasama ang pangingilig sa kaba
 
 Isang sentral na rason na alam ng mga pamahalaan at mga Diyos ay hindi kinakailangan na ang mga ito ay napaka epektibo. * Alam natin na halos lahat ng tao ay sobrang gusto na maging mabuti dahil sila ay madaling makontrol sa pamamagitan ng moral na mga teyorya*.
 
-Ang lohika ng pagsunod sa mga alamat ay patent na mangmang. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+Ang lohika ng pagsunod sa mga alamat ay patent na mangmang. Kung ang isang pari ay magsasabi sa akin na kailangan kong sumunod "Diyos," ito ay eksaktong katulad ng pagsasabi niya sa pagsasabi sa akin na kailangan kong sundin ang isang nilalang na tinatawag na "Nog." Kahit na ito ay tanggapin ko na ito ay kathang-isip na nilalang na hindi karapat dapt sa walang hanggang pagsunod, ito parin ay walang paraan pilitin ako na sumunod *ang Pari*. Kung sasabihin ko sayo na "sundin ang iyong puso," puwede na abng sabihin na makatwirang sabihin na: "at *ako mag-isa* ang magsasalita para saiyong puso"?
 
 Syempre hindi.
 
