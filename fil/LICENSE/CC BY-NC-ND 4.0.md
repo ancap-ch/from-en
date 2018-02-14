@@ -123,7 +123,7 @@ a. Ang Pampublikong Lesensya ay ilalapat para sa tema ng Copyright at halintulad
 
 b. Kung saan may karapatan na gamitin ang Materyal na Lesensya sa pagwakas sa ilalim ng Seksyon 6(a), ibalik ito:
 
-1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+1. awtomatiko bilang simula sa petsa ng paglabag ay magaling na, ibinigay ito ng magaling sa loob ng 30 na araw ng iyong na diskubre sa paglabag: o
 
 2. upon express reinstatement by the Licensor.
     
