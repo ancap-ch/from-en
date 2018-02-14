@@ -1,6 +1,6 @@
 ## Pag papairal Laban sa Hindi Pagpapairal
 
-Aking papaliwanag ang "hindi pagpapairal" bilang na Hindi nagtataglay ng mass o lakas, o ipakita ang mga epekto ng mass o lakas, tulad ng kapansin pansi na relasyon gaya mg gravity.
+We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
 
 Ang Diyos ay Hindi nag tataglay ng mass o lakas, o ipakita ang mga epekto ng mass o lakas -sa katunayan ang Diyos ay Hindi napapansin o napapatunayan sa anuman paraan, ng hugis o porma, kahit na sa mga pandama, o sa pamamagitan ng pagkamaykatwiran.
 
