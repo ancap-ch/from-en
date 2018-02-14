@@ -2,11 +2,11 @@
 
 Kendini yenerek argümanların doğasını kavradığımızdan, tercihler meselesine yönelebilmekteyiz.
 
-Tercihler, önermelerin gerçeklik değerini niteleme isteğinde bulunan herhangi bir metodolojinin merkezinde yer alırlar. Bilimsel yöntem, örnek verecek olursak, büyük bir ölçüde mantıksal tutarlılık ve deneysel doğrulama için doğuştan gelen tercihler aracılığıyla tanımlanır. Bilim için, önerme: *eğer* maddenin davranışı ve enerji hakkında geçerli bir hakikat saptamak istiyorsanız, bilimsel method kullanmak *tercih edilebilir*dir.
+Tercihler, önermelerin gerçeklik değerini niteleme isteğinde bulunan herhangi bir metodolojinin merkezinde yer alırlar. Bilimsel yöntem, örnek verecek olursak, büyük bir ölçüde mantıksal tutarlılık ve deneysel doğrulama için doğuştan gelen tercihler aracılığıyla tanımlanır. Bilim için, önerme: *eğer* maddenin davranışı ve enerji hakkında geçerli bir hakikat saptamak istiyorsanız, bilimsel yöntem kullanmak *tercih edilebilir*dir.
 
-Bu noktada, "tercih edilebilir", "iyinin çeşidi" anlamına gelmez, daha ziyade "gerekli" anlamına gelir. Eğer yaşamak istiyorsan, bir avuç dolusu arsenik yemekten çekinmek evrensel olarak tercih edilebilirdir. *If* Gerçek ile ilgili geçerli doğruları belirlemek istiyorsanız, kuramlarınızın hem iç tutarlı hem deneysel olarak doğrulanabilir olması *universally preferable*. O halde, "Evrensel olarak tercih edilir", "nesnel olarak gerekli" terimine çevrilir, ancak isteğe bağlı insan mutlaklarını ve yer çekimi gibi isteğe bağlı olmayan fiziksel mutlakları ayırt etmek için "tercih edilebilir" sözcüğünü elimizde tutacağız.
+Bu noktada, "tercih edilebilir", "iyinin çeşidi" anlamına gelmez, daha ziyade "gerekli" anlamına gelir. Eğer yaşamak istiyorsan, bir avuç dolusu arsenik yemekten çekinmek evrensel olarak tercih edilebilirdir. *Eğer* Gerçek ile ilgili geçerli doğruları belirlemek istiyorsanız, kuramlarınızın hem iç tutarlı hem deneysel olarak doğrulanabilir olması *evrensel olarak tercih edilebilir*dir. O halde, "Evrensel olarak tercih edilir", "nesnel olarak gerekli" terimine çevrilir, ancak isteğe bağlı insan mutlaklarını ve yer çekimi gibi isteğe bağlı olmayan fiziksel mutlakları ayırt etmek için "tercih edilebilir" sözcüğünü elimizde tutacağız.
 
-Benzer bir şekilde, eğer etik teorilerin hepsi geçerli olabiliyorsa, *at least* hem dahili hem de harici olarak tutarlı olmalılar. Başka bir deyişle, kendisiyle çelişen bir etik teori geçerli olamaz - ve deneysel kanıtlara ve evrensel-çevre tercihlerine aykırı etik bir teori de geçerli olamaz.
+Benzer bir şekilde, eğer etik teorilerin hepsi geçerli olabiliyorsa, *en azından* hem dahili hem de harici olarak tutarlı olmalılar. Başka bir deyişle, kendisiyle çelişen bir etik teori geçerli olamaz - ve deneysel kanıtlara ve evrensel-çevre tercihlerine aykırı etik bir teori de geçerli olamaz.
 
 Dolayısıyla, teorileri gerçekle karşılaştıran fen, matematik, mühendislik ve diğer disiplinlerde olduğu gibi etik de *geçerli teorilerin hem mantıksal olarak tutarlı hem deneysel olarak doğrulanabilir olması gerekir*.
 
@@ -16,7 +16,7 @@ Eğer ben "Dondurma seviyorum." dersem bu cümle içinde sadece bir kelime belir
 
 Tercihler gerçekte objektif olarak yoklar. Eğer saplantılı şekilde merak ediyorsanız, muhtemelen beni takip edebilir ve her dondurma yediğimde kayıt altına alabilirsiniz, bu da muhtemelen tercihimi oluşturmak için iyi bir deneysel temel oluşturacaktır. Bununla birlikte, gerçekte bir mazoşist olduğum ve dondurmayı sevmediğim ve hoşa gitmeyen tadıyla kendime işkence yapmayı tercih ettiğim ihtimali olabilir - ve daha sonra onu sevmeyi iddia ederek sizi şaşırtabilir.
 
-Tercihler için *delil* bulabiliriz; Biz gerçekte * tercihin kendisi* olduğunu bulamayız. Yer çekiminin, kütleler arasındaki bir ilişki olarak var olduğu gibi, tercih de bilinç ile madde arasında *ilişki* olarak bulunur.
+Tercihler için *delil* bulabiliriz; Biz gerçekte *tercihin kendisi* olduğunu bulamayız. Yer çekiminin, kütleler arasındaki bir ilişki olarak var olduğu gibi, tercih de bilinç ile madde arasında *ilişki* olarak bulunur.
 
 Özgür irade ile determinizm arasındaki zorlu soruları bir kenara koyarsak, şu anda birinin yaptığı her şeyin "tercih" ettiği varsayımı mantıklıdır. Eğer kalkarsam ve işe gidersem, diğer tüm seçeneklerin aksine bunu yapmayı * tercih ettiğimdendir *. İşimden nefret etsem bile, şüphesiz meteliksiz olduğumu söylemekten daha az nefret ediyorum.
 
