@@ -130,7 +130,7 @@ tag_prefix: "https://en.ancap.ch/tags/"
 persons:
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "Hans-Hermann Hoppe"
     rule: "author"
   - 
     person: [ ]
