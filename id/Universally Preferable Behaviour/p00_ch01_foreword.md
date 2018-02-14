@@ -1,8 +1,8 @@
 ## Kata Sambutan
 
-Dalam beberapa kisah disebutkan, hiduplah seekor binatang buas yang memiliki kekuatan yang luar biasa, naga atau basilisk, yang disekelilingnya dihiasi oleh tanah. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+Dalam beberapa kisah disebutkan, hiduplah seekor binatang buas yang memiliki kekuatan yang luar biasa, naga atau basilisk, yang disekelilingnya dihiasi oleh tanah. Penduduk desa setempat ketakutan dengan monster ini; mereka memakan hewan mereka, membayar uang dan darah dengan harapan bisa memenuhi keinginan pembunuhnya.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Banyak orang meringkuk di bawah bayang-bayang binatang ini, menyebut ketakutan mereka dengan "kehati-hatian," tapi hanya sedikit - disebabkan mabuk untuk keberanian atau kebodohan - memutuskan untuk bertarung. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
 
 Try – and fail.
 
