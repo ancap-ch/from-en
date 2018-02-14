@@ -54,7 +54,7 @@ Ang pag unlad ng lipunan ay eksakto sa antas ng dahilan at katibayan gawin ang p
 
 Sinasabing ang mga operasyon ng pamahalaan ay nasa ilalim ng tapat na mga patakaran ng moralidad mula sa iba pang lipunan ay eksakto ang parehong sinasabi, " leprechauns ay tinatablan ng grabidad." Una sa lahat leprechauns ay hindi umiiral-at isa sa mga paraan para malaman natin na ito ay hindi umiiral ay tinatangap nila na sila ay tinatablan ng grabidad. Ang lahat ng mya masa ay napapailalim ng grabidad - na kung saan ay immune sa grabidad sapamamagitan ng kahulugan ay walang masa, at samakatuwid ay hindi umiiral. Ang pahayag "leprechuans ay immune sa grabidad" ay isang tautolohiya, na nagpapatunay lamgang sa di-pagkakaruon ng leprechauns - ito ang simantiko katumbas ng "na hindi umiiral, hindi umiiral."A ay A, ang unang batas luhika ni Aristotle, ay mahalaga lamang upang kumpirmahin ang pagkakaroon na kung sang tinutukoy bilang hindi pagkakaroon.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+Sa parehong paraan, kapag sinabi natin na maganda ang moralidad ng sondalo sa pagpatay at ang kinatawan ng pamahalaan sa pagnanakaw, alam natin na ang "mga sundalo" at " mga kinatawan ng pamahalaan" bilang mga katigorya ng moralidad ay * ganap na hindi wasto*.
 
 If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
 
