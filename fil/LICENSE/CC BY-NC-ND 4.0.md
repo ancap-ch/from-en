@@ -83,18 +83,10 @@ a. ***Attribution.***
     
     A. panatilihin ang sumusunod kung ito ay sumusunod sa tagapaglesensya kasama ang Materyal na Lesensya:
     
-         i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
-        
-         ii. a copyright notice;
-        
-         iii. a notice that refers to this Public License;
-        
-         iv. a notice that refers to the disclaimer of warranties;
-        
-         v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+         i. pagkakakilanlan ng (mga) lumikha ng Materyal na Lesensya at iba pang nakatalagang tatanggap ng pagpapalagay, sa kahit anong rason na hiling ng tagapaglesensya (kasama ang sagisag sa panulat na nakatalaga); ii. ang copyright notice; iii. ang mapansin na tumutukoy sa Pampublikong Lesensya na ito; iv. ang mapansin ang tumutukoy sa pagtatatwa ng mga garantiya; v. ang URI o hyperlink sa Materyal na Lesensya sa makatwirang lawak;
         
     
-    B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+    B. isaad kung iyong binago ang Materyal na Lesensya at mapanatili ang isang idikasyon ng anumang nakaraan na pag babago; at
     
     C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
     
