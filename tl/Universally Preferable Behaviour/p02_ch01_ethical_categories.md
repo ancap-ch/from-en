@@ -1,20 +1,20 @@
-## Ethical Categories
+## Ang mga etikal na Kategorya
 
-With the UPB framework in place, we can now turn to an examination of how UPB validates or invalidates our most common moral propositions. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
+Sa pamamagitan ng balangkas ng UPB sa lugar, maaari na ngayong i-usisa ang pagsusuri kung paano napatunayan o ipinawalang-bisa ng UPB ang aming pinakakaraniwang mga panukalang moral. Kung ang aming "teorya ng pisika" ay maaaring ipaliwanag kung paano mahuhuli ng isang baseball ang isang tao, hindi na namin napasa ang unang - at pinakamahalaga - sagabal, at sinaktan ang una at pinakamalalim na suntok laban sa hayop.
 
-### The Seven Categories
+### Ang Pitong Mga Kategorya
 
-As mentioned above, propositions regarding universally preferable behaviour fall into three general categories – positive, negative and neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
+Tulad ng nabanggit sa itaas, ang mga panukala tungkol sa pag-uugali ng higit sa lahat ay nahulog sa tatlong pangkalahatang kategorya - positibo, negatibo at niyutral. Upang matulungan kaming makahiwalay ng mga aesthetics mula sa etika, simulan natin sa pamamagitan ng pagpapalawak ng mga kategoryang ito upang mapalibutan ang *anumang* pag-uugali na maaaring mapailalim sa isang etikal na pagtatasa. Ang pitong mga kategoryang ito ay:
 
-1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
-2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
-3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
-4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
-5. It is personally negative (predilection for not eating ice cream).
-6. It is aesthetically negative (“rudeness” and “being late”).
-7. It is evil (universally proscribed) (“rape”).
+1. Ito ay mabuti (higit na mas mainam at masusunod sa pamamagitan ng karahasan, tulad ng "hindi pagpatay").
+2. Ito ay aesthetically positibo (higit na higit sa lahat ngunit hindi maaaring ipatupad sa pamamagitan ng karahasan, tulad ng "kagalang-galang" at "pagiging nasa oras").
+3. Ito ay personal na positibo (alinman sa hindi pangkaraniwang lalong kanais-nais o maipapatupad, tulad ng isang predilection para kumain ng ice cream).
+4. Ito ay niyutral, o walang etikal o aesthetic na nilalaman, tulad ng pagtakbo para sa isang bus.
+5. Ito ay personal na negatibo (predilection para hindi kumain ng ice cream).
+6. Ito ay aesthetically negatibo ("kabastusan" at "pagiging huli").
+7. Masama (pangkaraniwang ipinagbabawal) ("panggagahasa").
 
-Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
+Sa isip, dapat nating magawa ang mga ito hanggang sa dalawang kategorya lamang - higit na mas mainam at positibong positibo - sa pamamagitan ng pagtukoy sa ating etikal na panukala upang ang ipinagbabawal sa lahat ay isang mirror na larawan ng kung ano ang higit na mas mainam, at ang paghuhukay lamang ng personal na mga kagustuhan at niyutral mga aksyon na walang kaugnayan sa isang diskusyon ng etika.
 
 For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
 
