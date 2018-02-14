@@ -24,9 +24,9 @@ Syempre hindi.
 
 When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
 
-Let’s take as an example a very real and present danger: taxation.
+Gawin nating isang halimbawa ng isang tunay at kasalukuyang panganib: pagbubuwis.
 
-#### Taxation
+#### Pagbubuwis
 
 I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
 
