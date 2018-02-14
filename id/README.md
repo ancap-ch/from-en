@@ -90,7 +90,7 @@ Last generated:
 ---
 
 # The Myth of National Defense    
-Proofreaders:   
+Proofreaders: Rooneey  
 Platform: **Github**  
 Last generated:  
 
@@ -99,7 +99,7 @@ Last generated:
 
 | file name | translated | reviewed | words | translators | arbitrary | arbitrary |
 | - | - | - | - | - | - | - |
-| intro.md | :x: | :x: | 5k 050 | | | | | |
+| intro.md | :o: | :o: | 5k 050 | (crowdin), rooneey | | | | |
 | < more files to be added > | :x: | :x: |  | | | | | |
 
 </details>
