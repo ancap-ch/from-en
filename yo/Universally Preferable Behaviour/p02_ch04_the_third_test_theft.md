@@ -92,9 +92,9 @@ Wàhálà tó wa pẹlú àlàyé tó jiyàn fún nkan to kéré sí ìdá ọg�
 
 Nigbana, tí a bá pá òtítọ́ òdodo pọ pẹlú UPB, a ó wa ni agbọye irọrun wipe nígbàtí ẹnikẹni tó bá jiyàn lori ẹtọ dukia n se àmúlò ìdá ọgọrùn nínú ọgọrùn ìkápá lórí ohun ìní rẹ, ìbéèrè toku ni bóyá ẹtọ dukia yatọ láti ẹnìkan sí ẹnìkan - ìbéèrè tí òtítọ́ òdodo ti níní ara ẹni tí dáhùn sí, ati ìlànà UPB pàápàá. Èyíkéyìí èròngbà lori ìwà gbọdọ jẹ ti àgbáyé àti dúró déédé, èyí ni a lè fi mọ wípé *gbogbo èèyàn* ló ní ìdá ọgọrùn nínú ọgọrùn ẹtọ dukia.
 
-Any other possibility is logically and empirically impossible.
+Èyíkéyìí ìṣẹlẹ mìíràn kò le ṣeéṣe ni ti ọgbọn àti ìrírí.
 
-### Testing "Theft"
+### Agbeyewo "olè jija"
 
 Let us return to our patient moral guinea pigs, Bob and Doug.
 
