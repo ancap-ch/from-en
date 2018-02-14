@@ -64,7 +64,7 @@ Uma vez mais, o quadro CUP vem ao resgate.
 
 Uma APA é uma regra *não coerciva que pode ser aplicada racionalmente em ambas partes simultaneamente*.
 
-For instance, if my APA is: “be on time,” then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+Por exemplo, se a minha APA for: "ser pontual", então pode ser um padrão universal que pode ser completamente evitado. Eu não lhe posso impor esta APA, porque você não precisa ser meu amigo, não precisa ser pontual, não é obrigado a respeitar nem seguir as minhas preferências de qualquer forma.[^1]
 
 If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
 
