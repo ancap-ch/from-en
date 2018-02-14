@@ -90,13 +90,13 @@ As preferências pessoais não podem ser impostas a outras pessoas, porque isso 
 
 Se eu dissesse que gostar do grupo Queen acima de todos os outros é um comportamento universalmente preferível, com que bases poderia justificar essa afirmação? Apenas alegando que todas as preferências pessoais devem ser infligidas a outras pessoas. No entanto, se as minhas preferências pessoais lhe puderem ser infligidas à vontade, então pela própria definição do CUP, as suas preferências pessoais também *me* podem ser impostas à vontade. Portanto, não podemos ser morais ao mesmo tempo, pois isso exigiria que ambos preferíssemos os nossos próprias grupos, ao mesmo tempo que teríamos que render essa preferência aos grupos preferidos uns dos outros. Por outras palavras, devo pensar simultaneamente que Queen é a melhor banda, e que The Police é a melhor banda. Esta é uma impossibilidade lógica e o motivo central pelo qual as meras preferências pessoais não podem ser universalmente requeridas.
 
-Thus if rape is considered to be a merely personal preference, then it cannot logically be enforced upon anybody else. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
+Então, se a violação é considerada uma preferência meramente pessoal, evidentemente, não pode ser aplicada a outra pessoa. Novamente, pensando nos dois homens numa sala, isso exigiria que ambos se preferissem violar um ao outro, mas permanecessem absolutamente incapazes de impor essa decisão, que não só seria ilógica, como também, felizmente, completamente impraticável.
 
-Finally, since personal preferences cannot be enforced on others, but rape is by definition the enforcement of a “preference” upon another, rape cannot be in the moral category of merely personal preferences.
+Finalmente, uma vez que as preferências pessoais não podem ser aplicadas aos outros, mas a violação é, por definição, a aplicação de uma "preferência" a outro, não pode estar na categoria moral de simples preferências pessoais.
 
-### Morally Neutral
+### Moralmente Neutro
 
-As discussed above, rape cannot be a morally neutral action, since it is a preference that is enforced upon another.
+Conforme o discutido acima, a violação não pode ser uma acção moralmente neutra, dado que é uma preferência que é aplicada sobre outro.
 
 ### Personally Negative
 
