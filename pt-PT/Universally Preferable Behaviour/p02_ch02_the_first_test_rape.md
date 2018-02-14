@@ -110,13 +110,13 @@ Talvez a violação seja uma acção esteticamente *negativa*, como "estar atras
 
 No entanto, a violação, por definição, não pode ser evitada, já que é um ataque sexual imposto pela violência.[^4] Além disso, se eu optasse por deixar de ser amigo do homem atrasado, mencionado anteriormente, ele não me poderia forçar a ser seu amigo, ameaçando-me com a violência, pois isso invocaria o princípio de que somente as preferências pessoais podem ser impostas aos outros, o que iria fortemente em contra da minha capacidade de impor o *meu* desejo de soltar a sua amizade. Este tipo de "moralidade de tarantino" sempre acaba com todos em estado de paralisia muda, apontando as armas uns aos outros como estátuas congeladas.
 
-As we have already established, any universally preferable behaviour must be universal to all people in all places at all times – if ANAs allow for violent enforceability (i.e. I can shoot you for being late) – then if rape is defined as an ANA which can be enforced, then the rape victim who finds rape an aesthetically negative action has the right to shoot his rapist, which effectively affirms the principle of self-defence, but at the expense of also allowing gun play in the opposition of, say, rudeness.
+Como já estabelecemos, qualquer comportamento universalmente preferível deve ser universal para todas as pessoas em todos os lugares e em todos os momentos - se AENs permitir a aplicação excessiva (ou seja, eu posso disparar se você se atrasar) - então se a violação é definida como uma AENs que pode ser aplicada, então a vítima de estupro que acha que a violação é uma acção esteticamente negativa tem o direito de atirar no seu violador, o que efectivamente afirma o princípio da legítima defesa, mas à custa de permitir o jogo das armas no oposto da, digamos, rudeza.
 
-Thus rape cannot be an ANA.
+Assim, a violação não pode ser uma AEN.
 
-Which leaves only…
+O que deixa apenas…
 
-### Evil
+### Mal
 
 If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil,” passes the “coma test,” insofar as it is impossible for a man in a coma to rape someone.
 
