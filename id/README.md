@@ -108,7 +108,7 @@ Last generated:
 ---
 
 # Universally Preferable Behaviour    
-Proofreaders:   
+Proofreaders: Rooneey  
 Platform: **Github**  
 Last generated:  
 
@@ -146,7 +146,7 @@ Last generated:
 | p03_ch03_02_..existence.md | :x: | :x: | 2k 780 | | | | | |
 | p03_ch03_03_..existence.md | :x: | :x: | 2k 260 | | | | | |
 | p03_ch04_additional_proofs.md | :x: | :x: |    480 | | | | | |
-| p03_ch05_parallels.md | :x: | :x: | 1k 070 | | | | | |
+| p03_ch05_parallels.md | :o: | :o: | 1k 070 | Rooneey | | | | |
 | p04.md | :x: | :x: | 1k 260 | | | | | |
 | p05_appendices.md | :x: | :x: |    880 | | | | | |
 
