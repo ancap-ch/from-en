@@ -1,6 +1,6 @@
 ## Pag papairal Laban sa Hindi Pagpapairal
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+Tinutukoy namin na ang "di-pagkakaroon" bilang hindi nagtatagalay ng masa o lakas, o pagpapakita ng mga epekto ng masa o lakas, tulad ng nakikita sa mga relasyon na gaya ng garbidad.
 
 Ang Diyos ay Hindi nag tataglay ng mass o lakas, o ipakita ang mga epekto ng mass o lakas -sa katunayan ang Diyos ay Hindi napapansin o napapatunayan sa anuman paraan, ng hugis o porma, kahit na sa mga pandama, o sa pamamagitan ng pagkamaykatwiran.
 
