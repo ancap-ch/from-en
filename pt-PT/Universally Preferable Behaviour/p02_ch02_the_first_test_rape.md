@@ -98,9 +98,9 @@ Finalmente, uma vez que as preferências pessoais não podem ser aplicadas aos o
 
 Conforme o discutido acima, a violação não pode ser uma acção moralmente neutra, dado que é uma preferência que é aplicada sobre outro.
 
-### Personally Negative
+### Pessoalmente Negativo
 
-Perhaps rape is a *personally negative* action, the opposite of number three. As an example, a criminal on the run would consider capture a personally negative action (PNA).
+A violação talvez seja uma acção *pessoalmente negativa*, o oposto do número três. Como exemplo, um criminoso em fuga consideraria a captura como uma acção pessoalmente negativa (APN).
 
 Personally negative actions (PNAs) by definition cannot be enforced upon another. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
 
