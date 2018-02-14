@@ -2,16 +2,16 @@
 
 Genel olarak, *etik* veya *ahlak* uygulanabilir tercihleri nitelerken, *estetik* terimini uygulanamaz tercihlerden bahsederken kullanırız. Fiziksel teorileri doğrulamada bilimsel yöntemlerin kullanılması *evrensel olarak tercih edilebilir* (başka bir deyişle gereklidir), fakat *bilimsel yöntemleri kullanmamanın geçerli bir şiddet eylemi olmamasından* beri, bunu kullanmayanlar üzerinde zor kullanarak bilimsel yöntemleri *çarpıtamayız*. Doğası gereği şiddet içermeyen eylemler *atlatılabilir*. Eğer bir fizikçi bilimsel metodu bırakıp onun yerine tarot kartlarına danışmaya başlarsa, tercihlerini şiddet kullanmadan bana yansıtıyorsa, onu görmezden gelebilirim. Öte yandan bir tecavüzcü, kurbanına tercihlerini şiddetle uyguluyor.
 
-İlk olarak ETD'nin etik alanına odaklanmamıza rağmen, ETD şuan "genel terim" olarak görülebilir ve şu dalları içerir:
+İlk olarak E.T.D'nin etik alanına odaklanmamıza rağmen, E.T.D. şuan "genel terim" olarak görülebilir ve şu dalları içerir:
 
-- Bilimsel metot
+- Bilimsel yöntem
 - Mantık
 - Deneycilik
 - Tartışma
 - Dil
 - Etik
 
-Etik, ETD'nin *meydana getirilen* davranışla veya şiddetin uygulanmasıyla uğraşan bir alt kümesidir. Şiddet kullanımını haklı çıkaran veya reddeden her teori *ahlak* teorisidir, ve mantıksal tutarlılık ve ampirik kanıtın şartlarına tabidir.
+Etik, E.T.D'nin *meydana getirilen* davranışla veya şiddetin uygulanmasıyla uğraşan bir alt kümesidir. Şiddet kullanımını haklı çıkaran veya reddeden her teori *ahlak* teorisidir, ve mantıksal tutarlılık ve ampirik kanıtın şartlarına tabidir.
 
 Etik ve estetik arasında daha fazla ayrım yapabilmek için şu üç eyleme bakalım. İlk eylem *mantıksızlık*; ikincisi, *yalan söylemek*; üçüncüsü ise *cinayet*.[^9]
 
@@ -45,11 +45,11 @@ Kişisel tercihler hakkında kitap yazmakta çok az mantık vardır - ve toplums
 
 ### Seçenek
 
-Eğer senin akşam yemeği partisi davetini kabul edersem fakat muhabbeti çok saldırgan bulursam, kalkıp gitmeye karar verebilirim ve bir daha senden gelen diğer davetleri kabul etmeyebilirim. Bu kaçış ve/veya sakınma kapasitesi *ahlaki değerleri* *estetik*'ten ayıran esas karakteristiktir.
+Eğer senin akşam yemeği partisi davetini kabul edersem fakat muhabbeti çok saldırgan bulursam, kalkıp gitmeye karar verebilirim ve bir daha senden gelen diğer davetleri kabul etmeyebilirim. Bu kaçış ve/veya sakınma kapasitesi *ahlaki değerleri* *estetik*ten ayıran esas karakteristiktir.
 
-Bununla birlikte, eğer akşam yemeği davetinizi terketmeye karar verirsem, siz de oturduğunuz yerden sıçrayıp beni sandalyeme zincirlerseniz, şüphesiz ki artık özgürce terketme seçeneğine sahip olmamış olurum. Nezaketsizliğinizin açıkça saldırganlık haline haline geldiği bu an, estetik değerlerden ahlaki değerlere olan çizgiyi aştığınız andır.
+Bununla birlikte, eğer akşam yemeği davetinizi terk etmeye karar verirsem, siz de oturduğunuz yerden sıçrayıp beni sandalyeme zincirlerseniz, şüphesiz ki artık özgürce terk etme seçeneğine sahip olmamış olurum. Nezaketsizliğinizin açıkça saldırganlık haline haline geldiği bu an, estetik değerlerden ahlaki değerlere olan çizgiyi aştığınız andır.
 
-Eğer, tek eşlilik yemini ettikten sonra, eşimi aldatırsam, ve o da beni terketmeye karar verirse, ona kesinlikle yanlış yaptım, fakat onu aldatarak yapmış olduğum yanlış beni terketmesini önlemek için onu bodruma kilitlemekten çok farklı olacaktır. Genel olarak sadakatsizlik sebebiyle kocasını vuran bir eşin ahlaki olarak davrandığını düşünmeyeceğiz ama eğer tutukluluğundan kaçmak için şiddet kullanmak zorundaysa, bu üzücü gerekliliğin farkına varacağız. İlk durumda, eş kocasını *terk etme* seçeneği ve kapasitesine sahiptir, ve dolayısıyla şiddet bu duruma karşılık haksız bir cevap olacaktır; ikinci durumda, tutukluluk sebebiyle kocasını terk etme seçeneği saf dışı edilmiş olacaktır. Sadakatsizlik bir eşin seçim kapasitesini yok etmez; ama onu bodruma kilitlemek bu seçim kapasitesini yok eder.
+Eğer, tek eşlilik yemini ettikten sonra, eşimi aldatırsam, ve o da beni terk etmeye karar verirse, ona kesinlikle yanlış yaptım, fakat onu aldatarak yapmış olduğum yanlış beni terk etmesini önlemek için onu bodruma kilitlemekten çok farklı olacaktır. Genel olarak sadakatsizlik sebebiyle kocasını vuran bir eşin ahlaki olarak davrandığını düşünmeyeceğiz ama eğer tutukluluğundan kaçmak için şiddet kullanmak zorundaysa, bu üzücü gerekliliğin farkına varacağız. İlk durumda, eş kocasını *terk etme* seçeneği ve kapasitesine sahiptir, ve dolayısıyla şiddet bu duruma karşılık haksız bir cevap olacaktır; ikinci durumda, tutukluluk sebebiyle kocasını terk etme seçeneği saf dışı edilmiş olacaktır. Sadakatsizlik bir eşin seçim kapasitesini yok etmez; ama onu bodruma kilitlemek bu seçim kapasitesini yok eder.
 
 ### Kaçınma
 
