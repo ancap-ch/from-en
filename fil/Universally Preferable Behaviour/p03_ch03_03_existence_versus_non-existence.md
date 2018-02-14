@@ -2,9 +2,9 @@
 
 Ang ideya na naipanganak ay lumilikha ng isang kontrata sa isang kathang-isip na ahensya, na sa praktikal na pananalita ay gagawin kang quasi- alipin sa isang partikular na tao, ay karaniwan sa parehas na relihiyon at ang estado - sa isa pa, sa mas personal na ahensya, na kung saan ako ay nagsasalita tungkol sa aking unang libro "Sa katotohanan: Ang Bagsik ng Ilusyon."
 
-Tuwing sinasabi ng pari na: "Sundin ang Diyos," ang kayang talagang sinasabi ay: Sumunod *sakin*." Dahil sa ang Diyos ay hindi naman umiiral, ang anumang kautusan na sinasabi ng pari ay nanggagaling sa Diyos, ay ang totoo ay nanggagaling sa pari. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Tuwing sinasabi ng pari na: "Sundin ang Diyos," ang kayang talagang sinasabi ay: Sumunod *sakin*." Dahil sa ang Diyos ay hindi naman umiiral, ang anumang kautusan na sinasabi ng pari ay nanggagaling sa Diyos, ay ang totoo ay nanggagaling sa pari. "Diyos" ay isa lamang kathang-isp na nilalang na ginagamit upang lituhin ang iyong kaisipan upang makuha ang iyong pinaka praktikal na sunod- sunuran sa totoong mundo, sa mga totoong tao, sa mga tuntunin ng boluntaryong pagpapasa ng pera, panahon at mga yaman.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+Ito ay mas mahusay para sa mga mapagsamantala na magkaroon ng kanilang mga alipinna isininasalang- alang ang mga alipin ng kabanalan, dahil ito ay nagpuputol ng sobrang pababa sa mga gastos ng pagkontrol sa kanila. Kung kaya ko lamang kumbinsihin ka na ito ay masama upang maiwasan ang mga naglilingkod sa akin, at marangal na maging aking alipin, pagkatapos ay hindi ko na kailangan kumuha ng maraming siga na mang-inis, magkontrol at magnakaw mula sa iyo.
 
 Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
 
