@@ -10,17 +10,17 @@ Relihiyon at Pang- Estadong metolohiya, pagkatapos, ay mga kathang- isip na sobr
 
 Sa buong mundo, ang mga pinuno ay napakaliit na porsyento ng populasyon. Paano ito magiging posible para sa isa hanggang dalawang porsyento ng tao na kontrolin ang ibang? Mayroong isang partikular na monopolyo sa armamento, upang maging segurado, pero ang monopolyo ay relatibong mdali upang malabanan, dahil karamihan sa mga pamahalaan ay gumagawa ng kapalaran sa pagbebenta ng mga armas sa buong mundo.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+Ang malungkot na katotohanan ay ang mga tao bilang isang buo ay maaaring alipinin sa kathang-isip na nilalang tulad ng bansa, Mga Diyos, Kultura - at pamahalaan.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+Ang ating sariling kapalaluan ay agad na maghihimagsik laban sa madalian at sapilitang pang-aalipin sa isa pang nilalang - Gayunpaman, kami ay muntikan ng inalabas ang pag-aalipin sa *mitolohiya*.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+Ang ating kagustuhan na maging mabuti - pinagsama kasama ang pangingilig sa kabanalan na makukuha sa pagsunod sa mitolohiyang moral - ay ating aporo patungo sa kusang loob na ibigay ang ating mga yaman sa mga nagsasabi upang kumatawan sa mga mitolohiya.
 
 One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
 
 The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
-Of course not.
+Syempre hindi.
 
 When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
 
