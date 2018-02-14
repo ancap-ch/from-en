@@ -42,7 +42,7 @@ Sa ganon ang tunay na pakikipag-ugnayan ay ang isang tao ay nagpapadala sa akin 
 
 Kung hindi ko binayaran ang taong ito. ay mag papadala siya ng bagong tao sa bahay ko para kolektahin ang pera - at may "interes" at "karagdagan"
 
-Karaniwan, kapag ang tao na may baril na pumunta sa bahay ko at hinihingi ang aking pera. mayroon akong karapatang gumamit ng puwersa upang ipagtanggol ang aking sarili. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Karaniwan, kapag ang tao na may baril na pumunta sa bahay ko at hinihingi ang aking pera. mayroon akong karapatang gumamit ng puwersa upang ipagtanggol ang aking sarili. Sa kasong ito, gayunpaman, dahil siya ay na ka costume at nagsasabing na siya ang kumakatawan sa isang fictional entity, hindi ako pinapayagan na gumamit ng puwersa para ipagtanggol ang aking sarili.
 
 Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
 
