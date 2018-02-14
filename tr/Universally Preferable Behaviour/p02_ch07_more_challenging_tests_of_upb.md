@@ -104,28 +104,28 @@ Ya "yemek" ahlaka ahlaka aykırı veya ahlaki olarak tarafsızdır. Yeme ahlaka 
 
 Bu şekilde, "*balık* yemek kötüdür" önermesinin UPB testini geçemediğini ve manevi bir teori olarak geçerli olmadığını anlıyoruz.
 
-### Animal Rights
+### Hayvan hakları
 
-We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
+Hayvan hakları sorunuyla ilgili tam bir tartışmaya girmek için burada vaktimiz yok, ancak en azından manevi öneri ile uğraşabiliriz: "balıkları öldürmek kötü"
 
-If it is evil to kill fish, then UPB says that anyone or anything that kills the fish is evil. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
+Eğer balıkları öldürmek kötü ise, U.P.B. balıkları öldüren herhangi birinin veya şeyin kötü olduğunu söylüyor. Bu, sadece balıkçılar değil, köpekbalıkları da içermelidir; çünkü balıkların öldürülmesi kötü olursa, etik "aktörler" tanımımızı insan olmayan yaşamı da kapsayacak şekilde genişlettik.
 
-It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
+Köpekbalıklarının balıkları öldürmekten kaçınma kapasitesi olmadığı açıktır, çünkü temelde yüzgeçli makineler gibi yiyorlar.
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
+Böylece, "kaçınılmaz kötü" mantıksal problemi ile son buluyoruz. Balıkları öldürmek kötüdür, ancak köpekbalıkları balıkları öldürmekten kaçınamazsa, köpekbalıkları "kaçınılmaz olarak kötü" olur. Ancak, yukarıda tartıştıklarımız gibi, hiçbir seçeneğin olmadığı yerlerde - kaçınılmaz *imkansızdır* - ahlak olamaz. Dolayısıyla, "balıkları öldürmek kötü" önermesi, mantıksal olarak ayakta duramayacak ahlaki olmayan durumları içeren bir evrensel ahlak tanımlamaya çalışmaktadır.
 
-Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
+Ayrıca, "balık" sözcüğü, formülasyonda sorunlu kalır, çünkü evrensel olmak için çok spesifiktir. Doğru U.P.B. reformasyonu: "insanlar için canlı organizmaları öldürmek şeytanlıktır."
 
-If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+Bununla birlikte, öldürmek kötü ise, yine "kaçınılmaz kötülük" sorunuyla karşı karşıyayız. Virüsler, bitkiler veya belki de hayvanlar gibi diğer organizmaları öldürmeden hiçbir insan var olamaz. Böylece "insan hayatı" "kötülük" olarak tanımlanır. Fakat eğer insan hayatı kötülük olarak tanımlanırsa, kaçınma imkansız hale geldiği için kötü *olamaz*.
 
-What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
+Ya biz "insanları öldürmek şeytani" dersek, eğer insan yiyen bir köpekbalığı kötü yapar mıydı?
 
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
+Hayır - Bir kez daha, köpekbalıkları insanları öldürmekten alıkoyma kapasitesine sahip değildir, çünkü bir adam öldürürse, heyelandan fazla bir şey yapılmazsa, bu tür eylemlerden sorumlu tutulamazlar.
 
-UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
+U.P.B., diğer bilimlerin yaptığı gibi, objektif ve evrensel materyal veya biyolojik farklılıklara dayalı istisnaları sağlar. Isıtıldığında gazların genişlediği bilimsel teori tabii ki yalnızca gazlara uygulanır. Teoriyi, örneğin plastik kullanmadığını ispatlayarak geçersiz kılamam.
 
-In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+Aynı şekilde ahlak, önlenebilirlik gereği rasyonel bilinç için de geçerlidir. Bir salyangoz, ağaç, kaya veya "sayı" kavramına ahlaki bir teori uygulamaya çalışırsam, rasyonel bilinci, akılcı veya bilinçli olmayan, mantıksal bir çelişki olan varlıklar ile eşitlemeye çalışıyorum. Geometrinin Karşı Açı Teoremi'nin bir daire veya bulut için geçerli olmadığı için geçersiz olduğunu söyleyebilirim. YT, sadece çizgileri kesmek için geçerlidir - onu başka koşullara uygulamaya çalışmak, havayı boyamaya çalışmanın kavramsal eşdeğeridir.
 
-In other words, misapplication is not disproof.
+Başka bir deyişle, yanlış uygulama yanlış anlaşılamaz.
 
-There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
+Kürtajdan fikri mülkiyet hakları, iade etme vb. Gibi konularda üzerinde çalışabildiğimiz başka "gri alanlar" da var, ancak bence U.P.B'yi soyutlama alanından çıkarmaya ve uygulamaya başlamanın bugün yaşadığımız gerçek dünya sorunları için çok daha önemli olduğunu düşünüyorum.
