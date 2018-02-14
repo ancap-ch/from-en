@@ -38,9 +38,9 @@ Kung tatangapin namin ang UPB, dapat din namin tangapin ang mga sumusunod na pag
 
 - Ang moral na panukala ay independiyente ng kasuotan.
 
-Ang ibigsabihin nito ay ang isang tao hindi pweding baguhin ang kanyang moral nature kasama ang kanyang kasuotan. Ang paggawa ng pagbabago sa kasuotan ay hindi Makakapagpabago sa pangunahin katangian. Kung kaya't ang pagsalungat sa moral na alituntunin ay Hindi wasto batay sa mga may suot ng mga damit.
+Ang ibigsabihin nito ay ang isang tao hindi pweding baguhin ang kanyang moral kalikasan kasama ang kanyang kasuotan. Ang paggawa ng pagbabago sa kasuotan ay hindi Makakapagpabago sa pangunahin katangian. Kung kaya't ang pagsalungat sa moral na alituntunin ay Hindi wasto batay sa mga may suot ng mga damit.
 
-Sundalo, syempre, silay nagsusuot ng naiiba sa karaniwang mamayan. Ang karaniwang mamamayan ay pinagbabawal patayin; sundalo, gayunman, ay Hindi lamang *pinapahintulotan* mamatay, ngunit sa kagandahang asal *purihin<\0> para sa pagpatay.</p> 
+Sundalo, syempre, silay nagsusuot ng naiiba sa karaniwang mamayan. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
 
 Dalhin ang ibapang halimbawa.
 
