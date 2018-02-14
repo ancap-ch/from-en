@@ -102,7 +102,7 @@ Conforme o discutido acima, a violação não pode ser uma acção moralmente ne
 
 A violação talvez seja uma acção *pessoalmente negativa*, o oposto do número três. Como exemplo, um criminoso em fuga consideraria a captura como uma acção pessoalmente negativa (APN).
 
-Personally negative actions (PNAs) by definition cannot be enforced upon another. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
+As acções pessoalmente negativas (APNs), por definição, não podem ser infligidas aos outros. Assim, um homem a ser violado estaria errado ao "infligir" a sua preferência por *não ser estuprado* ao seu violador, sob a forma de autodefesa. Desta forma, o início da violência - a aplicação de uma preferência pessoal - é *moral*, enquanto que a legítima defesa - outra aplicação de uma preferência pessoal - é imoral. Neste caso, teríamos as mesmas acções (a imposição de uma preferência pessoal) classificadas como morais e imorais, o que não pode ser.
 
 ### Aesthetically Negative
 
