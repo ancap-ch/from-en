@@ -35,23 +35,23 @@
 
 确实很少有人开车进入海洋，但这并不意味着任何人都应该开车进入海洋是普遍的事实。原则不是民主的，否则，我们又一次面临等级主观主义的问题，必须把整个道德观抛到窗外去。
 
-“行为”存在于客观现实中，在我们的思想之外 - “应该”、“必须应该”、“偏好”等概念不存在于我们的思想之外。然而，“应然”在客观现实中并不存在，并不意味着“应当”是完全主观的。科学方法和数字本身都不存在于现实中，但科学和数学仍然是客观的学科。
+“行为”存在于客观现实中，在我们的思想之外 - “应该”、“必须应该”、“偏好”等概念不存在于我们的思想之外。然而，“应然” 在客观现实中并不存在，并不意味着 “应当” 是完全主观的。科学方法和数字本身都不存在于现实中，但科学和数学仍然是客观学科的。
 
 
-### Self-Defeating Arguments
+### 自相矛盾的論點
 
-In order to begin our discussion of ethics, it is essential that we understand the nature of *self-defeating arguments*.
+为了开始我们对道德伦理学的讨论，我们必须了解自我击败论点的本质。
 
-In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
+在经济学中，如果一个理论要求价格同时上下波动，那么一个理论就无法成立。在物理学中，如果气体同时膨胀和收缩，理论就不能成立。在数学中，如果一个理论要求两加二等于五，那么理论就是无效的，因为“五”只是描述二加三，而不是二加二的另一种方法，所以说二加二等于五等于五等于四，这是自相矛盾的。
 
-In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+一般说来，任何在话语中自相矛盾的理论都是无效的。它不需要外部的反证，因为它证明自己。我们不需要检查每一个角落，在宇宙中确定一个“方的圆”是不存在的。这一概念是自相矛盾的，从而证明自己的话语。
 
-If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
+如果我向你提交一个复杂的数学证明，并且你会注意到，在一开始，我声明我的证明依赖于这样一个事实，即两个加两个同时生成四个和五个，你不需要再进一步了解我的证明是无效的。
 
-Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
+同样，如前所述，如果我来跟你说：“我是不存在的，“我的论文会自动自毁。如果我能告诉你我不存在，那么我就清楚地存在了。
 
-If I come up to you and say: “There is no such thing as truth,” then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
+如果我走到你面前说：“没有真理这样的事情”，那么我正在发表一个声明，我认为这是真的，声称真理并不存在。再次，我的论点自我毁灭。 
 
-If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
+如果我告诉你“语言是没有意义的”，那么我也反驳了我自己。为了让我口头上说这种语言毫无意义，语言至少必须有某种意义。
 
-If I tell you that “Your senses are invalid,” then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
+如果我告诉你，”你的感觉是无效的”，那么我的论点也自我毁灭，因为我正在使用你的听觉来告诉你你的听觉是无效的。如果我能成功地把我的论文传达给你，那么你的听觉必须是有效的。因此，我必须假设你的感官是有效的，以说服你相信你的感官是无效的，这是站不住脚的。
