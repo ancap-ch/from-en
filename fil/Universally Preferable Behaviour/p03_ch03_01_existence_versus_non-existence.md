@@ -2,11 +2,11 @@
 
 Tinutukoy namin na ang "di-pagkakaroon" bilang hindi nagtatagalay ng masa o lakas, o pagpapakita ng mga epekto ng masa o lakas, tulad ng nakikita sa mga relasyon na gaya ng garbidad.
 
-Ang Diyos ay Hindi nag tataglay ng mass o lakas, o ipakita ang mga epekto ng mass o lakas -sa katunayan ang Diyos ay Hindi napapansin o napapatunayan sa anuman paraan, ng hugis o porma, kahit na sa mga pandama, o sa pamamagitan ng pagkamaykatwiran.
+Ang Diyos ay Hindi nag tataglay ng mass o lakas, o nagpapakita ng mga epekto ng masa o lakas - sa katunayan ang Diyos ay Hindi makikita o mapapatunayan sa anuman paraan, ng hugis o porma, kahit na sa mga pandama, o sa pamamagitan ng pagkamaykatwiran.
 
-Kaya Kung sinasabi ko, " Diyos ay umiiral," Ang talagang sinasabi ko ay:
+Kaya Kung sinasabi ko, " Diyos ay buhay," Ang talagang sinasabi ko ay:
 
-"*Ang umiiral ay dapat detectable; Ang Diyos ay hindi detectable, pero ang Diyos ay nabuhay - samakatuwid ito ay Hindi umiiral, mga umiiral.*"
+"*Ang buhay ay dapat nakikita; Ang Diyos ay hindi nakikita, pero ang Diyos ay nabuhay - samakatuwid ito ay Hindi nabuhay, mga buhay.*"
 
 Sa ibang salita, sa pagsasabi "Ang Diyos ay buhay," ako ay nakagawa ng hindi malutas na pagkakasalungatan. Aking tutukuyin "ang pagkakaruon" sa "hindi-pagkakaruon," na gumagawa tungkol sa mass maraming kahuligan bilang pagtukoy sa "buhay" at"walang buhay na bagay," o sa bato bilang "Ang kabaligtaran ng bato," o sa "kuwadrado" bilang isang "bilog."
 
