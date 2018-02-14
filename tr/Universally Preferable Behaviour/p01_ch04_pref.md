@@ -76,7 +76,7 @@ Bana katılmıyorsanız, ama ben her zaman haklı olduğum için benimle aynı f
 
 Doğruluğu yalandan tanımlamak için bir tür objektif ölçüt sağladığım andan itibaren, bu gerçeğin fikirden daha öte olduğunu kabul ediyorum.
 
-Bu, nesnel ölçütlerin * mantıksal* - olduğu anlamına gelmez Örneğin sizi dini bir metne yönlendirebilirim. Bununla birlikte, bunu yapsam da, gerçeğin sadece kişisel iddialardan bağımsız olarak geldiğini kabul ediyorum - gerçeği yalandan ayırmak için nesnel bir metodoloji vardır.
+Bu, nesnel ölçütlerin *mantıksal* - olduğu anlamına gelmez Örneğin sizi dini bir metne yönlendirebilirim. Bununla birlikte, bunu yapsam da, gerçeğin sadece kişisel iddialardan bağımsız olarak geldiğini kabul ediyorum - gerçeği yalandan ayırmak için nesnel bir metodoloji vardır.
 
 #### Önerme 6: Hakikat Gerçek Dışılıktan Daha İyidir
 
@@ -92,7 +92,7 @@ Eğer bana herhangi bir anlaşmazlık ile bana ateş ederek başa çıkacağın�
 
 Özünde, o zaman, tartışmak, objektif bir yöntem bilim kullanarak, anlamlı bir dil aracılığıyla, kişisel hatanın yerine objektif olarak tercih edilebilir evrensel hakikatin peşinde koşmayı gerektirir.
 
-Evrensel gerçeğe yönelik bu tercih *mevkinin* bir tercihi değil, *türün* bir tercihidir. Sürüş sürenizi yarıya indiren bir kısayol daha uzun bir yoldan iki kat daha iyidir - ama ikisi de tamamen yanlış bir istikamete sürüşe göre *son derecede tercih edilebilir*dir.
+Evrensel gerçeğe yönelik bu tercih *mevkinin* bir tercihi değil, *türün* bir tercihidir. Sürüş sürenizi yarıya indiren bir kısa yol daha uzun bir yoldan iki kat daha iyidir - ama ikisi de tamamen yanlış bir istikamete sürüşe göre *son derecede tercih edilebilir*dir.
 
 Aynı şekilde, hakikat hatadan sadece "iyi" değildir - *son derecede tercih edilebilir* veya mecburidir.
 
