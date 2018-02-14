@@ -16,9 +16,9 @@ Ang ating sariling kapalaluan ay agad na maghihimagsik laban sa madalian at sapi
 
 Ang ating kagustuhan na maging mabuti - pinagsama kasama ang pangingilig sa kabanalan na makukuha sa pagsunod sa mitolohiyang moral - ay ating aporo patungo sa kusang loob na ibigay ang ating mga yaman sa mga nagsasabi upang kumatawan sa mga mitolohiya.
 
-One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+Isang sentral na rason na alam ng mga pamahalaan at mga Diyos ay hindi kinakailangan na ang mga ito ay napaka epektibo. * Alam natin na halos lahat ng tao ay sobrang gusto na maging mabuti dahil sila ay madaling makontrol sa pamamagitan ng moral na mga teyorya*.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+Ang lohika ng pagsunod sa mga alamat ay patent na mangmang. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
 Syempre hindi.
 
