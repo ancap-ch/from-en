@@ -34,11 +34,11 @@ Stripped of mythology, what does this really translate to?
 
 Sa katunayan, maghihintay ako hanggang sa matapos ang "pamahalaan" na dumating at kunin ang pera nito. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
 
-In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+Sa katunayan, ng sinabi sa akin na kaingang ko na bayaran ang aking buwis sa "pamahalaan," kung ano talaga ang ibig sabihin nito ay kailangan kong magsulat ng isang tseke upang ilipat ang aking pera sa isang partikular na account sa bangko, na kung saan ay pagkatapos ay ma-access ng mga partikular na indibidwal. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Ipalagay na ang isang konsepto na tinatawag na "pamahalaan" ay may kapasidad na kunin o gugulin ang iyong pera ay eksaktong kapareho ng paghihintay sa "Diyos" na dumating at kunin ka at dalhin ka sa simbahan.
 
-Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+Sa ganon ang tunay na pakikipag-ugnayan ay ang isang tao ay nagpapadala sa akin ng liham na nagsasabi sa akin na may utang ako sa kanya ng pera. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
 
 If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
 
