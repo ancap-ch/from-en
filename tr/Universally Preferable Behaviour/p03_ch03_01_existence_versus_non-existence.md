@@ -1,14 +1,14 @@
-## Varoluş, Varolmayışa Karşı
+## Varoluş, Var olmayışa Karşı
 
 ''Var olmayışlığı'' herhangi bir kütleye veya enerjiye sahip olmayan şeklinde tanımlıyoruz ya da yer çekimi gibi kütlesi olan enerjileri gösteriyoruz.
 
-Tanrı kütleye ya da enerjiye sahip değildir ya da kütlenin veya enerjinin etkilerini göstermez – Tanrı, aslında duyular yoluyla ya da akılcılık yoluyla hiçbir şekilde ne saptanabilir ne de doğrulanabilir değildir.
+Tanrı, kütleye ya da enerjiye sahip değildir ya da kütlenin veya enerjinin etkilerini göstermez – Tanrı, aslında duyular yoluyla ya da akılcılık yoluyla hiçbir şekilde ne saptanabilir ne de doğrulanabilir değildir.
 
 Bu nedenle "Tanrı var" dersem aslında demek istediğim şey:
 
 ''*Var olanın saptanabilir olması gerekir; Tanrı saptanamaz, ancak Tanrı vardır – bu nedenle var olmayan şey var demektir.*''
 
-Başka bir deyişle "Tanrı var" derken aşılmaz bir çelişki yaratmış oluyorum. ''Varoluşu'' ''var olmayış'' olarak tanımladım, "yaşamın" "cansız madde" ya da "kayanın tam tersi" olan bir kaya veya "karenin" "daire" olarak tanımlanması kadar mantıklı olurdu.
+Başka bir deyişle "Tanrı var" derken aşılmaz bir çelişki yaratmış oluyorum. ''Varoluşu'' ''var olmayış'' olarak tanımladım, "yaşamın" "cansız madde" ya da "kayanın tam tersi" olan bir kaya veya "karenin", "daire" olarak tanımlanması kadar mantıklı olurdu.
 
 Benzer şekilde, eğer "varoluşun varoluşa eşit olduğu", "çelişkinin tutarlılığa eşitliği", "gerçekliğin yalana eşitliği", "mantıksızlığın rasyonaliteye eşitliği" diye bir alternatif evren yaratırsam, o zaman gerçekten yaptıklarım "hata" olarak adlandırılan bir bölge yaratır, her şeyi doğru olmayan yere koyarım ve bu alanı "hatanın doğruya eşit olduğu bir yer" olarak tanımlarım.[^2]
 
@@ -16,7 +16,7 @@ Tabii ki insanlar bu "alternatif evreni" kendi evrenimizdeki gerçekleri geçers
 
 Ayrıca bunu söyleyen kişiler şu argümana karşı iyi yanıt vermeme eğilimi gösterirler: "Başka bir evrende benimle, Tanrı'nın var olmadığını kabul etmiş olursanız, bu sizi ateist yapar."[^3]
 
-Eğer gerçeğe ilişkin geçerli ifadeler, "hata gerçekliğe eşittir" denilen bazı hayal alemi onları geçersiz kıldığından, sonsuza kadar karşı olabiliyorsa, gerçekten söylenen şey "hakikatle ilgili hiçbir olumlu ifade geçerli olamaz"dır – ancak, şu ana kadar bu deyimin kendini çelişkiye soktuğunu bilmek için filozoflar kadar akıllı olmamız gerekmez, çünkü olumlu olarak dile getirilen olumsuz bir söylev, olumlu ifadelerin doğru olamayacağını söyler. Eğer hiçbir şey doğru ya da yanlış olmuyorsa –hatta bu ifade ile– o zaman hiçbir şey hakkında herhangi bir yorum yapılamaz. Kelimeler kullanmak, İngilizce kullanmak, anlaşılır cümleler kullanmak - hepsi anlamsızdır, çünkü bu "alternatif evren" de böyle yapılandırılmış sözler saçmalık olabilir. Eğer bu alternatif evrende doğru olabilecek şeyler, bu evrende yaptığımız açıklamalar üzerinde etkili olursa, aynı zamanda bunun tam tersi de doğru demektir; Bunun anlamı da tam tersinin eşit derecede doğru olabileceği için hiçbir şey hakkında herhangi bir açıklama yapılamaz sonucuna ulaşılır.
+Eğer gerçeğe ilişkin geçerli ifadeler, "hata gerçekliğe eşittir" denilen bazı hayal alemi onları geçersiz kıldığından, sonsuza kadar karşı olabiliyorsa, gerçekten söylenen şey "hakikatle ilgili hiçbir olumlu ifade geçerli olamaz" – ancak, şu ana kadar bu deyimin kendini çelişkiye soktuğunu bilmek için filozoflar kadar akıllı olmamız gerekmez, çünkü olumlu olarak dile getirilen olumsuz bir söylev, olumlu ifadelerin doğru olamayacağını söyler. Eğer hiçbir şey doğru ya da yanlış olmuyorsa –hatta bu ifade ile– o zaman hiçbir şey hakkında herhangi bir yorum yapılamaz. Kelimeler kullanmak, İngilizce kullanmak, anlaşılır cümleler kullanmak - hepsi anlamsızdır, çünkü bu "alternatif evren" de böyle yapılandırılmış sözler saçmalık olabilir. Eğer bu alternatif evrende doğru olabilecek şeyler, bu evrende yaptığımız açıklamalar üzerinde etkili olursa, aynı zamanda bunun tam tersi de doğru demektir; Bunun anlamı da tam tersinin eşit derecede doğru olabileceği için hiçbir şey hakkında herhangi bir açıklama yapılamaz sonucuna ulaşılır.
 
 "Hata gerçeğe eşittir" ifadesinin gerçekliği, totolojik deliliğin ''geçersizlik geçersizliğe eşittir'' anlamına gelir.
 
@@ -24,9 +24,9 @@ Eğer gerçeğe ilişkin geçerli ifadeler, "hata gerçekliğe eşittir" denilen
 
 Bu "alternatif evren" teorisi ile çok fazla zaman harcamamızın nedeni, bunun insan toplumu ile doğrudan alakalı olması ve aramızdaki en büyük kötülükleri "haklı çıkarmak" için kullanılmasıdır.
 
-Kendi kişisel tecrübelerimizle, cinayetin yanlış olduğunu biliriz. Yukarıdaki örneklerde cinayetin ahlaki açıdan yanlış olduğunu öne sürerek, ETD'nin soyut bir şekilde akıl yürütme yöntemi sayesinde ahlakî içgüdülerinizi doğrulamak için sarsılmış olduğunuzdan şüpheliyim. Ancak bu bölümde gerçekten şok olmaya başlamanız resmen öngörülebilir.
+Kendi kişisel tecrübelerimizle, cinayetin yanlış olduğunu biliriz. Yukarıdaki örneklerde cinayetin ahlaki açıdan yanlış olduğunu öne sürerek, ETD'nin soyut bir şekilde akıl yürütme yöntemi sayesinde ahlaki içgüdülerinizi doğrulamak için sarsılmış olduğunuzdan şüpheliyim. Ancak bu bölümde gerçekten şok olmaya başlamanız resmen öngörülebilir.
 
-Bilimsel anlayıştaki en büyük atılım, sözde "birleştirici teori" dir. Einstein, birleşik bir alan teorisi geliştirmeye çalışarak on yıllar geçirmiştir; ve güçlü-zayıf kuvvetler, elektromanyetizma, yerçekimi vb.'ni birleştiren fiziğin teorileri hala kaçınılmazdır.
+Bilimsel anlayıştaki en büyük atılım, sözde "birleştirici teori" dir. Einstein, birleşik bir alan teorisi geliştirmeye çalışarak on yıllar geçirmiştir; ve güçlü-zayıf kuvvetler, elektromanyetizma, yer çekimini birleştiren fiziğin teorileri hala kaçınılmazdır.
 
 Bununla birlikte, bir çerçeve olarak ETD, ahlaki içgüdülerimizi kişisel, felsefi ve evrensel seviyelerde haklı kılmakla kalmaz – aynı zamanda insan toplumu için derin ve şok edici etkilere de sahiptir.
 
@@ -40,11 +40,11 @@ Eğer ETD'yi kabul edersek, şu sonuca da dikkat etmek zorundayız:
 
 Bunun anlamı, bir erkeğin ahlaki doğasını giysileriyle değiştiremeyeceğidir. Bir kişinin giysilerini değiştirmesi onun kişiliğini değiştirmez. Dolayısıyla, karşıt ahlaki kurallar, giyilen kıyafetlere dayanarak geçerli olamaz.
 
-Askerler tabii ki, sıradan vatandaştan farklı kostümler giyerler. Normal vatandaşler için cinayet yasaktır; ancak, askerlerin yalnızca cinayet işlemelerine *izin verilmekle* kalmıyor aynı zamanda cinayetten ötürü ahlaken *övgüyle* karşılanıyorlar.
+Askerler tabii ki, sıradan vatandaştan farklı kostümler giyerler. Normal vatandaşlar için cinayet yasaktır; ancak, askerlerin yalnızca cinayet işlemelerine *izin vermekle* kalmıyor aynı zamanda cinayetten ötürü ahlaken *övgüyle* karşılanıyorlar.
 
 Hadi başka bir örnek verelim.
 
-Yukarıda da gördüğümüz gibi hırsızlık ahlaki olarak yanlıştır. Bu her durumda her zaman tüm insanlar için ahlaki açıdan yanlış olur. Hırsızlık, başka birinin malının rızası olmadan zorla alınması olduğundan dolayı, vergilendirme daima, sonsuza kadar evrensel bir ahlaki kötülüktür. Vergilendirme, tanımı gereği, birinin malının onaylanmadan zorla alınmasıdır, çünkü vergilendirme, bir erkeğin malını soymak için kuvvet kullanımının başlatılmasına dayanmaktadır.
+Yukarıda da gördüğümüz gibi hırsızlık ahlaki olarak yanlıştır. Bu her durumda her zaman tüm insanlar için ahlaki açıdan yanlış olur. Hırsızlık, başka birinin malının rızası olmadan zorla alınması olduğundan dolayı, vergilendirme daima, sonsuza kadar evrensel bir ahlaki kötülüktür. Vergilendirme, tanımı gereği, birinin malının onaylanmadan zorla alınmasıdır. Çünkü vergilendirme, bir erkeğin malını soymak için kuvvet kullanımının başlatılmasına dayanmaktadır.
 
 "Hükümet" olarak adlandırdığımız şey, yukarıdan aşağı, siyahın beyaz, gerçeğin yalan olduğu ve kötülüğün iyi olduğu bu *boş bölgenin* başka bir örneğidir.
 
@@ -52,29 +52,30 @@ Toplum, tam olarak, gerekçenin ve kanıtların kişiden evrene doğru sıçraya
 
 ### Hükümet
 
-Hükümetin, toplumun geri kalanına karşıt ahlaki kurallar çerçevesinde hareket ettiğini söylemek, "Leprechaunların yerçekimine karşı bağışıklıkları vardır." demekle tamamen aynı şeydir. Her şeyden önce, Leprechaunlar gerçek değildir – ve var olmadıklarına inanabileceğimiz yollardan bir tanesi de yerçekimine karşı bağışıklıklarının olduğunun iddia edilmesidir. Kütlesi olan her şey yer çekimine maruz kalır – genel olarak yer çekimine karşı koyabilen bir şeyin kütlesi yoktur ve bu nedenle gerçek değildir. "Leprechaunsların yer çekimine karşı bağışıklığı vardır" ifadesi, leprechaun'ların varlığını doğrulayan bir totolojidir – ''var olmayan şey yoktur'' cümlesi bunun sembolik karşılığıdır. A, A'dır, Aristo'nun mantık ilkesi yasası, var olmayan olarak tanımlanan varlığın varlığını doğrulamak pek kıymetli değildir.
+Hükümetin, toplumun geri kalanına karşıt ahlaki kurallar çerçevesinde hareket ettiğini söylemek, "Cinlerin yer çekimine karşı bağışıklıkları vardır." demekle tamamen aynı şeydir. Her şeyden önce, Cinler gerçek değildir – ve var olmadıklarına inanabileceğimiz yollardan bir tanesi de yer çekimine karşı bağışıklıklarının olduğunun iddia edilmesidir. Kütlesi olan her şey yer çekimine maruz kalır – genel olarak yer çekimine karşı koyabilen bir şeyin kütlesi yoktur ve bu nedenle gerçek değildir. "Cinlerin yer çekimine karşı bağışıklığı vardır" ifadesi, Cinlerin varlığını doğrulayan bir gereksiz tekrardır– ''var olmayan şey yoktur'' cümlesi bunun sembolik karşılığıdır. A, A'dır, Aristo'nun mantık ilkesi yasası, var olmayan olarak tanımlanan varlığın varlığını doğrulamak pek kıymetli değildir.
 
 Benzer şekilde, ben askerler için adam öldürmenin hükümet temsilcileri için ise hırsızlığın ahlaki olduğunu söylersem, "askerler" ve "hükümet temsilcileri" ahlaki kategoriler olarak *tamamen geçersizdirler*.
 
-Eğer ben kare şeklinde bir dairenin çalma hakkı olduğunu söylersem, ben sadece olmayan bir şeyin kendisiyle çelişen bir şeyi yapmaya hakkı olduğunu söylemişimdir - tamamen anlamsız bir ifade, fakat birileri hala ilginç bir şekilde siyasetin "geçersiz bölge"sinde zorluyor.
+Eğer ben kare şeklinde bir dairenin çalma hakkı olduğunu söylersem, ben sadece olmayan bir şeyin kendisiyle çelişen bir şeyi yapmaya hakkı olduğunu söylemişimdir - tamamen anlamsız bir ifade, fakat birileri hala ilginç bir şekilde siyasetin "geçersiz bölge"sinde şartları zorluyor.
 
-İkinci el dükkânında bir askerin kıyafetini alıp giyersem, tersine ahlaki kuralların geçerli olduğu alternatif bir evren yarattığım anlamına gelmez. Kostümü giymeden hemen önce, cinayet işlemek benim için yanlıştı, ne zaman benim için *doğru* oldu? Pantolonu giydiğim zaman mı? Eğer pantolonları giymiş olsam, ama yeleği giymemiş olsaydım? Ya sadece botlardan tekini giymiş olsaydım? Ya iki botu da giymiş olsaydım, ama sadece biri bağlı olsaydı? Ya şapkamı ters takmış olsaydım? Ya karşılaştığım ilk insanın tanıyamayacağı bir üniforma giymiş olsaydım? Beatles grubu "Çavur Biberler" albümünün kapağını basmak için birden adam öldürme hakkına sahip mi oldu? Onlar ceketlerini çıkardıkları sırada mı bunu kaybettiler?
+İkinci el dükkânında bir askerin kıyafetini alıp giyersem, tersine ahlaki kuralların geçerli olduğu alternatif bir evren yarattığım anlamına gelmez. Kostümü giymeden hemen önce, cinayet işlemek benim için yanlıştı, ne zaman benim için *doğru* oldu? Pantolonu giydiğim zaman mı? Eğer pantolonları giymiş olsam, ama yeleği giymemiş olsaydım? Ya sadece botlardan tekini giymiş olsaydım? Ya iki botu da giymiş olsaydım, ama sadece biri bağlı olsaydı? Ya şapkamı ters takmış olsaydım? Ya karşılaştığım ilk insanın tanıyamayacağı bir üniforma giymiş olsaydım? Beatles grubu "Sgt. Peppers" albümünün kapağını basmak için birden adam öldürme hakkına sahip mi oldu? Onlar ceketlerini çıkardıkları sırada mı bunu kaybettiler?
 
-Sözbilime ait soruları sorarım çünkü onlar gerçekten ölümcül derecede ciddiler. Açıkça, askeri bir kostüm insan doğasını değiştirmez sadece bir saç kesimi onu bir ördeğe, bir konsepte ya da bir tanrıya dönüştürür.
+Söz bilime ait soruları sorarım çünkü onlar gerçekten ölümcül derecede ciddiler. Açıkça, askeri bir kostüm insan doğasını değiştirmez sadece bir saç kesimi onu bir ördeğe, bir konsepte ya da bir tanrıya dönüştürür.
 
-"Aaa, fakat bu kostüm geçersiz çünkü sen bunu ikinci el satan bir dükkandan aldın." diyebilirsin - Askeri üniforma giymek seni doktora diplomasının fotokopisini almanın seni doktor yaptığı kadar bir asker yapar.
+"Ah, fakat bu kostüm geçersiz çünkü sen bunu ikinci el satan bir dükkandan aldın." diyebilirsin - Askeri üniforma giymek seni doktora diplomasının fotokopisini almanın seni doktor yaptığı kadar bir asker yapar.
 
-Benzetme yanlış, çünkü doktora yapmış olmanın ya da doktora diplomasının fotokopisini almış olmanın senin insan olmaklığın hasebiyle tabi olduğun ahlaki kurallardan hiçbirini değiştirme imkanı yoktur.
+Benzetme yanlış, çünkü doktora yapmış olmanın ya da doktora diplomasının fotokopisini almış olmanın senin insan olmanın hasebiyle, tabi olduğun ahlaki kurallardan hiçbirini değiştirme imkanı yoktur.
 
-"Güzel, fakat fark şu ki asker kollektif kendini savunma ve benzeri şeyler adına ortalama yurttaşlar tarafından ona sağlanan ahlaki haklara sahiptir." şeklinde cevap verebilirsiniz.
+"Güzel, fakat fark şu ki asker kolektif kendini savunma ve benzeri şeyler adına ortalama yurttaşlar tarafından ona sağlanan ahlaki haklara sahiptir." şeklinde cevap verebilirsiniz.
 
 Bu çok ilginç bir noktayı açığa çıkarır, bu görüşlerin gerçekliği değiştirip değiştiremeyeceği sorusu.
+
 
 ### Düşünceler ve Gerçeklik
 
 Açıkça şunu anlıyoruz, düşüncem vasıtasıyla sizi yer çekiminin sınırlamalarından azade kılamam, tıpkı "iki artı iki eşittir beş" düşüncemin onu doğru yapmaması gibi.
 
-"Fikirler", normalde açık bir delil bulundurmayan veya açık bir delil sağlanamayan ya da sadece kişisel tercihlerin içsel yansımaları olan inançlardır. Vanilyayı, çikolatalı dondurmaya tercih edişim benim kişisel görüşümdür. Aynı şekilde, yağmurun yukarı yağdığı, tanrının var olduğu ya da İzlanda'nın tropikal bir cennet olduğu yine "görüşüm" olabilir. Kişisel görüşlerin açıkça ahlak ile hiçbir ilgisi yoktur; gerçekliği doğru bir şekilde tanımladığını iddia eden görüşler, ancak yanlış önyargılardır. Yağmurun tersine yağdığına inanmak onun yazgısını tersine çevirmez; yine, İzlandada, Hawai gömleği giymek Reykavik'i daha sıcak yapmaz.
+"Fikirler", normalde açık bir delil bulundurmayan veya açık bir delil sağlanamayan ya da sadece kişisel tercihlerin içsel yansımaları olan inançlardır. Vanilyayı, çikolatalı dondurmaya tercih edişim benim kişisel görüşümdür. Aynı şekilde, yağmurun yukarı yağdığı, tanrının var olduğu ya da İzlanda'nın tropikal bir cennet olduğu yine "görüşüm" olabilir. Kişisel görüşlerin açıkça ahlak ile hiçbir ilgisi yoktur; gerçekliği doğru bir şekilde tanımladığını iddia eden görüşler, ancak yanlış ön yargılardır. Yağmurun tersine yağdığına inanmak onun yazgısını tersine çevirmez; yine, İzlanda da, Hawai gömleği giymek Reykavik'i daha sıcak yapmaz.
 
 Bu sebeple cinayetin ahlaki olarak iyi olduğuna inanmak cinayeti ahlaki açıdan iyi yapmaz. İnsan olmakla ilgili olarak benim inançlarım onun ahlak yapısını değiştirmediği için, onun cinayetlerinin erdemli olmasıyla ilgili inançlarım onun eylemlerinin erdemini değiştirmez. Eğer gözlerimi kapatır ve bir kertenkele olduğunuzu hayal edersem, aniden vücudunuzun sıcaklığını düzenleme yeteneğinizi kaybetmezsiniz. Bir balık olduğunuzu hayal etmek tüplü dalışa olan ihtiyacınızı yok etmez.
 
@@ -84,7 +85,7 @@ Düşünceler gerçeği değiştirmediği için, ulusal bir ahlak kuralını gö
 
 ### Gönüllülük Olarak Hükümet
 
-Hükümet kuruluşunda yer alan açık kuvvet - belirli bir grup birey için ahlaki kuralları ters düz eden kavramsal paketleme - tartışmalarda sürekli masanın üzerinde bulundurulan bir şeydir. Hükümet hakkında konuşurken "odadaki silah"a işaret etmek asla olumlu bir şey olarak görülmez. Neredeyse tüm tanımlarına göre hükümetlerin halk tarafından ve halk için seçildiği ve onların açık ya da örtülü onayı ile hareket ettiği düşünülür.
+Hükümet kuruluşunda yer alan açık kuvvet - belirli bir grup birey için ahlaki kuralları ters düz eden kavramsal paketleme - tartışmalarda sürekli masanın üzerinde bulundurulan bir şeydir. Hükümet hakkında konuşurken "odadaki silah"’a işaret etmek asla olumlu bir şey olarak görülmez. Neredeyse tüm tanımlarına göre hükümetlerin halk tarafından ve halk için seçildiği ve onların açık ya da örtülü onayı ile hareket ettiği düşünülür.
 
 Ancak bu tamamen saçmalıktır.
 
@@ -94,13 +95,13 @@ Aynı şekilde, insanlar vergilendirmenin gönüllüce katıldıkları toplumsal
 
 Bu hem mantıksal hem de deneysel açıdan yanlıştır.
 
-Deneysel olarak yanlış olduğunu biliyoruz çünkü* toplumsal sözleşmesi mevcut değil*. Ne sen ne de ben *hiçbir zaman* gönüllü olarak gelir vergisine rıza gösterdiğimiz bir dokümanı gönüllüce imzalamadık - biz yalnızca paramızı silah zoruyla bizden alan bir sistemin içerisine doğduk.
+Deneysel olarak yanlış olduğunu biliyoruz çünkü *toplumsal sözleşmesi mevcut değil*. Ne sen ne de ben *hiçbir zaman* gönüllü olarak gelir vergisine rıza gösterdiğimiz bir dokümanı gönüllüce imzalamadık - biz yalnızca paramızı silah zoruyla bizden alan bir sistemin içerisine doğduk.
 
 ### Odadaki Tabanca
 
 Birçok insan vergilendirmenin silah zoruyla olmadığını ancak insanların bunu gönüllüce ödediğini söyleyerek itiraz edecek. Örneğin, benim yüzüme polislerce veya vergi tahsildarlarınca asla silah doğrultulmadı ama ben on yıllardır vergi ödemekteyim.
 
-Bu doğru olabilir ama tamamen alakasız. Eğer bir kadına benimle seks yapmazsa onun çocuklarını öldüreceğimi söylersem ve kadın bana boyun eğerse, biz açıkça şunu anlarız: ahlaki olmayan bir eylem meydana gelmiştir - hatta bu ihlal sırasında silah kullanmamama rağmen. Şu açıktır ki eğer kadın bana boyun eğerse bu onun benim tehditimi yerine getirebileceğimden korkmasındandır. Eğer ben kadına eğer benimle seks yapmazsa benim ev "leprechaun"umun onun çocuklarını öldüreceğini söylesem o muhtemelen rahatsız olacaktır ama hiçbir şekilde benim tehditimden korkmayacaktır çünkü ev "leprechaun"umun onun çocuklarını öldürmesi imkansızdır. Ya da eğer ölmüşsem ve benim vasiyetimde eğer bu kadın benimle seks yapmazsa çocuklarını öldüreceğim yazıyorsa şüphesiz kadın korkudan ziyade rahatlama hissedecektir çünkü mezarın içinde tehditlerimi hayata geçirebilmem mümkün değildir. Bu yüzden vergilerimizi ödüyoruz çünkü eğer ödemezsek devletin yüksek temsilcileri ile gerilim yaşayabileceğimizi biliyoruz. Eğer vergimi ödemezsem, bir mektup alırım sonra bir tane mektup daha sonra bir telefon sonra mahkeme celbi - ve eğer mahkemeye çıkmazsam veya geriye dönük vergilerimi, toplam cezayı ve faizini ödemezsem polisler beni hapse götürmek üzere silahlarıyla gelirler. Eğer polise mukavemet gösterirsem beni vururlar.
+Bu doğru olabilir ama tamamen alakasız. Eğer bir kadına benimle seks yapmazsa onun çocuklarını öldüreceğimi söylersem ve kadın bana boyun eğerse, biz açıkça şunu anlarız: ahlaki olmayan bir eylem meydana gelmiştir - hatta bu ihlal sırasında silah kullanmamama rağmen. Şu açıktır ki eğer kadın bana boyun eğerse bu onun benim tehditimi yerine getirebileceğimden korkmasındandır. Eğer ben kadına eğer benimle seks yapmazsa benim ev "cinlerimin", onun çocuklarını öldüreceğini söylesem o muhtemelen rahatsız olacaktır ama hiçbir şekilde benim tehditimden korkmayacaktır çünkü ev "cinimin", onun çocuklarını öldürmesi imkansızdır. Ya da eğer ölmüşsem ve benim vasiyetimde eğer bu kadın benimle seks yapmazsa çocuklarını öldüreceğim yazıyorsa şüphesiz kadın korkudan ziyade rahatlama hissedecektir. Çünkü mezarın içinde tehditlerimi hayata geçirebilmem mümkün değildir. Bu yüzden vergilerimizi ödüyoruz çünkü eğer ödemezsek devletin yüksek temsilcileri ile gerilim yaşayabileceğimizi biliyoruz. Eğer vergimi ödemezsem, bir mektup alırım sonra bir tane mektup daha sonra bir telefon sonra mahkeme celbi - ve eğer mahkemeye çıkmazsam veya geriye dönük vergilerimi, toplam cezayı ve faizini ödemezsem polisler beni hapse götürmek üzere silahlarıyla gelirler. Eğer polise mukavemet gösterirsem beni vururlar.
 
 Bu zorun gönüllülükle eşit olduğunu söylemek tamamen mantıksızdır ve kendisiyle çelişir. Zor kullanılmaya başlanması zor kullanılmaya başlanmamasına tamamen eşittir demek yukarı aşağıdır, kara aktır, doğru yanlıştır demektir.
 
@@ -138,7 +139,7 @@ Bob'un paramızı almasını "istediğimizi" söyledik - ki bu Bob'un dolu bir s
 
 ''Ben sana onların para vermek istediklerini söylediklerini sanıyordum.''
 
-''Hayır, hayır-onlar bana borçlular. Gerçekten*benim*param!''
+''Hayır, hayır-onlar bana borçlular. Gerçekten *benim* param!''
 
 "Neye dayanarak bu parayı borç alıyorlar?"
 

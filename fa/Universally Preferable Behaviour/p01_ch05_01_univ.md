@@ -1,73 +1,76 @@
-## Universally Preferable Behaviour
+## •	رفتار قابل قبول همگانی
 
-As a result of the above arguments, we can see that it is impossible to enter into any debate without accepting the premise that certain behaviours are *universally preferable*.
+در نتیجه مباحث پیش تر.میتوانیم متوجه شویم به غیر ممکن بودن وارد شدن بر هر بحثی بدون قبول این اصل که رفتارهای مشخصی همگانی قابل .قبول هستند
 
-I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
+من اینجا از واژه رفتار و نه افکار استفاده میکنم زیرا این مهم است بین حالت کاملا درونی و حالت غیرقابل تشخیص تمایز قائل شویم. مانند فکرکردن در مورد حالت های واقعی و قابل تشخیص همچون عمل کردن، نوشتن و صحبت کردن
 
-It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant,” which is why I use the word “behaviour” rather than “thought.”
+این ممکن نیست که اثبات کنیم دیشب خواب یک فیل را دیده ام. قابل اثبات ان است که واژه فیل را نوشته ام و این استفاده از واژه رفتار است نه افکار
 
-Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+تن دادن به منطق برتر در یک تضاد یک "عمل" است.اگر من هر بار امتیازی به شما واگذارکردم ،من گفتم اصلا به جای خیره شدن به شما آنروی نسبتا عصابی کننده را خواهید دید که با من وارد بحث خواهی شد ، برای واگذاری یک امتیاز و من باید تصدیق لفظی ایفا کنم.
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+بنابراین میشود برداشت کرد که درریشه هر بحث تعدادی اصول باورشده وجود دارد که نمیتوان بصورت قابل درک تغییر یا دگرگون شود.
 
-If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+اگر من از شما بخواهم مرا در زمین تنیس ملاقات کنید و ناگهان با تپانچه شکاری پیدایم بشود و ممکن است در نهایت به بدترین شکل بازی کنیم ولی قطعا ان بازی تنیس نخواهد بود ، وقتی از شما بخواهم من را در زمین تنیس برای یک مسابقه ببینید شرط معرض ان قبول قوانین بازیست.
 
-Historically, those engaged in ethical debating have often failed to maintain this basic reality.
+تاریخ نیز آن دخات ها را در مبحث معنوی موفق به حفظ این واقعیت اساسی نشدند
 
-I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
+من نمیتوانم یک برگه علمی را که به زبان خودم نوشته شده را ارائه دهم و ادعا کنم که ان قضاوت شده توسط منطق ماهی در خونه ام است و انتظار داشته باشم جدی گرفته شود. ودر مقابل نمیتوانم وارد یک بحث فلسفی در ایین اخلاق با تکیه بر ارزش های شخصی شوم و ادعا کنم که ادعاهایم همه توسط علامه دختر تریکسی و یک موجود واهی نامرئی اثبات شده و انتظار جدی گرفته شدن داشته باشم.
 
-The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
+انجام هر بحث نیاز به قبول کردن یک رفتار مقبول همگانی دارد و هیچ روش برای منطقی پاسخ دادن به یک بحث معنوی بدون نمایش رفتار مقبول همگانی وجود ندارد.
 
-Let us now turn to a series of positive proofs for UPB.
+(و حال اجازه دهیم برگردیم به یک سری شواهد دال بر (رفتار قابل قبول همگانی
 
-### UPB And Validity
+### •	رفتار قابل قبول همگانی و تصدیق
 
-One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
+یکی از مشکلات رو در روی فلسفه مدرن این است که نیاز به اثبات قوانین معنوی بعنوان امکانپذیر بودن و همگانی بودن دارد .تا زمانی که قوانین معنوی را بتوان مشروط به ملاحضه فراوان در جهت تصدیق صحت ان و منطقی بودن ان نمود مانند هر بخش دیگر که ما برای همیشه با معقولیت خود خراب میمانیم و تبعیض سیاسی و بحث به واسطه نتیجه واقعبینانه است
 
-The closest historical analogy to our present situation occurred in the fifteenth and sixteenth centuries, during the rise of the scientific method. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
+یکی از نزدیکترین تشابه های تاریخی در شرایط کنونی در قرن 15 و16 در طول پیشرفت روش علمی اتفاق افتاد و پیشگامان اولیه که دفاع کردن از یک رویکرد به دانشی منطقی و مبتنی بر تجربه در مواجه با همان تبعیض هایی که امروزه با انها مواجه هستیم.
+همان نامعقول ها و قدرت های ریشه دوانده کلیسا و دولت.
+یقین های مرموز و ذهنی و مرزهای تربیتی اولیه. انهایی که حمایت کردند از ارجعیت واقع بینی و اثبات پدیده ها در مقابله با اصول کتاب مقدس و سکولاریزم استبدادی و ظالم مواجه شدند بامخالفین قاطع کسانی که شمشیر و هم صلیب را دراورده بودند.
+خیلی ها تا پای مرگ شکنجه شدن برای خردمندی در صداقت خود ، ما با ریسک کمتری مواجه هستیم پس داشتن شجاعت مضاعف در دفاع از چیزی که صحیح است و چیزی که باوراست لازم است. 
 
-In order to attack false moralities, we must start from the beginning, just as the first scientists did. Francis Bacon did not argue that the scientific method was more “efficient” than prayer, Bible texts or starvation-induced visions. He simply said that if we want to understand nature, we must observe nature and theorise logically – and that there is *no other* route to knowledge.
+به منظور ریشه کنی اخلاقیات نادرست ما باید از ابتدا شروع کنیم .. درست مطابق دانشمندان اولیه فرنسیس باکن روش های علمی را موثر تر از عبادت کردن .. متون مقدس الهی یا بینش ناشی از گرسنگی نشان نداد وی به سادگی بیان داشت که چنانچه میخواهیم طبیعت را درک کنیم باید به مشاهده ی آن بپردازیم و به صورت منطقی نظریه پردازی کنیم .. و اینکه راه دیگری برای دستیابی به آگاهی وجود ندارد
 
-We must take the same approach in defining and communicating *morality*. We must begin using the power and legitimacy of the scientific method to prove the validity and universality of moral laws. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
+ما باید از روش های مشابه برای تعریف و انتقال اخلاقیات استفاده کنیم ما باید برای اثبات ارزشمندی و فراگیری قوانین اخلاقی شروع   به استفاده از قدرت و مشروعیت روش های علمی کنیم
 
-What does this look like in practice? All we have to do is establish the following axioms:
+:این در عمل چطور به نظر میرسد ؟ همه ی ما باید بنیانگذار واقعیت های زیر باشیم
 
-- Morality is a valid concept.
-- Moral rules must be consistent for all mankind.
-- The validity of a moral theory is judged by its consistency.
+- .اخلاق یک مفهوم ارزشمند است
+- .قوانین اخلاقی باید سازگار به همه ی انواع بشر باشد
+- .ارزشمندی نظریه ی اخلاقی با سازگاری آن مورد قصاوت واقع شده است
 
-To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
+برای شروع از خیلی پیش ها ، آیا اصلا قوانین اخلاقی یا در کل رفتارهای خواستنی تر بشر  ارزشمند بوده است.؟
 
-There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
+در مورد قوانین اخلاقی فقط دو احتمال وجود دارد : همانطوری که برای هر دانش منطقی وجود دارد یا فراگیر بودن  قوانین اخلاقی معتبر  بوده یا نبوده است(6)
 
-A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
+قانون اگر به صورت تجربی وجود داشته باشه میتونه معتبر باشه .. مانند جاذبه .. یا به این خاطر درست است که  2 به علاوه ی 2 میشود چهار
 
-We must then first ask: do moral rules exist at all?
+ما سپس باید بپرسیم آیا اصلا  قوانین اخلاقی وجود دارند.؟
 
-Certainly not in material reality, which does not contain or obey a single moral rule. Moral rules are different from the rules of physics, just as the scientific method is different from gravity. Matter innately obeys gravity or the second law of thermodynamics, but “thou shalt not murder” is nowhere inscribed in the nature of things. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. A theory of gravity proves that if you push a man off a cliff, he will fall. It will not tell you whether you *should* push him or not.
+قطعا نه در دنیای مادی ،  که شامل فرمانبردار یک قانون اخلاقی نمیشود ،  قوانین اخلاقی با قوانین فیزیک فرق دارند همانطور که روش های علمی با جاذبه فرق دارند .. مواد به صورت ذاتی فرمانبردار جاذبه هستند یا قانون دوم ترمودینامیک ..  اما هیچ جا ثبت نشده که تو نباید قتل نکنی ماهیت چیز ها . قوانین فیزیکی رفتارهای مواد را توصیف میکنند . اما حاوی یک دستور واحد نیستند .علم میگوید که مواد به نوعی رفتار میکنند . هرگز نمیگوید باید به نوع خاصی رقتار کند . نظریه ی گرانش ثابت میکند که اگر شما مرد زا از صخره ای بلند هل بدهید او سقوط خواهد کرد . اما به شما نمیگوید که باید او را هل بدهید یا نه
 
-Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
+بنابراین نمیتوان گفت که قوانین اخلاقی در واقعیت مادی وجود دارند . و نه آن ها به طور خودکار به مانند قوانین فیزیک نظارت دارند که این به این معنی نیست که قوانین اخلاقی نادرست هستند. ذهنی یا بی ربط . روش علمی خود در واقعیت وجود ندارد . و همچنین اختیاری است . اما این ابدا نادرست ذهنی یا بی ربط نیست
 
-If we can prove that moral theories can be objective, rational and verifiable, this will provide the same benefits to ethics that subjecting *physical* theories to the scientific method did.
+اگر ما بتوانیم اثبات کنیم که قوانین اخلاقی میتوانند واقع گرایانه منطقی و قابل اعتماد باشند این مزایا را به اخلاق ارائه خواهد داد که تئوری های فیزیکی را به روش های علمی اعمال میکند
 
-Before the rise of the scientific method, people believed that matter obeyed the subjective whims of gods and devils – and people believe the same of morality now. Volcanoes erupted because the mountain-god was angry; good harvests resulted from human or animal sacrifices. No one believed that absolute physical laws could limit the will of the gods – and so science could never develop. Those who historically profited from defining physical reality as subjective – mostly priests and aristocrats – fought the subjugation of physical theories to the scientific method, just as those who currently profit from defining morality as subjective – mostly priests and politicians – currently fight the subjugation of *moral* theories to objective and universal principles.
+قبل از ظهور روش های علمی مردم اعتقاد داشتند که مسائل مطیع هوس های ذهنی خدایان و اهریمنان است و مردم همان اخلاق را در حال حاضر باور دارند . آتشفشان فوران کرد یه خاطر اینکه خدای کوهستان عصبانی بود . پیامد های خوب نتیجه ی قربانی انسان یا حیوان بود ، هیچ کس بر این باور نبود که قوانین مطلق فیزیکی بتواند اراده ی خدایان را محدود کند و به همین خاطر دانش هرگز گسترش نیافت ، کسانی که از لحاظ تاریخی از تعریف واقعیت فیزیکی به عنوان ذهنی سود میبرند ( اغلب کشیش و اشراف ) با ذهن فیزیکی به روش علمی مبارزه کردند . درست مانند کسانی که در حال حاضر از تعریف اخلاق به عنوان ذهنی سود میبرند . ( اغلب کشیش و اشراف ) در حال مبارزه با نظریه های اخلاقی با اصول عینی و جهانی است
 
-As mentioned above, the scientific method is essentially a methodology for separating accurate from inaccurate theories by subjecting them to two central tests: logical consistency and empirical observation – and by always subjugating logical consistency to empirical observation. If I propose a perfectly consistent and logical theory that says that a rock will float *up* when thrown off a cliff, any empirical test proves my theory incorrect, since observation always trumps hypothesis.
+همانطور که در بالا اشاره شد روش علمی اساسا یک روش برای جداسازی تئوری های درست از نادرست است . با قرار دادن آن ها در دو آزمایش مرکزی : ثبات منطقی و مشاهده ی تجربی و همیشه با تساوی منطقی بر مشاهدات تجربی پیوسته است اگر من یک نظریه ی منطقی و مستقل را پیشنهاد کنم که بیان میکند هنگامی که تخته سنگ از بلندی یک پرتگاه پرتاب میشود شناور میماند . هر آزمون تجربی میگوید که تئوری من نادرست است ، از آنجاییکه مشاهده همیشه فرضیه ها را از بین میبرد
 
-A further aspect of the scientific method is the belief that, since matter is composed of combinations of atoms with common, stable and predictable properties, the behaviour of matter must also be common, stable and predictable. Thus experiments must be *reproducible* in different locations and times. I cannot say that my “rock floating” theory is correct for just one particular rock, or on the day I first tested it, or at a single location. My theories must describe the behaviour of *matter*, which is universal, common, stable and predictable.
+جنبه ی بعدی روش علمی اسن باور است که علم ماده متشکل از ترکیبی از اتم های معمول است . خواص پایدار و قابل پیش بینی مواد نیز باید رایج باشد . پایدار و قابل پیش بینی . این آزمایشات باید در مکان و زمان متفاوت قابل تکرار باشند من آن را آزمایش کردم . یا در یک مکان واحد . نظریه ی من باید رفتار ماده رو جهانی رایج پایدار و قابل پیش بینی توضیح بدهد
 
-Finally, there is a generally accepted rule – sometimes called Occam’s Razor – which states that, of any two theories that have the same predictive power, the simpler of the two is preferable. Prior to the Copernican revolution, when Earth was considered the centre of the universe, the retrograde motion of Mars when Earth passed it in orbit around the sun caused enormous problems to the Ptolemaic system of astronomical calculations. “Circles within circles” multiplied enormously, which were all cleared away by simply placing the sun at the centre of the solar system and accepting the elliptical nature of planetary orbits.
+در نهایت قوانین عموما پذیرفته شده ای وجود داره که گاهی اوقات اوکامز رازور نامیده میشه که بیان میکند هر دو نظریه که قدرت پیش بینی مشابهی دارند ,ساده ترین آن دو ترجیح داده میشود .. قبل از انقلاب کوپرنیک , زمانی که زمین مرکز جهان ور نظر گرفته شد ,حرکت عقب مانده ی مشتری زمانی که زمین از مدار اطراف خورشید عبکر میکرد ,مشکلات زیادی را برای سیستم بطلیموس در محاسبات نجومی ایجاد کرد . دایره در دایره به طرز عظیمی چند برابر شد . که با قرار دادن خورشید به عنوان مرکز منظومه ی شمسی و پذیرقتن طبیعت بیضوی مدار سیاره .ای به سادگی از بین رفت
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+بنابراین هر تئوری علمی معتبر باید منطقی جهانی تجربی قابل تایید قابل تجدید و تا حدی که ممکن است ساده باشد
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+روش شناسی برای داوری و اثبات نظریه س اخلاقی دقیقا همان روش شناسی است که براس داوری و اثبات هر نظریه ی دیگری است 
 
-#### Moral Rules: A Definition
+#### قوانین اخلاقی : یک تعریف
 
-The first question regarding moral rules is: *what* are they?
+اولین سوال در مورد احکام اخلاقی این است که آن ها چه هستند ؟ 
 
-Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
+به سادگی ، اخلاقیات مجموعه ای از قوانین است که ادعا میکند که به طور دقیق و پیوسته ای رفتار عمومی انسان را ترجیح میدهد درست همانطور که فیزیک مجموعه قوانینی است که ادعا میکند رفتار جهانی ماده را به صورت دقیق و پیوسته ای شناسایی میکند
 
-The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+دومین پرسشی که میتواند پرسیده شود , این است که آیا چیزی تحت عنوان رفتار متعارف جهانی وجود دارد آیا ؟ اگر وجود دارد ما میتوانیم شروع به بررسی چگونگی چنین رفتار هایی کنیم اگر نه آزمایش ما باید همین جا متوقف بشود , درست همانطور که آزمایش نجوم بطلیموس پس از آنکه به طور معمول پذیرفته شد متوقف شد . که خورشید در واقع مرکز منظومه ی شمسی بود 
 
-[^6]: In physics, the question is: either universal physical rules are valid, or they are not.
+[^6]: در فیزیک سوال این است که : آیا قوانین فیزیک جهانی معتبر هستند یا آن ها معتبر نیستند ؟
