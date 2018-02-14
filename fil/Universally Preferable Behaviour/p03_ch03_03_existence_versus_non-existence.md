@@ -38,11 +38,11 @@ Sa katunayan, ng sinabi sa akin na kaingang ko na bayaran ang aking buwis sa "pa
 
 At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Ipalagay na ang isang konsepto na tinatawag na "pamahalaan" ay may kapasidad na kunin o gugulin ang iyong pera ay eksaktong kapareho ng paghihintay sa "Diyos" na dumating at kunin ka at dalhin ka sa simbahan.
 
-Sa ganon ang tunay na pakikipag-ugnayan ay ang isang tao ay nagpapadala sa akin ng liham na nagsasabi sa akin na may utang ako sa kanya ng pera. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+Sa ganon ang tunay na pakikipag-ugnayan ay ang isang tao ay nagpapadala sa akin ng liham na nagsasabi sa akin na may utang ako sa kanya ng pera. Wala akong kaugnayan sa taong ito, at hindi talaga siya ang may ari ng aking mga ari-arian, bagaman ang ibang tao ay gumawa ng kunwaring "kontrata" na nag sasabing siya ang may ari.
 
-If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
+Kung hindi ko binayaran ang taong ito. ay mag papadala siya ng bagong tao sa bahay ko para kolektahin ang pera - at may "interes" at "karagdagan"
 
-Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Karaniwan, kapag ang tao na may baril na pumunta sa bahay ko at hinihingi ang aking pera. mayroon akong karapatang gumamit ng puwersa upang ipagtanggol ang aking sarili. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
 
 Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
 
