@@ -104,11 +104,11 @@ Nígbà náà, ti olè jija bá dára, a jẹ wípé daada yíò di ìṣẹlẹ
 
 Pàápàá, ó pá ní l'ẹrin lati ro wípé ipò ìwà tó dára ni ki ọkùnrin kan má fún ọkùnrin mìíràn ni dukia to ji padà, ki ó tún wà má jí pada nígbà kannáà. A jẹ wípé ìmọràn fihàn ọgbọn orí wá jíjẹ òmùgò nipa èyí gẹgẹbi ìwà rere - ṣugbọn ká tẹ síwájú diẹ sí, lati wò bóyá yóò sì dúró.
 
-Rántí, a kò ní ìṣòro pẹlú olúkúlùkù ọdaràn, ṣugbọn pẹlú àlàyé ìwà rere ti n jẹri sí irúfin ẹtọ dukia. For instance, if Doug steals Bob’s lighter because Doug believes that “No property rights are valid,” then Doug’s moral theory instantly self-detonates.
+Rántí, a kò ní ìṣòro pẹlú olúkúlùkù ọdaràn, ṣugbọn pẹlú àlàyé ìwà rere ti n jẹri sí irúfin ẹtọ dukia. Bi àpẹẹrẹ, ti Dough ba jí ìṣáná Bob nítorípé Doug gbagbọ pé "kò sí ẹtọ dukia tó ní ijẹrisi," a jẹ wípé àlàyé ìwà rere Doug tako ara rẹ lẹsẹkẹse.
 
-If no property rights are valid, then stealing is a completely illogical action, since stealing is an assertion of the just desire to control property.
+Ti kò bá sí ẹtọ dukia tó ní ijẹrisi, a jẹ wípé olè jija jẹ ìhùwàsí ti kò ni ọgbọn nínú, nítorípé olè jija je àlàyé ìfẹ́ láti ní ìkápá dukia.
 
-Property rights themselves are nothing more than the assertion of a just desire to retain control over assets. It is optional, insofar as you and I can join some hippie commune, and decide to never assert our property rights ever again. Or, if it becomes known in my neighbourhood that I am more than happy if somebody takes my property, it seems somewhat more likely that my lawnmower will go missing. Similarly, if I put a notebook computer on my front lawn with a sign saying “yours if you want it,” then I am clearly signalling that I have no desire to retain current or future control over the notebook.
+Ẹtọ dukia fúnra wọn kò jẹ nkankan ju àlàyé ìfẹ́ òtítọ́ láti sẹku ìkápá lórí dukia. It is optional, insofar as you and I can join some hippie commune, and decide to never assert our property rights ever again. Or, if it becomes known in my neighbourhood that I am more than happy if somebody takes my property, it seems somewhat more likely that my lawnmower will go missing. Similarly, if I put a notebook computer on my front lawn with a sign saying “yours if you want it,” then I am clearly signalling that I have no desire to retain current or future control over the notebook.
 
 If Doug steals Bob’s lighter, it is because Doug has a desire to gain control over the lighter – which is the very definition of property rights. If Doug steals Bob’s lighter because Doug believes that property rights are invalid, then what he is really saying is: “I want to gain control over Bob’s lighter because it is never valid to gain control over any object.”
 
