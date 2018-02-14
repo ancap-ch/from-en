@@ -103,15 +103,15 @@ Kung saan ang Karapatan ng Lesensya ng Sui Generis Database Rights ay mailapat s
 
 a. para sa pag-iwas sa pagdududa. eksyon 2(a)(1) nagbibigay saiyo ng karapatan na kunin, gamitin, magparami at ibahagi ang lahat o ang malaking bahagi ng mga nilalaman ng database para sa NonCommercial lamang na hangarin at nakalaan na hindi mo maaring ibahagi ang Materyal;
 
-b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
+b. kapag isinama mo lahat o ang isang matibay na bahagi ng mga nilalaman ng database sa kung saan ang database na meron ka sa Sui Generis Database Rights, Kung saan ang database na meron ka ng Sui Generis Database Rights (ngunit hindi ang indibidwal na nilalaman nito) na Hango sa Materyal; at
 
-c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
+c. Kailangan mong sumunod sa mga kundisyon sa Seksyon 3(a) kung ibinahagi mo lahat o ang malaking bahagi ng mga nilalaman ng database.
 
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+Para sa pag-iwas sa pag-aalinlangan, ang Seksyon 4 nang mga supplement na ito ang iyong obligasyon ay hindi mapapalitan sa ilalim ng Pampublikong Lesensya na ito kung saan ang Karapatan ay kasama sa Copyright at kapareha na Karapatan.
 
-### Section 5 – Disclaimer of Warranties and Limitation of Liability.
+### Seksyon 5 - Ang Disclaimer ng mga warranty at limitayon ng pananagutan.
 
-a. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
+a. **Maliban na lang kung hiwalay na isinagawa ng tagapaglesensya, hanggang sa posible, ang alok ng tagapaglesensya sa Materyal na Lesensya bilang parehas at bilang meron, at gawin ng walang garantiya ng kahit anong pag-aalala sa Materyal na Lesensya, kahit na mabilis, ipahiwatig, o iba pa man. Kasama ang mga ito, ng walang limitasyon, garantiya sa titulo, kakayahang makabenta, para sa partikular na hangarin, hindi pag-labag, pagliban sa talento o mga depekto, tumpak, o presensya o pagliban sa mga mali, hindi man alam o natutuklasan. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
 
 b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
 
