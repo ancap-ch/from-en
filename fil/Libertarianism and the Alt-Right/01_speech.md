@@ -51,10 +51,10 @@ At bukod pa rito: Tulad ng isang pagkakasunud-sunod ng libertaryan ay dapat pala
 
 Gamit ang mga "rightist" o gaya ng sasabihin ko, ang mga kumplikadong pahayag na nasa isip ko ngayon ay nagiging mas mahirap na tanong kung paano lumipat dito, ang *status quo*, doon. At para sa mga ito ay maaaring magturo sa unang sandali na isaalang-alang muna ang sagot na ibinigay ng liberallala, ang kapayapaan-pag-ibig-at-kalayaan, ang Friede-Freude-Eierkuchen o ang libertaryan na kapitalismo-ay-pag-ibig. Ito ay nagpapakita ng parehong pangunahing egalitarianism, kung sa isang bahagyang ibat-ibang anyo, bilang na ipinakita rin ng mabuhay-at-hayaan-mabuhay na mga libertaryan. Ang mga ito, tulad ng sinisikap kong ipakita, ay tukuyin kung ano ang maaari naming tawagan ang "masamang problema sa kapwa" - at kung ano ang isang maikling-kamay lamang para sa pangkalahatang suliranin na ibinibigay ng magkakasamang pagkakaiba, dayuhan, kapwa nakakagambala, nakakainis, kakaiba o salungat na kultura - sa labas lamang ng buhay. At sa katunayan, kung inaakala mo, laban sa lahat ng mga katibayan ng empirical, na ang lahat ng mga tao, sa lahat ng dako, ay talagang pareho, kung gayon, sa pamamagitan ng kahulugan, walang bagay na tulad ng isang "masamang problema sa kapwa" na umiiral.
 
-The same egalitarian, or as the liberallala-libertarians themselves prefer call it, “humanitarian” spirit also comes to bear in their answer to the question of a libertarian *strategy*. In a nutshell, their advice is this: be nice and talk to everyone – and then, in the long run, the better libertarian arguments will win out. To illustrate, take my former-friend-turned-foe Jeffrey Tucker’s five “Don’ts When Talking Liberty.” They are:
+Ang parehong egalitaryo, o bilang ginusto ng liberallala-libertaryan na tawagan ito, ang "makataong" espiritu ay dumarating din sa kanilang sagot sa tanong ng isang libertaryan *diskarte*. Sa maikling salita, ang kanilang payo ay ito: maging maganda at makipag-usap sa lahat - at pagkatapos, sa katagalan, ang mas mahusay na mga libertaryan na argumento ay mananalo. Upang ilarawan, dalhin ang aking dating kaibigan na naka-kaaway ni Jeffrey Tucker ng lima "Hindi Magbibigay Kapag Nagsasalita ng Kalayaan. "Ang mga ito ay:
 
-1. don’t be belligerent;
-2. don’t presume hatred of liberty; 
+1. huwag kang palaaway;
+2. huwag ipalagay ang galit ng kalayaan; 
 3. don’t presume different goals;
 4. don’t presume ignorance;
 5. don’t regard anyone as an enemy.”
