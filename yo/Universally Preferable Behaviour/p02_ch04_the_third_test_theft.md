@@ -102,9 +102,9 @@ Ti olè jija bá je ìwà rere, a jẹ wípé a má tún rí wàhálà ìwà ìg
 
 Nígbà náà, ti olè jija bá dára, a jẹ wípé daada yíò di ìṣẹlẹ tí a lè rí nigba ti Doug ba jí ìṣáná Bob. Nígbà náà, Doug nìkan ló ni ìwà rere, Bob kò ni. Lẹyìn náà, dáadáa yíò di kò ṣeéṣe fún àwọn méjèèjì, àyàfi tí Dough ba ni fún Bob ni ìṣáná rẹ padà tí ó sí n tún já gba lọwọ rẹ lẹkan si.
 
-Of course, it seems patently ridiculous to imagine that the ideal moral state is for one man to keep giving another man back the property he has stolen, and then immediately stealing it again. Thus logic seems to validate our instinctual understanding of the foolishness of this as a moral ideal – but let’s go a little further, to see if it still holds.
+Pàápàá, ó pá ní l'ẹrin lati ro wípé ipò ìwà tó dára ni ki ọkùnrin kan má fún ọkùnrin mìíràn ni dukia to ji padà, ki ó tún wà má jí pada nígbà kannáà. A jẹ wípé ìmọràn fihàn ọgbọn orí wá jíjẹ òmùgò nipa èyí gẹgẹbi ìwà rere - ṣugbọn ká tẹ síwájú diẹ sí, lati wò bóyá yóò sì dúró.
 
-Remember, we are not particularly concerned with individual criminals, but rather with moral theories that justify violations of property rights. For instance, if Doug steals Bob’s lighter because Doug believes that “No property rights are valid,” then Doug’s moral theory instantly self-detonates.
+Rántí, a kò ní ìṣòro pẹlú olúkúlùkù ọdaràn, ṣugbọn pẹlú àlàyé ìwà rere ti n jẹri sí irúfin ẹtọ dukia. For instance, if Doug steals Bob’s lighter because Doug believes that “No property rights are valid,” then Doug’s moral theory instantly self-detonates.
 
 If no property rights are valid, then stealing is a completely illogical action, since stealing is an assertion of the just desire to control property.
 
