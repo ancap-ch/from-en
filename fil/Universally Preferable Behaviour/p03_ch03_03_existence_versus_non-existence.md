@@ -22,19 +22,19 @@ Ang lohika ng pagsunod sa mga alamat ay patent na mangmang. Kung ang isang pari 
 
 Syempre hindi.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+Nang tanggalin natin papalayo ang mitolohiya at kathang-isip mula sa ating "pakikipag-ugnayan" sa ating mga pinuno, ano ang lumitaw ay isang tunay na mabalasik, pulos at mapanganib na pagsasamantala.
 
 Gawin nating isang halimbawa ng isang tunay at kasalukuyang panganib: pagbubuwis.
 
 #### Pagbubuwis
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Sinasabi ko na, sa pamamabigatan ng kabutihan ng pagpili sa pagtira sa Canada, utang ko sa "sa pamahalaan" ang higit sa limpampung porsyento ng aking kita.
 
-Stripped of mythology, what does this really translate to?
+Nakuha ng mitolohiya, ano ba talaga ang ibigsabihin sa?
 
-Sa katunayan, maghihintay ako hanggang sa matapos ang "pamahalaan" na dumating at kunin ang pera nito. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+Sa katunayan, maghihintay ako hanggang sa matapos ang "pamahalaan" na dumating at kunin ang pera nito. Naghihintay sa "pamahalaan" na magbaba sa pamamagitan ng katulad nang paggusto sa pagdedeyt sa konsepto ng "pagkababae." ako rin ay maaaring subukang magbayad para sa aking hapunan kasama ang salitang "pera."
 
-Sa katunayan, ng sinabi sa akin na kaingang ko na bayaran ang aking buwis sa "pamahalaan," kung ano talaga ang ibig sabihin nito ay kailangan kong magsulat ng isang tseke upang ilipat ang aking pera sa isang partikular na account sa bangko, na kung saan ay pagkatapos ay ma-access ng mga partikular na indibidwal. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+Sa katunayan, ng sinabi sa akin na kailangan kong bayaran ang aking buwis sa "pamahalaan," kung ano talaga ang ibig sabihin nito ay kailangan kong magsulat ng isang tseke upang ilipat ang aking pera sa isang partikular na akawt sa bangko, na kung saan ay pagkatapos ay ma-mapuntahan ng mga partikular na indibidwal. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
 
 At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Ipalagay na ang isang konsepto na tinatawag na "pamahalaan" ay may kapasidad na kunin o gugulin ang iyong pera ay eksaktong kapareho ng paghihintay sa "Diyos" na dumating at kunin ka at dalhin ka sa simbahan.
 
