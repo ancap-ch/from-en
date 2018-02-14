@@ -55,8 +55,8 @@ Ang parehong egalitaryo, o bilang ginusto ng liberallala-libertaryan na tawagan 
 
 1. huwag kang palaaway;
 2. huwag ipalagay ang galit ng kalayaan; 
-3. don’t presume different goals;
-4. don’t presume ignorance;
+3. huwag ipagpalagay ang iba't ibang mga layunin;
+4. huwag mong ipalagay ang kamangmangan;
 5. don’t regard anyone as an enemy.”
 
 Now, quite apart from the fact that Tucker does not seem to follow his own advice in his belligerent condemnation of the entire Alt-Right as liberty-hating fascists, I find his exhortations truly astounding. They may be good advice vis-à-vis people just sprung up from nowhere, without any traceable history whatsoever, but vis-à-vis real people with a recorded history they strike me as hopelessly naïve, unrealistic, and outright counterproductive in the pursuit of libertarian ends. For I (and I assume everyone else here) know of and have met many people in my life who *are* ignorant, who *do* have different, un-libertarian goals, and who *do* hate liberty as understood by libertarians – and why in the world should I *not* regard such people as fools or enemies? And why should I *not* hate and *not* be belligerent vis-a-vis my enemies?
