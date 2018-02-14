@@ -2,11 +2,11 @@
 
 Dalam beberapa kisah disebutkan, hiduplah seekor binatang buas yang memiliki kekuatan yang luar biasa, naga atau basilisk, yang disekelilingnya dihiasi oleh tanah. Penduduk desa setempat ketakutan dengan monster ini; mereka memakan hewan mereka, membayar uang dan darah dengan harapan bisa memenuhi keinginan pembunuhnya.
 
-Banyak orang meringkuk di bawah bayang-bayang binatang ini, menyebut ketakutan mereka dengan "kehati-hatian," tapi hanya sedikit - disebabkan mabuk untuk keberanian atau kebodohan - memutuskan untuk bertarung. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Banyak orang meringkuk di bawah bayang-bayang binatang ini, menyebut ketakutan mereka dengan "kehati-hatian," tapi hanya sedikit - disebabkan mabuk untuk keberanian atau kebodohan - memutuskan untuk bertarung. Tahun demi tahun, dekade demi dekade, gelombang setelah gelombang juara yang penuh harapan berusaha mencocokkan kekuatan mereka, kebajikan dan kecerdikan melawan tiran yang mengerikan ini.
 
-Try – and fail.
+Coba - dan gagal.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Binatang itu selalu kekal, jadi warga desa tidak dapat berharap kepada waktu untuk membebaskan mereka dari kebiadabannya. Binatang itu tidak pernah rasional, dan tidak memiliki keinginan untuk berjualan, dan jadi tidak ada negosiasi itu adalah mungkin.
 
 The desperate villagers’ only hope is for a man to appear who can defeat the beast.
 
