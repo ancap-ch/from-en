@@ -78,11 +78,11 @@ Dado que as APAs não são obrigatórias através da violência - você não pod
 
 Portanto, a violação não pode cair na categoria de APAs.
 
-### Personally Positive
+### Pessoalmente Positivo
 
-Perhaps rape is akin to a merely personal preference.[^2]
+Talvez a violação seja semelhante a uma preferência puramente pessoal.[^2]
 
-The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
+Então, aqui surge uma questão: a classificação do estupro como uma preferência meramente pessoal pode ser levantada para fazer frente ao escrutínio lógico?
 
 If we propose the moral rule: “personal preferences must be violently inflicted upon other people,” how does that stand up to the framework of UPB?[^3]
 
