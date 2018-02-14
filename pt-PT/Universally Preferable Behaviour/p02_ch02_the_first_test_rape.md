@@ -84,11 +84,11 @@ Talvez a violação seja semelhante a uma preferência puramente pessoal.[^2]
 
 Então, aqui surge uma questão: a classificação do estupro como uma preferência meramente pessoal pode ser levantada para fazer frente ao escrutínio lógico?
 
-If we propose the moral rule: “personal preferences must be violently inflicted upon other people,” how does that stand up to the framework of UPB?[^3]
+Se propomos a regra moral: "as preferências pessoais devem ser impostas violentamente a outras pessoas", como é que a podemos representar no quadro do CUP?[^3]
 
-Personal preferences cannot be justly inflicted upon other people, because that would create an insurmountable logical paradox.
+As preferências pessoais não podem ser impostas a outras pessoas, porque isso criaria um paradoxo lógico insuperável.
 
-If I say that liking the band Queen above all others is universally preferable behaviour, on what grounds could I justify that statement? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
+Se eu dissesse que gostar do grupo Queen acima de todos os outros é um comportamento universalmente preferível, com que bases poderia justificar essa afirmação? Apenas alegando que todas as preferências pessoais devem ser infligidas a outras pessoas. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
 
 Thus if rape is considered to be a merely personal preference, then it cannot logically be enforced upon anybody else. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
 
