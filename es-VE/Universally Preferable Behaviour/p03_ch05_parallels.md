@@ -1,4 +1,4 @@
-## Paralelas
+## Parallelismos
 
 Antes de la Revolución Científica, era considerado inconcebible que el mundo natural pudiera sostenerse a si mismo sin una entidad “moral” y consiente en su centro. El sol se levantó arrastrando las cadenas de un carruaje sobrenatural; la luna era un frio y solitario hermano del sol. Las constelaciones describían los cuentos y tumbas de los dioses, y las tormentas que surgían de la ira de los demonios.
 
