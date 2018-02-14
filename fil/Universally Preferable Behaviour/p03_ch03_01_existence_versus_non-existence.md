@@ -6,7 +6,7 @@ Ang Diyos ay Hindi nag tataglay ng mass o lakas, o ipakita ang mga epekto ng mas
 
 Kaya Kung sinasabi ko, " Diyos ay umiiral," Ang talagang sinasabi ko ay:
 
-"*Ang umiiral ay dapat detectable; Ang Diyos ay hindi na dedetectable, pero ang Diyos ay nabuhay - samakatuwid ito ay Hindi umiiral, mga umiiral.*"
+"*Ang umiiral ay dapat detectable; Ang Diyos ay hindi detectable, pero ang Diyos ay nabuhay - samakatuwid ito ay Hindi umiiral, mga umiiral.*"
 
 Sa ibang salita, sa pagsasabi "Ang Diyos ay buhay," ako ay nakagawa ng hindi malutas na pagkakasalungatan. Aking tutukuyin "ang pagkakaruon" sa "hindi-pagkakaruon," na gumagawa tungkol sa mass maraming kahuligan bilang pagtukoy sa "buhay" at"walang buhay na bagay," o sa bato bilang "Ang kabaligtaran ng bato," o sa "kuwadrado" bilang isang "bilog."
 
@@ -52,7 +52,7 @@ Ang pag unlad ng lipunan eksakto sa antas ng dahilan at katibayan gawin ang pina
 
 ### Pamahalaan
 
-Sinasabing ang mga operasyon ng pamahalaan ay nasa ilalim ng tapat na mga patakaran ng moralidad mula sa iba pang lipunan ay eksakto ang parehong sinasabi, " leprechauns ay tinatablan ng grabidad." Una sa lahat leprechauns ay hindi umiiral-at isa sa mga paraan para malaman natin na ito ay hindi umiiral ay tinatangap nila na sila ay tinatablan ng grabidad. Ang lahat ng mya mass ay napapailalim ng grabidad - na kung saan ay immune sa grabidad sapamamagitan ng kahulugan ay walang mass, at samakatuwid ay hindi umiiral. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Sinasabing ang mga operasyon ng pamahalaan ay nasa ilalim ng tapat na mga patakaran ng moralidad mula sa iba pang lipunan ay eksakto ang parehong sinasabi, " leprechauns ay tinatablan ng grabidad." Una sa lahat leprechauns ay hindi umiiral-at isa sa mga paraan para malaman natin na ito ay hindi umiiral ay tinatangap nila na sila ay tinatablan ng grabidad. Ang lahat ng mya mass ay napapailalim ng grabidad - na kung saan ay immune sa grabidad sapamamagitan ng kahulugan ay walang mass, at samakatuwid ay hindi umiiral. Ang pahayag "leprechuans ay immune sa grabidad" ay isang tautolohiya, na nagpapatunay lamgang sa di-pagkakaruon ng leprechauns - ito ang simantiko katumbas ng "na hindi umiiral, hindi umiiral."A ay A, ang unang batas luhika ni Aristotle, ay mahalaga lamang upang kumpirmahin ang pagkakaroon na kung sang tinutukoy bilang hindi pagkakaroon.
 
 In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
 
