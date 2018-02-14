@@ -66,7 +66,7 @@ Uma APA é uma regra *não coerciva que pode ser aplicada racionalmente em ambas
 
 Por exemplo, se a minha APA for: "ser pontual", então pode ser um padrão universal que pode ser completamente evitado. Eu não lhe posso impor esta APA, porque você não precisa ser meu amigo, não precisa ser pontual, não é obrigado a respeitar nem seguir as minhas preferências de qualquer forma.[^1]
 
-If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
+Se "ser pontual" é uma APA, então é possível que duas pessoas o consigam simultaneamente - se ambas estiverem a tempo.
 
 With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
 
