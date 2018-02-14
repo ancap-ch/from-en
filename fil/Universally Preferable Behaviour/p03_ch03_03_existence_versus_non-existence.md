@@ -48,15 +48,15 @@ Ngayon, kapag pumunta ako sa bahay mo ngaung gabi na nakadamit ng “Mataas na d
 
 Kung hindi ako nagbayad sa taong pumunta para kunin ang pera ko, pwede niyang kunin ang baril, at itutok sa dibdib ko, at dukutin ako - o kaya barilin ako pag pag lumaban ako. Maaari niya akong ikulong sa maliit na selda sa sa loob maraming taon, na kung saan ako ay daanas ng pinaka-marahas kalupitan at patuloy na panggagahasa, hanggang sa maisipan niyang pakawalan ako.
 
-Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+Kapansin-pansin, na kung ang isang tao ay may legal na utang sa akin ng pera, hindi ko siya pwedeng kidnapin at mapasailalim sa pagmamalupit ang panggahasa taon taon. Bagkus ang pagbubuwis ay lubos na hinaharas ang UPB na balangkas, dahil ito ay karahasan na naglilipat ng ari-arian sa pamamagitan ng pagsisimula ng puwersa.
 
-Pagnanakaw, ay napatunayan nating ito masama.
+Pagnanakaw, ay napatunayan nating, ito masama.
 
-Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
+Si Einstein ay nagrebolusyong pisika sa pagsasabi - at- pagpapatunay- na ang bilis ng liwanag ay hindi nagbabago.
 
-We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
+Tayo ay magrerebolusyon sa mundo sa pagtanggap ng nito- at ang pagpapatunay - na ang pagnanakaw na laging masama.
 
-### Government, Religion, And UPB
+### Pamahalaan, Relihiyon, at UPB
 
 When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
 
