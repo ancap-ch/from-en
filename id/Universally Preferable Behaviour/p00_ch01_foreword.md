@@ -8,7 +8,7 @@ Coba - dan gagal.
 
 Binatang itu selalu kekal, jadi warga desa tidak dapat berharap kepada waktu untuk membebaskan mereka dari kebiadabannya. Binatang itu tidak pernah rasional, dan tidak memiliki keinginan untuk berjualan, dan jadi tidak ada negosiasi itu adalah mungkin.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Harapan penduduk desa yang putus asa ini hanya ada seorang pria muncul yang bisa mengalahkan binatang itu.
 
 Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
 
