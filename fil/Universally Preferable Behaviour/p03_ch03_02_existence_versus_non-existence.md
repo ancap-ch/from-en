@@ -83,7 +83,7 @@ Sa simula ng seksyong ito, na binanggit ko na ang mga tao ay karaniwang gumawa n
 
 This view arises from the same error outlined above. Kung ang *lahat* mga institusyong panlipunan ay palaging sinusubukan na lumago sa kapangyarihan at ipatupad ang kanilang mga kalooban sa iba, pagkatapos ng argumentong ito ng isang sentralisadong pamahalaan ay hindi maaaring pahintulutan na magkaroon. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
 
-Ang tanging paraan na ang mga institusyong panlipunan ay maaaring lumago sa marahas na monopolyo ito ay *upang mabawasan ang mga gastos ng pagpapatupad sa kanilang mga biktima*. Ang pamahalaan ay lumalaki nang walang hanggan dahil maaari nilang bayaran ang mga maniningil ng buwis na may bahagi ng buwis na kanilang kinokolekta. The slaves are thus forced to pay for the costs of their enslavement.
+Ang tanging paraan na ang mga institusyong panlipunan ay maaaring lumago sa marahas na monopolyo ito ay *upang mabawasan ang mga gastos ng pagpapatupad sa kanilang mga biktima*. Ang pamahalaan ay lumalaki nang walang hanggan dahil maaari nilang bayaran ang mga maniningil ng buwis na may bahagi ng buwis na kanilang kinokolekta. Ang mga alipin ay sapilitang pinagbabayad para sa gastos ng kanilang pagkaalipin.
 
 In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
 
