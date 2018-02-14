@@ -88,12 +88,12 @@ a. ***Attribution.***
     
     B. isaad kung iyong binago ang Materyal na Lesensya at mapanatili ang isang idikasyon ng anumang nakaraan na pag babago; at
     
-    C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+    C. isaad na ang Materyal na Lesensya ay lesensyado sa ilalim ng Pampublikong Lesensya, at isama ang teksto ng, o URI o hyperlink nito, sa Pampublikong Lesensya na ito.
     
-        For the avoidance of doubt, You do not have permission under this Public License to Share Adapted Material.
+        Para sa pag-iwas ng pag-aalinlangan, Wala kang pahintulot na permiso sa ilalim ng Pampublikong Lesensya na ito para Ibahagi sa Naaangkop na Materyal.
         
     
-    1. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+    1. Kailngan na masiyahan ka sa mga kondisyon sa Seksyon 3(a)(1) sa kahit anong resonable na paraan base sa medyum, nangangahulugan, at konteksto kung saan maari mong ibahagi ang Lesensyadong Materyal. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
     
     2. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
 
