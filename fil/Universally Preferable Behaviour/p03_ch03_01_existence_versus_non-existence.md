@@ -40,13 +40,13 @@ Kung tatangapin namin ang UPB, dapat din namin tangapin ang mga sumusunod na pag
 
 Ang ibigsabihin nito ay ang isang tao hindi pweding baguhin ang kanyang moral kalikasan kasama ang kanyang kasuotan. Ang paggawa ng pagbabago sa kasuotan ay hindi Makakapagpabago sa pangunahin katangian. Kung kaya't ang pagsalungat sa moral na alituntunin ay Hindi wasto batay sa mga may suot ng mga damit.
 
-Sundalo, syempre, silay nagsusuot ng naiiba sa karaniwang mamayan. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Sundalo, syempre, silay nagsusuot ng naiiba sa karaniwang mamayan. Ang karaniwang mamamayan ay pinagbabawal sa patayin; ang mga sundalo, gayunpaman, ay Hindi lamang *pinapahintulotan* pag patay, ngunit sa mga moral *purihin* para sa pagpatay.
 
 Dalhin ang ibapang halimbawa.
 
 Ang pagnanakaw ay mali sa moral, tulad ng nakita natin sa itaas. Ito ay moral na mali sa lahat ng tao sa lahat ng pagkakataon sa lahat ng oras at sa ilalim ng lahat ng mga pangyayari. Dahil ang pagnanakaw ay sapilitan pag alis ng mga ari arian ng ibang tao ng walang pahintulot, Kung gayon ang laging pagbubuwis sa buong Mondo at magpakaylanman ay moral na masama. Ang pag bubuwis ay sapamamagitan ng kahulugan Ang sapilitan pag alis ng Ari arian sa ibang tao ng walang pahintulot, yamang ang pagbubuwis ay umaasa sa pagsisimula gumamit ng pwersa upang iwaksi ang isang tao sa kanyang ari arian.
 
-At ang tawag dito ay "Ang gobyerno" ay isapang halimbawa lamang ng *null zone* Kung saan ang taas ay baba, Ang itim ay put, ang katotohanan ay kasinungalingan, at ang masama ay mabuti.
+Ang tinatawag natin "gobyerno" ay isapang halimbawa ng *null zone* Kung saan ang taas ay baba, Ang itim ay put, ang katotohanan ay kasinungalingan, at ang masama ay mabuti.
 
 Ang pag unlad ng lipunan eksakto sa antas ng dahilan at katibayan gawin ang pinaka magandang harbang mula sa sarili hangang sa unibersal, at sirain ang anuman hind makatwiran*null zones* sa daan. Ang pag unlad ng agham eksakto sa antas kaya tinatangihan nito ang kawalang katwiran ng Diyos "absolutes." ang pag unlad ng Meisina ay eksato sa antas kaya tinatangihan nito ang bisa ng panalangin at walang saysay na ritwal umaasa sa dahilan at katibayan. Pilosopiya din - at ang lipunan ng tao sa pangkalahatan - ay umuunlad eksakto sa antas kaya tinatangihan nito ang kawalang katwiran ng " square-circle na moralidad" ng statist at relihiyon mga ethical na teorya.
 
