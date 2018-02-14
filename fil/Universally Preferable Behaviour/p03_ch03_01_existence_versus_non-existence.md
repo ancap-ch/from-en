@@ -28,15 +28,15 @@ At sa aking sariling karanasan, nalaman ko na ang pumatay ay Mali. Ang gumawaga 
 
 Ang pinakadakilang leaps forward sa sayantipikong pang-unawa ay tinatawag na "tearya ng pagkakaisa." Einstein dekada na Ang ginugol at sinisikap maayos ang isang pinag-isang teorya Ng patlang; at mga teorya ng physic na nagiisa sa malakas at mahinang pwersa, Ang electromagnetism, gravity at Kung anu ano pa ay mananatiling mailap.
 
-UPB bilang isang balangkas, gayunman, hindi lamang napapatunayan ang moral instincts sa pangsariling, philosopiya at sa mga antas ng unibersal_ ngunit may malalim at nakakagulat na impikasyon para sa lipunan ng to.
+UPB bilang isang balangkas, gayunman, hindi lamang napapatunayan ang moral instincts sa pangsariling, philosopiya at sa mga antas ng unibersal_ ngunit may malalim at nakakagulat na impikasyon para sa lipunan ng tao.
 
 #### Aksyon ng UPB
 
-Ang balagkas ng UPB ay nag papatunay sa mga panukalang moral sa pamamagitan ng paghingi na sila ay pare-pareho, at ang unibersal sa panahon ng oras, lugar at bawat tao.
+Ang balagkas ng UPB ay nag papatunay sa mga panukalang moral sa pamamagitan ng paghingi na sila ay pare-pareho, at ang unibersal sa tuntunin ng oras, lugar at bawat tao.
 
-Kung tatangapin ko ang UPB, dapat kudin tangapin ang mga sumusunod na corollary:
+Kung tatangapin namin ang UPB, dapat din namin tangapin ang mga sumusunod na pagsasama:
 
-- Ang moral na panukala ay walang kaugnayan sa costume.
+- Ang moral na panukala ay independiyente ng kasuotan.
 
 Ang ibigsabihin nito ay ang isang tao hindi pweding baguhin ang kanyang moral nature kasama ang kanyang kasuotan. Ang paggawa ng pagbabago sa kasuotan ay hindi Makakapagpabago sa pangunahin katangian. Kung kaya't ang pagsalungat sa moral na alituntunin ay Hindi wasto batay sa mga may suot ng mga damit.
 
