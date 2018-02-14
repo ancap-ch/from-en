@@ -46,7 +46,7 @@ Karaniwan, kapag ang tao na may baril na pumunta sa bahay ko at hinihingi ang ak
 
 Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
 
-If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
+Kung hindi ako nagbayad sa taong pumunta para kunin ang pera ko, pwede niyang kunin ang baril, at itutok sa dibdib ko, at dukutin ako - o kaya barilin ako pag pag lumaban ako. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
 
 Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
 
