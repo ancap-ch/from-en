@@ -34,17 +34,17 @@ Nakuha ng mitolohiya, ano ba talaga ang ibigsabihin sa?
 
 Sa katunayan, maghihintay ako hanggang sa matapos ang "pamahalaan" na dumating at kunin ang pera nito. Naghihintay sa "pamahalaan" na magbaba sa pamamagitan ng katulad nang paggusto sa pagdedeyt sa konsepto ng "pagkababae." ako rin ay maaaring subukang magbayad para sa aking hapunan kasama ang salitang "pera."
 
-Sa katunayan, ng sinabi sa akin na kailangan kong bayaran ang aking buwis sa "pamahalaan," kung ano talaga ang ibig sabihin nito ay kailangan kong magsulat ng isang tseke upang ilipat ang aking pera sa isang partikular na akawt sa bangko, na kung saan ay pagkatapos ay ma-mapuntahan ng mga partikular na indibidwal. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+Sa katunayan, ng sinabi sa akin na kailangan kong bayaran ang aking buwis sa "pamahalaan," kung ano talaga ang ibig sabihin nito ay kailangan kong magsulat ng isang tseke upang ilipat ang aking pera sa isang partikular na akawt sa bangko, na kung saan ay pagkatapos ay ma-mapuntahan ng mga partikular na indibidwal. Ang mga indibidwal na ito ay may karapatan na kunin ang pera na iyon, at gastusin ito kung saan ito dapat ginagastos - itong mga partikular na indibidwal ay gayon na mayroong kumpleto na kontrol sa aking pera.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Ipalagay na ang isang konsepto na tinatawag na "pamahalaan" ay may kapasidad na kunin o gugulin ang iyong pera ay eksaktong kapareho ng paghihintay sa "Diyos" na dumating at kunin ka at dalhin ka sa simbahan.
+Sa punto na walang ano mang ginagawa sa kahit anong nilalang katulad sa "pamahalaan" na itinaas ang daliri, gumawa ng aksyon, magbukas ng akawt sa bangko, o gumastos ng sentimo. Ipalagay na ang isang konsepto na tinatawag na "pamahalaan" ay may kapasidad na kunin o gugulin ang iyong pera ay eksaktong kapareho ng paghihintay sa "Diyos" na dumating at kunin ka at dalhin ka sa simbahan.
 
-Sa ganon ang tunay na pakikipag-ugnayan ay ang isang tao ay nagpapadala sa akin ng liham na nagsasabi sa akin na may utang ako sa kanya ng pera. Wala akong kaugnayan sa taong ito, at hindi talaga siya ang may ari ng aking mga ari-arian, bagaman ang ibang tao ay gumawa ng kunwaring "kontrata" na nag sasabing siya ang may ari.
+Sa ganon ang tunay na pakikipag-ugnayan ay ang isang tao ay nagpapadala sa akin ng liham na nagsasabi sa akin na may utang ako sa kanya ng pera. Wala akong kaugnayan sa taong ito, at hindi talaga siya ang may ari ng aking mga ari-arian, bagamat ang ibang tao ay gumawa ng kunwaring "kontrata" na nag sasabing siya ang may ari.
 
 Kung hindi ko binayaran ang taong ito. ay mag papadala siya ng bagong tao sa bahay ko para kolektahin ang pera - at may "interes" at "karagdagan"
 
-Karaniwan, kapag ang tao na may baril na pumunta sa bahay ko at hinihingi ang aking pera. mayroon akong karapatang gumamit ng puwersa upang ipagtanggol ang aking sarili. Sa kasong ito, gayunpaman, dahil siya ay na ka costume at nagsasabing na siya ang kumakatawan sa isang fictional entity, hindi ako pinapayagan na gumamit ng puwersa para ipagtanggol ang aking sarili.
+Karaniwan, kapag ang tao na may baril na pumunta sa bahay ko at hinihingi ang aking pera. mayroon akong karapatang gumamit ng puwersa upang ipagtanggol ang aking sarili. Sa kasong ito, gayunpaman, dahil siya ay na nakabihis at nagsasabing na siya ang kumakatawan sa isang kathang isip na nilalang, hindi ako pinapayagan na gumamit ng puwersa para ipagtanggol ang aking sarili.
 
-Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
+Ngayon, kapag pumunta ako sa bahay mo ngaung gabi na nakadamit ng “Mataas na duwende ng Narnia” at nag-dedemad ng pera mo para sa “Reyna ng pagdadalamhati,” ipagpalagay na hindi ito halowin, na pwede mong tignan sa aking pagkamangha, at para umalis ako sa ari-arian ko.
 
 Kung hindi ako nagbayad sa taong pumunta para kunin ang pera ko, pwede niyang kunin ang baril, at itutok sa dibdib ko, at dukutin ako - o kaya barilin ako pag pag lumaban ako. Maaari niya akong ikulong sa maliit na selda sa sa loob maraming taon, na kung saan ako ay daanas ng pinaka-marahas kalupitan at patuloy na panggagahasa, hanggang sa maisipan niyang pakawalan ako.
 
