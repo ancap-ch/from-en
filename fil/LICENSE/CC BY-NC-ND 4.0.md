@@ -73,15 +73,15 @@ b. ***Other rights.***
 
 3. Para sa posibleng lawak, ang mga pagpapaubaya ng lesensyado sa kahit anong karapatan na kolektahin mula saiyo ang pagsasanay ng Karapatan ng Lesensya, kung derekta o hanggang sa pag kolekta sa lipunan sa ilalim ng kahit ilang bolontaryo o pagpapaubaya ayon sa batas o sapilitang pamamaraan ng Lesensya. Sa lahat ng mga kaso ang Tagapaglesensya ay hayagang irereserba ang kahit anong mga karapatan na kolektahin katulad ng mga royalty, Kabilang ang lesensya kung saan ang Materyal ay gamit para sa ibang NonCommercial na layunin.
 
-### Section 3 – License Conditions.
+### Seksyon 3 -Mga Kondisyon ng Lesensya.
 
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+Ang iyong pagsasanay sa karapatan ng Lesensya ay hayagang gawa ng paksa sa mga sumusunod na kundisyon.
 
 a. ***Attribution.***
 
-1. If You Share the Licensed Material, You must:
+1. Kung ibabahagi mo ang Materyal sa Lesensya. Dapat kang:
     
-    A. retain the following if it is supplied by the Licensor with the Licensed Material:
+    A. panatilihin ang sumusunod kung ito ay sumusunod sa tagapaglesensya kasama ang Materyal na Lesensya:
     
          i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
         
