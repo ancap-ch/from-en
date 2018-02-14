@@ -96,7 +96,7 @@ Nigbana, tí a bá pá òtítọ́ òdodo pọ pẹlú UPB, a ó wa ni agbọye 
 
 ### Agbeyewo "olè jija"
 
-Let us return to our patient moral guinea pigs, Bob and Doug.
+Ká pada Si àwọn ẹlẹdẹ oni ìwà sùúrù wa, Bob ati Doug.
 
 If theft is morally good, then once again we face the problem of the impossibility of simultaneous morality. If Bob has a lighter, and it is morally good to steal, then Doug must steal Bob’s lighter. However, the moment that Doug is stealing Bob’s lighter, Bob cannot himself be moral. The moment *after* Doug steals his lighter, Bob must then steal “his” lighter back – however, it is only “stealing” if the lighter is *not* legitimately Bob’s in the first place. When Doug steals Bob’s lighter, the lighter does not legitimately become Doug’s property, otherwise the concept of theft would make no sense. If, the moment I steal something, it becomes my legitimate property, then restitution would itself become theft. If, however, I do *not* establish legitimate ownership by stealing Bob’s lighter, then clearly it is impossible for Bob to “steal” the lighter *back*, because we cannot steal what we already own, and my theft has not invalidated Bob’s ownership of his lighter.
 
