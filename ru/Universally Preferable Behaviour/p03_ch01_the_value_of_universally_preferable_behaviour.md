@@ -1,9 +1,9 @@
-## The Value Of Universally Preferable Behaviour
+﻿## Ценность Универсально Предпочтительного Поведения
 
-A new theory is of precious little value if it only points out the obvious. If physics only provided an accurate description of how we catch a ball, then physics would not be a very worthwhile pursuit, because we already *can* catch a ball. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
+Новая теория имеет мало ценности, если указывает только на очевидное. Если бы физика только давала точное описание того, как мы ловим мяч, тогда физика не была бы действительно стоящей наукой, потому что мы уже можем поймать мяч. Обнаружив, что мир круглый, нам это поможет только в навигации по морю – он не поможет нам найти город. Квантовая механика становится полезной только тогда, когда другие методики не могут обеспечить необходимую точность – но это не помогает в построении автомобиля.
 
-In the same way, the UPB framework, and the moral rules that it validates or rejects, should ideally provide us with some startling insights about the world that we live in, and our relations to each other.
+Точно так же структура UPB и моральные правила, которые она подтверждает или отвергает, должны в идеале предоставить нам некоторые потрясающие сведения о мире, в котором мы живем, и о наших отношениях друг с другом.
 
-If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
+Если бы все, что делало UPB, заключалось в том, чтобы доказать, что изнасилование, убийство и кража являются морально неправильными, это не принесет огромной пользы, поскольку почти никто не считает, что эти вещи имеют моральный смысл для начала.
 
-Thus let us begin applying this framework to the world that we live in, and see what value comes out of it.
+Таким образом, давайте начнем применять эту структуру к миру, в котором мы живем, и посмотрим, какая ценность из этого выйдет
