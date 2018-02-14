@@ -1,48 +1,48 @@
-## Keberadaan Versus Non-Existence
+## Eksistensi Melawan Non-Eksistensi
 
-Kita mendefinisikan "non-eksistensi" sebagai sesuatu yang tidak memiliki massa atau energi, atau menampilkan efek massa atau energi, seperti hubungan yang terdeteksi seperti gravitasi.
+Kita mendefinisikan bahwa "non-eksistensi" yaitu sebagai sesuatu yang tidak memiliki massa atau energi, baik itu menampilkan efek dari massa atau energi, sebagai deteksi hubungan seperti gravitasi.
 
-Tuhan tidak memiliki massa atau energi, atau menampilkan efek massa atau energi - Tuhan sebenarnya tidak dapat dideteksi atau diverifikasi dengan cara apapun, bentuk atau bentuk, entah melalui indra, atau melalui rasionalitas.
+Tuhan tidak memiliki massa maupun energi atau menampilkan efek dari massa maupun energi – sebenarnya Tuhan tidak bisa dideteksi atau diverifikasi melalui cara apapun, baik itu bayang maupun bentuk, meskipun melalui indra atau rasionalitas.
 
-Jadi jika saya berkata, "Tuhan itu ada," yang sebenarnya saya katakan adalah:
+Seandainya saya mengatakan, "Tuhan itu ada," apa yang sebenarnya saya katakan adalah:
 
-"*Yang ada harus bisa dideteksi; Tuhan tidak bisa dideteksi, tapi Tuhan ada - karena itu yang tidak ada, ada.*"
+“*Bahwa semua yang ada harus bisa dideteksi; Tuhan tidak bisa dideteksi, tapi Tuhan itu ada – oleh sebab itu apa yang tidak ada, adalah ada.*”
 
-Dengan kata lain, dengan mengatakan "Tuhan ada," saya telah menciptakan sebuah kontradiksi yang tidak dapat diatasi. Saya telah mendefinisikan "eksistensi" sebagai "non-eksistensi", yang membuat sama pentingnya dengan mendefinisikan "kehidupan" sebagai "benda mati," atau batu karang sebagai "kebalikan dari batu karang" atau "persegi" sebagai " lingkaran."
+Katakanlah, dengan mengatakan "Tuhan itu ada," saya telah menciptakan sebuah pertentangan yang tidak dapat diatasi. Saya telah menetapkan "eksistensi" sebagai "non-eksistensi," yang mana menetapkan makna "kehidupan" sebagai "benda mati," atau batu sebagai "kebalikan dari karang", atau "persegi" sebagai "lingkaran".
 
-Demikian pula, jika saya menciptakan alam alternatif di mana "non-eksistensi sama dengan eksistensi" dan "kontradiksi sama dengan konsistensi" dan "kebenaran sama dengan kepalsuan" dan "irasionalitas sama dengan rasionalitas," maka apa yang telah saya lakukan sebenarnya adalah menciptakan sebuah dunia yang disebut "kesalahan," letakkan segala sesuatu yang tidak benar, dan definisikan alam ini sebagai tempat di mana "kesalahan sama dengan kebenaran."[^2]
+Begitu pula, seandainya saya membuat sebuah semesta pembanding yang mana “non-eksistensi sama dengan eksistensi” dan "kontradiksi sama dengan konsistensi" juga "kebenaran sama dengan kepalsuan" serta "tidak masuk akal sama dengan masuk akal," maka apa yang telah saya lakukan sebenarnya adalah menciptakan sebuah dunia bernama "kesalahan," menempatkan segala sesuatu pada tempat yang salah, serta mengartikannya sebagai tempat di mana "kesalahan sama dengan kebenaran."[^2]
 
-Tentu saja, orang tidak menciptakan "alam semesta alternatif" ini untuk membuktikan kebenaran di alam semesta kita sendiri, melainkan untuk menyelamatkan yang salah dalam kenyataan, dan menyebutnya benar. Misalnya, tidak ada orang yang berpendapat "Tuhan mungkin ada di alam semesta lain, jadi Anda tidak dapat mengklaim bahwa Tuhan tidak ada" yang pernah berpendapat "*Saya* mungkin tidak ada di alam semesta yang lain, jadi Anda tidak dapat mengklaim bahwa saya ada di sini
+Tentu saja orang-orang tidak membuat "semesta pengganti" ini untuk membuktikan kebenaran di alam semesta kita sendiri, kecuali untuk menyelamatkan yang salah pada kenyataan, serta menyebutnya benar. Contonya, tidak ada seorangpun yang berpendapat "Tuhan mungkin ada di semesta lain, sehingga anda tidak bisa mengklaim bahwa Tuhan tidak ada "pernah membantah" *Saya* mungkin tidak ada di semesta yang lain, jadi anda tidak bisa mengklaim bahwa saya ada di sini."
 
-Mereka juga cenderung tidak menanggapi dengan baik argumen bahwa: "Di alam semesta yang lain, Anda mungkin setuju dengan saya bahwa Tuhan tidak ada, sehingga membuat Anda seorang ateis."[^3]
+Mereka juga cenderung tidak menanggapi dengan baik pendapat bahwa: “Di semesta yang lain mungkin anda setuju dengan saya bahwa Tuhan tidak ada, sehingga menjadikan anda sebagai seorang ateis.”[^3]
 
 Jika pernyataan yang benar tentang kenyataan dapat tanpa henti ditentang karena beberapa wilayah imajiner yang disebut "kesalahan sama dengan kebenaran" membuat mereka tidak ada yang salah, maka apa yang sebenarnya sedang dikatakan adalah "tidak ada pernyataan positif tentang kebenaran yang bisa berlaku" - namun, kita cukup bijak sebagai filsuf sekarang untuk mengetahui bahwa pernyataan ini sangat kontradiktif, karena ini adalah pernyataan positif yang dianggap benar bahwa mengatakan bahwa tidak ada pernyataan positif yang benar. Jika tidak ada yang benar atau salah - bahkan pernyataan itu - maka tidak ada pernyataan apapun yang dapat dibuat mengenai apapun. Dengan menggunakan kata-kata, menggunakan bahasa Inggris, menggunakan kalimat yang dapat dipahami - semuanya tidak masuk akal sama sekali, karena di alam semesta "alam semesta alternatif" semacam ini mungkin benar-benar omong kosong belaka. Jika hal-hal yang benar di alam semesta alternatif ini memiliki efek pada pernyataan yang kita buat di alam semesta ini, maka jelas kebalikannya juga benar, yang berarti bahwa tidak ada pernyataan yang dapat dibuat mengenai apapun, karena kebalikannya bisa sama-sama benar.
 
-Realitas sebenarnya dari pernyataan "kesalahan sama dengan kebenaran" adalah kegilaan yang ketat dari "nol sama dengan nol."
+Kenyataan sebenarnya dari pernyataan "kesalahan sama dengan kebenaran" adalah kegilaan yang hampir sama dari "nol sama dengan nol."
 
-### The "Alternate Universe" Dalam Human Society
+### "Semesta Pengganti" Dalam Peradaban Manusia
 
-Alasan bahwa kita telah menghabiskan begitu banyak waktu untuk berurusan dengan teori "alam semesta alternatif" ini adalah bahwa ia memiliki relevansi langsung dengan masyarakat manusia, dan digunakan untuk "membenarkan" kejahatan terbesar yang dilakukan di antara kita.
+Alasan bahwa kita telah menghabiskan begitu banyak waktu untuk berurusan dengan teori "semesta Pengganti" ini adalah bahwa ia memiliki keterkaitan langsung terhadap peradaban manusia, serta digunakan untuk "membenarkan" kejahatan terbesar yang dilakukan diantara kita.
 
-Dalam pengalaman pribadi kita sendiri, kita tahu bahwa pembunuhan itu salah. Dalam mengerjakan proposisi bahwa pembunuhan salah secara moral dalam contoh di atas, saya sangat meragukan bahwa ada orang yang terkejut memiliki insting moral mereka yang dikonfirmasi melalui penalaran abstrak UPB yang ketat. Namun, di bagian ini, secara resmi Anda diperbolehkan untuk mulai betul-betul terkejut.
+Dalam pengalaman pribadi kita sendiri, kita tahu bahwa pembunuhan itu salah. Dalam bekerja melalui dalil bahwa pembunuhan adalah salah secara moral pada contoh di atas, Saya sangat ragu bahwa ada orang telah terkejut untuk memiliki naluri moral mereka yang dikonfirmasi melalui penalaran abstrak dari UPB yang ketat. Dalam bagian ini, namun secara resmi anda diperbolehkan untuk memulai kaget yang sebenarnya.
 
-Lompatan terbesar ke depan dalam pemahaman ilmiah adalah apa yang disebut "teori pemersatu." Einstein menghabiskan beberapa dekade untuk mencoba menyelesaikan teori medan terpadu; dan teori fisika yang menyatukan kekuatan kuat dan lemah, elektromagnetisme, gravitasi dan sebagainya tetap sulit dipahami.
+Loncatan terbesar selanjutnya dalam pemahaman ilmiah adalah apa yang disebut "teori pemersatu." Einstein menghabiskan beberapa dekade untuk mencoba menyelesaikan teori medan terpadu; dan teori fisika yang menyatukan kekuatan kuat dan lemah, elektromagnetisme, gravitasi dan sebagainya yang sulit untuk dipahami.
 
-UPB sebagai kerangka kerja, bagaimanapun, tidak hanya membenarkan naluri moral kita di tingkat pribadi, filosofis dan universal - namun juga memiliki implikasi yang mendalam dan mengejutkan bagi masyarakat.
+UPB sebagai kerangka kerja, bagaimanapun itu tidak sebatas membenarkan naluri moral kita pada tingkat pribadi, filosofis dan universal saja – tetapi juga memiliki implikasi yang mendalam dan mengejutkan bagi peradaban manusia.
 
-#### UPB dalam aksi
+#### UPB Dalam Aksi
 
-Kerangka UPB memvalidasi proposisi moral dengan menuntut agar konsisten secara internal, dan universal dalam hal waktu, tempat dan individu.
+Kerangka UPB mengesahkan dalil moral dengan menuntut agar tetap konsisten secara internal, serta universal dalam hal waktu, tempat dan secara individu.
 
-Jika kita menerima UPB, kita juga harus menerima akibat wajar berikut:
+Jika kita menerima UPB, kita juga harus menerima akibat wajar berikut ini:
 
-- Persoalan moral tidak tergantung pada pakaian.
+- Dalil moral bebas dari kostum.
 
-Apakah ini berarti seseorang tidak bisa mengubah sifat moralnya bersama dengan pakaiannya. Tindakan mengubah kebiasaan seseorang tidak mengubah sifat dasar seseorang. Dengan demikian aturan moral yang berlawanan tidak bisa berlaku berdasarkan pakaian yang dikenakan seseorang.
+Apakah ini menunjukan bahwa seseorang tidak bisa mengubah sifat moralnya bersamaan dengan pakaiannya. Tindakan mengubah kostum seseorang tidak mengubah sifat dasar seseorang. Dengan demikian aturan moral yang berlawanan tidak bisa berlaku berdasarkan pakaian yang dikenakan seseorang.
 
-Prajurit tentu saja mengenakan kostum yang berbeda dengan warganegara biasa. Warga biasa dilarang melakukan pembunuhan; tentara, bagaimanapun, tidak hanya *diizinkan* untuk membunuh, namun secara moral *dipuji* karena membunuh.
+Prajurit tentu saja mengenakan kostum yang berbeda dengan masyarakat biasa. Masyarakat biasa dilarang melakukan pembunuhan; namun tentara tidak hanya diizinkan melakukan pembunuhan, tetapi juga dipuji secara moral karena membunuh.
 
-Mari ambil contoh lain.
+Kita ambil contoh lain.
 
 Pencurian secara moral salah, seperti yang telah kita lihat di atas. Hal tersebut salah secara moral bagi semua orang di segala situasi setiap saat dan dalam semua kondisi. Karena pencurian adalah pengambilan paksa atas harta orang lain tanpa persetujuan, maka perpajakan selalu, semua dan selamanya merupakan kejahatan moral. Perpajakan adalah definisi pemindahan harta milik seseorang secara paksa tanpa persetujuan mereka, karena perpajakan bergantung pada inisiasi penggunaan kekuatan untuk melepaskan seseorang dari miliknya.
 

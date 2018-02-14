@@ -6,9 +6,10 @@
 
 语言学上，这是：
 
-1. 命题是：“普遍可取的行为”的概念必须是有效的。
-2. 反对普遍优越行为的有效性表明普遍可取的行为。
-3. 因此，任何反对普遍可取的行为有效性的论点都是无效的。
+
+1.  命题是：“普遍可取的行为”的概念必须是有效的。
+2.  反对普遍优越行为的有效性表明普遍可取的行为。
+3.  因此，任何反对普遍可取的行为有效性的论点都是无效的。
 
 我们都知道有主观的喜好，如喜欢冰淇淋或爵士乐，这些都不被视为对其他人有约束力。另一方面，还有其他的偏好，如强奸和谋杀，这些偏好明显是对他人造成的。还有一些逻辑、真理和证据也有偏好，它们对其他人也是有约束力的（尽管它们通常不是暴力造成的），因为我们都接受一个不合逻辑的命题必须是虚假的或无效的。
 
@@ -50,8 +51,8 @@
 或：
 
 1.  选择几乎是无限的。
-2.  大多数人的选择非常相似。
-3.  因此, 并不是所有的选择都是平等的。
+2. 大多数人的选择非常相似。
+3.   因此, 并不是所有的选择都是平等的。
 4.  因此，普遍可取的选择必须是有效的。
 
 第五个论证普遍有效行为的有效性是进化的。
@@ -60,44 +61,44 @@
 
 既然人类是最成功的物种，人类最独特的器官就是他的思想，那么人类的头脑一定会帮助他做出成功的选择。于是，心灵本身就被选择成功，因为它有能力做出成功的选择。既然人类的思维只存在于选择普遍的最佳行为，那么普遍可取的行为必须是一个有效的概念。
 
-Or:
+或：
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+1. 生物体通过普遍的最佳行为而成功。
+2. 人是最成功的有机体。
+3.   因此，人类必须在普遍优越的行为的基础上行动得最成功。
+4.  人的思想是他最独特的器官。
+5.  因此，人的思想一定是在普遍优越的行为基础上行动得最成功的。
+6.  因此，普遍可取的行为必须是有效的。
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+我们可以把更多的论据来支持和有效的UPB的存在，但我们可以提出更多的论据来支持UPB的存在性和有效性，但是我们将通过上述来解决我们的案例，并转而考察UPB的性质。
 
-#### UPB: Optional And Objective
+#### UPB: UPB：可选的目的
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+既然我们已经证明了普遍可取的行为的有效性，那么道德问题现在就转移了。因为道德是有效的，哪些理论可以量化、分类、解释和预测吗？
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+首先，我们必须记住，道德显然是可以选择的。每个人都受到重力的影响，需要食物来生活，但是没有人需要道德行事。如果我强奸，偷或杀，没有霹雳击中我下来。道德规范，如科学方法或生物分类，仅仅是合理地组织事实和原则，与客观现实相对应的方法。
 
-The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
+然而，遵守道德规则是可选择的事实，使许多思想家混淆了，认为道德本身是主观的。没有什么比这更远离事实了。
 
-Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
+生命有机体是物质现实的一部分，物质现实是理性和客观的。应用道德理论是可有可无的，但这并不意味着所有的道德理论都是主观的。科学方法也是可选的，但不是主观的。应用生物分类是可选的，但生物学不是主观的。选择是可选的，结果不是。我可以选择不吃饭，但我不能选择不吃东西就活着。我可以选择领导某人，但我不能选择他们是否没有脑袋也能存活。道德是可以选择的，但道德选择的影响是可测量的和客观的。
 
-Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
+既然道德是一个有效的概念，下一个问题是：道德在何种程度或范围内是有效的？
 
-As mentioned above, the first test of any scientific theory is *universality*. Just as a theory of physics must apply to *all* matter, a moral theory that claims to describe the preferable actions of mankind *must apply to **all** mankind*. No moral theory can be valid if it argues that a certain action is *right* in Syria, but *wrong* in San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. If it does, it is false and must be refined or discarded.
+如上所述，任何科学理论的第一个考验都是普遍性。正如物理学的理论必须适用于所有事物一样，一种声称描述人类最佳行动的道德理论必须适用于全人类。如果道德论认为叙利亚的某一行为是正确的，而在三藩是错误的，那么任何道德理论都是无效的。它不能说那个人必须做X，但B决不能做X，不能说昨天的错误是正确的 -反之亦然。如果是这样，它是错误的，必须提炼或丢弃。
 
-To be valid, any moral theory must also pass the criterion of *logical consistency*. Since the behaviour of matter is logical, consistent and predictable, all theories involving matter – either organic or inorganic – must also be logical, consistent and predictable. The theory of relativity cannot argue that the speed of light is both constant and not constant at the same time, or that it is one hundred eighty-six thousand kilometres per second, five kilometres in depth, and also green in colour.
+任何道德理论都要经过逻辑一致性标准，才是有效的。由于物质的行为是合乎逻辑的、一致的和可预测的，所有涉及物质的理论 - 无论是有机的还是无机的- 都必须是合乎逻辑的、一致的和可预测的。相对论不能说光的速度是恒定的，而不是同时恒定的，或者说它的速度是每秒十八万六千公里，深度是五公里，颜色也是绿色的。
 
-However, since moral theories apply to mankind, and mankind is organic, the degree of *empirical* consistency required for moral theories is less than that required for *inorganic* theories. All rocks, for instance, must fall down, but not all horses have to be born with only one head. Biology includes three forms of “randomness,” which are environment, genetic mutation and free will. For example, poodles are generally friendly, but if beaten for years, will likely become aggressive. Horses are defined as having only one head, but occasionally, a two-headed mutant is born. Similarly, human beings generally prefer eating to starving – except anorexics. These exceptions do not bring down the entire science of biology. Thus, since moral theories describe mankind, they cannot be subjected to exactly the same requirements for consistency as theories describing inorganic matter.
+然而，由于道德理论适用于人类，而人类是有机的，所以 道德理论所要求的经验一致性程度比无机理论所要求的要少。例如，所有的岩石都必须倒下，但并非所有的马都只有一个头部出生。生物学包括三种形式的“随机性”，即环境，遗传变异和自由意志。例如，贵宾犬一般都很友好，但如果多年挨打，很可能会变得好斗。马被定义为只有一个头，但偶尔，双头突变是天生的。同样，人类普遍喜欢吃吃东西–除了厌食症。这些例外并不能推翻整个生物学科学。因此，既然道德理论描述了人类，它们不可能像描述无机物质的理论一样受到完全一致的要求。
 
-The final test that any moral theory must pass is the criterion of empirical observation. For instance, a moral theory must explain the universal prevalence of moral beliefs among mankind, as well as the divergent results of human moral “experiments” such as fascism, communism, socialism or capitalism. It must also explain some basic facts about human society, such as the fact that state power always increases, or that propaganda tends to increase as state power increases. If it fails to explain the past, understand the present and predict the future, then it must be rejected as invalid.
+任何道德理论必须通过的最后检验是经验观察的标准。例如，道德理论必须解释人类道德信仰的普遍流行，以及人类道德实验“法西斯主义、共产主义、社会主义或资本主义”的不同结果。它还必须解释一些关于人类社会的基本事实，例如国家权力总是增加的事实，或者随着国家权力的增加，宣传也会增加。如果它不能解释过去，理解现在，预测未来，那么它必须被视为无效。
 
-#### UPB: The Practice
+#### UPB：实践
 
-How does all this look in practice? Let’s look at how the requirement for *universality* affects moral theories. We shall touch here on proofs and disproofs for specific moral propositions, which we shall examine in more detail in Part Two.
+这一切在实践中看起来如何？让我们看看普遍性的要求是如何影响道德理论的。我们触摸到的为具体的道德命题的证明和反证，我们将在第二部分更详细地讨论。
 
-If I say that gravity affects matter, it must affect *all* matter. If even one pebble proves immune to gravity, my theory is in trouble. If I propose a moral theory that argues that people should not murder, it must be applicable to *all* people. If certain people (such as soldiers) are exempt from that rule, then I have to either prove that soldiers are *not* people, or accept that my moral theory is false. There is no other possibility. On the other hand, if I propose a moral theory that argues that all people *should* murder, then I have saved certain soldiers, but condemned to evil all those *not* currently murdering someone (including those being murdered!) – which is surely incorrect.
-
-If, to save the virtue of soldiers, I alter my theory to argue that it is moral for people to murder if someone else tells them to (a political leader, say), then I must deal with the problem of universality. If Politician A can order a soldier to murder an Iraqi, then the Iraqi must also be able to order the soldier to murder Politician A, and the soldier can also order Politician A to murder the Iraqi. The application of this theory results in a general and amoral paralysis, and thus is proven invalid.
+如果我说重力影响物质，它必然影响所有物质。如果即使一颗卵石能够抵抗重力，我的理论也会陷入困境。如果我提出一种道德理论，认为人们不应该杀人，那就必须适用于所有的人。如果某些人（例如士兵）不遵守这一规则，那么我要么证明士兵不是人，要么承认我的道德理论是错误的。没有其他的可能性。另一方面，如果我提出一个道德理论，认为所有的人都应该杀人，那么我就拯救了一些士兵，但是我谴责所有那些目前不杀人的人（包括那些被谋杀的人）。- 这肯定是不正确的。
+ 
+如果为了拯救士兵的美德，我改变了我的理论，认为如果别人告诉他们（一个政治领袖），杀人是合乎道德的，那么我必须处理普遍性的问题。如果政客A可以命令一名士兵杀害一名伊拉克人，那么伊拉克人也必须能够命令这名士兵杀害政客A，而士兵也可以命令政客谋杀伊拉克。这个理论的结果在一般的、不道德的麻痹中的应用，并被证明是无效的。
 
 I also cannot logically argue that is wrong for *some* people to murder, but right for *other* people to murder. Since all human beings share common physical properties and requirements, proposing one rule for one person and the *opposite* rule for another is invalid – it is like proposing a physics theory that says that some rocks fall down, while others fall up. Not only is it illogical, it contradicts an observable fact of reality, which is that human beings as a species share common characteristics, and so cannot be subjected to opposing rules. Biologists have no problems classifying certain organisms as “human” because they share common and easily identifiable characteristics – it is only moralists who seem to find this level of consistency impossible.
 
