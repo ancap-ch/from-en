@@ -6,9 +6,9 @@ Tuwing sinasabi ng pari na: "Sundin ang Diyos," ang kayang talagang sinasabi ay:
 
 Ito ay mas mahusay para sa mga mapagsamantala na magkaroon ng kanilang mga alipinna isininasalang- alang ang mga alipin ng kabanalan, dahil ito ay nagpuputol ng sobrang pababa sa mga gastos ng pagkontrol sa kanila. Kung kaya ko lamang kumbinsihin ka na ito ay masama upang maiwasan ang mga naglilingkod sa akin, at marangal na maging aking alipin, pagkatapos ay hindi ko na kailangan kumuha ng maraming siga na mang-inis, magkontrol at magnakaw mula sa iyo.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+Relihiyon at Pang- Estadong metolohiya, pagkatapos, ay mga kathang- isip na sobrang pinabababa ang gastos ng pagkontrol sa populasyon; Sila ay ang pampadulas at gasolina para sa malupit na makinarya ng isang institusyon ng karahasan.
 
-Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Sa buong mundo, ang mga pinuno ay napakaliit na porsyento ng populasyon. Paano ito magiging posible para sa isa hanggang dalawang porsyento ng tao na kontrolin ang ibang? Mayroong isang partikular na monopolyo sa armamento, upang maging segurado, pero ang monopolyo ay relatibong mdali upang malabanan, dahil karamihan sa mga pamahalaan ay gumagawa ng kapalaran sa pagbebenta ng mga armas sa buong mundo.
 
 The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
 
