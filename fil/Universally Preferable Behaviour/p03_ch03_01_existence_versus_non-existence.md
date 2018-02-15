@@ -56,7 +56,7 @@ Sinasabing ang mga operasyon ng pamahalaan ay nasa ilalim ng tapat na mga pataka
 
 Sa parehong paraan, kapag sinabi natin na maganda ang moralidad ng sondalo sa pagpatay at ang kinatawan ng pamahalaan sa pagnanakaw, alam natin na ang "mga sundalo" at " mga kinatawan ng pamahalaan" bilang mga katigorya ng moralidad ay * ganap na hindi wasto*.
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+Kung sinasabi ko na ang square circle ay maykarapatan mag nakaw, sinasabi ko lamang na ang hindi maaaring umiral ay may karapatan gawin ang salungat - sa sarili - isang tunay na walang say say na pahayag, ngunit Isa na nananatiling kakaibas sa "null zone" ng politika.
 
 If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
 
