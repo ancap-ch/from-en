@@ -120,8 +120,8 @@ Kung ito ay moral para ka Bob at Doug na gahasain si Jane dahil meron silang "hi
 
 Mabuti, biglaang si Bob at Doug ang natalo, at ang panggagahasa ay magiging "masama" para sa kanila ulit.
 
-Nothing substantial has changed in these “outvoting” scenarios, but we have a series of opposing moral rules for the same men – a violation of UPB, and thus invalid.
+Walang matibay na pagbabago sa mga "natatalong"senaryo, ngunit mayroong kaming isang serye ng pagsasalungat na patakarang moral sa kaparehong tao - ang isang paglabagsa UPB, at ito ay walang bisa.
 
-Rape cannot be good, then evil, then good again, just because a few hands are raised or lowered.
+Ang panggagahasa ay hindi magiging mabuti, magiging masama, magiging mabuti muli, dahil sa ilang mga kamay na tataas at bababa.
 
-Thus if you think that “majority rule” sounds like a reasonable moral proposition, and a perfectly valid moral theory, then I am afraid you’re going to have to go back to the beginning of this book and start again!☺
+Kaya sa tingin mong ang "patakaran ng nakakarami" ay tila resonable proposisyong moral, at isang perpektong mabisang moral na teyorya, pagkatapos ako ay natatakot na ikaw ay magkakaroon upang bumalik sa umpisa ng aklat na ito at magsimula muli!☺
