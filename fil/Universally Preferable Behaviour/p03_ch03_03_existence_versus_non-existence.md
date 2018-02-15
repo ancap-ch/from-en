@@ -88,17 +88,17 @@ Kung ang nangongolekta ng buwis ay sinasabi na ang konsepto na tinatawag na "pam
 
 #### UPB at "Ang Nakakarami"
 
-Ang UPB ay hindi nagpapahintulot para sa naipong mga indibidwal na pawalang bisa o baliktarin ang mga katangian ng bawat tao. Sampung leon ay hindi makakgawa ng isang elepante, isang pamahalaan, o isang Diyos. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
+Ang UPB ay hindi nagpapahintulot para sa naipong mga indibidwal na pawalang bisa o baliktarin ang mga katangian ng bawat tao. Sampung leon ay hindi makakgawa ng isang elepante, isang pamahalaan, o isang Diyos. Sampung libong sundalo ay maaaring gumawa ng isang "hukbo," pero hindi nila kayang baliktarin ang grabidad, o magagawang patayin ang moral.
 
-Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
+Bumabalik ang huling pagkakataon sa isang kwarto ni Bob at Doug, ipakilala natin si "Jane."
 
-Now that there are three people in the room, we can look at the “majority rule” principle.
+Ngayon ay mayroon nang tatlong tao sa loob sa kuwarto, maaari na nating tignan ang prinsipyo "mga patakaran ng nakakarami.".
 
-If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
+Kung si Bob, Doug at Jane ay kukuha ng isang "boto" sa kung oo o hindi moral ang panggagahasa kay Jane, kaming lahat ay uurong sa isang hindi makatarungan at imoral na lugar. Malinaw, kahit na si Jane ay "hindi boboto," hindi namin itinuturing ang resultang panggagahasa na maaaring baguhin sa isang moral na mabuting gawa.
 
-Why not?
+Bakit hindi?
 
-Well, UPB does not recognise the reality of aggregations, since the “majority” is a mere conceptual tag; it does not exist in reality, any more than “gods” or “governments” do. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
+Mabuti, UPB ay hindi makikilala ang pagsama-sama ng katotohanan, dahil ang "nakakarami" ay may konseptwal na tag; ito ay hindi umiiral sa totoong buhay, akahit ano higit sa "Diyos" o sa "pamahalaan" gawin. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
 
 To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
 
