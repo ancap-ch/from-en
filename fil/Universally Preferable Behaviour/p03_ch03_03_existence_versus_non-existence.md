@@ -98,9 +98,9 @@ Kung si Bob, Doug at Jane ay kukuha ng isang "boto" sa kung oo o hindi moral ang
 
 Bakit hindi?
 
-Mabuti, UPB ay hindi makikilala ang pagsama-sama ng katotohanan, dahil ang "nakakarami" ay may konseptwal na tag; ito ay hindi umiiral sa totoong buhay, akahit ano higit sa "Diyos" o sa "pamahalaan" gawin. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
+Mabuti, UPB ay hindi makikilala ang pagsama-sama ng katotohanan, dahil ang "nakakarami" ay may konseptwal na tag; ito ay hindi umiiral sa totoong buhay, akahit ano higit sa "Diyos" o sa "pamahalaan" gawin. Gayon na angkinin ang konsepto ng "karamihan" sa anumang uri ng moral ay lubusang hindi wasto - ito ay parang sinasabi na "Ang lupang tinubuan" na magdadalang tao ang isang babae, o kaya ang isa ay uupo sa salitang "upuan."
 
-To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
+Para sabihin na "ang karamihan" ay may karapatan o katangian na direktang sumasalungat sa karapatan o katangian ng isang indibidwal ay sumasalungat samakatwirang prinsipyo, dahil anumang konseptwal na pagpapangkat ay magiging wasto lamang sa pamamagitan ng tamang pagkakakilanlan ng mga katangian ng isang indibidwal. Kung sasabihin ko na "mammals" mainit-init na dugo na nialang, mamaari ko bang lohikal na ibilang sa tatlong pastik na flamingo sa kategorya na "mammal"?
 
 Siyempre hindi.
 
