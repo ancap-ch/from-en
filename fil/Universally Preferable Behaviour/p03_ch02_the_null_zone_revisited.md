@@ -12,11 +12,11 @@ Gayunman, para sa libu-libong taon, ang siyensiya ng astronomiya ay gumagapang s
 
 Ang problema sa ganitong paraan, mabuti, ay isang problema parin - ay ang pabago-bago na paggalaw ng Mars. Mula sa ating planeta, Ang Mars ay minsan parang gumagalaw "pabalik" gaya ng sa Mundo "maabutan" sa paligid ng araw. Ang maling paniniwala na ang mundo ay ang sentro ng solar sistem, pinagsama na pagnanais para sa "perpekto" na bilog, ito ay gawa ng Ptolematic sistem ng astronomiya, na kung saan nagpaparami sa mga perpektong bilog sa punto ng kahangalan, sa pamamagitan ng pagkuha ng pananagutan sa eliptikal orbit at ang pabagu- bagong paggalaw ng Mars.
 
-Bakit ang ilusyon na ito ng pagiging perpekto ay itinuturing na kailangan para sa katawang selestiyal? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
+Bakit ang ilusyon na ito ng pagiging perpekto ay itinuturing na kailangan para sa katawang selestiyal? Tiyak ang katibayan ng buwan, kasama ng paghukay at sa parteng bunganga, ay tila upang suportahan ang kahinaan ng kalangitan, ngunit relihiyosong pag-aayos na nababaypas ang direktang sensuwal na katibayan ng parehong madalian at interplanetari na hindi kasakdalan. Ang tuklas ni Galileo sa mga bundok ng buwan, mga butas sa araw at ang buwan ng Jupiter ang lahat ay sinasabing erehetical.
 
-Maaari din namin itong pag-aralan sa tanong ng pag-iiral ng Diyos.
+Maaari din namin itong pag-aralan sa tanong ng pagkakaron ng Diyos.
 
-We have no direct, empirical or rational evidence for the existence of God. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+Walang tayong direkta, empirical o makatwirang katibayan sa pagkakaroon ng Diyos. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
 
 ### Bigotry
 
