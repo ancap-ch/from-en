@@ -14,7 +14,7 @@ Ti ipaniyan ba je ìwà rere, a jẹ irufẹ iṣẹlẹ wípé ọkùnrin kan t
 
 A lè wà ri pe àlàyé wípé "ipaniyan dára" kìí ṣe nkan ti kò mú ọpọlọ wa nìkan, ó tún jé nkan ti kò ṣeéṣe pẹlu ọgbọn.
 
-Awọn kíkọ silẹ ti a mú lò fún àlàyé "ifipábanilopọ̀ dára" tún ṣe ṣe mú lò níbí. Murder cannot be morally neutral, since morally neutral judgements or actions cannot be forcibly inflicted upon another, and murder by definition is forcibly inflicted upon another.
+Awọn kíkọ silẹ ti a mú lò fún àlàyé "ifipábanilopọ̀ dára" tún ṣe ṣe mú lò níbí. Ipaniyan kò le jẹ ìwà láàrín dáadáa ati àìdá, nígbàtí ìdájọ́ tabi ìhùwàsí ìwà láàrín daada ati àìdá kò ṣe fi tipátipá ló lórí ẹlòmíràn, àti pé ipaniyan ni ìtumò má ní lò tipátipá lórí ẹlòmíràn.
 
 There is also a basic contradiction involved in any universal justification for the act of murder, just as there was in the act of rape. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
 
