@@ -28,7 +28,7 @@ In this way, if we cannot justly shoot a man when he is awake, we also cannot sh
 
 Thus, since the statement “I can shoot a man in his sleep any time I want” cannot be validated according to UPB, it cannot be a true moral proposition.
 
-Here again we find that the UPB framework holds true in terms of murder. The only possible valid moral theory regarding murder is that it is evil, or universally banned.
+Níbí yìí lẹẹkan sí a ó ri pe ìlànà UPB duro ni òtítọ́ nípa ti ìpaniyàn. Àlàyé ìwà kan ṣoṣo tó ní ìjẹ́risí nipa ti ìpaniyàn je wípé ìwà àìdá ni, tàbí tí ó jẹ kíkọ̀ lágbayé.
 
 We could take the same approach to the question of assault, but the arguments would be identical to those of rape and murder, so for the sake of brevity, we shall continue.
 
