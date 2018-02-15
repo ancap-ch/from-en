@@ -1,8 +1,8 @@
-## The Null Zone Revisited
+## Ang pagdalaw muli sa Wlang daan
 
-At the beginning of this book, I put forward a way of looking at how we process truth, analogising it to physics. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
+Sa simula ng aklat na ito, inilalagay ko sa isang paraan ng pagtingin at paano naproproseso ang katotohanan, pagkakatulad nito sa pisika. Mula sa "maliliit na katotohanan" sa pagsalo sa isang baseball, dumating tayo sa"dakilang katotohanan" ng pisika - at ang dakilang katotohanan ay hindi salungat sa mga lailiit na katotohanan.
 
-The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
+Ang parehong ito ng moralidad. Mula sa maliliit na katotohanan ng "hindi ako dapat pumaslang" makakapunta tayo sa dakilang katotohanan tulad ng sa "ang pagsisimula sa paggamit ng puwersa ay moral na hindi tama."
 
 In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
 
