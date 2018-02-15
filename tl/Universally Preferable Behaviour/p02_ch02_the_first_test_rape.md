@@ -24,59 +24,59 @@ Gayundin, kung naaalala natin na ang Universally Preferable Behavior ay dapat na
 
 Kung ang isang tao na nakabitin mula sa isang puno sa isang kanyon ay nagpapaubaya dahil wala siyang lakas upang magpatuloy sa pagpindot, hindi namin tatawagan na ang isang pagpapakamatay, dahil ang pagpipiliang mag-hang sa ay hindi na magagamit sa kanya. Kung hinahayaan niyang pumunta kahit na mayroon siyang lakas upang ipagpatuloy ang paghawak, ang kaso ay hindi masyadong malinaw.
 
-#### The Coma Test
+#### Ang Pagsubok ng Koma
 
-Intuitively, it is hard to imagine that any theory ascribing immorality to a man in a coma could be valid. Any ethical theory that posits a positive action as universally preferable behaviour faces the challenge of “the coma test.” If I say that giving to charity is a moral absolute, then clearly not giving to charity would be immoral. However, a man in a coma is clearly unable to give to charity, and thus would, by my theory, be classified as immoral. Similarly, a man who is asleep, or has no money to give – or the man currently *receiving* charity – would all be immoral.
+Intindihan, mahirap isipin na ang anumang teorya na nagbigay ng imoralidad sa isang tao sa isang pagkawala ng malay ay maaaring balido. Ang anumang etikal na teorya na nagmumula sa isang positibong pagkilos na may kapansin-pansing pag-uugali ay nakaharap sa hamon ng "pagsusulit na koma." Kung sinasabi ko na ang pagbibigay sa kawanggawa ay isang ganap na moral, kung gayon ay malinaw na hindi nagbibigay sa kawanggawa ay magiging imoral. Gayunpaman, ang isang tao na may isang pagkawala ng malay ay malinaw na hindi nakapagbigay sa kawanggawa, at sa gayon ay, sa pamamagitan ng aking teorya, ay aariing imoral. Katulad din, ang isang tao na natutulog, o walang pera upang ibigay - o ang tao na kasalukuyang *tumatanggap ng* kawanggawa - ay lahat ay imoral.
 
-This is another central problem with any theory that posits a positive action such as “rape” as moral. At any given time, there are any number of people who are unable to perform such positive actions, who must then be condemned as evil, even though they have no capacity to be “good.” However, if it is impossible to avoid being “evil,” then clearly evil as a concept makes no sense. In the example above of the rock crashing down a hill, the rock is not “evil” for hitting your car, since it has no capacity to avoid it of its own free will. If a man’s brakes fail right after they have been serviced, then it is not his responsibility for failing to come to a stop. If he has never once had his brakes serviced in ten years, then his irresponsibility is the proximate cause of his continued momentum, and he can be blamed.
+Ito ay isa pang sentral na problema sa anumang teorya na posits isang positibong aksyon tulad ng "panggagahasa" bilang moral. Sa anumang oras, mayroong anumang bilang ng mga tao na hindi makagawa ng gayong mga positibong aksyon, kung sino ang dapat na kahatulan bilang masama, kahit na wala silang kakayahan na maging "mabuti." Gayunpaman, kung imposibleng maiwasan ang pagiging " kasamaan, "pagkatapos ay malinaw na kasamaan bilang isang konsepto ay walang kahulugan. Sa halimbawa sa itaas ng bato na bumagsak sa isang burol, ang bato ay hindi "kasamaan" para sa pagpindot ng iyong sasakyan, dahil wala itong kapasidad upang maiwasan ito ng sarili nitong malayang kalooban. Kung mabigo ang mga braking ng isang tao pagkatapos na ma-serbisyuhan, hindi ito ang responsibilidad para sa hindi pagtigil. Kung hindi siya kailanman ay may serviced brakes sa loob ng sampung taon, ang kanyang kawalan ng pananagutan ay ang pansamantala na dahilan ng kanyang patuloy na momentum, at maaaring masisi siya.
 
-In this way, the concept of “avoidability” retains its use. A man in a coma is unable to avoid lying in his bed, since he is in a state of quasi-unconsciousness. Since he is unable to avoid his actions – or inaction in this case – his immobility cannot be immoral.
+Sa ganitong paraan, ang konsepto ay "maiiwasan" na nagpapanatili ng paggamit nito. Ang isang tao sa isang pagkawala ng malay ay hindi maiiwasan ang pagsisinungaling sa kanyang higaan, yamang siya ay nasa isang estado ng quasi-unconsciousness. Dahil hindi niya maiiwasan ang kanyang mga pagkilos - o hindi pagkilos sa kasong ito - ang kanyang kawalang-galaw ay hindi maaaring imoral.
 
-At this point, the objection can quite reasonably be raised that if a man in a coma cannot be immoral, then he also cannot be moral. However, earlier we said that the opposite of an immoral action must be moral. If we propose the moral rule, “thou shalt not rape,” then can we call the man in a coma *moral*, since he does not rape?
+Sa puntong ito, ang pagtutol ay lubos na makatwirang maitataas na kung ang isang tao na nasa isang pagkawala ng malay ay hindi maaaring maging imoral, kung gayon ay hindi rin siya magiging moral. Gayunpaman, mas maaga sinabi namin na ang kabaligtaran ng isang imoral na pagkilos ay dapat na moral. Kung ipanukala natin ang moral na tuntunin, "hindi mo dapat panggagahasa," kung gayon maaari naming tawagan ang tao sa isang koma *moral*, dahil hindi siya panggagahasa?
 
-#### Capacity
+#### Ang Kapasidad
 
-The concept of “avoidability” works in the positive as well as in the negative. If I have lost my genitals in some ghastly accident, am I moral for refraining from rape? It would seem hard to argue that I could be, since genital rape at least is impossible for me. Similarly, we may call a man “generous” if he gives one hundred dollars to a beggar – however, we would doubtless revise our estimation if it turned out that he gave away his money while sleepwalking, and woefully regretted his action on waking.
+Ang konsepto ng "maiwasan" ay gumagana sa mga positibo pati na rin sa negatibong. Kung nawala ko ang aking mga ari-arian sa ilang aksidente, ako ba'y moral para sa pag-iwas sa panggagahasa? Ito ay tila mahirap na magtaltalan na maaaring ako, dahil ang pag-aari ng genital ay hindi maaari para sa akin. Sa katulad na paraan, maaari naming tawagan ang isang tao na "mapagbigay" kung siya ay nagbibigay ng isang daang dolyar sa isang pulubi - gayunpaman, tiyak na babaguhin natin ang ating pag-alis kung nabuksan na ang kanyang pera habang naghihintay ng paglalakad ng tulog, at lubusang nagwalang-bahala ang kanyang pagkilos sa paggising.
 
-Thus we can reasonably say that where choice is absent, or inapplicable, morality is also absent, or inapplicable. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
+Sa gayon maaari nating sabihin na makatwirang kung saan wala ang pagpili, o hindi maapektuhan, ang moralidad ay wala rin, o hindi maipapalagay. Kaya ang tao sa isang pagkawala ng malay, habang ang kanyang mga pagkilos ay hindi maituturing na masama, ni hindi sila maituturing na mabuti. Siya ay umiiral sa estado nang walang pagpipilian, tulad ng isang sanggol, o isang hayop - sa gayon maaari siyang maging makatwirang exempted mula sa moral na mga panuntunan, dahil mayroong isang pisikal na estado na talaga naiiba sa kanya mula sa isang tao na maaaring pumili, na kung saan ay pinahihintulutan sa ilalim ng UPB.
 
-With that in mind, let us continue our examination of rape.
+Dahil dito, ipagpatuloy natin ang pagsusuri sa panggagahasa.
 
-### Aesthetically Positive
+### Ang Positibong Aesthetical
 
-Aesthetically positive actions (APAs) are universally preferable, but not enforceable through violence, since aesthetically negative actions do not initiate the use of force. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
+Ang mga aesthetically positive actions (APAs) ay higit na higit sa lahat, ngunit hindi maipapatupad sa pamamagitan ng karahasan, dahil ang mga aesthetically negatibong aksyon ay hindi nagpapasimula ng paggamit ng puwersa. Tulad ng aming tinalakay sa itaas, kung huli na ako sa pagpupulong sa iyo, hindi ko sinimulan ang paggamit ng puwersa laban sa iyo, at hindi ko inalis ang iyong kapasidad na pumili, o maiwasan ang sitwasyon.
 
-If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
+Kung sasabihin natin na ang APA ay maaaring ipatupad sa pamamagitan ng karahasan, pagkatapos ay sinasabi natin na ang pagsisimula ng karahasan ay mabuti sa moral.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+Kung ipanukala natin ang isang moral na tuntunin na ang pagsisimula ng karahasan ay mabuti sa moral, ang panuntunang ito ay nakaharap sa lahat ng mga parehong lohikal na imposibilidad bilang panuntunan na "ang panggagahasa ay mabuti sa moral."
 
-Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+Ang dalawang kalalakihan sa isang silid ay hindi maaaring maging kapwa sa moral na kapwa sa parehong panahon, dahil ang isa sa kanila ay dapat na magpasimula ng karahasan laban sa isa, at ang isa ay dapat na labanan ito - yamang kung hindi siya labanan ito, sa pamamagitan ng kahulugan ay hindi karahasan, tulad ng sa kaso ng siruhano na tinalakay namin sa itaas. Kaya ang kabutihan ay maaari lamang magamit sa pamamagitan ng pagtalikod sa kabutihan, at ang dalawang kalalakihan sa parehong mga kalagayan ay hindi maaaring maging parehong moral sa parehong oras, at iba pa - lahat ng ito ay mga paglabag sa UPB.
 
-Thus we know that rape cannot be an APA.
+Kaya alam natin na ang panggagahasa ay hindi maaaring maging isang APA.
 
-We can confirm this by reviewing the reasons why “being on time” *is* an APA.
+Maaari naming kumpirmahin ito sa pamamagitan ng pagsusuri sa mga dahilan kung bakit ang "pagiging nasa oras" *ay* isang APA.
 
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
+Una sa lahat, nalalaman namin nang katutubo na higit lamang ang pagtanggi sa isang kaibigan dahil sa pagiging huli na sa huli kaysa tanggihan ang isang kaibigan dahil hindi nagustuhan ang ice cream.
 
-Why is that?
+Bakit iyon?
 
-Once again, the UPB framework comes to the rescue.
+Muli, ang balangkas ng UPB ay dumarating sa pagliligtas.
 
-An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
+Ang isang APA ay isang *non-coercive na tuntunin na maaaring makatwiran na mailalapat sa parehong mga partido nang sabay-sabay*.
 
-For instance, if my APA is: “be on time,” then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+Halimbawa, kung ang aking APA ay: "maging sa oras," maaari itong maging isang unibersal na pamantayan na maaaring ganap na iwasan. Hindi ko pwedeng ipilit ang APA sa iyo dahil hindi mo kailangang maging kaibigan ko, hindi mo kailangang sa tamang panahon, hindi mo kailangang igalang o sundin ang aking mga kagustuhan sa anumang paraan.[^1]
 
-If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
+Kung ang "pagiging nasa oras" ay isang APA, posible para sa dalawang tao na makamit ito nang sabay-sabay - kung pareho sila sa oras.
 
-With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
+Sa pamamagitan ng panggagahasa bagaman, tulad ng nakita natin sa itaas, imposible para sa dalawang tao na gawin ito sa parehong oras. Ang isa ay dapat na palaging rapist, at ang iba naman ay laging biktima.
 
-On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
+Sa kabilang banda, kung sinasabi ko na ang "gustung-gusto jazz" ay isang APA, pagkatapos ay agad akong tumakbo sa isang lohikal na impossibility. Tandaan, ang APA ay mga di-mamimilit na mga panuntunan na maaaring makatwiran nang naaayon sa parehong partido nang sabay-sabay - ang wastong pormula para sa "gustung-gusto jazz" ay: "Mas gusto ang mga gusto sa kaugalian."
 
-Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
+Hindi lamang ito ang isang pagkakasalungatan sa ranggo sa mga tuntunin ng syntax, ngunit agad din itong nabigo ang pagsubok ng UPB. Kung gusto ko ang jazz sa lahat ng iba pang mga anyo ng musika, ngunit mas gusto mo ang klasikal na musika sa lahat ng iba pang mga anyo, at kung mas gusto ang mga personal na kagustuhan, dapat mong mas gusto ang jazz dahil sa gagawin ko, at dapat kong mas gusto ang klasiko dahil sa gagawin mo. Siyempre, ito ay imposible, sapagkat ito ay nangangailangan na kapwa namin *ay sabay na gusto ang parehong jazz at klasikal sa lahat ng iba pang anyo ng musika*. Dapat mong ilipat ang iyong kagustuhan sa jazz, dahil sa aking kagustuhan - ngunit kailangan ko sa parehong oras na lumipat ang aking kagustuhan sa klasiko, dahil sa iyong kagustuhan. Ito ay tulad ng sinasabi na dapat mong parehong magtapon at mahuli ang parehong baseball sa eksaktong parehong sandali - isang lohikal at pisikal na pagkaimposible.
 
-Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
+Dahil ang mga APA ay hindi maipapatupad sa pamamagitan ng karahasan - hindi mo ma-shoot ang isang lalaki para sa pagiging late - pagkatapos panggagahasa *ay hindi* maging isang APA, dahil ang panggagahasa sa pamamagitan ng kahulugan ay isang sekswal na atake na ipinataw sa pamamagitan ng karahasan.
 
-Thus rape cannot fall into the category of APAs.
+Kaya ang panggagahasa ay hindi maaaring mahulog sa kategorya ng APAs.
 
 ### Personally Positive
 
