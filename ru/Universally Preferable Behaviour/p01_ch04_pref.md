@@ -1,56 +1,56 @@
-## Preferences
+## Предпочтения
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Теперь, когда мы понимаем природу проигрышных аргументов, мы можем перейти к вопросу предпочтений.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Предпочтения лежат в основе любой методологии, претендующей на определение истинностного значения предложений. В частности, научный метод во многом определяется характерными предпочтениями в отношении логической согласованности и эмпирического доказательства. В науке существует следующий постулат: если вы хотите определить верную истину в отношении закономерностей вещества и энергии, то предпочтительно использовать научный метод.
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+В этом смысле, “предпочтительно” не означает “как бы лучше”, а скорее “необходимо”. Если вы хотите жить, то универсально предпочтительно чтобы вы воздерживались от употребления мышьяка. Если вы хотите определить верные истины в отношении реальности, то универсально предпочтительно чтобы ваши теории были как внутренне согласованными, так и эмпирически доказуемыми. Следовательно, “универсально предпочтительно” переходит в категорию “объективно необходимо”, но мы сохраним слово “предпочтительно” чтобы различать между опциональными человеческими абстрактными понятиями и неопциональными физическими абстрактными понятиями, такими как сила тяжести.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+В равной степени, если этические теории могут быть вообще верными, тогда они должны как минимум быть внутренне и внешне согласованными. Другими словами, этическая теория, которая сама себе противоречит, не может быть верной, а этическая теория, которая противоречит эмпирическому доказательству и околоуниверсальным предпочтениям, также не может быть верной.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Таким образом в этике, так же как и в науке, математике, инженерном деле и других дисциплинах, сравнивающих теории с реальностью, верные теории должны быть как логически согласованными, так и эмпирически доказуемыми.
 
-### Preferences And Existence
+### Предпочтения и существование
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+Если я говорю: “Я люблю мороженое”, только одно слово остается двусмысленным в этом предложении. Определенно, “я” существует, так как я выражаю личное предпочтение. В равной степени и “мороженое” также существует в реальности. Однако слово “люблю” вызывает больше вопросов.
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Предпочтения не существуют объективно в самой реальности. Если бы вы были одержимо любопытными, то вы возможно следили бы за мной и фиксировали каждый раз, когда я ел бы мороженое, что вероятно дало бы хорошую эмпирическую базу для установления моего предпочтения к этому. Но существует вероятность, что на самом деле я мазохист и ненавижу мороженое, предпочитая мучить себя этим неприятным вкусом и затем вводя вас в заблуждение, утверждая, что люблю мороженое.
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+Мы можем найти доказательства предпочтениям, но мы не можем найти сами предпочтения в реальности. Предпочтения существуют в виде взаимоотношения между сознанием и веществом, так же как и сила тяжести существует как взаимоотношение между телами, обладающими массой.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Не принимая во внимание трудные вопросы свободной воли по сравнению с детерминизмом, будет разумно предположить, что что бы человек ни делал в текущий момент, это то, что он или она “предпочитает” делать. Если я поднимаюсь и иду на работу, тогда очевидно, что я предпочитаю это делать, в отличие от других альтернатив. Даже если я ненавижу свою работу, я определенно ненавижу ее меньше, чем, скажем, остаться без своего детородного органа.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+Учитывая то, что человеческие существа могут выполнять почти бесконечные виды деятельности, что бы человек ни делал в настоящий момент, это является выбором из всех других возможных вариантов. Я выбираю писать эту книгу, чем, скажем, учиться танцевать танго.
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+Если мы применим этот простой факт к этическим аргументам, то получим некоторые весьма любопытные результаты.
 
-### Preferences And Arguments
+### Предпочтения и аргументы
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Помня о нашем вышеприведенном анализе проигрышных аргументов, мы сможем легко понять противоречивую природу утверждения: “предпочтения не существуют”. Учитывая то, что каждое действие человека, включая философские утверждения, выбирается предпочтительно перед любым другим возможным действием, рассуждение, что предпочтения не существуют, требуют предпочтения к рассуждениям, что предпочтения не существуют, что является само по себе противоречивым утверждением. Рассуждение о том, что предпочтения не существуют, это то же самое, что и рассуждение о том, что язык не существует. Это заведомо проигрышный аргумент.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+Поскольку невозможно действовать, не выражая предпочтение, будь то явно или скрыто, любой, выполняющий какое-то действие, принимает постулат, что предпочтения существуют. Таким образом невозможно оспаривать существование предпочтений, не допуская существование предпочтений.
 
-### Preferences And Universality
+### Предпочтения и универсальность
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+Таким образом становится следующий вопрос: являются ли предпочтения чисто субъективными, или они могут быть универсальными?
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+Естественно, некоторые предпочтения являются субъективными, музыкальные вкусы, хобби, любимая литература и т.д. являются субъективными и личными предпочтениями.
 
-The challenge arises when we try to define some preferences as *objective*.
+Трудности возникают, когда мы пытаемся определить некоторые предпочтения как объективные.
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+Таким образом, стоящее перед нами предложение следующее: могут ли быть некоторые предпочтения объективными, т.е. универсальными?
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+Когда я говорю, что некоторые предпочтения могут быть объективными, я не имею в виду, что все люди всегда следуют этим предпочтениям. Если бы я утверждал, что дыхание это объективное предпочтение, то меня можно было бы легко опровергнуть примером тех, кто совершает суицид через повешение. Если бы я утверждал, что прием пищи это объективное предпочтение, то мой аргумент можно было бы легко опровергнуть примерами голодовок и анорексии.
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
+Таким образом, когда я говорю об универсальных предпочтениях, я говорю о том, что люди должны предпочитать, а не о том, что они всегда предпочитают. Используя научную аналогию, для того чтобы по-настоящему понять вселенную, люди должны пользоваться научным методом, это не означает, что они всегда это делают, поскольку миллиарды людей скорее ищут ответы в древних сказаниях, чем в современной науке. Без науки достичь истинных знаний о вселенной не получится, но люди вольны переименовывать “истину” в “ошибку” и довольствоваться мистической ерундой.
 
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+Подобным образом, если человек хочет излечиться от инфекции, то он должен принимать антибиотики, а не исполнять ацтекский танец дождя. Предпочтение принимать антибиотики вместо исполнения танца дождя является универсальным, поскольку танец не может излечить инфекции. Таким образом, хотя и могут появляться чудаки, которые будут пытаться излечиться при помощи танца, все еще универсально предпочтительно, что если человек хочет излечиться, то он должен принимать антибиотики.
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+Другими словами, если вы хотите добраться до вершины горы, просто если желать этого, ничего не выйдет. Если вы хотите узнать о происхождении вселенной, молитва никогда не даст ответ. Люди продолжают желать и молиться, но это не делает желание и молитву более эффективными. Держа это в уме, давайте перейдем к вопросу могут ли быть верными универсальные предпочтения, или нет.
 
-### Arguments And Universality
+### Аргументы и универсальность
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+Если бы мне предложили начать дискуссию, то я подобрал разнообразные постулаты, которые стоят потраченного времени, если их рассмотреть в этой книге.
 
 #### Premise 1: We Both Exist
 
