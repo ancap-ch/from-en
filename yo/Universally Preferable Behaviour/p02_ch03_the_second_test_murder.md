@@ -10,7 +10,7 @@ Tí ipaniyàn ba jẹ ìwà dáadáa, ọ fihàn wípé *ìdènà* fún ipaniyà
 
 Pẹlú atinuda, a ó ri aṣiwere to wa nínú àlàyé ìwà wípé ipaniyan dára. Pẹlú ọgbọn, a mọ wípé àlàyé náà kò jẹ òtítọ́ nítorípé to ba je òtítọ́, kò le ṣeéṣe fún ọkùnrin meji ninu iyàrá kan láti ni ìwà rere lásìkò kànna. Ìhùwàsí, gẹgẹbi àláfíà, kò ṣe fojú wo bi "àwòrán" lásán, ṣugbọn gbọdọ jẹ ètò kan, tàbí ìlọsíwájú kan. Ìlànà UPB jẹri pé Bob kò le jẹ "èèyàn àìdá" *nígbàtí* ó n fún Doug ní ọ̀fun, ati pé yíò rí àṣeyọrí ìwà rere lásìkò tó bá pá Doug - lẹhinna yíò wá padà sí ipò àìdá. Àlàyé ìwà gbọdọ jẹ ti àgbáyé, ti kò sì ní gbára lé àsìkò àti ààyè. Àlàyé wípé ipaniyan je ìwà rere kùnà ìbéèrè yìí ni gbogbo ọnà, nitorinà kò wúlò.
 
-Ti ipaniyan ba je ìwà rere, a jẹ irufẹ iṣẹlẹ wípé ọkùnrin kan to dáwà nínú aṣálẹ yíò jé òní ìwà àìdá fún àsìkò tó ba sì n gbé ibẹ, nítorípé kò ní rí ẹni tí yíò pa. Ọkùnrin kàn to wa ni ojú ikú má jé òní ìwà àìdá, bákanáà ni ọkùnrin ti n sún, tàbí okùnrin kan to wà lórí tábìlì iṣẹ abẹ. A torturer would be an evil man as long as he continued to torture – but then would become a good man in the moment that his victim died at his hand.
+Ti ipaniyan ba je ìwà rere, a jẹ irufẹ iṣẹlẹ wípé ọkùnrin kan to dáwà nínú aṣálẹ yíò jé òní ìwà àìdá fún àsìkò tó ba sì n gbé ibẹ, nítorípé kò ní rí ẹni tí yíò pa. Ọkùnrin kàn to wa ni ojú ikú má jé òní ìwà àìdá, bákanáà ni ọkùnrin ti n sún, tàbí okùnrin kan to wà lórí tábìlì iṣẹ abẹ. Ẹni tí n fí iyà jẹ èèyàn yíò jẹ́ ọkùnrin àìdá lópin igba tó sì n fí iyà jẹ èèyàn - ṣugbọn yíò di ọkùnrin dáadáa lásìkò ti eni ti n fí iyà jẹ ba kú lọwọ rẹ.
 
 We can thus see that the proposition that “murder is good” is not only instinctively bizarre, but also logically impossible.
 
