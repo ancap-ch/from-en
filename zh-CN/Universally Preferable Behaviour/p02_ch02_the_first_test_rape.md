@@ -37,61 +37,63 @@
 
 在这一点上，可以合理地提出反对意见：如果昏迷中的人不能不道德，那么他也不能道德。然而，我们早些时候说过，不道德行为的反面必须是道德的。如果我们提出道德规则，“你不应该强奸”，那么我们可以称他为昏迷道德，因为他没有强奸？
 
-#### Capacity
+#### 容量
 
-The concept of “avoidability” works in the positive as well as in the negative. If I have lost my genitals in some ghastly accident, am I moral for refraining from rape? It would seem hard to argue that I could be, since genital rape at least is impossible for me. Similarly, we may call a man “generous” if he gives one hundred dollars to a beggar – however, we would doubtless revise our estimation if it turned out that he gave away his money while sleepwalking, and woefully regretted his action on waking.
+“可避免性” 的概念中的正面以及负面的起作用。如果我有一些可怕的事故中失去了我的生殖器，我的道德不强奸? 这似乎很难争辩，我可以，因为生殖器强奸至少对我来说是不可能的。同样，我们可以说一个男人“大方”如果他给一百块钱给乞丐–然而，我们无疑会修改我们的估计如果原来他把他的钱而梦游，并且对他醒来的行为感到后悔。
 
-Thus we can reasonably say that where choice is absent, or inapplicable, morality is also absent, or inapplicable. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
+因此，我们可以合理地说，如果选择不存在或不适用，道德也不存在或不适用。因此，处于昏迷状态的人，虽然他的行为不能被认为是邪恶的，但也不能被认为是好的。他存在于国家没有选择，像一个婴儿，或者是一种动物–这样他可以合理地免除道德规则，因为有一个客观的物理状态，把他从一个男人可以选择，这在UPB是允许的。
 
-With that in mind, let us continue our examination of rape.
+考虑到这一点，让我们继续进行审查强奸案。
 
-### Aesthetically Positive
+### 美观阳性
 
-Aesthetically positive actions (APAs) are universally preferable, but not enforceable through violence, since aesthetically negative actions do not initiate the use of force. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
+美学的积极行动（APAs）普遍是较好，但不可通过暴力强制执行，因为审美的负面行为不会引发使用武力。正如我们前面所讨论的，如果我开会迟到，我没有开始使用武力对付你，我也没有取消你的选择能力，或避免这种情况。
+ 
+如果说可以通过暴力和强制执行 APAs，那么我们说引发暴力在道德上是好的。
 
-If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
+如果我们认为引发暴力在道德上是好的是一个道德规则，那么这个规则就会面临与“强奸在道德上是好的”这一规则相同的逻辑不可能性。 
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+一个房间里的两个男人在道德上不能同时好，因为他们其中的一个必须发起对另一方的暴力，而另一个必须反抗它——
+因为如果他不反抗，那就定义上不是暴力，就像我们上面提到的外科医生那样。因此，美德只能由抗德启用，并在同样的情况下两人不能都是道德的同时，等等 - 所有这些都是违反UPB。
 
-Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+因此，我们知道，强奸不能成为一种 APA。
 
-Thus we know that rape cannot be an APA.
+我们可以通过审查 “准时制” 是APA的原因来证实这一点。
 
-We can confirm this by reviewing the reasons why “being on time” *is* an APA.
+首先，我们本能地理解，拒绝朋友总是迟到是比拒绝朋友不喜欢冰淇淋更为重要。
 
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
+那是为什么？
 
-Why is that?
+再次，UPB框架来出现了救援。
 
-Once again, the UPB framework comes to the rescue.
+APA 是一种非强制性规则，可以同时适用于双方当事人。
 
-An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
+例如，如果我的APA是“准时”，那么它可以是一个可以完全避免的普遍标准。我不能强行把这个APA强加在你身上，因为你不必是我的朋友，你不必准时，不必以任何方式尊重或遵守我的偏好。[^1]
 
-For instance, if my APA is: “be on time,” then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+如果“准时”是一个APA，那么两个人可以同时实现 - 如果他们都准时的话。
 
-If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
+正如我们在上面看到的那样，强奸是不可能同时发生的。一个永远都是强奸犯，另一个永远是受害者。
 
-With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
+另一方面，如果我说“喜欢爵士乐”是一个APA，那么我马上就遇到了逻辑上的不可能。请记住，APAs 是非强制的规则，可以同时合理地应用于双方– 正确制定“喜欢爵士乐”是：“主观偏好普遍较好”。
 
-On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
+这不仅是在句法方面排名的矛盾，而且它也立即失败了UPB的测试。如果我喜欢爵士乐，而不喜欢其他形式的音乐，但你更喜欢古典音乐和其他形式的音乐，并且如果个人喜好更普遍，那么你应该更喜欢爵士音乐，因为我喜欢爵士乐，而我更喜欢古典音乐，因为你喜欢爵士乐。当然，这是不可能的，因为这将要求我们同时喜欢爵士乐和古典音乐，而不是所有其他形式的音乐。由于我的偏好，您必须将您的偏好转换为爵士乐 - 但是我必须同时把我的偏好转换为古典。这就像是说，你必须在同一时刻同时投掷和接住同一个棒球 - 这是逻辑上和物理上不可能的。  
 
-Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
+由于 APAs 并不是强制性的通过暴力 – 你不能射击一个人
+迟到 – 然后强奸不能成为APA的，因为强奸的定义是通过暴力性攻击的实施。
 
-Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
+因此, 强奸不属于APA的范畴。
 
-Thus rape cannot fall into the category of APAs.
+### 个人积极
 
-### Personally Positive
+也许强奸只不过是个人的喜好而已。[^2]
 
-Perhaps rape is akin to a merely personal preference.[^2]
+那么出现了这样一个问题：强奸作为单纯的个人偏好的分类能否经得起合乎逻辑的审查?
 
-The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
+如果我们提出的道德准则：“个人的偏好，必须用暴力造成的其他人”，那么UPB的框架又如何呢? [^3]
 
-If we propose the moral rule: “personal preferences must be violently inflicted upon other people,” how does that stand up to the framework of UPB?[^3]
+个人偏好不能公正地强加给其他人，因为这将造成一个无法克服的逻辑悖论。
 
-Personal preferences cannot be justly inflicted upon other people, because that would create an insurmountable logical paradox.
-
-If I say that liking the band Queen above all others is universally preferable behaviour, on what grounds could I justify that statement? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
+如果我说，我最喜欢的乐队女王是普遍可取的行为，我凭什么理由证明这一说法? 只有说所有的个人喜好都应该强加给别人。但是，如果我的个人喜好能够伤害到你时，然后通过UPB的定义，你的个人喜好也可以随意施加给我。因此，我们不能同时道义，因为这将需要我们都喜欢我们自己的乐队，同时把这种偏好放在彼此的首选乐队。换句话说，我必须同时认为女王是最好的乐队，而警察是最好的乐队。这是一个逻辑上的不可能，这是个人偏好不能普遍执行的一个主要原因。
 
 Thus if rape is considered to be a merely personal preference, then it cannot logically be enforced upon anybody else. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
 
