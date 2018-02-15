@@ -1,10 +1,10 @@
 ## Ìdánwò Kejì: Ipaniyàn
 
-Let us now test the UPB framework against moral propositions regarding *murder*, which here is defined as killing intentionally and with premeditation, not in self-defence.
+Ka wa ṣe ìdánwò ìlànà UPB lori àlàyé ìwà nipa *ipaniyàn*, èyí tí a lè túmọ sí pípa èèyàn pẹlú mímọ ṣe ati pẹlu èròngbà tẹlẹ, ti kìí ṣe ní idabobo ara ẹni.
 
-Since we spent so much time dissecting the question of rape – and since many of the same arguments will apply here – this analysis can be much briefer.
+Nígbàtí a tia àsìkò púpọ lórí àyẹwò ìbéèrè ifipábanílopọ̀ - ati pé ọpọ nínú àwọn ìjiyàn náà yíò jẹyọ níbí - àlàyé náà yíò wa ni ṣókí.
 
-Let us return to our two moral guinea pigs sitting in a room – we’ll call them Bob and Doug.
+Ka tun padà sí awọn ẹlẹdẹ tó ní ìwà rere méjèèjì tó wà nínú iyàrá kan - a ó pe wọn ni Bob ati Doug.
 
 If murder is morally good, then clearly *refraining* from murder is immoral. Thus the only chance that Bob and Doug have to be moral is in the instant that they simultaneously murder each other. Physically, this is impossible of course – if they both stand and grip each other’s throats, they will never succumb to strangulation at exactly the same moment. If Bob dies first, his grip on Doug’s throat will loosen, thus condemning Doug to the status of *immorality* until such time as he can find another victim. Because Bob dies first – and thus cannot continue to try murdering Doug – Bob’s death renders him more immoral than Doug’s murder.
 
