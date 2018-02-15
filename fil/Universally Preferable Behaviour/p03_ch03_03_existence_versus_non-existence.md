@@ -102,7 +102,7 @@ Well, UPB does not recognise the reality of aggregations, since the “majority�
 
 To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
 
-Of course not.
+Siyempre hindi.
 
 Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
 
@@ -110,9 +110,9 @@ Of *course* not.
 
 ### Majority Rule
 
-Can I create a moral rule that says: “the majority should be able to do whatever it wants”?
+Pwede akong gumawa ng patakarang moral na nagsasabi: "na ang karamihan ay dapat gawin ang anumang nais ko"?
 
-Of course I can, but it will never be valid or true.
+Siyempre kaya ko, ngunit hindi ito magiging balido o legal.
 
 Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
 
