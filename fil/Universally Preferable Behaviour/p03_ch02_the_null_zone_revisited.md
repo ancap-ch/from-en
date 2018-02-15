@@ -4,13 +4,13 @@ Sa simula ng aklat na ito, inilalagay ko sa isang paraan ng pagtingin at paano n
 
 Ang parehong ito ng moralidad. Mula sa maliliit na katotohanan ng "hindi ako dapat pumaslang" makakapunta tayo sa dakilang katotohanan tulad ng sa "ang pagsisimula sa paggamit ng puwersa ay moral na hindi tama."
 
-In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
+Sa lupain ng pisika, naging pangunahing hadlang sa lohikal na pagkakaintindi ng katotohanan mula sa personal na karanasan sa unibersal na teyorya ay ang relihiyon.
 
-For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
+Halimbawa, walang tao ang direktang nakakaranas ng perpektong bilog - katulad ng nilalang na umiiral sa abstrak, at sa matematika, ngunit alinman ay hindi makikita sa isip, o kaya sa magalang na karanasan sa tunay na mundo. Wala kahit saan sa kalikasan, sa ating kaalaman, ang mayroong perpektong bilig na umiiral, kahit sa "maliit na katotohanan" ng sariling karanasan, o kaya sa "dakilang katotohanan" ng pisika.
 
-However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
+Gayunman, para sa libu-libong taon, ang siyensiya ng astronomiya ay gumagapang sa paghahanap para sa mga "perpektong bilog." Ang orbit na pangplaneta ay mayroon perpektong bilog, dahil ang Diyos ay hindi hahayan ang anumang bagay bilang "hindi perpekto" bilang isang tambilugan sa kanyang paglikha.
 
-The problem with this approach – well, one problem anyway – was the retrograde motion of Mars. From our planet, Mars at times appears to be moving “backwards,” as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
+Ang problema sa ganitong paraan, mabuti, ay isang problema parin - ay ang pabago-bago na paggalaw ng Mars. Mula sa ating planeta, Ang Mars ay minsan parang gumagalaw "pabalik" gaya ng sa Mundo "maabutan" sa paligid ng araw. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
 
 Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
 
