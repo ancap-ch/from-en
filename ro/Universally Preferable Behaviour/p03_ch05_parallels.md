@@ -1,75 +1,75 @@
-## Parallels
+## Параллели
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+До научной революции считалось немыслимым, что естественный мир может существовать без сознательного и “морального” образования в его центре. Солнце поднялось вслед за цепями сверхъестественной колесницы; луна была холодным и одиноким братом солнца. Созвездия очертили сказки и могилы богов, а бури проистекали из ярости демонов.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+Идея о том, что природа является самогенерирующей и самоподдерживающейся системой, почти невообразима. Дарвиновская революция, идея о том, что жизнь не была создана, а эволюционировала, принесла эту идею из материала в биологический мир.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Перед наукой в центре каждой сложной системы лежало добродетельное сознание-без которого эта система влетела бы в хаос и перестала бы быть.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+К сожалению, это "добродетельное сознание" было всего лишь иллюзией, мягко говоря. Таких богов не существовало – все, что *существовало*, было заявлениями священников. Таким образом, то, что на самом деле лежало в центре, было предвзято иррациональных людей, которые понятия не имели, как они на самом деле были безумны.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+Мы еще не применили это же освещение к нашим концепциям общества – но теперь * необходимо*, чтобы мы сделали это.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+Мы считаем необходимым, чтобы в центре общества находилось добродетельное образование под названием "правительство"."В отсутствие этой сущности мы считаем аксиомой то, что общество влетит в хаос и перестанет быть-так же, как наши предки считали, что в отсутствие богов сама Вселенная влетит в хаос и перестанет быть.
 
-However, “the government” no more exists than “god” exists.
+Однако "правительство" существует не больше, чем "Бог".
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+Когда мы говорим о "богах", мы действительно говорим о " мнениях жрецов.”
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+Когда мы говорим о "правительстве", мы* действительно * имеем в виду " насилие крошечного меньшинства.”
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+Идея "спонтанного порядка", которая хорошо доказана в физике и биологии, остается в значительной степени немыслимой для нас в сфере общества.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+Тем не менее,” правительства “не более необходимы для организации и продолжения общества, чем” боги " необходимы для организации и продолжения Вселенной.
 
-In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+По сути, точно так же, как религии препятствуют прогрессу науки, так и правительства препятствуют прогрессу общества. Точно так же, как иллюзии * религии * вызывали гибель сотен миллионов людей на протяжении всей истории, так и иллюзии *правительства*.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+Точно так же, как ложная этика религий “оправдывает " все способы злоупотреблений, коррупции и насилия, так и ложная этика правительств. Когда мы выбираем жить фантазией, мы неизбежно выбираем разрушение в той или иной форме.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+Когда мы выбираем управление обществом в соответствии с религиозными моральными мифологиями, мы заканчиваем с войнами, насилием, репрессиями, злоупотреблениями, коррупцией и бездонным лицемерием.
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+Когда мы выбираем управлять обществом согласно * статичным* моральным мифологиям, результаты ничем не отличаются.
 
-We can either choose virtue or compulsion.
+Мы можем выбрать добродетель или принуждение.
 
-We cannot have both. 
+Мы не можем иметь оба. 
 
-### Solutions
+### Решения
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Мы можем полагать, что правительство является как необходимым, так и моральным институтом. Мы можем поверить в то, что без правительства общество рухнет в “анархию”, и мир растворится в войне всех против всех. Мы можем верить, что без правительства не будет ни дорог, ни образования, ни здравоохранения, ни пенсий по старости, ни библиотек, ни охраны имущества и так далее.
 
-Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+Подобные суеверия, конечно, тормозили прогресс человечества на протяжении всей истории. Наиболее значительным предвестником того, что UPB показывает О Правительстве, является то, что наука раскрыла о религии.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+Поскольку наука начала практически постулировать вселенную, которая могла бы работать без Бога, всевозможные истерики требовали, что конец света близок, что общество рухнет в “анархию”, и что цивилизация растворится в войне всех против всех.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+Каждый раз, когда система, которая оправдывает власть, может быть задумана о работе *без* этой власти, все те, кто получают прибыль от манипулирования этой силой, кричат, что без них все потеряно.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+Священники делали это во время начала научной революции. Без Бога жизнь не имеет смысла. Без Бога у человека нет морали. Без Бога, наши души не могут быть сохранены. Без Бога, мир погрузится в хаос и зло.
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Конечно, ничего из этого не оказалось правдой. На самом деле, довольно *обратный* оказался правдой. Конец религии как доминирующего мировоззрения проложил путь к разделению церкви и государства, концу аристократии, подъему свободного рынка, установлению многих человеческих свобод в значительных областях мира.
 
-The fall of God was the rise of mankind.
+Падение Бога было восхождением человечества.
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+Точно так же, когда мы начинаем видеть общество, как первые ученые видели вселенную-как самоподдерживающуюся систему без необходимости воображаемой центральной власти-тогда мы действительно можем начать воспринимать возможности свободы для человечества.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+Создание Центральной и принудительной монополии в обществе постоянно тормозит прогресс знаний, мудрости, добродетели, физического и психического здоровья-точно так же, как создание Центральной и принудительной монополии во *Вселенной* постоянно тормозило прогресс знаний, мудрости и науки.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+Способ противостоять воображаемым сущностям - с неумолимой правдой. Способ противостоять Богу-разум, доказательства и наука.
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science. 
+Способ противостоять государству-самому опасному воображаемому существу-есть разум, доказательства и наука. 
 
-### The Future
+### будущее
 
-Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Нравится нам это или нет, УПБ относится ко всему, что мы делаем. Человеческие существа имеют естественную тенденцию к последовательности, так как мы существа с рациональным сознанием, населяющие последовательную и рациональную вселенную. Таким образом, любые посылки, которые мы принимаем в нашей жизни, имеют тенденцию заставлять все более и более последовательное поведение на протяжении всей нашей жизни – и на протяжении всей “жизни” нашей культуры или нации.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+Таким образом, человек, который считает, что издевательства является хорошим способом получить то, что он хочет, имеет тенденцию запугивать все больше и больше в течение своей жизни. Человек, который считает, что насилие хорошо, как правило, становится все более и более жестоким.
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+Другими словами, UPB требует последовательности даже в непоследовательности. UPB требует единообразия даже в безнравственности.
 
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+Таким образом, основополагающие моральные предпосылки культуры диктуют ее неизбежное будущее. Культура, основанная на оправдании принуждения, всегда будет становиться более принудительной. Культура, построенная на рациональной свободе, всегда будет менее принудительной.
 
-That is why the delineation of a rational framework for ethics is so essential.
+Именно поэтому столь важное значение имеет определение рациональных рамок этики.
 
-What we believe is what we become.
+Мы верим в то, чем становимся.
 
-If we believe lies, we shall become slaves. 
+Если мы верим лжи, мы станем рабами. 
