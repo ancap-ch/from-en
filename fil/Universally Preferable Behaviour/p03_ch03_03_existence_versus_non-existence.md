@@ -60,13 +60,13 @@ Tayo ay magrerebolusyon sa mundo sa pagtanggap ng nito- at ang pagpapatunay - na
 
 Kapag kinuha natin ang UPB na balangkas at i-aplay ito sa moral na panukala tungkol sa pamahalaan at relihiyon, sa mga ibang interisadong kahihinatnang lalabas.
 
-Ang panukala ay pinaka palaging ginagamit upang bigyan-katwiran ang kapangyarihan ng pamahalaan na: "ang pamahalaan ay mayroong karapatan na kunin ang aking pera." Ito, gayunman, ay isang lubos na tumpak at maling pahayag. Ang "pamahalaan" ay walang karapatan na kunin ang iyong pera, na kung saan ang "pamahalaan" ay isang konsepto lamang, isang abstract naglalarawan sa isang natukoy na grupo ng mga tao. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+Ang panukala ay pinaka palaging ginagamit upang bigyan-katwiran ang kapangyarihan ng pamahalaan na: "ang pamahalaan ay mayroong karapatan na kunin ang aking pera." Ito, gayunman, ay isang lubos na tumpak at maling pahayag. Ang "pamahalaan" ay walang karapatan na kunin ang iyong pera, na kung saan ang "pamahalaan" ay isang konsepto lamang, isang abstrak na naglalarawan sa isang tukoy na grupo ng mga tao. UPB ay nangangailangan ng mas maraming hindi nagbabago at makabulugang pahayag. Dahil ang batas ng moral ay kailangan katulad sa lahat sa kahit saang lugar at sa lahat ng panahon, tayo ay dapat ulitin ang batas na ito sa panitong paraan:
 
-“*Ang mga tao ay maaaring makatanggap ng pera mula sa iba pang mga tao. kung gumawa sila ng isang haka-hakang ahensiya na nagpapawalang-bisa sa kanilang mga aksyon.*”
+“*Ang mga tao ay maaaring makatanggap ng pera mula sa iba pang mga tao. kung gumawa sila ng isang konseptwal na ahensiya na magpapatunay sa kanilang mga aksyon.*”
 
-Kung babalik tayo sa bob at doug sa ating maliit na kwarto ng moral na eksperimento, at maaari naming mabilis na makita na ito ay nagiging isang imposible panukala.
+Kung babalik tayo sa bob at doug sa ating maliit na kwarto ng moral na eksperimento, at maaari nating makita ng mabilis na ito ay nagiging imposibleng panukala.
 
-If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
+Kung sinabi ni Bob at Doug: "Kinakatawan ko ngayon ang perpektong konsepto" FUBAR; na kung saan nabibigay-katwiran sa akin ng pagkuha ng layter galing sayo. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
 
 Ano kaya magiging reaksyon ni Doug? Tandaan, ayon sa UPB, ang anumang balido para kay Bob ay dapat balido din para kay Doug. Hindi maiiwasang, na si Doug ay tumugon ng: "Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Dahil wala ka nang karapatan ngayon na kunin ang aking lighter, kapag sinubukan mong kunin ito, mapipilitan akong ipagtanggol ang aking sarili sa pamamagitan ng puwersa."
 
