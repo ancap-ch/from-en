@@ -1,90 +1,88 @@
-### Governments And Religion
+### Les Gouvernements Et La Religion
 
-The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
+L'idée que le fait d'être né crée un contrat avec une agence de fiction, qui, en termes pratiques, le fait de vous un quasi-esclave à des personnes spécifiques, est commun à la fois de la religion et de l'état – et une autre, beaucoup plus personnels de l'agence, j'en parle dans mon premier livre “de la Vérité: La Tyrannie De l'Illusion.”
 
-Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Chaque fois qu'un prêtre dit: “Obéissez à Dieu,” ce qu'il est en train de dire est: “Obéissez *moi*.” Puisque Dieu n'existe pas, tout le commandement que le prêtre revendications vient de Dieu, est en fait venue du prêtre. “Dieu” est juste de la fiction entité utilisés pour intimider vous sur le plan conceptuel afin d'obtenir votre très pratique de l'asservissement dans le monde réel, à des individus réels, en termes de volontairement de remettre de l'argent, du temps et des ressources.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+Il est beaucoup plus efficace pour les exploiteurs de leurs esclaves prendre en compte l'esclavage une vertu, puisqu'il réduit énormément les coûts de contrôle. Si je peux vous convaincre que c'est le mal pour éviter de me servir, et vertueux pour être mon esclave, je n'ai pas besoin d'embaucher autant de malfrats de les intimider, de contrôle et de voler de vous.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+Religieux et de l'état de mythologies, ensuite, sont des fictions qui a considérablement réduire les coûts de la lutte contre les populations; ils sont le lubrifiant et carburant pour les affreux de la machinerie de la violence institutionnalisée.
 
-Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Partout dans le monde, les règles sont un très petit pourcentage de la population. Comment peut-il être possible pour un à deux pour cent des personnes à contrôler tout le monde? Il y a un certain monopole sur les armements, pour être sûr, mais ce monopole est relativement facile à contrer, comme la plupart des gouvernements de faire fortune en vendant des armes à travers le monde.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+La triste réalité est que les gens en général sont esclaves de fiction entités telles que les nations unies, les dieux, les cultures et les gouvernements.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+Notre fierté personnelle serait instinctivement se rebeller contre une immédiate et forcée, l'esclavage d'un autre être humain – cependant, nous semblent presque revel dans l'esclavage *mythologie*.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+Notre volonté d'être de bonne combiné avec le plaisir de la vertu que nous obtenons par l'obéissance morale mythologies – a nous la queue pour volontiers la main de nos ressources à ceux qui prétendent représenter ces mythologies.
 
-One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+Une raison centrale que nous savons que les gouvernements et les dieux sont inutiles, c'est qu'ils sont tellement efficaces. *Nous savons que la plupart des gens veulent désespérément à être bons parce qu'ils sont si facile à contrôler par la morale théories*.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+La logique de l'obéissance à la mythologie est manifestement absurde. Si un prêtre me dit que je dois obéir à Dieu, c'est exactement la même chose que lui me dit que je dois obéir à une entité appelée “Nog.” Même si je reconnais que cette fiction entité est digne de l'éternel l'obéissance, mais, en aucune façon, obligez-moi à obéir *le prêtre*. Si je vous dis “obéir à votre cœur,” puis-je raisonnablement dire: “et *seul* parler de votre cœur”?
 
-Of course not.
+Bien sûr que non.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+Lorsque nous dépouiller de la mythologie et de la fiction de nos interactions avec nos dirigeants, ce qui émerge est un sombre, dure et meurtrière de l'exploitation de la réalité.
 
-Let’s take as an example a very real and present danger: taxation.
+Prenons comme exemple un très danger réel et présent: la fiscalité.
 
-#### Taxation
+#### D'imposition
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Je me suis dit que, en vertu de choisir de vivre au Canada, je dois “le gouvernement” plus de cinquante pour cent de mon revenu.
 
-Stripped of mythology, what does this really translate to?
+Dépouillé de la mythologie, que ce vraiment traduire?
 
-In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+En réalité, je vais attendre jusqu'à la fin des temps le “gouvernement” à venir chercher son argent. D'attente pour le “gouvernement” d'abandonner, c'est comme vouloir à ce jour, le concept de la “féminité.” Je peut aussi bien essayer de payer pour mon dîner avec le mot “argent”.
 
-In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+En réalité, lorsque je me dit que je dois payer mes impôts “le gouvernement”, ce qui veut dire que je dois écrire un chèque pour transférer mon argent dans un compte en banque, qui est alors accessible par des personnes en particulier. Ces personnes ont alors le droit de prendre cet argent et de le dépenser comme ils l'entendent – ces particuliers ont ainsi un contrôle complet sur mon argent.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+À aucun moment, que ce soit n'importe quelle entité comme “le gouvernement” lever le petit doigt, faire un geste, ouvrir un compte en banque, ou dépenser un sou. En imaginant qu'un concept appelé “le gouvernement” a la capacité de prendre ou de dépenser votre argent est exactement la même chose que d'attendre que “Dieu” pour venir vous chercher et vous emmener à l'église.
 
-Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+Ainsi, la véritable interaction est qu'un mec m'envoie une lettre me disant que je lui dois de l'argent. Je n'ai pas de contrat avec ce gars-là, et il n'est pas en fait l'un de mes biens, bien que certains autres gars l'a écrit un prétendu “contrat” qui prétend qu'il n'.
 
-If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
+Si je ne paie pas ce mec, il va envoyer un autre gars de ma maison pour collecter de l'argent – plus “l'intérêt” et de “charges”.
 
-Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Normalement, quand un homme avec une arme à feu, vient à ma maison et me demande de l'argent, j'ai le droit d'utiliser la force pour me défendre. Dans ce cas, cependant, parce qu'il est dans un costume et prétend représenter une entité fictive, je ne suis pas autorisé à utiliser la force pour me défendre.
 
-Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
+Maintenant, si je viens à votre maison ce soir, habillé comme un “haut-elfe de Narnia” et demande de l'argent que vous devez à la “Reine des Douleurs, en supposant qu'il n'est pas Halloween, vous êtes autorisé à me regardent avec étonnement, et me commander hors de votre propriété.
 
-If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
+Si je ne paie pas l'homme qui vient de prendre mon argent, il est autorisé à tirer une arme à feu, de le pointer sur ma poitrine, et kidnappez – ou me tirer dessus si je résiste. Il peut m'dans une cellule minuscule année après année, où je vais être soumis à la plus violente, de la brutalité et continue de viol, jusqu'à ce qu'il choisit de me laisser aller.
 
-Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+Fait intéressant, si un homme légitimement me doit de l'argent, je ne suis pas autorisé à le kidnapper et le soumettre à la torture et le viol, année après année. Ainsi, la fiscalité totalement viole l'UPB cadre, puisqu'il s'agit de la violence de transfert de propriété à l'aide de l'initiation de la force.
 
-Stealing, as we have proven, is evil.
+Voler, comme nous l'avons prouvé, c'est le mal.
 
-Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
+Einstein a révolutionné la physique, en affirmant – et de prouver – que la vitesse de la lumière était constante.
 
-We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
+Nous pouvons révolutionner le monde par l'acceptation de la demande – et la preuve que le vol est toujours mal.
 
-### Government, Religion, And UPB
+### Le gouvernement, La Religion, Et UPB
 
-When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
+Lorsque nous prenons la REMONTÉE du cadre et de l'appliquer à propositions morales concernant le gouvernement et la religion, des résultats très intéressants se produisent.
 
-The proposition that is most often used to justify government power is: “the government has the right to take your money.” This, however, is an utterly imprecise and false statement. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+La proposition qui est la plus souvent utilisée pour justifier le pouvoir du gouvernement est la suivante: “le gouvernement a le droit de prendre votre argent.” Ceci, cependant, est totalement imprécis et fausse déclaration. Le “gouvernement” n'a pas le droit de prendre votre argent, car “le gouvernement” n'est qu'un concept, une description abstraite pour un auto-groupe défini de personnes. La REMONTÉE exige la cohérence et l'énoncé de l'objectif. Depuis de règles de morale doit être la même pour tous, en tous lieux et en tout temps, nous devons reformuler la règle de cette façon:
 
-“*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
+“*Les êtres humains peuvent moralement prendre de l'argent à partir d'autres êtres humains, même s'ils ne représentent conceptuel de l'agence qui justifie leurs actions.*”
 
-If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
+Si nous revenons à Bob et Doug dans notre petite chambre de la morale de l'expérimentation, nous pouvons très rapidement voir que cela devient impossible de proposition.
 
-If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
+Si Bob a dit Doug: “je représente aujourd'hui le concept idéal de "FUBAR", ce qui justifie pleinement moi de prendre votre briquet de vous. Maintenant que vous me devez votre briquet, vous devez le remettre, ou je vais être obligé de vous le prendre par la force.”
 
-What will Doug’s reaction be? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
+Comme vous pouvez le voir, si *Bob* a le droit de faire jusqu'à l'imaginaire obligations et les imposer à Doug, puis *Doug* a le droit de faire jusqu'à l'imaginaire obligations et les imposer à Bob. Clairement, nous avons immédiatement à la fin dans un parfait impasse. Si c'est moralement bon d'imposer composé d'obligations à d'autres personnes, mais il est impossible de le faire si *tout le monde* possède cette capacité, alors la morale devient impossible. La seule façon que Bob peut imposer son obligation Doug est si Doug refuse à imposer son composé obligation Bob – ainsi, nous avons une situation où ce qui est moral pour une personne ne peut être atteint que par l'autre personne agissant dans l'anti-morale. La vertu ne peut donc qu'être activé par le vice, ce qui est impossible – et nous ont opposés des règles morales pour deux êtres humains, dans les mêmes circonstances, à la UPB instantanément rejette comme non valide.
 
-As you can see, if *Bob* has the right to make up imaginary obligations and impose them on Doug, then *Doug* has the right to make up imaginary obligations and impose them on Bob. Clearly, we immediately end up in a perfect stalemate. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Virtue can thus only be enabled by vice, which is impossible – and we have opposing moral rules for two human beings in the same circumstance, which UPB instantly rejects as invalid.
+En d'autres termes, chaque imaginaire abstrait justification de l'utilisation de la force peut être contré par un autre imaginaire abstrait justification de l'usage de la force. Si j'ai un ami imaginaire qui peut justifier tout ce que je fais, alors vous aussi pouvez avoir un ami imaginaire qui peut justifier tout ce que vous faites. Ainsi, aucun de nous ne peut avoir la capacité d'imposer notre imaginaire obligations sur les autres.
 
-In other words, every imaginary abstract justification for the use of force can be countered by another imaginary abstract justification for the use of force. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Thus neither of us can possess the ability to impose our imaginary obligations on others.
+#### La Religion Et UPB
 
-#### Religion And UPB
+Le même est vrai pour la religion.
 
-The same holds true for religion.
+La déclaration: “Vous devez m'obéir parce que Dieu l'ordonne,” doit être redressé avec plus de précision: “une entité que je vous ordonne de m'obéir.” Le principe de l'UPB nécessite, alors, est: “les êtres Humains doivent s'imposer unchosen obligations positives sur les autres, et de justifier ces obligations conformément à l'imaginaire d'entités.”
 
-The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
+Ici, nous voyons les mêmes questions que ci-dessus. Bob dit Doug: “Vous devez me donner votre briquet, parce que mon ami imaginaire vous dit de vous.” Naturellement, Doug répond: “Vous devez m'en demandez pas plus léger, parce que *mon* ami imaginaire interdit de vous.” Si Bob “commandements” sont valides, puis Doug “commandements” sont également valables, et ainsi annuler les uns les autres.
 
-Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+De la même manière, si un homme affirme que son concept appelé “le gouvernement” justifie son vol de ma propriété, je peux prétendre que mon concept appelé “l'anti-gouvernement” justifie ma *rétention* de ma propriété, et nous sommes à la fois tout aussi “valable” dans nos justifications.
 
-In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
-
-If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
+Si ce collecteur d'impôts affirme ensuite que son concept appelé “le gouvernement” ne justifie de son vol de *mon* la propriété, pas de ma rétention d'elle, alors que nous ne sommes pas plus avancés. Il peut prendre mon millier de dollars, mais je peux invoquer mon concept de “voler” l'argent de retour, et sa théorie morale nous commande de nous passer le reste de l'éternité remise en arrière et en avant les milliers de dollars.
 
 #### UPB And "The Majority"
 
