@@ -53,40 +53,50 @@ Amamu n’ugbua, Iga-enwe mmalite obi.Anam aghota n’onwere nwoke no n’ezi in
 
 Mana, fa enweghi ike ida
 
-### Ground Rules
+Iwu Ana
 
-Extraordinary claims require extraordinary proof. In taking on this mammoth task – particularly in such a short book – I have set myself some basic ground rules, which are worth going over here.[^1]
+1. Ife di omimi mmadu si n’oma, kwesiri k’onwe ife og’egosi uwa. Mgbe ebidorom agbadagba oru ah – ebe anam ede akwukwo di ntakiri ona enye ngo owem,iwu, nke masiri ka’unu guo. [^1]
+Anabataram otu ndi mmadu si a “bu” dicha iche na “k’ome”. Ako dimkpa enweghi ike iyoputa n’ime ndu ihe obuna. Ebe mmadu ncha choro I bi n’uwa, we ike ikpa nkata k’odimma, enwe ghi ike ibu ihe mkpa n’iwu. Ufodu ndi mmadu, achoro ibi n’uwa, kama fa a juo ife digasi, ife anam akowa bu n’iwu bu ife mgbe.
 
-1. I fully accept the Humean distinction between “is” and “ought.” Valid moral rules cannot be directly derived from the existence of anything in reality. The fact that human beings in general *prefer* to live, and must successfully interact with reality in order to do so, cannot be the basis for any valid theory of ethics. Some people clearly do not prefer to live, and steadfastly reject reality, so this definition of ethics remains subjective and conditional.
-2. Ethics cannot be objectively defined as “that which is good for man’s survival.” Certain individuals can survive very well by preying on others, so this definition of ethics does not overcome the problem of subjectivism. In biological terms, this would be analogous to describing evolutionary tendencies as “that which is good for *life’s* survival” – this would make no sense. Human society is an ecosystem of competing interests, just as the rainforest is, and what is “good” for one man so often comes at the expense of another.
-3. I do not believe in any “higher realm” of Ideal Forms. Morality cannot be conceived of as existing in any “other universe,” either material or immaterial. If morality exists in some “other realm,” it cannot then be subjected to a rigorous rational or empirical analysis – and, as Plato himself noted in “The Republic,” society would thus require an elite cadre of Philosopher-Kings to communicate – or, more accurately, *enforce* – the incomprehensible edicts of this “other realm” upon everyone else. This also does not solve the problem of subjectivism, since that which is inaccessible to reason and evidence is by definition subjective.
-4. I do not believe that morality can be defined or determined with reference to “arguments from effect,” or the predicted consequences of ethical propositions. Utilitarianism, or “the greatest good for the greatest number,” does not solve the problem of subjectivism, since the odds of any central planner knowing what is objectively good for everyone else are about the same as any central economic planner knowing how to efficiently allocate resources in the absence of price – effectively zero. Also, that which is considered “the greatest good for the greatest number” changes according to culture, knowledge, time and circumstances, which also fails to overcome the problem of subjectivism. We do not judge the value of scientific experiments according to some Platonic higher realm, or some utilitarian optimisation – they are judged in accordance with the scientific method. I will take the same approach in this book.
-5. I also refuse to define ethics as a “positive law doctrine.” Although it is generally accepted that legal systems are founded upon systems of ethics, no one could argue that every law within every legal system is a perfect reflection of an ideal morality. Laws cannot directly mirror *any* objective theory of ethics, since laws are in a continual state of flux, constantly being overturned, abandoned and invented – and legal systems the world over are often in direct opposition to one another, even at the theoretical level. Sharia law is often directly opposed to Anglo-Saxon common-law, and the modern democratic “mob rule” process often seems more akin to a Mafia shoot-out than a sober implementation of ethical ideals.
-6. I am fully open to the proposition that there is no such thing as ethics at all, and that all systems of “morality” are mere instruments of control, as Nietzsche argued so insistently. In this book, I start from the assumption that there is no such thing as ethics, and build a framework from there.
-7. I do have great respect for the ethical *instincts* of mankind. The near-universal social prohibitions on murder, rape, assault and theft are facts that any rational ethicist discards at his peril. Aristotle argued that any ethical theory that can be used to prove that rape is moral must have something wrong with it, to say the least. Thus, after I have developed a framework for validating ethical theories, I run these generally accepted moral premises through that framework, to see whether or not they hold true.
-8. I respect your intelligence enough to refrain from defining words like “reality,” “reason,” “integrity” and so on. We have enough work to do without having to reinvent the wheel.
-9. Finally, I believe that any theory – especially one as fundamental as a theory of ethics – does little good if it merely confirms what everybody already knows instinctively. I have not spent years of my life working on a theory of ethics in order to run around proving that “murder is wrong.” In my view, the best theories are those which verify the truths that we all intuitively understand – and then use those principles to reveal new truths that may be completely counter-intuitive.
+2. Iwu enweghi ike ikowa n’obu “ife dimma mak’igafe onwu mmadu” – Otutu ndi mmadu, wenre ike igafe onwu ofunma site na mmegbu ndi ozo, akuko ah gbasara iwu enweghi ike imeri nsogbu di n’boyi. N’nkowa biology, ife ah ga-abu ife di ario n’ebe nkowa “ihe dimma maka ndu” – ife ah aman nwe isi. Uwa obibi bu otu fa si a gu nke onwe fa, otu mmiri njo bu, na gini dimma ka ofu nwoke na-abia igbu ibeya.
 
-Having spent the last few years of my life preparing, training, and then combating this beast, I hope that I have acquitted myself with some measure of honour. I believe that I have emerged victorious – though not entirely unscathed – and I look forward to seeing who shares this view.[^2]
+3. Ekwerom n’owenre “ebe di enu” gbasara ife di n’isi. Ako enweghi ike I turime “n’uwaozo”, oga aburiri ife uwa m’obu ife mmuo. Oburu na Ako no “nebe ozo”, Oman kwe k’ono n’okpuru mmegbu. – Plato onweya mar n’ime akwukwo fa kporo “Republiki”, na obodo g’achoro onye Ozor mara ife - ndi eze ka fa kpankata- m’obu, k’odaba ofuma, tinye- ife mmadu amanghota n’ife ah n’akpor “Uwa ozo” n’isi mmadu n’ine. Ife ah aman ruzi nsogbu-mmegbu,,ebe ife n’amalite bu ife amanrute n’isi na ikowa mmegbu ka ife ha jin’aka.
 
-I studied the history of philosophy in graduate school, and hold a Masters degree, but I do not have a PhD in philosophy. I am far from a publicly recognised intellectual. While I may not be the *most* unlikely champion, I am also far from the most likely. Whether I have succeeded or not is not up to you, and it is not up to me.
+4. Ekwerom na Ako wer’ike ikowa m’obu irute ji kwa “okwu site na ife mere”, m’obu ife mmadu kwucharu n’oga eme n’ebe Ako mmadu kwuyenre. Utilitarianismi, m’obu “ife dimma nke ukwu”, enwero ife mmadu g’aza ituari nsogbu mmegbu, n’ebe obi onye n’eme nkwado mara ife ga-adimma gbasara ndi mmadu n’ine bukwa ife onye n’akwado otu fa si eme ego mara otu oga agbasa ife di nani oburu na fa rapu one oralu – onweghi ife putaru. Kam tinye kwo,,,ife mmadu tinye obi “ife kachamma di ukwu” n’agbanwe otu ife anasi agbanwe, amam ife, oge, na otu ifesi we di, n’enweghi ike ituaria nsogbu mmegbu. Anyi aman kagbuo otu ife ndi bekee jiri kamma otu uwa ozo di platoniki, m’obu ufodu echiche utilitariani – fa ga’ejizi otu fa siri mara we kagbuo fa. Agam ejiri otu ahu n’ime akwukwo ah.
 
-If the reasoning holds, the greatest beast is down.
+5. Ekwerom ikowa ako ka “iwu dimma” Mana obu ife onye obuna kwere na ife kwe siri, kwuru n’enu otu ako kwesiri idi, onwero onye wenre ike ikagbuo iwu n’ine noro n’ime kwesiri ime bu ife dichamma maka ako. Onwenro ife ozo mmadu g’eji kwuyenre iwu, ebe iwu ka no n’ime njo, ituaria bu mgbe obuna, fa rapuru ya na fa mere ya ofuru – na ife kwesiri ime n’uwa n’ine aburo ife n’eme, we ruo n’nke mmadu siri. Iwu sharia na Anglo-Saxon ah di ghi n’ofu obi, na ife bekee diri ndi mmadu ka fa me ka fa choro “iwu igwe mmadu n’ewe iwe” ife ndi mafia ka fa si eme, karia iwu fa chelu.
 
-### A Modest Suggestion
+6. Anabataram ife obula I choro k’anyi me maka na onwero ife di ka iwu chacha, na ako n’uche mana ife fa ji emegbu mmadu, otu Nietzsche goru. N’ime akwukwo nka, Ebidorom n’isi n’enweghi ife bu iwu, na ruo ebe m ga ebido ikwu na ya.
 
-It is the height of audacity to suggest to readers how to read a book, but given the challenges of the task before us, I would like to make one small suggestion before we embark.
+7. Ewenrem ako n’ebe Ako ndi mmadu no.Otu fa si ntiye iwu n’enu igbu mmadu, irie nwayi n’ekwero gi rie ya enu, itigbuo m’obu ichoro mmadu okwu, m’obu izuori bu ife onye mara ako achoro. Aristotul juru na iwu obuna mmadu kwuru maka ya, wenre ike I kwuru n’azu dika ,irie nwayi n’ekwero gi rie ya enu bu ako kwesiri iwen obi mgbawa n’imeya, ruo n’ntakiriya. Ebe m chofutara oru si na fa ncha bu ezi ako, mgbagota nke ndi mmadu kwenre na ya, ako n’ime oru ahu, ka m furu ka fa ga-jide, m’obu ralu.
 
-If we lived in the fifteenth century, and I were trying to convince you that the world were round, I would put forward reams of mathematical and physical proofs. If you held a contrary opinion, you would naturally react with scepticism, and be inclined to quibble with every line of proof. However, if you and I could in fact sail around the world, and arrive back where we started without retracing our steps, you would be far more willing to accept the conceptual proofs for what you had already *experienced* to be true. You might find fault with a particular logical step or metaphor, but you would already agree with the conclusion, and thus would be more prone to help correct the details rather than reject the theory as a whole.
+8. Enwerem ako n’amamihe unu, nke zuru I hapu ikowa okwudika “ihe”, “echiche”, “ako owenya” na ndi ozo. Anyi were oru di icheiche anyi g’eme, mana anyi aman ruzia ugbo
 
-If my task were to respond to every possible objection to every linguistic, logical and empirical step, this book would remain forever unfinished – and unread. Perfectionism is, in essence, procrastination, and I consider the task of this book to be too important – and the dangers of false morality too grave and imminent – to spend so long trying to achieve heaven that we all end up in hell.
+9. Njedebe okwu m bu na okwu obuna – okwu gbasara iwu – mere ife oma, oburu na okwere n’ife onye obuna mara n’isi. Ejirom afo m n’aru oru n’enu iwu ka m n’eti mkpu “na igbu mmadu di njo”.Otu m ji we fu, nke kachamma bu ndi ahu kwere n’obu eziokwu anyi ncha mara ofuma – anyi ejizie iwu ahu we puta eziokwu wenre ike Ikowa ya.
 
-Thus I humbly suggest that you wait to see how effective the ethical framework I propose is at proving the most commonly accepted moral maxims of mankind before passing final judgement on the theory.
+Ebe m ji afor garaga n’akwado, inu Agu ah ogu.Enwerem nchekube na enwetagom owem ako. Ekwerem n’aputagom k’onye mmeri – mana oburo – mana Achorom ifu onye kwere n’edemede m. [^2]
 
-I truly believe that the definition of a rational ethical framework is the most essential task that faces mankind. I truly appreciate your interest in this crucial matter – and would like as always to thank the wonderfully kind donators who have made this work possible.
+Agurum akuko mgbochie maka ife mmadu che n’igucha uno akwukwo, mana enwerom degiri na ya. Adim ntiri n’etiti ndi guru akwukwo.
 
-I ride into battle well armed by others.
+Aburomu onye mmeri, Adikwom ntiri na ife ndi. Mana oburu na m’emirim, m’obun’ada m, oburo maka gin a mu.
 
-[^1]: Most of these will be discussed in more detail throughout the course of this book.
+Oburu na echiche, jiri Agu ahu n’ani ukwu.
 
-[^2]: Of course, if I have failed, I have at least failed spectacularly, which itself can be both edifying and entertaining!
+Ntinye
+
+Oburu mmalite obi ntinye okwu ka’unu guo akwukwo ah, mana oru anyi were, g’eme m obi anuri ntinyekwo okwu tupu anyi ebido.
+
+Oburu na anyi bi n’afor iri n’ise, na M na agbani I me gi mara ofuma n’uwa di k’oruma, Agama etinye oganiru nke mgba ko na ife ana afu. Oburu n’iji okwu ozo, Ig’aju, mana kwa do igbanwe ife n’akor. Mana, oburu na m jewun mba uwa n’ine, mana bata ebe si we bido, kama anyi e duru onwe anyi odu, ig’anabata okwu m we puta maka ife ifuchagonu k’oburu eziokwu. I ga-afuriri ife mebiri n’imeya, mana ig’ekwere mgbe anyi mechara, ugbua ig’noyelu iye aka were mezie ihe ogugu di n’ime okwu ahu.
+
+Oburu n oru m bu I za ife n’ine unu g’ekwu n’adabaro n’akuko ako, m’oburu n’asusu na otu, akwukwo anuah aman gwu – na ife iguberu. Ife kacha mma bu, “isi k’omecha”, Echem n’oru di n’akwukwo dichamkpa – na ife egwu di n’ura Ako – ka m na oru n’ofuebe n’eme ka enweta anaeze, mana anyi ncha ejezi oku muo.
+
+Ugbua ewetu m obi si gi ka’ichere k’ifu otu oru ahu ga aputa, etinye kwu m k’wetu obi kowari ako ndi mmadu nabatara, tupu ikwuzuo okwu.
+
+Ekwerem na ikowa ako dimma bu oru dichamkpa ndi mmadu na afu. N’eziokwu obi di m’uto na otu isi were ndidi guo akwukwo ah dimkpa – ka m tinye kwo, o ga atomu ka’mkene ndi n’ine yerem’aka, mere k’akwukwo ah me.
+
+Eje mba n’enu ebune, ndi otu m yere m egbe n mma.
+
+[^1]; Ufodi ife anyi kowaru, anyi ka y’akowa n’ime akwukwo anu ah
+
+[^2]; Oburu na m daru, adaru m nke ukwu, ebe fa n’ibuo wenre ike inye anyi anuri na nkasi obi.
+
