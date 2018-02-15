@@ -12,9 +12,9 @@ Pẹlú atinuda, a ó ri aṣiwere to wa nínú àlàyé ìwà wípé ipaniyan d
 
 Ti ipaniyan ba je ìwà rere, a jẹ irufẹ iṣẹlẹ wípé ọkùnrin kan to dáwà nínú aṣálẹ yíò jé òní ìwà àìdá fún àsìkò tó ba sì n gbé ibẹ, nítorípé kò ní rí ẹni tí yíò pa. Ọkùnrin kàn to wa ni ojú ikú má jé òní ìwà àìdá, bákanáà ni ọkùnrin ti n sún, tàbí okùnrin kan to wà lórí tábìlì iṣẹ abẹ. Ẹni tí n fí iyà jẹ èèyàn yíò jẹ́ ọkùnrin àìdá lópin igba tó sì n fí iyà jẹ èèyàn - ṣugbọn yíò di ọkùnrin dáadáa lásìkò ti eni ti n fí iyà jẹ ba kú lọwọ rẹ.
 
-We can thus see that the proposition that “murder is good” is not only instinctively bizarre, but also logically impossible.
+A lè wà ri pe àlàyé wípé "ipaniyan dára" kìí ṣe nkan ti kò mú ọpọlọ wa nìkan, ó tún jé nkan ti kò ṣeéṣe pẹlu ọgbọn.
 
-The other objections that applied to the proposition “rape is good” also apply here. Murder cannot be morally neutral, since morally neutral judgements or actions cannot be forcibly inflicted upon another, and murder by definition is forcibly inflicted upon another.
+Awọn kíkọ silẹ ti a mú lò fún àlàyé "ifipábanilopọ̀ dára" tún ṣe ṣe mú lò níbí. Murder cannot be morally neutral, since morally neutral judgements or actions cannot be forcibly inflicted upon another, and murder by definition is forcibly inflicted upon another.
 
 There is also a basic contradiction involved in any universal justification for the act of murder, just as there was in the act of rape. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
 
