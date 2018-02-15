@@ -36,4 +36,4 @@ Let us now turn to the question of theft. If this framework holds true here as w
 
 ### Ìdáàbòbò ara ẹni?
 
-A tí kọjá lórí ọrọ ìdáàbòbò ara ẹni pẹlú àkíyèsí sí ipaniyàn, bí ó tilẹ̀ jẹ́ wípé kò ní lò àyẹwò níbi ìṣẹlẹ ifipábanílopọ̀. This is not because the issue of self-defence is either self-evident or uncomplicated, but rather because the complications that exist can be dealt with more comprehensively after we look at the question of theft.
+A tí kọjá lórí ọrọ ìdáàbòbò ara ẹni pẹlú àkíyèsí sí ipaniyàn, bí ó tilẹ̀ jẹ́ wípé kò ní lò àyẹwò níbi ìṣẹlẹ ifipábanílopọ̀. Èyí kìí ṣe nitori ọrọ wípé ìdáàbòbò ara ẹni je yálà ọrọ tó ní ẹ̀rí tàbí nkan to rọrùn, ṣugbọn yíò jé nítorípé àwọn ìnira tó wà níbẹ̀ ni a má gbé yẹwo lẹ́yìn tí a bá wo ìbéèrè olè jíjà.
