@@ -95,57 +95,57 @@ APA 是一种非强制性规则，可以同时适用于双方当事人。
 
 如果我说，我最喜欢的乐队女王是普遍可取的行为，我凭什么理由证明这一说法? 只有说所有的个人喜好都应该强加给别人。但是，如果我的个人喜好能够伤害到你时，然后通过UPB的定义，你的个人喜好也可以随意施加给我。因此，我们不能同时道义，因为这将需要我们都喜欢我们自己的乐队，同时把这种偏好放在彼此的首选乐队。换句话说，我必须同时认为女王是最好的乐队，而警察是最好的乐队。这是一个逻辑上的不可能，这是个人偏好不能普遍执行的一个主要原因。
 
-Thus if rape is considered to be a merely personal preference, then it cannot logically be enforced upon anybody else. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
+因此，如果强奸被认为仅仅是个人的偏好，那么它就不能在逻辑上强加给其他任何人。再一次，想到一个房间里的两个男人，这就要求两个男人都喜欢互相强奸，但仍然不能完全执行这个决定，这不仅不合逻辑，而且完全是不切实际的。
 
-Finally, since personal preferences cannot be enforced on others, but rape is by definition the enforcement of a “preference” upon another, rape cannot be in the moral category of merely personal preferences.
+最后，由于个人偏好不能在其他人身上执行，但强奸顾名思义是对另一个人的“优先权”的实施，强奸不能仅仅是个人喜好的道德范畴。
 
-### Morally Neutral
+### 道德中立
 
-As discussed above, rape cannot be a morally neutral action, since it is a preference that is enforced upon another.
+如前所述，强奸不能成为一种道德中立的行动，因为它是另一种强制执行的优先权。
 
-### Personally Negative
+### 个人负
 
-Perhaps rape is a *personally negative* action, the opposite of number three. As an example, a criminal on the run would consider capture a personally negative action (PNA).
+也许强奸是个人消极的行为，与数字三相反。例如，一个正在逃跑的罪犯会考虑逮捕一个人的消极行动（PNA）。
 
-Personally negative actions (PNAs) by definition cannot be enforced upon another. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
+根据定义，个人的负面行为（PNAs）的定义不能强迫另一个。因此，一个被强奸的人会以“自我防御”的方式“强迫”他不偏袒他的强奸犯，这是错误的。这样一来，暴力的开始 - 个人偏好的实施 - 是道德的，而自卫 - 也就是个人偏好的实施 -是不道德的。因此，我们将有同样的行为（强制个人偏好）这些行为被归类为道德和不道德，这些都不能成立。
 
-### Aesthetically Negative
+### 美学上的负
 
-Perhaps rape is an aesthetically *negative* action, like “being late” – the flip-side of number two above. However, aesthetically negative actions (ANAs) cannot logically be violently enforced *because by definition they can be avoided*. Since I can freely choose to stop associating with a man who continually shows up late, I cannot shoot him for being late.
+也许强奸是一种美学上的负面行为，比如“迟到”，这是第二种观点的反面。然而，审美的负面行为（ANAs）在逻辑上不能执行，因为猛烈地定义他们是可以避免的。由于我可以自由地选择停止与一个经常迟到的人交往，我就不能因为他迟到而射杀他。
 
-However, rape by definition cannot be avoided, since it is a sexual attack enforced through violence.[^4] Also, if I choose to stop being friends with the tardy man mentioned above, he cannot justly force me to be his friend by threatening me with violence, since that would rely on the principle that merely personal preferences can be enforced on others, which would run fruitlessly up against my ability to enforce *my* desire to drop his friendship. This kind of “Tarantino morality” always ends up with everyone in a state of mute paralysis, pointing guns at each other’s faces like frozen statues.
+然而，根据定义是无法避免的强奸，因为它是一个攻击性强迫通过暴力[^14]。如果我选择停止上述迟到的男朋友，他不应该强迫我用暴力威胁我朋友，因为这将依赖于原则，是个人偏好可以强迫别人，会徒劳地反对我执行我的愿望放弃友谊的能力。这种“塔伦蒂诺道德”总是以每个人处于哑巴状态的状态结束，并将枪指向对方的脸上，就像冻结的雕像一样。
 
-As we have already established, any universally preferable behaviour must be universal to all people in all places at all times – if ANAs allow for violent enforceability (i.e. I can shoot you for being late) – then if rape is defined as an ANA which can be enforced, then the rape victim who finds rape an aesthetically negative action has the right to shoot his rapist, which effectively affirms the principle of self-defence, but at the expense of also allowing gun play in the opposition of, say, rudeness.
+我们已经建立了普遍较好，任何行为必须是在所有时代所有地方的所有人–通用如果ANAs允许暴力执法（即我可以拍你的迟到）–如果强奸被定义为一个分析可执行，然后强奸受害者谁发现油菜具有消极作用有权把强奸犯，这实际上肯定了自卫原则，但代价是允许枪支在粗鲁的对立面上发挥作用。
 
-Thus rape cannot be an ANA.
+因此，强奸不能成为 ANA。
 
-Which leaves only…
+只剩下…
 
-### Evil
+### 邪恶
 
-If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil,” passes the “coma test,” insofar as it is impossible for a man in a coma to rape someone.
+如果强奸被定义为邪恶，那么它必须涉及使用武力的问题，显然是这样。同样，这个命题：“强奸是邪恶的”，通过“昏迷测试”，因为昏迷中的男人是不可能强奸某人的。
 
-In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
+此外，如果强奸是邪恶的，那么不强奸就必须是好的 - 这样，两个男人在一个房间里既可以同一时间是道德的，，而不是彼此强奸。
 
-Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
+由于可避免性是“不愉快”与“不道德”之间的主要区别之一，而强奸显然是不可避免的行为，所以“强奸为邪恶”的定义也符合这一区别。
 
-Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
+另外，因为有些时候是不可能去强奸别人 – 例如，当勃起不能达到“强奸–邪恶”的定义解决了人们不由自主的不道德的问题，这在定义上是不可能的，因为可避免的标准。
 
-The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+强奸犯可以通过避免“强奸是好事”的提议来辩解证明自己的行为是正当的，取而代之的是支持他强奸欲望的另一个主张，比如：“不顾别人的不满而采取自己的快乐是道德的”。 
 
-This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+这个命题也无法UPB最基本的逻辑检验。如果 Bob 认为他应该把自己的快乐–强奸 Doug - 不顾 Doug 不快 – 然后 Bob 无法提升自己的偏好UPB。
 
-If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
+如果每个人都应该为自己的快乐而不顾受害者的不满，那么 Bob 就没有权利强奸道格，因为尽管 Bob 更喜欢强奸Doug，但 Doug 当然不喜欢被强奸。如果每个人都应该为自己的快乐而不顾他人的不悦，那么，Bob拒绝强奸道格的优先权，不管 Doug拒绝强奸会导致 Bob 的不悦，都没有合理的理由。
 
-Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
+因此，Doug 可以对Bob 说：“强奸你对我的道德有好处，因为个人的喜好可以被强制执行。”Bob当然可以这样回答：“如果我不想被强奸，我的暴力倾向也会被强制执行”。
 
-Of course, few rapists are philosophers, but as we mentioned above, the primary danger to human beings is not the individual criminal, but irrational and exploitive moral theories. For instance, incarceration is inevitably justified through an appeal to a moral theory – and incarceration causes far more people to be raped than private criminals could ever dream of. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
+当然，一些强奸犯是哲学家，正如我们上面提到的，对人类的主要威胁不是个人犯罪，而是非理性和剥削性的道德理论。例如，通过诉诸道德理论，监禁必然是正当的, 监禁会导致更多的人被强奸，而非私人罪犯所梦想的。如果证明监禁的道德理论是错误的，那么纠正这种道德理论应该是任何希望减少强奸盛行的人最关心的问题。
 
-Thus it would seem that the only logical possibility for rape is that *not* raping is universally preferable behaviour – or that rape is universally banned behaviour.
+因此，看来强奸的唯一合乎逻辑的可能性是，不强奸是普遍可取的行为 - 或者说强奸是普遍禁止的行为。
 
-### Whew!
+### 唷！
 
-The fact that the UPB framework has logically and effectively validated the moral proposition that rape is evil – not “good,” or “aesthetically preferable,” or “personally preferable,” or “morally neutral” – is a very good sign. It does not prove beyond a shadow of a doubt that UPB will logically validate all “common sense” moral propositions, but the first hurdle has been passed, and that should give us great cause for celebration. If I were a physicist proposing a Unified Field Theory, and the application of my theory correctly predicted where a thrown baseball would land, I could justly be enormously pleased.
+事实上，UPB框架具有科学、有效地验证了强奸是邪恶的 – 不好”的道德命题，”或“美学更好”或“更可取，”或“道德中立”–是一个非常好的迹象。这并不能证明毫无疑问，UPB逻辑验证所有的“常识”的道德命题，但第一障碍已经通过，那应该给我们庆祝的理由。如果我是一个物理学家，提出一个统一的场论 (Unified Field Theory)，我的理论应用正确地预测了一个扔棒球的地方，我是非常高兴。
 
 Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
 
