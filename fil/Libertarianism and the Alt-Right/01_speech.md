@@ -84,7 +84,7 @@ Alinsunod dito, na binigyan ng kasalukuyang konstelasyon ng mga gawain, kung gay
 
 Ngayon, ang pagkuha ng aming mga pahiwatig mula sa Buchanan-, ang Paul- at ang Trump-kilusan, sa mga tiyak ng isang populistang diskarte para sa pagbabago libertaryan, sa walang tiyak na pagkakasunud-sunod maliban sa ang unang isa, na kasalukuyang ipinapalagay ang pinakadakilang pangangailangan ng madaliang pagkilos sa isip ng publiko.
 
-#### Stop mass immigration
+#### Itigil ang mass immigration
 
 The waves of immigrants currently flooding the Western world have burdened it with hordes of welfare parasites, brought in terrorists, increased crime, led to the proliferation of no-go areas and resulted in countless “bad neighbors” who, based on their alien upbringing, culture and traditions, lack any understanding and appreciation of liberty and are bound to become mindless future supporters of welfare-Statism.
 
