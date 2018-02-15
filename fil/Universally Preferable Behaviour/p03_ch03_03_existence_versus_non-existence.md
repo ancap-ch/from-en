@@ -104,21 +104,21 @@ Para sabihin na "ang karamihan" ay may karapatan o katangian na direktang sumasa
 
 Siyempre hindi.
 
-Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
+Kaya kung ito ay masama sa isang tao na manggahasa, maaari ko bang lohikal na gumawa ng isang kategorya na tinatawag na "ang karamihan" at sabihin na para sa * mga* tao, ang panggagahasa ay moral na mabuti ngayon?
 
-Of *course* not.
+*Syempre* hindi.
 
-### Majority Rule
+### Tuntunin ng nakakarami
 
-Pwede akong gumawa ng patakarang moral na nagsasabi: "na ang karamihan ay dapat gawin ang anumang nais ko"?
+Pwede ba akong gumawa ng patakarang moral na nagsasabi: "na ang karamihan ay dapat gawin ang anumang nais ko"?
 
-Siyempre kaya ko, ngunit hindi ito magiging balido o legal.
+Siyempre kaya ko, ngunit hindi ito magiging wasto o totoo.
 
-Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
+Tanging ang *mga indibidwal<0/> ang kumilos - ang "karamihan" ay hindi gumagawa. Kung ang alituntuning moral ay kayang baguhin kapag ang isang tiyak na bilang ng mga tao ay magsama-sama, pagkatapos ang UPB aypatuloy na lumalabag.</p> 
 
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
+Kung ito ay moral para ka Bob at Doug na gahasain si Jane dahil meron silang "hindi pagboto sa kanya," ano ang mangyayari sa dalawang kaibigan ni Jane na nagpakita at bumoto laban kay Bob at Doug na makademonyong hanagarin?
 
-Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
+Mabuti, biglaang si Bob at Doug ang natalo, at ang panggagahasa ay magiging "masama" para sa kanila ulit.
 
 Nothing substantial has changed in these “outvoting” scenarios, but we have a series of opposing moral rules for the same men – a violation of UPB, and thus invalid.
 
