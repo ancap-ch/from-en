@@ -16,13 +16,13 @@ Bakit ang ilusyon na ito ng pagiging perpekto ay itinuturing na kailangan para s
 
 Maaari din namin itong pag-aralan sa tanong ng pagkakaron ng Diyos.
 
-Walang tayong direkta, empirical o makatwirang katibayan sa pagkakaroon ng Diyos. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+Walang tayong direkta, empirical o makatwirang katibayan sa pagkakaroon ng Diyos. Ang pinaka abstrak na siyentipikong sukat ay nagbibigay walang katibayan para sa pagkakaroon ng diyos - subalit sa pagitan ng katotohanan ng sariling karanasan, kung saan ay wala talagang Diyos, at ang pinaka abstark na siyentipikong sukat at teyorya - na kung saan kinukumpirma na wala talagang Diyos - ang uri ng "walang lugar" ay ninasa na umiral, * kung saan kumpletong baliktarin ang kahit anong rasyunal ma pamantayan ng katotohanan*.
 
-### Bigotry
+### Pagkapanatiko
 
-Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+Paniniwala na maaaring tama, mali, o * hindi makatotohanan*. Ito ay totoong paniniwala na ang Disyerto ng Sahara sa Hilagang Africa; ito ay isang maling paniniwala ang Sahala ay nasa Scotland; ito ay isang * laban sa totoo* paniniwala na ang Sahara ay anumang gustuhin ko, at lumabas sa lugar kung saan man gusto ko ito lumabas. Ang unang paniniwala ay totoo; ang pangalawa ay hindi totoo - ang pangatlo ay pampanatikong asersyon na papaputukin ang mismong konsepto ng patunay.
 
-We can say:
+Maaari nating sabihin na:
 
 1. Proposition X is true because it is rational.
 2. Proposition Y is false because it is irrational.
