@@ -1,38 +1,41 @@
-## The First Test: Rape
+## 第一个测试：强奸
 
-Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
+虽然这是一个令人不愉快的话题，强奸毫无疑问是任何道德理论必须包含的最模糊的行动。谋杀可能会因自卫而变得复杂;由于饥饿或“偷回”问题而被盗 - 但绝不能为了自卫而强奸；它的定义是发动侵略。
 
-Let us then use the UPB framework to examine the logical consistency of ethical propositions regarding rape, with reference to these seven moral categories.
+那么让我们再使用UPB框架对伦理学命题关于强奸的逻辑一致性，并参照这七个道德范畴。
 
-### The Good
+### 良好的
 
-To take an absurd example, let’s imagine that we are reviewing an ethical theory that proclaims that rape is a moral good.
+让我举一个荒谬的例子，假设我们正在审查一个宣称强奸是道德良好的道德理论。
 
-Clearly, if I proclaim that “X” is “the good,” then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+显然，如果我宣称“X”是“好的”，那么“x”的反面肯定是邪恶的。如果不强奸是良好的，那么强奸必须是邪恶的。相反，如果强奸是好的，那么不强奸必须是邪恶的。
 
-Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
+强奸某人是一个积极的行动，必须发起，执行，然后完成。如果“强奸”是一种道德好，那么“不强奸”一定是一种道德上的罪恶 – 因此，在同一个房间里两个男人不可能同时道德的，因为他们中只有一个任何时刻可以是强奸犯 – 他只能是一个强奸犯，如果其他人成为受害者。
 
-That which enables virtue cannot be evil. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
+让我举一个荒谬的例子，假设我们正在审查一个宣称强奸是道德良好的道德理论。
 
-If it is morally good to be a rapist, and one can only be a rapist by sexually assaulting a victim, then clearly the victim must be morally good by resisting the sexual assault – since if he does not resist, it is by definition not rape, and therefore not virtuous. In other words, *attacking* virtue by definition *enables* virtue. Thus we have an insurmountable paradox, in which the victim must attack virtue in order to enable virtue – he must resist sexual assault in order to enable the “virtue” of the rapist. Thus not only can the rape victim *not* be virtuous, but he must resist and attack “virtue” in order to allow it.
+显然，如果我宣称“X”是“好的”，那么“x”的反面肯定是邪恶的。如果不强奸是良好的，那么强奸必须是邪恶的。相反，如果强奸是好的，那么不强奸必须是邪恶的。
 
-Insurmountable logical problems thus result from the proposition: “rape is moral.” Remember, we agreed that a rational theory cannot propose opposite states for the same situation. All other things being equal, a rock cannot fall both up and down at the same time, and a valid theory cannot predict that one rock will fall up, while another rock will fall down.
+强奸某人是一个积极的行动，必须发起，执行，然后完成。如果“强奸”是一种道德好，那么“不强奸”一定是一种道德上的罪恶 – 因此，在同一个房间里两个男人不可能同时道德的，因为他们中只有一个任何时刻可以是强奸犯 –
+他只能是一个强奸犯，如果其他人成为受害者。
 
-In the same way, two men in a room must be considered to be in the same situation. If only one of them can be good, because goodness is defined as rape, and only one of them can rape at any time, then we have a logical contradiction that cannot be resolved.
+因此，这个命题产生了难以克服的逻辑问题： “强奸是合乎道德的”。请记住，我们同意理性理论不能针对同样的情况提出相反的观点。在所有其他情况相同的情况下，岩石不能同时上下跌落，而有效的理论不能预测一块岩石会倒塌，而另一块岩石会倒塌下来。
 
-Also, if we recall that Universally Preferable Behaviour must be independent of time, then we also face a logical problem that, no matter what his physical virility, at some point the rapist will simply be unable to rape any more, because he will be physically unable to get an erection. At that point, his ability to perform the “good action” becomes impossible. Since “avoidability” is a key criterion for morality, but he is physically unable to be good – in other words, he is unable to avoid being evil – then he cannot be responsible for not raping the other man.
+同样的，一个房间里的两个男人也必须考虑到同样情况。如果其中只有一个是好的，因为善良被定义为强奸，只有其中一个可以在任何时候强奸，那么我们有一个逻辑上的矛盾是不能解决的。
 
-If a man hanging from a tree over a canyon lets go because he lacks the strength to continue holding on, we would not call that a suicide, since the choice to hang on was no longer available to him. If he lets go although he has the strength to continue holding on, the case would not be quite so clear.
+因此，这个命题产生了难以克服的逻辑问题： “强奸是合乎道德的”。请记住，我们同意理性理论不能针对同样的情况提出相反的观点。在所有其他情况相同的情况下，岩石不能同时上下跌落，而有效的理论不能预测一块岩石会倒塌，而另一块岩石会倒塌下来。
 
-#### The Coma Test
+同样的，一个房间里的两个男人也必须考虑到同样情况。如果其中只有一个是好的，因为善良被定义为强奸，只有其中一个可以在任何时候强奸，那么我们有一个逻辑上的矛盾是不能解决的。
 
-Intuitively, it is hard to imagine that any theory ascribing immorality to a man in a coma could be valid. Any ethical theory that posits a positive action as universally preferable behaviour faces the challenge of “the coma test.” If I say that giving to charity is a moral absolute, then clearly not giving to charity would be immoral. However, a man in a coma is clearly unable to give to charity, and thus would, by my theory, be classified as immoral. Similarly, a man who is asleep, or has no money to give – or the man currently *receiving* charity – would all be immoral.
+#### 昏迷测试
 
-This is another central problem with any theory that posits a positive action such as “rape” as moral. At any given time, there are any number of people who are unable to perform such positive actions, who must then be condemned as evil, even though they have no capacity to be “good.” However, if it is impossible to avoid being “evil,” then clearly evil as a concept makes no sense. In the example above of the rock crashing down a hill, the rock is not “evil” for hitting your car, since it has no capacity to avoid it of its own free will. If a man’s brakes fail right after they have been serviced, then it is not his responsibility for failing to come to a stop. If he has never once had his brakes serviced in ten years, then his irresponsibility is the proximate cause of his continued momentum, and he can be blamed.
+直观地说，很难想象任何理论赋予他们一个昏迷的病人可能是有效的。任何道德理论认为积极行动作为普遍的好行为都面临着“昏迷测试”的挑战，如果我说给予慈善是绝对道德的，那么显然不给慈善捐款是不道德的。然而，一个昏迷的人显然无法捐献给慈善机构，因此按照我的理论，这将被归类为不道德的行为。同样地，一个睡着的男人，或者没有钱给的男人 - 或者目前正在接受慈善的男人——都是不道德的。 
 
-In this way, the concept of “avoidability” retains its use. A man in a coma is unable to avoid lying in his bed, since he is in a state of quasi-unconsciousness. Since he is unable to avoid his actions – or inaction in this case – his immobility cannot be immoral.
+这是任何理论都会将诸如“强奸”等积极行为视为道德的另一个核心问题。在任何时候，都有一些人不能做出这种积极的行为，他们必须被谴责为邪恶，即使他们没有能力做到“好”。但是，如果不可能避免成为“邪恶”，那么显然邪恶作为一个概念是没有意义的。在上面的岩石撞击山的例子中，石头并不是“邪恶的”来砸你的车，因为它没有能力去躲避它自己的自由意志。如果一个人的刹车在维修后失灵了，那么他没有责任停下来不是他的责任。如果他在十年内从未有过刹车服务，那么他的不负责任是他持续动力的直接原因，他可以受到指责。 
 
-At this point, the objection can quite reasonably be raised that if a man in a coma cannot be immoral, then he also cannot be moral. However, earlier we said that the opposite of an immoral action must be moral. If we propose the moral rule, “thou shalt not rape,” then can we call the man in a coma *moral*, since he does not rape?
+这样，“性”保留其使用的概念。昏迷中的人由于处于半昏迷状态，无法避免躺在床上。由于他无法避免自己的行为——或者在这种情况下不采取行动——他的行动不可能是不道德的。
+
+在这一点上，可以合理地提出反对意见：如果昏迷中的人不能不道德，那么他也不能道德。然而，我们早些时候说过，不道德行为的反面必须是道德的。如果我们提出道德规则，“你不应该强奸”，那么我们可以称他为昏迷道德，因为他没有强奸？
 
 #### Capacity
 
