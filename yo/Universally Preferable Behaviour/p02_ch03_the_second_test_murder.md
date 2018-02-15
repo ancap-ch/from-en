@@ -32,7 +32,7 @@ Níbí yìí lẹẹkan sí a ó ri pe ìlànà UPB duro ni òtítọ́ nípa ti
 
 We could take the same approach to the question of assault, but the arguments would be identical to those of rape and murder, so for the sake of brevity, we shall continue.
 
-Ki a wa pada sí ìbéèrè olè jíjà. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
+Ki a wa pada sí ìbéèrè olè jíjà. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. A ti ṣe ìwádìí ìṣirò to sàlàyé fún wa bí a ti lè mú bọọlu, èyí sì jẹ ìbẹrẹ tó ṣe kókó.
 
 ### Ìdáàbòbò ara ẹni?
 
