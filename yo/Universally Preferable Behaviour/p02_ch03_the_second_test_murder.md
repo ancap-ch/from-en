@@ -36,4 +36,4 @@ Let us now turn to the question of theft. If this framework holds true here as w
 
 ### Ìdáàbòbò ara ẹni?
 
-We have skirted over the issue of self-defence with regards to murder, though it is scarcely necessary to examine it in the case of rape. This is not because the issue of self-defence is either self-evident or uncomplicated, but rather because the complications that exist can be dealt with more comprehensively after we look at the question of theft.
+A tí kọjá lórí ọrọ ìdáàbòbò ara ẹni pẹlú àkíyèsí sí ipaniyàn, bí ó tilẹ̀ jẹ́ wípé kò ní lò àyẹwò níbi ìṣẹlẹ ifipábanílopọ̀. This is not because the issue of self-defence is either self-evident or uncomplicated, but rather because the complications that exist can be dealt with more comprehensively after we look at the question of theft.
