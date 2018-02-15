@@ -94,13 +94,13 @@ Bumabalik ang huling pagkakataon sa isang kwarto ni Bob at Doug, ipakilala natin
 
 Ngayon ay mayroon nang tatlong tao sa loob sa kuwarto, maaari na nating tignan ang prinsipyo "mga patakaran ng nakakarami.".
 
-Kung si Bob, Doug at Jane ay kukuha ng isang "boto" sa kung oo o hindi moral ang panggagahasa kay Jane, kaming lahat ay uurong sa isang hindi makatarungan at imoral na lugar. Malinaw, kahit na si Jane ay "hindi boboto," hindi namin itinuturing ang resultang panggagahasa na maaaring baguhin sa isang moral na mabuting gawa.
+Kung si Bob, Doug at Jane ay kukuha ng isang "boto" sa kung oo o hindi moral ang panggagahasa kay Jane, kaming lahat ay uurong sa isang hindi makatarungan at imoral na lugar. Malinaw, kahit na si Jane ay "natalo sa boto," hindi namin itinuturing ang resultang panggagahasa na maaaring baguhin sa isang moral na mabuting gawa.
 
 Bakit hindi?
 
-Mabuti, UPB ay hindi makikilala ang pagsama-sama ng katotohanan, dahil ang "nakakarami" ay may konseptwal na tag; ito ay hindi umiiral sa totoong buhay, akahit ano higit sa "Diyos" o sa "pamahalaan" gawin. Gayon na angkinin ang konsepto ng "karamihan" sa anumang uri ng moral ay lubusang hindi wasto - ito ay parang sinasabi na "Ang lupang tinubuan" na magdadalang tao ang isang babae, o kaya ang isa ay uupo sa salitang "upuan."
+Mabuti, UPB ay hindi makikilala ang pagsama-sama ng katotohanan, dahil ang "nakakarami" ay may konseptwal na tag; ito ay hindi umiiral sa totoong buhay, kahit ano higit sa "Diyos" o sa "pamahalaan" gawin. Gayon na angkinin ang konsepto ng "karamihan" sa anumang uri ng moral ay lubusang hindi wasto - ito ay parang sinasabi na "Ang lupang tinubuan" na magdadalang tao ang isang babae, o kaya ang isa ay uupo sa salitang "upuan."
 
-Para sabihin na "ang karamihan" ay may karapatan o katangian na direktang sumasalungat sa karapatan o katangian ng isang indibidwal ay sumasalungat samakatwirang prinsipyo, dahil anumang konseptwal na pagpapangkat ay magiging wasto lamang sa pamamagitan ng tamang pagkakakilanlan ng mga katangian ng isang indibidwal. Kung sasabihin ko na "mammals" mainit-init na dugo na nialang, mamaari ko bang lohikal na ibilang sa tatlong pastik na flamingo sa kategorya na "mammal"?
+Para sabihin na "ang karamihan" ay may karapatan o katangian na direktang sumasalungat sa karapatan o katangian ng isang indibidwal ay sumasalungat sa makatwirang prinsipyo, dahil anumang konseptwal na pagpapangkat ay magiging wasto lamang sa pamamagitan ng tamang pagkakakilanlan ng mga katangian ng isang indibidwal. Kung sasabihin ko na "mammals" mainit-init na dugo na nilalang, mamaari ko bang lohikal na ibilang sa tatlong pastik na flamingo sa kategorya na "mammal"?
 
 Siyempre hindi.
 
@@ -114,9 +114,9 @@ Pwede ba akong gumawa ng patakarang moral na nagsasabi: "na ang karamihan ay dap
 
 Siyempre kaya ko, ngunit hindi ito magiging wasto o totoo.
 
-Tanging ang *mga indibidwal<0/> ang kumilos - ang "karamihan" ay hindi gumagawa. Kung ang alituntuning moral ay kayang baguhin kapag ang isang tiyak na bilang ng mga tao ay magsama-sama, pagkatapos ang UPB aypatuloy na lumalabag.</p> 
+Tanging ang *mga indibidwal* na gawain - ang "karamihan" ay hindi gumagawa. Kung ang alituntuning moral ay kayang baguhin kapag ang isang tiyak na bilang ng mga tao ay magsama-sama, pagkatapos ang UPB ay patuloy na lumalabag.
 
-Kung ito ay moral para ka Bob at Doug na gahasain si Jane dahil meron silang "hindi pagboto sa kanya," ano ang mangyayari sa dalawang kaibigan ni Jane na nagpakita at bumoto laban kay Bob at Doug na makademonyong hanagarin?
+Kung ito ay moral para kay Bob at Doug na gahasain si Jane dahil meron silang "hindi pagboto sa kanya," ano ang mangyayari sa dalawang kaibigan ni Jane na nagpakita at bumoto laban kay Bob at Doug na makademonyong hanagarin?
 
 Mabuti, biglaang si Bob at Doug ang natalo, at ang panggagahasa ay magiging "masama" para sa kanila ulit.
 
