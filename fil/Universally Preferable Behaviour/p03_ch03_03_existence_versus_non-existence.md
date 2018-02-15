@@ -84,11 +84,11 @@ Dito natin makikita ang parehong mga isyu na tulad ng nasa itaas. Sinabi ni Bob 
 
 Sa katulad na paraan, kung ang isang tao ay sinasabi na ang kanyang konsepto ay tinatawag "na pamahalaan" pinapatunayan nya ang pagnanakaw sa aking ari-arian, pagkatapos kaya kong sabihin na ang aking konsepto na tinatawag "na laban sa pamahalaan" nagpapatunay sa aking *pagpapanatili* ng aking ari-arian, ang pareho kaming pantay "wasto" sa aming mga pangangatwiran.
 
-If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
+Kung ang nangongolekta ng buwis ay sinasabi na ang konsepto na tinatawag na "pamahalaan" ay nagbibigay katwiran ang kanyang pagnanakaw sa *aking* ari-arian, hindi ang pagpapanatili ko nito, gayon ay wala kaming karagdagang darating. Puwede niyang kuhanin ang aking isang libong dolyar, pero puwede akong manawagan ang aking konsepto sa "pagnanakaw" na ibalik ang pera, at ang kanayang moral na teyorya ay nag-uutos sa amin na gugulin ang aming watitirang bahagi ng walang hanggan na ibigay at ibalik ang isang libong dolyar.
 
-#### UPB And "The Majority"
+#### UPB at "Ang Nakakarami"
 
-UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
+Ang UPB ay hindi nagpapahintulot para sa naipong mga indibidwal na pawalang bisa o baliktarin ang mga katangian ng bawat tao. Sampung leon ay hindi makakgawa ng isang elepante, isang pamahalaan, o isang Diyos. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
 
 Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
 
