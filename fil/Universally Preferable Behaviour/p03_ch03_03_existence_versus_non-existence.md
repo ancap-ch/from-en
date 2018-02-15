@@ -74,7 +74,7 @@ As you can see, if *Bob* has the right to make up imaginary obligations and impo
 
 In other words, every imaginary abstract justification for the use of force can be countered by another imaginary abstract justification for the use of force. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Thus neither of us can possess the ability to impose our imaginary obligations on others.
 
-#### Religion And UPB
+#### Relihiyon at UPB
 
 The same holds true for religion.
 
