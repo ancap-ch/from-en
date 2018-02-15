@@ -62,7 +62,7 @@ Kapag kinuha natin ang UPB na balangkas at i-aplay ito sa moral na panukala tung
 
 Ang panukala ay pinaka palaging ginagamit upang bigyan-katwiran ang kapangyarihan ng pamahalaan na: "ang pamahalaan ay mayroong karapatan na kunin ang aking pera." Ito, gayunman, ay isang lubos na tumpak at maling pahayag. Ang "pamahalaan" ay walang karapatan na kunin ang iyong pera, na kung saan ang "pamahalaan" ay isang konsepto lamang, isang abstract naglalarawan sa isang natukoy na grupo ng mga tao. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
 
-“*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
+“*Ang mga tao ay maaaring makatanggap ng pera mula sa iba pang mga tao. kung gumawa sila ng isang haka-hakang ahensiya na nagpapawalang-bisa sa kanilang mga aksyon.*”
 
 If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
 
