@@ -72,11 +72,11 @@ Ano kaya ang magiging reaksyon ni Doug? Tandaan, ayon sa UPB, ang anumang wasto 
 
 Tulad ng nakikita mo, kung *Bob* ang may karapatan upang gumawa ng mga haka-hakang obligasyon at ipilit ito kay Doug, pagkatapos * Doug* ay may karapatan na gumawa ng haka-hakang obligasyon at ipilit ito kay Bob. Malinaw, kami ay madali matatapos sa isang perpektong pagkamatay. Kung ang moralidad na mabuti na magpataw ng mga tungkulin na ginawa sa iba pang mga tao, ngunit imposibleng magawa ito kung *ang lahat* ay nagtataglay ng kakayahang iyon, kung ganon ang moralidad ay magiging imposible. Ang tanging paraan ni Bob ay maipataw niya ang kanyang ginawang obligasyon kay Doug kung si Doug ay tatangging maipataw ang kanyang mga ginawang obligasyon kay Bob - kaya tao ay may sitwasyon na kung saan ano ang moral sa isang tao ay maaari lamang makamit sa pamamagitan ng ibang tao na kumikilos sa mga kontra moral na paraan. Ang kabutihan ay gayon lamang mapapagana ng bisyo, na kung saan ay imposible - at kami ay sumasalungat sa batas ng moral para sa dalawang tao sa kaparehong sitwasyon, na kung saan UPB ay agad na tinanggihan ay hindi wasto.
 
-In other words, every imaginary abstract justification for the use of force can be countered by another imaginary abstract justification for the use of force. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Thus neither of us can possess the ability to impose our imaginary obligations on others.
+Sa madaling salita, ang bawat haka-hakang abstrak na pagbibigay-katwiran para sa paggamit ng puwersa ay maaari lamang tapatan sa pamamagitan ng isa pang haka-hakang abstrak na pagbibigay katwirann para sa paggamit ng puwersa. Kung ako ay may haka-hakang kaibigan na makakapagpatunay ng lahat ng aking ginagawa, sa ganyon *ikaw* rin ay magkakaroon ng haka-hakang kaibigan na makakapagpatunay ng lahat ng iyong ginagawa. Gayon man kahit sino sa ating dalawa ay maaaring angkinin ang kakayahan na magpataw ang ating haka-hakang obligasyon sa iba.
 
 #### Relihiyon at UPB
 
-The same holds true for religion.
+Ang parehong ito ay hinahawakan ang katotohanan para sa relihiyon.
 
 The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
 
