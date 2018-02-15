@@ -30,9 +30,9 @@ Thus, since the statement “I can shoot a man in his sleep any time I want” c
 
 Níbí yìí lẹẹkan sí a ó ri pe ìlànà UPB duro ni òtítọ́ nípa ti ìpaniyàn. Àlàyé ìwà kan ṣoṣo tó ní ìjẹ́risí nipa ti ìpaniyàn je wípé ìwà àìdá ni, tàbí tí ó jẹ kíkọ̀ lágbayé.
 
-We could take the same approach to the question of assault, but the arguments would be identical to those of rape and murder, so for the sake of brevity, we shall continue.
+A lè gbà ọnà kànnà wo ìbéèrè ìjà, ṣugbọn awọn Ijiyan yíò jọ tí ifipábanilopọ̀ ati ìpaniyàn, ní kúkúrú, a ó ma ba ọrọ lọ.
 
-Ki a wa pada sí ìbéèrè olè jíjà. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. A ti ṣe ìwádìí ìṣirò to sàlàyé fún wa bí a ti lè mú bọọlu, èyí sì jẹ ìbẹrẹ tó ṣe kókó.
+Ki a wa pada sí ìbéèrè olè jíjà. Ti ìlànà yìí ba jẹ òtítọ́ níbi yìí bákanáà, a jẹ wípé a ti jẹ tẹtẹ mẹta tó pé nípa agbọye ìwà tó ní àláfíà, ti a sì tí rí ìdánilójú fún àwọn ìgbàgbọ ti a ni tẹlẹ. A ti ṣe ìwádìí ìṣirò to sàlàyé fún wa bí a ti lè mú bọọlu, èyí sì jẹ ìbẹrẹ tó ṣe kókó.
 
 ### Ìdáàbòbò ara ẹni?
 
