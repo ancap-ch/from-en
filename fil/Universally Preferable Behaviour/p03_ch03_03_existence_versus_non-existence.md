@@ -78,11 +78,11 @@ Sa madaling salita, ang bawat haka-hakang abstrak na pagbibigay-katwiran para sa
 
 Ang parehong ito ay hinahawakan ang katotohanan para sa relihiyon.
 
-The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
+Ang pahayag: "Ikaw ay dapat sumunod sa akin dahil Ang diyos ang naguutos nito," kailangang banggitin ng mas tumpak na."ang isang nilalang na ginawa ko upang inutos sayo na sundin ako." Ang hinihinging prinsipyo ng UPB, ay: "Ang mga tao ay dapat magpataw ng mga hindi piniling na mga positibong obligasyon sa iba, at patunayan iyong mga obligasyon ayon sa haka-hakang nilalang
 
-Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+Dito natin makikita ang parehong mga isyu na tulad ng nasa itaas. Sinabi ni Bob kay Doug: "Kailanangan mong ibigay sa akin ang iyong layter, dahil mayroon akong haka-haka na kaibigan na nagsasabi sayo na." Natural na sumagot si Doug: "Hindi mo kailangan na tanungin ako para sa iyong layter, dahil *aking * haka-hakang kaibigan ay pinagbabawalan ka." Kung ang "mga utos" ni Bob ay hindi wasto, pagkatapos ang "kautusan" ni Doug ay panatay na wasto, at kaya tigilan na nila ang isa't-isa.
 
-In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
+Sa katulad na paraan, kung ang isang tao ay sinasabi na ang kanyang konsepto ay tinatawag "na pamahalaan" pinapatunayan nya ang pagnanakaw sa aking ari-arian, pagkatapos kaya kong sabihin na ang aking konsepto na tinatawag "na laban sa pamahalaan" nagpapatunay sa aking *pagpapanatili* ng aking ari-arian, ang pareho kaming pantay "wasto" sa aming mga pangangatwiran.
 
 If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
 
