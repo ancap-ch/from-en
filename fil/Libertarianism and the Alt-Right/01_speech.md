@@ -126,15 +126,15 @@ Karamihan, kung hindi lahat, mga social pathology na sinadya ang Western kontemp
 
 Tulad ng*akademya*at ang akademikong mundo ay malamang na hindi maglaro ng anumang makabuluhang papel sa isang libertarian na diskarte para sa pagbabago ng lipunan, kaya sa pulitika at mga partidong pampulitika - pagkatapos, ito ang pangwakas na layunin ng libertarianism upang tapusin sa lahat ng pulitika, at sumasailalim sa lahat ng ugnayan ng tao at mga kontrahan sa pribadong batas at mga pamamaraan ng batas sibil. Siguraduhing, sa ilalim ng kasalukuyang, lahat ng mga pulitikal na kondisyon ng partido ay hindi maaaring lubusang maiiwasan ang partisipasyon ng partido. Gayunpaman, sa anumang naturang kaguluhan, dapat isaalang-alang ng mabuti at bantayan ang masasamang impluwensiya ng kapangyarihan at ang pang-akit ng pera at mga perks na kasama nito. At upang mabawasan ang panganib at tukso na ito, ang mga pagsisikap ng rehiyon at lokal ay dapat na hinahangad kaysa sa pambansang pulitika, at doon upang itaguyod ang radikal na adyenda ng desentralisasyon: isang pagpapaalis at tahimik na paghihiwalay, pahiwalay at paghihiwalay. Gayunpaman, ang pinakamahalaga, dapat nating pag-aralan ang motto ng buhay ni Ludwig von Mises: Huwag magpadala sa kasamaan, ngunit patuloy na maging mas matapang laban dito. Iyon ay, kailangan nating magsalita kailan man at saanman, maging sa pormal o di-pormal na mga pagtitipon, laban sa sinumang patting sa atin ngayon lamang sa pamamagitan ng pamilyar na "pulitikal na tama" na mga pulutong at walang -Bold balderdash at malinaw na nagsasabi: "Hindi. Hell no. Dapat kang sumang-ayon. "Sa parehong oras, ang naghaharing elites, *akademya* at ang MSM ay binigyan ng isang kumpletong ideya, ito ay nangangailangan ng isang magandang bahagi ng lakas ng loob na gawin ito. Ngunit kung hindi tayo sapat na matapang upang gawin ito ngayon at sa gayon magtakda ng isang halimbawa para sundan ng iba, ang mga bagay ay lalong mas masahol at mas mapanganib sa hinaharap, at kami, ang Western sibilisasyon at ang mga Western na ideya ng Kalayaan at kalayaan ay wiped out at maglaho.
 
-[^1]: That must be appropriated with our own nature-given, i.e., un-appropriated, body.
+[^1]: Iyon ay dapat na nakalaan sa ating sariling likas na paraan, i.e., un-allocated, katawan.
 
-[^2]: Property.
+[^2]: Ari-arian.
 
-[^3]: Conflict-free.
+[^3]: Walang salungatan.
 
-[^4]: And all later owners connected to him through a chain of voluntary exchanges.
+[^4]: Ang lahat ng may-ari nito ay libre sa isang chain ng boluntaryong palitan.
 
-[^5]: Whose leadership, to its credit, after Trump’s election victory, quickly broke with Trump when he turned out to be just another presidential warmonger.
+[^5]: Kaninong pamunuan, sa kredito nito, matapos ang tagumpay ng halalan ni Trump, mabilis na sinira si Trump nang siya ay naging isa pang prime presidential president.
 
 [^6]: *Aka* Mencius Moldbug.
 
