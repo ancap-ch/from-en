@@ -118,9 +118,9 @@ O que deixa apenas…
 
 ### O Mal
 
-If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil,” passes the “coma test,” insofar as it is impossible for a man in a coma to rape someone.
+Se o estupro é definido como mau, então deve envolver o *início* do uso da força, o que claramente faz. Além disso, a proposição: "o estupro é mau", passa o "teste do coma", na medida em que é impossível que um homem em coma viole alguém.
 
-In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
+Além disso, se a violação é má, então *não* violar deve ser bom - assim, dois homens numa habitação podem ser morais ao mesmo tempo, simplesmente não se violando.
 
 Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
 
