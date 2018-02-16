@@ -1,49 +1,49 @@
-## Initiation
+## Ang Pagpapasimula
 
-A reasonable moral theory should be able to explain all of the above universal standards, just as a reasonable theory of physics should be able to explain how a man can unconsciously calculate the arc of a thrown baseball, and catch it.
+Ang isang makatwirang moral na teorya ay dapat na maipaliwanag ang lahat ng nasa itaas na mga pamantayan sa uniberso, tulad ng isang makatwirang teorya ng pisika ay dapat na maipaliwanag kung paano ang isang tao ay maaaring hindi nakakalkula ang arko ng isang itinapon baseball, at mahuli ito.
 
-If the framework of UPB can explain the above, then it will certainly have passed at least the “common sense” test.
+Kung ang balangkas ng UPB ay maaaring ipaliwanag ang nasa itaas, kung gayon tiyak na naipasa ito ng hindi bababa sa pagsusulit ng "karaniwang".
 
-This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
+Hindi ito nangangahulugan na ang ilang mga kamangha-mangha - kahit kagulat-gulat - ang mga konklusyon ay hindi maaaring magresulta mula sa aming teorya sa moralidad, ngunit hindi bababa sa dapat na namin ang naipasa ang unang sagabal ng nagpapaliwanag ng halata, bago pag-aralan ang na kung saan ay malayo mula sa halata.
 
-With that in mind, let us turn to the question of *initiation*.
+Sa pag-iisip na ito, ipaubaya natin ang tanong ng *pagsisimula*.
 
-A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
+Ang isang siruhano ay maaaring "itarak" sa iyo ng isang panistis, ngunit maaari naming madaling maunawaan na ang kanyang aksyon ay ibang-iba mula sa isang mugger na pag-tarak sa iyo ng isang kutsilyo.
 
-This difference can be understood through a further analysis of *initiation*.
+Ang pagkakaiba na ito ay maaaring maunawaan sa pamamagitan ng isang karagdagang pag-aaral ng *pagsisimula*.
 
-If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+Kung nakakuha ka ng kanser, maaari kang humiling ng isang siruhano na magpatakbo sa iyo. Ang dahilan na ang "pag-tarak" ng siruhano ay hindi imoral ay ang "sinimulan" ng kanser ang pag-atake sa iyong buhay at kalusugan. Ang siruhano ay kumikilos bilang isang "kahalili na ahente sa pagtatanggol sa sarili," tulad ng isang tao na naglalagay ng isang mugger na umaatake sa iyo. Ibinigay mo rin ang iyong pahintulot sa siruhano, at nakagapos sa kanyang pag-uugali sa pamamagitan ng isang partikular na kontrata.
 
-The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
+Gayunpaman, ang mugger na tumulak sa iyo ay nagsisimula sa isang pag-atake sa iyong buhay at kalusugan, kaya ang kanyang pag-atake ay ang moral *kabaligtaran* ng mga pagsisikap ng siruhano.
 
-If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Kung ako ay isang talamak at mahabang panahon na naninigarilyo, nakilahok ako sa kadena ng mga pangyayari na humantong sa aking kanser sa baga. Sa pamamagitan ng pagpapasimula at pagpapanatili ng ugali ng paninigarilyo, inilunsad ko ang isang kadena ng pananahilan na maaaring magresulta sa isang nakamamatay na kapighatian. Tiyak na posible para sa akin na makakuha ng kanser sa baga nang walang paninigarilyo - o usok nang hindi nakakakuha ng kanser sa baga - ngunit tiyak na nakaapekto ako sa mga posibilidad.
 
-Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
+Katulad din, posible para sa akin na iwanan ang aking pitaka sa isang park bench sa loob ng isang linggo, bumalik at makita pa rin itong nakaupo doon, ngunit sa pamamagitan ng pag-iwan dito doon para sa isang mahabang panahon, tiyak na naapektuhan ko ang mga posibilidad na ito ay nawala.
 
-On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
+Sa kabilang banda, kung manatili ako sa bahay gabi-gabi, hindi ako eksaktong mag-agaw ng krimen, at kung ang isang baliw ay sumalakay sa aking tahanan at pinapansin ako, hindi ko maaring masisi ang anumang dahilan na ginampanan ko sa pangyayari.
 
-### The Non-Aggression Principle (NAP)
+### Ang Non-Aggression Principle (NAP)
 
-A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+Ang isang panuntunan sa moral ay madalas na iminungkahi na tinatawag na *non-aggression principle*, o NAP. Tinatawag din itong pagiging isang "porcupine pacifist," kung kaya ang isang porcupine ay gumagamit lamang ng "puwersa" sa pagtatanggol sa sarili Ang NAP ay karaniwang ang panukala na "ang pagsisimula ng paggamit ng puwersa ay mali sa moral." O, upang ilagay ito nang higit pa sa mga tuntunin ng aming pag-uusap: "Ang di-pagsisimula ng puwersa ay higit na higit sa lahat".
 
-When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
+Kapag sinusuri natin ang isang prinsipyo tulad ng NAP, talagang may pitong mga posibilidad lamang: tatlo sa negatibo, tatlo sa positibo, at isang niyutral:
 
-- The initiation of the use of force is always morally wrong.
-- The initiation of the use of force is sometimes morally wrong.
-- The initiation of the use of force is never morally wrong.
-- The initiation of the use of force has no moral content.
-- The initiation of the use of force is never morally right.
-- The initiation of the use of force is sometimes morally right.
-- The initiation of the use of force is always morally right.
+- Ang pagsisimula ng paggamit ng puwersa ay laging mali sa moral.
+- Ang pagsisimula ng paggamit ng puwersa ay kung minsan ay mali sa moral.
+- Ang pagsisimula ng paggamit ng puwersa ay hindi kailanman mali sa moral.
+- Ang pagsisimula ng paggamit ng puwersa ay walang moral na nilalaman.
+- Ang pagsisimula ng paggamit ng puwersa ay hindi tama sa moral.
+- Ang pagsisimula ng paggamit ng puwersa ay kung minsan ay tama sa moral.
+- Ang pagsisimula ng paggamit ng puwersa ay palaging tama sa moral.
 
-As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
+Tulad ng nakita natin sa itaas, gayunpaman, ang UPB ay balangkas ng "lahat o wala". Kung ang isang aksyon *ay higit na higit sa lahat *, kung gayon, hindi ito maaaring limitado ng indibidwal, heograpiya, oras atbp. Kung mali sa pagpatay sa Algiers, kung gayon mali rin ang pagpatay sa Belgium, Estados Unidos, sa North Pole at sa buwan. Kung mali sa pagpatay kahapon, kung gayon ay hindi ito tama sa pagpatay bukas. Kung mali para kay Bob sa pagpatay, dapat din itong mali para kay Doug sa pagpatay.
 
-Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
+Ang pag-uniting ng NAP sa UPB, sa gayon ay nagbibigay-daan sa amin na pahinain ang pitong mga pahayag na ito sa tatlong:
 
-1. It is universally preferable to initiate the use of force.
-2. It is universally preferable to not initiate the use of force.
-3. The initiation of the use of force is not subject to universal preferences.
+1. Higit na mas mainam ang pagsisimula ng paggamit ng puwersa.
+2. Higit na mas mainam ang pagsisimula ng paggamit ng puwersa.
+3. Ang pagsisimula ng paggamit ng puwersa ay hindi napapailalim sa mga kagustuhan sa unibersal.
 
-This is the natural result of applying the requirement of rational consistency to ethical propositions. A rational theory cannot validly propose that opposite results can occur from the same circumstances. A scientific theory cannot argue that one rock must fall down, but another rock must fall up. Einstein did not argue that E=MC^2^ on a Thursday, but that E=MC^3^ on a Friday, or on Mars, or during a blue moon. The law of conservation – that matter can be neither created nor destroyed – does not hold true only when you really, really want it to, or if you pay a guy to make it so, or when a black cat crosses your path. The laws of physics are not subject to time, geography, opinion or acts of Congress. This consistency must also be required for systems of ethics, or UPB, and we will subject generally accepted moral theories to this rigour in Part Two, in a few pages.
+Ito ang natural na resulta ng pag-aaplay ng kahilingan ng makatuwirang pare-pareho sa mga etikal na panukala. Ang isang makatuwirang teorya ay hindi maaaring balak na ipanukala na ang mga kabaligtaran ng mga resulta ay maaaring mangyari mula sa parehong sitwasyon. Ang isang siyentipikong teorya ay hindi maaaring magtaltalan na ang isang bato ay dapat mahulog, ngunit ang isa pang bato ay dapat mahulog. Hindi pinagtatalunan ni Einstein na E=MC^2^ sa isang Huwebes, ngunit ang E=MC^3^ sa Biyernes, o sa Mars, o sa panahon ng asul na buwan. Ang batas ng pag-iingat - bagay na maaaring hindi nilikha o pupuksain - ay hindi totoo lamang kung talagang, gusto mo talaga ito, o kung babayaran mo ang isang tao upang gawin ito, o kapag ang isang itim na pusa ay tumatawid sa iyong landas. Ang mga batas ng physics ay hindi napapailalim sa oras, heograpiya, opinyon o mga gawa ng Kongreso. Dapat ding kailangan ang pare-pareho na ito para sa mga sistema ng etika, o UPB, at sasailalim sa aming mga paksa ang mga teoryang moral sa pangkaraniwang ito sa Ikalawang Bahagi, sa ilang pahina.
 
-However, since we are dealing with the question of *consistency*, it is well worth taking the time to deal with our capacity for *inconsistency*.
+Gayunpaman, dahil pinag-uusapan natin ang tanong ng *pagiging pare-pareho*, angkop ang paglalaan ng oras upang harapin ang ating kakayahan para sa *hindi pagkakapare-pareho*.
