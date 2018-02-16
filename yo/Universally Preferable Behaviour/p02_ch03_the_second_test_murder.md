@@ -18,7 +18,7 @@ Awọn kíkọ silẹ ti a mú lò fún àlàyé "ifipábanilopọ̀ dára" tún
 
 Itakora kékeré kan náà wà nínú èyíkéyìí ìjẹ́risí àgbáyé lori ìwà ìpaniyàn, gẹgẹbi ó ti wa fún ìwà ifipábanilopọ̀. Ti Bob ba gbìyànjú láti fún Doug lọrùn, ṣugbọn ti Doug kò gbà fun, báwo ni Bob yíò ṣe fi ọgbọn jẹrìí ìhùwàsí rẹ rẹ ni ìlànà UPB?
 
-Well, he could say something like: “a man’s life can be taken any time you want to” – but of course, since UPB is the only valid test of moral propositions, this justifies Doug killing Bob as much as it does Bob killing Doug. Thus Bob can only justify strangling Doug if Doug does not resist in any way – but of course if Doug does not resist, then can it really be considered murder?
+Pàápàá, ọ lè sọ ọrọ kàn gẹgẹbi: "ẹ̀mí ọkùnrin kan ṣe gbà nígbà kúgbà tó bá fẹ" - ṣugbọn pàápàá, nígbàtí UPB jẹ ìdánwò kàn ṣoṣo tó ní itẹwọgba fún àlàyé ìwà, èyí tó jẹrisi kí Doug pa Bob gẹgẹbi yíò ti jẹri kí Bob pá Doug. A jẹ wípé Bob lè jẹrisi fífún Doug lọrùn ti Doug kò bá dènà lọnà kánkan - ṣugbọn pàápàá ti Doug kò bá kọ fun, Ṣe a lè wà gba èyí ni ìpaniyàn?
 
 Let us say that Bob then adjusts his premise to say: “I can shoot a man in his sleep any time I want.” The problem here is not only the sleep that Bob will lose based on his universal premise, but also the logical impossibility of reversing moral propositions based on the differences in the states of sleeping and waking. Biologically speaking, a man does not become the *opposite* of a man when he falls asleep, any more than gravity reverses when he blinks.
 
