@@ -148,9 +148,9 @@ Tulad ng*akademya*at ang akademikong mundo ay malamang na hindi maglaro ng anuma
 
 [^11]: Alin, siyempre, ang dahilan kung bakit inanyayahan sila dito.
 
-[^12]: Which is entirely compatible with libertarianism and its *desideratum* of freedom of association and opposition to forced integration.
+[^12]: Na ganap na katugma sa libertarianism at ang *desideratum* ang kalayaan ng asosasyon at pagsalungat sa pinilit na pagsasama.
 
-[^13]: Which is antithetical to libertarianism and inimical to human prosperity.
+[^13]: Na kung saan ay antitetiko sa libertarianism at ipinagmamalaki sa kasaganaan ng tao.
 
 [^14]: Let me hasten to add here that, despite my misgivings about his “economics,” I still consider Pat Buchanan a great man.
 
