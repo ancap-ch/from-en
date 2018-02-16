@@ -142,9 +142,9 @@ Assim, parece que a única possibilidade lógica de violação é que o *não* v
 
 O fato de que a estrutura do CUP validou de forma lógica e efectiva a proposição moral de que o estupro é mau - não "bom" ou "esteticamente preferível", ou "pessoalmente preferível", ou "moralmente neutro" - é um bom sinal. Não prova sem sombra de dúvida que o CUP irá validar, logicamente todas as proposições morais de "sentido comum", mas o primeiro obstáculo foi ultrapassado, e isso deve dar-nos um óptima motivo para a celebração. Se eu fosse um físico a propor uma Teoria do Campo Unificado, e a aplicação da minha teoria tivesse previsto correctamente onde iria cair uma bola de baseball, poderia ficar, com todo o direito, extremamente satisfeito.
 
-Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
+A teoria da relatividade de Einstein predisse que a luz a luz se dobraria ao redor de um poço de gravidade - quando isso foi confirmado por primeira vez, não provou a sua teoria sem sombra de dúvida, mas provou que a teoria *poderia* ser verdadeira, o que foi um grande avanço. A primeira aprovação é sempre a mais difícil, porque é tão fácil conseguir as coisas erradas e o erro sempre supera a precisão.
 
-The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+A estrutura CUP corroborou, correctamente, a nossa premissa moral de que a violação é má. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
 
 [^1]: This is very different from a physical assault, which destroys your capacity for free choice.
 
