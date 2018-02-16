@@ -24,9 +24,9 @@ Paniniwala na maaaring tama, mali, o * hindi makatotohanan*. Ito ay totoong pani
 
 Maaari nating sabihin na:
 
-1. Proposition X is true because it is rational.
-2. Proposition Y is false because it is irrational.
-3. Proposition Z is true because I *want* it to be true.
+1. Ang Panukala X ay toto dahil ito ay makatuwiran.
+2. Ang panukala Y ay hind totoo dahil ito ay hind makatwiran.
+3. Ang panukala Z ay toto dahil ito ang *gusto* kong maging totoo ito.
 
 Ang ikatlong pahayag ay isang kumpletong kontradiksyon sa sarili. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
 
