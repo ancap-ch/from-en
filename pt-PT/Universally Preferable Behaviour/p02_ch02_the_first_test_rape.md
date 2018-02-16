@@ -144,11 +144,11 @@ O fato de que a estrutura do CUP validou de forma lógica e efectiva a proposiç
 
 A teoria da relatividade de Einstein predisse que a luz a luz se dobraria ao redor de um poço de gravidade - quando isso foi confirmado por primeira vez, não provou a sua teoria sem sombra de dúvida, mas provou que a teoria *poderia* ser verdadeira, o que foi um grande avanço. A primeira aprovação é sempre a mais difícil, porque é tão fácil conseguir as coisas erradas e o erro sempre supera a precisão.
 
-A estrutura CUP corroborou, correctamente, a nossa premissa moral de que a violação é má. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+A estrutura CUP corroborou, correctamente, a nossa premissa moral de que a violação é má. Este é um juízo necessário - mas não suficiente - para a prova, e apoia totalmente a investigação adicional. Portanto, vamos continuar…
 
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
+[^1]: Isto é muito diferente de uma agressão física, que destrói a sua capacidade de livre escolha.
 
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
+[^2]: Não pode argumentar que a violação não envolve uma preferência, já que a violação é um comportamento e como já o discutimos, todos os comportamentos envolvem preferência.
 
 [^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
 
