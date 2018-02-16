@@ -152,7 +152,7 @@ Tulad ng*akademya*at ang akademikong mundo ay malamang na hindi maglaro ng anuma
 
 [^13]: Na kung saan ay antitetiko sa libertarianism at ipinagmamalaki sa kasaganaan ng tao.
 
-[^14]: Let me hasten to add here that, despite my misgivings about his “economics,” I still consider Pat Buchanan a great man.
+[^14]: Hayaan akong magmadali upang idagdag dito na, sa kabila ng aking mga misgivings tungkol sa kanyang "ekonomya," itinuturing ko pa rin si Pat Buchanan na isang mabuting tao.
 
 [^15]: An endeavor, by the way, that has been ridiculed by Taki Theodoracopulos, a veteran champion of the paleo-conservative-turned-Alt-Right movement and Spencer’s former employer.
 
