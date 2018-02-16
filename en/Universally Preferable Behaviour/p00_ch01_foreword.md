@@ -1,56 +1,56 @@
 ## Foreword
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+In numerous tall tales, there lives a shocking brute of dynamite control, a mythical beast or a basilisk, which tyrannizes the encompassing grounds. The nearby villagers tremble before this beast; they forfeit their creatures, pay cash and blood in the expectations of pacifying its dangerous motivations.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+A great many people grovel under the shadow of this monster, calling their dread "judiciousness," however a couple – smashed maybe on valor or recklessness – choose to battle. After a seemingly endless amount of time, decade after decade, wave after flood of cheerful champions endeavor to coordinate their quality, temperance and sly against this appalling despot.
 
 Try – and fail.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+The mammoth is constantly godlike, so the villagers can't seek after time to free them of their dictator. The mammoth is never discerning, and wants to exchange, thus no transactions are conceivable.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+The edgy villagers' just seek is after a man to show up who can vanquish the monster.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Unavoidably, a man ventures forward who strikes everybody as absolutely garbled. He is a steady kid, a shoemaker's child, a pastry specialist's understudy – or some of the time, only a drifter.
 
-This book is the story of my personal assault on just such a beast.
+This book is the account of my own ambush on simply such a mammoth.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+This "mammoth" is the conviction that it is difficult to characterize a goal, sane, mainstream and logical moral framework. This "monster" is the dream that profound quality should perpetually be lost in the silly bogs of divine beings and governments, upheld for simply down to earth reasons, yet everlastingly missing intelligent avocation and clear definition. This "monster" is the dream that temperance, our most prominent delight, our most profound bliss, must be thrown away by common adults, and left in the tidy to be pawed at, paraded and abused by government officials and ministers – and guardians. This "mammoth" is the superstition that, without the tirades of guardians, the tormenting of divine beings or the weapons of governments, we can't be both balanced and great.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+This brute has cut down numerous incredible legends, from Socrates to Plato to Augustine to Hume to Kant to Rand.
 
 The cost to mankind has been enormous.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Since we have stayed unfit to characterize a normal arrangement of all inclusive profound quality, we have been compelled to incur religious frightfulness stories on our youngsters, or give weapons, detainment facilities and armed forces to a little imposing business model of callous controllers who call themselves "the state."
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Since what we call "morals" stays subjective and simply *cultural*, we unavoidably wind up depending on tormenting, dread and viciousness to authorize social tenets. Since morals do not have the levelheaded premise of the logical strategy, "ethical quality" stays buried in an inborn war of bleeding folklores, each pack battling like there's no tomorrow for control over individuals' constancy to "ethicalness."
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+We can't live without profound quality, yet we can't characterize ethical quality dispassionately – along these lines we remain interminably sentenced to purge lives of self important affectation, skeptical predominance or devout subjection.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Mentally, there are no higher stakes on the planet. Our inability to characterize target and discerning good guidelines has taken a toll a huge number of human lives, in the wars of religions and states.
 
 In many ways, the stakes are getting even higher.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+The expanded data stream of the Internet has raised the doubts of another age that what is called "ideals" is nothing more – or less – than the self-serving fables of their fraudulent older folks. The devout falsehoods told by those in specialist – and the complicity of the individuals who adore them – are clearer now than any time in recent memory.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+"Truth" has been uncovered as control; "ideals" as control; "dedication" as subjection, and what is called "ethical quality" has been uncovered as a strange manikin demonstrate intended to trap frail and frightful individuals into subjugating themselves.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+This acknowledgment has brought forth another age of skeptics, similarly as it did in nineteenth century Germany. These outrageous relativists hold their most vitriolic assaults for any individual who asserts any type of assurance. This post-present day age has outgrown the social bigotries of their aggregate histories, yet now see *all* truth as unimportant biased attestation. Like wide-looked at youngsters who have been scarred into pessimistic "intelligence," they see all correspondence as publicizing, all cases as purposeful publicity, and every single good urging as tricky burglary.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+Since we have no concession to a firm, target and levelheaded system for assessing moral suggestions, "ethical quality" stays buried in magic, and its inescapable end product of brutality. Similarly as, preceding the Enlightenment, religious organizations warred interminably for control over the edges of the nobility, so now do contending moral legends war for control over the state, and all its apparatus of pressure.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+Accordingly ethical quality stays, in respect to present day science, similarly as medieval "stargazing" did to current space science – a domain of fanciful folklore, upheld through narrating, dangers, impulse and abuse – which effectively bars any genuine advance towards reality.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+This "mammoth" of relativistic morals lingers above us, going after us, defending tax collection, detainment, restriction and wars. It subjugates the youthful in state schools and Sunday seats; it captures the poor in the delicate gulags of welfare; it oppresses even the unborn in the endless wells of national obligations.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+As I wrote in my past book, "On Truth: The Tyranny of Illusion," the most crucial lie at the focal point of dubious moral speculations is that such hypotheses are constantly introduced to kids as goal and undeniable certainties, when in truth they are simple social bigotries. The reason that researchers needn't bother with a legislature or a Vatican is that researchers have a target procedure for settling question: the logical technique. The reason that dialect does not require a focal specialist to manage its development is that it depends on the "free market" of aggregated individual inclinations for style and utility.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+The reason that cutting edge ethical quality – and profound quality all through history – has dependably needed to depend first on the harassing of kids, and after that on the debilitating of grown-ups, is that it is a manipulative lie taking on the appearance of an idealistic truth.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+Truly we require ethical quality; the lie is that divine beings or governments can objectively characterize or fairly implement it.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+My objective in this book is to characterize an approach for approving good hypotheses that is objective, steady, clear, normal, exact – and *true*.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+I am completely mindful that, right now, you will probably be feeling a rising flood of distrust. I completely comprehend that the chances that some person out there on the Internet – the home universe of crazies – has some way or another tackled the philosophical issue of the ages are not especially high – actually, they would be so near zero as to be for all intents and purposes indistinct from it.
 
 Still, not *quite* zero.
 
