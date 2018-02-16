@@ -16,7 +16,7 @@ A lè wà ri pe àlàyé wípé "ipaniyan dára" kìí ṣe nkan ti kò mú ọp
 
 Awọn kíkọ silẹ ti a mú lò fún àlàyé "ifipábanilopọ̀ dára" tún ṣe ṣe mú lò níbí. Ipaniyan kò le jẹ ìwà láàrín dáadáa ati àìdá, nígbàtí ìdájọ́ tabi ìhùwàsí ìwà láàrín daada ati àìdá kò ṣe fi tipátipá ló lórí ẹlòmíràn, àti pé ipaniyan ni ìtumò má ní lò tipátipá lórí ẹlòmíràn.
 
-Itakora kékeré kan náà wà nínú èyíkéyìí ìjẹ́risí àgbáyé lori ìwà ìpaniyàn, gẹgẹbi ó ti wa fún ìwà ifipábanilopọ̀. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
+Itakora kékeré kan náà wà nínú èyíkéyìí ìjẹ́risí àgbáyé lori ìwà ìpaniyàn, gẹgẹbi ó ti wa fún ìwà ifipábanilopọ̀. Ti Bob ba gbìyànjú láti fún Doug lọrùn, ṣugbọn ti Doug kò gbà fun, báwo ni Bob yíò ṣe fi ọgbọn jẹrìí ìhùwàsí rẹ rẹ ni ìlànà UPB?
 
 Well, he could say something like: “a man’s life can be taken any time you want to” – but of course, since UPB is the only valid test of moral propositions, this justifies Doug killing Bob as much as it does Bob killing Doug. Thus Bob can only justify strangling Doug if Doug does not resist in any way – but of course if Doug does not resist, then can it really be considered murder?
 
