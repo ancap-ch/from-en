@@ -140,7 +140,7 @@ Assim, parece que a única possibilidade lógica de violação é que o *não* v
 
 ### Ufa!
 
-O fato de que a estrutura do CUP validou de forma lógica e efectiva a proposição moral de que o estupro é mau - não "bom" ou "esteticamente preferível", ou "pessoalmente preferível", ou "moralmente neutro" - é um bom sinal. Não prova sem sombra de dúvida que o CUP irá validar, logicamente todas as proposições morais de "sentido comum", mas o primeiro obstáculo foi ultrapassado, e isso deve dar-nos um óptima motivo para a celebração. If I were a physicist proposing a Unified Field Theory, and the application of my theory correctly predicted where a thrown baseball would land, I could justly be enormously pleased.
+O fato de que a estrutura do CUP validou de forma lógica e efectiva a proposição moral de que o estupro é mau - não "bom" ou "esteticamente preferível", ou "pessoalmente preferível", ou "moralmente neutro" - é um bom sinal. Não prova sem sombra de dúvida que o CUP irá validar, logicamente todas as proposições morais de "sentido comum", mas o primeiro obstáculo foi ultrapassado, e isso deve dar-nos um óptima motivo para a celebração. Se eu fosse um físico a propor uma Teoria do Campo Unificado, e a aplicação da minha teoria tivesse previsto correctamente onde iria cair uma bola de baseball, poderia ficar, com todo o direito, extremamente satisfeito.
 
 Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
 
