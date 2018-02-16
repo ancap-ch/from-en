@@ -150,6 +150,6 @@ A estrutura CUP corroborou, correctamente, a nossa premissa moral de que a viola
 
 [^2]: Não pode argumentar que a violação não envolve uma preferência, já que a violação é um comportamento e como já o discutimos, todos os comportamentos envolvem preferência.
 
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
+[^3]: Note-se que não posso propor que "as preferências pessoais *devam* ser violentamente infligidas a outras pessoas, o que seria uma violação do CUP, que afirma que as regras morais devem ser absolutas e universais - se não o forem, caem no território da APN e não podem ser infligidas a outros.
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]: Podemos evitar as situações que aumentam a probabilidade de estupro, mas não podemos evitar uma violação em progresso.
