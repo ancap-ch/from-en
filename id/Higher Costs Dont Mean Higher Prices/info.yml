@@ -1,134 +1,78 @@
 ---
 content_files:
-isi _ file:
   - 
     - essay.md
-    - esai.md
     - ""
 translation:
-terjemahan:
   language: id
-  bahasa: id
   is_translation: true
-  adalah_terjemahan: benar 
   this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/id/Higher Costs Dont Mean Higher Prices"
-  ini_proyek_url: "https://github.com/ancap-ch/from-en/tree/utopian/id/Higher Costs Dont Mean Higher Prices"
   fetch_translators: true
-  ambil_penerjemah: benar 
   fetch_reviwers: true
-  ambil_reviewer: benar  
   fetch_progress: true
-  mengambil_kemajuan: benar
 titles:
-judul:
   - Higher Costs~
-  - Biaya Tinggi~
   - '~~Dont Mean~~'
-  - '~~tidak berarti~~
   - Higher Prices
-  - harga lebih tinggi
 discussions:
-diskusi:
   - 
-    - https://en.ancap.ch/t/5
     - https://en.ancap.ch/t/5
     - Ancap Channel
-    - Saluran Ancap
 more_infos:
-lebih _ informasi:
   - 
-    - https://www.google.com
     - https://www.google.com
     - Website name
-    - nama situs
 tags:
-tag :
   - Some Tag
-  - Beberapa Tag
   - Another Tag
-  - Tag lain
   - And so on
-  - Dan seterusnya
 tag_prefix: "https://en.ancap.ch/tags/"
-awalan_tag: "https://en.ancap.ch/tags/"
 persons:
-orang:
   - 
     person: [ ]
-    orang: [ ]
     identifier: "template_person"
-    
     rule: "author"
-    aturan: "penulis"
   - 
     person: [ ]
-    orang: [ ]
     identifier: "template_person"
     rule: "collaborator"
-    aturan: "kolaborator"
   - 
     person: [ ]
-    orang: [ ]
     identifier: "template_person"
     rule: "thanked"
-    aturan: "berterima kasih"
   - 
     person: [ ]
-    orang: [ ]
     identifier: "template_person"
     rule: "translator"
-    aturan: "penerjemah"
   - 
     person: [ ]
-    orang: [ ]
     identifier: "template_person"
     rule: "reviwer"
-    aturan: "resensi"
   - 
     person_: [ ]
-    orang: [ ]
     identifier: "template_person"
     rule: "cover_artist"
-    aturan: "penutup_artis"
   - 
     person: [ ]
-    orang: [ ]
     identifier: "template_person"
     rule: "artist"
-    aturan: "artis"
 resources:
-sumber:
   - 
     resource: [ ]
-    sumber: [ ]
     rule: "front_cover"
-    aturan: "penutup_depan"
     content: "cover.png"
-    isi: "cover.png"
     websites:
-    situs web:
       - Resource website
-      - situs sumber daya
     description: Resource description
-    deskripsi: Deskripsi sumber daya
     persons:
-    orang:
       - "template_person"
 targets:
-target:
   - 
     target: [ ]
     name: article
-    nama: artikel
     reset_footer_active: false
-    reset_footer_aktif: salah
     reset_footer_depth: 0
-    reset_footer_kedalaman: 0
     clear_page_active: true
-    bersih_halaman_aktif: benar
     clear_page_depth: 1
-    kedalaman_halaman_bersih: 1
     toc_depth: 3
-    kedalaman_mendalam: 3
 version: "0.1.2"
-versi: "0.1.2"
