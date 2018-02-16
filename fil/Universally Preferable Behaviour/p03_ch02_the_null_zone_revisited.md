@@ -40,7 +40,7 @@ Kung sasabihin ko na ang dalawa ay dinagdagan ng dalawa ay lima, ako ay gumagawa
 
 Sa pangkalahatan, ang mga tao ay sinusubukang gumawa ng paraan para "isalaba" ang kanilang anti-empirical at anti-lohikal na paniniwala upang gumawa ng "alternatibong kaharian" o kaya "alternatibong daigdig" na kung saan ang kanilang mga sariling kondisyon ay nag-papahayag na maaaring maging totoo.
 
-If I say: “A square circle exists,” I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
+Kung sinabi ko: "na ang kuwadro at bilog ay mayroon" ako'y nag-papahayag na maliwanag na imposible ito sa loob ng daigdig na ito. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
 
 If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
 
