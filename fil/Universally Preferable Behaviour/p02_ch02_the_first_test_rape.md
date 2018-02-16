@@ -1,16 +1,16 @@
 ## Ang Unang Pagsubok: Panggagahasa
 
-Kahit na ito ay isang hindi kasiya-siyang paksa upang talakayin, Ang panggagahasa ay walang alinlangan *Hind bababa sa* hindi siguradong aksyon na dapat isama ang anumang moral na teorya na dapat maglaman. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
+Kahit na ito ay isang hindi kasiya-siyang paksa upang talakayin, Ang panggagahasa ay walang alinlangan *Hind bababa sa* hindi siguradong aksyon na dapat isama ang anumang moral na teorya na dapat maglaman. Ang pag patay ay puwedeng maging komplekado sa pamamagitan ng pagtatanggol sa sarili: ang dahilan ng pagnanakaw ay problema sa kagutuman o "pagnanakaw ulit" - ngunit ang isa ay hindi maaaring manggahasa sa pagtatanggol sa sarili; ito ay sa pamamagitan ng mismong kahulugan sa pagsisimula ng pananalakay.
 
-Gamitin natin ang UPB framework para i-examin ang lohikal ng pagka pare-pareho ng mga etikal na panukala tungkol sa panggagahasa.
+Gamitin natin ang UPB balangkas para alamin ang lohikal ng hindi pagbabago ng etikal na panukala tungkol sa panggagahasa, hinggil sa mga pitong moral na kategorya.
 
 ### Ang Mabuti
 
-Upang gumawa ng isang walang katotohanan na halimbawa, isipin nating an tayo ay na magsusuri ng etikal na teorya na nagpapahayag na ang panggagahasa ay isang mabuting asal.
+Upang gumawa ng isang walang katotohanan na halimbawa, isipin nating na tayo ay magsusuri ng etikal na teyorya na nagpapahayag na ang panggagahasa ay isang mabuting asal.
 
-Malinaw, na kung ipahayag ko na ang "X" ay "mabuti." pagkatapos ang kabaliktaran ng "X" ay dapat na maging masama. Kung *hindi panggagahasa* ay mabuti, kung gayon ang *panggagahasa* ay masama. Conversely, if *raping* is good, then *not raping* must be evil.
+Malinaw, na kung ipapahayag ko na ang "X" ay "mabuti." pagkatapos ang kabaliktaran ng "X" ay dapat na maging masama. Kung *hindi panggagahasa* ay mabuti, kung gayon ang *panggagahasa* ay masama. Sa Kabaliktaran, kung ang *panggagahasa* ay mabuti, kung gayon * ang hindi panggagahasa* ay dapat maging masama.
 
-Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
+Ang panggagahasa ng sinuman ay isang positibong gawain na dapat maumpisan, magawa, at matapos. Kung ang "panggagahasa" ay isang moral na mabuti, gayon ang "hindi pangagahasa" ay dapat maging moral na masama - kaya ito ay imposible para sa dalawang lalaki na nasa isang kwarto na *parehong maging moral at kasabay nito*, dahil isa sa kanila ay maaaging manggahasa at bigyan ng pagkakataon - at siya ay maaaring maging mangagahasa kung ang isang lalaki ay magiging biktima niya.
 
 That which enables virtue cannot be evil. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
 
