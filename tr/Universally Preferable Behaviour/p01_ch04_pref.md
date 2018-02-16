@@ -2,11 +2,11 @@
 
 Kendini yenerek argümanların doğasını kavradığımızdan, tercihler meselesine yönelebilmekteyiz.
 
-Tercihler, önermelerin gerçeklik değerini niteleme isteğinde bulunan herhangi bir metodolojinin merkezinde yer alırlar. Bilimsel yöntem, örnek verecek olursak, büyük bir ölçüde mantıksal tutarlılık ve deneysel doğrulama için doğuştan gelen tercihler aracılığıyla tanımlanır. Bilim için, önerme: *eğer* maddenin davranışı ve enerji hakkında geçerli bir hakikat saptamak istiyorsanız, bilimsel method kullanmak *tercih edilebilir*dir.
+Tercihler, önermelerin gerçeklik değerini niteleme isteğinde bulunan herhangi bir metodolojinin merkezinde yer alırlar. Bilimsel yöntem, örnek verecek olursak, büyük bir ölçüde mantıksal tutarlılık ve deneysel doğrulama için doğuştan gelen tercihler aracılığıyla tanımlanır. Bilim için, önerme: *eğer* maddenin davranışı ve enerji hakkında geçerli bir hakikat saptamak istiyorsanız, bilimsel yöntem kullanmak *tercih edilebilir*dir.
 
-Bu noktada, "tercih edilebilir", "iyinin çeşidi" anlamına gelmez, daha ziyade "gerekli" anlamına gelir. Eğer yaşamak istiyorsan, bir avuç dolusu arsenik yemekten çekinmek evrensel olarak tercih edilebilirdir. *If* Gerçek ile ilgili geçerli doğruları belirlemek istiyorsanız, kuramlarınızın hem iç tutarlı hem deneysel olarak doğrulanabilir olması *universally preferable*. O halde, "Evrensel olarak tercih edilir", "nesnel olarak gerekli" terimine çevrilir, ancak isteğe bağlı insan mutlaklarını ve yer çekimi gibi isteğe bağlı olmayan fiziksel mutlakları ayırt etmek için "tercih edilebilir" sözcüğünü elimizde tutacağız.
+Bu noktada, "tercih edilebilir", "iyinin çeşidi" anlamına gelmez, daha ziyade "gerekli" anlamına gelir. Eğer yaşamak istiyorsan, bir avuç dolusu arsenik yemekten çekinmek evrensel olarak tercih edilebilirdir. *Eğer* Gerçek ile ilgili geçerli doğruları belirlemek istiyorsanız, kuramlarınızın hem iç tutarlı hem deneysel olarak doğrulanabilir olması *evrensel olarak tercih edilebilir*dir. O halde, "Evrensel olarak tercih edilir", "nesnel olarak gerekli" terimine çevrilir, ancak isteğe bağlı insan mutlaklarını ve yer çekimi gibi isteğe bağlı olmayan fiziksel mutlakları ayırt etmek için "tercih edilebilir" sözcüğünü elimizde tutacağız.
 
-Benzer bir şekilde, eğer etik teorilerin hepsi geçerli olabiliyorsa, *at least* hem dahili hem de harici olarak tutarlı olmalılar. Başka bir deyişle, kendisiyle çelişen bir etik teori geçerli olamaz - ve deneysel kanıtlara ve evrensel-çevre tercihlerine aykırı etik bir teori de geçerli olamaz.
+Benzer bir şekilde, eğer etik teorilerin hepsi geçerli olabiliyorsa, *en azından* hem dahili hem de harici olarak tutarlı olmalılar. Başka bir deyişle, kendisiyle çelişen bir etik teori geçerli olamaz - ve deneysel kanıtlara ve evrensel-çevre tercihlerine aykırı etik bir teori de geçerli olamaz.
 
 Dolayısıyla, teorileri gerçekle karşılaştıran fen, matematik, mühendislik ve diğer disiplinlerde olduğu gibi etik de *geçerli teorilerin hem mantıksal olarak tutarlı hem deneysel olarak doğrulanabilir olması gerekir*.
 
@@ -16,7 +16,7 @@ Eğer ben "Dondurma seviyorum." dersem bu cümle içinde sadece bir kelime belir
 
 Tercihler gerçekte objektif olarak yoklar. Eğer saplantılı şekilde merak ediyorsanız, muhtemelen beni takip edebilir ve her dondurma yediğimde kayıt altına alabilirsiniz, bu da muhtemelen tercihimi oluşturmak için iyi bir deneysel temel oluşturacaktır. Bununla birlikte, gerçekte bir mazoşist olduğum ve dondurmayı sevmediğim ve hoşa gitmeyen tadıyla kendime işkence yapmayı tercih ettiğim ihtimali olabilir - ve daha sonra onu sevmeyi iddia ederek sizi şaşırtabilir.
 
-Tercihler için *delil* bulabiliriz; Biz gerçekte * tercihin kendisi* olduğunu bulamayız. Yer çekiminin, kütleler arasındaki bir ilişki olarak var olduğu gibi, tercih de bilinç ile madde arasında *ilişki* olarak bulunur.
+Tercihler için *delil* bulabiliriz; Biz gerçekte *tercihin kendisi* olduğunu bulamayız. Yer çekiminin, kütleler arasındaki bir ilişki olarak var olduğu gibi, tercih de bilinç ile madde arasında *ilişki* olarak bulunur.
 
 Özgür irade ile determinizm arasındaki zorlu soruları bir kenara koyarsak, şu anda birinin yaptığı her şeyin "tercih" ettiği varsayımı mantıklıdır. Eğer kalkarsam ve işe gidersem, diğer tüm seçeneklerin aksine bunu yapmayı * tercih ettiğimdendir *. İşimden nefret etsem bile, şüphesiz meteliksiz olduğumu söylemekten daha az nefret ediyorum.
 
@@ -76,7 +76,7 @@ Bana katılmıyorsanız, ama ben her zaman haklı olduğum için benimle aynı f
 
 Doğruluğu yalandan tanımlamak için bir tür objektif ölçüt sağladığım andan itibaren, bu gerçeğin fikirden daha öte olduğunu kabul ediyorum.
 
-Bu, nesnel ölçütlerin * mantıksal* - olduğu anlamına gelmez Örneğin sizi dini bir metne yönlendirebilirim. Bununla birlikte, bunu yapsam da, gerçeğin sadece kişisel iddialardan bağımsız olarak geldiğini kabul ediyorum - gerçeği yalandan ayırmak için nesnel bir metodoloji vardır.
+Bu, nesnel ölçütlerin *mantıksal* - olduğu anlamına gelmez Örneğin sizi dini bir metne yönlendirebilirim. Bununla birlikte, bunu yapsam da, gerçeğin sadece kişisel iddialardan bağımsız olarak geldiğini kabul ediyorum - gerçeği yalandan ayırmak için nesnel bir metodoloji vardır.
 
 #### Önerme 6: Hakikat Gerçek Dışılıktan Daha İyidir
 
@@ -92,7 +92,7 @@ Eğer bana herhangi bir anlaşmazlık ile bana ateş ederek başa çıkacağın�
 
 Özünde, o zaman, tartışmak, objektif bir yöntem bilim kullanarak, anlamlı bir dil aracılığıyla, kişisel hatanın yerine objektif olarak tercih edilebilir evrensel hakikatin peşinde koşmayı gerektirir.
 
-Evrensel gerçeğe yönelik bu tercih *mevkinin* bir tercihi değil, *türün* bir tercihidir. Sürüş sürenizi yarıya indiren bir kısayol daha uzun bir yoldan iki kat daha iyidir - ama ikisi de tamamen yanlış bir istikamete sürüşe göre *son derecede tercih edilebilir*dir.
+Evrensel gerçeğe yönelik bu tercih *mevkinin* bir tercihi değil, *türün* bir tercihidir. Sürüş sürenizi yarıya indiren bir kısa yol daha uzun bir yoldan iki kat daha iyidir - ama ikisi de tamamen yanlış bir istikamete sürüşe göre *son derecede tercih edilebilir*dir.
 
 Aynı şekilde, hakikat hatadan sadece "iyi" değildir - *son derecede tercih edilebilir* veya mecburidir.
 
