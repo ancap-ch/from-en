@@ -130,7 +130,7 @@ O violador pode justificar as suas acções ao revogar a proposição de "estupr
 
 Essa proposição também falha no teste lógico mais básico do CUP. Se Bob acredita que deve tomar o seu prazer violando o Doug - independentemente do descontentamento de Doug - então, racionalmente, Bob não consegue elevar a sua preferência para um CUP.
 
-If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
+Se todos devessem tomar o prazer, independentemente do *des* prazer da sua vítima, então Bob não teria o direito de violar Doug, apesar de que Bob *prefira* violar Doug, mas Doug certamente *não* prefere ser estuprado. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
 
 Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
 
