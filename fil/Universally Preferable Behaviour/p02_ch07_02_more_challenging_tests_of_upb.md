@@ -1,4 +1,4 @@
-### "wag kakain ng isda"
+### "huwag kakain ng isda"
 
 Ano ang kalagayan ng panukalang moral:"masama ang kumain ng isda"?
 
