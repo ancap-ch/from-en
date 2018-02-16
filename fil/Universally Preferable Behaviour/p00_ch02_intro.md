@@ -16,7 +16,7 @@ Ayon sa kasaysayan, gayunman, sa pagitan ng ating maliit na mga katotohanan at n
 
 ### Ang "Sona ng Kawalan"
 
-We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+Sinasabi natin sa ating mga anak na huwag susuntukin ang isa't-isa, at naniniwala tayo na ang mali ang konsepto ng karahasan, bilang pangkalahatang tuntunin ng moralidad. Ang "maliit na katotohanan" ay:*huway manuntok*. Ang "dakilang katotohanan" ay *mali ang karahasan*.
 
 However, there exists in our minds an imaginary entity called “God,” and this entity is considered perfectly moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
 
