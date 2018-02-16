@@ -4,12 +4,12 @@ Sa pangkalahatan, gagamitin namin ang terminong *aesthetics* upang sumangguni sa
 
 Bagama't una kaming nakatuon sa UPB sa larangan ng etika, ang UPB ay makikita na ngayon bilang isang “umbrella term,” na kinabibilangan ng mga naturang desiplina gaya ng:
 
-- The scientific method
-- Logic
-- Empiricism
+- Ang pang-agham na pamamaraan
+- Lohika
+- Empirisismo
 - Debating
-- Language
-- Ethics
+- Wika
+- Etika
 
 Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
 
