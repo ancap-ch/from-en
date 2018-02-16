@@ -34,61 +34,61 @@ In this way, the concept of “avoidability” retains its use. A man in a coma 
 
 At this point, the objection can quite reasonably be raised that if a man in a coma cannot be immoral, then he also cannot be moral. However, earlier we said that the opposite of an immoral action must be moral. If we propose the moral rule, “thou shalt not rape,” then can we call the man in a coma *moral*, since he does not rape?
 
-#### Capacity
+#### ظرفیت
 
-The concept of “avoidability” works in the positive as well as in the negative. If I have lost my genitals in some ghastly accident, am I moral for refraining from rape? It would seem hard to argue that I could be, since genital rape at least is impossible for me. Similarly, we may call a man “generous” if he gives one hundred dollars to a beggar – however, we would doubtless revise our estimation if it turned out that he gave away his money while sleepwalking, and woefully regretted his action on waking.
+مفهوم "اجتناب ناپذیر بودن" در مثبت و همچنین منفی معمول است. اگر من در یک حادثه هولناک اندام تناسلی خود را از دست داده ام، بعلت باز ماندن از تجاوز عدم توانایی  جنسی ، من اخلاق مدار هستم؟ دلیل آوردن برای اینکه من می توانم این کار را بکنم سخت بنظر می رسد، زیرا که تجاوز جنسی حداقل برای من غیر ممکن است. به همین ترتیب، ما ممکن است فردی که یک صد دلار به یک گدا بدهد را "سخاوتمند" بنامیم. با این حال، ما بدون شک نظر خود را اصلاح خواهیم کرد اگر معلوم شود که او پول خود را در در حین خوابگردی داده است، و در زمان بیداری از این اقدام خود خشمگین و پشیمان است.
 
-Thus we can reasonably say that where choice is absent, or inapplicable, morality is also absent, or inapplicable. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
+بنابراین ما می توانیم با دلیل بگوییم که جایی که انتخاب وجود ندارد یا غیر قابل اعمال است، اخلاق نیز وجود ندارد یا غیر قابل اطلاق است. به این ترتیب، مردی در کما همچنان که اعمالش نمی تواند به عنوان بد محسوب شوند، نمیتوانند خوب باشند. او در حالت بدون انتخاب، مانند یک نوزاد یا یک حیوان است - به همین دلیل او می تواند به طور معقول از قوانین اخلاقی معاف شود، زیرا حالت فیزیکی است که او را نسبت به شخصی که می تواند انتخاب کند، که تحت  یو پی بی مجاز است، بطور عینی تغییر می دهد.
 
-With that in mind, let us continue our examination of rape.
+با توجه به این فرض، اجازه دهید به بررسی تجاوز به عنف ادامه دهیم.
 
-### Aesthetically Positive
+### زیبایی گرایی مثبت
 
-Aesthetically positive actions (APAs) are universally preferable, but not enforceable through violence, since aesthetically negative actions do not initiate the use of force. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
+اقدامات مثبت زیبایی گرایی (ای پی ای) به طور جهانی ترجیح داده می شوند، اما از طریق خشونت قابل اجرا نیست، چرا که اقدامات منفی زیبایی گرایی منجر به استفاده از اجبار نمی شود. همانطور که در بالا توضیح دادیم، اگر من دیر به ملاقات شما برسم، من استفاده از زور علیه شما را آغاز نکرده ام و گزینه های  شما را برای انتخاب و یا اجتناب از این وضعیت حذف نکرده ام.
 
-If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
+اگر می گوییم که ای پی ای ها می توانند از طریق خشونت اعمال شوند، ما می گوییم که آغاز خشونت از نظر اخلاقی خوب است.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+اگر ما یک قانون اخلاقی پیشنهاد کنیم که آغاز خشونت از نظر اخلاقی خوب است، سپس این قانون که حکم "تجاوز به لحاظ اخلاقی خوب است" با تمام حالت های غیرممکن منطقی  مواجه می شود.
 
-Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+دو نفر همزمان در یک اتاق نمی توانند از لحاظ اخلاقی خوب باشند، زیرا یکی از آنها باید خشونت علیه دیگری را شروع کند، و دیگری باید در برابر آن مقاومت کند؛ زیرا اگر مقاومت نکند این عمل خشونت نیست، همانطور که در مورد جراح ما در بالا بحث کردیم. بنابراين، فضيلت تنها با مقاومت در برابر فضيلت ایجاد می شود، و دو مرد در شرايط مشابه و در یک زمان نميتوانند اخلاق مدار باشند و همينطور که همه آنها ناقض یو پی بی هستند.
 
-Thus we know that rape cannot be an APA.
+بنابراین ما می دانیم که تجاوز نمی تواند یک ای پی ای باشد.
 
-We can confirm this by reviewing the reasons why “being on time” *is* an APA.
+ما می توانیم این را با بررسی دلایل اینکه "وقت شناس بودن"  یک ای پی ای است تأیید کنیم.
 
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
+اول از همه، ما به طور غریزی متوجه می شویم که قطعاً برای رد کردن یک دوست همیشگی بخاطر دوست نداشتن بستنی خیلی دیر شده است.
 
-Why is that?
+چرا اینطور است؟
 
-Once again, the UPB framework comes to the rescue.
+یک بار دیگر، چارچوب یو پی بی به دادمان می رسد.
 
-An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
+یک ای پی ای  یک قانون غیر اجباری است که به طور منطقی میتواند به طور همزمان به دو طرف اعمال شود.
 
-For instance, if my APA is: “be on time,” then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+به عنوان مثال، اگر ای پی ای ی من این باشد: "وقت شناس باش"، پش آن می تواند یک استاندارد جهانی باشد که می توان کاملا از آن اجتناب کرد. من نمی توانم این ای پی ای  را به شما تحمیل کنم زیرا شما مجبور نیستید دوست من باشید، مجبور نیستید وقت شناس باشید، به هیچ وجه مجبور نیستید احترام و اولویت های من را دنبال کنید.
 
-If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
+اگر "وقت شناس بودن" یک ای پی ای باشد، دو نفر می توانند به طور همزمان آن را بدست آورند  درصورتیکه هر دو  وقت شناس باشند و در زمان معین حاضر باشند.
 
-With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
+هرچند با تجاوز، همانطور که در بالا دیدیم، برای دو نفر انجام آن در یک زمان غیرممکن است. همیشه باید یک متجاوز و قربانی باشد.
 
-On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
+از سوی دیگر، اگر من می گویم که " دوست داشتن جاز " یک ای پی ای است، پس من بلافاصله به سمت یک امکان غیر منطقی می روم. به یاد داشته باشید ای پی ای ها قوانینی غیرقابل اجتناب هستند که می توانند به طور همزمان برای هر دو طرف اعمال شوند ،فرمول صحیح برای «دوست داشتن جاز» عبارت است از: علایق ذهنی که در سطح جهانی هستند.
 
-Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
+نه تنها این تضاد رتبه ای در این قانون است، بلکه بلافاصله آزمون یو پی بی را نیز شکست می دهد. اگر جاز را به تمام انواع دیگر موسیقی ها ترجیح می دهم، اما شما موسیقی کلاسیک را به تمام انواع دیگر موسیقی ها ترجیح می دهید و اگر علایق شخصی به طور جهانی ترجیح داده شود، پس شما نیز باید جاز را انتخاب کنید، زیرا من اینگونه هستم و من نیز باید کلاسیک را انتخاب کنم، چون شما اینطور هستید. این، البته، غیرممکن است، زیرا این امر مستلزم این است که ما هر دو به طور همزمان هم جاز و هم کلاسیک را بالاتر از تمام انواع دیگر موسیقی ها بدانیم و آنها را به بقیه ترجیح دهیم. شما باید اولویت خود را به جاز تغییر دهید، به خاطر علاقه من اما من هم باید اولویت خود را به کلاسیک تغییر دهم، به خاطر علاقه شما. این مانند گفتن این است که شما باید یک توپ بیس بال را در یک لحظه پرتاب کنید و در همان لحظه آن را بگیرید، یک عدم امکان منطقی و فیزیکی.
 
-Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
+از آنجا که ای پی ای ها با خشونت اعمال نمی شوند،  شما نمی توانید به یک مرد بعلت وقت شناس نبودن دیر رسیدن شلیک کنید، سپس تجاوز * نمی تواند * یک ای پی ای باشد، زیرا تجاوز به معنی یک حمله جنسی است که همراه با خشونت است.
 
-Thus rape cannot fall into the category of APAs.
+بنابراین تجاوز نمی تواند در رده ای پی ای قرار گیرد.
 
-### Personally Positive
+### مطلقا مثبت
 
-Perhaps rape is akin to a merely personal preference.[^2]
+شاید تجاوز تنها یک عقیده صرفا شخصی باشد. 
 
-The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
+این سوال مطرح می شود: آیا طبقه بندی تجاوز به عنوان یک عقیده صرفا شخصی می تواند به رعایت منطق پایبند باشد؟
 
-If we propose the moral rule: “personal preferences must be violently inflicted upon other people,” how does that stand up to the framework of UPB?[^3]
+اگر ما قاعده اخلاقی را پیشنهاد می دهیم: "عقاید شخصی باید با زور به دیگران تحمیل شود"، چطور می توان از چارچوب یو پی بی استفاده کرد؟ 
 
-Personal preferences cannot be justly inflicted upon other people, because that would create an insurmountable logical paradox.
+عقاید شخصی نمیتوانند به صورت عادلانه به دیگران اعمال شوند، زیرا این امر یک پارادوکس منطقی حل نشدنی را ایجاد میکند.
 
-If I say that liking the band Queen above all others is universally preferable behaviour, on what grounds could I justify that statement? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
+اگر من می گویم که دوست داشتن گروه ملکه بیشتر از همه گروه های دیگر، رفتار جهانی محسوب می شود، چطور می توانم این جمله را توجیه کنم؟ فقط می شود گفت که عقاید و علایق شخصی باید به دیگران تحمیل شود. با این حال، اگر علایق شخصی من می تواند به شما تحمیل شود، پس با تعریف یو پی بی، علایق شخصی شما نیز می تواند به * من * تحمیل شود. بنابراین ما نمی توانیم هر دو در یک زمان اخلاق مدار باشیم، زیرا این امر مستلزم آن است که ما هر دو در یک زمان گروه خود را انتخاب کنیم و انتخاب گزینه های دیگر را رها کنیم. به عبارت دیگر، من باید همزمان هم گروه موسیقی ملکه  و هم گروه موسیقی پلیس را بهترین گروه موسیقی بدانم. این یک عدم امکان منطقی است، که دلیل اصلی اش، این است که عقاید و علایق شخصی منحصراً نمی تواند به طور جهانی قابل اجرا باشد.
 
 Thus if rape is considered to be a merely personal preference, then it cannot logically be enforced upon anybody else. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
 
