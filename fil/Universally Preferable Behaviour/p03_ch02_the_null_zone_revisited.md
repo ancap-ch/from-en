@@ -34,7 +34,7 @@ Pinipilit tangkilikin -o "pananampalataya" - sa kahulugan ay hindi maaaring subu
 
 Maaari nating paniwalaan ang mga hindi pinagtibay na mga bagay na maging totoo - kung ang isang tao ay walang duda na isipin na nag mundo ay bilog bago ito mapatunayan - ngunit ang "walang lugar" ay isang lupain na kung saan kumakapit tayo sa paniniwala sa mga bagay na * na hindi magiging posible maging totoo.*.
 
-If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. If I say that I believe that a square circle exists, then I am making an explicitly self-contradictory statement, which disproves itself. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+Kung sasabihin ko na ang dalawa ay dinagdagan ng dalawa ay lima, ako ay gumagawa ng pagkakamali na maaaring maitama sa pamamagitan ng pagsangguni sa lohika. Kung sasabihin ko na ako ay naniniwa na ang bilog naparisukat ay mayroon, ngayon ako ay guamagawa ng tahasang sariling pagsalungat na pahayag, na kung saaan hindi pinapahintulutan ito. Kung ako ay lalayo pa, gayunman, at magmamatigas na sabihin na "foo dagdagan ng tury ay katumbas ng desty" - at tinatanggihan na bigyang kahulugan ng kahit anong tutunnin ko - ako ay gumagawa ng pahayag na kung saan ay lohikal at may katibayan * ay hindi maaaring magamit *.
 
 ### Next Stop: The "Alternative Universe"
 
