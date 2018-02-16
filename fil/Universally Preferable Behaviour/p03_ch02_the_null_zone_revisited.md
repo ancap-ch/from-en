@@ -38,7 +38,7 @@ Kung sasabihin ko na ang dalawa ay dinagdagan ng dalawa ay lima, ako ay gumagawa
 
 ### Ang susunod na pag hinto: "Ang alternatibong daigdig"
 
-In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
+Sa pangkalahatan, ang mga tao ay sinusubukang gumawa ng paraan para "isalaba" ang kanilang anti-empirical at anti-lohikal na paniniwala upang gumawa ng "alternatibong kaharian" o kaya "alternatibong daigdig" na kung saan ang kanilang mga sariling kondisyon ay nag-papahayag na maaaring maging totoo.
 
 If I say: “A square circle exists,” I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
 
