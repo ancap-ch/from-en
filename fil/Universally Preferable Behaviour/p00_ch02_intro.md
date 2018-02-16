@@ -6,11 +6,11 @@ Paghuhukay palabas mula sa narsistikong sinapupunan ng madamdaming interpretasyo
 
 Ang mundo ay parang patag; hindi ba. Ang araw at buwan ay parang mag sinlaki; sila ay hindi. Ang mga bituin ay parang gumagalaw paikot sa mundo; Hindi sila. Ang malaman ang katotohanan ay nangangailangan na makita natin ang mundo mula sa labas ng ating pandama - ito ay hindi nangangahulugan ng pagtanggi sa ating mga pandama, ngunit isang selyadong pagsunod sa*tunay*na katibayan ng mga pandama, kung saan hindi na ang mundo ay patag, ngunit ang bagay, enerhiya at pisikal na batas ay pare-pareho. Kapag binitawan natin ang bato sa aking kamay, ito ay mahuhulog - Ito ang*tunay*na ebidensya ng ating pandama, hindi nang ang mundo ay nakapirmi at hindi magagalaw. Ang ideya na ang mundo ay hindi magagalaw ay isang maling pagpapalagay na sumasalungat sa direktang ebidensya ng ating pandama, na kung saan ang lahat ay nahuhulog. Kung ang lahat ay nalalaglag, ang mundo ay hindi mapipirmi at hindi matitinag.
 
-Ito ang maliliit na katotohanan ng ating araw-araw; na ang bato ay nalalaglag, ang usok ay umaangat, mainit ang apoy at ang araw at ang buwan ay parehong bilog. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
+Ito ang maliliit na katotohanan ng ating araw-araw; na ang bato ay nalalaglag, ang usok ay umaangat, mainit ang apoy at ang araw at ang buwan ay parehong bilog. Kung mananatili tayong matatag at mahigpit na nakatuon sa mga "malilit na katotohanan,"kaya natin sa tamang oras na makuha ang dakilang katotohanan ng physics, kung saan ay nagbibigay sa atin ng kahanga-hangang kaalaman at kapangyarihan.
 
-In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
+Sa pagitan ng maliit na katotohanan at nang mga dakilang katotohanan, gayunman, ang mga ilusyon na bumubulag sa atin - pareho sa physics at sa etika.
 
-In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+Sa pisika, ang mga dakilang katotohanan ay hindi maaaring sumalungat sa mga maliliit na katotohanan. Walang "pinag-isang teorya ng patlang" ang kayang wastong kumontra sa ating direktang karanasang-pandama gaya sa nahuhulog na bato o sa umaangat na ningas. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
 
 Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
 
