@@ -37,37 +37,38 @@ UPB是评价道德主张框架，或者是关于全人类普遍喜欢的行为�
 
 即使我们拒绝上述，我们仍然可以使用UPB明确断言普遍产权存在。
 
-As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
+如上所述，一个人可有财产权，或者他们没有财产权。除了少数几个灰色地带，我们很快就会看到，这仍然是一个普遍的命题。
 
-If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
+如果一个人没有使用财产的权利，那么他就没有权利使用自己的身体。他没有权利使用自己的肺，因此必须停止呼吸。虽然
+这听起来很愚蠢，但这是人类没有财产权这一前提的必然结果。
 
-It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
+假设任何你在辩论产权的人都在吸气，并且因此同意你的观点，他至少有权利使用自己的身体。
 
-The question then comes up whether or not human beings have the right to *exclusive* property use. For instance, property could be defined as a sort of time-share principle of ownership, insofar as everyone should have the right to own everything, on some schedule or another.
+那么，问题就在于人类是否有权独占使用财产。例如，财产可以被定义为一种所有权的时间分享原则，因为每个人都有权在某个时间表或另一个时间拥有一切东西。
 
-This means of course that a man with lung cancer has a right to at least one lung of a healthy person. Since all ownership starts with the body, if we do not have the right to exclusive ownership over our own body, then we must share our body with other people, or be immoral. The sick man has a right to one of our lungs, and if we withhold it from him, that is exactly the same as stealing it. Similarly, both you and I have the right to use Celine Dion’s singing voice, since it is wholly selfish of her to pretend that she has exclusive ownership of it.
+当然，这意味着肺癌患者有权获得至少一个健康人的肺。既然所有权始于身体，如果我们无权独占我们自己的身体，那么我们就必须与其他人分享我们的身体，否则就会变得不道德。病人有权呼吸我们的肺，如果我们不给他，那就等于偷了它。同样的，你和我都有权使用Celine Dion的歌声，因为这是她假装她是完全独家拥有权。
 
-If human beings do not possess exclusive ownership over their own bodies, then the crime of rape becomes meaningless, since a woman clearly does not exclusively own her vagina, and neither does a man own his own various orifices. If exclusive self-ownership is not an axiom, then even the crime of murder becomes meaningless.
+如果人类对自己的身体不拥有专属所有权，那么强奸罪就变得毫无意义了，因为女人显然不完全拥有她的阴道，男人也不拥有自己的各种窍。如果排他性的自主所有权不是公理，那么即使谋杀罪也变得毫无意义。
 
-It is no crime to commit suicide, any more than it is to set fire to your own house, since the destruction of one’s own property is a valid exercise of ownership. However, if exclusive self-ownership is invalid, then there can be no distinction between murder and suicide. If my liver is failing, and I have a right to take yours, then I can “repossess” it in perfect accordance with morality and honourable behaviour. If this procedure kills you, so what? Without exclusive self-ownership, there is no “you” to begin with…
+自杀不是犯罪，更不是放火烧自家的房子，因为毁坏自己的财产是有效的行使所有权。但是，如果排他性的自主权无效，那么谋杀和自杀就没有区别了。如果我的肝脏是失败的，并且我有权利接受你的治疗，那么我可以完全按照道德和尊严行为“收回”它。如果这种方法杀死你，那又怎样? 没有专属自主权，就没有“你”开头…
 
-Thus we can reasonably say that exclusive self-ownership is a basic reality – that all human beings at all times and in all places have exclusive ownership over their own bodies, and thus have exclusive ownership over the effects of their own bodies, both in terms of moral behaviour and property creation or acquisition.
+因此，我们可以合理地说，专属自主权是一个基本的现实，即所有时间和所有地方的所有人都拥有自己的身体的专属所有权，因此无论在道德行为和财产创造或购置方面，都拥有对自己身体的影响的专属所有权。
 
-### The Grey Areas
+### 灰色区域
 
-Naturally, any statement such as the above brings the inevitable howls of “complexity,” which I fully agree with.
+当然，任何如上所述的陈述都会带来无法避免的“复杂性” , “我完全同意这种说法。
 
-Let us say that I mean to give you five dollars as a gift, but by mistake I hand you a ten dollar bill, saying, “This is for you.” Few people would consider it theft if I said, the moment after I handed it to you: “Sorry, I meant to give you five dollars, not ten,” and took the larger note back, even though I am taking back property that I have voluntarily relinquished.
+让我们说，我想给你一个礼物，五美元，但是我错误地向你递交了一张十美元的钞票，说，“这是给你的。”很少有人会认为盗窃.  如果我说，我把它交给你的那一刻：“对不起，我的意思是给你五美元，而不是十美元”，尽管我收回了我自愿放弃的财产，但还是把更大的笔记拿回来了。
 
-On the other extreme, if you are one of my sons, and I pay for your university education, and explicitly tell you that you never need to pay me back, my generosity will doubtless affect your spending habits. It would scarcely seem reasonable for me to clap my forehead after your graduation ceremony and cry, “Oh, I thought you were one of my *other* sons!” and demand repayment.
+在另一个极端，如果你是我的儿子之一，我为你的大学教育买单，并且明确地告诉你，你永远不需要回报我，我的慷慨无疑会影响你的消费习惯。毕业典礼后拍我的额头，哭着说：“哦，我还以为你是我的另一个儿子呢？！并要求还款。
 
-Similarly, it is generally accepted that children cannot enter into legal contracts, but that adults can. In many societies, the differentiating age is eighteen years. This means, of course, that at the stroke of midnight between a man’s seventeenth year and eighteenth birthday, his capacity to enter into legal contracts arrives fully formed. Has he gone through some massive biological transformation in that split second? Certainly not, although at eighteen he is biologically very different than he was at the age of ten, both in terms of physical and mental development.
+同样，人们普遍认为，儿童不能签订法律合同，但成年人可以。在许多社会中，年龄是十八岁。当然，这意味着，在第十七岁到第十八岁生日的午夜时分，这人进入法律合同的能力完全形成。他在那一刹那经历了大规模的生物转变吗?  当然不是，虽然在十八岁时，他在生理上和十岁时完全不同，无论是在生理上还是心理上都有所发展。
 
-For the sake of efficiency, if not perfect morality, arbitrary transitions are often placed between one state and another. Childhood is definitely one state; adulthood is quite another. The transition between childhood and adulthood is blended; it is not black and white, but rather like the day descending into dusk, and then night. Noon is definitely not night, and midnight is definitely not daytime, but there are times in between when it is harder to tell, although the direction of the transition is always clear.
+为了效率，如果不是完美的道德，任意的转换通常放在一个状态和另一个状态之间。童年无疑是一种状态，成年则是另一种状态。童年和成年之间的过渡是混合的；它不是黑白的，而是像一天下到黄昏，然后是夜晚。中午绝对不是夜晚，午夜绝对不是白天，但有时是很难分辨清楚的，虽然过渡的方向总是清晰的。
 
-In the same way, a man who is greatly mentally deficient can be considered far less responsible for his own actions. A man with an IQ of sixty-five is mentally scarcely more than a little child – a man with an IQ of one hundred is an average adult. If we say that a man with an IQ of eighty becomes responsible, then we are by definition saying that a man with an IQ of seventy-nine is not responsible – is that a clear, fair, and utterly objective demarcation? Certainly not, but in order for most concepts to be practical, the criterion of “good enough” and a reasonable cost/benefit analysis must be put into place. As mentioned above, no water is perfectly pure, but waiting for perfect purity would simply cause a man to die of thirst.
+同样地，一个智力严重不足的人可以被认为对自己的行为有多大的责任。智商高达六十五的人在心理上几乎不比小孩小-智商高达一百的人是成年人。如果我们说一个智商为八十的人变得有责任感，那么我们从定义上说，一个智商为七十九的人是不负责任的 -这是一个明确，公平和完全客观的界限? 当然不是，但为了使大多数概念具有实用性，必须建立“足够好”和合理的成本/效益分析的标准。如上所述，没有水是完全纯净的，但等待完美的纯净只会导致一个人渴死。
 
-Given that the question of moral responsibility and intellectual capacity only applies to a very small percentage of people right on the border, and that creating objective and perfect tests is very likely to prove impossible, there will inevitably be some “rules of thumb” that win the day. We can only assume that, since biologists live with this kind of occasional subjectivism every day, moral philosophers can somehow survive as well.
+考虑到道德责任和智力能力的问题只适用于在边境上的一小部分人，并且创造客观和完美的测试很可能被证明是不可能的，因此不可避免地会有一些“经验法则”赢得这一天。我们只能假设，由于生物学家每天都生活在这种偶然的主观主义中，所以道德哲学家也可以以某种方式生存。
 
 ### Property As Universality
 
