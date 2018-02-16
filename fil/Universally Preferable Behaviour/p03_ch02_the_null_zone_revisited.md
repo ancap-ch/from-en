@@ -40,11 +40,11 @@ Kung sasabihin ko na ang dalawa ay dinagdagan ng dalawa ay lima, ako ay gumagawa
 
 Sa pangkalahatan, ang mga tao ay sinusubukang gumawa ng paraan para "isalaba" ang kanilang anti-empirical at anti-lohikal na paniniwala upang gumawa ng "alternatibong kaharian" o kaya "alternatibong daigdig" na kung saan ang kanilang mga sariling kondisyon ay nag-papahayag na maaaring maging totoo.
 
-Kung sinabi ko: "na ang kuwadro at bilog ay mayroon" ako'y nag-papahayag na maliwanag na imposible ito sa loob ng daigdig na ito. Ng sa ganon, hiniling ko na manatili ang aking pininiwala, dapat akong gumawa pa ng iba pang daigig o kaharian sa "labas" ng daigdig na ito na kung saan ang kuwadrado at bilog mayroon.
+Kung sinabi ko: "na ang kuwadrong bilog ay umiiral" ako'y nag-papahayag na maliwanag na imposible ito sa loob ng daigdig na ito. Ng sa ganon, hiniling ko na manatili ang aking pininiwala, dapat akong gumawa pa ng iba pang daigig o kaharian sa "labas" ng daigdig na ito na kung saan ang kuwadradong bilog ay umiiral.
 
-If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
+Kung gumawa ako ng kaharian na kung saan kapantay ng sariling kontradisyon ay pantay sa katotoha, puwede ko ng sabihin na kung sino mang nagsasabing na ang kuwadradong bilog na ay *hindi* umiiral ang kanilang mga sariling panatiko at makakasama, dahil sila ay tinatanggalan ng posibilidad kung *puwedeng* maging totoo.[^1]
 
-With regards to this “null zone,” only two possibilities really exist. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
+Tunkol dito sa "walang lugar," mayroon lamang dalawang posibilidad na umiiral. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
 
 If, at some point, it turns out that we *are* able to interact with this *null zone*, then we shall have direct sensual or rational evidence of its existence. In other words, it must “protrude” into our universe in some manner. However, the moment that it becomes detectable in our universe, it must have rational and empirical existence, like everything else we can detect. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
 
