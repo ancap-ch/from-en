@@ -22,11 +22,11 @@ Pàápàá, ọ lè sọ ọrọ kàn gẹgẹbi: "ẹ̀mí ọkùnrin kan ṣe 
 
 Let us say that Bob then adjusts his premise to say: “I can shoot a man in his sleep any time I want.” The problem here is not only the sleep that Bob will lose based on his universal premise, but also the logical impossibility of reversing moral propositions based on the differences in the states of sleeping and waking. Biologically speaking, a man does not become the *opposite* of a man when he falls asleep, any more than gravity reverses when he blinks.
 
-Since a man remains a man when he falls asleep, it cannot be the case that opposite moral rules apply to him in this state. Thus to say that it is immoral to murder a man when he is awake, but it is moral to murder a him when he is asleep, is to create a logical contradiction unsupported by any objective biological facts. A physicist may say that a rock falls down, but a helium balloon rises up – but that is because a rock and a helium balloon have fundamentally different properties. No credible physicist can say that one rock falls down, but that another rock with almost exactly the same qualities falls up. The same is true for moral theories – no credible philosopher can say that morality reverses itself when a man is asleep, since a man’s nature does not fundamentally alter when he naps.
+Nígbàtí ọkùnrin kan yíò sì má jẹ ọkùnrin lẹyìn tó bá sùn, kò le jẹ wípé kí Idakeji òfin ìwà wa jẹ àmúlò lori rẹ ni ipò yìí. Thus to say that it is immoral to murder a man when he is awake, but it is moral to murder a him when he is asleep, is to create a logical contradiction unsupported by any objective biological facts. A physicist may say that a rock falls down, but a helium balloon rises up – but that is because a rock and a helium balloon have fundamentally different properties. No credible physicist can say that one rock falls down, but that another rock with almost exactly the same qualities falls up. The same is true for moral theories – no credible philosopher can say that morality reverses itself when a man is asleep, since a man’s nature does not fundamentally alter when he naps.
 
-In this way, if we cannot justly shoot a man when he is awake, we also cannot shoot him when he is asleep, since he is still a man.
+Lọnà yìí, t a kò bá lè jẹrisi pípa ọkùnrin nígbà tó jí kalẹ pẹlú ìbọn, a kò le fí ìbọn pá lójú òrun bákanáà, nígbàtí ó sí jẹ ọkùnrin.
 
-Thus, since the statement “I can shoot a man in his sleep any time I want” cannot be validated according to UPB, it cannot be a true moral proposition.
+A jẹ wípé, nígbàtí gbólóhùn "Mo le pá ọkùnrin kan lójú òrun nígbà kúgbà ti mo ba fẹ" kò ní àtéwógbà ni ìlànà UPB, kò le jẹ àlàyé ìwà òtítọ́.
 
 Níbí yìí lẹẹkan sí a ó ri pe ìlànà UPB duro ni òtítọ́ nípa ti ìpaniyàn. Àlàyé ìwà kan ṣoṣo tó ní ìjẹ́risí nipa ti ìpaniyàn je wípé ìwà àìdá ni, tàbí tí ó jẹ kíkọ̀ lágbayé.
 
