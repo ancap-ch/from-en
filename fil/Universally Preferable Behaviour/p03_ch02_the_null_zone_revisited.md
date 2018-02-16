@@ -28,11 +28,11 @@ Maaari nating sabihin na:
 2. Ang panukala Y ay hind totoo dahil ito ay hind makatwiran.
 3. Ang panukala Z ay toto dahil ito ang *gusto* kong maging totoo ito.
 
-Ang ikatlong pahayag ay isang kumpletong kontradiksyon sa sarili. Ang katotohanan ay malayang pagnanais, dahil ang pagnanais ay nangangahulugan ng pansariling paksa, at ang katotohanan ay nangangahulugan ng pagsang-ayon sa ideya na may pamantayang layunin ng lohika at naayon sa obserbasyon ng katotohanan. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
+Ang ikatlong pahayag ay isang kumpletong kontradiksyon sa sarili. Ang katotohanan ay malayang pagnanais, dahil ang pagnanais ay nangangahulugan ng pansariling paksa, at ang katotohanan ay nangangahulugan ng pagsang-ayon sa ideya na may pamantayang layunin ng lohika at naayon sa obserbasyon ng katotohanan. Sinasabing na may mga bagay na katotohanan dahil sa *gusto mo* ito maging totoo upang maging mapasailalim kasama ng pinanigan, na kung saan mayroong sariling pagsasalungat na pahayag.
 
-Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
+Pinipilit tangkilikin -o "pananampalataya" - sa kahulugan ay hindi maaaring subukan, dahil sila ay hindi naniniwala sa * pagkawala* ng patunay, ngunit ang paniniwala sa *pagsuway* ng dahilan at/o katibayan.
 
-We can believe unproven things that turn out to be true – someone doubtless thought that the world was round before it was proven – but the “null zone” is the realm wherein we cling to a belief in things that *could not possibly turn out to be true*.
+Maaari nating paniwalaan ang mga hindi pinagtibay na mga bagay na maging totoo - kung ang isang tao ay walang duda na isipin na nag mundo ay bilog bago ito mapatunayan - ngunit ang "walang lugar" ay isang lupain na kung saan kumakapit tayo sa paniniwala sa mga bagay na * na hindi magiging posible maging totoo.*.
 
 If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. If I say that I believe that a square circle exists, then I am making an explicitly self-contradictory statement, which disproves itself. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
 
