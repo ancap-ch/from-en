@@ -1,42 +1,41 @@
-## The Third Test: Theft
+## 第三个测试：盗窃
 
-We will have to spend a little bit more time on theft, since it inevitably brings into the picture the question of property rights, which is highly contentious for some.
+我们将花更多的时间在盗窃上，因为它带来了产权问题，这对一些人来说是很有争议的。
 
-There are many ways of approaching the question of property rights, from “homesteading” to legal definitions to practical considerations etc. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+处理产权问题的方法有很多种，从“家园”的法律定义的实际考虑，我不会在这里解决这些问题，因为产权问题必须落入UPB的框架，如果UPB是站作为评价道德命题的理性方法论。
 
-Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
+显然，关于产权的道德命题是这样的：人拥有财产权，或者他们不拥有财产权。
 
-Now the first “property” that must be dealt with is the body. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+现在必须处理的第一个“财产”是身体。“所有权”首先必须包括对自己身体的控制，因为如果这种控制不存在，或者被认为是无效的，那么整个道德问题（更不用说财产）- 就要走出这个窗口。
 
-UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
+UPB是评价道德主张框架，或者是关于全人类普遍喜欢的行为的论点。首先，一个人必须对自己的行为负责，如果他们要在道德上进行判断，因为如上所述，选择行动的能力是任何道德评价的基础。
 
-If a man has no control over his body, then clearly he has no responsibility for his actions – they are not in fact “his” actions, but rather the actions of his body. Now, no one would rationally argue that if a man strangles another man, it is the murderous fingers that should be put on trial and punished. Clearly, the body cannot entirely control itself, but rather must be to some degree under the direction of the conscious mind.
+如果一个人不能控制自己的身体，那么显然他对自己的行为没有责任 -事实上，他不是“他的”行为，而是他身体的行为。现在，没有人会理性地认为，如果一个人扼杀另一个人，是要放在审判和惩罚凶手。显然，身体不能完全控制自己，而是必须在某种程度上在意识的指导下。
 
-What this means is that a man is responsible for the actions of his body, and therefore he is responsible for the *effects* of those actions. A man is responsible for where he puts his penis, which is how we know that we can judge him for raping someone. He “owns” the actions of his body as surely as he owns his body. To say that a man is responsible for his body but not the effects of his body is to argue that a man is responsible for aiming and throwing a knife, but not for where it lands.
+这意味着一个人对自己的行为负责，因此他对这些行为的后果负责。一个人负责他把阴茎放在哪里，这就是我们知道我们可以判断他强奸某人的原因。他“拥有”他身体的动作，就像他拥有自己的身体一样。说一个人对他的身体负责，而不是对他的身体的影响，是说一个人负责瞄准和投掷一把刀，但不是为了它在哪里。
 
-Also, arguing that a man is not responsible for the effects of his body is a self-detonating statement, similar to the ones we examined above. If I say to you: “Men are not responsible for the actions of their bodies,” it would be eminently fair for you to ask me who is working my vocal chords and mouth. If I say that I have no control over my speech – which is an effect of the body – then I have “sustained” my thesis at the cost of invalidating it completely.
+另外，争辩说一个男人对自己身体的影响没有责任是一种自我引爆声明，类似于我们在上面检查过的语句。如果我对你说：“男人不负责他们身体的动作”，你问我谁是我的声带和嘴巴，这将是非常公平的。如果我说我无法控制我的言语 – 这是身体一种效果 –那么我就会“维持”我的论点，而不惜以完全无效为代价。
 
-If I am not at all responsible for my speech, then there is no point arguing with me. A tape recorder is also not responsible for its speech, which is why we tend not to get into virulent disagreements with magnetic strips. In cheesy horror films, young girls seem to be particularly susceptible to demonic possession – the inevitable priest who shows up always offers to talk to the demon in charge of the girl, at which point the girl starts making a sound like Don Ho gargling with ball bearings.
+如果我对我的演讲完全不负责任，那么与我争论是没有意义的。录音机也不负责它的讲话，这就是因为我们不倾向于与磁条产生强烈的分歧。俗气的恐怖电影，年轻女孩似乎特别容易受到恶魔附身–不可避免的牧师与女孩的恶魔谈话，在这一点上，女孩开始做一个像Don Ho球轴承漱口的声音。
+ 
+这种荒谬的肖像在某种意义上是准确的 - 如果有其他人完全控制了女孩的声带，那就是需要解决的问题，而不是女孩，她无法控制自己的反应。
 
-This ridiculous portrait is accurate in one sense though – if some other being is in full control of the girl’s vocal chords, it is that being which needs to be addressed, not the girl, who has no control over her responses.
+因此，如果我对你说我无法控制我的演讲，你可以问我：谁呢?  如果我回答说没有人这样做，那么和我争论就好像和电视机争论，或者前面提到的巨石在山坡上撞向你的车时，这是很有意义的。
 
-Thus if I say to you that I do not have control over my speech, you can ask me: who does? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
+因此，控制我的身体产生言语的行为要求接受我控制自己讲话的能力 - 这是对我对自己身体的所有权的一种肯定的肯定。
 
-Thus the very act of controlling my body to produce speech demands the acceptance of my ability to control my speech – an implicit affirmation of my ownership over my own body.
+现在，如果恶魔的占有是合法的，一个被恶魔附身的女孩向神父吐唾沫，我们就不会叫那个女孩粗鲁，而是宁愿可怜她被这样一个不礼貌的魔鬼所居住。谁控制了女孩的身体对她的行为的影响是有罪的 -这就是因为我们不会称一个在梦游偷走时的人“邪恶”, 因为他没有对自己的身体完全控制（虽然我们可能以其他方式阻止他）。这也是“疯狂无罪”的法律辩护的基础，即我们假定精神失常的人不能完全控制自己的行为。
 
-Now, if demonic possession were a valid occurrence, and a girl possessed by a demon spat on a priest, we would not call the *girl* rude, but would rather pity her for being inhabited by such an impolite demon. Whoever has control over the girl’s body is culpable for the effects of her actions – this is why we would not call a man who stole while sleepwalking “evil,” since he did not have full control over his own body (although we may restrain him in other ways). This is also the basis for the legal defence of “not guilty by reason of insanity,” which is that we assume that a man who is insane does not have full control over his actions.
+因此，拒绝身体的所有权就是拒绝所有的道德，正如我们所看到的，这是完全不可能的。从逻辑上讲，由于道德被定义为UPB的一个可强制执行的子集，因此拒绝道德就是说普遍认为不存在普遍偏好的东西。 
+最后，以言语的形式使用自己的身体来拒绝自己能控制自己身体的观念，这是一种公然的、无法克服的自相矛盾。
 
-Thus to reject the ownership of the body is to reject all morality, which, as we have seen above, is utterly impossible. Logically, since morality is defined as an enforceable subset of UPB, to reject morality is to say that it is universally preferable to believe that there is no such thing as universal preferences.
+就是这样，任何抛弃自我所有权的行为都会被彻底抛弃。
 
-Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
+既然我们拥有我们的身体，我们也不可避免地拥有我们行为的影响，不管它们是好是坏。如果我们拥有我们行动的影响，那么我们就清楚地拥有我们所生产的东西，无论我们生产的是弓、书还是谋杀。
 
-It is in this way that any rejection of self-ownership can be utterly discarded.
+### 财产和UPB
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
-
-### Property And UPB
-
-Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
+即使我们拒绝上述，我们仍然可以使用UPB明确断言普遍产权存在。
 
 As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
 
