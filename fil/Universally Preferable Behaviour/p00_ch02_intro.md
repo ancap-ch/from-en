@@ -6,7 +6,7 @@ Paghuhukay palabas mula sa narsistikong sinapupunan ng madamdaming interpretasyo
 
 Ang mundo ay parang patag; hindi ba. Ang araw at buwan ay parang mag sinlaki; sila ay hindi. Ang mga bituin ay parang gumagalaw paikot sa mundo; Hindi sila. Ang malaman ang katotohanan ay nangangailangan na makita natin ang mundo mula sa labas ng ating pandama - ito ay hindi nangangahulugan ng pagtanggi sa ating mga pandama, ngunit isang selyadong pagsunod sa*tunay*na katibayan ng mga pandama, kung saan hindi na ang mundo ay patag, ngunit ang bagay, enerhiya at pisikal na batas ay pare-pareho. Kapag binitawan natin ang bato sa aking kamay, ito ay mahuhulog - Ito ang*tunay*na ebidensya ng ating pandama, hindi nang ang mundo ay nakapirmi at hindi magagalaw. Ang ideya na ang mundo ay hindi magagalaw ay isang maling pagpapalagay na sumasalungat sa direktang ebidensya ng ating pandama, na kung saan ang lahat ay nahuhulog. Kung ang lahat ay nalalaglag, ang mundo ay hindi mapipirmi at hindi matitinag.
 
-These are the little truths of the everyday; that rocks fall, smoke rises, fire is hot and the sun and the moon are both round. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
+Ito ang maliliit na katotohanan ng ating araw-araw; na ang bato ay nalalaglag, ang usok ay umaangat, mainit ang apoy at ang araw at ang buwan ay parehong bilog. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
 
 In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
 
