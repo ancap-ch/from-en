@@ -8,7 +8,7 @@ Gamitin natin ang UPB framework para i-examin ang lohikal ng pagka pare-pareho n
 
 Upang gumawa ng isang walang katotohanan na halimbawa, isipin nating an tayo ay na magsusuri ng etikal na teorya na nagpapahayag na ang panggagahasa ay isang mabuting asal.
 
-Malinaw, na kung ipahayag ko na ang "X" ay "mabuti." pagkatapos ang kabaliktaran ng "X" ay dapat na maging masama. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+Malinaw, na kung ipahayag ko na ang "X" ay "mabuti." pagkatapos ang kabaliktaran ng "X" ay dapat na maging masama. Kung *hindi panggagahasa* ay mabuti, kung gayon ang *panggagahasa* ay masama. Conversely, if *raping* is good, then *not raping* must be evil.
 
 Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
 
