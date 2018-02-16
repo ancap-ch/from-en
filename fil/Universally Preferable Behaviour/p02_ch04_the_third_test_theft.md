@@ -6,7 +6,7 @@ Mayroong maraming mga paraan ng paglapit sa tanong ng mga karapatan sa ari-arian
 
 Malinaw, na ang moral na panukala sa mga karapatan sa ari-arian ay ito: alinman sa mga tao ay may karapatan sa pagmamay-ari ng ari-arian, o hindi ginagawa.
 
-Ngayon ang unang “ari-arian” na kailangan gawin ay ang katawan. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+Ngayon ang unang “ari-arian” na kailangan gawin ay ang katawan. “Pagmamay-ari” dapat una at pinapanguna ang pagkontrol sa sariling katawan, dahil kung ang kontrol na ito ay hindi umiiral, o hindi itinuturing na wasto, ang buong tanong ng moralidad – pabayaan ang pag-aari – ay lumabas sa bintana.
 
 UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
 
