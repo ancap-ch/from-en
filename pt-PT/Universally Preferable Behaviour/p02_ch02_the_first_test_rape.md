@@ -122,9 +122,9 @@ Se o estupro é definido como mau, então deve envolver o *início* do uso da fo
 
 Além disso, se a violação é má, então *não* violar deve ser bom - assim, dois homens numa habitação podem ser morais ao mesmo tempo, simplesmente não se violando.
 
-Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
+Dado que a evitabilidade é uma das chaves dos diferenciais entre "desagradável" e "imoral" e a violação é claramente um comportamento inevitável, a definição de "violação como má" também está de acordo com essa distinção.
 
-Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
+Ademais, dado que às vezes é fisicamente impossível violar alguém - por exemplo, quando uma erecção não pode ser alcançada - a definição de "estupro como mal" resolve o problema das pessoas serem imorais involuntariamente, o que é, por definição, impossível, devido ao critério de evitabilidade.
 
 The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
 
