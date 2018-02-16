@@ -36,7 +36,7 @@ Maaari nating paniwalaan ang mga hindi pinagtibay na mga bagay na maging totoo -
 
 Kung sasabihin ko na ang dalawa ay dinagdagan ng dalawa ay lima, ako ay gumagawa ng pagkakamali na maaaring maitama sa pamamagitan ng pagsangguni sa lohika. Kung sasabihin ko na ako ay naniniwa na ang bilog naparisukat ay mayroon, ngayon ako ay guamagawa ng tahasang sariling pagsalungat na pahayag, na kung saaan hindi pinapahintulutan ito. Kung ako ay lalayo pa, gayunman, at magmamatigas na sabihin na "foo dagdagan ng tury ay katumbas ng desty" - at tinatanggihan na bigyang kahulugan ng kahit anong tutunnin ko - ako ay gumagawa ng pahayag na kung saan ay lohikal at may katibayan * ay hindi maaaring magamit *.
 
-### Next Stop: The "Alternative Universe"
+### Ang susunod na pag hinto ng alternatibong kalawakan
 
 In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
 
