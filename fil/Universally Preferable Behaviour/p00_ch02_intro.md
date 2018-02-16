@@ -10,7 +10,7 @@ Ito ang maliliit na katotohanan ng ating araw-araw; na ang bato ay nalalaglag, a
 
 Sa pagitan ng maliit na katotohanan at nang mga dakilang katotohanan, gayunman, ang mga ilusyon na bumubulag sa atin - pareho sa physics at sa etika.
 
-Sa pisika, ang mga dakilang katotohanan ay hindi maaaring sumalungat sa mga maliliit na katotohanan. Walang "pinag-isang teorya ng patlang" ang kayang wastong kumontra sa ating direktang karanasang-pandama gaya sa nahuhulog na bato o sa umaangat na ningas. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+Sa pisika, ang mga dakilang katotohanan ay hindi maaaring sumalungat sa mga maliliit na katotohanan. Walang "pinag-isang teorya ng patlang" ang kayang wastong kumontra sa ating direktang karanasang-pandama gaya sa nahuhulog na bato o sa umaangat na ningas. Ang pinaka dakilang teoryang matematikal ay hindi magiging wasto kung ang pag-aaplay dito ay magbabalik ng maling pagbabago sa lugar ng pagwawasto.
 
 Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
 
