@@ -28,7 +28,7 @@ Maaari nating sabihin na:
 2. Ang panukala Y ay hind totoo dahil ito ay hind makatwiran.
 3. Ang panukala Z ay toto dahil ito ang *gusto* kong maging totoo ito.
 
-Ang ikatlong pahayag ay isang kumpletong kontradiksyon sa sarili. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
+Ang ikatlong pahayag ay isang kumpletong kontradiksyon sa sarili. Ang katotohanan ay malayang pagnanais, dahil ang pagnanais ay nangangahulugan ng pansariling paksa, at ang katotohanan ay nangangahulugan ng pagsang-ayon sa ideya na may pamantayang layunin ng lohika at naayon sa obserbasyon ng katotohanan. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
 
 Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
 
