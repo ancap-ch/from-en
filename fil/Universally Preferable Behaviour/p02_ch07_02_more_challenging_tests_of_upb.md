@@ -1,6 +1,6 @@
-### "Don't Eat Fish"
+### "wag kakain ng isda"
 
-What would be the status of the moral proposition: “It is evil to eat fish”?
+Ano ang kalagayan ng panukalang moral:"masama ang kumain ng isda"?
 
 Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
 
