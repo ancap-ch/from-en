@@ -154,11 +154,11 @@ Tulad ng*akademya*at ang akademikong mundo ay malamang na hindi maglaro ng anuma
 
 [^14]: Hayaan akong magmadali upang idagdag dito na, sa kabila ng aking mga misgivings tungkol sa kanyang "ekonomya," itinuturing ko pa rin si Pat Buchanan na isang mabuting tao.
 
-[^15]: An endeavor, by the way, that has been ridiculed by Taki Theodoracopulos, a veteran champion of the paleo-conservative-turned-Alt-Right movement and Spencer’s former employer.
+[^15]: Isang pagsisikap, sa pamamagitan ng paraan, iyon ay libakin sa pamamagitan ng Taki Theodoracopulos, isang beteranong kampeon ng kilusan paleo-konserbatibo-nakabukas-Alt-Right at dating amo ni Spencer.
 
 [^16]: Many youngsters have been initially attracted to libertarianism believing that this “live and let live” is the essence of libertarianism.
 
-[^18]: Except as some idle intellectual play or mental gymnastics by a few “exotic” individuals.
+[^18]: Maliban sa ilang mga walang ginagawang intelekwal na maglaro o mental na himnastiko sa pamamagitan ng ilang "kakaiba" na indibidwal.
 
 [^19]: Whereas the least support should be expected to come from the legally most “protected” groups such as, for instance, single Black Muslim mothers on welfare.
 
