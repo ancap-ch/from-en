@@ -18,7 +18,7 @@ Ayon sa kasaysayan, gayunman, sa pagitan ng ating maliit na mga katotohanan at n
 
 Sinasabi natin sa ating mga anak na huwag susuntukin ang isa't-isa, at naniniwala tayo na ang mali ang konsepto ng karahasan, bilang pangkalahatang tuntunin ng moralidad. Ang "maliit na katotohanan" ay:*huway manuntok*. Ang "dakilang katotohanan" ay *mali ang karahasan*.
 
-Gayunpaman, may umiiral sa ating isipan na isang haka-hakang nilalang na tinatawag na "Diyos," at ang nilalang na ito ay isinasaalang-alang na perpekto sa moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+Gayunpaman, may umiiral sa ating isipan na isang haka-hakang nilalang na tinatawag na "Diyos," at ang nilalang na ito ay isinasaalang-alang na perpekto sa moral. Sa kasamaang palad, ang nilalang na ito ay patuloy at mahalay na lumalabag sa kautusan na "mali ang karahasan" sa paglunod sa mundo, pagpapadala ng kaluluwa sa impyerno sa kabila ng kanilang perpektong paunang kaalaman sa mga "desisyon," pagbabasbas sa panggagahasa, pagpatay, pagnanakaw, pag atake at iba pang mga gawain na dapat nating ikondena bilang lubos na kasamaan sa isang indibidwal.
 
 Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
 
