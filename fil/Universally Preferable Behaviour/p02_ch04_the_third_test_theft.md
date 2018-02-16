@@ -2,11 +2,11 @@
 
 Kakailanganin nating gumugol ng kaunting oras sa pagnanakaw, dahil hindi ito maiiwas sa larawan ng tanong ng mga karapatan sa pag-aari, na lubhang nakapagtatalo sa ilan.
 
-Mayroong maraming mga paraan ng paglapit sa tanong ng mga karapatan sa ari-arian, mula sa “homesteading” sa mga legal na pagbibigay-kahulugan sa mga praktikal na pagsasaalang-alang. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+Mayroong maraming mga paraan ng paglapit sa tanong ng mga karapatan sa ari-arian, mula sa “homesteading” sa mga legal na pagbibigay-kahulugan sa mga praktikal na pagsasaalang-alang. Hindi ko matutugunan ang isa sa mga dito, dahil ang tanong ng mga karapatan sa ari-arian ay dapat mahulog sa balangkas ng UPB, kung ang UPB ay tumayo bilang isang makatwirang pamamaraan para sa pagsusuri ng mga panukalang moral.
 
-Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
+Malinaw, na ang moral na panukala sa mga karapatan sa ari-arian ay ito: alinman sa mga tao ay may karapatan sa pagmamay-ari ng ari-arian, o hindi ginagawa.
 
-Now the first “property” that must be dealt with is the body. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+Ngayon ang unang “ari-arian” na kailangan gawin ay ang katawan. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
 
 UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
 
