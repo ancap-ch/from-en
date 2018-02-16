@@ -12,9 +12,9 @@ Sa pagitan ng maliit na katotohanan at nang mga dakilang katotohanan, gayunman, 
 
 Sa pisika, ang mga dakilang katotohanan ay hindi maaaring sumalungat sa mga maliliit na katotohanan. Walang "pinag-isang teorya ng patlang" ang kayang wastong kumontra sa ating direktang karanasang-pandama gaya sa nahuhulog na bato o sa umaangat na ningas. Ang pinaka dakilang teoryang matematikal ay hindi magiging wasto kung ang pag-aaplay dito ay magbabalik ng maling pagbabago sa lugar ng pagwawasto.
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
+Ayon sa kasaysayan, gayunman, sa pagitan ng ating maliit na mga katotohanan at ng dakilang mga katotohanan ay nakahimlay ang kung ano ang tinawag kong "sona ng kawalan."
 
-### The "Null Zone"
+### Ang "Sona ng Kawalan"
 
 We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
 
