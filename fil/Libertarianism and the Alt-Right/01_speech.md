@@ -140,13 +140,13 @@ Tulad ng*akademya*at ang akademikong mundo ay malamang na hindi maglaro ng anuma
 
 [^7]: *Aka* Soviet Poverty Lie Center.
 
-[^8]: *Aka* “non-discrimination”.
+[^8]: *Aka* “di-diskriminasyon”.
 
-[^9]: Which I have termed the “Stupids for Liberty” and my young German friend Andre Lichtschlag as “Liberallala-Libertarians”.
+[^9]: Na aking tinawag na "Stupid para sa Kalayaan" at ang aking batang Aleman na kaibigan na si Andre Lichtschlag bilang "Liberallala-Libertaryan".
 
 [^10]: Colin Robertson.
 
-[^11]: Which, of course, was the reason for having invited them here.
+[^11]: Alin, siyempre, ang dahilan kung bakit inanyayahan sila dito.
 
 [^12]: Which is entirely compatible with libertarianism and its *desideratum* of freedom of association and opposition to forced integration.
 
