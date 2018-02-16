@@ -1,39 +1,39 @@
-## The Second Test: Murder
+## آزمون دوم: قتل
 
-Let us now test the UPB framework against moral propositions regarding *murder*, which here is defined as killing intentionally and with premeditation, not in self-defence.
+اکنون، اجازه دهید چهار چوب یو پی بی را در برابر قضایای اخلاقی مربوط به "قتل"تست کنیم که در اینجا به عنوان قتل عمدی و با تفکر تعریف شده است نه دفاع از خود.
 
-Since we spent so much time dissecting the question of rape – and since many of the same arguments will apply here – this analysis can be much briefer.
+از آنجایی که ما وقت زیادی را صرف تحقیق درباره ی تجاوز به عنف کردیم و به دلیل این که بسیاری از این استدلال ها در این جا کاربرد دارند، این تحلیل می تواند بسیار خلاصه تر باشد.
 
-Let us return to our two moral guinea pigs sitting in a room – we’ll call them Bob and Doug.
+حال به دو خوکچه هندی که در یک اتاق نشسته اند، بر می گردیم. ما آنها را باب و داد می نامیم.
 
-If murder is morally good, then clearly *refraining* from murder is immoral. Thus the only chance that Bob and Doug have to be moral is in the instant that they simultaneously murder each other. Physically, this is impossible of course – if they both stand and grip each other’s throats, they will never succumb to strangulation at exactly the same moment. If Bob dies first, his grip on Doug’s throat will loosen, thus condemning Doug to the status of *immorality* until such time as he can find another victim. Because Bob dies first – and thus cannot continue to try murdering Doug – Bob’s death renders him more immoral than Doug’s murder.
+اگر قتل از لحاظ اخلاقی خوب است، پس واضح است که "قصور" از قتل غیر اخلاقی است. بنابراین تنها شانسی که باب و داگ می توانند اخلاقی باشند، این است که آنها به صورت همزمان یکدیگر را به قتل برسانند. از لحاظ فیزیکی این غیر ممکن است. اگر هر دو آنها بایستند و گلوی یکدیگر را فشار دهند، هرگز دقیقاً در یک لحظه، هر دو آنها نخواهند مرد. اگر باب اول بمیرد، فشار او بر گلوی داگ از بین خواهد رفت. بنابراین داگ زمانی که بتواند قربانی دیگری پیدا کند به غیر اخلاقی بودن محکوم می شود. چون که باب اول می میرد، بنابراین نمی تواند به کشتن داگ ادامه دهد. مرگ باب او را نسبت به قاتل داگ بودن، غیر اخلاقی تر می کند.
 
-Intuitively, we fully recognise the insanity of the moral proposition that murder is good. Logically, we know that the proposition is incorrect because if it is true, it is impossible for two men in a room to both be moral at the same time. Morality, like health, cannot be considered a mere “snapshot,” but must be a process, or a continuum. The UPB framework confirms that Bob cannot be “evil” *while* he is strangling Doug, and then achieve the pinnacle of moral virtue the moment that he kills Doug – and then revert immediately back to a state of evil. Moral propositions must be universal, and independent of time and place. The proposition that murder is moral fails this requirement at every level, and so is not valid.
+صراحتا، ما به طور کامل حماقت اخلاقی بودن گزاره "قتل خوب است" را میفهمیم. به طور منطقی می دانیم که این گزاره نادرست است زیرا در غیر این صورت، برای دو نفر که به صورت همزمان در یک اتاق هستند، اخلاقی بودن غیر ممکن است. اخلاق، مانند سلاقی، نمی توانند صرفاً به عنوان یک "عکس فوری" در نظر گرفته شود. بلکه باید پیوستگی داشته باشد و به نوعی فرآیند باشد . بر اساس چهارچوب یو پی بی ، باب نمی توانند "بد" باشد در حالی که او دارد داگ را خفه می کنند و سپس لحظه ای که داگ را به قتل می رساند، به نقطه اوج تقوای اخلاقی برسد و سپس فورا به حالت "بد بودن" برسد. گزاره های اخلاقی باید جهانی و مستقل از زمان و مکان باشند. گزاره ی "اخلاقی بودن قتل" در هر سطحی نسبت به این الزام ناکام می ماند. در نتیجه، معتبر نیست.
 
-If murder were morally good, then it would also be the case that a man stranded on a desert island would be morally evil for as long as he lived there, since he would have no victims to kill. A man in a coma would also be evil, as would a sleeping man, or a man on the operating table. A torturer would be an evil man as long as he continued to torture – but then would become a good man in the moment that his victim died at his hand.
+اگر قتل از لحاظ اخلاقی خوب بود، این نیز می توانند موردی باشد که مردی که در جزیره ی بیابانی قرار دارد، تا زمانی که آنجا زندگی می کند، از نظر اخلاقی "شرور" باشد،زیرا هیچ قربانی برای کشتن ندارد. همچنین یک مرد در اغما نیز می بایست شرور باشد،همانند یک مرد خوابیده و یا یک مرد پشت میز کار. یک شکنجه گر نیز می تواند تا زمانی که به شکنجه ادامه می دهد، شرور باشد اما زمانی که قربانی در دستانش جان داد، وی انسان خوبی می شود.
 
-We can thus see that the proposition that “murder is good” is not only instinctively bizarre, but also logically impossible.
+بنابراین می بینیم که گزاره ی "قتل خوب است" نه تنها عجیب و غریب است، بلکه از لحاظ منطقی نیز غیر ممکن است.
 
-The other objections that applied to the proposition “rape is good” also apply here. Murder cannot be morally neutral, since morally neutral judgements or actions cannot be forcibly inflicted upon another, and murder by definition is forcibly inflicted upon another.
+اعتراضات دیگری که در مورد گزاره "تجاوز به عنف" شده است، اینجا کاربرد دارند. قتل نمی تواند از لحاظ اخلاقی بی طرف باشد زیرا قضاوت ها و اعمال اخلاقی نمی تواند به صورت اجباری بر روی دیگری اعمال شود. و در تعریف، قتل به صورت اجباری بر روی دیگری انجام میشود.
 
-There is also a basic contradiction involved in any universal justification for the act of murder, just as there was in the act of rape. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
+همچنین یک تضاد اساسی برای عمل "قتل" دقیقاً همانند عمل "تجاوز به عنف" در هر همترازی جهانی وجود دارد. اگر باب سعی می کنند که داگ را خفه کند و داگ مقاومت می کند، باب چگونه می تواند اعمال خود را طبق یو پی بی و به صورت منطقی تراز کند؟
 
-Well, he could say something like: “a man’s life can be taken any time you want to” – but of course, since UPB is the only valid test of moral propositions, this justifies Doug killing Bob as much as it does Bob killing Doug. Thus Bob can only justify strangling Doug if Doug does not resist in any way – but of course if Doug does not resist, then can it really be considered murder?
+او می تواند چیزی مانند این بگوید: هر زمانی که شما بخواهید، زندگی یک نفر می تواند گرفته شود. اما از آنجا که یو پی بی تنها آزمون معتبر گزاره های اخلاقی است، این قتل داگ توسط باب را توجیه می کند همانطور که قتل باب توسط داگ را توجیه می کند. بنابراین، قتل داگ توسط باب تنها زمانی توجیه می شود که داگ هیچگونه مقاومتی از خود نشان ندهد. اما اگر داگ مقاومت نکند، آیا این واقعاً می تواند به عنوان قتل محسوب شود؟
 
-Let us say that Bob then adjusts his premise to say: “I can shoot a man in his sleep any time I want.” The problem here is not only the sleep that Bob will lose based on his universal premise, but also the logical impossibility of reversing moral propositions based on the differences in the states of sleeping and waking. Biologically speaking, a man does not become the *opposite* of a man when he falls asleep, any more than gravity reverses when he blinks.
+اجازه دهید بگوییم که با فرض خود را با گفتن "من می توانم هر زمانی که خواستم یک نفر را در خواب بکشم" توجیه کند. مشکل اینجا نه تنها خواب است که باب بر اساس فرض جهانی است، از دست می دهد، بلکه گسستن گزاره های اخلاقی بر اساس تفاوت ها در حالت خواب و بیداری غیر ممکن است.
 
-Since a man remains a man when he falls asleep, it cannot be the case that opposite moral rules apply to him in this state. Thus to say that it is immoral to murder a man when he is awake, but it is moral to murder a him when he is asleep, is to create a logical contradiction unsupported by any objective biological facts. A physicist may say that a rock falls down, but a helium balloon rises up – but that is because a rock and a helium balloon have fundamentally different properties. No credible physicist can say that one rock falls down, but that another rock with almost exactly the same qualities falls up. The same is true for moral theories – no credible philosopher can say that morality reverses itself when a man is asleep, since a man’s nature does not fundamentally alter when he naps.
+از آنجایی که یک آدم، هنگامی که می خوابد، یک آدم باقی می ماند، این نمی تواند موردی باشد که او در مقابل مقررات اخلاقی قرار می گیرد. در نتیجه می توان گفت: این غیر اخلاقی است که یک فرد هنگام بیداری کشت؛ اما کشتن او در حالی که خوابیده است، اخلاقی است. این باعث ایجاد یک تناقض منطقی است که با هیچ یک از واقعیت های بیولوژیکی عینی مطابقت ندارد. یک فیزیکدان ممکن است بگوید:" یک سنگ فرود می آید اما یک بالون هلیوم بالا می رود." اما این به دلیل این نیز است که یک سنگ و یک بالون هلیوم دار، ویژگی های اساسا متفاوتی دارند. هیچ فیزیکدان معتبری، نمی تواند بگوید که یک سنگ فرود می یآید اما سنگ دیگری، دقیقاً با همان ویژگی ها، بالا می رود. این امر برای نظریه های اخلاقی نیز صادق است. هیچ فیلسوف کاردانی نمی تواند بگوید که هنگامی که یک مرد خواب باشد، اخلاق خود را تغییر می دهد. زیرا طبیعت انسان، هنگامی که او خوابیده است، اساساً تغییری نمیکند.
 
-In this way, if we cannot justly shoot a man when he is awake, we also cannot shoot him when he is asleep, since he is still a man.
+بنابر این، اگر ما نمی توانیم یک آدم را در هنگام بیداری اش به قتل برسانیم، ما همچنان نمی توانیم او را هنگامی که خواب است، بکشیم؛ زیرا او هنوز یک آدم است.
 
-Thus, since the statement “I can shoot a man in his sleep any time I want” cannot be validated according to UPB, it cannot be a true moral proposition.
+بنابراین، از آنجایی که جمله ی:"من می توانم یک انسان را هرزمان که خواستم هنمگامی که خواب است" طبق چهارچوب یو پی بی آن نمیتواند یک گزاره ی اخلاقی صحیح باشد.
 
-Here again we find that the UPB framework holds true in terms of murder. The only possible valid moral theory regarding murder is that it is evil, or universally banned.
+در اینجا دوباره می بینیم که چهارچوب یو پی بی در مورد قتل درست است. تنها نظریه معتبر اخلاقی در رابطه با قتل، این است که بد یا به صورت جهانی ممنوع است.
 
-We could take the same approach to the question of assault, but the arguments would be identical to those of rape and murder, so for the sake of brevity, we shall continue.
+ما می‌توانیم رویکرد مشابه را در مقابل مسئله تهاجم به کار بریم؛ اما استدلال ها همانند تجسس و قتل است. بنابراین، برای ایجاز، ما باید ادامه دهیم.
 
-Let us now turn to the question of theft. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
+اکنون به سوال سرقت بر میگردیم. اگر این چهارچوب درست در اینجا نیز وجود داشته باشد، پس ما به تریفکتا کامل از فهم اخلاقی غریزی رسیده ایم و دلایل منطقی برای اعتقاداتمان یافته ایم. ما علم ریاضی را کشف کردیم که چگونگی توانایی ما برای گرفتن یک توپ به صورت غریزی را توضیح می دهد و این یک شروع ضروریست.
 
-### Self-Defence?
+### .؟دفاع از خود
 
-We have skirted over the issue of self-defence with regards to murder, though it is scarcely necessary to examine it in the case of rape. This is not because the issue of self-defence is either self-evident or uncomplicated, but rather because the complications that exist can be dealt with more comprehensively after we look at the question of theft.
+ما درباره ی مسئله دفاع از خود در قبال قتل احاطه شده ایم. هرچند که در مورد تجاوز به عنف، به ندرت مورد بررسی قرار گرفته است. این به این دلیل نیست که مسئله دفاع از خود، بدیهی یا ساده، است؛ بلکه به این دلیل است که بعد از اینکه ما به مسئله سرقت نگاه کردیم، عواقبی که وجود دارد می تواند جامع تر در نظر گرفته شود.
