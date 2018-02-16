@@ -64,7 +64,7 @@ Naitanung ko ang retorikang katanungan dahil ito ay tunay at talagang seryoso. M
 
 "Ah," maaari niyong sabihin, "pero kasuotan ay Hindi pwedi dahil nabili mulang ito sa tindahan ng mga second hand - ang paglalagay sa uniporme ng sundalo Wala nang magagawa sa iyo ang isang sundalo na higit sa photocapying ng doctorate na magbibigay sayo ng Ph.D."
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+Ang anolohiya ay Hindi tama, dahil nagkaroon ng isang pH.D. o Ang photocopy ng doctorate ay Hindi pweding palitan ng kahit Anu sa mga patakaran ng moral na nasasakupan mo bilang isang tao.
 
 “Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
 
