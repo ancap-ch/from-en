@@ -126,9 +126,9 @@ Dado que a evitabilidade é uma das chaves dos diferenciais entre "desagradável
 
 Ademais, dado que às vezes é fisicamente impossível violar alguém - por exemplo, quando uma erecção não pode ser alcançada - a definição de "estupro como mal" resolve o problema das pessoas serem imorais involuntariamente, o que é, por definição, impossível, devido ao critério de evitabilidade.
 
-The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+O violador pode justificar as suas acções ao revogar a proposição de "estupro é bom" e substituí-la por outra proposição que apoie o seu desejo de estupro, como: "É moral tomar o próprio prazer, independentemente do descontentamento dos outros"
 
-This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+Essa proposição também falha no teste lógico mais básico do CUP. Se Bob acredita que deve tomar o seu prazer violando o Doug - independentemente do descontentamento de Doug - então, racionalmente, Bob não consegue elevar a sua preferência para um CUP.
 
 If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
 
