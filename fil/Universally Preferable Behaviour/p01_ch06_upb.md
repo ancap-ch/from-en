@@ -11,7 +11,7 @@ Bagama't una kaming nakatuon sa UPB sa larangan ng etika, ang UPB ay makikita na
 - Wika
 - Etika
 
-Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+Ang etika ay ang subset ng UPB na may kinalaman sa ng *ipinahamak* pag-uugali, o ang paggamit ng karahasan. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
 
 Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
 
