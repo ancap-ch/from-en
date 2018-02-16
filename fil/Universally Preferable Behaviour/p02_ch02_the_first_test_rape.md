@@ -1,6 +1,6 @@
 ## Ang Unang Pagsubok: Panggagahasa
 
-Kahit na ito ay isang hindi kasiya-siya paksa upang talakayin, Ang panggagahasa ay walang alinlangan *Hind bababa sa* hindi siguradong aksyon na dapat isama ang anumang moral na teorya. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
+Kahit na ito ay isang hindi kasiya-siyang paksa upang talakayin, Ang panggagahasa ay walang alinlangan *Hind bababa sa* hindi siguradong aksyon na dapat isama ang anumang moral na teorya na dapat maglaman. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
 
 Gamitin natin ang UPB framework para i-examin ang lohikal ng pagka pare-pareho ng mga etikal na panukala tungkol sa panggagahasa.
 
