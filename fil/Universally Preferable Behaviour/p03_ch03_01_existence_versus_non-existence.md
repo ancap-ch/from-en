@@ -66,11 +66,11 @@ Naitanung ko ang retorikang katanungan dahil ito ay tunay at talagang seryoso. M
 
 Ang anolohiya ay Hindi tama, dahil nagkaroon ng isang pH.D. o Ang photocopy ng doctorate ay Hindi pweding palitan ng kahit Anu sa mga patakaran ng moral na nasasakupan mo bilang isang tao.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+"Well," maaari Kang tumogon, "pero ang pagkakaiba ay ang sundalo ay mayroon karapatan moral na pinagkaloob sa kanya ng karaniwang mamamayan, alang alang sa kolektibong pagtatangol sa sarili at iba pa."
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Itong raises ay may napakainteresadong punto, na Kung saan ang tanong ay Kung ang opinyon ay makakapagpabago ng katotohanan.
 
-### Opinions And Reality
+### Mga opinyon at katotohanan
 
 Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
 
