@@ -1,58 +1,58 @@
-## Existence Versus Non-Existence
+## 存在与非存在性
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+我们将“不存在”定义为不具有质量或能量，或显示质量或能量的影响，如重力可察觉的关系。
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+上帝不拥有物质或能量，也不显示物质或能量的影响 -无论是通过感官，还是通过理性，上帝实际上都无法以任何方式，形状或形式检测或验证。
 
-Thus if I say, “God exists,” what I am really saying is:
+因此，如果我说，“上帝存在”，我真正说的是：
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+“存在的东西必须是可察觉的；上帝是不可察觉的，但上帝存在 - 因此不存在的存在”。
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+换句话说，通过说“上帝存在”，我创造了一个不可逾越的矛盾。我把“存在”定义为“不存在”，这与“将生命定义为”无生命的物质“或将岩石定义为”与岩石相反“或”方块“定义为”圈”。 
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+同样，如果我创建了一些备用的宇宙在“非存在等于存在”和“矛盾等于一致性”和“真理与谬误”和“非理性与理性，那么我真的做的是创建一个领域称为“错误，“把一切都是不真实的，并定义了这个领域的一地方“误差等于真理”。[^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+当然，人们不会创造这个“交替的宇宙”，以使我们自己的宇宙中的真理失效，而是拯救现实中错误的东西，并称之为真。例如，没有人争辩说“上帝可能存在于另一个宇宙，所以你不能声称上帝不存在” 曾争论过, “我可能不存在于另一个宇宙，所以你不能声称我存在于此”。
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
+他们也倾向于对“另一个宇宙，你可能同意我认为上帝不存在，所以你成为无神论者” 的论点作出回应。[^3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+如果现实有效的陈述可以无休止地反对, 因为一些虚构的境界称为“误差等于真理”无效，那么真正被说的是“没有关于真理的正面陈述可以是有效的” -然而，我们作为哲学家聪明现在知道这个说法是自相矛盾的，因为它是一个积极的陈述被认为是真的，说没有积极的陈述是真实的。如果没有什么是真的或假的，甚至是那句话，那么任何事情都不能说任何话。使用词汇，使用英语，使用可理解的句子 -这一切都毫无意义，因为在这个“另类宇宙”中，这种结构化的话语完全是一派胡言。如果在这个交替的宇宙中，真实的事物对我们在这个宇宙中所作的陈述有影响，那么显然相反也是如此，这意味着对于任何事物都不可能做出任何陈述，因为它们的完全相反也同样如此。
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+该声明“误差等于真理”的真实的现实是“零等于零”的重言式的疯狂。
 
-### The "Alternate Universe" In Human Society
+### 人类社会的“交替宇宙”
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+我们花这么多时间来处理这个“交替宇宙”理论的原因是它与人类社会有直接的关系，用来证明我们之间所犯下的最大的罪恶。
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+根据我们个人的经验，我们知道谋杀是错误的。在上述例子中的命题，谋杀在道德上是不对的，我强烈怀疑任何人都有自己的道德本能通过UPB严格的抽象推理证实震惊。然而，在这一部分，你正式允许开始真正震惊。
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+科学认识上最大的飞跃是所谓的“统一理论”。爱因斯坦花了几十年的时间试图建立一个统一的场论; 而把强、弱力、电磁力、重力等综合起来的物理学理论仍然是难以捉摸的。
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+然而，UPB为框架，不仅证明了我们的道德本能在个人, 哲学和普遍层面上的道德本能 - 同时也对人类社会产生了深远而令人震惊的影响。
 
-#### UPB In Action
+#### UPB行动
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+UPB框架验证道德命题要求他们是内在一致的，地点和个人方面具有普遍性来验证道德主张。
 
-If we accept UPB, we must also accept the following corollary:
+如果我们接受UPB，我们也必须接受以下推论：
 
-- Moral propositions are independent of costume.
+•道德主张与服装无关。
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+这意味着一个人不能改变他的道德本性和他的衣着。改变服装的行为不会改变人的本性。因此，反对的道德规则不能基于一个人穿的衣服而有效。
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+当然，士兵们穿的服装与一般公民不同。普通公民被禁止谋杀；然而，士兵不仅被允许谋杀，而且在道德上被认为谋杀。
 
-Let’s take another example.
+让我们再举一个例子。
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+正如我们在上面看到的那样，偷窃在道德上是错误的。在任何情况下，在任何情况下，所有人的道德上都是错误的。既然偷窃是不经同意强行剥夺他人财产的行为，那么税收永远是普遍的、永远的道德败坏。税收根据定义是在未经其同意的情况下强行拆除某人的财产，因为税收依赖于开始使用武力剥夺他的财产。
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+我们所谓的“政府”不过是这个空白地带的另一个例子，上面是向下的，其中黑色是白色，真实是虚假和邪恶是好的。
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+社会进步到了理性和证据从个人到普遍的飞跃，并摧毁了任何不合理的空白地带。科学的进步正是在一定程度上它拒绝神和主观的“绝对”不合理。医药的发展完全的程度，它拒绝祈祷和空洞的仪式的效果，而不是依赖的理由和证据。哲学 - 也就是整个人类社会 - 将完全推进到拒绝国家主义和宗教伦理理论的不合理的“方圆道德”的程度。
 
-### Government
+### 政府
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+他说政府相反的道德规则从其他社会下运作是完全一样，就像说“妖精免疫重力”。首先，妖精不存在–和的一种方法 - 我们知道他们的行为方式之一不存在的是它声称它们不受重力的影响。 First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
 
 In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
 
