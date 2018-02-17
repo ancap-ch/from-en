@@ -1,58 +1,58 @@
-## Foreword
+## Önsöz
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+Birçok masalda korkunç bir canavar ejderha veya şahmaran yaşar, çevredeki topraklar da zulüm yapar. Köylüler, bu canavarlar yüzünden korku ile yaşar; hayvanlarını kurban verir, öldürücü dürtüleri yatıştırmak umuduyla para ve kan ödeme yaparlar.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Çoğu insan, bu canavarın gölgesi altındadır, korkularını "ihtiyatlı" olarak adlandırır, ancak birkaç sarhoş -  belki de cesaret veya ahmaklık üzerine - savaşmaya karar verir. Yıl ve yıl, on yıllarca, umut verici şampiyonların etkisi bu korkunç zorbaya karşı güçlerini, erdemlerini ve kurnazlığını birleştirmeye çalışır.
 
-Try – and fail.
+Dene ve başarısız ol.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Canavar her zaman ölümsüzdü. Dolayısıyla köylüler, onları zorbalıklardan kurtarmaya zaman bulamıyorlardı. Canavar, hiçbir zaman rasyonel olmadığı gibi hiçbir zaman antlaşma veya alışveriş yapmaya gönlü de yoktu.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Umutsuz köylülerin tek umudu canavarı yenebilecek birinin gelmesini beklemekti.
+Kaçınılmaz olarak, bir adam ilerleyerek herkese tamamen uyumsuz geldiğini ileri sürer. O istikrarlı bir çocuk, bir ayakkabıcı oğlu, bir fırıncının çırağıdır - bazen de vahşi bir şeydir.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Bu kitap böyle bir canavar üzerine kişisel saldırı hikayemdir.
 
-This book is the story of my personal assault on just such a beast.
+Bu "canavar", objektif, rasyonel, laik ve bilimsel bir etik sistem tanımlamanın imkansız olduğu inancındadır. Bu "canavar", ahlakın tanrı ve hükümetlerin irrasyonel bataklıklarında sonsuza dek kaybolması gerektiği, sadece pragmatik nedenlerden ötürü uygulanan yanılsamadır, ancak sonsuza kadar mantıksal gerekçe ve açık tanımdan yoksundur. Bu "canavar", erdemin, en büyük sevincimizin, en derin mutluluğun, laik yetişkinler tarafından bir kenara atılması ve perçinlenecek toz içinde bırakılması, politikacılar ve rahiplerin - ebeveynlerin yeşerttikleri ve sömürdükleri fantezisidir. Bu "canavar", ebeveynlerin azarları olmadan, tanrıların zorbalığa uğratılmasını veya hükümetlerin silahlarını kullanmaksızın, akılcı ve iyi olamayacağımız batıl inançtır.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Bu canavar Sokrates'ten Platona, Augustine'den Hume'a, Kant'dan Rand'a birçok büyük kahraman getirdi.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+İnsanlığa maliyeti çok büyüktü.
 
-The cost to mankind has been enormous.
+Akılcı bir evrensel ahlak sistemi tanımlayamadığımız için, çocuklarımıza dini korku hikayeleri uygulamak zorunda kaldık, kendilerine "devlet" diyen ruhsuz denetçilerin küçük bir tekeline silahlar, hapishane ve ordu verdik.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+"Etik" olarak adlandırdığımız şey subjektif ve sadece *kültürel* olmaya devam ettiğinden, kaçınılmaz olarak, toplumsal kuralları uygulamak için zorbalık, korku ve şiddete dayanıyoruz. Etik, bilimsel yöntemin rasyonel temelinden yoksun olduğu için, "ahlak", kanlı mitolojilerle savaşa devam ediyor; her çete dişleri ve tırnakları ile  savaşırken insanların "erdem"e bağlılıklarını kontrol etmek için çivi çakıyor.
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Ahlak olmaksızın yaşayamıyoruz, ancak ahlakı objektif olarak tanımlayamıyoruz - bu yüzden de görkemli ikiyüzlülüğün, alaycı baskınlığın ya da dindar köleliğin hayatlarını boşaltmak için sonsuza kadar mahkum ediyoruz.
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Entelektüel olarak, dünyada daha fazla menfaat yoktur. nesnel ve rasyonel ahlaki kurallar belirleme Bizim başarısızlık din ve devletlerin savaşlarda yüzlerce milyon insan hayatına mal oldu.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Birçok yönden, menfaatler daha da yükseliyor.
 
-In many ways, the stakes are getting even higher.
+İnternetin artan bilgi akışı, "erdem" denilen şeyin iki yüzlü yaşlılarının mizacına hizmet edeceği masallarından çok daha az ya da daha az olduğu yeni neslin şüphelerini artırdı. Otoriteler tarafından söylenen dindar yalanlar - ve onlara ibadet edenlerin suç ortaklığı - her zamankinden daha açıktır.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+"Gerçek", manipülasyona maruz kaldı; Kontrol olarak "erdem"; Kölelik olarak "sadakat" ve buna "ahlak" denilen şey, zayıf ve korkusu olan insanları, kendileri için köleleştirmeye kandırmak adına tasarlanmış gülünç bir kukla şovu olarak ortaya çıkmıştır.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+Bu aydınlanma, on dokuzuncu yüzyılda Almanya'da olduğu gibi yeni nesil nihilistleri doğurdu. Bu uçtaki göreceli insanlar, herhangi bir kesinliği iddia eden herkes için en iğneleyici saldırılarını yapar. Bu post-modern nesiller, ortak geçmişlerinin kültürel dayanaklarını aştı, ancak şimdi tüm gerçeği yalnızca ön yargılı iddia olarak görüyorlar. Alaycı "bilgelik" deşifre edilmiş masum çocuklar gibi, tüm iletişimi reklam olarak, tüm iddiaları propaganda olarak ve tüm ahlaki önerileri ikiyüzlü hırsızlık olarak görüyorlar.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+Ahlaki önerileri değerlendirmek için tutarlı, objektif ve rasyonel bir çerçeve üzerinde anlaşmaya varmadığımız için, "ahlak" mistisizme ve kaçınılmaz şiddet sonucu ortaya çıkmaya devam ediyor. Tıpkı aydınlanma öncesinde, dini mezhepler aristokrasinin kanatlarını kontrol etmek için sonsuza kadar savaşmıştı. Şimdi de ahlaki mitolojileri devletin kontrolü ve tüm baskı zorunluluğu için kontrol etmek için mücadele ediyorlar.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+Dolayısıyla, modern bilime göre ahlak, tıpkı orta çağ "astronomisi"nin modern astronomiye yaptığı gibi - hikaye anlatımı, tehditler, zorlama ve sömürü yoluyla uygulanan - gerçeğe yönelik herhangi bir gerçek ilerlemeyi aktif olarak barındıran bir sanal mitolojinin alanı olarak kalır.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+Bu canavarın göreceli etik tezgahı adı altında, vergilendirme, hapis, sansür ve savaşları haklı çıkararak bize bu durumu yediriyorlardı. Devlet okulların da ve Pazar günlerinde gençleri köleleştirir; yoksulları refahın yumuşak gagalarında yakalar; Doğmamış olanları bile ulusal borçların dipsiz kuyularında köleleştirir.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+“On truth: The tyranny of illusion” isimli önceki kitabımda yazdığım gibi, kanıtlanmamış etik teorilerin merkezinde yer alan en temel yalan; bu teorilerin çocuklara gerçekte salt kültürel kutuplaştırıcı olduklarını, nesnel ve anlaşılamaz gerçekler olarak sunmasıdır. Bilim adamlarının bir hükümete ya da bir Vatikan'a ihtiyaç duymaması, bilim insanlarının anlaşmazlıkları çözmede objektif bir metodolojiye sahip olmalarıdır: bilimsel yöntem. Dilin evrimini yönlendirmek için merkezi bir otoriteye ihtiyaç duymaması sebebinin, stil ve faydalılık için biriken bireysel tercihlerin "özgür piyasası"na dayanıyor olmasıdır.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+Modern ahlakın - tarih boyunca ahlakın - her zaman öncelikle çocukların zindeliğini ve ardından yetişkinleri tehdit etmek zorunda kalmış olması, bunun erdemli bir gerçek olarak maskelenen manipülatif bir yalandan ibaret olmasıdır.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+Gerçek şu ki ahlaka ihtiyacımız var; Yalan, tanrıların ya da hükümetlerin rasyonel olarak onu tanımlayabileceği ya da haklı olarak uygulayabileceği şekildedir.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+Bu kitapta amacım ahlak teorilerini doğrulamak için objektif, tutarlı, açık, rasyonel, deneysel - ve *gerçek* bir metodoloji tanımlamaktır.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Şu anda, şüphecilik dalgası hissedeceğinizin tam farkındayım.Tam olarak anlıyorum ki, birilerinin İnternet'te olması ihtimali – çılgınların dünyası– bir şekilde, çağların felsefi sorununu özellikle sorunun yüksek olmadığını çözdü – Aslında bu noktadan neredeyse ayırt edilemeyecek kadar sıfıra yakın olurlardı.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+Yine de, *tamamen* sıfır değil.
 
-Still, not *quite* zero.
 
 ### Ground Rules
 
