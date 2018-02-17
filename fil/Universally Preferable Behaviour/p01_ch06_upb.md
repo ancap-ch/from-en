@@ -17,7 +17,7 @@ Tingnan natin ang tatlong aksyon, upang matulungan kaming higit na makilala ang 
 
 ### Hindi makatwiran
 
-Sabihin nating mayroon kaming isang debate tungkol sa pagkakaroon ng diyos. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Sabihin nating mayroon kaming isang debate tungkol sa pagkakaroon ng diyos. Matapos kung ilabas ang aking mga argumento, pinapalakpak mo ang iyong mga kamay sa iyong mga tainga, kumanta na sinabi sa iyo ng Diyos na Siya ay umiiral, at samakatuwid ang lahat ng aking mga argumento ay walang kahulugan. Maliwanag, na ang iyong tugon sa aking posisyon ay hindi makatwiran. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
 
 ### Lying
 
