@@ -23,9 +23,9 @@ Sabihin nating mayroon kaming isang debate tungkol sa pagkakaroon ng diyos. Mata
 
 Sabihin natin na ikaw at ako ay nagtatakda ng mga panuntunan para sa isang debate, at pareho kaming sumasang-ayon sa paghatol sa tanong ng pag-iral ng Diyos ayon sa dahilan at katibayan. Kung, habang nagpapatuloy ang debate, bumabalik ka sa isang posisyon ng bulag na pananampalatay, at tanggihan ang aking mga argumento *sa kabila ng* kanilang katwiran at katibayan, hindi mo pinananatili ang iyong salita. Sa ibang salita, ikaw ay nagsinungaling nang sinabi mo na ang tanong ay mapagpasyahan ng dahilan at katibayan.
 
-Ang pagkakaiba sa pagitan ng dalawang sitwasyong ito (hindi makatwiran laban sa pagsisinungaling) ay ang pagkakaiba sa pagitan ng kontrakwal at hindi kontrakwal na kaayusan. Kung ibigay ko sa iyo ang isang daang dolyar at pagkatapos ay lumakad palayo, hindi ako makatarungan lumapit sa iyo sa isang tao at sabihin na ikaw ngayon ay uutang sa akin ng isang dolyar, dahil ito ay isang pautang. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+Ang pagkakaiba sa pagitan ng dalawang sitwasyong ito (hindi makatwiran laban sa pagsisinungaling) ay ang pagkakaiba sa pagitan ng kontrakwal at hindi kontrakwal na kaayusan. Kung ibigay ko sa iyo ang isang daang dolyar at pagkatapos ay lumakad palayo, hindi ako makatarungan lumapit sa iyo sa isang tao at sabihin na ikaw ngayon ay uutang sa akin ng isang dolyar, dahil ito ay isang pautang. Kung, sa kabilang banda, sumasang-ayon ka na ibalik ang pera ko sa isang taon, at pagkatapos ay mabibigo na gawin ito, iyon ay medyo ibang sitwasyon.
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+Sa halimbawa ng “pagsisinungaling,” bagaman maliwanag na na-break mo ang iyong salita, at nasayang ang aking oras, parang hindi ito moral o makatuwiran para sa akin na bunutin ang baril at barilin ka.
 
 A reasonable moral theory should be able to explain why this is the case.
 
