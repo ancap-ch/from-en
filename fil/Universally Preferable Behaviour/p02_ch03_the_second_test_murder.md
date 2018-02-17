@@ -2,11 +2,11 @@
 
 Ngayon ay subukan natin ang UPB na balangkas laban sa moral na panukala tungkol sa *pagpatay*, na kung saan dito ay tinutukoy bilang sadyang pagpatay at may paghahanda, hindi sa pagtatanggol sa sarili.
 
-Since we spent so much time dissecting the question of rape – and since many of the same arguments will apply here – this analysis can be much briefer.
+Dahil maraming oras ang ginugugol namin sa pagsusuri ng mga tanong ng panggagahasa - at dahil marami ang parehong pagtatalo ay angkop dito - ang pagsusuring ito ay maaaring maging mas mapaiksi.
 
-Let us return to our two moral guinea pigs sitting in a room – we’ll call them Bob and Doug.
+Bumalik tayo sa ating dalawang moral na mga daga na nakaupo sa loob ng isang silid - tatawagin natin silang Bob at Doug.
 
-If murder is morally good, then clearly *refraining* from murder is immoral. Thus the only chance that Bob and Doug have to be moral is in the instant that they simultaneously murder each other. Physically, this is impossible of course – if they both stand and grip each other’s throats, they will never succumb to strangulation at exactly the same moment. If Bob dies first, his grip on Doug’s throat will loosen, thus condemning Doug to the status of *immorality* until such time as he can find another victim. Because Bob dies first – and thus cannot continue to try murdering Doug – Bob’s death renders him more immoral than Doug’s murder.
+Kung ang pagpatay ay moral na mabuti, sa gayaon ay malinaw na *ang pagpipigil* mula sa pagpatay ay imoral. Sa gayon ang tanging pagkakataon na si Bob at Doug ay magkakaroon ng mabilis na moral na kung saan ay magkasabay nilang papatayin ang isat-isa. Sa pisikal, ito ay imposible syempre - kung kapwa silang tatayo at mahigpit na hahawakan ang leeg ng bawat isa, hindi sila susuko hanggang sumabog sa parehas na sandali. If Bob dies first, his grip on Doug’s throat will loosen, thus condemning Doug to the status of *immorality* until such time as he can find another victim. Because Bob dies first – and thus cannot continue to try murdering Doug – Bob’s death renders him more immoral than Doug’s murder.
 
 Intuitively, we fully recognise the insanity of the moral proposition that murder is good. Logically, we know that the proposition is incorrect because if it is true, it is impossible for two men in a room to both be moral at the same time. Morality, like health, cannot be considered a mere “snapshot,” but must be a process, or a continuum. The UPB framework confirms that Bob cannot be “evil” *while* he is strangling Doug, and then achieve the pinnacle of moral virtue the moment that he kills Doug – and then revert immediately back to a state of evil. Moral propositions must be universal, and independent of time and place. The proposition that murder is moral fails this requirement at every level, and so is not valid.
 
