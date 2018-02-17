@@ -1,4 +1,4 @@
-## Tori of boat wey dem dey use save people wey dia boat capsize
+## Lifeboat Scenarios
 
 D fact say UPB dey only validate theories wey dey continuously reasonable no mean say e no get situation wey person no fit bear wey be say we fit act *against* wetin concern such theory.
 
