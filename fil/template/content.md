@@ -18,10 +18,10 @@ Nasa ibaba ang isang binanggit na listahan ng mga naka-istilong pangrams, na nag
 
 Now a non-enumerated list:
 
-* First level
-* First level 
-    * Second level
-    * Second level 
+* Unang antas
+* Unang antas 
+    * Pangalawang antas
+    * Pangalawang antas 
         * Third level
         * Third level
     * Second level
