@@ -132,27 +132,27 @@ tag_prefix: "https://en.ancap.ch/tags/"
 persons:
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "author"
+    identifier: "template_pagkatao"
+    rule: "autor"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "collaborator"
+    identifier: "template_pagkatao"
+    rule: "tagatulong"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "thanked"
+    identifier: "template_pagkatao"
+    rule: "pasalamatan"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "translator"
+    identifier: "template_pagkatao"
+    rule: "tagasalin"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "reviwer"
+    identifier: "template_pagkatao"
+    rule: "tagasuri"
   - 
     person_: [ ]
-    identifier: "template_person"
+    identifier: "template_pagkatao"
     rule: "cover_artist"
   - 
     person: [ ]
