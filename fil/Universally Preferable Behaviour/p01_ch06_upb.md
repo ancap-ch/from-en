@@ -31,7 +31,7 @@ Ang makatwirang moral na teorya ay dapat na maipaliwanag kung bakit ito ang kaso
 
 ### Pagpatay
 
-Kung nagmamadali ka sa akin ng isang kutsilyo na itinaas, ang ilang mga tao ay magkikipagtalo sa aking karapatang ipagtanggol ang aking sarili. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+Kung nagmamadali ka sa akin ng isang kutsilyo na itinaas, ang ilang mga tao ay magkikipagtalo sa aking karapatang ipagtanggol ang aking sarili. Kung ang pagbaril sa iyo ay ang tanging paraan na makatwiran kong masiguro ang aking kaligtasan, sa pangkalahatan ay ituturing na isang kahina-hinalang pangangailangan.
 
 ### Requirements For Ethics
 
