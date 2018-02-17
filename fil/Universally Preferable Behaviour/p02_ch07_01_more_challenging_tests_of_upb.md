@@ -2,11 +2,11 @@
 
 Ngayon ay nasubukan natin ang tiyak na moral na teyorya na relatibo sa balangkas ng UPB, at malalaman na ang UPB ay winawasto ang karamihan sa ating karaniwang hinahawakan ang moral na paniniwala, katulad ng sa pagbabawal laban sa panggagahasa, pagpatay at pagnanakaw. Sa pamamagitan ng pagdadala ng pamantayan ng *pag-iiwas* sa ating pagsusuri, tayo ay nakatulong upang maikumpara ang mga krimen na hindi maiiwasan, at ang mga krimen ay dapat magawa sa pamamagitan ng positibong aksyon, katulad ng pandaraya. Panghuli, nahati namin ang "kanais-nais na paguugali" sa tatlong pangunahing kategorya - makamundo, estetik, at walang kinikilingan (at ang kanilang kaugnay na kasalungat). Makamundong pinagbabawal na kilos kabilang ang panggagahasa, pagpatay at pagnanakay, na kung saan ang puwersa ay maaaring gamitin upang maiwasan ito. Estetik na kanais-nais na kilos kabilang ang pagkamagalang, laging nasa oras at kung anu-ano pa, na kung saan ay hindi maaaring ipatupad sa pamamagitan ng karahasan. Ang walang kinikilingan na mga kilos kabilang ang pulos na subhektibong kagustuhan, o mga kilos na walang moral na nilalaman, katulad ng sa pagtakbo para sa bus.
 
-Gayunman, nanatiling maraming mahirap na pagsubok ng moral na napupunta sa labas ng mga halimbawa natin na kailangan natin aksyunan sa itaas. We will only deal with a few of those here, to have a look at the framework of UPB, and see how it deals with these more challenging moral questions.
+Gayunman, nanatiling maraming mahirap na pagsubok ng moral na napupunta sa labas ng mga halimbawa natin na kailangan natin aksyunan sa itaas. Tayo lamang ang haharap sa ilang tao dito, upang tignan ang balangkas ng UPB, at makita kung paano nito hinaharap ang mas mahihiral na tanong ng moral.
 
-### Self-Defence
+### Ang Pagtatanggol sa Sarili
 
-The concept of self-defence should not be taken for granted. If we assume that there is no such thing as self-defence, or that self-defence is never a valid action, then the framework of UPB undoes that assumption very quickly.
+Ang konsepto ng pagtatanggol ay hindi dapat binabaliwala. If we assume that there is no such thing as self-defence, or that self-defence is never a valid action, then the framework of UPB undoes that assumption very quickly.
 
 If there is no such thing as self-defence, then we are not talking about the initiation or the retaliation of the use of force, but rather just the use of force in any context. In other words, if we get rid of the concept of self-defence, the only question that we need to ask ourselves is: *is it universally preferable to use force, or not?*
 
