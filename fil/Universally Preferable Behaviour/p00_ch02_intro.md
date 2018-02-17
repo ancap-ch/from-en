@@ -44,7 +44,7 @@ Dapat bang "tawirin ang sona ng kawalan"- o walang putol na pagbubuklod sa malii
 
 Kung titignan natin ang teknolohikal at ekonomikong pag-unlad ng sangkatauhan, makikita natin humigit-kumulang ang isang patag na linya para sa hindi mabilang na libong taon, kasunod ng malakihan at asymptotic na mga spikes sa nakalipas na ilang daang taon. Hindi maiisip na ang ilang laganap na pagbabagong genetiko ay mabibilang sa daglian at malawakang pagbilis ng hindi nagbabagong intelektwal at materyal na tagumpay. Ang mga teoryang umaangkin na ang isang "epekto ng bolang yelo" ay darating sa pag-iral, misteryong itinutulak ng pag ipon ng lahat ng maliliit na dagdag kaalaman na naganap mula pa sa bukang-liwayway ng sibilisasyon, ay maaaring buwagin ng pangkalahatan *ex post facto* mga paliwanag, dahil sila ay walang mahuhulaang value.
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+Kung mauunawaan natin na ang ating sumusuray na potensyal ay matagal na nating nagagamit mula pa sa hindi bababa na sampung libong taon - at pareho kapwa mayroon dakilang pakinabang at dakilang kasiyahan sa paggamit nito - pagkatapos ay minsan magiging malinaw na talagang *gawin* gustong gamitin ang ating kamangha-manghang isipan.
 
 Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
 
