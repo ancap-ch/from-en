@@ -110,27 +110,27 @@ Maramil ang panggagahasa ay isang aestetikal na *negatibo* kilos, katulad ng "pa
 
 Gayunman, ang panggagahasa sa kahulugan ay maaaring maiwasan, dahil ito ay sekswal na atake na ipinapatupad sa pamamagitan ng karahasan.[^4] Gayon din, kung pinili ko na ihinto ang pagiging kaibigan sa taong makupad na nabanggit sa itaas, hindi niya ako maaaring pilitin na maging kaibigan niya sa pamamagitan ng pagbabanta sakin ng karahasan, dahil ito ay nakapaloob sa prinsipyo ng pansariling kagustuhan na maaaring ipilit sa iba, na kung saan tatakbo ng walang bunga laban sa aking kakayahan na ipatupad * ang aking* kagustuahn na ininto ang aming pagkakaibigan. Ang ganitong uri ng "Tarantinong moralidad" ay laging natatapos sa lahat ng tao na nasa estado ng piping paralisis, sa pagtutok ng baril sa bawat sa mukha ng bawat isa tulad ng isang nakapirming mga estatwa.
 
-As we have already established, any universally preferable behaviour must be universal to all people in all places at all times – if ANAs allow for violent enforceability (i.e. I can shoot you for being late) – then if rape is defined as an ANA which can be enforced, then the rape victim who finds rape an aesthetically negative action has the right to shoot his rapist, which effectively affirms the principle of self-defence, but at the expense of also allowing gun play in the opposition of, say, rudeness.
+Dahil naitatag na natin, na ang anumang makamundong kanais-nais na ugali ay dapat maging makamundo sa lahat ng tao sa lahat ng lugar at sa lahat ng pagkakataon - kung ang ANAs ay papahintulutan para ang karahasan ay mapatupad (i.e. kaya kong barilin ka sa pagiging huli) - sa gayon ang panggagahasa ay binibigyang kahulugan katulad ng sa isang ANA na kung saan ay maaaring maipatupad, pagkatapos nag biktima ng panggagahasa na kung saan nakikita ang panggagahasa na aestetikal na negatibong aksyon ay mayroong karapatan na barilin ang isang manggagahasa, na kung saan ay epektibong mapagtibay na ang prinsipyo ng pagtatanggol sa sarili, ngunit ang halaga ng katulad ng pagpapahintulot ng paglalaro sa baril ay nasa pagsasalungat ng, kung sasabihin ay, kawalang-galang.
 
-Thus rape cannot be an ANA.
+Kung sa gayon ang panggagahasa ay hindi maaaring maging ANA.
 
-Which leaves only…
+Na kung saan naiiwan lamang…
 
-### Evil
+### Kasamaan
 
-If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil,” passes the “coma test,” insofar as it is impossible for a man in a coma to rape someone.
+Kung ang panggagahasa ay tinutukoy na masama, sa gayon ito ay dapat isali sa *pagsisimula* ng paggamit ng puwersa, kung saan ay malinaw na ginagawa ito. Gayundin, ang pagsasalungat: "ang panggagahasa ay masama," ay dumadaan sa "pagsusulit ng pagkawalan ng malay," sa abot nito ay imposible para sa isang tao na walang malay ang manggahasa ng isang tao.
 
-In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
+Sa pagdadagdag pa dito, kung ang panggagahasa ay masama, sa gayon * ang hindi* panggagahasa ay dapt maging mabuti - sa ganitong paraan, ang dalawang lalaki sa isang kwarto ay parehong maaaring maging moral sa parehong pagkakataon, sa pamamagitan lamang ng hindi panggagahasa sa bawat isa.
 
-Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
+Dahil ang pagiwas ay isa sa mga pangunahing pangkakaiba sa pagitan ng "hindi maganda" at "imoral," at ang panggagahasa ay malinaw na hindi maiiwasan na paguugali, ang ibig sabihin ng "panggagahasa ay masama" ay naaayon din sa pagkakaiba nito.
 
-Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
+Gayundin, dahil may mga pagkakataon na kung saan ito ay pisikal na imposible na gahasain ang isang tao - halimbawa, kapag ang pagtayo ay hindi makuha - ang kahulugan ng "panggagahasa bilang masama" malulutas ang problema ng mga tao na hindi sinasadya na imoral, na kung saan sa kahulugan ay imposible, dahils sa pamantayan ng pag-iwas.
 
-The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+Ang manggagahasa ay maaaring bigyang-katwiran ng kanyang mga kilos sa pamamagitan ng pag-iwas sa panukala "ang panggagahasa ay masama," at sa halip ay pagpapalit ng ibang panukala na sumosuporta sa kanyang nais na manggahasa, katulad ng: "ito ay moral na kunin nag kasiyahan ng isang tao, anuman ang hindi nais ng iba."
 
-This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+Itong panukala ay nabigo sa pinakam madaling pagsubok na lohikal ng UPB. Kung si Bpb ay naniniwala na dapat niyang kunin ang kayang sariling kasiyahan sa pamamagitan ng panggagahasa kay Doug - sa anumang hindi kasayahan ni Doug - gayon si Bob ay hindi rasyunal na mapapataas ang kanyang kagustuhan sa isang UPB.
 
-If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
+Kung ang lahat ng tao ay dapat kumuha ng kanyang sariling kasiyahan sa anuman ang kanilang biktima *hindi*kasiyahan, sa gayon si Bob ay walang karapatan na gahasain si Doug, kahit na si Bob ay *guston* gahasain si Doug, Si Doug ay tiyak na *hindi*gusto na magahasa. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
 
 Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
 
