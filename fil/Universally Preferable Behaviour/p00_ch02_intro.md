@@ -72,7 +72,7 @@ Lubhang napakahirap na palitan ang isang ilusyon ng isa pa.
 
 "Ang gobyerno ng Britanya ay isang mapaniil!" ang sigaw ng mga rebolusyonaryong Amerikano noong ika-labing walong siglo - at, matapos na palayasin ang mga tropa ng Britanya, ay saka nila itatayo ang sarili nilang gobyerno at sisimulan atakihin ang sarili nilang mamamayan.
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+"Ang aristokrasya ay di-pantay at karumaldumal!" ang sigaw ng ibang rebolusyonaryo, kung sino ay magtatayo ng paniniil sa nakararami sa anyo ng demokrasya.
 
 “Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
 
