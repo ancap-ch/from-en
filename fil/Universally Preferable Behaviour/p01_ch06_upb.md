@@ -39,7 +39,7 @@ Ang ilang mga kondisyon ay dapat na umiiral, o tinanggap, upang ang mga etikal n
 
 Tulad ng aming tinalakay sa itaas, ang pagpasok sa anumang debate ay nangangailangan ng pagtanggap sa mga katotohanan ng pagpili, mga halaga at personal na pananagutan. Gayunpaman, ang mga kadahilanang ito ay naroroon din sa pagpili ng kulay ng pintura para sa isang silid, gayunpaman halos hindi natin sasabihin na ang pagpili ng isang kulay ay isang *moral* na pagpili. Kaya dapat mayroong iba pang mga pamantayan na dapat na naroroon upang ang isang pagpipilian o panukala ay moral.
 
-We all have preferences – from the merely personal (“I like ice cream”) to the socially preferable (“It is good to be on time”) to universal morality (“Thou shalt not murder”).
+Lahat tayo ay may mga kagustuhan – mula lamang sa personal (“Gusto ko ng ice cream”) sa mga mas gusto sa lipunan (“Maganda sa oras”) sa unibersal na moralidad (“Huwag kang mamatay”).
 
 There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
 
