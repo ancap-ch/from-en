@@ -23,7 +23,7 @@ Sabihin nating mayroon kaming isang debate tungkol sa pagkakaroon ng diyos. Mata
 
 Sabihin natin na ikaw at ako ay nagtatakda ng mga panuntunan para sa isang debate, at pareho kaming sumasang-ayon sa paghatol sa tanong ng pag-iral ng Diyos ayon sa dahilan at katibayan. Kung, habang nagpapatuloy ang debate, bumabalik ka sa isang posisyon ng bulag na pananampalatay, at tanggihan ang aking mga argumento *sa kabila ng* kanilang katwiran at katibayan, hindi mo pinananatili ang iyong salita. Sa ibang salita, ikaw ay nagsinungaling nang sinabi mo na ang tanong ay mapagpasyahan ng dahilan at katibayan.
 
-The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+Ang pagkakaiba sa pagitan ng dalawang sitwasyong ito (hindi makatwiran laban sa pagsisinungaling) ay ang pagkakaiba sa pagitan ng kontrakwal at hindi kontrakwal na kaayusan. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
 
 In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
 
