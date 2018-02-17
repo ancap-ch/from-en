@@ -16,7 +16,7 @@ Assim, podemos ver que a proposição de que "o crime é bom" não é apenas ins
 
 As outras objecções que se aplicam à proposição "a violação é boa" também se usam aqui. O homicídio não pode ser moralmente neutro, já que os julgamentos ou acções moralmente neutros não podem ser impostos aos demais pela força e o assassinato, por definição, é infligido a outro, à força.
 
-There is also a basic contradiction involved in any universal justification for the act of murder, just as there was in the act of rape. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
+Também existe uma contradição básica envolvida em qualquer justificação universal para o acto de assassinato, assim como havia no acto de violação. Se Bob tentasse estrangular Doug, mas Doug resistisse, como é que Bob poderia justificar, racionalmente, as suas acções de acordo com o CUP?
 
 Well, he could say something like: “a man’s life can be taken any time you want to” – but of course, since UPB is the only valid test of moral propositions, this justifies Doug killing Bob as much as it does Bob killing Doug. Thus Bob can only justify strangling Doug if Doug does not resist in any way – but of course if Doug does not resist, then can it really be considered murder?
 
