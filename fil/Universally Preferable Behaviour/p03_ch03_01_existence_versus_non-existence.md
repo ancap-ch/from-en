@@ -80,7 +80,7 @@ Kaya naman pinaniniwalaan ang pagpatay ay magandang moralidad ay hindi nagkakama
 
 Ang mga opinyon ay Hindi mapapalitan ang reyalidad.
 
-Dahil ang mga opinyon ay hindi mapapalitan ang reyalidad, Hindi ko pweding ibigay sa iyo ang anuman pagkabukod o pagbaliktad tungkol sa pangkalahatang tuntunin ng moral. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Dahil ang mga opinyon ay hindi mapapalitan ang reyalidad, Hindi ko pweding ibigay sa iyo ang anuman pagkabukod o pagbaliktad tungkol sa pangkalahatang tuntunin ng moral. Dahil ang patakaran moral ay base sa pangkalahatang lohika, pati narin ang pisikal na kalikasan at reyalidad ng isang tao, Hindi Kita pweding bigyan ng "karapatan para pumatay," Anu mang higit sa kaya Kong ibigay sa iyo ang kakayahan lumutang, lumakad sa tubig o tamang sabihin na dalawa at dalawa maging Lima.
 
 ### Government As Voluntarism
 
