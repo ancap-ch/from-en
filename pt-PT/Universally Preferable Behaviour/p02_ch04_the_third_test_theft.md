@@ -1,6 +1,6 @@
 ## O Terceiro Teste: O Roubo
 
-We will have to spend a little bit more time on theft, since it inevitably brings into the picture the question of property rights, which is highly contentious for some.
+Teremos de gastar um pouco mais de tempo no roubo, dado que este, inevitavelmente, traz à mesa a questão dos direitos de propriedade, que é fortemente controversa para alguns.
 
 There are many ways of approaching the question of property rights, from “homesteading” to legal definitions to practical considerations etc. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
 
