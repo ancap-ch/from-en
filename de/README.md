@@ -44,10 +44,10 @@ Last generated:
 | 03_p01_ch07_04.md | :o: | :x: | 2k 660 | jmotip | | |
 | 03_p01_ch07_05.md | :o: | :x: | 3k 620 | jmotip | | |
 | 03_p01_ch07_06.md | :o: | :x: | 3k 600 | jmotip | | |
-| 03_p01_ch08.md | :o: | :x: | 2k 430 | | | |
+| 03_p01_ch08.md | :o: | :x: | 2k 430 | jmotip | | |
 | < more files to be added > | | | 0  000 | | | |
-| 03_p02.md | :o: | :x: |    001 | | | |
-| 03_p02_ch13.md | :o: | :x: | 2k 560 | | | |
+| 03_p02.md | :o: | :x: |    001 | jmotip | | |
+| 03_p02_ch13.md | :o: | :x: | 2k 560 | jmotip | | |
 | < more files to be added > | | | 0  000 | | | |
 
 </details>
