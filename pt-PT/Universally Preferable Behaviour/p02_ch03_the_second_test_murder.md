@@ -10,11 +10,11 @@ Se o homicídio é moralmente bom, então *abster-se* do assassinato é imoral. 
 
 Instintivamente, reconhecemos completamente a loucura da proposição moral, de que o crime é bom. Logicamente, sabemos que a proposição está errada porque, se fosse verdade, seria impossível que dois homens numa sala fossem morais ao mesmo tempo. A moral, como a saúde, não pode ser considerada como algo "instantâneo", mas sim um processo ou um continuum. A estrutura do CUP confirma que Bob não pode ser "malvado" *enquanto* está a estrangular Doug e simultaneamente, alcançar o pináculo da virtude moral no momento em que o mata - e regressar imediatamente a um estado de maldade. As teorias morais devem ser universais e independentes do tempo e do lugar. A teoria de que o assassinato é moral falha este requisito em todos os níveis e portanto, não é válida.
 
-Se o homicídio fosse moralmente bom, então o caso de um homem preso numa ilha deserta seria moralmente mau, porque enquanto vivesse lá, ele não teria vítimas para matar. Um homem em coma também seria mau, como o seria um homem adormecido, ou um homem na mesa de operações. Um torturador seria um homem mau enquanto estivesse a torturar - mas tornar-se-ia um bom homem, no momento em que a sua vítima morresse nas suas mãos.
+Se o homicídio fosse moralmente bom, então um homem preso numa ilha deserta seria moralmente mau, porque enquanto vivesse lá, ele não teria vítimas para matar. Um homem em coma também seria mau, como o seria um homem adormecido, ou um homem na mesa de operações. Um torturador seria um homem mau enquanto estivesse a torturar - mas tornar-se-ia um bom homem, no momento em que a sua vítima morresse nas suas mãos.
 
-We can thus see that the proposition that “murder is good” is not only instinctively bizarre, but also logically impossible.
+Assim, podemos ver que a proposição de que "o crime é bom" não é apenas instintivamente excêntrica, mas também logicamente impossível.
 
-The other objections that applied to the proposition “rape is good” also apply here. Murder cannot be morally neutral, since morally neutral judgements or actions cannot be forcibly inflicted upon another, and murder by definition is forcibly inflicted upon another.
+As outras objecções que se aplicam à proposição "a violação é boa" também se usam aqui. O homicídio não pode ser moralmente neutro, já que os julgamentos ou acções moralmente neutros não podem ser impostos aos demais pela força e o assassinato, por definição, é infligido a outro, à força.
 
 There is also a basic contradiction involved in any universal justification for the act of murder, just as there was in the act of rape. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
 
