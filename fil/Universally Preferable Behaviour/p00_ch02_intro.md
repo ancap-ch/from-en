@@ -70,7 +70,7 @@ Kaya natin itong gawaing mas personal ng kaunti na may halimbawa na magiging pam
 
 Lubhang napakahirap na palitan ang isang ilusyon ng isa pa.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+"Ang gobyerno ng Britanya ay isang mapaniil!" ang sigaw ng mga rebolusyonaryong Amerikano noong ika-labing walong siglo - at, matapos na palayasin ang mga tropa ng Britanya, ay saka nila itatayo ang sarili nilang gobyerno at sisimulan atakihin ang sarili nilang mamamayan.
 
 “Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
 
