@@ -1,6 +1,6 @@
-## The Second Test: Murder
+## Ang pangalawang pagsubo: Pagpatay
 
-Let us now test the UPB framework against moral propositions regarding *murder*, which here is defined as killing intentionally and with premeditation, not in self-defence.
+Ngayon ay subukan natin ang UPB na balangkas laban sa moral na panukala tungkol sa *pagpatay*, na kung saan dito ay tinutukoy bilang sadyang pagpatay at may paghahanda, hindi sa pagtatanggol sa sarili.
 
 Since we spent so much time dissecting the question of rape – and since many of the same arguments will apply here – this analysis can be much briefer.
 
