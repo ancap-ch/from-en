@@ -2,7 +2,7 @@
 
 Teremos de gastar um pouco mais de tempo no roubo, dado que este, inevitavelmente, traz à mesa a questão dos direitos de propriedade, que é fortemente controversa para alguns.
 
-There are many ways of approaching the question of property rights, from “homesteading” to legal definitions to practical considerations etc. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+Há muitas maneiras de se aproximar à questão dos direitos de propriedade, desde "homesteading" até definições legais para considerações práticas, etc. Não irei abordar nenhum deles aqui, porque a questão dos direitos de propriedade deve cair no âmbito do CUP, se este se deve manter como um método racional para avaliar proposições morais.
 
 Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
 
