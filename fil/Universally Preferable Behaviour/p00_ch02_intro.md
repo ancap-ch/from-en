@@ -38,9 +38,9 @@ Ang katulad ay totoo sa lupain ng moralidad.
 
 ### Ang mga biktima
 
-Ang pagtawid sa "sona ng kawalan" ay puno ng kapahamakan. Ang daan mula sa maliit na mga katotohanan patungo sa mga dakilang katotohanan ay gawa sa buto ng milyon-milyon. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+Ang pagtawid sa "sona ng kawalan" ay puno ng kapahamakan. Ang daan mula sa maliit na mga katotohanan patungo sa mga dakilang katotohanan ay gawa sa buto ng milyon-milyon. Mula sa pagkamatay ni Socrates hanggang sa pagpapahirap sa mga sinaunang siyentipiko ng mga relihiyosong panatiko, sa milyon-milyong pinaslang at napatay para sa maitim na pantasya ng pasismo at komunismo, anumang pagtulak-pasulong ng kaalaman ng tao sa"sona ng kawalan" at puno ng napakaraming panganib.
 
-Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
+Dapat bang "tawirin ang sona ng kawalan"- o walang putol na pagbubuklod sa maliit na mga katotohanan at dakilang mga katotohanan -ay hindi maiiwasan na napakahirap at mapanganib? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
 
 If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
 
