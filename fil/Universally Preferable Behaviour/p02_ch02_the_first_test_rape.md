@@ -50,17 +50,17 @@ Kung sasabihin natin na ang APAs ay maaaring maipatupad sa pamamagitan ng karaha
 
 Kung tayo ay magmumungkahi ng isang moral na patakaran na pasisimulan ng karahasan ay masasabing mabuting moral, sa gayon ang patakaaran ay haharapin ang lahat ng kaparehong lohikal na hindi posibilidad katulad ng sa patakaran na ang "panggagahasa ay mabuting moral."
 
-Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+Ang dalawang lalaki na nasa isang kwarto ay hindi maaaring parehong maging mabuting moral sa parehas na pagkakataon, dahil ang isa sa kanila ay dapat magsimula ng karahasan laban sa isa pa, at ang isa ay dapat pigilan ito - dahil kung hindi niya ito pipigilan, ang kahulugan nito ay hindi karahasan, katulad sa kaso ng isang siruhano na natalakay natin sa itaas. Gayon ang kabutihan ay maaari lamang magamit sa pamamagitan ng pagpigil sa kabutihan, ang dalawang tao na nasa parehong sitwasyon ay maaari maging parehong moral, at kung anu-ano pa - lahat ng ito ay mga paglabag sa UPB.
 
-Thus we know that rape cannot be an APA.
+Gayon ay alam natin na ang panggagahasa ay hindi maaaring maging APA.
 
-We can confirm this by reviewing the reasons why “being on time” *is* an APA.
+Hindi natin makukumpirma ito sa pamamagitan ng pagsusuri ng mga dahilan kung bakit "ang laging nasa oras" *ay* isang APA.
 
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
+Una sa lahat, nang katutubong naiintindihan natin na ito ay higit sa pagtanggi sa isang kaibigan para sa palaging huli kaysa sa ito ay pagtanggi sa isang kaibigan para sa hindi paggusto sa sorbetetes.
 
-Why is that?
+Bakit kaya ganon?
 
-Once again, the UPB framework comes to the rescue.
+Muli, ang UPB balangkas ay dumating upang iligtas.
 
 An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
 
