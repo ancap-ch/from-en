@@ -46,9 +46,9 @@ Kung titignan natin ang teknolohikal at ekonomikong pag-unlad ng sangkatauhan, m
 
 Kung mauunawaan natin na ang ating sumusuray na potensyal ay matagal na nating nagagamit mula pa sa hindi bababa na sampung libong taon - at pareho kapwa mayroon dakilang pakinabang at dakilang kasiyahan sa paggamit nito - pagkatapos ay minsan magiging malinaw na talagang *gawin* gustong gamitin ang ating kamangha-manghang isipan.
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+Kaya naman doon dapat isang pababang pwersa na makasaysayang kumilos upang sirain at alipinin ang natural na kalayaan ng sangkatauhan.
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+Sa larangan ng siyensya, ito ay hindi sobrang hirap na makita ang mapang-aping pwersa na patuloy na nakatago sa ating isipan sa malapit-madawag na kamangmangan. Ang kombinasyon ng pamahiin sa anyo ng relihiyon, at karahasan sa anyo ng aristokrasya, ay nagbabanta sa makatwirang pag-iisip na may pananakot, pagkabilanggo, pagpapahirap, at pagpatay. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
 
 The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
 
