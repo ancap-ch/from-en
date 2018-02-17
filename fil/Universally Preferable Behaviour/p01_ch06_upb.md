@@ -27,11 +27,11 @@ Ang pagkakaiba sa pagitan ng dalawang sitwasyong ito (hindi makatwiran laban sa 
 
 Sa halimbawa ng “pagsisinungaling,” bagaman maliwanag na na-break mo ang iyong salita, at nasayang ang aking oras, parang hindi ito moral o makatuwiran para sa akin na bunutin ang baril at barilin ka.
 
-A reasonable moral theory should be able to explain why this is the case.
+Ang makatwirang moral na teorya ay dapat na maipaliwanag kung bakit ito ang kaso.
 
-### Murder
+### Pagpatay
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+Kung nagmamadali ka sa akin ng isang kutsilyo na itinaas, ang ilang mga tao ay magkikipagtalo sa aking karapatang ipagtanggol ang aking sarili. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
 
 ### Requirements For Ethics
 
