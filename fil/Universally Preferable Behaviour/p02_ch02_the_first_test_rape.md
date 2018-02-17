@@ -70,25 +70,25 @@ Kung ang "pagiging nasa oras" ay isang APA, sa gayon ito ay posible para sa dala
 
 Sa panggagahasa, katulad ng nakita natin sa itaas, ito ay imposible para sa dalawang tao na magsagawa nito sa parehong oras. ang isa ay dapat maging manggagahasa, at ang isa ay laging isang biktima.
 
-On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
+Sa kabilang banda, kung sasabihin kong "ang paggusto sa Jazz" ay isang APA, sa gayon ay ako ay magmamadaling pumunta sa lohikal na imposible. Tandaaan, ang APA ay hindi mapilit na patakaran na maaaring rasyunal na ipatupad sa parehong partido ng sabay - ang tamang pagbabalangkas para sa "paggusto sa jazz" ay: subhektibong mga kagustuhan ay makamundong kanais-nais."
 
-Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
+Hindi lamang ito isang ranggong pagsasalungat pagdating sa palaugnayan, ngunit ito rin ay madaliang pagkabigo ng pagsubok ng UPB. Kung mas gusto ko ang jazz sa lahatt ng ibang anyo ng musika, ngunit mas gusto mo ang klasikal na musika sa lahat ng uri nito, at kung ang pansariling kagustuhan ay makamundong kanai-nais, sa gayon dapat gustuhin mo ang jazz dahil gusto ko ito, at dapat gustohin ko ang klasikal dahil gusto mo ito. Ito, siyempre, ay imposible, dahil ito ay kinakailangan na tayong dalawa ay *sabay na gustuhin ang jazz at klasikal sa anumang uri ng musika*. Kailangan mong lumipat ng kagustuhan sa jazz, dahil ito ay aking gusto - ngunit sa parehong pagkakataon kailangang ko din ilipat ang aking kagustuhan sa klasikal, dahil ito ang iyong gusto. Ito ay katulad ng pagsasabi na ikaw ay dapat magtapon at sumalo ng parehong baseball sa parehong eksaktong panahon - isang lohikal at pisikal na imposible.
 
-Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
+Dahil sa ang APAs ay hindi ipinapatupad sa pamamagitan ng karahasan - hindi mo puwedeng barilin ang isang tao sa pagiging huli - pagkatapos ang panggagahasa * ay hindi* maaaring maging APA, dahil ang kahulugan panggagahasa ay isang sekwal na atake na ipapatupad sa pamamagitan ng karahasan.
 
-Thus rape cannot fall into the category of APAs.
+Sa gayon ang panggagahasa ay hindi maaaring mahulog sa kategorya ng APAs.
 
-### Personally Positive
+### Positibong Pansarili
 
-Perhaps rape is akin to a merely personal preference.[^2]
+Marahil na panggagahasa ay katulad lang sa pansariling kagustuhan.[^2]
 
-The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
+Ang tanong na lumalanas: maaari ba ang pag-uuri ng panggagasa ay isa lamang pansariling kagustuhan na magtanggol sa lohikal na pagsisiyasat?
 
-If we propose the moral rule: “personal preferences must be violently inflicted upon other people,” how does that stand up to the framework of UPB?[^3]
+Kung tayo ay magpapanukala ng isang moral na patakaran: "ang pansariling kagustuhan ay dapat maging pagpataw ng marahas sa ibang tao," paano nito maitatanggol sa balangkas ng UPB?[^3]
 
-Personal preferences cannot be justly inflicted upon other people, because that would create an insurmountable logical paradox.
+Ang pasariling kagustuhan ay hindi magiging makatarungang pagpataw sa ibang tao, dahil ito ay liliha ng isang hindi malulutas na lohikal na kabalintunaan.
 
-If I say that liking the band Queen above all others is universally preferable behaviour, on what grounds could I justify that statement? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
+Kung sasabihin ko na ang pagkagusto sa bangdang Reyna sa lahat ng ibang makamundong kanais-nais na asal, sa anong basehan ko mabibigyang katwiran ang aking pahayag? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
 
 Thus if rape is considered to be a merely personal preference, then it cannot logically be enforced upon anybody else. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
 
