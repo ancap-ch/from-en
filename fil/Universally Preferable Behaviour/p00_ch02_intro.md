@@ -64,7 +64,7 @@ Sa pagbibigay ng ilusyon na natuklasan na natin ang katotohanan, "panggitnang ka
 
 Dahil sila ay hindi lamang di-makatwiran, ngunit *anti*-rasyonal, "panggitnang katotohanan" ay mananatiling walang katapusang nababaluktot - hanggat sila ay naglilikod sa mga nasa kapangyarihan. Halimbawa, Ang kristiyanismo ay lumitaw mula sa lumalagong pasismo ng dating imperyong Romano na bahagyang humagupit sa "primitibong" mga pamahiin ng umiiral na mga teolohiya. "Kalimutan ang inyong mga lumang Diyos, mayroon na tayong bagong Diyos na mas mabuti!"
 
-"Panggitnang katotohanan" ay laging nasa anyo ng katotohanan, na sinusundan ng kasinungalingan. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+"Panggitnang katotohanan" ay laging nasa anyo ng katotohanan, na sinusundan ng kasinungalingan. "Zeus ay isang paganong pamahiin" ay isang totoong pahayag, na kung saan ay hayagang gawa ni Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
 
 We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
 
