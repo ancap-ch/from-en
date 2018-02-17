@@ -8,7 +8,7 @@ Bununla birlikte, yukarıda ele aldığımız örneklerin dışında kalan birç
 
 Kendini savunma kavramı garanti olarak düşünülemez. Eğer kendini savunmak gibi bir şey olmadığını varsayıyor ya da kendini savunma asla geçerli bir eylem değil dersek, o zaman U.P.B'nin çerçevesi bu varsayımı çok çabucak geri çevirir.
 
-Eğer kendini savunma diye bir şey yoksa, o halde, kuvvet kullanımının başlatılması veya misillemesinden bahsetmiyoruz. Daha çok herhangi bir bağlamda güç kullanımından bahsediyoruz. Başka bir deyişle, kendini savunma konseptinden kurtulursak, kendimize sormamız gereken tek soru şöyledir: *kuvvet kullanmak evrensel olarak tercih edilir mi, edilmez mi? *
+Eğer kendini savunma diye bir şey yoksa, o halde, kuvvet kullanımının başlatılması veya misillemesinden bahsetmiyoruz. Daha çok herhangi bir bağlamda güç kullanımından bahsediyoruz. Başka bir deyişle, kendini savunma konseptinden kurtulursak, kendimize sormamız gereken tek soru şöyledir: *kuvvet kullanmak evrensel olarak tercih edilir mi, edilmez mi?*
 
 Eğer güç kullanmak evrensel olarak tercih ediliyorsa, hiç kimse ahlaki bir argüman geliştirmemelidir, ancak amaçlarını gerçekleştirmek için güç kullanmalıdır. Bununla birlikte, tıpkı yukarıda belirtilen tecavüz, hırsızlık ve cinayet örneklerinde olduğu gibi, güç kullanmak için evrensel olarak tercih edilmesi iddiası kendisini hemen geçersiz kılar. Başka bir şahsa gücünü kullanabilmesi için o kişinin zorla saldırması gerekir - başka bir deyişle bir kişi ahlaka, diğeri ayağa kalkamaz, ahlaka aykırı olmalı. Ayrıca, eğer diğer kişi *zorla uygularsa*, bu zor değildir - dolayısıyla *karşı koymalıdır* ki bu da kendi çelişkili olan erdemi etkinleştirmek için erdeme direnmesini gerektirir.
 
@@ -18,7 +18,7 @@ Buna ek olarak, kuvvet kullanmak her zaman tercih edilirse, tecavüz ve cinayet 
 
 Bu nedenle, şiddetin kötülük olduğunu bildiğimizden, karşı koymak için güç kullanabileceğimizi biliyoruz. Bir eylemi kötülük olarak tanımlarsak, aynı zamanda kimsenin ona karşı davranmasını önlersek, artık ahlaki düşünür değil, yalnızca yargılayıcı arkeolog oluruz. Bu, hastalığın kötüye gittiğini, ancak bunun önlenmesi ya da iyileştirilmesi girişiminde bulunulmaktan kötüye gittiğini söyleyen tıbbi bir teori ile benzerlik gösterecektir - bu hiç de anlam ifade etmez.
 
-Ayrıca, insanlar kendilerine zarar vermemek için etkin bir şekilde davranamazlarsa aşılar, soğuk havada eldiven giyme, güneş kremi veya böcek kovucu uygulamak, heyelan önlemek için bir duvar oluşturmak, dişlerini fırçalamak, ayakkabı giymek vb. hepsi ahlaka aykırı eylemler olur. Bob ve Doug'a dönersek, kendilerine karşı savunmanın daima yanlış olduğuna dair manevi bir argüman verirlerse, ne gibi bir sonuç verir?
+Ayrıca, insanlar kendilerine zarar vermemek için etkin bir şekilde davranamazlarsa aşılar, soğuk havada eldiven giyme, güneş kremi veya böcek kovucu uygulamak, heyelan önlemek için bir duvar oluşturmak, dişlerini fırçalamak, ayakkabı giymek vb. hepsi ahlaka aykırı eylemler olur. Bob ve Doug'a dönersek, kendilerini savunmanın daima yanlış olduğuna dair ahlaki bir argüman veriyoruz, sonuç ne olur?
 
 Güzel, şimdi başka bir paradoks yarattık. Kendini savunma, şiddeti önlemek için şiddetin kullanılmasıdır. Kendini savunma, her zaman yanlıştır. Bir saldırgana şiddetle "tecavüz" edilemez. Bununla birlikte, başkalarına uygulanamayan tercihler A.P.A. ya da ahlaki açıdan tarafsız kategorilere girmektedir. Kendini savunma şiddetini bu kategorilere yerleştirmek, şiddetin başkalarına yüklenemeyeceğini söylemektir - ancak şiddetin doğası başkalarına yüklenmek ve dolayısıyla bu yaklaşım çelişkilere neden olmaktadır.
 
@@ -36,7 +36,7 @@ Dolayısıyla, herhangi bir mantıksal ahlak teorisinin, savunmanın manevi geç
 
 ### Çocuk yetiştirme
 
-İçgüdüsel olarak, genelde ana ve babalar için bebeklerini beslememenin çok yanlış bir şey olduğunu anlıyoruz. Bir çocuğu tasavvur etmek için, bir çocuğu dönemine getirin, çocuğu doğurun ve açlıktan ölmek için yatağında yatan bırakın, duyarlılıklarımızı ciddi derecede kızdırın.
+İçgüdüsel olarak, ebeveynlerin bebeklerini beslememesinin çok yanlış bir şey olduğunu genel olarak anlıyoruz. Bir çocuk düşünün, hamileliğin sonuna kadar taşınmış, doğurulmuş ve sonra açlıktan ölmek üzere karyolasına yatırılıp bırakılmış, bu duyarlılıklarımızı fena halde rahatsız eder.
 
 Tabi ki, suçumuz hiçbir şekilde ahlaki bir tartışma değil ancak ahlaki bir teoriyi test etmek için mükemmel bir başlangıç noktasıdır.
 
