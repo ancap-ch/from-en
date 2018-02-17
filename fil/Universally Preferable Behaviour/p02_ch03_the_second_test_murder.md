@@ -26,13 +26,13 @@ Dahil ang isang tao ay nanatiling isang tao kapag siya ay kakatulog, hindi tio m
 
 Sa ganitong paraan, kung hindi kami makatarungang barilin ang isang tao habang siya ay gising, hindi rin natin maaaring barilin siya habang siya ay natutulog, dahil siya parin ay isang tao.
 
-Thus, since the statement “I can shoot a man in his sleep any time I want” cannot be validated according to UPB, it cannot be a true moral proposition.
+Sa gayon, dahil ang pahayag na ito "kaya kong barilin ang isang tao sa kanyang pagtulog sa anumang oras kong gustuhin" ay hindi magiging wasto ayon sa UPB, ito ay hindi magiging tunay na moral na panukala.
 
-Here again we find that the UPB framework holds true in terms of murder. The only possible valid moral theory regarding murder is that it is evil, or universally banned.
+Dito muli natin makikita na ang UPB na balangkas ay hinahawakan ang katotohanan sa tuntunin ng pagpatay. ang posibilidad lamang na wastong moral na teyorya ayon sa pagpatay ay masama, o makamundong pinagbabawal.
 
-We could take the same approach to the question of assault, but the arguments would be identical to those of rape and murder, so for the sake of brevity, we shall continue.
+Maaari nating gamitin ang parehong paraan sa mga tanong ng pag atake, ngunit ang pagtatalo ay magiging kapareho sa mga tao na nagahasa at napatay, kaya para sa kapakanan ng pagkakaiba, tayo ay magpatuloy.
 
-Let us now turn to the question of theft. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
+Ngayon tayo ay pumunta sa mga tanong ng pagnanakaw. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
 
 ### Self-Defence?
 
