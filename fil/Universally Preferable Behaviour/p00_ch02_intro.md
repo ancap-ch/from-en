@@ -62,9 +62,9 @@ Ang mga "panggitnang katotohanan" na ito ang pinaka mapanganib na ilusyon sa lah
 
 Sa pagbibigay ng ilusyon na natuklasan na natin ang katotohanan, "panggitnang katotohanan" ay talagang pinipigilan tayo na makantam ang katotohanan. Sila ang huling linya ng depensa para sa pantasya, predasyon at eksploytasyon.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Dahil sila ay hindi lamang di-makatwiran, ngunit *anti*-rasyonal, "panggitnang katotohanan" ay mananatiling walang katapusang nababaluktot - hanggat sila ay naglilikod sa mga nasa kapangyarihan. Halimbawa, Ang kristiyanismo ay lumitaw mula sa lumalagong pasismo ng dating imperyong Romano na bahagyang humagupit sa "primitibong" mga pamahiin ng umiiral na mga teolohiya. "Kalimutan ang inyong mga lumang Diyos, mayroon na tayong bagong Diyos na mas mabuti!"
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+"Panggitnang katotohanan" ay laging nasa anyo ng katotohanan, na sinusundan ng kasinungalingan. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
 
 We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
 
