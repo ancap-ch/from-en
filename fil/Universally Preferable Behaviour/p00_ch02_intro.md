@@ -48,9 +48,9 @@ Kung mauunawaan natin na ang ating sumusuray na potensyal ay matagal na nating n
 
 Kaya naman doon dapat isang pababang pwersa na makasaysayang kumilos upang sirain at alipinin ang natural na kalayaan ng sangkatauhan.
 
-Sa larangan ng siyensya, ito ay hindi sobrang hirap na makita ang mapang-aping pwersa na patuloy na nakatago sa ating isipan sa malapit-madawag na kamangmangan. Ang kombinasyon ng pamahiin sa anyo ng relihiyon, at karahasan sa anyo ng aristokrasya, ay nagbabanta sa makatwirang pag-iisip na may pananakot, pagkabilanggo, pagpapahirap, at pagpatay. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+Sa larangan ng siyensya, ito ay hindi sobrang hirap na makita ang mapang-aping pwersa na patuloy na nakatago sa ating isipan sa malapit-madawag na kamangmangan. Ang kombinasyon ng pamahiin sa anyo ng relihiyon, at karahasan sa anyo ng aristokrasya, ay nagbabanta sa makatwirang pag-iisip na may pananakot, pagkabilanggo, pagpapahirap, at pagpatay. Tulad ng isang magsasaka na kumikita mula sa mababang kaalaman ng kanyang mga baka, at may-ari ng alipin na kumikita mula sa takot ng kanyang mga alipin, pinananatili ng mga pari at mga hari ang kanilang pribilehiyo sa pagbabanta ng kamatayan sa sinumang mangangahas na mag-isip.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+Ang simpleng katotohanan ay ang "mga pari" at "mga hari" ay - at - mga tao lamang. Ang simpleng katotohanan ay na ang Diyos at Demonyo na dapat ay pangatwiranan na ang kanilang paghahari ay hindi umiral.
 
 We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
 
