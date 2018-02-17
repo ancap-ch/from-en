@@ -153,25 +153,25 @@ persons:
   - 
     person_: [ ]
     identifier: "template_pagkatao"
-    rule: "cover_artist"
+    rule: "takip_artista"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "artist"
+    identifier: "template_pagkatao"
+    rule: "artista"
 resources:
   - 
     resource: [ ]
-    rule: "front_cover"
+    rule: "unahan_takip"
     content: "cover.png"
     websites:
       - Resource website
-    description: Resource description
+    description: Paglalarawan ng mapagkukunan
     persons:
-      - "template_person"
+      - "template_pagkatao"
 targets:
   - 
     target: [ ]
-    name: book
+    name: libro
     reset_footer_active: true
     reset_footer_depth: 2
     clear_page_active: true
