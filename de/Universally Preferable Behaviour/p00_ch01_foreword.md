@@ -1,58 +1,59 @@
-## Foreword
+## Vorwort
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+In vielen Märchen gibt es ein schreckliches Monster, einen Drachen oder einen Basilisken, der die umliegenden Länder tyrannisiert. Vor diesem Monster zittern die Dorfbewohner; Sie opferten ihr Leben, geben Geld und Blut, in der Hoffnung, ihre mörderischen Impulse zu mildern.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Die meisten Menschen leben im Schatten dieses Monsters, sie nennen ihre Ängste als "Klugheit", aber einige - vielleicht wegen Mut oder Tollkühnheit und betrunken - entscheiden sich zu kämpfen. Jahr für Jahr, Jahrzehnt für Jahrzehnt versuchen Welle um Welle hoffnungsvolle Häleden, ihre Stärke, Tugend und List gegen diesen schrecklichen Tyrannen zu vereinen.
 
-Try – and fail.
+Experiment - fehlgeschlagen.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Das Monster ist immer unsterblich, so dass die Dorfbewohner keine Zeit haben werden, sich von ihren Despoten zu retten. Das Biest ist nicht rational und es besteht kein Handelswunsch, daher ist keine verhandlung möglich.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Die einzige Hoffnung der verzweifelten Dorfbewohner ist, dass ein Mann erscheint, der das Monster besiegen kann.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Zwangsläufig tritt ein Mann hervor, den jeder als völlig unpassend empfindet. Er ist mal ein Stallbursche, ein Schustersohn, ein Bäckerlehrling - oder manchmal nur ein Landstreicher.
 
-This book is the story of my personal assault on just such a beast.
+Dieses Buch ist die Geschichte meines persönlichen Angriffs auf genau solch ein Biest.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Von diesem "Monster" wird angenommen, dass es unmöglich ist, ein objektives, rationales, säkulares und wissenschaftlich-ethisches System zu definieren. Dieses "Monster" ist die Illusion, dass Moral nur aus pragmatischen Gründen; in den irrationalen Sümpfen der Götter und Regierungen für immer verloren sein muss, aber für immer fehlt logische Begründung und klare Definition. Dieses "Monster" ist die Fantasie, dass die Tugend unserer größten Freude, die tiefste Glückseligkeit, von säkularen Erwachsenen aufgegeben und im Staub gelassen werden muss, um von Politikern,  Priestern - und Eltern - angepfiffen, paradiert und ausgebeutet zu werden. Dieses "Monster" ist ein Aberglaube, dass wir ohne die Banden der Eltern, die gefolterten Götter oder die Waffen der Regierungen nicht vernünftig und gut sein können.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Dieses Tier hat viele große Helden, von Sokrates zu Plato, von Augustine zu Hume, von Kant zu Rand heruntergebracht.
 
-The cost to mankind has been enormous.
+Die Kosten für die Menschheit waren sehr hoch.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Da wir immer noch nicht in der Lage waren, ein vernünftiges System universeller Moral zu definieren, waren wir gezwungen, unseren Kindern religiöse Horrorgeschichten zu erzehlen oder einem kleinen Monopol seelenloser Kontrolleure Waffen, Gefängnisse und Armeen zu geben, die sich "den Staat" nennen.
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Da das, was wir "Ethik" nennen, subjektiv und nur "kulturell" ist, sind wir unweigerlich auf Mobbing, Angst und Gewalt angewiesen, um soziale Regeln durchzusetzen. Weil der Ethik die rationale Grundlage der wissenschaftlichen Methode fehlt, setzt "Moral" fort, um blutige Mythologien zu bekämpfen; Jeder Bande nagelt, um die Loyalität der Menschen "Tugend" zu prüfen, während sie mit ihren Zähnen kämpfen.
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Wir können nicht ohne Moral leben, aber wir können Moral nicht objektiv definieren - aus diesem Grund sind wir für immer verdammt, die glorreiche Heuchelei, zynische Dominanz oder religiöse Sklaverei unser Leben leer zu lassen.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Intellektuell gibt es keine höheren Pflichten in der Welt. Unser Versagen, objektive und rationale moralische Regeln zu definieren, hat in den Kriegen der Religionen und Staaten Hunderte Millionen Menschenleben gefordert.
 
-In many ways, the stakes are getting even higher.
+In vielerlei Hinsicht sind die Einsätze noch höher.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+Der zunehmende Informationsfluss im Internet ist zu dem Schluss gekommen, dass das, was "Tugend" genannt wird, nichts anderes ist als eine selbstsüchtige Geschichte von heuchlerischen alten Leuten in der neuen Generation. Die Lügen der Autoritätspersonen - und die Schuld derer, die sie bezeugen - sind jetzt klarer denn je.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+"Wahrheit" wurde als Manipulation entlarvt; "Tugend" als Kontrolle; "Loyalität" als Sklaverei, und was "Moral" genannt wird, wurde als eine lächerliche Puppenshow enthüllt, die entworfen wurde, um schwache und ängstliche Menschen dazu zu bringen, sich selbst zu versklaven.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+Diese Erkenntnis hat, wie schon im Deutschland des 19. Jahrhunderts, eine neue Generation von Nihilisten (die Existenz, Werte und Moral ablehnen) hervorgebracht. Relative Leute an diesem Ende machen die giftigsten Angriffe für jeden, der irgendeine Gewissheit beansprucht.
+Da diese post-modernen Generationen die kulturellen Grundlagen ihrer gemeinsamen Vergangenheit zahlenmäßig übertreffen, betrachten sie jetzt *alle* die gesamte Wahrheit als nur voreingenommene Behauptungen. Wie großäugige Kinder, die zynische "Weisheit" sind, sehen sie alle Kommunikation als Werbung, alle ihre Behauptungen als Propaganda und alle moralischen Empfehlungen als scheinheiligen Diebstahl.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+Da wir uns nicht auf einen konsistenten, objektiven und rationalen Rahmen für die Bewertung des moralischen Vorschlags geeinigt haben, entsteht "Moral" weiterhin als Folge von Mystizismus und unvermeidlicher Gewalt. Kurz vor der Aufklärung kämpften religiöse Sekten immer, um die Flügel der Aristokratie zu kontrollieren, und jetzt kämpfen die ethischen Mythen darum , den Staat zu kontrollieren und alle zu Unterdrücken.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+So bleibt die Moral im Vergleich zur modernen Wissenschaft ebenso wie die mittelalterliche "Astronomie" der modernen Astronomie - ein Reich der imaginären Mythologie, das durch Erzählung, Drohungen, Zwang und Ausbeutung erzwungen wird -, die jeden wirklichen Fortschritt in Richtung Wahrheit blockiert.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+Relativistisches Argument ist, dass dieses "Monster" über uns steht und Steuern, Inhaftierung, Zensur und Kriege rechtfertigt. Verjagen Sie junge Menschen in öffentlichen Schulen und an Sonntagen; sie fangen die Armen in den weichen Schnäbeln des Wohlstands; Sogar die Ungeborenen sind in den bodenlosen Brunnen der Staatsverschuldung versklavt.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+Wie ich in meinem früheren Buch "Über die Wahrheit: Die Tyrannei der Illusion" schrieb, besteht die grundlegendste Lüge im Zentrum unbewiesener ethischer Theorien darin, dass solche Theorien den Kindern immer als objektive und unumstößliche Tatsachen präsentiert werden, obwohl sie in Wirklichkeit reinekulturelle Bigotterien sind. Die Tatsache, dass Wissenschaftler keinen Staat oder einen Vatikan brauchen, bedeutet, dass Wissenschaftler eine objektive Methode haben müssen, um Meinungsverschiedenheiten zu lösen: die wissenschaftliche Methode. Der Grund, warum die Sprache keine zentrale Autorität benötigt, um ihre Entwicklung zu steuern, ist, dass sie auf dem "freien Markt" der individuellen Präferenzen basiert, die sich für Stil und Nützlichkeit ansammeln.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+Die Tatsache, dass die moderne Moral - die Moral der Geschichte - immer den Kindern ausgeliefert war und dann den Erwachsenen drohen muss, ist eine manipulative Lüge, die als tugendhafte Tatsache maskiert ist.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+Tatsache ist, dass wir Moral brauchen; Eine Lüge ist die Art und Weise, wie Götter oder Regierungen sie rational definieren oder rechtfertigen können.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Der Zweck dieses Buches ist es, eine objektive, konsistente, offene, rationale, empirische und *reale* Methode zur Validierung von Moraltheorien zu definieren.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+Mir ist jetzt vollkommen bewusst, dass Sie eine wachsende Skepsis verspüren werden. Ich verstehe völlig dass die Möglichkeit, einige Männer im Internet - in der Welt des Wahnsinns - das philosophische Problem der Älteren in irgendeiner Weise nicht lösen können - in der Tat, fast ununterscheidbar nahe wie Null ist.
 
-Still, not *quite* zero.
+Trotzdem ist es nicht *komplett* null.
 
 ### Ground Rules
 
