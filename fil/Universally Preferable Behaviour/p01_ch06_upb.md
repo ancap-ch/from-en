@@ -13,7 +13,7 @@ Bagama't una kaming nakatuon sa UPB sa larangan ng etika, ang UPB ay makikita na
 
 Ang etika ay ang subset ng UPB na may kinalaman sa ng *ipinahamak* pag-uugali, o ang paggamit ng karahasan. Ang anumang teorya ng nagpapasawalang-sala o tinanggihan ang paggamit ng karahasan ay isang *moral* na teorya, at napapailalim sa mga kinakailangan ng lohikal na pagkakapare-pareho at katibayan ng imperyo.
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+Tingnan natin ang tatlong aksyon, upang matulungan kaming higit na makilala ang etika at estetika. Ang unang aksyon ay *hindi makatwiran*; ang pangalawa ay *pagsisinungaling*; ang pangatlo ay *pagpatay*.[^9]
 
 ### Irrationality
 
