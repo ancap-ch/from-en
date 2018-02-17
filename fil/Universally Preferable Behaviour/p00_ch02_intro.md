@@ -36,7 +36,7 @@ Sa mga lumang mapa, bago matapos ng mga kartograper ang kanilang mga eksplorasyo
 
 Ang katulad ay totoo sa lupain ng moralidad.
 
-### The Casualties
+### Ang mga biktima
 
 Crossing this “null zone” is fraught with peril. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
 
