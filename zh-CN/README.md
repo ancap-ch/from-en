@@ -38,12 +38,12 @@ Last generated:
 | 03_p01_ch06_01.md | :x: | :x: | 2k 940 | | | |
 | 03_p01_ch06_02.md | :x: | :x: | 4k 530 | | | |
 | 03_p01_ch06_03.md | :x: | :x: | 3k 860 | | | |
-| 03_p01_ch07_01.md | :x: | :x: | 2k 830 | | | |
-| 03_p01_ch07_02.md | :x: | :x: | 3k 260 | | | |
-| 03_p01_ch07_03.md | :x: | :x: | 2k 950 | | | |
-| 03_p01_ch07_04.md | :x: | :x: | 2k 660 | | | |
-| 03_p01_ch07_05.md | :x: | :x: | 3k 620 | | | |
-| 03_p01_ch07_06.md | :x: | :x: | 3k 600 | | | |
+| 03_p01_ch07_01.md | :x: | :x: | 2k 830 | AngelaWenjing | | |
+| 03_p01_ch07_02.md | :x: | :x: | 3k 260 | AngelaWenjing | | |
+| 03_p01_ch07_03.md | :x: | :x: | 2k 950 | AngelaWenjing | | |
+| 03_p01_ch07_04.md | :x: | :x: | 2k 660 | AngelaWenjing | | |
+| 03_p01_ch07_05.md | :x: | :x: | 3k 620 | AngelaWenjing | | |
+| 03_p01_ch07_06.md | :x: | :x: | 3k 600 | AngelaWenjing | | |
 | 03_p01_ch08.md | :x: | :x: | 2k 430 | | | |
 | < more files to be added > | | | 0  000 | | | |
 | 03_p02.md | :x: | :x: |    001 | | | |
