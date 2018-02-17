@@ -1,46 +1,46 @@
-## The Third Test: Theft
+## آزمون سوم: سرقت
 
-We will have to spend a little bit more time on theft, since it inevitably brings into the picture the question of property rights, which is highly contentious for some.
+از آنجا که سرقت تصویری درباره ی حقوق مالکیت به ما می دهد، که برای برخی بسیار ستیزه جویانه می باشد،ما باید وقت بیشتری را بر روی موضوع سرقت صرف کنیم. 
 
-There are many ways of approaching the question of property rights, from “homesteading” to legal definitions to practical considerations etc. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+راه های بسیار زیادی برای رسیدن به جواب سوال ”حقوق مالکیت“ وجود دارد؛ از”شهر موطن“ تا تعاریف قانونی و ملاحظات عملی و غیره.  من هیچ یک از آنها را در اینجا ذکر نمیکنم، زیرا سوال حقوق مالکیت باید در قالب یو پی بی باشد،  اگر یو پی بی به عنوان یک روش منطقی برای ارزیابی گزینه های اخلاقی عمل کند.
 
-Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
+واضح است که گزاره اخلاقی در رابطه با حقوق مالکیت به این صورت خواهد بود: انسانها حق دارند مالک باشند و یا نباشند.
 
-Now the first “property” that must be dealt with is the body. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+اکنون، ”اولین” اموالی که باید مورد توجه قرار گیرد، بدن است. ”,مالکیت“ باید در درجه اول، شامل کنترل بر بدن خود باشد. زیرا اگر این کنترل وجود نداشته باشد، یا معتبر نباشد، کل مسئله اخلاق -غیر از مسئله حقوق مالکیت- از بخث خارج خواهد شد.
 
-UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
+یو پی بی چهارچوبی برای ارزیابی گزاره های اخلاقی و یا استدلال هایی برای رفتار مطلوب جهانی، برای همه ی افراد بشر است. اول از همه، اگر انسان از نظر اخلاقی مورد قضاوت قرار گیرد، خود مسئول اعمال خویش می باشد. همانطور که در بالا بحث کردیم، ظرفیت انتخاب اعمال برای ارزیابی اخلاقی، اساسی است.
 
-If a man has no control over his body, then clearly he has no responsibility for his actions – they are not in fact “his” actions, but rather the actions of his body. Now, no one would rationally argue that if a man strangles another man, it is the murderous fingers that should be put on trial and punished. Clearly, the body cannot entirely control itself, but rather must be to some degree under the direction of the conscious mind.
+اگر انسان بر بدنش هیچگونه کنترلی نداشته باشد، پس، واضح است که برای اعمالش نیز، هیچگونه مسئولیتی نخواهد داشت. آنها اعمال خود او نیستند بلکه اعمال بدن او هستند. در حال حاضر، هیچکس بصورت منطقی استدلال نمیکند که اگر مردی، مرد دیگری را خفه کند، این انگشتان قاتل او هستند که باید محاکمه و مجازات شوند. واضح است که بدن نمی تواند بصورت کلمل خود را کنترل کند، بلکه باید تا حدی از نظر ذهنی، آگاهانه باشد.
 
-What this means is that a man is responsible for the actions of his body, and therefore he is responsible for the *effects* of those actions. A man is responsible for where he puts his penis, which is how we know that we can judge him for raping someone. He “owns” the actions of his body as surely as he owns his body. To say that a man is responsible for his body but not the effects of his body is to argue that a man is responsible for aiming and throwing a knife, but not for where it lands.
+این بدان معنا است که انسان مسئول اعمال بدن خویش است؛ بنا بر این مسئول "اثرات" این اعمال نیز می باشد. یک مرد مسئول جایی است که آلت تناسلی خود را قرار می دهد، این همان چیزی است که ما می توانیم او را برای تجاوز به کسی قضاوت کنیم. او "صاحب" اعمال بدن خود است همانطور که قطعا صاحب بدن خود است. اگر بگوییم که انسان مسئول بدن خویش است اما برای اثرات این اعمال، مسئول نیست، مانند این است که انسان مسئول هدفگیری و پرتاب چاقو است؛ اما مسئول جایی که چاقو فرود می آید نیست.
 
-Also, arguing that a man is not responsible for the effects of his body is a self-detonating statement, similar to the ones we examined above. If I say to you: “Men are not responsible for the actions of their bodies,” it would be eminently fair for you to ask me who is working my vocal chords and mouth. If I say that I have no control over my speech – which is an effect of the body – then I have “sustained” my thesis at the cost of invalidating it completely.
+همچنین، استدلال اینکه انسان مسئول اثرات اعمال بدن خویش نمی باشد، یک جمله ی خود تخریبی است.  همانند آنچه که در بالا گفته شد. اگر من بگویم که انسان برای اعمال بدن خویش مسئول نیست، این برای شما کاملاً قابل توجیه است که از من بپرسید که چه کسی با دهان و حنجره من کار می کند؟ اگر بگویم که من بر سخنانم هیچ کنترلی ندارم -که خود اثری از اعمال بدن است- پس من پایان نامه ام را به قیمت نا معتبر کردن کامل آن، متوقف کرده ام.
 
-If I am not at all responsible for my speech, then there is no point arguing with me. A tape recorder is also not responsible for its speech, which is why we tend not to get into virulent disagreements with magnetic strips. In cheesy horror films, young girls seem to be particularly susceptible to demonic possession – the inevitable priest who shows up always offers to talk to the demon in charge of the girl, at which point the girl starts making a sound like Don Ho gargling with ball bearings.
+اگر من به هیچ وجه برای سخنرانی ام مسئول نباشم، پس هیچ نکته ای برای بحث با من وجود ندارد. یک ضبط صوت نیز برای سخنرانی خود مسئول نیست، به همین دلیل، ما تمایل نداریم که با اختلافات شدید با طبقات مغناطیسی روبهرو شویم. در فیلم های ترسناک بی نظیر، دختران جوان، به طور مشخصی آماده قرار گرفتن در معرض تسخیر شیطانی هستند.  کشیشی که همیشه سعی می کند به جای دختر تسخیر شده، با شیطان صحبت کند، در آن لحظه دختر شروع به ساختن صدای مانند دونو هوگال با بلبرینگ می کند.
 
-This ridiculous portrait is accurate in one sense though – if some other being is in full control of the girl’s vocal chords, it is that being which needs to be addressed, not the girl, who has no control over her responses.
+این پرتره مضحک فقط در یک مورد صحیح است -اگر شخص دیگری کنترل کامل صدای دختر را در دست بگیرد، این چیزی است که باید مورد توجه قرار بگیرد، نه دختری که کنترل واکنشهای خویش را ندارد.
 
-Thus if I say to you that I do not have control over my speech, you can ask me: who does? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
+بنابراین، اگر من به شما بگویم که بر سخنرانی خود کنترل ندارم، شما خواهید پرسید که پس چه کسی کنترل دارد. اگر من پاسخ دهم که کسی کنترل آن را بر عهده ندارد، این دقیقاً مانند این است که بحث با من، همانند بحث با یک تلویزیون، یا تخته سنگی است که از بالای کوه به سمت اتومبیل شما می آید.
 
-Thus the very act of controlling my body to produce speech demands the acceptance of my ability to control my speech – an implicit affirmation of my ownership over my own body.
+بنابراین، کنترل من بر بدن خویش برای تولید گفتار، مقتضی پذیرش توانایی کنترل من بر گفتار من است. تاییدی ضمنی بر مالکیت من بر بدن من.
 
-Now, if demonic possession were a valid occurrence, and a girl possessed by a demon spat on a priest, we would not call the *girl* rude, but would rather pity her for being inhabited by such an impolite demon. Whoever has control over the girl’s body is culpable for the effects of her actions – this is why we would not call a man who stole while sleepwalking “evil,” since he did not have full control over his own body (although we may restrain him in other ways). This is also the basis for the legal defence of “not guilty by reason of insanity,” which is that we assume that a man who is insane does not have full control over his actions.
+اکنون، اگر تسخیر شیطانی معتبر بود، و دختری که توسط شیطان تسخیر شده بود، بر کشیش تف می کرد، ما "دختر" را بی ادب نمی خواندیم، اما برای او متاسف می شدیم که توسط چنین شیطان بی ادبی تسخیر شده است. هر کسی که کنترل بدن دختر را بر عهده دارد، مسئول آثار اعمال او نیز می باشد. به همین دلیل است که ما کسی را که در حالت خواب دزدی میکند را "شرور" نمی نامیم؛ زیرا او کنترل کاملی بر بدن خویش ندارد. (اگر چه ما می توانیم به روش های دیگر او را مهار کنیم.) این همچنین پایه دفاع قانونی برای "عدم تقصیر به علت دیوانگی" میباشد. به این دلیل است که ما فرض میکنیم کسی که دیوانه است، کنترل کاملی بر اعمال خویش ندارد.
 
-Thus to reject the ownership of the body is to reject all morality, which, as we have seen above, is utterly impossible. Logically, since morality is defined as an enforceable subset of UPB, to reject morality is to say that it is universally preferable to believe that there is no such thing as universal preferences.
+بنابراین، رد کردن مالکیت بدن مساوی با رد کردن کل فریضه اخلاق است؛ که همانطور که قبلا دیدیم، کاملا غیر ممکن است. به لحاظ منطقی، از آنجایی که اخلاق به عنوان یک زیرمجموعه قابل اجرا از یو پی بی تعریف می شود، رد اخلاقیات این است که بگوییم مطلوب جهانی این است که چنین چیزی به عنوان برتری جهانی وجود ندارد.
 
-Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
+نهایتا، استفاده از مالکیت شخصی برای بدن خویش به منظور ایجاد یک سخنرانی، برای رد این مفهوم که کسی می تواند کنترل بدن شخص دیگری را برعهده بگیرد، یک خود- تضادی تلویحی است.
 
-It is in this way that any rejection of self-ownership can be utterly discarded.
+به این ترتیب، هرگونه رد مالکیت به طور کامل از بین خواهد رفت.
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+از آنجایی که ما مالک بدن خود هستیم، ناچارا صاحب "اثرات" اعمال خویش نیز می باشیم؛ چه خوب، چه بد.  اگر ما مسئول اثرات اعمال خویش باشیم، پس واضح است که ما مسئول چیزی که تولید می کنیم نیز هستیم. هرچند چیزی که تولید می کنیم یک کمان، یک کتاب و یا حتی قتل باشد
 
-### Property And UPB
+### ملک و یو پی بی
 
-Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
+حتی اگر ما آنچه را که در بالا ذکر شد رد کنیم، هنوز هم می توانیم از یو پی بی برای دفاع قطعی از وجود حقوق مالکیت جهانی استفاده کنیم.
 
-As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
+همانطور که در بالا گفته شد،انسان ها یا دارای حقوق مالکیت هستند یا نیستند. به جز برای چند ناحیه خاکستری که به زودی به آن میرسیم.  این یک پیشنهاد جهانی باقی می ماند.
 
-If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
+اگر انسان حق استفاده از اموال را نداشته باشد، پس حق استفاده از بدن خویش را هم ندارد؛ حق استفاده از شش های خود را ندارد و باید نفس کشیدن را متوقف کند. اگرچه این احمقانه به نظر میرسد، اما این یک نتیجه فوری و غیر قابل انکار از فرضیه ی نداشتن حقوق مالکیت توسط انسان است.
 
 It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
 
