@@ -18,7 +18,7 @@ Ang iba pang pagtutol sa nailapat na panukala ay "ang panggagahasa ay mabuti" ay
 
 Mayroon ding isang saligan na pagsasalungat ang kasama sa kahit anumang makamundong pagbibigay-katwiran para sa kilos na pagpatay, tulad ng nandon ang kilos ng panggagahasa. Kung si Bob ay sisikaping masakal si Doug, ngunit lumaban si Doug, paano magiging rasyunal na may katwiran si Bob sa kanyang mga kilos ayon sa UPB?
 
-Well, he could say something like: “a man’s life can be taken any time you want to” – but of course, since UPB is the only valid test of moral propositions, this justifies Doug killing Bob as much as it does Bob killing Doug. Thus Bob can only justify strangling Doug if Doug does not resist in any way – but of course if Doug does not resist, then can it really be considered murder?
+Sa gayon, maaari niyang sabihin ang bagay na katulad ng: "ang buhay ng isang tao ay maaaring alisin kahit anong oras mong gustuhin" - ngunit syempre, dahil ang UPB ay ang tanging wastong pagsubok ng moral na mga panukala, ang mga ito ang nagbibigay katwiran kay Doug upang patayin si Bob na katulad ng pagpatay ni Bob kay Doug. Thus Bob can only justify strangling Doug if Doug does not resist in any way – but of course if Doug does not resist, then can it really be considered murder?
 
 Let us say that Bob then adjusts his premise to say: “I can shoot a man in his sleep any time I want.” The problem here is not only the sleep that Bob will lose based on his universal premise, but also the logical impossibility of reversing moral propositions based on the differences in the states of sleeping and waking. Biologically speaking, a man does not become the *opposite* of a man when he falls asleep, any more than gravity reverses when he blinks.
 
