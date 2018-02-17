@@ -1,4 +1,4 @@
-## Ang pangalawang pagsubo: Pagpatay
+## Ang pangalawang pagsubok: Pagpatay
 
 Ngayon ay subukan natin ang UPB na balangkas laban sa moral na panukala tungkol sa *pagpatay*, na kung saan dito ay tinutukoy bilang sadyang pagpatay at may paghahanda, hindi sa pagtatanggol sa sarili.
 
@@ -12,7 +12,7 @@ Magaling, lubos nating makikilala ang pagkabaliw ng panukalang moralidad na ang 
 
 Kung ang pagpatay ay moral na mabuti, sa gayon ito ay din ay magiging kaso na ang isang tao na hindi makaalis sa disyerto ay magiging moral na masama hanggang sa siya ay nabubuhay doon, dahil wala siyang biktima na mapapatay. Ang taong walang malay ay maaari ring maging masama, tulad ng isang natutulog na tao, o isang tao na nasa operasyong lamesa. Ang taong nagpapahirap ay maaaring maging masamang tao habang siya ay nagpapatuloy na magpahirap - ngunit pagkatapos maaari siyang maging mabuting tao sa oras na ang kanyang biktima ay mamatay sa kanyang kamay.
 
-Gayon ay maaari nating makita na ang panuka na ang "pagpatay ay mabuti" ay hindi lamang talagang kakaiba, ngunit gayundin na lohikal na imposible.
+Gayon ay maaari nating makita na ang panukala na ang "pagpatay ay mabuti" ay hindi lamang talagang kakaiba, ngunit gayundin na lohikal na imposible.
 
 Ang iba pang pagtutol sa nailapat na panukala ay "ang panggagahasa ay mabuti" ay angkop din dito. Ang pagpatay ay hindi magiging moral na walang kinikilingan, dahil ang moral na walang kinikilingan na panghuhusga o mga kilos ay hindi maaring puwersahin ipataw sa iba, at ang pagpatay sa pamamagitan ng kahulugan ay puwersahing pagpataw sa iba pa.
 
@@ -36,4 +36,4 @@ Ngayon tayo ay pumunta sa mga tanong ng pagnanakaw. Kung ang balangkas na ito ay
 
 ### Pagtatanggol sa sarili?
 
-Binaluktot namin ang mga isyu sa pagtanggol sa sarili patungkol sa pagpatay, bagaman ito ay hindi kinakailangan upang suriin ito sa kaso ng panggagahasa. This is not because the issue of self-defence is either self-evident or uncomplicated, but rather because the complications that exist can be dealt with more comprehensively after we look at the question of theft.
+Binaluktot namin ang mga isyu sa pagtanggol sa sarili patungkol sa pagpatay, bagaman ito ay hindi kinakailangan upang suriin ito sa kaso ng panggagahasa. Ito ay hindi dahil sa mga isyu ng pagtanggol sa sarili ay alinman sa sariling patunay o hindi komplikado, kundi dahil sa mga komplikasyon na umiiral na maaaring harapin kasama ng mas komprehensibo pagkatapos nating tignan ang tanong ng pagnanakaw.
