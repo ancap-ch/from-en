@@ -18,7 +18,7 @@ As outras objecções que se aplicam à proposição "a violação é boa" tamb�
 
 Também existe uma contradição básica envolvida em qualquer justificação universal para o acto de assassinato, assim como havia no acto de violação. Se Bob tentasse estrangular Doug, mas Doug resistisse, como é que Bob poderia justificar, racionalmente, as suas acções de acordo com o CUP?
 
-Well, he could say something like: “a man’s life can be taken any time you want to” – but of course, since UPB is the only valid test of moral propositions, this justifies Doug killing Bob as much as it does Bob killing Doug. Thus Bob can only justify strangling Doug if Doug does not resist in any way – but of course if Doug does not resist, then can it really be considered murder?
+Bem, ele poderia dizer algo como: "A vida de um homem pode ser tomada em qualquer momento que se quiser" - mas, uma vez que o CUP é o único teste válido de proposições morais, isso justifica tanto que Doug mate Bob como que Bob mate Doug. Assim, Bob só pode justificar o estrangulamento de Doug se este não resistir de forma alguma - mas, se Doug não resistir, então pode ser realmente considerado um homicídio?
 
 Let us say that Bob then adjusts his premise to say: “I can shoot a man in his sleep any time I want.” The problem here is not only the sleep that Bob will lose based on his universal premise, but also the logical impossibility of reversing moral propositions based on the differences in the states of sleeping and waking. Biologically speaking, a man does not become the *opposite* of a man when he falls asleep, any more than gravity reverses when he blinks.
 
