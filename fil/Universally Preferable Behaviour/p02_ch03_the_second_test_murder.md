@@ -16,7 +16,7 @@ Gayon ay maaari nating makita na ang panuka na ang "pagpatay ay mabuti" ay hindi
 
 Ang iba pang pagtutol sa nailapat na panukala ay "ang panggagahasa ay mabuti" ay angkop din dito. Ang pagpatay ay hindi magiging moral na walang kinikilingan, dahil ang moral na walang kinikilingan na panghuhusga o mga kilos ay hindi maaring puwersahin ipataw sa iba, at ang pagpatay sa pamamagitan ng kahulugan ay puwersahing pagpataw sa iba pa.
 
-There is also a basic contradiction involved in any universal justification for the act of murder, just as there was in the act of rape. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
+Mayroon ding isang saligan na pagsasalungat ang kasama sa kahit anumang makamundong pagbibigay-katwiran para sa kilos na pagpatay, tulad ng nandon ang kilos ng panggagahasa. Kung si Bob ay sisikaping masakal si Doug, ngunit lumaban si Doug, paano magiging rasyunal na may katwiran si Bob sa kanyang mga kilos ayon sa UPB?
 
 Well, he could say something like: “a man’s life can be taken any time you want to” – but of course, since UPB is the only valid test of moral propositions, this justifies Doug killing Bob as much as it does Bob killing Doug. Thus Bob can only justify strangling Doug if Doug does not resist in any way – but of course if Doug does not resist, then can it really be considered murder?
 
