@@ -1,9 +1,7 @@
-## The Value Of Universally Preferable Behaviour
+## Ang Bili Sa Gawi nga Napilian  nga Pang-unibersal
 
-A new theory is of precious little value if it only points out the obvious. If physics only provided an accurate description of how we catch a ball, then physics would not be a very worthwhile pursuit, because we already *can* catch a ball. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
+Usa ka bag-o nga teorya nga ang bililhon kay gamay og bili nga kung kini mingpunto lang sa halata na. Kung ang pisika minghatag lang og usa ka tukma nga pagbatbat sa giunsa nato pagsalo ang usa ka bola, unya ang pisika mahimo nga dili kaayo adunay bili nga pangagpas, tungod kay *makahimo* man kita nga makasalo og usa ka bola. Ang pagdiskubre nga ang kalibutan kay lingon kay mingtabang lang sa lagyo nga distansya nga pagnabigar patabok ngadto sa kadagatan – wala kiniy nabuhat nga tabang dinhi kanato nga makuha ang sentro sa Quantum nga mekanika nga mahimo nga naay kapuslanan lang kung ang uban nga mga pamaagi kay dili makahimo og hatag sa kinahanglan nga pagkatukma – wala kini nakatabang sa pagbuhat og usa ka sakyanan.
 
-In the same way, the UPB framework, and the moral rules that it validates or rejects, should ideally provide us with some startling insights about the world that we live in, and our relations to each other.
-
-If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
-
-Thus let us begin applying this framework to the world that we live in, and see what value comes out of it. 
+Sa susama nga pamaagi, ang tigbayon nga UPB, ug ang mga mando sa pamatasan nga gipangpamatud-an o gipangsalikway niini, kay sa pagka-ideyal makahatag kanato og pipila ka mga makapakugang nga mga panabot mahitungod sa kalibutan nga atong gipuy-an, ug sa mga pakighigala nato sa matag usa.
+Kung ang tanan nga UPB kay aron mapruwebahan nga ang panglugos, pagpatay ug pagpangawat kay sayop nga pamatasan, dili kini makahatag og igo nga bili, tungod kay halos walay bisan usa ang mingtuo nga ang kadtong mga butang kay sa pagsugod palang matarong na nga pamatasan.
+Busa magsugod na kita sa pagpatuman sa  niini nga tigbayon ngadto sa kalibutan nga ato nga gipuy-an, ug tan-awon kung unsa nga bili ang mogawas gikan niini.
