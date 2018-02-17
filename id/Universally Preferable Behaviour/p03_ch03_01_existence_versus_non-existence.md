@@ -1,30 +1,30 @@
-## Keberadaan Versus Non-Existence
+## Existence Versus Non-Existence
 
-Kita mendefinisikan "non-eksistensi" sebagai sesuatu yang tidak memiliki massa atau energi, atau menampilkan efek massa atau energi, seperti hubungan yang terdeteksi seperti gravitasi.
+We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
 
-Tuhan tidak memiliki massa atau energi, atau menampilkan efek massa atau energi - Tuhan sebenarnya tidak dapat dideteksi atau diverifikasi dengan cara apapun, bentuk atau bentuk, entah melalui indra, atau melalui rasionalitas.
+God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
 
-Jadi jika saya berkata, "Tuhan itu ada," yang sebenarnya saya katakan adalah:
+Thus if I say, “God exists,” what I am really saying is:
 
-"*Yang ada harus bisa dideteksi; Tuhan tidak bisa dideteksi, tapi Tuhan ada - karena itu yang tidak ada, ada.*"
+“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
 
-Dengan kata lain, dengan mengatakan "Tuhan ada," saya telah menciptakan sebuah kontradiksi yang tidak dapat diatasi. Saya telah mendefinisikan "eksistensi" sebagai "non-eksistensi", yang membuat sama pentingnya dengan mendefinisikan "kehidupan" sebagai "benda mati," atau batu karang sebagai "kebalikan dari batu karang" atau "persegi" sebagai " lingkaran."
+In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
 
-Demikian pula, jika saya menciptakan alam alternatif di mana "non-eksistensi sama dengan eksistensi" dan "kontradiksi sama dengan konsistensi" dan "kebenaran sama dengan kepalsuan" dan "irasionalitas sama dengan rasionalitas," maka apa yang telah saya lakukan sebenarnya adalah menciptakan sebuah dunia yang disebut "kesalahan," letakkan segala sesuatu yang tidak benar, dan definisikan alam ini sebagai tempat di mana "kesalahan sama dengan kebenaran."[^2]
+Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
 
-Tentu saja, orang tidak menciptakan "alam semesta alternatif" ini untuk membuktikan kebenaran di alam semesta kita sendiri, melainkan untuk menyelamatkan yang salah dalam kenyataan, dan menyebutnya benar. Misalnya, tidak ada orang yang berpendapat "Tuhan mungkin ada di alam semesta lain, jadi Anda tidak dapat mengklaim bahwa Tuhan tidak ada" yang pernah berpendapat "*Saya* mungkin tidak ada di alam semesta yang lain, jadi Anda tidak dapat mengklaim bahwa saya ada di sini
+Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
 
-Mereka juga cenderung tidak menanggapi dengan baik argumen bahwa: "Di alam semesta yang lain, Anda mungkin setuju dengan saya bahwa Tuhan tidak ada, sehingga membuat Anda seorang ateis."[^3]
+They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
 
-Jika pernyataan yang benar tentang kenyataan dapat tanpa henti ditentang karena beberapa wilayah imajiner yang disebut "kesalahan sama dengan kebenaran" membuat mereka tidak ada yang salah, maka apa yang sebenarnya sedang dikatakan adalah "tidak ada pernyataan positif tentang kebenaran yang bisa berlaku" - namun, kita cukup bijak sebagai filsuf sekarang untuk mengetahui bahwa pernyataan ini sangat kontradiktif, karena ini adalah pernyataan positif yang dianggap benar bahwa mengatakan bahwa tidak ada pernyataan positif yang benar. Jika tidak ada yang benar atau salah - bahkan pernyataan itu - maka tidak ada pernyataan apapun yang dapat dibuat mengenai apapun. Dengan menggunakan kata-kata, menggunakan bahasa Inggris, menggunakan kalimat yang dapat dipahami - semuanya tidak masuk akal sama sekali, karena di alam semesta "alam semesta alternatif" semacam ini mungkin benar-benar omong kosong belaka. Jika hal-hal yang benar di alam semesta alternatif ini memiliki efek pada pernyataan yang kita buat di alam semesta ini, maka jelas kebalikannya juga benar, yang berarti bahwa tidak ada pernyataan yang dapat dibuat mengenai apapun, karena kebalikannya bisa sama-sama benar.
+If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
 
-Realitas sebenarnya dari pernyataan "kesalahan sama dengan kebenaran" adalah kegilaan yang ketat dari "nol sama dengan nol."
+The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
 
-### The "Alternate Universe" Dalam Human Society
+### The "Alternate Universe" In Human Society
 
-Alasan bahwa kita telah menghabiskan begitu banyak waktu untuk berurusan dengan teori "alam semesta alternatif" ini adalah bahwa ia memiliki relevansi langsung dengan masyarakat manusia, dan digunakan untuk "membenarkan" kejahatan terbesar yang dilakukan di antara kita.
+The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
 
-Dalam pengalaman pribadi kita sendiri, kita tahu bahwa pembunuhan itu salah. Dalam mengerjakan proposisi bahwa pembunuhan salah secara moral dalam contoh di atas, saya sangat meragukan bahwa ada orang yang terkejut memiliki insting moral mereka yang dikonfirmasi melalui penalaran abstrak UPB yang ketat. Namun, di bagian ini, secara resmi Anda diperbolehkan untuk mulai betul-betul terkejut.
+In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. Namun, di bagian ini, secara resmi Anda diperbolehkan untuk mulai betul-betul terkejut.
 
 Lompatan terbesar ke depan dalam pemahaman ilmiah adalah apa yang disebut "teori pemersatu." Einstein menghabiskan beberapa dekade untuk mencoba menyelesaikan teori medan terpadu; dan teori fisika yang menyatukan kekuatan kuat dan lemah, elektromagnetisme, gravitasi dan sebagainya tetap sulit dipahami.
 
