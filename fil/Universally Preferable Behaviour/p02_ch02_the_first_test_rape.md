@@ -82,7 +82,7 @@ Sa gayon ang panggagahasa ay hindi maaaring mahulog sa kategorya ng APAs.
 
 Marahil na panggagahasa ay katulad lang sa pansariling kagustuhan.[^2]
 
-Ang tanong na lumalanas: maaari ba ang pag-uuri ng panggagasa ay isa lamang pansariling kagustuhan na magtanggol sa lohikal na pagsisiyasat?
+Ang tanong na lumalabas: maaari ba ang pag-uuri ng panggagahasa ay isa lamang pansariling kagustuhan na magtanggol sa lohikal na pagsisiyasat?
 
 Kung tayo ay magpapanukala ng isang moral na patakaran: "ang pansariling kagustuhan ay dapat maging pagpataw ng marahas sa ibang tao," paano nito maitatanggol sa balangkas ng UPB?[^3]
 
