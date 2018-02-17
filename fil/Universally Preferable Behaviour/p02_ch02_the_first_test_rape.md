@@ -44,11 +44,11 @@ Sa nasasaisip, ipagpatuloy natin ang ating pagsusuri sa panggagahasa.
 
 ### Aesthetically Positibo
 
-Aesthetically positive actions (APAs) are universally preferable, but not enforceable through violence, since aesthetically negative actions do not initiate the use of force. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
+Ang Aesthetically positibong Aksyon (APAs) ay mga makamundong kanais-nais, ngunit hindi maaaring ipatupad sa pamamagitan ng karahasan, dahil ito ay aesthetically na negatibong mga kilos na hindi masisimulan ang paggamit ng puwersa. Gaya ng tinatalakay natin sa itaas, kung ako ay mahuhuli sa ating pagkikita, ako ay hindi nagsisimula ng paggamit ng puwersa laban sayo, at hindi ko tinanggal sa iyo ang iyong kakayahan na mamili, o iwasan ang sitwasyon.
 
-If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
+Kung sasabihin natin na ang APAs ay maaaring maipatupad sa pamamagitan ng karahasan, sa gayon ay sinasabi natin na ang pagsisimula ng karahasan ay mabuting moral.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+Kung tayo ay magmumungkahi ng isang moral na patakaran na pasisimulan ng karahasan ay masasabing mabuting moral, sa gayon ang patakaaran ay haharapin ang lahat ng kaparehong lohikal na hindi posibilidad katulad ng sa patakaran na ang "panggagahasa ay mabuting moral."
 
 Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
 
