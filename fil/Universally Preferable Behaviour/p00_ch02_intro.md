@@ -58,9 +58,9 @@ Tayo ay nakagawa ng malaking hakbang sa pag unawa na ang kalikasan at realidad n
 
 Tawagin natin na ang alituntuning oposisyunal na naninirahan sa "sona ng kawalan" - sa pagitan ng pandamang pananaw at konseptwal na hindi nagbabago - ang mga "panggitnang katotohanan."
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+Ang mga "panggitnang katotohanan" na ito ang pinaka mapanganib na ilusyon sa lahat, dahil ipinagkakaloob nito ang *hitsura* ng katotohanan habang talagang *umaatake* ang katotohanan.
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+Sa pagbibigay ng ilusyon na natuklasan na natin ang katotohanan, "panggitnang katotohanan" ay talagang pinipigilan tayo na makantam ang katotohanan. Sila ang huling linya ng depensa para sa pantasya, predasyon at eksploytasyon.
 
 Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
 
