@@ -26,11 +26,11 @@ Uma vez que um homem continua a ser um homem, mesmo adormecido, neste estado, n�
 
 Desta forma, se não podemos atirar num homem quando está acordado, também não podemos matá-lo quando está a dormir, já que ele continua a ser um homem.
 
-Thus, since the statement “I can shoot a man in his sleep any time I want” cannot be validated according to UPB, it cannot be a true moral proposition.
+Assim, uma vez que a afirmação "Eu posso matar um homem adormecido, sempre que quiser" não pode ser validada de acordo com o CUP, não pode ser uma verdadeira proposição moral.
 
-Here again we find that the UPB framework holds true in terms of murder. The only possible valid moral theory regarding murder is that it is evil, or universally banned.
+Mais uma vez, verificamos que a estrutura do CUP é verdadeira em termos de homicídio. A única possível teoria moral válida, em relação ao assassinato é que é má, ou universalmente repudiada.
 
-We could take the same approach to the question of assault, but the arguments would be identical to those of rape and murder, so for the sake of brevity, we shall continue.
+Poderíamos seguir o mesmo questionamento do caso da agressão, mas os argumentos seriam idênticos aos da violação e assassinato, por isso, por uma questão de prontidão, vamos continuar.
 
 Let us now turn to the question of theft. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
 
