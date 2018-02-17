@@ -72,7 +72,7 @@ Itong raises ay may napakainteresadong punto, na Kung saan ang tanong ay Kung an
 
 ### Mga opinyon at katotohanan
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Malinaw, aking nauunawaan ang Hindi ko magagawa sa pamamagitan ng opinyon, palayain kayo mula sa paghihigpit ng grabidad, anu man ang higit sa aking opinyon na "dalawa plas dalawa kalalabasan ay lima" ginagawang totoo.
 
 “Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
 
