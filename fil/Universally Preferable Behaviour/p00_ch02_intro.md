@@ -66,7 +66,7 @@ Dahil sila ay hindi lamang di-makatwiran, ngunit *anti*-rasyonal, "panggitnang k
 
 "Panggitnang katotohanan" ay laging nasa anyo ng katotohanan, na sinusundan ng kasinungalingan. "Zeus ay isang paganong pamahiin" ay isang totoong pahayag, na kung saan ay hayagang gawa ni Christian proselytisers. Ang kasunod na kasinungalingan ay: Si Yahweh ay hindi isang pamahiin, ngunit isang totoo at buhay na Diyos."
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+Kaya natin itong gawaing mas personal ng kaunti na may halimbawa na magiging pamilyar sa sinumang nakapagpayo na sa isang di-maayos na kaibigan. "Ang aking huling kasintahan ay isang sira ulo," ang sasabihin niya, at ikaw ay taimtim na sasang-ayon. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
 
 It is very hard not to replace one illusion with another.
 
