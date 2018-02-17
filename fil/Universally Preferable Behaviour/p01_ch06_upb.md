@@ -33,7 +33,7 @@ Ang makatwirang moral na teorya ay dapat na maipaliwanag kung bakit ito ang kaso
 
 Kung nagmamadali ka sa akin ng isang kutsilyo na itinaas, ang ilang mga tao ay magkikipagtalo sa aking karapatang ipagtanggol ang aking sarili. Kung ang pagbaril sa iyo ay ang tanging paraan na makatwiran kong masiguro ang aking kaligtasan, sa pangkalahatan ay ituturing na isang kahina-hinalang pangangailangan.
 
-### Requirements For Ethics
+### Mga Kinakailangan Para sa Etika
 
 Certain preconditions must exist, or be accepted, in order for ethical judgements or theories to have any validity or applicability. Clearly, choice and personal responsibility must both be accepted as axioms. If a rock comes bouncing down a hill and crashes into your car, we do not hold the rock morally responsible, since it has no consciousness, cannot choose, and therefore cannot possess personal responsibility. If the rock dislodged simply as a result of time and geology, then no one is responsible for the resulting harm to your car. If, however, you saw me push the rock out of its position, you would not blame the rock, but rather me. To add a further complication, if it turns out that I dislodged the rock because another man forced me to at gunpoint, you would be far more likely to blame the gun-toting initiator of the situation rather than me.
 
