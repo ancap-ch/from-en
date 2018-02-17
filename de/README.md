@@ -13,41 +13,41 @@ Last generated:
 
 | file name | translated | reviewed | words | translators | arbitrary | arbitrary |
 | - | - | - | - | - | - | - |
-| 01_pref2nd_ed.md | :x: | :x: |    210 | | | |
-| 02_pref1st_ed.md | :x: | :x: |    400 | | | |
-| 03_p01.md | :x: | :x: |    001 | | | |
-| 03_p01_ch01_01.md | :x: | :x: | 4k 150 | | | |
-| 03_p01_ch01_02.md | :x: | :x: | 4k 650 | | | |
-| 03_p01_ch01_03.md | :x: | :x: | 3k 280 | | | |
-| 03_p01_ch02_01.md | :x: | :x: | 3k 510 | | | |
-| 03_p01_ch02_02.md | :x: | :x: | 2k 590 | | | |
-| 03_p01_ch02_03.md | :x: | :x: | 3k 440 | | | |
-| 03_p01_ch02_04.md | :x: | :x: | 3k 510 | | | |
-| 03_p01_ch02_05.md | :x: | :x: | 3k 280 | | | |
-| 03_p01_ch03_01.md | :x: | :x: | 2k 370 | | | |
-| 03_p01_ch03_02.md | :x: | :x: | 2k 580 | | | |
-| 03_p01_ch03_03.md | :x: | :x: | 2k 820 | | | |
-| 03_p01_ch03_04.md | :x: | :x: | 3k 550 | | | |
-| 03_p01_ch03_05.md | :x: | :x: | 3k 570 | | | |
-| 03_p01_ch04_01.md | :x: | :x: | 4k 300 | | | |
-| 03_p01_ch04_02.md | :x: | :x: | 4k 000 | | | |
-| 03_p01_ch05_01.md | :x: | :x: | 2k 400 | | | |
-| 03_p01_ch05_02.md | :x: | :x: | 3k 470 | | | |
-| 03_p01_ch05_03.md | :x: | :x: | 3k 920 | | | |
-| 03_p01_ch05_04.md | :x: | :x: | 2k 930 | | | |
-| 03_p01_ch06_01.md | :x: | :x: | 2k 940 | | | |
-| 03_p01_ch06_02.md | :x: | :x: | 4k 530 | | | |
-| 03_p01_ch06_03.md | :x: | :x: | 3k 860 | | | |
-| 03_p01_ch07_01.md | :x: | :x: | 2k 830 | | | |
-| 03_p01_ch07_02.md | :x: | :x: | 3k 260 | | | |
-| 03_p01_ch07_03.md | :x: | :x: | 2k 950 | | | |
-| 03_p01_ch07_04.md | :x: | :x: | 2k 660 | | | |
-| 03_p01_ch07_05.md | :x: | :x: | 3k 620 | | | |
-| 03_p01_ch07_06.md | :x: | :x: | 3k 600 | | | |
-| 03_p01_ch08.md | :x: | :x: | 2k 430 | | | |
+| 01_pref2nd_ed.md | :o: | :x: |    210 | jmotip | | |
+| 02_pref1st_ed.md | :o: | :x: |    400 | jmotip | | |
+| 03_p01.md | :o: | :x: |    001 | jmotip | | |
+| 03_p01_ch01_01.md | :o: | :x: | 4k 150 | jmotip | | |
+| 03_p01_ch01_02.md | :o: | :x: | 4k 650 | jmotip | | |
+| 03_p01_ch01_03.md | :o: | :x: | 3k 280 | jmotip | | |
+| 03_p01_ch02_01.md | :o: | :x: | 3k 510 | jmotip | | |
+| 03_p01_ch02_02.md | :o: | :x: | 2k 590 | jmotip | | |
+| 03_p01_ch02_03.md | :o: | :x: | 3k 440 | jmotip | | |
+| 03_p01_ch02_04.md | :o: | :x: | 3k 510 | jmotip | | |
+| 03_p01_ch02_05.md | :o: | :x: | 3k 280 | jmotip | | |
+| 03_p01_ch03_01.md | :o: | :x: | 2k 370 | jmotip | | |
+| 03_p01_ch03_02.md | :o: | :x: | 2k 580 | jmotip | | |
+| 03_p01_ch03_03.md | :o: | :x: | 2k 820 | jmotip | | |
+| 03_p01_ch03_04.md | :o: | :x: | 3k 550 | jmotip | | |
+| 03_p01_ch03_05.md | :o: | :x: | 3k 570 | jmotip | | |
+| 03_p01_ch04_01.md | :o: | :x: | 4k 300 | jmotip | | |
+| 03_p01_ch04_02.md | :o: | :x: | 4k 000 | jmotip | | |
+| 03_p01_ch05_01.md | :o: | :x: | 2k 400 | jmotip | | |
+| 03_p01_ch05_02.md | :o: | :x: | 3k 470 | jmotip | | |
+| 03_p01_ch05_03.md | :o: | :x: | 3k 920 | jmotip | | |
+| 03_p01_ch05_04.md | :o: | :x: | 2k 930 | jmotip | | |
+| 03_p01_ch06_01.md | :o: | :x: | 2k 940 | jmotip | | |
+| 03_p01_ch06_02.md | :o: | :x: | 4k 530 | jmotip | | |
+| 03_p01_ch06_03.md | :o: | :x: | 3k 860 | jmotip | | |
+| 03_p01_ch07_01.md | :o: | :x: | 2k 830 | jmotip | | |
+| 03_p01_ch07_02.md | :o: | :x: | 3k 260 | jmotip | | |
+| 03_p01_ch07_03.md | :o: | :x: | 2k 950 | jmotip | | |
+| 03_p01_ch07_04.md | :o: | :x: | 2k 660 | jmotip | | |
+| 03_p01_ch07_05.md | :o: | :x: | 3k 620 | jmotip | | |
+| 03_p01_ch07_06.md | :o: | :x: | 3k 600 | jmotip | | |
+| 03_p01_ch08.md | :o: | :x: | 2k 430 | | | |
 | < more files to be added > | | | 0  000 | | | |
-| 03_p02.md | :x: | :x: |    001 | | | |
-| 03_p02_ch13.md | :x: | :x: | 2k 560 | | | |
+| 03_p02.md | :o: | :x: |    001 | | | |
+| 03_p02_ch13.md | :o: | :x: | 2k 560 | | | |
 | < more files to be added > | | | 0  000 | | | |
 
 </details>
