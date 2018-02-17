@@ -100,17 +100,17 @@
  
 如果为了拯救士兵的美德，我改变了我的理论，认为如果别人告诉他们（一个政治领袖），杀人是合乎道德的，那么我必须处理普遍性的问题。如果政客A可以命令一名士兵杀害一名伊拉克人，那么伊拉克人也必须能够命令这名士兵杀害政客A，而士兵也可以命令政客谋杀伊拉克。这个理论的结果在一般的、不道德的麻痹中的应用，并被证明是无效的。
 
-I also cannot logically argue that is wrong for *some* people to murder, but right for *other* people to murder. Since all human beings share common physical properties and requirements, proposing one rule for one person and the *opposite* rule for another is invalid – it is like proposing a physics theory that says that some rocks fall down, while others fall up. Not only is it illogical, it contradicts an observable fact of reality, which is that human beings as a species share common characteristics, and so cannot be subjected to opposing rules. Biologists have no problems classifying certain organisms as “human” because they share common and easily identifiable characteristics – it is only moralists who seem to find this level of consistency impossible.
+我也不能从逻辑地说，有些人杀人是不对的，但对其他人杀人是正确的。因为所有的人都有共同的物理属性和要求，所以提出一个人提出一条规则和另一个人的相反规则是无效的。它不仅不合逻辑，而且违背了可观察到的现实事实，即人类作为一个物种具有共同的特征，因此不能受到相反的规则。生物学家没有问题分类某些生物为“人”, 因为他们共同的和易于识别的特征 – 只有道德家似乎找到了这种程度的一致性是不可能的。
 
-Furthermore, if my moral theory “proves” that the same man should not murder one day, but *should* murder the next day (say, when he steps out into the Iraqi desert), then my position is even more ludicrous. That would be equivalent to arguing that *one day a rock falls downward, and the next day it falls upward!* To call this any kind of consistent theory is to make madness sanity.
+此外，如果我的道德理论“证明”同一个人不应该谋杀某一天，而应该在第二天谋杀（比如说，当他步入伊拉克沙漠时），那么我的立场就更可笑了。这就等于说有一天岩石会往下掉，第二天它就会向上倾斜! 称之为任何一致的理论都使疯狂变得理智。
 
-Since valid theories require *logical consistency*, a moral theory cannot be valid if it is both true and false at the same time. A moral theory that approves of stealing, for instance, faces an insurmountable logical problem. No moral theory should, if it is universally applied, directly eliminate behaviour it defines as moral while simultaneously creating behaviour it defines as *immoral*. If everyone *should* steal, then no one *will* steal – which means that the moral theory can never be practised. And *why* will no one steal? Well, because a man will only steal if he can *keep* the property he is stealing. He’s not going to bother stealing a wallet if someone else is going to immediately steal that wallet from him. Any moral theory proposing that “stealing is good” is also automatically invalid because it posits that property rights are both valid and invalid *at the same time*, and so fails the test of logical consistency. If I steal from you, I am saying that *your* property rights are invalid. However, I want to *keep* what I am stealing – and therefore I am saying that *my* property rights are valid. However, property rights cannot be both valid and invalid at the same time, and so this proposition itself must be invalid.
+既然有效的理论需要逻辑一致性，那么如果一个道德理论同时是真的和假的，那么它就不能成立。例如，一个赞成偷窃的道德理论面临着一个不可逾越的逻辑问题。道德理论如果被普遍应用，就不应该直接消除它被定义为道德的行为，同时创造它被定义为不道德的行为。如果每个人都应该偷窃，那么就没有人会偷窃 - 这意味着道德理论永远不会被实行。而为什么没有人偷? 好吧，因为一个人只有偷了他偷来的财产，才会偷东西。如果有人要从他那偷钱包的话，他就不会去偷钱包了。任何提出“偷窃是好的”的道德理论也是自动无效的，因为它假定产权同时是有效的和无效的，并且因此不能对逻辑一致性进行检验。如果我偷你的东西，我是说你的产权是无效的。然而，我想保留我偷的东西，因此我说我的财产权是有效的。然而，产权不能同时有效和无效，因此这个命题本身必须是无效。
 
-Similarly, any moral theory that advocates rape faces a similar contradiction. Rape can *never* be moral, since any principle that approves it automatically contradicts itself. If rape is justified on the principle that “taking pleasure is always good,” then such a principle immediately fails the test of logical consistency, since the rapist may be “taking pleasure,” but his victim certainly is *not*.[^7]
+同样，任何主张强奸的道德理论也面临类似的矛盾。强奸永远是不道德的，因为任何批准它的原则都会自动自相矛盾。如果强奸是合理的原则，以“快乐总是好的，，那么这样的原则立即无法通过逻辑一致性的检验，因为强奸犯可能会“乐于助人”，但他的受害者当然不是。[^7]
 
-Thus subjecting moral theories to the scientific method produces results that conform to rationality, empirical observations and plain common sense. Murder, theft, arson, rape and assault are all proven immoral.[^8]
+同样，任何主张强奸的道德理论也面临类似的矛盾。强奸永远是不道德的，因为任何批准它的原则都会自动自相矛盾。如果强奸是合理的原则，以“快乐总是好的，，那么这样的原则立即无法通过逻辑一致性的检验，因为强奸犯可能会“乐于助人”，但他的受害者当然不是。[^7]
 
-To aid in swallowing this rather large conceptual pill, below is a table that helps equate theories of physics and biology with scientific theories of universally preferable (or moral) behaviour:
+为了帮助吞咽这个相当大的概念药丸，下面是一个表，有助于等同物理学和生物学的理论与普遍的可取（或道德）行为的科学理论：
 
 |                            | Physics                                                                                           | Biology                                                                                      | Morality                                                                                                                      |
 |:-------------------------- |:------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------- |
@@ -124,20 +124,32 @@ To aid in swallowing this rather large conceptual pill, below is a table that he
 | **Proof**                  | Logical consistency, empirical verification                                                       | Logical consistency, empirical verification                                                  | Logical consistency, empirical verification                                                                                   |
 | **Negative Proof Example** | If mass does not attract mass, theories relying on gravity are incorrect                          | If organisms do not naturally self-select for survival, the theory of evolution is incorrect | If communism succeeds relative to its stated goals, theories based on the universal validity of property rights are incorrect |
 
-Table: Theories of physics and biology and of UPB
+表：物理学和生物学的理论和UPB
 
-In conclusion, it is safe to say that (a) moral rules are valid, and (b) moral theories must be subjected to the rigours of logic and evidence, just as theories of physics and biology are. Any moral theory based on non-universal or self-contradictory principles is demonstrably false.
+总之，可以肯定地说，（a）道德规则是有效的，和（b）的道德理论必须经过严格的逻辑和证据，正如物理学和生物学理论。任何道德理论基于非通用或自相矛盾的原则是明显的错误。
 
-#### UPB: The Framework
+#### UPB：框架
 
-UPB can thus be seen as a framework for validating ethical theories or propositions – just as the scientific method is a framework that is used to validate scientific theories or propositions.
+UPB因此可以被看作是一个验证的道德理论或命题 – 正如科学方法是一种用来验证科学的理论或命题框架一样。
 
-An example of a moral proposition is: “the initiation of the use of force is wrong.” UPB is the methodology that tests that proposition against both internal consistency and empirical observation. UPB thus first asks: *is the proposition logical and consistent?* UPB then asks: *what evidence exists for the truth of the proposition?*
+道德命题的一个例子是：“使用武力是错误的开始”。UPB是一种方法，测试命题对内部一致性和经验观察。因此，UPB首先问：命题是否合乎逻辑并一致？ UPB然后问：有什么证据支持这一命题的真理吗？
 
-To keep this book at a reasonable length, we will in general deal mostly with the first criterion of logical consistency. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+为了保持这本书合理的篇幅，我们通常主要处理逻辑一致性的第一个标准。对于第二个标准，我们将依赖证据，证明在所有文化中普遍禁止某些行为，如强奸、盗窃、殴打和谋杀。更多的东西可以写在有助于支持或拒绝各种道德主张的历史证据上，但我们将在另一个时间里考虑这个问题。如果我们确定UPB的有效性，我们已经取得了巨大的数量。如果我们不这样做，证据几乎无法帮助我们。
 
-Let us now turn to the question of whether the UPB framework deals with matters of *ethics*, or *aesthetics*, or both.
+现在让我们转向是否UPB框架涉及的道德问题，或者两者兼顾的问题。
 
-[^7]: The same goes, of course, for murder and assault. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
+[^7]：当然，谋杀和袭击也是如此。我们将在本书第二部分中更详细地回顾这些证据 - 以及对财产权的进一步检验。
 
-[^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
+[^8]：普遍和积极的道德规则也可以被证明 - 即产权和非暴力的普遍有效性 - 但我们将在第二部分讨论这一点。
+
+| |物理|生物学|道德| 
+|：------------- |：----------------- |：-------------- ---- |：----------------------- | 
+| **主题** |物质|有机物|人类的优良行为| 
+| **实例** |岩石|马|男人| 
+| **示例规则** |重力|生存欲望|自主所有权| 
+| **样本理论** |熵|演变|产权| 
+| **样品分类** |物质/能量|重复/哺乳动物|好/邪恶| 
+| **例子** |物质不能被创造或破坏，只能转化为能量并返回|如果它是活着的和温血的，它是一种哺乳动物|偷窃是错误的| 
+|**假设**|原子具有共同的结构和性质，并且以可预测的和一致的方式表现出来|有机物质具有在分类中常见的规则或要求|普遍适用的行为具有共同的规则和要求| 
+| **证明** |逻辑一致性，经验验证|逻辑一致性，经验验证|逻辑一致性，经验验证| 
+|**负面例证**|如果质量不吸引大众，依靠重力的理论是不正确的|如果生物不自然地选择生存，进化论是不正确的|如果共产主义相对于其既定目标成功，基于产权普遍有效性的理论是不正确的
