@@ -68,8 +68,8 @@ Outside egalitarian phantasy lands, however, in the real world, libertarians mus
 They are:
 
 1. The ruling elites in control of the State apparatus and in particular the “Deep State” or the so-called “Cathedral” of the military, the secret services, the central banks and the supreme courts. As well, they include: 
-    1. The leaders of the military-industrial complex, i.e., of nominally private firms that owe their very existence to the State as the exclusive or dominant buyer of their products;
-    2. The leaders of the big commercial banks, which owe their privilege of creating money and credit out of thin air to the existence of the central bank and its role as a “lender of last resort”. They together, then, State, Big-Business and Big-Banking, form an extremely powerful even if tiny “mutual admiration society,” jointly ripping off the huge mass of tax-payers and living it up big time at their expense.
+~~~~1. The leaders of the military-industrial complex, i.e., of nominally private firms that owe their very existence to the State as the exclusive or dominant buyer of their products;
+~~~~2. The leaders of the big commercial banks, which owe their privilege of creating money and credit out of thin air to the existence of the central bank and its role as a “lender of last resort”. They together, then, State, Big-Business and Big-Banking, form an extremely powerful even if tiny “mutual admiration society,” jointly ripping off the huge mass of tax-payers and living it up big time at their expense.
 2. ([A] much larger group of enemies is made up of) the intellectuals, educators and “educrats,” from the highest levels of academia down to the level of elementary schools and kindergartens. Funded almost exclusively, whether directly or indirectly, by the State, they, in their overwhelming majority, have become the soft tools and willing executioners in the hands of the ruling elite and its designs for absolute power and total control.
 3. The journalists of the MSM, as the docile products of the system of “public education,” and the craven recipients and popularizers of government “information.”
 

@@ -78,78 +78,78 @@ Dahil ang mga APA ay hindi maipapatupad sa pamamagitan ng karahasan - hindi mo m
 
 Kaya ang panggagahasa ay hindi maaaring mahulog sa kategorya ng APAs.
 
-### Personally Positive
+### Ang Positibong Personalidad
 
-Perhaps rape is akin to a merely personal preference.[^2]
+Marahil ang panggagahasa ay katulad ng isang personal na kagustuhan.[^2]
 
-The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
+Ang tanong ay pagkatapos ay lumitaw: ang pag-uuri ng panggagahasa bilang isang personal na kagustuhan ay nakasalalay sa lohikal na pagsisiyasat?
 
-If we propose the moral rule: “personal preferences must be violently inflicted upon other people,” how does that stand up to the framework of UPB?[^3]
+Kung ipanukala natin ang moral na tuntunin: "ang mga personal na kagustuhan ay dapat na labagin sa iba pang mga tao," paano ito nakasalalay sa balangkas ng UPB?[^3]
 
-Personal preferences cannot be justly inflicted upon other people, because that would create an insurmountable logical paradox.
+Ang mga personal na kagustuhan ay hindi makatarungan na mapahamak sa ibang mga tao, sapagkat ito ay lilikha ng isang hindi malulutas na lohikal na kabalintunaan.
 
-If I say that liking the band Queen above all others is universally preferable behaviour, on what grounds could I justify that statement? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
+Kung sinasabi ko na gustung-gusto ang band Queen kaysa sa lahat ng iba pa ay mas maganda ang pag-uugali ng unibersal, sa anong mga dahilan ay maari kong bigyang-katwiran ang pahayag na iyon? Sa pamamagitan lamang ng pagsasabi na ang lahat ng mga personal na kagustuhan ay dapat na mapahamak sa ibang tao. Gayunpaman, kung ang aking mga personal na kagustuhan ay maaaring mapahamak sa iyo sa kalooban, pagkatapos ay sa pamamagitan ng napaka kahulugan ng UPB, ang iyong mga personal na kagustuhan ay maaari ring mapahamak sa *akin* sa kalooban. Kaya hindi namin maaaring maging parehong moral sa parehong oras, dahil na nangangailangan ng parehong namin ang aming sariling mga banda habang sabay na surrendering na kagustuhan sa ginustong band ng bawat isa. Sa madaling salita, dapat kong sabay na isipin na ang Queen ay ang pinakamahusay na banda, at ang The Police ay ang pinakamahusay na banda. Ito ay isang lohikal na imposibilidad, na isang sentrong dahilan kung bakit hindi maaaring ipatupad ang lahat ng mga personal na kagustuhan.
 
-Thus if rape is considered to be a merely personal preference, then it cannot logically be enforced upon anybody else. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
+Kaya kung ang panggagahasa ay itinuturing na isang personal na kagustuhan lamang, kung gayon ay hindi ito lohikal na maipapatupad sa sinumang iba pa. Muli, iniisip ang dalawang lalaki sa isang silid, ito ay nangangailangan na ang parehong mga lalaki ay ginusto na panggagahasa sa isa't isa, ngunit nananatiling lubos na hindi ipatupad ang desisyong iyon, na hindi lamang hindi makatwiran, kundi pati na rin sa kabutihang-palad ay lubos na hindi praktikal.
 
-Finally, since personal preferences cannot be enforced on others, but rape is by definition the enforcement of a “preference” upon another, rape cannot be in the moral category of merely personal preferences.
+Sa wakas, dahil ang mga personal na kagustuhan ay hindi maaaring ipatupad sa iba, ngunit ang panggagahasa ay sa pamamagitan ng kahulugan ng pagpapatupad ng isang "kagustuhan" sa iba, ang panggagahasa ay hindi maaaring sa moral na kategorya ng mga personal na kagustuhan lamang.
 
-### Morally Neutral
+### Ang Niyutral na Moralidad
 
-As discussed above, rape cannot be a morally neutral action, since it is a preference that is enforced upon another.
+Tulad ng tinalakay sa itaas, ang panggagahasa ay hindi maaaring maging niyutral na pagkilos, dahil ito ay isang kagustuhan na ipinapatupad sa isa pa.
 
-### Personally Negative
+### Ang Negatibong Personalidad
 
-Perhaps rape is a *personally negative* action, the opposite of number three. As an example, a criminal on the run would consider capture a personally negative action (PNA).
+Marahil ang panggagahasa ay isang *personal na negatibong* aksyon, ang kabaligtaran ng numero ng tatlo. Bilang isang halimbawa, ang isang kriminal na tumakbo ay isaalang-alang ang pagkuha ng isang personal na negatibong pagkilos (PNA).
 
-Personally negative actions (PNAs) by definition cannot be enforced upon another. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
+Ang mga personal na negatibong pagkilos (PNAs) sa pamamagitan ng kahulugan ay hindi maaaring ipatupad sa isa pa. Kung kaya't ang isang lalaking ginahasa ay mali upang "pahirapan" ang kanyang kagustuhan para sa *hindi pagiging raped* sa kanyang rapist, sa anyo ng pagtatanggol sa sarili. Sa ganitong paraan, ang pagsisimula ng karahasan - ang pagpapatupad ng isang personal na kagustuhan - ay *moral*, habang ang pagtatanggol sa sarili - din ang pagpapatupad ng isang personal na kagustuhan - ay imoral. Kung gayon ay magkakaroon kami ng parehong pagkilos (ang pagpapatupad ng isang personal na kagustuhan) na naiuri bilang parehong moral at imoral, na hindi maaaring tumayo.
 
-### Aesthetically Negative
+### Ang Negatibong Aesthetical
 
-Perhaps rape is an aesthetically *negative* action, like “being late” – the flip-side of number two above. However, aesthetically negative actions (ANAs) cannot logically be violently enforced *because by definition they can be avoided*. Since I can freely choose to stop associating with a man who continually shows up late, I cannot shoot him for being late.
+Marahil ang panggagahasa ay isang aesthetically *negatibong* aksyon, tulad ng "pagiging late" - ang pitik-gilid ng numero ng dalawang sa itaas. Gayunpaman, ang mga aesthetically negatibong pagkilos (ANAs) ay hindi lohikal na maaaring ipatupad ng marahas *dahil sa kahulugan maaari silang iwasan*. Dahil maaari kong malayang pumili upang ihinto ang pakikipag-ugnay sa isang tao na patuloy na nagpapakita ng huli, hindi ko maaaring shoot sa kanya para sa pagiging late.
 
-However, rape by definition cannot be avoided, since it is a sexual attack enforced through violence.[^4] Also, if I choose to stop being friends with the tardy man mentioned above, he cannot justly force me to be his friend by threatening me with violence, since that would rely on the principle that merely personal preferences can be enforced on others, which would run fruitlessly up against my ability to enforce *my* desire to drop his friendship. This kind of “Tarantino morality” always ends up with everyone in a state of mute paralysis, pointing guns at each other’s faces like frozen statues.
+Gayunpaman, ang panggagahasa sa pamamagitan ng kahulugan ay hindi maaaring iwasan, dahil ito ay isang sekswal na pag-atake na ipinatupad sa pamamagitan ng karahasan. [^ 4] Gayundin, kung pipiliin kong itigil ang pakikipagkaibigan sa taong may kapansanan na nabanggit sa itaas, hindi niya maaring pilitin ako na maging kaibigan niya sa pamamagitan ng pagbabanta ako ay may karahasan, dahil ito ay umaasa sa prinsipyo na ang mga personal na kagustuhan ay maaaring ipatupad sa iba, na magpapatakbo nang walang bunga laban sa aking kakayahang ipatupad ang aking * pagnanais na ihulog ang kanyang pagkakaibigan. Ang ganitong uri ng "Tarantino moralidad" ay laging nagtatapos sa lahat sa isang estado ng mute paralisis, pagturo ng mga baril sa mga mukha ng bawat isa tulad ng nag-yeyelong rebulto.
 
-As we have already established, any universally preferable behaviour must be universal to all people in all places at all times – if ANAs allow for violent enforceability (i.e. I can shoot you for being late) – then if rape is defined as an ANA which can be enforced, then the rape victim who finds rape an aesthetically negative action has the right to shoot his rapist, which effectively affirms the principle of self-defence, but at the expense of also allowing gun play in the opposition of, say, rudeness.
+Tulad ng naitatag na natin, ang anumang mas mahusay na pag-uugali sa buong mundo ay dapat na unibersal sa lahat ng tao sa lahat ng lugar sa lahat ng oras - kung pinahihintulutan ng ANA ang marahas na pagpapatupad (ibig sabihin, maaari kitang kukunan para sa pagiging huli) - kung ang panggagahasa ay tinukoy bilang isang ANA na maaaring Ipinapatupad, pagkatapos ay ang biktima ng panggagahasa na may panggagahasa sa isang aesthetically negatibong aksyon ay may karapatan na i-shoot ang kanyang rapist, na epektibong pinatutunayan ang prinsipyo ng pagtatanggol sa sarili, ngunit sa kapinsalaan ng na nagpapahintulot din ng baril sa pagsalungat ng, sabihin, kawalang-galang.
 
-Thus rape cannot be an ANA.
+Kaya ang panggagahasa ay hindi isang ANA.
 
-Which leaves only…
+Aling mga dahon lamang…
 
-### Evil
+### Ang Masama
 
-If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil,” passes the “coma test,” insofar as it is impossible for a man in a coma to rape someone.
+Kung ang panggagahasa ay tinukoy bilang kasamaan, dapat itong kasangkot ang *pagsisimula* ng paggamit ng puwersa, na malinaw na ginagawa nito. Gayundin, ang panukala: "ang panggagahasa ay masama," ay pumasa sa "pagsusulit na koma," kung kaya imposible para sa isang tao na magkagulo sa panggagahasa.
 
-In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
+Bilang karagdagan, kung ang panggagahasa ay masama, kung gayon *hindi* raping ay dapat na mabuti - sa ganitong paraan, dalawang lalaki sa isang silid ay maaaring maging parehong moral sa parehong oras, sa pamamagitan lamang ng hindi pag-rap sa bawat isa.
 
-Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
+Dahil ang pagkaligtas ay isa sa mga pangunahing pagkakaiba sa pagitan ng "hindi kasiya-siya" at "imoral," at panggagahasa ay malinaw na isang hindi maiiwasang pag-uugali, ang kahulugan ng "panggagahasa bilang kasamaan" ay sumusunod din sa pagkakaiba.
 
-Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
+Gayundin, dahil may mga pagkakataon na imposible ang pisikal na panggagahasa sa isang tao - halimbawa, kapag ang isang pagtayo ay hindi maabot - ang kahulugan ng "panggagahasa bilang kasamaan" ay malulutas sa problema ng mga tao na walang kinalaman na imoral, na sa impormasyong imposible, dahil sa ang criterion ng pagiwas.
 
-The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+Maaaring bigyang-katwiran ng rapist ang kanyang mga aksyon sa pamamagitan ng pag-iwas sa panukala na "panggagahasa ay mabuti," at sa halip ay pagpapalit ng isa pang panukala na sumusuporta sa kanyang pagnanais na panggagahasa, tulad ng: "Moral na gumawa ng sariling kasiyahan, anuman ang kawalang-kasiyahan ng iba."
 
-This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+Ang panukalang ito ay nabigo rin sa pinakasimpleng lohikal na pagsubok ng UPB. Kung naniniwala si Bob na dapat niyang gawin ang kanyang sariling kasiyahan sa pamamagitan ng pagyurak kay Doug - anuman ang kawalang-kasiyahan ni Doug - pagkatapos ay hindi maituturo ni Bob ang rasyon ng kanyang kagustuhan sa isang UPB.
 
-If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
+Kung ang lahat ay dapat gumawa ng kanilang sariling kasiyahan anuman ang kasiyahan ng kanilang biktima, *hindi* na karapatan ni Bob na mag-rape kay Doug, bagaman kahit na pinipili ni Bob ang panggagahasa ni Doug, tiyak na mas gusto ni Doug na ma-raped. Kung ang lahat ay dapat gumawa ng kanilang kasiyahan anuman ang pagkasuklam ng iba, pagkatapos ay walang makatwirang dahilan kung bakit ang kagustuhan ni Bob sa panggagahasa na si Doug ay dapat manguna sa kagustuhan ni Doug upang hindi ma-raped, anuman ang hindi pagkagusto na ayaw na raped ay magiging sanhi ni Bob.
 
-Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
+Kaya masasabi ni Doug kay Bob: "Mabuti sa akin ang panggagahasa sa iyo, sapagkat ang mga personal na kagustuhan ay maaaring ipataw ng marahas." Si Bob, siyempre, ay maaaring tumugon: "Pagkatapos ay may magandang moralidad sa akin na marahas na labanan ang iyong pag-atake, dahil ang aking personal na kagustuhan na hindi ma-raped ay maaari ring labagin na ipatupad. "
 
-Of course, few rapists are philosophers, but as we mentioned above, the primary danger to human beings is not the individual criminal, but irrational and exploitive moral theories. For instance, incarceration is inevitably justified through an appeal to a moral theory – and incarceration causes far more people to be raped than private criminals could ever dream of. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
+Siyempre, ang ilang mga rapist ay mga pilosopo, ngunit tulad ng nabanggit natin sa itaas, ang pangunahing panganib sa mga tao ay hindi ang indibidwal na kriminal, ngunit hindi makatwiran at mapagsamantalang moral na mga teorya. Halimbawa, ang pagkabilanggo ay hindi dapat na mabigyang-katwiran sa pamamagitan ng isang apela sa isang moral na teorya - at ang pagkabilanggo ay nagiging sanhi ng mas maraming mga tao na ma-gahasa kaysa sa mga pribadong kriminal na maaaring managinip. Kung ang moral na teorya na nagpapawalang-bisa sa pagkabilanggo ay hindi tama, pagkatapos *pagwawasto* ang moral na teorya na ito ay dapat na ang pinakamataas na pag-aalala ng sinuman na nagnanais na bawasan ang pagkalat ng panggagahasa.
 
-Thus it would seem that the only logical possibility for rape is that *not* raping is universally preferable behaviour – or that rape is universally banned behaviour.
+Kaya ito ay tila na ang tanging lohikal na posibilidad para sa panggagahasa ay na *hindi* raping ay higit na mas mainam na pag-uugali - o ang panggagahasa ay pinagbawalan sa buong mundo.
 
 ### Whew!
 
-The fact that the UPB framework has logically and effectively validated the moral proposition that rape is evil – not “good,” or “aesthetically preferable,” or “personally preferable,” or “morally neutral” – is a very good sign. It does not prove beyond a shadow of a doubt that UPB will logically validate all “common sense” moral propositions, but the first hurdle has been passed, and that should give us great cause for celebration. If I were a physicist proposing a Unified Field Theory, and the application of my theory correctly predicted where a thrown baseball would land, I could justly be enormously pleased.
+Ang katotohanan na ang balangkas ng UPB ay lohikal at epektibong nagpapatunay sa moral na panukala na ang panggagahasa ay masama - hindi "mabuti," o "aesthetically preferable," o "personal preferable," o "neutral sa moral" - ay isang napakahusay na tanda. Ito ay hindi patunayan na lampas sa isang pag-aalinlangan na ang UPB ay lohikal na mapatunayan ang lahat ng "paniniwala" na moral na panukala, ngunit ang unang pagtagumpayan ay naipasa, at ito ay dapat magbigay sa amin ng malaking dahilan para sa pagdiriwang. Kung ako ay isang pisisista na nagpanukala ng isang Pinag-isang Field na Teorya, at ang pag-aplay ng aking teorya ay tama ang hinulaan kung saan ang isang itinapon na baseball ay makarating, maari kong maging lubusang nalulugod.
 
-Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
+Ang teorya ng relativity ni Einstein ay hinulaan na ang liwanag ay liko sa paligid ng isang gravity na rin - kapag ito ay unang nakumpirma, hindi ito patunayan ang kanyang teorya na lampas sa isang anino ng isang pag-aalinlangan, ngunit ito ay patunayan na ang teorya *ay maaaring* totoo, na kung saan ay isang mahusay na lumukso pasulong. Ang unang pagpapatunay ay palaging ang pinakamahirap, sapagkat ito ay napakadali upang makakuha ng mga bagay na mali, at ang error ay palaging mas matindi ang katumpakan.
 
-The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+Ang balangkas ng UPB ay wastong nagpatunay sa aming moral na saligan na ang panggagahasa ay masama. Ito ay isang kinakailangan - ngunit hindi sapat - criterion para sa patunay, at ganap na sumusuporta sa karagdagang pagsisiyasat. Kaya, ipagpatuloy natin...
 
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
+[^ 1]: Ito ay ibang-iba sa isang pisikal na pananakit, na sumisira sa iyong kapasidad para sa libreng pagpili.
 
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
+[^ 2]: Hindi maaaring argued na ang panggagahasa ay hindi kasangkot sa isang kagustuhan, dahil ang panggagahasa ay isang pag-uugali at, tulad ng aming tinalakay sa itaas, ang lahat ng pag-uugali ay kinabibilangan ng kagustuhan.
 
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
+[^ 3]: Tandaan na hindi ko maaaring imungkahi na ang "personal na mga kagustuhan *ay pweding* marahas na napinsala sa ibang mga tao, dahil ito ay isang paglabag sa UPB, na nagsasaad na ang mga alituntunin ng moral ay dapat na ganap at unibersal - kung hindi sila, mahulog sila sa teritoryo ng APA, at sa gayon ay hindi maaring mapahamak sa iba.
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^ 4]: Maaari nating maiwasan ang mga sitwasyon na nagpapataas ng posibilidad ng panggagahasa, ngunit hindi natin maiiwasan ang pag-usbong.
