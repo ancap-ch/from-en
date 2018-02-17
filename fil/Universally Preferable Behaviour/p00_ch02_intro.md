@@ -32,9 +32,9 @@ Ang ating paniniwala sa kabutihan ng militar ay nakabatay din sa "sona ng kawala
 
 Kung itong "sona ng kawalan" ay balido, wala nang lohikal na proposistion ang panghahawakan. Kung ang isang proposisyon ay totoo - at ang eksaktong kabaligtaran ng proposisyong ito ay totoo rin - ang lohikal na pangangatwiran ay magiging imposible. Kung ang paglago ng makatwirang siyensya ang patuloy na aatake sa "sona ng kawalan," at ang pagpasok ng pare-parehong layunin sa mga maliit na bulsa ng suhetibong kadalasan.
 
-In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
+Sa mga lumang mapa, bago matapos ng mga kartograper ang kanilang mga eksplorasyon, ang mga guhit ng mga kilalang lupain ay kumukupas sa blankong papel. Ang paglago ng kaalaman ay nangangailangan muna ng pagguhit ng kung ano ang hindi pa natuklasan, at pagkatapos ay ang paglawak ng kilalang prinsipyo tungo sa hindi pa natutuklasang lugar.
 
-The same is true in the realm of morality.
+Ang katulad ay totoo sa lupain ng moralidad.
 
 ### The Casualties
 
