@@ -1,4 +1,4 @@
-## The Third Test: Theft
+## O Terceiro Teste: O Roubo
 
 We will have to spend a little bit more time on theft, since it inevitably brings into the picture the question of property rights, which is highly contentious for some.
 
