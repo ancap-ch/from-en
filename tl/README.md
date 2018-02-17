@@ -13,12 +13,12 @@ Last generated:
 
 | file name | translated | reviewed | words | translators | arbitrary | arbitrary |
 | - | - | - | - | - | - | - |
-| 01_pref2nd_ed.md | :x: | :x: |    210 | | | |
-| 02_pref1st_ed.md | :x: | :x: |    400 | | | |
-| 03_p01.md | :x: | :x: |    001 | | | |
-| 03_p01_ch01_01.md | :x: | :x: | 4k 150 | | | |
-| 03_p01_ch01_02.md | :x: | :x: | 4k 650 | | | |
-| 03_p01_ch01_03.md | :x: | :x: | 3k 280 | | | |
+| 01_pref2nd_ed.md | :o: | :: |    210 | | | |
+| 02_pref1st_ed.md | :o: | :x: |    400 | | | |
+| 03_p01.md | :o: | :x: |    001 | | | |
+| 03_p01_ch01_01.md | :o: | :x: | 4k 150 | | | |
+| 03_p01_ch01_02.md | :o: | :x: | 4k 650 | | | |
+| 03_p01_ch01_03.md | :o: | :x: | 3k 280 | | | |
 | 03_p01_ch02_01.md | :x: | :x: | 3k 510 | | | |
 | 03_p01_ch02_02.md | :x: | :x: | 2k 590 | | | |
 | 03_p01_ch02_03.md | :x: | :x: | 3k 440 | | | |
