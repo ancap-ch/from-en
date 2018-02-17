@@ -15,9 +15,9 @@ Ang etika ay ang subset ng UPB na may kinalaman sa ng *ipinahamak* pag-uugali, o
 
 Tingnan natin ang tatlong aksyon, upang matulungan kaming higit na makilala ang etika at estetika. Ang unang aksyon ay *hindi makatwiran*; ang pangalawa ay *pagsisinungaling*; ang pangatlo ay *pagpatay*.[^9]
 
-### Irrationality
+### Hindi makatwiran
 
-Let’s say that you and I are having a debate about the existence of God. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Sabihin nating mayroon kaming isang debate tungkol sa pagkakaroon ng diyos. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
 
 ### Lying
 
