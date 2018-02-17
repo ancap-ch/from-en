@@ -24,7 +24,7 @@ Digamos, então, que Bob adapta a sua premissa para dizer: "Posso matar um homem
 
 Uma vez que um homem continua a ser um homem, mesmo adormecido, neste estado, não se lhe podem aplicar as regras morais opostas. Assim, dizer que é imoral matar um homem quando está acordado, mas que é moral matá-lo quando está a dormir, é criar uma contradição lógica, não suportada por qualquer factor biológico objectivo. Um físico pode dizer que uma pedra cai e que um balão de hélio sobe - mas isso ocorre, porque a rocha e o balão de hélio possuem propriedades fundamentalmente diferentes. Nenhum físico credível pode dizer que uma pedra cai no chão, mas que outra pedra, com quase exactamente as mesmas qualidades cai para cima. O mesmo é válido para as teorias morais - nenhum filósofo credível pode dizer que a moral se inverte quando um homem está a dormir, uma vez que a natureza de um homem não se altera, fundamentalmente, quando dorme a sesta.
 
-Desta forma, se não podemos atirar num homem quando está acordado, também não podemos matá-lo quando está a dormir, já que ele continua a ser um homem.
+Desta forma, se não podemos atirar num homem que está acordado, também não podemos matá-lo quando está a dormir, já que ele continua a ser um homem.
 
 Assim, uma vez que a afirmação "Eu posso matar um homem adormecido, sempre que quiser" não pode ser validada de acordo com o CUP, não pode ser uma verdadeira proposição moral.
 
@@ -32,7 +32,7 @@ Mais uma vez, verificamos que a estrutura do CUP é verdadeira em termos de homi
 
 Poderíamos seguir o mesmo questionamento do caso da agressão, mas os argumentos seriam idênticos aos da violação e assassinato, por isso, por uma questão de prontidão, vamos continuar.
 
-Let us now turn to the question of theft. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
+Passemos agora à questão do roubo. Se essa estrutura também for verdadeira neste caso, então atingimos a trifecta perfeita da nossa compreensão moral instintiva e encontrámos a confirmação racional para as nossas crenças existenciais. Descobrimos as matemáticas que explicam como somos capazes de apanhar uma bola de forma instintiva e isso é um começo necessário.
 
 ### Self-Defence?
 
