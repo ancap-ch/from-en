@@ -52,11 +52,11 @@ Sa larangan ng siyensya, ito ay hindi sobrang hirap na makita ang mapang-aping p
 
 Ang simpleng katotohanan ay ang "mga pari" at "mga hari" ay - at - mga tao lamang. Ang simpleng katotohanan ay na ang Diyos at Demonyo na dapat ay pangatwiranan na ang kanilang paghahari ay hindi umiral.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+Tayo ay nakagawa ng malaking hakbang sa pag unawa na ang kalikasan at realidad ng simpleng pagkakapantay-pantay ng tao, ngunit ang malungkot na katotohanan na ang lupain ng *moralidad* ay nananatiling ligaw sa "sona ng kawalan" - sa mapanirang ilusyon ng mga "panggitnang katotohanan."
 
-### "Middle Truths"
+### "Panggitnang Katotohanan"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+Tawagin natin na ang alituntuning oposisyunal na naninirahan sa "sona ng kawalan" - sa pagitan ng pandamang pananaw at konseptwal na hindi nagbabago - ang mga "panggitnang katotohanan."
 
 These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
 
