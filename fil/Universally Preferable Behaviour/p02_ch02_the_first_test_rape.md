@@ -102,9 +102,9 @@ Gaya ng pagtatalakay sa itaas, ang panggagahasa ay hindi maaaring maging aksyon 
 
 Marahil ang panggagahasa ay isang *negatibong pansarili* kilos, ang kabaliktaran ng bilang tatlo. Isang halimbawa ay, ang isang kriminal sa kasalukuyan ay maituturing na makuha ang isang negatibong pansariling kilos (PNA).
 
-Ang Personal na negatibong askyon (PNAs) sa pamamagitan ng kahulugan ay hindi maaaring ipatupad sa iba. Sa gayon ang isang tao na nagahasa ay maaaring maginf mali sa "pagpapahirap" sa kanyang kagustuhan para sa *hindi panggagahasa* ng kanyang manggagahasa, sa lahat ng anyo ng pagtatanggol sa sarili. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
+Ang Personal na negatibong askyon (PNAs) sa pamamagitan ng kahulugan ay hindi maaaring ipatupad sa iba. Sa gayon ang isang tao na nagahasa ay maaaring maginf mali sa "pagpapahirap" sa kanyang kagustuhan para sa *hindi panggagahasa* ng kanyang manggagahasa, sa lahat ng anyo ng pagtatanggol sa sarili. Sa ganitong paraan, ang paninimula ng karahasan - ay ang pagpapatupad ng pansariling kagustuhan - ay isang *moral*, habang tinatanggol ang sarili - gaya ng pagpapatupad ng pansariling kagustuhan - ay imoral. Sa gayon magkakaroon tao ng parehong kilos (ang pagpapatupad ng pansariling kagustuhan) ay nauuri sa parehong moral at imoral, na kung saan ay hindi matatanggol.
 
-### Aesthetically Negative
+### Aesthetical na negatibo
 
 Perhaps rape is an aesthetically *negative* action, like “being late” – the flip-side of number two above. However, aesthetically negative actions (ANAs) cannot logically be violently enforced *because by definition they can be avoided*. Since I can freely choose to stop associating with a man who continually shows up late, I cannot shoot him for being late.
 
