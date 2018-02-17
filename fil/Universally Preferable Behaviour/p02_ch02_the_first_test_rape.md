@@ -38,7 +38,7 @@ Sa puntong ito, ang pagtutol ay medyo makatwiran na maaaring sabihin na kung ang
 
 Ang konsepto ng "pagiiwas" ay gumagana sa isang positibo katulad ng sa isang negatibo. Kung mawawala ko ang aking ari sa ilang malungkot na aksidente, ako ba ay may moral para sa pagpipigil sa panggagahasa? Ito ay mukhang mahirap na makipagtalo na kaya kong gawin, dahil kahit ang panggahasa sa ari ay imposible sa akin. Gayundin, maaari nating tawagan ang isang tao na "mapagbigay" kung siya ay kayang magbigay ng isang daang dolyar sa isang pulubi - gayunman, tayo ay walang dudang baguhin ang ating pagtatantiya kung ito ay lalabas na siya ay nagbigay ng kanyang pera habang naglalakad ng tulog, at lubos na pinagsisihan ang kanayng ginawa habang naglalakad.
 
-Kaya masaabi nating makatwiran na kung saan ang pagpipilian ay wala, o hindi naaangkop, ang moralidad ay ay wala din, o hindi naaangkop. Ang taong nasa isang kawalan ng malay, habang ang kanyang mga aksyon ay hindi itinuturing na masama, o maituturing nila na mabuti. Siya ay naandon sa estadong walang pagpipilian, katulad ng isang sanggol, o isang hayop - gayon siya ay magiging malayang makatwiran mula sa mga moral na patakaran, dahil mayroong itong isang pisikal na estado na talagang nagpapaiba sa kanya sa isang tao na kayang pumili, na kung saaan ay katanggap-tanggap sa ilalalim ng UPB.
+Kaya masasabi nating makatwiran na kung saan ang pagpipilian ay wala, o hindi naaangkop, ang moralidad ay ay wala din, o hindi naaangkop. Ang taong nasa isang kawalan ng malay, habang ang kanyang mga aksyon ay hindi itinuturing na masama, o maituturing nila na mabuti. Siya ay naandon sa estadong walang pagpipilian, katulad ng isang sanggol, o isang hayop - gayon siya ay magiging malayang makatwiran mula sa mga moral na patakaran, dahil mayroong itong isang pisikal na estado na talagang nagpapaiba sa kanya sa isang tao na kayang pumili, na kung saaan ay katanggap-tanggap sa ilalalim ng UPB.
 
 Sa nasasaisip, ipagpatuloy natin ang ating pagsusuri sa panggagahasa.
 
@@ -56,7 +56,7 @@ Gayon ay alam natin na ang panggagahasa ay hindi maaaring maging APA.
 
 Hindi natin makukumpirma ito sa pamamagitan ng pagsusuri ng mga dahilan kung bakit "ang laging nasa oras" *ay* isang APA.
 
-Una sa lahat, nang katutubong naiintindihan natin na ito ay higit sa pagtanggi sa isang kaibigan para sa palaging huli kaysa sa ito ay pagtanggi sa isang kaibigan para sa hindi paggusto sa sorbetetes.
+Una sa lahat, nang katutubong naiintindihan natin na ito ay higit sa pagtanggi sa isang kaibigan para sa palaging huli kaysa sa ito ay pagtanggi sa isang kaibigan para sa hindi paggusto sa sorbetes.
 
 Bakit kaya ganon?
 
@@ -64,15 +64,15 @@ Muli, ang UPB balangkas ay dumating upang iligtas.
 
 Ang APA ay isang * hindi mapilit na patakaran na maaaring rasyunal na mailapat sa parehong partido ng sabay-sabay*.
 
-Halimbawa, kung ang aking APA ay: "magiging laging nasa oras," sa gayon ito ay maaaring maging makabundong pamantayan na maaaring lubos na maiiwasan. Hindi ko maaaring puwersahin ipilit itong APA sa iyo dahil hindi mo kailangan maging kaibigan ko, hindi mo kailangan na laging maging tama sa oras, hindi mo kinakailangan na respetuhin at sundin ang aking kagustuhan sa lahat ng paraan o kahit ano pa.[^1]
+Halimbawa, kung ang aking APA ay: "magiging laging nasa oras," sa gayon ito ay maaaring maging makabundong pamantayan na maaaring lubos na maiiwasan. Hindi ko maaaring puwersahing ipilit itong APA sa iyo dahil hindi mo kailangan maging kaibigan ko, hindi mo kailangan na laging maging tama sa oras, hindi mo kinakailangan na respetuhin at sundin ang aking kagustuhan sa lahat ng paraan o kahit ano pa.[^1]
 
-Kung ang "pagiging nasa oras" ay isang APA, sa gayon ito ay posible para sa dalawang tao n amakuha ito ng sabay - kung pareho sila na nasa oras.
+Kung ang "pagiging nasa oras" ay isang APA, sa gayon ito ay posible para sa dalawang tao na makuha ito ng sabay - kung pareho sila na nasa oras.
 
 Sa panggagahasa, katulad ng nakita natin sa itaas, ito ay imposible para sa dalawang tao na magsagawa nito sa parehong oras. ang isa ay dapat maging manggagahasa, at ang isa ay laging isang biktima.
 
 Sa kabilang banda, kung sasabihin kong "ang paggusto sa Jazz" ay isang APA, sa gayon ay ako ay magmamadaling pumunta sa lohikal na imposible. Tandaaan, ang APA ay hindi mapilit na patakaran na maaaring rasyunal na ipatupad sa parehong partido ng sabay - ang tamang pagbabalangkas para sa "paggusto sa jazz" ay: subhektibong mga kagustuhan ay makamundong kanais-nais."
 
-Hindi lamang ito isang ranggong pagsasalungat pagdating sa palaugnayan, ngunit ito rin ay madaliang pagkabigo ng pagsubok ng UPB. Kung mas gusto ko ang jazz sa lahatt ng ibang anyo ng musika, ngunit mas gusto mo ang klasikal na musika sa lahat ng uri nito, at kung ang pansariling kagustuhan ay makamundong kanai-nais, sa gayon dapat gustuhin mo ang jazz dahil gusto ko ito, at dapat gustohin ko ang klasikal dahil gusto mo ito. Ito, siyempre, ay imposible, dahil ito ay kinakailangan na tayong dalawa ay *sabay na gustuhin ang jazz at klasikal sa anumang uri ng musika*. Kailangan mong lumipat ng kagustuhan sa jazz, dahil ito ay aking gusto - ngunit sa parehong pagkakataon kailangang ko din ilipat ang aking kagustuhan sa klasikal, dahil ito ang iyong gusto. Ito ay katulad ng pagsasabi na ikaw ay dapat magtapon at sumalo ng parehong baseball sa parehong eksaktong panahon - isang lohikal at pisikal na imposible.
+Hindi lamang ito isang ranggong pagsasalungat pagdating sa palaugnayan, ngunit ito rin ay madaliang pagkabigo ng pagsubok ng UPB. Kung mas gusto ko ang jazz sa lahat ng ibang anyo ng musika, ngunit mas gusto mo ang klasikal na musika sa lahat ng uri nito, at kung ang pansariling kagustuhan ay makamundong kanais-nais, sa gayon dapat gustuhin mo ang jazz dahil gusto ko ito, at dapat gustuhin ko ang klasikal dahil gusto mo ito. Ito, siyempre, ay imposible, dahil ito ay kinakailangan na tayong dalawa ay *sabay na gustuhin ang jazz at klasikal sa anumang uri ng musika*. Kailangan mong lumipat ng kagustuhan sa jazz, dahil ito ay aking gusto - ngunit sa parehong pagkakataon kailangang ko din ilipat ang aking kagustuhan sa klasikal, dahil ito ang iyong gusto. Ito ay katulad ng pagsasabi na ikaw ay dapat magtapon at sumalo ng parehong baseball sa parehong eksaktong panahon - isang lohikal at pisikal na imposible.
 
 Dahil sa ang APAs ay hindi ipinapatupad sa pamamagitan ng karahasan - hindi mo puwedeng barilin ang isang tao sa pagiging huli - pagkatapos ang panggagahasa * ay hindi* maaaring maging APA, dahil ang kahulugan panggagahasa ay isang sekwal na atake na ipapatupad sa pamamagitan ng karahasan.
 
@@ -106,7 +106,7 @@ Ang Personal na negatibong askyon (PNAs) sa pamamagitan ng kahulugan ay hindi ma
 
 ### Aesthetical na negatibo
 
-Maramil ang panggagahasa ay isang aestetikal na *negatibo* kilos, katulad ng "pagiging huli" - ang pagtingin sa gilid ng bilang dalawa sa itaas. Gayunman, aestetikal na negatibong aksyon (ANAs) ay hindi lohikal na maaaring maging marahas na ipatupad * dahil sa kahulugan nito ay maiiwasan*. Dahil ako ay malayang makakapiling huminto sa pakikisama sa isang tao na patuloy na dumadating ng hili, hindi ko siya maaaring barilin sa pagiging huli.
+Maramil ang panggagahasa ay isang aestetikal na *negatibo* kilos, katulad ng "pagiging huli" - ang pagtingin sa gilid ng bilang dalawa sa itaas. Gayunman, aestetikal na negatibong aksyon (ANAs) ay hindi lohikal na maaaring maging marahas na ipatupad * dahil sa kahulugan nito ay maiiwasan*. Dahil ako ay malayang makakapiling huminto sa pakikisama sa isang tao na patuloy na dumadating ng huli, hindi ko siya maaaring barilin sa pagiging huli.
 
 Gayunman, ang panggagahasa sa kahulugan ay maaaring maiwasan, dahil ito ay sekswal na atake na ipinapatupad sa pamamagitan ng karahasan.[^4] Gayon din, kung pinili ko na ihinto ang pagiging kaibigan sa taong makupad na nabanggit sa itaas, hindi niya ako maaaring pilitin na maging kaibigan niya sa pamamagitan ng pagbabanta sakin ng karahasan, dahil ito ay nakapaloob sa prinsipyo ng pansariling kagustuhan na maaaring ipilit sa iba, na kung saan tatakbo ng walang bunga laban sa aking kakayahan na ipatupad * ang aking* kagustuahn na ininto ang aming pagkakaibigan. Ang ganitong uri ng "Tarantinong moralidad" ay laging natatapos sa lahat ng tao na nasa estado ng piping paralisis, sa pagtutok ng baril sa bawat sa mukha ng bawat isa tulad ng isang nakapirming mga estatwa.
 
@@ -142,14 +142,14 @@ Sa gayon ito ay tila na ang lohikal na posibilidad para sa panggagahasa ay ang *
 
 Ang katunayan na ang UPB na balangkas ay may lohikal at epektibong napatunayan na ang moral na panukala na ang panggagahasa ay masama - hindi "mabuti," o "aestetikal na kanais-nais," o "pansariling kagustuhan" o "walang kinikilingan na moral" - ay isang magandang palatandaan. Hindi nito pinapatunayan nang higit sa isang anino ng pagdududa na ang UPB ay lohikal na pagpapatunay ang lahat "karaniwang kahulugan" ng moral na panukala, ngunit ang unang sagabal ay naipasa, at ang dapat makapagbigay sa atin ng magandang dahilang upang magdiwang. Kung ako ay isang pisisista na nagpapanukala sa Pinag-isang larangan ng teyorya, at ang aplikasyon ng aking teyorya ay tama na nahulaan kung saan paroroon ang baseball, maari kong sabihin na ako ay lubos nalulugod.
 
-Ang teyorya ni Einstein ang kapamanggitan na nahulaan na ang liwanag ay kayang mabali sa paligid ng isang balon ng grabidad - kung kailan ito ay unang nakumpirma, ito ay hindi pinpatunayan ang kanyang teyorya na lagpas sa isang anino ng isang pagdududa, ngunit ito ay napatunayan na ang teyorya ay *maaaring* maging tama, na kung saan magiging mahusay na pagtalon pasulong. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
+Ang teyorya ni Einstein ang kapamanggitan na nahulaan na ang liwanag ay kayang mabali sa paligid ng isang balon ng grabidad - kung kailan ito ay unang nakumpirma, ito ay hindi pinpatunayan ang kanyang teyorya na lagpas sa isang anino ng isang pagdududa, ngunit ito ay napatunayan na ang teyorya ay *maaaring* maging tama, na kung saan magiging mahusay na pagtalon pasulong. Ang unang pagpapatunay ay lagi ang pinaka mahirap, dahil madali nitong makuha ang mga bagay na mali, at ang pagkakamali ay laging hindi mabilang na katumpakan.
 
-The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+Ang UPB na balangkas ay tamang napapatunayan na ang ating moral na saligan na ang panggagahasa ay masama. Ito ay isang pangangailangan - ngunit hindi sapat - pamantayan para sa mga katibayan, at ang lubos na suporta sa karagdagan na inbestigasyon. Sa gayon, tayo ay magpatuloy…
 
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
+[^1]: Ito ay sobrang iba sa iang pisikal na pagtangka, dahil sinisira nito ang iyong kakayahan para sa malayang pagpili.
 
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
+[^2]: Hindi nito masasabi ang ang panggagahasa ay hindi kasama ang kagustuhan, dahil ang panggagahasa ay isang pag-uugali at, gaya ang ating natalakay sa itaas, ang lahat ng pag-uugali ay kasama ang kagustuhan.
 
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
+[^3]: Pansinin na hindi ko iminumungkahi na ang "pansariling mga kagustuhan * ay maaaring* maging marahas na ipataw sa ibang tao, dahil ito ay isang paglabag sa UPB, na kung saan nagsasabi na ang moral na patakaran ay dapat maging ganap at makamundo - kung sila ay hindi, sila ay mapapasailalim sa APA na teyorya, at hindi maaaring ipataw sa iba.
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]: Maaari nating mapigilan ang sitwasyon na kung saan napapataas ang pagkagusto sa panggagahasa, ngunit hindi natin maiiwasan ang paglaki ng panggagahasa.
