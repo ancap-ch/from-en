@@ -38,7 +38,7 @@ Ang katulad ay totoo sa lupain ng moralidad.
 
 ### Ang mga biktima
 
-Crossing this “null zone” is fraught with peril. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+Ang pagtawid sa "sona ng kawalan" ay puno ng kapahamakan. Ang daan mula sa maliit na mga katotohanan patungo sa mga dakilang katotohanan ay gawa sa buto ng milyon-milyon. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
 
 Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
 
