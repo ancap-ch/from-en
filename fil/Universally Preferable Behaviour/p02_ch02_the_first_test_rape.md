@@ -62,13 +62,13 @@ Bakit kaya ganon?
 
 Muli, ang UPB balangkas ay dumating upang iligtas.
 
-An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
+Ang APA ay isang * hindi mapilit na patakaran na maaaring rasyunal na mailapat sa parehong partido ng sabay-sabay*.
 
-For instance, if my APA is: “be on time,” then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+Halimbawa, kung ang aking APA ay: "magiging laging nasa oras," sa gayon ito ay maaaring maging makabundong pamantayan na maaaring lubos na maiiwasan. Hindi ko maaaring puwersahin ipilit itong APA sa iyo dahil hindi mo kailangan maging kaibigan ko, hindi mo kailangan na laging maging tama sa oras, hindi mo kinakailangan na respetuhin at sundin ang aking kagustuhan sa lahat ng paraan o kahit ano pa.[^1]
 
-If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
+Kung ang "pagiging nasa oras" ay isang APA, sa gayon ito ay posible para sa dalawang tao n amakuha ito ng sabay - kung pareho sila na nasa oras.
 
-With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
+Sa panggagahasa, katulad ng nakita natin sa itaas, ito ay imposible para sa dalawang tao na magsagawa nito sa parehong oras. ang isa ay dapat maging manggagahasa, at ang isa ay laging isang biktima.
 
 On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
 
