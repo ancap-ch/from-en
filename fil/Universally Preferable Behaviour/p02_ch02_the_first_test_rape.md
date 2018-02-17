@@ -38,11 +38,11 @@ Sa puntong ito, ang pagtutol ay medyo makatwiran na maaaring sabihin na kung ang
 
 Ang konsepto ng "pagiiwas" ay gumagana sa isang positibo katulad ng sa isang negatibo. Kung mawawala ko ang aking ari sa ilang malungkot na aksidente, ako ba ay may moral para sa pagpipigil sa panggagahasa? Ito ay mukhang mahirap na makipagtalo na kaya kong gawin, dahil kahit ang panggahasa sa ari ay imposible sa akin. Gayundin, maaari nating tawagan ang isang tao na "mapagbigay" kung siya ay kayang magbigay ng isang daang dolyar sa isang pulubi - gayunman, tayo ay walang dudang baguhin ang ating pagtatantiya kung ito ay lalabas na siya ay nagbigay ng kanyang pera habang naglalakad ng tulog, at lubos na pinagsisihan ang kanayng ginawa habang naglalakad.
 
-Kaya masaabi nating makatwiran na kung saan ang pagpipilian ay wala, o hindi naaangkop, ang moralidad ay ay wala din, o hindi naaangkop. Ang taong nasa isang kawalan ng malay, habang ang kanyang mga aksyon ay hindi itinuturing na masama, o maituturing nila na mabuti. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
+Kaya masaabi nating makatwiran na kung saan ang pagpipilian ay wala, o hindi naaangkop, ang moralidad ay ay wala din, o hindi naaangkop. Ang taong nasa isang kawalan ng malay, habang ang kanyang mga aksyon ay hindi itinuturing na masama, o maituturing nila na mabuti. Siya ay naandon sa estadong walang pagpipilian, katulad ng isang sanggol, o isang hayop - gayon siya ay magiging malayang makatwiran mula sa mga moral na patakaran, dahil mayroong itong isang pisikal na estado na talagang nagpapaiba sa kanya sa isang tao na kayang pumili, na kung saaan ay katanggap-tanggap sa ilalalim ng UPB.
 
-With that in mind, let us continue our examination of rape.
+Sa nasasaisip, ipagpatuloy natin ang ating pagsusuri sa panggagahasa.
 
-### Aesthetically Positive
+### Aesthetically Positibo
 
 Aesthetically positive actions (APAs) are universally preferable, but not enforceable through violence, since aesthetically negative actions do not initiate the use of force. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
 
