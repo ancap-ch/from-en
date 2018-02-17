@@ -1,4 +1,4 @@
-## More Challenging Tests Of UPB
+## Ang mas mahirap na pagsubok ng UPB
 
 We have now tested specific moral theories relative to the framework of UPB, and found that UPB validates our most commonly held moral beliefs, such as prohibitions against rape, murder and theft. By bringing the criterion of *avoidability* into our analysis, we have also helped differentiate between crimes that cannot be avoided, and crimes that must be enabled through positive action, such as fraud. Finally, we have divided “preferable behaviour” into three major categories – universal, aesthetic, and neutral (and their relevant opposites). Universally prohibited actions include rape, murder and theft, which force may be used to prevent. Aesthetically preferable actions include politeness, being on time and so on, which cannot be enforced through violence. Neutral actions include purely subjective preferences, or actions that have no moral content, such as running for a bus.
 
