@@ -34,6 +34,6 @@ Poderíamos seguir o mesmo questionamento do caso da agressão, mas os argumento
 
 Passemos agora à questão do roubo. Se essa estrutura também for verdadeira neste caso, então atingimos a trifecta perfeita da nossa compreensão moral instintiva e encontrámos a confirmação racional para as nossas crenças existenciais. Descobrimos as matemáticas que explicam como somos capazes de apanhar uma bola de forma instintiva e isso é um começo necessário.
 
-### Self-Defence?
+### Legítima Defesa?
 
-We have skirted over the issue of self-defence with regards to murder, though it is scarcely necessary to examine it in the case of rape. This is not because the issue of self-defence is either self-evident or uncomplicated, but rather because the complications that exist can be dealt with more comprehensively after we look at the question of theft.
+Nós contornamos a questão da legítima defesa no que diz respeito ao homicídio, apesar de ser um mal necessário, examiná-lo em caso de violação. Não é porque a questão da legítima defesa seja evidente ou sem complicações, mas sim, porque as complicações que existem podem ser tratadas de forma mais abrangente, depois de examinarmos a questão do roubo.
