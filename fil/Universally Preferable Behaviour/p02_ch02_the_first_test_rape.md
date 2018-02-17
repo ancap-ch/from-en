@@ -90,19 +90,19 @@ Ang pasariling kagustuhan ay hindi magiging makatarungang pagpataw sa ibang tao,
 
 Kung sasabihin ko na ang pagkagusto sa bangdang Reyna sa lahat ng ibang makamundong kanais-nais na asal, sa anong basehan ko mabibigyang katwiran ang aking pahayag? Sa pamamagitan ng pagsasabi na ang lahat ng pansariling kagustuhan ang dapat ipataw sa ibang tao. Gayunman, kung ang aking sariling kagustuhan ay maaaring magpataw sa iyo at iyong kalooban, gayon sa pamamagitan ng kahulugan ng UPB, ang iyong sariling kagustuhan ay maaari ring magpataw sa *akin* at sa aking kalooban. Kaya hindi kami parehong magiging moral sa parehong pagkakataon, dahil ang kinakailangan ay pareho naming gustuhin ang aming mga banda habang sa parehong pagkakataon ay isuko ang aming kagustuhan doon sa ginustong banda ng bawat isa. Sa madaling salita, ako ay dapat sabay na magisip na ang Reyna ay ang pinaka mahusay na banda, at ang Pulis ay pinakamahusay na banda. Ito ay lohikal na imposible, na kung saan ang sentral na dahilan kung bakit ang pansariling kagustuhan ay hindi maaaring maging makamundong ipatupad.
 
-Kaya kung ang panggagahasa ay maituturing na isa lamang pansariling kagustuhan, sa gayon ito ay hindi maaaring lohikal na ipatupad sa kahit kaninuman. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
+Kaya kung ang panggagahasa ay maituturing na isa lamang pansariling kagustuhan, sa gayon ito ay hindi maaaring lohikal na ipatupad sa kahit kaninuman. Muli, ang pagiisip sa dalawang lalaki na nasa kwarto, ito ay mangangailangan sa parehong lalaki na gustuhing gahasain ang isat-isa, ngunit manatiling lubos na hindi ipatupad ang desisyon, na kung saan ay hindi ilohikal, ngunit mabuting ganap na hindi praktikal.
 
-Finally, since personal preferences cannot be enforced on others, but rape is by definition the enforcement of a “preference” upon another, rape cannot be in the moral category of merely personal preferences.
+Panghuli, dahil ang pansariling kagustuhan ay hindi maaaring ipatupad sa bawat isa, ngut ang panggagahasa ay nangangahulugan ng pagpapatupad ng isang "kagustuhan" sa iba, ang panggagahasa ay hindi maaaring mapaloob sa moral na kategorya ng mga pansariling kagustuhan.
 
-### Morally Neutral
+### Walang kinikilingang moral
 
-As discussed above, rape cannot be a morally neutral action, since it is a preference that is enforced upon another.
+Gaya ng pagtatalakay sa itaas, ang panggagahasa ay hindi maaaring maging aksyon ng walang kinikilingan na moral, dahil ito ay isang kagustuhan na ipinapatupad sa iba.
 
-### Personally Negative
+### Negatibong Pansarili
 
-Perhaps rape is a *personally negative* action, the opposite of number three. As an example, a criminal on the run would consider capture a personally negative action (PNA).
+Marahil ang panggagahasa ay isang *negatibong pansarili* kilos, ang kabaliktaran ng bilang tatlo. Isang halimbawa ay, ang isang kriminal sa kasalukuyan ay maituturing na makuha ang isang negatibong pansariling kilos (PNA).
 
-Personally negative actions (PNAs) by definition cannot be enforced upon another. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
+Ang Personal na negatibong askyon (PNAs) sa pamamagitan ng kahulugan ay hindi maaaring ipatupad sa iba. Sa gayon ang isang tao na nagahasa ay maaaring maginf mali sa "pagpapahirap" sa kanyang kagustuhan para sa *hindi panggagahasa* ng kanyang manggagahasa, sa lahat ng anyo ng pagtatanggol sa sarili. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
 
 ### Aesthetically Negative
 
