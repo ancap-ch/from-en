@@ -134,9 +134,9 @@ Kung ang lahat ng tao ay dapat kumuha ng kanyang sariling kasiyahan sa anuman an
 
 Kaya naman masasabi ni Doug kay Bob: "ito ay moral na mabuti para sa akin na gahasain ka, dahil ito ay pansariling kagustuhan na maaaring maging marahas na pagpapatupad." Si Bob, ay syempre, sasagot na: "sa gayon ito ay moral na mabuti para sa akin na marahas na tumanggi sa iyong atake, dahil ang aking pansariling kagustuhan ay ang hindi magahasa na sa gayon din ay marahas na pagpapatupad."
 
-Siyempre pa, ilan sa manggagahasa ay pilosopo, ngunit tulad ng aming nabanggit sa itaas, ang pangunahing panganib sa tao ay hindi ang indibidwal na kriminal, ngunit ang rasyunal at mapagsamantalang moral na mga teyorya. For instance, incarceration is inevitably justified through an appeal to a moral theory – and incarceration causes far more people to be raped than private criminals could ever dream of. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
+Siyempre pa, ilan sa manggagahasa ay pilosopo, ngunit tulad ng aming nabanggit sa itaas, ang pangunahing panganib sa tao ay hindi ang indibidwal na kriminal, ngunit ang rasyunal at mapagsamantalang moral na mga teyorya. Halimbawa, ang pagkakabilanggo ay hindi maiiwasang makatwiraan sa pamamagitan ng pagapela sa isang moral na teyorya - ang ang pagkakabilanggo ay magdudulot ng malayo sa maraming tao na magahasa kaysa sa pribadong kriminal na hindi pinapangarap. Kung ang moral na teorya ay masasabi na ang pagkakabilnggo ay mali, sa gayon *ang pagtatama* nitong moral na teyorya ay dapat sa pamamagitan ng mataas na pagmamalasakit ng kahit sinumang nagnanais na mabawasan ang pagkalat ng panggagahasa.
 
-Thus it would seem that the only logical possibility for rape is that *not* raping is universally preferable behaviour – or that rape is universally banned behaviour.
+Sa gayon ito ay tila na ang lohikal na posibilidad para sa panggagahasa ay ang *hindi* panggagahasa ay isang makamundong kanais-nais na pag-uugali - o ang panggagahasa ay isang makamundong pinagbabawal na pag-uugali.
 
 ### Whew!
 
