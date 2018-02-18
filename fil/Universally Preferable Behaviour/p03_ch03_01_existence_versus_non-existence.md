@@ -88,11 +88,11 @@ Ang bukas na puwersa ay sangkot sa institusyon ng gobyerno - ang konseptual wrap
 
 Gayunman, ito ay isang purong walang katuturan.
 
-Kung Ang lalake ay may hawak na kutsilyo sa leeg ng babae habang nakikipag talik, ito ay kahulugan ng isang pagkilos ng pang gagahasa. Hindi nito masasabi na ang pagtatalik ay pinagkasunduan, habang Ang parehong oras ng pagbabanta na siya ay saktan o patayin Kung siya ay tumatangging makipag talik sa kanya. Kung kusang loob siyang nakipagtalik, Kung ganon Ang kutsilyo ay Hindi na kaylangan. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Kung Ang lalake ay may hawak na kutsilyo sa leeg ng babae habang nakikipag talik, ito ay kahulugan ng isang pagkilos ng pang gagahasa. Hindi nito masasabi na ang pagtatalik ay pinagkasunduan, habang Ang parehong oras ng pagbabanta na siya ay saktan o patayin Kung siya ay tumatangging makipag talik sa kanya. Kung kusang loob siyang nakipagtalik, Kung ganon Ang kutsilyo ay Hindi na kaylangan. Kung Ang lalake ay nararamdaman na kaylangan nya ng kutsilyo, Kung gayon malinaw na ang pakikipagtalik ay * Hindi * kusang loob.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+Sa parehong paraan, tao ang nagsabi na Ang pagbubuwis ay bahagi ng kontrata sa lipunan na kusang loob na napagkasunduan nila.
 
-This is both logically and empirically false.
+Ito ay parehong lohikal at empirikaly na Hindi totoo.
 
 We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
 
