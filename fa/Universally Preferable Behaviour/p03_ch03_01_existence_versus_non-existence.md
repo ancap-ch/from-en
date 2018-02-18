@@ -50,55 +50,55 @@ What we call “the government” is merely another example of this *null zone* 
 
 Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
 
-### Government
+### 政府
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+他说政府相反的道德规则从其他社会下运作是完全一样，就像说“妖精免疫重力”。首先，妖精不存在–和的一种方法 - 我们知道他们的行为方式之一不存在的是它声称它们不受重力的影响。首先，妖精不存在–和的一种方法，我们知道他们不存在，他们声称他们是免疫的重力。 所有有质量的物体都受重力的影响，根据定义它对重力不起作用，因此质量不存在。这句话, “妖精是免疫的重力”是一种重言式，它只证实了妖精的不存在–非存在是语义等价的, “不存在是不存在”。 A 是 A，亚里士多德的逻辑的第一定律，是珍贵的确认，它的定义是不存在的的存在。
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+同样，当我们说谋杀和政府代表偷窃的道德上是好的，我们知道“士兵”和“政府代表”作为道德范畴是完全无效的。
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+如果我说一个方圆有偷窃的权利，我只是说，那个不存在的权利有权做到自相矛盾的一个 - 纯粹是无意义的陈述，但在政治的“空白地带”仍有奇怪的吸引力。
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+如果我在一家二手商店买一件士兵服装，穿上它，显然我没有创造出一个相反的道德规则有效的替代宇宙。在我穿上戏服的那一刻，我犯了谋杀罪，那我什么时候能成为凶手呢？我什么时候穿上裤子? 如果我穿裤子，而不是背心怎么办? 如果我有一把靴子怎么办? 如果双靴子都打开了，但只有一个被系上了呢？如果我的帽子倒退怎么办？如果我穿上了我未遇到的第一个人不认可的制服，该怎么办? 披头士乐队在拍摄“警察辣椒队”封面时突然拥有谋杀权吗？他们脱下外套时是否失去了这种权利？
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+我问这些反问句，因为它们实际上是致命的。很明显，一件军人服装并不能改变一个人的本性，比理发更能使他变成一只鸭子、一个概念或一个神。
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+“啊，”你可能会说，“但这套服装是无效的，因为你在一家二手商店买到了它 -穿上士兵的制服不再是当兵，而不是复印博士学位给你一个博士学位。”
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+这种类比是不正确的，因为拥有博士学位或复印博士学位不会改变你作为一个人所受到的任何道德准则。
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+“嗯，”你可以回答，“但不同的是，士兵拥有一般公民为他提供的道德权利，为了集体自卫等等”。
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+这引发了一个非常有趣的问题，即意见是否能够改变现实。
 
-### Opinions And Reality
+### 意见和现实
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+很明显，我们明白我无法通过我的观点，把你从万有引力的束缚中解放出来，这比我认为“二加二等于五”的看法更符合事实。
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+“意见”是指那些在现实中没有明确的证据，或者没有明确的证据可以提供，或者仅仅是个人喜好的信念。我个人的观点是我更喜欢巧克力冰淇淋，而不是香草口味的 -我可能也有一种“意见”，认为冰岛是热带天堂，或者上帝存在，或者雨水向上。个人观点显然与道德无关，声称准确地描述现实但却不正确的观点仅仅是不正确的偏见。相信雨水往上流动并不会改变方向，穿夏威夷衬衫去冰岛不会使雷克雅未克变得更温暖。
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+因此，认为谋杀在道德上是好的并不能使谋杀成为道德上好。因为我对一个人的信念并没有改变他的道德本质，我相信他的谋杀是高尚的，不会改变他行为的美德。如果我闭上眼睛，想象你是一只蜥蜴，你不会突然失去调节体温的能力。想象你是一条鱼并没有绕过你对潜水装备的需求。
 
-Opinions do not change reality.
+意见不会改变现实。
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+因为意见不会改变现实，我不能允许你对普遍的道德规则给予任何例外或逆转。从道德规则是基于通用的逻辑，以及人类的物理本质和现实，所以我不能授予你“谋杀权”，除了我可以授予你悬浮，在水上行走或准确行事的能力外说两个和两个五个。
 
-### Government As Voluntarism
+### 政府作为自愿主义
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+政府机构中的开放力量 - 一种颠覆特定群体道德规则的概念包装 -在辩论中总是被忽略。当谈到政府时，指出“屋子里的枪”从来就不是一件积极的事。几乎从定义上来说，政府被认为是由人民选择并为人民所选择，并且以明确或隐含的赞同来运作。
 
-However, this is pure nonsense.
+然而，这纯粹是胡说八道。
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+如果一个人在和她做爱的时候把刀子拿给女人的喉咙，那是强奸的行为。他不能说性是两厢情愿的，同时如果她拒绝和他发生性关系，就要以伤害或死亡威胁她。如果性行为是自愿的，那么这把刀是完全不必要的。如果男人觉得需要一把刀，那么显然性是非自愿的。
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+同样，人们说税收是他们自愿同意的社会契约的一部分。
 
-This is both logically and empirically false.
+这在逻辑上和经验上都是错误的。
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+我们知道这是经验错误的，因为社会契约没有存在。你和我都没有签署过自愿同意所得税的文件 – –我们只是出生在一个系统，它可以从枪支点拿走我们的钱。
 
-### The Gun In The Room
+### 房间里的枪
 
-Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+许多人会在这一点上争论说，税收不是从枪的角度实施的，而是人们自愿支付的。举个例子，我从来没有在一个收税人或警察面前用枪指着我的脸，但是我已经交税几十年了。
 
 This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
 
