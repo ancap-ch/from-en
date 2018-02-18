@@ -22,7 +22,7 @@ Ang katawa-tawang larawan ay tumpak sa isang kahulugan bagaman – kung ang iba 
 
 Kaya kung sasabihin ko sa iyo na wala akong kontrol sa aking pananalita, maaari mo akong tanungin: sino ang? Kung ako ay tumugon na walang sinuman, ito ay gumagawa ng labis na pakiramdam upang makipagtalo sa akin tulad ng pagtatalo sa isang telebisyon, o ang nabanggit na bato habang ito ay bumababa sa isang dalisdis ng bundok patungo sa iyo kotse.
 
-Thus the very act of controlling my body to produce speech demands the acceptance of my ability to control my speech – an implicit affirmation of my ownership over my own body.
+Kaya ang pagkilos ng pagkontrol sa aking katawan ay hinihingi ang pagtanggap sa aking kakayahang kontrolin ang aking pananalita – isang lubos na pagpapatibay sa aking pagmamay-ari sa sarili kong katawan.
 
 Now, if demonic possession were a valid occurrence, and a girl possessed by a demon spat on a priest, we would not call the *girl* rude, but would rather pity her for being inhabited by such an impolite demon. Whoever has control over the girl’s body is culpable for the effects of her actions – this is why we would not call a man who stole while sleepwalking “evil,” since he did not have full control over his own body (although we may restrain him in other ways). This is also the basis for the legal defence of “not guilty by reason of insanity,” which is that we assume that a man who is insane does not have full control over his actions.
 
