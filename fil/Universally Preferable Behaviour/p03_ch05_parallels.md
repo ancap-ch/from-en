@@ -4,9 +4,9 @@ Bago ang Rebolusyong Siyentipiko, Ito ay itinuturing na hindi maisip na ang natu
 
 Ang ideya na ang kalikasan ay may sistema na kayang bumuo ng sarili at tustusan ang sarili ay halos hindi mailalarawan. Ang rebolusyong Darwinian, ang ideya na ang buhay ay hindi nilikha, ngunit sa halip ay nagbago, dinala ang ideya na ito mula sa materyal tungo sa bayolohikal na mundo.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Bago ang siyensya, sa gitna ng bawat komplikadong sistema ay nakahimlay ang walang bahid na kamalayan - wala kung saan ang sistemang ito ay lilipad sa kaguluhan, at doon titigil.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Sa kasamaang palad, ang "walang bahid na kamalayan" na ito ay isa lamang ilusyon, ipagpalagay na mapagkawang-gawa. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
 
 We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
 
