@@ -1,6 +1,6 @@
 ## Ang balangkas para sa Etika
 
-Ang etikal na mungkahi ay naiiba sa ibang uri ng mga pahayag na kaalaman. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Ang etikal na mungkahi ay naiiba sa ibang uri ng mga pahayag na kaalaman. Kung sasabihin ko na, "gusto ko ang jazz," ito ay maaaring maging tunay o huwad na pahayag, ngunit ito ay hindi karaniwang maituturing na pagbubuklod sa inyo sa anumang paraan. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
 
 Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
 
