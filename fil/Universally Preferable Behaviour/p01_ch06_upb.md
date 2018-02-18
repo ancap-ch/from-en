@@ -45,7 +45,7 @@ Mayroong maliit na punto na nagsusulat ng isang libro tungkol sa mga personal na
 
 ### Pagpili
 
-If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+Kung tatanggapin ang iyong paanyaya sa isang partido sa hapunan, ngunit masusumpungan ang pag-uusap na lubos na nakakasakit, maaari akong magpasiya na tumayo at umalis – at maaari rin akong pumili na huwag tumanggap ng isa pang imbitasyon mula sa iyo. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
 
 If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
 
