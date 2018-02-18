@@ -24,7 +24,7 @@ Dahil tayo ay nananatiling hindi kayang ipaliwanag ang isang makatwirang sistema
 
 Dahil ang tinatawag nating mga "etika" ay nananatiling pansarili at *kultural* lamang, hindi natin maiiwasang umasa sa pananakot, takot at karahasan para ipatupad ang patakaran ng lipunan. Dahil ang etika ay kulang ang makatwirang basehan ng seyentipikong pamamaraan, ang "moralidad" ay nananatiling nakakulong sa isang katutubong digmaan ng madugong mga alamat, bawat pangkat ay naglalaban ng ngipin sa ngipin at kuko sa kuko para sa kontrol sa katapatan ng tao sa "kabutihan."
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Hindi tayo mabubuhay nang walang moralidad, ngunit hindi natin kayang ipaliwanag ang moralidad nang may patutunguhan - kaya naman nananatili tayong walang-hanggang hinatulan sa hungkag na pamumuhay ng mapagmataas na pagpapaimbabaw, mapanghamak na pangingibabaw o banal na pang-aalipin.
 
 Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
 
