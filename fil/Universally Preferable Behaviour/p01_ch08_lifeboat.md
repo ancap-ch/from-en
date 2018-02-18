@@ -2,7 +2,7 @@
 
 Ang UPB lamang ang nagpapatunay ng mga lohikal na teyorya ng moral ay hindi ibigsabihin na pwedeng walang conceivable circumstances sa ilalim kung saan pwede kang pumili ng iyong act *against*ang tenet ng mga teyorya.
 
-For instance, if we accept the universal validity of property rights, smashing a window and jumping into someone’s apartment without permission would be a violation of his property rights. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
+Halimbawa sa, kapag tinanggap natin ang unibersal ng validity of property rights, pag-sira sa bintana at pagtalon sa ibang tao sa apartment ng walang pahintulot ito ay paglabag sa kanyang karapatan sa ari-arian. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
 
 In the real world, it would take a staggeringly callous person to press charges against a man who destroyed a window in order to save his life – just as it would take a staggeringly irresponsible man to refuse to pay restitution for said window. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
 
