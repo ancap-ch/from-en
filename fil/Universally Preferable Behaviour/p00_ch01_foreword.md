@@ -16,7 +16,7 @@ Ang aklat na ito ay ang kuwento ng aking personal na pag-atake sa kagaya lang ng
 
 Ang "halimaw" ay ang paniniwala na ito ay imposibleng tukuyin ang isang layunin, katwiran, walang kaugnayan sa relihiyon at seyentipikong etikal na sistema. Ang "halimaw" na ito ay ang ilusyon na ang moralidad ay dapat na mawala magpakailanman sa hindi makatwirang latian ng mga pinuno at mga pamahalaan, ipinatupad para lamang sa pragmatikong kadahilanan, ngunit kailanman ay kulang sa lohikal na pagbibigay-katwiran at malinaw na pagpapaliwanag. Ang "halimaw" na ito ay ang pantasya na ang kabutihan, ang ating pinakadakilang kagalakan, ang ating pinakamalalim na kaligayahan, ay dapat na iisang-tabi nang matatandang hindi relihiyoso, at iwanan sa alabok para kalahigin, ipinangalandakan at pinagsamantalahan nang mga politiko at mga pari - at mga magulang. Ang "halimaw" na ito ay ang pamahiin na, walang batikos ng mga magulang, ng pang-aapi ng mga pinuno o ng mga baril ng mga pamahalaan, hindi tayo kapwa makatwiran at mabuti.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Ang halimaw na ito ay nagpabagsak sa maraming dakilang mga bayani, mula kay Socrates hanggang kay Plato hanggang kay Augustine hanggang kay Hume hanggang kay Kant hanggang kay Rand.
 
 The cost to mankind has been enormous.
 
