@@ -30,9 +30,9 @@ Kaya upang tanggihan ang pagmamay-ari ng katawan ay upang tanggihan ang lahat ng
 
 Sa wakas, gamitin ang pagmamay-ari ng isang tao sa sariling katawan sa anyo ng pagsasalita upang tanggihan ang paniniwala na ang isang tao ay maaaring makontrol ang sariling katawan, ay isang maliwanag at hindi malulutas na pagsasalungat sa sarili.
 
-It is in this way that any rejection of self-ownership can be utterly discarded.
+Sa ganitong paraan na ang anumang pagtanggi sa pagmamay-ari ng sarili ay maaaring lubos na itapon.
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+Dahil sa pagmamay-ari namin ang aming mga katawan, hindi rin kami namimili ng mga *epekto* sa aming mga aksyon, maging mabuti o masama. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
 
 ### Property And UPB
 
