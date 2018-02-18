@@ -28,7 +28,7 @@ Ngayon, kung ang pagmamay-ari ng demonyo ay isang wastong pangyayari, at ang isa
 
 Kaya upang tanggihan ang pagmamay-ari ng katawan ay upang tanggihan ang lahat ng moralidad, na, tulad ng nakita natin sa itaas, ay lubos na imposible. Lohikal, dahil ang moralidad ay tinukoy bilang isang maipapatupad na subset ng UPB, upang tanggihan ang moralidad ay upang sabihin na higit na lalong kanais-nais ang paniwalaan na walang bagay tulad ng mga kagustuhan sa unibersal.
 
-Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
+Sa wakas, gamitin ang pagmamay-ari ng isang tao sa sariling katawan sa anyo ng pagsasalita upang tanggihan ang paniniwala na ang isang tao ay maaaring makontrol ang sariling katawan, ay isang maliwanag at hindi malulutas na pagsasalungat sa sarili.
 
 It is in this way that any rejection of self-ownership can be utterly discarded.
 
