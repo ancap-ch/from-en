@@ -88,7 +88,7 @@ Ang bukas na puwersa ay sangkot sa institusyon ng gobyerno - ang konseptual wrap
 
 Gayunman, ito ay isang purong walang katuturan.
 
-Kung Ang lalake ay may hawak na kutsilyo sa leeg ng babae habang nakikipag talik, ito ay kahulugan ng isang pagkilos ng pang gagahasa. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Kung Ang lalake ay may hawak na kutsilyo sa leeg ng babae habang nakikipag talik, ito ay kahulugan ng isang pagkilos ng pang gagahasa. Hindi nito masasabi na ang pagtatalik ay pinagkasunduan, habang Ang parehong oras ng pagbabanta na siya ay saktan o patayin Kung siya ay tumatangging makipag talik sa kanya. Kung kusang loob siyang nakipagtalik, Kung ganon Ang kutsilyo ay Hindi na kaylangan. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
 
 In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
 
