@@ -1,6 +1,10 @@
 
 [zh-CN - Chinese (中文)](https://github.com/ancap-ch/from-en/tree/utopian/zh-CN) - [Google Drive Folder](https://drive.google.com/open?id=1R7R4g0QBn_TCm9P21S1YcNBoYgiixffM) - [Crowdin](https://crowdin.com/project/ancap-ch/zh-CN) - [Discussion](https://CN.ancap.ch)
 
+General Guidelines for Chinese Translators:
+1. For names mentioned in the book, please add the English name in (), eg  汉斯．赫尔曼．霍普(Hans Hermann Hoppe). At least for the first occurance of the name in each chapter, no need to do this if the name is mentioned frequently afterwards.
+2. For book titles, use 《书名号》
+
 ---
 
 # Economics and Ethics of Private Property    
