@@ -82,7 +82,7 @@ Ang mga opinyon ay Hindi mapapalitan ang reyalidad.
 
 Dahil ang mga opinyon ay hindi mapapalitan ang reyalidad, Hindi ko pweding ibigay sa iyo ang anuman pagkabukod o pagbaliktad tungkol sa pangkalahatang tuntunin ng moral. Dahil ang patakaran moral ay base sa pangkalahatang lohika, pati narin ang pisikal na kalikasan at reyalidad ng isang tao, Hindi Kita pweding bigyan ng "karapatan para pumatay," Anu mang higit sa kaya Kong ibigay sa iyo ang kakayahan lumutang, lumakad sa tubig o tamang sabihin na dalawa at dalawa maging Lima.
 
-### Government As Voluntarism
+### Gobyerno bilang boluntaryo
 
 The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
 
