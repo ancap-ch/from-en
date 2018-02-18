@@ -2,7 +2,7 @@
 
 Bago ang Rebolusyong Siyentipiko, Ito ay itinuturing na hindi maisip na ang natural na mundo ay kayang suportahan ang kanyang sarili nang walang ulirat at "moral"na nilalang sa kanyang sentro. Ang araw ay sumikat at tumahak sa tanikala ng sobrenatural na karwahe; Ang buwan ay malamig at malungkot na kapatid na lalaki ng araw. Nakabalangkas sa konstelasyon ang mga kwento at mga libingan ng mga Diyos, at ang mga unos ay nagsanga mula sa galit ng mga demonyo.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+Ang ideya na ang kalikasan ay may sistema na kayang bumuo ng sarili at tustusan ang sarili ay halos hindi mailalarawan. Ang rebolusyong Darwinian, ang ideya na ang buhay ay hindi nilikha, ngunit sa halip ay nagbago, dinala ang ideya na ito mula sa materyal tungo sa bayolohikal na mundo.
 
 Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
 
