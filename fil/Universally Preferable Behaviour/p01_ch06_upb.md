@@ -45,9 +45,9 @@ Mayroong maliit na punto na nagsusulat ng isang libro tungkol sa mga personal na
 
 ### Pagpili
 
-Kung tatanggapin ang iyong paanyaya sa isang partido sa hapunan, ngunit masusumpungan ang pag-uusap na lubos na nakakasakit, maaari akong magpasiya na tumayo at umalis – at maaari rin akong pumili na huwag tumanggap ng isa pang imbitasyon mula sa iyo. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+Kung tatanggapin ang iyong paanyaya sa isang partido sa hapunan, ngunit masusumpungan ang pag-uusap na lubos na nakakasakit, maaari akong magpasiya na tumayo at umalis – at maaari rin akong pumili na huwag tumanggap ng isa pang imbitasyon mula sa iyo. Ang kapasidad na ito para sa pagtakas at/o pag-iwas ay isang mahalagang katangiang pagkakaiba *aesthetics* mula sa *etika*.
 
-If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
+Kung, gayunpaman, kapag nagpasiya akong umalis sa iyong hapunan, ikaw ay lumukso at kadinahan mo ako sa aking upuan, malinaw na wala na akong libreng pagpili na umalis. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
 
 If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I have certainly done her wrong, but the wrong that I have done by cheating would be very different from the wrong I would do if I lock her in the basement to prevent her from leaving. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does.
 
