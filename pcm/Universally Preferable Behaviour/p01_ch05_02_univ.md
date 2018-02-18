@@ -1,142 +1,146 @@
-### UPB: Five Proofs
+### Five Proofs wey UPB get:
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+As we don discuss before, de proposition of say e nor get anytin wey be preferable behavior get plenty logical and empirical problem for inside. "Universally Preferable Behaviour" supposed be authentic concept for five main reasons.
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+De first one na logical: If I argue say I nor agree with de tori wey say de proposition of say universally preferable behavior dey valid, I don already show sey I like truth pass falsehood, and I even like to correct people wey nor dey talk true – to talk sey e nor get anytin wey be universally preferable behavior be like to shout for person ear say sound nor dey exist – dis one sef dey contradict im sef . To put am anoda way , if  sometin like universally preferable behavior nor dey 
+den make person oppose anybody wey yarn sey sometin like universally preferable behavior dey. Howeva if person do sometin de person don create universally preferable behavior. Dat one mean say universally preferable behavior or moral rules suppose dey valid.
 
-Syllogistically, this is:
+Syllogistically, dis one mean sey:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1. De proposition na: de idea say "universally preferable behavior" suppose dey valid.
+2. To dey argue sey universally preferable behavior nor dey valid, dey already demonstrate universally preferable behavior.
+3. So derefore de argument on top say universally preferably behavior nor dey valid, nor fit dey vaild im sef.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+All of us know sey objective preferences dey, like to love icecream or jazz song dem, wey nor fit affect oda people. For de oda hand e get oda preferences like rape and murder, wey go clearly affect oda people. preferences dey for logic too, truth plus including evidence, wey be say na also oda people wey e go affect. ( although nor be by violence e affect dem) as far as all of us accept say illogical proposition suppose be false or invalid. 
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
 
-How else can we know that the concept of “moral rules” is valid?
+Dose preferences dem wey we fit consider as wetin fit affect oda people na "universal preferences" or "moral rules" we go call dem
 
-We can examine the question biologically as well as syllogistically.
+which oda way we go take know say de idea of "moral rules" dey valid?
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+We fit examine dis question biologically and syllogistically too.
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+For instance all mata na subeject to physical rule – and also every living thing na subject to one kind requirement, and so if e dey alive e suppose don follow universally preferable behaviors. Life for instance need fuel and oxygen. all living mind dem na organic part of de world wey we dey see, and so dem be subject to pysical laws and dem suppose don follow universally preferable behaviors. To argue otherwise go need proof sey matter nor follow for wetin make up conciousness and e nor dey organic – e nor dey possible as e get mass, energy and life inside. To argue say consciousness nor be subject of physical rule or universally preferable behaviors go be like to argue say gravity nor dey affect human being and dem fit survive without food.
 
-Syllogistically, this is:
+So e nor dey possible say anybody fit use logic argue universally preferable behaviour, since for dat person to dey alive dey argue, im go don follow universally preferred behaviors like to breath, to eat and to drink. 
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+Syllogistically, e mean say:
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+1. All things nid universally preferred behavior to live.
+2. Man pikin na living thing
+3. So all living men dey alive cos dem follow de universally preferred behavior
+4. So any argument wey nor support universally preferred behaviour nid to accept and follow universally preferred behaviour.
+5. So de argument wey nor support sey universally preferred behaviour behaviour dey exist nor dey valid.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Since de scientific method nid empirical support, we too suppose look reality to confirm wetin we think – and for here de fact say universally preferable behaviour dey valid get full support.
 
-Or:
-
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
-
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
-
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
-
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+All man wey dey think well believe in one moral rule like that – some disagreement dey of wetin really dey inside moral rule but every body know say moral rule dey valid – just as many scientist don disagree but all scientist accept sey scientific method dey valid. Person fit argue say world round e nor flat – wey nor different from to change de meaning of wetin gud or bad – but person nor go fit argue say dis world nor dey exist at all – wey be like to argue say  e nor get anything like universally preferable behaviour.
 
 Or:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1. For any scientific theory to dey valid, e must get support from empirical observation
+2. If de idea of "universally preferable behavior" dey valid, den make man pikin believe universally preferable behavior.
+3. All man believe universally preferable behaviour
+4. Derefore empirical evidence dey exist to support say universally preferable behaviour dey valid – and as dis evidence dey exist, e dey oppose de proposition of say universally preferable behaviour nor dey valid.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+De number four argument on top de validity of universally preferred behaviour dey empirical too. since human being get plenty choice to make for life, to say principles nor dey for universally preferable behaviour go be like to say all choice dey equal ( or make we say objective). Howeva all choices nor dey equal weda na with logic or empirical observation.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+For instance, if food dey, everybody go like to dey eat every day. Wen weather cold all man go dey find where warm. Almost all papa and mama dem wan feed, shelter and send dia pikin go school. Many examples dey of common choices  wey man pikin dey make, wey show say universally preferable behaviour dey exist and na part of man pikin nature.
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+As we don yarn before, no physics theory wey valid go fit deny de simple fact say small pikin dem go fit catch fly-ball – na de same way, wey no ethics theory wey valid go fit reject de endless evidence wey we nid to accept UPB.
 
 Or:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+1. Choices dem dey almost infinite.
+2. Many people dey make similar choices.
+3. Derefore all choices nor fit dey equal.
+4. Derefore choices wey everybody prefer suppose dey valid.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+De number five argument of de validity of universally preferable behaviour dey evolutionary.
+
+Since na all organic life need preferential behaviour to continue to live, we fit assume say de organism dem wey dey make de most successful choices na de once wey dey always survive.
+
+Since man pikin na de most successful specie dem, and de most important organ wey man get na im mind, e go be say na man pikin mind wey don help to make all de successful choices dem. de mind sef don become successful cos of sey e fit make successful choices. Since our mind dey only exist cos of say we choose universally preferable behaviour, e mean say universally preferable behaviour go be sometin wey valid.
+
+Or:
+
+1. Living things dem dey succeed wen dem act on top universally preferable behaviour.
+2. Man na de most successful living thing.
+3. Derefore man go don show say im successful pass any oda thing cos of im follow universally preferable behaviour.
+4. Man mind na de most important organ wey im get
+5. Derefore man mind go don show say im dey most successful cos of sey im follow universally preferable behaviour.
+6. Derefore universally preferable behaviour go dey valid.
+
+We fit bring more argument to support say de validity of UPB dey exist, but we go match brake for de mata with wetin we don yarn already, and we go examine de nature of UPB.
 
 #### UPB: Optional And Objective
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Since we don prove say universally preferable behavior dey valid, de question of wetin gud or bad don shift. Since morality dey valid, na which theory  fit quantify, classify, explain and predict am?
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+First first make we nor forget say morality dey optional. All man na subject to gravity and all man nid food to live, but nor be must for man to behave well. If I rape, steal or kill, thunder nor go strike me. Moral rules dem just like scientific method and how biology dey classify things, na just ways to arrange fact wey relate to objective reality.
 
-The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
+De fact say to comply with moral rule na optional, howeva, don confuse many people say morality sef dey subjective. Notin fit dey far from de truth.
 
-Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
+Living thing dem na part of material reality, and material reality dey rational and objective. e dey optional to apply moral theory, but dat one nor mean say all moral theory dey subjective. De scientific method dey optional too but e nor dey subjective. Choices dey optional but de consequences dem nor dey optional. I fit decide say I nor go eat but I nor fit decide say I fit survive without food. I fit decide to cut person head but I nor fit decide weda dem fit survive without head. And so morality dey optional, but we go fit measure the effect dem of moral choices and dem dey objective.
 
-Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
+As we don see say morality na concept wey valid. De next question go be: na how morality valid reach?
 
-As mentioned above, the first test of any scientific theory is *universality*. Just as a theory of physics must apply to *all* matter, a moral theory that claims to describe the preferable actions of mankind *must apply to **all** mankind*. No moral theory can be valid if it argues that a certain action is *right* in Syria, but *wrong* in San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. If it does, it is false and must be refined or discarded.
+As we don yarn before, the first test wey any scientific theory go pass through na how everybody see am. Just as na every matter wey theory of physic must apply to, any theory wey say im dey talk about wetin man pikin like must apply to every man. e nor get any moral theory wey go fit dey valid if im argue say some kind waka gud for Syria but e nor gud for San Francisco. Dem nor fit say man A must do X but make man B nor do X. Dem nor fit say wetin bad yesterday go turn good today - or de oda way. If dem talk so, den na false and dem must change dat kind tori or dem trowey am.
 
-To be valid, any moral theory must also pass the criterion of *logical consistency*. Since the behaviour of matter is logical, consistent and predictable, all theories involving matter – either organic or inorganic – must also be logical, consistent and predictable. The theory of relativity cannot argue that the speed of light is both constant and not constant at the same time, or that it is one hundred eighty-six thousand kilometres per second, five kilometres in depth, and also green in colour.
+For any moral theory to dey valid, e must get  logical consistency. Since de way matter dey behave dey logical, e dey consistent and we fit predict am. All the theory dem wey involve matter – weda na organic or inorganic – must dey logical, consistent and sometim wey we fit predict. De theory wey talk about how things dey relate nor fit argue say de speed wey light get go fit dey constant and e nor got fit dey constant de same time, or na one hundred and eighty six thousand kilometers e dey waka per second, and e be five kilometers for depth and na green colour.
 
-However, since moral theories apply to mankind, and mankind is organic, the degree of *empirical* consistency required for moral theories is less than that required for *inorganic* theories. All rocks, for instance, must fall down, but not all horses have to be born with only one head. Biology includes three forms of “randomness,” which are environment, genetic mutation and free will. For example, poodles are generally friendly, but if beaten for years, will likely become aggressive. Horses are defined as having only one head, but occasionally, a two-headed mutant is born. Similarly, human beings generally prefer eating to starving – except anorexics. These exceptions do not bring down the entire science of biology. Thus, since moral theories describe mankind, they cannot be subjected to exactly the same requirements for consistency as theories describing inorganic matter.
+Howeva, since moral theory dem apply to man pikin and man pikin dey organic, we nor need too much empirical consistency for moral theory as we need for inorganic theory dem. All rocks dem go fall one day but nor be all horses must come dis world with only one head. Biology get three ways way things fit happen, wey be  environment, genetic mutation and free will. For example poodle na generally friendly dog dem be, but if you maltreat dem for plenty years dem to turn aggressive. we know say horse suppose get only one head, but some times horse dey born pikin wey get two head. Na so wey man prefer to eat dan make im die of hunger – except those people wey dey fear to add weight. De exception sha nor spoil de whole science of biology. Since moral theory dey talk about man pikin, we nor fit dey look for de same amount of consistency inside every man, just like theory wey dey talk about inorganic matter.
 
-The final test that any moral theory must pass is the criterion of empirical observation. For instance, a moral theory must explain the universal prevalence of moral beliefs among mankind, as well as the divergent results of human moral “experiments” such as fascism, communism, socialism or capitalism. It must also explain some basic facts about human society, such as the fact that state power always increases, or that propaganda tends to increase as state power increases. If it fails to explain the past, understand the present and predict the future, then it must be rejected as invalid.
+De last test wey any moral theory go pass through na weda im get empirical observation. For instance moral theory must to explain how everybody for everywhere dey see wetin good or bad, and de result of d experiment of man morals wey nor blend,  wey be fascism, communism, socialism or capitalism. e must explain some fact about human society just like de fact wey say state power dey always increase, or say propaganda go always increase wen state power increase. If e come fail to explain de fact den understand de present and come predict de future, de we must reject am say e nor dey valid.
 
-#### UPB: The Practice
+#### UPB: De Practice
 
-How does all this look in practice? Let’s look at how the requirement for *universality* affects moral theories. We shall touch here on proofs and disproofs for specific moral propositions, which we shall examine in more detail in Part Two.
+Na how all dis one go look like for practice ? make we see how de  requirement for universality dey affect moral theory dem.
+For here we go talk about proof and disproof for some type of moral proposition dem, wey we go examine wella for part two.
 
-If I say that gravity affects matter, it must affect *all* matter. If even one pebble proves immune to gravity, my theory is in trouble. If I propose a moral theory that argues that people should not murder, it must be applicable to *all* people. If certain people (such as soldiers) are exempt from that rule, then I have to either prove that soldiers are *not* people, or accept that my moral theory is false. There is no other possibility. On the other hand, if I propose a moral theory that argues that all people *should* murder, then I have saved certain soldiers, but condemned to evil all those *not* currently murdering someone (including those being murdered!) – which is surely incorrect.
+If I talk say gravity dey affect matter, na all matter e go affect. If e come be say gravity affect everytin remain one small stone, dat one mean say my theory dey for trouble. If I propose one theory like dat wey dey argue say make people nor kill, na all people dis one suppose apply to. If e be say dis one come exempt some people (like soldiers), dat one mean say I go nid prove say soldiers nor be people or agree say my moral theory dey wrong. Anoda way nor dey. For de oda hand if I propose one moral theory wey argue say make people kill, den I don save some soldiers but I don turn people wey nor dey kill to bad people too (even dose people wey dem go kill) – and dis one nor correct at all.
 
-If, to save the virtue of soldiers, I alter my theory to argue that it is moral for people to murder if someone else tells them to (a political leader, say), then I must deal with the problem of universality. If Politician A can order a soldier to murder an Iraqi, then the Iraqi must also be able to order the soldier to murder Politician A, and the soldier can also order Politician A to murder the Iraqi. The application of this theory results in a general and amoral paralysis, and thus is proven invalid.
+If, I wan save de virtue of soldiers dem, I come change my theory say e dey gud make people dey kill if  anoda person (like politician) tell dem to, den I go nid to deal with de problem of how everybody see dis one. If politician A fit order say make soldier kill people from Iraq, den Iraq people suppose fit order soldiers to kill politician A, and de soldiers too go fit order politician to kill Iraq people. If we apply dis theory e go cause amoral paralysis and so dis one don cast.
 
-I also cannot logically argue that is wrong for *some* people to murder, but right for *other* people to murder. Since all human beings share common physical properties and requirements, proposing one rule for one person and the *opposite* rule for another is invalid – it is like proposing a physics theory that says that some rocks fall down, while others fall up. Not only is it illogical, it contradicts an observable fact of reality, which is that human beings as a species share common characteristics, and so cannot be subjected to opposing rules. Biologists have no problems classifying certain organisms as “human” because they share common and easily identifiable characteristics – it is only moralists who seem to find this level of consistency impossible.
+I nor fit argue say na bad thing for some people to kill, but e gud for oda people to kill. Since na all man dey share de same physical property and requirement dem, to propose one rule for one person and de opposite rule for anoda person nor make sense – e be like to propose physics rule wey say some rocks dey fall down and oda rocks dey fall go up. e nor only dey illogical but e dey contradict wetin we know already, wey be say man pikin as species dey share de same characteristics, and so dem nor fit follow two different rules. e easy for biology to say sometin na human being cos dem share de same characteristic with man pikin – na only moralist wey dey see dis level of consistency as sometin wey nor fit happen.
 
-Furthermore, if my moral theory “proves” that the same man should not murder one day, but *should* murder the next day (say, when he steps out into the Iraqi desert), then my position is even more ludicrous. That would be equivalent to arguing that *one day a rock falls downward, and the next day it falls upward!* To call this any kind of consistent theory is to make madness sanity.
+As d tori dey go, if moral theory prove say make one man nor kill one day but make im kill de next day (like when im enter desert for Iraq) den my position nor make sense at all. Dat one na like de same thing to dey argue say one day rock to fall down but de next day e go fall go up! To even call dis one any type of consistent theory  na to make craze turn sense.
 
-Since valid theories require *logical consistency*, a moral theory cannot be valid if it is both true and false at the same time. A moral theory that approves of stealing, for instance, faces an insurmountable logical problem. No moral theory should, if it is universally applied, directly eliminate behaviour it defines as moral while simultaneously creating behaviour it defines as *immoral*. If everyone *should* steal, then no one *will* steal – which means that the moral theory can never be practised. And *why* will no one steal? Well, because a man will only steal if he can *keep* the property he is stealing. He’s not going to bother stealing a wallet if someone else is going to immediately steal that wallet from him. Any moral theory proposing that “stealing is good” is also automatically invalid because it posits that property rights are both valid and invalid *at the same time*, and so fails the test of logical consistency. If I steal from you, I am saying that *your* property rights are invalid. However, I want to *keep* what I am stealing – and therefore I am saying that *my* property rights are valid. However, property rights cannot be both valid and invalid at the same time, and so this proposition itself must be invalid.
+Since na logical consistency wey valid theory need, one moral theory nor fit dey valid if e na true and na lie de same time. Moral theory wey say to steal gud , for instance, dey face big problem. Make no moral theory wen everybody use am, condemn one behaviour wey e talk say dey gud and den come bring anoda one wey e don talk say dey bad de same time. If everybody suppose steal den no body go steal – No body go practice dis one. And why person nor go steal? well, na cos man nor go steal wetin im nor go  fit keep. Man nor go waste time steal wallet if im know say anoda man go nab am from im hand. Any moral theory wey say to "steal na gud thing" don cast automatically cos e dey yarn say property rights dey valid and e nor dey valid de same time, and so im don fail de test of logical consistency. If I steal your thing I dey try tell you say your property right nor dey invalid. But I wan keep wetin I steal – and so I dey say my property right dey valid. 
+Howeva propery rights nor fit dey valid and invalid de same time and so de proposition sef nor dey valid.
 
-Similarly, any moral theory that advocates rape faces a similar contradiction. Rape can *never* be moral, since any principle that approves it automatically contradicts itself. If rape is justified on the principle that “taking pleasure is always good,” then such a principle immediately fails the test of logical consistency, since the rapist may be “taking pleasure,” but his victim certainly is *not*.[^7]
+Na so wey any moral theory wey support say rape na gud thing go face de same contradiction. Rape no fit ever be gud thing, since wey any principle wey approve am go dey contradict im sef. If dem come justify rape say cos "e gud to always take pleasure" den dat kind principle don fail de test of logical consistency, since na only de rapist go dey take pleasure but im victim go dey suffer.[^7]
 
-Thus subjecting moral theories to the scientific method produces results that conform to rationality, empirical observations and plain common sense. Murder, theft, arson, rape and assault are all proven immoral.[^8]
+And so to dey subject moral theory dem make dem follow scientific method go dey produce bring result wey agree with rationality, empirical observation and ordinary common sense. we don prove say murder, theft, arson, rape and assault na bad things.
 
-To aid in swallowing this rather large conceptual pill, below is a table that helps equate theories of physics and biology with scientific theories of universally preferable (or moral) behaviour:
+To help us swallow dis big conceptual tablet, you go see table for down wey go help us make theories of physics and biology become equal with scientific theory dem of universally preferable (or moral) behaviour: 
 
 |                            | Physics                                                                                           | Biology                                                                                      | Morality                                                                                                                      |
 |:-------------------------- |:------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------- |
-| **Subject**                | Matter                                                                                            | Organic Matter                                                                               | Preferable behaviour for mankind                                                                                              |
-| **Instance**               | A rock                                                                                            | A horse                                                                                      | A man                                                                                                                         |
-| **Sample Rule**            | Gravity                                                                                           | The desire for survival                                                                      | Self-ownership                                                                                                                |
-| **Sample Theory**          | Entropy                                                                                           | Evolution                                                                                    | Property rights                                                                                                               |
+| **Subject**                | Matter                                                                                            | Matter  wey dey organik                                                                               | Preferable behaviour for man pikin                                                                                             |
+| **Instance**               | rock                                                                                            | horse                                                                                      | A man                                                                                                                        |
+| **Sample Rule**            | Gravity                                                                                           | man pikin wan survive                                                                      | Sef-ownership                                                                                                                |
+| **Sample Theory**          | Entropy                                                                                           | Evolution                                                                                    | Property right dem                                                                                                               |
 | **Sample Classification**  | Matter/Energy                                                                                     | Repitile/Mammal                                                                              | Good/Evil                                                                                                                     |
-| **Example**                | Matter cannot be created or destroyed, merely converted to energy and back                        | If it is alive and warm-blooded, it is a mammal                                              | Stealing is wrong                                                                                                             |
-| **Hypothesis**             | Atoms share common structures and properties, and so behave in predictable and consistent manners | Organic matter has rules – or requirements – that are common across classifications          | Universally preferable behaviour shares common rules and requirements                                                         |
+| **Example**                | We nor fit create or destroy matter, wey dem just convert to energy come return am as e dey before                         | if e dey alive and im blood dey hot, na mammal e be                                              | to thief nor gud                                                                                                             |
+| **Hypothesis**             | Atom dem get de same structure and property dem, so we fit predict how dem dey behave | Organic matter dem get rules – or requirement dem – wey dey common across classification          |  Universally preferable behaviour dem dey share common rules and requirements                                                         |
 | **Proof**                  | Logical consistency, empirical verification                                                       | Logical consistency, empirical verification                                                  | Logical consistency, empirical verification                                                                                   |
-| **Negative Proof Example** | If mass does not attract mass, theories relying on gravity are incorrect                          | If organisms do not naturally self-select for survival, the theory of evolution is incorrect | If communism succeeds relative to its stated goals, theories based on the universal validity of property rights are incorrect |
+| **Example of proof wey dey negative** | If mass nor fit attract mass, theory dem wey dem on gravity nor dey correct.                          | if organism dem nor dey sef-select to survive. de theory of evolution nor dey correct | If communism come succeed as e relate to im plan, theory dem wey depend on top universal validity of property rights nor dey correct. |
 
-Table: Theories of physics and biology and of UPB
+Table: Physics And biology And UPB Theory Dem
 
-In conclusion, it is safe to say that (a) moral rules are valid, and (b) moral theories must be subjected to the rigours of logic and evidence, just as theories of physics and biology are. Any moral theory based on non-universal or self-contradictory principles is demonstrably false.
+To conclude de mata, e dey safe to talk say (a) Rules of gud and bad dey valid, and (b) Dem must put moral theory dem under the conditions  logic and evidence wey nor easy.just as theories of physics and biology dem dey. And e dey show say any moral theory wey base on non-universal or sef-contradictory principles dey false.
 
-#### UPB: The Framework
+#### UPB: De Framework
 
-UPB can thus be seen as a framework for validating ethical theories or propositions – just as the scientific method is a framework that is used to validate scientific theories or propositions.
+We fit see UPB as framework wey we go use validate ethical theory or proposition dem – just as scientific method na framework dem dey use validate scientific theory or proposition dem.
 
-An example of a moral proposition is: “the initiation of the use of force is wrong.” UPB is the methodology that tests that proposition against both internal consistency and empirical observation. UPB thus first asks: *is the proposition logical and consistent?* UPB then asks: *what evidence exists for the truth of the proposition?*
+One exmaple of moral proposition na: "say to use force nor gud". UPB na de methodology wey dey test  dat  proposition against internal consistency and empirical observation. So UPB dey frist ask: *weda de proposition dey logical or consistent ?* then UPB dey ask: which evidence dey wey we go take sabi de truth of de proposition.
 
-To keep this book at a reasonable length, we will in general deal mostly with the first criterion of logical consistency. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+To make sure say dis book nor long too much, we go generally deal with de first thing wey logical consistency need. For de second thing, we go nid to rely for de evidence on top de universal prohibition dem for every culture  wey nor support some kind actions like rape, theft, assault and murder. We fit write more things about some evidence from history wey dey help to support or reject various moral proposition, but we go leave dat tori for anoda time. If we come establish say UPB dey valid, we don achieve so much. But if we nor do am, evidence nor go fit help us.
 
-Let us now turn to the question of whether the UPB framework deals with matters of *ethics*, or *aesthetics*, or both.
+Make we turn to de question wey dey ask weda  de UPB framework dey deal with *ethic* mata or *aesthetics* mata abi na both.
 
-[^7]: The same goes, of course, for murder and assault. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
+[^7]: Na de same thing for murder and assault. We go return to de proof dem –we go do more torch lighting on top property rights – for de Part Two of dis book.
 
-[^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
+[^8]: We go fit prove Universal and positive moral rules too – as in, de universal validity of property rights and nonviolence – but we go discuss dat one for de Part Two

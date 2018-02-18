@@ -22,8 +22,8 @@ Alt-Sağ hareketi, aslında, en tanınmış temsilcisi, köşe yazarı ve en ço
 
 1. Zamanı gelince bir Liberter düzeni korumak nasıl başarılır;
 2. Liberter olmayan bir başlangıç noktasından, Liberter bir düzene nasıl ulaşılır: 
-    1. Bu başlangıç noktasını doğru tanımlamak gerekir;
-    2. Bu başlangıç noktasına göre, özgürlükçünün bitiş yolunda ortaya atılan engelleri doğru bir şekilde tespit edin.
+~~~~1. Bu başlangıç noktasını doğru tanımlamak gerekir;
+~~~~2. Bu başlangıç noktasına göre, özgürlükçünün bitiş yolunda ortaya atılan engelleri doğru bir şekilde tespit edin.
 
 Teoriye ilaveten, bu soruları cevaplamak için ek olarak insan psikolojisi ve sosyolojisi hakkında ya da en azından bir sağ duyu hakkında bilgiye ihtiyacınız olacaktır. Bununla birlikte, birçok liberter ve birçok sahte liberter insan psikolojisi ve sosyolojisini açıkça bilmiyor ya da herhangi bir sağduyu içermiyor. Tüm deneysel kanıtlara karşı, insan doğasının eşitlikçi, boş şeffaf görüşlerini körü körüne kabul ederler; tüm insanlar, bütün toplumlar ve kültürler temelde eşit ve değiştirilebilir haldedir.
 
@@ -43,7 +43,7 @@ Buna benzer anlayışların değerini göstermek için, ilk cevaplanmamış soru
 
 Birçok libertaryan, libertaryan bir sosyal düzenin korunması için gerekli her şeyin, saldırgan olmayan prensipin (SOP) katı bir şekilde uygulanması olduğunu düşünmektedir. Aksi halde, saldırgalıktan kaçınıldığı sürece, görüşlerine göre, "yaşa ve yaşat" ilkesi tutulmalıdır. Ama muhakkak, bu "yaşa ve yaşat" sesleri, ebeveyn otoritesi ve tüm toplumsal düzen ve kontrole karşı isyanda olan gençlere cazip geliyor[^16] ve bu ilke aslında birbirlerinden uzakta yaşayan ve birbirleriyle dolaylı ya da dolaysız olarak ilişkili olan insanlar için tutulup uygulanıyor, ama birbirleriyle komşu olarak yakın yerlerde yaşayan, aynı topluluğun sakinleri söz konusu olduğunda bu *tutulmuyor*, uygulanmıyor ya da oldukça *yetersiz* kalıyor.
 
-Üzerinde durmak için basit bir örnek yeterlidir. Yeni bir komşunuz olduğunu varsayın. Bu komşu size ya da sizin özel mülkiyetinize karşı saldırıda bulunmaz, ama o "kötü" komşudur. Kendi mülküne pisleterek çöp yığını haline getirir; herkesin görebileceği yerde hayvan katliamı ritualleri yapar, evini bir geneleve dönüştürür, müşterileri gece gündüz gelip gider; hiçbir zaman yardım eli teklif etmez ve verdiği herhangi bir sözü tutmaz; sizin dilinizde konuşamaz ya da konuşmayı reddeder. Vb., vb.. Hayatınızı bir kabusa dönüştürdü. Oysa ona karşı şiddet kullanamazsınız, çünkü size karşı saldırmadı. Ne yapabilirsin? Kaçabilirsin veya onu uzaklaştırabilirsin. Ancak komşunuzun umurunda değilse ve her halükârda yalnız başınıza ona "cezalandırma" yaparsanız onda bir fark yaratmazsınız. Toplulukta saygınlıgınız ve yetkiniz olmalı ya da herkesi en azından içinde bulunduğunuz topluluğun üyelerinin çoğunu aynı şekilde davranmaya ikna etmelisiniz ve kötü komşuya mülkünü satması veya terk etmesi için toplumsal bir dışlama uygulamalısınız.
+Üzerinde durmak için basit bir örnek yeterlidir. Yeni bir komşunuz olduğunu varsayın. Bu komşu size ya da sizin özel mülkiyetinize karşı saldırıda bulunmaz, ama o "kötü" komşudur. Kendi mülküne pisleterek çöp yığını haline getirir; herkesin görebileceği yerde hayvan katliamı ritualleri yapar, evini bir geneleve dönüştürür, müşterileri gece gündüz gelip gider; hiçbir zaman yardım eli teklif etmez ve verdiği herhangi bir sözü tutmaz; sizin dilinizde konuşamaz ya da konuşmayı reddeder. Vb., vb.. Hayatınızı bir kabusa dönüştürdü. Oysa ona karşı şiddet kullanamazsınız, çünkü size karşı saldırmadı. Ne yapabilirsin? Kaçabilirsin veya onu uzaklaştırabilirsin. Ancak komşunuzun umurunda değilse ve her halükârda yalnız başınıza ona "cezalandırma" yaparsanız onda bir fark yaratmazsınız. Toplulukta saygınlıgınız ve yetkiniz olmalı ya da herkesi en azından içinde bulunduğunuz topluluğun üyelerinin çoğunu aynı şekilde davranmaya ikna etmelisiniz ve kötü komşuya mülkünü satması veya terk etmesi için toplumsal bir dışlama uygulamalısınız.[^17]
 
 Ders? Komşuların ve bazı yerleşimlerde düzenli olarak doğrudan temas halinde olan kişilerin barış içinde birlikte yaşaması - huzurlu, keyifli bir toplumsal düzen - dil, din ve geleneğin ortak bir kültürünü gerektirir. Fiziksel olarak ayrı topraklarda farklı kültürlerin barışçıl bir şekilde bir arada var olması mümkündür, ancak çok kültürlülük, kültürel heterojenlik, azalan sosyal güven, ve artan gerginlik bir arada yaşamayı imkansız kılar "güçlü bir adam" doğurabilir ve bu da liberter toplumsal düzeni andıran her şeyin tahrip edilmesi demektir.
 
@@ -68,8 +68,8 @@ Bununla birlikte, gerçek dünyada eşitlikçi fantezi topraklar dışında, lib
 Bunlar:
 
 1. Özellikle "Derin Devlet" ya da orduya ait "Katedral", gizli servisler, merkez bankaları ve yüksek mahkemeler olarak adlandırılan Devlet kurumunun denetiminde egemen seçkinler. Ayrıca şunları içerir: 
-    1. Askeri-sanayi kompleksinin, diğer bir deyişle, varlığını kendi ürünlerinin sınırlanmış veya hakim alıcısı olarak Devlete borçlu olan nominal olarak özel firmaların liderleri;
-    2. Para ve kredi yaratma ayrıcalığını merkez bankasının varlığına borçlu olan ve "son çare ödünç verme" rolü oynayan büyük ticari bankaların liderleri. Devlet, Büyük İşletmeler ve Büyük Bankacılıklar, bir arada, vergi mükelleflerinin büyük bir kısmını ortaklaşa sömürüp küçük bir "karşılıklı hayranlık toplumu" oluştursa da son derece güçlü bir şekil oluşturuyorlar ve masraflarını karşılamak için büyük zaman harcıyorlar.
+~~~~1. Askeri-sanayi kompleksinin, diğer bir deyişle, varlığını kendi ürünlerinin sınırlanmış veya hakim alıcısı olarak Devlete borçlu olan nominal olarak özel firmaların liderleri;
+~~~~2. Para ve kredi yaratma ayrıcalığını merkez bankasının varlığına borçlu olan ve "son çare ödünç verme" rolü oynayan büyük ticari bankaların liderleri. Devlet, Büyük İşletmeler ve Büyük Bankacılıklar, bir arada, vergi mükelleflerinin büyük bir kısmını ortaklaşa sömürüp küçük bir "karşılıklı hayranlık toplumu" oluştursa da son derece güçlü bir şekil oluşturuyorlar ve masraflarını karşılamak için büyük zaman harcıyorlar.
 2. En büyük akademik düzeyden, ilkokul ve ana okullarına kadar aydınlar ve "eğitimciler" den oluşan ([A] çok daha büyük düşman grupları oluşur). Devlet tarafından direk yada dolaylı olsun hemen hemen münhasıran finanse edilmişler ezici çoğunlukları ile, yönetici elitin elinde ve onların mutlak güç ve tam kontrol tasarımında yumuşak araçlar ve istekli cellatlar haline gelir.
 3. MSM gazetecileri, "halk eğitimi" sisteminin uysal sonuçları, hükümetin korkak alıcıları ve popülerleştiricileri olarak "bilgi" verirler.
 
@@ -157,6 +157,8 @@ Nitekim, *academia* ve akademik dünyanın sosyal değişim için bir özgürlü
 [^15]: An endeavor, by the way, that has been ridiculed by Taki Theodoracopulos, a veteran champion of the paleo-conservative-turned-Alt-Right movement and Spencer’s former employer.
 
 [^16]: Birçok genç başlangıçta özgürlükçülüğe çekindiler ve bunun "özgürlükçü yaşamak ve yaşatmak" ın özgürlüğün özü olduğuna inanmaktadırlar.
+
+[^17]: So much for the libertarians who, in addition to their “live and let live” ideal also hail the motto “respect no authority!”.
 
 [^18]: Birkaç "egzotik" kişi tarafından zekice oynamak veya zihinsel jimnastik yapmak dışında.
 

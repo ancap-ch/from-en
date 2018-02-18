@@ -22,8 +22,8 @@ Ngayon: Paano na ang tungkol sa ugnayang namamagitan sa libertaryanismo at ang A
 
 1. Paano naipapanatili ang order bilang libertaryano kung ito ay naitamo na;
 2. Paano matatamasa ang order ng pagkakalibertaryano mula sa pansimulang punto ng isang hindi libertaryano, na kung saan ito ay nangangailangang: 
-    1. Ang isang iyan ay dapat maiwasto para mai-deskrayb sa panimulang puntong;
-    2. I-identipika ng wasto ang mga obstakel na nag-aanyo sa pamamaraang ang isang libertaryano ay nagtatapos sa pinakapansimulang puntong ito.
+~~~~1. Ang isang iyan ay dapat maiwasto para mai-deskrayb sa panimulang puntong;
+~~~~2. I-identipika ng wasto ang mga obstakel na nag-aanyo sa pamamaraang ang isang libertaryano ay nagtatapos sa pinakapansimulang puntong ito.
 
 Para makapagsago sa mga kwestiyon na ito, sa pagkakadagdag sa teorya, ikaw ay nangangailangan ng iilan sa mga aralin ng saykolohiya at sosyolohiya ng tao o higit pa sa kaunting sentidong common. Sa ngayon maraming mga libertaryano at mga pekeng libertaryano ay isang ignorante lamang sa saykolohiya at sosyolohiya ng tao o kahit na yung kinuhaan ng anumang sentido komon. Parang bulag nilang tinatanggap, kasalungat sa lahat ng ebidensyang empirikal, isang egalitaryani, slate-na-blangko na pananaw ng sa katauhang natura, ng lahat ng mga tao at lahat ng mga sosyedad at mga kulturang napakaesensyal sa pagkakapantay-pantay at pagpapalit.
 
@@ -43,7 +43,7 @@ To illustrate the importance of such insights, let me take the first unanswered 
 
 Many libertarians hold the view that all that is needed to maintain a libertarian social order is the strict enforcement of the non-aggression principle (NAP). Otherwise, as long as one abstains from aggression, according to their view, the principle of “live and let live” should hold. Yet surely, while this “live and let live” sounds appealing to adolescents in rebellion against parental authority and all social convention and control[^16], and while the principle does indeed hold and apply for people living far apart and dealing with each other only indirectly and from afar, it does *not* hold and apply, or rather it is *insufficient*, when it comes to people living in close proximity to each other, as neighbors and cohabitants of the same community.
 
-A simple example suffices to make the point. Assume a new next-door neighbor. This neighbor does not aggress against you or your property in any way, but he is a “bad” neighbor. He is littering on his own neighboring property, turning it into a garbage heap; in the open, for you to see, he engages in ritual animal slaughter, he turns his house into a “Freudenhaus,” a bordello, with clients coming and going all day and all night long; he never offers a helping hand and never keeps any promise that he has made; or he cannot or else he refuses to speak to you in your own language. Etc., etc.. Your life is turned into a nightmare. Yet you may not use violence against him, because he has not aggressed against you. What can you do? You can shun and ostracize him. But your neighbor does not care, and in any case you alone thus ‘punishing’ him makes little if any difference to him. You have to have the communal respect and authority, or you must turn to someone who does, to persuade and convince everyone or at least most of the members of your community to do likewise and make the bad neighbor a social outcast, so as to exert enough pressure on him to sell his property and leave.
+A simple example suffices to make the point. Assume a new next-door neighbor. This neighbor does not aggress against you or your property in any way, but he is a “bad” neighbor. He is littering on his own neighboring property, turning it into a garbage heap; in the open, for you to see, he engages in ritual animal slaughter, he turns his house into a “Freudenhaus,” a bordello, with clients coming and going all day and all night long; he never offers a helping hand and never keeps any promise that he has made; or he cannot or else he refuses to speak to you in your own language. Etc., etc.. Your life is turned into a nightmare. Yet you may not use violence against him, because he has not aggressed against you. What can you do? You can shun and ostracize him. But your neighbor does not care, and in any case you alone thus ‘punishing’ him makes little if any difference to him. You have to have the communal respect and authority, or you must turn to someone who does, to persuade and convince everyone or at least most of the members of your community to do likewise and make the bad neighbor a social outcast, so as to exert enough pressure on him to sell his property and leave.[^17]
 
 The lesson? The peaceful cohabitation of neighbors and of people in regular direct contact with each other on some territory – a tranquil, convivial social order – requires also a commonality of culture: of language, religion, custom and convention. There can be peaceful co-existence of different cultures on distant, physically separated territories, but multi-culturalism, cultural heterogeneity, cannot exist in one and the same place and territory without leading to diminishing social trust, increased tension, and ultimately the call for a “strong man” and the destruction of anything resembling a libertarian social order.
 
@@ -68,8 +68,8 @@ Outside egalitarian phantasy lands, however, in the real world, libertarians mus
 They are:
 
 1. The ruling elites in control of the State apparatus and in particular the “Deep State” or the so-called “Cathedral” of the military, the secret services, the central banks and the supreme courts. As well, they include: 
-    1. The leaders of the military-industrial complex, i.e., of nominally private firms that owe their very existence to the State as the exclusive or dominant buyer of their products;
-    2. The leaders of the big commercial banks, which owe their privilege of creating money and credit out of thin air to the existence of the central bank and its role as a “lender of last resort”. They together, then, State, Big-Business and Big-Banking, form an extremely powerful even if tiny “mutual admiration society,” jointly ripping off the huge mass of tax-payers and living it up big time at their expense.
+~~~~1. The leaders of the military-industrial complex, i.e., of nominally private firms that owe their very existence to the State as the exclusive or dominant buyer of their products;
+~~~~2. The leaders of the big commercial banks, which owe their privilege of creating money and credit out of thin air to the existence of the central bank and its role as a “lender of last resort”. They together, then, State, Big-Business and Big-Banking, form an extremely powerful even if tiny “mutual admiration society,” jointly ripping off the huge mass of tax-payers and living it up big time at their expense.
 2. ([A] much larger group of enemies is made up of) the intellectuals, educators and “educrats,” from the highest levels of academia down to the level of elementary schools and kindergartens. Funded almost exclusively, whether directly or indirectly, by the State, they, in their overwhelming majority, have become the soft tools and willing executioners in the hands of the ruling elite and its designs for absolute power and total control.
 3. The journalists of the MSM, as the docile products of the system of “public education,” and the craven recipients and popularizers of government “information.”
 
@@ -157,6 +157,9 @@ Just as *academia* and the academic world cannot be expected to play any signifi
 [^15]: An endeavor, by the way, that has been ridiculed by Taki Theodoracopulos, a veteran champion of the paleo-conservative-turned-Alt-Right movement and Spencer’s former employer.
 
 [^16]: Many youngsters have been initially attracted to libertarianism believing that this “live and let live” is the essence of libertarianism.
+
+[^17]: So much for the libertarians who, in addition to their “live and let live” ideal also hail the motto “respect no authority!”.
+
 
 [^18]: Except as some idle intellectual play or mental gymnastics by a few “exotic” individuals.
 
