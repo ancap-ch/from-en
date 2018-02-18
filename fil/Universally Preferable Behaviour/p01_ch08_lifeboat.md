@@ -28,7 +28,7 @@ Sa larangan ng "grey na mga lugar," meron lang talaga na tatlong posibilidad.
 
 Malinaw, ang isang opsyon na madaling maitapon. Ang tatlong opsyon ay medyo madali para itapon. Ang pahayag "ang lahat ng kaalaman ay grey ares" ay isang sariling-detonating proposition, gaya ng nakita natin sa itaas, sa parehas na paraan na "ang lahat ng pahayag ay kasinungalingan" para din sa sariling-detonates.
 
-Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
+Kaya kailangan natin pumunta sa opsyon na dalawa, na ang ilang mga grey na lugar ay umiiral, at alam namin na ang ito ay grey na may kinalaman sa lugar na walang umiiral na grey oxgen sa space, at pati sa ilalim ng tubig, pero hindi sa isang anyo o dami ng pwedeng makunsumo ng mga tao. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
 
 A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
 
