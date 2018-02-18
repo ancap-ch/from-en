@@ -10,9 +10,9 @@ Ito ay hindi na sabihin na ang pagsira sa bintana para iligtas ang iyong buhay a
 
 ### Grey na lugar
 
-Ang katotohanan ng tiyak “grey areas” ang etika na umiiral sa larangan ay ginagamit ng madalas bilang pagbibigay-katarungan para sa ranggo ng mga relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+Ang katotohanan ng tiyak “grey areas” ang etika na umiiral sa larangan ay ginagamit ng madalas bilang pagbibigay-katarungan para sa ranggo ng mga relativism. Mula nong okasyon ang mga ilang bagay ay nananatiling hindi klaro (hal. sino ang nagpasimuno na gumawa ng karahasan), at dahil ito ay imposibleng matukoy ang ang mga layunin at ang eksaktong patakaran para sa ng bawat conceivable na sitwasyon ang konklusyon ay palaging iguhit ng walang makakaya *ever* alamin para sa certain, at walang layunin na umiiral sa mga patakaran *any* sa sitwasyon.
 
-This is false.
+Hindi ito totoo.
 
 All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
 
