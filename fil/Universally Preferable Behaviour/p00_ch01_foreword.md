@@ -30,7 +30,7 @@ Sa pangkaisipan, walang mas mataas na gantimpala sa mundo. Ang ating kabiguan na
 
 Sa maraming paraan, ang mga gantimpala ay lalong tumataas.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+Ang lumalaking daloy ng impormasyon ng Internet ang nagpataas ng mga suspetsa ng isang bagong henerasyon na ang tinatawag na "kabutihan" ay wala ng higit pa o mas mababa kaysa sa pansariling kwentong engkanto ng kanilang mapagpaimbabaw na mga matatanda. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
 
 “Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
 
