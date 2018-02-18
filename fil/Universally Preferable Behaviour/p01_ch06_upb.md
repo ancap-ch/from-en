@@ -41,9 +41,9 @@ Tulad ng aming tinalakay sa itaas, ang pagpasok sa anumang debate ay nangangaila
 
 Lahat tayo ay may mga kagustuhan – mula lamang sa personal (“Gusto ko ng ice cream”) sa mga mas gusto sa lipunan (“Maganda sa oras”) sa unibersal na moralidad (“Huwag kang mamatay”).
 
-There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
+Mayroong maliit na punto na nagsusulat ng isang libro tungkol sa mga personal na kagustuhan – at maari naming i-on ang Ann Landers para sa isang talakayan ng mas mahusay na pag-uugali sa lipunan – dito, pagkatapos, kami ay tumutuon sa posibilidad ng *Higit sa lahat mas mainam na Pag-uugali*.
 
-### Choice
+### Pagpili
 
 If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
 
