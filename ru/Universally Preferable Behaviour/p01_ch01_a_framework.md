@@ -1,96 +1,96 @@
-## A Framework For Ethics
+## Рамки Этики
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Этические положения отличаются от других типов заявлений о знаниях. Если я говорю: "мне нравится джаз", это может быть правдой или ложью, но это вообще не считается обязательным для вас каким-либо образом. Мое предпочтение джазу - это просто выражение личной любви; основываясь на моем заявлении, Вы не обязаны любить, и не любить джаз.
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+Точно так же, если я говорю “мне нравятся овощи”, это также простое заявление о личных предпочтениях. Однако, если я говорю: "овощи это здоровая пища", то я перешел от высказывания личного предпочтения к утверждению объективного факта. Это разница между “я люблю мороженое” и “мороженое содержит молоко.”
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+Принципиальное различие между утверждениями *предпочтения* и утверждениями *факта* заключается в том, что утверждения факта являются объективными, проверяемыми и обязательными. Если Вы цените правду, то вы обязаны принять тот факт, что мороженое содержит молоко, как только это будет доказано.[^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Если я говорю, что земля круглая, и я предоставляю достаточно доказательств для этого утверждения, вам больше не решать по вашей собственной прихоти, верно ли это утверждение. Если я докажу, что земля круглая, тогда ты примешь ее как истинную, если только не будешь отвергать разум и доказательства в качестве критериев истины.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+Если я принимаю действительность математических законов, я не могу произвольно отклонить математическое доказательство, которое соответствует этим законам. Если я отклоню такое доказательство, я больше не могу утверждать, что принимаю действительность математических законов. Мое принятие этих законов означает, что я *обязан* принять в качестве действительных те доказательства, которые соответствуют этим законам. Отказ от доказательства, соответствующего рациональным стандартам, является отказом от рациональных стандартов в целом.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+Научный метод, сама рациональность и математические законы являются примерами *объективных* критериев для установления истины предложения. Не мое мнение, что два и два делают четыре если вы также принимаете, что два и два делают четыре, вы подчиняете себя не моему простому мнению, а рациональной истине.
 
-### Objective Truth
+### Объективная Истина
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+Центральной проблемой в понимании природы истины является осознание того, что “правда” не существует в мире так же, как рок или дерево.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+Понятие "истина" является относительным термином, хотя это не означает субъективность или произвольность термина. Понятие "здоровье“также относительное – мы сравниваем ”здоровье" с болезнью, а также с относительными стандартами здоровья. То, что считается ”хорошим здоровьем" для девяносто летнего, вряд ли будет считаться хорошим здоровьем для двадцатилетнего. Определение долгой жизни сейчас сильно отличается от того, что было пятьсот лет назад.
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
+Однако это не означает, что понятие “здоровье” является полностью относительным и субъективным. Десятилетняя смерть от лейкемии нездорова по любому определению - так же, как двадцатилетний марафонец здоров по любому определению. В настоящее время человек, который живет до девяноста лет, статистически имел долгую жизнь, хотя это изменилось бы, если бы медицинские технологии внезапно позволили нам жить до двухсот.
 
-As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
+Поскольку наше определение “здоровья” расширяется, оно не отменяет более ранние определения, а расширяет их. Если медицинская технология позволит девяностолетним людям выиграть марафоны, то наше определение того, что является здоровым для пожилых людей, изменится – но это не означает, что двадцатилетний марафонец внезапно становится нездоровым. Обучения алгебры не отменяет арифметику.
 
-Truth also has value relative to necessity as well. Newtonian physics has been supplanted by Einsteinian physics, which has proven far more accurate in extreme situations such as extraordinarily high gravity or speed. However, sailors wishing to calculate the correct path across an ocean find Newtonian physics more than accurate enough. You wouldn’t want to send a spaceship to Alpha Centauri using Newtonian physics, but it is totally fine for getting a ship from Lisbon to New York. The labour involved in learning and implementing Einsteinian physics is thus a net negative for a sailor.
+Истина также имеет значение относительной необходимости. Ньютоновская физика была заменена эйнштейновской физикой, которая оказалась гораздо более точной в экстремальных ситуациях, таких как необычайно высокая гравитация или скорость. Однако моряки, желающие рассчитать правильный путь через океан, находят ньютоновскую физику более чем точной. Вы не хотели бы отправлять космический корабль в Альфа Центавру, используя ньютоновскую физику, но это совершенно нормально для получения корабля из Лиссабона в Нью-Йорк. Таким образом, труд, связанный с изучением и внедрением эйнштейновской физики, является чистым негативом для моряка.
 
-As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+В результате предложение "Ньютоновская физика менее точна, чем эйнштейновская физика, но ньютоновская физика лучший способ вычислить путь корабля” можно считать верным предложением. Таким образом, ньютоновская физика является как *менее точной*, и *более подходящей*.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+Если бы мы хотели пить чистейшую воду, мы, вероятно, заплатили бы тысячи долларов за бутылку. Если бы мы не были чрезвычайно богаты и легкомысленны, мы бы никогда не заплатили столько, чтобы утолить нашу жажду. Действительно, чистая вода лучше для нас, но цена, которую требует чистота, достигает порога снижения отдачи. Таким образом, "чище лучше" уступает место "чище хуже.”
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+Опять же, это не означает, что чистота воды совершенно субъективна. Дистиллированная вода всегда более портативна чем морская вода.
 
-#### Truth And Objective Reality
+#### Истина и Объективная Реальность
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+Понятие *правда* обязательно предполагает понятие *точность*. Если я пытаюсь стрелять стрелой в бычий глаз, точность моего выстрела определяется тем, как далеко моя стрела приземляется от центра.
 
-What, then, is the “bull’s-eye” of truth?
+Что же такое” бычий глаз " истины?
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+Ну, *правда* заявления поддается измерению относительно его соответствия объективной реальности.
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+Отложив в сторону проблемы языка на данный момент, если я указал на чайку и скажу, “что это наковальня,” я явно ошибся бы, потому что наковальни являются органическими, и не могут летать. Истинная ценность моего заявления измеряется относительно объективных фактов реальности. Поскольку чайка на самом деле не наковальня, мое заявление не соответствует действительности.
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+Естественно, это уравнение между истиной и реальностью требует чтобы язык и наши чувства считались относительно объективными. Есть много веских причин полагать, что и язык, и смысл доказательства на самом деле объективны; мы могли бы попасть в сложную дискуссию об этом, но достаточно сказать, что, поскольку вы используете свои глаза, чтобы прочитать книгу, написанную на человеческом языке, мы можем, по крайней мере, согласиться с тем, что ваши глаза и язык, которым мы делимся, по крайней мере достаточно объективны для вас, чтобы точно обработать то, что я пишу. Если это не так, нам не о чем говорить, и вы все равно ничего не поняли, что я написал, поэтому это предложение будет столь же бессмысленным, и, возможно, также было представлено в “Wingdings”.
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+Предполагая, что вы можете сказать, разница между этими двумя шрифтами сверху, мы можем продолжить.
 
-#### Accuracy And Consistency
+#### Точность и Последовательность
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+Для меня невозможно точно нарисовать облако, так как за время, необходимое для его рисования, облако постоянно меняется. Я могу точно нарисовать *фотографию* облака, которое застыло во времени.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+Если я провожу час, пытаясь нарисовать облако, а затем я спрашиваю вас, является ли моя картина точным представлением этого облака, вы должны обязательно ответить, что это не так.
 
-In other words, where there is no consistency, there can be no accuracy.
+Другими словами, там, где нет согласованности, не может быть точности.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Когда мы мечтаем ночью, наше восприятие заключается в том, что правила “материи” и “энергии” находятся в постоянном состоянии потока – мы невосприимчивы к гравитации, а затем летим на спине слона, и тогда мы можем ходить по стенам. Разработать “научную физику сновидений” нет больше возможности, чем точно окрасить облако.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+Логика, наука и истина, таким образом, невозможна в отсутствие *последовательности*.
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+По существу, законы логики проистекают из поведения материи и энергии, по крайней мере на уровне восприятия. Если я скажу вам бросить мяч как вверх, так и вниз одновременно, я прошу невозможного, что вы можете легко проверить, пытаясь выполнить мою просьбу. Если я скажу вам пахать одновременно в Северное поле, и в Южное поле, вы не сможете подчиниться. Если я потребую, чтобы ты превратил розу в осла, мое требование никогда не будет выполнено.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+Перцептивная реальность последовательна и объективна - и именно от этой последовательности и объективности мы выводим законы логики. Наши заявления о реальности могут только точно *представлять* реальность как прямой результат этой последовательности и объективности.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+Тот факт, что чайки не превращаются произвольно в наковальни – или наоборот – является корнем нашей способности точно судить заявление: "это Чайка." Если бы чайки спонтанно и постоянно меняли свою природу, мы бы не смогли сделать ни истинных, ни ложных заявлений или что-либо в этом отношении.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+В этом корень ключевого критерия научного метода - воспроизводимость. Если я сделаю универсальное утверждение о природой гравитации, тогда вы сможете воспроизвести это утверждение в своей собственной среде. Если бы реальность была *не* последовательной, то воспроизводимость была бы иррациональным критерием установления истины.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+Если бы вы были учителем математики, вы бы вряд ли приняли неправильный ответ от ученика, даже если бы этот студент утверждал, что его ответ был “правильным”, когда он его записывал, но просто как-то изменился за это время.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Таким образом, мы можем согласиться с тем, что мы должны оценивать действительность заявления относительно объективной реальности – как эмпирически, так и логически. Логика как дисциплина возникает только в результате согласованности реальности; эмпирические наблюдения также действительны или недействительны только в результате последовательной природы реальности.
 
-### The Existence Of "Truth"
+### Существование "Истины"
 
-Truth, then, can be measured according to two central criteria:
+Правду, можно измерить по двум центральным критериям:
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+1. Истина является мерой соотношения между идеями в нашем сознании и последовательностью рациональности, которая непосредственно вытекает из последовательного поведения материи и энергией в реальном мире.[^2]
+2. Истина также является мерой соотношения между идеями в нашем сознании и природой и поведением материи и энергией в реальном мире.[^3]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality. Первой критерией является мера согласованности идей с собой – и такая последовательность является требованием, поскольку реальность согласуется сама с собой. Если я говорю: "я не существую", это пример идеи, которая не соответствует самой себе, поскольку я должен существовать, чтобы произнести предложение. Второй критерий это мера точности идей относительно эмпирических наблюдений объективной реальности.
 
-#### Empiricism Versus Rationality
+#### Эмпиризм в отличие от Рационализма
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+Эмпиризм можно рассматривать как способность инстинктивно ловить брошенный шар или измерять его движение; рациональность это способность предсказывать и понимать путь, который бал примет на основе универсальных принципов. Ясно, что если бы шары случайным образом шли в любом направлении – и волшебным образом превращались в стаи голубей, чтобы загрузиться, – мы были бы совершенно не в состоянии предсказать их поведение.
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Таким образом, поскольку материя подчиняется непреложным законам, наши теории *о* материи также должны подчиняться неизменяемым законам. Если я ничего не знаю о бейсболе, но смотрю бейсбольную игру, где игроки всегда подчиняются правилам, было бы неразумно для меня формулировать теорию о правилах бейсбола, которая прямо противоречит поведению игроков, которых я наблюдал. Поскольку действия игроков последовательны, *любая теория, которую я разрабатываю в отношении правил, которые направляют эти действия, также должна быть последовательной*.
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+Это требование для последовательности является одним из самых основных требований для истины. Поскольку реальность последовательна, теории относительно реальности также должны быть последовательны.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+На самом деле, первое препятствие, которое должна преодолеть любая теория это проблема *внутренней согласованности*.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^1]: Если вы не цените правду, вы никогда не будете в этой дискуссии – или любой другой дискуссии – в первую очередь!
 
-[^2]: Rational consistency, or internal logic.
+[^2]: Рациональная согласованность, или внутренняя логика.
 
-[^3]: Empirical evidence, or empiricism.
+[^3]: Эмпирические доказательства, или эмпиризм.
