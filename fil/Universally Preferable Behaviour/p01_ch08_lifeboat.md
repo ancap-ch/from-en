@@ -14,7 +14,7 @@ Ang katotohanan ng tiyak “grey areas” ang etika na umiiral sa larangan ay gi
 
 Hindi ito totoo.
 
-All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
+Lahat ng kinikilalang makatwirang tao na ang biyolohikal ay balidong agham, sa kabila ng patunay na ang ilang hayop ay ipinanganak ng may mga “one-off” na mutasyon. Ang patunay na ang aso ay pwedeng ipanganak na may limang binti ay nangangahulugan na “canine” ay nagiging isang kumpletong ganap na kategorya. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
 
 For some perverse reason, intellectuals in particular take great joy in the wanton destruction of ethical, normative and rational standards. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
 
