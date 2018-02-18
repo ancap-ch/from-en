@@ -20,7 +20,7 @@ Kung hindi ako reponsable sa aking pagsasalita, at pagkatapos ay wala akong punt
 
 Ang katawa-tawang larawan ay tumpak sa isang kahulugan bagaman – kung ang iba pang pagkatao ay may ganap na kontrol sa vocal chords ng batang babae, ito ay ang kung saan kailangang matugunan, hindi ang babae, na walang kontrol sa kanyang mga tugon.
 
-Kaya kung sasabihin ko sa iyo na wala akong kontrol sa aking pananalita, maaari mo akong tanungin: sino ang? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
+Kaya kung sasabihin ko sa iyo na wala akong kontrol sa aking pananalita, maaari mo akong tanungin: sino ang? Kung ako ay tumugon na walang sinuman, ito ay gumagawa ng labis na pakiramdam upang makipagtalo sa akin tulad ng pagtatalo sa isang telebisyon, o ang nabanggit na bato habang ito ay bumababa sa isang dalisdis ng bundok patungo sa iyo kotse.
 
 Thus the very act of controlling my body to produce speech demands the acceptance of my ability to control my speech – an implicit affirmation of my ownership over my own body.
 
