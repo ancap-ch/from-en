@@ -94,7 +94,7 @@ Sa parehong paraan, tao ang nagsabi na Ang pagbubuwis ay bahagi ng kontrata sa l
 
 Ito ay parehong lohikal at empirikaly na Hindi totoo.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Alam natin na ito ay empirically Hindi totoo dahil * walang mga kontrata sa lipunan ang lumitaw*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
 
 ### The Gun In The Room
 
