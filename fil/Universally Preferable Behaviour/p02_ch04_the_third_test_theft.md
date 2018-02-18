@@ -38,9 +38,9 @@ Dahil sa pagmamay-ari namin ang aming mga katawan, hindi rin kami namimili ng mg
 
 Kahit na tanggihan namin ang nasa itaas, maaari parin naming gamitin ang UPB upang tiyak na igiit ang pag-iral ng mga pang kalahatang karapatan sa pag-aari.
 
-As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
+Tulad ng nabanggit sa itaas, ang mga tao ay may mga karapatan sa pag-aari, o hindi. Maliban sa ilang mga kulay-abo na lugar, na makukuha namin sa ilang sandali, ito ay nananatiling isang pandaigdigang panukala.
 
-If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
+Kung ang isang lalaki ay walang karapatan na gumamit ng ari-arian, pagkatapos ay wala siyang karapatang gamitin ang kanyang sariling katawan. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
 
 It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
 
