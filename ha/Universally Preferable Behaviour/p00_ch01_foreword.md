@@ -1,58 +1,58 @@
-## Foreword
+## Gabatarwar
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+A yawancin labarun, akwai mummunan dabba na iko mai girma, dragon ko basilisk, wanda ke mamaye ƙasashe. Mazauna yankunan suna rawar jiki a gaban wannan dodon; suna yanka dabbobinsu, suna biyan kuɗi da jini a cikin fata kwantar da hankali akan kisan da dodon ke yi.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Yawancin mutane suna cin zarafin wannan dabba, suna kiran tsoronsu "hankali," amma 'yan - sunyi watsi da ƙarfin zuciya ko rashin girman kai - yanke shawarar yin yaki. A kowace shekara, shekaru goma bayan shekaru goma, kalaman bayan kafofin watsa labaran da suka yi fatan za su yi kokarin daidaita ikonsu, kyawawan dabi'u da kuma yaudarar wannan mummunar kisa.
 
-Try – and fail.
+Yin kokari da kuma rashin nasara
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Dabba yana da rai kullum, saboda haka 'yan kyauyen ba sa fatan samun lokaci don kawar da su. Dabba din ba shi da ma'ana, kuma ba shi da sha'awar kasuwanci, don haka babu tattaunawa da shi
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Fatan ya kyauyen shine wani mutum ya fito wanda zai iya kayar da dodon.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Babu shakka, wani mutum zai fito wanda ya bugi kowa da kowa kamar yadda ya zama abin mamaki. Ya kasance ɗa namiji ne, ɗan ɗaƙa, mai ba da burodi - ko kuma wani lokaci, kawai mai tsaka.
 
-This book is the story of my personal assault on just such a beast.
+Wannan littafi shine labari na tayar da kaina a kan irin wannan dabba.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Wannan "dabba" shine gaskatawar cewa ba zai iya yiwuwa a bayyana tsarin dabi'a ba, mai hikima, na al'ada da kimiyya. Wannan "dabba" shine ruhohin cewa halin kirki dole ne har abada ya ɓace a cikin sabanin gumakan alloli da gwamnatoci, wanda aka sanya shi don kawai aikin mai dalilai, amma har abada bata da hujja na gaskiya da kuma cikakkiyar ma'anar. Wannan "dabba" shine kyawawan dabi'un da ke da kyau, farin ciki mafi girma, farin ciki mafi zurfi, dole ne muyi watsi da masu girma, kuma mu bar a cikin turɓaya wanda za a yi amfani da shi a cikin, yayinda 'yan siyasa da firistoci - da iyayensu suka yi amfani da su. Wannan "dabba" ita ce kamfi cewa, ba tare da iyaye ba, da cin zarafi na alloli ko bindigogi na gwamnatoci, ba za mu iya kasancewa mutane mai kyau ko masu hankali ba.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Wannan dabba ya kayar da manyan jarumi, daga Socrates zuwa Plato zuwa Augustine zuwa Hume zuwa Kant zuwa Rand.
 
-The cost to mankind has been enormous.
+Kudin da ya shafi 'yan adam ya kasance mai yawa
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Tun da yake mun kasance ba za mu iya bayyana tsarin dabi'a na duniya ba, an tilasta mana muyi mummunar labarun addini game da 'ya'yanmu, ko kuma su ba da bindigogi, gidan yari da rundunonin soja ga kananan ƙididdigar masu kula da marasa rai da suke kira kansu "jihar."
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Tun da abin da muke kira "ka'idoji" ya kasance batun mutum ne kawai kuma kawai al'adu, zamu iya dogara ga zalunci, tsoro da tashin hankali don tabbatar da dokokin zamantakewa. Tun da yake ka'idoji ba su da tushe na hanyar kimiyya, "halin kirki" yana cigaba da kasancewa a cikin fadace-fadace na jinin kabilanci, kowace ƙungiya tana fada da hakori da ƙusa don kula da mutuntaka ga "mutunci.”
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Ba zamu iya rayuwa ba tare da dabi'ar kirki ba, amma ba zamu iya bayyana dabi'ar kirki ba bisa ga gaskiya - saboda haka za mu zama masu hukunci har abada ga rayuka na munafurci, ma'anar jinsin zuciya ko bauta ta gaskiya.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+A hankali, babu matakan da suka fi girma a duniya. Rashin gazawar zancen ka'idoji na dabi'u da halayyar kirki sun kashe daruruwan miliyoyin rayukan mutane, a yake-yake addinai da jihar.
 
-In many ways, the stakes are getting even higher.
+A hanyoyi da dama, tarin kasada suna karuwa.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+Ƙarin bayani game da yanar-gizon ya haifar da tsammanin wani sabon zamani cewa abin da ake kira "nagarta" ba kome ba ne - ko kasa- fiye da labarun masu bautar na dattawan munafukai. Karyan da wadanda suke da iko suka fadi - da kuma tausin wadanda suke bauta musu - sun fi bayyane a yanzu fiye da baya.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+"Gaskiya" an bayyana shi kamar yadda ake sarrafawa; "Nagarta" a matsayin iko; "Biyayya" kamar bautar, da kuma abin da ake kira "halin kirki" an bayyana shi kamar yadda aka yi amfani da jariri mai ban sha'awa wanda aka tsara don yaudarar mutane masu rauni da masu tsoratar da kai cikin bautar kansu.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+Wannan fahimta ya haifar da sabon ƙirar *nihilists*, kamar yadda yake a cikin karni na sha tara na Jamus. Wadannan mawuyacin hali sun ajiye mafi yawancin hare hare ga duk wanda ya yi ikirarin cewa duk wani nau'i na gaskiya. Wannan ƙarni na zamani ya kara girma da tarihin al'amuran al'adun su, amma yanzu duba duk gaskiya kamar yadda ake nuna rashin gaskiya. Kamar yara masu laushi waɗanda aka damu da "hikima," suna ganin duk sadarwa kamar tallace-tallace, duk da'awar cewa farfaganda, da kuma dukkanin kyawawan dabi'u kamar barazanar munafunci.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+Tun da ba mu da wata yarjejeniya a kan tsarin hadin kai, ma'auni da ma'ana don yin la'akari da shirye-shiryen kirki, "halin kirki" ya cigaba da kasancewa a cikin abun da yake boye ko mai ban mamaki, da kuma abin da ba zai yiwuwa ba na tashin hankali. Kamar yadda, kafin hasken, ƙungiyoyin addinai sun yi yaƙi ba tare da iyaka ba saboda kulawa a kan ɗakunan da suke da ita, don haka a yanzu sunyi yakin basirar dabi'un da ake yi don kula da jihar, da kuma dukkanin kayan da ake yi.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+Saboda haka halin kirki ya kasance, dangane da kimiyyar zamani, kamar yadda "astronomy" na da ya yi wa astronomy na zamani - wani bangare na tarihin tunani, wanda aka karfafa ta hanyar labarun labarai, barazanar, tilastawa da yin amfani - wanda ke hana duk wani ci gaban gaske ga gaskiya.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+Wannan "dodon" na zane-zane na habakawa ya fi karfinmu, yana yi la'akari akan mu, yana ba da haraji, ɗaurin kurkuku, ƙuntatawa da yake-yake. Yana ansa yanci da yara a makarantun jihohin da kuma ranar Lahadi; Yana sa matalauta a cikin kyawawan kayan jin dadi; Yana ansa yanci ga waɗanda ba a haifa a cikin asarar bashi na kasa ba.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+Kamar yadda na rubuta a cikin littafin da na gabata, "Gaskiya: Cin Zarafin Mafarki," karya mafi mahimmanci a tsakiyar ma'anar halin dabaru shine cewa irin wannan tunanin ana gabatar da ita ga yara a matsayin ainihin abubuwan da ba za a iya ba da hujja, idan a gaskiya sun kasance kawai al'adun nuna kai tsaye. Dalilin da cewa masana kimiyya basu bukatar gwamnati ko Vatican shine masana kimiyya suna da hanyar da za a iya magance rigingimu: hanyar kimiyya. Dalilin cewa harshe bai bukatar babban iko don jagorancin juyin halitta shine cewa yana dogara ne akan "kasuwan kyauta" na ƙayyadadden abubuwan da zababbiyar mutum don dawainiya da mai amfani.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+Dalilin da halin kirki na zamani - da kuma halin kirki a tarihi - dole ne ya dogara da farko akan cin zarafin yara, sa'an nan kuma a kan barazanar manya, shine cewa mummunar karya ne ke nuna kan sa kamar gaskiya.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+Gaskiyar ita ce muna bukatar halin kirki; karyan shine alloli ko gwamnatoci na iya yin tunani a hankali ko tabbatar da hakan.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Manufarta a cikin wannan littafi ita ce ayyana hanya don tabbatar da ka'idodin dabi'un da ke da nasaba, daidaitattun, bayyane, haziƙanci, kakkarfa - da gaskiya.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+Na san cewa, a wannan lokacin, za ku ji wata damuwa mai yawa na rashin shaka. Na fahimci cewa rashin daidaito da wani mutumin da ke kan yanar-gizon - gidan duniyar na auka - ya magance matsalar falsafa na shekarun tsufa ba a mahimmanci ba - a gaskiya ma, za su kasance kusa da siffar da ba za a iya ganewa ba. daga gare ta.
 
-Still, not *quite* zero.
+Duk da haka, ba komai ba ne
 
 ### Ground Rules
 
