@@ -120,13 +120,13 @@ Kaya ang pagkakatatag ng palagian at unibersal na katotohanan ay kailangang magl
 
 Ang pinaka epektibong parasitiko - o viruses - ay yaong mga nanlilinlang sa katawan tungo sa pagwawalang-bahala. Ang ating immune system ay dinisenyo para umatake sa mga dayuhang sangkap sa loob ng katawan, inihihiwalay at pinapatay ito. Kinatatakutan natin ang HIV at kanser lalo na dahil sila ay nakalalampas sa ating immune systems. Ang parehong pamamaraan ay ginamit ng mga intelektwal na parasitiko para hindi paganahin ang sistema ng pagtatanggol ng kanilang mga biktima.
 
-Kung ang isang estranghero ay aatakihin ka sa isang eskinita at hingin ang iyong pera, ikaw ay mahihintakutan at matatahimik. Maaari kang manlaban, pwede kang tumakbo, o ibigay sa kanya ang iyong pitaka, ngunit ikaw ay mananatiling gulat, galit at takot sa interaksyon. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+Kung ang isang estranghero ay aatakihin ka sa isang eskinita at hingin ang iyong pera, ikaw ay mahihintakutan at matatahimik. Maaari kang manlaban, pwede kang tumakbo, o ibigay sa kanya ang iyong pitaka, ngunit ikaw ay mananatiling gulat, galit at takot sa interaksyon. Kung uulitin mo ang kwento, sasabihin mo ito sa paraan na magpapatibay sa base at masamang paglabag sa iyong personal at karapatan sa ari-arian. Ang iba ay makararamdam ng simpatya sa iyong kalagayan, at iiwasan ang nasabing eskinita sa hinaharap.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+Ito ay isang halimbawa ng "maliit na katotohanan," na kung saan: "Ang pagnanakaw sa akin ay mali."
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+Gayunman, kapag ang isang ahente ng pamahalaan ay nagpadala sayo ng sulat na humihingi sayo na bayaran sya ng pera, makararamdam ka ng kaunting kalupitan, ngunit hindi mo maiuugnay ang kwento na may parehong takot at pagmamalupit sa iyong mga kaibigan.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+Ito ay halimbawa ng "panggitnang katotohanan,' na tumakip sa "dakilang katotohan," na kung saan "mali ang pagnanakaw."
 
 This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
 
