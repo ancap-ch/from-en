@@ -18,7 +18,7 @@ Ang "halimaw" ay ang paniniwala na ito ay imposibleng tukuyin ang isang layunin,
 
 Ang halimaw na ito ay nagpabagsak sa maraming dakilang mga bayani, mula kay Socrates hanggang kay Plato hanggang kay Augustine hanggang kay Hume hanggang kay Kant hanggang kay Rand.
 
-The cost to mankind has been enormous.
+Ang halaga sa sangkatauhan ay napakalaki.
 
 Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
 
