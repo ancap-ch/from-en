@@ -128,6 +128,6 @@ Gayunman, kapag ang isang ahente ng pamahalaan ay nagpadala sayo ng sulat na hum
 
 Ito ay halimbawa ng "panggitnang katotohanan,' na tumakip sa "dakilang katotohan," na kung saan "mali ang pagnanakaw."
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+Ang aklat na ito ay tutuon sa paglalantad at pagwasak sa mga maling "panggitnang katotohanan." Naniniwala ako na ang sangkatauhan ay walang katapusang nagdurusa sa ilalim ng paniniil ng maling etikal na "panggitnang katotohanan" na nagbibigay katwiran sa mapanirang pangmundong-pananaw ng relihiyosong pamahiin, sekular na kalupitan at ang kulto ng pamilya.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+Ang sanaysay ko sa aklat na ito ay na sa etika, tulad sa ibang intelektwal na disiplina, ang mga dakilang katotohanan ay aangat direkta mula sa maliit na mga katotohanan. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
