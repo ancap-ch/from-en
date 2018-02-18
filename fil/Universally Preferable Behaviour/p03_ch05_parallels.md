@@ -22,7 +22,7 @@ Ang ideya ng "kusang loob na kaayusan," na kung saan ay napatunayan sa kaharian 
 
 Gayunman, ang "gobyerno" ay hindi na kailangan para sa organisasyon at pagpapatuloy ng lipunan kaysa mga "Diyos" ay kailangan para sa organisasyon at pagpapatuloy ng sansinukob.
 
-In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+Sa katunayan, gaya ng mga relihiyon na nakahadlang sa pag unlad ng siyensya, kaya ang gobyerno ay humadlang sa pag unlad ng lipunan. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
 
 Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
 
