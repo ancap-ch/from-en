@@ -8,7 +8,7 @@ Bago ang siyensya, sa gitna ng bawat komplikadong sistema ay nakahimlay ang wala
 
 Sa kasamaang palad, ang "walang bahid na kamalayan" na ito ay isa lamang ilusyon, ipagpalagay na mapagkawang-gawa. Walang ganoong Diyos ang umiral - lahat ng *talagang* umiral ay pahayag ng mga pari. Kung ano talaga ang nakalatag sa gitna ay ang pagkiling ng di-makatwiran na mga indibidwal, na walang ideya kung gaano talaga sila kagalit.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+Kailangan pa din nating isabuhay ang parehong pag-iilaw sa ating konsepto ng lipunan - ngunit ito ngayon ay *mahalaga* na gawin natin.
 
 We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
 
