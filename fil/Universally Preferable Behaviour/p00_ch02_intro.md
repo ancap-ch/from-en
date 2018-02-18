@@ -88,7 +88,7 @@ Ang mundo ay bumagsak dahil ang bato ay bumabagsak.
 
 ### "Panggitnang Katotohanan" at ang Pagsasamantala
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+Sa puntong bayolohikal, ang parasitismo ay ganap na stratehiya sa pagsasakatuparan ng pagpapanatili ng buhay para sa maraming nilalang. Sa kawalan ng pamantayang etikal, ang pagnanakaw ng enerhiya at mapagkukunan mula sa ibang nilalang ay perpektong makatwiran. Sa pangkalahatan, ang pinaka maaasahan at matatag na anyo ng parasitismo ay *symbiosis*, o kapaki-pakinabang na pakikipamuhay sa kapwa. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
 
 However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
 
