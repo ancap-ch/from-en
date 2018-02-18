@@ -118,9 +118,9 @@ Kaya ang pagkakatatag ng palagian at unibersal na katotohanan ay kailangang magl
 
 ### Epektibong Parasitismo
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+Ang pinaka epektibong parasitiko - o viruses - ay yaong mga nanlilinlang sa katawan tungo sa pagwawalang-bahala. Ang ating immune system ay dinisenyo para umatake sa mga dayuhang sangkap sa loob ng katawan, inihihiwalay at pinapatay ito. Kinatatakutan natin ang HIV at kanser lalo na dahil sila ay nakalalampas sa ating immune systems. Ang parehong pamamaraan ay ginamit ng mga intelektwal na parasitiko para hindi paganahin ang sistema ng pagtatanggol ng kanilang mga biktima.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+Kung ang isang estranghero ay aatakihin ka sa isang eskinita at hingin ang iyong pera, ikaw ay mahihintakutan at matatahimik. Maaari kang manlaban, pwede kang tumakbo, o ibigay sa kanya ang iyong pitaka, ngunit ikaw ay mananatiling gulat, galit at takot sa interaksyon. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
 
 This is an example of a “little truth,” which is: “Stealing from me is wrong.”
 
