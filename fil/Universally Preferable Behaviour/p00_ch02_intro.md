@@ -100,13 +100,13 @@ Ang pagtataguyod sa katotohanan ay kinakailangang mag limita sa pantasya. Ang pa
 
 Para sa mga gumagamit ng mga pantasyang moral upang pagsamantalahan ang sangkatauhan ay laging nakikipaglaban ng ngipin at pako laban sa mga nagbabanta sa kanilang kabuhayan sa pamamagitan ng pagtuklas at pagpapalaganap ng katotohanan.
 
-Tayo ay pamilya sa mga halimbawa ng Mafia, na nagbabanta sa kanilang mga potensyal na karibal gamit ang maiming at kamatayan, o sa palabas ng mga relihiyosong sekta na umaatake sa isa't-isa, o isang gobyerno na umaatake sa iba.
+Tayo ay pamilyar sa mga halimbawa ng Mafia, na nagbabanta sa kanilang mga potensyal na karibal gamit ang maiming at kamatayan, o sa palabas ng mga relihiyosong sekta na umaatake sa isa't-isa, o isang gobyerno na umaatake sa iba.
 
 Kapag ang mga pilosopo ay naglantad ng kasinungalingan na kailangan para sa patuloy na pagsasamantala, gayunpaman, Hindi nila iniisip na puntiryahin na ilagay ang kanilang sarili bilang kakumpitensya. Hindi nila ninais na *palitan* ang Mafia, o ang simbahan - ang nais nila ay alisin ito ng lubusan.
 
-Ang mas makabagong analohiya ay ang relasyon sa pagitan ng estado, mga tagalobi at mga taga-bayad ng buwis. Ang tagalobi ay galit na galit na aatake sa ibang tagalobi na makikipagpumpetensya sa parehong dolyar na buwis. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+Ang mas makabagong analohiya ay ang relasyon sa pagitan ng estado, mga tagalobi at mga taga-bayad ng buwis. Ang tagalobi ay galit na galit na aatake sa ibang tagalobi na makikipagpumpetensya sa parehong dolyar na buwis. Gayunman, isipin kung paano *lahat* ng tagalobi ay maggugrupo ng sama-sama para atakihin ang sino man na magpapanukala na alisin ang estado bilang isang institusyon.
 
-Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
+Parasitiko ay agresibong makikipagkumpitensya sa isa't-isa para sa limitadong pinagkukunan ng biktima - ngunit ito ay sa kanilang mabuting interes na maggrupo ng sama-sama para umatake sa kahit ano na magbabanta na alisin mismo ang biktima.
 
 In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
 
