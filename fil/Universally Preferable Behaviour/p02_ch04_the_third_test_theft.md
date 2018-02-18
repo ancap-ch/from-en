@@ -8,7 +8,7 @@ Malinaw, na ang moral na panukala sa mga karapatan sa ari-arian ay ito: alinman 
 
 Ngayon ang unang “ari-arian” na kailangan gawin ay ang katawan. “Pagmamay-ari” dapat una at pinapanguna ang pagkontrol sa sariling katawan, dahil kung ang kontrol na ito ay hindi umiiral, o hindi itinuturing na wasto, ang buong tanong ng moralidad – pabayaan ang pag-aari – ay lumabas sa bintana.
 
-UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
+Ang UPB ay isang balangkas para sa pagsusuri ng mga panukalang moral, o mga argumento tungkol sa pangkatahatang pag-uugaling pag-uugali para salahat ng sangkatauhan. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
 
 If a man has no control over his body, then clearly he has no responsibility for his actions – they are not in fact “his” actions, but rather the actions of his body. Now, no one would rationally argue that if a man strangles another man, it is the murderous fingers that should be put on trial and punished. Clearly, the body cannot entirely control itself, but rather must be to some degree under the direction of the conscious mind.
 
