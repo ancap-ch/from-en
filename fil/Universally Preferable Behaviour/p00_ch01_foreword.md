@@ -8,7 +8,7 @@ Sumubok - at mabigo.
 
 Ang halimaw ay laging walang kamatayan, kaya ang mga taganayon ay hindi na umaasa sa panahon na makaalpas sa kanila sa kanilang paniniil. Ang halimaw ay hindi makatwiran, at walang pagnanais sa pakikipagkasundo, kaya walang posibleng kasunduan.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Ang tanging pag-asa ng mga desperadong taganayon ay para sa isang tao na lumitaw na maaaring talunin ang halimaw.
 
 Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
 
