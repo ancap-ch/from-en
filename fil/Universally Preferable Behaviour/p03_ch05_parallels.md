@@ -10,9 +10,9 @@ Sa kasamaang palad, ang "walang bahid na kamalayan" na ito ay isa lamang ilusyon
 
 Kailangan pa din nating isabuhay ang parehong pag-iilaw sa ating konsepto ng lipunan - ngunit ito ngayon ay *mahalaga* na gawin natin.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+Isinasaalang-alang nating mahalaga na, sa gitna ng lipunan, naglagay tayo ng marangal na entity na kung tawagin ay "ang gobyerno." Sa kawalan ng entity na ito, itinuturing natin ito na axiomatic na ang lipunan ay lilipad sa kaguluhan, at doon titigil - gaya ng pagturing ng ating mga ninuno na, sa kawalan ng mga Diyos, ang sansinukob mismo ay lilipad patungo sa kaguluhan, at doon titigil.
 
-However, “the government” no more exists than “god” exists.
+Gayunman, "ang gobyerno" ay hindi na umiral kaysa sa pag iral ng "Diyos.".
 
 When we speak of “gods,” we are really talking about “the opinions of priests.”
 
