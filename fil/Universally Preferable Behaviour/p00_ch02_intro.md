@@ -80,13 +80,13 @@ Ang relihiyon ay isa ding "panggitnang katotohanan" - Isa sa pinaka mapanganib n
 
 Tulad ng ilang parasitiko na hindi kayang alisin ang ugat hangga hindi nila naaalis ang naunang mga parasitiko, "panggitnang katotohanan" ay umaatake lamang sa nakaraang mga ilusyon *para makuha nila ang lugar ng mga ito*. Yaong mga may pagaalinlangan sa naunang mga pantasya ay hinahatak tungo sa bagong pantasya. Gaya ng ginawa ng Kristiyanismo upang ilihis ang paganismo, Marxismo inilihis ang Kristiyanismo, post-modernismo inilihis ang Marxismo, demokrasya inilihis ang aristokrasya, at iba pa.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+Hanggang ang mga dakilang katotohanan ay makamit, at maipag-isa sa maliit na mga katotohanan, ang mga "panggitnang katotohanan" ay isa lamang umiikot na pananggalang ng mapang abuso at mapangwasak na kasinungalingan - na tiyak na idinesenyo upang pigilan na makamit ang mga dakilang katotohanan.
 
-And the great truths are always achieved from the little truths.
+At ang mga dakilang katotohanan ay palaging nakakamit mula sa mga maliit na katotohanan.
 
-The world falls because a rock falls.
+Ang mundo ay bumagsak dahil ang bato ay bumabagsak.
 
-### "Middle Truths" And Exploitation
+### "Panggitnang Katotohanan" at ang Pagsasamantala
 
 Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
 
