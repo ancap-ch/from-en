@@ -22,9 +22,9 @@ Ang ideya ng "kusang loob na kaayusan," na kung saan ay napatunayan sa kaharian 
 
 Gayunman, ang "gobyerno" ay hindi na kailangan para sa organisasyon at pagpapatuloy ng lipunan kaysa mga "Diyos" ay kailangan para sa organisasyon at pagpapatuloy ng sansinukob.
 
-Sa katunayan, gaya ng mga relihiyon na nakahadlang sa pag unlad ng siyensya, kaya ang gobyerno ay humadlang sa pag unlad ng lipunan. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+Sa katunayan, gaya ng mga relihiyon na nakahadlang sa pag unlad ng siyensya, kaya ang gobyerno ay humadlang sa pag unlad ng lipunan. Gaya ng sa mga ilusyon ng *relihiyon* na dulot ng kamatayan ng daang milyong katao sa kabuuan ng kasaysayan, mayroon ding mga ilusyon ng *gobyerno*.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+Tulad ng sa maling etika ng mga relihiyon "pinangangatwiranan" ang lahat ng paraan ng pang aabuso, katiwalian at karahasan, gayundin ang mga maling etika ng mga gobyerno. Nang pinili nating mabuhay sa pantasya, hindi natin maaaring hindi piliin ang pagkawasak, sa isang anyo o iba pa.
 
 When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
 
