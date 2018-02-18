@@ -12,9 +12,9 @@ Ang tanging pag-asa ng mga desperadong taganayon ay para sa isang tao na lumitaw
 
 Hindi maiiwasan, na ang isang tao ay lumabas nagpamalas sa lahat bilang lubos na hindi kapani-paniwala. Siya ay isang katulong sa kuwadra, isang anak ng sapatero, isang tagasunod ng panadero - o kung minsan, isang palaboy.
 
-This book is the story of my personal assault on just such a beast.
+Ang aklat na ito ay ang kuwento ng aking personal na pag-atake sa kagaya lang ng isang halimaw.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Ang "halimaw" ay ang paniniwala na ito ay imposibleng tukuyin ang isang layunin, katwiran, walang kaugnayan sa relihiyon at seyentipikong etikal na sistema. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
 
 This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
 
