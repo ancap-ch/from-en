@@ -30,13 +30,13 @@ Assim, rejeitar a posse do corpo é rejeitar toda a moralidade, o que, como vimo
 
 Finalmente, usar a posse do próprio corpo na forma de discurso, para rejeitar a noção de que se pode controlar o próprio corpo, é uma contradição patente e intransponível.
 
-É assim que qualquer rejeição de legítima propriedade pode ser totalmente descartada.
+É assim que qualquer rejeição de propriedade legítima pode ser totalmente descartada.
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+Uma vez que possuímos os nossos corpos, inevitavelmente também somos donos dos *efeitos* das nossas acções, sejam elas boas ou más. Se possuímos os efeitos das nossas acções, então, claramente, possuímos o que produzimos, seja o que for que produzimos, seja um arco ou um livro - ou um homicídio.
 
-### Property And UPB
+### A Propriedade E O CUP
 
-Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
+Mesmo que rejeitemos o anterior, ainda podemos usar o CUP para afirmar definitivamente, a existência de direitos de propriedade universais.
 
 As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
 
