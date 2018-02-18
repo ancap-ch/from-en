@@ -1,6 +1,6 @@
 ## Ang Paunang Salita
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+Sa maraming kuwento ng mga engkanto, doon ay naninirahan ang isang teribleng halimaw ng kamangha-manghang kapangyarihan, isang dragon o isang maninila, kung saan pinagmamalupitan ang karatig na mga lupain. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
 
 Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
 
