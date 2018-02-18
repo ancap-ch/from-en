@@ -6,7 +6,7 @@ Karamihan sa mga tao ay yumuyukyok sa ilalim ng anino ng halimaw na ito, na tina
 
 Sumubok - at mabigo.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Ang halimaw ay laging walang kamatayan, kaya ang mga taganayon ay hindi na umaasa sa panahon na makaalpas sa kanila sa kanilang paniniil. Ang halimaw ay hindi makatwiran, at walang pagnanais sa pakikipagkasundo, kaya walang posibleng kasunduan.
 
 The desperate villagers’ only hope is for a man to appear who can defeat the beast.
 
