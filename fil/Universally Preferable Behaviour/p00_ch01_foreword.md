@@ -22,7 +22,7 @@ Ang halaga sa sangkatauhan ay napakalaki.
 
 Dahil tayo ay nananatiling hindi kayang ipaliwanag ang isang makatwirang sistema ng pangkalahatang moralidad, tayo ay pinilit na itanim sa isipan ang mga kwentong katatakutan na pangrelihiyon sa ating mga anak, o bigyan ng mga baril, mga bilanggo at mga sundalo sa isang maliit na monopolya ng walang kaluluwang mga manunupil na tinatawag nila ang kanilang mga sarili na "ang estado."
 
-Dahil ang tinatawag nating mga "etika" ay nananatiling pansarili at *kultural* lamang, hindi natin maiiwasang umasa sa pananakot, takot at karahasan para ipatupad ang patakaran ng lipunan. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Dahil ang tinatawag nating mga "etika" ay nananatiling pansarili at *kultural* lamang, hindi natin maiiwasang umasa sa pananakot, takot at karahasan para ipatupad ang patakaran ng lipunan. Dahil ang etika ay kulang ang makatwirang basehan ng seyentipikong pamamaraan, ang "moralidad" ay nananatiling nakakulong sa isang katutubong digmaan ng madugong mga alamat, bawat pangkat ay naglalaban ng ngipin sa ngipin at kuko sa kuko para sa kontrol sa katapatan ng tao sa "kabutihan."
 
 We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
 
