@@ -159,6 +159,9 @@ Just as *academia* and the academic world cannot be expected to play any signifi
 
 [^16]: Many youngsters have been initially attracted to libertarianism believing that this “live and let live” is the essence of libertarianism.
 
+[^17]: So much for the libertarians who, in addition to their “live and let live” ideal also hail the motto “respect no authority!”.
+
+
 [^18]: Except as some idle intellectual play or mental gymnastics by a few “exotic” individuals.
 
 [^19]: Whereas the least support should be expected to come from the legally most “protected” groups such as, for instance, single Black Muslim mothers on welfare.
