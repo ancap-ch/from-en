@@ -49,10 +49,10 @@ m. **Anda** berarti individu atau entitas yang menjalankan Hak Izin berdasarkan 
 a. ***pemberian lisensi.***
 
 1. Dengan tunduk pada syarat dan ketentuan dari Lisensi Publik ini, maka Pemberi Lisensi dengan ini memberi Anda lisensi di seluruh dunia, bebas royalti, tidak dapat disahkan, non-eksklusif, tidak dapat dibatalkan, untuk menerapkan Hak Izin dalam Materi Izin untuk:
-    
-    A. mereproduksi dan Bagikan Materi Berlisensi, seluruhnya atau sebagian; dan
-    
-    B. memproduksi, mereproduksi, dan Berbagi Bahan Beradaptasi.
+....
+....A. mereproduksi dan Bagikan Materi Berlisensi, seluruhnya atau sebagian; dan
+....
+....B. memproduksi, mereproduksi, dan Berbagi Bahan Beradaptasi.
 
 2. **Pengecualian dan Keterbatasan.** Untuk menghindari keraguan, di mana Pengecualian dan Keterbatasan berlaku untuk penggunaan Anda, Lisensi Publik ini tidak berlaku, dan Anda tidak perlu mematuhi persyaratan dan ketentuannya.
 
@@ -61,12 +61,12 @@ a. ***pemberian lisensi.***
 4. **Media dan format; modifikasi teknis yang diperbolehkan.** Pemberi Lisensi memberi wewenang kepada Anda untuk menerapkan Hak Izin di semua media dan format apakah sekarang diketahui atau selanjutnya dibuat, dan untuk melakukan modifikasi teknis yang diperlukan untuk melakukannya. Pemberi Lisensi melepaskan dan / atau setuju untuk tidak menyatakan hak atau wewenang untuk melarang Anda melakukan modifikasi teknis yang diperlukan untuk menerapkan Hak Izin, termasuk modifikasi teknis yang diperlukan untuk menghindari Tindakan Teknologi yang Efektif. Untuk keperluan Lisensi Publik ini, hanya melakukan modifikasi yang disahkan oleh Bagian 2 (a) (4) tidak pernah menghasilkan Bahan yang Diadaptasi.
 
 5. **Penerima di hilir.**
-    
-    A. **Penawaran dari Pemberi Lisensi - Materi Berlisensi.** Setiap penerima Bahan Berizin secara otomatis menerima tawaran dari Pemberi Lisensi untuk menggunakan Hak Izin berdasarkan persyaratan dan ketentuan dari Lisensi Publik ini.
-    
-    B. __additional menawarkan dari pemberi lisensi - diadaptasi bahan. Setiap penerima Adapted Material from You secara otomatis menerima tawaran dari Pemberi Lisensi untuk menerapkan Hak Berlisensi dalam Bahan yang Diadaptasi sesuai ketentuan Lisensi Adaptor yang Anda terapkan.
-    
-    C. **Tidak ada batasan di bagian hilir.** Anda mungkin tidak menawarkan atau menerapkan persyaratan atau ketentuan tambahan atau berbeda, atau menerapkan Measurement Technology yang Efektif ke, Bahan Berlisensi jika melakukan hal tersebut membatasi pelaksanaan Hak Izin oleh setiap penerima Bahan Berlisensi.
+....
+....A. **Penawaran dari Pemberi Lisensi - Materi Berlisensi.** Setiap penerima Bahan Berizin secara otomatis menerima tawaran dari Pemberi Lisensi untuk menggunakan Hak Izin berdasarkan persyaratan dan ketentuan dari Lisensi Publik ini.
+....
+....B. __additional menawarkan dari pemberi lisensi - diadaptasi bahan. Setiap penerima Adapted Material from You secara otomatis menerima tawaran dari Pemberi Lisensi untuk menerapkan Hak Berlisensi dalam Bahan yang Diadaptasi sesuai ketentuan Lisensi Adaptor yang Anda terapkan.
+....
+....C. **Tidak ada batasan di bagian hilir.** Anda mungkin tidak menawarkan atau menerapkan persyaratan atau ketentuan tambahan atau berbeda, atau menerapkan Measurement Technology yang Efektif ke, Bahan Berlisensi jika melakukan hal tersebut membatasi pelaksanaan Hak Izin oleh setiap penerima Bahan Berlisensi.
 
 6. **Tidak ada pengesahan.** Tidak ada dalam Lisensi Publik ini yang merupakan atau dapat dianggap sebagai izin untuk menegaskan atau menyiratkan bahwa Anda, atau penggunaan Anda dari Materi yang Berlisensi, berhubungan dengan, atau disponsori, disetujui, atau diberikan status resmi oleh, Pemberi Lisensi atau pihak lain yang ditunjuk untuk menerima atribusi sebagaimana diatur dalam Bagian 3(a)(1)(A)(i).
 
@@ -85,23 +85,23 @@ Penerapan Hak Izin Anda secara tegas dibuat sesuai dengan kondisi berikut.
 a. ***atribusi.***
 
 1. Jika Anda berbagi bahan berlisensi (termasuk dalam bentuk modifikasi), Anda harus:
-    
-    A. mempertahankan hal berikut jika sudah disediakan oleh pemberi lisensi dengan lisensi bahan:
-    
-         i. identifikasi pencipta (S) yang berlisensi bahan dan orang lain yang ditunjuk untuk menerima atribusi, jadi wajar cara yang diminta oleh pemberi lisensi (termasuk oleh nama samaran jika ditunjuk);
-        
-         ii. pemberitahuan hak cipta;
-        
-         iii. ini pemberitahuan yang mengacu lisensi publik;
-        
-         iv. pemberitahuan yang mengacu pada disclaimer jaminan;
-        
-         v. uRI atau hyperlink ke Material Berlisensi sejauh praktis;
-        
-    
-    B. menunjukkan jika Anda memodifikasi bahan berlisensi dan mempertahankan indikasi modifikasi sebelumnya; dan
-    
-    C. menunjukkan bahan berlisensi dilisensikan di bawah ini lisensi publik, dan termasuk teks, atau uri atau hyperlink ke, ini lisensi publik.
+....
+....A. mempertahankan hal berikut jika sudah disediakan oleh pemberi lisensi dengan lisensi bahan:
+....
+....     i. identifikasi pencipta (S) yang berlisensi bahan dan orang lain yang ditunjuk untuk menerima atribusi, jadi wajar cara yang diminta oleh pemberi lisensi (termasuk oleh nama samaran jika ditunjuk);
+....    
+....     ii. pemberitahuan hak cipta;
+....    
+....     iii. ini pemberitahuan yang mengacu lisensi publik;
+....    
+....     iv. pemberitahuan yang mengacu pada disclaimer jaminan;
+....    
+....     v. uRI atau hyperlink ke Material Berlisensi sejauh praktis;
+....    
+....
+....B. menunjukkan jika Anda memodifikasi bahan berlisensi dan mempertahankan indikasi modifikasi sebelumnya; dan
+....
+....C. menunjukkan bahan berlisensi dilisensikan di bawah ini lisensi publik, dan termasuk teks, atau uri atau hyperlink ke, ini lisensi publik.
 
 2. Anda dapat memenuhi persyaratan dalam Bagian 3 (a) (1) dengan cara yang wajar berdasarkan media, sarana, dan konteks di mana Anda Membagikan Materi Lisensi. Misalnya, mungkin masuk akal untuk memenuhi persyaratan dengan menyediakan URI atau hyperlink ke sumber daya yang mencakup informasi yang diperlukan.
 
@@ -146,8 +146,8 @@ b. Anda berhak menggunakan Material berlisensi yang sudah diputuskan pada sesi 6
 1. secara otomatis pada tanggal pelanggaran tersebut disembuhkan, asalkan sudah sembuh dalam waktu 30 hari sejak ditemukannya pelanggaran; atau
 
 2. pada saat menyatakan kembali oleh pemberi lisensi.
-    
-    Untuk menghindari keraguan, Sesi 6(a) tidak memberikan efek apapun terhadap hak Pemberi Lisensi untuk mencari solusi atas pelanggaran Anda atas Lisensi Publik.
+....
+....Untuk menghindari keraguan, Sesi 6(a) tidak memberikan efek apapun terhadap hak Pemberi Lisensi untuk mencari solusi atas pelanggaran Anda atas Lisensi Publik.
 
 c. Untuk menghindari keraguan, Pemberi Lisensi juga dapat menawarkan Materi Izin dengan syarat atau ketentuan yang terpisah atau menghentikan penyalaan Bahan Berlisensi setiap saat; Namun, hal itu tidak akan menghentikan Lisensi Publik ini.
 

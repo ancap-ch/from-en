@@ -49,10 +49,10 @@ m. **Sie** bezeichnet die natürliche oder juristische Person, die von lizenzier
 a. ***Lizenzgewährung***
 
 1. Unter den Bedingungen der vorliegenden Public License gewährt der Lizenzgeber Ihnen eine weltweite, vergütungsfreie, nicht unterlizenzierbare, nicht-ausschließliche, unwiderrufliche Lizenz zur Ausübung der lizenzierten Rechte am lizenzierten Material, um:
-    
-    A. das lizenzierte Material ganz oder in Teilen zu vervielfältigen und weiterzugeben; und
-    
-    B. abgewandeltes Material zu erstellen, zu vervielfältigen und weiterzugeben.
+....
+....A. das lizenzierte Material ganz oder in Teilen zu vervielfältigen und weiterzugeben; und
+....
+....B. abgewandeltes Material zu erstellen, zu vervielfältigen und weiterzugeben.
 
 2. **Ausnahmen und Beschränkungen.** Es sei klargestellt, dass, wo immer gesetzliche Ausnahmen und Beschränkungen auf Ihre Nutzung Anwendung finden, die vorliegende Public License nicht anwendbar ist und Sie insoweit ihre Bedingungen nicht einhalten müssen.
 
@@ -61,12 +61,12 @@ a. ***Lizenzgewährung***
 4. **Medien und Formate; Gestattung technischer Modifikationen.** Der Lizenzgeber erlaubt Ihnen, die lizenzierten Rechte in allen bekannten und zukünftig entstehenden Medien und Formaten auszuüben und die dafür notwendigen technischen Modifikationen vorzunehmen. Der Lizenzgeber verzichtet auf jegliche und/oder versichert die Nichtausübung jeglicher Rechte und Befugnisse, Ihnen zu verbieten, technische Modifikationen vorzunehmen, die notwendig sind, um die lizenzierten Rechte ausüben zu können, einschließlich solcher, die zur Umgehung wirksamer technischer Schutzmaßnahmen erforderlich sind. Im Sinne der vorliegenden Public License entsteht kein abgewandeltes Material, soweit lediglich Modifikationen vorgenommen werden, die nach diesem Abschnitt 2(a)(4) zulässig sind.
 
 5. **Nachfolgende Empfänger.**
-    
-    A. **Angebot des Lizenzgebers – Lizenziertes Material.** Jeder Empfänger des lizenzierten Materials erhält automatisch ein Angebot des Lizenzgebers, die lizenzierten Rechte unter den Bedingungen der vorliegenden Public License auzuüben.
-    
-    B. __Zusätzliches Angebot des Lizenzgebers – Abgewandeltes Material. Jeder, der abgewandeltes Material von Ihnen erhält, erhält automatisch vom Lizenzgeber ein Angebot, die lizenzierten Rechte am abgewandelten Material unter den Bedingungen der durch Sie vergebenen Abwandlungslizenz auszuüben.
-    
-    C. **Keine Beschränkungen für nachfolgende Empfänger.** Sie dürfen keine zusätzlichen oder abweichenden Bedingungen fordern oder das lizenzierte Material mit solchen belegen oder darauf wirksame technische Maßnahmen anwenden, sofern dadurch die Ausübung der lizenzierten Rechte durch Empfänger des lizenzierten Materials eingeschränkt wird.
+....
+....A. **Angebot des Lizenzgebers – Lizenziertes Material.** Jeder Empfänger des lizenzierten Materials erhält automatisch ein Angebot des Lizenzgebers, die lizenzierten Rechte unter den Bedingungen der vorliegenden Public License auzuüben.
+....
+....B. __Zusätzliches Angebot des Lizenzgebers – Abgewandeltes Material. Jeder, der abgewandeltes Material von Ihnen erhält, erhält automatisch vom Lizenzgeber ein Angebot, die lizenzierten Rechte am abgewandelten Material unter den Bedingungen der durch Sie vergebenen Abwandlungslizenz auszuüben.
+....
+....C. **Keine Beschränkungen für nachfolgende Empfänger.** Sie dürfen keine zusätzlichen oder abweichenden Bedingungen fordern oder das lizenzierte Material mit solchen belegen oder darauf wirksame technische Maßnahmen anwenden, sofern dadurch die Ausübung der lizenzierten Rechte durch Empfänger des lizenzierten Materials eingeschränkt wird.
 
 6. **Inhaltliche Indifferenz.** Die vorliegende Public License begründet nicht die Erlaubnis, zu behaupten oder den Eindruck zu erwecken, dass Sie oder Ihre Nutzung des lizenzierten Materials mit dem Lizenzgeber oder den Zuschreibungsempfängern gemäß Abschnitt 3(a)(1)(A)(i) in Verbindung stehen oder durch ihn gefördert, gutgeheißen oder offiziell anerkannt werden.
 
@@ -85,23 +85,23 @@ Ihre Ausübung der lizenzierten Rechte unterliegt ausdrücklich folgenden Beding
 a. ***Namensnennung.***
 
 1. Wenn Sie das lizenzierte Material weitergeben (auch in veränderter Form), müssen Sie:
-    
-    die folgenden Angaben beibehalten, soweit sie vom Lizenzgeber dem lizenzierten Material beigefügt wurden:
-    
-         i. die Bezeichnung der/des Ersteller(s) des lizenzierten Materials und anderer, die für eine Namensnennung vorgesehen sind (auch durch Pseudonym, falls angegeben), in jeder durch den Lizenzgeber verlangten Form, die angemessen ist;
-        
-         ii. einen Copyright-Vermerk;
-        
-         iii. einen Hinweis auf die vorliegende Public License; 
-        
-         iv. einen Hinweis auf den Haftungsausschluss;
-        
-         v. soweit vernünftigerweise praktikabel einen URI oder Hyperlink zum lizenzierten Material;
-        
-    
-    B. angeben, ob Sie das lizenzierte Material verändert haben, und alle vorherigen Änderungsangaben beibehalten; und
-    
-    C. angeben, dass das lizenzierte Material unter der vorliegenden Public License steht, und deren Text oder URI oder einen Hyperlink darauf beifügen.
+....
+....die folgenden Angaben beibehalten, soweit sie vom Lizenzgeber dem lizenzierten Material beigefügt wurden:
+....
+....     i. die Bezeichnung der/des Ersteller(s) des lizenzierten Materials und anderer, die für eine Namensnennung vorgesehen sind (auch durch Pseudonym, falls angegeben), in jeder durch den Lizenzgeber verlangten Form, die angemessen ist;
+....    
+....     ii. einen Copyright-Vermerk;
+....    
+....     iii. einen Hinweis auf die vorliegende Public License; 
+....    
+....     iv. einen Hinweis auf den Haftungsausschluss;
+....    
+....     v. soweit vernünftigerweise praktikabel einen URI oder Hyperlink zum lizenzierten Material;
+....    
+....
+....B. angeben, ob Sie das lizenzierte Material verändert haben, und alle vorherigen Änderungsangaben beibehalten; und
+....
+....C. angeben, dass das lizenzierte Material unter der vorliegenden Public License steht, und deren Text oder URI oder einen Hyperlink darauf beifügen.
 
 2. Sie dürfen die Bedingungen des Abschnitts 3(a)(1) in jeder angemessenen Form erfüllen, je nach Medium, Mittel und Kontext in bzw. mit dem Sie das lizenzierte Material weitergeben. Es kann zum Beispiel angemessen sein, die Bedingungen durch Angabe eines URI oder Hyperlinks auf eine Quelle zu erfüllen, die die erforderlichen Informationen enthält.
 
@@ -146,8 +146,8 @@ b. Soweit Ihr Recht, das lizenzierte Material zu nutzen, gemäß Abschnitt 6(a) 
 1. automatisch zu dem Zeitpunkt, an welchem die Verletzung abgestellt ist, sofern dies innerhalb von 30 Tagen seit Ihrer Kenntnis der Verletzung geschieht; oder
 
 2. durch ausdrückliche Wiedereinsetzung durch den Lizenzgeber.
-    
-    Es sei klargestellt, dass dieser Abschnitt 6(b) die Rechte des Lizenzgebers, Ausgleich für Ihre Verletzung der vorliegenden Public License zu verlangen, nicht einschränkt.
+....
+....Es sei klargestellt, dass dieser Abschnitt 6(b) die Rechte des Lizenzgebers, Ausgleich für Ihre Verletzung der vorliegenden Public License zu verlangen, nicht einschränkt.
 
 c. Es sei klargestellt, dass der Lizenzgeber das lizenzierte Material auch unter anderen Bedingungen anbieten oder den Vertrieb des lizenzierten Materials jederzeit einstellen darf; gleichwohl erlischt dadurch die vorliegende Public License nicht.
 

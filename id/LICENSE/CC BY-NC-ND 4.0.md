@@ -45,11 +45,11 @@ l. **Anda** berarti orang pribadi atau badan yang menggunakan Hak Lisensi di baw
 a. ***Pemberian lisensi.***
 
 1. Tunduk pada syarat dan ketentuan dari Lisensi Publik, pemberi Lisensi dengan ini memberikan kepada Anda di seluruh dunia, bebas royalti, non-disublisensikan, non-eksklusif, lisensi yang tidak dapat dibatalkan untuk menggunakan Hak Lisensi pada Materi Berlisensi untuk:
-    
-        A. memperbanyak dan Membagikan Materi Berlisensi, secara keseluruhan atau sebagian, untuk kepentingan Nonkomersial; dan
-        
-        B. memproduksi dan mereproduksi, tapi tidak Berbagi, Disesuaikan Bahan untuk tujuan Non-komersial saja.
-        
+....
+....    A. memperbanyak dan Membagikan Materi Berlisensi, secara keseluruhan atau sebagian, untuk kepentingan Nonkomersial; dan
+....    
+....    B. memproduksi dan mereproduksi, tapi tidak Berbagi, Disesuaikan Bahan untuk tujuan Non-komersial saja.
+....    
 
 2. **Pengecualian dan Keterbatasan.** Untuk menghindari keraguan, di mana Pengecualian dan Pembatasan berlaku untuk penggunaan Anda, Lisensi Publik ini tidak berlaku, dan Anda tidak perlu untuk mematuhi persyaratan dan kondisi.
 

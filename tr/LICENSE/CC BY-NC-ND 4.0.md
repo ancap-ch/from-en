@@ -45,25 +45,25 @@ l. **Sen** bu kamusal lisans altında lisanslı hakları kullanan bireysel veya 
 a. ***Lisans fonu.***
 
 1. Bu Lisanslı Kullanım Sözleşmesinin kayıt ve koşullarına tabi olarak Lisans Sağlayıcı, Lisanslı Materyaldeki Lisanslı Hakları kullanmak için aşağıdakileri yapmak üzere dünya çapında, telifsiz, mülkiyetsiz, münhasır olmayan ve geri alınamaz bir lisans vermektedir:
-    
-        A. Lisanslı Materyali tamamen veya kısmen, sadece Ticari Olmayan amaçlarla çoğaltmak ve paylaşmak; ve
-        
-        B. Yalnızca Ticari Olmayan amaçlarla Uyarlanmış Malzeme üretmek ve çoğaltmak, ancak paylaşmamak.
-        
+....
+....    A. Lisanslı Materyali tamamen veya kısmen, sadece Ticari Olmayan amaçlarla çoğaltmak ve paylaşmak; ve
+....    
+....    B. Yalnızca Ticari Olmayan amaçlarla Uyarlanmış Malzeme üretmek ve çoğaltmak, ancak paylaşmamak.
+....    
 
 2. **İstisnalar ve Sınırlamalar.** İstisnalar ve sınırlamalar kullanımınız için geçerli olduğu şüphesinden kaçınmak için, bu Kamu Lisansı geçerli değildir ve onun şart ve koşullarına uymanıza gerek yoktur.
 
 3. **Koşul.** Bu Kamu Lisansının süresi, Bölüm 6(a)'da belirtilmiştir.
 
 4. **Medya ve formatlarda; teknik değişiklikler yapılabilir.** Lisans veren, lisanslı hakları tüm medya ve biçimlerde kullanmak için şu anda bilinen veya gelecekte yaratılmış olsun ve teknik değişiklikler yapmak için gerekli izni verir. Lisans veren, etkin teknolojik önlemleri aşmak için gerekli teknik değişiklikler de dahil olmak üzere, lisanslı haklarını kullanmak için gerekli teknik değişiklikleri yapmaktan sizi alıkoymak için herhangi bir hak veya yetki beyan etmemeyi kabul eder ve/veya feragat eder. Bu Genel Lisansın amaçları doğrultusunda, yalnızca bu Bölüm 2(a)(4) tarafından yetkilendirilmiş değişiklikleri yapmak, hiçbir zaman Uyarlanmış Malzeme üretmez.
-    
-    1. **Aşağı yönlü alıcılar.**
-        
-        A. **Lisans Veren tarafından Teklif - Lisanslı Materyal.** Lisanslı Materyali alanlar, işbu Kamu Lisansı şart ve koşulları çerçevesinde Lisanslı Hakları kullanmak üzere Lisans Verenden otomatik olarak bir teklif almaktadır.
-        
-        B. **Aşağı yönlü sınırlamanın olmayışı.** Bunun herhangi bir Lisanslı Materyal alıcısının Lisansa Konu Hakları kullanımını sınırlaması hâlinde, Lisanslı Materyal üzerinde hiçbir ek veya farklı şart veya koşullar teklif edemez veya dayatamaz veya Lisanslı Materyale Etkin Teknolojik Önlemler uygulayamazsınız.
-    
-    2. **Onaylamama.** İşbu Kamu Lisansındaki hiçbir husus, Lisans Veren veya Bölüm 3(a)(1)(A)(i) de öngörüldüğü şekilde atıfta bulunacak diğer kişiler ile sizin veya kullanımınızın bağlantılı olduğu, size veya kullanımınıza onlar tarafından sponsor olunduğu, sizin veya kullanımınızın desteklendiği veya size veya kullanımınıza resmi bir statü verildiğini iddia ve ima etmeye ilişkin bir izin olarak yorumlanmayacaktır.
+....
+....1. **Aşağı yönlü alıcılar.**
+....    
+....    A. **Lisans Veren tarafından Teklif - Lisanslı Materyal.** Lisanslı Materyali alanlar, işbu Kamu Lisansı şart ve koşulları çerçevesinde Lisanslı Hakları kullanmak üzere Lisans Verenden otomatik olarak bir teklif almaktadır.
+....    
+....    B. **Aşağı yönlü sınırlamanın olmayışı.** Bunun herhangi bir Lisanslı Materyal alıcısının Lisansa Konu Hakları kullanımını sınırlaması hâlinde, Lisanslı Materyal üzerinde hiçbir ek veya farklı şart veya koşullar teklif edemez veya dayatamaz veya Lisanslı Materyale Etkin Teknolojik Önlemler uygulayamazsınız.
+....
+....2. **Onaylamama.** İşbu Kamu Lisansındaki hiçbir husus, Lisans Veren veya Bölüm 3(a)(1)(A)(i) de öngörüldüğü şekilde atıfta bulunacak diğer kişiler ile sizin veya kullanımınızın bağlantılı olduğu, size veya kullanımınıza onlar tarafından sponsor olunduğu, sizin veya kullanımınızın desteklendiği veya size veya kullanımınıza resmi bir statü verildiğini iddia ve ima etmeye ilişkin bir izin olarak yorumlanmayacaktır.
 
 b. ***Diğer haklar.***
 
@@ -80,30 +80,30 @@ Lisansa Konu Hakların tarafınızca kullanımı, aşağıdaki koşul ve şartla
 a. ***Atıf.***
 
 1. Eğer lisanslı materyali yayınlarsan, şunları yapman gerek:
-    
-    A. Lisans Veren tarafından Lisanslı Materyal ile temin edildi ise, aşağıdakileri muhafaza etmelisiniz:
-    
-         i. (belirtildi ise, takma isim de dâhil) Lisans Veren tarafından talep edilebilecek herhangi bir makul yolla, Lisanslı Materyalin sahibi/sahiplerinin ve belirtilmiş diğer alıntı yapılacak kişilerin kimliği;
-        
-         ii. telif hakkı bildirimi;
-        
-         iii. bu Kamu Lisansına atıfta bulunan bir bildirim;
-        
-         iv. garanti reddine atıfta bulunan bir bildirim;
-        
-         v. mümkün olduğu ölçüde Lisanslı Materyal için URI veya bağlantı adresi;
-        
-    
-    B. Lisanslı materyalde değişiklik yapıp yamadığınızı belirtmeli ve daha önce yapılmış değişikliklere ilişkin bilgileri korumalı; ve
-    
-    C. Lisanslı Materyalin işbu Kamu Lisansı kapsamında lisanslı olduğunu belirtmeli ve Kamu Lisansı metnini veya Kamu Lisansı URI veya bağlantı adresi vermelisiniz.
-    
-        Herhangi bir şüpheye mahal vermemek adına, işbu Kamu Lisansı Uyarlanmış Materyali paylaşmanıza izin vermez.
-        
-    
-    1. Lisanslı Materyali Paylaştığınız ortam, araç veya bağlama bağlı olarak, makul herhangi bir surette Bölüm 3(a)(1) de belirtilmiş koşulları yerine getirebilirsiniz. Örneğin, gerekli bilgileri ihtiva eden bir kaynağın URI veya bağlantı adresi belirterek, koşulları yerine getirmek makul olabilir.
-    
-    2. Lisans Veren tarafından talep edilmesi hâlinde, makul surette uygulanabilir olduğu ölçüde, Bölüm 3(a)(1)(A) da gerekli kılınan bilgileri kaldırmalısınız.
+....
+....A. Lisans Veren tarafından Lisanslı Materyal ile temin edildi ise, aşağıdakileri muhafaza etmelisiniz:
+....
+....     i. (belirtildi ise, takma isim de dâhil) Lisans Veren tarafından talep edilebilecek herhangi bir makul yolla, Lisanslı Materyalin sahibi/sahiplerinin ve belirtilmiş diğer alıntı yapılacak kişilerin kimliği;
+....    
+....     ii. telif hakkı bildirimi;
+....    
+....     iii. bu Kamu Lisansına atıfta bulunan bir bildirim;
+....    
+....     iv. garanti reddine atıfta bulunan bir bildirim;
+....    
+....     v. mümkün olduğu ölçüde Lisanslı Materyal için URI veya bağlantı adresi;
+....    
+....
+....B. Lisanslı materyalde değişiklik yapıp yamadığınızı belirtmeli ve daha önce yapılmış değişikliklere ilişkin bilgileri korumalı; ve
+....
+....C. Lisanslı Materyalin işbu Kamu Lisansı kapsamında lisanslı olduğunu belirtmeli ve Kamu Lisansı metnini veya Kamu Lisansı URI veya bağlantı adresi vermelisiniz.
+....
+....    Herhangi bir şüpheye mahal vermemek adına, işbu Kamu Lisansı Uyarlanmış Materyali paylaşmanıza izin vermez.
+....    
+....
+....1. Lisanslı Materyali Paylaştığınız ortam, araç veya bağlama bağlı olarak, makul herhangi bir surette Bölüm 3(a)(1) de belirtilmiş koşulları yerine getirebilirsiniz. Örneğin, gerekli bilgileri ihtiva eden bir kaynağın URI veya bağlantı adresi belirterek, koşulları yerine getirmek makul olabilir.
+....
+....2. Lisans Veren tarafından talep edilmesi hâlinde, makul surette uygulanabilir olduğu ölçüde, Bölüm 3(a)(1)(A) da gerekli kılınan bilgileri kaldırmalısınız.
 
 ### Kısım 4 - Nevi Şahsına Münhasır Veritabanı Hakları.
 
@@ -134,8 +134,8 @@ b. Lisanslı Materyali kullanma hakkınızın 6(a) numaralı Madde kapsamında f
 1. İhlali tespitinizden sonra ihlalin 30 gün içerisinde düzeltilmesi koşuluyla, ihlalin düzeltildiği tarih itibariyle otomatik olarak veya
 
 2. lisans veren tarafından açık bir şekilde iade edilmesi üzerine.
-    
-    Herhangi bir şüpheye mahal vermemek adına, 6(b) numaralı bu Bölüm, işbu Kamu Lisansının tarafınızca ihlal edilmesi ile ilgili Lisans Verenin sahip olabileceği düzeltme veya kanunî yollara başvurma haklarına halel getirmez.
+....
+....Herhangi bir şüpheye mahal vermemek adına, 6(b) numaralı bu Bölüm, işbu Kamu Lisansının tarafınızca ihlal edilmesi ile ilgili Lisans Verenin sahip olabileceği düzeltme veya kanunî yollara başvurma haklarına halel getirmez.
 
 c. Şüpheye mahal vermemek için, lisans veren ayrıca ayrı Şartlar veya koşullar altında lisanslı malzeme sunabilir veya herhangi bir zamanda lisanslı malzeme dağıtmak durdurmak; ancak, bunu yapmak bu Kamu Lisansı sona erdirmez.
 

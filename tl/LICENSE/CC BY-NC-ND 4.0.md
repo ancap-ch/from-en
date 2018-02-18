@@ -45,25 +45,25 @@ l. **Ikaw** ay nangangahulugan na ang indibidwal or entitiya na nagsasanay sa mg
 a. ***Paggawad ng lisensya.***
 
 1. Sakop sa mga termino at mga kondisyon ng Lisensyang Pampubliko, and tagapagpapalisensiya ay gagawad sa Iyo ng isang pandaigdigang, libreng-royaltiya, hindi sub na lisensiya, hindi ekslusibo, hindi rebokable na lisensya para gamitin ang Mga Karapatan sa Nakalisensya sa Materyal na Nakalisensya sa:
-    
-        A. mag-reprodyus at Mag-share sa Materyal na Lisensyado, sa kabuuan o sa parte, para sa HindiKomersyal na mga layunin lamang ito; at 
-        
-        B. mag-prodyus at mag-reprodyus, pero hindi Mag-share, Magkupkop ng Materyal para sa HindiKomersyal na mga layunin lamang.
-        
+....
+....    A. mag-reprodyus at Mag-share sa Materyal na Lisensyado, sa kabuuan o sa parte, para sa HindiKomersyal na mga layunin lamang ito; at 
+....    
+....    B. mag-prodyus at mag-reprodyus, pero hindi Mag-share, Magkupkop ng Materyal para sa HindiKomersyal na mga layunin lamang.
+....    
 
 2. **Mga Eksepsyon at Mga Limitasyon.** Para sa maka-iwas sa pagduda, kung saan ang mga Eksepsyon at Mga Limitasyon ay ina-aplay sa Iyong paggamit, ang Lisensiyang Pampubliko ay hindi nag-a-aplay, at hindi Mo na kailangan na i-kumpleto kasama ang mga termino at mga kondisyon nito.
 
 3. **Termino.** Ang termino para sa Lisensyang Pampubliko ay naka-espesipika sa ika-6(a) na Seksyon.
 
 4. **Medya at mga format; teknikal na mga modipikasyon na pinapayagan.** Ang tagapagpapalisensya ay nag-awtorisa sa Iyo na mag-sanay sa mga Karapatan na Lisensyado sa lahat ng medya at mga format maski ngayon ay kilala o pagkatapos nito naggawa, at para ang mga modipikasyon na teknikal ay magiging kailangan na gawin. Ang Tagapagpapalisensya ay aatras at/o papayag na hindi mag-assert sa kahit anumang karapatan o awtoridad para Ikaw ay bawalan mula sa paggawa ng kinakailangang mga modipikasyon na teknikal para i-exercise ang mga Karapatan sa Lisensyado, kasama na rito ang mga kinakailangang mga modipikasyon na teknikal para i-cirkumbent ang mga Hakbang na Teknolohikal na Epektibo. Para sa mga layunin nga Lisensyang Pampubliko nito, simpleng gumawa ng mga modipikasyon na naka-awtorisa sa pamamagitan ng ika-2(a)(4) na Seksyon na hinding-hindi nagpoprodyus ng Materyal na Kinukupkop.
-    
-    1. **Pag-downstream sa mga tumatanggap.**
-        
-        A. **Alok mula sa Tagapagpapalisensiya - Materyal na Lisensiyado.** Bawat resipyent sa Materyal na Lisensiyado ay awtomatikong nakakatanggap ng isang alok mula sa Tagapagpapalisensiya para makagamit sa mga Karapatan sa Nakalisensiya na napapabilang sa mga termino at mga kondisyon ng Lisensiyang Pampubliko na ito.
-        
-        B. **Walang mga restriksyon na pang-downstream.** Ikaw ay maaaring hindi mag-offer o mag-lapat ng kahit anumang adisyonal o magkakaibang mga termino o mga kondisyon dito, o mag-aplay sa kahit anumang mga Hakbang na Pangteknolohikal na Epektibo, ang Materyal na Lisensiyado sa paggawa ng mga restrik na pagsasanay sa mga Karapatang Nakalisensiyado sa numang resipyent sa Materyal na Lisensiyado.
-    
-    2. **Walang Pagkakaendorso.**Walang ni isang mga konstityut sa Lisensiyang Pampubliko o maaaring maka-construe bilang isang permisyon para maka-asert o maka-implay na Ikaw ay, o na Iyong paggamit sa Materyal na Lisensiyado, naka-konektado sa, o naka-sponsor, inendorso, gina-grant sa opisyal na istatus, ang Tagapagpapalisensya o iba pang mga nakalaan sa atribyusyong natanggap na naprovide sa ika-3(a)(1)(A)(i) na Seksyon.
+....
+....1. **Pag-downstream sa mga tumatanggap.**
+....    
+....    A. **Alok mula sa Tagapagpapalisensiya - Materyal na Lisensiyado.** Bawat resipyent sa Materyal na Lisensiyado ay awtomatikong nakakatanggap ng isang alok mula sa Tagapagpapalisensiya para makagamit sa mga Karapatan sa Nakalisensiya na napapabilang sa mga termino at mga kondisyon ng Lisensiyang Pampubliko na ito.
+....    
+....    B. **Walang mga restriksyon na pang-downstream.** Ikaw ay maaaring hindi mag-offer o mag-lapat ng kahit anumang adisyonal o magkakaibang mga termino o mga kondisyon dito, o mag-aplay sa kahit anumang mga Hakbang na Pangteknolohikal na Epektibo, ang Materyal na Lisensiyado sa paggawa ng mga restrik na pagsasanay sa mga Karapatang Nakalisensiyado sa numang resipyent sa Materyal na Lisensiyado.
+....
+....2. **Walang Pagkakaendorso.**Walang ni isang mga konstityut sa Lisensiyang Pampubliko o maaaring maka-construe bilang isang permisyon para maka-asert o maka-implay na Ikaw ay, o na Iyong paggamit sa Materyal na Lisensiyado, naka-konektado sa, o naka-sponsor, inendorso, gina-grant sa opisyal na istatus, ang Tagapagpapalisensya o iba pang mga nakalaan sa atribyusyong natanggap na naprovide sa ika-3(a)(1)(A)(i) na Seksyon.
 
 b. ***Iba pang mga karapatan.***
 
@@ -80,30 +80,30 @@ Ikaw ay mag-eksersays sa mga Karapatan ng Lisensiyado ay ginawang subjek sa pag-
 a. ***Atribyusiyon.***
 
 1. Kung Ikaw ay Mag-Share sa Materyal na Lisensyado, kailangan Mong:
-    
-    A. I-retain ang mga sumusunod kung ito ay sinusuplayan ng Tagapagpapalisensya ng Materyal na Lisensyado:
-    
-         i. identipikasyon ng (mga) gumagawa sa Materyal na Lisensyado at anumang ibang nakalaan para makatanggap ng atribyusiyon, sa anumang rasonableng pamamaraan na nai-rekwest ng Tagapagpapalisensya (kasama na ang pseudonym kung inilaan);
-        
-        ii. isang paalala sa kapyrayt;
-        
-        iii. isang paalala na nagre-refer sa Lisensiyang Pampublikong na ito;
-        
-        iv. isang paalala na nagre-refer sa disclaimer ng mga warrantiya;
-        
-        v. isang URI o hyperlink sa Materyal na Lisensyado para sa ekstent ng rasonableng pagpa-prakris;
-        
-    
-    B. iindika kung Ikaw ay nakapag-modifika sa Materyal na Lisensyado at nag-retain ng indikasyon sa anumang mga nakaraang mga modipikasyon; at
-    
-    C. i-indika ang Materyal na Lisensyado ay naka-lisensya na napapabilang sa Lisensyang Pampubliko, at isama na ang teksto ng, o ang URI o hyperlink sa, Lisensyang Pampubliko na ito.
-    
-        Para sa pag-iiwas ng pag-aalinlangan, Ikaw ay walang permisyon sa Lisensyang Pampublikong ito na makapag-Share sa Materyal na Kinupkop.
-        
-    
-    1. Ikaw ay maaaring masisiyagan sa mga kondisyon sa ika-3(a)(1) na Seksyon sa anumang rasonableng pamamaraan basi sa medyum, mga pamamaraan, at konteksto na kung saan Ikaw ay Nag-Share sa Mayeryal na Lisensyado. Halimbawa, ito ay maaaring rasonable na makapagsisiya sa mga kondisyon sa pamamagitan ng pagpo-provide ng isang URL o hyperlink sa pinagkukunan na may kasamang impormasyong kinakailangan.
-    
-    2. Kung ito ay nai-rekwest ng Tagapagpapalisensya, Ikaw ay dapat magtanggal ng anumang impormasyon na ni-rekwayr sa ika-3(a)(1)(A) na Seksyon sa ekstent ng pagpapapraktis na rasonable.
+....
+....A. I-retain ang mga sumusunod kung ito ay sinusuplayan ng Tagapagpapalisensya ng Materyal na Lisensyado:
+....
+....     i. identipikasyon ng (mga) gumagawa sa Materyal na Lisensyado at anumang ibang nakalaan para makatanggap ng atribyusiyon, sa anumang rasonableng pamamaraan na nai-rekwest ng Tagapagpapalisensya (kasama na ang pseudonym kung inilaan);
+....    
+....    ii. isang paalala sa kapyrayt;
+....    
+....    iii. isang paalala na nagre-refer sa Lisensiyang Pampublikong na ito;
+....    
+....    iv. isang paalala na nagre-refer sa disclaimer ng mga warrantiya;
+....    
+....    v. isang URI o hyperlink sa Materyal na Lisensyado para sa ekstent ng rasonableng pagpa-prakris;
+....    
+....
+....B. iindika kung Ikaw ay nakapag-modifika sa Materyal na Lisensyado at nag-retain ng indikasyon sa anumang mga nakaraang mga modipikasyon; at
+....
+....C. i-indika ang Materyal na Lisensyado ay naka-lisensya na napapabilang sa Lisensyang Pampubliko, at isama na ang teksto ng, o ang URI o hyperlink sa, Lisensyang Pampubliko na ito.
+....
+....    Para sa pag-iiwas ng pag-aalinlangan, Ikaw ay walang permisyon sa Lisensyang Pampublikong ito na makapag-Share sa Materyal na Kinupkop.
+....    
+....
+....1. Ikaw ay maaaring masisiyagan sa mga kondisyon sa ika-3(a)(1) na Seksyon sa anumang rasonableng pamamaraan basi sa medyum, mga pamamaraan, at konteksto na kung saan Ikaw ay Nag-Share sa Mayeryal na Lisensyado. Halimbawa, ito ay maaaring rasonable na makapagsisiya sa mga kondisyon sa pamamagitan ng pagpo-provide ng isang URL o hyperlink sa pinagkukunan na may kasamang impormasyong kinakailangan.
+....
+....2. Kung ito ay nai-rekwest ng Tagapagpapalisensya, Ikaw ay dapat magtanggal ng anumang impormasyon na ni-rekwayr sa ika-3(a)(1)(A) na Seksyon sa ekstent ng pagpapapraktis na rasonable.
 
 ### Ika-4 na Seksyon - Mga Karapatan sa Database na Sui Generis.
 
@@ -134,8 +134,8 @@ b. Kung saan ang Iyong karapatan sa paggamit sa Materyal na Lisensyado ay nai-te
 1. sa petsang ito ang paglapastangan ay awtomatikong nalunasan, ipagpalagay na sa loob ng 30 na mga araw ng Iyong pagkadiskubre sa pagkakalapastangan ito ay nalunasan; o
 
 2. sa sandaling na-ekpres ang pagkakasabing muli ng Tagapagpapalisensya.
-    
-    Para sa pag-iiwas sa pagdududa, ang ika-6(b) na Seksyon na ito ay hindi nakakaapekto sa anumang karapatan ng Tapagpapalisensya na maaring makahanap ng mga remediya para sa Iyong mga pagsuway sa Lisensiyang Pampublikong ito.
+....
+....Para sa pag-iiwas sa pagdududa, ang ika-6(b) na Seksyon na ito ay hindi nakakaapekto sa anumang karapatan ng Tapagpapalisensya na maaring makahanap ng mga remediya para sa Iyong mga pagsuway sa Lisensiyang Pampublikong ito.
 
 c. Para sa pag-iiwas ng pagdadalawang-isip, ang Tagapagpapalisensya ay maaaring makapag-alok ng Materyal na Lisensyado sa ilalim ng mga termino nakahiwalay o mga kondisyon o ipatigil ang pagdidistribyut sa Materyal na Lisensyado kahit ano mang oras; ganunpaman, sa pagsagawa nito ay hindi makakapag-termineyt sa Lisensyang Pampublikong ito.
 

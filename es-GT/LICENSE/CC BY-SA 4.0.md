@@ -49,10 +49,10 @@ m. **Usted** hace referencia a la persona o entidad que ejerce los Derechos bajo
 a. ***Concesión de licencia.***
 
 1. Sujeto a los términos y condiciones de esta Licencia Pública, el Licenciante le otorga a usted una licencia irrevocable, no exclusiva, irrevocable y no sujeta a derechos de autor, a nivel mundial, para ejercer los Derechos Licenciados en el Material Autorizado para:
-    
-    A. reproduce y compartir el material licenciado, en todo o en parte; y
-    
-    B. producir, reproducir y compartir material adaptado.
+....
+....A. reproduce y compartir el material licenciado, en todo o en parte; y
+....
+....B. producir, reproducir y compartir material adaptado.
 
 2. **Excepciones y limitaciones.** Para evitar dudas, donde las Excepciones y limitaciones se aplican a su uso, esta Licencia pública no se aplica, y no necesita cumplir con sus términos y condiciones.
 
@@ -61,12 +61,12 @@ a. ***Concesión de licencia.***
 4. **Medios y formatos; modificaciones técnicas permitidas.** El Otorgante de la licencia le autoriza a ejercer los Derechos con licencia en Todos los medios y formatos, ya sean conocidos o creados en el futuro, y para realizar las modificaciones técnicas necesarias para hacerlo. El licenciante renuncia y / o acepta no hacer valer ningún derecho o autoridad para prohibirle hacer las modificaciones técnicas necesarias para ejercer los Derechos Licenciados, incluidas las modificaciones técnicas necesarias para eludir las Medidas Tecnológicas Eficaces. A los efectos de esta Licencia Pública, simplemente realizar modificaciones autorizadas por esta Sección 2(a)(4) nunca produce Material Adaptado.
 
 5. **Destinatarios en sentido descendente.**
-    
-    A. **Oferta del licenciante- Material bajo licencia.** Todos los destinatarios del material bajo licencia reciben automáticamente una oferta del licenciante para ejercer los derechos con licencia en los términos y condiciones de esta licencia pública.
-    
-    B. __Oferta adicional del licenciante - Material adaptado. Todo receptor de material adaptado de usted recibe automáticamente una oferta del licenciante para ejercer los derechos con licencia en el material adaptado bajo las condiciones de la licencia del adaptador que usted aplica.
-    
-    C. **Sin restricciones aguas abajo.** No puede ofrecer ni imponer ningún término o condición adicional o diferente, ni aplicar ninguna medida tecnológica eficaz al material bajo licencia, si ello restringe el ejercicio de los derechos con licencia por parte de cualquier destinatario del material licenciado.
+....
+....A. **Oferta del licenciante- Material bajo licencia.** Todos los destinatarios del material bajo licencia reciben automáticamente una oferta del licenciante para ejercer los derechos con licencia en los términos y condiciones de esta licencia pública.
+....
+....B. __Oferta adicional del licenciante - Material adaptado. Todo receptor de material adaptado de usted recibe automáticamente una oferta del licenciante para ejercer los derechos con licencia en el material adaptado bajo las condiciones de la licencia del adaptador que usted aplica.
+....
+....C. **Sin restricciones aguas abajo.** No puede ofrecer ni imponer ningún término o condición adicional o diferente, ni aplicar ninguna medida tecnológica eficaz al material bajo licencia, si ello restringe el ejercicio de los derechos con licencia por parte de cualquier destinatario del material licenciado.
 
 6. **Sin respaldo.** Nada en esta Licencia Pública constituye o puede interpretarse como permiso para afirmar o implicar que usted es, o que su uso del material autorizado está relacionado, patrocinado, respaldado u otorgado por un estado oficial del Licenciante u otras personas designadas para recibir la atribución según lo dispuesto en la Sección 3(a)(1)(A)(i).
 
@@ -85,23 +85,23 @@ Su ejercicio de los Derechos de licencia está expresamente sujeto a las siguien
 a. ***Atribución.***
 
 1. Si comparte el material licenciado (incluso en forma modificada), debe:
-    
-    A. retenga lo siguiente si el licenciante lo proporciona con el material bajo licencia:
-    
-         i. identificación del(de los) creador(es) del Material Autorizado y cualquier otro designado para recibir la atribución, de cualquier manera razonable solicitada por el Licenciante (incluso con seudónimo si se designa);
-        
-         ii. un aviso de copyright;
-        
-        iii. un aviso que se refiere a esta Licencia Pública;
-        
-        iv. un aviso que hace referencia al descargo de garantías;
-        
-        v. un URI o hipervínculo al material autorizado en la medida en que sea razonablemente posible;
-        
-    
-    B. indicar si modificó el material bajo licencia y conservar una indicación de cualquier modificación previa; y
-    
-    C. Indicar que el Material bajo licencia está licenciado bajo esta Licencia pública, e incluir el texto de, o el URI o hipervínculo a esta Licencia pública.
+....
+....A. retenga lo siguiente si el licenciante lo proporciona con el material bajo licencia:
+....
+....     i. identificación del(de los) creador(es) del Material Autorizado y cualquier otro designado para recibir la atribución, de cualquier manera razonable solicitada por el Licenciante (incluso con seudónimo si se designa);
+....    
+....     ii. un aviso de copyright;
+....    
+....    iii. un aviso que se refiere a esta Licencia Pública;
+....    
+....    iv. un aviso que hace referencia al descargo de garantías;
+....    
+....    v. un URI o hipervínculo al material autorizado en la medida en que sea razonablemente posible;
+....    
+....
+....B. indicar si modificó el material bajo licencia y conservar una indicación de cualquier modificación previa; y
+....
+....C. Indicar que el Material bajo licencia está licenciado bajo esta Licencia pública, e incluir el texto de, o el URI o hipervínculo a esta Licencia pública.
 
 2. Puede cumplir las condiciones de la Sección 3(a)(1) de cualquier manera razonable, según el medio, los medios y el contexto en el que comparte el material bajo licencia. Por ejemplo, puede ser razonable satisfacer las condiciones proporcionando un URI o hipervínculo a un recurso que incluye la información requerida.
 
@@ -146,8 +146,8 @@ b. Donde su derecho a uso del Material Licenciado ha terminado bajo la Sección 
 1. automáticamente a partir de la fecha en que se cura la violación, siempre que se cure dentro de los 30 días de su descubrimiento; o
 
 2. tras la reinstalación expresa por parte del Licenciante.
-    
-    Para evitar dudas, esta Sección 6(b) no afecta ningún derecho que el Licenciante pueda tener para buscar soluciones a sus violaciones de esta Licencia Pública.
+....
+....Para evitar dudas, esta Sección 6(b) no afecta ningún derecho que el Licenciante pueda tener para buscar soluciones a sus violaciones de esta Licencia Pública.
 
 c. Para evitar dudas, el Licenciante puede ofrecer el Material Licenciado bajo términos y condiciones separados o detener la distribución del Material Licenciado en cualquier momento; sin embargo, hacer esto no termina esta Licencia Pública.
 

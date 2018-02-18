@@ -45,25 +45,25 @@ l. **Usted** significa el individuo o entidad que ejerce los Derechos Licenciado
 a. ***Concesión de Licencia.***
 
 1. Sujeto a los términos y condiciones de esta Licencia Pública, el Licenciante por la presente le otorga a usted una licencia mundial, libre de regalías, no sublicenciable, no exclusiva e irrevocable para ejercer los Derechos Licenciados en el Material Autorizado:
-    
-        A. Reproducir y compartir el Material Autorizado, en todo o en parte, para fines no comerciales únicamente; y
-        
-        B. producir y reproducir, pero no Compartir, Material adaptado para fines no comerciales únicamente.
-        
+....
+....    A. Reproducir y compartir el Material Autorizado, en todo o en parte, para fines no comerciales únicamente; y
+....    
+....    B. producir y reproducir, pero no Compartir, Material adaptado para fines no comerciales únicamente.
+....    
 
 2. **Excepciones y Limitaciones. ** Para evitar dudas, de donde se aplican Excepciones y Limitaciones se aplican a uso Suyo, esta Licencia Pública no se aplica, y Usted no necesita cumplir con sus términos y condiciones.
 
 3. **Duración.** La duración de esta Licencia Pública se especifica en la Sección 6(a).
 
 4. **Los Medios y formatos; modificaciones técnicas permitidas.** Los Licenciantes le autorizan para ejercer los Derechos Licenciados en todos los medios y formatos ahora conocidos o posteriormente creados, y para hacer modificaciones técnicas necesarias. El Licenciante renuncia y/o acepta no hacer valer ningún derecho o autoridad para prohibirle hacer modificaciones técnicas necesarias para el ejercicio de los Derechos Licenciados, incluyendo modificaciones técnicas para eludir las Medidas Tecnológicas Efectivas. Para los propósitos de esta Licencia Pública, simplemente haciendo modificaciones autorizadas por esta Sección 2(a)(4) nunca produce Material Adaptado.
-    
-    1. **Destinatarios en sentido descendente.**
-        
-        A. **Oferta del Licenciante – Material Licenciado.** Cada destinatario del Material Licenciado recibe automáticamente una oferta del Licenciante para ejercer los Derechos Licenciados bajo los términos y condiciones de esta Licencia Pública.
-        
-        B. **Sin restricciones de bajada.** No puede ofrecer ni imponer términos y condiciones adicionales o diferentes en, o aplicar Medidas Tecnológicas Efectivas a, el material licenciado si esto restringe el ejercicio de los derechos licenciados para cualquier destinatario del Material Licenciado.
-    
-    2. **Sin respaldo.** Nada en esta licencia pública constituye o puede interpretarse como permiso para afirmar o implicar que usted es, o que su uso del Material Licenciado es, conectado con, o patrocinado, endosado u otorgado por un estado oficial, el Licenciante u otros designados para recibir la atribución según los dispuesto en la sección 3(a)(1)(A)(i).
+....
+....1. **Destinatarios en sentido descendente.**
+....    
+....    A. **Oferta del Licenciante – Material Licenciado.** Cada destinatario del Material Licenciado recibe automáticamente una oferta del Licenciante para ejercer los Derechos Licenciados bajo los términos y condiciones de esta Licencia Pública.
+....    
+....    B. **Sin restricciones de bajada.** No puede ofrecer ni imponer términos y condiciones adicionales o diferentes en, o aplicar Medidas Tecnológicas Efectivas a, el material licenciado si esto restringe el ejercicio de los derechos licenciados para cualquier destinatario del Material Licenciado.
+....
+....2. **Sin respaldo.** Nada en esta licencia pública constituye o puede interpretarse como permiso para afirmar o implicar que usted es, o que su uso del Material Licenciado es, conectado con, o patrocinado, endosado u otorgado por un estado oficial, el Licenciante u otros designados para recibir la atribución según los dispuesto en la sección 3(a)(1)(A)(i).
 
 b. ***Otros derechos.***
 
@@ -80,30 +80,30 @@ Su ejercicio de los Derechos Licenciados está expresamente sujeto a las siguien
 a. ***Atribución.***
 
 1. Si comparte el Material Licenciado, usted debe:
-    
-    A. retenga lo siguiente si es proporcionado por el Licenciante con el Material Licenciado:
-    
-         i. identificación del (de los) creador(es) del Material Licenciado y cualquier otro designado para recibir la atribución, de cualquier manera razonable solicitada por los Licenciantes (incluso con seudónimo si se designa);
-        
-         ii. un aviso de copyright;
-        
-        iii. un aviso que se refiere a esta Licencia Pública;
-        
-         iv. un aviso que hace referencia al descargo de garantías;
-        
-         v. un URI o hipervínculo al Material Licenciado en la medida que sea razonablemente posible;
-        
-    
-    B. indicar si modificó el Material Licenciado y conservar una indicación de cualquier modificación previa; y
-    
-    C. indicar que el Material Licenciado está licenciado bajo esta Licencia Pública, e incluir el texto de, o el URI o hipervínculo a, esta Licencia Pública.
-    
-        Para evitar cualquier duda, no tiene permiso bajo esta licencia pública para compartir Material Adaptado.
-        
-    
-    1. Puede cumplir las condiciones de la sección 3(a)(1) de cualquier manera razonable, basado en el medio, los medios y el contexto en el que comparte el Material Licenciado. Por ejemplo, puede ser razonable satisfacer las condiciones proporcionando un URI o hipervínculo a un recurso que incluya la información requerida.
-    
-    2. Si el Licenciante lo solicita, debe remover cualquier información requerida por la sección 3(a)(1)(A) en la medida que sea razonablemente posible.
+....
+....A. retenga lo siguiente si es proporcionado por el Licenciante con el Material Licenciado:
+....
+....     i. identificación del (de los) creador(es) del Material Licenciado y cualquier otro designado para recibir la atribución, de cualquier manera razonable solicitada por los Licenciantes (incluso con seudónimo si se designa);
+....    
+....     ii. un aviso de copyright;
+....    
+....    iii. un aviso que se refiere a esta Licencia Pública;
+....    
+....     iv. un aviso que hace referencia al descargo de garantías;
+....    
+....     v. un URI o hipervínculo al Material Licenciado en la medida que sea razonablemente posible;
+....    
+....
+....B. indicar si modificó el Material Licenciado y conservar una indicación de cualquier modificación previa; y
+....
+....C. indicar que el Material Licenciado está licenciado bajo esta Licencia Pública, e incluir el texto de, o el URI o hipervínculo a, esta Licencia Pública.
+....
+....    Para evitar cualquier duda, no tiene permiso bajo esta licencia pública para compartir Material Adaptado.
+....    
+....
+....1. Puede cumplir las condiciones de la sección 3(a)(1) de cualquier manera razonable, basado en el medio, los medios y el contexto en el que comparte el Material Licenciado. Por ejemplo, puede ser razonable satisfacer las condiciones proporcionando un URI o hipervínculo a un recurso que incluya la información requerida.
+....
+....2. Si el Licenciante lo solicita, debe remover cualquier información requerida por la sección 3(a)(1)(A) en la medida que sea razonablemente posible.
 
 ### Sección 4 - Derechos de la base de datos Sui Generis.
 
@@ -134,8 +134,8 @@ b. Donde termina su derecho a uso del Material Licenciado bajo la Sección 6(a),
 1. automáticamente a partir de la fecha en que se cura la violación, siempre que se cure dentro de los 30 días de su descubrimiento de la violación; o
 
 2. tras la reinstalación expresa por parte del Licenciante.
-    
-    Para evitar dudas, esta Sección 6(b) no no afecta ningún derecho que el Licenciante pueda tener para buscar soluciones a sus violaciones de esta Licencia Pública.
+....
+....Para evitar dudas, esta Sección 6(b) no no afecta ningún derecho que el Licenciante pueda tener para buscar soluciones a sus violaciones de esta Licencia Pública.
 
 c. Para evitar dudas, el Licenciante también puede ofrecer el Material Licenciado bajo términos y condiciones separados o detener la distribución del Material Licenciado en cualquier momento; sin embargo, hacerlo no terminará esta Licencia Pública.
 
