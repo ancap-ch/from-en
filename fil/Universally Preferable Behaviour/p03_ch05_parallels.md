@@ -1,6 +1,6 @@
 ## Kapantay
 
-Bago ang Rebolusyong Siyentipiko, Ito ay itinuturing na hindi maisip na ang natural na mundo ay kayang suportahan ang kanyang sarili nang walang ulirat at "moral"na nilalang sa kanyang sentro. Ang araw ay sumikat at tumahak sa tanikala ng sobrenatural na karwahe; Ang buwan ay malamig at malungkot na kapatid na lalaki ng araw. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Bago ang Rebolusyong Siyentipiko, Ito ay itinuturing na hindi maisip na ang natural na mundo ay kayang suportahan ang kanyang sarili nang walang ulirat at "moral"na nilalang sa kanyang sentro. Ang araw ay sumikat at tumahak sa tanikala ng sobrenatural na karwahe; Ang buwan ay malamig at malungkot na kapatid na lalaki ng araw. Nakabalangkas sa konstelasyon ang mga kwento at mga libingan ng mga Diyos, at ang mga unos ay nagsanga mula sa galit ng mga demonyo.
 
 The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
 
