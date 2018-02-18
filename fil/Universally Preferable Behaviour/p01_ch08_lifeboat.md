@@ -16,11 +16,11 @@ Hindi ito totoo.
 
 Lahat ng kinikilalang makatwirang tao na ang biyolohikal ay balidong agham, sa kabila ng patunay na ang ilang hayop ay ipinanganak ng may mga “one-off” na mutasyon. Ang patunay na ang aso ay pwedeng ipanganak na may limang binti ay nangangahulugan na “canine” ay nagiging isang kumpletong ganap na kategorya. Ang patunay na ang mga uri ng insekto ay mahirap makilala dahil sa pa iba-iba ay hindi nangangahulugan na walang pagkakaiba sa pagitan ng salagubang at balyena.
 
-Para sa mga ilang masamang dahilan, ang mga intelektwal sa partikular ay nakakuha ng malaking kagalakan sa wanton sa pagkasira ng etikal, normatibo at mga makatwirang pamantayan. Ito ay pwedeng dahilan ng mga intelektwal ay palaging binabayaran ng mga korakot na klase ng mga tao kagaya ng mga politiko, mga sardote at mga hari - o ito ay pwedeng ang tao ay palaging na maging isang intelektwal para gumawa ng mga katwiran para sa kanyang pangsariling imoral na ugali. Kung ano man ang dahilan, karamihan sa mga modernong thinker ay naging species ng “anti-thinker,” na kung saan ay sobrang kakaiba. Katumbas nito ay ang pagiging isang malaking uri ng “biologists” kung sino ang naggugugol ng kanilang buhay sa pag-arguing na ang agham ng biyolohiya ay imposible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
+Para sa mga ilang masamang dahilan, ang mga intelektwal sa partikular ay nakakuha ng malaking kagalakan sa wanton sa pagkasira ng etikal, normatibo at mga makatwirang pamantayan. Ito ay pwedeng dahilan ng mga intelektwal ay palaging binabayaran ng mga korakot na klase ng mga tao kagaya ng mga politiko, mga sardote at mga hari - o ito ay pwedeng ang tao ay palaging na maging isang intelektwal para gumawa ng mga katwiran para sa kanyang pangsariling imoral na ugali. Kung ano man ang dahilan, karamihan sa mga modernong thinker ay naging species ng “anti-thinker,” na kung saan ay sobrang kakaiba. Katumbas nito ay ang pagiging isang malaking uri ng “biologists” kung sino ang naggugugol ng kanilang buhay sa pag-arguing na ang agham ng biyolohiya ay imposible. Kung ang biyolohiya ng agham ay imposible, ito ay halos pang pwedeng maging isang biologist, anumang hihigit pa sa isang ateista na dapat lumaban ng tooth at nail para maging isang pari.
 
-### Shades Of Grey
+### Mga shade ng grey
 
-In the realm of “grey areas,” there are really only three possibilities.
+Sa larangan ng "grey na mga lugar," meron lang talaga na tatlong posibilidad.
 
 1. There are no such things as grey areas.
 2. Certain grey areas do exist.
