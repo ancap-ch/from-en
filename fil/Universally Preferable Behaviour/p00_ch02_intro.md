@@ -102,9 +102,9 @@ Para sa mga gumagamit ng mga pantasyang moral upang pagsamantalahan ang sangkata
 
 Tayo ay pamilya sa mga halimbawa ng Mafia, na nagbabanta sa kanilang mga potensyal na karibal gamit ang maiming at kamatayan, o sa palabas ng mga relihiyosong sekta na umaatake sa isa't-isa, o isang gobyerno na umaatake sa iba.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+Kapag ang mga pilosopo ay naglantad ng kasinungalingan na kailangan para sa patuloy na pagsasamantala, gayunpaman, Hindi nila iniisip na puntiryahin na ilagay ang kanilang sarili bilang kakumpitensya. Hindi nila ninais na *palitan* ang Mafia, o ang simbahan - ang nais nila ay alisin ito ng lubusan.
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+Ang mas makabagong analohiya ay ang relasyon sa pagitan ng estado, mga tagalobi at mga taga-bayad ng buwis. Ang tagalobi ay galit na galit na aatake sa ibang tagalobi na makikipagpumpetensya sa parehong dolyar na buwis. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
 
 Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
 
