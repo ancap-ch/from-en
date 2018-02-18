@@ -89,5 +89,5 @@ Eu acredito, realmente, que a definição de um quadro ético racional é a tare
 Entro nesta batalha bem armado, por outros.
 
 [^1]: A maioria deles será discutida com mais detalhes ao longo deste livro.
-~~~~
-~~~~[^2]: Claro, se eu falhei, pelo menos falhei espectacularmente, o que por si só pode ser tanto edificante quanto divertido!
+....
+....[^2]: Claro, se eu falhei, pelo menos falhei espectacularmente, o que por si só pode ser tanto edificante quanto divertido!
