@@ -22,8 +22,8 @@ Alt-Sağ hareketi, aslında, en tanınmış temsilcisi, köşe yazarı ve en ço
 
 1. Zamanı gelince bir Liberter düzeni korumak nasıl başarılır;
 2. Liberter olmayan bir başlangıç noktasından, Liberter bir düzene nasıl ulaşılır: 
-~~~~1. Bu başlangıç noktasını doğru tanımlamak gerekir;
-~~~~2. Bu başlangıç noktasına göre, özgürlükçünün bitiş yolunda ortaya atılan engelleri doğru bir şekilde tespit edin.
+....1. Bu başlangıç noktasını doğru tanımlamak gerekir;
+....2. Bu başlangıç noktasına göre, özgürlükçünün bitiş yolunda ortaya atılan engelleri doğru bir şekilde tespit edin.
 
 Teoriye ilaveten, bu soruları cevaplamak için ek olarak insan psikolojisi ve sosyolojisi hakkında ya da en azından bir sağ duyu hakkında bilgiye ihtiyacınız olacaktır. Bununla birlikte, birçok liberter ve birçok sahte liberter insan psikolojisi ve sosyolojisini açıkça bilmiyor ya da herhangi bir sağduyu içermiyor. Tüm deneysel kanıtlara karşı, insan doğasının eşitlikçi, boş şeffaf görüşlerini körü körüne kabul ederler; tüm insanlar, bütün toplumlar ve kültürler temelde eşit ve değiştirilebilir haldedir.
 
@@ -68,8 +68,8 @@ Bununla birlikte, gerçek dünyada eşitlikçi fantezi topraklar dışında, lib
 Bunlar:
 
 1. Özellikle "Derin Devlet" ya da orduya ait "Katedral", gizli servisler, merkez bankaları ve yüksek mahkemeler olarak adlandırılan Devlet kurumunun denetiminde egemen seçkinler. Ayrıca şunları içerir: 
-~~~~1. Askeri-sanayi kompleksinin, diğer bir deyişle, varlığını kendi ürünlerinin sınırlanmış veya hakim alıcısı olarak Devlete borçlu olan nominal olarak özel firmaların liderleri;
-~~~~2. Para ve kredi yaratma ayrıcalığını merkez bankasının varlığına borçlu olan ve "son çare ödünç verme" rolü oynayan büyük ticari bankaların liderleri. Devlet, Büyük İşletmeler ve Büyük Bankacılıklar, bir arada, vergi mükelleflerinin büyük bir kısmını ortaklaşa sömürüp küçük bir "karşılıklı hayranlık toplumu" oluştursa da son derece güçlü bir şekil oluşturuyorlar ve masraflarını karşılamak için büyük zaman harcıyorlar.
+....1. Askeri-sanayi kompleksinin, diğer bir deyişle, varlığını kendi ürünlerinin sınırlanmış veya hakim alıcısı olarak Devlete borçlu olan nominal olarak özel firmaların liderleri;
+....2. Para ve kredi yaratma ayrıcalığını merkez bankasının varlığına borçlu olan ve "son çare ödünç verme" rolü oynayan büyük ticari bankaların liderleri. Devlet, Büyük İşletmeler ve Büyük Bankacılıklar, bir arada, vergi mükelleflerinin büyük bir kısmını ortaklaşa sömürüp küçük bir "karşılıklı hayranlık toplumu" oluştursa da son derece güçlü bir şekil oluşturuyorlar ve masraflarını karşılamak için büyük zaman harcıyorlar.
 2. En büyük akademik düzeyden, ilkokul ve ana okullarına kadar aydınlar ve "eğitimciler" den oluşan ([A] çok daha büyük düşman grupları oluşur). Devlet tarafından direk yada dolaylı olsun hemen hemen münhasıran finanse edilmişler ezici çoğunlukları ile, yönetici elitin elinde ve onların mutlak güç ve tam kontrol tasarımında yumuşak araçlar ve istekli cellatlar haline gelir.
 3. MSM gazetecileri, "halk eğitimi" sisteminin uysal sonuçları, hükümetin korkak alıcıları ve popülerleştiricileri olarak "bilgi" verirler.
 
