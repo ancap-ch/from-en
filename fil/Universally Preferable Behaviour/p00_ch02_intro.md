@@ -98,9 +98,9 @@ Sa parehong paraan, ang parasitiko na sumasakal sa sangkatauhan ay tumitingin ng
 
 Ang pagtataguyod sa katotohanan ay kinakailangang mag limita sa pantasya. Ang paglimita sa pantasya ay kailangang maglimita sa pagsasamantala. Kung makukumbinsi ko kayo na ako ay buhay na taong-Diyos, at ang Diyos na nagsilang sa akin ay gusto kayong magbigay sa akin ng sampung porsiyento ng inyong kita, o kayo ay parurusahan ng walang katapusan, Ako ay magiging sobrang yaman. Ako ay isang parasitiko ng ilusyon, at umaasa sa mga ilusyon na iyon para sa aking ikabubuhay gaya ng halamang-singaw na umaasa sa mainit, mamasa masang lugar - at kadiliman.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+Para sa mga gumagamit ng mga pantasyang moral upang pagsamantalahan ang sangkatauhan ay laging nakikipaglaban ng ngipin at pako laban sa mga nagbabanta sa kanilang kabuhayan sa pamamagitan ng pagtuklas at pagpapalaganap ng katotohanan.
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+Tayo ay pamilya sa mga halimbawa ng Mafia, na nagbabanta sa kanilang mga potensyal na karibal gamit ang maiming at kamatayan, o sa palabas ng mga relihiyosong sekta na umaatake sa isa't-isa, o isang gobyerno na umaatake sa iba.
 
 When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
 
