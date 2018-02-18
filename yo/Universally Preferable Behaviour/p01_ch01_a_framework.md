@@ -1,50 +1,50 @@
-## A Framework For Ethics
+## ilana agbekale asa
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+ilana ti atupale ni oye asa yato si awon oro oye toku. Timobasowipe,”mo nife si”jazzi”. Ole je oro otito tabior ta da lori iro,sugbon a o le sowipe o dimimu ni ona kan tabi omiran oye mi lori jazzi je oro lasan lori iferan mi; lori oro mi, ko kin shee dandan ji o nife jaazi tabi ki o mase nife re.
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+Bakanna, ti mba sowipe, “ mo nife efo”, eleyi naa je oro lasan lori iferan mi. sibesibe, ti mob a sowipe,”efo je ounje to dara” bayi moti sunlati oro toda lori mi si oro ti o ni imule. Oje iyato laarin “ monife icy creamu” ati “ icy creamu ni miliki ninu”
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+Iyato to wa laarin oro to da lelorimi ati oro otito ni wipe, oro otito maa n ni imule, asile danwo- o si wapo. Ti o ba ri iyi ninu otito, owa lorimi lati gba wipe icy cramu ni miliki ninu je oro otito, ti a bati fidire mule.[^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Ti mob a sowipe ayeyi yika, ti mo si fi eri sile, ko kin she tie lati ri boya oro naa je otito. Ti mob a le ri eri sile wipe aye yii yika, nigbanna, o nilo lati gba pe tooto ni, ayaffii ti o ba da eri pada fun ilo otito.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+Ti mob a fidi awon ofin isiro mule, mi o le da ofin isiro ti o di ofin naa mu pada, ti mob a da ofin naa pada, mi o le so wipe mo fidi ofin isiro naa mule. Gbigba alaye awon ofin yii tumo si wipe mo gbodo gba awon ofin ti o fidi ofin isiro yii mule idapada ofin ti o lomo ofin ti a ti gba tabi awon ofin ti o ti fi di mule je idapada gbogbo ofin ti o ti mule ni odidi.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+Ona oye  sciencii, ogbon fun ara re, ati awon ofin isiro je apeere ilo fun  mimo otito ninu imuwa fun ifesi. Ko kin she ero mi wipe meji ati meji je meerin- ti o ba gba wipe meji ati meji je merin, o ko gberare si ero laasan, bikose, otito ti o mogbon wa.
 
-### Objective Truth
+### Otito ti o mogbon wa
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+Isoro ti o she Pataki ni oye otito ni riri pe “otito” o si ni alaye ni onana ti apata tabi igi she je.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+Otito she Pataki ni ibatan oro- sugbon ti ko je oro lasan oro “ilera” je ibatan oro- ti a ba fiilera we aisan ati pelu oro ilera ki ni an pe ni “ ilera to dara” fun omo aadaorun odu ko le je ilera to dara fun omo ogun ojo. Itunmo emi gigun yato si bo se je ni eedegbeta odun seyin.
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
+Eleyii ko sowipe, oro lori”ilera” je ero ti o mule. Omo odun mewa ti o n ku lori leukaemiaa o ni ilera-gegebi omo odun ti o nsare she ni ilera. Nibayi, omokunrin ti o gbe titidi aadorun odun ti ni emi gigun, sugbon eleyii o yato ti imo tekinolgi ba je ka gbe ogorun meji ni ile aye.
 
-As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
+Gegebi itunmo “ilera” wa she n posi, ko yo imule ti a ti ni teletele,sugbon o n je ko posi ni ti tekinologi ba gba lati je ki omo aadorin odun tayo ere sisa, nigbana itunmo ilera fun agbalagba maa yato- sugbon eleyii ko sowipe omo ogun odun ti o ma n sare o ni ilera mo wipe a n ko algebira ko yo imule aritimetiki.
 
-Truth also has value relative to necessity as well. Newtonian physics has been supplanted by Einsteinian physics, which has proven far more accurate in extreme situations such as extraordinarily high gravity or speed. However, sailors wishing to calculate the correct path across an ocean find Newtonian physics more than accurate enough. You wouldn’t want to send a spaceship to Alpha Centauri using Newtonian physics, but it is totally fine for getting a ship from Lisbon to New York. The labour involved in learning and implementing Einsteinian physics is thus a net negative for a sailor.
+Ooto ni iyi ni oro ishe Pataki. Iwulo fisiki Eisteniani ti bori ti fisiki Newtonii, ti o shi tifidimule ninu oye giraviti ti o ga tabi speedi. Sibesibe, awon ti o wa lori oni ti ofe shee ishiro ona ti won legba lori okun ri fisiki Newtonialo daradara. Oke le ran oko ofurufu losi centaurii Alfa oelu fisiki Newtonia, sugbon a le lo lati gbe oko oju omi  lati lisboni losi new yorki ishe ti a lo lati mo ati lati fidi fisiki eisteini mule je ailo okoja oju omi.
 
-As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+Fun idi eyi ero “fisiki newtoni fidi mule bi fisiki eisteini, sugbon fisiki newtonia ni ona to dara julo lati nshe ishiro ona ti o koju omi ma ngba le je imuwa fun ifiyesi ti o mule. fisiki newtoni o lo deede to ikeji re, ko si dara nilo to ikeji re naa.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+Ti aba fe mu omi ti o mo julo, a le na eegberun dolla fun ike kookan. Sugbon ti a ba ni owo pupo ti a shi man na owo pupo, a o le lai lai san owo bayen lati pe ongbe wa. Oje otito wipe omi to mo dara fun wa, sugbon iye ti mimo nilo kolu oye ifasehin nigbana” mimo dara” fi ona fun “ mimo o dara rara.
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+Lekansi, eleyii ko sowipe mi mo ni omi o fidi mule. Omi yiyo dara ni ayegbigba ju omi osa lo.
 
-#### Truth And Objective Reality
+#### Otito ati iri mimule
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+Oro otito she Pataki ninu oro gbigba daradara. Ti mo ban gbiyanju lati yin ofa mo oju buulu, a lemo gbigba ofa mi bi ofa naa bashe kolu aarin oju buulu naa.
 
-What, then, is the “bull’s-eye” of truth?
+Ki ni “ oju buulu otito”?
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+Ni riro, otito oro o ni wiwon pelu lilo re pelu riri imule.
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+Gbigbe si egbe kana won ishoro ede. Ti mob a nawo si seagullu, ti mosope “ eleyii je anvili” mo o si ni ona otito, toripe anvili o le mi, ko sile fo. Iyi otito oro ki ni ale won pelu riri awon idaju ti o mule. Nigba ti seaguulu o kin she anvili, oro mi je io.
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+Ni adayeba, isopo ooto ati riri nilo ede ati ero wani imule. Awon idi to dara po lati gbagbo wipe ede meejeeji ati ogbon fidi mule; a le wo ibaraeni soro ti ko ni idaju oye lori eleyi, sugbon a le sope niwon igba ti a ban fi oju w aka iwe ti a ko ni ede omo eniyan, alegba wipe oju wa, ati ede t I an pinlo ni ibalopo to dara toto fun wa lati mo ooun ti mo nko. Tikobaribe, a o ni nkankan lati so, osi le ni oye oun ti mo nko ni ona Kankan, oro yii o nii itumo, a sile pe ni ”wingdingsi”.
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+Ti a ba le so iyato laarin riri oro mejeeji, ale fi ogbon tesiwaju.
 
 #### Accuracy And Consistency
 
