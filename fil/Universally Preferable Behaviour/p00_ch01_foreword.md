@@ -1,6 +1,6 @@
 ## Ang Paunang Salita
 
-Sa maraming kuwento ng mga engkanto, doon ay naninirahan ang isang teribleng halimaw ng kamangha-manghang kapangyarihan, isang dragon o isang maninila, kung saan pinagmamalupitan ang karatig na mga lupain. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+Sa maraming kuwento ng mga engkanto, doon ay naninirahan ang isang teribleng halimaw ng kamangha-manghang kapangyarihan, isang dragon o isang maninila, kung saan pinagmamalupitan ang karatig na mga lupain. Ang mga lokal na mga taganayon ay nanginginig sa takot sa halimaw na ito, isinasakripisyo nila ang kanilang mga hayop, nagbabayad ng salapi at ng dugo sa pag-asa ng papaglubagin ang nakamamatay na kapusukan nito.
 
 Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
 
