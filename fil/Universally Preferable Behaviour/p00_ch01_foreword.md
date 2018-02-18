@@ -26,9 +26,9 @@ Dahil ang tinatawag nating mga "etika" ay nananatiling pansarili at *kultural* l
 
 Hindi tayo mabubuhay nang walang moralidad, ngunit hindi natin kayang ipaliwanag ang moralidad nang may patutunguhan - kaya naman nananatili tayong walang-hanggang hinatulan sa hungkag na pamumuhay ng mapagmataas na pagpapaimbabaw, mapanghamak na pangingibabaw o banal na pang-aalipin.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Sa pangkaisipan, walang mas mataas na gantimpala sa mundo. Ang ating kabiguan na ipaliwanag ang layunin at makatwirang patakarang moral ay nagbunga ng daang milyon ng buhay ng mga tao, sa digmaan ng mga relihiyon at mga estado.
 
-In many ways, the stakes are getting even higher.
+Sa maraming paraan, ang mga gantimpala ay lalong tumataas.
 
 The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
 
