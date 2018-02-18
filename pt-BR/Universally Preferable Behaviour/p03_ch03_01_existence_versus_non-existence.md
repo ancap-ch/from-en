@@ -50,55 +50,55 @@ O que chamamos de "governo" é apenas mais um exemplo desta *zona nula* em que c
 
 A sociedade progride exatamente no grau em que razão e evidência dão o grande salto do pessoal para o universal e destroem qualquer * zonas nulas* irracionais no caminho. A ciência progride exatamente no grau em que rejeita a irracionalidade de Deus e "absolutos" subjetivos. A medicina progride exatamente ao grau que rejeita a eficácia da oração e rituais vazios e em vez disso, baseia-se na razão e evidência. Filosofia também – e a sociedade humana em geral – vai avançar exatamente no grau em que rejeita o "círculo-quadrado da moral" de estatistas e teorias éticas religiosas.
 
-### Governo
+### 政府
 
-Dizer que o governo opera sob regras de morais opostas do resto da sociedade é exatamente o mesmo como dizendo, "duendes são imunes a gravidade". Em primeiro lugar, não existem duendes – e uma das maneiras em que sabemos que eles não existem é que se afirma que são imunes à gravidade. Tudo o que tem massa está sujeito a gravidade – o que é imune a gravidade por definição não tem massa e, portanto, não existe. A afirmação "duendes são imunes a gravidade" é uma tautologia, que apenas confirma a não-existência de duendes – é o semântico equivalente a "aquilo que não existe, não existe." "A é A", a primeira lei de Aristóteles da lógica, faz um pouco precioso para confirmar a existência daquilo que é definida como a não-existência.
+他说政府相反的道德规则从其他社会下运作是完全一样，就像说“妖精免疫重力”。首先，妖精不存在–和的一种方法 - 我们知道他们的行为方式之一不存在的是它声称它们不受重力的影响。首先，妖精不存在–和的一种方法，我们知道他们不存在，他们声称他们是免疫的重力。 所有有质量的物体都受重力的影响，根据定义它对重力不起作用，因此质量不存在。这句话, “妖精是免疫的重力”是一种重言式，它只证实了妖精的不存在–非存在是语义等价的, “不存在是不存在”。 A 是 A，亚里士多德的逻辑的第一定律，是珍贵的确认，它的定义是不存在的的存在。
 
-Da mesma maneira, quando dizemos que é moralmente bom para soldados representantes de assassinato e governo para roubar, nós sabemos que "soldados" e "representantes do governo" como categorias morais é algo *completamente inválido*.
+同样，当我们说谋杀和政府代表偷窃的道德上是好的，我们知道“士兵”和“政府代表”作为道德范畴是完全无效的。
 
-Se eu disser que um círculo quadrado tem o direito de roubar, eu apenas estou dizendo que aquilo que não pode existir tem o direito de fazer isso que é contraditório – uma declaração puramente absurda, mas que permanece estranhamente atraente na "zona nula" da política.
+如果我说一个方圆有偷窃的权利，我只是说，那个不存在的权利有权做到自相矛盾的一个 - 纯粹是无意义的陈述，但在政治的“空白地带”仍有奇怪的吸引力。
 
-Se eu comprar a fantasia de um soldado em uma loja de segunda mão, e colocá-lo, claramente eu não criei um universo alternativo onde em regras morais opostas podem ser válidas. No momento antes de eu colocar o traje, era errado para mim assassinar – quando é que se torna *certo* eu matar? Quando colocar as calças? E se eu tiver as calças, mas não o colete? E se eu tiver apenas uma bota? E se ambas as botas são, mas só uma esta amarrada? E se meu chapéu estiver ao contrário? E se eu tiver vestido um uniforme que não é reconhecido pela primeira pessoa que me deparo? Os Beatles, de repente, possuem o direito de matar quando lançaram o cover de "Sargento pimenta"? Eles perderam esse direito quando eles tiraram seus casacos?
+如果我在一家二手商店买一件士兵服装，穿上它，显然我没有创造出一个相反的道德规则有效的替代宇宙。在我穿上戏服的那一刻，我犯了谋杀罪，那我什么时候能成为凶手呢？我什么时候穿上裤子? 如果我穿裤子，而不是背心怎么办? 如果我有一把靴子怎么办? 如果双靴子都打开了，但只有一个被系上了呢？如果我的帽子倒退怎么办？如果我穿上了我未遇到的第一个人不认可的制服，该怎么办? 披头士乐队在拍摄“警察辣椒队”封面时突然拥有谋杀权吗？他们脱下外套时是否失去了这种权利？
 
-Eu pergunto essas perguntas retóricas porque elas são de fato muito sérios. Claramente, um traje militar não altera a natureza do ser humano, mais do que um corte de cabelo transforma-o em um pato, um conceito ou um Deus.
+我问这些反问句，因为它们实际上是致命的。很明显，一件军人服装并不能改变一个人的本性，比理发更能使他变成一只鸭子、一个概念或一个神。
 
-"Ah", você pode dizer, "mas o traje é inválido porque você tem isso em uma loja de segunda mão – colocar o uniforme de um soldado não mais faz um soldado do que as fotocópias de um doutorado te garantem um pH.d."
+“啊，”你可能会说，“但这套服装是无效的，因为你在一家二手商店买到了它 -穿上士兵的制服不再是当兵，而不是复印博士学位给你一个博士学位。”
 
-A analogia é incorreta, porque tendo um pH.d. ou fotocopiar um doutorado não altera nenhuma das regras morais a que você é submetidos como um ser humano.
+这种类比是不正确的，因为拥有博士学位或复印博士学位不会改变你作为一个人所受到的任何道德准则。
 
-"Bem", você pode responder, "mas a diferença é que o soldado possui direitos morais que são fornecidos a ele pelo cidadão comum, por uma questão de legítima defesa coletiva, e assim por diante."
+“嗯，”你可以回答，“但不同的是，士兵拥有一般公民为他提供的道德权利，为了集体自卫等等”。
 
-Isto levanta um ponto muito interessante, que é a questão de se opiniões podem mudar a realidade.
+这引发了一个非常有趣的问题，即意见是否能够改变现实。
 
-### Opiniões e realidade
+### 意见和现实
 
-Claramente, entendemos que eu não posso te livrar das restrições da gravidade através de minha opinião, da mesma maneira que a minha opinião de que "dois mais dois são cinco" torna essa afirmação verdadeira.
+很明显，我们明白我无法通过我的观点，把你从万有引力的束缚中解放出来，这比我认为“二加二等于五”的看法更符合事实。
 
-"Opiniões" são essas crenças que não tem nenhuma evidência clara na realidade ou para que nenhuma evidência clara pode ser fornecida, ou que são expressões de preferências meramente pessoais. A minha opinião pessoal é que eu prefiro sorvete de chocolate ao de baunilha - Eu também tenho uma "opinião" de que a Islândia é um paraíso tropical, ou que Deus existe, ou que a chuva cai para cima. Opiniões pessoais claramente não têm nada a ver com a moralidade; opiniões que pretendem descrever com precisão a realidade, mas que não são meramente preconceitos incorretos. Acreditar que a chuva cai para cima não inverte o seu curso; vestir uma camisa havaiana para a Islândia não faz Reykjavik ficar mais quente.
+“意见”是指那些在现实中没有明确的证据，或者没有明确的证据可以提供，或者仅仅是个人喜好的信念。我个人的观点是我更喜欢巧克力冰淇淋，而不是香草口味的 -我可能也有一种“意见”，认为冰岛是热带天堂，或者上帝存在，或者雨水向上。个人观点显然与道德无关，声称准确地描述现实但却不正确的观点仅仅是不正确的偏见。相信雨水往上流动并不会改变方向，穿夏威夷衬衫去冰岛不会使雷克雅未克变得更温暖。
 
-Assim, acreditar que o assassinato é moralmente bom não faz assassinato moralmente bom. Desde que minhas crenças sobre um ser humano não mudam a sua natureza moral, minha crença de que seus crimes são virtuosos não altera a virtude de suas ações. Se eu fechar os olhos e imaginar que você é um lagarto, você não perde de repente sua capacidade de regular sua própria temperatura corporal. Imaginar que você é um peixe não permite que você ignore a sua necessidade de equipamento de mergulho.
+因此，认为谋杀在道德上是好的并不能使谋杀成为道德上好。因为我对一个人的信念并没有改变他的道德本质，我相信他的谋杀是高尚的，不会改变他行为的美德。如果我闭上眼睛，想象你是一只蜥蜴，你不会突然失去调节体温的能力。想象你是一条鱼并没有绕过你对潜水装备的需求。
 
-Opiniões não mudam a realidade.
+意见不会改变现实。
 
-Porque opiniões não mudam a realidade, eu não posso conceder-lhe qualquer exceção ou inversão no que diz respeito a uma regra moral universal. Visto que as regras morais são baseadas na lógica universal, bem como a natureza física e a realidade de um ser humano, não posso conceder-te o "direito de matar," mais do que eu posso conceder-lhe a habilidade de levitar, andar sobre a água ou com precisão dizer que dois mais dois são cinco.
+因为意见不会改变现实，我不能允许你对普遍的道德规则给予任何例外或逆转。从道德规则是基于通用的逻辑，以及人类的物理本质和现实，所以我不能授予你“谋杀权”，除了我可以授予你悬浮，在水上行走或准确行事的能力外说两个和两个五个。
 
-### Governo como voluntarismo
+### 政府作为自愿主义
 
-A força aberta envolvida na instituição do governo – o invólucro conceitual que inverte as regras morais para um determinado grupo de indivíduos – é algo que é sempre mantido fora da mesa em debates. Quando falamos sobre o governo, nunca é considerado positivo salientar "a arma no quarto." Quase por definição, os governos são considerados para serem escolhidos pelo e para o povo e para operar com sua aprovação expressa ou implícita.
+政府机构中的开放力量 - 一种颠覆特定群体道德规则的概念包装 -在辩论中总是被忽略。当谈到政府时，指出“屋子里的枪”从来就不是一件积极的事。几乎从定义上来说，政府被认为是由人民选择并为人民所选择，并且以明确或隐含的赞同来运作。
 
-No entanto, isso é pura bobagem.
+然而，这纯粹是胡说八道。
 
-Se um homem mantém uma faca na garganta de uma mulher ao ter relações sexuais com ela, isso é por definição um ato de estupro. Ele não pode dizer que o sexo é consensual, enquanto ao mesmo tempo ameaça-a com ferimentos ou morte, se ela se recusa a fazer sexo com ele. Se o sexo é voluntário, a faca é completamente desnecessária. Se o homem sente a necessidade de uma faca, então o sexo é claramente *não* voluntário.
+如果一个人在和她做爱的时候把刀子拿给女人的喉咙，那是强奸的行为。他不能说性是两厢情愿的，同时如果她拒绝和他发生性关系，就要以伤害或死亡威胁她。如果性行为是自愿的，那么这把刀是完全不必要的。如果男人觉得需要一把刀，那么显然性是非自愿的。
 
-Da mesma forma, as pessoas dizem que a tributação é parte do contrato social que eles voluntariamente concordaram.
+同样，人们说税收是他们自愿同意的社会契约的一部分。
 
-Isto é logicamente e empiricamente falso.
+这在逻辑上和经验上都是错误的。
 
-Sabemos que é empiricamente falsa porque *nenhum há contrato social existe*. Nem você nem eu *alguma vez* assinou um documento voluntariamente consentindo com o imposto de renda – simplesmente nascemos em um sistema que leva o nosso dinheiro de nós apontando uma arma.
+我们知道这是经验错误的，因为社会契约没有存在。你和我都没有签署过自愿同意所得税的文件 – –我们只是出生在一个系统，它可以从枪支点拿走我们的钱。
 
-### A arma no quarto
+### 房间里的枪
 
-Muitas pessoas argumentam neste ponto que a tributação não é aplicada no apontando uma arma, e sim que as pessoas pagam voluntariamente. Por exemplo, eu nunca tive uma arma apontada na minha cara por um coletor de impostos ou um policial, mas eu pago impostos por décadas.
+许多人会在这一点上争论说，税收不是从枪的角度实施的，而是人们自愿支付的。举个例子，我从来没有在一个收税人或警察面前用枪指着我的脸，但是我已经交税几十年了。
 
 Isto pode ser verdade, mas é completamente irrelevante. Se eu disser a uma mulher que vou matar seus filhos se ela não tiver sexo comigo, e ela se submete a mim, claramente entendemos que uma ação imoral tomou lugar-mesmo que eu não tenha usado nenhuma arma em minha violação. Claramente, se a mulher submete-se a mim, é porque ela teme que irei realizar minha ameaça. Se eu disser a ela que meu duende de estimação vai matar seus filhos, se ela não tiver sexo comigo, ela muito provavelmente seria perturbada, mas não teria medo de minha ameaça de forma significativa, uma vez que é impossível que meu duende de estimação mate seus filhos. Ou, se eu morresse, e minha vontade afirmasse que eu mataria as crianças dessa mulher se ela não transasse comigo, claramente ela se sentiria aliviada ao invés de com medo, já que não posso conceber minha ameaça do depois de morto. Assim, nós pagamos impostos, porque sabemos que, se não o fizermos, a probabilidade de sermos agredidos contra representantes do estado é muito elevada. Se eu não pagar meus impostos, recebo uma carta, outra carta, em seguida, uma chamada de telefone, e depois uma intimação ao tribunal – e se eu não aparecer no tribunal, ou não pagar meus impostos atrasados e multas acumuladas e juros, policiais virão com armas para me levar para a cadeia. Se eu resistir a esses policiais, eles vão me abater.
 
