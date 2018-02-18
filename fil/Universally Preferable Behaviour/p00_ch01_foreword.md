@@ -20,7 +20,7 @@ Ang halimaw na ito ay nagpabagsak sa maraming dakilang mga bayani, mula kay Socr
 
 Ang halaga sa sangkatauhan ay napakalaki.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Dahil tayo ay nananatiling hindi kayang ipaliwanag ang isang makatwirang sistema ng pangkalahatang moralidad, tayo ay pinilit na itanim sa isipan ang mga kwentong katatakutan na pangrelihiyon sa ating mga anak, o bigyan ng mga baril, mga bilanggo at mga sundalo sa isang maliit na monopolya ng walang kaluluwang mga manunupil na tinatawag nila ang kanilang mga sarili na "ang estado."
 
 Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
 
