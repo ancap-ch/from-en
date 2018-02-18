@@ -18,7 +18,7 @@ Alegar, também, que um homem não é responsável pelas acções do seu corpo �
 
 Se eu não sou responsável pelo meu discurso, então não há nenhum ponto a discutir comigo. Um gravador também não é responsável pelo seu discurso, motivo pelo qual não entramos em desentendimentos ásperos com fitas magnéticas. Nos filmes de terror piegas, as raparigas parecem ser particularmente susceptíveis à possessão demoníaca - o inevitável sacerdote que sempre aparece, oferece-se para falar com o demónio que domina a menina, momento este em que a garota começa a fazer um som como Don Ho com ganchos de esferas.
 
-This ridiculous portrait is accurate in one sense though – if some other being is in full control of the girl’s vocal chords, it is that being which needs to be addressed, not the girl, who has no control over her responses.
+Este retrato ridículo é preciso, no entanto, num sentido - se algum outro ser tiver o total controlo das cordas vocais da menina, é esse ser que precisa ser dirigido e não a garota, que não tem controlo sobre as suas respostas.
 
 Thus if I say to you that I do not have control over my speech, you can ask me: who does? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
 
