@@ -10,7 +10,7 @@ Ang halimaw ay laging walang kamatayan, kaya ang mga taganayon ay hindi na umaas
 
 Ang tanging pag-asa ng mga desperadong taganayon ay para sa isang tao na lumitaw na maaaring talunin ang halimaw.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Hindi maiiwasan, na ang isang tao ay lumabas nagpamalas sa lahat bilang lubos na hindi kapani-paniwala. Siya ay isang katulong sa kuwadra, isang anak ng sapatero, isang tagasunod ng panadero - o kung minsan, isang palaboy.
 
 This book is the story of my personal assault on just such a beast.
 
