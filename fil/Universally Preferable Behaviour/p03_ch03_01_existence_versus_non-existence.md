@@ -88,7 +88,7 @@ Ang bukas na puwersa ay sangkot sa institusyon ng gobyerno - ang konseptual wrap
 
 Gayunman, ito ay isang purong walang katuturan.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Kung Ang lalake ay may hawak na kutsilyo sa leeg ng babae habang nakikipag talik, ito ay kahulugan ng isang pagkilos ng pang gagahasa. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
 
 In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
 
