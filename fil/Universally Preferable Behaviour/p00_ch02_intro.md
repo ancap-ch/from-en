@@ -96,7 +96,7 @@ Kapag nagamot natin ang ating sarili mula sa sakit, bumubuti ang ating pakiramda
 
 Sa parehong paraan, ang parasitiko na sumasakal sa sangkatauhan ay tumitingin ng may pagkatakot sa kalayaan ng nakararami. Dahil ang kanilang parasitismo ang nagpapalaya sa kanila mula sa hinihingi ng katotohanan - upang kitain ang kanilang pang araw-araw na kakainin - Hindi maiiwasan na tignan nila ang kalayaan ng masa bilang isang anyo ng pang-aalipin para sa kanilang mga sarili. Gayun ang masdan ng magsasaka ang "kalayaan" ng kanyang mga alagang hayop bilang isang ganap na kalamidad…
 
-Ang pagtataguyod sa katotohanan ay kinakailangang mag limita sa pantasya. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+Ang pagtataguyod sa katotohanan ay kinakailangang mag limita sa pantasya. Ang paglimita sa pantasya ay kailangang maglimita sa pagsasamantala. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
 
 Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
 
