@@ -28,13 +28,13 @@ Ang pagtatanggol ay hindi rin maaaring *kailangan* kaasalan, dahil ang kailangan
 
 Kung si Bob ay inatake si Doug, ngunit ito ay ganap na mali para kay Doug na gumamit ng dahas upang ipagtanggol ang kanyang sarili, ang karahasan ay nagtatapos na mapunta sa dalawang mga kategorya ng moralidad - ang pagsisimula ng puwersa ay mabuti, ngunit and pagtatanggol sa sarili ay masama, at hindi maaaring tumayo ayon sa UPB.
 
-However, you might argue, does not the proposition that self-defence is good also make violence both good and bad at the same time – the violence that is used to attack is bad, but the violence that is used for self-defence is good?
+Gayunman, maaari mong magtaltalan, hindi ba ang panukala na ang pagtatanggol sa sarili ay mabuti at ginagawa din ang karahasan na mabuti at masama sa parehong pagkakaktaon- ang karahasan na ginagamit sa pag-atake ay masama, ngunit ang karahasan na ginagamit sa pagtatanggol sa sarili ay mabuti?
 
-This is an interesting objection – however, if the initiation of force is evil, then it can be prohibited by using force, since that is one of the very definitions of evil that we worked out above.
+Ito ay isang kawili-wili na pagtutol - gayunman, kung masama ang pagsisimula ng puwersa, ito ay maaaring ipagbawal sa pamamagitan ng puwersa, sapagkat iyon ay isa sa mga kahulugan ng kasamaan na isinagawa natin sa itaas.
 
-Thus it is impossible for any logical moral theory to reject the moral validity of self-defence.
+Kaya ito ay imposible para sa anumang lohikal na teyorya ng moralidad upang tanggihan and moralidad na bisa ng pagtatanggol sa sarili.
 
-### Child Raising
+### Ang pagpapalaki ng anak
 
 Instinctively, we generally understand that there is something quite wrong with parents who do not feed their babies. To conceive a child, carry a child to term, give birth to the child, and then leave it lying in its crib to starve to death, severely offends our sensibilities.
 
