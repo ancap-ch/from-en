@@ -8,9 +8,9 @@ Sa mundong totoo, ito ay umaabot sa staggeringly callous ng tao sa pagpindot sa 
 
 Ito ay hindi na sabihin na ang pagsira sa bintana para iligtas ang iyong buhay ay hindi mali. Ito ay, pero ito ay mali na halos ang lahat sa atin ang piliin na magpursige sa halip na mamatay. Kapag ako ay nasa verge ng gutom sa kamatayan, gusto kong kumuha ng mansanas. Ito ay hindi nangangahulugan na ito ay *right* para sa akin na kumuha ng mansanas - ito ay nangangahulugan na gagawin ko ito - at tatanggapin ko ng makatarungan ang kahihinantnan ng aking pagnanakaw.[^10]
 
-### Grey Areas
+### Grey na lugar
 
-The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+Ang katotohanan ng tiyak “grey areas” ang etika na umiiral sa larangan ay ginagamit ng madalas bilang pagbibigay-katarungan para sa ranggo ng mga relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
 
 This is false.
 
