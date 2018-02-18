@@ -20,7 +20,7 @@ Se eu não sou responsável pelo meu discurso, então não há nenhum ponto a di
 
 Este retrato ridículo é preciso, no entanto, num sentido - se algum outro ser tiver o total controlo das cordas vocais da menina, é esse ser que precisa ser dirigido e não a garota, que não tem controlo sobre as suas respostas.
 
-Assim, se eu lhe disser que não tenho controlo sobre o meu discurso, você pode perguntar: quem o tem? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
+Assim, se eu lhe disser que não tenho controlo sobre o meu discurso, você pode perguntar: quem o tem? Se eu respondo que ninguém o tem, então faz tanto sentido argumentar comigo como argumentar com um aparelho de televisão, ou com a rocha acima mencionada, enquanto salta por uma encosta até o seu carro.
 
 Thus the very act of controlling my body to produce speech demands the acceptance of my ability to control my speech – an implicit affirmation of my ownership over my own body.
 
