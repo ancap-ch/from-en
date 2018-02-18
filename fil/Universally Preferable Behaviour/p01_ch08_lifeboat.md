@@ -6,7 +6,7 @@ Halimbawa sa, kapag tinanggap natin ang unibersal ng validity of property rights
 
 Sa mundong totoo, ito ay umaabot sa staggeringly callous ng tao sa pagpindot sa mga charge laban sa tao kung sino ang sumisira sa bintana ayon sa utos para mai-save ang kanyang buhay - kagaya ng isang tao na irreponsable na tumanggi na bayaran ang sinira para sa nasabing bintana. Prinsipyo ng "maiwasan" dito ang sentro - ang taong nakabitin sa flagpole ay ang maliit na pagpili tungkol sa pagsiba sa bintana. Ang lalaking sumira sa iyong bahay para kuhain ang mga bagay na malinaw ay may kapasidad na maiwasan ang pag-invading sa iyong ari-arian - hindi sya cornered, pero sa halip na *initiator* sa pananalakay. Ito ay kagaya sa mga pagkakaiba sa pagitan ng babae kung sinong tao ang nandadaya sa kanya, laban sa babae kung sinong tao ang nag-sarado sa kanya sa basement.
 
-This is not to say that breaking the window to save your life is not wrong. It is, but it is a wrong that almost all of us would choose to commit rather than die. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
+Ito ay hindi na sabihin na ang pagsira sa bintana para iligtas ang iyong buhay ay hindi mali. Ito ay, pero ito ay mali na halos ang lahat sa atin ang piliin na magpursige sa halip na mamatay. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
 
 ### Grey Areas
 
