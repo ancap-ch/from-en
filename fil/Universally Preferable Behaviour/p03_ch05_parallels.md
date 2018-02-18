@@ -6,7 +6,7 @@ Ang ideya na ang kalikasan ay may sistema na kayang bumuo ng sarili at tustusan 
 
 Bago ang siyensya, sa gitna ng bawat komplikadong sistema ay nakahimlay ang walang bahid na kamalayan - wala kung saan ang sistemang ito ay lilipad sa kaguluhan, at doon titigil.
 
-Sa kasamaang palad, ang "walang bahid na kamalayan" na ito ay isa lamang ilusyon, ipagpalagay na mapagkawang-gawa. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Sa kasamaang palad, ang "walang bahid na kamalayan" na ito ay isa lamang ilusyon, ipagpalagay na mapagkawang-gawa. Walang ganoong Diyos ang umiral - lahat ng *talagang* umiral ay pahayag ng mga pari. Kung ano talaga ang nakalatag sa gitna ay ang pagkiling ng di-makatwiran na mga indibidwal, na walang ideya kung gaano talaga sila kagalit.
 
 We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
 
