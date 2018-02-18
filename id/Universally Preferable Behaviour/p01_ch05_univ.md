@@ -54,13 +54,13 @@ Sebelum kebangkitan metode ilmiah, orang-orang percaya bahwa materi mematuhi kei
 
 Sebagaimana disebutkan di atas, metode ilmiah merupakan metode yang mendasar untuk memisahkan antara teori yang akurat dan yang tidak akurat dengan menempatkan mereka kedalam dua pusat pengujian: konsistensi logis dan observasi empiris - dan dengan selalu mengedepankan konsistensi logis di atas observasi emperis. Jika saya menawarkan sebuah teori yang sangat konsisten dan logis yaitu bahwa batu akan mengapung *ke atas* ketika dilempar dari sebuah tebing, uji empiris yang manapun membuktikan bahwa teori saya salah, karena observasi selalu mengalahkan sebuah hipotesa.
 
-Aspek selanjutnya dari metode ilmiah adalah percaya bahwa benda terbentuk dari kombinasi atom-atom dengan sifat umum, stabil dan bisa diprediksi, maka perilaku benda juga harus umum, stabil dan dapat diprediksi. Eksperimen tersebut harus bisa *dilakukan lagi* di tempat dan waktu yang berbeda. Saya tidak bisa mengatakan bahwa teori *batu apung* saya benar hanya untuk satu batu tertentu, atau hanya pada hari pertama sekali saya melakukan pengujiannya, atau hanya pada satu tempat tertentu saja. Teori saya harus menggambarkan perilaku dari *benda*, yang universal, umum, stabil dan bisa diprediksi.
+Aspek selanjutnya dari metode ilmiah adalah percaya bahwa benda terbentuk dari kombinasi atom-atom dengan sifat umum, stabil dan bisa diprediksi, maka perilaku benda juga harus umum, stabil dan dapat diprediksi. Eksperimen tersebut harus bisa *dilakukan lagi* di tempat dan waktu yang berbeda. Saya tidak bisa mengatakan bahwa teori *batu apung* saya benar hanya untuk satu batu tertentu, atau hanya pada hari pertama sekali saya melakukan pengujiannya, atau hanya pada satu tempat tertentu saja. Teori saya harus menggambarkan perilaku dari *benda*, yang universal - berlaku untuk semua, umum, stabil dan bisa diprediksi.
 
 Pada akhirnya, ada aturan yang telah diterima secara umum, juga dikenal dengan sebutan Occam’s Razor – yang menyatakan bahwa, dari dua teori yang memiliki kemampuan prediksi yang sama, yang paling sederhana dari keduanya yang lebih baik. Sebelum adanya revolusi Copernican, ketika bumi dianggap sebagai pusat alam semesta, gerakan mundur planet Mars ketika bumi melewatinya pada orbit disekeliling matahari menyebabkan banyak sekali masalah pada perhitungan sistem astronomi Ptolemaic. “Lingkaran didalam lingkaran” berlipat ganda dengan sangat cepat, hal tersebut tidak akan terjadi jika matahari ditempatkan sebagai pusat tata surya dan menerima bahwa orbit-orbit planet berbentuk bulat.
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+Oleh karena itu setiap teori ilmiah yang valid haruslah (a) universal - berlaku untuk semua (b) logis - masuk akan (c) bisa diverivikasi secara empiris (d) bisa dilakukan lagi dan (e) sesederhana mungkin.
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+Metodoligi untuk menilai dan membuktikan sebuah teori *moral* sama persisi dengan metodologi untuk menilai dan membuktikan teori-teori yang lain.
 
 #### Moral Rules: A Definition
 
