@@ -94,9 +94,9 @@ Sa parehong paraan, tao ang nagsabi na Ang pagbubuwis ay bahagi ng kontrata sa l
 
 Ito ay parehong lohikal at empirikaly na Hindi totoo.
 
-Alam natin na ito ay empirically Hindi totoo dahil * walang mga kontrata sa lipunan ang lumitaw*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Alam natin na ito ay empirically Hindi totoo dahil * walang mga kontrata sa lipunan ang lumitaw*. Hindi ikaw o ako*kailanman* Ang naglagda ng isang dokumento kusang loob na sumasangayon na mag buwis sa kinikita - pinanganak kami sa isang simpleng sistema na kumokuha ng pera mula saamin sa dulo ng isang baril.
 
-### The Gun In The Room
+### Ang baril sa kuwarto
 
 Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
 
