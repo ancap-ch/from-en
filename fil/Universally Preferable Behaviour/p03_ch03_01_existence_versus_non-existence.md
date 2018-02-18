@@ -84,9 +84,9 @@ Dahil ang mga opinyon ay hindi mapapalitan ang reyalidad, Hindi ko pweding ibiga
 
 ### Gobyerno bilang boluntaryo
 
-Ang bukas na puwersa ay sangkot sa institusyon ng gobyerno - ang konseptual wrapper na nagbabaliktad ng moral na patakaran para sa partikular na grupo ng mga indibidual - ay bagay na laging iniingatan ang talaan sa mga debate. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+Ang bukas na puwersa ay sangkot sa institusyon ng gobyerno - ang konseptual wrapper na nagbabaliktad ng moral na patakaran para sa partikular na grupo ng mga indibidual - ay bagay na laging iniingatan ang talaan sa mga debate. Kapag tinatalakay ang tungkol sa gobyerno, ito ay hindi tinuturing na isang positibong bagay para ituro "ang baril sa kuwarto." Halos kahulugan sa, mga gobyerno ay itinuturing na pinili para sa mga tao at upang gumana sa kanilang ipinahayag o pahiwatig na pag-apruba.
 
-However, this is pure nonsense.
+Gayunman, ito ay isang purong walang katuturan.
 
 If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
 
