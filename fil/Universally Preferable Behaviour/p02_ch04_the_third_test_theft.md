@@ -42,7 +42,7 @@ Tulad ng nabanggit sa itaas, ang mga tao ay may mga karapatan sa pag-aari, o hin
 
 Kung ang isang lalaki ay walang karapatan na gumamit ng ari-arian, pagkatapos ay wala siyang karapatang gamitin ang kanyang sariling katawan. Wala siyang karapatang gamitin ang kanyang sariling baga, kaya't dapat siyang huminto sa paghinga. Bagaman ito ay tila nakakatawa, ito ay isang agarangl at di maiiwasang resulta ng saligan na ang mga tao ay walang mga karapatan sa pag-aari.
 
-It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
+Ito ay medyo ligtas na ipalagay na ang sinuman na iyong pinag-uusapan ang mga karapatan sa pag-aari ay may pagguhit ng hininga, at sa gayon ay sumasang-ayon sa iyo na siya ay may karapatang gamitin ang kanyang sariling katawan kahit man lamang.
 
 The question then comes up whether or not human beings have the right to *exclusive* property use. For instance, property could be defined as a sort of time-share principle of ownership, insofar as everyone should have the right to own everything, on some schedule or another.
 
