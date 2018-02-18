@@ -18,7 +18,7 @@ Gayundin, ang pagtatalo na ang isang tao ay hindi mananagut para sa epekto ng ka
 
 Kung hindi ako reponsable sa aking pagsasalita, at pagkatapos ay wala akong punto sa pakikipagtalo sa akin. Ang isang tape recorder ay hindi rin mananagot sa pagsasalita nito, na kung bakit saan ay kung bakit kami madalas na hindi pumasok sa mapaminsalang mga hindi pagkakasundo sa piraso ng magnetic. Sa masarap na nakakatakot na palabas, ang mga kabataang babae ay tila napipinsala sa pag-aari ng demonyo – ang hindi maiiwasang saserdote na nagpapakita ng laging nag-aalok upang makipag-usap sa demonyo na namamahala sa batang babae, kung saan ang batang babae ay nagsimulang gumawa ng tunog tulad ng Don Ho gargling na may ball bearings.
 
-This ridiculous portrait is accurate in one sense though – if some other being is in full control of the girl’s vocal chords, it is that being which needs to be addressed, not the girl, who has no control over her responses.
+Ang katawa-tawang larawan ay tumpak sa isang kahulugan bagaman – kung ang iba pang pagkatao ay may ganap na kontrol sa vocal chords ng batang babae, ito ay ang kung saan kailangang matugunan, hindi ang babae, na walang kontrol sa kanyang mga tugon.
 
 Thus if I say to you that I do not have control over my speech, you can ask me: who does? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
 
