@@ -38,9 +38,9 @@ Uma vez que possuímos os nossos corpos, inevitavelmente também somos donos dos
 
 Mesmo que rejeitemos o anterior, ainda podemos usar o CUP para afirmar definitivamente, a existência de direitos de propriedade universais.
 
-As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
+Como foi mencionado acima, os seres humanos têm direitos de propriedade, ou não. Com excepção de algumas áreas cinzentas, às que chegaremos em breve, essa continua a ser uma proposição universal.
 
-If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
+Se um homem não tem o direito de usar a propriedade, então, também, não tem o direito de usar o seu próprio corpo. Não tem o direito de usar os seus próprios pulmões e portanto, deve parar de respirar. Embora isso pareça uma tolice, é o resultado imediato e inevitável da proposição de que os seres humanos não possuem direitos de propriedade.
 
 It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
 
