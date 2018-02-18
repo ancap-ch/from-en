@@ -26,7 +26,7 @@ Ang pagtatanggol sa sarili ay hindi maaaring "masama," dahil ang kahulugan ng ma
 
 Ang pagtatanggol ay hindi rin maaaring *kailangan* kaasalan, dahil ang kailangang kaasalan ("huwag manggahasa") ay ipapatupad sa pamamagitan ng karahasan, na kung saan ay nangangahulugan na sinumang di-marahas na ipagtanggol ang kanyang sarili ay lehitimong atakihin. Gayunman, ang bigong ipagtanggol ang kanyang sarili ay *pwede* nang atakihin, at kaya tayo humantong sa isang pabilog na sitwasyon kung saan lahat ay lehitimong kumikilos ng marahas laban sa isang tao na hindi ipinagtatanggol ang sarili, ay hindi lamang hindi makatwiran, kundi kasuklam-suklam din sa moralidad.
 
-If Bob attacks Doug, but it is completely wrong for Doug to use violence to defend himself, then violence ends up being placed into two moral categories – the initiation of force is morally good, but self-defence is morally evil, which cannot stand according to UPB.
+Kung si Bob ay inatake si Doug, ngunit ito ay ganap na mali para kay Doug na gumamit ng dahas upang ipagtanggol ang kanyang sarili, ang karahasan ay nagtatapos na mapunta sa dalawang mga kategorya ng moralidad - ang pagsisimula ng puwersa ay mabuti, ngunit and pagtatanggol sa sarili ay masama, at hindi maaaring tumayo ayon sa UPB.
 
 However, you might argue, does not the proposition that self-defence is good also make violence both good and bad at the same time – the violence that is used to attack is bad, but the violence that is used for self-defence is good?
 
