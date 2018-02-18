@@ -18,9 +18,9 @@ Pag nagsalita tayo tungkol sa mga "Diyos," tayo ay talagang nagsasabi ng tungkol
 
 Kapag nagsalita tayo tungkol sa "gobyerno,"tayo ay *talagang* nagsasabi ng "ang karahasan ng maliit na minorya
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+Ang ideya ng "kusang loob na kaayusan," na kung saan ay napatunayan sa kaharian ng pisika at bayolohiya, ay mananatiling halos hindi natin maisip sa kaharian ng lipunan.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+Gayunman, ang "gobyerno" ay hindi na kailangan para sa organisasyon at pagpapatuloy ng lipunan kaysa mga "Diyos" ay kailangan para sa organisasyon at pagpapatuloy ng sansinukob.
 
 In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
 
