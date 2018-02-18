@@ -1,6 +1,6 @@
-## Parallels
+## Kapantay
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Bago ang Rebolusyong Siyentipiko, Ito ay itinuturing na hindi maisip na ang natural na mundo ay kayang suportahan ang kanyang sarili nang walang ulirat at "moral"na nilalang sa kanyang sentro. Ang araw ay sumikat at tumahak sa tanikala ng sobrenatural na karwahe; Ang buwan ay malamig at malungkot na kapatid na lalaki ng araw. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
 
 The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
 
