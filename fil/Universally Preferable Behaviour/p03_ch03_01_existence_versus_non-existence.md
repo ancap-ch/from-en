@@ -50,55 +50,55 @@ Ang tinatawag natin "gobyerno" ay isapang halimbawa ng *null zone* Kung saan ang
 
 Ang pag unlad ng lipunan ay eksakto sa antas ng dahilan at katibayan gawin ang pinaka magandang hakbang mula sa sarili hangang sa unibersal, at sirain ang anuman hind makatwiran*null zones* sa daan. Ang pag unlad ng agham eksakto sa antas kaya tinatangihan nito ang kawalang katwiran ng Diyos "absolutes." ang pag unlad ng medisina ay eksato sa antas kaya tinatangihan nito ang bisa ng panalangin at walang saysay na ritwal umaasa sa dahilan at katibayan. Pilosopiya din - at ang lipunan ng tao sa pangkalahatan - ay umuunlad eksakto sa antas kaya tinatangihan nito ang kawalang katwiran ng " square-circle na moralidad" ng statist at relihiyon mga ethical na teorya.
 
-### Pamahalaan
+### 政府
 
-Sinasabing ang mga operasyon ng pamahalaan ay nasa ilalim ng tapat na mga patakaran ng moralidad mula sa iba pang lipunan ay eksakto ang parehong sinasabi, " leprechauns ay tinatablan ng grabidad." Una sa lahat leprechauns ay hindi umiiral-at isa sa mga paraan para malaman natin na ito ay hindi umiiral ay tinatangap nila na sila ay tinatablan ng grabidad. Ang lahat ng mya masa ay napapailalim ng grabidad - na kung saan ay immune sa grabidad sapamamagitan ng kahulugan ay walang masa, at samakatuwid ay hindi umiiral. Ang pahayag "leprechuans ay immune sa grabidad" ay isang tautolohiya, na nagpapatunay lamgang sa di-pagkakaruon ng leprechauns - ito ang simantiko katumbas ng "na hindi umiiral, hindi umiiral."A ay A, ang unang batas luhika ni Aristotle, ay mahalaga lamang upang kumpirmahin ang pagkakaroon na kung sang tinutukoy bilang hindi pagkakaroon.
+他说政府相反的道德规则从其他社会下运作是完全一样，就像说“妖精免疫重力”。首先，妖精不存在–和的一种方法 - 我们知道他们的行为方式之一不存在的是它声称它们不受重力的影响。首先，妖精不存在–和的一种方法，我们知道他们不存在，他们声称他们是免疫的重力。 所有有质量的物体都受重力的影响，根据定义它对重力不起作用，因此质量不存在。这句话, “妖精是免疫的重力”是一种重言式，它只证实了妖精的不存在–非存在是语义等价的, “不存在是不存在”。 A 是 A，亚里士多德的逻辑的第一定律，是珍贵的确认，它的定义是不存在的的存在。
 
-Sa parehong paraan, kapag sinabi natin na maganda ang moralidad ng sondalo sa pagpatay at ang kinatawan ng pamahalaan sa pagnanakaw, alam natin na ang "mga sundalo" at " mga kinatawan ng pamahalaan" bilang mga katigorya ng moralidad ay * ganap na hindi wasto*.
+同样，当我们说谋杀和政府代表偷窃的道德上是好的，我们知道“士兵”和“政府代表”作为道德范畴是完全无效的。
 
-Kung sinasabi ko na ang square circle ay maykarapatan mag nakaw, sinasabi ko lamang na ang hindi maaaring umiral ay may karapatan gawin ang salungat - sa sarili - isang tunay na walang say say na pahayag, ngunit Isa na nananatiling kakaibas sa "null zone" ng politika.
+如果我说一个方圆有偷窃的权利，我只是说，那个不存在的权利有权做到自相矛盾的一个 - 纯粹是无意义的陈述，但在政治的“空白地带”仍有奇怪的吸引力。
 
-Kung ako ay bibili ng kasuotan ng mga sundalo sa tindahan ng mga second hand, at ilagay ito sa, malina na hundi ako gumawa ng isang alternatibong uniberso kung saan ang tapat na mga panuntunan sa moral ay maaaring wasto. Ang sandali bago ko ilagay ang kasuotan sa, ang pag patay ay mali para sa akin - kailan ito naging* tama* para sa akin ang pag patay? Nang isinuot ko ang pantalon? Panu kung ako ay may pantalon, pero hindi ang vest? Paano kung meron akong nag iisang boot lamang? Paano Kung parehong boot ay meron, pero Isa lang ang sintas? Paano kung ang akin siblero ay nasalikod? Paano kung mayron akong ilagay na uniporme na hindi makikilala ng unang taong nakilala ko? Maaari ba na ang Beatles ay biglang magkaroon ng karapatan pumatay nang binaril nila ang nagtakip para sa "Sarhento ng Peppers"? Naiwala ba nila ang kanilang karapatan kapag hinubad nila ang kanilang mga jacket?
+如果我在一家二手商店买一件士兵服装，穿上它，显然我没有创造出一个相反的道德规则有效的替代宇宙。在我穿上戏服的那一刻，我犯了谋杀罪，那我什么时候能成为凶手呢？我什么时候穿上裤子? 如果我穿裤子，而不是背心怎么办? 如果我有一把靴子怎么办? 如果双靴子都打开了，但只有一个被系上了呢？如果我的帽子倒退怎么办？如果我穿上了我未遇到的第一个人不认可的制服，该怎么办? 披头士乐队在拍摄“警察辣椒队”封面时突然拥有谋杀权吗？他们脱下外套时是否失去了这种权利？
 
-Naitanung ko ang retorikang katanungan dahil ito ay tunay at talagang seryoso. Malinaw, na Ang kasootan ng militar ay hindi mababago ang katangian ng isang tao, anuman higit sa isang gupit lumiliko ito sa isang duck, isang konsepto, o, isang diyos.
+我问这些反问句，因为它们实际上是致命的。很明显，一件军人服装并不能改变一个人的本性，比理发更能使他变成一只鸭子、一个概念或一个神。
 
-"Ah," maaari niyong sabihin, "pero kasuotan ay Hindi pwedi dahil nabili mulang ito sa tindahan ng mga second hand - ang paglalagay sa uniporme ng sundalo Wala nang magagawa sa iyo ang isang sundalo na higit sa photocapying ng doctorate na magbibigay sayo ng Ph.D."
+“啊，”你可能会说，“但这套服装是无效的，因为你在一家二手商店买到了它 -穿上士兵的制服不再是当兵，而不是复印博士学位给你一个博士学位。”
 
-Ang anolohiya ay Hindi tama, dahil nagkaroon ng isang pH.D. o Ang photocopy ng doctorate ay Hindi pweding palitan ng kahit Anu sa mga patakaran ng moral na nasasakupan mo bilang isang tao.
+这种类比是不正确的，因为拥有博士学位或复印博士学位不会改变你作为一个人所受到的任何道德准则。
 
-"Well," maaari Kang tumogon, "pero ang pagkakaiba ay ang sundalo ay mayroon karapatan moral na pinagkaloob sa kanya ng karaniwang mamamayan, alang alang sa kolektibong pagtatangol sa sarili at iba pa."
+“嗯，”你可以回答，“但不同的是，士兵拥有一般公民为他提供的道德权利，为了集体自卫等等”。
 
-Itong raises ay may napakainteresadong punto, na Kung saan ang tanong ay Kung ang opinyon ay makakapagpabago ng katotohanan.
+这引发了一个非常有趣的问题，即意见是否能够改变现实。
 
-### Mga opinyon at katotohanan
+### 意见和现实
 
-Malinaw, aking nauunawaan ang Hindi ko magagawa sa pamamagitan ng opinyon, palayain kayo mula sa paghihigpit ng grabidad, anu man ang higit sa aking opinyon na "dalawa plas dalawa kalalabasan ay lima" ginagawang totoo.
+很明显，我们明白我无法通过我的观点，把你从万有引力的束缚中解放出来，这比我认为“二加二等于五”的看法更符合事实。
 
-"Mga opinyon" ang mga paniniwala ng walang malinaw na katibayan sa katotohanan, o kung saan walang malinaw na katibayan ang maaaring ibigay, o kung saan ang mga pagpapahayag lamang ng pangsariling kagustuhan. Ang aking sariling opinyon ay sa aking paghahanda sa Chocolate ice cream sa vanilla - maaari din ako magkaroon ng isang "opinion" na ang Iceland ay isang tropikal na paraiso, o na ang Diyos ay buhay, o ang ulan ay nahuhulog pataas. Ang mga sariling opinyon ay malinaw na walang magagawa sa moralidad; opinyon ay tumatangap sa tamang paglalarawan sa reyalidad, ngunit hindi, ang hindi tamang pagkakamali. Pinaniniwalaan na ang ulan ay nahuhulog paitaas hindi ito kabaliktaran ito ay pinagdaraanan; nakasuot ng Hawaiian shirt sa Iceland Hindi gumagawa ang Reykjavik ng anumang mas mainit.
+“意见”是指那些在现实中没有明确的证据，或者没有明确的证据可以提供，或者仅仅是个人喜好的信念。我个人的观点是我更喜欢巧克力冰淇淋，而不是香草口味的 -我可能也有一种“意见”，认为冰岛是热带天堂，或者上帝存在，或者雨水向上。个人观点显然与道德无关，声称准确地描述现实但却不正确的观点仅仅是不正确的偏见。相信雨水往上流动并不会改变方向，穿夏威夷衬衫去冰岛不会使雷克雅未克变得更温暖。
 
-Kaya naman pinaniniwalaan ang pagpatay ay magandang moralidad ay hindi nagkakamali sa moral na pagpatay. Dahil ang aking paniniwala tungkol sa tao ay Hindi magbabago ng moral nature, ang aking paniniwala na ang kanyang mga pagpatay ay walang pagbabago at hindi nagbabago sa kabutihan ng kanyang mga aksyon. Kung isasara ko Ang aking mga mata at iisipin ko na ikaw ay isang butiki, hindi mo biglang mawawala ang iyong kakayahan na makontrol Ang sarili mong temperature sa katawan. Iniisip na ikaw ay isang isda wag kakaligtaan ang iyong pangangailangan para sa scuba gear.
+因此，认为谋杀在道德上是好的并不能使谋杀成为道德上好。因为我对一个人的信念并没有改变他的道德本质，我相信他的谋杀是高尚的，不会改变他行为的美德。如果我闭上眼睛，想象你是一只蜥蜴，你不会突然失去调节体温的能力。想象你是一条鱼并没有绕过你对潜水装备的需求。
 
-Ang mga opinyon ay Hindi mapapalitan ang reyalidad.
+意见不会改变现实。
 
-Dahil ang mga opinyon ay hindi mapapalitan ang reyalidad, Hindi ko pweding ibigay sa iyo ang anuman pagkabukod o pagbaliktad tungkol sa pangkalahatang tuntunin ng moral. Dahil ang patakaran moral ay base sa pangkalahatang lohika, pati narin ang pisikal na kalikasan at reyalidad ng isang tao, Hindi Kita pweding bigyan ng "karapatan para pumatay," Anu mang higit sa kaya Kong ibigay sa iyo ang kakayahan lumutang, lumakad sa tubig o tamang sabihin na dalawa at dalawa maging Lima.
+因为意见不会改变现实，我不能允许你对普遍的道德规则给予任何例外或逆转。从道德规则是基于通用的逻辑，以及人类的物理本质和现实，所以我不能授予你“谋杀权”，除了我可以授予你悬浮，在水上行走或准确行事的能力外说两个和两个五个。
 
-### Gobyerno bilang boluntaryo
+### 政府作为自愿主义
 
-Ang bukas na puwersa ay sangkot sa institusyon ng gobyerno - ang konseptual wrapper na nagbabaliktad ng moral na patakaran para sa partikular na grupo ng mga indibidual - ay bagay na laging iniingatan ang talaan sa mga debate. Kapag tinatalakay ang tungkol sa gobyerno, ito ay hindi tinuturing na isang positibong bagay para ituro "ang baril sa kuwarto." Halos kahulugan sa, mga gobyerno ay itinuturing na pinili para sa mga tao at upang gumana sa kanilang ipinahayag o pahiwatig na pag-apruba.
+政府机构中的开放力量 - 一种颠覆特定群体道德规则的概念包装 -在辩论中总是被忽略。当谈到政府时，指出“屋子里的枪”从来就不是一件积极的事。几乎从定义上来说，政府被认为是由人民选择并为人民所选择，并且以明确或隐含的赞同来运作。
 
-Gayunman, ito ay isang purong walang katuturan.
+然而，这纯粹是胡说八道。
 
-Kung Ang lalake ay may hawak na kutsilyo sa leeg ng babae habang nakikipag talik, ito ay kahulugan ng isang pagkilos ng pang gagahasa. Hindi nito masasabi na ang pagtatalik ay pinagkasunduan, habang Ang parehong oras ng pagbabanta na siya ay saktan o patayin Kung siya ay tumatangging makipag talik sa kanya. Kung kusang loob siyang nakipagtalik, Kung ganon Ang kutsilyo ay Hindi na kaylangan. Kung Ang lalake ay nararamdaman na kaylangan nya ng kutsilyo, Kung gayon malinaw na ang pakikipagtalik ay * Hindi * kusang loob.
+如果一个人在和她做爱的时候把刀子拿给女人的喉咙，那是强奸的行为。他不能说性是两厢情愿的，同时如果她拒绝和他发生性关系，就要以伤害或死亡威胁她。如果性行为是自愿的，那么这把刀是完全不必要的。如果男人觉得需要一把刀，那么显然性是非自愿的。
 
-Sa parehong paraan, tao ang nagsabi na Ang pagbubuwis ay bahagi ng kontrata sa lipunan na kusang loob na napagkasunduan nila.
+同样，人们说税收是他们自愿同意的社会契约的一部分。
 
-Ito ay parehong lohikal at empirikaly na Hindi totoo.
+这在逻辑上和经验上都是错误的。
 
-Alam natin na ito ay empirically Hindi totoo dahil * walang mga kontrata sa lipunan ang lumitaw*. Hindi ikaw o ako*kailanman* Ang naglagda ng isang dokumento kusang loob na sumasangayon na mag buwis sa kinikita - pinanganak kami sa isang simpleng sistema na kumokuha ng pera mula saamin sa dulo ng isang baril.
+我们知道这是经验错误的，因为社会契约没有存在。你和我都没有签署过自愿同意所得税的文件 – –我们只是出生在一个系统，它可以从枪支点拿走我们的钱。
 
-### Ang baril sa kuwarto
+### 房间里的枪
 
-Maraming tao ang nagtatalo sa puntong ito na ang pagbubuwis ay Hindi pinapatupad sa dulo ng isang baril, pero sahalip na ang tao ay magbayan ng kusang loob. Para mapaliwanagan, Hindi pa ako natutukan ng isang baril sa akin muka ng isang maniningil ng buwis o ng isang pulis, pero ako ay nagbabayad ng buwis sa loob ng mga dekada.
+许多人会在这一点上争论说，税收不是从枪的角度实施的，而是人们自愿支付的。举个例子，我从来没有在一个收税人或警察面前用枪指着我的脸，但是我已经交税几十年了。
 
 This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
 
