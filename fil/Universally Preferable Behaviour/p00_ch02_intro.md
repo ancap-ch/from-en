@@ -114,9 +114,9 @@ Gayunman, ang mga pilosopo na tututol sa * lahat* ng pagkakamaling intelektwal a
 
 Ang siyentipikong pamamaraan ay nangangailangan na bawat sanaysay ay suportado ng ebidensya at pagkamaykatwiran. Dahil walang ebidensya para sa mga Diyos - at ang mismong * ideya* ng mga Diyos ay may sariling pagsalungat - ang sanaysay na "ang Diyos ay umiiral" ay hindi tatayo. May katiyakan, ang mga relihiyosong parasitiko ay magtatangkang ipagtanggol ang kanilang sanaysay sa pamamagitan ng pagtatangkang paghiwalayin ang katotohanan sa "dalawang realms" - ang siyentipiko at ang espiritwal. Gayunpaman, walang ebidensya para sa pag iral nitong "ispiritwal" realm sa kasalukuyan, anuma't higit pa na mayroon para sa paralelong sansinukob ng Platonic na "anyo" dalawang libo at limandaang taon na ang nakalilipas.
 
-Kaya ang pagkakatatag ng palagian at unibersal na katotohanan ay kailangang maglimita at sirain ang mapagsamantalang potensyal ng ilusyon. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+Kaya ang pagkakatatag ng palagian at unibersal na katotohanan ay kailangang maglimita at sirain ang mapagsamantalang potensyal ng ilusyon. Sa partikular, ang mga "dakilang katotohanan," kung saan ay unibersal at palagian, ay ginagawang kalabisan at katawa-tawa ang "panggitnang katotohanan" - na kung saan sa totoo ay mapagsamantalang mga pantasya. Tayo ay pamilyar sa mga "panggitnang katotohanan"ng relihiyon; ang ilan ay masusuri at ipahahayag dito, ang iba ay gugulat sa inyo.
 
-### Effective Parasitism
+### Epektibong Parasitismo
 
 The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
 
