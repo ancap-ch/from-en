@@ -26,13 +26,13 @@ Sa katunayan, gaya ng mga relihiyon na nakahadlang sa pag unlad ng siyensya, kay
 
 Tulad ng sa maling etika ng mga relihiyon "pinangangatwiranan" ang lahat ng paraan ng pang aabuso, katiwalian at karahasan, gayundin ang mga maling etika ng mga gobyerno. Nang pinili nating mabuhay sa pantasya, hindi natin maaaring hindi piliin ang pagkawasak, sa isang anyo o iba pa.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+Nang piliin natin na patakbuhin ang lipunan ayon sa moral na relihiyosong mga mitolohiya, humantong tayo sa mga digmaan, karahasan, panunupil, pang-aabuso, katiwalian at napakalalim na pagpapaimbabaw.
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+Nang piliin nating patakbuhin ang lipunan ayon sa moral ng mitolohiya ng mga *estatistiko*, ang resulta ay walang kaibahan.
 
-We can either choose virtue or compulsion.
+Pwede nating pillin kahit alin sa kabutihan o pamimilit.
 
-We cannot have both.
+Hindi natin pwedeng makuha pareho.
 
 ### Solutions
 
