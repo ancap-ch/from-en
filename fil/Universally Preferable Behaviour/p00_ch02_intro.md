@@ -108,7 +108,7 @@ Ang mas makabagong analohiya ay ang relasyon sa pagitan ng estado, mga tagalobi 
 
 Parasitiko ay agresibong makikipagkumpitensya sa isa't-isa para sa limitadong pinagkukunan ng biktima - ngunit ito ay sa kanilang mabuting interes na maggrupo ng sama-sama para umatake sa kahit ano na magbabanta na alisin mismo ang biktima.
 
-In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
+Sa ganitong paraan, sa anumang lipunan kung saan ang estado at simbahan ay hindi talaga magkahiwalay, ang bawat isa ay malamang na magkumpetensya para sa mga tagasunod. Kung saan ang simbahan ay magsimulang mawala sa pwesto, ang estado ay agresibong kakalap ng mga makabayan - na magreresulta ng sekular na sosyalismo. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
 
 However, the philosophers who oppose *all* intellectual error are the sworn enemies of all the parasites that feed off illusions. The “great truths” of physics eliminate the need for supernatural agents, and render miracles impossible. The explanatory power of science wholly outshines the religious fictions that masquerade as knowledge about the physical world.
 
