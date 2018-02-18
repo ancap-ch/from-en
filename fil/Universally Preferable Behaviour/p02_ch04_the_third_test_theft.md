@@ -34,9 +34,9 @@ Sa ganitong paraan na ang anumang pagtanggi sa pagmamay-ari ng sarili ay maaarin
 
 Dahil sa pagmamay-ari namin ang aming mga katawan, hindi rin kami namimili ng mga *epekto* sa aming mga aksyon, maging mabuti o masama. Kung pagmamay-ari natin ang mga epekto ng ating mga pagkilos, pagkatapos ay malinaw na pagmamay-ari natin ang ating ginagawa, kung ano ang aming ginawa ay isang busog, o isang libro - o isang pagpatay.
 
-### Property And UPB
+### Ari-arian At UPB
 
-Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
+Kahit na tanggihan namin ang nasa itaas, maaari parin naming gamitin ang UPB upang tiyak na igiit ang pag-iral ng mga pang kalahatang karapatan sa pag-aari.
 
 As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
 
