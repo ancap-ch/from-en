@@ -52,9 +52,9 @@ Ang pagbagsak ng Diyos ay ang pag angat ng sangkatauhan.
 
 Sa parehong paraan, kapag sinimulan nating tignan ang lipunan kagaya ng pagtingin ng mga unang siyentipiko sa sansinukob - bilang isang sistema nagsasariling-pagtustos na hindi nangangailangan para sa likhang-isip na gitnang kapangyarihan - saka natin masisimulan na maunawaan ang mga posibilidad ng kalayaan ng sangkatauhan.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+Ang pagtatatag ng isang sentral at mapamilit na monopolyo sa lipunan ay palagian sumisira sa pag-unlad ng kaalaman, karunungan, ng kabutihan, ng pisikal at mental na kalusugan - katulad ng pagkakatatag ng sentral at mapamilit na monopolyo sa *sansinukob* na palagian sumisira sa pag-unlad ng kaalaman, ng karunungan, at siyensya.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+Ang paraan upang salungatin ang kathang-isip na mga entidad ay sa pamamagitan ng walang awang katotohanan.
 
 The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
 
