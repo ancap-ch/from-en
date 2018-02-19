@@ -30,7 +30,7 @@ Malinaw, ang isang opsyon na madaling maitapon. Ang tatlong opsyon ay medyo mada
 
 Kaya kailangan natin pumunta sa opsyon na dalawa, na ang ilang mga grey na lugar ay umiiral, at alam namin na ang ito ay grey na may kinalaman sa lugar na walang umiiral na grey oxgen sa space, at pati sa ilalim ng tubig, pero hindi sa isang anyo o dami ng pwedeng makunsumo ng mga tao. Ang *degree* ng oxygenation ay gray na lugar, i.e. "higit pa laban sa mas mababa"; kung ang tanung ng o hindi ang tao ang pwedeng huminga sa tubig ay tiyak na itim at puti.
 
-A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
+Ang siyentipiko ay nakuha ng mga karnibal ay pwedeng magkunwari na isang albularyo para makaalis - hindi ito ibigsabihin na kailangan nating bale-walain ang pag-agham na pamamaraan bilang lubos na hindi inbalido.
 
 Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
 
