@@ -68,9 +68,9 @@ Por razões de eficiência, se não por simples moralidade, as transições arbi
 
 Da mesma forma, um homem que é extremamente deficiente mental pode ser considerado muito menos responsável pelas suas acções. Um indivíduo com um QI de sessenta e cinco é mentalmente pouco mais que uma criança - uma pessoa com um QI de cem é um adulto comum. Se dissermos que um indivíduo com um QI de oitenta, se torna responsável, então, por definição, estamos a dizer que uma pessoa com um QI de setenta e nove não é responsável - será que esta é uma demarcação clara, justa e totalmente objectiva? Certamente não, mas para que a maioria dos conceitos seja prática, o critério de "suficientemente bom" e uma análise de custo-benefício razoável, devem ser postos em prática. Como dissemos anteriormente, nenhuma água é perfeitamente pura, mas se alguém ficasse à espera da pureza perfeita simplesmente morreria de sede.
 
-Given that the question of moral responsibility and intellectual capacity only applies to a very small percentage of people right on the border, and that creating objective and perfect tests is very likely to prove impossible, there will inevitably be some “rules of thumb” that win the day. We can only assume that, since biologists live with this kind of occasional subjectivism every day, moral philosophers can somehow survive as well.
+Dado que a questão da responsabilidade moral e da capacidade intelectual só se aplica a uma percentagem muito pequena de pessoas exactamente no limite e que a criação de testes objectivos e perfeitos, provavelmente, se revelaram impossíveis, devem haver, inevitavelmente, algumas "regras práticas" mais razoáveis. Só podemos aceitar que, desde que os biólogos vivem com esse tipo de subjectivismo ocasional todos os dias, os filósofos morais, de algum modo, também podem sobreviver.
 
-### Property As Universality
+### Propriedade Como Universalidade
 
 UPB thus gives us clear options with regards to property rights. It cannot be the case that some men have property rights, while other men do not. It cannot be the case that men in Washington have property rights, while women in Baltimore do not. It cannot be the case that men have property rights today, but not tomorrow, and so on.
 
