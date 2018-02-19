@@ -68,6 +68,6 @@ Ang unang tanong tungkol sa moral na mga patakaran ay: *ano* sila?
 
 Sa madaling salita, ang mga *moralidad* ay isang hanay ng mga panuntunan na nag-aangkin nang tumpak at palagiang makilala ang mga mas mahusay na pag-uugali ng tao, tulad ng *pisika* ay isang hanay ng mga panuntunan na nag-aangkin nang tumpak at patuloy na kilalanin ang unibersal na pag-uugali ng bagay.
 
-The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+Ang pangalawang tanong na itatanong ay: Mayroon bang anumang bagay na “pangkapakanan na mas mainam na pag-uugali” sa lahat? Kung may, maaari naming simulan upang galugarin kung ano ang maaaring maging tulad ng pag-uugali. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
 
 [^6]: Sa pisika, ang tanong ay: alinman sa unibersal na pisikal na mga patakaran ay may bisa, o hindi.
