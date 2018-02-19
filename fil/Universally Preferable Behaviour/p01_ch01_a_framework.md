@@ -68,14 +68,14 @@ Ito ay ugat ng isang pangunahing pamantayan ng siyentipikong paraan - magpaparam
 
 Kung ikaw ay nagtuturo ng matematika, ikaw ay maaaring malamang na hindi tanggapin ang isang maling sagot mula sa isang mag-aaral, kahit na ang mag-aaral ay naghayag na ang kanyang sagot ay "tama" habang sinusulat niya pababa, ngunit kahit papaano ay nagbago sa maikling panahon.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Sa gayon, hindi natin maaaring matanggap na dapat natin isukat ang bisa ng pahayag ang ugnayan sa obhektibong katotohanan - kapwa empirikal at lohikal. Lohika bilang isang disiplina ay lumalabas tulad ng isang resulta ng isang palagian ng katotohanan; empirical na obserbasyon ay isa ring wasto at hindi wasto bilang isang resulta ng palagian ng katangian ng katotohanan.
 
-### The Existence Of "Truth"
+### Ang pagkakaroon ng "katotohanan"
 
-Truth, then, can be measured according to two central criteria:
+Ang katotohanan, ay gayon, maaaring masukat ayon sa dalawang sentral na pamantayan:
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+1. Ang katotohanan ay isang sukat ng ugnayan sa pagitan ng mga ideya sa ating mga isip at ang palagiang ng katwiran, na kung saan ay direktang nagmumula sa palagiang asal ng mga bagay at enerhiya sa totoong mundo.[^2]
+2. Ang katotohanan ay isa ring sukat ng ugnayan sa pagitan ng mga ideya sa ating isip at ang katangian at asal ng mga bagay at enerhiya sa totoong mundo.[^3]
 
 The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
 
