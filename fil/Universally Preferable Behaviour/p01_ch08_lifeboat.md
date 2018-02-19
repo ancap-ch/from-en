@@ -38,7 +38,7 @@ Kagaya nito, pwedeng merong mga matinding sitwasyon na kung saan pwede namin pil
 
 Bago natin simulan gamitin ang ating balangkas ng unibersidad na mas mabuti sa pag-uugali para aralin ang ilang pangkaraniwang etikal ng mga paniniwala, dapat nating makipag-ugnayan kasama ang tanung ng "mga pagbubukod"
 
-Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
+Gamitin ang mga nasa taas "mga pangyayari sa lifeboat," ang konklusyon ay madalas iguhit ng "mabuti" ay simple *kung saan ito ay "mainam" para sa indibidwal na isang buhay ng tao*.
 
 In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
 
