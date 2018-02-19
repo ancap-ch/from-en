@@ -32,9 +32,9 @@ Kaya kailangan natin pumunta sa opsyon na dalawa, na ang ilang mga grey na lugar
 
 Ang siyentipiko ay nakuha ng mga karnibal ay pwedeng magkunwari na isang albularyo para makaalis - hindi ito ibigsabihin na kailangan nating bale-walain ang pag-agham na pamamaraan bilang lubos na hindi inbalido.
 
-Kagaya nito, pwedeng merong mga matinding sitwasyon na kung saan pwede namin piliin na gumawa ng mga imoral ng mga aksyon, pero ang mga sitwasyon na ito ay hindi pwedeng mapawalang-bisa sa agham ng moralidad, kahit anong higit na paminsan-minsan na mutasyon ang magpapawalag bisa sa agham ng biyolohikal. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
+Kagaya nito, pwedeng merong mga matinding sitwasyon na kung saan pwede namin piliin na gumawa ng mga imoral ng mga aksyon, pero ang mga sitwasyon na ito ay hindi pwedeng mapawalang-bisa sa agham ng moralidad, kahit anong higit na paminsan-minsan na mutasyon ang magpapawalag bisa sa agham ng biyolohikal. Sa katotohanan, ang agham ng biyolohikal ay sobrang advanced sa pamamagitan ng pagsusuri ng mutasyon at pagtanggap - at kagaya nito, ang mga etika ng agham ay pinatibay lamang sa pamamagitan ng pag-aaral ng "mga pangyayari sa lifeboat," hangga't ang naturang pag-aaral ay hindi hinahanap ng obsessively.
 
-### Universality And Exceptions
+### Ang unibersidad at ang mga pagbubukod
 
 Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
 
