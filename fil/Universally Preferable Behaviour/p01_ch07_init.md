@@ -1,6 +1,6 @@
 ## Pagtangap
 
-A reasonable moral theory should be able to explain all of the above universal standards, just as a reasonable theory of physics should be able to explain how a man can unconsciously calculate the arc of a thrown baseball, and catch it.
+Ang makatuwiran teorya ng moral ay dapat naipapaliwanag sa lahat ng nasa pangdaigdigan pamantayan, dahil sa isang makatwirang teorya ng physics ay dapat naipapaliwanag paano na ang isang taong walang kamalay malay ay kayang karkulahin ang isang arko na itinapon sa baseball, at saluhin ito.
 
 If the framework of UPB can explain the above, then it will certainly have passed at least the “common sense” test.
 
