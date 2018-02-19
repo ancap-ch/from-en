@@ -77,13 +77,13 @@ Ang katotohanan, ay gayon, maaaring masukat ayon sa dalawang sentral na pamantay
 1. Ang katotohanan ay isang sukat ng ugnayan sa pagitan ng mga ideya sa ating mga isip at ang palagiang ng katwiran, na kung saan ay direktang nagmumula sa palagiang asal ng mga bagay at enerhiya sa totoong mundo.[^2]
 2. Ang katotohanan ay isa ring sukat ng ugnayan sa pagitan ng mga ideya sa ating isip at ang katangian at asal ng mga bagay at enerhiya sa totoong mundo.[^3]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+Ang unang pamantayan ay isang sukat ng palagian ng mga ideya sa kanilang sarili - at ang ganitong palagian ay isang kailangan dahil ang katotohanan ay alinsunod sa kanyang sarili. Kung sasabihin ko, "ayo ay hindi umiiral" ito ay isang halimbawa ng isang ideya na ang isang hindi tugma sa kanyang sarili, dahil dapat akong mabuhay ipang sabihin ang mga pangungusap. Ang pangalawang pamantayan ay isang sukat ng katumpakan ng mga ideya na may kaugnayan sa empirikal na obserbasyon ng obhektibong katotohanan.
 
-#### Empiricism Versus Rationality
+#### Empirilismo laban sa Pangangatwiran
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+Ang empirilismo ay maaaring isipin na tulad ng isang kakayahan sa katutubong pagkuha ng isang nahagis na bola, o sukat ng kanyang paggalaw; makatwiran ay isang kakayahan na mahulaan at maintindihan ang landas na kung saan ang bola ay mababase sa makamundong prinsipyo. Malinaw, kung ang mga bola ay walang pili na napunta sa kahit ano at sa lahat ng direksyon - at mahiwagang nagbago ang anyo sa mga kalapati sa bota - maaari lubos na hindi mahulaan ang kanilang asal.
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Sa gayon, dahil ang mga bagay ay sumusunod sa hindi nagbabagong mga batas, ang atong mga teyorya *tungkol* sa mga bagay ay dapat din sumunod sa hindi nagbabagong mga batas. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
 
 This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
 
