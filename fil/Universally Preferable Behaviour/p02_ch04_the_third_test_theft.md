@@ -52,9 +52,9 @@ Kung ang mga tao ay hindi nagtataglay ng eksklusibong pagmamay-ari sa kanilang s
 
 Ito ay walang krimen na magpakamatay, higit pa kaysa ito ay upang itakda ang apoy sa iyong sariling bahay, yamang ang pagkawasak ng sariling ari-arian ay isang wastong paggamit ng pagmamay-ari. Gayunpaman, kung ang eksklusibong pagmamay-ari ng sarili ay di-wasto, kung gayon ay walang pagkakaiba sa pagitan ng pagpatay at pagpapakamatay. Kung ang aking atay ay nabigo, at may karapatan ako na kunin ang sa iyo, pagkatapos ay maaari kong “repossess” ito sa perpektong alinsunod sa moralidad at marangal na pag-uugali. Kung papatayin ka ng pamamaraang ito, ano ngayon? Walang eksklusibong pagmamay-ari ng sarili, walang “ikaw” upang magsimula sa…
 
-Thus we can reasonably say that exclusive self-ownership is a basic reality – that all human beings at all times and in all places have exclusive ownership over their own bodies, and thus have exclusive ownership over the effects of their own bodies, both in terms of moral behaviour and property creation or acquisition.
+Kaya maaari nating makatwirang sabihin na ang eksklusibong pagmamay-ari ng sarili ay isang pangunahing katotohanan – na ang lahat ng tao sa lahat ng oras at sa lahat ng lugar ay may eksklusibong pagmamay-ari sa kanilang sariling mga katawan, at sa gayon ay may eksklusibong pagmamay-ari sa mga epekto ng kanilang sariling mga katawan, parehon sa mga tuntunin ng moral na pag-uugali at paglikha ng ari-arian o pagkuha.
 
-### The Grey Areas
+### Ang Mga Kulay-Abo na Lugar
 
 Naturally, any statement such as the above brings the inevitable howls of “complexity,” which I fully agree with.
 
