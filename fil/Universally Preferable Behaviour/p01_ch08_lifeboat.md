@@ -32,7 +32,7 @@ Kaya kailangan natin pumunta sa opsyon na dalawa, na ang ilang mga grey na lugar
 
 Ang siyentipiko ay nakuha ng mga karnibal ay pwedeng magkunwari na isang albularyo para makaalis - hindi ito ibigsabihin na kailangan nating bale-walain ang pag-agham na pamamaraan bilang lubos na hindi inbalido.
 
-Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
+Kagaya nito, pwedeng merong mga matinding sitwasyon na kung saan pwede namin piliin na gumawa ng mga imoral ng mga aksyon, pero ang mga sitwasyon na ito ay hindi pwedeng mapawalang-bisa sa agham ng moralidad, kahit anong higit na paminsan-minsan na mutasyon ang magpapawalag bisa sa agham ng biyolohikal. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
 
 ### Universality And Exceptions
 
