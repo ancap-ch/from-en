@@ -16,9 +16,9 @@ Sa kasaysayan, ang mga nakikipag-debate sa etika ay madalas na mabigo upang mapa
 
 Hindi ako makakapagsumite ng isang pang-agham na papel na isinulat sa sarili kong sariling wika, na nag-aangkin na ito ay sinisi ng aking saykiko na goldpis, at inaasahan na maging seryoso. Sa katulad na paraan, hindi ako makapagsimula ng isang pilosopiko na debate sa etika sa pagtukoy sa aking sariling mga personal na halaga, at sinasabing ang lahat ng aking mga argumento ay napatunayan na ni Trixie ang marunong at mahuhusay na leprechaun, at inaasahan na maging seryoso.
 
-The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
+Ang tunay na pagkilos ng pakikipag-talo ay nangangailangan ng pagtanggap ng pag-uugali ng higit na lalong kanais-nais (UPB). Walang paraan upang makatugon sa isang makatwirang argumento *nang walang* nagpapakita ng UPB.
 
-Let us now turn to a series of positive proofs for UPB.
+Ipaalam sa amin ngayon sa isang serye ng mga positibong patunay para sa UPB.
 
 ### UPB And Validity
 
