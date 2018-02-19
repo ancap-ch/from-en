@@ -36,9 +36,9 @@ Ang konsepto ng*katotohanan* ay nangangailangang mayroong ng konsepto ng *katump
 
 Ano, ngayon, ang "buls-ay" ng katotohanan?
 
-Ngayon, ang *katotohanan* ng isang pahayag ay masusukat na kaugnay sa kanayng pagsunod sa obhektibong katotohanan.
+Ngayon, ang *katotohanan* ng isang pahayag ay masusukat na kaugnay sa kanyang pagsunod sa obhektibong katotohanan.
 
-Nang isantabi ang mga hamon ng wika sa mga sandaling iyon, kung tumuro ay sa isang tagak at sabihin na "iyan ay isang anvil," ako ay malinaw na nagkakamali, dahil ang mga anvil ay tulagay, at hindi makakalipad. Ang tunay na kahalagahan ng aking pahayag ay kaugnay na nasukat sa obhektibong katibayan ng katotohanan. Dahil ang mga tagak ay hindi sa katunayan isang anvil, ang pahayg ay hindi totoo.
+Nang isantabi ang mga hamon ng wika sa mga sandaling iyon, kung tumuro ay sa isang tagak at sabihin na "iyan ay isang anvil," ako ay malinaw na nagkakamali, dahil ang mga anvil ay tulagay, at hindi makakalipad. Ang tunay na kahalagahan ng aking pahayag ay kaugnay na nasukat sa obhektibong katibayan ng katotohanan. Dahil ang mga tagak ay hindi sa katunayan isang anvil, ang pahayag ay hindi totoo.
 
 Likas, ang ekwasyon sa pagitan ng katotohanan at tunay ay nangangailangan na ang wika at ang ating pandamdam ay maituturing na relatibong obhektibo. Maraming mabuting dahilan upang maniwala na ang wika at makahulugang katibayan ay sa katunayan na obhektibo; maaari tayong mapunta sa isang komplikadong talakayan tungkol dito, ngnit hindi nito mapagkakasya na sabihin na dahil ginagamit mo ang iyong mga mata para magbasa ng isang sulat sa libro sa wikang pantao, maaari tayong pumayag na ang iyong mga mata, at ang wika na binabahagi natin, ay sapat na obhektibo para sa tumpak na proseso na aking sinusulat. Kung hindi sila, wala tayong dapat pag-usapan, at hindi mo naiintindihan ang anumang sinulat ko, kaya ang pangungusap na ito ay magiging pantay na walang kabuluhan, at baka magamit sa "Wingding".
 
@@ -54,7 +54,7 @@ Kung ako ay gugugol ng isang oras upang subukan pintahan ang ulap, sa gayon ay t
 
 Sa madaling salita, kung saan ay walang palagian, maaaring walang katumpakan.
 
-Kapag ang panaginip sa gabi, ay ang ating papanaw na ang mg apatakaran ng "bagay" at "enerhiya" ay nasa palagiang estado ng pagkilos ng bagay - tayo ay hindi tinatablan sa grabidad, at kung tayo ay lilipaf sa likod ng elepante, at sa gayon ay makakalakad tayo sa pamamaggitan ng mga dingding. Ito ay mas hindi imposible na magkaroon ng isang "siyentipikong pisika ng mga panaginip" kaysa sa tumpak na pagpipintura ng ulap.
+Kapag ang panaginip sa gabi, ay ang ating papanaw na ang mga patakaran ng "bagay" at "enerhiya" ay nasa palagiang estado ng pagkilos ng bagay - tayo ay hindi tinatablan sa grabidad, at kung tayo ay lilipad sa likod ng elepante, at sa gayon ay makakalakad tayo sa pamamagitan ng mga dingding. Ito ay mas hindi imposible na magkaroon ng isang "siyentipikong pisika ng mga panaginip" kaysa sa tumpak na pagpipintura ng ulap.
 
 Lohika, agham at katotohanan, kung gayon, ay imposible sa kawalan ng *palagian*.
 
@@ -62,9 +62,9 @@ Pangunahin, ang mga batas ng lohika ay manggagaling sa mga asal ng bagay at ener
 
 Perseptwal na katotohanan ay palagian at obhektibo - at ito ay galing sa palagian at obhektibo na kung saan nakuha natin ang mga batas ng lohika. Ang ating mga pahayag tungkol sa katotohanan maaari lamang maging tumpak *na marepresenta*ang katotohanan tulad ng isang direktang resulta ng palagian at obhektibo.
 
-Ang katunayan na ang tagak ay hindi nagkataon na magiging anvil - o sa kabaligtaran - ay ang ugat ng ating kakayanan na tumpak na humusga ng pahayag: "iyan ay isang tagak." Kung ang tagak ay kusang loob at patuloy na nagbago ang kanilang likas, nahindi nakaya na gumawa ng totoo o hindi totoo na mga pahayag tungkol sa kanila - o sa anuman para sa bagay.
+Ang katunayan na ang tagak ay hindi nagkataon na magiging anvil - o sa kabaligtaran - ay ang ugat ng ating kakayanan na tumpak na humusga ng pahayag: "iyan ay isang tagak." Kung ang tagak ay kusang loob at patuloy na nagbago ang kanilang likas, na hindi nakaya na gumawa ng totoo o hindi totoo na mga pahayag tungkol sa kanila - o sa anuman para sa bagay.
 
-Ito ay ugat ng isang pangunahing pamantayan ng siyentipikong paraan - magpaparami. Kung ako ay gagawa ng isang makamundong pahayag tungkol sa katangian ng grabidad, sa gayon ay dapat mong madamihin na ang pahayag sa iyong sariling kapaligiran. Kung ang katotohanan *ay hindi* pare-pareho, sa gayon ang pagpaparami ng kopya ay maaari magiging hindi makatwiran na pamantayan para sa pagtatatag ng katotohanan.
+Ito ay ugat ng isang pangunahing pamantayan ng siyentipikong paraan - magpaparami. Kung ako ay gagawa ng isang makamundong pahayag tungkol sa katangian ng grabidad, sa gayon ay dapat mong padamihin ang pahayag sa iyong sariling kapaligiran. Kung ang katotohanan *ay hindi* pare-pareho, sa gayon ang pagpaparami ay maaari magiging hindi makatwiran na pamantayan para sa pagtatatag ng katotohanan.
 
 Kung ikaw ay nagtuturo ng matematika, ikaw ay maaaring malamang na hindi tanggapin ang isang maling sagot mula sa isang mag-aaral, kahit na ang mag-aaral ay naghayag na ang kanyang sagot ay "tama" habang sinusulat niya pababa, ngunit kahit papaano ay nagbago sa maikling panahon.
 
@@ -77,7 +77,7 @@ Ang katotohanan, ay gayon, maaaring masukat ayon sa dalawang sentral na pamantay
 1. Ang katotohanan ay isang sukat ng ugnayan sa pagitan ng mga ideya sa ating mga isip at ang palagiang ng katwiran, na kung saan ay direktang nagmumula sa palagiang asal ng mga bagay at enerhiya sa totoong mundo.[^2]
 2. Ang katotohanan ay isa ring sukat ng ugnayan sa pagitan ng mga ideya sa ating isip at ang katangian at asal ng mga bagay at enerhiya sa totoong mundo.[^3]
 
-Ang unang pamantayan ay isang sukat ng palagian ng mga ideya sa kanilang sarili - at ang ganitong palagian ay isang kailangan dahil ang katotohanan ay alinsunod sa kanyang sarili. Kung sasabihin ko, "ayo ay hindi umiiral" ito ay isang halimbawa ng isang ideya na ang isang hindi tugma sa kanyang sarili, dahil dapat akong mabuhay ipang sabihin ang mga pangungusap. Ang pangalawang pamantayan ay isang sukat ng katumpakan ng mga ideya na may kaugnayan sa empirikal na obserbasyon ng obhektibong katotohanan.
+Ang unang pamantayan ay isang sukat ng palagian ng mga ideya sa kanilang sarili - at ang ganitong palagian ay isang kailangan dahil ang katotohanan ay alinsunod sa kanyang sarili. Kung sasabihin ko, "ako ay hindi umiiral" ito ay isang halimbawa ng isang ideya na ang isang hindi tugma sa kanyang sarili, dahil dapat akong mabuhay upang sabihin ang mga pangungusap. Ang pangalawang pamantayan ay isang sukat ng katumpakan ng mga ideya na may kaugnayan sa empirikal na obserbasyon ng obhektibong katotohanan.
 
 #### Empirilismo laban sa Pangangatwiran
 
