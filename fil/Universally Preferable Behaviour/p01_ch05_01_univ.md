@@ -12,7 +12,7 @@ Sa gayon ay makikita na, ang likas na pagkilos sa pagtatalo ay isang bilang ng m
 
 Kung hihilingin ko sa iyo na makilala ako sa tennis court, at magpakita ng isang rifle ng pangangaso, maaari tayong mag-play ng isang uri ng paligsahan, ngunit tiyak na hindi ito magiging tennis. Kapag hiniling ko sa iyo na makilala ako sa tennis court para sa isang laro, ang pahayag sa kahilingan na iyon ay isang pagtanggap sa mga panuntunan ng tennis.
 
-Historically, those engaged in ethical debating have often failed to maintain this basic reality.
+Sa kasaysayan, ang mga nakikipag-debate sa etika ay madalas na mabigo upang mapanatili ang batayang katotohanang ito.
 
 I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
 
