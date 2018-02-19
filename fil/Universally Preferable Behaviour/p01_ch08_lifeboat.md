@@ -28,7 +28,7 @@ Sa larangan ng "grey na mga lugar," meron lang talaga na tatlong posibilidad.
 
 Malinaw, ang isang opsyon na madaling maitapon. Ang tatlong opsyon ay medyo madali para itapon. Ang pahayag "ang lahat ng kaalaman ay grey ares" ay isang sariling-detonating proposition, gaya ng nakita natin sa itaas, sa parehas na paraan na "ang lahat ng pahayag ay kasinungalingan" para din sa sariling-detonates.
 
-Kaya kailangan natin pumunta sa opsyon na dalawa, na ang ilang mga grey na lugar ay umiiral, at alam namin na ang ito ay grey na may kinalaman sa lugar na walang umiiral na grey oxgen sa space, at pati sa ilalim ng tubig, pero hindi sa isang anyo o dami ng pwedeng makunsumo ng mga tao. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
+Kaya kailangan natin pumunta sa opsyon na dalawa, na ang ilang mga grey na lugar ay umiiral, at alam namin na ang ito ay grey na may kinalaman sa lugar na walang umiiral na grey oxgen sa space, at pati sa ilalim ng tubig, pero hindi sa isang anyo o dami ng pwedeng makunsumo ng mga tao. Ang *degree* ng oxygenation ay gray na lugar, i.e. "higit pa laban sa mas mababa"; kung ang tanung ng o hindi ang tao ang pwedeng huminga sa tubig ay tiyak na itim at puti.
 
 A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
 
