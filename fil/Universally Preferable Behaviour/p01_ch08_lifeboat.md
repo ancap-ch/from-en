@@ -52,7 +52,7 @@ Ito ang ginamit bilang batayan ng etikal ng teyorya at pamamaraan, galing sa Nie
 
 Ang uri ng ganitong "biyolohikal ng hedonism” ay pwedeng isang diskripsyon ng "mamuhay para mabuhay," pero ito lang ang tama habang inilalarawan nito kung anong mga tao talaga *do*, kung hindi ano sila *kailangan* gawin.
 
-Dito rin ay ipinapakilala ang kumpletong hindi maka-agham na subjectivism na mga moralidad na tanong. Halimbawa, kung ito ay morld na pinahihintulutan na magnakaw kapag ikaw ay nagugutom, gaano karaming pagkain ang iyong nanakawin? Gaano ka nagugutom? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
+Dito rin ay ipinapakilala ang kumpletong hindi maka-agham na subjectivism na mga moralidad na tanong. Halimbawa, kung ito ay morld na pinahihintulutan na magnakaw kapag ikaw ay nagugutom, gaano karaming pagkain ang iyong nanakawin? Gaano ka nagugutom? Pwede mong nakawin ang hindi masustansyang pagkain? Gaano kasustansya ang pagkain upang magustuhan ang pagnanakaw nito? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
 
 Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
 
