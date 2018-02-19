@@ -10,13 +10,13 @@ Kung sasabihin ko ang mundo ay bilog, at makakapagbigay ako ng sapat na patunay 
 
 Kung tatanggapin ko ang bisa ng batas ng matematika, hindi ko maaaring tanggihan ang isang matematikang patunay na sumunod sa mga batas na ito. Kung *tatanggihan ko*ang nasabing katibayan, hndi ko maaaring sabihin na tanggapin ang bisa ng batas ng matematika. Ang aking pagtanggap ng mga batas na ito ay nangangahulugan na ako ay *nakatali*na tanggapin bilang wasto ang mga katibayan na sumunod sa mga batas na ito. Ang pagtanggi ng isang katibayan na sumunod sa isang rasyunal na pamantayan ay isang pagtanggi ng rasyunal na pamantayan bilang kabuuan.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+Ang siyentipikong paraan, ito ay makatwiran, at ang matematikang batas ay mga halimbawa ng *obhektibong* pamantayan para sa pagtatag ng katotohanan ng isang panukala. Ito ay hindi ko opinyon na ang dalawa at dalawa ay makagagawa ng apat - kung tatanggapin mo rin na ang dalawa at dalawa ay makakagawa ng apat, ikaw ay hindi subhektibo sa aking opinyon lamang, ngunit makatwiran na katotohanan.
 
-### Objective Truth
+### Ang obhektibong katotohanan
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+Ang sentral na pagsubok sa pagintindi ng likas ng katotohanan ay isang pagkatanto na ang "katotohanan" ay hindi umiiral sa munod sa katulad na paraan ng pag-iral ng mga bato o puno.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+Ang konsepto ng "katotohanan" ay nangangahulugang relatibong termino - bagama't hindi nangangahulugan ng isang subhektibo o hindi makatwiran na termino. Ang konsepto ng "kalusugan" ay isa ring relatibong termino - hinahambing natin ang "kalusugan" sa pagkakasakit, at gayundin sa relatibong pamantayan ng kalusugan. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
 
 This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
 
