@@ -11,7 +11,7 @@ Bagama't una kaming nakatuon sa UPB sa larangan ng etika, ang UPB ay makikita na
 - Wika
 - Etika
 
-Ang etika ay ang subset ng UPB na may kinalaman sa ng *ipinahamak* pag-uugali, o ang paggamit ng karahasan. Ang anumang teorya ng nagpapasawalang-sala o tinanggihan ang paggamit ng karahasan ay isang *moral* na teorya, at napapailalim sa mga kinakailangan ng lohikal na pagkakapare-pareho at katibayan ng imperyo.
+Ang etika ay ang subset ng UPB na may kinalaman sa *ipinahamak* pag-uugali, o ang paggamit ng karahasan. Ang anumang teorya ng nagpapasawalang-sala o tinanggihan ang paggamit ng karahasan ay isang *moral* na teorya, at napapailalim sa mga kinakailangan ng lohikal na pagkakapare-pareho at katibayan ng imperyo.
 
 Tingnan natin ang tatlong aksyon, upang matulungan kaming higit na makilala ang etika at estetika. Ang unang aksyon ay *hindi makatwiran*; ang pangalawa ay *pagsisinungaling*; ang pangatlo ay *pagpatay*.[^9]
 
