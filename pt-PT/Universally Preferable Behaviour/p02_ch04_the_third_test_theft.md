@@ -58,7 +58,7 @@ Assim, podemos dizer, logicamente, que a propriedade legítima exclusiva é uma 
 
 Naturalmente, qualquer declaração como a mencionada anteriormente, traz os protestos inevitáveis da "complexidade", com a qual concordo plenamente.
 
-Let us say that I mean to give you five dollars as a gift, but by mistake I hand you a ten dollar bill, saying, “This is for you.” Few people would consider it theft if I said, the moment after I handed it to you: “Sorry, I meant to give you five dollars, not ten,” and took the larger note back, even though I am taking back property that I have voluntarily relinquished.
+Digamos que lhe quero dar cinco dólares como presente, mas, por engano, entrego-lhe uma nota de dez dólares, dizendo: "Isto é para você". Algumas pessoas considerá-lo-aim roubo se eu chegasse, passados momentos e lhe dissesse: "Desculpe, eu queria dar-lhe apenas cinco dólares, não dez", e tomasse a nota maior, apesar de estar a recuperar a propriedade que entreguei voluntariamente.
 
 On the other extreme, if you are one of my sons, and I pay for your university education, and explicitly tell you that you never need to pay me back, my generosity will doubtless affect your spending habits. It would scarcely seem reasonable for me to clap my forehead after your graduation ceremony and cry, “Oh, I thought you were one of my *other* sons!” and demand repayment.
 
