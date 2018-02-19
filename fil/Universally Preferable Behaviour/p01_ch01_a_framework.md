@@ -26,11 +26,11 @@ Ang katotohanan ay mayroon ding kaugnayan sa pangangailangan. Ang pisika na Newt
 
 Bilang isangresulta, ang pangungusap na "ang pisika na Newtonian ay mas hindi tumpak kaysa sa pisika naEinsteinian, ngunit ang pisika na Newtonian ay ang pinaka mahusay na paraan upang ikalkula ang langdas ng isang sasakyan" ay maituturing na wastong panukala. Ang pisika na Newtonian ay gayong pareho *hindi gaanong tumpak*, at *mas angkop*.
 
-Kung gugustuhin nating uminom ng pinaka posibleng dalisay na tubig, gugustuhin din antin na magbayad ng libo-libong dolyar para sa isang bote. Maliban na lang kung tayo ay labis na mayaman at lubos na walang kabuluhan, hindi tayo magbabayad ng ganoon upang maibsan ang ating uhaw. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+Kung gugustuhin nating uminom ng pinaka posibleng dalisay na tubig, gugustuhin din antin na magbayad ng libo-libong dolyar para sa isang bote. Maliban na lang kung tayo ay labis na mayaman at lubos na walang kabuluhan, hindi tayo magbabayad ng ganoon upang maibsan ang ating uhaw. Tunay nga na ang dalisay na tubig ay mabuti sa atin, ngunit ang presyo ay nangangailangan ng bungad ng mapalitan pabalik. Sa gayon, ang mas dalisay ay mas magada" nagbibigay daan sa "mas dalisay ay mas mapanganib."
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+Muli, ito ay hindi nangangahulugan na ang kalinisan ng tubig lubusang subhektibo. Ang dalisay na tubig ay laging mas naiinom kaysa sa tubig.
 
-#### Truth And Objective Reality
+#### Ang katotohanan at ang obhektibong katotohanan
 
 The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
 
