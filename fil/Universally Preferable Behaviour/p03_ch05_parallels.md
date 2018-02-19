@@ -50,7 +50,7 @@ Wala sa mga ito ang lumalabas na totoo, siyempre. Sa katunayan, sadyang ang *kab
 
 Ang pagbagsak ng Diyos ay ang pag angat ng sangkatauhan.
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+Sa parehong paraan, kapag sinimulan nating tignan ang lipunan kagaya ng pagtingin ng mga unang siyentipiko sa sansinukob - bilang isang sistema nagsasariling-pagtustos na hindi nangangailangan para sa likhang-isip na gitnang kapangyarihan - saka natin masisimulan na maunawaan ang mga posibilidad ng kalayaan ng sangkatauhan.
 
 The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
 
