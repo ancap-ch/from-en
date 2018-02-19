@@ -8,7 +8,7 @@ A diferença fundamental entre as afirmações de *preferências* e as afirmaç�
 
 Se eu disser que a Terra é redonda e proporcionar uma prova para essa afirmação, não cabe a você determinar no seu próprio luxo se a afirmação é verdadeira. Se eu posso provar que a terra é redonda, então você está a um passo de aceitar que é uma verdade, a menos que você esteja disposto a rejeitar a razão e as evidências como um critério para a verdade.
 
-Se eu aceito a validade das leis da matemática, eu não posso arbitrariamente rejeitar uma prova matemática que concorda com essas leis. Se eu *rejeitar* tal prova, eu não posso mais declarar aceitação à validade das leis da matemática. Minha aceitação a essas leis significam que eu estou *a um passo* de aceitar como valida essas provas que concordam com essas leis. A rejeição de uma prova que concorda com padrões racionais é a rejeição de padrões racionais como um todo.
+Se eu aceito a validade das leis da matemática, eu não posso arbitrariamente rejeitar uma prova matemática que concorda com essas leis. Se eu *rejeitar* tal prova, eu não posso mais declarar aceitação à validade das leis da matemática. Minha aceitação à essas leis significam que eu estou *a um passo* de aceitar como valida essas provas que concordam com essas leis. A rejeição de uma prova que concorda com padrões racionais é a rejeição de padrões racionais como um todo.
 
 O método científico, a racionalidade em si, e as leis matemáticas são todos exemplos de critérios *objetivos* para estabelecer a verdade de uma preposição. Não é minha opinião que dois mais dois são quatro - se você também concorda que dois mais dois são quatro, você não está se sujeitando a minha opinião, mas sim a uma verdade racional.
 
@@ -22,7 +22,7 @@ No entanto, isso não significa que o conceito de "saúde" é inteiramente relat
 
 Conforme nossa definição de "saúde" expande, definições antigas não são invalidadas, mas sim estendidas. Se a medicina avançar ao ponto de permitir pessoas de noventa anos de idade de ganharem maratonas, então nossa definição de o que é saúde para os mais velhos irá mudar, isso não significa porém que os corredores de maratona de vinte anos de idade de repente deixaram de ser saudáveis. Aprender álgebra não invalida a aritmética.
 
-A verdade também tem valor relativo a necessidade. A física Newtoniana foi superada pela física Einsteiniana, a qual se provou mais precisa em situações extremas como alta gravidade ou velocidade. Entretanto, marinheiros que queriam calcular o caminho certo no oceano achavam a física Newtoniana precisa o suficiente. Você não iria querer mandar uma nave espacial da Terra para Alpha Centauri usando a física Newtoniana, porém, está tudo certo se for um barco de Lisboa para Nova Iorque. Por tanto, para um marinheiro, aprender e implementar a física Einsteiniana é algo negativo.
+A verdade também tem valor relativo à necessidade. A física Newtoniana foi superada pela física Einsteiniana, a qual se provou mais precisa em situações extremas como alta gravidade ou velocidade. Entretanto, marinheiros que queriam calcular o caminho certo no oceano achavam a física Newtoniana precisa o suficiente. Você não iria querer mandar uma nave espacial da Terra para Alpha Centauri usando a física Newtoniana, porém, está tudo certo se for um barco de Lisboa para Nova Iorque. Portanto, para um marinheiro, aprender e implementar a física Einsteiniana é algo negativo.
 
 Como resultado, a frase "A física Newtoniana é menos precisa que a Física Einsteiniana, porém é a melhor forma de calcular o caminho de um barco" pode ser considerada uma preposição valida. A física Newtoniana é, portanto, *menos precisa* e *mais apropriada*.
 
@@ -36,7 +36,7 @@ O conceito de *verdade* necessariamente envolve o conceito de *precisão*. Se eu
 
 Então o que é o "alvo" da verdade?
 
-A *verdade* de uma afirmação é relativamente mensurável a sua conformidade com a realidade objetiva.
+A *verdade* de uma afirmação é relativamente mensurável à sua conformidade com a realidade objetiva.
 
 Colocando de lado os desafios de linguagem nesse momento, se eu apontar para uma gaivota e dizer, "Isso é uma bigorna", estou claramente errado, porque bigornas são inorgânicas e não podem voar. O valor da verdade na minha afirmação é medido em relação aos fatos objetivos da realidade. Já que a gaivota não é de fato uma bigorna, minha afirmação não é verdadeira.
 
@@ -58,7 +58,7 @@ Quando nós sonhamos, sentimos que as leis de "matéria" e "energia" estão semp
 
 Lógica, ciência e verdade são, portanto, impossíveis na ausência de *estabilidade*.
 
-Fundamentalmente, as leis da logica são derivadas do estudo da matéria e energia, pelo menos no nível perceptual. Vamos supor que eu diga para você jogar uma bola para cima e para baixo ao mesmo tempo, estou pedindo por algo impossível, o qual você pode facilmente testar ao tentar tentar fazer o que pedi. Se eu pedir para você arar ao mesmo tempo um campo ao norte e um campo ao sul, você não irá conseguir. Se eu ordenar que você transforme uma rosa em um burro. minha ordem nunca será cumprida.
+Fundamentalmente, as leis da logica são derivadas do estudo da matéria e energia, pelo menos no nível perceptual. Vamos supor que eu diga para você jogar uma bola para cima e para baixo ao mesmo tempo, estou pedindo por algo impossível, o qual você pode facilmente testar ao tentar fazer o que pedi. Se eu pedir para você arar ao mesmo tempo um campo ao norte e um campo ao sul, você não irá conseguir. Se eu ordenar que você transforme uma rosa em um burro. minha ordem nunca será cumprida.
 
 A realidade perceptual é estável e objetiva, e é dessa estabilidade e objetividade que derivamos as leis da lógica. Nossas afirmações sobre a realidade só podem *representar* com precisão a realidade como um resultado direto da estabilidade e objetividade.
 
@@ -68,7 +68,7 @@ Esta é a base de um critério chave do método cientifico - reprodutibilidade. 
 
 Se você fosse um professor de matemática, você provavelmente não iria aceitar uma resposta errada de um aluno, mesmo se esse aluno afirmasse que a reposta dele estava "certa" quando ele escreveu, mas de algum jeito naquele momento ela mudou.
 
-Portanto, nós podemos assumir que devemos medir a validade de uma afirmação relativa a realidade objetiva - empiricamente e logicamente. Logica como um estudo apenas surge como resultado da estabilidade da realidade; observações empíricas também são validas ou invalidas apenas se resultarem da estável natureza da realidade.
+Portanto, nós podemos assumir que devemos medir a validade de uma afirmação relativa com a realidade objetiva - empiricamente e logicamente. Logica como um estudo apenas surge como resultado da estabilidade da realidade; observações empíricas também são validas ou invalidas apenas se resultarem da estável natureza da realidade.
 
 ### A existência de "Verdade"
 
