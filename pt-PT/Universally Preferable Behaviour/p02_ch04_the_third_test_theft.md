@@ -52,11 +52,11 @@ Se os seres humanos não possuem a posse exclusiva sobre os seus próprios corpo
 
 Não é mais crime cometer suicídio do que é atear fogo à própria casa, já que a destruição da própria propriedade é um exercício válido de propriedade. No entanto, se a propriedade legítima exclusiva for inválida, não pode haver diferença alguma entre assassinato e suicídio. Se o meu fígado estiver a falhar e eu tenho o direito de tomar o seu, então eu posso "recuperá-lo", em perfeita concordância com a moral e o comportamento honesto. Se esse procedimento o mata, então que? Para começar, sem propriedade legítima exclusiva, não há "você"…
 
-Thus we can reasonably say that exclusive self-ownership is a basic reality – that all human beings at all times and in all places have exclusive ownership over their own bodies, and thus have exclusive ownership over the effects of their own bodies, both in terms of moral behaviour and property creation or acquisition.
+Assim, podemos dizer, logicamente, que a propriedade legítima exclusiva é uma realidade básica - que todos os seres humanos, em todos os momentos e em todos os lugares, possuem propriedade exclusiva sobre os seus corpos e, portanto, têm propriedade exclusiva sobre as acções dos mesmos, tanto em termos de comportamento moral como de criação ou adquisição de propriedade.
 
-### The Grey Areas
+### Áreas Cinzentas
 
-Naturally, any statement such as the above brings the inevitable howls of “complexity,” which I fully agree with.
+Naturalmente, qualquer declaração como a mencionada anteriormente, traz os protestos inevitáveis da "complexidade", com a qual concordo plenamente.
 
 Let us say that I mean to give you five dollars as a gift, but by mistake I hand you a ten dollar bill, saying, “This is for you.” Few people would consider it theft if I said, the moment after I handed it to you: “Sorry, I meant to give you five dollars, not ten,” and took the larger note back, even though I am taking back property that I have voluntarily relinquished.
 
