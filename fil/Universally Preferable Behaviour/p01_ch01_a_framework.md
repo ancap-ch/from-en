@@ -58,9 +58,9 @@ Kapag ang panaginip sa gabi, ay ang ating papanaw na ang mg apatakaran ng "bagay
 
 Lohika, agham at katotohanan, kung gayon, ay imposible sa kawalan ng *palagian*.
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+Pangunahin, ang mga batas ng lohika ay manggagaling sa mga asal ng bagay at enerhiya, kahit sa perseptuwal na antas. Kung sasabihin ko sayo na itapon ang bola pataas at pababa sa parehong oras, ako ay nagtatanong ng imposible, na kung saan ay madali na masusubukan sa pagtangka na tuparin ang aking kahilingan. Kung sasabihin ko sa iyo na araruhin ang parehas hilangang lupain at timog na lumapin ng magkasabay, hindi mo magagawang gawin ito. Kung ako ay magsabi sa iyo na gawing kabayo ang bulaklak, ang aking kagustuhan ay hindi makukuha.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+Perseptwal na katotohanan ay palagian at obhektibo - at ito ay galing sa palagian at obhektibo na kung saan nakuha natin ang mga batas ng lohika. Ang ating mga pahayag tungkol sa katotohanan maaari lamang maging tumpak *na marepresenta*ang katotohanan tulad ng isang direktang resulta ng palagian at obhektibo.
 
 The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
 
