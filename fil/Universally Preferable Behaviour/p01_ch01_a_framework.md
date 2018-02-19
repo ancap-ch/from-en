@@ -1,12 +1,12 @@
 ## Ang balangkas para sa Etika
 
-Ang etikal na mungkahi ay naiiba sa ibang uri ng mga pahayag na kaalaman. Kung sasabihin ko na, "gusto ko ang jazz," ito ay maaaring maging tunay o huwad na pahayag, ngunit ito ay hindi karaniwang maituturing na pagbubuklod sa inyo sa anumang paraan. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Ang etikal na mungkahi ay naiiba sa ibang uri ng mga pahayag na kaalaman. Kung sasabihin ko na, "gusto ko ang jazz," ito ay maaaring maging tunay o huwad na pahayag, ngunit ito ay hindi karaniwang maituturing na pagbubuklod sa inyo sa anumang paraan. Ang ang kagustuhan para sa jazz ay isa lamang pahayag ng pansariling pagmamahal; base sa aking pahayag, ito ay hindi mo ito tungkulin na magustuhan o hindi magustuhan ang jazz.
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+Katulad, kung sasabihin ko na "gusto ko ang mga gulay," ito ay isa rin lamang na pahayag ng pansariling kagustuhan. Gayunpaman, kung sasabihin ko na "ang mga gulay ay masustansiyang pagkain," sa gayon ako ay lumipat mula sa isang pahayag ng pansariling kagustuhan sa isang pahayag ng obhektibong katotohanan. Ito ang pagkakaiba ng "gusto ko ng sorbetes," at "ang sorbetes ay naglalaman ng gatas."
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+Ang pangunahing pagkakaiba sa pagitan ng mga pahayag ng *kagustuhan* at pahayag ng *katotohanan* na kung saan ang mga pahayag ng katotohanan ay obhektibong mapapatunayan - at umiiral. Kung bibigyan mo ng halaga ang katotohanan, ito ay tungkulin mo na tanggapin ang katotohanan na ang sorbetes ay naglalaman ng gatas, sa sandali na mapatunayan ito.[^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Kung sasabihin ko ang mundo ay bilog, at makakapagbigay ako ng sapat na patunay para sa pahayag na ito, ito ay wala na sayo upang malaman ang iyong kapritsuhan na kung ang pahayg ay totoo. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
 
 If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
 
