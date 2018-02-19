@@ -2,11 +2,11 @@
 
 Kagaya ng aming tinatalakay sa ibabaw, ang mungkahi ng *walang masiyadong bagay na mas maganda na pag-uugali* ay naglalaman ng isang hindi masusulusyonan na bilang ng mga lohikal at empirical na mga suliranin. ''Ang Unibersidad ng masmabuting pag uugali" *dapat* ay dapat balidong konsepto, para sa limang pangunahing suliranin.
 
-Ang una ay lohikal: kung ako ay makiklipagtalakayan *laban sa* panukala na kung saan ang makamundong kanais-nais na asal ay wasto, naipakita ko na ang aking pagkagusto para sa katotohanan laban sa kamalian - ay katulad ng sa isang kagustuhan para sa pagtatama sa mga nagsasabi ng mali. Pagsasabi na walang mga bagay na makamundong kanais-nais na asal ay katulad ng sa pagsigaw sa tainga ng isang tao na walang ganitong umiiral - ito ay may katuturan na pagsasalungat sa sarili. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+Ang una ay lohikal: kung ako ay makiklipagtalakayan *laban sa* panukala na kung saan ang makamundong kanais-nais na asal ay wasto, naipakita ko na ang aking pagkagusto para sa katotohanan laban sa kamalian - ay katulad ng sa isang kagustuhan para sa pagtatama sa mga nagsasabi ng mali. Pagsasabi na walang mga bagay na makamundong kanais-nais na asal ay katulad ng sa pagsigaw sa tainga ng isang tao na walang ganitong umiiral - ito ay may katuturan na pagsasalungat sa sarili. Sa madaling salita, kung *walang mga bagay* bilang isang makamundong kanais-nais na asal, sa gayon ang isang tao *ay dapat* tutulan sa sinumang tao na naghahayag na mayroong isang bagay bilang makamundong kanais-nais na asal. Gayunman, kung ang isang tao "ay dapat" gumawa ng isang bagay, sa gayon ay nakakagawa ng isang makamundong kanais-nais na asal. Sa gayon ang makamundong kanais-nais na asal - o tutunin ng moral - ay dapat may bisa.
 
-Syllogistically, this is:
+Solohistical, ito ay:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
+1. Ang panukala ay: "ang konsepto "ng makamundong kanaisnais na asal" ay dapat maging wasto.
 2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
 3. Therefore no argument against the validity of universally preferable behaviour can be valid.
 
