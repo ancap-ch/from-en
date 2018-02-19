@@ -62,9 +62,9 @@ Ang paraan upang salungatin ang estado - ang pinaka mapanganib na kathang-isip n
 
 Sa gustuhin natin o hindi, UPB ay nakalapat sa lahat ng ating ginagawa. Ang mga tao ay may natural na inklinasyon tungo sa hindi pagbabago, yamang tao ay nilalang na mayroong rasyonal na kamalayan, nananahan sa hindi nagbabago at rasyonal na sansinukob. Kaya kung anuman saligan ang tanggapin natin sa ating buhay at magsilbi na pilitin ang mas at mas hindi nagbabagong pag-uugali sa buong buhay natin - at sa kabuuan ng "buhay" ng ating kultura o maging sa nasyon.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+Gayon ang tao na naniniwala na ang pang-aapi ay isang mabuting gawa upang makuha niya ang kanyang gusto ay mauwi sa pang aapi ng higit at higit pa sa paglipas ng kanyang buhay. Ang tao na naniniwala na ang karahasan ay mabuti ay maging higit at higit pang marahas.
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+Sa madaling salita, UPB ay humihingi ng hindi pagbabago kahit sa pagbabago-bago. UPB ay humihingi ng pagkakatulad kahit sa imoralidad.
 
 The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
 
