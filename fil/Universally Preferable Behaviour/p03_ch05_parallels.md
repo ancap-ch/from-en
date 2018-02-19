@@ -34,7 +34,7 @@ Pwede nating pillin kahit alin sa kabutihan o pamimilit.
 
 Hindi natin pwedeng makuha pareho.
 
-### Solutions
+### Mga Solusyon
 
 We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
 
