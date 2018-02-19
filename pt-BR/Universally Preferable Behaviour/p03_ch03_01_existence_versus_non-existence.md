@@ -100,59 +100,59 @@ A sociedade progride exatamente no grau em que razão e evidência dão o grande
 
 许多人会在这一点上争论说，税收不是从枪的角度实施的，而是人们自愿支付的。举个例子，我从来没有在一个收税人或警察面前用枪指着我的脸，但是我已经交税几十年了。
 
-Isto pode ser verdade, mas é completamente irrelevante. Se eu disser a uma mulher que vou matar seus filhos se ela não tiver sexo comigo, e ela se submete a mim, claramente entendemos que uma ação imoral tomou lugar-mesmo que eu não tenha usado nenhuma arma em minha violação. Claramente, se a mulher submete-se a mim, é porque ela teme que irei realizar minha ameaça. Se eu disser a ela que meu duende de estimação vai matar seus filhos, se ela não tiver sexo comigo, ela muito provavelmente seria perturbada, mas não teria medo de minha ameaça de forma significativa, uma vez que é impossível que meu duende de estimação mate seus filhos. Ou, se eu morresse, e minha vontade afirmasse que eu mataria as crianças dessa mulher se ela não transasse comigo, claramente ela se sentiria aliviada ao invés de com medo, já que não posso conceber minha ameaça do depois de morto. Assim, nós pagamos impostos, porque sabemos que, se não o fizermos, a probabilidade de sermos agredidos contra representantes do estado é muito elevada. Se eu não pagar meus impostos, recebo uma carta, outra carta, em seguida, uma chamada de telefone, e depois uma intimação ao tribunal – e se eu não aparecer no tribunal, ou não pagar meus impostos atrasados e multas acumuladas e juros, policiais virão com armas para me levar para a cadeia. Se eu resistir a esses policiais, eles vão me abater.
+这也许是真的，但它是完全不相干。如果我告诉一个女人，如果她不与我发生性关系，我会杀了她的孩子，她向我屈服，我们就清楚地知道，一个不道德的行为已经发生了- 尽管我在我的行为中没有使用任何武器。很明显，如果那个女人屈服于我，那是因为她害怕我会实施我的威胁。我告诉她，如果她不跟我做爱, 我的宠物小精灵会杀死她的孩子，她会很不安，但不会在任何有意义的方式恐惧我的威胁，因为我的宠物小精灵杀死她的孩子是不可能的。或者，如果我死了，我的遗嘱说，如果她不与我发生性关系，我会杀了这个女人的孩子，显然她会感到放心而不是害怕，因为我无法想象从坟墓里拿出我的威胁。因此我们纳税，因为我们知道，如果我们不这样做，对被侵略的国家代表的可能性非常高。如果我不交税，我会收到一封信，然后再收到一封信，然后收到一个电话，然后向法院发出传票，如果我不出庭，或者不付回税款，累积罚款和利息，警察就会带着枪带我进监狱。如果我抵抗那些警察，他们会杀我的。
 
-Dizer que força é igual a voluntarismo é completamente ilógico e contraditório. Dizer que a iniciação do uso da força é completamente igual a não-iniciação do uso da força é dizer que cima é baixo, preto é branco, e a verdade é a falsidade.
+说武力等于自愿论是完全不合逻辑和自相矛盾。也就是说，开始使用武力完全等同于不使用武力，就是说黑暗是白色的，而真实是虚假的。
 
-Sem a "zona nula", essas ficções corruptas não podem ser sustentadas.
+如果没有“空白地带”，这些腐败的小说是无法维持的。
 
-A "zona nula" é o covil da besta que caçamos.
+“空区”是我们捕猎的野兽的巢穴。
 
-Como podemos ver, sabemos, pessoalmente, que é errado roubar; Temos muito poucos problemas com a proibição abstrata e lógica de roubo, tal como temos trabalhamos acima –, no entanto, existe ainda, esta "zona nula" ou universo alternativo onde tais oposições podem ser aceitas sem qualquer pergunta ou preocupação.
+正如我们所看到的，我们知道偷窃本身是错误的；我们在抽象和逻辑上禁止偷窃的问题很少，如我们在上面所做的那样 -然而，仍然存在着这个“空白地带”或交替的宇宙，这种对立可以毫无疑问地被接受。
 
-De acordo com a UPB, é errado para mim e para você roubar. Ainda de alguma forma, nesta "zona nula", não é apenas permitido, mas também perfeitamente *moral*, para que outros possam roubar. Nós *não devemos* roubar – eles *devem* roubar. É insanidade moral!
+根据UPB，我和你偷盗是错误的。然而，不知何故，在这个“空白地带”，不仅是允许的，而且是完全道德的，为他人偷窃。我们不能偷 – 必须偷。这是道德的疯狂！
 
-### Policiais
+### 警察
 
-Deixe-nos tirar nosso amigo Bob do seu quartinho de teste da teoria moral e restaurá-lo para seu trabalho original como um policial.
+让我们把我们的好朋友Bob - 从他的道德理论测试的小房间里带走，恢复他原来当警察的工作。
 
-Claramente, quando Bob acorda pela manhã, antes do seu turno, ele não pode ir para casa do seu vizinho e cobrar dinheiro apontando uma arma, não importa quem lhe disser que está tudo bem.
+显然，当Bob早上醒来，在轮班之前，他不能到邻居家去要钱，不管谁告诉他一切都好。
 
-Quando Bob toma o café da manhã, ele também não pode atacar seu vizinho e pegar seu dinheiro. A caminho do trabalho – mesmo que ele tenha colocado o uniforme – ele não bateu ponto ainda e, portanto, não tem mais direitos do que qualquer outro cidadão. Quando ele bate ponto, no entanto, é como se ele descendesse de um pilar amoral de fogo vindo do céu, ele ganha a incrível capacidade de moralmente atacar seus vizinhos e tirar o dinheiro deles.
+当Bob吃早餐时，他也不能攻击他的邻居并拿走他的钱。在他上班的路上- 尽管他穿上制服 -他还没有打卡，因此没有比其他公民更多的权利。当他打卡，但是，现在好像有一个不道德的支柱从天上下火，他获得的道德攻击他的邻居拿走他们的钱惊人的能力。
 
-Estranhamente, esta é a única característica dele que foi totalmente revertida em si. Ele não pode voar, ele não pode mudar sua forma, ele não pode digerir rolamentos com êxito ou viver no inferno; ele não pode correr mil quilômetros por hora e nem consegue atravessar uma parede de tijolos. Ele é absolutamente, totalmente, e completamente *o mesmo homem que ele era **antes de** bater o ponto* – mas agora, ele está sujeito a regras morais totalmente opostas.
+奇怪的是，这是他完全颠倒过来的唯一特征。他不能飞，他不能改变他的形状，他不能成功消化球轴承或生活在地狱中;他每小时不能跑一千公里，也不能穿过一堵砖墙。他绝对完全是一样的人，就像他在拳打脚踢之前一样 但现在他受到完全相反的道德规则的束缚。
 
-Ainda mais estranhamente, se eu não sou um "policial", mas se eu seguir Bob para trabalhar e fizer exatamente o que ele faz – se eu vestir uma fantasia, entrar na delegacia de polícia e colocar um pedaço de papelão em um relógio de bater ponto – porque, então se fiz exatamente o que Bob faz, Eu sou completamente e totalmente imoral, embora as ações idênticas Bob são totalmente *morais*.
+更奇怪的是，如果我不是一个“警察”，但我会跟着 Bob去工作，做他所做的事情 - 我穿上了一件服装，走进警察局，把一块纸板放进一个打卡钟 - 如果我那时做的正是Bob所做的，我完全不道德，虽然Bob的相同行为是完全道德的。
 
-Que tipo de sentido isso faz? Como nós podemos concebivelmente desvendar este mistério impenetrável?
+这是什么意思？？我们怎么可以想象地解开这个难以理解的谜呢?
 
-O simples fato é que ele *não pode* ser desvendado, porque ele é completamente louco. O fato é que essa loucura moral do "mundo oposto" é completamente irracional – para não mencionar violentamente explorativa - é óbvio que ela deve ser enterrado em um desfile interminável de "voluntarismo" mitológico
+简单的事实是它不能被解决，因为这完全是疯狂的。事实上，这种“相反的世界”道德的疯狂完全是非理性的 – 别说暴力剥削 – 是显而易见的，它必须埋在神话中的 “唯意志论的无尽的行列”。
 
-Nos dizem que "queremos" que Bob npegue dinheiro – o que contradiz completamente o fato de que Bob aparece na nossa porta apontando uma arma carregada na nossa cara. Por esta lógica, posso também ir subindo e descendo a rua roubando dinheiro de meus vizinhos e então afirmar que estou absolutamente chocado quando eu for preso:
+我们被告知，我们“希望” Bob 拿走我们的钱 -这完全违背了Bob在我们家门口指着一把上膛的枪出现在我们面前的事实。按照这种逻辑，我也可以在街上到处偷邻居的钱，然后说我被捕的时候非常震惊:
 
-"Eles *querem* que eu leve o dinheiro!"
+“他们要我拿走他们的钱!”
 
-"Mas então por que estavam ameaçando matá-los se eles não lhe dessem o dinheiro?"
+“如果他们不给你钱的话,你为什么威胁我要开枪呢?”
 
-"Porque eles me *devem* o dinheiro!"
+“因为他们欠我钱!“
 
-"Eu pensei que você disse que eles queriam dar-lhe o dinheiro."
+“我以为你说他们想给你钱。”
 
-"Não, não – eles me devem. É realmente *meu* dinheiro!"
+“不，不 - 他们欠我的。这真的是我的钱!“
 
-"Por que razão eles te devem este dinheiro?"
+“他们凭什么欠你这笔钱?“
 
-"Temos um contrato!"
+“我们有合同!”
 
-"Mostre este contrato? Assinaram este contrato por livre arbítrio?"
+“你能给我看一下这份合同吗？他们自愿签了合同吗”
 
-"Não é esse tipo de contrato! É um – contrato *social*... E também – de acordo com o contrato social, tenho toda a rua de qualquer jeito – o bairro inteiro na verdade! Quem se recusa a pagar-me o meu dinheiro pode mudar para outro lugar – não estou forçando ninguém!"
+“这不是那种合同！这是一份社会契约……此外，根据社会契约，我拥有整个街道 -事实上，整个该死的街区! 任何拒绝给我钱的人都可以搬到别的地方去 - 我不会强迫任何人!“
 
-"E como você sabe que você possui toda a vizinhança? Tem papéis de posse?"
+“你怎么知道你拥有整个街区？”你有所有权文件吗？“
 
-"Sim, claro – dê uma olhada aqui!"
+“是的，当然 - 看看这里!“
 
-"Bem, isso é apenas uma nota manuscrita dizendo que você possui toda a vizinhança – e é a mesma caligrafia de sua assinatura. Temo que nós vamos ter que prender-lhe este é apenas um contrato confeccionado por ti, o qual você está infligindo sobre outras pessoas apontando uma arma."
+“嗯，这只是一张手写的便条，上面写着你拥有整个街区 - 这和你的签名是一样的。恐怕我们得给你订一份 -这只是你自己编的合同，你要用枪对别人施加压力”。
 
 Isso é completamente insano e corrupto como quando eu continuo a dizer a uma mulher que estou estuprando-a e ela *quer* fazer sexo comigo. Imagine se fosse julgado por estupro, houvesse um vídeo da mulher implorando-me para parar, e eu tinha uma faca na garganta dela, como minha defesa seria recebida se eu continuasse a insistir que ela *queria* fazer sexo comigo?
 
