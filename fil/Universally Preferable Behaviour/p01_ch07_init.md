@@ -1,4 +1,4 @@
-## Initiation
+## Pagtangap
 
 A reasonable moral theory should be able to explain all of the above universal standards, just as a reasonable theory of physics should be able to explain how a man can unconsciously calculate the arc of a thrown baseball, and catch it.
 
