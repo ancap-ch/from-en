@@ -93,15 +93,15 @@ Ano ang patunay para sa pagtingin ng desentralisado at at pag-aagawan ng kapangy
 
 Ang organisadong krimen hindi hindi nagbibigay ng maraming magandang halimbawa, dahil ang mga gang ay regular na sira, nagmamanipula at gumagamit ng kapangyarihan ng pulis ng pamahalaan upang ipatupad ang kanilang paghahari, at kaya ang mga gang ay hindi masasabi na pinapangasiwaan sa likas na kalagayan. Gayundin, ang mga kriminal na gang ay sobrang nakikinabang sa pamamagitan ng pagbibigay ng legal na pagbabawal na sangkap o serbisyo, at gayon rin higit na yumabong dahil sa mga patakaran ng estado.
 
-Ang isang mas kapaki-pakinabang na halimbawa ay ang katotohanan na walang leader ang maaaring magdeklara ng digmaan sa isa pang lider na nagtataglay ng mga sandatang nukleyar. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+Ang isang mas kapaki-pakinabang na halimbawa ay ang katotohanan na walang leader ang maaaring magdeklara ng digmaan sa isa pang lider na nagtataglay ng mga sandatang nukleyar. Noon, kapag ang mga namumuno ay hindi tinatablan mula sa kanuilang personal na paghiihiganti, sila ay mas higit pa na handang pumatay ng kanilang sariling nasasakupan sa pamamagitan ng paglulunsad ng digmaan. Ngayon na sila na mismo ay napapailalim sa paglipol, sila ay tanging handa na salakayin ang mga bansa na hindi kayang lumaban.
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+Ito ay isang tagubilin na aral tungkol sa kung bakit ang kailangan tanggalan ng sandata ang mga ito at depende sa populasyon - at ang isang magandang halimbawa ng paano ang takot ng paghihiganti ay likas sa isang pantay na sistema ng desentralisado at nag-aagawan ng kapangyarihan * ay nagpapatunay na paraan lamang ng ligtas at pagpapanatili ng pansariling kalayaan*.
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+Ang pagtakas mula sa haka-haka na masama sa protektadong bilangguan ng pamahalaan ay sinisigurado lamang ang pagkasira ng lubos na kalayaan na ginagawa kapaki-pakinabang ang buhay.
 
 [^4]: Tingnan [Praktikal na Anarkiya](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
 
-[^5]: See *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
+[^5]: Tignan *[reserbang federal](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
 
 [^6]: Isang perpektong balanse ng mabuti at masama ay halos imposible.
 
