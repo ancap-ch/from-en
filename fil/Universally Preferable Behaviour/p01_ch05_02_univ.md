@@ -8,9 +8,9 @@ Solohistical, ito ay:
 
 1. Ang panukala ay: "ang konsepto "ng makamundong kanaisnais na asal" ay dapat maging wasto.
 2. Pagtatalo laban sa bisa ng ng makamundong kanaisnais na asal pinapakita ng makamundong kanaisnais na asal.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+3. Sa gayon walng bisa ang pagtatalo ng makamundong kanaisnais na asal ay maaring maging wasto.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+Alam nating lahat na may roong kagustuhang paksa, katulad pag gusto sa sorbetes o kaya lang, na kung saan ay hindi maituturing na pagbubuklod ng mga tao. Sa kabilang banda, mayroong ibang mga kagustuhan, tulad ng paggagahasa at pagpatay, na malinaw *na* may kakulangan sa iba. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
 
 Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
 
