@@ -60,7 +60,7 @@ Ang paraan upang salungatin ang estado - ang pinaka mapanganib na kathang-isip n
 
 ### Ang hinaharap
 
-Sa gustuhin natin o hindi, UPB ay nakalapat sa lahat ng ating ginagawa. Ang mga tao ay may natural na inklinasyon tungo sa hindi pagbabago, yamang tao ay nilalang na mayroong rasyonal na kamalayan, nananahan sa hindi nagbabago at rasyonal na sansinukob. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Sa gustuhin natin o hindi, UPB ay nakalapat sa lahat ng ating ginagawa. Ang mga tao ay may natural na inklinasyon tungo sa hindi pagbabago, yamang tao ay nilalang na mayroong rasyonal na kamalayan, nananahan sa hindi nagbabago at rasyonal na sansinukob. Kaya kung anuman saligan ang tanggapin natin sa ating buhay at magsilbi na pilitin ang mas at mas hindi nagbabagong pag-uugali sa buong buhay natin - at sa kabuuan ng "buhay" ng ating kultura o maging sa nasyon.
 
 Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
 
