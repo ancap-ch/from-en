@@ -40,11 +40,11 @@ Upang simulan mula pa sa simula… ang mga tuntunin ng moralidad – o higit na 
 
 Mayroong dalawang mga posibilidad lamang pagdating sa mga patakaran ng moral, tulad ng sa anumang lohikal na agham. Ang alinman sa mga alituntunin sa moral na unibersal ay may bisa, o hindi sila.[^6]
 
-A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
+Ang isang panuntunan ay maaaring balido kung ito ay *umiiral empirically*, tulad ng grabidad, o dahil ito ay *totoo*, katulad ng equation two plus two ay katumbas ng apat.
 
-We must then first ask: do moral rules exist at all?
+Dapat nating itanong muna: umiiral ba ang mga tuntunin ng moralidad?
 
-Certainly not in material reality, which does not contain or obey a single moral rule. Moral rules are different from the rules of physics, just as the scientific method is different from gravity. Matter innately obeys gravity or the second law of thermodynamics, but “thou shalt not murder” is nowhere inscribed in the nature of things. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. A theory of gravity proves that if you push a man off a cliff, he will fall. It will not tell you whether you *should* push him or not.
+Tiyak na hindi sa materyal na katotohanan, na hindi naglalaman o sumunod sa isang panuntunang moral. Ang mga patakaran ng moral ay iba sa mga patakaran ng pisikal, tulad ng pang-agham na pamamaraan ay naiiba mula sa grabidad. Matter innately obeys gravity or the second law of thermodynamics, but “thou shalt not murder” is nowhere inscribed in the nature of things. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. A theory of gravity proves that if you push a man off a cliff, he will fall. It will not tell you whether you *should* push him or not.
 
 Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
 
