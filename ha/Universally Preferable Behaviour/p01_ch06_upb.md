@@ -11,7 +11,6 @@ Hasali mun karkata hankalin mu na UPB akan daular Da’a, UPB na iya shafan “r
 -Harshe
 -Da’a
 
-
 Da’a shi tsarin cikin tsarin UPB ne wande ke kula da *samar da* hali, ko amfanar da tashin hankalin. Duk dubara mai zurfin da ke tabbatar wa ko kin tashin hankalin *halin kirki* ne, kuma yana maganan akan bukata a dabaru daidai da hujjojin halayya.
 
 Bari mu lura d aiyuka uku, da zasu taimaka mana wurin tantan cewa tsakanin Da’a da ado. Aiki na farko shine *rashin hankali* na biyu shine *karya*; na uku kuma *kisa*.[^9]
