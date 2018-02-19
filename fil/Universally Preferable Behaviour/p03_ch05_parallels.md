@@ -38,7 +38,7 @@ Hindi natin pwedeng makuha pareho.
 
 Maaari nating piliin na paniwalaan na ang gobyerno ay parehong isang kailangan at isang institusyong moral. Maaari nating piliin na paniwalaan na, kung walang gobyerno, ang lipunan ay babagsak patungong "anarkiya", at ang daigdig ay malulusaw sa digmaan ng lahat laban sa lahat. Maaari nating piliing paniwalaan na kapag wala ang ang gobyerno, hindi magkakaroon ng mga daan, walang edukasyon, walang tulong pangkalusugan, walang pensyon sa pagtanda, walang mga aklatan, walang proteksyon ng mga ari-arian at kung anu-ano pa.
 
-Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+Ang parehong mga pamahiin, syempre, ang pumigil sa pag-unlad ng sangkatauhan sa buong kasaysayan. Ang pinaka makabuluhang pauna sa kung ano ang inilantad tungkol sa gobyerno ay kung ano ang inilantad ng siyensya tungkol sa relihiyon.
 
 As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
 
