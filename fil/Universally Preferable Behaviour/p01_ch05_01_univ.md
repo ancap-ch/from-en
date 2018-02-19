@@ -46,7 +46,7 @@ Dapat nating itanong muna: umiiral ba ang mga tuntunin ng moralidad?
 
 Tiyak na hindi sa materyal na katotohanan, na hindi naglalaman o sumunod sa isang panuntunang moral. Ang mga patakaran ng moral ay iba sa mga patakaran ng pisikal, tulad ng pang-agham na pamamaraan ay naiiba mula sa grabidad. Ang mahalaga ay sumusunod sa grabidad o ang ikalawang batas ng termodinamika, ngunit “hindi ka dapat pumatay” ay wala pang nakasulat sa likas na katangian ng mga bagay. Ang mga batas ng katawan *ay naglalarawan* ng pag-uugali ng bagay, ngunit wala itong isang solong *reseta*. Sinasabi ng agham na ang bagay *ay* gumagana sa isang tiyak na paraan – hindi na ito *dapat* na kumilos sa isang tiyak na paraan. Ang teorya ng grabidad ay nagpapatunay na kung itulak mo ang isang tao mula sa isang talampas, siya ay mahuhulog. Hindi ito sasabihin sa iyo kung *dapat* mo siyang itulak o hindi.
 
-Kaya hindi maaaring sabihin na ang moral na mga tuntunin ay umiiral sa materyal na katotohanan, at hindi rin sila awtomatikong sinusunod tulad ng mga batas ng pisika – na *hindi* nangangahulugan na ang mga batas sa moral ay hindi totoo, pansarili o walang katuturan. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
+Kaya hindi maaaring sabihin na ang moral na mga tuntunin ay umiiral sa materyal na katotohanan, at hindi rin sila awtomatikong sinusunod tulad ng mga batas ng pisika – na *hindi* nangangahulugan na ang mga batas sa moral ay hindi totoo, pansarili o walang katuturan. Ang pang-agham na pamamaraan mismo ay hindi umiiral sa katotohanan alinman – at opsyonal din – ngunit ito ay hindi sa lahat ng mga mali, subjective o walang katuturan.
 
 If we can prove that moral theories can be objective, rational and verifiable, this will provide the same benefits to ethics that subjecting *physical* theories to the scientific method did.
 
@@ -66,7 +66,7 @@ Ang pamamaraan para sa paghuhusga at pagpatunay ng isang teoriyang *moral* ay ek
 
 Ang unang tanong tungkol sa moral na mga patakaran ay: *ano* sila?
 
-Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
+Sa madaling salita, ang mga *moralidad* ay isang hanay ng mga panuntunan na nag-aangkin nang tumpak at palagiang makilala ang mga mas mahusay na pag-uugali ng tao, tulad ng *pisika* ay isang hanay ng mga panuntunan na nag-aangkin nang tumpak at patuloy na kilalanin ang unibersal na pag-uugali ng bagay.
 
 The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
 
