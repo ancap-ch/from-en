@@ -8,9 +8,9 @@ Ito ay imposible upang patunayan na pinangarap ko ang isang elepante kagabi. Pos
 
 Ang pagkilala sa superyor na lohika sa isang argumento ay isang *aksyon*. Kung, sa tuwing punto ay nakikialam ako sa iyo, wala akong sinabi, ngunit sa halip ay tinitigan mo na lamang, gusto mong makita ito sa halip na magalit sa pakikipagtalo sa akin. Upang makamit ang isang punto, Dapat kong gawin ang pagkilos ng pandiwang pagtanggap.
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+Sa gayon ay makikita na, ang likas na pagkilos sa pagtatalo ay isang bilang ng mga naka-embed na mga lugar na hindi maaaring maisip maitaob.
 
-If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+Kung hihilingin ko sa iyo na makilala ako sa tennis court, at magpakita ng isang rifle ng pangangaso, maaari tayong mag-play ng isang uri ng paligsahan, ngunit tiyak na hindi ito magiging tennis. Kapag hiniling ko sa iyo na makilala ako sa tennis court para sa isang laro, ang pahayag sa kahilingan na iyon ay isang pagtanggap sa mga panuntunan ng tennis.
 
 Historically, those engaged in ethical debating have often failed to maintain this basic reality.
 
