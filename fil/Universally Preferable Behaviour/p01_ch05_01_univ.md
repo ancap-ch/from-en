@@ -6,7 +6,7 @@ Ginagamit ko ang salitang “pag-uugali” rito sa halip na “pag-iisip” sapa
 
 Ito ay imposible upang patunayan na pinangarap ko ang isang elepante kagabi. Posible upang patunayan na isinulat ko ang salitang “elepante,” kaya nga ginagamit ko ang salitang “pag-uugali” sa halip na “pagiisip.”
 
-Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+Ang pagkilala sa superyor na lohika sa isang argumento ay isang *aksyon*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
 
 Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
 
