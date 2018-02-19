@@ -36,7 +36,7 @@ Kagaya nito, pwedeng merong mga matinding sitwasyon na kung saan pwede namin pil
 
 ### Ang unibersidad at ang mga pagbubukod
 
-Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
+Bago natin simulan gamitin ang ating balangkas ng unibersidad na mas mabuti sa pag-uugali para aralin ang ilang pangkaraniwang etikal ng mga paniniwala, dapat nating makipag-ugnayan kasama ang tanung ng "mga pagbubukod"
 
 Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
 
