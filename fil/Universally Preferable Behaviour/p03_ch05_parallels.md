@@ -36,7 +36,7 @@ Hindi natin pwedeng makuha pareho.
 
 ### Mga Solusyon
 
-Maaari nating piliin na paniwalaan na ang gobyerno ay parehong isang kailangan at isang institusyong moral. Maaari nating piliin na paniwalaan na, kung walang gobyerno, ang lipunan ay babagsak patungong "anarkiya", at ang daigdig ay malulusaw sa digmaan ng lahat laban sa lahat. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Maaari nating piliin na paniwalaan na ang gobyerno ay parehong isang kailangan at isang institusyong moral. Maaari nating piliin na paniwalaan na, kung walang gobyerno, ang lipunan ay babagsak patungong "anarkiya", at ang daigdig ay malulusaw sa digmaan ng lahat laban sa lahat. Maaari nating piliing paniwalaan na kapag wala ang ang gobyerno, hindi magkakaroon ng mga daan, walang edukasyon, walang tulong pangkalusugan, walang pensyon sa pagtanda, walang mga aklatan, walang proteksyon ng mga ari-arian at kung anu-ano pa.
 
 Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
 
