@@ -30,12 +30,12 @@ Tiyak kong dapat ipahayag na ang kanilang iniinom na tubig ang sanhi ng salot. T
 
 Tiyak, sa kaalaman ng pandaigdigan at mahahadlangang pagkakalason, Hindi ko dapat sayangin ang aking oras sa pakikipagtalo na ang tunay na panganib na kinakaharap mo ay ang maliit na posibilidad na ang bawat indibidwal ay maaaring lasunin ka sa hinaharap.
 
-Sa gayon, bilang pilosopo na nag-aalala sa karahasan at imoralidad, dapat ko bang pagtuunan ang mga pribadong salarin, o publikong salarin?
+因此，作为一个关心暴力和不道德的哲学家，我应该关注私人罪犯还是公共罪犯？
 
-Ang mga paglabag na aking naranasan sa kamay ng mga pribadong kriminal ay nawala sa kawalan ng halaga ng ugnayan upang kahit *isang araw* sa ilalim ng mahabaging awa ng aking "banal at mabuting mga panginoon."
+我在私人罪犯手中遭受的侵犯行为，即使在一天之内，我的”善良和善良的主人“也毫不留情。
 
-Kung, ang pinakamalaking panganib sa sangkatauhan ay maling haka-haka, at ang pinaka prayoridad dapat natin ay ang pagtuklas, komunikasyon at kadalisayan ng bisa, rasyonal, obserbasyon at hindi nagbabagong teoryang etikal. Kung matuklasan natin na ang pinakang biktima ng salot ay namatay mula sa maruming tubig, tiyak na dapat sabihin sa kanila na linisin ang kanilang tubig ito ang dapat na una at pinakang prayoridad.
+那么，如果人类面临的最大危险是虚假的道德理论，那么我们的最高优先级应该是有效的，理性的，经验的和一致的道德理论的发现，交流和改进。如果我们发现大多数瘟疫受害者都因不纯净的水而死亡，那么一定要告诉他们净化水是我们的首要任务。
 
-Ngayon ay magtungo na tayo sa gawaing iyon.
+现在让我们谈谈这个任务。
 
-[^12]: O, sa halip:"*pilitin* kabanalan ang edukasyon" - ang aking mga magulang ay napilitang magbayad sa pamamagitan ng pagbayad ng mga buwis, at ako ay napilitan na dumalo.
+[^12]: 或者，相反：“强迫教育是一种美德” - 我的父母被迫通过交税，我也 被迫参加。
