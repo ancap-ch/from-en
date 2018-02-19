@@ -40,9 +40,9 @@ Maaari nating piliin na paniwalaan na ang gobyerno ay parehong isang kailangan a
 
 Ang parehong mga pamahiin, syempre, ang pumigil sa pag-unlad ng sangkatauhan sa buong kasaysayan. Ang pinaka makabuluhang pauna sa kung ano ang inilantad tungkol sa gobyerno ay kung ano ang inilantad ng siyensya tungkol sa relihiyon.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+Habang ang siyensya ay nagsimulang gumawa ng batayan sa sansinukob na maaaring patakbuhin ng walang Diyos, lahat ng paraan ng isteriko ay sumisigaw na ang katapusan ng mundo ay malapit na, na ang lipunan ay guguho sa "anarkiya,"at ang sibilisasyon ay matunaw sa digmaan ng lahat laban salahat.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+Kahit anong oras ang sistema na nagbibigay-katwiran ay maaaring mag-akala ng pagtakbo *na wala* ang kapangyarihang ito, lahat ng kumita mula sa pagmamanipula sa kapangyarihan ay sisigaw na kapag wala sila, lahat ay mawawala.
 
 Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
 
