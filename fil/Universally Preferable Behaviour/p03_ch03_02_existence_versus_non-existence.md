@@ -85,7 +85,7 @@ Ang pananaw na ito ay nagsisimula sa katulad na pagkakamali ng nakasaad sa itaas
 
 Ang tanging paraan na ang mga institusyong panlipunan ay maaaring lumago sa marahas na monopolyo ito ay *upang mabawasan ang mga gastos ng pagpapatupad sa kanilang mga biktima*. Ang pamahalaan ay lumalaki nang walang hanggan dahil maaari nilang bayaran ang mga maniningil ng buwis na may bahagi ng buwis na kanilang kinokolekta. Ang mga alipin ay sapilitang pinagbabayad para sa gastos ng kanilang pagkaalipin.
 
-In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
+Sa isang boluntaryong lipunan, magkakaroon ng walang pagbubuwis, at kung gayon ang kahit anong grupo ay naghahangad na magkaroon ng monopolistang kapangyarihan upang pondohan ang kayang sandatahan, na kung saan ay hindi magiging matipid magagawa o kumikita.[^11]
 
 It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
 
