@@ -72,7 +72,7 @@ Dado que a questão da responsabilidade moral e da capacidade intelectual só se
 
 ### Propriedade Como Universalidade
 
-O CUP oferece-nos opções claras em relação aos direitos de propriedade. Não podemos aceitar o caso de que alguns homens tenham direitos de propriedade e outros não. Não se pode dar o caso de que os homens em Washington tenham direitos de propriedade, enquanto as mulheres em Baltimore não. Não pode ser que os homens hoje tenham direitos de propriedade, ma amanhã não e assim por diante.
+O CUP oferece-nos opções claras em relação aos direitos de propriedade. Não podemos aceitar o caso de que alguns homens tenham direitos de propriedade e outros não. Não se pode dar o caso de que os homens em Washington tenham direitos de propriedade, enquanto as mulheres em Baltimore não. Não pode ser que os homens hoje tenham direitos de propriedade, mas amanhã não e assim por diante.
 
 Também não se pode dar o caso de que os homens tenham apenas cinquenta por cento dos direitos de propriedade.
 
@@ -80,9 +80,9 @@ Se eu argumentar: "Os homens só têm cinquenta por cento de direitos de proprie
 
 Isto pode parecer esotérico, mas é uma questão muito séria, por razões que vamos descobrir em breve.
 
-Let us say that we can somehow magically bypass the “fifty percent ownership of the body” problem, and say that human beings only have fifty percent property rights when it comes to *external* objects.
+Digamos que, de alguma forma, pudemos contornar magicamente o problema da "propriedade de cinquenta por cento do corpo" e assumir que os seres humanos têm apenas cinquenta por cento de direitos de propriedade, quando se trata de objectos *externos*.
 
-How does that work in practice?
+Como é que isso funcionaria na prática?
 
 Well, if I have two lawnmowers and you have none, then clearly it would be logical for you to have the right to take one of my lawnmowers, since I can only ever own half of my lawnmower collection.
 
