@@ -1,6 +1,6 @@
 ### UPB: limang katunayan
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+Kagaya ng aming tinatalakay sa ibabaw, ang mungkahi ng *walang masiyadong bagay na mas maganda na pag-uugali* ay naglalaman ng isang hindi masusulusyonan na bilang ng mga lohikal at empirical na mga suliranin. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
 
 The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
 
