@@ -48,7 +48,7 @@ Tiyak na hindi sa materyal na katotohanan, na hindi naglalaman o sumunod sa isan
 
 Kaya hindi maaaring sabihin na ang moral na mga tuntunin ay umiiral sa materyal na katotohanan, at hindi rin sila awtomatikong sinusunod tulad ng mga batas ng pisika – na *hindi* nangangahulugan na ang mga batas sa moral ay hindi totoo, pansarili o walang katuturan. Ang pang-agham na pamamaraan mismo ay hindi umiiral sa katotohanan alinman – at opsyonal din – ngunit ito ay hindi sa lahat ng mga mali, subjective o walang katuturan.
 
-If we can prove that moral theories can be objective, rational and verifiable, this will provide the same benefits to ethics that subjecting *physical* theories to the scientific method did.
+Kung maaari nating patunayan na ang moral na mga teorya ay maaaring maging layunin, may katwiran at napapatunayan, ito ay magkakaloob ng parehong mga benepisyo sa etika na nagsasagawa ng mga teorya ng *pisikal* sa mga pang-agham na pamamaraan.
 
 Before the rise of the scientific method, people believed that matter obeyed the subjective whims of gods and devils – and people believe the same of morality now. Volcanoes erupted because the mountain-god was angry; good harvests resulted from human or animal sacrifices. No one believed that absolute physical laws could limit the will of the gods – and so science could never develop. Those who historically profited from defining physical reality as subjective – mostly priests and aristocrats – fought the subjugation of physical theories to the scientific method, just as those who currently profit from defining morality as subjective – mostly priests and politicians – currently fight the subjugation of *moral* theories to objective and universal principles.
 
@@ -68,6 +68,6 @@ Ang unang tanong tungkol sa moral na mga patakaran ay: *ano* sila?
 
 Sa madaling salita, ang mga *moralidad* ay isang hanay ng mga panuntunan na nag-aangkin nang tumpak at palagiang makilala ang mga mas mahusay na pag-uugali ng tao, tulad ng *pisika* ay isang hanay ng mga panuntunan na nag-aangkin nang tumpak at patuloy na kilalanin ang unibersal na pag-uugali ng bagay.
 
-Ang pangalawang tanong na itatanong ay: Mayroon bang anumang bagay na “pangkapakanan na mas mainam na pag-uugali” sa lahat? Kung may, maaari naming simulan upang galugarin kung ano ang maaaring maging tulad ng pag-uugali. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+Ang pangalawang tanong na itatanong ay: Mayroon bang anumang bagay na “pangkapakanan na mas mainam na pag-uugali” sa lahat? Kung may, maaari naming simulan upang galugarin kung ano ang maaaring maging tulad ng pag-uugali. Kung hindi, pagkatapos ay ang aming pagsusuri ay dapat huminto dito – tulad ng pagsusuri ng Ptolemaic astronomiya tumigil matapos ito ay naging karaniwang tinatanggap na ang Araw ay sa katunayan ang sentro ng solar system.
 
 [^6]: Sa pisika, ang tanong ay: alinman sa unibersal na pisikal na mga patakaran ay may bisa, o hindi.
