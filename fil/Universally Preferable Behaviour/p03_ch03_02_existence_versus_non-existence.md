@@ -87,9 +87,9 @@ Ang tanging paraan na ang mga institusyong panlipunan ay maaaring lumago sa mara
 
 Sa isang boluntaryong lipunan, magkakaroon ng walang pagbubuwis, at kung gayon ang kahit anong grupo ay naghahangad na magkaroon ng monopolistang kapangyarihan upang pondohan ang kayang sandatahan, na kung saan ay hindi magiging matipid magagawa o kumikita.[^11]
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
+Ito ay napaka hirap na maintindihan ang lohika at katalinuhan ng argumento na, upang maprotektahan tayo mula sa isang grupo na *maaari* madaig tayo, dapat nating suportahan ang isang grupo na * mayroon ng *pagdadaig sa atin. Ito ay katulad sa statistiko na argumento tungkol sa pribadong monopolyo - na kung saan ang mga mamamayan ay dapat gumawa ng isang pamahalaang monopolyo dahil aila ay natatakot sa pribadong monopolyo. Hindi nito kumukuha ng masiglang pangitain upang makita sa pamamagitan ng mga bagaw na walang kapararakan.
 
-What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+Ano ang patunay para sa pagtingin ng desentralisado at at pag-aagawan ng kapangyarihan sa magtaguyod ng kapayapaan? Sa madaling salita, mayroon bang mga basehan na maaari nating mapaghugutan upang suportahan ang ideya ng isang pantay na kapangyarihan ay ang tanging pagkakataon na ang isang tao ay mayroon para sa kalayaan?
 
 Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
 
