@@ -32,11 +32,11 @@ Muli, ito ay hindi nangangahulugan na ang kalinisan ng tubig lubusang subhektibo
 
 #### Ang katotohanan at ang obhektibong katotohanan
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+Ang konsepto ng*katotohanan* ay nangangailangang mayroong ng konsepto ng *katumpakan*. Kung susubukan kong barilin ng isang palaso sa isang buls-ay, ang katumpakan ng aking tama ay matutukoy sa layo ng binagsakan ng aking palaso mula sa sentro.
 
-What, then, is the “bull’s-eye” of truth?
+Ano, ngayon, ang "buls-ay" ng katotohanan?
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+Ngayon, ang *katotohanan* ng isang pahayag ay masusukat na kaugnay sa kanayng pagsunod sa obhektibong katotohanan.
 
 Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
 
