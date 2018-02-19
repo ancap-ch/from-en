@@ -44,9 +44,9 @@ Ang etikal na mga argumento, kung ako ay tinanong na kung gusto ko kumuha ng man
 
 1. Ang bawat isa ay mas gusto pang magnakaw ng mansanas kesa sa mamaatay sa gutom.
 2. Kaya ang lahat ng nasa unibersidad na mas gusto nilang magnakaw ng mga mansanas dahil sa gutom.
-3. Thus it is *universally preferable* to steal apples rather than starve to death.
-4. Thus survival is universally preferable to property rights.
-5. Thus what is good for the individual is the ultimate moral standard.
+3. Kaya ito ay *sa lahat higit na kanais-nais* para pagnakaw ng mga mansanas kesa sa mamatay sa gutom.
+4. Kaya naman ang kaligtasan ng lahat ay lalong kanais-nais sa mga karapatan ng ari-arian.
+5. Kaya ano man ang maganda para sa indibidwal na tunay na moral ng pamantayan.
 
 This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
 
