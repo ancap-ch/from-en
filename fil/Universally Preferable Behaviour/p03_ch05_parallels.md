@@ -46,9 +46,9 @@ Kahit anong oras ang sistema na nagbibigay-katwiran ay maaaring mag-akala ng pag
 
 Ang mga pari gumawa nito na panahon ng pagsisimula ng rebolusyong siyentipiko. Kung walang Diyos, ang buhay ay walang kahulugan. Kung walang Diyos, ang tao ay walang moralidad. Kung walang Diyos, ang ating mga kaluluwa ay hindi maisasalba. Kung walang Diyos, ang mundo ay bababa sa kaguluhan at kasamaan.
 
-Wala sa mga ito ang lumalabas na totoo, siyempre. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Wala sa mga ito ang lumalabas na totoo, siyempre. Sa katunayan, sadyang ang *kabaligtaran* ay lumalabas na totoo. Ang katapusan ng relihiyon sa mundong-pananaw ng mga dominante ay nag latag sa daan para sa paghihiwalay ng simbahan at estado, ang katapusan ng aristokrasya, ang paglitaw ng malayang pamilihan, ang pagtatatag ng maraming kalayaan ng tao sa mahahalagang bahagi ng mundo.
 
-The fall of God was the rise of mankind.
+Ang pagbagsak ng Diyos ay ang pag angat ng sangkatauhan.
 
 In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
 
