@@ -7,7 +7,7 @@ Ang una ay lohikal: kung ako ay makiklipagtalakayan *laban sa* panukala na kung 
 Solohistical, ito ay:
 
 1. Ang panukala ay: "ang konsepto "ng makamundong kanaisnais na asal" ay dapat maging wasto.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
+2. Pagtatalo laban sa bisa ng ng makamundong kanaisnais na asal pinapakita ng makamundong kanaisnais na asal.
 3. Therefore no argument against the validity of universally preferable behaviour can be valid.
 
 We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
