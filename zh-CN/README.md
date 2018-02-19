@@ -44,7 +44,7 @@ Last generated:
 | 03_p01_ch07_04.md | :x: | :x: | 2k 660 | AngelaWenjing | | |
 | 03_p01_ch07_05.md | :x: | :x: | 3k 620 | AngelaWenjing | | |
 | 03_p01_ch07_06.md | :x: | :x: | 3k 600 | AngelaWenjing | | |
-| 03_p01_ch08.md | :x: | :x: | 2k 430 | | | |
+| 03_p01_ch08.md | :x: | :x: | 2k 430 | daohehu | | |
 | < more files to be added > | | | 0  000 | | | |
 | 03_p02.md | :x: | :x: |    001 | | | |
 | 03_p02_ch13.md | :x: | :x: | 2k 560 | | | |
@@ -151,5 +151,3 @@ Last generated:
 | p05_appendices.md | :x: | :x: |    880 | | | | | |
 
 </details>
-
-
