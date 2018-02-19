@@ -1,39 +1,39 @@
-## Categorias Éticas
+## 道德类别
 
-Com a estrutura do UPB no lugar, podemos agora nos voltar a uma exame de como o UPB valida ou invalida nossas proposições morais mais comuns. Se nossa "teoria da física" consegue explicar como um homem pode pegar uma bola de baseball, nós ao menos passamos o primeiro - e mais importante - obstáculo, e nosso primeiro e mais profundo golpe contra a besta.
+随着UPB框架的实施，我们现在可以转而研究UPB如何验证或废止 我们最常见的道德主张。如果我们的“物理学理论”可以解释一个人怎样才能抓到棒球，那么我们至少已经通过了第一个也是最重要的障碍，并且对我们的第一次也是最深的打击。
 
-### As Sete Categorias
+### 七个分类
 
-Como mencionado acima, proposições sobre comportamentos universalmente preferíveis caem entre três categorias gerais - positiva, negativa e neutra. Para nos ajudar a separar ética de estética, comecemos por ampliar essas categorias para abranger *qualquer* comportamento que pode ser sujeito à uma análise ética. As sete categorias são:
+如上所述，关于普遍优先行为的命题分为三大类 -正面的、负面的和中性的。为了帮助我们将美学与道德分开，让我们从拓宽这些范畴开始，包含任何可以进行道德分析的行为。这七个类别是：
 
-1. É bom (universalmente preferível e executável através de violência, assim como "não matar").
-2. É esteticamente positivo (universalmente preferível porém não executável através de violência, como"cortesia" e "ser pontual").
-3. É pessoalmente positivo (nem universalmente preferível nem executável com violência, como uma preferência por comer sorvete).
-4. É neutro, ou não tem conteúdo ético ou estético, como correr para o ônibus.
-5. É pessoalmente negativo (predileção por não comer sorvete).
-6. É esteticamente negativo ("rudeza" e "atraso").
-7. É mau (universalmente proscrito) ("estupro").
+1. 这是好的（普遍优先和通过暴力可执行，如“不要谋杀”）。 
+2. 在美学上是积极的（普遍可取，但不能通过暴力来实施，如“礼貌”和“准时”）。
+3. 这是个人正面的（既不普遍也不可取，也不可强制执行，这是吃冰淇淋的好习惯）。
+4. 它是中性的，或没有伦理或美学内容，如公共汽车在行动中。
+5. 这是个人消极的（不喜欢吃冰淇淋）。
+6. 在美学上是负面的（“粗鲁”和“迟到”）。
+7. 它是邪恶的（被禁止）（“强奸”）。
 
-Idealmente, nós deveríamos ser capazes de cortar essas em só duas categorias - universalmente preferível e esteticamente positivo - definindo nossas proposições éticas para que o que é universalmente banido é simplesmente uma imagem espelhada do que é universalmente preferível, e ignorando meras preferências pessoais e ações neutras por não serem relevantes para a discussão sobre ética.
+理想情况下，我们应该能够将这些问题简化为只有两个类别 - 普遍适用的和审美积极的 - 通过定义我们的道德命题，以便普遍禁止的内容仅仅是普遍适用的镜像，并且仅仅放弃个人偏好和中立行为与伦理讨论无关。
 
-Por exemplo, o princípio de não agressão (NAP) afirma que a iniciação do uso da força é imoral - assim a não iniciação do uso da força é universalmente preferível, enquanto a iniciação do uso da força é universalmente banido. Se o que é banido é simplesmente o oposto do que é preferível, não existe necessidade para uma categoria adicional.
+例如，非侵略原则（Non-Aggression Principle - NAP）指出，开始使用武力是不道德的 – 因此不使用武力是普遍可取的，而使用武力则是普遍禁止的。如果被禁止的事情与简单的事情相反，那么实际上不需要额外的类别。
 
-Além disso, como filósofos morais, nós precisamos priorizar nossa examinação de éticas racionais focando nas violações mais flagrantes. Claramente as ações mais imorais devem ser as de execução violenta de preferências injustas sobre os outros. Se ações como "roubo" ou "assassinato" forem definidas como UPB, a examinação dessas definições tem que ser nossa prioridade mais alta.
+此外，作为道德哲学家，我们必须把我们的理性伦理审查聚焦于最严重的违法行为。显然，最不道德的行为必须是对他人的不公正偏好的暴力实施。如果行动如“盗窃”或“谋杀”的定义是这样定义的UPB，考试一定是我们的最高优先权。
 
-Assim, nós devemos focar nossos esforços primariamente em ações universalmente preferíveis e executáveis por meio de violência.
+因此，我们将主要集中在普遍可取和可执行的行动上。
 
-### Virtude e Seu Oposto
+### 德性及其对立
 
-O oposto de "virtude" tem que ser "vício" - o oposto de "bom" tem que ser "mal." Se eu proponho a regra moral, "você não deve roubar," então roubar tem que ser mal, e *não* roubar tem que ser bom. Isso não significa que "abster-se do roubo" é a única definição de excelência moral, é claro, já que um homem pode ser um assassino, mas não um ladrão. Nós podemos pensar disso como um "necessário porém não suficiente" requerimento para a virtude.
+“美德”的反面必须是“恶”，“善”的反面必须是“恶”。如果我提出道德法则，“你不应该偷窃”，那么偷窃必须是罪恶的，而不是偷窃必须是好的。这并不意味着“不偷盗”是美德，唯一的定义，当然，因为一个人可能是凶手，但不是贼。我们可以把它看作是美德的“必要但不充分”的要求。
 
-Toda ação moral preferível deve ser sua verdadeira natureza e ter uma ação oposta - porque se não tem, então não existe capacidade de escolha, nenhuma possibilidade de evitabilidade, e então nenhuma capacidade de virtude ou vício. Se eu proponho a regra moral: "você deve desafiar a gravidade," então claramente moralidade se torna impossível, imoralidade não pode ser evitada, e então a rega moral deve ser invalida.
+每一个道德上更可取的行动都必须有一个相反的行动——因为如果它没有，那么就没有选择的能力，没有避免的可能性，因此就没有美德和罪恶的能力。如果我提出一条道德法则：“你将反抗地心引力”，那么显然道德是不可能的，不道德是不能避免的，因此道德规则必须是无效的。
 
-Se eu proponho a regra moral: "você não pode ir para São Francisco," isso pode ser logicamente refraseado para: "você tem que ir para qualquer lugar menos São Francisco." Deste jeito a regra moral "você não deve roubar" pode ser igualmente proposta na forma positiva - "você deve respeitar direitos de propriedade." Uma vez que respeitar direitos de propriedade é uma virtude, violar propriedade tem que ser um vício.
+如果我提出道德准则：“你不去旧金山”，这在逻辑上可以改成：“你可以去任何地方，但不可去旧金山。这样，“不可偷盗”的道德规则可以是平等的以积极的形式提出 - “你应该尊重财产权”。” 由于尊重财产权是一种美德，侵犯财产权必须是一种恶习。
 
-### O Que Está Faltando
+### 这里缺少什么
 
-Visivelmente ausente da lista acima estão as virtudes tradicionais como coragem, honestidade, integridade e assim por diante - assim como seus opostos: covardia, falsidade e corrupção.
+在上述清单中明显缺乏的传统美德，如勇气，诚实，正直等，以及他们的对立：怯懦，谎言和腐败。
 
-Pode parecer que essas virtudes deveriam cair no campo de comportamentos esteticamente positivos, assim como ser pontual, mas eu de longe tenho muito respeito pelas virtudes tradicionais para botar elas na mesma categoria de etiquetas sociais. A razão pela qual eles não podem ser colocados na categoria de universalmente preferíveis é que, como mencionado acima, a estrutura do UPB só lida com *comportamentos*, não com atitudes, pensamentos, estados mentais ou emocionais. O método científico pode processar uma proposição lógica; mas não pode processar "raiva" ou "temeridade." Esses estados de mente não são sem importância, é claro - na verdade são essenciais - mas não podem ser parte de qualquer sistema objetivo para avaliar proposições éticas, uma vez que são essencialmente subjetivas - e, portanto, improvável - estado do ser.
+看起来，这些美德应该落入审美积极行为的领域，比如准时，但我对于传统美德的尊重将它们置于与社交细分类同的范畴。他们不能被归入普遍适用的范畴的原因是，正如我们上面提到的那样，UPB的框架只涉及行为，而不涉及态度，思想，精神状态或情绪。科学方法可以处理一个合乎逻辑的命题;它不能处理“愤怒”或“愚蠢”。当然，这些心理状态并不重要 - 事实上它们是必不可少的 - 但它们不能成为评估伦理命题的任何客观系统的一部分，因为它们本质上是主观的.
 
-Assim o UPB só pode lidar com ações objetivamente verificáveis assim como assassinato, assalto e assim por diante.
+因此，UPB只能处理客观核实的行为如谋杀、攻击等。
