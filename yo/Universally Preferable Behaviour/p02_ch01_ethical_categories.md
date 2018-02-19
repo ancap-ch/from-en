@@ -1,39 +1,39 @@
-## Awọn ìsọ̀rí ẹkọ ìwà
+## 道德类别
 
-Pẹlú ìlànà UPB láàyè rẹ, a lè yípadà sí ìdánwò nípa bí UPB ṣe má n fọwọsi tàbí kọ́ àwọn àlàyé ìwà tíó wọpọ laarin wa. Ti "àlàyé físíksì" wa ba le sàlàyé bí ọkunrin kan yíò ṣe mu bọọlu, a ti yege akọkọ- ti ọ pataki jùlọ - ninu idena, a sì ti ni ìgbésẹ àkọkọ tíó sí ní agbára láti bá ẹranko náà jà.
+随着UPB框架的实施，我们现在可以转而研究UPB如何验证或废止 我们最常见的道德主张。如果我们的“物理学理论”可以解释一个人怎样才能抓到棒球，那么我们至少已经通过了第一个也是最重要的障碍，并且对我们的第一次也是最深的打击。
 
-### Awọn Ìsọ̀rí Méje
+### 七个分类
 
-Gẹgẹbi a ti sọ lókè, àlàyé lórí ìhùwàsí ti àgbáyé nifẹ sí pin sí ìsòrí apapọ mẹta - dáadáa, àìdá ati èyí tó wà láàrin dáadáa ati àìdá. Lati ràn wá lọwọ níbi ṣiṣe ipinya ẹwà kúrò lára ìwà, ẹ je ki a bẹrẹ sí ní fẹ ojú awọn ìsọ̀rí yìí láti gba *èyíkéyìí* ìhùwàsí ti a lè ṣe àyẹ̀wò ìwà le lórí. Àwọn ìsọ̀rí méje náà jẹ́:
+如上所述，关于普遍优先行为的命题分为三大类 -正面的、负面的和中性的。为了帮助我们将美学与道德分开，让我们从拓宽这些范畴开始，包含任何可以进行道德分析的行为。这七个类别是：
 
-1. Ó jẹ́ nkan tó dá (o jẹ ààyò àgbáyé àti pé a lè fi tipátipá mu àmúlò rẹ, gẹgẹbi "má ṣe pa ènìyàn").
-2. Ó jẹ́ nkan to lẹ́wà rere (o jẹ ààyò àgbáyé ṣugbọn kò ṣe fi tipátipá ṣe àmúlò rẹ, gẹgẹbi "ìwà ọmọlúabí" ati "itẹle àsìkò").
-3. Ó jẹ́ nkan ti a ro wipe o dára (kìí ṣe ààyò àgbáyé tabi fi ipá mú, gẹgẹbi ifẹ́ràn jíjẹ wàrà dídì).
-4. Ó jẹ́ nkan ti a kò lè pè ní dáadáa tàbí àìdá, ti ko ní ẹkọ ìwà tàbí ẹwà rere kankan, gẹgẹbi ìlépa ba ọkọ akérò.
-5. Ó jẹ́ nkan ti a ro wipe o burú (àìní ìfẹ jíjẹ wàrà dídì).
-6. Ó jẹ́ nkan to lẹ́wà àìdá ("ìwà ìgbéraga" ati "mí ma pẹ́ dé").
-7. Ó jẹ́ aburú ( àgbáyé lòdì sí) ("ifipábanilopo").
+1. 这是好的（普遍优先和通过暴力可执行，如“不要谋杀”）。 
+2. 在美学上是积极的（普遍可取，但不能通过暴力来实施，如“礼貌”和“准时”）。
+3. 这是个人正面的（既不普遍也不可取，也不可强制执行，这是吃冰淇淋的好习惯）。
+4. 它是中性的，或没有伦理或美学内容，如公共汽车在行动中。
+5. 这是个人消极的（不喜欢吃冰淇淋）。
+6. 在美学上是负面的（“粗鲁”和“迟到”）。
+7. 它是邪恶的（被禁止）（“强奸”）。
 
-Lootọ, o yẹ ki a lè mú àwọn ìsọ̀rí yìí wálẹ̀ sí ìsọ̀rí méjì nìkan - èyí tó jẹ́ ààyò àgbáyé àti èyí tó lẹ́wà tó dára - pẹlu ṣiṣe àpèjúwe àlàyé ẹ̀kọ́ ìwà ti yio fi jẹ wípé ohun ti a kọ lágbayé má je idakeji ohun ti àgbáyé yàn láàyò, ti a o sí kọ ìfẹ́ inú àti awọn ìhùwàsí ti a kò lè ka kún dáadáa tàbí àìdá gẹgẹbi nkan ti ko pàtàkì níbi ìjíròrò ẹ̀kọ́ iwa.
+理想情况下，我们应该能够将这些问题简化为只有两个类别 - 普遍适用的和审美积极的 - 通过定义我们的道德命题，以便普遍禁止的内容仅仅是普遍适用的镜像，并且仅仅放弃个人偏好和中立行为与伦理讨论无关。
 
-Fún àpẹẹrẹ, Non-Aggression Principle (NAP) so wípé ipilẹṣẹ lilo agbára je ìwà àìdá - a jẹ́ wípé kíkọ̀ fún ipilẹṣẹ lilo agbára yíò jẹ́ ààyò àgbáyé, ti ipilẹṣẹ lilo agbára yíò jé nkan ti àgbáyé kọ̀. Ti nkan ti a kọ̀ ba jẹ idakeji nkan ti a fẹ́, ko sí ìwúlò àfikún ìsọ̀rí kánkan.
+例如，非侵略原则（Non-Aggression Principle - NAP）指出，开始使用武力是不道德的 – 因此不使用武力是普遍可取的，而使用武力则是普遍禁止的。如果被禁止的事情与简单的事情相反，那么实际上不需要额外的类别。
 
-Síwájú sí, gẹgẹbi ọlọgbọn ìwà, a gbọdọ mu ni pataki awọn ìdánwò wà lórí ọgbọn ẹkọ ìwà pẹlu ifojusi awọn irúfin lọnà aitọ. Ó dájú, awọn ìhùwàsí búburú gbọdọ jẹ awọn ìwà fífi tipatipa lo ààyò àìní ootọ lori awọn èèyàn yòókù. Ti ìhùwàsí gẹgẹbi "olè jíjà" tàbí "ipaniyan" ba jẹ àpèjúwe UPB, àyẹwò lori irú àpèjúwe náà gbọdọ jẹ ààyò wá to tobí jù.
+此外，作为道德哲学家，我们必须把我们的理性伦理审查聚焦于最严重的违法行为。显然，最不道德的行为必须是对他人的不公正偏好的暴力实施。如果行动如“盗窃”或“谋杀”的定义是这样定义的UPB，考试一定是我们的最高优先权。
 
-A je wipe a má kọjú igbiyanju wa sí àwọn ìhùwàsí ti àgbáyé nifẹ sí ti a sì lè kan nípa ni ṣiṣe.
+因此，我们将主要集中在普遍可取和可执行的行动上。
 
-### Ìwà rere àti Idakeji rẹ
+### 德性及其对立
 
-Idakeji "ìwà rere" gbudọ jẹ "ìwà àìdá" - Idakeji "dáadáa" gbudọ jẹ "aburú." Ti mo ba sàlàyé òfin ìwà, "iwọ kò gbudọ jalè," a je wipe olè jija je aburú, ati *kíkọ fun* olè jija yíò jé dáadáa. Èyí kò túmọ sí wípé "yiyara fún olè jija" ni àlàyé ilọsiwaju ìwà dáadáa, dájúdájú, ọkunrin kan le jẹ apànìyàn, sugbon kó má jé olè. A lè rò gẹgẹbi "pàtàkì ṣugbọn ti ko to" ni àmúlò fún ìwà rere.
+“美德”的反面必须是“恶”，“善”的反面必须是“恶”。如果我提出道德法则，“你不应该偷窃”，那么偷窃必须是罪恶的，而不是偷窃必须是好的。这并不意味着“不偷盗”是美德，唯一的定义，当然，因为一个人可能是凶手，但不是贼。我们可以把它看作是美德的“必要但不充分”的要求。
 
-Ọkọọkan ninu ìhùwàsí dáadáa tí a mú láàyò gbọdọ ni ìhùwàsí idakeji - nítorípé ti ko ba ni, a je wípé kò sí ìkápá lati yàn ààyò, kò sí ànfààní lati yàgò, nitorinà kò si ìkápá fún ìwà dáadáa ati ìwà àìdá. Ti mo ba mu àlàyé òfin ìwà: "iwọ gbọdọ kọ fún ìwálẹ̀," yíò dájú pé ìwà dáadáa kò ní ṣeéṣe, ìwà àìdá ko ṣe yẹra fún, nitorinà òfin ìwà na gbudọ jẹ kíkọ.
+每一个道德上更可取的行动都必须有一个相反的行动——因为如果它没有，那么就没有选择的能力，没有避免的可能性，因此就没有美德和罪恶的能力。如果我提出一条道德法则：“你将反抗地心引力”，那么显然道德是不可能的，不道德是不能避免的，因此道德规则必须是无效的。
 
-Ti mo ba gbèrò òfin ìwà pe: "iwọ kò gbọdọ lọ sí San Francisco," a lè fi ọgbọn gbe tunṣe sí wípé: "iwọ le lọ ibikibi yàtò sí San Francisco." Ni ọnà yìí, òfin ìwà "iwọ kò gbudọ jalè" yíò jé ni àlàyé déédé ni ti dáadáa - "iwọ gbudọ bọwọ fún ẹtọ dukia." Nígbàtí ibọwọ fún ẹtọ dukia je ìwà rere, rírú òfin ẹtọ dukia gbọdọ jẹ ìwà búburú.
+如果我提出道德准则：“你不去旧金山”，这在逻辑上可以改成：“你可以去任何地方，但不可去旧金山。这样，“不可偷盗”的道德规则可以是平等的以积极的形式提出 - “你应该尊重财产权”。” 由于尊重财产权是一种美德，侵犯财产权必须是一种恶习。
 
-### Ki lo sọnù
+### 这里缺少什么
 
-Ni àìsí to dájú nínú àwọn nkan ti ati so sókè yìí ni àwon ìwà rere ìbílẹ̀ gẹgẹbi ìgboyà, iṣootọ, ìwà òtítọ àti bẹ bẹ - pẹlú àwọn idakeji wọn: ojo, irọ̀ pípa ati ìwà ìbàjẹ́.
+在上述清单中明显缺乏的传统美德，如勇气，诚实，正直等，以及他们的对立：怯懦，谎言和腐败。
 
-Ó lè dàbí wípé àwon ìwà rere yìí bo sínú àgbègbè ìhùwàsí to ni ẹwà rere, gẹgẹbi itẹle àsìkò, ṣugbọn èmi gẹ́gẹ́ bí ẹnìkán mo ní ibọwọ púpọ fún àwọn ìwà rere ìbílẹ̀ lati fí wọn sì ìsọ̀rí kànna pẹlu nkán to da láwùjọ. Ìdí tí a kò le fi gbe wọn sì ìsọ̀rí ti ààyò àgbáyé ni wípé, gẹgẹbi a ti ṣàlàyé lókè, ìlànà UPB má n ṣiṣẹ́ lori *ìhùwàsí*, kìí ṣe ìwà, èrò, ìpìlẹ ọkàn tabi ẹdun ọkàn. Ọnà ìmọ sáyẹnsì lè ṣètò àlàyé to ni ọgbọn nínú; kò lé ṣètò "ìbínú" tàbí "aṣiwèrè." Awọn ìpìlẹ ọkàn yìí kò ṣe pàtàkì, leyi to dájú - ní òtítọ́, wọn wúlò - ṣugbọn wọn kò le kopa ninu èyíkéyìí ètò fún àgbéyẹ̀wò àlàyé ẹ̀kọ́ ìwà, nígbàtí wọn jẹ́ àbínibí pàtàkì - nitorinà ko ni ijẹrisi - ni ìpìlẹ bíbẹ.
+看起来，这些美德应该落入审美积极行为的领域，比如准时，但我对于传统美德的尊重将它们置于与社交细分类同的范畴。他们不能被归入普遍适用的范畴的原因是，正如我们上面提到的那样，UPB的框架只涉及行为，而不涉及态度，思想，精神状态或情绪。科学方法可以处理一个合乎逻辑的命题;它不能处理“愤怒”或“愚蠢”。当然，这些心理状态并不重要 - 事实上它们是必不可少的 - 但它们不能成为评估伦理命题的任何客观系统的一部分，因为它们本质上是主观的.
 
-A je wipe UPB le ṣiṣẹ lórí ìhùwàsí ti a lè jẹri sí gẹgẹbi ipaniyan, ìjà àti bẹbẹ lọ.
+因此，UPB只能处理客观核实的行为如谋杀、攻击等。
