@@ -48,7 +48,7 @@ Ang etikal na mga argumento, kung ako ay tinanong na kung gusto ko kumuha ng man
 4. Kaya naman ang kaligtasan ng lahat ay lalong kanais-nais sa mga karapatan ng ari-arian.
 5. Kaya ano man ang maganda para sa indibidwal na tunay na moral ng pamantayan.
 
-This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
+Ito ang ginamit bilang batayan ng etikal ng teyorya at pamamaraan, galing sa Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
 
 This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
 
