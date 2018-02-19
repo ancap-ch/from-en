@@ -12,11 +12,11 @@ Solohistical, ito ay:
 
 Alam nating lahat na may roong kagustuhang paksa, katulad pag gusto sa sorbetes o kaya lang, na kung saan ay hindi maituturing na pagbubuklod ng mga tao. Sa kabilang banda, mayroong ibang mga kagustuhan, tulad ng paggagahasa at pagpatay, na malinaw *na* may kakulangan sa iba. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+Ung mga kagustuhan ay maaring maikonsidera na maituturing na pagbubuklod ng iba matatawag na "maituturing na pagbubuklod" o "tuntunin ng moral."
 
-How else can we know that the concept of “moral rules” is valid?
+Ang ibang paraan para malaman natin na ang konsepto ng "tuntunin ng moral" ay wasto?
 
-We can examine the question biologically as well as syllogistically.
+Maari nating suriin ang tanong sa bayolohikal pati narin sa Solohistical.
 
 For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
 
