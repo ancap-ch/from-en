@@ -1,55 +1,55 @@
-## UPB: Ethics Or Aesthetics?
+## Ethics or Aesthetics
 
-In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. A rapist, on the other hand, is violently inflicting his preferences upon his victim.
+D way e be, we go use wetin dem dey call “aesthetic,” wey mean “beauty”  take refer to wetin dem nor go fit force us to prefer - whether na for everywhere for d world or na personal matter – while good way of behaviour refer to wetin dem fit force us to prefer. Dem prefer am  everywhere for d world to use science method take make anything wey be physical clear and true, but we nor fit use force take make d method wey science take  cause wahala for those wey nor wan use am, since e nor dey bad if if dem nor use d method wey science dey use. For real life dem fit avoid those bad actions. If person wey be physicist kon stop to dey use science way, and im kon go dey use those cards wey dem dey call “tarot card” wey dem dey use take dey interprete person life, im nor dey bad if e tell me as long as say na im own choice, and I fit even avoid am sef. Person wey dey rape person go dey use force to get wetin e want and e dey force wetin im prefer put for  person wey im  wan rape. 
 
-Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
+Although say we first put our mind for UPB about d side wey beauty be, we fit still see UPB as one umbrella wey get many other area wey dey very important. Dem be:
 
-- The scientific method
+- D method wey science dey follow
 - Logic
 - Empiricism
 - Debating
 - Language
 - Ethics
 
-Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+Good way of behaviour na part of UPB wey dey talk about person bad behaviour wey other people dey suffer from, or when dem use gra gra body. Any talk wey prove am well or deny say force nor go dey na better behaviour talk, and na wetin dem require for better reasoning and experience wey dem fit prove.
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+Make we look three actions wey go help take get d better difference between d way wey people dey behave and d other one wey dem dey call beauty. The first one wey we go look na wetin dem dey call irrationality, wey mean wetin nor dey reasonable, d second one na lying and d third one na murder. [^9]
 
-### Irrationality
+### No reason or understanding
 
-Let’s say that you and I are having a debate about the existence of God. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Make we by talk say me and you dey argue about whether God dey exist. After I talk my own argument come out, you kon dey clap your hands for your ears, dey sing out say na God dey tell you say im dey exist, and so, all my arguments nor mean anything. As e clear, wetin you take respond to d thing wey I talk nor be wetin dem fit reason. As e kon be say I dey vex for d way you take behave, I fit look am say i fit start to just do anyhow by just to carry my gun come out and shoot you, although e go dey hard sha. I believe say  dem prefer am  everywhere for d world say make dem use better reasoning and evidence than to depend on voices wey person dey hear for im head, but dis one wey dem prefer for d world nor dey reasonable to force person do for real life sense if dem use force or gra gra style.
 
-### Lying
+### Lie lie
 
-Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
+Make we by talk say me and you put rules for ground say make we use am follow our argument, and we agree say we go judge d question if God dey really exist based on d way we dey reason and evidence. If as d argument dey go, you kon fall back to where where your faith nor kon clear, and you reject all my arguments even though wetin I talk dey reasonable and I give better evidence take support am, you nor keep to your word be dat. To put for another way, you dey talk lie lie when you talk say na sense and evidence we go take answer d question.
 
-The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+D difference between dis two things, one wey dem dey call something wey dem nor fit reason and d other one wey dem dey call lying na d difference between arrangement wey get contract and arrangement wey nor get contract. If I give you one hundred dollars and I waka comot, I nor fit just come back to you again for one year say you dey owe me one hundred dollars, because say na loan. If for another sense you kon agree say you go pay me d money back for one year, and you kon fail to to do so, dat one na different matter.
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+Make we use by use “lie lie” as example, although say you don already fuck up for your word, and you don waste my time, e nor go make sense if I just carry my gun come out and shoot you.
 
-A reasonable moral theory should be able to explain why this is the case.
+Na something wey make sense go fit explain why d matter be like dis.
 
 ### Murder
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+If you carry knife take rush attack me, na small people go argue about right take defend myself. If na to shoot you go be d only way wey I fit take defend save myself, dem go look as something wey dey regrettable but important.
 
-### Requirements For Ethics
+### Things wey we need for better behaviour
 
-Certain preconditions must exist, or be accepted, in order for ethical judgements or theories to have any validity or applicability. Clearly, choice and personal responsibility must both be accepted as axioms. If a rock comes bouncing down a hill and crashes into your car, we do not hold the rock morally responsible, since it has no consciousness, cannot choose, and therefore cannot possess personal responsibility. If the rock dislodged simply as a result of time and geology, then no one is responsible for the resulting harm to your car. If, however, you saw me push the rock out of its position, you would not blame the rock, but rather me. To add a further complication, if it turns out that I dislodged the rock because another man forced me to at gunpoint, you would be far more likely to blame the gun-toting initiator of the situation rather than me.
+Some kind conditions  go must exist, or accept am sef, so dat judgements wey make sense and sure pass go fit hold true and dem go apply am. As e clear, person choice and im own responsibility na wetin dem must accept without e nor give any proof. If one rock dey fall down from hill and e dey come like wetin dey bounce, and e kon crash for your car, we nor go go hold d rock responsible, since d rock nor be wetin get sense, and e nor go fit choose, and e nor go fit do wetin person dey do. If d rock kon use force take comot for road a e dey come due to d way d ground be, then, no one go dey responsible for d damage wey e go cause d car. If as e kon be say you see me push d rock comot for where e dey, you nor go blame d rock, but you go blame me. To make am worse, if e kon be say  I use force push d rock based on say na another man use gun take force me, you go blame d man wey cause am and not me.
 
-As we have discussed above, entering into any debate requires an acceptance of the realities of choice, values and personal responsibility. However, these factors are also present in the choice of the colour of paint for a room, yet we would scarcely say that selecting a hue is a *moral* choice. Thus there must be other criteria which must be present in order for a choice or proposition to be moral.
+As we don yan before, to enter any argument go need our choice to dey acceptable, even our own value and our personal responsibility.  Anyhow as e be, all dis factors dey present for d kind choice wey we get for d colour of paint for room, yet we dey scarcely dey talk say to select hue na correct choice wey good. So, there go be other things wey go must dey present so dat choice or anything wey resemble am go bam and correct.
 
-We all have preferences – from the merely personal (“I like ice cream”) to the socially preferable (“It is good to be on time”) to universal morality (“Thou shalt not murder”).
+All of us get things wey we prefer – from small personal thing (like “I like ice cream”) to something wey dey socially preferable( like “e dey good to dey on time”) and even to something wey correct and dem dey accept for d world (like “make no body kill person.”)
 
-There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
+Na small point dey to write book about things wey person prefer – and we go fit turn to Ann Landers to discuss about behaviour wey dey prefer for our society – for  here, we go kon focus on how we go fit make this correct and good behaviour dey possible for all over d world.
 
 ### Choice
 
-If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+If I accept say I go come your dinner party and I kon come, and I see am say wetin dem dey talk dey offensive, I fit get up and leave – and I go also fit choose say I nor go accept another invitation from you. D strong body  wey I fit take escape or avoid things na important matter wey separate “aesthestics,” wey dem dey call beauty from  “ethics” wey dem dey call good correct behaviour.
 
-If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
+If, anyhow as e kon be, when I decide to comot for your dinner party, you kon bounce up gidigba kon use chain take chain me join chair, as e clear, I nor longer get free choice to comot. Na from here your stubborn head kon dey grow stronger so tey e kon cross d line from beauty to good correct behaviour.
 
-If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I have certainly done her wrong, but the wrong that I have done by cheating would be very different from the wrong I would do if I lock her in the basement to prevent her from leaving. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does.
+If after I talk say na only one person I go ever marry, and I kon go cheat on my wife, and she kon talk say she wan leave me, na bad thing I do to her, but d wrong thing wey I do by cheating on her go dey different from d wrong wey I go do if I lock her for underground room so dat I go prevent her make she nor fit comot. We nor go reason d wife who shoot her husband for cheating say wetin she do na correct thing wey people go like, but we go reason the regret wey she go pass through if she use force and gra gra body take run from d place wey dem lock her put. For d first case, d wife get d free choice and d mind  to leave her husband, and kasala go be wetin nor bam wey dem go use talk d matter; for d second case,  her choice to leave her husband don clean comot through d imprisonment. Cheating nor dey destroy d man or woman mind to choose; but na when im lock her go cause am.
 
 ### Avoidance
 
