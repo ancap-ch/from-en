@@ -20,11 +20,11 @@ Ang tunay na pagkilos ng pakikipag-talo ay nangangailangan ng pagtanggap ng pag-
 
 Ipaalam sa amin ngayon sa isang serye ng mga positibong patunay para sa UPB.
 
-### UPB And Validity
+### UPB at Bisa
 
-One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
+Ang isa sa mga sentral na hamon na nahaharap sa mga modernong pilosopo ay ang pangangailangan na patunayan na ang mga alituntunin sa moral ay parehong posible at unibersal. Hanggang sa ang mga patakaran ng moral ay maaring mapasailalim sa parehong hirap at lohika tulad ng anumang iba pang mga proposisyon, magpakailanman ay maiiwasan tayo ng subyektibismo, pampulitikang pagkiling at ang praktiko “argumento mula sa epekto.”
 
-The closest historical analogy to our present situation occurred in the fifteenth and sixteenth centuries, during the rise of the scientific method. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
+Ang pinakamalapit na pagkakatulad sa kasaysayan sa ating kasalukuyang sitwasyon ay nangyari sa ikalabinlima at labing-anim na siglo, sa panahon ng pagtaas ng siyentipikong pamamaraan. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
 
 In order to attack false moralities, we must start from the beginning, just as the first scientists did. Francis Bacon did not argue that the scientific method was more “efficient” than prayer, Bible texts or starvation-induced visions. He simply said that if we want to understand nature, we must observe nature and theorise logically – and that there is *no other* route to knowledge.
 
