@@ -62,11 +62,11 @@ Pangunahin, ang mga batas ng lohika ay manggagaling sa mga asal ng bagay at ener
 
 Perseptwal na katotohanan ay palagian at obhektibo - at ito ay galing sa palagian at obhektibo na kung saan nakuha natin ang mga batas ng lohika. Ang ating mga pahayag tungkol sa katotohanan maaari lamang maging tumpak *na marepresenta*ang katotohanan tulad ng isang direktang resulta ng palagian at obhektibo.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+Ang katunayan na ang tagak ay hindi nagkataon na magiging anvil - o sa kabaligtaran - ay ang ugat ng ating kakayanan na tumpak na humusga ng pahayag: "iyan ay isang tagak." Kung ang tagak ay kusang loob at patuloy na nagbago ang kanilang likas, nahindi nakaya na gumawa ng totoo o hindi totoo na mga pahayag tungkol sa kanila - o sa anuman para sa bagay.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Ito ay ugat ng isang pangunahing pamantayan ng siyentipikong paraan - magpaparami. Kung ako ay gagawa ng isang makamundong pahayag tungkol sa katangian ng grabidad, sa gayon ay dapat mong madamihin na ang pahayag sa iyong sariling kapaligiran. Kung ang katotohanan *ay hindi* pare-pareho, sa gayon ang pagpaparami ng kopya ay maaari magiging hindi makatwiran na pamantayan para sa pagtatatag ng katotohanan.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+Kung ikaw ay nagtuturo ng matematika, ikaw ay maaaring malamang na hindi tanggapin ang isang maling sagot mula sa isang mag-aaral, kahit na ang mag-aaral ay naghayag na ang kanyang sagot ay "tama" habang sinusulat niya pababa, ngunit kahit papaano ay nagbago sa maikling panahon.
 
 Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
 
