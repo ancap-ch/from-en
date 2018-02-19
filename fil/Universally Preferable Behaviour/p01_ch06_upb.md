@@ -23,7 +23,7 @@ Sabihin nating mayroon kaming isang debate tungkol sa pagkakaroon ng diyos. Mata
 
 Sabihin natin na ikaw at ako ay nagtatakda ng mga panuntunan para sa isang debate, at pareho kaming sumasang-ayon sa paghatol sa tanong ng pag-iral ng Diyos ayon sa dahilan at katibayan. Kung, habang nagpapatuloy ang debate, bumabalik ka sa isang posisyon ng bulag na pananampalatay, at tanggihan ang aking mga argumento *sa kabila ng* kanilang katwiran at katibayan, hindi mo pinananatili ang iyong salita. Sa ibang salita, ikaw ay nagsinungaling nang sinabi mo na ang tanong ay mapagpasyahan ng dahilan at katibayan.
 
-Ang pagkakaiba sa pagitan ng dalawang sitwasyong ito (hindi makatwiran laban sa pagsisinungaling) ay ang pagkakaiba sa pagitan ng kontrakwal at hindi kontrakwal na kaayusan. Kung ibigay ko sa iyo ang isang daang dolyar at pagkatapos ay lumakad palayo, hindi ako makatarungan lumapit sa iyo sa isang tao at sabihin na ikaw ngayon ay uutang sa akin ng isang dolyar, dahil ito ay isang pautang. Kung, sa kabilang banda, sumasang-ayon ka na ibalik ang pera ko sa isang taon, at pagkatapos ay mabibigo na gawin ito, iyon ay medyo ibang sitwasyon.
+Ang pagkakaiba sa pagitan ng dalawang sitwasyong ito (hindi makatwiran laban sa pagsisinungaling) ay ang pagkakaiba sa pagitan ng kontrakwal at hindi kontrakwal na kaayusan. Kung ibigay ko sa iyo ang isang daang dolyar at pagkatapos ay lumakad palayo, hindi ako makatarungan lumapit sa iyo sa isang taon at sabihin na ikaw ngayon ay uutang sa akin ng isang dolyar, dahil ito ay isang pautang. Kung, sa kabilang banda, sumasang-ayon ka na ibalik ang pera ko sa isang taon, at pagkatapos ay mabibigo na gawin ito, iyon ay medyo ibang sitwasyon.
 
 Sa halimbawa ng “pagsisinungaling,” bagaman maliwanag na na-break mo ang iyong salita, at nasayang ang aking oras, parang hindi ito moral o makatuwiran para sa akin na bunutin ang baril at barilin ka.
 
@@ -31,7 +31,7 @@ Ang makatwirang moral na teorya ay dapat na maipaliwanag kung bakit ito ang kaso
 
 ### Pagpatay
 
-Kung nagmamadali ka sa akin ng isang kutsilyo na itinaas, ang ilang mga tao ay magkikipagtalo sa aking karapatang ipagtanggol ang aking sarili. Kung ang pagbaril sa iyo ay ang tanging paraan na makatwiran kong masiguro ang aking kaligtasan, sa pangkalahatan ay ituturing na isang kahina-hinalang pangangailangan.
+Kung nagmamadali ka sa akin na nakataas ang kutsilyo, ilang mga tao ang makikipagtalo sa aking karapatang ipagtanggol ang sarili ko. Kung ang pagbaril sa iyo ay ang tanging paraan na makatwiran kong masiguro ang aking kaligtasan, sa pangkalahatan ay ituturing na isang kahina-hinalang pangangailangan.
 
 ### Mga Kinakailangan Para sa Etika
 
