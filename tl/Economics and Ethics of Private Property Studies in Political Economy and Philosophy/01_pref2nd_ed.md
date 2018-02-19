@@ -1,4 +1,4 @@
-## Paunang salita sa Ikalawang Edisyon
+## Paunang Salita sa Ikalawang Edisyon
 
 Ang unang edisyon ng *Ang Ekonomika at Etika ng Pribadong Ari-arian*, nailathala noong ika 1993, ay nailabas sa imprinta para sa ilang taon. Para sa ilang oras at mula sa maraming panig ako ay nahimok na maghanda nang isang bagong edisyon, at si Llewellyn Rockwell ay mabuting Inalok ang Ludwig von Mises Institute para maglingkod tulad ng tagapaglathala nito.
 
