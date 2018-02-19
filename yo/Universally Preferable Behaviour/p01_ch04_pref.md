@@ -1,28 +1,29 @@
-## Preferences
+## Iferanju
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Nibayi, a ti ni oye ijiyan ti on bori ara re, a lelosi ibeere iferanju.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Iferanju wa laarin oye Kankan, o si man tumo iyi otito ninu imuwa fun ifiyesi. Ona sciencii, ni apeere, ni ale tunmo pelu iferanju fun lilo ede ati imule pelu empirically fun sciecii, ibi naani ti o ba fe mo otito ti o mule nipa iwa mata ati energy, onaa sciencii loye kalo.
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+Ni ona yi,”mimu” o tunmo si “odarajulo” sugbon o tunmo si “nilo”. Ti o ba fe gbelaye, ose gbalagbaye wipe o gbodo je owo to kun pelu arseniki. Ti o ba fe mo otito ti o mule nipa iri, osegbalagbaye wipe awon oye re gbodo maaolodeede, o si gbodo ni imule empirically. “gbigbalagbaye” nigbana yipada si “imulo ti o ni oye” sugbon a maa gba oro “iferanu” sile lati mo iyato laarin oun eniyan ti a le she lai ni ati oun ayika ti a o le shee lai ni bi giraviti.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+Bakannaa, ti oye as aba le ni imule, nigbana won gbodo ma lo deedee ninu ati nita. Ni oro miran, oye asa ti o ba tako arare o le ni imule sibeenaa, oye asa ti o ba tako ori ti a ni lona empirically, ti o si sunmo iferanju agbalaye kole ni imule.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Nigbana, ninu asa,boseri ninu sciencii,isiro,engineerin ati gbogbi ona toku ti o fi oye ati iri we ara won, oye ti o mule gbodo ma lo deedee ni ona logiki, osi gbodo ni imule ni ona empiricali.
 
-### Preferences And Existence
+### Iferanju ati wiwa
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+Ti mo basope mo nife “icy creamu” oro kan lotobi ninu oro naa. Ni kedere “emi” wa,nigba ti mon soro nipa iferan mi. beena, “ icy creamu” naa si wa ni ile aye. Sibesibe, oro “nife” ni isoro.
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Iferanju o wa ninu iri. Ti o ba n lero pupo, o le yan lati tele mi ki o si she akosile igba ti mob a je icy cremu, ti o shi sheee oye  afi ihanife mi fun. Oye yi lewa, sugbom,ni oro pe moje masochisti, mo si korira icy creamu pupo, mo si nife lati ma je ko kan enu mi, mo sile fi ru o loju lati ma sop emo nife re.
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+A le ri eri fun iferanju, a o leri iferanju ninu iri ni ile aye. Iferanju wa nipa ibasepo ero ati mata, gegebi giraviti se wa bi ibasepo iwuwo awon ara.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Gbigbe si egbe kan, ibere itusile ati ilero ti an koju, o ni oyelati sope ounkoun ti eniyan ba n shee ni isin yii je oun ti o fe lati shee ni. Ti mob a dide lo she ishe, mo nife lati shee ni, laishi she nkan miran. Ti mi o ba nife ishe mi, mo nif re ju ki n ma ni owo lo.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+Niwon igba ti awa eniyan bale she ishee pupo, ounkohun ti eniyan lema shee je oun ti o tayo ni oungbogbo ti ole she. Mo yan lati koi we yi ju ki n ma ko biwan shee n jo tango lo.
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+Ti a ba lo oro yii fun ijiyan lori asaama wa pelu awonesi ti an fe.
+
 
 ### Preferences And Arguments
 
