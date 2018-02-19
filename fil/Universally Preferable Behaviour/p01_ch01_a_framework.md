@@ -40,15 +40,15 @@ Ngayon, ang *katotohanan* ng isang pahayag ay masusukat na kaugnay sa kanayng pa
 
 Nang isantabi ang mga hamon ng wika sa mga sandaling iyon, kung tumuro ay sa isang tagak at sabihin na "iyan ay isang anvil," ako ay malinaw na nagkakamali, dahil ang mga anvil ay tulagay, at hindi makakalipad. Ang tunay na kahalagahan ng aking pahayag ay kaugnay na nasukat sa obhektibong katibayan ng katotohanan. Dahil ang mga tagak ay hindi sa katunayan isang anvil, ang pahayg ay hindi totoo.
 
-Likas, ang ekwasyon sa pagitan ng katotohanan at tunay ay nangangailangan na ang wika at ang ating pandamdam ay maituturing na relatibong obhektibo. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+Likas, ang ekwasyon sa pagitan ng katotohanan at tunay ay nangangailangan na ang wika at ang ating pandamdam ay maituturing na relatibong obhektibo. Maraming mabuting dahilan upang maniwala na ang wika at makahulugang katibayan ay sa katunayan na obhektibo; maaari tayong mapunta sa isang komplikadong talakayan tungkol dito, ngnit hindi nito mapagkakasya na sabihin na dahil ginagamit mo ang iyong mga mata para magbasa ng isang sulat sa libro sa wikang pantao, maaari tayong pumayag na ang iyong mga mata, at ang wika na binabahagi natin, ay sapat na obhektibo para sa tumpak na proseso na aking sinusulat. Kung hindi sila, wala tayong dapat pag-usapan, at hindi mo naiintindihan ang anumang sinulat ko, kaya ang pangungusap na ito ay magiging pantay na walang kabuluhan, at baka magamit sa "Wingding".
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+Ipagpalagay natin na maaari mong sabihin ang pagkakaiba sa pagitan ng nasa itaas na dalawang sulat, makatwiran na pagpatuloy tao.
 
-#### Accuracy And Consistency
+#### Katumpakan at Palagian
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+Ito ay imposible para sa akin na tumpak na pinturahan ang isang ulap, dahil sa oras na pipintahan ito, ang ulap ay patuloy na magbabago. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
 
 If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
 
