@@ -1,6 +1,6 @@
 ## Ang balangkas para sa Etika
 
-Ang etikal na mungkahi ay naiiba sa ibang uri ng mga pahayag na kaalaman. Kung sasabihin ko na, "gusto ko ang jazz," ito ay maaaring maging tunay o huwad na pahayag, ngunit ito ay hindi karaniwang maituturing na pagbubuklod sa inyo sa anumang paraan. Ang ang kagustuhan para sa jazz ay isa lamang pahayag ng pansariling pagmamahal; base sa aking pahayag, ito ay hindi mo ito tungkulin na magustuhan o hindi magustuhan ang jazz.
+Ang etikal na mungkahi ay naiiba sa ibang uri ng mga pahayag na kaalaman. Kung sasabihin ko na, "gusto ko ang jazz," ito ay maaaring maging tunay o huwad na pahayag, ngunit ito ay hindi karaniwang maituturing na pagbubuklod sa inyo sa anumang paraan. Ang kagustuhan para sa jazz ay isa lamang pahayag ng pansariling pagmamahal; base sa aking pahayag, ito ay hindi mo ito tungkulin na magustuhan o hindi magustuhan ang jazz.
 
 Katulad, kung sasabihin ko na "gusto ko ang mga gulay," ito ay isa rin lamang na pahayag ng pansariling kagustuhan. Gayunpaman, kung sasabihin ko na "ang mga gulay ay masustansiyang pagkain," sa gayon ako ay lumipat mula sa isang pahayag ng pansariling kagustuhan sa isang pahayag ng obhektibong katotohanan. Ito ang pagkakaiba ng "gusto ko ng sorbetes," at "ang sorbetes ay naglalaman ng gatas."
 
@@ -14,17 +14,17 @@ Ang siyentipikong paraan, ito ay makatwiran, at ang matematikang batas ay mga ha
 
 ### Ang obhektibong katotohanan
 
-Ang sentral na pagsubok sa pagintindi ng likas ng katotohanan ay isang pagkatanto na ang "katotohanan" ay hindi umiiral sa munod sa katulad na paraan ng pag-iral ng mga bato o puno.
+Ang sentral na pagsubok sa pagintindi ng likas ng katotohanan ay isang pagkatanto na ang "katotohanan" ay hindi umiiral sa mundo katulad sa paraan ng pag-iral ng mga bato o puno.
 
 Ang konsepto ng "katotohanan" ay nangangahulugang relatibong termino - bagama't hindi nangangahulugan ng isang subhektibo o hindi makatwiran na termino. Ang konsepto ng "kalusugan" ay isa ring relatibong termino - hinahambing natin ang "kalusugan" sa pagkakasakit, at gayundin sa relatibong pamantayan ng kalusugan. Ano ang maituturing na "mabuting kalusugan" para sa siyamnapung taong gulang ay hindi matuturing na mabuting kalusugan para sa isang dalawampung taong gulang. Ang kahulugan ng isang mahabang buhay ay napaka hirap ngayon kaysa noong limang daang ton na nakararaan.
 
-Hindi ito nangangahulugan, gayunpaman, na ang konsepto ng "kalusugan" ay ganap na relatibo at subhektibo. Ang isang sampung taong gulang na mamatay sa lukemya ay masama sa katawan sa anumang kahulugan - tulad ng isang dalawampung taong gulang na mananakbo ay malusog sa kahit anumang kahulugan. Sa kasalukuyan, ang tao na namumuhay sa siyamnapu ay may estatistikong mayroong mahabang buhay, bagama't hindi magbabago kung ang medikal na teknolohiya ay biglaang papayagan tayo na mabuhay nang dalawang daan.
+Hindi ito nangangahulugan, gayunpaman, na ang konsepto ng "kalusugan" ay ganap na relatibo at subhektibo. Ang isang sampung taong gulang na mamamatay sa lukemya ay masama sa katawan sa anumang kahulugan - tulad ng isang dalawampung taong gulang na mananakbo ay malusog sa kahit anumang kahulugan. Sa kasalukuyan, ang tao na namumuhay sa siyamnapu ay may estatistikong mayroong mahabang buhay, bagama't hindi magbabago kung ang medikal na teknolohiya ay biglaang papayagan tayo na mabuhay nang dalawang daan.
 
 Habang lumalaki ang ating kahulugan ng "kalusugan", hindi nito naiwawasto ang naunang mga kahulugan, ngunit sa halip ay lumalawak ito. Kung ang medikal na teknolohiya ay sumusulong upang payagan ang siyamnapung taong gulang na manalo sa isang takbuhan, sa gayon ang kahulugan natin ng kung ano ang kalusugan para sa mga matatanda ay mababago - ngunit hindi nangangahulugan na ang dalawampung taong mananakbo ay biglang magiging hindi malusog. Ang pag-aaral ng alhebra ay hindi nagpapawalang-bisa ng aritmetika.
 
 Ang katotohanan ay mayroon ding kaugnayan sa pangangailangan. Ang pisika na Newtonian ay napalitan ng pisika na Einsteinian, na kung saan ay mas tumpak na napatunayan sa matinding sitwasyon tulad ng pambihirang pagtaas ng grabidad o bilis. Gayunman, ninanais ng mga marino na makalkula ang tamang landas sa karagatan hanapin na ang pisika na Newtonian ay mas tumpak. Hindi mo gugustuhin na dalhin ang isang sasakyang pangkalawakan sa Alpha Centauri gamit ang pisika ng Newtonian, ngunit ito ay lubos na maayos para sa pagkuha ng sasakyan mula sa Lishbon papuntang New York. Ang pagtratarabaho ay napapaloob sa pag-aaral at pagpapatupad ng pisika na Einsteinian ay sa gayon ay magiging masama sa isang marino.
 
-Bilang isangresulta, ang pangungusap na "ang pisika na Newtonian ay mas hindi tumpak kaysa sa pisika naEinsteinian, ngunit ang pisika na Newtonian ay ang pinaka mahusay na paraan upang ikalkula ang langdas ng isang sasakyan" ay maituturing na wastong panukala. Ang pisika na Newtonian ay gayong pareho *hindi gaanong tumpak*, at *mas angkop*.
+Bilang isang resulta, ang pangungusap na "ang pisika na Newtonian ay mas hindi tumpak kaysa sa pisika na Einsteinian, ngunit ang pisika na Newtonian ay ang pinaka mahusay na paraan upang ikalkula ang langdas ng isang sasakyan" ay maituturing na wastong panukala. Ang pisika na Newtonian ay gayong pareho *hindi gaanong tumpak*, at *mas angkop*.
 
 Kung gugustuhin nating uminom ng pinaka posibleng dalisay na tubig, gugustuhin din antin na magbayad ng libo-libong dolyar para sa isang bote. Maliban na lang kung tayo ay labis na mayaman at lubos na walang kabuluhan, hindi tayo magbabayad ng ganoon upang maibsan ang ating uhaw. Tunay nga na ang dalisay na tubig ay mabuti sa atin, ngunit ang presyo ay nangangailangan ng bungad ng mapalitan pabalik. Sa gayon, ang mas dalisay ay mas magada" nagbibigay daan sa "mas dalisay ay mas mapanganib."
 
@@ -32,7 +32,7 @@ Muli, ito ay hindi nangangahulugan na ang kalinisan ng tubig lubusang subhektibo
 
 #### Ang katotohanan at ang obhektibong katotohanan
 
-Ang konsepto ng*katotohanan* ay nangangailangang mayroong ng konsepto ng *katumpakan*. Kung susubukan kong barilin ng isang palaso sa isang buls-ay, ang katumpakan ng aking tama ay matutukoy sa layo ng binagsakan ng aking palaso mula sa sentro.
+Ang konsepto ng*katotohanan* ay nangangailangang mayroong ng konsepto ng *katumpakan*. Kung susubukan kong patamaan ng isang palaso ang isang buls-ay, ang katumpakan ng aking tama ay matutukoy sa layo ng binagsakan ng aking palaso mula sa sentro.
 
 Ano, ngayon, ang "buls-ay" ng katotohanan?
 
@@ -93,4 +93,4 @@ Sa katunayan, ang unang sagabal ng kahit ano mang teyorya ay dapat madaig ay na 
 
 [^2]: Ang makatwiran na pagbabaho, o panloob na lohikal.
 
-[^3]: Empirical evidence, or empiricism.
+[^3]: Empirical na katibayan, o empirilismo.
