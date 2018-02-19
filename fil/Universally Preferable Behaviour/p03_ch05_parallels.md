@@ -66,10 +66,10 @@ Gayon ang tao na naniniwala na ang pang-aapi ay isang mabuting gawa upang makuha
 
 Sa madaling salita, UPB ay humihingi ng hindi pagbabago kahit sa pagbabago-bago. UPB ay humihingi ng pagkakatulad kahit sa imoralidad.
 
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+Ang ugat na moral sa looban ng kultura ay nagdikta sa di-maiwasang hinaharap. Ang kultura na gawa sa pagbibigay katarungan sa pagpipigil ay laging magigingmas mapaniil. Ang kulturang gawa sa rasyonal na kalayaan ay palaging magiging hindi gaanong mapaniil.
 
-That is why the delineation of a rational framework for ethics is so essential.
+Kung kaya ang guhit-balangkas ng rasyonal na balangkas para sa etika ay importante.
 
-What we believe is what we become.
+Ang pinaniniwalaan natin ang siyang magiging tayo.
 
-If we believe lies, we shall become slaves.
+Kung naniniwala tayo sa mga kasinungalingan, tayo ay magiging mga alipin.
