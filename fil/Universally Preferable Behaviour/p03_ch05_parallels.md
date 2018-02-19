@@ -10,9 +10,9 @@ Sa kasamaang palad, ang "walang bahid na kamalayan" na ito ay isa lamang ilusyon
 
 Kailangan pa din nating isabuhay ang parehong pag-iilaw sa ating konsepto ng lipunan - ngunit ito ngayon ay *mahalaga* na gawin natin.
 
-Isinasaalang-alang nating mahalaga na, sa gitna ng lipunan, naglagay tayo ng marangal na entidad na kung tawagin ay "ang gobyerno." Sa kawalan ng entidad na ito, itinuturing natin ito na axiomatic na ang lipunan ay lilipad sa kaguluhan, at doon titigil - gaya ng pagturing ng ating mga ninuno na, sa kawalan ng mga Diyos, ang sansinukob mismo ay lilipad patungo sa kaguluhan, at doon titigil.
+Isinasaalang-alang nating mahalaga na, sa gitna ng lipunan, naglagay tayo ng marangal na entity na kung tawagin ay "ang gobyerno." Sa kawalan ng entity na ito, itinuturing natin ito na axiomatic na ang lipunan ay lilipad sa kaguluhan, at doon titigil - gaya ng pagturing ng ating mga ninuno na, sa kawalan ng mga Diyos, ang sansinukob mismo ay lilipad patungo sa kaguluhan, at doon titigil.
 
-Gayunman, "ang gobyerno" ay hindi umiral kaysa sa pag iral ng "Diyos.".
+Gayunman, "ang gobyerno" ay hindi na umiral kaysa sa pag iral ng "Diyos.".
 
 Pag nagsalita tayo tungkol sa mga "Diyos," tayo ay talagang nagsasabi ng tungkol sa "opinyon ng mga pari."
 
