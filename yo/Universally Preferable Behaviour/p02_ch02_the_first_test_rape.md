@@ -1,42 +1,44 @@
-## The First Test: Rape
+## Ìdánwò àkọkọ: Ifipábanilopọ̀
 
-Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
+Bíótilẹ jẹ wípé kìí ṣe ọrọ tó dùn láti jíròrò lórí, ifipábanilopọ̀ láìsí ijiyan jẹ èyí tó *kéré ju* ni aṣoju ìwà ti èyíkéyìí àlàyé ìwà gbọdọ kọ sínú. Ìpaniyàn lè díjú pẹlú ìdáàbòbò ara ẹni; olè jíjà pẹlú wàhálà ebi tàbí "jiji padà" - ṣugbọn èèyàn kò lè lo ipá bá ní lopọ̀ ni ìdáàbòbò ara ẹni; ó jẹ pẹlú ìtumò rẹ ipilẹṣẹ ìbínú.
 
-Let us then use the UPB framework to examine the logical consistency of ethical propositions regarding rape, with reference to these seven moral categories.
+Jẹ kí a lò ìlànà UPB láti ṣe àyẹwò ìdúróṣinṣin ọgbọn awọn àlàyé ìwà nipa ifipábanilopọ̀, pẹlú ìtọ́ka sí àwọn ìsọ́rí ìwà méje yìí.
 
-### The Good
+### Èyí tó jẹ́ dáadáa
 
-To take an absurd example, let’s imagine that we are reviewing an ethical theory that proclaims that rape is a moral good.
+Ká mú àpẹẹrẹ àjèjì kan, kí a sì gbèrò wípé a n ṣe àgbéyẹ̀wò àlàyé ìwà kan tó sọ wípé ifipábanilopọ̀ jẹ ìwà rere.
 
-Clearly, if I proclaim that “X” is “the good,” then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+Ó fihan, ti mo bá sọ wípé "X" jẹ "dáadáa," a jẹ wípé idakeji "X" gbọdọ jẹ àìdá. Ti *kíkọ fún ifipábanilopọ̀* ba dára, a jẹ wípé *ifipábanilopọ̀* gbọdọ jẹ àìdá. Bákannáà, tí *ifipábanilopọ̀* ba dára, a jẹ wípé *kíkọ fún ifipábanilopọ̀* gbọdọ jẹ àìdá.
 
-Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
+Lílo ipá bá ẹnìkan sùn jẹ ìhùwàsí tó gbudọ ní ipilẹṣẹ, ṣiṣe, ti yíò sì gba ìparí iṣẹ náà. Tí "ifipábanilopọ̀" ba jẹ ìwà rere, a jẹ wípé "kíkọ fún ifipábanilopọ̀" gbọdọ jẹ ìwà àìdá - yíò wá jẹ wípé kò ṣeéṣe fún ọkùnrin méjì nínú iyàrá kan láti *jọ ní ìwà rere lásìkò kànna*, nígbàtí ọ jẹ wípé ọ̀kan nínú wọn ló lè fí ipá bá ẹnìkejì lò lásìkò kàn - ti yíò sì lè rí ìwà náà ṣe ti ọkùnrin keji bá gbà fún.
 
-That which enables virtue cannot be evil. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
+Nkán tó bá mú ṣiṣe ìwà rere kò lè jẹ àìdá. "Òmìnira," bi àpẹẹrẹ, jẹ pàtàkì ṣáájú fún ìwà rere - láìsí òmìnira, a kò le ní ìwà rere - a jẹ wípé "òmìnira" kò lè jẹ àìdá, nígbàtí a *nilo* rẹ fún dáadáa.
 
-If it is morally good to be a rapist, and one can only be a rapist by sexually assaulting a victim, then clearly the victim must be morally good by resisting the sexual assault – since if he does not resist, it is by definition not rape, and therefore not virtuous. In other words, *attacking* virtue by definition *enables* virtue. Thus we have an insurmountable paradox, in which the victim must attack virtue in order to enable virtue – he must resist sexual assault in order to enable the “virtue” of the rapist. Thus not only can the rape victim *not* be virtuous, but he must resist and attack “virtue” in order to allow it.
+Ní ọrọ mìíràn, *ikọlu* ìwà rere ni ìtumọ *ṣe iranlọwọ* ìwà rere. Nigbanà a ni itakora ti a kò lè kojú, èyí tí ẹnìkan gbọdọ kọlù ìwà rere lati ṣe iranlọwọ fún ìwà rere - ó gbọdọ kọ fún ìpalára ìbálòpọ̀ láti lè ṣe iranlọwọ fún ìwà rere ẹni tó fẹ fi ipá bá lopọ. A jẹ wípé kìí ṣe ìwà àìdá nìkan ló wà fún ẹni tó ní ìpalára ìbálòpọ̀, ṣugbọn ó tún gbọdọ kọ fun ati kọlù "ìwà rere" lati lè gbà láàyè.
 
-Insurmountable logical problems thus result from the proposition: “rape is moral.” Remember, we agreed that a rational theory cannot propose opposite states for the same situation. All other things being equal, a rock cannot fall both up and down at the same time, and a valid theory cannot predict that one rock will fall up, while another rock will fall down.
+To bá jẹ ìwà rere láti fí ipá bá èèyàn ló pọ, tí èèyàn sí lè rí ìwà náà ṣe pẹlú ìpalára ìbálòpọ̀ ọkùnrin kan, a jẹ nkan tó hàn pé ọkùnrin náà gbọdọ ni ìwà rere pẹlú kíkọ ìpalára ìbálòpọ̀ náà - nígbàtí ọ jẹ wípé ti kò bá kọ, ní ìtumọ kìí ṣe ifipábanilopọ̀, nitorinà kìí ṣe ìwà rere. 
 
-In the same way, two men in a room must be considered to be in the same situation. If only one of them can be good, because goodness is defined as rape, and only one of them can rape at any time, then we have a logical contradiction that cannot be resolved.
+Wàhálà ọgbọn tí a kò lè kojú yíò jẹyọ nibi àlàyé èròngbà wípé: "ifipábanilopọ̀ jẹ ìwà rere." Rántí, a ti faramọ wípé àlàyé to ni ọgbọn kò le gbèrò ipò idakeji fún iṣẹlẹ kànnà. Gbogbo nkan mìíràn ni deede, òkúta kàn ko le já sókè ati isalẹ lásìkò kànna, ati pé àlàyé kan tó wúlò kò le sọ àsọtẹlẹ wípé òkúta kàn yíò já sókè, nígbàtí òkúta mìíràn yíò já walẹ.
 
-Also, if we recall that Universally Preferable Behaviour must be independent of time, then we also face a logical problem that, no matter what his physical virility, at some point the rapist will simply be unable to rape any more, because he will be physically unable to get an erection. At that point, his ability to perform the “good action” becomes impossible. Since “avoidability” is a key criterion for morality, but he is physically unable to be good – in other words, he is unable to avoid being evil – then he cannot be responsible for not raping the other man.
+Lọnà kànnà, ọkùnrin méjì nínú iyàrá kan gbọdọ gba àyẹwò pé ipò kànnà ni wọn wà. Tó bá jẹ wípé ọ̀kan ninu wọn lọ lè jẹ èèyàn dáadáa, nítorípé dáadáa túmò sí ifipábanilopọ̀, ati pé ẹnìkan ṣoṣo ló lè fi ipá bá ní lopọ̀ lásìkò kàn, a jẹ wípé a ní ìtako ọgbọn ti kò ṣe yanjú.
 
-If a man hanging from a tree over a canyon lets go because he lacks the strength to continue holding on, we would not call that a suicide, since the choice to hang on was no longer available to him. If he lets go although he has the strength to continue holding on, the case would not be quite so clear.
+Ati pé, ti a ba rántí wípé UPB gbọdọ ní òmìnira lọwọ àsìkò, a jẹ wípé a tún kọjú wàhálà ọgbọn kàn wípé, kò sí bí ara rẹ ṣe lágbára tó, tó bá di àsìkò kan ẹni tí n fi ipá bá èèyàn lopọ kò ní lè ṣe mọ, nítorípé oko rẹ kò ní lè mọ. Ní àsìkò náà, ìkápá rẹ lati ṣe "ìwà rere" di aiṣeéṣe. Nígbàtí "yiyara fún" jẹ nkan pàtàkì fún ìwà rere, ṣugbọn kò ní agbára láti ṣe daada - lọrọ mìíràn, kò le sa fún ṣíṣe ìwà àìdá - a jẹ wípé kò lè dúró fún kíkọ ifipábanilopọ̀ ọkùnrin keji.
 
-#### The Coma Test
+Tí ọkùnrin kan bá n di okùn mú lára igi kan lórí adágún kan ba fisilẹ nítorípé kò ní agbára láti mu dání mọ, a kò lè pe èyí ní ipara ẹni, nígbàtí ànfààní ati gbiyanju kò sí fún mọ. Tó bá jẹ wípé o fisilẹ nígbà tó sì ní agbára láti gbìyànjú si, ọràn náà kò ní fojú hàn dáadáa. 
 
-Intuitively, it is hard to imagine that any theory ascribing immorality to a man in a coma could be valid. Any ethical theory that posits a positive action as universally preferable behaviour faces the challenge of “the coma test.” If I say that giving to charity is a moral absolute, then clearly not giving to charity would be immoral. However, a man in a coma is clearly unable to give to charity, and thus would, by my theory, be classified as immoral. Similarly, a man who is asleep, or has no money to give – or the man currently *receiving* charity – would all be immoral.
+#### Ìdánwò orun ailopin.
 
-This is another central problem with any theory that posits a positive action such as “rape” as moral. At any given time, there are any number of people who are unable to perform such positive actions, who must then be condemned as evil, even though they have no capacity to be “good.” However, if it is impossible to avoid being “evil,” then clearly evil as a concept makes no sense. In the example above of the rock crashing down a hill, the rock is not “evil” for hitting your car, since it has no capacity to avoid it of its own free will. If a man’s brakes fail right after they have been serviced, then it is not his responsibility for failing to come to a stop. If he has never once had his brakes serviced in ten years, then his irresponsibility is the proximate cause of his continued momentum, and he can be blamed.
+Pẹlú ọgbọn, yíò le láti lérò wípé àlàyé kan ti n ṣe àfihàn ìwà àìdá fun ọkùnrin kan to wà lójú òrun ailopin lè ní ìwúlò. Èyíkéyìí àlàyé ìwà tí n fi ìhùwàsí ti a fẹràn lágbayé sí ipò ìhùwàsí dáadáa yíò koju iṣoro "ìdánwò orun ailopin." Ti mo ba sọ wípé títa ọrẹ jẹ ìwà rere púpọ jù, a fihàn fihàn wipe kíkọ láti tọrẹ yíò jé ìwà àìdá. Sibẹsibẹ, ọkùnrin kan to wa lójú orun ailopin kò lè tọrẹ, yíò wá jẹ, pẹlu àlàyé mi, nínú ìsọ̀rí ìwà àìdá. Bákannáà, ọkùnrin tó wà lójú orun, tàbí kò ní owó lọwọ láti fún - tàbí alágbe tí n *gba* ọrẹ - yíò ní ìwà àìdá.
 
-In this way, the concept of “avoidability” retains its use. A man in a coma is unable to avoid lying in his bed, since he is in a state of quasi-unconsciousness. Since he is unable to avoid his actions – or inaction in this case – his immobility cannot be immoral.
+Èyí jẹ́ wahala àpapọ kan pẹlu èyíkéyìí àlàyé tí n fi ìhùwàsí dáadáa kan gẹgẹbi "ifipábanilopọ̀" sí ipò ìwà rere. Ní àsìkò kan yìówù, yíò ma bẹ àwọn èèyàn tí kò ní lè ṣe irú ìhùwàsí dáadáa náà, tí a sì gbọdọ ká kún èèyàn àìdá, kódà bi wọn kò ní ìkápá láti jẹ "dáadáa." Sibẹsibẹ, tí kò bá ṣeéṣe láti yẹra fún ijẹ "àìdá," ọ fihàn wípe àìdá gẹgẹ bí èròngbà kò ní ìtumọ. Ní àpẹẹrẹ tó.wa lókè nipa àpáta tí n bọ lati òke kan, àpáta náà kìí ṣe "àìdá" fún ikọlu ọkọ ayọkẹlẹ rẹ, nígbàtí kò ní ìkápá láti yẹra fún pẹlu atinuda rẹ. Ti ìdádúró ọkọ ọkùnrin kàn bá bajẹ lẹyìn àtúnṣe, a jẹ wípé kìí ṣe ojúṣe rẹ ti ọkọ náà bá kọ láti dúró. Ti kò ba fi ìgbà kan ṣe àtúnṣe idaduro ọkọ náà láàrin ọdún mẹwa, àìní ojúṣe rẹ ni òkùnfà aiduro rẹ, ti yíò sì lè jẹbi.
 
-At this point, the objection can quite reasonably be raised that if a man in a coma cannot be immoral, then he also cannot be moral. However, earlier we said that the opposite of an immoral action must be moral. If we propose the moral rule, “thou shalt not rape,” then can we call the man in a coma *moral*, since he does not rape?
+Lọnà yìí, èròngbà "iyẹra fún" yíò sì ní ìwúlò rẹ. Ọkùnrin kan tó wà ní ojú orun ailopin kò le kúrò lórí ibùsùn rẹ, nígbàtí ó wa ni ipò abọ ọpọlọ. Nígbàtí kò lè yẹra fún ìhùwàsí rẹ - tàbí àìní ìhùwàsí ní ipò yìí - wiwà lójú kan rẹ kìí ṣe ìwà àìdá.
 
-#### Capacity
+Ní àsìkò yìí, kíkọ náà yíò ṣe fi ọpọlọ mú wá wipe tí ọkùnrin kan tó wà lójú orun ailopin kò lè ní ìwà àìdá, a jẹ wípé kò lè ní ìwà rere bákannáà. Sibẹsibẹ, ni iṣaaju a ti sọ wipe idakeji ìwà àìdá gbọdọ jẹ ìwà rere. Ti a ba gbèrò òfin ìwà wípé, "iwọ kò gbọdọ fi ipá bá èèyàn lopọ," ṣe a lè sọ pe ọkùnrin tó wà lójú orun ailopin ni *ìwà rere*, nígbàtí kò fi ipa ba èèyàn lopọ?
 
-The concept of “avoidability” works in the positive as well as in the negative. If I have lost my genitals in some ghastly accident, am I moral for refraining from rape? It would seem hard to argue that I could be, since genital rape at least is impossible for me. Similarly, we may call a man “generous” if he gives one hundred dollars to a beggar – however, we would doubtless revise our estimation if it turned out that he gave away his money while sleepwalking, and woefully regretted his action on waking.
+#### Ìkápá
+
+Èròngbà lórí "yiyara fún" yíò ṣiṣẹ ni ipò daada gẹgẹbi yíò ti ṣiṣẹ ni ipò àìdá. Ti mo bá pàdánù nkán ọkùnrin mi nínú ìjàmbá nla kan, ṣe mo ni ìwà rere fún iyẹra fún ifipábanilopọ̀? Yíò le láti jiyàn pé mò lè jẹ bẹ, nígbàtí ifipábanilopọ̀ ko lè ṣeéṣe fún mi. Bákannáà, a lè pè ọkùnrin kan ni "oninurere" tó bá fún alágbe ni ọgọrùn dọ́là  - sibẹsibẹ, a má ṣe ìyípadà ìpinnu wa ti ó ba já sí wípé ó fún lówó náà lójú orun, tó sì kó abamọ ìwà náà lẹyìn tó jí.
 
 Thus we can reasonably say that where choice is absent, or inapplicable, morality is also absent, or inapplicable. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
 
