@@ -83,14 +83,14 @@ Ang unang pamantayan ay isang sukat ng palagian ng mga ideya sa kanilang sarili 
 
 Ang empirilismo ay maaaring isipin na tulad ng isang kakayahan sa katutubong pagkuha ng isang nahagis na bola, o sukat ng kanyang paggalaw; makatwiran ay isang kakayahan na mahulaan at maintindihan ang landas na kung saan ang bola ay mababase sa makamundong prinsipyo. Malinaw, kung ang mga bola ay walang pili na napunta sa kahit ano at sa lahat ng direksyon - at mahiwagang nagbago ang anyo sa mga kalapati sa bota - maaari lubos na hindi mahulaan ang kanilang asal.
 
-Sa gayon, dahil ang mga bagay ay sumusunod sa hindi nagbabagong mga batas, ang atong mga teyorya *tungkol* sa mga bagay ay dapat din sumunod sa hindi nagbabagong mga batas. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Sa gayon, dahil ang mga bagay ay sumusunod sa hindi nagbabagong mga batas, ang atong mga teyorya *tungkol* sa mga bagay ay dapat din sumunod sa hindi nagbabagong mga batas. Kung wala akong alam tungkol sa baseball, ngnit nanonood ng laro ng baseball na kung saan ang mga manlalaro ay laging sumusunod sa mga patakaran, ito magiging hindi makatwiran para sa akin na gumawa ng isang teyorya tungkol sa mga patakaran ng baseball na direktang sumasalungat sa asal ng mga manlalaro ng aking pinapanood. Dahil ang mga kilos ng mga manlalaro ay hindi nagbabago, * kahit anong mga teyorya na maaari kong mapaunlad tungkol sa mga patakaran na gumagabay sa mga kilos na dapat din hindi magbago*.
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+Itong kinakailangan para sa walang pagbabago ay isa sa mga pinka madaling kailangan para sa katotohanan. dahil ang katotohanan ay hindi nagbabago, ang mga teyorya tungkol sa katotohanan ay dapat din hindi magbago.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+Sa katunayan, ang unang sagabal ng kahit ano mang teyorya ay dapat madaig ay na *panloob na pagbabago*.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^1]: Kung hindi mo pinapahalagahan ang katotohanan, ikaw ay kailanman ay wala sa debateng ito - o sa kahit anong debate - sa unang palang!
 
-[^2]: Rational consistency, or internal logic.
+[^2]: Ang makatwiran na pagbabaho, o panloob na lohikal.
 
 [^3]: Empirical evidence, or empiricism.
