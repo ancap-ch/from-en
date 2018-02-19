@@ -70,62 +70,62 @@ We could of course put forward the proposition that parents do not have to take 
 
 Parents who starve a child to death are clearly guilty of murder. Children are born into this world in a state of involuntary imprisonment within the family – this does not mean that the family is evil, or corrupt – it is simply a statement of biological fact. Children are by the parents’ choice enslaved to the parents – this form of biological incarceration puts negligent parents in the same moral position as a kidnapper who allows his captive to starve to death, or a nurse who lets her utterly-dependent patients die of thirst.
 
-### "Don't Eat Fish"
+### “No Comas Pez”
 
-What would be the status of the moral proposition: “It is evil to eat fish”?
+¿Cuál sería el estatus de la proposición moral: “Es malo comer pez”?
 
-Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
+Claramente, esta proposición pareciera satisfacer algunos de los requerimientos del CUP – se muestra universal, independiente de tiempo y espacio, y relativamente objetiva.
 
-Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
+Y todavía parece difícil para nosotros para llamar razonablemente a esto una teoría *moral* – ¿por qué?
 
-First of all, “evil” encompasses actions that can be prevented through the use of force. Rape is “evil,” and so I can use force to defend myself against someone attempting to rape me.
+Primero que todo, “malo” circunscribe acciones que pueden ser prevenidas a través del uso de la fuerza. La violación es “mala”, y por lo tanto puedo usar fuerza para defenderme de alguien que intenta violarme.
 
-Can I justly shoot someone who eats a piece of fish?
+¿Puedo yo dispararle a una persona que come un pedazo de pez?
 
-It would seem silly to argue that I can – but why?
+Parecería tonto discutir que puedo – ¿pero por qué? 
 
-There are some objective limits to the universality of this doctrine. For instance, some people may have no access to fish – they may live in a desert, say – while others live by a lake teeming with fish, and find it hard or impossible to survive without eating them. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
+Hay algunos límites objetivos a la universalidad de esta doctrina. Por ejemplo, algunas personas pueden no tener acceso a los peces– pueden vivir en un desierto, digamos – mientras otras vivir junto a un lago rebosante de peces, y encontrar difícil sobrevivir sin comerlos. Sin embargo, esto no puede ser suficiente, puesto que ya hemos aceptado el hecho de que la incapacidad de un eunuco para violar no invalida la proposición moral de que “está mal violar”.
 
-No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
+No, la cortina de humo en la proposición moral “es malo comer pez” es la palabra “*pez*”.
 
-A scientist cannot validly say that his theory of gravity only applies to pink rocks. Since his theory involves gravity, it must apply to *all* entities that have mass.
+Un científico no puede decir válidamente que su teoría de la gravedad solamente aplica a rocas rosadas. Puesto que su teoría involucra a la gravedad, debe aplicarse a *todas* las entidades que tienen masa.
 
-Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
+Similarmente, en el ejemplo arriba expuesto, el CUP acepta solo el *acto* de comer, y rechaza *lo que está* siendo comido, puesto que ser comido no es una *acción*, sino lo que se le puede hacer como objeto.
 
-In the same way, an ethicist cannot validly put forward the moral proposition: “It is evil to rape the *elderly*.” “Rape” is the behaviour; whether the victim is elderly or not is irrelevant to the moral proposition, since as long as the victim is human, the requirement for universality remains constant. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
+De la misma manera, un especialista en ética no puede validar anteponer la proposición moral: “Es malo violar a los *ancianos*”. “Violar” es el comportamiento; sean las víctimas los ancianos o no resulta irrelevante para la proposición moral, ya que mientras la víctima sea humana, el requerimiento de universalidad permanece constante. “No robarás” es una proposición moral válida de acuerdo al CUP – “no robarás *nabos*” no lo es, por la simple razón de que el robo está relacionado con el concepto de propiedad – y los nabos, como un subgrupo de propiedad, no pueden ser racionalmente delimitados de todas las otras formas de propiedad y recibir su propio reglamento moral.
 
-The moral proposition “eating fish is evil” thus fails the test of universality because it is too specific to be generalised – it is like saying “my theory of gravity applies only to pink rocks.” If it is a theory of gravity, then it must apply to everything; if it only applies to pink rocks, then it is not a theory of gravity.
+La proposición moral “comer pez es malo” falla además en la prueba de la universalidad porque es muy específica para ser generalizada – es como decir “mi teoría de la gravedad solo aplica a rocas rosadas”. Si es una teoría de la gravedad, entonces debe aplicarse a todo; si solo aplica a las rocas rosadas, entonces no es una teoría de la gravedad.
 
-UPB also rejects as invalid any theory that results in opposing moral judgements for identical actions. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
+El CUP también rechaza como inválida cualquier teoría que resulte en la oposición a juicios morales por acciones idénticas. “El asalto” no puede ser moral un día, e inmoral al siguiente. Además sabemos que “comer” no puede ser moral un día, e inmoral el siguiente.
 
-Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
+“Comer” es moral, inmoral, o moralmente neutral, uno de ellos. Si comer es inmoral, entonces toda una multitud de problemas lógicos se levantan, sobre los tengo la certeza de que ya somos bastante familiares.
 
-If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
+Si, por otra parte, comer es *moral*, entonces no puede ser moral comer un repollo e inmoral comer pez, ya que esa es una violación de la universalidad, en tanto que la misma acción – comer – está juzgada como buena y mala a la vez.
 
-It is in this way that we understand that the proposition “eating *fish* is evil” fails the test of UPB, and is not valid as a moral theory.
+Es de esta manera que entendemos que la proposición “comer *pez* es malo” falla la prueba del CUP, y no es válida como teoría moral.
 
-### Animal Rights
+### Derechos Animales
 
-We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
+No tenemos aquí el tiempo suficiente para entrar en una discusión completa sobre el asunto de los derechos animales, pero podemos al menos lidiar con la proposición moral: “matar peces es malo”.
 
-If it is evil to kill fish, then UPB says that anyone or anything that kills the fish is evil. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
+Si es malo matar peces, entonces el CUP dice que cualquiera o cualquier cosa que mate a los peces es malo. Esto no incluiría a los pescadores solamente, sino también a los tiburones – puesto que si matar peces es malo, hemos expandido nuestra definición de “actores” éticos para incluir a la vida no-humana.
 
-It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
+Está claro que los tiburones no tienen la capacidad de refrenarse de matar peces, ya que básicamente son máquinas de comer con aletas.
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
+Así quedamos pues con el problema lógico de la “maldad inevitable”. Si es malo matar peces, pero los tiburones no pueden evitar matar peces, entonces los tiburones son “inevitablemente malvados”. Sin embargo, como hemos discutido antes, donde no hay elección – donde la *evitación* resulta imposible – no puede haber moralidad. En consecuencia, la proposición “matar peces es malo” intenta definir una moralidad universal que incluye situaciones no-morales, que no pueden mantenerse en pie lógicamente.
 
-Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
+También, la palabra “pez” sigue siendo problemática en la formulación, puesto que es muy específica para ser universal. La formulación del CUP correcta es: “está mal para las personas matar a organismos vivientes”.
 
-If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+Si, no obstante, está mal matar, nos encontramos nuevamente con el problema de la “maldad inevitable”. Ningún ser humano puede existir sin matar a otros organismos como virus, plantas, o incluso animales. Entonces, la “vida” humana está definida como “mala”. Pero si la vida humana es definida como mala, no puede haber mal, puesto que la evitación resulta imposible.
 
-What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
+¿Qué tal si decimos: “matar personas es malo”? – ¿haría eso que un tiburón devorador de hombres fuese malo?
 
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
+No –una vez más, puesto que los tiburones no tienen la capacidad para evitar matar personas, no se les puede atribuir la responsabilidad por tales acciones, más de lo que se puede llevar a juicio a una avalancha si mata a un hombre.
 
-UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
+El CUP permite excepciones basadas en material objetivo y universal o diferencias biológicas, justo como otras ciencias. La teoría científica que explica que los gases se expanden cuando se calientan aplica, por supuesto, solo a los gases. No puede invalidarse la teoría por probar que no tiene aplicación a, digamos, el plástico.
 
-In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+De la misma manera, la moralidad solo aplica a la conciencia racional, dado el requerimiento de posibilidad evitación. Si yo intentara aplicar una teoría moral a un caracol, un árbol, una piedra, o al concepto “números”, estaría intentando igualar a la conciencia racional con entidades que podrían no ser racionales ni conscientes, lo cual es una contradicción lógica. Diría también que la Teoría del Ángulo Opuesto en la geometría es inválido porque no aplica a un círculo o a una nube. La TAO solo aplica a líneas que se intersectan – intentar aplicarlo a otras situaciones es el equivalente conceptual de intentar pintar aire.
 
-In other words, misapplication is not disproof.
+En otras palabras, la mala aplicación no es refutación.
 
-There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
+Hay muchas otras “áreas grises” sobre las que podríamos trabajar, desde el aborto hasta los derechos de propiedad intelectual, hasta la restitución, y así, pero creo que es mucho más importante sacar al CUP fuera del reino de la abstracción, y empezar a aplicarlo a los problemas reales a los que nos enfrentamos hoy.
