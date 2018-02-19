@@ -50,7 +50,7 @@ Ang etikal na mga argumento, kung ako ay tinanong na kung gusto ko kumuha ng man
 
 Ito ang ginamit bilang batayan ng etikal ng teyorya at pamamaraan, galing sa Nietzsche to Rand. Ang nais ng bawat indibidwal para sa kaligtasan ay naisalin sa etikal na mga teyorya na naglagay sa kaligtasan ng indibidwal sa kannilang sentro. [^11]
 
-This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
+Ang uri ng ganitong "biyolohikal ng hedonism” ay pwedeng isang diskripsyon ng "mamuhay para mabuhay," pero ito lang ang tama habang inilalarawan nito kung anong mga tao talaga *do*, kung hindi ano sila *kailangan* gawin.
 
 It also introduces a completely unscientific subjectivism to the question of morality. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
 
