@@ -56,7 +56,7 @@ Kaya maaari nating makatwirang sabihin na ang eksklusibong pagmamay-ari ng saril
 
 ### Ang Mga Kulay-Abo na Lugar
 
-Naturally, any statement such as the above brings the inevitable howls of “complexity,” which I fully agree with.
+Natural, na ang anumang pahayag tulad ng nasa itaas ay nagdudulot ng hindi maiiwasang mga pag-alala ng “pagiging kumplikado,” na lubos akong sumasang-ayon.
 
 Let us say that I mean to give you five dollars as a gift, but by mistake I hand you a ten dollar bill, saying, “This is for you.” Few people would consider it theft if I said, the moment after I handed it to you: “Sorry, I meant to give you five dollars, not ten,” and took the larger note back, even though I am taking back property that I have voluntarily relinquished.
 
