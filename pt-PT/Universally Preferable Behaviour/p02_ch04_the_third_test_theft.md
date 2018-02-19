@@ -72,7 +72,7 @@ Dado que a questão da responsabilidade moral e da capacidade intelectual só se
 
 ### Propriedade Como Universalidade
 
-UPB thus gives us clear options with regards to property rights. It cannot be the case that some men have property rights, while other men do not. It cannot be the case that men in Washington have property rights, while women in Baltimore do not. It cannot be the case that men have property rights today, but not tomorrow, and so on.
+O CUP oferece-nos opções claras em relação aos direitos de propriedade. It cannot be the case that some men have property rights, while other men do not. It cannot be the case that men in Washington have property rights, while women in Baltimore do not. It cannot be the case that men have property rights today, but not tomorrow, and so on.
 
 It also cannot be the case that men have only fifty percent property rights.
 
