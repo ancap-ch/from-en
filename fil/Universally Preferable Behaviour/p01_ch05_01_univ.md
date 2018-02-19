@@ -36,9 +36,9 @@ What does this look like in practice? All we have to do is establish the followi
 - Ang mga tuntunin sa moral ay dapat nakalaan para sa lahat ng sangkatauhan.
 - Ang pagiging totoo ng isang moral na teorya ay hinuhusgahan ng kabuuan nito.
 
-To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
+Upang simulan mula pa sa simula… ang mga tuntunin ng moralidad – o higit na napapakinabangan ng mga pag-uugali ng tao – wasto sa lahat?
 
-There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
+Mayroong dalawang mga posibilidad lamang pagdating sa mga patakaran ng moral, tulad ng sa anumang lohikal na agham. Ang alinman sa mga alituntunin sa moral na unibersal ay may bisa, o hindi sila.[^6]
 
 A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
 
