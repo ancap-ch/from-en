@@ -36,7 +36,7 @@ Hindi natin pwedeng makuha pareho.
 
 ### Mga Solusyon
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Maaari nating piliin na paniwalaan na ang gobyerno ay parehong isang kailangan at isang institusyong moral. Maaari nating piliin na paniwalaan na, kung walang gobyerno, ang lipunan ay babagsak patungong "anarkiya", at ang daigdig ay malulusaw sa digmaan ng lahat laban sa lahat. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
 
 Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
 
