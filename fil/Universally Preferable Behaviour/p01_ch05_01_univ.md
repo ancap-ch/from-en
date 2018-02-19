@@ -44,7 +44,7 @@ Ang isang panuntunan ay maaaring balido kung ito ay *umiiral empirically*, tulad
 
 Dapat nating itanong muna: umiiral ba ang mga tuntunin ng moralidad?
 
-Tiyak na hindi sa materyal na katotohanan, na hindi naglalaman o sumunod sa isang panuntunang moral. Ang mga patakaran ng moral ay iba sa mga patakaran ng pisikal, tulad ng pang-agham na pamamaraan ay naiiba mula sa grabidad. Ang mahalaga ay sumusunod sa grabidad o ang ikalawang batas ng termodinamika, ngunit “hindi ka dapat pumatay” ay wala pang nakasulat sa likas na katangian ng mga bagay. Ang mga batas ng katawan *ay naglalarawan* ng pag-uugali ng bagay, ngunit wala itong isang solong *reseta*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. A theory of gravity proves that if you push a man off a cliff, he will fall. It will not tell you whether you *should* push him or not.
+Tiyak na hindi sa materyal na katotohanan, na hindi naglalaman o sumunod sa isang panuntunang moral. Ang mga patakaran ng moral ay iba sa mga patakaran ng pisikal, tulad ng pang-agham na pamamaraan ay naiiba mula sa grabidad. Ang mahalaga ay sumusunod sa grabidad o ang ikalawang batas ng termodinamika, ngunit “hindi ka dapat pumatay” ay wala pang nakasulat sa likas na katangian ng mga bagay. Ang mga batas ng katawan *ay naglalarawan* ng pag-uugali ng bagay, ngunit wala itong isang solong *reseta*. Sinasabi ng agham na ang bagay *ay* gumagana sa isang tiyak na paraan – hindi na ito *dapat* na kumilos sa isang tiyak na paraan. Ang teorya ng grabidad ay nagpapatunay na kung itulak mo ang isang tao mula sa isang talampas, siya ay mahuhulog. Hindi ito sasabihin sa iyo kung *dapat* mo siyang itulak o hindi.
 
 Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
 
@@ -58,13 +58,13 @@ A further aspect of the scientific method is the belief that, since matter is co
 
 Finally, there is a generally accepted rule – sometimes called Occam’s Razor – which states that, of any two theories that have the same predictive power, the simpler of the two is preferable. Prior to the Copernican revolution, when Earth was considered the centre of the universe, the retrograde motion of Mars when Earth passed it in orbit around the sun caused enormous problems to the Ptolemaic system of astronomical calculations. “Circles within circles” multiplied enormously, which were all cleared away by simply placing the sun at the centre of the solar system and accepting the elliptical nature of planetary orbits.
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+Kaya ang anumang wastong teorya ng siyensiya ay dapat na (a) unibersal na (b) lohikal (c) empirically napapatunayan (d) maaaring kopyahin at (e) na simple hangga't maaari.
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+Ang pamamaraan para sa paghuhusga at pagpatunay ng isang teoriyang *moral* ay eksaktong kapareho ng pamamaraan para sa paghuhusga at pagpapatunay ng iba pang teorya.
 
-#### Moral Rules: A Definition
+#### Mga Batas sa Moral: Isang Kahulugan
 
-The first question regarding moral rules is: *what* are they?
+Ang unang tanong tungkol sa moral na mga patakaran ay: *ano* sila?
 
 Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
 
