@@ -26,15 +26,15 @@ Ang isa sa mga sentral na hamon na nahaharap sa mga modernong pilosopo ay ang pa
 
 Ang pinakamalapit na pagkakatulad sa kasaysayan sa ating kasalukuyang sitwasyon ay nangyari sa ikalabinlima at labing-anim na siglo, sa panahon ng pagtaas ng siyentipikong pamamaraan. Ang mga unang pioneer na nagtataguyod ng isang makatuwiran at praktikal na diskarte sa kaalaman ay nakaharap sa parehong mga kapinsalaan na kinakaharap natin ngayon – ang lahat ng mga parehong irationalities, ay nakabaon sa kapangyarihan ng simbahan at estado, mystical at suhetibong “mga ganap” at unang bahagi ng mga hadlang sa edukasyon. Yaong mga nagtaguyod ng kahalagahan ng pagkamakatwiran at pagmamasid sa obserbasyon sa pundamentalismo ng Biblikal at sa mga sekular na tyrannies ay nahaharap sa determinadong pagsalungat sa mga naghawak ng parehong krus at tabak. Marami ang pinahirapan sa kamatayan dahil sa kanilang intelektwal na katapatan – mas nakakaapekto tayo sa panganib, at dapat maging mas matapang sa pagtataguyod kung ano ang *totoo* sa kung ano ang *pinaniniwalaan*.
 
-Upang atakihin ang mga maling moralidad, kailangan naming magsimula sa simula, tulad ng ginawa ng mga unang siyentipiko. Francis Bacon did not argue that the scientific method was more “efficient” than prayer, Bible texts or starvation-induced visions. He simply said that if we want to understand nature, we must observe nature and theorise logically – and that there is *no other* route to knowledge.
+Upang atakihin ang mga maling moralidad, kailangan naming magsimula sa simula, tulad ng ginawa ng mga unang siyentipiko. Hindi sinalungat ni Francis Bacon na ang pang-agham na pamamaraan ay mas “mabisa” kaysa sa panalangin, mga teksto ng Bibliya o mga pangitain na hinimok ng gutom. He simply said that if we want to understand nature, we must observe nature and theorise logically – and that there is *no other* route to knowledge.
 
 We must take the same approach in defining and communicating *morality*. We must begin using the power and legitimacy of the scientific method to prove the validity and universality of moral laws. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
 
 What does this look like in practice? All we have to do is establish the following axioms:
 
-- Morality is a valid concept.
-- Moral rules must be consistent for all mankind.
-- The validity of a moral theory is judged by its consistency.
+- Ang moralidad ay isang wastong konsepto.
+- Ang mga tuntunin sa moral ay dapat nakalaan para sa lahat ng sangkatauhan.
+- Ang pagiging totoo ng isang moral na teorya ay hinuhusgahan ng kabuuan nito.
 
 To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
 
