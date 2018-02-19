@@ -154,13 +154,13 @@ A sociedade progride exatamente no grau em que razão e evidência dão o grande
 
 “嗯，这只是一张手写的便条，上面写着你拥有整个街区 - 这和你的签名是一样的。恐怕我们得给你订一份 -这只是你自己编的合同，你要用枪对别人施加压力”。
 
-Isso é completamente insano e corrupto como quando eu continuo a dizer a uma mulher que estou estuprando-a e ela *quer* fazer sexo comigo. Imagine se fosse julgado por estupro, houvesse um vídeo da mulher implorando-me para parar, e eu tinha uma faca na garganta dela, como minha defesa seria recebida se eu continuasse a insistir que ela *queria* fazer sexo comigo?
+这是完全疯狂和腐败，因为我继续告诉一个女人，我强奸她因为她想和我发生性关系。你能想像如果我因为强奸而受审吗？并且有一个女人的录像带恳求我停下来，我对她的喉咙有一把刀，如果我继续坚持她真的想要拥有我的防御能力与我性交，我的辩护会如何？
 
-No tribunal, eu seria vilipendiado e jogado na cadeia por minha hipocrisia óbvia, louca, corrupta e egoísta.
+在法庭上，我会受到谴责，并因我明显，疯狂，腐败和自私的虚伪而被关进监狱。
 
-Ah, mas na "zona nula" de governo, o estupro é fazer amor, sequestro é convite, rejeitar o roubo é egoísmo e coerção é bondade.
+啊，但在政府的“空白区”，强奸就是做爱，绑架就是邀请，拒绝盗窃是邪恶的自私，强制是善意。
 
-Isso é o que eu quero dizer quando digo que essa *zona nula* do "mundo oposto" é a barreira mais fundamental da felicidade humana em todo o mundo. Roubar é errado para nós; roubar é errado em essência – mas roubar é de alguma forma "certo" neste universo alternativo insano chamado "governo"?
+当我说这个“相反的世界无效区”是世界上人类幸福最根本的障碍时，这就是我的意思偷窃对我们来说是错误的。摘要中的偷窃行为是错误的 - 但是在这个疯狂的被称为“政府”的另类宇宙中，偷窃是“正确的”吗？
 
 [^2]: Não vamos nem comentar sobre o pesadelo lógico do valor de verdade contido na afirmação "erro é igual a verdade".
 
