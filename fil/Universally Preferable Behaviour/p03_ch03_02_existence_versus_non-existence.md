@@ -87,13 +87,13 @@ Ang tanging paraan na ang mga institusyong panlipunan ay maaaring lumago sa mara
 
 Sa isang boluntaryong lipunan, magkakaroon ng walang pagbubuwis, at kung gayon ang kahit anong grupo ay naghahangad na magkaroon ng monopolistang kapangyarihan upang pondohan ang kayang sandatahan, na kung saan ay hindi magiging matipid magagawa o kumikita.[^11]
 
-Ito ay napaka hirap na maintindihan ang lohika at katalinuhan ng argumento na, upang maprotektahan tayo mula sa isang grupo na *maaari* madaig tayo, dapat nating suportahan ang isang grupo na * mayroon ng *pagdadaig sa atin. Ito ay katulad sa statistiko na argumento tungkol sa pribadong monopolyo - na kung saan ang mga mamamayan ay dapat gumawa ng isang pamahalaang monopolyo dahil aila ay natatakot sa pribadong monopolyo. Hindi nito kumukuha ng masiglang pangitain upang makita sa pamamagitan ng mga bagaw na walang kapararakan.
+Ito ay napaka hirap na maintindihan ang lohika at katalinuhan ng argumento na, upang maprotektahan tayo mula sa isang grupo na *maaari* madaig tayo, dapat nating suportahan ang isang grupo na * mayroon ng *pagdadaig sa atin. Ito ay katulad sa statistiko na argumento tungkol sa pribadong monopolyo - na kung saan ang mga mamamayan ay dapat gumawa ng isang pamahalaang monopolyo dahil sila ay natatakot sa pribadong monopolyo. Hindi nito kumukuha ng masiglang pangitain upang makita sa pamamagitan ng mga bagaw na walang kapararakan.
 
 Ano ang patunay para sa pagtingin ng desentralisado at at pag-aagawan ng kapangyarihan sa magtaguyod ng kapayapaan? Sa madaling salita, mayroon bang mga basehan na maaari nating mapaghugutan upang suportahan ang ideya ng isang pantay na kapangyarihan ay ang tanging pagkakataon na ang isang tao ay mayroon para sa kalayaan?
 
 Ang organisadong krimen hindi hindi nagbibigay ng maraming magandang halimbawa, dahil ang mga gang ay regular na sira, nagmamanipula at gumagamit ng kapangyarihan ng pulis ng pamahalaan upang ipatupad ang kanilang paghahari, at kaya ang mga gang ay hindi masasabi na pinapangasiwaan sa likas na kalagayan. Gayundin, ang mga kriminal na gang ay sobrang nakikinabang sa pamamagitan ng pagbibigay ng legal na pagbabawal na sangkap o serbisyo, at gayon rin higit na yumabong dahil sa mga patakaran ng estado.
 
-Ang isang mas kapaki-pakinabang na halimbawa ay ang katotohanan na walang leader ang maaaring magdeklara ng digmaan sa isa pang lider na nagtataglay ng mga sandatang nukleyar. Noon, kapag ang mga namumuno ay hindi tinatablan mula sa kanuilang personal na paghiihiganti, sila ay mas higit pa na handang pumatay ng kanilang sariling nasasakupan sa pamamagitan ng paglulunsad ng digmaan. Ngayon na sila na mismo ay napapailalim sa paglipol, sila ay tanging handa na salakayin ang mga bansa na hindi kayang lumaban.
+Ang isang mas kapaki-pakinabang na halimbawa ay ang katotohanan na walang pinuno ang maaaring magdeklara ng digmaan sa isa pang pinuno na nagtataglay ng mga sandatang nukleyar. Noon, kapag ang mga pinuno ay hindi tinatablan mula sa kanuilang personal na paghiihiganti, sila ay mas higit pa na handang pumatay ng kanilang sariling nasasakupan sa pamamagitan ng paglulunsad ng digmaan. Ngayon na sila na mismo ay napapailalim sa paglipol, sila ay tanging handa na salakayin ang mga bansa na hindi kayang lumaban.
 
 Ito ay isang tagubilin na aral tungkol sa kung bakit ang kailangan tanggalan ng sandata ang mga ito at depende sa populasyon - at ang isang magandang halimbawa ng paano ang takot ng paghihiganti ay likas sa isang pantay na sistema ng desentralisado at nag-aagawan ng kapangyarihan * ay nagpapatunay na paraan lamang ng ligtas at pagpapanatili ng pansariling kalayaan*.
 
@@ -105,12 +105,12 @@ Ang pagtakas mula sa haka-haka na masama sa protektadong bilangguan ng pamahalaa
 
 [^6]: Isang perpektong balanse ng mabuti at masama ay halos imposible.
 
-[^7]: Ito ang kasalukuyang sitwasyon sa democracies, siyempre.
+[^7]: Ito ang kasalukuyang sitwasyon sa mga demokrasiya, siyempre.
 
-[^8]: Tingnan ang Plato's *Republika*.
+[^8]: Tingnan ang Plato *Republika*.
 
 [^9]: Marahil higit pa, mula noon ang masasamang tao ay laging naaakit sa kapangyarihan..
 
-[^10]: For a more detailed discussion of the role that *parents* play in inculcating the fantasy that “power equals virtue,” see [On Truth](http://wiki.mises.org/wiki/On_Truth).
+[^10]: Para sa mas detalyadong talakayan ng gampanin ng *mga magulang* sa pagtuturo ng pantasya na "ang kapangyarihan ay kapantay ng kabanalan," tignan [ sa Katotohanan](http://wiki.mises.org/wiki/On_Truth).
 
-[^11]: See [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
+[^11]: Tignan [Praktikal na Anarkiya, bahagi 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Kabanata 5: "Digmaan, kapakinabangan, at ang estado".
