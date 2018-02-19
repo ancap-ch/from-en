@@ -48,15 +48,15 @@ Ipagpalagay natin na maaari mong sabihin ang pagkakaiba sa pagitan ng nasa itaas
 
 #### Katumpakan at Palagian
 
-Ito ay imposible para sa akin na tumpak na pinturahan ang isang ulap, dahil sa oras na pipintahan ito, ang ulap ay patuloy na magbabago. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+Ito ay imposible para sa akin na tumpak na pinturahan ang isang ulap, dahil sa oras na pipintahan ito, ang ulap ay patuloy na magbabago. Kaya kong tumpak na pinturahan ang *larawan* ng isang ulap, na kung saan ay hindi nakakagalaw sa anumang oras.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+Kung ako ay gugugol ng isang oras upang subukan pintahan ang ulap, sa gayon ay tatanungin kita kung ang aking pagpipintura ay tumpak o hindi na representasyon ng ulap, ikaw ay nangangailangan na sumagot na ito ay hindi.
 
-In other words, where there is no consistency, there can be no accuracy.
+Sa madaling salita, kung saan ay walang palagian, maaaring walang katumpakan.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Kapag ang panaginip sa gabi, ay ang ating papanaw na ang mg apatakaran ng "bagay" at "enerhiya" ay nasa palagiang estado ng pagkilos ng bagay - tayo ay hindi tinatablan sa grabidad, at kung tayo ay lilipaf sa likod ng elepante, at sa gayon ay makakalakad tayo sa pamamaggitan ng mga dingding. Ito ay mas hindi imposible na magkaroon ng isang "siyentipikong pisika ng mga panaginip" kaysa sa tumpak na pagpipintura ng ulap.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+Lohika, agham at katotohanan, kung gayon, ay imposible sa kawalan ng *palagian*.
 
 Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
 
