@@ -40,10 +40,10 @@ Bago natin simulan gamitin ang ating balangkas ng unibersidad na mas mabuti sa p
 
 Gamitin ang mga nasa taas "mga pangyayari sa lifeboat," ang konklusyon ay madalas iguhit ng "mabuti" ay simple *kung saan ito ay "mainam" para sa indibidwal na isang buhay ng tao*.
 
-In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
+Ang etikal na mga argumento, kung ako ay tinanong na kung gusto ko kumuha ng mansanas kesa sa sobrang sa gutom para mamatay - at sabihin ko na "oo" - ang mga sumusunod na argumento ay hindi maiiwasang ginawa:
 
-1. Everyone would rather steal an apple than starve to death.
-2. Thus everyone universally prefers stealing apples to death by starvation.
+1. Ang bawat isa ay mas gusto pang magnakaw ng mansanas kesa sa mamaatay sa gutom.
+2. Kaya ang lahat ng nasa unibersidad na mas gusto nilang magnakaw ng mga mansanas dahil sa gutom.
 3. Thus it is *universally preferable* to steal apples rather than starve to death.
 4. Thus survival is universally preferable to property rights.
 5. Thus what is good for the individual is the ultimate moral standard.
