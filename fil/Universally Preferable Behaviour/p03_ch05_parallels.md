@@ -44,9 +44,9 @@ Habang ang siyensya ay nagsimulang gumawa ng batayan sa sansinukob na maaaring p
 
 Kahit anong oras ang sistema na nagbibigay-katwiran ay maaaring mag-akala ng pagtakbo *na wala* ang kapangyarihang ito, lahat ng kumita mula sa pagmamanipula sa kapangyarihan ay sisigaw na kapag wala sila, lahat ay mawawala.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+Ang mga pari gumawa nito na panahon ng pagsisimula ng rebolusyong siyentipiko. Kung walang Diyos, ang buhay ay walang kahulugan. Kung walang Diyos, ang tao ay walang moralidad. Kung walang Diyos, ang ating mga kaluluwa ay hindi maisasalba. Kung walang Diyos, ang mundo ay bababa sa kaguluhan at kasamaan.
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Wala sa mga ito ang lumalabas na totoo, siyempre. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
 
 The fall of God was the rise of mankind.
 
