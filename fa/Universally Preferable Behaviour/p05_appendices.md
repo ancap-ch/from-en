@@ -1,25 +1,25 @@
-# Appendices
+# ضمیمه
 
-## Appendix A: UPB In A Nutshell
+## ضمیمه آ: یو پی ب آ در یک کلام
 
-Below, please find a summation of the core argument for morality.
+لطفا خلاصه ای از آئیننامه اصلی اخلاقیات را که در ذیل آمده است مطالعه بفرمائید.
 
-1. Reality is objective and consistent.
-2. “Logic” is the set of objective and consistent rules derived from the consistency of reality.
-3. Those theories that conform to logic are called “valid.”
-4. Those theories that are confirmed by empirical testing are called “accurate.”
-5. Those theories that are both valid and accurate are called “true.”
-6. “Preferences” are required for life, thought, language and debating.
-7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
-8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
-9. Theories regarding UPB must pass the tests of logical consistency and empirical verification.
-10. The subset of UPB that examines enforceable behaviour is called “morality.”
-11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
-12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
+1. واقعیت عینی و نامتناقض است.
+2. "منطق" مجموعه ای از قوانین عینی و نامتناقض است که از انسجام واقعیت حاصل می شود.
+3. تئوری های منطبق با منطق "معتبر" نامیده می شود.
+4. تئوری هایی که توسط آزمایش های تجربی تایید می شوند، "دقیق" نامیده می شوند.
+5. تئوری هایی که معتبر و دقیق هستند، "صحیح" نامیده می شوند.
+6.  "اولویت ها" برای زندگی، تفکر، تکلم و مباحثه است.
+7. بحث نیاز به این دارد که هر دو طرف "حقیقت" را در نظر بگیرند تا بی طرف و عامه پسند باشند.
+8. بنابراین بسیاری از انواع بحث ها مشمول رفتار مطلوب جهانی (یو پی بی) می شود.
+9. تئوری های مربوط به یو پی بی باید آزمون های سازگاری منطقی و تایید تجربی را سپری کنند.
+10. زیر مجموعه یو پی بی که رفتار قابل اجرا را بررسی می کند، "اخلاق" است.
+11. به عنوان زیرمجموعه ی یو پی بی، هیچ نظریه ی اخلاقی نمی تواند در صورت غیرمنطقی بودن یا عدم تایید شواهد تجربی، درست باشد.
+12. نظریه های اخلاقی که توسط منطق و شواهد پشتیبانی می شوند، درست است. تمام نظریات اخلاقی دیگر نادرست است.
 
-## Appendix B: Moral Categories
+## ضمیمه بی: دسته های اخلاقی
 
-Below is a sample table that lists some of the most common categories of actions/rules, and their key differentiators.
+در زیر یک جدول نمونه شامل لیستی از شایع ترین دسته های اقدامات / قوانین و تفاوت های کلیدی آنها. موجود است.
 
 | Action/Rule                       | Preference? | Universal? | Enforceable? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                |
 | --------------------------------- | ----------- | ---------- | ------------ | ----------------------------------------------------- | ------------------------- | ----------------------------- |
@@ -29,9 +29,9 @@ Below is a sample table that lists some of the most common categories of actions
 | **You should not commit fraud**   | Yes         | Yes        | Yes          | Yes                                                   | Yes                       | Good                          |
 | **You should not rape**           | Yes         | Yes        | Yes          | No                                                    | No                        | Good                          |
 
-## Appendix C: UPB Podcasts
+## ضمیمه سی: پادکست یو پی بی
 
-If you would like to further your understanding of UPB and its ramifications, you might find the following podcasts (available [here](www.freedomainradio.com)) helpful. You may also wish to watch the “Introduction to Philosophy” videos, available on [Youtube](www.youtube.com/freedomainradio).
+اگر شما مایل به فهمیدن بیشتر از دانسته هایتان در مورد یو پی بی و تأثیرات آن هستید، می توانید پادکست های زیر را ببینید در دسترس است (اینجا ((www.freedomainradio.com)مفید است. همچنین ممکن است بخواهید ویدیوهای «مقدمه ای بر فلسفه» را که در یوتیوب (www.youtube.com/freedomainradio)  موجود است را تماشا کنید.
 
 | Track | Title                                                         | Description                                                                                                                                                                                                        |
 | -----:|:------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -52,9 +52,9 @@ If you would like to further your understanding of UPB and its ramifications, yo
 |   588 | Positive Obligations - An Example                             | An excellent critique of one of my articles.                                                                                                                                                                       |
 |   816 | Tennis Anyone?                                                | A metaphor for moral action.                                                                                                                                                                                       |
 
-Finally, if you would like to debate these ideas with other interested philosophers, feel free drop by the [Freedomain Radio Message Board](www.freedomainradio.com/board).
+در نهایت، اگر می خواهید در مورد این ایده ها با سایر فیلسوفان علاقه مند بحث کنید، می توانید آزادانه از طریق انجمن پیام های راديو دامنه های آزاد (www.freedomainradio.com/board)  اینکار را انجام دهید.
 
-## Appendix D: Every UPB Debate I've Ever Had...
+## ضمیمه دی: بحث یو پی بی که من تا به حال داشتم ... 
 
 **UPB Sceptic**: UPB is invalid. **Me**: How do you know? **UPB Sceptic**: It's not proven! **Me**: So “proof” is UPB? **UPB Sceptic**: No, nothing is UPB. **Me**: Isn't the statement "nothing is UPB" UPB? **UPB Sceptic**: No, that's not what I'm saying at all! I'm saying that UPB is invalid! **Me**: Why? **UPB Sceptic**: Because it's false! **Me**: So presenting true arguments is UPB? **UPB Sceptic**: No! **Me**: So there's nothing wrong with false arguments? **UPB Sceptic**: No. **Me**: Then why are you opposing a false argument? **UPB Sceptic**: Oh, it's just my personal preference. I just dislike falsehood. **Me**: So you're arguing for a merely personal preference? **UPB Sceptic**: Sure! **Me**: So why should your personal preference take precedence over mine? I like UPB, you don't – and why bother debating personal preferences at all? **UPB Sceptic**: Oh - because UPB is invalid! **Me**: Why is it invalid? **UPB Sceptic**: Because it's self-contradictory! **Me**: So consistency is UPB? **UPB Sceptic**: No! And stop repeating the same points over and over! And go read Kant / Hegel / Hume etc.
 
