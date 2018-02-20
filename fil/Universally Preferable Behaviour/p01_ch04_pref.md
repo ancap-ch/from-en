@@ -8,11 +8,11 @@ Sa ganitong kahulugan,"higit na mabuti"ay hindi nangangahulugan na "parang mas m
 
 Nang katulad, ang teoryang etikal ay maaaring maging balido, pagkatapos ay kailangan nila *kahit papano* na maging parehong panloob at panlabas na katugon. Sa madaling salita, isang etikal na teorya ang sumasalungat sa kanyang sarili ay hindi maaaring balido - at isang etikal na teorya na sumasalungat sa ebidensya at malapit na lahatan - kagustuhan at hindi maaaring maging balido.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Gayun sa etika, tulad ng sa siyensya, ang matematika at lahat ng iba pang disiplina na naghambing ng mga teorya sa realidad, *balidong* mga teorya ay kailangang parehong kasang-ayon lohikal at nagpapatunay.
 
-### Preferences And Existence
+### Mga kagustuhan at pag-iral
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+Kapag sinabi ko na "gusto ko ng sorbetes," isang salita lamang ang mananatiling malabo sa pangungusap na iyon. Malinaw na "ako" ay umiiral, dahil ako ay nagpapahayag ng pansariling kagustuhan. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
 
 Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
 
