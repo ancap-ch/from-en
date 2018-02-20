@@ -10,7 +10,7 @@ Para gumawa ng walang katotohanang halimbawa, isipin natin na sinusuri namin ang
 
 Napakalinaw, na kung ipahayag ko na ang "X" ay "mabuti," ang kabaligtaran ng "X" ay dapat na masama. Kapag ang *ay hindi panghahalay* ay mabuti, pagkatapos ang *panghahalay* ay sa masama. Sa kabaliktaran nito, kapang ang *na panghahalay* ay mabuti, pagkatapos ang *ay hindi panghahalay sa*ay masama.
 
-Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
+Ang panghahalay sa isang tao ay isang positibong aksyon na dapat sinimulan, maisagawa, at pagkatapos ay kompletohin. Kapag ang "panghahalay" ay isang moral na kabutihan, at ang "hindi panghahalay" ay dapat na isang moral na kasamaan – kaya imposible sa dalawang tao sa isang solong kuwarto na* maging magkaparehong moral sa magkaparehong oras*, dahil isa lamang sa mga ito ay pwedeng maging manghahalay sa anumang naibigay na sandali – at maaari lamang maging manghahalay kapag ang ibang tao ay nagiging biktima niya.
 
 That which enables virtue cannot be evil. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
 
