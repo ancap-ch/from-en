@@ -14,9 +14,9 @@ Gayun sa etika, tulad ng sa siyensya, ang matematika at lahat ng iba pang disipl
 
 Kapag sinabi ko na "gusto ko ng sorbetes," isang salita lamang ang mananatiling malabo sa pangungusap na iyon. Malinaw na "ako" ay umiiral, dahil ako ay nagpapahayag ng pansariling kagustuhan. Parehong malinaw,"Ang sorbetes" ay umiiral din sa realidad. Gayunman, ang salitang "gaya" ay mas problemado.
 
-Ang mga kagustuhan ay hindi umiiral sa loob ng realidad. Kung ikaw ay masyadong mausisa, maaari mo siguro akong sundan at itala ang tuwing kakain ako ng sorbetes, kung saan marahil ay magbigay ng mabuting basehan para sa pagtaguyod ng aking kagustuhan para doon. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Ang mga kagustuhan ay hindi umiiral sa loob ng realidad. Kung ikaw ay masyadong mausisa, maaari mo siguro akong sundan at itala ang tuwing kakain ako ng sorbetes, kung saan marahil ay magbigay ng mabuting basehan para sa pagtaguyod ng aking kagustuhan para doon. Ang posibilidad ay maaaring umiiral, gayunman, na ako sa katunayan ay masokista, at matinding ayaw ng sorbetes, at mas gustong pahirapan ang aking sarili sa hindi kanais-nais na lasa nito - at lituhin ka sa pagsasabi na gusto ko ito.
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+Makakakita tayo ng *ebidensya* para sa kagustuhan; hindi tayo makakita ng kagustuhan *mismo* sa katotohanan. Ang kagustuhan ay umiiral bilang isang *relasyon* sa pagitan ng kamalayan at mga bagay, gaya ng ang grabidad ay umiiral bilang relasyon sa pagitan ng mga katawan ng masa.
 
 Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
 
