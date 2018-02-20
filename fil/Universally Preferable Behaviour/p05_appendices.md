@@ -9,8 +9,8 @@ Sa ilalim, pakisausap hanapin ang pangunahing pagbubuod para sa moradlidad.
 3. Ang mga sumusunod na teyorya sa lohika na tinaguriang "balido."
 4. Ang mga teyorya na nakumpimado ng empirical testing ay tinawag na "wasto."
 5. Ang mga teyorya ay parehas na balido at wasto na tinawag na "tunay."
-6. “Preferences” are required for life, thought, language and debating.
-7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
+6. "ang mga kagustuhan" ang kailangan para sa buhay, ideya, lenggwahe at pagdedebate.
+7. Ang mga pagdedebati ay kailangan sa parehong hawak ng partido "totoo" para parehas na maging obhetibo at sa panglahatang kanais-nais.
 8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
 9. Theories regarding UPB must pass the tests of logical consistency and empirical verification.
 10. The subset of UPB that examines enforceable behaviour is called “morality.”
