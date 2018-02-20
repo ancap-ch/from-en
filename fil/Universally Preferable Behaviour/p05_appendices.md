@@ -15,9 +15,9 @@ Sa ilalim, pakisausap hanapin ang pangunahing pagbubuod para sa moradlidad.
 9. Ang tungkol sa mga teyorya ng UPB ay kailangan na maipasa ang mga pagsusulit ng lohikal na pagbabago at pagpapatunay ng epirikal.
 10. Ang UPB ng subset na nagsusuri sa isasakatuparan ng pag-uugali ay tinawag na "moralidad."
 11. Bilang subset ng UPB, walang teyorya ng moral na pwedeng konsidirahin na totoo kung ito ay lohikal o hindi suportado ng empirical na ebedensya.
-12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
+12. Ang mga moral na teyorya ay inaalalayan ng lohika at ang mga ibebidensya ay totoo. lahat ng iba pang moral na mga teyorya ay hindi tama.
 
-## Appendix B: Moral Categories
+## Apendiks B: ang mga kategorya ng moral
 
 Below is a sample table that lists some of the most common categories of actions/rules, and their key differentiators.
 
