@@ -76,9 +76,9 @@ Kaya binibigyan tayo ng UPB ng malinaw na mga opsyon tungkol sa mga karapatan sa
 
 Hindi rin ito maaaring maging kaso na ang mga tao ay may tanging limampung porsiyento ng mga karapatan sa pag-aari.
 
-Kung makikipagtalo ako: “Ang mga lalaki ay may limampung porsiyento lamang sa mga karapatan sa pag-aari,” pagkatapos ay lumikha ako ng isa pang hindi malulutas na kontradiksyon. Maaari mo ring tanungin sa akin kung alin ang kalahati ng aking pangungusap ay *hindi* na binuo ko. Kung mayroon akong limampung porsiyento ng mga karapatan sa pag-aari, pagkatapos ay malinaw na mayroon akong limampung porsyentong kontrol sa aking sariling katawan – kung isulong ko ang pangungusap sa itaas, pagkatapos ay malinaw na ako lamang ang may kontrol sa limampung porsiyento ng pangungusap na iyon, yamang mayroon akong limampung porsiyentong kontrol sa aking boses. Who, then, is responsible for the other fifty percent of my sentence?
+Kung makikipagtalo ako: “Ang mga lalaki ay may limampung porsiyento lamang sa mga karapatan sa pag-aari,” pagkatapos ay lumikha ako ng isa pang hindi malulutas na kontradiksyon. Maaari mo ring tanungin sa akin kung alin ang kalahati ng aking pangungusap ay *hindi* na binuo ko. Kung mayroon akong limampung porsiyento ng mga karapatan sa pag-aari, pagkatapos ay malinaw na mayroon akong limampung porsyentong kontrol sa aking sariling katawan – kung isulong ko ang pangungusap sa itaas, pagkatapos ay malinaw na ako lamang ang may kontrol sa limampung porsiyento ng pangungusap na iyon, yamang mayroon akong limampung porsiyentong kontrol sa aking boses. Sino, kung gayon, ang responsable para sa iba pang limampung porsyento ng aking pangungusap?
 
-This may sound esoteric, but it is a deadly serious question, for reasons that we will get to shortly.
+Ito ay maaaring tunog ng pribado, ngunit ito ay isang nakamamatay na seryosong tanong, para sa mga kadahilanang makukuha namin sa ilang sandali.
 
 Let us say that we can somehow magically bypass the “fifty percent ownership of the body” problem, and say that human beings only have fifty percent property rights when it comes to *external* objects.
 
