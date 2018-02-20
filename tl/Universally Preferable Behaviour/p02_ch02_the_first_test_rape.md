@@ -120,15 +120,15 @@ Alin sa mga dahon lang…
 
 Kapag ang panghahalay ay tinukoy bilang isang kasamaan, dapat itong masangkot sa * pagsisimula * ng paggamit ng lakas, na malinaw na pagsasagawa nito. Gayundin, na ang panukala: "ang panghahalay ay kasamaan," ay pumasa sa "pagsusulit na koma,"kaya naman imposible para sa isang tao na magkagulo sa panghahalay.
 
-In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
+Bilang karagdagan, kung ang panggagahasa ay masama, kung gayon *hindi*Ang panghahalay ay dapat maging mabuti - sa ganitong paraan, ang dalawang lalaki sa isang silid ay pwedeng magkaroon ng parehong moral sa parehong oras, sa pamamagitan lang ng hindi paghalay sa isa't isa.
 
-Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
+Dahil sa pag-iwas ay isa sa mga pangunahing pagkakaiba sa pagitan ng "hindi kanais-nais" at "imoral," at ang panghahalaya ay malinaw na isang hindi maiiwasang pag-uugali, na ang kahulugan ng "panghahalay bilang kasamaan" ay sumusunod din sa pagkakaiba.
 
-Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
+Gayundin, na dahil may mga pagkakataong imposible na ang pisikal na panghahalay sa isang tao - halimbawa, kapag ang isang pagtayo ay hindi maabot - ang kahulugan ng "panghahalay bilang kasamaan" ay maglulutas sa problema ng mga tao na walang kinalaman na imoral, na mga impormasyong imposible, dahil sa ang panuntuna ng pag-iwas.
 
-The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+Pwedeng bigyan ng-katwiran ng magnhahalay ang kanyang mga aksyon sa pamamagitan ng pag-iwas sa mga panukala na "panghahalay ay mabuti," at sa halip ay pagpapalit ng isa pang panukala na nagbibigay suporta sa kanyang pagnanais na panghahalay gaya ng: "Moral na gawain ng sariling kasiyahan, anuman ang kawalan ng-kasiyahan ng iba."
 
-This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+Ang mga usaping ito ay nabigo rin sa pinakasimpleng lohikal na pagsubok ng UPB. Kung naniniwala si Bob na ang dapat niyang gawin ay ang kanyang pansariling kasiyahan sa pamamagitan ng pag-apak kay Doug - anuman ang pagkamuhi ni Doug - pagkatapos ay hindi maituturo ni Bob ang dahilan ng kanyang mga kagustuhan sa isang UPB.
 
 If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
 
