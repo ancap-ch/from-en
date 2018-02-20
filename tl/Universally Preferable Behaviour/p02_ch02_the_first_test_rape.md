@@ -1,6 +1,6 @@
-## The First Test: Rape
+## Ang Unang Pagsubok: Sa paggahasa
 
-Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
+Kahit na ito ay hindi katanggap-tanggap na paksa para pag-usapan, ang panggagahasa ay walang alinlangan ang*ay hindi bababa sa* hindi sigurado na pag-aksyon sa anumang moral na teyorya ay dapat mapaligiran. Ang paslang ay pwedeng kumplikado sa pamamagitan ng pagtatanggol sa sarili; ang pagnanakaw sa pamamagitan ng suliranin ng gutom o "ang pagnanakaw" –ngunit hindi pwedeng maglutas sa pagtatanggol sa sarili; ito ay sa pamamagitan ng tunay na kahulugan ng pagsisimula ng pag-atake.
 
 Let us then use the UPB framework to examine the logical consistency of ethical propositions regarding rape, with reference to these seven moral categories.
 
