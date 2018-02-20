@@ -2,9 +2,9 @@
 
 # انتباہ-شراکت 4.0 بین الاقوامی
 
-تخلیقی العام سند يافتہ ادارہ ("تخلیقی العام") قانونی فرم نہیں ہے اور قانونی خدمات یا قانونی مشورہ فراہم نہیں کرتی ہے. تخلیقی العام عوامی لائسنس کی تقسیم کسی وکیل کلائنٹ یا دوسرے رشتے کو نہیں بناتا ہے. تخلیقی العام اس لائسنس کو بناتا ہے اور متعلقہ معلومات کو "کے طور پر ۔ ہے" بنیاد پر دستیاب کرتا ہے. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+تخلیقی العام سند يافتہ ادارہ ("تخلیقی العام") قانونی فرم نہیں ہے اور قانونی خدمات یا قانونی مشورہ فراہم نہیں کرتی ہے. تخلیقی العام عوامی لائسنس کی تقسیم کسی وکیل کلائنٹ یا دوسرے رشتے کو نہیں بناتا ہے. تخلیقی العام اس لائسنس کو بناتا ہے اور متعلقہ معلومات کو "کے طور پر ۔ ہے" بنیاد پر دستیاب کرتا ہے. تخلیقی العام اس کے لائسنس کے حوالے سے کوئی وارنٹی فراہم نہیں کرتا ہے، ان کے شرائط و ضوابط کے تحت لائسنس یافتہ مواد ہو، یا کوۂی بھی متعلق معلومات ہو. تخلیقی العام ممکنہ حد تک ان کے استعمال کے نتیجے میں نقصانات کے لۓ تمام ذمہ داری کو مسترد کرتا ہے.
 
-### Using Creative Commons Public Licenses
+### تخلیقی العام پبلک لائسنس کا استعمال کر رہیں ہیں
 
 Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
 
