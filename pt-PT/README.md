@@ -3,7 +3,7 @@
 
 ---
 
-Title: Economics and Ethics of Private Property  
+# Economics and Ethics of Private Property    
 Proofreaders:   
 Platform: **Github**  
 Last generated:  
@@ -56,7 +56,7 @@ Last generated:
 
 ---
 
-Title: Higher Costs Dont Mean Higher Prices  
+# Higher Costs Dont Mean Higher Prices    
 Proofreaders:   
 Platform: **Github**  
 Last generated:  
@@ -72,7 +72,7 @@ Last generated:
 
 ---
 
-Title: Libertarianism and the Alt-Right  
+# Libertarianism and the Alt-Right    
 Proofreaders:   
 Platform: **Github**  
 Last generated:  
@@ -89,7 +89,7 @@ Last generated:
 
 ---
 
-Title: The Myth of National Defense  
+# The Myth of National Defense    
 Proofreaders:   
 Platform: **Github**  
 Last generated:  
@@ -107,7 +107,7 @@ Last generated:
 
 ---
 
-Title: Universally Preferable Behaviour  
+# Universally Preferable Behaviour    
 Proofreaders:   
 Platform: **Github**  
 Last generated:  

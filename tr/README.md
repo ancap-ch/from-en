@@ -3,10 +3,10 @@
 
 ---
 
-Title: Economics and Ethics of Private Property  
+# Economics and Ethics of Private Property    
 Proofreaders:   
 Platform: **Github**  
-Last generated:  
+Last generated: [ALL](https://drive.google.com/open?id=1Rl4pqE6o9x6F8T61GppthSlEqXnZkXMY) / [PDF](https://drive.google.com/open?id=1pPQH03K3zkStj53yJAvOvDoEt8WXVhl7)    
 
 <details>
   <summary>Progress and contributors</summary>
@@ -56,10 +56,10 @@ Last generated:
 
 ---
 
-Title: Higher Costs Dont Mean Higher Prices  
+# Higher Costs Dont Mean Higher Prices    
 Proofreaders:   
 Platform: **Github**  
-Last generated:  
+Last generated: [ALL](https://drive.google.com/open?id=1tiPXGeLA8b-DhcieWFJHAYtBdniMAOPw) / [PDF](https://drive.google.com/open?id=1N3GibdC5t4KdSmAx_zPn_Mhm6rcWgam_)    
 
 <details>
   <summary>Progress and contributors</summary>
@@ -72,10 +72,10 @@ Last generated:
 
 ---
 
-Title: Libertarianism and the Alt-Right  
+# Libertarianism and the Alt-Right    
 Proofreaders:   
 Platform: **Github**  
-Last generated:  
+Last generated: [ALL](https://drive.google.com/open?id=1QGO1V-I1DLy3pxTUhBZjb0QNnfiy1H96) / [PDF](https://drive.google.com/open?id=1TI7B9aJDanBLDz118fH94-xqTUVqC_om)    
 
 <details>
   <summary>Progress and contributors</summary>
@@ -89,10 +89,10 @@ Last generated:
 
 ---
 
-Title: The Myth of National Defense  
+# The Myth of National Defense    
 Proofreaders:   
 Platform: **Github**  
-Last generated:  
+Last generated: [ALL](https://drive.google.com/open?id=1qcRGIbzbaHLyUy24Iy3mlZBLWmZ9cFiV) / [PDF](https://drive.google.com/open?id=1mKnB55Ul3gnAwyTDDBJiuwGNLF-rs9MP)  
 
 <details>
   <summary>Progress and contributors</summary>
@@ -107,10 +107,10 @@ Last generated:
 
 ---
 
-Title: Universally Preferable Behaviour  
+# Universally Preferable Behaviour    
 Proofreaders:   
 Platform: **Github**  
-Last generated:  
+Last generated: [ALL](https://drive.google.com/open?id=18zi-_M8Dz6nev7ditKY1PM3iU11CPyfB) / [PDF](https://drive.google.com/open?id=1YTFT2-a0QDnXA7_WwoCjeVcnlg-MkgMd)  
 
 <details>
   <summary>Progress and contributors</summary>

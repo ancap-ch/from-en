@@ -1,50 +1,42 @@
-## Preferences
+## Mga Kagustuhan
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Karon nga kita nakasabot na sa kinaiyahan sa mga argumento nga makapapildi sa kaugalingon, mobalhin na kita ngadto sa pangutana sa mga kagustuhan.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Ang mga kagustuhan mao ang sentro sa bisan unsa nga pamaagi nga nag-angkon nga mingpasabot sa tinuod nga bili sa mga proposisyon. Ang pamaagi nga siyentipiko, pananglitan, kay gipasabot og maayo pinaagi sa tiunay nga mga kagustuhan alang sa makatarunganon nga pagmakanunayon ug pagsuta nga empirikal. Alang sa siyensya, ang gibasihan kay: *kung* gusto nimo nga makadeterminar og balido nga kamatuoran kabahin sa linihokan sa butang ug enerhiya, kini kay *labing nagustuhan* nga gamiton sa pamaagi nga siyentipiko.
+Sa niini nga pagbati, “labing nagustuhan” wala nagpasabot nga “matang nga arang-arang,” pero hinoon “gikinahanglan.” *Kung* gusto nakong mabuhi, kini mao ang *labing nagustuhan nga malukpanon kaayo* nga magdumili gikan sa pagkaon sa usa ka hakop nga arseniko. *Kung* gusto ka nga makadeterminar sa mga kamatuoran nga balido kabahin sa reyalidad, kini mao ang *labing nagustuhan nga malukpanon kaayo* nga ang imoha nga mga teorya kay mahimong duha nga sa sulod nga kanunay ug mapamatud-an sa empirikal. “Labing nagustuhan nga malukpanon kaayo,” unya , minghubad ngadto sa “gikatuyoan nga gikinahanglan,” pero mohawid kita sa pulong nga “labing nagustuhan” aron sa ilahi-lahi ang tali sa mapili nga katinud-anon sa tawo ug dili mapili nga katinud-anon sa pisika sama sa grabidad.
+Sa susama, kung ang mga teorya nga pang-etika kay pwede nga mamahimo sa tanan nga balido, unya sila kinahanglang og *labing menos* nga duha nga pang-sulod ug pang-gawas nga pagkanunay. Sa lain nga mga pulong, ang usa ka teorya nga pang-etika nga mingsukwahi sa kaugalingon kay dili pwede mamahimo nga balido – ug ang usa ka teorya nga pang-etika nga mingsukwahi sa ebidensya nga empirikal ug sa duol sa malukpanon nga mga nagustuhan dili sa pwede nga mamahimo nga balido.
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+Busa sa etika, sa ingon sad ngadto sa siyensiya, matematika, inhenyiriya ug tanan nga uban pa nga mga disiplina nga makompara sa mga teorya sa reyalidad, *ang mga teorya nga balido kinahanglan nga sa duha nga kanunay nga makatarunganon ug pang-empirikal nga masusi.* 
+### Mga Kagustuhan ug Paglungtad
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+Kung ako mosulti mga “Ganahan ko og sorbete,” usa lang ka pulong ang nagpabili nga walay klaro sa kato nga hugpulong. Klaro man nga “Ako” anaa, tungod kay ako mingsitar sa ako nga kaugalingong nagustuhan. Parehas kaayo nga klaro, ang “sorbete” anaa sab sa reyalidad. Bisan pa niana, ang pulong nga “ganahan” kay labaw pa nga problemado.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*. 
+Ang mga nagustuhan sa tinuod wala minglungtad sa sulod sa reyalidad. Kung ikaw nasobraan sa pagkakuryoso, makahimo tingala ka nga mosunod kanako bisan asa ug motala sa matag higayon nga ako mokaon og sorbete, nga makahimo tingali og hatag og usa ka maayo nga basihan sa empirikal alang sa pag-establisar sa akong nagustuhan alang niina. Ang posibilidad nga minglungtad, bisan pa niana, ang ako sa pagkatinuod usa ka masokista, ug hugtanon nga wala ganahi og sorbete, ug ganahan nga tortyuron ang kaugalingon uban sa niini nga dili maayo og lasa – ug unya maglibog ka nga moangkon nga ganahan ka niana. 
+Makakita kita og *ebidensya* alang sa mga kagustuhan: nga sa reyalidad dili makahimo nga makakita og kagustuhan sa *kaugalingon*.  Ang kagustuhan minglungtad isip usa ka *relasyon* tali sa pagkamasusihon ug butang, sa ingon sa paglungtad sa grabidad isip relasyon tali sa bugon sa mga butang.
 
-### Preferences And Existence
+Sa paglikay sa mga makahagit nga pangutana sa gawasnon nga kagustuhan batok sa determinismo, kini mao ang rasonable nga maka-asumir nga kung bisan unsa nga gibuhat sa tawo sa pagkakaron mao ang iyaha nga “gusto” nga buhaton. Kung ako nibangon ug mipatubang sa trabaho, unya klaro kaayo nga *gusto* kato nako buhaton, sa ingon sa mingsukwahi sa tanan nga uban nga mga alternatibo. Bisan pa og wala ko ganahi sa akong trabaho, klaro kaayo nga wala ko ganahi niini nga *dili* kaayo, butang ta, pagkawalay sensilyo.
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+Sa gihatag na nga ang mga linalang nga tawo kay makahimo nga mobuhat og duol sa way katapusan nga klase sa mga aksyon, bisan unsa nga gibuhat sa usa ka tawo sa pagkakaron kay napilian gawas sa tanan nga uban nga mga posible nga pilianan. Ningpili ko nga suwaton ning libroha kay sa, butang ta lang, magkat-on kung unsaon ang tango.
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Kung kita modapat niini nga sayon nga kamatuoran ngadto sa mga argumento nga pang-etika,  kita nakasabot uban sa pipila ka mga makaikag kaayo nga mga resulta.
+### Mga Kagustuhan Ug Mga Argumento
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+Paghinumdom sa atong naa sa ibabaw nga pagsusi sa mga argumento nga makapapildi sa kaugalingon, dali ra kaayo kita nga makasabot sa sukwahi nga kinaiyahan sa pamahayag nga: “wala minglungtad ang mga kagustuhan.” Sa gihatag nga ang matag aksyon sa tawo – uban na ang paggama og mga pamahayag nga pang-pilosopoya – nga napilian sa kagustuhan sa matag lain nga posible nga aksyon, paglalis nga ang mga kagustuhan wala minglungtad nanginahanglan nga usa ka *kagustuhan* alang sa pakiglalis nga ang mga kagustuhan wala minglungtad, nga usa pamahayag nga mingsukwahi sa kaugalingon. Ang pakiglalis nga ang walay mga kagustuhan ang nilungtad kay sakto kaayo nga sama sa pakiglalis nga walay pinulongan ang nilungtad. Mao kini usa ka labing hingpit nga argumento nga makapapildi sa kaugalingon.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Tungod kini kay imposible nga makalihok nga wala nagpadayag og kagustuhan – kini man masugyot o tino kana kaayo – ang bisan kinsa nga makalihok ang midawat sa gibasihan nga aduna gyuy mga kagustugan. Busa imposible kini nga malantugi nga ang paglungtad sa mga kagustuhan nga wala midawat sa paglungtad sa mga kagustuhan.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+### Mga Kagustuhan Ug Pagkamalukpanon
+Ang sunod nga pangutana busa nahimo nga: ang mga kagustuhan putli kaayo nga pagahilisgotan, o mahimo nga sila nga malukpanon?
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+Tataw kaayo, nga pipila ka mga kagustuhan kay pagahilisgotan. Ang giganahan sa pangtukar, mga kalingawan sa kaugalingon, mga paborito nga kapanulatan ug uban pa kay tanan pagahilisgotan ug mga kaugalingon nga kagustuhan.
+Ang hagit mingtumaw sa diha kita mingsuway og pagpasabot sa pipila ka mga kagustuhan isip *katuyoan*.
 
-### Preferences And Arguments
+Ang proposisyon atubangan kanato kay busa: *makahimo ba ang pipila ka mga kagustuhan nga katuyoan, pananglitan malukpanon?*
+Sa diha nga mosulti ko nga pipila  ka mga kagustuhan nga pwede nga mahimo nga katuyoan, wala ko nagpasabot nga ang tanan nga tawo nga sa  tanan nga mga higayon mingsunod sa niini nga mga kagustuhan. Kung ako ang palalison nga ang *pagginhawa* kay usa ka katuyoan nga kagustuhan, dali ra kaayo ko maparangan pinaagi sa pananglitan nga kadtong nakabuhat nga naghikog pinaagi sa pagbitay sa ilaha nga mga kaugalingon. Kung ako ang palalison nga ang mokaon kay usa ka katuyoan nga kagustuhan, ang akong argumento kay maparangan sa mga pananglit nga mga welga sa pagpagutom ug kawad-on sa gana.
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Busa sa diha nga molitok ko kabahin sa mga kagustuhan nga malukpanon, naglitok ko kabahin sa unsa ang *kinahanglan* nga gustuhan sa tawo, dili ang unsa nga kanunay nila nga nagustuhan nga *gihimo*. Aron sa paggamit og kaparehas nga siyentipiko, aron sa tinuod kaayo nga pagsabot sa uniberso, ang tawo *kinahanglan* nga mogamit og pamaagi nga siyentipiko – wala kini nagpasabot nga sila kanunay nga nibuhat ato, tungod kay mga binilyon ka mga tawo ang mingkonsultar sa kinaraan nga mga sugilanon nga engkantohanon kay sa moderno nga siyensya alang sa “mga tubag.” Walay pamaagi nga makab-ot ang kamatuoran  kabahin sa uniberso nga wala ang siyensya, pero ang katawhan kay perpekto kaayo nga gawasnon nga makasabot og balik sa “kamatuoran” isip “sayop,” ug kontento na sa ilaha nga mga kaugalingon uban sa walay pulos nga pagka-misteryoso.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
-
-### Preferences And Universality
-
-The next question thus becomes: are preferences purely subjective, or can they be universal?
-
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
-
-The challenge arises when we try to define some preferences as *objective*.
-
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
-
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
-
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
-
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+Sa susama, kung ang tawo gusto nga tambalan ang usa ka impeksyon, *kinahanglan* niya nga motumar og mga antibayotik kay sa pagbuhat og usa ka bayle alang sa uwan sa Aztec. Ang kagustuhan alang sa pagtumar og mga antibayotik kay sa pagbuhat og bayle alang sa uwan kay malukpanon, tungod kay ang pagbayle dili makahimo nga makatambal sa mga impeksyon. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
 
 In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid. 
 

@@ -22,8 +22,8 @@ Maintenant: Quelle est la relation entre libertaire et de l'Alt-Droit et mes rai
 
 1. How to maintain a libertarian order once achieved;
 2. How to attain a libertarian order from a non-libertarian starting point, which requires: 
-    1. That one must correctly describe this starting point;
-    2. Correctly identify the obstacles posed in the way of one’s libertarian ends by this very starting point.
+::::1. That one must correctly describe this starting point;
+::::2. Correctly identify the obstacles posed in the way of one’s libertarian ends by this very starting point.
 
 To answer these questions, in addition to theory, you also need some knowledge of human psychology and sociology or at least a modicum of common sense. Yet many libertarians and fake libertarians are plain ignorant of human psychology and sociology or even devoid of any common sense. They blindly accept, against all empirical evidence, an egalitarian, blank-slate view of human nature, of all people and all societies and cultures being essentially equal and interchangeable.
 
@@ -42,7 +42,6 @@ Compte tenu de l'absence de tout fondement théorique, cette scission de l'Alt-D
 To illustrate the importance of such insights, let me take the first unanswered question first.
 
 De nombreux libertaires point de vue, tout ce qui est nécessaire pour maintenir un libertaire de l'ordre social est l'application stricte de la non-agression principe (NAP). Sinon, tant que l'on s'abstienne de l'agression, selon leur point de vue, le principe de “vivre et laisser vivre” devrait tenir. Mais sûrement, alors que ce “vivre et laisser vivre” semble attrayante pour les adolescents en révolte contre l'autorité parentale et de toute convention sociale et de contrôle[^16], et bien que le principe, en effet, de tenir et de s'appliquer pour les personnes vivant loin et à traiter les uns avec les autres qu'indirectement, et de loin, il ne *pas* de tenir et de les appliquer, ou plutôt elle est *pas*, quand il s'agit de personnes qui vivent à proximité les uns des autres, comme les voisins et les concubins de la même communauté.
-
 
 Un simple exemple suffit à en faire le point. Assumer un nouveau voisin d'à côté. Ce voisin n'a pas l'agressivité contre vous ou vos biens, en aucune façon, mais il est un “mauvais” voisin. Il est l'abandon de détritus sur sa propre propriété voisine, en la transformant en un tas d'ordures; dans l'ouvert, à vous de voir, il s'engage dans l'abattage rituel, il transforme sa maison en un “Freudenhaus,” un bordel, avec des clients qui vont et viennent toute la journée et toute la nuit; il n'a jamais propose un coup de main et ne jamais tient la promesse qu'il a faite; il ne peut pas ou bien il refuse de parler de vous dans votre propre langue. Etc., etc.. Votre vie est transformé en un cauchemar. Pourtant, vous ne pouvez pas utiliser la violence contre lui, parce qu'il n'a pas agressé contre vous. Que pouvez-vous faire? Vous pouvez shun et frappent d'ostracisme lui. Mais votre voisin n'a pas de soins, et en tout cas vous seul donc ‘punir’ lui fait peu de différence pour lui. Vous devez avoir de l'communal de respect et d'autorité, ou vous devez vous tourner vers quelqu'un qui ne, de persuader et de convaincre tout le monde, ou au moins la plupart des membres de votre communauté à faire de même et de faire le mauvais voisin un paria social, de manière à exercer suffisamment de pression sur lui pour vendre sa propriété et de laisser.
 
@@ -69,8 +68,8 @@ Outside egalitarian phantasy lands, however, in the real world, libertarians mus
 They are:
 
 1. The ruling elites in control of the State apparatus and in particular the “Deep State” or the so-called “Cathedral” of the military, the secret services, the central banks and the supreme courts. As well, they include: 
-    1. The leaders of the military-industrial complex, i.e., of nominally private firms that owe their very existence to the State as the exclusive or dominant buyer of their products;
-    2. The leaders of the big commercial banks, which owe their privilege of creating money and credit out of thin air to the existence of the central bank and its role as a “lender of last resort”. They together, then, State, Big-Business and Big-Banking, form an extremely powerful even if tiny “mutual admiration society,” jointly ripping off the huge mass of tax-payers and living it up big time at their expense.
+::::1. The leaders of the military-industrial complex, i.e., of nominally private firms that owe their very existence to the State as the exclusive or dominant buyer of their products;
+::::2. The leaders of the big commercial banks, which owe their privilege of creating money and credit out of thin air to the existence of the central bank and its role as a “lender of last resort”. They together, then, State, Big-Business and Big-Banking, form an extremely powerful even if tiny “mutual admiration society,” jointly ripping off the huge mass of tax-payers and living it up big time at their expense.
 2. ([A] much larger group of enemies is made up of) the intellectuals, educators and “educrats,” from the highest levels of academia down to the level of elementary schools and kindergartens. Funded almost exclusively, whether directly or indirectly, by the State, they, in their overwhelming majority, have become the soft tools and willing executioners in the hands of the ruling elite and its designs for absolute power and total control.
 3. The journalists of the MSM, as the docile products of the system of “public education,” and the craven recipients and popularizers of government “information.”
 
@@ -158,6 +157,9 @@ Just as *academia* and the academic world cannot be expected to play any signifi
 [^15]: An endeavor, by the way, that has been ridiculed by Taki Theodoracopulos, a veteran champion of the paleo-conservative-turned-Alt-Right movement and Spencer’s former employer.
 
 [^16]: Many youngsters have been initially attracted to libertarianism believing that this “live and let live” is the essence of libertarianism.
+
+[^17]: So much for the libertarians who, in addition to their “live and let live” ideal also hail the motto “respect no authority!”.
+
 
 [^18]: Except as some idle intellectual play or mental gymnastics by a few “exotic” individuals.
 

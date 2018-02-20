@@ -1,35 +1,36 @@
-## Additional Proofs
+## 附加证明
 
-There are other additional proofs that we can bring to bear on the question of universally preferable behaviour.
+还有其他证据可以用来解决普遍优先行为的问题。
 
-### The Free-Market Economy
+### 自由市场经济
 
-A free-market economy is without a doubt the most efficient and wealth-producing method of organising the production and consumption of goods and resources within society. Its material success is without equal in human history, or across the world.
+自由市场经济无疑是组织社会内商品和资源生产和消费的最有效和最富有财富的方法。它在人类历史上或世界各地的物质成就是无与伦比的。
 
-The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
+UPB框架的预期，验证和解释了对自由市场经济的物质成就的原因。
 
-In theory, a free-market economy is based on the application of a universal theory of property rights. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+从理论上讲，自由市场经济是建立在普遍产权理论的基础上的。相比之下，共产主义是基于对普遍产权理论的明确排斥。既然我们已经证明，普遍产权是唯一有效的道德理论，这就从根本上解释了为什么共产主义是这样一种灾难，而自由市场经济是如此富有实质性的生产力。
 
-Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
+事实上，人类拥有平等的财产权，任何拒绝这种权利的社会制度都注定会失败——正如任何拒绝万有引力现实的桥梁规划者都无法建立起一座桥梁。
 
-### The Scientific Method
+### 科学方法
 
-Logic and science are in fact methodologies which exist – along with morality – under the umbrella of UPB. In other words, logic and science are both validated by the framework of UPB.
+逻辑和科学事实的方法所存在的–随着道德的–UPB的伞下。换句话说，逻辑和科学都是通过UPB框架验证。
 
-A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
+需要回答的一个核心问题是：为什么科学方法比知识论的其他“方法论”，如神秘主义无限优越？
 
-UPB answers this question.
+UPB回答这个问题。
 
-Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
+由于任何获取知识的方法必须是普遍的、一致的、独立于时间和地点的，科学方法符合这些要求，而非理性和主观神秘主义则恰恰相反。
 
-### Public Education
+### 公共教育
 
-One central principle of free market economics is that quality only really results from *voluntarism*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
+自由市场经济学的一个重要原则是：质量只是由自愿主义产生。从根本上说，强制是效率低下 -暴力总是导致质量差。旧式的苏式面包房从未携带好面包;一个打败妻子的男人永远不会有幸福的婚姻。
 
-The initiation of the use of force is always counter to any rational moral theory – it is a specific and explicit violation of UPB. Since public schools are funded through the initiation of the use of force, they are a form of *forced association*, which is a clear violation of the *freedom of association* validated by UPB.
+使用武力的起始总是反对任何理性的道德理论–
+这是对UPB的具体而明确的违反。由于公立学校是通过使用武力的启动资金，他们是一种强迫联想，这明显违反了自由结社UPB。
 
-Since force violates the moral requirement of *avoidability* – and a lack of avoidability always breeds poor quality – UPB would help us easily predict that public schools would provide education of low quality.
+由于力量违背了可避免性的道德要求 - 而且缺乏可避免性通常会导致质量低下--UPB将帮助我们轻松预测公立学校将提供低质量的教育。 
 
-Furthermore, UPB would also have helped us predict that, as more and more force was used in the realm of public education – as taxes, union compulsions and so on escalated – the quality of the education provided would get worse and worse.
+此外，UPB还帮助我们预测，随着越来越多的力量是用于公共教育–境界为税，工会强迫等升级–所提供的教育质量会越来越差。
 
-This, of course, was – and is – exactly the case.
+这当然是 - 现在 - 的确如此。
