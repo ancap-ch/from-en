@@ -10,35 +10,35 @@ Silohistikal, ito ay:
 2. Pagtatalo laban sa bisa ng ng makamundong kanais-nais na asal na pinapakita ng makamundong kanais-nais na asal.
 3. Sa gayon walang pagtatalo laban sa makamundong kanais-nais na asal ay maaring maging wasto.
 
-Alam nating lahat na mayroong subhektibong kagustuhan, tulad ng pag-gusto sa sorbetes o jazz, na kung saan ay hindi maituturing na pagbubuklod ng ibang mga tao. Sa kabilang banda, mayroong ibang mga kagustuhan, tulad ng paggagahasa at pagpatay, na malinaw *na* may kakulangan sa iba. Mayroon ding mga kagustuhan para sa lohika, ng katotohan at katibayan, na kung saan ay umiiral dinsa iba (kahit na sila ay hindi gaanong nagpapatupad ng karahasan) kapag tinanggap natin ang lahat na ang ilohikal na panukala ay dapat maging hindi totoo o hindi wasto.
+Alam nating lahat na mayroong subhektibong kagustuhan, tulad ng pag-gusto sa sorbetes o jazz, na kung saan ay hindi maituturing na pagbubuklod ng ibang mga tao. Sa kabilang banda, mayroong ibang mga kagustuhan, tulad ng paggagahasa at pagpatay, na malinaw *na* may kakulangan sa iba. Mayroon ding mga kagustuhan para sa lohika, katotohan at katibayan, na kung saan ay umiiral din sa iba (kahit na sila ay hindi gaanong nagpapatupad ng karahasan) kapag tinanggap natin ang lahat na ang hindi lohikal na panukala ay dapat maging hindi totoo o hindi wasto.
 
-Ung mga kagustuhan ay maaring maikonsidera na maituturing na pagbubuklod ng iba matatawag na "maituturing na pagbubuklod" o "tuntunin ng moral."
+Ang mga kagustuhan ay maaring maituturing na pagbubuklod ng iba na maaaring matawag na "makamundong pagbubuklod" o "mga tuntunin ng moral."
 
 Ang ibang paraan para malaman natin na ang konsepto ng "tuntunin ng moral" ay wasto?
 
-Maari nating suriin ang tanong sa bayolohikal pati narin sa Solohistical.
+Maari nating suriin ang tanong sa biyolohikal pati narin sa Silohistikal.
 
-Halimbawa, ang lahat ng bagay ay napapailalim sa pisikal na patakaran - ang ang lahat ng nabubuhay ay karagdagan na napapailalim sa tiyak na mga kinakailangan, at sa gayon, kung ito ay buhay, dapt sumunod sa makamundong kanais-nais na mga asal. Ang buhay, sa halimbawa, ay kinakailangang may gasolina at hangin. Anumang isip na buhay, siyempre, ito ay organikong parte ng isang pisikal na mundo, at ito ay napapailalim sa pisikal na batas at dapat sumunod sa makamundong kanais-nais na mga asal - makipagtalo kung hindi man ay hindi mangangailangan ng katibayan na ang kamalayan ay hindi binubuo ng mga bagay, at hindi ito organiko - isang imposible, dahil ito ay mayroong bigat, enerhiya, at buhay. Ang pakikipgtalo na ana kamalayan ay pumapailalim sa pisikal na patakaran o makamundong kagustuhan na pag-uugali ay maaari maging tulad ng isang tao na hindi tinatablan ng grabidad, at kayang umunlad ng hindi kumakain.
+Halimbawa, ang lahat ng bagay ay napapailalim sa pisikal na patakaran - ang lahat ng nabubuhay ay karagdagan na napapailalim sa tiyak na mga kinakailangan, at sa gayon, kung ito ay buhay, dapat sumunod sa makamundong kanais-nais na mga asal. Ang buhay, sa halimbawa, ay kinakailangang may gasolina at hangin. Anumang isip na buhay, siyempre, ito ay organikong parte ng isang pisikal na mundo, at ito ay napapailalim sa pisikal na batas at dapat sumunod sa makamundong kanais-nais na mga asal - makipagtalo kung hindi man ay hindi mangangailangan ng katibayan na ang kamalayan ay hindi binubuo ng mga bagay, at hindi ito organiko - isang imposible, dahil ito ay mayroong bigat, enerhiya, at buhay. Ang pakikipagtalo na ang kamalayan ay pumapailalim sa pisikal na patakaran o makamundong kagustuhang asal ay maaari maging tulad ng isang tao na hindi tinatablan ng grabidad, at kayang umunlad ng hindi kumakain.
 
-Kaya ito ay imposible na sinuman ay lohikal na makipagtalo laban sa makamundong kanais-nais na pag-uugali, dahil kung siya ay buhay para makipagtalo, dapat siyang sumunod sa makamundong kanais-nais na pag-uugali tulad ng paghinga, pagkain, at pag-inom.
+Kaya ito ay imposible na sinuman ay lohikal na makipagtalo laban sa makamundong kanais-nais na asal, dahil kung siya ay buhay para makipagtalo, dapat siyang sumunod sa makamundong kanais-nais na asal tulad ng paghinga, pagkain, at pag-inom.
 
 Silohistikal, ito ay:
 
-1. Ang lahat ng organismo ay nangangailangan ng makamundong ginustong pag-uugali upang mabuhay.
+1. Ang lahat ng organismo ay nangangailangan ng makamundong ginustong asal upang mabuhay.
 2. Ang tao ay isang nabubuhay na organismo.
-3. Kaya sa gayon ang lahat ng nabubuhay na mga tao are buhay dahil sa kaugalian ng makamundong ginustong pag-uugali.
-4. Kaya ang anumang pagtatalo laban sa makamundong kanais-nais na pag-uugali ay nangangailangan ng isang pagtanggap at kaugalian ng makabundong ginustong pag-uugali.
-5. Sa gayon, walang pagtatalo laban sa pag-iral ng makamundong kanais-nais na pag-uugali ay maaari magiging wasto.
+3. Kaya sa gayon ang lahat ng nabubuhay na mga tao ay buhay dahil sa kaugalian ng makamundong ginustong asal.
+4. Kaya ang anumang pagtatalo laban sa makamundong kanais-nais na asal ay nangangailangan ng isang pagtanggap at kaugalian ng makabundong ginustong asal.
+5. Sa gayon, walang pagtatalo laban sa pag-iral ng makamundong kanais-nais na asal ay maaari magiging wasto.
 
 Dahil ang siyentipikong pamamaraan ay nangangailangan ng empirikal na pagsang-ayon, dapat din natin na tignan ang katotohanan upang makumpirma ang ating teyorya - at dito ang bisa ng makamundong kanais-nais na pag-uugali ay lubos na masusuportahan.
 
-Ang bawat taong taimtim ay naniniwala sa moral na patakaran ng ilang uri. Mayroong ilang mga pagtatalo tungkung sa kung ano *ang bumubuo sa* moral na patakaran, ngunit ang lahat ay tiyak na ang moral na mga patakaran ay wasto - tulad ng sa pagtatalo ng maraming siyentipiko, ngunit lahat ng siyentipiko ay tanggap ang bisa ng siyentipikong paraan nito. Ang isang tao ay maaari makipagtalo na ang mundo ay bilog at hindi patag - na kung saan ito ay kahalintulad sa pagbabago ng kahulugan ng moralidad - ngubit ang isa ay hindi makikipagtalo na ang mundo ay hindi umiiral - na kung saan ito ay katulad ng pakikipagtalo na walang bagay tulad ng makamundong kanais-nais na pag-uugali.
+Ang bawat taong taimtim ay naniniwala sa moral na patakaran ng ilang uri. Mayroong ilang mga pagtatalo tungkol sa kung ano *ang bumubuo sa* moral na patakaran, ngunit ang lahat ay tiyak na ang moral na mga patakaran ay wasto - tulad ng sa pagtatalo ng maraming siyentipiko, ngunit lahat ng siyentipiko ay tanggap ang bisa ng siyentipikong paraan nito. Ang isang tao ay maaari makipagtalo na ang mundo ay bilog at hindi patag - na kung saan ito ay kahalintulad sa pagbabago ng kahulugan ng moralidad - ngunit ang isa ay hindi makikipagtalo na ang mundo ay hindi umiiral - na kung saan ito ay katulad ng pakikipagtalo na walang bagay tulad ng makamundong kanais-nais na asal.
 
 O:
 
 1. Para sa isang siyentipikong teyorya na maging wasto, ito ay dapat suportahan ng empirikal na obserbasyon.
-2. Kung ang konsepto ng "makamundong kanais-nais na pag-uugali" ay wasto, sa gayon ang sangkatauhan ay dapat maniwal sa makamundong kanais-nais na pag-uugali.
-3. Ang lahat ng tao ay naniniwala sa makamundong kanais-nais na pag-uugali.
+2. Kung ang konsepto ng "makamundong kanais-nais na asal" ay wasto, sa gayon ang sangkatauhan ay dapat maniwala sa makamundong kanais-nais na asal.
+3. Ang lahat ng tao ay naniniwala sa makamundong kanais-nais na asal.
 4. Sa gayon ang empirikal na katibayan ay umiiral upang suportahan ang bisa ng makamundong kanais-nais na pag-uugali - at ang pag-iral ng tulad nitong katibayan *ay sumasalungat* sa panukala na ang makamundong kanais-nais na pag-uugali ay hindi wasto.
 
 Ang iak-apat na pagtatalo para sa bisa ng makamundong kanais-nais na pag-uugali ay empirikal. Dahil ang mga tao ay mayroong isang halos-walang katapusan na bilang ng mga pagpipilian upang gumawa ng buhay, upang sabihin na walang prinsipyo ng makamundong kanais-nais na pag-uugali na maaaring sabihin na ang lahat ng pagpipilian ay pantay-pantay (i.e. subhektibo). Gayunpaman, ang lahat ng pagpipilian ay *hindi*pantay-pantay, o kaya lohikal o sa pamamagitan ng empirikal na obserbasyon.
