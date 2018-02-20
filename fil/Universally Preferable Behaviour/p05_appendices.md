@@ -8,7 +8,7 @@ Sa ilalim, pakisausap hanapin ang pangunahing pagbubuod para sa moradlidad.
 2. "lohika" ay ang hanay ng obhetibo at pare-prehas at mga patakaran na nanggaling sa pare-parehas na katotohanan.
 3. Ang mga sumusunod na teyorya sa lohika na tinaguriang "balido."
 4. Ang mga teyorya na nakumpimado ng empirical testing ay tinawag na "wasto."
-5. Those theories that are both valid and accurate are called “true.”
+5. Ang mga teyorya ay parehas na balido at wasto na tinawag na "tunay."
 6. “Preferences” are required for life, thought, language and debating.
 7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
 8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
