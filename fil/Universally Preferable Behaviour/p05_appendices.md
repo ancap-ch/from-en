@@ -13,8 +13,8 @@ Sa ilalim, pakisausap hanapin ang pangunahing pagbubuod para sa moradlidad.
 7. Ang mga pagdedebati ay kailangan sa parehong hawak ng partido "totoo" para parehas na maging obhetibo at sa panglahatang kanais-nais.
 8. Kaya naman mas akto ng debate ay naglalaman ng panglahatang pagtanggap sa mas kanais-nais na paguugali (UPB).
 9. Ang tungkol sa mga teyorya ng UPB ay kailangan na maipasa ang mga pagsusulit ng lohikal na pagbabago at pagpapatunay ng epirikal.
-10. The subset of UPB that examines enforceable behaviour is called “morality.”
-11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
+10. Ang UPB ng subset na nagsusuri sa isasakatuparan ng pag-uugali ay tinawag na "moralidad."
+11. Bilang subset ng UPB, walang teyorya ng moral na pwedeng konsidirahin na totoo kung ito ay lohikal o hindi suportado ng empirical na ebedensya.
 12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
 
 ## Appendix B: Moral Categories
