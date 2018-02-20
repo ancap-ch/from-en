@@ -66,7 +66,7 @@ Katulad sa Ikalawang Saligan, dahil ang lahat ng argumento ay kailangan ng wika,
 
 #### Saligan 4: Ang pagwawasto ay nangangailangan ng pandaigdig na mga kagustuhan
 
-Kung iwawastomo ako sa pagkakamali na nagawa ko, tanggap mo ang katotohanan na magiging *mas mabuti* para sa akin na iwato ang aking kamalian. Your preference for me to correct my error is not subjective, but objective, and universal.
+Kung iwawastomo ako sa pagkakamali na nagawa ko, tanggap mo ang katotohanan na magiging *mas mabuti* para sa akin na iwato ang aking kamalian. Ang iyong kagustuhan para sa akin na iwasto ang aking pagkakamali ay hindi pansarili, kundi may layon, at pandaigdig.
 
 You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
 
