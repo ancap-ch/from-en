@@ -2,13 +2,13 @@
 
 Kahit na ito ay hindi katanggap-tanggap na paksa para pag-usapan, ang panggagahasa ay walang alinlangan ang*ay hindi bababa sa* hindi sigurado na pag-aksyon sa anumang moral na teyorya ay dapat mapaligiran. Ang paslang ay pwedeng kumplikado sa pamamagitan ng pagtatanggol sa sarili; ang pagnanakaw sa pamamagitan ng suliranin ng gutom o "ang pagnanakaw" –ngunit hindi pwedeng maglutas sa pagtatanggol sa sarili; ito ay sa pamamagitan ng tunay na kahulugan ng pagsisimula ng pag-atake.
 
-Let us then use the UPB framework to examine the logical consistency of ethical propositions regarding rape, with reference to these seven moral categories.
+Gamitin natin ang balangkas ng UPB para suriin ang lohikal na pagkapare-pareho ng mga etikal na panukala tungkol sa panghahalay, nanagtutukoy sa mga pitong moral na mga kategorya.
 
-### The Good
+### Ang Kabutihan
 
-To take an absurd example, let’s imagine that we are reviewing an ethical theory that proclaims that rape is a moral good.
+Para gumawa ng walang katotohanang halimbawa, isipin natin na sinusuri namin ang isang etikal na teyorya na nagpapahayag na ang panghahalay ay isang mabuting asal.
 
-Clearly, if I proclaim that “X” is “the good,” then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+Napakalinaw, na kung ipahayag ko na ang "X" ay "mabuti," ang kabaligtaran ng "X" ay dapat na masama. Kapag ang *ay hindi panghahalay* ay mabuti, pagkatapos ang *panghahalay* ay sa masama. Sa kabaliktaran nito, kapang ang *na panghahalay* ay mabuti, pagkatapos ang *ay hindi panghahalay sa*ay masama.
 
 Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
 
