@@ -72,15 +72,15 @@ Sa pamamagitan ng panghahalay ito pa man, ay tulad ng mga nakita natin sa itaas,
 
 Sa ibang panig, na kung sinasabi ko na ang "ang pagkagusto sa jazz" ay isang APA, pagkatapos ay kaagad akong tumakbo sa isang lohikal na hindi makatotohanan. LAging paka tandaan, na ang APA ay mga di-mamimilit na mga panuntunan na pwede magkatwiran nang nauugnay sa magparehong partido nang magkaka-sabay - ang mga wastong pormula para sa "pagka-gusto sa jazz" ay: "Mas gusto ang mgapagka-gusto sa mga kaugalian."
 
-Hindi lang naman ito ang isang pagkakasalungatan sa mga ranggo sa mga tuntunin ng sintaks, pero kaagad ding nabigo ang pagsubok ng UPB. Dahil ang pagka-gusto ko sa jazz sa lahat ng iba pang mga klase ng musika, pero mas gusto mo ang klasikal na musika sa lahat ng iba pang mga klase at kung mas gusto ang mga personal na kagustuhan, dapat mong mas gustohin ang jazz dahil sa gagawin ko, at dapat na mas gusto ko ang klasiko dahil sa iyong gagawin. Siyempre, dahil ito ay malabong mangyari, sapagkat ito ay nangangailangan ng magkapareho namin na * sabay nag pagka-gusto sa magkaparehong jazz at klasikal sa lahat ng iba pang mga klase ng musika*. Dapat mo ring ilipat ang iyong mga kagustuhan sa jazz, dahil sa aking kagustuhan - sapagkat kailangan ko ito sa magkaparehong oras na lumipat ang aking kagustuhan sa klasiko, dahil sa iyong kagustuhan. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
+Hindi lang naman ito ang isang pagkakasalungatan sa mga ranggo sa mga tuntunin ng sintaks, pero kaagad ding nabigo ang pagsubok ng UPB. Dahil ang pagka-gusto ko sa jazz sa lahat ng iba pang mga klase ng musika, pero mas gusto mo ang klasikal na musika sa lahat ng iba pang mga klase at kung mas gusto ang mga personal na kagustuhan, dapat mong mas gustohin ang jazz dahil sa gagawin ko, at dapat na mas gusto ko ang klasiko dahil sa iyong gagawin. Siyempre, dahil ito ay malabong mangyari, sapagkat ito ay nangangailangan ng magkapareho namin na * sabay nag pagka-gusto sa magkaparehong jazz at klasikal sa lahat ng iba pang mga klase ng musika*. Dapat mo ring ilipat ang iyong mga kagustuhan sa jazz, dahil sa aking kagustuhan - sapagkat kailangan ko ito sa magkaparehong oras na lumipat ang aking kagustuhan sa klasiko, dahil sa iyong kagustuhan. Ito ay kasingtulad ng sinasabi na dapat mong magtapon ng magkapareho at mahuli ang magkaparehong larong baseball sa eksaktong magkaparehong sandali - isa itong lohikal at pisikal na mga imposibilidad.
 
-Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
+Dahil na rin ang mga APA ay hindi na maipapatupad dahil sa pamamagitan ng kasamaan- hindi mo maipasok ang isang lalaki para sa pagiging huli - pagkatapos sa panghahalay*hindi maaari* na maging isang APA, dahil ang panghahalay sa pamamagitan ng kahulugan ay isang sekswal na pag-atake na ipinatupad sa pamamagitan ng kasamaan.
 
-Thus rape cannot fall into the category of APAs.
+Kaya ang panghahalay ay hindi pwedeng bumagsak sa kategorya ng APA.
 
-### Personally Positive
+### Pansariling pagka-positibo
 
-Perhaps rape is akin to a merely personal preference.[^2]
+Siguro ang panghahalay ay kasing-tulad ng isang pansariling kagustuhan.[^2]
 
 The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
 
