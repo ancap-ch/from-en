@@ -130,7 +130,7 @@ Pwedeng bigyan ng-katwiran ng magnhahalay ang kanyang mga aksyon sa pamamagitan 
 
 Ang mga usaping ito ay nabigo rin sa pinakasimpleng lohikal na pagsubok ng UPB. Kung naniniwala si Bob na ang dapat niyang gawin ay ang kanyang pansariling kasiyahan sa pamamagitan ng pag-apak kay Doug - anuman ang pagkamuhi ni Doug - pagkatapos ay hindi maituturo ni Bob ang dahilan ng kanyang mga kagustuhan sa isang UPB.
 
-If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
+If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. Kapag ang lahat ay kailangang gumawa ng kanilang kasiyahan anuman ang pagkamuhi ng iba, pagkatapos ay walang makatwiran na mga dahilan kung bakit ang kagustuhan ni Bob sa panghahalay kay Doug ay dapat manguna sa kagustuhan ni Doug upang hindi ma-halay, anuman ang hindi pagkagusto na ayaw ma-halay ay magiging dahilan ni Bob.
 
 Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
 
