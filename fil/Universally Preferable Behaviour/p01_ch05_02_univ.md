@@ -73,9 +73,9 @@ Maaari nating dalhin ang maraming talakayan upang suportahan ang pagiral at bisa
 
 #### UPB: Opsiyonal at obhektibo
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Dahil napatunayan natin ang bisa ng makamundong kanais-nais na asal, ang tanong ng moralidad ay nagbabago ngayon. Dahil ang moralidad*ay*wasto, anong mga teyorya ang makakapagbilang, makakapagbukod-bukod, makakapagpaliwanag at makakahula nito?
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+Una sa lahat, dapat nating tandaan na ang moralidad ay malinaw na opsyunal. Ang bawat tao ay npapailalim sa grabidad at nangangailangan ng pagkain upang mabugay, ngunit walang tao ang dapat kumilos ng may moral. Kung ako ay manggagahasa, magnanakaw o papatay, walang kidlat ang makakakit sa akin. Ang mga patakarang moral, tulad ng siyentipikong pamamaraan o biyolohikal na pagbubukod-bukod, ay mga paraan lamang ng makatwirang pagsusunod-sunod ng mga katotohanan at pprinsipyo kaugnay sa obhektibong katotohanan.
 
 The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
 
