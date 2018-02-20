@@ -1,6 +1,6 @@
-## Mga etikal na Kategorya
+## Ang mga etikal na Kategorya
 
-Kasama ng balangkas ng UPB sa lugar, maaari na ngayong usisain ang pagsusuri kung paano napatunayan o ipinawalang-bisa ng UPB ang ating pinaka-karaniwang mga panukalang moralidad. Kung ang aming “teorya ng physics” ay maaaring ipaliwanag kung paano mahuhuli ng isang tao ang baseball, mayroon na kaming hindi bababa sa una – at pinakamahalaga – sagabal, at sinaktan ang una at pinakamalalim na suntok laban sa hayop.
+Kasama ng balangkas ng UPB sa lugar, maaari na ngayong usisain ang pagsusuri kung paano napatunayan o ipinawalang-bisa ng UPB ang ating pinaka-karaniwang mga panukalang moralidad. Kung ang ating “teorya ng mga pisika” ay maaaring ipaliwanag kung paano mahuhuli ng isang tao ang baseball, mayroon na kaming hindi bababa sa una – at ang pinakamahalaga – sagabal, at sinaktan ang una ng pinakamalalim na suntok laban sa hayop.
 
 ### Ang Pitong Mga Kategorya
 
