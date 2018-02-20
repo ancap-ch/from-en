@@ -139,7 +139,7 @@
             
             ### Section 6 – Term and Termination.
             
-            a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+            a. This Public License applies for the term of the Copyright and Similar Rights licensed here. تاہم، اگر آپ فیل ہو جاتیں ہیں اس پبلک لائسنس کی تعمیل کے ساتھ تو، اس پبلک لائسنس کے تحت آپ کے حقوق خود کار طریقے سے ختم ہوجاتے ہیں.
             
             b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
             
