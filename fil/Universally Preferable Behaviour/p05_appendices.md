@@ -12,7 +12,7 @@ Sa ilalim, pakisausap hanapin ang pangunahing pagbubuod para sa moradlidad.
 6. "ang mga kagustuhan" ang kailangan para sa buhay, ideya, lenggwahe at pagdedebate.
 7. Ang mga pagdedebati ay kailangan sa parehong hawak ng partido "totoo" para parehas na maging obhetibo at sa panglahatang kanais-nais.
 8. Kaya naman mas akto ng debate ay naglalaman ng panglahatang pagtanggap sa mas kanais-nais na paguugali (UPB).
-9. Theories regarding UPB must pass the tests of logical consistency and empirical verification.
+9. Ang tungkol sa mga teyorya ng UPB ay kailangan na maipasa ang mga pagsusulit ng lohikal na pagbabago at pagpapatunay ng epirikal.
 10. The subset of UPB that examines enforceable behaviour is called “morality.”
 11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
 12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
