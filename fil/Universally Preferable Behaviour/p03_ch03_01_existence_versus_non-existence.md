@@ -62,7 +62,7 @@ Kung ako ay bibili ng kasuotan ng mga sundalo sa tindahan ng mga second hand, at
 
 Naitanung ko ang retorikang katanungan dahil ito ay tunay at talagang seryoso. Malinae, na ang kasuotan ng military ay hindi mababago ang katangian ng isang tao, anu man higit sa isang pagpapagupit ng buhok ay turns nito sa isang duck, isang konsepto, o isang diyos.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+"Ah," maaari niyong sabihin, "pero ang kasuotan ay hindi pwedi dahil ito ay nakuha mo sa tindahan ng second hand -ang pagsusuot ng uniporme ng sundalo ay Hindi ka magagawang sundalo na higit sa photocopying ng isang doctorate na magbibigay sayo ng Ph.D."
 
 The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
 
