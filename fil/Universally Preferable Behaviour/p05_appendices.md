@@ -29,7 +29,7 @@ Nasa ilalim ay isang halimbawa ng mga listahan ng talahanayan ng ilang sa mga ka
 | **Ikaw ay hindi dapat gumawa ng panlilinlang** | Oho         | Oho          | Oho             | Oho                                                                  | Oho                                     | Mabuti                            |
 | **Hindi mo dapat ginahasa**                    | Oho         | Oho          | Oho             | Wala                                                                 | Wala                                    | Mabuti                            |
 
-## Appendix C: UPB Podcasts
+## Apendik C: UPB ng mga Podcast
 
 If you would like to further your understanding of UPB and its ramifications, you might find the following podcasts (available [here](www.freedomainradio.com)) helpful. You may also wish to watch the “Introduction to Philosophy” videos, available on [Youtube](www.youtube.com/freedomainradio).
 
