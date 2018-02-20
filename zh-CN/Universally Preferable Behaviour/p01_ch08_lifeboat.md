@@ -45,29 +45,29 @@
 1.  每个人都宁愿偷苹果也不愿饿死。
 2.  因此，大家普遍喜欢通过饥饿来偷苹果
 3.  因此，偷苹果而不是饿死是更为普遍的。
-4. 因此，生存权利普遍优于财产权利。
+4.  因此，生存权利普遍优于财产权利。
 5.  因此，对个人有益的是最终的道德标准。
 
-这已被用作从 Nietzsche (尼采) 到 Rand (兰德的) 一些伦理学理论和方法的基础。每个人对生存的偏好都被转化为以个人生存为中心的伦理理论。[^11]
+这已被用作从 (尼采) Nietzsche 到 伦德 (Rand) 一些伦理学理论和方法的基础。每个人对生存的偏好都被转化为以个人生存为中心的伦理理论。[^11]
 
-This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
+这种“生物享乐主义”可能是“生存动力”的描述，但它只是描述人们实际上做了什么，而不是他们应该做什么。
 
-It also introduces a completely unscientific subjectivism to the question of morality. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
+这也给道德问题引入了一种完全不科学的主观主义。例如，如果在饥饿的时候偷食物是道德上允许的，你能偷多少食物? 你有多饿? 你可以偷食不营养的食物吗? 食物有多营养才能证明它是合理的? 偷一顿饭多久后可以再偷一顿饭? 你是否允许偷饭而不是找工作或求助于慈善机构?
 
-Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
+另外，如果我能够比一个店主赚更多的钱，我不应该追求暴力作为一个职业？这当然增加了我的生存…等等。
 
-As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
+正如我们所看到的，引入“在抽象中对人有益的东西 - 或大多数人所做的事 -是普遍可取的”，将道德概念作为一种逻辑上一致的理论加以破坏，并将单纯的生物驱力作为行为的理由。这是对行为的解释，而不是建议的道德理论。
 
-### The Purpose And The Dangers
+### 目的与危险
 
-With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+在耐心放纵的情况下，我们需要解决一个最终问题，然后再着手定义并测试各种道德主张如何适应UPB框架。由于最困难的工作在前面，我们应该暂停一下，并提醒自己为什么要完成所有这些严格和困难。
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+换句话说，在我们投入之前，有必要问这样一个问题：“为什么要自寻烦恼?”
 
-Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+为什么要定义伦理学理论？好人当然不需要他们，坏人也不去咨询他们。人们会按照自己的意愿去做，然后在事实之后根据需要做出理由 - 为什么还要麻烦人们说教道德呢？
 
-Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
+当然，危险总是存在的，一个不道德的人会为了他自己的享乐主义目的而攻击你。也可能是这样的情况：尽管你的生活是干净而健康的，但在你的时间之前，你可能会被癌症击倒 – 前者不会使道德科学无关紧要，只不过后者使得医学，营养和运动科学无关。理性的道德科学的一个可证明的效果必须是减少遭受诸如盗窃，例如谋杀和强奸等不道德行为的机会 - 并且通过这个标准，我们也将判断本书第三部分提出的道德规则。 
 
-[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
+[^10]：当然，如果我是这样一个无能或困惑的人，我最终到了挨饿的边缘，监禁可能会改善我的处境。
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+[^11]：尼采 (Nietzsche) 的“权力意志” 和 伦德 (Rand) 的“服务于人的生命是善”。
