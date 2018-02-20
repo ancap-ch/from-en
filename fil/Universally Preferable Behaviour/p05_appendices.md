@@ -1,8 +1,8 @@
-# Appendices
+# Ang mga apendiks
 
-## Appendix A: UPB In A Nutshell
+## Apendiks A: UPB sa madaling salita
 
-Below, please find a summation of the core argument for morality.
+Sa ilalim, pakisausap hanapin ang pangunahing pagbubuod para sa moradlidad.
 
 1. Reality is objective and consistent.
 2. “Logic” is the set of objective and consistent rules derived from the consistency of reality.
