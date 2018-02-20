@@ -50,11 +50,11 @@ Sa madaling salita, kung gusto mong makarating sa tuktok ng bundok, humihiling n
 
 ### Mga argumento at pagiging Pandaigdigan
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+Kung pipiliin ko na mag debate, ako ay may pahiwatig ng pagtanggap sa malawak na uri ng lugar na sulit pag lipasan ng oras para mag alis ng laman dito.
 
-#### Premise 1: We Both Exist
+#### Tuntunin 1: Kami ay Parehong Umiral
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+Kung pipiliin ko na makipagtalo sayo, kailangan kong tanggapin na tayo ay parehong umiral. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
 
 #### Premise 2: The Senses Have The Capacity For Accuracy
 
