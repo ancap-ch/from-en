@@ -12,7 +12,7 @@ Tulad ng nabanggit sa itaas, ang mga panukala tungkol sa pag-uugali ng higit sa 
 4. Ito ay neutral, o walang etikal o aesthetic na nilalaman, tulad ng pagpapatakbo para sa isang bus.
 5. Ito ay personal na negatibo (predilection para hindi kumain ng ice cream).
 6. Ito ay aesthetically negatibo (“kabastusan” at “pagiging late”).
-7. It is evil (universally proscribed) (“rape”).
+7. Ito ay masama (pangkalahatang ipinagbabawal) (“panggagahasa”).
 
 Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
 
