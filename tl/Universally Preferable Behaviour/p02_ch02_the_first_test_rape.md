@@ -82,13 +82,13 @@ Kaya ang panghahalay ay hindi pwedeng bumagsak sa kategorya ng APA.
 
 Siguro ang panghahalay ay kasing-tulad ng isang pansariling kagustuhan.[^2]
 
-The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
+Ang tanong ay pagkatapos lumutang: ang pag-uuri ng panghahalay bilang isang pansariling kagustuhan ay nakasalalay sa lohikal na pagsisiyasat?
 
-If we propose the moral rule: “personal preferences must be violently inflicted upon other people,” how does that stand up to the framework of UPB?[^3]
+Kapag ang mga pinag-usapan natin na ang moral na tuntunin: "ay ang mga pansariling kagustuhan ay dapat na labagin sa iba pang mga tao," paano ito lumalaban sa balangkas ng UPB?[^3]
 
-Personal preferences cannot be justly inflicted upon other people, because that would create an insurmountable logical paradox.
+Ang mga pansariling kagustuhan ay hindi makatarungan na magpahamak sa iba pang mga tao, dahil makagagawa ito ng isang hindi masosolusyonan na lohikal na kabalintunaan.
 
-If I say that liking the band Queen above all others is universally preferable behaviour, on what grounds could I justify that statement? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
+Kung ang sinasabi ko na gustung-gusto ko ang band Queen kumpara sa lahat ng iba pa na mas maganda ang pag-uugali ng mundo, kahit sa anong mga dahilan ay pwede kong bigyang ng-katwiran ang mga salaysay na iyon? Sa pamamagitan lang ng mga pagbabanggit na ang lahat ng mga pansariling kagustuhan ay dapat na magpahamak sa iba pang mga tao. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
 
 Thus if rape is considered to be a merely personal preference, then it cannot logically be enforced upon anybody else. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
 
