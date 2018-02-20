@@ -113,7 +113,7 @@
             
             1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.
             
-            2. اڈاپٹر کی لائسنس جو آپ نے ایپلائی کیا ہے. آپ ٹیکسٹ کو، یا یو آر آئی یا ہائپر لنکس کو لازمی شامل کریں. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
+            2. اڈاپٹر کی لائسنس جو آپ نے ایپلائی کیا ہے. آپ ٹیکسٹ کو، یا یو آر آئی یا ہائپر لنکس کو لازمی شامل کریں. آپ درمیانی بنیاد پر اس حالت کو کسی مناسب طریقے سے مطمئن کر سکتے ہیں، مطلب، اور سیاحت جس میں آپ اپنانے والے مواد کو تقسیم کرتیں ہیں.
             
             3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
             
@@ -127,13 +127,13 @@
             
             c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
             
-            For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+            شبہ سے بچنے کے لئے، یہ سیکشن 4 اس پبلک لائسنس کے تحت آپ کی ذمہ داریوں کو تبدیل نہیں کرتا ہے جہاں لائسنس یافتہ حقوق دیگر کاپی رائٹ اور اسی طرح کے حقوق شامل ہیں.
             
             ### Section 5 – Disclaimer of Warranties and Limitation of Liability.
             
             a. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
             
-            b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
+            b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. جہاں مکمل طور پر یا جزوی طور پر ذمہ داری کی حد کی اجازت نہیں ہے، یہ حد آپ پر لاگو نہیں ہوتی. </ 0></p> 
             
             c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
             
