@@ -1,6 +1,6 @@
-## Ethical Categories
+## Mga etikal na Kategorya
 
-With the UPB framework in place, we can now turn to an examination of how UPB validates or invalidates our most common moral propositions. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
+Sa pamamagitan ng balangkas ng UPB sa lugar, maaari na ngayong i-usisa ang pagsusuri kung paano napatunayan o ipinawalang-bisa ng UPB ang aming pinaka-karaniwang mga panukalang moral. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
 
 ### The Seven Categories
 
