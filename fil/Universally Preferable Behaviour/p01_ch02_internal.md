@@ -14,15 +14,15 @@ Sa mga termino sa computer, Ang code na hindi sumulat ay hindi masubukan.
 
 Ito ay totoo rin sa pang-agham na mundo. Ang mga teorya ay palaging naka-check para sa panloob na pagkakapare-pareho bago sila isumite sa mga eksperimentong pagsusulit. Ang dahilan kung bakit napakahalaga ng panloob na pagkakapare-pareho ay dahil ang mga teorya ay nag-aangkin ng halaga na may kaugnayan sa katotohanan, at ang katotohanan ay panloob na pare-pareho, ang anumang teorya na *hindi* na pare-pareho sa loob ay hindi maaaring magkaroon ng halaga na may kaugnayan sa katotohanan.
 
-Lamang *pagkatapos* ang panloob na pagkakapare-pareho ng mga kalkulasyon ay naitatag na ang antas kung saan natutugunan ng tulay ang mga pagtutukoy na susuriin. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+Lamang *pagkatapos* ang panloob na pagkakapare-pareho ng mga kalkulasyon ay naitatag na ang antas kung saan natutugunan ng tulay ang mga pagtutukoy na susuriin. Posible na sumulat ng mga panloob na pagtutukoy para sa isang maliliit na tulay na itinayo nang lubusan sa kahoy ng balsa, ngunit maliban kung ang inhinyero ay sumusulat ng isang artikulo para sa isang modelo ng rail-roading magazine, ang kanyang mga pagtutukoy, bagaman pare-pareho, ay mabibigo upang matugunan ang anumang pang-industriya na kinakailangan.
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+Sa sandaling natukoy namin na ang tulay ay tatayo, maaari naming matukoy kung natutugunan o hindi ito sa aming mga partikular na pangangailangan, tulad ng pagsuporta sa bigat ng mga pedestrian laban sa mga tren.
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+Sa larangan ng ekonomiya, ang parehong pamantayan ay naaangkop. Ang aking teorya sa pang-ekonomiya ay nag-aatas na ang mga presyo ay pataas at pababa nang sabay-sabay, pagkatapos ay hindi ito maaaring maging wasto, dahil imposible ito. Sa sandaling nasuri ang aking teorya para sa panloob na pagkakapare-pareho, Maaari akong magsimulang maghanap ng katibayan, at / o simulan ang paggamit ng aking teorya upang gumawa ng mga aktibong hula.
 
-Thus, we can see that any theory, to be valid, requires the following:
+Kaya, makikita natin na ang anumang teorya, na may bisa, ay nangangailangan ng mga sumusunod:
 
-1. Internal consistency (logic).
-2. External consistency (testability).
+1. Panloob na pagbabago (lohika).
+2. Panlabas na pagkakapare-pareho (testability).
 
-With this in mind, we can now turn to the core subject of this book.
+Sa pag-iisip na ito, maaari na ngayong lumipat sa pangunahing paksa ng aklat na ito.
