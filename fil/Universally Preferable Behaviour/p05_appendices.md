@@ -52,7 +52,7 @@ Kung gusto mong mas maunawaan pa ang UPB at ito ang mga ramification, pwede mong
 |     588 | Obligasyon na positibo - isang halimbawa                                    | Isang magaling na kritika ng isa sa aking mga artikulo.                                                                                                                                                                                                         |
 |     816 | Miski sino ang tenis?                                                       | Isang metapora para sa moral na aksyon.                                                                                                                                                                                                                         |
 
-Finally, if you would like to debate these ideas with other interested philosophers, feel free drop by the [Freedomain Radio Message Board](www.freedomainradio.com/board).
+Sa wakas, kung gusto mong idebate ang mga ideya kasama ang ibang interesadong mga pilosopo, huwag mag-atubiling-ilaglag[Freedomain Radio Message Board](www.freedomainradio.com/board).
 
 ## Appendix D: Every UPB Debate I've Ever Had...
 
