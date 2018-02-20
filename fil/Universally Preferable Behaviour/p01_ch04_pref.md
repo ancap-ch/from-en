@@ -44,11 +44,11 @@ Kapag sinabi ko na ang ilang mga kagustuhan ay maaaring layunin, hindi ko ibig s
 
 Kaya naman kapag ako ay nagsalita tungkol sa pandaigdig na kagustuhan, Ako at tumutukoy sa kung ano ang *dapat* gusto gawin ng mga tao, at hindi ang palagi nilang gustong *gawin*. Sa paggamit ng siyentipikong analohiya, upang tunay na maintindihan ang sansinukob, ang tao ay *dapat* gumamit ng siyentipikong pamamaraan - ito ay hindi nangangahulugan na lagi nila itong ginagawa, dahil malinaw na bilyong tao ay kumunsulta sa sinaunang kwento ng mga engkanto, sa halip na sa modernong siyensya para sa mga"kasagutan."Walang ibang paraan upang makamit ang katotohanan tungkol sa sansinukob na walang siyensya, ngunit ang tao ay perpektong malaya para muli bigyang kahulugan ang "katotohanan"bilang" pagkakamali,"at makuntento ang mga sarili sa mistikal na walang kapararakan.
 
-Gayundin, kung gusto ng tao na gamutin ang impeksyon, siya ay *kailangang* gumamit ng gamot kaysa magsagawa ng sinaunang sayaw para sa ulan ng mga Aztec. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+Gayundin, kung gusto ng tao na gamutin ang impeksyon, siya ay *kailangang* gumamit ng gamot kaysa magsagawa ng sinaunang sayaw para sa ulan ng mga Aztec. Ang kagustuhan na gumamit ng gamot kaysa magsagawa ng sayaw pang-ulan ay pandaigdig, sapagkat ang pagsasayaw ay hindi nakakagaling ng impeksyon. Kaya, kahit na mayroon paminsan-minsan na sira ulo na subukan na gamutin ang kanyang sarili sa pagsayaw, ito pa rin ay *pandaigdig na mas mabuti* kaysa kung gusto ng tao na gamutin ang kanyang sarili, kailangan niyang uminom ng antibyotiko.
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+Sa madaling salita, kung gusto mong makarating sa tuktok ng bundok, humihiling na hindi ito gagana. Kung gusto mong malaman ang pinagmulan ng sansinukob, ang pagdarasal ay hindi magbibigay ng kasagutan. Ang tayo ay nangangarap, at nagdadasal, ngunit hindinito ginagawa ang pagnanais at pagdarasal na mas epektibo. Habang nasa saisip, tayo ay babaling sa tanong na kung o hindi ang pandaigdig na kagustuhan ay maaaring balido.
 
-### Arguments And Universality
+### Mga argumento at pagiging Pandaigdigan
 
 If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
 
