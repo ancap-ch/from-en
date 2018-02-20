@@ -104,9 +104,9 @@ Marahil ang panghahalay ay isang *pangit na pag-uugali* na aksyon, ang kabaligta
 
 Ang mga pansariling negatibong aksyon (PNAs) sa pamamagitan ng kahulugan ay hindi pwedeng ipatupad sa isa pa. Kaya naman ang isang lalaking hinalay ay nagiging mali para "saktan" ang kanyang kagustuhan para sa * hindi panghahalay* sa kanyang panghahalay, sa klase ng kanyang pagtatanggol sa sarili. Sa tulad ng ganitong pamamaraan, ang pagsisimula ng kasamaan – ang pagpapatupad ng isang pansariling kagustuhan– ay sa *moral*, habang ang pagtatanggol sa sarili – din ang nagpapatupad ng isang pansariling kagustuhan – ay imoral. Kaya naman sa gayon ay magkakaroon kami ng magparehong pag-aksyon (ang pagpapatupad ng isang pansariling kagustuhan) na naitulad bilang magkaparehong moral at imoral, na hindi pwedeng manindigan.
 
-### Aesthetically Negative
+### Ang malasa na negatibong paraan
 
-Perhaps rape is an aesthetically *negative* action, like “being late” – the flip-side of number two above. However, aesthetically negative actions (ANAs) cannot logically be violently enforced *because by definition they can be avoided*. Since I can freely choose to stop associating with a man who continually shows up late, I cannot shoot him for being late.
+Marahil nga naman ang panghahalay ay isang pinaka-malasa na*negatibong* aksyon, tulad ng "palaging huli"– ang pitik sa gilid ng ika-lawang bilang sa itaas. Gayunpaman, ang mga malasa sa negatibong aksyon (ANAs) ay hindi lohikal na pwedeng ipatupad nang marahas*dahil sa pamamagitan ng kahulugan pwede silang iwasan*. Dahil pwede akong pumili ng malaya upang itigil ang pakikipag-ugnay sa isang tao na patuloy na nagpapakita ng pagka-huli, hindi ko pwedeng ipasok sa kanya para sa pagiging huli.
 
 However, rape by definition cannot be avoided, since it is a sexual attack enforced through violence.[^4] Also, if I choose to stop being friends with the tardy man mentioned above, he cannot justly force me to be his friend by threatening me with violence, since that would rely on the principle that merely personal preferences can be enforced on others, which would run fruitlessly up against my ability to enforce *my* desire to drop his friendship. This kind of “Tarantino morality” always ends up with everyone in a state of mute paralysis, pointing guns at each other’s faces like frozen statues.
 
