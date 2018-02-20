@@ -1,31 +1,31 @@
-## The Forth Test: Fraud
+## Awọn igbeyewo kẹrin : Ẹtan
 
-Right at the edge of what is generally considered ethical sits the challenge of *fraud*.
+Ni eti nkan ti o wa lọ tun ni a mọ si asa rere ti o jokoo le ipenija "ẹtan".
 
-Fraud is the obtaining of value through false representation. If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
+Ẹtan ni gbigba nkan ohun ini ati iwulo nipasẹ aṣojú asan. Ti mo ba sọ fun ọ pe mo ma fi iPod ranse to ba fun mi ni ọgọrun meji dola, mo si gba owo rẹ lia fi iPod na ranse si, a mọ pe eleyii jẹ foomu ti ole jija.
 
-Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
+Ẹ jẹ ka mu isoro ẹtan nipasẹ ohun elo UPB ati pe ka ri boya oni iwulo ati iduro to da.
 
-Clearly, fraud requires that one person *not* be engaged in fraud. In the above potential transaction, if I am hoping to steal your two hundred dollars, and you are hoping to steal my iPod, nothing will come of it. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
+Ni òtítọ́, ẹtan nilo pe ki eniyan kan ma lọ wọ si ẹtan. Ninu ọ̀rọ̀ asotan to wa loke, ti mo ba ni ireti lati ji dola ọgọrun meji rẹ, ìwọ na ni ireti lati ji iPod mi, abajade kan kan o ni yọ. O ma bere fun iPod rẹ ko to san owo, ati pe emi naa yo bere owo kin to fi iPod na lẹ. A ma wa ni oju aisi nkankan to fẹ sẹlẹ, lati lo ara wa ni jibiti.
 
-Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
+Ni òtítọ́, fun ẹtan lati wa so pín, egbe apa kan gbọdọ wuwa ni imọ rere. Bayii ẹni ti o fẹ ṣíṣe ẹtan gbekele pe eni keji miiran ko gbero lati ṣíṣe jibiti, lati le se ohun adete lori rẹ.
 
-To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
+Ki a pada si aitọ iwa buburu Ẹlẹ́dẹ̀, ki lo ma sẹlẹ ti a ba bere lọ́wọ́ Bob ati Doug lati ṣíṣe lori opo iwa pe "ẹtan dara"? Ti Doug ba ni ogun dola, ati ki Bob ni feerefe, ki Doug fun Bob ni ogun dola fun feerefe naa, ki o si mu feerefe ṣùgbọ́n ko fun Bob ni ogun dola, nigba naa ni Doug ti n wuwa lori ipinnu pe ẹtan dara.
 
-What happens then?
+Ki lo ma ṣẹlẹ̀ bayii?
 
-Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
+Ni òtítọ́, awọn oporan naa to wipe "ẹtan dara" ko le se ẹsẹ lori nipasẹ Doug ati Bob papọ - niwọn lati le se ise jibiti, Doug gbọdọ wuwa ailotitọ, Bob si gbọdọ wuwa ni tòótọ́. Bayi lati jẹ ki ìwọ "imọ" Doug jẹ ìmúṣẹ, Bob gbọdọ wuwa "ti ko dara".
 
-UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
+UPB pa ìpalára yi rún, nígbà tí ko si iwa to wulo ti o le bere fun awọn isẹ alatako lábẹ́ awọn àyídáyidà kanna.
 
-If Doug commits fraud on Bob with the justification that “it is good to lie to get what you want,” then clearly it must also be good to be honest as well, since it is impossible to get what you want by lying unless other people are willing to assume your honesty. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
+Ti Doug ba wuwa jibiti lori Bob pẹlu idalare pe "o dara lati pa irọ lati gba ohun ti o ni," ni tòótọ́ o dara ki eyan jẹ olotitọ pẹlu, nigba ti o soro lati ri nkan to fẹ nipasẹ irọ pipa afi ti awọn eyan toku setan lati ro òtítọ́ rẹ. Bayii ọrọ ti o wipe o dara lati parọ ki o le ri nkan to fe gba ko le yọrí si aseyori afi ti awon eyan toku ba wuwa pẹlu òtítọ́ - bayii irọ pipa ati òdodo jẹ ibere nigbakanna ti o wulo fun ìmúṣẹ imọ iwa. Eleyii ko le duro gbọ́ràn - pe ki ẹtọ ise ati ipari idakeji jẹ imọ iwa nigbakanna ni ibi kanna, fun awọn eyan kanna, ati ni igba kanna.
 
-This is how we know that fraud is wrong.
+Bayii la se mọ pe iwa jibiti tabi ẹtan o dara.
 
-Again, knowing that fraud is “wrong” simply means that we know that any moral theory that justifies fraud is invalid, because it is self-contradictory. If we build a bridge, and the bridge falls down, we know that the bridge was “wrong” – but the most important thing that we can learn from this disaster is not that the bridge fell down, but to understand the flaws in the theory that caused us to build a bridge that fell down. Similarly, moral theories that cause disasters, such as communism, fascism and Nazism, are important to evaluate relative to UPB not only so we can understand how they went so wrong, but also how to fix our moral theories in the future. Since as a species, we will be forever building bridges, it is essential that we get our facts and theories right, or they will endlessly fall down around us.
+Lee kan sì. Mimọ pe ẹtan jẹ "nkan buburu" túmọ̀ si wipe a mọ pe eyikeyi iwa imọ ti o se idaniloju ẹtan jẹ alailegbe, nitori o jẹ ilodi si ara ẹni. Ti a ba kọ afara, ti afara naa si jabọ, a mọ pe afara naa jẹ "àṣìṣe" - sugbọn ohun pataki julọ ti a le fi kẹ́kọ̀ọ́ ninu ijamba yii ni wipe afara naa o jabo, sugbọn lati ni oye awọn abawon ti o mu wa lati kọ afara ti o jabo silẹ. Bakan naa, awọn ẹkọ isowo ti o fa ajalu, àpẹẹrẹ bi komunisiti, ijọba ifipamuni ati Nazism, jẹ iwulo lati se ayẹwo ti o jọ mọ UPB ti ko kọ nikan ki a le ni oye ọna ti o dara to n gbe, ṣùgbọ́n lati ṣe àtúnṣe imọ iwa lọjọ iwaju. Niwọn bi eya kan, a ma ma kọ afara lọ titi ọjọ waju, o ṣe pataki ki a gba òtítọ́ ati ero daadaa, tabi yo ṣubú nígbà gbogbo ni ayika wa.
 
-However, the question remains whether fraud is evil, or just an aesthetically negative action (ANA).
+Sibẹsibẹ, ibeere naa jẹ boya ẹtan tabi jibiti jẹ nkan buburu, tabi ìṣe iwa aisedeede (ANA).
 
-Fraud is unusual compared to rape, theft and murder, insofar as it requires that the victim act positively to participate in the process. I can jump up behind you and strangle you without any participation on your part, but I cannot defraud you unless you participate to some degree. Thus fraud falls under the umbrella of “avoidability,” and so is in a fundamentally different category than rape, murder and theft. However, the degree of avoidability partly determines the degree of immorality involved. Sending your bank information to a Nigerian email spammer is certainly avoidable; being cheated by an eBay business with a perfect rating is far less avoidable.
+Jibiti jẹ asawe akawe si ifibalopo, ole jija ati ipaniyan, niwọn bi o ṣe nilo pe ki awọn olufaragba ṣíṣe daradara lati kopa ninu ilana naa. Mo le dide lẹyin rẹ ki n fun ọ pa laisi ikopa lati ọdọ rẹ, sugbọn mi o le lo ẹ ni jibiti afi ti iwọ na ba kopa ninu rẹ die. Bayi ẹtan tabi jibiti wa ninu abẹ ibo "ko ṣeé ṣe",ati ni orisirisi ẹ̀ka ototo ju ifapabanilopo, ipaniyan pẹlu ole jija. Sibẹsibẹ, Iwọn ti ko ṣeé ṣe ni ìpinnu díẹ̀ ninu Iwọn aisedede ti o yọnu ninu rẹ. Fífi ranse alaye ifowo rẹ si ara Naijiria oni jibiti daju pe ko ṣeé ṣe ;ti wa ni ẹtan nipasẹ ẹ̀yà owo eBay pẹlu ìyàtọ̀ pipe ti ẹtan rẹ jẹ kekere.
 
-There may be certain situations under which fraud is unavoidable, such as “bartering” for a life-saving medicine when no alternative exists, but that falls under the “grey area” that we have discussed above – these occurrences are so rare that they are to ethics as mutations are to biological species.
+Awọn ipo kan le wa ti iwa ẹtan jẹ eyi ti ko ṣeé ṣe, bi àpẹẹrẹ "ṣíṣá ro" fun ogun fífi pamọ saye nigbati ọna miran kosi, sugbọn ti o jabo si "agbegbe awọn ọna" ti ti sọ loke - àwọn isele wọnyi ṣe pataki julọ wipe wọn jẹ si iwa bi iyipada gẹgẹ bi wọn ṣe jẹ si awọn ẹ̀yà ara ọmọ eniyan.
