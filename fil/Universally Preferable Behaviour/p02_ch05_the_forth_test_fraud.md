@@ -8,7 +8,7 @@ Ilagay natin ang problema ng pandaraya sa pamamagitan ng gilingan ng UPB, at tin
 
 Malinaw, ang panloloko ay nangangailangan ng isang tao *hindi* ay nakikibahagi sa pandaraya. Sa itaas na potensyal na transaksyon, kung ako ay umaasa na nakawin ang iyong dalawang daang dolyar, at umaasa ka na nakawin ang aking iPod, walang darating dito. Hinihiling mo ang iPod bago magbigay ng pagbabayad, at ako ay humihingi ng bayad bago ibigay ang iPod. Magiging mapangalagaan tayo, lubos na hindi makapanlinlang sa bawat isa.
 
-Malinaw,, dahil sa pandaraya ay magaganap, ang isang partido ay dapat kumilos nang may mabuting pananampalataya. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
+Malinaw,, dahil sa pandaraya ay magaganap, ang isang partido ay dapat kumilos nang may mabuting pananampalataya. Kaya ang taong nagnanais na gumawa ng pandaraya ay nakasalalay sa katotohanan na ang ibang tao ay gumagawa *hindi* nais na gumawa ng pandaraya, upang hulihin siya.
 
 To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
 
