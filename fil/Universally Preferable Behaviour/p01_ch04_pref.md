@@ -20,11 +20,11 @@ Makakakita tayo ng *ebidensya* para sa kagustuhan; hindi tayo makakita ng kagust
 
 Sa pag isantabi ng mapang-hamon na mga katanungan ng kusang loob laban sa determinasyon, makatwirang ipalagay na anuman ang ginagawa ng tao sa kasalukuyan ay ang kung ano ang "gusto" niyang gawin. Kung ako ay babangon at pupunta sa trabaho, halatang ako ay *gustong* gawin iyon, kumpara sa lahat ng ibang alternatibo. Kahit na ayaw ko ang aking trabaho, malinaw na ayaw ko ito ng *kaunti* kaysa, sabihin, walang kapera-pera.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+Ipagpalagay na ang tao ay kayang gumawa ng malapit na walang-katapusang uri ng kilos, kahit ano ang ginagawa ng tao sa sandali ay pinili mula sa lahat ng ibang posibleng pagpipilian. Pinili kong isulat ang aklat na ito kaysa, sabihin, mag-aral kung paano mag tango.
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+Kapag isinabuhay natin itong simpleng katotohanan sa etikal na argumento, makakabuo tayo ng ilang kagiliw-giliw na resulta.
 
-### Preferences And Arguments
+### Mga Kagustuhan at Mga Argumento
 
 Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
 
