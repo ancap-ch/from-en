@@ -32,11 +32,11 @@ Dahil imposible na kumilos na walang ipinahayag na kagustuhan-pwedeng pahiwatig 
 
 ### Mga kagustuhan at Buong pandaigdigan
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+Ang sunod na tanong ay nagiging; kung ang mga kagustuhan ay puro, o maaari silang pandaigdig?
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+Malinaw na, ang ibang mga kagustuhan ay objective. Musikal na panlasa, personal na libangan, paboritong literatura at iba pa ay lahat na opinyon at personal na kagustuhan.
 
-The challenge arises when we try to define some preferences as *objective*.
+Ang pagsubok ay lumitaw nang tinangka natin na bigyan kahulugan ang ilang kagustuhan bilang *layunin*.
 
 The proposition before us is thus: *can some preferences be objective, i.e. universal?*
 
