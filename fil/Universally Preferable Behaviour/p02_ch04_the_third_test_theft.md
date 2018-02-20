@@ -80,7 +80,7 @@ Kung makikipagtalo ako: “Ang mga lalaki ay may limampung porsiyento lamang sa 
 
 Ito ay maaaring tunog ng pribado, ngunit ito ay isang nakamamatay na seryosong tanong, para sa mga kadahilanang makukuha namin sa ilang sandali.
 
-Let us say that we can somehow magically bypass the “fifty percent ownership of the body” problem, and say that human beings only have fifty percent property rights when it comes to *external* objects.
+Sabihin natin na maaari nating magawa nang lubusan ang problema sa “limampung porsyento ng pagmamay-ari ng katawan”, at sinasabi na ang mga tao ay may limampung porsiyento lamang ng mga karapatan sa pagmamay-ari pagdating sa *panlabas* na mga bagay.
 
 How does that work in practice?
 
