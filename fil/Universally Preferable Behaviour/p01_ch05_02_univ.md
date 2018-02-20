@@ -10,7 +10,7 @@ Solohistical, ito ay:
 2. Pagtatalo laban sa bisa ng ng makamundong kanaisnais na asal pinapakita ng makamundong kanaisnais na asal.
 3. Sa gayon walng bisa ang pagtatalo ng makamundong kanaisnais na asal ay maaring maging wasto.
 
-Alam nating lahat na may roong kagustuhang paksa, katulad pag gusto sa sorbetes o kaya lang, na kung saan ay hindi maituturing na pagbubuklod ng mga tao. Sa kabilang banda, mayroong ibang mga kagustuhan, tulad ng paggagahasa at pagpatay, na malinaw *na* may kakulangan sa iba. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+Alam nating lahat na may roong kagustuhang paksa, katulad pag gusto sa sorbetes o kaya lang, na kung saan ay hindi maituturing na pagbubuklod ng mga tao. Sa kabilang banda, mayroong ibang mga kagustuhan, tulad ng paggagahasa at pagpatay, na malinaw *na* may kakulangan sa iba. Mayroon ding mga kagustuhan para sa lohika, ng katotohan at katibayan, na kung saan ay umiiral dinsa iba (kahit na sila ay hindi gaanong nagpapatupad ng karahasan) kapag tinanggap natin ang lahat na ang ilohikal na panukala ay dapat maging hindi totoo o hindi wasto.
 
 Ung mga kagustuhan ay maaring maikonsidera na maituturing na pagbubuklod ng iba matatawag na "maituturing na pagbubuklod" o "tuntunin ng moral."
 
@@ -18,7 +18,7 @@ Ang ibang paraan para malaman natin na ang konsepto ng "tuntunin ng moral" ay wa
 
 Maari nating suriin ang tanong sa bayolohikal pati narin sa Solohistical.
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Ang buhay, halimbawa. ay kinakailangang may gasolina at hangin. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+Halimbawa, ang lahat ng bagay ay napapailalim sa pisikal na patakaran - ang ang lahat ng nabubuhay ay karagdagan na napapailalim sa tiyak na mga kinakailangan, at sa gayon, kung ito ay buhay, dapt sumunod sa makamundong kanais-nais na mga asal. Ang buhay, sa halimbawa, ay kinakailangang may gasolina at hangin. Anumang isip na buhay, siyempre, ito ay organikong parte ng isang pisikal na mundo, at ito ay napapailalim sa pisikal na batas at dapat sumunod sa makamundong kanais-nais na mga asal - makipagtalo kung hindi man ay hindi mangangailangan ng katibayan na ang kamalayan ay hindi binubuo ng mga bagay, at hindi ito organiko - isang imposible, dahil ito ay mayroong bigat, enerhiya, at buhay. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
 
 Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
 
