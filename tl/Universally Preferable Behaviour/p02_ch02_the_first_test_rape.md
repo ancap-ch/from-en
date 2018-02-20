@@ -94,13 +94,13 @@ Kaya naman kung ang panghahalay ay itinuturing na ito ay isangpansariling kagust
 
 Sa kalaunan, dahil rin sa mga pansariling kagustuhan ay hindi pwedeng ipatupad sa iba, pero ang panghahalay ay tanging sa pamamagitan ng kahulugan ng pagpapatupad ng isang "kagustuhan" sa iba, ang panghahalay ay hindi pwedeng sa moral na kategorya ng mga pansariling kagustuhan lang.
 
-### Morally Neutral
+### Pantay na pag-uugali
 
-As discussed above, rape cannot be a morally neutral action, since it is a preference that is enforced upon another.
+Gaya ng pinas-usapan sa itaas, ang panghahalay ay hindi pwedeng maging tapat na pagkilos, dahil na rin ito ay isang kagustuhan na ipinapatupad sa isa pa.
 
-### Personally Negative
+### Pangit na pag-uugali
 
-Perhaps rape is a *personally negative* action, the opposite of number three. As an example, a criminal on the run would consider capture a personally negative action (PNA).
+Marahil ang panghahalay ay isang *pangit na pag-uugali* na aksyon, ang kabaligtaran ng mga numero ng tatlo. Bilang isang halimbawa, na ang isang kriminal na tumakbo at isinaalang-alang ang pagkuha ng isang pangit na pag-uugali na pagkilos (PNA).
 
 Personally negative actions (PNAs) by definition cannot be enforced upon another. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
 
