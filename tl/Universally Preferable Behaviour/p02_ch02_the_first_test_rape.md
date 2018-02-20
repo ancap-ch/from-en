@@ -36,7 +36,7 @@ Sa oras na ito, ang pagkasalungat ay pwedeng lubos na makatwiran na itataas na k
 
 #### Ang kapasidad
 
-Ang konsepto ng "pag-iiwas" ay umiiral sa mga positibo pati rin sa negatibo. If I have lost my genitals in some ghastly accident, am I moral for refraining from rape? It would seem hard to argue that I could be, since genital rape at least is impossible for me. Similarly, we may call a man “generous” if he gives one hundred dollars to a beggar – however, we would doubtless revise our estimation if it turned out that he gave away his money while sleepwalking, and woefully regretted his action on waking.
+Ang konsepto ng "pag-iiwas" ay umiiral sa mga positibo pati rin sa negatibo. Kapag nawala ko ang aking mga ari-arian sa ilang mga aksidente, ako ba ay moral para sa pag-iwas sa panghahalay? Ito ay tila mahirap sa akin na magkipagtalo na pwedeng ako, dahil ang pag-aari ng genital ay hindi pwede para sa akin. Similarly, we may call a man “generous” if he gives one hundred dollars to a beggar – however, we would doubtless revise our estimation if it turned out that he gave away his money while sleepwalking, and woefully regretted his action on waking.
 
 Thus we can reasonably say that where choice is absent, or inapplicable, morality is also absent, or inapplicable. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
 
