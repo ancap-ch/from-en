@@ -58,13 +58,13 @@
         
         * ** شرائط. </ 0> اس پبلک لائسنس کی شرائط سیکشن 6 (ا) میں بیان کی گئی ہے.</p></li> 
             
-            * ** میڈیا اور فارمیٹس؛ تکنیکی ترمیم کی اجازت دی گئی ہے.** لائسنس کنندہ نے آپ کو تمام ذرائع ابلاغ میں لائسنس یافتہ حقوق کو استعمال کرنے کے لئے مستند کیا ہے یا اب معلوم ہوا یا بعد میں پیدا کیا، اور ایسا کرنے کے لئے ضروری تکنیکی ترمیم کرنا ہے. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+            * ** میڈیا اور فارمیٹس؛ تکنیکی ترمیم کی اجازت دی گئی ہے.** لائسنس کنندہ نے آپ کو تمام ذرائع ابلاغ میں لائسنس یافتہ حقوق کو استعمال کرنے کے لئے مستند کیا ہے یا اب معلوم ہوا یا بعد میں پیدا کیا، اور ایسا کرنے کے لئے ضروری تکنیکی ترمیم کرنا ہے. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. اس پبلک لائسنس کے مقاصد کے لئے، صرف اس سیکشن 2 (ا) (4) کے ذریعہ مجاز شدہ ترمیم کرنے کے لئے کبھی بھی اپنانے والا مواد تیار نہیں ہوتا ہے.
             
-            * **Downstream recipients.**
+            * **نیچے کے سلسلے وصول کرنے والے.**
                 
                 A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
                 
-                B. __Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.
+                B. لائسنس دہندگان سے اضافی پیشکش - اپنایا شدہ مواد. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.
                 
                 C. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
             
