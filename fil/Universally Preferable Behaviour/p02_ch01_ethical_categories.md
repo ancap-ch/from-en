@@ -16,7 +16,7 @@ Tulad ng nabanggit sa itaas, ang mga panukala tungkol sa pag-uugali ng higit sa 
 
 Sa isip, dapat nating magawa ang mga ito hanggang sa dalawang kategorya lamang – higit na mas mainam at positibong positibo – sa pamamagitan ng pagtukoy sa ating etikal na panukala upang ang ipinagbabawal sa lahat ay isang salamin na larawan ng kung ano ang higit na mas mainam, at ang paghuhukay lamang ng personal na mga kagustuhan at neutral na mga aksyon na walang kaugnayan sa isang diskusyon ng etika.
 
-For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
+Halimbawa, sinasabi ng Non-Aggression Principle (NAP) na ang pagsisimula ng paggamit ng puwersa ay imoral – kaya ang di-pagsisimula ng paggamit ng puwersa ay higit na mas mainam, habang ang pagsisimula ng paggamit ng lakas ay ipinagbabawal sa lahat. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
 
 Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
 
