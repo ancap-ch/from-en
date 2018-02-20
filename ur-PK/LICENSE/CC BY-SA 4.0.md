@@ -14,7 +14,7 @@
     
     ## تخلیقی عام انتباہ - ShareAlike 4.0 بین الاقوامی پبلک لائسنس
     
-    By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+    لائسنس یافتہ حقوق (ذیل میں بیان کردہ) کا استعمال کرتے ہوئے، آپ کو اس تخلیقی العام انتساب - شراکت 4.0 بین الاقوامی پبلک لائسنس ("پبلک لائسنس") کے شرائط و ضوابط کی طرف سے پابندی کو قبول کیا اور اتفاق کیا ہے. To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
     
     ### سیکشن 1 - تعریفیں.
     
