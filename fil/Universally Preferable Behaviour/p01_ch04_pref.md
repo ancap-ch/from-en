@@ -12,9 +12,9 @@ Gayun sa etika, tulad ng sa siyensya, ang matematika at lahat ng iba pang disipl
 
 ### Mga kagustuhan at pag-iral
 
-Kapag sinabi ko na "gusto ko ng sorbetes," isang salita lamang ang mananatiling malabo sa pangungusap na iyon. Malinaw na "ako" ay umiiral, dahil ako ay nagpapahayag ng pansariling kagustuhan. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+Kapag sinabi ko na "gusto ko ng sorbetes," isang salita lamang ang mananatiling malabo sa pangungusap na iyon. Malinaw na "ako" ay umiiral, dahil ako ay nagpapahayag ng pansariling kagustuhan. Parehong malinaw,"Ang sorbetes" ay umiiral din sa realidad. Gayunman, ang salitang "gaya" ay mas problemado.
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Ang mga kagustuhan ay hindi umiiral sa loob ng realidad. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
 
 We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
 
