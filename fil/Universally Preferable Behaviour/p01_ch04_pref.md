@@ -6,7 +6,7 @@ Ang mga kagustuhan ay panggitna sa anumang pamamaraan na umaangkin ng pagbibigay
 
 Sa ganitong kahulugan,"higit na mabuti"ay hindi nangangahulugan na "parang mas mabuti,"pero sa halip "kinakailangan."*kung* gusto mong mabuhay, ito at *kanais-nais sa lahat ng dako* na ikaw ay umiwas sa pagkain ng sandakot na arseniko. *Kung* nais mong upang matukoy ang mga balidong mga katotohanan tungkol sa katotohanan, ito ay *kanais-nais sa lahat ng dako* na ang iyong mga teorya ay panloob na pare-pareho at mula sa obserbasyon patunay. "Kanais-nais sa lahat ng dako," pagkatapos, isinalin sa "kailangang kailangan,"ngunit pananatili namin ay salitang "higit na mabuti" upang ikumpara sa pagitan ng opsyonal na pantao at hindi opsyonal na pisikal gaya ng grabidad.
 
-Nang katulad, ang teoryang etikal ay maaaring maging balido, pagkatapos ay kailangan nila *kahit papano* na maging parehong panloob at panlabas na katugon. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+Nang katulad, ang teoryang etikal ay maaaring maging balido, pagkatapos ay kailangan nila *kahit papano* na maging parehong panloob at panlabas na katugon. Sa madaling salita, isang etikal na teorya ang sumasalungat sa kanyang sarili ay hindi maaaring balido - at isang etikal na teorya na sumasalungat sa ebidensya at malapit na lahatan - kagustuhan at hindi maaaring maging balido.
 
 Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
 
