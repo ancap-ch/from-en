@@ -60,7 +60,7 @@ Lohika, agham at katotohanan, kung gayon, ay imposible sa kawalan ng *palagian*.
 
 Pangunahin, ang mga batas ng lohika ay manggagaling sa mga asal ng bagay at enerhiya, kahit sa perseptuwal na antas. Kung sasabihin ko sayo na itapon ang bola pataas at pababa sa parehong oras, ako ay nagtatanong ng imposible, na kung saan ay madali na masusubukan sa pagtangka na tuparin ang aking kahilingan. Kung sasabihin ko sa iyo na araruhin ang parehas hilangang lupain at timog na lumapin ng magkasabay, hindi mo magagawang gawin ito. Kung ako ay magsabi sa iyo na gawing kabayo ang bulaklak, ang aking kagustuhan ay hindi makukuha.
 
-Perseptwal na katotohanan ay palagian at obhektibo - at ito ay galing sa palagian at obhektibo na kung saan nakuha natin ang mga batas ng lohika. Ang ating mga pahayag tungkol sa katotohanan maaari lamang maging tumpak *na marepresenta*ang katotohanan tulad ng isang direktang resulta ng palagian at obhektibo.
+Perseptwal na katotohanan ay palagian at obhektibo - at ito ay galing sa palagian at obhektibo na kung saan nakuha natin ang mga batas ng lohika. Ang ating mga pahayag tungkol sa katotohanan maaari lamang maging tumpak *na marepresenta* ang katotohanan tulad ng isang direktang resulta ng palagian at obhektibo.
 
 Ang katunayan na ang tagak ay hindi nagkataon na magiging anvil - o sa kabaligtaran - ay ang ugat ng ating kakayanan na tumpak na humusga ng pahayag: "iyan ay isang tagak." Kung ang tagak ay kusang loob at patuloy na nagbago ang kanilang likas, na hindi nakaya na gumawa ng totoo o hindi totoo na mga pahayag tungkol sa kanila - o sa anuman para sa bagay.
 
