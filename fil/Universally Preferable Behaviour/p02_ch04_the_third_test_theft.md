@@ -68,11 +68,11 @@ Para sa kapakanan ng kahusayan, kung hindi perpekto ang moralidad, ang di-makatw
 
 Sa parehong paraan, ang isang tao na lubhang may kakulangan sa pag-iisip ay maaaring ituring na mas mababa ang pananagutan para sa kanyang sariling mga pagkilos. Ang isang lalaki na may animnapu't limang IQ ay di-wasto ang pag-iisip kaysa sa isang maliit na bata – ang isang lalaking may IQ na isang daan ay isang karaniwang may sapat na gulang. Kung sasabihin natin na ang isang tao na may isang IQ ng walumpu ay nagiging responsable, pagkatapos ay sa pamamagitan ng kahulugan na nagsasabi na ang isang tao na may isang IQ ng pitumpu't siyam ay hindi responsable – ay isang malinaw, makatarungan, at lubos na layuning naghihiwalay? Tiyak na hindi, ngunit para sa karamihan ng mga konsepto na maging praktikal, ang pamantayan ng “sapat” at isang makatwirang gastos/pakinabang na pagsusuri ay dapat ilagay sa lugar. Tulad ng nabanggit sa itaas, walang tubig na ganap na dalisay, ngunit naghihintay para sa perpektong kadalisayan ay magiging sanhi lamang ng isang tao na mamatay ng uhaw.
 
-Given that the question of moral responsibility and intellectual capacity only applies to a very small percentage of people right on the border, and that creating objective and perfect tests is very likely to prove impossible, there will inevitably be some “rules of thumb” that win the day. We can only assume that, since biologists live with this kind of occasional subjectivism every day, moral philosophers can somehow survive as well.
+Nakatakda na ang tanong ng moral na responsibilidad at intelektwal na kapasidad ay nalalapat lamang sa isang napakaliit na porsyento ng mga tao sa akma sa hangganan, at na ang paglikha ng layunin at perpektong pagsusulit ay malamang na patunayang imposible, diyan ay hindi maaaring hindi maging ilang “mga panuntunan ng hinlalaki” na manalo sa araw. Maaari lamang nating isipin na, dahil ang mga biologist ay nakatira sa ganitong uri ng paminsan-minsan na paksa sa bawat araw, ang mga pilosopong moral ay maaaring mabuhay rin.
 
-### Property As Universality
+### Ari-arian Bilang Universality
 
-UPB thus gives us clear options with regards to property rights. It cannot be the case that some men have property rights, while other men do not. It cannot be the case that men in Washington have property rights, while women in Baltimore do not. It cannot be the case that men have property rights today, but not tomorrow, and so on.
+Kaya binibigyan tayo ng UPB ng malinaw na mga opsyon tungkol sa mga karapatan sa ari-arian. Hindi maaaring ito ang kaso na ang ilang mga tao ay may mga karapatan sa pag-aari, habang ang ibang mga tao ay hindi. It cannot be the case that men in Washington have property rights, while women in Baltimore do not. It cannot be the case that men have property rights today, but not tomorrow, and so on.
 
 It also cannot be the case that men have only fifty percent property rights.
 
