@@ -76,7 +76,7 @@ Kung ikaw ay hindi sang-ayon sa akin, ngunit sasabihin ko na dapat kang sumang-a
 
 Sa sandali na ako ay nagbigay ng ilang uri ng obhetibong pamantayan para sa pagpapasya ng katotohanan mula sa kamalian, tinatanggap ko na ang katotohanan ay higit pa sa isang opinyon.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+Hindi naman ibig sabihin nito na ang aking obhetibong pamantayan ay *lohikal* - maaari kitang isanguni sa isang relihiyosong teksto, halimbawa. Gayunman, kahit na gawin ko, tinatanggap ko pa din na ang katotohanan ay isang bagay na sumapit malaya sa pansariling badya lamang - na ang obhetibong pamamaraan ay umiiral para paghiwalayin ang katotohanan sa kamalian.
 
 #### Premise 6: Truth Is Better Than Falsehood
 
