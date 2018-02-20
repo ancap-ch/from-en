@@ -33,15 +33,15 @@ Last generated:
 | 03_p01_ch03_03.md | :x: | :x: | 2k 820 | AngelaWenjing | | |
 | 03_p01_ch03_04.md | :x: | :x: | 3k 550 | AngelaWenjing | | |
 | 03_p01_ch03_05.md | :x: | :x: | 3k 570 | AngelaWenjing | | |
-| 03_p01_ch04_01.md | :x: | :x: | 4k 300 | | | |
-| 03_p01_ch04_02.md | :x: | :x: | 4k 000 | | | |
+| 03_p01_ch04_01.md | :x: | :x: | 4k 300 | sunray| | |
+| 03_p01_ch04_02.md | :x: | :x: | 4k 000 | sunray| | |
 | 03_p01_ch05_01.md | :x: | :x: | 2k 400 | sunray | | |
 | 03_p01_ch05_02.md | :x: | :x: | 3k 470 | sunray | | |
 | 03_p01_ch05_03.md | :x: | :x: | 3k 920 | sunray | | |
 | 03_p01_ch05_04.md | :x: | :x: | 2k 930 | sunray | | |
-| 03_p01_ch06_01.md | :x: | :x: | 2k 940 | | | |
-| 03_p01_ch06_02.md | :x: | :x: | 4k 530 | | | |
-| 03_p01_ch06_03.md | :x: | :x: | 3k 860 | | | |
+| 03_p01_ch06_01.md | :x: | :x: | 2k 940 | sunray| | |
+| 03_p01_ch06_02.md | :x: | :x: | 4k 530 | sunray| | |
+| 03_p01_ch06_03.md | :x: | :x: | 3k 860 | sunray| | |
 | 03_p01_ch07_01.md | :x: | :x: | 2k 830 | AngelaWenjing | | |
 | 03_p01_ch07_02.md | :x: | :x: | 3k 260 | AngelaWenjing | | |
 | 03_p01_ch07_03.md | :x: | :x: | 2k 950 | AngelaWenjing | | |
@@ -103,7 +103,7 @@ Last generated:
 
 | file name | translated | reviewed | words | translators | arbitrary | arbitrary |
 | - | - | - | - | - | - | - |
-| intro.md | :x: | :x: | 5k 050 | | | | | |
+| intro.md | :x: | :x: | 5k 050 |sunray | | | | |
 | < more files to be added > | :x: | :x: |  | | | | | |
 
 </details>
