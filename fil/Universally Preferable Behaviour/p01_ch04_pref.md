@@ -62,7 +62,7 @@ Dahil ang mga tao ay hindi kayang makipag-usap sa pisikal, lahat ng mga debate a
 
 #### Saligan 3: Ang wika ay may kapasidad para sa kahulugan
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+Katulad sa Ikalawang Saligan, dahil ang lahat ng argumento ay kailangan ng wika, kahit anong panukala na huminto sa saligan na ang wika ay walang saysay ay agad-agad na hindi napatunayan. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
 
 #### Premise 4: Correction Requires Universal Preferences
 
