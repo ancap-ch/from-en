@@ -1,8 +1,8 @@
-## Internal Consistency
+## Panloob na pagbabago
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+Kung ako ay isang arkitekto, at magsumite ng isang plano upang bumuo ng isang bahay, ang unang sagabal na dapat kong pagtagumpayan ay kung o hindi ang aking bahay ay maaaring itayo. Kung magsusumite ako ng mga kahanga-hangang plano para sa isang bahay na itinayo nang buo ng mga bula ng sabon, ay hindi makakakuha ng komisyon, dahil dito hindi maaaring tumayo ang isang "bahay".
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+Katulad nito, kung ang inhinyero ay nag sumite ng plano para sa tulay, ang unang kriterya na dapat ay nasiyahan ay kung o hindi ang tulay ay itatayo. Iba pang mga konsiderasyon tulad ng kahabaan ng buhay, aesthetics at iba pa ay magagamit lamang kung ang tulay ay maaaring pisikal na posible upang magsimula sa.
 
 It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
 
