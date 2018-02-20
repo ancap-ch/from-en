@@ -1,6 +1,6 @@
 ## Higit Pa sa Pinagmumulan ng Pag-uugali
 
-Bilang isang resulta ng mga argumento sa itaas, makikita natin na imposible na pumasok sa anumang debate nang hindi tinatanggap ang saligan na ang ilang mga pag-uugali ay *higit na lalong kanais-nais *.
+Bilang isang resulta ng mga argumento sa itaas, makikita natin na imposible na pumasok sa anumang debate nang hindi tinatanggap ang saligan na ang ilang mga pag-uugali ay *higit na lalong kanais-nais*.
 
 Ginagamit ko ang salitang “pag-uugali” rito sa halip na “pag-iisip” sapagkat mahalaga ang pagkakaiba sa pagitan ng panloob at hindi maitutuwid na mga estado tulad ng “pag-iisip” mula sa mga layunin at napapatunayan na mga estado tulad ng “pagkilos,” “pagsulat” at “pagsasalita.”
 
