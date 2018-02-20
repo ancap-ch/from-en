@@ -14,7 +14,7 @@ Tulad ng nabanggit sa itaas, ang mga panukala tungkol sa pag-uugali ng higit sa 
 6. Ito ay aesthetically negatibo (“kabastusan” at “pagiging late”).
 7. Ito ay masama (pangkalahatang ipinagbabawal) (“panggagahasa”).
 
-Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
+Sa isip, dapat nating magawa ang mga ito hanggang sa dalawang kategorya lamang – higit na mas mainam at positibong positibo – sa pamamagitan ng pagtukoy sa ating etikal na panukala upang ang ipinagbabawal sa lahat ay isang salamin na larawan ng kung ano ang higit na mas mainam, at ang paghuhukay lamang ng personal na mga kagustuhan at neutral na mga aksyon na walang kaugnayan sa isang diskusyon ng etika.
 
 For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
 
