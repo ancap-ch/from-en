@@ -60,7 +60,7 @@ Kung sinasabi ko na ang square circle ay may karapatan mag nakaw, sinasabi ko la
 
 Kung ako ay bibili ng kasuotan ng mga sundalo sa tindahan ng mga second hand, at ilalagay ko ito sa, malinaw na hindi ako gumawa ng isang alternatibong uniberso kung saan ang tapat na panuntunan ng mga moral ay maaaring wasto. Ang sandali bago ko ilagay ang kasuotan sa, ang pagpatay ay mali para sa akin -kailan ito naging *Tama* Ang pagpatay para sa akin? Nang isinuot ko ang pantalo? Paano Kung ako ay may pantalon, pero hindi ang tsaleko? Paano kung meron akong isang bota lamang? Paano kung parehong bota ay meron, ngunit isang sintas lang? Paano kung ang aking sumbrelo ay nasa likod? Paano kung mayron akong ilagay na uniporme na hindi makilala ng unang taong nakilala ko? Maaari ba na ang Beatles ay biglang magkaroon ng karapatang pumatay ng binaril nila ang nagtakip para sa "Sarhento ng peppers"? Naiwala ba nila ang kanilang karapatan kapag hinubad nila ang mga jacket?
 
-Naitanung ko ang retorikang katanungan dahil ito ay tunay at talagang seryoso. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Naitanung ko ang retorikang katanungan dahil ito ay tunay at talagang seryoso. Malinae, na ang kasuotan ng military ay hindi mababago ang katangian ng isang tao, anu man higit sa isang pagpapagupit ng buhok ay turns nito sa isang duck, isang konsepto, o isang diyos.
 
 “Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
 
