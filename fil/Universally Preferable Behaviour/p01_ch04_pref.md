@@ -1,6 +1,6 @@
 ## Mga Kagustuhan
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Ngayon na nauunawaan natin ang kalikasan ng sariling-pagtatalo na argumento, maaari tayong bumaling sa tanong ng nka kagustuhan.
 
 Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
 
