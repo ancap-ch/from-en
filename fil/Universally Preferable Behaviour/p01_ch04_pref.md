@@ -62,11 +62,11 @@ Dahil ang mga tao ay hindi kayang makipag-usap sa pisikal, lahat ng mga debate a
 
 #### Saligan 3: Ang wika ay may kapasidad para sa kahulugan
 
-Katulad sa Ikalawang Saligan, dahil ang lahat ng argumento ay kailangan ng wika, kahit anong panukala na huminto sa saligan na ang wika ay walang saysay ay agad-agad na hindi napatunayan. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+Katulad sa Ikalawang Saligan, dahil ang lahat ng argumento ay kailangan ng wika, kahit anong panukala na huminto sa saligan na ang wika ay walang saysay ay agad-agad na hindi napatunayan. Gamit ang wika upang makipagtalo na ang wika ay walang kahulugan, ay gaya ng paggamit ng tagapaghatid upang ihatid ang mensahe ng pakikipagtalo na ang tagahatid ay hindi ihahatid ang mensahe kailanman.
 
-#### Premise 4: Correction Requires Universal Preferences
+#### Saligan 4: Ang pagwawasto ay nangangailangan ng pandaigdig na mga kagustuhan
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+Kung iwawastomo ako sa pagkakamali na nagawa ko, tanggap mo ang katotohanan na magiging *mas mabuti* para sa akin na iwato ang aking kamalian. Your preference for me to correct my error is not subjective, but objective, and universal.
 
 You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
 
