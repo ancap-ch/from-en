@@ -159,10 +159,10 @@ Society progresses exactly to the degree that reason and evidence make the great
 
 “嗯，这只是一张手写的便条，上面写着你拥有整个街区 - 这和你的签名是一样的。恐怕我们得给你订一份 -这只是你自己编的合同，你要用枪对别人施加压力”。
 
-这是完全疯狂和腐败，因为我继续告诉一个女人，我强奸她因为她想和我发生性关系。你能想像如果我因为强奸而受审吗？并且有一个女人的录像带恳求我停下来，我对她的喉咙有一把刀，如果我继续坚持她真的想要拥有我的防御能力与我性交，我的辩护会如何？ 
+This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
 
-在法庭上，我会受到谴责，并因我明显，疯狂，腐败和自私的虚伪而被关进监狱。 
+In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
 
-啊，但在政府的“空白区”，强奸就是做爱，绑架就是邀请，拒绝盗窃是邪恶的自私，强制是善意。 
+Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
 
-当我说这个“相反的世界无效区”是世界上人类幸福最根本的障碍时，这就是我的意思偷窃对我们来说是错误的。摘要中的偷窃行为是错误的 - 但是在这个疯狂的被称为“政府”的另类宇宙中，偷窃是“正确的”吗？
+This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”? 
