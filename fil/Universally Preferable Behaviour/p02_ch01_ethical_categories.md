@@ -9,9 +9,9 @@ Tulad ng nabanggit sa itaas, ang mga panukala tungkol sa pag-uugali ng higit sa 
 1. Ito ay mabuti (higit na mas mainam at masusunod sa pamamagitan ng karahasan, tulad ng “hindi pagpatay”).
 2. Ito ay positibong aesthetically (pangkalahatang higit na mabuti ngunit hindi maipatupad sa pamamagitan ng karahasan, tulad ng “kagalang-galang” at “pagiging nasa oras”).
 3. Ito ay personal na positibo (alinman sa hindi pangkaraniwan lalong kanais-nais o maipapatupad, tulad ng isang predilection para kumain ng ice cream).
-4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
-5. It is personally negative (predilection for not eating ice cream).
-6. It is aesthetically negative (“rudeness” and “being late”).
+4. Ito ay neutral, o walang etikal o aesthetic na nilalaman, tulad ng pagpapatakbo para sa isang bus.
+5. Ito ay personal na negatibo (predilection para hindi kumain ng ice cream).
+6. Ito ay aesthetically negatibo (“kabastusan” at “pagiging late”).
 7. It is evil (universally proscribed) (“rape”).
 
 Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
