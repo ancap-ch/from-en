@@ -54,11 +54,11 @@ Kung pipiliin ko na mag debate, ako ay may pahiwatig ng pagtanggap sa malawak na
 
 #### Tuntunin 1: Kami ay Parehong Umiral
 
-Kung pipiliin ko na makipagtalo sayo, kailangan kong tanggapin na tayo ay parehong umiral. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+Kung pipiliin ko na makipagtalo sayo, kailangan kong tanggapin na tayo ay parehong umiral. Kung naniniwala ako na ako ay umiiral, at ikaw ay hindi, ang pakikipagdebate ay walang kabuluhan, at ang magiging kilos ng sira ulo. Kung magsisimula ako na makipagtalo s aking repleksyon sa salamin, ako ay dapat na tahimik, hindi nakikipagtalo.
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+#### Saligan 2: Ang pandama ay may kapasidad para sa katumpakan
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Dahil ang mga tao ay hindi kayang makipag-usap sa pisikal, lahat ng mga debate ay kailangan na mayroon ebidensya ng mga pandama. Ang pagsulat ng mga paunang palagay ay nagpapakita; ang pagsasalita ay nangangailangan ng pandinig, Braille ay nangangailangan ng paghaplos. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
 
 #### Premise 3: Language Has The Capacity For Meaning
 
