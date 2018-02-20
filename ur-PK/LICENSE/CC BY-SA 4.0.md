@@ -50,7 +50,7 @@
     
     1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
         
-        A. reproduce and Share the Licensed Material, in whole or in part; and
+        A. لائسنس یافتہ مواد کو مکمل اور حصہ میں دوبارہ پیدا اور تقسیم کریں؛ اور
         
         B. produce, reproduce, and Share Adapted Material.
     
