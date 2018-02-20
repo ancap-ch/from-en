@@ -4,7 +4,7 @@
 
 Sa ilalim, pakisausap hanapin ang pangunahing pagbubuod para sa moradlidad.
 
-1. Reality is objective and consistent.
+1. Ang obhetibo ay katotohanan at pare-parehas.
 2. “Logic” is the set of objective and consistent rules derived from the consistency of reality.
 3. Those theories that conform to logic are called “valid.”
 4. Those theories that are confirmed by empirical testing are called “accurate.”
