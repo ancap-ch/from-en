@@ -21,13 +21,13 @@ Sa ilalim, pakisausap hanapin ang pangunahing pagbubuod para sa moradlidad.
 
 Nasa ilalim ay isang halimbawa ng mga listahan ng talahanayan ng ilang sa mga karaniwang mga kategorya ng aksyon/patakaran, at ang kanilang mga differentiators.
 
-| Aksyon/patakaran                          | Pag-nanais? | Panglahatan? | Isinakatuparan? | Ang pag-aksyon ang kinakailangan ng pagsisimula sa panig ng biktima? | Ang mga lumalabag ay pwede bang iwasan? | Ang kategorya ng moral        |
-| ----------------------------------------- | ----------- | ------------ | --------------- | -------------------------------------------------------------------- | --------------------------------------- | ----------------------------- |
-| **Tatakbo para sa bus**                   | Wala        | Wala         | wala            | n/a                                                                  | n/a                                     | Niyutral                      |
-| **Ang ice cream ay hindi mo dapat gusto** | Yes         | No           | No              | n/a                                                                  | n/a                                     | Neutral (personal preference) |
-| **You should not be late**                | Yes         | Yes          | No              | No                                                                   | Yes                                     | APA                           |
-| **You should not commit fraud**           | Yes         | Yes          | Yes             | Yes                                                                  | Yes                                     | Good                          |
-| **You should not rape**                   | Yes         | Yes          | Yes             | No                                                                   | No                                      | Good                          |
+| Aksyon/patakaran                               | Pag-nanais? | Panglahatan? | Isinakatuparan? | Ang pag-aksyon ang kinakailangan ng pagsisimula sa panig ng biktima? | Ang mga lumalabag ay pwede bang iwasan? | Ang kategorya ng moral            |
+| ---------------------------------------------- | ----------- | ------------ | --------------- | -------------------------------------------------------------------- | --------------------------------------- | --------------------------------- |
+| **Tatakbo para sa bus**                        | Wala        | Wala         | wala            | n/a                                                                  | n/a                                     | Niyutral                          |
+| **Ang ice cream ay hindi mo dapat gusto**      | Oho         | Wala         | Wala            | n/a                                                                  | n/a                                     | Niyutral (pansariling kahilingan) |
+| **Ikaw dapat ay hindi mahuli**                 | Oho         | Oho          | Wala            | Wala                                                                 | Oho                                     | APA                               |
+| **Ikaw ay hindi dapat gumawa ng panlilinlang** | Oho         | Oho          | Oho             | Oho                                                                  | Oho                                     | Mabuti                            |
+| **Hindi mo dapat ginahasa**                    | Oho         | Oho          | Oho             | Wala                                                                 | Wala                                    | Mabuti                            |
 
 ## Appendix C: UPB Podcasts
 
