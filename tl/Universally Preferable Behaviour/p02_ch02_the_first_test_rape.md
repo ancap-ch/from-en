@@ -64,13 +64,13 @@ Uulitin ko, ang balangkas ng UPB ay talagang dumarating para magligtas.
 
 Ang APA ay isang *mapilit na kapangyarihan na panuntunan na pwedeng makatwiran na nuugnay sa magparehong partido nang magkakasabay*.
 
-For instance, if my APA is: “be on time,” then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+Sa isang pagkakataon, kapag ang aking APA ay: "laging nasa oras," pwede ito maging isang unibersal na pamantayan na pwedeng maiwasan na pangyayari. Hindi ko maaaring ipagpilitan ang APA sa iyo dahil hindi mo na kailangang maging kaibigan ko, hindi mo na rin kailangang sa tamang oras, hindi mo na rin kailangang igalang o sumunod sa aking mga kagustuhan sa ano pang paraan.[^1]
 
-If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
+Kapag ang "pagiging nasa tamang oras" ang isang APA, ito ay posible para sa dalawang tao na makuha ito nang magkakasabay - kung magkapareho sila sa oras.
 
-With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
+Sa pamamagitan ng panghahalay ito pa man, ay tulad ng mga nakita natin sa itaas, imposible para sa dalawang tao naisagawa ito sa magkaparehong oras. Ang isa ay dapat na palaging manghahalay, at ang iba naman ay madalas maging biktima.
 
-On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
+Sa ibang panig, na kung sinasabi ko na ang "ang pagkagusto sa jazz" ay isang APA, pagkatapos ay kaagad akong tumakbo sa isang lohikal na hindi makatotohanan. LAging paka tandaan, na ang APA ay mga di-mamimilit na mga panuntunan na pwede magkatwiran nang nauugnay sa magparehong partido nang magkaka-sabay - ang mga wastong pormula para sa "pagka-gusto sa jazz" ay: "Mas gusto ang mgapagka-gusto sa mga kaugalian."
 
 Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
 
