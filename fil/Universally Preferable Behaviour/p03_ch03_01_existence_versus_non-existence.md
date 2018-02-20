@@ -50,7 +50,7 @@ Ang tinatawag natin "gobyerno" ay isapang halimbawa ng *null zone* Kung saan ang
 
 Ang pag unlad ng lipunan ay eksakto sa antas ng dahilan at katibayan gawin ang pinaka magandang hakbang mula sa sarili hangang sa unibersal, at sirain ang anuman hind makatwiran*null zones* sa daan. Ang pag unlad ng agham eksakto sa antas kaya tinatangihan nito ang kawalang katwiran ng Diyos "absolutes." ang pag unlad ng medisina ay eksato sa antas kaya tinatangihan nito ang bisa ng panalangin at walang saysay na ritwal umaasa sa dahilan at katibayan. Pilosopiya din - at ang lipunan ng tao sa pangkalahatan - ay umuunlad eksakto sa antas kaya tinatangihan nito ang kawalang katwiran ng " square-circle na moralidad" ng statist at relihiyon mga ethical na teorya.
 
-### Government
+### Gobyerno
 
 Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
 
