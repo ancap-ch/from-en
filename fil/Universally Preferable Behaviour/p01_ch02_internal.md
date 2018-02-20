@@ -4,7 +4,7 @@ Kung ako ay isang arkitekto, at magsumite ng isang plano upang bumuo ng isang ba
 
 Katulad nito, kung ang inhinyero ay nag sumite ng plano para sa tulay, ang unang kriterya na dapat ay nasiyahan ay kung o hindi ang tulay ay itatayo. Iba pang mga konsiderasyon tulad ng kahabaan ng buhay, aesthetics at iba pa ay magagamit lamang kung ang tulay ay maaaring pisikal na posible upang magsimula sa.
 
-It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
+Ito ay hindi makatwiran - hindi babanggitin ang lubos na walang bunga - upang bumuo ng tulay mula sa mga random na materyales, gamit ang random na "kalkulasyon,". Dahil ang pisikal na mga batas ay pare-pareho at unibersal, ito ay relatibong madali upang malaman kung o hindi itatayo ang tulay *bago* pagbuo nito.
 
 There are two ways to determine the viability of the bridge before building it. The first is to look for internal inconsistencies within the premises and calculations that claim to support the viability of the bridge. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
 
