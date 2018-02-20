@@ -74,13 +74,13 @@
             
             1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
             
-            2. Patent and trademark rights are not licensed under this Public License.
+            2. اس پبلک لائسنس کے تحت پیٹنٹ اور ٹریڈ مارک کے حقوق لائسنس یافتہ نہیں ہیں.
             
-            3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
+            3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. دیگر تمام معاملات میں لائسنس یافتہ اس طرح کے شاہی حق کو جمع کرنے کا حق محفوظ رکھتا ہے.
             
-            ### Section 3 – License Conditions.
+            ### سیکشن 3 - لائسنس کی شرائط.
             
-            Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+            لائسنس یافتہ حقوق کا آپ کا اظہار واضح طور پر مندرجہ ذیل شرائط پر مبنی ہے.
             
             a. ***Attribution.***
             
