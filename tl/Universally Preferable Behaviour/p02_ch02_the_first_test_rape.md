@@ -110,15 +110,15 @@ Marahil nga naman ang panghahalay ay isang pinaka-malasa na*negatibong* aksyon, 
 
 Gayunman, ang panghahalay sa pamamagitan ng kahulugan ay hindi pwedeng iwasan, dahil ito ay isang sekswal na pag-atake na ipinatupad sa pamamagitan ng kasamaan.[^4] Gayundin, kung pipiliin ko na itigil na ang pagiging kaibigan sa taong atrasado na sinabi sa itaas, hindi niya pwedeng pilitin ako na maging kaibigan niya sa pamamagitan ng pagbabanta sa akin ng kasamaan, dahil umaasa ito sa prinsipyo na ang mga pansariling kagustuhan ay pwedeng ipatupad sa iba, na tumakbo nang walang bunga laban sa aking kakayahang ipatupad*ang aking* pagnanais na bumagsak ang kanyang pagkakaibigan. Ang ganitong klase ng "moralidad ng Tarantino" ay palaging nagwawakas sa lahat sa isang estado ngtahimik na pagka-lumpo, na pagtuturo sa mga baril sa mga mukha ng bawat isa gaya ng naninigas na mga istatwa.
 
-As we have already established, any universally preferable behaviour must be universal to all people in all places at all times – if ANAs allow for violent enforceability (i.e. I can shoot you for being late) – then if rape is defined as an ANA which can be enforced, then the rape victim who finds rape an aesthetically negative action has the right to shoot his rapist, which effectively affirms the principle of self-defence, but at the expense of also allowing gun play in the opposition of, say, rudeness.
+Kagaya ng itinatag natin, na ang anumang mas mahusay na pag-uugali sa buong mundo ay dapat napangkalahatan sa lahat ng tao sa lahat ng sulok ng lugar sa lahat ng oras - kung pinapayagan ng ANA ang kasamaan na pagpapatupad (i.e. Pwede ko kayong barilin para sa pagiging huli) - Kapag ang panghahalay ay tinukoy bilang isang ANA na pwedeng ipatupad, pagkatapos at ang biktima ng panghahalay na may panghahalay sa isang malasa sa negatibong aksyon na may karapatang bumaril ang kanyang panghahaly, na epektibong pinatutunayan na ang prinsipyo ng pagtatanggol sa sarili, pero sa kapinsalaan din na nagpapahintulot sa pag-laro ng baril sa pagsalungatsa, kabastusan.
 
-Thus rape cannot be an ANA.
+Kaya naman ang panghahalay ay hindi isang ANA.
 
-Which leaves only…
+Alin sa mga dahon lang…
 
-### Evil
+### Kasamaan
 
-If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil,” passes the “coma test,” insofar as it is impossible for a man in a coma to rape someone.
+Kapag ang panghahalay ay tinukoy bilang isang kasamaan, dapat itong masangkot sa * pagsisimula * ng paggamit ng lakas, na malinaw na pagsasagawa nito. Gayundin, na ang panukala: "ang panghahalay ay kasamaan," ay pumasa sa "pagsusulit na koma,"kaya naman imposible para sa isang tao na magkagulo sa panghahalay.
 
 In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
 
