@@ -76,13 +76,13 @@ Malinaw, aking nauunawaan ang hindi ko magagawa sa pamamagitan ng opinyon palaya
 
 "Mga opinyon" ang mga paniniwalang walang malinaw na katibayan sa reyalidad, o Kung saan walang malinaw na katibayan ang maaaring ibigay, o kung saan ang mga pagpapahayag lamang ng pangsariling kagustuhan. Ang aking sariling opinyon ay ang paghahanda ko ng chocolate ice cream sa vanilla - maaari din ako magkaruon ng isang "opinion" na Ang Iceland ay isang tropikal na paraiso, o na ang Diyos ay buhay, o na ang ulan ay nahuhulog pataas. Ang mga sariling opinyon ay malinaw na walang magagawa sa moralidad; ang opinyon ay tumatangap sa tamang paglalarawan sa reyalidad, ngunit hindi, ang Hindi tamang pagkakamali. Paniwalaan na ang ulan ay nahuhulog pataas ito ay hindi kabaliktaran ito ay pinagdaraanan; nakasuot ng Hawaiian shirt sa Iceland hindi gumagawa ang Reykjavik ng anumang pangpainit.
 
-Kaya naman pinaniniwalaan na ang pagpatay ay magandang moral hindi gumagawa ng mabiting moral ang pagpatay. Dahil ang aking paniniwala tungkol sa tao ay hindo mababago ng kalikasan ng moral, Ang aking paniniwala na ang kanyang mga pagpatay ay walang pagbabago at hindi magbabago sa kabutigan ng kanyang mga aksyon. Kung isasara ko ang aking mga mata at iisipin ko na ikaw ay isang butiki, hindi mo biglang mawawala ang iyong kakayahan na makontrol ang sarili mong temperatura sa katawan. Imagining that you are a fish does not bypass your need for scuba gear.
+Kaya naman pinaniniwalaan na ang pagpatay ay magandang moral hindi gumagawa ng mabiting moral ang pagpatay. Dahil ang aking paniniwala tungkol sa tao ay hindo mababago ng kalikasan ng moral, Ang aking paniniwala na ang kanyang mga pagpatay ay walang pagbabago at hindi magbabago sa kabutigan ng kanyang mga aksyon. Kung isasara ko ang aking mga mata at iisipin ko na ikaw ay isang butiki, hindi mo biglang mawawala ang iyong kakayahan na makontrol ang sarili mong temperatura sa katawan. Iisipin na ikaw ay isang isda wag kakaligtaan ang iyong pqngangaylangan para sa scuba gear.
 
-Opinions do not change reality.
+Ang mga opinyon ay hindi mababago ang reyalidad.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Dahil ang mga opinyon ay hindi mababago ang reyalidad, hindi ko pweding ibigay sa iyo ang anumang pagkabukod o pagbaliktad tungkol sa pangkalahatang tuntunin ng moral. Dahil ang patakaran moral ay base sa pangkalahatang lohika, pati narin ang pisikal na kalikasan at reyalidad ng isang tao, Hindi ko pweding ibigay sa iyo ang karapatan para pumatay," anu man higita sa binigay ko sa iyo na kakayahan lumutang, lumakad sa tubig o tamang sabihin na dalawa at dalawa gawin lima.
 
-### Government As Voluntarism
+### Gobyerno bilang boluntaryo
 
 The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
 
