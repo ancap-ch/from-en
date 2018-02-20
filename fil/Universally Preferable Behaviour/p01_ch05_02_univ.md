@@ -41,9 +41,9 @@ O:
 3. Ang lahat ng tao ay naniniwala sa makamundong kanais-nais na pag-uugali.
 4. Sa gayon ang empirikal na katibayan ay umiiral upang suportahan ang bisa ng makamundong kanais-nais na pag-uugali - at ang pag-iral ng tulad nitong katibayan *ay sumasalungat* sa panukala na ang makamundong kanais-nais na pag-uugali ay hindi wasto.
 
-Ang iak-apat na pagtatalo para sa bisa ng makamundong kanais-nais na pag-uugali ay empirikal. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+Ang iak-apat na pagtatalo para sa bisa ng makamundong kanais-nais na pag-uugali ay empirikal. Dahil ang mga tao ay mayroong isang halos-walang katapusan na bilang ng mga pagpipilian upang gumawa ng buhay, upang sabihin na walang prinsipyo ng makamundong kanais-nais na pag-uugali na maaaring sabihin na ang lahat ng pagpipilian ay pantay-pantay (i.e. subhektibo). Gayunpaman, ang lahat ng pagpipilian ay *hindi*pantay-pantay, o kaya lohikal o sa pamamagitan ng empirikal na obserbasyon.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+Halimwa, kung mayroon mga pagkain, halos lahat ng nilalang ay gugustuhing kumain araw-araw. Kapag malamig, halos lahat ng nilalang ay maghahangad mainitan. Halos lahat ng magulang ay pipiliin na pakainin, bigyan ng tirahan at pag-aralin ang kanilang mga anak. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
 
 As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
 
