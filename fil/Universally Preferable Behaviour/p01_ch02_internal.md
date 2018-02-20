@@ -8,11 +8,11 @@ Ito ay hindi makatwiran - hindi babanggitin ang lubos na walang bunga - upang bu
 
 Mayroong dalawang mga paraan para malaman ang pagiging posible ng tulay bago itayo ito. Ang una ay upang maghanap ng mga panloob na hindi pagkakapare-pareho sa loob ng mga lugar at mga kalkulasyon na nagsasabing sinusuportahan ang posibilidad ng tulay. Kung may mga makabuluhang pagkakamali sa mga kalkulasyon na nagpapawalang-bisa sa bigat na maaaring tulungan ng tulay, kung ganon ang tulay ay malamang maging higit sa disenyo o maaaring sa ilalim ng disenyo. Kung ang maling matematikong kalkulasyon ay nagreresulta sa isang lakas ng minus limampung tonelada bawat parisukat na paa sa anumang bahagi ng tulay, kung gayon tiyak na hindi ito tatayo- o kung gagawin nito, ang posibilidad ng pagiging posible nito ay aksidente lamang, at hindi maaaring kopyahin.
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+Amg Matematikong kalkulasyon ang pagsuporta sa posibilidad ng tulay ay dapat na maging pare-pareho sa panloob bago ang anumang iba pang mga konsiderasyon ay maaaring isinasaalang-alang.
 
-In computer terms, code that does not compile cannot be tested.
+Sa mga termino sa computer, Ang code na hindi sumulat ay hindi masubukan.
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Ito ay totoo rin sa pang-agham na mundo. Ang mga teorya ay palaging naka-check para sa panloob na pagkakapare-pareho bago sila isumite sa mga eksperimentong pagsusulit. Ang dahilan kung bakit napakahalaga ng panloob na pagkakapare-pareho ay dahil ang mga teorya ay nag-aangkin ng halaga na may kaugnayan sa katotohanan, at ang katotohanan ay panloob na pare-pareho, ang anumang teorya na *hindi* na pare-pareho sa loob ay hindi maaaring magkaroon ng halaga na may kaugnayan sa katotohanan.
 
 Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
 
