@@ -2,7 +2,7 @@
 
 Ngayon na nauunawaan natin ang kalikasan ng sariling-pagtatalo na argumento, maaari tayong bumaling sa tanong ng nka kagustuhan.
 
-Ang mga kagustuhan ay panggitna sa anumang pamamaraan na umaangkin ng pagbibigay kahulugan sa totong-halaga ng mga panukala. Ang siyentipikong pamamaraan, sa halimbawa, ay higit na pagtukoy sa likas na mga kagustuhan para sa magkakapareho-parehong lohika at pagpapatunay. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Ang mga kagustuhan ay panggitna sa anumang pamamaraan na umaangkin ng pagbibigay kahulugan sa totong-halaga ng mga panukala. Ang siyentipikong pamamaraan, sa halimbawa, ay higit na pagtukoy sa likas na mga kagustuhan para sa magkakapareho-parehong lohika at pagpapatunay. Para sa siyensya, ang saligan ay: *kung* gusto mo na malaman ang isang balido katotohanan tungkol sa pagkilos ng mga bagay at enerhiya, ito ay *mas mabuti* na gumamit ng siyentipikong pamamaraan.
 
 In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
 
