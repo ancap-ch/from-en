@@ -58,9 +58,9 @@ Kung pipiliin ko na makipagtalo sayo, kailangan kong tanggapin na tayo ay pareho
 
 #### Saligan 2: Ang pandama ay may kapasidad para sa katumpakan
 
-Dahil ang mga tao ay hindi kayang makipag-usap sa pisikal, lahat ng mga debate ay kailangan na mayroon ebidensya ng mga pandama. Ang pagsulat ng mga paunang palagay ay nagpapakita; ang pagsasalita ay nangangailangan ng pandinig, Braille ay nangangailangan ng paghaplos. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Dahil ang mga tao ay hindi kayang makipag-usap sa pisikal, lahat ng mga debate ay kailangan na mayroon ebidensya ng mga pandama. Ang pagsulat ng mga paunang palagay ay nagpapakita; ang pagsasalita ay nangangailangan ng pandinig, Braille ay nangangailangan ng paghaplos. Gayun ang anumang panukala na nakadepende sa kawalang saysay ng mga pandama ay awtomatikong sumisira sa sarili.
 
-#### Premise 3: Language Has The Capacity For Meaning
+#### Saligan 3: Ang wika ay may kapasidad para sa kahulugan
 
 Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
 
