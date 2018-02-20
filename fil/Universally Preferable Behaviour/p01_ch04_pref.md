@@ -26,7 +26,7 @@ Kapag isinabuhay natin itong simpleng katotohanan sa etikal na argumento, makaka
 
 ### Mga Kagustuhan at Mga Argumento
 
-Pag-alala sa ating analisis sa itaas tungkol sa mga argumento ng sariling pagtatalo, madali natin maintindihan ang salungat na katangian ng pangungusap:"Ang mga kagustuhan ay hindi umiiral." Ipagpalagay na ang kilos ng tao-kabilang ang paggawa ng pilosopikal na mga pahayag - ay napili sa kagustuhan ng bawat iba posibleng aksyon, pinagtatalunan na ang kagustuhan ay hindi umiiral ay nangangailangan ng *kagustuhan* para sa pagtatalo na ang kagustuhan ay hindi umiiral, kung saan ay isang pahayag na kontra sa sarili. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Pag-alala sa ating analisis sa itaas tungkol sa mga argumento ng sariling pagtatalo, madali natin maintindihan ang salungat na katangian ng pangungusap:"Ang mga kagustuhan ay hindi umiiral." Ipagpalagay na ang kilos ng tao-kabilang ang paggawa ng pilosopikal na mga pahayag - ay napili sa kagustuhan ng bawat iba posibleng aksyon, pinagtatalunan na ang kagustuhan ay hindi umiiral ay nangangailangan ng *kagustuhan* para sa pagtatalo na ang kagustuhan ay hindi umiiral, kung saan ay isang pahayag na kontra sa sarili. Nagtalo na ang kagustuhan ay hindi umiiral ay eksaktong pareho sa pagtatalo ang mga wika ay hindi umiiral. Ito ay isang lubusang argumento ng sariling pagkatalo.
 
 Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
 
