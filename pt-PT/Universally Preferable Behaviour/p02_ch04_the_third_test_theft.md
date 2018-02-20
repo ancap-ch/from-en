@@ -106,9 +106,9 @@ Claro que é manifestamente ridículo imaginar que o estado moral ideal, é que 
 
 Lembre-se, não estamos particularmente preocupados com crimes individuais, mas sim com teorias morais que justificam a violação dos direitos de propriedade. Por exemplo, se Doug rouba o isqueiro de Bob porque acredita que "nenhum direito de propriedade é válido", então a sua teoria moral explode instantaneamente.
 
-If no property rights are valid, then stealing is a completely illogical action, since stealing is an assertion of the just desire to control property.
+Se nenhum direito de propriedade é válido, então roubar é uma acção completamente ilógica, dado que o roubo é uma confirmação do desejo de controlar a propriedade.
 
-Property rights themselves are nothing more than the assertion of a just desire to retain control over assets. It is optional, insofar as you and I can join some hippie commune, and decide to never assert our property rights ever again. Or, if it becomes known in my neighbourhood that I am more than happy if somebody takes my property, it seems somewhat more likely that my lawnmower will go missing. Similarly, if I put a notebook computer on my front lawn with a sign saying “yours if you want it,” then I am clearly signalling that I have no desire to retain current or future control over the notebook.
+Os próprios direitos de propriedade não são mais do que a afirmação de um desejo justo de reter o controlo sobre os bens. Este é opcional, na medida em que nos podemos juntar a uma comuna hippie e decidir nunca mais usar os nossos direitos de propriedade. Or, if it becomes known in my neighbourhood that I am more than happy if somebody takes my property, it seems somewhat more likely that my lawnmower will go missing. Similarly, if I put a notebook computer on my front lawn with a sign saying “yours if you want it,” then I am clearly signalling that I have no desire to retain current or future control over the notebook.
 
 If Doug steals Bob’s lighter, it is because Doug has a desire to gain control over the lighter – which is the very definition of property rights. If Doug steals Bob’s lighter because Doug believes that property rights are invalid, then what he is really saying is: “I want to gain control over Bob’s lighter because it is never valid to gain control over any object.”
 
