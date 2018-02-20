@@ -58,20 +58,20 @@ Ang ikalimang pagtatalo para sa bisa ng makamundong kanais-nais na pag-uugali ay
 
 Dahil ang lahat ng organiko na buhay ay nangangailangan ng katanggap-tanggap na pag-uugali upang mabuhay, maaari nating sabihin na ang lahat ng organismo na kung saan gumagawa ng pinaka matagumpay na pagpili ay ang mga pinaka laging napipili para mabuhay.
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+Dahil ang tao ay ang pinaka matagumpay na nilalang, ang pinaka naiiibang bahagi ng ay ang kanyang isip, ito ay dapat maging *isip ng tao* na tinutulungan siya ng lubos sa pagpili ng matagumpay na pagpili. Ang isip mismo, gayon, ay napili na matagumpay sa pamamagitan ng kayang lubos na kakayahan upang gumawa ng matagumpay na mga pagpili. Dahil ang isip ng tao ay umiiral tulad ng isang *resulta*ng pagpili ng makamundong kanais-nais na pag-uugali, ang makamundong kanais-nais na pag-uugali ay dapat maging isang wastong konsepto.
 
-Or:
+O:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+1. Ang mga organismo ay nagtatagumpay sa pamamagitan ng pagkilos sa makamundong kanais-nais na asal.
+2. Ang tao ay ang pinaka matagumpay na organismo.
+3. Sa gayon ang tao ay dapat kumilos ng pinka matagumpay sa basehan ng makamundong kanais-nais na asal.
+4. Ang isp ng tao ay ang kanayang pinaka kakaibang bahagi.
+5. Sa gaon, ang isip ng tao ay dapat kumilos ng pinka matagumpay sa basehan ng makamundong kanais-nais na asal.
+6. Sa gayon ang makamundong kanais-nais na asal ay dapat maging wasto.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+Maaari nating dalhin ang maraming talakayan upang suportahan ang pagiral at bisa ng UPB, ngunit kinakailangan nating pagpahingain ang kaso na nasa itaas, at magpatuloy sa isang pagsusuri ng likas ng UPB.
 
-#### UPB: Optional And Objective
+#### UPB: Opsiyonal at obhektibo
 
 Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
 
