@@ -102,7 +102,7 @@ Gaya ng pinas-usapan sa itaas, ang panghahalay ay hindi pwedeng maging tapat na 
 
 Marahil ang panghahalay ay isang *pangit na pag-uugali* na aksyon, ang kabaligtaran ng mga numero ng tatlo. Bilang isang halimbawa, na ang isang kriminal na tumakbo at isinaalang-alang ang pagkuha ng isang pangit na pag-uugali na pagkilos (PNA).
 
-Ang mga pansariling negatibong aksyon (PNAs) sa pamamagitan ng kahulugan ay hindi pwedeng ipatupad sa isa pa. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
+Ang mga pansariling negatibong aksyon (PNAs) sa pamamagitan ng kahulugan ay hindi pwedeng ipatupad sa isa pa. Kaya naman ang isang lalaking hinalay ay nagiging mali para "saktan" ang kanyang kagustuhan para sa * hindi panghahalay* sa kanyang panghahalay, sa klase ng kanyang pagtatanggol sa sarili. Sa tulad ng ganitong pamamaraan, ang pagsisimula ng kasamaan – ang pagpapatupad ng isang pansariling kagustuhan– ay sa *moral*, habang ang pagtatanggol sa sarili – din ang nagpapatupad ng isang pansariling kagustuhan – ay imoral. Kaya naman sa gayon ay magkakaroon kami ng magparehong pag-aksyon (ang pagpapatupad ng isang pansariling kagustuhan) na naitulad bilang magkaparehong moral at imoral, na hindi pwedeng manindigan.
 
 ### Aesthetically Negative
 
