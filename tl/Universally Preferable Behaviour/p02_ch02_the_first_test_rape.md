@@ -140,16 +140,16 @@ Kaya naman ang tanging lohikal na posibilidad para sa panghahalay ay sa *hindi s
 
 ### Whew!
 
-Ang katotohanan na ang balangkas ng UPB ay lohikal at epektibo na nagpapatunay sa moral na palagay na ang panghahaly ay kasamaan - hindi "kabutihan," o "malasa na kanais-nais," o "pansariling pag-nanais," o "pantay na moral" - ay isang napakahusay na tanda. Ito ay para hindi patunayan na lumampas sa isang pagdadalawang-isip na ang UPB ay lohikal na patunayan ang lahat ng "kaugalian" na moral na panukala, ngunit ang unang napag-tagumpayan ay naipasa, at ito ay dapat magbigay sa amin ng malaking dahilan para sa pag-sasaya. If I were a physicist proposing a Unified Field Theory, and the application of my theory correctly predicted where a thrown baseball would land, I could justly be enormously pleased.
+Ang katotohanan na ang balangkas ng UPB ay lohikal at epektibo na nagpapatunay sa moral na palagay na ang panghahaly ay kasamaan - hindi "kabutihan," o "malasa na kanais-nais," o "pansariling pag-nanais," o "pantay na moral" - ay isang napakahusay na tanda. Ito ay para hindi patunayan na lumampas sa isang pagdadalawang-isip na ang UPB ay lohikal na patunayan ang lahat ng "kaugalian" na moral na panukala, ngunit ang unang napag-tagumpayan ay naipasa, at ito ay dapat magbigay sa amin ng malaking dahilan para sa pag-sasaya. Kung ako man ay isang pisisista na nagbigay ng panukala na ang isang Pinag-sanib Field na Teyorya, at ang pag-lapat ng aking teyorya ay tama ang hinulaan kung saan ang isang itinapon na baseball ay makarating, pwede kong maging lubusang nalulugod.
 
-Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
+Ang teorya ng relatibidad ni Einstein ay sinabing ang liwanag ay liko sa paligid ng isang timbang na rin - at kapag ito ay unang nakumpirma, hindi ito mapapatunayan ang kanyang teyorya na lalampas sa isang anino ng isang pagdududa, ngunit ito ay napatunayan na ang teyorya*pwedeng* maging tunay, at kung saan ay ang isang magaling na lumndag pasulong. Ang na-unang pagpapatunay ay ang palaging pinakamahirap sa lahat, sapagkat ito ay napakadali upang makakuha ng mga bagay na mali, at ang pagkakamali ay palaging mas matindi ang kasiguraduhan.
 
-The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+Ang balangkas ng UPB ay wastong nagpatunay sa aming moral na saligan na ang panghahalay ay kasamaan. Ito ay talagang kinakailangan– sapagkat hindi sapat – panuntunan para sa pagpapatunay, at lubos na sumusuporta sa karagdagang pagsisiyasat. Kaya naman, magpatuloy tayo sa…
 
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
+[^1]: Ito ay talagang ibang-iba sa isang pisikal na pag-atake, na sumisira sa iyong kapasidad para sa libreng pagpili.
 
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
+[^2]: Ito ay hindi pwedeng maki-pagtalo na panghahalay na hindi sangkot sa isang kagustuhan, dahil ang panghahalay ay isang pag-uugali at, mula noon tinalakay sa itaas, ang lahat ng mga pag-uugali sangkot ang kagustuhan.
 
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
+[^3]: Pakatandaan na hindi ko imumungkahi na "mga sariling kagustuhan *marahil* ay labag sa iba pang mga tao, dahil ito ay isang paglabag sa UPB, na nagsasaad na ang mga alituntunin ng moral ay dapat na ganap at unibersal - kung hindi sila, ay mahuhulog sila sa teritoryo ng APA, at sa gayon ay hindi pwedeng ipahamak sa iba.
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]: Pwede nating maiwasan ang mga pangyayari na nagpapataas ng posibilidad ng panghahalay, pero hindi natin maiiwasan ang pag-usbong.
