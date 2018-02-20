@@ -48,13 +48,13 @@ Ang mga malasa na positibong paraan (APAs) ay higit sa lahat, ngunit hindi pwede
 
 Kung sasabihin man natin na ang APA ay pwedeng nang ipatupad sa pamamagitan ng kasamaan, at pagkatapos ay sasabihin natin na ang pagsisimula ng kasamaan ay mabuti sa moral.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+Kapag ating iminungkahi natin ang isang moral na tuntunin na ang pagsisimula ng kasamaan ay mabuti sa moral, ang mga tuntunin na ito ay nakalantad sa lahat ng mga magkaparehong lohikal na mga hindi makatotohanan bilang panuntunan na "ang panghahalay ay mabuti sa moral."
 
-Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+Ang dalawang lalaki sa isang silid ay hindi pwedeng maging magkapareho sa moral na kapwa sa magkaparehong panahon, marahil ang isa sa kanila ay dapat na magpasimula ng kasamaan laban sa isa, at ang isa naman ay dapat na labanan ito - mula noon kung hindi niya lalabanan ito, sa pamamagitan ng kahulugan ay hindi kakasamaan, katulad ng sa kaso ng siruhano na aming tinalakay sa itaas. Kaya naman ang kabutihan ay pwede lang magamit sa pamamagitan ng pag-iwas sa kabutihan, at ang dalawang lalaki sa magkaparehong mga kalagayan ay hindi pwedeng maging magkapareho ang moral sa magparehong oras, at iba pa - at ang lahat ng ito ay mga paglabag sa UPB.
 
-Thus we know that rape cannot be an APA.
+Kaya naman alam na natin na ang panghahalay ay hindi pwedeng maging isang APA.
 
-We can confirm this by reviewing the reasons why “being on time” *is* an APA.
+Pwede naming siguraduhin ito sa pamamagitan ng pagsusuri sa mga dahilan na kung bakit ang "pagiging nasa oras"*sa* ang APA.
 
 First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
 
