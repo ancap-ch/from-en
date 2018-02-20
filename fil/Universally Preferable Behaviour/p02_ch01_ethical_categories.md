@@ -4,9 +4,9 @@ Kasama ng balangkas ng UPB sa lugar, maaari na ngayong usisain ang pagsusuri kun
 
 ### Ang Pitong Mga Kategorya
 
-Tulad ng nabanggit sa itaas, ang mga panukala tungkol sa pag-uugali ng higit sa lahat ay nahulog sa tatlong pangkalahatang kategorya – positibo, negatibo at neutral. Upang matulungan kami na makahiwalay ng aesthetics mula sa etika, simulan natin sa pamamagitan ng pagpapalawak ng mga kategoryang ito upang maipakita ang pag-uugali *anuman* na maaaring mapailalim sa isang etikal na pagsusuri. These seven categories are:
+Tulad ng nabanggit sa itaas, ang mga panukala tungkol sa pag-uugali ng higit sa lahat ay nahulog sa tatlong pangkalahatang kategorya – positibo, negatibo at neutral. Upang matulungan kami na makahiwalay ng aesthetics mula sa etika, simulan natin sa pamamagitan ng pagpapalawak ng mga kategoryang ito upang maipakita ang pag-uugali *anuman* na maaaring mapailalim sa isang etikal na pagsusuri. Ang pitong mga kategoryang ito ay:
 
-1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
+1. Ito ay mabuti (higit na mas mainam at masusunod sa pamamagitan ng karahasan, tulad ng “hindi pagpatay”).
 2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
 3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
 4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
