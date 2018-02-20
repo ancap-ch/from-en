@@ -1,10 +1,10 @@
 ## Ang pagsubok: Panloloko
 
-Right at the edge of what is generally considered ethical sits the challenge of *fraud*.
+Tama sa gilid ng kung ano ang karaniwang itinuturing na etikal ang sitwasyon sa hamon ng *pandaraya*.
 
-Fraud is the obtaining of value through false representation. If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
+Ang panloloko ay ang pagkuha ng halaga sa pamamagitan ng maling representasyon. Kung sasabihin ko sa iyo na ipapadala ko sa iyo ang iPod kung bibigyan mo ako ng dalawang daang dolyar, at pagkatapos ay dalhin ang iyong pera nang walang pinapadala sa iyo ng iPod, agad nating mauunawaan na ito ay isang anyo ng pagnanakaw.
 
-Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
+Ilagay natin ang problema ng pandaraya sa pamamagitan ng gilingan ng UPB, at tingnan kung may hawak ito.
 
 Clearly, fraud requires that one person *not* be engaged in fraud. In the above potential transaction, if I am hoping to steal your two hundred dollars, and you are hoping to steal my iPod, nothing will come of it. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
 
