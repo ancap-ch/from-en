@@ -38,11 +38,11 @@ Sa oras na ito, ang pagkasalungat ay pwedeng lubos na makatwiran na itataas na k
 
 Ang konsepto ng "pag-iiwas" ay umiiral sa mga positibo pati rin sa negatibo. Kapag nawala ko ang aking mga ari-arian sa ilang mga aksidente, ako ba ay moral para sa pag-iwas sa panghahalay? Ito ay tila mahirap sa akin na magkipagtalo na pwedeng ako, dahil ang pag-aari ng genital ay hindi pwede para sa akin. Sa kaparehong paraan, pwede naming tawagan ang tao na "mapagbigay" kung magbibigay siya ng isang daang dolyar sa isang tao na pulubi - gayunpaman, sigurado na babaguhin natin ang ating kilalabasan kapag nabuksan na niya ang ibinigay sarili niyang pera habang naghihintay ng natutulog habang naglalakad, at lubusan ang pagpaumanhin ng kanyang pagkilos sa paggising.
 
-Thus we can reasonably say that where choice is absent, or inapplicable, morality is also absent, or inapplicable. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
+Sa gayon pwede na nating sabihin na makatwiran na kung saan wala ang pagpili, o hindi makakaapekto, ang moralidad ay wala rin, o hindi maipagpapalagay. Kaya naman ang tao sa pagkawala ng malay, habang ang kanyang mga pagkilos ay hindi pwedeng ituring na masama, ni hindi rin sila maituturing na mabuti. Siya ngayon ay umiiral sa estado nang walang pagpipilian, gaya ng isang sanggol, o isang hayop - sa gayon pwede siyang maging makatwirang hindi sakop simula sa moral na mga panuntunan, dahil mayroong isang pisikal na estado na talagang naiiba sa kanya mula sa isang tao na pwedeng pumili, na kung saan ay pinapayagan sa ilalim ng UPB.
 
-With that in mind, let us continue our examination of rape.
+Dahil sa kanyang isip, ipagpapatuloy pa rin natin ang pagsusuri sa panghahalay.
 
-### Aesthetically Positive
+### Ang masarap na positibong paraan
 
 Aesthetically positive actions (APAs) are universally preferable, but not enforceable through violence, since aesthetically negative actions do not initiate the use of force. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
 
