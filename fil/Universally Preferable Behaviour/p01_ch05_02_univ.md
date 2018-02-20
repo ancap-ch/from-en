@@ -22,13 +22,13 @@ Halimbawa, ang lahat ng bagay ay napapailalim sa pisikal na patakaran - ang ang 
 
 Kaya ito ay imposible na sinuman ay lohikal na makipagtalo laban sa makamundong kanais-nais na pag-uugali, dahil kung siya ay buhay para makipagtalo, dapat siyang sumunod sa makamundong kanais-nais na pag-uugali tulad ng paghinga, pagkain, at pag-inom.
 
-Syllogistically, this is:
+Silohistikal, ito ay:
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+1. Ang lahat ng organismo ay nangangailangan ng makamundong ginustong pag-uugali upang mabuhay.
+2. Ang tao ay isang nabubuhay na organismo.
+3. Kaya sa gayon ang lahat ng nabubuhay na mga tao are buhay dahil sa kaugalian ng makamundong ginustong pag-uugali.
+4. Kaya ang anumang pagtatalo laban sa makamundong kanais-nais na pag-uugali ay nangangailangan ng isang pagtanggap at kaugalian ng makabundong ginustong pag-uugali.
+5. Sa gayon, walang pagtatalo laban sa pag-iral ng makamundong kanais-nais na pag-uugali ay maaari magiging wasto.
 
 Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
 
