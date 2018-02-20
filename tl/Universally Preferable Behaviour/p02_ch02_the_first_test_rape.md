@@ -42,11 +42,11 @@ Sa gayon pwede na nating sabihin na makatwiran na kung saan wala ang pagpili, o 
 
 Dahil sa kanyang isip, ipagpapatuloy pa rin natin ang pagsusuri sa panghahalay.
 
-### Ang masarap na positibong paraan
+### Ang malasa na positibong paraan
 
-Aesthetically positive actions (APAs) are universally preferable, but not enforceable through violence, since aesthetically negative actions do not initiate the use of force. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
+Ang mga malasa na positibong paraan (APAs) ay higit sa lahat, ngunit hindi pwedeng maipatupad sa pamamagitan ng kasamaan, dahil ang mga malasa na negatibong paraan ay hindi nag-uumpisa sa paggamit ng lakas. Gaya na rin ng aming pinag-usapan sa itaas, kung ako ay nahuli sa pagkikipag-pulong sa iyo, hindi ko sisimulan ang paggamit ng lakas laban sa iyo, at hindi ko aalisin ang iyong kapasidad na pumili, o maiwasan ang sitwasyon.
 
-If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
+Kung sasabihin man natin na ang APA ay pwedeng nang ipatupad sa pamamagitan ng kasamaan, at pagkatapos ay sasabihin natin na ang pagsisimula ng kasamaan ay mabuti sa moral.
 
 If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
 
