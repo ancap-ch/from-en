@@ -4,7 +4,7 @@ Ang makatuwiran teorya ng moral ay dapat naipapaliwanag sa lahat ng nasa pangdai
 
 Kung ang balagkas ng UPB ay naipapaliwanag ang nasa taas, Kung gayon tiyak na maipapasa ng Hindi bababa sa "common sense" test.
 
-This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
+Hindi ito nangangahulugan na parehong kamangha-mangha -kahit na ito ay nakakagulat - na kunklosyon Hindi ito maaaring magresulta sa amin teoryang moral, pero ganun paman nalagpasan niya ang unang sagabal sa pagpapaliwanag ng obvious, bago nila pag-aralan ito ay malayo mula sa obvious.
 
 With that in mind, let us turn to the question of *initiation*.
 
