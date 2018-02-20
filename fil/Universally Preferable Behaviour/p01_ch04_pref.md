@@ -72,7 +72,7 @@ Hindi mo sasabihin sa akin: Kailangan mong palitan ang iyong opinyon sa akin dah
 
 #### Saligan 5: Ang Obhetibong Pamamaraan ay Umiiral upang Ihiwalay ang Katotohanan sa Kamalian
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Kung ikaw ay hindi sang-ayon sa akin, ngunit sasabihin ko na dapat kang sumang-ayon sa akin dahil ako ay palagi tama, ito ay malamang na hindi ka makuntento dahil sa kabagsikan ng aking argumento. Kung magbigay ka ng magandang dahilan kung bakit ako mali, ngunit paulit-ulit lang ako na tama ako dahil ako ay *palaging* tama, ang ating koneksyon ay bahagya na maikategorya bilang isang debate.
 
 The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
 
