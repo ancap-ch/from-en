@@ -10,11 +10,11 @@ Ang pagkilala sa superyor na lohika sa isang argumento ay isang *aksyon*. Kung, 
 
 Sa gayon ay makikita na, ang likas na pagkilos sa pagtatalo ay isang bilang ng mga naka-embed na mga lugar na hindi maaaring maisip maitaob.
 
-Kung hihilingin ko sa iyo na makilala ako sa tennis court, at magpakita ng isang rifle ng pangangaso, maaari tayong mag-play ng isang uri ng paligsahan, ngunit tiyak na hindi ito magiging tennis. Kapag hiniling ko sa iyo na makilala ako sa tennis court para sa isang laro, ang pahayag sa kahilingan na iyon ay isang pagtanggap sa mga panuntunan ng tennis.
+Kung hihilingin ko sa iyo na makilala ako sa tennis court, at magpakita ng isang rifle ng pangangaso, maaari tayong maglaro ng isang uri ng paligsahan, ngunit tiyak na hindi ito magiging tennis. Kapag hiniling ko sa iyo na makilala ako sa tennis court para sa isang laro, ang pahayag sa kahilingan na iyon ay isang pagtanggap sa mga panuntunan ng tennis.
 
 Sa kasaysayan, ang mga nakikipag-debate sa etika ay madalas na mabigo upang mapanatili ang batayang katotohanang ito.
 
-Hindi ako makakapagsumite ng isang pang-agham na papel na isinulat sa sarili kong sariling wika, na nag-aangkin na ito ay sinisi ng aking saykiko na goldpis, at inaasahan na maging seryoso. Sa katulad na paraan, hindi ako makapagsimula ng isang pilosopiko na debate sa etika sa pagtukoy sa aking sariling mga personal na halaga, at sinasabing ang lahat ng aking mga argumento ay napatunayan na ni Trixie ang marunong at mahuhusay na leprechaun, at inaasahan na maging seryoso.
+Hindi ako makakapagsumite ng isang pang-agham na papel na isinulat sa aking sariling wika, na nag-aangkin na ito ay sinisi ng aking saykiko na goldpis, at inaasahan na maging seryoso. Sa katulad na paraan, hindi ako makapagsimula ng isang pilosopiko na debate sa etika sa pagtukoy sa aking sariling mga personal na halaga, at sinasabing ang lahat ng aking mga argumento ay napatunayan na ni Trixie ang marunong at mahuhusay na leprechaun, at inaasahan na maging seryoso.
 
 Ang tunay na pagkilos ng pakikipag-talo ay nangangailangan ng pagtanggap ng pag-uugali ng higit na lalong kanais-nais (UPB). Walang paraan upang makatugon sa isang makatwirang argumento *nang walang* nagpapakita ng UPB.
 
