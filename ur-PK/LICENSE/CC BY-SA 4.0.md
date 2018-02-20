@@ -6,7 +6,7 @@
 
 ### تخلیقی العام پبلک لائسنس کا استعمال کر رہیں ہیں
 
-Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
+تخلیقی العام عوامی لائسنس اصطلاحات اور شرائط کا ایک اچھا معیار مقرر کرتے ہیں جو تخلیق کار اور دیگر حقوق ہولڈرز ذیل میں عوامی لائسنس میں مخصوص کاپی رائٹ اور مخصوص مواد کے حق اشاعت کے اصل کام اور دیگر مواد کے حصول کے لئے استعمال کرسکتے ہیں. مندرجہ ذیل خیالات صرف معلومات کے مقاصد کے لئے ہیں، ہر لحاظ مکمل نہیں ہیں، اور ہمارے لائسنس کا حصہ نہیں ہیں.
 
 * **Considerations for licensors:** Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. [More considerations for licensors](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors).
 
