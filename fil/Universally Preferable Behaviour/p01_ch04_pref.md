@@ -70,7 +70,7 @@ Kung iwawastomo ako sa pagkakamali na nagawa ko, tanggap mo ang katotohanan na m
 
 Hindi mo sasabihin sa akin: Kailangan mong palitan ang iyong opinyon sa akin dahil mas gusto ko iyon," pero sa halip: "Kailangan mong palitan ang iyong opinyon dahil ito ay talagang mali. "Ang aking kamalian ay hindi lilitaw mula lamang sa pagsang-ayon sa iyo, ngunit bilang resulta ng aking paglihis mula sa pamantayan ng katotohanan. Ang iyong argumento na kailangan kong iwasto ang aking maling opinyon ay pumako sa layon na halaga ng katotohanan - i.e. na ang katotohanan ay *higit na mabuti sa lahat ng dako* na mamali, at ang katotohanan na ito ay *layon sa lahat ng dako*.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### Saligan 5: Ang Obhetibong Pamamaraan ay Umiiral upang Ihiwalay ang Katotohanan sa Kamalian
 
 If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
 
