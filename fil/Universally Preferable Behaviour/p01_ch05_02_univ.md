@@ -30,18 +30,18 @@ Silohistikal, ito ay:
 4. Kaya ang anumang pagtatalo laban sa makamundong kanais-nais na pag-uugali ay nangangailangan ng isang pagtanggap at kaugalian ng makabundong ginustong pag-uugali.
 5. Sa gayon, walang pagtatalo laban sa pag-iral ng makamundong kanais-nais na pag-uugali ay maaari magiging wasto.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+Dahil ang siyentipikong pamamaraan ay nangangailangan ng empirikal na pagsang-ayon, dapat din natin na tignan ang katotohanan upang makumpirma ang ating teyorya - at dito ang bisa ng makamundong kanais-nais na pag-uugali ay lubos na masusuportahan.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Ang bawat taong taimtim ay naniniwala sa moral na patakaran ng ilang uri. Mayroong ilang mga pagtatalo tungkung sa kung ano *ang bumubuo sa* moral na patakaran, ngunit ang lahat ay tiyak na ang moral na mga patakaran ay wasto - tulad ng sa pagtatalo ng maraming siyentipiko, ngunit lahat ng siyentipiko ay tanggap ang bisa ng siyentipikong paraan nito. Ang isang tao ay maaari makipagtalo na ang mundo ay bilog at hindi patag - na kung saan ito ay kahalintulad sa pagbabago ng kahulugan ng moralidad - ngubit ang isa ay hindi makikipagtalo na ang mundo ay hindi umiiral - na kung saan ito ay katulad ng pakikipagtalo na walang bagay tulad ng makamundong kanais-nais na pag-uugali.
 
-Or:
+O:
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+1. Para sa isang siyentipikong teyorya na maging wasto, ito ay dapat suportahan ng empirikal na obserbasyon.
+2. Kung ang konsepto ng "makamundong kanais-nais na pag-uugali" ay wasto, sa gayon ang sangkatauhan ay dapat maniwal sa makamundong kanais-nais na pag-uugali.
+3. Ang lahat ng tao ay naniniwala sa makamundong kanais-nais na pag-uugali.
+4. Sa gayon ang empirikal na katibayan ay umiiral upang suportahan ang bisa ng makamundong kanais-nais na pag-uugali - at ang pag-iral ng tulad nitong katibayan *ay sumasalungat* sa panukala na ang makamundong kanais-nais na pag-uugali ay hindi wasto.
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+Ang iak-apat na pagtatalo para sa bisa ng makamundong kanais-nais na pag-uugali ay empirikal. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
 
 For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
 
