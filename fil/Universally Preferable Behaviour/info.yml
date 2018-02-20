@@ -131,7 +131,7 @@ persons:
     rule: "collaborator"
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "template_pagkatao"
     rule: "thanked"
   - 
     person: [ ]
