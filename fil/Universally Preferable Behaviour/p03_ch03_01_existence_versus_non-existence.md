@@ -66,13 +66,13 @@ Naitanung ko ang retorikang katanungan dahil ito ay tunay at talagang seryoso. M
 
 Ang anolohiya ay hindi tama, dahil nagkaruon ng isang Ph.D. o photocopying ang isang doctorate ay hindi pweding palitan ang kahit anu sa mga patakaran moral na nasasakupan mo bilang tao.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+"well," maaari kang tomugon, "pero ang pagkakaiba ang sundalo ay mayroon karapatan moral na pinagkaloob sa kanila ng karaniwang mamamayan, alang alang sa kolektibong pagtatango sa sarili at iba pa."
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Itong raises ay may napakainteresadong punto, na kung saan ang tanung ay kung ang opinyon ay makakapagpabago ng reyalidad.
 
-### Opinions And Reality
+### Mga opinyon at reyalidad
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Malinaw, aking nauunawaan ang hindi ko magagawa sa pamamagitan ng opinyon palayain ka mula sa paghihigpit ng grabidad, anu mang higit sa aking opinyon na dalawa plus dalawa kalalabasan ay lima" gawin itong totoo.
 
 “Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
 
