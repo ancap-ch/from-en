@@ -22,8 +22,8 @@ Ngayon: Paano na ang tungkol sa ugnayang namamagitan sa libertaryanismo at ang A
 
 1. Paano naipapanatili ang order bilang libertaryano kung ito ay naitamo na;
 2. Paano matatamasa ang order ng pagkakalibertaryano mula sa pansimulang punto ng isang hindi libertaryano, na kung saan ito ay nangangailangang: 
-....1. Ang isang iyan ay dapat maiwasto para mai-deskrayb sa panimulang puntong;
-....2. I-identipika ng wasto ang mga obstakel na nag-aanyo sa pamamaraang ang isang libertaryano ay nagtatapos sa pinakapansimulang puntong ito.
+::::1. Ang isang iyan ay dapat maiwasto para mai-deskrayb sa panimulang puntong;
+::::2. I-identipika ng wasto ang mga obstakel na nag-aanyo sa pamamaraang ang isang libertaryano ay nagtatapos sa pinakapansimulang puntong ito.
 
 Para makapagsago sa mga kwestiyon na ito, sa pagkakadagdag sa teorya, ikaw ay nangangailangan ng iilan sa mga aralin ng saykolohiya at sosyolohiya ng tao o higit pa sa kaunting sentidong common. Sa ngayon maraming mga libertaryano at mga pekeng libertaryano ay isang ignorante lamang sa saykolohiya at sosyolohiya ng tao o kahit na yung kinuhaan ng anumang sentido komon. Parang bulag nilang tinatanggap, kasalungat sa lahat ng ebidensyang empirikal, isang egalitaryani, slate-na-blangko na pananaw ng sa katauhang natura, ng lahat ng mga tao at lahat ng mga sosyedad at mga kulturang napakaesensyal sa pagkakapantay-pantay at pagpapalit.
 
@@ -68,8 +68,8 @@ Outside egalitarian phantasy lands, however, in the real world, libertarians mus
 They are:
 
 1. The ruling elites in control of the State apparatus and in particular the “Deep State” or the so-called “Cathedral” of the military, the secret services, the central banks and the supreme courts. As well, they include: 
-....1. The leaders of the military-industrial complex, i.e., of nominally private firms that owe their very existence to the State as the exclusive or dominant buyer of their products;
-....2. The leaders of the big commercial banks, which owe their privilege of creating money and credit out of thin air to the existence of the central bank and its role as a “lender of last resort”. They together, then, State, Big-Business and Big-Banking, form an extremely powerful even if tiny “mutual admiration society,” jointly ripping off the huge mass of tax-payers and living it up big time at their expense.
+::::1. The leaders of the military-industrial complex, i.e., of nominally private firms that owe their very existence to the State as the exclusive or dominant buyer of their products;
+::::2. The leaders of the big commercial banks, which owe their privilege of creating money and credit out of thin air to the existence of the central bank and its role as a “lender of last resort”. They together, then, State, Big-Business and Big-Banking, form an extremely powerful even if tiny “mutual admiration society,” jointly ripping off the huge mass of tax-payers and living it up big time at their expense.
 2. ([A] much larger group of enemies is made up of) the intellectuals, educators and “educrats,” from the highest levels of academia down to the level of elementary schools and kindergartens. Funded almost exclusively, whether directly or indirectly, by the State, they, in their overwhelming majority, have become the soft tools and willing executioners in the hands of the ruling elite and its designs for absolute power and total control.
 3. The journalists of the MSM, as the docile products of the system of “public education,” and the craven recipients and popularizers of government “information.”
 

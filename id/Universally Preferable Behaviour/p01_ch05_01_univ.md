@@ -6,7 +6,7 @@ Saya menggunakan kata"perilaku" di sini dari pada "berpikir" karena penting untu
 
 Tidak mungkin membuktikan bahwa saya mengimpikan seekor gajah tadi malam. Ada kemungkinan untuk membuktikan bahwa saya telah menulis kata "gajah," oleh karena itu saya menggunakan kata "tingkah laku" daripada "pikiran".
 
-Mengakuisisi ke logika unggul dalam sebuah argumen adalah * action </ 0>. Jika, setiap kali saya memberikan satu poin kepada Anda, saya tidak mengatakan apa-apa, tapi hanya menatap Anda dengan kosong, Anda akan merasa agak sulit untuk memperdebatkan saya. Untuk mengakui satu poin, saya harus melakukan tindakan persetujuan lisan.</p> 
+Mengakuisisi ke logika unggul dalam sebuah argumen adalah *action*. Jika, setiap kali saya memberikan satu poin kepada Anda, saya tidak mengatakan apa-apa, tapi hanya menatap Anda dengan kosong, Anda akan merasa agak sulit untuk memperdebatkan saya. Untuk mengakui satu poin, saya harus melakukan tindakan persetujuan lisan.
 
 Dengan demikian dapat dilihat bahwa, yang melekat dalam tindakan berdebat adalah sejumlah tempat tertanam yang tidak dapat dibalikkan dapat dibalikkan.
 

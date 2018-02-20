@@ -52,7 +52,7 @@ Mon but dans ce livre est de définir une méthodologie pour la validation des t
 
 Je suis pleinement conscient que, en ce moment, vous sentez probablement une vague croissante de scepticisme. Je comprends parfaitement que les chances d'un type extérieur sur Internet – la planète natale des fous – ayant résolu le problème philosophique des âges ne soient pas particulièrement élevées – en fait, ils seraient si proches de zéro qu'il serait pratiquement indiscernable.
 
-Cependant, aucun <0>n'est</0> zéro.
+Cependant, aucun *n'est* zéro.
 
 ### Règles du Jeu
 
