@@ -82,9 +82,9 @@ Ito ay maaaring tunog ng pribado, ngunit ito ay isang nakamamatay na seryosong t
 
 Sabihin natin na maaari nating magawa nang lubusan ang problema sa “limampung porsyento ng pagmamay-ari ng katawan”, at sinasabi na ang mga tao ay may limampung porsiyento lamang ng mga karapatan sa pagmamay-ari pagdating sa *panlabas* na mga bagay.
 
-How does that work in practice?
+Paano ito gumagana sa pagsasanay?
 
-Well, if I have two lawnmowers and you have none, then clearly it would be logical for you to have the right to take one of my lawnmowers, since I can only ever own half of my lawnmower collection.
+Mainam, kung mayroon akong dalawang lawnmowers at ikaw ay wala, pagkatapos ay malinaw na magiging lohikal para sa iyo na magkaroon ng karapatan na kunin ang isa sa aking mga lawnmower, yamang kailanman ay maaari ko lamang pag-arian ang kalahati ng aking koleksyon ng lawnmower.
 
 However, when you take possession of one of my lawnmowers, unfortunately you are only ever allowed to own *half* of that lawnmower, since we only have the right to fifty percent ownership over external objects. Thus you must immediately find somebody with whom you can share the lawnmower. This brings your “just” ownership down to twenty-five percent. However, your new co-owner cannot have the right to twenty-five percent of the lawnmower, because he only has fifty percent rights for whatever ownership he possesses – thus he must find somebody to take fifty percent of the twenty-five percent that he has – and so on and so on and so on.
 
