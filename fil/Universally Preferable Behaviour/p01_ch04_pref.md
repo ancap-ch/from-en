@@ -38,9 +38,9 @@ Malinaw na, ang ibang mga kagustuhan ay objective. Musikal na panlasa, personal 
 
 Ang pagsubok ay lumitaw nang tinangka natin na bigyan kahulugan ang ilang kagustuhan bilang *layunin*.
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+Ang panukala bago sa atin ay kaya naman: *maaari na ang ilan kagustuhan ay layunin, i.e. pandaigdig?*
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+Kapag sinabi ko na ang ilang mga kagustuhan ay maaaring layunin, hindi ko ibig sabihin na ang lahat ng tao ay ay sumunod sa mga kagustuhan ito sa lahat ng oras. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
 
 Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
 
