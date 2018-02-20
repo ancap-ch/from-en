@@ -56,13 +56,13 @@ Kaya naman alam na natin na ang panghahalay ay hindi pwedeng maging isang APA.
 
 Pwede naming siguraduhin ito sa pamamagitan ng pagsusuri sa mga dahilan na kung bakit ang "pagiging nasa oras"*sa* ang APA.
 
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
+Una sa lahat, na aming nalalaman na ang bilang ng katutubo na higit lamang ang kanilang pagtanggi sa isang kaibigan dahil sa pagiging huli na sa huli kaysa tanggihan nila ang isang kaibigan dahil hindi nila nagustuhan ang ice cream.
 
-Why is that?
+Ano ba iyan?
 
-Once again, the UPB framework comes to the rescue.
+Uulitin ko, ang balangkas ng UPB ay talagang dumarating para magligtas.
 
-An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
+Ang APA ay isang *mapilit na kapangyarihan na panuntunan na pwedeng makatwiran na nuugnay sa magparehong partido nang magkakasabay*.
 
 For instance, if my APA is: “be on time,” then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
 
