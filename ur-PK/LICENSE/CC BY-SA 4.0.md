@@ -1,4 +1,4 @@
-## creative commons
+## تخلیقی عام
 
 # Attribution-ShareAlike 4.0 International
 
