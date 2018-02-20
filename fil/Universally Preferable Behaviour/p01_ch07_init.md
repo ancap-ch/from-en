@@ -6,7 +6,7 @@ Kung ang balagkas ng UPB ay naipapaliwanag ang nasa taas, Kung gayon tiyak na ma
 
 Hindi ito nangangahulugan na parehong kamangha-mangha -kahit na ito ay nakakagulat - na kunklosyon Hindi ito maaaring magresulta sa amin teoryang moral, pero ganun paman nalagpasan niya ang unang sagabal sa pagpapaliwanag ng obvious, bago nila pag-aralan ito ay malayo mula sa obvious.
 
-With that in mind, let us turn to the question of *initiation*.
+Sa pag-iisip na ito, halika at harapin ang katanungan ng *initiation*.
 
 A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
 
