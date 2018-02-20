@@ -1,26 +1,26 @@
-### UPB: Five Proofs
+### UPB: Awon Ayewo Maarun
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+Bi ase ti so siwaju loke, oke aimoye awon isoro imoye inu ero okan ati eri ti a lee gbamu nipase agbeyewo ni o wa ninu aba wipe ko si irufe nkan bi ise ti a yan fe. “Ise ti gbogbo aye yan fe” gbudo je erongba ti o ni idaniloju, fun idi marun gboogi.
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+Idi akoko ni imoye ninu ero okan: ti mo ba *jiyan* lodi si aba wipe ise ti gbogbo aye yanfe wa, a je wipe mo ti fi aayo mi han siwaju fun otito dipo iro – ni ona kan na bi fifi aayo mi han fun tito awon ti won n soro lona eke sona otito. Nipa siso wipe ko si irufe nnkan bi ise ti gbogbo aye yanfe jo po mo kike igbe si eti elomiran wipe ko si nkanti o n je iro ohun  – eyi je ise ti o tako ara re ninu sise. Ni ona miran, ti ko ba *si irufe nnkan* bi ise ti gbogbo aye yan fe, a je wipe a *gbudo* tako enikeni ti o ba so wipe irufe nnkan bi ise ti gbogbo aye yanfe wa. Ni ona miran ewe, ti o ba di “dandan” ki eniyan se nkan kan, a je wipe eniyan sese se eda isa ti gbogbo aye yanfe. Fun idi eyi, ise gbogbo aye yanfe – tabi awon ilana nkan ti o to tabi ti ko to – gbodo je eyi ti a lee gabmu.
 
-Syllogistically, this is:
+Nipase fifi awon imoye meji wera won, eyi yi ni wipe:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1. Aba eyi ni wipe: erongba ti o je ti "ise ti gbogbo aye yanfe" gbudo je eyi ti a lee gbamu tabi fi idi re mule.
+2. Awijare ti o tako igbamu tabi ifidimule ise ti gbogbo aye yanfe tikalara re se apejuwe ise ti gbogbo aye yanfe.
+3. Nipase idi eyi, ko si awijare ti o tako ifidimule ise ti gbogbo aye yanfe.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+Gbogbo wa ni a mo wipe awon nkan kan wa ti olukuluku eniyan ni ife si lotooto, bi ki a feran wara inu yinyin tabi ori igbafe oni feere, ko kan dandan fun awon elomiran lati kopa tabi lati bani feran iru awon nkan bawonyi. Ni ona miran ewe, awon nkan miran wa ti awon elomiran ni ife si, bii ifipabanilopo ati ipaniyan, awon nkan ti won *je* ipalara elomiran. Awon kan tun ni ife si imoye inu ero okan, otito ati eri, awon nkan wonyi kan elomiran (sugbon won kii se ipalara tipatipa) niwon igba ti o ba je wipe gbogbo wa gba wipe aba ti ko ba ni ero ogbon tabi imoye ninu gbudo je iro tabi eyi ti ko ni ifidimule.
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+Awon nnkan ti a ni ife si ti a si le ka si awon nkan ti won kan dandan fun elomiran ni a lee ka si “nnkan ti a ni ife si ti won si se itewogba fun gbogbo eniyan” tabi “awon ilana fun ohun ti o to tabi eyi ti ko to.”
 
-How else can we know that the concept of “moral rules” is valid?
+Ona miran wo ni a tun ti le mo pe agbekale “awon ilana fun ohun ti o to tabi ti ko to” fi idi mule?
 
-We can examine the question biologically as well as syllogistically.
+A lee se ayewo ibeere yi nipa imonjile lori ohun abemi ati bakan naa nipa fifi imoye we imoye.
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+Fun apeere, gbogbo nnkan ti a lee fi oju ri tabi fi owo kan ni won n be labe ofin ti a lee fi oju ri – ati wipe gbogbo nnkan abemi ni won nii lo awon nkan kan pelu, fun idi eyi, ti nkan ba ti je abemi, o gbudo je nkan ti awon iwa ti gbogbo eniyan fe tele. Iwalaaye, fun apeere, nilo epo ati afefe ti a nmi sinu. Okan ti o ba ti ti wa laaye pelu tun je arak an Pataki aye ti a le fi oju ri, ba kan na ni o si tun wa labe ofin ti a lee fi oju ri ti osi tun gbudo je eyi ti awon iwa ti gbgbo eniyan fe tele pelu – lati wa se atotonu ni onamiran to yato si eyi maa nilo eri wipe iye eniyan kii se ohun ti o ni nkan ti a le fi oju ri tabi fi owo kan ninu., ati nkan ti ko ni ajosepo mo ohun abemi – eyi ti ko seese, niwon igba ti o je wipe iye eniyan ni iwn, agbara ati aaye. Sise atotonu wipe iye eniyan kosi labe awon ofin ti a lee f oju ri tabi awon iwa ti gbogbo aye fe gbudo fara jopo mo sise atotonu wipe eniyan ti o ba fo si oke ko ni pad abo wa sile, ati lati so wipe eda le wa laaye lalai maa je ounje.
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+Fun idi eyi, ko seese ki eniyan kan se atotonu to ni oye ninu lo di si awon iwa to gbogbo aye yan laayo, niwon igba ti o je wipe ti iru eniyan bee ba ti wa laye lati se iru atotonu bayi, ohun tikalara re ti gbudo ni lati tele awon iwa ti gbogbo aye yan laayo bi mimi, jije ounje ati mimu. 
 
 Syllogistically, this is:
 
