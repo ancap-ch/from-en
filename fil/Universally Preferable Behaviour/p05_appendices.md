@@ -19,15 +19,15 @@ Sa ilalim, pakisausap hanapin ang pangunahing pagbubuod para sa moradlidad.
 
 ## Apendiks B: ang mga kategorya ng moral
 
-Below is a sample table that lists some of the most common categories of actions/rules, and their key differentiators.
+Nasa ilalim ay isang halimbawa ng mga listahan ng talahanayan ng ilang sa mga karaniwang mga kategorya ng aksyon/patakaran, at ang kanilang mga differentiators.
 
-| Action/Rule                       | Preference? | Universal? | Enforceable? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                |
-| --------------------------------- | ----------- | ---------- | ------------ | ----------------------------------------------------- | ------------------------- | ----------------------------- |
-| **Running for the bus**           | No          | No         | n/a          | n/a                                                   | n/a                       | Neutral                       |
-| **You should not like ice cream** | Yes         | No         | No           | n/a                                                   | n/a                       | Neutral (personal preference) |
-| **You should not be late**        | Yes         | Yes        | No           | No                                                    | Yes                       | APA                           |
-| **You should not commit fraud**   | Yes         | Yes        | Yes          | Yes                                                   | Yes                       | Good                          |
-| **You should not rape**           | Yes         | Yes        | Yes          | No                                                    | No                        | Good                          |
+| Aksyon/patakaran                  | Pag-nanais? | Panglahatan? | Isinakatuparan? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                |
+| --------------------------------- | ----------- | ------------ | --------------- | ----------------------------------------------------- | ------------------------- | ----------------------------- |
+| **Running for the bus**           | No          | No           | n/a             | n/a                                                   | n/a                       | Neutral                       |
+| **You should not like ice cream** | Yes         | No           | No              | n/a                                                   | n/a                       | Neutral (personal preference) |
+| **You should not be late**        | Yes         | Yes          | No              | No                                                    | Yes                       | APA                           |
+| **You should not commit fraud**   | Yes         | Yes          | Yes             | Yes                                                   | Yes                       | Good                          |
+| **You should not rape**           | Yes         | Yes          | Yes             | No                                                    | No                        | Good                          |
 
 ## Appendix C: UPB Podcasts
 
