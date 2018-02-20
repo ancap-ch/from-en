@@ -84,7 +84,7 @@
             
             a. ***Attribution.***
             
-            1. If You Share the Licensed Material (including in modified form), You must:
+            1. اگر آپ لائسنس یافتہ مواد کو تقسیم کرتے ہیں (بشمول ترمیم شدہ فارم)، تو آپ لازمی کریں:
                 
                 A. retain the following if it is supplied by the Licensor with the Licensed Material:
                 
