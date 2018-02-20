@@ -7,7 +7,7 @@ Sa ilalim, pakisausap hanapin ang pangunahing pagbubuod para sa moradlidad.
 1. Ang obhetibo ay katotohanan at pare-parehas.
 2. "lohika" ay ang hanay ng obhetibo at pare-prehas at mga patakaran na nanggaling sa pare-parehas na katotohanan.
 3. Ang mga sumusunod na teyorya sa lohika na tinaguriang "balido."
-4. Those theories that are confirmed by empirical testing are called “accurate.”
+4. Ang mga teyorya na nakumpimado ng empirical testing ay tinawag na "wasto."
 5. Those theories that are both valid and accurate are called “true.”
 6. “Preferences” are required for life, thought, language and debating.
 7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
