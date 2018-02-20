@@ -21,13 +21,13 @@ Sa ilalim, pakisausap hanapin ang pangunahing pagbubuod para sa moradlidad.
 
 Nasa ilalim ay isang halimbawa ng mga listahan ng talahanayan ng ilang sa mga karaniwang mga kategorya ng aksyon/patakaran, at ang kanilang mga differentiators.
 
-| Aksyon/patakaran                  | Pag-nanais? | Panglahatan? | Isinakatuparan? | Ang pag-aksyon ang kinakailangan ng pagsisimula sa panig ng biktima? | Ang mga lumalabag ay pwede bang iwasan? | Moral Category                |
-| --------------------------------- | ----------- | ------------ | --------------- | -------------------------------------------------------------------- | --------------------------------------- | ----------------------------- |
-| **Running for the bus**           | No          | No           | n/a             | n/a                                                                  | n/a                                     | Neutral                       |
-| **You should not like ice cream** | Yes         | No           | No              | n/a                                                                  | n/a                                     | Neutral (personal preference) |
-| **You should not be late**        | Yes         | Yes          | No              | No                                                                   | Yes                                     | APA                           |
-| **You should not commit fraud**   | Yes         | Yes          | Yes             | Yes                                                                  | Yes                                     | Good                          |
-| **You should not rape**           | Yes         | Yes          | Yes             | No                                                                   | No                                      | Good                          |
+| Aksyon/patakaran                          | Pag-nanais? | Panglahatan? | Isinakatuparan? | Ang pag-aksyon ang kinakailangan ng pagsisimula sa panig ng biktima? | Ang mga lumalabag ay pwede bang iwasan? | Ang kategorya ng moral        |
+| ----------------------------------------- | ----------- | ------------ | --------------- | -------------------------------------------------------------------- | --------------------------------------- | ----------------------------- |
+| **Tatakbo para sa bus**                   | Wala        | Wala         | wala            | n/a                                                                  | n/a                                     | Niyutral                      |
+| **Ang ice cream ay hindi mo dapat gusto** | Yes         | No           | No              | n/a                                                                  | n/a                                     | Neutral (personal preference) |
+| **You should not be late**                | Yes         | Yes          | No              | No                                                                   | Yes                                     | APA                           |
+| **You should not commit fraud**           | Yes         | Yes          | Yes             | Yes                                                                  | Yes                                     | Good                          |
+| **You should not rape**                   | Yes         | Yes          | Yes             | No                                                                   | No                                      | Good                          |
 
 ## Appendix C: UPB Podcasts
 
