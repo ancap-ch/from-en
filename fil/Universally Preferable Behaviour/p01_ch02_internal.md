@@ -14,7 +14,7 @@ Sa mga termino sa computer, Ang code na hindi sumulat ay hindi masubukan.
 
 Ito ay totoo rin sa pang-agham na mundo. Ang mga teorya ay palaging naka-check para sa panloob na pagkakapare-pareho bago sila isumite sa mga eksperimentong pagsusulit. Ang dahilan kung bakit napakahalaga ng panloob na pagkakapare-pareho ay dahil ang mga teorya ay nag-aangkin ng halaga na may kaugnayan sa katotohanan, at ang katotohanan ay panloob na pare-pareho, ang anumang teorya na *hindi* na pare-pareho sa loob ay hindi maaaring magkaroon ng halaga na may kaugnayan sa katotohanan.
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+Lamang *pagkatapos* ang panloob na pagkakapare-pareho ng mga kalkulasyon ay naitatag na ang antas kung saan natutugunan ng tulay ang mga pagtutukoy na susuriin. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
 
 Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
 
