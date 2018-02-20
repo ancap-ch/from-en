@@ -20,7 +20,7 @@ Apa artinya ini bahwa pengusaha berasumsi (*memilih*, bahkan) biaya berdasarkan 
 
 Di pasar yang tidak sempurna, ini berarti bisa ada markup tinggi yang menawarkan keuntungan bagi pengusaha. Tapi ini juga yang memancing pengusaha lain memasuki pasar khusus ini, jadi bila tidak ada hambatan signifikan untuk mendapatkan keuntungan masuk akan cenderung terjepit sampai mencapai tingkat pengembalian pasar standar. Dalam proses ini, biaya ditekan tapi harga konsumen lebih baik lagi, sehingga membuat konsumen menjadi pemenang utama proses ini.
 
-Jadi, tidak berarti sebuah paradoks bahwa harga pasar sekotak cat sangat sedikit kaitannya dengan harga akhir lukisan itu. Kotak cat tersebut diperdagangkan di pasaran dengan harga yang sebagian berasal dari nilai antisipasi lukisan. Demikian pula, daun koka yang akhirnya akan berakhir di lubang hidung di Wall Street.</em>
+Jadi, tidak berarti sebuah paradoks bahwa harga pasar sekotak cat sangat sedikit kaitannya dengan harga akhir lukisan itu. Kotak cat tersebut diperdagangkan di pasaran dengan harga yang sebagian berasal dari nilai antisipasi lukisan. Demikian pula, daun koka yang akhirnya akan berakhir di lubang hidung di Wall Street.
 
 Jika pemerintah membakar setengah dari ladang tersebut, ini tidak akan menyebabkan penggandaan harga barang terakhir. Sebagai gantinya, akan meningkatkan biaya yang harus ditutupi oleh produsen untuk menghasilkan barang akhir yang tersedia di pasar pelanggan. Karena margin sangat besar dalam produksi dan distribusi obat terlarang, terutama akibat represi pemerintah, produsen tidak berfikir dua kali untuk melanjutkan seperti sebelumnya tanpa mengubah harga: itu hanya menyebabkan penyok kecil dalam pendapatan mereka.
 

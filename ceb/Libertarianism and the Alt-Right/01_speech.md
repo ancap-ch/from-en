@@ -38,8 +38,8 @@ Karon: Kung unsa ang mahitungod sa relasyon tali sa libertaryanismo ug ang Alt-R
 
 1. Unsaon man pagmintinar sa kamandoan nga libertaryano sa dihang nakabtan na;
 2. Unsaon man nga makadangat sa kamandoan nga libertaryano gumikan sa usa ka dili libertaryano nga punto nga pansugod, nga nanginahanglan:
-....1. Nga ang usa dapat tarong nga makahulagway niini nga pansugod nga punto;
-....2. Husto nga pag-ila sa mga babag nga mibarog sa giagian sa usa ka libertaryano nga matapos pinaagi niini nga tinuod nga pansugod nga punto.
+::::1. Nga ang usa dapat tarong nga makahulagway niini nga pansugod nga punto;
+::::2. Husto nga pag-ila sa mga babag nga mibarog sa giagian sa usa ka libertaryano nga matapos pinaagi niini nga tinuod nga pansugod nga punto.
 
 Sa pagtubag niini nga mga pangutana, sa dugang pa ngadto sa teorya, nanginahanglan sab ka og daghan nga nahibal-an sa saykolohiya sa tawo ug sosyolohiya o bisag gamay nga sukod sa pagbati nga komon. Bisan pa sa kadaghanan sa mga libertaryano ug mga peke nga libertaryano  kay tataw nga ignorante sa saykolohiya sa tawo ug sosyolohiya o bisan pa nga walay bisan unsa nga pagbati nga komon. Nagpakabuta sila nga mingdaway, batok sa tanan nga ebidensya nga empirikal, usa ka egalitaryano, blangko nga libro sa paglantaw sa kinaiyahan sa tawo, nga sa tanan nga tawo ug tanan nga mga katilingban ug mga kultura nga importante nga managsama ug makabayloay.
 
@@ -101,8 +101,8 @@ Gawas sa mga yuta nga egalitaryano nga gipangandoy, hinoon, ngadto sa tinuod nga
 
 Mao ni sila: 
 1. Ang mga naghari nga mga gamhanan nga tawo nga nagkontrolar sa mga gamit sa Estado ug sa partikular ang “Lawom sa Estado” o ang sa gitawag nga “Katedral” sa kasundaluan, mga serbisyo nga sekreto, mga sentro nga bangko, ug ang labing gamhanan nga ma korte. Nga usab, nalangkit kini:
-....1. Ang mga tigpangulo sa industriya sa kasundaluan nga kompleks, pananglit, sa nahinganlan nga mga pribado ng kompanya nga gagikan sa ilaha nga paglungtad ngadto sa Estado isip ang ekslusibo o ang naglabi nga tigpalit sa ilaha nga mga produkto;
-....2. . Ang mga tigpangulo sa mga dagko nga mga bangko nga komersyal, diin gagikan ang ilaha nga pribilihiyo sa pagmugna og kwarta ug pagpahuwam sa dili makita ngadto sa paglungtad sa sentro nga bangko ug ang ilaha nga katungdanan isip usa ka “tigpahuwam sa kinataposan nga lakang”.
+::::1. Ang mga tigpangulo sa industriya sa kasundaluan nga kompleks, pananglit, sa nahinganlan nga mga pribado ng kompanya nga gagikan sa ilaha nga paglungtad ngadto sa Estado isip ang ekslusibo o ang naglabi nga tigpalit sa ilaha nga mga produkto;
+::::2. . Ang mga tigpangulo sa mga dagko nga mga bangko nga komersyal, diin gagikan ang ilaha nga pribilihiyo sa pagmugna og kwarta ug pagpahuwam sa dili makita ngadto sa paglungtad sa sentro nga bangko ug ang ilaha nga katungdanan isip usa ka “tigpahuwam sa kinataposan nga lakang”.
 Sila kauban, unya, Estado, Dagko nga Negosyo ug Dagko nga Pagpamangko, mingporma og sobra kagamhanan nga bisan kung  ang gamay nga “katilingban nga nagbinalosay og pagdayeg,” nga hiniusa nga mingwala sa dako kaayo nga mga tigbayad og buhis ug pagpakabuhi nga og sobra sa ilaha nga kagustuhan.
 2. ([Usa] ka mas dako nga grupo sa mga kaaway nga gilangkuban sa) mga intelektwal, tigtudlo ug “administrador sa edukasyon,” gikan sa pinakataas nga mga lebel sa akademiya paubos ngadto sa lebel nga elementarya nga mga eskwelahan ug mga kindegarten.
 Halos eksklusibo nga gipundohan, kon diretso man o dili diretso, sa Estado, sila, sa ilaha nga daghan kaayo nga mayoriya, nga nahimo nga humok nga mga gamit ug mga andam nga tigpatay ngadto sa kamot sa mga naghari nga pinili nga mga tawo ug ang mga desinyo niini alang sa hingpit nga gahom ug tibook nga pagkontrolar.

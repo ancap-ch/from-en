@@ -1,6 +1,10 @@
 
 [zh-CN - Chinese (中文)](https://github.com/ancap-ch/from-en/tree/utopian/zh-CN) - [Google Drive Folder](https://drive.google.com/open?id=1R7R4g0QBn_TCm9P21S1YcNBoYgiixffM) - [Crowdin](https://crowdin.com/project/ancap-ch/zh-CN) - [Discussion](https://CN.ancap.ch)
 
+General Guidelines for Chinese Translators:
+1. For names mentioned in the book, please add the English name in (), eg  汉斯．赫尔曼．霍普(Hans Hermann Hoppe). At least for the first occurance of the name in each chapter, no need to do this if the name is mentioned frequently afterwards.
+2. For book titles, use 《书名号》
+
 ---
 
 # Economics and Ethics of Private Property    
@@ -24,17 +28,17 @@ Last generated:
 | 03_p01_ch02_03.md | :x: | :x: | 3k 440 | | | |
 | 03_p01_ch02_04.md | :x: | :x: | 3k 510 | | | |
 | 03_p01_ch02_05.md | :x: | :x: | 3k 280 | | | |
-| 03_p01_ch03_01.md | :x: | :x: | 2k 370 | | | |
-| 03_p01_ch03_02.md | :x: | :x: | 2k 580 | | | |
-| 03_p01_ch03_03.md | :x: | :x: | 2k 820 | | | |
-| 03_p01_ch03_04.md | :x: | :x: | 3k 550 | | | |
-| 03_p01_ch03_05.md | :x: | :x: | 3k 570 | | | |
+| 03_p01_ch03_01.md | :x: | :x: | 2k 370 | AngelaWenjing | | |
+| 03_p01_ch03_02.md | :x: | :x: | 2k 580 | AngelaWenjing | | |
+| 03_p01_ch03_03.md | :x: | :x: | 2k 820 | AngelaWenjing | | |
+| 03_p01_ch03_04.md | :x: | :x: | 3k 550 | AngelaWenjing | | |
+| 03_p01_ch03_05.md | :x: | :x: | 3k 570 | AngelaWenjing | | |
 | 03_p01_ch04_01.md | :x: | :x: | 4k 300 | | | |
 | 03_p01_ch04_02.md | :x: | :x: | 4k 000 | | | |
-| 03_p01_ch05_01.md | :x: | :x: | 2k 400 | | | |
-| 03_p01_ch05_02.md | :x: | :x: | 3k 470 | | | |
-| 03_p01_ch05_03.md | :x: | :x: | 3k 920 | | | |
-| 03_p01_ch05_04.md | :x: | :x: | 2k 930 | | | |
+| 03_p01_ch05_01.md | :x: | :x: | 2k 400 | sunray | | |
+| 03_p01_ch05_02.md | :x: | :x: | 3k 470 | sunray | | |
+| 03_p01_ch05_03.md | :x: | :x: | 3k 920 | sunray | | |
+| 03_p01_ch05_04.md | :x: | :x: | 2k 930 | sunray | | |
 | 03_p01_ch06_01.md | :x: | :x: | 2k 940 | | | |
 | 03_p01_ch06_02.md | :x: | :x: | 4k 530 | | | |
 | 03_p01_ch06_03.md | :x: | :x: | 3k 860 | | | |
