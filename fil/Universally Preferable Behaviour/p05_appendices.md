@@ -5,8 +5,8 @@
 Sa ilalim, pakisausap hanapin ang pangunahing pagbubuod para sa moradlidad.
 
 1. Ang obhetibo ay katotohanan at pare-parehas.
-2. “Logic” is the set of objective and consistent rules derived from the consistency of reality.
-3. Those theories that conform to logic are called “valid.”
+2. "lohika" ay ang hanay ng obhetibo at pare-prehas at mga patakaran na nanggaling sa pare-parehas na katotohanan.
+3. Ang mga sumusunod na teyorya sa lohika na tinaguriang "balido."
 4. Those theories that are confirmed by empirical testing are called “accurate.”
 5. Those theories that are both valid and accurate are called “true.”
 6. “Preferences” are required for life, thought, language and debating.
