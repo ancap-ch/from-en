@@ -18,7 +18,7 @@ Ang mga kagustuhan ay hindi umiiral sa loob ng realidad. Kung ikaw ay masyadong 
 
 Makakakita tayo ng *ebidensya* para sa kagustuhan; hindi tayo makakita ng kagustuhan *mismo* sa katotohanan. Ang kagustuhan ay umiiral bilang isang *relasyon* sa pagitan ng kamalayan at mga bagay, gaya ng ang grabidad ay umiiral bilang relasyon sa pagitan ng mga katawan ng masa.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Sa pag isantabi ng mapang-hamon na mga katanungan ng kusang loob laban sa determinasyon, makatwirang ipalagay na anuman ang ginagawa ng tao sa kasalukuyan ay ang kung ano ang "gusto" niyang gawin. Kung ako ay babangon at pupunta sa trabaho, halatang ako ay *gustong* gawin iyon, kumpara sa lahat ng ibang alternatibo. Kahit na ayaw ko ang aking trabaho, malinaw na ayaw ko ito ng *kaunti* kaysa, sabihin, walang kapera-pera.
 
 Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
 
