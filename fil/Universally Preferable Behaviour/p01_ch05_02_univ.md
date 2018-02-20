@@ -39,11 +39,11 @@ O:
 1. Para sa isang siyentipikong teyorya na maging wasto, ito ay dapat suportahan ng empirikal na obserbasyon.
 2. Kung ang konsepto ng "makamundong kanais-nais na asal" ay wasto, sa gayon ang sangkatauhan ay dapat maniwala sa makamundong kanais-nais na asal.
 3. Ang lahat ng tao ay naniniwala sa makamundong kanais-nais na asal.
-4. Sa gayon ang empirikal na katibayan ay umiiral upang suportahan ang bisa ng makamundong kanais-nais na pag-uugali - at ang pag-iral ng tulad nitong katibayan *ay sumasalungat* sa panukala na ang makamundong kanais-nais na pag-uugali ay hindi wasto.
+4. Sa gayon ang empirikal na katibayan ay umiiral upang suportahan ang bisa ng makamundong kanais-nais na asal - at ang pag-iral ng tulad nitong katibayan *ay sumasalungat* sa panukala na ang makamundong kanais-nais na asal ay hindi wasto.
 
-Ang iak-apat na pagtatalo para sa bisa ng makamundong kanais-nais na pag-uugali ay empirikal. Dahil ang mga tao ay mayroong isang halos-walang katapusan na bilang ng mga pagpipilian upang gumawa ng buhay, upang sabihin na walang prinsipyo ng makamundong kanais-nais na pag-uugali na maaaring sabihin na ang lahat ng pagpipilian ay pantay-pantay (i.e. subhektibo). Gayunpaman, ang lahat ng pagpipilian ay *hindi*pantay-pantay, o kaya lohikal o sa pamamagitan ng empirikal na obserbasyon.
+Ang ika-apat na pagtatalo para sa bisa ng makamundong kanais-nais na asal ay empirikal. Dahil ang mga tao ay mayroong isang halos-walang katapusan na bilang ng mga pagpipilian upang gumawa ng buhay, upang sabihin na walang prinsipyo ng makamundong kanais-nais na asal na maaaring sabihin na ang lahat ng pagpipilian ay pantay-pantay (i.e. subhektibo). Gayunpaman, ang lahat ng pagpipilian ay *hindi*pantay-pantay, o kaya lohikal o sa pamamagitan ng empirikal na obserbasyon.
 
-Halimwa, kung mayroon mga pagkain, halos lahat ng nilalang ay gugustuhing kumain araw-araw. Kapag malamig, halos lahat ng nilalang ay maghahangad mainitan. Halos lahat ng magulang ay pipiliin na pakainin, bigyan ng tirahan at pag-aralin ang kanilang mga anak. Mayroong maraming halimbawa ng karaniwang pagpipilian sa lahat ng tao, na kung saan ay nagpapahiwatig na ang makamundong kanais-nais na pag-uugali ay masagana at ito ay parte ng kalikasan ng tao.
+Halimwa, kung mayroon mga pagkain, halos lahat ng nilalang ay gugustuhing kumain araw-araw. Kapag malamig, halos lahat ng nilalang ay maghahangad mainitan. Halos lahat ng magulang ay pipiliin na pakainin, bigyan ng tirahan at pag-aralin ang kanilang mga anak. Mayroong maraming halimbawa ng karaniwang pagpipilian sa lahat ng tao, na kung saan ay nagpapahiwatig na ang makamundong kanais-nais na asal ay masagana at ito ay parte ng kalikasan ng tao.
 
 Tulad ng nabanggit ko sa itaas, walang wasto na teyorya ng pisika ang kayang itakwil ang simpleng katotohanan na ang mga bata ay kayang manghuli ng langaw-bola - sa katulad na paraan, walang wasto na teyorya ng etika na kayang tanggihan ang walang katapusang katibayan para sa pagtanggap ng UPB.
 
@@ -54,36 +54,36 @@ O:
 3. Kaya hindi lahat ng pagpipilian ay maaring maging pantay-pantay.
 4. Kung sa gayon ang makamundong kanais-nais na pagpipilian ay dapat maging wasto.
 
-Ang ikalimang pagtatalo para sa bisa ng makamundong kanais-nais na pag-uugali ay asa gitna ng ebolusyon.
+Ang ikalimang pagtatalo para sa bisa ng makamundong kanais-nais na asal ay nasa gitna ng ebolusyon.
 
-Dahil ang lahat ng organiko na buhay ay nangangailangan ng katanggap-tanggap na pag-uugali upang mabuhay, maaari nating sabihin na ang lahat ng organismo na kung saan gumagawa ng pinaka matagumpay na pagpili ay ang mga pinaka laging napipili para mabuhay.
+Dahil ang lahat ng organiko na buhay ay nangangailangan ng katanggap-tanggap na asal upang mabuhay, maaari nating sabihin na ang lahat ng organismo na kung saan gumagawa ng pinaka matagumpay na pagpili ay ang mga pinaka laging napipili para mabuhay.
 
-Dahil ang tao ay ang pinaka matagumpay na nilalang, ang pinaka naiiibang bahagi ng ay ang kanyang isip, ito ay dapat maging *isip ng tao* na tinutulungan siya ng lubos sa pagpili ng matagumpay na pagpili. Ang isip mismo, gayon, ay napili na matagumpay sa pamamagitan ng kayang lubos na kakayahan upang gumawa ng matagumpay na mga pagpili. Dahil ang isip ng tao ay umiiral tulad ng isang *resulta*ng pagpili ng makamundong kanais-nais na pag-uugali, ang makamundong kanais-nais na pag-uugali ay dapat maging isang wastong konsepto.
+Dahil ang tao ay ang pinaka matagumpay na nilalang, ang pinaka naiiibang bahagi ay ang kanyang isip, ito ay dapat maging *isip ng tao* na tinutulungan siya ng lubos sa pagpili ng matagumpay na pagpili. Ang isip mismo, gayon, ay napili na matagumpay sa pamamagitan ng kayang lubos na kakayahan upang gumawa ng matagumpay na mga pagpili. Dahil ang isip ng tao ay umiiral tulad ng isang *resulta*ng pagpili ng makamundong kanais-nais na asal, ang makamundong kanais-nais na asal ay dapat maging isang wastong konsepto.
 
 O:
 
 1. Ang mga organismo ay nagtatagumpay sa pamamagitan ng pagkilos sa makamundong kanais-nais na asal.
 2. Ang tao ay ang pinaka matagumpay na organismo.
-3. Sa gayon ang tao ay dapat kumilos ng pinka matagumpay sa basehan ng makamundong kanais-nais na asal.
-4. Ang isp ng tao ay ang kanayang pinaka kakaibang bahagi.
-5. Sa gaon, ang isip ng tao ay dapat kumilos ng pinka matagumpay sa basehan ng makamundong kanais-nais na asal.
+3. Sa gayon ang tao ay dapat kumilos ng pinaka matagumpay sa basehan ng makamundong kanais-nais na asal.
+4. Ang isip ng tao ay ang kanyang pinaka kakaibang bahagi.
+5. Sa gayon, ang isip ng tao ay dapat kumilos ng pinka matagumpay sa basehan ng makamundong kanais-nais na asal.
 6. Sa gayon ang makamundong kanais-nais na asal ay dapat maging wasto.
 
-Maaari nating dalhin ang maraming talakayan upang suportahan ang pagiral at bisa ng UPB, ngunit kinakailangan nating pagpahingain ang kaso na nasa itaas, at magpatuloy sa isang pagsusuri ng likas ng UPB.
+Maaari nating dalhin ang maraming talakayan upang suportahan ang pag-iral at bisa ng UPB, ngunit kinakailangan nating pagpahingain ang kaso na nasa itaas, at magpatuloy sa isang pagsusuri ng likas ng UPB.
 
-#### UPB: Opsiyonal at obhektibo
+#### UPB: Opsiyunal at obhektibo
 
 Dahil napatunayan natin ang bisa ng makamundong kanais-nais na asal, ang tanong ng moralidad ay nagbabago ngayon. Dahil ang moralidad*ay*wasto, anong mga teyorya ang makakapagbilang, makakapagbukod-bukod, makakapagpaliwanag at makakahula nito?
 
-Una sa lahat, dapat nating tandaan na ang moralidad ay malinaw na opsyunal. Ang bawat tao ay npapailalim sa grabidad at nangangailangan ng pagkain upang mabugay, ngunit walang tao ang dapat kumilos ng may moral. Kung ako ay manggagahasa, magnanakaw o papatay, walang kidlat ang makakakit sa akin. Ang mga patakarang moral, tulad ng siyentipikong pamamaraan o biyolohikal na pagbubukod-bukod, ay mga paraan lamang ng makatwirang pagsusunod-sunod ng mga katotohanan at pprinsipyo kaugnay sa obhektibong katotohanan.
+Una sa lahat, dapat nating tandaan na ang moralidad ay malinaw na opsyunal. Ang bawat tao ay napapailalim sa grabidad at nangangailangan ng pagkain upang mabuhay, ngunit walang tao ang dapat kumilos ng may moral. Kung ako ay manggagahasa, magnanakaw o papatay, walang kidlat ang makakakit sa akin. Ang mga patakarang moral, tulad ng siyentipikong pamamaraan o biyolohikal na pagbubukod-bukod, ay mga paraan lamang ng makatwirang pagsusunod-sunod ng mga katotohanan at prinsipyo kaugnay sa obhektibong katotohanan.
 
 Ang katotohanan na ang pagsunod sa patakarang moral ay *opsyunal*, gayunpaman, nililito ang maraming nag-iisip sa paniniwalang ang moralidad ay *subhektibo*. Walang maaring makalayo mula sa katotohanan.
 
-Ang nabubuhay na organimo ay parte ng materyal na katotohanan, at ang materyal na katotohanan ay makatwiran at obhektibo. Ang paglalagay ng moral na teyorya ay opsyunal, ngunit hindi ibigsabihin na ang lahat ng teyoryang moral ay subhektibo. Ang siyentipikong paraan ay isa ding opsyunal, ngunit ito ay hindi subhektibo. Ang paglalagay ng biyolohikalna pagbuklod-buklod ay opsyunal, ngunit ang biyolohika ay hindi subhektibo. Ang mga pagpili ay opsyunal; ang kalalabasan ay hindi. Kaya kong pumili na hindi kumain, ngnit hindi ko kayanag pumili na mabuhay ng hindi kumakain. Kaya kong pumili na pugutan ang sinuman, ngunit hindi ko kayang pumili na mabubuhay o hindi sila ng walang ulo. Ang moralidad ay gayon opsyunal, ngnit ang *epekto* ng moral na mga pagpili ay masusukat at obhektibo.
+Ang nabubuhay na organimo ay parte ng materyal na katotohanan, at ang materyal na katotohanan ay makatwiran at obhektibo. Ang paglalagay ng moral na teyorya ay opsyunal, ngunit hindi ibigsabihin na ang lahat ng teyoryang moral ay subhektibo. Ang siyentipikong paraan ay isa ding opsyunal, ngunit ito ay hindi subhektibo. Ang paglalagay ng biyolohikal na pagbuklod-buklod ay opsyunal, ngunit ang biyolohika ay hindi subhektibo. Ang mga pagpili ay opsyunal; ang kalalabasan ay hindi. Kaya kong pumili na hindi kumain, ngnit hindi ko kayanag pumili na mabuhay ng hindi kumakain. Kaya kong pumili na pugutan ang sinuman, ngunit hindi ko kayang pumili na mabubuhay o hindi sila ng walang ulo. Ang moralidad ay gayon opsyunal, ngnit ang *epekto* ng moral na mga pagpili ay masusukat at obhektibo.
 
 Ngayon, dahil ang moralidad ay isang wastong konsepto, ang susunod na tanong ay: sa anong antas o hangganan ang moralidad ay wasto?
 
-Tulad ng nabanggit sa itaas, ang unag pagsubok ng kahit anong siyentipikong teyorya ay *makamundo*. Tulad ng sa isang teyorya ng pisika ay dapat malagay sa *lahat* ng bagay, ang isang moral na teyorya na nagsasabi sa paglalarawan ng makamundong kilos ng sangkatauhan * ay dapat maglagay sa **lahat**ng sangkatauhan*. Walang moral na teyorya ang maaaring maging wasto kung ito ay makikipagtalo na ang isang tumpak na kilos ay *tama* sa Syria, ngunit*mali* sa San Francisco. Hindi masasabi na ang taong A*ay dapat* gawin ang X, ngunit ang taong B ay *hindi dapat*gawin ang X. Hindi masasabi na ito ay*mali* kahapon ay*tama*ngaun - o sa kabaliktaran. Kung ito ay mangyayari, ito ay mali at dapat mapagbuti o itapon.
+Tulad ng nabanggit sa itaas, ang unang pagsubok ng kahit anong siyentipikong teyorya ay *makamundo*. Tulad ng sa isang teyorya ng pisika ay dapat malagay sa *lahat* ng bagay, ang isang moral na teyorya na nagsasabi sa paglalarawan ng makamundong kilos ng sangkatauhan * ay dapat maglagay sa **lahat**ng sangkatauhan*. Walang moral na teyorya ang maaaring maging wasto kung ito ay makikipagtalo na ang isang tumpak na kilos ay *tama* sa Syria, ngunit*mali* sa San Francisco. Hindi masasabi na ang taong A*ay dapat* gawin ang X, ngunit ang taong B ay *hindi dapat*gawin ang X. Hindi masasabi na ito ay*mali* kahapon ay*tama*ngaun - o sa kabaliktaran. Kung ito ay mangyayari, ito ay mali at dapat mapagbuti o itapon.
 
 Para maging wasto, ang anumang moral na teyorya ay dapat maipasa din ang pamantayan sa *hindi nagbabagong lohika*. Dahil ang asal ng mga bagay ay lohikal, hindi nagbabago at mahuhulaan, ang lahat ng teyorya na kinasasangkutan ng mga bagat- mapa organiko o hindi organiko - ay dapat din maging lohikal, hindi nagbabago at nahuhulaan. Ang teyorya ng kaugnayan ay hindi makikipgtalakayan na ang bilis ng liwanag ay parehong hindi nagbabago at nagbabago sa parehong oras, o ito ay isang daan walungpu't anim na libong kilometro kada segundo, limang kilometro sa lalim, at berdeng kulay din.
 
