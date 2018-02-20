@@ -43,20 +43,20 @@ O:
 
 Ang iak-apat na pagtatalo para sa bisa ng makamundong kanais-nais na pag-uugali ay empirikal. Dahil ang mga tao ay mayroong isang halos-walang katapusan na bilang ng mga pagpipilian upang gumawa ng buhay, upang sabihin na walang prinsipyo ng makamundong kanais-nais na pag-uugali na maaaring sabihin na ang lahat ng pagpipilian ay pantay-pantay (i.e. subhektibo). Gayunpaman, ang lahat ng pagpipilian ay *hindi*pantay-pantay, o kaya lohikal o sa pamamagitan ng empirikal na obserbasyon.
 
-Halimwa, kung mayroon mga pagkain, halos lahat ng nilalang ay gugustuhing kumain araw-araw. Kapag malamig, halos lahat ng nilalang ay maghahangad mainitan. Halos lahat ng magulang ay pipiliin na pakainin, bigyan ng tirahan at pag-aralin ang kanilang mga anak. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+Halimwa, kung mayroon mga pagkain, halos lahat ng nilalang ay gugustuhing kumain araw-araw. Kapag malamig, halos lahat ng nilalang ay maghahangad mainitan. Halos lahat ng magulang ay pipiliin na pakainin, bigyan ng tirahan at pag-aralin ang kanilang mga anak. Mayroong maraming halimbawa ng karaniwang pagpipilian sa lahat ng tao, na kung saan ay nagpapahiwatig na ang makamundong kanais-nais na pag-uugali ay masagana at ito ay parte ng kalikasan ng tao.
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+Tulad ng nabanggit ko sa itaas, walang wasto na teyorya ng pisika ang kayang itakwil ang simpleng katotohanan na ang mga bata ay kayang manghuli ng langaw-bola - sa katulad na paraan, walang wasto na teyorya ng etika na kayang tanggihan ang walang katapusang katibayan para sa pagtanggap ng UPB.
 
-Or:
+O:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1. Ang mga pagpipilian ay halos walang katapusan.
+2. Halos lahat ng tao ay gumagawa ng parehong mga pagpipilian.
+3. Kaya hindi lahat ng pagpipilian ay maaring maging pantay-pantay.
+4. Kung sa gayon ang makamundong kanais-nais na pagpipilian ay dapat maging wasto.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+Ang ikalimang pagtatalo para sa bisa ng makamundong kanais-nais na pag-uugali ay asa gitna ng ebolusyon.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+Dahil ang lahat ng organiko na buhay ay nangangailangan ng katanggap-tanggap na pag-uugali upang mabuhay, maaari nating sabihin na ang lahat ng organismo na kung saan gumagawa ng pinaka matagumpay na pagpili ay ang mga pinaka laging napipili para mabuhay.
 
 Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
 
