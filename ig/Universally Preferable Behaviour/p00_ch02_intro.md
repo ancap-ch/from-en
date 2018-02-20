@@ -1,44 +1,44 @@
-## Introduction
+Iwebata
 
-For countless generations, mankind lived in a kind of egocentric womb of self-imposed ignorance: the world was flat, the sun, moon and stars revolved around him, ancestors beckoned to him from beyond the mists of death, and thunder was the anger of the gods.
+Maka afor anyi aman guta gara aga nu, ndi mmadu bu n'afo ilefu ife gbasara fa: uwa di ka ute mmadu toro n'ani, awun, onwa na kpakpando na agba ya okirikiri, ndi nna-nnayi yoro ya mgbe onwu bialu, na egbe en'igwe bu iwe chi.
 
-Burrowing out from this narcissistic womb of subjective interpretation required the labour of millennia – and cost the lives of millions. The effort required to wrench our perspective from *perceptual experience* to *conceptual logic* was terrifying, exhilarating, highly disorienting and extremely dangerous. Understanding that the world was not what it *felt like*, or *seemed like*, was – and remains – the greatest feat of our intelligence. The *truth* of reality turned out to be in the eyes of the mind, not of the flesh.
+Iputa n'ime afo mmegbu, kwere k'onwe ike mmadu otutu di ka iri-iri -- na gbushishia ndi mmadu otutu. Ike anyi g'eji atuaria ife anyi *furu* ka odiri ka ife anyi *n'ege n'isi*, ka oburu *amamihe* na atuegwu, na agbaka isi mana odi cha ario, owenre ike igbu mmadu. Ighota n'uwa aboru otu okwesiri *ka odi*, m'obu *n'odika*, buru--na diri--ife anyi ji ama n'anyi enwe amamihe. *Eziokwu* di n'ife noro n'ime anya obi, onoho n ihu anyi.
 
-The world looks flat; it is not. The sun and the moon look the same size; they are not. The stars seem to move around the earth; they do not. Learning the truth requires that we see the world from outside our senses – this does not mean a rejection of our senses, but an airtight compliance with the *real* evidence of the senses, which is not that the world is flat, but that matter, energy and physical laws are consistent. When we let go of a rock in our hand, it falls – this is the *real* evidence of the senses, not that the Earth is fixed and immovable. The idea that the world is immobile is an incorrect assumption that contradicts the direct evidence of our senses, which is that everything falls. If everything falls, the world cannot be fixed and immovable.
+Uwa yiri ute; mana oburo ute. Awun na onwa yichar onwefa; mana fa aburo ofu. Kpakpando di ka ona ga ije n'uwa; mana fa noru ofu ebe. Imuta Eziokwu kwere k'anyi fu uwa n'ime anya anyi, igafe ife di anyi n'isi-- ife ah aburo ka'anyi tufu ife di anyi n'isi, mana ka ife di anyi n'isi daba n'ife *mmadu na'afu na anya*, bu n'uwa aburo ute, mana ife digasi n'uwa, ike na ife mmadu na afu n'anya bu iwu no zuru. Mgbe anyi rapuru okwuta di anyi n'aka, oga ada -- ife ah bu igosi n'owenre ife di n'isi, na uwa anogho n'ofuebe. Onye si n'uwa noru n'ofuebe n'atuasi, asi ahu n'ese okwu n'igosi ife di anyi n'isi, ife ah bu n'ife nine na ada. oburu n'ife nine na ada, Uwa enweghi  inoru ofu ebe.
 
-These are the little truths of the everyday; that rocks fall, smoke rises, fire is hot and the sun and the moon are both round. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
+ife ndi ah bu ntakiri Eziokwu anyi n'afu n'ubosi nine; na okwute na ada, awunru n'ebinie, oku di oku na awun n'onwa gba okirikiri. Oburu n'anyi kwuru "n'ntakiri eziokwu", anyi ga wenpu Eziokwu nke ukwu di n'ime physiks, ife yen re anyi amamihe na ike nke ukwu.
 
-In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
+N’ime  ntakiri na nnukwu eziokwu, mana, fa bu nro kpuru anyi ishi – na fiziks na ako.
 
-In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+N’ime fiziks, eziokwu nke ukwu enweghi ike se okwu n’ime eziokwu ntakiri. Owenro “ofu ife fa choputaru we de” wenre ike ituaria ife di anyi n’isi-ifu okwuta na ada m’obu oku n’ewu nite. 
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
+N’mgbeochie, otu osi we eme, n’ime ntakiri eziokwu nke anyi na eziokwu nke ukwu nor n’ime m ga akpo  “Ebe di ohere”.
 
-### The "Null Zone"
+“Ebe Di Ohere”
 
-We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+Anyi gwara umuaka anyi ese na okwu, anyi kwere na ichokwu bun jo, ya buruzie iwu ako. Eziokwu ntakiri” bu: *akuna okpo*. Eziokwu nke ukwu bu: *ise okwu di njo*.
 
-However, there exists in our minds an imaginary entity called “God,” and this entity is considered perfectly moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+Mana, n’ime obi anyi, owenre ife nro anyi na akpo “CHUKWU”, onye ah bu onye kacha di ezi. Mana onye ah n’atuari eziokwu ahu na “ise okwu bu njo” otu osi we na etinye uwa n’ime mmiri fa aman gwu wun, na eduga mmuo ndi mmadu n’oku mmuo, ebe omaru na ife fa “kwere ime”, na akotu irie nwanyi enu, igbuo mmadu , izu ori, itigbu mmadu na ife ndi ozo digasi anyi ga akotu, maka n’obu njo.
 
-Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
+Kita anyi wenre ntakiri eziokwu (*akuna okpo*) na eziokwu nke ukwu (*ise okwu di njo*) mana n’ime ya, anyi wenre ihe ah “Ebe di ohere” *ebe eziokwu ntakiri, na nke uwku bu cha ife ozo k’anyi  wenre ka eziokwu.
 
-Historically, we can see the same inconsistency in physics. There are no perfect circles in our direct experience, but because of a belief in God, all planetary motion had to be a “perfect circle” – a premise that retarded astronomy for centuries. Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth,” but as a *great truth*, or universal principle. Yet for most of human history, it was believed that the stars and planets rotated around the Earth, rather than that the Earth rotated. Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
+N’mgeb ochie, anyi furu n’ihe na agbanwe n’ime fiziks. Onweghi okirikiri dicha mma n’ime anyi furu, mana maka anyi kwere na Chukwu, ife n’ine no n’uwa a buru zie “okirikiri dimma”—ezi mere asuturonomy yibe ara kemgbe uwa. Dika, oburu na nwoke tuari isi, o man kwere n’uwa na atuari n’ebe ono – oga atinye kwo oganiru ah kaodiri ka “ntakiri eziokwu” ya soso, mana oga eme ya buru kwo “eziokwu nke ukwu” ya, m’obu ako ndi uwa. Mana maka akuko mgbe ochie ndi mmadu, fa kwere na kpakpando na uwa ndi ozo na atuari nso uwa anyi noro, ebe uwa anyi noro kwesiri ina atuari. Anyi ga afu “ebe ohere” n’eba ozo n’etiti ndi mmadu wenre amamihe na ako uwa, ebe ako dicha iche n’ebe ako buru bucha ife dicha mkpa.
 
-No sane man experiences God directly. In his daily life, he fully accepts that *that which cannot be perceived does not exist*. No reasonable man flinches every time he takes a step, fearing an invisible wall that might be barring his way. The greatest abstractions of science support his approach.
+Onye mara ife anaha mara Chukwu. N’ndu ya, okwere na *ife mmadu enweghi ifu n’anya, anogho ebe ahu*. Onye wenre amamihe enwero egwu di n’ime ya, o man tu egwu ife obuna gbochiri uzor ya. Ife bekee mutara kwere n’ife onye n’ekwu.
 
-Conversely, in the “null zone” of religion, the *exact opposite* of both the little truths and the great truths is believed to be true. Personally, a man believes that *that which cannot be perceived does not exist* – intellectually, science has proven this repeatedly. However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
+Ituari okwu, n’ime “ebe ohere” religion, ife *dicha ntiri* n’ebe ntakiri eziokwu  na eziokwu nke ukwu ka ndi mmadu kwere n’obu eziokwu. Ife m niche bu, nwoke kweyenre na *ife mmadu enweghi ike ifu anogho* -- n’ime uche, bekee achofutago ife karia ofu ugboro. Mana,n’ime “ebe ohere” ighota ife di omimi, ife dicha iche bu ife anyi jiri ka eziokwu – axiomu noro nu *ife mmadu aman fu wun**kwesiri**I no*.
 
-Our belief in the virtue of the military also lies in this “null zone.” If a private man is paid to murder another man, we call him a “gun for hire,” and condemn him as a hit man. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
+Otu anyi kwere n’ako nke ndi otu ogu nokwuru n’ime “ebe ohere” ahu. Oburu na mmadu wenre ike ikwu nwoke noro onwe ya ugwo ka ogbuo mmadu, anyi ga akpor ya “egbe mmadu”, na anyi ga akokwa y’onu n’obu ochokwu. Mana, oburu na, nwoke anu ah yiri akwa dika akwukwo di na oshishi wenre ife eji ejide akwa na ahu ya *ka mmadu kwuru ugwo, ya gbuo mmadu*, anyi akpor ya onye mmeri we kwu ya ugwo ozo. Eziokwu ntakiri (*m egbuna mmadu*) bucha otu ife na (*igbu mmadu di njo*) – mana n’ime ya ka “enbe ohere” noro, ebe igbu mmadu buziri “ako”.
 
-If this “null zone” is valid, then no logical proposition can ever hold. If a proposition is true – and the exact opposite of that proposition is also true – then logical reasoning becomes impossible. The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
+Oburu na “ebe ohere” di mma, onweghi onye wenre amamihe wenre ike I kwuo ife ozor. Oburu na ife mmadu siri bu eziokwu – na ife dicha iche n’ife onye ahu siri buru eziokwu – I kwuo ife amamihe aman men wun. Ichokwu bekee amalite go n’ebe “ebe ohere” noro, na iwenta  imegbu n’eme mgbe obuna ka o tinye ego n’ime akpa.
 
-In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
+N’ime akwukwo mmadu ji acho uzor mgbe ochie, tupu ndi n’ese foto  mecha nchofuta fa, ife mmadu se maka ani ndi mmadu mar aka eficha n’akwukwo ahun. Mmalite amamihe kwesiri inwe nkowa ife ndi mmadu n’amaro ka ome n’izizi, tupu fa eme ako ndi mmadu mar aka  daba ofuma n’ebe ndi mmadu amaro.
 
-The same is true in the realm of morality.
+N’uwa ako, ife ah bu eziokwu.
 
-### The Casualties
+Ife Ndi N’eme
 
-Crossing this “null zone” is fraught with peril. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+Igafe “ebe ohere” anu ah na atuegwu. Uzor ntakiri eziokwu si we rute eziokwu nke ukwu buru okpukpu otutu ndi mmadu. Bido n’onwu Socrate rute na mmegbu ndi bekee izizi, otu fa jiri religion, rute nan di otutu gburu mmadu nwukwo maka ndi nji ji arogbu onwefa, iganiru obuna ndi mmadu choro iji amamihe banye “ebe ohere” ka egwu juru n’onu.
 
 Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
 
