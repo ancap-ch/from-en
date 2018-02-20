@@ -49,10 +49,10 @@ m. **Ikaw** ay nangangahulugan na ang indibiduwal o entitiya sa pagsasanay ng Mg
 a. ***Pagkaloob ng Lisensiya.***
 
 1. Sakop sa mga termino at kondisyon nitong Publikong Lisensiya, ang Tagalisensiya ay magpapakaloob sa Iyo ng pangdaigdigan, libreng-royalitiya, hindi sublisensiyado, hindi eksklusibo, hindi rebokableng lisensiya upang masanay ang mga Lisensiyadong Karapatann sa Lisensiyadong Materyal na:
-....
-....A. magpadami at Magbahagi ng Lisensiyadong Materyal, na sa kabuuan o sa parte, at
-....
-....B. Magpadami, muling magpadami, at Magbahagi ng Nakupkop na Materyal.
+::::
+::::A. magpadami at Magbahagi ng Lisensiyadong Materyal, na sa kabuuan o sa parte, at
+::::
+::::B. Magpadami, muling magpadami, at Magbahagi ng Nakupkop na Materyal.
 
 2. **Mga Eksepsyon at Limitasyon.** Para sa kaiwasan ng pagdududa, kung saan ang Mga Eksepsyon at Limitasyon ay mapapalagay sa Iyong paggamit, itong Publikong Lisensiya ay hindi magpapalagay, at Ikaw ay hindi na kailangan gumanap sa mga termino at kondisyon nito.
 
@@ -61,12 +61,12 @@ a. ***Pagkaloob ng Lisensiya.***
 4. **Medya at mga pormat; teknikal na modipikasyon ay pinapahintulutan.** Ang Tagalisensiya ay nagbibigay ng awtorisasyon sa Iyo upang masanay ang mga Lisensyadong Karapatan sa lahat ng medya at mga pormat kahit kilala ngayon o pagkatapos pa nagawa, at upang makagawa ng teknikal na mga modipikasyon na kinakailangan gawin. Ang Tagalisensiya ay nag-aatras at/o nagsasang-ayon na hindi i-alay ang kahit anong mga karapatan o awtoridad upang mabawalan Ka sa paggawa ng teknikal na mga modipikasyon na kinakailangan upang masanay ang Mga Lisensyadong Karapatan, kasali na ang teknikal nga mga modipikasyon na kinakailangan upang masirkumbent ang Mga Epektibong Teknolohikang Hakbang. Para sa mga layunin nitong Publikong Lisensiya, ang simpleng paggawa ng mga modipikasyon na binigyan ng awtorisasyon ng Section 2(a)(4) ay hindi kailanman magbubunga ng Nakupkop na Materyal.
 
 5. **Pagdownstream na mga tagatanggap.**
-....
-....A. **Alok mula sa Tagapaglisensiya – Lisensiyadong Materyal.** Kada tagatanggap ng Lisensiyadong Materiyal ay awtomatikong makakatanggap ng isang alok mula sa Tagapaglisensiya upang masanay ang Mga Lisensyadong Karapatan sa loob ng mga termino at kondisyon nitong Publikong Lisensiya.
-....
-....B. ___Karagdagang alok mula sa Tagapaglisensiya – Nakupkop na Materyal. Kada tagatanggap ng Nakupkop na Materyal mula sa Iyo ay awtomatikong makakatanggap ng isang alok mula sa Tagapaglisensiya na makapagsanay sa Mga Lisensiyadong Karapatan sa loob ng Nakupkop na Materyal sa ibaba ng mga kondisyon ng Lisensiya ng Nagkupkop na Iyong naipalagay.
-....
-....C. **Walang restriksyon ng pag-downstream.** Ikaw ay hindi maaring makapag-alok o maglapat ng kahit anong karagdagan o ibang mga termino at kondisyon sa, o magtalaga ng kahit anong Epektibong Teknolohikal na Hakbang sa, Lisensiyadong Materyal kung ang paggawa nito ay pinahihigpitan sa pagsasagawa ng Mga Lisensiyadong Karapatan ng kahit anong mga tagatanggap ng Lisensiyadong Materyal.
+::::
+::::A. **Alok mula sa Tagapaglisensiya – Lisensiyadong Materyal.** Kada tagatanggap ng Lisensiyadong Materiyal ay awtomatikong makakatanggap ng isang alok mula sa Tagapaglisensiya upang masanay ang Mga Lisensyadong Karapatan sa loob ng mga termino at kondisyon nitong Publikong Lisensiya.
+::::
+::::B. ___Karagdagang alok mula sa Tagapaglisensiya – Nakupkop na Materyal. Kada tagatanggap ng Nakupkop na Materyal mula sa Iyo ay awtomatikong makakatanggap ng isang alok mula sa Tagapaglisensiya na makapagsanay sa Mga Lisensiyadong Karapatan sa loob ng Nakupkop na Materyal sa ibaba ng mga kondisyon ng Lisensiya ng Nagkupkop na Iyong naipalagay.
+::::
+::::C. **Walang restriksyon ng pag-downstream.** Ikaw ay hindi maaring makapag-alok o maglapat ng kahit anong karagdagan o ibang mga termino at kondisyon sa, o magtalaga ng kahit anong Epektibong Teknolohikal na Hakbang sa, Lisensiyadong Materyal kung ang paggawa nito ay pinahihigpitan sa pagsasagawa ng Mga Lisensiyadong Karapatan ng kahit anong mga tagatanggap ng Lisensiyadong Materyal.
 
 6. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
@@ -85,23 +85,23 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 a. ***Attribution.***
 
 1. If You Share the Licensed Material (including in modified form), You must:
-....
-....A. retain the following if it is supplied by the Licensor with the Licensed Material:
-....
-....     i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
-....    
-....     ii. a copyright notice;
-....    
-....     iii. a notice that refers to this Public License;
-....    
-....     iv. a notice that refers to the disclaimer of warranties;
-....    
-....     v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
-....    
-....
-....B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
-....
-....C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+::::
+::::A. retain the following if it is supplied by the Licensor with the Licensed Material:
+::::
+:::::::: i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+::::::::
+:::::::: ii. a copyright notice;
+::::::::
+:::::::: iii. a notice that refers to this Public License;
+::::::::
+:::::::: iv. a notice that refers to the disclaimer of warranties;
+::::::::
+:::::::: v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+::::::::
+::::
+::::B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+::::
+::::C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
 
 2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
 
@@ -146,8 +146,8 @@ b. Where Your right to use the Licensed Material has terminated under Section 6(
 1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
 
 2. upon express reinstatement by the Licensor.
-....
-....For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+::::
+::::For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
 
 c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
 

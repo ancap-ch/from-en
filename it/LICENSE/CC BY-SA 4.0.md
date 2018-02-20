@@ -49,10 +49,10 @@ m.**Tu** significa l'individuo o l'ente che esercita i Diritti Concessi in Licen
 a.***Concessione della Licenza.***
 
 1. Nel rispetto dei termini e delle condizioni contenute nella presente Licenza Pubblica, il Licenziante concede a Te una licenza per tutto il mondo, gratuita, non sub-licenziabile, non esclusiva e irrevocabile che Ti autorizza ad esercitare i Diritti Concessi in Licenza sul Materiale Concesso in Licenza per:
-....
-....A. riprodurre e Condividere il Materiale Concesso in Licenza, in tutto o in parte; e
-....
-....B. produrre, riprodurre e Condividere Materiale Elaborato.
+::::
+::::A. riprodurre e Condividere il Materiale Concesso in Licenza, in tutto o in parte; e
+::::
+::::B. produrre, riprodurre e Condividere Materiale Elaborato.
 
 2. **Eccezioni e Limitazioni.** Al fine di evitare dubbi, quando si applicano delle Eccezioni o Limitazioni al Tuo utilizzo, la presente Licenza Pubblica non si applica a Te e Tu non devi rispettarne i termini e le condizioni.
 
@@ -61,12 +61,12 @@ a.***Concessione della Licenza.***
 4. **Mezzi di comunicazione, supporti e formati; modifiche tecniche consentite.** Il Licenziante Ti autorizza a esercitare i Diritti Concessi in Licenza con ogni mezzo di comunicazione, su ogni supporto e in tutti i formati esistenti e sviluppati in futuro, e ad apportare le modifiche che si rendessero tecnicamente necessarie a tale scopo. Il Licenziante rinuncia o si impegna a non far valere alcun diritto o autorità per proibire a Te di effettuare le modifiche che si rendessero tecnicamente necessarie per l'esercizio dei Diritti Concessi in Licenza, incluse le modifiche tecnicamente necessarie per aggirare Misure Tecnologiche Efficaci. Ai fini della presente Licenza Pubblica, apportare le modifiche autorizzate dal presente Art. 2(a)(4) non costituisce in alcun caso Materiale Elaborato.
 
 5. **Destinatari a valle.**
-....
-....A. **Offerta dal Licenziante - Materiale Concesso in Licenza.** Ogni destinatario del Materiale Concesso in Licenza riceve automaticamente un'offerta dal Licenziante ad esercitare i Diritti Concessi in Licenza secondo i termini e le condizioni della presente Licenza Pubblica.
-....
-....B. __Offerta aggiuntiva dal Licenziante - Materiale Elaborato. Ogni destinatario del Materiale Elaborato da parte Tua riceve automaticamente un'offerta dal Licenziante ad esercitare i Diritti Concessi in Licenza sul Materiale Elaborato secondo i termini e le condizioni della Licenza dell'Elaboratore da Te applicata.
-....
-....C. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+::::
+::::A. **Offerta dal Licenziante - Materiale Concesso in Licenza.** Ogni destinatario del Materiale Concesso in Licenza riceve automaticamente un'offerta dal Licenziante ad esercitare i Diritti Concessi in Licenza secondo i termini e le condizioni della presente Licenza Pubblica.
+::::
+::::B. __Offerta aggiuntiva dal Licenziante - Materiale Elaborato. Ogni destinatario del Materiale Elaborato da parte Tua riceve automaticamente un'offerta dal Licenziante ad esercitare i Diritti Concessi in Licenza sul Materiale Elaborato secondo i termini e le condizioni della Licenza dell'Elaboratore da Te applicata.
+::::
+::::C. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
 
 6. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
@@ -85,23 +85,23 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 a. ***Attribution.***
 
 1. If You Share the Licensed Material (including in modified form), You must:
-....
-....A. retain the following if it is supplied by the Licensor with the Licensed Material:
-....
-....     i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
-....    
-....     ii. a copyright notice;
-....    
-....     iii. a notice that refers to this Public License;
-....    
-....     iv. a notice that refers to the disclaimer of warranties;
-....    
-....     v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
-....    
-....
-....B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
-....
-....C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+::::
+::::A. retain the following if it is supplied by the Licensor with the Licensed Material:
+::::
+:::::::: i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+::::::::
+:::::::: ii. a copyright notice;
+::::::::
+:::::::: iii. a notice that refers to this Public License;
+::::::::
+:::::::: iv. a notice that refers to the disclaimer of warranties;
+::::::::
+:::::::: v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+::::::::
+::::
+::::B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+::::
+::::C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
 
 2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
 
@@ -146,8 +146,8 @@ b. Where Your right to use the Licensed Material has terminated under Section 6(
 1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
 
 2. upon express reinstatement by the Licensor.
-....
-....For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+::::
+::::For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
 
 c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
 
