@@ -1,6 +1,6 @@
 ## Ang Halaga ng Higit na mabuti sa Lahat ng dako na Pag-uugali
 
-Ang bagong teorya ay may maliit na halaga kung ito ay pumupunto lamang sa halata. If physics only provided an accurate description of how we catch a ball, then physics would not be a very worthwhile pursuit, because we already *can* catch a ball. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
+Ang bagong teorya ay may maliit na halaga kung ito ay pumupunto lamang sa halata. Kung ang pisika ay nagbibigay ng tumpak na paglalarawan kung paano tayo sasalo ng bola, ang pisika ay hindi magiging kapaki-pakinabang na habulin, dahil *kaya* na natin sumali ng bola. Ang pagtuklas na ang mundo ay bilog ay tulong sa malayong distansya ng nabigasyon sa kabuuan ng dagat - wala itong nagawang tulong sa atin na mapunta sa ibabang bayan ng kabuuang mekanika na naging kapaki-pakinabang lamang kung ang ibang pamamaraan ay hindi kayang ibigay ang kailangang katumpakan - hindi ito makakatulong sa pagbuo ng kotse.
 
 In the same way, the UPB framework, and the moral rules that it validates or rejects, should ideally provide us with some startling insights about the world that we live in, and our relations to each other.
 
