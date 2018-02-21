@@ -28,8 +28,8 @@ Isang pangunahing prinsipyo ng ekonomiks ng malayang pamilihan na ang kalidad ay
 
 Ang pagsisimula sa paggamit ng pwersa ay palaging salungat sa kahit anong rasyunal na teoryang moral - ito ay tiyak at malinaw na paglabag sa UPB. Dahil ang mga pampublikong paaralan ay pinondohan sa pamamagitan ng pagsisimula ng paggamit ng pwersa, sila ay isang klase ng *pillit na samahan*, kung saan ay isang malinaw na paglabag sa *kalayaan ng samahan* napatunayan ng UPB.
 
-Dahil ang pwersa ay lumabag sa moral na kailangan ng *pag iwas* -at ang kakulangan ng pag-iwas ay palaging nagbubunga ng mababang kalidad - ang UPB ay tumutulong sa atin na madaling mahulaan na ang pampublikong paaralan ay magdulot ng mababang kalidad na edukasyon.
+Dahil ang pwersa ay lumabag sa moral na kailangan ng *pag iwas* - at ang kakulangan ng pag-iwas ay palaging nagbubunga ng mababang kalidad - ang UPB ay tumutulong sa atin na madaling mahulaan na ang pampublikong paaralan ay magdulot ng mababang kalidad na edukasyon.
 
-Furthermore, UPB would also have helped us predict that, as more and more force was used in the realm of public education – as taxes, union compulsions and so on escalated – the quality of the education provided would get worse and worse.
+At saka, ang UPB ay maaaring tumulong din sa atin na hulaan, na habang parami ng parami ang pwersa na ginamit sa kaharian ng pampublikong paaralan - bilang buwis, pwersa sa mga unyon, at iba pa ay tumataas - ang kalidad ng edukasyon ng ibinibigay ay nagiging masama at pasama.
 
-This, of course, was – and is – exactly the case.
+Ito, sapagkat, ay - at - ang esksangtong kaso.
