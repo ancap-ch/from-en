@@ -1,8 +1,8 @@
 ## Karagdagang mga Patunay
 
-Mayroong ibang karagdagang mga patunay na kaya nating matiia ang katanungan ng higit na mabuting pagkilos sa lahat ng dako.
+Mayroong ibang karagdagang mga patunay na kaya nating matiis ang katanungan ng higit na mabuting pagkilos sa lahat ng dako.
 
-### Ang Ekonomiya ng Malayang-Pamilihan
+### Ang Ekonomiya ng Malayang Pamilihan
 
 Ang isang malayang pamilihan ay walang duda na pinakamahusay at paraan ng paggawa ng kayamanan ng pagsasaayos ng produksyon at pagkonsumo ng mga kalakal at yaman sa loob ng lipunan. Ang materyal na tagumpay ay walang kapantay sa kasaysayan ng tao, o sa kabuuan ng mundo.
 
@@ -16,9 +16,9 @@ Yamang ang mga tao *sa katunayan* ay may pantay na mga karapatan sa ari-arian, a
 
 Ang lohika at sistema ay sa katunayan mga pamamaraan na umiiral - sa tabi ng moralidad - sa ilalim ng payong ng UPB. Sa madaling salita, lohika at siyensya ay parehong balido ng balangkas ng UPB.
 
-A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
+Ang sentral na tanong na kailangan na sagutin ay:*bakit ang siyentipikong paraan ay walang hanggan na mas superyor sa ibang"mga pamamaraan"ng pagtamo ng kaalaman, gaya ngmistisismo?*
 
-UPB answers this question.
+UPB ay sumasagot sa katanungan.
 
 Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
 
