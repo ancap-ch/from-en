@@ -32,7 +32,7 @@ Kung ipanukala ko ang moral na tuntunin: “hindi ka dapat pumunta sa San Franci
 
 ### Ano ang nawawala
 
-Conspicuously absent from the above list are traditional virtues such as courage, honesty, integrity and so on – as well as their opposites: cowardice, falsehood and corruption.
+Ang napapabilang na lumiban mula sa listahan sa itaas ay mga tradisyunal na kabutihan tulad ng tapang, katapatan, integridad at iba pa – pati na rin ang kanilang mga kabaligtaran: katatakutan, kasinungalingan at katiwalian.
 
 It may seem that these virtues should fall into the realm of aesthetically positive behaviour, such as being on time, but I for one have far too much respect for the traditional virtues to place them in the same category as social niceties. The reason that they cannot be placed into the category of universally preferable is that, as we mentioned above, the framework of UPB only deals with *behaviours*, not with attitudes, thoughts, states of mind or emotions. The scientific method can process a logical proposition; it cannot process “anger” or “foolhardiness.” These states of mind are not unimportant, of course – in fact, they are essential – but they cannot be part of any objective system for evaluating ethical propositions, since they are essentially subjective – and therefore unprovable – states of being.
 
