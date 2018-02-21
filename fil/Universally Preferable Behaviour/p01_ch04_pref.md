@@ -80,9 +80,9 @@ Hindi naman ibig sabihin nito na ang aking obhetibong pamantayan ay *lohikal* - 
 
 #### Saligan 6: Ang katotohanan ay mas mabuti kaysa kamalian
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+Kapag sinabi ko sa iyo na ang mundo ay patag, at ikaw ay sumagot na ang mundo ay hindi patag, ngunit bilog, ngayon ay bahagya mong tinatanggap ang aksom na ang katotohanan at kamalian ay kapwa obhetibong umiiral, at ang katotohanan ay mas mainam kaysa kamalian.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Kapag sinabi ko sa iyo na gusto ko ng sorbetes na tsokolate, at sabihin mo sa akin na gusto mo ng vanilla, ito ay imposible "patunayan" na ang vanilla ay obhektibong mas mainam kaysa tsokolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
 
 #### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
 
