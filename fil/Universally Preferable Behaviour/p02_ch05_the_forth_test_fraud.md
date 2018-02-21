@@ -14,9 +14,9 @@ Upang bumalik sa aming malungkot na moral guinea pig, ano ang mangyayari kung ta
 
 Ano ang mangyayari pagkatapos?
 
-Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
+Malinaw, ang prinsipyo na iyon "ang pandaraya ay mabuti" ay hindi maaaring kumilos sa pamamagitan ng parehong Doug at Bob nang sabay-sabay - upang gumawa ng pandaraya, si Doug ay dapat kumilos ng di-tapat, at si Bob ay dapat kumilos ng tapat. Kaya upang paganahin ni Doug's ang "moral" na aksyon, Dapat kumilos si Bob "sa imoral."
 
-UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
+Sinira ng UPB ang posibilidad na ito, yamang walang wastong moral na teorya ay maaaring mangailangan ng tapat na mga pagkilos sa ilalim ng parehong kalagayan.
 
 If Doug commits fraud on Bob with the justification that “it is good to lie to get what you want,” then clearly it must also be good to be honest as well, since it is impossible to get what you want by lying unless other people are willing to assume your honesty. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
 
