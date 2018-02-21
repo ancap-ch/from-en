@@ -24,7 +24,7 @@ Kaya dapat nating pagtuunan ang ating mga pagsisikap lalo na sa mas higit na kah
 
 ### Ang Kabutihan At ang Kabaligtaran nito
 
-Ang kabaligtaran ng “kabutihan” ay dapat “bisyo” – ang kabaligtaran ng “mabuti” ay dapat “masama.” kung ipanukala ko ang moral na tuntunin na, “huwag kang magnanakaw,” pagkatapos ay ang pagnanakaw ay dapat na masama, at ang *hindi* pagnanakaw ay dapat na mabuti. Hindi ito nangangahulugan na ang “pagpigil mula sa pagnanakaw“ ay ang kahulugan ng mabuti na kahusayan, syempre, dahil ang isang tao ay maaaring maging mamamatay-tao, ngunit hindi isang magnanakaw. We can think of it as a “necessary but not sufficient” requirement for virtue.
+Ang kabaligtaran ng “kabutihan” ay dapat “bisyo” – ang kabaligtaran ng “mabuti” ay dapat “masama.” kung ipanukala ko ang moral na tuntunin na, “huwag kang magnanakaw,” pagkatapos ay ang pagnanakaw ay dapat na masama, at ang *hindi* pagnanakaw ay dapat na mabuti. Hindi ito nangangahulugan na ang “pagpigil mula sa pagnanakaw“ ay ang kahulugan ng mabuti na kahusayan, syempre, dahil ang isang tao ay maaaring maging mamamatay-tao, ngunit hindi isang magnanakaw. Maaari naming isipin ito bilang isang “kailangan ngunit hindi sapat” na kinakailangan para sa kabutihan.
 
 Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
 
