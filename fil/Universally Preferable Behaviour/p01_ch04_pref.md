@@ -102,8 +102,8 @@ Kung ako ay makipagtalo na ang mga tao ay hindi responsable para sa kanilang mga
 
 Kung ang argumento ko na ang mga tao ay *hindi* responsable para sa kanilang mga kilos ay totoo, kaya ako ay hindi responsable para sa aking argumento, at ikaw ay hindi responsable para sa iyong tugon. Gayunman, Kung ako ay maniwala na ikaw ay hindi responsable para sa iyong tugon, ito ay magkakaroon ng perpektong maliit na diwa upang umusad sa isang argumento - ito ay eksaktong pareho gaya ng pakikipagtalo sa telebisyon.[^5]
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+Sa gayon, sa panimula, kapag sinabi ko na ikaw ay hindi responsable sa iyong mga kilos, sinasabi ko sa iyo na ito ay higit na mabuti pandaigdig para ikaw ay maniwala na ang kagustuhan ay imposible, dahil kung wala kang kontrol sa iyong mga kilos, hindi ka makapili ng mas gusto mong estado, i.e. katotohanan sa kamalian. Kaya sa gantong argumento, gaya ng mga argumento sa ibabaw, mapanira sa sarili.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^4]: Magiging kapaki-pakinabang na itabi ang partikular na saligan na ito sa isipan, dahil ito ay magiging importante sa kalaunan on.
 
 [^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
