@@ -14,7 +14,7 @@ Tulad ng nabanggit sa itaas, ang mga panukala tungkol sa pag-uugali ng higit sa 
 6. Ito ay aesthetically negatibo (“kawalang-galang” at “pagiging huli”).
 7. Ito ay masama (ipinagbabawal sa lahat) (“panggagahasa”).
 
-Sa isip, dapat nating magawa ang mga ito hanggang sa dalawang kategorya lamang – higit na mas mainam at positibong positibo – sa pamamagitan ng pagtukoy sa ating etikal na panukala upang ang ipinagbabawal sa lahat ay isang salamin na larawan ng kung ano ang higit na mas mainam, at ang paghuhukay lamang ng personal na mga kagustuhan at neutral na mga aksyon na walang kaugnayan sa isang diskusyon ng etika.
+Sa isip, hanggang sa dalawang kategorya lamang ang dapat na kakulangan ng mga ito – higit na kanais-nais at positibong positibo – sa pamamagitan ng pagtukoy sa aming mga etikal na panukala upang ang ipinagbabawal sa lahat ay isang salamin na larawan ng kung ano ang higit na mas mainam, at ang paghuhukay lamang ng personal na mga kagustuhan at neutral na mga pagkilos bilang hindi nauugnay sa isang diskusyon ng etika.
 
 Halimbawa, sinasabi ng Non-Aggression Principle (NAP) na ang pagsisimula ng paggamit ng puwersa ay imoral – kaya ang di-pagsisimula ng paggamit ng puwersa ay higit na mas mainam, habang ang pagsisimula ng paggamit ng lakas ay ipinagbabawal sa lahat. Kung ang pinagbawalan ay simpleng kabaligtaran ng kung ano ang mas mainam, diyan ay talagang hindi na kailangan para sa isang karagdagang kategorya.
 
