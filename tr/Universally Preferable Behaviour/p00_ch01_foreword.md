@@ -1,93 +1,94 @@
 ## Önsöz
 
-Bir çok peri masalında, muazzam gücü olan, çevredeki topraklara zulüm eden, bir ejderha yada bir basilisk yaşar. Köylüler bu canavarın önünde tir tir titrerler; canavarın cani dürtülerini azaltmak umuduyla, hayvanlarını kurban ederler, para ve kan ile öderler.
+Birçok masalda korkunç bir canavar ejderha veya şahmaran yaşar, çevredeki topraklar da zulüm yapar. Köylüler, bu canavarlar yüzünden korku ile yaşar; hayvanlarını kurban verir, öldürücü dürtüleri yatıştırmak umuduyla para ve kan ödeme yaparlar.
 
-Çoğu insan bu canavarın gölgesi altına saklanır, korkularını “ihtiyatlılık“ olarak adlandırır, ancak birkaç – sarhoş belki de cesaret ya da ahmaklıkla – savaşmaya karar verir. Yıllar, on yıllar umut dolu şampiyonların güçlerini, erdemlerini ve marifetlerini bu tirana karşı uydurmaya çalışmasıyla geçer.
+Çoğu insan, bu canavarın gölgesi altındadır, korkularını "ihtiyatlı" olarak adlandırır, ancak birkaç sarhoş -  belki de cesaret veya ahmaklık üzerine - savaşmaya karar verir. Yıl ve yıl, on yıllarca, umut verici şampiyonların etkisi bu korkunç zorbaya karşı güçlerini, erdemlerini ve kurnazlığını birleştirmeye çalışır.
 
-Denerler – ve başarısız olurlar.
+Dene ve başarısız ol.
 
-Canavar daima ölümsüzdür, bu yüzden köylüler onun tiranlığından kurtulacak zamanı hayal edemezler. Canavar hiç rasyonel değildir, ve ticaret yapma arzusu da yoktur, bu yüzden hiçbir görüşme mümkün değildir.
+Canavar her zaman ölümsüzdü. Dolayısıyla köylüler, onları zorbalıklardan kurtarmaya zaman bulamıyorlardı. Canavar, hiçbir zaman rasyonel olmadığı gibi hiçbir zaman antlaşma veya alışveriş yapmaya gönlü de yoktu.
 
-Çaresiz köylülerin tek umudu bu canavarı yenebilecek bir adamın çıkmasıdır.
+Umutsuz köylülerin tek umudu canavarı yenebilecek birinin gelmesini beklemekti.
+Kaçınılmaz olarak, bir adam ilerleyerek herkese tamamen uyumsuz geldiğini ileri sürer. O istikrarlı bir çocuk, bir ayakkabıcı oğlu, bir fırıncının çırağıdır - bazen de vahşi bir şeydir.
 
-Kaçınılmaz olarak, herkese tamamen uyumsuz gelen bir adam öne çıkar. O kararlı bir çocuk, bir ayakkabıcı oğlu, bir fırıncı çırağıdır – bazende başıboş serseri biridir.
+Bu kitap böyle bir canavar üzerine kişisel saldırı hikayemdir.
 
-Bu kitap böyle bir canavar üzerine benim kişisel saldırı hikayemdir.
+Bu "canavar", objektif, rasyonel, laik ve bilimsel bir etik sistem tanımlamanın imkansız olduğu inancındadır. Bu "canavar", ahlakın tanrı ve hükümetlerin irrasyonel bataklıklarında sonsuza dek kaybolması gerektiği, sadece pragmatik nedenlerden ötürü uygulanan yanılsamadır, ancak sonsuza kadar mantıksal gerekçe ve açık tanımdan yoksundur. Bu "canavar", erdemin, en büyük sevincimizin, en derin mutluluğun, laik yetişkinler tarafından bir kenara atılması ve perçinlenecek toz içinde bırakılması, politikacılar ve rahiplerin - ebeveynlerin yeşerttikleri ve sömürdükleri fantezisidir. Bu "canavar", ebeveynlerin azarları olmadan, tanrıların zorbalığa uğratılmasını veya hükümetlerin silahlarını kullanmaksızın, akılcı ve iyi olamayacağımız batıl inançtır.
 
-Bu “canavar“ inancını objektif, rasyonel, seküler ve bilimsel bir etik sistemle tanımlamak imkansızdır. Bu “canavar“ sadece pragmatik nedenlerden ötürü Ahlakın tanrıların ve hükümetlerin irrasyonel bataklıklarında kaybolması gerektiğini dayatan yanılsamadır, ancak sonsuza dek mantıksal gerekçelerden ve açık tanımlardan yoksundur. Bu “canavar“ erdemin, en büyük sevincimizin, en derin mutluluğumuzun, seküler yetişkinler tarafından bir kenara atılıp çıkartılmayı beklediği, politikacılar ve rahipler – ve aileler tarafından kullanılıp sömürüldüğü fantezidir. Bu "canavar", ailelerin tiradları olmadan, tanrıların zorbalığı olmadan, hükümetlerin silahları olmadan, rasyonel ve iyi olamayacağımızı söyleyen hurafedir.
+Bu canavar Sokrates'ten Platona, Augustine'den Hume'a, Kant'dan Rand'a birçok büyük kahraman getirdi.
 
-Bu canavar Sokrates'ten Platona, Augustine'den Hume'a, Kant'dan Rand'a birçok büyük kahramanı dize getirdi.
+İnsanlığa maliyeti çok büyüktü.
 
-İnsanoğluna maliyeti çok büyüktür.
+Akılcı bir evrensel ahlak sistemi tanımlayamadığımız için, çocuklarımıza dini korku hikayeleri uygulamak zorunda kaldık, kendilerine "devlet" diyen ruhsuz denetçilerin küçük bir tekeline silahlar, hapishane ve ordu verdik.
 
-Rasyonel bir ahlak sistemi tanımlayamadığımızdan, çocuklarımıza dini korku hikayeleri dayatmak zorunda kaldık, yada kendilerine “devlet“ diyen ruhsuz denetçilerin küçük bir tekeline silahlar, hapishaneler ve ordular verdik
+"Etik" olarak adlandırdığımız şey subjektif ve sadece *kültürel* olmaya devam ettiğinden, kaçınılmaz olarak, toplumsal kuralları uygulamak için zorbalık, korku ve şiddete dayanıyoruz. Etik, bilimsel yöntemin rasyonel temelinden yoksun olduğu için, "ahlak", kanlı mitolojilerle savaşa devam ediyor; her çete dişleri ve tırnakları ile  savaşırken insanların "erdem"e bağlılıklarını kontrol etmek için çivi çakıyor.
 
-"Etik" dediğimiz kavram öznel ve sadece *kültürel* olarak kaldığından, sosyal kuralları uygulamak için kaçınılmaz olarak zorbalığa, korkuya ve şiddete bağlı kaldık. Etikler bilimsel yöntemin rasyonel temelinden yoksun oldukları için, “ahlak“ kanlı mitolojilerin kabile savaşlarının içinde batmış durumda kaldı, her grup, insanların “erdem“e bağlılıklarını kontrol edebilmek için şiddetle kavga ediyorlardı
+Ahlak olmaksızın yaşayamıyoruz, ancak ahlakı objektif olarak tanımlayamıyoruz - bu yüzden de görkemli ikiyüzlülüğün, alaycı baskınlığın ya da dindar köleliğin hayatlarını boşaltmak için sonsuza kadar mahkum ediyoruz.
 
-Ahlak olmadan yaşayamayız, ancak ahlakı objektif olarak da tanımlayamayız – bu nedenle de gururlu iki yüzlülüğün boş hayatlarına, alaycılığın hakimiyetine yada göstermelik köleliğe ebediyen mahkum kalıyoruz.
+Entelektüel olarak, dünyada daha fazla menfaat yoktur. nesnel ve rasyonel ahlaki kurallar belirleme Bizim başarısızlık din ve devletlerin savaşlarda yüzlerce milyon insan hayatına mal oldu.
 
-Entelektüel açıdan, dünyada riskli ve sonucu ağır olabilecek bir şey yoktur. Nesnel ve rasyonel ahlaki kuralları tanımlama konusundaki başarısızlığımız, dinler ve devletler arasındaki savaşta milyonlarca insan hayatına mal olmuştur.
+Birçok yönden, menfaatler daha da yükseliyor.
 
-Bir çok yönden, riskler daha da yükseliyor.
+İnternetin artan bilgi akışı, "erdem" denilen şeyin iki yüzlü yaşlılarının mizacına hizmet edeceği masallarından çok daha az ya da daha az olduğu yeni neslin şüphelerini artırdı. Otoriteler tarafından söylenen dindar yalanlar - ve onlara ibadet edenlerin suç ortaklığı - her zamankinden daha açıktır.
 
-İnternet'in artan bilgi akışı, Yeni neslin ''erdem'' denilen şeyin onların iki yüzlü büyüklerinin kendilerine hizmet eden peri masallarından ne fazla – ne de az – olduğu şüphelerini arttırdı. Otoriteler tarafından söylenilen göstermelik yalanlar – ve onlara tapanların suç ortaklığı – şuan her zamankinden daha açıktır.
+"Gerçek", manipülasyona maruz kaldı; Kontrol olarak "erdem"; Kölelik olarak "sadakat" ve buna "ahlak" denilen şey, zayıf ve korkusu olan insanları, kendileri için köleleştirmeye kandırmak adına tasarlanmış gülünç bir kukla şovu olarak ortaya çıkmıştır.
 
-“Gerçek“ manipülasyon olarak,“erdem“ kontrol olarak; “sadakat“ da kölelik olarak maruz kaldı, ve “ahlak“ olarak adlandırılan şey ise, zayıf ve korkak insanları kendilerini köleleştirmek için tasarlanmış anlamsız bir kukla gösterisi olarak ortaya çıkmıştır.
+Bu aydınlanma, on dokuzuncu yüzyılda Almanya'da olduğu gibi yeni nesil nihilistleri doğurdu. Bu uçtaki göreceli insanlar, herhangi bir kesinliği iddia eden herkes için en iğneleyici saldırılarını yapar. Bu post-modern nesiller, ortak geçmişlerinin kültürel dayanaklarını aştı, ancak şimdi tüm gerçeği yalnızca ön yargılı iddia olarak görüyorlar. Alaycı "bilgelik" deşifre edilmiş masum çocuklar gibi, tüm iletişimi reklam olarak, tüm iddiaları propaganda olarak ve tüm ahlaki önerileri ikiyüzlü hırsızlık olarak görüyorlar.
 
-Bu farkındalık, tıpkı on dokuzuncu yüzyılda Almanya'da olduğu gibi, yeni nesil nihilistlerini de meydana getirmiştir. Bu aşırı rölativistler, kesinliğin herhangi bir formunu iddia edenler için en acı saldırılarını ayırırlar. Bu post modern nesil, müşterek geçmişlerinin kültürel bağnazlıklarını aştı, fakat şimdi de *tüm* gerçeğe önyargılı bir iddia olarak bakıyor. Alaycı ''bilgelik' ile korkutulmuş masum çocuklar gibi, tüm iletişimi reklam olarak, tüm iddiaları propaganda olarak, tüm ahlaki tavsiyeleri ikiyüzlü hırsızlık olarak görürler.
+Ahlaki önerileri değerlendirmek için tutarlı, objektif ve rasyonel bir çerçeve üzerinde anlaşmaya varmadığımız için, "ahlak" mistisizme ve kaçınılmaz şiddet sonucu ortaya çıkmaya devam ediyor. Tıpkı aydınlanma öncesinde, dini mezhepler aristokrasinin kanatlarını kontrol etmek için sonsuza kadar savaşmıştı. Şimdi de ahlaki mitolojileri devletin kontrolü ve tüm baskı zorunluluğu için kontrol etmek için mücadele ediyorlar.
 
-Ahlaki önerileri değerlendirmek için tutarlı, objektif ve rasyonel bir çerçeve üzerinden anlaşmaya varmadığımız için, “ahlak“ mistisizme bağlı kalıyor, ve şiddetin sonucu kaçınılmaz oluyor. Tıpkı Aydınlanma öncesinde olduğu gibi, dini mezhepler aristokrasinin kılıçlarını kontrol etmek için sonsuza dek savaşmıştı, şimdi de ahlaki mitolojilerin devletin kontrolü için olan savaşlarını, ve onun tüm baskı mekanizmasını karşılaştırın.
+Dolayısıyla, modern bilime göre ahlak, tıpkı orta çağ "astronomisi"nin modern astronomiye yaptığı gibi - hikaye anlatımı, tehditler, zorlama ve sömürü yoluyla uygulanan - gerçeğe yönelik herhangi bir gerçek ilerlemeyi aktif olarak barındıran bir sanal mitolojinin alanı olarak kalır.
 
-Böylece ahlak, tıpkı ortaçağ 'astronomisi' nin modern astronomiye yaptığı gibi modern bilime, hikaye anlatımıyla zorlanarak, tehditler, zorlama ve istismar yoluyla – gerçeğe yönelik herhangi bir gerçek ilerlemeyi hapseden, sanal bir mitoloji alanı olarak kalıyor.
+Bu canavarın göreceli etik tezgahı adı altında, vergilendirme, hapis, sansür ve savaşları haklı çıkararak bize bu durumu yediriyorlardı. Devlet okulların da ve Pazar günlerinde gençleri köleleştirir; yoksulları refahın yumuşak gagalarında yakalar; Doğmamış olanları bile ulusal borçların dipsiz kuyularında köleleştirir.
 
-Rölativistik etiklerin bu ''canavarı'' üzerimize geliyor, üzerimizden besleniyor, vergilendirmeyi, hapis, sansür ve savaşları haklı çıkartıyor. Devlet okullarında ve Pazar günlerinin kilise sıralarından gençleri köleleştirir; yoksulları refahın tatlı Gulaglarında kapana kıstırır; doğmamış olanları bile ulusal borçların dipsiz kuyularında köleleştirir.
+“On truth: The tyranny of illusion” isimli önceki kitabımda yazdığım gibi, kanıtlanmamış etik teorilerin merkezinde yer alan en temel yalan; bu teorilerin çocuklara gerçekte salt kültürel kutuplaştırıcı olduklarını, nesnel ve anlaşılamaz gerçekler olarak sunmasıdır. Bilim adamlarının bir hükümete ya da bir Vatikan'a ihtiyaç duymaması, bilim insanlarının anlaşmazlıkları çözmede objektif bir metodolojiye sahip olmalarıdır: bilimsel yöntem. Dilin evrimini yönlendirmek için merkezi bir otoriteye ihtiyaç duymaması sebebinin, stil ve faydalılık için biriken bireysel tercihlerin "özgür piyasası"na dayanıyor olmasıdır.
 
-Önceki kitabım ''Gerçek Üzerine: Yanılsama Tiranlığı'' nda yazdığım gibi, kanıtlanmamış etik teorilerinin merkezinde olan en temel yalan şudur ki, bu tür teoriler gerçekte yalnızca kültürel bağnazlıktan ibaret olsa da, çocuklara her zaman objektif ve inkar edilemez gerçekler olarak sunulmasıdır. Bilim insanlarının bir hükümete yada bir Vatikan'a ihtiyaç duymamasının sebebi; bilim insanlarının anlaşmazlıkları çözmek için objektif bir metodolojiye sahip olmalarıdır: bilimsel yöntem. Dilin evrimini yönlendirmek için merkezi bir otoriteye ihtiyaç duymamasının sebebi, biçim ve yarar için birikmiş bireysel tercihlerin ''serbest piyasasına'' dayandığı içindir.
+Modern ahlakın - tarih boyunca ahlakın - her zaman öncelikle çocukların zindeliğini ve ardından yetişkinleri tehdit etmek zorunda kalmış olması, bunun erdemli bir gerçek olarak maskelenen manipülatif bir yalandan ibaret olmasıdır.
 
-Modern ahlakın - ve tarih boyunca ahlakın - her zaman önce çocukların zorbalığına ve daha sonra yetişkinlerin tehdidine dayanması gerektiği nedeni, bunun erdemli bir gerçek olarak maskelenen manipülatif bir yalan olmasıdır.
+Gerçek şu ki ahlaka ihtiyacımız var; Yalan, tanrıların ya da hükümetlerin rasyonel olarak onu tanımlayabileceği ya da haklı olarak uygulayabileceği şekildedir.
 
-Gerçek şudur ki ahlaka ihtiyacımız vardır; yalan ise tanrıların ya da hükümetlerin rasyonal bir biçimde bunu tanımlayabileceği ya da adilce uygulayabileceğidir.
+Bu kitapta amacım ahlak teorilerini doğrulamak için objektif, tutarlı, açık, rasyonel, deneysel - ve *gerçek* bir metodoloji tanımlamaktır.
 
-Bu kitaptaki amacım, objektif, tutarlı, açık, rasyonel, deneysel, – ve *gerçek* olan ahlak teorilerini geçerli yapmak için bir metodoloji tanımlamaktır.
+Şu anda, şüphecilik dalgası hissedeceğinizin tam farkındayım.Tam olarak anlıyorum ki, birilerinin İnternet'te olması ihtimali – çılgınların dünyası– bir şekilde, çağların felsefi sorununu özellikle sorunun yüksek olmadığını çözdü – Aslında bu noktadan neredeyse ayırt edilemeyecek kadar sıfıra yakın olurlardı.
 
-Tamamen farkındayım ki, şu anda şüpheciliğinizin yükseldiğini hissetmeniz muhtemel. -Delilerin dünyası- olan internetdeki bir adamın bir şekilde çağların felsefi problemini çözdüğü olasılığının yüksek olmadığının - aslında, buradan bile neredeyse ayırt edilemeyecek kadar sıfıra yakın olduğunun tamamen farkındayım.
+Yine de, *tamamen* sıfır değil.
 
-Yine de, *tam olarak* sıfır değil.
 
-### Temel Kurallar
+### Temel kurallar
 
-Sıradışı iddialar sıradışı deliller gerektirir. Bu muazzam görevi üstlenirken – özellikle ufak bir kitapda – kendime ait bazı kurallar belirledim.[^1]
+Sıra dışı iddialar, sıra dışı kanıtlar gerektirir. Bu muazzam görevi üstlenmede --özellikle de bu kadar kısa bir kitapta - kendime bazı önemli temel kurallar koymuş bulunmaktayım. Bunları burada anlatmaya değer. [^ 1]
 
-1. Humean'ın ''olduğu'' ve ''olması gerektiği'' arasındaki ayrımı tamamen kabul ediyorum. Geçerli ahlaki kurallar doğrudan doğruya bir şeyin varlığından türetilemez. İnsanların genel olarak yaşamayı *tercih* etmeleri ve bunları gerçekleştirebilmeleri için gerçeklerle başarılı bir şekilde etkileşime girmeleri gerektiği durumu, geçerli bir etik teorinin temelini oluşturamaz. Bazı insanlar açıkça yaşamayı tercih etmezler ve gerçekliği kararlı bir şekilde reddederler. Yani bu etik tanımı, öznel ve koşullu olarak kılıyor.
-2. Etik objektif olarak "insanın hayatta kalması için iyi" olarak tanımlanamaz. Bazı bireyler başkalarını sömürerek daha iyi bir şekilde hayatta kalabilir, yani bu etik tanımı, öznelcilik probleminin üstesinden gelmez. Biyolojik terimlerde, bu evrimsel eğilimler "*hayatın* devamı için iyi bir şey" gibi tanımlanır ki bu mantıklı değildir. İnsan toplumu, rekabetçi çıkarların bir ekosistemidir, tıpkı yağmur ormanları gibi ve bir adam için "iyi" olan şey sık sık harcama olarak geri döner.
-3. İdeal formların "yüksek diyarına" inanmıyorum. Ahlak herhangi bir "başka evrende " ya da maddi ya da maddi olmayan olarak düşünülmemelidir. Eğer ahlak "diğer gerçeklik" içinde varsa, o zaman rasyonal ve deneysel bir analiz olamaz ve Platon'un "Devlet" kitabında bahsettiği gibi toplum, iletişim için seçkin Filozof-Krallar kadrosuna gereksinim duyar veya daha doğru olarak, bu "diğer gerçekliğin" anlaşılamaz fermanlarını herkese *zorla* yaptırır. Bu da aynı zamanda öznellik sorunu çözemez, çünkü mantık ve kanıtlara ulaşılmaz olan öznel tanımladır.
-4. Ahlakın, "etkili olan argümanlar" ya da etik önerilerin öngörülen sonuçları üzerine örnekte bulunularak tanımlanabileceği ya da belirlenebileceğine inanmıyorum. Faydacılık veya "çoğunluk için en büyük iyilik", öznelcilik problemini çözmez, herhangi bir merkezi plancılık, nesnel olarak herkes için iyi olan olasılığını bildiğinden beri herhangi bir merkezi ekonomik plancının fiyatın olmadığında -etkin olarak sıfır- kaynakların verimli bir şekilde nasıl bölüştürülmesi gerektiğini bildiği gibi bilir. Ayrıca, "çoğunluk için en büyük iyilik" olarak kabul edilen şey aynı zamanda kültür, bilgi, zaman ve koşullara göre değişir ve öznelcilik sorununun da üstesinden gelemez. Bilimsel deneylerin değerini bazı Platonik yüksek bölgeye göre veya bazı faydacı optimizasyona göre yargılamıyoruz – bilimsel yöntemlere göre yargılanırlar. Bu kitapta aynı yaklaşımdan ilerleyeceğim.
-5. Etiği "pozitif kanun doktrini" olarak tanımlamayı redediyorum. Hukuk sistemlerinin etik üzerine kurulduğu varsayılsada kimse her hukuk sisteminin mükemmel bir sağduyuya sahip olduğunu savunamaz. Yasalar, *herhangi bir* ahlak kuralının teorisini doğrudan yansıtamaz; çünkü yasalar, sürekli olarak altüst edilmekte, terkedilmekte ya da icat edilmekte olan sürekli bir akış halinde bulunmaktadır ve dünyadaki yasal sistemler, teorik bir düzeyde olsa bile, birbirleriyle her zaman bir zıtlık içerisindedirler. Şeriat kanunları genellikle Anglo-Sakson ortak hukukuna direkt karşıdır ve modern demokratik "çete kuralları" süreci çoğu zaman ahlaki ideallerin ölçülü uygulanmasının aksine bir Mafya saldırısına benzer.
-6. Nietzsche'nin ısrarla savunduğu gibi, bütün “ahlak” sistemleri sadece kontrol araçlarıdır. Bu kitapta, etik olmadığını varsayarak başlıyor ve oradan bir çerçeve inşa ediyorum.
-7. İnsanoğlunun etik *içgüdülerine* büyük saygı duyuyorum. Cinayet, tecavüz, saldırı ve hırsızlık üzerine neredeyse evrensel toplumsal yasaklar, herhangi bir rasyonel etikçinin bir köşeye attığı gerçeklerdir. Aristoteles, tecavüzün ahlaki olduğunu ispatlamak için kullanılması gereken herhangi bir etik teorinin, en azından onunla ilgili yanlış bir şey içermesi gerektiğini savundu. Böylece, ahlaki teorileri doğrulamak için bir yapı geliştirdikten sonra, kabul görmüş ahlaki önermelerin, gerçek olup olmadıklarını bu yapı aracılığıyla yürütüyorum.
-8. Zekanıza, "gerçeklik", "sebep", "bütünlük" gibi kelimeleri tanımlamaktan kaçınacak kadar saygı duyuyorum. Tekerleği değiştirmek zorunda kalmadan yapacak yeteri kadar işimiz var.
-9. Son olarak, herhangi bir teori -özellikle bir etik teorisi kadar temel olan biri- zaten herkesin içgüdüsel olarak bildiğini sadece onaylarsa pek iyi olmadığını düşünürüm. Hayatımın yıllarını, sadece "cinayetin yanlış olduğunu" ispatlamak için bir etik teori üzerinde harcamadım. Bana göre, en iyi teoriler, herkesin sezgisel olarak anladığı – ve sonra bu ilkeler, tamamen karşı olabilecek yeni doğruları ortaya çıkarmak için kullanılır – doğrulanan gerçeklerdir.
+1. "is" ve "ought" arasındaki insani ayrımı tamamen kabul ediyorum. Geçerli ahlaki kurallar, gerçekte ki bir şeyin varlığından doğrudan türetilemez. Genel olarak insanların yaşamayı tercih ettiği ve bunu gerçekleştirmek için gerçeklerle başarılı bir şekilde etkileşime girmesi gerektiği gerçeği, herhangi bir geçerli etik teorisinin temelini oluşturamaz. Bazı insanlar açıkça yaşamak istemiyorlar ve gerçekliği reddetmekte zorlanıyorlar; bu nedenle bu etik tanımlaması öznel ve koşullu olmaya devam ediyor.
+2. Etik ahlaki olarak "insan sağlığı için iyi olan" olarak tanımlanamaz. Bazı kişiler başkalarına yenik düşerek hayatta kalabilirler, bu nedenle bu etik tanımlaması öznelcilik sorununu aşmaz. Biyolojik terimlerle, bu, evrimsel eğilimleri "yaşamın hayatta kalması için iyi olan" tarif etmekle benzer olacaktır - bu mantıklı olmayacaktır. İnsanlar topluluğu, tıpkı yağmur ormanı olduğu gibi, çıkar çıkarları bulunan bir eko sistemdir ve bir insanın "iyi" bir şey olması, çoğu zaman bir başkasına masraflı gelir.
+3. İdeal Formların "yüksek krallığına" ne inanmıyorum. Ahlak herhangi bir "başka evrende var olan" ya da maddi ya da maddi olmayan olarak düşünülmemelidir. Ahlak bazı "başka alanda" var olursa, daha sonra çok katı rasyonel veya ampirik bir analize tabi tutulamaz ve Plato'nun "Cumhuriyet"te belirttiği üzere toplum, bu nedenle iletişim kurmak için seçkin bir Filozof-Kadro ekibine ihtiyaç duyacaktır - veya , daha doğrusu, "bu" diğer alanın "herkes tarafından anlaşılamayan fermanlarını yürürlüğe koyacaktır. Bu aynı zamanda öznellik problemini çözemez, çünkü akıl erişilemez olan ve kanıt tanımı itibariyle özneldir.
+4. Ahlakın, "etki eden argümanlar" ya da etik önermelerin öngörülen sonuçlarıyla ilgili olarak tanımlanabileceğini veya belirlenebileceğini düşünmüyorum. Faydacılıkçılık ya da "en büyük sayı için en büyük iyilik", öznelcilik sorununu çözmez çünkü herkes için nesnel olarak iyi olanı bilen herhangi bir merkezi planlamacının oranının, herhangi bir merkezi ekonomik planlayanın, etkin bir şekilde nasıl tahsis edileceğini bildiği kadarıyla aynıdır. Fiyatların yokluğunda kaynaklar - etkin bir şekilde sıfırdır. Ayrıca, "en büyük için en büyük iyilik" olarak düşünülen şey kültür, bilgi, zaman ve koşullara göre değişir ve öznelcilik sorununun da üstesinden gelemez. Bilimsel deneylerin değerini, bazı Platonik yüksek alana veya bazı faydacı optimizasyona göre değerlendirmiyoruz - bilimsel yönteme uygun olarak değerlendiriliyorlar. Bu kitapta aynı yaklaşımı benimseyeceğim.
+5. Etiği bir "pozitif hukuk doktrini" olarak tanımlamayı reddediyorum. Genel olarak, hukuk sistemlerinin etik sistemlere dayandığı kabul edilse de, hiç kimse her hukuk sistemindeki her yasanın ideal bir ahlakın mükemmel bir yansıması olduğunu iddia edemez.Kanunlar, *herhangi* bir ahlaki teori teorisini direkt olarak ayna edemez; çünkü yasalar, sürekli devrilmekte, terk edilmekte ve icat edilmekte olan sürekli bir akış halindedir - ve dünyadaki yasal sistemler, teorik düzeyde bile birbirine doğrudan karşıt olmaktadırlar . Şeriat kanunları genellikle Anglo-Sakson ortak hukukuna doğrudan karşıdır ve modern demokratik "mafya yönetimi" süreci çoğu zaman ahlaki ideallere karşı ayıltılmış bir uygulamadan çok bir Mafya saldırısına benzer.
+6. Nietzsche'nin ısrarla savunduğu gibi, etik hiç bir şey olmadığı ve tüm "ahlak" sistemlerinin sadece kontrol araçları olduğunu öne sürüyorum. Bu kitapta etik diye bir şey olmadığı ve orada bir çerçeve inşa edildiği varsayımından yola çıkıyorum.
+7. İnsanlığın ahlaki *içgüdülerine* büyük saygı duyuyorum. Cinayet, tecavüz, saldırı ve hırsızlık konusunda ki neredeyse evrensel ve toplumsal yasaklar, herhangi bir rasyonel etikçinin tehlikeye attığı gerçeklerdir. Aristo, tecavüzün ahlaki olduğunu ispatlamak için kullanılabilecek herhangi bir etik teorinin, en azından söylemek gerekirse, onunla yanlış bir şey içermesi gerektiğini savundu. Dolayısıyla etik teorileri doğrulamak için bir çerçeve geliştirdikten sonra, genel kabul gören bu ahlaki önermeleri, geçerli olup olmadıklarını görmek için bu çerçeve aracılığıyla yürütüyorum.
+8. İstihbaratınıza "gerçeklik", "akıl", "dürüstlük" vb. Kelimeler tanımlamaya yetecek saygı duyuyorum. Tekerleği değiştirmek zorunda kalmadan yapacak çok işimiz var.
+9. Sonunda, herhangi bir teorinin, özellikle de bir etiğin teorisi kadar temel bir teorinin, herkesin içgüdüsel olarak bildiklerini doğruladığı takdirde, çok az şey yaptığını düşünüyorum. "Cinayetin yanlış olduğunu" ispatlamak için hayatımın yıllarını, bir etik teori üzerinde çalışarak geçirmedim. Benim düşünceme göre, en iyi kuramlar, tümünün sezgisel olarak anladığım doğruları doğrulayan teorilerdir - ve sonra bu ilkeleri, tamamen karşı-sezgisel olabilecek yeni doğruları ortaya çıkarmak için kullanırlar.
 
-Hayatımın son birkaç yılını hazırlanmak, çalışmak ve bu canavarla mücadele etmek için harcadıktan sonra, umarım kendime bir miktar onur tanımış olurum. Zaferle çıktığımı düşünüyorum -tamamen yaralanmamış olsa da- ve bu görüşü paylaşanları görmek için sabırsızlanıyorum.[^2]
+Hayatımın son birkaç yılını bu canavar hazırlarken, eğitirken, sonra da bu canavarla mücadele etmekle geçirdim. Umarım bir miktar onur ile beraat etmişimdir. İnanıyorum ki tamamen zedelenmemiş olmasına rağmen zafer kazanmıştım ve kimlerin bu görüşü paylaştığını görmek için sabırsızlanıyorum.[^ 2]
 
-Yüksek lisansta felsefe tarihi okudum ve yüksek lisansım var fakat felsefe doktoram yok. Herkes tarafından tanınan bir entelektüelden uzaktayım. *En* olası şampiyon olmasam da, aynı zamanda en olasıdan çok daha uzaktayım. Başarılı olup olmamam sana veya bana bağlı değil.
+Yüksek lisans tarih fakültesini okudum ve bir Yüksek Lisans derecesine sahip oldum, ancak felsefede doktoram yok.
+Kamu tarafından tanınan bir entellektüeliteden uzaktayım. En olası *şampiyon* olamayabilirim, ancak ben de en olasıdan çok uzaktayım. Başarılı olup olmadığım bana değil size kalmış.
 
-Eğer mantık dayanırsa, en büyük canavar yıkılır.
+Amacıma devam edersem, en büyük canavar yıkılır.
 
 ### Mütevazi Bir Öneri
 
-Küstahlığın seviyesi okuyuculara nasıl okuyacaklarını dikte eder, ama önümğzdeki zorlukları ele alırsak, öne çıkarmadan önce bir öneri daha vermek isterim.
+Okuyuculara bir kitabı okumayı öneren, cesurluğun yüksekliğidir. Amma ve lakin önümüzde ki görevin zorlukları göz önüne alındığında, atılmadan önce küçük bir öneri yapmak isterim.
 
-Eğer on beşinci yüzyılda yaşasaydın ve seni dünyanın yuvarlak olduğuna inandırmaya çalışsaydım önüne fiziksel ve matematiksel kanıtlar sererdim. Eğer aksine bir görüş bildirdiyseniz, doğal olarak şüphecilikle tepki vereceksiniz ve her satırınızda bir kanıt sunmaya eğilimli olacaksınız. Bununla birlikte, eğer dünyanın etrafına yelken açarsak ve adımlarımızı tekrar etmeden başladığımız yere geri dönersek, zaten *yaşadığınız şeylerin* gerçek olması için kavramsal kanıtları kabul etmeye daha fazla istekli olursunuz. Belirli bir mantıksal hata veya metafor ile ilgili belki bir hata bulabilirsiniz ama zaten sonucu destekliyorsunuz ve teoriyi bir bütün olarak reddetmektense detayları düzeltmek için yardım etmeye daha yatkın olursunuz.
+On beşinci yüzyılda yaşıyor olsaydık, size matematiksel ve fiziksel kanıtlardan yığınlar göstererek dünyanın yuvarlak olduğuna ikna etmeye çalışıyordum. Aksine bir görüşte bulunursanız doğal olarak şüphecilikle tepki vereceksiniz ve her kanıt satırı ile konuşmaya meyledeceksiniz. Bununla birlikte, aslında dünyayı dolaşabilir ve adımlarımızı geri çekmeden başladığımız yere geri dönersek, gerçek olabilmesi için *yaşadıklarınızın* kavramsal delillerini kabullenmekten adına daha istekli oluruz. Belli bir mantıksal basamak veya metafor ile hata bulabilirsiniz, ancak sonuca zaten katılıyorsunuz ve bu nedenle, teoriyi bir bütün olarak reddetmektense ayrıntıları düzeltmeye yardımcı olmak daha eğilimli olacaktır.
 
-Eğer görevim, her dilsel, mantıksal ve ampirik adıma olası itirazlara tepki vermek olsaydı, bu kitap sonsuza kadar bitmemiş ve okunmamış kalacaktı. Mükemmelliyetçilik, özünde ertelemedir ve bu kitabın görevinin çok önemli olduğunu düşünüyorum – yanlış ahlakın tehlikeleri çok ciddi ve yakınımızda – cennete ulaşmaya çalışırken hepimiz cehenneme gitmek için bu kadar uzun süre harcayacağız.
+Görevim, her dilsel, mantıksal ve ampirik adıma karşı olası tüm itirazlara cevap vermek zorundaydı, bu kitap sonsuza dek bitmemiş olarak kalacaktı - ve okunmamış olacaktı. Mükemmeliyetçilik özünde ertelemedir ve bu, kitabın görevi olarak çok önemli sayılır – ve yanlış ahlakın tehlikeleri çok ciddi ve yakın gelecektir - hepimizi cehenneme götüren cennete ulaşmaya çalışmak için bu kadar uzun süre harcamak...
 
-Bu nedenle, alçakgönüllülükle, önerdiğim etik çerçevenin, teoriye ilişkin mutlak karara varmadan önce insanlığın en yaygın kabul gören ahlaki zaaflarını kanıtlamanın ne kadar etkili olduğunu görmek için beklemenizi öneririm.
+Dolayısıyla, alçak gönüllülükle, önerdiğim etik çerçevenin, teoriye ilişkin nihai karara varmadan önce insanlığın en yaygın kabul gören ahlaki zaaflarını kanıtlamanın ne kadar etkili olduğunu görmek için beklemenizi öneririm.
 
-Gerçekten, rasyonel bir etik çerçeve tanımını insanlığın yüz yüze görmesi gereken en önemli görev olduğuna inanıyorum. Bu önemli konudaki ilginizden dolayı gerçekten teşekkürü borç bilirim ve bu işi mümkün kılan harika bağışçılara daima teşekkür etmek isterim.
+Gerçekten, rasyonel bir etik çerçeve tanımının insanlığın yüz yüze görmesi gereken en önemli görev olduğuna inanıyorum. Bu önemli konuda ki ilginizden dolayı gerçekten minnettarım ve bu işi mümkün kılan, bağış yapan harika kişilere her zaman teşekkür etmenizi isterim.
 
-Başkaları tarafından iyi silahlanmış bir savaşa biniyorum.
+Başkaları tarafından iyi kuşanılmış savaşa gidiyorum.
 
-[^1]: Bunların çoğu bu kitap boyunca detaylı bir şekilde ele alınacaktır.
+[^ 1]: Bunların çoğu bu kitap boyunca detaylı olarak tartışılacaktır.
 
-[^2]: Elbette, eğer başarısız olduysam, en azından hem kendimi hem de onları eğlendirdim ve iyi bir örnek oldum.
+[^ 2]: Elbette, eğer başarısız olduysam, en azından muhteşem bir şekilde başarısız olurum, ki bu da durumun kendisini hem eğlenceli hem de eğlendirici yapabilir!

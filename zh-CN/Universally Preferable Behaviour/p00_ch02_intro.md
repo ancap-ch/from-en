@@ -56,7 +56,7 @@
 
 ### “中间真理”
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+讓我們把對立的原則，居住在感知和概念的一致性之間的 “零地帶” – ”中的真理"。
 
 这些“中间真理”是所有人中最危险的幻想，因为他们承认真相的*出现*，同时竟*攻击*真相。
 
@@ -86,7 +86,7 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 世界崩塌是因为岩石崩塌了。
 
-### "Middle Truths" And Exploitation
+### “中道”与剥削
 
 从生物学上来说，寄生对于许多生物来说是一个完全可行的生存策略。 在缺乏伦理规范的情况下，窃取其他生物的能量和资源是非常明智的。 通常来说，最持久、最稳定的寄生形式是*共生*，或互利共存。 因此栖息于我们肠道内的细菌帮助我们消化食物来帮助它们自己的生存。
 
@@ -98,36 +98,36 @@ Let us call the oppositional principles that reside in the “null zone” – b
 
 建立真理必然会限制幻想。 限制幻想必然会限制剥削。 如果我能说服你，让你认为我是一个活生生的人神，生下我的神要你给我你收入的百分之十，不然你就会永远被惩罚，那么我会变得非常富有。 我是幻想的寄生物，依赖于这些幻想来维持我的营养，就像是真菌依靠温暖、潮湿—和黑暗。
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+那些利用道德幻想剥削人类的人，总是对那些通过发现和传播真相威胁生命的人进行激烈的斗争。
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+我们熟悉的黑社会的例子，这威胁的潜在竞争对手与致残和死亡，或宗教派别互相攻击的场面，或一个政府的攻击另一个。
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+当哲学家揭露继续开发必要的谎言，然而，他们是不会为自己设置竞争对手。他们不想取代黑手党或教会 - 他们希望彻底消灭它。
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+一个更现代的比喻是国家、说客和纳税人之间的关系。说客将猛烈攻击其他游说者对同一税收竞争。然而，想象一下，所有说客都会联合起来攻击任何提议将国家消灭为一个机构的人。
 
-Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
+寄生虫会为了主人有限的资源而激烈地竞争，但联合起来攻击任何有可能消灭宿主本身的东西是他们的最大利益。
 
-In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
+这样，在任何国家和教会名义上分开的社会里，每一个实体都倾向于争夺追随者。在教会开始衰落的时候，国家会积极招募爱国者，导致世俗社会主义。在国家开始攻城略地，教会将积极招募信徒 - 导致宗教原教旨主义，往往带有自由主义的色彩。
 
-However, the philosophers who oppose *all* intellectual error are the sworn enemies of all the parasites that feed off illusions. The “great truths” of physics eliminate the need for supernatural agents, and render miracles impossible. The explanatory power of science wholly outshines the religious fictions that masquerade as knowledge about the physical world.
+然而，反对一切智力错误的哲学家们是所有寄生幻觉的寄生虫的死敌。物理学的“伟大真理”消除了对超自然力量的需求，使奇迹成为不可能。科学的解释力完全一枝独秀的宗教小说，伪装成关于物理世界的知识。
 
-The scientific method requires that every thesis be supported by evidence and rationality. Since there is no evidence for gods – and the very *idea* of gods is innately self-contradictory – the thesis “gods exist” cannot stand. Inevitably, the religious parasites attempt to defend their thesis by trying to split reality into “two realms” – the scientific and the spiritual. However, there is no evidence for the existence of this “spiritual” realm in the present, any more than there was for the parallel universe of Platonic “Forms” two thousand five hundred years ago.
+科学方法要求每一篇论文都要有证据和合理性的。因为没有证据表明神，神的观念是天生的自我矛盾的–论文“神存在”无法忍受。不可避免的是，宗教寄生虫试图通过试图将现实分割为“两个领域”——科学和精神，来捍卫他们的论点。然而，目前没有任何证据表明这个“精神”领域在现在存在，比二千五百年前柏拉图式“平行宇宙”的宇宙更为明显。
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+因此，建立一致和普遍真理一定限制和破坏幻觉的开发潜力。特别是，普遍而一致的“伟大真理”使冗长而荒谬的“中间真理” - 实际上是开拓性的幻想。我们对宗教的“中间真理”很熟悉，其他一些人将在这里被检查和揭示，其中一些可能会使你震惊。
 
-### Effective Parasitism
+### 有效的寄生
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+最有效的寄生虫或病毒是使身体变得冷漠的寄生虫。我们的免疫系统被设计成攻击体内的外来物质，隔离并杀死它们。我们特别担心艾滋病和癌症，因为他们能够绕过我们的免疫系统。同样的技术也被智力寄生虫用来破坏它们捕食的防御系统。
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+如果陌生人在巷子里袭击你，要求你的钱，你会感到震惊和震惊。你可以反击，你可以逃跑，或者你可以给他你的钱包，但你仍然会感到震惊，愤怒和恐惧的互动。当你重复这个故事时，你会以一种强化基础和恶意侵犯你的个人和财产权利的方式告诉它。别人会同情你的困境，并会避免说胡同在未来。
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+这是一个“小实话”的例子，它是：“偷我的东西是错的”。
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+然而，当一个政府代理发送一封信给你要求你给他钱，你可能会感到一定的侮辱，但你不会讲给你的朋友同样的恐惧和愤怒有关。
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+这是一个“中间真理”的例子，它掩盖了一个“伟大的真理”，即“偷窃是错误的”。
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+这本书将集中于揭露和摧毁这些虚假的“中间真理”。我相信在虚假的道德“中间真理”的暴政下，人类承受着无尽的痛苦，这证明了宗教迷信，世俗专制主义和家庭崇拜的破坏性世界观。
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+我在这本书中的论点是，在伦理学中，如同其他所有的知识学科一样，伟大的真理直接来自小的真理。“中间事实”迷雾迷雾是一条通向地狱的通道，但值得努力奋斗，因为真理的唯一根本替代是剥削，毁灭 - 不可避免的是，数以百万计的过早的死亡。

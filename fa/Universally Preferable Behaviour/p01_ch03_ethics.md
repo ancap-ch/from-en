@@ -1,55 +1,56 @@
-## Ethics
+## علم اخلاق
 
-Since ethics is a subject that we all have opinions about already, it is important to outline the relationship between *instinctual* ethics and *rational* ethics.
+اخلاق موضوعی بوده است که ما همگی در مورد آن تا کنون نظر هایی داریم.خیلی مهم است که مختصرا ارتباط بین اخلاق غریزی و اخلاق عاقلانه را .شرح دهیم
 
-A baseball player can catch a fly ball even if he knows nothing about physics. Similarly, we can correctly perceive an action as immoral even if we know nothing about ethical theories.
+یک بازیکن بیس بال می تواند یک توپی در هوا را بگیرد.اگرچه او چیزی راجع به فیزیک نداند.به طور مشابه،ما می توانیم دقیقا درک کنیم اقدامی که غیر اخلاقی است اگرچه هیچی ما در مورد نظریات اخلاقی ندانیم.
 
-If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
+اگر من می توانم یک توپ را در هوا بگیرم،پس من یک احساس غریزی یک بیس بال برای حرکت در پرش در هوا را دارم.اگرچه،فهم غریزه ام ،به من توانایی فرود یک سفینه فضایی را به مدار مشتری بدرستی نمی دهد.من یک (حقیقت کوچک) که چگونه توپ بلافاصله حرکت خواهد کرد را دارم امااینکه چگونه جسم حرکت خواهد کرد ،(حقیقت علمی بزرگ)کلی را به من نمی دهد.
 
-In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
+به طریق مشابهی،تغییر ناگهانی اخلاق همگانی در مقابل اقدام هایی نظیر تجاوز جنسی و قتل لزوما درست نیستند اما آنها این توانایی را به ما نمی دهند که بطور ثابت و تجربی نظریه های اخلاقی را ایجاد یا تصدیق کنند.
 
-If I propose a scientific theory that completely invalidates a baseball player’s ability to catch a fly ball, then I have the insurmountable challenge of explaining how the baseball player actually *does* catch the ball. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
+اگر من یک نطریه علمی را پیشنهاد کنم ،که توانایی یک بازیکن بیس بال را در گرفتن توپ در هوا را،باطل کند پس من چالش توضیح فائق نیامدنی را دارم.همچنین،اگر (نظریه بزرگ) نتواند قوس یک توپ در هوا را به دقت پیش بینی کند،پس من یک (حقیقت بزرگ ) دارم که مستقیما بوجود آمدن (حقیقت کوچک) را رد می کند که نمی تواند دارای اعتبار قابل قبول باشد.زمانی که نیازمندی ثبات منطقی  اخلاقی مستقیما از حقیقت های کوچک ناشی شود آزمایش و ادراک هر نظریه ای که مستقیما تناقض داشته باشد مانند آزمایش (عملی) نمی تواند ثابت و استوار باشد.
 
-In other words, the senses give rise to logic – therefore logic cannot contradict the evidence of the senses. Evidence always trumps explanation.
+به عبارت دیگر ،حس ها منطق را افزایش می دهند.بنابراین منطق نمی تواند با شهادت حس تناقض داشته باشد .شواهد همیشه توضیحات را از بین می برند.
 
-In a similar manner, any valid ethical theory should be able to explain and justify our common revulsion towards crimes such as murder and rape. It cannot reasonably contradict the universal prohibitions of mankind, but must accurately incorporate and explain them.
+به طور مشابهی ،هر نظریه ی درست اخلاقی باید توانا باشد تا تغییر ناگهانی عمومی  ما در مقابل جنایات از قبیل قتل و تجاوز جنسی توضیح دهد و قضاوت کند.این نمی تواند معقولانه با حرمت کلی انسان تناقض داشته باشد.اما باید بدقت متحد کند و آنها را توضیح دهد.
 
-However, just as Einsteinian physics provided surprising truths – in fact, it would have been of little value if those truths were *not* surprising – ethical theories provide the most value when they also reveal surprising truths – shocking, even. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
+اگرچه ،نظریه ی فیزیک انیشتین فقط حقیقت های شگفت انگیزی را فراهم آورد.در حقیقت،اگر این حقیقت ها شگفت انگیز نبودند ،این ارزش کمی  داشت.نظریه های بیشترین ارزش را فراهم آورد وقتیآنها حقیقت های شگفت انگیز و تکان دهنده را آشکار کردند،حتی.در حقیقت ،نظریه های اخلاقی که حقیقت های شگفت انگیزی را فراهم نیاوردند تنها تاییدی است بر برتری غریزی موجود و بنابراین ارزش کمی دارند.
 
-### The Discipline Of Theoretical Ethics
+### انضباط برقرار کردن در نظریه های اخلاقی
 
-If I say that something is “morally good” – in other words, if I propose an ethical theory – then clearly I am arguing that human beings *should* act in a particular manner, or *avoid* acting in a particular manner.
+اگر من بگویم که چیزی(اخلاقا خوب) است به عبارت دیگر، اگر من یک نظریه اخلاقی را پیشنهاد کنم پس من آشکارا مشاجره می کنم که انسان باید رفتار کند یا اجتناب کند به طریق ویژه.
 
-If I tell my son that he *should* become a baseball player just because I want him to, I am not stating a universal moral premise, but rather a personal preference. He is not *moral* if he becomes a baseball player, and neither is he *immoral* if he does not.
+اگر من به پسرم بگویم که او باید یک بازیکن بیس بال شود فقط بخاطر اینکه از او میخواهم،در این حالت نظریه من جامع و اخلاقی نیست اما بلکه تقدم شخصی است.اگر او بازیکن بیس بال شود اخلاقی نیست و اگر نشود غیر اخلاقی نیست
 
-However, if I tell him that it is *moral* for sons to obey their fathers, and *immoral* for them to disobey their fathers, then I am proposing a preference that is universal, rather than merely personal – I am trying to turn a “little truth” (*I want you to become a baseball player*) into a “great truth” (*It is immoral for sons to disobey fathers*). *If* he wishes to be moral, he *must* become a baseball player – not because becoming a baseball player is moral, but rather because obeying his father is moral.
+اگرچه، من به او بگویم که برای پسرها اخلاقی است از پدرشان اطاعت کنند  و غیر اخلاقی است برای آنها که داز پدرشان نافرمانی کنند ،پس یک برتری را که همگانی است معرفی کردم.من تلاش می کنم که (حقیقت های کوچک)((من از تو میخواهم یک بازیکن بیس بال شوی))  را به (حقیقت های بزرگ) ((این برای پسرها غیراخلاقی هست که از پدران نافرمانی کنند))تبدیل کنم .اگر او آرزو که با اخلاق باشد او باید یک بازیکن بیس بال شود نه بخاطر اینکه بازیکن بیس بال شدن اخلاقی است ،بلکه بخاطر اطاعت ازپدر اخلاقی است.
 
-When I speak of a universal preference, I am really defining what is *objectively required*, or *necessary*, assuming a particular goal. *If* I want to live, I do not have to like jazz, but I *must* eat. “Eating” remains a preference – I do not *have* to eat, in the same way that I have to obey gravity – but “eating” is a universal, objective, and *binding* requirement for staying alive, since it relies on biological facts that cannot be wished away.
+وقتی من از برتری کلی صحبت می کنم ،من واقعا تعیین میکنم به چه هدفی نیاز یا ضروری است.فرض کردن یک هدف ویژه.اگر من من بخواهم زندگی کنم مجبور نیستم که  شبیه جاز (شلوغ و پر سر و صدا ) باشم اما باید بخورم .خوردن آثار یک برتری است. به طریق مشابه که من از گرانش اطاعت می کنم  من مجبور نیستم بخورم اما خوردن همگانی ، هدفمند ،استوار و اجباری است لازمه برای زنده ماندن ،زیرا خوردن به حقیقت های بیولوژیکی بستگی دارد که نمی توان خواستگاه آن را دور کرد 
 
-Ethics as a discipline can be defined as any theory regarding preferable human behaviour that is universal, objective, consistent – and binding. Naturally, preferential behaviour can only be binding if the goal is desired. If I say that it is *preferable* for human beings to exercise and eat well, I am not saying that human beings *must not* sit on the couch and eat potato chips. What I am saying is that *if* you want to be healthy, you *should* exercise and eat well.
+علم اخلاق به عنوان یک نظم دهنده می تواند تعیین شودزیرا هر نظریه راجع به رفتار بشر بیشتر جامع ، هدفمند،ثابت و اجباری است.طبیعتا اگر هدف مطلوب بود،رفتارهای ممتاز فقط می تواند اجباری باشد.این که بگویم برای انسان ها بهتر است که تمرین کنند و به خوبی بخورند .من نمی گویم که انسان ها نباید بنشینند روی کاناپه و چیپس گوجه ای بخورند .چیزی که می گویم این است که اگر شما میخواهی تا سلامت باشی شما باید ورزش کنی و خوب بخوری .
 
-As Hume famously pointed out, it is impossible to derive an “ought” from an “is.” What he meant by that was that *preference* in no way can be axiomatically derived from *existence*. It is true that a man who never exercises and eats poorly will be unhealthy. Does that mean that he “ought” to exercise and eat well? No. The “ought” is conditional upon the *preference*. If he wants to be healthy, he *ought* to exercise and eat well. It is true that if a man does not eat, he will die – we cannot logically derive from that fact a binding principle that he *ought* to eat. *If* he wants to live, then he *must* eat. However, his choice to live or not remains his own.
+همانطور که انسانهای معروف اشاره کردند، غیرممکن است که «باید» را با«است» یکی دانست. آنچه که در اینجا معنادار بود این است که اولویت به هیچ وجه نمی تواند به طور ذهنی بوجود بیاید. درست است که یک مرد شاید هرگز نمیتواند تمرین کند ، ناسالم بودن آن آیا این بدان معنی است که او "باید" برای ورزش خوببخورد؟ خیر. "باید" به ترجیح  بودن بستگی دارد. اگر او می خواهد سالم باشد، باید به ورزش و خوردن خود رسیدگی کند.اگر یک مرد بدرستی غذا خوردن را رعایت نکند، از بین میرود- اما نمی توانیم منطق این واقعیت به عنوان یک اصل پیوندی که او باید بخورد را نادیده بگیریم. اگر  می خواهد زندگی کند، پس او باید غذا بخورد. با این حال، انتخاب او برای زنده ماندن یا باقی می ماندن است.
 
-Similarly, there is no such thing as a universally “better” direction – it all depends upon the preferred destination. If I want to drive to New York from San Francisco, I “ought” to drive east. If I want to drive into the ocean from San Francisco, I “ought” to drive west. Neither “east” nor “west” can be considered universally “better.”
+بطور مشابه همچین چیزی که بعنوان مسیر کلی(بهتر ) باشد وجود ندارد.همگی به مقصد ترجیح داده شده بستگی دارد .اگر من بخواهم از نیویورک به سان فرانسیسکو رانندگی کنم من ((مجبورم)) به شرق رانندگی کنم.اگر من بخواهم به سمت اقیانوس از سان فرانسیسکو رانندگی کنم من مجبورم به غرب بروم.نه شرقنه غرب میتوانند((بهتر)) به حساب بیایند .
 
-It is true that very few people *do* drive into the ocean, but that does not mean that it is universally true that nobody *ought* to drive into the ocean. Principles are not democratic – or, if they are, we once more face the problem of rank subjectivism, and must throw the entire concept of ethics out the window.
+درسته که تعداد خیلی کمی از افراد به اقیانوس ها سفر می کنند اما ان به این معنی نیست که کلا درست باشد  که هیچ کس نباید به اقیانوس ها سفر کند.اصول اخلاقی دموکراتی نیستند.یا اگر دموکراتی هستند ما یک بار دیگر با مشکل طبقه ذهن گرا مواجه می شویم و ما باید کاملا عقیده اصول اخلاقی رو از پنجره بندازیم بیرون.
 
-“Behaviour” exists in objective reality, outside our minds – the concepts “ought,” “should,” and “preference,” do not exist outside our minds. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
+رفتار در واقعیت عینی موجودند بیرون از ذهن ما.مفهوم کلی در با  حقیقت عینی موجود نیست،به این معنی بیرون از ذهن ما موجود نیستند.هر چند این حقیقت که باید کاملا ذهنی است نه روش های علمی نه افراد خودشان با حقیقت وجود داشتند نیست که تاکنون دانش و ریاضیات در نظم عینی باقی ماندند
 
-### Self-Defeating Arguments
 
-In order to begin our discussion of ethics, it is essential that we understand the nature of *self-defeating arguments*.
+### مشاجره های علیه منظور خود
 
-In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
+با توجه به شروع کردن بحث های اخلاقی،ضروری است که ما خاصیت مشاجره های متناقض نما را بدانیم.
 
-In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+در علم اقتصاد یک نظریه نمی تواند درست باشد اگر نیاز دارد که قیمت ها در یک زمان بالا و پایین بروند.در فیزیک یک تئوری نمی تواند درست باشد اگر لازم است که گازها منبسط و منقبض شوند در یک زمان.در ریاضیات یک نظریه نمی تواند درست باشد اگر  باسیت دو بعلاوه دو مساوی پنج باشد، زیرا ((پنج)) یک راه دیگر برای توصیف دو بعلاوه سه هست نه دو بعلاوه دو ،بنابراین این که بگویم ذو بعلاوه دو مساوی پنج است گفته باشم که پنچ مساوی چهار است،که خود تکذیب کننده است.
 
-If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
+در کل هر نظریه ای که با خودش در گفتن تناقض داشته باشدنمی تواند درست باشد.نیاز به یک دلیل رد خارجی ندارد ، زیرا نظریه خودش را رد می کند.ما نیاز نداریم که آزمایش کنیم هر گوشه و کافی در جهان را تا تعیین کنیم که( مربع دایره) موجود نیست.همین مفهوم خود-تناقضی استو خودش را در اظهار رد می کند.
 
-Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
+اگر من یک برهان ریاضی پیچیده به شما ارائه دهم ،و شما متوجه بشید که در همین ابتدا توضیح می دهم که برهان من بستگی دارد به این حقیقت که دو بعلاوه دو می سازند هر دو چهار و پنج در یک زمان ،شما نیاز ندارید که چیز بیشتری بخوانید تا بفهمید که برهان من نامعتبر است.
 
-If I come up to you and say: “There is no such thing as truth,” then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
+به همین نحو، همان گونه که قبلا اشاره شد، اگر برای شما مطرح کنم و بگویم ((من وجود ندارم))فرضم خود بخود خود-ویرانگر است.اگر من می توانم با شما ارتباط برقرار کنم که من وجود ندارم ،پس واضحا من هستم.
 
-If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
+اگر برای شما مطرح کنم . بگویم ((همچین چیزی به عنوان حقیقت وجود ندارد))بنابراین من اظاری رو بیان کردم که من ملاحظه می کنم ادعای درستی این حقیقت نیست.از سوی دیگر ،مشاجره من خود ویرانگر است.
 
-If I tell you that “Your senses are invalid,” then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
+ اگر من بگویم که به شما که(زبان بی معنی است)،پس من (سخن)خودم را نیز انکار کرده ام.با توجه به اینکه برای من شفاها ارتباط با زبان بی معنی است،زبان باید حداقل اندکی معنی داشته باشد.
+
+اگر به شما بگویم که((حس هایتان نامعتبر هستند))پس من مشاجره خود-ویرانگر دارم.زیرا من از حس شنیدن شما استفاده می کنم تا با شما ارتباط برقرار کنم که حس شنیدن شما نامعتبر است .اگر من بتوانم با نظریه ام نسبت به شما با موفقیت ارتباط برقرار کنم پس حس شنیدن شما باید معتبر باشد.بنابراینن من باید فرض کنم که حس های شما معتبرند با توجه به اینکه شما را متقاعد کردم که حس های شما نامعتبرند که نمی تواند درست باشد

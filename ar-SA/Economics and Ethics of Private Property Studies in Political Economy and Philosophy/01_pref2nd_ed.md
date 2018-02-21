@@ -1,11 +1,11 @@
 ## تمهيد لطبعة الثانية
 
-The first edition of *The Economics and Ethics of Private Property*, published in 1993, has been out of print for several years. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.
+الطبعة الأولى من * اقتصاديات وأخلاقيات الملكية الخاصة *، التي نشرت في عام 1993، وقد تم طباعتها لعدة سنوات.  مع الوقت وبسبب عدة جوانب كان على ان اعد نسخة جديدة، وقد عرضت ليولين روكويل بكرم معهد لودفيغ فون ميسيسليكون كناشر لها.
 
-*The Economics and Ethics of Private Property* was dedicated to my teacher and mentor, Murray N. Rothbard, with whom I had been closely associated during the last ten years of his life, first as a visiting scholar at the Brooklyn Polytechnic Institute in New York City and after 1986 as a colleague at the University of Nevada, Las Vegas. The year 2005 marks the tenth anniversary of Rothbard’s death. Thus, it seemed a most appropriate time to honor Murray anew with this second edition.
+* خصص اقتصاديات وأخلاقيات الملكية الخاصة * لمعلمي ، موراي ن. روثبارد، الذي كنت قد ارتبطت ارتباطا وثيقا به خلال السنوات العشر الأخيرة من حياته، أولا كباحث زائر في معهد بروكلين البوليتكنيك في مدينة نيو يورك وبعد عام 1986 كزميل في جامعة نيفادا، لاس فيغاس. يصادف عام 2005 الذكرى العاشرة لوفاة روثبارد. وهذا، يبدو الوقت الأنسب لتكريم موراي من جديد مع هذه الطبعة الثانية.
 
-The present edition of *The Economics and Ethics of Private Property* is enlarged. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+تم توسيع هذه الطبعة من * اقتصاديات وأخلاقيات الملكية الخاصة *. وتم إضافة أربعة مقالات مكتوبة بعد النشر الأصلي للكتاب ولكنها ذات صلة موضوعيا لموضوعه المركزي من الأسس الاقتصادي والأخلاقي للمؤسسة الملكية الخاصة ألفصول 6 و 7 و 8 و 15. فرصة طبعة جديدة  استخدمت لإدخال تحسينات تحريرية كبيرة ومراجعات.
 
-Hans Hermann Hoppe
+هانز هيرمان هوب
 
-*Las Vegas, Nevada, 2005*
+* لاس فيغاس، نيفادا، 2005 *

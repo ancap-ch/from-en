@@ -1,28 +1,28 @@
-## Internal Consistency
+## سازگاری درونی
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+اگر من مهندس بودم و یک نقشه برای ساخت یک خانه ارائه  میکردم، اولین مانعی که من باید بر ان غلبه کنم این است که آیا اصلا چنین خانه ای را می توان ساخت یا خیر. اگر طرح های شگفت انگیزی برای خانه ای که به طور کامل از حباب های صابونی ساخته شده است، ارائه کنم، (یعنی یک طرح جالب ولی زودگذر ارائه کنم)، هرگز کمیسیون را دریافت نخواهم کرد،(ماموریت کشیدن این طرح را به من نخواهند داد) زیرا چنین خانه ای هرگز نمیتواند پابرجا بماند
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+به همین ترتیب، اگر یک مهندس طرح یک پل را ارائه کند، اولین معیاری که باید رعایت شود این است که آیا پل باقی خواهد ماند یا نه ملاحظات دیگر مانند طول عمر، زیبایی شناسی و غیره تنها در صورتی اعمال می شود که پل از لحاظ جسمی پایدار باشد
 
-It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
+همچنین ساختن یک پل، بدون در نظر گرفتن کیفیت مواد و استفاده تصادفی از مواد، با استفاده از محاسبات تصادفی در جهت پیدا کردن میزان مقاومت و پایداری آن کاملا غیر منطقی خواهد بود. از آنجا که قوانین فیزیکی ثابت و جهانی هستند، تجسم و دیدن میزان مقاوت یک پل قبل از ساخته شدن آن و اینکه چقدر می تواند پابرجا بماند، کار نسبتا آسانی خواهد بود
 
-There are two ways to determine the viability of the bridge before building it. The first is to look for internal inconsistencies within the premises and calculations that claim to support the viability of the bridge. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+دو راهکار برای تعیین میزان پایداری یک پل قبل از ساخته شدن آن وجود دارد. اول جستجوی ناسازگاری داخلی در محل، و شناسایی محاسباتی که ادعای حمایت از پایداری پل دارند. اگر خطاهای قابل توجهی در برآوردهایی وجود دارد که میزان وزنی را که پل میتواند تحمل کند را توجیه میکنند، احتمالا پل بیش از حد طراحی شده یا کم طراحی شده است. اگر محاسبات ریاضی اشتباه منجر به تعیین وزن پنجاه هزار تن در هر فوت مربع در هر بخش از پل شود، قطعا آن را تحمل نخواهید کرد - یا اگر این کار را بکند، دوام آن تنها به صورت تصادفی است و تجدید پذیر نیست
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+بنابراین محاسبات ریاضی که از میزان توانایی پل حمایت میکنند باید قبل از اینکه ملاحظات دیگر را در نظر بگیریم، از درون سازگار باشند
 
-In computer terms, code that does not compile cannot be tested.
+.در مورد کامپیوتر، کدی که کامپایل نمی کند، نمی تواند آزمایش شود
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+این درست در دنیای علمی نیز هست. نظریه ها همیشه، قبل از اینکه به آزمون های تجربی ارایه شوند، در مورد سازگاری داخلی بررسی می شوند. دلیل این که هماهنگی داخلی بسیار ضروری است، این است که از آنجا که نظریه ها ادعا می کنند که نسبت به واقعیت اعتبار دارند و واقعیت سازگاری  درونی دارد، هر تئوری که سازگار نیست، نمی تواند نسبت به واقعیت اعتبار داشته باشد
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+تنها پس از اینکه سازگاری داخلی محاسبات ایجاد شد، می توان درجه ای که پل با مشخصات مطابقت دارد را بررسی کرد. نوشتن مشخصات سازگاری درونی برای یک پل کوچک ساخته شده از چوب امکان پذیر است اما تا زمانی که مهندس مقاله ای را برای یک مجله راه آهن بنویسد، مشخصاتش، هرچند سازگار باشند ولی در مواجهه با نیازهای صنعتی با شکست مواجه خواهد شد
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+هنگامی که ما مشخص کرده ایم که پل مقاوم است، سپس می توانیم تعیین کنیم که آیا با نیازهای خاص ما مطابقت دارد یا نه. مانند مقاومت پایه های پل یا گذرگاه در برابر وزن قطار.
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+در حوزه های اقتصادی نیز معیار مشابهی اعمال می شود. اگر نظریه اقتصادی من نیازمند این باشد که قیمتها به طور همزمان بالا و پایین بیافتند، پس نمیتوان آن را معتبر دانست زیرا این غیرممکن است. هنگامی که تئوری من برای سازگاری داخلی بررسی شود، می توانم شروع به بررسی شواهد و یا استفاده از نظریه هایم برای پیش بینی های پیشگیرانه کنم
 
-Thus, we can see that any theory, to be valid, requires the following:
+:بنابراین، می توانیم ببینیم که هر تئوری که معتبر باشد، به موارد زیر نیاز دارد
 
-1. Internal consistency (logic).
-2. External consistency (testability).
+1. (سازگاری داخلی (منطق، استدلال
+2. (هماهنگی خارجی (آزمون پذیری
 
-With this in mind, we can now turn to the core subject of this book.
+.با توجه به این، اکنون می توانیم به موضوع اصلی این کتاب برگردیم

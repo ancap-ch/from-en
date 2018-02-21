@@ -28,13 +28,13 @@ Mari kita ambil sebagai contoh bahaya yang sangat nyata dan sekarang: perpajakan
 
 #### Perpajakan
 
-Saya diberitahu bahwa, berdasarkan memilih untuk tinggal di Kanada, saya berhutang "pemerintah" lebih dari lima puluh persen dari penghasilan saya.
+Saya diberitahu bahwa, berdasarkan memilih untuk tinggal di Kanada, saya berhutang pada "pemerintah" lebih dari lima puluh persen dari penghasilan saya.
 
-Stripped mitologi, apa ini benar-benar diterjemahkan?
+dilucuti mitologi, apa ini benar-benar diterjemahkan?
 
-Pada kenyataannya, saya akan menunggu sampai akhir zaman untuk "pemerintah" datang dan mengambil uangnya. Menunggu "pemerintah" untuk mampir adalah seperti ingin berkencan dengan konsep "feminitas." Saya mungkin juga mencoba untuk membayar makan malam saya dengan kata "uang."
+Pada kenyataannya, saya akan menunggu sampai akhir zaman untuk "pemerintah" datang dan mengambil uangnya. Menunggu "pemerintah" untuk mampir yaitu seperti ingin berkencan dengan konsep "feminitas." Saya mungkin juga mencoba untuk membayar makan malam saya dengan kata "uang."
 
-Kenyataannya, ketika saya diberi tahu bahwa saya harus membayar pajak saya kepada "pemerintah," sebenarnya ini berarti saya harus menulis cek untuk mentransfer uang saya ke rekening bank tertentu, yang kemudian diakses oleh individu tertentu. Orang-orang ini kemudian memiliki hak untuk mengambil uang itu, dan menghabiskannya sesuai yang mereka inginkan – tIndividu-individu tertentu yang memiliki kendali penuh atas uang saya.
+Kenyataannya, ketika saya diberi tahu bahwa saya harus membayar pajak saya kepada "pemerintah," sebenarnya ini berarti saya harus menulis cek untuk mentransfer uang saya ke rekening bank tertentu, yang kemudian diakses oleh individu tertentu. Orang-orang ini kemudian memiliki hak untuk mengambil uang itu, dan menghabiskannya sesuai yang mereka inginkan – Individu-individu tertentu yang memiliki kendali penuh atas uang saya.
 
 Sama sekali tidak ada entitas seperti "pemerintah" yang mengangkat jari, bergerak, membuka rekening bank, atau menghabiskan satu sen. Membayangkan bahwa sebuah konsep yang disebut "pemerintah" memiliki kapasitas untuk mengambil atau menghabiskan uang Anda sama persis dengan menunggu "Tuhan" datang dan menjemput Anda dan membawa Anda ke gereja.
 
@@ -42,19 +42,19 @@ Dengan demikian, interaksi sebenarnya adalah bahwa satu orang mengirimkan sebuah
 
 Jika saya tidak membayar orang ini, dia akan mengirim orang lain ke rumah saya untuk mengumpulkan uangnya – plus “bunga” dan “mengisi.”
 
-Biasanya, ketika seorang pria dengan pistol datang ke rumah saya dan menuntut uang saya, saya memiliki hak untuk menggunakan kekuatan untuk membela diri. Namun, dalam kasus ini, karena dia mengenakan kostum dan klaim untuk mewakili entitas fiktif, saya tidak diizinkan menggunakan kekuatan untuk membela diri.
+Biasanya, ketika seorang pria dengan pistol datang ke rumah saya dan meminta uang saya, saya memiliki hak untuk menggunakan kekuatan untuk membela diri. Namun, dalam kasus ini, karena dia mengenakan kostum dan klaim untuk mewakili fiktif entitas, saya tidak diizinkan menggunakan kekuatan untuk membela diri.
 
-Sekarang, jika saya datang ke rumah Anda malam ini berpakaian seperti "elf Narnia yang tinggi" dan meminta uang yang Anda berutang kepada "Ratu Kesengsaraan", dengan asumsi itu bukan Halloween, Anda diperbolehkan untuk menatap saya dengan takjub, dan pesan saya dari milikmu.
+Sekarang, jika saya datang ke rumah Anda malam ini berpakaian seperti "elf Narnia yang tinggi" dan meminta hutang anda kepada "Ratu Kesengsaraan", dengan asumsi itu bukan Halloween, Anda diperbolehkan untuk menatap saya dengan takjub, dan pesan saya dari milikmu.
 
-Jika saya tidak membayar orang yang datang untuk mengambil uang saya, Dia diijinkan untuk mengeluarkan pistol, arahkan ke dadaku, dan menculik saya – atau tembak aku jika aku menolak. Dia bisa menahanku di sel mungil selama bertahun-tahun, di mana aku akan mengalami kebrutalan yang paling kejam dan pemerkosaan terus-menerus, sampai dia memilih untuk membiarkanku pergi.
+Jika saya tidak membayar orang yang datang untuk mengambil uang saya, Dia bisa saja mengeluarkan pistol, lalu mengarahkan ke dada saya, dan menculik saya – atau tembak saya jika saya menolak. Dia bisa menculikku di sel kecil selama bertahun-tahun, di mana aku akan mengalami kebrutalan yang paling kejam dan pemerkosaan terus-menerus, sampai dia memilih untuk membiarkanku pergi.
 
-Menariknya, jika seseorang secara sah berhutang padaku, aku tidak diizinkan untuk menculiknya dan membuatnya disiksa dan diperkosa selama bertahun-tahun. TPajak suami benar-benar melanggar kerangka kerja UPB, karena itu adalah perpindahan harta secara paksa dengan menggunakan inisiasi kekuatan.
+Menariknya, jika seseorang secara sah berhutang padaku, aku tidak diizinkan untuk menculiknya dan membuatnya disiksa dan diperkosa selama bertahun-tahun. Jadi, perpajakan benar-benar melanggar kerangka UPB, karena ini adalah perpindahan properti dengan menggunakan inisiasi kekerasan.
 
 Mencuri, seperti yang telah kita buktikan, adalah kejahatan.
 
-Fisika revolutionised Einstein oleh menyatakan - dan membuktikan - bahwa kecepatan terang itu tetap.
+Einstein merevolusi Fisika lalu menyatakan - dan membuktikan - bahwa kecepatan terang itu tetap.
 
-Kita dapat revolutionise dunia dengan menerima pernyataan - dan bukti - yang mencuri selalu kejahatan.
+Kita dapat merevolusi dunia dengan menerima pernyataan - dan bukti - yang mencuri itu selalu jahat.
 
 ### Pemerintah, agama, dan UPB
 

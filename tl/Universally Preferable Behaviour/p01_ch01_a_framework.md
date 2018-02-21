@@ -1,96 +1,96 @@
-## A Framework For Ethics
+## Ang isang Framework para sa Etika
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Ang iba't ibang uri ng mga pahayag ng kaalaman sa mga etikal na panukala. Kung sasabihin ko, "Gusto ko ng jazz," na maaaring totoo o huwad na pahayag, ngunit hindi ito karaniwang itinuturing na umiiral sa iyo sa anumang paraan. Ang aking kagustuhan sa jazz ay isang pahayag lamang ng pansarili na pagmamahal; batay sa aking pahayag, ito ay hindi nanunungkulan sa iyo sa alinman tulad o hindi gusto na jazz.
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+Ang katulad nito, kung sinasabi ko "Gusto ko ng mga gulay," iyon ay isang pahayag lamang ng pansarili na kagustuhan. Gayunpaman, kung sinasabi ko, "ang mga gulay ay malusog na pagkain," pagkatapos ay lumipat ako mula sa isang pahayag ng pansarili na kagustuhan sa isang pahayag ng layunin na katotohanan. Ito ang pagkakaiba sa pagitan ng "Gusto ko ng ice cream," at, "Ang ice cream ay naglalaman ng gatas."
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+Ang pangunahing pagkakaiba sa pagitan ng mga pahayag ng *kagustuhan* at mga pahayag ng *katotohanan* ay ang mga pahayag ng katotohanan ay layunin, nasubok - at may bisa. Kung pinahahalagahan mo ang katotohanan, ito ay nanunungkulan sa iyo upang tanggapin ang katunayan na ang ice cream ay naglalaman ng gatas, sa sandaling ito ay mapatunayan na.[^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Kung sasabihin ko na ang mundo ay bilog, at nagbibigay ako ng sapat na katibayan para sa pahayag na ito, hindi na ito sa iyo upang matukoy ang iyong sariling kapritso kung ang pahayag ay totoo. Kung maaari kong patunayan na ang mundo ay bilog, kung gayon ay tanggapin mo ito bilang totoo, maliban kung ikaw ay handa na tanggihan ang dahilan at katibayan bilang pamantayan para sa katotohanan.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+Kung tinatanggap ko ang katumpakan ng mga batas sa matematika, hindi ko maaring tanggihan ang isang patunay sa mathematical  na sumusunod sa mga batas na iyon. Kung ako *ay* tumanggi tulad ng isang patunay, hindi na ako maaaring tumanggap na tanggapin ang bisa sa batas ng matematika. Ang aking pagtanggap sa mga batas na ito ay nangangahulugan na ako ay *nakatali* upang tanggapin bilang balido ang mga katibayan na sumusunod sa mga batas na ito. Ang pagtanggi ng isang katibayan na sumusunod sa mga makatwirang pamantayan ay isang pagtanggi ng mga makatwirang pamantayan bilang isang buo.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+Ang pang-agham na pamamaraan, pagkamakatwiran mismo, at mga batas sa matematika na lahat ng mga halimbawa ng *layunin* na pamantayan para sa pagtatatag ng katotohanan ng panukala. Hindi ako opinyon na ang dalawa at dalawa ay gumawa ng apat - kung tatanggapin mo rin ang dalawa at dalawa ay gumawa ng apat, hindi mo ipinailalim ang iyong sarili sa aking opinyon lamang, ngunit sa makatuwirang katotohanan.
 
-### Objective Truth
+### Ang Layunin ng Katotohanan
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+Ang isang pangunahing hamon sa pag-unawa sa kalikasan ng katotohanan ay ang pagkaunawa na ang "katotohanan" ay hindi umiiral sa mundo katulad ng isang bato o puno.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+Ang konsepto ng "katotohanan" ay kinakailangang isang kamag-anak na termino - bagaman hindi ito nangangahulugan ng isang subjective o arbitrary term. Ang konsepto ng "kalusugan" ay isang kamag-anak din - inihambing natin ang "kalusugan" sa sakit, at gayundin sa mga kamag-anak na pamantayan ng kalusugan. Ang itinuturing na "mabuting kalusugan" para sa isang siyamnapung taong gulang ay halos hindi maituturing na mabuting kalusugan para sa isang dalawampung taong gulang. Ang kahulugan ng isang mahabang buhay ay ibang-iba ngayon kaysa sa limang daang taon na ang nakakaraan.
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
+Gayunpaman, hindi ito nangangahulugan na ang konsepto ng "kalusugan" ay ganap na kamag-anak at pansarili. Ang isang sampung taon gulang na namamatay sa lukemya ay hindi malusog sa pamamagitan ng anumang kahulugan - tulad ng isang dalawampung taong gulang runner marapon ay malusog sa pamamagitan ng anumang kahulugan. Sa kasalukuyan, isang tao na nakatira sa siyamnapung taon ay may mahabang buhay, bagaman magbabago ito kung biglang pinayagan tayo ng teknolohiyang medikal na mabuhay ng dalawang daan.
 
-As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
+Habang lumalawak ang kahulugan ng "kalusugan", hindi ito nagpawalang-bisa sa naunang mga kahulugan, ngunit pinalalawak nila ito. Kung ang mga medikal na teknolohiya ay inaabangan upang payagan ang mga siyamnapung taong gulang na manalo ng mga marapon, ang aming kahulugan ng kung ano ang malusog para sa mga may edad ay magbabago - ngunit hindi ito nangangahulugan na ang dalawampu't-taong-taong marathon runner biglang nagiging hindi malusog. Ang pag-aaral ng algebra ay hindi nagpawalang-bisa sa aritmetika.
 
-Truth also has value relative to necessity as well. Newtonian physics has been supplanted by Einsteinian physics, which has proven far more accurate in extreme situations such as extraordinarily high gravity or speed. However, sailors wishing to calculate the correct path across an ocean find Newtonian physics more than accurate enough. You wouldn’t want to send a spaceship to Alpha Centauri using Newtonian physics, but it is totally fine for getting a ship from Lisbon to New York. The labour involved in learning and implementing Einsteinian physics is thus a net negative for a sailor.
+Ang katotohanan ay may halaga din sa pangangailangan. Ang pisika ng Newton ay pinalitan ng pisika ni Einsteinian, na napatunayan na mas tumpak sa mga matinding sitwasyon tulad ng sobrang mataas na gravity o bilis. Gayunpaman, ang mga manlalayag na nagnanais na kalkulahin ang tamang landas sa isang karagatan ay makahanap ng higit na tumpak na eksaktong pisika ng Newtonian. Hindi mo nais na magpadala ng isang sasakyang pangalangaang sa Alpha Centauri gamit ang Newtonian physics, ngunit ito ay ganap na multa para sa pagkuha ng isang barko mula sa Lisbon sa New York. Ang paggawa na kasangkot sa pag-aaral at pagpapatupad ng Einsteinian physics ay sa gayon ay isang net negatibong para sa isang mandaragat.
 
-As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+Bilang resulta, ang pangungusap na "Pisika ni Newtonian ay mas tumpak kaysa sa Pisika niEinsteinian, ngunit ang pisika ng Newton ay ang pinakamahusay na paraan upang kalkulahin ang landas ng isang barko" ay maaaring isaalang-alang ng wastong panukala. Ang pisika ng Newton ay sa gayon parehong *mas tumpak*, at *mas naaangkop*.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+Kung gusto naming uminom ng purest posibleng tubig, malamang na magbayad kami ng libu-libong dolyar bawat bote. Maliban kung kami ay sobrang sobra at napakalubha, hindi kami kailanman magbabayad nang husto upang mapawi ang aming uhaw. Totoo na ang dalisay na tubig ay mas mabuti para sa atin, ngunit ang presyo na nangangailangan ng kadalisayan ay umabot sa isang limitasyon ng lumiliit na pagbalik. Kaya "mas malinis ay mas mahusay" ay nagbibigay daan sa "mas malinis ay mas masahol pa."
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+Muli, hindi ito nangangahulugan na ang kadalisayan ng tubig ay lubos na pansarili. Ang dalisay na tubig ay laging mas maisamis kaysa sa tubig sa dagat.
 
-#### Truth And Objective Reality
+#### Ang Katotohanan at Layunin ng katotohanan
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+Ang konsepto ng *katotohanan* kinakailangang nagsasangkot sa konsepto ng *kawastuhan*. Kung sinusubukan kong i-shoot ang isang palaso sa isang bull's-eye, ang katumpakan ng aking pagbaril ay natutukoy kung gaano kalayo ang landas ng aking palaso mula sa gitna.
 
-What, then, is the “bull’s-eye” of truth?
+Kung gayon, ano ang "tuta ng mata" ng katotohanan?
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+Magaling, ang *katotohanan* ng isang pahayag ay masusukat na kamag-anak sa pagsang-ayon nito sa layunin na katotohanan.
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+Sa paglalagay ng mga hamon ng lengguwahe sa sandaling ito, kung ituturo ko sa isang seagull at sabihin, "Iyon ay isang palabas," maliwanag na ako ay nagkakamali, sapagkat ang mga anvil ay tulagay, at hindi maaaring lumipad. Ang katotohanang katotohanan ng aking pahayag ay sinusukat sa mga layunin ng katotohanan. Dahil ang kanyon ay hindi sa katunayan ay isang palihan, ang aking pahayag ay hindi totoo.
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+Siyempre, ang equation na ito sa pagitan ng katotohanan at katotohanan ay nangangailangan na ang lengguwahe at ang aming mga pandama ay itinuturing na medyo layunin. Maraming magandang dahilan upang maniwala na ang katunayan ng parehong lengguwahe at kahulugan ay sa katunayan na layunin; maaari kaming makakuha ng isang kumplikadong talakayan tungkol sa ito, ngunit dapat sapat na sabihin na dahil ginagamit mo ang iyong mga mata upang basahin ang isang libro na nakasulat sa isang wika ng tao, maaari naming hindi bababa sa sang-ayon na ang iyong mga mata, at ang wika na aming ibinabahagi, ay nasa hindi gaanong sapat na layunin para sa tumpak mong iproseso ang aking isinusulat. Kung walang sila, wala kaming dapat pag-usapan, at hindi mo maintindihan ang anumang nakasulat pa rin, kaya ang pangungusap na ito ay walang kapararakan, at maaaring maisalin din sa "Wingdings".
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+Sa pagpapalagay maaari mong sabihin ang pagkakaiba sa pagitan ng dalawang mga font sa itaas, maaari naming makatwirang ipagpatuloy.
 
-#### Accuracy And Consistency
+#### Ang Katumpakan At Ang Kaugalian
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+Ito ay imposible para sa akin na tumpak na magpinta ng isang ulap, dahil sa oras na kinakailangan upang ipinta ito, ang ulap ay patuloy na nagbabago.Pwedi kong tumpak na magpinta ng isang *litrato* ng isang ulap, na nag-yeyelo sa oras.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+Kung gumugol ako ng isang oras na sinusubukang magpinta ng isang ulap, at pagkatapos ay tanungin ko sa iyo kung o hindi ang aking pagpipinta ay isang tumpak na representasyon ng ulap na iyon, kinakailangan mong tugon na hindi.
 
-In other words, where there is no consistency, there can be no accuracy.
+Sa madaling salita, kung saan walang pare-pareho, pweding walang kawastuhan.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Kapag na nanaginip kami sa gabi, ang aming pananaw ay ang mga panuntunan ng "bagay" at "enerhiya" ay nasa isang pare-parehong estado ng pagkilos ng bagay - hindi kami immune sa gravity, at pagkatapos ay lumipad kami sa likod ng isang elepante, at pagkatapos ay maaari kaming maglakad sa pamamagitan ng mga pader. Ito ay hindi posible upang bumuo ng isang "pang-agham na pisika ng mga pangarap" kaysa sa tumpak na pintura ng isang ulap.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+Kung gayon, ang lohika, agham at katotohanan ay imposible sa kawalan ng *pagiging pare-pareho*.
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+Sa panimula, ang mga batas ng lohika ay nagmula sa pag-uugali ng bagay at lakas, hindi bababa sa antas ng perceptual. Kung sasabihin ko sa iyo na ihagis ang isang bola parehong pataas at pababa sa parehong oras, hinihiling ko ang imposible, na madali mong masusubok sa pamamagitan ng pagtatangkang matupad ang aking kahilingan. Kung sasabihin ko sa iyo na mag-araro sa hilaga at patlang sa timog nang sabay-sabay, hindi mo magagawang sumunod. Kung hinihiling ko na buksan mo ang isang rosas sa isang asno, ang aking pangangailangan ay hindi kailanman matutugunan.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+Ang pangkaisipang katotohanan ay pare-pareho at layunin - at ito ay mula sa pare-pareho at kawalang-kinikilingan na nakukuha natin ang mga batas ng lohika. Ang aming mga pahayag tungkol sa katotohanan ay maaari lamang tumpak *kumakatawan sa* katotohanan bilang isang direktang resulta ng pare-pareho at kawalang-kinikilingan.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+Ang katotohanan na ang mga seagull ay hindi nagkataon na nagiging mga anvil - o kabaligtaran - ang ugat ng ating kakayahang tumpak na hatulan ang pahayag: "Iyon ay isang seagull." Kung ang mga seagull ay kusang nagbago at patuloy na nagbago ng kanilang likas na katangian, totoo o huwad na pahayag tungkol sa mga ito - o anumang bagay para sa bagay na iyon.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Ito ang ugat ng isang pangunahing pamantayan ng siyentipikong paraan - reproducibility. Kung gumawa ako ng isang unibersal na claim tungkol sa likas na katangian ng gravity, pagkatapos ay dapat mong ma-kopyahin ang claim sa iyong sariling kapaligiran. Kung ang katotohanan ay *hindi* pare-pareho, pagkatapos reproducibility ay isang hindi makatwiran criterion para sa pagtatatag ng katotohanan.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+Kung ikaw ay isang guro ng matematika, malamang na hindi ka makatanggap ng maling sagot mula sa isang mag-aaral, kahit na ang mag-aaral ay nag-claim na ang kanyang sagot ay "tama" nang isinulat niya ito, ngunit sa paanuman ay nagbago sa interim.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Sa gayon maaari naming tanggapin na dapat nating sukatin ang bisa ng isang pahayag na may kaugnayan sa layunin na katotohanan - parehong empirically, at lohikal. Lohika bilang isang disiplina arises lamang bilang isang resulta ng pagkakapare-pareho ng katotohanan; Ang mga empirical observation ay wasto o hindi wasto lamang bilang resulta ng pare-parehong katangian ng katotohanan.
 
-### The Existence Of "Truth"
+### Ang pagkakaroon ng "Katotohanan"
 
-Truth, then, can be measured according to two central criteria:
+Kung gayon, ang katotohanan ay maaaring masukat ayon sa dalawang sentrong pamantayan:
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+1. Ang Katotohanan ay isang sukatan ng ugnayan sa pagitan ng mga ideya sa ating isipan at ang pagkakapare-pareho ng pagkamaykatwiran, na direktang nakuha mula sa pare-parehong pag-uugali ng bagay at enerhiya sa tunay na mundo. [^ 2]
+2. Ang katotohanan ay isang sukatan ng ugnayan sa pagitan ng mga ideya sa ating isipan at ang kalikasan at pag-uugali ng bagay at lakas sa tunay na mundo.[^3]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+Ang unang criterion ay isang sukatan ng pagkakapare-pareho ng mga ideya sa kanilang mga sarili - at ang gayong pagkakapare-pareho ay isang pangangailangan sapagkat ang katotohanan ay pare-pareho sa sarili nito. Kung sasabihin ko, "wala ako," iyan ay isang halimbawa ng isang ideya na hindi naaayon sa kanyang sarili, dahil kailangan kong lumabas upang ipahayag ang pangungusap. Ang pangalawang pamantayan ay isang sukatan ng katumpakan ng mga ideya na may kaugnayan sa mga obserbasyon ng obserbasyon ng layunin na katotohanan.
 
-#### Empiricism Versus Rationality
+#### Ang empiricism kumpara sa pagkamakatwiran
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+Ang empirisismo ay maaaring pag-iisip bilang ang kakayahan na likas na mahuli ang isang itinapon na bola, o sukatin ang kilusan nito; Ang pagkamaykatwiran ay ang kakayahang mahulaan at maunawaan ang landas na gagawin ng bola batay sa mga prinsipyo ng unibersal. Malinaw, kung ang mga bola ay sapalarang pumasok sa anuman at bawat direksyon - at magically transformed sa mga kawan ng mga kalapati upang mag-boot - hindi namin lubos na mahulaan ang kanilang pag-uugali.
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Kaya, dahil ang bagay ay sumusunod sa mga batas na hindi nababago, ang ating mga teorya *tungkol sa* bagay ay dapat ding sumunod sa mga batas na hindi nababago. Kung wala akong nalalaman tungkol sa baseball, ngunit panoorin ang isang baseball game kung saan ang mga manlalaro ay laging sumunod sa mga patakaran, magiging hindi makatwiran para sa akin na bumalangkas ng isang teorya tungkol sa mga panuntunan ng baseball na direktang nagkakasalungat sa pag-uugali ng mga manlalaro na pinapanood ko. Dahil ang mga pagkilos ng mga manlalaro ay pare-pareho, *anumang teorya na aking binuo patungkol sa mga patakaran na gagabay sa mga aksyon ay dapat ding maging pare-pareho*.
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+Ang kinakailangan ito para sa pagbabago na isa sa mga pinakasimulang kinakailangan para sa katotohanan. Dahil ang katotohanan ay pare-pareho, ang mga teorya tungkol sa katotohanan na dapat ding maging pareho.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+Sa katunayan, ang unang pagtagumpayan na dapat magtagumpay sa anumang teorya ay ang *panloob na pagkakapare-pareho*.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^1]: Kung hindi mo pinahahalagahan ang katotohanan, hindi ka kailanman pwedi sa debate na ito - o anumang iba pang debate - sa unang lugar!
 
-[^2]: Rational consistency, or internal logic.
+[^2]: Ang hindi pagbabago sa makatwiran , o panloob na lohika.
 
-[^3]: Empirical evidence, or empiricism.
+[^3]: Ang Katibayan ng empiriko, o empirisismo.

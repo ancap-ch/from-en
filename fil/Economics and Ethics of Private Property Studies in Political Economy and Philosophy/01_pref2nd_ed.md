@@ -1,10 +1,16 @@
-## Preface to the Second Edition
+## Ang Pambungad sa Ikalawang Edisyon
 
-The first edition of *The Economics and Ethics of Private Property*, published in 1993, has been out of print for several years. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.
+Ang unang edisyon ng Ang Ekonomika at Etika ng Pribadong Katangian, ay inilathala noong ika-1993, ay hindi na imprinta ng maraming taon. Sa maraming oras at mula sa maraming mga panig ako ay hinamon na maghanda ng bagong edisyon, at si Llewellyn Rockwell ay kusang loob na inalok ang Ludwig von Mises Institute para magserbisyo bilang taga-paglathala.
 
-*The Economics and Ethics of Private Property* was dedicated to my teacher and mentor, Murray N. Rothbard, with whom I had been closely associated during the last ten years of his life, first as a visiting scholar at the Brooklyn Polytechnic Institute in New York City and after 1986 as a colleague at the University of Nevada, Las Vegas. The year 2005 marks the tenth anniversary of Rothbard’s death. Thus, it seemed a most appropriate time to honor Murray anew with this second edition.
+*Ang Ekonomika at Etika ng Pribadong Katangian ay aking inihahandong sa aking guro at taga-pagturo, Si Ginoong Murray N. Rothbard,
+at kung saan ako ay malapit na nakasama sa nakalipas na sampung taon ng kanyang buhay, una bilang iskolar na pagbisita sa Institusyon
+ng Brookyn Polytechic sa Siyudad ng New York at pagkatapos ng taong 1986 bilang kasamahan naman sa Unibersidad ng Nevada, Las Vegas.
+Ang taon ng 2005 ay minarkahan bilang ika-sampung anibersaryo ng pagkamatay ni Rothbard's. Kaya, tila na naaangkop na dapat ay muling
+parangalan muli si Murray sa bagong at pangalawang edisyong ito.
 
-The present edition of *The Economics and Ethics of Private Property* is enlarged. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+Ang kasalukuyang edisyon ng Ang Ekonomika at Etika ng Pribadong Katangian ay pinalaki. At nagdagdag ng apat na mga artikulo na nakasulat
+pagktapos ng orihinal na paglalathala ng aklat pero limitado ang kaugnayan sa mga bagay at puno ng paksa ng ekonomika at etika sa makatwirang bagay ng intutosyon ng pribadong katangian-sa mga kabanatang 6, 7, 8 at 15. Ang oportunidad sa bagong edisyon ay magagamit din
+upang makagawa ng makabuluhang editoryal at mas mapabuti at gumawa ng mga bagong bersyon.
 
 Hans Hermann Hoppe
 

@@ -86,48 +86,48 @@ And the great truths are always achieved from the little truths.
 
 The world falls because a rock falls.
 
-### "Middle Truths" And Exploitation
+“Eziokwu di na etiti” Na Izuori
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+Awunta bu ife na agbanu ka o di ndu kemgbe uwa ya. N’ebe ako adighi, izuori n’aka ndi ozo bu ife ne me. N’ime ife nine, ife awunta jiri e debe onweya bu *symbiosisi*, m’obu fa n’ibuo ga na eri n’ahu fa. Ugbua awunta anu ah noro anyi nime afo n’ebi ndu n’enye anyi aka agbari nri anyi.
 
-However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+Mana, awunta n’eme ike anyi gwu mgbe ufodu, mana k’anyi n’egbu anyi, mmadu aman kpor ya “ife anyi na eri uru ya”. Oburu na anyi che echiche uwa anyi, uwa mmebi, aguru, ogu, ogbenye na ijiro ahun – na tinye ya na uwa anyi wenre uba na uwa ofuru – odi ife na awunta ufodu jiri anyi me egwu n’obi anyi na ike anyi kemgbe afor garaga. Ugbua afor garaga egosigo anyi ike na ife muo mmadu wenre ike ime, anyi wenre ike ifu onwe anyi ka ife chufu awunta di njo, na kunite na ute onwu I me mgba dicha egwu.
 
-When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
+Mgbe anyi yenre anyi ogwu igbu anwu di anyi n’ime, anyi wenre nkasi obi, mana awun ahu ewenro udo. N’uche smallpoxu, ogwu ya bu onye ojo n’egbu mmadu.
 
-In the same way, the parasites that strangle mankind view the liberty of the majority with horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+Out ahu,ka awunta ahu n’egbu ndi mmadu na afu onwefa n’ime egwu. Ebe awun fa anaha egbochi fa n’ime uwa – iwenta nri fa – fa na afu ohere ndi mmadu ka nga fa. Ugbua onye na ako ugbo ga afu “ohere” anumanu ya ka ife mmebi…
 
-Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+Imeghe eziokwu dimkpa n’eme nro ka o gbada. Nro igbada na eme ka izuori gbada. Oburu na m wenre ike I me ka ighota na m bun woke di ndu-buru kwo Chi, na Chi me m nor n’uwa choro ka I yen mu percenti iri n’ime ego onwa gi, n’oburu na iyenro mu iga ata afufu ruo n’ebiebi, mua enweta aku. Mua bu awunta nro, na etinye mu obi na nro ndi ahu ka mu jiri ya edebe owem out awunta ana akpor fungusu na no n’ebe di oku, m’obu ebe potopoto juru – na ishi.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+Ndi jiri ako n’arogbu ndi mmadu Anucha go ogu ka fa wen ife fa ga eri.
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+Anyi mara ndi fa na akpor Mafia, ndi n’enwero obi n’egbu mmadu, m’obu ndi religion nag u onwe fa, m’obu ndi ochichi na gu onwe fa.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+Mgbe ndi wenre amamihe mepe ugha nine di fa mkpa izuori, mana, fa anaha eme ya ka fa wenta ndi mgba. Fa anaha eme ya ka fa *nochie* ndi mafia, m’obu ndi uka – fa choro I wenpu ya n’uwa.
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+Ife dich aka uwa ofuru anyi wenre ike iji kowa bu ife noro n’etiti obodo abuo, ndi na anabata ndi choro igota ife na ndi na akwu ugwo tax. Ndi na anabata ndi choro igota ife ga gu ndi ozo di ka fa. Mana, cheta out ndi na anabata ndi choro igota ife n’ine ga agbaghota guo onye obuna choro ikwusi obodo.
 
-Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
+Awunta ga eji ngala guo onye ozo ka fa noro n’ahu fa na enweta nri –mana fa na acho akpa fa ya mere fa na egbu ife obuna choro fa okwu
 
-In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
+Otua,n’obodo obuna ebe uka na ana anoho n’ofu obi, ife nine na cho afo nke fa. Ebe uka bidoro ida, obodo ga eji ngala nabata ndi obibi – ife ah n’enweta ife ah na akpor socialism. Ebe obodo bidoro ida, uka ga eji ngala nabata ndi obibi – n’eme ife ana akpor religious fundamentalism, n’enwe libertarianism n’ime ya.
 
-However, the philosophers who oppose *all* intellectual error are the sworn enemies of all the parasites that feed off illusions. The “great truths” of physics eliminate the need for supernatural agents, and render miracles impossible. The explanatory power of science wholly outshines the religious fictions that masquerade as knowledge about the physical world.
+Mana, ndi amamihe na egbochi ura di n’isi *nine*bu ilo awunta nine jiri nro n’ezuori . “Eziokwu nke ukwu” no na fiziks wenpu mmadu icho ike di omimi, n’eme ife mmadu aman menwu. Nkowa bekee emerigo nro religion na egbochi amamihe uwa.
 
-The scientific method requires that every thesis be supported by evidence and rationality. Since there is no evidence for gods – and the very *idea* of gods is innately self-contradictory – the thesis “gods exist” cannot stand. Inevitably, the religious parasites attempt to defend their thesis by trying to split reality into “two realms” – the scientific and the spiritual. However, there is no evidence for the existence of this “spiritual” realm in the present, any more than there was for the parallel universe of Platonic “Forms” two thousand five hundred years ago.
+Otu bekee choro ka ife nine wenre ife ngosi na idaba. Ebe onweghi ife ngosi di ikowa chi – na *echiche* chi dicha gu onwe ya – nkwa “na chi di” enweghi ike ikwuru. Ugbua, ndi uka choro ikwuru na azu nkwa fa ya mere fa gbazie chi fa “abuo” – bekee na muo. Mana, onweghi  ife ngosi na “muo” di ya, ka okaria uwa na afor ibuo garaga.
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+Ugbua mbido eziokwu uwa nine nabatara n’akwusi na emebi kwo ife ura wenre ike ime. Eziokwu nke ukwu, soso, di out uwa si choro na eme mgbe obuna, mere “eziokwu di na etiti” ka oburu ife egwuregwu – ndi bu nro izuori. Anyi mal anya “eziokwu di na etiti” maka religion; ufodu ndi ozo ka anyi ga etinye anya we wenputa ebea, n’ime ya onwere ndi ga eme gi egwu.
 
-### Effective Parasitism
+Awunta N’eme
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+Awunta n’eme – m’obu onya – bu ndi ahu n’arogbu ahu anyi. Ahu anyi kwesiri igu ife obuna n’ekwero idi n’ahu anyi, o wefu ya n’ebe ozo wen gbuo ya. Anyi wenre egwu onya mmiwun na onya obara sos maka na fa wenre ike I gbu shia ahu anyi. Otua ka awunta mara ife jiri e gbu ahu fa choro iri.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+Oburu na onye imaro biara ogu na uzor ndi mmadu anoho wen gwa gi yen ya ego gi, iga enwe bi mgbawa. Iwenre ike I gusa ya ogu, m’obu igbaoso, m’obu iyen ya ego iwenre, mana iga enwe egwu, iga enwe iwe maka ife mere nu. Mgbe I ga akowa ife mere nu, iga agwa ndi mmadu out onye ahu jiri me gi, na otu ako adighi ya n’obi na otu osi ko gi onu. Owenre ndi ga enwe obi ndo n’ebe ino, wen jiri ife ifuta muta ife.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+Ife ah bu ngosi “eziokwu ntakiri”, nke bu: “izuori di njo”.
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+Mana, mgbe ndi ochichi ziri g’ozi shi gi kwuo ugwo, iwenre ike inwe bi mgbawa, mana iman kowa ya otu isi wenre kowa ife ifu n’aka onye ori.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+Ife ah bu ngosi “eziokwu di na etiti”, n’egbochi “eziokwu nke ukwu”, nke bu “na izuori di njo”.
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+Akwukwo ah ga etinye anya n’imepe ma mebi ura di n’ime “eziokwu di n’etiti”. Ekwerem nan di mmadu na ata afufu n’ime mmegbu ako “eziokwu di na etiti” nke na adaba n’ife mmebi uwa-otu anyi na afu nro religion, na ndi ogwu na n’bu
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+Nkowa m n’uwe ah bu ako, otu osi we di na amamihe, eziokwu nke ukwu kunite na eziokwu ntakiri. Ura di n’ime “eziokwu di na etiti” bu uzor ku muo, mana mmadu wenre ike igbanu, maka na ife owenre ike ime ka owenta eziokwu bu izuori, mmebi ife – na, igbushishia ndi mmadu.

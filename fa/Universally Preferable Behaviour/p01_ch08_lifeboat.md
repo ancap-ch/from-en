@@ -1,73 +1,74 @@
-## Lifeboat Scenarios
+## سناریو قایق نجات
 
-The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
+این واقعیت که یو پی بی تنها از نظر منطقی سازگاری تئوری های اخلاقی را تایید میکند به این معنا نیست که هیچ شرایط قابل تصوری نمیتواند وجود داشته باشد که تحت آن ممکن باشد ما بتوانیم بز خلاف اصول چنین نظریه ای عمل کنیم .
 
-For instance, if we accept the universal validity of property rights, smashing a window and jumping into someone’s apartment without permission would be a violation of his property rights. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
+به عنوان مثال , اگر ما اعتبار جهانی حقوق مالکیت را بپذیریم , پنجره ای را بشکنیم و بدون اجازه وارد آپارتمان کسی بشویم , نقض حقوق مالکیت آن شخص خواهد بود . با این حال اگر ما از یک میله در خارج از پتجره ی یک آپارتمان آویزان بودیم , در موزد سقوط و مرگ ما بود ., تعداد کمی از ما از لگد زدن به پنجره و جهیدن برای پیروی از یک قانون مطلق خودداری میکردند
 
-In the real world, it would take a staggeringly callous person to press charges against a man who destroyed a window in order to save his life – just as it would take a staggeringly irresponsible man to refuse to pay restitution for said window. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
+در دنیای واقعی به میزانی که یک فرد آگاه مورد اتهام قرار میگیرد مردی که برای نجات جان خودش پنجره ای را ویران کرده است درست به میزان یک فرد سهل انگار درپرداخت خسارت پنجره ی فوق الذکر میباشد .مردی که داخل خانه ی شما میشود تا اشیا را بدزدد به وضوح ظرفیت اجتناب از سرقت اموال شما را که او به دست نیاورده است را دارد  اما نسبتا آغازگر یک تجاوز است . این مشابه تفاوت بین زنی است که مردش او را فریب میدهد در مقابل زنی است که مردش او را در زیر زمین زندانی کرده است .
 
-This is not to say that breaking the window to save your life is not wrong. It is, but it is a wrong that almost all of us would choose to commit rather than die. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
+اینطور گفته نمیشود که شکستن پنجره برای زندگیتان اشتباه نیست , هست , اما این اشتباهی است که تقریبا همه ی ما به جای مردن انتخاب میکنینگم که مرتکب شویم .اگر من از گرسنگی در آستانه ی مرگ بودم , من یک سیب میدزدیدم . این بدین معنا نیست که دزدیدن سیب برای من صحیح است , فقط به اسن معناست که من آن را انحام خواهم داد و باید عواقب سرقت من را به درستی پذیرفت .
 
-### Grey Areas
+### مناطق خاکستری 
 
-The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+حقیقت این است که مناطق خاکستری به خصوصی در قلمرو اخلاق وجود دارد و اغلب به عنوان توجیهی برای درجه بندی نسبی. گرایی استفاده شده است . از آنجایی که در مواردی بعضی چیزها هنوز معلوم نیست ( به عنوان مثال , چه کسی شروع به استفاده از خشونت کرد ) و از آنجایی که امکان تعریف قوانین عینی و دقیق برای هر موقعیت قابل تصور غیر ممکن است , نتیجه گیری به جایی میرسد که هیچ چیز به طور قطعی شناخته شده نیست و برای هر وضعیت قاعده ی عینی وجود ندارد .
 
-This is false.
+این اشتباه است.
 
-All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
+تمام افراد خردمند تشخیص میدهند که زیست شناسی یک علم معتبر است . با وجود این واقعیت که برخی حیوانات با یکی از جهش ها متولد میشوند . این واقعیت که سگ میتواند با پنج پا متولد شود بهداسن معنا نیست که سگ به یک دسته ی کاملا خیالی تبدیل میشود . این واقعیت که گونه های مشخصی از حشرات به خاطر متفاوت بودن به چالش کشیده میشوند به این معنا نیست که تفاوتی بین یک سوسک و یک نهنگ نیست . 
 
-For some perverse reason, intellectuals in particular take great joy in the wanton destruction of ethical, normative and rational standards. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
+برای برخی از دلایل , روشنفکران , به طور خاص شادی بسیاری در تخریب بیهوده ی استاندارد های هنجاری , اخلاقی , عقلانی دارند . این میتواند به این خاطر باشد که روشنفکران توسط افراد طبقات فاسد اجیر میشوند , مانند سیاستمداران , کشیش ها و پادشاهان یا میتواند مردی باشد که اغلب روشنفکر میشود به این منظور که توجیهی برای غیر اخلاقی بودن رفتارش به وجود بیاورد . به هر دلیلی , بیشتر متفکران مدرن تبدیل به نوعی ضد اندیشمند میشوند . که خیلی عجیب است . معادل این خواهد بود که گروه عظیمی از زیست شناسان وجود دارند که تمام عمرشان را صرف اثبات این کرده اند که علم زیست شناسی امکان ناپذیر است . اگر علم زیست شناسی امکان ناپذیر باشد , به طور سختی میشود یک زیست شناس شد . بیش از یک خدا باید با چنگ و دندان بجنگد تا تبدیل یه یک کشیش شود . 
 
-### Shades Of Grey
+### سایه های خاکستری 
 
-In the realm of “grey areas,” there are really only three possibilities.
+در قلمرو مناطق خاکستری در واقع تنها سه امکان وجود دارد 
 
-1. There are no such things as grey areas.
-2. Certain grey areas do exist.
-3. All knowledge is a grey area.
+1. چیزی مانند مناطق خاکستری وجود ندارد .
+2. مناطق خاکستری خاص وجود دارد .
+3. تمام دانش مناطق خاکستری است .
 
-Clearly, option one can be easily discarded. Option three is also fairly easy to discard. The statement “all knowledge is a grey area” is a self-detonating proposition, as we have seen above, in the same way that “all statements are lies” also self-detonates.
+به طور واضح , گزینه ی اول میتواند به راحتی کنار گذاشته شود . گزینه ی سوم نیز همچنین برای کنار گذاشتن نسبتا آسان است . این گفته که تمام دانش یک منطقه ی خاکستری است یک گزاره ی خود گزاف گویی است همانطور که در یالا میبینیم , به طریقی مشابه ” تمام گفته ها دروغ است” نیز همچنین خود گزاف گوی است . 
 
-Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
+بنابراین باید طبق گزینه ی دوم پیش برویم , که این است که مناطق خاکستری خاص وجود دارند و ما میدانیم که آنها خاکستری هستند نسبت به مناطقی که اکسیژن در فضا وجود دارد که خاکستری نیستند و همچنین زیر آب , اما نه در شکل و کمیتی که انسان بتواند استفاده کند .درجه ی اکسیژن شدن یک منطقه ی خاکستری است . یعنی کمتر دز مقابل بیشتر . سوال آیا انسان میتواند در آب نفس بکشد یا نه مسلما سیاه یا سفید است .
 
-A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
+دانشمندی که توسط آدم خوارها اسیر شده است ممکن است تظاهر کند که یک دکتر جادوگر است تا فرار کند . این بدین معنی نیست که ما باید روش های علمی را به طور کامل از بین ببریم .
 
-Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
+به طور مشابه , شرایط دشواری میتواند وجود داشته باشد که در آن ممکن است اقدامات غیر اخلاقی انجام دهیم اما جنین موقعیتی دانش اخلاق را بی اعتبار نمیکند . جهش ها بیش از چند وقت یکبار , علم زیست شناسی را نامعتبر میکنند . در واقع علم زیست شناسی از طریق پذیرش و ببرسی جهش ها ، بسیار پیشرفته است . و به همین ترتیب علم اخلاق تا زمانی که چنین بررسی ای به طور وسواسی انجام نشود تنها از طریق سناریوی قایق نجات  تقویت میشود .
 
-### Universality And Exceptions
+### جهانی بودن و استثنائات
 
-Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
+قبل از شروع استفاده از چارچوب رفتار جهانی ترجیح داده شده برای بررسی بعضی از باورهای اخلاقی که معمولا برگزار می شود، ما باید با پرسش "استثنا" روبرو شویم.
 
-Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
+با استفاده از "سناریوهای نجات قایق" فوق، نتیجه گیری اغلب نشان داده شده است که "خوب" به سادگی آن چیزی است که "خوب" برای زندگی فردی انسان است.
 
-In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
+در استدلال های اخلاقی، اگر از من بپرسند آیا این سیب به جای گرسنگی من را به میکشد، و من می گویم بله پس استدلال های زیر ناگزیر ساخته شده است:
 
-1. Everyone would rather steal an apple than starve to death.
-2. Thus everyone universally prefers stealing apples to death by starvation.
-3. Thus it is *universally preferable* to steal apples rather than starve to death.
-4. Thus survival is universally preferable to property rights.
-5. Thus what is good for the individual is the ultimate moral standard.
+1. هر کسی به دزدیدن یک سیب نسبت به مرگ ناشی از گرسنگی تمایل دارد.
+2. بنابراین هر کسی معمولا دزدیدن سیب ها را نسبت به مرگ بخاطر گرسنگی ترجیح میدهد.
+3. بنابر ترجیح جهانی،دزدیدن سیب ها بهتر از گرسنگی کشیدن برای مرگ است.
+4. بنابراین، بقا به طور کلی به حقوق مالکیت ترجیح داده می شود.
+5. بنابر این آنچه که خوب است برای فرد عبارت است از معیار اخلاقی نهایی.
 
-This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
+این به عنوان پایه ای برای تعدادی از نظریه ها و رویکردهای اخلاقی از نیچه تا رند استفاده شده است.اولویت هر فرد برای بقا
+.به نظریه های اخلاقی برمیگردد که بقای فرد را در مرکزش قرار می دهد
 
-This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
+این نوع "هودونیسم بیولوژیکی" ممکن است تعریفی از "حرکت برای زنده ماندن" باشد، اما به تنهایی درست است، زیرا  توصیف آنچه مردم واقعا انجام می دهند، نه آنچه آنها باید انجام دهند.
 
-It also introduces a completely unscientific subjectivism to the question of morality. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
+این همچنین یک ذهنیت گرایی کاملا غیر اخلاقی را به مسئله اخلاق معرفی می کند. به عنوان مثال، اگر از لحاظ اخلاقی مجاز به سرقت مواد غذایی در هنگام گرسنگی باشید، چه مقدار غذا را می توانید به سرقت ببرید؟ چقدر گرسنه هستید؟ آیا شما می توانید مواد غذایی را که مغذی(مقوی) نیستند را به سرقت ببرید؟ چگونه مواد مغذی باید به منظور توجیه سرقت آن باشد؟ چه مدت بعد از سرقت یک غذا به خودتان اجازه می دهید غذای بعدی را به سرقت ببرید؟آیا شما به خودتان برای دزدیدن غذا اجازه می دهید نسبت به اینکه به دنبال کار یا درخواست خیریه باشید؟
 
-Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
+همچنین اگر من می توانم به عنوان یک ضربه مرد بیشتر از یک مغازه دار خرج کنم، آیا نباید خشونت را به عنوان یک حرفه ای دنبال کنم؟ این قطعا بقای من را زیاد می کند و غیره
 
-As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
+همانطور که می بینیم، مقدمه آنچه برای انسان در انتزاع ، و یا آنچه اکثر مردم انجام می دهد چیزی است که به طور جهانی ترجیح داده می شود، مفهوم اخلاقی را به عنوان یک نظریه منطقی از بین می برد و جایگزین درونی های بیولوژیکی به عنوان توجیه برای رفتار اخلاق. این توضیح رفتار است، نه نظریه اخلاقی پیشنهاد شده.
 
-### The Purpose And The Dangers
+### هدف و خطرات
 
-With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+با حفظ صبوری خود ، قبل از اینکه به یک تعریف نفوذ کنیم، یک سوال نهایی باید مورد توجه قرار گیرد و تست اینکه چگونه گزاره های اخلاقی مختلف متناسب با چارچوب  یو پی بی است. از آنجا که سخت ترین کار پیش رو است، ما باید لحظه ای متوقف شویم و خودمان را به یاد بیاوریم چرا که ما از طریق این سختی و دشواری خود را کنار می گذاریم.
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+به عبارت دیگر، قبل از فرو رفتن ما، ارزش پرسیدن این سوال را دارد: چرا نگران؟
 
-Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+چرا با تعریف نظریه های اخلاقی نگران هستید؟ مطمئنا مردم خوب به آنها نیاز ندارند و افراد بد با آنها مشورت نمی کنند. مردم آنچه را که آنها ترجیح می دهند انجام می دهند و فقط پس از واقعیت توجیه می کنند به همین دلیل است که چرا  از صحبت کردن افراد در مورد اخلاق نگران هستند؟
 
-Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
+البته، همیشه خطر وجود دارد که فرد غیر اخلاقی برای اهداف افراطی خود به شما حمله کند. این نیز می تواند این باشد که علی رغم زندگی تمیزو سالم شما،ممکن است قبل از زمان خود مبتلا به سرطان شوید اولی علم اخلاق را بی اهمیت می کند، هر چند بیشتر از دومی است که علوم پزشکی، تغذیه و ورزش غیر مرتبط. یک اثر قابل اثبات علمی منطقی از اخلاق باید این باشد که شانس خود را برای رنج و غضب اقدامات غیر اخلاقی مانند سرقت، قتل و تجاوز به عنف کاهش دهد و این معیار این است که ما همچنین باید قواعد اخلاقی پیشنهاد شده در قسمت سوم این کتاب را قضاوت کنیم .
 
-[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
+[^10]: البته، اگر من یک انسان نا شایاسته یا گیج بودم  که در آستانه گرسنگی قرار می گرفتم،حبس بودن ممکن است بهبود وضعیت من باشد.
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+[^11]: نیچه خواهان قدرت و رند آن چیزی که به زندگی انسان خدمت می کند، خوب است.

@@ -1,24 +1,24 @@
-## Foreword
+## Prefazione
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+In molte fiabe, vive una terribile bestia dal potere stupendo, un drago o un basilisco, che tiranneggia le terre circostanti. I paesani locali tremano davanti a questo mostro; sacrificano i loro animali, pagano denaro e sangue nella speranza di placare i suoi impulsi omicidi.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+La maggior parte delle persone si rannicchia all'ombra di questa bestia, chiamando la loro paura "prudenza", ma alcuni - forse ubriachi di coraggio o di cocciutaggine - decidono di combattere. Anno dopo anno, decennio dopo decennio, ondate di campioni promettenti cercano di eguagliare la loro forza, la loro virtù e la loro astuzia contro questo terribile tiranno.
 
-Try – and fail.
+Prove - e fallimenti.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+La bestia è sempre immortale, quindi gli abitanti del villaggio non possono sperare che il tempo li liberari dal loro despota. La bestia non è mai razionale e non ha alcun desiderio di commerciare e quindi non è possibile alcuna trattativa.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+L'unica speranza dei paesani disperati è che appaia un uomo che possa sconfiggere la bestia.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Inevitably, a man steps forward who strikes everyone as utterly incongruous. È un ragazzo stabile, un figlio di calzolaio, un apprendista del fornaio - o, a volte, solo un vagabondo.
 
-This book is the story of my personal assault on just such a beast.
+Questo libro è la storia del mio assalto personale a una tale bestia.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Questa "bestia" è la convinzione che sia impossibile definire un sistema etico oggettivo, razionale, secolare e scientifico. Questa "bestia" è l'illusione che la moralità debba per sempre essere persa nelle paludi irrazionali di divinità e governi, applicate per ragioni puramente pragmatiche, ma per sempre prive di giustificazione logica e chiara definizione. Questa "bestia" è la fantasia che la virtù, la nostra più grande gioia, la nostra più profonda felicità, deve essere messa da parte da adulti secolari e lasciata nella polvere per essere scalfita, sfilata e sfruttata da politici e sacerdoti - e dai genitori. Questa "bestia" è la superstizione che, senza le tirate dei genitori, il bullismo degli dei o le armi dei governi, non possiamo essere sia razionali che buoni.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Questa bestia ha abbattuto molti grandi eroi, da Socrate a Platone, da Agostino a Hume, da Kant a Rand.
 
-The cost to mankind has been enormous.
+Il costo per l'umanità è stato enorme.
 
 Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
 

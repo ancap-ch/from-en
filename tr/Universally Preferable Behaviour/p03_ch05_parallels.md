@@ -28,7 +28,7 @@ Tıpkı dinin yanlış ahlakının yolsuzluk, şiddet ve benzeri her türlü kö
 
 Toplumu dini ahlaki mitolojilere uygun olarak yönetmeyi seçtiğimizde, savaşlar, zorbalık, bastırma, istismar, yolsuzluk ve anlaşılmaz ikiyüzlülükle sonuçlanmaktadır.
 
-Toplumu * devletçi</ 0> ahlaki mitolojilere göre uygulamayı seçtiğimizde, sonuçlar farklı değildir.</p> 
+Toplumu *devletçi* ahlaki mitolojilere göre uygulamayı seçtiğimizde, sonuçlar farklı değildir.
 
 Ya fazileti ya da zorlamacılığı seçebiliriz.
 

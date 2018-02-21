@@ -1,93 +1,102 @@
-## Foreword
+## پیش گفتار
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+در بسیاری از افسانه ها، یک جانور وحشتناک با قدرتی خارق العاده وجود دارد، یک اژدها یا یک سوسمار بالدار، که سرزمین های اطراف خود را تحت ظلم و ستم قرار می دهد. روستاییان محلی در مقابل این هیولا به وحشت می افتند؛ آنها حیواناتشان را قربانی می کنند، پول و خون می دهند به این امید که گرایشات خصمانه او را فرونشانند.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+اکثر مردم زیر سایه ی این هیولا کمر خم می کنند، در حالیکه ترس خود را "احتیاط" می خوانند، اما عده اندکی- آدم های مست یا شاید شجاع یا بی احتیاط- تصمیم به مبارزه می گیرند. سال پس از سال، دهه پس از دهه، موج پس از موج از قهرمانان پر امید سعی می کنند تا قدرت، فضیلت و حیله گری خود را با این ستمگر وحشتناک مطابقت دهند.
 
-Try – and fail.
+سعی – و شکست.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+جانور همیشه فناناپذیر است، بنابراین روستاییان نمی توانند به زمان امید داشته باشند که آنها را از شر این ستمگر خلاص کند. جانور هیچوقت منطق ندارد، و تمایلی به معامله ندارد، و بنابراین هیچگونه مذاکراتی ممکن نیست.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+تنها امید روستاییان درمانده به ظاهر شدن مردی است که می تواند جانور را شکست دهد.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+ناگزیر، مردی قدم پیش می گذارد که از ناهمخوانی مطلق همگان را به شگفت وا می دارد. او یک اصطبل بان است، پسر یک کفشساز، یک شاگرد نانوا – یا گاهی اوقات فقط یک ولگرد.
 
-This book is the story of my personal assault on just such a beast.
+این کتاب داستان حمله ی شخصی من به فقط چنین هیولایی است.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+این "جانور" اعتقاد بر این است که تعریف یک نظام اخلاقی عینی، منطقی، سکولار و علمی غیرممکن است. این "جانور" آن توهمی است که می گوید اخلاق همیشه باید در معابد غیر منطقی خدایان و دولتها از دست رفته باشد، که بر دلایل صرفا عملی اعمال می شود، اما همیشه توجیه منطقی و تعریف دقیق را کم دارد. این "جانور" آن فانتزی است که فضیلت، بزرگترین لذت ما، عمیق ترین شادی ما، باید توسط بزرگسالان سکولار کنار گذاشته شود، و در گرد و خاک بماند تا توسط سیاستمداران و کشیش ها – و والدین به آن پنجه زده شود، به نمایش گذاشته شود و مورد استثمار قرار گیرد. این "جانور" آن خرافاتی است که می گوید، بدون ترس از والدین، زورگویی خدایان یا اسلحه ی دولت ها، ما نمی توانیم هم منطقی و هم خوب باشیم.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+این جانور بسیاری از قهرمانان بزرگ را، از سقراط تا افلاطون تا آگستین تا هیوم تا کانت تا رند به زیر کشیده است. 
 
-The cost to mankind has been enormous.
+هزینه آن برای بشریت بسیار زیاد بوده است.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+از آنجایی که ما هنوز قادر به تعریف یک سیستم عقلایی اخلاق جهانی نیستیم، مجبوریم داستانهای ترسناک مذهبی را به فرزندانمان تحمیل کنیم یا اسلحه ها، زندان ها و ارتش ها را به یک انحصار کوچک کنترل کنندگان بی روح تقدیم کنیم که خودشان را "دولت" می خوانند.
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+از آنجا که چیزی را که ما "اصول اخلاق" می نامیم ذاتا و صرفا *فرهنگی* باقی می ماند، در نهایت ما ناگزیر به اتکا کردن به زورگویی، ترس و خشونت برای اعمال قوانین اجتماعی تن می دهیم. از آنجا که اصول اخلاقی پایه های منطقیِ روش های علمی را کم دارند، "اخلاق" در منجلاب یک جنگ قومی و قبیله ای از اساطیر خون آلود باقی می ماند، هر دسته در حال مبارزه با چنگ و دندان برای بدست آوردن کنترل وفاداری مردم به "فضیلت" است.
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+ما بدون اخلاق نمی توانیم زندگی کنیم، اما ما نمی توانیم اخلاق را بطور عینی تعریف کنیم – بنابراین ما برای همیشه به زندگی های تو خالی از ریاکاری پرشکوه، تسلط بدبینانه یا برده داری مذهبی محکوم شده ایم.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+به لحاظ عقلی، هیچ شرایط والاتری در دنیا وجود ندارد. شکست ما برای تعریف قوانین اخلاقی عینی و منطقی جان صد ها میلیون انسان را، در جنگ های ادیان و دولت ها هزینه داشته است.
 
-In many ways, the stakes are getting even higher.
+از بسیاری جهات، شرایط حتی بالاتر هم می روند. 
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+جریان اطلاعات در حال افزایش اینترنت شک و گمان یک نسل جدید را بالا برده است که آنچه که "فضیلت" خوانده می شود چیزی بیشتر – یا کمتر- از افسانه های خود-پرورانده ی بزرگتران دو رویشان نیست. دروغهای دلسوزانه که توسط مسئولان گفته می شود – و پیچیدگی کسانی که /انها را می پرستند – امروزه بیش از پیش واضحتر و شفافتر است.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+"حقیقت" بعنوان تحریف ظاهر شده است، "فضیلت" بعنوان کنترل؛ "وفاداری" بعنوان بردگی، و چیزی که "اخلاق" خوانده می شود بعنوان یک عروسک خیمه شب بازی مسخره که برای دستکاری انسان های ضعیف و ترسو که خودرا به بردگی بکشانند طراحی شده، نشان داده شده است.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+این ادراک یک نسل جدید از پوچگرایان را متولد کرده، همانطور که در قرن نوزدهم در آلمان این اتفاق افتاد. این نسبیت گرایان افراطی ترین حملات انسدادی شان را برای هر کسی که هرگونه قطعیتی را ادعا کند آماده می کنند. این نسل پست-مدرن، تعصبات فرهنگی تاریخچه جمعی خود را از بین برده است، اما اکنون همه حقایق را فقط به عنوان ادعاهای تبعیض آمیز محض در نظر می گیرند. مانند کودکانی با چشمان گرد که از "خرد" بدبینانه زخم خورده اند، آنها تمام ارتباطات را بعنوان تبلیغات می بینند، تمام ادعا ها را گنده سازی می بینند، و تمام نصایح اخلاقی را بعنوان دزدی ریاکارانه می بینند.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+از آنجا که ما در مورد چارچوب انسجام، هدفمند و منطقی برای ارزیابی گزاره های اخلاقی توافق نداریم، "اخلاق" در عرفان و عواقب ناشی از خشونت آن باقی می ماند. درست همانطور که قبل از روشنگری، فرقه های مذهبی به طور بی پایان کنترل جنگل های اشراف را به عهده داشتند، بنابراین اکنون هم اسطوره های اخلاقی درمورد کنترل حکومت و تمام دستگاه های اجرایی آن رقابت می کنند.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+بنابراین، اخلاق وابسته به علم مدرن باقی می ماند، درست همانطور که "ستاره شناسی" قرون وسطایی به نجوم مدرن – یک قلمرو از اساطیر خیالی، که از طریق داستان سرایی، تهدید، اجبار و استثمار اعمال می شود - که به طور فعال مانع هر گونه پیشرفت واقعی را در راستای حقیقت می شود.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+این "جانور" از اخلاق نسبی بر ما غلبه دارد، ما را مقصر می داند، مالیات، زندان، سانسور و جنگ را توجیه می کند. او جوانان را در مدارس دولتی و روزهای یکشنبه به بردگی می کشد؛ او فقرا را در گولاگ های رفته به دام می اندازد؛ او حتی کسانی که هنوز متولد نشده اند را در چاه های بی انتهای بدهی های ملی فرو می برد.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+همانطور که در کتاب قبلی خود، "در حقیقت: طغیان توهم" نوشتم، بنیادی ترین دروغ در مرکز نظریه های اثبات نشده اخلاقی این است که چنین نظریه هایی همیشه به فرزندان به عنوان واقعیت های عینی و غیر قابل انکار ارائه می شوند، در حالیکه در حقیقت آنها تنها تعصبات فرهنگی هستند. علت اینکه دانشمندان به دولت یا واتیکان نیازی ندارند این است که دانشمندان روش متفاوتی برای حل اختلافات دارند: روش علمی. دلیل آن که زبان به یک قدرت مرکزی برای هدایت تکامل خود نیاز ندارد، این است که آن به "بازار آزاد" از ترجیحات شخصی انباشته شده برای سبک و کاربرد متکی است.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+علت اینکه اخلاق مدرن - و اخلاق در طول تاریخ - همیشه باید ابتدا بر زورگویی به کودکان تکیه کند، و سپس بر تهدید کردن بالغین، این است که آن دروغی دستکاری شده است که ظاهر یک حقیقت با فضیلت را به خود گرفته است.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+حقیقت این است که ما به اخلاق نیاز داریم؛ دروغ این است که خدایان و یا دولت ها می توانند به صورت منطقی آنرا تعریف و یا به درستی آن را اجرا کند.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+هدف من در این کتاب تعریف یک روش برای اعتبار سنجی تئوری های اخلاقی است که عینی، کامل، واضح، اخلاقی، تجربی – و *صحیح* است.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+من کاملا مطلع هستم که، در این لحظه، شما به احتمال زیاد یک موج رو به افزایش شک و تردید را احساس می کنید. من کاملا می فهمم که شانس های اینکه یک آدم اون بیرون روی اینترنت – دنیای خانه دیوانگان – به طریقی مساله ی فلسفی که سن ها  را حل کرده باشد منحصرا بالا نیستند – در واقع، آن شانس ها بسیار نزدیک به صفر خواهند بود زیرا تقریبا غیر قابل تشخیص از آن هستند.
 
-Still, not *quite* zero.
+با این وجود، نه *کاملا* صفر.
 
-### Ground Rules
+### قوانین اساسی
 
-Extraordinary claims require extraordinary proof. In taking on this mammoth task – particularly in such a short book – I have set myself some basic ground rules, which are worth going over here.[^1]
+ادعاهای شگفت انگیز نیاز به اثبات شگفت انگیز دارند. با توجه به این وظیفه ماموت وار- بخصوص در یک چنین کتاب کوتاهی – من برای خودم یک سری قوانین اساسی گذاشتم، که ارزش این را دارند به اینجا بروید. [^1]
 
-1. I fully accept the Humean distinction between “is” and “ought.” Valid moral rules cannot be directly derived from the existence of anything in reality. The fact that human beings in general *prefer* to live, and must successfully interact with reality in order to do so, cannot be the basis for any valid theory of ethics. Some people clearly do not prefer to live, and steadfastly reject reality, so this definition of ethics remains subjective and conditional.
-2. Ethics cannot be objectively defined as “that which is good for man’s survival.” Certain individuals can survive very well by preying on others, so this definition of ethics does not overcome the problem of subjectivism. In biological terms, this would be analogous to describing evolutionary tendencies as “that which is good for *life’s* survival” – this would make no sense. Human society is an ecosystem of competing interests, just as the rainforest is, and what is “good” for one man so often comes at the expense of another.
-3. I do not believe in any “higher realm” of Ideal Forms. Morality cannot be conceived of as existing in any “other universe,” either material or immaterial. If morality exists in some “other realm,” it cannot then be subjected to a rigorous rational or empirical analysis – and, as Plato himself noted in “The Republic,” society would thus require an elite cadre of Philosopher-Kings to communicate – or, more accurately, *enforce* – the incomprehensible edicts of this “other realm” upon everyone else. This also does not solve the problem of subjectivism, since that which is inaccessible to reason and evidence is by definition subjective.
-4. I do not believe that morality can be defined or determined with reference to “arguments from effect,” or the predicted consequences of ethical propositions. Utilitarianism, or “the greatest good for the greatest number,” does not solve the problem of subjectivism, since the odds of any central planner knowing what is objectively good for everyone else are about the same as any central economic planner knowing how to efficiently allocate resources in the absence of price – effectively zero. Also, that which is considered “the greatest good for the greatest number” changes according to culture, knowledge, time and circumstances, which also fails to overcome the problem of subjectivism. We do not judge the value of scientific experiments according to some Platonic higher realm, or some utilitarian optimisation – they are judged in accordance with the scientific method. I will take the same approach in this book.
-5. I also refuse to define ethics as a “positive law doctrine.” Although it is generally accepted that legal systems are founded upon systems of ethics, no one could argue that every law within every legal system is a perfect reflection of an ideal morality. Laws cannot directly mirror *any* objective theory of ethics, since laws are in a continual state of flux, constantly being overturned, abandoned and invented – and legal systems the world over are often in direct opposition to one another, even at the theoretical level. Sharia law is often directly opposed to Anglo-Saxon common-law, and the modern democratic “mob rule” process often seems more akin to a Mafia shoot-out than a sober implementation of ethical ideals.
-6. I am fully open to the proposition that there is no such thing as ethics at all, and that all systems of “morality” are mere instruments of control, as Nietzsche argued so insistently. In this book, I start from the assumption that there is no such thing as ethics, and build a framework from there.
-7. I do have great respect for the ethical *instincts* of mankind. The near-universal social prohibitions on murder, rape, assault and theft are facts that any rational ethicist discards at his peril. Aristotle argued that any ethical theory that can be used to prove that rape is moral must have something wrong with it, to say the least. Thus, after I have developed a framework for validating ethical theories, I run these generally accepted moral premises through that framework, to see whether or not they hold true.
-8. I respect your intelligence enough to refrain from defining words like “reality,” “reason,” “integrity” and so on. We have enough work to do without having to reinvent the wheel.
-9. Finally, I believe that any theory – especially one as fundamental as a theory of ethics – does little good if it merely confirms what everybody already knows instinctively. I have not spent years of my life working on a theory of ethics in order to run around proving that “murder is wrong.” In my view, the best theories are those which verify the truths that we all intuitively understand – and then use those principles to reveal new truths that may be completely counter-intuitive.
+1. من کاملا تمایز هیومی بین "هست" و "باید" را می پذیرم. قوانین اخلاقی معتبر نمی توانند مستقیما از وجود هر چیزی در واقعیت ناشی شوند. این حقیقت که بشر در واقعیت *ترجیح* می دهد که زندگی کند، و برای این منظور باید بطور موفقیت آمیزی با واقعیت تعامل برقرار  کند، نمی تواند پایه ای برای هر نظریه ی اخلاقی معتبری باشد. بعضی افراد به وضوح ترجیح نمی دهند که زندگی کنند و حقیقت را به شدت رد می کنند، بنابراین این تعریف از اخلاق همچنان ذهنی و شرطی باقی می ماند.
 
-Having spent the last few years of my life preparing, training, and then combating this beast, I hope that I have acquitted myself with some measure of honour. I believe that I have emerged victorious – though not entirely unscathed – and I look forward to seeing who shares this view.[^2]
+2. اخلاق را نمی توان به طور عینی به عنوان "آنچه که برای بقای انسان مفید است" تعریف کرد. بعضی از افراد خاص می توانند با طعمه قرار دادن دیگران خیلی خوب زنده بمانند، بنابراین این تعریف از اخلاق بر مشکل ذهنیت گرایی غلبه نمی کند. از لحاظ بیولوژیکی، این مشابه توصیف گرایش های تکاملی به عنوان "آنچه که برای بقای *زندگی* مفید است" می باشد - این هیچ معنی نخواهد نداشت. جامعه انسانی یک اکوسیستم از منافع رقابتی است، درست مانند آنچه که جنگل بارانی است، و آنچه برای یک فرد "خوب" است اغلب به هزینه یکی دیگر است. 
 
-I studied the history of philosophy in graduate school, and hold a Masters degree, but I do not have a PhD in philosophy. I am far from a publicly recognised intellectual. While I may not be the *most* unlikely champion, I am also far from the most likely. Whether I have succeeded or not is not up to you, and it is not up to me.
+3. من به هیچ گونه "قلمرو بالاتری" از فرم ایده آل باور ندارم. اخلاق را نمی توان بعنوان وجودی در در هر "دنیای دیگری" تصور کرد، چه مادی یا غیر مادی. اگر اخلاق در یک "قلمرو دیگر" وجود داشته باشد، پس نمی توان آن را با یک تجزیه و تحلیل عقلانی یا تجربی دقیق مورد پردازش قرار داد - و همانگونه که افلاطون در "جمهوری" خاطرنشان کرد، جامعه به یک کادر نخبه ی فیلسوف-پادشاهان برای ارتباط برقرار کردن با - یا بطور دقیق تر *وادار نمودن* به - اظهارات غیر قابل درک از این "قلمرو دیگر" به هر کس دیگری نیاز دارد. این نیز مسئله ذهن گرایی را حل نمی کند، زیرا آنچه که از دسترس علت و شواهد خارج است به تعریف ذهنی است.
 
-If the reasoning holds, the greatest beast is down.
+4. من عقیده ندارم که اخلاقیات می تواند با ارجاع به "استدلال های اثر" تعریف یا تشخیص داده شود، یا پیامدهای پیش بینی شده از گزاره های اخلاقی. سودمند گرایی یا "بزرگترین خیرها برای بیشترین تعداد"، مسئله ذهن گرایی را حل نمی کند، زیرا احتمال اینکه هر برنامه ریز مرکزی با دانستن اینکه چه چیزی بصورت عینی برای هر کس دیگری خوب است، تقریبا برابر با هر برنامه ریز اقتصادی مرکزی است که می داند چگونه می تواند به طور موثر منابع را در غیاب قیمت تخصیص دهد - به طور موثر صفر است. همچنین، آنچه که "بزرگترین خیر برای بیشترین تعداد" در نظر گرفته شده است، با توجه به فرهنگ، دانش، زمان و شرایط تغییر می کند، که همچنین برای غلبه بر مشکل ذهنی گرایی با شکست مواجه می شود. ما ارزش آزمایش های علمی را بر اساس بعضی از قلمروهای افلاطونی و یا برخی از بهینه سازی سودمندانه قضاوت نمی کنیم- آنها مطابق با روش علمی قضاوت می شوند. من همین روش را در این کتاب خواهم پذیرفت.
 
-### A Modest Suggestion
+5. من همچنین تعریف اخلاق بعنوان "دکترین قانون مثبت" را رد می کنم. گرچه بطور کلی پذیرفته شده است که نظام های حقوقی بر مبنای سیستم های اخلاقی بنا شده اند، هیچ کس نمی تواند بر سر اینکه هر قانونی در هر نظام حقوقی یک انعکاس کامل از اخلاقیات ایده آل می باشد، بحث کند. قوانین نمی توانند بطور مستقیم *هر* تئوری عینی از اخلاقیات را منعکس نمایند، چرا که قوانین در یک حالت دائمی از جریان هستند که دائما لغو، رها شده و اختراع می شوند - و سیستم های حقوقی که در سراسر جهان هستند، اغلب در مخالفت مستقیم با یکدیگر، حتی در سطح نظری هستند. قانون شریعت اغلب مستقیما با قانون عرفی آنگلوساکسون مخالف است و روند "قانون اکثریت" دموکراتیک مدرن  بیشتر شبیه به درگیری مسلحانه یک مافیا به نظر می رسد تا به یک پیاده سازی ایده آل اخلاقی. 
 
-It is the height of audacity to suggest to readers how to read a book, but given the challenges of the task before us, I would like to make one small suggestion before we embark.
+6. من کاملا در مورد این گزاره که چیزی به عنوان اخلاثیات به کلی وجود ندارد صریح هستم، و تمام سیستم های "اخلاق" صرفا ابزار های کنترل هستند، همان گونه که نیچه به شدت بر آن اصرار دارد. در این کتاب، من از این فرضیه که چیزی بعنوان اخلاق وجود ندارد شروع می کنم و یک چارچوب از آنجا بوجود می آورم.
 
-If we lived in the fifteenth century, and I were trying to convince you that the world were round, I would put forward reams of mathematical and physical proofs. If you held a contrary opinion, you would naturally react with scepticism, and be inclined to quibble with every line of proof. However, if you and I could in fact sail around the world, and arrive back where we started without retracing our steps, you would be far more willing to accept the conceptual proofs for what you had already *experienced* to be true. You might find fault with a particular logical step or metaphor, but you would already agree with the conclusion, and thus would be more prone to help correct the details rather than reject the theory as a whole.
+7. من احترام زیادی برای *غرایز* اخلاقی بشر قائلم. ممنوعیت اجتماعی تقریبا همه جانبه در مورد قتل، تجاوز، حمله و سرقت، حقایقی است که هر اخلاق گرای منطقی به ریسک خودش آنها را طرد می سازد. ارسطو استدلال کرد که هر تئوری اخلاقی ای که بتواند برای اثبات اینکه تجاوز اخلاقی است مورد استفاده قرار گیرد، باید مشکلی در آن وجود داشته باشد، حداقل می توان گفت. بنابراین، پس از اینکه چارچوبی برای اعتبارسنجی نظریه های اخلاقی ایجاد کردم، من این ملاحظات اخلاقی عمومی را از طریق آن چارچوب اجرا میکنم تا ببینیم آیا درست هستند یا خیر.
 
-If my task were to respond to every possible objection to every linguistic, logical and empirical step, this book would remain forever unfinished – and unread. Perfectionism is, in essence, procrastination, and I consider the task of this book to be too important – and the dangers of false morality too grave and imminent – to spend so long trying to achieve heaven that we all end up in hell.
+8. من به اندازه کافی هوش شما احترام میگذارم تا از تعریف کلماتی مانند "واقعیت"، "دلیل"، "صداقت" و غیره خودداری شود. ما به اندازه ی کافی کار برای انجام دادن داریم بدون اینکه بخواهیم چرخ را از نو اختراع کنیم.
 
-Thus I humbly suggest that you wait to see how effective the ethical framework I propose is at proving the most commonly accepted moral maxims of mankind before passing final judgement on the theory.
+9. در نهایت، من معتقدم که هر تئوری – بخصوص آن تئوری که به اندازه یک تئوری اخلاقی اساسی  باشد- کمی کارآمد است، اگر به طور محض آنچه را که هر کس به صورت غریزی در حال حاضر می داند را تایید کند. من سالها زندگی ام را برای تئوری اخلاق صرف نکرده ام تا حول اثبات کردن اینکه "قتل اشتباه است" بچرخم. به نظر من، بهترین نظریه ها آنهایی هستند که حقایقی که همه ما به صورت بصری درک می کنیم را تایید می کنند - و سپس از آن اصول برای فاش کردن حقایق جدید که ممکن است کاملا برخلاف شهود یا انتظارات عقلانی باشد استفاده می کنند.
+با صرف کردن چند سال از آخرین سالهای عمرم برای آماده سازی، آموزش، و بعد مبارزه با این جانور، امیدوارم با مقداری افتخار خودم را تبرئه کرده باشم. من معتقدم که من پیروز ظاهر شدم - هرچند که کاملا غیرقابل انکار نیست – و به پیشرو می نگرم که ببینم چه کسی این دیدگاه را به اشتراک می گذارد. [^ 2]
 
-I truly believe that the definition of a rational ethical framework is the most essential task that faces mankind. I truly appreciate your interest in this crucial matter – and would like as always to thank the wonderfully kind donators who have made this work possible.
+من تاریخ فلسفه را در مکتب فارغ التحصیلی مطالعه کردم و یک مدرک کارشناسی ارشد دارم، اما من یک دکترای فلسفه ندارم. من دور از یک روشنفکر شناخته شده عمومی هستم. در حالی که ممکن است غیر محتمل *ترین* قهرمان نباشم، همچنین از محتمل ترین دور هستم. این که آیا من موفق شده یا نه، به شما بستگی ندارد، و به من بستگی ندارد.
 
-I ride into battle well armed by others.
+اگر استدلال ادامه یابد، بزرگترین جانور پایین آمده است.
 
-[^1]: Most of these will be discussed in more detail throughout the course of this book.
+### یک پیشنهاد فروتنانه
 
-[^2]: Of course, if I have failed, I have at least failed spectacularly, which itself can be both edifying and entertaining!
+این اوج گستاخی است که به خوانندگان پیشنهاد شود که چگونه کتاب را بخوانند، اما با در نظر گرفتن چالش های وظیفه ی پیش روی ما، دوست دارم پیش از شروع  یک پیشنهاد کوچک بدهم.
+
+اگر ما در قرن پانزدهم زندگی می کردیم، و من سعی می کردم که شما را متقاعد کنم که زمین گرد است، من تلی از برگه های اثبات های ریاضی و فیزیکی را مقابل تان می گذاشتم. اگر شما عقده ای متضاد داشتید، به طور طبیعی با شک و تردید واکنش نشان می دادید، و متمایل به کنایه زدن به هر خط از مدارک و اثبات ها می شدید. با این وجود، اگر شما و من می توانستیم در واقع دور دنیا سفر کنیم، و بدون اینکه مسیری را دوبار تکرار کنیم به جایی که از آن شروع کردیم بر می گشتیم، شما بسیار مشتاق تر بودید به پذیرفتن شواهد و اثبات ها برای آن چیزی که در حال حاضر *تجربه* کرده اید به عنوان حقیت. 
+
+اگر ما در قرن پانزدهم زندگی می کردیم، و من سعی می کردم که شما را متقاعد کنم که زمین گرد است، من تلی از برگه های اثبات های ریاضی و فیزیکی را مقابل تان می گذاشتم. اگر شما عقده ای متضاد داشتید، به طور طبیعی با شک و تردید واکنش نشان می دادید، و متمایل به کنایه زدن به هر خط از مدارک و اثبات ها می شدید. با این وجود، اگر شما و من می توانستیم در واقع دور دنیا سفر کنیم، و بدون اینکه مسیری را دوبار تکرار کنیم به جایی که از آن شروع کردیم بر می گشتیم، شما بسیار مشتاق تر بودید به پذیرفتن شواهد و اثبات ها برای آن چیزی که در حال حاضر *تجربه* کرده اید به عنوان حقیت. شما ممکن است با یک گام منطقی یا استعاره مشکل داشته باشید، اما شما قبلا با نتیجه گیری آن موافق هستید، و به این ترتیب، به جای رد نظریه به طور کل متمایل به کمک برای تصحیح جزئیات آن می شدید.
+
+اگر وظیفه ی من پاسخ دادن به هر ایراد ممکنی به هر چیز وابسته به زبانشناسی بود، گام های منطقی و تجربی این کتاب برای همیشه ناتمام – و نا خوانده باقی می ماند. کمالگراییف به ذات، تعویقی است، و من وظیفه ی این کتاب را این طور درنظر می گیرم که بیش از حد مهم باشد - و خطرات اخلاقيات غلط كه بسيار جدي و غيرقابل پيش بيني هستند - که بخواهد زمان زیادی را صرف سعی بر رسیدن به بهشت کند که در نهایت همه ما سر از جهنم در آوریم.
+
+بنابراین من بطور خاضعانه پیشنهاد می کنم که شما صبر کنید تا ببینید که چارچوب اخلاقی که من پیشنهاد می کنم چقدر در اثبات حداقلی ترین اخلاق انسانی پدیرفته شده ی بشر موثر است پیش از تصویب قضاوت نهایی بر روی نظریه.
+
+من حقیقتا بر این باور هستم که تعریف یک چارچوب اخلاقی عقلانی، مهمترین وظیفه ای است که در برابر انسان قرار دارد. من واقعا علاقه شما به این موضوع حیاتی را درک می کنم - و مثل همیشه دوست دارم از اهداکنندگان با بسیار بخشنده که این کار را ممکن کرده اند تشکر کنم.
+
+من به میدان نبرد می روم در حالیکه توسط دیگران به خوبی مسلح شده ام.
+
+[^ 1]: اکثر اینها در طول این کتاب با جزئیات بیشتری مورد بحث قرار خواهد گرفت.
+
+[^ 2]: البته، اگر من شکست خوردم، حداقل به طور زیبایی شکست خورده ام، که خود آن می تواند هم آموزنده و هم سرگرم کننده باشد!

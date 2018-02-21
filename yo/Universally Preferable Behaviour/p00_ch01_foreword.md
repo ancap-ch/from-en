@@ -1,58 +1,58 @@
-## Foreword
+## Ọrọ iṣaaju
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+Nínú ọpọlọpọ awọn itan àròsọ,  ẹranko buburu kan wà tó ní agbára púpọ, eranko a tu iná lẹnu (dragon) kan tàbí alangba èèmọ (basilisk) kan, ti n da awon agbègbè tó wà nítòsí rẹ láàmú. Awọn olùgbé abúlé na a má gbọn pẹlu ìbẹrù níwájú ẹranko búburú yìí; wọn fi ẹran ọsin wọn ṣe ètùtù, wa tun san owó àti ẹjẹ ni ireti lati tù ẹranko na ninu níbi iwa búburú pipa ènìyàn rẹ.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Ọpọlọpọ awọn èèyàn má n bẹrù labẹ òjíjí eranko yíì, ti wọn sì n pe ìbẹrù wọn ni "ọgbọn", sugbon diẹ nínú wọn - to je ọmuti lórí ìgboyà tabi aṣiwere- pinnu lati ba ẹranko na já. Ọdún gori ọdún, odun mẹwa gori odun mẹwa, ìjì lori ìjì awọn olubori to ni ìrètí gbìyànjú láti lò agbára wọn, ìwà rere ati ọgbọn ẹwẹ fi ba eranko búburú yìí.
 
-Try – and fail.
+Ni ìgbìyànjú - kòsí kùnà.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Ẹranko náà kò ṣe pa, torí ìdí èyí àwọn ará abúlé na ko le ni ìrètí fun àsìkò láti yọ wọn kuro ninu wàhálà ti wọn wa. Ẹranko na kìí ṣe oníbárà, ati wipé kò ní ìfẹ sí owo ṣiṣe, ati pé idunadura ko lè ṣeéṣe.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Ìrètí awọn ará abúlé na ni ki ọkùnrin kan jáde wá ti yíò sì ṣẹgun ẹranko náà.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Láìsí ìyè meji, ọkùnrin kan jáde síta ti ọ sí ya gbogbo èèyàn lenu pẹlu aibikita. Ọ jẹ ọmọ ọdọ ni ile ẹṣin ọsin, ọmọ òní bàtà, ọmọ iṣẹ òní burẹdi - tàbí nígbà mìíràn, ọ kan jẹ alarinkiri.
 
-This book is the story of my personal assault on just such a beast.
+Ìwé yìí dá lórí ìtàn  ìṣẹlẹ tó ṣẹlẹ sí mi pẹlu iru ẹranko bẹẹ.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+"Eranko" yìí ni ìgbàgbọ pé ko ṣeéṣe lati ṣe aláayè ètò kan pẹlu èròngbà, ọgbọn, ètò alailẹsin ati ilana ìmọ sáyẹnsì. "Eranko" yii ni ifaramọ pe ki iwa sọnù sí ẹrẹ aimọgbọnwa awọn oriṣa ati awọn ijọba, ti a ṣe ni dandan fun awọn idi aṣekọṣe, ṣugbọn ti ko ni ọgbọn nínú ati alààyè tó pé . "Eranko" yi ni irokuro wípé ìwà rere, ayọ nla wa, idunnu wa, gbọdọ jẹ kíkọ sílẹ lọwọ àwọn àgbàlagbà alailẹsin, ati pe ki a fi lẹ ninu eruku fún iyolẹnu, àgbéjáde ati ilokulo lowo awon olóṣèlú ati awọn àlùfáà - ati awọn obi. "Eranko" yii ni igbagbọ-asan wípé, láìsí ìbáwí awọn obi, ipanilara awọn òrìṣà tabi awọn ibọn ijọba, a ko le jẹ ọlọgbọn ka tún má ṣe dáadáa.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Ẹranko yìí tí mú àwọn akíkanjú púpọ balẹ, láti orí Socrates si Plato sí Augustine si  Hume sí Kant sì Rand.
 
-The cost to mankind has been enormous.
+Wàhálà tó sì dá kalẹ fún àwọn èèyàn tí pọ púpọ.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Nígbàtí a ko ri alààyè se lórí ètò onipin ìwà ẹkọ tí àgbáyé, a ko ni nkan miiran ju pé ki a fi ìtàn ẹsìn ti ìbànújẹ kọ àwọn ọmọ wa, tabi kí a gbé ibọn, ẹwọn, àti ọmọ ogún fún àwọn anikanjọpọn kékeré ti awọn alakoso alaida ti won pe ara wọn ni "ìpínlẹ."
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Nígbà ti ohun ti a n pe ni "iwa" sí n jẹ àbínibí ati àṣà lásán, a wa gbẹkẹlé ipanilaya, iberu ati iwa-ipa lati ṣe àmúlò awọn ofin awujọ. Niwọn igba ti ẹkọ iwa ko ni ìpìlẹ ọgbọn pẹlu ìmọ ijinle sayensi, "iwa" wa n lọwọ sí ìjà ẹlẹyamẹya ti ìtàn itajẹsilẹ, ẹgbẹ kọọkan wa n ja fun ìṣàkóso lori igbẹkẹle àwọn ènìyàn si "iwa-rere."
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+A o le gbé láìsí ìwà, ṣùgbọn a o lè ṣe àlàyé bi ìwà ti rí - nitori eléyìí a ti gbà idajọ ayérayé lórí ayé ofo pẹlu ìgbéraga agabagebe, okanjuwa ati mímú ni ṣé ẹrú.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Ni ti ọgbọn, ko si òkòwò kan ti o ga julọ ni àgbáyé. Àṣìṣe wá lati ṣe alààyè èròngbà àti òfin iwa pẹlu ọgbọn tí gba ẹmi ọgọrùn ọkẹ àìmọye èèyàn, nínú awọn ogun ẹsìn ati ìpínlè.
 
-In many ways, the stakes are getting even higher.
+Ni ọpọlọpọ ọnà, awọn òkòwò paapa tun ga sí.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+Awọn àlàyé to n le kún lori ẹrọ ayélujára ti ṣe alekun ifura awọn iran tuntun kan wípé ohun ti a npe pé ni "ìwà rere" ko jẹ nkankan tó ju - tàbí kéré- sí awọn ìtàn àròsọ imotara eni nìkan awọn àgbàlagbà alagabagebe. Awọn irọ to dabi òtítọ ti awọn alakoso má n sọ - ati iṣọtẹ awọn tó n sìn wọn - tí wá farahàn dáadáa lásìkò yíì ju ti tẹlẹ lọ.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+"Otitọ" ti farahàn bi ifọwọyi; "Iwa rere" bi iṣakoso; "Iwa iṣootọ" bi ẹrú, ati ohun ti a npe ni "iwa-ododo" ti fi han gẹgẹbi ere itage òní bebi ti ọ wá lati tàn awọn èèyàn ọlẹ ati awọn to ni ìbẹrù sinu fifi ara wọn ṣe ẹrú.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+Imọye yii ti bi iran awọn aláìgbàgbọ tuntun kalẹ, bi o ti ṣe ni ilu Germany ni àsìkò ọgọrun ọdun kokandinlogun. Awọn wọnyii ma n tọjú ìjà oloro kalẹ dé ẹnikẹni tó  bá mú ẹrí ìdánilójú wá. Àwọn ìran ẹyìn ìgbàlódé ti dàgbà jù awọn àṣà imọtaraeni nìkan to wa nínú apapọ ìtàn àkọọlẹ wọn, ṣugbọn nisinyii wọn wo gbogbo òtítọ bi idiwọ ẹtan. Gẹgẹbi awọn ọmọ ti ojú wọn ti ni ojú egbò "ọgbọn" aigbagbọ, wọn n wo gbogbo ibara ẹni sọrọ bi ìpolongo, gbogbo awọn ẹtọ bi ẹtan, ati gbogbo ìgbìyànjú ìwà bi olè agabagebe.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+Niwọn ìgbà tí a kò ní àdéhùn lori iṣọkan, èròngbà àti ìlànà ọgbọn lati ṣe àlàyé ifiyesi iwa rere, "iwa níní" wa sọnu sínú ìrònú, ati awọn ìwà jagidijagan rẹ ti a ko le sa fún. Gẹgẹ bí ti jẹ pé, síwájú ilaniloye, awọn ijọ ẹsìn ti ja ogun àìmọye fún ìkápá lórí ipò àṣẹ, nitorinà bayi wọn ṣe ìdíje ogun iwa atijọ fún àṣẹ lórí ipinlẹ, ati gbogbo awọn irinṣẹ àgbàrá rẹ.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+Bayi ìwà rere ma sẹku, ni ìbámu pẹlú ìmọ sáyẹnsì ìgbàlódé, gẹgẹbi " ìmọ ṣiṣẹda àgbáyé" ti atijọ ṣe rí sí imo ìgbàlódé nipa ṣiṣẹda àgbáyé - agbegbe ìtàn àròsọ ayé àtijọ, ti a kàn nipa nípasẹ ìtàn sísọ, ihalẹ, lilo tipatipa ati ilokulo - èyí tó wà n dènà ilọsiwaju  lọ sibi òtítọ.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+"Ẹranko" yii ti ìwà àìní ìbámu n bẹ lórí wa , ti o sí n fi wa se ounjẹ, tó sì n da owo ori, isẹwọn, ipanilẹnunmọ ati ogun laré. O mu awọn ọmọde l'ẹru ni awọn ile-iwe ipinlẹ ati awọn àpéjọ ọjọ àìkú; o jàmbá awọn talaka ninu idẹkùn die ni àyè ìyá; o sí nko àwọn ọmọ ti wọn kò yii ti bi sinu oko-eru gbese ti orílẹ-èdè jẹ kalẹ.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+Gẹgẹbi mo ti kọ nínú ìwé iṣaaju mi, "Lori Òtítọ: Ìjọba afipamunisin pẹlu ẹtan," Irọ to ṣe pàtàkì jùlọ láàrin àwọn ẹkọ àṣà tí kò ní ìdí ni pé irú àwọn ẹkọ bẹẹ  ma n je kíkọ fún àwọn ọmọdé gẹgẹbi ẹkọ tó dára tí kò ní ìbàjẹ, nígbà tó jẹ pé lotitọ ìpinnu àṣà tí a lè kọ ló jẹ. Idi ti awọn onimọ ìjìnlè sáyẹnsì kò nilo ìjọba kan ni pé wọn ni ìlànà to dájú láti yanjú àríyànjiyàn: ona ijinlẹ sáyẹnsì. Ìdí tí èdè kò fi nilo aṣẹ ìṣàkóso lati dari ìtànkálẹ rẹ ni pé ọ da lori "ọja ọfẹ" àkójọ àwọn àyànfẹ olúkúlùkù fún àrà atí iṣẹ ṣíṣe.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+Ìdí tí àwọn ìwà òde òní - ati iwa lati atijọ wá - ṣe má n  kọkọ gbẹkẹlé kiko ipaya ba àwọn ọmọdé, lẹyìn na lati ko ihalẹ ba àwọn àgbàlagbà, nipe irọ afọwọyi ni ti n fi ara pamọ sabe òtítọ ododo.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+Òtítọ ni pé a nílò ìwà rere; irọ ni pe awọn òrìṣà tabi awọn ìjọba le ṣe alaye nipa rẹ tabi fi òtítọ mú ìwà rere ṣẹ.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Ìlépa mi ninu iwe yii ni lati ṣe àfihàn ọna kan ti o wulo fun ìdánilójú ẹkọ ìwà tó bá èròngbà lo, to sí ní ìbámu, ti o rọrùn, ti o mú ọgbọn wa, ti o sí ní ẹrí tó dájú - ati òtítọ.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+Mo mọ dájú pé, ni àsìkò yìí, óò ti ma le kún ninu ṣiṣe iyemeji. Mo sì gbọye ni kíkún pe awon odiwọn wípé ọkùnrin kan lori ẹrọ ayélujára - ilé ayé awọn aṣiwere - ti ri àtúnṣe sí wàhálà ọgbọn ìmọràn ti awọn àsìkò ko ga pàápàá - ni pàápàá, wọn má ti sunmọ odo ti a ko ni le dá wọn mọ yatọ sí.
 
-Still, not *quite* zero.
+Sibẹsibẹ, kìí ṣe odo..
 
 ### Ground Rules
 
