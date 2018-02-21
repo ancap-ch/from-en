@@ -28,9 +28,9 @@ Ang kabaligtaran ng “kabutihan” ay dapat “bisyo” – ang kabaligtaran ng
 
 Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. Kung ipanukala ko ang moral na tuntunin: “dapat mong salungatin ang grabidad,” kung gayon ang malinaw moralidad ay nagiging imposible, hindi maiiwasan ang imoralidad, at samakatuwid ang moral na tuntunin ay dapat na hindi wasto.
 
-If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
+Kung ipanukala ko ang moral na tuntunin: “hindi ka dapat pumunta sa San Francisco,” ito ay maaaring lohikal na binago bilang: “dapat kang pumunta kahit saan ngunit sa San Francisco.” sa ganitong paraan, ang moralidad na tuntunin “huwag kang magnakaw” ay maaaring pantay na iminungkahi sa positibong paraan – “igagalang mo ang mga karapatan sa pag-aari.” Dahil ang paggalang sa mga karapatan sa ari-arian ay isang kabutihan, ang paglabag sa mga karapatan sa ari-arian ay dapat maging isang bisyo.
 
-### What Is Missing
+### Ano ang nawawala
 
 Conspicuously absent from the above list are traditional virtues such as courage, honesty, integrity and so on – as well as their opposites: cowardice, falsehood and corruption.
 
