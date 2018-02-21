@@ -1,4 +1,4 @@
-## The Fifth Test: Lying
+## Ang Ikalimang Pagsubok: Pagsisinungaling
 
 The question of *lying* is interesting because telling the truth is generally considered to be universally preferable, but not enforceable through violence.
 
