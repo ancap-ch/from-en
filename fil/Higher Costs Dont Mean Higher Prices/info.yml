@@ -1,19 +1,19 @@
 ---
 content_files:
   - 
-    - essay.md
+    - sanaysay.md
     - ""
 translation:
   language: en
   is_translation: true
-  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/Higher Costs Dont Mean Higher Prices"
+  this_project_url: "https://github.com/ancap-ch/from-rn/tree/utopian/en/Mataas na mga Gastos ay hindi nangangahulugan ng Mataas na mga Presyo"
   fetch_translators: true
   fetch_reviwers: true
   fetch_progress: true
 titles:
-  - Higher Costs~
-  - '~~Dont Mean~~'
-  - Higher Prices
+  - Mas mataas na presyo-
+  - '--Hindi Nangangahulugan--'
+  - Mataas na Presyo
 discussions:
   - 
     - https://en.ancap.ch/t/5
