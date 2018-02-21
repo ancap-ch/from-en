@@ -133,10 +133,10 @@ Ang UPB ay maaaring makita tulad ng isang balangkas para sa pagwawasto ng etikal
 
 Isang halimbawa ng isang moral na panukala ay: "ang pagsisimula ng paggamit ng puwersa ay masama." Ang UPB ay isang metodolohiya na sumusubok na ang panukala laban sa parehong panloob na hindi nagbabago at empirikal na obserbasyon. UPB ay unang nagtatanong: * ang panukalang ba ay lohikal at hindi nagbabago?* UPB ay gayon magtanong: *anong patunay na umiiral para sa katototohanan ng panukala?*
 
-Upang panatilihin ang librong ito sa isang makatwirang haba, kami ay sa pangkalahatang haharapin ang karamihan sa unang pamantayan ng lohikal na hindi nagbabago. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+Upang panatilihin ang librong ito sa isang makatwirang haba, kami ay sa pangkalahatang haharapin ang karamihan sa unang pamantayan ng lohikal na hindi nagbabago. Para sa pangalawang pamantayan, tayo ay aasa sa katibayan sa makamundong pagbabawal sa iba't-ibang kultura laban sa ilang kilos tulad ng panggagahasa, pagnanakaw, pag-atake at pagpatay. Higit pa sa maaaring maisulat sa isang makasaysayang katibayan na tumutulong suportahan o tutulan ang ibaa- ibang moral na panukala, ngunit kailangan nating iwan ito sa iba pang pagkakataon. Kung tayo ay magtatatag ng bisa ng UPB, makakamit natin ang napakalaking halaga. Kung hindi naman, ang katibayan ay maaari kakulangan para tulungan tayo.
 
-Let us now turn to the question of whether the UPB framework deals with matters of *ethics*, or *aesthetics*, or both.
+Ngayon ay puntahan natin ang tanong ng kung ang UPB na balangkas ay may kinalaman sa mga bagay ng *etiko*, o *aestetiko*, o pareho.
 
-[^7]: The same goes, of course, for murder and assault. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
+[^7]: Ang parehong napupuntahan, siyempre, para sa pagpatay at pag-atake. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
 
 [^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
