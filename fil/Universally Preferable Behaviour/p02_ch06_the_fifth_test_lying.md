@@ -14,21 +14,21 @@ Halimbawa:
 
 **Bob:** Oo.
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**Doug:**Kaya ang pagsisinungaling ay dapat na masama, dahil ikaw ay nagsisinungaling tungkol sa pagiging mabuti.
 
-Or:
+O:
 
-**Bob:** Lying is always good.
+**Bob:** Pagsisinungaling ay laging mabuti.
 
-**Doug:** Are you lying?
+**Doug:** Nagsisinungaling ka ba?
 
-**Bob:** No.
+**Bob:** Hindi.
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**Doug:** Kaya ang pagsisinungaling ay hindi palaging mabuti, yamang sinasabi mo ang katotohanan tungkol sa kasinungalingan ay mabuti.
 
-Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
+Pagsisinungaling, Gayunman, ay hindi nangangailangan ng pagsisimula ng puwersa, at sa gayon ay hindi lumalabag sa posibilidad ng *maiiwasan*. Sapagkat maiiwasan ang kasinungalingan, hindi sila lohikal na maging agresibo sa laban.
 
-Lying also fits more closely in the category of *violence*, insofar as it is moral to lie in self-defence, just as it is moral to use violence in self-defence It is hard to think of a situation where one would have to “be late” in self-defence, or “be rude.” However, if a man bursts into your house and demands to know where your beloved wife is so he can slap her around, it would seem a parody of integrity to refuse to lie to him. Lying in this case would be a form of third-party self-defence, and as morally acceptable as the use of violence in self-defence Similarly, if a man obtains a hundred dollars from us by lying, we may justly lie to him to get it back.
+Lying also fits more closely in the category of *violence*, insofar as it is moral to lie in self-defence, just as it is moral to use violence in self-defence It is hard to think of a situation where one would have to “be late” in self-defence, or “be rude.” However, if a man bursts into your house and demands to know where your beloved wife is so he can slap her around, it would seem a parody of integrity to refuse to lie to him. Ang pagsisinungaling sa kasong ito ay magiging isang anyo ng third-party na pagtatanggol sa sarili, at bilang katanggap-tanggap sa moral na paggamit ng karahasan sa pagtatanggol sa sarili Katulad nito, kung ang isang lalaki ay kukuha ng isang daang dolyar mula sa amin sa pamamagitan ng pagsisinungaling, maaari tayong magsinungaling sa kanya upang maibalik ito.
 
 Thus we may justly lie to a liar, just as we may justly defend ourselves from a punch with a punch, but we would not exactly respect the escalating pettiness of “repaying” a tardy person by showing up even later.
 
