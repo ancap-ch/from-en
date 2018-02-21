@@ -10,9 +10,9 @@ Bago ang lahat, "masama" sumasaklaw sa mga galaw ng pwedeng nahadlangan sa pamam
 
 Pwede kong bang tirahin ang mga taong kumakaen ng piraso ng isda?
 
-It would seem silly to argue that I can – but why?
+Ito ay tila walang isip na makipagtalo sa akin - subali'tbkt?
 
-There are some objective limits to the universality of this doctrine. For instance, some people may have no access to fish – they may live in a desert, say – while others live by a lake teeming with fish, and find it hard or impossible to survive without eating them. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
+May mga ilang obhetibo na mga limitasyo sa panglahatang doktrinang ito. For instance, some people may have no access to fish – they may live in a desert, say – while others live by a lake teeming with fish, and find it hard or impossible to survive without eating them. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
 
 No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
 
