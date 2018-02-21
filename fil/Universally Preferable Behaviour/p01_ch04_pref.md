@@ -78,7 +78,7 @@ Sa sandali na ako ay nagbigay ng ilang uri ng obhetibong pamantayan para sa pagp
 
 Hindi naman ibig sabihin nito na ang aking obhetibong pamantayan ay *lohikal* - maaari kitang isanguni sa isang relihiyosong teksto, halimbawa. Gayunman, kahit na gawin ko, tinatanggap ko pa din na ang katotohanan ay isang bagay na sumapit malaya sa pansariling badya lamang - na ang obhetibong pamamaraan ay umiiral para paghiwalayin ang katotohanan sa kamalian.
 
-#### Premise 6: Truth Is Better Than Falsehood
+#### Saligan 6: Ang katotohanan ay mas mabuti kaysa kamalian
 
 If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
 
