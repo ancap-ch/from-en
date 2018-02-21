@@ -48,30 +48,30 @@ persons:
     rule: "ang tagasalin"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "reviwer"
+    identifier: "template_tao"
+    rule: "ang tagamasid"
   - 
     person_: [ ]
-    identifier: "template_person"
-    rule: "cover_artist"
+    identifier: "template_tao"
+    rule: "takip_artista"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "artist"
+    identifier: "template_tao"
+    rule: "ang artista"
 resources:
   - 
     resource: [ ]
-    rule: "front_cover"
-    content: "cover.png"
+    rule: "harap_takip"
+    content: "takip.png"
     websites:
-      - Resource website
-    description: Resource description
+      - Pinagkunang website
+    description: Pinagkunang paglalarawan
     persons:
-      - "template_person"
+      - "template_tao"
 targets:
   - 
     target: [ ]
-    name: book
+    name: ang libro
     reset_footer_active: false
     reset_footer_depth: 0
     clear_page_active: true
