@@ -18,7 +18,7 @@ Sa isip, hanggang sa dalawang kategorya lamang ang dapat na kakulangan ng mga it
 
 Halimbawa, ang Non-Aggression Principle (NAP) ay nagsaad na ang pagsisimula ng paggamit ng puwersa ay imoral – kaya ang di-pagsisimula ng paggamit ng puwersa ay higit na mas mainam, habang ang pagsisimula ng paggamit ng pwersa ay ipinagbabawal sa lahat. Kung ang pinagbawalan ay simpleng kabaligtaran ng kung ano ang mas kanais-nais, diyan ay talagang hindi na kailangan pa para sa isang karagdagang kategorya.
 
-Bukod dito, bilang moral na mga pilosopo, dapat nating unahin ang ating pagsusuri sa rasyonal na etika sa pamamagitan ng pagtutok sa mga pinakamahirap na paglabag. Malinaw, ang mga pinaka imoral na aksyon ay dapat ang marahas na pagpapatupad ng hindi makatarungang mga kagustuhan sa iba. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+Bukod dito, bilang moral na mga pilosopo, dapat nating unahin ang ating pagsusuri sa rasyonal na etika sa pamamagitan ng pagtutok sa mga pinakamahirap na paglabag. Malinaw, ang mga pinaka imoral na aksyon ay dapat ang marahas na pagpapatupad ng hindi makatarungang mga kagustuhan sa iba. Kung ang mga aksyon na katulad ng “pagnanakaw” o “pagpatay” ay tinukoy bilang UPB, ang pagsusuri sa gayong mga kahulugan ay dapat ang aming pinakamataas na priyoridad.
 
 Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
 
