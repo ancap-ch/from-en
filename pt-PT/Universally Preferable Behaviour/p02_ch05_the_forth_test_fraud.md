@@ -18,7 +18,7 @@ Logicamente, o princípio de que a "fraude é boa" não pode ser aplicado por Do
 
 O CUP destrói essa possibilidade, já que nenhuma teoria moral válida, pode exigir acções opostas sob as mesmas circunstâncias.
 
-Se Doug cometer uma fraude com Bob, com a justificação de que "é bom mentir para obter o que se quer", então, também deve ser bom ser honesto, uma vez que é impossível obter o que se quer com mentiras, a menos que as outras pessoas estejam dispostas a assumir a sua honestidade. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
+Se Doug cometer uma fraude com Bob, com a justificação de que "é bom mentir para obter o que se quer", então, também deve ser bom ser honesto, uma vez que é impossível obter o que se quer com mentiras, a menos que as outras pessoas estejam dispostas a assumir a sua honestidade. Portanto, o argumento de que é bom mentir para obter o que se quer, não pode ser alcançado, a menos que outras pessoas ajam com integridade -, assim, a mentira e a honestidade são requeridas simultaneamente, para o cumprimento do princípio moral. Logicamente não pode ser que tanto uma acção *como o seu completo oposto* sejam simultaneamente morais no mesmo lugar, para as mesmas pessoas e ao mesmo tempo.
 
 This is how we know that fraud is wrong.
 
