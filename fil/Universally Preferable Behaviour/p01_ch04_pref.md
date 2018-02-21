@@ -92,11 +92,11 @@ Kung sinabi mo sa akin sa simula palang na haharapin mo ang kahit anong di-pagka
 
 Sa kabuuan, pagkatapos, ang pagdedebate ay nangangailangan ng obhektibong pamamaraan, sa pamamagitan ng makahulugan wika, sa pagtugis sa unibersal na katotohanan, na kung saan ay obhektibong kanais-nais sa personal na kamalian.
 
-Ang kagustuhan para sa unibersal na katotohanan ay hindi kagustuhan sa *antas*, kundi sa *uri*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+Ang kagustuhan para sa unibersal na katotohanan ay hindi kagustuhan sa *antas*, kundi sa *uri*. Ang shortcut ay nagbabawas ng oras sa pagmamaneho sa kalahati ng dalawang beses namabuti kaysa sa mahabang ruta - ngunit pareho ay *higit na mabuti kaylanman* sa pagmamaneho sa maling direksyon.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+Sa parehong paraan, ang katotohanan ay hindi lang "mas mabuti" kaysa sa mali - ito ay *higit na mabuti kailanman*, o kailangan.
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### Saligan 8: Ang mga Tao ay Responsable Para sa Kanilang mga Kilos
 
 If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
 
