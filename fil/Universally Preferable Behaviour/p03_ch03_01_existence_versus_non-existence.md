@@ -84,7 +84,7 @@ Dahil ang mga opinyon ay hindi mababago ang reyalidad, hindi ko pweding ibigay s
 
 ### Gobyerno bilang boluntaryo
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+Ang bukas na puwersa ay sangkot sa institusyon ng gobyerno - ang konseptual wrapper ay nagbabaliktad ng moral na patakaran para sa partikular na grupo ng mga indibidual - ay bagay na laging iniingatan ang talaan sa mga debate. Kapag tinatalakay ang tungkol sa gobyerno, ito ay hindi tinuturing na isang positibong bagay para ituro "ang baril sa kuwarto." Halos kahulugan sa, mga gobyerno ay itinuturing na pinili para sa mga tao at upang gumana sa kanilang ipinahayag o pahiwatig na pag-apruba.
 
 However, this is pure nonsense.
 
