@@ -86,17 +86,17 @@ Dahil ang mga opinyon ay hindi mababago ang reyalidad, hindi ko pweding ibigay s
 
 Ang bukas na puwersa ay sangkot sa institusyon ng gobyerno - ang konseptual wrapper ay nagbabaliktad ng moral na patakaran para sa partikular na grupo ng mga indibidual - ay bagay na laging iniingatan ang talaan sa mga debate. Kapag tinatalakay ang tungkol sa gobyerno, ito ay hindi tinuturing na isang positibong bagay para ituro "ang baril sa kuwarto." Halos kahulugan sa, mga gobyerno ay itinuturing na pinili para sa mga tao at upang gumana sa kanilang ipinahayag o pahiwatig na pag-apruba.
 
-However, this is pure nonsense.
+Gayunman, ito ay isang purong walang katuturan.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Kung Ang isang lalake ay may hawak hawak na kutsilyo sa leeg ng babae habang nakikipag talik, ang kahulugan nito ay isang pagkilos ng pang gagahasa. Hindi nito masasabi na ang pagtatalik ay pinagkasunduan, habang Ang parehong oras ng pagbabanta na siya ay saktan o patayin Kung siya ay tatanging makipag talik sa kanya. Kung kusang loob siyang nakipagtalik, Kung ganon Ang kutsilyo ay Hindi na kaylangan. Kung Ang lalake ay nararamdaman na kaylangan nya ng kutsilyo, Kung gayon malinaw na ang pakikipagtalik ay * Hindi * kusang loob.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+Sa parehong paraan, ang tao ay nagsabi na Ang pagbubuwis ay bahagi ng kontrata sa lipunan na kusang loob na napagkasunduan nila.
 
-This is both logically and empirically false.
+Ito ay parehong lohikal at empirikaly na Hindi totoo.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Alam natin na ito ay empirically Hindi totoo dahil * walang mga kontrata sa lipunan ang lumitaw*. Hindi ikaw o ako*kailanman* Ang nag lagda ng isang dokumento kusang loob na sumasang ayon na mag buwis sa kinikita - pinanganak kami sa isang simpleng sistema na kumukuha ng pera mula sa amin sa dulo ng isang baril.
 
-### The Gun In The Room
+### Ang baril sa kuwarto
 
 Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
 
