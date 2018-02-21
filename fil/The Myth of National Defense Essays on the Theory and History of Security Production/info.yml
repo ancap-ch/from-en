@@ -32,8 +32,8 @@ tag_prefix: "https://en.ancap.ch/tags/"
 persons:
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "author"
+    identifier: "template_tao"
+    rule: "ang manunulat"
   - 
     person: [ ]
     identifier: "template_person"
