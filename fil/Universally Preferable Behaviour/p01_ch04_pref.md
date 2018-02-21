@@ -80,7 +80,7 @@ Hindi naman ibig sabihin nito na ang aking obhetibong pamantayan ay *lohikal* - 
 
 #### Saligan 6: Ang katotohanan ay mas mabuti kaysa kamalian
 
-Kapag sinabi ko sa iyo na ang mundo ay patag, at ikaw ay sumagot na ang mundo ay hindi patag, ngunit bilog, ngayon ay bahagya mong tinatanggap ang aksom na ang katotohanan at kamalian ay kapwa obhetibong umiiral, at ang katotohanan ay mas mainam kaysa kamalian.
+Kapag sinabi ko sa iyo na ang mundo ay patag, at ikaw ay sumagot na ang mundo ay hindi patag, ngunit bilog, ngayon ay bahagya mong tinatanggap ang aksyom na ang katotohanan at kamalian ay kapwa obhetibong umiiral, at ang katotohanan ay mas mainam kaysa kamalian.
 
 Kapag sinabi ko sa iyo na gusto ko ng sorbetes na tsokolate, at sabihin mo sa akin na gusto mo ng vanilla, ito ay imposible "patunayan" na ang vanilla ay obhektibong mas mainam kaysa tsokolate. Sa sandali na iwasto mo ako sa pagtukoy sa obhektibong *katotohanan*, iyong tinatanggap na ang obhektibong katotohanan ay umiiral, at ang obhektibong katotohanan na ito ay * katanggap-tanggap pandaigdig* sa pansariling pagkakamali.
 
@@ -88,7 +88,7 @@ Kapag sinabi ko sa iyo na gusto ko ng sorbetes na tsokolate, at sabihin mo sa ak
 
 Kung sabihin ko na ang mundo ay bilog, at ikaw ay bubunot ng baril at barilin ako, ito ay tiyak na halimbawa ng produktibong pagtatalo. Totoo, ang ating di-pagkakasundo ay maaaring "maayos" - ngunit dahil isa lamang sa atin ang matitira na nakatayo sa dulo.
 
-Kung sinabi mo sa akin sa simula palang na haharapin mo ang kahit anong di-pagkakasundo sa pagbaril sa akin, ako ay malamang na hindi sumali sa debate sa iyo. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Kung sinabi mo sa akin sa simula palang na haharapin mo ang kahit anong di-pagkakasundo sa pagbaril sa akin, ako ay malamang na hindi sumali sa debate sa iyo. Sa gayon ay malinaw na ang kahit anong debate na umaasa sa saligang pahiwatig na ang ebidensya, katwiran, katotohanan at kawalan kinikilingan ang *higit na mabuti sa lahat ng dako* na mga paraan sa paglutas ng mga pagtatalo sa pagitan ng mga indibidwal. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
 
 In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
 
