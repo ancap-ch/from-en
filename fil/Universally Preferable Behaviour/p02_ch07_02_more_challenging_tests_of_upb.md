@@ -4,7 +4,7 @@ Ano ang pwedeng katayuan ng morall ng proposisyon: "ito ay masama kumain ng isda
 
 Maliwanag, itong proposisyon ay parang sang-ayon sa ilang mga kakailanganin ng UPB - ito ay makikita sa pangkalahatan, independe sa oras at lugar, at relatibong obhetibo.
 
-Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
+Subalit tila napakahirap para sa amin na makatwirang tawagin itong totoo *moral*teyorya - bkt?
 
 First of all, “evil” encompasses actions that can be prevented through the use of force. Rape is “evil,” and so I can use force to defend myself against someone attempting to rape me.
 
