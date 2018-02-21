@@ -6,9 +6,9 @@ Maliwanag, itong proposisyon ay parang sang-ayon sa ilang mga kakailanganin ng U
 
 Subalit tila napakahirap para sa amin na makatwirang tawagin itong totoo *moral*teyorya - bkt?
 
-First of all, “evil” encompasses actions that can be prevented through the use of force. Rape is “evil,” and so I can use force to defend myself against someone attempting to rape me.
+Bago ang lahat, "masama" sumasaklaw sa mga galaw ng pwedeng nahadlangan sa pamamagitan ng paggamit ng lakas. ang panggagahasa ay "masama," at kaya ginamit ko ang lakas para maidepensa ang akingsarili laban sa mga taong sinubukan na gahasain ako.
 
-Can I justly shoot someone who eats a piece of fish?
+Pwede kong bang tirahin ang mga taong kumakaen ng piraso ng isda?
 
 It would seem silly to argue that I can – but why?
 
