@@ -125,15 +125,15 @@ Upang tulungan sa paglunok nitong malaking konseptwal na tableta, sa ilalim ay i
 
 Talahanayan: ang mga teyorya ng pisika at biyolohiya at ng UPB
 
-In conclusion, it is safe to say that (a) moral rules are valid, and (b) moral theories must be subjected to the rigours of logic and evidence, just as theories of physics and biology are. Any moral theory based on non-universal or self-contradictory principles is demonstrably false.
+Sa konklusyon, ito ay ligtas sabihin na (a) ang moral na patakaran ay wasto, at (b) ang moral na teyorya ay dapat maging subhektibo sa hirap ng lohika at katibayan, tulad ng mga teyorya ng pisika at biyolohiya ay. Ang anumang moral na teyorya base sa hindi makamundo o pagsasalungat sa sariling prinsipyo ay nagpapakita ng mali.
 
-#### UPB: The Framework
+#### UPB: ang Balangkas
 
-UPB can thus be seen as a framework for validating ethical theories or propositions – just as the scientific method is a framework that is used to validate scientific theories or propositions.
+Ang UPB ay maaaring makita tulad ng isang balangkas para sa pagwawasto ng etikal na mga teyorya o mga panukala - tulad ng siyentipikong paraan ay isang balangkas na ginagamit upang iwasto ang siyentipikong mga teyorya o mga panukala.
 
-An example of a moral proposition is: “the initiation of the use of force is wrong.” UPB is the methodology that tests that proposition against both internal consistency and empirical observation. UPB thus first asks: *is the proposition logical and consistent?* UPB then asks: *what evidence exists for the truth of the proposition?*
+Isang halimbawa ng isang moral na panukala ay: "ang pagsisimula ng paggamit ng puwersa ay masama." Ang UPB ay isang metodolohiya na sumusubok na ang panukala laban sa parehong panloob na hindi nagbabago at empirikal na obserbasyon. UPB ay unang nagtatanong: * ang panukalang ba ay lohikal at hindi nagbabago?* UPB ay gayon magtanong: *anong patunay na umiiral para sa katototohanan ng panukala?*
 
-To keep this book at a reasonable length, we will in general deal mostly with the first criterion of logical consistency. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+Upang panatilihin ang librong ito sa isang makatwirang haba, kami ay sa pangkalahatang haharapin ang karamihan sa unang pamantayan ng lohikal na hindi nagbabago. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
 
 Let us now turn to the question of whether the UPB framework deals with matters of *ethics*, or *aesthetics*, or both.
 
