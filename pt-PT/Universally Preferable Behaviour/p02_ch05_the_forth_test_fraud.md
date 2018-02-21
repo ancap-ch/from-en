@@ -6,9 +6,9 @@ A fraude é a obtenção de valor através de uma representação falsa. Se eu d
 
 Vamos colocar o problema da fraude através do moinho do CUP e ver se ele resiste.
 
-Evidentemente, a fraude exige que uma pessoa *não* esteja envolvida na fraude. Na transacção potencial anterior, se eu estiver à espera de roubar os seus duzentos dólares, e você à espera de roubar o meu iPod, não haverá nada disso. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
+Evidentemente, a fraude exige que uma pessoa *não* esteja envolvida na fraude. Na transacção potencial anterior, se eu estiver à espera de roubar os seus duzentos dólares, e você à espera de roubar o meu iPod, não haverá nada disso. Você irá exigir o iPod antes de o pagar, e eu exigirei o pagamento antes de lhe entregar o iPod. Ficaremos num impasse, totalmente incapazes de defraudar um ao outro.
 
-Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
+Obviamente, para que ocorra uma fraude, uma das partes deve agir de boa fé. Assim, a pessoa que deseja cometer uma fraude baseia-se no facto de que a outra pessoa *não* deseja cometer fraude, para a poder enganar.
 
 To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
 
