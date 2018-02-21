@@ -16,7 +16,7 @@ Tulad ng nabanggit sa itaas, ang mga panukala tungkol sa pag-uugali ng higit sa 
 
 Sa isip, hanggang sa dalawang kategorya lamang ang dapat na kakulangan ng mga ito – higit na kanais-nais at positibong positibo – sa pamamagitan ng pagtukoy sa aming mga etikal na panukala upang ang ipinagbabawal sa lahat ay isang salamin na larawan ng kung ano ang higit na mas mainam, at ang paghuhukay lamang ng personal na mga kagustuhan at neutral na mga pagkilos bilang hindi nauugnay sa isang diskusyon ng etika.
 
-Halimbawa, sinasabi ng Non-Aggression Principle (NAP) na ang pagsisimula ng paggamit ng puwersa ay imoral – kaya ang di-pagsisimula ng paggamit ng puwersa ay higit na mas mainam, habang ang pagsisimula ng paggamit ng lakas ay ipinagbabawal sa lahat. Kung ang pinagbawalan ay simpleng kabaligtaran ng kung ano ang mas mainam, diyan ay talagang hindi na kailangan para sa isang karagdagang kategorya.
+Halimbawa, ang Non-Aggression Principle (NAP) ay nagsaad na ang pagsisimula ng paggamit ng puwersa ay imoral – kaya ang di-pagsisimula ng paggamit ng puwersa ay higit na mas mainam, habang ang pagsisimula ng paggamit ng pwersa ay ipinagbabawal sa lahat. Kung ang pinagbawalan ay simpleng kabaligtaran ng kung ano ang mas kanais-nais, diyan ay talagang hindi na kailangan pa para sa isang karagdagang kategorya.
 
 Bukod dito, bilang moral na mga pilosopo, dapat nating unahin ang ating pagsusuri sa rasyonal na etika sa pamamagitan ng pagtutok sa mga pinakamahirap na paglabag. Malinaw, ang mga pinaka imoral na aksyon ay dapat ang marahas na pagpapatupad ng hindi makatarungang mga kagustuhan sa iba. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
 
