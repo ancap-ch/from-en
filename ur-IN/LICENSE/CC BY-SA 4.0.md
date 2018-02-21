@@ -1,12 +1,12 @@
-## creative commons
+## تخلیقی عام
 
-# Attribution-ShareAlike 4.0 International
+# انتباہ-شراکت 4.0 بین الاقوامی
 
-Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+تخلیقی العام سند يافتہ ادارہ ("تخلیقی العام") قانونی فرم نہیں ہے اور قانونی خدمات یا قانونی مشورہ فراہم نہیں کرتی ہے. تخلیقی العام عوامی لائسنس کی تقسیم کسی وکیل کلائنٹ یا دوسرے رشتے کو نہیں بناتا ہے. تخلیقی العام اس لائسنس کو بناتا ہے اور متعلقہ معلومات کو "کے طور پر ۔ ہے" بنیاد پر دستیاب کرتا ہے. تخلیقی العام اس کے لائسنس کے حوالے سے کوئی وارنٹی فراہم نہیں کرتا ہے، ان کے شرائط و ضوابط کے تحت لائسنس یافتہ مواد ہو، یا کوۂی بھی متعلق معلومات ہو. تخلیقی العام ممکنہ حد تک ان کے استعمال کے نتیجے میں نقصانات کے لۓ تمام ذمہ داری کو مسترد کرتا ہے.
 
-### Using Creative Commons Public Licenses
+### تخلیقی العام پبلک لائسنس کا استعمال کر رہیں ہیں
 
-Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
+تخلیقی العام عوامی لائسنس اصطلاحات اور شرائط کا ایک اچھا معیار مقرر کرتے ہیں جو تخلیق کار اور دیگر حقوق ہولڈرز ذیل میں عوامی لائسنس میں مخصوص کاپی رائٹ اور مخصوص مواد کے حق اشاعت کے اصل کام اور دیگر مواد کے حصول کے لئے استعمال کرسکتے ہیں. مندرجہ ذیل خیالات صرف معلومات کے مقاصد کے لئے ہیں، ہر لحاظ مکمل نہیں ہیں، اور ہمارے لائسنس کا حصہ نہیں ہیں.
 
 * **Considerations for licensors:** Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. [More considerations for licensors](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors).
 
