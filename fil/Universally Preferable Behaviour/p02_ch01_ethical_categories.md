@@ -9,7 +9,7 @@ Tulad ng nabanggit sa itaas, ang mga panukala tungkol sa pag-uugali ng higit sa 
 1. Ito ay mabuti (higit na mas mainam at masusunod sa pamamagitan ng karahasan, tulad ng “hindi pagpatay”).
 2. Ito ay positibong aesthetically (pangkalahatang higit na mainam ngunit hindi maipatupad sa pamamagitan ng karahasan, tulad ng “kagandahang-asal” at “pagiging nasa tamang oras”).
 3. Ito ay personal na positibo (anuman sa hindi pangkaraniwan lalong kanais-nais o maaaring maipatupad, tulad ng isang predilection para kumain ng ice cream).
-4. Ito ay neutral, o walang etikal o aesthetic na nilalaman, tulad ng pagpapatakbo para sa isang bus.
+4. Ito ay walang pinapanigan, o walang etikal o aesthetic na laman, tulad ng pagpapatakbo para sa isang bus.
 5. Ito ay personal na negatibo (predilection para hindi kumain ng ice cream).
 6. Ito ay aesthetically negatibo (“kabastusan” at “pagiging late”).
 7. Ito ay masama (pangkalahatang ipinagbabawal) (“panggagahasa”).
