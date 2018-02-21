@@ -4,29 +4,29 @@ A questão da *mentira* é interessante porque dizer a verdade, geralmente, é c
 
 Geralmente, é considerado um requisito *mais* rigoroso do que "ser pontual", mas *menos* rigoroso do que "roubar". O que é que a estrutura CUP tem a dizer sobre isso?
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+Naturalmente, qualquer teoria moral que proponha que "mentir é bom" imediatamente se auto descobre, pois se o indivíduo que a propõe *está* a mentir - o que é bom - então mentir é mau, porque ele disse a verdade de que mentir é mau.
 
-For instance:
+Por exemplo:
 
-**Bob:** Lying is always good.
+**Bob:** Mentir é sempre bom.
 
-**Doug:** Are you lying?
+**Doug:**Estás a mentir?
 
-**Bob:** Yes.
+**Bob:** Sim.
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**Doug:** Então mentir deve ser mau, já que estás a mentir sobre a mentira ser boa.
 
-Or:
+Ou:
 
-**Bob:** Lying is always good.
+**Bob:** Mentir é sempre bom.
 
-**Doug:** Are you lying?
+**Doug:** Estás a mentir?
 
-**Bob:** No.
+**Bob:** Não.
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**Doug:** Então mentir nem sempre é bom, já que você está a dizer a verdade acerca de mentir ser bom.
 
-Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
+No entanto, a mentira não requer o início da força, e não viola a possibilidade de *evitabilidade*. Dado que os mentirosos podem ser evitados, não podem ser agredidos, logicamente.
 
 Lying also fits more closely in the category of *violence*, insofar as it is moral to lie in self-defence, just as it is moral to use violence in self-defence It is hard to think of a situation where one would have to “be late” in self-defence, or “be rude.” However, if a man bursts into your house and demands to know where your beloved wife is so he can slap her around, it would seem a parody of integrity to refuse to lie to him. Lying in this case would be a form of third-party self-defence, and as morally acceptable as the use of violence in self-defence Similarly, if a man obtains a hundred dollars from us by lying, we may justly lie to him to get it back.
 
