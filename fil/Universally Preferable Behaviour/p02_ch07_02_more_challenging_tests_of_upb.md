@@ -16,9 +16,9 @@ May mga ilang obhetibo na mga limitasyo sa panglahatang doktrinang ito. Sa halim
 
 Huwag, ang "ang pulang herring"sa moral na proposisyon "masamang kainin ang isda" ito ang salita "*isda*."
 
-A scientist cannot validly say that his theory of gravity only applies to pink rocks. Since his theory involves gravity, it must apply to *all* entities that have mass.
+Hindi sinabi ng siyantipoko na wasto ang kanyang teyorya ng grabidad tumukoy lamang sa pink na mga bato. sapagkat sa kanyang teyorya ay sangkot sa grabidad, kailangan itong magamit sa *lahat*mga entity na merong mass.
 
-Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
+Kagaya nito, sa halimbawa na nasa itaas, ang UPB ay tinanggap lamang ang *act* ng pagkain, at mga hindi tanggap *ano* ang nilamon, sapagkat ang kinain at hindi isang *asksyon*, pero sa higit na kung ano ang kumikilos.
 
 In the same way, an ethicist cannot validly put forward the moral proposition: “It is evil to rape the *elderly*.” “Rape” is the behaviour; whether the victim is elderly or not is irrelevant to the moral proposition, since as long as the victim is human, the requirement for universality remains constant. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
 
