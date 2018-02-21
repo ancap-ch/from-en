@@ -86,9 +86,9 @@ Kapag sinabi ko sa iyo na gusto ko ng sorbetes na tsokolate, at sabihin mo sa ak
 
 #### Saligan 7: Mapayapang Pakikipagtalo Ay Ang Pinakamabuting Paraan Para Ayusin ang mga Pagtatalo
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+Kung sabihin ko na ang mundo ay bilog, at ikaw ay bubunot ng baril at barilin ako, ito ay tiyak na halimbawa ng produktibong pagtatalo. Totoo, ang ating di-pagkakasundo ay maaaring "maayos" - ngunit dahil isa lamang sa atin ang matitira na nakatayo sa dulo.
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Kung sinabi mo sa akin sa simula palang na haharapin mo ang kahit anong di-pagkakasundo sa pagbaril sa akin, ako ay malamang na hindi sumali sa debate sa iyo. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
 
 In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
 
