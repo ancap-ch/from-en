@@ -2,17 +2,17 @@
 
 Ang katanungan ng *pagsisinungaling* ay kagiliw-giliw na dahil sa pagsasabi ng katotohanan ay karaniwang itinuturing na higit sa lahat, ngunit hindi maipapatupad sa pamamagitan ng karahasan.
 
-It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
+Ito ay karaniwang isinasaalang-alang *mas* ng isang mahigpit na pangangailangan kaysa sa "pagiging nasa oras," ngunit *mas mababa* mahigpit kaysa sa "pagnanakaw." Ano ang sinasabi ng balangkas ng UPB tungkol dito?
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+Natural, anumang moral na teorya na nagmumungkahi "Ang pagsisinungaling ay mabuti" agad na nagpapalaya sa sarili, dahil kung ang taong nagpapanukala nito *ay* nagsisinungaling - na kung saan ay mabuti - kung gayon ang pagsisinungaling ay masama, sapagkat sinabi niya sa katotohanan na ang kasinungalingan ay masama.
 
-For instance:
+Halimbawa:
 
-**Bob:** Lying is always good.
+**Bob:** Pagsisinungaling ay laging mabuti.
 
-**Doug:** Are you lying?
+**Doug:** Nagsisinungaling ka ba?
 
-**Bob:** Yes.
+**Bob:** Oo.
 
 **Doug:** So lying must be bad, since you are lying about it being good.
 
