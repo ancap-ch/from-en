@@ -22,8 +22,8 @@ Ahora: ¿Qué tal la relación entre el libertarismo y la derecha alternativa y 
 
 1. Cómo mantener un orden libertario una vez alcanzado;
 2. Cómo lograr un orden libertario desde un punto de partida no libertario, el cual requiere: 
-....1. Ese debe describir correctamente este punto de partida;
-....2. Identificar correctamente los obstáculos planteados en el camino de los propios extremos libertarios por este mismo punto de partida.
+::::1. Ese debe describir correctamente este punto de partida;
+::::2. Identificar correctamente los obstáculos planteados en el camino de los propios extremos libertarios por este mismo punto de partida.
 
 Para responder esas preguntas, en adición a la teoría, se necesitan ciertos conocimientos de la psicología u sociología humana, o al menos un poco de sentido común. Sin embargo, muchos libertarios y libertarios falsos ignoran la psicología y sociología humana, o incluso carecen de sentido común alguno. Ellos aceptan ciegamente, contra de toda evidencia empírica, una visión igualitaria y pizarra en blanco de la naturaleza humana, de todas las personas y todas las sociedades y culturas que son esencialmente iguales e intercambiables.
 
@@ -68,8 +68,8 @@ Fuera de las tierras de fantasía del igualitarismo, en el mundo real, los liber
 Estas son:
 
 1. Las élites gobernantes en control del aparato del estado y en particular del "Estado profundo" o como la llamada "catedral" de los militares, los servicios secretos, el banco central y la corte suprema. De esta manera, ellos incluyen: 
-....1. Los lideres del complejo industrial militar, es decir, las empresas nominalmente privadas que deben su existencia al estado como comprador exclusivo o dominante de sus productos;
-....2. Los lideres de los grandes bancos comerciales, que deben su privilegio de crear dinero y crédito de la nada para la existencia del banco central y su papel como "prestamista de último recurso". Ellos juntos, entonces, El estado, grandes empresas y los grandes bancos, forman una extremadamente poderosa aunque pequeña "sociedad de admiración mutua", conjuntamente estafando a la enorme masa de contribuyentes y viviendo a lo grande a sus expensas.
+::::1. Los lideres del complejo industrial militar, es decir, las empresas nominalmente privadas que deben su existencia al estado como comprador exclusivo o dominante de sus productos;
+::::2. Los lideres de los grandes bancos comerciales, que deben su privilegio de crear dinero y crédito de la nada para la existencia del banco central y su papel como "prestamista de último recurso". Ellos juntos, entonces, El estado, grandes empresas y los grandes bancos, forman una extremadamente poderosa aunque pequeña "sociedad de admiración mutua", conjuntamente estafando a la enorme masa de contribuyentes y viviendo a lo grande a sus expensas.
 2. ([A] grupo mucho más grande de enemigos se compone de) los intelectuales, educadores y "edúcratas", desde los altos niveles de la academia hasta el nivel de la escuela primaria y el pre-escolar. Financiados casi exclusivamente, sea directa o indirectamente, por el estado, ellos, en su inmensa mayoría, se han convertido en las herramientas suaves y los ejecutores dispuestos en las manos de la élite gobernante en su diseño para el poder absoluto y control total.
 3. Los periodistas del MSM, como productos dóciles del sistema de "educación pública", y los receptores cobardes y divulgadores de la "información" gubernamental.
 

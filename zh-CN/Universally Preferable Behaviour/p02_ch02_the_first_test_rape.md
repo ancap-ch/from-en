@@ -147,14 +147,15 @@ APA 是一种非强制性规则，可以同时适用于双方当事人。
 
 事实上，UPB框架具有科学、有效地验证了强奸是邪恶的 – 不好”的道德命题，”或“美学更好”或“更可取，”或“道德中立”–是一个非常好的迹象。这并不能证明毫无疑问，UPB逻辑验证所有的“常识”的道德命题，但第一障碍已经通过，那应该给我们庆祝的理由。如果我是一个物理学家，提出一个统一的场论 (Unified Field Theory)，我的理论应用正确地预测了一个扔棒球的地方，我是非常高兴。
 
-Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
+爱因斯坦的相对论预言光说会在一个重力场周围弯曲 -当这一点被首次证实时，它并没有证明他的理论毫无疑问，但它确实证明了这个理论是正确的，这是一次巨大的飞跃。第一个验证总是最难的，因为错误很容易，而且错误总是超过准确性。
 
-The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+UPB框架已正确地验证了我们的道德前提，强奸是邪恶的。这是一个必要但不充分的证据标准，完全支持进一步调查。因此，让我们继续…
 
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
+[^1]：这与物理攻击非常不同，它破坏了你自由选择的能力。
 
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
+[^2]：不能争辩说强奸不涉及优先权，因为强奸是一种行为，正如我们前面所讨论的，所有行为都涉及到偏好。
 
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
+[^3]：注意，我不建议个人偏好可能是暴力强加给其他人，因为这是违反UPB，即道德规则必须如果他们不是绝对的、普遍的–，他们陷入了APA的领土，所以不能强加给别人。
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]：我们可以避免增加强奸的可能性，但我们不能避免正在进行的强奸。
+

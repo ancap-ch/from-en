@@ -66,7 +66,7 @@ Last generated:
 
 | file name | translated | reviewed | words | translators | arbitrary | arbitrary |
 | - | - | - | - | - | - | - |
-| essay.md | :x: | :x: | 1k 220 | | | | | |
+| essay.md | :o: | :x: | 1k 220 | jmotip | | | | |
 
 </details>
 
@@ -82,7 +82,7 @@ Last generated:
 
 | file name | translated | reviewed | words | translators | arbitrary | arbitrary |
 | - | - | - | - | - | - | - |
-| 01_speech.md | :x: | :x: | 7k 100 | | | | | |
+| 01_speech.md | :o: | :x: | 7k 100 | jmotip | | | | |
 
 </details>
 
@@ -99,7 +99,7 @@ Last generated:
 
 | file name | translated | reviewed | words | translators | arbitrary | arbitrary |
 | - | - | - | - | - | - | - |
-| intro.md | :x: | :x: | 5k 050 | | | | | |
+| intro.md | :o: | :x: | 5k 050 | jmotip | | | | |
 | < more files to be added > | :x: | :x: |  | | | | | |
 
 </details>

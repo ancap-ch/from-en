@@ -22,8 +22,8 @@ Nun: Wie steht es um das Verhältnis zwischen Liberalismus und Alt-Right und um 
 
 1. Wie man eine einmal erreichte libertäre Ordnung aufrechterhalten kann;
 2. Wie erreicht man eine libertäre Ordnung von einem nicht-libertarischen Ausgangspunkt aus, der erfordert:
-....1. Dass man diesen Ausgangspunkt richtig beschreiben muss;
-....2. Identifizieren Sie die Hindernisse richtig, die sich auf dem Weg zu den libertären Zielen des Einzelnen auftun, und zwar genau an diesem Ausgangspunkt.
+::::1. Dass man diesen Ausgangspunkt richtig beschreiben muss;
+::::2. Identifizieren Sie die Hindernisse richtig, die sich auf dem Weg zu den libertären Zielen des Einzelnen auftun, und zwar genau an diesem Ausgangspunkt.
 
 Um diese Fragen zu beantworten, benötigen Sie neben der Theorie auch Kenntnisse der Humanpsychologie und Soziologie oder zumindest ein Minimum an gesundem Menschenverstand. Dennoch sind viele Libertäre und falsche Libertäre schlichtweg unwissend über die menschliche Psychologie und Soziologie oder gar ohne jeden gesunden Menschenverstand. Sie akzeptieren blind, entgegen allen empirischen Beweisen, eine egalitäre, leere Sichtweise der menschlichen Natur, wobei alle Menschen und alle Gesellschaften und Kulturen im Wesentlichen gleich und wechselseitig austauschbar sind.
 
@@ -68,8 +68,8 @@ Außerhalb egalitärer Phantasielandschaften müssen Libertäre aber in der real
 Diese sind:
 
 1. Die herrschenden Eliten, die den Staatsapparat und insbesondere den "Deep State" oder die sogenannte "Kathedrale" des Militärs, der Geheimdienste, der Zentralbanken und der obersten Gerichte kontrollieren. Dazu gehören auch: 
-....1. Die Führer des militärisch-industriellen Komplexes, d.h. der nominell privaten Firmen, die ihre Existenz dem Staat als ausschließlicher oder dominanter Käufer ihrer Produkte verdanken;
-....2. Die Führer der großen Geschäftsbanken, die ihr Privileg, Geld und Kredite aus dem Nichts zu erschaffen, der Existenz der Zentralbank und ihrer Rolle als "Lender of last resort" verdanken. Sie bilden dann gemeinsam mit dem Staat, dem Big-Business und dem Big-Banking eine extrem mächtige, wenn auch winzige "gegenseitige Bewunderungsgesellschaft", die gemeinsam die riesige Masse der Steuerzahler abzieht und auf ihre Kosten großartig lebt.
+::::1. Die Führer des militärisch-industriellen Komplexes, d.h. der nominell privaten Firmen, die ihre Existenz dem Staat als ausschließlicher oder dominanter Käufer ihrer Produkte verdanken;
+::::2. Die Führer der großen Geschäftsbanken, die ihr Privileg, Geld und Kredite aus dem Nichts zu erschaffen, der Existenz der Zentralbank und ihrer Rolle als "Lender of last resort" verdanken. Sie bilden dann gemeinsam mit dem Staat, dem Big-Business und dem Big-Banking eine extrem mächtige, wenn auch winzige "gegenseitige Bewunderungsgesellschaft", die gemeinsam die riesige Masse der Steuerzahler abzieht und auf ihre Kosten großartig lebt.
 2. ([E]ine viel größere Gruppe von Feinden besteht aus) Intellektuellen, Pädagogen und "Edukraten", von den höchsten akademischen Ebenen bis hinunter zur Ebene der Grundschulen und Kindergärten. Fast ausschließlich, ob direkt oder indirekt, vom Staat finanziert, sind sie in ihrer überwältigenden Mehrheit zu den weichen Werkzeugen und willigen Henkern in den Händen der herrschenden Elite und ihrer Entwürfe für absolute Macht und totale Kontrolle geworden.
 3. Die Journalisten der MSM, als die gefügigen Produkte des Systems der "öffentlichen Bildung", und die feigen Empfänger und Popularisierer von Regierungsinformationen.
 
