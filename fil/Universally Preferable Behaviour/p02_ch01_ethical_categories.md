@@ -18,7 +18,7 @@ Sa isip, dapat nating magawa ang mga ito hanggang sa dalawang kategorya lamang �
 
 Halimbawa, sinasabi ng Non-Aggression Principle (NAP) na ang pagsisimula ng paggamit ng puwersa ay imoral – kaya ang di-pagsisimula ng paggamit ng puwersa ay higit na mas mainam, habang ang pagsisimula ng paggamit ng lakas ay ipinagbabawal sa lahat. Kung ang pinagbawalan ay simpleng kabaligtaran ng kung ano ang mas mainam, diyan ay talagang hindi na kailangan para sa isang karagdagang kategorya.
 
-Bukod dito, bilang moral na mga pilosopo, dapat nating unahin ang ating pagsusuri sa rasyonal na etika sa pamamagitan ng pagtutok sa mga pinakamahirap na paglabag. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+Bukod dito, bilang moral na mga pilosopo, dapat nating unahin ang ating pagsusuri sa rasyonal na etika sa pamamagitan ng pagtutok sa mga pinakamahirap na paglabag. Malinaw, ang mga pinaka imoral na aksyon ay dapat ang marahas na pagpapatupad ng hindi makatarungang mga kagustuhan sa iba. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
 
 Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
 
