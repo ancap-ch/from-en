@@ -6,9 +6,9 @@ Mayroong ibang karagdagang mga patunay na kaya nating matiia ang katanungan ng h
 
 Ang isang malayang pamilihan ay walang duda na pinakamahusay at paraan ng paggawa ng kayamanan ng pagsasaayos ng produksyon at pagkonsumo ng mga kalakal at yaman sa loob ng lipunan. Ang materyal na tagumpay ay walang kapantay sa kasaysayan ng tao, o sa kabuuan ng mundo.
 
-The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
+Ang balangkas ng UPB ay umasam, nagpapatunay at nagpaliwanag ng mga dahilan para sa materyal na mga tagumpay ng ekonomiya ng malayang pamilihan.
 
-In theory, a free-market economy is based on the application of a universal theory of property rights. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+Sa teorya, ang malayang pamilihan ay base sa aplikasyon ng unibersal na teorya ng karapatan sa ari-arian. Sa kabilang dako, ang komunismo ay base sa malinaw na pagtanggi ng unibersal na teorya ng karapatan sa ari-arian. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
 
 Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
 
