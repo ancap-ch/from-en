@@ -2,7 +2,7 @@
 
 A questão da *mentira* é interessante porque dizer a verdade, geralmente, é considerado universalmente preferível, mas não exigível através da violência.
 
-It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
+Geralmente, é considerado um requisito *mais* rigoroso do que "ser pontual", mas *menos* rigoroso do que "roubar". O que é que a estrutura CUP tem a dizer sobre isso?
 
 Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
 
