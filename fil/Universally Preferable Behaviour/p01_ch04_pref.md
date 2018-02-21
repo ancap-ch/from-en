@@ -82,9 +82,9 @@ Hindi naman ibig sabihin nito na ang aking obhetibong pamantayan ay *lohikal* - 
 
 Kapag sinabi ko sa iyo na ang mundo ay patag, at ikaw ay sumagot na ang mundo ay hindi patag, ngunit bilog, ngayon ay bahagya mong tinatanggap ang aksom na ang katotohanan at kamalian ay kapwa obhetibong umiiral, at ang katotohanan ay mas mainam kaysa kamalian.
 
-Kapag sinabi ko sa iyo na gusto ko ng sorbetes na tsokolate, at sabihin mo sa akin na gusto mo ng vanilla, ito ay imposible "patunayan" na ang vanilla ay obhektibong mas mainam kaysa tsokolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Kapag sinabi ko sa iyo na gusto ko ng sorbetes na tsokolate, at sabihin mo sa akin na gusto mo ng vanilla, ito ay imposible "patunayan" na ang vanilla ay obhektibong mas mainam kaysa tsokolate. Sa sandali na iwasto mo ako sa pagtukoy sa obhektibong *katotohanan*, iyong tinatanggap na ang obhektibong katotohanan ay umiiral, at ang obhektibong katotohanan na ito ay * katanggap-tanggap pandaigdig* sa pansariling pagkakamali.
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### Saligan 7: Mapayapang Pakikipagtalo Ay Ang Pinakamabuting Paraan Para Ayusin ang mga Pagtatalo
 
 If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
 
