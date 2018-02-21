@@ -36,16 +36,16 @@ persons:
     rule: "ang manunulat"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "collaborator"
+    identifier: "template_tao"
+    rule: "ang tagatulong"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "thanked"
+    identifier: "template_tao"
+    rule: "pinasalamatan"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "translator"
+    identifier: "template_tao"
+    rule: "ang tagasalin"
   - 
     person: [ ]
     identifier: "template_person"
