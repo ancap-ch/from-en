@@ -21,55 +21,55 @@ discussions:
 more_infos:
   - 
     - https://www.google.com
-    - Website name
+    - Pangalan ng Website
 tags:
-  - Some Tag
-  - Another Tag
-  - And so on
+  - Ilang tag
+  - Isa pang tag
+  - At marami pang iba
 tag_prefix: "https://en.ancap.ch/tags/"
 persons:
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "author"
+    identifier: "template_tao"
+    rule: "may-akda"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "collaborator"
+    identifier: "template_tao"
+    rule: "tagatulong"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "thanked"
+    identifier: "template_tao"
+    rule: "pinasalamatan"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "translator"
+    identifier: "template_tao"
+    rule: "tagasalin"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "reviwer"
+    identifier: "template_tao"
+    rule: "tagasuri"
   - 
     person_: [ ]
-    identifier: "template_person"
-    rule: "cover_artist"
+    identifier: "template_tao"
+    rule: "balot_artista"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "artist"
+    identifier: "template_tao"
+    rule: "artista"
 resources:
   - 
     resource: [ ]
-    rule: "front_cover"
-    content: "cover.png"
+    rule: "unahan_balot"
+    content: "balot.png"
     websites:
-      - Resource website
-    description: Resource description
+      - Pinagkunan website
+    description: Pinagkunan ng paglalarawan
     persons:
-      - "template_person"
+      - "template_tao"
 targets:
   - 
     target: [ ]
-    name: article
+    name: artikulo
     reset_footer_active: false
     reset_footer_depth: 0
     clear_page_active: true
