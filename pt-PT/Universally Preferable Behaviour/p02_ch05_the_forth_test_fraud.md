@@ -4,9 +4,9 @@ Exactamente no limite do que, geralmente, é considerado ético, assenta-se o de
 
 A fraude é a obtenção de valor através de uma representação falsa. Se eu disser que lhe vou enviar um iPod, se me der duzentos dólares e depois tomo o seu dinheiro sem lhe enviar o iPod, percebemos instintivamente que essa é uma forma de roubo.
 
-Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
+Vamos colocar o problema da fraude através do moinho do CUP e ver se ele resiste.
 
-Clearly, fraud requires that one person *not* be engaged in fraud. In the above potential transaction, if I am hoping to steal your two hundred dollars, and you are hoping to steal my iPod, nothing will come of it. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
+Evidentemente, a fraude exige que uma pessoa *não* esteja envolvida na fraude. Na transacção potencial anterior, se eu estiver à espera de roubar os seus duzentos dólares, e você à espera de roubar o meu iPod, não haverá nada disso. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
 
 Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
 
