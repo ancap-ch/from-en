@@ -1,8 +1,8 @@
 ### "huwag kakain ng isda"
 
-What would be the status of the moral proposition: “It is evil to eat fish”?
+Ano ang pwedeng katayuan ng morall ng proposisyon: "ito ay masama kumain ng isda"? Masamang kumain ng isda"?
 
-Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
+Maliwanag, itong proposisyon ay parang sang-ayon sa ilang mga kakailanganin ng UPB - ito ay makikita sa pangkalahatan, independe sa oras at lugar, at relatibong obhetibo.
 
 Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
 
