@@ -10,9 +10,9 @@ Tulad ng nabanggit sa itaas, ang mga panukala tungkol sa pag-uugali ng higit sa 
 2. Ito ay positibong aesthetically (pangkalahatang higit na mainam ngunit hindi maipatupad sa pamamagitan ng karahasan, tulad ng “kagandahang-asal” at “pagiging nasa tamang oras”).
 3. Ito ay personal na positibo (anuman sa hindi pangkaraniwan lalong kanais-nais o maaaring maipatupad, tulad ng isang predilection para kumain ng ice cream).
 4. Ito ay walang pinapanigan, o walang etikal o aesthetic na laman, tulad ng pagpapatakbo para sa isang bus.
-5. Ito ay personal na negatibo (predilection para hindi kumain ng ice cream).
-6. Ito ay aesthetically negatibo (“kabastusan” at “pagiging late”).
-7. Ito ay masama (pangkalahatang ipinagbabawal) (“panggagahasa”).
+5. Ito ay personal na negatibo (gustuhin para hindi kumain ng ice cream).
+6. Ito ay aesthetically negatibo (“kawalang-galang” at “pagiging huli”).
+7. Ito ay masama (ipinagbabawal sa lahat) (“panggagahasa”).
 
 Sa isip, dapat nating magawa ang mga ito hanggang sa dalawang kategorya lamang – higit na mas mainam at positibong positibo – sa pamamagitan ng pagtukoy sa ating etikal na panukala upang ang ipinagbabawal sa lahat ay isang salamin na larawan ng kung ano ang higit na mas mainam, at ang paghuhukay lamang ng personal na mga kagustuhan at neutral na mga aksyon na walang kaugnayan sa isang diskusyon ng etika.
 
