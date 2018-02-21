@@ -62,7 +62,7 @@
             
             * **نیچے کے سلسلے وصول کرنے والے.**
                 
-                A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+                ایک. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
                 
                 B. لائسنس دہندگان سے اضافی پیشکش - اپنایا شدہ مواد. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.
                 
@@ -74,17 +74,17 @@
             
             1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
             
-            2. Patent and trademark rights are not licensed under this Public License.
+            2. اس پبلک لائسنس کے تحت پیٹنٹ اور ٹریڈ مارک کے حقوق لائسنس یافتہ نہیں ہیں.
             
-            3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
+            3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. دیگر تمام معاملات میں لائسنس یافتہ اس طرح کے شاہی حق کو جمع کرنے کا حق محفوظ رکھتا ہے.
             
-            ### Section 3 – License Conditions.
+            ### سیکشن 3 - لائسنس کی شرائط.
             
-            Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+            لائسنس یافتہ حقوق کا آپ کا اظہار واضح طور پر مندرجہ ذیل شرائط پر مبنی ہے.
             
             a. ***Attribution.***
             
-            1. If You Share the Licensed Material (including in modified form), You must:
+            1. اگر آپ لائسنس یافتہ مواد کو تقسیم کرتے ہیں (بشمول ترمیم شدہ فارم)، تو آپ لازمی کریں:
                 
                 A. retain the following if it is supplied by the Licensor with the Licensed Material:
                 
@@ -103,17 +103,17 @@
                 
                 C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
             
-            2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+            2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. مثال کے طور پر، حالات کو مطمئن کرنے کے لئے یہ مناسب ہوسکتا ہے ایک ایسی وسائل کے لئے یو آرآئ یا ہائپر لنک فراہم کرکے جس میں ضروری معلومات شامل ہیں.
             
             3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
             
             b. ***ShareAlike.***
             
-            In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.
+            سیکشن 3 (ا) کے حالات کے علاوہ، اگر آپ اپنانے والے مواد کو تقسیم کرتے ہیں تو آپ پر مندرجہ ذیل حالات بھی لاگو ہوتے ہیں.
             
             1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.
             
-            2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
+            2. اڈاپٹر کی لائسنس جو آپ نے ایپلائی کیا ہے. آپ ٹیکسٹ کو، یا یو آر آئی یا ہائپر لنکس کو لازمی شامل کریں. آپ درمیانی بنیاد پر اس حالت کو کسی مناسب طریقے سے مطمئن کر سکتے ہیں، مطلب، اور سیاحت جس میں آپ اپنانے والے مواد کو تقسیم کرتیں ہیں.
             
             3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
             
@@ -127,7 +127,7 @@
             
             c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
             
-            For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+            شبہ سے بچنے کے لئے، یہ سیکشن 4 اس پبلک لائسنس کے تحت آپ کی ذمہ داریوں کو تبدیل نہیں کرتا ہے جہاں لائسنس یافتہ حقوق دیگر کاپی رائٹ اور اسی طرح کے حقوق شامل ہیں.
             
             ### Section 5 – Disclaimer of Warranties and Limitation of Liability.
             
