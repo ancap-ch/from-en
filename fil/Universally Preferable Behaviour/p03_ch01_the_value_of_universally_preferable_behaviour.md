@@ -2,8 +2,8 @@
 
 Ang bagong teorya ay may maliit na halaga kung ito ay pumupunto lamang sa halata. Kung ang pisika ay nagbibigay ng tumpak na paglalarawan kung paano tayo sasalo ng bola, ang pisika ay hindi magiging kapaki-pakinabang na habulin, dahil *kaya* na natin sumali ng bola. Ang pagtuklas na ang mundo ay bilog ay tulong sa malayong distansya ng nabigasyon sa kabuuan ng dagat - wala itong nagawang tulong sa atin na mapunta sa ibabang bayan ng kabuuang mekanika na naging kapaki-pakinabang lamang kung ang ibang pamamaraan ay hindi kayang ibigay ang kailangang katumpakan - hindi ito makakatulong sa pagbuo ng kotse.
 
-In the same way, the UPB framework, and the moral rules that it validates or rejects, should ideally provide us with some startling insights about the world that we live in, and our relations to each other.
+Sa parehong paraan, ang balangkas ng UPB, at ang mga panuntunang moral na nagbibigay patunay o tumatanggi, ay nararapat na nagbigay sa atin ng ilang makagugulat na kaalaman tungkol sa mundo na ating tinitirhan, at ang ating relasyon sa isa't-isa.
 
-If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
+Kung ang lahat lamang ng ginawa ng UPB ay patunay na ang panggagahasa, pagpatay at pang uumit ay moral na kamalian, hindi ito makaka dagdag ng halaga, dahil halos walang naniniwala na ang mga bagay na iyon ay moral na tama sa simula palang.
 
-Thus let us begin applying this framework to the world that we live in, and see what value comes out of it.
+At simulan na natin ilapat ang balangkas na ito sa mundo na ating tinitirahan, at makita kung ano ang halaga na lalabas mula dito.
