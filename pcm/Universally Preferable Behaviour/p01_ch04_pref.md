@@ -51,58 +51,58 @@ For another word, if you fit get to d top of one mountain, if you dey wish for i
 
 If I choose to argue, I don accept many different premise wey worth my time to stop here.
 
-#### Premise 1: We Both Exist
+#### Premise 1: Two of us dey exist
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+If I choose to argue with you, then I nor need to accept say two of us dey exist. If I believe say I dey exist, but you nor believe, then to dey argue  nor go make sense, and e go be d action of madman. If I dey argue with myself for mirror, make dem sedate me and not to dey argue with me.
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+#### Premise 2: D Sense get d capacity to dey correct
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Since human beings nor go fit use psychic way take communicate, all d arguments involve d use of our sense. Writing go suppose come before sight; to talk require to dey hear; Braille go require touch. Any relation wey depend on say d senses nor dey true dey automatically destroy same person.
 
-#### Premise 3: Language Has The Capacity For Meaning
+#### Premise 3: Language Get D Capacity To Mean Something 
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+Like as Premise Two be, since all d arguments need language, any relation wey rest for d premise say language dey meaningless go dey disapproved immediately. To use language take dey argue say language nor get meaning be like say you dey use courier take dey send message and you dey argue say courier nor dey deliver message.
 
-#### Premise 4: Correction Requires Universal Preferences
+#### Premise 4: Correction Require Wetin Dem Prefer Everywhere For The World
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+If you correct me for one mistake wey I make, you dey closely accept d fact say e go dey better for me to correct my own mistake. Wetin you prefer for me to correct my mistake nor be personal felling, but open to catch and for everywhere.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+You  nor go say to me: “Make you change your opinion to my own because I go prefer am,” but rather: “Make you correct your opinion because e dey purposely incorrect.” My mistake nor arise from say I nor agree with you, but e come a result of my dodge from one purpose standard of truth. Your argument say make I correct my false opinion relax on value of truth wey dey to accomplish – that is, truth dey preferable everywhere for d world to error, and truth na wetin dem wan accomplish everywhere for d world.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### Premise 5: Objective Methodology Dey Exist To Separate Truth From Falsehood
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+If you disagree with me, but I tell you say you must agree with me because I dey always dey right, e dey unlikely say you go dey satisfied by d  way my argument take dey careful. If you provide good reason as to why I dey wrong, but I just keep to dey repeat say I dey right because I always dey right, our interaction go scarce to put for category as a debate.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+D moment wey I provide some kind of things wey I go used take determine truth from falsehood, I dey accept say truth dey more than opinion matter.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+Dis one nor mean say things wey I dey try accomplish dey logical – I fit refer you to one religious text, for example. Anyhow as e be, even if I do so, I still dey accept say d truth na something wey dey required and e d ey independent of positive statement of wetin person talk take support – say one purpose methodology dey exist take dey separate truth from falsehood. 
 
-#### Premise 6: Truth Is Better Than Falsehood
+#### Premise 6: Truth Better Pass Falsehood
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+If I tell you say d world dey flat, and you reply say d world nor dey flat, but round, then, you dey closely dey accept d fact say truth and falsehood dey exist to accomplish d same thing, and say truth better pass falsehood.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+If I tell you say I like chocolate ice cream, and you tell me say you like vanilla, e dey impossible to “prove” say vanilla dey purposely better pass chocolate. D  moment wey you correct me with reference to facts, you dey accept say open facts dey exist, and say open truth dey preferable everywhere for d world to error wey dey submissive. 
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### Premise 7: Peaceful Argument Na D Best Way To Resolve Dispute
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+If I tell you say d world dey flat, and you kon pull your gun come out and shoot me, dis one go rarely be  one example of argument wey dey productive. True true, our disagreement for don “resolve” – but because only one us dem leave dey stand for there at the end.
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+If you first  tell me before say you go deal with any disagreement by to shoot me, I go unlikely engage for argument with you. So, e clear say any argument go rely on d premise wey nor too show say evidence, reason, truth and objectivity be d “wetin dey preferred everywhere for d world” method wey dem take dey resolve quarrel between people. E go dey completely senseless to argue say differences of opinion go dey resolved by to dey use violence – d only consistent argument for d value of violence na d use of violence.[^4]
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+As e real, then, argument go require one d methodology of one purpose, through language wey dey meaningful, for d truth wey dey everywhere for d world wey dem dey chase, and e kon be wetin dey purposely preferred to person mistake.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+Dis wetin dey preferred for truth wey dey everywhere for d world nor be wetin dey preferred for degree, but for kind. One shortcut wey dey reduce your driving time by half na twice e good for route wey dey longer – but of dem dey preferable to dey drive for complete wrong direction.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+For d same way, d truth nor just “better” pass mistake – e dey preferable or na wetin dem require.
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### Premise 8: Na People Dey Responsible For Their Actions
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+If I argue say human beings nor dey responsible for their actions, I dey catch up for wetin I nor fit understand, e kon be d question of whether or not I dey responsible for my argument, and also whether or not you dey responsible for your response.
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+If my argument say human beings nor dey responsible for their action na true, then I nor dey responsible for my argument, and you nor dey responsible for your reply. Anyhow as e be, if I believe say you nor dey responsible for your reply, e go take small sense wey dey precious take make d argument go advance – e go be exactly d same as to dey argue with television set.[^5]
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+So, for d basis, if I tell you say you nor dey responsible for your actions, I dey tell you say e dey preferred everywhere for d world for you to believe say wetin dey preferred dey impossible, since if you nor get control over your actions, you nor go fit choose state to dey preferred, that is, truth over falsehood. So dis argument, like d argument before, dey destroy person.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^4]: E go dey useful to dey keep dis particular premise for mind, since e go dey very important later on.
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]: D question of responsibility na, of course, dey very related to d question of free will versus determinism, and e go be d subject of another book.
