@@ -92,7 +92,7 @@ Kung sinabi mo sa akin sa simula palang na haharapin mo ang kahit anong di-pagka
 
 Sa kabuuan, pagkatapos, ang pagdedebate ay nangangailangan ng obhektibong pamamaraan, sa pamamagitan ng makahulugan wika, sa pagtugis sa unibersal na katotohanan, na kung saan ay obhektibong kanais-nais sa personal na kamalian.
 
-Ang kagustuhan para sa unibersal na katotohanan ay hindi kagustuhan sa *antas*, kundi sa *uri*. Ang shortcut ay nagbabawas ng oras sa pagmamaneho sa kalahati ng dalawang beses namabuti kaysa sa mahabang ruta - ngunit pareho ay *higit na mabuti kaylanman* sa pagmamaneho sa maling direksyon.
+Ang kagustuhan para sa unibersal na katotohanan ay hindi kagustuhan sa *antas*, kundi sa *uri*. Ang shortcut ay nagbabawas ng oras sa pagmamaneho sa kalahati ng dalawang beses kaysa sa mahabang ruta - ngunit pareho ay *higit na mabuti kaylanman* sa pagmamaneho sa maling direksyon.
 
 Sa parehong paraan, ang katotohanan ay hindi lang "mas mabuti" kaysa sa mali - ito ay *higit na mabuti kailanman*, o kailangan.
 
@@ -106,4 +106,4 @@ Sa gayon, sa panimula, kapag sinabi ko na ikaw ay hindi responsable sa iyong mga
 
 [^4]: Magiging kapaki-pakinabang na itabi ang partikular na saligan na ito sa isipan, dahil ito ay magiging importante sa kalaunan on.
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]: Ang tanong ng responsibilidad ay, syempre, medyo mag kaugnayan sa tanong ng sariling kusa laban sa pakadeterminado, kung saan sunod na paksa sa ibang aklat.
