@@ -14,7 +14,7 @@ Ito ay tila walang isip na makipagtalo sa akin - subali'tbkt?
 
 May mga ilang obhetibo na mga limitasyo sa panglahatang doktrinang ito. Sa halimbawa, may mga ilang tao na walang kaugnayan sa isda - pwede sila ay naninirahan sa desyerto, ang sabi - habang ang iba ay namumuhay sa lawa na masagana sa mga isda, at mahirap o hindi maaring mabuhay ng hindi kumakain sa kanila. Gayunman, na hindi gaanong sapat, sapagkat tinanggap na namin na ang katotohanan na ang kawalan ng kakayahan ng eunuch sa paggahasa ay hindi mapawalang-bisa ang moral na proposisyon "ang paggahas ay masama."
 
-No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
+Huwag, ang "ang pulang herring"sa moral na proposisyon "masamang kainin ang isda" ito ang salita "*isda*."
 
 A scientist cannot validly say that his theory of gravity only applies to pink rocks. Since his theory involves gravity, it must apply to *all* entities that have mass.
 
