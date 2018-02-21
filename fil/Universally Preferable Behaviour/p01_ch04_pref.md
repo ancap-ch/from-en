@@ -100,7 +100,7 @@ Sa parehong paraan, ang katotohanan ay hindi lang "mas mabuti" kaysa sa mali - i
 
 Kung ako ay makipagtalo na ang mga tao ay hindi responsable para sa kanilang mga kilos, ako ay naiipit sa kabalintunaan, kung saan ang tanong ng *kung o hindi ako ang responsable para sa aking argumento, at kung o hindi din ako ang responsable sa iyong tugon*.
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+Kung ang argumento ko na ang mga tao ay *hindi* responsable para sa kanilang mga kilos ay totoo, kaya ako ay hindi responsable para sa aking argumento, at ikaw ay hindi responsable para sa iyong tugon. Gayunman, Kung ako ay maniwala na ikaw ay hindi responsable para sa iyong tugon, ito ay magkakaroon ng perpektong maliit na diwa upang umusad sa isang argumento - ito ay eksaktong pareho gaya ng pakikipagtalo sa telebisyon.[^5]
 
 Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
 
