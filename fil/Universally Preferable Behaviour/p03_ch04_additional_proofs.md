@@ -24,7 +24,7 @@ Dahil ang anumang pamamaraan para sa pagtatamo ng kaalaman ay kailangang pandaig
 
 ### Pampublikong Edukasyon
 
-One central principle of free market economics is that quality only really results from *voluntarism*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
+Isang pangunahing prinsipyo ng ekonomiks ng malayang pamilihan na ang kalidad ay resulta lamang mula *voluntatism*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
 
 The initiation of the use of force is always counter to any rational moral theory – it is a specific and explicit violation of UPB. Since public schools are funded through the initiation of the use of force, they are a form of *forced association*, which is a clear violation of the *freedom of association* validated by UPB.
 
