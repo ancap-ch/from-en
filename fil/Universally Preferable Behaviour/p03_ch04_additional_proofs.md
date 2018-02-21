@@ -4,7 +4,7 @@ Mayroong ibang karagdagang mga patunay na kaya nating matiia ang katanungan ng h
 
 ### Ang Ekonomiya ng Malayang-Pamilihan
 
-A free-market economy is without a doubt the most efficient and wealth-producing method of organising the production and consumption of goods and resources within society. Its material success is without equal in human history, or across the world.
+Ang isang malayang pamilihan ay walang duda na pinakamahusay at paraan ng paggawa ng kayamanan ng pagsasaayos ng produksyon at pagkonsumo ng mga kalakal at yaman sa loob ng lipunan. Ang materyal na tagumpay ay walang kapantay sa kasaysayan ng tao, o sa kabuuan ng mundo.
 
 The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
 
