@@ -20,11 +20,11 @@ Halimbawa, ang Non-Aggression Principle (NAP) ay nagsaad na ang pagsisimula ng p
 
 Bukod dito, bilang moral na mga pilosopo, dapat nating unahin ang ating pagsusuri sa rasyonal na etika sa pamamagitan ng pagtutok sa mga pinakamahirap na paglabag. Malinaw, ang mga pinaka imoral na aksyon ay dapat ang marahas na pagpapatupad ng hindi makatarungang mga kagustuhan sa iba. Kung ang mga aksyon na katulad ng “pagnanakaw” o “pagpatay” ay tinukoy bilang UPB, ang pagsusuri sa gayong mga kahulugan ay dapat ang aming pinakamataas na priyoridad.
 
-Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
+Kaya dapat nating pagtuunan ang ating mga pagsisikap lalo na sa mas higit na kahusayan at maipatutupad na mga pagkilos.
 
-### Virtue And Its Opposite
+### Ang Kabutihan At ang Kabaligtaran nito
 
-The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil.” If I propose the moral rule, “thou shalt not steal,” then stealing must be evil, and *not* stealing must be good. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
+Ang kabaligtaran ng “kabutihan” ay dapat “bisyo” – ang kabaligtaran ng “mabuti” ay dapat “masama.” kung ipanukala ko ang moral na tuntunin na, “huwag kang magnanakaw,” pagkatapos ay ang pagnanakaw ay dapat na masama, at ang *hindi* pagnanakaw ay dapat na mabuti. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
 
 Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
 
