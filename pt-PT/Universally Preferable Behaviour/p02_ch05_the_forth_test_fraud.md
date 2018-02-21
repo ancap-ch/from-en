@@ -14,11 +14,11 @@ Para voltar às nossas infelizes cobaias morais, o que é que aconteceria se ped
 
 Então o que é que acontece?
 
-Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
+Logicamente, o princípio de que a "fraude é boa" não pode ser aplicado por Doug e Bob simultaneamente - já que, para cometer fraude, Bob deve agir honestamente e Doug com desonestidade. Assim, para habilitar a acção "moral" de Doug, Bob deve agir "imoralmente"
 
-UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
+O CUP destrói essa possibilidade, já que nenhuma teoria moral válida, pode exigir acções opostas sob as mesmas circunstâncias.
 
-If Doug commits fraud on Bob with the justification that “it is good to lie to get what you want,” then clearly it must also be good to be honest as well, since it is impossible to get what you want by lying unless other people are willing to assume your honesty. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
+Se Doug cometer uma fraude com Bob, com a justificação de que "é bom mentir para obter o que se quer", então, também deve ser bom ser honesto, uma vez que é impossível obter o que se quer com mentiras, a menos que as outras pessoas estejam dispostas a assumir a sua honestidade. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
 
 This is how we know that fraud is wrong.
 
