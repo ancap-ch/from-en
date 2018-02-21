@@ -98,7 +98,7 @@ Sa parehong paraan, ang katotohanan ay hindi lang "mas mabuti" kaysa sa mali - i
 
 #### Saligan 8: Ang mga Tao ay Responsable Para sa Kanilang mga Kilos
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+Kung ako ay makipagtalo na ang mga tao ay hindi responsable para sa kanilang mga kilos, ako ay naiipit sa kabalintunaan, kung saan ang tanong ng *kung o hindi ako ang responsable para sa aking argumento, at kung o hindi din ako ang responsable sa iyong tugon*.
 
 If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
 
