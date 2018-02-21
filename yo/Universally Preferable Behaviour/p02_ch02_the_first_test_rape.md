@@ -38,69 +38,69 @@ Ní àsìkò yìí, kíkọ náà yíò ṣe fi ọpọlọ mú wá wipe tí ọ
 
 Èròngbà lórí "yiyara fún" yíò ṣiṣẹ ni ipò daada gẹgẹbi yíò ti ṣiṣẹ ni ipò àìdá. Ti mo bá pàdánù nkán ọkùnrin mi nínú ìjàmbá nla kan, ṣe mo ni ìwà rere fún iyẹra fún ifipábanilopọ̀? Yíò le láti jiyàn pé mò lè jẹ bẹ, nígbàtí ifipábanilopọ̀ ko lè ṣeéṣe fún mi. Bákannáà, a lè pè ọkùnrin kan ni "oninurere" tó bá fún alágbe ni ọgọrùn dọ́là  - sibẹsibẹ, a má ṣe ìyípadà ìpinnu wa ti ó ba já sí wípé ó fún lówó náà lójú orun, tó sì kó abamọ ìwà náà lẹyìn tó jí.
 
-Thus we can reasonably say that where choice is absent, or inapplicable, morality is also absent, or inapplicable. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
+A jẹ pé a lè fi ọpọlọ sọ wipe ibi ti àti yàn kò bá sí, tàbí kó ṣe mú lò, ìwà náà kò lè sí, tàbí kó ṣe mú lò. A jẹ pé okùnrin kan tó wà ní ojú orun ailopin, nígbàtí ìhùwàsí rẹ kò ṣe ká sì àìdá, bẹ nà ni kò ṣe ká sì dáadáa. Ó wa ni ipò tí kò lè yàn, bí ọmọdé, tàbí ẹranko - a jẹ pé a lè yọ kuro nínú àwọn òfin ìwà, nígbàtí ipò ara ti wà tó mú yàtọ sí ọkùnrin kan tó lè yàn nkan tó wù, èyí tí a lè gbà labẹ UPB.
 
-With that in mind, let us continue our examination of rape.
+Pẹlú èyí lọkàn, ẹ je kí a má ba àyẹwò ifipábanilopọ̀ wa lọ.
 
-### Aesthetically Positive
+### Èyí tí a ro wípé ọ dára
 
-Aesthetically positive actions (APAs) are universally preferable, but not enforceable through violence, since aesthetically negative actions do not initiate the use of force. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
+Awọn ìhùwàsí ti a ro wipe ó dara (APAs) jẹ ohun ti àgbáyé nifẹ si, ṣugbọn kò ṣe mú pẹlu ipá, nígbàtí ìhùwàsí ti a rò wípé kò da kò ní ipilẹṣẹ lílo ipá. Gẹgẹbi a tí jíròrò lókè, tí mo bá pẹ́ láti pàdé ẹ, mi ó ni ipilẹṣẹ lílo agbára pẹlu rẹ, ati pé mi kò yọ ìkápá rẹ láti yàn, tàbí yẹra fún ìṣẹlẹ náà.
 
-If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
+Ti a bá sọ wípé àwọn APAs ba má gbà ìmúlò pẹlú ipá, a jẹ pé a n sọ wípé ipilẹṣẹ ipá jẹ ìwà dáadáa.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+Ti a bá gbèrò òfin ìwà kan wípé ipilẹṣẹ ipa je ìwà dáadáa, a jẹ́ wípé òfin yìí yíò kojú gbogbo aiṣeéṣe ọgbọn gẹgẹbi òfin wípé "ifipábanilopọ̀ jẹ ìwà dáadáa."
 
-Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+Awon ọkùnrin méjì ninu iyàrá kan kò lè ní ìwà dáadáa lásìkò kànna, nígbàtí ọ̀kan ninu wọn gbọdọ ma ló ipá lórí ẹnìkejì, tí ẹnìkejì  sí gbọdọ má kọ - nítorípé tí kò bá kọ, ìtumọ rẹ kò lè jẹ ipá, gẹgẹbi ọràn oníṣe abẹ tí a tí jíròrò lókè. A jẹ pé ìwà rere yíò gbà ṣiṣe pẹlú kíkọ fún ìwà rere, ati pé ọkùnrin méjì ní ìdájọ kànna kò lè ní ìwà rere lásìkò kànna, ati bẹ lọ - gbogbo èyí tó jẹ irúfin tí UPB.
 
-Thus we know that rape cannot be an APA.
+A jẹ wípé a mọ pé ifipábanilopọ̀ kò le jẹ APA
 
-We can confirm this by reviewing the reasons why “being on time” *is* an APA.
+A lè jẹrisi èyí pẹlu ṣiṣe àtúnyẹwò awọn ìdí tí "itẹle àsìkò" fí *jẹ* APA.
 
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
+Ní àkọkọ, a fi ọpọlọ ni agbọye wípé ó da diẹ láti kọ ọrẹ kan nítorípé ó n pẹ dé nigbogbo ìgbà ju bí ó ti jẹ láti kọ ọrẹ kan nítorípé kò fẹràn wàrà dídì.
 
-Why is that?
+Kí ni ìdí tó ṣe rí bẹ?
 
-Once again, the UPB framework comes to the rescue.
+Lẹẹkansi, ìlànà UPB tun wá gbà wá kalẹ.
 
-An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
+APA jẹ *òfin kan to hàn ti a lè fi ọgbọn mú lò fún àwọn méjì nígbà kànna*.
 
-For instance, if my APA is: “be on time,” then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+Fún àpẹẹrẹ, ti APA mi bá jẹ́: "má dé ni àsìkò," a jẹ pé ó lè di oṣuwọn àgbáyé ti a lè yẹra fún pátápátá. Mí ó lè fi ipá ló APA yìí lórí ẹ nítorípé kò kò nilo fún ẹ láti jẹ ọrẹ mi, kò nilo fún ẹ láti má dé ni àsìkò, ko nilo fún ẹ láti bọwọ fún tàbí tẹle nkan ti mo fẹ ni èyíkéyìí ọna.[^1]
 
-If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
+Ti "dídé ni àsìkò" ba jẹ APA, yíò ṣeéṣe fún èèyàn méjì láti ṣe àṣeyọrí lórí rẹ lásìkò kànna - ti awọn méjèèjì bá dé lásìkò.
 
-With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
+Pẹlú ifipábanílopọ̀ pàápàá, bí a ti ṣe rí lókè, kò ni ṣeéṣe fún èèyàn méjì láti rí ṣe lásìkò kànna. Ọ̀kan ninu wọn gbọdọ̀ má jẹ ẹní tí n fi ipá bá ẹnìkejì lopọ, atí pé ẹnìkejì yíò má jẹ ẹni tí wọn fi ipá bá lopọ.
 
-On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
+ Lona mìíràn, ti mo ba sọ wipe "níní ìfẹ́ sí orin jazz" jẹ APA, a jẹ pé mo ti sa wọ inú àiṣeéṣe ti ọgbọn. Rántí, awọn APAs jẹ òfin kan tó hàn ti a le fi ọgbọn mú lò fún àwọn méjì nígbà kànna - àlàyé to dára fún "níní ife sí orin jazz" ni: "ààyò tó wù èèyàn jẹ ààyò àgbáyé."
 
-Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
+Èyí kìí ṣe awọn ipò tí n takò ara wọn nipasẹ ètò nìkan, ó tún kùnà ìdánwò UPB lesekese. Ti mo ba nifẹ sí orin jazz jù awọn oríṣi orin mìíràn, ṣugbọn iwọ nifẹ sí orin classical ju awọn yòókù, ati pé ààyò ẹnìkán jẹ ààyò àgbáyé, a jẹ pé ó yẹ kó nifẹ sí orin jazz nítorípé mo nifẹ sí, tí èmi na yíò sì nifẹ sí orin classical nítorípé o nifẹ sí. Èyí, pàápàá, kò ṣeéṣe, nítorípé yíò ní lò ki àwa méjèèjì *nifẹ sí orin jazz àti classical nígbà kannáà ju oriṣi orin yòókù*. O gbọdọ yí ààyò rẹ sí orin jazz, nítorí ààyò mi - ṣugbọn èmi náà gbọdọ yí ààyò mi sí orin classical lásìkò kannáà, nítorí ààyò tiẹ. Èyí rí bí pé ká sọ wípé o gbọdọ ju bọọlu kò sí mu ni déédé àsìkò kannáà - tó jẹ  aiṣeéṣe ọgbọn àti ara kan
 
-Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
+Nígbàtí àwọn APAs kò ṣe mú lò pẹlu ipá - ó kò lè pá èèyàn nítorí pé ó pẹ dé - a jẹ pé ifipábanílopọ̀ *kò lè* jẹ APA, nígbàtí ifipábanílopọ̀ ní ìtumọ jẹ ìpalára ìbálòpọ̀ tí a fí ipá mú lò.
 
-Thus rape cannot fall into the category of APAs.
+A jẹ wípé ifipábanílopọ̀ kò lè wà nínú ìṣòrí tí APAs.
 
-### Personally Positive
+### Èyí tó jẹ dáadáa fún ẹnìkán
 
-Perhaps rape is akin to a merely personal preference.[^2]
+Pàápàá ifipábanílopọ̀ jẹ bákannáà pẹlú ààyò lásán ti enikan.[^2]
 
-The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
+Ìbéèrè yìí wà jẹyọ: ṣe ṣiṣe iyatọ ifipábanílopọ̀ gẹgẹbi ààyò lásán ẹnìkán ẹnìkán lè dúró tí ìdánwò ọlọgbọn?
 
-If we propose the moral rule: “personal preferences must be violently inflicted upon other people,” how does that stand up to the framework of UPB?[^3]
+Ti a ba gbèrò òfin ìwà: "ààyò ẹnìkán gbọdọ gba àmúlò pẹlú ipá lórí àwọn èèyàn yòókù," bawo ni èyí yíò ṣe dúró tí ìlànà tí UPB?[^3]
 
-Personal preferences cannot be justly inflicted upon other people, because that would create an insurmountable logical paradox.
+Ààyò ẹnìkán ko ṣe fi ipá mú lò lórí àwọn èèyàn mìíràn, nítorípé èyí yíò dá ọrọ ọgbọn tó takò ara wọn kalẹ tí a kò ní lè yẹra fún.
 
-If I say that liking the band Queen above all others is universally preferable behaviour, on what grounds could I justify that statement? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
+Ti mo bá sọ wípé ìfẹ́ sí ẹgbẹ akọrin Queen ju awọn yòókù lọ jẹ ìhùwàsí ti àgbáyé fẹ, lórí ìdí wo ni mo lè jẹrisi ọrọ náà? Pẹlú sísọ wípé gbogbo ààyò ẹnìkán gbọdọ gbà ìmúlò lórí àwọn èèyàn yòókù. Pàápàá, tí ààyò mi bá gba ìmúlò lórí rẹ, a jẹ pé pẹlu ìtumò UPB, ààyò rẹ yíò gbà ìmúlò lórí *èmi* naa. A jẹ pé a kò le ní ìwà rere lásìkò kannáà, nígbàtí èyí yíò nilo kí àwa méjèèjì nifẹ sí irufẹ orin wa nígbàtí a tún ju ààyò na kalẹ lásìkò kannáà fún ààyò irufẹ orin ẹnìkejì. Ní ọrọ mìíràn, mo gbọdọ ma lérò lásìkò kannáà wípé Queen je orin to da jù, ati pé Police ni orin to da jù. Èyí jẹ aiṣeéṣe ọgbọn, èyí tó ìdí pàtàkì tí ààyò ẹnìkan kò ṣe fi ipá múlò ni àgbáyé.
 
-Thus if rape is considered to be a merely personal preference, then it cannot logically be enforced upon anybody else. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
+A jẹ pé tí ifipábanilopọ̀ ba jẹ ààyò lásán ẹnìkan, kò ṣe fi ọgbọn fí ipá mú lò lórí ẹnikẹni. Lẹẹkan si, ni èrò ọkùnrin méjì nínú iyàrá kan, èyí yíò ní lò ki awọn ọkùnrin méjèèjì ní ààyò lati bá ẹnìkejì lopọ, ṣugbọn ti wọn kò rí ìpinnu náà mú lò, ni èyí tí kò ní ọgbọn nínú, ti kò sí ṣe mú lò rárá.
 
-Finally, since personal preferences cannot be enforced on others, but rape is by definition the enforcement of a “preference” upon another, rape cannot be in the moral category of merely personal preferences.
+Ni ìparí, nígbàtí ààyò ẹnìkán kò ṣe fi ipá mú lò lórí àwọn yòókù, ṣugbọn ifipábanílopọ̀ ní ìtumọ jẹ lílò ipá fún "ààyò" kan lórí òmíràn, ifipábanílopọ̀ kò lè wà nínú ìṣòrí ìwà rere ti ààyò lásán ti ẹnìkán.
 
-### Morally Neutral
+### Ìwà láàrín dáadáa àti àìdá
 
-As discussed above, rape cannot be a morally neutral action, since it is a preference that is enforced upon another.
+Bi a ti jíròrò lókè, ifipábanílopọ̀ kò lè jẹ ìhùwàsí láàrín ìwà rere àti àìdá, nígbàtí ó jẹ ààyò kan ti a fí ipá mú lórí ẹlòmíràn.
 
-### Personally Negative
+### Èyí tó jẹ àìdá fún ẹnìkán
 
-Perhaps rape is a *personally negative* action, the opposite of number three. As an example, a criminal on the run would consider capture a personally negative action (PNA).
+Pàápàá ifipábanílopọ̀ jẹ ìhùwàsí *tó jẹ àìdá lọdọ ẹnìkán*, idakeji onka kẹta. Fún àpẹẹrẹ, ọdaràn tó wà lórí eré yíò gbà mímú ohun ni ìhùwàsí àìdá lọdọ rẹ (PNA).
 
 Personally negative actions (PNAs) by definition cannot be enforced upon another. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
 
