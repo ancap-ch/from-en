@@ -90,9 +90,9 @@ Kung sabihin ko na ang mundo ay bilog, at ikaw ay bubunot ng baril at barilin ak
 
 Kung sinabi mo sa akin sa simula palang na haharapin mo ang kahit anong di-pagkakasundo sa pagbaril sa akin, ako ay malamang na hindi sumali sa debate sa iyo. Sa gayon ay malinaw na ang kahit anong debate na umaasa sa saligang pahiwatig na ang ebidensya, katwiran, katotohanan at kawalan kinikilingan ang *higit na mabuti sa lahat ng dako* na mga paraan sa paglutas ng mga pagtatalo sa pagitan ng mga indibidwal. Magiging lubusang wala sa katwiran makipagtalo na ang pagkakaiba ng opinyon ay dapat na maresolba sa paggamit ng dahas - ang tanging argumento para sa *halaga* ng karahasan ay ang paggamit ng karahasan.<sup id="fnref:4"><a href="#fn:4" class="footnote-ref"></a></sup>
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+Sa kabuuan, pagkatapos, ang pagdedebate ay nangangailangan ng obhektibong pamamaraan, sa pamamagitan ng makahulugan wika, sa pagtugis sa unibersal na katotohanan, na kung saan ay obhektibong kanais-nais sa personal na kamalian.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+Ang kagustuhan para sa unibersal na katotohanan ay hindi kagustuhan sa *antas*, kundi sa *uri*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
 
 In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
 
