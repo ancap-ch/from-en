@@ -87,6 +87,7 @@ Sa susama nga pamaagi, ang kamatuoran kay dili lang “mas maayo* kay sa sayop �
 Kung ako minglalis nga ang linalang nga mga tawo kay dili responsable alang sa ilaha nga mga aksyon, naungot ko sa usa ka balibato, nga mao ang pangutana nga *kon o dili man ko responsable alang sa ako nga argumento, ug usab kon o dili man ikaw responsable alang sa imoha nga balos*.
 
 Kung ang akong argumento nga ang mga linalang nga tawo kay *dili* responsable alang sa ilaha nga mga aksyon kay tinuod, unya dili sad ko responsable alang sa ako nga argumento, ug dili sad ka responsible alang sa imoha nga balos. Bisan pa niana, kung mituo ko nga ikaw dili responsable alang sa imoha nga balos, makabuhat kini og bililhon nga gamay nga pulos nga mapagsiugda og usa ka argumento – makahimo kini nga sakto kaayo nga pareha sa ingon nga nakiglalis uban sa set sa telebisyon.[^5]
+
 [^5]: Ang pangutana sa responsibilidad kay, bitaw, duol kaayo iglabot ngadto sa pangutana sa gawasnon nga kabubut-on batok sa determinismo, nga maoy mamahimo nga pagahilisgotan sa lain nga libro.
 
 Busa, sa pagkapundamental, kung mosulti ko nimo nga dili ka responsible sa imoha nga mga aksiyon, nagsulti ko nimo nga mao kini ang nagustuhan nga malukpanon kaayo alang kanimo aron sa pagtuo nga ang kagustuhan kay imposible, tungod kung dili ka makakontrolar batok sa imoha nga mga aksiyon, dili ka makahimo nga mopili og estado nga nagustuhan, pananglit kamatuoran batok sa bakak. Busa kini nga argumento, susama sa mga argumento sa ibabaw, mingguba sa kaugalingon.
