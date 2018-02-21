@@ -10,7 +10,7 @@ Malinaw, ang panloloko ay nangangailangan ng isang tao *hindi* ay nakikibahagi s
 
 Malinaw,, dahil sa pandaraya ay magaganap, ang isang partido ay dapat kumilos nang may mabuting pananampalataya. Kaya ang taong nagnanais na gumawa ng pandaraya ay nakasalalay sa katotohanan na ang ibang tao ay gumagawa *hindi* nais na gumawa ng pandaraya, upang hulihin siya.
 
-To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
+Upang bumalik sa aming malungkot na moral guinea pig, ano ang mangyayari kung tatanungin natin si Bob at Doug upang kumilos ayon sa moral na prinsipyo na "pandaraya ay mabuti"? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
 
 What happens then?
 
