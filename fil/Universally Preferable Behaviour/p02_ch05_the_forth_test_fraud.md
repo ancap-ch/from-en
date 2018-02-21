@@ -18,7 +18,7 @@ Malinaw, ang prinsipyo na iyon "ang pandaraya ay mabuti" ay hindi maaaring kumil
 
 Sinira ng UPB ang posibilidad na ito, yamang walang wastong moral na teorya ay maaaring mangailangan ng tapat na mga pagkilos sa ilalim ng parehong kalagayan.
 
-If Doug commits fraud on Bob with the justification that “it is good to lie to get what you want,” then clearly it must also be good to be honest as well, since it is impossible to get what you want by lying unless other people are willing to assume your honesty. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
+Kung si Doug ay gumawa ng pandaraya kay Bob sa pagbibigay-katwiran na "mabuti na magsinungaling upang makuha ang gusto mo," pagkatapos ay malinaw na dapat din itong maging mabuti upang maging matapat din, dahil imposibleng makuha ang nais mo sa pamamagitan ng pagsisinungaling maliban nalang kung ang ibang tao ay handang ipalagay ang iyong katapatan. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
 
 This is how we know that fraud is wrong.
 
