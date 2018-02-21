@@ -10,9 +10,9 @@ Evidentemente, a fraude exige que uma pessoa *não* esteja envolvida na fraude. 
 
 Obviamente, para que ocorra uma fraude, uma das partes deve agir de boa fé. Assim, a pessoa que deseja cometer uma fraude baseia-se no facto de que a outra pessoa *não* deseja cometer fraude, para a poder enganar.
 
-To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
+Para voltar às nossas infelizes cobaias morais, o que é que aconteceria se pedíssemos a Bob e a Doug que actuassem sobre o princípio moral de que "a fraude é boa"? Se Doug tem vinte dólares, e Bob tem um isqueiro, e Doug oferece vinte dólares a Bob por esse isqueiro e toma-o, mas não lhe dá a Bob os vinte dólares, então Doug está a agir na premissa de que a fraude é boa.
 
-What happens then?
+Então o que é que acontece?
 
 Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
 
