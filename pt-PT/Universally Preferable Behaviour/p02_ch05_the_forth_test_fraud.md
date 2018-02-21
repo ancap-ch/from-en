@@ -1,8 +1,8 @@
 ## O Quarto Teste: Fraude
 
-Right at the edge of what is generally considered ethical sits the challenge of *fraud*.
+Exactamente no limite do que, geralmente, é considerado ético, assenta-se o desafio de *fraude*.
 
-Fraud is the obtaining of value through false representation. If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
+A fraude é a obtenção de valor através de uma representação falsa. Se eu disser que lhe vou enviar um iPod, se me der duzentos dólares e depois tomo o seu dinheiro sem lhe enviar o iPod, percebemos instintivamente que essa é uma forma de roubo.
 
 Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
 
