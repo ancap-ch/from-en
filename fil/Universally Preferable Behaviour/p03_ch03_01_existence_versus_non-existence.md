@@ -106,7 +106,7 @@ Para sabihin na ang sapilitan ay katumbas ng kusang loob ito ay ganap na hindi m
 
 Kung wala ang "null zone," ang mga sirang fiction ay hindi mananatili.
 
-The “null zone” is the lair of the beast we hunt.
+Ang "null zone" ay ang pugad ng mga hayap na amin hinahanap.
 
 As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
 
