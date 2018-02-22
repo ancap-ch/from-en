@@ -48,7 +48,7 @@ Kung, gayunman, ang pagpatay ay masama, muli natin na harapin ang suliranin ng "
 
 Kung paano natin sasabihin: "ang pagpatay ng mga tao ay masama" -nais bang gawin ng isang tao na kainin ang masamang pating?
 
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
+Hindi -uli, dahil ang mga pating ay walang kapasidad para maiwasan ang pagpinsala ng mga tao, hindi sila pwedeng maging responsable para sa ganitong mga aksyon, anu mang iba pang higit sa isang pagguho ng lupa ay pwedeng isama sa hukuman kung ito ay pagsira ng isang tao.
 
 UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
 
