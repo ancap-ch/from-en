@@ -110,7 +110,7 @@ Ang "null zone" ay ang pugad ng mga hayap na amin hinahanap.
 
 Tulad ng nakikita natin, alam namin sa aming sarili na ang magnakaw ay Mali; kami ay may ilang problema sa abstract at sa lohiral na pagbabawal sa pagnanakaw, tulad ng amin ginagawa sa taas- subalit ngayon, ito ay lumitaw sa "null zone" o Alternatibong uniberso kung saan ang pag salungat ay maaaring tangapin ng walang anu mang katanungan o pag aalala.
 
-Ayon sa UPB, ito ay mali Para sa akin at para sayo ang magnakaw. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+Ayon sa UPB, ito ay mali Para sa akin at para sayo ang magnakaw. Gayunpaman, sa "null zone," ito ay Hindi lamang pinapayagan, Kung hindi isang perpektong *moral*, para sa iba ang magnakaw. We *must not* steal – they *must* steal. It is moral madness!
 
 ### Policemen
 
