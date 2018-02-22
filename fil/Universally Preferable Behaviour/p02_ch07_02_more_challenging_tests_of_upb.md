@@ -52,8 +52,8 @@ Hindi -uli, dahil ang mga pating ay walang kapasidad para maiwasan ang pagpinsal
 
 Pinahihintulutan ng UPB ang mga paghihiwalay ayon sa layunin at unibersal na mga materyal o ang pagkakaiba ng mga biyolohikal, kagaya ng ibang ginawang mga siyensiya. Ang siyantipikong ng teyorya ng mga gas ay pinalawak kapag init ay tumukoy, talaga, lamang sa mga gas. Hindi ko mapawalang-bisa ang teyorya sa pamamagitan ng pagpapatoo na hindi ito matukoy sa, sabi, plastik.
 
-Sa parehas na paraan, ang moralidad ay umangkop lamang sa makutwiran ng mga kamalayan, sa kinakailangan para makaiwas. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+Sa parehas na paraan, ang moralidad ay umangkop lamang sa makutwiran ng mga kamalayan, sa kinakailangan para makaiwas. Kung tangkain kong tukuyin ang moral na teyorya sa isang kuhol, isang puno, isang bati, o ang konsepto "mga bilang," tinaka kong higitan ng makatwirang kamalayan sa mga nilalang na pwedeng hindi makatwiran o nakakamalay, kung saan ay isang lohikal na pasasalungat. Pwede ko rin ipahayag na ang kabaliktaran na anggulo ng teorama sa heometrya ay hindi imbalido dahil ito ay hindi angkop sa isang pabilog, o sa isang ulap. Ang OAT lamang ang angkot sa bumabalandra na mga linya - ang pagtangkang paglipat sa ibang sitwasyon ay ang hinala na katumbas ng pagsubok sa pagpinta sa hangin.
 
-In other words, misapplication is not disproof.
+Sa madaling salita, hindi disproof ang misapplication.
 
 There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
