@@ -26,7 +26,7 @@ Ang moral na proposisyon "ang pagkain ng isda ay masana" ang pag subok sa pagigi
 
 Ang UPB ay hindi tinanggap bilang imbalido ang kahit anung resulta ng teyorya sa laban sa moral na hatol para sa kagaya na mga pag-aksyon. "ang pagsugod" hindi pwedeng maging moral sa isang araw, at ang susunod ay imoral. Sa ganon alam na natin na ang "kumakaen" hindi pwedeng maging moral sa isang araw, at ang susunod ay imoral.
 
-Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
+Miski alin"kumakain" ay moral, imoral, o niutral na moral, kapag ang pagkain ay imoral, tsaka ang buong host ng lohikal na mga suliranin ay lumitaw, kung ako ay sigurado na kami ay medyo pamilyar sa ngayon.
 
 If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
 
