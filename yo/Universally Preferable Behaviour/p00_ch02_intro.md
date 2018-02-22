@@ -42,53 +42,53 @@ Fifo eyi "ibi ipalolo" ti wa ni ewu pelu ewu . Awon ona lati awon otito kekere s
 
 Bi o "ti n sofo aaye ibi ti ko si" –tabi ki o so awon otito kekere kan po pelu awon otito nla –o je ki o je ki o lewu ati ki o lewu? O je ipenija ti o tobi lati darapo mo igbasile pelu imoran ni ila ti o wa ni ona ti o rorun –sugbon *gbodo* ilosiwaju yii mu egbegberun odun ati awon omi okun?
 
-If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
+Ti a ba wo awon ilosiwaju imo-ero ati ilosiwaju oro aje, a ri die sii tabi kere si ila ilawon fun awon odunrun, lehinna nipase awon fifun ti o lagbara ati asymptotic lori awon odun ogorun odun sehin. O se akiyesi pe die ninu awon iyipada ti eda le se akosile fun iyara ti o lojiji ati ti o tobi pupo ti isedede ogbon ati idaniloju ohun-elo. Awon imo ti o nperare pe die ninu awon ipa "snowball" ti wa ni aye, ti o ni idaniloju nipase iseduro gbogbo awon isiro imoye ti o waye lati ojo ibere ti olaju, le maa n yo kuro ni owo bi gbogbo * ex post facto * awon alaye, nitori won ko ni iye ti asotele.
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+Ti a ba ni oye pe agbara wa ti wa ni agbara fun wa fun o kere ju egbeegberun odun - ati pe o ni awon anfani nla ati idunnu nla ni lilo - lehinna o ni o di kedere pe a gan * ni a fe lati lo awon ohun iyanu wa.
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+O ye ki o je agbara ti o wa ni isale ti o ti se itanje lati lo agbara ki o si daabobo ominira ti eda eniyan lasan. 
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+Ninu ijoba ti imo-ero, o ko nira lati ri awon agbara ti o ni agbara pa wa mo ni aifowoyi-akoko-aimokan. Ijopo ti igbagbo-ori ni iru esin, ati iwa-ipa ni iru aristocracy, awon oniroyin onibara ti o ni irora, eru, ijiya, ati ipaniyan. Gege bi ologbe kan ti se anfani lati inu oye ti awon malu re, ati ti awon omo-odo eru lati ni eru ti awon omo-odo re, awon alufa ati awon oba pa awon anfani won mo nipa jiyan iku enikeni ti o nira lati ronu.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+O rorun otito ni pe "awon alufa" ati "awon oba" wa –ati pe –awon eniyan. Awon otito ti o rorun ni pe awon orisa ati awon emi ti o ye lati se idajo ofin won ko si wa.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+A ti se awon igbasile nla lati ni oye nipa iseda ati otito ti isiro eda eniyan lasan, sugbon oro ibanuje ti oro naa ni pe ijoba ti iwa- si tun padanu ni "ibi ailopin" –ninu awon etan apanirun ti "awon otito arin".
 
-### "Middle Truths"
+### "Awon Ododo Aarin"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+Je ki a pe awon agbekale alatako ti o wa ni "ibi ti ko si" –laarin igboye ori ati idurosinsin –Awon “otito laarin."
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+Awon “otito arin”ni ti o lewu julo ti gbogbo won, nitori nwon fi *ifarahan* ti otito han nigba ti nhu  otito *se jambasi* otito.
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+Bi o se pese etan pe a ti ri otito, "awon otito arin "Kosi dena wa lati nini otito. Wonyi ni ila ti o kehin fun irokuro, asotele ati ijoko.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Ni won ko ni irun nikan, sugbon * anti--rational, "awon otito arin" duro ni ailopin ti o ko ni opin - bi ojo won ba se ise fun awon ti o ni agbara. Fun apeere, Christianity niti dide kuro ninu igbadun fascism ti ijoba Romu ti o padanu ni apakan nipase siso jade ni awon igbagbo "ti aiye" ti awon eko ti o wa tele. "Gbagbe awon orisa re, a ni tuntun Olohun tuntun ti o dara ju!"
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+"Awon otito ododo" nigbagbogbo mu apere otito, tele eke. "Zeus je igbagbo alaigbagbo" je oro otito kan, eyiti a se nipase awon onigbawe Christian. Eke ti o tele ni: "Oluwa kii se igbagbo etan, sugbon Olorun gidi ati alaye."
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+A le se aseyori eyi  die sii pelu apeere ti yoo mo si enikeni ti o ti gbaran ore kan. "Omokunrin mi ti o kehin je gidi kan," o ni yio so, iwo o si gbagbo pelu. "Odomokunrin mi tuntun je gidigidi * nla * tile," o yoo fi kun, iwo o si gbiyanju lati ma se si oju re.
 
-It is very hard not to replace one illusion with another.
+O je gidigidi soro lati ko paaro ojiji kan pelu miiran.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+"Ijoba British je ibaje!" American ni awon ogorun odun mejidinlogun –ati pe, lehin ti o ko awon omo ogun Britani, nwon tun seto ijoba ti ara won, won si bere si kolu awon ilu won.
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+"Aristocracy je ohun irira alaisan!" awon olote miran kigbe, ti o se agbekale iwa-ipa ti opolopo ninu Iru iwa ijoba tiwantiwa.
 
-“Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
+"Awon otito aarin" tun le wa ninu science, bakannaa ni idena ilosiwaju ti ara lati awon otito kekere si awon otito nla. Titi di ni ogorun odun mejidilogun, fun apeere, awon onimo-oro ni o gbagbo "iran ti aito," tabi imoran pe igbesi aye le dagba lati ohun ti ko ni nkan. Eyi ko ti se akiyesi, dajudaju, sugbon o tele awon iwe atijo ati awon esin ti atijo, ati pe a gba gege bi otito. Pelupelu, saaju si Iyika Einsteinian ni 1905, a gbagbo pe o gbe nipase ohun ti o wa titi ti a ko le se ti a pe ni "Ether luminiferous," gege bi awon igbi omi ti nru soke nipase afefe. Ko si onimo ijinle science ti o gbagbo ninu yii yii ni eri eyikeyi ti o ni eri fun "ether," boya ni ti ara eni tabi ti imo-eko-imoran –sugbon o se akiyesi pe o se pataki lati se ibamu si awon eya miiran ti o le woyesi.
 
-Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+Esin tun je omiran “otito arin” –okan ti o lewu ju lo. O je otito pe a je eya ototo ni agbaye, bi o ti je pe a mo. Girafiti je quadruped, sugbon eniyan kii se kan "jafafa" primate, sugbon nkan ti o yato. Irisi iyato yen wa ni aibikita ti a ko mo - alaye esin ti "awa ko ni awon eranko nitoripe a ni okan kan ati pe Olorun kan da won" je apeere miiran ti "otito arin." O je otito pe a wa yato si awon eranko. Kosi otito pe olorun kan da wa ati pe o ni okan kan.
 
-Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+Bi die ninu awon parasites ko le gbongbo titi ti won fi yo awon parasites tele, "otite arin" nikan kolu awon idaniloju isaaju * ki won le gba ipo won *. Awon ti o wa ni alaigbagbo ti awon ohun-isaju awon isaaju ti wa ni fa si ona titun irokuro. Bayi ni Christians npo kuro ni etan igbagbo, Marxism nyika Christinity, post-modernism yipo Marxism, democray yipo aristocracy, ati bebe lo.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+Ti o ba ti mu awon otito nla se, ti a si sokan pelu awon otito kekere, "otito awon arin" ti o se pataki lati se idilowo awon aseyori ti awon otito nla.
 
-And the great truths are always achieved from the little truths.
+Ati awon otito nla ti a ni nigbagbogbo lati awon otito kekere. 
 
-The world falls because a rock falls.
+Aye subu nitori apata kan subu.
 
-### "Middle Truths" And Exploitation
+### "Otito Arin" Ati Iwakusa
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+Biologically, parasitism je igbekele ti o le dagbasoke gbogbo nwon.Mirza fun opolopo awon eda. Ni aisedeede awon ilana asa, jiji agbara ati awon orisun lati awon eda miiran ni o ni imoran daradara. Ni gbogbo, ona alaafia ati idurosinsin ti parasitism je * symbiosis *, tabi igbadun ti o ni anfani ti ara eni. Bayi awon kokoro arun ti o wa inu ifun wa se iranlowo fun ara won nipa iranlowo wa lati safihan ounje wa. 
 
 However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
 
