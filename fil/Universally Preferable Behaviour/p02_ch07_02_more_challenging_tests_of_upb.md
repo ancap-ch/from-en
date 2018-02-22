@@ -56,4 +56,4 @@ Sa parehas na paraan, ang moralidad ay umangkop lamang sa makutwiran ng mga kama
 
 Sa madaling salita, hindi disproof ang misapplication.
 
-There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
+Merong iba pang maraming "greay na mga lugar" na pwede namin trabahuhin, galing sa pag-aborsyon sa karapatan sa intelekwal na ari-arian sa pagbabayad sa sinira at iba pa, pero sa tingin ko ay mas importante na kunin ang UPB sa lupain ng abstraksyon, at umpisahan na iangkot ito sa totoong suiliranin sa mundong kinakaharap natin ngayon.
