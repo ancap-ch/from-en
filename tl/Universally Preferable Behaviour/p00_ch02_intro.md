@@ -60,9 +60,9 @@ At tawagin natin ang mga baliktad na prinsipyo ng mga naninirahan sa "lugar ng w
 
 Ang mga sa "Ang gitnang mga katotohanan" ay ang delikado na ilusyon ng lahat, dahil binibigyan nila ang *panlabas na anyo* ng katotohanan habang aktwal *umaatake* sa katotohanan.
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+Sa kabila ng pagbibigay ng ilusyon na natagpuan natin ang katotohanan, ang "gitnang mga katotohanan" ay talagang pumipigil sa atin na makuha ang katotohanan. Sila ang huling linya ng depensa para sa pantasya, paglapa at pagsasamantala.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+At dahil ang mga ito ay hindi lamang makatwiran, ngunit*laban sa*rasyunal, "ang gitnang mga katotohanan" ay nananatiling walang katapusan ang kakayahang na umangkop – hangga't naglilingkod sila sa mga nasa kapangyarihan. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
 
 “Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
 
