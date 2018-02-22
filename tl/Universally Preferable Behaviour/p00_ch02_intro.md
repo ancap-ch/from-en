@@ -82,13 +82,13 @@ At kung paanong ang ilang mga parasitotiko ay hindi makapag-ugat hanggang sa maa
 
 At hanggang dumating sa ang mga dakilang katotohanan ay nakamit, at nagkakaisa sa mga maliliit na katotohanan, ang "ang gitnang mga katotohanang" ay paikot na phalanx ng mapagsamantala at mapanirang mga kasinungalingan - partikular na idinisenyo upang maiwasan ang tagumpay ng mga dakilang katotohanan.
 
-And the great truths are always achieved from the little truths.
+At ang mga dakilang katotohanan ay laging nakakamit mula sa maliliit na katotohanan.
 
-The world falls because a rock falls.
+Ang mundo natin ay bumagsak dahil bumagsak ang isang bato.
 
-### "Middle Truths" And Exploitation
+### "Ang gitnang mga katotohan" at Eksploytasyon
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+Sa biologically, parasitism ay isang ganap na mabubuhay na may diskarte sa kaligtasan para sa maraming mga nilalang. Dahil sa kawalan ng mga etikal na kaugalian, ang pagnanakaw ng enerhiya at mga mapagkukunan mula sa iba pang mga nilalang ay ganap na makatwiran. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
 
 However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
 
