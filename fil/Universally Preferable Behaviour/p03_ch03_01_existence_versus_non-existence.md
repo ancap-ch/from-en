@@ -108,9 +108,9 @@ Kung wala ang "null zone," ang mga sirang fiction ay hindi mananatili.
 
 Ang "null zone" ay ang pugad ng mga hayap na amin hinahanap.
 
-As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
+Tulad ng nakikita natin, alam namin sa aming sarili na ang magnakaw ay Mali; kami ay may ilang problema sa abstract at sa lohiral na pagbabawal sa pagnanakaw, tulad ng amin ginagawa sa taas- subalit ngayon, ito ay lumitaw sa "null zone" o Alternatibong uniberso kung saan ang pag salungat ay maaaring tangapin ng walang anu mang katanungan o pag aalala.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+Ayon sa UPB, ito ay mali Para sa akin at para sayo ang magnakaw. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
 
 ### Policemen
 
