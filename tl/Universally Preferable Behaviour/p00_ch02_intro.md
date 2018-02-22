@@ -62,9 +62,9 @@ Ang mga sa "Ang gitnang mga katotohanan" ay ang delikado na ilusyon ng lahat, da
 
 Sa kabila ng pagbibigay ng ilusyon na natagpuan natin ang katotohanan, ang "gitnang mga katotohanan" ay talagang pumipigil sa atin na makuha ang katotohanan. Sila ang huling linya ng depensa para sa pantasya, paglapa at pagsasamantala.
 
-At dahil ang mga ito ay hindi lamang makatwiran, ngunit*laban sa*rasyunal, "ang gitnang mga katotohanan" ay nananatiling walang katapusan ang kakayahang na umangkop – hangga't naglilingkod sila sa mga nasa kapangyarihan. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+At dahil ang mga ito ay hindi lamang makatwiran, ngunit*laban sa*rasyunal, "ang gitnang mga katotohanan" ay nananatiling walang katapusan ang kakayahang na umangkop – hangga't naglilingkod sila sa mga nasa kapangyarihan. Ang isang halimbawa, ang Kristiyanismo ay lumutang mula sa lumalagong pasismo sa pagwawakas ng Imperyong Romano nang bahagya sa pamamagitan ng paghagupit sa "primitibong" mga pamahiin ng umiiral na ang mga teolohiya. "Kalimutan mo na ang iyong lumang mga diyos, tayo ay mayroong bagong tatak ng Diyos na mas mabuti!"
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+At ang "gitnanag mga katotohanan" ay laging tumatagal sa anyo ng isang katotohanan, kasunod ng kasinungalingan. Si "Zeus ay isang paganong alamat" na isang tunay na pahayag, na kung saan ay lantaran na ginawa ng Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
 
 We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
 
