@@ -36,7 +36,7 @@ Sa paraan na ganito mauunawaan antin na ang proposisyon "kumakain *isda* ay masa
 
 Kami ay walang panahon para pumunta sa puno ng diskusyunan ng mga tanung sa mga karapatan ng hayop, pero pwede naming hindi ibaba sa pakikitungo sa moral na proposisyon: "ang pagpatay sa isda ay masama."
 
-If it is evil to kill fish, then UPB says that anyone or anything that kills the fish is evil. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
+Kung ang pagpatay sa isda ay masama, saka sinabi ng UPB na ang maski sino o anoman ang pumatay sa isday ay masama. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
 
 It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
 
