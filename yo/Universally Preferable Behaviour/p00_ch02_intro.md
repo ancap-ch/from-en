@@ -90,44 +90,44 @@ Aye subu nitori apata kan subu.
 
 Biologically, parasitism je igbekele ti o le dagbasoke gbogbo nwon.Mirza fun opolopo awon eda. Ni aisedeede awon ilana asa, jiji agbara ati awon orisun lati awon eda miiran ni o ni imoran daradara. Ni gbogbo, ona alaafia ati idurosinsin ti parasitism je * symbiosis *, tabi igbadun ti o ni anfani ti ara eni. Bayi awon kokoro arun ti o wa inu ifun wa se iranlowo fun ara won nipa iranlowo wa lati safihan ounje wa. 
 
-However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+Sibesibe, kokoro ti o mu wa ni ailera nigbagbogbo, ati pe o le da ara wa laaye, a le pe ni "anfani ti o ni anfani." Ti a ba ronu nipa wa itanje ti o gun ati iropo ti ajalu, ibanuje, ogun, aisan ati osi - ati fi se afiwe pelu awon aseyori ti awon ohun elo ti o tayo ti igbalode - o han gbangba pe apere ti parasitism ti mu awon okan wa ati agbara wa fun odunrun. Nisisiyi pe odun die odun ti fihan agbara ati idaduro ti emi eniyan, a le wo awon eda wa bi ohun ti o ti yo kuro ni apaniyan buburu, ti o si jade lati inu iku ti o ni ailopin lati se awon ise iyanu julo ti awon idaraya.
 
-When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
+Nigba ti a ba ni itoju ara wa ti aisan, a lero dara, sugbon aisan ko ni. Lati irisi ti kokoro-ipalara ti kekere, o je ajesara kekere ti o ni ijerisi.
 
-In the same way, the parasites that strangle mankind view the liberty of the majority with horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+Ni ona kanna, awon ohun elo ti o nfa araiye ni eda eniyan n wo ifarada ti opolopo ninu eru. Niwon igbesi-aye ara won n se igbala won kuro ninu awon ibeere ti otito - lati sagbe onje won lojojumo - won ko le wo awon ominira ti awon eniyan bi apere ti igbekele fun ara won. Bayi ni olugbe kan yoo wo "igbala" ti awon eran-osin re bi ajalu nla ...
 
-Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+Siseto idiyele otito je isirokuro. Iyato irokuro ye ifilele lo isise. Ti mo ba le fun o ni idaniloju pe emi ni eniyan alaye-Olorun, ati pe Olorun ti o ko mi ni o fe ki o fun mi ni idamewa ninu owo-ori re, tabi iwo yoo jiya fun ayeraye, lehinna ni mo le di oloro pupo. Mo je alaafia ti awon etan, o si dale lori awon etan fun igbadun mi gegebi fun fungus gbekele ifarakanra, dampness - ati okunkun.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+Awon ti o lo awon imiriri iwa ise lati lo eniyan je nigbagbogbo ni ehin ati itoka si awon ti o se irokeke igbesi aye won nipa wiwa ati pinpin otito.
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+A momo pelu apeere Mafia, eyiti o n beru awon abanidije ti o poju pelu ibanuje ati iku, tabi ifihan ti awon esin  ti o ba ara won ja, tabi ijoba kan ti o kolu miiran.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+Nigba ti awon olutumoroye fi han awon isiro ti o se pataki fun isesi ilosiwaju, sibesibe, won je apere ko ni ifojusi lati seto ara won bi awon oludije. Won ko fe lati * ropo* Mafia, tabi ijo –won fe lati paare patapata.
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+Isawewe ti igbalode julo yoo je ibasepo laarin ipinle, awon lobbyists ati awon asonwoori. Awon lobbyists yoo kolu awon miiran lobbyists ti o ti njijadu fun kanna-ori dola. Sibesibe, wo bi * gbogbo* awon lobbyists yoo se apejo po lati kolu enikeni ti o dabaro lati fa ipinle kuro gegebi ilana.
 
-Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
+Parasites yoo se idije pelu enikeji fun awon ohun elo ti ko ni opin ti ile-ise - sugbon o je anfani ti won julo lati dara po lati kolu ohun gbogbo ti o ni ipalara lati pa ile-ise kuro patapata.
 
-In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
+Ni ona yii, ni awujo eyikeyi ti o wa ni ipinle ati ijosin ti ya soto, olukuluku eda duro lati dije fun awon alamo. Nibo ni ijo bere lati padanu ile, ipinle naa yoo gba awon alakoso ilu ni agbara - eyiti o mu ki o je alapoja awujo. Nibo ni ipinle bere lati padanu ile, ijo yoo fi agbara mu awon adigunjale - eyi ti o mu ki esin fundamentalism, nigbagbogbo pelu awon eda ti libertarianism.
 
-However, the philosophers who oppose *all* intellectual error are the sworn enemies of all the parasites that feed off illusions. The “great truths” of physics eliminate the need for supernatural agents, and render miracles impossible. The explanatory power of science wholly outshines the religious fictions that masquerade as knowledge about the physical world.
+Sibesibe, awon ologbon ti o tako * gbogbo* asise ogbon ni awon ota ti o ti bura ti gbogbo awon parasites ti o jeun awon alaimo. Awon "otito nla" ti physic nfa imule fun awon asoju eda, ki o si mu awon iyanu sise. Imoye alaye ti imo-imo je gbogbo awon fictions ti esin ti o safihan bi imo nipa aye ti ara.
 
-The scientific method requires that every thesis be supported by evidence and rationality. Since there is no evidence for gods – and the very *idea* of gods is innately self-contradictory – the thesis “gods exist” cannot stand. Inevitably, the religious parasites attempt to defend their thesis by trying to split reality into “two realms” – the scientific and the spiritual. However, there is no evidence for the existence of this “spiritual” realm in the present, any more than there was for the parallel universe of Platonic “Forms” two thousand five hundred years ago.
+Ona ijinle science nilo pe gbogbo iwe-eri ni atileyin nipase eri ati ogbon-ara. Niwon ko si eri kankan fun awon orisa –ati idaniloju * awon orisa je innately self-iselodi  –awon akosile "awon orisa tele" ko le duro. Laisi ani, awon elegbe esin naa n gbiyanju láti daabo bo akojowe won nipa sisayanju lati pin iyato si "awon agbaye meje" - ijinle science  ati ti emíi. Sibesibe, ko si eri fun idaniloju ijoba yii "ti emi" ni bayi, bii die e sii ju ti o wa fun aye ti o jora ti Platonic "Awon apere" egberun meji ati ogorun odun seyin.
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+Bayi ni idasile otito ati otito gbogbo agbaye gbodo je iyasile ati ki o run iparun agbara ti isan. Ni pato, awon "otito nla," eyiti o je ti gbogbo agbaye ati ni ibamu, se apaniyan ati egan awon "otito arin" - eyi ti o je otito awon irora. A momo pelu "otito arin" ti esin; die ninu awon miiran yoo wa ni ayewo ati ki o han nibi, die ninu awon ti eyi ti o le fa monamona.
 
-### Effective Parasitism
+### Parasitism to dara
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+Awon parasites ti o munadoko julo - tabi awon oloje - ni awon asiwere ti ara won si aiyede. Awon ona sise wa ti a se lati kolu awon nkan ajeji ninu ara, isolara ati pipa won. A beru HIV ati akan ni pato nitoripe won le se alaise awon ilana imunni wa. Ilana kanna ni o nlo nipase awon oloje ogbon lati mu awon ona sise idaabobo ti awon ti won je.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+Ti alejo ba ko o ni ale kan ati ki o beere owo re, iwo yoo je eru ati idunnu. O le jagun, o le sise, tabi o le fun un ni apamowo re, sugbon iwo yoo je ohun iyanu, ibinu ati ibanuje nipase ibaraenisepo. Nigbati o ba tun so itan na, iwo yoo so fun ni ni ona ti o se atunse ipile ati aisedede buru si awon eto ara eni ati awon ohun-ini re. Awon elomiran yoo ni irorun fun isoro re, yoo si yera fun alley ni ojo iwaju.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+Eyi je apeere ti "kekere otito," eyiti o je: "jiji lati odo mi je asise."
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+Sibesibe, nigbati oluranlowo ijoba ba ran leta kan ti o nbeere pe ki o san owo fun u, o le ni idaniloju kan, sugbon iwo ko ni so itan naa pelu ibanuje kanna ati irunu si awon ore re.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+Eyi je apeere kan ti "otito arin," eyi ti o saju "otito nla kan," eyiti o je pe "jiji je asise."
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+awon oju-aye ti o se iparun ti awon etan igbagbo, esin idojuko ati esin ti ebi .Eko iwe-oro ninu iwe yii  pe ninu awon eko ti isegege, bi ninu gbogbo imoran ogbon miiran, awon otito nla dide lati inu awon otito kekere.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+Iwe-eko mi ni iwe yii ni pe ninu awon eko oloselu, gegebi ninu imoran ogbon miiran, awon otito nla dide ni taara lati awon otito kekere. Awon kurukuru ti aisedede ti "otito awon arin" je ona apadi lati se lilo kiri, sugbon o to lati ni igbiyanju nipase, nitoripe iyasoto pataki nikan si otito je isiro, iparun - ati, lai se idi, iparun lasan ti awon milion.
