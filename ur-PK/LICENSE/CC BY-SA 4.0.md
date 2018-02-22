@@ -50,15 +50,15 @@ a. ***License grant.***
 
 1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
     
-    A. reproduce and Share the Licensed Material, in whole or in part; and
+    A. لائسنس یافتہ مواد کو مکمل اور حصہ میں دوبارہ پیدا اور تقسیم کریں؛ اور
     
-    B. produce, reproduce, and Share Adapted Material.
+    بی. پیداوار، دوبارہ پیداوار، اور منسلک مواد تقسیم کریں.
 
-2. **Exceptions and Limitations.** For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+2. **استثناء اور حدود.** شبہ سے بچنے کے لئے، جہاں استثناء اور حدود آپ کے استعمال پر لاگو ہوتا ہے، یہ پبلک لائسنس پر لاگو نہیں ہوتا، اور آپ کو اس کے شرائط و ضوابط کی تعمیل کرنے کی ضرورت نہیں ہے.
 
-3. **Term.** The term of this Public License is specified in Section 6(a).
+3. ** شرائط.** اس پبلک لائسنس کی شرائط سیکشن 6 (ا) میں بیان کی گئی ہے.
 
-4. ** میڈیا اور فارمیٹس؛ تکنیکی ترمیم کی اجازت دی گئی ہے.** لائسنس کنندہ نے آپ کو تمام ذرائع ابلاغ میں لائسنس یافتہ حقوق کو استعمال کرنے کے لئے مستند کیا ہے یا اب معلوم ہوا یا بعد میں پیدا کیا، اور ایسا کرنے کے لئے ضروری تکنیکی ترمیم کرنا ہے. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. اس پبلک لائسنس کے مقاصد کے لئے، صرف اس سیکشن 2 (ا) (4) کے ذریعہ مجاز شدہ ترمیم کرنے کے لئے کبھی بھی اپنانے والا مواد تیار نہیں ہوتا ہے.
+4. ** میڈیا اور فارمیٹس؛ تکنیکی ترمیم کی اجازت دی گئی ہے.** لائسنس کنندہ نے آپ کو تمام ذرائع ابلاغ میں لائسنس یافتہ حقوق کو استعمال کرنے کے لئے مستند کیا ہے یا اب معلوم ہوا یا بعد میں پیدا کیا، اور ایسا کرنے کے لئے ضروری تکنیکی ترمیم کرنا ہے. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. اس پبلک لائسنس کے مقاصد کے لئے، صرف اس سیکشن 2(a (4)) ذریعہ مجاز شدہ ترمیم کرنے کے لئے کبھی بھی اپنانے والا مواد تیار نہیں ہوتا ہے.
 
 5. **نیچے کے سلسلے وصول کرنے والے.**
     
@@ -109,7 +109,7 @@ a. ***Attribution.***
 
 b. ***ShareAlike.***
 
-سیکشن 3 (ا) کے حالات کے علاوہ، اگر آپ اپنانے والے مواد کو تقسیم کرتے ہیں تو آپ پر مندرجہ ذیل حالات بھی لاگو ہوتے ہیں.
+سیکشن 3 (a) کے حالات کے علاوہ، اگر آپ اپنانے والے مواد کو تقسیم کرتے ہیں تو آپ پر مندرجہ ذیل حالات بھی لاگو ہوتے ہیں.
 
 1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.
 
@@ -127,19 +127,19 @@ b. if You include all or a substantial portion of the database contents in a dat
 
 c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
 
-شبہ سے بچنے کے لئے، یہ سیکشن 4 اس پبلک لائسنس کے تحت آپ کی ذمہ داریوں کو تبدیل نہیں کرتا ہے جہاں لائسنس یافتہ حقوق دیگر کاپی رائٹ اور اسی طرح کے حقوق شامل ہیں.
+For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 
 ### Section 5 – Disclaimer of Warranties and Limitation of Liability.
 
 a. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
 
-b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. جہاں مکمل طور پر یا جزوی طور پر ذمہ داری کی حد کی اجازت نہیں ہے، یہ حد آپ پر لاگو نہیں ہوتی. </ 0></p> 
+b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
 
 c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
 
 ### Section 6 – Term and Termination.
 
-a. This Public License applies for the term of the Copyright and Similar Rights licensed here. تاہم، اگر آپ فیل ہو جاتیں ہیں اس پبلک لائسنس کی تعمیل کے ساتھ تو، اس پبلک لائسنس کے تحت آپ کے حقوق خود کار طریقے سے ختم ہوجاتے ہیں.
+a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
 
 b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
 
