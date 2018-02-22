@@ -34,7 +34,7 @@ Sa paraan na ganito mauunawaan antin na ang proposisyon "kumakain *isda* ay masa
 
 ### Ang mga karapatan ng hayop
 
-We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
+Kami ay walang panahon para pumunta sa puno ng diskusyunan ng mga tanung sa mga karapatan ng hayop, pero pwede naming hindi ibaba sa pakikitungo sa moral na proposisyon: "ang pagpatay sa isda ay masama."
 
 If it is evil to kill fish, then UPB says that anyone or anything that kills the fish is evil. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
 
