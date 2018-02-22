@@ -12,13 +12,13 @@ At sa pagitan ng mga maliit na katotohanan, gayunpaman, at ang mga dakilang kato
 
 At sa pisika, ang mga dakilang katotohanan ay hindi pwedeng sumalungat sa maliliit na katotohanan. At walang "pinag-isang teyorya" na ang pwedeng magwasto na komukontra sa aming direktang diwa-karanasan ng bumabagsak na bato o umaangat na apoy. At ang pinakadakilang teorya ng matematika ay hindi pwedeng maging balido kung ang paglalapat nito ay nagbibigay ng mga maling pagbabago sa pagtingin sa pambilang.
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
+Ayon naman sa kasaysayan, gayunpaman, sa pagitan ng aming sarili sa mga maliit na katotohanan at ang mga dakilang katotohanan ay namamalagi kung ano ang tatawagan ko ang "walang kapalarang lugar."
 
-### The "Null Zone"
+### Ang "Lugar na walang Kapalaran"
 
-We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+Ito ang sinasabi namin sa aming mga anak na huwag gisingin ang isa't isa, at naniniwala kami na ang kalupitan ay mali sa abstrak, bilang isang pangkalahatang moral na tuntunin. Ang "maliit na katotohanan" ay: *huwag suntukin*. Ang "malaking katotohanan" ay: *violence is wrong*.
 
-However, there exists in our minds an imaginary entity called “God,” and this entity is considered perfectly moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+Gayunpaman, mayroong mga umiiral na nasa isip na isang isang guni-guni na nilalang na tinatawag na " Ang diyos," at ang nilalang na ito ay itinuturing na perpektong moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
 
 Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
 
