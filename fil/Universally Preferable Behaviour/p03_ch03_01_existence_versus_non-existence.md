@@ -116,7 +116,7 @@ Ayon sa UPB, ito ay mali Para sa akin at para sayo ang magnakaw. Gayunpaman, sa 
 
 Halikat dalhin natin ang aking mabuting kaibigan na si Bob palayo sa maliit na silid ng teoryang moral subukat at ibalik siya sa kanyang original na trabaho bilang isang pulis.
 
-Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
+Malinaw, kapag si Bob ay gumising sa umaga, bago siya lumipat, hindi siya pweding pumunta sa bahay ng kanyang kapitbahay at huminge ng pera at manutok ng baril, hindi mahalaga Kung Sino ang nagsabi sa kanya na ito ay tama lang.
 
 When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
 
