@@ -1,28 +1,28 @@
-## Internal Consistency
+## Interne Konsistenz
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+Wenn ich Architekt bin und einen Plan für den Bau eines Hauses vorlege, ist die erste Hürde, die ich überwinden muss, ob mein Haus überhaupt gebaut werden kann oder nicht. Wenn ich wunderbare Pläne für ein Haus vorlege, das vollständig aus Seifenblasen gebaut ist, werde ich nie den Auftrag erhalten, da ein solches "Haus" niemals bestehen könnte.
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+Auch wenn ein Ingenieur einen Plan für eine Brücke einreicht, ist das erste Kriterium, das erfüllt werden muss, ob die Brücke halten wird oder nicht. Andere Überlegungen wie Langlebigkeit, Ästhetik usw. werden nur dann zutreffen, wenn die Brücke von vornherein physikalisch tragfähig ist.
 
-It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
+Es wäre unlogisch - ganz zu schweigen von höchst unproduktiv -, eine Brücke aus zufälligen Materialien zu bauen, mit Hilfe von zufälligen "Berechnungen", um herauszufinden, ob sie Bestand hat oder nicht. Da die physikalischen Gesetze konsistent und universell sind, ist es relativ einfach, herauszufinden, ob eine Brücke halten wird *bevor* man sie baut.
 
-There are two ways to determine the viability of the bridge before building it. The first is to look for internal inconsistencies within the premises and calculations that claim to support the viability of the bridge. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+Es gibt zwei Möglichkeiten, die Lebensfähigkeit der Brücke vor dem Bau zu bestimmen. Die erste besteht darin, nach internen Unstimmigkeiten innerhalb der Räumlichkeiten und Berechnungen zu suchen, die behaupten, die Lebensfähigkeit der Brücke zu unterstützen. Wenn es erhebliche Fehler in den Berechnungen gibt, die das Gewicht rechtfertigen, das die Brücke tragen kann, dann ist die Brücke wahrscheinlich entweder über- oder unterkonstruiert. Wenn fehlerhafte mathematische Berechnungen zu einer Festigkeit von minus fünfzig Tonnen pro Quadratcentimeter an irgendeinem Teil der Brücke führen, dann wird sie sicher nicht halten - oder, wenn sie es tut, wird ihre Lebensfähigkeit nur zufällig und nicht reproduzierbar sein.
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+Die mathematischen Berechnungen, die die Lebensfähigkeit der Brücke unterstützen, müssen daher intern konsistent sein, bevor andere Überlegungen berücksichtigt werden können.
 
-In computer terms, code that does not compile cannot be tested.
+Computertechnisch gesehen kann Code, der nicht kompiliert wird, nicht getestet werden.
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Das gilt auch für die Wissenschaft. Theorien werden immer auf interne Konsistenz geprüft, bevor sie empirischen Tests unterzogen werden. Der Grund dafür, dass die innere Konsistenz so wesentlich ist, ist, dass, da Theorien behaupten, einen Wert relativ zur Realität zu haben, und die Realität intern konsistent ist, jede Theorie, die *nicht* intern konsistent ist, keinen Wert relativ zur Realität haben kann.
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+Erst nachdem die interne Konsistenz der Berechnungen festgestellt wurde, kann überprüft werden, inwieweit die Brücke den Spezifikationen entspricht. Es ist möglich, intern konsistente Spezifikationen für eine winzige Brücke zu schreiben, die vollständig aus Balsaholz gebaut wurde, aber wenn der Ingenieur nicht gerade einen Artikel für ein Modellbahnmagazin schreibt, werden seine Spezifikationen, obwohl sie konsistent sind, keine industriellen Anforderungen erfüllen.
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+Sobald wir festgestellt haben, dass die Brücke stehen wird, können wir dann feststellen, ob sie unseren spezifischen Bedürfnissen entspricht, wie z.B. dem Gewicht von Fußgängern gegenüber Zügen.
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+Im Bereich der Ökonomie gilt das gleiche Kriterium. Wenn meine ökonomische Theorie verlangt, dass die Preise gleichzeitig steigen und fallen, dann kann sie nicht gültig sein, denn das ist unmöglich. Sobald meine Theorie auf interne Konsistenz geprüft wurde, kann ich anfangen, nach Beweisen zu suchen und/oder meine Theorie zu benutzen, um proaktive Vorhersagen zu machen.
 
-Thus, we can see that any theory, to be valid, requires the following:
+So können wir sehen, dass jede Theorie, um gültig zu sein, das Folgende erfordert:
 
-1. Internal consistency (logic).
-2. External consistency (testability).
+1. Interne Konsistenz (Logik).
+2. Externe Konsistenz (Testbarkeit).
 
-With this in mind, we can now turn to the core subject of this book.
+In diesem Sinne können wir uns nun dem Kernthema dieses Buches zuwenden.
