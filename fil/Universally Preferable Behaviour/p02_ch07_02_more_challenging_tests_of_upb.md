@@ -44,7 +44,7 @@ Samakatuwid ay mapupunta tayo sa lohikal na problema ng "hindi mapipigilan ang k
 
 Pati, ang salitang "isda" ay nananatiling suliranin sa pag-popormulasyon, dahil ito ay lubhang sigurado na maging pangkalahatan. ang tamang repormulasyon sa UPB ay: "para sa mga tao masama ang pumatay ng mga nabubuhay na mga organismo."
 
-If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+Kung, gayunman, ang pagpatay ay masama, muli natin na harapin ang suliranin ng "ang kasamaan ay hindi maiwasan." walang taong na pwedeng umiral sa pagpatay sa mga iba pang organismo kagaya ng mga mikrobyo, mga halaman, o marahil na mga hayop. Sa gayon "ang buhay ng tao" ay tinutukoy gaya ng "kasamaan." pero kung ang buhay ng tao ay kagaya ng kasamaan, hindi ito pwedeng *maging* masama, sapagkat ang pag-iwas ay maging imposible.
 
 What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
 
