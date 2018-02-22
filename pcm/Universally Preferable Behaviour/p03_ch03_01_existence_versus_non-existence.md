@@ -1,64 +1,64 @@
 ## Existence Versus Non-Existence
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+We dey talk say “warin nor dey exist” and warin nor carry weight or power, or carry d beta change for weight or power, like to find d join body of gravity.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+God nor carry weight or energy, or show d effects of mass or energy – God nor fix be detectable or verifiable at all, shape or form, weather na wit human being senses or wit rationality.
 
-Thus if I say, “God exists,” what I am really saying is:
+ok, if I talk say “God dey,” warin I dey talk be dat na:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+“*anything way dey live must be detectable; God nor fit  be detect by man, but God dey – as e be say warin nor dey exist, be dey exit.*” 
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+E-hen as we dey talk say “God dey,” I don make and stand gidigba. I don show “warin dey exist ” as “ warin nor dey exist”, dis one come dey explain about dis life as something way nor get “life” , or rock as “nor be d same as rock” or as “square” or as a “circle”.
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+As d same, if I com make something different as in warin “nor dey exist na d same thing as watin dey exist” and confusion na d same as watin dey continue and nor dey stop” and “I say dis thing correct, and “lie na lie” and “watin nor dey equal na d same as watin dey equal” now watin I don do na warin “nor dey correct,” and all d things I put na lie, and talk say dis na place where lie com be com correct."[^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Warin dey now, people nor dey make dis “alternate universe” take am to invalidate warin dey right and correct inside our own universe, but na to safe warin be erroneous in reality, and com call am correct. For example nor body dey argue say “God fit dey for different universe, na so if no fit say God nor dey exist” or talk say “ e nor dey for another universe, na so me I nor fit talk say I exist here."
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
+Dem nor if talk say or agree say dat: “ In another universe, u go gree with me say that God nor dey exit, I go talk say u be unbeliever.”[^3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+Na correct talks to say about reality nor get end opposed becos some think say realm called “lie na d same with truth talk” warin nor dey validates dem, den warin be dey self na “nor better talk abouth correct thing na really valid” – however, we know book as dose philosophers by now we don know say the talk dey confusing small, since na better talk to say dat na correct true e b dat means to say nor better talk b true. If something nor be true or lie – even dat talk – dem nor talk at all go fit make anything at all. When u dey use words, like using English, using comprehensible sentence – all of dem nor make sense at all, since in dis “alternative universe”  some structured utterance go fix be something make e no make senses at all. If something way fix be true in dis alternate universe come get effect on talk we make in dis universe, then we go truly know say the universe dey correct, dat is to say dat nor statements can ever fix make about anything, since dere exact opposite can be d same as true
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+D true reality of d statement be say “something way nor correct na d same with something way correct” is d tautological dey kolo of “null be d same as null”.
 
 ### The "Alternate Universe" In Human Society
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+D reason why we dey spend so much time dey hammer on dis “alternate universe” theory is dat it has direct relevance to where people dey live, and is used to “justify d greatest bad thing way dey committed among we people.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+Warin we don see b/4, we know say to kpai no good at all. As we dey waka through d proposition dat kpai is totally not good at all in d above example, I strongly get am for mind dat any person go dey shocked to have their character/behavior instincts correct through d strict abstract reasoning of UPB. In dis part, however, e go be special permission for u to start to b truly stocked.  
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+D ogboge leaps for front in scientific watin get sense na d so-called “unifying theories. “Einstein spent plenty year com work  out a unified field theory; and theories of physics which com gather together ogboge and lazy forces, electromagnetism, gravity and so on remain elusive.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+UPB way b framework, however, nor come believe our character inside us at d personal, philosophical and universal levels – but e com profound and shocking implications for where people dey live together. 
 
 #### UPB In Action
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+D UPB framework com check character matching by asking dem dat dey be internally consistent, and universal in terms of time, place and individual.
 
-If we accept UPB, we must also accept the following corollary:
+If we com agree with UPB, we go also com agree d following corollary:
 
-- Moral propositions are independent of costume.
+-  Behavior propositions are free of costume.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Warin dis one com mean be dat man no go fix change his behavior natural by d shirt e dey wear. D way to change person cloth no go fix change person look as him carry com for earth. To dey fight with character way get laws no go if make d cloth dat u dey wear change any thing at all.  
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Soldier who be government people way dey stand for road dey carry stick, of course, wear their color cloths way no be d same as people who nor dey work for government. Dose people who nor join soldier cannot kpai; solders, however, dem nor get power to kpai any person but dem go still dey priased dem for kpaing.
 
-Let’s take another example.
+Make we yam  about another example.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Theft na dose people way dey go steal other people things e nor good at all, as we don talk am for up there. E no good for every people who dey for situation all the times and under all circumstance. Since to thief somebody thing be say u dey take something by force from somebody hand or house and d person nor know or agree, then taxation is always, universally and nor good at all. Taxation come be like say dem dey by force dey collect person thing way d person nor know or agree, since taxation com rest on d initiation of to take force collect person property. 
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+As we dey call “government” na just another example of dis null zone where dey go say something way dey up na down, black na white, truth na lie and bad thing na good thing
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Where things dey happen na d degree dat reason and evidence go make big thing leap from d personal to d universal, and com scatter any irrational null zones na d way. Where Science com make thing happen exactly to d degree dat dey nor agree d irrationality of God and subjective “absolutes.” Dose people who dey make medicine to d extend dat dey rejects d power of prayer and empty native juju, and instead believe say na their on studies and evidence beta or good pass. Philosophy also – and place where human being dey live and gather – will get and grow up high dat e nor agree with d irrational “square-circle character or behavior” of statist and religion ethical theories.
 
 ### Government
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Dey are talking say dat d government work under opposite character rules way different from other community na d same thing we dey talk say “leprechauns are immune to gravity. “Frist of all, leprechauns nor dey exit – and one of d way which we go know say dem nor dey exist na by d thing dem dey claimed say dat dey are immune to gravity. Everything dat get weight na subject to gravity – dat one na immune to gravity by definition na e nor get mass, and d thing nor dey exist. D talk way dey ground “leprechauns are immune to gravity” na a tautology, dis one only com be true say na d non-existence of leprechauns – dis one com b d semantic equivalent of “dat which nor dey exist, nor dey exist.” A na A, Aristotle’s first law of logic, does precious little to confirm d existence of dat which is defined as non-existence.     
 
 In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
 
 If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become right for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
 
 I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
 
