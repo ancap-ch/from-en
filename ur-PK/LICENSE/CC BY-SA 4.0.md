@@ -127,19 +127,19 @@ b. if You include all or a substantial portion of the database contents in a dat
 
 c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
 
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+شبہ سے بچنے کے لئے، یہ سیکشن 4 اس پبلک لائسنس کے تحت آپ کی ذمہ داریوں کو تبدیل نہیں کرتا ہے جہاں لائسنس یافتہ حقوق دیگر کاپی رائٹ اور اسی طرح کے حقوق شامل ہیں.
 
 ### Section 5 – Disclaimer of Warranties and Limitation of Liability.
 
 a. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
 
-b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
+b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. جہاں مکمل طور پر یا جزوی طور پر ذمہ داری کی حد کی اجازت نہیں ہے، یہ حد آپ پر لاگو نہیں ہوتی.**
 
 c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
 
 ### Section 6 – Term and Termination.
 
-a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+a. This Public License applies for the term of the Copyright and Similar Rights licensed here. تاہم، اگر آپ فیل ہو جاتیں ہیں اس پبلک لائسنس کی تعمیل کے ساتھ تو، اس پبلک لائسنس کے تحت آپ کے حقوق خود کار طریقے سے ختم ہوجاتے ہیں.
 
 b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
 
@@ -159,7 +159,7 @@ a. The Licensor shall not be bound by any additional or different terms or condi
 
 b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.t stated herein are separate from and independent of the terms and conditions of this Public License.
 
-### Section 8 – Interpretation.
+### حصہ 8 - ترجمانی.
 
 a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
 
