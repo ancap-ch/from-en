@@ -28,11 +28,11 @@ Ang UPB ay hindi tinanggap bilang imbalido ang kahit anung resulta ng teyorya sa
 
 Miski alin"kumakain" ay moral, imoral, o niutral na moral, kapag ang pagkain ay imoral, tsaka ang buong host ng lohikal na mga suliranin ay lumitaw, kung ako ay sigurado na kami ay medyo pamilyar sa ngayon.
 
-If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
+Kung, sa iba pang banda, ang kumakain ay *moral*, tsaka hindi pwedeng maging moral ang pagkain ng isang repolyo, at ang pagkain ng isda ay imoral, dahil ito ay kalapastanganan sa pangkalahatan, sa gayon para ang pag-kilos - kumakain - ay nahatulan ng mabuti at masama.
 
-It is in this way that we understand that the proposition “eating *fish* is evil” fails the test of UPB, and is not valid as a moral theory.
+Sa paraan na ganito mauunawaan antin na ang proposisyon "kumakain *isda* ay masama" nabigo ang pagsubok ng UPB, at ay hindi ito balido bilang moral na teyorya.
 
-### Animal Rights
+### Ang mga karapatan ng hayop
 
 We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
 
