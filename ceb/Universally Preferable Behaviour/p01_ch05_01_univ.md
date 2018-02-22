@@ -1,59 +1,49 @@
-## Universally Preferable Behaviour
+## Malukpanon Kaayo nga Nagustuhan nga Gawi
 
-As a result of the above arguments, we can see that it is impossible to enter into any debate without accepting the premise that certain behaviours are *universally preferable*.
+Isip resulta sa mga argumento sa ibabaw, makita nato nga imposible kini nga makasulod og bisan unsa nga lantugi nga wala mingdawat sa basehanan nga pamahayag nga ang mga tino nga gawi kay *malukpanon kaayo nga nagustuhan*.
+Gigamit nako ang pulong nga “gawi” diri kay sa “hunahuna” tungod kay importante kini aron sa paglahi tali sa putli kaayo sa sulod ug dili masuta nga mga estado susama sa “paghunahuna” gikan sa katuyoan ug masuta nga mga estado susama sa “pag-akto,” “pagsuwat” ug “pagsulti.”
+Imposible kini nga mapamatud-an nga gadamgo ko og usa ka elepante sa miaging gabii. Posible kini nga mapamatud-an nga ako nakasulat og pulong nga “elepante,” nga mao ang hinungdan nga nigamit ko sa pulong nga “gawi” kay sa “hunahuna.”
+Ang pagsanong ngadto lohika nga naglabaw sa argumento kay usa ka *aksyon*. Kung, matag higayon nga ako modawat og punto nganha kanimo, wala ko ningsulti, apan hinoon ningtutok rako nimo nga blangko kaayo, makita nimo kini nga makairitar nga makiglantugi hinoon ka nako. Sa pagdawat og punto, kinahanglan ko mobuhat sa aksyon nga binaba nga pagsanong.
 
-I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
+Busa mamahimo kini nga makita nga, kinaiyahanon sa matag akto sa pagkiglalis nga kwentada sa nasukip nga mga basehanan nga pamahayag nga dili mamahimo nga matuali nga mahunahunaan.
 
-It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant,” which is why I use the word “behaviour” rather than “thought.”
+Kung ninghangyo ko nimo nga kitaon ko ngadto sa korte sa tenis, ug mopakita og pagnginhas nga pusil, pwede nga kita mapunta sa usa ka duwa sa mga matang, pero tino kaayo nga dili kini tenis. Sa diha nga mohangyo ko nimo nga makig-abot ko ngadto sa korte sa tenis alang sa usa ka duwa, gipamahayag ana nga hangyo kay mao ang pagdawat sa mga mando sa tenis.
+Sa makasaysayanon, kadtong nalambigit sa pagkiglantugi nga pang-etika kay kanunay nga mapakyas sa pagmintinar sa niini nga sukaranon nga reyalidad.
 
-Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+Dili ko makahimo nga mosumiter og usa ka papel nga pang-siyentipiko nga gisuwat nako sa akong kaugalingon nga pinulongan, nag-angkon nga nahukman na kini pinaagi sa akong mananagna nga bulawang isda, ug magdahom nga mahimong seryosohon kini. Sa kaparehas, dili ko makahimo nga makasugod og usa ka pang-pilosopiya nga lantugi ngadto sa etika nga nagbase sa akong kaugalingon nga pamatasan , ug ming-angkon nga akong mga argumento kay ang tanan napamatud-an ni Trixie ang kahibaw sa tanan ug dili makita nga tunto nga espiritu, ug nagdahom nga mahimo nga seryosohon kini.
+Ang akto sa pagkiglantugi nagkinahanglan gayod og pagdawat sa malukpanon nga nagustuhan nga gawi (UPB). Walay pamaagi nga makatubag og makatarunganon ngadto sa usa ka argumento nga pang-etika nga *wala* mingeksibit og UPB.
+Moadto na kita karon ngadto sa mga siris sa positibo nga mga pruweba alang sa UPB.
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+### UPB ug Pagkatinuod
 
-If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+Usa sa sentro nga mga hagit nga giatubang sa mga moderno nga pilosopo kay ang gikinahanglan nga pagpamatuod nga ang mga mando sa batasan mao ang duha nga posible og malukpanon. Hangtod nga ang mga mando sa pamatasan nga mahimo nga mahilisgotan sa susama nga kapig-ot ug katarong isip bisan unsa nga uban nga mga proposisyon, hangtud sa hangtud gayud kita nga mapakgang sa subhektibismo, mga pihig sa pulitika ug ang pragmatiko nga “argumento gikan sa epekto.”
 
-Historically, those engaged in ethical debating have often failed to maintain this basic reality.
+Ang labing duol nga kapareha nga makasaysayanon sa atong sitwasyon sa pagkakaron kay nahitabo niadtong ika-kinse ug ika-desisayis nga mga siglo, sa panahon sa pagtumaw sa pamaagi nga siyentipiko. Ang mga nag-una nga payoner nga mingpasiugda sa makatarunganon ug empirikal nga diskarte ngadto sa kahibawo nga nag-atubang og susana ka mga pihig nga karon atung gisagubang – sa tanan nga mga susama nga dili makatarunganon, ang gisabwag nga mga gahom sa simbahan ug estado, mistikal ug hilisgotanan nga “mga hingpit” ug sa nag-una nga mga babag sa edukasyon. Kadtong mingpasiugda sa pag-una sa pagka-makatarunganon ug empirikal nga nabantayan batok sa Biblikal nga pundamentalismo ug sekular nga pagkasalbahis nga nakasagubang og determinado nga opisyon sa kadtong naggunit sa duha ang krus ug espada. Daghan ang natortyur ngadto sa kamatayon alang sa ilaha nga intelektwal nga kaligdong – kita nagasubang og risgo nga menos, ug kinahanglang mahimo nga labaw pa nga maisud sa pag-adbokar kung unsa ang *tinuod* ngadto sa kung unsa ang *gituohan*.
 
-I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
+Aron sa pag-atake sa mga sayop nga moralidad, kinahanglan nato nga magsugod gikan sa sinugdanan, susama sa gibuhat sa mga una nga mga siyentista. Wala minglalis si Francis Bacon nga ang pamaagi nga siyentipiko kay labaw pa nga “episyente” kay sa ampo, mga teksto sa Bibliya o mga panlantaw nga nadani sa pagpagutom. Simpol ra kaayo siya nga mingsulti nga kung kita gusto makasabot sa kinaiyahan, kinahanglan nga maniid kita sa kinaiyahan ug maka-teorya og makatarunganon – nga adunay *walay lain* nga ruta aron sa pagkahibawo.
 
-The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
+Kinahanglan nga kita mokuha og susama nga diskarte sa paghulagway ug pag-komunikar sa *moralidad*. Kinahanglan nga kita magsugod og gamit sa gahom og pagkalehitimo sa pamaagi nga siyentipiko aron sa pagpamatuod sa pagkatinuod ug pagkamalukpanon sa mga balaud sa pamatasan. Kinahanglan nga kita magsugod gikan sa sinugdanan, maggama og makatarunganon ug isalikway ang *bisan unsa* nga dili makatarunganon o dili empirikal nga mga puli alang sa kamatuoran.
+Unsay hitsura niini ngadto sa pagbuhat? Ang buhaton nato tanan mao ang pag-establisar sa nagsunod nga mga panultihon:
+- Ang moralidad kay usa ka konsepto nga tinuod.
+- Ang mga mando sa pamatasan kinahanglan nga mahimo nga kanunay alang sa tanan nga katawhan.
+- Ang pagkatinuod sa teorya sa pamatasan kay nahukman pinaagi sa pagkamakanunayon niini.
 
-Let us now turn to a series of positive proofs for UPB.
+Aron sa pagsugod gikan sa sinugdanan gyud… mao ang mga mando sa pamatasan – o malukpanon kaayo nga nagustuhan nga mga gawi sa tawo – nga tinuod sa tanan?
 
-### UPB And Validity
+Aduna lang gyuy duha ka posibilidad kung kini mahitungod ngadto sa mga mando sa pamatasan, sama sa nga aduna na sa bisan unsa nga lohikal nga siyensya. Kon ang mga mando sa pamatasan nga malukpanon kay tinuod, o sila kay dili.[^6]
 
-One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
+[^6]: Sa pisika, ang pangutana mao ang: kon ang mga mando nga pang-pisika kay tinoud, o nga sili kay dili.
+Ang usa ka mando mamahimo nga tinuod kung kini *minglungtad sa pagka-empirikal*, pareha sa grabidad, o tungod kay kini *tinuod*, pareha sa talaid nga ang duha pun-an og duha nga matumbas og upat.
 
-The closest historical analogy to our present situation occurred in the fifteenth and sixteenth centuries, during the rise of the scientific method. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
+Kinahanglan unya nato nga mangutana sa una: aduna ba gyuy mga mando sa tanan?
 
-In order to attack false moralities, we must start from the beginning, just as the first scientists did. Francis Bacon did not argue that the scientific method was more “efficient” than prayer, Bible texts or starvation-induced visions. He simply said that if we want to understand nature, we must observe nature and theorise logically – and that there is *no other* route to knowledge.
+Tino kaayo nga dili ngadto sa materyal nga reyalidad, nga wala naglangkub o mingtuman sa usa ka mando sa pamatasan. Ang mga mando sa pamatsan kay lahi gikan sa mga mando sa pisika, sama sa pamaagi nga siyentipiko nga lahi gikan sa grabidad. Ang butang tiunay kaayo nga mingtuman sa grabidad o sa ikaduha nga balaud sa termodinamika, pero “dili ka dapat mopatay” kay wala gyud nahimutang sa kinaiyahan sa butang. Ang mga balaud sa pisika *minghulagway* sa gawi sa butang, pero wala naglangkub og usa ka *kasugoan*. Ang siyensya nagsulti nga ang butang *makahimo* nga molihok ngadto sa usa tino nga higayon – nga dili kini *gyod* molihok sa usa ka tino nga higayon. Ang teorya sa grabidad mingpamatuod nga kung ikaw motulod og tawo ngadto sa pangpang, matagak siya. Dili kini makasulti nimo nga kon ikaw moduot *gyod* niya o dili.
 
-We must take the same approach in defining and communicating *morality*. We must begin using the power and legitimacy of the scientific method to prove the validity and universality of moral laws. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
+Busa dili kini makasulti nga ang mga mando sa pamatasan kay anaa sa reyalidad sa materyal, ug wala niini nga sila awtomatiko nga mingtuman sama sa mga balaud sa pisika – nga *wala* nagpasabot nga ang mga balaud sa pamatasan kay dili tinuod, hilisgutanan o walay kalabotan niana. Ang pamaagi nga siyentipiko wala minglungtad sa kini nga reyaldad o kana – ug kay usab opsyonal – pero dili kini bakak sa tanan, pagahilisgotanan o walay kalabotan.
 
-What does this look like in practice? All we have to do is establish the following axioms:
+Kung kita makahimo nga makapamatuod nga ang mga teorya sa pamatasan kay mamahimo nga katuyoan, makatarungan ug masuta, makahimo kini nga makahatag og susama nga kaayohan ngadto sa etika nga minghisgot sa mga teorya nga *pang-pisika* ngadto sa gibuhat sa pamaagi nga siyentipiko.
 
-- Morality is a valid concept.
-- Moral rules must be consistent for all mankind.
-- The validity of a moral theory is judged by its consistency.
-
-To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
-
-There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
-
-[^6]: In physics, the question is: either universal physical rules are valid, or they are not.
-
-A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
-
-We must then first ask: do moral rules exist at all?
-
-Certainly not in material reality, which does not contain or obey a single moral rule. Moral rules are different from the rules of physics, just as the scientific method is different from gravity. Matter innately obeys gravity or the second law of thermodynamics, but “thou shalt not murder” is nowhere inscribed in the nature of things. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. A theory of gravity proves that if you push a man off a cliff, he will fall. It will not tell you whether you *should* push him or not.
-
-Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
-
-If we can prove that moral theories can be objective, rational and verifiable, this will provide the same benefits to ethics that subjecting *physical* theories to the scientific method did.
-
-Before the rise of the scientific method, people believed that matter obeyed the subjective whims of gods and devils – and people believe the same of morality now. Volcanoes erupted because the mountain-god was angry; good harvests resulted from human or animal sacrifices. No one believed that absolute physical laws could limit the will of the gods – and so science could never develop. Those who historically profited from defining physical reality as subjective – mostly priests and aristocrats – fought the subjugation of physical theories to the scientific method, just as those who currently profit from defining morality as subjective – mostly priests and politicians – currently fight the subjugation of *moral* theories to objective and universal principles.
-
+Sa wala pa mingsubang ang pamaagi nga siyentipiko, ang katawhan nagtuo nga ang butang mingtuman sa mga sugpayon nga manya sa mga ginoo ug mga yawa – ug ang katawhan mingtuo og susama ngadto sa moralidad karon. Ang mga bulkan mingbuto tungod kay gisapot ang ginoo sa bungtod; ang mga maayo nga ani nagresulta gikan sa tawo o mananap nga mga sakripisyo. Walay mingtuo nga ang mga hingpit nga balaud sa pisika kay makalimitar sa kabubut-on sa mga ginoon – ug maong ang siyensya wala gyud naugmad. Kadtong kinsang makasaysayano nga nakaginansiya gikan sa paghulagway sa reyalidad nga pang-pisika isip pagahilisgotan – kasagaran mga pari ug mga aristokrata – nga ming-kombate sa pagbuak sa mga teorya nga pang-pisika ngadto sa pamaagi nga siyentipiko, sama sa kadtong kinsa nga sa pagkakaron nakaginansya gikan sa paghulagway sa moralidad isip pagahilisgotan – kasagaran mga pari og mga pulitiko – nga sa pagkakaron nakigbatok sa pagbuak sa mga teorya sa *pamatasan* ngadto sa katuyoan ug mga prinsipyo nga malukpanon.
 As mentioned above, the scientific method is essentially a methodology for separating accurate from inaccurate theories by subjecting them to two central tests: logical consistency and empirical observation – and by always subjugating logical consistency to empirical observation. If I propose a perfectly consistent and logical theory that says that a rock will float *up* when thrown off a cliff, any empirical test proves my theory incorrect, since observation always trumps hypothesis.
 
 A further aspect of the scientific method is the belief that, since matter is composed of combinations of atoms with common, stable and predictable properties, the behaviour of matter must also be common, stable and predictable. Thus experiments must be *reproducible* in different locations and times. I cannot say that my “rock floating” theory is correct for just one particular rock, or on the day I first tested it, or at a single location. My theories must describe the behaviour of *matter*, which is universal, common, stable and predictable.
