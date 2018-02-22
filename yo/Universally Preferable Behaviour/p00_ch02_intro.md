@@ -1,8 +1,8 @@
-## Introduction
+## Ifihan
 
-For countless generations, mankind lived in a kind of egocentric womb of self-imposed ignorance: the world was flat, the sun, moon and stars revolved around him, ancestors beckoned to him from beyond the mists of death, and thunder was the anger of the gods.
+Fun opolopo iran, awon eniyan gbe ni iru isoote alailegbe ti asise ti a ti fi ara won sile: aye je alapin, oorun, osupa ati awon irawo ti o wa ni ayika re, awon baba so fun u lati inu awon iku, ati ara ni ibinu ti awon orisa.
 
-Burrowing out from this narcissistic womb of subjective interpretation required the labour of millennia – and cost the lives of millions. The effort required to wrench our perspective from *perceptual experience* to *conceptual logic* was terrifying, exhilarating, highly disorienting and extremely dangerous. Understanding that the world was not what it *felt like*, or *seemed like*, was – and remains – the greatest feat of our intelligence. The *truth* of reality turned out to be in the eyes of the mind, not of the flesh.
+Burrowing jade lati inu itumo ti iso ti itumo yii nilo ise ti awon odunrun - o si ni iye awon milion. Igbese ti o nilo lati safikun irisi wa lati * iriri idaniloju * si * imo-imo-oro * je eru, igbiyanju, pupo aisedede ati lalailopinpin lewu. Oyeyeye pe aye ko ni ohun ti o * ro bi *, tabi * dabi enipe *, je - ati ki o wa - ti o dara julo ti ti wa oye. Otito ti otito wa jade ni oju -ara, kii se ti ara.
 
 The world looks flat; it is not. The sun and the moon look the same size; they are not. The stars seem to move around the earth; they do not. Learning the truth requires that we see the world from outside our senses – this does not mean a rejection of our senses, but an airtight compliance with the *real* evidence of the senses, which is not that the world is flat, but that matter, energy and physical laws are consistent. When we let go of a rock in our hand, it falls – this is the *real* evidence of the senses, not that the Earth is fixed and immovable. The idea that the world is immobile is an incorrect assumption that contradicts the direct evidence of our senses, which is that everything falls. If everything falls, the world cannot be fixed and immovable.
 
