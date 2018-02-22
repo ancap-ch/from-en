@@ -40,7 +40,7 @@ Kung ang pagpatay sa isda ay masama, saka sinabi ng UPB na ang maski sino o anom
 
 Ito ay maliwanag na ang pating ay hindi magkakaroon ng kapasidad na pigilan ang pagpatay sa mga isda, sapagkat ang mga ito ay madalas kumakain ng mga machines na meroong palikpik.
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
+Samakatuwid ay mapupunta tayo sa lohikal na problema ng "hindi mapipigilan ang kasamaan." kung ang pagpatay sa isda ay masama, pero hindi pwedeng maiwasan ng mga pating na patayin ang isda, at samakatuwid ang mga pating ay "hindi mapipigilan ang kasamaan." gayunpaman, kagaya ng tinalay namin sa itaas, na kung saan ay walang pagpipilian - na kung saan *pag-iwaas* ay hindi maari - pwedeng walang moralidad. Sa gayon ang proposisyon "ang pagpatay sa isda ay masama" subukan na tukuyin ang panglahatang moralidad na may mga hindi moral na sitwasyon.
 
 Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
 
