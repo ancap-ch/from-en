@@ -8,9 +8,9 @@ Ang mundo kung ingnan ay patag; ito ay hindi totoo. Ang araw at ang buwan kung t
 
 Diyan ay may mga maliit na katotohanan sa araw-araw; na ang mga bato ay bumagsak, at ang usok ay umaakyat paitaas, ang apoy naman ay mainit at ang araw at ang buwan ay parehong umiikot. At kapag tayo ay mananatiling matatag at mahigpit na nakatuon sa mga "maliliit na katotohanan," pwede nating makuha ang mga dakilang katotohanan ng pisika, na nagbibigay sa atin ng kahanga-hangang kaalaman at kapangyarihan.
 
-In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
+At sa pagitan ng mga maliit na katotohanan, gayunpaman, at ang mga dakilang katotohanan, ang mga ilusyon na nagbulag sa amin – at pareho sa pisika at sa mga etika.
 
-In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+At sa pisika, ang mga dakilang katotohanan ay hindi pwedeng sumalungat sa maliliit na katotohanan. At walang "pinag-isang teyorya" na ang pwedeng magwasto na komukontra sa aming direktang diwa-karanasan ng bumabagsak na bato o umaangat na apoy. At ang pinakadakilang teorya ng matematika ay hindi pwedeng maging balido kung ang paglalapat nito ay nagbibigay ng mga maling pagbabago sa pagtingin sa pambilang.
 
 Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
 
