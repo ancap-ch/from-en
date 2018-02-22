@@ -48,9 +48,9 @@ Kapag ating naiintindihan na ang aming potensyal na pagtatagumpay ay magagamit n
 
 Kaya dapat magkaroon ng isang pagbaba ng puwersa na kasaysayan na kumilos upang durugin at alipinin ang likas na kalayaan ng sangkatauhan.
 
-At sa larangan ng agham, hindi mahirap na makita ang mga mapang-abuso na pwersa na patuloy na nag-iingat sa aming mga isip sa malapit-simula ng kamangmangan. At ang kumbinasyon ng pamahiin sa anyo ng relihiyon, at kalupitan sa anyo ng aristokrasya, nanganganib sa may makatuwirang mga palaisipan na may pananakot, pagkabilanggo, pagpapahirap, at pagpatay. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+At sa larangan ng agham, hindi mahirap na makita ang mga mapang-abuso na pwersa na patuloy na nag-iingat sa aming mga isip sa malapit-simula ng kamangmangan. At ang kumbinasyon ng pamahiin sa anyo ng relihiyon, at kalupitan sa anyo ng aristokrasya, nanganganib sa may makatuwirang mga palaisipan na may pananakot, pagkabilanggo, pagpapahirap, at pagpatay. Gaya ng kita ng isang magsasaka mula sa mababang katalinuhan ng kanyang mga baka, at ang isang may-ari sa may-ari ng alipin mula sa takot sa kanyang mga alipin, mga pari at mga hari ay nagpanatili ng kanilang mga pribilehiyo sa pamamagitan ng pagbanta sa kamatayan ng sinumang naghahangad na mag-isip.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+At ang ordinaryong mga katotohanan ay ang "mga pari" at "mga hari"at sila ay – mga tao lamang. Ang simpleng katotohanan ay ang mga diyos at mga demonyo na dapat ipagmatuwid ang kanilang pamamahala ay hindi kailanman umiiralpa.
 
 We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
 
