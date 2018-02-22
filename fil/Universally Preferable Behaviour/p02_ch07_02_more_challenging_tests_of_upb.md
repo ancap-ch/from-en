@@ -42,7 +42,7 @@ Ito ay maliwanag na ang pating ay hindi magkakaroon ng kapasidad na pigilan ang 
 
 Samakatuwid ay mapupunta tayo sa lohikal na problema ng "hindi mapipigilan ang kasamaan." kung ang pagpatay sa isda ay masama, pero hindi pwedeng maiwasan ng mga pating na patayin ang isda, at samakatuwid ang mga pating ay "hindi mapipigilan ang kasamaan." gayunpaman, kagaya ng tinalay namin sa itaas, na kung saan ay walang pagpipilian - na kung saan *pag-iwaas* ay hindi maari - pwedeng walang moralidad. Sa gayon ang proposisyon "ang pagpatay sa isda ay masama" subukan na tukuyin ang panglahatang moralidad na may mga hindi moral na sitwasyon.
 
-Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
+Pati, ang salitang "isda" ay nananatiling suliranin sa pag-popormulasyon, dahil ito ay lubhang sigurado na maging pangkalahatan. ang tamang repormulasyon sa UPB ay: "para sa mga tao masama ang pumatay ng mga nabubuhay na mga organismo."
 
 If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
 
