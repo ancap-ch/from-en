@@ -1,6 +1,6 @@
 ## Ang Panimulang Pagpapakilala
 
-For countless generations, mankind lived in a kind of egocentric womb of self-imposed ignorance: the world was flat, the sun, moon and stars revolved around him, ancestors beckoned to him from beyond the mists of death, and thunder was the anger of the gods.
+Ang henerasyon ay hindi na mabilang, at nanirahan ang buong sangkatauhan sa isang uri ng kamang-mangan sa sinapupunan ng sarili na ipinagkakait ang kamangmangan: ang daigdaig ay patag, ang araw, at ang buwan pati ang mga bituin sa langit ay umiikot sa paligid niya, at ang mga ninuno ay nakikilala sa kanya mula sa kabila ng mga mitsa ng kamatayan, at ang kulog ay ang galit ng mga diyos.
 
 Burrowing out from this narcissistic womb of subjective interpretation required the labour of millennia – and cost the lives of millions. The effort required to wrench our perspective from *perceptual experience* to *conceptual logic* was terrifying, exhilarating, highly disorienting and extremely dangerous. Understanding that the world was not what it *felt like*, or *seemed like*, was – and remains – the greatest feat of our intelligence. The *truth* of reality turned out to be in the eyes of the mind, not of the flesh.
 
