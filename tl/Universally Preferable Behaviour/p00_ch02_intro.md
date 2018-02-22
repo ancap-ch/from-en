@@ -64,11 +64,11 @@ Sa kabila ng pagbibigay ng ilusyon na natagpuan natin ang katotohanan, ang "gitn
 
 At dahil ang mga ito ay hindi lamang makatwiran, ngunit*laban sa*rasyunal, "ang gitnang mga katotohanan" ay nananatiling walang katapusan ang kakayahang na umangkop – hangga't naglilingkod sila sa mga nasa kapangyarihan. Ang isang halimbawa, ang Kristiyanismo ay lumutang mula sa lumalagong pasismo sa pagwawakas ng Imperyong Romano nang bahagya sa pamamagitan ng paghagupit sa "primitibong" mga pamahiin ng umiiral na ang mga teolohiya. "Kalimutan mo na ang iyong lumang mga diyos, tayo ay mayroong bagong tatak ng Diyos na mas mabuti!"
 
-At ang "gitnanag mga katotohanan" ay laging tumatagal sa anyo ng isang katotohanan, kasunod ng kasinungalingan. Si "Zeus ay isang paganong alamat" na isang tunay na pahayag, na kung saan ay lantaran na ginawa ng Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+At ang "gitnanag mga katotohanan" ay laging tumatagal sa anyo ng isang katotohanan, kasunod ng kasinungalingan. Si "Zeus ay isang paganong alamat" na isang tunay na pahayag, na kung saan ay lantaran na ginawa ng Christian proselytisers. At ang kasinungalingang sumunod ay: "Si yahweh ay hindi isang paganong alamat, kundi isang tunay at buhay na Diyos."
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+Pwede naming baguhin ito ng kaunti pa sa isang halimbawa na pamilyar sa sinuman na kailanman nagpayo sa isang palyadong kaibigan. "Ang huli kong naging karelasyon ay isang tunay na haltak," sasabihin niya, at magkakasundo ka. "At ang tunay kong bagong karalasyom *mahusay* kahit na, "siya ay idaragdag, at susubukan mong huwag pagulungin ang iyong mga mata.
 
-It is very hard not to replace one illusion with another.
+Sobrang mahirap na huwag palitan ang isang ilusyon sa isa pa.
 
 “The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
 
