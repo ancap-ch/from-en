@@ -50,7 +50,7 @@ Kung paano natin sasabihin: "ang pagpatay ng mga tao ay masama" -nais bang gawin
 
 Hindi -uli, dahil ang mga pating ay walang kapasidad para maiwasan ang pagpinsala ng mga tao, hindi sila pwedeng maging responsable para sa ganitong mga aksyon, anu mang iba pang higit sa isang pagguho ng lupa ay pwedeng isama sa hukuman kung ito ay pagsira ng isang tao.
 
-UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
+Pinahihintulutan ng UPB ang mga paghihiwalay ayon sa layunin at unibersal na mga materyal o ang pagkakaiba ng mga biyolohikal, kagaya ng ibang ginawang mga siyensiya. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
 
 In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
 
