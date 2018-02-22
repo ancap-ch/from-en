@@ -34,11 +34,11 @@ Kapag ang "lugar ng walang kahalagahan" ay hindi balido, at pagkatapos ay walang
 
 At sa mga lumang mapa makikita, bago maganap ang mga kartograpo sa kanilang mga pagtuklas, ang mga likhang sining ng mga kilalang lupain ay mabubura sa blangkong papel. Ang paglago ng mga kaalaman ay nangangailangan ng una sa isang guhit ng kung ano ang hindi kilala, at pagkatapos ay isang pagpapalawak ng mga kilalang mga prinsipyo sa hindi kilalang mga lugar.
 
-The same is true in the realm of morality.
+Ang kapareho ay totoo sa kaharian ng moral.
 
-### The Casualties
+### Ang mga Biktima
 
-Crossing this “null zone” is fraught with peril. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+Sa pagtawid sa, lugar ng walang kahalagahan" ay punong-puno ng panganib. At ang kalsada na mula sa maliliit na katotohanan at hanggang sa magaling na mga katotohanan ay pinagbubukas ng mga buto ng milyun-milyon. Nang mula sa pagkamatay ni Socrates sa tortyur ng mga unang siyentipiko sa pamamagitan ng mga relihiyosong panatiko, hanggang sa milyun-milyon na pinatay at namatay para sa mga itim na pantasya ng pasismo at komunismo, ang anumang pag-unlad ng kaalaman ng tao sa "lugar ng walang kahalagahan" ay puno ng malaking panganib.
 
 Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
 
