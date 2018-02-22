@@ -118,7 +118,7 @@ Halikat dalhin natin ang aking mabuting kaibigan na si Bob palayo sa maliit na s
 
 Malinaw, kapag si Bob ay gumising sa umaga, bago siya lumipat, hindi siya pweding pumunta sa bahay ng kanyang kapitbahay at huminge ng pera at manutok ng baril, hindi mahalaga Kung Sino ang nagsabi sa kanya na ito ay tama lang.
 
-Kapag si Bob ay nag aalmusal, hindi niya rin pweding atakihin ang kanyang kapitbahay at kunin Ang pera nito. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+Kapag si Bob ay nag aalmusal, hindi niya rin pweding atakihin ang kanyang kapitbahay at kunin Ang pera nito. Sa kanyang pagmamaneho papuntang trabaho - kahit na siya ay ilagay sa kanyang uniporme - hindi pa siya sumuntok, at gayon wala na siyang karapatan kaysa iba pang mamamayan. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
 
 Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
 
