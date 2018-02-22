@@ -52,13 +52,13 @@ At sa larangan ng agham, hindi mahirap na makita ang mga mapang-abuso na pwersa 
 
 At ang ordinaryong mga katotohanan ay ang "mga pari" at "mga hari"at sila ay – mga tao lamang. Ang simpleng katotohanan ay ang mga diyos at mga demonyo na dapat ipagmatuwid ang kanilang pamamahala ay hindi kailanman umiiralpa.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+Mga magaganda at malalaking mga hakbang ang aming ginawa sa pag-unawa sa kalikasan at ng mga katotohanan ng simpleng pantao pagkakapantay-pantay, ngunit ang malungkot na katotohanan ng bagay ay na ang lupain ng *moralidad* ay nawala pa rin sa "null zone" - sa mapanirang mga ilusyon ng "mga gitnang katotohanan."
 
-### "Middle Truths"
+### "Ang gitang mga katotohanan"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+At tawagin natin ang mga baliktad na prinsipyo ng mga naninirahan sa "lugar ng walang kahalagahan" – sa pagitan ng pang-unawa ng kahulugan at konseptwal na pare-pareho lang ang "mga gitnang katotohanan."
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+Ang mga sa "Ang gitnang mga katotohanan" ay ang delikado na ilusyon ng lahat, dahil binibigyan nila ang *panlabas na anyo* ng katotohanan habang aktwal *umaatake* sa katotohanan.
 
 By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
 
