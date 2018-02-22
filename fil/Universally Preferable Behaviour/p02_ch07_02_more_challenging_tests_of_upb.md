@@ -36,9 +36,9 @@ Sa paraan na ganito mauunawaan antin na ang proposisyon "kumakain *isda* ay masa
 
 Kami ay walang panahon para pumunta sa puno ng diskusyunan ng mga tanung sa mga karapatan ng hayop, pero pwede naming hindi ibaba sa pakikitungo sa moral na proposisyon: "ang pagpatay sa isda ay masama."
 
-Kung ang pagpatay sa isda ay masama, saka sinabi ng UPB na ang maski sino o anoman ang pumatay sa isday ay masama. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
+Kung ang pagpatay sa isda ay masama, saka sinabi ng UPB na ang maski sino o anoman ang pumatay sa isday ay masama. Kasama dito hindi lamang ang mangingisda, ngunit pati ang mga pating - dahil kung masana ang pagpatay sa isda, meron tayong mas pinalawak na depinisyon ng etikal "mga aktor" ay kasama sa non-human life.
 
-It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
+Ito ay maliwanag na ang pating ay hindi magkakaroon ng kapasidad na pigilan ang pagpatay sa mga isda, sapagkat ang mga ito ay madalas kumakain ng mga machines na meroong palikpik.
 
 Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
 
