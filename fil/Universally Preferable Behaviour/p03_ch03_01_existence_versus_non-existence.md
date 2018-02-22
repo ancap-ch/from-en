@@ -104,7 +104,7 @@ Ito ay maaaring totoo, ngunit ito ay ganap ng walang katuturan. Kung sasabihin k
 
 Para sabihin na ang sapilitan ay katumbas ng kusang loob ito ay ganap na hindi makatuwiran at kontradiksyon sa sarili. Para sabihin na ang panimulang pag gamit ng pwersa ay ganap na katumbas ng hindi- nagsimulang gumamit ng pwersa ito ay para sabihin na ang taas ay baba, itim ay puti, at ang katotohanan ay kasinungalingan.
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+Kung wala ang "null zone," ang mga sirang fiction ay hindi mananatili.
 
 The “null zone” is the lair of the beast we hunt.
 
