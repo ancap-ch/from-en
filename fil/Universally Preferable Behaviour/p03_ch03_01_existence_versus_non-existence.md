@@ -114,7 +114,7 @@ Ayon sa UPB, ito ay mali Para sa akin at para sayo ang magnakaw. Gayunpaman, sa 
 
 ### Kapulisan
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+Halikat dalhin natin ang aking mabuting kaibigan na si Bob palayo sa maliit na silid ng teoryang moral subukat at ibalik siya sa kanyang original na trabaho bilang isang pulis.
 
 Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
 
