@@ -22,9 +22,9 @@ Ang tunay na reyalidad ng pahayag na "mali katumbas ay totoo" ay ang tautolohika
 
 ### Ang "Alternatibong Uniberso" sa Pantaong Lipunan
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+Ang rason kung bakit tayo ay gumugugol ng sobrang oras upang harapin ang teorya ng "alternatibong Uniberso" ay dahil mayroon itong direktang kaugnayan sa pantanong lipunan, at ginagamit upang "patunayan" ang lubos na kasamaan na nakatuon sa bawat isa sa atin.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+Sa ating personal na karanasan, alam nating ang pumatay ay mali. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
 
 The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
 
