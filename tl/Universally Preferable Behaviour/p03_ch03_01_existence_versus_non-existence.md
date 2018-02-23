@@ -1,6 +1,6 @@
-## Existence Versus Non-Existence
+## Pag-iral Laban sa Hindi Pag-iral
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+Ating binibigyang kahulugan ang "hindi pag-iral" bilang isang hindi nagtataglay ng bigat o enerhiya, o nagpapakita ng mga epekto ng bigat o enerhiya, gaya ng mga kapansin-pansin na ugnayan sa grabidad.
 
 God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
 
