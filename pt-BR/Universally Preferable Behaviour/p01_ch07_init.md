@@ -24,7 +24,7 @@ Por outro lado, se eu ficar em casa todas as noites, eu não estou exatamente ch
 
 ### O princípio de não-agressão (PNA)
 
-Uma regra moral é geralmente proposta ser chamada de o *princípio de não-agressão*, ou PNA. É também chamado de ser um "pacifista porco-espinho", na medida em que um porco espinho só usa "força" em legítima defesa. o NAP é basicamente a proposição de que "a iniciação do uso da força é moralmente errada." Ou, para colocar em termos da nossa conversa: "a não-iniciação da força é preferível universalmente".
+Uma regra moral é geralmente proposta ser chamada de o *princípio de não-agressão*, ou PNA. É também chamado de ser um "pacifista porco-espinho", na medida em que um porco espinho só usa "força" em legítima defesa. o PNA é basicamente a proposição de que "a iniciação do uso da força é moralmente errada." Ou, para colocar em termos da nossa conversa: "a não-iniciação da força é preferível universalmente".
 
 Quando analisamos um princípio como o NAP, na verdade existem apenas sete possibilidades: três negativas, três positivas e uma neutra:
 
@@ -32,9 +32,9 @@ Quando analisamos um princípio como o NAP, na verdade existem apenas sete possi
 - A iniciação do uso da força, às vezes é moralmente errada.
 - A iniciação do uso da força nunca é moralmente errada.
 - A iniciação do uso da força não tem a ver com moral.
-- A iniciação do uso da força nunca é moralmente correto.
-- A iniciação do uso da força as vezes é moralmente correto.
-- A iniciação do uso da força é sempre moralmente correto.
+- A iniciação do uso da força nunca é moralmente correta.
+- A iniciação do uso da força as vezes é moralmente correta.
+- A iniciação do uso da força é sempre moralmente correta.
 
 Como já vimos acima, no entanto, o UPB é uma estrutura "tudo ou nada". Se uma ação é *universalmente preferível*, então ela não pode ser limitada pelo indivíduo, geografia, tempo etc. Se é errado matar em Argel, então também é errado matar na Bélgica, Estados Unidos, no Polo Norte e na lua. Se é errado matar ontem, então não é certo matar amanhã. Se é errado o João assassinar alguém, então deve também ser errado a Maria assassinar.
 
