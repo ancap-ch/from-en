@@ -46,9 +46,9 @@ Assim, quando apontamos situações de responsabilidade reduzida, não estamos *
 
 Se eu celebro, voluntariamente, um contrato com você no qual prometo pagar as suas contas durante um ano, não me estarei a inscrever na escravidão, mas seguramente, estou a assumir uma obrigação positiva pela qual sou responsável, agora.
 
-Se eu dirijo uma casa de repouso, e aceito pacientes que não se conseguem alimentar, então, se eu não os alimentar, sou responsável pelas suas mortes. No one is *forcing* me to take in these patients, but once I have expressed a desire and a willingness to take care of them, then I am responsible for their continued well-being.
+Se eu dirijo uma casa de repouso, e aceito pacientes que não se conseguem alimentar, então, se eu não os alimentar, sou responsável pelas suas mortes. Ninguém me estava a *obrigar* a aceitar esses pacientes, mas uma vez que eu expressei o desejo e a vontade de os cuidar, sou responsável pelo seu bem-estar contínuo.
 
-In the same way, if I borrow your lawnmower, I am obligated to bring it back in more or less the same state that it was when I borrowed it. Similarly, if I go to a pet store and buy a dog, I have taken on a voluntary obligation to take care of that dog. This does not mean that I am now the dog’s slave until the day it dies, but it does mean that as long as the dog is in my possession, I have a responsibility to try to keep it healthy.
+Do mesmo modo, se peço a sua máquina de cortar relva, estou obrigado a devolvê-la em, mais ou menos, o mesmo estado em que estava, quando eu a tomei emprestada. Igual, se vou a uma loja de animais e compro um cachorro, assumo uma obrigação voluntária de cuidar desse cão. Isso não significa que agora eu sou o escravo do cão até o dia em que morra, mas significa que, enquanto o cão estiver na minha posse, tenho a responsabilidade de tentar mantê-lo saudável.
 
 These kinds of implicit contracts are quite common in life. We do not sign a contract with a restaurateur when we go to eat a meal in his restaurant; it is simply understood that we will pay before we leave. I have never signed a contract when I walk into a store promising not to shoplift, but they have the right to prosecute me if I do. I also have never signed a contract promising not to rape a woman if we go on a date, yet such a “contract” certainly exists, according to UPB.
 
