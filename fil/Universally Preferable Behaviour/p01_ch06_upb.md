@@ -65,7 +65,7 @@ May isang partikular na isyu sa pag-iwas na iyon ay darating mamaya sa aklat na 
 
 Kung nakatira ako sa isang bundok na mataas na limang libo kilumetro ang layo mula sa iyo, at magpadala sa iyo ng isang e-mail na nagsasabi sa iyo na kung sakaling maglakad sa harap ng aking bahay, Papatayin ko kayo, medyo madali para iyo na maiwasan ang sitwasyon ito. Ang aking banta ng lakas ay tiyak na imortal, ngunit ang mga tanong ay tiyak na itataas kung agad kang tumalon sa isang eroplano, Umakyat sa aking bundok at dahan-dahan na nakaupo sa harapan ng aking bahay.
 
-Sa kabilang kamay, kung nakatira ka sa isang patay na dulo ng kalye, at sasabihin ko sa iyo na kung dadalhin mo ang kalye na iyon upang umuwi, Papatayin ko kayo, ang inyong kapasidad upang maiwasan ang sitwasyon ito ay nagiging limitado. You could certainly tunnel into your house, or jump over a bunch of backyard fences, but all of this would be considerably inconvenient.
+Sa kabilang kamay, kung nakatira ka sa isang patay na dulo ng kalye, at sasabihin ko sa iyo na kung dadalhin mo ang kalye na iyon upang umuwi, Papatayin ko kayo, ang inyong kapasidad upang maiwasan ang sitwasyon ito ay nagiging limitado. Maaari mong tiyak na lagusan sa iyong bahay, o tumalon sa ibabaw ng isang likod-bahay sa bakuran, ngunit lahat ng ito ay magiging lubhang hindi kaaya-aya.
 
 In a similar manner, if a representative of organised crime comes to my house and threatens to burn it down if I do not pay regular protection money, I can avoid that specific threat by moving to another continent, but that would seem like a rather unjust way to deal with the situation, since I must now initiate action in order to avoid the threat.
 
