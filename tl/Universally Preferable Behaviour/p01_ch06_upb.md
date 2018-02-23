@@ -41,13 +41,13 @@ Gaya nga ng aming pinag-uusapan sa itaas, ang pagpasok sa anumang debate ay nang
 
 Mayroon kami lahat ng mga kagustuhan – mula sa pansariling lamang ("Gusto ko ng ice cream") sa mga mas gusto sa lipunan ("Mahusay na nasa oras") sa pang mundong na moralidad ("Huwag kang mamamatay").
 
-There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
+Mayroong maliit na punto na nagsusulat ng isang libro na tungkol sa mga pansariling mga kagustuhan – at pwede naming buksan ang Ann Landers para sa isang usapin ng mas mahusay na pag-uugali ng sosyalan *pangbuong mundo na Pinagmumulan ng Pag-uugali*.
 
-### Choice
+### Ang Pagpili
 
-If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+At kung aking tatanggapin ang iyong paanyaya sa isang partido sa hapunan, ngunit masusumpungan ang pag-uusap na lubos na nakakasakit, pwede akong magpasiya na bumangon at umalis - at pwede rin akong pumili na huwag tumanggap ng isa pang imbitasyon mula sa iyo. Ang kapasidad na ito para sa pagtakas at /o pag-iwas ay isang mahalagang katangiang pagkakaiba*ahestetika*mula *sa etika*.
 
-If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
+Kung, gayunpaman, kapag nagpasya akong umalis sa iyong hapunan kasiyahan, ikaw ay lumumdag at tulungan sa aking upuan, malinaw na wala na akong libreng pagpili na umalis. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
 
 If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I have certainly done her wrong, but the wrong that I have done by cheating would be very different from the wrong I would do if I lock her in the basement to prevent her from leaving. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does.
 
