@@ -146,11 +146,11 @@ Dahil sila ang *nagpautang* sa akin ng kanilang pera!"
 
 Maipapakita mo ba sakin itong kontrata? Napirmahan na ba nila ang kontrata ng sarili nilang kalooban?"
 
-"Hindi iyan ang uri ng kontrata! Ito ay - * panlipunan* kontrata... At bukod sa - ayon dito sa panlipunang kontrata, inangkin ko parin pala ang buong kalye - Ang buong sumpaing kapitbahay sa katunayan! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+"Hindi iyan ang uri ng kontrata! Ito ay - * panlipunan* kontrata... At bukod sa - ayon dito sa panlipunang kontrata, inangkin ko parin pala ang buong kalye - Ang buong sumpaing kapitbahay sa katunayan! Kung sino man ang tumangging bayaran ako maaaring ang pera ko ay lumipat sa ibang lugar - Hindi ko pinipilit ang kahit sino!"
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
+"at pano mo nalaman na pagmamay-ari mo ang buong kapit bahay? Mayron ka bang papeles ng mamay-ari?"
 
-“Yes, of course – have a look here!”
+"oo, syempre - tignan mo dito!"
 
 “Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
 
