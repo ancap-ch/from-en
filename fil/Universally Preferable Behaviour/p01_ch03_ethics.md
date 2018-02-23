@@ -14,7 +14,7 @@ Sa mga madaling salita ang mga diwa ay nagbibigay ng pagtaas sa lohika - sa gayo
 
 Sa parehas ng paraan, maski anong balidong teyorya ng etikal ay kailangan na maipaliwanag at mabigyang-katwiran ang aming mga natural na pagmungkahi tungo sa mga krimen gaya ng pagpinsala at panggagahasa. Ito ay hindi makatwirang kasalungan sa mga unibersal na prohibisyon ng mga tao, subali't dapat isama ng tama at ang mga ito ay ipaliwanag.
 
-However, just as Einsteinian physics provided surprising truths – in fact, it would have been of little value if those truths were *not* surprising – ethical theories provide the most value when they also reveal surprising truths – shocking, even. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
+Gayunman, gaya ng mga pisika na Einsteinian na nagbibigay ng mga nakakabigla na katotohanan - sa katotohanan, kung ang mga katotohanang iyon ay maliit na halaga *hindi*nakakabigla -ang teyorya ngmga etikalay nagbibigay ng mas higit na halaga kapag inihayag din nila ang nakakabiglang mga katotohanan - nakakabigla, kahit na. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
 
 ### The Discipline Of Theoretical Ethics
 
