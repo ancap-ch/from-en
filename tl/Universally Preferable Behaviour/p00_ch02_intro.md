@@ -102,11 +102,11 @@ Ang mga gumamit ng mga kathang-isap na moral para mapanamantalahan ang buong san
 
 Tayo ay pamilyar sa mga halimbawa ng Mapya, na nagbabanta sa mga potensyal na karibal na may pinsala at kamatayan, o ang panoorin ng mga relihiyosong sekta nadumidigma sa isa't isa, o sa isang pamahalaan na dumidigma sa isa pa.
 
-Kapag inilalabas ng mga pilosopo ang mga kasinungalingang kinakailangan para sa patuloy na pananamantala, gayunpaman, ang mga ito ay hindi kaaya-aya na itakda ang kanilang sarili bilang mga kakumpitensya. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+Kapag inilalabas ng mga pilosopo ang mga kasinungalingang kinakailangan para sa patuloy na pananamantala, gayunpaman, ang mga ito ay hindi kaaya-aya na itakda ang kanilang sarili bilang mga kakumpitensya. Hindi nila gusto sa *palitan* ang Mapya, o ang simbahan - gusto nilang siraan ito nang husto.
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+Ang isang mas pinaka-bagong pagkakatulad ay ang relasyon sa pagitan ng estado, ng mga taga-lobi at mga nagbabayad ng buwis. Ang mga lobihista ay magalit sa ibang mga lobihista na nakikipagkumpitensya para sa parehong mga dolyar na buwis. Gayunpaman, isipin kung paano *ang lahat* ng lobihista ay magsama upang salakayin ang sinuman na iminungkahi na alisin ang estado bilang isang institusyon.
 
-Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
+Ang mga Parasitong ito ay agresibo na makipag-tagisan sa isa't isa para sa mga limitadong mapagkukunan ng nag-anyaya - ngunit ito ay sa kanilang pinakamahusay na interes na makasama para salakayin ang anumang bagay na nagbabanta upang maalis ang nag-anyaya mismo.
 
 In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
 
