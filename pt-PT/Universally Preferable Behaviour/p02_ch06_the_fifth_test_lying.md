@@ -34,6 +34,6 @@ Sendo assim podemos, com todo o direito, mentir a um mentiroso, tal como podemos
 
 A diferença é que "chegar atrasado" não é tão fortemente negativo como mentir. Uma pessoa atrasada é irritante, mas não prejudica grandemente a sua capacidade de processar a realidade. Uma coisa é chegar com uma hora de atraso a uma reunião às sete da manhã - e outra, uma tentativa de convencê-lo de que, na verdade, agendamos a reunião para as oito horas da manhã, quando eu sei que não foi esse o caso.
 
-Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
+Atacar a sua confiança na própria mente [^5] é muito mais terrível do que fazê-lo esperar, já que é o acto de usar a confiança de outro para minar a sua confiança em si próprio, o que é altamente corrupto, pois é *usar* um valor para minar outro valor, com simulação. É assim que o CUP valida o ilógico da proposição: "mentir é bom", e confirma que o acto de mentir é pior do que "estar atrasado", mas melhor do que o "assalto"
 
 [^5]: Sometimes called “gas-lighting,” after the old movie.
