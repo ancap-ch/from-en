@@ -36,9 +36,9 @@ Portanto, é impossível que qualquer teoria moral, lógica, recuse a validade m
 
 ### Educação das Crianças
 
-Instinctively, we generally understand that there is something quite wrong with parents who do not feed their babies. To conceive a child, carry a child to term, give birth to the child, and then leave it lying in its crib to starve to death, severely offends our sensibilities.
+Geralmente entendemos, instintivamente, que há algo de muito errado com os pais que não alimentam os seus bebés. Conceber uma criança, levar uma gravidez a termo, dar à luz o bebé e depois deixá-lo no berço a morrer de fome, ofende gravemente a nossa sensibilidade.
 
-Of course, our offence is in no way a moral argument, but it is an excellent starting place to test a moral theory.
+É claro que a nossa ofensa não é de forma alguma, um argumento moral, mas é um excelente ponto de partida para provar uma teoria moral.
 
 Before, when we were talking about UPB, we noted that, where there are exceptions in UPB, there must be objective differences in biology. Or, to put it more accurately, where there are objective differences in biology, there may be rational exceptions or differences in UPB. A child of five has a biologically immature brain and nervous system, and thus cannot rationally process the long-term consequences of his actions. It is the immature brain that is the key here, insofar as if an adult male is retarded to the point where his brain is the equivalent to that of a five year old, he would also have a reduced responsibility for his actions.
 
