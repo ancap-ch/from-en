@@ -152,9 +152,9 @@ Maipapakita mo ba sakin itong kontrata? Napirmahan na ba nila ang kontrata ng sa
 
 "oo, syempre - tignan mo dito!"
 
-"mahusay, ito ay tanda lamang ng isang sulat-kamay na nagsasabing inaangkin mo ang buong kapit bahay - at parehong sulat-kamay mo ang iyong pirma. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+"mahusay, ito ay tanda lamang ng isang sulat-kamay na nagsasabing inaangkin mo ang buong kapit bahay - at parehong sulat-kamay mo ang iyong pirma. Natatakot ako ng kaylanganin namin na i-book ka -ito ay isang kontratang ginawa sa iyong sarili, kung saan ikaw ay nagdudulot sa ibang tao sa punto ng isang baril."
 
-This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+Ito ay isang ganap na baliw at sira para sa akin kung patuloy niyong sasabihin na ang babae ay aking ginahasa kahit *gusto* niyang makipag talik sa akin. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
 
 In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
 
