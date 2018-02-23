@@ -68,6 +68,6 @@ Bkt? nakaabala kasama ang pagtukoy ng mga etikal ng teyorya? Sigurado na ang mga
 
 Oo naman, ang peligro ay palaging umuusbong na ang isang moral na nilalang ay sasalakay sa iyo para sa kanyang sariling mga pakay ng hedonistiko. Pwede ito rin ang mga kaso na, kahit na malinis at malusog na pamumuhay, ikaw ay pwedeng mamatay sa kanser bago ang iyong oras - ang former ay hindi lumilikha ng siyensiya ng mga moralidad na hindi nai-aangkop, anumang higit pa sa huli ay lumilikha ng mga siyensiya ng medisina, nutrisyon at mag-ehersisyo nang walang kaugnayan. Isang maipakita ng resulta ng isang makatwirang siyensiya ng moralidad ay kailangan ay kailangan na mabasan ang iyong mga pagkakataon ng *pagtitiis* imoral na pag-asksyon kagaya ng pagnanakaw, pagpinsala at panggahasa - at ito ay sa kriterya ng hahatulan din natin ang mga panuntunang moral na ipanukala sa tatlong aklat ng bahagi na ito.
 
-[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
+[^10]: Oo naman, kung ako ay walang kapasidad o naguguluhan ang tao na nilalang na napunta ako sa verge ng gutom, maaring ang pagkakakulong ko ay maging mabuti sa aking kalagayan.
 
 [^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
