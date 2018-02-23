@@ -2,9 +2,9 @@
 
 Sa sandaling ang karahasan ng pamahalaan ay intelektwal na malantad - at ang ipinagpapalagay na "boluntarismo" ng mga mamamayan ay naibunyag bilang malupit na pandaraya - ang argumento ay muli tayong dadalhin na *kailangan* natin ang gobyerno upang suplayan tayo ng mga pampublikong kalakal gaya ng proteksyon, panrehiyong pagtatanggol, mga daan atbp.
 
-I have written dozens of articles exposing the falsehood of this position, so I will not bother to reiterate those arguments here, since they are not essential to a book on morality, but rather would be more appropriate to a book explaining the principles and practicalities of a voluntary society.[^4]
+Ako ay nakapagsulat na ng dose-dosenang mga artikulo tungkol sa paglalantad ng kamalian ng posisyong ito, kung kaya't hindi ako mag-aalala na ulit-ulitin ang mga argumento dito, dahil hindi sila kailangan sa mga libro ng moralidad, sa halip mas akma sa mga libro na nagpapaliwanag ng mga prinsipyo at praktikalidad ng isang boluntaryong lipunan. [^4]
 
-The “argument from practicality” in no way solves the problem of violence. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
+Ang "argumento sa praktikalidad" sa anumang paraan ay hindi sinosolusyunan ang suliranin ng karahasan. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
 
 Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
 
