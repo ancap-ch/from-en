@@ -120,9 +120,9 @@ Kung kaya't ang pagtatatag ng magkaka-pareho at pangsanlibutan na katotohanan ay
 
 Ang bukod-tanging mga parasito - o mga bayrus - ay ang mga taong nauubos ang katawan sa pagkawalang-bahala. Ang aming mga lakas nang istamina ay idinisenyo para salakayin ang mga dayuhang sangkap sa loob ng katawan, paghihiwalay at pagpatay sa kanila. At kami ay takot sa HIV at kanser lalo na dahil nakabukas sila sa aming mgalakas ng mga istamina. Ang kaparehong mga kakbang ay ginagamit ng mga intelektuwal na parasito para huwag paganahin ang mga sistema ng pagtatanggol ng mga biktima nila.
 
-At kung sinasalakay ka ng isang estranghero sa isang iskinita at hinihingi ang iyong pera, ikaw ay magiging takot at kinikilabutan. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+At kung sinasalakay ka ng isang estranghero sa isang iskinita at hinihingi ang iyong pera, ikaw ay magiging takot at kinikilabutan. Pwede ka ring lumaban, at pwede kang tumakbo, o pwede mo rin ibigay sa kanya ang iyong pitaka, ngunit mananatiling nagulat ka, galit at takot sa pakikipag-ugnayan. Ang kwentong ito kapag inulit mo, ay masasabi mo ito sa isang hakbang na nagpapatibay sa base at masama na paglabag sa iyong mga karapatan sa personal at ari-arian. Habang ang iba ay makadarama ng simpatiya para sa iyong suliranin, at maiiwasan ang sinabi na iskinita sa hinaharap.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+Ito ay isang uri halimbawa ng isang "maliit na katotohanan," na kung saan ay: "Ang pagnanakaw mula sa akin ay mali."
 
 However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
 
