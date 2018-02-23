@@ -28,13 +28,13 @@ A legítima defesa também não pode ser um comportamento *requerido*, já que o
 
 Se Bob ataca Doug, mas é completamente errado que Doug use a violência para se defender, então a violência acaba por ser colocada em duas categorias morais - a iniciação da força é moralmente boa, mas a legítima defesa é moralmente má, o que não pode concordar com o CUP.
 
-However, you might argue, does not the proposition that self-defence is good also make violence both good and bad at the same time – the violence that is used to attack is bad, but the violence that is used for self-defence is good?
+No entanto, você pode argumentar que a proposição de que a legítima defesa é boa, também faz que a violência seja boa e má ao mesmo tempo - a violência que é usada para atacar é má, mas a violência que é usada para a legítima defesa é boa?
 
-This is an interesting objection – however, if the initiation of force is evil, then it can be prohibited by using force, since that is one of the very definitions of evil that we worked out above.
+Esta é uma objecção interessante - no entanto, se a iniciação da força é má, então pode ser proibida pelo uso da força, dado que essa é uma das verdadeiras definições de mau que fizemos anteriormente.
 
-Thus it is impossible for any logical moral theory to reject the moral validity of self-defence.
+Portanto, é impossível que qualquer teoria moral, lógica, recuse a validade moral da legítima defesa.
 
-### Child Raising
+### Educação das Crianças
 
 Instinctively, we generally understand that there is something quite wrong with parents who do not feed their babies. To conceive a child, carry a child to term, give birth to the child, and then leave it lying in its crib to starve to death, severely offends our sensibilities.
 
