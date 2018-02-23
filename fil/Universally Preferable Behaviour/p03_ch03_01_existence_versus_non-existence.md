@@ -162,6 +162,6 @@ Ah, pero ang sa "null zone" ng gobyerno, ang panggagahasa ay gawa ng pagmamahal 
 
 Ito ang ibig kong sabihin kapag sinasabi ko na ito ay "kabilang mondo ng *null zone*" ay ang pinaka pangunahin hadlang sa kaligayahan ng tao. Pagnanakaw ay mali para sa lahat, pagnanakaw ay mali sa abstract -pero ang pagnanakaw kahit papano ay "tama" sa baliw na alternatibong uniberso na tinatawag na "gobyerno"?
 
-[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
+[^2]: Halina kahit hindi makuha *magsimula* sa mga lohikal na bangungut ng katotohanan ng halaga na nakapaloob sa pahayag "kamalian ay katumbas ng katotohanan."
 
 [^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.
