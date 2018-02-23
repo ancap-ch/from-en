@@ -22,7 +22,7 @@ Além disso, se os seres humanos não podem agir de forma válida para evitar da
 
 Bem, criámos outro paradoxo. A legítima defesa é o uso da violência para prevenir a violência. Se a legítima defesa é sempre má, então não pode ser violentamente "infligida" a um atacante. No entanto, as preferências que não podem ser impostas a outros caem na APN ou categoria moralmente neutra. Colocar a violência da legítima defesa nessas categorias, é dizer que a violência não pode ser imposta aos outros - mas a própria natureza da violência é que ela *é* infligida a outros e por isso, esse questionamento resulta numa superabundância de contradições.
 
-A legítima defesa não pode ser "má", já que o mal por definição pode ser evitado através da força. However, self-defence is a response to the initiation of force, and thus cannot be prevented through force, any more than you can stop the motion of a soccer ball by kicking it violently.
+A legítima defesa não pode ser "má", já que o mal por definição pode ser evitado através da força. Contudo, a legítima defesa é uma resposta ao início da força e, portanto, não pode ser evitada através da força, assim como não é possível parar o movimento de uma bola de futebol, pontapeada violentamente.
 
 Self-defence also cannot be *required* behaviour, since required behaviour (“don’t rape”) can be enforced through violence, which would mean that anyone failing to violently defend himself could be legitimately aggressed against. However, someone failing to defend himself is *already* being aggressed against, and so we end up in a circular situation where everyone can legitimately act violently against a person who is not defending himself, which is not only illogical, but morally abhorrent.
 
