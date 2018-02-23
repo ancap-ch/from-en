@@ -18,7 +18,7 @@ Gayunman, gaya ng mga pisika na Einsteinian na nagbibigay ng mga nakakabigla na 
 
 ### Ang disiplina ng teoretikal na mga etika
 
-If I say that something is “morally good” – in other words, if I propose an ethical theory – then clearly I am arguing that human beings *should* act in a particular manner, or *avoid* acting in a particular manner.
+Kung ihahayag ko na may isang bagay na "ang moralidad ay mabuti" - sa ibang mga salita, kung imumungkahi ko ang isang teyorya ng etikal - samakatuwid ako ay malinaw na nakikipagdiskusyunan sa mga tao *dapat*gumalaw sa isang partikular na paraan. o *umiwas*paggalaw sa isang partikular na paraan.
 
 If I tell my son that he *should* become a baseball player just because I want him to, I am not stating a universal moral premise, but rather a personal preference. He is not *moral* if he becomes a baseball player, and neither is he *immoral* if he does not.
 
