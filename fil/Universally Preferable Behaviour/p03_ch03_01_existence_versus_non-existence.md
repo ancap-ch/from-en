@@ -156,9 +156,9 @@ Maipapakita mo ba sakin itong kontrata? Napirmahan na ba nila ang kontrata ng sa
 
 Ito ay isang ganap na baliw at sira para sa akin kung patuloy niyong sasabihin na ang babae ay aking ginahasa kahit *gusto* niyang makipag talik sa akin. Naiisip mo ba kung ako ay nililitis para sa panggagahasa, at nagkaruon ng isang videotape ng babae simulang pigilan ako, at may patalim ako sa kanyang lalamunan, kung paano ko matatangap ang pagtatangol kung patuloy Kong igigiit na siya talaga ang *gustong*makipag talik sa akin?
 
-In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
+Sa korte, ako ay nilalait, at tinapon sa kulongan para sa aking halatang, galit, masama, at makasariling pagpapaimbabaw.
 
-Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
+Ah, pero ang sa "null zone" ng gobyerno, ang panggagahasa ay gawa ng pagmamahal pagkuha ng bata ay paanyaya, ang pagtangi sa pagnanakaw ay masamang pagkamakasarili, at ang pamimilit sa kabaitan.
 
 This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
 
