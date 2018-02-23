@@ -24,9 +24,9 @@ Bem, criámos outro paradoxo. A legítima defesa é o uso da violência para pre
 
 A legítima defesa não pode ser "má", já que o mal por definição pode ser evitado através da força. Contudo, a legítima defesa é uma resposta ao início da força e, portanto, não pode ser evitada através da força, assim como não é possível parar o movimento de uma bola de futebol, pontapeada violentamente.
 
-A legítima defesa também não pode ser um comportamento *requerido*, já que o comportamento exigido ("não violar") pode ser aplicado através da violência, o que significaria que qualquer pessoa que não se defenda violentamente, pode ser legitimamente agredida. However, someone failing to defend himself is *already* being aggressed against, and so we end up in a circular situation where everyone can legitimately act violently against a person who is not defending himself, which is not only illogical, but morally abhorrent.
+A legítima defesa também não pode ser um comportamento *requerido*, já que o comportamento exigido ("não violar") pode ser aplicado através da violência, o que significaria que qualquer pessoa que não se defenda violentamente, pode ser legitimamente agredida. No entanto, alguém que não se defenda *já* está a ser agredido e por isso acabamos numa situação de círculo vicioso, onde todos podem, legitimamente, agir violentamente contra uma pessoa que não se defende, o que não é apenas ilógico, mas moralmente abominável.
 
-If Bob attacks Doug, but it is completely wrong for Doug to use violence to defend himself, then violence ends up being placed into two moral categories – the initiation of force is morally good, but self-defence is morally evil, which cannot stand according to UPB.
+Se Bob ataca Doug, mas é completamente errado que Doug use a violência para se defender, então a violência acaba por ser colocada em duas categorias morais - a iniciação da força é moralmente boa, mas a legítima defesa é moralmente má, o que não pode concordar com o CUP.
 
 However, you might argue, does not the proposition that self-defence is good also make violence both good and bad at the same time – the violence that is used to attack is bad, but the violence that is used for self-defence is good?
 
