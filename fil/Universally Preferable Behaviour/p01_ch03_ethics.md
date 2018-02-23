@@ -16,7 +16,7 @@ Sa parehas ng paraan, maski anong balidong teyorya ng etikal ay kailangan na mai
 
 Gayunman, gaya ng mga pisika na Einsteinian na nagbibigay ng mga nakakabigla na katotohanan - sa katotohanan, kung ang mga katotohanang iyon ay maliit na halaga *hindi*nakakabigla -ang teyorya ngmga etikalay nagbibigay ng mas higit na halaga kapag inihayag din nila ang nakakabiglang mga katotohanan - nakakabigla, kahit na. Sa katotohanan, ang teyorya ng mga etikal na hindi nagbibigay ng nakakabiglang mga katotohanan ay isang pagpapatunay lamang sa mga umuusbong na mga kagustuhan sa instinktwal, at kaya naman ay maliit na halaga.
 
-### The Discipline Of Theoretical Ethics
+### Ang disiplina ng teoretikal na mga etika
 
 If I say that something is “morally good” – in other words, if I propose an ethical theory – then clearly I am arguing that human beings *should* act in a particular manner, or *avoid* acting in a particular manner.
 
