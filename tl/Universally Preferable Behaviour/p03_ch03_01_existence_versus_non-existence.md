@@ -18,9 +18,9 @@ Sila rin ay hindi maayos na sumasagot sa argumento na: "Sa alternatibong unibers
 
 Kung ang mga may bisang pahayag tungkol sa reyalidad ay walang hanggang di sasang-ayunan dahil sa ilang mga imahinasyong lupain na tinatawag na "mali katumbas ng totoo" ay pinapasawalang bisa sila, kung gayon ang talagang sinasabi ay "walang positibong pahayag tungkol sa katotohanan ang may bisa" - gayonpaman, tayo ngayon ay mga wais na bilang mga pilosopo upang malaman na ang mga pahayag na ito ay kontradiksyon-sa-sarili, dahil ito ay positibong pahayag na ipinagpapalagay na totoo na nagsasabing ang positibong pahayag ay maaaring tama. Kung walang bagay ang pwedeng totoo o mali - kahit ang pahayag - kung gayon walang pahayag ang maaaring gawin mula sa anuman. Ang paggamit ng mga salita, paggamit ng Ingles, paggamit ng mga kauna-unawang pangungusap - lahat ay walang saysay kung anuman, dahil sa "alternatibong uniberso" ang balangkas ng mga binigkas ay maaaring walang saysay. Kung ang mga bagay na maaaring totoo sa alternatibong uniberso ay may epekto sa mga pahayag na ginagawa natin sa unibersong ito, kung gayon ang kabaliktaran ay malinaw na totoo din, na nangangahulugan na walang pahayag ang maaaring gawin mula sa anuman, dahil ang eksaktong kabaliktaran ay maaaring magkatumbas na tama.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+Ang tunay na reyalidad ng pahayag na "mali katumbas ay totoo" ay ang tautolohikal na kabaliwan na "wala katumbas ay wala>'
 
-### The "Alternate Universe" In Human Society
+### Ang "Alternatibong Uniberso" sa Pantaong Lipunan
 
 The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
 
