@@ -122,7 +122,7 @@ Kapag si Bob ay nag aalmusal, hindi niya rin pweding atakihin ang kanyang kapitb
 
 Nakapagtataka, ito ang nagiisa niyang katangian ang ganap na baliktarin ang sarili. Hindi niya kayang lumipad, hindi niya kayang palitan ang kanyang hugis, hindi niya kayang hulihin ng tagumpay ang bola ng bearing o mabuhay sa isang impyerno; hindi niya kayang tumakbo ng isang libong kilometro sa isang oras, at hindi rin niya kayang maglakad sa isang pader ng laryo. Siya ay ganap, lubos, at kompleto* ang parehong tao bilang siya ay **bago**siya nanuntok sa* -subalit ngayon, siya ay napapalilalim sa tunay na kabaliktaran ng mga panuntunang mural.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Kahit na maraming kakaiba, kung ako ay hindi isang "pulis," pero ako ay susunod Kay Bob para magtrabaho, at ginagawa kung anu ang eksaktong ginagawa niya -aking isinuot ang kasuotan, naglakad papunta sa stasyon ng pulis, at inilagay ang isang piraso ng cardboard sa punch lock -bakit, kung gawin ko ang eksaktong Kung anung ginagawa ni Bob, ako ay lubos at ganap na immoral, bagamat ang pagtulad sa pagkilos ni Bob ay lubos at ganap na *moral*.
 
 What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
 
