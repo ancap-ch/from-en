@@ -96,13 +96,13 @@ Kapag ginamot natin ang sarili nating sakit, mas maganda ito sa ating pakiramdam
 
 Sa parehong kakbang, ang mga parasito na nakaligtas sa buong sangkatauhan ay nakikita ang kalayaan ng karamihan na may malaking takot. Dahil na rin sa kanilang parasitismo ay nagpapalaya sa kanila mula sa mga apangangailangan ng katotohanan - at upang kumita sa kanilang pang-araw-araw na tinapay - hindi nila maiwasang tingnan ang kalayaan ng masa bilang isang anyo ng pagkaalipin para sa kani-kanilang mga sarili. Sa ngayong ang tinitingnan ng isang magsasaka ay ang "pagpapalaya" ng kanyang mga baka bilang isang sakuna…
 
-At ang pagtatatag ng katotohanan ay kinakailangang limitahan angkathang-isip. Ang pagbabawal sa kathang-isip ay kinakailangang limitahan ang pananamantala. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+At ang pagtatatag ng katotohanan ay kinakailangang limitahan angkathang-isip. Ang pagbabawal sa kathang-isip ay kinakailangang limitahan ang pananamantala. Kung pwede kitang kumbinsihin na ako ay isang buhay na tao-ang Diyos, at ang Diyos na nagbigay sa akin ay nais mong bigyan mo ako ng sampung porsyento ng iyong kita, o ikaw ay parurusahan para sa kawalang-hanggan, kung sa gayon pwede akong pagpalain sobra-sobra. Ako ay isang parasito ng mgaiilusyon, at depende sa mga ilusyon para sa aking kabuhayan bilang tiyak bilang halamang-singaw ay nakasalalay sa init, medyo may tubig sa hangin - at kadiliman.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+Ang mga gumamit ng mga kathang-isap na moral para mapanamantalahan ang buong sangkatauhan ay laging nakipaglaban sa ngipin at kuko laban sa mga nagbabanta sa kanilang kabuhayan sa pamamagitan ng pagtuklas at pagpapakalat ng katotohanan.
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+Tayo ay pamilyar sa mga halimbawa ng Mapya, na nagbabanta sa mga potensyal na karibal na may pinsala at kamatayan, o ang panoorin ng mga relihiyosong sekta nadumidigma sa isa't isa, o sa isang pamahalaan na dumidigma sa isa pa.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+Kapag inilalabas ng mga pilosopo ang mga kasinungalingang kinakailangan para sa patuloy na pananamantala, gayunpaman, ang mga ito ay hindi kaaya-aya na itakda ang kanilang sarili bilang mga kakumpitensya. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
 
 A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
 
