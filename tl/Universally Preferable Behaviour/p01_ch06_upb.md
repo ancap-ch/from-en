@@ -6,18 +6,18 @@ Bagama't una kaming nakatuon sa UPB sa larangan ng etika, ang UPB ay makikita na
 
 - Ang pang-agham na pamamaraan
 - Lohika
-- Empirisismo
+- Empirisisimo
 - Pagdedebate
 - Lenguahe
 - Mga Etika
 
-Ang etika ay ang pamalit ng UPB na may kinalaman sa *pamiminsala* pag-uugali, o paggamit ng karahasan. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+Ang etika ay ang pamalit ng UPB na may kinalaman sa *pamiminsala* pag-uugali, o paggamit ng karahasan. Ang kahit anong teyorya na nagpapawalang-bisa o tinanggihan ang paggamit ng karahasan ay isang *moral sa* teyorya, at napapailalim sa mga kinakailangan ng lohikal na pagkakapare-pareho at katibayan ng emperyo.
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+Tingnan natin ang tatlong mga aksyon, para matulungan kaming higit na makilala ang etika at mga estetika. Ang unang aksyon ay *hindi makatwiran*; ang pangalawa ay *pagsisinungaling*; ang ikatlo ay </em>pagpatay</0>.[^9]
 
-### Irrationality
+### Hindi makatwiran
 
-Let’s say that you and I are having a debate about the existence of God. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Sabihin natin na ikaw at ako ay mayroong pagdedebate tungkol sa pag-iral ng diyos. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
 
 ### Lying
 
