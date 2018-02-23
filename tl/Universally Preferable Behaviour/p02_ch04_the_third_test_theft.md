@@ -1,8 +1,8 @@
-## The Third Test: Theft
+## Ang Ikatlong Pagsubok: Pagnanakaw
 
-We will have to spend a little bit more time on theft, since it inevitably brings into the picture the question of property rights, which is highly contentious for some.
+Kakailanganin naming gumastos ng kaunting oras sa pagnanakaw, dahil hindi ito maiiwas sa larawan ng tanong ng mga karapatan sa pag-aari, na lubhang nakakaalam sa ilan.
 
-There are many ways of approaching the question of property rights, from “homesteading” to legal definitions to practical considerations etc. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+Mayroong maraming mga paraan ng paglapit sa tanong ng mga karapatan sa ari-arian, mula sa "homesteading" sa mga legal na pagbibigay-kahulugan sa mga praktikal na pagsasaalang-alang. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
 
 Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
 
