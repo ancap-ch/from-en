@@ -36,4 +36,4 @@ A diferença é que "chegar atrasado" não é tão fortemente negativo como ment
 
 Atacar a sua confiança na própria mente [^5] é muito mais terrível do que fazê-lo esperar, já que é o acto de usar a confiança de outro para minar a sua confiança em si próprio, o que é altamente corrupto, pois é *usar* um valor para minar outro valor, com simulação. É assim que o CUP valida o ilógico da proposição: "mentir é bom", e confirma que o acto de mentir é pior do que "estar atrasado", mas melhor do que o "assalto"
 
-[^5]: Sometimes called “gas-lighting,” after the old movie.
+[^5]: Às vezes chamado de "iluminação a gás", depois do filme antigo.
