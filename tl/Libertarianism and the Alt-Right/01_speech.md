@@ -23,7 +23,7 @@ Ngayon: Paano na ang tungkol sa ugnayang namamagitan sa libertarianism at ang Al
 1. Paano mapapanatili ang isang liberetarian na order ng isang beses na nakamit;
 2. Paano makakamit ang isang libertarian order mula sa isang non-libertarian mula sa umpisa. na nangangailangan ng: 
     1. Ang isang iyan ay dapat maiwasto para mailarawan sa panimulang puntong;
-    2. I-identipika ng wasto ang mga obstakel na nag-aanyo sa pamamaraang ang isang libertaryano ay nagtatapos sa pinakapansimulang puntong ito.
+    2. Kilalanin ng wasto ang mga hadlang na nag-aanyo sa pamamaraang ang isang libertarian ay nagtatapos sa pinaka-simulang puntong ito.
 
 Para makapagsago sa mga kwestiyon na ito, sa pagkakadagdag sa teorya, ikaw ay nangangailangan ng iilan sa mga aralin ng saykolohiya at sosyolohiya ng tao o higit pa sa kaunting sentidong common. Sa ngayon maraming mga libertaryano at mga pekeng libertaryano ay isang ignorante lamang sa saykolohiya at sosyolohiya ng tao o kahit na yung kinuhaan ng anumang sentido komon. Parang bulag nilang tinatanggap, kasalungat sa lahat ng ebidensyang empirikal, isang egalitaryani, slate-na-blangko na pananaw ng sa katauhang natura, ng lahat ng mga tao at lahat ng mga sosyedad at mga kulturang napakaesensyal sa pagkakapantay-pantay at pagpapalit.
 
