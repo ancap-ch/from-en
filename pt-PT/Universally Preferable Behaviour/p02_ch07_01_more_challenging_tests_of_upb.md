@@ -24,7 +24,7 @@ Bem, criámos outro paradoxo. A legítima defesa é o uso da violência para pre
 
 A legítima defesa não pode ser "má", já que o mal por definição pode ser evitado através da força. Contudo, a legítima defesa é uma resposta ao início da força e, portanto, não pode ser evitada através da força, assim como não é possível parar o movimento de uma bola de futebol, pontapeada violentamente.
 
-Self-defence also cannot be *required* behaviour, since required behaviour (“don’t rape”) can be enforced through violence, which would mean that anyone failing to violently defend himself could be legitimately aggressed against. However, someone failing to defend himself is *already* being aggressed against, and so we end up in a circular situation where everyone can legitimately act violently against a person who is not defending himself, which is not only illogical, but morally abhorrent.
+A legítima defesa também não pode ser um comportamento *requerido*, já que o comportamento exigido ("não violar") pode ser aplicado através da violência, o que significaria que qualquer pessoa que não se defenda violentamente, pode ser legitimamente agredida. However, someone failing to defend himself is *already* being aggressed against, and so we end up in a circular situation where everyone can legitimately act violently against a person who is not defending himself, which is not only illogical, but morally abhorrent.
 
 If Bob attacks Doug, but it is completely wrong for Doug to use violence to defend himself, then violence ends up being placed into two moral categories – the initiation of force is morally good, but self-defence is morally evil, which cannot stand according to UPB.
 
