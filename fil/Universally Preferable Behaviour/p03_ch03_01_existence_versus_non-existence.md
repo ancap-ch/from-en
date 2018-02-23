@@ -128,7 +128,7 @@ Anung uri ng kaisipan ang gumagawa ng ganito? panu natin malilimutan ang hindi m
 
 Ang simpleng katotohanan na ito ay *Hindi* pweding mabuksan, dahil ito ay ganap na sira. Ang katotohanan na ang "kabilang mondo" ang moral na kabaliwan ay ganap na hindi makatwiran -hindi nabangit ang marahas na pananamantala -ay napakalinaw na dapat itong kalimutan sa isang walang hangan na cavalcade ng mitolohika "kusang loob."
 
-We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
+Sinanasi natin na "gusto" ni Bob na makuha ang aking pera -na kung saan ganap na kontradiksyon ang katotohanan kay Bob napakita sa harapan ng pintuan at tinutukoy ako ng isang baril na may bala sa muka. Sapamamagitan ng luhikang ito, ang kaya kolang ay tumaas at bumaba ang lansangan na nagnanakaw ng pera mula sa aking mga kapitbahay, at pagkatapos ay tatangapin nilang silay lubos na nagulat kapag ako ay nahuli:
 
 “They *want* me to take their money!”
 
