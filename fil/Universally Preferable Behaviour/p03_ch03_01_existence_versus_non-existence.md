@@ -124,7 +124,7 @@ Nakapagtataka, ito ang nagiisa niyang katangian ang ganap na baliktarin ang sari
 
 Kahit na maraming kakaiba, kung ako ay hindi isang "pulis," pero ako ay susunod Kay Bob para magtrabaho, at ginagawa kung anu ang eksaktong ginagawa niya -aking isinuot ang kasuotan, naglakad papunta sa stasyon ng pulis, at inilagay ang isang piraso ng cardboard sa punch lock -bakit, kung gawin ko ang eksaktong Kung anung ginagawa ni Bob, ako ay lubos at ganap na immoral, bagamat ang pagtulad sa pagkilos ni Bob ay lubos at ganap na *moral*.
 
-What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
+Anung uri ng kaisipan ang gumagawa ng ganito? panu natin malilimutan ang hindi malutas na mesteryong ito?
 
 The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
 
