@@ -1,10 +1,10 @@
-## Mga etika
+## Ethics
 
-Dahil ang mga etika ay isang paksa na lahat tayo ay may mga opinyon tungkol sa na, ito ay mahalaga sa balangkas ang relasyon sa pagitan ng *instinctual* etika at *makatuwiran* mga etika,.
+Since ethics is a subject that we all have opinions about already, it is important to outline the relationship between *instinctual* ethics and *rational* ethics.
 
-Maaaring mahuli ng baseball player ang lumilipad na bola kahit na wala siyang alam sa pisika. katulad nito, maaari nating maunawan nang tamaang isang pagkilos bilang imoral kahit na wala tayong nalalaman tungkol sa mga etika na teorya.
+A baseball player can catch a fly ball even if he knows nothing about physics. Similarly, we can correctly perceive an action as immoral even if we know nothing about ethical theories.
 
-Kung kaya kong saluhin ang lumilipad na bola. pagkatapos ay meron akong isang instinctual *pakiramdam* para sa pag uugali ng isang baseball sa paglipad. Ang aking instinctual na pag-unawa, gayunpaman, ay hindi nagbigay sakin ng kapasidad upang tumpak na ilunsad ang isang sasakyang pangkalawakan sa orbit jupiter. Mayroon akong isang agarang "maliit na katotohanan" - kung paano lumilipat ang bola - ngunit iyon ay hindi nagbibigay sa akin ng isang unibersal "mahusay na katotohanan"-kung paano ang bagay ay kumilos.
+If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. Mayroon akong isang agarang "maliit na katotohanan" - kung paano lumilipat ang bola - ngunit iyon ay hindi nagbibigay sa akin ng isang unibersal "mahusay na katotohanan"-kung paano ang bagay ay kumilos.
 
 Sa parehong paraan, ang aming karaniwang asal sa pag alis patungo sa mga aksyon tulad ng panggagahasa at pagpatay ay hindi kinakailangan mali. ngunit hindi nila binibigay sa amin ang kapasidad na lumikha o patunay na alisunod at mula sa obserbasyon pare-pareho ang mga teorya.
 
