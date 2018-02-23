@@ -64,7 +64,7 @@ Ang iyong pasensya na may pagpapasakit, sa isang panapos na katanungan ang dapat
 
 Sa madaling salita, bago tayo mag-ulos sa, ito ay mahalagang pagtatanong ng mga tanong na ito: "bkt nang-aabala?"
 
-Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+Bkt? nakaabala kasama ang pagtukoy ng mga etikal ng teyorya? Sigurado na ang mga taong mabuti ay hindi nangangailangan ng mga ito, at ang mga taong masasama ay hindi komonsulta sa kanila. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
 
 Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
 
