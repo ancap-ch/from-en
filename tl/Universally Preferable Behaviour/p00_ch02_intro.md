@@ -124,10 +124,10 @@ At kung sinasalakay ka ng isang estranghero sa isang iskinita at hinihingi ang i
 
 Ito ay isang uri halimbawa ng isang "maliit na katotohanan," na kung saan ay: "Ang pagnanakaw mula sa akin ay mali."
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+Gayunpaman, at kung ang isang ahente ng gobyerno ay nagpapadala sa iyo ng isang sulat na nagsasabi na bayaran mo siya ng pera, pwede mong madama ang isang tiyak na kalupitan, ngunit hindi mo nauugnay ang kuwento na may parehong kakilabutan at pagkagalit sa iyong mga kaibigan.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+Ito ay isang halimbawa ng isang "kgitnang katotohanan," na nagtatago sa "dakilang katotohanan," na kung saan "ang pagnanakaw ay mali."
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+Ang librong ito ay nakatuon sa paglalabas at pagsira sa mga huwad na "katotohanang pang-gitna." Naniniwala ako na ang mga tao ay nakakaranas ng hirap sa walang hanggan sa ilalim ng paniniil ng maling etikal na "gitnang mga katotohanan" na nagpapawalang-sala sa mapanirang mundo sa pananaw ng relihiyosong pamahiin, sekular na despotismo at kulto ng pamilya.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+At ang aking sanaysay sa librong ito ay na sa etika, tulad ng sa bawat iba pang intelektuwal na disiplina, ang mga malaking katotohanan ay nangyayari nang direkta mula sa maliliit na katotohanan. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
