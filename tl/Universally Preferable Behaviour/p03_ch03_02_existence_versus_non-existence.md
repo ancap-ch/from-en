@@ -1,6 +1,6 @@
 ### Praktikalidad
 
-Once the violence of government is intellectually exposed – and the supposed “voluntarism” of citizens is revealed as a vicious fraud – the argument always comes back that we *need* government to supply us with public goods such as protection, regional defence, roads etc.
+Sa sandaling ang karahasan ng pamahalaan ay intelektwal na malantad - at ang ipinagpapalagay na "boluntarismo" ng mga mamamayan ay naibunyag bilang malupit na pandaraya - ang argumento ay muli tayong dadalhin na *kailangan* natin ang gobyerno upang suplayan tayo ng mga pampublikong kalakal gaya ng proteksyon, panrehiyong pagtatanggol, mga daan atbp.
 
 I have written dozens of articles exposing the falsehood of this position, so I will not bother to reiterate those arguments here, since they are not essential to a book on morality, but rather would be more appropriate to a book explaining the principles and practicalities of a voluntary society.[^4]
 
