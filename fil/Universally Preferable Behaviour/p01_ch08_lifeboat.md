@@ -60,7 +60,7 @@ Katulad ng nakikita natin, ang introdaksyon ng "ano ang mabuti para sa tao sa ba
 
 ### Ang pakay at ang mga peligro
 
-With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+Ang iyong pasensya na may pagpapasakit, sa isang panapos na katanungan ang dapat matugunan bago kami magbigay ng kahulugan at ang ang iba't ibang mga proposisyon ng moral sa balanghay ng UPB ay subukan kung paano magkakasya. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
 
 In other words, before we plunge on, it is well worth asking the question: “Why bother?”
 
