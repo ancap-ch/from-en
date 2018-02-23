@@ -8,7 +8,7 @@ Kung sasaluhin ko ang lumilipad na bola, pagkatapos ay meroon akong isang instin
 
 Sa parehas na paraan, ang ating pangkaraniwang pagbabago patungo sa mga asksyon na tulad ng panggagahasa at pagpinsala ay hindi ibigsabihin hindi tama, subali't hindi nila tayo binigyan ng kakayanan na gumawa o magpatotoo ng pare-parehas at empirikal na moral ng mga teyorya.
 
-If I propose a scientific theory that completely invalidates a baseball player’s ability to catch a fly ball, then I have the insurmountable challenge of explaining how the baseball player actually *does* catch the ball. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
+Kapag imungkahi ko na ang isang siyentipiko na ang mga teyorya ay kumpletong magpawalanng-bisa sa abiliadad ng mga manlalaro ng besbol sa pagsalo ng lumilipad na bola, saka ay meroon akong hindi mareresolba na hamon ng pagpapaliwanag kung paano talaga ang manlalaro ng besbol *ay* saluhin ang bola. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
 
 In other words, the senses give rise to logic – therefore logic cannot contradict the evidence of the senses. Evidence always trumps explanation.
 
