@@ -1,12 +1,12 @@
-## Ethics
+## Mga etika
 
-Since ethics is a subject that we all have opinions about already, it is important to outline the relationship between *instinctual* ethics and *rational* ethics.
+Dahil ang mga etika ay asignatura na tayong lahat ay mayroon mga ideya tungkol dito, ito ay importanteng mabalangkas sa relasyon nito sa pagitan ng *instinctual*mga etika*makatwiran*mga etika.
 
 A baseball player can catch a fly ball even if he knows nothing about physics. Similarly, we can correctly perceive an action as immoral even if we know nothing about ethical theories.
 
-If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. Mayroon akong isang agarang "maliit na katotohanan" - kung paano lumilipat ang bola - ngunit iyon ay hindi nagbibigay sa akin ng isang unibersal "mahusay na katotohanan"-kung paano ang bagay ay kumilos.
+If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
 
-Sa parehong paraan, ang aming karaniwang asal sa pag alis patungo sa mga aksyon tulad ng panggagahasa at pagpatay ay hindi kinakailangan mali. ngunit hindi nila binibigay sa amin ang kapasidad na lumikha o patunay na alisunod at mula sa obserbasyon pare-pareho ang mga teorya.
+In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
 
 If I propose a scientific theory that completely invalidates a baseball player’s ability to catch a fly ball, then I have the insurmountable challenge of explaining how the baseball player actually *does* catch the ball. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
 
