@@ -60,9 +60,9 @@ Katulad ng nakikita natin, ang introdaksyon ng "ano ang mabuti para sa tao sa ba
 
 ### Ang pakay at ang mga peligro
 
-Ang iyong pasensya na may pagpapasakit, sa isang panapos na katanungan ang dapat matugunan bago kami magbigay ng kahulugan at ang ang iba't ibang mga proposisyon ng moral sa balanghay ng UPB ay subukan kung paano magkakasya. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+Ang iyong pasensya na may pagpapasakit, sa isang panapos na katanungan ang dapat matugunan bago kami magbigay ng kahulugan at ang ang iba't ibang mga proposisyon ng moral sa balanghay ng UPB ay subukan kung paano magkakasya. Dahil sa ang pinakamahirap na trabaho ay ang mauna, kailangan na kami ay tumigil sa ilang sandali at ipaalala sa atin sarili kung bakit inilagay natin ang ating sarili sa lahat ng sakripisyo at sakripisyo na ito.
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+Sa madaling salita, bago tayo mag-ulos sa, ito ay mahalagang pagtatanong ng mga tanong na ito: "bkt nang-aabala?"
 
 Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
 
