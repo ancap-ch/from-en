@@ -132,9 +132,9 @@ Sinanasi natin na "gusto" ni Bob na makuha ang aking pera -na kung saan ganap na
 
 "Silay *gusto* ako na kuni Ang kanilang pera!"
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+Pero baki ka nagbanta sa kanila na babarilin ako kung hindi nila ibibigay sayo ang kanilang pera?"
 
-“Because they *owe* me their money!”
+Dahil sila ang *nagpautang* sa akin ng kanilang pera!"
 
 “I thought you said that they want to give you their money.”
 
