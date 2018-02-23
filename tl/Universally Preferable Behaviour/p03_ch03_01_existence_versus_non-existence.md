@@ -2,13 +2,13 @@
 
 Ating binibigyang kahulugan ang "hindi pag-iral" bilang isang hindi nagtataglay ng bigat o enerhiya, o nagpapakita ng mga epekto ng bigat o enerhiya, gaya ng mga kapansin-pansin na ugnayan sa grabidad.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+Ang Diyos ay hindi nagtataglay ng bigat o enerhiya, o nagpapakita ng mga epekto ng bigat o enerhiya - sa katunayan ang Diyos ay hindi kapansin-pansin o makokompirma sa anumang paraan, hugis o anyo, kahit sa pamamagitan ng mga pandamdam, o sa pamamagitan ng rasyonalidad.
 
-Thus if I say, “God exists,” what I am really saying is:
+Kung gayon kapag sinabi ko na, "Ang Diyos ay umiiral," ang talagang sinasabi ko ay:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+"*Na ang siyang umiiral ay dapat kapansin-pansin; Ang Diyos ay hindi kapansin-pansin, subalit ang Diyos ay umiiral - samakatuwid ang siyang hindi umiiral, ay umiiral.*
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+Sa ibang pananalita, sa pagsabi na ang "Diyos ay umiiral." Ako ay gumawa ng isang hindi malulutas na kontradiksyon. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
 
 Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
 
