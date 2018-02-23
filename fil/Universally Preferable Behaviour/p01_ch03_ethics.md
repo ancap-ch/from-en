@@ -10,9 +10,9 @@ Sa parehas na paraan, ang ating pangkaraniwang pagbabago patungo sa mga asksyon 
 
 Kapag imungkahi ko na ang isang siyentipiko na ang mga teyorya ay kumpletong magpawalanng-bisa sa abiliadad ng mga manlalaro ng besbol sa pagsalo ng lumilipad na bola, saka ay meroon akong hindi mareresolba na hamon ng pagpapaliwanag kung paano talaga ang manlalaro ng besbol *ay* saluhin ang bola. Pati, kung aking dakilang teyorya ay hindi tama na mahulaan ang arko ng isang bola, meron akong isang "malaking patunay" na kung saan ay diretsong kumokontra sa "maliit na patunay," na pwedeng hindi balido. Dahil sa nangangailangan ng pagkakapare-parehas na lohikal ay diretso galing sa "maliit na patunay" ng perseptwal na karanasan, maski anomang teyorya na direstsong kumokontra sa karanasan ay hindi imbalido.
 
-In other words, the senses give rise to logic – therefore logic cannot contradict the evidence of the senses. Evidence always trumps explanation.
+Sa mga madaling salita ang mga diwa ay nagbibigay ng pagtaas sa lohika - sa gayong dahilan ang lohika ay hindi pwedeng komontra sa ebidensya ng mga diwa. ang ebidensya ay palaging nagpapaliwanag.
 
-In a similar manner, any valid ethical theory should be able to explain and justify our common revulsion towards crimes such as murder and rape. It cannot reasonably contradict the universal prohibitions of mankind, but must accurately incorporate and explain them.
+Sa parehas ng paraan, maski anong balidong teyorya ng etikal ay kailangan na maipaliwanag at mabigyang-katwiran ang aming mga natural na pagmungkahi tungo sa mga krimen gaya ng pagpinsala at panggagahasa. Ito ay hindi makatwirang kasalungan sa mga unibersal na prohibisyon ng mga tao, subali't dapat isama ng tama at ang mga ito ay ipaliwanag.
 
 However, just as Einsteinian physics provided surprising truths – in fact, it would have been of little value if those truths were *not* surprising – ethical theories provide the most value when they also reveal surprising truths – shocking, even. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
 
