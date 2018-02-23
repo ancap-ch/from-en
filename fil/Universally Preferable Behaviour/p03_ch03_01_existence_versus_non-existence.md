@@ -164,4 +164,4 @@ Ito ang ibig kong sabihin kapag sinasabi ko na ito ay "kabilang mondo ng *null z
 
 [^2]: Halina kahit hindi makuha *magsimula* sa mga lohikal na bangungut ng katotohanan sa halaga ng nakapaloob sa pahayag "kamalian ay katumbas ng katotohanan."
 
-[^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.
+[^3]: Ang argumentong ito ay hindi rin gumana ng husto sa mga guro ng matematika - wala pa kong nakikita na estudyante na naging matagumpay na nag patunay na ang maling sagot maari maging tama sa ibang uniberso, at sa gayon ay hindi makatarungan na markahan ito ng mail.&#160;[ &#8617;](#fnref:3){.footnote-backref}
