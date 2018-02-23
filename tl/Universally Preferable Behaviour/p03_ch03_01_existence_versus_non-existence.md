@@ -8,7 +8,7 @@ Kung gayon kapag sinabi ko na, "Ang Diyos ay umiiral," ang talagang sinasabi ko 
 
 "*Na ang siyang umiiral ay dapat kapansin-pansin; Ang Diyos ay hindi kapansin-pansin, subalit ang Diyos ay umiiral - samakatuwid ang siyang hindi umiiral, ay umiiral.*
 
-Sa ibang pananalita, sa pagsabi na ang "Diyos ay umiiral." Ako ay gumawa ng isang hindi malulutas na kontradiksyon. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+Sa ibang pananalita, sa pagsabi na ang "Diyos ay umiiral." Ako ay gumawa ng isang hindi malulutas na kontradiksyon. Aking binigyang kahulugan ang "pag-iral" bilang "hindi pag-iral" na siyang nagbibigay kahulugan rin sa "buhay" bilang "walang buhay", o ang bato bilang " ang kabaliktaran ng bato." o ang "parisukat" bilang "bilog."
 
 Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
 
