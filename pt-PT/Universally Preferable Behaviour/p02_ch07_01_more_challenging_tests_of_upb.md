@@ -44,7 +44,7 @@ Anteriormente, quando estávamos a falar sobre o CUP, observámos que, onde há 
 
 Assim, quando apontamos situações de responsabilidade reduzida, não estamos *a tirar* a responsabilidade que existe, mas sim a reconhecer uma situação em que a responsabilidade não existe, pelo menos até certo nível. Se eu disser que um homem numa cadeira de rodas não pode usar uma escada rolante, não estou a tirar o seu direito de tomar a escada rolante, mas apenas a dizer que ele não a pode usar, de facto. Quando digo que o CUP não se aplica às acções de uma criança de cinco anos, não estou a dizer que o CUP seja subjectivo, assim como um requisito de altura para uma montanha-russa não torna o conceito de "alto" subjectivo.
 
-If I voluntarily enter into a contract with you wherein I promise to pay your bills for a year, I have not signed myself into slavery, but I certainly have taken on a positive obligation that I am now responsible for.
+Se eu celebro, voluntariamente, um contrato com você no qual prometo pagar as suas contas durante um ano, não me estarei a inscrever na escravidão, mas seguramente, estou a assumir uma obrigação positiva pela qual sou responsável, agora.
 
 If I run a nursing home, and I take in patients who are unable to feed themselves, then if I do not feed those patients, I am responsible for their resulting deaths. No one is *forcing* me to take in these patients, but once I have expressed a desire and a willingness to take care of them, then I am responsible for their continued well-being.
 
