@@ -39,7 +39,7 @@ Ang ilang mga malayang kondisyon ay dapat na umiiral, tanggapin, para sa mga hat
 
 Gaya nga ng aming pinag-uusapan sa itaas, ang pagpasok sa anumang debate ay nangangailangan ng pagtanggap sa mga katotohanan ng pagpili, mga halaga at personal na responsibilidad. Gayunpaman, ang mga kadahilanang ito ay naroroon din sa pagpili ng kulay ng pintura para sa isang kwarto, gayon pa man halos hindi natin masabi na ang pagpili ng isang kulay ay isang *moral*pagpili. Kaya nga dapat mayroong iba pang mga pamantayan na dapat na naroroon para ang isang pagpipilian o panukala ay moral.
 
-We all have preferences – from the merely personal (“I like ice cream”) to the socially preferable (“It is good to be on time”) to universal morality (“Thou shalt not murder”).
+Mayroon kami lahat ng mga kagustuhan – mula sa pansariling lamang ("Gusto ko ng ice cream") sa mga mas gusto sa lipunan ("Mahusay na nasa oras") sa pang mundong na moralidad ("Huwag kang mamamatay").
 
 There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
 
