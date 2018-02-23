@@ -31,9 +31,9 @@ Ang madahilang moral na teyoraya ay dapat magpaliwanag kung bakit ito ang kaso.
 
 ### Ang Pagpatay
 
-Kung nagmamadali ka sa akin na isang kutsilyo na itinaas, ilang mga tao ang makipag-talo sa aking karapatang ipagtanggol ang aking sarili. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+Kung nagmamadali ka sa akin na isang kutsilyo na itinaas, ilang mga tao ang makipag-talo sa aking karapatang ipagtanggol ang aking sarili. Kung ang pagbaril mo ay ang tanging paraan na mangatwiran at masiguro ang sarili kong kaligtasan, sa pangkalahatan ay ituturing na isang nakakahiya na pangangailangan.
 
-### Requirements For Ethics
+### Mga Kailangan para sa Etika
 
 Certain preconditions must exist, or be accepted, in order for ethical judgements or theories to have any validity or applicability. Clearly, choice and personal responsibility must both be accepted as axioms. If a rock comes bouncing down a hill and crashes into your car, we do not hold the rock morally responsible, since it has no consciousness, cannot choose, and therefore cannot possess personal responsibility. If the rock dislodged simply as a result of time and geology, then no one is responsible for the resulting harm to your car. If, however, you saw me push the rock out of its position, you would not blame the rock, but rather me. To add a further complication, if it turns out that I dislodged the rock because another man forced me to at gunpoint, you would be far more likely to blame the gun-toting initiator of the situation rather than me.
 
