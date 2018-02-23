@@ -154,7 +154,7 @@ Maipapakita mo ba sakin itong kontrata? Napirmahan na ba nila ang kontrata ng sa
 
 "mahusay, ito ay tanda lamang ng isang sulat-kamay na nagsasabing inaangkin mo ang buong kapit bahay - at parehong sulat-kamay mo ang iyong pirma. Natatakot ako ng kaylanganin namin na i-book ka -ito ay isang kontratang ginawa sa iyong sarili, kung saan ikaw ay nagdudulot sa ibang tao sa punto ng isang baril."
 
-Ito ay isang ganap na baliw at sira para sa akin kung patuloy niyong sasabihin na ang babae ay aking ginahasa kahit *gusto* niyang makipag talik sa akin. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+Ito ay isang ganap na baliw at sira para sa akin kung patuloy niyong sasabihin na ang babae ay aking ginahasa kahit *gusto* niyang makipag talik sa akin. Naiisip mo ba kung ako ay nililitis para sa panggagahasa, at nagkaruon ng isang videotape ng babae simulang pigilan ako, at may patalim ako sa kanyang lalamunan, kung paano ko matatangap ang pagtatangol kung patuloy Kong igigiit na siya talaga ang *gustong*makipag talik sa akin?
 
 In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
 
