@@ -126,7 +126,7 @@ Kahit na maraming kakaiba, kung ako ay hindi isang "pulis," pero ako ay susunod 
 
 Anung uri ng kaisipan ang gumagawa ng ganito? panu natin malilimutan ang hindi malutas na mesteryong ito?
 
-Ang simpleng katotohanan na ito ay *Hindi* pweding mabuksan, dahil ito ay ganap na sira. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+Ang simpleng katotohanan na ito ay *Hindi* pweding mabuksan, dahil ito ay ganap na sira. Ang katotohanan na ang "kabilang mondo" ang moral na kabaliwan ay ganap na hindi makatwiran -hindi nabangit ang marahas na pananamantala -ay napakalinaw na dapat itong kalimutan sa isang walang hangan na cavalcade ng mitolohika "kusang loob."
 
 We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
 
