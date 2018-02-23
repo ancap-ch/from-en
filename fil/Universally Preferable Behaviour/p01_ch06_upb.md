@@ -59,9 +59,9 @@ Katulad nito, kung makilala kita sa isang bar, at sabihin: “Gusto kung bumalik
 
 Ang tanong na ito ng *pag-iwas* ay susi sa kaibahan ng aesthetics mula sa etika, Nalalapat ang aesthetics sa mga sitwasyon na maaaring hindi kanais-nais, ngunit hindi mo maaalis sa iyong kapasidad na pumili.
 
-#### Avoidance And Initiation
+#### Pag-iwas At Pagsisimula
 
-There is a particular issue with avoidance that will come up later in this book, which is worth clearing up here beforehand.
+May isang partikular na isyu sa pag-iwas na iyon.
 
 If I live on a high mountaintop five thousand kilometres away from you, and send you an e-mail telling you that if you ever walk in front of my house, I am going to shoot you, it is relatively easy for you to avoid this situation. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
 
