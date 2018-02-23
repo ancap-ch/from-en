@@ -23,15 +23,15 @@ Sabihin natin na ikaw at ako ay mayroong pagdedebate tungkol sa pag-iral ng diyo
 
 Sabihin natin na ikaw at ako ay nagtatakda ng mga debate, at pareho kaming pumayag sa paghatol sa tanong ng pag-iral ng Diyos ayon sa dahilan at sa ebidensya. Kung, habang nagpapatuloy ang debate, bumabalik ka sa isang posisyon ng bulag na pananampalataya, at tanggihan ang aking mga argumento *sa kabila* ang kanilang katwiran at katibayan, hindi mo itinatago ang iyong salita. Sa ibang salita, ikaw ay nagsisinungaling kapag sinabi mo na ang tanong ay mapagpasyahan ng dahilan at katibayan.
 
-Ang mga pagkakaiba sa pagitan ng dalawang sitwasyong ito (hindi makatwiran laban sa pagsisinungaling) ay ang pagkakaiba sa pagitan ng kontraktwal at hindi kontraktwal na kaayusan. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+Ang mga pagkakaiba sa pagitan ng dalawang sitwasyong ito (hindi makatwiran laban sa pagsisinungaling) ay ang pagkakaiba sa pagitan ng kontraktwal at hindi kontraktwal na kaayusan. Kung ibigay ko sa iyo ang isang daang dolyar at pagkatapos ay lumakad palayo, hindi ko mapag-desisyonan na lumapit sa iyo sa isang taon at sabihin na ikaw ngayon utang na loob sa isang daang dolyar, dahil ito ay isang pautang. Kung, sa kabilang dako, sumasang-ayon ka na ibalik ang pera ko sa isang taon, at pagkatapos ay mabibigo na gawin ito, iyon ay medyo mahirap at ibang sitwasyon.
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+Sa isang halimbawa ng "pagsisinungaling," bagaman maliwanag na na-break mo ang iyong salita, at nasayang ang aking oras, parang hindi ito moral o makatuwiran para sa akin na mag-pull out ng baril atbabarilin kita.
 
-A reasonable moral theory should be able to explain why this is the case.
+Ang madahilang moral na teyoraya ay dapat magpaliwanag kung bakit ito ang kaso.
 
-### Murder
+### Ang Pagpatay
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+Kung nagmamadali ka sa akin na isang kutsilyo na itinaas, ilang mga tao ang makipag-talo sa aking karapatang ipagtanggol ang aking sarili. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
 
 ### Requirements For Ethics
 
