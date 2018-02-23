@@ -136,7 +136,7 @@ Pero baki ka nagbanta sa kanila na babarilin ako kung hindi nila ibibigay sayo a
 
 Dahil sila ang *nagpautang* sa akin ng kanilang pera!"
 
-“I thought you said that they want to give you their money.”
+"Akala ko sabi mo na gusto nilang ibigay sa iyo ang kanilang pera."
 
 “No, no – they owe me. It’s really *my* money!”
 
