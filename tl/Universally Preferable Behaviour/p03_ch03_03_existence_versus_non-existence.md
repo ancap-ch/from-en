@@ -1,8 +1,8 @@
-### Pamahalaan at Relihiyon
+### Mga Pamahalaan at Relihiyon
 
 Ang ideya ng maipanganak ay bumubo ng isang kontrata sa isang kathang-isip na ahensya, na sa praktikal na termino ay ginagawa kang tila-alipin sa ispesipikong mga indibidwal, na karaniwan parehas sa relihiyon at estado - at sa isa't isa, mas higit na personal na ahensya, na aking tinalakay sa aking unang aklat "Sa katotohanan: Ang Paniniil ng Ilusyon."
 
-Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Sa tuwing sasabihin ng isang pari na: "Sundin ang Diyos." ang kanyang tunay na nais sabihin ay: Sundin *ako*." Dahil ang Diyos ay hindi umiiral, anumang kautusan na sabihin ng pari na galing sa Diyos, ay tunay na nanggagaling sa pari. Ang "Diyos" ay isang kathang-isip na entidad na konseptwal kang sinusupil upang makuha ang iyong praktikal na pagsunod ng walang tanong-tanong sa totoong mundo, sa totoong indibidwal, sa paraan ng boluntaryong pagbibigay ng salapi, oras at pinagkukunang-yaman.
 
 It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
 
