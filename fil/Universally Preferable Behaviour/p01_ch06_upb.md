@@ -55,7 +55,7 @@ Kung, pagkatapos ng vowing monogamy, ako ay manlilinlang sa aking asawa, at siya
 
 Kung ikaw at ako ay parehong nakatayo na itaas ng isang talampas, at humarap ako sa iyo at sabihing, “tumayo ka sa harap ko, kaya naitulak kita sa talampas,” ano ang iyong magiging tugon? Kung boluntaryong kang tumayo sa harap ko, at pagkatapos ay itulak kita mula sa talampas, ito ay mas malamang na ituring na isang paraan ng pagpapakamatay sa iyong bahagi, sa halip na pagpatay sa aking bahagi. Ang dahilan para sa mga ito ay maaari mong madaling *iwasan* na itulak sa talampas, sa pamamagitan lamang ng pagtangging tumayo sa harap ko.
 
-Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death,” if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
+Katulad nito, kung makilala kita sa isang bar, at sabihin: “Gusto kung bumalik ka sa aking lugar, kaya maitatali kita sa kama at mamatay ka sa gutom,” Sa katunayan kung gagawin mong bumalik sa aking lugar, ito ay may makatwirang kaalaman na ang iyong kahabaan ng buhay ay hindi mapapahusay ng iyong desisyon. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
 
 This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose.
 
