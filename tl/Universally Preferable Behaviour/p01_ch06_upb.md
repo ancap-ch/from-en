@@ -21,9 +21,9 @@ Sabihin natin na ikaw at ako ay mayroong pagdedebate tungkol sa pag-iral ng diyo
 
 ### Ang Pagsisinungaling
 
-Sabihin natin na ikaw at ako ay nagtatakda ng mga debate, at pareho kaming pumayag sa paghatol sa tanong ng pag-iral ng Diyos ayon sa dahilan at sa ebidensya. Kung, habang nagpapatuloy ang debate, bumabalik ka sa isang posisyon ng bulag na pananampalataya, at tanggihan ang aking mga argumento *sa kabila* ang kanilang katwiran at katibayan, hindi mo itinatago ang iyong salita. In other words, you were lying when you said that the question would be decided by reason and evidence.
+Sabihin natin na ikaw at ako ay nagtatakda ng mga debate, at pareho kaming pumayag sa paghatol sa tanong ng pag-iral ng Diyos ayon sa dahilan at sa ebidensya. Kung, habang nagpapatuloy ang debate, bumabalik ka sa isang posisyon ng bulag na pananampalataya, at tanggihan ang aking mga argumento *sa kabila* ang kanilang katwiran at katibayan, hindi mo itinatago ang iyong salita. Sa ibang salita, ikaw ay nagsisinungaling kapag sinabi mo na ang tanong ay mapagpasyahan ng dahilan at katibayan.
 
-The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+Ang mga pagkakaiba sa pagitan ng dalawang sitwasyong ito (hindi makatwiran laban sa pagsisinungaling) ay ang pagkakaiba sa pagitan ng kontraktwal at hindi kontraktwal na kaayusan. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
 
 In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
 
