@@ -56,9 +56,9 @@ Dito rin ay ipinapakilala ang kumpletong hindi maka-agham na subjectivism na mga
 
 Pati, kung ako ay makakagawa ng mas maraming pera gaya ng isang hit na tao higit sa isang taga-tinda, hindi ko kailangan ipagpatuloy ang kaharasan tulad ng isang karera? ito ay siguradong nakakapagpabuti *sa aking*kalligtasan ng aking buhay... at nang iba pa.
 
-As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
+Katulad ng nakikita natin, ang introdaksyon ng "ano ang mabuti para sa tao sa basal - o anung ang gingawa ng mas karamihan sa mga nilalang - ay ano ang mas mabuti ang lahat" wasakin ang totoong konsepto ng moralidad bilang isang lohikal na pare-parehas ang teyorya, at kapalit lamang ang biyolohikal na nagdadala bilang katwiran para sa pag-aasal. Ito ay isang interpretasyon ng pag-uugali, hindi isang panukalang mora na teyorya.
 
-### The Purpose And The Dangers
+### Ang pakay at ang mga peligro
 
 With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
 
