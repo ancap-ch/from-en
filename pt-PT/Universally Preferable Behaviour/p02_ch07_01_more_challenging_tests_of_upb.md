@@ -4,9 +4,9 @@ Já comprovámos teorias morais específicas em relação à estrutura do CUP e 
 
 No entanto, ainda existem muitos testes morais desafiantes que não se enquadram nos exemplos que examinámos acima. Só iremos trabalhar com alguns deles aqui, para examinar a estrutura do CUP e ver como é que ele trata essas questões morais mais desafiadoras.
 
-### Self-Defence
+### Legítima Defesa
 
-The concept of self-defence should not be taken for granted. If we assume that there is no such thing as self-defence, or that self-defence is never a valid action, then the framework of UPB undoes that assumption very quickly.
+O conceito de legítima defesa não deve ser considerado como garantido. Se assumirmos que a legítima defesa não existe, ou que a mesma nunca é uma acção válida, a estrutura do CUP desfaz essa suposição muito rapidamente.
 
 If there is no such thing as self-defence, then we are not talking about the initiation or the retaliation of the use of force, but rather just the use of force in any context. In other words, if we get rid of the concept of self-defence, the only question that we need to ask ourselves is: *is it universally preferable to use force, or not?*
 
