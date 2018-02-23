@@ -1,17 +1,17 @@
 ## UPB: Mga Etika o Estetika?
 
-Sa pangkalahatan, aming gagamitin ang termino sa *estetika* para sumangguni sa di-maipapatupad na mga kagustuhan – pangkabuan o pansariling – habang*mga etika* o *moralidad*ay tumutukoy sa mga naisagawa na mga kagustuhan. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Ang hindi-marahas na mga galaw sa pamamagitan ng kanilang likas na katangian ay *maiiwasan*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. A rapist, on the other hand, is violently inflicting his preferences upon his victim.
+Sa pangkalahatan, aming gagamitin ang termino sa *estetika* para sumangguni sa di-maipapatupad na mga kagustuhan – pangkabuan o pansariling – habang*mga etika* o *moralidad*ay tumutukoy sa mga naisagawa na mga kagustuhan. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Ang hindi-marahas na mga galaw sa pamamagitan ng kanilang likas na katangian ay *maiiwasan*. Kung ang isang pisisista ay titigil sa paggamit ng pang-agham na pamamaraan, ngunit sa halip ay nagsisimula kumonsulta sa mga baraha ng tarot, hindi siya marahas na nagpapamalas ng kanyang pagpili sa akin, at pwede kong siyang iwasan. Ang isang rapist, sa kabilang dako, ay marahas na nagpapanggap sa kanyang mga kagustuhan sa kanyang biktima.
 
-Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
+Bagama't una kaming nakatuon sa UPB sa larangan ng etika, ang UPB ay makikita na ngayon bilang isang "payong na termino," na kinabibilangan ng mga naturang disiplina gaya ng:
 
-- The scientific method
-- Logic
-- Empiricism
-- Debating
-- Language
-- Ethics
+- Ang pang-agham na pamamaraan
+- Lohika
+- Empirisismo
+- Pagdedebate
+- Lenguahe
+- Mga Etika
 
-Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+Ang etika ay ang pamalit ng UPB na may kinalaman sa *pamiminsala* pag-uugali, o paggamit ng karahasan. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
 
 Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
 
