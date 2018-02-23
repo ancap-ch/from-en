@@ -4,7 +4,7 @@ Dahil ang mga etika ay asignatura na tayong lahat ay mayroon mga ideya tungkol d
 
 Ang manlalaro ng besbol ay pwedeng masalo ang lumilipad na bola kahit wala syang alam ukol sa mga pisika, kaparehas, na paraan, pwede nating maintindihan ng tama ang isang aksyon bilang imoral kahit wala tayong nauunawaan ukol sa mga teyorya ng etika.
 
-If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
+Kung sasaluhin ko ang lumilipad na bola, pagkatapos ay meroon akong isang instinctual*madama*para sa kaugalian ng isang besbol sa paglipad. Ang aking maipapahayag na may kalikasan na pagkaka-intindi, gayunman, ako ay hindi binigyan ng kapasidad na tama ang ilunsad ang isang sasakayan napangkalawakan para libutin ang hupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
 
 In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
 
