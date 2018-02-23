@@ -46,7 +46,7 @@ Assim, quando apontamos situações de responsabilidade reduzida, não estamos *
 
 Se eu celebro, voluntariamente, um contrato com você no qual prometo pagar as suas contas durante um ano, não me estarei a inscrever na escravidão, mas seguramente, estou a assumir uma obrigação positiva pela qual sou responsável, agora.
 
-If I run a nursing home, and I take in patients who are unable to feed themselves, then if I do not feed those patients, I am responsible for their resulting deaths. No one is *forcing* me to take in these patients, but once I have expressed a desire and a willingness to take care of them, then I am responsible for their continued well-being.
+Se eu dirijo uma casa de repouso, e aceito pacientes que não se conseguem alimentar, então, se eu não os alimentar, sou responsável pelas suas mortes. No one is *forcing* me to take in these patients, but once I have expressed a desire and a willingness to take care of them, then I am responsible for their continued well-being.
 
 In the same way, if I borrow your lawnmower, I am obligated to bring it back in more or less the same state that it was when I borrowed it. Similarly, if I go to a pet store and buy a dog, I have taken on a voluntary obligation to take care of that dog. This does not mean that I am now the dog’s slave until the day it dies, but it does mean that as long as the dog is in my possession, I have a responsibility to try to keep it healthy.
 
