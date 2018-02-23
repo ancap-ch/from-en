@@ -26,7 +26,7 @@ Ang rason kung bakit tayo ay gumugugol ng sobrang oras upang harapin ang teorya 
 
 Sa ating personal na karanasan, alam nating ang pumatay ay mali. Sa pagninilay-nilay gamit ang proposisyon na ang pagpatay ay moral na mali ayon sa halimbawa sa itaas, lubos kong pinagdududahan na sinuman ay nagulat na ang kanilang moral na kutob ay nakompirma sa pamamagitan ng istriktong abstrak na pangangatwiran ng UPB. Sa seksyon na ito, gayonpaman, opisyal na pinapayagan kayong na magsimulang magulat.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Ang pinakamalaking pagtalon tungo sa syentipikong pagkakaunawa ay ang mga tinatawag na " nagbubuklod na teorya". Si Einstein ay gumugol ng mga dekada kakasubok na magkaroon ng teorya ng pagbubuklod ng larangan; at teorya ng pisika na nagbuklod sa malakas at mahinang pwersa, elektromagnetismo, grabidad at iba na hanggang ngayon ay mailap pa rin.
 
 UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
 
