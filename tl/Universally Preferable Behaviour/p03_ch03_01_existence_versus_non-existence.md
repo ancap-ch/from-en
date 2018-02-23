@@ -44,9 +44,9 @@ Ang mga sundalo, syempre, ay nagsusuot ng mga kostyum na iba sa karaniwang mamam
 
 Tayo ay muling magbigay halimbawa.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Ang pagnanakaw ay moral na mali, gaya ng nakita natin sa itaas. Ito ay moral na mali sa lahat ng tao sa lahat ng sitwasyon sa lahat oras at sa ilalim ng lahat ng pangyayari. Dahil ang pagnanakaw ay ang sapilitang pagkuha ng pag-aari ng sinuman ng walang paalam, kung gayon ang pagbubuwis ay unibersal at magpakailanman moral na kasamaan. Ang pagbubuwis ayon sa depinisyon ay sapilitang pagkuha ng pag-aaari ng sinuman ng walang paalam, dahil ang pagbubuwis ay umaasa sa paggamit ng pwersa upang hubaran ang isang tao ng kanyang ari-arian.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+Ang ating tinatawag na " ang pamahalaan" ay isa lamang halimbawa ng *sonang wala* kung saan ang taas ay baba, itim ay puti, katotohanan ay kamalian at ang kasamaan ay mabuti.
 
 Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
 
