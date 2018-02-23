@@ -146,7 +146,7 @@ Dahil sila ang *nagpautang* sa akin ng kanilang pera!"
 
 Maipapakita mo ba sakin itong kontrata? Napirmahan na ba nila ang kontrata ng sarili nilang kalooban?"
 
-"Hindi iyan ang uri ng kontrata! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+"Hindi iyan ang uri ng kontrata! Ito ay - * panlipunan* kontrata... At bukod sa - ayon dito sa panlipunang kontrata, inangkin ko parin pala ang buong kalye - Ang buong sumpaing kapitbahay sa katunayan! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
 
 “And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
 
