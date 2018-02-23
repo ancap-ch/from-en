@@ -63,7 +63,7 @@ Ang tanong na ito ng *pag-iwas* ay susi sa kaibahan ng aesthetics mula sa etika,
 
 May isang partikular na isyu sa pag-iwas na iyon ay darating mamaya sa aklat na ito, na kung saan ay nagkakahalaga ng paglilinis pagtaas dito muna.
 
-If I live on a high mountaintop five thousand kilometres away from you, and send you an e-mail telling you that if you ever walk in front of my house, I am going to shoot you, it is relatively easy for you to avoid this situation. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
+Kung nakatira ako sa isang bundok na mataas na limang libo kilumetro ang layo mula sa iyo, at magpadala sa iyo ng isang e-mail na nagsasabi sa iyo na kung sakaling maglakad sa harap ng aking bahay, Papatayin ko kayo, medyo madali para iyo na maiwasan ang sitwasyon ito. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
 
 On the other hand, if you live on a dead-end street, and I tell you that if you take that street to get home, I will shoot you, your capacity to avoid this situation becomes significantly limited. You could certainly tunnel into your house, or jump over a bunch of backyard fences, but all of this would be considerably inconvenient.
 
