@@ -160,7 +160,7 @@ Sa korte, ako ay nilalait, at tinapon sa kulongan para sa aking halatang, galit,
 
 Ah, pero ang sa "null zone" ng gobyerno, ang panggagahasa ay gawa ng pagmamahal pagkuha ng bata ay paanyaya, ang pagtangi sa pagnanakaw ay masamang pagkamakasarili, at ang pamimilit sa kabaitan.
 
-This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
+Ito ang ibig kong sabihin kapag sinasabi ko na ito ay "kabilang mondo ng *null zone*" ay ang pinaka pangunahin hadlang sa kaligayahan ng tao. Pagnanakaw ay mali para sa lahat, pagnanakaw ay mali sa abstract -pero ang pagnanakaw kahit papano ay "tama" sa baliw na alternatibong uniberso na tinatawag na "gobyerno"?
 
 [^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
 
