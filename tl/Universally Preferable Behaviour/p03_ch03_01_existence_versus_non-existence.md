@@ -28,13 +28,13 @@ Sa ating personal na karanasan, alam nating ang pumatay ay mali. Sa pagninilay-n
 
 Ang pinakamalaking pagtalon tungo sa syentipikong pagkakaunawa ay ang mga tinatawag na " nagbubuklod na teorya". Si Einstein ay gumugol ng mga dekada kakasubok na magkaroon ng teorya ng pagbubuklod ng larangan; at teorya ng pisika na nagbuklod sa malakas at mahinang pwersa, elektromagnetismo, grabidad at iba na hanggang ngayon ay mailap pa rin.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+Ang UPB bilang balangkas, gayonpaman, hindi lamang binibigyang katwiran ang ating moral na likas na pag-uugali sa personal, pilosopikal at unibersal na mga lebel - subalit mayroong malalim at kagulat-gulat na implikasyon sa pantaong lipunan.
 
-#### UPB In Action
+#### UPB na Umaaksyon
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+Ang balangkas ng UPB ay nagbibigay bisa sa mga moral na proposisyon sa pamamagitan ng pagdemand na sila ay maging internal na kaalinsunod at unibersal sa mga termino ng oras, lugar at mga indibidwal.
 
-If we accept UPB, we must also accept the following corollary:
+Kung ating tinanggap ang UPB, atin dapat tanggapin ang sumusunod na korolari:
 
 - Moral propositions are independent of costume.
 
