@@ -138,7 +138,7 @@ Dahil sila ang *nagpautang* sa akin ng kanilang pera!"
 
 "Akala ko sabi mo na gusto nilang ibigay sa iyo ang kanilang pera."
 
-“No, no – they owe me. It’s really *my* money!”
+"Hindi, hindi -sila ang mayutang sa akin. ito ay talagang *akin* pera!"
 
 “On what grounds do they owe you this money?”
 
