@@ -130,7 +130,7 @@ Ang simpleng katotohanan na ito ay *Hindi* pweding mabuksan, dahil ito ay ganap 
 
 Sinanasi natin na "gusto" ni Bob na makuha ang aking pera -na kung saan ganap na kontradiksyon ang katotohanan kay Bob napakita sa harapan ng pintuan at tinutukoy ako ng isang baril na may bala sa muka. Sapamamagitan ng luhikang ito, ang kaya kolang ay tumaas at bumaba ang lansangan na nagnanakaw ng pera mula sa aking mga kapitbahay, at pagkatapos ay tatangapin nilang silay lubos na nagulat kapag ako ay nahuli:
 
-“They *want* me to take their money!”
+"Silay *gusto* ako na kuni Ang kanilang pera!"
 
 “But then why were you threatening to shoot them if they did not give you their money?”
 
