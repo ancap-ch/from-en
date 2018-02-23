@@ -51,7 +51,7 @@ Kung, gayunpaman, kapag nagpasiya akong umalis sa iyong hapunan, ikaw ay lumukso
 
 Kung, pagkatapos ng vowing monogamy, ako ay manlilinlang sa aking asawa, at siya ay nagpasiya na iwanan ako, tiyak na ginawa ko ang kanyang mali, ngunit ang maling nagawa ko sa pamamagitan ng pang daraya ay ibang-iba sa maling gagawin ko kung ikulong ko siya sa basement upang mapigilan siya sa pag-alis. Sa pangkalahatan ay hindi natin dapat isaalang-alang ang isang asawa na nagsasalakay sa kanyang asawa dahil sa pagtataksil na kumilos sa kagandahang-asal, ngunit kikilalanin natin ang kahiya-hiyang pangangailangan kung kailangan niyang gumamit ng karahasan upang makatakas mula sa kanyang pagkabilanggo. Sa unang sitwasyon, ang asawa ay may malayang pagpipili at kakayahang *iwanan* ang kanyang asawa, at sa gayon ang karahasan ay magiging isang di-makatarungang tugon sa sitwasyon; sa pangalawang sitwasyon, ang kanyang pinili na umalis sa kanyang asawa ay inalis sa pamamagitan ng pagkabilanggo. Ang kawalan ng katapatan ay hindi nagwawasak ng kakayahan ng kapareha na pumili; pag kulong sa kanya sa basement ay.
 
-### Avoidance
+### Pag-iwas
 
 If you and I are both standing at the top of a cliff, and I turn to you and say, “Stand in front of me, so I can push you off the cliff,” what would your response be? If you do voluntarily stand in front of me, and I then push you off the cliff, this would more likely be considered a form of suicide on your part, rather than murder on my part. The reason for this is that you can very easily *avoid* being pushed off the cliff, simply by refusing to stand in front of me.
 
