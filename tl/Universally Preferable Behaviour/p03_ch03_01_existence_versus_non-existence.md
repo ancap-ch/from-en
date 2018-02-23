@@ -36,13 +36,13 @@ Ang balangkas ng UPB ay nagbibigay bisa sa mga moral na proposisyon sa pamamagit
 
 Kung ating tinanggap ang UPB, atin dapat tanggapin ang sumusunod na korolari:
 
-- Moral propositions are independent of costume.
+- Ang mga moral na proposisyon ay independent sa kostyum.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Ang ibig sabihin nito ang isang tao ay hindi kaya baguhin ang kanyang moral na kalikasan kasabay ng kanyang pananamit. Ang akto ng pagbabago ng kostyum ng isang tao ay hindi pinapalitan ang pundamental na kalikasan ng taong ito. Samaktuwid ang nagsasalungatang moral na tuntunin ay walang bisa ayon sa damit na suot ng isang tao.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Ang mga sundalo, syempre, ay nagsusuot ng mga kostyum na iba sa karaniwang mamamayan. Ang karaniwang mamamayan ay pinagbabawalan na pumatay; ang mga sundalo, gayon pa man ay hindi lamang *pinapayagang* pumatay, subalit *pinupuri* pa nga dahil sila ay nakapatay.
 
-Let’s take another example.
+Tayo ay muling magbigay halimbawa.
 
 Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
 
