@@ -10,7 +10,7 @@ Kung gayon kapag sinabi ko na, "Ang Diyos ay umiiral," ang talagang sinasabi ko 
 
 Sa ibang pananalita, sa pagsabi na ang "Diyos ay umiiral." Ako ay gumawa ng isang hindi malulutas na kontradiksyon. Aking binigyang kahulugan ang "pag-iral" bilang "hindi pag-iral" na siyang nagbibigay kahulugan rin sa "buhay" bilang "walang buhay", o ang bato bilang " ang kabaliktaran ng bato." o ang "parisukat" bilang "bilog."
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+Gayon din, kung ako ay gagawa ng isa pang uniberso kung saan ang "hindi pag-iral ay katumbas ng pag-iral" at ang "kontradiksyon ay katumbas ng hindi pagbabago" at ang "katotohan katumbas ng kamalian" at ang "irasyonal katumbas ng rasyonal", kung gayon ang aking tunay na nagawa ay isang lupain ng "mali," ilagay ang lahat sa loob nito na hindi naman totoo, at bigyang kahulugan ang lupain na ito bilang ang "mali katumbas ng katotohanan." [^2]
 
 Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
 
