@@ -140,13 +140,13 @@ Dahil sila ang *nagpautang* sa akin ng kanilang pera!"
 
 "Hindi, hindi -sila ang mayutang sa akin. ito ay talagang *akin* pera!"
 
-“On what grounds do they owe you this money?”
+"sa anong mga dahilan ay may utang na loob ka sa pera na ito?"
 
-“We have a contract!”
+"meron kaming kontrata!"
 
-“Can you show me this contract? Have they signed this contract of their own free will?”
+Maipapakita mo ba sakin itong kontrata? Napirmahan na ba nila ang kontrata ng sarili nilang kalooban?"
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+"Hindi iyan ang uri ng kontrata! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
 
 “And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
 
