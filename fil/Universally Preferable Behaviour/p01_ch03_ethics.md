@@ -20,7 +20,7 @@ Gayunman, gaya ng mga pisika na Einsteinian na nagbibigay ng mga nakakabigla na 
 
 Kung ihahayag ko na may isang bagay na "ang moralidad ay mabuti" - sa ibang mga salita, kung imumungkahi ko ang isang teyorya ng etikal - samakatuwid ako ay malinaw na nakikipagdiskusyunan sa mga tao *dapat*gumalaw sa isang partikular na paraan. o *umiwas*paggalaw sa isang partikular na paraan.
 
-If I tell my son that he *should* become a baseball player just because I want him to, I am not stating a universal moral premise, but rather a personal preference. He is not *moral* if he becomes a baseball player, and neither is he *immoral* if he does not.
+Kung ihahayag ko sa aking anak na siya ay *kailangan* maging isang manlalaro ng besbol sapagka't gusto ko lamang sa kanya, ako ay hindi nagsasabi ng pang-unibersal na moral na premise, subali't sa isang pansariling kahilingan. Hindi siya ay *moral* kung siya ay magiging isang manlalaro ng besbol, at ni siya man *imoral* kung hindi siya.
 
 However, if I tell him that it is *moral* for sons to obey their fathers, and *immoral* for them to disobey their fathers, then I am proposing a preference that is universal, rather than merely personal – I am trying to turn a “little truth” (*I want you to become a baseball player*) into a “great truth” (*It is immoral for sons to disobey fathers*). *If* he wishes to be moral, he *must* become a baseball player – not because becoming a baseball player is moral, but rather because obeying his father is moral.
 
