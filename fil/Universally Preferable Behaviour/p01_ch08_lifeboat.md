@@ -54,7 +54,7 @@ Ang uri ng ganitong "biyolohikal ng hedonism” ay pwedeng isang diskripsyon ng 
 
 Dito rin ay ipinapakilala ang kumpletong hindi maka-agham na subjectivism na mga moralidad na tanong. Halimbawa, kung ito ay morld na pinahihintulutan na magnakaw kapag ikaw ay nagugutom, gaano karaming pagkain ang iyong nanakawin? Gaano ka nagugutom? Pwede mong nakawin ang hindi masustansyang pagkain? Gaano kasustansya ang pagkain upang magustuhan ang pagnanakaw nito? Gaano katagal matapos ang pagnakaw ng isang pagkain ikaw ba ay pinayagan na magnakaw ng iba pang pagkain? Ikaw ba ay pinahintulutan na magnakaw ng mga pagkain sa halip na tumingin ng mga trabaho o mag-apelasyon sa charity?
 
-Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
+Pati, kung ako ay makakagawa ng mas maraming pera gaya ng isang hit na tao higit sa isang taga-tinda, hindi ko kailangan ipagpatuloy ang kaharasan tulad ng isang karera? ito ay siguradong nakakapagpabuti *sa aking*kalligtasan ng aking buhay... at nang iba pa.
 
 As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
 
