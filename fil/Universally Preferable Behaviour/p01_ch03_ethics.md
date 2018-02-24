@@ -34,7 +34,7 @@ Kagaya nito, walang gaanong bagay gaya ng panglahatan "mas magaling" na direksyo
 
 Ito ay totoo na kakaunting mga tao ang *gumawa* na magmaneho sa karagatan, pero ito ay hindi nangangahulugan na totoo na ang sinuman ay *kailangan* magmaneho sa karagatan. Ang mga alintuntunin ay hindi demokratiko - o, kapag silay ay, muli nating harapan ang mga suliranin ng ranggo ng subjectivism, at kailangan itapon ang kabuuang konsepto ng mga etika sa labas ng bintana.
 
-"pag-ugali" ay umuosbong sa obhektibo ng reyalidad, sa labas ng aming isip - mga konsepto ay "kailangan," dapat," at "kagustuhan," na hindi umiiral sa labas ng ating mga diwa. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
+"pag-ugali" ay umuosbong sa obhektibo ng reyalidad, sa labas ng aming isip - mga konsepto ay "kailangan," dapat," at "kagustuhan," na hindi umiiral sa labas ng ating mga diwa. Gayunman, ang katotohanan ay "kailangan" ay hindi umuosbong sa loob ng obhektibong reyalidad na hindi ibigsabihin na "kailangan" ay lubos na subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
 
 ### Self-Defeating Arguments
 
