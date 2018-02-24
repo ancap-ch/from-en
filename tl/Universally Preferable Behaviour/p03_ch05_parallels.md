@@ -42,9 +42,9 @@ Katulad pa, na ang mga pamahiing pamamaraan, ay may katagalan ang pagsulong ng m
 
 Gaya ng siyensya ay sinimulan na magbigay ng panuntunan sa mundo na pwedeng makatakbo ng wala nang isang dyos, sa lahat ng uri nang pamamaraan sa pagka-isterikong hiyawan na ang katapusan ng daigdig ay nalalapit na, sa lipunan ay makaraaranas ng paguho nito dahil sa "kakulangan ng pamahalaan," at maging ang sibilisasyon ay maaring mapunta sa pagkatunaw dahil sa digmaan na ang lahat ay lalaban sa lahat.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+Sa anumang pagkakataon ang isang paraan na nagpapahayag ng pangangatwiran ay pwedeng maging makapangyarihang pag-iisip sa pagtakbo ng *walang* sinumang may kakayahan, na sa lahat ay para kumikita ng mula sa pagpapatakbo ng kanilang kakayahan na iyon napaluha ang lahat ng sila ay nawalan.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+Ang mga pari ang tumupad sa pagpapasimula ng makaagham na pagbabago. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
 
 None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
 
