@@ -1,57 +1,57 @@
-## UPB: Ethics Or Aesthetics?
+## UPB: Etika O Mga Katahom?
 
-In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. A rapist, on the other hand, is violently inflicting his preferences upon his victim.
+Sa kasagaran, mogamit kita sa termino nga *mga katahom* aron sa pagdangop sa dili mapatuman nga mga kagustuhan – malukpanon o kinaugalingon – samtang ang *etika* o *moralidad* nga makahimo nga modangop aron sa mga kagustuhan nga mapatuman. Mao kini ang *malukpanon kaayo nga nagustuhan* (pananglitan sa gikinahanglan) aron sa paggamit sa pamaagi nga siyintipiko aron sa pagpamatuod sa mga teorya nga pang-pisika, pero dili kita mamahimo nga mogamit og kusog aron sa *paghamtang* sa pamaagi nga siyintipiko sa kadto nga dili mogamit niini, tungod kay *ang dili paggamit sa pamaagi nga siyintipiko kay dili usa ka mapintas nga lihok*. Ang dili mapintas nga mga lihok pinaagi sa ilaha nga kinainyahon kay *mahilikayan*. Kung ang usa ka pisisista mohunong og gamit sa pamaagi nga siyintipiko, pero sa hinoon magsugod na og pagkonsultar sa mga baraha nga tarot, dili siya mapintas kaayo nga nakahamtang sa iyaha nga pagpili nganhi sa akoa, ug makahimo ko nga molikay niya. Usa ka manglulugos, sa lain nga bahin, kay mapintas kaayo nga nakahamtang sa iyaha nga mga kagustuhan ngadto sa iyaha nga biktima.
 
-Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
+Bisan nga kita nagtutok og una sa UPB ngadto sa dominyo sa etika, ang UPB mamahimo na nga makita karon isip usa ka “pulong nga naglangkob og dako kaayo nga sakop sa kasagaran nga kategoriya,” nga naglangkit sa mga susama nga disiplina:
 
-- The scientific method
-- Logic
-- Empiricism
-- Debating
-- Language
-- Ethics
+- Ang pamaagi nga siyintipiko
+- Lohika
+- Empirisismo
+- Pakiglantugi
+- Pinulongan
+- Etika
 
-Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+Ang etika mao ang ubos nga set sa UPB nga nagatuon sa *gipahamtang* nga gawi, o ang paggamit og kapintas. Ang bisan unsa nga teorya nga mingkatarongan o minglimod nga ang paggamit sa kapintas kay usa teorya sa *pamatasan*, ug mao ang pagahilisgotan sa mga kinahanglanon sa lohikal nga pagkamakanunayon ug ebidensya nga empirikal.
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9] 
+Tan-awon kanato ang tulo kabook nga mga lihok, aron sa pagtabang kanato og dugang pa sa pag-ila tali sa etika ug mga katahom. Ang una nga lihok kay ang *pagkadili makatarunganon*; ang ikaduha mao ang *pagpamakak*; ang ikatulo mao ang *pagpatay*.[^9] 
 
-[^9]: Please note that the examples below are not proofs, but rather situations that a valid ethical theory should be able to encompass and explain. We will get to the actual proofs shortly.
+[^9]: Palihug og timaan sa kani nga mga pananglitan sa ubos nga dili nga pruweba, pero hinoon mga sitwasyon nga usa ka balido nga teorya nga pang-etika nga kinahanglan nga makahimo nga makasabot ug maka-eksplikar. Makakuha kita sa mga aktwal nga mga pruweba sa labing dili dugay.
 
-### Irrationality
+### Pagkadili-makataronganon
 
-Let’s say that you and I are having a debate about the existence of God. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof. 
+Ibutang nato nga ikaw ug ako kay adunay usa ka lantugi mahitungod sa paglungtad sa Ginoo. Human nako mapagawas akong mga argumento, imohang gipakpak ang imoha nga kamot ngadto sa imoha nga mga dunggan, nagkanta nga ang Ginoo nagsulti sa imoha nga Siya anaa, ug busa tanan sa ako nga mga argumento kay walay pulos. Tataw kaayo, nga ang imoha nga tubag sa akoa nga gibarugan kay dili makataronganon. Bisan pa niana makahimo ko nga makakita nga makasamok ang imoha nga gawi, bisan pa, kini mamahimo nga rasonable nga kuwang kaayo gihapon aron ako makagawas sa akong pagkapakyas pinaagi sa paghulbot og usa ka pusil ug pagpusil nimo. Nagtuo ko nga kini mao ang *malukpanon kaayo nga nagustuhan* aron sa paggamit og lohika ug ebidensya kay sa pagsalig lang sa mga tingog dinha sa atoa nga mga ulo, pero kini nga kagustuhan nga malukpanon mao ang dili mapatuman nga rasonable sa pagbati nga *lawasnon*, pinaagi sa mapintas o ang hulga niini. 
 
-### Lying
+### Pagpamakak
 
-Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
+Ibutang nato nga ikaw ug ako mingtakda og mga mando alang sa usa ka lantugi, ug kitang duha ming-uyon nga hukman ang pangutana sa paglungtad sa Ginoo mahitungod sa rason ug ebidensya. Kung, sa dihang mingpadayun ang lantugi, mingbalik ka ngadto sa usa ka baruganan nga buta nga pagtuo, ug mingsupak sa ako nga mga argumento *bisan* sa ilaha nga pagkamakataronganon ug ebidensya, wala ka nagatuman sa imoha nga pulong. Sa lain nga mga pulong, namakak ka nga sa kadtong mingsulti ka nga ang pangutana mamahimo nga mahukman pinaagi sa rason ug ebidensya.
 
-The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+Ang kalahian tali sa niini nga duha ka mga sitwasyon (pagkadili-makataronganon batok sa pagpamakak) mao ang kalahian tali sa usa ka kontraktuwal ug usa ka dili kontraktuwal nga areglo. Kung tagaan tika og usa ka gatos ka mga dolyares ug unya molakaw ko dayun, dili ko pwede nga makahimo nga moanha nimo matag usa ka tuig ug mosulti sa imoha nga utangan ka karon sa akoa og usa ka gatos nga mga dolyares, tungod kay usa kadto ka hulam. Kung, sa lain nga bahin, ming-uyon ka nga mobayad ka nako aron mabalik ang kwarta sa matag usa ka tuig, ug unya napakyas ka pagbuhat ato, kana maoy usa ka lahi gayud  nga sitwasyon.
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+Sa pananglitan sa “pagpamakak,” bisan pa nga ikaw tataw kaayo nga mingguba sa imoha nga pulong, ug nakasayang sa ako nga oras, dili daw kini makahimo nga kini kay pamatasan o kana maoy rasonable alang kanako aron sa paghulbot og pusil ug pagpusil kanimo.
 
-A reasonable moral theory should be able to explain why this is the case. 
+Ang usa ka rasonable nga teorya sa pamatasan nga kinahanglan nga kaya nga maka-eksplikar og ngano mao ni ang kaso.
 
-### Murder
+### Pagpatay
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity. 
+Kung ikaw mingatraka nganhi kanako nga adunay giisa nga kutsilyo, pipila ka mga tawo ang makahimo nga molalis sa ako nga katungod aron sa pagpanalipod sa akong kaugalingon. Kung ang pagpusil sa imoha ang mao ra ang pamaagi nga ako makahimo ko nga rasonable nga makasiguro sa akong kaugalingon nga kahilwasan, mahimo kini nga sa kasagaran nga makonsiderar nga usa ka panginahanglan nga kamahayan.
 
-### Requirements For Ethics
+### Mga Panginahanglanon Alang sa Etika
 
-Certain preconditions must exist, or be accepted, in order for ethical judgements or theories to have any validity or applicability. Clearly, choice and personal responsibility must both be accepted as axioms. If a rock comes bouncing down a hill and crashes into your car, we do not hold the rock morally responsible, since it has no consciousness, cannot choose, and therefore cannot possess personal responsibility. If the rock dislodged simply as a result of time and geology, then no one is responsible for the resulting harm to your car. If, however, you saw me push the rock out of its position, you would not blame the rock, but rather me. To add a further complication, if it turns out that I dislodged the rock because another man forced me to at gunpoint, you would be far more likely to blame the gun-toting initiator of the situation rather than me.
+Kinahanglan nga adunay mga tino nga mga kondisyon, o mamahimo nga dawaton, aron sa mga paghukom o mga teorya nga pang-etika nga adunay pagkamatuod o pagkagamit. Tataw kaayo, ang responsibilidad sa pagpili ug sa kaugalingon kinahanglan ang adunay parehas nga nadawat isip mga aksyoma. Kung ang usa ka bato nag-untol-untol dayon paubos sa usa ka bungtod ug nadusmog ngadto sa imoha nga sakyanan, dili kita makaingon nga ang bato nagakupot og moral kaayo nga responsable, tungod kay kini walay panimuot, dili makahimo nga mopili, ug busa dili makakupot og responsibilidad nga kinaugalingon. Kung ang bato yano ra kaayo nga nataktak isip resulta sa panahon ug heolohiya, unya walay usa nga responsable alang sa naresulta nga kadaot ngadto sa imoha nga sakyanan. Kung, bisan pa niana, nakakita ka nako nga mingduot sa bato sa posisyon niini, dili ka makahimo nga basolon ang bato, pero hinoon sa akoa. Aron sa pagdugang sa komplikasyon, kon kini mahitabo nga ako nakataktak sa bato tungod sa lain nga tawo nga nakapapugos kanako nga buhaton kini pinaagi sa pahulga kanako uban sa usa ka pusil, mamahimo ka nga mas lagmit nga mobasol sa nagpasiugda og paggamit sa pusil sa sitwasyon kay sa kanako.
 
-As we have discussed above, entering into any debate requires an acceptance of the realities of choice, values and personal responsibility. However, these factors are also present in the choice of the colour of paint for a room, yet we would scarcely say that selecting a hue is a *moral* choice. Thus there must be other criteria which must be present in order for a choice or proposition to be moral.
+Sa atong nahisgotan sa ibabaw, ang pagsulod ngadto sa bisan unsa nga lantugi nga nagkinahanglan og pagdawat sa mga reyalidad sa pagpili, mga pamatasan ug responsibilidad nga kinaugalingon. Bisan pa niana, kini nga mga paktor kay anaa usab ngadto sa pagpili sa bulok sa pintal alang sa usa ka kwarto, apan kuwangan kaayo kita nga makasulti nga ang pagpili og usa ka bulok mao ang *pamatasan* nga pagpili. Busa adunay gayuy lain nga panukdanan nga kinahanglan nga anaa aron nga ang usa ka pagpili o proposisyon mamahimo nga pamatasan.
 
-We all have preferences – from the merely personal (“I like ice cream”) to the socially preferable (“It is good to be on time”) to universal morality (“Thou shalt not murder”).
+Aduna gayud kitang tanan nga mga kagustuhan – gikan sa kinaugalingon daw (“Ganahan kog sorbete”) ngadto sa nagustuhan sa katilingban (“Maayo gayud kini nga maabot sa sakto nga panahon”) ngadto sa malukpanon nga moralidad (“Dili gayud ka mopatay”).
 
-There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*. 
+Adunay gamay nga punto ang pagsulat sa libro mahitungod sa mga kagustuhan nga kinaugalingon – ug mamahimo kita nga moadto kang Ann Landers alang sa usa ka diskusyon sa nagustuhan nga gawi sa katilingban – diri, unya, mamahimo kita nga motutok sa posibilidad sa *Malukpanon kaayo nga Nagustuhan nga Gawi*.
 
-### Choice
+### Pagpili
 
-If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+Kung ako mingdawat sa imoha nga imbitasyon ngadto sa usa ka parti sa panihapon, pero nakakita sa pakighinabi nga hilabihan ka makapahimangod, makahimo ko nga mohukom nga mobarog ug mopahawa – ug makahimo usab ko og pili nga dili gayud nga modawat og lain pa nga imbitasyon gikan kanimo. Ang kini nga kapasidad alang sa pag-ikyas ug/o paglikay mao ang importante nga ilhanan sa paglahi-lahi sa *mga katahom* gikan sa *etika*.
 
-If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
+Kung, bisan pa niana, sa diha nga minghukom ko nga mobiya sa imoha nga parti sa panihapon, minglayat ka kanako ug gikadinahan ko nimo sa ako nga lingkuranan, tataw kaayo nga wala na koy gawasnon nga pagpili aron sa pagbiya. Mao kini ang higayon nga ang imoha nga pagkabastos mamahimo nga tin-aw kaayo nga agresyon, ug minglapas sa linya gikan sa mga katahom ngadto sa etika.
 
-If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I have certainly done her wrong, but the wrong that I have done by cheating would be very different from the wrong I would do if I lock her in the basement to prevent her from leaving. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does. 
+Kung, paghuman sa monogamiya nga pakigsaad, nanglimbong ko ngadto sa ako nga misis, ug minghukom siya nga biyaan ko, nakabuhat ko ngadto sa iyaha og tino kaayo nga sayop, pero ang sayop nga akong nabuhat pinaagi sa pagpanglimbong mamahimo unta nga lahi kaayo gikan sa sayop nga akong nabuhat kung ako siya gikandadohan sa silong aron sa pagpugong sa iyaha gumikan sa pagbiya. Dili gayud kita sa kasagaran nga makakonsiderar og misis nga mopusil sa iyaha nga bana alang sa pagbudhi nga gibuhat nga pamatasan kaayo, pero makaila gihapon kita sa panginahanglanon nga kamahayan nga kung siya nakagamit na og kapintasan aron sa pag-ikyas gumikan sa iyaha nga pagkapriso. Sa una nga sitwatsyon, ang misis kay adunay gawasnon nga pagpili ug kapasidad aron sa *pagbiya* sa iyaha nga bana, ug busa ang kapintas kay mamahimo og usa ka di makataronganon nga balos ngadto sa sitwasyon; sa ikaduha nga sitwasyon, ang iyaha nga pagpili nga biyaan ang iyaha nga bana kay nawagtang na pinaagi sa pagpapriso. Ang pagbudhi kay dili makaguba sa kapasidad sa kapares nga mopili; pagkandado niya ngadto sa silong ang maoy makaguba. 
 
 ### Avoidance
 
