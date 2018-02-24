@@ -46,7 +46,7 @@ Sa anumang pagkakataon ang isang paraan na nagpapahayag ng pangangatwiran ay pwe
 
 Ang mga pari ang tumupad sa pagpapasimula ng makaagham na pagbabago. Walang diyos, ang nagsasabing ang buhay ay walang kahulugan. Walang diyos, ang nagsasabing ang tao ay walang kalinisang asal. Walang diyos, ang nagsasabi na hindi maliligtas ang ating mga kaluluwa. Walang diyos, ang nagsasabing ang kasamaan at kaguluhan sa ating daigdig ay maghahari.
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Wala sa mga nabanggit na ito ang naging patotoo, siyempre. Sa katotohanan ang ganap na *pagbaligtad* papatungo sa naging tunay. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
 
 The fall of God was the rise of mankind.
 
