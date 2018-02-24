@@ -66,7 +66,7 @@ a. ***License grant.***
     
     B. __Karagdagan na alok mula sa tagapaglisensya – Halaw sa Materyal. Kada tatanggap ng Halow sa Materyal mula sa iyong awtomatikong mga natatanggap na alok mula sa Tagapaglesensya na pagsasanay sa Lisensyadong karapatan na Halow sa Materyal sa ilalim ng mga kondisyon ng Adapter's License na iyong i-apply.
     
-    C. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+    C. **Walang downstream na mga limitasyon.** Ikaw ay hindi maaaring mag alok o magpataw ng kahit anong dagdag o magkaibang mga termino o mga kondisyon sa, o i-apply ang kahit anong Epektibong Sukat sa Teknolohikal para sa, ang Materyal na Lisensya kung gawain sa mga paghigpit ang karapatan ng pagsasanay sa Lisensyadong karapatan mula sa kahit anong tatanggap ng Lisensyadong Materyal.
 
 6. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
