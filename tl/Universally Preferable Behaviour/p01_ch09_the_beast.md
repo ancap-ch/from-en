@@ -38,4 +38,4 @@ Kung, pagkatapos ay, ang pinakadakilang panganib sa sangkatauhan ay mga maling e
 
 Ipaalam natin ngayon ang ganyang gawain.
 
-[^12]: Or, rather: “*forced* education is a virtue” – my parents were compelled to pay through taxes, and I was compelled to attend.
+[^12]: O, sa halip: "*sapilitang* ang edukasyon ay isang kabutihan" – ang aking mga magulang ay napilitang magbayad sa pamamagitan ng mga buwis, at napilitang dumalo.
