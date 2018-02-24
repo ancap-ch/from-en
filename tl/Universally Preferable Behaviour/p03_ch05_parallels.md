@@ -30,7 +30,7 @@ Kung pipiliin nating ipamalakad ang lipunan para sa mabuting mga rehiyon na alam
 
 Kung pipiliin nating ipamalakad ang lipunang naaayon sa *statistiko*mabuting mga alamat, na ang mga resulta nito hindi magkakatulad.
 
-We can either choose virtue or compulsion.
+Pwede tayong mamili sa kabanalan o sa pagpuwersa.
 
 We cannot have both.
 
