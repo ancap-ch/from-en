@@ -60,7 +60,7 @@ Tudo isso depende do princípio de legítima defesa de terceiros, que é totalme
 
 Dado que as crianças não se podem alimentar, ganhar a vida, ou viver de forma independente, são o equivalente moral das vítimas de sequestro, ou a esposa de quem falamos anteriormente, cujo marido a trancou no sótão. As crianças também não têm capacidade para uma legítima defesa eficaz, devido à sua pequena estatura e dependência quase completa dos seus pais.
 
-Thus since it is certainly the case that we have the right to act in self-defence for someone else – and that right becomes even stronger if that person cannot act in his own self-defence, it is perfectly valid to use force against parents who do not feed their children, just as it is perfectly valid to use force against the husband who is starving his wife to death by locking her in the basement.
+Assim, dado que é certamente correcto o facto de que temos o direito de agir em legítima defesa por outra pessoa - e esse direito torna-se ainda mais forte se essa pessoa não puder agir em sua própria legítima defesa- é tão perfeitamente válido usar a força contra os pais que não alimentam os seus filhos, como também é completamente válido usar a força contra o marido que está a matar de fome a sua esposa, ao prendê-la no sótão.
 
 As we also mentioned above, the less able a victim is to avoid the situation, the worse the crime is. Even the wife who ends up locked in the basement has at least *some* ownership in the matter, because she chose to marry this evil lunatic to begin with. Once she is locked in the basement, the situation is unavoidable, yet there were doubtless many clues hinting at her husband’s abusive nature, from the day she first met him.
 
