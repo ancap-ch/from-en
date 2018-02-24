@@ -16,7 +16,7 @@ Ganun paman, "ang gobyerno"wala nang umiiral kaysa "diyos"ang umiral.
 
 Kapag tayo ay nagsasalaysay na patungkol sa "diyo,"ang ating talagang pinag-uusapan "ang opinyon ng mga pari."
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+Kung saan ang lahat ng mga pinag-uusapan na patungkol sa"ang pamahalaan,"lahat ay *tunay* na nangangahulugang "ang karahasan ay isang napaka liit na pagkakulang sa idad."
 
 The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
 
