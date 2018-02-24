@@ -32,9 +32,9 @@ Kung pipiliin nating ipamalakad ang lipunang naaayon sa *statistiko*mabuting mga
 
 Pwede tayong mamili sa kabanalan o sa pagpuwersa.
 
-We cannot have both.
+Lahat ay di-pwedeng magkaroon ng doble.
 
-### Solutions
+### Ang solusyon
 
 We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
 
