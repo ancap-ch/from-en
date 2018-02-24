@@ -48,7 +48,7 @@ Ang pagnanakaw ay moral na mali, gaya ng nakita natin sa itaas. Ito ay moral na 
 
 Ang ating tinatawag na " ang pamahalaan" ay isa lamang halimbawa ng *sonang wala* kung saan ang taas ay baba, itim ay puti, katotohanan ay kamalian at ang kasamaan ay mabuti.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Ang lipunan ay umuunlad sakto sa antas na ang rason o ebidensya ay gumawa ng pinakamalaking lundag mula personal tungong unibersal, at sirain ang alinmang irasyonal na *sonang wala* sa dinadaanan. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
 
 ### Government
 
