@@ -88,13 +88,13 @@ Ang bukas na pwersa na nasasangkot sa institusyon ng pamahalaan - ang konseptwal
 
 Gayonpaman. ito ay purong walang saysay.
 
-Kung ang isang lalaki ay mayroong kutsilyo sa lalamunan ng isang babae habang nagtatalik, ibig sabihin sa anumang kahulugan ay isang akto ng panggagahasa. Hindi maaaring sabihin ng lalaki na ang pagtatalik ay isang pagkakasundo, habang sa parehas na pagkakataon ay binabantaan ang babae ng pinsala kung siya ay tumangging makipagtalik sa kanya. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Kung ang isang lalaki ay mayroong kutsilyo sa lalamunan ng isang babae habang nagtatalik, ibig sabihin sa anumang kahulugan ay isang akto ng panggagahasa. Hindi maaaring sabihin ng lalaki na ang pagtatalik ay isang pagkakasundo, habang sa parehas na pagkakataon ay binabantaan ang babae ng pinsala kung siya ay tumangging makipagtalik sa kanya. Kung ang pagtatalik ay boluntaryo, kung gayon ang kusilyo ay hindi na kailangan. Kung ang lalaki ay nakakadama ng pangangailangan para sa kutsilyo, kung gayon malinaw na ang pagtatalik ay *hindi* boluntaryo.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+Sa parehas na paraan, ang pagbubuwis ay parte ng sosyal na kontrata na kanilang boluntaryong napagkasunduan.
 
-This is both logically and empirically false.
+Ito ay lohikal at impirikal na mali.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Alam natin ito ay impirikal na mali dahil *walang sosyal na kontratang umiiral*. Hindi ikaw o ako *kailanman* ay pumirma ng dokumento na boluntaryong sumasang-ayon sa buwis sa kita - tayo ay isinilang lamang sa sistema na kumukuha ng pera mula sa atin gaya ng punto ng baril.
 
 ### The Gun In The Room
 
