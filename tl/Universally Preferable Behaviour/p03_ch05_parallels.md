@@ -14,7 +14,7 @@ Isinasaalang-alang ng lahat itong mahahalaga, at sa sentro ng panglipunan, lahat
 
 Ganun paman, "ang gobyerno"wala nang umiiral kaysa "diyos"ang umiral.
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+Kapag tayo ay nagsasalaysay na patungkol sa "diyo,"ang ating talagang pinag-uusapan "ang opinyon ng mga pari."
 
 When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
 
