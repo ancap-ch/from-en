@@ -56,7 +56,7 @@ Se eu dirijo uma casa de repouso, e as pessoas com deficiência confiam em mim p
 
 Assim, presume-se que os pais vão alimentar e cuidar do bebé recém-nascido. Se os pais decidirem contra tais cuidados, então eles são obrigados a dar a criança a outras pessoas que a *irão* cuidar, ou enfrentar a acusação de assassinato, assim como o gerente de uma casa para minusválidos, deve alimentar aqueles que dependem completamente dele ou entregá-los a alguém que o faça. Se eu decidir que não quero continuar a cuidar do meu cachorro, devo encontrar-lhe outra casa e não, simplesmente, deixá-lo morrer de fome.
 
-This all relies on the principle of third-party self-defence, which is fully supported by the framework of UPB, since the right of self-defence is universal. If I see a man in a wheelchair being attacked by a woman, I have the right to defend him – and this is all the more true if he lacks the capacity to defend himself.
+Tudo isso depende do princípio de legítima defesa de terceiros, que é totalmente apoiado pela estrutura do CUP, já que o direito de legítima defesa é universal. If I see a man in a wheelchair being attacked by a woman, I have the right to defend him – and this is all the more true if he lacks the capacity to defend himself.
 
 Since children cannot feed themselves, earn a living or live independently, they are the moral equivalent of kidnap victims, or the wife we talked about before whose husband locked her in the basement. Children also lack the capacity for effective self-defence, due to their small stature and near-complete dependence upon their parents.
 
