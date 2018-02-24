@@ -84,11 +84,11 @@ Dahil ang mga opinyon ay hindi binabago ang realidad, hindi ko maibibigay sa iyo
 
 ### Pamahalaan bilang Boluntarismo
 
-Ang bukas na pwersa na nasasangkot sa institusyon ng pamahalaan - ang konseptwal na balot na nagbabaliktad ng moral na mga tuntunin para sa partikular na grupo ng mga indibidwal - ay isang bagay na laging iniiwasan sa mga debate. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+Ang bukas na pwersa na nasasangkot sa institusyon ng pamahalaan - ang konseptwal na balot na nagbabaliktad ng moral na mga tuntunin para sa partikular na grupo ng mga indibidwal - ay isang bagay na laging iniiwasan sa mga debate. Kapag pinag-uusapan ang pamahalaan, hindi kailanman itinuturing na positibong bagay na puntuhin ang "baril sa silid." Halos sa kuhulugan, ang pamahalaan ay itinuturing na pinili at para sa mga tao, at upang gumana sa kanilang ipinahayag o pahiwatig na pagsang-ayon.
 
-However, this is pure nonsense.
+Gayonpaman. ito ay purong walang saysay.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Kung ang isang lalaki ay mayroong kutsilyo sa lalamunan ng isang babae habang nagtatalik, ibig sabihin sa anumang kahulugan ay isang akto ng panggagahasa. Hindi maaaring sabihin ng lalaki na ang pagtatalik ay isang pagkakasundo, habang sa parehas na pagkakataon ay binabantaan ang babae ng pinsala kung siya ay tumangging makipagtalik sa kanya. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
 
 In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
 
