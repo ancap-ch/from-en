@@ -2,7 +2,7 @@
 
 Bago ang pag-agham rebolusyon, Ito ay isinasaalang-alang na hindi iisipin na ang nasabing likas na daigdig ay pwedeng umalalay mismo ng walang kaalaman at "moral" entity sa sentro nito. Ang araw at rosas ay sumusunod sa mga tanikala ng isang karaniwan na kalesa; ang buwan ay isang malamig at nag issang kapatid ng araw. Ang mga konstelasyon ay nakabalangkas at mga salaysay tungkol sa libingan ng mga diyos, at ang mga unos ay nagmula sa galit ng mga diyablo.
 
-Ang mga ideya na ang kalikasan ay isang sariling-likha at sarili-nag tutukod ng sistema ay halos hindi mailarawan ng isip. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+Ang mga ideya na ang kalikasan ay isang sariling-likha at sarili-nag tutukod ng sistema ay halos hindi mailarawan ng isip. Ang rebolusyon, ni Darwin, na ang iniisip na ang buhay ay hindi nilikha, pero sa halip ay nagbabago, dinala ito ng isip galing sa materyal para sa biolohikal na sangkataohan.
 
 Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
 
