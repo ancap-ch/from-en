@@ -2,9 +2,9 @@
 
 Sa maraming mga kwentong diwata, mayroong nakatira na teribleng halimaw na may kamang-manghang kapangyarihan, isang dragon o isang basilisk, na pinagmamalupitan ang mga nakapaligid na lupain. Ang mga lokal na taga-baryo ay nanginginig sa harapan ng halimaw; kanilang isinasakripisyo ang kanilang mga hayop, nagbabayad ng saalpi at dugo sa pag-asang mapapayapa ang nakakamamatay na simbuyo nito.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Karamihan ng tao ay tumitimbuwang sa ilalim ng anino ng halimaw na ito, tinatawag ang kanilang takot na "kabaitan, " - subalit may iilan - na lasing sa katapangan o kahangalan - na nagdesisyong lumaban. Taon kada taon, dekada kada dekadam, laksa kada laksa ng mga kampiyong punong-puno ng pag-asa ang sumubok na tapatan ng kanilang lakas, bertud at katusuhan laban sa teribleng mapagmalupit.
 
-Try – and fail.
+Sumubok - at nabigo.
 
 The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
 
