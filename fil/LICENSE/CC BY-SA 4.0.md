@@ -93,14 +93,14 @@ a. ***Pagpapalagay.***
         
          iii. ang mapainsin sa mga tumutukoy sa Pampublikong Lisensya na ito.
         
-         iv. a notice that refers to the disclaimer of warranties;
+         iv. ang mapansin sa mga tumutukoy ng pagtutuwa sa garantiya.
         
-         v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+         v. ang URI o hyperlink sa Lisensyadong Materyal sa pinaka lawak ng resonable na maisasagawa;
         
     
-    B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+    B. isaad kung iyong binago ang Materyal na Tagapaglisensya at manatili sa indikasyon ng kahit anong nakaraan na mga modipikasyon; at
     
-    C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+    C. isinaad sa Lisensyadong Materyal na ang Lisensya ay nasa ilalim ng pampublikong Lisensya, at isinama ang teksto sa, o ang URI o hyperlink para, sa pampublikong Lisensya na ito.
 
 2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
 
