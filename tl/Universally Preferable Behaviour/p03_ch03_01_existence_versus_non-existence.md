@@ -72,7 +72,7 @@ Ito ay nagbubunsod sa isang nakagigiliw na punto, kung saan ang katanugan ay kun
 
 ### Opinyon at Reyalidad
 
-Malinaw, aming naiintindihan na hindi sa pamamagitan ng aking paglabas ng opinyon ay mag-aalis naman sa inyo mga pagpipigil ng grabidad, anumang higit pa sa aking opinyon na ang "dalawa dagdagan ng dalawa katumbas ay lima" ay tama.
+Malinaw, aming naiintindihan na hindi sa pamamagitan ng aking paglabas ng opinyon ay mag-aalis naman sa inyo ang mga pagpipigil ng grabidad, anumang higit pa sa aking opinyon na ang "dalawa dagdagan ng dalawa katumbas ay lima" ay nagiging tama.
 
 Ang mga "opinyon" ay mga paniniwala na walang malinaw na ebidensya sa reyalidad, o walang malinaw na ebidensya ang maaaring ibigay, o siyang mga ekspresyon ng personal na kagustuhan lamang. Ang aking personal na opinyon ay mas gusto ko ang tsokolateng sorbetes kaysa sa banila - ako rin ay maaaring may "opinyon" na ang bansang Iceland ay isa tropikal na paraiso, o na ang Diyos ay umiiral, o ang ulan ay pumapatak pataas. Ang mga personal na opinion ay walang kinalaman sa moralidad; ang mga opinyon na nag-aangkin na tumpak na pinapaliwanag ang reyalidad, na hindi naman. ay mga maling pagpapalagay lamang. Ang paniwalaan na ang ulan ay pumpatak pataas ay hindi nagpapabago ng daloy nito; ang pagsuot ng Hawaiian na damit sa Iceland ay hindi ginagawang mainit ang Reykjavik.
 
