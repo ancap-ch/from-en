@@ -12,7 +12,7 @@ Será que posso atirar, com justiça, numa pessoa que esteja a comer um pedaço 
 
 Parece tonto argumentar que posso - mas por quê?
 
-There are some objective limits to the universality of this doctrine. For instance, some people may have no access to fish – they may live in a desert, say – while others live by a lake teeming with fish, and find it hard or impossible to survive without eating them. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
+Existem alguns limites objectivos à universalidade desta doutrina. Por exemplo, algumas pessoas podem não ter acesso ao peixe - digamos, que podem viver num deserto - enquanto que outros vivem nas margens de um lago repleto de peixes e acham difícil ou impossível sobreviver sem comê-los. Contudo, isso pode não ser suficiente, uma vez que já aceitamos o facto de que a incapacidade de um eunuco para violar, não invalida a proposição moral "é mau violar"
 
 No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
 
