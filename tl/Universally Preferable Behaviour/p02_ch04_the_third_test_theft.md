@@ -2,13 +2,13 @@
 
 Kakailanganin nating gumugol ng kaunting oras sa pagnanakaw, dahil hindi ito maiiwas sa larawan ng tanong ng mga karapatan sa pag-aari, na lubhang nakapagtatalo sa ilan.
 
-Mayroong maraming mga paraan ng paglapit sa tanong ng mga karapatan sa ari-arian, mula sa “homesteading” sa mga legal na pagbibigay-kahulugan sa mga praktikal na pagsasaalang-alang. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+Mayroong maraming mga paraan ng paglapit sa tanong ng mga karapatan sa ari-arian, mula sa “homesteading” sa mga legal na pagbibigay-kahulugan sa mga praktikal na pagsasaalang-alang. Hindi ko matutugunan ang isa sa mga dito, dahil ang tanong ng mga karapatan sa ari-arian ay dapat mahulog sa balangkas ng UPB, kung ang UPB ay tumayo bilang isang makatwirang pamamaraan para sa pagsusuri ng mga panukalang moral.
 
-Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
+Malinaw, na ang moral na panukala sa mga karapatan sa ari-arian ay ito: alinman sa mga tao ay may karapatan sa pagmamay-ari ng ari-arian, o hindi ginagawa.
 
-Now the first “property” that must be dealt with is the body. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+Ngayon ang unang “ari-arian” na kailangan gawin ay ang katawan. “Pagmamay-ari” dapat una at pinapanguna ang pagkontrol sa sariling katawan, dahil kung ang kontrol na ito ay hindi umiiral, o hindi itinuturing na wasto, ang buong tanong ng moralidad – pabayaan ang pag-aari – ay lumabas sa bintana.
 
-UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
+Ang UPB ay isang balangkas para sa pagsusuri ng mga panukalang moral, o mga argumento tungkol sa pangkatahatang mas mainam na pag-uugali para sa lahat ng sangkatauhan. Una at pangunahin, ang isang tao ay dapat na reponsable para sakanyang sariling mga aksyon kung sila ay hinuhusgahan sa kagandahang-asal, dahil tulad ng aming pinagtatalunan sa itaas, ang kakayahang pumili ng mga aksyon ay mahalaga sa anumang pagsusuri ng etika.
 
 If a man has no control over his body, then clearly he has no responsibility for his actions – they are not in fact “his” actions, but rather the actions of his body. Now, no one would rationally argue that if a man strangles another man, it is the murderous fingers that should be put on trial and punished. Clearly, the body cannot entirely control itself, but rather must be to some degree under the direction of the conscious mind.
 
