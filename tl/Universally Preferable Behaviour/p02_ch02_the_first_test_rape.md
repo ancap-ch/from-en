@@ -146,10 +146,10 @@ Ang teorya ng relativity ni Einstein ay hinulaan na ang liwanag ay liko sa palig
 
 Ang balangkas ng UPB ay wastong nagpatunay sa aming moral na saligan na ang panggagahasa ay masama. Ito ay isang kinakailangan - ngunit hindi sapat - criterion para sa patunay, at ganap na sumusuporta sa karagdagang pagsisiyasat. Kaya, ipagpatuloy natin...
 
-[^ 1]: Ito ay ibang-iba sa isang pisikal na pananakit, na sumisira sa iyong kapasidad para sa libreng pagpili.
+[^1]: Ito ay ibang-iba sa isang pisikal na pananakit, na sumisira sa iyong kapasidad para sa libreng pagpili.
 
-[^ 2]: Hindi maaaring argued na ang panggagahasa ay hindi kasangkot sa isang kagustuhan, dahil ang panggagahasa ay isang pag-uugali at, tulad ng aming tinalakay sa itaas, ang lahat ng pag-uugali ay kinabibilangan ng kagustuhan.
+[^2]: Hindi maaaring argued na ang panggagahasa ay hindi kasangkot sa isang kagustuhan, dahil ang panggagahasa ay isang pag-uugali at, tulad ng aming tinalakay sa itaas, ang lahat ng pag-uugali ay kinabibilangan ng kagustuhan.
 
-[^ 3]: Tandaan na hindi ko maaaring imungkahi na ang "personal na mga kagustuhan *ay pweding* marahas na napinsala sa ibang mga tao, dahil ito ay isang paglabag sa UPB, na nagsasaad na ang mga alituntunin ng moral ay dapat na ganap at unibersal - kung hindi sila, mahulog sila sa teritoryo ng APA, at sa gayon ay hindi maaring mapahamak sa iba.
+[^3]: Tandaan na hindi ko maaaring imungkahi na ang "personal na mga kagustuhan *ay pweding* marahas na napinsala sa ibang mga tao, dahil ito ay isang paglabag sa UPB, na nagsasaad na ang mga alituntunin ng moral ay dapat na ganap at unibersal - kung hindi sila, mahulog sila sa teritoryo ng APA, at sa gayon ay hindi maaring mapahamak sa iba.
 
-[^ 4]: Maaari nating maiwasan ang mga sitwasyon na nagpapataas ng posibilidad ng panggagahasa, ngunit hindi natin maiiwasan ang pag-usbong.
+[^4]: Maaari nating maiwasan ang mga sitwasyon na nagpapataas ng posibilidad ng panggagahasa, ngunit hindi natin maiiwasan ang pag-usbong.

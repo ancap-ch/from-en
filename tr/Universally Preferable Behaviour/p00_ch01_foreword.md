@@ -89,6 +89,6 @@ Gerçekten, rasyonel bir etik çerçeve tanımının insanlığın yüz yüze g�
 
 Başkaları tarafından iyi kuşanılmış savaşa gidiyorum.
 
-[^ 1]: Bunların çoğu bu kitap boyunca detaylı olarak tartışılacaktır.
+[^1]: Bunların çoğu bu kitap boyunca detaylı olarak tartışılacaktır.
 
-[^ 2]: Elbette, eğer başarısız olduysam, en azından muhteşem bir şekilde başarısız olurum, ki bu da durumun kendisini hem eğlenceli hem de eğlendirici yapabilir!
+[^2]: Elbette, eğer başarısız olduysam, en azından muhteşem bir şekilde başarısız olurum, ki bu da durumun kendisini hem eğlenceli hem de eğlendirici yapabilir!

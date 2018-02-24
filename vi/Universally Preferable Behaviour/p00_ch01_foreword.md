@@ -88,6 +88,6 @@ Tôi thật sự tin rằng việc định nghĩa một khuôn khổ đạo đ�
 
 Tôi lao vào cuộc chiến khi đã được vũ trang bởi mọi người.
 
-[^ 1]: Hầu hết những điều này sẽ được thảo luận chi tiết hơn trong cuốn sách này.
+[^1]: Hầu hết những điều này sẽ được thảo luận chi tiết hơn trong cuốn sách này.
 
-[^ 2]: Tất nhiên, nếu tôi thất bại, ít nhất tôi đã thất bại ngoạn mục. Bản thân điều này có thể vừa mang tính giáo dục vừa giải trí!
+[^2]: Tất nhiên, nếu tôi thất bại, ít nhất tôi đã thất bại ngoạn mục. Bản thân điều này có thể vừa mang tính giáo dục vừa giải trí!
