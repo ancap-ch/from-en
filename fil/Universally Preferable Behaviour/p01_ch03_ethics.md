@@ -34,11 +34,11 @@ Kagaya nito, walang gaanong bagay gaya ng panglahatan "mas magaling" na direksyo
 
 Ito ay totoo na kakaunting mga tao ang *gumawa* na magmaneho sa karagatan, pero ito ay hindi nangangahulugan na totoo na ang sinuman ay *kailangan* magmaneho sa karagatan. Ang mga alintuntunin ay hindi demokratiko - o, kapag silay ay, muli nating harapan ang mga suliranin ng ranggo ng subjectivism, at kailangan itapon ang kabuuang konsepto ng mga etika sa labas ng bintana.
 
-"pag-ugali" ay umuosbong sa obhektibo ng reyalidad, sa labas ng aming isip - mga konsepto ay "kailangan," dapat," at "kagustuhan," na hindi umiiral sa labas ng ating mga diwa. Gayunman, ang katotohanan ay "kailangan" ay hindi umuosbong sa loob ng obhektibong reyalidad na hindi ibigsabihin na "kailangan" ay lubos na subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
+"pag-ugali" ay umuosbong sa obhektibo ng reyalidad, sa labas ng aming isip - mga konsepto ay "kailangan," dapat," at "kagustuhan," na hindi umiiral sa labas ng ating mga diwa. Gayunman, ang katotohanan ay "kailangan" ay hindi umuosbong sa loob ng obhektibong reyalidad na hindi ibigsabihin na "kailangan" ay lubos na subjective. Alinman sa paraan ng siyensya o mga bilang ng kanilang sarili ay umiiral sa loob ng katotohanan alinman, sa siyensya at matematika ay mananatiling obhektibong mga disiplina.
 
-### Self-Defeating Arguments
+### Ang sariling pangangatwiran sa mga argumento
 
-In order to begin our discussion of ethics, it is essential that we understand the nature of *self-defeating arguments*.
+Para simulan ang aming mga diskusyunan uko sa mga etika, ito ay mahalaga na maintindihan natin ang kalikasan ng *pansariling pangangatwiran sa mga argumento*.
 
 In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
 
