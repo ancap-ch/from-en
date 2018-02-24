@@ -38,7 +38,7 @@ Lahat ay di-pwedeng magkaroon ng doble.
 
 Pwede tayong makapili ng ating paniniwalaan na ang gubyerno ay ang kapwa kailangan at isang mabuting pagtatatag. Gayon din maaari din tayong makapili ng ating paniniwalaan, nang walang pamahalaan, ang samahan ay gumuho dahil sa "kawalan ng pamamahala" at ang kamunduhan ay magugunaw dahilan sa isang sagupaan na ang lahat ay lalaban sa lahat. Maari tayong makapili ng papanigan na kung walang gubyerno, walang mga daan, walang pinag aralan, walang mangangalaga sa pang kalusugan, walang pensyon sa gulang, walang mga aklatan, walang pangangalaga sa mga ari-arian at sa iba pa.
 
-Katulad pa, na ang mga pamahiing pamamaraan, ay may katagalan ang pagsulong ng mga tao na nasa buong salaysay. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+Katulad pa, na ang mga pamahiing pamamaraan, ay may katagalan ang pagsulong ng mga tao na nasa buong salaysay. Ang pinaka makabuluhang simula sa kung ano ang nasabing UPB ipakita sa gubyerno na kung ano ang siyensya nagpakita na patungkol sa pananampalataya.
 
 As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
 
