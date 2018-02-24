@@ -22,9 +22,9 @@ Ang tunay na reyalidad ng pahayag na "mali katumbas ay totoo" ay ang tautolohika
 
 ### Ang "Alternatibong Uniberso" sa Pantaong Lipunan
 
-Ang rason kung bakit tayo ay gumugugol ng sobrang oras upang harapin ang teorya ng "alternatibong Uniberso" ay dahil mayroon itong direktang kaugnayan sa pantanong lipunan, at ginagamit upang "patunayan" ang lubos na kasamaan na nakatuon sa bawat isa sa atin.
+Ang rason kung bakit tayo ay gumugugol ng sobrang oras upang harapin ang teorya ng "alternatibong uniberso" ay dahil mayroon itong direktang kaugnayan sa pantaong lipunan, at ginagamit upang "patunayan" ang lubos na kasamaan na nakatuon sa bawat isa sa atin.
 
-Sa ating personal na karanasan, alam nating ang pumatay ay mali. Sa pagninilay-nilay gamit ang proposisyon na ang pagpatay ay moral na mali ayon sa halimbawa sa itaas, lubos kong pinagdududahan na sinuman ay nagulat na ang kanilang moral na kutob ay nakompirma sa pamamagitan ng istriktong abstrak na pangangatwiran ng UPB. Sa seksyon na ito, gayonpaman, opisyal na pinapayagan kayong na magsimulang magulat.
+Sa ating personal na karanasan, alam nating ang pumatay ay mali. Sa pagninilay-nilay gamit ang proposisyon na ang pagpatay ay moral na mali ayon sa halimbawa sa itaas, lubos kong pinagdududahan na sinuman ay nagulat na ang kanilang moral na kutob ay nakompirma sa pamamagitan ng istriktong abstrak na pangangatwiran ng UPB. Sa seksyon na ito, gayonpaman, opisyal na pinapayagan kayo na magsimulang magulat.
 
 Ang pinakamalaking pagtalon tungo sa syentipikong pagkakaunawa ay ang mga tinatawag na " nagbubuklod na teorya". Si Einstein ay gumugol ng mga dekada kakasubok na magkaroon ng teorya ng pagbubuklod ng larangan; at teorya ng pisika na nagbuklod sa malakas at mahinang pwersa, elektromagnetismo, grabidad at iba na hanggang ngayon ay mailap pa rin.
 
@@ -52,7 +52,7 @@ Ang lipunan ay umuunlad sakto sa antas na ang rason o ebidensya ay gumawa ng pin
 
 ### Pamahalaan
 
-Kapag sinabi na ang pamahalaan ay gumagana sa ilalim ng magkasalungat na moral na tuntunin mula sa natitirang bahagi ng lipunan ay syang kaparehas din ng pagsasabi na, "ang mga leprekon ay hindi tinatablan ng grabidad." Una sa lahat, ang mga leprekon ay hindi naman umiiral - at isa paraan na ating nalalaman na sila ay hindi umiiral ay dahil sa ipinahayag na sila ay hindi tinatablan ng grabidad. Lahat ng may bigat ay saklaw ng grabidad - ang alinmang hindi tinatablan ng grabidad ayon sa kahulugan ay walang bigat, samakatuwid ay hindi umiiral. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Kapag sinabi na ang pamahalaan ay gumagana sa ilalim ng magkasalungat na moral na tuntunin mula sa natitirang bahagi ng lipunan ay syang kaparehas din ng pagsasabi na, "ang mga leprekon ay hindi tinatablan ng grabidad." Una sa lahat, ang mga leprekon ay hindi naman umiiral - at isa paraan na ating nalalaman na sila ay hindi umiiral ay dahil sa ipinahayag na sila ay hindi tinatablan ng grabidad. Lahat ng may bigat ay saklaw ng grabidad - ang alinmang hindi tinatablan ng grabidad ayon sa kahulugan ay walang bigat, samakatuwid ay hindi umiiral. Ang pahayag na " ang mga leprekon ay hindi tinatablan ng grabidad' ay isang tautolohiya, na siyang nagkokompirma ng hindi pag-iral ng mga leprekon - ito ay ang semantikong katumbas ng "ang alinmang hindi umiiral, ay hindi umiiral."A ay A, unang batas ng lohika ni Aristotle, na hindi naman mahalaga na kompirmahin ang pag-iral ng anumang iyon na binigyang kahulugan bilang hindi umiiral.
 
 In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
 
