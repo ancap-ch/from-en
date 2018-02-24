@@ -62,9 +62,9 @@ a. ***License grant.***
 
 5. **Ang mga tatanggap ng Downstream.**
     
-    A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+    A. **Ang Alok mula sa Lisensyado - Lisensyadong Materyal.** kada tatanggap ng Lisensyadong Materyal ay Awtomatikong makakatanggap ng mga alok mula sa Lisensyadong pagsasanay sa mga karapatan ng Lesensya sa ilalim ng mga termino at mga kondisyon na alok ng Pampublikong Lesensya na ito.
     
-    B. __Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.
+    B. __Karagdagan na alok mula sa tagapaglisensya – Halaw sa Materyal. Kada tatanggap ng Halow sa Materyal mula sa iyong awtomatikong mga natatanggap na alok mula sa Tagapaglesensya na pagsasanay sa Lisensyadong karapatan na Halow sa Materyal sa ilalim ng mga kondisyon ng Adapter's License na iyong i-apply.
     
     C. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
 
