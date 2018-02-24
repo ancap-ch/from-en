@@ -8,7 +8,7 @@ Sa harap ng siyensiya, sa sentro ng bawat mahihirap unawain ang sistema ng paraa
 
 Sa kasamaang palad, itong "mabait na kamalayan"ay isa lamang maling akala, para mailagay ito sa pinaka-mapagkawanggawa. Walang umiiral na mga diyos na ganoon-lahat ng iyon ay *gumawa* mayroon ding mga proklamasyon ang mga saserdote. Kaya naman kung ano ang talagang nakalagay sa sentro ay ang mga pagkiling ng di-makatuwirang tao, na sinoman ay ang walang alam kung gaano magalit silang talaga.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+Lahat ay mayron upang isalin itong liwanag sa ating mga pagkakaintindi sa panglipunan -ngunit ngayon ito ay *mahalaga* ginagawa natin ito.
 
 We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
 
