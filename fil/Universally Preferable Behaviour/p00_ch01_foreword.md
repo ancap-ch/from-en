@@ -30,9 +30,9 @@ Sa pangkaisipan, walang mas mataas na gantimpala sa mundo. Ang ating kabiguan na
 
 Sa maraming paraan, ang mga gantimpala ay lalong tumataas.
 
-Ang lumalaking daloy ng impormasyon ng Internet ang nagpataas ng mga suspetsa ng isang bagong henerasyon na ang tinatawag na "kabutihan" ay wala ng higit pa o mas mababa kaysa sa pansariling kwentong engkanto ng kanilang mapagpaimbabaw na mga matatanda. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+Ang lumalaking daloy ng impormasyon ng Internet ang nagpataas ng mga suspetsa ng isang bagong henerasyon na ang tinatawag na "kabutihan" ay wala ng higit pa o mas mababa kaysa sa pansariling kwentong engkanto ng kanilang mapagpaimbabaw na mga matatanda. Ang relihiyosong kasinungalingan na sinabi ng mga nasa awtoridad - at ang pakikipagsabwatan ng mga sumasamba sa kanila - ay mas malinaw ngayon kaysa dati.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+"Katotohanan" ay laging nailalabas bilang pagmamanipula; "birtud" bilang kontrol; "katapatan" bilang pang-aalipin, at ano ang tinatawag na "moralidad" ay naihayag bilang isang katawa-tawang papet na palabas na nakadisenyo upang dayain ang mahihina at takot na mga tao upang alipinin ang kanilang mga sarili.
 
 This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
 
