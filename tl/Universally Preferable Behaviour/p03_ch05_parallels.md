@@ -10,11 +10,11 @@ Sa kasamaang palad, itong "mabait na kamalayan"ay isa lamang maling akala, para 
 
 Lahat ay mayron upang isalin itong liwanag sa ating mga pagkakaintindi sa panglipunan -subalit ngayon ito ay *mahalagang* ginagawa natin.
 
-Isinasaalang-alang ng lahat itong mahahalaga, at sa sentro ng panglipunan, lahat ng lugar ay banal na entidad tinatawag na äng pamahalaan." ay ang kawalan ng entidad, isinasaalang-alang ng lahat itong malinaw na ang lipunan ay mapadpad sa ganap na kaguluhan, at mailagay ito sa maging-makatwiran bilang mga aninong itinuturing, na nasa pagliban ng mga diyos, ang daigdig mismo ay papatungo sa malaking gulo, at ipatigil na.
+Isinasaalang-alang ng lahat itong mahahalaga, at sa sentro ng panglipunan, lahat ng lugar ay banal na entidad tinatawag na "ang pamahalaan." ay ang kawalan ng entidad, isinasaalang-alang ng lahat itong malinaw na ang lipunan ay mapadpad sa ganap na kaguluhan, at mailalagay ito sa maging-makatwiran bilang mga aninong itinuturing, na nasa pagliban ng mga diyos, ang daigdig mismo ay papatungo sa malaking gulo, at ipatigil na.
 
 Ganun paman, "ang gobyerno"wala nang umiiral kaysa "diyos"ang umiral.
 
-Kapag tayo ay nagsasalaysay na patungkol sa "diyo,"ang ating talagang pinag-uusapan "ang opinyon ng mga pari."
+Kapag tayo ay nagsasalaysay na patungkol sa "diyos,"ang ating talagang pinag-uusapan "ang opinyon ng mga pari."
 
 Kung saan ang lahat ng mga pinag-uusapan na patungkol sa"ang pamahalaan,"lahat ay *tunay* na nangangahulugang "ang karahasan ay isang napaka liit na pagkakulang sa idad."
 
