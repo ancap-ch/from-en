@@ -63,7 +63,7 @@ Ang tanong na ito ng *pag-iwas* ay ang ating susi sa pagkakaiba-iba ng aesthetic
 
 Mayroong isang partikular na isyu sa pag-iwas na darating mamaya sa librong ito, na kung saan ay nagkakahalaga ng pag-linis muna dito.
 
-Kung nakatira ako sa isang mataas na bundok na limang libong kilometro ang layo mula sa iyo, at ipadala sa iyo ang isang elektronikong sulat na nagsasabi na kung ikaw ay maglalakad sa harap ng aking bahay, kukubkubin kita, ito ay medyo madali para sa iyo at para maiwasan ang sitwasyon na ito. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
+Kung nakatira ako sa isang mataas na bundok na limang libong kilometro ang layo mula sa iyo, at ipadala sa iyo ang isang elektronikong sulat na nagsasabi na kung ikaw ay maglalakad sa harap ng aking bahay, kukubkubin kita, ito ay medyo madali para sa iyo at para maiwasan ang sitwasyon na ito. Ang aking banta ng lakas ay tiyak na imoral, pero ang mga tanong ay tiyak na itataas kung agad kang tumalon sa isang eroplano, umakyat sa aking bundok at dahan-dahan na umupo sa harapan ng aking bahay.
 
 On the other hand, if you live on a dead-end street, and I tell you that if you take that street to get home, I will shoot you, your capacity to avoid this situation becomes significantly limited. You could certainly tunnel into your house, or jump over a bunch of backyard fences, but all of this would be considerably inconvenient.
 
