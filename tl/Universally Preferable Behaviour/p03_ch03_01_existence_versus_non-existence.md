@@ -76,9 +76,9 @@ Malinaw, aming naiintindihan na hindi sa pamamagitan ng aking paglabas ng opinyo
 
 Ang mga "opinyon" ay mga paniniwala na walang malinaw na ebidensya sa reyalidad, o walang malinaw na ebidensya ang maaaring ibigay, o siyang mga ekspresyon ng personal na kagustuhan lamang. Ang aking personal na opinyon ay mas gusto ko ang tsokolateng sorbetes kaysa sa banila - ako rin ay maaaring may "opinyon" na ang bansang Iceland ay isa tropikal na paraiso, o na ang Diyos ay umiiral, o ang ulan ay pumapatak pataas. Ang mga personal na opinion ay walang kinalaman sa moralidad; ang mga opinyon na nag-aangkin na tumpak na pinapaliwanag ang reyalidad, na hindi naman. ay mga maling pagpapalagay lamang. Ang paniwalaan na ang ulan ay pumpatak pataas ay hindi nagpapabago ng daloy nito; ang pagsuot ng Hawaiian na damit sa Iceland ay hindi ginagawang mainit ang Reykjavik.
 
-Samakatuwid ang paniwalaan na ang pagpatay ay moral na tama ay hindi ginagawang moral na tama ang pagpatay. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+Samakatuwid ang paniwalaan na ang pagpatay ay moral na tama ay hindi ginagawang moral na tama ang pagpatay. Dahil ang aking paniniwala sa isang tao ay hindi kayang baguhin ang moral na kalikasan niya, ang aking paniniwala na ang kanyang mga pagpatay ay mabuti ay hindi binabago ang kabutihan ng kanyang aksyon. Kung aking ipipikit ang aking mga mata at isiping ikaw ay isang butiki, hindi mo nawawala ang abilidad na iakma ang temperatura ng iyong katawan. Ang isipin kang isang isda ay hindi nilalaktawan ang iyong pangangailangan sa iskuba gir.
 
-Opinions do not change reality.
+Ang mga opinyon ay hindi binabago ang reyalidad.
 
 Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
 
