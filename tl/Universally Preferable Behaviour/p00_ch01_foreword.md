@@ -1,6 +1,6 @@
-## Foreword
+## Paunang salita
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+Sa maraming mga kwentong diwata, mayroong nakatira na teribleng halimaw na may kamang-manghang kapangyarihan, isang dragon o isang basilisk, na pinagmamalupitan ang mga nakapaligid na lupain. Ang mga lokal na taga-baryo ay nanginginig sa harapan ng halimaw; kanilang isinasakripisyo ang kanilang mga hayop, nagbabayad ng saalpi at dugo sa pag-asang mapapayapa ang nakakamamatay na simbuyo nito.
 
 Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
 
