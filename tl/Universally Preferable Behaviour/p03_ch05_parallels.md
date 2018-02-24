@@ -6,7 +6,7 @@ Ang mga ideya na ang kalikasan ay isang sariling-likha at sarili-nag tutukod ng 
 
 Sa harap ng siyensiya, sa sentro ng bawat mahihirap unawain ang sistema ng paraang itatatag ng isang banal na kamalayan - wala na ang kung saang sistemang ito ay mapunta sa malaking gulo, at pagtigil na.
 
-Sa kasamaang palad, itong "mabait na kamalayan"ay isa lamang maling akala, para mailagay ito sa pinaka-mapagkawanggawa. Walang umiiral na mga diyos na ganoon-lahat ng iyon ay *gumawa* mayroon ding mga proklamasyon ang mga saserdote. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Sa kasamaang palad, itong "mabait na kamalayan"ay isa lamang maling akala, para mailagay ito sa pinaka-mapagkawanggawa. Walang umiiral na mga diyos na ganoon-lahat ng iyon ay *gumawa* mayroon ding mga proklamasyon ang mga saserdote. Kaya naman kung ano ang talagang nakalagay sa sentro ay ang mga pagkiling ng di-makatuwirang tao, na sinoman ay ang walang alam kung gaano magalit silang talaga.
 
 We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
 
