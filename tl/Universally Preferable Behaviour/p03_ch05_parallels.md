@@ -36,7 +36,7 @@ Lahat ay di-pwedeng magkaroon ng doble.
 
 ### Ang solusyon
 
-Pwede tayong makapili ng ating paniniwalaan na ang gubyerno ay ang kapwa kailangan at isang mabuting pagtatatag. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Pwede tayong makapili ng ating paniniwalaan na ang gubyerno ay ang kapwa kailangan at isang mabuting pagtatatag. Gayon din maaari din tayong makapili ng ating paniniwalaan, nang walang pamahalaan, ang samahan ay gumuho dahil sa "kawalan ng pamamahala" at ang kamunduhan ay magugunaw dahilan sa isang sagupaan na ang lahat ay lalaban sa lahat. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
 
 Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
 
