@@ -42,34 +42,34 @@ persons:
     rule: "pinasalamatan"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "translator"
+    identifier: "template_tao"
+    rule: "ang tagasalin"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "reviwer"
+    identifier: "template_tao"
+    rule: "tagasuri"
   - 
     person_: [ ]
-    identifier: "template_person"
-    rule: "cover_artist"
+    identifier: "template_tao"
+    rule: "pabalat_artista"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "artist"
+    identifier: "template_tao"
+    rule: "artista"
 resources:
   - 
     resource: [ ]
-    rule: "front_cover"
-    content: "cover.png"
+    rule: "unahang pabalat"
+    content: "takip.png"
     websites:
-      - Resource website
-    description: Resource description
+      - Pinagkunang website
+    description: Paglalarawan ng mapagkukunan
     persons:
-      - "template_person"
+      - "template_tao"
 targets:
   - 
     target: [ ]
-    name: article
+    name: artikulo
     reset_footer_active: false
     reset_footer_depth: 0
     clear_page_active: true
