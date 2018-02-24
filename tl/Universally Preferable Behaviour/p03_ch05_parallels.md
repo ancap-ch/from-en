@@ -24,7 +24,7 @@ Ganunpaman, ang "gobyerno" ay hindi kaylangan para sa samahan at ipagpatuloy ng 
 
 Sa katotohanan, katulad ng mga pananampalataya na makahadlang sa kaunlaran ng siyensiya, kaya naman ang mga gubyerno ay nakagagambala sa kaunlaran ng samahan. Katulad ng mga naisasaisip ng*nananampalataya* ang dahilan ng pagkamatay ng daan-daan at milyun-milyong mga tao sa buong kasaysayan, kaya mayroong mga maling-inaakala ang *pamahalaan*.
 
-Tulad narin ng mga hindi totoong etika ng mga pananampalataya "bigyan-katuwiran" ang lahat ng naaabuso, kasamaan at kalupitan, ganun din ang mga hindi totoong etika ng bawat pamahalaan. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+Tulad narin ng mga hindi totoong etika ng mga pananampalataya "bigyan-katuwiran" ang lahat ng naaabuso, kasamaan at kalupitan, ganun din ang mga hindi totoong etika ng bawat pamahalaan. Kapag napili nating mabuhay ng naaayon sa ating pantasya, hindi natin maiiwasang matamo ang pagkasira, ng isang paraan o iba pa.
 
 When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
 
