@@ -66,11 +66,11 @@ Aking tinanong ang mga retorikal na tanong na ito dahil ang mga ito ay tunay na 
 
 Ang analohiya ay hindi tama, dahil ang pagkakaroon ng Ph.D o pagpapakopya ng doktoral ay hindi binabago ang mga moral na tuntunin na ikaw ay sinasaklaw bilang isang tao.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+"Sa bagay", iyong tugon, "subalit ang pagkakaiba ay ang sundalo ay nagtataglay ng mga moral na karapatan na ipinagkaloob sa kanya ng mga karaniwang mamamayan, sa ngalan ng pinagsama-samang pagtatanggol sa sarili atbp."
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Ito ay nagbubunsod sa isang nakagigiliw na punto, kung saan ang katanugan ay kung ang mga opinyon ay kayang baguhin ang reyalidad.
 
-### Opinions And Reality
+### Opinyon at Reyalidad
 
 Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
 
