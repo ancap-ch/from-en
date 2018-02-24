@@ -76,7 +76,7 @@ b. ***Ibang karapatan.***
 
 2. Patentado at tatak ng karapatan ay hindi lisensyado sa ilalim ng ibang Pampublikong Lisensya.
 
-3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
+3. Pasa sa posibleng lawak, Ang tagapaglesensya ay talikdan ang kahit anong karapatan sa pag kolekta ng mga pagkakahari mula sa iyo para sa pagsasanay ng Lisensyadong Karapatan, maging ang direkta o sa pamamagitan ng pagkoleta ng samahan sa ilalim ng bolontaryo o waivable statutory o puwersahan na pamamaraan ng Lisensya. In all other cases the Licensor expressly reserves any right to collect such royalties.
 
 ### Section 3 – License Conditions.
 
