@@ -1,6 +1,6 @@
 ## Parallel
 
-Bago ang pag-agham rebolusyon, Ito ay isinasaalang-alang na hindi iisipin na ang nasabing likas na daigdig ay pwedeng umalalay mismo ng walang kaalaman at "moral" entity sa sentro nito. Ang araw at rosas ay sumusunod sa mga tanikala ng isang karaniwan na kalesa; ang buwan ay isang malamig at nag issang kapatid ng araw. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Bago ang pag-agham rebolusyon, Ito ay isinasaalang-alang na hindi iisipin na ang nasabing likas na daigdig ay pwedeng umalalay mismo ng walang kaalaman at "moral" entity sa sentro nito. Ang araw at rosas ay sumusunod sa mga tanikala ng isang karaniwan na kalesa; ang buwan ay isang malamig at nag issang kapatid ng araw. Ang mga konstelasyon ay nakabalangkas at mga salaysay tungkol sa libingan ng mga diyos, at ang mga unos ay nagmula sa galit ng mga diyablo.
 
 The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
 
