@@ -1,45 +1,45 @@
-### UPB: Five Proofs
+### UPB: Lima ka mga Pruweba
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+Sa ibabaw nga atong naistoryahan, ang proposisyon nga *walay susama nga butang nga gawi nga nagustuhan* nga naglangkub og dako kaayo nga ihap sa mga problema nga lohikal ug empirikal. *Kinahanglan* nga usa ka balido nga konsepto ang “Malukpanon kaayo nga nagustuhan nga gawi”, alang sa lima ka nag-una nga mga rason.
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+Ang una kay lohikal: kung ako minglalis *batok* sa proposisyon nga ang malukpanon kaayo nga nagustuhan nga gawi kay balido, napakita na ko na nga ang akong kagustuhan alang sa kamatuoran batok sa bakak – og usab isip usa ka kagustuhan alang sa pagsakto sa mga kadtong nagsulti og bakak kaayo. Ang pagsulti nga walay susama nga butang sama sa malukpanon kaayo nga nagustuhan nga gawi nga murag nagsinggit sa dunggan sa usa ka tawo nga kadtong tingoga wala minglungtad – kini maoy tiunay nga mingsukwahi sa kaugalingon. Sa lain nga mga pulong, kung *walay susama nga butang* sama sa malukpanon kaayo nga nagustuhan nga gawi, unya ang usa ka tawo nga *kinahanglan* nga mosukwahi ngadto sa bisan kinsa nga ming-angkon nga adunay susama nga butang sama sa malukpanon kaayo nga nagustuhan nga gawi. Bisan pa niana, kung ang usa ka tawo “kinahanglan” nga mobuhat og usa ka butang, unya ang usa ka tawo nakamugna na og malukpanon kaayo nga nagustuhan nga gawi. Busa ang malukpanon kaayo nga nagustuhan nga gawi – o mga mando sa pamatasan – kinahanglan nga mamahimo nga balido.
 
-Syllogistically, this is:
+Sa pagka-silohistiko, mao kini:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1. Ang proposisyon mao: ang konsepto nga “malukpanon kaayo nga nagustuhan nga gawi” nga kinahanglan nga mamahimo nga balido.
+2. Ang pakiglalis batok sa pagkamatuod sa malukpanon kaayo nga nagustuhan nga gawi mingpakita sa malukpanon kaayo nga nagustuhan nga gawi.
+3. Busa walay argumento batok sa pagkamatuod sa malukpanon kaayo nga nagustuhan nga gawi nga mamahimo nga balido.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+Kahibaw na kita tanan nga adunay mga sugpayanon nga mga kagustuhan, susama sa pagkaganahan sa sorbete o diyas , nga wala gikonsiderar nga nakabugkos ngadto sa lain nga mga taw. Sa lain nga bahin, adunay mga lain nga kagustuhan, susama sa paglugos ug pagpatay, *mga* tataw kaayo nga nakahamtang ngadto sa uban. Aduna sab mga kagustuhan alang sa lohika, kamatuoran ug ebidensya, nga nakabugkos sab ngadto sa uban (bisan sa kasagaran dili mapintas nga nahamtangan) sa ingon nga kitang tanan mingdawat nga ang usa ka dili makatarunganon nga proposisyon kinahanglan mamahimo nga dili tinuod o dili balido.
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+Kadtong mga kagustuhan nga nahimong nakonsiderar sa uban mamahimo nga materminohan og “malukpanon nga mga kagustuhan,” o “mga mando sa pamatasan.” 
 
-How else can we know that the concept of “moral rules” is valid?
+Unsa paman ang atong mahibaw-an nga balido nga konsepto sa “mga mando sa pamatasan”?
 
-We can examine the question biologically as well as syllogistically.
+Makahimo kita nga susihon sa pagkabiyolohikal sa pangutana og usab isip pagkasilohistikal.
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+Pananglitan, ang tanan nga butang kay pagahilisgotanan ngadto sa mga mando nga pang-pisika – ug tanan nga butang nga nabuhi mao ang dugang nga pagahilisgotan sa mga tino nga gikinahanglan, ug busa, kung kini kay buhi, kinihanglan unta mingsunod sa mga malukpanon kaayo nga nagustuhan nga gawi. Kinabuhi, pananglitan, nanginahanglan og sugnod ug oksihena. Ang bisan unsa nga nagpakabuhi nga hunahuna, alangan, mao ang usa ka organiko nga bahin sa kalibutan nga pang-pisika, ug maoy nahisgotan sa mga balaud nga pangpisika ug kinahanglan nga musunod sa mga malukpanon kaayo nga nagustuhan nga mga gawi – aron sa paglalis kondili mamahimo nga manginahanglan og pruweba nga ang pagkamapakisayron kay wala naglangkub sa butang, ug dili organiko – usa ka walay posibilidad, tungod kay aduna kini timbang, kusog ug kinabuhi. Ang pakiglalis nga ang pagkamapakisayron kay pagahilisgotan sa wala sa niini nga mga mando nga pang-pisika o niana nga malukpanon kaayo nga nagustuhan nga gawi mamahimo nga murag nakiglalis nga ang mga linalang nga tawo kay kublan na ngadto sa grabidad, ug makahimo nga molambo nga walay kaon-kaon.
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+Busa imposible kini nga ang bisan kinsa makahimo nga lohikal kaayo nga lalis batok sa malukpanon kaayo nga nagustuhan nga gawi, tungod kay kung siya kay buhi aron sa pakiglalis, kinahanglan nga mingsunod unta siya malukpanon kaayo nga mga gawi sama sa pagginhawa, pagkaon ug pag-inom.
 
-Syllogistically, this is:
+Sa pagka-silohistiko, mao kini:
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+1. Ang tanan nga mga organismo kay nagkinahanglan sa malukpanon nga nagustuhan nga gawi aron mabuhi.
+2. Ang tawo kay usa ka buhi nga organismo.
+3. Busa tanan nga buhi nga mga tawo kay buhi tungod sa pagbuhat sa malukpanon kaayo nga nagustuhan nga gawi.
+4. Busa ang bisan unsa nga argumento batok sa malukpanon kaayo nga nagustuhan nga gawi nagkinahanglan og pagdawat ug pagbuhat sa malukpanon kaayo nga nagustuhan nga gawi.
+5. Busa walay argumento batok sa pagka-anaa sa malukpanon kaayo nga nagustuhan nga gawi ang mamahimo nga balido.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+Tungod kay ang pamaagi nga siyentipiko nagkinahanglan og pagsuporta nga empirikal, kinahanglan nga kita sab motan-aw sa reyalidad aron sa pagkompirmar sa atong haypotesis – ug diri ang pagkamatuod sa malukpanon nga nagustuhan nga gawi kay napuno sa pagsuporta.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Matag tarong nga mga linalang nga tawo nga mingtuo sa pipila ka matang sa mga mando sa pamatasan. Adunay pipila ka wala nagkauyonay mahitungod sa kung unsa ang *naglangkon* sa mga mando sa pamatasan, pero ang tanan kay nakatino nga ang mga mando sa pamatasan kay mga balido – sa ingon sa mga daghan nga mga sayantis nga wala ming-uyon, pero ang tanan nga mga sayantis mingdawat sa pagkamatuod sa pamaagi nga siyintipiko sa kaugalingon. Ang usa makahimo nga makalalis nga ang Earth kay lingin ug dili patag – nga parehas kaayo ngadto sa pag-usab sa depinisyon sa moralidad – pero ang usa dili makahimo nga molalis nga ang Earth kay wala minglungtad nga sa tanan – nga parehas sa pakiglalis nga walay susama nga butang sama sa malukpanon kaayo nga nagustuhan nga gawi.
 
-Or:
+O:
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+1. Aron ang usa ka teorya nga siyintipiko nga mamahimo nga balido, kinahanglan kini nga masuportahan pinaagi sa pagpaniid nga empirikal.
+2. Kung balido ang konsepto nga “malukpanon kaayo nga nagustuhan nga gawi”, unya ang katawhan kinahanglan nga motuo sa malukpanon kaayo nga nagustuhan nga gawi.
+3. Tanang tawo ang mingtuo sa malukpanon nga nagustuhan nga gawi.
+4. Busa adunay ebidensya nga empirikal aron sa pagsuporta sa pagkamatuod sa malukpanon kaayo nga nagustuhan nga gawi – ug ang pagka-anaa sa susama nga ebidensya nga *mingsupak* sa proposisyon nga dili balido ang malukpanon nga nagustuhan nga gawi.
 
 The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
 
