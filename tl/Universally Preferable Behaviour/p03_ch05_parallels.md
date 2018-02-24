@@ -18,7 +18,7 @@ Kapag tayo ay nagsasalaysay na patungkol sa "diyos,"ang ating talagang pinag-uus
 
 Kung saan ang lahat ng mga pinag-uusapan na patungkol sa"ang pamahalaan,"lahat ay *tunay* na nangangahulugang "ang karahasan ay isang napaka liit na pagkakulang sa idad."
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+Ang palagay ng mga "kusang loob na humihingi,"na kung saan napatunayan na mahusay sa mga lupain ng pisika at byolohiya, higit sa lahat mananatiling hindi paniniwalaan sa larangan ng atin lipunan.
 
 However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
 
