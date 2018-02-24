@@ -56,7 +56,7 @@ Kapag sinabi na ang pamahalaan ay gumagana sa ilalim ng magkasalungat na moral n
 
 Sa parehas na paraan, kapag ating sinabi na moral na tama para sa mga sundalo ang pumatay at mga kumakatawan sa pamahalaan ang magnakaw, alam natin na ang "mga sundalo" at "mga kinatawan ng pamahalaan" bilang moral na kategorya ay *kumpletong walang bisa*.
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+Kung aking sasabihin na ang parisukat bilog ay tama na magnakaw, akin lamang sinasabi na alinmang hindi umiiral ay may karapatan na gawin ang isang pansariling kontradiksyon - isang purong walang saysay na pahayag, subalit isang nananatiling kakaibang nakakahimok sa "walang sona" ng politika.
 
 If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
 
