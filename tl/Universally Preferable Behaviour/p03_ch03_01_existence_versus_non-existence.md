@@ -124,9 +124,9 @@ Kataka-taka, ito ang natatangi niyang katangian na lubos na binabaliktad ang sar
 
 Mas lalong kataka-taka, kung ako ay isang hindi "pulis", at aking sundan si Bob sa kanyang trabaho, at gawin ang eksakto nilang ginagawa - Ako ay nagsuot ng kostyum, naglakad sa istasyon ng pulis, at dalhin ang kaperasong karton tungong panch-orasan - bakit, kung gawin ko ang eksaktong ginagawa ni Bob, ako ay kumpleto at buong-buong imoral, kahit na ang magkakahawig na aksyon ay kumpleto at buong -buong *moral*.
 
-What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
+Anong klaseng saysay ang ginagawa nito? Paano natin makitang malutas ang hindi mapasok na misteryong ito?
 
-The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+Ang simpleng katotohan ay *hindi* pwedeng malutas, dahil iyon ay kumpletong magulo. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
 
 We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
 
