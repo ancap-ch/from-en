@@ -1,4 +1,4 @@
-## Parallel
+## Ang Parallel
 
 Bago ang pag-agham rebolusyon, Ito ay isinasaalang-alang na hindi iisipin na ang nasabing likas na daigdig ay pwedeng umalalay mismo ng walang kaalaman at "moral" entity sa sentro nito. Ang araw at rosas ay sumusunod sa mga tanikala ng isang karaniwan na kalesa; ang buwan ay isang malamig at nag issang kapatid ng araw. Ang mga konstelasyon ay nakabalangkas at mga salaysay tungkol sa libingan ng mga diyos, at ang mga unos ay nagmula sa galit ng mga diyablo.
 
