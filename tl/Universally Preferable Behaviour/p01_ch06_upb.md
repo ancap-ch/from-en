@@ -53,9 +53,9 @@ Kung, pagkatapos ng bayad sa pakikipagrelasyon, ako ay manlilinlang sa aking asa
 
 ### Ang pag-iwas
 
-At kung ikaw at ako ay magkaparehong nakatayo sa tuktok ng isang talampas, at bumabalik ako sa iyo at nagsabing, "Tumayo ka sa harap ko, kaya kita itulak sa talampas," ano ang sasabihn mo sa akin? If you do voluntarily stand in front of me, and I then push you off the cliff, this would more likely be considered a form of suicide on your part, rather than murder on my part. The reason for this is that you can very easily *avoid* being pushed off the cliff, simply by refusing to stand in front of me.
+At kung ikaw at ako ay magkaparehong nakatayo sa tuktok ng isang talampas, at bumabalik ako sa iyo at nagsabing, "Tumayo ka sa harap ko, kaya kita itulak sa talampas," ano ang sasabihn mo sa akin? Kung ikaw ay nagkusang tumayo sa harap ko, at pagkatapos ay itulak kita mula sa talampas, malamang ito ay maituturing na isang paraan ng pagpapakamatay sa iyong bahagi, sa halip na pagpatay sa aking bahagi. Ang dahilan para sa mga ito ay pwede mabilis mong *maiwasan ang* na itinutulak sa bangin, sa pamamagitan lang ng pagtangging tumayo sa harapan ko.
 
-Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death,” if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
+Kagaya rin nito, kung magkita tayo sa isang bar, at sabihin: "Gusto kong bumalik ka sa aking lugar, kaya maitali kita sa kama at para mamatay ka sa kamatayan," at itoy kung gagawin mo talaga ang bumalik sa aking lugar, ito ay may makatwirang kaalaman na ang iyong kahabaan ng buhay ay hindi mapapahusay ng iyong desisyon. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
 
 This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose.
 
