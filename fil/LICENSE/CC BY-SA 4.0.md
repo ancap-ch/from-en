@@ -124,7 +124,7 @@ a. para sa pagiwas sa pagaalinlangan, Seksyon 2(a)(1) ipagkakaloob sayo ang kara
 
 b. kung isasama mo lahat ng matibay na bahagi ng nilalaman ng database kung saan mayroon kang Sui Generis Database Rights, pagkatapos ng database kung saan mayroon Sui Generis Database Rights (ngunit hindi indibidwal na mga nilalaman) na Halaw sa Materyal, kasama ang mga layunin sa Seksyon 3(b); at
 
-c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
+c. kailangan mo sumunod kung saan ang mga kondisyon sa Seksyon 3(a) kung ibabahagi ang lahat ng matibay na bahagi ng nilalaman ng mga database.
 
 For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 
