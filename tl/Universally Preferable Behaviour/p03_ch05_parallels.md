@@ -10,7 +10,7 @@ Sa kasamaang palad, itong "mabait na kamalayan"ay isa lamang maling akala, para 
 
 Lahat ay mayron upang isalin itong liwanag sa ating mga pagkakaintindi sa panglipunan -ngunit ngayon ito ay *mahalaga* ginagawa natin ito.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+Isinasaalang-alang ng lahat itong mahahalaga, at sa sentro ng panglipunan, lahat ng lugar ay banal na entidad tinatawag na äng pamahalaan." ay ang kawalan ng entidad, isinasaalang-alang ng lahat itong malinaw na ang lipunan ay mapadpad sa ganap na kaguluhan, at mailagay ito sa maging-makatwiran bilang mga aninong itinuturing, na nasa pagliban ng mga diyos, ang daigdig mismo ay papatungo sa malaking gulo, at ipatigil na.
 
 However, “the government” no more exists than “god” exists.
 
