@@ -6,11 +6,11 @@ Está claro que essa proposição parece satisfazer, pelo menos alguns, dos requ
 
 No entanto, parece-nos difícil chamá-la, razoavelmente, uma verdadeira teoria *moral* - por quê?
 
-First of all, “evil” encompasses actions that can be prevented through the use of force. Rape is “evil,” and so I can use force to defend myself against someone attempting to rape me.
+Em primeiro lugar, o "mal" abrange acções que podem ser prevenidas através do uso da força. A violação é "má", e então eu posso usar a força para me defender contra alguém que esteja a tentar violar-me.
 
-Can I justly shoot someone who eats a piece of fish?
+Será que posso atirar, com justiça, numa pessoa que esteja a comer um pedaço de peixe?
 
-It would seem silly to argue that I can – but why?
+Parece tonto argumentar que posso - mas por quê?
 
 There are some objective limits to the universality of this doctrine. For instance, some people may have no access to fish – they may live in a desert, say – while others live by a lake teeming with fish, and find it hard or impossible to survive without eating them. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
 
