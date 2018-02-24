@@ -102,15 +102,15 @@ Maraming tao ang makikipag-argumento sa puntong ito na ang pagbubuwis ay hindi i
 
 Ito ay maaaring totoo, subalit ito ay kumpletong walang kaugnayan. Kung sasabhin ko sa isang babae na papaslangin ko ang kanyang mga anak kung hindi siya makikipagtalik sa akin, at isinuko niya ang kanyang sarili sa akin, malinaw naming nauunawaan na isang imoral na aksyon ang naganap - kahit na wala akong ginamit na sandata sa aking paglabag. Malinaw, kung ang isang babae ay isinuko ang kanyang sarili sa akin, iyon ay dahil natatakot siyang aking gagawin ang aking pagbabanta. Kung sasabhin ko sa kanya na ang aking alagang leprekon ay papaslangin ang kanyang mga anak kung hindi siya makikipagtalik sa akin, siya ay lubhang mababalisa, subalit hindi katatakutan ang aking banta sa anumang makabuluhang paraan, dahil imposible sa aking alagang leprekon na paslangin ang kanyang mga anak. O, kung ako ay pumanaw na, at aking ipapahayag na aking papaslangin ang kanyang mga anak kung hindi siya makikipagtalik sa akin, malinaw na mas makakaramdam siya ng ginhawa kaysa matakot, dahil hindi ko kayang gawin ang aking banta ng mula lampas sa libingan. Samakatuwid nagbabayad tayo ng buwis dahil alam nating kapag hindi, ang posibilidad na masalakay ng mga kinatawan ng estado ay napakataas. Kung hind ko babayaran ang aking mga buwis, ako ay makakatanggap ng sulat, at isa pang sulat, sunod isang ptawag ng korte - at kung hindi ako susulpot sa korte, o hindi bayaran ang aking hindi nabayarang buwis at naipon ang multa at interes, ang mga pulis ay dadating na may dalang baril at dadalhin ako sa kulungan. Kung manlaban ako sa mga pulis na iyon, ako ay kanilang babarilin.
 
-Ang sabihin na ang sapilitan ay katumbas ng boluntarismo ay kumpletong ilohokial at kontradiksyon sa sarili. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
+Ang sabihin na ang sapilitan ay katumbas ng boluntarismo ay kumpletong ilohokial at kontradiksyon sa sarili. Ang sabihin na ang pagpapasimula ng paggamit ng puwersa ay kumpletong katumbas ng sa hindi pagpapasimula ng pggamit ng pwersa ay ang pagsasabi na ang taas ay baba, itim ay puti at ang katotohanan ay kamalian.
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+Kung wala ang "sonang wala" itong mga sirang kathang-isip na ito ay hindi maaaring mapanatili.
 
-The “null zone” is the lair of the beast we hunt.
+Ang "sonang wala" ay ang tirahan ng halimaw na ating hinahanap.
 
-As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
+Kung ating makikita, personal nating alam na mali ang magnakaw; meron tayong kakaunting suliraning abstrak at lohikal sa pagbabawal ng pagnanakaw, gaya ng nasabi sa itaas - gayonpaman, may umiiral na "sonang wala" o alternatbong uniberso kung saan ang mga nasabing oposisyon ay maaaring tanggapin ng walang tanong o pagsasaalang-alang.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+Ayon sa UPB, mali para sa iyo at sa akin ang magnakaw. Subalit kahit papaano, sa "sonag wala" na ito, hindi lamang pwede, subalit perpekto din *moral*, para sa iba ang magnakaw. Hindi tayo *dapat* magnakaw - sila ay *dapat* magnakaw. It is moral madness!
 
 ### Policemen
 
