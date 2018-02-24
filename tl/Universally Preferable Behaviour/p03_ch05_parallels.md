@@ -4,7 +4,7 @@ Bago ang pag-agham rebolusyon, Ito ay isinasaalang-alang na hindi iisipin na ang
 
 Ang mga ideya na ang kalikasan ay isang sariling-likha at sarili-nag tutukod ng sistema ay halos hindi mailarawan ng isip. Ang rebolusyon, ni Darwin, na ang iniisip na ang buhay ay hindi nilikha, pero sa halip ay nagbabago, dinala ito ng isip galing sa materyal para sa biolohikal na sangkataohan.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Sa harap ang siyensiya, sa sentro ng bawat mahirap unawaing sistema ng paraang itatag ng isang banal na kamalayan - wala na ang kung saang sistemang ito ay lumipad sa malaking gulo, at pagtigil na.
 
 Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
 
