@@ -136,17 +136,17 @@ Kami ay nasabihan na "nais" naming si Bob ay kunin ang aming salapi - na kumplet
 
 "Dahil *utang na loob*nila sa akin ang kanilang pera!"
 
-“I thought you said that they want to give you their money.”
+"Akala ko sinabi mo na nais nila ibigay sa iyo ang kanilang pera."
 
-“No, no – they owe me. It’s really *my* money!”
+"Hindi, Hindi - may utang sila sa akin. Pera *ko* talaga iyon!"
 
-“On what grounds do they owe you this money?”
+"Sa anong batayan na utang nila sa iyo ang perang ito?"
 
-“We have a contract!”
+"Mayroon kaming kontrata!"
 
-“Can you show me this contract? Have they signed this contract of their own free will?”
+"Pwede mo ba ipakita sa akin ang kontrata? Ito ba ay kanilang pinirmahan ng kusang-loob?"
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+"Hindi ito ganoong uri ng kontrata!"! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
 
 “And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
 
