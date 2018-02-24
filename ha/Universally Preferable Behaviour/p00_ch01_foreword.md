@@ -56,7 +56,7 @@ Duk da haka, ba komai ba ne
 
 ### Dokokin kasa
 
-Ƙididdiga masu mahimmanci yana buƙatar tabbaci mai ban mamaki. In za'a dauka wannan aiki na musamman - musamman ma a cikin ɗan gajeren littafi - Na kafa wa kaina dokoki masu mahimmanci, wanda ya cancanci auku a nan. [1]
+Ƙididdiga masu mahimmanci yana buƙatar tabbaci mai ban mamaki. In za'a dauka wannan aiki na musamman - musamman ma a cikin ɗan gajeren littafi - Na kafa wa kaina dokoki masu mahimmanci, wanda ya cancanci auku a nan.[^1]
 
 1. Na yarda da cikakkiyar bambancin Humean tsakanin "shi ne" da kuma "ya kamata." Dokokin kirki mai kyau bazai iya samuwa ba daga kasancewar wani abu a gaskiya. Gaskiyar cewa 'yan adam gaba ɗaya sun fi so su rayu, kuma dole ne suyi hulɗa tare da gaskiyar don yin hakan, baza su iya zama tushen kowane ka'idar ka'idoji ba. Wasu mutane ba sa son su rayu, kuma sun yi watsi da gaskiya, saboda haka wannan ma'anar dabi'un ya kasance abin ƙyama da yanayin.
 2. Kodayake ba za'a iya danganta dabi'un da "abin da ke da kyau ga rayuwar mutumin ba." Wasu mutane na iya tsira da kyau ta hanyar yin amfani da wasu, don haka wannan ma'anar ladabi bai rinjayar matsalar al'ada ba. A cikin sharuddan halittu, wannan zai zama daidai da kwatancin ka'idar juyin halitta kamar "abin da ke da kyau don rayuwa" - wannan ba zai zama ma'ana ba. Jama'ar 'yan Adam shine tsarin halitta na masu cin nasara, kamar yadda daji mai ruwa yaƙe, kuma abin da yake "mai kyau" ga mutum daya yakan zo ne fiye da wani abu da ya kamata ya samu.
@@ -68,7 +68,7 @@ Duk da haka, ba komai ba ne
 8. Na mutunta kulawar ku don ku guji fassara kalmomi kamar "gaskiya," "dalili," "mutunci" da sauransu. Muna da isasshen aikin da za mu yi ba tare da yin amfani da motar ba.
 9. A karshe, na yi imani da cewa duk wani ka'ida - musamman ma muhimmiyar ka'idar hali ko na bin doka - ba ta da kyau idan ta tabbatar da abin da kowa ya sani a hankali. Ban yi shekaru da yawa na rayuwata a kan ka'idar hali don ci gaba da tabbatar da cewa "kisa ba daidai ba ne." A ganina, mafi kyawun ra'ayoyin sune wadanda ke tabbatar da gaskiyar da muka fahimta - da kuma amfani da waɗannan ka'idodi don bayyana gaskiyar da za ta iya zama gaba ɗaya-ƙira.
 
-Bayan da na kashi shekaru na rayuwata na shirya, horo, sannan kuma na magance wannan dabba ko dodo, Ina fatan cewa na yarda kaina da wani matsayi mai daraja. Na yi imanin cewa na fito da nasara - duk da yake ba a kwance ba - kuma ina fata in ga wanda ya raba wannan ra'ayi. [^2]
+Bayan da na kashi shekaru na rayuwata na shirya, horo, sannan kuma na magance wannan dabba ko dodo, Ina fatan cewa na yarda kaina da wani matsayi mai daraja. Na yi imanin cewa na fito da nasara - duk da yake ba a kwance ba - kuma ina fata in ga wanda ya raba wannan ra'ayi.[^2]
 
 Na yi nazarin tarihin falsafar a makarantar digiri na biyu, kuma na riƙe digiri na Masters, amma ban sami PhD a falsafar ba. Ina da nisa daga fahimtar jama'a. Duk da yake ba zan zama mai zato ba tsammani, Ni ma nesa ne daga mafi kusantar. Ko na yi nasara ko a'a ba ya zuwa gare ku, kuma bai zuwa gare ni ba.
 

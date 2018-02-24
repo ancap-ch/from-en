@@ -107,7 +107,7 @@ Sejak teori yang sah memerlukan *konsistensi logis*, sebuah teori moral tidak ak
 
 Demikian pula, teori moral apa pun yang mendorong perkosaan menghadapi pertentangan serupa. Pemerkosaan dapat *jangan* akan moral dan sejak prinsip apa pun yang menyetujui secara otomatis bertentangan dengan sendiri. Jika pemerkosaan dibenarkan pada prinsip bahwa "rida selalu baik," kemudian segera prinsip seperti gagal dalam ujian konsistensi logis, sejak bertunangan mungkin "senang," tetapi korban-nya yang pasti *Tidak*.[^7]
 
-Dengan demikian, menundukkan teori moral ke metode ilmiah menghasilkan hasil yang sesuai dengan rasionalitas, pengamatan empiris dan akal sehat biasa. Pembunuhan, pencurian, pembakaran, pemerkosaan dan penyerangan semuanya terbukti tidak bermoral. [^8]
+Dengan demikian, menundukkan teori moral ke metode ilmiah menghasilkan hasil yang sesuai dengan rasionalitas, pengamatan empiris dan akal sehat biasa. Pembunuhan, pencurian, pembakaran, pemerkosaan dan penyerangan semuanya terbukti tidak bermoral.[^8]
 
 Untuk membantu menelan pil konseptual yang agak besar ini, di tii ini adalah tabel yang membantu beliau menyamakan fisika dan beliau biologi dengan ilmiah tentang perilaku yang lebih baik secara universal (atau moral):
 

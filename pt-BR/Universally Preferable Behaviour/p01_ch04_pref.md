@@ -88,7 +88,7 @@ Se eu te disser que eu gosto de sorvete de chocolate, e você me disser que gost
 
 Se eu te disser que o mundo é plano, e você sacar uma arma e atirar em mim, isso não seria um exemplo de um debate produtivo. É verdade que nossa discordância teria sido "resolvida" - mas isso porque no final só sobrou um de nós dois de pé.
 
-Se você me dissesse com antecedência caso discordássemos você resolveria isso atirando em mim, em provavelmente não aceitaria iniciar um debate com você. Assim, é evidente que qualquer debate se baseia na premissa implícita que evidência, razão, verdade e objetividade são os métodos *universalmente preferíveis* de resolução de disputas entre indivíduos. Seria completamente ilógico argumentar que as diferenças de opinião deveriam ser resolvidas com o uso de violência – o único argumento consistente para o *valor* de violência é o uso da violência. [^4]
+Se você me dissesse com antecedência caso discordássemos você resolveria isso atirando em mim, em provavelmente não aceitaria iniciar um debate com você. Assim, é evidente que qualquer debate se baseia na premissa implícita que evidência, razão, verdade e objetividade são os métodos *universalmente preferíveis* de resolução de disputas entre indivíduos. Seria completamente ilógico argumentar que as diferenças de opinião deveriam ser resolvidas com o uso de violência – o único argumento consistente para o *valor* de violência é o uso da violência.[^4]
 
 Em essência, então, debater requer uma metodologia objetiva, através da linguagem significativa, na busca da verdade universal, a qual é objetivamente preferível ao erro pessoal.
 
@@ -100,7 +100,7 @@ Da mesma forma, a verdade não é "melhor" do que o erro – é *infinitamente p
 
 Se eu argumentar que os seres humanos não são responsáveis por suas ações, estou preso em um paradoxo, que é a pergunta de *se sou ou não sou responsável pelo meu argumento, e também se você é ou não é responsável por sua resposta*.
 
-Se meu argumento de que os seres humanos *não* são responsáveis por seus atos é verdade, então eu não sou responsável pelo meu argumento, e você não é responsável pela sua resposta. No entanto, se eu acredito que você não é responsável pela sua resposta, teria pouquíssimo sentido continuar a argumentar – seria exatamente o mesmo que discutir com um aparelho de televisão. [^5]
+Se meu argumento de que os seres humanos *não* são responsáveis por seus atos é verdade, então eu não sou responsável pelo meu argumento, e você não é responsável pela sua resposta. No entanto, se eu acredito que você não é responsável pela sua resposta, teria pouquíssimo sentido continuar a argumentar – seria exatamente o mesmo que discutir com um aparelho de televisão.[^5]
 
 Assim, fundamentalmente, se eu disser que você não é responsável por suas ações, estou dizendo que é universalmente preferível acreditar que a preferência é impossível, já que se você não tem controle sobre suas ações, você não pode escolher um estado de preferencia, ou seja, a verdade sobre a falsidade. Assim, este argumento, como os argumentos mais acima, se auto-destrói.
 

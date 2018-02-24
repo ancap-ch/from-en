@@ -2,7 +2,7 @@
 
 Una vez que la violencia del gobierno es expuesta intelectualmente - y el supuesto “voluntarismo” de los ciudadanos es revelado como un fraude vil - el argumento siempre vuelve a que *necesitamos* que el gobierno nos brinde bienes públicos como protección, defensa regional, caminos, etc.
 
-He escrito docenas de artículos que exponen la falsedad de este puesto, por lo que no me molestaré en reiterar esos argumentos aquí, ya que no son esenciales para un libro sobre moralidad, sino que serían más apropiados para un libro que explica los principios y aspectos prácticos de una sociedad voluntaria. [^4]
+He escrito docenas de artículos que exponen la falsedad de este puesto, por lo que no me molestaré en reiterar esos argumentos aquí, ya que no son esenciales para un libro sobre moralidad, sino que serían más apropiados para un libro que explica los principios y aspectos prácticos de una sociedad voluntaria.[^4]
 
 El “argumento por funcionalidad” no resuelve de ninguna manera el problema de la violencia. Si lo veo comiendo hamburguesas con queso todos los días, puedo decirle que eso no es funcional para usted hacerlo, si quiere mantener un peso saludable. No puedo asegurar que sea *malo* para usted comer hamburguesas con queso, por las razones antes mencionadas. No puedo simplemente obligarlo usando la fuerza para aumentar la “funcionalidad” de sus acciones.
 
@@ -36,14 +36,14 @@ En primer lugar, “voluntad” es un aspecto del individuo, mientras que “may
 
 Dos objeciones adicionales recurren constantemente cada vez que se cuestiona la necesidad de un gobierno. La primera es que una sociedad libre es únicamente posible si las personas son perfectamente buenas o racionales - en otras palabras, que los ciudadanos *necesitan* un gobierno centralizado porque hay personas malas en el mundo.
 
-El primer y más obvio problema con esta postura es que si en la sociedad existe la gente mala, también existirá dentro del gobierno - y por eso serán mucho más peligrosos. Los ciudadanos puede protegerse a sí mismos contra los individuos malos, pero no podrían hacerlo frente a un gobierno agresivo armado hasta los dientes con fuerzas policiales y militares. Por lo tanto, el argumento de que necesitamos al gobierno porque existen personas malvadas es falso. Si existen personas malvadas, el gobierno * debe* ser desmantelado, ya que la gente malvada se sentirá atraída a usar su poder para sus propios fines y, a diferencia de los rufianes privados, las personas malvadas en el gobierno tienen a la policía y el ejército para infligir sus caprichos en una población indefensa (y relativamente desarmada). Por lo tanto, el argumento es similar a la idea de que "los falsificadores son muy peligrosos, por lo que deberíamos otorgar un monopolio exclusivo sobre la falsificación a un pequeño grupo de individuos". ¿En qué lugar en la tierra la gente cree que los falsificadores van primero? [^5]
+El primer y más obvio problema con esta postura es que si en la sociedad existe la gente mala, también existirá dentro del gobierno - y por eso serán mucho más peligrosos. Los ciudadanos puede protegerse a sí mismos contra los individuos malos, pero no podrían hacerlo frente a un gobierno agresivo armado hasta los dientes con fuerzas policiales y militares. Por lo tanto, el argumento de que necesitamos al gobierno porque existen personas malvadas es falso. Si existen personas malvadas, el gobierno * debe* ser desmantelado, ya que la gente malvada se sentirá atraída a usar su poder para sus propios fines y, a diferencia de los rufianes privados, las personas malvadas en el gobierno tienen a la policía y el ejército para infligir sus caprichos en una población indefensa (y relativamente desarmada). Por lo tanto, el argumento es similar a la idea de que "los falsificadores son muy peligrosos, por lo que deberíamos otorgar un monopolio exclusivo sobre la falsificación a un pequeño grupo de individuos". ¿En qué lugar en la tierra la gente cree que los falsificadores van primero?[^5]
 
 Lógicamente, hay cuatro posibilidades en cuanto a la mezcla de personas buenas y malas en el mundo:
 
 1. Todos los hombres son morales.
 2. Todos los hombres son inmorales.
 3. La mayoría de los hombres son inmorales y una minoría moral.
-4. La mayoría de los hombres son morales, y una minoría inmoral. [^6]
+4. La mayoría de los hombres son morales, y una minoría inmoral.[^6]
 
 En el primer caso (* todos los hombres son morales *), el gobierno obviamente no es necesario, ya que el mal no puede existir.
 
@@ -57,9 +57,9 @@ La tercera posibilidad es que la * mayoría * de personas sean malvadas, y solo 
 
 Las personas buenas no actúan moralmente porque temen el castigo, sino porque aman la virtud y la paz mental y, por lo tanto, a diferencia de la gente malvada, tienen poco que ganar al controlar el gobierno. En este escenario, entonces, el gobierno inevitablemente será controlado por la mayoría de las personas malvadas que gobernarán sobre todos, en detrimento de todas las personas morales.
 
-La cuarta opción es que la mayoría de las personas son buenas y solo unas pocas son malas. Esta posibilidad está sujeta a los mismos problemas descritos anteriormente, notablemente en que las personas malvadas siempre querrán obtener el control sobre el gobierno, para protegerse de la mera represalia por los crímenes que cometieron. Esta opción solo cambia la *apariencia* de la democracia: debido a que la mayoría de la gente es buena, los malvados buscadores de poder deben mentirles para obtener poder y luego, después de lograr un cargo público, inmediatamente romperán la fe. y perseguirán sus propias agendas corruptas, haciendo cumplir sus voluntades a través de la policía y el ejército. [^7] Por lo tanto, el gobierno sigue siendo el mayor premio para los hombres más malos, que rápidamente tomarán el control de su asombroso poder – en detrimento de todas las almas buenas– y por lo que tampoco se le puede permitir al gobierno existir en este escenario.
+La cuarta opción es que la mayoría de las personas son buenas y solo unas pocas son malas. Esta posibilidad está sujeta a los mismos problemas descritos anteriormente, notablemente en que las personas malvadas siempre querrán obtener el control sobre el gobierno, para protegerse de la mera represalia por los crímenes que cometieron. Esta opción solo cambia la *apariencia* de la democracia: debido a que la mayoría de la gente es buena, los malvados buscadores de poder deben mentirles para obtener poder y luego, después de lograr un cargo público, inmediatamente romperán la fe. y perseguirán sus propias agendas corruptas, haciendo cumplir sus voluntades a través de la policía y el ejército.[^7] Por lo tanto, el gobierno sigue siendo el mayor premio para los hombres más malos, que rápidamente tomarán el control de su asombroso poder – en detrimento de todas las almas buenas– y por lo que tampoco se le puede permitir al gobierno existir en este escenario.
 
-Es claro, entonces, que no hay ninguna situación bajo la cual un gobierno pueda permitirse lógicamente o moralmente existir. La única justificación posible para la existencia de un gobierno sería si la mayoría de los hombres son malvados, pero todo el poder del gobierno siempre está controlado por una minoría de hombres buenos. [^8]
+Es claro, entonces, que no hay ninguna situación bajo la cual un gobierno pueda permitirse lógicamente o moralmente existir. La única justificación posible para la existencia de un gobierno sería si la mayoría de los hombres son malvados, pero todo el poder del gobierno siempre está controlado por una minoría de hombres buenos.[^8]
 
 Esta situación, aunque interesante teóricamente, se descompone lógicamente, porque:
 
@@ -67,7 +67,7 @@ Esta situación, aunque interesante teóricamente, se descompone lógicamente, p
 2. No hay forma de garantizar que solo las personas buenas dirijan siempre el gobierno; y,
 3. No hay absolutamente ningún ejemplo de que esto haya ocurrido en ninguno en los brutales anales de la historia del estado.
 
-El error lógico que siempre se comete en la defensa del gobierno es imaginar que cualquier juicio moral colectivo que se aplique a un grupo de personas * tampoco se aplique al grupo que las gobierna *. Si el cincuenta por ciento de las personas son malvadas, entonces * al menos * el cincuenta por ciento de las personas que las dominan también son malvadas. [^9] Por lo tanto, la existencia del mal nunca puede justificar la existencia de un gobierno.
+El error lógico que siempre se comete en la defensa del gobierno es imaginar que cualquier juicio moral colectivo que se aplique a un grupo de personas * tampoco se aplique al grupo que las gobierna *. Si el cincuenta por ciento de las personas son malvadas, entonces * al menos * el cincuenta por ciento de las personas que las dominan también son malvadas.[^9] Por lo tanto, la existencia del mal nunca puede justificar la existencia de un gobierno.
 
 Si no hay maldad, los gobiernos son innecesarios. Si el mal existe, los gobiernos son demasiado peligrosos para que se les permita existir.
 
@@ -77,7 +77,7 @@ Hay una serie de razones, que solo se pueden tocar acá. El primero es que el go
 
 El segundo es que el gobierno nunca les enseña a los niños sobre la raíz de su poder – la violencia – sino que pretende que sea simplemente de otra institución social, como un negocio, una iglesia o una organización benéfica, pero más moral.
 
-La tercera es que el predominio de la religión y la propaganda siempre ha cegado a los hombres ante los males del gobierno, razón por la cual los gobernantes siempre han estado tan interesados en promover los intereses de las iglesias y la "educación" estatal. En la cosmovisión religiosa, el poder absoluto es sinónimo de virtud perfecta, en forma de deidad. En el mundo político real de los hombres, sin embargo, aumentar el poder siempre significa aumentar el mal. Con la religión, también, todo lo que sucede debe ser para bien, por lo tanto, luchar contra el poder político invasor es luchar contra la voluntad de esa deidad. Hay muchas más razones, por supuesto, pero estas se encuentran entre las más profundas. [^10]
+La tercera es que el predominio de la religión y la propaganda siempre ha cegado a los hombres ante los males del gobierno, razón por la cual los gobernantes siempre han estado tan interesados en promover los intereses de las iglesias y la "educación" estatal. En la cosmovisión religiosa, el poder absoluto es sinónimo de virtud perfecta, en forma de deidad. En el mundo político real de los hombres, sin embargo, aumentar el poder siempre significa aumentar el mal. Con la religión, también, todo lo que sucede debe ser para bien, por lo tanto, luchar contra el poder político invasor es luchar contra la voluntad de esa deidad. Hay muchas más razones, por supuesto, pero estas se encuentran entre las más profundas.[^10]
 
 Al comienzo de esta sección, mencioné que las personas generalmente cometen * dos * errores cuando se enfrentan a la idea de disolver el gobierno. El primero es la creencia de que los gobiernos son necesarios porque existen personas malvadas. El segundo es la creencia de que en ausencia de gobiernos, cualquier institución social que surja tomará inevitablemente el lugar de los gobiernos. Por lo tanto, las Organizaciones de Resolución de Disputas (ORD's), las compañías de seguros y las fuerzas de seguridad privadas se consideran cánceres potenciales que aumentarán y abrumarán al cuerpo político.
 
@@ -85,7 +85,7 @@ Esta vista surge del mismo error descrito anteriormente. Si *todas* las instituc
 
 La única forma en que las instituciones sociales pueden convertirse en monopolios violentos es * para descargar los costos de la aplicación de fuerza a sus víctimas *. Los gobiernos crecen infinitamente porque pueden pagarle a los recaudadores de impuestos una parte de los impuestos que recaudan. Los esclavos se ven obligados a pagar los costos de su esclavización.
 
-En una sociedad voluntaria, no habría impuestos, y por lo tanto cualquier grupo que desee obtener el poder monopólico tendría que financiar su propio ejército, lo que nunca podría ser económicamente factible o rentable. [^11]
+En una sociedad voluntaria, no habría impuestos, y por lo tanto cualquier grupo que desee obtener el poder monopólico tendría que financiar su propio ejército, lo que nunca podría ser económicamente factible o rentable.[^11]
 
 Es muy difícil entender la lógica y la inteligencia del argumento de que, para protegernos de un grupo que * podría * superarnos, deberíamos apoyar a un grupo que * ya * nos venció. Es similar al argumento estatista sobre los monopolios privados: que los ciudadanos deberían crear un monopolio gubernamental porque temen a los monopolios privados. No se necesita una gran visión para ver a través de esas tonterías.
 

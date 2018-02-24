@@ -20,7 +20,7 @@ Onimo iwa-rere kankan, ti o ba tera mo oran dida lasan ju awon oran ti won ma n 
 
 Awon odaran ikoko wa daada, sugbon wo o fi bee ni ipa ti o se koko ni afiwe pelu ti awon ti o joba lori wa pelu imo iwa-rere ti o ni etan ninu. Leekan ri, nigba ti mo je omo odun mokanla, omokunrin kekere kan ji dollar melo kan lowo mi. Nigba miran, nigba ti mo ti pe omo odun merin din l'ogbon, mo gbagbe kaadi ATM mi si enu komputa, enikan ba si ji mi dollar ona ogorun melo kan ninu apo ifowopamo mi.
 
-Ni odi keji oro yii, egbelegbe dollar ti je ji-ji lodo mi nipa elo ofin iwa-rere pe "owo-ode dara ni sisan." Won ti mu mi ni tipa lati joko ni ibi okunkun birimu ti o n da opolo laamu ti awon ile-iwe ijoba fun odun merinla, nipa igbagbo pe "ile-iwe ijoba je nkan asayan iwa-rere" [^12]
+Ni odi keji oro yii, egbelegbe dollar ti je ji-ji lodo mi nipa elo ofin iwa-rere pe "owo-ode dara ni sisan." Won ti mu mi ni tipa lati joko ni ibi okunkun birimu ti o n da opolo laamu ti awon ile-iwe ijoba fun odun merinla, nipa igbagbo pe "ile-iwe ijoba je nkan asayan iwa-rere"[^12]
 
 Laisi ani-ani, omodekunrin yii (ati agba okunrin yii) ti won ji mi ni owo loo fun nkan ti won nilo tabi fun igbafe won. Ijoba ti o wa n ji owo mi nko, won n lo lati fi ni awon talaka lara ni, lati fi se onigbowo fun ogun, sanwo fun awon borokini, lati ya owo ati lati so awon omo mi di olosi - ati lati san owo-ise fun awon ti o n ji owo mi.
 

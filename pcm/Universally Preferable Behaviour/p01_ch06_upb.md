@@ -13,7 +13,7 @@ Although say we first put our mind for UPB about d side wey beauty be, we fit st
 
 Good way of behaviour na part of UPB wey dey talk about person bad behaviour wey other people dey suffer from, or when dem use gra gra body. Any talk wey prove am well or deny say force nor go dey na better behaviour talk, and na wetin dem require for better reasoning and experience wey dem fit prove.
 
-Make we look three actions wey go help take get d better difference between d way wey people dey behave and d other one wey dem dey call beauty. The first one wey we go look na wetin dem dey call irrationality, wey mean wetin nor dey reasonable, d second one na lying and d third one na murder. [^9]
+Make we look three actions wey go help take get d better difference between d way wey people dey behave and d other one wey dem dey call beauty. The first one wey we go look na wetin dem dey call irrationality, wey mean wetin nor dey reasonable, d second one na lying and d third one na murder.[^9]
 
 ### No reason or understanding
 

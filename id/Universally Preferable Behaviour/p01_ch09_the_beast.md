@@ -20,7 +20,7 @@ Setiap ahli etika, yang berfokus hanya pada kriminalitas, dan bukan kejahatan in
 
 Penjahat pribadi ada, tentu saja, *tetapi hampir tidak berdampak pada hidup kita dibandingkan dengan orang-orang yang memerintah kami berdasarkan teori moral yang salah*. Sekali, ketika aku berusia sebelas tahun, anak lain mencuri beberapa dolar dari saya. Lain waktu, ketika saya masih dua puluh enam tahun, aku meninggalkan kartu ATM saya di mesin bank, dan seseorang mencuri beberapa ratus dolar dari rekening saya.
 
-Di sisi lain, saya telah memiliki ratusan ribu dolar yang diambil dari saya dengan kekuatan melalui teori moral "perpajakan baik." Saya dipaksa untuk duduk di Gulag mental suram dan otak-menghancurkan sekolah umum untuk empat belas tahun, berdasarkan teori moral bahwa "negara pendidikan adalah suatu kebajikan." [^12]
+Di sisi lain, saya telah memiliki ratusan ribu dolar yang diambil dari saya dengan kekuatan melalui teori moral "perpajakan baik." Saya dipaksa untuk duduk di Gulag mental suram dan otak-menghancurkan sekolah umum untuk empat belas tahun, berdasarkan teori moral bahwa "negara pendidikan adalah suatu kebajikan."[^12]
 
 Anak laki-laki (dan orang) yang mencuri uang saya dan tidak diragukan lagi menggunakannya untuk beberapa kesenangan pribadi atau kebutuhan. Pemerintah yang mencuri uang saya, di sisi lain, menggunakannya untuk menindas orang miskin, untuk mendanai perang, untuk membayar orang kaya, untuk meminjam uang dan jadi memiskinkan anak-anak saya- dan untuk membayar gaji yang mencuri dari saya.
 

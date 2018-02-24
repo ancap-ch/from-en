@@ -107,7 +107,7 @@ Ponieważ prawidłowe teorie wymagają *logicznej spójności*, teoria moralna n
 
 Podobnie każda teoria moralna, która popiera gwałt, napotyka podobną sprzeczność. Gwałt *nigdy* nie będzie moralny, ponieważ każda zasada, która go zatwierdza, automatycznie zaprzecza sam sobie. Jeśli gwałt jest usprawiedliwiony na zasadzie, że "czerpanie przyjemności jest zawsze dobre", wówczas taka zasada natychmiast nie przejdzie testu logicznej konsekwencji, ponieważ gwałciciel może "czerpać przyjemność", ale jego ofiara z pewnością *nie*.[^7]
 
-Poddanie teorii moralnych metodom naukowym daje wyniki zgodne z racjonalnością, obserwacjami empirycznymi i zwykłym zdrowym rozsądkiem. Morderstwo, kradzież, podpalenie, gwałt i napaść są udowodnione jako niemoralne. [^8]
+Poddanie teorii moralnych metodom naukowym daje wyniki zgodne z racjonalnością, obserwacjami empirycznymi i zwykłym zdrowym rozsądkiem. Morderstwo, kradzież, podpalenie, gwałt i napaść są udowodnione jako niemoralne.[^8]
 
 To aid in swallowing this rather large conceptual pill, below is a table that helps equate theories of physics and biology with scientific theories of universally preferable (or moral) behaviour:
 

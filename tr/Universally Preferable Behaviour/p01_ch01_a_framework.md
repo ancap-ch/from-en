@@ -74,7 +74,7 @@ Böylelikle, objektif gerçeğe göre bir ifadenin geçerliliğini hem deneysel 
 
 Doğru o zaman iki merkez kriterle ölçülebilir:
 
-1. Doğruluğun ölçülmesi, zihnimizdeki düşüncelerin mantıkla, madde ve enerjinin gerçek dünyayla ilişkisiyle ölçülür. [^2]
+1. Doğruluğun ölçülmesi, zihnimizdeki düşüncelerin mantıkla, madde ve enerjinin gerçek dünyayla ilişkisiyle ölçülür.[^2]
 2. Gerçek, aynı zamanda zihnimizdeki fikirler, doğa, maddenin davranışı ve gerçek dünyadaki enerji arasındaki ilişkiyi ölçmektir
 
 İlk kriter fikirlerin sürekliliğinin bir ölçüsüdür - ve bu süreklilik, gerçeklik kendisi içinde sürekli olduğu için bir gerekliliktir. Eğer "varlığım aslında yoktur" dersem bu bir fikrin kendisiyle bağdaşmadığını gösterir, sonuçta var olduğum için bu cümleyi kurabiliyorum. İkinci kriter, nesnel gerçekliğin deneysel gözlemlerine göre fikirlerin doğruluğunun ölçüsüdür.

@@ -64,7 +64,7 @@ Mais uma vez, a estrutura do UPB vem para o resgate.
 
 Uma APA é uma *regra não coercitiva que pode ser racionalmente aplicada por ambas as partes simultaneamente*.
 
-Por exemplo, se minha APA é: "ser pontual," então isso pode ser um padrão universal que pode ser totalmente evitado. Eu não posso forçar está APA em você porque você não precisa ser meu amigo, você não precisa ser pontual, você nãos precisa respeitar ou seguir minhas preferências em qualquer aspecto. [^1]
+Por exemplo, se minha APA é: "ser pontual," então isso pode ser um padrão universal que pode ser totalmente evitado. Eu não posso forçar está APA em você porque você não precisa ser meu amigo, você não precisa ser pontual, você nãos precisa respeitar ou seguir minhas preferências em qualquer aspecto.[^1]
 
 Se "ser pontual" é uma APA, então é possível para duas pessoas alcança-la simultaneamente - se eles chegam ambos na hora certa.
 

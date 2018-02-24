@@ -48,7 +48,7 @@ Dalam etika argumen, jika saya bertanya apakah aku akan mencuri sebuah apel dari
 4. Dengan demikian kelangsungan hidup lebih universal disukai untuk hak milik.
 5. Jadi apa yang baik bagi individu yang adalah standar moral tertinggi.
 
-Ini telah digunakan sebagai dasar untuk sejumlah teori dan pendekatan etis, dari Nietzsche sampai Rand. Preferensi setiap individu untuk bertahan hidup ini diterjemahkan ke dalam teori-teori etika yang menempatkan kelangsungan hidup individu di pusat mereka. [^11]
+Ini telah digunakan sebagai dasar untuk sejumlah teori dan pendekatan etis, dari Nietzsche sampai Rand. Preferensi setiap individu untuk bertahan hidup ini diterjemahkan ke dalam teori-teori etika yang menempatkan kelangsungan hidup individu di pusat mereka.[^11]
 
 "Biologis hedonisme" semacam ini bisa menjadi gambaran tentang "drive untuk bertahan hidup", tapi itu benar sejauh ini menggambarkan apa yang orang benar-benar *lakukan*, bukan apa yang mereka *harus* lakukan.
 

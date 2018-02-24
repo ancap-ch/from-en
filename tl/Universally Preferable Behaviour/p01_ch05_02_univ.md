@@ -107,7 +107,7 @@ Dahil ang mga wastong teorya ay nangangailangan ng *lohikal na pagkakapare-pareh
 
 Katulad nito, ang anumang teoriyang moral na nagtataguyod ng panggagahasa ay magkakaroon ng katulad na kontradiksyon. Ang panggagahasa ay maaaring *hindi* kailanman maging moral, sapagkat ang anumang prinsipyo na sumasang-ayon ito ay awtomatikong nagsasalungat sa sarili nito. Kung ang panggagahasa ay makatwiran sa prinsipyo na ang "kasiya-siya ay laging mabuti," ang gayong prinsipyo ay kaagad na nabigo sa pagsubok ng lohikal na pagkakapare-pareho, dahil ang rapist ay maaaring "kasiya-siya," ngunit ang kanyang biktima ay tiyak na hindi*. ]
 
-Kaya ang pagsasagawa ng mga moral na teorya sa pang-agham na pamamaraan ay gumagawa ng mga resulta na sumusunod sa pagkamaykatwiran, mga obserbasyon sa empirical at simpleng karaniwang kahulugan. Ang pagpatay, pagnanakaw, pagsunog, panggagahasa at pagsalakay ay napatunayang imoral. [^ 8]
+Kaya ang pagsasagawa ng mga moral na teorya sa pang-agham na pamamaraan ay gumagawa ng mga resulta na sumusunod sa pagkamaykatwiran, mga obserbasyon sa empirical at simpleng karaniwang kahulugan. Ang pagpatay, pagnanakaw, pagsunog, panggagahasa at pagsalakay ay napatunayang imoral.[^8]
 
 Upang makatulong sa paglunok na ito sa halip na malaking haka-haka na tableta, sa ibaba ay isang talahanayan na tumutulong sa equate teorya ng pisika at biology sa mga pang-agham teorya ng universally preferable (o moral) na pag-uugali:
 
