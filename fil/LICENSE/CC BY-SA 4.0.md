@@ -68,9 +68,9 @@ a. ***License grant.***
     
     C. **Walang downstream na mga limitasyon.** Ikaw ay hindi maaaring mag alok o magpataw ng kahit anong dagdag o magkaibang mga termino o mga kondisyon sa, o i-apply ang kahit anong Epektibong Sukat sa Teknolohikal para sa, ang Materyal na Lisensya kung gawain sa mga paghigpit ang karapatan ng pagsasanay sa Lisensyadong karapatan mula sa kahit anong tatanggap ng Lisensyadong Materyal.
 
-6. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+6. **Walang pag-endorso.** Wala sa kahit anong Pampublikong Lisensya ang magtatag o pakahulugan bilang permiso para sa magsaysay o ipahiwatig na ikaw ay, o na ikaw ay gumagamit ng Lisensyadong Materyal ay, Konektado sa, o magtaguyod, pagtibayin o ipagkaloob sa opisyal na estado mula sa, Lisensyado o ibang itinalaga para makatanggap ng pagpapalagay bilang ibinigay sa Seksyon 3(a)(1)(A)(i).
 
-b. ***Other rights.***
+b. ***Ibang karapatan.***
 
 1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
 
