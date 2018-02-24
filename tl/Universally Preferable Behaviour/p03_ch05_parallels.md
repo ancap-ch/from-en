@@ -6,7 +6,7 @@ Ang mga ideya na ang kalikasan ay isang sariling-likha at sarili-nag tutukod ng 
 
 Sa harap ng siyensiya, sa sentro ng bawat mahihirap unawain ang sistema ng paraang itatatag ng isang banal na kamalayan - wala na ang kung saang sistemang ito ay mapunta sa malaking gulo, at pagtigil na.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Sa kasamaang palad, itong "mabait na kamalayan"ay isa lamang maling akala, para mailagay ito sa pinaka-mapagkawanggawa. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
 
 We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
 
