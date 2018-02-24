@@ -122,7 +122,7 @@ Nang si Bob ay mag-almusal, hindi pa rin nya pwede atakihin ang kanyang kapitbah
 
 Kataka-taka, ito ang natatangi niyang katangian na lubos na binabaliktad ang sarili. Hindi niya kayang lumipad, hindi niya kayang baguhin ang kanyang hugis, hindi niya kayang matagumpay na maunawaan ang mga bol bering o mamuhay sa impyerno; hindi niya kayang tumakbo ng isang kilometro kada oras, at mas lalong hindi siya makakalakad sa isang konkretong pader. Siya ay absolut, lubos, at kompletong *ang parehas na lalaki nung siya ay ** bago** nag-panch* _ gayonpaman ngayon, siya ay nasasaklaw ng buong salungatang moral na tuntunin.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Mas lalong kataka-taka, kung ako ay isang hindi "pulis", at aking sundan si Bob sa kanyang trabaho, at gawin ang eksakto nilang ginagawa - Ako ay nagsuot ng kostyum, naglakad sa istasyon ng pulis, at dalhin ang kaperasong karton tungong panch-orasan - bakit, kung gawin ko ang eksaktong ginagawa ni Bob, ako ay kumpleto at buong-buong imoral, kahit na ang magkakahawig na aksyon ay kumpleto at buong -buong *moral*.
 
 What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
 
