@@ -122,7 +122,7 @@ Kung saan ang Karapatan sa Lisensya kasama ang Sui Generis Database Rights na i-
 
 a. para sa pagiwas sa pagaalinlangan, Seksyon 2(a)(1) ipagkakaloob sayo ang karapatan na kunin, gamitin muli, magparami, at ibahagi ang lahat matibay na bahagi ng mga nilalaman sa database;
 
-b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and
+b. kung isasama mo lahat ng matibay na bahagi ng nilalaman ng database kung saan mayroon kang Sui Generis Database Rights, pagkatapos ng database kung saan mayroon Sui Generis Database Rights (ngunit hindi indibidwal na mga nilalaman) na Halaw sa Materyal, kasama ang mga layunin sa Seksyon 3(b); at
 
 c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
 
