@@ -55,7 +55,7 @@ Mana, fa enweghi ike ida
 
 Iwu Ana
 
-1. Ife di omimi mmadu si n’oma, kwesiri k’onwe ife og’egosi uwa. Mgbe ebidorom agbadagba oru ah – ebe anam ede akwukwo di ntakiri ona enye ngo owem,iwu, nke masiri ka’unu guo. [^1]
+1. Ife di omimi mmadu si n’oma, kwesiri k’onwe ife og’egosi uwa. Mgbe ebidorom agbadagba oru ah – ebe anam ede akwukwo di ntakiri ona enye ngo owem,iwu, nke masiri ka’unu guo.[^1]
 Anabataram otu ndi mmadu si a “bu” dicha iche na “k’ome”. Ako dimkpa enweghi ike iyoputa n’ime ndu ihe obuna. Ebe mmadu ncha choro I bi n’uwa, we ike ikpa nkata k’odimma, enwe ghi ike ibu ihe mkpa n’iwu. Ufodu ndi mmadu, achoro ibi n’uwa, kama fa a juo ife digasi, ife anam akowa bu n’iwu bu ife mgbe.
 
 2. Iwu enweghi ike ikowa n’obu “ife dimma mak’igafe onwu mmadu” – Otutu ndi mmadu, wenre ike igafe onwu ofunma site na mmegbu ndi ozo, akuko ah gbasara iwu enweghi ike imeri nsogbu di n’boyi. N’nkowa biology, ife ah ga-abu ife di ario n’ebe nkowa “ihe dimma maka ndu” – ife ah aman nwe isi. Uwa obibi bu otu fa si a gu nke onwe fa, otu mmiri njo bu, na gini dimma ka ofu nwoke na-abia igbu ibeya.
@@ -74,7 +74,7 @@ Anabataram otu ndi mmadu si a “bu” dicha iche na “k’ome”. Ako dimkpa e
 
 9. Njedebe okwu m bu na okwu obuna – okwu gbasara iwu – mere ife oma, oburu na okwere n’ife onye obuna mara n’isi. Ejirom afo m n’aru oru n’enu iwu ka m n’eti mkpu “na igbu mmadu di njo”.Otu m ji we fu, nke kachamma bu ndi ahu kwere n’obu eziokwu anyi ncha mara ofuma – anyi ejizie iwu ahu we puta eziokwu wenre ike Ikowa ya.
 
-Ebe m ji afor garaga n’akwado, inu Agu ah ogu.Enwerem nchekube na enwetagom owem ako. Ekwerem n’aputagom k’onye mmeri – mana oburo – mana Achorom ifu onye kwere n’edemede m. [^2]
+Ebe m ji afor garaga n’akwado, inu Agu ah ogu.Enwerem nchekube na enwetagom owem ako. Ekwerem n’aputagom k’onye mmeri – mana oburo – mana Achorom ifu onye kwere n’edemede m.[^2]
 
 Agurum akuko mgbochie maka ife mmadu che n’igucha uno akwukwo, mana enwerom degiri na ya. Adim ntiri n’etiti ndi guru akwukwo.
 

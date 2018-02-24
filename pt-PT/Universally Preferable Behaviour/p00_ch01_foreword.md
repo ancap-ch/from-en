@@ -56,7 +56,7 @@ Ainda assim, não *inteiramente* zero.
 
 ### Regras básicas
 
-As reivindicações extraordinárias requerem provas extraordinárias. Ao assumir esta tarefa gigantesca - particularmente num livro tão pequeno - estabeleci algumas regras básicas para mim próprio, que vale a pena passar para aqui. [^1]
+As reivindicações extraordinárias requerem provas extraordinárias. Ao assumir esta tarefa gigantesca - particularmente num livro tão pequeno - estabeleci algumas regras básicas para mim próprio, que vale a pena passar para aqui.[^1]
 
 1. Aceito plenamente a distinção Humean entre "é" e "deveria". As regras morais válidas não podem ser directamente derivadas da existência de qualquer coisa na realidade. O facto de que os seres humanos em geral *preferem* viver, e na realidade devem interagir com sucesso para o fazer, não pode ser a base para qualquer teoria válida da ética. Algumas pessoas claramente não preferem viver e rejeitam firmemente a realidade, por isso, essa definição de ética permanece subjectiva e condicional.
 2. A ética não pode ser definida objectivamente como "o que é bom para a sobrevivência do homem". Alguns indivíduos podem muito bem sobreviver, atacando os outros, por isso essa definição de ética não supera o problema do subjectivismo. Em termos biológicos, isso seria análogo à descrição de tendências evolutivas como "o que é bom para a * sobrevivência da vida *", isso não faz sentido. A sociedade humana é um ecossistema de interesses concorrentes, assim como o é a floresta e o que é "bom" para um homem, com frequência vem em detrimento de outro.

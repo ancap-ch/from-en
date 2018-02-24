@@ -2,7 +2,7 @@
 
 Uma vez que a violência do governo é intelectualmente exposta – e o suposto "voluntarismo" dos cidadãos é revelado como uma fraude viciosa – o argumento sempre se volta para o fato de que nós *precisamos* do governo para nos fornecer bens públicos tais como a proteção, defesa regional, estradas etc.
 
-Eu tenho escrito dezenas de artigos expondo a falsidade desta posição, então eu não me incomodo em reiterar os argumentos aqui, mesmo que eles não sejam essenciais para um livro sobre moral, e seriam mais apropriados para um livro explicando os princípios e aspectos práticos de uma sociedade voluntária. [^4]
+Eu tenho escrito dezenas de artigos expondo a falsidade desta posição, então eu não me incomodo em reiterar os argumentos aqui, mesmo que eles não sejam essenciais para um livro sobre moral, e seriam mais apropriados para um livro explicando os princípios e aspectos práticos de uma sociedade voluntária.[^4]
 
 O "argumento da praticidade" em nenhuma maneira resolve o problema da violência. Se eu ver você comendo hambúrgueres todos os dias, posso dizer-te que é impraticável para você fazê-lo, se você quiser manter um peso saudável. Não posso dizer que é *mal* para você comer cheeseburgers, por razões que nós já exploramos. Eu não posso compelir você de maneira justa através da força para aumentar a "praticidade" de suas ações.
 
@@ -36,14 +36,14 @@ Em primeiro lugar, a "vontade" é um aspecto do indivíduo, enquanto a "maioria"
 
 Duas objeções adicionais a serem constantemente repetidas sempre que surge a questão da necessidade de um governo. A primeira é que uma sociedade livre só é possível se as pessoas estão perfeitamente boas ou racionais – em outras palavras, que os cidadãos *precisa de* um governo centralizado porque há gente má no mundo.
 
-O primeiro e mais óbvio problema com esta posição é que se existem pessoas más na sociedade, também existem dentro do governo – sendo muito mais perigosas desse modo. Os cidadãos podem proteger-se contra os indivíduos maus, mas não tem nenhuma chance contra um governo agressivo, armado até aos dentes e com policiais e militares. Assim, o argumento de que precisamos do governo, porque existem pessoas más é falso. Se existem pessoas más, o governo *deve* ser desmontado, pois pessoas más serão levadas a usar seu poder para seus próprios fins – e, ao contrário de bandidos privados, pessoas más no governo tem a polícia e os militares para infligir aos seus caprichos uma indefesa (e relativamente desarmada) população. Assim, o argumento é parecido com a ideia de que "os falsificadores são muito perigosos, portanto nós devemos fornecer um monopólio exclusivo sobre falsificação a um pequeno grupo de indivíduos." Onde na terra as pessoas acham que os falsificadores vão primeiro? [^5]
+O primeiro e mais óbvio problema com esta posição é que se existem pessoas más na sociedade, também existem dentro do governo – sendo muito mais perigosas desse modo. Os cidadãos podem proteger-se contra os indivíduos maus, mas não tem nenhuma chance contra um governo agressivo, armado até aos dentes e com policiais e militares. Assim, o argumento de que precisamos do governo, porque existem pessoas más é falso. Se existem pessoas más, o governo *deve* ser desmontado, pois pessoas más serão levadas a usar seu poder para seus próprios fins – e, ao contrário de bandidos privados, pessoas más no governo tem a polícia e os militares para infligir aos seus caprichos uma indefesa (e relativamente desarmada) população. Assim, o argumento é parecido com a ideia de que "os falsificadores são muito perigosos, portanto nós devemos fornecer um monopólio exclusivo sobre falsificação a um pequeno grupo de indivíduos." Onde na terra as pessoas acham que os falsificadores vão primeiro?[^5]
 
 Logicamente, existem quatro possibilidades quanto a mistura de pessoas boas e más no mundo:
 
 1. Todos os homens são morais.
 2. Todos os homens são imorais.
 3. A maioria dos homens é imorais e uma minoria é moral.
-4. A maioria dos homens são morais e uma minoria imoral. [^6]
+4. A maioria dos homens são morais e uma minoria imoral.[^6]
 
 No primeiro caso (de *todos os homens são morais*), o governo obviamente não é necessário, já que o mal não existe.
 
@@ -57,9 +57,9 @@ A terceira possibilidade é que *a maioria das* pessoas são más e apenas algum
 
 Pessoas boas não agem moralmente porque têm medo de retaliação, mas porque eles amam a virtude e a paz de espírito – e assim, ao contrário de pessoas más, eles têm pouco a ganhar controlando o governo. Nesse cenário, então, o governo será inevitavelmente controlado por uma maioria de pessoas más que dominará a todos, prejudicando todas as pessoas morais.
 
-A quarta opção é que a maioria das pessoas são boas, e apenas algumas são más. Esta possibilidade está sujeita aos mesmos problemas descritos acima, já que pessoas más sempre vão querer ganhar o controle sobre o governo, a fim de proteger-se da retaliação pelos seus crimes. Esta opção só muda a *aparência* da democracia: porque a maioria das pessoas são boas, sedentos por poder maldosos devem mentir para eles, a fim de ganhar o poder e então, depois de atingir o cargo público, vão imediatamente quebrar a confiança e vão perseguir suas próprias agendas corruptas, impondo suas vontades através da polícia e dos militares. [^7] Assim o governo continua a ser o maior prêmio para os homens mais malvados, que rapidamente vão ganhar controle sobre seu incrível poder – em detrimento de todas as almas boas – e assim o governo não pode vir a existir neste cenário também.
+A quarta opção é que a maioria das pessoas são boas, e apenas algumas são más. Esta possibilidade está sujeita aos mesmos problemas descritos acima, já que pessoas más sempre vão querer ganhar o controle sobre o governo, a fim de proteger-se da retaliação pelos seus crimes. Esta opção só muda a *aparência* da democracia: porque a maioria das pessoas são boas, sedentos por poder maldosos devem mentir para eles, a fim de ganhar o poder e então, depois de atingir o cargo público, vão imediatamente quebrar a confiança e vão perseguir suas próprias agendas corruptas, impondo suas vontades através da polícia e dos militares.[^7] Assim o governo continua a ser o maior prêmio para os homens mais malvados, que rapidamente vão ganhar controle sobre seu incrível poder – em detrimento de todas as almas boas – e assim o governo não pode vir a existir neste cenário também.
 
-Então, é claro, que não existe situação em que um governo pode logicamente ou moralmente ser autorizado a existir. A única justificativa possível para a existência de um governo seria se a maioria dos homens fossem maus, mas todo o poder do governo sempre fosse controlado por uma minoria de homens bons. [^8]
+Então, é claro, que não existe situação em que um governo pode logicamente ou moralmente ser autorizado a existir. A única justificativa possível para a existência de um governo seria se a maioria dos homens fossem maus, mas todo o poder do governo sempre fosse controlado por uma minoria de homens bons.[^8]
 
 Essa situação, mesmo que interessante teoricamente, decompõe logicamente porque:
 
@@ -67,7 +67,7 @@ Essa situação, mesmo que interessante teoricamente, decompõe logicamente porq
 2. Não há nenhuma maneira de garantir que somente pessoas boas sempre conduziriam governo; e,
 3. Não há absolutamente nenhum exemplo disto acontecer em qualquer um dos anais brutais da história do Estado.
 
-O erro lógico sempre feito em defesa do governo é imaginar que qualquer julgamento moral coletivo sendo aplicado para qualquer grupo de pessoas *também não está sendo aplicado para o grupo que reina sobre eles*. Se cinquenta por cento das pessoas são más, então *pelo menos* cinquenta por cento de pessoas governando sobre eles também são do mal. [^9] Assim, a existência do mal nunca pode justificar a existência de um governo.
+O erro lógico sempre feito em defesa do governo é imaginar que qualquer julgamento moral coletivo sendo aplicado para qualquer grupo de pessoas *também não está sendo aplicado para o grupo que reina sobre eles*. Se cinquenta por cento das pessoas são más, então *pelo menos* cinquenta por cento de pessoas governando sobre eles também são do mal.[^9] Assim, a existência do mal nunca pode justificar a existência de um governo.
 
 Se não há nenhum mal, os governos são desnecessários. Se existe o mal, os governos são demasiado perigosos para serem autorizados a existir.
 
@@ -77,7 +77,7 @@ Há uma série de razões, que só pode ser tocadas aqui. A primeira é que o go
 
 A segunda é que o governo nunca ensina as crianças sobre a raiz do seu poder – violência – mas em vez disso, finge que é apenas mais uma instituição social, como um negócio ou uma igreja ou uma instituição de caridade, mas mais moral.
 
-A terceira é que a prevalência da religião e propaganda sempre cegou os homens dos maus do governo - é por isso que os legisladores sempre estiveram tão interessados em promover os interesses das igrejas e da educação estatal. Nessa visão religiosa de mundo, poder absoluto é sinônimo de virtude perfeita, em forma de uma deidade. No mundo político real dos homens, no entanto, aumentar o poder sempre significa aumentar o mau. Com a religião, também, tudo que acontece tem que ser para o bem - assim, lutar contra a invasão de poder político é lutar contra a vontade da deidade. Há muitas mais razões, é claro, mas estas estão entre as mais profundas. [^10]
+A terceira é que a prevalência da religião e propaganda sempre cegou os homens dos maus do governo - é por isso que os legisladores sempre estiveram tão interessados em promover os interesses das igrejas e da educação estatal. Nessa visão religiosa de mundo, poder absoluto é sinônimo de virtude perfeita, em forma de uma deidade. No mundo político real dos homens, no entanto, aumentar o poder sempre significa aumentar o mau. Com a religião, também, tudo que acontece tem que ser para o bem - assim, lutar contra a invasão de poder político é lutar contra a vontade da deidade. Há muitas mais razões, é claro, mas estas estão entre as mais profundas.[^10]
 
 No início desta seção, eu mencionei que as pessoas geralmente cometem *dois* erros quando confrontadas com a ideia de dissolver o governo. A primeira é a crença de que os governos são necessários porque existem pessoas más. O segundo é a crença de que, na ausência de governos, qualquer instituições sociais que surgem inevitavelmente terão o lugar dos governos. Assim, as organizações de resolução de litígios (DROs), companhias de seguros e as forças de segurança privada são todas considerados potenciais cancros que vão inchar e sobrecarregar o corpo político.
 
@@ -85,7 +85,7 @@ Esta visão surge do mesmo erro descrito acima. Se *todas* as instituições soc
 
 A única maneira que instituições sociais podem se transformar em monopólios violentos é *para aliviar os custos de coerção em direção a suas vítimas*. Os governos crescem infinitamente, porque eles podem pagar os cobradores de impostos com uma parte dos impostos que recolhem. Os escravos, portanto, são obrigados a pagar os custos de sua escravização.
 
-Em uma sociedade voluntária, não haveria nenhuma tributação, e, assim, qualquer grupo que desejam ganhar poder monopolista teria de financiar o seu exército em si, que nunca seria economicamente viável ou rentável. [^11]
+Em uma sociedade voluntária, não haveria nenhuma tributação, e, assim, qualquer grupo que desejam ganhar poder monopolista teria de financiar o seu exército em si, que nunca seria economicamente viável ou rentável.[^11]
 
 É muito difícil de entender a lógica e a inteligência do argumento que, a fim de proteger-nos de um grupo que *pode* nos dominar, devemos apoiar um grupo que *já* nos dominou. É semelhante ao argumento estatista sobre monopólios privados – que os cidadãos devem criar um monopólio governamental, porque eles têm medo de monopólios privados. Não é preciso uma visão perspicaz para ver através de tal absurdo.
 

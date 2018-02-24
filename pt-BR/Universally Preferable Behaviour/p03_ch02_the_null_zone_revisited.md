@@ -42,7 +42,7 @@ Em geral, a maneira que as pessoas usam para tentar "salvar" suas crenças antie
 
 Se eu disser: "existe um círculo quadrado," Eu estou afirmando o que é claramente impossível dentro deste universo. Assim, se quero manter a minha crença, eu devo inventar algum outro universo, ou Reino "fora" deste universo onde pode existir um círculo quadrado.
 
-Se eu inventar um reino onde auto-contradição é igual a verdade, então posso afirmar que aqueles que dizem que um círculo quadrado *não* existe são intolerantes e prejudiciais, porque eles estão eliminando possibilidades do que *poderia* ser verdade. [^1]
+Se eu inventar um reino onde auto-contradição é igual a verdade, então posso afirmar que aqueles que dizem que um círculo quadrado *não* existe são intolerantes e prejudiciais, porque eles estão eliminando possibilidades do que *poderia* ser verdade.[^1]
 
 No que diz respeito a esta "zona nula", existem apenas duas possibilidades. Esta *zona nula* existe de forma completamente independente de nosso universo e nunca será mensurável, detectável ou descobrível de qualquer maneira, forma ou formato – ou, em algum momento, seremos capazes de detectar e interagir com esta terra mágica onde auto-contradição é igual a verdade.
 

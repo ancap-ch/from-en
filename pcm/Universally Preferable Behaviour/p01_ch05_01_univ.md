@@ -20,7 +20,7 @@ Wetin this thing be like for practice? All we need to do na to establish the fol
 - Moral rules must dey consistent for all mankind.
 - The validity of any moral theory go dey judged by e consistency.
 To start from the first first beginning… moral values – or human behaviors wey dey universally preferable – dey valid at all?
-Na only two possibilities dey if we come to moral rules, just as logical science tey dey. Either universal moral rules dey valid, or dem nor dey. [^6]
+Na only two possibilities dey if we come to moral rules, just as logical science tey dey. Either universal moral rules dey valid, or dem nor dey.[^6]
 A rule go fit dey valid if e *exist empirically*, like gravity, or because na *true*, like the equation wey be two plus two na four.
 We go then ask this kind question first: moral rules dey exist at all?
 Certainly no be for material reality, wey no contain or obey even single moral value. Moral rules different from the rules of physics, just as scientific method tey different from gravity. Matter naturally dey obey gravity or the second law of thermodynamics, but “thou shalt not murder” no dey anywhere for the nature of things. Physics laws dey “describe” the behavior wey matter get, but e no contain single *prescription*. Science talk say matter *dey* behave for one kind manner – and no be say e *gp* behave for one kind manner. A theory of gravity prove say if you push one man comot for cliff, e go fall. E nor go talk whether *make you* push am or not. 
@@ -38,4 +38,4 @@ The first question wey concern moral rules na: *wetin* dem be?
 Make we simply put say *morals* na the set of rules wey dey claim to accurately and consistently dey identify human behavior wey dem prefer universally, just as *physics* na set of rules wey dey claim to accurately and consistently identify the behavior wey matter get universally.
 The second question wey dem go ask na: e get any such thing as “universally preferable behavior” at all?
 If e dey, we go begin dey look which kind behavior e go be. If not, then our examination go stop for here – just as the examination of Ptolemaic astronomy tay stop after dem accept am commonly say the sun na really the centre of the solar system.
- [^6]: For physics, the question na: either universal physical rules dey valid, or dem nor dey.
+[^6]: For physics, the question na: either universal physical rules dey valid, or dem nor dey.

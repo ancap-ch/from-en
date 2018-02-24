@@ -2,7 +2,7 @@
 
 Once dem expose the violence wey dey inside government intellectually – and the “voluntarism” of citizens wey we be dey assume before go come dey revealed as fraud wey dey clear – the argument dey always come back say we *need* make government dey supply us with goods wey suppose dey public like protection, defence wey dey regional, roads etc.
 
-I don write dozens of article wey dey expose the lie lie of this position, so I nor go bother to dey talk all those arguments again for here, since dem nor dey essential to the book wey concern morality, but instead, e go dey more appropriate for the book wey dey explain the principles and practicalities of society wey dey voluntary. [^4]
+I don write dozens of article wey dey expose the lie lie of this position, so I nor go bother to dey talk all those arguments again for here, since dem nor dey essential to the book wey concern morality, but instead, e go dey more appropriate for the book wey dey explain the principles and practicalities of society wey dey voluntary.[^4]
 
 The “argument from practicality” no in any way dey solve the problems wey concern violence. If I see you dey chop cheeseburgers everyday, I fit tell you say e nor dey practical make you dey do like that, if you wan maintain weight wey dey healthy. I nor fit talk say e dey *evil* for you to dey chop cheeseburgers, for reasons wey we don go into already. I nor fit with good mind come force you to increase the “practicality” wey dey concerned to your actions.
 
@@ -43,7 +43,7 @@ Logically, e get four possibilities wey dey if good and evil people for this wor
 1. All men dey moral.
 2. All men dey immoral.
 3. Men wey plenty pass dey immoral, and the ones wey nor many dey moral.
-4. Men wey plenty pass dey moral, and the ones wey nor many dey immoral. [^6]
+4. Men wey plenty pass dey moral, and the ones wey nor many dey immoral.[^6]
 
 For the first case (*all men dey moral*), e clear say dem nor need the government at all, since evil nor fit exist.
 

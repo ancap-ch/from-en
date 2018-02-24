@@ -2,7 +2,7 @@
 
 Setelah kekerasan dari pemerintah intelektual terkena-dan "voluntarism" seharusnya warga dinyatakan sebagai penipuan setan-argumen selalu datang kembali bahwa kita *perlu* pemerintah untuk memasok kami dengan barang-barang yang umum seperti perlindungan, pertahanan regional, jalan dll.
 
-Saya telah menulis puluhan artikel mengekspos kepalsuan posisi ini, jadi saya tidak akan repot-repot untuk mengulangi argumen di sini, karena itu tidak penting untuk sebuah buku tentang moral, tetapi sebaliknya akan lebih tepat untuk sebuah buku yang menjelaskan prinsip dan praktis masyarakat sukarela. [^4]
+Saya telah menulis puluhan artikel mengekspos kepalsuan posisi ini, jadi saya tidak akan repot-repot untuk mengulangi argumen di sini, karena itu tidak penting untuk sebuah buku tentang moral, tetapi sebaliknya akan lebih tepat untuk sebuah buku yang menjelaskan prinsip dan praktis masyarakat sukarela.[^4]
 
 "Argumen dari kepraktisan" dalam ada cara memecahkan masalah kekerasan. Jika saya melihat Anda makan burger keju setiap hari, saya dapat memberitahu Anda bahwa itu tidak praktis bagi Anda untuk melakukannya, jika Anda ingin mempertahankan berat badan yang sehat. Saya tidak bisa mengklaim itu adalah *kejahatan* bagi anda untuk makan burger keju, karena alasan itu sudah kita hadapi. Saya tidak memaksa Anda melalui kekuatan untuk meningkatkan "kepraktisan" tindakan Anda.
 
@@ -36,7 +36,7 @@ Pertama-tama, "akan" merupakan aspek individu, sementara "sebagian" tag konseptu
 
 Dua tambahan keberatan ini terus-menerus kambuh setiap kali pertanyaan tentang perlunya pemerintahan yang muncul. Yang pertama adalah bahwa masyarakat bebas adalah mungkin jika orang sempurna baik atau rasional-lain kata, bahwa warga negara *perlu* terpusat pemerintah karena ada orang-orang jahat di dunia.
 
-Masalah pertama dan paling jelas dengan posisi ini adalah bahwa jika orang-orang jahat yang ada dalam masyarakat, mereka juga akan ada dalam pemerintahan – dan menjadi jauh lebih berbahaya sehingga. Warga dapat melindungi diri terhadap orang-orang jahat, tetapi mungkin berdiri kesempatan terhadap pemerintah agresif bersenjata dengan polisi dan militer. Dengan demikian argumen bahwa kita perlu pemerintah karena ada orang-orang jahat palsu. Jika ada orang-orang jahat, pemerintah *harus* dibongkar, karena orang-orang jahat akan ditarik untuk menggunakan kekuatannya untuk tujuan mereka sendiri- dan, tidak seperti preman pribadi, orang-orang jahat dalam pemerintahan memiliki polisi dan militer untuk menimbulkan keinginan mereka tak berdaya (dan relatif populasi dilucuti). Dengan demikian argumen adalah sama dengan gagasan bahwa "pemalsu sangat berbahaya, sehingga kita harus memberikan monopoli eksklusif atas pemalsuan untuk sekelompok kecil orang." Mana di bumi orang berpikir para pemalsu akan pergi pertama? [^5]
+Masalah pertama dan paling jelas dengan posisi ini adalah bahwa jika orang-orang jahat yang ada dalam masyarakat, mereka juga akan ada dalam pemerintahan – dan menjadi jauh lebih berbahaya sehingga. Warga dapat melindungi diri terhadap orang-orang jahat, tetapi mungkin berdiri kesempatan terhadap pemerintah agresif bersenjata dengan polisi dan militer. Dengan demikian argumen bahwa kita perlu pemerintah karena ada orang-orang jahat palsu. Jika ada orang-orang jahat, pemerintah *harus* dibongkar, karena orang-orang jahat akan ditarik untuk menggunakan kekuatannya untuk tujuan mereka sendiri- dan, tidak seperti preman pribadi, orang-orang jahat dalam pemerintahan memiliki polisi dan militer untuk menimbulkan keinginan mereka tak berdaya (dan relatif populasi dilucuti). Dengan demikian argumen adalah sama dengan gagasan bahwa "pemalsu sangat berbahaya, sehingga kita harus memberikan monopoli eksklusif atas pemalsuan untuk sekelompok kecil orang." Mana di bumi orang berpikir para pemalsu akan pergi pertama?[^5]
 
 Logikanya, ada empat kemungkinan untuk campuran orang-orang yang baik dan jahat di dunia:
 
@@ -59,7 +59,7 @@ Orang baik tidak bertindak secara moral karena takut pembalasan, tapi karena mer
 
 Pilihan keempat adalah kebanyakan orang baik, dan hanya sedikit yang jahat. Kemungkinan ini tunduk pada masalah yang sama yang diuraikan di atas, terutama bahwa orang jahat akan selalu ingin mendapatkan kontrol atas pemerintah, untuk melindungi diri mereka dari sekadar pembalasan atas kejahatan mereka. Pilihan ini hanya mengubah *penampilan* demokrasi: karena mayoritas orang baik, pencari kekuatan jahat harus berbohong kepada mereka untuk mendapatkan kekuasaan, dan kemudian, setelah mencapai jabatan publik, akan segera menghancurkan iman dan mengejar agenda korupsi mereka sendiri, menegakkan kehendak mereka melalui polisi dan militer.[^7] Dengan demikian, pemerintah tetap menjadi hadiah terbesar bagi orang-orang paling jahat, yang dengan cepat akan mendapatkan kontrol atas kekuatannya yang mengagumkan - sehingga merugikan semua orang baik - dan oleh karena itu pemerintah juga tidak dapat diizinkan untuk hadir dalam skenario ini.
 
-Jelas, kemudian, bahwa tidak ada situasi di mana pemerintah dapat secara logis atau moral diizinkan untuk ada. Satu-satunya kemungkinan pembenaran atas keberadaan sebuah pemerintahan adalah jika mayoritas laki-laki itu jahat, tapi semua kekuasaan pemerintah selalu dikendalikan oleh sekelompok kecil orang baik. [^8]
+Jelas, kemudian, bahwa tidak ada situasi di mana pemerintah dapat secara logis atau moral diizinkan untuk ada. Satu-satunya kemungkinan pembenaran atas keberadaan sebuah pemerintahan adalah jika mayoritas laki-laki itu jahat, tapi semua kekuasaan pemerintah selalu dikendalikan oleh sekelompok kecil orang baik.[^8]
 
 Situasi ini, sementara menarik secara teoritis, memecah secara logis karena:
 
@@ -85,7 +85,7 @@ Pandangan ini muncul dari kesalahan yang sama yang diuraikan di atas. Jika *semu
 
 Satu-satunya cara agar institusi sosial dapat tumbuh menjadi monopoli kekerasan adalah *untuk menurunkan biaya penegakan hukum kepada korban mereka*. Pemerintah tumbuh tanpa henti karena mereka dapat membayar pemungut cukai dengan sebagian pajak yang mereka kumpulkan. Oleh karena itu para budak terpaksa membayar biaya perbudakan mereka.
 
-Dalam masyarakat sukarela, tidak akan ada perpajakan, dan dengan demikian setiap kelompok yang ingin memperoleh kekuasaan monopolistik harus mendanai tentaranya sendiri, yang tidak akan layak atau menguntungkan secara ekonomi. [^11]
+Dalam masyarakat sukarela, tidak akan ada perpajakan, dan dengan demikian setiap kelompok yang ingin memperoleh kekuasaan monopolistik harus mendanai tentaranya sendiri, yang tidak akan layak atau menguntungkan secara ekonomi.[^11]
 
 Sangat susah untuk dimengerti bahwa logika dan kecerdasan dari argumen bahwa, untuk melindungi kita dari kelompok yang *mungkin* bisa mengalahkan kita, kita harus mendukung sebuah kelompok yang *sudah* mengalahkan kita. Ini mirip dengan argumen statistik tentang monopoli swasta - bahwa warga negara harus menciptakan monopoli pemerintah karena mereka takut terhadap monopoli pribadi. Tidak perlu melihat tajam untuk melihat melalui omong kosong semacam itu.
 
