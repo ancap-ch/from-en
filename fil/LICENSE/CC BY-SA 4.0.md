@@ -134,7 +134,7 @@ a. **Maliban na lang kung ang magkahiwalay na isinasagawa ng tagapaglesensya, sa
 
 b. **sa posibleng lawak, sa walang kaganapan ang Tagapaglisensya ay mananagot saiyo sa kahit anong legal na teyorya ( kasama, walang limitasyon, kapabayaan) o hindi man sa kahit anong direkta, espesyal, hindi direkta, hindi sinasadya, resulta, nagpapahirap, dapat na tularan, o iba pang pagkawal, mga halaga, mga gastos, o sira manggaling sa Pampublikong Lisensya o gamit ang Lisensyadong Materyal, kahit na ang Tagalisensya na na abisuhan sa posibilidad gayon din ang mga pagkatalo, mga halaga, mga gastos, o mga sira. Kung saan ang Limitasyon sa pananagutan ay hindi pinapayagan sa buong parte, ang limitasyon na ito ay hindi ma-apply saiyo.**
 
-c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+c. Ang pagtatatwa sa mga ganrantiya at limitasyon ng pananagutan na inilaan sa taas ay kinakailangan na ipakahulugan sa tamang ugali. sa posibleng lawak, karamihan sa pinakamalapit halos pumantay sa ganap na pagtatatwa at pananagutan sa lahat ng pagwawaksi.
 
 ### Section 6 – Term and Termination.
 
