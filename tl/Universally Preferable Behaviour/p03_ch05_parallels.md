@@ -22,7 +22,7 @@ Ang palagay ng mga "kusang loob na humihingi,"na kung saan napatunayan na mahusa
 
 Ganunpaman, ang "gobyerno" ay hindi kaylangan para sa samahan at ipagpatuloy ng lipunan kaysa"mga diyos" ay kailangan para narin sa samahan at ipagpapatuloy ng sandaigdig.
 
-Sa katotohanan, katulad ng mga pananampalataya na makahadlang sa kaunlaran ng siyensiya, kaya naman ang mga gubyerno ay nakagagambala sa kaunlaran ng samahan. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+Sa katotohanan, katulad ng mga pananampalataya na makahadlang sa kaunlaran ng siyensiya, kaya naman ang mga gubyerno ay nakagagambala sa kaunlaran ng samahan. Katulad ng mga naisasaisip ng*nananampalataya* ang dahilan ng pagkamatay ng daan-daan at milyun-milyong mga tao sa buong kasaysayan, kaya mayroong mga maling-inaakala ang *pamahalaan*.
 
 Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
 
