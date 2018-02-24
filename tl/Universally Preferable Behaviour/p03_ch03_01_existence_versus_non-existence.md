@@ -72,7 +72,7 @@ Ito ay nagbubunsod sa isang nakagigiliw na punto, kung saan ang katanugan ay kun
 
 ### Opinyon at Reyalidad
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Malinaw, aming naiintindihan na hindi sa pamamagitan ng aking paglabas ng opinyon ay mag-aalis naman sa inyo mga pagpipigil ng grabidad, anumang higit pa sa aking opinyon na ang "dalawa dagdagan ng dalawa katumbas ay lima" ay tama.
 
 “Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
 
