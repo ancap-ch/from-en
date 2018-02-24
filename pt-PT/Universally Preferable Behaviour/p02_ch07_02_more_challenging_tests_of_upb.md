@@ -14,11 +14,11 @@ Parece tonto argumentar que posso - mas por quê?
 
 Existem alguns limites objectivos à universalidade desta doutrina. Por exemplo, algumas pessoas podem não ter acesso ao peixe - digamos, que podem viver num deserto - enquanto que outros vivem nas margens de um lago repleto de peixes e acham difícil ou impossível sobreviver sem comê-los. Contudo, isso pode não ser suficiente, uma vez que já aceitamos o facto de que a incapacidade de um eunuco para violar, não invalida a proposição moral "é mau violar"
 
-No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
+Não, o "arenque vermelho" na proposição moral "É mau comer peixe" é a palavra "*peixe*"
 
-A scientist cannot validly say that his theory of gravity only applies to pink rocks. Since his theory involves gravity, it must apply to *all* entities that have mass.
+Um cientista não pode dizer, com validade, que a sua teoria da gravidade aplica-se apenas às rochas cor de rosa. Como a sua teoria envolve a gravidade, ela deve aplicar-se a *todas* as entidades que possuam massa.
 
-Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
+Do mesmo modo, no exemplo anterior, o CUP aceita apenas o *acto* de comer e rejeita *o que* está a ser comido, pois o que está a ser ingerido não é uma *acção*, mas sim o que está a ser feito.
 
 In the same way, an ethicist cannot validly put forward the moral proposition: “It is evil to rape the *elderly*.” “Rape” is the behaviour; whether the victim is elderly or not is irrelevant to the moral proposition, since as long as the victim is human, the requirement for universality remains constant. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
 
