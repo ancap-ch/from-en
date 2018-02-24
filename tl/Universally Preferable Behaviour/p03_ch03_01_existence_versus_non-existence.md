@@ -110,15 +110,15 @@ Ang "sonang wala" ay ang tirahan ng halimaw na ating hinahanap.
 
 Kung ating makikita, personal nating alam na mali ang magnakaw; meron tayong kakaunting suliraning abstrak at lohikal sa pagbabawal ng pagnanakaw, gaya ng nasabi sa itaas - gayonpaman, may umiiral na "sonang wala" o alternatbong uniberso kung saan ang mga nasabing oposisyon ay maaaring tanggapin ng walang tanong o pagsasaalang-alang.
 
-Ayon sa UPB, mali para sa iyo at sa akin ang magnakaw. Subalit kahit papaano, sa "sonag wala" na ito, hindi lamang pwede, subalit perpekto din *moral*, para sa iba ang magnakaw. Hindi tayo *dapat* magnakaw - sila ay *dapat* magnakaw. It is moral madness!
+Ayon sa UPB, mali para sa iyo at sa akin ang magnakaw. Subalit kahit papaano, sa "sonag wala" na ito, hindi lamang pwede, subalit perpekto din *moral*, para sa iba ang magnakaw. Hindi tayo *dapat* magnakaw - sila ay *dapat* magnakaw. Ito ay moral na kabaliwan!
 
-### Policemen
+### Pulisya
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+Ating alisin ang ating mabuting kaibigan na si Bob sa kanyang silid ng pagsubok ng teoryang moral at ibalik siya sa kanyang orihinal na hanapbuhay bilang pulis.
 
-Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
+Malinaw, ng si Bob ay gumising sa umaga, bago ang kanyang toka, hindi siya maaaring pumunta sa bahay ng kanyang kapitbahay at humingi ng pera sa punto ng baril, kahit sino pa ang nagsabi sa kanya na ayos lang yun.
 
-When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+Nang si Bob ay mag-almusal, hindi pa rin nya pwede atakihin ang kanyang kapitbahay at kunin ang pera nito. Sa kanyang pagmamaneho tungong trabaho - kahit na nasuot na nya ang kanyang uniporme - hindi pa sya nakapag- panch, samakatuwid siya ay walang anumang karapatan gaya ng ibang mamamayan. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
 
 Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
 
