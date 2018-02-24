@@ -2,7 +2,7 @@
 
 Mauunawaan na natin ngayon na ang kalikasan ng mga pansariling-pagtatalo, pwede natin itungo sa mga nais na mga katanungan.
 
-Ang mga kagustuhan ay sentro sa anung mang paraan ng pagkuha para maipaliwanag ang katotohanang-halaga ng mga proposisyon. Ang pamamaraan ng siyentipiko, para sapaghahalimbawa, ay higit sa lahat na tukuyin ang mga likas na kagustuhan para sa lohikal na pagkakapare-parehas at ang empirikal na beripikasyon. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Ang mga kagustuhan ay sentro sa anung mang paraan ng pagkuha para maipaliwanag ang katotohanang-halaga ng mga proposisyon. Ang pamamaraan ng siyentipiko, para sapaghahalimbawa, ay higit sa lahat na tukuyin ang mga likas na kagustuhan para sa lohikal na pagkakapare-parehas at ang empirikal na beripikasyon. Para sa siyensya, ang saligan ay: *kung * gusto mo na malaman ng tama ang katotohanan ukol sa pag-uugali ng materya at lakas, ito ay *ito ay higit na mabuti* sa paggamit ng pamamaraan ng siyentipiko.
 
 In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
 
