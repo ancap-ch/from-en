@@ -86,13 +86,12 @@ a. ***Pagpapalagay.***
 
 1. Kung iababahagi mo ang Lisensyadong Materyal ( kabilang ang mga baguhin ang porma), Kailangan mo:
     
-    A. retain the following if it is supplied by the Licensor with the Licensed Material:
+    A. panatilihin ang mga sumusunod kung ang palitan mula sa Tagapaglisensya kasama ang Materyal na Lisensya:
     
-         i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+         i. ang pagkakakilanlan ng (mga) tagalikha ng Lisensyadong Materyal at kahit anong hinirang sa matatanggap na pagpapalagay, sa kahit anong resonable na paraan sa kahilingan ng Tagapaglisensya (kasama ang nakatalaga na sagisag).
+         ii. ang pahayag sa copyright;
         
-         ii. a copyright notice;
-        
-         iii. a notice that refers to this Public License;
+         iii. ang mapainsin sa mga tumutukoy sa Pampublikong Lisensya na ito.
         
          iv. a notice that refers to the disclaimer of warranties;
         
