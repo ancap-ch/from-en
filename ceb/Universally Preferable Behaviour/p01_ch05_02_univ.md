@@ -41,61 +41,59 @@ Or:
 3. All men believe in universally preferable behaviour.
 4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+Ang ikaupat nga argumento alang sa pagkamatuod sa malukpanon kaayo nga nagustuhan nga gawi mao usab ang empirikal. Tungod kay ang mga linalang nga mga tawo kay adunay walay kataposan nga ihap sa mga pagpili nga buhaton sa kinabuhi, ang pagsulti nga walay mga prinsipyo sa malukpanon kaayo nga nagustuhan nga gawi nga makahimo nga makasulti nga ang tanan nga mga pagpili kay patas (pananglitan sugpayonon). Bisan pa niana, tanan nga mga pilianan kay *dili* parehas, kini man lohikal kaayo o kana nga pinaagi sa pagpaniid nga empirikal.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+Pananglitan, kung adunay pagkaon, halos tanan nga mga linalang nga tawo mopili nga mokaon sa matag adlaw. Kung bugnaw, halos tanan nga mga linalang nga tawo ang mangita og kainit. Halos tanan nga mga ginikanan nga mingpili nga magpakaon, magpasilong ug magpaedukar sa ilaha nga mga anak. Adunay daghan nga mga eksampol sa mga kasagaran nga pilianan sa mga katawhan, nga nagpakita nga nag-abunda ang malukpanon kaayo nga nagustuhan nga gawi ug kabahin sa kinaiyahan sa tawo.
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+Sa nahisgotan sa ibabaw, walay teorya nga balido sa pisika nga makahimo nga mosalikway sa simpol nga kamatuoran nga ang mga bata kay makahimo nga makasalo og mga bola nga naglupad – sa susama nga pamaagi, walay teorya sa etika nga balido ang makahimo nga mobalibad sa walay kataposan nga ebidensya alang sa pagdawat sa UPB.
 
-Or:
+O:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1. Ang mga pilianan kay halos walay kataposan.
+2. Kasagaran sa mga linalang nga tawo naghimo og parehas gayud nga mga pinilian.
+3. Busa dili tanan nga mga pinilian ang mamahimo nga parehas.
+4. Busa ang mga pinilian nga malukpanon kaayo nga nagustuhan kay kinahanglan nga mamahimo nga balido.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+Ang ikalima nga argumento alang sa pagkamatuod sa malukpanon kaayo nga nagustuhan nga gawi kay ebolusyonaryo.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+Tungod ang tanan nga organiko nga kinabuhi nagkinahanglan og preperensiyal nga gawi aron sa mabuhi, maka-asumir nga kadtong mga organismo nga nakahimo og malampuson kaayo nga mga pagpili mao kadtong mga tawo nga kasagaran kaayo nga mapilian alang sa pagpakabuhi.
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+Tungod kay ang tawo kay mao ang labing malampuson nga matang, ug ang labing naglahi nga organo sa tawo kay ang iyaha nga hunahuna, kinahanglan gayud kini ang *hunahuna* sa tawo nga naka-tabang sa iyaha og pag-ayo sa pagbuhat sa mga pagpili nga malampuson kaayo. Ang hunahuna mismo, unya, ang napilian isip malampuson pinaagi sa mismo niii nga abilidad nga makagama og mga pagpili nga malampuson kaayo. Tungod kay ang hunahuna sa tawo anaa lang isip *resulta* sa pagpili sa malukpanon kaayo nga nagustuhan nga gawi, kinahanglan nga mamahimo nga balido nga konsepto ang malukpanon kaayo nga nagustuhan nga gawi.
 
-Or:
+O:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+1. Ang mga organismo minglampos pinaagi sa paglihok sa malukpanon kaayo nga nagustuhan nga gawi.
+2. Ang tawo mao ang labing nagmalampuson kaayo nga organismo.
+3. Busa ang tawo kinahanglan gayud nga naglihok nga labing nagmalampuson kaayo ngadto sa basehanan nga malukpanon kaayo nga nagustuhan nga gawi.
+4. Ang hunahuna sa tawo mao ang iyaha nga labing naglahi nga organo.
+5. Busa ang hunahuna sa tawo kinahanglan gayud nga labing maglampuson kaayo ngadto sa basehanan nga malukpanon kaayo nga nagustuhan nga gawi.
+6. Busa ang kinahanglan gayud nga mamahimo nga balido ang malukpanon kaayo nga nagustuhan nga gawi.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB. 
+Makahimo kita nga magdala og labing daghan pa nga mga argumento aron sa pagka-anaa sa paglungtad ug pagkamatuod sa UPB, pero mabutang kanato ang atong sitwasyon uban sa naa sa ibabaw, ug molihok aron sa usa ka eksaminasyon sa kinaiyahan sa UPB.
 
-#### UPB: Optional And Objective
+#### UPB: Opsyonal Ug Katuyoan
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Tungod nga napamatud-an nato ang pagkamatuod sa malukpanon kaayo nga nagustuhan nga gawi, karon turno na sa pangutana sa moralidad. Tungod ang moralidad *maoy* balido, unsa ang makwentada, maklase, maeksplikar ug matagna-an sa niini nga mga teorya?
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+Una sa tanan, kinahanglan nato timan-an nga ang moralidad kay tataw nga opsyonal. Ang matag tawo kay sugpay ngadto sa grabidad ug nagkinahanglan og pagkaon aron mabuhi, pero walay tawo nga molihok og pamatasan kaayo. Kung ako nanglugos o mingpatay, walay kilat ang makaigo kanako. Ang mga mando sa pamatasan, sama sa pamaagi nga siyintipiko o mga biyolohikal nga klasipikasyon, mao ang mga pamaagi daw sa makataronganon nga pag-organisar sa mga kamatuoran ug mga prinsipyo nga relatibo ngadto sa reyalidad sa katuyoan.
 
-The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
+Ang kamatuoran nga ang pagsunod sa mga mando sa pamatasan nga maoy *opsyonal*, bisan pa niana, nakapalibog sa daghan nga mga tighunahuna ngadto sa pagtuo nga ang moralidad mismo kay *pagasugpayonon*. Walay lain nga makapadugang pa gikan sa kamatuoran.
 
-Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
+Ang mga buhi nga organismo kay parte sa reyalidad sa materyal, ug ang reyalidad sa materyal kay makatarunganon ug katuyoan. Ang pagpadapat sa mga teorya sa pamatasan kay opsyonal, pero wala kana nagpasabot nga ang tanan nga mga teorya sa pamatasan kay sugpayonon. Ang pamaagi nga siyintipiko kay opsyonal sab, pero dili kini sugpayonon. Ang pagpadapat sa mga klasipikasyon nga biyolohikal kay opsyonal, pero ang biyolohiya maoy dili sugpayonon. Ang mga pagpili kay mga opsyonal; ang mga nadangngatan maoy dili. Makahimo ko nga mopili nga dili mokaon, pero dili ko makahimo nga mabuhi nga dili magkaon. Makahimo ko nga mopili nga putlan og ulo ang usa ka tawo, pero dili ko makahimo kon o dili man nga sila makahimo nga mabuhi nga walay ulo. Busa ang moralidad kay opsyonal, pero *naka-epektar* kini sa mga pilianan sa pamatasan nga masukod ug ugbayonon.
 
-Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
+Karon, tungod kay balido nga konsepto ang moralidad, ang sunod nga pangutana mao: sa unsa nga matang o kadak-on  nga ang moralidad mamahimo nga balido?
+Sa nahisgotan sa ibabaw, ang unsa nga pagsulay sa bisan unsa nga teorya nga siyintipiko mao ang *pagkamalukpanon*. Sama sa usa ka teorya sa pisika nga kinahanglan nga ma-aplikar ngadto sa *tanan* nga butang, ang usa ka teorya sa pamatasan nga nag-angkon nga mohulagway sa mga lihok nga nagustuhan sa katawhan nga *kinahanglan nga ma-aplikar ngadto sa  **tanan** nga katawhan*. Walay teorya sa pamatasan nga mamahimo nga balido kung kini minglalis nga ang usa ka natino nga lihok nga maoy *sakto* ngadto sa Syria, pero *sayop* ngadto sa San Francisco. Dili kini makahimo nga makasulti nga ang Tawo nga si A *kinahanglan* nga mobuhat og X, pero si Tawo nga B *dili gayud* kinahanglan nga mobuhat sa X. Dili kini makahimo nga mosulti nga kung unsa ang *sayop* kagahapon mao ang *sakto* karon – o bise bersa. Kung kini makabuhat, kini maoy dili tinuod ug kinahanglan nga mapino o ilabog.
 
-As mentioned above, the first test of any scientific theory is *universality*. Just as a theory of physics must apply to *all* matter, a moral theory that claims to describe the preferable actions of mankind *must apply to **all** mankind*. No moral theory can be valid if it argues that a certain action is *right* in Syria, but *wrong* in San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. If it does, it is false and must be refined or discarded.
+Aron mamahimo nga balido, ang bisan unsa nga teorya sa pamatasan kinahanglan sab mopasar sa panukdanan sa *lohikal nga pagkamakanunayon*. Tungod kay ang gawi sa butang kay lohikal, kanunay ug matagna-an, ang tanan nga mga teorya nga naglambigit sa butang – kini nga organiko o kana nga dili organiko – kinahanglan sab nga mamahimo nga lohikal, kanunay ug matagna-an. Ang teorya sa relatibidad dili makahimo nga molalis nga ang gipaspason sa hayag kay ang duha nga makanunayon ug dili makanunayon sa susama nga higayon, o nga kini maoy usa ka gatos og otsentai sayis ka libo nga mga kilometro matag segundo, lima ka kilometero sa gilawmon, ug usab ang bulok kay lunhaw.
 
-To be valid, any moral theory must also pass the criterion of *logical consistency*. Since the behaviour of matter is logical, consistent and predictable, all theories involving matter – either organic or inorganic – must also be logical, consistent and predictable. The theory of relativity cannot argue that the speed of light is both constant and not constant at the same time, or that it is one hundred eighty-six thousand kilometres per second, five kilometres in depth, and also green in colour.
+Bisan pa niana, tungod kay ang mga teorya sa pamatasan kay ma-aplikar ngadto sa katawhan, ug ang katawhan kay organiko, ang matang sa *empirikal* nga pagkamakanunayon nga gikinahanglan alang sa mga teorya sa pamatasan kay labing menos kompara sa gikinihanglan alang sa mga teorya nga *dili organiko*. Ang biyolohiya kay naglangkit og tulo ka mga porma sa “pagka-sinalagma,” nga mao ang kalikopan, henetiko nga mutasyon ug gawasnon nga kagustuhan. Pananglitan, poodle nga iro kay kasagaran nga hinamigo, pero kung gipasakitan og pipila ka mga tuig, anaay purohan nga mamahimo nga agresibo. Ang mga kabayo kay nahulagway isip adunay usa ka ulo lang, pero sa usahay, usa ka duha ka ulo nga mutant ang gianak. Sa kaparehas, ang mga linalang nga tawo kay sa kasagaran gusto ang mokaon kaysa magutman – walay labot ang mga walay gana nga mokaon. Kadtong mga eksepsyon wala nakapa-ubos sa tibuok siyensiya sa biyolohiya. Busa, tungod ang mga teorya sa pamatasan minghulagway sa katawhan, dili kana sila masugpayonan ngadto sa parehas kaayo nga susama nga mga kinahanglanon alang sa pagkamakanunayon isip mga teorya nga minghulagway sa mga butang nga dili organiko.
+Ang kataposan nga pagsulay nga ang bisan unsa nga teorya sa pamatasan kinahanglan nga mopasar sa panukdanan nga pagpaniid nga empirikal. Pananglitan, ang usa teorya sa pamatasan kinahanglan nga mo-eksplikar sa kinaugalingon sa malukpanon nga mga pagtuo sa pamatasan ngadto sa katawhan, og usab isip managlahi nga mga resulta sa “mga eksperimento” sa pamatasan sa katawhan susama sa pasismo, komunismo, sosyalismo o kapitalismo. Kinahanglan usab kini makaeksplikar sa pipila ka nag-una nga mga kamatuoran kabahin sa katilingban sa katawhan, susama sa kamatuoran nga ang gahom sa estado kay nagkasaka, o nga ang propaganda sa ingon nagkasaka sab sa pagsaka sa gahom sa estado. Kung kini mapakyas sa pag-eksplikar sa miagi, makasabot sa pagkakaron ug makatagna sa umaabot, unya kinahanglan kini nga mamahimo nga dili dawaton isip dili balido.
 
-However, since moral theories apply to mankind, and mankind is organic, the degree of *empirical* consistency required for moral theories is less than that required for *inorganic* theories. All rocks, for instance, must fall down, but not all horses have to be born with only one head. Biology includes three forms of “randomness,” which are environment, genetic mutation and free will. For example, poodles are generally friendly, but if beaten for years, will likely become aggressive. Horses are defined as having only one head, but occasionally, a two-headed mutant is born. Similarly, human beings generally prefer eating to starving – except anorexics. These exceptions do not bring down the entire science of biology. Thus, since moral theories describe mankind, they cannot be subjected to exactly the same requirements for consistency as theories describing inorganic matter.
+#### UPB: Ang Pagbuhat
 
-The final test that any moral theory must pass is the criterion of empirical observation. For instance, a moral theory must explain the universal prevalence of moral beliefs among mankind, as well as the divergent results of human moral “experiments” such as fascism, communism, socialism or capitalism. It must also explain some basic facts about human society, such as the fact that state power always increases, or that propaganda tends to increase as state power increases. If it fails to explain the past, understand the present and predict the future, then it must be rejected as invalid. 
+Unsa man ang dagway  sa niini nga tanan sa pagbuhat? Tan-awon naton kung unsa ang panginahanglanon alang sa *pagkamalukpanon* nga ming-apektar sa mga teorya sa pamatasan.  Makahisgot kita diri sa mga pruweba ug mga dispruweba alang sa mga espisiko nga proposisyon sa pamatasan, mo-eksamen kita sa labaw pa nga detalye ngadto  sa Ikaduha nga Bahin.
 
-#### UPB: The Practice
-
-How does all this look in practice? Let’s look at how the requirement for *universality* affects moral theories. We shall touch here on proofs and disproofs for specific moral propositions, which we shall examine in more detail in Part Two.
-
-If I say that gravity affects matter, it must affect *all* matter. If even one pebble proves immune to gravity, my theory is in trouble. If I propose a moral theory that argues that people should not murder, it must be applicable to *all* people. If certain people (such as soldiers) are exempt from that rule, then I have to either prove that soldiers are *not* people, or accept that my moral theory is false. There is no other possibility. On the other hand, if I propose a moral theory that argues that all people *should* murder, then I have saved certain soldiers, but condemned to evil all those *not* currently murdering someone (including those being murdered!) – which is surely incorrect.
+Kung mosulti ko nga ang grabidad ming-apektar sa butang, kinahanglan sab kini maka-apektar sa *tanan* nga butang. Kung bisan ang usa ka gamay nga bato nga makapamatuod nga dili madutlan sa grabidad, ang teorya nako kay adunay kahasol. Kung ako motanyag og usa ka teorya sa pamatasan nga minglalis nga ang katawhan kinahanglan nga dili mopatay, kinahanglan nga ma-aplikar kini ngadto sa *tanan* nga katawhan. If certain people (such as soldiers) are exempt from that rule, then I have to either prove that soldiers are *not* people, or accept that my moral theory is false. There is no other possibility. On the other hand, if I propose a moral theory that argues that all people *should* murder, then I have saved certain soldiers, but condemned to evil all those *not* currently murdering someone (including those being murdered!) – which is surely incorrect.
 
 If, to save the virtue of soldiers, I alter my theory to argue that it is moral for people to murder if someone else tells them to (a political leader, say), then I must deal with the problem of universality. If Politician A can order a soldier to murder an Iraqi, then the Iraqi must also be able to order the soldier to murder Politician A, and the soldier can also order Politician A to murder the Iraqi. The application of this theory results in a general and amoral paralysis, and thus is proven invalid.
 
