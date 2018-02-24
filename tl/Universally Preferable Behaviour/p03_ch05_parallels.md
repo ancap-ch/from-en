@@ -8,7 +8,7 @@ Sa harap ng siyensiya, sa sentro ng bawat mahihirap unawain ang sistema ng paraa
 
 Sa kasamaang palad, itong "mabait na kamalayan"ay isa lamang maling akala, para mailagay ito sa pinaka-mapagkawanggawa. Walang umiiral na mga diyos na ganoon-lahat ng iyon ay *gumawa* mayroon ding mga proklamasyon ang mga saserdote. Kaya naman kung ano ang talagang nakalagay sa sentro ay ang mga pagkiling ng di-makatuwirang tao, na sinoman ay ang walang alam kung gaano magalit silang talaga.
 
-Lahat ay mayron upang isalin itong liwanag sa ating mga pagkakaintindi sa panglipunan -ngunit ngayon ito ay *mahalaga* ginagawa natin ito.
+Lahat ay mayron upang isalin itong liwanag sa ating mga pagkakaintindi sa panglipunan -subalit ngayon ito ay *mahalagang* ginagawa natin.
 
 Isinasaalang-alang ng lahat itong mahahalaga, at sa sentro ng panglipunan, lahat ng lugar ay banal na entidad tinatawag na äng pamahalaan." ay ang kawalan ng entidad, isinasaalang-alang ng lahat itong malinaw na ang lipunan ay mapadpad sa ganap na kaguluhan, at mailagay ito sa maging-makatwiran bilang mga aninong itinuturing, na nasa pagliban ng mga diyos, ang daigdig mismo ay papatungo sa malaking gulo, at ipatigil na.
 
