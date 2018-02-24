@@ -22,11 +22,11 @@ Do mesmo modo, no exemplo anterior, o CUP aceita apenas o *acto* de comer e reje
 
 Da mesma forma, um eticista não pode, validamente, apresentar a proposição moral: "É mau violar os *idosos*". A "Violação" é o comportamento; se a vítima é idosa ou não, é irrelevante para a proposição moral, já que sempre que a vítima seja humana, a exigência de universalidade permanece constante. "Não roubarás" é uma proposição moral válida de acordo com o CUP - "não roubarás *nabos*" não é, pela simples razão de que o roubo está relacionado com o conceito de propriedade - e nabos, como um subconjunto de propriedade, não pode ser, racionalmente, excluído de todas as outras formas de propriedade e ter a sua própria regra moral atribuída.
 
-The moral proposition “eating fish is evil” thus fails the test of universality because it is too specific to be generalised – it is like saying “my theory of gravity applies only to pink rocks.” If it is a theory of gravity, then it must apply to everything; if it only applies to pink rocks, then it is not a theory of gravity.
+Portanto, a proposição moral "comer peixe é mau", falha no teste de universalidade porque é muito específica para ser generalizada - é como dizer "a minha teoria da gravidade aplica-se apenas às rochas cor de rosa". Se é uma teoria da gravidade, então deve ser aplicada a tudo; Se ela aplica-se, somente, às rochas cor de rosa, então não é uma teoria da gravidade.
 
-UPB also rejects as invalid any theory that results in opposing moral judgements for identical actions. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
+O CUP também rejeita como inválida qualquer teoria que resulte em juízos morais opostos, para acções similares. O "assalto" não pode ser moral num dia e imoral no próximo. Portanto, sabemos que "comer" não pode ser moral num dia e imoral no seguinte.
 
-Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
+"Comer" é moral, ou imoral ou moralmente neutro. Se comer é imoral, então surgem uma série de problemas lógicos, com os quais estou seguro, de que já estamos familiarizados.
 
 If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
 
