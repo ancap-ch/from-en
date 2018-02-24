@@ -54,7 +54,7 @@ Ang lipunan ay umuunlad sakto sa antas na ang rason o ebidensya ay gumawa ng pin
 
 Kapag sinabi na ang pamahalaan ay gumagana sa ilalim ng magkasalungat na moral na tuntunin mula sa natitirang bahagi ng lipunan ay syang kaparehas din ng pagsasabi na, "ang mga leprekon ay hindi tinatablan ng grabidad." Una sa lahat, ang mga leprekon ay hindi naman umiiral - at isa paraan na ating nalalaman na sila ay hindi umiiral ay dahil sa ipinahayag na sila ay hindi tinatablan ng grabidad. Lahat ng may bigat ay saklaw ng grabidad - ang alinmang hindi tinatablan ng grabidad ayon sa kahulugan ay walang bigat, samakatuwid ay hindi umiiral. Ang pahayag na " ang mga leprekon ay hindi tinatablan ng grabidad' ay isang tautolohiya, na siyang nagkokompirma ng hindi pag-iral ng mga leprekon - ito ay ang semantikong katumbas ng "ang alinmang hindi umiiral, ay hindi umiiral."A ay A, unang batas ng lohika ni Aristotle, na hindi naman mahalaga na kompirmahin ang pag-iral ng anumang iyon na binigyang kahulugan bilang hindi umiiral.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+Sa parehas na paraan, kapag ating sinabi na moral na tama para sa mga sundalo ang pumatay at mga kumakatawan sa pamahalaan ang magnakaw, alam natin na ang "mga sundalo" at "mga kinatawan ng pamahalaan" bilang moral na kategorya ay *kumpletong walang bisa*.
 
 If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
 
