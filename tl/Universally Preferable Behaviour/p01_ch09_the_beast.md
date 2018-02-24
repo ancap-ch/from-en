@@ -28,14 +28,14 @@ At kung ako may isang doktor sa gitna ng isang magaling na lungsod na nahulog sa
 
 Tunay na dapat akong sumigaw mula sa mismong mga bubong na ang kanilang inuming tubig ay nagdulot ng salot. Tunay na dapat kong gawin ang bawat mga posibleng panukala upang maunawaan ng mga tao ang tunay na pinagmumulan ng sakit na sumakit sa kanila.
 
-Surely, in the knowledge of such universal and preventable poisoning, I should not waste my time arguing that the true danger you faced was the tiny possibility that some random individual might decide to poison you at some point in the future.
+Tunay, sa kaalaman uri ng ganitong unibersal at mapigilan ang pagkalason, hindi ko dapat aksayahin ang aking oras na naglalaban na ang tunay na panganib na iyong kinakaharap ay ang maliit na posibilidad na ang ilang mga pagkakataon na indibidwal ay pwedeng magpasya na malason ka sa isang punto sa hinaharap.
 
-Thus, as a philosopher concerned with violence and immorality, should I focus on private criminals, or public criminals?
+Kaya naman, bilang isang pilosopo na nababahala sa karahasan at imoralidad, dapat ba akong tumuon sa mga pribadong kriminal, o mga kriminal na pampubliko?
 
-The violations that I experienced at the hands of private criminals fade to insignificance relative to even *one day* under the tender mercies of my “virtuous and good masters.”
+Ang mga paglabag na aking mga naranasan sa mga kamay ng mga pribadong kriminal ay nawala sa kawalan ng halaga na may kaugnayan sa kahit na *isang araw* sa ilalim ng magiliw na awa ng aking "banal at mahusay na aking mga pinuno."
 
-If, then, the greatest dangers to mankind are false ethical theories, then our highest prioritisation should be the discovery, communication and refinement of a valid, rational, empirical and consistent ethical theory. If we discover that most plague victims are dying from impure water, then surely telling them to purify their water should be our first and highest priority.
+Kung, pagkatapos ay, ang pinakadakilang panganib sa sangkatauhan ay mga maling etikal na teyorya, kung gayonay ang pinakamataas na prayoritasyon ay ang pagtuklas, komunikasyon at pagpapaayos ng isang wastong, rasyunal, empirikal at pare-parehong teyorya sa etika. Kung ating matuklasan na ang karamihan sa mga biktima ng salot ay namamatay mula sa maruruming tubig, pagkatapos ay tunay na sinasabi sa kanila na linisin ang kanilang tubig ay dapat na maging una at pinakamataas na prayoridad.
 
-Let us now turn to that task.
+Ipaalam natin ngayon ang ganyang gawain.
 
 [^12]: Or, rather: “*forced* education is a virtue” – my parents were compelled to pay through taxes, and I was compelled to attend.
