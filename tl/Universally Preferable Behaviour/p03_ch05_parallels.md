@@ -26,7 +26,7 @@ Sa katotohanan, katulad ng mga pananampalataya na makahadlang sa kaunlaran ng si
 
 Tulad narin ng mga hindi totoong etika ng mga pananampalataya "bigyan-katuwiran" ang lahat ng naaabuso, kasamaan at kalupitan, ganun din ang mga hindi totoong etika ng bawat pamahalaan. Kapag napili nating mabuhay ng naaayon sa ating pantasya, hindi natin maiiwasang matamo ang pagkasira, ng isang paraan o iba pa.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+Kung pipiliin natin ang pamamalakad ng lipunan para sa mabuting mga rehiyon na alamat, mapupunta tayo sa mga sagupaan, kalupitan, pang-aabuso, kasamaan at napakalalim na pagbabalat kayo.
 
 When we choose to run society according to *statist* moral mythologies, the results are no different.
 
