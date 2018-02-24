@@ -85,4 +85,4 @@ May isang nakakapanindig balahibo na nakilala bilang "kamatayan ng pulis," kung 
 
 Matutulungan nga ba tayo ng balangkas ng UPB na maunawaan, i-uri at palawigin ang mga pamantayang moral na ito?
 
-[^9]: Lagaing pakitandaan na ang mga halimbawa sa ibaba ay hindi mga tunay nakatibayan, ngunit sa halip na mga sitwasyon na ang isang wastong teyorya ng etika ay dapat na mapalitan at maipaliwanag. Tayao ay makakakuha ng aktwal na mga patunay sa ilang sandali.
+[^9]: Laging pakitandaan na ang mga halimbawa sa ibaba ay hindi mga tunay nakatibayan, ngunit sa halip na mga sitwasyon na ang isang wastong teyorya ng etika ay dapat na mapalitan at maipaliwanag. Tayao ay makakakuha ng aktwal na mga patunay sa ilang sandali.
