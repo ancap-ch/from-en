@@ -55,13 +55,13 @@ Kung, pagkatapos ng bayad sa pakikipagrelasyon, ako ay manlilinlang sa aking asa
 
 At kung ikaw at ako ay magkaparehong nakatayo sa tuktok ng isang talampas, at bumabalik ako sa iyo at nagsabing, "Tumayo ka sa harap ko, kaya kita itulak sa talampas," ano ang sasabihn mo sa akin? Kung ikaw ay nagkusang tumayo sa harap ko, at pagkatapos ay itulak kita mula sa talampas, malamang ito ay maituturing na isang paraan ng pagpapakamatay sa iyong bahagi, sa halip na pagpatay sa aking bahagi. Ang dahilan para sa mga ito ay pwede mabilis mong *maiwasan ang* na itinutulak sa bangin, sa pamamagitan lang ng pagtangging tumayo sa harapan ko.
 
-Kagaya rin nito, kung magkita tayo sa isang bar, at sabihin: "Gusto kong bumalik ka sa aking lugar, kaya maitali kita sa kama at para mamatay ka sa kamatayan," at itoy kung gagawin mo talaga ang bumalik sa aking lugar, ito ay may makatwirang kaalaman na ang iyong kahabaan ng buhay ay hindi mapapahusay ng iyong desisyon. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
+Kagaya rin nito, kung magkita tayo sa isang bar, at sabihin: "Gusto kong bumalik ka sa aking lugar, kaya maitali kita sa kama at para mamatay ka sa kamatayan," at itoy kung gagawin mo talaga ang bumalik sa aking lugar, ito ay may makatwirang kaalaman na ang iyong kahabaan ng buhay ay hindi mapapahusay ng iyong desisyon. Sa kabilang dako, kung mapasama ko sa isang "petsa ng panghahalay" na gamot sa iyong inumin, at gumising ka na nakatali sa aking kama, maliwanag na may kaunti kang nagawa para maiwasan ang sitwasyon.
 
-This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose.
+Ang tanong na ito ng *pag-iwas* ay ang ating susi sa pagkakaiba-iba ng aesthetics mula sa etika. Nalalapat ang mga aesthetics sa mga sitwasyon na pwedeng hindi kanais-nais, ngunit hindi pinapawi ang iyong kapasidad na pumili.
 
-#### Avoidance And Initiation
+#### Ang Pag-iwas At Ang Pagsisimula
 
-There is a particular issue with avoidance that will come up later in this book, which is worth clearing up here beforehand.
+Mayroong isang partikular na isyu sa pag-iwas na darating mamaya sa librong ito, na kung saan ay nagkakahalaga ng pag-linis muna dito.
 
 If I live on a high mountaintop five thousand kilometres away from you, and send you an e-mail telling you that if you ever walk in front of my house, I am going to shoot you, it is relatively easy for you to avoid this situation. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
 
