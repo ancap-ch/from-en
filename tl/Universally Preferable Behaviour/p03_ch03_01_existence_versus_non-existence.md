@@ -126,15 +126,15 @@ Mas lalong kataka-taka, kung ako ay isang hindi "pulis", at aking sundan si Bob 
 
 Anong klaseng saysay ang ginagawa nito? Paano natin makitang malutas ang hindi mapasok na misteryong ito?
 
-Ang simpleng katotohan ay *hindi* pwedeng malutas, dahil iyon ay kumpletong magulo. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+Ang simpleng katotohan ay *hindi* pwedeng malutas, dahil iyon ay kumpletong magulo. Ang katotohanan na itong "salungat na mundong" moral na kabaliwan ay kompletong irasyonal - huwag ng banggitin pa na marahas na mapagsamantala - ay kitang-kita na dapat itong ibaon sa walang katapusang prusisyon ng maalamat na "boluntarismo"
 
-We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
+Kami ay nasabihan na "nais" naming si Bob ay kunin ang aming salapi - na kumpletong sumasalungat sa katotohanan na si Bob ay nagpakita sa aming pintuan at nagtutok ng may lamang baril sa aming mukha. Sa pamamagitan ng lohikang ito, pwede rin akong umakyat baba ng kalye at magnakaw sa aking mga kapitbahay, at mag-angkin na ako ay lubos na nagulat kapag ako ay hinuhuli na:
 
-“They *want* me to take their money!”
+"*Nais* nila na ako ang gumawa ng kanilang pera!"
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+"Kung gayon bakit mo sila tinatakot na paputukan kung hindi nila binigay sa iyo ang kanilang pera?"
 
-“Because they *owe* me their money!”
+"Dahil *utang na loob*nila sa akin ang kanilang pera!"
 
 “I thought you said that they want to give you their money.”
 
