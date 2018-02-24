@@ -60,11 +60,11 @@ Kung aking sasabihin na ang parisukat bilog ay tama na magnakaw, akin lamang sin
 
 Kung ako ay bibili ng kostyum ng sundalo sa isang segunda manong tindahan, at suutin ito, malinaw na hindi ako gumawa ng alternatibong uniberso kung saan ang magkasalungat na moral na tuntunin ay may bisa. Sa oras na suutin ko ang kostyum, mali para sa akin ang pumatay - kailan *tama* para sa akin ang pumatay? Kapag aking sinuot ang pantalon? Paano kung suot ko ang pantalon, pero hindi ang tsaleko? Paano kung suot ko ay isang bota lamang? Paano kung suot ko ang dalawang bota, pero isa lang ang nakalaso? Paano kung ang sumbrero ko ay patalikod? Paano kung suutin ko ang isang uniporme na hindi makikilala ng unang taong aking unang makakasalubong? Ang Beatles ba ay biglang nagtaglay ng karapatan na pumatay ng kanilang kunan ang pabalat para sa "Sergeant Peppers'? Nawala ba ang kanilang karapatan ng kanilang hubarin ang mga dyaket?
 
-Aking tinanong ang mga retorikal na tanong na ito dahil ang mga ito ay tunay na seryoso. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Aking tinanong ang mga retorikal na tanong na ito dahil ang mga ito ay tunay na seryoso. Malinaw, ang isang militar na kostyum ay hindi binabago ang kalikasan ng isang tao, gaya ng sa isang gupit ay ginawa siyang pato, isang konsepto, o isang Diyos.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+"Ah," iyong masasabi, " ang kostyum ay walang bisa dahil binili mo ito sa isang segunda manong tindahan - ang pagsuot ng uniporme ng sundalo ay hindi ka ginagawang sundalo kung paanong ang pagkopya ng isang doktoral ay binibigyan ka ng Ph.D."
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+Ang analohiya ay hindi tama, dahil ang pagkakaroon ng Ph.D o pagpapakopya ng doktoral ay hindi binabago ang mga moral na tuntunin na ikaw ay sinasaklaw bilang isang tao.
 
 “Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
 
