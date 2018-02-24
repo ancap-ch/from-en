@@ -1,8 +1,8 @@
 ## Ang Ikatlong Pagsubok: Pagnanakaw
 
-Kakailanganin naming gumastos ng kaunting oras sa pagnanakaw, dahil hindi ito maiiwas sa larawan ng tanong ng mga karapatan sa pag-aari, na lubhang nakakaalam sa ilan.
+Kakailanganin nating gumugol ng kaunting oras sa pagnanakaw, dahil hindi ito maiiwas sa larawan ng tanong ng mga karapatan sa pag-aari, na lubhang nakapagtatalo sa ilan.
 
-Mayroong maraming mga paraan ng paglapit sa tanong ng mga karapatan sa ari-arian, mula sa "homesteading" sa mga legal na pagbibigay-kahulugan sa mga praktikal na pagsasaalang-alang. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+Mayroong maraming mga paraan ng paglapit sa tanong ng mga karapatan sa ari-arian, mula sa “homesteading” sa mga legal na pagbibigay-kahulugan sa mga praktikal na pagsasaalang-alang. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
 
 Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
 
