@@ -22,11 +22,11 @@ Ang mga pribadong kriminal ay umiiral, at siyempre, *pero halos walang epekto sa
 
 Sa kabilang dako, ay mayroon akong daan-daang libong dolyar na inagaw mula sa akin sa pamamagitan ng lakas sa pamamagitan ng moral na teyorya ng "ang pagbubuwis ay mabuti." Ako ay napilitang umupo sa masungit at pagwasak ng utak na gulags ng mga pampublikong paaralan para sa labing-apat na taon, batay sa moral na teyorya na "ang edukasyon ng estado ay isang kabutihan."[^12]
 
-The boy (and the man) who stole my money doubtless used it for some personal pleasure or need. The government that steals my money, on the other hand, uses it to oppress the poor, to fund wars, to pay the rich, to borrow money and so impoverish my children – and to pay the salaries of those who steal from me.
+Ang batang lalaki (at ang lalaki) na nagnakaw ang aking pera ay walang alinlangang ginamit ito para sa ilang pansarili na kasiyahan o pangangailangan. Ang gobyerno na nagnakaw ng aking pera, sa kabilang banda, ay gumagamit nito upang pighatiin ang mahihirap, upang bigyan ng pondo ang mga digmaan, magbayad ng mayayaman, humiram ng pera at magpawalang-saysay sa aking mga anak - at bayaran ang sweldo ng mga taong nagnakaw mula sa akin.
 
-If I were a doctor in the middle of a great city struck down by a terrible plague, and I discovered that that plague was being transmitted through the water pipes, what should my rational response be – if I claimed to truly care about the health of my fellow citizens?
+At kung ako may isang doktor sa gitna ng isang magaling na lungsod na nahulog sa pamamagitan ng isang katakot-takot na salot, at natuklasan ko na ang salot ay naipadala sa pamamagitan ng mga tubo ng tubig, ano ang dapat kong maitugon - kung inaangkin ko na talagang nagmamalasakit sa kalusugan ng aking mga kapwa mamamayan?
 
-Surely I should cry from the very rooftops that their drinking water was causing the plague. Surely I should take every measure possible to get people to understand the true source of the illness that struck them down.
+Tunay na dapat akong sumigaw mula sa mismong mga bubong na ang kanilang inuming tubig ay nagdulot ng salot. Tunay na dapat kong gawin ang bawat mga posibleng panukala upang maunawaan ng mga tao ang tunay na pinagmumulan ng sakit na sumakit sa kanila.
 
 Surely, in the knowledge of such universal and preventable poisoning, I should not waste my time arguing that the true danger you faced was the tiny possibility that some random individual might decide to poison you at some point in the future.
 
