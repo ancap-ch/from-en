@@ -1,14 +1,14 @@
 ## Giriş
 
-Nesiller boyunca insanoğlu egoist ve kişisellikle birlikte cahilce yaşamıştır; Dünya düzdü, yıldızlar, ay ve güneş kendi etrafında dönüyordu, ataları ona ölüm perdesinin ardından sesleniyordu ve şimşek tanrıların gazabıydı.
+Nesiller boyunca insanoğlu egoist ve kişisellik ile birlikte cahilce yaşamıştır; Dünya düzdü, yıldızlar, ay ve güneş kendi etrafında dönüyordu. Ataları ona ölüm perdesinin ardından sesleniyordu ve şimşek tanrıların gazabıydı.
 
-Bu narsistlik rahminden subjektif çıkarım bin yılın işçiliğini istiyordu - ve milyonların hayatına mal olacaktı. Bakış açımızı tamir edecek olan efor *Algısal deneyim*, *Kavramsal mantık* korkutucu, yorucu, kafa karıştırıcı ve oldukça tehlikelidir. Dünyanın aslında *Hissedildiği* gibi olmadığını anlamak ya da *göründüğü gibi*, - kalanlar - aklımızın en büyük sınavıdır. Gerçek ortaya çıktı ki *doğru*, zihnin gözlerindeymiş etinde değil.
+Bu narsistlik rahminden subjektif çıkarım bin yılın işçiliğini istiyordu ve milyonların hayatına mal olacaktı. Bakış açımızı tamir edecek olan efor *Algısal deneyim*, *Kavramsal mantık* korkutucu, yorucu, kafa karıştırıcı ve oldukça tehlikelidir. Dünyanın aslında *Hissedildiği* gibi olmadığını anlamak ya da *göründüğü gibi*, - kalanlar - aklımızın en büyük sınavıdır. Gerçek ortaya çıktı ki *doğru*, zihnin gözlerindeymiş etinde değil.
 
-Dünya düz gibi görünüyor; ama değil. Güneş ve ay aynı büyüklükte görünüyor; ama değiller. Yıldızlar dünyanın etrafında hareket ediyor gibi görünüyor; ama etmiyorlar. Gerçeği öğrenmek için dünyayı kendi duyularımızın dışında görmeliyiz - bu duyularımızı reddetmemiz anlamına gelmiyor, ama duyularımızla tam *gerçek* bir kanıt bulmak demek, dünya düzdür, neden önemlidir, enerji ve fizik kuralları geçerlidir demek değildir. Elimizden bir taşı bıraktığımızda, düşer - bu duyuların *gerçek* kanıtıdır, Dünyanın sabit ve oynamaz olamayacağının. Dünyanın hareketsiz olduğu yanlış bir önergedir bu bizim duyularımıza ters düştüğünün kanıtıdır, aslında her şey sonunda düşer. Her şey düşerse, dünya sabit ve hareketsiz olamaz.
+Dünya düz gibi görünüyor; ama değil. Güneş ve ay aynı büyüklükte görünüyor; ama değiller. Yıldızlar dünyanın etrafında hareket ediyor gibi görünüyor; ama etmiyorlar. Gerçeği öğrenmek için dünyayı kendi duyularımızın dışında görmeliyiz. Bu duyularımızı reddetmemiz anlamına gelmiyor, ama duyularımızla tam *gerçek* bir kanıt bulmak demek, dünya düzdür, neden önemlidir, enerji ve fizik kuralları geçerlidir demek değildir. Elimizden bir taşı bıraktığımızda, düşer. Bu duyuların *gerçek* kanıtıdır. Dünyanın sabit ve oynamaz olamayacağının. Dünyanın hareketsiz olduğu yanlış bir önergedir. Bu bizim duyularımıza ters düştüğünün kanıtıdır. Aslında her şey sonunda düşer. Her şey düşerse, dünya sabit ve hareketsiz olamaz.
 
 Bunlar her gün gördüğümüz gerçeklerdir: taş düşer, duman yükselir, ateş sıcaktır ve dünya ve ay döner. Eğer bu ''küçük gerçeklere'' körü körüne bağlı olsak, büyük fizik doğruları için yanıp tutuşabiliriz, ki bunlar bize mükemmel bir bilgi ve güç sağlar.
 
-Küçük gerçekler ve büyük gerçekler arasında kiler bizi kör eden illüzyonlardır - ikisi de fizik ve etik de.
+Küçük gerçekler ve büyük gerçekler arasında kiler bizi kör eden illüzyonlardır. İkisi de fizik ve etik de.
 
 Fizikte, büyük doğrular küçük doğruları yalanlayamaz. Hiçbir "alansız alan teorisi" bizim duyularımızla düşen bir taşı ya da yükselen alevi algılamamızı doğrulayamaz. En büyük matematik teori uygulanırken, ödeme sayacında yanlış değişikliği döndürüldüğünde zaman geçerli olamamaktadır.
 
@@ -16,21 +16,21 @@ Tarihe göre, nasılsa, bizim küçük doğrularımız ve büyük doğrularımı
 
 ### ''Hükümsüz Kuşak''
 
-Biz çocuklarımıza birbirlerine yumruk atmamalarını söylüyoruz, ve şiddetin yanlış olduğuna genel ahlak kuralıymışçasına inanıyoruz. Küçük doğru: *yumruk atmadır*. Büyük doğru ise: *şiddet yanlıştır*.
+Biz çocuklarımıza birbirlerine yumruk atmamalarını söylüyoruz ve şiddetin yanlış olduğuna genel ahlak kuralıymışçasına inanıyoruz. Küçük doğru: *yumruk atmadır*. Büyük doğru ise: *şiddet yanlıştır*.
 
-Bununla beraber, kafamızda var olan ''Tanrı'' fotoğrafı tamamen bir ahlaktan başka bir şey değil. Ne yazık ki, varlığımız sürekli ve geniş kapsamda "şiddet yanlıştır" görüşünü taciz eder ve dünyayı boğar, ruhları cehennem gazabına mahkum eder; onlarda farkındadır ki "kararlarının" ön bilgisine sahiptirler, tecavüz, hırsızlık, cinayet, saldırı ve diğer davranışları onların benliğini kötülüğe teslim edecektir.
+Bununla beraber, kafamızda var olan ''Tanrı'' fotoğrafı tamamen bir ahlaktan başka bir şey değil. Ne yazık ki, varlığımız sürekli ve geniş kapsamda "şiddet yanlıştır" görüşünü taciz eder ve dünyayı boğar, ruhları cehennem gazabına mahkum eder; onlarda farkındadır ki "kararlarının" ön bilgisine sahiptirler. Tecavüz, hırsızlık, cinayet, saldırı ve diğer davranışları onların benliğini kötülüğe teslim edecektir.
 
-Bu şekilde küçük doğrularımız var(*yumruk atma*) ve büyük doğrularımız var(*şiddet yanlıştır*) ama bunların ortasında bir de ''boş bölge'' var*. Küçük doğrularımızın ve büyük doğrularımızın tamamen karşısında kabul edilen tamamıyla doğru*.
+Bu şekilde küçük doğrularımız var(*yumruk atma*) ve büyük doğrularımız var(*şiddet yanlıştır*). Ama bunların ortasında bir de ''boş bölge'' var*. Küçük doğrularımızın ve büyük doğrularımızın tamamen karşısında kabul edilen tamamıyla doğru*.
 
-Tarihsel olarak, fizikte aynı uyumsuzluğu görebiliriz. Tecrübelerimiz de mükemmel yuvarlak yoktur, Tanrıya olan inanç sayesinde bütün dünyevi hareket "mükemmel yuvarlak" olmalıdır - Astronominin yüzyıllar boyunca ilerlemesini engellemiştir. Benzer olarak, adam kafasını çevirirse, bütün dünyanın kendi etrafında döndüğüne inanmaz - ve mutlulukla kendi "küçük doğrusu" olmadığını görür, *büyük gerçek* evrensel gerçekliği kabul eder. Şimdiye kadar olan insan tarihinde, tüm gezegenlerin ve yıldızların dünya etrafında toplandığına inanıldı. Ancak, asıl dünya diğer gezegenler ve yıldızlar etrafında rotalandı. Burada bir daha ''boş bölge'', direkt duyu tecrübelerinin ve uluslararası öğretilerin arasında görebiliyoruz, yani tamamen karşı öğretiler tamamıyla gerçek olarak sayılıyor.
+Tarihsel olarak, fizikte aynı uyumsuzluğu görebiliriz. Tecrübelerimiz de mükemmel yuvarlak yoktur. Tanrıya olan inanç sayesinde bütün dünyevi hareket "mükemmel yuvarlak" olmalıdır. Astronominin yüzyıllar boyunca ilerlemesini engellemiştir. Benzer olarak, adam kafasını çevirirse, bütün dünyanın kendi etrafında döndüğüne inanmaz ve mutlulukla kendi "küçük doğrusu" olmadığını görür, *büyük gerçek* evrensel gerçekliği kabul eder. Şimdiye kadar olan insan tarihinde, tüm gezegenlerin ve yıldızların dünya etrafında toplandığına inanıldı. Ancak, asıl dünya diğer gezegenler ve yıldızlar etrafında rotalandı. Burada bir daha ''boş bölge'', direkt duyu tecrübelerinin ve uluslararası öğretilerin arasında görebiliyoruz. Yani tamamen karşı öğretiler tamamıyla gerçek olarak sayılıyor.
 
-Aklı başında olan kimse tanrıyı direk olarak deneyimleyemez. Normal yaşantısında, tamamen kabul ettiği gibi *ikna olmadığı şeye inanmayacaktır*. Hiçbir aklı başı yerinde olan insan attığı her adımda tereddüte düşmez, görünmez bir duvardan korkmak, yolunu tıkayabilir. Bilimin en büyük ayrılması yaklaşımıdır.
+Aklı başında olan kimse tanrıyı direk olarak deneyimleyemez. Normal yaşantısında, tamamen kabul ettiği gibi *ikna olmadığı şeye inanmayacaktır*. Aklı başı yerinde olan hiçbir insan attığı her adımda tereddüte düşmez. Görünmez bir duvardan korkmak, yolunu tıkayabilir. Bilimin en büyük ayrılması yaklaşımıdır.
 
-Karşısında dinin "sıfır noktası", *tam zıttı* iki tarafın küçük doğrularını ve mutlak doğrunun herkes tarafından kabul edildiği görülür. Şahsen, insan genellikle *ikna edilemezse inanmaz*, - akılcı yaklaşırsak, bilim bunun böyle olmadığını defalarca kanıtlamıştır. Ama, ilahiyattaki "sıfır noktası" bu çıkarımın tam tersinin doğruluğunu kabul eder - *aksiyomunda öngörülemez ve **olması** için * var olmalıdır.
+Karşısında dinin "sıfır noktası", *tam zıttı* iki tarafın küçük doğrularını ve mutlak doğrunun herkes tarafından kabul edildiği görülür. Şahsen, insan genellikle *ikna edilemezse inanmaz*,  akılcı yaklaşırsak, bilim bunun böyle olmadığını defalarca kanıtlamıştır. Ama, ilahiyattaki "sıfır noktası" bu çıkarımın tam tersinin doğruluğunu kabul eder. *aksiyomunda öngörülemez ve **olması** için * var olmalıdır.
 
-Askerinin erdemlerine olan inancımız "sıfır noktasında" yatar. "Bir adam başka birini öldürmek için para alıyorsa ona "kiralık silah" deriz" ve kiralık katil olarak betimleriz. Eğer bu adam kurdelalı yeşil kostüm giyerse *ve aynı hareketi* tekrarlarsa, biz onu kahraman olarak adlandırır ve ödüllendiririz. Küçük doğru (*öldürmemeliyim*) büyük gerçekle (*cinayet yanlıştır*) tamamen örtüşür - ama bunların ortasındaki ''boş alan''’da, cinayet büyülü bir şekilde ''erdemli'' olur
+Askerinin erdemlerine olan inancımız "sıfır noktasında" yatar. "Bir adam başka birini öldürmek için para alıyorsa ona "kiralık silah" deriz" ve kiralık katil olarak betimleriz. Eğer bu adam kurdelalı yeşil kostüm giyer ise ve aynı hareketi tekrarlarsa, biz onu kahraman olarak adlandırır ve ödüllendiririz. Küçük doğru (*öldürmemeliyim*) büyük gerçekle (*cinayet yanlıştır*) tamamen örtüşür. Ama bunların ortasındaki ''boş alan'da'', cinayet büyülü bir şekilde ''erdemli'' olur.
 
-Eğer bu ''boş alan'' gerçekse, hiç bir mantıklı açıklama getirilemez. Eğer önerge doğru ise - önergenin tam tersi de doğrudur - işte o zaman mantıklı açıklama yapmak imkansızlaşıyor. Mantıklı bilimin gelişmesi "sıfır noktası" için doğrusal bir saldırı olmuştur, ve hedefe sürekli olarak akın eden bu çılgın küçük cepçiler görüşe bağlıdır.
+Eğer bu ''boş alan'' gerçekse, hiç bir mantıklı açıklama getirilemez. Eğer önerge doğru ise, önergenin tam tersi de doğrudur. İşte o zaman mantıklı açıklama yapmak imkansızlaşıyor. Mantıklı bilimin gelişmesi "sıfır noktası" için doğrusal bir saldırı olmuştur ve hedefe sürekli olarak akın eden bu çılgın küçük cepçiler görüşe bağlıdır.
 
 Eski haritalarda, haritacılar keşiflerini bitirmeden önce, toprakların çizimi boş kağıtlara yapılırdı. Bilginin gelişimi önce bilinmeyen şeyin tanımlanmasını ve ardından bilinen ilkelerin bilinmeyen alanlara yayılmasını gerektirir.
 
@@ -38,31 +38,31 @@ Aynısı ahlak dünyasında doğrudur.
 
 ### Kayıplar
 
-''Tanımsız alan''’ı geçmek bir hayli tehlikelidir. Küçük gerçeklerden büyük gerçeklere geçen yol milyonlarca kemikle döşenmiştir. Socrates'in ölümünden eski bilim adamlarının işkencelerinden sorumlu olan bu dini fanatikler bu uğurda ölen ve öldürülen faşizm ve komünizmin kara fantezilerine milyonlar telef olmuştur, "sıfır noktası" için bilgi içeren her ilerleme çok büyük tehlikelerle karşılaşmıştır.
+''Tanımsız alan'ı'' geçmek bir hayli tehlikelidir. Küçük gerçeklerden büyük gerçeklere geçen yol milyonlarca kemikle döşenmiştir. Socrates'in ölümünden eski bilim adamlarının işkencelerinden sorumlu olan bu dini fanatikler bu uğurda ölen ve öldürülen faşizm ve komünizmin kara fantezilerine milyonlar telef olmuştur, "sıfır noktası" için bilgi içeren her ilerleme çok büyük tehlikelerle karşılaşmıştır.
 
-"sıfır noktasını geçmek" - yada ufak ve büyük doğruları birleştirmek - kaçınılmaz olarak bu kadar zor ve tehlikeli olacak mıydı? Algısal ile kavramsalı mantıksal çıkarımın düz çizgisinde birleştirmek devasa bir meydan okumadır -ama bu gelişim için binlerce yıl ve kandan okyanuslar mı gerek?
+"sıfır noktasını geçmek", yada ufak ve büyük doğruları birleştirmek, kaçınılmaz olarak bu kadar zor ve tehlikeli olacak mıydı? Algısal ile kavramsalı mantıksal çıkarımın düz çizgisinde birleştirmek devasa bir meydan okumadır. Ama bu gelişim için binlerce yıl ve kandan okyanuslar mı gerek?
 
 Eğer insanoğlunun teknolojik ve ekonomik gelişmesine bakarsak, son yüzyıllarda yaşanan sıçramanın neredeyse sayısız milenyuma denk geldiğini görebiliriz. Bazı yaygın genetik mutasyonun, entelektüel tutarlılığın ve maddi başarının bu ani ve muazzam hızlandırılmadan sorumlu olduğunu düşünmek imkansız olmaktadır. Kesin bir "kartopu etkisi"’nin gerçek olduğunu savunan teoriler, esrarengiz bir şekilde medeniyetin doğumundan beri oluşan tüm küçük bilgi artışlarının birikimi ile ortaya çıkarılmıştır ve hiçbir tahmin değerine sahip olmadıkları için, *ex post facto* açıklamalarında olduğu gibi genellikle tamamen gözden çıkarılabilirlerdir.
 
-Bunu anlamamız için sarsıcı potansiyelimizin bizim hep elimizde binlerce yıldır elimizde olduğunu idrak etmemiz gerekir - ve bunun üzerine gitmemizde haz ve büyük kazanımlar vardır - Ve bu açıklığa çıktığında, zarafetli zihnimizi kullanmak istediğimizi görürüz.
+Bunu anlamamız için sarsıcı potansiyelimizin bizim hep elimizde binlerce yıldır elimizde olduğunu idrak etmemiz gerekir ve bunun üzerine gitmemizde haz ve büyük kazanımlar vardır ve bu açıklığa çıktığında, zarafetli zihnimizi kullanmak istediğimizi görürüz.
 
 Böylelikle, tarihsel olarak insanlığın doğal özgürlüğünü ezmek ve köleleştirmek için hareket eden aşağı yönlü bir kuvvet olmalıdır.
 
-Bilim dünyasında, bizi baskı altına alan zihnimizi cehalete yakın tuttuğunu görmek zor değildir. Batıl inançları din formunda, şiddeti aristokrasi formunda, tehdit görmüş rasyonel düşünürleri ise hapiste, işkencede ve cinayette. Bir çiftçinin sahip olduğu ineklerin aptallığından kar ettiği gibi bir köle taciri de kölelerinin korkusundan kar eder, rahip ve krallar üstünlüklerini onları sorgulayanları ölümle tehdit ederek korumuştur.
+Bilim dünyasında, bizi baskı altına alan zihnimizi cehalete yakın tuttuğunu görmek zor değildir. Batıl inançları din formunda, şiddeti aristokrasi formunda, tehdit görmüş rasyonel düşünürleri ise hapiste, işkencede ve cinayette. Bir çiftçinin sahip olduğu ineklerin aptallığından kar ettiği gibi bir köle taciri de kölelerinin korkusundan kar eder. Rahip ve krallar üstünlüklerini onları sorgulayanları ölümle tehdit ederek korumuştur.
 
-Basit gerçek ise "rahip" ve "kralların" - eskiden - ve bugün - sadece insan olduklarıdır. Tanrılar ve şeytanların onların kendi hükümlerini sürdürmek için yaratıldığı ve aslında var olmadıkları basit bir gerçektir.
+Basit gerçek ise "rahip" ve "kralların" eskiden ve bugün sadece insan olduklarıdır. Tanrılar ve şeytanların onların kendi hükümlerini sürdürmek için yaratıldığı ve aslında var olmadıkları basit bir gerçektir.
 
-İnsanın doğasını ve gerçeğini anlamak için büyük adımlar attık ama üzücü gerçek *morality* diyarı aslında "sıfır bölgesinde" kaybolmuştur - "vasat" doğruların yıkıcı illüzyonların da
+İnsanın doğasını ve gerçeğini anlamak için büyük adımlar attık ama üzücü gerçek *ahlak* diyarı aslında "sıfır bölgesinde" kaybolmuştur - "vasat" doğruların yıkıcı illüzyonların da
 
 ### ''Ara Gerçekler''
 
-"sıfır noktasında" karşıt prensipleri ele alalım - duyu algı ve süreklilik arasında - "vasat doğrular"
+"sıfır noktasında" karşıt prensipleri ele alalım. Duyu algı ve süreklilik arasında "vasat doğrular"
 
-Bu ''ara gerçekler'' en tehlikeli illüzyonlardır, çünkü doğrunun *görünüşünü* bahşederken gerçekte doğruya *saldırır*.
+Bu ''ara gerçekler'' en tehlikeli illüzyonlardır. Çünkü, doğrunun *görünüşünü* bahşederken gerçekte doğruya *saldırır*.
 
 Bu illüzyonları geçerek biz gerçek doğruyu bulduk, ''orta doğrular'' aslında bizim gerçeği elde etmemizi engelliyor. Onlar fantazinin, yağmalamanın ve sömürmenin son defans çizgisidir.
 
-Onlar sadece mantıksız değil, hemde *anti* akılcıdır, ''orta gerçekler'' hep çok esnektir - bu güce hizmet ettikleri sürece de böyle olacaktır. Örneğin Hristiyanlık Roma İmparatorluğunun son dönemlerinde artan faşistliğin batıl inançları baltalamasıyla ortaya çıkmıştır. ''Eski tanrılarınızı unutun, artık yepyeni bir Tanrımız var ve eskilerden çok daha iyi!''
+Onlar sadece mantıksız değil, hemde *anti* akılcıdır. ''Orta gerçekler'' hep çok esnektir. Bu güce hizmet ettikleri sürece de böyle olacaktır. Örneğin; Hristiyanlık Roma İmparatorluğunun son dönemlerinde artan faşistliğin batıl inançları baltalaması ile ortaya çıkmıştır. ''Eski tanrılarınızı unutun, artık yepyeni bir Tanrımız var ve eskilerden çok daha iyi!''
 
 ''Orta gerçekler'' hep gerçeğin görüntüsünü alır, bir yalanı takip eder. ''Zeus bir pagan batıl inancıdır'' doğru bir tezdir, hristiyanlar tarafından oluşturulan. Takip ettiği yalan ise: ''Yahweh bir pagan batıl inancı değildir, o gerçek ve yaşayan bir Tanrıdır.''
 
@@ -70,11 +70,11 @@ Bunu işlevsiz bir arkadaşına yardımcı olmaya çalışan bizlerden kişisell
 
 Bir illüzyonu başka biriyle değiştirmemek çok zordur.
 
-''İngiliz devleti tam bir gaddar'' diye ağlıyordu 18. yüzyıldaki Amerikalı devrimciler - ve, sonra ingiliz askerlini tahliye ettikten sonra, kendi devletlerini ayarlayıp kendi vatandaşlarına saldırmaya başladılar.
+''İngiliz devleti tam bir gaddar'' diye ağlıyordu 18. yüzyıldaki Amerikalı devrimciler ve sonra İngiliz askerlini tahliye ettikten sonra, kendi devletlerini ayarlayıp kendi vatandaşlarına saldırmaya başladılar.
 
 ''Aristokrasi haksız bir iğrençliktir'' diye ağladı diğer devrimciler, sonra kendi zalim ve büyük demokrasilerini kurdular.
 
-''Ara gerçekler'' bilimde de var olabilir, ve küçük doğrular ve büyük doğruların doğal ilerlemesini önlerler. 18. yüzyıla kadar, biologlar ''kendiliğinden üretim'' veya yaşamayan maddelere inanıyordu. Bu hiç bir zaman incelenemedi, ama eski felsefi ve dini yazıtlarda çok görülebiliyordu, ve gerçek olarak kabul edildi. 1905 Einstein devriminden önce, ışığın "parlak eter" denen görünmez bir madde içinde gittiği sanılmıştır, aynı ses dalgalarının ışık içinde gitmesi gibi. Bu teoriye inanan bilim adamlarının hiçbiri "eter" hakkında somut bir kanıta sahip değildi, - ama diğer gözlemlenebilir özelliklerine bakmak gerekliydi.
+''Ara gerçekler'' bilimde de var olabilir ve küçük doğrular ve büyük doğruların doğal ilerlemesini önlerler. 18. yüzyıla kadar, biologlar ''kendiliğinden üretim'' veya yaşamayan maddelere inanıyordu. Bu hiç bir zaman incelenemedi. Ama eski felsefi ve dini yazıtlarda çok görülebiliyordu ve gerçek olarak kabul edildi. 1905 Einstein devriminden önce, ışığın "parlak eter" denen görünmez bir madde içinde gittiği sanılmıştır. Aynı ses dalgalarının ışık içinde gitmesi gibi. Bu teoriye inanan bilim adamlarının hiçbiri "eter" hakkında somut bir kanıta sahip değildi. Ama diğer gözlemlenebilir özelliklerine bakmak gerekliydi.
 
 Din de başka bir ''orta gerçek''’dir - hemde en tehlikelilerinden biri. Bildiğimiz kadarıyla evrendeki eşsiz bir tür olduğumuz doğrudur. Zürafa uzun bir dört ayaklıdır, ama insan sadece ''akıllı'' bir primat değildir, daha değişik bir şeydir. Bu farklılığın doğası bilinmezdir - dini bir açıklama "hayvanlardan farklıyız çünkü hayvanların ruhu yoktur ve bizi tanrı yaratmıştır" der ve bu "vasat doğrunun" başka bir örneğidir. Hayvanlardan farklı olduğumuz ise bir gerçektir. Bizim bir tanrı tarafından yaratıldığımız ve bir ruha sahip olduğumuz doğru değil.
 
