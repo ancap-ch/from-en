@@ -12,7 +12,7 @@ Lahat ay mayron upang isalin itong liwanag sa ating mga pagkakaintindi sa pangli
 
 Isinasaalang-alang ng lahat itong mahahalaga, at sa sentro ng panglipunan, lahat ng lugar ay banal na entidad tinatawag na äng pamahalaan." ay ang kawalan ng entidad, isinasaalang-alang ng lahat itong malinaw na ang lipunan ay mapadpad sa ganap na kaguluhan, at mailagay ito sa maging-makatwiran bilang mga aninong itinuturing, na nasa pagliban ng mga diyos, ang daigdig mismo ay papatungo sa malaking gulo, at ipatigil na.
 
-However, “the government” no more exists than “god” exists.
+Ganun paman, "ang gobyerno"wala nang umiiral kaysa "diyos"ang umiral.
 
 When we speak of “gods,” we are really talking about “the opinions of priests.”
 
