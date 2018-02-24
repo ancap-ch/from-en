@@ -159,9 +159,10 @@ translation:
   fetch_progress: true
 titles:
   - Ilmu Ekonomi dan Etika-Etika
-  - Kekayaan Pribadi\quad
-  - Penelitian Tentang\quad\quad\quad
-  - Ekonomi Politik dan Filsafat\quad\quad
+  - Kepemilikan Pribadi\quad\quad
+  - Penelitian-Penelitian dalam~~\quad\quad
+  - Ekonomi Politik dan Filsafat~~~\quad\quad
+
 discussions:
   - 
     - https://en.ancap.ch/t/5
