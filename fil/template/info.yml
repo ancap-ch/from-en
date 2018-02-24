@@ -1,8 +1,8 @@
 ---
 content_files:
   - 
-    - content.md
-    - https://github.com/ancap-ch/from-en/blob/utopian/en/template/content.md
+    - nilalaman.md
+    - https://github.com/ancap-ch/from-en/blob/utopian/tl/template/content.md
 translation:
   language: en
   is_translation: true
@@ -11,35 +11,35 @@ translation:
   fetch_reviwers: true
   fetch_progress: true
 titles:
-  - Title Text
-  - '~~Centered~~'
-  - '~~~~~to the right'
+  - Pamagat ng teksto
+  - '~ ~ Nakasentro ~ ~'
+  - '~ ~ ~ sa kanan'
 discussions:
   - 
     - https://en.ancap.ch/t/5
     - Ancap Channel
 more_infos:
   - 
-    - https://www.google.com
-    - Website name
+    - https://www.Google.com
+    - Ang pangalan ng site
 tags:
-  - Some Tag
-  - Another Tag
-  - And so on
+  - Ilang naka-tag
+  - Isa pang Tag
+  - At marami pang iba
 tag_prefix: "https://en.ancap.ch/tags/"
 persons:
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "author"
+    identifier: "template_tao"
+    rule: "manunulat"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "collaborator"
+    identifier: "template_tao"
+    rule: "pakikipagtulungan"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "thanked"
+    identifier: "template_tao"
+    rule: "pinasalamatan"
   - 
     person: [ ]
     identifier: "template_person"
