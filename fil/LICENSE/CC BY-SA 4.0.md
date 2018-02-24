@@ -58,9 +58,9 @@ a. ***License grant.***
 
 3. **Term.** Ang termino ng Pampublikong Lesensya na ito ay natukoy sa Seksyon 6(a).
 
-4. **Media and formats: technical modifications allowed.** Ang maygawa ng Lesensyado para saiyo sa pagsasanay ng Karapatan sa Lesensya sa lahat ng mga media pormat maging ang alam mo ngayon o sa darating na likha at ng ito ay magamit sa tekinal na mga modipikasyon kung ito ay kinakailangan na gawin. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+4. **Media and formats: technical modifications allowed.** Ang maygawa ng Lesensyado para saiyo sa pagsasanay ng Karapatan sa Lesensya sa lahat ng mga media pormat maging ang alam mo ngayon o sa darating na likha at ng ito ay magamit sa tekinal na mga modipikasyon kung ito ay kinakailangan na gawin. Ang Tagapaglinsensya ng mga iurong at/ o sangayon na hindi magpahayag ng kahit anong karapatan o awtoridad para ipagbawal sayo mula sa paggawa ng teknikal na kaunting pagbabago sa pangangailangan na masanay ang mga Karapatan sa lisensyado, kasama ang teknikal na mga kakaunting pagbabago sa kailangan upang maiwasan ang epekto sa teknolohikal na mga pagsusukat. Para sa mga pakay ng Pampublikong Lesensya na ito, simple na gawin ang mga kaunting pag babago sa awtorisado na Seksyon na ito 2(a)(4) huwag mag labas ng Materyal na Inangkop.
 
-5. **Downstream recipients.**
+5. **Ang mga tatanggap ng Downstream.**
     
     A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
     
