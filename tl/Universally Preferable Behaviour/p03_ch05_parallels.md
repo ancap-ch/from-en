@@ -20,7 +20,7 @@ Kung saan ang lahat ng mga pinag-uusapan na patungkol sa"ang pamahalaan,"lahat a
 
 Ang palagay ng mga "kusang loob na humihingi,"na kung saan napatunayan na mahusay sa mga lupain ng pisika at byolohiya, higit sa lahat mananatiling hindi paniniwalaan sa larangan ng atin lipunan.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+Ganunpaman, ang "gobyerno" ay hindi kaylangan para sa samahan at ipagpatuloy ng lipunan kaysa"mga diyos" ay kailangan para narin sa samahan at ipagpapatuloy ng sandaigdig.
 
 In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
 
