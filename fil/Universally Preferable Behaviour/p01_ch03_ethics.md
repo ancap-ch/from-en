@@ -32,7 +32,7 @@ Gaya ng inihayag ng tanyag na si hume, hindi maari na makuha ang "karapatdapat" 
 
 Kagaya nito, walang gaanong bagay gaya ng panglahatan "mas magaling" na direksyon -ito ay nakadepende sa lahat na nakasalalay sa ginustong destinasyon. Kung nais kong magmaneho papuntang new york galing san francisco, ako ay "kailangan" sa silangan magmaneho. Kung nais kong magmaneho papuntang karagatan galing san francisco, ako ay "kailangan" magmaneho sa kanluran. Alin man sa "silangan" o "kanluran" ay pwedeng ikonsidera sa buong mundo "mas magaling."
 
-Ito ay totoo na kakaunting mga tao ang *gumawa* na magmaneho sa karagatan, pero ito ay hindi nangangahulugan na totoo na ang sinuman ay *kailangan* magmaneho sa karagatan. Principles are not democratic – or, if they are, we once more face the problem of rank subjectivism, and must throw the entire concept of ethics out the window.
+Ito ay totoo na kakaunting mga tao ang *gumawa* na magmaneho sa karagatan, pero ito ay hindi nangangahulugan na totoo na ang sinuman ay *kailangan* magmaneho sa karagatan. Ang mga alintuntunin ay hindi demokratiko - o, kapag silay ay, muli nating harapan ang mga suliranin ng ranggo ng subjectivism, at kailangan itapon ang kabuuang konsepto ng mga etika sa labas ng bintana.
 
 “Behaviour” exists in objective reality, outside our minds – the concepts “ought,” “should,” and “preference,” do not exist outside our minds. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
 
