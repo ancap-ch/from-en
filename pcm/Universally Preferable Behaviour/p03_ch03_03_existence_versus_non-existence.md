@@ -1,64 +1,64 @@
 ### Governments And Religion
 
-The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
+De idea say dem born you kon create one contract with one agency wey nor dey exist, which for real ground you resemble slave to some kind people, dey common to both religion and de state – and another one, far more agency wey be person own, which I don first talk about for my first book “On Truth: The Tyranny Of Illusion.”
 
-Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Whenever one priest talk say: “Obey God,” wetin im dey really talk na: “Obey me.” Since God nor dey exist, any commandment wey de priest claim say e dey come from God, dey actually come from de priest. “God” na just wetin nor real wey dem dey use take bully you in order for dem to get your service for low level for real world, to real people, in terms of you dey hand money come out voluntarily, time and resources.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+E dey far more efficient for those wey dey exploit people to get their slaves look am say slavery na power, since e cut down well well on de cost to control dem. If I fit convince you say e dey evil to avoid make you serve me, and say na power to be my slave, then, I nor need to hire many agberos to bully, control and steal from you.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+Religious and state mythologies, dat time, na wetin nor real wey reduce de cost to control population well well; na dem be de oil and fuel for de deadly planning of violence wey dem arrange.
 
-Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Throughout de world, rulers na very small percentage of de population. How e go fit dey possible for one or two percent of people to control everybody else? E get one certain monopoly on military weapons, to dey sure, but  monopoly dey easy to counter, since most governments dey make fortune when dem sell weapons throughout de world.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+De sad reality na dat people as a whole dey  enslaved to things wey nor real like nation, gods, cultures – and governments.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+Our personal pride dey use style rebel against us one quick slavery wey dem force for person to another human being – anyhow  as e be, we be like to almost dey enjoy in slavery to mythology.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+Our desire to dey good – join with de thrill of power wey we dey get by to dey obey mythologies wey good – make us dey line up to willingly hand over our things to those wey dey claim to represent those mythologies.
 
-One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+One central reason wey we know say government and gods nor dey necessary na that dem dey effective. *We know say most people desperately wan dey good because dem dey easily controlled by theories wey good.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+De logic of obedience to mythology dey clearly foolish. If one priest tell me say I need to obey “God,” dis na exactly de same as him dey tell me say I must obey wetin nor real wey dem dey call”Nog.” Even if I accept say dis thing wey nor real dey worthy to obey  forever, dis one nor go still push me to obey de priest in any way. If I tell you to “obey your heart,” I fit use reason talk say: “and *me alone* talk for your heart”?
 
-Of course not.
+Of course no.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+When we strip comot mythology and wetin nor real for our “conversation” with our rulers, wetin go come na reality wey dey fierce, empty and e fit kill.
 
-Let’s take as an example a very real and present danger: taxation.
+Make we by take as example one very real and present danger: taxation
 
 #### Taxation
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Dem tell me say, by say I choose to live for Canada, I owe “de government” more than fifty percent of my income.
 
-Stripped of mythology, what does this really translate to?
+Comot mythology, wetin dis thing really translate to?
 
-In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+For reality, I go wait until de end of time for “de government” to come and kon pick up their money. To dey wait for “de government” to drop by be like we wan date de idea of “femininity.” I fit as well try to pay for my dinner with de word “money.”
 
-In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+For reality, when dem tell me say I must pay my tax t “de government,” wetin e actually mean na say I must write check to transfer my money into one particular bank account, which some people go kon check. Dis people kon get de right to take de money, and spend am as dem fit – dis particular people get complete control over my money.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+E nor get any point at all wey something like “de government” lift one finger, kon move, open one bank account, or spend one penny. Imagine say wetin nor real wey  dem dey call “de government” get de capacity to take or spend your money na exactly de same thing as you go wait for “God” to come kon pick you up take you go church.
 
-Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+So, de real conversation na one guy send me one letter dey tell me say I owe am money. I nor get contract with dis guy, and e nor own any of my property, although some other guys write one supposed “contract” wey claim say he own my property.
 
-If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
+If I nor pay dis guy, he go send another guy come my house to kon collect de money – plus “interest” and “charges.” 
 
-Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Normally, when one man with gun come my house and demand for my money, I get right to use force take defend myself. For dis case, anyhow as e be, because im dey costume and kon claim to represent something wey nor real, I nor dey allowed to use force defend myself.
 
-Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
+Now, if I come to your house tonight and I dress as one “high elf of Narnia” and demand de money wey you dey owe de”Queen of Sorrows,” assuming say nor be Halloween, you dey allowed to dey look me with amazement, and order me to comot from your property.
 
-If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
+If I nor pay de man who come kon take my money, he dey allowed to pull gun come out, point am for my chest, and kidnap me – or shoot me if I resist. He go fit hold me for one tiny cell year after year, where I go face de most painful brutality and constant rape, until he go choose to let me go.
 
-Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+As e dey interesting, if one man owe me money legally, I nor dey allowed to kidnap am and make am to face torture and rape am year after year. So, taxation totally violate de UPB framework, since na de violent transfer of property wey dem dey use force.
 
-Stealing, as we have proven, is evil.
+Stealing, as we don prove, na evil.
 
-Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
+Einstein completely change physics by to dey claim – and prove – say de speed of light dey constant.
 
-We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
+We go fit change de world completely by to accept de claim – and de proof – say stealing na always evil.
 
 ### Government, Religion, And UPB
 
-When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
+When we take de UPB framework and kon apply am to correct good behaviour wey relate regarding government and religion, some result wey dey interesting go occur.
 
 The proposition that is most often used to justify government power is: “the government has the right to take your money.” This, however, is an utterly imprecise and false statement. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
 
