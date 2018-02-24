@@ -80,7 +80,7 @@ Samakatuwid ang paniwalaan na ang pagpatay ay moral na tama ay hindi ginagawang 
 
 Ang mga opinyon ay hindi binabago ang reyalidad.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Dahil ang mga opinyon ay hindi binabago ang realidad, hindi ko maibibigay sa iyo ang anumang pagbubukod o kabaliktaran hinggil sa unibersal na moral na tuntunin. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
 
 ### Government As Voluntarism
 
