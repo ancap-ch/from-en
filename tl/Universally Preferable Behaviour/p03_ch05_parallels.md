@@ -40,7 +40,7 @@ Pwede tayong makapili ng ating paniniwalaan na ang gubyerno ay ang kapwa kailang
 
 Katulad pa, na ang mga pamahiing pamamaraan, ay may katagalan ang pagsulong ng mga tao na nasa buong salaysay. Ang pinaka makabuluhang simula sa kung ano ang nasabing UPB ipakita sa gubyerno na kung ano ang siyensya nagpakita na patungkol sa pananampalataya.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+Gaya ng siyensya ay sinimulan na magbigay ng panuntunan sa mundo na pwedeng makatakbo ng wala nang isang dyos, sa lahat ng uri nang pamamaraan sa pagka-isterikong hiyawan na ang katapusan ng daigdig ay nalalapit na, sa lipunan ay makaraaranas ng paguho nito dahil sa "kakulangan ng pamahalaan," at maging ang sibilisasyon ay maaring mapunta sa pagkatunaw dahil sa digmaan na ang lahat ay lalaban sa lahat.
 
 Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
 
