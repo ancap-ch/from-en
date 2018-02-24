@@ -80,11 +80,11 @@ Samakatuwid ang paniwalaan na ang pagpatay ay moral na tama ay hindi ginagawang 
 
 Ang mga opinyon ay hindi binabago ang reyalidad.
 
-Dahil ang mga opinyon ay hindi binabago ang realidad, hindi ko maibibigay sa iyo ang anumang pagbubukod o kabaliktaran hinggil sa unibersal na moral na tuntunin. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Dahil ang mga opinyon ay hindi binabago ang realidad, hindi ko maibibigay sa iyo ang anumang pagbubukod o kabaliktaran hinggil sa unibersal na moral na tuntunin. Dahil ang moral na mga tuntunin ay base sa unibersal na lohika, gayondin sa pisikal na kalikasan at reyalidad ng tao, hindi ko pwedeng ipagkaloob sa iyo ang "karapatang pumatay", gayon din ang pagkakaloob sa iyo ng kakayahang lumutang, maglakad sa ibabaw ng tubig, o tumpak na sabihing ang dalawa at dalawa ay magiging lima.
 
-### Government As Voluntarism
+### Pamahalaan bilang Boluntarismo
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+Ang bukas na pwersa na nasasangkot sa institusyon ng pamahalaan - ang konseptwal na balot na nagbabaliktad ng moral na mga tuntunin para sa partikular na grupo ng mga indibidwal - ay isang bagay na laging iniiwasan sa mga debate. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
 
 However, this is pure nonsense.
 
