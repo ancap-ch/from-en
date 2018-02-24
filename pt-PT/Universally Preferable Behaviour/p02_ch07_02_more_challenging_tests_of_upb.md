@@ -28,9 +28,9 @@ O CUP também rejeita como inválida qualquer teoria que resulte em juízos mora
 
 "Comer" é moral, ou imoral ou moralmente neutro. Se comer é imoral, então surgem uma série de problemas lógicos, com os quais estou seguro, de que já estamos familiarizados.
 
-If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
+Por outro lado, se comer é *moral*, então não pode ser moral comer repolho e imoral comer um peixe, já que é uma violação da universalidade, na medida em que a mesma acção - comer - é julgado como boa e má.
 
-It is in this way that we understand that the proposition “eating *fish* is evil” fails the test of UPB, and is not valid as a moral theory.
+É desta forma que entendemos que a proposição "comer *peixe* é má", falha no teste do CUP e não é válida como uma teoria moral.
 
 ### Animal Rights
 
