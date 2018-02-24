@@ -44,7 +44,7 @@ Gaya ng siyensya ay sinimulan na magbigay ng panuntunan sa mundo na pwedeng maka
 
 Sa anumang pagkakataon ang isang paraan na nagpapahayag ng pangangatwiran ay pwedeng maging makapangyarihang pag-iisip sa pagtakbo ng *walang* sinumang may kakayahan, na sa lahat ay para kumikita ng mula sa pagpapatakbo ng kanilang kakayahan na iyon napaluha ang lahat ng sila ay nawalan.
 
-Ang mga pari ang tumupad sa pagpapasimula ng makaagham na pagbabago. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+Ang mga pari ang tumupad sa pagpapasimula ng makaagham na pagbabago. Walang diyos, ang nagsasabing ang buhay ay walang kahulugan. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
 
 None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
 
