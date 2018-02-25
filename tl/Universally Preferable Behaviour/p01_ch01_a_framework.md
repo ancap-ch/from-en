@@ -4,7 +4,7 @@ Ang Etikal na mga panukala ay magkakaiba mula sa mga tipo ng kaalaman sa pahayag
 
 Halintulad, kung sasabihin ko na "Gusto ko ng Gulay," yan din ay gusto lamang sa sinabi para sa personal na pagtatangi. Gayunpaman, kung sasabihin ko na, "ang gulay ay pampalusog na pagkain," kung gayon ako ay lumipat mula sa pagpapahayag ng personal na pagtatangi para sa pagpapahayag ng katotohanan sa layunin. Ito ay magkaiba sa gitna ng "Gusto ko ng ice cream," at, "Ang Ice cream ay nag lalaman ng mga gatas."
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+Ang napakahalaga na pagkakaiba sa gitna ng pagpapahayag ng *pagtatangi* at mga pagpapahayag sa*katunayan*na ang mga pagpapahayag ng katunayan ay layunin, nasusubok - at pagbigkis. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
 
 If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
 
