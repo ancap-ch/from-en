@@ -1,54 +1,54 @@
-## Lifeboat Scenarios
+## 救生艇的情景
 
-The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
+事实上，UPB只验证逻辑一致的道德理论并不意味着就没有可能的情况下，我们可能会选择违背了这种理论的原理。
 
-For instance, if we accept the universal validity of property rights, smashing a window and jumping into someone’s apartment without permission would be a violation of his property rights. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
+例如，如果我们接受产权的普遍有效性，不经许可就砸碎窗户，跳进某人的公寓，那将是对他的财产权的侵犯。然而，如果我们在公寓窗外挂了一个旗杆，就要摔死了，我们很少有人会为了遵守抽象的原则而拒绝进入窗户，跳到安全的地方。
 
-In the real world, it would take a staggeringly callous person to press charges against a man who destroyed a window in order to save his life – just as it would take a staggeringly irresponsible man to refuse to pay restitution for said window. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
+在现实世界中，它会带着冷酷的人起诉人摧毁一个窗口以挽救他的生命–正如它会采取一个极不负责任的人拒绝支付赔偿的窗口。“可避免性”的原则就在这里 - 一个悬在旗杆上的男人几乎没有选择在窗口踢球。一个人闯进你家偷东西的人有能力避免侵犯你的财产——他不是被迫的，而是侵略的始作俑者。这类似于男人欺骗她的女人，而男人则把她锁在地下室里。
 
-This is not to say that breaking the window to save your life is not wrong. It is, but it is a wrong that almost all of us would choose to commit rather than die. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
+这并不是说打破窗户挽救你的生命不是错的。是的，但这是一个错误，几乎我们所有人都会选择承诺而不是死亡。如果我快饿死了，我会偷一个苹果。这并不意味着我偷苹果是正确的 - 它只是意味着我会去做这件事 -并且必须公正地接受我偷窃的后果。[^10]
 
-### Grey Areas
+### 灰色区域
 
-The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+在道德领域存在某些“灰色地带”这一事实常常被用来作为等级相对主义的理由。由于有时有些事情还不清楚（例如，谁开始使用暴力），因为不可能为每一个可想象的情况确定客观和准确的规则，所以经常会得出结论：没有任何东西是可以确定的，而且没有任何情况都存在客观规则。
 
-This is false.
+这是假的。
 
-All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
+所有理性的人都认识到生物学是一门有效的科学，尽管有些动物天生就有“一次性”突变。狗天生有五条腿，这并不意味着“狗”成为完全主观的范畴。某些昆虫种类难以分化并不意味着甲虫和鲸鱼之间没有区别。
 
-For some perverse reason, intellectuals in particular take great joy in the wanton destruction of ethical, normative and rational standards. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
+由于某些不合理的原因，知识分子特别喜欢肆意破坏道德规范和理性标准。这可能是因为知识分子经常被腐败分子如政治家，牧师和国王支付 -或者可能是一个人经常成为知识分子，为自己的不道德行为创造正当理由。不管是什么原因，大多数现代思想家都成为一种“反思者”，这是非常奇怪的。这就相当于有一大批“生物学家”，他们一生都在争论生物学的科学是不可能的。如果生物学的科学是不可能的，那么成为一个生物学家就没有意义了，除了无神论者之外，还应该争取成为一名牧师。
 
-### Shades Of Grey
+### 灰色的阴影
 
-In the realm of “grey areas,” there are really only three possibilities.
+在灰色地带，实际上只有三种可能性。
 
-1. There are no such things as grey areas.
-2. Certain grey areas do exist.
-3. All knowledge is a grey area.
+1、没有灰色地带的东西。
+2、某些灰色区域确实存在。
+3、所有知识都是灰色地带。
 
-Clearly, option one can be easily discarded. Option three is also fairly easy to discard. The statement “all knowledge is a grey area” is a self-detonating proposition, as we have seen above, in the same way that “all statements are lies” also self-detonates.
+显然，选项一很容易被丢弃。选项三也相当容易丢弃。正如我们上面所看到的, “所有的知识都是一个灰色地带”是一个自我引爆的命题，在相同的方式，“所有的陈述都是谎言” 也是自我引爆的。
 
-Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
+因此，我们必须选择第二项，也就是说，某些灰色区域确实存在，并且我们知道它们是灰色的，相对于那些不是灰色氧气存在于空间中的区域，也存在于水下，而不是以人类所能消耗的形式或数量。氧合程度是一个灰色区域，即“少与多”；人类是否能呼吸水的问题，肯定是黑白的。
 
-A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
+一个科学家被食人族可能假装要成为巫医逃脱 – 这并不意味着我们必须把科学方法作为完全无效。
 
-Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
+同样，也可能有极端的情况，我们可以选择去做不道德的行为，但这种情况并不能使道德科学失效，甚至比偶尔的突变更能使生物学的科学失效。事实上，通过对突变的接受和检验，生物科学得到了极大的发展 - 同样，科学的伦理是唯一通过“救生艇的情况下”检查，只要这种考试不追求过分。
 
-### Universality And Exceptions
+### 普遍性与例外
 
-Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
+在我们开始使用普遍优越行为的框架来检验一些普遍持有的道德信念之前，我们必须处理“例外”的问题。
 
-Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
+利用上述的“救生艇场景”，人们常常得出这样的结论：“好”就是对个人生活而言“好”的那种。
 
-In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
+在道德伦理辩论中，如果有人问我是否会偷苹果而不是饿死，我说“是” - 下面的论点是不可避免的：
 
-1. Everyone would rather steal an apple than starve to death.
-2. Thus everyone universally prefers stealing apples to death by starvation.
-3. Thus it is *universally preferable* to steal apples rather than starve to death.
-4. Thus survival is universally preferable to property rights.
-5. Thus what is good for the individual is the ultimate moral standard.
+1.  每个人都宁愿偷苹果也不愿饿死。
+2.  因此，大家普遍喜欢通过饥饿来偷苹果
+3.  因此，偷苹果而不是饿死是更为普遍的。
+4. 因此，生存权利普遍优于财产权利。
+5.  因此，对个人有益的是最终的道德标准。
 
-This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
+这已被用作从 Nietzsche (尼采) 到 Rand (兰德的) 一些伦理学理论和方法的基础。每个人对生存的偏好都被转化为以个人生存为中心的伦理理论。[^11]
 
 This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
 

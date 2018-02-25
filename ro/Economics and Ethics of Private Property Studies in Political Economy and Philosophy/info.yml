@@ -156,6 +156,7 @@ resources:
 targets: 
   - target:
     name: book
+    size: a4
     reset_footer_active: true
     reset_footer_depth: 2
     clear_page_active: true

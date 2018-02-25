@@ -1,24 +1,24 @@
-## A Framework For Ethics
+## Un Cadre Pour L'Éthique
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Les propositions éthiques sont différentes des autres types d'énoncés de connaissances. Si je dis "j'aime le jazz", il s'agit peut-être d'une affirmation vraie ou fausse, mais elle n'est généralement pas considérée comme contraignante pour vous. Ma préférence pour le jazz est une simple déclaration d'attachement personnel; Basé sur ma déclaration, cela ne vous concerne pas si vous aimez ou n'aimez pas le jazz.
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+De même, si je dis "j'aime les légumes", c'est aussi une simple déclaration de préférence personnelle. Cependant, si je dis, "les légumes sont des aliments sains", je suis passé d'un énoncé de préférence personnelle à un énoncé de faits objectifs. C'est la différence entre "j'aime la crème glacée" et "la crème glacée contient du lait".
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+La différence fondamentale entre les déclarations de *préférence* et les déclarations de *faits* est que les déclarations de faits sont objectives, vérifiables – et contraignantes. Si vous appréciez la vérité, alors il est de votre responsabilité d'accepter le fait que la crème glacée contient du lait, une fois qu'il a été montré.[^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Si je dis que la Terre est ronde et que j'ai des preuves étendues pour cette affirmation, ce n'est plus à vous de déterminer par vous-même si la déclaration est vraie. Si je peux prouver que la Terre est ronde, alors vous devez accepter cela comme une vérité, à moins que vous ne vouliez rejeter la raison et la preuve comme critères de vérité.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+Si j'accepte la validité des lois mathématiques, je ne peux pas rejeter arbitrairement une preuve mathématique conforme à ces lois. Si je *oui* rejette cette preuve, je ne peux pas continuer à affirmer que j'accepte la validité des lois mathématiques. Mon acceptation de ces lois signifie que je suis *obligé* d'accepter comme valide la preuve qui est conforme à ces lois. Le rejet de preuves conformes à des normes rationnelles est un rejet des normes rationnelles dans leur ensemble.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+La méthode scientifique, la rationalité elle-même et les lois mathématiques sont des exemples de critères *objectifs* pour établir la vérité d'une proposition. Je ne pense pas que deux et deux soient quatre – si vous acceptez aussi que deux et deux soient quatre, alors vous ne vous pliez pas à ma simple opinion, mais à une vérité rationnelle.
 
-### Objective Truth
+### Vérité Objective
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+Un défi central dans la compréhension de la nature de la vérité est la réalisation que "la vérité" n'existe pas dans le monde de la même manière qu'un rocher ou un arbre.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+Le concept de "vérité" est nécessairement un terme relatif – bien que cela ne signifie pas qu'il s'agisse d'un terme subjectif ou arbitraire. Le concept de «santé» est également un terme relatif – nous comparons la "santé" à la maladie, et aussi aux normes de santé relatives. Ce qui est considéré comme "bonne santé" pour une personne de quatre-vingt-dix ans serait difficilement considéré comme sain pour une personne de vingt ans. La définition d'une longue vie est très différente maintenant qu'il y a cinq cents ans.
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
+Cela ne signifie pas, cependant, que le concept de "santé" soit complètement relatif et subjectif. Une personne de dix ans qui meurt de leucémie est folle par définition – tout comme un coureur de marathon de vingt ans est en bonne santé par n'importe quelle définition. Actuellement, un homme qui vit quatre-vingt-dix ans a statistiquement une longue vie, bien que cela changerait si la technologie médicale nous permettait soudainement de vivre jusqu'à ce que nous en ayons deux cents.
 
 As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
 
