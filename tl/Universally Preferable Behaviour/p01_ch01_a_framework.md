@@ -24,9 +24,9 @@ Sa ating depinisyon sa "kalusugan" sa pinalawak, ito ay hindi mapagwalang bisa s
 
 Ang katotohanan ay mayroong halaga sa kamag-anak para din sa kanilang kinakailangan. Ang Newtonian physics ay mapalitan mula sa Einsteinian physics. kung saan [pinagtunay ang mas tama na matinding sitwasyon katulad ng extraordinaryo na mataas bigat o bilis. Gayunpaman, ang mga mandaragat ay hiling nakalkulahin ang tamang landas sa kabila ng dagat para hanapin ang Newtonian physics na mas higit pa sa tama at sapat. Hindi mo nais na maipadala sa spaceship papunta sa Alpha Centauri gamit ang Newtonian physics, ngunit ito ay buong ayos lamang para makuha ang ship mula sa Lisbon papunta sa New york. Ang trabaho na nasasangkot para matutunan at pagpapatupad ng Einsteinian physics ay isang negatibo sa neto para sa mga mandaragat.
 
-Bilang resulta, ang pangungusap sa "“Newtonian physics ay mas mababa sa eksakto maliban sa Einsteinian physics, ngunit Einsteinian physics ay isa sa mabisang paraan para kalkulahin ang mga bapor sa landas" maaring ituring na balido na panukala. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+Bilang resulta, ang pangungusap sa "“Newtonian physics ay mas mababa sa eksakto maliban sa Einsteinian physics, ngunit Einsteinian physics ay isa sa mabisang paraan para kalkulahin ang mga bapor sa landas" maaring ituring na balido na panukala. Ang Newtonian physics ay parehas na *mas tumpak*, at *mas bagay*.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+Kung nais natin na uminom ng pinaka dalisay sa posibleng tubig, malamang na gusto namin bumili ng libo-libong dolyar kada bote. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
 
 Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
 
