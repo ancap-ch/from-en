@@ -2,7 +2,7 @@
 
 Kung ako ay arketkto, at mag pasa ng plano upang gumawa ng bahay, ang unang hakbangan na kailangan ko pagtagumpayan kahit na o hindi ko bahay ay maaaring gumawa sa anumang paraan. Kung ako ay magpapasa ng mga plano para sa bahay na kabubuang ipagtayo sa mga bula ng sabon, kahit kailan ay hindi ako makakakuha ng komisyon dahil dito sa "bahay" na hindi kahit kailan tatayo.
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+Ang katulad nito, kung ang mga inhinyero ay mag papasa ng plano para tulay, ang unang modelo na kailangan ay kontento kung hindi man ang tulay ay tumayo. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
 
 It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
 
