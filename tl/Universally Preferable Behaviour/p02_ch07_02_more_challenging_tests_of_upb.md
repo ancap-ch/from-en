@@ -24,15 +24,15 @@ Sa kaparehong paraan, na ang isang etika ay hindi pwedeng wastong ilagay ang mor
 
 Ang panukalang moral ay ang "kumakain ng isda ay masama" kaya nabigo ang pagsubok ng pagiging pandaigdigan sapagkat ito ay masyadong tiyak na pangkalahatan - ito ay tulad ng pagsasabi "ang aking teyorya ng grabidad ay nailalapat lamang sa mga kulay-rosas na bato." Kung ito ay isang teyorya ng grabidad, ay dapat mag-aplay sa lahat; kung naaayon lamang ito sa mga kulay-rosas na bato, kung gayon ito ay hindi isang teyorya ng gravibidad.
 
-Tinanggihan din ng UPB bilang di-maayos ang anumang teorya na nagreresulta sa pagsasalungat sa moral na hatol para sa magkaparaeho na pagkilos. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
+Tinanggihan din ng UPB bilang di-maayos ang anumang teorya na nagreresulta sa pagsasalungat sa moral na hatol para sa magkaparaeho na pagkilos. Ang "pagsalakay" ay hindi pwedeng maging moral sa isang araw, at imoral ang mga susunod. Kaya naman alam natin na ang "pagkain" ay hindi pwedeng maging moral sa isang araw, at pagka-imoral ang mga susunod.
 
-Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
+Ang alinman sa "pagkain" ay moral, imoral, o neutral sa moralidad. Kung ang pagkain ay imoral, pagkatapos ay ang isang buong host ng lohikal na mga problema ang lumabas, na kung saan ako ay sigurado at kami ay lubos na pamilyar sa pamamagitan ngayon.
 
-If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
+Kung, sa kabilang dako, ang pagkain ay *moral*, pagkatapos ay hindi pwedeng moral na kumain ng isang repolyo, at imoral na kumain ng isda, dahil ito ay isang paglabag sa pagiging pandaigdigan, sa ganoong parehong pagkilos - pagkain - ay hinuhusgahan ng mabuti at masama.
 
-It is in this way that we understand that the proposition “eating *fish* is evil” fails the test of UPB, and is not valid as a moral theory.
+Sa ganitong paraan na nauunawaan natin na ang panukalang "ang pagkain *isda* ay masama "ay nabigo sa pagsusulit ng UPB, at hindi wasto bilang moral na teyorya.
 
-### Animal Rights
+### Karapatan ng mga Hayop
 
 We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
 
