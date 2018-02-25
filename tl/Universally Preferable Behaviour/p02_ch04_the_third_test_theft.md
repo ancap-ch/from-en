@@ -42,11 +42,11 @@ Tulad ng nabanggit sa itaas, ang mga tao ay may mga karapatan sa pag-aari, o hin
 
 Kung ang isang lalaki ay walang karapatan na gumamit ng ari-arian, pagkatapos ay wala siyang karapatang gamitin ang kanyang sariling katawan. Wala siyang karapatang gamitin ang kanyang sariling baga, kaya't dapat siyang huminto sa paghinga. Bagaman ito ay tila nakakatawa, ito ay isang agarangl at di maiiwasang resulta ng saligan na ang mga tao ay walang mga karapatan sa pag-aari.
 
-It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
+Ito ay medyo ligtas na ipalagay na ang sinuman na iyong pinag-uusapan ang mga karapatan sa pag-aari ay may pagguhit ng hininga, at sa gayon ay sumasang-ayon sa iyo na siya ay may karapatang gamitin ang kanyang sariling katawan kahit man lamang.
 
-The question then comes up whether or not human beings have the right to *exclusive* property use. For instance, property could be defined as a sort of time-share principle of ownership, insofar as everyone should have the right to own everything, on some schedule or another.
+Ang tanung ay nanggagaling kung ang mga tao ay may karapatan sa paggamit ng *eksklusibo*. Halimbawa, ang ari-arian ay maaaring tinukoy bilang isang uri ng oras-ibahagi na prinsipyo ng pagmamay-ari, sa ganoon lahat ay dapat magkaroon ng karapatang magkaroon ng lahat ng bagay, sa ilang iskedyul o sa iba pa.
 
-This means of course that a man with lung cancer has a right to at least one lung of a healthy person. Since all ownership starts with the body, if we do not have the right to exclusive ownership over our own body, then we must share our body with other people, or be immoral. The sick man has a right to one of our lungs, and if we withhold it from him, that is exactly the same as stealing it. Similarly, both you and I have the right to use Celine Dion’s singing voice, since it is wholly selfish of her to pretend that she has exclusive ownership of it.
+Siyempre ang ibig sabihin nito ay ang isang tao na may kanser sa baga ay may karapatan sa hindi bababa sa isang baga ng isang malusog na tao. Since all ownership starts with the body, if we do not have the right to exclusive ownership over our own body, then we must share our body with other people, or be immoral. The sick man has a right to one of our lungs, and if we withhold it from him, that is exactly the same as stealing it. Similarly, both you and I have the right to use Celine Dion’s singing voice, since it is wholly selfish of her to pretend that she has exclusive ownership of it.
 
 If human beings do not possess exclusive ownership over their own bodies, then the crime of rape becomes meaningless, since a woman clearly does not exclusively own her vagina, and neither does a man own his own various orifices. If exclusive self-ownership is not an axiom, then even the crime of murder becomes meaningless.
 
