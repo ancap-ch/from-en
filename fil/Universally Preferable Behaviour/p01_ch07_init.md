@@ -4,7 +4,7 @@ Ang isang makatwirang moral na teorya ay dapat may kakayahang maipaliwanag ang l
 
 Kung ang balangkas ng UPB ay may kakayahang ipaliwanag ang nasa itaas, kung gayon ito ay papasa kahit man lang sa pagsusulit ng "sentido kumon".
 
-This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
+Hindi nito ibig sabihin na ilang kagulat-gulat - kahit nakakabiglang - mga konklusyon ay hindi magreresulta mula sa ating moral na teorya, subalit kahit papaano tayo ay papasa man lang sa unang balakid ng pagpapaliwanag ng halata na, bago pag-isipan ang alinmang talagang halata na.
 
 With that in mind, let us turn to the question of *initiation*.
 
