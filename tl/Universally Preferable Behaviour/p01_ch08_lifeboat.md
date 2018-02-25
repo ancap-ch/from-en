@@ -1,4 +1,4 @@
-## Lifeboat Scenarios
+## Mga senaryo sa Lifeboat
 
 The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
 
