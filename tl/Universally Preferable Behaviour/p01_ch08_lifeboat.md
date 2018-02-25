@@ -1,6 +1,6 @@
 ## Mga senaryo sa Lifeboat
 
-The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
+Ang katotohanan na ang UPB ay nagpapatunay lamang ng lohikal na hindi nag-iibang mga teoryang moral ay hindi nangangahulugan na wala ng likhang isip na sirkumstansya kung saan pipiliin natin na kumilos *laban* sa simulain ng gayung teorya.
 
 For instance, if we accept the universal validity of property rights, smashing a window and jumping into someone’s apartment without permission would be a violation of his property rights. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
 
