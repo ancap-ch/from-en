@@ -40,9 +40,9 @@ Se é mau matar peixes, então o CUP diz que qualquer um ou qualquer coisa que m
 
 É claro que os tubarões não têm a capacidade de abster-se de matar peixes, já que basicamente, estão a comer máquinas com barbatanas.
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
+Assim, acabamos com o problema lógico do "mal inevitável". Se é mau matar peixe, mas os tubarões não o podem evitar, então os tubarões são "inevitavelmente maus". Porém, como discutimos anteriormente, onde não há escolha - onde a * evitabilidade* é impossível - não pode haver moralidade. Assim, a proposição "é mau matar peixes" tenta definir uma moral universal que inclua situações não-morais, que não podem permanecer logicamente.
 
-Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
+Além disso, a palavra "peixe" continua a ser problemática para a formulação, já que é muito específica para ser universal. A reformulação adequada do CUP é: "é mau que as pessoas matem organismos vivos"
 
 If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
 
