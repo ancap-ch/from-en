@@ -1,8 +1,8 @@
 ## A Zona Nula Revisitada
 
-At the beginning of this book, I put forward a way of looking at how we process truth, analogising it to physics. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
+No início deste livro, mostrei uma maneira de ver como processamos a verdade, em correspondência com a física. Das "pequenas verdades" de apanhar uma bola de basebol, chegamos às "grandes verdades" da física - e as grandes verdades não podem contradizer as pequenas verdades.
 
-The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
+O mesmo é verdadeiro para a moralidade. Das pequenas verdades de "Não devo assassinar", podemos chegar às grandes verdades, como "a iniciação do uso da força é moralmente errada"
 
 In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
 
