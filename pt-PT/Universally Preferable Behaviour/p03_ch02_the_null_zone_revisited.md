@@ -20,13 +20,13 @@ Não possuímos evidências directas, empíricas ou racionais da existência de 
 
 ### Intolerância
 
-As crenças podem ser verdadeiras, falsas ou *anti-verdadeiras*. É uma crença verdadeira que o deserto do Saara está no norte da África; é uma crença falsa que o Sahara está na Escócia; é uma crença *anti-verdadeira* que o Sahara é o que quer que seja e existe onde quer que exista. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+As crenças podem ser verdadeiras, falsas ou *anti-verdadeiras*. É uma crença verdadeira que o deserto do Saara está no norte da África; é uma crença falsa que o Sahara está na Escócia; é uma crença *anti-verdadeira* que o Sahara é o que quer que seja e existe onde quer que exista. A primeira crença é verdadeira; a segundo é falsa - a terceira é uma afirmação intolerante que anula o próprio conceito de prova.
 
-We can say:
+Podemos dizer:
 
-1. Proposition X is true because it is rational.
-2. Proposition Y is false because it is irrational.
-3. Proposition Z is true because I *want* it to be true.
+1. A proposta X é verdadeira porque é racional.
+2. A proposição Y é falsa porque é irracional.
+3. A Proposição N é verdadeira porque eu *quero* que seja verdade.
 
 The third assertion is a complete self-contradiction. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
 
