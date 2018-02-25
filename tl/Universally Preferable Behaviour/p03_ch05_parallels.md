@@ -54,7 +54,7 @@ Dito ay ang parehong kaparaanan, kung ang pagsisimula ng lahat na matanaw ang sa
 
 Ang pagkatatag ng isang pang-una at mapilitang humawak sa samahan ang walang katapusang makapipigil sa pagsulong ng katalinuhan, ng karunungan, ng kabutihang asal, ng pangkatawan at pang kaisipang kalusugan dito sa ating *mundo* walang katapusang makapipigil sa pagsulong ng katalinuhan, ng karunungan, at ng agham.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+Ang daan para tutulan ang mga isinasa-isip ay may mga entity na walang awa sa katotohanan. ang daan para tutulan ang diyos ay mayroong kadahilanan, mayroong maipapakita, at ang agham.
 
 The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
 
