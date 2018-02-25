@@ -52,7 +52,7 @@ Ang pagkahulog ng diyos na mula sa itaas ay ang pag-angat o pagbangon ng tao.
 
 Dito ay ang parehong kaparaanan, kung ang pagsisimula ng lahat na matanaw ang samahan sa natanaw na unang mga agham na pagka tunaw sa daigdig - bilang isang pang sariling-sistema na nagtutungkod wala ng pangangailangan na para sa mga isinasaisp ng sentral awtoridad - ngayon kung ang lahat ay maari ng simulan upang tunay na maunawaan ang mga bagay na maaaring mangyari upang makalaya narin ang sang katauhan.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+Ang pagkatatag ng isang pang-una at mapilitang humawak sa samahan ang walang katapusang makapipigil sa pagsulong ng katalinuhan, ng karunungan, ng kabutihang asal, ng pangkatawan at pang kaisipang kalusugan dito sa ating *mundo* walang katapusang makapipigil sa pagsulong ng katalinuhan, ng karunungan, at ng agham.
 
 The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
 
