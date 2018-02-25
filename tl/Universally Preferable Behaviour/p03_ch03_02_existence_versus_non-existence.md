@@ -10,7 +10,7 @@ Samakatuwid ang pagsabi na ang pamahalaan ay makatwiran sa pagpwersa sa atin na 
 
 Gayon din, kung ang mga kinatawan ng pamahalaan ay nagsasabi na ang isang sosyal na kontrata ay nagpapahintulot sa kanila na pwersahin ang isang "hindi praktikal" na populasyon na kumilos ng mas 'praktikal," isang hindi malulutas na kontradiksyon ang nabuo.
 
-If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
+Kung pwersahin ko ang isang babae na pakasalan ang isang lalaki na aking pinili para sa kanya, kung gayon malinaw akong naniniwala na ako ay may mas magaling na paghatol kaysa sa kanya patungkol sa mas nababagay na asawa para sa kanya. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
 
 When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
 
