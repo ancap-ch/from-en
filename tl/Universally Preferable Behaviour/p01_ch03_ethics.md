@@ -32,9 +32,9 @@ Gaya nga ng tinukoy ni Hume na mga paliwanag, imposibleng makuha ang "nararapat"
 
 Sa kagaya nito, walang ganoong bagay bilang isang pang-buong mundo na "mas mahusay" na direksyon sa lahat ng dako - ang lahat ay nakasalalay sa ginustong mga destinasyon. At kapag ginusto kong magmaneho papunta sa New York mula sa San Francisco, dapat kong "magpatungo ng silangan. Kung gusto kong magmaneho papunta sa karagatan mula sa San Francisco, dapat kong "magtungo ng pa-kanluran. Ni ang "silangan" o "kanluran" ay pwedeng mai-saalang-alang sa lahat ng dako "mas mabuti."
 
-Ito ay totoo na napakakaunting lang ng mga tao na *gawin* magmaneho sa karagatan, ngunit hindi ito nangangahulugan na totoo ang lahat na walang sinuman *na nararapat* na magmaneho sa karagatan. Principles are not democratic – or, if they are, we once more face the problem of rank subjectivism, and must throw the entire concept of ethics out the window.
+Ito ay totoo na napakakaunting lang ng mga tao na *gawin* magmaneho sa karagatan, ngunit hindi ito nangangahulugan na totoo ang lahat na walang sinuman *na nararapat* na magmaneho sa karagatan. Ang mga prinsipyo ng mga tao ay hindi pang-demokratiko – o, kung sila ay, minsan pa ay nakaharap ang problema ng pag-tutukoy ng ranggo, at dapat itapon ang buong konsepto ng etika sa bintana.
 
-“Behaviour” exists in objective reality, outside our minds – the concepts “ought,” “should,” and “preference,” do not exist outside our minds. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
+Ang "asal" ay umiiral sa mga layunin ng katotohanan, sa labas ng ating kaisipan – ang mga konsepto na "nararapat," "dapat," at "kagustuhan," ay hindi umiiral sa labas ng ating kaisipan. Gayunpaman, ang katotohanan na siyang "nararapat" ay hindi umiiral sa loob ng layunin na katotohanan at hindi nangangahulugan na ang "nararapat" ay isang ganap na pansarili. Wala sa alinman sa pang-agham na pamamaraan o mga numero sa kanilang mga sarili na umiiral sa loob ng isang katotohanan alinman, pa agham at pang-matematika na mananatiling ang layunin ay disiplina.
 
 ### Self-Defeating Arguments
 
