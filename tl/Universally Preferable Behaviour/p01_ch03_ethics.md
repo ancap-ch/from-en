@@ -36,13 +36,13 @@ Ito ay totoo na napakakaunting lang ng mga tao na *gawin* magmaneho sa karagatan
 
 Ang "asal" ay umiiral sa mga layunin ng katotohanan, sa labas ng ating kaisipan – ang mga konsepto na "nararapat," "dapat," at "kagustuhan," ay hindi umiiral sa labas ng ating kaisipan. Gayunpaman, ang katotohanan na siyang "nararapat" ay hindi umiiral sa loob ng layunin na katotohanan at hindi nangangahulugan na ang "nararapat" ay isang ganap na pansarili. Wala sa alinman sa pang-agham na pamamaraan o mga numero sa kanilang mga sarili na umiiral sa loob ng isang katotohanan alinman, pa agham at pang-matematika na mananatiling ang layunin ay disiplina.
 
-### Self-Defeating Arguments
+### Ang Pang-sariling Pangatwiran sa Sarili
 
-In order to begin our discussion of ethics, it is essential that we understand the nature of *self-defeating arguments*.
+Para masimulan ang aming pagtatalakay tungkol sa etika, mahalaga na maunawaan natin na ang kalikasan ng *ang pang-sariling pangatwiran sa sarili*.
 
-In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
+Sa usapang ekonomiya, ang isang teyorya ay hindi pwedeng maging balido kung kinakailangan nito na ang mga presyo ay kailangang bumaba at pagbaba sa magparehong oras. Tungkol sa pisika, ang isang teyorya ay hindi pwedeng maging balido kung nangangailangan ito na ang mga gas para lumawak at kumontrata nang sabay-sabay. Sa matematika, ang isang teyorya ay hindi pwedeng mgaing balido kung ito ay nangangailangan nang dalawang dagdagan ng dalawa ay katumbas ng lima, sapagkat ang "lima" ay isa lamang paraan ng paglalarawan ng dalawa dagdagan ng tatlo, hindi dalawa at dalawa, at sa gayon ay upang sabihin na ang dalawa dagdagan ng dalawa ay katumbas ng lima at sasabihing ang lima ay katumbas ng apat, na kung saan ay nagkakasalungatan sa sarili.
 
-In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+Sa pang-kabuuan, ang anumang teyorya na sumasalungat sa sarili nito ay hindi pwedeng maging balido. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
 
 If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
 
