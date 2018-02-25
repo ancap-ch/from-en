@@ -12,11 +12,11 @@ Porém, durante milhares de anos, a ciência da astronomia ficou paralisada devi
 
 O problema com esta aproximação - bem, um problema de qualquer maneira - foi o movimento retrógrado de Marte. Desde o nosso planeta, às vezes parece que Marte se está a mover "para trás", visto que a Terra "o ultrapassa" ao redor do sol. A crença falsa de que a Terra era o centro do sistema solar, combinada com uma mania por círculos "perfeitos", produziu o sistema de astronomia Ptolemaico, que multiplicou todos esses círculos perfeitos até ao nível do absurdo, a fim de tomar em consideração as órbitas elípticas e o movimento retrógrado de Marte.
 
-Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
+Por que será que essa ilusão de perfeição era considerada um requisito para os corpos celestes? Certamente, a evidência da lua, com a sua superfície em pedaços e crateras, parece apoiar a imperfeição dos céus, mas as fixações religiosas ignoraram a evidência sensorial directa dessas imperfeições imediatas e interplanetárias. As descobertas feitas por Galileo, das montanhas da lua, das manchas solares e das luas de Júpiter foram atacadas como heréticas.
 
-We can also turn this analysis to the question of the existence of God as well.
+Também podemos transformar essa análise na questão da existência de Deus.
 
-We have no direct, empirical or rational evidence for the existence of God. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+Não possuímos evidências directas, empíricas ou racionais da existência de Deus. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
 
 ### Bigotry
 
