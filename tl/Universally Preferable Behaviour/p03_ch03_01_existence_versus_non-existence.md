@@ -154,9 +154,9 @@ Kami ay nasabihan na "nais" naming si Bob ay kunin ang aming salapi - na kumplet
 
 "Teka, isa lamang itong sulatkamay na tala na nagsasabing pag-aari mo ang buong kapitbahayan - at ito ay parehas sa sulatkamay ng iyong lagda. Natatakot ako na kailangan namin i-book ka - ito ay isa mo lamang gawa-gawang kontrata, na iyong ipinapapasan sa mga tao sa punto ng baril."
 
-Ito ay isang kumpletong kabaliwan at masama gaya ng ako na patuloy na sinasabi sa isang babae na aking ginagahasa na siya ay *nais* na makipagtalik sa akin. Iyo bang naiisip na ako ay nasa isang paglilitis ng panggagahasa, at may bidyoteyp ng isang babae na nagsasabi sa akin na tumigil na, at ako ay may kutsilyo sa kanyang leeg, paano ang aking depensa kung ako ay patuloy na nagpipilit na siya ay *ninais* na makipagtalik sa akin?
+Ito ay isang kumpletong kabaliwan at masama gaya ng ako na patuloy na sinasabi sa isang babae na aking ginagahasa na siya ay *nais* na makipagtalik sa akin. Iyo pakaisipin na ako ay nasa isang paglilitis ng panggagahasa, at may bidyoteyp ng isang babae na nagsasabi sa akin na tumigil na, at ako ay may kutsilyo sa kanyang leeg, paano ang aking depensa kung ako ay patuloy na nagpipilit na siya ay *ninais* na makipagtalik sa akin?
 
-Sa korte, iyon ay pinabulaanan, at ipapatapon sa kulungan sa aking halata, baliw, masama at pansariling kaimpokritohan.
+Sa korte, iyon ay pinabulaanan, at ipapatapon sa kulungan dahil sa aking halata, baliw, masama at pansariling kaimpokritohan.
 
 Ah, subalit sa "sonang wala" ng pamahalaan, ang panggagahasa ay isang gawa ng pag-ibig, ang pagkidnap ay isang imbitasyon, ang pagtanggi sa pagnanakaw ay isang masamang pagkamakasarili, at ang pamimilit ay kabutihan.
 
