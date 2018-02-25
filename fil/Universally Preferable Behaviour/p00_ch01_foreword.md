@@ -48,13 +48,13 @@ Ang dahilan na ang modernong moralidad - at ang moralidad sa buong kasaysayan - 
 
 Ang katotohanan ay nangangailangan ng moralidad; ang kasinungalingan ay na Ang mga Diyos o mga pamahalaan ay maaaring rasyunal tukuyin o makaturungang ipatupad ito.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Ang aking mithiin sa librong ito ay magbigay kahulugan ng isang pamamaraan para sa pagpapatunay ng mga moral na teyorya na obhektibo, hindi nagbabago, malinaw, makatwiran, emperikal - at *totoo*.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+Ako ay lubos na may kamalayan, sa sandaling ito, ikaw ay malamang magugustuhang maramdaman ang pagtaas ng alon ng pag-aalinlangan. Lubos kong nauunawaan na ang mga kakaiba sa ilang lalaki na naandon sa internet - ang bahay ng mundo ng mga baliw - ay kahit papaano nalutas ang pilosopikal na problema ng lahat ng panahon ay hindi ppartikular na mataas - sa katotohanan, sila ay maaaring maging sobrang lapit sa wala tulad ng halos hindi makilala.
 
-Still, not *quite* zero.
+Pa rin, hindi *masyadong* wala.
 
-### Ground Rules
+### Mga Panuntunan
 
 Extraordinary claims require extraordinary proof. In taking on this mammoth task – particularly in such a short book – I have set myself some basic ground rules, which are worth going over here.[^1]
 
