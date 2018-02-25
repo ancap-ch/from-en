@@ -2,7 +2,7 @@
 
 Ngayon ay sinubukan nating tiyakin na ang mga teyorya ng moral na may kaugnayan sa balangkas ng UPB ay napagtibay natin ang pinaka-karaniwang mga paniniwala sa moral, tulad ng mga probihisyon laban sa panggagahasa, pagpinsala at pang-uumit. Batay sa pagpapadala ng kriterya ng *maiwasan* sa ating pag-susuri, kami ay nakakatulong din sa pagkakaiba sa pagitan ng mga patayan ng hindi pwedeng maiwasan, at ang mga patayan ay kailangan na pairalin ang positibong pagkilos, gaya ng panlilinlang. Sa wakas, hinati-hati namin ang "mas mabuting pag-uugali" sa mga kategorya ng tatlong pangunahin - unibersal, binago ang at niyutral (at ang mga kanilang ugnyan sa mga kasaliwaan). Ang mga ipinagbabawal na gawain sa buong daigdig ay kinabibilangan ng panggagahasa, pagpinsala at pang-uumit, na pwedeng gawin para mapigilan. Kasama sa mga kagustuhan ng aesthetically na higit na mabuti ang pagkamagalang, ang pagiging maagap sa oras at iba pa, na hindi pwedeng ipatupad sa pamamagitan ng kalupitan. Kasama ang mga niyutral na pag-aksyon ang mga pansariling kagustuhan, o ang mga aksyon na walang moral na nakapaloob, gaya ng pag-andar ng bus.
 
-However, there remain many challenging moral tests that fall outside the examples we have dealt with above. We will only deal with a few of those here, to have a look at the framework of UPB, and see how it deals with these more challenging moral questions.
+Gayunman, merong maraming mananatiling mahihirap na pagsusulit sa moral na nasa labas ng mga halimbawa kami ay nakipag-ugnayan sa itaas. We will only deal with a few of those here, to have a look at the framework of UPB, and see how it deals with these more challenging moral questions.
 
 ### Self-Defence
 
