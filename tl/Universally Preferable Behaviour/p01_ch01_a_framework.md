@@ -20,7 +20,7 @@ Ang konsepto "katotohanan" ay kinakailangan sa kamag-anak na termino - gayunman 
 
 Ito ay hindi nangangahulugan, na gayunpaman, na ang konsepto ng "kalusugan" ay buong kamag-anak at ang pansarili. Ang isang sampong taon gulang ay namatay sa lukemya sa hindi malusog na kahit anong kahulugan - lamang ang dalawampung taon na gulang. Ang kasalukuyan, ang isang lalaki na nabubuhay ng siyamnapu sa istatistika ay meron mahabang buhay, gayunman diyan maaring mabago ang medikal na teknolohiya sa biglaang pagpayag sa atin para mabuhay pa ng dalawang daan.
 
-As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
+Sa ating depinisyon sa "kalusugan" sa pinalawak, ito ay hindi mapagwalang bisa sa mga depinisyon, sa halip na mga umabot sakanila. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
 
 Truth also has value relative to necessity as well. Newtonian physics has been supplanted by Einsteinian physics, which has proven far more accurate in extreme situations such as extraordinarily high gravity or speed. However, sailors wishing to calculate the correct path across an ocean find Newtonian physics more than accurate enough. You wouldn’t want to send a spaceship to Alpha Centauri using Newtonian physics, but it is totally fine for getting a ship from Lisbon to New York. The labour involved in learning and implementing Einsteinian physics is thus a net negative for a sailor.
 
@@ -89,8 +89,8 @@ This requirement for consistency is one of the most basic requirements for truth
 
 In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^1]: Kung hindi mo papahalagahan ang katotohanan, hindi ka maaringnandito kahit kailan sa debate na ito - o sa kahit anong debate - sa simula pa lamang!&#160
 
-[^2]: Rational consistency, or internal logic.
+[^2]: Ang makatuwiran na kabuuan, o lohika sa panloob.&#8617
 
-[^3]: Empirical evidence, or empiricism.
+[^3]: Sa Empirica na ebedensya, o emperisismo.&#8617
