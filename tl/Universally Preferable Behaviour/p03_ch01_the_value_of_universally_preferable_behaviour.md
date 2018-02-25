@@ -1,8 +1,8 @@
 ## Ang Kahalagahan ng Pang-unibersal na Kanais-nais na Pag-uugali
 
-Ang bagong teorya ay may mallit na halaga kung pinupunto lamang nito ang nakikita na. Kung ang pisika lamang ay nagkakaloob ng tumpak na paglalarawan kung paano tayo sasalo ng bola, kung gayon ang pisika ay hindi na kapaki-pakinabang na hangarin, dahil *kaya* na nating sumalo ng bola. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
+Ang bagong teorya ay may mallit na halaga kung pinupunto lamang nito ang nakikita na. Kung ang pisika lamang ay nagkakaloob ng tumpak na paglalarawan kung paano tayo sasalo ng bola, kung gayon ang pisika ay hindi na kapaki-pakinabang na hangarin, dahil *kaya* na nating sumalo ng bola. Ang matuklasan na ang mundo ay bilog ay nakatulong sa mahabaang paglalakbay sa tawid dagat - wala itong maitutulong sa pagpasok natin sa gitna ng Kwantum mekaniks tanging nagiging kapaki-pakinbang kung ang ibang kaparaanan ay hindi makapagbibigay ng kainakailangang katumpakan - hindi ito nakakatulong sa pagbuo ng kotse.
 
-In the same way, the UPB framework, and the moral rules that it validates or rejects, should ideally provide us with some startling insights about the world that we live in, and our relations to each other.
+Sa parehas na paraan, ang balangkas ng UPB, at ang moral na tuntunin na pinapatunayan nito o tinatanggihan, ay dapat binibigyan tayo ng kagulat-gulat na pananaw tungkol sa mundo na ating tinitirhan, at sa ugnayan natin sa isa't isa.
 
 If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
 
