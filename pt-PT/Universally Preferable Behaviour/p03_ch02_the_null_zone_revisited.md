@@ -4,9 +4,9 @@ No início deste livro, mostrei uma maneira de ver como processamos a verdade, e
 
 O mesmo é verdadeiro para a moralidade. Das pequenas verdades de "Não devo assassinar", podemos chegar às grandes verdades, como "a iniciação do uso da força é moralmente errada"
 
-In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
+No domínio da física, um dos principais obstáculos à superação lógica das verdades da experiência pessoal à teoria universal, tem sido a religião.
 
-For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
+Por exemplo, nenhum homem já experimentou, directamente, um círculo perfeito - essa entidade existe na forma abstracta e na matemática, mas não pode ser visualizada na mente, nem experimentada sensivelmente, no mundo real. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
 
 However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
 
