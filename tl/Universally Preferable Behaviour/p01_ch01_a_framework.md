@@ -26,11 +26,11 @@ Ang katotohanan ay mayroong halaga sa kamag-anak para din sa kanilang kinakailan
 
 Bilang resulta, ang pangungusap sa "“Newtonian physics ay mas mababa sa eksakto maliban sa Einsteinian physics, ngunit Einsteinian physics ay isa sa mabisang paraan para kalkulahin ang mga bapor sa landas" maaring ituring na balido na panukala. Ang Newtonian physics ay parehas na *mas tumpak*, at *mas bagay*.
 
-Kung nais natin na uminom ng pinaka dalisay sa posibleng tubig, malamang na gusto namin bumili ng libo-libong dolyar kada bote. Maliban na lang kung sobra sobra at lubos na hindi gaanong mahalaga, hindi kami magbabayad ng sobra para mapawi ang aming uhaw. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+Kung nais natin na uminom ng pinaka dalisay sa posibleng tubig, malamang na gusto namin bumili ng libo-libong dolyar kada bote. Maliban na lang kung sobra sobra at lubos na hindi gaanong mahalaga, hindi kami magbabayad ng sobra para mapawi ang aming uhaw. Ito ba ay totoo na ang dalisay na tubig ay mag nakakabuti sa atin, ngunit ang halaga at kinakailangan na maabot ang dalisay sa pasukan na lumiliit pag balik. Sa gayon "dalisay ay mas mabuti" magbigay daan para sa "dalisay ay mas masahol pa."
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+Ulit, ito ay hindi nangangahulugan na ang dalisay na tubig ay ganap na pansarili. ang distilada na tubig ay palaging mas naiinom kaysa tubig dagat.
 
-#### Truth And Objective Reality
+#### Katotohanan at Layunin sa Reyalidad
 
 The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
 
