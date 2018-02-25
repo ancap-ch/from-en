@@ -1,12 +1,12 @@
-## Pagtangap
+## Pagsisimula
 
-Ang makatuwiran teorya ng moral ay dapat naipapaliwanag sa lahat ng nasa pangdaigdigan pamantayan, dahil sa isang makatwirang teorya ng physics ay dapat naipapaliwanag paano na ang isang taong walang kamalay malay ay kayang karkulahin ang isang arko na itinapon sa baseball, at saluhin ito.
+Ang isang makatwirang moral na teorya ay dapat may kakayahang maipaliwanag ang lahat ng nasabing unibersal na pamantayan, gaya ng sa makatwirang teorya ng pisika ay dapat may kakayahang maipaliwanag kung paanong ang isang tao ay di inaasahang makalkula ang arko ng itinapong beysbol, at saluhin ito.
 
-Kung ang balagkas ng UPB ay naipapaliwanag ang nasa taas, Kung gayon tiyak na maipapasa ng Hindi bababa sa "common sense" test.
+Kung ang balangkas ng UPB ay may kakayahang ipaliwanag ang nasa itaas, kung gayon ito ay papasa kahit man lang sa pagsusulit ng "sentido kumon".
 
-Hindi ito nangangahulugan na parehong kamangha-mangha -kahit na ito ay nakakagulat - na kunklosyon Hindi ito maaaring magresulta sa amin teoryang moral, pero ganun paman nalagpasan niya ang unang sagabal sa pagpapaliwanag ng obvious, bago nila pag-aralan ito ay malayo mula sa obvious.
+This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
 
-Sa pag-iisip na ito, halika at harapin ang katanungan ng *initiation*.
+With that in mind, let us turn to the question of *initiation*.
 
 A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
 
