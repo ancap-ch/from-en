@@ -146,13 +146,13 @@ Kami ay nasabihan na "nais" naming si Bob ay kunin ang aming salapi - na kumplet
 
 "Pwede mo ba ipakita sa akin ang kontrata? Ito ba ay kanilang pinirmahan ng kusang-loob?"
 
-"Hindi ito ganoong uri ng kontrata!"! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+"Hindi ito ganoong uri ng kontrata!"! Ito ay isang -*sosyal* na kontrata... At bukod sa - alinsunod sa sosyal na kontratang iyon, aking pag-aari ang buong kalye - ang buong sinumpang kapitbahayan sa katunayan! Sinumang tumanggi na bayaran ako sa akng salapi ay maaaring lumipat saanman - Hindi ko pinipilit ang sinuman!"
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
+"At paano mo nalaman na pag-aari mo ang buong kapitbahayan? Mayroon ka bang mga papel ng pagmamay-ari?"
 
-“Yes, of course – have a look here!”
+"Oo, syempre - tignan mo rito!"
 
-“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+"Teka, isa lamang itong sulatkamay na tala na nagsasabing pag-aari mo ang buong kapitbahayan - at ito ay parehas sa sulatkamay ng iyong lagda. Natatakot ako na kailangan namin i-book ka - ito ay isa mo lamang gawa-gawang kontrata, na iyong ipinapapasan sa mga tao sa punto ng baril."
 
 This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
 
