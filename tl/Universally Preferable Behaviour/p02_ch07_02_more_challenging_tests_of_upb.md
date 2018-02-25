@@ -22,9 +22,9 @@ Kagaya nito, sa halimbawa sa itaas, tinatanggap lamang ng UPB ang *akto* ng pagk
 
 Sa kaparehong paraan, na ang isang etika ay hindi pwedeng wastong ilagay ang moral na panukala: "Masama ang pangghahalay *matanda*." "Panghahalay" ang pag-uugali; kung ang biktima ay matatanda o hindi ay walang kaugnayan sa moral na panukala, dahil hangga't ang biktima ay tao, ang pangangailangan para sa universality ay mananatiling pare-pareho lamang. "Huwag kang magnakaw" ito ay isang maayos na panukalang moral ayon sa UPB - "huwag kang magnakaw *puting singkamas*" ay hindi, para sa simpleng dahilan na ang pagnanakaw ay may kaugnayan sa konsepto ng ari-arian - at mga turnip, bilang isang subset ng ari-arian, ay hindi pwedeng mgaing makatwiran na tinutukoy mula sa lahat ng iba pang mga anyo ng ari-arian at itinalaga ang kanilang sariling moral na tuntunin.
 
-The moral proposition “eating fish is evil” thus fails the test of universality because it is too specific to be generalised – it is like saying “my theory of gravity applies only to pink rocks.” If it is a theory of gravity, then it must apply to everything; if it only applies to pink rocks, then it is not a theory of gravity.
+Ang panukalang moral ay ang "kumakain ng isda ay masama" kaya nabigo ang pagsubok ng pagiging pandaigdigan sapagkat ito ay masyadong tiyak na pangkalahatan - ito ay tulad ng pagsasabi "ang aking teyorya ng grabidad ay nailalapat lamang sa mga kulay-rosas na bato." Kung ito ay isang teyorya ng grabidad, ay dapat mag-aplay sa lahat; kung naaayon lamang ito sa mga kulay-rosas na bato, kung gayon ito ay hindi isang teyorya ng gravibidad.
 
-UPB also rejects as invalid any theory that results in opposing moral judgements for identical actions. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
+Tinanggihan din ng UPB bilang di-maayos ang anumang teorya na nagreresulta sa pagsasalungat sa moral na hatol para sa magkaparaeho na pagkilos. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
 
 Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
 
