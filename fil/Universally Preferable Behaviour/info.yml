@@ -10,13 +10,13 @@ content_files:
     - p01.md
     - ""
   - 
-    - p01_ch01_a_framework.md
+    - p01_ch01_a_balangkas.md
     - ""
   - 
-    - p01_ch02_internal.md
+    - p01_ch02_panloob.md
     - ""
   - 
-    - p01_ch03_ethics.md
+    - p01_ch03_etika.md
     - ""
   - 
     - p01_ch04_pref.md
@@ -43,13 +43,13 @@ content_files:
     - p02.md
     - ""
   - 
-    - p02_ch01_ethical_categories.md
+    - p02_ch01_etikal_mga-kategorya.md
     - ""
   - 
-    - p02_ch02_the_first_test_rape.md
+    - p02_ch02_ang_una_pagsusuli_rape.md
     - ""
   - 
-    - p02_ch03_the_second_test_murder.md
+    - p02_ch03_ang_ikalawa_pagsusulit_pagpatay.md
     - ""
   - 
     - p02_ch04_the_third_test_theft.md
