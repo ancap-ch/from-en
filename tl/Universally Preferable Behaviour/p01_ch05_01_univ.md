@@ -1,6 +1,6 @@
 ## Pang-unibersal na Kanais-nais na Pag-uugali
 
-As a result of the above arguments, we can see that it is impossible to enter into any debate without accepting the premise that certain behaviours are *universally preferable*.
+Bilang resulta ng mga argumento sa itaas, makikita natin na imposibleng pumasok sa anumang debate nang hindi tinatanggap ang saligan na ang ilang mga pag-uugali ay * pang-unibersal na kanais-nais*.
 
 I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
 
