@@ -4,6 +4,6 @@ Ang bagong teorya ay may mallit na halaga kung pinupunto lamang nito ang nakikit
 
 Sa parehas na paraan, ang balangkas ng UPB, at ang moral na tuntunin na pinapatunayan nito o tinatanggihan, ay dapat binibigyan tayo ng kagulat-gulat na pananaw tungkol sa mundo na ating tinitirhan, at sa ugnayan natin sa isa't isa.
 
-If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
+Kung ang ginawa ng UPB ay ang patunayan ang panggagahasa, pagpaslang at pagnanakaw bilang moral na wasto, hindi iyon magkakaroon ng halaga, dahil alam naman ng lahat na ang ganong mga bagay ay hindi naman talaga moral na wasto sa umpisa pa lang.
 
-Thus let us begin applying this framework to the world that we live in, and see what value comes out of it.
+Samakatuwid ating umpisahan na isabuhay ang balangkas na ito sa mundo na ating tinitirhan, at tignan kung anong halaga ang maaaring lumabas mula rito.
