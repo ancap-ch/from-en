@@ -136,33 +136,33 @@ persons:
   - 
     person: [ ]
     identifier: "template_tao"
-    rule: "translator"
+    rule: "ang tagasalin"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "reviwer"
+    identifier: "template_tao"
+    rule: "ang tagamasid"
   - 
     person_: [ ]
-    identifier: "template_person"
-    rule: "cover_artist"
+    identifier: "template_tao"
+    rule: "pabalat_artista"
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "artist"
+    identifier: "template_tao"
+    rule: "artista"
 resources:
   - 
     resource: [ ]
-    rule: "front_cover"
-    content: "cover.png"
+    rule: "unahang pabalat"
+    content: "pabalat.png"
     websites:
-      - Resource website
-    description: Resource description
+      - Pinagkunang website
+    description: Pinagkunang paglalarawan
     persons:
-      - "template_person"
+      - "template_tao"
 targets:
   - 
     target: [ ]
-    name: book
+    name: ang libro
     reset_footer_active: true
     reset_footer_depth: 1
     clear_page_active: true
