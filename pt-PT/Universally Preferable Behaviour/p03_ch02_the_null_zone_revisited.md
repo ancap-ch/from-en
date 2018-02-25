@@ -1,4 +1,4 @@
-## The Null Zone Revisited
+## A Zona Nula Revisitada
 
 At the beginning of this book, I put forward a way of looking at how we process truth, analogising it to physics. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
 
