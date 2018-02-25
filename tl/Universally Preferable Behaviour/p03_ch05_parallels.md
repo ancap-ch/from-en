@@ -46,9 +46,9 @@ Sa anumang pagkakataon ang isang paraan na nagpapahayag ng pangangatwiran ay pwe
 
 Ang mga pari ang tumupad sa pagpapasimula ng makaagham na pagbabago. Walang diyos, ang nagsasabing ang buhay ay walang kahulugan. Walang diyos, ang nagsasabing ang tao ay walang kalinisang asal. Walang diyos, ang nagsasabi na hindi maliligtas ang ating mga kaluluwa. Walang diyos, ang nagsasabing ang kasamaan at kaguluhan sa ating daigdig ay maghahari.
 
-Wala sa mga nabanggit na ito ang naging patotoo, siyempre. Sa katotohanan ang ganap na *pagbaligtad* papatungo sa naging tunay. Ang pagkatapos ng pananampalataya bilang pangingibabaw ng mundong-tanaw ang aspaltadong paraan para sa pagbubukod ng mga esttado at mga simbahan, ang pagkagunaw ng aristokrasya, ang pag-angat ng malayang merkado, ang pagtatag ng mga kalayaan ng tao sa importanteng mga lugar sa ating mundo.
+Wala sa mga nabanggit na ito ang naging patotoo, siyempre. Sa katotohanan ang ganap na *pagbaligtad* papatungo sa naging tunay. Ang pagkatapos ng pananampalataya bilang pangingibabaw ng mundong-tanaw ang aspaltadong paraan para sa pagbubukod ng mga estado at mga simbahan, ang pagkagunaw ng aristokrasya, ang pag-angat ng malayang merkado, ang pagtatag ng mga kalayaan ng tao sa importanteng mga lugar sa ating mundo.
 
-The fall of God was the rise of mankind.
+Ang pagkahulog ng diyos na mula sa itaas ay ang pag-angat o pagbangon ng tao.
 
 In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
 
