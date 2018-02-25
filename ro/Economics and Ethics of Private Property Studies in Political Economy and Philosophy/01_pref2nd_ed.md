@@ -1,10 +1,10 @@
-## Preface to the Second Edition
+## Prefață la a doua Ediție
 
-The first edition of *The Economics and Ethics of Private Property*, published in 1993, has been out of print for several years. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.
+Prima ediție a *Economia și Etica Proprietății Private*, publicată în 1993, a fost ieșită din publicație de câțiva ani. De ceva timp și din mai multe părți am fost rugat să prepar o nouă ediție, și Llewellyn Rockwell a oferit în mod grațios Institutul Ludwig von Mises pentru a deserve ca sursă de publicare.
 
-*The Economics and Ethics of Private Property* was dedicated to my teacher and mentor, Murray N. Rothbard, with whom I had been closely associated during the last ten years of his life, first as a visiting scholar at the Brooklyn Polytechnic Institute in New York City and after 1986 as a colleague at the University of Nevada, Las Vegas. The year 2005 marks the tenth anniversary of Rothbard’s death. Thus, it seemed a most appropriate time to honor Murray anew with this second edition.
+*Economia și Etica Proprietății Private* a fost dedicată tutorelui și mentorului meu, Murray N. Rothbard, cu care am fost asociat apropiat în ultimii zece ani ai vieții sale, prima oară ca student vizitator la Institutul Politehnic Brooklyn în orașul New York și după 1986 ca și coleg la Universitatea din Nevada, Las Vegas. Anul 2005 marchează a zecea aniversare a morții lui Rothbard. De aceea, a părut ca fiind momentul cel mai potrivit pentru a-l onora pe Murray încă o data cu această a doua ediție.
 
-The present edition of *The Economics and Ethics of Private Property* is enlarged. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+Ediție curentă a *Economia și Etica Proprietății Private* este mărită. I se adaugă patru articole scrise după publicația originală a cărții, dar legate thematic de subiectul ei principal Din economia și etica rațională a instituției proprietății private—capitolele 6, 7, 8, și 15. Oportunitatea unei noi ediții a fost deasemenea folosită pentru a face îmbunătățiri și revizii editoriale semnificante.
 
 Hans Hermann Hoppe
 
