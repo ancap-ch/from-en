@@ -16,9 +16,9 @@ Ito ay makatotohanan sa siyentipikong mundo din. Ang mga teorya ay palaging sinu
 
 Lamang *pagkatapos*ang panloob na hini nagbabago sa mga kalkolasyon ay itinatag na maaaring antas kung saan ang mga tulay ay maabot ang detalye sa pagsuri. Ito ay posible para sumulat sa panloob na alinsunod sa mga detalye para sa maliit na tulay ganap na nabuo sa balsa na kahoy, ngunit maliban na ang kung ang inhinyero ay sumulay ng artikolo para sa modelo ng model rail-roading magazine, kangyang mga detalye, kahit na hindi nagbabago, matugunan ang hindi maabot na kahit anong kailangan na pang-industriya.
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+Kapag aming natukoy na ang tulay ay tatayo, maaari namang matukoy kung maabot nito ang aming mga partukular na pangangailangan, tulad ng suporta sa timbang nga mga taong naglalakad laban sa mga tren.
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+Sa larangan ng mga ekonomiya, sa parehas na mga nilagay na modelo. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
 
 Thus, we can see that any theory, to be valid, requires the following:
 
