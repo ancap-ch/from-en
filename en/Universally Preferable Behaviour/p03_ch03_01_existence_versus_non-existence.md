@@ -4,13 +4,13 @@ We define “non-existence” as that which does not possess mass or energy, or 
 
 God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
 
-Thus if I say, “God exists,” what I am really saying is:
+Thus if I say, “God exists”, what I am really saying is:
 
 “*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+In other words, by saying “God exists”, I have created an insurmountable contradiction. I have defined “existence” as “non-existence”, which makes about as much sense as defining “life” as “inanimate matter”, or a rock as “the opposite of a rock”, or a “square” as a “circle.”
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality”, then what I have really done is create a realm called “error”, put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
 
 Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
 
@@ -62,11 +62,11 @@ If I buy a soldier’s costume at a second hand store, and put it on, clearly I 
 
 I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+“Ah”, you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
 
 The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+“Well”, you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
 
 This raises a very interesting point, which is the question of whether opinions can change reality.
 
@@ -80,7 +80,7 @@ Thus believing that murder is morally good does not make murder morally good. Si
 
 Opinions do not change reality.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder”, any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
 
 ### Government As Voluntarism
 
@@ -104,13 +104,13 @@ This may be true, but it is completely irrelevant. If I tell a woman that I will
 
 To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+Without the “null zone”, these corrupt fictions cannot be sustained.
 
 The “null zone” is the lair of the beast we hunt.
 
 As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone”, it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
 
 ### Policemen
 
@@ -122,7 +122,7 @@ When Bob has his breakfast, he also cannot attack his neighbour and take his mon
 
 Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Even more strangely, if I am not a “policeman”, but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
 
 What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
 
