@@ -6,9 +6,9 @@ Ang katulad nito, kung ang mga inhinyero ay mag papasa ng plano para tulay, ang 
 
 Ito ay maaaring matuwid - hindi para masabi ang lubha na walang bunga - upang bumuo ng tulay sa labas ng mga walang pili na materyal, gamit ang walang pili sa "mga kalkulasyon," upang alamin kung ito ay hindi mananatili. Yamng din lang na ang mga pisikal na batas ay hindi nagbabago at pandaigdig, ito ay medyo madali upang mapagtanto kung ito ay hindi mananatili *bago* buoin muli.
 
-Mayroong dalawang mga paraan upang ito ay malaman ang posibilidad ng tulay bago sa pagbuo nito. Sa umpisa ay tignan ang loob sa hindi pagkakaayon sa loob ng looban at mga pagkalkula upang suportahan ang pasibilidad nag tulay. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+Mayroong dalawang mga paraan upang ito ay malaman ang posibilidad ng tulay bago sa pagbuo nito. Sa umpisa ay tignan ang loob sa hindi pagkakaayon sa loob ng looban at mga pagkalkula upang suportahan ang pasibilidad nag tulay. Kung mayroong mga makahulugan na error sa mga kalkulasyon ang pangatwiranan ang timbang na susuporta sa tulay, kung gayon ang tulay ay malamang na over-designed, o kaya naman under-designed. Kung ang kalkulasyon sa mathematica ay mali ang resulta ng lakas bawas sa limangpung tonelada kada isang talampakang parisukat ng tulay, kung ganoon ito ay malamang na hindi tatayo - o, kung ito man, may posibilidad ito sa aksedente lamang, at hindi maaaring gayahin.
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+Ang mga kalkulasyon sa matematika ay suporta sa posibilidad ng tulay ka kinakailangan sa loob ay hindi nag babagobago pa ang kahit anong ibang mga konsederasyon na maaring kunin sa managot.
 
 In computer terms, code that does not compile cannot be tested.
 
