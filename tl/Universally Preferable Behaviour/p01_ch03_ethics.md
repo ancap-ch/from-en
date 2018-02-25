@@ -8,9 +8,9 @@ Kung makahuli ako ng lumilipad na bola, magkakaroon ako ng natural na ugali na *
 
 Sa kaparehong paraan, ay ang aming karaniwang pagkawala ng moral sa mga aksyon gaya nalang ng panghahlay at pagpatay ay hindi kinakailangang mali, ngunit hindi nila tayo binigyan ng kakayahan na lumikha o magpatunay ng magkaka-pareho at praktikal na teyoryang moral.
 
-Kung ipanukala ko ang isang teyoriyang pang-agham na ganap na nagpawalang-bisa sa kakayahan ng manlalaro ng base ball na masalo ang isang lumilipad na bola, pagkatapos ay mayroon akong hindi malulutas na hamon na nagpapaliwanag kung paano ba talaga ang baseball player *ay* sumalo ng bola. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
+Kung ipanukala ko ang isang teyoriyang pang-agham na ganap na nagpawalang-bisa sa kakayahan ng manlalaro ng base ball na masalo ang isang lumilipad na bola, pagkatapos ay mayroon akong hindi malulutas na hamon na nagpapaliwanag kung paano ba talaga ang baseball player *ay* sumalo ng bola. Gayundin, kung hindi pwedeng mahulaan ng tumpak ang aking teyoriya ng arko ng isang lumilipad na bola, mayroon akong isang "dakilang katotohanan" na direktang sumasalungat sa isang "maliit na katotohanan," na hindi pwedeng maging balido. Dahil ang pangangailangan ng lohikal na pagiging tugma ay direkta mula sa "maliliit na mga katotohanan" ng kahinahinalang karanasan, ang anumang teyorya na direktang nagkakontra sa naturang karanasan ay hindi wasto.
 
-In other words, the senses give rise to logic – therefore logic cannot contradict the evidence of the senses. Evidence always trumps explanation.
+Sa ibang pang salita, ang mga pandama ay nagbubunga ng lohika - samakatuwid ang lohika ay hindi pwedeng bumaliktad sa katibayan ng mga pandama. Ang katibayan ay laging nagpapaliwanag.
 
 In a similar manner, any valid ethical theory should be able to explain and justify our common revulsion towards crimes such as murder and rape. It cannot reasonably contradict the universal prohibitions of mankind, but must accurately incorporate and explain them.
 
