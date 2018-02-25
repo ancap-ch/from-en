@@ -2,7 +2,7 @@
 
 Ang Etikal na mga panukala ay magkakaiba mula sa mga tipo ng kaalaman sa pahayag. Kung aking sasabihin, "Gusto ko ang jazz," yan ay posibleng totoo o hindi totoo na pagpapahayag, ngunit it ay hindi karaniwan na isinasaalang-alang sa umiiral saiyo sa kahit anong paraan. Ang Aking pagtatangi sa jazz ay pagpapahayag lamang sa personal na pagkamaibigin: base sa aking pagpapahayag, ito ay hindi kasalukuyang tungkulin sa sandaling ikaw ay alinman sa gusto o hindi pagkagusto sa jazz.
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+Halintulad, kung sasabihin ko na "Gusto ko ng Gulay," yan din ay gusto lamang sa sinabi para sa personal na pagtatangi. Gayunpaman, kung sasabihin ko na, "ang gulay ay pampalusog na pagkain," kung gayon ako ay lumipat mula sa pagpapahayag ng personal na pagtatangi para sa pagpapahayag ng katotohanan sa layunin. Ito ay magkaiba sa gitna ng "Gusto ko ng ice cream," at, "Ang Ice cream ay nag lalaman ng mga gatas."
 
 The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
 
