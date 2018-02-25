@@ -40,13 +40,13 @@ Kung masama talaga ang pagpatay ng isda, sinabi ng UPB na ang sinuman o anumang 
 
 Ito ay malinaw na ang mga pating ay walang kakayahan na pumigil sa pagpatay ng isda, dahil ang mga ito ay karaniwang kumakain ng mga makina na may mga palikpik.
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
+Sa gayon ay nahaharap tayo sa mga lohikal na suliranin ng "hindi maiiwasang kasamaan." Kung masama ang pagpatay ng isda, ngunit hindi pwedeng maiwasan ng mga pating ang pagpatay ng isda, kung gayon ang mga pating ay "hindi masasayang masama." Gayunman, gaya ng nabanggit natin sa itaas, kung saan walang pagpipilian - kung saan * maiiwasan* ay imposible – pwedeng walang moralidad. Kaya naman ang mga panukala "masamang patayin ang isda" ay nagtatangkang tukuyin ang isang unibersal na moralidad na kasama ang mga sitwasyong hindi moral, na hindi makatwiran.
 
-Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
+Gayundin, ay ang salitang "isda" ay nananatiling problemado sa pormulasyon, dahil ito ay masyadong sigurado na maging unibersal. Ang wastong reporma sa UPB ay: "masama para sa mga tao na patayin ang mga nabubuhay na organismo."
 
-If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+Kung, gayunpaman, masama ang pumatay, muli nating lutasin ang problema ng "hindi maiiwasang kasamaan." Walang tao na pwedeng umiiral nang walang pagpatay sa iba pang mga organismo tulad ng mga virus, halaman, o marahil mga hayop. Kaya naman ang "buhay ng tao" ay tinukoy bilang "masama." Ngunit kung ang buhay ng tao ay tinukoy bilang masama, kung gayon hindi ito magagawa *maging* kasamaan, dahil ang pag-iwas ay nagiging imposible.
 
-What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
+Paano kung sabihin natin: "masamang patayin ang mga tao" - ibig bang gumawa ng isang tao na kumakain ng pating na masama?
 
 No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
 
