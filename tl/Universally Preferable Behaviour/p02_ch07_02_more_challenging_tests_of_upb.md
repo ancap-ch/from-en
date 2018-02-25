@@ -2,9 +2,9 @@
 
 Ano ang sitwasyon ng panukalang moral: "Na masamang kumain ng isda"?
 
-Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
+Malinaw na, ang panukalang ito ay tila para masiyahan ang hindi bababa sa ilan sa mga kinakailangan ng UPB – ito ay lulutang sa unibersal, at sa independiyenteng oras at lugar, at medyo relatibong layunin.
 
-Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
+Ngunit parang mahirap para sa atin na makatwirang tumawag ito ng tunay *moral na* teyorya - bakit?
 
 First of all, “evil” encompasses actions that can be prevented through the use of force. Rape is “evil,” and so I can use force to defend myself against someone attempting to rape me.
 
