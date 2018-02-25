@@ -56,4 +56,4 @@ Sa mga parehong paraan, ang moralidad ay nailalapat lamang sa makatuwirang kamal
 
 Sa ibang mga salita, ang hindi tamang aplikasyon ay hindi na-aprobahan.
 
-There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
+Mayroong maraming iba pang mga "lugar ng mga kulay grey" na pwede naming trabahuhin, mula sa pagpapalaglag sa mga karapatan sa intelektwal na ari-arian sa pagbabayad-pinsala at iba pa, ngunit sa palagay ko ay mas mahalaga na kunin ang UPB sa lupain ng abstraction, at simulang i-aplay ito sa ang mga tunay na problema sa mundo na kinakaharap natin ngayon.
