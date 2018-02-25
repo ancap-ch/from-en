@@ -38,7 +38,7 @@ Aqui, não temos tempo para entrar numa discussão completa sobre a questão dos
 
 Se é mau matar peixes, então o CUP diz que qualquer um ou qualquer coisa que mate o peixe é mau. Isso incluiria não só pescadores, mas também tubarões - já que se matar peixes é mau, alargamos a nossa definição de "actores" éticos, para incluir a vida não humana.
 
-É claro que os tubarões não têm a capacidade de abster-se de matar peixes, já que basicamente, estão a comer máquinas com barbatanas.
+É claro que os tubarões não têm a capacidade de se abster de matar peixes, já que basicamente, estão a comer máquinas com barbatanas.
 
 Assim, acabamos com o problema lógico do "mal inevitável". Se é mau matar peixe, mas os tubarões não o podem evitar, então os tubarões são "inevitavelmente maus". Porém, como discutimos anteriormente, onde não há escolha - onde a * evitabilidade* é impossível - não pode haver moralidade. Assim, a proposição "é mau matar peixes" tenta definir uma moral universal que inclua situações não-morais, que não podem permanecer logicamente.
 
@@ -52,8 +52,8 @@ Não, uma vez mais, pois já que os tubarões não têm a capacidade para evitar
 
 O CUP permite excepções baseadas em diferenças materiais ou biológicas objectivas e universais, tal como as outras ciências. A teoria científica de que os gases se expandem quando aquecidos, só se aplica aos gases, é claro. Não posso invalidar a teoria, provando que não se aplica, por exemplo, ao plástico.
 
-In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+Da mesma forma, a moral só se aplica à consciência racional, devido à exigência de evitabilidade. Se eu tentar aplicar uma teoria moral a um caracol, a uma árvore, a uma pedra ou o conceito "números", estou a tentar igualar a consciência racional com entidades que não podem ser nem racionais nem conscientes, o que é uma contradição lógica. Também posso dizer que o teorema de ângulo oposto na geometria, é inválido, porque não se aplica a um círculo ou a uma nuvem. O OAT aplica-se apenas a linhas que se cruzam - tentar aplicá-lo a outras situações é o equivalente conceitual de tentar pintar o ar.
 
-In other words, misapplication is not disproof.
+Por outras palavras, a aplicação incorrecta não é incompatível.
 
 There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
