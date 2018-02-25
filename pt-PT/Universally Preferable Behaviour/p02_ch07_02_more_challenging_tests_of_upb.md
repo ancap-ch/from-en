@@ -32,7 +32,7 @@ Por outro lado, se comer é *moral*, então não pode ser moral comer repolho e 
 
 É desta forma que entendemos que a proposição "comer *peixe* é má", falha no teste do CUP e não é válida como uma teoria moral.
 
-### Animal Rights
+### Direitos dos Animais
 
 We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
 
