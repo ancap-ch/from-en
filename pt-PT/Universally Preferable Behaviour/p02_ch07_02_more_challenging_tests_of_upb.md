@@ -44,7 +44,7 @@ Assim, acabamos com o problema lógico do "mal inevitável". Se é mau matar pei
 
 Além disso, a palavra "peixe" continua a ser problemática para a formulação, já que é muito específica para ser universal. A reformulação adequada do CUP é: "é mau que as pessoas matem organismos vivos"
 
-No entanto, se é mau matar, enfrentamos, novamente, o problema do "mal inevitável". Nenhum ser humano pode existir sem matar outros organismos, como vírus, plantas ou talvez animais. Assim, a "vida humana" é definida como "má". Mas ainda que a vida humana seja definida como má, não o pode *ser* já que a evitabilidade se torna impossível.
+No entanto, se é mau matar, enfrentamos, novamente, o problema do "mal inevitável". Nenhum ser humano pode existir sem matar outros organismos, como vírus, plantas ou talvez animais. Assim, a "vida humana" é definida como "má". Mas ainda que a vida humana seja definida como má, não pode *sê-lo* já que a evitabilidade se torna impossível.
 
 E se disséssemos: "é mau matar pessoas" - isso faria que um tubarão que comesse um homem, fosse mau?
 
@@ -56,4 +56,4 @@ Da mesma forma, a moral só se aplica à consciência racional, devido à exigê
 
 Por outras palavras, a aplicação incorrecta não é incompatível.
 
-There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
+Existem muitas outras "áreas cinzentas" nas quais podemos trabalhar, desde o aborto até aos direitos de propriedade intelectual, à restituição e assim por diante, mas penso que é muito mais importante tirar o CUP do domínio da abstracção e começar a aplicá-lo aos problemas do mundo real, que enfrentamos actualmente.
