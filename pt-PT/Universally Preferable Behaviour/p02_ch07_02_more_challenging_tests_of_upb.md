@@ -44,9 +44,9 @@ Assim, acabamos com o problema lógico do "mal inevitável". Se é mau matar pei
 
 Além disso, a palavra "peixe" continua a ser problemática para a formulação, já que é muito específica para ser universal. A reformulação adequada do CUP é: "é mau que as pessoas matem organismos vivos"
 
-If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+No entanto, se é mau matar, enfrentamos, novamente, o problema do "mal inevitável". Nenhum ser humano pode existir sem matar outros organismos, como vírus, plantas ou talvez animais. Assim, a "vida humana" é definida como "má". Mas ainda que a vida humana seja definida como má, não o pode *ser* já que a evitabilidade se torna impossível.
 
-What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
+E se disséssemos: "é mau matar pessoas" - isso faria que um homem que comesse tubarão fosse mau?
 
 No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
 
