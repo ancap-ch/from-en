@@ -1,8 +1,8 @@
-### "Huwag Kumain ng Isda"
+### "Huwag kumain ng Isda"
 
-Ano ang kalagayan ng panukalang moral: "Masama ba kumain ng isda"?
+Ano ang sitwasyon ng panukalang moral: "Na masamang kumain ng isda"?
 
-Malinaw, ang panukalang ito ay tila upang masiyahan ang hindi bababa sa ilan sa mga kinakailangan ng UPB - lumilitaw ito sa unibersal, independiyenteng sa oras at lugar, at medyo layunin.
+Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
 
 Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
 
