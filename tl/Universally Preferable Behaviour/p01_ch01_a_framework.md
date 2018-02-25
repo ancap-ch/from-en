@@ -16,7 +16,7 @@ Ang siyentipiko na pamamaraan, ang pagkamakatwiran sa sarili, at mga batas matim
 
 Ang nasa gitna na hamon ay pagkakaunawaan sa kalikasan na ang katotohanan ay ang pagsasakatuparan sa "totoo" na hindi umiiral sa mundo sa parehas na paraan na ang bato o ang puno.
 
-Ang konsepto "katotohanan" ay kinakailangan sa kamag-anak na termino - gayunman ang ginagawa na ito ay hindi nangangahulugan sa pansarili o hindi makatuwiran na termino. Ang konsepto "kalusugan" ay magkamag-anak din sa termino - ating ipaghambing "kalusugan" sa karamdaman, at kamag-anak din ng sa mga pamantayan ng kalusugan. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+Ang konsepto "katotohanan" ay kinakailangan sa kamag-anak na termino - gayunman ang ginagawa na ito ay hindi nangangahulugan sa pansarili o hindi makatuwiran na termino. Ang konsepto "kalusugan" ay magkamag-anak din sa termino - ating ipaghambing "kalusugan" sa karamdaman, at kamag-anak din ng sa mga pamantayan ng kalusugan. Ano ang isinasaalang-alang "mabuting kalusugan" para sa siyamnapung taong gulang na gusto ng bahagya para sa dalawampung taong gulang. The definition of a long life is very different now than it was five hundred years ago.
 
 This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
 
