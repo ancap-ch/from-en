@@ -28,19 +28,19 @@ Ngayon, kung ang pagmamay-ari ng demonyo ay isang wastong pangyayari, at ang isa
 
 Kaya upang tanggihan ang pagmamay-ari ng katawan ay upang tanggihan ang lahat ng moralidad, na, tulad ng nakita natin sa itaas, ay lubos na imposible. Ang Lohikal, dahil ang moralidad ay tinukoy bilang isang maipapatupad na subset ng UPB, upang tanggihan ang moralidad ay upang sabihin na higit na lalong kanais-nais ang paniwalaan na walang bagay tulad ng mga kagustuhan sa unibersal.
 
-Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
+Sa wakas, gamitin ang pagmamay-ari ng isang tao sa sariling katawan sa anyo ng pagsasalita upang tanggihan ang paniniwala na ang isang tao ay maaaring makontrol ang sariling katawan, ay isang maliwanag at hindi malulutas na pagsasalungat sa sarili.
 
-It is in this way that any rejection of self-ownership can be utterly discarded.
+Sa ganitong paraan na ang anumang pagtanggi sa pagmamay-ari ng sarili ay maaaring lubos na itapon.
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+Dahil sa pagmamay-ari namin ang aming mga katawan, hindi rin kami namimili ng mga *epekto* sa aming mga aksyon, maging mabuti o masama. Kung pagmamay-ari natin ang mga epekto ng ating mga pagkilos, pagkatapos ay malinaw na pagmamay-ari natin ang ating ginagawa, kung ano ang aming ginawa ay isang busog, o isang libro - o isang pagpatay.
 
 ### Property And UPB
 
-Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
+Kahit na tanggihan namin ang nasa itaas, maaari parin naming gamitin ang UPB upang tiyak na igiit ang pag-iral ng mga pang kalahatang karapatan sa pag-aari.
 
-As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
+Tulad ng nabanggit sa itaas, ang mga tao ay may mga karapatan sa pag-aari, o hindi. Maliban sa ilang mga kulay-abo na lugar, na makukuha namin sa ilang sandali, ito ay nananatiling isang pandaigdigang panukala.
 
-If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
+Kung ang isang lalaki ay walang karapatan na gumamit ng ari-arian, pagkatapos ay wala siyang karapatang gamitin ang kanyang sariling katawan. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
 
 It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
 
