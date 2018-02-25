@@ -46,11 +46,11 @@ Além disso, a palavra "peixe" continua a ser problemática para a formulação,
 
 No entanto, se é mau matar, enfrentamos, novamente, o problema do "mal inevitável". Nenhum ser humano pode existir sem matar outros organismos, como vírus, plantas ou talvez animais. Assim, a "vida humana" é definida como "má". Mas ainda que a vida humana seja definida como má, não o pode *ser* já que a evitabilidade se torna impossível.
 
-E se disséssemos: "é mau matar pessoas" - isso faria que um homem que comesse tubarão fosse mau?
+E se disséssemos: "é mau matar pessoas" - isso faria que um tubarão que comesse um homem, fosse mau?
 
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
+Não, uma vez mais, pois já que os tubarões não têm a capacidade para evitar matar pessoas, não podem ser responsabilizados por tais acções, mais do que um deslizamento de terra pode ser levado a tribunal por matar um homem.
 
-UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
+O CUP permite excepções baseadas em diferenças materiais ou biológicas objectivas e universais, tal como as outras ciências. A teoria científica de que os gases se expandem quando aquecidos, só se aplica aos gases, é claro. Não posso invalidar a teoria, provando que não se aplica, por exemplo, ao plástico.
 
 In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
 
