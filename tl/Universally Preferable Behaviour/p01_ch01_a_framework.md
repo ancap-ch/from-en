@@ -10,7 +10,7 @@ Kung sasabihin ko na ang mundo ay bilog, at ako ay maglalaan ng sapat na katunay
 
 Kung tatanggapin ang bisa ng matimatika na batas, hindi ako kaya nagkataon na ayawan ang matimatika na katunayan na tumalima doon sa mga batas. Kung ako *tuparin* tumanggi gayon ang katunayan, kung ako ay hindi na mas hahaba pa na tanggapin ang bisa ng mga batas mtimatika. Ang aking pagtanggap sa mga batas na ito ay nangangahulugan na ako ay *nakatali* upang tanggapin bilang balido sa mga pagpapatunay na iyon ay tumalima sa mga batas. Ang pagtanggi bilang patunay na ito ay mga tumalima sa makatuwiran na mga pamantayan na pagtanggi ang makatuwiran na mga pamatayan bilang kabuuan.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+Ang siyentipiko na pamamaraan, ang pagkamakatwiran sa sarili, at mga batas matimatika lahat ay mga halimbawa sa *layunin* mmodelo para sa pagbangon ng katotohanan ng paksa. Ito ay hindi aking opinyon na ang dalawa na iyan at ang dalawa ay gawing apat - kung iyo din tatanggapin na ang dalawa at ang dalawa ang gagawing apat, ikaw ay hindi isailalim sa iyong sariling opinyon lamang. ngunit sa rasyonal na katotohanan.
 
 ### Objective Truth
 
