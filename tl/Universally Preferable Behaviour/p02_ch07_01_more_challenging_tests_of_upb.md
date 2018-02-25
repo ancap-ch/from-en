@@ -2,11 +2,11 @@
 
 Ngayon ay sinubukan nating tiyakin na ang mga teyorya ng moral na may kaugnayan sa balangkas ng UPB ay napagtibay natin ang pinaka-karaniwang mga paniniwala sa moral, tulad ng mga probihisyon laban sa panggagahasa, pagpinsala at pang-uumit. Batay sa pagpapadala ng kriterya ng *maiwasan* sa ating pag-susuri, kami ay nakakatulong din sa pagkakaiba sa pagitan ng mga patayan ng hindi pwedeng maiwasan, at ang mga patayan ay kailangan na pairalin ang positibong pagkilos, gaya ng panlilinlang. Sa wakas, hinati-hati namin ang "mas mabuting pag-uugali" sa mga kategorya ng tatlong pangunahin - unibersal, binago ang at niyutral (at ang mga kanilang ugnyan sa mga kasaliwaan). Ang mga ipinagbabawal na gawain sa buong daigdig ay kinabibilangan ng panggagahasa, pagpinsala at pang-uumit, na pwedeng gawin para mapigilan. Kasama sa mga kagustuhan ng aesthetically na higit na mabuti ang pagkamagalang, ang pagiging maagap sa oras at iba pa, na hindi pwedeng ipatupad sa pamamagitan ng kalupitan. Kasama ang mga niyutral na pag-aksyon ang mga pansariling kagustuhan, o ang mga aksyon na walang moral na nakapaloob, gaya ng pag-andar ng bus.
 
-Gayunman, merong maraming mananatiling mahihirap na pagsusulit sa moral na nasa labas ng mga halimbawa kami ay nakipag-ugnayan sa itaas. We will only deal with a few of those here, to have a look at the framework of UPB, and see how it deals with these more challenging moral questions.
+Gayunman, merong maraming mananatiling mahihirap na pagsusulit sa moral na nasa labas ng mga halimbawa kami ay nakipag-ugnayan sa itaas. Kami lamang ay makakaapekto sa ilang mga narito, para makita ang balangkas ng UPB, at silipin kung paano ito nakikipag-kasundo sa mga mas na tanung sa moral na ito.
 
-### Self-Defence
+### Sariling-pagtatanggol
 
-The concept of self-defence should not be taken for granted. If we assume that there is no such thing as self-defence, or that self-defence is never a valid action, then the framework of UPB undoes that assumption very quickly.
+Ang konsepto ng pangsariling pagtatanggol ay hindi dapat bawiin. A. If we assume that there is no such thing as self-defence, or that self-defence is never a valid action, then the framework of UPB undoes that assumption very quickly.
 
 If there is no such thing as self-defence, then we are not talking about the initiation or the retaliation of the use of force, but rather just the use of force in any context. In other words, if we get rid of the concept of self-defence, the only question that we need to ask ourselves is: *is it universally preferable to use force, or not?*
 
