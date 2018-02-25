@@ -48,9 +48,9 @@ Kung, gayunpaman, masama ang pumatay, muli nating lutasin ang problema ng "hindi
 
 Paano kung sabihin natin: "masamang patayin ang mga tao" - ibig bang gumawa ng isang tao na kumakain ng pating na masama?
 
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
+Hindi - sa muli, dahil ang mga pating ay walang kakayahan para maiwasan ang pagpatay ng mga tao, hindi sila pwedeng maging responsable para sa naturang mga aksyon, ang anumang higit pa kaysa sa isang landslide aypwedeng dalhin sa korte kung ito ay pumatay ng isang tao.
 
-UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
+Pinapayagan ng UPB ang mga pagbubukod batay sa layunin at unibersal na materyal o bayolohikal na mga pagkakaiba, gaya ng iba pang mga agham. Ang teyoryang pang-agham na pinalalawak ng mga gas kapag kumakain, siyempre, para lamang sa mga uri ng gas. Hindi ko kayang magpawalang-bisa ng teyorya sa pamamagitan ng pagpapatunay na hindi ito nalalapat sa, sabihin, plastik.
 
 In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
 
