@@ -50,7 +50,7 @@ Wala sa mga nabanggit na ito ang naging patotoo, siyempre. Sa katotohanan ang ga
 
 Ang pagkahulog ng diyos na mula sa itaas ay ang pag-angat o pagbangon ng tao.
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+Dito ay ang parehong kaparaanan, kung ang pagsisimula ng lahat na matanaw ang samahan sa natanaw na unang mga agham na pagka tunaw sa daigdig - bilang isang pang sariling-sistema na nagtutungkod wala ng pangangailangan na para sa mga isinasaisp ng sentral awtoridad - ngayon kung ang lahat ay maari ng simulan upang tunay na maunawaan ang mga bagay na maaaring mangyari upang makalaya narin ang sang katauhan.
 
 The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
 
