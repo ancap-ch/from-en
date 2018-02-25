@@ -2,7 +2,7 @@
 
 Dahil ang etika ay isang paksa na mayroon tayong lahat ng mga opinyon tungkol sa, mahahalagang i-balangkas sa relasyon sa pagitan ng *likas na ugali* mga etika at*rasyunal* na mga etika.
 
-A baseball player can catch a fly ball even if he knows nothing about physics. Similarly, we can correctly perceive an action as immoral even if we know nothing about ethical theories.
+Pwedeng mahuli ng isang baseball player ang isang lumilipad na bola kahit wala siyang alam tungkol sa pisika. Sa kaparehong paraan, pwede nating maunawaan nang wasto ang isang aksyon bilang imoral kahit na wala tayong nalalaman tungkol sa mga etikal na teyorya.
 
 If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
 
