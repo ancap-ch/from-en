@@ -2,11 +2,11 @@
 
 Bilang resulta ng mga argumento sa itaas, makikita natin na imposibleng pumasok sa anumang debate nang hindi tinatanggap ang saligan na ang ilang mga pag-uugali ay * pang-unibersal na kanais-nais*.
 
-I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
+Ginamit ko ang salitang "pag-uugali" dito sa halip na "naisip" sapagkat mahalaga na makilala ang pagkakaiba sa pagitan ng mga purong panloob at hindi napapatunayang mga estado tulad ng "pag-iisip" mula sa layunin at napapatunayang mga estado tulad ng "pagkilos," "pagsulat" at "pagsasalita."
 
-It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant,” which is why I use the word “behaviour” rather than “thought.”
+Imposibleng mapatunayan na nanaginip ako ng isang elepante kagabi. Posibleng patunayan na isinulat ko ang salitang "elepante," kung kaya ginamit ko ang salitang "pag-uugali" sa halip na "naisip."
 
-Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+Ang pagkilala sa superyor ng lohika sa isang argumento ay isang *aksyon*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
 
 Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
 
