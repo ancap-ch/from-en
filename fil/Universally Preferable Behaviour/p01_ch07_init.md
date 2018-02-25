@@ -6,7 +6,7 @@ Kung ang balangkas ng UPB ay may kakayahang ipaliwanag ang nasa itaas, kung gayo
 
 Hindi nito ibig sabihin na ilang kagulat-gulat - kahit nakakabiglang - mga konklusyon ay hindi magreresulta mula sa ating moral na teorya, subalit kahit papaano tayo ay papasa man lang sa unang balakid ng pagpapaliwanag ng halata na, bago pag-isipan ang alinmang talagang halata na.
 
-With that in mind, let us turn to the question of *initiation*.
+Habang nasasaisip iyan, tayo ng magtungo sa tanong ng *pagsisimula*.
 
 A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
 
