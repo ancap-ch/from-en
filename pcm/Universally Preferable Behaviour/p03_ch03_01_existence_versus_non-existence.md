@@ -54,53 +54,55 @@ Where things dey happen na d degree dat reason and evidence go make big thing le
 
 Dey are talking say dat d government work under opposite character rules way different from other community na d same thing we dey talk say “leprechauns are immune to gravity. “Frist of all, leprechauns nor dey exit – and one of d way which we go know say dem nor dey exist na by d thing dem dey claimed say dat dey are immune to gravity. Everything dat get weight na subject to gravity – dat one na immune to gravity by definition na e nor get mass, and d thing nor dey exist. D talk way dey ground “leprechauns are immune to gravity” na a tautology, dis one only com be true say na d non-existence of leprechauns – dis one com b d semantic equivalent of “dat which nor dey exist, nor dey exist.” A na A, Aristotle’s first law of logic, does precious little to confirm d existence of dat which is defined as non-existence.     
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+In de same way, as we dey talk say dat it is morally beta for soldiers to kpai and government people to thief, we know dat “soldiers” and “government peoples” dey get moral differently are *completely invalid*.  
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+If I talk say dat na square circle get de right to thief, I com dey talk say dat dat warin nor dey exist com get de right to do dat warin is self-contradictory – na clean nonsensical talk, but one warin remains strangely compelling in de “null zone” of politics.    
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become right for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+If I com buy one soldier’s cloth for blend down select shope, and I com wear am, so I nor com create an alternative universe warin different moral rules go fit be valid. De time before I com wear de fine cloth, e no good for me to kpai – which time e com becom correct for me to kpai? As I com wear de trousers? What of if I com wear only one shoe? What of if I com wear de two shoe, and only one shoe get role? What of if my cap dey face back? What of if I com wear de uniform dat nor be de same with de first person I com meet? Did de Beatles com get de power to kpai when dey fire de cover for “Sergeant Peppers”? Did dey lost dat power when dey remove dere coat.  
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+ I com ask dese rhetorical question becos dem dey in fact deadly serious. Clearly, a soldier fine cloth nor go fit change de way of a human being, any more than a cutting of his hair  nor go change am into a duck, a concept, or a god.    
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+“Ah,” you if talk say, “but de cloth/shirt nor be de right one becos you buy am for blend down select shop  – com wear de uniform of de soldier nor go fit make you resemble a soldier than to dey pretend to get a doctorate gives you a Ph.D”  
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+De example nor dey correct, becos getting a Ph.D. or pretending to get a doctorate nor go fit change any of de moral rules dat you dey bring to for as a human being.   
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+ “Well,” you may talk say, “but de different way dey is dat de soldier com get de moral rights dat are giving to him by de ordinary people, for de sake of  collective protecting  dem self and so on.”  
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Dis com bring a very important point, which is de question of whether subjection go fit change every thing for life.   
 
 ### Opinions And Reality
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Clearly, we com understand dat I nor go fit  with my subjection take release you from de restraints of gravity, as I dey subject dat “two plus two na five” com dey correct. 
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+“Subjections” na dose beliefs way nor get clear evidence in reality, or for nothing dey clear evidence go fit dey for ground, or which com show expressions of  ordinary personal preferences. My own subjection is dat I com like chocolate ice cream pass vanilla – I com get another “subjection” dat Iceland na a tropical paradise, or dat God dey, or dat rain dey fall go up. My own personal subjection com get nothing to do with morality; opinions dat  com claim say e dey accurately com show reality, but which nor be so, are merely nor dey correct prejudices. Believing dat de rain dey fall go up nor go fit change anything; com wear a Hawaiian cloth go Iceland nor go fit make Reykjavik fill warmer.      
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+ E-hen com believe say people way dey kpai people is morally beta nor fit make dem morally beta. Since I com believe dat a person nor go fit change his moral nature, my belief dat his kpai are virtuous nor go fit change de virtue of him action. If I com close my eyes and com dey think dat you be lizard, you nor com suddenly lost your sense to carry regulate your own body temperature. Imaging say dat you be fish nor fit bypass warin you need for scubs gear. 
 
-Opinions do not change reality.
+  Subjection no dey change reality.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Becos subjection nor dey change reality, I nor fit permit you any exception or reversal which com get  regards to a universal moral rule. Since moral rules com stay for universal logic, as de physical nature and reality of a human being, I nor go allow you d “right to kpai somebody” not to talk say I com allow you de ability to levitate, waka on water or correctly talk say dat two and two go fit make five.     
 
 ### Government As Voluntarism
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+De open force way dey inside de institution of government – de conceptual wrapper dat change moral rules for a particular people way gather together – na something dat na always  kept off de table in debates. When we dey talk about government, e never show dat we dey point or bring out a positive thing “de gun way dey de room.” Almostly as we dey explain, governments are considered to be selected by and for de people, and to work with dere expressed or implicit approval.       
 
-However, this is pure nonsense.
+However, dis na pure rubbish.   
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+ If a man com put a knife for de throat of a woman com dey fork her, dat  one na by any means an act of rape. He nor fit say dat de fork na consensual, when he dey threatening to wound her or kpai her if she nor agree make e fork her. If de fork na realm between de man and woman, then de knife na completely unnecessary. If de man com feel to carry a knife, then clearly de fork na *not* willingly.      
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+In de same way, people dey talk dat taxation na part of de social contract dat dey com voluntarily agree to.
 
-This is both logically and empirically false.
+Dis one na both logically and empirically nor be true. 
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+We com know dat na empirically lie becos *nor social contact dey*. As if in you nor I *ever* com signed a paper voluntarily consenting to de money way dey com tax – dem com born us inside a system dat collect our money from us becos dey use gun dey point at us.  
 
 ### The Gun In The Room
 
-Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+Many people com dey argue at dis point dat collecting of tax dem nor use gun take point, but rather dat people com agree to pay am voluntarily. For example, dem never point a gun for my face by dose people who dey collect tax or a policeman, but I don pay tax for plenty years
 
-This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+ Dis e if be true, but it na completely irrelevant. If I com tell a woman dat I go kpai her pikin if she nor agree to allow me fork am, and she com agree make I fork am, we come clearly understand dat an immoral action don happen – even when I nor com use the weapon in my violation. Clearly, if de woman agree make I sleep with her, na becos she dey fear dat I go fit do her something. If I com tell her dat my pet leprechaun go kpai her pikins if she nor agree to sleep with me, she go com dey sorry, but she nor go dey fear warin I talk in any significant way, becos e nor dey possible make my pet leprechaun fit kpai her pikins.  
+ 
+ Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
 
 To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
 
