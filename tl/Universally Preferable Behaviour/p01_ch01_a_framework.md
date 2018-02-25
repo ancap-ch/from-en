@@ -14,7 +14,7 @@ Ang siyentipiko na pamamaraan, ang pagkamakatwiran sa sarili, at mga batas matim
 
 ### Nilalayon ang Katotohanan
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+Ang nasa gitna na hamon ay pagkakaunawaan sa kalikasan na ang katotohanan ay ang pagsasakatuparan sa "totoo" na hindi umiiral sa mundo sa parehas na paraan na ang bato o ang puno.
 
 The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
 
