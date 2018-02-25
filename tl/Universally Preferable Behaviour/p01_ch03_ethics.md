@@ -50,6 +50,6 @@ Kagaya nito, tulad ng nabanggit nung una, kung papalapit ako sa iyo at sasabihin
 
 Kung nagpunta ako sa iyo at sasabihin: "Walang ganoong bagay ng katotohanan," pagkatapos ay gumagawa ako ng isang pahayag na itinuturing kong tunay na nag-aangkin na wala ang katotohanan. Muli, ang aking argumento ay nagsisira ng sarili.
 
-If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
+At kung sasabihin ko naman sa iyo na "Ang wika ay walang halaga," gayon din ako ay kumokontra rin sa aking sarili. Para makapagsalita ako ng makapagsalita nang wika na walang kahulugan, ang wika ay dapat hindi bababa sa ilang kahulugan lamang.
 
-If I tell you that “Your senses are invalid,” then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
+Kung sasabihin ko sa iyo na "Ang iyong mga pandama ay hindi tama," at kung gayon ang aking mga argumento ay nakakaapekto rin sa aking sarili, dahil ginagamit ko ang iyong pakiramdam ng pakikinig para ipaalam sa iyo na ang iyong pandinig ay hindi maayos. At kapag ako ay magtagumpay sa pakikipag-ugnayan ang aking tesis sa iyo, pagkatapos ang iyong pandama ng pandinig ay dapat balido. Kaya dapat kong ipalagay na ang iyong mga pandama ay wastopara makumbindsi ka na ang iyong mga pandama ay hindi tama, na hindi pwedeng tumayo.
