@@ -1,6 +1,6 @@
 ## Ang Kahalagahan ng Pang-unibersal na Kanais-nais na Pag-uugali
 
-A new theory is of precious little value if it only points out the obvious. If physics only provided an accurate description of how we catch a ball, then physics would not be a very worthwhile pursuit, because we already *can* catch a ball. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
+Ang bagong teorya ay may mallit na halaga kung pinupunto lamang nito ang nakikita na. Kung ang pisika lamang ay nagkakaloob ng tumpak na paglalarawan kung paano tayo sasalo ng bola, kung gayon ang pisika ay hindi na kapaki-pakinabang na hangarin, dahil *kaya* na nating sumalo ng bola. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
 
 In the same way, the UPB framework, and the moral rules that it validates or rejects, should ideally provide us with some startling insights about the world that we live in, and our relations to each other.
 
