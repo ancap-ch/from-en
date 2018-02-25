@@ -12,11 +12,11 @@ Pwede ko bang barilin ang isang taong kumakain ng isang piraso ng isda?
 
 Ito ay parang hangal na magkipagtalo na kaya ko - pero bakit?
 
-Mayroong ilang mga layunin na limitasyon sa pagiging pandaigdigan ng doktrinang ito. At sa halimbawa, ang ilang mga tao ay pwedeng walang access sa isda - pwedeng sila ay nakatira sa isang disyerto, sabihin - habang ang iba ay nakatira sa pamamagitan ng isang lawa na puno ng isda, at nahihirapan o imposible para mabuhay nang hindi kumakain. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
+Mayroong ilang mga layunin na limitasyon sa pagiging pandaigdigan ng doktrinang ito. At sa halimbawa, ang ilang mga tao ay pwedeng walang access sa isda - pwedeng sila ay nakatira sa isang disyerto, sabihin - habang ang iba ay nakatira sa pamamagitan ng isang lawa na puno ng isda, at nahihirapan o imposible para mabuhay nang hindi kumakain. Gayunpaman, hindi ito sapat, yamang tinanggap na natin ang katotohanan ng kawalan ng kakayahan ng isang bunso sa panghahalay ay hindi magpawalang-saysay sa moral na panukala "masama ang panghahalay."
 
-No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
+Hindi, ang "pulang tamban" sa moral na panukala "Masamang kumain ng isda" ang salita "*isda*."
 
-A scientist cannot validly say that his theory of gravity only applies to pink rocks. Since his theory involves gravity, it must apply to *all* entities that have mass.
+Hindi pwedeng sabihin ng isang siyentipiko na ang kanyang teyorya ng grabidad ay nailalapat lamang sa mga kulay-rosas na bato. Dahil ang kanyang teyorya ay nagsasangkot ng gravity, dapat itong mag-aplay sa *lahat* mga nilalang na may mass.
 
 Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
 
