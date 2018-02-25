@@ -10,9 +10,9 @@ Mayroong dalawang mga paraan upang ito ay malaman ang posibilidad ng tulay bago 
 
 Ang mga kalkulasyon sa matematika ay suporta sa posibilidad ng tulay ka kinakailangan sa loob ay hindi nag babagobago pa ang kahit anong ibang mga konsederasyon na maaring kunin sa managot.
 
-In computer terms, code that does not compile cannot be tested.
+Ang mga tuntunin sa kompyuter, ang code ay hindi matala hindi nasubukan.
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Ito ay makatotohanan sa siyentipikong mundo din. Ang mga teorya ay palaging sinurusi para sa panloob na hindi pagbabago bago ang pagpasa para sa empirical na mga pagsubok. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
 
 Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
 
