@@ -16,11 +16,11 @@ Por que será que essa ilusão de perfeição era considerada um requisito para 
 
 Também podemos transformar essa análise na questão da existência de Deus.
 
-Não possuímos evidências directas, empíricas ou racionais da existência de Deus. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+Não possuímos evidências directas, empíricas ou racionais da existência de Deus. As medidas científicas mais abstractas não proporcionam nenhuma evidência para a existência de Deus - ainda entre a verdade da nossa própria experiência, que é que não há Deus e as medidas e teorias científicas mais abstractas - que também confirmam que Deus não existe - há o desejo de uma espécie de "zona nula", *que inverte, por completo, padrões racionais de verdade*.
 
-### Bigotry
+### Intolerância
 
-Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+As crenças podem ser verdadeiras, falsas ou *anti-verdadeiras*. É uma crença verdadeira que o deserto do Saara está no norte da África; é uma crença falsa que o Sahara está na Escócia; é uma crença *anti-verdadeira* que o Sahara é o que quer que seja e existe onde quer que exista. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
 
 We can say:
 
