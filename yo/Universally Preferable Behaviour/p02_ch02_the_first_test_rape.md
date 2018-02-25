@@ -102,54 +102,54 @@ Bi a ti jíròrò lókè, ifipábanílopọ̀ kò lè jẹ ìhùwàsí láàrín
 
 Pàápàá ifipábanílopọ̀ jẹ ìhùwàsí *tó jẹ àìdá lọdọ ẹnìkán*, idakeji onka kẹta. Fún àpẹẹrẹ, ọdaràn tó wà lórí eré yíò gbà mímú ohun ni ìhùwàsí àìdá lọdọ rẹ (PNA).
 
-Personally negative actions (PNAs) by definition cannot be enforced upon another. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
+Ìhùwàsí to jẹ àìdá lọdọ ẹnìkán (PNAs) ní ìtumọ kò ṣe fi ipá mú lórí ẹlòmíràn. A jẹ wípé ọkùnrin kan tí wọn fí ipá bá lopọ yíò jẹ àṣìṣe fún lati "mú lò" ààyò rẹ lati *kọ ifipábanílopọ̀* lórí ẹni tí n fi ipa ba lo, nípa ìdáàbòbò ara ẹni. Ni ọnà yìí, ipilẹṣẹ ipá - àmúlò ààyò ti enikan - jẹ *ìwà rere*, nígbàtí ìdáàbòbò ara ẹni - to jẹ àmúlò ààyò ti ẹnìkán bákannáà - jẹ ìwà àìdá. A jẹ wípé a ti ṣe iyatọ ìhùwàsí kànna (àmúlò ààyò ti ẹnìkán) gegebi ìwà rere ati ìwà àìdá, ni èyí tí kò lè dúró.
 
-### Aesthetically Negative
+### Èyí tí a rò wípé ó jẹ àìdá
 
-Perhaps rape is an aesthetically *negative* action, like “being late” – the flip-side of number two above. However, aesthetically negative actions (ANAs) cannot logically be violently enforced *because by definition they can be avoided*. Since I can freely choose to stop associating with a man who continually shows up late, I cannot shoot him for being late.
+Pàápàá ifipábanílopọ̀ jẹ ìhùwàsí tí a rò wípé *kò dá*, gẹgẹbi "pipẹ dé" - idakeji ìṣòrí keji lókè. Pàápàá, ìhùwàsí ti a rò wípé ó jẹ àìdá (ANAs) kò ṣe fí ipá mú lò *nítorípé ní ìtumọ wọn ṣe yẹra fún*. Nigbati mo lè yàn lọfẹ láti má ṣọrẹ pẹlú ọkùnrin kàn ti n pẹ dé ní gbogbo ìgbà, mi kò le pá nítorí pipẹ dé rẹ.
 
-However, rape by definition cannot be avoided, since it is a sexual attack enforced through violence.[^4] Also, if I choose to stop being friends with the tardy man mentioned above, he cannot justly force me to be his friend by threatening me with violence, since that would rely on the principle that merely personal preferences can be enforced on others, which would run fruitlessly up against my ability to enforce *my* desire to drop his friendship. This kind of “Tarantino morality” always ends up with everyone in a state of mute paralysis, pointing guns at each other’s faces like frozen statues.
+Pàápàá, ifipábanílopọ̀ ni ìtumọ kò ṣe yẹra fún, nígbàtí ó jẹ ìpalára ìbálòpọ̀ tí a fí ipá mú lò.[^4] Ati pé, ti mo ba kọ lati jẹ ọrẹ pẹlu ọkùnrin tí kín dé lásìkò tí a sọ lókè, kò lè fi ipá mú mi ni ọrẹ rẹ pẹlu lílo ipá, nígbàtí èyí yíò gbára lé ìlànà wipe ààyò ẹnìkan lè gbà àmúlò pẹlu ipá lórí àwọn yòókù, èyí tí kò lè ní àtúnbọ̀tán lati lòdì sí ìkápá mi láti ní àmúlò ààyò *mi* láti kọ lọrẹ. Irufẹ "ìhùwàsí Tarantino" yìí má bàa já abọ sí ipò tí gbogbo èèyàn yíò rọ lẹnu, tí wọn yóò ma ko'ju ìbọn sí ara wọn bi ère gígan.
 
-As we have already established, any universally preferable behaviour must be universal to all people in all places at all times – if ANAs allow for violent enforceability (i.e. I can shoot you for being late) – then if rape is defined as an ANA which can be enforced, then the rape victim who finds rape an aesthetically negative action has the right to shoot his rapist, which effectively affirms the principle of self-defence, but at the expense of also allowing gun play in the opposition of, say, rudeness.
+Bi a ti ṣe fìdí rẹ múlẹ, èyíkéyìí nínú ìhùwàsí tó jẹ ààyò àgbáyé gbọdọ jẹ itẹwọgbà fún gbogbo èèyàn ní gbogbo ààyè ní gbogbo ìgbà - ti awọn ANAs bá tẹwọgba lílò ipá fún àmúlò (í.e. Mo lè pá ẹ nítorípé ó pẹ dé) - a jẹ pé tí ifipábanílopọ̀ bá jẹ ANA ti a lè mú lò, a jẹ pé ẹni tí wọn fi ipá bá lo bá tó rí ifipábanílopọ̀ gẹgẹbi ìhùwàsí ti a rò pé kò dá ni ẹtọ lati pa ẹni tó fi ipá bá lopọ, èyí tó jẹri ni pípé sí ìlànà ìdáàbòbò ara ẹni, ṣugbọn ni ìpalára gbigba fún eré ìbọn ni idakeji ki a, sọ wípé, ìgbéraga.
 
-Thus rape cannot be an ANA.
+A jẹ pé ifipábanílopọ̀ kò lè jẹ ANA.
 
-Which leaves only…
+Èyí tó sẹku…
 
-### Evil
+### Àìdá
 
-If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil,” passes the “coma test,” insofar as it is impossible for a man in a coma to rape someone.
+Ti ifipábanílopọ̀ bá túmọ sí àìdá, a jẹ wípé ó gbọdọ ni *ipilẹṣẹ* lílò ipá, èyí tó fihàn pé ó ní. Bákannáà, èròngbà wípé: "ifipábanílopọ̀ jẹ àìdá," yege "ìdánwò orun ailopin," lópin ìgbà tó jẹ wípé kò ṣeéṣe fún ọkùnrin tó wà lójú orun ailopin láti fi ipá ba èèyàn lopọ.
 
-In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
+Ni àfikún, ti ifipábanílopọ̀ bá jẹ àìdá, a jẹ pé *kíkọ fún* ifipábanílopọ̀ gbọdọ dára - ní ọnà yìí, ọkùnrin méjì nínú iyàrá lè jọ ní ìwà rere lásìkò kannáà, pẹlú kíkọ fún lílò ipá fí ba ara wọn lopọ.
 
-Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
+Nígbàtí mí ma yẹra fún nkan je ọ̀kan nínú àwọn nkan ti n ṣe iyatọ láàrín "ìwà tí mi kò fẹ" ati "ìwà aida," ati pé  ifipábanílopọ̀ jẹ ìhùwàsí kàn tó hàn ti a kò lè yẹra fún, ìtumọ " ifipábanílopọ̀ jẹ àìdá" náà jẹrisi iyasọtọ yìí.
 
-Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
+Ati pé, nígbàtí àwọn àsìkò kan wa ti kò ni ṣeéṣe ni ara láti fí ipá bá ẹnìkán lopọ - bi àpẹẹrẹ, nígbàtí líle okó kò ṣe ni - ìtumọ wípé "ifipábanílopọ̀ jẹ àìdá" yíò ṣe àtúnṣe sí wàhálà ti awọn èèyàn yíò má wú ìwà àìdá láì ní iranlọwọ, èyí tí jẹ àiṣeéṣe pẹlu ìtumọ, nítorí ìdí tí mi má yẹra fún nkan.
 
-The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+Ẹni tí n fi ipá ba èèyàn lopọ yíò jẹri sí ìhùwàsí rẹ pẹlu pé yíò yẹra fún àlàyé pe "ifipábanílopọ̀ dára," tí yíò mu àlàyé mìíràn dipo láti ṣe atilẹyin fún ìfẹ ọkan rẹ lati fí ipá bá èèyàn lopọ, gẹgẹbi: "Ó jẹ ìwà rere láti ṣe ìfẹ inú èèyàn, láì wo ìpalára tí yíò fún ẹlòmíràn."
 
-This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+Àlàyé yìí náà kùnà ìdánwò ọgbọn tó rọrùn jùlọ ti UPB. Ti Bob ba gbagbọ wípé ó yẹ ki ohun ri igbadun rẹ pẹlu ifipábanílopọ̀ pẹlú Doug - laibikita nípa ìnira ti Doug yíò ri - a jẹ pé Bob kò lè fi ọgbọn gbé ààyò rẹ ga dé ipò UPB.
 
-If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
+Ti gbogbo èèyàn bá yẹ lati mú ìfẹ wọn laibikita ìpalára ẹlòmíràn, a jẹ pé Bob kò ni ẹtọ lati fi ipá bá Doug lopọ, kódà pàápàá ti Bob ba *nifẹ sí* lílo ipá bá Doug lopọ, o dájú pé Doug *kò* nifẹ sí kí ẹnìkan fi ipá ipá ba ohun lopọ̀. Ti gbogbo èèyàn bá yẹ lati mú ìfẹ wọn laibikita ìpalára àwọn yòókù, a jẹ pé kò sí ìdí ọgbọn  tí ààyò Bob láti fi ipa ba Doug lopọ yẹ láti borí ààyò Doug láti kọ fún  ifipábanílopọ̀, laibikita ìpalára tí kíkọ fún  ifipábanílopọ̀ yíò ṣe sí Bob.
 
-Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
+A jẹ pé Doug le sọ fún Bob pé: "Ó dára fún mi láti fí ipá bá ọ lopọ, nítorípé ààyò ẹnìkán lè jẹ àmúlò pẹlú ipá." Bíbélì, pàápàá, lè fèsì pé: "Ó jẹ ìwà rere fún mi láti fi ipá kọ ìpalára rẹ, nígbàtí ààyò mi láti kọ ìbálòpọ̀ ipá náà ṣe fi ipá mú lò."
 
-Of course, few rapists are philosophers, but as we mentioned above, the primary danger to human beings is not the individual criminal, but irrational and exploitive moral theories. For instance, incarceration is inevitably justified through an appeal to a moral theory – and incarceration causes far more people to be raped than private criminals could ever dream of. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
+Pàápàá, diẹ nínú àwọn a fí ipá bá ní lopọ jẹ ọjọgbọn, ṣugbọn bi a ti sọ lókè, ewú àkọkọ fún àwọn èèyàn kìí ṣe olúkúlùkù ọdaràn , ṣugbọn àlàyé ìwà tí kò ní ọgbọn nínú ti ọ sí jẹ í. Fún àpẹẹrẹ, igbasilẹ ni ijẹrisi ti a kò lè yẹra fún lati ara ẹbẹ̀ sí àlàyé ìwà - ati pé igbasilẹ má n ṣe òkùnfà fifi ipá ba ọpọlọpọ èèyàn lopọ jù bí àwọn ọdaràn àdáni lè lérò nípa. Ti àlàyé ìwà tó jẹrisi igbasilẹ bá kùnà, a jẹ pé *ṣiṣe àtúnṣe* àlàyé ìwà yìí yẹ ní èrò ọkàn tó ga jù fún ẹnikẹni tó bá gbèrò láti dín ìwà ifipábanílopọ̀ ku láwùjọ.
 
-Thus it would seem that the only logical possibility for rape is that *not* raping is universally preferable behaviour – or that rape is universally banned behaviour.
+A jẹ pé yíò dàbí wípé nkán ṣoṣo tó ṣeéṣe pẹlu ọgbọn fún ifipábanílopọ̀ ni pé *kíkọ* ifipábanílopọ̀ jẹ ìhùwàsí ti àgbáyé nifẹ sí - tàbí wípé ifipábanílopọ̀ jẹ ìhùwàsí ti àgbáyé kọ.
 
 ### Whew!
 
-The fact that the UPB framework has logically and effectively validated the moral proposition that rape is evil – not “good,” or “aesthetically preferable,” or “personally preferable,” or “morally neutral” – is a very good sign. It does not prove beyond a shadow of a doubt that UPB will logically validate all “common sense” moral propositions, but the first hurdle has been passed, and that should give us great cause for celebration. If I were a physicist proposing a Unified Field Theory, and the application of my theory correctly predicted where a thrown baseball would land, I could justly be enormously pleased.
+Òtítọ wípé ìlànà UPB ti fi ọgbọn àti iṣẹ dáradára jẹrisi èròngbà ìwà wípé ifipábanílopọ̀ jẹ àìdá - kò "dara"," tàbí "ààyò tí a rò pé ó da," tàbí "ààyò ẹnìkán," tàbí "ìwà láàrín dáadáa àti àìdá" - jẹ àmì tó dára púpọ. Kò jẹri kọjá òkùnkùn iyemeji wípé UPB yíò fi ọgbọn jẹrisi gbogbo "ọpọlọ apapo" èròngbà ìwà, ṣugbọn ìdánwò akoko ti yege, àti pé èyí fún wa ni ìdí pàtàkì láti ṣe ajoyọ. Ti mo bá jẹ onimọ físíksì to n gbèrò àlàyé pápá àpapọ, ti lílò àlàyé mi yege lati sọ àsọtẹlẹ ibí tí bọọlu ti won ju yíò balẹ sí, inú inú mi yíò dùn púpọ̀.
 
-Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
+Àlàyé Einstein lórí ìbáṣepọ̀ sọ àsọtẹlẹ wípé imọlẹ yíò ka gba kòtò walẹ - nígbàtí èyí kọkọ gbà ijẹrisi, kò jẹrisi wípé alaye naa kọjá òkùnkùn iyemeji, ṣugbọn ó jẹrisi wípé àlàyé náà *lè* jẹ òtítọ́, èyí tó jẹ ìlọsíwájú nlá. Ijẹrisi àkọkọ lò má n le ju, nítorípé ó rọrùn láti kùnà níbi nkan, ati pé àṣìṣe má n pọ jù èyí tó dára lọ.
 
-The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+Ilana UPB ti fi òtítọ́ jẹrisi agbègbè ìwà wa wípé ifipábanílopọ̀ jẹ àìdá. Èyí jẹ oṣuwọn tó ní ìwúlò - ṣugbọn tí kò tó - fún ẹrí, tó sì n ṣe atilẹyin kíkún fún ìwádìí àfikún. Nigbana, ẹ jẹ kí a tẹsiwaju…
 
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
+[^1]: Èyí yàtọ sí ìpalára ara, èyí tí n jàmbá ìkápá rẹ láti ní ààyò to wù ẹ.
 
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
+[^2]: Kò ṣe jiyàn wípé ifipábanílopọ̀ kò ní lò ààyò kan, nígbàtí ifipábanílopọ̀ jẹ ìhùwàsí àti pé, gẹgẹbi a tí jíròrò lókè, gbogbo ìhùwàsí ní lò ààyò.
 
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
+[^3]: Ṣe àkíyèsí pé mi ọ lè gbèrò wipe "ààyò ẹnìkán *lè* jẹ àmúlò pẹlú ipá lórí àwọn èèyàn yòókù, nígbàtí èyí jẹ irufin UPB, tó sọ wípé òfin ìwà gbọdọ jẹ pípé ati kari àgbáyé - tí wọn kò bá jẹ, wọn yíò wà ni agbègbè APA, torí náà a kò lè fi ipá mú lò lórí àwọn èèyàn yòókù.
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]: A le yẹra fún àwọn ipò èyí tí yíò mú iṣẹlẹ ifipábanílopọ̀ ṣeéṣe, ṣugbọn a kò lè yẹra fún ifipábanílopọ̀ tí n ṣẹlẹ lọwọ.
