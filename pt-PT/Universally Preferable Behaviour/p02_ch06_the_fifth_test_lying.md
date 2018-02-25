@@ -1,39 +1,39 @@
-## The Fifth Test: Lying
+## O Quinto Teste: Mentir
 
-The question of *lying* is interesting because telling the truth is generally considered to be universally preferable, but not enforceable through violence.
+A questão de *mentir* é interessante porque dizer a verdade geralmente é considerado universalmente preferível, mas não é executável através da violência.
 
-It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
+Em geral, é considerado *mais* um requisito estrito do que "estar na hora", mas *menos* rigoroso do que "roubar". O que a estrutura CUP tem a dizer sobre isso?
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+Naturalmente, qualquer teoria moral que propõe "mentir é bom" é imediatamente detonada, pois se o homem que a propõe *é* mentir, o que é bom, então a mentira é ruim, porque eles lhe disseram a verdade de que a mentira É ruim.
 
-For instance:
+Por exemplo:
 
-**Bob:** Lying is always good.
+**Bob:** Mentir é sempre bom.
 
-**Doug:** Are you lying?
+**Doug:** Você está mentindo?
 
-**Bob:** Yes.
+**Bob:** Sim.
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**Doug:** Então, mentir deve ser ruim, já que você está mentindo sobre isso ser bom.
 
-Or:
+O:
 
-**Bob:** Lying is always good.
+**Bob:** Mentir é sempre bom.
 
-**Doug:** Are you lying?
+**Doug:** Você está mentindo?
 
 **Bob:** No.
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**Doug:** Portanto, mentir nem sempre é bom, porque você está dizendo a verdade que mentir é bom.
 
-Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
+Mentir, no entanto, não exige o início da força e, portanto, não viola a possibilidade de *evitabilidade*. Uma vez que os mentirosos podem ser evitados, logicamente eles não podem ser atacados.
 
-Lying also fits more closely in the category of *violence*, insofar as it is moral to lie in self-defence, just as it is moral to use violence in self-defence It is hard to think of a situation where one would have to “be late” in self-defence, or “be rude.” However, if a man bursts into your house and demands to know where your beloved wife is so he can slap her around, it would seem a parody of integrity to refuse to lie to him. Lying in this case would be a form of third-party self-defence, and as morally acceptable as the use of violence in self-defence Similarly, if a man obtains a hundred dollars from us by lying, we may justly lie to him to get it back.
+Mentir também se encaixa mais de perto na categoria de *violência*, na medida em que é moral se depolem em defesa própria, assim como é moral usar violência em legítima defesa. É difícil pensar em uma situação em que alguém teria que "estar atrasado" em defesa própria, ou "ser rude". No entanto, se um homem entrar em sua casa e exige saber onde sua querida esposa é capaz de dar uma bofetada, parece uma paródia de integridade se recusar a fazê-lo. mentir para ele Encontro neste caso seria uma forma de autodefesa de terceiros e tão aceitável como o uso da violência em defesa própria. Da mesma forma, se um homem obter uma centena de dólares de nós por mentir, podemos justamente mentir para ele para recuperá-lo.
 
-Thus we may justly lie to a liar, just as we may justly defend ourselves from a punch with a punch, but we would not exactly respect the escalating pettiness of “repaying” a tardy person by showing up even later.
+Portanto, podemos mentir justamente para um mentiroso, assim como podemos nos defender com um soco com um soco, mas não respeitamos exatamente a pequena escalada de "pagar" uma pessoa que chega tarde ainda mais tarde.
 
-The difference is that “being late” is not as actively destructive as lying. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
+A diferença é que "estar atrasado" não é tão ativamente destrutivo quanto mentir. Uma pessoa que chega atrasado é irritante, mas não prejudica fundamentalmente sua capacidade de processar a realidade. Uma coisa é aparecer uma hora atrasada para uma reunião às sete da manhã; Outro é tentar convencê-lo de que, na verdade, agendamos a reunião às oito da manhã, quando eu sei que esse não era o caso.
 
-Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
+Atacar sua confiança em sua própria mente[^ 5] é muito mais atroz do que simplesmente fazer você esperar, já que é o ato de usar a confiança de outrem em você para minar sua autoconfiança, que é altamente corrupta, como é *usando* um valor para minar um valor, como a falsificação. É assim que a CUP valida o ilógico da proposição "mentir é bom" e confirma que o ato de mentir para alguém é pior do que "estar atrasado", mas é melhor do que "assalto".
 
-[^5]: Sometimes called “gas-lighting,” after the old movie.
+[^ 5]: Ás vezes é chamado de "iluminação de gás" após o filme anterior.
