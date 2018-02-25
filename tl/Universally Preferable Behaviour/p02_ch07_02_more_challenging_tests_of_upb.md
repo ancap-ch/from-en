@@ -6,13 +6,13 @@ Malinaw na, ang panukalang ito ay tila para masiyahan ang hindi bababa sa ilan s
 
 Ngunit parang mahirap para sa atin na makatwirang tumawag ito ng tunay *moral na* teyorya - bakit?
 
-First of all, “evil” encompasses actions that can be prevented through the use of force. Rape is “evil,” and so I can use force to defend myself against someone attempting to rape me.
+Una sa lahat, na ang "kasamaan" ay sumasaklaw sa mga aksyon na pwedeng mapigilan sa pamamagitan ng paggamit ng lakas. Ang panghahalay ay "masama," at sa gayon ay pwede kong gamitin ang aking lakas para ipagtanggol ang aking sarili laban sa isang taong sumusubok na panghahalay sa akin.
 
-Can I justly shoot someone who eats a piece of fish?
+Pwede ko bang barilin ang isang taong kumakain ng isang piraso ng isda?
 
-It would seem silly to argue that I can – but why?
+Ito ay parang hangal na magkipagtalo na kaya ko - pero bakit?
 
-There are some objective limits to the universality of this doctrine. For instance, some people may have no access to fish – they may live in a desert, say – while others live by a lake teeming with fish, and find it hard or impossible to survive without eating them. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
+Mayroong ilang mga layunin na limitasyon sa pagiging pandaigdigan ng doktrinang ito. At sa halimbawa, ang ilang mga tao ay pwedeng walang access sa isda - pwedeng sila ay nakatira sa isang disyerto, sabihin - habang ang iba ay nakatira sa pamamagitan ng isang lawa na puno ng isda, at nahihirapan o imposible para mabuhay nang hindi kumakain. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
 
 No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
 
