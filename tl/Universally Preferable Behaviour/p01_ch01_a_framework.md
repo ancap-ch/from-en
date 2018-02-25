@@ -12,7 +12,7 @@ Kung tatanggapin ang bisa ng matimatika na batas, hindi ako kaya nagkataon na ay
 
 Ang siyentipiko na pamamaraan, ang pagkamakatwiran sa sarili, at mga batas matimatika lahat ay mga halimbawa sa *layunin* mmodelo para sa pagbangon ng katotohanan ng paksa. Ito ay hindi aking opinyon na ang dalawa na iyan at ang dalawa ay gawing apat - kung iyo din tatanggapin na ang dalawa at ang dalawa ang gagawing apat, ikaw ay hindi isailalim sa iyong sariling opinyon lamang. ngunit sa rasyonal na katotohanan.
 
-### Objective Truth
+### Nilalayon ang Katotohanan
 
 A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
 
