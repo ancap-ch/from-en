@@ -32,9 +32,9 @@ Ulit, ito ay hindi nangangahulugan na ang dalisay na tubig ay ganap na pansarili
 
 #### Katotohanan at Layunin sa Reyalidad
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+Ang konsepto ng *katotohanan*kianakailangan na kasama ang mga konsepto ng *ganap nakawastuhan*. Aking sinusubukan na i-shoot ang isang arrow sa bull’s-eye, ang katumpakan sa aking pagtira ay diterminado kung paano ang layo ng aking arrow sa pag daong sa gitna.
 
-What, then, is the “bull’s-eye” of truth?
+Ano, kung gayon, ang “bull’s-eye” sa katotohanan?
 
 Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
 
