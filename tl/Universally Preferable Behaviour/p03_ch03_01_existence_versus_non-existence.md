@@ -154,11 +154,11 @@ Kami ay nasabihan na "nais" naming si Bob ay kunin ang aming salapi - na kumplet
 
 "Teka, isa lamang itong sulatkamay na tala na nagsasabing pag-aari mo ang buong kapitbahayan - at ito ay parehas sa sulatkamay ng iyong lagda. Natatakot ako na kailangan namin i-book ka - ito ay isa mo lamang gawa-gawang kontrata, na iyong ipinapapasan sa mga tao sa punto ng baril."
 
-This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+Ito ay isang kumpletong kabaliwan at masama gaya ng ako na patuloy na sinasabi sa isang babae na aking ginagahasa na siya ay *nais* na makipagtalik sa akin. Iyo bang naiisip na ako ay nasa isang paglilitis ng panggagahasa, at may bidyoteyp ng isang babae na nagsasabi sa akin na tumigil na, at ako ay may kutsilyo sa kanyang leeg, paano ang aking depensa kung ako ay patuloy na nagpipilit na siya ay *ninais* na makipagtalik sa akin?
 
-In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
+Sa korte, iyon ay pinabulaanan, at ipapatapon sa kulungan sa aking halata, baliw, masama at pansariling kaimpokritohan.
 
-Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
+Ah, subalit sa "sonang wala" ng pamahalaan, ang panggagahasa ay isang gawa ng pag-ibig, ang pagkidnap ay isang imbitasyon, ang pagtanggi sa pagnanakaw ay isang masamang pagkamakasarili, at ang pamimilit ay kabutihan.
 
 This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
 
