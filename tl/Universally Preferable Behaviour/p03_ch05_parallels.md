@@ -46,7 +46,7 @@ Sa anumang pagkakataon ang isang paraan na nagpapahayag ng pangangatwiran ay pwe
 
 Ang mga pari ang tumupad sa pagpapasimula ng makaagham na pagbabago. Walang diyos, ang nagsasabing ang buhay ay walang kahulugan. Walang diyos, ang nagsasabing ang tao ay walang kalinisang asal. Walang diyos, ang nagsasabi na hindi maliligtas ang ating mga kaluluwa. Walang diyos, ang nagsasabing ang kasamaan at kaguluhan sa ating daigdig ay maghahari.
 
-Wala sa mga nabanggit na ito ang naging patotoo, siyempre. Sa katotohanan ang ganap na *pagbaligtad* papatungo sa naging tunay. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Wala sa mga nabanggit na ito ang naging patotoo, siyempre. Sa katotohanan ang ganap na *pagbaligtad* papatungo sa naging tunay. Ang pagkatapos ng pananampalataya bilang pangingibabaw ng mundong-tanaw ang aspaltadong paraan para sa pagbubukod ng mga esttado at mga simbahan, ang pagkagunaw ng aristokrasya, ang pag-angat ng malayang merkado, ang pagtatag ng mga kalayaan ng tao sa importanteng mga lugar sa ating mundo.
 
 The fall of God was the rise of mankind.
 
