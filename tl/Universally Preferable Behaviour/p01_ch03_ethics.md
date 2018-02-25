@@ -1,6 +1,6 @@
 ## Ang mga Etika
 
-Dahil ang etika ay isang paksa na mayroon tayong lahat ng mga opinyon tungkol sa na, mahalagang i-outline ang relasyon sa pagitan *instinctual* etika at *makatuwiran* etika.
+Dahil ang etika ay isang paksa na mayroon tayong lahat ng mga opinyon tungkol sa, mahahalagang i-balangkas sa relasyon sa pagitan ng *likas na ugali* mga etika at*rasyunal* na mga etika.
 
 A baseball player can catch a fly ball even if he knows nothing about physics. Similarly, we can correctly perceive an action as immoral even if we know nothing about ethical theories.
 
