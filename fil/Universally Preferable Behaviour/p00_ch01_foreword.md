@@ -42,11 +42,11 @@ Gayon ang moralidad ay nanatili, kaugnayan sa modernong agham, bilang medyebal n
 
 Ang "hayop" na ito ng relatibong etiko hinabi sa ating itaas, nangunguna sa atin, pagbibigay-katwiran sa buwis, pagkakakulong, sensura at mga digmaan. Inaalipin nito ang mga bago sa isang estadong eskuwelahan at linggong bangko; nabibitag ang mga mahihirap sa malambot ng mga gulag ng kapakanan; inaalipin nito kahit na ang mga hindi pa napapanganak sa napakailalim na balon ng pambansang mga utang.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+Habang sinusulat ko sa aking nakaraang libro, "Sa katotohanan: Ang paniniil ng ilusyon," ang pinaka pangunahing kasinungalingan sa sentro ng hindi napapatunayan na etikong mga teyorya ay tulad ng mga teyorya ay laging napapakita sa mga bata bilang obhektibo at hindi mapag-aalinlangang mga katotohanan, na sa katunayan sila ay pampanatikong kultura lamang. Ang dahilan na ang mga siyentipiko ay hindi na kailangan ang isang pamahalaan o ang isang Vatican na ang mga siyentipiko ay mayroong isang obhektibong pamamaraan para malutas ang mga pagtatalo: ang siyentipikong pamamaraan. Ang dahilan na ang wika ay hindi kailangan ng isang sentral na awtoridad upang gabayan ang kanyang ebolusyon ay nakasalalay sa "malayang pamilihan" ng mga naipon na kagustuhan ng mga indibidwal para sa estilo at paggamit.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+Ang dahilan na ang modernong moralidad - at ang moralidad sa buong kasaysayan - ay laging umaasa sa pananakot sa mga bata, at sa gayon sa pagbabanta sa mga matatanda, ay isang manipulyang kasinungalingan na nagpapanggap bilang isang marangal na katotohanan.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+Ang katotohanan ay nangangailangan ng moralidad; ang kasinungalingan ay na Ang mga Diyos o mga pamahalaan ay maaaring rasyunal tukuyin o makaturungang ipatupad ito.
 
 My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
 
