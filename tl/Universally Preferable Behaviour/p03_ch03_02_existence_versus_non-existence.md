@@ -4,9 +4,9 @@ Sa sandaling ang karahasan ng pamahalaan ay intelektwal na malantad - at ang ipi
 
 Ako ay nakapagsulat na ng dose-dosenang mga artikulo tungkol sa paglalantad ng kamalian ng posisyong ito, kung kaya't hindi ako mag-aalala na ulit-ulitin ang mga argumento dito, dahil hindi sila kailangan sa mga libro ng moralidad, sa halip mas akma sa mga libro na nagpapaliwanag ng mga prinsipyo at praktikalidad ng isang boluntaryong lipunan. [^4]
 
-Ang "argumento sa praktikalidad" sa anumang paraan ay hindi sinosolusyunan ang suliranin ng karahasan. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
+Ang "argumento sa praktikalidad" sa anumang paraan ay hindi sinosolusyunan ang suliranin ng karahasan. Kung nakikita kitang kumakain ng tsisburger araw- araw, pwede ko sabihin sa iyo na hindi ito praktikal na gawin, kung nais mo magpanatili ng malusog na timbang. Hindi ko masasabi na *masama* para sa iyo na kumain ng tsisburger, sa kadahilanang gaya ng nasabi ko na. Hindi kita maaaring pilitin sa pamamagitan ng pwersa upang mapataas ang "praktikalidad" ng iyong mga aksyon.
 
-Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
+Samakatuwid ang pagsabi na ang pamahalaan ay makatwiran sa pagpwersa sa atin na maging mas "praktikal" ay isang kumpletong huwad, na siyang pinatunayan ng balangkas ngUPB - kahit na ating ipagpalagay na ang pampamahalaang solusyon ay mas "praktikal", na sa katunayan ay hindi naman.
 
 Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
 
