@@ -34,11 +34,11 @@ Por outro lado, se comer é *moral*, então não pode ser moral comer repolho e 
 
 ### Direitos dos Animais
 
-We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
+Aqui, não temos tempo para entrar numa discussão completa sobre a questão dos direitos dos animais, mas, pelo menos, podemos tratar da proposição moral: "é mau matar peixes"
 
-If it is evil to kill fish, then UPB says that anyone or anything that kills the fish is evil. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
+Se é mau matar peixes, então o CUP diz que qualquer um ou qualquer coisa que mate o peixe é mau. Isso incluiria não só pescadores, mas também tubarões - já que se matar peixes é mau, alargamos a nossa definição de "actores" éticos, para incluir a vida não humana.
 
-It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
+É claro que os tubarões não têm a capacidade de abster-se de matar peixes, já que basicamente, estão a comer máquinas com barbatanas.
 
 Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
 
