@@ -1,7 +1,7 @@
 ---
 content_files:
   - 
-    - content.md
+    - مواد. ایم ڈی
     - https://github.com/ancap-ch/from-en/blob/utopian/ur-IN/template/content.md
 translation:
   language: ur-IN
@@ -11,34 +11,34 @@ translation:
   fetch_reviwers: true
   fetch_progress: true
 titles:
-  - Title Text
+  - عنوان متن
   - '~~Centered~~'
-  - '~~~~~to the right'
+  - دائیں طرف حرکت کریں
 discussions:
   - 
     - https://en.ancap.ch/t/5
     - Ancap Channel
 more_infos:
   - 
-    - https://www.google.com
-    - Website name
+    - https://www.Google.com
+    - ویب سائٹ نام
 tags:
-  - Some Tag
-  - Another Tag
-  - And so on
+  - کچھ ٹیگ
+  - اور ایک ٹیگ
+  - اور بھی
 tag_prefix: "https://en.ancap.ch/tags/"
 persons:
   - 
     person: [ ]
-    identifier: "template_person"
-    rule: "author"
+    identifier: "ٹیمپلیٹ _ شخص"
+    rule: "مصنف"
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "ٹیمپلیٹ _ شخص"
     rule: "collaborator"
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "ٹیمپلیٹ _ شخص"
     rule: "thanked"
   - 
     person: [ ]
