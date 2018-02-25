@@ -42,13 +42,13 @@ Para masimulan ang aming pagtatalakay tungkol sa etika, mahalaga na maunawaan na
 
 Sa usapang ekonomiya, ang isang teyorya ay hindi pwedeng maging balido kung kinakailangan nito na ang mga presyo ay kailangang bumaba at pagbaba sa magparehong oras. Tungkol sa pisika, ang isang teyorya ay hindi pwedeng maging balido kung nangangailangan ito na ang mga gas para lumawak at kumontrata nang sabay-sabay. Sa matematika, ang isang teyorya ay hindi pwedeng mgaing balido kung ito ay nangangailangan nang dalawang dagdagan ng dalawa ay katumbas ng lima, sapagkat ang "lima" ay isa lamang paraan ng paglalarawan ng dalawa dagdagan ng tatlo, hindi dalawa at dalawa, at sa gayon ay upang sabihin na ang dalawa dagdagan ng dalawa ay katumbas ng lima at sasabihing ang lima ay katumbas ng apat, na kung saan ay nagkakasalungatan sa sarili.
 
-Sa pang-kabuuan, ang anumang teyorya na sumasalungat sa sarili nito ay hindi pwedeng maging balido. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+Sa pang-kabuuan, ang anumang teyorya na sumasalungat sa sarili nito ay hindi pwedeng maging balido. Hindi ito nangangailangan ng panlabas na hindi-aprubado dahil hindi inaprubahan nito ang kanyang sarili. Hindi na namin kailangang suriin ang bawat sulok at bitak sa kalawakan para matukoy ang isang "parisukat na bilog" ay hindi umiiral. Ang mismong konsepto ay nduma-salungat sa sarili, at sa gayon ay nagpapababa sa sarili sa pananalita.
 
-If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
+Kung isusumite ko ang isang komplikadong matematikal na katibayan sa iyo, at napansin mo na, sa simula pa lang, sinasabi ko na ang aking katibayan ay nakasalalay sa katunayan na ang dalawa dagdag sa dalawa ay gumawa ng parehong apat at lima sa parehong oras, hindi mo na kailangang basahin ang anumang karagdagang malaman na ang aking patunay ay di-wasto.
 
-Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
+Kagaya nito, tulad ng nabanggit nung una, kung papalapit ako sa iyo at sasabihin: "Hindi ako umiiral," ang aking sanaysay ay awtomatikong nagsira ng sarili. Kung pwede kong makipag-usap sa iyo na hindi ako umiiral, pagkatapos ay malinaw na umiiral ako.
 
-If I come up to you and say: “There is no such thing as truth,” then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
+Kung nagpunta ako sa iyo at sasabihin: "Walang ganoong bagay ng katotohanan," pagkatapos ay gumagawa ako ng isang pahayag na itinuturing kong tunay na nag-aangkin na wala ang katotohanan. Muli, ang aking argumento ay nagsisira ng sarili.
 
 If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
 
