@@ -12,9 +12,9 @@ Ang mga kalkulasyon sa matematika ay suporta sa posibilidad ng tulay ka kinakail
 
 Ang mga tuntunin sa kompyuter, ang code ay hindi matala hindi nasubukan.
 
-Ito ay makatotohanan sa siyentipikong mundo din. Ang mga teorya ay palaging sinurusi para sa panloob na hindi pagbabago bago ang pagpasa para sa empirical na mga pagsubok. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Ito ay makatotohanan sa siyentipikong mundo din. Ang mga teorya ay palaging sinurusi para sa panloob na hindi pagbabago bago ang pagpasa para sa empirical na mga pagsubok. Ang dahilan na ang panloob ay hindi nagbabago ay ang lubhang kailangan dahil sa ang mga teorya ay mayroong pahayag sa kaugnay sa katotohanan, at ang katotohanan ay hindi nagbabago sa loob, kahit anong teorya na *hindi*ang kaugnay sa katotohanan ay hindi mahalaga kaugnay sa katotohanan.
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+Lamang *pagkatapos*ang panloob na hini nagbabago sa mga kalkolasyon ay itinatag na maaaring antas kung saan ang mga tulay ay maabot ang detalye sa pagsuri. Ito ay posible para sumulat sa panloob na alinsunod sa mga detalye para sa maliit na tulay ganap na nabuo sa balsa na kahoy, ngunit maliban na ang kung ang inhinyero ay sumulay ng artikolo para sa modelo ng model rail-roading magazine, kangyang mga detalye, kahit na hindi nagbabago, matugunan ang hindi maabot na kahit anong kailangan na pang-industriya.
 
 Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
 
