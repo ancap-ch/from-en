@@ -12,11 +12,11 @@ Kung ipanukala ko ang isang teyoriyang pang-agham na ganap na nagpawalang-bisa s
 
 Sa ibang pang salita, ang mga pandama ay nagbubunga ng lohika - samakatuwid ang lohika ay hindi pwedeng bumaliktad sa katibayan ng mga pandama. Ang katibayan ay laging nagpapaliwanag.
 
-In a similar manner, any valid ethical theory should be able to explain and justify our common revulsion towards crimes such as murder and rape. It cannot reasonably contradict the universal prohibitions of mankind, but must accurately incorporate and explain them.
+Sa kaperehong paraan, ang anumang balidong etikal na teyorya ay dapat na maipaliwanag at mapawalang-sala ang aming karaniwang paghihimagsik sa mga krimen tulad ng pagpatay at panghahalay. Hindi ito makatwirang na sumasalungat sa mga unibersal na pagbabawal sa sangkatauhan, ngunit kailangang isama nang tumpak at ipaliwanag ang mga ito.
 
-However, just as Einsteinian physics provided surprising truths – in fact, it would have been of little value if those truths were *not* surprising – ethical theories provide the most value when they also reveal surprising truths – shocking, even. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
+Gayunpaman, na gaya ng pisikal na Einsteinian na nagbibigay ng nakakagulat na mga katotohanan –sa katunayan, ito ay maliit na halaga kung ang mga katotohanang iyon ay *hindi* kagulat-gulatt - ang mga etikal na teyorya na nagbibigay ng pinakamahalagang halaga kapag inihahayag din nila ang nakakagulat na mga katotohanan - kagulat-gulat, kahit na. At sa katunayan, ang mga etikal na teyorya na hindi nagbibigay ng mga nakakagulat na mga katotohanan ay isang kumpirmasyon lamang sa mga umiiral na mga kagustuhan sa instinctual, at sa gayon ay sa maliit na halaga.
 
-### The Discipline Of Theoretical Ethics
+### Ang Disiplina ng Teyoretikal na Etika
 
 If I say that something is “morally good” – in other words, if I propose an ethical theory – then clearly I am arguing that human beings *should* act in a particular manner, or *avoid* acting in a particular manner.
 
