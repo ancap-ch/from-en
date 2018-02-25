@@ -1,6 +1,6 @@
 ## Ang Panloob na Hindi Pagbabago
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+Kung ako ay arketkto, at mag pasa ng plano upang gumawa ng bahay, ang unang hakbangan na kailangan ko pagtagumpayan kahit na o hindi ko bahay ay maaaring gumawa sa anumang paraan. Kung ako ay magpapasa ng mga plano para sa bahay na kabubuang ipagtayo sa mga bula ng sabon, kahit kailan ay hindi ako makakakuha ng komisyon dahil dito sa "bahay" na hindi kahit kailan tatayo.
 
 Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
 
