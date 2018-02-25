@@ -40,7 +40,7 @@ Kahit na tanggihan namin ang nasa itaas, maaari parin naming gamitin ang UPB upa
 
 Tulad ng nabanggit sa itaas, ang mga tao ay may mga karapatan sa pag-aari, o hindi. Maliban sa ilang mga kulay-abo na lugar, na makukuha namin sa ilang sandali, ito ay nananatiling isang pandaigdigang panukala.
 
-Kung ang isang lalaki ay walang karapatan na gumamit ng ari-arian, pagkatapos ay wala siyang karapatang gamitin ang kanyang sariling katawan. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
+Kung ang isang lalaki ay walang karapatan na gumamit ng ari-arian, pagkatapos ay wala siyang karapatang gamitin ang kanyang sariling katawan. Wala siyang karapatang gamitin ang kanyang sariling baga, kaya't dapat siyang huminto sa paghinga. Bagaman ito ay tila nakakatawa, ito ay isang agarangl at di maiiwasang resulta ng saligan na ang mga tao ay walang mga karapatan sa pag-aari.
 
 It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
 
