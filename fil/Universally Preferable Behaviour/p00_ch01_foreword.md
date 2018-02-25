@@ -40,7 +40,7 @@ Dahil tayo ay walang kasunduan sa isang pagkakaisa, obhektibo at makatwiran na b
 
 Gayon ang moralidad ay nanatili, kaugnayan sa modernong agham, bilang medyebal na "astronomiya" nagawa sa modernong astronomiya - isang larangan ng imahinasyong alamat, naipapatupad sa pamamagitan ng pagkwekwento, pagbabanta, pamimilit at pagsasamantala - na kung saan ay aktibong mga bar ang anumang tunay na progreso patungo sa katotohanan.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+Ang "hayop" na ito ng relatibong etiko hinabi sa ating itaas, nangunguna sa atin, pagbibigay-katwiran sa buwis, pagkakakulong, sensura at mga digmaan. Inaalipin nito ang mga bago sa isang estadong eskuwelahan at linggong bangko; nabibitag ang mga mahihirap sa malambot ng mga gulag ng kapakanan; inaalipin nito kahit na ang mga hindi pa napapanganak sa napakailalim na balon ng pambansang mga utang.
 
 As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
 
