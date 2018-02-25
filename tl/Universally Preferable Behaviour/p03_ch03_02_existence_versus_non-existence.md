@@ -8,7 +8,7 @@ Ang "argumento sa praktikalidad" sa anumang paraan ay hindi sinosolusyunan ang s
 
 Samakatuwid ang pagsabi na ang pamahalaan ay makatwiran sa pagpwersa sa atin na maging mas "praktikal" ay isang kumpletong huwad, na siyang pinatunayan ng balangkas ngUPB - kahit na ating ipagpalagay na ang pampamahalaang solusyon ay mas "praktikal", na sa katunayan ay hindi naman.
 
-Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
+Gayon din, kung ang mga kinatawan ng pamahalaan ay nagsasabi na ang isang sosyal na kontrata ay nagpapahintulot sa kanila na pwersahin ang isang "hindi praktikal" na populasyon na kumilos ng mas 'praktikal," isang hindi malulutas na kontradiksyon ang nabuo.
 
 If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
 
