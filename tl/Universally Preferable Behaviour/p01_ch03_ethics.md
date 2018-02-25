@@ -18,11 +18,11 @@ Gayunpaman, na gaya ng pisikal na Einsteinian na nagbibigay ng nakakagulat na mg
 
 ### Ang Disiplina ng Teyoretikal na Etika
 
-If I say that something is “morally good” – in other words, if I propose an ethical theory – then clearly I am arguing that human beings *should* act in a particular manner, or *avoid* acting in a particular manner.
+Kapag sinasabi ko na may isang bagay na "maganda ang moralidad" - at sa iba pang salita, kung ipanukala ko ang isang etikal na teyorya - pagkatapos ay malinaw na pinagtatalunan ko na ang mga kailangan ng tao *dapat* kumilos sa isang partikular na paraan, o *iwasan* kumikilos sa isang partikular na paraan.
 
-If I tell my son that he *should* become a baseball player just because I want him to, I am not stating a universal moral premise, but rather a personal preference. He is not *moral* if he becomes a baseball player, and neither is he *immoral* if he does not.
+Kung sasabihin ko sa aking anak na siya *dapat* maging isang manlalaro ng baseball dahil lamang sa gusto ko sa kanya, hindi ako pumapahayag sa isang unibersal na saligan na moral, kundi isang pansariling kagustuhan. Siya ay hindi *moral* kung siya ay naging isang manlalaro ng baseball, at hindi rin siya *imoral* kung ayaw niya.
 
-However, if I tell him that it is *moral* for sons to obey their fathers, and *immoral* for them to disobey their fathers, then I am proposing a preference that is universal, rather than merely personal – I am trying to turn a “little truth” (*I want you to become a baseball player*) into a “great truth” (*It is immoral for sons to disobey fathers*). *If* he wishes to be moral, he *must* become a baseball player – not because becoming a baseball player is moral, but rather because obeying his father is moral.
+Gayunpaman, kung sasabihin ko sa kanya na ito ay isang *moral* para sa mga anak na sumunod sa kanilang mga ama, at *imoral* para sa kanila na hueag sumunod sa kanilang mga ama, pagkatapos ay nagpanukala ako ng isang kagustuhan na pangkalahatan, sa halip na lamang ng personal – Sinisikap kong maging isang "maliit na katotohanan"(*Gusto kong maging isang manlalaro ng baseball*) sa isang “ magaling na katotohanan” (* ito ay imoral para sa mga anak na hindi sumunod sa kanilang mga ama*). *If* he wishes to be moral, he *must* become a baseball player – not because becoming a baseball player is moral, but rather because obeying his father is moral.
 
 When I speak of a universal preference, I am really defining what is *objectively required*, or *necessary*, assuming a particular goal. *If* I want to live, I do not have to like jazz, but I *must* eat. “Eating” remains a preference – I do not *have* to eat, in the same way that I have to obey gravity – but “eating” is a universal, objective, and *binding* requirement for staying alive, since it relies on biological facts that cannot be wished away.
 
