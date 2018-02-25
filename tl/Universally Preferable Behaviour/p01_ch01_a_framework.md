@@ -1,6 +1,6 @@
 ## Ang Balangkas para sa mga Etika
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Ang Etikal na mga panukala ay magkakaiba mula sa mga tipo ng kaalaman sa pahayag. Kung aking sasabihin, "Gusto ko ang jazz," yan ay posibleng totoo o hindi totoo na pagpapahayag, ngunit it ay hindi karaniwan na isinasaalang-alang sa umiiral saiyo sa kahit anong paraan. Ang Aking pagtatangi sa jazz ay pagpapahayag lamang sa personal na pagkamaibigin: base sa aking pagpapahayag, ito ay hindi kasalukuyang tungkulin sa sandaling ikaw ay alinman sa gusto o hindi pagkagusto sa jazz.
 
 Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
 
