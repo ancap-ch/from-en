@@ -66,7 +66,7 @@ Kaya naman ang isang tao na ang pinaniniwalaan ay ang pagtakot sa isang mabuting
 
 Sa madaling salita, ang UPB ay humihingi ng hindi pagkakabago maging sa hindi pagkakapantay-pantay. ang UPB ay humihingi din ng pagkakatulad kahit sa kasamaan.
 
-Ang pinakang sanhi ng mabuting lugar ng isang kultura ay kayang magdikta ng hindi maiiwasan itong hinaharap. Ang isang kultura na nabuo sa mga dahilan para sa pagpipilit ay laging maging higit pa na magiging mapilit. A culture built on rational liberty will always become less coercive.
+Ang pinakang sanhi ng mabuting lugar ng isang kultura ay kayang magdikta ng hindi maiiwasan itong hinaharap. Ang isang kultura na nabuo sa mga dahilan para sa pagpipilit ay laging maging higit pa na magiging mapilit. Ang isang kultura na binuo sa makatwirang kalayaan ay palaging magiging kulang mamilit.
 
 That is why the delineation of a rational framework for ethics is so essential.
 
