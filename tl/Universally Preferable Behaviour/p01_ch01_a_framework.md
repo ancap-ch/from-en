@@ -68,9 +68,9 @@ Ito ang ugat sa susi ng kriterya ng sayantipiko na pamamaraan - reproducibility.
 
 Kung ikaw ay isang guro sa matematika, ikaw hindi tunay na gusto ang pagtanggap ng maling kasagutan mula sa estudyante. kahit na ang estudyante ay nagsalaysay na ang kanyang kasagutan ay "tama" ng ito ay isulat nya, ngunit kahit papaano ay binago ng pansamantala.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Gayon man maaari nating masukat ang katumpakan sa kaugnay na pagpapahayag sa katotohanan ng layunin - sa parehas na empirically, at lohikal. Ang lohikal bilang desiplina ay lumitaw lamang bilang resulta ng hindi pagbabago sa katotohanan: mula sa mga onserbasyon ay balido o hindi balido lamang bilang resulta sa hindi pagbabago ng katotohanan sa kalikasan.
 
-### The Existence Of "Truth"
+### Ang Pag-iral ng "Katotohanan"
 
 Truth, then, can be measured according to two central criteria:
 
