@@ -12,7 +12,7 @@ Sa gayon ay makikita na, likas na ang mismong kilos ng pakikipagtalo ay isang bi
 
 Kung hihilingin ko sa iyo na magkita tayo sa tennis court, at magpakita na may dalang isang riple na gamit sa pangangaso, maaari tayong humantong sa paglalaro ng isang laro sa gayong mga uri, ngunit tiyak na hindi ito magiging tennis. Kapag hiniling ko sa iyo na magkita tayo sa tennis court para sa isang laro, ipinapahiwatig sa kahilingan na iyon ang isang pagtanggap sa mga panuntunan sa tennis.
 
-Historically, those engaged in ethical debating have often failed to maintain this basic reality.
+Sa kasaysayan, iyong mga nakikibahagi sa etikal na pakikipag-debate ay madalas na bigo upang mapanatili ang pangunahing katotohanan na ito.
 
 I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
 
