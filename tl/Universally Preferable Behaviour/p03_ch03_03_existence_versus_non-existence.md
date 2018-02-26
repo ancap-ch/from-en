@@ -10,7 +10,7 @@ Ang pangrelihiyon at estado mitolohiya, na kung gayon, ay kathang isip na mas ma
 
 Sa lahat ng parte sa mundo, ang mga namumuno ay ang pinakamaliit na porsiyento ng mamamayan. Paanong mayposibilidad para sa isa o dalawang porsiyento ng mga tao at panghawakan ang lahat ng iba pa? Doon sa isang siguradong may hawak sa mga kagamitang pang digmaan, para maging sigurado, subalit upang ang may hawak ay relatibong madaling salungatin, dahilan sa karamihang ginagawa ng mga pamahalaan isang kapalaran na makapagbenta ng mga sandatang pandigmaan sa lahat ng parte ng mundo.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+Ang nakalulungkot na katunayan ay ang mga katauhan sa kabuuan ay umalipin sa mga naisasaisip na entidad kagaya ng mga bansa, mga diyos, mga kultura – at mga gubyerno.
 
 Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
 
