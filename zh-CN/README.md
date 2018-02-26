@@ -52,7 +52,7 @@ Last generated:
 | 03_p02.md | :x: | :x: |    001 | | | |
 | 03_p02_ch09.md | :x: | :x: | 010 | | | |
 | 03_p02_ch09_01.md | :x: | :x: | 400 | | | |
-| 03_p02_ch09_02.md | :x: | :x: | 4k 490 | | | |
+| 03_p02_ch09_02.md | :x: | :x: | 4k 490 |huysh | | |
 | 03_p02_ch09_03_01.md | :x: | :x: | 2k 720 |hushuilan | | |
 | 03_p02_ch09_03_02.md | :x: | :x: | 3k 050 |hushuilan | | |
 | 03_p02_ch09_04.md | :x: | :x: | 200 |hushuilan | | |
