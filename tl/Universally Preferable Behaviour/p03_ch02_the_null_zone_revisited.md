@@ -14,9 +14,9 @@ Ang problema sa kanyang paglapit - mabuti, gayunpaman ay isang problema - ay ang
 
 Bakit ang maling akala na ang pagiging perpekto ay tintuturing na kailangan para sa katawang selestiyal? Ang ebedinsya ay tiyak na ang buwan, kasama ang paglaban sa parte ng bunganga, ay parang supurtahan ang kahinaan ng kalangitan, pero ang relihiyong nagaayos ay direktang katibayan ng senswal ng parehong madalian at hindi pagkakaintindi sa interplanitari. Ang mga bundok sa buwan ay tuklas ni Galileo, mga butas sa araw at ang buwan ng jupiter ay lahat sinalakay bilang erehe.
 
-We can also turn this analysis to the question of the existence of God as well.
+Maari rin natin itong maging batayan sa pagaaral sa tanong ng pagkakaroon ng diyos.
 
-We have no direct, empirical or rational evidence for the existence of God. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+Wala tayong direkta, empirical o makatuwirang batayan sa pagkakaroon ng Diyos. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
 
 ### Bigotry
 
