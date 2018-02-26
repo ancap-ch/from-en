@@ -48,7 +48,7 @@ Tungkol dito sa "walang lugar" mayroon lang dalawang posibilidad na totoong umii
 
 Kung, sa ilang punto, lumalabas na tayo *ay*pwedeng makipag ugnayan tungkol dito*walang lugar*, pagkatapos dapat tayo ay mayroong direktang senswal o may talino sa pagkakaroon ng katibayan dito. Samakatuwid, dapat ay "lumaki" sa ating daigdig sa anumang bagay. Gayunpaman, sa sandaling ito ay matuklasan na sa ating daigdig, ito ay dapat magkaroon ng katwiran at emperikal na buhay, tulad ng lahat ng ating matutuklasan. Sa gayun itong ibang mga salita "paglabaas" sa ating daigdig * ay walang kakayanan upang makakagawa para sa ating daigdi na suportahan ang pagkakaroon ng bilog na parisukat*.
 
-We can thus be certain that if we *are* ever able to detect this other universe, the evidence we gather will in no way support the existence of self-contradictory statements. Square circles, gods and other self-contradictory concepts cannot hide there, any more than they can hide in the wet dreams of leprechauns.
+Kaya naman natin maging tiyak ito *ay*palagi magagawang mapansin itong ibang daigdig, ang katibayan na tinitipon namin ay walang pagsuporta sa pagkakaroon ng sariling pagtanggi ng mga pahayag. Square circles, gods and other self-contradictory concepts cannot hide there, any more than they can hide in the wet dreams of leprechauns.
 
 On the other hand, if it turns out that we are *never* able to detect this other universe, and it remains a completely theoretical entity, with no evidence or rationality to support it, then it is simply a conceptual bag in which it is “convenient” to place things that are obviously not true.
 
