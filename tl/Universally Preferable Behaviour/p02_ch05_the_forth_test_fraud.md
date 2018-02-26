@@ -10,11 +10,11 @@ Malinaw na, ang panloloko ay nangangailangan ng isang tao *hindi* ay nakikibahag
 
 Maliwanag, na para sa pandaraya ay mangyayari, ang isang partido ay dapat kumilos nang may mabuting pananampalataya. Kaya ang taong nagnanais na gumawa ng pandaraya ay nakasalalay sa katotohanan na ang ibang tao ay gumagawa *hindi* nais na gumawa ng pandaraya, para mahuli sa kanya.
 
-Para makabalik sa haples na mga guinea pig sa moral, ano ang mangyayari kung hiniling namin sina Bob at Doug na kumilos ayon sa moral na prinsipyo na "ang pangay mabuti"? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
+Para makabalik sa haples na mga guinea pig sa moral, ano ang mangyayari kung hiniling namin sina Bob at Doug na kumilos ayon sa moral na prinsipyo na "ang pangay mabuti"? Kung si Doug ay may dalawampung dolyar, at si Bob ay may mas magaan, at si Doug ay nag-aalok si Bob ng dalawampung dolyar para sa mas magaan na iyon, at pagkatapos ay tumatagal ang mas magaan ngunit hindi nagbibigay sa Bob ng dalawampung dolyar, pagkatapos ay kumikilos si Doug sa saligan na ang pandaraya ay mabuti.
 
-What happens then?
+Ano ang nangyayari pagkatapos?
 
-Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
+Malinaw, ang prinsipyo na "ang pandaraya ay mabuti" at ay hindi pwedeng kumilos sa pamamagitan ng parehong Doug at Bob nang magkakasabay - dahil para gumawa ng pandaraya, Doug dapat kumilos nang hindi tapat, at dapat na kumilos si Bob matapat. Kaya't para paganahin ang "moral" na pagkilos ni Doug, dapat kumilos si Bob "sa pagka-imoral."
 
 UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
 
