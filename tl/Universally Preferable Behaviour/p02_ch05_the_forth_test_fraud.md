@@ -1,12 +1,12 @@
-## The Forth Test: Fraud
+## Ang Pang apat pagsussuri: Panloloko
 
-Right at the edge of what is generally considered ethical sits the challenge of *fraud*.
+Sa tama sa gilid ng kung ano ang karaniwang itinuturing na etikal ay nakaupo sa hamon ng *panloloko*.
 
-Fraud is the obtaining of value through false representation. If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
+Ang panloloko ay ang isang pagkuha ng halaga sa pamamagitan ng maling representasyon. Kung sasabihin ko sa iyo na ipapadala ko sa iyo ang isang iPod kung binibigyan mo ako ng dalawang daang dolyar, at pagkatapos ay dalhin ang iyong pera nang hindi ipapadala sa iyo ang iPod, katutubo naming nauunawaan na iyon ay isang uri ng pagnanakaw.
 
-Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
+Isama natin ang problema ng pandaraya sa pamamagitan ng gilingan ng UPB, at iyong tingnan kung may hawak na ito.
 
-Clearly, fraud requires that one person *not* be engaged in fraud. In the above potential transaction, if I am hoping to steal your two hundred dollars, and you are hoping to steal my iPod, nothing will come of it. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
+Malinaw na, ang panloloko ay nangangailangan ng isang tao *hindi* ay nakikibahagi sa pandaraya. Sa bandang itaas na potensyal na transaksyon, kung umaasa ako na nakawin ang iyong dalawang daang dolyar, at umaasa kang manakaw ng aking iPod, walang darating dito. Ipinag-darasal mo ang iPod bago magbigay ng pagbabayad, at hihilingin ko ang pagbabayad bago ibigay ang iPod. Tayo ay mawalan ng lakas ng loob, lubos na hindi makapanlinlang sa isa't isa.
 
 Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
 
