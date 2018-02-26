@@ -70,15 +70,15 @@ Ang pambihirang karapatan ay nangangailangan ng pambihirang patunay. Sa pagkuha 
 
 Ang pagugugol sa mga huling taon ng aking buhay sa paghahanda, pagsasanay, at pagkatapos ay paglaban sa hayop na ito, umaasa ako na ako ay kikilos sa sarili ko kasama ang ilang sukatan ng karangalan. Naniniwala ako na mayroon akong napaglabanan - kahit na hindi ganap na nasaktan - at umaaasa ako na makita kung sino ang nagbabahagi ng pananaw na ito. [^2]
 
-Ako ay nag-aral ng kasaysayan ng pilosopiya sa graduate school, at nakakuha ng Masters na degree, ngunit wala akong PhD sa pilosopiya. Ako ay malayo mula sa publikong pagkilalang intelektwal. While I may not be the *most* unlikely champion, I am also far from the most likely. Whether I have succeeded or not is not up to you, and it is not up to me.
+Ako ay nag-aral ng kasaysayan ng pilosopiya sa graduate school, at nakakuha ng Masters na degree, ngunit wala akong PhD sa pilosopiya. Ako ay malayo mula sa publikong pagkilalang intelektwal. Habang ako ay hindi maaaring maging *pinaka* tila hindi kampeyon, ako din ay malayo sa pinaka gusto. Kahit na ako ay magtagumpay o hindi ay hindi iyon ayon sayo, at hindi rin yun ayon sa akin.
 
-If the reasoning holds, the greatest beast is down.
+Kung ang nahahawakan ng pangangatwiran, ang pinakamalaking hayop ay bagsak.
 
-### A Modest Suggestion
+### Ang simpleng mungkahi
 
-It is the height of audacity to suggest to readers how to read a book, but given the challenges of the task before us, I would like to make one small suggestion before we embark.
+Ito ay ang taas ng katapangan upang imungkahi sa mga mambabasa kung paano magbasa ng isang libro, ngunit pagbibigay ng hamon na gawain bago sa atin, gusto kong gumawa ng maliit na mungkahi bago tayo pumasok.
 
-If we lived in the fifteenth century, and I were trying to convince you that the world were round, I would put forward reams of mathematical and physical proofs. If you held a contrary opinion, you would naturally react with scepticism, and be inclined to quibble with every line of proof. However, if you and I could in fact sail around the world, and arrive back where we started without retracing our steps, you would be far more willing to accept the conceptual proofs for what you had already *experienced* to be true. You might find fault with a particular logical step or metaphor, but you would already agree with the conclusion, and thus would be more prone to help correct the details rather than reject the theory as a whole.
+Kung tayo ay nabuhay sa ikalabinglimang siglo, at ako ay nagsisikap na kumbinsihin ka na ang mundo ay bilog, ako ay maglalagay ng mga pasulong na ream ng matematika at pisikal na patunay. Kung ikaw ay humahawak ng salungat na opinyon, ikaw ay likas na magkakaroon ng reaksyon sa septisismo, at magustuhang umiwas sa bawat linya ng patunay. However, if you and I could in fact sail around the world, and arrive back where we started without retracing our steps, you would be far more willing to accept the conceptual proofs for what you had already *experienced* to be true. You might find fault with a particular logical step or metaphor, but you would already agree with the conclusion, and thus would be more prone to help correct the details rather than reject the theory as a whole.
 
 If my task were to respond to every possible objection to every linguistic, logical and empirical step, this book would remain forever unfinished – and unread. Perfectionism is, in essence, procrastination, and I consider the task of this book to be too important – and the dangers of false morality too grave and imminent – to spend so long trying to achieve heaven that we all end up in hell.
 
