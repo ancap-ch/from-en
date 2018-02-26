@@ -28,9 +28,9 @@ Kung ang mga nasabing konsiderasyon ay malagpasan, gayonpaman, imposible pa rin 
 
 Sa parehas na paraan, kahit na piliin kong boluntaryong bayaran ang aking buwis, hindi ko basta-basta maipapataw ang opsyon na iyon sa iyo, dahil ang boluntaryong kontrata ay isa lamang kagustuhan, at hindi maaaring ipatupad ng pangkalahatan gamit ang karahasan.
 
-### The Necessity Of The State?
+### Ang Pangangailangan ng Estado?
 
-This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
+Ang tanong na ito ay mas lalong katawa-tawa kung ating titignan ang karaniwang moral na "pagbibigay-katwiran" sa kapangyarihan ng demokratikong pamahalaan, na nakabatay sa "kalooban ng nakararami."
 
 First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
 
