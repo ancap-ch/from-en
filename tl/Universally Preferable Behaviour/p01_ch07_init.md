@@ -36,11 +36,11 @@ Kapag ating sinusuri ang isang paniniwala gaya ng NAP, talagang may pitong mga p
 - Ang pagsisimula ng paggamit ng lakas na kung minsan ay tama sa moral.
 - Ang pagsisimula ng paggamit ng lakas ay palaging tama sa ating moral.
 
-As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
+Gaya nalang ng nakita natin sa itaas, gayunpaman, ang UPB ay isang balangkas ng "lahat o wala". Kung ang isang aksyon ay *lalong ka-aya-aya*, hindi ito pwedeng limitado ng indibidwal, heyograpiya, oras atbp. Kung mali ang pagpatay sa Algiers, mali rin ang pagpatay sa Belgium, Estados Unidos, sa North Pole at sa buwan. Kung ang pagpatay kahapon ay mali, kung sa gayon ay hindi ito tama sa ang pagpatay bukas. Kung ang pagpatay ay mali para kay Bob, dapat din itong mali para kay Doug sa pagpatay.
 
-Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
+Ang pakikipag-isa ng NAP sa UPB, sa gayon ay nagbibigay-daan sa amin na pahinain ang pitong mga pahayag na ito sa tatlong:
 
-1. It is universally preferable to initiate the use of force.
+1. Higit na mas maganda na pasimulan ang paggamit ng lakas.
 2. It is universally preferable to not initiate the use of force.
 3. The initiation of the use of force is not subject to universal preferences.
 
