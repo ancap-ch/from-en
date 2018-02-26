@@ -49,7 +49,7 @@ Sa unang kaso (*lahat ng tao ay moral*), ang pamahalaan ay kitang-kita na hindi 
 
 Sa pangalawang kaso (*lahat ng tao ay imoral*), ang pamahalaan ay hindi papayagang umiral dahil sa isang simpleng dahilan. Ang gobyerno, na pangkalahatang argumento, ay dapat umiral dahil may mga masasamang tao sa mundo na nagnanais na magpahriap, na siyang mapipigilan lamang sa pamamagitan ng takot sa pampamahalaang pagpaparusa (pulis, kulungan, *et al*). Isang korolari ng argumentong ito ay ang mas kaunting parusa ang kinatatakutan ng mga taong ito, mas maraming kasamaan ang gagawin nila.
 
-However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
+Gayonpaman, ang pamahalaan *mismo* ay hindi saklaw ng anumang pwersa ng pagpaparusa, kundi isang batas sa sarili nito. Kahit sa mga Kanluraning demokrasya, gaano karaming mga pulis at pulitiko ang napupunta sa kulungan?
 
 Thus if evil people wish to do harm, but are only restrained by force, then society can *never* permit a government to exist, because evil people will work feverishly to grab control of that government, in order to do evil and avoid retribution. In a society of pure evil, then, the only hope for stability would be a state of nature, where a general arming and fear of retribution would blunt the evil intents of disparate groups. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
 
