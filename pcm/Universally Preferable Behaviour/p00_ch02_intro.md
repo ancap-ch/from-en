@@ -86,7 +86,7 @@ And dem great truths na from dem shikini truths dem dey achieve am.
 
 D world falls because say a rock falls.
 
- ### “Truths wey dey middle” And To dey use person brain
+### “Truths wey dey middle” And To dey use person brain
 
 Biologically, parasitism na wholly a survival strategy wey dey possible for plenty creatures dem.  As ethical norms no dey, to dey steal energy and resources from oda creatures dem dey perfectly sensible. in evry evry, d type parasitism wey dey sustainable and stable pass na *symbiosis*, or somtin wey both tin wey dey dia dey enjoy. So d bacteria wey dey our intestine dey helep us digest d food wey we chop and e dey helep dem dey alive.
 
