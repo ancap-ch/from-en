@@ -6,7 +6,7 @@ Ang kaparehong moralidad nito. Galing sa maliit na katotohanan ng "na hindi dapa
 
 Sa pinagmulan ng pisika, ang pangunahing harang sa lohikal na pagkakaintindi sa katotohanan ay galing sa sariling karanasan sa pangkalahatang teorya ay ang relehiyon.
 
-For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
+Halimbawa, walang tao ang nakakatanggap ng direktang karanasan sa perpektong katotohanan katulad ng nilalang na umiiral sa katotohanan, at sa matematika, pero alinman ay hindi makikita sa isipan, o kaya sariling pandama sa tunay na mundo ang mararanasan. Wala kahit saan sa kalikasan, sa ating pagkakaalam, ang mayrooong perpektong katotohanan na umiiral, alin man sa "malaking katotohan" ng pisika.
 
 However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
 
