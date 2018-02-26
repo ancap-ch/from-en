@@ -47,7 +47,7 @@ Lohikal, mayroong 4 na posibilidad tungkol sa kung saan magkakahalo ang mga mabu
 
 Sa unang kaso (*lahat ng tao ay moral*), ang pamahalaan ay kitang-kita na hindi na kailangan, dahil ang mga masasama ay hindi umiiral.
 
-Sa pangalawang kaso (*lahat ng tao ay imoral*), ang pamahalaan ay hindi papayagang umiral dahil sa isang simpleng dahilan. Ang gobyerno, na pangkalahatang argumento, ay dapat umiral dahil may mga masasamang tao sa mundo na nagnanais na magpahriap, na siyang mapipigilan lamang sa pamamagitan ng takot sa pampamahalaang pagpaparusa (pulis, kulungan, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+Sa pangalawang kaso (*lahat ng tao ay imoral*), ang pamahalaan ay hindi papayagang umiral dahil sa isang simpleng dahilan. Ang gobyerno, na pangkalahatang argumento, ay dapat umiral dahil may mga masasamang tao sa mundo na nagnanais na magpahriap, na siyang mapipigilan lamang sa pamamagitan ng takot sa pampamahalaang pagpaparusa (pulis, kulungan, *et al*). Isang korolari ng argumentong ito ay ang mas kaunting parusa ang kinatatakutan ng mga taong ito, mas maraming kasamaan ang gagawin nila.
 
 However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
 
