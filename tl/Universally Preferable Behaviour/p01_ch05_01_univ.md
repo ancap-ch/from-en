@@ -10,7 +10,7 @@ Ang pagkilala sa superyor ng lohika sa isang argumento ay isang *aksyon*. Kung, 
 
 Sa gayon ay makikita na, likas na ang mismong kilos ng pakikipagtalo ay isang bilang ng nakakabit na mga saligan na hindi maaaring isiping mababaligtad.
 
-If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+Kung hihilingin ko sa iyo na magkita tayo sa tennis court, at magpakita na may dalang isang riple na gamit sa pangangaso, maaari tayong humantong sa paglalaro ng isang laro sa gayong mga uri, ngunit tiyak na hindi ito magiging tennis. Kapag hiniling ko sa iyo na magkita tayo sa tennis court para sa isang laro, ipinapahiwatig sa kahilingan na iyon ang isang pagtanggap sa mga panuntunan sa tennis.
 
 Historically, those engaged in ethical debating have often failed to maintain this basic reality.
 
