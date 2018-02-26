@@ -38,7 +38,7 @@ Ano ang hitsura nito sa pagsasagawa? Ang kailangan lang nating gawin ay itatag a
 
 Upang magsimula sa pinaka umpisa... ang mga panuntunan ng moral – o pang-unibersal na kanais-nais na mga paguugali ng tao – ay balido sa anumang paraan?
 
-There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
+Mayroong dalawang mga posibilidad lamang pagdating sa mga panuntunan ng moral, tulad ng sa anumang lohikal na siyensya. Either universal moral rules are valid, or they are not.[^6]
 
 A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
 
