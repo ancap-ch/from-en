@@ -12,7 +12,7 @@ Gayon din, kung ang mga kinatawan ng pamahalaan ay nagsasabi na ang isang sosyal
 
 Kung pwersahin ko ang isang babae na pakasalan ang isang lalaki na aking pinili para sa kanya, kung gayon malinaw akong naniniwala na ako ay may mas magaling na paghatol kaysa sa kanya patungkol sa mas nababagay na asawa para sa kanya. Sa katunayan, ako ay hindi naniniwala na siya ay bukas sa anumang dahilan, o may anumang hinala tungkol sa sarili niyang interes, dahil *hindi* ako mananagot sa kanyang mga ninanais, subalit pinipilit ko siyang pakasalan ang lalaking ako ang pumili.
 
-When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
+Kapag pinilit ko ang babaeng ito na mag-asawa na, akin lamang mapapatunayan ang paggamit ng pwersa - kahit sa mabilisan at praktikal pang dahilan - kung aaminin nung babae na siya ay nasa di wastong pag-iisip na gumawa ng desisyon hinggil sa pag-aasawa.
 
 If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. If she has no idea what constitutes a good or suitable husband, then how can she evaluate me as fit to decide who will be a good or suitable husband for her?
 
