@@ -60,7 +60,7 @@ Lohika, siyensya at katotohanan, pagkatapos, ay imposible a kawalan ng *hindi pa
 
 Ang panimula, ng mga batas ng lohika ay hango sa ugali ng bagay at enerhiya. sa pinakamababang perceptual na lebel. Kung sasabihin ko sayo na itapon ang bola pataas at pababa sa parehas na oras, ako ay nagtatanong ng imposible, kung saan madaling ma subukan sa pamamagitan ng magtangka para sa tumupad sa kahilingan. Kung sasabihin ko sayo na araro sa parehas na parang sa norte at parang sa timog ng magkakasama, ikaw ay hindi tumupad. Kung ako ay paghahabol kapag ikaw ay nagbalik ng rosas sa buriko, ang aking paghahabol ay hindi kahit kailan natutugunan.
 
-Ang Perceptual na reyalidad ay hindi nagbabago at nilalayon - at ito ay mula sa hindi nagbabago at nilalayon na nagmula sa ating lohika sa ating mga batas. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+Ang Perceptual na reyalidad ay hindi nagbabago at nilalayon - at ito ay mula sa hindi nagbabago at nilalayon na nagmula sa ating lohika sa ating mga batas. Ang ating mga pagpapahayag tungkol sa reyalidad ay maaari lamang na tama *sumagisag* sa reyalidad bilang direkta na resulta sa tama at walang-kinikilingan.
 
 The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
 
