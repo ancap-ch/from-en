@@ -6,7 +6,7 @@ Ang mga ideya na ang kalikasan ay isang sariling-likha at sarili-nag tutukod ng 
 
 Sa harap ng siyensiya, sa sentro ng bawat mahihirap unawain ang sistema ng paraang itatatag ng isang banal na kamalayan - wala na ang kung saang sistemang ito ay mapupunta sa malaking gulo, at ipatigil na.
 
-Sa kasamaang palad, itong "mabait na kamalayan"ay isa lamang maling akala, para mailagay ito sa pinaka-mapagkawanggawa. Walang gayon na umiiral sa mga diyos – na ang lahat ay *ginawa* ang umiiral ay ang mga sinabi ng mga pari. Kaya naman kung ano ang talagang nakalagay sa sentro ay ang mga pagkiling ng di-makatuwirang tao, na sinoman ay ang walang alam kung gaano magalit silang tunay.
+Sa kasamaang palad, itong "mabait na kamalayan"ay isa lamang maling akala, para mailagay ito sa pinaka-mapagkawanggawa. Walan sa gayon na umiiral ang mga diyos – na ang lahat ay *ginawa* ang umiiral sa ngayon ay ang mga sinabi ng mga pari. Kaya naman kung ano ang talagang nakalagay sa sentro ay ang mga pagkiling ng di-makatuwirang tao, na sinoman ay ang walang alam kung gaano magalit silang tunay.
 
 Ang Lahat ay mayroon upang maisalin itong malinaw sa ating mga pagkakaintindi ng lipunan – subalit ito ngayon ay *mahalagang* ginagawa natin.
 
