@@ -1,4 +1,4 @@
-## Ang muling pagdalaw sa Null Zone
+## Ang muling pagdalaw sa walang lugar
 
 Sa simula ng aklat na iyo. nilagay ko sa daan patungo sa pagtingin nga kung paano na proseso ang katutuhanan, kahalintulad nito sa pisika. Umpisa sa "mga maliit na katotohanan" sa pagkuha ng baseball, tayo ay dumadating sa "malaking katotohanan" ng pisika - at ng malaking katotohana na hindi pwede salungat sa mga maliliit na katotohanan.
 
@@ -16,11 +16,11 @@ Bakit ang maling akala na ang pagiging perpekto ay tintuturing na kailangan para
 
 Maari rin natin itong maging batayan sa pagaaral sa tanong ng pagkakaroon ng diyos.
 
-Wala tayong direkta, empirical o makatuwirang batayan sa pagkakaroon ng Diyos. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+Wala tayong direkta, empirical o makatuwirang batayan sa pagkakaroon ng Diyos. Ang karamihan ng abstrak na siyentipikong sukat ay nagbibigay ng walang katibayan para sa pagkakaron ng Diyos - subalit sa pagitan ng katotohanan ng ating sariling karanasan, na kung saan ay wala talagang diyos, at ang sobrang abstrak na siyentipiko ay nasusukat at teorya - na kung saan ay pinapahayag na wala talagang Diyos - ang uri ng "walang lugar" ay nag nasang umira, * na kung saan ay kumpletong baliktarin ang kahit na anong rasyunal na sukatan ng katotohanan*.
 
-### Bigotry
+### Pagkapanatiko
 
-Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+Paniniwala na may totoo, mali, o *hindi makatutuhanan*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
 
 We can say:
 
