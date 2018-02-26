@@ -66,7 +66,7 @@ Ang pambihirang karapatan ay nangangailangan ng pambihirang patunay. Sa pagkuha 
 6. Ako ay lubos na bukas sa mga panukala na walang anumang bagay tulad ng etiko, at ang lahat ng sistema ng "moralidad" ay mga instrumento lamang ng kontrol, tulad ng mapilit na pakikipagtalo ni Nietzsche. Sa librong ito, nagsimula ako sa palagay na walang bagay tulad ng etiko, at bumuo ng balangkas mula duon.
 7. Mayroon akong malaking respeto para sa etikal na *kalikasan* ng sangkatauhan. Ang malapit na makamundong panlipunang pagbabawal sa pagpatay, panggagahasa, pang-aabuso, at pagnanakaw ay mga katotohanan na ang anumang makatwiran na pagbabasurang etisis sa kanyang panganib. Si Aristotle ay nakipagtalo na ang anumang etikal na teyorya na maaaring magamit upang mapatunayan na ang panggagahasa ay isang moral na dapat magkaroon ng isang mali ukol dito, upang sabihin ang hindi bababa sa. Sa gayon, matapos ko makabuo ng isang balangkas para sa pagpapatunay ng etikal na mga teyorya, pinatatakbo ko ang mga karaniwang tanggap na mga moral na lugar sa pamamagitan ng balangkas na iyon, upang makita kung ang hawak nila ay totoo.
 8. Iginagalang ko ang iyong katalinuhan upang pigilin mula sa pagtukoy ng mga salita tulad ng "katotohanan," "dahilan," integridad" at iba pa. Mayroon kaming sapat na gawain nang hindi mabago ang gulong.
-9. Sa huli, naniniwala ako na ang anumang teyotya - lalo na ang isa bilang pangunahin bilang isang teyorya ng etiko - nakakagawa ng konting mabuti kung ito ay makukumpirma lamang kung ano ang likas na alam ng lahat ng tao. Hindi ako gugugol ng mga taon ng aking buhay sa pagtratrabaho sa isang teyorya ng etiko upang tumakbo sa paligit upang mapatunayan na ang "pagpatay ay mali." sa aking pananaw, ang pinakamahusay na mga teyorya ay ang mga nagpapatunay ng katotohanan na likas nating naiintindihan lahat - at pagkatapos ay gumamit ng mga prinsipyo upang palabasin ang bagong mga katotohanan na maaaring maging ganap na taliwas na magaling.
+9. Sa huli, naniniwala ako na ang anumang teyorya - lalo na ang isa bilang pangunahin bilang isang teyorya ng etiko - nakakagawa ng konting mabuti kung ito ay makukumpirma lamang kung ano ang likas na alam ng lahat ng tao. Hindi ako gugugol ng mga taon ng aking buhay sa pagtratrabaho sa isang teyorya ng etiko upang tumakbo sa paligid upang mapatunayan na ang "pagpatay ay mali." sa aking pananaw, ang pinakamahusay na mga teyorya ay ang mga nagpapatunay ng katotohanan na likas nating naiintindihan lahat - at pagkatapos ay gumamit ng mga prinsipyo upang palabasin ang bagong mga katotohanan na maaaring maging ganap na taliwas na magaling.
 
 Ang pagugugol sa mga huling taon ng aking buhay sa paghahanda, pagsasanay, at pagkatapos ay paglaban sa hayop na ito, umaasa ako na ako ay kikilos sa sarili ko kasama ang ilang sukatan ng karangalan. Naniniwala ako na mayroon akong napaglabanan - kahit na hindi ganap na nasaktan - at umaaasa ako na makita kung sino ang nagbabahagi ng pananaw na ito. [^2]
 
@@ -82,12 +82,12 @@ Kung tayo ay nabuhay sa ikalabinglimang siglo, at ako ay nagsisikap na kumbinsih
 
 Kung ang aking gawain ay tumugon sa bawat posibleng pagtutol sa bawat lingwistika, lohikal at empirikal na hakbang, ang librong ito ay mananatiling habambuhay na hindi tapos - at hindi mabasa. Ang pagiging perpekto ay, sa kakanyahan, pagpapaliban, at itinuturing ko ang isang gawain ng librong ito upang maging sobrang halaga - at ang mga panganib ng maling moralidad ay masyadong malalang at napipintong - sa paggastos ng matagal upang makamtan ang langit na lahat tayo ay mapupunta sa impyerno.
 
-Thus I humbly suggest that you wait to see how effective the ethical framework I propose is at proving the most commonly accepted moral maxims of mankind before passing final judgement on the theory.
+Kaya gayon ako ay nagkukumbaba na imungkahi na ikaw ay maghintay na makita kung gaano kaepektibo ang etikal na balangkas na iminumungkahi ko ay sa pagpapatunay ng pinaka karaniwang pagtanggap ng moral na kasabihan ng sangkatauhan bago maipasa ang huling paghuhukom sa teyorya.
 
-I truly believe that the definition of a rational ethical framework is the most essential task that faces mankind. I truly appreciate your interest in this crucial matter – and would like as always to thank the wonderfully kind donators who have made this work possible.
+Ako ay lubos na naniniwala na ang kahulugan ng makatwiran na etikal na balangkas ay ang pinaka mahalaga na gawain na mkakaharap ng sangkatauhan. Ako ay lubos na pinahahalagahan ang iyong interes sa napakahalagang bagay na ito - at gusto na lagi na magpasalamat sa kamangha-mangha na mabait na donator na gumawa na maging posible ang mga gawaing ito.
 
-I ride into battle well armed by others.
+Ako ay nakasakay sa isang labanan na armado sa pamamagitan ng iba.
 
-[^1]: Most of these will be discussed in more detail throughout the course of this book.
+[^1]: Karamihan sa mga ito ay matatalakay sa mas detalyado sa kabuuang ng aklat na ito.
 
-[^2]: Of course, if I have failed, I have at least failed spectacularly, which itself can be both edifying and entertaining!
+[^2]: Siyempre, kung ako ay magkakamali, kahit papaano ako ay nagkamali sa kamangha-mangha, na kung saan mismo ay maaaring maging parehas na nakakasigla at nakakaaliw!
