@@ -1,10 +1,10 @@
-## Ethical Categories
+## Ang mga kategorya ng Etika
 
-With the UPB framework in place, we can now turn to an examination of how UPB validates or invalidates our most common moral propositions. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
+Sa pamamagitan ng balangkas ng UPB sa lugar, pwede na ngayong usisain ang pagsusuri kung paano napatutunayan o pinawalang-bisa ng UPB ang aming pinakakaraniwang mga panukalang moral na mga problema. Kung ang aming "teyorya ng pisika" ay pwedeng ipaliwanag kung paano mahuhuli ang isang bola ng baseball ng isang tao, mayroon kaming naipasaat ito ang una - at pinakamahalaga - sagabal, at sinaktan ang una at pinakamalalim na suntok laban sa hayop.
 
-### The Seven Categories
+### Ang Pitong mga Kategorya
 
-As mentioned above, propositions regarding universally preferable behaviour fall into three general categories – positive, negative and neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
+Tulad ng nabanggit sa bandang itaas, ang mga salaysay tungkol sa pag-uugali ng higit sa lahat ay nahulog sa tatlong pangkalahatang kategorya - ang positibo, negatibo at ang neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
 
 1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
 2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
