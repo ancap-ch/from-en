@@ -20,15 +20,15 @@ Wala tayong direkta, empirical o makatuwirang batayan sa pagkakaroon ng Diyos. A
 
 ### Pagkapanatiko
 
-Paniniwala na may totoo, mali, o *hindi makatutuhanan*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+Paniniwala na may totoo, mali, o *hindi makatutuhanan*. Ito ay maaaring totoo na paniniwala na ang Sahara Disyerto sa Hilagang Africa; ito ay maling paniniwala na ang Sahara ay nasa Scotland; ito ay isang *maling paniniwala* paniniwala na ang Sahara ay nasa anumang gustuhin ko, at lumalabas sa luagar lamang na gustuhin ko. Ang unang paniniwala ay totoo; ang pangalawa ay mali - ang pangatlo ay pampanatikong asersyon na ang mismong konsepto ay patunay.
 
-We can say:
+Masasabi natin na:
 
-1. Proposition X is true because it is rational.
-2. Proposition Y is false because it is irrational.
-3. Proposition Z is true because I *want* it to be true.
+1. Ang Panukala X ay totoo kasi ito ay makatuwiran.
+2. Ang panukala Y ay hind totoo kasi ito ay hind makatwiran.
+3. Ang panukala Z ay totoo kasi ito ang *gusto* kong maging totoo ito.
 
-The third assertion is a complete self-contradiction. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
+Ang pangatlong asersyon ay isang kumpletong pansariling kontradiksyon. "katotohanan" ay malayang pagnanais, dahil ang pagnanais ay ka kahulugan ng pansariling paksa, ang katotohanan ay kahulugan ng isang pag sang ayon sa isang ideya na may magaling na layunin ng lohika at reyalidad na empirikal. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
 
 Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
 
