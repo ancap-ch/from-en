@@ -38,9 +38,9 @@ Dalawang karagdagang pagtutuol ang bumabalik sa tuwing maitatanong ang pangangai
 
 Ang una at kitang-kitang suliranin sa posisyon na ito ay kung ang mga masasama ay umiiral sa lipunan, sila ay umiiral din sa loob ng pamahalaan - sa gayon ay mas mapanganib. Ang mga mamamayan ay kayang protektahan ang kanilang sarili laban sa mga masasamang indibidwal, subalit walang mapagpipilian laban sa agresibong pamahalaan armado ng ngipin ng pulis at militar na kapangyarihan. Kung gayon ang argumento na kailangan natin ng agresibong pamahalaan dahil ang mga masasamang tao ay umiiral ay isang huwad. Kung ang masasamang tao ay umiiral, ang pamahalaan ay *dapat* lansagin, dahil ang mga masasamang tao na ito ay maaaring gamitin ang kapangyarihan nito para sa kanilang kapakanan - at, di gaya ng mga pribadong masasamang-loob, ang masasamang mga tao sa gobyerno ay may pulis at militar na nagpapahirap ng kanilang kapritso sa mga kaawa-awang ( and mga relativong walang sandata) populasyon. Samakatuwid ang argumento ay katulad ng ideya na "ang mga mandaraya ay lubos na mapanganib, kung kaya't dapat ay magkaloob tayo ng eksklosibong monopolyo sa pandaraya sa maliit na grupo ng indibidwal." Saan sa mundo naiisip ng mga tao ang unang pupuntahan ng mga mandaraya? [^5]
 
-Logically, there are four possibilities as to the mixture of good and evil people in the world:
+Lohikal, mayroong 4 na posibilidad tungkol sa kung saan magkakahalo ang mga mabubuti at masasamang tao sa mundo:
 
-1. All men are moral.
+1. Lahat ng tao ay moral.
 2. All men are immoral.
 3. The majority of men are immoral, and a minority moral.
 4. The majority of men are moral, and a minority immoral.[^6]
