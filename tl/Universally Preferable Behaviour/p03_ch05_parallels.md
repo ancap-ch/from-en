@@ -64,7 +64,7 @@ Kung naaayon sa namin ito o hindi, ang UPB ay naaangkop sa lahat ng bagay na ami
 
 Kaya naman ang isang tao na ang pinaniniwalaan ay ang pagtakot sa isang mabuting pamamaraan para makamit ang kung ano ang kagustuhan niya na mayroong gawaing manakot muli o higit pa sa itaas na pamamaraan ng kanyang buhay. Ang isang tao na ang pinaniniwalaan ang karahasan ay may tamang pag-uugali na pwedeng maging higit o mas humigit na maging marahas.
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+Sa madaling salita, ang UPB ay humihingi ng hindi pagkakabago maging sa hindi pagkakapantay-pantay. ang UPB ay humihingi din ng pagkakatulad kahit sa kasamaan.
 
 The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
 
