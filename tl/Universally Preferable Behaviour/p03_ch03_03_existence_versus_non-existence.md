@@ -14,9 +14,9 @@ Ang nakalulungkot na katunayan ay ang mga katauhan sa kabuuan ay umalipin sa mga
 
 Ang ating pansariling pagmamataas ay ang katutubong naghihimagsik laban sa isang agaran at naipapatupad na pagaalipin sa ibang mga tao – gayunman, tila ang lahat ay halos nagdiriwang sa pagkaalipin ng *mga alamat*.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+Ang ating ninanais upang maging mabuti – napagsamang pangingilig ng kabutihan na nakakamit natin sa pamamagitan ng pagsunod sa mabuting mga alamat – kami ay humahanay para handang magbahagi kayamanang higit sa mga iyon ang umaangkin na kumakatawan ito sa mga alamat.
 
-One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+Isang sentro dahilan na alam natin na ang pamahalaan at mga diyos ay hindi kaylangan ang mga ito kaya naging mabisa. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
 
 The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
