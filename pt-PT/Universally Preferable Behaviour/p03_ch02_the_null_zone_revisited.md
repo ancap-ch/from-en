@@ -48,7 +48,7 @@ Existem apenas duas possibilidades em relação a esta "zona nula". Ou esta *zon
 
 Se, alguma vez acontecer que *somos* capazes de interagir com esta *zona nula*, então teremos evidências directas ou racionais da sua existência. Por outras palavras, ele deve "ressaltar", de alguma forma, no nosso universo. Contudo, no momento em que se torna detectável no nosso universo, deve ter uma existência racional e empírica, como tudo o que podemos perceber. Assim, essas "saliências" de outro mundo no nosso universo *não podem criar a capacidade do nosso universo apoiar a existência de um círculo quadrado*.
 
-We can thus be certain that if we *are* ever able to detect this other universe, the evidence we gather will in no way support the existence of self-contradictory statements. Square circles, gods and other self-contradictory concepts cannot hide there, any more than they can hide in the wet dreams of leprechauns.
+Portanto, podemos ter certeza de que, se *somos* capazes de detectar esse outro universo, a evidência que reunimos não apoiará, de forma alguma, a existência de declarações contraditórias. Os círculos quadrados, os deuses e outros conceitos contraditórios não se podem esconder, mais do que se podem esconder dos sonhos molhados dos fantasmas.
 
 On the other hand, if it turns out that we are *never* able to detect this other universe, and it remains a completely theoretical entity, with no evidence or rationality to support it, then it is simply a conceptual bag in which it is “convenient” to place things that are obviously not true.
 
