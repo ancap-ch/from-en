@@ -42,9 +42,9 @@ Em geral, a maneira como as pessoas tentam "salvar" as suas crenças anti-empír
 
 Se eu disser: "Existe um círculo quadrado", estarei a afirmar algo que é claramente impossível, neste universo. Assim, se eu quiser manter a minha crença, devo inventar algum outro universo, ou reino "fora" deste, onde possa existir um círculo quadrado.
 
-If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
+Se eu construir um reino em que a contradição seja igual à verdade, então posso afirmar que aqueles que dizem que um círculo quadrado *não* existe, são intolerantes e prejudiciais, porque estão a descartar possibilidades que *poderiam* ser verdadeiras.[^1]
 
-With regards to this “null zone,” only two possibilities really exist. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
+Existem apenas duas possibilidades em relação a esta "zona nula". Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
 
 If, at some point, it turns out that we *are* able to interact with this *null zone*, then we shall have direct sensual or rational evidence of its existence. In other words, it must “protrude” into our universe in some manner. However, the moment that it becomes detectable in our universe, it must have rational and empirical existence, like everything else we can detect. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
 
