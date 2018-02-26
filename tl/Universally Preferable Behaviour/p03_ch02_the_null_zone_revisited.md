@@ -1,6 +1,6 @@
 ## Ang muling pagdalaw sa Null Zone
 
-At the beginning of this book, I put forward a way of looking at how we process truth, analogising it to physics. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
+Sa simula ng aklat na iyo. nilagay ko sa daan patungo sa pagtingin nga kung paano na proseso ang katutuhanan, kahalintulad nito sa pisika. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
 
 The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
 
