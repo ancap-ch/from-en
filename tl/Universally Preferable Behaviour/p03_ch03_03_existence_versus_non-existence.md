@@ -8,7 +8,7 @@ Ito ay mas mahusay para sa mga mapagsamantala para magkaroon sila ng mga aalipin
 
 Ang pangrelihiyon at estado mitolohiya, na kung gayon, ay kathang isip na mas malaki ang bawasan ang mga pinagkakagastosan at kontrolin ang mga mamamayan; sila ay ang langis at gasolina para sa malupit na makinarya na itinatag sa karahasan.
 
-Sa lahat ng parte sa mundo, ang mga namumuno ay ang pinakamaliit na porsiyento ng mamamayan. Paanong mayposibilidad para sa isa o dalawang porsiyento ng mga tao at panghawakan ang lahat ng iba pa? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Sa lahat ng parte sa mundo, ang mga namumuno ay ang pinakamaliit na porsiyento ng mamamayan. Paanong mayposibilidad para sa isa o dalawang porsiyento ng mga tao at panghawakan ang lahat ng iba pa? Doon sa isang siguradong may hawak sa mga kagamitang pang digmaan, para maging sigurado, subalit upang ang may hawak ay relatibong madaling salungatin, dahilan sa karamihang ginagawa ng mga pamahalaan isang kapalaran na makapagbenta ng mga sandatang pandigmaan sa lahat ng parte ng mundo.
 
 The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
 
