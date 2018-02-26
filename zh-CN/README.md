@@ -61,12 +61,12 @@ Last generated:
 | 03_p02_ch11_1.md | :x: | :x: | 2k 430 |hushuilan | | |
 | 03_p02_ch11_2.md | :x: | :x: | 4k 290 |hushuilan | | |
 | 03_p02_ch11_3.md | :x: | :x: | 3k 200 |hushuilan | | |
-| 03_p02_ch12.md | :x: | :x: | 2k 890 | | | |
-| 03_p02_ch13.md | :x: | :x: | 2k 560 | | | |
-| 03_p02_ch14.md | :x: | :x: | 10 | | | |
-| 03_p02_ch14_1.md | :x: | :x: | 2k 760 | | | |
-| 03_p02_ch14_2.md | :x: | :x: | 4k 290 | | | |
-| 03_p02_ch14_3.md | :x: | :x: | 4k 780 | | | |
+| 03_p02_ch12.md | :x: | :x: | 2k 890 |huysh | | |
+| 03_p02_ch13.md | :x: | :x: | 2k 560 |huysh | | |
+| 03_p02_ch14.md | :x: | :x: | 10 |huysh | | |
+| 03_p02_ch14_1.md | :x: | :x: | 2k 760 |huysh | | |
+| 03_p02_ch14_2.md | :x: | :x: | 4k 290 |huysh | | |
+| 03_p02_ch14_3.md | :x: | :x: | 4k 780 |huysh | | |
 | < more files to be added > | 
 
 </details>
