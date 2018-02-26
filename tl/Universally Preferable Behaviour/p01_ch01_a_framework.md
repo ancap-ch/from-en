@@ -58,7 +58,7 @@ Kung saan ang panaginip sa gabi, ang ating pandama ay mga patakaran sa "bagay" a
 
 Lohika, siyensya at katotohanan, pagkatapos, ay imposible a kawalan ng *hindi pagbabago*.
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+Ang panimula, ng mga batas ng lohika ay hango sa ugali ng bagay at enerhiya. sa pinakamababang perceptual na lebel. Kung sasabihin ko sayo na itapon ang bola pataas at pababa sa parehas na oras, ako ay nagtatanong ng imposible, kung saan madaling ma subukan sa pamamagitan ng magtangka para sa tumupad sa kahilingan. Kung sasabihin ko sayo na araro sa parehas na parang sa norte at parang sa timog ng magkakasama, ikaw ay hindi tumupad. If I demand that you turn a rose into a donkey, my demand will never be met.
 
 Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
 
