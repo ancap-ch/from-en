@@ -18,7 +18,7 @@ Lamang *pagkatapos*ang panloob na hini nagbabago sa mga kalkolasyon ay itinatag 
 
 Kapag aming natukoy na ang tulay ay tatayo, maaari namang matukoy kung maabot nito ang aming mga partukular na pangangailangan, tulad ng suporta sa timbang nga mga taong naglalakad laban sa mga tren.
 
-Sa larangan ng mga ekonomiya, sa parehas na mga nilagay na modelo. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+Sa larangan ng mga ekonomiya, sa parehas na mga nilagay na modelo. Kung ang aking kailangan sa teorya ng ekonomiya ang mga presyo ay taas at baba magkakasama, kung gayon ito ay hindi balido, sapagkat ito ay imposible. Pagka ang aking teorya ay nasuri para sa hindi pagbabago sa loob, Maaari kong umpisahan tugnan ang ebedensya, at/o umpisahan gamit ang aking teorya para gawin ang proactive na mga hula.
 
 Thus, we can see that any theory, to be valid, requires the following:
 
