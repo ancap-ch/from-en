@@ -6,7 +6,7 @@ Gayunman, merong maraming mananatiling mahihirap na pagsusulit sa moral na nasa 
 
 ### Sariling-pagtatanggol
 
-Ang konsepto ng pangsariling pagtatanggol ay hindi dapat bawiin. If we assume that there is no such thing as self-defence, or that self-defence is never a valid action, then the framework of UPB undoes that assumption very quickly.
+Ang konsepto ng pangsariling pagtatanggol ay hindi dapat bawiin. Kung inaakala namin na walang ganon na bagay tulad ng sariling-pagtatanggol, o ang pangsariling-pangtatanggol sa sarili ay talagang hindi balidong pagkilos, at tsaka ang balangkas ng UPB ay nagbabawal sa palagay na sobrang bilis.
 
 If there is no such thing as self-defence, then we are not talking about the initiation or the retaliation of the use of force, but rather just the use of force in any context. In other words, if we get rid of the concept of self-defence, the only question that we need to ask ourselves is: *is it universally preferable to use force, or not?*
 
