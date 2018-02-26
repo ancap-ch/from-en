@@ -28,7 +28,7 @@ Ang pansariling-pagtatanggol ay hindi pwedeng maging pag-uugali *kailangan*, dah
 
 Kung inatake ni bob ang doug, subali't ganap na hindi tama para kay doug na gumamit ng kalupitan para ipagtanggol ang kanyang sarili, tsaka ang kalupitan ay inilagay sa dalawang moral na kategorya - ang pagsisimula ng lakas ay mabuting moralidad, subali't ang ang pansariling-depensa ay moralidad na kasamaan, na hindi tayo paninindigan ayon sa UPB.
 
-However, you might argue, does not the proposition that self-defence is good also make violence both good and bad at the same time – the violence that is used to attack is bad, but the violence that is used for self-defence is good?
+Gayunpaman, pwede kang mangatwiran, hindi ang proposisyon na ang pansariling-depensa ay mabuti ring gumawa ng kalupitan sa kapwa at masama sa parehas na panahon - ang kalupitan na ginagamit sa pag-sugod ay masama, subali't ang kalupitan na ginamit para sa pansariling-depensa ay mabuti?
 
 This is an interesting objection – however, if the initiation of force is evil, then it can be prohibited by using force, since that is one of the very definitions of evil that we worked out above.
 
