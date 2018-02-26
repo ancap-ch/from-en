@@ -68,7 +68,7 @@ Sa madaling salita, ang UPB ay humihingi ng hindi pagkakabago maging sa hindi pa
 
 Ang pinakang sanhi ng mabuting lugar ng isang kultura ay kayang magdikta ng hindi maiiwasan itong hinaharap. Ang isang kultura na nabuo sa mga dahilan para sa pagpipilit ay laging maging higit pa na magiging mapilit. Ang isang kultura na binuo sa makatwirang kalayaan ay palaging magiging kulang mamilit.
 
-That is why the delineation of a rational framework for ethics is so essential.
+Na ang kadahilanan ay kung bakit ang guhit ng isang makatwirang balangkas para sa etika ay lubhang-mahalaga.
 
 What we believe is what we become.
 
