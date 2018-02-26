@@ -48,11 +48,11 @@ Ipagpalagay na kaya mo sabihin ang pinagkaiba sa gitna ng mga dalawang font sa t
 
 #### Katumpakan at hindi Pagbabago
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+Ito ay posible sa akin para sa tamang pinta sa ulap, yamang na ang pagpinta ay kukuha ng oras, ang ulay ay patuloy sa mga pagbabago. Kung magpinta ako ay tama *larawan* ng ulap, kung saan ito ay nagyelo sa oras.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+Kung ako ay maglalaan ng oras upang subukan na mag pinta ng ulap, at ikaw ay aking tatanungin kung ang aking pagpinta ay tama nagpagkatawan sa ulap na iyan, kinakailangan mong tumugan na ito ay hindi.
 
-In other words, where there is no consistency, there can be no accuracy.
+Sa ibang mga salita, kung saan ay walang pagbabago, diyan ay walang katumpakan.
 
 When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
 
