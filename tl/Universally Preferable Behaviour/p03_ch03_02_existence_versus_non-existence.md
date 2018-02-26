@@ -41,11 +41,11 @@ Ang una at kitang-kitang suliranin sa posisyon na ito ay kung ang mga masasama a
 Lohikal, mayroong 4 na posibilidad tungkol sa kung saan magkakahalo ang mga mabubuti at masasamang tao sa mundo:
 
 1. Lahat ng tao ay moral.
-2. All men are immoral.
-3. The majority of men are immoral, and a minority moral.
-4. The majority of men are moral, and a minority immoral.[^6]
+2. Lahat ng tao ay imoral.
+3. Karamihan ng tao ay imoral, at ang kakaunti ay moral.
+4. Ang karamihan ng tao ay moral, at ang kakaunti ay imoral. [^6]
 
-In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
+Sa unang kaso (*lahat ng tao ay moral*), ang pamahalaan ay kitang-kita na hindi na kailangan, dahil ang mga masasama ay hindi umiiral.
 
 In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
 
