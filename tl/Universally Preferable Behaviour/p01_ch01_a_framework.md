@@ -62,9 +62,9 @@ Ang panimula, ng mga batas ng lohika ay hango sa ugali ng bagay at enerhiya. sa 
 
 Ang Perceptual na reyalidad ay hindi nagbabago at nilalayon - at ito ay mula sa hindi nagbabago at nilalayon na nagmula sa ating lohika sa ating mga batas. Ang ating mga pagpapahayag tungkol sa reyalidad ay maaari lamang na tama *sumagisag* sa reyalidad bilang direkta na resulta sa tama at walang-kinikilingan.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+Ang katotohanan na ang mga tagak ay hindi nagkataon sa ikot ng mga palihan - o kabaliktaran - ito ay ugat ng ating kapasidad sa tamang paghatol sa pagpapahayag: "Na ang tagal." kung ang mga tagak ay spontaneously at patuloy na pagbabago ng kanilang kalikasan, nais namin na hindi gawin ang alinman sa katotohanan o mga hindi totoo na pahayag tungkol sa kanila, o kahit ano para sa bagay.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Ito ang ugat sa susi ng kriterya ng sayantipiko na pamamaraan - reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
 
 If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
 
