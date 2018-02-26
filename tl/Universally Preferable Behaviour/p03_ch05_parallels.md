@@ -42,7 +42,7 @@ Katulad pa, na ang mga pamahiing pamamaraan, ay may katagalan ang pagsulong ng m
 
 Gaya ng siyensya ay sinimulan na magbigay ng panuntunan sa mundo na pwedeng makatakbo ng wala nang isang dyos, sa lahat ng uri nang pamamaraan sa pagka-isterikong hiyawan na ang katapusan ng daigdig ay nalalapit na, sa lipunan ay makaraaranas ng paguho nito dahil sa "kakulangan ng pamahalaan," at maging ang sibilisasyon ay maaring mapunta sa pagkatunaw dahil sa digmaan na ang lahat ay lalaban sa lahat.
 
-Sa anumang pagkakataon ang isang paraan na nagpapahayag ng pangangatwiran ay pwedeng maging makapangyarihang pag-iisip ng pagtakbo sa *walang* may kakayahan, na para sa lahat ay kumikita ng mula sa pagpapatakbo ng kanilang kakayahan na iyon napaluha ang lahat ng sila ay nawalan.
+Sa anumang pagkakataon ang isang paraan na nagpapahayag ng pangangatwiran ay pwedeng maging makapangyarihang pag-iisip na patakbohin na nang *walang* mayroong kakayahan, na ang lahat ay para kumikita na mula sa pagpapatakbo ng kanilang kakayahan na iyon napaluha ang lahat ng sila ay nawalan.
 
 Ang mga pari ang tumupad sa pagpapasimula ng makaagham na pagbabago. Walang diyos, ang nagsasabing ang buhay ay walang kahulugan. Walang diyos, ang nagsasabing ang tao ay walang kalinisang asal. Walang diyos, ang nagsasabi na hindi maliligtas ang ating mga kaluluwa. Walang diyos, ang nagsasabing ang kasamaan at kaguluhan sa ating daigdig ay maghahari.
 
