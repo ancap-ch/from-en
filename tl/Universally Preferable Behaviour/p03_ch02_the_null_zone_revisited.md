@@ -1,8 +1,8 @@
 ## Ang muling pagdalaw sa Null Zone
 
-Sa simula ng aklat na iyo. nilagay ko sa daan patungo sa pagtingin nga kung paano na proseso ang katutuhanan, kahalintulad nito sa pisika. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
+Sa simula ng aklat na iyo. nilagay ko sa daan patungo sa pagtingin nga kung paano na proseso ang katutuhanan, kahalintulad nito sa pisika. Umpisa sa "mga maliit na katotohanan" sa pagkuha ng baseball, tayo ay dumadating sa "malaking katotohanan" ng pisika - at ng malaking katotohana na hindi pwede salungat sa mga maliliit na katotohanan.
 
-The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
+Ang kaparehong moralidad nito. Galing sa maliit na katotohanan ng "na hindi dapat ako pumatay" tayo ay mahaharap sa malaking katotohanan tulad ng sa "ang pagtanggap sa paggamit ng pwersa ay ugaling hindi tama."
 
 In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
 
