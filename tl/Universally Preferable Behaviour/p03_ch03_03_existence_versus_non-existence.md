@@ -12,7 +12,7 @@ Sa lahat ng parte sa mundo, ang mga namumuno ay ang pinakamaliit na porsiyento n
 
 Ang nakalulungkot na katunayan ay ang mga katauhan sa kabuuan ay umalipin sa mga naisasaisip na entidad kagaya ng mga bansa, mga diyos, mga kultura – at mga gubyerno.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+Ang ating pansariling pagmamataas ay ang katutubong naghihimagsik laban sa isang agaran at naipapatupad na pagaalipin sa ibang mga tao – gayunman, tila ang lahat ay halos nagdiriwang sa pagkaalipin ng *mga alamat*.
 
 Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
 
