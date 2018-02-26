@@ -28,7 +28,7 @@ Podemos dizer:
 2. A proposição Y é falsa porque é irracional.
 3. A Proposição N é verdadeira porque eu *quero* que seja verdade.
 
-A terceira afirmação é uma contradição completa. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
+A terceira afirmação é uma contradição completa. A "verdade" é independente do desejo, já que o desejo é, por definição, uma preferência subjectiva, e a verdade, por definição, é a concordância das ideias com os padrões objectivos da lógica e da realidade empírica. Dizer que algo é verdadeiro porque *queremos* que seja verdadeiro é equiparar a subjectividade com a objectividade, que é uma afirmação contraditória.
 
 Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
 
