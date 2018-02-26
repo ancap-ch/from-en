@@ -6,7 +6,7 @@ Sa tuwing sasabihin ng isang pari na: "Sundin ang Diyos." ang kanyang tunay na n
 
 Ito ay mas mahusay para sa mga mapagsamantala para magkaroon sila ng mga aalipinin at isaalang-alang ang pagkaalipin sa isang kabutihan, dahil dito pinutol paibaba ang sobra-sobrang pinagkakagastusan ng namamahala sa kanila. Kung kaya kong ipakumbinsi sa iyo ang masama upang iwasan ang paglilingkod sa akin, at walang bahid na maging sunod-sunuran ko, kung ganoon ay hindi ko kaylangan na upahan ang halos katulad ng karamihan ay mga masamang loob para mapanupil, pagkontrol at kumuha ng nagmula sa iyo.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+Ang pangrelihiyon at estado mitolohiya, na kung gayon, ay kathang isip na mas malaki ang bawasan ang mga pinagkakagastosan at kontrolin ang mga mamamayan; sila ay ang langis at gasolina para sa malupit na makinarya na itinatag sa karahasan.
 
 Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
 
