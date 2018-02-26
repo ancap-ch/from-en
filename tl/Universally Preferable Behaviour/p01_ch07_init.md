@@ -16,13 +16,13 @@ Kapag nakakuha ka ng kanser, ikaw ay mag-tanong sa isang siruhano para ikaw ay m
 
 Gayunpaman, ang magnanakaw na tumulak sa iyo ay nagpapasimula ng pag-atake sa iyong buhay at kalusugan, kaya naman ang kanyang pag-atake ay ang moral *kabaligtaran* na pagsisiskap ng isang siruhano.
 
-Kung ako ay isang talamak at may mahabang panahon sa paninigarilyo, nakilahok ako sa kadena ng mga kaganapan na humantong sa aking kanser sa baga. Sa pamamagitan ng pagpapasimula at sa pagpapanatili sa naka-ugaliang paninigarilyo, inilunsad ko ang isang kadena ng pananahilan na pwedeng magresulta sa isang nakamamatay na kapighatian. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Kung ako ay isang talamak at may mahabang panahon sa paninigarilyo, nakilahok ako sa kadena ng mga kaganapan na humantong sa aking kanser sa baga. Sa pamamagitan ng pagpapasimula at sa pagpapanatili sa naka-ugaliang paninigarilyo, inilunsad ko ang isang kadena ng pananahilan na pwedeng magresulta sa isang nakamamatay na kapighatian. Sigurado na posible para sa akin na makapulot ng kanser sa baga nang walang ginagawang paninigarilyo - o manigarilyo nang hindi nakakakuha ng kanser sa baga - ngunit sigurado na nakaapekto ako sa mga logro.
 
-Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
+Kagaya nito, posible para sa akin na iwanan ang aking pitaka sa isang upuan sa parke sa loob ng isang linggo, muling bumalik at para makita pa rin itong nakaupo doon, ngunit sa pamamagitan ng pag-iwan doon para sa isang mahabang panahon, sigurado na naapektuhan ko ang mga posibilidad na ito ay nawala.
 
-On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
+Sa kabilang dako, kung manatili ako sa bahay tuwing gabi, hindi ako eksaktong magbibigay ng krimen, at kung ang isang baliw ay sumalakay sa aking tahanan at pinapansin ako, hindi ko pwedeng sisihin ang anumang dahilan na ginampanan ko sa pangyayari.
 
-### The Non-Aggression Principle (NAP)
+### Ang Walang-Paglusob na Paniniwala (NAP)
 
 A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
 
