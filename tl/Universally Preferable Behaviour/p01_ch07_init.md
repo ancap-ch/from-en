@@ -4,15 +4,15 @@ Ang isang makatwirang moral na teyorya ay dapat na maipaliwanag ang lahat ng mga
 
 Kung ang balangkas ng UPB ay pwede namang ipaliwanag ang nasa itaas, kung gayon sigurado na naipasa na ito ng hindi bababa sa pagsusulit ng "karaniwang pandama".
 
-This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
+Hindi ito nangangahulugan na ang ilang nakakagulat - kahit kagulat-gulat - ang mga konklusyon ay hindi pwedeng magresulta mula sa aming moral na teyorya, ngunit hindi bababa sa dapat na naming naipasa ang unang sagabal ng nagpapaliwanag ng pagiging halata, bago pag-aralan na kung saan ay malayo mula sa pagiging halata.
 
-With that in mind, let us turn to the question of *initiation*.
+Sa pag-iisip na ito, ipaubaya natin ang tanong ng *Inisasyon*.
 
-A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
+Ang isang siruhano ay pwedeng "manaksak sa iyo ng isang panistis, ngunit pwede naming madaling maintindihan na ang kanyang mga aksyon ay ibang-iba mula sa isang magnanakaw na sumaksak sa iyo ang isang kutsilyo.
 
-This difference can be understood through a further analysis of *initiation*.
+Ang pagkakaibang ito ay pwedeng maunawaan sa pamamagitan ng isang karagdagang pag-aaral ng *inisasyon*.
 
-If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+Kapag nakakuha ka ng kanser, ikaw ay mag-tanong sa isang siruhano para ikaw ay maoperahan. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
 
 The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
 
