@@ -72,9 +72,9 @@ Gayon man maaari nating masukat ang katumpakan sa kaugnay na pagpapahayag sa kat
 
 ### Ang Pag-iral ng "Katotohanan"
 
-Truth, then, can be measured according to two central criteria:
+Ang Katotohanan, kung gayon, maaring masukat ayon sa dalawang sentral na pamantayan:
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
+1. Ito ang katotohanan na masukat ang ugnayan sa gitna ng mga ideya ng ating mga isipan at hindi nababago na pagkamakatwiran, kung saan direkta mula sa nanggaling na hindi nababagong paguugali ng paksa at enerhiya sa tunay na mundo.[^2]
 2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
 
 The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
