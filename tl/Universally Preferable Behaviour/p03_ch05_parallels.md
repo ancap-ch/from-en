@@ -62,7 +62,7 @@ Ang daan para salungatin ang stado – ang higit na peligrong isinasaisip ng ent
 
 Kung naaayon sa namin ito o hindi, ang UPB ay naaangkop sa lahat ng bagay na aming ginagawa. Ang tao ay mayroong tunay na pag-uugali papunta sa hindi pagkakabago, dahilan na ang lahat ay nilalang na mayroong isang makatuwirang kamalayan, namamalagi sa isang pagkakatulad at makatwiran daigdig. Kaya gayon anumang lugar ay tatang-gapin sa ating buhay na malamang ay may pagpilit pa at may pagkakaparehong inuugali sa buong buhay natin – at sa buong "pamumuhay" na ang ating kultura o ang ating bayan din.
 
-Kaya naman ang isang tao na ang pinaniniwalaan ay ang pagtakot sa isang mabuting pamamaraan para makamit ang kung ano ang kagustuhan niya na mayroong gawaing manakot muli o higit pa sa itaas na pamamaraan ng kanyang buhay. A man who believes that violence is good tends to become more and more violent.
+Kaya naman ang isang tao na ang pinaniniwalaan ay ang pagtakot sa isang mabuting pamamaraan para makamit ang kung ano ang kagustuhan niya na mayroong gawaing manakot muli o higit pa sa itaas na pamamaraan ng kanyang buhay. Ang isang tao na ang pinaniniwalaan ang karahasan ay may tamang pag-uugali na pwedeng maging higit o mas humigit na maging marahas.
 
 In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
 
