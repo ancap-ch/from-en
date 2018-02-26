@@ -20,13 +20,13 @@ Para sa pagkakataon, ang Prinsipyo ng hindi Pagsalakay (NAP) na ang pagsisimula 
 
 Bukod pa rito, bilang mga pilosopong moral, dapat nating unahin ang ating pagsusuri sa makatuwiran na etika sa pamamagitan ng pagtukoy sa mga kapansin-pansin na mga paglabag. Malinaw na, ang mga pinakapopular na aksyon ay dapat na ang masama na pagpapatupad ng di-makatarungang mga kagustuhan sa iba. Kung ang mga pagkilos gaya ng "pagnanakaw" o "pagpatay" ay tinukoy bilang UPB, ang pagsusuri ng mga naturang mga kahulugan ay dapat na ang aming pinakamataas na prayoridad.
 
-Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
+Kung kaya't dapat tayong mag-pokus sa ating mga pagsisikap lalo na sa mas higit na kahusayan at maipapatupad na mga pagkilos.
 
-### Virtue And Its Opposite
+### Ang Kabutihan At Ang Kabaligtaran nito
 
-The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil.” If I propose the moral rule, “thou shalt not steal,” then stealing must be evil, and *not* stealing must be good. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
+Ang kabaligtaran ng "kabutihan" ay dapat na "bisyo" - ang kabaligtaran ng "mabuti" ay dapat na "kasamaan." Kung ipanukala ko ang moral na tuntunin, "huwag kang magnakaw," kung gayon ang pagnanakaw ay dapat na masama, at *hindi* ang pagnanakaw ay dapat na mabuti. Hindi ito nangangahulugan na ang "pag-iwas sa magnanakaw" ay ang tanging kahulugan ng moral na kahusayan, siyempre, dahil ang isang tao ay pwedeng isang mamamatay-tao, ngunit hindi isang magnanakaw. Pwede naming isipin ito bilang isang "kinakailangan pero hindi sapat" na kinakailangan para sa kabutihan.
 
-Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
+Ang bawat mas magaling na aksyon sa moral ay dapat sa pamamagitan ng likas na katangian nito ay may tapat na pagkilos - dahil kung hindi, walang kapasidad na mapili, walang posibilidad na iwasan, at samakatuwid ay walang kakayahan para sa kabutihan o sa bisyo. Kung ipanukala ko ang tuntunin ng moralidad: "dapat mong salungatin ang grabidad," pagkatapos ay malinaw na ang moralidad ay nagiging imposible, ang imoralidad ay hindi maiiwasan, at sa gayon ay hindi wasto ang moral na tuntunin.
 
 If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
 
