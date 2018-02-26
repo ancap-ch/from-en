@@ -54,9 +54,9 @@ Kung ako ay maglalaan ng oras upang subukan na mag pinta ng ulap, at ikaw ay aki
 
 Sa ibang mga salita, kung saan ay walang pagbabago, diyan ay walang katumpakan.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Kung saan ang panaginip sa gabi, ang ating pandama ay mga patakaran sa "bagay" at "enerhiya" ay mga patuloy na yugto sa kilos ng bagay - tayo ay hindi tintablan ng grabidad, at tayo ay lilipad sa likod ng elepante, at pagtapos ay maaari tayong maglakad sa mga pader. Ito ay hindi na imposible na mag bumuo "mga siyentipiko physics ng panaginip" kaysa tamang pagpinta ng ulap.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+Lohika, siyensya at katotohanan, pagkatapos, ay imposible a kawalan ng *hindi pagbabago*.
 
 Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
 
