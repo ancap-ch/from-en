@@ -6,7 +6,7 @@ Ang mga ideya na ang kalikasan ay isang sariling-likha at sarili-nag tutukod ng 
 
 Sa harap ng siyensiya, sa sentro ng bawat mahihirap unawain ang sistema ng paraang itatatag ng isang banal na kamalayan - wala na ang kung saang sistemang ito ay mapupunta sa malaking gulo, at ipatigil na.
 
-Sa kasamaang palad, itong "mabait na kamalayan"ay isa lamang maling akala, para mailagay ito sa pinaka-mapagkawanggawa. Walang umiiral na mga diyos na ganoon-lahat ng iyon ay *gawa* mayroon ding mga proklamasyon ang mga saserdote. Kaya naman kung ano ang talagang nakalagay sa sentro ay ang mga pagkiling ng di-makatuwirang tao, na sinoman ay ang walang alam kung gaano magalit silang tunay.
+Sa kasamaang palad, itong "mabait na kamalayan"ay isa lamang maling akala, para mailagay ito sa pinaka-mapagkawanggawa. Walang umiiral na mga diyos na ganoon-lahat ng iyon ay *ginawa* mayroon ding mga proklamasyon ang mga pari. Kaya naman kung ano ang talagang nakalagay sa sentro ay ang mga pagkiling ng di-makatuwirang tao, na sinoman ay ang walang alam kung gaano magalit silang tunay.
 
 Lahat ay mayron upang isalin itong liwanag sa ating mga pagkakaintindi sa panglipunan - subalit ngayon ito ay *mahalagang* ginagawa natin.
 
@@ -52,7 +52,7 @@ Ang pagkahulog ng diyos na mula sa itaas ay ang pag-angat o pagbangon ng tao.
 
 Dito ay ang parehong kaparaanan, kung ang pagsisimula ng lahat na matanaw ang samahan sa natanaw na unang mga agham na pagka tunaw sa daigdig - bilang isang pang sariling-sistema na nagtutungkod wala ng pangangailangan na para sa mga isinasaisp ng sentral awtoridad - ngayon kung ang lahat ay maari ng simulan upang tunay na maunawaan ang mga bagay na maaaring mangyari upang makalaya narin ang sang katauhan.
 
-Ang pagkatatag sa isang sentro at mapilitang humawak sa samahan ang walang katapusang makapipigil sa pagsulong ng katalinuhan, ng karunungan, ng kabutihang asal, ng pangkatawan at pang kaisipang kalusugan – katulad ng pagtatayo ng isang sentro at mapilit ang may hawak dito sa ating *mundo* walang katapusang mapipigil sa pagsulong ng katalinuhan, ng karunungan, at ng agham.
+Ang pagkatatag sa isang sentro at mapilitang humawak sa lipunan ng walang katapusang makapipigil sa pagsulong ng katalinuhan, ng karunungan, ng kabutihang asal, ng pangkatawan at pang kaisipang kalusugan – katulad ng pagtatatag sa isang sentro at mapilit ang may hawak dito sa ating *mundo* ng walang katapusang makapigil sa pagsulong ng katalinuhan, ng karunungan, at ng agham.
 
 Ang daan para tutulan ang mga isinasa-isip ay may mga entity na walang awa sa katotohanan. ang daan para tutulan ang diyos ay mayroong kadahilanan, mayroong maipapakita, at ang agham.
 
