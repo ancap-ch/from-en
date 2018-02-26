@@ -22,13 +22,13 @@ Ang palagay ng mga "kusang loob na humihingi," na kung saan napatunayan na mahus
 
 Ganunpaman, ang "gobyerno" ay hindi kaylangan para sa samahan at ipagpatuloy ng lipunan kaysa "mga diyos" ay ang kailangan para narin sa samahan at ipagpapatuloy ng sandaigdig.
 
-Sa katotohanan, katulad ng mga pananampalataya na humahadlang sa kaunlaran ng siyensiya, kaya naman ang mga gubyerno ay nakagagambala sa kaunlaran ng samahan. Katulad ng mga naisasaisip ng*nananampalataya* ang dahilan ng pagkamatay ng daan-daan at milyun-milyong mga tao sa buong kasaysayan, kaya mayroong mga maling-inaakala ang *pamahalaan*.
+Sa katotohanan, katulad ng mga pananampalataya na humahadlang sa kaunlaran ng siyensiya, kaya naman ang mga gubyerno ay nakagagambala sa kaunlaran ng samahan. Katulad ng mga naisasaisip ng *nananampalataya* ang dahilan ng pagkamatay ng daan-daan at milyun-milyong mga tao sa buong kasaysayan, kaya mayroong mga maling-inaakala ang *pamahalaan*.
 
 Tulad narin ng mga hindi totoong etika ng mga pananampalataya "bigyan-katuwiran" ang lahat ng naaabuso, kasamaan at kalupitan, ganun din ang mga hindi totoong etika ng bawat pamahalaan. Kapag napili nating mabuhay ng naaayon sa ating pantasya, hindi natin maiiwasang matamo ang pagkasira, ng isang paraan o iba pa.
 
 Kung pipiliin nating ipamalakad ang lipunan para sa mabuting mga rehiyon na alamat, mapupunta tayo sa mga sagupaan, kalupitan, pang-aabuso, kasamaan at napakalalim na pagbabalat kayo.
 
-Kung pipiliin nating ipamalakad ang lipunang naaayon sa *statistiko*mabuting mga alamat, na ang mga resulta nito hindi magkakatulad.
+Kung pipiliin nating ipamalakad ang lipunang naaayon sa *statistiko* mabuting mga alamat, na ang mga resulta nito hindi magkakatulad.
 
 Pwede tayong mamili sa kabanalan o sa pagpuwersa.
 
@@ -42,7 +42,7 @@ Katulad pa, na ang mga pamahiing pamamaraan, ay may katagalan ang pagsulong ng m
 
 Gaya ng siyensya ay sinimulan na magbigay ng panuntunan sa mundo na pwedeng makatakbo ng wala nang isang dyos, sa lahat ng uri nang pamamaraan sa pagka-isterikong hiyawan na ang katapusan ng daigdig ay nalalapit na, sa lipunan ay makaraaranas ng paguho nito dahil sa "kakulangan ng pamahalaan," at maging ang sibilisasyon ay maaring mapunta sa pagkatunaw dahil sa digmaan na ang lahat ay lalaban sa lahat.
 
-Sa anumang pagkakataon ang isang paraan na nagpapahayag ng pangangatwiran ay pwedeng maging makapangyarihang pag-iisip sa pagtakbo ng *walang* sinumang may kakayahan, na sa lahat ay para kumikita ng mula sa pagpapatakbo ng kanilang kakayahan na iyon napaluha ang lahat ng sila ay nawalan.
+Sa anumang pagkakataon ang isang paraan na nagpapahayag ng pangangatwiran ay pwedeng maging makapangyarihang pag-iisip ng pagtakbo sa *walang* may kakayahan, na para sa lahat ay kumikita ng mula sa pagpapatakbo ng kanilang kakayahan na iyon napaluha ang lahat ng sila ay nawalan.
 
 Ang mga pari ang tumupad sa pagpapasimula ng makaagham na pagbabago. Walang diyos, ang nagsasabing ang buhay ay walang kahulugan. Walang diyos, ang nagsasabing ang tao ay walang kalinisang asal. Walang diyos, ang nagsasabi na hindi maliligtas ang ating mga kaluluwa. Walang diyos, ang nagsasabing ang kasamaan at kaguluhan sa ating daigdig ay maghahari.
 
