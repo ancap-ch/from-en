@@ -16,11 +16,11 @@ Sa kasaysayan, iyong mga nakikibahagi sa etikal na pakikipag-debate ay madalas n
 
 Hindi ako makapagsumite ng isang pang-agham na papel na isinulat sa sarili kong wika, sabihing ito ay hinusgahan ng aking psychic na goldfish, at asahang ito ay seseryosohin. Katulad nito, hindi ako makapagsimula ng isang pilosopikong debate sa etika na mag kaugnayan sa aking sariling personal na mga pagpapahalaga, at sabihin na ang aking mga argumento ay napatunayan nang lahat ni Trixie ang marunong sa lahat ng bagay at hindi nakikitang leprechaun, at asahang ito ay seseryosohin.
 
-The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
+Ang mismong gawa ng pakikipagdebate ay nangangailangan ng isang pagtanggap sa pang-unibersal na kanais-nais na pag-uugali (UPB). Walang paraan upang makatwirang makatugon sa isang etikal na argumento *nang walang* paggpapakita ng UPB.
 
-Let us now turn to a series of positive proofs for UPB.
+Ngayon ay bumaling tayo sa isang serye ng positibong mga patunay para sa UPB.
 
-### UPB And Validity
+### UPB at Pagkatotoo
 
 One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
 
