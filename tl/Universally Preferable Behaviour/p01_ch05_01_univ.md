@@ -28,7 +28,7 @@ Ang pinakamalapit na analohiya sa kasaysayan sa ating kasalukuyang sitwasyon ay 
 
 Upang maatake ang mga maling moralidad, kailangan nating magsimula sa simula, tulad ng ginawa ng mga unang siyentipiko. Si Francis Bacon ay hindi tumutol na ang siyentipikong pamamaraan ay mas "mahusay" kaysa sa panalangin, mga teksto sa Bibliya o mga pangitain na dulot ng gutom. Sinabi lamang niya na kung nais nating maunawaan ang kalikasan, dapat nating obserbahan ang kalikasan at lohikal na ipaliwanag – at na mayroong *wlang ibang* daan tungo sa karunungan.
 
-We must take the same approach in defining and communicating *morality*. We must begin using the power and legitimacy of the scientific method to prove the validity and universality of moral laws. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
+Dapat nating gamitin ang parehong diskarte sa pagtukoy at pakikipag-komunikasyon sa *moralidad*. Dapat nating umpisahan ang paggamit ng kapangyarihan at pagiging lehitimo ng siyentipikong pamamaraan upang patunayan ang pagiging balido at pangkalahatang mga batas sa moralidad. Dapat nating simulan mula sa simula, lohikal na gumawa at tanggihan ang *anumang* hindi makatwiran o di-empirikal na mga pamalit para sa katotohanan.
 
 What does this look like in practice? All we have to do is establish the following axioms:
 
