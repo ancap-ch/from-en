@@ -34,9 +34,9 @@ Panatikong pagnanais -o "pananampalataya" - sa kahulugan ay hindi pwedeng subuka
 
 Maaari tayong maniwala na ang mga hindi pinagtibay ng mga bagay na maging totoo - na kung saan ang bawat tao ay walang duda na isipin na ang mundo ay bilog bago pa ito mapatunayan - subalit ang "walang lugar" ay isang lupain na kung saan ay kakapit sa mga paniniwala sa mga bagay na * hindi maging posible o maging makatotohanan*.
 
-Kung sasabihin ko na dalaawa dagdagan ng lima ay lima, ako ay gumawa ng mali na maaaring maitama sa pamamagitan ng pagsangguni sa lohika. Kung sasabihin ko na naniniwala ako na ang parisukat na bilog ay mayroon, tapos ako ay gagawa ng tahasang sariling pagsalungat na pahayag, na kung saan ay hindi ito mismo maaprubahan. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+Kung sasabihin ko na dalaawa dagdagan ng lima ay lima, ako ay gumawa ng mali na maaaring maitama sa pamamagitan ng pagsangguni sa lohika. Kung sasabihin ko na naniniwala ako na ang parisukat na bilog ay mayroon, tapos ako ay gagawa ng tahasang sariling pagsalungat na pahayag, na kung saan ay hindi ito mismo maaprubahan. Kung ako ay higit pa lalayo, gayunpaman, at magpupumilit sa sabihin na "foo dagdagan ng tury ay katumbas ng desty" - at tumanggi na bigyan ng kahulugan ang kahit anong tuntunin ko - ako ay gumagawa ng pahayag ay lohikal at may ebidensya * na hindi maaaring magamit *.
 
-### Next Stop: The "Alternative Universe"
+### Susunod na pag hinto: "Ang alternatibong daigdig"
 
 In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
 
