@@ -10,19 +10,19 @@ Sa kasamaang palad, itong "mabait na kamalayan"ay isa lamang maling akala, para 
 
 Lahat ay mayron upang isalin itong liwanag sa ating mga pagkakaintindi sa panglipunan - subalit ngayon ito ay *mahalagang* ginagawa natin.
 
-Isinasaalang-alang ng lahat itong mahahalaga, at sa sentro ng panglipunan, lahat ng lugar ay banal na entidad tinatawag na "ang pamahalaan." ay ang kawalan ng entidad, isinasaalang-alang ng lahat itong malinaw na ang lipunan ay mapadpad sa ganap na kaguluhan, at mailalagay ito sa maging-makatwiran bilang mga aninong itinuturing, na nasa pagliban ng mga diyos, ang daigdig mismo ay papatungo sa malaking gulo, at ipatigil na.
+Isinasaalang-alang ng lahat itong mahahalaga, at sa sentro ng panglipunan, ang lahat ng lugar ay banal na entidad tinatawag na "ang pamahalaan." ay ang kawalan ng entidad, isinasaalang-alang ng lahat itong malinaw na lipunan ay mapadpad sa ganap na kaguluhan, at mailalagay ito sa maging-makatwiran bilang mga aninong itinuturing, na nasa pagliban ng mga diyos, ang daigdig mismo ay papatungo sa malaking gulo, at ipapatigil na.
 
-Ganun paman, "ang gobyerno"wala nang umiiral kaysa "diyos"ang umiral.
+Ganun paman, "ang gobyerno" ay wala nang umiiral kaysa "diyos" ang umiral.
 
-Kapag tayo ay nagsasalaysay na patungkol sa "diyos,"ang ating talagang pinag-uusapan "ang opinyon ng mga pari."
+Kapag tayo ay nagsasalaysay na patungkol sa "diyos," ang ating talagang pinag-uusapan "ang opinyon ng mga pari."
 
-Kung saan ang lahat ng mga pinag-uusapan na patungkol sa"ang pamahalaan,"lahat ay *tunay* na nangangahulugang "ang karahasan ay isang napaka liit na pagkakulang sa idad."
+Kung saan ang lahat ng mga pinag-uusapan na patungkol sa "ang pamahalaan," lahat ay *tunay* na nangangahulugang "ang karahasan ay isang napaka liit na pagkakulang sa idad."
 
-Ang palagay ng mga "kusang loob na humihingi,"na kung saan napatunayan na mahusay sa mga lupain ng pisika at byolohiya, higit sa lahat mananatiling hindi paniniwalaan sa larangan ng atin lipunan.
+Ang palagay ng mga "kusang loob na humihingi," na kung saan napatunayan na mahusay sa mga lupain ng pisika at byolohiya, higit sa lahat mananatiling hindi paniniwalaan sa larangan ng atin lipunan.
 
-Ganunpaman, ang "gobyerno" ay hindi kaylangan para sa samahan at ipagpatuloy ng lipunan kaysa"mga diyos" ay kailangan para narin sa samahan at ipagpapatuloy ng sandaigdig.
+Ganunpaman, ang "gobyerno" ay hindi kaylangan para sa samahan at ipagpatuloy ng lipunan kaysa "mga diyos" ay ang kailangan para narin sa samahan at ipagpapatuloy ng sandaigdig.
 
-Sa katotohanan, katulad ng mga pananampalataya na makahadlang sa kaunlaran ng siyensiya, kaya naman ang mga gubyerno ay nakagagambala sa kaunlaran ng samahan. Katulad ng mga naisasaisip ng*nananampalataya* ang dahilan ng pagkamatay ng daan-daan at milyun-milyong mga tao sa buong kasaysayan, kaya mayroong mga maling-inaakala ang *pamahalaan*.
+Sa katotohanan, katulad ng mga pananampalataya na humahadlang sa kaunlaran ng siyensiya, kaya naman ang mga gubyerno ay nakagagambala sa kaunlaran ng samahan. Katulad ng mga naisasaisip ng*nananampalataya* ang dahilan ng pagkamatay ng daan-daan at milyun-milyong mga tao sa buong kasaysayan, kaya mayroong mga maling-inaakala ang *pamahalaan*.
 
 Tulad narin ng mga hindi totoong etika ng mga pananampalataya "bigyan-katuwiran" ang lahat ng naaabuso, kasamaan at kalupitan, ganun din ang mga hindi totoong etika ng bawat pamahalaan. Kapag napili nating mabuhay ng naaayon sa ating pantasya, hindi natin maiiwasang matamo ang pagkasira, ng isang paraan o iba pa.
 
