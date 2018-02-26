@@ -44,7 +44,7 @@ Natural, ang katanungan na ito ay nasa gitna ng katotohanan at reayalidad na nan
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+Ipagpalagay na kaya mo sabihin ang pinagkaiba sa gitna ng mga dalawang font sa taas, maaarimakatwiran natin na ipagpatuloy.
 
 #### Accuracy And Consistency
 
