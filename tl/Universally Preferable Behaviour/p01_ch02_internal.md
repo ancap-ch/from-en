@@ -20,9 +20,9 @@ Kapag aming natukoy na ang tulay ay tatayo, maaari namang matukoy kung maabot ni
 
 Sa larangan ng mga ekonomiya, sa parehas na mga nilagay na modelo. Kung ang aking kailangan sa teorya ng ekonomiya ang mga presyo ay taas at baba magkakasama, kung gayon ito ay hindi balido, sapagkat ito ay imposible. Pagka ang aking teorya ay nasuri para sa hindi pagbabago sa loob, Maaari kong umpisahan tugnan ang ebedensya, at/o umpisahan gamit ang aking teorya para gawin ang proactive na mga hula.
 
-Thus, we can see that any theory, to be valid, requires the following:
+Sa gayon, maaari natin makita ang kahit anong teorya, na balido, na kinakailangan ang mga sumusunod:
 
-1. Internal consistency (logic).
-2. External consistency (testability).
+1. Hindi nababago sa panloob (lohika).
+2. Hindi nababago sa Panlabas (testability).
 
-With this in mind, we can now turn to the core subject of this book.
+Kasama ito sa isip, maaari natin ngayon buksan ang paksa sa libro ng core na ito.
