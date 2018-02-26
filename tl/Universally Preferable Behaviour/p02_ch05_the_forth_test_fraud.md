@@ -8,9 +8,9 @@ Isama natin ang problema ng pandaraya sa pamamagitan ng gilingan ng UPB, at iyon
 
 Malinaw na, ang panloloko ay nangangailangan ng isang tao *hindi* ay nakikibahagi sa pandaraya. Sa bandang itaas na potensyal na transaksyon, kung umaasa ako na nakawin ang iyong dalawang daang dolyar, at umaasa kang manakaw ng aking iPod, walang darating dito. Ipinag-darasal mo ang iPod bago magbigay ng pagbabayad, at hihilingin ko ang pagbabayad bago ibigay ang iPod. Tayo ay mawalan ng lakas ng loob, lubos na hindi makapanlinlang sa isa't isa.
 
-Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
+Maliwanag, na para sa pandaraya ay mangyayari, ang isang partido ay dapat kumilos nang may mabuting pananampalataya. Kaya ang taong nagnanais na gumawa ng pandaraya ay nakasalalay sa katotohanan na ang ibang tao ay gumagawa *hindi* nais na gumawa ng pandaraya, para mahuli sa kanya.
 
-To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
+Para makabalik sa haples na mga guinea pig sa moral, ano ang mangyayari kung hiniling namin sina Bob at Doug na kumilos ayon sa moral na prinsipyo na "ang pangay mabuti"? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
 
 What happens then?
 
