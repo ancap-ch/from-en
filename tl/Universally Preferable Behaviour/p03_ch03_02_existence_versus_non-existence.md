@@ -22,9 +22,9 @@ Kung hindi ako makapagdesisyon kung anong kulay ang ipipintura sa bahay ko, at a
 
 Kung hindi ako naniniwala na ako ay may kakayahan na magdesisyon para sa aking sarili, kung gayon maliwanag na kung magdesisyon akong ipasailalim ang aking sarili sa karahasan * sa buong buhay ko * ay isang walang saysay na desisyon.
 
-Maaaring ako ay may kakayahan na gumawa ng tamang desisyon, o wala. Kung *ako* ay may kakayahan na gumawa ng tamang desisyon, kung gayon ang ipasailalim ang aking sarili sa pwersa sa buo kong buhay ay walang bisa. If I am *not* capable of making competent decisions, then my decision to subject myself to force for the rest of my life is also invalid.
+Maaaring ako ay may kakayahan na gumawa ng tamang desisyon, o wala. Kung *ako* ay may kakayahan na gumawa ng tamang desisyon, kung gayon ang ipasailalim ang aking sarili sa pwersa sa buo kong buhay ay walang bisa. Kung ako ay *walang* kakayahan na gumawa ng tamang desisyon, kung gayon ang ipasailalim ang aking sarili sa pwersa sa natitira ko pang buhay ay wala ring bisa.
 
-Even if the above considerations are somehow bypassed, however, it is still impossible to justly enforce a social contract through a government. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+Kung ang mga nasabing konsiderasyon ay malagpasan, gayonpaman, imposible pa rin na patas na ipatupad ang isang sosyal na kontrata sa pamamagitan ng pamahalaan. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
 
 In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
 
