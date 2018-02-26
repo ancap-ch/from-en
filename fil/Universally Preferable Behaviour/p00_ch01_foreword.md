@@ -68,9 +68,9 @@ Ang pambihirang karapatan ay nangangailangan ng pambihirang patunay. Sa pagkuha 
 8. Iginagalang ko ang iyong katalinuhan upang pigilin mula sa pagtukoy ng mga salita tulad ng "katotohanan," "dahilan," integridad" at iba pa. Mayroon kaming sapat na gawain nang hindi mabago ang gulong.
 9. Sa huli, naniniwala ako na ang anumang teyotya - lalo na ang isa bilang pangunahin bilang isang teyorya ng etiko - nakakagawa ng konting mabuti kung ito ay makukumpirma lamang kung ano ang likas na alam ng lahat ng tao. Hindi ako gugugol ng mga taon ng aking buhay sa pagtratrabaho sa isang teyorya ng etiko upang tumakbo sa paligit upang mapatunayan na ang "pagpatay ay mali." sa aking pananaw, ang pinakamahusay na mga teyorya ay ang mga nagpapatunay ng katotohanan na likas nating naiintindihan lahat - at pagkatapos ay gumamit ng mga prinsipyo upang palabasin ang bagong mga katotohanan na maaaring maging ganap na taliwas na magaling.
 
-Having spent the last few years of my life preparing, training, and then combating this beast, I hope that I have acquitted myself with some measure of honour. I believe that I have emerged victorious – though not entirely unscathed – and I look forward to seeing who shares this view.[^2]
+Ang pagugugol sa mga huling taon ng aking buhay sa paghahanda, pagsasanay, at pagkatapos ay paglaban sa hayop na ito, umaasa ako na ako ay kikilos sa sarili ko kasama ang ilang sukatan ng karangalan. Naniniwala ako na mayroon akong napaglabanan - kahit na hindi ganap na nasaktan - at umaaasa ako na makita kung sino ang nagbabahagi ng pananaw na ito. [^2]
 
-I studied the history of philosophy in graduate school, and hold a Masters degree, but I do not have a PhD in philosophy. I am far from a publicly recognised intellectual. While I may not be the *most* unlikely champion, I am also far from the most likely. Whether I have succeeded or not is not up to you, and it is not up to me.
+Ako ay nag-aral ng kasaysayan ng pilosopiya sa graduate school, at nakakuha ng Masters na degree, ngunit wala akong PhD sa pilosopiya. Ako ay malayo mula sa publikong pagkilalang intelektwal. While I may not be the *most* unlikely champion, I am also far from the most likely. Whether I have succeeded or not is not up to you, and it is not up to me.
 
 If the reasoning holds, the greatest beast is down.
 
