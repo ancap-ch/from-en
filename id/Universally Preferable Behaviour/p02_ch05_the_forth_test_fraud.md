@@ -18,7 +18,7 @@ Jelas, prinsip bahwa "penipuan itu baik" tidak dapat ditindaklanjuti oleh Doug d
 
 UPB menghancurkan kemungkinan ini, karena tidak ada teori moral yang valid yang dapat membutuhkan tindakan yang berlawanan dalam situasi yang sama.
 
-Jika Doug melakukan penipuan pada Bob dengan pembenaran bahwa "Adalah baik untuk berbohong untuk mendapatkan apa yang Anda inginkan," maka jelas juga harus bagus untuk jujur ​​juga, karena tidak mungkin mendapatkan apa yang Anda inginkan dengan berbohong kecuali orang lain bersedia menganggap kejujuranmu. Dengan demikian, premis berbaik hati untuk mendapatkan apa yang Anda inginkan tidak dapat dicapai kecuali orang lain bertindak dengan integritas - sehingga berbohong dan jujur ​​dibutuhkan bersamaan untuk memenuhi prinsip moral. Ini tidak dapat berdiri secara logis - bahwa kedua tindakan * dan kebalikannya yang berlawanan * secara bersamaan bersifat moral di tempat yang sama, untuk orang yang sama, dan pada saat bersamaan.
+Jika Doug melakukan penipuan pada Bob dengan pembenaran bahwa "Adalah baik untuk berbohong untuk mendapatkan apa yang Anda inginkan," maka jelas juga harus bagus untuk jujur ​​juga, karena tidak mungkin mendapatkan apa yang Anda inginkan dengan berbohong kecuali orang lain bersedia menganggap kejujuranmu. Dengan demikian, premis berbaik hati untuk mendapatkan apa yang Anda inginkan tidak dapat dicapai kecuali orang lain bertindak dengan integritas - sehingga berbohong dan jujur ​​dibutuhkan bersamaan untuk memenuhi prinsip moral. Ini tidak dapat berdiri secara logis - bahwa kedua tindakan *dan kebalikannya yang berlawanan* secara bersamaan bersifat moral di tempat yang sama, untuk orang yang sama, dan pada saat bersamaan.
 
 Ini adalah bagaimana kita tahu bahwa penipuan itu salah.
 
