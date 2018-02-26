@@ -14,7 +14,7 @@ Kung pwersahin ko ang isang babae na pakasalan ang isang lalaki na aking pinili 
 
 Kapag pinilit ko ang babaeng ito na mag-asawa na, akin lamang mapapatunayan ang paggamit ng pwersa - kahit sa mabilisan at praktikal pang dahilan - kung aaminin nung babae na siya ay nasa di wastong pag-iisip na gumawa ng desisyon hinggil sa pag-aasawa.
 
-If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. If she has no idea what constitutes a good or suitable husband, then how can she evaluate me as fit to decide who will be a good or suitable husband for her?
+Kung ang babae ay hindi wasto ang pag-iisip na magdesisyon hinggil sa pagkakakasal, kung gayon malinaw na siya rin ay *nasa hindi wastong pag-iisip para kumuha ng kinatawan na magdesisyon para sa kanya ukol dito*. Kung wala siya ideya kung ano ang bumubuo sa isang angkop na mapapangasawa, kung gayon paano niya masusuri na ako ay akma na magdesisyon para sa kanya sa kung sino ang mabuti at angkop na mapapangasawa niya?
 
 If a man of extraordinarily low intelligence does not understand the concept of “health,” would it be reasonable to expect him to be rational in his choice of a doctor? In order to competently choose a doctor, we must understand the concepts of health, efficacy, cost, professionalism and so on. In the same way, if I do not allow a woman to have any say in who she marries, then clearly I must believe that she has no understanding of what makes a good husband – but if she has no understanding of what makes a good husband, then she has no capacity to transfer that choice to me, since she will have no way of evaluating *my* criteria for what makes a good husband.
 
