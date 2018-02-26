@@ -30,9 +30,9 @@ Kung inatake ni bob ang doug, subali't ganap na hindi tama para kay doug na guma
 
 Gayunpaman, pwede kang mangatwiran, hindi ang proposisyon na ang pansariling-depensa ay mabuti ring gumawa ng kalupitan sa kapwa at masama sa parehas na panahon - ang kalupitan na ginagamit sa pag-sugod ay masama, subali't ang kalupitan na ginamit para sa pansariling-depensa ay mabuti?
 
-This is an interesting objection – however, if the initiation of force is evil, then it can be prohibited by using force, since that is one of the very definitions of evil that we worked out above.
+Ito ay isang nakakawili na pagtutol - gayunpaman, kung ang pasimulang pwersa ay kasamaan, tsaka ito ay pwedeng ipagbawal sa pamamagitan ng paggamit ng pwersa, dahil na ang isang tunay kahulugan ng masama na ginawa sa itaas.
 
-Thus it is impossible for any logical moral theory to reject the moral validity of self-defence.
+Kaya ito ay hindi mangyayari sa kahit anumang lohikal ng moral na teyorya na hindi tanggapin ang pagiging tamang moral sa pansariling-depensa.
 
 ### Child Raising
 
