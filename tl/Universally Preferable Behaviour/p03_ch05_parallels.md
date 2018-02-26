@@ -60,7 +60,7 @@ Ang daan para salungatin ang stado – ang higit na peligrong isinasaisip ng ent
 
 ### Ang hinaharap
 
-Kung naaayon sa namin ito o hindi, ang UPB ay naaangkop sa lahat ng bagay na aming ginagawa. Ang tao ay mayroong tunay na pag-uugali papunta sa hindi pagkakabago, dahilan na ang lahat ay nilalang na mayroong isang makatuwirang kamalayan, namamalagi sa isang pagkakatulad at makatwiran daigdig. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Kung naaayon sa namin ito o hindi, ang UPB ay naaangkop sa lahat ng bagay na aming ginagawa. Ang tao ay mayroong tunay na pag-uugali papunta sa hindi pagkakabago, dahilan na ang lahat ay nilalang na mayroong isang makatuwirang kamalayan, namamalagi sa isang pagkakatulad at makatwiran daigdig. Kaya gayon anumang lugar ay tatang-gapin sa ating buhay na malamang ay may pagpilit pa at may pagkakaparehong inuugali sa buong buhay natin – at sa buong "pamumuhay" na ang ating kultura o ang ating bayan din.
 
 Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
 
