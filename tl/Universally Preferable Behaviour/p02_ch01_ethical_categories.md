@@ -4,15 +4,15 @@ Sa pamamagitan ng balangkas ng UPB sa lugar, pwede na ngayong usisain ang pagsus
 
 ### Ang Pitong mga Kategorya
 
-Tulad ng nabanggit sa bandang itaas, ang mga salaysay tungkol sa pag-uugali ng higit sa lahat ay nahulog sa tatlong pangkalahatang kategorya - ang positibo, negatibo at ang neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
+Tulad ng nabanggit sa bandang itaas, ang mga salaysay tungkol sa pag-uugali ng higit sa lahat ay nahulog sa tatlong pangkalahatang kategorya - ang positibo, negatibo at ang neutral. Para matulungan kaming makahiwalay ng mga ahestetika mula sa etika, simulan natin sa pamamagitan ng pagpapalawak ng mga kategoryang ito para mapalibutan *kahit alinmang* pag-uugali na pwedeng mapasa-ilalim sa isang etikal na pagtatasa. Ang pitong mga kategoraya ay mga:
 
-1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
-2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
-3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
-4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
-5. It is personally negative (predilection for not eating ice cream).
-6. It is aesthetically negative (“rudeness” and “being late”).
-7. It is evil (universally proscribed) (“rape”).
+1. Ito ay talagang mabuti (higit na mas mainam at masusunod sa pamamagitan ng pagmamalupit, tulad ng "huwag pumatay").
+2. Ito ay ahestetikali na positibo (sa pangkalahatang higit na mas mabuti ngunit hindi maipatupad sa pamamagitan ng kalupitan, gaya ng "kagalang-galang" at "pagiging nasa oras").
+3. Ito ay pansarili na positibo (sa alinman sa hindi pangkaraniwang sa lalong kanais-nais o maipapatupad, gaya ng isang paborito para kumain ng ice cream).
+4. Ito ay neutral, o walang etikal o ahestetika na nilalaman, gaya ng pagpapatakbo para sa isang bus.
+5. Ito ay pansarili na negatibo (paborito para hindi kumain ng ice cream).
+6. Ito ay ahestetikali na negatibo ("pagiging bastos" at "pagiging late").
+7. Ito ay masama (ipinagbabawal sa lahat) ("panghahalay").
 
 Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
 
