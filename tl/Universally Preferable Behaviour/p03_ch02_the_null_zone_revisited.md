@@ -42,9 +42,9 @@ Sa pangkalahatan, ang daan ng mga tao para subukan ang "iligtas" ang kanilang sa
 
 Kung sabihin ko " ang bilog na parisukat ay umiiral" ako ay nagsasabi na maliwanag na imposible ito sa loob ng daigdig. Samakatuwid, kung ako ay hihiling na manatili ang aking paniniwala, dapat akong gumawa ng iba pang daigidig o kaharian sa "labas" itong daigdig na kung saan ang bilog na parisukat ay umiiral.
 
-If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
+Kung ako ay gagawa ng kaharian na kung saan ay pareho ng sariling pagsalungat ay kapantay ng katotohanan, maaari kong sabihin na yung mga bagay na nasabi ko na bilog na parisukat ay *hindi* umiiral ang kanilang sariling panatiko at makakapahamak, kasi sila ay tinatanggalan ng posibilidad kung *puwedeng* maging totoo.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref"></a></sup>
 
-With regards to this “null zone,” only two possibilities really exist. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
+Tungkol dito sa "walang lugar" mayroon lang dalawang posibilidad na totoong umiiral. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
 
 If, at some point, it turns out that we *are* able to interact with this *null zone*, then we shall have direct sensual or rational evidence of its existence. In other words, it must “protrude” into our universe in some manner. However, the moment that it becomes detectable in our universe, it must have rational and empirical existence, like everything else we can detect. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
 
