@@ -24,17 +24,17 @@ Sa kabilang dako, kung manatili ako sa bahay tuwing gabi, hindi ako eksaktong ma
 
 ### Ang Walang-Paglusob na Paniniwala (NAP)
 
-A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+Ang isang moral na ginagapan ay madalas na ipinanukalang tinatawag na *walang paglusob na paniniwala*, or NAP. Tinatawag din ito ng pagiging isang "pasipismong pokupino," kung kaya ang isang porkupino ay gumagamit lamang ng "lakas" sa pagtatanggol sa sarili Ang NAP ay karaniwang ang panukala na "ang pagsisimula ng paggamit ng lakas ay mali sa moral." O, para ilagay ito nang higit pa sa mga tuntunin ng aming pag-uusap: "Ang di-pagsisimula ng lakas ay lalong mas higit sa lahat".
 
-When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
+Kapag ating sinusuri ang isang paniniwala gaya ng NAP, talagang may pitong mga posibilidad lamang: ang tatlo sa negatibo, ang tatlo naman ay sa positibo, at isa ay sa neutral:
 
-- The initiation of the use of force is always morally wrong.
-- The initiation of the use of force is sometimes morally wrong.
-- The initiation of the use of force is never morally wrong.
-- The initiation of the use of force has no moral content.
-- The initiation of the use of force is never morally right.
-- The initiation of the use of force is sometimes morally right.
-- The initiation of the use of force is always morally right.
+- Ang pagsisimula ng paggamit ng lakas ay laging mali sa moral.
+- Ang pagsisimula ng paggamit ng lakas ay kung minsan ay mali sa ating moral.
+- Ang pagsisimula ng paggamit ng puwersa ay hindi kailanman mali sa ating moral.
+- Ang pagsisimula sa paggamit ng lakas ay walang moral na nilalaman.
+- Ang pagsisimula ng paggamit ng lakas ay hindi tama sa moral.
+- Ang pagsisimula ng paggamit ng lakas na kung minsan ay tama sa moral.
+- Ang pagsisimula ng paggamit ng lakas ay palaging tama sa ating moral.
 
 As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
 
