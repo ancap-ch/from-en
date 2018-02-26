@@ -64,9 +64,9 @@ Ang Perceptual na reyalidad ay hindi nagbabago at nilalayon - at ito ay mula sa 
 
 Ang katotohanan na ang mga tagak ay hindi nagkataon sa ikot ng mga palihan - o kabaliktaran - ito ay ugat ng ating kapasidad sa tamang paghatol sa pagpapahayag: "Na ang tagal." kung ang mga tagak ay spontaneously at patuloy na pagbabago ng kanilang kalikasan, nais namin na hindi gawin ang alinman sa katotohanan o mga hindi totoo na pahayag tungkol sa kanila, o kahit ano para sa bagay.
 
-Ito ang ugat sa susi ng kriterya ng sayantipiko na pamamaraan - reproducibility. Kung aking aangkinin ang tungkol sa bigat ng kalikasan, kung gayon ay kailangan mong magparami na kailangan ipahayag ang sariling kapaligiran. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Ito ang ugat sa susi ng kriterya ng sayantipiko na pamamaraan - reproducibility. Kung aking aangkinin ang tungkol sa bigat ng kalikasan, kung gayon ay kailangan mong magparami na kailangan ipahayag ang sariling kapaligiran. Kung ang katotohanan ay *hindi* ay hindi nag babago, kung gayon ang reproducibility ay labag sa katwiran ng kriterya sa pagtatayo ng katotohanan.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+Kung ikaw ay isang guro sa matematika, ikaw hindi tunay na gusto ang pagtanggap ng maling kasagutan mula sa estudyante. kahit na ang estudyante ay nagsalaysay na ang kanyang kasagutan ay "tama" ng ito ay isulat nya, ngunit kahit papaano ay binago ng pansamantala.
 
 Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
 
