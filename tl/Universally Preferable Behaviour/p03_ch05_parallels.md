@@ -66,7 +66,7 @@ Kaya naman ang isang tao na ang pinaniniwalaan ay ang pagtakot sa isang mabuting
 
 Sa madaling salita, ang UPB ay humihingi ng hindi pagkakabago maging sa hindi pagkakapantay-pantay. ang UPB ay humihingi din ng pagkakatulad kahit sa kasamaan.
 
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+Ang pinakang sanhi ng mabuting lugar ng isang kultura ay kayang magdikta ng hindi maiiwasan itong hinaharap. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
 
 That is why the delineation of a rational framework for ethics is so essential.
 
