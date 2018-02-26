@@ -4,7 +4,7 @@ Sa simula ng aklat na iyo. nilagay ko sa daan patungo sa pagtingin nga kung paan
 
 Ang kaparehong moralidad nito. Galing sa maliit na katotohanan ng "na hindi dapat ako pumatay" tayo ay mahaharap sa malaking katotohanan tulad ng sa "ang pagtanggap sa paggamit ng pwersa ay ugaling hindi tama."
 
-In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
+Sa pinagmulan ng pisika, ang pangunahing harang sa lohikal na pagkakaintindi sa katotohanan ay galing sa sariling karanasan sa pangkalahatang teorya ay ang relehiyon.
 
 For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
 
