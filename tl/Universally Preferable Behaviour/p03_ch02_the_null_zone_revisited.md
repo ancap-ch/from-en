@@ -28,7 +28,7 @@ Masasabi natin na:
 2. Ang panukala Y ay hind totoo kasi ito ay hind makatwiran.
 3. Ang panukala Z ay totoo kasi ito ang *gusto* kong maging totoo ito.
 
-Ang pangatlong asersyon ay isang kumpletong pansariling kontradiksyon. "katotohanan" ay malayang pagnanais, dahil ang pagnanais ay ka kahulugan ng pansariling paksa, ang katotohanan ay kahulugan ng isang pag sang ayon sa isang ideya na may magaling na layunin ng lohika at reyalidad na empirikal. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
+Ang pangatlong asersyon ay isang kumpletong pansariling kontradiksyon. "katotohanan" ay malayang pagnanais, dahil ang pagnanais ay ka kahulugan ng pansariling paksa, ang katotohanan ay kahulugan ng isang pag sang ayon sa isang ideya na may magaling na layunin ng lohika at reyalidad na empirikal. Dahil sinasabing ang mga bagay na katotohanan sa *gusto* ay maaring totoo upang maging kasama sa pinanigan, na kung saan ay may pagsalungat sa pansariling pahayag.
 
 Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
 
