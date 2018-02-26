@@ -14,7 +14,7 @@ Kung hihilingin ko sa iyo na magkita tayo sa tennis court, at magpakita na may d
 
 Sa kasaysayan, iyong mga nakikibahagi sa etikal na pakikipag-debate ay madalas na bigo upang mapanatili ang pangunahing katotohanan na ito.
 
-I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
+Hindi ako makapagsumite ng isang pang-agham na papel na isinulat sa sarili kong wika, sabihing ito ay hinusgahan ng aking psychic na goldfish, at asahang ito ay seseryosohin. Katulad nito, hindi ako makapagsimula ng isang pilosopikong debate sa etika na mag kaugnayan sa aking sariling personal na mga pagpapahalaga, at sabihin na ang aking mga argumento ay napatunayan nang lahat ni Trixie ang marunong sa lahat ng bagay at hindi nakikitang leprechaun, at asahang ito ay seseryosohin.
 
 The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
 
