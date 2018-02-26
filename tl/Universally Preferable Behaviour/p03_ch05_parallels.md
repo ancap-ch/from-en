@@ -1,8 +1,8 @@
 ## Ang Parallel
 
-Bago ang pag-agham rebolusyon, Ito ay isinasaalang-alang na hindi iisipin na ang nasabing likas na daigdig ay pwedeng umalalay mismo ng walang kaalaman at "moral" entity sa sentro nito. Ang araw at rosas ay sumusunod sa mga tanikala ng isang karaniwan na kalesa; ang buwan ay isang malamig at nag issang kapatid ng araw. Ang mga konstelasyon ay nakabalangkas at mga salaysay tungkol sa libingan ng mga diyos, at ang mga unos ay nagmula sa galit ng mga diyablo.
+Bago ang pag-agham rebolusyon, Ito ay isinasaalang-alang na hindi iisipin na ang nasabing likas na daigdig ay pwedeng umalalay mismo ng walang kaalaman at "moral" entidad sa sentro nito. Ang araw at rosas ay sumusunod sa mga tanikala ng isang karaniwan na kalesa; ang buwan ay isang malamig at nag isang kapatid ng araw. Ang mga konstelasyon ay nakabalangkas at mga salaysay tungkol sa libingan ng mga diyos, at ang mga unos ay nagmula sa galit ng mga diyablo.
 
-Ang mga ideya na ang kalikasan ay isang sariling-likha at sarili-nag tutukod ng sistema ay halos hindi mailarawan ng isip. Ang rebolusyon, ni Darwin, na ang iniisip na ang buhay ay hindi nilikha, pero sa halip ay nagbabago, dinala ito ng isip galing sa materyal para sa biolohikal na sangkataohan.
+Ang mga ideya na ang kalikasan ay isang sariling-likha at sarili-nag tutukod ng sistema ay halos hindi maiguguhit. Ang rebolusyon, ni Darwin, na ang iniisip na ang buhay ay hindi nilikha, pero sa halip ay nagbabago, dinala ito ng isip galing sa materyal para sa biolohikal na sangkataohan.
 
 Sa harap ng siyensiya, sa sentro ng bawat mahihirap unawain ang sistema ng paraang itatatag ng isang banal na kamalayan - wala na ang kung saang sistemang ito ay mapunta sa malaking gulo, at pagtigil na.
 
