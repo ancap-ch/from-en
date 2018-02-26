@@ -21,13 +21,13 @@ Last generated:
 | 02_pref1st_ed.md | :x: | :x: |    400 | | | |
 | 03_p01.md | :x: | :x: |    001 | | | |
 | 03_p01_ch01_01.md | :x: | :x: | 4k 150 | | | |
-| 03_p01_ch01_02.md | :x: | :x: | 4k 650 | | | |
-| 03_p01_ch01_03.md | :x: | :x: | 3k 280 | | | |
-| 03_p01_ch02_01.md | :x: | :x: | 3k 510 | | | |
-| 03_p01_ch02_02.md | :x: | :x: | 2k 590 | | | |
-| 03_p01_ch02_03.md | :x: | :x: | 3k 440 | | | |
-| 03_p01_ch02_04.md | :x: | :x: | 3k 510 | | | |
-| 03_p01_ch02_05.md | :x: | :x: | 3k 280 | | | |
+| 03_p01_ch01_02.md | :x: | :x: | 4k 650 || | |
+| 03_p01_ch01_03.md | :x: | :x: | 3k 280 || | |
+| 03_p01_ch02_01.md | :x: | :x: | 3k 510 |hushuilan | | |
+| 03_p01_ch02_02.md | :x: | :x: | 2k 590 |hushuilan | | |
+| 03_p01_ch02_03.md | :x: | :x: | 3k 440 |hushuilan | | |
+| 03_p01_ch02_04.md | :x: | :x: | 3k 510 |hushuilan | | |
+| 03_p01_ch02_05.md | :x: | :x: | 3k 280 |hushuilan| | |
 | 03_p01_ch03_01.md | :x: | :x: | 2k 370 | AngelaWenjing | | |
 | 03_p01_ch03_02.md | :x: | :x: | 2k 580 | AngelaWenjing | | |
 | 03_p01_ch03_03.md | :x: | :x: | 2k 820 | AngelaWenjing | | |
@@ -48,19 +48,19 @@ Last generated:
 | 03_p01_ch07_04.md | :x: | :x: | 2k 660 | AngelaWenjing | | |
 | 03_p01_ch07_05.md | :x: | :x: | 3k 620 | AngelaWenjing | | |
 | 03_p01_ch07_06.md | :x: | :x: | 3k 600 | AngelaWenjing | | |
-| 03_p01_ch08.md | :x: | :x: | 2k 430 | | | |
+| 03_p01_ch08.md | :x: | :x: | 2k 430 |hushuilan| | |
 | 03_p02.md | :x: | :x: |    001 | | | |
 | 03_p02_ch09.md | :x: | :x: | 010 | | | |
 | 03_p02_ch09_01.md | :x: | :x: | 400 | | | |
 | 03_p02_ch09_02.md | :x: | :x: | 4k 490 | | | |
-| 03_p02_ch09_03_01.md | :x: | :x: | 2k 720 | | | |
-| 03_p02_ch09_03_02.md | :x: | :x: | 3k 050 | | | |
-| 03_p02_ch09_04.md | :x: | :x: | 200 | | | |
-| 03_p02_ch10.md | :x: | :x: | 3k 220 | | | |
-| 03_p02_ch11.md | :x: | :x: | 10 | | | |
-| 03_p02_ch11_1.md | :x: | :x: | 2k 430 | | | |
-| 03_p02_ch11_2.md | :x: | :x: | 4k 290 | | | |
-| 03_p02_ch11_3.md | :x: | :x: | 3k 200 | | | |
+| 03_p02_ch09_03_01.md | :x: | :x: | 2k 720 |hushuilan | | |
+| 03_p02_ch09_03_02.md | :x: | :x: | 3k 050 |hushuilan | | |
+| 03_p02_ch09_04.md | :x: | :x: | 200 |hushuilan | | |
+| 03_p02_ch10.md | :x: | :x: | 3k 220 |hushuilan | | |
+| 03_p02_ch11.md | :x: | :x: | 10 |hushuilan | | |
+| 03_p02_ch11_1.md | :x: | :x: | 2k 430 |hushuilan | | |
+| 03_p02_ch11_2.md | :x: | :x: | 4k 290 |hushuilan | | |
+| 03_p02_ch11_3.md | :x: | :x: | 3k 200 |hushuilan | | |
 | 03_p02_ch12.md | :x: | :x: | 2k 890 | | | |
 | 03_p02_ch13.md | :x: | :x: | 2k 560 | | | |
 | 03_p02_ch14.md | :x: | :x: | 10 | | | |
