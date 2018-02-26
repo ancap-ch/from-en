@@ -46,7 +46,7 @@ Natural, ang katanungan na ito ay nasa gitna ng katotohanan at reayalidad na nan
 
 Ipagpalagay na kaya mo sabihin ang pinagkaiba sa gitna ng mga dalawang font sa taas, maaarimakatwiran natin na ipagpatuloy.
 
-#### Accuracy And Consistency
+#### Katumpakan at hindi Pagbabago
 
 It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
 
