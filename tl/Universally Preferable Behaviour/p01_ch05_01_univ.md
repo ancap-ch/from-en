@@ -30,10 +30,10 @@ Upang maatake ang mga maling moralidad, kailangan nating magsimula sa simula, tu
 
 Dapat nating gamitin ang parehong diskarte sa pagtukoy at pakikipag-komunikasyon sa *moralidad*. Dapat nating umpisahan ang paggamit ng kapangyarihan at pagiging lehitimo ng siyentipikong pamamaraan upang patunayan ang pagiging balido at pangkalahatang mga batas sa moralidad. Dapat nating simulan mula sa simula, lohikal na gumawa at tanggihan ang *anumang* hindi makatwiran o di-empirikal na mga pamalit para sa katotohanan.
 
-What does this look like in practice? All we have to do is establish the following axioms:
+Ano ang hitsura nito sa pagsasagawa? Ang kailangan lang nating gawin ay itatag ang sumusunod na mga axiom:
 
-- Morality is a valid concept.
-- Moral rules must be consistent for all mankind.
+- Ang moralidad ay isang balidong konsepto.
+- Ang mga panuntunan ng moral ay dapat na pare-pareho para sa lahat ng sangkatauhan.
 - The validity of a moral theory is judged by its consistency.
 
 To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
