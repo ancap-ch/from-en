@@ -6,7 +6,7 @@ Ginamit ko ang salitang "pag-uugali" dito sa halip na "naisip" sapagkat mahalaga
 
 Imposibleng mapatunayan na nanaginip ako ng isang elepante kagabi. Posibleng patunayan na isinulat ko ang salitang "elepante," kung kaya ginamit ko ang salitang "pag-uugali" sa halip na "naisip."
 
-Ang pagkilala sa superyor ng lohika sa isang argumento ay isang *aksyon*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+Ang pagkilala sa superyor ng lohika sa isang argumento ay isang *aksyon*. Kung, sa tuwing umaamin ako ng isang punto sa iyo, wala akong sinabi, ngunit sa halip ay blankong nakatitig sa iyo, malalaman mo ito sa halip na nakakairitang makipag debate sa akin. To concede a point, I must perform the action of verbal acquiescence.
 
 Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
 
