@@ -90,66 +90,66 @@ Personal preferences cannot be justly inflicted upon other people, because that 
 
 If I say that liking the band Queen above all others is universally preferable behaviour, on what grounds could I justify that statement? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
 
-Thus if rape is considered to be a merely personal preference, then it cannot logically be enforced upon anybody else. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
+بنابراين اگر تجاوز به عنوان عقیده صرفا شخصي درنظر گرفته شود، پس اصولا آن نميتواند بر هر شخص ديگر تحمیل شود. باز هم، فکر کردن به دو مرد در یک اتاق، این امر مستلزم این است که هر دو مرد ترجیح دهند که به یکدیگر تجاوز کنند، اما قادر به اجرای این تصمیم نیستند، که نه تنها غیر منطقی است بلکه کاملا غیر عملی است.
 
-Finally, since personal preferences cannot be enforced on others, but rape is by definition the enforcement of a “preference” upon another, rape cannot be in the moral category of merely personal preferences.
+در نهایت، از آنجا که اولويت شخصی بر روی دیگران قابل تحمیل نیست، اما تجاوز به تعبیری اعمال عقیده به دیگری است، تجاوز نمی تواند در دسته بندی عقاید صرفا شخصي اخلاقی قرار گیرد.
 
-### Morally Neutral
+### اخلاقیِ خنثی
 
-As discussed above, rape cannot be a morally neutral action, since it is a preference that is enforced upon another.
+همانگونه که در بالا توضیح داده شد، تجاوز نمی تواند یک اقدام اخلاقیِ خنثی باشد، زیرا این یک گزینه است که بر دیگران تحمیل می شود.
 
-### Personally Negative
+### مطلقاً منفی
 
-Perhaps rape is a *personally negative* action, the opposite of number three. As an example, a criminal on the run would consider capture a personally negative action (PNA).
+شاید تجاوز عمل مطلقاً منفی است، در مقابل شماره سه. به عنوان مثال، یک مجرم در حال اجرای یک اقدام منفی شخصی (پی ان ای) آن را ضبط می کند.
 
-Personally negative actions (PNAs) by definition cannot be enforced upon another. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
+اقدامات مطلقاً منفی (پی ان ای ها) با توجه به تعریف نمیتواند بر دیگری تحمیل شوند. بنابراین مردی که مورد تجاوز قرار گرفته است اشتباه کرده است که به عنوان دفاع از خود، عقیده خود را به شخص متجاوز تحمیل کرده تا مورد تجاوز قرار نگیرد. به این ترتیب آغاز خشونت تحمیل عقیده شخصی ، اخلاقی است، در حالی که دفاع از خود ، همچنین تحمیل عقیده شخصی غیر اخلاقی است. بنابراین ما هر دو عمل (تحمیل عقیده شخصی) را هم به عنوان اخلاقی و هم غیر اخلاقی طبقه بندی می کنیم، که نمیتواند اینطور باشد.
 
-### Aesthetically Negative
+### زیبایی گرایی منفی
 
-Perhaps rape is an aesthetically *negative* action, like “being late” – the flip-side of number two above. However, aesthetically negative actions (ANAs) cannot logically be violently enforced *because by definition they can be avoided*. Since I can freely choose to stop associating with a man who continually shows up late, I cannot shoot him for being late.
+شاید تجاوز یک عمل زیبایی گرایی * منفی * است مانند "دیرکردن" تلنگر ادامه شماره دو بالا. با این حال، اقدامات منفی زیبایی گرایی (ای ان ای) اصولاً نمی تواند با خشونت اعمال شود * زیرا با توجه به تعریف آنها قابل اجتناب هستند *. از این رو من می توانم آزادانه تصمیم به متوقف کردن ارتباط با یک نفر که اصلا وقت شناس نیست بگیرم ، اما نمی توانم بعلت وقت شناس نبودنش به او شلیک کنم.
 
-However, rape by definition cannot be avoided, since it is a sexual attack enforced through violence.[^4] Also, if I choose to stop being friends with the tardy man mentioned above, he cannot justly force me to be his friend by threatening me with violence, since that would rely on the principle that merely personal preferences can be enforced on others, which would run fruitlessly up against my ability to enforce *my* desire to drop his friendship. This kind of “Tarantino morality” always ends up with everyone in a state of mute paralysis, pointing guns at each other’s faces like frozen statues.
+با این حال، بطور متعارف تجاوز اجتناب پذیر نیست، زیرا این یک حمله جنسی است که از طریق خشونت اعمال می شود. [^4] همچنین اگر من تصمیم بگیرم که دوستی ام را با فردی تنبل که در بالا ذکر شد متوقف کنم، او نمی تواند من را با تهدید کردن با اعمال خشونت آمیز مجبور به دوستی با خودش بکند، زیرا این امر به این اصل متکی می باشد که عقاید صرفا شخصی که به دیگران تحمیل می شود منجر به افزایش تمایل برای پایان دادن به دوستی با او می شود. این نوع اخلاق تارانتینو همیشه مانند مرگ خاموش و صورت هایی همانند مجسمه های یخ زده بعد از هدف گیری با اسلحه به چهره یکدیگر به پایان میرسد.
 
-As we have already established, any universally preferable behaviour must be universal to all people in all places at all times – if ANAs allow for violent enforceability (i.e. I can shoot you for being late) – then if rape is defined as an ANA which can be enforced, then the rape victim who finds rape an aesthetically negative action has the right to shoot his rapist, which effectively affirms the principle of self-defence, but at the expense of also allowing gun play in the opposition of, say, rudeness.
+همانطور که قبلا تعیین کرده ایم، هر رفتار مظلوب جهانی باید برای همه مردم در هر جا در هر زمان، جهانی باشد ، اگرمجوز  ای ان ایبرای اعمال خشونت (یعنی من می توانم به شما برای اینکه دیر کردید شلیک کنم) سپس اگر تجاوز به عنوان  ای ان ایی تعریف شود که می تواند تحمیل شود، سپس قربانیِ تجاوز، که تجاوز را یک عمل زیبایی گرایی منفی می داند حق دارد که متجاوز را مجازات کند، که این عمل با قاعده دفاع از خود سازگار است، اما در عین حال اجازه دادن به مجازات با تفنگ در ضدیت با، گفتگو، و خود، خشونت محسوب می شود.
 
-Thus rape cannot be an ANA.
+بنابراین تجاوز نمی تواند یک ای ان ای باشد.
 
-Which leaves only…
+تنها موردی که باقی می ماند  ...
 
-### Evil
+### شرارت
 
-If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil,” passes the “coma test,” insofar as it is impossible for a man in a coma to rape someone.
+اگر تجاوز، به عنوان بدی تعریف شود، پس باید همراه با اجبار باشد، که این نیز به وضوح انجام می گیرد. همچنین، این عقیده که: "تجاوز بد است"، آزمون "کما" را، تا آنجا که ممکن است فردی که در کما است به نفر دیگری تجاوز کند را گذرانده است.
 
-In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
+علاوه بر این، اگر تجاوز کردن بد است، پس تجاوز *نکردن *باید خوب باشد ، به این ترتیب، دو نفر در یک اتاق می توانند همزمان اخلاق مدار باشند، درصورتیکه به یکدیگر تجاوز نکنند.
 
-Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
+از آنجایی که امکان اجتناب ناپذیر بودن یکی از تفاوت های کلیدی بین "ناخوشایند بودن" و "غیر اخلاقی بودن" است و تجاوز به وضوح یک رفتار اجتناب ناپذیر است، تعریف "تجاوز بد است" نیز مطابق با این نظر است.
 
-Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
+همچنین، از آنجا که زمانی وجود دارد که از نظر جسمی ممکن نیست شخص به فرد دیگری تجاوز کند ، به عنوان مثال، هنگامی که نعوظ رخ نمی دهد ، تعریف "تجاوز بد است"، مشکل افرادی که به طور غیر ارادی، غیر اخلاقی  هستند را حل می کند که با توجه به تعریف و معیار اجتناب پذیری غیرممکن است.
 
-The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+متجاوزان جنسی می تواند اقدامات خود را با از اعتبار ساقط کردن گزاره "تجاوز خوب است" توجیه کنند و جایگزین گزاره دیگری کنند که از تمایل آنها برای تجاوز جنسی حمایت می کند، مثلا: "اخلاقی است که بدون توجه به نارضایتی دیگران، از کار خود لذت ببریم."
 
-This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+این گزاره همچنین در برابر منطقی ترین تئوری یو پی بی نیز ناکام می ماند. اگر باب، معتقد است که او باید با تجاوز به داگ، صرفنظر از نارضایتی داگ، خود را راضی کند. سپس بطور منطقی باب نمی تواند عقیده خود را به یک یو پی بی ارتقاء بخشد.
 
-If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
+اگر هرکسی باید صرفنظر از نارضایتی قربانی هایش از کار خود لذت ببرد، پس باب حق ندارد به داگ تجاوز کند؛ از آنجایی که باب * ترجیح می دهد * به داگ تجاوز کند، داگ قطعا ترجیح * نمی دهد* مورد تجاوز قرار گیرد. اگر هر کس بدون توجه به نارضایتی دیگران از کار خود لذت ببرد، پس هیچ دلیلی منطقی وجود ندارد که چرا باید عقیده باب برای تجاوز به داگ باید مقدم بر عقیده داگ مبنی بر اینکه نباید مورد تجاوز قرار گیرد باشد، صرفنظر از نارضایتی، که از امتناع کردن از تجاوز باب ناشی می شود.
 
-Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
+بنابراین داگ می تواند به باب بگوید: "از نظر اخلاقی خوب است که من به شما تجاوز کنم، زیرا عقاید شخصی می تواند به صورت خشونت آمیز اعمال شود." البته، باب، می تواند پاسخ دهد: "پس از آن از نظر اخلاقی خوب است که من در مقابل حمله شما بصورت خشونت آمیز مقاومت کنم. از آنجا که عقیده شخصی من برای مورد تجاوز قرار نگرفتن نیز می تواند خشونت آمیز باشد
 
-Of course, few rapists are philosophers, but as we mentioned above, the primary danger to human beings is not the individual criminal, but irrational and exploitive moral theories. For instance, incarceration is inevitably justified through an appeal to a moral theory – and incarceration causes far more people to be raped than private criminals could ever dream of. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
+البته، تعداد کمی از متجاوزان جنسی فیلسوف هستند، اما همانطور که در بالا ذکر شد، خطر اصلی برای انسانها، جرم فردی نیست، بلکه نظریه های ناعادلانه و استثمارگرانه اخلاقی است. به عنوان مثال، زندان به بناچار از طریق درخواست تجدید نظر، یک نظریه اخلاقی توجیه می شود - و زندان باعث می شود افراد بیشتری مورد تجاوز قرار گیرند تا مجرمان خصوصی بتوانند به رویای خود برسند. اگر نظریه اخلاقی که زندان را توجیه می کند اشتباه است، سپس * تصحیح * این نظریه ی اخلاقی باید بیشترین نگرانیِ هر کسی که مایل به کاهش شیوع تجاوز است، باشد.
 
-Thus it would seem that the only logical possibility for rape is that *not* raping is universally preferable behaviour – or that rape is universally banned behaviour.
+به نظر می رسد که تنها حالت منطقی ممکن برای تجاوز این است که تجاوز، رفتار مطلوب جهانی نیست یا اینکه یک رفتار ممنوع جهانی است.
 
-### Whew!
+### خب
 
-The fact that the UPB framework has logically and effectively validated the moral proposition that rape is evil – not “good,” or “aesthetically preferable,” or “personally preferable,” or “morally neutral” – is a very good sign. It does not prove beyond a shadow of a doubt that UPB will logically validate all “common sense” moral propositions, but the first hurdle has been passed, and that should give us great cause for celebration. If I were a physicist proposing a Unified Field Theory, and the application of my theory correctly predicted where a thrown baseball would land, I could justly be enormously pleased.
+واقعیت این است که چارچوب یو پی بی منطقا و به طور موثری گزاره اخلاقی را که تجاوز بد است - نه "خوب" یا "زیبایی گرایی قابل ترجیح " یا "مطلوب شخصی " یا "اخلاقیِ خنثی" - را اثبات کرده است یک نشانه بسیار خوبی است. بدون شک یو پی بی بطور منطقی همه گزاره های اخلاقی "عقلانی" را تأیید کند، اما اولین مانع پشت سر گذاشته شده است، و این باید دلیل مهمی برای جشن باشد. اگر من یک فیزیکدان بودم پیشنهاد یک نظریه فیلد واحد را می دادم، و  اینکه اپلیکیشن نظریه من جایی که توپ بیسبال پرتاب می شود را به درستی پیش بینی کند، می توانستم به طرز عجیبی از آن لذت ببرم.
 
-Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
+تئوری نسبیت انیشتین پیش بینی کرد که نور در اطراف نیروی گرانش خم می شود - زمانی که این تئوری برای اولین بار تأیید شد، او تئوری خود را بدون رد خور ثابت نکرد، اما ثابت کرد که این تئوری * می تواند * درست باشد، که یک جهش رو به جلو بود. همیشه برای اولین بار بدست آوردن اعتبار سخت تر است، زیرا اشتباه کردن خیلی ساده است و خطا، همیشه دقت را بی ارزش می کند.
 
-The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
+چارچوب یو پی بی به درستی فرضیه اخلاقی ما را ثابت کرده است که تجاوز بد است. این یک معیار لازم برای اثبات است –اما کافی نیست - و کاملا از تحقیقات بیشتر پشتیبانی می کند. بنابراین، اجازه بدهید ادامه بدهیم  ...
 
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
+[^1]: این با یک حمله فیزیکی بسیار متفاوت است که گزینه های شما را برای یک انتخاب آزاد محدود می کند.
 
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
+[^2]: نمی توان استدلال کرد که تجاوز به هیچ وجه یک عقیده نیست، زیرا تجاوز یک رفتار است و همانطور که در بالا ذکر شد، همه رفتارها شامل عقیده هستند.
 
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
+[^3]: توجه داشته باشید که من نمی توانم بگویم که "عقاید شخصی" * ممکن * است با خشونت بر دیگران اعمال شود، زیرا این نقض یو پی بی است که بیان می کند که قوانین اخلاقی باید مطلق و جهانی باشند - اگر اینطور نباشد، آنها در محدوده ای پی ای قرار دارند، و به همین ترتیب نمی توانند به دیگران تحمیل شود.
 
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]: ما می توانیم از شرایطی که احتمال تجاوز را افزایش می دهد اجتناب کنیم ، اما ما نمی توانیم از جریان تجاوز به عنف اجتناب کنیم.
