@@ -22,7 +22,7 @@ Ngayon ay bumaling tayo sa isang serye ng positibong mga patunay para sa UPB.
 
 ### UPB at Pagkatotoo
 
-One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
+Isa sa sentral na mga hamon na kinakaharap ng modernong mga pilosopo ay ang pangangailangan na patunayan na ang moral na mga panuntunan ay parehong posible at unibersal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
 
 The closest historical analogy to our present situation occurred in the fifteenth and sixteenth centuries, during the rise of the scientific method. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
 
