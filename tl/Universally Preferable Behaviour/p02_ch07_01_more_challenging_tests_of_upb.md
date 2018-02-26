@@ -26,7 +26,7 @@ Ang pansariling-pagtatanggol ay hindi pwedeng maging "masama," dahil ang kasamaa
 
 Ang pansariling-pagtatanggol ay hindi pwedeng maging pag-uugali *kailangan*, dahil kailangan ang pag-uugali ("huwag manggahasa") ay pwedeng ipatupad sa pamamagitan ng kalupitan, na kung saan ay bigisabihin na ang kahit sinuman na hindi marahas na idepensa ang sarili ay pwedeng maging lehitimong sa agresibong paglaban. Gayunpaman, ang taong hirap ipagtanggol ang kanyang sarili ay *handa* ng sa pagiging agresibo sa paglaban, at sa kaya kami ay natapos sa isang sirkular na sitwasyon kung saan ang lahat ay pwedeng kumilos ng marahas laban sa taong hindi ipinagtatanggol ang kanyang sarili, na hindi lang makatwiran, subali't ang moralidad ay kasuklam-suklam.
 
-If Bob attacks Doug, but it is completely wrong for Doug to use violence to defend himself, then violence ends up being placed into two moral categories – the initiation of force is morally good, but self-defence is morally evil, which cannot stand according to UPB.
+Kung inatake ni bob ang doug, subali't ganap na hindi tama para kay doug na gumamit ng kalupitan para ipagtanggol ang kanyang sarili, tsaka ang kalupitan ay inilagay sa dalawang moral na kategorya - ang pagsisimula ng lakas ay mabuting moralidad, subali't ang ang pansariling-depensa ay moralidad na kasamaan, na hindi tayo paninindigan ayon sa UPB.
 
 However, you might argue, does not the proposition that self-defence is good also make violence both good and bad at the same time – the violence that is used to attack is bad, but the violence that is used for self-defence is good?
 
