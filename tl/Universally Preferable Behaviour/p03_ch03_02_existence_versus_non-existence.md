@@ -32,7 +32,7 @@ Sa parehas na paraan, kahit na piliin kong boluntaryong bayaran ang aking buwis,
 
 Ang tanong na ito ay mas lalong katawa-tawa kung ating titignan ang karaniwang moral na "pagbibigay-katwiran" sa kapangyarihan ng demokratikong pamahalaan, na nakabatay sa "kalooban ng nakararami."
 
-First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
+Una sa lahat, ang "kalooban" ay isang aspeto ng indibidwal, habang ang "nakararami" ay konseptwal na tanda sa isang grupo. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
 
 Two additional objections constantly recur whenever the question of the necessity of a government arises. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
 
