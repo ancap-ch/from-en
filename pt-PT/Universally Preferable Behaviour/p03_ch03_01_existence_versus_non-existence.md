@@ -10,9 +10,9 @@ Assim, se eu disser: "Deus existe", o que realmente estou a dizer é:
 
 Por outras palavras, ao dizer "Deus existe", criei uma contradição insuperável. Defini a "existência" como "inexistência", o que faz tanto sentido como definir "vida" como "matéria inanimada", ou uma pedra como "o oposto de uma rocha", ou um "quadrado" como um " círculo."
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+De igual modo, se eu criar algum universo alternativo onde a "inexistência for igual à existência", "a contradição igual à consistência", "a verdade igual à falsidade" e "a irracionalidade igual à racionalidade", então o que fiz, realmente, foi criar um reino chamado "erro", colocar nele tudo o que não é verdade, e definir esse reino como um lugar onde o "erro equivale à verdade".[^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Claro, as pessoas não criam esse "universo alternativo" para invalidar a verdade dentro do nosso próprio universo, mas sim para resgatar o que está errado na realidade e chamá-lo de verdade. Por exemplo, alguém que argumenta "Deus pode existir num outro universo e por isso ninguém pode afirmar que Deus não existe" sempre discute "*I* pode não existir nesse outro universo, então não pode afirmar que eu existo aqui
 
 They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
 
