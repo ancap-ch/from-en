@@ -102,68 +102,68 @@ Many people com dey argue at dis point dat collecting of tax dem nor use gun tak
 
  Dis e if be true, but it na completely irrelevant. If I com tell a woman dat I go kpai her pikin if she nor agree to allow me fork am, and she com agree make I fork am, we come clearly understand dat an immoral action don happen – even when I nor com use the weapon in my violation. Clearly, if de woman agree make I sleep with her, na becos she dey fear dat I go fit do her something. If I com tell her dat my pet leprechaun go kpai her pikins if she nor agree to sleep with me, she go com dey sorry, but she nor go dey fear warin I talk in any significant way, becos e nor dey possible make my pet leprechaun fit kpai her pikins.  
  
- Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+Or, if I com kpai, and my will com show dat make I kpai dis woman’s pikins if she nor agree to sleep with me, clearly she nor go feel well rather than she go begin dey fear, since I nor go fit conceivably carry our warin I  threating from beyond de grave. E-hen we com dey pay taxes becos we com know dat if we nor do am, de likelihood of com be aggressed against by representative of de state go com be high. If I nor com pay my taxes, I com get a letter, then another letter, then my phone com ring, then com charge me  go court – and if I nor com go de court, or nor com pay my before taxes and all d fines and profit, policemen go com with dere guns com carry be go jail. If I no agree with dose policemen, dey go com fire me down.
 
-To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
+To com talk say dat force be de same with voluntarism na completely illogical and self-contradictory. To com talk say dat de initiation of de use na completely de same to de non-initiation of de use of force na to talk say dat up na down, black na white, and truth na lie.
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+Without de “null zone,” dese corrupt fictions nor go be sustained.
 
-The “null zone” is the lair of the beast we hunt.
+De “null zone” na de lier of de beast we hunt. 
 
-As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
+As we dey see, we com know dat personally e dey wrong to thief; we get small problems with an abstract and logical ban on thief, like as if we com get worked out above – na still, dere com exists dis “null zone” or alternate universe for where dose oppositions go fit be accepted without nor question or concern.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+ As UPB dey talk say, e dey wrong for me and you to go steal. Yet somehow, in dis “null zone,” e nor dey allow, but also perfectly *moral*, for any person to go steel. We *no go* steal – dey *must* steal. E dey moral madness!
 
 ### Policemen
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+Make we carry our beta friend Bob away from  e little room of moral theory testing and com bring am back  back to his original work as a policeman.
 
-Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
+Clearly, as Bob dey wake up in de morning, before him time for work go reach, e nor fit go to his neighbor’s house and ask for money as e dey point his gun, nor matter any body way tell am say e dey correct.
 
-When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+When Bob com chop him morning food, he nor go fit com attack his neighbor and com collect e money. As him dey drive dey go work – even when he wear his uniform – he never enter in yet, and thus he nor get de right pass any other person. When he com enter in, however, now, as if dere descends an amoral pillar of fire from de very heavens, he com gains de amazing ability to morally com attack his neighbours and com take dere money.
 
-Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
+Surprisingly, dis na de only characteristic way him get dat he com totally change itself. He nor go fit fly, he nor go fit change his shape, he nor go fit com successfully digest ball bearings or com live inside an inferno; he no go fit run one thousand kilometres for one hour, and neither him go fit waka pass a brick wall. He na absolutely, utterly, and completely *de same man make e be **before** he punched in* - yet now, he com dey subject to completely de other moral rules.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Even e com dey more surprisingly, if I nor be a “policeman,” but I com follow Bob go work, and com do exactly warin him dey do – I com wear a shirt, com waka enter de police station, and I com a piece of cardboard inside a punch clock – why, if I com then dey do exactly warin Bob dey do, I be completely and totally immoral, although warin Bob’s do dey completely and totally *moral*.
 
-What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
+Warin beta dis thing com make? How we go fit conceivably unravel dis impenetrable magic?
 
-The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+De simple true na *nor go fit* be unraveled, becos na completely deranged. De true dat dis “opposite world” moral madness na completely irrational – nor come talk violently exploitive – na so obvious dat dey must buried in warin nor get end cavalcade of mythlogical “voluntarism.”
 
-We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
+Dey com tell us dat we “want” Bob to take our money – which completely nor be de true dat Bob com appear com de front of our door com dey point a gun where full of bullet for our face. By dis logic, I go fit waka up and down dey street stealing money from my neighbors, and then I com dey show say I dey  utterly shocked when dey com arrested me:
 
-“They *want* me to take their money!”
+“Dey *want* me make I collect dere money!”
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+“But then why me dey threatening say I go fire dem if dem no give me dere money?”
 
-“Because they *owe* me their money!”
+“Becos dey *owe* me dere money!”
 
-“I thought you said that they want to give you their money.”
+  “I com dey think say dat dey want give you dere money.”
 
-“No, no – they owe me. It’s really *my* money!”
+“No, no – dey owe me. Na really *me* get de money!”
 
-“On what grounds do they owe you this money?”
+“How dey com dey owe you de money?”
 
-“We have a contract!”
+“We com get a contract!” 
 
-“Can you show me this contract? Have they signed this contract of their own free will?”
+“Make you show me de contract? Dem com agree to signed dis contract without forces dem?” 
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+“No be dat kind of contract! Na a - *social* contract… And besides – according to dat social contract, I com owe de whole street anyway – de whole damn neighbourhood infact! Anybody who nor agree to pay me my money go fit go another place – I nor dey force dey!”
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
+“And how you com know say na you get de whole neighborhood? You get ownership papers?"
 
-“Yes, of course – have a look here!”
+“Yes oh, - com look or see am!”
 
-“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+“Well, dis one na just hand dem take write am for paper way talk say dat na you get de whole neighbourhood – and  na de same handwriting with your signature. I dey fear say we go book you down – dis na just a make-up contract with yourself, which you com dey put am for other people as you com dey point gun for dem." 
 
-This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+Dis na completely madness and corrupt as me dey continue to dey tell a woman dat I dey force dey  sleep with her dat she *wants* to dey sleep with me. You go fit imagine if you dey for court for forcing a woman to sleep with her, and e get  video where dey record when de woman dey beg me to stop, and I carry knife put am for her throat, how I go take defence my self if I continue to talk say dat she *wanted* me to sleep with her?
 
-In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
+Inside dey court, dem go open my secret, and throw me inside jail for my obvious, mad, corrupt and self-serving hypocrisy.
 
-Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
+Ah, but inside de “null zone” of government, forcefully sleep with person na lovemaking, kidnapping na invitation, rejecting thief na evil selfishness, and coercion na kindness.
 
-This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
+Dis na warin I mean when I dey talk say dat dis “opposite world *null zone*” na de most fundamental barrier to human happiness de world over. Stealing na wrong thing for us; stealing na wrong thing in de abstract – but stealing na somehow “right” na for dis insane alternate universe dey dem called “government”?  
 
-[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
+[^2]: Make we no even get *started* on de logical nighmare of de truth value contained inside de statement “error na de same as truth."
 
-[^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.
+[^3]: Dis argument fit nor work very well with de maths teachers – I never com see a student way successfully argue dat any answer warin no dey correct may be correct inside another universe, and so e dey unjust to mark am as wrong.
