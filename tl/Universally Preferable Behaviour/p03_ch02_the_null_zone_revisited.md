@@ -12,7 +12,7 @@ Gayunpaman, para sa libu-libong taon, ang siyensya ng astronomiya ay umuusad par
 
 Ang problema sa kanyang paglapit - mabuti, gayunpaman ay isang problema - ay ang pagbabago ng paggalaw ng Mars. Galing sa ating planeta, May oras ang Mars na tila gumagalaw "paatras," katulad ng mundo "umabot" sa pagilid ng araw. Ang maling paniniwala na ang mundo ay ang gitna ng solar sistem, kombinasyon sa kahibangan para sa "perpekto" na bilog, ginawa ng Ptolematic na sistema ng astronomiya, na kung saan nagpapadami ang lahat ng ito bilang perpektong bilog sa punto ng kahibangan, sa utos ng pagkuha ng pananagutan sa eliptikal orbit at ang pabagu-bagong pagusad ng Mars.
 
-Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
+Bakit ang maling akala na ang pagiging perpekto ay tintuturing na kailangan para sa katawang selestiyal? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
 
 We can also turn this analysis to the question of the existence of God as well.
 
