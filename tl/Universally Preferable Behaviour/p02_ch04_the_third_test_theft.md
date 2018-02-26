@@ -92,13 +92,13 @@ Ang problema sa anumang teorya na nagsasaad sa mga karapatan sa ari-arian na mas
 
 Kaya, sa pamamagitan ng pagsasama-sama nitong axiomatic na katotohanan sa UPB, madali nating maiintindihan dahil kahit sino ay pinagtatalunan ang mga karapatan sa pag-aari ay gumagamit ng isang daang porsyento na kontrol sa kanyang sariling ari-arian, ang tanging tanong ay kung ang mga karapatan ng ari-arian ay nag-iiba mula sa indibidwal hanggang hanggang sa indibidwal – isang tanong na tiyak na naisaayos ng axiomatic na katunayan ng pagmamay-ari ng sarili, pati na rin ang balangkas ng UPB. Anumang moral na panukala ay dapat na unibersal at pare-pareho, at ganiyan din ang alam nating *lahat* na may isang daang porsyento ng karapatan sa mga pag-aari.
 
-Any other possibility is logically and empirically impossible.
+Anumang iba pang mga posibilidad ay lohikal at empirically na imposible.
 
-### Testing "Theft"
+### Pagsubok ng "Pagnanakaw"
 
-Let us return to our patient moral guinea pigs, Bob and Doug.
+Bumalik tayo sa ating pasyente na mga baboy sa pamantayan ng moral, Bob and Doug.
 
-If theft is morally good, then once again we face the problem of the impossibility of simultaneous morality. If Bob has a lighter, and it is morally good to steal, then Doug must steal Bob’s lighter. However, the moment that Doug is stealing Bob’s lighter, Bob cannot himself be moral. The moment *after* Doug steals his lighter, Bob must then steal “his” lighter back – however, it is only “stealing” if the lighter is *not* legitimately Bob’s in the first place. When Doug steals Bob’s lighter, the lighter does not legitimately become Doug’s property, otherwise the concept of theft would make no sense. If, the moment I steal something, it becomes my legitimate property, then restitution would itself become theft. If, however, I do *not* establish legitimate ownership by stealing Bob’s lighter, then clearly it is impossible for Bob to “steal” the lighter *back*, because we cannot steal what we already own, and my theft has not invalidated Bob’s ownership of his lighter.
+Kung ang pagnanakaw ay moral na mabuti, pagkatapos ay muli nating harapin ang problema ng pagka-imposible ng sabay-sabay na moralidad. If Bob has a lighter, and it is morally good to steal, then Doug must steal Bob’s lighter. However, the moment that Doug is stealing Bob’s lighter, Bob cannot himself be moral. The moment *after* Doug steals his lighter, Bob must then steal “his” lighter back – however, it is only “stealing” if the lighter is *not* legitimately Bob’s in the first place. When Doug steals Bob’s lighter, the lighter does not legitimately become Doug’s property, otherwise the concept of theft would make no sense. If, the moment I steal something, it becomes my legitimate property, then restitution would itself become theft. If, however, I do *not* establish legitimate ownership by stealing Bob’s lighter, then clearly it is impossible for Bob to “steal” the lighter *back*, because we cannot steal what we already own, and my theft has not invalidated Bob’s ownership of his lighter.
 
 Thus, if stealing is good, then goodness becomes a state achievable only in the instant that Doug steals Bob’s lighter. In that instant, only Doug can be moral, and Bob cannot be. After that, goodness becomes impossible to achieve for either party, unless Doug keeps giving Bob’s lighter back and then snatching it away again.
 
