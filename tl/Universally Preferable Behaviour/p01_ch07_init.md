@@ -12,11 +12,11 @@ Ang isang siruhano ay pwedeng "manaksak sa iyo ng isang panistis, ngunit pwede n
 
 Ang pagkakaibang ito ay pwedeng maunawaan sa pamamagitan ng isang karagdagang pag-aaral ng *inisasyon*.
 
-Kapag nakakuha ka ng kanser, ikaw ay mag-tanong sa isang siruhano para ikaw ay maoperahan. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+Kapag nakakuha ka ng kanser, ikaw ay mag-tanong sa isang siruhano para ikaw ay maoperahan. Ang dahilan na ang isang siruhano "masaksak" ay hindi imoral ay ang "panimula" ng kanser ay ang pag-atake sa iyong buhay at kalusugan. Ang siruhano ay kumikilos bilang isang "kapalit na ahente sa pagtatanggol sa sarili," kagaya ng isang tao na naglalagay ng isang magnanakaw na umaatake sa iyo. Ibinigay mo rin ang iyong pahintulot sa siruhano, at nakatali sa kanyang pag-uugali sa pamamagitan ng isang sigurado na kontrata.
 
-The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
+Gayunpaman, ang magnanakaw na tumulak sa iyo ay nagpapasimula ng pag-atake sa iyong buhay at kalusugan, kaya naman ang kanyang pag-atake ay ang moral *kabaligtaran* na pagsisiskap ng isang siruhano.
 
-If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Kung ako ay isang talamak at may mahabang panahon sa paninigarilyo, nakilahok ako sa kadena ng mga kaganapan na humantong sa aking kanser sa baga. Sa pamamagitan ng pagpapasimula at sa pagpapanatili sa naka-ugaliang paninigarilyo, inilunsad ko ang isang kadena ng pananahilan na pwedeng magresulta sa isang nakamamatay na kapighatian. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
 
 Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
 
