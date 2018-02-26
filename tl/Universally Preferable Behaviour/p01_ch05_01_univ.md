@@ -48,7 +48,7 @@ Tiyak na hindi sa materyal na katotohanan, kung saan hindi naglalaman o sumusuno
 
 Kaya naman hindi masasabi na ang mga panuntunan ng moral ay umiiral sa materyal na realidad, at hindi rin sila awtomatikong sinusunod tulad ng mga batas ng pisika – na kung saan ay *hindi* nangangahulugan na ang mga batas ng moral ay mali, subhektibo o walang kaugnayan. Ang siyentipikong pamamaraan mismo ay hindi rin umiiral sa realidad – at opsyonal din – ngunit ito ay hindi mali sa anumang paraan, subhektibo o walang kaugnayan.
 
-If we can prove that moral theories can be objective, rational and verifiable, this will provide the same benefits to ethics that subjecting *physical* theories to the scientific method did.
+Kung maaari nating patunayan na ang moral na mga teorya ay maaaring maging layunin, rasyonal at mapapatunayan, ito ay magbibigay ng parehong mga benepisyo sa etika na nababatay sa *pisikal* na mga teorya sa siyentipikong pamamaraan na ginawa.
 
 Before the rise of the scientific method, people believed that matter obeyed the subjective whims of gods and devils – and people believe the same of morality now. Ang mga bulkan ay sumabog dahil ang diyos ng kabundukan ay nagalit; mga masaganang ani na resulta ng pag-sakripisyo ng tao o hayop. No one believed that absolute physical laws could limit the will of the gods – and so science could never develop. Those who historically profited from defining physical reality as subjective – mostly priests and aristocrats – fought the subjugation of physical theories to the scientific method, just as those who currently profit from defining morality as subjective – mostly priests and politicians – currently fight the subjugation of *moral* theories to objective and universal principles.
 
