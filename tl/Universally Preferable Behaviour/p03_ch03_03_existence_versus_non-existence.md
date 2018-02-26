@@ -4,7 +4,7 @@ Ang ideya ng maipanganak ay bumubo ng isang kontrata sa isang kathang-isip na ah
 
 Sa tuwing sasabihin ng isang pari na: "Sundin ang Diyos." ang kanyang tunay na nais sabihin ay: Sundin *ako*." Dahil ang Diyos ay hindi umiiral, anumang kautusan na sabihin ng pari na galing sa Diyos, ay tunay na nanggagaling sa pari. Ang "Diyos" ay isang kathang-isip na entidad na konseptwal kang sinusupil upang makuha ang iyong praktikal na pagsunod ng walang tanong-tanong sa totoong mundo, sa totoong indibidwal, sa paraan ng boluntaryong pagbibigay ng salapi, oras at pinagkukunang-yaman.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+Ito ay mas mahusay para sa mga mapagsamantala para magkaroon sila ng mga aalipinin at isaalang-alang ang pagkaalipin sa isang kabutihan, dahil dito pinutol paibaba ang sobra-sobrang pinagkakagastusan ng namamahala sa kanila. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
 
 Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
 
