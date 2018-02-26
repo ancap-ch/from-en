@@ -133,7 +133,7 @@ UPB boleh dilihat sebagai sebuah kerangka kerja untuk memvalidasi teori etis ata
 
 
 Contoh proposisi moral adalah: "inisiasi penggunaan kekuatan adalah salah". UPB adalah metodologi yang tes yang baik terhadap konsistensi internal proposisi dan observasi empiris. UPB jadi bertanya: *apakah proposisi itu logis dan konsisten?* UPB kemudian bertanya: *bukti apa yang ada untuk kebenaran proposisi?*
-=======
+
 
 
 
