@@ -16,7 +16,7 @@ Ang ating pansariling pagmamataas ay ang katutubong naghihimagsik laban sa isang
 
 Ang ating ninanais upang maging mabuti – napagsamang pangingilig ng kabutihan na nakakamit natin sa pamamagitan ng pagsunod sa mabuting mga alamat – kami ay humahanay para handang magbahagi kayamanang higit sa mga iyon ang umaangkin na kumakatawan ito sa mga alamat.
 
-Isang sentro dahilan na alam natin na ang pamahalaan at mga diyos ay hindi kaylangan ang mga ito kaya naging mabisa. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+Isang sentro dahilan na alam natin na ang pamahalaan at mga diyos ay hindi kaylangan ang mga ito kaya naging mabisa. *alam ng lahat na marami sa mga tao ang desperadoong nais na maging mahusay na dahilan sila ay napakadaling kontrolin sa pamamagitan ng mabuti mga palagay*.
 
 The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
