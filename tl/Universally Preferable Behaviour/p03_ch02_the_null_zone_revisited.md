@@ -40,7 +40,7 @@ Kung sasabihin ko na dalaawa dagdagan ng lima ay lima, ako ay gumawa ng mali na 
 
 Sa pangkalahatan, ang daan ng mga tao para subukan ang "iligtas" ang kanilang salungat na emperikal at salungat na logikal ay naniniwala sa paglikha ng "alternatibong kaharian" o "alternatibong daigdig" na kung saan ang kanilang mga sariling pagsalungat sa pagpapahayag ay maaaring maging totoo.
 
-Kung sabihin ko " ang bilog na parisukat ay umiiral" ako ay nagsasabi na maliwanag na imposible ito sa loob ng daigdig. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
+Kung sabihin ko " ang bilog na parisukat ay umiiral" ako ay nagsasabi na maliwanag na imposible ito sa loob ng daigdig. Samakatuwid, kung ako ay hihiling na manatili ang aking paniniwala, dapat akong gumawa ng iba pang daigidig o kaharian sa "labas" itong daigdig na kung saan ang bilog na parisukat ay umiiral.
 
 If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
 
