@@ -70,6 +70,6 @@ Ang pinakang sanhi ng mabuting lugar ng isang kultura ay kayang magdikta ng hind
 
 Na ang kadahilanan ay kung bakit ang guhit ng isang makatwirang balangkas para sa etika ay lubhang-mahalaga.
 
-What we believe is what we become.
+Ang paniniwalaan natin ay kung ano tayo.
 
-If we believe lies, we shall become slaves.
+Kung tayo ay pumapanig sa mga kabulaanan, ang lahat ay magiging mga sunod-sunuran.
