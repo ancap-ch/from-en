@@ -6,9 +6,9 @@ Deus não possui massa ou energia, ou apresenta os efeitos da massa ou da energi
 
 Assim, se eu disser: "Deus existe", o que realmente estou a dizer é:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+"*O que existe deve ser detectável; Deus não pode ser detectável, mas Deus existe - portanto, o que não existe, existe.* "
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+Por outras palavras, ao dizer "Deus existe", criei uma contradição insuperável. Defini a "existência" como "inexistência", o que faz tanto sentido como definir "vida" como "matéria inanimada", ou uma pedra como "o oposto de uma rocha", ou um "quadrado" como um " círculo."
 
 Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
 
