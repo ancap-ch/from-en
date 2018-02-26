@@ -34,9 +34,9 @@ Ano ang hitsura nito sa pagsasagawa? Ang kailangan lang nating gawin ay itatag a
 
 - Ang moralidad ay isang balidong konsepto.
 - Ang mga panuntunan ng moral ay dapat na pare-pareho para sa lahat ng sangkatauhan.
-- The validity of a moral theory is judged by its consistency.
+- Ang balidasyon ng isang moral na teorya ay hinuhusgahan sa pamamagitan ng hindi nito pagbabago.
 
-To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
+Upang magsimula sa pinaka umpisa... ang mga panuntunan ng moral – o pang-unibersal na kanais-nais na mga paguugali ng tao – ay balido sa anumang paraan?
 
 There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
 
