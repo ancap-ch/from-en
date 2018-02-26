@@ -56,11 +56,11 @@ Ang pagkatatag ng isang pang-una at mapilitang humawak sa samahan ang walang kat
 
 Ang daan para tutulan ang mga isinasa-isip ay may mga entity na walang awa sa katotohanan. ang daan para tutulan ang diyos ay mayroong kadahilanan, mayroong maipapakita, at ang agham.
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
+Ang daan para salungatin ang stado – ang higit na peligrong isinasaisip ng entidad – mayroong katuwiran, katunayan at agham.
 
 ### Ang hinaharap
 
-Kung nais namin ito o hindi, ang UPB ay naaangkop sa lahat ng bagay na aming. ginagawa. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Kung naaayon sa namin ito o hindi, ang UPB ay naaangkop sa lahat ng bagay na aming ginagawa. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
 
 Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
 
