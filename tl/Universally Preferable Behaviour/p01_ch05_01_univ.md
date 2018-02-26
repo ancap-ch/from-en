@@ -8,7 +8,7 @@ Imposibleng mapatunayan na nanaginip ako ng isang elepante kagabi. Posibleng pat
 
 Ang pagkilala sa superyor ng lohika sa isang argumento ay isang *aksyon*. Kung, sa tuwing tatanggap ako ng isang punto sa iyo, wala akong sinabi, ngunit sa halip ay blankong nakatitig sa iyo, malalaman mo ito sa halip na nakakairitang makipag debate sa akin. Para tumanggap ng isang punto, kailangan kong magsagawa ng aksyon ng berbal na pagsang-ayon.
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+Sa gayon ay makikita na, likas na ang mismong kilos ng pakikipagtalo ay isang bilang ng nakakabit na mga saligan na hindi maaaring isiping mababaligtad.
 
 If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
 
