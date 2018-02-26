@@ -45,7 +45,7 @@ For market wey no perfect, dis mean say there fit be high markups way dey offer 
 
 So it is not in any sense a paradox that the market price of a box of paint has very little to do with the final price of the painting. The box of paint is traded in the market at a price that partly is derived from the anticipated value of paintings. Similarly, the coca leaves that will eventually end up in a nostril on Wall Street *are valued because the end product is valued.*
 
-So e no make sense say dis na paradox  say de market price of one box of paint get very little to do with de final price of de painting. De box of paint dey trade inside de market for one price wey partially dey derived from de anticipated valued of paintings. Similarly, de coca leaves wey go eventually end up inside one nostrils on Wall Street * dey valued becoz de end product dey valued.*
+So e no make sense say dis na paradox  say de market price of one box of paint get very little to do with de final price of de painting. De box of paint dey trade inside de market for one price wey partially dey derived from de anticipated valued of paintings. Similarly, de coca leaves wey go eventually end up inside one nostrils on Wall Street *dey valued becoz de end product dey valued*.
 
 If government burns half of those fields, this will not lead to a doubling of the final good’s price. Instead, it will increase the costs that need to be covered by producers to make the final good available in consumer markets. As margins are enormous in illegal drug production and distribution, primarily as a result of government repression, producers don’t think twice to continue just like before without changing prices: it only causes a small dent in their income.
 

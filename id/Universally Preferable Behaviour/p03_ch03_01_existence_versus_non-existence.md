@@ -110,7 +110,7 @@ Tanpa "zona null," korup ini fiksi tidak dapat dipertahankan.
 
 Seperti yang kita lihat, kita tahu bahwa secara pribadi itu adalah salah untuk mencuri; kami memiliki sedikit masalah dengan abstrak dan logis larangan pencurian, seperti yang kita telah bekerja di atas – namun masih ada ini "zona null" atau alam semesta alternatif di mana oposisi seperti dapat diterima tanpa pertanyaan atau kekhawatiran.
 
-Menurut UPB, itu salah bagi saya dan anda untuk mencuri. Belum lagi kadangkala di "zona nol" ini, tidak hanya diizinkan akan tetapi juga *moral* yang sempurna untuk dicuri oleh yang lain. Kita * tidak boleh* mencuri tapi mereka *boleh* mencuri. Itu adalah moral kegilaan!
+Menurut UPB, itu salah bagi saya dan anda untuk mencuri. Belum lagi kadangkala di "zona nol" ini, tidak hanya diizinkan akan tetapi juga *moral* yang sempurna untuk dicuri oleh yang lain. Kita *tidak boleh* mencuri tapi mereka *boleh* mencuri. Itu adalah moral kegilaan!
 
 ### Polisi
 
