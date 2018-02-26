@@ -1,57 +1,57 @@
-### Practicality
+### Ilowo
 
-Once the violence of government is intellectually exposed – and the supposed “voluntarism” of citizens is revealed as a vicious fraud – the argument always comes back that we *need* government to supply us with public goods such as protection, regional defence, roads etc.
+Niwon ti iwa ipa ijọba ti ṣe ifarahan - ati irufẹ ti a gba ti a n pe ni "gbigbero lori ilana gbigbekele" ti awọn ara ilu ti ṣe afihan gẹgẹ bi jibiti nla - ariyanjiyan naa ma n pada wa pe a nilo ijọba lati se to ohun ti o dara àpẹẹrẹ bi idabo, olugbeja agbegbe, ọna ati bebe lọ.
 
-I have written dozens of articles exposing the falsehood of this position, so I will not bother to reiterate those arguments here, since they are not essential to a book on morality, but rather would be more appropriate to a book explaining the principles and practicalities of a voluntary society.[^4]
+Mo ti kọ opolopo aroko ti o fihan irọ awọn ipo yi, nitori naa mo ni sero lati ṣe awọn ariyanjiyan nibi ba yi, nigba ti wọn ṣe pataki fun iwe to dale lori imọ iwa, sugbọn yo wulo fun iwe to n salaye ilana ati awọn isese ti imọ sayensi ailailagidi.[^4]
 
-The “argument from practicality” in no way solves the problem of violence. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
+Awọn "ariyanjiyan lati isese" ni ọna kan naa ko yanju isoro iwa ipa. Ti mo ba ri ẹ to n jẹ buredi oyinbo lojojumo, mo le sọ wipe o soro fun e lati se bẹ, ti o ba fẹ ṣe abojuto ìlera to dara. Mi ko le beere pe o jẹ nkan buburu fun ẹ lati jẹ buredi oyinbo, fun awọn idi ti a ti sọ tẹ́lẹ̀. Mi ko le gba ẹ niyanju pẹlu agidi lati ṣe alekun "asese" ti awọn iwa rẹ.
 
-Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
+Bayi sísọ wipe awọn ijọba ni lare ni mimu wọn lati ṣe "ilowo" jẹ iro nla, ti a ṣe ijerisi nipa ilana UPB - ti a ba ṣe akiyesi pe solusan ijọba jẹ "ilowo" díè si, eyi ti o jẹ pe wọn dé wa ri bẹẹ.
 
-Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
+Bakan naa, ti awọn asoju ijọba ba pero pe adehun ifowosi jẹ ki wọn lo ipa agbara lori onilu "alaimokan" lati wuwa "ọmọlúwàbí",wọn ti ṣe idena ti ko ṣe dojú kọ.
 
-If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
+Ti mo ba lo ipa agbara fun obinrin lati fẹ okunrin ti mo ti yan fun, dajudaju mo gbagbọ pe mo ni oye to dara nipa ibaramu ọkọ fun arabinrin naa ju bo ṣe ro lọ. Ni pato, mi o gbagbọ pe arabinrin yi si lati ṣe ayẹwo rara, tabi ki o ni itokasi nipa ti ifẹ ara rẹ, nitori emi ko ṣe akiyesi nipa nkan ayanfe rẹ, sugbọn mo n nipa agbara le lori lati fẹ arakunrin ti mo yan fun.
 
-When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
+Ti mo ba lo ipa agbara fun arabinrin yi lati fẹ ọkọ, mo le daba lilo agbara nikan - lori nipa lilo lori nkan pẹlu ọpọlọ lesekese - nipa wiwa pe arabinrin naa ko ni isaro aibamu lati ṣe awọn asayan rẹ ati akiyesi si igbeyawo.
 
-If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. If she has no idea what constitutes a good or suitable husband, then how can she evaluate me as fit to decide who will be a good or suitable husband for her?
+Ti arabinrin naa ko ni isaro aibamu lati ṣe awọn asayan rẹ ati akiyesi si igbeyawo, ni ododo tó han o tun jẹ pe arabinrin naa ni isaro aibamu lati ṣe dámọ̀ràn asoju lati ṣe yiyan na fun. Ti arabinrin naa ko ba lero nkan ti o ba sopo ọkọ ti o ba dara, bayi bawo lo ṣe ma ro simi pe mo jẹ ẹni tí o sọ fun lati pinnu ẹni ti o ṣe ọkọ daradara tabi olorire fun?
 
-If a man of extraordinarily low intelligence does not understand the concept of “health,” would it be reasonable to expect him to be rational in his choice of a doctor? In order to competently choose a doctor, we must understand the concepts of health, efficacy, cost, professionalism and so on. In the same way, if I do not allow a woman to have any say in who she marries, then clearly I must believe that she has no understanding of what makes a good husband – but if she has no understanding of what makes a good husband, then she has no capacity to transfer that choice to me, since she will have no way of evaluating *my* criteria for what makes a good husband.
+Ti alakunrin onímọ̀ kekere ko ba ni oye ilana "ilera", ṣe o ma mogbọn wa ti a ba reti rẹ ki o sọ ọrọ ododo ninu ayanfe ìṣe dokita to fẹ yan? Lati le yan ìṣe dokita pẹlu ayanfe ọkan, a gbọdọ ni oye ilana ilera, iwa agbara rere, iye owo, alamodaju ati bẹbẹlọ. Ni ọna kan naa, ti mo ba gba awọn obinrin laaye lati ni ipin ọrọ si ẹni ti yo fẹ, nigba naa lododo mo gbọdọ gbagbọ pe arabinrin naa ko ni oye nkan to seda ọkọ gidi - sugbọn ti ko ba ni oye nkan ti o seda ọkọ gidi, nigba naa ko ni ẹtọ tabi agbara lati pín ayanfe naa sọ́dọ̀ mi, nigba ti ko si ọna ti yo fi gbekale  awọn awari fun nkan ti o seda ọkọ rere.
 
-If I cannot decide what colour to paint my house, and my solution is to sign a contract with a painter allowing him to choose the colour for me – and in that contract I sign away all my future freedoms to resist his decisions, and give him the right to kidnap and enslave me if I disagree with any of his decisions, or refuse to pay for them – then clearly I am not of sound mind. If I give someone the power to compel me *for the rest of my life*, then clearly I do not believe that I am competent to make my own decisions.
+Ti mi o ba le pinnu iru awo ti mo fẹ kun ile mi, ati pe ọna àbáyọ mi ni lati towo bowe pẹlu oni akunle gbigba fun lati yan awo fun mi - ati ninu iwe adehun naa mo tọ wo bowe fun ominira ọjọ iwaju mi lati dẹ́kun awọn ipinnu rẹ, ati fun ni ẹtọ lati jimigbe ati komi lẹru ti mo wa ṣe aigba pẹlu awọn ipinnu rẹ, tabi kọ lati sanwo fun wọn - nigba naa lododo mi ko ṣe ti ọkan ti o dara. Ti mo ba fun eyan lagbara lati sọ rán mi fun gbogbo igbesi aye mi, lododo emi ko gbagbọ pe mo tó lati ṣe ìpinnu témi fún rárá mi.
 
-If I do not think that I am competent to make my own decisions, then clearly my decision to subject myself to violence *for the rest of my life* is an incompetent decision.
+Ti mo ba ro pe mo tó lati ṣe awọn ipinnu mi, sibe o han dajudaju pe ipinnu mi lati koju ara mi si iwa ipa fun ọjọ gbogbo aye mi jẹ ipinnu buburu.
 
-Either I am capable of making competent decisions, or I am not. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. If I am *not* capable of making competent decisions, then my decision to subject myself to force for the rest of my life is also invalid.
+Boya mo to lati ṣe ipinnu daadaa, tabi mi o tó. Ti mo ba tó lati ṣe ipinnu daradara, sibe fifi ara mi koju si ila agbara fun ọjọ gbogbo aye mi o dara. Ti mi o ba si tó lati ṣe ipinnu to dara fun ara mi, sibe naa awọn ipinnu mi lati koju ara mi si iwa ila agbara fun ọjọ gbogbo aye mi naa o si dara.
 
-Even if the above considerations are somehow bypassed, however, it is still impossible to justly enforce a social contract through a government. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+Ti awon ayewo ti a sọ loke jẹ iyi ti wọn foju ko segbe, sibesibe, o si soro lati mu ni alagbara adehun ijosepo lati ọdọ ìjọba. Lododo, emi ko le towo bo iwe fun dípò rẹ, tabi dípò awọn ọmọ mi, ti o ma di lori emi si ìwọ tabi awọn fun gbogbo asiko to ba ku. Emi ko le ra ọkọ ayokele, ki n fi iwe iye owo ranse, ati pe ki n fi agidi sọ wipe ko sanwo. Ti mo ba beere agbara lati pàṣẹ adehun asori lori rẹ. UPB gan yo nda ìwọ lagbara yi, ati pe o ma da adehun naa pada simi lórúkọ mi.
 
-In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
+Ni ọna kan naa, ti mo ba gbero lati sanwo ori mi laisi idiwo lati ọwọ ẹnikẹni, mi ko le gbe afa ayanfe le yin lori, niwon ti o jẹ pe adehun alase àti ọkàn wa jẹ ilana ti ara ẹni, bi bẹni a ko le fipa le ẹnikẹni lori nipasẹ iwa ipa.
 
-### The Necessity Of The State?
+### Awọn Pataki Ipinle?
 
-This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
+Ibeere yii gan jẹ iyi ti o balo ti a ba wo iwa rere ti o wọpọ "idalare" fun agbara ijọba awa eniyan, ti o ba le lori "ifẹ ti ọpọlọpọ."
 
-First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
+Lakooko naa, "ifẹ ọkan" jẹ abala ninu eniyan, nigba ti "ọpọlọpọ" jẹ abala fun awọn eyan ti o pọ. Awọn "ọpọlọpọ" o le ni "ifẹ ọkan" ju "egbe ila" le "bímọ". Ti o ba jiyan eleyi, gbiyanju lati kọ ile igi pẹlu ilana "ilana" dípò ju ọpọlọpọ igi ti a ma ko papọ.
 
-Two additional objections constantly recur whenever the question of the necessity of a government arises. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
+Awọn idiwo afikun meji mà n yọjú lorekore nigba ti ibeere pataki ijọba ba wu yọ. Akọkọ ni wipe agbegbe àwùjọ ọ̀fẹ́ ṣe ṣíṣe nikan ti awọn eniyan ba dara gan tabi wọn ni ero kero - ni awọn ọrọ miiran, pe awọn ọmọ onilu nilo ijọba ti a pín nitori awọn eniyan buburu wa nile aye yi.
 
-The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Citizens can protect themselves against evil individuals, but stand no chance against an aggressive government armed to the teeth with police and military might. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
+Eyi àkọ́kọ ati isoro tí o han kedere pẹlu ipo yi ni wipe ti awọn eyan buburu ba wa ni ayika wa, wọn ma wa laarin ijọba - ati pe wọn ma tún lewu si pẹlu ẹ. Ara ilu le dáàbò ara wọn fun awọn eyan buruku wọnyi, sugbọn wọn ni anfani lòdì sí ijọba alagidi ti o ni agbara de ọdọ awọn Ọlọpa ati awọn ọmọ ogun pẹlu. Bayii ariyanjiyan pe anilo ijọba nitori awọn eyan buburu wa jẹ irọ nla. Ti àwọn eyan buburu ba wa laaye, ijọba naa gbọdọ tuka, ni wọn gba ti awọn eyan buburu yẹn yo nilo agbara naa fun isẹ buruku ti wọn fẹ ṣe - ati pe, ìyàtọ̀ sì awọn ọmọ alajagidijagan aladani, awọn eyan buburu ninu ijọba ni Ọlọpa ati awọn ọmọ ogun lati kọya fun awọn alaileyan (ati awọn ti wọn lagbara ìbọn tabi ojalu) olugbe. Bayii ariyanjiyan naa gbero si ero pe "awọn eyan ayederu lewu gan, nigba naa ki a ṣètò anikanse lori ayederu fun awọn egbe eyan kekere kan". Nibo ni ile aye ni awọn eyan rò pe awọn ayederu ni o kọ́kọ́ lọ?[^5]
 
-Logically, there are four possibilities as to the mixture of good and evil people in the world:
+Nipasẹ ologbon, o ni ó ṣeé ṣe mẹrin si ipapo awọn eniyan tó dara ati buru ni ile aye yi:
 
-1. All men are moral.
-2. All men are immoral.
-3. The majority of men are immoral, and a minority moral.
-4. The majority of men are moral, and a minority immoral.[^6]
+1.	Gbogbo eniyan lo lẹkọ.
+2.	Gbogbo eniyan ni ko lẹkọ.
+3.	Awọn ọpọlọpọ eniyan ni o lẹkọ, ati pe awọn díè lẹkọ.
+4.	Awọn ọpọlọpọ eniyan lo lẹkọ, ati pe awọn díè o lẹkọ.[^6]
 
-In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
+Ni idi àkọ́kọ́ (gbogbo eniyan lo lẹkọ), a ko nilo ijọba pẹlu bi a ṣe wo, nigba ti ibi ko le wá sáyé.
 
-In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+Ni idi keji (gbogbo eniyan ni ko lẹkọ), a ko le gba ijọba laaye lati wa fun idi tó rọrùn yi. Awọn ijọba, wọn ti jiyan ẹ tẹ́lẹ̀, gbọdọ wa laaye nitori awọn eyan buburu wa ni ile aye ti o lero lati ṣe iṣẹ́ ibi, ati pe awọn ti a le ka kò lati ijere ijiya ọdọ ijọba (Ọlọpa, ẹ̀wọ̀n, ati bẹbẹlọ). Afikun ariyanjiyan yi ni wipe ijere ijiya ijọba kekere ti awọn eniyan yi ba bẹru, ibi tọ má má ṣèèṣì.
 
-However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
+Sibẹsibẹ, ijọba fúnra rẹ ko lodi si iwa alagbara tabi ijere ijiya, sugbọn o jẹ ofin fun ara rẹ. Ni awọn ijọba orile ede gẹ̀ẹ́sì, Ọlọpa ati oselu wo lo n lọ ṣe wọn?
 
-Thus if evil people wish to do harm, but are only restrained by force, then society can *never* permit a government to exist, because evil people will work feverishly to grab control of that government, in order to do evil and avoid retribution. In a society of pure evil, then, the only hope for stability would be a state of nature, where a general arming and fear of retribution would blunt the evil intents of disparate groups. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
+Bayi ti awọn eyan buburu fẹ lati ṣe ibi, sugbọn a dẹkùn wọn pẹlu agbara, nigba naa àwùjọ ko le gba ki ijọba wa laye, nitori awọn eyan buburu yo ṣíṣe buruku lati gba idari ijọba naa, ni ọna lati ṣe iṣẹ́ ibi ati pe ki wọn  yẹra fun ijiya. Ni awujọ ibi, sibe, ireti kan ṣoṣo tó wà fun ìdúróṣinṣin yoo jẹ iseda ipinle, níbi tí ibube gbogbo ati iberu ijiya yo tuka ẹgbẹ́ ibi ti ọpọlọpọ tó ti gbero rẹ sọ kan. Bi àpẹẹrẹ ti o ti ṣe laarin awọn orile ede kemika iparun, "iwọntún-wọnsì agbara" ṣe alafia.
 
 The third possibility is that *most* people are evil, and only a few are good. If that is the case, then the government also cannot be permitted to exist, since the majority of those in control of the government will be evil, and will rule despotically over the good minority. Democracy in particular cannot be permitted, since the minority of good people would be subjugated to the democratic control of the evil majority. Evil people, who wish to do harm without fear of retribution, would inevitably control the government, and use its power to do evil free of the fear of consequences.
 
