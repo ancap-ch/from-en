@@ -16,9 +16,9 @@ Tulad ng nabanggit sa bandang itaas, ang mga salaysay tungkol sa pag-uugali ng h
 
 Sa isip, dapat nating gawin ang mga ito hanggang sa dalawang mga kategorya lamang - higit na mas maganda at ahestetikali na positibo - sa pamamagitan ng pagtukoy sa ating etikal na panukala para ang ipinagbabawal sa lahat ay isang salamin na larawan ng kung ano ang higit na mas mganda, at ang paghuhukay lamang ng personal na mga kagustuhan at neutral na mga aksyon na walang kaugnayan sa isang diskusyon ng etika.
 
-For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
+Para sa pagkakataon, ang Prinsipyo ng hindi Pagsalakay (NAP) na ang pagsisimula ng paggamit ng lakas ay imoral - kaya ang hindi-pagsisimula ng paggamit ng lakas ay higit na mas maganda, samantalang ang pagsisimula ng paggamit ng lakas ay ipinagbabawal sa lahat. Kung ang pinagbawalan ay simple lamang ang kabaligtaran ng kung ano ang mas mabuti, diyan ay talagang hindi na kailangan para sa isang karagdagang kategorya.
 
-Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+Bukod pa rito, bilang mga pilosopong moral, dapat nating unahin ang ating pagsusuri sa makatuwiran na etika sa pamamagitan ng pagtukoy sa mga kapansin-pansin na mga paglabag. Malinaw na, ang mga pinakapopular na aksyon ay dapat na ang masama na pagpapatupad ng di-makatarungang mga kagustuhan sa iba. Kung ang mga pagkilos gaya ng "pagnanakaw" o "pagpatay" ay tinukoy bilang UPB, ang pagsusuri ng mga naturang mga kahulugan ay dapat na ang aming pinakamataas na prayoridad.
 
 Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
 
