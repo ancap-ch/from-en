@@ -18,7 +18,7 @@ Ang ating ninanais upang maging mabuti – napagsamang pangingilig ng kabutihan 
 
 Isang sentro dahilan na alam natin na ang pamahalaan at mga diyos ay hindi kaylangan ang mga ito kaya naging mabisa. *alam ng lahat na marami sa mga tao ang desperadoong nais na maging mahusay na dahilan sila ay napakadaling kontrolin sa pamamagitan ng mabuti mga palagay*.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+Ang katwiran ng pagka masunurin sa mga alamat ay malinaw na isang hanagal. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
 
 Of course not.
 
