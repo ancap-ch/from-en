@@ -38,4 +38,4 @@ Wenn also die größten Gefahren für die Menschheit falsche ethische Theorien s
 
 Kommen wir nun zu dieser Aufgabe.
 
-Oder besser gesagt: "*erzwungene* Erziehung ist eine Tugend" - meine Eltern waren gezwungen, Steuern zu zahlen, und ich war gezwungen, daran teilzunehmen.
+[^12]: Oder besser gesagt: "*Erzwungene* Erziehung ist eine Tugend" - meine Eltern waren gezwungen, Steuern zu zahlen, und ich war gezwungen, daran teilzunehmen.
