@@ -38,9 +38,9 @@ Se eu disser que dois mais dois é igual a cinco, estou a cometer um erro que po
 
 ### Próxima Paragem: O "Universo Alternativo"
 
-In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
+Em geral, a maneira como as pessoas tentam "salvar" as suas crenças anti-empíricas e ilógicas, é criando um "reino alternativo" ou "universo alternativo", onde as suas afirmações contraditórias possam ser verdadeiras, de algum modo.
 
-If I say: “A square circle exists,” I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
+Se eu disser: "Existe um círculo quadrado", estarei a afirmar algo que é claramente impossível, neste universo. Assim, se eu quiser manter a minha crença, devo inventar algum outro universo, ou reino "fora" deste, onde possa existir um círculo quadrado.
 
 If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
 
