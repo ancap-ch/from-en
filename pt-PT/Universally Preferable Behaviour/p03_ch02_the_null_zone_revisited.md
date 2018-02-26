@@ -44,7 +44,7 @@ Se eu disser: "Existe um círculo quadrado", estarei a afirmar algo que é clara
 
 Se eu construir um reino em que a contradição seja igual à verdade, então posso afirmar que aqueles que dizem que um círculo quadrado *não* existe, são intolerantes e prejudiciais, porque estão a descartar possibilidades que *poderiam* ser verdadeiras.[^1]
 
-Existem apenas duas possibilidades em relação a esta "zona nula". Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
+Existem apenas duas possibilidades em relação a esta "zona nula". Ou esta *zona nula* existe completamente independente do nosso universo e nunca será mensurável, detectável ou descoberta de qualquer maneira ou forma - ou, nalgum momento, seremos capazes de detectar e interagir com Esta terra mágica onde a contradição é igual à verdade.
 
 If, at some point, it turns out that we *are* able to interact with this *null zone*, then we shall have direct sensual or rational evidence of its existence. In other words, it must “protrude” into our universe in some manner. However, the moment that it becomes detectable in our universe, it must have rational and empirical existence, like everything else we can detect. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
 
