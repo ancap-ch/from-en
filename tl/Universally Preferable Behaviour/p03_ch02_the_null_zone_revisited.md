@@ -30,7 +30,7 @@ Masasabi natin na:
 
 Ang pangatlong asersyon ay isang kumpletong pansariling kontradiksyon. "katotohanan" ay malayang pagnanais, dahil ang pagnanais ay ka kahulugan ng pansariling paksa, ang katotohanan ay kahulugan ng isang pag sang ayon sa isang ideya na may magaling na layunin ng lohika at reyalidad na empirikal. Dahil sinasabing ang mga bagay na katotohanan sa *gusto* ay maaring totoo upang maging kasama sa pinanigan, na kung saan ay may pagsalungat sa pansariling pahayag.
 
-Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
+Panatikong pagnanais -o "pananampalataya" - sa kahulugan ay hindi pwedeng subukan, dahil sila ay hindi naniniwala sa * pagkawala* ng patunay, pero ang paniniwala sa *pagsuway* ng dahilan at ng katibaayan.
 
 We can believe unproven things that turn out to be true – someone doubtless thought that the world was round before it was proven – but the “null zone” is the realm wherein we cling to a belief in things that *could not possibly turn out to be true*.
 
