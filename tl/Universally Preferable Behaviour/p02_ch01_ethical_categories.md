@@ -28,11 +28,11 @@ Ang kabaligtaran ng "kabutihan" ay dapat na "bisyo" - ang kabaligtaran ng "mabut
 
 Ang bawat mas magaling na aksyon sa moral ay dapat sa pamamagitan ng likas na katangian nito ay may tapat na pagkilos - dahil kung hindi, walang kapasidad na mapili, walang posibilidad na iwasan, at samakatuwid ay walang kakayahan para sa kabutihan o sa bisyo. Kung ipanukala ko ang tuntunin ng moralidad: "dapat mong salungatin ang grabidad," pagkatapos ay malinaw na ang moralidad ay nagiging imposible, ang imoralidad ay hindi maiiwasan, at sa gayon ay hindi wasto ang moral na tuntunin.
 
-If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
+Kung ipanukala ko ang moral na tuntunin: "hindi ka dapat pumunta sa San Francisco," ito ay pwedeng lohikal na panibagong parirala bilang: "dapat kang pumunta sa kahit saan ngunit San Francisco." Sa ganitong paraan, ang moral na patakaran na "hindi ka dapat magnakaw" ay maaaring pantay na iminumungkahi sa positibong paraan - "igagalang mo ang mga karapatan sa pag-aari." Dahil ang paggalang sa mga karapatan sa pag-aari ay isang kabutihan, ang paglabag sa mga karapatan sa ari-arian ay dapat maging isang bisyo.
 
-### What Is Missing
+### Ano ang Nawawala
 
-Conspicuously absent from the above list are traditional virtues such as courage, honesty, integrity and so on – as well as their opposites: cowardice, falsehood and corruption.
+Ang napakahalagang pagliban mula sa listahan na nasa itaas ay mga tradisyunal na virtues gaya ng tapang, katapatan, integridad at iba pa - pati na rin ang kanilang mga kabaligtaran: kataksilan, kasinungalingan at katiwalian.
 
 It may seem that these virtues should fall into the realm of aesthetically positive behaviour, such as being on time, but I for one have far too much respect for the traditional virtues to place them in the same category as social niceties. The reason that they cannot be placed into the category of universally preferable is that, as we mentioned above, the framework of UPB only deals with *behaviours*, not with attitudes, thoughts, states of mind or emotions. The scientific method can process a logical proposition; it cannot process “anger” or “foolhardiness.” These states of mind are not unimportant, of course – in fact, they are essential – but they cannot be part of any objective system for evaluating ethical propositions, since they are essentially subjective – and therefore unprovable – states of being.
 
