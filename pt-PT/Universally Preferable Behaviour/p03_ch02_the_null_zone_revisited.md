@@ -34,9 +34,9 @@ Afirmações intolerantes - ou "fé" - por definição, não podem ser provadas,
 
 Podemos acreditar em coisas não comprovadas que se tornam verdadeiras - alguém, sem dúvida, pensou que o mundo era redondo antes de que fosse comprovado - mas a "zona nula" é o reino onde nos aferramos a uma crença em coisas que *nunca se poderiam tornar verdadeiras*.
 
-Se eu disser que dois mais dois é igual a cinco, estou a cometer um erro que pode ser corrigido com relação à lógica. If I say that I believe that a square circle exists, then I am making an explicitly self-contradictory statement, which disproves itself. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+Se eu disser que dois mais dois é igual a cinco, estou a cometer um erro que pode ser corrigido com relação à lógica. Se eu disser que acredito que existe um círculo quadrado, estou a fazer uma afirmação explicitamente contraditória, que se desmente a si própria. Se for ainda mais longe e afirmar, enfaticamente, que "foo mais tury é igual a desty" - e recuso-me a definir qualquer um dos meus termos - estou a fazer uma afirmação sobre a qual a lógica e a evidência *não podem ser aplicadas*.
 
-### Next Stop: The "Alternative Universe"
+### Próxima Paragem: O "Universo Alternativo"
 
 In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
 
