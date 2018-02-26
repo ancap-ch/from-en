@@ -24,9 +24,9 @@ Kung hindi ako naniniwala na ako ay may kakayahan na magdesisyon para sa aking s
 
 Maaaring ako ay may kakayahan na gumawa ng tamang desisyon, o wala. Kung *ako* ay may kakayahan na gumawa ng tamang desisyon, kung gayon ang ipasailalim ang aking sarili sa pwersa sa buo kong buhay ay walang bisa. Kung ako ay *walang* kakayahan na gumawa ng tamang desisyon, kung gayon ang ipasailalim ang aking sarili sa pwersa sa natitira ko pang buhay ay wala ring bisa.
 
-Kung ang mga nasabing konsiderasyon ay malagpasan, gayonpaman, imposible pa rin na patas na ipatupad ang isang sosyal na kontrata sa pamamagitan ng pamahalaan. Maliwanag na hindi ako pipirma ng kontrata sa ngalan *mo*, o sa ngalan ng aking mga anak, na siyang magbubuklod sa iyo o sa kanila sa natitira pang oras. Hindi ako bibili ng kotse, ibibigay sa iyo ang bayarin, at basta-bastang utusan kang bayaran ito. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+Kung ang mga nasabing konsiderasyon ay malagpasan, gayonpaman, imposible pa rin na patas na ipatupad ang isang sosyal na kontrata sa pamamagitan ng pamahalaan. Maliwanag na hindi ako pipirma ng kontrata sa ngalan *mo*, o sa ngalan ng aking mga anak, na siyang magbubuklod sa iyo o sa kanila sa natitira pang oras. Hindi ako bibili ng kotse, ibibigay sa iyo ang bayarin, at basta-bastang utusan kang bayaran ito. Kung aking inaangkin ang pagpataw ng unilateral na kontrata sa iyo, ang UPB ay nagkakaloob din ng ganitong kapangyarihan sa *iyo*, kung kaya't ibabalik mo lang din ang kontrata sa aking pangalan.
 
-In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
+Sa parehas na paraan, kahit na piliin kong boluntaryong bayaran ang aking buwis, hindi ko basta-basta maipapataw ang opsyon na iyon sa iyo, dahil ang boluntaryong kontrata ay isa lamang kagustuhan, at hindi maaaring ipatupad ng pangkalahatan gamit ang karahasan.
 
 ### The Necessity Of The State?
 
