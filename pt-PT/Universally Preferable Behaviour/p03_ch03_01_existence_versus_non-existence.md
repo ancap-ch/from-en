@@ -62,13 +62,13 @@ Se eu comprar um uniforme de soldado numa loja de segunda mão e vesti-lo, evide
 
 Perguntei estas questões retóricas, porque elas são realmente sérias. Evidentemente, um uniforme militar não altera a natureza de um ser humano, mais do que um corte de cabelo o transforma num pato, num conceito ou num deus.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+Você pode dizer, "ah" "mas o uniforme é inválido porque o conseguiu numa loja de segunda mão - vestir um uniforme de soldado não o faz mais soldado do que a fotocópia de um diploma de doutor o faz doutor
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+A analogia é incorrecta, porque ter um Ph.D. ou fotocopiar um doutorado, não altera nenhuma das regras morais às quais é submetido como ser humano.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+Ainda pode responder "bem", "mas a diferença é que o soldado possui direitos morais que lhe são fornecidos pelo cidadão comum, por uma questão de legítima defesa colectiva, e assim por diante"
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Isso trás à superfície um ponto muito interessante, que é a questão de saber se as opiniões podem mudar a realidade.
 
 ### Opinions And Reality
 
