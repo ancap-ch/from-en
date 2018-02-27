@@ -102,7 +102,7 @@ Kung ang pagnanakaw ay moral na mabuti, pagkatapos ay muli nating harapin ang pr
 
 Kung gayon, kung ang pagnanakaw ay mabuti, pagkatapos ang kabutihan ay nagiging isang estado na matutupad lamang sa sandaling si Doug ay magnakaw kay Bob ng layter. Sa sandaling iyon, si Doug lamang ang maaaring maging moral, at si Bob ay hindi maaari. Pagkatapos nito, ang kabutihan ay nagiging imposible upang makamit para sa alinmang partido, maliban kung di Doug ay nagpapanatili ng pagbibigay ng layter pabalik kay Bob at pagtakatpos ay muli itong kuhain.
 
-Of course, it seems patently ridiculous to imagine that the ideal moral state is for one man to keep giving another man back the property he has stolen, and then immediately stealing it again. Thus logic seems to validate our instinctual understanding of the foolishness of this as a moral ideal – but let’s go a little further, to see if it still holds.
+Siyempre, ito ay nakakatawang isipin na ang perpektong estado na mabuti ay para sa isang tao na patuloy na nagbibigay ng ibang tao pabalik sa ari-arian na kanyang ninakaw, pagkatapos ay agad na magnakaw ito muli. Kaya ang lohikal ay tila upang patunayan ang ating likas na pang-unawa sa kahangalang ito bilang isang perpektong moral – ngunit balikan pa natin nang kaunti, upang makita kung hawak pa rin ito.
 
 Remember, we are not particularly concerned with individual criminals, but rather with moral theories that justify violations of property rights. For instance, if Doug steals Bob’s lighter because Doug believes that “No property rights are valid,” then Doug’s moral theory instantly self-detonates.
 
