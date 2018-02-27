@@ -26,7 +26,7 @@ Kapag nilagay namin ang simpleng katotohan na ito ng mga argumento ng etikal, ka
 
 ### Mga kagustuhan at mga argumento
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Pagpapaalala sa ating pag-susuri ng sariling-pagkatalo sa mga argumento, madali naming maiintindihan ang kasalungat na katangian ng inilahad: "ang mga kagustuhan ay hindi umuusbong."given na sa tao ang bawat pagkilos - kasama ang paggawa ng pilosopikong mga salita - na pinili sa kagustuhan sa bawat iba pang mga posibleng aksyon, magtaltalan na ang mga kagustuhan na ginawa na hindi umuosbong na hindi kailangan ng isang *kagustuhan* para sa magtaltalan na ang mga gusto ay hindi umousbong, na kung saan ay isang pasalaungat na pahayag sa sarili. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
 
 Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
 
