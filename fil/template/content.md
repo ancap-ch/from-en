@@ -1,6 +1,6 @@
 # Título da primeira raiz
 
-Below there's an enumerated list of styled pangrams, that shows every character, both in english and also in other languages.
+Binanggit dun sa baba ng listahan ay bilang ng pangrams, na nagpapakita ng bawat karakter, kapwa sa Ingles at iba din sa mga wika.
 
 1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
 2. numbers: 0123456789. 
