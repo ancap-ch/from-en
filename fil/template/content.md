@@ -18,10 +18,10 @@ Below there's an enumerated list of styled pangrams, that shows every character,
 
 Now a non-enumerated list:
 
-* Unang antas
-* Unang antas 
-    * Pangalawang antas
-    * Pangalawang antas 
+* First level
+* First level 
+    * Second level
+    * Second level 
         * Third level
         * Third level
     * Second level
