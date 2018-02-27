@@ -32,7 +32,7 @@ Ako ay nasabihan na, ayon sa kabanalang pagtalaga ng namumuhay sa kanada, ako ay
 
 Nakamit ng mga mitolohiya, ano ang tunay na isinalin nito?
 
-Sa katotohanan, ako ay makapaghihintay hanggang sa matapos ang oras para "ang pamalaan" sa pagdating at pagkuha ang salapi ayon. Ang paghintay sa "pamahalaan" na gumuho ay gaya ng kulang sa petsa o araw ng pagkakakilala sa "pagkababae". puwede koring subukan na magbayad ng aking pang hapunan sa sinasambit na "salapi."
+Sa katotohanan, ako ay makapaghihintay hanggang sa matapos ang oras para "ang pamalaan" sa pagdating at pagkuha ng salapi ayon. Ang paghintay sa "pamahalaan" na gumuho ay gaya ng kulang sa petsa o araw ng pagkakakilala sa "pagkababae". puwede koring subukan na magbayad ng aking pang hapunan sa sinasambit na "salapi."
 
 Sa katotohanan, kapag ako ay nasabihan na kailangan kong magbayad ng aking buwis sa "pamahalaan"ano itong tunay na ipinababatid na marapat kong itala ang isang tseke upang isalin ang aking salapi sa isang partikular na account sa bangko, na kung saan ay ang na pagtapos ng na-acess na mga detalye ng isang tao. Ang mga taong ito ay mayroong karapatan na kuhain ang salapi, at ibili ito na akma sa kanilang nakikita o kagustuhan – ang mga detaye ng bawat tao ay mayroong kumpletong pamamahalang higit sa aking salapi.
 
