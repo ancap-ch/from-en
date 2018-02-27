@@ -36,7 +36,7 @@ Ang sunod na tanong ay magiging ganto: ang mga kagustuhan ay pawang pansarili, o
 
 Malinaw, ang mga ilang kagustuhan ay pangsarili. mga gustong musika, pansariling libangan, paboritong panitikan at iba pang lahat ay pansarili at personal na kagustuhan.
 
-The challenge arises when we try to define some preferences as *objective*.
+Ang pagsubok ay lumabas kapag sinubukan naming alamin ang ilang mga kagustuhan bilang *layunin*.
 
 The proposition before us is thus: *can some preferences be objective, i.e. universal?*
 
