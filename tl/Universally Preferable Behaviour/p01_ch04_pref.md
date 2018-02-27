@@ -24,7 +24,7 @@ Given na ang mga nilalang ay pwedeng gumawa ng isang malapit na walang iba't iba
 
 Kapag nilagay namin ang simpleng katotohan na ito ng mga argumento ng etikal, kami ay merong mga ilang talagangkawiwiling mga resuslta.
 
-### Preferences And Arguments
+### Mga kagustuhan at mga argumento
 
 Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
 
