@@ -46,9 +46,9 @@ Kaya kapag sinabi ko ang tungkol sa mga kagustuhan na pang-unibersal, tinatalaka
 
 Gayon din, kung ang isang lalaki ay gusto na gamutin ang isang impeksyon, siya ay *kailangan* kumuha ng mga antibyotiko sa halip na magsagawa ng isang Aztec rain dance. Ang kagustuhan para sa pagkuha ng mga antibyotiko sa kesa sa paggawa ng rain dance ay panglahatan, dahil ang pagsasayaw ay hindi makakakagaling sa mga impeksyon. Samakatuwid, kahit na merong paminsan-minsang luko-luko na susubukang gamutin ang kanyang sarili sa pamamagitan ng pagsasayaw, ito parin *higit na mabuti sa buong mundo* na kung ang isang lalaki na gamutin ang kanyang sarili, kailangan syang kumuha ng mga antibyotiko.
 
-Sa mga ibang salita, kung gusti mong makapunta sa ibabaw ng isang bundok, ang hangarin na hindi kailanman ito gagana. Kung gusto mo maunawaan ang mga pinanggalinga ng mundo, ang pagdasal ay hindi kailanman maibibigay ang sagot. Ang mga tao hanggan ngayon ay nagnanais, at nagdadasal, ngunit hindi na ito nagagawa nang paulit-ulit na pagnanais o pagdadasal. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+Sa mga ibang salita, kung gusti mong makapunta sa ibabaw ng isang bundok, ang hangarin na hindi kailanman ito gagana. Kung gusto mo maunawaan ang mga pinanggalinga ng mundo, ang pagdasal ay hindi kailanman maibibigay ang sagot. Ang mga tao hanggan ngayon ay nagnanais, at nagdadasal, ngunit hindi na ito nagagawa nang paulit-ulit na pagnanais o pagdadasal. Ang pag-iisip na ito, tukuyin natin ang tanong kung ang mga kagustuhan sa panglahatan ay pwedeng balido.
 
-### Arguments And Universality
+### Ang mga argumento at pandaigdigan
 
 If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
 
