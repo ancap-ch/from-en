@@ -72,9 +72,9 @@ Isso trás à superfície um ponto muito interessante, que é a questão de sabe
 
 ### Opiniões E Realidade
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Entendemos, claramente, que não posso libertá-lo das restrições da gravidade, através da minha opinião, mais do que posso, através da mesma, tornar verdade que "dois mais dois são cinco".
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+As "Opiniões" são aquelas crenças que não têm evidências claras na realidade, ou para as quais não podem ser fornecidas evidências claras ou que são expressões de simples preferências pessoais. A minha opinião pessoal é que prefiro o sorvete de chocolate ao de baunilha - também posso ter uma "opinião" de que a Islândia é um paraíso tropical, ou que Deus existe, ou que a chuva cai para cima. As opiniões pessoais não têm nada a ver com a moralidade; As opiniões que afirmam descrever a realidade com precisão, mas que não o fazem, são apenas preconceitos incorrectos. Acreditar que a chuva cai para cima não reverte o seu curso; Usar uma camisa havaiana na Islândia não faz do Reykjavik nenhum aquecedor.
 
 Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
 
