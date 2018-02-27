@@ -40,9 +40,9 @@ Sa puntong walang kahit anumang kagaya ng nentidad na "ang pamahalaan" ay itaas 
 
 Kaya naman ang totoong pakikipag-ugnay sa isang lalaki na pinadalhan ako ng isang sulat na nagpapahayag sa akin na ako daw ay mayroong kautangang salapi. Ako ay walang kasunduan sa lalaking ito, at siya ay hindi totoo nagmamay-ari ng anuman sa aking mga pag-aari, kahit na ibang mga lalaki pa ang sumulat dapat ay isang "kasunduan".
 
-If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
+Kapag hindi ko nabayaran ang lalaking ito, magpaparating pa siya ng isa pang lalaki patungo sa aking tahanan para maningil ng salapi – dadagdagan ng "tubo" at "mga dagdag singil."
 
-Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Kalimitan, kung ang isang lalaki na mayroong isang baril ay napadpad sa aking tahanan at hinihingi ang aking salapi, ako ay mayroong marapat na gumamit ng aking lakas para magtanggol sa aking sarili. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
 
 Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
 
