@@ -44,7 +44,7 @@ Os soldados, claro, usam roupas diferentes das do cidadão comum. O cidadão com
 
 Vamos dar outro exemplo.
 
-O roubo é moralmente errado, como vimos anteriormente. É moralmente errado para todas as pessoas, em todas as situações, em todos os momentos e em todas as circunstâncias. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+O roubo é moralmente errado, como vimos anteriormente. É moralmente errado para todas as pessoas, em todas as situações, em todos os momentos e em todas as circunstâncias. Como o roubo é a extracção forçada da propriedade de outra pessoa, sem consentimento, então a tributação é sempre, universalmente e para sempre um mal moral. A taxação é, por definição, a remoção forçada da propriedade de alguém sem o seu consentimento, dado que a tributação baseia-se no início do uso da força para tirar a uma pessoa, a sua propriedade.
 
 What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
 
