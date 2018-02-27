@@ -1,8 +1,8 @@
-## Ang Ikalawang Pagsubok: Pagpatay
+## Ang Ikalawang Pagsususri: Sa Pagpatay
 
-Subukan natin ngayon ang balangkas ng UPB laban sa mga panukalang moral tungkol sa *pagpatay*, na dito ay tinukoy na sadyang pagpatay at may premeditation, hindi sa pagtatanggol sa sarili.
+Let us now test the UPB framework against moral propositions regarding *murder*, which here is defined as killing intentionally and with premeditation, not in self-defence.
 
-Sapagkat ginugol namin ang labis na oras sa pagpapalaglag sa tanong ng panggagahasa - at dahil marami sa mga parehong argumento ay magagamit dito - ang pagtatasa na ito ay maaaring maging mas maikling.
+Since we spent so much time dissecting the question of rape – and since many of the same arguments will apply here – this analysis can be much briefer.
 
 Let us return to our two moral guinea pigs sitting in a room – we’ll call them Bob and Doug.
 
