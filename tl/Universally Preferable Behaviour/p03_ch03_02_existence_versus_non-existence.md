@@ -67,9 +67,9 @@ Ang sitwasyon na ito, habang teoretikal na nakakainteresado, ay maaaring lohikal
 2. Walang ibang paraan upang siguruhin na ang mga mabubuting tao lamang ang laging magpapatakbo ng pamahalaan; at,
 3. Walang anumang tiyak na halimbawa nito na nangyari sa anumang brutal na kaganapang naitala sa kasaysayan ng estado.
 
-Ang lohikal na pagkakamali ay ginagawa para sa pagtatanggol ng pamahalaan upang maisip na anumang pangkalahatang panghuhusga na ipinapataw sa anumang grupo ng tao ay *hindi maipapataw din sa grupo ng tao na namumuno sa kanila*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
+Ang lohikal na pagkakamali ay ginagawa para sa pagtatanggol ng pamahalaan upang maisip na anumang pangkalahatang panghuhusga na ipinapataw sa anumang grupo ng tao ay *hindi maipapataw din sa grupo ng tao na namumuno sa kanila*. Kung limampung porsyento ng mga tao ay masama, kung gayon *kahit papaano* limampung porsyento ng mga taong namumuno sa kanila ay mga masasama rin. [^9] Samakatuwid ang pag-iral ng masasama ay hindi kailanman magpapatunay ng pag-iral ng pamahalaan.
 
-If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
+Kung walang masasama, ang mga pamahalaan ay hindi na kainakailangan pa. Kung ang masasama ay umiiral, ang mga pamahalaan ay higit na mas mapanganib na payagang umiral.
 
 Why is this error so prevalent?
 
