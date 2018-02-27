@@ -38,13 +38,13 @@ Se aceitarmos o CUP, também devemos aceitar o seguinte corolário:
 
 - As proposições morais são independentes do traje.
 
-O que significa que um homem não pode mudar a sua natureza moral como muda de roupa. O acto de mudar de roupa não altera a natureza fundamental. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+O que significa que um homem não pode mudar a sua natureza moral como muda de roupa. O acto de mudar de roupa não altera a natureza fundamental. Assim, as regras morais opostas não podem ser válidas, com base nas roupas que está a usar.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Os soldados, claro, usam roupas diferentes das do cidadão comum. O cidadão comum está proibido de assassinar; No entanto, aos soldados, não só se lhes *permite* fazê-lo, como são moralmente *honrados* por assassinar.
 
-Let’s take another example.
+Vamos dar outro exemplo.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+O roubo é moralmente errado, como vimos anteriormente. É moralmente errado para todas as pessoas, em todas as situações, em todos os momentos e em todas as circunstâncias. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
 
 What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
 
