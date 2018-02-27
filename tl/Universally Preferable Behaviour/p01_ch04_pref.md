@@ -30,9 +30,9 @@ Pagpapaalala sa ating pag-susuri ng sariling-pagkatalo sa mga argumento, madali 
 
 Dahil ito ay imposibleeng pag-asksyon nang hindi nagpapahiwatig ng isang kagustuhan - alinman sa nagkataon lamang o tahasan - kahit sinuman ang gumalaw ay tatanggap ng saligan na umuusbong na mga kagustuhan. Kaya ito ay imposibleng pagtalunan ang pag-iral ng mga kagustuhan nang hindi tumatanggap ng pagkakaroon ng mga kagustuhan.
 
-### Preferences And Universality
+### Ang mga kagustuhan at pandaigdigan
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+Ang sunod na tanong ay magiging ganto: ang mga kagustuhan ay pawang pansarili, o pwedeng maging pang lahatan?
 
 Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
 
