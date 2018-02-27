@@ -19,15 +19,15 @@ Sa ibaba, mangyaring mahanap ang kabuuan ng argumento ng buod para sa moralidad.
 
 ## Apendiks B: Ang mga Kategorya ng Moral
 
-Below is a sample table that lists some of the most common categories of actions/rules, and their key differentiators.
+Sa ilalim ay isang halimbawa ng mga listahan ng talahanayan ng ilang sa mga karaniwang mga kategorya ng aksyon/patakaran, at ang kanilang mga differentiator.
 
-| Action/Rule                       | Preference? | Universal? | Enforceable? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                |
-| --------------------------------- | ----------- | ---------- | ------------ | ----------------------------------------------------- | ------------------------- | ----------------------------- |
-| **Running for the bus**           | No          | No         | n/a          | n/a                                                   | n/a                       | Neutral                       |
-| **You should not like ice cream** | Yes         | No         | No           | n/a                                                   | n/a                       | Neutral (personal preference) |
-| **You should not be late**        | Yes         | Yes        | No           | No                                                    | Yes                       | APA                           |
-| **You should not commit fraud**   | Yes         | Yes        | Yes          | Yes                                                   | Yes                       | Good                          |
-| **You should not rape**           | Yes         | Yes        | Yes          | No                                                    | No                        | Good                          |
+| Aksyon/Panuntunan                 | Kagustuhan? | Unibersal? | Maipapatupad? | Ang aksyon ang kinakailangan sa pagsisimula ng panig ng biktima? | Maaari bang iwasan ang mga lumalabag? | Moral na Kategorya            |
+| --------------------------------- | ----------- | ---------- | ------------- | ---------------------------------------------------------------- | ------------------------------------- | ----------------------------- |
+| **Tumatakbo para sa bus**         | Hindi       | Hindi      | n/a           | n/a                                                              | n/a                                   | Neutral                       |
+| **You should not like ice cream** | Yes         | No         | No            | n/a                                                              | n/a                                   | Neutral (personal preference) |
+| **You should not be late**        | Yes         | Yes        | No            | No                                                               | Yes                                   | APA                           |
+| **You should not commit fraud**   | Yes         | Yes        | Yes           | Yes                                                              | Yes                                   | Good                          |
+| **You should not rape**           | Yes         | Yes        | Yes           | No                                                               | No                                    | Good                          |
 
 ## Appendix C: UPB Podcasts
 
