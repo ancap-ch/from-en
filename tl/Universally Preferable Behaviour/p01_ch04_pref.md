@@ -26,9 +26,9 @@ Kapag nilagay namin ang simpleng katotohan na ito ng mga argumento ng etikal, ka
 
 ### Mga kagustuhan at mga argumento
 
-Pagpapaalala sa ating pag-susuri ng sariling-pagkatalo sa mga argumento, madali naming maiintindihan ang kasalungat na katangian ng inilahad: "ang mga kagustuhan ay hindi umuusbong."given na sa tao ang bawat pagkilos - kasama ang paggawa ng pilosopikong mga salita - na pinili sa kagustuhan sa bawat iba pang mga posibleng aksyon, magtaltalan na ang mga kagustuhan na ginawa na hindi umuosbong na hindi kailangan ng isang *kagustuhan* para sa magtaltalan na ang mga gusto ay hindi umousbong, na kung saan ay isang pasalaungat na pahayag sa sarili. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Pagpapaalala sa ating pag-susuri ng sariling-pagkatalo sa mga argumento, madali naming maiintindihan ang kasalungat na katangian ng inilahad: "ang mga kagustuhan ay hindi umuusbong."given na sa tao ang bawat pagkilos - kasama ang paggawa ng pilosopikong mga salita - na pinili sa kagustuhan sa bawat iba pang mga posibleng aksyon, ang pagtatalo sa mga kagustuhan na ginawa na hindi umuosbong na hindi kailangan ng isang *kagustuhan* para sa pagtatalo na ang mga gusto ay hindi umousbong, na kung saan ay isang pasalaungat na pahayag sa sarili. Ang pagtatalo na ang mga kagustohan ay hindi umuusbong ay eksaktong kagaya ng pagtatalo na ang lenggwahe ay hindi umuusbong. Ito ay isang lubosang pagtatalo sa kanyang sarili sa argumento.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+Dahil ito ay imposibleeng pag-asksyon nang hindi nagpapahiwatig ng isang kagustuhan - alinman sa nagkataon lamang o tahasan - kahit sinuman ang gumalaw ay tatanggap ng saligan na umuusbong na mga kagustuhan. Kaya ito ay imposibleng pagtalunan ang pag-iral ng mga kagustuhan nang hindi tumatanggap ng pagkakaroon ng mga kagustuhan.
 
 ### Preferences And Universality
 
