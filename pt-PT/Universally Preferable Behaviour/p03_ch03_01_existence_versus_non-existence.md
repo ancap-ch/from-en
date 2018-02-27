@@ -32,13 +32,13 @@ No entanto, o CUP como estrutura, não só justifica os nossos instintos morais 
 
 #### O CUP Em Acção
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+A estrutura do CUP valida proposições morais, exigindo que elas sejam internamente coerentes e universais em termos de tempo, lugar e pessoas.
 
-If we accept UPB, we must also accept the following corollary:
+Se aceitarmos o CUP, também devemos aceitar o seguinte corolário:
 
-- Moral propositions are independent of costume.
+- As proposições morais são independentes do traje.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+O que significa que um homem não pode mudar a sua natureza moral como muda de roupa. O acto de mudar de roupa não altera a natureza fundamental. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
 
 Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
 
