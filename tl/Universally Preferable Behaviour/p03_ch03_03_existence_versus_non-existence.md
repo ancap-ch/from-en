@@ -38,7 +38,7 @@ Sa katotohanan, kapag ako ay nasabihan na kailangan kong magbayad ng aking buwis
 
 Sa puntong walang kahit anumang kagaya ng nentidad na "ang pamahalaan" ay itaas ang isang daliri, gawin ang isang hakbang, buksan ang bank account, o ibili ang isang sentabos. Pagkaisipin na ang isang konseptong tinawag na "pamahalaan" ay mayroong kakayahang kuhain o ibili ang iyong salapi ng tama na parehas na naghihintay sa "diyos" na sa pagdating at kuhain ka pataas at dalahin ka sa tahanan ng panginoon.
 
-Kaya naman ang totoong pakikipag-ugnay sa isang lalaki na pinadalhan ako ng isang sulat na nagpapahayag sa akin na ako daw ay mayroong kautangang salapi. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+Kaya naman ang totoong pakikipag-ugnay sa isang lalaki na pinadalhan ako ng isang sulat na nagpapahayag sa akin na ako daw ay mayroong kautangang salapi. Ako ay walang kasunduan sa lalaking ito, at siya ay hindi totoo nagmamay-ari ng anuman sa aking mga pag-aari, kahit na ibang mga lalaki pa ang sumulat dapat ay isang "kasunduan".
 
 If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
 
