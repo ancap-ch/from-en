@@ -70,7 +70,7 @@ Ainda pode responder "bem", "mas a diferença é que o soldado possui direitos m
 
 Isso trás à superfície um ponto muito interessante, que é a questão de saber se as opiniões podem mudar a realidade.
 
-### Opinions And Reality
+### Opiniões E Realidade
 
 Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
 
