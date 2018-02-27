@@ -42,7 +42,7 @@ Kaya naman ang totoong pakikipag-ugnay sa isang lalaki na pinadalhan ako ng isan
 
 Kapag hindi ko nabayaran ang lalaking ito, magpaparating pa siya ng isa pang lalaki patungo sa aking tahanan para maningil ng salapi – dadagdagan ng "tubo" at "mga dagdag singil."
 
-Kalimitan, kung ang isang lalaki na mayroong isang baril ay napadpad sa aking tahanan at hinihingi ang aking salapi, ako ay mayroong marapat na gumamit ng aking lakas para magtanggol sa aking sarili. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Kalimitan, kung ang isang lalaki na mayroong isang baril ay napadpad sa aking tahanan at hinihingi ang aking salapi, ako ay mayroong marapat na gumamit ng aking lakas para magtanggol sa aking sarili. Sa kalagayang kong ito, ganoon paman, dahilan sa siya ay nasa isang kasuutan at nang-aangkin sa puwestong piniprisinta sa isang gawa-gawang naisasaisip ng entidad, ako ay hindi sumasang-ayon na gamitin ang aking lakas para maipagtanggol ang aking sarili.
 
 Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
 
