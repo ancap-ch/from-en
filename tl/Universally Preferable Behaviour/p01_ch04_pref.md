@@ -18,7 +18,7 @@ Ang mga kagustuhan ay hindi umuosbong talaga sa loob ng reyalidad. Kung sobra ka
 
 Kami ay makakahanp ng *ebidensya* para sa mga kagustuhan; ang mga kagustuhan ay hindi namin mahanap *ang kanyang sarili* sa reyalidad. Ang mga kagustuhan ay umuusbong gaya ng isang *relasyon* sa pagitan ng kamalayan at materya, gaya ng grabidad na umuosbong bilang isang relasyon sa pagitan ng mga katawan sa pangkat.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Ang mapaghamong mga katanungan ng libreng kalooban sa determinismo, ito ay makatwirang sa pagpapalagay na sa kahit anung gingawa ng isang indibidwal sa hinaharap ay ano ang kanyang "ninais" para gawin. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
 
 Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
 
