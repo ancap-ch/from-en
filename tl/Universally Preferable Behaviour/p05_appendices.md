@@ -7,7 +7,7 @@ Sa ibaba, mangyaring mahanap ang kabuuan ng argumento ng buod para sa moralidad.
 1. Ang layunin ay katotohanan at naaalinsunod.
 2. Ang “lohika” ay ang hanay ng mga layunin at naaalinsunod sa mga alituntunin na nagmula sa pagkakapare-pareho ng katotohanan.
 3. Ang mga teorya na sumusunod sa lohika ay tinatawag na “balido.”
-4. Those theories that are confirmed by empirical testing are called “accurate.”
+4. Ang mga teorya na nakumpirma ng empirikal na pagsuri ay tinatawag na "tumpak."
 5. Those theories that are both valid and accurate are called “true.”
 6. “Preferences” are required for life, thought, language and debating.
 7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
