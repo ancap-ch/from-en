@@ -26,7 +26,7 @@ Kung aalisin natin ang mga mitolohiya at ating katha na mula sa ating "pakikipag
 
 Kuhain natin bilang huwaran ng isang katotohanan at ngayong nakaambang peligro: nagbubuwis.
 
-#### Taxation
+#### Ang pagbubuwis
 
 I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
 
