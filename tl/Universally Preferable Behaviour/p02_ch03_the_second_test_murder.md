@@ -32,8 +32,8 @@ Narito at muli naming natagpuan na ang balangkas UPB ay tapat sa mga tuntunin ng
 
 Pwede naming gawin ang magkaparehong diskarte sa mga tanong ng pag-atake, ngunit ang mga argumento ay magkapareho sa mga ng panghahalay at pagpatay, kaya para sa kapakanan ng kaiklian, dapat naming magpatuloy.
 
-Ating ibalik ngayon ang tanong sa pagnanakaw. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
+Ating ibalik ngayon ang tanong sa pagnanakaw. Kung ang balangkas na ito ay totoo rin dito, pagkatapos ay naabot namin ang perpektong trifecta ng aming mga likas na moral na pag-unawa, at natagpuan nakapangangatwiran kumpirmasyon para sa aming mga umiiral na paniniwala. Nalaman namin ang mga matematika na nagpapaliwanag kung paano namin maipagpapatuloy ang isang bola, at ito ay isang kinakailangang pagsisimula.
 
-### Self-Defence?
+### Ang Pag-depensa sa Sarili?
 
-We have skirted over the issue of self-defence with regards to murder, though it is scarcely necessary to examine it in the case of rape. This is not because the issue of self-defence is either self-evident or uncomplicated, but rather because the complications that exist can be dealt with more comprehensively after we look at the question of theft.
+Kami ay nagtagumpay sa isyu ng pagtatanggol sa sarili tungkol sa pagpatay, bagaman ito ay hindi kinakailangan para suriin ito sa kaso ng pangahahalay. Ito ay hindi dahil ang isyu ng pagtatanggol sa sarili ay alinman sa maliwanag o hindi komplikado, ngunit sa halip dahil ang mga komplikasyon na umiiral ay pwedeng malutas nang mas komprehensibong pagkatapos nating tingnan ang tanong ng pagnanakaw.
