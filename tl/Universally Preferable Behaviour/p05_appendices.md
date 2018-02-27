@@ -21,17 +21,17 @@ Sa ibaba, mangyaring mahanap ang kabuuan ng argumento ng buod para sa moralidad.
 
 Sa ilalim ay isang halimbawa ng mga listahan ng talahanayan ng ilang sa mga karaniwang mga kategorya ng aksyon/patakaran, at ang kanilang mga differentiator.
 
-| Aksyon/Panuntunan                 | Kagustuhan? | Unibersal? | Maipapatupad? | Ang aksyon ang kinakailangan sa pagsisimula ng panig ng biktima? | Maaari bang iwasan ang mga lumalabag? | Moral na Kategorya            |
-| --------------------------------- | ----------- | ---------- | ------------- | ---------------------------------------------------------------- | ------------------------------------- | ----------------------------- |
-| **Tumatakbo para sa bus**         | Hindi       | Hindi      | n/a           | n/a                                                              | n/a                                   | Neutral                       |
-| **You should not like ice cream** | Yes         | No         | No            | n/a                                                              | n/a                                   | Neutral (personal preference) |
-| **You should not be late**        | Yes         | Yes        | No            | No                                                               | Yes                                   | APA                           |
-| **You should not commit fraud**   | Yes         | Yes        | Yes           | Yes                                                              | Yes                                   | Good                          |
-| **You should not rape**           | Yes         | Yes        | Yes           | No                                                               | No                                    | Good                          |
+| Aksyon/Panuntunan                      | Kagustuhan? | Unibersal? | Maipapatupad? | Ang aksyon ang kinakailangan sa pagsisimula ng panig ng biktima? | Maaari bang iwasan ang mga lumalabag? | Moral na Kategorya                       |
+| -------------------------------------- | ----------- | ---------- | ------------- | ---------------------------------------------------------------- | ------------------------------------- | ---------------------------------------- |
+| **Tumatakbo para sa bus**              | Hindi       | Hindi      | n/a           | n/a                                                              | n/a                                   | Walang pinapanigan                       |
+| **Hindi mo dapat gusto ang ice cream** | Oo          | Hindi      | Hindi         | n/a                                                              | n/a                                   | Walang pinapanigan (sariling kagustuhan) |
+| **Hindi ka dapat mahuli**              | Oo          | Oo         | Hindi         | Hindi                                                            | Oo                                    | APA                                      |
+| **Hindi ka dapat gumawa ng pandaraya** | Oo          | Oo         | Oo            | Oo                                                               | Oo                                    | Mabuti                                   |
+| **Hindi ka dapat manggahasa**          | Oo          | Oo         | Oo            | Hindi                                                            | Hindi                                 | Mabuti                                   |
 
-## Appendix C: UPB Podcasts
+## Apendiks C: UPB mga Podcast
 
-If you would like to further your understanding of UPB and its ramifications, you might find the following podcasts (available [here](www.freedomainradio.com)) helpful. You may also wish to watch the “Introduction to Philosophy” videos, available on [Youtube](www.youtube.com/freedomainradio).
+Kung gusto mong mas maunawaan pa ang UPB ay ito ang mga sangay, pwede mong matagpuan ang mga sumusunod na podcast (maaaring [dito](www.freedomainradio.com)) ay matulungin. You may also wish to watch the “Introduction to Philosophy” videos, available on [Youtube](www.youtube.com/freedomainradio).
 
 | Track | Title                                                         | Description                                                                                                                                                                                                        |
 | -----:|:------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
