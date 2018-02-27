@@ -26,7 +26,7 @@ Kapag nilagay namin ang simpleng katotohan na ito ng mga argumento ng etikal, ka
 
 ### Mga kagustuhan at mga argumento
 
-Pagpapaalala sa ating pag-susuri ng sariling-pagkatalo sa mga argumento, madali naming maiintindihan ang kasalungat na katangian ng inilahad: "ang mga kagustuhan ay hindi umuusbong."given na sa tao ang bawat pagkilos - kasama ang paggawa ng pilosopikong mga salita - na pinili sa kagustuhan sa bawat iba pang mga posibleng aksyon, ang pagtatalo sa mga kagustuhan na ginawa na hindi umuosbong na hindi kailangan ng isang *kagustuhan* para sa pagtatalo na ang mga gusto ay hindi umousbong, na kung saan ay isang pasalaungat na pahayag sa sarili. Ang pagtatalo na ang mga kagustohan ay hindi umuusbong ay eksaktong kagaya ng pagtatalo na ang lenggwahe ay hindi umuusbong. Ito ay isang lubosang pagtatalo sa kanyang sarili sa argumento.
+Pagpapaalala sa ating pag-susuri ng sariling-pagkatalo sa mga argumento, madali naming maiintindihan ang kasalungat na katangian ng inilahad: "ang mga kagustuhan ay hindi umuusbong."given na sa tao ang bawat pagkilos - kasama ang paggawa ng pilosopikong mga salita - na pinili sa kagustuhan sa bawat iba pang mga posibleng aksyon, magtaltalan na ang mga kagustuhan na ginawa na hindi umuosbong na hindi kailangan ng isang *kagustuhan* para sa magtaltalan na ang mga gusto ay hindi umousbong, na kung saan ay isang pasalaungat na pahayag sa sarili. Ang pagtatalo na ang mga kagustohan ay hindi umuusbong ay eksaktong kagaya ng pagtatalo na ang lenggwahe ay hindi umuusbong. Ito ay isang lubosang pagtatalo sa kanyang sarili sa argumento.
 
 Dahil ito ay imposibleeng pag-asksyon nang hindi nagpapahiwatig ng isang kagustuhan - alinman sa nagkataon lamang o tahasan - kahit sinuman ang gumalaw ay tatanggap ng saligan na umuusbong na mga kagustuhan. Kaya ito ay imposibleng pagtalunan ang pag-iral ng mga kagustuhan nang hindi tumatanggap ng pagkakaroon ng mga kagustuhan.
 
@@ -50,7 +50,7 @@ Sa mga ibang salita, kung gusti mong makapunta sa ibabaw ng isang bundok, ang ha
 
 ### Ang mga argumento at pandaigdigan
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+Kung pillin ko na makipagdebate, lubos kong tinatanggap ang malawak na iba't ibang mga lugar na nagkakahalaga ng paggugulan ng ilang mga panahon para alisan ng laman dito.
 
 #### Premise 1: We Both Exist
 
