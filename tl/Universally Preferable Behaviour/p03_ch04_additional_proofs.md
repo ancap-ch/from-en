@@ -6,7 +6,7 @@ Mayroong iba pang mga karagdagang patunay na maaari naming dalhin upang madala s
 
 Ang isang libreng-merkado ng ekonomiya ay walang alinlangan ang pinaka mahusay at paraan ng paggawa ng yaman ng pag-aayos ng produksyon at paggamit ng mga kalakal at mga mapagkukunan sa loob ng lipunan. Ang materyal na tagumpay nito ay walang katumbas sa kasaysayan ng tao, o sa buong mundo.
 
-The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
+Inaasahan ng balangkas ng UPB, nagpapatunay at nagpapaliwanag ng mga dahilan para sa mga materyal na tagumpay ng isang libreng ekonomiya sa merkado.
 
 In theory, a free-market economy is based on the application of a universal theory of property rights. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
 
