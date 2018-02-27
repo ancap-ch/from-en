@@ -71,9 +71,9 @@ Ang lohikal na pagkakamali ay ginagawa para sa pagtatanggol ng pamahalaan upang 
 
 Kung walang masasama, ang mga pamahalaan ay hindi na kainakailangan pa. Kung ang masasama ay umiiral, ang mga pamahalaan ay higit na mas mapanganib na payagang umiral.
 
-Why is this error so prevalent?
+Bakit ba ang pagkakamaling ito ay laganap?
 
-There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+Mayroong ilang mga dahilan, na maaaring mahawakan dito. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
 
 The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
 
