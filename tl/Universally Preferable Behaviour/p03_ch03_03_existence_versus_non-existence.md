@@ -36,7 +36,7 @@ Sa katotohanan, ako ay makapaghihintay hanggang sa matapos ang oras para "ang pa
 
 Sa katotohanan, kapag ako ay nasabihan na kailangan kong magbayad ng aking buwis sa "pamahalaan"ano itong tunay na ipinababatid na marapat kong itala ang isang tseke upang isalin ang aking salapi sa isang partikular na account sa bangko, na kung saan ay ang na pagtapos ng na-acess na mga detalye ng isang tao. Ang mga taong ito ay mayroong karapatan na kuhain ang salapi, at ibili ito na akma sa kanilang nakikita o kagustuhan – ang mga detaye ng bawat tao ay mayroong kumpletong pamamahalang higit sa aking salapi.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+Sa puntong walang kahit anumang kagaya ng nentidad na "ang pamahalaan" ay itaas ang isang daliri, gawin ang isang hakbang, buksan ang bank account, o ibili ang isang sentabos. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
 
 Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
 
