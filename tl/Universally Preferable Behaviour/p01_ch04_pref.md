@@ -6,7 +6,7 @@ Ang mga kagustuhan ay sentro sa anung mang paraan ng pagkuha para maipaliwanag a
 
 Sa ganitong pagpapahalaga, "ang mas mabuti" ay hindi ibigsabihin "uri ng mas higit na mahusay," subali't mas mabuti pa na "kailangan."*kung* gusto mong mamuhay, ito ay *higit na mabuti sa lahat* na piitin mo ang pagkain ng isang dakot na arsenic. *kung* kung gusto mong malaman ang mga balidong katotohanan ukol sa katotohanan, ito ay *higit na mabuti sa lahat* na ang iyong mga teyorya ay parehas sa panllob na pare-parehas at mula sa mga obserbasyon na napatunayan. "higit na mabuti sa lahat," tsaka, isinalin sa "talagang kailangan," subali't pananatilihin natin ang salita "higit na mabuti" sa magkaibang pagitan ng mga opsyunal na lubos na pantao at hindi-opsyunal na lubos na pisikal gaya ng grabidad.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+Gaya nito, kung ang etikal na mga teyorya ay pwedeng maging balido, dapat silang *kahit na* maging parehas sa panloob at panlabas na pare-parehas. Sa ibang mga salita, ang isang teyorya ng etikal na kumontra sa kanyang sarili ay hindi pwedeng balido - ang isang teyorya ng etikal na ang kumontra sa empirikal na katibayan at ang mga malapit na kagustuhan sa unibersal ay hindi din pwedeng balido.
 
 Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
 
