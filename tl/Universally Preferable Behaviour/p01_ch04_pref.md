@@ -40,7 +40,7 @@ Ang pagsubok ay lumabas kapag sinubukan naming alamin ang ilang mga kagustuhan b
 
 Ang proposisyon sa harap namin ay ganto: *ang mga pwedeng maging layunin ng mga kagustuhan, ibigsabihin, unibersal?*
 
-Kapag sabihin ko na ang ilang mga kagustuhan ay pwedeng maging layunin, hindi ko gustong sabihin na sundin ang lahat ng mga kagustuhan sa lahat ng mga oras. Kapag ako ay makipagtalo na ang *paghihinga*ay isang nilalayon na kagustuhan, madali kong malalaman sa paghahalimbawa ng mga magpapakamatay sa pamamagitan ng pagbitay sa kanilang sarili. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+Kapag sabihin ko na ang ilang mga kagustuhan ay pwedeng maging layunin, hindi ko gustong sabihin na sundin ang lahat ng mga kagustuhan sa lahat ng mga oras. Kapag ako ay makipagtalo na ang *paghihinga*ay isang nilalayon na kagustuhan, madali kong malalaman sa paghahalimbawa ng mga magpapakamatay sa pamamagitan ng pagbitay sa kanilang sarili. Kapag ako ay makipagtalo na ang pagkain ng isang nilalayon sa kagustuhan, ang aking mga argumento ay pwedeng matimbang sa mga halimbawa ng mga pagwewelga ng gutom at pagkawala ng gana.
 
 Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
 
