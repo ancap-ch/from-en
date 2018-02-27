@@ -1,10 +1,10 @@
-## Additional Proofs
+## Mga Karagdagang Katunayan
 
-There are other additional proofs that we can bring to bear on the question of universally preferable behaviour.
+Mayroong iba pang mga karagdagang patunay na maaari naming dalhin upang madala sa tanong ng higit sa lahat mas mabuting pag-uugali.
 
-### The Free-Market Economy
+### Ang Libreng-Merkado ng Ekonomiya
 
-A free-market economy is without a doubt the most efficient and wealth-producing method of organising the production and consumption of goods and resources within society. Its material success is without equal in human history, or across the world.
+Ang isang libreng-merkado ng ekonomiya ay walang alinlangan ang pinaka mahusay at paraan ng paggawa ng yaman ng pag-aayos ng produksyon at paggamit ng mga kalakal at mga mapagkukunan sa loob ng lipunan. Ang materyal na tagumpay nito ay walang katumbas sa kasaysayan ng tao, o sa buong mundo.
 
 The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
 
