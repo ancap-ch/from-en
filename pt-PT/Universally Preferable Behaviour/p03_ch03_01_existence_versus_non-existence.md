@@ -26,11 +26,11 @@ A razão pela qual passamos tanto tempo a trabalhar com essa teoria do "universo
 
 Na nossa própria experiência pessoal, sabemos que assassinar é mau. Ao trabalhar com a proposição de que o assassinato está moralmente errado, nos exemplos anteriores, duvido fortemente que alguém tivesse ficado chocado ao ver os seus instintos morais confirmados, através do rígido raciocínio abstracto do CUP. Contudo, nesta secção, é oficialmente permitido que comecem a ficar realmente chocados.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Os maiores avanços na compreensão científica são as chamadas "teorias unificadoras". Einstein passou décadas a tentar construir uma teoria de campo unificada; e as teorias da física que unem as forças fortes e fracas, o eletromagnetismo, a gravidade, etc., continuam a ser ambíguas.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+No entanto, o CUP como estrutura, não só justifica os nossos instintos morais a nível pessoal, filosófico e universal - como também possui implicações profundas e chocantes para a sociedade humana.
 
-#### UPB In Action
+#### O CUP Em Acção
 
 The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
 
