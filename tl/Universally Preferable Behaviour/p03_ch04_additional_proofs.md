@@ -24,12 +24,12 @@ Dahil ang anumang pamamaraan para sa pagtatamo ng kaalaman ay kailangang pandaig
 
 ### Pampublikong Edukasyon
 
-Isang pangunahing prinsipyo ng ekonomiks ng malayang pamilihan na ang kalidad ay resulta lamang mula sa *voluntarism*. Pamimilit, sa kahalagahan, ay hindi mabisa – ang karahasan ay palaging nagreresulta sa mababang kalidad. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
+Isang pangunahing prinsipyo ng ekonomiks ng malayang pamilihan na ang kalidad ay resulta lamang mula sa *voluntarism*. Pamimilit, sa kahalagahan, ay hindi mabisa – ang karahasan ay palaging nagreresulta sa mababang kalidad. Ang mga lumang istilo ng panaderya ay hindi nakagawa ng mabuting tinapay; ang lalaking sinasaktan ang kanyang asawa ay hindi magkaroon ng masayang kasal.
 
-The initiation of the use of force is always counter to any rational moral theory – it is a specific and explicit violation of UPB. Since public schools are funded through the initiation of the use of force, they are a form of *forced association*, which is a clear violation of the *freedom of association* validated by UPB.
+Ang pagsisimula sa paggamit ng pwersa ay palaging salungat sa kahit anong rasyunal na teoryang moral - ito ay tiyak at malinaw na paglabag sa UPB. Dahil ang mga pampublikong paaralan ay pinondohan sa pamamagitan ng pagsisimula ng paggamit ng pwersa, sila ay isang klase ng *pillit na samahan*, kung saan ay isang malinaw na paglabag sa *kalayaan ng samahan* napatunayan ng UPB.
 
-Since force violates the moral requirement of *avoidability* – and a lack of avoidability always breeds poor quality – UPB would help us easily predict that public schools would provide education of low quality.
+Dahil ang pwersa ay lumabag sa moral na kailangan ng *pag iwas* - at ang kakulangan ng pag-iwas ay palaging nagbubunga ng mababang kalidad - ang UPB ay tumutulong sa atin na madaling mahulaan na ang pampublikong paaralan ay magdulot ng mababang kalidad na edukasyon.
 
-Furthermore, UPB would also have helped us predict that, as more and more force was used in the realm of public education – as taxes, union compulsions and so on escalated – the quality of the education provided would get worse and worse.
+At saka, ang UPB ay maaaring tumulong din sa atin na hulaan, na habang parami ng parami ang pwersa na ginamit sa kaharian ng pampublikong paaralan - bilang buwis, pwersa sa mga unyon, at iba pa ay tumataas - ang kalidad ng edukasyon ng ibinibigay ay nagiging masama ng pasama.
 
 This, of course, was – and is – exactly the case.
