@@ -104,7 +104,7 @@ Kung gayon, kung ang pagnanakaw ay mabuti, pagkatapos ang kabutihan ay nagiging 
 
 Siyempre, ito ay nakakatawang isipin na ang perpektong estado na mabuti ay para sa isang tao na patuloy na nagbibigay ng ibang tao pabalik sa ari-arian na kanyang ninakaw, pagkatapos ay agad na magnakaw ito muli. Kaya ang lohikal ay tila upang patunayan ang ating likas na pang-unawa sa kahangalang ito bilang isang perpektong moral – ngunit balikan pa natin nang kaunti, upang makita kung hawak pa rin ito.
 
-Remember, we are not particularly concerned with individual criminals, but rather with moral theories that justify violations of property rights. For instance, if Doug steals Bob’s lighter because Doug believes that “No property rights are valid,” then Doug’s moral theory instantly self-detonates.
+Tandaan, hindi kami partikular na nag-aalala sa mga indibidwal na kriminal, ngunit sa halip may mga moral na teorya na nagbibigay ng katwiran ng mga paglabag sa mga karapatan sa pag-aari. For instance, if Doug steals Bob’s lighter because Doug believes that “No property rights are valid,” then Doug’s moral theory instantly self-detonates.
 
 If no property rights are valid, then stealing is a completely illogical action, since stealing is an assertion of the just desire to control property.
 
