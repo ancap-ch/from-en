@@ -1,55 +1,55 @@
-## The Null Zone Revisited
+## Ipada si ibi asan
 
-At the beginning of this book, I put forward a way of looking at how we process truth, analogising it to physics. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
+Ni ibere iwe yii, mo gbe kale ona ti a file seeto otito, afiwe pelu fisiki. Lati ‘otito kekere’ ti mimu basiballu, awa kale si ‘otito nla’ fisiki awon otito nla wonyii o sile tako otito kekere.
 
-The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
+Eleyii je otito fun iwa. Lati otito kekere ti ‘ko ye kin payan’ a le de otito nla biti ‘bibere lilo agbara op kin she iwa to dara’
 
-In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
+Ni ona fisiki, idinna to wa laarin fun alayo nipa logiki ti otito lati iri eyan kan si oye agbaye ti man je esin.
 
-For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
+Fun apere, ko si eyan to ti she ibapade pelu circulu ti ko labawon-nkan bayii si wa ninu ero, ati ninu i8isiro, sugbon ko si eyi ti a le ri lokan, tabi iriri nileaye. Kosi ibi Kankan si oye wa, ni circulu ti o ba won ti wa,yala ninu ;otito kekere’ ti iriri eyan kan, tabi ‘ otito nla’ ti fisiki.
 
-However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
+Sibesibe, fun egberun odun sciencii, aworawo ni ijakulke pelu wiwa circulu ti o ba labawon. Awon isogbe orun nilo lati wa ni circulu ti o labawon, nitori olorun o legba oun ti o labawon fun ellipsi ni iseda re.
 
-The problem with this approach – well, one problem anyway – was the retrograde motion of Mars. From our planet, Mars at times appears to be moving “backwards,” as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
+Isoro ona yii-isoko kan shaa-ni yiyipada ti mars. Ni aye wa, marsi ni igba kookan ma n ri bipe o n yi ‘pada’ bi aye shi she man lo siwaju re ni ayika orun. Igbagbo iro wipe aye wa ni aarin gbogbo agbaye, pelu ti circulu ti o ba labawon, shee idasile ona tole maiki ti aworawo, ti o yi gbogbo circulu ti o labawon si oju ti o saseji, lati she ifisile ti awon orbiti ti o wa elliptikalli ati ifaseyin ti marsi.
 
-Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
+Kilode ti iri ti o labawon se je elo fun ohun aye? Eri ti osupa, pelu oju re toni koto, yo ri biwipe o ti ibawon orun leyin, sugbon asa koja eri ti isinyi ati ohun aye. Iwari Galileo ti oke- osupa, oju orun ati osupa jupita ni ikollu pelu adadale ti.
 
-We can also turn this analysis to the question of the existence of God as well.
+Ale so oye yii si ibere wiwa olorun pelu.
 
-We have no direct, empirical or rational evidence for the existence of God. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+A o ni eri taara, empirically tabi eyi to mogbonwa fun wiwa olorun. Ona odi togaju ni wiwon sciencii o shee ipese eri fun wiwa olorun naa- sibe, laarin otito ti iriri tiwa, eyi to jepe kosolwa, ti o se je ona odi fun wiwon sciencii ati oye- eleyii ti o si jerisi wipe kosolorun- eyi bi “ibi asan” wa, eyi ti o sib a ofin otito mu.
 
-### Bigotry
+### Bigotri
 
-Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+Igbagbo le je otito, iro, tabi aiso oto, oje igbagbo otito wipe aginju sahara wa niguusu ile alawo dudu, oje iro wipe sahara wa ni scotladi. O je aisoto igbagbo wipe sahara je ohun timba fe ko je, osi wa nibi timobafekowa. Igbagbo kini je otito, eekeeji je iro, eeketa oro je oro ti ko ni eri.
 
-We can say:
+A le sope:
 
-1. Proposition X is true because it is rational.
-2. Proposition Y is false because it is irrational.
-3. Proposition Z is true because I *want* it to be true.
+1. Imuwa fun ifiyesi X je otito tori o mogbonwa.
+2. Imuwa fun ifiyesiY je iro tori komogbonwa.
+3. Imuwa fun ifiyesi Z je otito tori mo fe ko je otito.
 
-The third assertion is a complete self-contradiction. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
+Oro keta je oro ti on tako ara re. otito o gbekele ife, niwon igba ti ife je yiyan to mogbonwa, itumo otito shi ni lilo awon ero ti o mogbonwa ni ona logiki ati iriri lona emipiricalli. Sisope nkan je otito tori ofe ko je otito dabi ki eyan fi egbon ati aisogbon dogba, ti osi je oro ti o tako arare.
 
-Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
+Oro toni imule “igbagbo”- ni itumo o le she danwo nigba ti ko kin she igbagbo leyin eri, sugbo igbagbo je ipenija toni eri.
 
-We can believe unproven things that turn out to be true – someone doubtless thought that the world was round before it was proven – but the “null zone” is the realm wherein we cling to a belief in things that *could not possibly turn out to be true*.
+Ale gba oun ti ko ni imule gbo ti o si wapadaa di otito- ero eyankan niwipe aye yi yi kodoro ki won eri gbe leyin- sugbon “ibi asan” je ibi ti a ti le gbagbo ninu awon ohun ti o le pada wa di ooto.
 
-If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. If I say that I believe that a square circle exists, then I am making an explicitly self-contradictory statement, which disproves itself. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+Timobasope eeji pomo eeji je aarun, mo n she ashishe ti a le fisona tooto pelu logiki. Ti mob a sope mogbagbo wipe circulu to nigun merin wa, nigbana, mo n tako ara mi ni, eyi ti o nimule funrare. Ti mob a losiwaju, sibesibe, ti mo si fitemutenu sowipe “foo pelu tury di desty”, mo si ko lati tunmo awon oro naa- mo n soro lori oun ti a kole lo logiki tabi eri mo.
 
-### Next Stop: The "Alternative Universe"
+### Idaduro tokan; “idakeji agbaye”
 
-In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
+Nigbogbo, ona ti awa eniyan she man gbiyanju lati gba ona ti ko ni imule lona empirically ati logiki ni lati seda “ibi miran” tabi “aye miran” nibiti oro ti on tako arare le je ooto.
 
-If I say: “A square circle exists,” I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
+Timobasope “circulu ti o nigun merin wa” mo sope oun ti ko lese se wa ni agbaye. Nigbana, ti o ba wumi lati fi gbagbo mi mule, mo gbodo seda agbaye miiran, tabi ibikan nita agbaye nibi ti circulu tiu le ni Igun merin.
 
-If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
+Timoba seda ibi ti itakora ti dogba pelu otito, mo le sope awon ti on sope circulu ti o nigun merin owa oni oye ni, toriwipe won yo ona to fi seese kuro.[^1]
 
-With regards to this “null zone,” only two possibilities really exist. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
+Pelu ibi asan lokan, nkan meji loleshele. Boya, ibi asan yi wa sugbon oyato ni agbaye, a o sile wan, a o le ri, tabi sawari re ni onakana, iri tabi ipo- tabi, ni ojukan, a ma le ri, ki a si ni ibasoro pelu ile idan yi nibiti itakora ti dogba pelu otito.
 
-If, at some point, it turns out that we *are* able to interact with this *null zone*, then we shall have direct sensual or rational evidence of its existence. In other words, it must “protrude” into our universe in some manner. However, the moment that it becomes detectable in our universe, it must have rational and empirical existence, like everything else we can detect. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
+Ti, ni ibikan, ori wipe a le ni ibalo pelu ib I asan yii, nigbanna a ma ni ri fun wiwa re. ni oro miran, o gbodo she agbako ile aye yi ni ona kana bi omiran. Sibesibe,nigba ti o ba ti she I ni agbaye wa,bi gbogbo oun to ku ti a le ri. Nigbanna, gbogbo oro wipe o gbodo wa laye wa o le seda agbara fun agbaye wa lati gbe iwalaye circulu ti o nigun merin leyin.
 
-We can thus be certain that if we *are* ever able to detect this other universe, the evidence we gather will in no way support the existence of self-contradictory statements. Square circles, gods and other self-contradictory concepts cannot hide there, any more than they can hide in the wet dreams of leprechauns.
+A le mo wipe ti a ba shagbako agbaye keji yii, eri ti a kojopo o ni she atileyin oro ton tako ara re. circulu to ni igun merin, olorun ati awon nkan yooku to n tako ara won o le paramo sibe, ju bi won she la sapamo si ala tutu ti leprechaunsi.
 
-On the other hand, if it turns out that we are *never* able to detect this other universe, and it remains a completely theoretical entity, with no evidence or rationality to support it, then it is simply a conceptual bag in which it is “convenient” to place things that are obviously not true.
+Ni owo keji, ti o ba lo je wipe a o pada le ri agbaye jeji yii, o si je oye inu iwe aasan bosejeyi, lai si eri Kankan to fi mule, nigbanna, oye lasan ni biti o ti yo eyan loorun lati fi nkan sibikan ti o si ribe.
 
-[^1]: This inevitably ends up with comparisons to those who said that Einsteinian physics was impossible, that the world could not be round and so on. Uncertainty in *content* – i.e. theory – is somehow supposed to be equated with uncertainty in *methodology*, i.e. reason and evidence. The fact that a mathematical theorem can be disproved does not disprove the principles of mathematics, but rather confirms them.
+[^1]: Eleyii shi pari afiwe awon ti o sowipe fisiki Einsteini o le seesee, wipe aye yii o le yika ati beebeelo. Aileribe ni oro-fun apere oye-oye kale fiwe aileribe ninu oye methodology fun apeere eri ati idi. Wipe oye isiro le ma ni imule, o sowipe awon ofin isiro, o nimule, yala, ojerisini.
