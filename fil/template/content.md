@@ -2,10 +2,10 @@
 
 Binanggit dun sa baba ng listahan ay bilang ng pangrams, na nagpapakita ng bawat karakter, kapwa sa Ingles at iba din sa mga wika.
 
-1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
-2. numbers: 0123456789. 
-3. symbols: % $ & { } # ^ ~ \ (some other symbols are still missing)
-4. emphasys: *The quick, brown fox jumps over a lazy dog.* 
+1. Mga malalaking titik: ANG MABILIS, NA PAGTALON NA KULAY KAKI NA SORO SA TAMAD NA ASO. 
+2. mga numero: 0123456789. 
+3. simbolo: % $ & { } # ^ ~ \ (ang ilang mga simbolo ay nanatili paring nawawala)
+4. emphasys: *Ang mabilis, na soro na kulay kaki ay tumalon sa tamad na aso.* 
     1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
     2. inner emphasys: **The *The quick, brown fox jumps over a lazy dog* dog.** 
         1. en: The quick, brown *fox* **jumps *over* a** lazy dog.
