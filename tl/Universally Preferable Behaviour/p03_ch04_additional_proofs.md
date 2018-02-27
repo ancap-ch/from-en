@@ -32,4 +32,4 @@ Dahil ang pwersa ay lumabag sa moral na kailangan ng *pag iwas* - at ang kakulan
 
 At saka, ang UPB ay maaaring tumulong din sa atin na hulaan, na habang parami ng parami ang pwersa na ginamit sa kaharian ng pampublikong paaralan - bilang buwis, pwersa sa mga unyon, at iba pa ay tumataas - ang kalidad ng edukasyon ng ibinibigay ay nagiging masama ng pasama.
 
-This, of course, was – and is – exactly the case.
+Ito, sapagkat, ay - at - ang esksangtong kaso.
