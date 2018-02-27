@@ -12,9 +12,9 @@ Intindihin ang sarili, lubos nating kinikilala ang kabaliwan ng moral na panukal
 
 Kung ang pagpatay ay mabuti sa moral, gayon din naman ang kaso ng isang lalaking naipit sa isla ng disyerto ay masama sa moral habang siya ay naninirahan doon, dahil wala siyang mga biktima na papatayin. Ang isang tao sa isang pagkawala ng malay ay magiging masama rin, gaya ng isang tao na natutulog, o isang tao sa pinagtatrabahuang lamesa. Ang isang taga-pasakit ay magiging isang masamang tao hangga't siya ay nagpatuloy sa pagpapahirap - ngunit pagkatapos ay magiging isang mabuting tao sa sandaling ang kanyang biktima ay namatay sa kanyang mga kamay.
 
-We can thus see that the proposition that “murder is good” is not only instinctively bizarre, but also logically impossible.
+Kaya naming makita na ang panukala na "ang pagpatay ay mabuti" ay hindi lamang nang katutubo kakaiba, ngunit din lohikal na imposible.
 
-The other objections that applied to the proposition “rape is good” also apply here. Murder cannot be morally neutral, since morally neutral judgements or actions cannot be forcibly inflicted upon another, and murder by definition is forcibly inflicted upon another.
+Ang iba pang mga suliranin na inaplay sa palagay "ang panghahalay ay mabuti" kailangan mo rin i-aplay mo rito. Murder cannot be morally neutral, since morally neutral judgements or actions cannot be forcibly inflicted upon another, and murder by definition is forcibly inflicted upon another.
 
 There is also a basic contradiction involved in any universal justification for the act of murder, just as there was in the act of rape. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
 
