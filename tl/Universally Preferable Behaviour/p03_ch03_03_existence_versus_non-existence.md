@@ -34,7 +34,7 @@ Nakamit ng mga mitolohiya, ano ang tunay na isinalin nito?
 
 Sa katotohanan, ako ay makapaghihintay hanggang sa matapos ang oras para "ang pamalaan" sa pagdating at pagkuha ang salapi ayon. Ang paghintay sa "pamahalaan" na gumuho ay gaya ng kulang sa petsa o araw ng pagkakakilala sa "pagkababae". puwede koring subukan na magbayad ng aking pang hapunan sa sinasambit na "salapi."
 
-Sa katotohanan, kapag ako ay nasabihan na kailangan kong magbayad ng aking buwis sa "pamahalaan"ano itong tunay na ipinababatid na marapat kong itala ang isang tseke upang isalin ang aking salapi sa isang partikular na account sa bangko, na kung saan ay ang na pagtapos ng na-acess na mga detalye ng isang tao. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+Sa katotohanan, kapag ako ay nasabihan na kailangan kong magbayad ng aking buwis sa "pamahalaan"ano itong tunay na ipinababatid na marapat kong itala ang isang tseke upang isalin ang aking salapi sa isang partikular na account sa bangko, na kung saan ay ang na pagtapos ng na-acess na mga detalye ng isang tao. Ang mga taong ito ay mayroong karapatan na kuhain ang salapi, at ibili ito na akma sa kanilang nakikita o kagustuhan – ang mga detaye ng bawat tao ay mayroong kumpletong pamamahalang higit sa aking salapi.
 
 At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
 
