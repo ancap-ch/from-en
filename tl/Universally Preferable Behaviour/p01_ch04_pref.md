@@ -20,9 +20,9 @@ Kami ay makakahanp ng *ebidensya* para sa mga kagustuhan; ang mga kagustuhan ay 
 
 Ang mapaghamong mga katanungan ng libreng kalooban sa determinismo, ito ay makatwirang sa pagpapalagay na sa kahit anung gingawa ng isang indibidwal sa hinaharap ay ano ang kanyang "ninais" para gawin. Kung ako ay babangon at pumunta sa trabaho, samakatuwid malinaw sa akin na *na mas gusto* na gawin iyon, bilang taliwas sa lahat ng iba pang mga alternatibo. Noon pa man ayaw ko na ang aking trabaho, maliwanag ko pong inaayawan ito *mas kakaunti*kesa, sabihin, na pagiging walang pera.
 
-Given na ang mga nilalang ay pwedeng gumawa ng isang malapit na walang iba't ibang mga aksyon, anuman ang isang ginawa ng isang tao sa ngayon ay napili galing sa lahat ng iba pang mga posibleng pagpipilian. I am choosing to write this book rather than, say, learning how to tango.
+Given na ang mga nilalang ay pwedeng gumawa ng isang malapit na walang iba't ibang mga aksyon, anuman ang isang ginawa ng isang tao sa ngayon ay napili galing sa lahat ng iba pang mga posibleng pagpipilian. Ako ay pumili na isulat ito sa halipt na, sabihin, kung paano aralin ang tango.
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+Kapag nilagay namin ang simpleng katotohan na ito ng mga argumento ng etikal, kami ay merong mga ilang talagangkawiwiling mga resuslta.
 
 ### Preferences And Arguments
 
