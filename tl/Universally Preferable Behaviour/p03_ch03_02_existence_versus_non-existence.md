@@ -73,9 +73,9 @@ Kung walang masasama, ang mga pamahalaan ay hindi na kainakailangan pa. Kung ang
 
 Bakit ba ang pagkakamaling ito ay laganap?
 
-Mayroong ilang mga dahilan, na maaaring mahawakan dito. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+Mayroong ilang mga dahilan, na maaaring mahawakan dito. Ang una ay ipinakikilala ng pamahalaan ang kanyang sarili sa mga kabataan sa anyo ng mga pampublikong guro na ipinagpapalagay na mga moral na awtoridad. Samakatuwid ang mga *moralidad* at *awtoridad* na unang naiugnay sa pamahalaan - isang pag-uugnay na sa kalaunan ay pinatibay sa pamamagitan ng mga taon ng masinsinang pag-uulit.
 
-The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
+Ang pangalawa ay ang pamahalaan ay hindi kailanman itinuro sa mga bata ang ugat ng kanyang kapangyarihan - karahasan - subalit sa halip ay nagpapanggap na isa rin lamang itong uri ng sosyal na institusyon, gaya ng negosyo, o simbahan o kawang-gawa, subalit mas moral.
 
 The third is that the prevalence of religion and propaganda has always blinded men to the evils of the government – which is why rulers have always been so interested in furthering the interests of churches and state “education.” In the religious world-view, absolute power is synonymous with perfect virtue, in the form of a deity. In the real political world of men, however, increasing power always means increasing evil. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. There are many more reasons, of course, but these are among the deepest.[^10]
 
