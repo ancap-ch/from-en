@@ -64,10 +64,10 @@ Maliwanag, kung gayon, walang sitwasyong lohikal at moral ng pamahalaan ang maaa
 Ang sitwasyon na ito, habang teoretikal na nakakainteresado, ay maaaring lohikal na paghiwa-hiwalayin dahil:
 
 1. Ang masasamang nakararami ay agad-agad na tatalunin sa botohan ang minorya o daigin sila sa pamamagitan ng isang kudeta;
-2. There is no way to ensure that only good people would always run the government; and,
-3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
+2. Walang ibang paraan upang siguruhin na ang mga mabubuting tao lamang ang laging magpapatakbo ng pamahalaan; at,
+3. Walang anumang tiyak na halimbawa nito na nangyari sa anumang brutal na kaganapang naitala sa kasaysayan ng estado.
 
-The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
+Ang lohikal na pagkakamali ay ginagawa para sa pagtatanggol ng pamahalaan upang maisip na anumang pangkalahatang panghuhusga na ipinapataw sa anumang grupo ng tao ay *hindi maipapataw din sa grupo ng tao na namumuno sa kanila*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
 
 If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
 
