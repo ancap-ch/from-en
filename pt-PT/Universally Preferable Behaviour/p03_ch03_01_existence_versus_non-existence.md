@@ -20,9 +20,9 @@ Se afirmações válidas sobre a realidade podem ser infinitamente opostas, porq
 
 A verdadeira realidade da afirmação "erro equivale a verdade" é a insanidade redundante de "nulo é igual a nulo"
 
-### The "Alternate Universe" In Human Society
+### O "Universo Alternativo" na Sociedade Humana
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+A razão pela qual passamos tanto tempo a trabalhar com essa teoria do "universo alternativo" é que ela tem uma relevância directa para a sociedade humana e é usada para "justificar" os maiores males que são cometidos entre nós.
 
 In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
 
