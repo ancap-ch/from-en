@@ -61,9 +61,9 @@ Ang ikaapat na opsyon ay ang nakararami ang mabuti, at iilan lang ang masama. It
 
 Maliwanag, kung gayon, walang sitwasyong lohikal at moral ng pamahalaan ang maaaring payagan na umiral. Ang tanging makatwirang pagpapatunay para sa pag-iral ng pamahalaan ay kung karamihan ng mga tao ay masama, subalit ang lahat ng kapangyarihan ng pamahalaan ay palaging kontrolado ng minoryang mabubuting tao. [^8]
 
-This situation, while interesting theoretically, breaks down logically because:
+Ang sitwasyon na ito, habang teoretikal na nakakainteresado, ay maaaring lohikal na paghiwa-hiwalayin dahil:
 
-1. The evil majority would quickly outvote the minority or overpower them through a coup;
+1. Ang masasamang nakararami ay agad-agad na tatalunin sa botohan ang minorya o daigin sila sa pamamagitan ng isang kudeta;
 2. There is no way to ensure that only good people would always run the government; and,
 3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
 
