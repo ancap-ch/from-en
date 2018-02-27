@@ -28,9 +28,9 @@ Kuhain natin bilang huwaran ng isang katotohanan at ngayong nakaambang peligro: 
 
 #### Ang pagbubuwis
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Ako ay nasabihan na, ayon sa kabanalang pagtalaga ng namumuhay sa kanada, ako ay nagka utang sa "pamahalaan" higit sa singkuwentang pursyento ng aking kinita.
 
-Stripped of mythology, what does this really translate to?
+Nakamit ng mga mitolohiya, ano ang tunay na isinalin nito?
 
 In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
 
