@@ -34,7 +34,7 @@ Dahil ito ay imposibleeng pag-asksyon nang hindi nagpapahiwatig ng isang kagustu
 
 Ang sunod na tanong ay magiging ganto: ang mga kagustuhan ay pawang pansarili, o pwedeng maging pang lahatan?
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+Malinaw, ang mga ilang kagustuhan ay pangsarili. mga gustong musika, pansariling libangan, paboritong panitikan at iba pang lahat ay pansarili at personal na kagustuhan.
 
 The challenge arises when we try to define some preferences as *objective*.
 
