@@ -46,9 +46,9 @@ Vamos dar outro exemplo.
 
 O roubo é moralmente errado, como vimos anteriormente. É moralmente errado para todas as pessoas, em todas as situações, em todos os momentos e em todas as circunstâncias. Como o roubo é a extracção forçada da propriedade de outra pessoa, sem consentimento, então a tributação é sempre, universalmente e para sempre um mal moral. A taxação é, por definição, a remoção forçada da propriedade de alguém sem o seu consentimento, dado que a tributação baseia-se no início do uso da força para tirar a uma pessoa, a sua propriedade.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+O que chamamos "o governo" é só mais um exemplo dessa *zona nula* em que acima é abaixo, o preto é branco, a verdade é mentira e o mal é bem.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+A sociedade progride exactamente na medida em que a razão e a evidência dão o grande salto do pessoal para o universal e no caminho, destroem as *zonas nulas irracionais*. A ciência progride exactamente na medida em que rejeita a irracionalidade de Deus e os "absolutos" subjectivos. A medicina progride exactamente no grau em que rejeita a eficácia da oração e do ritual vazio e, em seu lugar, baseia-se na razão e na evidência. Também a filosofia - e a sociedade humana em geral - irão avançar exactamente na medida em que rejeitarem a irracional "moral do círculo quadrado", das teorias éticas estadistas e religiosas.
 
 ### Government
 
