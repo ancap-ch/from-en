@@ -8,7 +8,7 @@ Ang isang libreng-merkado ng ekonomiya ay walang alinlangan ang pinaka mahusay a
 
 Inaasahan ng balangkas ng UPB, nagpapatunay at nagpapaliwanag ng mga dahilan para sa mga materyal na tagumpay ng isang libreng ekonomiya sa merkado.
 
-In theory, a free-market economy is based on the application of a universal theory of property rights. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+Sa teorya, ang malayang pamilihan ay base sa aplikasyon ng unibersal na teorya ng karapatan sa ari-arian. Sa kabilang dako, ang komunismo ay base sa malinaw na pagtanggi ng unibersal na teorya ng karapatan sa ari-arian. Dahil napatunayan na natin sa itaas na ang unibersal na karapatan sa ari-arian ay ang tanging balidong teoryang moral, ito ay nagpapaliwanag sa pinakamahalagang antas kung bakit ang komunismo ay isang sakuna, habang ang ekonomiya ng malayang pamilihan ay produktibo sa materyal.
 
 Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
 
