@@ -8,9 +8,9 @@ Sa ganitong pagpapahalaga, "ang mas mabuti" ay hindi ibigsabihin "uri ng mas hig
 
 Gaya nito, kung ang etikal na mga teyorya ay pwedeng maging balido, dapat silang *kahit na* maging parehas sa panloob at panlabas na pare-parehas. Sa ibang mga salita, ang isang teyorya ng etikal na kumontra sa kanyang sarili ay hindi pwedeng balido - ang isang teyorya ng etikal na ang kumontra sa empirikal na katibayan at ang mga malapit na kagustuhan sa unibersal ay hindi din pwedeng balido.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Kaya naman sa mga etika, gaya ng sa siyensiya, mga matimatika, pag-iinhinyero at lahat ng iba pang mga disiplina na ikinukumpara sa mga teyorya sa katotohanan,*ang mga balidong teyorya ay kailangan na parehas na lohikal at napatunayan mula sa obserbasyon*.
 
-### Preferences And Existence
+### Mga gusto at pagkakaroon
 
 If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
 
