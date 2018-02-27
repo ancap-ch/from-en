@@ -20,7 +20,7 @@ Isang sentro dahilan na alam natin na ang pamahalaan at mga diyos ay hindi kayla
 
 Ang katwiran ng pagka masunurin sa mga alamat ay malinaw na isang hanagal. Kung ang isang pari ay nagsabi sa akin ng marapat kong sundin ang "diyos," ito ay tamang magkatulad sa pamamagitan niya taga sabi sa akin na marapat kong sundin ang isang nilikha na tinawag "sinsel." kahit na kung ako ay tanggapin na itong naisasaisip na ang entidad ay nararapat ng walang katapusang pagsunod, dito padin ay walang daan na para mamilit sa akin upang tumugon *ang pari*. Sakaling banggitin ko sa iyo na "sunurin mo ang iyong kalooban," puwede ko bang ikatuwirang banggitin: "at *ako'y iisang* nag nagpapahayag sa iyong kalooban"?
 
-Of course not.
+Tiyak hindi.
 
 When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
 
