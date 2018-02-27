@@ -10,15 +10,15 @@ Inaasahan ng balangkas ng UPB, nagpapatunay at nagpapaliwanag ng mga dahilan par
 
 Sa teorya, ang malayang pamilihan ay base sa aplikasyon ng unibersal na teorya ng karapatan sa ari-arian. Sa kabilang dako, ang komunismo ay base sa malinaw na pagtanggi ng unibersal na teorya ng karapatan sa ari-arian. Dahil napatunayan na natin sa itaas na ang unibersal na karapatan sa ari-arian ay ang tanging balidong teoryang moral, ito ay nagpapaliwanag sa pinakamahalagang antas kung bakit ang komunismo ay isang sakuna, habang ang ekonomiya ng malayang pamilihan ay produktibo sa materyal.
 
-Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
+Yamang mga tao *sa katunayan* ay may pantay na mga karapatan sa ari-arian, ang kahit anong sistema ng lipunan na di-tumanggap sa karapatang ito ay nakatakda sa kabiguan – gaya ng taga-plano ng tulay na di-tumanggap sa realidad ng grabidad ay hindi makakagawa ng tulay na tumatayo.
 
-### The Scientific Method
+### Ang Siyentipikong Pamamaraan
 
-Logic and science are in fact methodologies which exist – along with morality – under the umbrella of UPB. In other words, logic and science are both validated by the framework of UPB.
+Ang lohika at sistema ay sa katunayan mga pamamaraan na umiiral – sa tabi ng moralidad – sa ilalim ng payong ng UPB. Sa madaling salita, lohika at siyensya ay parehong balido ng balangkas ng UPB.
 
-A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
+Ang sentral na tanong na kailangan na sagutin ay: *bakit ang siyentipikong paraan ay walang hanggan na mas superyor sa ibang “mga pamamaraan” ng pagtamo ng kaalaman, gaya ngmistisismo?*
 
-UPB answers this question.
+UPB ay sumasagot sa katanungan.
 
 Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
 
