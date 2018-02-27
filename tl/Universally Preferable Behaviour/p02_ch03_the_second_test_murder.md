@@ -14,11 +14,11 @@ Kung ang pagpatay ay mabuti sa moral, gayon din naman ang kaso ng isang lalaking
 
 Kaya naming makita na ang panukala na "ang pagpatay ay mabuti" ay hindi lamang nang katutubo kakaiba, ngunit din lohikal na imposible.
 
-Ang iba pang mga suliranin na inaplay sa palagay "ang panghahalay ay mabuti" kailangan mo rin i-aplay mo rito. Murder cannot be morally neutral, since morally neutral judgements or actions cannot be forcibly inflicted upon another, and murder by definition is forcibly inflicted upon another.
+Ang iba pang mga suliranin na inaplay sa palagay "ang panghahalay ay mabuti" kailangan mo rin i-aplay mo rito. Ang pagpatay ay hindi pwedeng neyutral sa moral, dahil ang mga neyutral na hatol o pagkilos ng moral ay hindi pwedeng sapilitang mapapahamak sa iba, at ang pagpatay sa pamamagitan ng kahulugan ay sapilitan sa iba.
 
-There is also a basic contradiction involved in any universal justification for the act of murder, just as there was in the act of rape. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
+Mayroon ding isang pangunahing kontradiksyon na kasangkot sa anumang pang-unibersal na pagbibigay-katwiran para sa gawa ng pagpatay, tulad ng ginawa sa pagkilos ng panghahalay. Kung sinusubukan ni Bob na mahuli si Doug, pero sumasalungat si Doug, kung paanong maitutuwid ni Bob ang kanyang mga aksyon ayon sa UPB?
 
-Well, he could say something like: “a man’s life can be taken any time you want to” – but of course, since UPB is the only valid test of moral propositions, this justifies Doug killing Bob as much as it does Bob killing Doug. Thus Bob can only justify strangling Doug if Doug does not resist in any way – but of course if Doug does not resist, then can it really be considered murder?
+Mabuti, pwedeng sabihin niya ang isang bagay tulad ng: "ang buhay ng isang tao ay pwedeng kuhain anumang oras na gusto mo" - ngunit siyempre, dahil ang UPB ay ang tanging wastong pagsubok ng moral na mga panukala, ito ay nagpapawalang-sala kay Doug pagpatay ni Bob gaya ng ginagawa ni Bob sa pagpatay kay Doug. Thus Bob can only justify strangling Doug if Doug does not resist in any way – but of course if Doug does not resist, then can it really be considered murder?
 
 Let us say that Bob then adjusts his premise to say: “I can shoot a man in his sleep any time I want.” The problem here is not only the sleep that Bob will lose based on his universal premise, but also the logical impossibility of reversing moral propositions based on the differences in the states of sleeping and waking. Biologically speaking, a man does not become the *opposite* of a man when he falls asleep, any more than gravity reverses when he blinks.
 
