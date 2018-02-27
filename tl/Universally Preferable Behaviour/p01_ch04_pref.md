@@ -12,7 +12,7 @@ Kaya naman sa mga etika, gaya ng sa siyensiya, mga matimatika, pag-iinhinyero at
 
 ### Mga gusto at pagkakaroon
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+Kung sinabi ko na "gusto ko ng sorbetes," hindi tmaliwanag ang isang salita lamang ang nananatili sa pangungusap na iyon. Maliwanag na "ako" ay umuusbong, dahil ipinahahayag ko ang isang pansariling kagustuhan. Gayundin na maliwanag na, "ang sorbetes" ay umuosbong din sa reyalidad. However, the word “like” is more problematic.
 
 Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
 
