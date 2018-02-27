@@ -8,16 +8,16 @@ Sa ibaba, mangyaring mahanap ang kabuuan ng argumento ng buod para sa moralidad.
 2. Ang “lohika” ay ang hanay ng mga layunin at naaalinsunod sa mga alituntunin na nagmula sa pagkakapare-pareho ng katotohanan.
 3. Ang mga teorya na sumusunod sa lohika ay tinatawag na “balido.”
 4. Ang mga teorya na nakumpirma ng empirikal na pagsuri ay tinatawag na "tumpak."
-5. Those theories that are both valid and accurate are called “true.”
-6. “Preferences” are required for life, thought, language and debating.
-7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
-8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
-9. Theories regarding UPB must pass the tests of logical consistency and empirical verification.
-10. The subset of UPB that examines enforceable behaviour is called “morality.”
-11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
-12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
+5. Ang mga teyorya ay parehas na balido at tumpak ay tinawag na "totoo."
+6. "ang mga kagustuhan" ang kailangan para sa buhay, ideya, wika at pakikipagtalo.
+7. Ang mga pakikipagtalo ay kailangan sa parehong hawak ng partido "totoo" para parehas na maging obhetibo at sa panglahatang kanais-nais.
+8. Kaya naman mas akto ng pakikipagtalo ay naglalaman ng panglahatang pagtanggap sa mas kanais-nais na paguugali (UPB).
+9. Ang tungkol sa mga teyorya ng UPB ay kailangan na maipasa ang mga pagsusulit ng lohikal na pagbabago at pagpapatunay ng empirikal.
+10. Ang UPB ng subset na nagsusuri sa pagpapatupad ng pag-uugali ay tinawag na "moralidad."
+11. Bilang subset ng UPB, walang teyorya ng moral na pwedeng konsidirahin na totoo kung ito ay lohikal o hindi suportado ng empirikal na katibayan.
+12. Ang mga moral na teorya ay sinusuportahan ng lohikal at ang mga katibayan ay totoo. lahat ng iba pang moral na mga teorya ay hindi tama.
 
-## Appendix B: Moral Categories
+## Apendiks B: Ang mga Kategorya ng Moral
 
 Below is a sample table that lists some of the most common categories of actions/rules, and their key differentiators.
 
