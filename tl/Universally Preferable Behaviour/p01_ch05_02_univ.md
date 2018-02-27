@@ -4,13 +4,13 @@ Kagaya ng aming tinatalakay sa ibabaw, ang mungkahi ng*walang masiyadong bagay n
 
 Ang una ay lohikal: kung ako ay makikipagtalakayan *laban sa* panukala na kung saan ang makamundong kanais-nais na asal ay wasto, naipakita ko na ang aking pagkagusto para sa katotohanan laban sa kamalian - ay katulad ng sa isang kagustuhan para sa pagtatama sa mga nagsasabi ng mali. Ang pagsasabi na walang mga bagay na makamundong kanais-nais na asal ay katulad ng sa pagsigaw sa tainga ng isang tao na walang ganitong umiiral - ito ay may katuturan na pagsasalungat sa sarili. Sa madaling salita, kung *walang mga bagay* bilang isang makamundong kanais-nais na asal, sa gayon ang isang tao *ay dapat* tutulan sa sinumang tao na naghahayag na mayroong isang bagay bilang makamundong kanais-nais na asal. Gayunman, kung ang isang tao "ay dapat" gumawa ng isang bagay, sa gayon ay nakakagawa ng isang makamundong kanais-nais na asal. Sa gayon ang makamundong kanais-nais na asal - o tutunin ng moral - ay dapat may bisa.
 
-Syllogistically, this is:
+Silohistikal, ito ay:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1. Ang panukala ay: ang konsepto "ng makamundong kanais-nais na asal" ay dapat maging wasto.
+2. Pagtatalo laban sa bisa ng ng makamundong kanais-nais na asal na pinapakita ng makamundong kanais-nais na asal.
+3. Sa gayon walang pagtatalo laban sa makamundong kanais-nais na asal ay maaring maging wasto.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+Alam nating lahat na mayroong subhektibong kagustuhan, tulad ng pag-gusto sa sorbetes o jazz, na kung saan ay hindi maituturing na pagbubuklod ng ibang mga tao. Sa kabilang banda, mayroong ibang mga kagustuhan, tulad ng paggagahasa at pagpatay, na malinaw *na* may kakulangan sa iba. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
 
 Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
 
