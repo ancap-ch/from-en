@@ -20,7 +20,7 @@ Kami ay makakahanp ng *ebidensya* para sa mga kagustuhan; ang mga kagustuhan ay 
 
 Ang mapaghamong mga katanungan ng libreng kalooban sa determinismo, ito ay makatwirang sa pagpapalagay na sa kahit anung gingawa ng isang indibidwal sa hinaharap ay ano ang kanyang "ninais" para gawin. Kung ako ay babangon at pumunta sa trabaho, samakatuwid malinaw sa akin na *na mas gusto* na gawin iyon, bilang taliwas sa lahat ng iba pang mga alternatibo. Noon pa man ayaw ko na ang aking trabaho, maliwanag ko pong inaayawan ito *mas kakaunti*kesa, sabihin, na pagiging walang pera.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+Given na ang mga nilalang ay pwedeng gumawa ng isang malapit na walang iba't ibang mga aksyon, anuman ang isang ginawa ng isang tao sa ngayon ay napili galing sa lahat ng iba pang mga posibleng pagpipilian. I am choosing to write this book rather than, say, learning how to tango.
 
 When we apply this simple fact to ethical arguments, we come up with some very interesting results.
 
