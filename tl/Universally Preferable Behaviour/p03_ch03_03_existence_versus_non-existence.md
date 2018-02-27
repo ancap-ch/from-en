@@ -22,9 +22,9 @@ Ang katwiran ng pagka masunurin sa mga alamat ay malinaw na isang hanagal. Kung 
 
 Tiyak hindi.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+Kung aalisin natin ang mga mitolohiya at ating katha na mula sa ating "pakikipagtulungan" kasama ang ating mga pinuno, na kung anu ang lumabas ay isang payak, paninira at pumapataypatay sa pagsasamantala sa ganap na pangyayari.
 
-Let’s take as an example a very real and present danger: taxation.
+Kuhain natin bilang huwaran ng isang katotohanan at ngayong nakaambang peligro: nagbubuwis.
 
 #### Taxation
 
