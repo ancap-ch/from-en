@@ -84,11 +84,11 @@ Como as opiniões não mudam a realidade, não posso conceder-lhe nenhuma excep�
 
 ### Governo Como Voluntariado
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+A força aberta envolvida na instituição do governo - o revestimento teórico que inverte as regras morais para um grupo determinado de indivíduos - é algo que é sempre mantido fora da mesa de debates. Ao falar sobre o governo, nunca se considera algo positivo de salientar "a arma na sala". Quase por definição, os governos são considerados escolhidos pelas e para as pessoas e para trabalhar com a sua aprovação expressa ou implícita.
 
-However, this is pure nonsense.
+No entanto, isso é um completo absurdo.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Se um homem mantém uma faca na garganta de uma mulher enquanto faz sexo com ela, isto é, por qualquer definição, uma violação. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
 
 In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
 
