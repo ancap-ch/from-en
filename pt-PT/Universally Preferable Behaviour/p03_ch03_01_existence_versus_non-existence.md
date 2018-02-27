@@ -78,11 +78,11 @@ As "Opiniões" são aquelas crenças que não têm evidências claras na realida
 
 Por isso, acreditar que o assassinato é moralmente bom não o torna moralmente bom. Dado que as minhas crenças sobre um ser humano não mudam a sua natureza moral, a minha crença de que os seus crimes são incensuráveis não altera a virtude das suas acções. Se eu fechar os olhos e imaginar que você é um lagarto, não irá perder, repentinamente a sua capacidade de regular a própria temperatura corporal. Imaginar que você é um peixe não irá fazer que ignore a sua necessidade de equipamento de mergulho.
 
-Opinions do not change reality.
+As opiniões não mudam a realidade.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Como as opiniões não mudam a realidade, não posso conceder-lhe nenhuma excepção ou inversão no que diz respeito a uma regra moral universal. Dado que as regras morais baseiam-se na lógica universal, assim como na natureza física e na realidade de um ser humano, não posso conceder-lhe o "direito de matar", mais do que lhe posso conceder a capacidade de levitar, andar na água, ou que diga, com precisão, que dois e dois são cinco.
 
-### Government As Voluntarism
+### Governo Como Voluntariado
 
 The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
 
