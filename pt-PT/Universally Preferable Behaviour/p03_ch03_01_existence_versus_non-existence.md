@@ -76,7 +76,7 @@ Entendemos, claramente, que não posso libertá-lo das restrições da gravidade
 
 As "Opiniões" são aquelas crenças que não têm evidências claras na realidade, ou para as quais não podem ser fornecidas evidências claras ou que são expressões de simples preferências pessoais. A minha opinião pessoal é que prefiro o sorvete de chocolate ao de baunilha - também posso ter uma "opinião" de que a Islândia é um paraíso tropical, ou que Deus existe, ou que a chuva cai para cima. As opiniões pessoais não têm nada a ver com a moralidade; As opiniões que afirmam descrever a realidade com precisão, mas que não o fazem, são apenas preconceitos incorrectos. Acreditar que a chuva cai para cima não reverte o seu curso; Usar uma camisa havaiana na Islândia não faz do Reykjavik nenhum aquecedor.
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+Por isso, acreditar que o assassinato é moralmente bom não o torna moralmente bom. Dado que as minhas crenças sobre um ser humano não mudam a sua natureza moral, a minha crença de que os seus crimes são incensuráveis não altera a virtude das suas acções. Se eu fechar os olhos e imaginar que você é um lagarto, não irá perder, repentinamente a sua capacidade de regular a própria temperatura corporal. Imaginar que você é um peixe não irá fazer que ignore a sua necessidade de equipamento de mergulho.
 
 Opinions do not change reality.
 
