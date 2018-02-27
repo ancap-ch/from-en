@@ -1,73 +1,73 @@
-## Lifeboat Scenarios
+## Ang mga sitwasyon sa lifeboat
 
-The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
+Ang katotohanang pinatutunayan lamang ng UPB ang lohikal na mga teorya ng moral ay hindi nangangahulugan na walang maaaring malarawan na pangyayari kung saan maaari nating piliin na kumilos *laban sa* mga teorya ng gayong teorya.
 
-For instance, if we accept the universal validity of property rights, smashing a window and jumping into someone’s apartment without permission would be a violation of his property rights. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
+Halimbawa, kung tinatanggap namin ang unibersal na katuparan ng mga karapatan sa pag-aari, ang pagbasag ng isang bintana at paglukso sa salid ng isang tao nang walang pahintulot ay isang paglabag sa kanyang mga karapatan sa pag-aari. Gayunpaman, kung nakikipag-hang-off kami sa isang tagdan ng bandila sa labas ng isang silid na may bintana, at tungkol sa mahulog sa aming mga kamatayan, ilan sa amin ay tinang-gihan upang sipain sa bintana at tumalon sa kaligtasan para sa pagsunod sa isang mahirap unawain na prinsipyo.
 
-In the real world, it would take a staggeringly callous person to press charges against a man who destroyed a window in order to save his life – just as it would take a staggeringly irresponsible man to refuse to pay restitution for said window. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
+Sa totoong daigdig, kakailanganin ng isang taong tumitigas ang isang tao na magpaparatang ng kaso laban sa isang taong nagwasak ng isang bintana upang mailigtas ang kanyang buhay - tulad ng kakailanganin ng isang tao na hindi mapagkakatiwalaan na tumangging bayaran ang pagbabayad ng paninda para sa nasabing bintana. Ang prinsipyo ng "maiiwasan" ay gitnang dito - ang isang tao na nakabitin sa isang tagdan ng bandila ay may maliit na pagpipilian tungkol sa pag-sipa sa isang bintana. Ang isang lalaki na nakikipaglaban sa iyong bahay upang magnakaw ng mga bagay ay malinaw na may kakayahang maiwasan ang pagsalakay sa iyong ari-arian - hindi siya ay nahuhuli, ngunit sa halip ay *ang nagpasimula* ng pagsalakay. Ito ay katulad ng pagkakaiba sa pagitan ng babae na ang pandaraya ng tao sa kanya, kumpara sa babae na ang lalaki ay nakakandado sa kanya sa silong.
 
-This is not to say that breaking the window to save your life is not wrong. It is, but it is a wrong that almost all of us would choose to commit rather than die. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
+Hindi ito dapat sabihin na ang paglabag sa bintana upang i-sayb ang iyong buhay ay hindi mali. Ito ay, ngunit ito ay isang mali na halos lahat sa atin ay pipili na gumawa kaysa sa mamatay. Kung ako ay nasa gilid ng gutom sa kamatayan, nais kong magnakaw ng isang mansanas. Hindi ito nangangahulugan na ito ay *tama* para sa akin na nakawin ang mansanas - nangangahulugan lamang ito na gagawin ko ito - at dapat lamang na tanggapin ang mga kahihinatnan ng aking pagnanakaw.[^10]
 
-### Grey Areas
+### Ang Gray na mga Lugar
 
-The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+Ang katotohanan na ang ilang mga "gray na lugar" na umiiral sa larangan ng etika ay kadalasang ginagamit bilang isang pagbibigay-katwiran para sa ranggo relatibismo. Dahil kung minsan, ang ilang mga bagay ay nananatiling hindi maliwanag (halimbawa, sinimulan ang paggamit ng karahasan), at dahil imposibleng tukuyin ang layunin at eksaktong mga panuntunan para sa bawat posibleng sitwasyon, ang konklusyon ay kadalasang iguguhit na walang makakaalam, na walang mga layunin na tuntunin na umiiral para sa *anumang* sitwasyon.
 
-This is false.
+Ito ay mali.
 
-All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
+Alam ng lahat ng mga makatwirang tao na ang byolohiya ay isang wastong agham, sa kabila ng katotohanan na ang ilang mga hayop ay ipinanganak na may "isa-isa" na mutasyon. Ang katotohanan na ang isang aso ay maaaring ipinanganak na may limang binti ay hindi nangangahulugan na ang "aso" ay nagiging isang ganap na subjective na kategorya. Ang katotohanan na ang ilang mga uri ng insekto ay mahirap na makilala ang pagkakaiba ay hindi nangangahulugan na walang pagkakaiba sa pagitan ng isang salaginto at isang balyena.
 
-For some perverse reason, intellectuals in particular take great joy in the wanton destruction of ethical, normative and rational standards. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
+Para sa ilang mga tiwaling dahilan, ang mga intelektwal sa partikular ay lubos na nagagalak sa walang pakundangang pagkawasak ng mga etikal, normatibo at makatwirang mga pamantayan. Maaaring ito dahil ang mga intelektuwal ay madalas na binabayaran ng mga korek na klase ng mga indibidwal tulad ng mga pulitiko, mga pari at mga hari - o maaaring ang isang tao ay madalas na maging intelektwal upang lumikha ng mga katwiran para sa kanyang sariling imoral na pag-uugali. Anuman ang dahilan, ang karamihan sa mga modernong thinkers ay naging isang uri ng "anti-palaisip," na kung saan ay napaka kakaiba. Katumbas ito sa pagiging isang napakalaking uri ng "mga dalubbuhay" na gumastos ng kanilang buong buhay na arguing na ang agham ng biology ay imposible. Kung imposible ang agham ng biology, halos hindi makatuwiran na maging isang biologist, anuman ang dapat na labanan ng isang ateyista ang ngipin at kuko upang maging isang pari.
 
-### Shades Of Grey
+### Ang Pagtabing sa Gray
 
-In the realm of “grey areas,” there are really only three possibilities.
+Sa larangan ng "mga kulay-abo na lugar," talagang may tatlong posibilidad lamang.
 
-1. There are no such things as grey areas.
-2. Certain grey areas do exist.
-3. All knowledge is a grey area.
+1. Walang mga bagay na tulad ng kulay-abo na mga lugar.
+2. May ilang mga kulay-abo na lugar na umiiral.
+3. Ang lahat ng kaalaman ay isang kulay-abo na lugar.
 
-Clearly, option one can be easily discarded. Option three is also fairly easy to discard. The statement “all knowledge is a grey area” is a self-detonating proposition, as we have seen above, in the same way that “all statements are lies” also self-detonates.
+Maliwanag, ang opsyon ng isa ay madaling maitapon. Ang tatlong pagpipilian ay medyo madali upang itapon. Ang pahayag na "ang lahat ng kaalaman ay isang kulay-abo na lugar" ay isang panukala sa sarili, gaya ng nakita natin sa itaas, sa parehong paraan na ang "lahat ng mga pahayag ay kasinungalingan" ay nagpapalaya din sa sarili.
 
-Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
+Kaya dapat pumunta kami sa opsyon na dalawa, na kung saan ay may mga umiiral na kulay-abo na lugar, at alam namin na ang mga ito ay kulay-abo na kamag-anak sa mga lugar na hindi kulay-abo Oxygen umiiral sa espasyo, at din sa ilalim ng dagat, ngunit hindi sa isang anyo o dami na tao ang mga tao'y maaaring kumonsumo. Ang *grado* ng oxygenation ay isang kulay-abo na lugar, ibig sabihin "mas mababa kumpara sa higit pa"; ang tanong ng kung o hindi ang mga tao ay maaaring huminga ng tubig ay tiyak na itim at puti.
 
-A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
+Ang isang siyentipiko na nakuha ng mga kanibal ay maaaring magpanggap na isang bruha-doktor upang makatakas - hindi ito nangangahulugan na dapat nating bale-walain ang pang-agham na pamamaraan bilang lubos na hindi wasto.
 
-Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
+Sa katulad na paraan, maaaring magkaroon ng matinding sitwasyon kung saan maaari nating piliin na gumawa ng imoral na mga pagkilos, ngunit ang mga sitwasyong ito ay hindi nagpawalang-bisa sa agham ng moralidad, anuman ang paminsan-minsang mutasyon na nagpawalang-bisa sa agham ng biology. Sa katunayan, ang agham ng byolohiya ay lubhang sumusulong sa pamamagitan ng pagtanggap at pagsusuri ng mutasyon - at katulad nito, ang agham ng etika ay pinatitibay lamang sa pamamagitan ng isang pagsusuri ng "mga sitwasyon ng segundo," hangga't ang eksaminasyon ay hindi hinuhubaran nang sobra-sobra.
 
-### Universality And Exceptions
+### Ang pang-unibersidad At Mga Pagbubukod
 
-Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
+Bago natin simulan ang paggamit ng ating balangkas ng Higit pa sa Pinagmumulan ng Pag-uugali upang masuri ang ilang karaniwang mga etikal na paniniwala, kailangan nating harapin ang tanong ng "mga pagbubukod."
 
-Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
+Gamit ang mga "sitwasyon ng lifeboat sa itaas," ang konklusyon ay madalas na iginuhit na ang "mabuti" ay simpleng *na "mabuti" para sa buhay ng indibidwal na tao*.
 
-In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
+Sa mga etikal na argumento, kung ako ay tatanungin kung gusto kong magnakaw ng isang mansanas kaysa sa mamatay sa gutom sa kamatayan - at sinasabi ko "oo" - ang sumusunod na argumento ay hindi dapat:
 
-1. Everyone would rather steal an apple than starve to death.
-2. Thus everyone universally prefers stealing apples to death by starvation.
-3. Thus it is *universally preferable* to steal apples rather than starve to death.
-4. Thus survival is universally preferable to property rights.
-5. Thus what is good for the individual is the ultimate moral standard.
+1. Ang bawat tao'y mas gusto magnakaw ng isang mansanas kaysa mamatay sa kamatayan.
+2. Kaya lahat ng tao ay mas pinipili ang pagnanakaw ng mansanas sa pamamagitan ng gutom.
+3. Kung gayon ito ay *higit sa lahat* upang magnakaw ng mga mansanas sa halip na mamatay sa gutom.
+4. Kaya ang kaligtasan ng buhay ay higit na lalong kanais-nais sa mga karapatan sa pag-aari.
+5. Kaya kung ano ang mabuti para sa indibidwal ay ang panghuli moral na pamantayan.
 
-This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
+Ginamit ito bilang batayan para sa maraming mga etikal na teorya at pamamaraan, mula sa Nietzsche hanggang Rand. Ang kagustuhan ng bawat indibidwal para sa kaligtasan ng buhay ay isinalin sa etikal na mga teorya na naglalagay ng kaligtasan ng indibidwal sa kanilang sentro.[^11]
 
-This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
+Ang ganitong uri ng "byolohiko na hindonismo" ay maaaring isang paglalarawan ng "drive upang mabuhay," ngunit ito ay tama lamang kung ito ay naglalarawan kung ano talaga ang *ginagawa* ng mga tao, hindi kung ano ang *dapat* nilang gawin.
 
-It also introduces a completely unscientific subjectivism to the question of morality. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
+Ipinakikilala rin nito ang isang ganap na hindi siyentipikong paksa sa tanong ng moralidad. Halimbawa, kung moral na pinapayagan na magnakaw ng pagkain kapag ikaw ay gutom, gaano karaming pagkain ang maaari mong magnakaw? Gaano ka gutom? Maaari kang magnakaw ng pagkain na hindi masustansiya? Paano nakapagpapalusog ang pagkain upang mai-justify ang pagnanakaw nito? Gaano katagal matapos ang pagnanakaw ng isang pagkain ay pinapayagan kang magnakaw ng isa pang pagkain? Pinapayagan ka bang magnakaw ng pagkain sa halip na maghanap ng trabaho o mag-apila sa kawanggawa?
 
-Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
+Gayundin, kung makakagawa ako ng mas maraming pera bilang isang hit na tao kaysa sa isang tindero, hindi ko dapat ituloy ang karahasan bilang isang karera? Ito ay tiyak na pinahuhusay *ang aking* kaligtasan ng buhay... at iba pa at iba pa.
 
-As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
+Tulad ng makikita natin, ang pagpapakilala ng "kung ano ang mabuti para sa tao sa abstract - o kung ano ang ginagawa ng karamihan sa mga tao - ay higit na mas mabuti sa lahat" ay sumisira sa mismong konsepto ng moralidad bilang isang lohikal na teorya na lohikal, at pinalitan lamang ang biolohikal na mga biyahe bilang mga katarungan para sa pag-uugali. Ito ay isang paliwanag ng pag-uugali, hindi isang iminungkahing moral na teorya.
 
-### The Purpose And The Dangers
+### Ang Layunin At Ang mga Panganib
 
-With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+Sa iyong pasensya na pagpapakasakit, isang pangwakas na tanong ang kailangang matugunan bago kami maglagay ng kahulugan at subukan kung paano magkasya ang iba't ibang mga panukalang moral sa balangkas ng UPB. Sapagkat ang pinakamahirap na gawain ay nauuna, dapat kaming huminto sa ilang sandali at ipaalala sa ating sarili kung bakit inilalagay natin ang ating sarili sa lahat ng hirap at kahirapan na ito.
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+Sa madaling salita, bago tayo mag-udyok,ng angkop na magtanong ng mungkahi: "Bakit nag-iistorbo?"
 
-Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+Bakit nakakaabala sa pagtukoy ng mga teorya ng etika? Tiyak na ang mga mabuting tao ay hindi nangangailangan ng mga ito, at ang mga masamang tao ay hindi sumangguni sa kanila. Ang mga tao ay gagawin kung ano ang gusto nila, at gumawa lamang ng mga katwiran kung kinakailangan pagkatapos ng katotohanan - bakit *abala* ang pagtuturo ng mga tao tungkol sa moralidad?
 
-Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
+Siyempre pa, ang panganib ay laging umiiral na ang isang imoral na tao ay aatake sa iyo para sa kanyang sariling mga layunin ng hedonistik. Maaaring ito rin ang kaso na, sa kabila ng malinis at malusog na pamumuhay, maaari kang masaktan sa pamamagitan ng kanser bago ang iyong oras - ang dating ay hindi gumagawa ng agham ng moralidad na hindi nauugnay, higit pa kaysa sa huli ay gumagawa ng mga agham ng medisina, nutrisyon at ehersisyo walang kaugnayan. Ang isang makatwirang epekto ng isang makatuwirang agham ng moralidad ay dapat na mabawasan ang iyong mga pagkakataon ng *paghihirap* imoral na mga pagkilos tulad ng pagnanakaw, pagpatay at panggagahasa - at sa pamamagitan ng pamantayan na ito ay dapat din nating hatulan ang mga panuntunang moral na iminungkahi sa Ikatlong Bahagi ng aklat na ito .
 
-[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
+[^10]: Siyempre, kung ako ay isang walang kakayahan o nalilito na tao na natapos ko na sa kabila ng gutom, ang pagkakabilanggo ay maaaring maging isang pagpapabuti sa aking sitwasyon.
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+[^11]: Ang "kalooban ng kapangyarihan ni Nietzsche" at Rand's "na naglilingkod sa buhay ng tao ay mabuti."

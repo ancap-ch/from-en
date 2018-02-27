@@ -1,84 +1,85 @@
-## The Third Test: Theft
+## آزمون سوم: سرقت
 
-We will have to spend a little bit more time on theft, since it inevitably brings into the picture the question of property rights, which is highly contentious for some.
+از آنجا که سرقت تصویری درباره ی حقوق مالکیت به ما می دهد، که برای برخی بسیار ستیزه جویانه می باشد،ما باید وقت بیشتری را بر روی موضوع سرقت صرف کنیم. 
 
-There are many ways of approaching the question of property rights, from “homesteading” to legal definitions to practical considerations etc. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+راه های بسیار زیادی برای رسیدن به جواب سوال ”حقوق مالکیت“ وجود دارد؛ از”شهر موطن“ تا تعاریف قانونی و ملاحظات عملی و غیره.  من هیچ یک از آنها را در اینجا ذکر نمیکنم، زیرا سوال حقوق مالکیت باید در قالب یو پی بی باشد،  اگر یو پی بی به عنوان یک روش منطقی برای ارزیابی گزینه های اخلاقی عمل کند.
 
-Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
+واضح است که گزاره اخلاقی در رابطه با حقوق مالکیت به این صورت خواهد بود: انسانها حق دارند مالک باشند و یا نباشند.
 
-Now the first “property” that must be dealt with is the body. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+اکنون، ”اولین” اموالی که باید مورد توجه قرار گیرد، بدن است. ”,مالکیت“ باید در درجه اول، شامل کنترل بر بدن خود باشد. زیرا اگر این کنترل وجود نداشته باشد، یا معتبر نباشد، کل مسئله اخلاق -غیر از مسئله حقوق مالکیت- از بخث خارج خواهد شد.
 
-UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
+یو پی بی چهارچوبی برای ارزیابی گزاره های اخلاقی و یا استدلال هایی برای رفتار مطلوب جهانی، برای همه ی افراد بشر است. اول از همه، اگر انسان از نظر اخلاقی مورد قضاوت قرار گیرد، خود مسئول اعمال خویش می باشد. همانطور که در بالا بحث کردیم، ظرفیت انتخاب اعمال برای ارزیابی اخلاقی، اساسی است.
 
-If a man has no control over his body, then clearly he has no responsibility for his actions – they are not in fact “his” actions, but rather the actions of his body. Now, no one would rationally argue that if a man strangles another man, it is the murderous fingers that should be put on trial and punished. Clearly, the body cannot entirely control itself, but rather must be to some degree under the direction of the conscious mind.
+اگر انسان بر بدنش هیچگونه کنترلی نداشته باشد، پس، واضح است که برای اعمالش نیز، هیچگونه مسئولیتی نخواهد داشت. آنها اعمال خود او نیستند بلکه اعمال بدن او هستند. در حال حاضر، هیچکس بصورت منطقی استدلال نمیکند که اگر مردی، مرد دیگری را خفه کند، این انگشتان قاتل او هستند که باید محاکمه و مجازات شوند. واضح است که بدن نمی تواند بصورت کلمل خود را کنترل کند، بلکه باید تا حدی از نظر ذهنی، آگاهانه باشد.
 
-What this means is that a man is responsible for the actions of his body, and therefore he is responsible for the *effects* of those actions. A man is responsible for where he puts his penis, which is how we know that we can judge him for raping someone. He “owns” the actions of his body as surely as he owns his body. To say that a man is responsible for his body but not the effects of his body is to argue that a man is responsible for aiming and throwing a knife, but not for where it lands.
+این بدان معنا است که انسان مسئول اعمال بدن خویش است؛ بنا بر این مسئول "اثرات" این اعمال نیز می باشد. یک مرد مسئول جایی است که آلت تناسلی خود را قرار می دهد، این همان چیزی است که ما می توانیم او را برای تجاوز به کسی قضاوت کنیم. او "صاحب" اعمال بدن خود است همانطور که قطعا صاحب بدن خود است. اگر بگوییم که انسان مسئول بدن خویش است اما برای اثرات این اعمال، مسئول نیست، مانند این است که انسان مسئول هدفگیری و پرتاب چاقو است؛ اما مسئول جایی که چاقو فرود می آید نیست.
 
-Also, arguing that a man is not responsible for the effects of his body is a self-detonating statement, similar to the ones we examined above. If I say to you: “Men are not responsible for the actions of their bodies,” it would be eminently fair for you to ask me who is working my vocal chords and mouth. If I say that I have no control over my speech – which is an effect of the body – then I have “sustained” my thesis at the cost of invalidating it completely.
+همچنین، استدلال اینکه انسان مسئول اثرات اعمال بدن خویش نمی باشد، یک جمله ی خود تخریبی است.  همانند آنچه که در بالا گفته شد. اگر من بگویم که انسان برای اعمال بدن خویش مسئول نیست، این برای شما کاملاً قابل توجیه است که از من بپرسید که چه کسی با دهان و حنجره من کار می کند؟ اگر بگویم که من بر سخنانم هیچ کنترلی ندارم -که خود اثری از اعمال بدن است- پس من پایان نامه ام را به قیمت نا معتبر کردن کامل آن، متوقف کرده ام.
 
-If I am not at all responsible for my speech, then there is no point arguing with me. A tape recorder is also not responsible for its speech, which is why we tend not to get into virulent disagreements with magnetic strips. In cheesy horror films, young girls seem to be particularly susceptible to demonic possession – the inevitable priest who shows up always offers to talk to the demon in charge of the girl, at which point the girl starts making a sound like Don Ho gargling with ball bearings.
+اگر من به هیچ وجه برای سخنرانی ام مسئول نباشم، پس هیچ نکته ای برای بحث با من وجود ندارد. یک ضبط صوت نیز برای سخنرانی خود مسئول نیست، به همین دلیل، ما تمایل نداریم که با اختلافات شدید با طبقات مغناطیسی روبهرو شویم. در فیلم های ترسناک بی نظیر، دختران جوان، به طور مشخصی آماده قرار گرفتن در معرض تسخیر شیطانی هستند.  کشیشی که همیشه سعی می کند به جای دختر تسخیر شده، با شیطان صحبت کند، در آن لحظه دختر شروع به ساختن صدای مانند دونو هوگال با بلبرینگ می کند.
 
-This ridiculous portrait is accurate in one sense though – if some other being is in full control of the girl’s vocal chords, it is that being which needs to be addressed, not the girl, who has no control over her responses.
+این پرتره مضحک فقط در یک مورد صحیح است -اگر شخص دیگری کنترل کامل صدای دختر را در دست بگیرد، این چیزی است که باید مورد توجه قرار بگیرد، نه دختری که کنترل واکنشهای خویش را ندارد.
 
-Thus if I say to you that I do not have control over my speech, you can ask me: who does? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
+بنابراین، اگر من به شما بگویم که بر سخنرانی خود کنترل ندارم، شما خواهید پرسید که پس چه کسی کنترل دارد. اگر من پاسخ دهم که کسی کنترل آن را بر عهده ندارد، این دقیقاً مانند این است که بحث با من، همانند بحث با یک تلویزیون، یا تخته سنگی است که از بالای کوه به سمت اتومبیل شما می آید.
 
-Thus the very act of controlling my body to produce speech demands the acceptance of my ability to control my speech – an implicit affirmation of my ownership over my own body.
+بنابراین، کنترل من بر بدن خویش برای تولید گفتار، مقتضی پذیرش توانایی کنترل من بر گفتار من است. تاییدی ضمنی بر مالکیت من بر بدن من.
 
-Now, if demonic possession were a valid occurrence, and a girl possessed by a demon spat on a priest, we would not call the *girl* rude, but would rather pity her for being inhabited by such an impolite demon. Whoever has control over the girl’s body is culpable for the effects of her actions – this is why we would not call a man who stole while sleepwalking “evil,” since he did not have full control over his own body (although we may restrain him in other ways). This is also the basis for the legal defence of “not guilty by reason of insanity,” which is that we assume that a man who is insane does not have full control over his actions.
+اکنون، اگر تسخیر شیطانی معتبر بود، و دختری که توسط شیطان تسخیر شده بود، بر کشیش تف می کرد، ما "دختر" را بی ادب نمی خواندیم، اما برای او متاسف می شدیم که توسط چنین شیطان بی ادبی تسخیر شده است. هر کسی که کنترل بدن دختر را بر عهده دارد، مسئول آثار اعمال او نیز می باشد. به همین دلیل است که ما کسی را که در حالت خواب دزدی میکند را "شرور" نمی نامیم؛ زیرا او کنترل کاملی بر بدن خویش ندارد. (اگر چه ما می توانیم به روش های دیگر او را مهار کنیم.) این همچنین پایه دفاع قانونی برای "عدم تقصیر به علت دیوانگی" میباشد. به این دلیل است که ما فرض میکنیم کسی که دیوانه است، کنترل کاملی بر اعمال خویش ندارد.
 
-Thus to reject the ownership of the body is to reject all morality, which, as we have seen above, is utterly impossible. Logically, since morality is defined as an enforceable subset of UPB, to reject morality is to say that it is universally preferable to believe that there is no such thing as universal preferences.
+بنابراین، رد کردن مالکیت بدن مساوی با رد کردن کل فریضه اخلاق است؛ که همانطور که قبلا دیدیم، کاملا غیر ممکن است. به لحاظ منطقی، از آنجایی که اخلاق به عنوان یک زیرمجموعه قابل اجرا از یو پی بی تعریف می شود، رد اخلاقیات این است که بگوییم مطلوب جهانی این است که چنین چیزی به عنوان برتری جهانی وجود ندارد.
 
-Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
+نهایتا، استفاده از مالکیت شخصی برای بدن خویش به منظور ایجاد یک سخنرانی، برای رد این مفهوم که کسی می تواند کنترل بدن شخص دیگری را برعهده بگیرد، یک خود- تضادی تلویحی است.
 
-It is in this way that any rejection of self-ownership can be utterly discarded.
+به این ترتیب، هرگونه رد مالکیت به طور کامل از بین خواهد رفت.
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+از آنجایی که ما مالک بدن خود هستیم، ناچارا صاحب "اثرات" اعمال خویش نیز می باشیم؛ چه خوب، چه بد.  اگر ما مسئول اثرات اعمال خویش باشیم، پس واضح است که ما مسئول چیزی که تولید می کنیم نیز هستیم. هرچند چیزی که تولید می کنیم یک کمان، یک کتاب و یا حتی قتل باشد
 
-### Property And UPB
+### ملک و یو پی بی
 
-Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
+حتی اگر ما آنچه را که در بالا ذکر شد رد کنیم، هنوز هم می توانیم از یو پی بی برای دفاع قطعی از وجود حقوق مالکیت جهانی استفاده کنیم.
 
-As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
+همانطور که در بالا گفته شد،انسان ها یا دارای حقوق مالکیت هستند یا نیستند. به جز برای چند ناحیه خاکستری که به زودی به آن میرسیم.  این یک پیشنهاد جهانی باقی می ماند.
 
-If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
+اگر انسان حق استفاده از اموال را نداشته باشد، پس حق استفاده از بدن خویش را هم ندارد؛ حق استفاده از شش های خود را ندارد و باید نفس کشیدن را متوقف کند. اگرچه این احمقانه به نظر میرسد، اما این یک نتیجه فوری و غیر قابل انکار از فرضیه ی نداشتن حقوق مالکیت توسط انسان است.
 
-It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
 
-The question then comes up whether or not human beings have the right to *exclusive* property use. For instance, property could be defined as a sort of time-share principle of ownership, insofar as everyone should have the right to own everything, on some schedule or another.
+این کاملا طبیعی است که فرض کنیم کسی که درباره ی حقوق مالکیت صحبت می کند؛ دارد نفس می کشد، پس بنابراین، با شما موافق است که حق دارد حداقل از بدن خود استفاده کند.
 
-This means of course that a man with lung cancer has a right to at least one lung of a healthy person. Since all ownership starts with the body, if we do not have the right to exclusive ownership over our own body, then we must share our body with other people, or be immoral. The sick man has a right to one of our lungs, and if we withhold it from him, that is exactly the same as stealing it. Similarly, both you and I have the right to use Celine Dion’s singing voice, since it is wholly selfish of her to pretend that she has exclusive ownership of it.
+سوال این است که ایا انسانها حق استفاده "انحصاری" از اصول را دارند یا نه. برای مثال مالکیت ملک میتواند به عنوان یک نوع اصل مشارکت زمانی تعریف شود. به این صورت که هرکس حق استفاده از هرچیز را طبق برنامه داشته باشد.
 
-If human beings do not possess exclusive ownership over their own bodies, then the crime of rape becomes meaningless, since a woman clearly does not exclusively own her vagina, and neither does a man own his own various orifices. If exclusive self-ownership is not an axiom, then even the crime of murder becomes meaningless.
+این بدان معنی است که یک مرد با سرطان ریه حق دارد حداقل یکی از ریه های یک فرد سالم را داشته باشد. از انجا که حق مالکیت، از بدن شروع میشود، اگر حق استفاده انحصاری از بدن خود را نداشته باشیم، باید بدن خود را با دیگران به اشتراک بگذاریم، در غیر این صورت، غیر اخلاقی عمل کرده ایم. مرد بیمار حق دارد یکی از ریه های ما را بگیرد، و اگر ما آن را از او سلب کنیم، این دقیقا همانند دزدی از ان است. به طور مشابه من و شما،هردو ، حق استفاده از صدای خواننده سلن دیون را داریم؛ زیرا این کاملا خودخواهانه است که او اظهار کند حق استفاده ی انحصاری از صدایش را دارد.
 
-It is no crime to commit suicide, any more than it is to set fire to your own house, since the destruction of one’s own property is a valid exercise of ownership. However, if exclusive self-ownership is invalid, then there can be no distinction between murder and suicide. If my liver is failing, and I have a right to take yours, then I can “repossess” it in perfect accordance with morality and honourable behaviour. If this procedure kills you, so what? Without exclusive self-ownership, there is no “you” to begin with…
+اگر انسانها حق مالکیت انحصاری از بدن هایشان نداشته باشند، پس جرم تجاوز بی معنا خواهد شد، زیرا زن بطور انحصاری مالک آلت تناسلی خود نیست هم چنین مرد نیز صاحب انحصاری دستگاه تناسلی خود نیست. اگر مالکیت منحصر به فرد یک اصل نیست، حتی جرم قتل نیز بی معنی خواهد بود.
 
-Thus we can reasonably say that exclusive self-ownership is a basic reality – that all human beings at all times and in all places have exclusive ownership over their own bodies, and thus have exclusive ownership over the effects of their own bodies, both in terms of moral behaviour and property creation or acquisition.
+این جرم نیست که شما خودکشی کنید، بیشتر از ان، این است که خانه ی خودرا به آتش بکشید، زیرا تخریب اموالشخصی خود، یک اثر معتبر از مالکیت است. با این حال، اگر خود مالکیت انحصاری نامعتبر باشد، پس دیگر هیچ تفاوتی بین قتل و خودکشی وجود نخواهد داشت. اگر کبد من بیمار است، و من حق دارم که کبد شما را بگیرم، پس من میتوانم آن را با توجه به اخلاق و رفتار های قابل احترام، "بازپس گیری" کنم. اگر این پروسه شمارا می کشد، پس چه؟ بدون حق مالکیت انحصاری، هیچ "شما" برای شروع وجود ندارد.
 
-### The Grey Areas
+پس ما میتوانیم به صورت منطقی بگوییم که حق مالکیت انحصاری، واقعیتی اساسی است که همه ی انسان ها، در هرزمان و در هر مکان حق مالکیت انحصاری بر بدن های خویش دارد و در نتیجه، حق مالکیت انحصاری بر تاثیرات بدن های خویش دارند، هم از نظر رفتار اخلاقی و ایجاد یا کسب اموال.
 
-Naturally, any statement such as the above brings the inevitable howls of “complexity,” which I fully agree with.
+### مناطق خاکستری
 
-Let us say that I mean to give you five dollars as a gift, but by mistake I hand you a ten dollar bill, saying, “This is for you.” Few people would consider it theft if I said, the moment after I handed it to you: “Sorry, I meant to give you five dollars, not ten,” and took the larger note back, even though I am taking back property that I have voluntarily relinquished.
+بطور طبیعی، دو بیانیه ای مانند بالا، سوت های اجتناب ناپذیری از "پیچیدگی" را بوجود می آورد که من کاملا با آن موافقم.
 
-On the other extreme, if you are one of my sons, and I pay for your university education, and explicitly tell you that you never need to pay me back, my generosity will doubtless affect your spending habits. It would scarcely seem reasonable for me to clap my forehead after your graduation ceremony and cry, “Oh, I thought you were one of my *other* sons!” and demand repayment.
+منظورم این است که شما ۵ دلار به عنوان هدیه میدهید و من اشتباها یک صورت حساب ۱۰ دلاری به شما میدهم و می گویم:"این برای شماست." ممکن است برخی از مردم آن را سرقت درنظر بگیرند. اگر من در لحظه ای که آن را به شما دادم بگویم:" متاسفم، منظورم این بود که شما ۵ دلاری بدهید، نه ۱۰دلاری. و برگه ی بزرگتر را پس بدهید. اگرچه من مالکیتی را پس بگیرم که به صورت داوطلبانه لغو کردم.
 
-Similarly, it is generally accepted that children cannot enter into legal contracts, but that adults can. In many societies, the differentiating age is eighteen years. This means, of course, that at the stroke of midnight between a man’s seventeenth year and eighteenth birthday, his capacity to enter into legal contracts arrives fully formed. Has he gone through some massive biological transformation in that split second? Certainly not, although at eighteen he is biologically very different than he was at the age of ten, both in terms of physical and mental development.
+از سوی دیگر، اگر شما یکی از پسران من باشید و من هزینه ی تحصیلات دانشگاهی شما را بپردازم و صراحتا به شما بگویم که نیازی نیست این پول را به من برگردانید، بخشندگی من بدون شک برروی عادت های خرج شما تاثیر خواهد گذاشت. این به سختی برای من قابل قبول خواهد بود که بعد از جشن فارغ التحصیلی شما به پیشانی خود بزنم و با گریه بگویم:"اوه،من فکر کردم شما یکی از پسران دیگر من بودید!" واز شما تقاضای بازپرداخت کنم.
 
-For the sake of efficiency, if not perfect morality, arbitrary transitions are often placed between one state and another. Childhood is definitely one state; adulthood is quite another. The transition between childhood and adulthood is blended; it is not black and white, but rather like the day descending into dusk, and then night. Noon is definitely not night, and midnight is definitely not daytime, but there are times in between when it is harder to tell, although the direction of the transition is always clear.
+بطور مشابه، این بطور کلی پذیرفته شده است که کودکان نمی توانند وارد قراردادهای قانونی شوند،اما بزرگسالان میتوانند. در بسیاری از جوامع، سن قانونی هجده سالگی است. البته این بدان معنی است که در جریان نیمه شب بین سال هفدهم و سال هجدهم تولد، توانایی های فرد برای ورود به قرارداد های قانونی کاملاشکل گرفته است. آیا او در بین آن نیمه، دچار تغییرات عظیم بیولوژیکی شده است؟ مطمئنا نه، اگرچه از نظر بیولوژیکی، در سن هجده سالگی هم از لحاظ جسمی و هم از لحاظ روحی بسیار متفاوت تر از سن ۱۰سالگی است.
 
-In the same way, a man who is greatly mentally deficient can be considered far less responsible for his own actions. A man with an IQ of sixty-five is mentally scarcely more than a little child – a man with an IQ of one hundred is an average adult. If we say that a man with an IQ of eighty becomes responsible, then we are by definition saying that a man with an IQ of seventy-nine is not responsible – is that a clear, fair, and utterly objective demarcation? Certainly not, but in order for most concepts to be practical, the criterion of “good enough” and a reasonable cost/benefit analysis must be put into place. As mentioned above, no water is perfectly pure, but waiting for perfect purity would simply cause a man to die of thirst.
+به منظور بهره وری، اگر از نظر اخلاقی هم کامل نباشد، انتقال های دلخواه اغلب بین یک حالت و حالت دیگری قرار میگیرد. کودکی قطعا یک دوره است؛ بزرگسالی نیز یک دوره دیگر می باشد. انتقال بین دوران کودکی و دوران بزرگسالی مخلوط شده است. آن سفید یا مشکی نیست،اما تقریبا شبیه روزی است که به سمت غروب و شب نزول میکند. ظهر قطعا شب نیست و نیمه شب قطعا در روز اتفاق نمی افتد اما زمان هایی نیز در این بین  وجود دارند که گفتنشان سخت است. گرچه ، مسیر انتقال همیشه واضح است.
 
-Given that the question of moral responsibility and intellectual capacity only applies to a very small percentage of people right on the border, and that creating objective and perfect tests is very likely to prove impossible, there will inevitably be some “rules of thumb” that win the day. We can only assume that, since biologists live with this kind of occasional subjectivism every day, moral philosophers can somehow survive as well.
+به همین طریق کسی گه تا حد زیادی  از لحاظ ذهنی دچار مشکل است، میتواند برای اعمال خود کمتر مسئول باشد. فردی با درجه ی ایکیوی ۶۵ تقریبا مانند یک بچه ی کوچک است. فردی با درجه ی ایکیوی ۱۰۰، یک بزرگسال معمولی است. اگر ما بگوییم که شخص با درجه ی ایکیوی ۸۰ مسئول است، پس ما طبق تعریف می گوییم که فردی با درجه ی ایکیوی ۷۹ مسئول نیست. ایا این یک تعریف روشن،عادلانه و کاملا عینی است؟ مطمئنا خیر. اما برای اینکه اکثر مفاهیم عملی باشند، معیار "به اندازه کافی خوب بودن" و یک تجزیه و تحلیل سود/هزینه منطقی باید وجود داشته باشد. همانطور که در بالا گفته شد، هیچ آبی کاملا خالص نیست اما انتظار برای ابی با خلوص کامل میتواند به سادگی منجر به مرگ فردی از تشنگی شود.
 
-### Property As Universality
+با توجه به اینکه مسئله ی مسئولیت اخلاقی و ظرفیت ذهنی تنها در مورد درصد بسیار کوچکی از مردم در مرز اعمال میشود، و بوجود اوردن تستهای عینی و کامل غیر ممکن به نظر میرسد. برخی از "قوانین شتی" ناچارا باید وجود داشته باشد که به برد در روز منجر شوند. ما فقط میتوانیم فرض کنیم که ، از آنجا که زیست شناسان هرروز با نوعی از این زادگرایی زندگی میکنند، فیلسوفان اخلاقی نیز به نحوی میتوانند زنده بمانند.
 
-UPB thus gives us clear options with regards to property rights. It cannot be the case that some men have property rights, while other men do not. It cannot be the case that men in Washington have property rights, while women in Baltimore do not. It cannot be the case that men have property rights today, but not tomorrow, and so on.
+### دارایی جهانی
 
-It also cannot be the case that men have only fifty percent property rights.
+به این ترتیب، یو پی بی به ما گزینه های روشنی را با توجه به حقوق مالکیت می دهد. این نمی تواند امکان پذیر باشد که بعضی از انسانها حق مالکیت داشته باشند و برخی این حق را نداشته باشند. این امکان پذیر نیست که مردان در واشنگتن دارای حقوق مالکیت باشند اما زنان در بالتیمور این حق را نداشته باشند. این امکان پذیر نیست که مردان امروز از حق مالکیت برخوردار باشند، اما فردا این حق از آنها سلب شود و غیره.
 
-If I argue: “Men only have fifty percent property rights,” then I create yet another insurmountable contradiction. You may well ask me which half of my sentence was *not* generated by me. If I only have fifty percent property rights, then clearly I only have fifty percent control over my own body – if I put forward the above sentence, then clearly I am only in control of fifty percent of that sentence, since I only have fifty percent control over my voice. Who, then, is responsible for the other fifty percent of my sentence?
+همچنین این نیز امکان پذیر نیست که مردان تنها از ۵۰درصد از حقوق مالکیت برخوردار باشند.
 
-This may sound esoteric, but it is a deadly serious question, for reasons that we will get to shortly.
+اگر من بگویم:" مردان تنها ۵۰درصد از حقوق مالکیت را دارند." من تضاد غیرقابل تحملی را ایجاد میکنم، شما ممکن است از من بپرسید که نیمی از جمله ی من، توسط من ساخته "نشده" است. اگر من تنها ۵۰درصد از حقوق مالکیت را داشته باشم، پس واضح است که تنها بر ۵۰درصد بدن خود نیز کنترل دارم. اگر من جمله بالا را مطرح میکنم، پس تنها بر ۵۰ درصد از صدای خودم کنترل دارم. پس چه کسی مسئول ۵۰درصد دیگر جمله من است؟
+
+این ممکن است مبهم به نظر برسد، اما این یک سوال کاملا جدی است که بنابر دلایلی به زودی به آن خواهیم رسید.
 
 اجازه دهید بگوییم اگر ما مشکل "۵۰درصد مالکیت بدن" را بصورتی جادویی حل کنیم و بگوییم وقتی پای اشیا "خارجی" به میان می آید، انسان تنها ۵۰درصد از حق مالکیت را دارد.
 
@@ -115,5 +116,6 @@ This may sound esoteric, but it is a deadly serious question, for reasons that w
 اگر داگ چراغ قوه ی باب را بدزدد، اما پس از آن از سرقت خود به وسیله ی رد حقوق مالکیت دفاع کند، بنابراین، واضح است که باب نمیتواند به داگ اعتراض کند که چراغ قوه اش را برگرداند. از آنجایی که حقوق مالکیت نامعتبرند، اکنون داگ هیچ ادعای معتبر تری بیشتر از باب ، برای تصاحب چراغ قوه ندارد . نهایتا، اگر داگ تحت اصل "سرقت خوب است”، چراغ قوه ی باب را بدزدد، واضح است که داگ نمیتواند هیچ اعتراض منطقی به کس دیگری که چراغ قوه را فورا دزدیده است، داشته باشد. با این حال، اگر در لحظه ای که او آن را در دستان کوچک و گرمش داشت، فرد دیگری آن را از او دور کرد. این احساس فوق العاده کوچکی برای داگ به منظور مصرف زمان و انرژی که برای دزدیدن چراغ قوه ی باب صرف کرد، ایجاد کرد. به عبارت دیگر، کارکردن برای بدست آوردن کنترل یک قطعه از اموال، تنها در صورتی معتبر است که شما بتوانید حق مالکیت خود را بر شیئ دزدیده شده اثبات کنید. هیچکس خودش را برای دزدیدن یک کیف پول اذیت نمیکند. اگر دقیقا بداند چیزی که دزدیده است، دقیقا زمانی که آن را بدست میگیرد، از او دزدیده خواهد شد.
 
 به عبارت دیگر، سرقت در عمل، هم تایید حقوق مالکیت است و هم انکار حقوق مالکیت. و هر نظریه ی اخلاقی که از سرقت پشتیبانی میکند، وجود حقوق مالکیت را هم تایید و هم رد میکند. – یک تضاد صریح که هر نوع تئوری از این قبیل را بی اعتبار میکند.
+
 
 به عنوان مثال، اگر به جنبه های اخلاقی کمونیسم نگاه کنیم، حقوق مالکیت، به صراحت برای فرد رد میشود . با این حال، آن افرادی که خود را "دولت" می نامند؛ ادعا میکنند که حق دارد کنترل اموال را بدست گیرند. این در عمل بدان معنا است که کنترل اموال برای برخی از افراد "شر" است و برای برخی دیگر "صلاح" است. از آنجایی که هیچ تمایز بیولوژیکی بین گونه های واژه های "حکم کننده" و "حکم شونده" وجود ندارد، ما به وضوح میتوانیم ببینیم که در اینجا، برای گونه های یکسان، ما کاملا مخالف قوانین اخلاقی هستیم که قابل اعتبار نیست. یو پی بی به صراحت خواستار آن شده است که قوانین اخلاقی باید برای همه، در هر مکان و هر زمان، هماهنگ باشد. بیان اینکه اعمال حقوق مالکیت برای ایوان دنیسوویچ غیر اخلاقی است اما برای جوزف استالین اعمال حقوق مالکیت "او" اخلاقی است، یک تضاد طبقاتی ایجاد میکند که این همانند ریختن آب در استخر است. هر دو به صورت همزمان آن را پر و خالی میکند.

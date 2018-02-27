@@ -117,14 +117,14 @@ Termasuk kata "ikan" tetap bermasalah dalam perumusannya, karena terlalu spesifi
 
 Jika bagaimanapun adalah jahat untuk membunuh, kita sedang menghadapi masalah "kejahatan yang tak terelakkan." Tidak ada satupun manusia yang bisa eksis tanpa membunuh organisme lain seperti virus, tumbuhan, atau binatang. Sehingga "kehidupan manusia" didefinisikan sebagai "kejahatan." Namun jika kehidupan manusia didefinisikan sebagai kejahatan, maka tidak dapat *menjadi* jahat, karena penghindaran menjadi sebuah kemustahilan.
 
-What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
+Bagaimana jika seandainya kita mengatakan: "Adalah sebuah kejahatan membunuh orang" – apakah itu akan membuat hiu pemakan manusia adalah jahat?
 
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
+Tidak – sekali lagi, karena seekor hiu tidak memiliki kapasitas untuk menghindari pembunuhan terhadap manusia, mereka tidak bertanggung jawab atas tindakan seperti itu, melebihi tanah longsor bisa dibawa ke pengadilan jika itu membunuh manusia.
 
-UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
+UPB memungkinkan pengecualian berdasarkan pada materi objektif dan universal atau perbedaan biologis, sama juga dengan pengetahuan lainnya. Teori ilmiah mengatakan bahwa gas akan mengembang ketika dipanaskan, itu benar, hanya untuk gas. Saya tidak bisa membatalkan teori ini dengan membuktikan bahwa itu tidak berlaku, katakanlah untuk plastik.
 
-In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+Melalui cara yang sama, moralitas hanya diterapkan sebagai kesadaran rasional, karena persyaratan untuk dapat dihindari. Jika saya mencoba menerapkan teori moral ke siput, pohon, batu, atau konsep "angka," saya berusaha menyamakan kesadaran rasional dengan entitas yang mungkin tidak rasional dan dibawah kesadaran, yang merupakan kontradiksi logika. Mungkin saya juga mengatakan bahwa Dalil Sudut Berlawana dalam geometri tidak valid karena tidak berlaku untuk sebuah lingkaran, atau awan. OAT hanya berlaku untuk garis bersilangan – mencoba untuk menerapkannya pada situasi lain adalah konseptual yang setara dengan percobaan untuk melukis udara.
 
-In other words, misapplication is not disproof.
+Dengan kata lain, kesalahan penerapan bukanlah bantahan.
 
-There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
+Terdapat banyak "area abu-abu" lainnya yang bisa kita jalani, dari kegagalan sampai hak kekayaan intelektual hingga pemulihan dan sebagainya, namun menurut saya jauh lebih penting untuk mengambil UPB dari ranah yang abstrak, serta mulai menerapkannya pada masalah dunia nyata yang kita hadapi saat ini

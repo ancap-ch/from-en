@@ -115,7 +115,7 @@ Sin embargo, los filósofos que se oponen a *todo* error intelectual son los ene
 
 El método científico requiere que cada tesis esté respaldada por evidencia y racionalidad. Puesto que no hay evidencia de los Dioses – y que cada *idea* de los dioses es de por si -contradictoria- la tesis "dios existe" no se puede aguantar. Inevitablemente, los parásitos religiosos tratan de defender su tesis tratando de dividir la realidad en "dos reinos" – el científico y el espiritual. Sin embargo, no hay evidencia para la existencia de este reino "espiritual" en el presente, más de lo que había para el universo paralelo de las "Formas" platónicas hace dos mil quinientos años.
 
-Por lo tanto, el establecimiento de una verdad consistente y universal necesariamente limita y destruye el potencial de explotación de la ilusión. En particular, las "Grandes verdades" las cuales son universales y consistentes, hacen redundantes y ridículas las "medianas verdades" – que en realidad son fantasías de explotación. Estamos familiarizados las "media verdad" de la religion: algunos otros serán examinados y revelados aquí, algunos de los cuales pueden sorprenderlo.
+Por lo tanto, el establecimiento de una verdad consistente y universal necesariamente limita y destruye el potencial de explotación de la ilusión. En particular, las "Grandes verdades" las cuales son universales y consistentes, hacen redundantes y ridículas las "medias verdades" – que en realidad son fantasías de explotación. Estamos familiarizados las "media verdad" de la religion: algunos otros serán examinados y revelados aquí, algunos de los cuales pueden sorprenderlo.
 
 ### Parasitismo Efectivo
 
@@ -131,4 +131,4 @@ Este es un ejemplo de una "media verdad" que oculta una "gran verdad" que es "ro
 
 Este libro se centrará en exponer y destruir estas "medias verdades" falsas. Creo que la humanidad sufre infinitamente bajo la tiranía de falsas "verdades medias" éticas que justifican las destructivas cosmovisiones de la superstición religiosa, el despotismo secular y el culto a la familia.
 
-Mi tesis en este libro es que en la ética, como en cualquier otra disciplina intelectual, las grandes verdades crecen directamente de las pequeñas verdades. La niebla desorientadora de las "verdades medias" es un camino infernal para navegar, pero vale la pena luchar porque la única alternativa fundamental a la verdad es la explotación, la destrucción - e, inevitablemente, la prematura desaparición de millones.
+Mi tesis en este libro es que en la ética, como en cualquier otra disciplina intelectual, las grandes verdades crecen directamente de las pequeñas verdades. La niebla desorientadora de las "medias verdades" es un camino infernal para navegar, pero vale la pena luchar porque la única alternativa fundamental a la verdad es la explotación, la destrucción - e, inevitablemente, la prematura desaparición de millones.

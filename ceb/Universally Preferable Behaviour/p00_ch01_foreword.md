@@ -1,65 +1,58 @@
-## Foreword
+## Pasiuna
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+Sa daghan nga mga sugilanon sa diwata, adunay nagapuyo nga usa ka makalilisang nga mangtas nga gahom ang gahom, usa ka dragon o usa ka dragon nga adunay duha ka mga tiil, nga kinsa nakahadlok sa mga yutang nagpalibot niini. Ang mga lokal nga lumulupyo kay nagakurog atubangan niini nga mangtas; sili mingsakripisyo sa ilaha nga mga kahayupan, nagabayad og kwarta ug dugo sa paglaum nga am-am sa mga kalit nga pamabunoon niini.
+Kadaghanan sa mga tawo kay nahadlok sa ka peligro niini nga mangtas, ilahang gitawag nga “kakimi” ang ilaha nga kahadlok, pero may pipila – nga mingdawat tingali tungod sa kaisog o pagkalimbungan – mingdesidir sa pakigbatok. Tuig human sa tuig, dekada human sa dekada, tapok human sa tapok sa mga maglaoman nga mga kampyon ang mingsuway og tupong sa ilaha nga kusog, birtud ug kaabtik batok niini nga makalilisang nga salbahis.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Pagsuway – ug kapakyasan.
 
-Try – and fail.
+Ang mangtas ay kanunay nga walay kamatayon, maong ang mga lumulupyo dili makalaom alang sa panahon nga sila makalingkawas niini sa ilaha nga manlulupig. Ang mangtas kay dili gayud rasyonal, ug wala gyuy gusto nga makigpatigayon, ug mao sad nga walay pakignegosyasyon nga posible.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Ang mga lumulupyo nga desperado nga naglaom lang sa usa ka tawo nga motumaw nga siya ra ang makapapildi sa mangtas.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Sa dili malikayan, usa ka tawo ang minglakang paatubang nga kinsa makaigo sa tanan nga maoy naglabing hingpit nga wala nagkadimao. Siya usa ka lig-on nga lalaki, usa ka anak sa tigbuhat og sapatos, usa ka tinudloan sa panadero – o usahay, usa lang ka tigbagdoy-bagdoy.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Kini nga libro kay istorya sa akong personal nga pag-atake ngadto sa susama nga mangtas.
 
-This book is the story of my personal assault on just such a beast.
+Kini nga “mangtas” kay ang pagtuo nga kini kay imposible nga makahinganlan og usa ka tumong, rasyonal, sekular ug sistema sa etiko sa siyentipiko. Kini nga “mangtas” kay ang ilusyon nga ang moralidad kinahanglan sa hangtud-hangtud nga mawala sa dili makatarunganon nga hugaw sa mga ginoo ug mga gobyerno. Kini nga “mangtas” maoy gipantasya nga birtud, atong dako kaayo nga kalipay, atong kalipay sa kinahiladman, kinahanglan nga ipangsalikway sa mga nagtubo nga sekular, ug gibiyaan lang og kalit aron makawrasan, maparada ug mapahimuslan sa mga pulitiko ug mga pari – ug mga ginikanan. Kini nga “mangtas” kay tuo-tuo lang, wala ang mga tirada sa mga ginikanan, ang pagdaog-daog sa mga ginoo o sa mga pusil sa mga gobyerno, dili kita mamahimo sa duha nga rasyonal ug maayo.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Kini nga mangtas kay nakapatay na og daghan nga mga bayani, gikan ni Socrates ngato kang Plato ngadto kang Augustine ngadto kang Hume ngadto kang Kant ngadto kang Rand.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Ang kantidad ngadto sa katawhan kay sobra kadako.
 
-The cost to mankind has been enormous.
+Tungod nga kita kay nagpabilin nga dili gihapon makahingan sa rasyonal nga sistema sa unibersal nga moralidad, kita kay napugos lang sa paghamtang ngadto sa atong mga anak og mga istorya sa kahadlok sa relihiyon, o paghatag og mga pusil, mga prisohan ug mga kasundaluan ngadto sa usa ka monopolyo sa mga tigkontrolar nga walay pagbati ngadto sa katawhan nga mingtawag sa ilaha nga kaugalingon isip “ang estado.”
+Tungod sa “etika” nga gitawag nato og unsa nagpabilin gihapo nga hilisgotanan ug *pangkultura* lang, dili kita makalikay nga sa kataposan magdepende gihapon sa pagdaog-daog, kahadlok ug kagubot aron mapatuman ang mga mando sa katilingban. Tungod kay ang etika nagkuwang og rasyonal nga sukdanan sa pamaagi nga siyentipiko, ang “moralidad” pabilihin gihapon nga lamak sa mga gubat nga pangtribu sa mga mitolohiya nga duguon kaayo, matag gang nga nakigbatok sa labing grabe nga away alang sa pagkontrolar kabahin sa pag-unong sa katawhan ngadto sa “birtud.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Dili kita mapuyo kung walay moralidad, pero dili kita makaila sa katuyoan sa moralidad – busa magpabilin kita nga sa hangtud sa hangtud nga makondenar ngadto sa walay pulos nga mga kinabuhi nga garboso kaayo nga hipokrisiya, matahapon nga pagdominar o diyosnon nga pagpangulipon.
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Sa pagkaintelektwal, adunay dili tag-as nga mga pusta dinhi sa kalibutan. Ang atong pagkapakyas og pag-ila sa katuyoan ug rasyonal nga mga mando sa pamatasan kay mingkabat og mga gatosan ka mga milyones sa kinabuhi sa katawhan, sa mga gubat sa relihiyon ug mga estado.
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Sa daghan nga mga pamaagi, ang  mga pusta ay labaw nga nagkataas og pag-ayo.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Ang nagkasaka nga dagan sa impormasyon ngadto Interned kay nakaulbo sa mga pagduda ngadto sa usa ka bag-o nga henerasyon nga unsang gitawag og “birtud” kay walay butang nga makasobra – o makapaminos – kompara sa mga sugilanon sa diwata nga sa kaugalingon lang ming-alagad sa ilaha nga mga katiguwangan nga hipokrito. Ang mga diyosnon nga bakak nga gipangsulti adtong naa sa kagamhanan – ug ang kalambigitan sa kadto nga kinsa mingsimba kanila – kay klaro na karon kompara adtong kaniadto.
+Ang “kamatuoran” kay napadayag na isip manipulasyon; ang “birtud” isip pagkontrolar; “kamaunongon” isip pagpangulipon, ug unsa nga gitawag nga “moralidad” nga gipatumaw isip kat-awanan nga palabas nga kiko nga gidesinyo aron sa paglipat sa mga huyang ug mahadlokon nga mga tawo aron sa pagpaulipon sa ilaha nga mga kaugalingon.
 
-In many ways, the stakes are getting even higher.
+Kini nga pagkahimatngon kay nakapasiugda og usa ka bag-ong tubo nga mga tigduda, sama ra sa ilaha nga gibuhat kaniadtong ika-napulog-siyam nga siglo sa Alemanya. Kani nga mga grabe kaayo nga mga relatibista mingreserba sa ilahang hilabihan ka salbahis nga mga pagpangatake ngadto sa bisan kinsa nga ming-angkon sa bisan unsa nga porma sa kasiguroan. Kini nga human sa bag-o nga henerasyon kay mingdako sa kapihigon nga pangkultura sa ilaha nga tiningob nga mga kasaysayan, pero karon naglantaw sa *tanan* nga kamatuoran isip pagpahayag sa pagpihig lang.Pareha sa inosente nga mga bata nga namantsahan ngadto sa matahapon nga “kaalam,” sila minglantaw sa tanan nga komunikasyon isip pagpahibalo, nga tanan ging-angkon isip propaganda, ug mga pagpangawhag sa tanan nga pamatasan isip hipokrito nga pagpangawat.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+Tungod kay kita walay nahisabutan ngadto sa paghiusa, katuyoan ug gambalay nga rasyonal alang sa pagtimbang-timbang sa mga proposisyon sa pamatasan, ang “moralidad” pabilin gihapon nga lamak sa mistisimo, ug kini kay dili malikayan nga proposisyon nga napamatud-an na sa kagubot. Susama ra, sa wala pa ang Pagkahimata, ang mga sekta sa relihiyon kay nakiggubot sa walay kahunungon alang sa pagkontrolar bahin sa mga espada sa aristokrasiya, nga karon maoy nagkigkompetensiya sa mga gubat sa mitolohiya sa pamatasan alang sa pagkontrolar bahin sa Estado, ug tanan niini nga makinarya sa pagpamugos.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+Busa ang moralidad nagpabalin gihapon, nga doul sa moderno nga siyensya, susama sa gibuhat sa medyebal nga “astronomiya” ngadto sa moderno nga astronomiya – usa ka dominyo sa mitolohiya nga hinandurawan, nga gipatuman pinaagi sa paghisgot og istorya, mga pagpanghulga, pagpamugos ug pagpanghimulos – nga aktibo kaayo nga mingbara sa bisan unsa nga tinud-anay nga kalamboan patubang ngadto sa kamatuoran.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+Kini nga “mangtas” nga relatibistiko ngadto sa etika nga gabuntaog sa taas nato, nagatukob kanato, nangatarongan og mga pagpamuhis, pagpamriso, pagpamawal ug mga gubat. Kini mingulipon sa katan-onan sa mga eskwelahan nga estado ug kongregasyon nga matag Dominggo; kini minglit-ag sa mga pobre ngadto sa mahinay nga mga sistema sa pagpatrabaho ngadto sa kampo alang sa kaayohan; kinig mingulipon bisan sa mga wala pa natawo sa walay kinaubusan nga mga tabay sa nasudnon nga mga utang.T
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+Sa akong pagsulat sa miagi nga libro, “Ngadto sa Kamatuoran: Ang Kasalbahis sa Ilusyon,” nga maoy labing sukdanan nga mingbakak ngadto sa sentro sa mga wala napamatud-i nga mga teorya nga pang-etika nga kana nga susama nga mga teorya kay kanunay ipresentar ngadto sa mga bata isip katuyoan ug mga dili mausab nga mga kamatuoran, nga sa tinood sila kay mga mangpipihig lang sa kultura. Ang rason nga ang mga siyentista nga wala nagkinahanglan og gobyerno o ang Vatican kay ang mga siyentista adunay pamaagi sa katuyoan aron sa pagresolba sa mga panaglalis: ang pamaagi nga siyentipiko.Ang rason nga ang sinultihan wala nagkinahanglan og sentro nga kagamhanan aron sa paggiya sa ebolusyon niini kay nga kini nagadepende ngadto sa “gawasnon nga merkado” sa mga natingob nga mga gikagustuan sa indibidwal alang sa urog ug kapuslanan.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+Ang rason nga ang moderno nga moralidad – ug moralidad sa tibuok nga kasaysayan – kay kanunay nga modepende una ngadto sa pagdaog-daog sa mga bata, ug unya ngadto sa pagpanghulga sa mga nahamtong na, kay kini nga maoy usa ka motuisay nga pagpamakak nga gimaskarada isip usa ka birtud nga kamatuoran.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+Ang kamatuoran kay kita nanginahanglan og moralidad; ang bakak nga ang mga ginoo o mga gobyerno kay rasyonal nga makaila o makapatuman lang niini nga makatarunganon.
+Ang akong tinguha niini nga libro kay ang pag-ila sa pamaagi alang sa pagpamatuod sa mga teorya sa pamatasan nga katuyoan daw, makanunayon, matin-aw, rasyonal, empirikal – ug *matuod*.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+Hingpit ko nga nahibalo nga, sa kini nga panahon, nga ikaw mamahimong makapamati og pareha sa nagkataas nga balod sa dili pagtuo. Hingpit ko nga mingsabot nga ang purohan nga ang susama nga tawo nga anaa sa Internet – ang puy-anan sa kalibutan sa mga buang – kay nakasolbad sa problema nga pangpilosopiya sa tanan nga pangedaron sa usa ka pamaagi kay dili partikular nga tag-as – sa tinuod, sila mamahimo nga mas duol sa siro isip dili mahibal-an sa birtwal gikan niini.
+Sa gihapon, dili *duol* sa siro. 
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+### Mga Mando sa Kayutaan
+Ang talagsaon kaayo nga mga pagpangangkon nanginahanglan og talagsaon nga pruweba. Sa pagkuha niini nga hilabihan ka dako nga tahas – partikular sa susama nga mugbo nga libro – nga ako nakalagda og pipila ka mga basehan nga mando sa kayutaan nganhi sa akong kaugalingon, nga adunay bili sa pagpatubang diri.[^1]
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
-
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
-
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
-
-Still, not *quite* zero. 
-
-### Ground Rules
-
-Extraordinary claims require extraordinary proof. In taking on this mammoth task – particularly in such a short book – I have set myself some basic ground rules, which are worth going over here.[^1]
-
-[^1]: Most of these will be discussed in more detail throughout the course of this book.
-
+[^1]: Kasagaran niini kay mahisgotan sa mas labaw pa nga detalye sa kinatibuk-an nga kurso sa niini nga libro.
 1. I fully accept the Humean distinction between “is” and “ought.” Valid moral rules cannot be directly derived from the existence of anything in reality. The fact that human beings in general *prefer* to live, and must successfully interact with reality in order to do so, cannot be the basis for any valid theory of ethics. Some people clearly do not prefer to live, and steadfastly reject reality, so this definition of ethics remains subjective and conditional.
 2. Ethics cannot be objectively defined as “that which is good for man’s survival.” Certain individuals can survive very well by preying on others, so this definition of ethics does not overcome the problem of subjectivism. In biological terms, this would be analogous to describing evolutionary tendencies as “that which is good for *life’s* survival” – this would make no sense. Human society is an ecosystem of competing interests, just as the rainforest is, and what is “good” for one man so often comes at the expense of another.
 3. I do not believe in any “higher realm” of Ideal Forms. Morality cannot be conceived of as existing in any “other universe,” either material or immaterial. If morality exists in some “other realm,” it cannot then be subjected to a rigorous rational or empirical analysis – and, as Plato himself noted in “The Republic,” society would thus require an elite cadre of Philosopher-Kings to communicate – or, more accurately, *enforce* – the incomprehensible edicts of this “other realm” upon everyone else. This also does not solve the problem of subjectivism, since that which is inaccessible to reason and evidence is by definition subjective.

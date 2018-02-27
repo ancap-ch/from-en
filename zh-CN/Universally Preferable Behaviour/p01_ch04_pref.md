@@ -50,60 +50,61 @@
 
 ### 争论性和普遍性
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+如果我选择辩论，我已经含蓄地接受了各种各样的前提，值得花一些时间来打开这里。
 
-#### Premise 1: We Both Exist
+#### 前提1：我们都存在
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+如果我选择和你辩论，那么我必须承认我们都存在。如果相信我存在，但你不相信，那么辩论是没有意义的，那将是一个疯子的行为。如果我开始对着镜子里争论，我应该镇静下来，不要争论。
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+#### 前提2：感官有准确性的能力
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+因为人类无法沟通的精神，所有的争论必然涉及感官的证据。写作以视觉为前提；谈话需要听觉；盲文需要触摸。因此，，任何依赖于感官无效的命题都会自动地自我毁灭。
 
-#### Premise 3: Language Has The Capacity For Meaning
+#### 前提3：语言具有表达意义的能力
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+与“前提二”类似，从所有的参数需要语言，任何命题，在于语言是毫无意义的前提是立即反驳。用语言来论证语言是没有意义的，就像用信使来传递信息，认为信使永远不会传递信息。
 
-#### Premise 4: Correction Requires Universal Preferences
+#### 前提4：纠正需要普遍的偏好
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+如果你纠正了我所犯的一个错误，你就含蓄地接受了一个事实，那就是我最好改正我的错误。你喜欢我纠正我的错误不是主观的，而是客观的和普遍的。
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+你不要对我说：“你应该改变你的意见，我因为我喜欢它”，而是：“你应该纠正你的意见，因为它是客观正确的。“我的错误不会出现只是不同意你，但由于我的偏差从真理的客观标准。你的论点，我应该纠正我的错误意见取决于客观价值的真理- 即真理普遍优于错误，真理是普遍的客观。
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### 前提5：客观存在的方法是区分事实和谬误
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+如果你不同意我的看法，我告诉你，你必须同意我的观点，因为我总是对的，你不太可能因为我的论点的严谨而感到满意。如果你提供了很好的理由说明我为什么错了，但是我只是一直不断地重复说我是对的，因为我永远是对的，我们的互动几乎可以归类为辩论。
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+当我提供某种客观标准来确定虚假事实时，我接受的是真理不仅仅是意见问题。 
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+这并不一定意味着我的客观标准是合乎逻辑的 - 例如，我可以把你推荐给一个宗教文本。然而，即使我这样做了，我仍然承认，真理是独立于个人断言而来的，客观的方法论存在将真理与虚假分开。
 
-#### Premise 6: Truth Is Better Than Falsehood
+#### 前提6：真理胜于谬误
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+如果我告诉你世界是平的，你回答说世界不是平的，而是圆的，那么你就隐含地接受真理和谬误都是客观存在的真理，真理胜于虚假。
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+如果我告诉你我喜欢巧克力冰淇淋，你告诉我你喜欢香草，就不可能证明香草比巧克力更好。当你根据客观事实纠正我时，你是在接受客观事实，客观真理比主观错误更普遍。
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### 前提7：和平辩论是解决争端的最好办法
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+如果我告诉你世界是平的，你拔出枪向我射击，这将不是一个富有成效的辩论的例子。诚然，我们的不同意见将会“解决” - 但是因为我们中只有一个人被搁置了。
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+如果你事先告诉我，你会通过射击我来解决任何分歧，我不太可能与你进行辩论。因此，很明显，任何辩论都依赖于一个隐含的前提，即证据、理性、真理和客观性是解决个人之间争端的普遍可取的方法。认为应通过使用暴力来解决意见分歧是完全不合逻辑的 - 暴力价值的唯一一致论据就是使用暴力。[^4]
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+从本质上讲，辩论需要一种客观的方法论，通过有意义的语言来追求普遍真理，而这是客观上优于个人错误的。
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+这种对普遍真理的偏好不是度数的偏好，而是好的。缩短开车时间的捷径是长路线的两倍，但两者都比完全错误的方向行驶要好得多。
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+同样的道理，真理并不仅仅是“比错误更好” -它是无限可取的，也是必需的。
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### Premise 8: 前提8：个人对自己的行为负责
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+如果我认为人类对他们的行为不负责，我就陷入了一个悖论，那就是我是否对我的论点负责，以及你是否对你的反应负责。
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+如果我的论点是人类对自己的行为不负责，那么我对我的论点不负责任，你也不必对你的回答负责。但是，如果我认为你对自己的答复不负责任，那么提出一个论点就会变得毫无意义 - 这与用电视机辩论完全一样。[^5] 
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+因此，从根本上说，如果我告诉你，你对你的行为不负责，我告诉你，你普遍认为优先权是不可能的，因为如果你无法控制你的行为，你就不能选择一个优先的状态，即真理胜过谬误。因此，这个论点，像上述论点一样，自毁。
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^4]：记住这个特定的前提是很有用的，因为它在以后会非常重要。
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]：当然，责任问题当然与自由意志和决定论的问题密切相关，这将是另一本书的主题。
+
