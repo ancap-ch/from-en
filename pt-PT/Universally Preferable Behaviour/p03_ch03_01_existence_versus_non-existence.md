@@ -110,11 +110,11 @@ A "zona nula" é o covil da besta que estamos a caçar.
 
 Como podemos ver, sabemos que, pessoalmente, é errado roubar; temos muito poucos problemas com uma proibição lógica e abstracta sobre o roubo, tal como a tratamos anteriormente - porém ainda existe essa "zona nula" ou universo alternativo onde tais oposições podem ser aceites sem qualquer dúvida ou preocupação.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+De acordo com o CUP, para nós é errado roubar. No entanto, de alguma forma, nesta "zona nula", não só é permitido roubar mas também perfeitamente *moral* que outros roubem. Nós *não devemos* roubar - eles *devem* roubar. É loucura moral!
 
-### Policemen
+### Polícias
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+Deixe-nos tirar o nosso bom amigo Bob da sua pequena sala de testes de teoria moral e regressá-lo ao seu trabalho original como polícia.
 
 Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
 
