@@ -16,7 +16,7 @@ Kung sinabi ko na "gusto ko ng sorbetes," hindi tmaliwanag ang isang salita lama
 
 Ang mga kagustuhan ay hindi umuosbong talaga sa loob ng reyalidad. Kung sobra kang mausisa sa obsessively, pwede mo siguro na sundan ako sa paligid at i-rekord sa tuwing ako ay kumakain ng sorbetes, na kung saan ay pwedeng magbigay ng isang mabuting empirikal na batayan para sa aking mga gusto para dito. Ang posibilidad ay pwedeng umusbong, gayunpaman, na ako ay isang katotohanan na isang masokista at hindi ko gusto ang sorbetes nang lubos, at mas gusto ko na pahirapan ang aking sarili sa hindi kasiya-siyang panlasa - at tsaka ay maguluhan sa pamamagitan ng pagkuha sa mga gusto ko.
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+Kami ay makakahanp ng *ebidensya* para sa mga kagustuhan; ang mga kagustuhan ay hindi namin mahanap *ang kanyang sarili* sa reyalidad. Ang mga kagustuhan ay umuusbong gaya ng isang *relasyon* sa pagitan ng kamalayan at materya, gaya ng grabidad na umuosbong bilang isang relasyon sa pagitan ng mga katawan sa pangkat.
 
 Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
 
