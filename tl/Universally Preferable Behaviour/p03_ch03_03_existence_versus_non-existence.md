@@ -32,7 +32,7 @@ Ako ay nasabihan na, ayon sa kabanalang pagtalaga ng namumuhay sa kanada, ako ay
 
 Nakamit ng mga mitolohiya, ano ang tunay na isinalin nito?
 
-Sa katotohanan, ako ay makapaghihintay hanggang sa matapos ang oras para "ang pamalaan" sa pagdating at pagkuha ang salapi ayon. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+Sa katotohanan, ako ay makapaghihintay hanggang sa matapos ang oras para "ang pamalaan" sa pagdating at pagkuha ang salapi ayon. Ang paghintay sa "pamahalaan" na gumuho ay gaya ng kulang sa petsa o araw ng pagkakakilala sa "pagkababae". puwede koring subukan na magbayad ng aking pang hapunan sa sinasambit na "salapi."
 
 In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
 
