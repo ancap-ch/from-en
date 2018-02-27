@@ -1,58 +1,58 @@
-## Existence Versus Non-Existence
+## Iwalaaye Dipo Aiwalaaye
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+A ṣe apejuwe "Aiwalaaye" gẹgẹbi eyi ti ko ni ipamo tabi agbara, tabi tó ṣe afihan awọn ipa ti ipamo tabi agbara, bi àpẹẹrẹ tabi gẹgẹbi awọn alailegbe ibasepo bi iwale.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+Ọlọrun ko ni ipilẹ tabi agbara, tabi ṣe afihan awọn ipa ti ibi ipilẹ tabi agbara - Ọlọrun ni òtítọ́ ko ṣe iyasoto tabi ṣe afihan ni eyikeyi ọna, ni àpẹẹrẹ idi tabi iṣẹlẹ, boya nipasẹ awọn oye, tabi nipasẹ ọgbọn.
 
-Thus if I say, “God exists,” what I am really saying is:
+Bayii ti mo ba sọ wipe, "Ọlọrun wa," ohun ti mo n sọ ni pe:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+"*Ohun ti o wa laaye gbọdọ jẹ ti ṣàwárí ; Ọlọrun ko le ohun a ṣàwárí, sugbọn Ọlọrun wa - nitori naa ohun ti ko wa laaye, wa laaye*".
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+Ni awọn ọrọ miiran, sisọ wipe "Ọlọhun wa," mo ti ṣedà idaniloju ti ko ni agbara. Mo ti ṣe ìtumọ̀ alaye "wiwa laaye" bi "Ai wa laaye", eyi ti o jẹ ki o ni oye pupọ gẹgẹbi a ṣe apejuwe "igbesi aye" bi "ohun ailopin", tabi apata bi "idakeji ti apata", tabi "onihamerin" gẹgẹbi "ayika"
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+Bakan naa, ti mo ba ṣe dá aye miiran nibi ti "iwalaaye dipo aiwalaaye" ati "iṣirò túmọ̀ si ibamu" ati "òtítọ́ túmọ̀ si irọ nla" ati "imọ aimogbonwa túmọ̀ si imọ mogbonwa", lehinna ohun ti mo ti ṣe gan ni pe mo ti ṣe dá ipin kan ti a n pe ni "àṣìṣe", fi ohun gbogbo sinu rẹ ti ko jẹ òtítọ́, ati pe o ṣe alaye ipin yii gẹgẹbi ibi ti "àṣìṣe ti túmọ̀ si òtítọ́.”[^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Dajudaju, awọn eniyan ko ṣe dá "àyídáyidà aye miiran" lati le sọ òtítọ́ di alaimo laarin ara wa, sugbọn kuku lati gba ohun ti o jẹ àṣìṣe ni òtítọ́, ati pe o jẹ òtítọ́. Fún àpẹẹrẹ, ko si ẹni ti o jiyan pe "Ọlọhun le wa ni aaye miiran, nitori naa a ko le sọ wipe Ọlọrun ko wa laaye" ti jiyan "emi ko le wa ni aye miiran, nitori naa o ko le sọ wipe mo wa nibi.”
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
+Wọn tún sọra lati ma dahun daradara si ariyanjiyan naa pe : "Ni agbaye miiran, o le gba pẹlu mi wipe Ọlọrun ko si tẹ́lẹ̀, nitori naa o mu ki o jẹ alaigbagbọ.”[^3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+Ti àwọn gbolohun òtítọ́ nipa ile aye le jẹ ipalara ti ko ni opin nitori awọn opin kan ti a n pe ni" àṣìṣe ti o túmọ̀ si òtítọ́ " ṣe aisedede wọn, nigba naa ohun ti a n sọ ni pe "ko si awọn àsọyé gbolohun nípa òtítọ́ le jẹ iyi ti o wulo" - sibẹsibẹ, a ti lọ gbọn tó bi awọn onímọ̀ nisinsinyi lati mọ pe gbolohun yi gan gan nipasẹ ara ti o lodi, nitori o jẹ gbolohun ti o daju ti a ro si ọrọ òtítọ́ tó sọ wipe ko si gbolohun òtítọ́ tó le jẹ ododo. Ti ko ba si nkan ti o le jẹ òtítọ́ tabi eke - paapaa gbolohun naa - lehinna ko si ọrọ gbolohun ohunkohun ti a le ṣe nipa ohunkohun. Lilo awọn ọrọ, lilo ede gẹ̀ẹ́sì, lilo awọn gbolohun ọrọ ti oye - gbogbo wọn ko ni oye nigbakigba, nitori ni "agbaye aye miiran" iru awọn ọrọ ti a sọ yii le jẹ ọrọ lasan. Ti àwọn ohun ti o le jẹ òtítọ́ ni aaye miiran yii ni ipa lori awọn gbolohun ti a ṣe ni aaye yii, lehinna iyipada tún jẹ́ òtítọ́ kedere, eyi ti o túmọ̀ si pe ko si gbolohun kan ti a le ṣe nipa ohunkohun, niwọn gba ti idakeji ọrọ naa le jẹ òtítọ́.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+Òtítọ́ ti gbolohun "àṣìṣe túmọ̀ sí òtítọ́" jẹ asan ọrọ ti ajerisi ti "asan ni o jẹ asan.”
 
-### The "Alternate Universe" In Human Society
+### Awọn "Agbegbe Aye Miiran" ni Awujọ Eniyan
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+Idi ti a ti ń lo akoko pupọ lilo pọ "agbegbe aye miiran" ilana ni wipe o ni ipa ti o tọ si àwùjọ eniyan, a si lo lati ṣe "idalare" awọn ibi ti o tobi julọ ti a ṣe laarin wa.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+Ninu iriri ti ara wa, a mọ pe ipaniyan jẹ nkan ti o dara. Ni ṣíṣe nipasẹ imọran pe iku jẹ aisedede ti asa ni awọn àpẹẹrẹ ti o wa loke, mo ṣe iyaniloju pe ẹnikẹni ni iyalenu lati ri pe awọn iwa isesi wọn ṣe itonisona nipasẹ isaro ti o ti lagbara ti UPB. Ni apakan yii, sibẹsibẹ, o jẹ iyooda àṣẹ fun ọ lati bẹ̀rẹ̀ sii ni iyalenu.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Awọn ilosiwaju ti o tọ tobi julọ ni oye imọ ero sayensi jẹ awọn imọran ti a n pe ni "iṣirò awọn isokan". Ogbeni Einstein lo ọpọlọpọ ọdun ti o n gbiyanju lati ṣe isedede ilana aye isokan ; ati awọn ilana ti fisisi ti o so awọn alagbara ati ailera, ẹmu ina, iwale ati bẹbẹ jẹ ṣíṣe.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+UPB gẹgẹbi ilana, sibẹsibẹ, kii ṣe pe o ni idalare awọn ẹkọ ti o wa ni ara ẹni nikan, awọn ọgbọn ati awọn ipele ti gbogbo agbaye - sugbọn tún ni awọn iṣẹlẹ ti o tobi gan an ati ti o jẹ iyalenu fún àwùjọ eniyan.
 
-#### UPB In Action
+#### UPB ni I gbèsè
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+Awọn ilana UPB mu awọn iseduro iwa afihan jẹyọ nípa wiwa pe ki wọn wa ni ibamu atinu wa, ati ki o si jẹ ti agbaye nipasẹ akoko, ibi ati awọn eyan.
 
-If we accept UPB, we must also accept the following corollary:
+Ti a ba gba UPB, a gbọdọ tún gba awọn atẹ́lẹ̀ yii:
 
-- Moral propositions are independent of costume.
+- Awọn iseduro isọ̀tẹ̀ jẹ ominira lati aso ere.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Ohun ti eleyii túmọ̀ si ni wipe okunrin ko le yi iwa ẹda rẹ pada pẹlu aṣọ rẹ. Ìṣe iyipada aṣọ iyara kan ko ni paaro ẹda ara ẹni. Bayii ikojuda awọn ofin iwa ko le jẹ iyi ti o wulo ti o da lori awọn aṣọ ti eyan má ń wọ.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Awọn ọmọ ologun, dajudaju, wọ aṣọ ti o yato si ti awọn ọmọ ilu. O jẹ ewo fún ọmọ ilu lati paniyan; awọn ọmọ ogun, sibẹsibẹ, ko gba laaye lati paayan, sugbọn wọn ni iyin fún igbebi.
 
-Let’s take another example.
+Ẹ jẹ ki a mú àpẹẹrẹ miiran.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Ole jija jẹ iwa aisedede ti ko dara, bi a ti ri loke. O jẹ àṣìṣe buburu fún gbogbo eniyan ni gbogbo ipo ni gbogbo igba ati lábẹ́ awọn ayidayida. Niwọn ti ole jija jẹ igbasile agbara ohun ini elomiran ti ko ni idaniloju, lehinna owo ori jẹ nígbà gbogbo, ni gbogbo aaye ati titi lailai iwa buburu. Owo ori jẹ nipa ìtumọ̀ iyipada ti agbara ti ohun ini ẹnikan laisi igbasile wọn. Laisi idaniloju, niwọn gba ti owo ori da lori idile ti lilo agbara lati yọ eniyan kuro ninu ohun ini rẹ.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+Ohun ti a n pe ni "ijọba" jẹ àpẹẹrẹ miiran ti agbegbe yii ti o jẹ pe o ke wa ni ìsàlẹ̀, dudu jẹ funfun, òtítọ́ jẹ irọ ati buburu jẹ daradara.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Àwùjọ ń tesiwaju lọ si idiyele ti idi ati awọn ẹri ti o ṣe ilosiwaju nla lati ara ẹni si gbogbo agbaye, ati pe gbogbo awọn agbegbe ita ti ko ni abawon ni ọna. Imọ sayensi ń tesiwaju si ipo ti o kọ iru aisedeedee ti Ọlọhun ati pe o jẹ apejuwe "awọn idiyele". Isegun nlo síwájú si ipo ti o lodi si agbara ipa ati adura ofo, ati dipo duro lori idi ati ẹri. Imoye tún - ati awujo eniyan ni àpapọ̀ - yoo safihan ni pato si iye ti o kọ iru iwa aiye ni alaiwi "ti iwa ayika onihamerin" ti asopo ati iṣirò ti ẹkọ ilana ẹsin.
 
-### Government
+### Ijọba
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Sísọ wipe ijọba ń ṣíṣe lábẹ́ awọn ilana ilodi ofin iwa ti o yato si ti àwùjọ eniyan yoku jẹ gan gan bi sísọ wipe "nkan kekere ailogbon ni ominira si ijabole". Ni àkọ́kọ́, nkan kekere ailogbon ko si laaye - ati ọkan ninu awọn ọna ti a mọ pe wọn si laaye ni pe wọn ni ominira si iwale. Ohun gbogbo ti o ni ipamo jẹ koko ọrọ ijabole - eyi ti o ni ominira si iwale nipasẹ itumo ko si tẹ́lẹ̀. Ọrọ gbolohun yii "awọn nkan kekere ailogbon ni ominira si iwale" jẹ elo ọrọ kan, eyi ti o jẹri si aiwalaaye nkan kekere ailogbon - o jẹ ibamu deede ti "ohun ti ko wa laaye, ko wa laaye". A jẹ A. Ofin àkọ́kọ́ Aristotle ọlọ́gbọ́n ṣe díè iyebíye lati jẹrisì idi ti a túmọ̀ bi ki ko wa laaye.
 
 In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
 
