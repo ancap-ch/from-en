@@ -46,7 +46,7 @@ Kaya kapag sinabi ko ang tungkol sa mga kagustuhan na pang-unibersal, tinatalaka
 
 Gayon din, kung ang isang lalaki ay gusto na gamutin ang isang impeksyon, siya ay *kailangan* kumuha ng mga antibyotiko sa halip na magsagawa ng isang Aztec rain dance. Ang kagustuhan para sa pagkuha ng mga antibyotiko sa kesa sa paggawa ng rain dance ay panglahatan, dahil ang pagsasayaw ay hindi makakakagaling sa mga impeksyon. Samakatuwid, kahit na merong paminsan-minsang luko-luko na susubukang gamutin ang kanyang sarili sa pamamagitan ng pagsasayaw, ito parin *higit na mabuti sa buong mundo* na kung ang isang lalaki na gamutin ang kanyang sarili, kailangan syang kumuha ng mga antibyotiko.
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+Sa mga ibang salita, kung gusti mong makapunta sa ibabaw ng isang bundok, ang hangarin na hindi kailanman ito gagana. Kung gusto mo maunawaan ang mga pinanggalinga ng mundo, ang pagdasal ay hindi kailanman maibibigay ang sagot. Ang mga tao hanggan ngayon ay nagnanais, at nagdadasal, ngunit hindi na ito nagagawa nang paulit-ulit na pagnanais o pagdadasal. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
 
 ### Arguments And Universality
 
