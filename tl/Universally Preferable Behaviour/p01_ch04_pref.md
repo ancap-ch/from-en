@@ -14,7 +14,7 @@ Kaya naman sa mga etika, gaya ng sa siyensiya, mga matimatika, pag-iinhinyero at
 
 Kung sinabi ko na "gusto ko ng sorbetes," hindi tmaliwanag ang isang salita lamang ang nananatili sa pangungusap na iyon. Maliwanag na "ako" ay umuusbong, dahil ipinahahayag ko ang isang pansariling kagustuhan. Gayundin na maliwanag na, "ang sorbetes" ay umuosbong din sa reyalidad. Gayunpaman, ang salitang "gaya" ay higit na may suliranin.
 
-Ang mga kagustuhan ay hindi umuosbong talaga sa loob ng reyalidad. Kung sobra kang mausisa sa obsessively, pwede mo siguro na sundan ako sa paligid at i-rekord sa tuwing ako ay kumakain ng sorbetes, na kung saan ay pwedeng magbigay ng isang mabuting empirikal na batayan para sa aking mga gusto para dito. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Ang mga kagustuhan ay hindi umuosbong talaga sa loob ng reyalidad. Kung sobra kang mausisa sa obsessively, pwede mo siguro na sundan ako sa paligid at i-rekord sa tuwing ako ay kumakain ng sorbetes, na kung saan ay pwedeng magbigay ng isang mabuting empirikal na batayan para sa aking mga gusto para dito. Ang posibilidad ay pwedeng umusbong, gayunpaman, na ako ay isang katotohanan na isang masokista at hindi ko gusto ang sorbetes nang lubos, at mas gusto ko na pahirapan ang aking sarili sa hindi kasiya-siyang panlasa - at tsaka ay maguluhan sa pamamagitan ng pagkuha sa mga gusto ko.
 
 We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
 
