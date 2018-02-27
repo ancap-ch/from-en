@@ -1,4 +1,4 @@
-## Ang muling pagdalaw sa walang lugar
+## Ang muling pagdalaw sa Walang Lugar
 
 Sa simula ng aklat na iyo. nilagay ko sa daan patungo sa pagtingin nga kung paano na proseso ang katutuhanan, kahalintulad nito sa pisika. Umpisa sa "mga maliit na katotohanan" sa pagkuha ng baseball, tayo ay dumadating sa "malaking katotohanan" ng pisika - at ng malaking katotohana na hindi pwede salungat sa mga maliliit na katotohanan.
 
