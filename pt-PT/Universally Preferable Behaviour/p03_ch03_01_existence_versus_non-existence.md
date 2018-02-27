@@ -88,19 +88,19 @@ A força aberta envolvida na instituição do governo - o revestimento teórico 
 
 No entanto, isso é um completo absurdo.
 
-Se um homem mantém uma faca na garganta de uma mulher enquanto faz sexo com ela, isto é, por qualquer definição, uma violação. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Se um homem mantém uma faca na garganta de uma mulher enquanto faz sexo com ela, isto é, por qualquer definição, uma violação. Ele não pode dizer que o sexo é consensual, ao mesmo tempo que a ameaça de maus-tratos ou de morte se ela se recusar a fazer sexo com ele. Se o sexo é voluntário, a faca é completamente desnecessária. Se o homem sentir a necessidade de uma faca, então, o sexo *não* é voluntário.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+Do mesmo modo, as pessoas dizem que a tributação faz parte do contrato social em que concordaram voluntariamente.
 
-This is both logically and empirically false.
+Isso é lógica e empiricamente falso.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Sabemos que é empiricamente falso porque *não existe contrato social*. Nem você nem eu *alguma vez* assinámos um documento, voluntariamente, consentindo o imposto de renda - nós simplesmente nascemos num sistema que nos tira o dinheiro a ponta de pistola.
 
-### The Gun In The Room
+### A Arma No Quarto
 
-Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+Neste ponto, muitas pessoas poderão argumentar, que a tributação não é aplicada a ponta de pistola, mas que as pessoas pagam voluntariamente. Por exemplo, eu nunca tive uma arma apontada à cara por um cobrador de impostos ou um polícia, mas paguei impostos durante décadas.
 
-This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+Isso pode ser verdade, mas é completamente irrelevante. Se eu disser a uma mulher que matarei os seus filhos se ela não fizer sexo comigo e ela se submete a mim, entendemos, claramente, que ocorreu uma acção imoral - apesar de não ter usado nenhuma arma na minha violação. Evidentemente, se a mulher se me submete, é porque teme que eu leve a cabo a minha ameaça. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
 
 To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
 
