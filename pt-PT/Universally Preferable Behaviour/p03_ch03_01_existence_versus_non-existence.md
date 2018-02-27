@@ -24,7 +24,7 @@ A verdadeira realidade da afirmação "erro equivale a verdade" é a insanidade 
 
 A razão pela qual passamos tanto tempo a trabalhar com essa teoria do "universo alternativo" é que ela tem uma relevância directa para a sociedade humana e é usada para "justificar" os maiores males que são cometidos entre nós.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+Na nossa própria experiência pessoal, sabemos que assassinar é mau. Ao trabalhar com a proposição de que o assassinato está moralmente errado, nos exemplos anteriores, duvido fortemente que alguém tivesse ficado chocado ao ver os seus instintos morais confirmados, através do rígido raciocínio abstracto do CUP. Contudo, nesta secção, é oficialmente permitido que comecem a ficar realmente chocados.
 
 The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
 
