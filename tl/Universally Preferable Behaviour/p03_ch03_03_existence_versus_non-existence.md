@@ -46,7 +46,7 @@ Kalimitan, kung ang isang lalaki na mayroong isang baril ay napadpad sa aking ta
 
 Ngayon, ngayon kung ako ay papadpad patungo sa iyong tahanan ngayong gabi na nakabihis na isang "dakilang duwende ng narnia" at hingiin ang salaping iyong hiniram sa "reyna ng mga kalumbaya," sa pagkaakala ito ay hindi halloween, ikaw ay pinahihintulutang ko na tumitig sa akin upang ako ay hangaan at hingiin ko ang mula sa iyong mga ari-arian.
 
-If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
+If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. Siya ay puwede akong hawakan sa isang maliit na piitan para sa ngayong taon pakatapos ng taon, saanman ako maging sa nasasakupan ko ay ang napakarahas na kalupitan at walang tigil manggahasa, hanggang sa mapili niya upang pahintulutan akong pumaroon.
 
 Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
 
