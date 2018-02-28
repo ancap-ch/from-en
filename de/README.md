@@ -143,25 +143,25 @@ Last generated:
 
 | file name | translated | reviewed | words | translators | arbitrary | arbitrary |
 | - | - | - | - | - | - | - |
-| p00_ch01_foreword.md | :x: | :x: | 2k 380 | | | | | |
-| p00_ch02_intro.md | :x: | :x: | 3k 220 | | | | | |
-| p01.md | :x: | :x: |    001 | | | | | |
-| p01_ch01_a_framework.md | :x: | :x: | 1k 980 | | | | | |
-| p01_ch02_internal.md | :x: | :x: |    540  | | | | | |
-| p01_ch03_ethics.md | :x: | :x: | 1k 410 | | | | | |
-| p01_ch04_pref.md | :x: | :x: | 2k 040 | | | | | |
-| p01_ch05_01_univ.md | :x: | :x: | 1k 520 | | | | | |
-| p01_ch05_02_univ.md | :x: | :x: | 3k 090 | | | | | |
-| p01_ch06_upb.md | :x: | :x: | 2k 350 | | | | | |
-| p01_ch07_init.md | :x: | :x: |    910 | | | | | |
-| p01_ch08_lifeboat.md | :x: | :x: | 1k 500 | | | | | |
-| p01_ch09_the_beast.md | :x: | :x: | 1k 190 | | | | | |
+| p00_ch01_foreword.md | :o: | :x: | 2k 380 | jmotip | | | | |
+| p00_ch02_intro.md | :o: | :x: | 3k 220 | jmotip | | | | |
+| p01.md | :o: | :x: |    001 | jmotip | | | | |
+| p01_ch01_a_framework.md | :o: | :x: | 1k 980 | jmotip | | | | |
+| p01_ch02_internal.md | :o: | :x: |    540  | jmotip | | | | |
+| p01_ch03_ethics.md | :o: | :x: | 1k 410 | jmotip | | | | |
+| p01_ch04_pref.md | :o: | :x: | 2k 040 | jmotip | | | | |
+| p01_ch05_01_univ.md | :o: | :x: | 1k 520 | jmotip | | | | |
+| p01_ch05_02_univ.md | :o: | :x: | 3k 090 | jmotip | | | | |
+| p01_ch06_upb.md | :o: | :x: | 2k 350 | jmotip | | | | |
+| p01_ch07_init.md | :o: | :x: |    910 | jmotip | | | | |
+| p01_ch08_lifeboat.md | :o: | :x: | 1k 500 | jmotip | | | | |
+| p01_ch09_the_beast.md | :o: | :x: | 1k 190 | jmotip | | | | |
 | p02.md | :x: | :x: |    001 | | | | | |
-| p02_ch01_ethical_categories.md | :x: | :x: |    770 | | | | | |
-| p02_ch02_.._rape.md | :x: | :x: | 3k 310 | | | | | |
-| p02_ch03_.._murder.md | :x: | :x: | 1k 050 | | | | | |
-| p02_ch04_.._theft.md | :x: | :x: | 3k 550 | | | | | |
-| p02_ch05_.._fraud.md | :x: | :x: |    770 | | | | | |
+| p02_ch01_ethical_categories.md | :o: | :x: |    770 | jmotip | | | | |
+| p02_ch02_.._rape.md | :o: | :x: | 3k 310 | jmotip | | | | |
+| p02_ch03_.._murder.md | :o: | :x: | 1k 050 | jmotip | | | | |
+| p02_ch04_.._theft.md | :o: | :x: | 3k 550 | | | | | |
+| p02_ch05_.._fraud.md | :o: | :x: |    770 | jmotip | | | | |
 | p02_ch06_.._lying.md | :x: | :x: |    500 | | | | | |
 | p02_ch07_01_.._upb.md | :x: | :x: | 2k 400 | | | | | |
 | p02_ch07_02_.._upb.md | :x: | :x: | 1k 110 | | | | | |
