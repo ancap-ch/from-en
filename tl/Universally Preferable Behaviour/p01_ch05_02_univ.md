@@ -81,7 +81,7 @@ Ang katotohanan na ang pagsunod sa patakarang moral ay *opsyunal*, gayunpaman, n
 
 Ang nabubuhay na organismo ay parte ng materyal na katotohanan, at ang materyal na katotohanan ay makatwiran at obhektibo. Ang paglalagay ng moral na teyorya ay opsyunal, ngunit hindi ibig-sabihin na ang lahat ng teyoryang moral ay subhektibo. Ang siyentipikong paraan ay isa ding opsyunal, ngunit ito ay hindi subhektibo. Ang paglalagay ng biyolohikal na pagbuklod-buklod ay opsyunal, ngunit ang biyolohika ay hindi subhektibo. Ang mga pagpili ay opsyunal; ang kalalabasan ay hindi. Kaya kong pumili na hindi kumain, ngunit hindi ko kayang pumili na mabuhay ng hindi kumakain. Kaya kong pumili na pugutan ang sinuman, ngunit hindi ko kayang pumili na mabubuhay o hindi sila ng walang ulo. Ang moralidad ay gayon opsyunal, ngnit ang *epekto* ng moral na mga pagpili ay masusukat at obhektibo.
 
-Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
+Ngayon, dahil ang moralidad ay isang wastong konsepto, ang susunod na tanong ay: sa anong antas o hangganan ng moralidad ay wasto?
 
 As mentioned above, the first test of any scientific theory is *universality*. Just as a theory of physics must apply to *all* matter, a moral theory that claims to describe the preferable actions of mankind *must apply to **all** mankind*. No moral theory can be valid if it argues that a certain action is *right* in Syria, but *wrong* in San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. If it does, it is false and must be refined or discarded.
 
