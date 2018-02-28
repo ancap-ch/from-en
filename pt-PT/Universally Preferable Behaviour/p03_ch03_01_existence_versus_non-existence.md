@@ -154,13 +154,13 @@ Somos informados de que "queremos" que Bob tome o nosso dinheiro - o que contrad
 
 "Bem, isto é apenas uma nota manuscrita dizendo que você é dono do bairro todo - e é a mesma caligrafia da sua assinatura. Temo, que vamos ter de o prender - este é apenas um contrato inventado por si próprio, que está a impor aos outros a ponta de pistola "
 
-Isso é tão completamente insano e corrupto como eu continuar a dizer a uma mulher que estou a violar, que ela *quer* fazer sexo comigo. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+Isso é tão completamente insano e corrupto como eu continuar a dizer a uma mulher que estou a violar, que ela *quer* fazer sexo comigo. Consegue imaginar se eu estivesse em julgamento por violação e houvesse uma fita de vídeo da mulher a implorar-me que parasse e eu tivesse uma faca na sua garganta, como seria recebida a minha defesa, se eu continuasse a insistir que ela realmente *queria* fazer sexo comigo?
 
-In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
+No tribunal, eu seria injuriado e metido na prisão pela minha hipocrisia óbvia, louca, corrupta e egoísta.
 
-Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
+Ah, mas na "zona nula" do governo, a violação é fazer amor, o sequestro é um convite, rejeitar o roubo é egoísmo mau e a coerção é bondade.
 
-This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
+Isto é o que quero significar quando digo que este "mundo oposto *zona nula*" é a barreira fundamental para a felicidade humana em todo o mundo. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
 
 [^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
 
