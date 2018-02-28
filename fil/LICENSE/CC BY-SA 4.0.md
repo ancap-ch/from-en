@@ -136,7 +136,7 @@ b. **sa posibleng lawak, sa walang kaganapan ang Tagapaglisensya ay mananagot sa
 
 c. Ang pagtatatwa sa mga ganrantiya at limitasyon ng pananagutan na inilaan sa taas ay kinakailangan na ipakahulugan sa tamang ugali. sa posibleng lawak, karamihan sa pinakamalapit halos pumantay sa ganap na pagtatatwa at pananagutan sa lahat ng pagwawaksi.
 
-### Section 6 – Term and Termination.
+### Seksyon 6 – Termino at Pagwawakas.
 
 a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
 
