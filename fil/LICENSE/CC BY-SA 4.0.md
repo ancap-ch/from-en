@@ -164,7 +164,7 @@ a. Para sa pag-iwas sa pagdududa, ang Pampublikong Lisensya na ito ay hindi, at 
 
 b. Hangga't posible, kung ang anumang tadhana ng Pampublikong Lisensyang ito ay itinuturing na hindi maipapatupad, awtomatiko itong mababago sa pinakamaliit na lawak na kinakailangan upang maipatupad ito. Kung ang probisyon ay hindi mabago, ito ay puputulin mula sa Pampublikong Lisensyang ito nang hindi naaapektuhan ang pagpapatupad ng mga natitirang mga tuntunin at kundisyon.
 
-c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
+c. Walang anumang tuntunin o kondisyon ng Pampublikong Lisensya na ito ay talikdan at walang kabiguang sumunod na pumayag na maliban kung tahasang sinang-ayunan ng Tagapaglisensya.
 
 d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
 
