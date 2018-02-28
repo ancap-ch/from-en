@@ -75,9 +75,9 @@ Gayon man maaari nating masukat ang katumpakan sa kaugnay na pagpapahayag sa kat
 Ang Katotohanan, kung gayon, maaring masukat ayon sa dalawang sentral na pamantayan:
 
 1. Ito ang katotohanan na masukat ang ugnayan sa gitna ng mga ideya ng ating mga isipan at hindi nababago na pagkamakatwiran, kung saan direkta mula sa nanggaling na hindi nababagong paguugali ng paksa at enerhiya sa tunay na mundo.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+2. Ang katotohanan ay nasusukat din sa ugnayan sa gitna ng mga ideya ng ating mga isip at ang kalikasan at ang paguugali ay bagay at ang enerhiya sa totoong mundo.[^3]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+Ang Unang modelo ay nasusukat sa hindi pagbabago ng mga ideya sa ating mga sarili - katulad ng hindi pagbabago ng kinakailangan sa dahilan ng reyalidad na hindi nagbabago sa ating sarili. Kung sasabihin ko na, "Hindi ako umiiral," yan ay isang halimbawa ng isang ideya na hindi nagbabago sa kanyang sarili. yamang din lang na ito ay umiiral s pagkakasunod sunod ng salitaan sa pangungusap. Ang pangalawang kriterya ay nasusukat sa katumpakan ng mga ideya na kaugnay para sa pag obserba ng mga layunin sa reyalidad.
 
 #### Empiricism Versus Rationality
 
