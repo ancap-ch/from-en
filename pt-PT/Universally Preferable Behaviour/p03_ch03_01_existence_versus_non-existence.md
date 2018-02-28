@@ -122,7 +122,7 @@ Quando Bob toma o seu café da manhã, também não pode atacar o seu vizinho e 
 
 Estranhamente, essa é a sua única característica que se reverteu completamente. Ele não pode voar, não pode mudar a sua forma, não consegue digerir com sucesso esferas rolantes, ou viver num inferno; ele não pode correr mil quilómetros por hora e tampouco pode atravessar uma parede de tijolos. Ele é absolutamente, totalmente e completamente *o mesmo homem que era **antes** ele deu um soco* - agora, está sujeito a regras morais completamente opostas.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Ainda mais estranhamente, se eu não sou "polícia", mas sigo Bob até ao trabalho e faço exactamente o mesmo que ele faz - visto um uniforme, entro na delegacia e marco ponto no relógio - Por que, se eu fizer exactamente o mesmo que Bob faz, sou completa e totalmente imoral, embora as acções idênticas de Bob sejam completa e totalmente *morais*.
 
 What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
 
