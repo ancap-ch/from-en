@@ -124,9 +124,9 @@ Estranhamente, essa é a sua única característica que se reverteu completament
 
 Ainda mais estranhamente, se eu não sou "polícia", mas sigo Bob até ao trabalho e faço exactamente o mesmo que ele faz - visto um uniforme, entro na delegacia e marco ponto no relógio - Por que, se eu fizer exactamente o mesmo que Bob faz, sou completa e totalmente imoral, embora as acções idênticas de Bob sejam completa e totalmente *morais*.
 
-What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
+Como é que isso faz sentido? Como podemos, concebivelmente, desvendar esse mistério impenetrável?
 
-The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+O facto é que ele *não pode* ser desvendado, porque, simplesmente, está completamente perturbado. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
 
 We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
 
