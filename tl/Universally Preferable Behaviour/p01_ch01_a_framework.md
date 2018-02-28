@@ -79,11 +79,11 @@ Ang Katotohanan, kung gayon, maaring masukat ayon sa dalawang sentral na pamanta
 
 Ang Unang modelo ay nasusukat sa hindi pagbabago ng mga ideya sa ating mga sarili - katulad ng hindi pagbabago ng kinakailangan sa dahilan ng reyalidad na hindi nagbabago sa ating sarili. Kung sasabihin ko na, "Hindi ako umiiral," yan ay isang halimbawa ng isang ideya na hindi nagbabago sa kanyang sarili. yamang din lang na ito ay umiiral s pagkakasunod sunod ng salitaan sa pangungusap. Ang pangalawang kriterya ay nasusukat sa katumpakan ng mga ideya na kaugnay para sa pag obserba ng mga layunin sa reyalidad.
 
-#### Empiricism Versus Rationality
+#### Emperisismo Laban sa Pagkamaykatwiran
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+Ang Emperisismo ay maaring nasaisip bilang abilidad para sa katutubo sa pagsalo ng ibinato na bola, o masusukat nito ang pagkilos ng pagkamakatwiran bilang abilidad na mahulaan at maunawaan ang landas ng bola nakinuha base sa pandaigdigan na mga prinsipyo. Malinaw na, kung ang bola ay random na nag punta sa kahit saan at kahit anong dereksyon - magically na nagbago sa kawan ng mga kalapati para sa boot - nais namin na hindi malubos ang paghula sa kanilang paguugali.
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Kung gayon, dahil sa pagsunod sa walang pagbabago na mga batas, ang ating mga teorya *tungkol* ay kinakailangan na masunod ang walang pagbabago na mga batas. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
 
 This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
 
