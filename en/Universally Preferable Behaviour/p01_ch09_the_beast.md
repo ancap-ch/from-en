@@ -6,9 +6,9 @@ If we look at an ethical system like communism, which was responsible for the mu
 
 Over and over again, throughout human history, we see that the most dangerous instruments in the hands of men are not guns, or bombs, or knives, or poisons, but rather *moral theories*. From the “divine right of kings” to the endlessly legitimised mob rule of modern democracies, from the ancestor worship of certain Oriental cultures to the modern deference to the nation-state as personified by a political leader, to those who pledge their children to the service of particular religious ideologies, it is clear that by far the most dangerous tool that men possess is *morality*. Unlike science, which merely describes what is, and what is to be, moral theories exert a near-bottomless influence over the hearts and minds of men by telling them what *ought* to be.
 
-When our leaders ask for our obedience, it is never to themselves as *individuals*, they claim, but rather to “the good” in the abstract. JFK did not say: “Ask not what I can do for you, but rather what you can do for me...” Instead, he substituted the words “your country” for himself. Service to “the country” is considered a virtue – although the net beneficiaries of that service are always those who rule citizens by force. In the past (and sometimes even into the present), leaders identified themselves with God, rather than with geography, but the principle remains the same. For Communists, the abstract mechanism that justifies the power of the leaders is *class*; for fascists it is the *nation*; for Nazis it is the *race*; for democrats it is “the will of the people”; for priests it is “the will of God” and so on.
+When our leaders ask for our obedience, it is never to themselves as *individuals*, they claim, but rather to “the good” in the abstract. JFK did not say: “Ask not what I can do for you, but rather what you can do for me..”. Instead, he substituted the words “your country” for himself. Service to “the country” is considered a virtue – although the net beneficiaries of that service are always those who rule citizens by force. In the past (and sometimes even into the present), leaders identified themselves with God, rather than with geography, but the principle remains the same. For Communists, the abstract mechanism that justifies the power of the leaders is *class*; for fascists it is the *nation*; for Nazis it is the *race*; for democrats it is “the will of the people”; for priests it is “the will of God” and so on.
 
-Ruling classes inevitably use ethical theories to justify their power for the simple reason that human beings have an implacable desire to act in accordance to what they believe to be “the good.” If service to the Fatherland can be defined as “the good”, then such service will inevitably be provided. If obedience to military superiors can be defined as “virtue” and “courage”, then such violent slavery will be endlessly praised and performed.
+Ruling classes inevitably use ethical theories to justify their power for the simple reason that human beings have an implacable desire to act in accordance to what they believe to be “the good”. If service to the Fatherland can be defined as “the good”, then such service will inevitably be provided. If obedience to military superiors can be defined as “virtue” and “courage”, then such violent slavery will be endlessly praised and performed.
 
 ### Propaganda
 
@@ -20,7 +20,7 @@ Any ethicist, then, who focuses on mere criminality, rather than the institution
 
 Private criminals exist, of course, *but have almost no impact on our lives comparable to those who rule us on the basis of false moral theories*. Once, when I was eleven, another boy stole a few dollars from me. Another time, when I was twenty-six, I left my ATM card in a bank machine, and someone stole a few hundred dollars from my account.
 
-On the other hand, I have had hundreds of thousands of dollars taken from me by force through the moral theory of “taxation is good.” I was forced to sit in the grim and brain-destroying mental gulags of public schools for fourteen years, based on the moral theory that “state education is a virtue.”[^12]
+On the other hand, I have had hundreds of thousands of dollars taken from me by force through the moral theory of “taxation is good”. I was forced to sit in the grim and brain-destroying mental gulags of public schools for fourteen years, based on the moral theory that “state education is a virtue”.[^12]
 
 The boy (and the man) who stole my money doubtless used it for some personal pleasure or need. The government that steals my money, on the other hand, uses it to oppress the poor, to fund wars, to pay the rich, to borrow money and so impoverish my children – and to pay the salaries of those who steal from me.
 
@@ -32,7 +32,7 @@ Surely, in the knowledge of such universal and preventable poisoning, I should n
 
 Thus, as a philosopher concerned with violence and immorality, should I focus on private criminals, or public criminals?
 
-The violations that I experienced at the hands of private criminals fade to insignificance relative to even *one day* under the tender mercies of my “virtuous and good masters.”
+The violations that I experienced at the hands of private criminals fade to insignificance relative to even *one day* under the tender mercies of my “virtuous and good masters”.
 
 If, then, the greatest dangers to mankind are false ethical theories, then our highest prioritisation should be the discovery, communication and refinement of a valid, rational, empirical and consistent ethical theory. If we discover that most plague victims are dying from impure water, then surely telling them to purify their water should be our first and highest priority.
 

@@ -36,7 +36,7 @@ Similarly, there can be extreme situations wherein we may choose to commit immor
 
 ### Universality And Exceptions
 
-Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
+Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions”.
 
 Using the above “lifeboat scenarios”, the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
 
@@ -62,7 +62,7 @@ As we can see, the introduction of “what is good for man in the abstract – o
 
 With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+In other words, before we plunge on, it is well worth asking the question: “Why bother”?
 
 Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
 
@@ -70,4 +70,4 @@ Of course, the danger always exists that an immoral person will attack you for h
 
 [^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good”.

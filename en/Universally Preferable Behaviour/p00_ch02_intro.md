@@ -12,7 +12,7 @@ In between the little truths and the great truths, however, are the illusions th
 
 In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
+Historically, however, in between our own little truths and the great truths lies what I will call the “null zone”.
 
 ### The "Null Zone"
 
@@ -28,7 +28,7 @@ No sane man experiences God directly. In his daily life, he fully accepts that *
 
 Conversely, in the “null zone” of religion, the *exact opposite* of both the little truths and the great truths is believed to be true. Personally, a man believes that *that which cannot be perceived does not exist* – intellectually, science has proven this repeatedly. However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
 
-Our belief in the virtue of the military also lies in this “null zone.” If a private man is paid to murder another man, we call him a “gun for hire”, and condemn him as a hit man. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone”, where murder magically becomes “virtuous.”
+Our belief in the virtue of the military also lies in this “null zone”. If a private man is paid to murder another man, we call him a “gun for hire”, and condemn him as a hit man. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone”, where murder magically becomes “virtuous”.
 
 If this “null zone” is valid, then no logical proposition can ever hold. If a proposition is true – and the exact opposite of that proposition is also true – then logical reasoning becomes impossible. The growth of rational science has been the steady attack upon this “null zone”, and the incursion of objective consistency into these mad little pockets of subjective whim.
 
@@ -52,31 +52,31 @@ In the realm of science, it is not too hard to see the oppressive forces that co
 
 The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths”.
 
 ### "Middle Truths"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths”.
 
 These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
 
 By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better”!
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God”.
 
 We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk”, she will say, and you will fervently agree. “My new boyfriend is really *great* though”, she will add, and you will try not to roll your eyes.
 
 It is very hard not to replace one illusion with another.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+“The British government is a tyranny”! cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+“Aristocracy is an unjust abomination”! cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
 
 “Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation”, or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether”, just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether”, either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
 
-Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth”. It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
 
 Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
 
@@ -90,7 +90,7 @@ The world falls because a rock falls.
 
 Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
 
-However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial”. If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
 
 When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
 
@@ -122,12 +122,12 @@ The most effective parasites – or viruses – are those which fool the body in
 
 If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
 
-This is an example of a “little truth”, which is: “Stealing from me is wrong.”
+This is an example of a “little truth”, which is: “Stealing from me is wrong”.
 
 However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
 
-This is an example of a “middle truth”, which obscures a “great truth”, which is that “stealing is wrong.”
+This is an example of a “middle truth”, which obscures a “great truth”, which is that “stealing is wrong”.
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+This book will focus on exposing and destroying these false “middle truths”. I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
 
 My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.

@@ -10,13 +10,13 @@ Unfortunately, this “virtuous consciousness” was merely an illusion, to put 
 
 We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+We consider it essential that, at the centre of society, we place a virtuous entity called “the government”. In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
 
 However, “the government” no more exists than “god” exists.
 
-When we speak of “gods”, we are really talking about “the opinions of priests.”
+When we speak of “gods”, we are really talking about “the opinions of priests”.
 
-When we speak of “the government”, we *really* mean “the violence of a tiny minority.”
+When we speak of “the government”, we *really* mean “the violence of a tiny minority”.
 
 The idea of “spontaneous order”, which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
 

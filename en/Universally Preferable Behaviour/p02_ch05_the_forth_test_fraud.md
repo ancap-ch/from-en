@@ -14,7 +14,7 @@ To return to our hapless moral guinea pigs, what would happen if we asked Bob an
 
 What happens then?
 
-Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
+Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally”.
 
 UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
 

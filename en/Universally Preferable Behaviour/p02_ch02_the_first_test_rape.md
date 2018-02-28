@@ -16,7 +16,7 @@ That which enables virtue cannot be evil. “Freedom”, for instance, is a prer
 
 If it is morally good to be a rapist, and one can only be a rapist by sexually assaulting a victim, then clearly the victim must be morally good by resisting the sexual assault – since if he does not resist, it is by definition not rape, and therefore not virtuous. In other words, *attacking* virtue by definition *enables* virtue. Thus we have an insurmountable paradox, in which the victim must attack virtue in order to enable virtue – he must resist sexual assault in order to enable the “virtue” of the rapist. Thus not only can the rape victim *not* be virtuous, but he must resist and attack “virtue” in order to allow it.
 
-Insurmountable logical problems thus result from the proposition: “rape is moral.” Remember, we agreed that a rational theory cannot propose opposite states for the same situation. All other things being equal, a rock cannot fall both up and down at the same time, and a valid theory cannot predict that one rock will fall up, while another rock will fall down.
+Insurmountable logical problems thus result from the proposition: “rape is moral”. Remember, we agreed that a rational theory cannot propose opposite states for the same situation. All other things being equal, a rock cannot fall both up and down at the same time, and a valid theory cannot predict that one rock will fall up, while another rock will fall down.
 
 In the same way, two men in a room must be considered to be in the same situation. If only one of them can be good, because goodness is defined as rape, and only one of them can rape at any time, then we have a logical contradiction that cannot be resolved.
 
@@ -26,9 +26,9 @@ If a man hanging from a tree over a canyon lets go because he lacks the strength
 
 #### The Coma Test
 
-Intuitively, it is hard to imagine that any theory ascribing immorality to a man in a coma could be valid. Any ethical theory that posits a positive action as universally preferable behaviour faces the challenge of “the coma test.” If I say that giving to charity is a moral absolute, then clearly not giving to charity would be immoral. However, a man in a coma is clearly unable to give to charity, and thus would, by my theory, be classified as immoral. Similarly, a man who is asleep, or has no money to give – or the man currently *receiving* charity – would all be immoral.
+Intuitively, it is hard to imagine that any theory ascribing immorality to a man in a coma could be valid. Any ethical theory that posits a positive action as universally preferable behaviour faces the challenge of “the coma test”. If I say that giving to charity is a moral absolute, then clearly not giving to charity would be immoral. However, a man in a coma is clearly unable to give to charity, and thus would, by my theory, be classified as immoral. Similarly, a man who is asleep, or has no money to give – or the man currently *receiving* charity – would all be immoral.
 
-This is another central problem with any theory that posits a positive action such as “rape” as moral. At any given time, there are any number of people who are unable to perform such positive actions, who must then be condemned as evil, even though they have no capacity to be “good.” However, if it is impossible to avoid being “evil”, then clearly evil as a concept makes no sense. In the example above of the rock crashing down a hill, the rock is not “evil” for hitting your car, since it has no capacity to avoid it of its own free will. If a man’s brakes fail right after they have been serviced, then it is not his responsibility for failing to come to a stop. If he has never once had his brakes serviced in ten years, then his irresponsibility is the proximate cause of his continued momentum, and he can be blamed.
+This is another central problem with any theory that posits a positive action such as “rape” as moral. At any given time, there are any number of people who are unable to perform such positive actions, who must then be condemned as evil, even though they have no capacity to be “good”. However, if it is impossible to avoid being “evil”, then clearly evil as a concept makes no sense. In the example above of the rock crashing down a hill, the rock is not “evil” for hitting your car, since it has no capacity to avoid it of its own free will. If a man’s brakes fail right after they have been serviced, then it is not his responsibility for failing to come to a stop. If he has never once had his brakes serviced in ten years, then his irresponsibility is the proximate cause of his continued momentum, and he can be blamed.
 
 In this way, the concept of “avoidability” retains its use. A man in a coma is unable to avoid lying in his bed, since he is in a state of quasi-unconsciousness. Since he is unable to avoid his actions – or inaction in this case – his immobility cannot be immoral.
 
@@ -48,7 +48,7 @@ Aesthetically positive actions (APAs) are universally preferable, but not enforc
 
 If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good”.
 
 Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
 
@@ -70,7 +70,7 @@ If “being on time” is an APA, then it is possible for two people to achieve 
 
 With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
 
-On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
+On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable”.
 
 Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
 
@@ -126,13 +126,13 @@ Since avoidability is one of the key differentiators between “unpleasant” an
 
 Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
 
-The rapist may justify his actions by avoiding the proposition “rape is good”, and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+The rapist may justify his actions by avoiding the proposition “rape is good”, and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others”.
 
 This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
 
 If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
 
-Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
+Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced”. Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced”.
 
 Of course, few rapists are philosophers, but as we mentioned above, the primary danger to human beings is not the individual criminal, but irrational and exploitive moral theories. For instance, incarceration is inevitably justified through an appeal to a moral theory – and incarceration causes far more people to be raped than private criminals could ever dream of. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
 

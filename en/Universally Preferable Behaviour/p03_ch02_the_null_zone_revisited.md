@@ -2,13 +2,13 @@
 
 At the beginning of this book, I put forward a way of looking at how we process truth, analogising it to physics. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
 
-The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
+The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong”.
 
 In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
 
 For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
 
-However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
+However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle”. Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
 
 The problem with this approach – well, one problem anyway – was the retrograde motion of Mars. From our planet, Mars at times appears to be moving “backwards”, as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
 

@@ -12,7 +12,7 @@ Syllogistically, this is:
 
 We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
 
-Those preferences which can be considered binding upon others can be termed “universal preferences”, or “moral rules.”
+Those preferences which can be considered binding upon others can be termed “universal preferences”, or “moral rules”.
 
 How else can we know that the concept of “moral rules” is valid?
 
@@ -131,7 +131,7 @@ In conclusion, it is safe to say that (a) moral rules are valid, and (b) moral t
 
 UPB can thus be seen as a framework for validating ethical theories or propositions – just as the scientific method is a framework that is used to validate scientific theories or propositions.
 
-An example of a moral proposition is: “the initiation of the use of force is wrong.” UPB is the methodology that tests that proposition against both internal consistency and empirical observation. UPB thus first asks: *is the proposition logical and consistent?* UPB then asks: *what evidence exists for the truth of the proposition?*
+An example of a moral proposition is: “the initiation of the use of force is wrong”. UPB is the methodology that tests that proposition against both internal consistency and empirical observation. UPB thus first asks: *is the proposition logical and consistent?* UPB then asks: *what evidence exists for the truth of the proposition?*
 
 To keep this book at a reasonable length, we will in general deal mostly with the first criterion of logical consistency. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
 

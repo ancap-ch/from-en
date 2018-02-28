@@ -2,7 +2,7 @@
 
 Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz”, that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
 
-Similarly, if I say “I like vegetables”, that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food”, then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream”, and, “Ice cream contains milk.”
+Similarly, if I say “I like vegetables”, that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food”, then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream”, and, “Ice cream contains milk”.
 
 The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
 
@@ -26,7 +26,7 @@ Truth also has value relative to necessity as well. Newtonian physics has been s
 
 As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse”.
 
 Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
 
@@ -62,7 +62,7 @@ Fundamentally, the laws of logic are derived from the behaviour of matter and en
 
 Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull”. If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
 
 This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
 
