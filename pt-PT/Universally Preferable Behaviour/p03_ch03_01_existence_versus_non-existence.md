@@ -144,13 +144,13 @@ Somos informados de que "queremos" que Bob tome o nosso dinheiro - o que contrad
 
 "Temos um contrato!"
 
-“Can you show me this contract? Have they signed this contract of their own free will?”
+"Pode mostrar-me esse contrato? Eles assinaram esse contrato por sua própria e livre vontade? "
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+"Não é esse tipo de contrato! É um contrato *social*... E além disso - de acordo com esse contrato social, eu sou o proprietário da rua toda, de qualquer forma - do bairro inteiro, na verdade! Qualquer pessoa que se recuse a pagar o meu dinheiro pode mudar-se para outro lugar - eu não estou a obrigar ninguém! "
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
+"E como é que você sabe que é o dono do bairro todo? tem documentos de propriedade? "
 
-“Yes, of course – have a look here!”
+"Sim, é claro - olhe aqui!"
 
 “Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
 
