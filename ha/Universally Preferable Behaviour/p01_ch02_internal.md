@@ -1,8 +1,8 @@
-## Internal Consistency
+## Ingancin Kai
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+Idan ni mai zanen gida ne, kuma na mika tsarin gida, matsalan farko shine sai na yarda cewa gidan zai ginu kuwa. Idan na bada tsarin gida mai  kyau sosai wanda aka  gina shi  gaba daya  da kunfan sabulu, bazan  taba karban kaso na ba, tunda wannan gidan ba zai tsaya ba.
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+Haka kuma, idan injiniya sa bada tsarin gina gada, abu na farko da sai an cika ka’idojin shi shine gadan zata tsaya. Sauran abubuwan lura kamar tsawon kwanaki, kwalliya da sauran su naa zuwa ne idan gadan a zahirce zata yiwu.
 
 It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
 
