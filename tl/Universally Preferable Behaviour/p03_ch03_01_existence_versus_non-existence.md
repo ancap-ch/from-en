@@ -1,60 +1,60 @@
-## Pag-iral laban sa Hindi umiiral
+## Ang Pag-iral laban sa hindi umiiral
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+Ang tinutukoy namin ang "hindi-pagkakaroon" ng hindi nagtataglay ng masa o lakas, o ipakita ang mga epekto ng masa o enerhiya, katulad ng mga kapansin-pansin na relasyon tulad ng grabidad.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+Ang Diyos ay hindi nagtataglay ng masa o lakas, o ipakita ang mga epekto ng masa o enerhiya – Sa katunayan, ang Diyos ay hindi nakikita o napapatunayan sa anumang paraan, hugis o anyo, alinman sa pamamagitan ng pandama, o sa pamamagitan ng pagkamaykatwiran.
 
-Thus if I say, “God exists,” what I am really saying is:
+Kaya kapag sinasabi ko, “mayroong Diyos,” ang talagang sinasabi ko:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+“*Ang umiiral ay dapat na detectable; Hindi pweding makita ang Diyos, subalit mayroong Diyos – kaya nga kung saan ay hindi umiiral, umiiral.*”
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+Sa madaling salita, sa pagsasabing "Mayroong Diyos,” Gumawa ako ng hindi malulutas na pagkakasalungatan. Tinukoy ko ang "pag-kakaroon" bilang "hindi-pagkakaroon,” na gumagawa ng tungkol sa mas maraming kahulugan bilang pagtukoy sa "buhay" bilang "walang buhay na bagay,” o isang bato bilang "kabaligtaran ng isang bato,” o isang "parisukat" bilang "bilog.”
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+Ang katulad nito, kung gumawa ako ng ilang alternatibong uniberso kung saan ang "hindi-pagkakaroon ay katumbas ng pag-kakaroon” at "nagkakasalungatan ang pagkakasalungatan” at "katotohanan ay katumbas ng kasinungalingan" at "hindi makatwiran ang katumbas ng pagkamakatuwiran,” kung ano talaga ang ginawa ko ay lumilikha ng isang lupon na tinatawag na "pag-kakamali,” ilagay ang lahat sa loob nito na hindi totoo, at tinutukoy ang lupain na ito bilang isang lugar kung saan ang "pagkakamali ay katumbas ng katotohanan.”[^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Oo naman!, hindi nilikha ng mga tao ang "kahaliling uniberso" upang mapawalang-bisa ang katotohanan sa loob ng ating sariling uniberso, subalit sa halip na iligtas ang mali sa katotohanan, at tawagin itong totoo. Ang halimbawa, walang sinumang nag-tuturo na "ang Diyos ay pweding umiiral sa ibang uniberso, kaya hindi mo ma-tanggap na ang Diyos ay hindi umiiral "kailanman magpakilala" Maaaring hindi *ako* umiiral sa iba pang uniberso, kaya hindi mo ma-tanggap na umiiral ako dito.”
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
+Sila rin ay may posibilidad na hindi tumugon nang maayos sa argumento na: “Sa ibang uniberso, pwedi kang sumang-ayon sa akin na ang Diyos ay hindi umiiral, kaya ginagawa mo ang isang ateista.”[^3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+Kung ang tamang mga pahayag tungkol sa katotohanan ay pweding walang katapusang sumasalungat dahil ang ilang mga haka-haka na kaharian na tinatawag na "pag-kakamali ay katumbas ng katotohanan" na nagpawalang-bisa sa mga ito, kung ano talaga ang sinabi ay "walang positibong pahayag tungkol sa katotohanan na pweding maging wasto" - gayunpaman, kami ay matalino sapat bilang mga pilosopo sa ngayon upang malaman na ang napaka-pahayag na ito ay kontrahan sa sarili, dahil ito ay isang positibong pahayag na itinuturing na totoo na nagsasabing walang positibong pahayag na pweding totoo. Kung walang pweding totoo o hindi – kahit na pahayag na iyon – at pagkatapos ay walang pahayag kung ano pa man ang pweding gawin tungkol sa anumang bagay. Paggamit ng mga salita, gamit ang Ingles, gamit ang mga mahahalagang pangungusap – ang lahat ay walang anumang kahulugan, yamang sa ganitong "alternatibong sansinukob" ang gayong nakabalangkas na mga pananalita ay pweding kumpleto na walang kapararakan. Kung ang mga bagay na pweding totoo sa kahaliling sansinukob na ito ay may epekto sa mga pahayag na ginagawa natin sa sansinukob na ito, pagkatapos ay malinaw na ang kabaligtaran ay totoo rin, na nangangahulugan na walang mga pahayag na pweding gawin tungkol sa anumang bagay, dahil ang kanilang eksaktong kabaligtaran ay pweding maging totoo.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+Ang tunay na katotohanan ng pahayag na "Pagkakamali ay katumbas ng katotohanan” ang tautological na pagkaloko ng "null equals null.”
 
-### The "Alternate Universe" In Human Society
+### Ang "Kapalit na daigdig" Sa Human Society
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+Ang dahilan kung bakit kami ay gumugol ng labis na oras sa pagharap sa "kapalit ng daigdig na ito” Ang teorya ay may direktang kaugnayan sa lipunan ng tao,at ginagamit upang "bigyang-matwid" ang pinakadakilang kasamaan na ginawa sa atin.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+Sa sarili nating karanasan, alam natin na ang pagpatay ay mali. Sa pagsasagawa ng tuntunin na ang pagpatay ay mali sa moralidad sa mga halimbawa sa itaas, Mahigpit akong nag-dadalawang isip na ang sinuman ay nagulat na magkaroon ng kanilang mga ugali sa moral na nakumpirma sa pamamagitan ng mahigpit na abstract na pangangatwiran ng UPB. Gayunman, sa bahaging ito, ito ay opisyal na pinapayagan para sa iyo upang simulan na maging tunay na nagulat.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Ang pinakadakilang lumakad pasulong sa pang-agham na pag-unawa ay ang tinatawag na "nagkakaisa teorya.” Ginugol ni Einstein ang mga dekada na nagsisikap na gumawa ng pinag-isang teorya ng patlang; at mga teorya ng pisika na nagkakaisa ng malakas at mahina na pwersa, ang electromagnetism, ang grabidad at iba pa ay nananatiling mahirap hulihin.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+Gayunpaman, ang UPB bilang balangkas, hindi lamang pinahihintulutan ang aming mga moralidad sa personal na kalikasan, pilosopiko at unibersal na antas – subalit may malalim at nakakagulat na implikasyon para sa lipunan ng tao.
 
-#### UPB In Action
+#### Ang UPB ay nasa Aksyon
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+Ang balangkas ng UPB ay nagpapatunay ng mga panukalang moralidad sa pamamagitan ng hinihingi na sila ay mag-kakatulad  sa loob, at unibersal sa mga tuntunin ng panahon, lugar at indibidwal.
 
-If we accept UPB, we must also accept the following corollary:
+Kung tatanggapin namin ang UPB,dapat din tanggapin natin ang sumusunod na corollary:
 
-- Moral propositions are independent of costume.
+- Ang mga panukalang moralidad ay independiyente ng kasuutan.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Ang ibig sabihin nito na ang isang tao ay hindi pweding magbago ng kanyang moral na kalikasan kasama ang kanyang damit. Ang pagkilos ng pagbabago ng kasuutan ng isang tao ay hindi nagbabago sa pangunahing katangian ng isa. Kung kaya't ang pagsalungat sa mga panukala ng moralidad ay hindi pweding balido batay sa mga damit na may suot.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Ang mga Sundalo, syempre, magsuot ng mga kasuutan na naiiba mula sa karaniwang mamamayan. Ang karaniwang mamamayan ay ipinagbabawal sa pagpatay; Ang mga sundalo, gayunpaman, ay hindi lamang *pinapayagan* sa pagpatay, subalit ang moralidad ay *pinuri* para sa pagpatay.
 
-Let’s take another example.
+Ang Isa pang halimbawa.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Ang pagnanakaw ay mali sa moralidad, katulad ng nakita natin sa itaas. May moralidad na mali para sa lahat ng mga tao sa lahat ng mga sitwasyon sa lahat ng oras at sa ilalim ng lahat ng mga pangyayari. Dahil ang pagnanakaw ay ang sapilitang pag-alis ng ari-arian ng ibang tao nang walang pahintulot, pagkatapos na ang pagbubuwis ay palagi, sa buong mundo at magpakailanman na isang moralidad na kasamaan. Ang pagbubuwis ay sa pamamagitan ng pagtukoy ng sapilitang pag-alis ng ari-arian ng isang tao nang wala ang kanilang pahintulot, yamang ang pagbubuwis ay nakasalalay sa pagsisimula ng paggamit ng lakas upang iwaksi ang isang tao sa kanyang ari-arian.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+Ang tinatawag nating "pamahalaan" ay isa lamang halimbawa ng *null zone* na kung saan ang taas ay pababa, itim ay puti, ang katotohanan ay kasinungalingan at kasamaan ay mabuti.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Ang pag-unlad ng lipunan ay eksakto sa antas na dahilan at katibayan na gumagawa ng mahusay na hakbang mula sa personal hanggang sa unibersal, at wasakin ang alinmang hindi makatwiran *null zones* sa paraan. Ang agham ay umuunlad nang eksakto sa antas na tinatanggihan nito ang kawalang katwiran ng Diyos at ang mga pansarili "Tiyak.” Ang paggalaw ay eksaktong eksakto sa antas na tinatanggihan nito ang bisa ng panalangin at walang-saysay na ritwal, at sa halip ay nakasalalay sa dahilan at katibayan. Pilosopiya din – at lipunan ng tao sa pangkalahatan – ay isulong nang eksakto sa antas na tinatanggihan nito ang hindi-makatwirang "parisukat na balangkas ng moralidad" ng istatistika at relihiyosong mga teoryang etika.
 
-### Government
+### Ang gobiyerno
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Sinasabi na ang gobyerno ay pinapatakbo sa ilalim ng tapat na mga tuntunin ng moralidad mula sa iba pang lipunan ay eksaktong katulad ng sinasabi, “Ang leprechauns ay hindi tinatablan ng grabidad.” Una sa lahat, walang leprechauns – at isa sa mga paraan kung saan alam natin na hindi sila umiiral ay inaangkin na sila ng hindi tinatablan ng grabidad. Ang lahat ng may masa ay napapailalim sa grabidad – ang di-tinatablan ng grabidad sa pamamagitan ng kahulugan ay walang masa, at samakatuwid ay hindi umiiral. Ang pahayag na "leprechauns ay hindi tinatablan ng grabidad" ay isang tautolohiya, na nagpapatunay lamang sa ang hindi-pagkakaroon ng mga leprechauns – na ito ay ang semantikong katumbas "na kung saan ay hindi umiiral, na hindi umiiral.” A ay A, Unang batas ng lohika ni Aristotle, ay mahalaga maliit upang kumpirmahin ang pagkakaroon ng na kung saan ay tinukoy bilang di-pagkakaroon.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+Sa parehong paraan, kapag sinasabi nating maganda ang moralidad ng mga sundalo sa pagpatay at mga kinatawan ng gobyerno na magnakaw, alam namin na ang "mga sundalo" at "mga kinatawan ng gobyerno" bilang mga kategorya ng moralidad ay *ganap na di-wasto*.
 
 If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
 
