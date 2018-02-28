@@ -138,7 +138,7 @@ c. Ang pagtatatwa sa mga ganrantiya at limitasyon ng pananagutan na inilaan sa t
 
 ### Seksyon 6 – Termino at Pagwawakas.
 
-a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+a. Nalalapat ang Pampublikong Lisensya para sa termino ng Kopirayt at Katulad sa Karapatan na lisensyado dito. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
 
 b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
 
