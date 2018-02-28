@@ -1,14 +1,14 @@
 ## La Cuarta Prueba: fraude
 
-Justo al borde de lo que generalmente se considera ético se encuentra el desafío de * fraude *.
+Justo al borde de lo que generalmente se considera ético se encuentra el desafío de *fraude*.
 
 El fraude es la obtención de valor a través de la representación falsa. Si te digo que te enviaré un iPod si me das doscientos dólares, y luego tomo tu dinero sin enviarte el iPod, instintivamente entendemos que es una forma de robo.
 
 Vamos a poner el problema del fraude a través del molino de UPB, y ver si se mantiene.
 
-Claramente, el fraude requiere que una persona * no * participe en un fraude. En la transacción potencial anterior, si estoy esperando robar tus doscientos dólares, y esperas robar mi iPod, nada saldrá de eso. Exigirás el iPod antes de proporcionar el pago, y exigiré el pago antes de proporcionar el iPod. Estaremos en un punto muerto, completamente incapaces de defraudarnos unos a otros.
+Claramente, el fraude requiere que una persona *no* participe en un fraude. En la transacción potencial anterior, si estoy esperando robar tus doscientos dólares, y esperas robar mi iPod, nada saldrá de eso. Exigirás el iPod antes de proporcionar el pago, y exigiré el pago antes de proporcionar el iPod. Estaremos en un punto muerto, completamente incapaces de defraudarnos unos a otros.
 
-Claramente, para que ocurra un fraude, una de las partes debe actuar de buena fe. Por lo tanto, la persona que desea cometer fraude se basa en el hecho de que la otra persona * no * desea cometer un fraude, con el fin de aprovecharse de él.
+Claramente, para que ocurra un fraude, una de las partes debe actuar de buena fe. Por lo tanto, la persona que desea cometer fraude se basa en el hecho de que la otra persona *no* desea cometer un fraude, con el fin de aprovecharse de él.
 
 Para regresar a nuestros desventurados conejillos de indias morales, ¿qué pasaría si les pidiéramos a Bob y Doug que actuaran según el principio moral de que "el fraude es bueno"? Si Doug tiene veinte dólares, y Bob tiene un encendedor, y Doug le ofrece a Bob veinte dólares por ese encendedor, y luego toma el encendedor pero no le da a Bob los veinte dólares, entonces Doug ha estado actuando sobre la premisa de que el fraude es bueno.
 
@@ -18,7 +18,7 @@ Claramente, el principio de que "fraude es bueno" no puede ser actuado por Doug 
 
 UPB destruye esta posibilidad, ya que ninguna teoría moral válida puede requerir acciones opuestas bajo las mismas circunstancias.
 
-Si Doug le comete fraude a Bob con la justificación de que "es bueno mentir para obtener lo que quieres", entonces claramente también debe ser bueno ser honesto, ya que es imposible obtener lo que quieres mintiendo a menos que otras personas están dispuestos a asumir su honestidad. Por lo tanto, la premisa de que es bueno mentir para obtener lo que quieres no se puede lograr a menos que otras personas actúen con integridad, por lo tanto, la mentira y la honestidad se requieren simultáneamente para el cumplimiento del principio moral. Esto no puede sostenerse lógicamente, que tanto una acción * como su opuesto completo * son a la vez morales en el mismo lugar, para las mismas personas y, al mismo tiempo.
+Si Doug le comete fraude a Bob con la justificación de que "es bueno mentir para obtener lo que quieres", entonces claramente también debe ser bueno ser honesto, ya que es imposible obtener lo que quieres mintiendo a menos que otras personas están dispuestos a asumir su honestidad. Por lo tanto, la premisa de que es bueno mentir para obtener lo que quieres no se puede lograr a menos que otras personas actúen con integridad, por lo tanto, la mentira y la honestidad se requieren simultáneamente para el cumplimiento del principio moral. Esto no puede sostenerse lógicamente, que tanto una acción *como su opuesto completo* son a la vez morales en el mismo lugar, para las mismas personas y, al mismo tiempo.
 
 Así es como sabemos que el fraude es incorrecto.
 

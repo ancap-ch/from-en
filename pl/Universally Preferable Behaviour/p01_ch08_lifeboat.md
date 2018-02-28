@@ -48,7 +48,7 @@ Jeśli chodzi o argumenty etyczne, jeśli zostanę spytany, czy wolę ukraść j
 4. W ten sposób przetrwanie jest powszechnie preferowane w stosunku do praw własności.
 5. Zatem to, co jest dobre dla jednostki, jest ostatecznym standardem moralnym.
 
-Zostało to wykorzystane jako podstawa wielu etycznych teorii i podejść, od Nietzschego do Rand'a. Preferencje każdej osoby do przeżycia przekładają się na teorie etyczne, które stawiają przetrwanie jednostki w jej centrum. [^11]
+Zostało to wykorzystane jako podstawa wielu etycznych teorii i podejść, od Nietzschego do Rand'a. Preferencje każdej osoby do przeżycia przekładają się na teorie etyczne, które stawiają przetrwanie jednostki w jej centrum.[^11]
 
 This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
 

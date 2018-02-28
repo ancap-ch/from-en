@@ -56,7 +56,7 @@ Yine de, *tamamen* sıfır değil.
 
 ### Temel kurallar
 
-Sıra dışı iddialar, sıra dışı kanıtlar gerektirir. Bu muazzam görevi üstlenmede --özellikle de bu kadar kısa bir kitapta - kendime bazı önemli temel kurallar koymuş bulunmaktayım. Bunları burada anlatmaya değer. [^ 1]
+Sıra dışı iddialar, sıra dışı kanıtlar gerektirir. Bu muazzam görevi üstlenmede --özellikle de bu kadar kısa bir kitapta - kendime bazı önemli temel kurallar koymuş bulunmaktayım. Bunları burada anlatmaya değer.[^1]
 
 1. "is" ve "ought" arasındaki insani ayrımı tamamen kabul ediyorum. Geçerli ahlaki kurallar, gerçekte ki bir şeyin varlığından doğrudan türetilemez. Genel olarak insanların yaşamayı tercih ettiği ve bunu gerçekleştirmek için gerçeklerle başarılı bir şekilde etkileşime girmesi gerektiği gerçeği, herhangi bir geçerli etik teorisinin temelini oluşturamaz. Bazı insanlar açıkça yaşamak istemiyorlar ve gerçekliği reddetmekte zorlanıyorlar; bu nedenle bu etik tanımlaması öznel ve koşullu olmaya devam ediyor.
 2. Etik ahlaki olarak "insan sağlığı için iyi olan" olarak tanımlanamaz. Bazı kişiler başkalarına yenik düşerek hayatta kalabilirler, bu nedenle bu etik tanımlaması öznelcilik sorununu aşmaz. Biyolojik terimlerle, bu, evrimsel eğilimleri "yaşamın hayatta kalması için iyi olan" tarif etmekle benzer olacaktır - bu mantıklı olmayacaktır. İnsanlar topluluğu, tıpkı yağmur ormanı olduğu gibi, çıkar çıkarları bulunan bir eko sistemdir ve bir insanın "iyi" bir şey olması, çoğu zaman bir başkasına masraflı gelir.
@@ -68,7 +68,7 @@ Sıra dışı iddialar, sıra dışı kanıtlar gerektirir. Bu muazzam görevi �
 8. İstihbaratınıza "gerçeklik", "akıl", "dürüstlük" vb. Kelimeler tanımlamaya yetecek saygı duyuyorum. Tekerleği değiştirmek zorunda kalmadan yapacak çok işimiz var.
 9. Sonunda, herhangi bir teorinin, özellikle de bir etiğin teorisi kadar temel bir teorinin, herkesin içgüdüsel olarak bildiklerini doğruladığı takdirde, çok az şey yaptığını düşünüyorum. "Cinayetin yanlış olduğunu" ispatlamak için hayatımın yıllarını, bir etik teori üzerinde çalışarak geçirmedim. Benim düşünceme göre, en iyi kuramlar, tümünün sezgisel olarak anladığım doğruları doğrulayan teorilerdir - ve sonra bu ilkeleri, tamamen karşı-sezgisel olabilecek yeni doğruları ortaya çıkarmak için kullanırlar.
 
-Hayatımın son birkaç yılını bu canavar hazırlarken, eğitirken, sonra da bu canavarla mücadele etmekle geçirdim. Umarım bir miktar onur ile beraat etmişimdir. İnanıyorum ki tamamen zedelenmemiş olmasına rağmen zafer kazanmıştım ve kimlerin bu görüşü paylaştığını görmek için sabırsızlanıyorum.[^ 2]
+Hayatımın son birkaç yılını bu canavar hazırlarken, eğitirken, sonra da bu canavarla mücadele etmekle geçirdim. Umarım bir miktar onur ile beraat etmişimdir. İnanıyorum ki tamamen zedelenmemiş olmasına rağmen zafer kazanmıştım ve kimlerin bu görüşü paylaştığını görmek için sabırsızlanıyorum.[^2]
 
 Yüksek lisans tarih fakültesini okudum ve bir Yüksek Lisans derecesine sahip oldum, ancak felsefede doktoram yok.
 Kamu tarafından tanınan bir entellektüeliteden uzaktayım. En olası *şampiyon* olamayabilirim, ancak ben de en olasıdan çok uzaktayım. Başarılı olup olmadığım bana değil size kalmış.
@@ -89,6 +89,6 @@ Gerçekten, rasyonel bir etik çerçeve tanımının insanlığın yüz yüze g�
 
 Başkaları tarafından iyi kuşanılmış savaşa gidiyorum.
 
-[^ 1]: Bunların çoğu bu kitap boyunca detaylı olarak tartışılacaktır.
+[^1]: Bunların çoğu bu kitap boyunca detaylı olarak tartışılacaktır.
 
-[^ 2]: Elbette, eğer başarısız olduysam, en azından muhteşem bir şekilde başarısız olurum, ki bu da durumun kendisini hem eğlenceli hem de eğlendirici yapabilir!
+[^2]: Elbette, eğer başarısız olduysam, en azından muhteşem bir şekilde başarısız olurum, ki bu da durumun kendisini hem eğlenceli hem de eğlendirici yapabilir!

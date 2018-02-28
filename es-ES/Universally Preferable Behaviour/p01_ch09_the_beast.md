@@ -38,4 +38,4 @@ Si, entonces, los grandes peligros son falsas teorías éticas, entonces nuestra
 
 Entonces volvamos a la pregunta.
 
-[^ 12]: O, más bien: "la educación * forzada * es una virtud" – y mis padres se vieron obligados a pagar impuestos, y yo me vi obligado a asistirá ella.
+[^12]: O, más bien: "la educación *forzada* es una virtud" – y mis padres se vieron obligados a pagar impuestos, y yo me vi obligado a asistirá ella.

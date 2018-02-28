@@ -34,6 +34,6 @@ Assim, podemos justamente mentir para um mentiroso, como nós podemos justamente
 
 A diferença é que "estar atrasado" não é tão ativamente destrutivo quanto mentir. Uma pessoa atrasada é chata, mas não prejudica fundamentalmente sua capacidade de processar a realidade. É uma coisa para mim aparecer uma hora atrasado para uma reunião às 07: 00 da manhã - é completamente outra tentar convencer você de que na verdade agendamos a reunião para oito horas da manhã, quando eu sei que esse não foi o caso.
 
-Atacar a sua confiança em sua própria mente [^5] é muito mais notório do que simplesmente fazê-lo esperar, uma vez que é o ato de usar a confiança do outro em você para detonar a confiança em si mesmo, o que é altamente corrupto, já que está *usando* um valor para destruir um valor, como falsificação. Isso é como UPB valida a proposição lógica de "mentir é bom," e confirma que o ato de mentir para alguem é pior que "estar atrasado," mas melhor que "assaltar."
+Atacar a sua confiança em sua própria mente[^5] é muito mais notório do que simplesmente fazê-lo esperar, uma vez que é o ato de usar a confiança do outro em você para detonar a confiança em si mesmo, o que é altamente corrupto, já que está *usando* um valor para destruir um valor, como falsificação. Isso é como UPB valida a proposição lógica de "mentir é bom," e confirma que o ato de mentir para alguem é pior que "estar atrasado," mas melhor que "assaltar."
 
 [^5]: As vezes chamado de "gás de iluminação," depois do filme antigo.

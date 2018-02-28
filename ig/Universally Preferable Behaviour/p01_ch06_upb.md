@@ -1,88 +1,91 @@
-## UPB: Ethics Or Aesthetics?
+UPB: Ako M'obu Ife Ndi Mmadu aman mewun? 
 
-In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. A rapist, on the other hand, is violently inflicting his preferences upon his victim.
+N'uzor nine,  anyi jiri ife ah na kpo aesthesticsi ikowa ife ndi mmadu aman mewun – ife uwa m' obu ife owe – ako na akowa ife ndi mmadu wenre ike ime. Ife ah ka uwa choro ijiri out ndi bekee si eme ka ife edemede mmadu na afu ka oburu ife dimkpa,  mana anyi ewenghi ike ime ka ndi mmadu soro Uzor bekee mgbe fa achoro, ebe ihafu Uzor bekee aburo icho okwu. Irapu icho okwu n'uwa fa dicha siriwere. Oburu na dibia bekee kwusiri ime out ndi bekee na agwozi ndi muo, ogbasarom maka na oshirom me ya maka n’ona eme ya, mua wenre ike igba ya oso. 
 
-Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
+Onye na emeko ya na onye juru, na acho okwu maka na onye ona acho okwu achoro imeko. 
 
-- The scientific method
-- Logic
-- Empiricism
-- Debating
-- Language
-- Ethics
+Aman na anyi tinye Anya na UPB n'uwa ako, anyi wenre ike ifu UPB ka “ife mkpuchie”, ife ako ndi ah no nime ya:
 
-Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+•	Otu ndi bekee
+•	Amamihe
+•	Empiriticismu
+•	Nkowa mmadu ibuo di iche
+•	Asusu
+•	Ako
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+Ako no n’okpuru UPB nke na etinye otu mmadu si eme, m’obu ise okwu. Nkowa obuna si na ise okwu bu ife ojo m’obu sin a obu eziokwu bu nkowa ako, ya di n’okpuru ife ndi achoro na amamihe na ngosi empicalu
 
-### Irrationality
+K’anyi tinye anya na ife ato n’eme, iyenre anyi aka ikowa ife di iche na ako na ife ndi mmadu aman mewun. Ife n’eme nke izizi bu Mmegbu, nke ibuo bu itu ashi, nke ato bu ogbugbu ndi mmadu,[^9]
 
-Let’s say that you and I are having a debate about the existence of God. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+Mmegbu
 
-### Lying
+K’anyi si na mu na gi choro ikowa out anyi si mara icheiche maka Chukwu. Mgbe m kowa cha nke mu gi wag a aku aka gi n’enu nti gi, ibidozia igu egwu na Chukwu na agwa gi na ono, ugbua ife nine mu kowa aburu ife nlafu. Ina afu na otu isi wenre za mu adiro mma, odika ife mmegbu. Otu obuna afurum ife nine imere ka ife na akpasa mu iwe, mana oburu na mu wenputa egbe wen gbagbuo gi, oman di ka mu wenre amamihe. Ekwerem na obu ife uwa nabatara ijiri amamihe na ife ngosi kama ijiri onu anyi na anu n’ime isi anyi, mana ife uwa nabatara aburo ife amamihe wenre ike ime n’ife, ijiri ise okwu m’obu egwu.
 
-Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
+Itu ashi.
 
-The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+K’anyi si na mu na gi tinye iwu ikwu ife di anyi n’obi di iche, na anyi n’ibuo kwere itinye onu na ajuju gbasara Chukwu n’uzor amamihe na ngosi. Oburu, na nkowa anyi di icheiche na aga, iga aga achi na okwukwe ndi igbum, wen ju nke mana ina fu ya n’anya gi, inaha eso ife ikwere n’izizi. Ugbua,ina atu ashi mgbe isi na ajuju ka abu n’uzor amamihe na ngosi.
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+Ife di iche na fa n’ibuo (mmegbu na itu ashi) bu ife di iche n’ime ikwere na ijuru. Oburu na m yenre gi Dollar Iri-Iri wen gawa uzor mu, ewenro mu ike ibia achi mgbe out afor gacha si n’ijiri mu ugwo, maka n’obu ife iyotalu mu. Oburu, na ikwere iyen mu ego ahu mgbe afor ofu gara mana iyenro mu ego ahu, odi iche.
 
-A reasonable moral theory should be able to explain why this is the case.
+Ngosi “itu ashi”, ebe igbawen go n’ife ikwu, mana lafu oge mu, oman bu ako ka mu wenputa egbe wen gbagbuo gi.
 
-### Murder
+Nkowa ako wenre amamihe kwesiri ikowa gini mere ya di otua.
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+Igbu mmadu
 
-### Requirements For Ethics
+Oburu na igba kwuru mu, jide mma n’aka, mmadu ufodu ga etinye onu n’okwu mu wenre kwuru n’azu m. Oburu na igbagbu gi bu ife mu wenre ike ime ka mu di ndu, onye obuna ga go maka ya.
 
-Certain preconditions must exist, or be accepted, in order for ethical judgements or theories to have any validity or applicability. Clearly, choice and personal responsibility must both be accepted as axioms. If a rock comes bouncing down a hill and crashes into your car, we do not hold the rock morally responsible, since it has no consciousness, cannot choose, and therefore cannot possess personal responsibility. If the rock dislodged simply as a result of time and geology, then no one is responsible for the resulting harm to your car. If, however, you saw me push the rock out of its position, you would not blame the rock, but rather me. To add a further complication, if it turns out that I dislodged the rock because another man forced me to at gunpoint, you would be far more likely to blame the gun-toting initiator of the situation rather than me.
+Ife-Ndi Ako Kwesiri Iwe
 
-As we have discussed above, entering into any debate requires an acceptance of the realities of choice, values and personal responsibility. However, these factors are also present in the choice of the colour of paint for a room, yet we would scarcely say that selecting a hue is a *moral* choice. Thus there must be other criteria which must be present in order for a choice or proposition to be moral.
+Otutu ife anyi kwesiri ime kwesiri idi, m’obu ndi mmadu nabata, ka itinye onu na ako m’obu nkowa idi mkpa m’obu ikwe ndi mmadu me. Ife mmadu choro ime na ife mmadu kwesiri ime kwesiri ka fa nabata ka axiomus. Oburu na okwute na abia site n’enu ugwu wen kuo ugbo ala gi mebi ya, anyi aman jide okwuta ahu si ya kwuo ugwo, ebe owenro ndu di na ya, owenghi ike ichoro ife, ugbua owenghi ife obuna ime gbasara ugbo ala gi omebi. Oburu na okwute ahu gbabaru maka ife mere n’oge na ana, owenghi onye iga ejide maka ugbogi okwute ahu mebiri. Mana, oburu, na ifuru mu mgbe mu kwa okwute ahu aka ka ogbaba, iman si n’okwute ahu, mana iga etinye ya n’isi mu. Ituaria okwu, oburu na mmadu tinye egbe n’isi mu si mu kwa okwute ahu aka, I ga etinye okwu ahu n’isi onye tinye egbe n’isi mu.
 
-We all have preferences – from the merely personal (“I like ice cream”) to the socially preferable (“It is good to be on time”) to universal morality (“Thou shalt not murder”).
+Nkata anyi kpa n’enu, ibanye nkowa wenre obi icheiche kwesiri nnabata ife ndi mmadu choro, ife di fa mkpa na ife fa kwesiri ime. Mana, ife ndi ah noro na ife mmadu choro iji chie uno ya, ugbua anyi enweghi ike isi na mmadu sin a ochoro hue bu ako. Ebe ah okwesiri iwen ife ndi ozo digasi ka mmadu sin a ochoro ife ah m’obu nka n’ime ife bu ako.
 
-There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
+Anyi ncha wenre ife anyi choro di icheiche – bido na ife anyi choro (“dika nlacha ice kirim”) ga wan a ife ndi mmadu choro (“odimma I bia gbo”) ga wan a ife uwa choro (“Egbuna Mmadu ibe gi”).
 
-### Choice
+Owenre ife dimkpa idewe uwe gbasara ife mmadu choro maka onwe ya – na anyi wenre ike iro Ann Landers maka nkowa ife ndi mmadu choro – ebe ah, anyi ga etinye anya n’ife ndi mmadu wenre ike ichoro.
 
-If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+Ife Mmadu Choro
 
-If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
+Oburu na m nabatara ibia be gi rie nri na mme mme abali gi, ma fu na nkata ahu bu ife ojo na agbawa mmadu obi, ewem ike ibinie puo – ewem ike iju mgbe ozo isi m bia. Ife mere mu gbawa gi oso, m’obu inefu anya bu out ikowa ife di iche n’ime ako na ife ndi mmadu aman mewun.
 
-If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I have certainly done her wrong, but the wrong that I have done by cheating would be very different from the wrong I would do if I lock her in the basement to prevent her from leaving. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does.
+Mana, oburu na mgbe mu puru na mme mme  gi, ibinie we si mu nodu ana, ugbua ewenro zim ike ipuo. Ugbua ife imere ga arozi ogu, n’eba ogafego uzor di n’ime ako na ife mmada aman me wun.
 
-### Avoidance
+Oburu na, mgbe inuru nwanyi, ikwere na mu ga nu soso ofu nwanyi, munwa wen jekwuru nwanyi ozo, uyem wen sin a oga arafu mu, emegom ife gbawara ya obi, mana ife di njo na ijekwuru nwayi ozo ka a diche na oburu na m kpochiri ya n’ulo ka ya noruzie n’ulo. Anyi ga a kwuru na azu uye mmadu gbagburu di yam aka na ojekwuru nwanyi ozo, mana anyi aman ye ya onu kama anyi ga asi na ife omere di njo mgbe oga anu ogu puta n’nga di ya kpochiri ya. Na nke izizi, uye ahu wenre ike ichoro ifu n be di ya, mana igbu di ya gab u ife ojo; n’ime nke ibuo, uye ahu choro ifu, mana di ya kpochiri ya nga. Igbawa obi uye gi mgbe ijekwuru nwanyi ozo anaha egbochi uye gi ka ome ife ochoru, mana ikpochi ya nga n’egbochi ya.
 
-If you and I are both standing at the top of a cliff, and I turn to you and say, “Stand in front of me, so I can push you off the cliff,” what would your response be? If you do voluntarily stand in front of me, and I then push you off the cliff, this would more likely be considered a form of suicide on your part, rather than murder on my part. The reason for this is that you can very easily *avoid* being pushed off the cliff, simply by refusing to stand in front of me.
+Inefuanya
 
-Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death,” if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
+Oburu na mu na gi kwuru n’enu ugwu, mua wen tuari si gi “Kwuru n’iru mu, kamu kwa gi”, gini ka iga eme? Oburu na ikwere wen kwuru n’iru mu, mu wen kwa gi iwe da, ife mmadu ga akpor ya gab u n’igburu onwe gi, mmadu aman si n’omu gburu gi. Ife kpatara ya bu na iwenre ike iju na iman kwuru n’iru mu.
 
-This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose.
+Ka odi ka, oburu na mu furu gi na ebe ana aghu nkwu, wen gwa gi: “Achom ka I bia achi  na be mu, ka mu wen ike imegbu gi, agam e ke gi eriri na ute mu wen me ka agu gu gbuo gi”, oburu na isoro mu na wa bem, odi mfe na ichoro iwun. Oburu na mu tinye “ogwu” n’ime nkwu gi, iwen tete maru na mu ke gi eriri na ute mu, odi ife na owenro ife I ga emewun mgbe ahu.
 
-#### Avoidance And Initiation
+Ajuju di na Inefu anya bu ife diche na ako na ife ndi mmadu aman mewun. Ife ndi mmadu aman mewun n’uzor di ka nka na agbawa obi, mana owenro ike ime gi kwere n’ife ichoro.
 
-There is a particular issue with avoidance that will come up later in this book, which is worth clearing up here beforehand.
+Inefu anya na Ibanye na OTU
 
-If I live on a high mountaintop five thousand kilometres away from you, and send you an e-mail telling you that if you ever walk in front of my house, I am going to shoot you, it is relatively easy for you to avoid this situation. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
+Onwere ife ga aputa gbasara inefu anya n’omecha n’ime uwe ah, ife dimkpa ka ndi mmadu need ya anya.
 
-On the other hand, if you live on a dead-end street, and I tell you that if you take that street to get home, I will shoot you, your capacity to avoid this situation becomes significantly limited. You could certainly tunnel into your house, or jump over a bunch of backyard fences, but all of this would be considerably inconvenient.
+Oburu na mu bu n’enu ugwu uzor tere aka be gi, iwen ziga mu ozi na e-mail si gin a oburu na I wan anwa gafe iru unom, na mu ga ejiri egbe ebgu gi, odicha ofele ka gi nefu anya. Ife mu melu anuro ako, odi njo, mana ndi mmadu ga aju ajuju oburu na da kwa si ugbo elu, rie ugwu mu m’obu gafe uno mu.
 
-In a similar manner, if a representative of organised crime comes to my house and threatens to burn it down if I do not pay regular protection money, I can avoid that specific threat by moving to another continent, but that would seem like a rather unjust way to deal with the situation, since I must now initiate action in order to avoid the threat.
 
-For the moment, we can assume that *any* threat of the initiation of violence is immoral, but the question of avoidance – particularly the *degree* of avoidance required – is also important. In general, the more that a threat interferes with the normal course of daily actions, the more egregious it is. If I have to fly to another continent in order to walk in front of your house, that is scarcely an everyday activity. If I am threatened with violence for walking down the only road towards my own home, that is a far worse intrusion upon my liberties. If I have to take specific and unprecedented action to trigger a threat, that is one thing – if I trigger the threat through normal everyday activities, that is quite another. Telling you I will slap you if you stand on your head on the dark side of the moon is scarcely a threat – telling you I will slap you if you *breathe* is.
+Oburu n’ibi na obodo wenre so ofu uzor ibanye, m’obu ifuta, mua wen gwa gi esona uzor ahu nawa be gi, oburu na Isi uzor ahu, mua ga agbagi egbe, iman wen ike inefu anya maka na uzor ahu bu soso uzor iwen ike isi na wa be gi. Iwen re ike imepe ana sizie n’ime ya gawa be gi, m’obu rie aja ndi mmadu ka onye ori, mana ife ah nine aman yen gi ezumike.
 
-### Ethics, Aesthetics, And Avoidability
+Na ifeyiri ya, oburu na onye n’akwuru maka njo ndi mmadu kwadoro bia n’ulo mu we gwa mu na oga agba uno mu oku m’oburu na mu akwuru ugwo fa ga eji adebe onwe fa, mu enweghi ike inefu anya wen buru ibu kwaje obodo ozo, mana oga adika obuhi otu m kwesiri imeya, ugbua ekwesirim ime ife kam nefu ife ahu.
 
-Let’s say that you and I agree to meet at a certain location at six o’clock sharp – but then I show up half an hour late. What would your reaction be? At first, you may be a little annoyed. If I tell you that I was delayed because I stopped to give a dying man CPR and saved his life, your annoyance would likely be replaced with admiration. On the other hand, if I tell you that I am late because I was playing a video game, your annoyance would probably increase. A dying man’s need for CPR is unexpected, and therefore pretty much unavoidable – continuing to play a video game is easily avoidable, and clearly shows a lack of consideration for you.
+Ugbua, anyi wenre ike isi nam megbu obuna jiri ogu bu njo, mana ajuju inefu anya – ima kwuo one ikwesiri inefu anya – di mkpa. N’anya onye obuna, otu mmegbu si amalite na agbochi ifendi mmadu kwesiri ime n’ubochi obuna, odi ukwu.Oburu na mu kwesiri ife nku je n’obodo ozo kam wenre ike igafe n’iru be gi, onaha eme n’ubochi nine. Oburu na mmadu si mu esina uzor be mu nawa, ka cha njo na onye ahu agafe go ebe ikeruru. Oburu n’ekwe sirim ime ife ga ese okwu, ife ahu bu ofu ife – oburu na mu choro okwu jiri ife mu na eme n’ubochi nine bukwa ife ozo. Mua isi gina m ga amagi ula m’oburu na ikwuru n’isi gi mgbe ochichi di aburo ichokwu – mu igwa gi na mu ga amagi ula m’oburu na ikundu bu ichokwu.
 
-It is this capacity to *avoid* situations that forms a central root of ethical judgements A woman raped by a random intruder in her own home is undoubtedly the complete victim of a terrible crime. A woman who gets raped after getting blind drunk at a frat party and dancing naked on a tabletop presents a more complicated case. Clearly the rape, once under way, cannot be avoided, since it is being violently inflicted – however, situations which increase the likelihood of rape can be avoided.
+Ako, Ife Ndi Mmadu aman me wun na Inefu anya
 
-If someone breaks into my house and takes my wallet at gunpoint, I have every right to be outraged. If, however, I leave my wallet sitting on a park bench for a week, do I have the same right to be outraged when I return to find it gone? Instinctively we feel that this would seem to be less justified.
+K’anyi si na gi na mu kwere ifu n’ofu ebe m’okuo elekere isi – mana mua abia mgbe ojiri iri ato gafe elekere isi. Gini ka iga eme?N’izizi iwenre ike iwesa m iwe. Oburu na mu si gi na akwusim n’uzo ka mu yenre onye na’anwu aka ka obi ndu, obi gi ga ewedata, iwenre ike iwen ifu n'anya n’ebe mu no. Mana oburu na mu gwa gi na abiarom gbo maka na mu na agba mgba video, iwe gi ga ekunite. Inye onye na awun aka aburo ife mmadu na ekpe na ekpere, mmadu ewenghi ike inefu anya – mana inagba mgba bu ife mmadu wenre ike ihafu tupu obata, ife ah gosi na iwenro obi nwanne.
 
-Clearly, this question of avoidance is central to our moral evaluation of cause and effect. Illnesses that strike without warning, and which cannot be prevented, frighten us far more than those that we can avoid. We can minimise the chances of getting lung cancer by refraining from smoking, just as we can help prevent skin cancer by using sunscreen, and avoid broken bones by eschewing extreme sports. Similarly, we can do much to avoid crime through some fairly simple habits, such as choosing moral companions, avoiding locales and situations where crime is more probable, refraining from substance abuse and so on.
+Inefu anya n’ihe na diro mkpa bu ihe na enweta ntinye onu. Nwanyi noro be ya, onye omaro bia n’uloya we rie ya enu n’eme gbu ya bu njo di ukwu. Nwanyi rucha nkwu wen gba oto na etegwu na erimeri ogara, nwoke wen rie ya enu ebe ojuru na enweta okwu digazi iche. Otua ife megonu emego maka nwoke omu jiri ogu me ya – mana, ife na akpata ya bu ife nwoke wenre ike inefu.
 
-There is a phenomenon known as “death by cop,” wherein suicidal people provoke an altercation with the police, then pretend to reach for a gun in order to get shot. This is an extreme example of pursuing situations where “victimisation” is almost guaranteed. This can also occur in domestic situations, wherein a wife will verbally attack a drunken husband, knowing perfectly well that alcohol inflames his violent temper. In these situations, we can have some sympathy for the man whose wallet is stolen in the park, or the woman who is attacked at the frat party, or the wife who is beaten by her husband – but at the same time, we would have some significant questions regarding their role or complicity in the wrongs they have suffered. To be just, we must differentiate between a man whose wallet is stolen at gunpoint, and a man who leaves his wallet lying around in a public place. Both men have had their wallets stolen, to be sure, but it would scarcely seem reasonable to hold them equally accountable.
+Oburu na mmadu jiri iwe bata n’ulo mu tinye egbe n’isi mu wen nara ego mu, ewem abali obuna iwe kwa sa ya iwe. Mana, oburu na mu hafuru akpa mu n’ezi abali asaa wen gafe, ewe kwom ike iwebe iwe maka na afurozim akpa omu? N’otu n’otu anyi mara na owenghi isi.
 
-Can the UPB framework help us understand, classify and extend these moral standards?
+Ina afu, ajuju inefu anya bu ife gbasara ako anyi na onyia anyi wenre mu8 na ife anyi enweghi ike igbochi, na atu anyi egwu karia ndi anyi ga enefu. Anyi wenre ike iwedata oyia nkume mgbe anyi kwusiri ise ciga, otu anyi jiri ewedata oyia ahu n’eji kirim na iwedata ikujie okpukpu otu anyi jiri enefu mgba di ario. Anyi ga enefu anya na njo oburu na anyi soro otu mmadu kwesiri ime, dika ichoro di wenre ako, inefu ebe ife ojo n’eme, ihafu iru ogwu karia one ikwesiri iri na ndi ozo.
 
-[^9]: Please note that the examples below are not proofs, but rather situations that a valid ethical theory should be able to encompass and explain. We will get to the actual proofs shortly.
+Owenre ife ah na akpor “ogbugbu nkesi n’aka ndi uwe oji”, ebe ndi choro igbu onwe fa na eyen ndi uwe oji nsogbu, fa ga eme ka fa achoro iwepu egbe ka fa gbagbu fa.Ife ah bu ngosi gbaragba n’egosi ichu “mmegbu” oso di mkpa. Ife n’eme n’ulo, ebe uye mmadu na ako di ya onu, ebe omara na ikoya onu n'eme ya wen iwe maka na nkwu mere ya onye arunuma. N’ime ife n’eme, anyi ga enwe obi ebere n’ebe onye azuru akpaya n’ezi, m’obu nwanyi fa jiri mere ife ozo na mmemme, m’obu nwuye-di ya tiri ya ife – mana n’ugbua ,anyi ga enwe ajuju n’ebe ife fa kwesiri ime m’obu njo fa tara afufu. Ikwu eziokwu, anyi kwesiri ikowa ife di iche n’ebe nwoke azuru akpa ya tinye ya egbe n’isi, na nwoke hafuru akpa ya n’ezi. Fa n’ibuo bu ndi azuru akpa fa, ka anyi mara, mana oman bu ofu ife.
+
+Owenre otu UPB ga eyen anyi aka ighota, hazie na imalite ako?
+
+[^9]: Biko mara na ngosi ndi ah di na okpuru aburo ife  dicha ezi, mana obu ife ndi n’eme wenre nkowa ako dimkpa. Anyi ga erute n'ife ngosi bu ezi na nwantiti oge.

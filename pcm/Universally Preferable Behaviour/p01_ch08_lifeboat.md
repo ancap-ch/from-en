@@ -68,6 +68,6 @@ Why dey wori to explain wetin dey guide good and bad? To talk d truth, people no
 
 Of course, the danger always dey wey be say bad person go attack you for em own selfish purpose. E fit also be say, despite clean and person dey live well, cancer fit kill person before em time – the former no make the science of knowing how to do the good thing no hold water, any more pass the other one con make the science of medicine, nutrition and exercise no hold water. One thing wey reasonable science of doing good thing dey show be say e dey reduce your chance of *suffering* bad things wey be like thief, killing person and rape – and na by this criteria we go use judge the better rules wey dey for Part Three of dis book.
 
- [^10]: Of course, if I be person wey no sabi do anything or I be confuse human being I for don die for hunger, prison na for help me pass.
+[^10]: Of course, if I be person wey no sabi do anything or I be confuse human being I for don die for hunger, prison na for help me pass.
 
 Nietzsche’s “will to power” and Rand’s “wetin serve for man life e gud.”[^11]:

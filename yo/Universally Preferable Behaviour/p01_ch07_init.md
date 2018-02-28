@@ -1,49 +1,49 @@
-## Initiation
+## Ipilẹṣẹ
 
-A reasonable moral theory should be able to explain all of the above universal standards, just as a reasonable theory of physics should be able to explain how a man can unconsciously calculate the arc of a thrown baseball, and catch it.
+Àlàyé ìwà tó bá ní ọgbọn nínú yẹ láti lè ṣàlàyé gbogbo awọn òṣuwọn àgbáyé, gẹgẹbi àlàyé físíksì to mú ọgbọn wà yẹ láti ṣàlàyé bi ọkùnrin kan ṣe lè ṣe ìṣirò ọnà tí bọọlu tí a jù yíò gbà, ti yíò sì mú.
 
-If the framework of UPB can explain the above, then it will certainly have passed at least the “common sense” test.
+Ti ìlànà UPB bá lé ṣàlàyé àwọn nkán tá sọ sókè, a jẹ pé yíò tí yege ìdánwò "ọgbọn àpapọ".
 
-This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
+Èyí kò túmọ sí wípé àwon ìpinnu iyalẹnu - kódà tó jẹ ìyanu- kò ní jáde láti ara àlàyé ìwà wa, ṣugbọn ó kéré jù a ti yege ìdánwò àkọkọ tí ṣiṣe àlàyé ohun tó hàn kedere, ṣáájú kí a tó ṣe ìtúpalẹ̀ èyí tó jìnà sí kedere.
 
-With that in mind, let us turn to the question of *initiation*.
+Pẹlú èyí lọkàn, ká padà sí ìbéèrè nípa *ipilẹṣẹ*.
 
-A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
+Oniṣẹ abẹ kan le "gún" ẹ pẹlú ọbẹ́ abẹ kan, ṣugbọn ó lè tètè yé wá wípé ìhùwàsí rẹ yatọ púpọ sí onijakidijagan kan tó fí ọbẹ́ gún ẹ.
 
-This difference can be understood through a further analysis of *initiation*.
+Iyatọ yìí yíò yé wá nípasẹ àgbéyẹ̀wò síwájú sí lórí *ipilẹṣẹ*.
 
-If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+To bá ní àìsàn jẹjẹrẹ, ó lè pe oníṣe abẹ láti ṣiṣẹ abẹ fún ẹ. Ìdí tí "gígùn" pẹlu ọ̀bẹ ti oníṣe abẹ kò ṣe jẹ àìdá ni wípé jẹjẹrẹ náà ti ni "ipilẹṣẹ" ìpalára lórí ẹmi àti àlàáfíà rẹ. Oníṣe abẹ náà huwà bi "olúgbèjà tí n ran ni lọwọ" gẹgẹbi ọkùnrin kan tó yín ibọn pa onijagidijagan ti n ko ìpalára ba ẹ. Ó sí ti fún oníṣe abẹ náà ni iyọnda láti ọkàn rẹ, ti òfin sí ti wa fún ìhùwàsí rẹ̀.
 
-The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
+Onijagidijagan tó gùn ẹ lọbẹ, pàápàá, ni ipilẹṣẹ ìpalára lori ẹ̀mí ati àlàáfíà rẹ, èyí tó mú ìpalára rẹ jẹ *idakeji* ìwà tí ìgbìyànjú oníṣe abẹ náà.
 
-If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Ti mo ba jẹ ẹni tí n mu igbó fún ìgbà tó pẹ, mo ti kópa nínú àwọn ìṣẹlẹ tó lè fa jẹjẹrẹ ẹdọfóró mi. Pẹlú ipilẹṣẹ ati ìkópa ìhùwàsí igbó mímú, mo ti dá awọn ọran kan tó lè ṣe òkùnfà ìjàmbá to ko ìpalára ba èmí mi. Dájúdájú ó ṣeéṣe fún mi láti ní jẹjẹrẹ ẹdọfóró láì mu igbó - tàbí mu igbó tí mi kò ní ní jẹjẹrẹ ẹdọfóró - ṣugbọn mo ti ko ipá kan lori iṣẹlẹ náà.
 
-Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
+Bákannáà, ó ṣeéṣe fún mi láti fí àpò owó mi kalẹ sí orí àga kan nínú pápá fún ọsẹ kan, kí n padà láti tún ba níbẹ, ṣugbọn pẹlú pé mo fisilẹ níbẹ fún àsìkò pipẹ, Mo ti ko ipá kan lórí lilọ rẹ.
 
-On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
+Lọnà kejì, ti mo ba dúró sí ilé ni gbogbo alẹ́, mi kò fi ààyè gba irufin, ati pé ti wèrè kan bá ja wọlé mí to sí kó gbogbo ohun ìní mi lọ, Mi kò le jẹbi ipá ti mo ba ko nínú ìṣẹlẹ náà.
 
-### The Non-Aggression Principle (NAP)
+### Ìlànà ti kò fa ìbínú (NAP)
 
-A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+Òfin ìwà kan tí a ma n gbèrò lọpọ ìgbà njẹ *ìlànà tí kò fa ìbínú*, tàbí NAP. A tún má n pe ni "ìpààrọ̀ ẹlẹdẹ," lópin ìgbà tí ẹlẹdẹ má n lo "ipá" fún ìdáàbòbò ara rẹ NAP náà jẹ èròngbà wípé "ipilẹṣẹ lílò ipá kò dára." Tàbí, kí a sọ bí a ti n bá oro wa bọ: "kíkọ fún ipilẹṣẹ lílò ipá je ààyò àgbáyé".
 
-When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
+Ti a ba ṣe àgbéyẹ̀wò ìlànà kan bi NAP, nkan meje nìkan ló ṣeéṣe: mẹta ninu àìdá, mẹta ninu dáadáa, ati ọkan láàrín dáadáa àti àìdá:
 
-- The initiation of the use of force is always morally wrong.
-- The initiation of the use of force is sometimes morally wrong.
-- The initiation of the use of force is never morally wrong.
-- The initiation of the use of force has no moral content.
-- The initiation of the use of force is never morally right.
-- The initiation of the use of force is sometimes morally right.
-- The initiation of the use of force is always morally right.
+- Ipilẹṣẹ lílò ipá jẹ ìwà àìdá nigbagbogbo.
+- Ipilẹṣẹ lílò ipá jẹ ìwà àìdá lẹẹkan kàn.
+- Ipilẹṣẹ lílò ipá kìí ṣe ìwà aida
+- Ipilẹṣẹ lílò ipá kò ní ìwà kánkan nínú.
+- Ipilẹṣẹ lílò ipá kìí ṣe ìwà rere.
+- Ipilẹṣẹ lílò ipá jẹ ìwà rere lẹẹkan kàn.
+- Ipilẹṣẹ lílò ipá jẹ ìwà rere nigbagbogbo.
 
-As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
+Gẹgẹbi a ti ri lókè, sibẹsibẹ, UPB jẹ ìlànà "gbogbo rẹ tàbí àìní nkankan". Ti ìhùwàsí kan bá jẹ *ààyò àgbáyé*, a jẹ pé kò ní ìdádúró pẹlú olúkúlùkù, agbègbè, àsìkò àti bẹ bẹ lọ. To ba jẹ àìdá lati pá èèyàn ni Algiers, a jẹ pé àìdá ni láti pá èèyàn ni Belgium, Ipinlẹ àpapọ Amẹrika, ni North Pole àti lórí òṣùpá. To bá jẹ àìdá láti pá èèyàn ni àna, a jẹ pé kò lè dára láti pá èèyàn ni ọ̀la. To bá jẹ àìdá fún Bob láti pá èèyàn, a jẹ pé ó gbọdọ jẹ àìdá fún Doug láti pá èèyàn.
 
-Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
+Ṣíṣe asopọ NAP pẹlú UPB, fún wa láàyè láti dín ìgbàsílẹ̀ méje yìí kù sí mẹta:
 
-1. It is universally preferable to initiate the use of force.
-2. It is universally preferable to not initiate the use of force.
-3. The initiation of the use of force is not subject to universal preferences.
+1. O jẹ ààyò àgbáyé láti mú ipilẹṣẹ lílò ipá.
+2. O jẹ ààyò àgbáyé láti kọ ipilẹṣẹ lílò ipá.
+3. Ipilẹṣẹ lílò ipá kò ní nkán ṣe pẹlú ààyò àgbáyé.
 
-This is the natural result of applying the requirement of rational consistency to ethical propositions. A rational theory cannot validly propose that opposite results can occur from the same circumstances. A scientific theory cannot argue that one rock must fall down, but another rock must fall up. Einstein did not argue that E=MC^2^ on a Thursday, but that E=MC^3^ on a Friday, or on Mars, or during a blue moon. The law of conservation – that matter can be neither created nor destroyed – does not hold true only when you really, really want it to, or if you pay a guy to make it so, or when a black cat crosses your path. The laws of physics are not subject to time, geography, opinion or acts of Congress. This consistency must also be required for systems of ethics, or UPB, and we will subject generally accepted moral theories to this rigour in Part Two, in a few pages.
+Èyí jẹ àbájáde àdáyébá fún lílò ìbéèrè ṣiṣe déédéé ọgbọn sí àwọn àlàyé ìwà. Àlàyé ìwà kan kò lè gbèrò pẹlu ìwúlò wipe àbájáde oríṣi méjì yíò ṣẹlẹ lati ara ìdájọ kannáà. Àlàyé sáyẹnsì kan kò le jiyàn wípé òkúta kan yíò já walẹ, ṣugbọn òkúta mìíràn yíò já sókè. Einstein kò jiyàn wípé E=MC^2^ ni ọjọ Thursday, ṣugbọn wípé E=MC^3^ ni ọjọ Friday, tàbí lórí Mars, tàbí ní oṣù. Òfin tí ìtọjú - wípé nkán kò ṣe dá kò sì ṣe bajẹ - kò dúró lotitọ nígbà tí o fẹ kó dúró, tàbí nígbà tó san owó fún èèyàn láti mú rí bẹ, tàbí nígbà tí ológbò dúdú kọjá níwájú rẹ. Awọn òfin físíksì kò ni ìdádúró pẹlu àsìkò, agbègbè, ìpinnu tàbí ìhùwàsí àkójọ àwọn èèyàn. Isedéédé yìí gbọdọ wà nínú ìbéèrè ìlànà ìwà, tàbí UPB, ati pé a ó ṣe ìtúpalẹ̀ awọn àlàyé ìwà tí a tí gbà wọlé ní Apá Kejì, lójú ewé ìwé diẹ.
 
-However, since we are dealing with the question of *consistency*, it is well worth taking the time to deal with our capacity for *inconsistency*.
+Sibẹsibẹ, nígbàtí a n ṣiṣẹ pẹlú ìbéèrè nípa *ṣiṣe déédéé*, yíò wúlò náà lati fi àsìkò lẹ fi ṣiṣẹ pẹlu ìkápá wa fún *aiṣedéédé*.

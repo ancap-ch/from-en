@@ -1,49 +1,48 @@
-## Initiation
+Ibido Ife
 
-A reasonable moral theory should be able to explain all of the above universal standards, just as a reasonable theory of physics should be able to explain how a man can unconsciously calculate the arc of a thrown baseball, and catch it.
+Ako wenre isi kwesiri iwen ike ikowa ife n'ine di n'enu n'otu oga adaba n'otu uwa na eme, dika otu fiziksi na akowa otu nwoke weren ike igbako onu one arku basibolu mmadu turu, wen jide.
 
-If the framework of UPB can explain the above, then it will certainly have passed at least the “common sense” test.
+oburu na UPB wenre ike ikowa ife digasi n'enu, oga ah wenta ife n'ine di na nnene "amamihe"
 
-This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
+Ife ah anaha akowa n'ona eyi egwu -- dikwa egwu -- mmecha wenre ike iweputa ako anyi, owenkwo ike izo ya, mana anyi ga ya agafe godi afufu nke mbu na akowa ife anyi mara, tupu iche ya n'echiche dicha ntiri na ife anyi mara.
 
-With that in mind, let us turn to the question of *initiation*.
+Ijiri ife ahu n'obi, k'anyi tinye anya na ajuju ibido ife.
 
-A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
+Dibia bekee na egbu mmadu mma ka owenpu ife n'ekwesiri ino n'ime gi wenre ike "igbu gi" mma ah na akpo scapel, anyi mara na ife mere dicha iche na ife onye gburu gi mma mere.
 
-This difference can be understood through a further analysis of *initiation*.
+Ife diche na ya bu ife iga aghota site na nkowa mu ga ede di n'ime ibido ife.
 
-If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+Oburu na iwenre onyia obara, iwenre iyoro Dibia bekee na egbu mmadu mma ka owenpu ife n'ekwesiri ino n'ime gi ka o gwo gi. Ife mere dibia omu "gbuo gi mma" aburo ife ojo, mana onyia ahu mere ya ka o "bido" tupt iwuon. Dibia ahu noru ka "onye n'egbochi ka muo-ozi", otu nwoke ga agbagbu onye ori choro igbu ya mma. Ngiwa kwa na enye dibia omu onu ka o gbuo gi mma, na dibia omu aman me ife ozo karia ife isi ya me.
 
-The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
+Onye ori gburu gi mma, na etinye onwu n'anya gi, ife ah mere ife omere buru njo. itinye 
 
-If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Oburu na ise ciga abanye go n'aru mu, omu mere ife kpatara onyia nku ume mu. Ebem bidoro wen na ese ciga mgbe ufodu tupu omalu mu aru, eme go mu owem ife wenre ike igbu mu echi maka na obagom aru. Ewem ike inwe onyia nku ume m'oburu na mu na ese ciga -- m'obu ise ciga mana onyia nku ume aman rute n'ebe mu noro -- mana ometu go mu aru.
 
-Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
+Otu osi we di m'oburu na mu hafuru akpa mu n'ezi ubochi asato gafe, bata we fu akpa omu ebe mu dosara ya, maka na mu dosara ya ebe ahu onwe nolu ebe ahu ntiri, omu mere ya.
 
-On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
+N'uzor ozo, oburu na mu noro n'ulom abani nine, anaha mu ah kpor njo, kita oburu na onye ori ala na awi biakwu tere mu n'ulo wenre zuo m'ori, onwero onye ga asi n'obu mu kpatara ya.
 
-### The Non-Aggression Principle (NAP)
+Iwu Diri ka Mmadu acho na Okwu (NAP)
 
-A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+Iwu ako ka ah na kpor mgbe ufodu iwu diri ka mmadu acho na okwu, m'obu na bekee NAP. Otutu na akpor ya "udo nkakwu", maka na nkakwu n'eji "ogu" n'idebe onwe ya. NAP bu igosi ndi mmadu na "ibido iji ogu ime ife obuna bu njo". M'obu itinye na ife anyi na akor: "Irapu ogu ka uwa nine nabatara".
 
-When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
+Mgbe anyi tinye anya na iwu dika NAP, onwere otu asaa soso: ato na njo, ato na mma, na ofu nadiro njo m'obu mma:
 
-- The initiation of the use of force is always morally wrong.
-- The initiation of the use of force is sometimes morally wrong.
-- The initiation of the use of force is never morally wrong.
-- The initiation of the use of force has no moral content.
-- The initiation of the use of force is never morally right.
-- The initiation of the use of force is sometimes morally right.
-- The initiation of the use of force is always morally right.
+•	Ibido ihe obuna jiri ogu dicha njo.
+•	Ibido ihe obuna jiri ogu na adi njo mgbe ufodi.
+•	Ibido ihe obuna jiri ogu aburo njo chacha.
+•	Ibido ihe obuna jiri ogu enweghi ako n'ime ya.
+•	Ibido ihe obuna jiri ogu na adi mma mgbe ufodu.
+•	Ibido ihe obuna jiri ogu na adi mma.
+•	
+Otu anyi na afu n'enu, UPB bu "ife nine m'obu owenro ife obu". Oburu na ife mmadu mere bu ife uwa nabatara, onweghi onye wen ike ikwusi ya, m'obu obodo, m'obu oge na e kwu na aga. Oburu na obu ife ojo igbu ndi Algiers, igbu ndi Belgium bu kwo njo, ndi United States, ndi bu na Osisi North mana n'Onwa. M'oburu na igbu mmadu bu njo nya ahu, owenro otu oga agbanwe echi. Oburu na odi njo ka Bob gbuo mmadu, okwesiri ibu njo ka Doug gbuo mmadu.
 
-As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
+Igbaghota onu NAP na UPB, ugbua yenre anyi aka ikowa ama ife anyi kowa n'enu di asaa ka odo ra anyi anya n'ime ato anu ah di n'okpuru:
 
-Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
+1.	Uwa nabatara ibido ife obuna jiri ogu.
+2.	Uwa juru ibido ife obuna jiri ogu.
+3.	Ibido ife obuna jiri ogu adiro n'okpuru ife uwa nabatara.
+4.	
+Ife ah bu ngosi ife putara na ntinye ife ome na ako. Nkowa mmadu ghota ofuma wenre ike ime n'uzor abuo m'obu n'ofu uzor. Akuko bekee ewenghi ike iju  na ofu okwute kwesiri ida, mana okuta ozo kwesiri ikunite. Einstein aman gowa na E=MC^2^ n'mbosi Thursday, mana oga ago ya na Friday na E=MC^3^, m'obu n'enu Mars, m'obu ncha. Iwu idosa ife ka orute echi -- na ife di ario mmadu enweghi ike ime ya m'obu imebi ya -- aburo eziokwu soso mgbe ichoro, mgbe ichoro ka od diri, m'obu ikwu nwoke ugwo ka ome, m'obu mgbe busuu oji gafe gi n'uzo. Iwu fiziks adighi n'okpuru oge, obodo, ife mmadu siri, m'obu ife otutu mere. Ako kwesiri inoro n'ime ya ka oneme, m'obu UPB, anyi nine ga anabata nkowa ako gbasara edemede ah na Nke Ibuo. 
 
-1. It is universally preferable to initiate the use of force.
-2. It is universally preferable to not initiate the use of force.
-3. The initiation of the use of force is not subject to universal preferences.
-
-This is the natural result of applying the requirement of rational consistency to ethical propositions. A rational theory cannot validly propose that opposite results can occur from the same circumstances. A scientific theory cannot argue that one rock must fall down, but another rock must fall up. Einstein did not argue that E=MC^2^ on a Thursday, but that E=MC^3^ on a Friday, or on Mars, or during a blue moon. The law of conservation – that matter can be neither created nor destroyed – does not hold true only when you really, really want it to, or if you pay a guy to make it so, or when a black cat crosses your path. The laws of physics are not subject to time, geography, opinion or acts of Congress. This consistency must also be required for systems of ethics, or UPB, and we will subject generally accepted moral theories to this rigour in Part Two, in a few pages.
-
-However, since we are dealing with the question of *consistency*, it is well worth taking the time to deal with our capacity for *inconsistency*.
+Mana, ebe anyi na enekwasi anya na ajuju imebe, okwesiri ka anyi wentu obi itinye anya na ike anyi ikwusi.

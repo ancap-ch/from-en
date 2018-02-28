@@ -34,6 +34,6 @@ Nitorinà a le parọ lotitọ fún opurọ, gẹgẹbi a ti le dàbobo ara wá 
 
 Iyatọ ni wípé "pipẹ dé" kò yára mu iparun wá bi irọ́ pípa. Ẹni tí n pẹ́ dé má n mu inú bí yan, sugbon èyí kò ṣe idiwọn ìkápá rẹ lati ṣètò òtítọ. O je nkankan láti pé dé ìpàdé alago méje laarọ pẹlu wákàtí kan - nkán ọtọ míràn ni ki n gbìyànjú láti fi dá yin loju pe agọ mẹjọ arọ ní a fi ìpàdé sí, nígbà tí mo mọ pé ọrọ kò ri bẹẹ.
 
-Mima ja pẹlú ìgboyà ọkan rẹ̀ [5] ba ni l'ẹru púpọ jù idaniduro lo, nítorípé o je ìwà lilo igbẹkẹle kan lọdọ rẹ́ lati kò idinku bá igbẹkẹle ninu ara tiẹ, èyí ti ko dá pàápàá, nígbàtí o jẹ *lilo* iye kan lati ko idinku bá iye míràn, gẹgẹbi ṣiṣe ayédèrú. Bayi ni awọn UPB fọwọsi àìsí ọgbọn ninu àlàyé "irọ́ pípa dara," O tun jẹri sí pé ìwà irọ́ pípa sí èèyàn burú jù "pipẹ dé," ṣugbọn ọ da ju "ìjà" lo.
+Mima ja pẹlú ìgboyà ọkan rẹ̀[^5] ba ni l'ẹru púpọ jù idaniduro lo, nítorípé o je ìwà lilo igbẹkẹle kan lọdọ rẹ́ lati kò idinku bá igbẹkẹle ninu ara tiẹ, èyí ti ko dá pàápàá, nígbàtí o jẹ *lilo* iye kan lati ko idinku bá iye míràn, gẹgẹbi ṣiṣe ayédèrú. Bayi ni awọn UPB fọwọsi àìsí ọgbọn ninu àlàyé "irọ́ pípa dara," O tun jẹri sí pé ìwà irọ́ pípa sí èèyàn burú jù "pipẹ dé," ṣugbọn ọ da ju "ìjà" lo.
 
 [^5]: Ti a n pé nígbà míìràn ni "ìdáná-afẹfẹ," lẹhin eré agbelewo atijọ.

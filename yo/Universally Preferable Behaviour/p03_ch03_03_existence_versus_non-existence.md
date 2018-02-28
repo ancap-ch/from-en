@@ -18,7 +18,7 @@ Ifẹ̀ ọkàn wá láti se dáradára - darapọ pẹ̀lú ìwà rere tí a gb
 
 Ìdí kan paato tí a mọ ni wípé ijọba àti àwọn òrìṣà ṣe pàtàkì nípa pé bí wọn ṣe sọ ní o má rì. *A mọ pe ọ̀pọ̀lọpọ̀ ènìyàn ni wọn fẹ se daradara nitorí wọn wá ní ìdarí ìwà rere wan *.
 
-Ìlànà tí ìgbọràn sì ìtàn ayé àtijọ́ jẹ pàtàkì asiwere. Tí àlùfáà bá wí fún mi pé mo gbọdọ gbọ́ràn sì "Olódùmarè", eléyìí jẹ́ nkankan náà wípé àlùfáà sọ pe ki n gbọ́ràn sì nkan ti a n pe ni "nogi". Tí Mo wà gbagbọ pé nkan yìí ó yẹ fún ìgbọràn ayérayé, eléyìí kò wípé kí n gbọ́ràn sì "àlùfáà" lẹ́nu. Tí mò bá sọ fún ọ pé "gbọ́ràn sì ọkàn rẹ," se mo lè wá wípé :"àti *èmi nìkan * sọ fún ọkàn rẹ"?
+Ìlànà tí ìgbọràn sì ìtàn ayé àtijọ́ jẹ pàtàkì asiwere. Tí àlùfáà bá wí fún mi pé mo gbọdọ gbọ́ràn sì "Olódùmarè", eléyìí jẹ́ nkankan náà wípé àlùfáà sọ pe ki n gbọ́ràn sì nkan ti a n pe ni "nogi". Tí Mo wà gbagbọ pé nkan yìí ó yẹ fún ìgbọràn ayérayé, eléyìí kò wípé kí n gbọ́ràn sì "àlùfáà" lẹ́nu. Tí mò bá sọ fún ọ pé "gbọ́ràn sì ọkàn rẹ," se mo lè wá wípé :"àti *èmi nìkan* sọ fún ọkàn rẹ"?
 
 Dájúdájú bẹ́ẹ̀ kò.
 

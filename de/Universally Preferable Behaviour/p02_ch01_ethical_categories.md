@@ -1,39 +1,39 @@
-## Ethical Categories
+## Ethische Kategorien
 
-With the UPB framework in place, we can now turn to an examination of how UPB validates or invalidates our most common moral propositions. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
+Mit dem Rahmenwerk von UPB können wir uns nun einer Untersuchung zuwenden, wie die UPB unsere gängigsten moralischen Aussagen validiert oder für ungültig erklärt. Wenn unsere "Theorie der Physik" erklären kann, wie ein Mensch einen Baseball fangen kann, dann haben wir zumindest die erste - und wichtigste - Hürde genommen und unseren ersten und tiefsten Schlag gegen die Bestie ausgeführt.
 
-### The Seven Categories
+### Die Sieben Kategorien
 
-As mentioned above, propositions regarding universally preferable behaviour fall into three general categories – positive, negative and neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
+Wie bereits erwähnt, lassen sich die Aussagen über das allgemein bevorzugte Verhalten in drei allgemeine Kategorien einteilen: positiv, negativ und neutral. Um uns dabei zu helfen, Ästhetik und Ethik voneinander zu trennen, sollten wir damit beginnen, diese Kategorien auf *jedes* Verhalten auszudehnen, das einer ethischen Analyse unterzogen werden kann. Diese sieben Kategorien sind:
 
-1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
-2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
-3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
-4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
-5. It is personally negative (predilection for not eating ice cream).
-6. It is aesthetically negative (“rudeness” and “being late”).
-7. It is evil (universally proscribed) (“rape”).
+1. Es ist gut (universell vorzuziehen und durchsetzbar durch Gewalt, wie z.B. "du sollst nicht töten").
+2. Es ist ästhetisch positiv (universell vorzuziehen, aber nicht gewaltsam durchsetzbar, wie z.B. "Höflichkeit" und "Pünktlichkeit").
+3. Es ist persönlich positiv (weder universell vorzuziehen noch durchsetzbar, eine Vorliebe wie für den Verzehr von Eiscreme).
+4. Es ist neutral oder hat keinen ethischen oder ästhetischen Inhalt, wie z.B. das Laufen nach einem Bus.
+5. Es ist persönlich negativ (Vorliebe für den Verzicht auf Eiscreme).
+6. Es ist ästhetisch negativ ("Unhöflichkeit" und "Verspätung").
+7. Es ist böse (allgemein verboten) ("Vergewaltigung").
 
-Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
+Im Idealfall sollten wir in der Lage sein, diese auf nur zwei Kategorien zu reduzieren - universell vorzuziehen und ästhetisch positiv -, indem wir unsere ethischen Vorschläge so definieren, dass das, was universell verboten ist, einfach nur ein Spiegelbild dessen ist, was universell vorzuziehen ist, und indem wir lediglich persönliche Vorlieben und neutrale Handlungen als irrelevant für eine Ethikdiskussion weglassen.
 
-For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
+So besagt beispielsweise das Non-Aggression-Prinzip (NAP), dass die Einleitung der Gewaltanwendung unmoralisch ist - daher ist die Nicht-Einleitung der Gewaltanwendung allgemein vorzuziehen, während die Einleitung der Gewaltanwendung allgemein verboten ist. Wenn das, was verboten ist, einfach das Gegenteil von dem ist, was vorzuziehen ist, dann braucht es wirklich keine zusätzliche Kategorie.
 
-Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+Darüber hinaus müssen wir als Moralphilosophen unserer Untersuchung der rationalen Ethik Vorrang einräumen, indem wir uns auf die grausamsten Verstöße konzentrieren. Die unmoralischsten Handlungen müssen eindeutig die gewaltsame Durchsetzung ungerechter Präferenzen gegenüber anderen sein. Wenn Handlungen wie "Diebstahl" oder "Mord" als UPB definiert werden, muss die Prüfung solcher Definitionen für uns oberste Priorität haben.
 
-Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
+Daher werden wir unsere Bemühungen in erster Linie auf allgemein vorzuziehende und durchsetzbare Maßnahmen konzentrieren.
 
-### Virtue And Its Opposite
+### Tugend und ihr Gegenteil
 
-The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil.” If I propose the moral rule, “thou shalt not steal,” then stealing must be evil, and *not* stealing must be good. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
+Das Gegenteil von "Tugend" muss "Laster" sein - das Gegenteil von "Gut" muss "Böse" sein. Wenn ich die moralische Regel vorschlage: "Du sollst nicht stehlen", dann muss Stehlen böse sein, und *nicht* stehlen muss gut sein. Das bedeutet nicht, dass "Diebstahl unterlassen" die alleinige Definition von moralischer Exzellenz ist, denn ein Mann kann ein Mörder sein, aber kein Dieb. Wir können es uns als eine "notwendige, aber nicht ausreichende" Voraussetzung für die Tugend vorstellen.
 
-Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
+Jede moralisch vorzuziehende Handlung muss ihrem Wesen nach eine entgegengesetzte Handlung haben - denn wenn nicht, dann gibt es keine Wahlmöglichkeit, keine Ausweichmöglichkeit und damit auch keine Fähigkeit zur Tugend oder zum Laster. Wenn ich die moralische Regel vorschlage: "Du sollst der Schwerkraft trotzen", dann wird die Moral eindeutig unmöglich, Unmoral lässt sich nicht vermeiden, und deshalb muss die moralische Regel ungültig sein.
 
-If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
+Wenn ich die moralische Regel vorschlage: "Du sollst nicht nach San Francisco gehen", kann man das logischerweise so umformulieren: "Du sollst überall hingehen, außer nach San Francisco". Auf diese Weise kann die moralische Regel "Du sollst nicht stehlen" auch in positiver Form vorgeschlagen werden - "Du sollst die Eigentumsrechte respektieren". Da die Achtung von Eigentumsrechten eine Tugend ist, muss die Verletzung von Eigentumsrechten ein Laster sein.
 
-### What Is Missing
+### Was fehlt
 
-Conspicuously absent from the above list are traditional virtues such as courage, honesty, integrity and so on – as well as their opposites: cowardice, falsehood and corruption.
+Auffallend fehlen in der obigen Liste traditionelle Tugenden wie Mut, Ehrlichkeit, Integrität und so weiter - und ihre Gegensätze: Feigheit, Falschheit und Korruption.
 
-It may seem that these virtues should fall into the realm of aesthetically positive behaviour, such as being on time, but I for one have far too much respect for the traditional virtues to place them in the same category as social niceties. The reason that they cannot be placed into the category of universally preferable is that, as we mentioned above, the framework of UPB only deals with *behaviours*, not with attitudes, thoughts, states of mind or emotions. The scientific method can process a logical proposition; it cannot process “anger” or “foolhardiness.” These states of mind are not unimportant, of course – in fact, they are essential – but they cannot be part of any objective system for evaluating ethical propositions, since they are essentially subjective – and therefore unprovable – states of being.
+Es mag den Anschein haben, dass diese Tugenden in den Bereich ästhetisch positiver Verhaltensweisen fallen sollten, wie z.B. Pünktlichkeit, aber ich habe viel zu viel Respekt vor den traditionellen Tugenden, um sie in die gleiche Kategorie wie soziale Feinheiten einzuordnen. Der Grund dafür, dass sie nicht in die Kategorie universell vorzuziehen sind, liegt darin, dass sich der Rahmen der UPB, wie oben erwähnt, nur mit *Verhalten* befasst, nicht mit Einstellungen, Gedanken, Geisteszuständen oder Emotionen. Die wissenschaftliche Methode kann einen logischen Satz verarbeiten; sie kann weder "Wut" noch "Tollkühnheit" verarbeiten. Diese Gemütszustände sind natürlich nicht unwichtig - sie sind in der Tat essentiell -, aber sie können nicht Teil eines objektiven Systems zur Bewertung ethischer Vorschläge sein, da sie im Wesentlichen subjektive - und damit unbeweisbare - Seinszustände sind.
 
-Thus UPB can only deal with objectively verifiable actions such as murder, assault and so on.
+Die UPB kann sich daher nur mit objektiv nachprüfbaren Handlungen wie Mord, Körperverletzung usw. befassen.

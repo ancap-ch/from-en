@@ -10,11 +10,11 @@ Assim, se eu digo, "Deus existe," o que eu quero realmente dizer é:
 
 Em outras palavras, dizendo "Deus existe", eu criei uma contradição insuperável. Eu defini a "existência" como "não-existência," que faz tanto sentido como a definição de "vida" como "matéria inanimada", ou uma rocha como "o oposto de uma rocha", ou um "quadrado" como um "círculo".
 
-Da mesma forma, se eu criar um universo alternativo onde "existência é igual a não-existência" e "consistência é igual a contradição" e "verdade é igual a falsidade" e "irracionalidade é igual a racionalidade", então o que eu fiz foi criar um reino chamado "erro", coloque tudo o que não é verdade e definido neste Reino como um lugar onde "erro é igual a verdade." [^2]
+Da mesma forma, se eu criar um universo alternativo onde "existência é igual a não-existência" e "consistência é igual a contradição" e "verdade é igual a falsidade" e "irracionalidade é igual a racionalidade", então o que eu fiz foi criar um reino chamado "erro", coloque tudo o que não é verdade e definido neste Reino como um lugar onde "erro é igual a verdade."[^2]
 
 Claro, as pessoas não criam este "universo alternativo" a fim de invalidar a verdade dentro de nosso próprio universo, mas sim para resgatar aquilo que é errôneo, na realidade e chamá-lo de verdade. Por exemplo, ninguém que argumenta que "Deus pode existir em outro universo, então você não pode dizer que Deus não existe" nunca argumenta que *Eu* "pode não existir nesse outro universo, então você não pode afirmar que eu existo aqui."
 
-Eles também tendem a não responder bem ao argumento de que: "Em outro universo, você pode concordar comigo que Deus não existe, então isso faz de você um ateu." [^3]
+Eles também tendem a não responder bem ao argumento de que: "Em outro universo, você pode concordar comigo que Deus não existe, então isso faz de você um ateu."[^3]
 
 Se afirmações válidas sobre a realidade podem ser infinitamente contrariadas porque algum reino imaginário chamado "erro igual a verdade" invalida-as, então o que realmente está sendo dito é "nenhuma afirmação positiva sobre a verdade pode ser valida"-no entanto, somos sábios o suficiente os filósofos agora para saber que esta afirmação é auto-contraditório, uma vez que é uma declaração positiva, considerada ser verdadeira que diz que não há declarações positivas que podem ser verdadeiras. Se nada pode ser verdadeiro ou falso – mesmo essa afirmação – então nenhum tipo de declarações pode ser feita sobre qualquer coisa. Usando palavras, usando o inglês, usando frases compreensíveis – tudo não faz nenhum sentido, desde que, neste "universo alternativo" tais declarações estruturadas podem ser completamente absurdas. Se as coisas que podem ser verdadeiras neste universo alternativo tem um efeito nas demonstrações que fazemos neste universo, então claramente o contrário também é verdade, o que significa que nenhuma declaração já pode ser feita sobre qualquer coisa, desde que o seu oposto pode ser igualmente verdade.
 
@@ -48,7 +48,7 @@ Roubo é moralmente errado, como já vimos acima. É moralmente errado para toda
 
 O que chamamos de "governo" é apenas mais um exemplo desta *zona nula* em que cima é baixo, preto é branco, a verdade é mentira e o mal é bom.
 
-A sociedade progride exatamente no grau em que razão e evidência dão o grande salto do pessoal para o universal e destroem qualquer * zonas nulas* irracionais no caminho. A ciência progride exatamente no grau em que rejeita a irracionalidade de Deus e "absolutos" subjetivos. A medicina progride exatamente ao grau que rejeita a eficácia da oração e rituais vazios e em vez disso, baseia-se na razão e evidência. Filosofia também – e a sociedade humana em geral – vai avançar exatamente no grau em que rejeita o "círculo-quadrado da moral" de estatistas e teorias éticas religiosas.
+A sociedade progride exatamente no grau em que razão e evidência dão o grande salto do pessoal para o universal e destroem qualquer *zonas nulas* irracionais no caminho. A ciência progride exatamente no grau em que rejeita a irracionalidade de Deus e "absolutos" subjetivos. A medicina progride exatamente ao grau que rejeita a eficácia da oração e rituais vazios e em vez disso, baseia-se na razão e evidência. Filosofia também – e a sociedade humana em geral – vai avançar exatamente no grau em que rejeita o "círculo-quadrado da moral" de estatistas e teorias éticas religiosas.
 
 ### Governo
 

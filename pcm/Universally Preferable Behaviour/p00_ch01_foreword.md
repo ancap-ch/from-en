@@ -68,7 +68,7 @@ Dem claims wey too pass ordinary eyes need proofs wey pass ordinary eyes. Say u 
 8. I salute ur intelligence reach to stop from defining words wey be like “reality,” “reason,” “integrity” and so on. We get enough work wey we wan do without say we just reinvent d wheel.
 9. Last last, I believe say any theory – especially d one wey dey fundamental as theory of ethics – dey do shikini good if e just confam wetin evry body don sabi instinctively. I neva use years of my life dey work ontop theory of ethics in order to run around to talk say “murder is wrong.” For my own eyes, d best theories wey beta pass na d ones wey dey verify d truths wey all of us intuitively grab – and den use dose principles to expose d new truths dem wey fit dey completely counter-intuitive. 
 
-I don spend d last few years of my life to dey prepare, train, and den tackle dis beast, I hope say I don acquit maself wit some measure of honour. I believe say I don com out as Oga – though no be all unscathed – and I dey look forward to see person wey dey see wetin I dey see so. [^2]
+I don spend d last few years of my life to dey prepare, train, and den tackle dis beast, I hope say I don acquit maself wit some measure of honour. I believe say I don com out as Oga – though no be all unscathed – and I dey look forward to see person wey dey see wetin I dey see so.[^2]
 
 Na history of philosophy I read for graduate school, and I get Masters degree, but I no get PhD for philosophy. I neva reach dt intellectual wey evry evry sabi. While I no fit be d *most* unlikely champion, I neva reach d most likely. Whether I don make am or not no be u go talk am, and no be me self go talk am.
 

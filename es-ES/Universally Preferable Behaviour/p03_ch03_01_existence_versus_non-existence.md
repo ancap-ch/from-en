@@ -6,15 +6,15 @@ Dios no posee masa o energía, ni muestra los efectos de la masa o la energía: 
 
 Por lo tanto, si digo: "Dios existe", lo que realmente estoy diciendo es:
 
-"* Lo que existe debe ser detectable; Dios no puede ser detectable, pero Dios existe; por lo tanto, existe lo que no existe. * "
+"*Lo que existe debe ser detectable; Dios no puede ser detectable, pero Dios existe; por lo tanto, existe lo que no existe.*"
 
 En otras palabras, al decir "Dios existe", he creado una contradicción insuperable. Definí "existencia" como "inexistencia", que tiene tanto sentido como definir "vida" como "materia inanimada", o una piedra como "lo opuesto a una roca", o "cuadrado" como " circulo."
 
-De forma similar, si creo un universo alternativo donde "la no existencia es igual a la existencia" y "contradicción es igual a consistencia" y "verdad es igual a falsedad" e "irracionalidad es igual a racionalidad", entonces lo que realmente he hecho es crear un reino llamado "error", poner todo lo que no es verdad y definir este reino como un lugar donde "el error es igual a la verdad". [^2]
+De forma similar, si creo un universo alternativo donde "la no existencia es igual a la existencia" y "contradicción es igual a consistencia" y "verdad es igual a falsedad" e "irracionalidad es igual a racionalidad", entonces lo que realmente he hecho es crear un reino llamado "error", poner todo lo que no es verdad y definir este reino como un lugar donde "el error es igual a la verdad".[^2]
 
-Por supuesto, las personas no crean este "universo alternativo" para invalidar la verdad dentro de nuestro propio universo, sino más bien para rescatar lo que es erróneo en la realidad y llamarlo verdadero. Por ejemplo, nadie que argumenta "Dios puede existir en otro universo, así que no se puede afirmar que Dios no exista" puede argumentar que "* Yo * puedo no existir en ese otro universo, por lo que no se puede afirmar que existo aquí "
+Por supuesto, las personas no crean este "universo alternativo" para invalidar la verdad dentro de nuestro propio universo, sino más bien para rescatar lo que es erróneo en la realidad y llamarlo verdadero. Por ejemplo, nadie que argumenta "Dios puede existir en otro universo, así que no se puede afirmar que Dios no exista" puede argumentar que "*Yo* puedo no existir en ese otro universo, por lo que no se puede afirmar que existo aquí "
 
-También tienden a no responder bien al argumento que: "En otro universo, puedes estar de acuerdo conmigo de que Dios no existe, entonces eso te convierte en ateo". [^3]
+También tienden a no responder bien al argumento que: "En otro universo, puedes estar de acuerdo conmigo de que Dios no existe, entonces eso te convierte en ateo".[^3]
 
 Si las declaraciones válidas sobre la realidad pueden oponerse infinitamente porque un reino imaginario llamado "error es igual a verdad" las invalida, entonces lo que realmente se dice es "ninguna declaración positiva sobre la verdad puede ser válida"; sin embargo, ya somos lo suficientemente sabios como filósofos para saber que esta declaración es contradictoria, ya que es una declaración positiva que se considera verdadera y que dice que ninguna declaración positiva puede ser verdadera. Si nada puede ser verdadero o falso, incluso esa declaración, entonces no se puede hacer ninguna declaración sobre nada. Usar palabras, usar el inglés, usar oraciones comprensibles, no tiene ningún sentido, ya que en este "universo alternativo" tales enunciados estructurados pueden ser una completa tontería. Si las cosas que pueden ser ciertas en este universo alternativo tienen un efecto sobre las declaraciones que hacemos en este universo, entonces claramente lo contrario también es cierto, lo que significa que no se pueden hacer declaraciones sobre nada, ya que su opuesto exacto puede ser igualmente cierto.
 
@@ -40,25 +40,25 @@ Si aceptamos CUP, también debemos aceptar el siguiente corolario:
 
 Esto significa que un hombre no puede cambiar su naturaleza moral junto con su vestimenta. El acto de cambiar el uniforme propio no altera la naturaleza fundamental de uno. Por lo tanto, las reglas morales opuestas no pueden ser válidas en función de la ropa que uno lleva puesta.
 
-Los soldados, por supuesto, usan uniformes que son diferentes del ciudadano promedio. El ciudadano promedio tiene prohibido asesinar; los soldados, sin embargo, no solo están * autorizados * a asesinar, sino que * son elogiados moralmente * por matar.
+Los soldados, por supuesto, usan uniformes que son diferentes del ciudadano promedio. El ciudadano promedio tiene prohibido asesinar; los soldados, sin embargo, no solo están *autorizados* a asesinar, sino que *son elogiados moralmente* por matar.
 
 Tomemos otro ejemplo.
 
 El robo es moralmente incorrecto, como hemos visto anteriormente. Es moralmente incorrecto para todas las personas en todas las situaciones en todo momento y bajo cualquier circunstancia. Dado que el robo es la eliminación forzosa de la propiedad de otra persona sin consentimiento, entonces la imposición es siempre, universal y para siempre, un mal moral. La tributación es, por definición, la remoción forzosa de la propiedad de alguien sin su consentimiento, ya que la tributación se basa en el inicio del uso de la fuerza para despojar a un hombre de su propiedad.
 
-Lo que llamamos "el gobierno" no es más que otro ejemplo de esta * zona nula * donde arriba está abajo, el negro es blanco, la verdad es falsedad y el mal es bueno.
+Lo que llamamos "el gobierno" no es más que otro ejemplo de esta *zona nula* donde arriba está abajo, el negro es blanco, la verdad es falsedad y el mal es bueno.
 
-La sociedad progresa exactamente en la medida en que la razón y la evidencia dan el gran salto de lo personal a lo universal, y destruyen cualquiera de las irracionales * zonas nulas * en el camino. La ciencia progresa exactamente a medida en que se rechaza la irracionalidad de Dios y los "absolutos" subjetivos. La medicina progresa exactamente a medida en que se rechaza la eficacia de la plegaria y el ritual vacío, y en cambio se basa en la razón y la evidencia. La filosofía también -y la sociedad humana en general- avanzará exactamente en la medida en que rechace la irracional "moralidad de círculo cuadrado" de las teorías éticas estatistas y religiosas.
+La sociedad progresa exactamente en la medida en que la razón y la evidencia dan el gran salto de lo personal a lo universal, y destruyen cualquiera de las irracionales *zonas nulas* en el camino. La ciencia progresa exactamente a medida en que se rechaza la irracionalidad de Dios y los "absolutos" subjetivos. La medicina progresa exactamente a medida en que se rechaza la eficacia de la plegaria y el ritual vacío, y en cambio se basa en la razón y la evidencia. La filosofía también -y la sociedad humana en general- avanzará exactamente en la medida en que rechace la irracional "moralidad de círculo cuadrado" de las teorías éticas estatistas y religiosas.
 
 ### Gobierno
 
 Decir que el gobierno opera bajo reglas morales opuestas del resto de la sociedad es exactamente lo mismo que decir: "los duendes son inmunes a la gravedad". Antes que nada, los duendes no existen, y una de las formas en que sabemos que no existen es que se afirma que son inmunes a la gravedad. Todo lo que tiene masa está sujeto a la gravedad; lo que es inmune a la gravedad por definición no tiene masa, y por lo tanto no existe. La afirmación "los duendes son inmunes a la gravedad" es una tautología, que solo confirma la inexistencia de duendes; es el equivalente semántico de "lo que no existe, no existe". A es A, la primera ley de la lógica de Aristóteles, hace muy poco para confirmar la existencia de lo que se define como inexistencia.
 
-Del mismo modo, cuando decimos que es moralmente bueno que los soldados asesinen y que los representantes del gobierno roben, sabemos que los "soldados" y los "representantes del gobierno" como categorías morales son * completamente inválidos *.
+Del mismo modo, cuando decimos que es moralmente bueno que los soldados asesinen y que los representantes del gobierno roben, sabemos que los "soldados" y los "representantes del gobierno" como categorías morales son *completamente inválidos*.
 
 Si digo que un círculo cuadrado tiene derecho a robar, simplemente estoy diciendo que lo que no puede existir tiene el derecho de hacer lo que es autocontradictorio, una declaración puramente sin sentido, pero que sigue siendo extrañamente convincente en la "zona nula" "De la política".
 
-Si compro un uniforme de soldado en una tienda de segunda mano y me lo pongo, claramente no he creado un universo alternativo en el que las reglas morales opuestas puedan ser válidas. El momento antes de ponerme el uniforme, estaba mal que yo asesinara, ¿cuándo se vuelve * correcto * que mate? ¿Y cuando me pongo los pantalones? ¿Qué pasa si tengo los pantalones puestos, pero no el chaleco? ¿Qué pasa si solo tengo las botas puestas? ¿Qué pasa si ambas botas las tengo puestas, pero solo una está atada? ¿Qué pasa si mi sombrero está al revés? ¿Qué pasa si me he puesto un uniforme que no es reconocido por la primera persona que me encuentro? ¿Quizá los Beatles tenían el derecho de asesinar cuando les fotografiaron en la portada de "Sergeant Peppers"? ¿Perdieron ese derecho cuando se quitaron las chaquetas?
+Si compro un uniforme de soldado en una tienda de segunda mano y me lo pongo, claramente no he creado un universo alternativo en el que las reglas morales opuestas puedan ser válidas. El momento antes de ponerme el uniforme, estaba mal que yo asesinara, ¿cuándo se vuelve *correcto* que mate? ¿Y cuando me pongo los pantalones? ¿Qué pasa si tengo los pantalones puestos, pero no el chaleco? ¿Qué pasa si solo tengo las botas puestas? ¿Qué pasa si ambas botas las tengo puestas, pero solo una está atada? ¿Qué pasa si mi sombrero está al revés? ¿Qué pasa si me he puesto un uniforme que no es reconocido por la primera persona que me encuentro? ¿Quizá los Beatles tenían el derecho de asesinar cuando les fotografiaron en la portada de "Sergeant Peppers"? ¿Perdieron ese derecho cuando se quitaron las chaquetas?
 
 Formulo estas preguntas retóricas porque de hecho son terriblemente graves. Claramente, un traje militar no cambia la naturaleza de un ser humano, del mismo modo que un corte de pelo lo convierte en un pato, un concepto o un dios.
 
@@ -88,13 +88,13 @@ La fuerza abierta involucrada en la institución del gobierno -el envoltorio con
 
 Sin embargo, esto es una gran tontería.
 
-Si un hombre sostiene un cuchillo en la garganta de una mujer mientras tiene relaciones sexuales con ella, eso es, por definición, un acto de violación. El no puede decir que el sexo es consensual, mientras que al mismo tiempo la amenaza con lesiones o la muerte si se niega a tener relaciones sexuales con él. Si el sexo es voluntario, entonces el cuchillo es completamente innecesario. Si el hombre siente la necesidad de un cuchillo, entonces claramente el sexo * no * es voluntario.
+Si un hombre sostiene un cuchillo en la garganta de una mujer mientras tiene relaciones sexuales con ella, eso es, por definición, un acto de violación. El no puede decir que el sexo es consensual, mientras que al mismo tiempo la amenaza con lesiones o la muerte si se niega a tener relaciones sexuales con él. Si el sexo es voluntario, entonces el cuchillo es completamente innecesario. Si el hombre siente la necesidad de un cuchillo, entonces claramente el sexo *no* es voluntario.
 
 De esa misma forma, las personas dicen que los impuestos son parte del contrato social que voluntariamente han acordado.
 
 Esto es lógica y empíricamente falso.
 
-Sabemos que es empíricamente falso porque * no existe un contrato social *. Ni usted ni yo * alguna vez * firmamos un documento que acepta voluntariamente el impuesto a la renta, simplemente nacimos en un sistema que nos quita nuestro dinero a punta de pistola.
+Sabemos que es empíricamente falso porque *no existe un contrato social*. Ni usted ni yo *alguna vez* firmamos un documento que acepta voluntariamente el impuesto a la renta, simplemente nacimos en un sistema que nos quita nuestro dinero a punta de pistola.
 
 ### El arma en la habitación
 
@@ -110,7 +110,7 @@ La "zona nula" es la guarida de la bestia que cazamos.
 
 Como podemos ver, sabemos que personalmente es un error robar; tenemos muy pocos problemas con una prohibición abstracta y lógica del robo, como hemos resuelto anteriormente; sin embargo, aún existe esta "zona nula" o universo alternativo donde tales oposiciones pueden aceptarse sin ninguna pregunta o preocupación.
 
-Según CUP, es malo para mí y para ti robar. Sin embargo, de alguna manera, en esta "zona nula", no solo está permitido, sino también es perfectamente * moral *, para otros robar. Nosotros * no debemos * robar, ellos * deben * robar. ¡Es una locura moral!
+Según CUP, es malo para mí y para ti robar. Sin embargo, de alguna manera, en esta "zona nula", no solo está permitido, sino también es perfectamente *moral*, para otros robar. Nosotros *no debemos* robar, ellos *deben* robar. ¡Es una locura moral!
 
 ### Policías
 
@@ -120,25 +120,25 @@ Claramente, cuando Bob se despierta por la mañana, antes de su turno, no puede 
 
 Cuando Bob desayuna, tampoco puede atacar a su vecino y llevarse su dinero. En su camino hacia el trabajo, aunque se haya puesto su uniforme, todavía no ha entrado a laborar, y por lo tanto, no tiene más derechos que los otro ciudadano. Sin embargo, cuando entra a trabajar, como si descendiera un pilar de fuego amoral de los mismos cielos, gana la asombrosa habilidad de atacar moralmente a sus vecinos y tomar su dinero.
 
-Extrañamente, esta es la única característica suya que se ha invertido por completo. El no puede volar, no puede cambiar su forma, no puede digerir los aceros de los cojinetes o vivir en un infierno; no puede correr mil kilómetros por hora, y tampoco puede atravesar una pared de ladrillos. Él es absolutamente, total y completamente * el mismo hombre que era ** antes ** de haber entrado a trabajar *; sin embargo, ahora, está sujeto a reglas morales completamente opuestas.
+Extrañamente, esta es la única característica suya que se ha invertido por completo. El no puede volar, no puede cambiar su forma, no puede digerir los aceros de los cojinetes o vivir en un infierno; no puede correr mil kilómetros por hora, y tampoco puede atravesar una pared de ladrillos. Él es absolutamente, total y completamente *el mismo hombre que era* antes *de haber entrado a trabajar*; sin embargo, ahora, está sujeto a reglas morales completamente opuestas.
 
-Aún más extraño, si no soy un "policía", pero sigo a Bob para trabajar, y hago exactamente lo que hace: me pongo un uniforme, entro en la estación de policía y me presento para trabajar como tal - ¿Por qué? Si hago exactamente lo que hace Bob, soy completa y totalmente inmoral, aunque las acciones idénticas de Bob son completa y totalmente * morales *.
+Aún más extraño, si no soy un "policía", pero sigo a Bob para trabajar, y hago exactamente lo que hace: me pongo un uniforme, entro en la estación de policía y me presento para trabajar como tal - ¿Por qué? Si hago exactamente lo que hace Bob, soy completa y totalmente inmoral, aunque las acciones idénticas de Bob son completa y totalmente *morales*.
 
 ¿Qué sentido tiene esto? ¿Cómo podemos desentrañar este misterio impenetrable?
 
-El simple hecho es que * no se puede * revelar, porque todo esto es una completa locura. El hecho de que esta locura moral del "mundo opuesto" sea completamente irracional, por no mencionar violentamente explotadora, es tan obvia que debe ser enterrada en una interminable cabalgata de "voluntarismo" mitológico
+El simple hecho es que *no se puede* revelar, porque todo esto es una completa locura. El hecho de que esta locura moral del "mundo opuesto" sea completamente irracional, por no mencionar violentamente explotadora, es tan obvia que debe ser enterrada en una interminable cabalgata de "voluntarismo" mitológico
 
 Nos están diciendo que "queremos" que Bob se lleve nuestro dinero, lo cual contradice por completo el hecho de que Bob aparece en la puerta de nuestra casa y apunta con una pistola cargada en nuestra cara. Según esta lógica, también puedo ir y venir por la calle robando dinero a mis vecinos, y luego declarar que estoy completamente conmocionado cuando sea arrestado:
 
-"Ellos * quieren * que tome su dinero"
+"Ellos *quieren* que tome su dinero"
 
 "Pero entonces, ¿por qué amenazaste con dispararles si no te daban su dinero?"
 
-"¡Porque ellos me * deben* su dinero!"
+"¡Porque ellos me *deben* su dinero!"
 
 "Pensé que habías dicho que querían darte su dinero"
 
-"No, no, Ellos me lo deben. ¡Realmente es * mi * dinero! "
+"No, no, Ellos me lo deben. ¡Realmente es *mi* dinero! "
 
 "¿Por qué motivo te deben este dinero?"
 
@@ -146,7 +146,7 @@ Nos están diciendo que "queremos" que Bob se lleve nuestro dinero, lo cual cont
 
 "¿Puedes mostrarme este contrato? ¿Han firmado este contrato a voluntad?"
 
-"¡No es ese tipo de contrato! Es un contrato * social *... Y además, de acuerdo con ese contrato social, de todos modos soy dueño de toda la calle, ¡de todo el maldito vecindario de hecho! Cualquiera que se niegue a pagarme mi dinero puede mudarse a otra parte. ¡No estoy forzando a nadie
+"¡No es ese tipo de contrato! Es un contrato *social*... Y además, de acuerdo con ese contrato social, de todos modos soy dueño de toda la calle, ¡de todo el maldito vecindario de hecho! Cualquiera que se niegue a pagarme mi dinero puede mudarse a otra parte. ¡No estoy forzando a nadie
 
 "¿Y cómo sabes que eres dueño de todo el vecindario? ¿Tienes documentos de propiedad?"
 
@@ -154,13 +154,13 @@ Nos están diciendo que "queremos" que Bob se lleve nuestro dinero, lo cual cont
 
 "Bueno, esto es solo una nota escrita a mano que dice que eres el dueño de todo el vecindario, y es la misma escritura que tu firma. Me temo que vamos a tener que guardarlo, este es solo un contrato inventado contigo mismo, y estas infligiendo a otras personas a punta de pistola."
 
-Esto es completamente loco y corrupto, como si yo le dijera a una mujer que la estoy violando y *ella quiere* tener sexo conmigo. ¿Te imaginas si fui juzgado por violación, y había una cinta de video de la mujer rogándome que parara, y tenía un cuchillo en la garganta, cómo se recibiría mi defensa si continuaba insistiendo en que ella realmente * quería * tener sexo conmigo?
+Esto es completamente loco y corrupto, como si yo le dijera a una mujer que la estoy violando y *ella quiere* tener sexo conmigo. ¿Te imaginas si fui juzgado por violación, y había una cinta de video de la mujer rogándome que parara, y tenía un cuchillo en la garganta, cómo se recibiría mi defensa si continuaba insistiendo en que ella realmente *quería* tener sexo conmigo?
 
 En el tribunal, me injuriarían y me meterían a la cárcel por mi hipocresía obvia, loca, corrupta y egoísta.
 
 Ah, pero en la "zona nula" del gobierno, la violación es hacer el amor, el secuestro es una invitación, rechazar el robo es egoísmo malvado, y la coerción es la bondad.
 
-Esto es lo que quiero decir cuando digo que este "mundo opuesto * zona nula *" es la barrera fundamental para la felicidad humana en todo el mundo. Robar es malo para nosotros; robar es incorrecto en abstracto, ¿pero el robo es de alguna manera "correcto" en este insano universo alternativo llamado "gobierno"?
+Esto es lo que quiero decir cuando digo que este "mundo opuesto *zona nula*" es la barrera fundamental para la felicidad humana en todo el mundo. Robar es malo para nosotros; robar es incorrecto en abstracto, ¿pero el robo es de alguna manera "correcto" en este insano universo alternativo llamado "gobierno"?
 
 [^2]: Ni siquiera hemos *comenzado* la pesadilla lógica del valor de verdad que figura en la declaración "el error es igual a la verdad".
 

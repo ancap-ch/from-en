@@ -1,31 +1,31 @@
-## The Forth Test: Fraud
+## Der Vierte Test: Betrug
 
-Right at the edge of what is generally considered ethical sits the challenge of *fraud*.
+Ganz am Rande dessen, was gemeinhin als ethisch angesehen wird, steht die Herausforderung des *Betrugs*.
 
-Fraud is the obtaining of value through false representation. If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
+Betrug ist die Erlangung von Wert durch falsche Darstellung. Wenn ich Ihnen sage, dass ich Ihnen einen iPod schicke, wenn Sie mir zweihundert Dollar geben und dann Ihr Geld nehme, ohne Ihnen den iPod zu schicken, verstehen wir instinktiv, dass das eine Form des Diebstahls ist.
 
-Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
+Lassen Sie uns das Problem der Betrügereien durch die Mühle der UPB schleifen und sehen, was es hält.
 
-Clearly, fraud requires that one person *not* be engaged in fraud. In the above potential transaction, if I am hoping to steal your two hundred dollars, and you are hoping to steal my iPod, nothing will come of it. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
+Offensichtlich erfordert Betrug, dass eine Person *nicht* in Betrug verwickelt ist. In der oben genannten potenziellen Transaktion, wenn ich hoffe, Ihre zweihundert Dollar zu stehlen, und Sie hoffen, meinen iPod zu stehlen, wird nichts daraus werden. Sie verlangen den iPod, bevor Sie die Zahlung leisten, und ich verlange die Zahlung, bevor ich den iPod zur Verfügung stelle. Wir befinden uns in einer Sackgasse und können uns nicht gegenseitig betrügen.
 
-Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
+Damit es zu Betrügereien kommen kann, muss eine Partei in gutem Glauben handeln. Die Person, die Betrug begehen will, verlässt sich also darauf, dass die andere Person *nicht* Betrug begehen will, um sie zu betrügen.
 
-To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
+Um zu unseren glücklosen moralischen Versuchskaninchen zurückzukehren: Was würde passieren, wenn wir Bob und Doug bitten würden, nach dem moralischen Prinzip zu handeln, dass "Betrug gut ist"? Wenn Doug zwanzig Dollar hat, und Bob hat ein Feuerzeug, und Doug bietet Bob zwanzig Dollar für dieses Feuerzeug, und nimmt dann das Feuerzeug, aber gibt Bob nicht die zwanzig Dollar, dann hat Doug auf der Prämisse gehandelt, dass Betrug ist gut.
 
-What happens then?
+Was passiert dann?
 
-Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
+Natürlich kann das Prinzip "Betrug ist gut" nicht gleichzeitig von Doug und Bob angewendet werden - denn um Betrug zu begehen, muss Doug unehrlich handeln, und Bob muss ehrlich handeln. Um Dougs "moralisches" Handeln zu ermöglichen, muss Bob "unmoralisch" handeln.
 
-UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
+Die UPB zerstört diese Möglichkeit, da keine gültige Moraltheorie unter den gleichen Umständen entgegengesetzte Handlungen verlangen kann.
 
-If Doug commits fraud on Bob with the justification that “it is good to lie to get what you want,” then clearly it must also be good to be honest as well, since it is impossible to get what you want by lying unless other people are willing to assume your honesty. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
+Wenn Doug Betrug an Bob mit der Begründung begeht, dass "es gut ist, zu lügen, um das zu bekommen, was man will", dann muss es offensichtlich auch gut sein, auch ehrlich zu sein, denn es ist unmöglich, das zu bekommen, was man will, indem man lügt, es sei denn, andere Leute sind bereit, Ihre Ehrlichkeit anzunehmen. So kann die Prämisse, dass es gut ist, zu lügen, um das zu bekommen, was man will, nicht erreicht werden, wenn andere Menschen nicht integer handeln - so sind Lügen und Ehrlichkeit gleichzeitig Voraussetzung für die Erfüllung des moralischen Prinzips. Es kann logischerweise nicht gelten - dass sowohl eine Handlung *als auch ihr völliges Gegenteil* gleichzeitig moralisch am selben Ort, für dieselben Menschen und zur gleichen Zeit bestehen.
 
-This is how we know that fraud is wrong.
+So wissen wir, dass Betrug falsch ist.
 
-Again, knowing that fraud is “wrong” simply means that we know that any moral theory that justifies fraud is invalid, because it is self-contradictory. If we build a bridge, and the bridge falls down, we know that the bridge was “wrong” – but the most important thing that we can learn from this disaster is not that the bridge fell down, but to understand the flaws in the theory that caused us to build a bridge that fell down. Similarly, moral theories that cause disasters, such as communism, fascism and Nazism, are important to evaluate relative to UPB not only so we can understand how they went so wrong, but also how to fix our moral theories in the future. Since as a species, we will be forever building bridges, it is essential that we get our facts and theories right, or they will endlessly fall down around us.
+Wiederum bedeutet das Wissen, dass Betrug "falsch" ist, einfach, dass wir wissen, dass jede Moraltheorie, die Betrug rechtfertigt, ungültig ist, weil sie sich selbst widerspricht. Wenn wir eine Brücke bauen und die Brücke fällt, wissen wir, dass die Brücke "falsch" war - aber das Wichtigste, was wir aus dieser Katastrophe lernen können, ist nicht, dass die Brücke eingestürzt ist, sondern dass wir die Fehler in der Theorie verstehen, die uns veranlasst haben, eine Brücke zu bauen, die eingestürzt ist. Ebenso sind moralische Theorien, die Katastrophen verursachen, wie Kommunismus, Faschismus und Nationalsozialismus, wichtig, um sie in Bezug auf die UPB zu bewerten, nicht nur, damit wir verstehen können, wie sie so falsch gelaufen sind, sondern auch, wie wir unsere moralischen Theorien in der Zukunft korrigieren können. Da wir als Spezies für immer Brücken bauen werden, ist es unerlässlich, dass wir unsere Fakten und Theorien richtig verstehen, sonst werden sie endlos um uns herum einstürzen.
 
-However, the question remains whether fraud is evil, or just an aesthetically negative action (ANA).
+Es bleibt jedoch die Frage, ob Betrug böse ist oder nur eine ästhetisch negative Handlung (ANA).
 
-Fraud is unusual compared to rape, theft and murder, insofar as it requires that the victim act positively to participate in the process. I can jump up behind you and strangle you without any participation on your part, but I cannot defraud you unless you participate to some degree. Thus fraud falls under the umbrella of “avoidability,” and so is in a fundamentally different category than rape, murder and theft. However, the degree of avoidability partly determines the degree of immorality involved. Sending your bank information to a Nigerian email spammer is certainly avoidable; being cheated by an eBay business with a perfect rating is far less avoidable.
+Betrug ist im Vergleich zu Vergewaltigung, Diebstahl und Mord ungewöhnlich, insofern als er erfordert, dass das Opfer positiv handelt, um am Prozess teilzunehmen. Ich kann hinter euch springen und euch erwürgen, ohne dass ihr daran beteiligt seid, aber ich kann euch nicht betrügen, wenn ihr nicht bis zu einem gewissen Grad daran teilnehmt. So fällt Betrug unter den Begriff "Vermeidbarkeit" und damit in eine grundsätzlich andere Kategorie als Vergewaltigung, Mord und Diebstahl. Der Grad der Vermeidbarkeit bestimmt jedoch zum Teil den Grad der Unmoral. Das Senden Ihrer Bankinformationen an einen nigerianischen E-Mail-Spammer ist sicherlich vermeidbar; von einem eBay-Unternehmen mit einer perfekten Bewertung betrogen zu werden, ist weitaus weniger vermeidbar.
 
-There may be certain situations under which fraud is unavoidable, such as “bartering” for a life-saving medicine when no alternative exists, but that falls under the “grey area” that we have discussed above – these occurrences are so rare that they are to ethics as mutations are to biological species.
+Es kann bestimmte Situationen geben, in denen Betrug unvermeidlich ist, wie z.B. "Tauschhandel" für eine lebensrettende Medizin, wenn es keine Alternative gibt, aber das fällt unter die "Grauzone", die wir oben besprochen haben - diese Vorkommnisse sind so selten, dass sie für die Ethik so selten sind, wie Mutationen für biologische Spezies.

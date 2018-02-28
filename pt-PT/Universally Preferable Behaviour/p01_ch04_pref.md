@@ -4,11 +4,11 @@ Agora que entendemos a natureza dos argumentos auto-destrutivos, podemos passar 
 
 As preferências são fundamentais para qualquer metodologia que pretenda definir o valor da verdade das proposições. O método científico, por exemplo, é amplamente definido por preferências inatas, para a consistência lógica e a verificação empírica. Para a ciência, a premissa é: *se* quiser determinar uma verdade válida sobre o comportamento da matéria e da energia, é *preferível* usar o método científico.
 
-Neste sentido, "preferível" não significa "tipo de melhor", mas sim "obrigatório". *Se* quiser viver, é *universalmente preferível* que se abstenha de comer um punhado de arsénico. *Se* desejar determinar verdades válidas sobre a realidade, é * universalmente preferível* que as suas teorias sejam internamente consistentes e empiricamente verificáveis. "Universalmente preferível", então, traduz-se para "objectivamente necessário", mas manteremos a palavra "preferível" para diferenciar entre absolutos humanos opcionais e absolutos físicos não-opcionais, como a gravidade.
+Neste sentido, "preferível" não significa "tipo de melhor", mas sim "obrigatório". *Se* quiser viver, é *universalmente preferível* que se abstenha de comer um punhado de arsénico. *Se* desejar determinar verdades válidas sobre a realidade, é *universalmente preferível* que as suas teorias sejam internamente consistentes e empiricamente verificáveis. "Universalmente preferível", então, traduz-se para "objectivamente necessário", mas manteremos a palavra "preferível" para diferenciar entre absolutos humanos opcionais e absolutos físicos não-opcionais, como a gravidade.
 
 De igual modo, se as teorias éticas puderem ser válidas, então elas devem ser *pelo menos* interna e externamente consistentes. Por outras palavras, uma teoria ética que se contradiga não pode ser válida - e uma teoria ética que contradiga evidências empíricas e preferências quase universais, também não pode ser válida.
 
-Assim, na ética, como na ciência, na matemática, na engenharia e em todas as outras disciplinas que comparam as teorias com a realidade,* as teorias válidas devem ser logicamente consistentes e empiricamente verificáveis*.
+Assim, na ética, como na ciência, na matemática, na engenharia e em todas as outras disciplinas que comparam as teorias com a realidade*, as teorias válidas devem ser logicamente consistentes e empiricamente verificáveis*.
 
 ### Preferências e Existência
 
@@ -88,7 +88,7 @@ Se eu disser que gosto de sorvete de chocolate, e tu disseres que gostas de baun
 
 Se eu dissesse que o mundo é plano, e tu me apontasses uma arma e atirasses, isso dificilmente, seria um exemplo de um debate produtivo. É certo, o nosso desacordo teria sido "resolvido" - mas só porque, no fim, apenas um de nós teria ficado de pé.
 
-Se me tivesses advertido, antecipadamente, que a tua forma de lidar com qualquer desacordo era atirando, o mais provável é que eu nunca teria aceitado participar num debate contigo. Assim, é evidente que qualquer debate depende da premissa implícita de que a evidência, razão, verdade e objectividade são os métodos de resolução de disputas entre as pessoas *universalmente preferíveis*. Seria completamente ilógico argumentar que as diferenças de opinião deveriam ser resolvidas através do uso da violência - o único argumento consistente para a *importância* da violência é o uso da violência. [^4]
+Se me tivesses advertido, antecipadamente, que a tua forma de lidar com qualquer desacordo era atirando, o mais provável é que eu nunca teria aceitado participar num debate contigo. Assim, é evidente que qualquer debate depende da premissa implícita de que a evidência, razão, verdade e objectividade são os métodos de resolução de disputas entre as pessoas *universalmente preferíveis*. Seria completamente ilógico argumentar que as diferenças de opinião deveriam ser resolvidas através do uso da violência - o único argumento consistente para a *importância* da violência é o uso da violência.[^4]
 
 Então, em essência, debater exige uma metodologia objectiva, através de linguagem significativa, na busca da verdade universal, que é objectivamente preferível ao erro pessoal.
 
