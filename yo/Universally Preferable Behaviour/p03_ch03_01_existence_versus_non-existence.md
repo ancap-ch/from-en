@@ -54,53 +54,53 @@ Ohun ti a n pe ni "ijọba" jẹ àpẹẹrẹ miiran ti agbegbe yii ti o jẹ p
 
 Sísọ wipe ijọba ń ṣíṣe lábẹ́ awọn ilana ilodi ofin iwa ti o yato si ti àwùjọ eniyan yoku jẹ gan gan bi sísọ wipe "nkan kekere ailogbon ni ominira si ijabole". Ni àkọ́kọ́, nkan kekere ailogbon ko si laaye - ati ọkan ninu awọn ọna ti a mọ pe wọn si laaye ni pe wọn ni ominira si iwale. Ohun gbogbo ti o ni ipamo jẹ koko ọrọ ijabole - eyi ti o ni ominira si iwale nipasẹ itumo ko si tẹ́lẹ̀. Ọrọ gbolohun yii "awọn nkan kekere ailogbon ni ominira si iwale" jẹ elo ọrọ kan, eyi ti o jẹri si aiwalaaye nkan kekere ailogbon - o jẹ ibamu deede ti "ohun ti ko wa laaye, ko wa laaye". A jẹ A. Ofin àkọ́kọ́ Aristotle ọlọ́gbọ́n ṣe díè iyebíye lati jẹrisì idi ti a túmọ̀ bi ki ko wa laaye.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+Ni ọna kan naa, ti a ba sọ wipe o jẹ nkan ti o dara fún àwọn ọmọ ogun lati paniyan ati awọn asoju ijọba lati jale, a mọ pe "awọn ọmọ ogun" ati "awọn aṣojú ijọba" bi awọn isori iwa jẹ *eyi ti o wulo*.
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+Ti mo ba sọ wipe ayika onihamerin ni ẹtọ lati jale, mo ń sọ wipe ohun ti ko le wa laaye o ni ẹtọ lati ṣe eyi ti o lodi si - ọrọ àsọtẹ́lẹ̀ ti o tọ, sugbọn ọkan ti o jẹ ohun ti o ni idiwo ni "agbegbe apanirun" ti oselu.
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+Ti mo ba ra aṣọ ọmọ ologun ni ile itaja keji tabi lọdọ oni sọọlẹ, ti o si fi wọ, ni kedere mi o ti ṣe dá aye miiran ti o ni ilodi si awọn ofin iwa ti o wulo. Akọkọ saaju ki ń to wọ aṣọ naa, ko tọ ọ fún mi lati paniyan - nigba wo ni o dara fún mi lati paniyan? Nigba ti mo ba wọ sokoto? E baa jẹ mo ti wọ sokoto, sugbọn kii ṣe aṣọ ẹwu naa? E baa jẹ bata ẹyọ kan nikan ni mo wọ? E baa jẹ mo wọ bata mejeeji, sugbọn ọkan nikan ni mo so? E baa jẹ fila ti mo wọ yi si sẹhin? E baa jẹ mo wọ aṣọ ti ẹni àkọ́kọ́ ti mo ri o daàmọ́? Njẹ awọn akọrin oyinbo ti a n pe orúkọ wọn ni Beatles lojiji ni ẹtọ lati paniyan nigba ti wọn kọ orin fún "awọn sagenti alata"? Ṣé wọn padanu ẹtọ naa nigba ti wọn bọ aṣọ wọn?
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Mo beere awọn ibeere yii nitori wọn jẹ òtítọ́ ti o han. O han kedere, aṣọ ọmọ ologun ko yi iru iwa eniyan pada, díẹ̀ si ju irun gigẹ ti o sọ sinu ọbọ, ero, tabi òrìṣà.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+"Aa",o le sọ, sugbọn aṣọ naa ko jẹ alaile nitori o ri gba ni ọjà sọọlẹ - wiwọ aṣọ ti ọmọ ogun ko si ṣe o ni jagunjagun ju fifo iwe ẹkọ oye kan yoo fún ọ ni PhD ".
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+Asokasi naa jẹ irọ, nitori nini PhD tabi ṣíṣe ayẹwo iwe oye kan ko yi eyikeyi ilana ofin iwa ti ẹ wa lábẹ́ rẹ gẹgẹbi ẹda eniyan.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+" Daradara ", o le dahun pe," sugbọn iyato ni wipe awọn ọmọ ogun ni ẹtọ iwa rere ti a pese fún nipasẹ awọn ọmọ ilu, nitori apanijaja ara ẹni ati bẹbẹlọ".
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Eyi mu opin ti o tayọ pupọ, eyi ti o jẹ ibeere boya awọn ero le yi ayidayida pada.
 
-### Opinions And Reality
+### Ero Ati Òtítọ́ Aye
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Ni òtítọ́ ti o han kedere, o ye wa wipe nipa ero mi, mi o le gba ọ laaye lati inu idiwo agbara iwale, díè sii julọ ninu ero mi wipe" afikun meji mọ meji yo dọ́gba fún wa ni maarun " eyi ti o jẹ ki o jẹ òtítọ́.
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+"Awọn ero" ni awọn igbagbo ti ko ni ẹri ti o daju ni òtítọ́ laaye, tabi fun eyi ti a ko le fún àwọn ẹri ti o daju, tabi eyi ti o jẹ ọrọ ti ohun ifẹ ọkan eyan. Ero ti ara mi ni wipe mo fẹ́ràn ipara oyinbo sokoleti si fanila - mo tún le ni "ero" pe iru ilu Iceland jẹ ọrun rere, tabi pe Ọlọhun wa, tabi pe ojo n rọ soke. Awọn ero ti ara ẹni ko ni nkan ṣe pẹlu ofin iwa ; awọn ero ti o ni pín lati sapejuwe òtítọ́, sugbọn ti ko ṣe, jẹ awọn ẹtan ki ko ṣe o tọ. Gbigbagbo pe ojo n rọ soke ko ni yika rẹ pada ; wiwọ ẹwu ilu Hawahi si ti ilu Iceland ko ṣe Reykjavik eyikeyi igbona.
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+Bayii gbigbagbo pe ipaniyan jẹ iwa isesi ko ṣe apaniyan ni iwa ti o dara. Niwọn ti igbagbọ mi nipa awa eniyan ko yipada iwa rere rẹ, igbagbọ mi pe awọn ipaniyan rẹ jẹ ologbon ti ko ni iyipada awọn iwa rere ti ilana rẹ. Ti mo ba di oju mi ati pe ki ń si ronu pe o jẹ alangba, o kọ lojiji padanu agbara rẹ lati ṣe atunse ara rẹ fún otutu. Riro pe o jẹ ẹja ko ṣe pasẹ rẹ nilo fún idekuro.
 
-Opinions do not change reality.
+Awọn ero ko yi òtítọ́ pada.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Nitori awọn ero ko yi ayidayida pada, emi ko le fún ọ ni eyikeyi iyasoto paato tabi iyipada ti o ni iye si ofin iwa ihuwasi ti gbogbo agbaye. Niwọn igba ti awọn ofin iwa da lori imọran gbogbo, bakan naa si iseda ati ara òtítọ́ ti awa eniyan, emi ko le fún ọ ni "ẹtọ lati paniyan," díẹ̀ si mo le fún ọ ni agbara lati ṣe iyooda, rín lori omi tabi ko sọ wipe meji ati meji yo fún ọ ni maarun.
 
-### Government As Voluntarism
+### Ijọba gẹgẹbi iyooda
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+Agbara ifarahan ti o nípa ninu ile ẹkọ ti ijọba - ohun ti o ni imọ ọrọ ti o ba awọn ilana iwa ofin pada fún ẹgbẹ́ kan ti awọn eniyan - jẹ nkan ti a fi pamọ ni tabili itakuroso. Nigba ti o ba n sọ̀rọ̀ nipa ijọba, a ko ka ni ohun rere lati sọ pe "ìbọn ni yara". Nipasẹ ìtumọ̀, awọn ijọba ni a mọ pe wọn yọ wọn nipasẹ awọn eniyan àti fún àwọn eniyan, ati lati ṣíṣe pẹlu ifowosi wọn tabi ilodi igbala.
 
-However, this is pure nonsense.
+Sibẹsibẹ, eleyii jẹ ọrọ isokuso alaimo.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Ti arakunrin ba mu ọbẹ̀ si ọfun arabinrin nigba ti o ba ni ibalopọ pẹlu rẹ, ìyẹn túmọ̀ si iwa ifipabanilopo. Ko le sọ wipe ibalopọ naa jẹ ajoso wọn, lakoko kan naa deruba pẹlu ipalara tabi iku ti o ba kọ lati ni ibalopọ pẹlu rẹ. Ti ibalopọ naa ba jẹ atinuwa, lehinna ọbẹ̀ naa jẹ iyi ti o ṣe dandan. Ti arakunrin naa ba ni imọran nilo fún ọbẹ̀, lehinna lododo ibalopọ naa *kii* ṣe atinuwa.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+Ni ọna kan naa, awọn eyan sọ wipe owo ori jẹ apakan ninu adehun àwùjọ ti wọn ti fi ara wọn ṣe adehun si.
 
-This is both logically and empirically false.
+Eyi jẹ òtítọ́ ati irọ lapaapọ.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+A mọ pe o jẹ irọ nla nitori ko si adehun awujo ti o wa laaye. Bẹni ìwọ tabi emi fi ami si iwe ti o fi ara rẹ gba owo ori - a bi wa sinu eto ti o gba owo wa lọwọ wa ni asiko aaye ti ìbọn.
 
-### The Gun In The Room
+### Awọn ìbọn Ninu Yara
 
-Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+Awọn ọpọlọpọ eyan yoo jiyan ni asiko yi pe owo ori ko ṣe idasile ni ibi ti ìbọn, sugbọn pe ki awọn eniyan sanwo fún ara wọn laisi idiwo. Fún àpẹẹrẹ, mi o ti ri ti wọn fi oju ìbọn kán mi nipasẹ agbowo ori tabi Ọlọpa, sugbọn mo ti san owo ori fún ọpọlọpọ ọdun.
 
-This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+Eleyi le jẹ òtítọ́, sugbọn ko ṣe pataki. Ti mo ba sọ fún arabinrin kan pe mo má pá awọn ọmọ rẹ ti ko ba ni ibalopọ pẹlu mi, ati pe o dẹ fi ara rẹ lẹ fún mi, a mọ pe iwa aisedeedee kan ti waye - bi o tile jẹ pe mi o lo ohun ija kan kan fún àise mi. O han kedere, ti arabinrin naa ba tẹrí ba fún mi, o jẹ nitori pe o bẹru pe emi yoo gbe irokuro mi jade. Ti mo ba sọ fún ọ pe ọdọ ọ̀sìn mi ohun kekere alailemi yoo pa awọn ọmọ rẹ ti ko ba ni ibalopọ pẹlu mi, o le ni ibanuje, sugbọn ko ni bẹru ijiya mi ni ọna pataki, nigba ti ko seese fún òsì mi nkan kekere alailemi lati pa awọn ọmọ rẹ. Tabi, ti mo ba ku, ati ifẹ mi sọ wipe mo mà pa awọn ọmọ obinrin children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
 
 To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
 
