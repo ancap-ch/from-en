@@ -44,7 +44,7 @@ Kapag hindi ko nabayaran ang lalaking ito, magpaparating pa siya ng isa pang lal
 
 Kalimitan, kung ang isang lalaki na mayroong isang baril ay napadpad sa aking tahanan at hinihingi ang aking salapi, ako ay mayroong marapat na gumamit ng aking lakas para magtanggol sa aking sarili. Sa kalagayang kong ito, ganoon paman, dahilan sa siya ay nasa isang kasuutan at nang-aangkin sa puwestong piniprisinta sa isang gawa-gawang naisasaisip ng entidad, ako ay hindi sumasang-ayon na gamitin ang aking lakas para maipagtanggol ang aking sarili.
 
-Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
+Ngayon, ngayon kung ako ay papadpad patungo sa iyong tahanan ngayong gabi na nakabihis na isang "dakilang duwende ng narnia" at hingiin ang salaping iyong hiniram sa "reyna ng mga kalumbaya," sa pagkaakala ito ay hindi halloween, ikaw ay pinahihintulutang ko na tumitig sa akin upang ako ay hangaan at hingiin ko ang mula sa iyong mga ari-arian.
 
 If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
 
