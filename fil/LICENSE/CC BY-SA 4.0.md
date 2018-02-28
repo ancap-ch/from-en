@@ -154,11 +154,11 @@ d. Mga Seksyon 1, 5, 6, 7, at 8 makaligtas sa pagwawakas ng Pampublikong Lisensy
 
 ### Seksyon 7 – Iba Pang Mga Tuntunin at Kundisyon.
 
-a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
+a. Ang Tagapaglisensya ay hindi dapat masakop ng anumang karagdagang o iba't ibang mga tuntunin o kundisyon na ipinakikipag-ugnayan sa Iyo maliban kung tahasang sumang-ayon.
 
-b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.t stated herein are separate from and independent of the terms and conditions of this Public License.
+b. Anumang mga pagsasaayos, pag-unawa, o mga kasunduan tungkol sa Lisensyadong Materyal na hindi nakasaad dito ay hiwalay mula sa at malaya sa mga tuntunin at kundisyon ng Pampublikong Lisensya na ito na nakasaad dito ay hiwalay sa at independiyente ng mga tuntunin at kundisyon ng Pampublikong Lisensya na ito.
 
-### Section 8 – Interpretation.
+### Seksyon 8 – Pagpapaliwanag.
 
 a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
 
