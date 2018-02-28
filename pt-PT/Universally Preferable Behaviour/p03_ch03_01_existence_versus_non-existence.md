@@ -118,7 +118,7 @@ Deixe-nos tirar o nosso bom amigo Bob da sua pequena sala de testes de teoria mo
 
 Quando Bob acorda pela manhã, antes do seu turno, ele não pode ir à casa do seu vizinho e exigir dinheiro a ponta de pistola, não importa quem lhe diga que isso é correcto.
 
-Quando Bob toma o seu café da manhã, também não pode atacar o seu vizinho e tomar o seu dinheiro. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+Quando Bob toma o seu café da manhã, também não pode atacar o seu vizinho e tomar o seu dinheiro. Quando se dirige para o trabalho - mesmo que tenha vestido o seu uniforme - não bate em ninguém e, portanto, não tem mais direitos do que qualquer outro cidadão. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
 
 Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
 
