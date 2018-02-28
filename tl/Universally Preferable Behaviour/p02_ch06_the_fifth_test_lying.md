@@ -14,15 +14,15 @@ Halimbawa:
 
 **Bob:** Oo.
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**Doug:** Kaya ang pagsisinungaling ay dapat na masama, dahil ikaw ay nagsisinungaling tungkol sa pagiging mabuti nito.
 
-Or:
+O:
 
-**Bob:** Lying is always good.
+**Bob:** Ang pagsisinungaling ay laging mabuti.
 
-**Doug:** Are you lying?
+**Doug:** Nagsisinungaling ka ba?
 
-**Bob:** No.
+**Bob:** Hindi.
 
 **Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
 
