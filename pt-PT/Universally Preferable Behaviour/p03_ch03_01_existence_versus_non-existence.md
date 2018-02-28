@@ -120,7 +120,7 @@ Quando Bob acorda pela manhã, antes do seu turno, ele não pode ir à casa do s
 
 Quando Bob toma o seu café da manhã, também não pode atacar o seu vizinho e tomar o seu dinheiro. Quando se dirige para o trabalho - mesmo que tenha vestido o seu uniforme - não bate em ninguém e, portanto, não tem mais direitos do que qualquer outro cidadão. Agora, quando ele golpeia, como uma pira de fogo imoral que descesse dos céus, adquire a incrível habilidade de, moralmente, atacar os seus vizinhos e tomar o seu dinheiro.
 
-Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
+Estranhamente, essa é a sua única característica que se reverteu completamente. Ele não pode voar, não pode mudar a sua forma, não consegue digerir com sucesso esferas rolantes, ou viver num inferno; ele não pode correr mil quilómetros por hora e tampouco pode atravessar uma parede de tijolos. Ele é absolutamente, totalmente e completamente *o mesmo homem que era **antes** ele deu um soco* - agora, está sujeito a regras morais completamente opostas.
 
 Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
 
