@@ -1,4 +1,4 @@
-### Governments And Religion
+### Relihiyon at pamahalaan
 
 Ang ideya ng maipanganak ay bumubo ng isang kontrata sa isang kathang-isip na ahensya, na sa praktikal na termino ay ginagawa kang tila-alipin sa ispesipikong mga indibidwal, na karaniwan parehas sa relihiyon at estado - at sa isa't isa, mas higit na personal na ahensya, na aking tinalakay sa aking unang aklat "Sa katotohanan: Ang Paniniil ng Ilusyon."
 
@@ -56,7 +56,7 @@ Einstein revolutionised physics by claiming – and proving – that the speed o
 
 We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
 
-### Government, Religion, And UPB
+### UPB pamahalaan, at relihiyon,
 
 When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
 
