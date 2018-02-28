@@ -146,7 +146,7 @@ b. Kung saan ang iyong karapatang gamitin ang Materyal na Lisensya ay tinapos sa
 
 2. sa pagpapahayag ng muling pagbibigay ng Tagapaglisensya.
     
-    For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+    Para sa pag-iwas sa pagdududa, itong Seksyon 6(b) ay hindi nakakaapekto sa anumang karapatan na maaaring kailanganin ng Tagapaglisensya na humingi ng mga remedyo para sa Iyong mga paglabag sa Pampublikong Lisensya.
 
 c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
 
