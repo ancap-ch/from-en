@@ -66,8 +66,8 @@ Ang pamamaraan para sa paghusga at pagpaptunay ng *moral* na teorya ay eksaktong
 
 Ang unang tanong patungkol sa mga panuntunan ng moral ay: *ano* sila?
 
-Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
+Ipalagay lamang, *mga moral* ay isang set ng mga panuntunan na ipinapahayag na tumpak at palagiang kumikilala na unibersal na kanais-nais na mga pag-uugali ng tao, tulad ng ang *pisika* ay isang set ng mga panuntunan na ipinapahayag na tumpak at palagiang kumikilala sa unibersal na pag-uugali ng bagay.
 
-The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+Ang ikalawang tanong na dapat tanungin ay: mayroon bang anumang gayong bagay na tulad ng "unibersal na kanais-nais na pag-uugali" sa anumang paraan? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
 
 [^6]: In physics, the question is: either universal physical rules are valid, or they are not.
