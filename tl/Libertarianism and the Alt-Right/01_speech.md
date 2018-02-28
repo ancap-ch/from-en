@@ -51,10 +51,10 @@ At saka, Tulad ng isang libertarian order ay dapat palaging bantayan laban "masa
 
 Gamit ang mga "raytista" o bilang nais ko, ang mga kumplikadong pamantayang kaalaman sa isip ko ngayon sa mas mahirap na tanong kung paano lumipat mula rito, ang *katayuan quo*, doon. At para sa mga ito ay maaaring maging may ituturo upang unang isaalang-alang ang sagot na naibigay ng liberallala, ang kapayapaan-pag-ibig-at-kalayaan, ang Friede-Freude-Eierkuchen o ang kapitalismo-ay-pag-ibig sa libertalismo. Ito ay nagpapakita ng parehong pangunahing egalitarianism, kung sa isang bahagyang iba't ibang anyo, bilang ipinakita rin ng mamuhay-at-tirahan ng mga libertalismo. Mga ito, tulad ng sinisikap kong ipakilala, ay tukuyin kung ano ang maaari namin tawagin ang "masamang problema sa kapwa" - at kung ano ang isang maikling-kamay lamang para sa pangkalahating problema na ibinabanta sa pamamagitan ng magkakasamang pagkakaiba, dayuhan, kapwang gumambala nakakainis, kakaiba o kultura ng masama - sa labas lamang. At sa katunayan, kung mag-akala, laban sa lahat ng mula sa obserbasyon na katibayan, na ang lahat ng mga tao, kahit saan, ay mahalagang magkapareho, kung gayon, sa pamamagitan ng kahulugan, walang ganoong bagay bilang isang umiiral ang "masamang problema sa kapwa".
 
-Ang parehong makapantay, o bilang ng liberallala-libertaryanismo sa kanilang sariling ginusto na tawag na ito, ang "makatao" na espiritu ay dumating ang kanilang tugon, sa tanong ng isang libertalismo *diskarte*. Sa maikling salita, ang payo nila ay ito: maging maganda at saka makipag-usap sa lahat - at pagkatapos, sa katagalan, ang mas mahusay na mga libertalismo na argumento ay magtagumpay. To illustrate, take my former-friend-turned-foe Jeffrey Tucker’s five “Don’ts When Talking Liberty.” They are:
+Ang parehong makapantay, o bilang ng liberallala-libertaryanismo sa kanilang sariling ginusto na tawag na ito, ang "makatao" na espiritu ay dumating ang kanilang tugon, sa tanong ng isang libertalismo *diskarte*. Sa maikling salita, ang payo nila ay ito: maging maganda at saka makipag-usap sa lahat - at pagkatapos, sa katagalan, ang mas mahusay na mga libertalismo na argumento ay magtagumpay. Upang ilarawan, dalhin ang aking dating kaibigan na naka-laban ni Jeffrey Tucker ng limang "Huwag Magkakausap ng Kalayaan." Ang mga ito ay:
 
-1. don’t be belligerent;
-2. don’t presume hatred of liberty; 
+1. huwag ka magalit;
+2. huwag pagsamantalahan ang poot ng kalayaan; 
 3. don’t presume different goals;
 4. don’t presume ignorance;
 5. don’t regard anyone as an enemy.”
