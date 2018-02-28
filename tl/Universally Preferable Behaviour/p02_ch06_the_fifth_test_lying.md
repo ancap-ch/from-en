@@ -4,15 +4,15 @@ Ang tanong ng *pagsisinungaling* ay interesante dahil ang pagsasabi ng totoo ay 
 
 Sa pangkalahatan ay itinuring itong *mas* isang mahigpit na kinakailangan kaysa sa "pagiging nasa oras," ngunit *hindi masyadong* istrikto kaysa "pagnanakaw." Ano ang sinasabi ng balangkas ng UPB tungkol dito?
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+Sa likas na katangian, ang anumang teorya ng moral na nagmumungkahi na ang "pagsisinungaling ay mabuti" ay kaagad na sariling sasabog, dahil kung ang tao na nagmumungkahi nito *ay* nagsisinungaling – na kung saan ay mabuti – kung gayon ang pagsisinungaling ay masama, sapagkat sinabi sa kanya ang katotohanan na ang pagsisinungaling ay masama.
 
-For instance:
+Halimbawa:
 
-**Bob:** Lying is always good.
+**Bob:** Ang pagsisinungaling ay laging mabuti.
 
-**Doug:** Are you lying?
+**Doug:** Nagsisinungaling ka ba?
 
-**Bob:** Yes.
+**Bob:** Oo.
 
 **Doug:** So lying must be bad, since you are lying about it being good.
 
