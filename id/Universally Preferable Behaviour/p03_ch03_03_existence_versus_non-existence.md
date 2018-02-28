@@ -62,23 +62,23 @@ Ketika kita mengambil kerangka UPB dan menerapkannya pada proposisi moral mengen
 
 Proposisi yang paling sering digunakan untuk membenarkan kekuasaan pemerintah adalah: "pemerintah berhak mengambil uang anda." Namun, ini adalah pernyataan yang benar-benar tidak tepat dan salah. "Pemerintah" tidak memiliki hak untuk mengambil uang anda, karena "pemerintah" hanyalah sebuah konsep, deskripsi abstrak untuk kelompok orang yang ditentukan sendiri. UPB membutuhkan pernyataan yang lebih konsisten dan obyektif. Karena peraturan moral harus sama untuk setiap orang di semua tempat dan setiap saat, kita harus mengulang kembali peraturan tersebut dengan cara ini:
 
-"Manusia secara moral bisa mengambil uang dari manusia lain jika mereka membentuk sebuah agensi konseptual yang membenarkan tindakan mereka*".
+“*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
 
-Jika kita kembali ke Bob dan Doug di ruang eksperimen moral kita yang kecil, kita dapat dengan cepat melihat bahwa ini menjadi proposisi yang tidak mungkin.
+If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
 
-Jika Bob berkata kepada Doug: "Saya sekarang mewakili konsep ideal 'FUBAR,' yang sepenuhnya membenarkan saya untuk mengambil korek anda dari anda. Karena sekarang anda berutang korek kepada anda, Anda harus menyerahkannya, atau saya akan terpaksa mengambilnya dari anda dengan paksa. "
+If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
 
-Apa reaksi Doug? Ingat, menurut UPB, apapun yang berlaku untuk Bob juga harus berlaku untuk Doug. Tak pelak, Doug akan menjawab: "Oh ya? Nah * saya * sekarang mewakili konsep ideal 'ANTI-FUBAR,' yang sepenuhnya membenarkan saya mempertahankan kepemilikan korek saya. Karena anda sekarang tidak punya hak untuk mengambil korek saya, jika anda mencoba untuk mengambilnya, saya akan dipaksa untuk membela diri dengan paksa. "
+What will Doug’s reaction be? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
 
-Seperti yang bisa anda ketahui, jika * Bob * memiliki hak untuk membuat kewajiban imajiner dan memaksakannya pada Doug, maka *Doug* memiliki hak untuk membuat kewajiban imajiner dan memaksakannya pada Bob. Jelas, kita langsung berakhir dengan jalan buntu yang sempurna. Jika secara moral baik untuk memaksakan kewajiban yang harus dilakukan pada orang lain, tapi tidak mungkin melakukannya jika semua orang memiliki kemampuan itu, maka moralitas menjadi tidak mungkin. Satu-satunya cara agar Bob dapat memaksakan kewajibannya pada Doug adalah jika Doug menolak untuk memaksakan kewajibannya terhadap Bob. Oleh karena itu, kita memiliki situasi di mana apa yang moral untuk satu orang hanya dapat dicapai oleh orang lain yang bertindak dalam sikap anti-moral. Kebaikan hanya bisa diaktifkan oleh wakil, yang tidak mungkin dan kita telah menentang peraturan moral untuk dua manusia dalam situasi yang sama, yang langsung ditolak UPB sebagai tidak sah.
+As you can see, if *Bob* has the right to make up imaginary obligations and impose them on Doug, then *Doug* has the right to make up imaginary obligations and impose them on Bob. Clearly, we immediately end up in a perfect stalemate. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Virtue can thus only be enabled by vice, which is impossible – and we have opposing moral rules for two human beings in the same circumstance, which UPB instantly rejects as invalid.
 
-Dengan kata lain, setiap pembenaran abstrak imajiner untuk penggunaan kekuatan dapat diimbangi oleh pembenaran abstrak imajiner lain untuk penggunaan kekuatan. Jika saya memiliki teman imajiner yang bisa membenarkan semua yang saya lakukan, maka anda juga bisa memiliki teman imajiner yang bisa membenarkan semua hal yang anda lakukan. Dengan demikian, tak satu pun dari kita dapat memiliki kemampuan untuk memaksakan kewajiban imajiner kita kepada orang lain.
+In other words, every imaginary abstract justification for the use of force can be countered by another imaginary abstract justification for the use of force. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Thus neither of us can possess the ability to impose our imaginary obligations on others.
 
-#### Agama dan UPB
+#### Religion And UPB
 
-Hal yang sama berlaku untuk agama.
+The same holds true for religion.
 
-Pernyataan: "Anda harus mematuhi saya karena Tuhan memerintahkannya," harus dinyatakan kembali dengan lebih akurat seperti: "entitas yang telah saya buat memerintahkan anda untuk menaati saya". Prinsip yang dibutuhkan oleh UPB adalah: "Manusia harus memaksakan kewajiban positif yang tidak siap pada orang lain, dan membenarkan kewajiban tersebut sesuai dengan entitas imajiner".
+The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
 
 Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
 
