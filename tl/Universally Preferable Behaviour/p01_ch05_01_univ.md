@@ -56,15 +56,15 @@ Tulad ng nabanggit sa itaas, ang siyentipikong pamamaraan ay mahalagang isang pa
 
 Isang karagdagang aspeto ng siyentipikong pamamaraan ay ang paniniwala na, yamang ang bagay ay binubuo ng mga kombinasyon ng mga atom na may pangkaraniwan, matatag at mahuhulaang mga katangian, ang gawi ng bagay ay dapat ding pangkaraniwan, matatag at mahuhulaan. Kaya ang mga eksperimento ay dapat *maaaring gayahin* sa iba't ibang mga lokasyon at oras. Hindi ko masasabi na ang teorya ng aking "batong lumulutang" ay tama para lamang sa isang partikular na bato, o sa araw na sinubukan ko ito, o sa iisang lokasyon. Ang aking mga teorya ay dapat naglalarawan ng gawi ng *bagay*, na kung saan ay unibersal, karaniwan, matatag at mahuhulaan.
 
-Sa wakas, mayroong isang pangkalahatang tinanggap na panuntunan – kung minsan ay tinatawag na Occam's Razor –na nagsasaad na, nang anumang dalawang teorya na may parehong mahuhulaang kakayahan, ang mas simple sa dalawa ang kanais-nais. Bago ang rebolusyong Copernican, nang ang mundo ay tinuring na sentro ng sansinukob, ang pabago-bagong paggalaw ng Mars nang ang mundo ay dumaan dito sa orbito sa paligid ng araw ay nagdulot ng malaking mga problema sa Ptolemaic na sistema ng astronomikal na mga kalkulasyon. “Circles within circles” multiplied enormously, which were all cleared away by simply placing the sun at the centre of the solar system and accepting the elliptical nature of planetary orbits.
+Sa wakas, mayroong isang pangkalahatang tinanggap na panuntunan – kung minsan ay tinatawag na Occam's Razor –na nagsasaad na, nang anumang dalawang teorya na may parehong mahuhulaang kakayahan, ang mas simple sa dalawa ang kanais-nais. Bago ang rebolusyong Copernican, nang ang mundo ay tinuring na sentro ng sansinukob, ang pabago-bagong paggalaw ng Mars nang ang mundo ay dumaan dito sa orbito sa paligid ng araw ay nagdulot ng malaking mga problema sa Ptolemaic na sistema ng astronomikal na mga kalkulasyon. "Mga bilog sa loob ng mga bilog" pinarami ng husto, na lahat ay inalis sa pamamagitan lamang ng paglalagay ng araw sa sentro ng solar system at pagtanggap ng elliptical na likas na katangian ng planetary orbit.
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+Kaya ang anumang balidong teorya ng siyensiya ay dapat na (a) unibersal (b) lohikal (c) empirikal na napapatunayan (d) maaaring kopyahin at (e) na simple hangga't maaari.
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+Ang pamamaraan para sa paghusga at pagpaptunay ng *moral* na teorya ay eksaktong kapareho gaya ng pamamaraan para sa paghusga at pagpapatunay ng anumang ibang teorya.
 
-#### Moral Rules: A Definition
+#### Mga Panuntunan ng Moral: Isang Depinisyon
 
-The first question regarding moral rules is: *what* are they?
+Ang unang tanong patungkol sa mga panuntunan ng moral ay: *ano* sila?
 
 Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
 
