@@ -126,11 +126,11 @@ Ainda mais estranhamente, se eu não sou "polícia", mas sigo Bob até ao trabal
 
 Como é que isso faz sentido? Como podemos, concebivelmente, desvendar esse mistério impenetrável?
 
-O facto é que ele *não pode* ser desvendado, porque, simplesmente, está completamente perturbado. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+O facto é que ele *não pode* ser desvendado, porque, simplesmente, está completamente perturbado. O facto de que essa loucura moral do "mundo oposto" é completamente irracional - para não dizer violentamente explosiva - é tão óbvio que deve ser encerrado numa cavalgada infinita de "voluntariado" mitológico
 
-We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
+Somos informados de que "queremos" que Bob tome o nosso dinheiro - o que contradiz completamente o facto de que Bob aparece na nossa porta apontando uma arma carregada, à nossa cara. Por esta lógica, eu também posso subir e descer a rua roubando o dinheiro dos meus vizinhos e depois, quando for preso, alegando estar totalmente chocado, dizer:
 
-“They *want* me to take their money!”
+"Eles *querem* que eu tome o seu dinheiro!"
 
 “But then why were you threatening to shoot them if they did not give you their money?”
 
